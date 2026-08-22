@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-01 02:08:25
+document_datetime: 2026-08-21 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/veoza.html
 document_name: veoza.html
 version: success
-processing_time: 0.1020149
-conversion_datetime: 2026-05-01 12:34:59.911592
+processing_time: 0.1578917
+conversion_datetime: 2026-08-22 22:43:12.442898
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Veoza
 
@@ -55,23 +55,23 @@ Expand section
 
 Collapse section
 
-## How is Veoza used?
+### How is Veoza used?
 
 Veoza is available as tablets to be taken by mouth once a day. The medicine can only be obtained with a prescription.
 
 For more information about using Veoza, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Veoza work?
+### How does Veoza work?
 
 Before menopause, there is a balance between oestrogen hormones and a protein called neurokinin B which regulates the brain's temperature control centre. As the body goes through menopause, oestrogen levels decline and this balance is disrupted, which can lead to vasomotor symptoms.
 
 The active substance in Veoza, fezolinetant, blocks neurokinin B from attaching to its targets in the brain, thereby reducing the number and intensity of hot flushes and night sweats.
 
-## What benefits of Veoza have been shown in studies?
+### What benefits of Veoza have been shown in studies?
 
 Two main studies involving over 1,000 women showed that Veoza is effective at reducing the number and severity of hot flushes associated with menopause. After 4 weeks of treatment, the number of moderate to severe daily hot flushes was reduced on average by 53% in women taking Veoza 45 mg, compared with a reduction of 32% in women given placebo (a dummy treatment). After 12 weeks of treatment, the average reduction was 63% for women taking Veoza 45 mg, and 40% for women on placebo. The severity of hot flushes was also reduced in women taking Veoza, compared with women on placebo.
 
-## What are the risks associated with Veoza?
+### What are the risks associated with Veoza?
 
 For the full list of side effects and restrictions with Veoza, see the package leaflet.
 
@@ -79,19 +79,19 @@ The most common side effects with Veoza (which may affect up to 1 in 10 people) 
 
 Veoza must not be used together with moderate or strong 'CYP1A2 inhibitor medicines' as these may reduce the breakdown of Veoza in the body and increase the risk of side effects; it must also not be used during pregnancy or if pregnancy is suspected.
 
-## Why is Veoza authorised in the EU?
+### Why is Veoza authorised in the EU?
 
 Veoza was shown to be effective at reducing the frequency and severity of hot flushes associated with menopause; the medicine is well-tolerated with an acceptable safety profile.
 
 The European Medicines Agency therefore decided that Veoza's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Veoza?
+### What measures are being taken to ensure the safe and effective use of Veoza?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Veoza have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Veoza are continuously monitored. Suspected side effects reported with Veoza are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Veoza
+### Other information about Veoza
 
 Veoza received a marketing authorisation valid throughout the EU on 7 December 2023.
 
@@ -105,7 +105,7 @@ English (EN) (117.21 KB - PDF)
 
 [View](/en/documents/overview/veoza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-503)
+[Other languages (22)](#file-language-dropdown-323)
 
 български (BG) (141.05 KB - PDF)
 
@@ -137,7 +137,7 @@ Deutsch (DE) (119.91 KB - PDF)
 
 [View](/de/documents/overview/veoza-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (116.2 KB - PDF)
+eesti (ET) (116.2 KB - PDF)
 
 **First published:** 20/12/2023
 
@@ -167,13 +167,13 @@ italiano (IT) (117.01 KB - PDF)
 
 [View](/it/documents/overview/veoza-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (145.72 KB - PDF)
+latviešu (LV) (145.72 KB - PDF)
 
 **First published:** 20/12/2023
 
 [View](/lv/documents/overview/veoza-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (139.12 KB - PDF)
+lietuvių (LT) (139.12 KB - PDF)
 
 **First published:** 20/12/2023
 
@@ -227,7 +227,7 @@ slovenščina (SL) (136.57 KB - PDF)
 
 [View](/sl/documents/overview/veoza-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (115.32 KB - PDF)
+suomi (FI) (115.32 KB - PDF)
 
 **First published:** 20/12/2023
 
@@ -239,6 +239,14 @@ svenska (SV) (116.02 KB - PDF)
 
 [View](/sv/documents/overview/veoza-epar-medicine-overview_sv.pdf)
 
+Veoza : EPAR - Risk management plan
+
+English (EN) (891.52 KB - PDF)
+
+**First published:** 21/08/2026
+
+[View](/en/documents/rmp/veoza-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Veoza : EPAR - Product information
@@ -249,7 +257,7 @@ English (EN) (282.1 KB - PDF)
 
 [View](/en/documents/product-information/veoza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-606)
+[Other languages (24)](#file-language-dropdown-556)
 
 български (BG) (310.77 KB - PDF)
 
@@ -281,7 +289,7 @@ Deutsch (DE) (303.92 KB - PDF)
 
 [View](/de/documents/product-information/veoza-epar-product-information_de.pdf)
 
-eesti keel (ET) (286.48 KB - PDF)
+eesti (ET) (286.48 KB - PDF)
 
 **First published:** 20/12/2023 **Last updated:** 21/04/2026
 
@@ -305,25 +313,19 @@ hrvatski (HR) (311.28 KB - PDF)
 
 [View](/hr/documents/product-information/veoza-epar-product-information_hr.pdf)
 
-íslenska (IS) (311.89 KB - PDF)
-
-**First published:** 20/12/2023 **Last updated:** 21/04/2026
-
-[View](/is/documents/product-information/veoza-epar-product-information_is.pdf)
-
 italiano (IT) (292.01 KB - PDF)
 
 **First published:** 20/12/2023 **Last updated:** 21/04/2026
 
 [View](/it/documents/product-information/veoza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (293.42 KB - PDF)
+latviešu (LV) (293.42 KB - PDF)
 
 **First published:** 20/12/2023 **Last updated:** 21/04/2026
 
 [View](/lv/documents/product-information/veoza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (295.21 KB - PDF)
+lietuvių (LT) (295.21 KB - PDF)
 
 **First published:** 20/12/2023 **Last updated:** 21/04/2026
 
@@ -346,12 +348,6 @@ Nederlands (NL) (297.6 KB - PDF)
 **First published:** 20/12/2023 **Last updated:** 21/04/2026
 
 [View](/nl/documents/product-information/veoza-epar-product-information_nl.pdf)
-
-norsk (NO) (288.48 KB - PDF)
-
-**First published:** 20/12/2023 **Last updated:** 21/04/2026
-
-[View](/no/documents/product-information/veoza-epar-product-information_no.pdf)
 
 polski (PL) (308.11 KB - PDF)
 
@@ -383,7 +379,7 @@ slovenščina (SL) (286.02 KB - PDF)
 
 [View](/sl/documents/product-information/veoza-epar-product-information_sl.pdf)
 
-Suomi (FI) (289.59 KB - PDF)
+suomi (FI) (289.59 KB - PDF)
 
 **First published:** 20/12/2023 **Last updated:** 21/04/2026
 
@@ -395,6 +391,18 @@ svenska (SV) (290.8 KB - PDF)
 
 [View](/sv/documents/product-information/veoza-epar-product-information_sv.pdf)
 
+Íslenska (IS) (311.89 KB - PDF)
+
+**First published:** 20/12/2023 **Last updated:** 21/04/2026
+
+[View](/is/documents/product-information/veoza-epar-product-information_is.pdf)
+
+norsk (NO) (288.48 KB - PDF)
+
+**First published:** 20/12/2023 **Last updated:** 21/04/2026
+
+[View](/no/documents/product-information/veoza-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000341632
 
 21/04/2026
@@ -403,7 +411,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -421,7 +430,7 @@ English (EN) (250.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-171)
+[Other languages (24)](#file-language-dropdown-507)
 
 български (BG) (182.2 KB - PDF)
 
@@ -453,7 +462,7 @@ Deutsch (DE) (251.14 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (251.65 KB - PDF)
+eesti (ET) (251.65 KB - PDF)
 
 **First published:** 20/12/2023 **Last updated:** 19/02/2024
 
@@ -477,25 +486,19 @@ hrvatski (HR) (292.49 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (250.49 KB - PDF)
-
-**First published:** 20/12/2023 **Last updated:** 19/02/2024
-
-[View](/is/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (251.33 KB - PDF)
 
 **First published:** 20/12/2023 **Last updated:** 19/02/2024
 
 [View](/it/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (178.91 KB - PDF)
+latviešu (LV) (178.91 KB - PDF)
 
 **First published:** 20/12/2023 **Last updated:** 19/02/2024
 
 [View](/lv/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (295.17 KB - PDF)
+lietuvių (LT) (295.17 KB - PDF)
 
 **First published:** 20/12/2023 **Last updated:** 19/02/2024
 
@@ -518,12 +521,6 @@ Nederlands (NL) (251.31 KB - PDF)
 **First published:** 20/12/2023 **Last updated:** 19/02/2024
 
 [View](/nl/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (251.01 KB - PDF)
-
-**First published:** 20/12/2023 **Last updated:** 19/02/2024
-
-[View](/no/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (270.18 KB - PDF)
 
@@ -555,7 +552,7 @@ slovenščina (SL) (177.9 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (251.02 KB - PDF)
+suomi (FI) (251.02 KB - PDF)
 
 **First published:** 20/12/2023 **Last updated:** 19/02/2024
 
@@ -567,28 +564,31 @@ svenska (SV) (250.38 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (250.49 KB - PDF)
+
+**First published:** 20/12/2023 **Last updated:** 19/02/2024
+
+[View](/is/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (251.01 KB - PDF)
+
+**First published:** 20/12/2023 **Last updated:** 19/02/2024
+
+[View](/no/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Veoza
-
-Active substance
-
-fezolinetant
-
-International non-proprietary name (INN) or common name
-
-fezolinetant
-
-Therapeutic area (MeSH)
-
-- Menopause
-- Hot Flashes
-
-Anatomical therapeutic chemical (ATC) code
-
-G02CX06
+- **Name of medicine**
+    - Veoza
+- **Active substance**
+    - fezolinetant
+- **International non-proprietary name (INN) or common name**
+    - fezolinetant
+- **Therapeutic area (MeSH)**
+        - Menopause
+        - Hot Flashes
+- **Anatomical therapeutic chemical (ATC) code**
+    - G02CX06
 
 ### Pharmacotherapeutic group
 
@@ -600,31 +600,18 @@ Veoza is indicated for the treatment of moderate to severe vasomotor symptoms (V
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005851
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Astellas Pharma Europe B.V.
-
-Sylviusweg 62
-
-Opinion adopted
-
-12/10/2023
-
-Marketing authorisation issued
-
-07/12/2023
-
-Revision
-
-6
+- **EMA product number**
+    - EMEA/H/C/005851
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Astellas Pharma Europe B.V. Sylviusweg 62  2333 BE Leiden  The Netherlands
+- **Opinion adopted**
+    - 12/10/2023
+- **Marketing authorisation issued**
+    - 07/12/2023
+- **Revision**
+    - 7
 
 ## Assessment history
 
@@ -632,17 +619,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Veoza : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (140.67 KB - PDF)
+English (EN) (150.72 KB - PDF)
 
-**First published:** 21/03/2025 **Last updated:** 21/04/2026
+**First published:** 21/03/2025 **Last updated:** 21/08/2026
 
 [View](/en/documents/procedural-steps-after/veoza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-Veoza :  EPAR - Procedural steps taken and scientific information after the authorisation (archive)
+Veoza : EPAR - Procedural steps taken and scientific information after the authorisation (archive)
 
 English (EN) (146.4 KB - PDF)
 
@@ -668,7 +655,7 @@ English (EN) (1.95 MB - PDF)
 
 [View](/en/documents/scientific-conclusion/veoza-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Veoza : EPAR - Public assessment report
 
@@ -708,7 +695,7 @@ English (EN) (170.5 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-436)
+[Other languages (24)](#file-language-dropdown-961)
 
 български (BG) (181.54 KB - DOCX)
 
@@ -740,7 +727,7 @@ Deutsch (DE) (174.02 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (169.6 KB - DOCX)
+eesti (ET) (169.6 KB - DOCX)
 
 **First published:** 18/03/2026
 
@@ -764,25 +751,19 @@ hrvatski (HR) (173.68 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (171.82 KB - DOCX)
-
-**First published:** 18/03/2026
-
-[View](/is/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (172.01 KB - DOCX)
 
 **First published:** 18/03/2026
 
 [View](/it/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (173.86 KB - DOCX)
+latviešu (LV) (173.86 KB - DOCX)
 
 **First published:** 18/03/2026
 
 [View](/lv/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (173.56 KB - DOCX)
+lietuvių (LT) (173.56 KB - DOCX)
 
 **First published:** 18/03/2026
 
@@ -805,12 +786,6 @@ Nederlands (NL) (171.3 KB - DOCX)
 **First published:** 18/03/2026
 
 [View](/nl/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (171.84 KB - DOCX)
-
-**First published:** 18/03/2026
-
-[View](/no/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (176.78 KB - DOCX)
 
@@ -842,7 +817,7 @@ slovenščina (SL) (172.04 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (171.4 KB - DOCX)
+suomi (FI) (171.4 KB - DOCX)
 
 **First published:** 18/03/2026
 
@@ -854,13 +829,26 @@ svenska (SV) (170.64 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_sv.docx)
 
+Íslenska (IS) (171.82 KB - DOCX)
+
+**First published:** 18/03/2026
+
+[View](/is/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (171.84 KB - DOCX)
+
+**First published:** 18/03/2026
+
+[View](/no/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_no.docx)
+
 ## More information on Veoza
 
 - [Veoza - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/veoza)
+- [A Non-interventional, Longitudinal, Medical Chart Review Study to Characterize Fezolinetant Use, Treatment Patterns and Patient Characteristics of Women Treated for Vasomotor Symptoms in the Private Healthcare Setting in Spain (CARMEN) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000953)
 - [Fezolinetant Experience for the Treatment of Vasomotor Symptoms Associated with Menopause Among Women in a German Real-life Setting - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000132)
 
 **This page was last updated on**
 
-21/04/2026
+21/08/2026
 
 ## Share this page

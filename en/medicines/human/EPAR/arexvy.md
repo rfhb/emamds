@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-19 12:10:00
+document_datetime: 2026-08-20 12:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arexvy.html
 document_name: arexvy.html
 version: success
-processing_time: 0.1292385
-conversion_datetime: 2026-05-22 22:39:24.679827
+processing_time: 0.1603615
+conversion_datetime: 2026-08-22 22:57:01.938882
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Arexvy
 
@@ -24,7 +24,7 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-recombinant respiratory syncytial virus pre-fusion F protein, adjuvanted with AS01E
+Respiratory Syncytial Virus (RSV) vaccine (recombinant, adjuvanted)
 
 Medicine Human Authorised
 
@@ -38,7 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Arexvy](#news-on)
-- [Product information - with tracked changes](#product-information-with-tracked-changes-76757)
 - [More information on Arexvy](#related-medicines)
 
 - Application under evaluation
@@ -55,7 +54,7 @@ Expand section
 
 Collapse section
 
-## How is Arexvy used?
+### How is Arexvy used?
 
 The recommended dose is a single injection into a muscle, preferably into the muscle of the upper arm.
 
@@ -63,11 +62,11 @@ The vaccine can only be obtained with a prescription and should be used accordin
 
 For more information about using Arexvy, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Arexvy work?
+### How does Arexvy work?
 
 Arexvy works by preparing the immune system (the body's natural defences) to defend itself against a LRTD caused by RSV. Arexvy contains a protein from the surface of RSV. When a person is given the vaccine, the immune system treats the virus protein as 'foreign' and makes defences against it. If, later on, the vaccinated person comes into contact with the virus, the immune system will recognise the protein and be prepared to attack it. This will help to protect the person against LRTD caused by RSV.
 
-## What benefits of Arexvy have been shown in studies?
+### What benefits of Arexvy have been shown in studies?
 
 In a study involving over 25,000 adults aged 60 years and above, people who received Arexvy had a 83% reduction in their risk of getting LRTD caused by RSV compared with those who had a dummy injection.
 
@@ -77,23 +76,23 @@ A second study involved 769 people aged 50 to 59 years (including 386 people at 
 
 In a third study involving 426 people aged 18 to 49 years at increased risk of LRTD caused by RSV, the immune response triggered by Arexvy one month after vaccination was also comparable to that seen in people 60 years of age and older.
 
-## What are the risks associated with Arexvy?
+### What are the risks associated with Arexvy?
 
 For the full list of side effects and restrictions with Arexvy, see the package leaflet.
 
 The most common side effects with Arexvy (which may affect more than 1 in 10 people) include injection site pain, tiredness, muscle pain, headache and joint pain. These side effects are usually mild or moderate in intensity and resolve within a few days after vaccination.
 
-## Why is Arexvy authorised in the EU?
+### Why is Arexvy authorised in the EU?
 
 Arexvy was found to be effective in preventing LRTD caused by RSV in people 60 years of age and older. By preventing LRTD caused by RSV, the vaccine is also expected to reduce the risk of severe RSV disease in these people. In addition, data in adults aged 18 to 49 years at increased risk of LRTD caused by RSV and in adults aged 50 to 59 years showed that Arexvy triggered an immune response comparable to that seen in people aged 60 years and above. There is no evidence that people at increased risk of LRTD respond differently to Arexvy than those not at increased risk of LRTD. The vaccine is therefore expected to provide protection against LRTD caused by RSV in adults aged 18 years and older. There are no serious safety concerns with Arexvy and the European Medicines Agency therefore decided that its benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Arexvy?
+### What measures are being taken to ensure the safe and effective use of Arexvy?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Arexvy have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Arexvy are continuously monitored. Suspected side effects reported with Arexvy are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Arexvy
+### Other information about Arexvy
 
 Arexvy received a marketing authorisation valid throughout the EU on 06 June 2023.
 
@@ -107,7 +106,7 @@ English (EN) (127.15 KB - PDF)
 
 [View](/en/documents/overview/arexvy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-913)
+[Other languages (22)](#file-language-dropdown-958)
 
 български (BG) (155.11 KB - PDF)
 
@@ -139,7 +138,7 @@ Deutsch (DE) (128.94 KB - PDF)
 
 [View](/de/documents/overview/arexvy-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (123.07 KB - PDF)
+eesti (ET) (123.07 KB - PDF)
 
 **First published:** 16/06/2023 **Last updated:** 17/02/2026
 
@@ -169,13 +168,13 @@ italiano (IT) (124.6 KB - PDF)
 
 [View](/it/documents/overview/arexvy-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (143.8 KB - PDF)
+latviešu (LV) (143.8 KB - PDF)
 
 **First published:** 16/06/2023 **Last updated:** 17/02/2026
 
 [View](/lv/documents/overview/arexvy-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (155.54 KB - PDF)
+lietuvių (LT) (155.54 KB - PDF)
 
 **First published:** 16/06/2023 **Last updated:** 17/02/2026
 
@@ -229,7 +228,7 @@ slovenščina (SL) (145.91 KB - PDF)
 
 [View](/sl/documents/overview/arexvy-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (122.5 KB - PDF)
+suomi (FI) (122.5 KB - PDF)
 
 **First published:** 16/06/2023 **Last updated:** 17/02/2026
 
@@ -253,167 +252,168 @@ English (EN) (708.22 KB - PDF)
 
 Arexvy : EPAR - Product Information
 
-English (EN) (554.76 KB - PDF)
+English (EN) (545.88 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/en/documents/product-information/arexvy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-244)
+[Other languages (24)](#file-language-dropdown-184)
 
-български (BG) (723.02 KB - PDF)
+български (BG) (724.85 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/bg/documents/product-information/arexvy-epar-product-information_bg.pdf)
 
-español (ES) (669.92 KB - PDF)
+español (ES) (676.57 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/es/documents/product-information/arexvy-epar-product-information_es.pdf)
 
-čeština (CS) (660.07 KB - PDF)
+čeština (CS) (588.75 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/cs/documents/product-information/arexvy-epar-product-information_cs.pdf)
 
-dansk (DA) (572.75 KB - PDF)
+dansk (DA) (578.34 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/da/documents/product-information/arexvy-epar-product-information_da.pdf)
 
-Deutsch (DE) (699.09 KB - PDF)
+Deutsch (DE) (705.51 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/de/documents/product-information/arexvy-epar-product-information_de.pdf)
 
-eesti keel (ET) (567.78 KB - PDF)
+eesti (ET) (429.53 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/et/documents/product-information/arexvy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (744.84 KB - PDF)
+ελληνικά (EL) (746.08 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/el/documents/product-information/arexvy-epar-product-information_el.pdf)
 
-français (FR) (669.87 KB - PDF)
+français (FR) (592.32 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/fr/documents/product-information/arexvy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (548.54 KB - PDF)
+hrvatski (HR) (483.87 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/hr/documents/product-information/arexvy-epar-product-information_hr.pdf)
 
-íslenska (IS) (617.67 KB - PDF)
+italiano (IT) (542.7 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
-
-[View](/is/documents/product-information/arexvy-epar-product-information_is.pdf)
-
-italiano (IT) (786.44 KB - PDF)
-
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/it/documents/product-information/arexvy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (612.39 KB - PDF)
+latviešu (LV) (502.74 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/lv/documents/product-information/arexvy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (652.29 KB - PDF)
+lietuvių (LT) (586.52 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/lt/documents/product-information/arexvy-epar-product-information_lt.pdf)
 
-magyar (HU) (660.01 KB - PDF)
+magyar (HU) (646 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/hu/documents/product-information/arexvy-epar-product-information_hu.pdf)
 
-Malti (MT) (807.3 KB - PDF)
+Malti (MT) (728.83 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/mt/documents/product-information/arexvy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (638.76 KB - PDF)
+Nederlands (NL) (541.43 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/nl/documents/product-information/arexvy-epar-product-information_nl.pdf)
 
-norsk (NO) (652.53 KB - PDF)
+polski (PL) (691.07 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
-
-[View](/no/documents/product-information/arexvy-epar-product-information_no.pdf)
-
-polski (PL) (695.16 KB - PDF)
-
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/pl/documents/product-information/arexvy-epar-product-information_pl.pdf)
 
-português (PT) (600.26 KB - PDF)
+português (PT) (595.95 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/pt/documents/product-information/arexvy-epar-product-information_pt.pdf)
 
-română (RO) (726.62 KB - PDF)
+română (RO) (532.62 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/ro/documents/product-information/arexvy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (665.73 KB - PDF)
+slovenčina (SK) (748.01 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/sk/documents/product-information/arexvy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (655.21 KB - PDF)
+slovenščina (SL) (527.45 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/sl/documents/product-information/arexvy-epar-product-information_sl.pdf)
 
-Suomi (FI) (586.96 KB - PDF)
+suomi (FI) (588.47 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/fi/documents/product-information/arexvy-epar-product-information_fi.pdf)
 
-svenska (SV) (667.68 KB - PDF)
+svenska (SV) (541.38 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
 
 [View](/sv/documents/product-information/arexvy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000309343
+Íslenska (IS) (602.31 KB - PDF)
 
-16/04/2026
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
+
+[View](/is/documents/product-information/arexvy-epar-product-information_is.pdf)
+
+norsk (NO) (458.24 KB - PDF)
+
+**First published:** 16/06/2023 **Last updated:** 20/08/2026
+
+[View](/no/documents/product-information/arexvy-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000355568
+
+18/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -431,7 +431,7 @@ English (EN) (66.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-409)
+[Other languages (24)](#file-language-dropdown-456)
 
 български (BG) (77.74 KB - PDF)
 
@@ -463,7 +463,7 @@ Deutsch (DE) (58.67 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (65.6 KB - PDF)
+eesti (ET) (65.6 KB - PDF)
 
 **First published:** 16/06/2023 **Last updated:** 19/05/2026
 
@@ -487,25 +487,19 @@ hrvatski (HR) (86.73 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (62.28 KB - PDF)
-
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
-
-[View](/is/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (58.61 KB - PDF)
 
 **First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/it/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (88.74 KB - PDF)
+latviešu (LV) (88.74 KB - PDF)
 
 **First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/lv/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (90.09 KB - PDF)
+lietuvių (LT) (90.09 KB - PDF)
 
 **First published:** 16/06/2023 **Last updated:** 19/05/2026
 
@@ -528,12 +522,6 @@ Nederlands (NL) (55.75 KB - PDF)
 **First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/nl/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (63.9 KB - PDF)
-
-**First published:** 16/06/2023 **Last updated:** 19/05/2026
-
-[View](/no/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (80.9 KB - PDF)
 
@@ -565,7 +553,7 @@ slovenščina (SL) (91.26 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (65.66 KB - PDF)
+suomi (FI) (65.66 KB - PDF)
 
 **First published:** 16/06/2023 **Last updated:** 19/05/2026
 
@@ -577,23 +565,28 @@ svenska (SV) (65.73 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (62.28 KB - PDF)
+
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
+
+[View](/is/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (63.9 KB - PDF)
+
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
+
+[View](/no/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Arexvy
-
-International non-proprietary name (INN) or common name
-
-recombinant respiratory syncytial virus pre-fusion F protein, adjuvanted with AS01E
-
-Therapeutic area (MeSH)
-
-Respiratory Syncytial Virus Infections
-
-Anatomical therapeutic chemical (ATC) code
-
-J07BX05
+- **Name of medicine**
+    - Arexvy
+- **International non-proprietary name (INN) or common name**
+    - Respiratory Syncytial Virus (RSV) vaccine (recombinant, adjuvanted)
+- **Therapeutic area (MeSH)**
+    - Respiratory Syncytial Virus Infections
+- **Anatomical therapeutic chemical (ATC) code**
+    - J07BX05
 
 ### Pharmacotherapeutic group
 
@@ -601,31 +594,20 @@ Other viral vaccines
 
 ### Therapeutic indication
 
-Arexvy is indicated for active immunisation for the prevention of lower respiratory tract disease (LRTD) caused by respiratory syncytial virus in adults 18 years of age and older.  The use of this vaccine should be in accordance with official recommendations.
+Arexvy is indicated for active immunisation for the prevention of lower respiratory tract disease (LRTD) caused by respiratory syncytial virus in adults 18 years of age and older. The use of this vaccine should be in accordance with official recommendations.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006054
-
-Marketing authorisation holder
-
-GlaxoSmithKline Biologicals S.A.
-
-Rue de l'Institut, 89
-
-Opinion adopted
-
-26/04/2023
-
-Marketing authorisation issued
-
-06/06/2023
-
-Revision
-
-11
+- **EMA product number**
+    - EMEA/H/C/006054
+- **Marketing authorisation holder**
+    - GlaxoSmithKline Biologicals S.A. Rue de l'Institut, 89  B-1330 Rixensart  Belgium
+- **Opinion adopted**
+    - 26/04/2023
+- **Marketing authorisation issued**
+    - 06/06/2023
+- **Revision**
+    - 12
 
 ## Assessment history
 
@@ -633,13 +615,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Arexvy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (204.93 KB - PDF)
+English (EN) (236.05 KB - PDF)
 
-**First published:** 10/09/2025 **Last updated:** 19/05/2026
+**First published:** 10/09/2025 **Last updated:** 19/08/2026
 
 [View](/en/documents/procedural-steps-after/arexvy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -681,7 +663,7 @@ English (EN) (184.05 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/arexvy-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation-psusa-00000031-202411_en.pdf)
 
-Arexvy : EPAR - EMEA/H/C/PSUSA/00010438/202407  - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+Arexvy : EPAR - EMEA/H/C/PSUSA/00010438/202407 - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
 Reference Number: EMA/62447/2025
 
@@ -711,7 +693,7 @@ English (EN) (137.07 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-opinion-arexvy-ii-08_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Arexvy : EPAR - Public assessment report
 
@@ -751,16 +733,12 @@ English (EN) (88.93 KB - PDF)
 
 26/04/2023
 
-## Product information - with tracked changes
-
-The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
-
 ## More information on Arexvy
 
 - [A post-marketing active surveillance study to evaluate the risk of Guillain-Barré syndrome, acute disseminated encephalomyelitis, and atrial fibrillation in adults 50 years and older vaccinated with GSK's Arexvy vaccine in the United States (220149) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000486)
 
 **This page was last updated on**
 
-19/05/2026
+20/08/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-20 10:28:36
+document_datetime: 2026-08-20 11:31:04
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ryeqo-epar-product-information_en.pdf
 document_name: ryeqo-epar-product-information_en.pdf
 version: success
-processing_time: 20.3999057
-conversion_datetime: 2026-05-22 23:21:40.088029
+processing_time: 11.3992513
+conversion_datetime: 2026-08-23 00:48:59.098352
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -123,7 +123,7 @@ Ryeqo can be taken with or without food, at about the same time. The tablets sho
 - -Known or suspected sex-steroid influenced malignancies (e.g. of the genital organs or the breasts).
 - -Presence or history of liver tumours (benign or malignant) (see section 4.4).
 - -Presence or history of severe hepatic disease as long as liver function values have not returned to normal (see section 4.4).
-- -Pregnancy or suspected pregnancy and breastfeeding (see section 4.6).
+- -Pregnancy or suspected pregnancy (see section 4.6).
 - -Genital bleeding of unknown aetiology (see section 4.4).
 - -Concomitant use of hormonal contraceptives
 
@@ -323,7 +323,7 @@ Concomitant use of relugolix with strong CYP3A4 inhibitors devoid of P-gp inhibi
 
 Effect of co-administered medicinal products on relugolix exposure from clinical studies and recommendations are summarised in Table 3.
 
-Table 3.  Effect  of  co-administered  medicinal  products  on  relugolix  exposure  (AUC0-∞,Cmax;  in order of decreasing magnitude) from clinical studies and recommendations
+Table 3.  Effect  of  co-administered  medicinal  products  on  relugolix  exposure  (AUC0-∞ ,  Cmax;  in order of decreasing magnitude) from clinical studies and recommendations
 
 | Interacting drug dose regimen                                             | Relugolix dose regimen   | Change in relugolix AUC 0- ∞   | Change in relugolix C max   | Recommendation                                                                                                                                                |
 |---------------------------------------------------------------------------|--------------------------|--------------------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -396,9 +396,11 @@ There appears to be little or no increased risk of harmful effects in children b
 
 ## Breast-feeding
 
-Results from non-clinical studies indicate that relugolix is excreted into the milk of lactating rats (see section 5.3). No data are available regarding the presence of relugolix or its metabolites in human milk or its effect on the breastfed infant. Detectable amounts of estrogen and progestogens have been identified in the breast milk of women receiving estrogen plus progestogen therapy. An effect on breastfeeding newborns/infants cannot be excluded.
+Small amounts of relugolix are excreted into human milk (see section 5.2). The effect on newborns/infants is unknown.
 
-Breastfeeding is contraindicated during the use of Ryeqo (see section 4.3) and for 2 weeks following its discontinuation.
+Detectable amounts of estrogen and progestogens have been identified in the human milk of women receiving estrogen plus progestogen therapy. An effect on breastfeeding newborns/infants cannot be excluded.
+
+Ryeqo should not be used during breast-feeding.
 
 ## Fertility
 
@@ -583,28 +585,28 @@ Table 8. Bone mineral density (BMD) measurements over 104 weeks in patients with
 |                                          | Ryeqo (N = 672)   | Placebo (N = 672)   |
 |------------------------------------------|-------------------|---------------------|
 | Lumbar spine (L1 - L4)                   |                   |                     |
-| Study L1 &L2, S1 &S2                     |                   |                     |
+| Study L1 & L2, S1 & S2                   |                   |                     |
 | Week 12                                  |                   |                     |
 | N                                        | 553               | 545                 |
-| LS means %change a                       | -0.56             | 0.15                |
+| LS means % change a                      | -0.56             | 0.15                |
 | (95% CI)                                 | (-0.77, -0.36)    | (-0.05, 0.36)       |
 | Week 24                                  |                   |                     |
 | N                                        | 528               | 516                 |
-| LS means %change a                       | -0.59             | 0.13                |
+| LS means % change a                      | -0.59             | 0.13                |
 | (95% CI)                                 | (-0.82, -0.37)    | (-0.09, 0.36)       |
 | Study L3 and S3                          | Ryeqo             | Placebo Ryeqo       |
 | Week 36                                  |                   |                     |
 | N                                        | 387               | 379                 |
-| LS means %change a                       | -0.66             | -0.00               |
+| LS means % change a                      | -0.66             | -0.00               |
 | (95% CI)                                 | (-0.93; -0.40)    | (-0.27; 0.26)       |
 | Week 52                                  |                   |                     |
 | N                                        | 365               | 351                 |
-| LS means %change a                       | -0.69             | -0.30               |
+| LS means % change a                      | -0.69             | -0.30               |
 | (95% CI)                                 | (-1.00; -0.38)    | (-0.61; 0.01)       |
 | Randomised withdrawal study and Study S3 | Ryeqo             | Placebo b           |
 | Week 104                                 |                   |                     |
 | N                                        | 221               | 229                 |
-| LS means %change a                       | -0.40             | -0.18               |
+| LS means % change a                      | -0.40             | -0.18               |
 | (95% CI)                                 | (-0.82; 0.02)     | (-0.60; 0.23)       |
 
 Abbreviations: LS mean = least squares mean; CI = confidence interval, N = number of patients a % change from baseline;
@@ -683,6 +685,14 @@ Relugolix is 68% to 71% bound to human plasma proteins with a mean whole blood-t
 
 <div style=\"page-break-after: always\"></div>
 
+## Breast-feeding
+
+In a single dose milk-only lactation study in 8 healthy adult lactating women, a mean daily infant dose of relugolix of 0.00116 mg/kg/day was determined after a single, oral maternal dose of relugolix 40 mg, based on a standard infant milk intake of 150 mL/kg/day and assuming a mean infant bodyweight of 5 kg. The geometric mean relative infant dose (RID) was approximately 0.20 % for relugolix for the corresponding maternal weight-adjusted dosages.
+
+The mean total amount of relugolix recovered in human milk over 120 hours (5 days) was 0.0042 mg following a single, oral, maternal dose of 40 mg. Approximately 70% of the total amount of relugolix was excreted in human milk within 24 hours after single dosing.
+
+Taking a 2-fold accumulation ratio of once daily dosing of relugolix into account, human milk concentrations during regular treatment are expected to be approximately double of those observed after a single dose, resulting in an estimated geometric mean RID of approximately 0.39 %.
+
 ## Biotransformation
 
 In vitro studies indicate that the primary CYP enzymes contributing to the overall hepatic oxidative metabolism of relugolix were CYP3A4/5 (45%) &gt; CYP2C8 (37%) &gt; CYP2C19 (&lt; 1%) with the oxidative metabolites, metabolite-A and metabolite-B, formed by CYP3A4/5 and CYP2C8, respectively.
@@ -699,6 +709,8 @@ The mean terminal phase elimination half-life (t1/2) of relugolix, estradiol, an
 
 The accumulation for E2 and NET upon once daily administration are reported to be 33% to 47%, although when co-administered with relugolix, a weak inducer of intestinal (pre-systemic) CYP3A-mediated metabolism, the accumulation for E2 is expected to be similar or slightly lower.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Linearity/non-linearity
 
 Relugolix is associated with greater than proportional increases in exposure with respect to dose, within the dose range from 1 to 80 mg, which is most pronounced at doses greater than 20 mg; and thought to be related to the saturation of intestinal P-gp, resulting in an increase in oral bioavailability. The pharmacokinetics of relugolix upon once daily administration of 40 mg relugolix is time independent.
@@ -707,11 +719,9 @@ Relugolix is associated with greater than proportional increases in exposure wit
 
 The single-dose pharmacokinetic parameters were not different between Japanese and Caucasian healthy subjects, indicating absence of ethnic sensitivity on the pharmacokinetics of relugolix. Population PK analysis suggests that there are no clinically meaningful differences in exposure of relugolix based on age, race or ethnicity, weight, or BMI. As both estradiol and norethisterone acetate are well known components of hormonal combination products, no studies in special populations were conducted.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal impairment
 
-After administration of a single 40  mg dose of relugolix to patients with severe renal impairment, the exposure AUC0-∞ and Cmax of relugolix were increased by 1.5- and 1.1-fold, respectively, compared with healthy control subjects with normal renal function. After administration of a single 40-mg dose of relugolix to patients with moderate renal impairment, the exposure AUC0-∞ and Cmax of relugolix both were increased by 1.5-fold compared with healthy control subjects with normal renal function. Mild renal impairment was not a significant covariate for any of the pharmacokinetic parameters of relugolix in a population pharmacokinetic model. Although caution should be used to treat patients with moderate or severe renal impairment (see section 4.4), no dose adjustments in patients with mild, moderate or severe renal impairment are required (see section 4.2).
+After administration of a single 40 mg dose of relugolix to patients with severe renal impairment, the exposure AUC0-∞ and Cmax of relugolix were increased by 1.5- and 1.1-fold, respectively, compared with healthy control subjects with normal renal function. After administration of a single 40-mg dose of relugolix to patients with moderate renal impairment, the exposure AUC0-∞ and Cmax of relugolix both were increased by 1.5-fold compared with healthy control subjects with normal renal function. Mild renal impairment was not a significant covariate for any of the pharmacokinetic parameters of relugolix in a population pharmacokinetic model. Although caution should be used to treat patients with moderate or severe renal impairment (see section 4.4), no dose adjustments in patients with mild, moderate or severe renal impairment are required (see section 4.2).
 
 The effect of end-stage renal disease with or without haemodialysis on the pharmacokinetics of estradiol, norethisterone and relugolix, the components of Ryeqo, in premenopausal women have not been evaluated. The amount of relugolix, estradiol or norethisterone removed by haemodialysis is unknown.
 
@@ -727,6 +737,8 @@ Non-clinical studies have not been conducted with relugolix in combination with 
 
 In pregnant rabbits orally dosed with relugolix during the period of organogenesis, spontaneous abortion and total litter loss were observed at exposure levels (AUC) comparable to that achieved at the recommended human dose of 40 mg/day. No effects on embryofoetal development were observed in rats; however, relugolix does not interact significantly with GnRH receptors in that species.
 
+<div style=\"page-break-after: always\"></div>
+
 In experimental animals, estradiol or estradiol valerate displayed an embryo lethal effect already at relatively low doses; malformations of the urogenital tract and feminisation of male foetuses were observed.
 
 Norethisterone, like other progestogens, caused virilisation of female foetuses in rats and monkeys. After high doses of norethisterone, embryo lethal effects were observed.
@@ -738,8 +750,6 @@ In lactating rats administered a single oral dose of 30 mg/kg radiolabelled relu
 ## Environmental risk assessment (ERA)
 
 Environmental risk assessment studies have shown that this medicinal product may pose a risk for the aquatic compartment (see section 6.6).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -771,6 +781,8 @@ PVC/Al blister with desiccant packed in PET/Al/PE triplex foil sachet containing
 
 Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal and other handling
 
 This medicinal product may pose a risk to the environment (see section 5.3). Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -781,17 +793,15 @@ Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1565/001
+EU/1/21/1565/001 EU/1/21/1565/002 EU/1/21/1565/003
 
-<div style=\"page-break-after: always\"></div>
-
-EU/1/21/1565/002 EU/1/21/1565/003 EU/1/21/1565/004
+EU/1/21/1565/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 16 July 2021
 
-Date of latest renewal:
+Date of latest renewal: 26 March 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -990,11 +1000,11 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
@@ -1011,8 +1021,8 @@ Lot Ryeqo 40 mg/1 mg/0.5 mg film-coated tablets relugolix/estradiol/norethistero
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1020,20 +1030,20 @@ Lot Ryeqo 40 mg/1 mg/0.5 mg film-coated tablets relugolix/estradiol/norethistero
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS   |
-|--------------------------------------------|
-| BLISTER                                    |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
+|---------------------------------------------|
+| BLISTER                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1144,7 +1154,7 @@ If you do have any of the conditions listed below, you must tell your doctor:
 - -if you have any type of cancer which might be made worse by exposure to female sex hormones, such as cancer of the breast or the genital organs .
 - -if you have or ever had liver tumours .
 - -if you have or ever had a liver disease and your liver function tests have not returned to normal.
-- -if you are pregnant or if you think you might be pregnant or if you are breastfeeding .
+- -if you are pregnant or if you think you might be pregnant .
 - -if you have any genital bleeding of unknown origin.
 - -if you are taking hormonal contraception (for example birth control pills) and unwilling to discontinue its use.
 
@@ -1230,7 +1240,8 @@ The symptoms of a heart attack, also known as a myocardial infarction, may be te
 - -pain, discomfort, pressure, heaviness, sensation of squeezing or fullness in your chest, arm, or below your breastbone.
 - -discomfort radiating to your back, jaw, throat, arm, stomach.
 - -feeling of being full, having indigestion or choking.
-- -sweating, nausea, vomiting or dizziness.
+- -
+- sweating, nausea, vomiting or dizziness.
 - -extreme weakness, anxiety, or shortness of breath.
 - -rapid or irregular heartbeats.
 
@@ -1315,7 +1326,7 @@ If you miss two or more tablets in a row, nonhormonal birth control (e.g. condom
 
 ## Driving and using machines
 
-Ryeqo has no known effect on the ability to drive and use machines.
+Ryeqo has minor influence on the ability to drive and use machines. Dizziness may occasionally occur. If you feel dizzy, do not drive or operate machines.
 
 ## Laboratory tests
 
@@ -1333,9 +1344,9 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 The recommended dose is one tablet per day.
 
-The tablet must be taken orally every day, at about the same time, with or without food with a little liquid.
-
 <div style=\"page-break-after: always\"></div>
+
+The tablet must be taken orally every day, at about the same time, with or without food with a little liquid.
 
 It is recommended that you start taking Ryeqo within the first 5 days after the start of bleeding due to your period. If you start at another time of your menstrual cycle, you may initially experience irregular or heavier bleeding.
 
@@ -1387,11 +1398,11 @@ Uncommon side effects (may affect up to 1 in 100 people):
 
 - -indigestion,
 - -hives (urticaria),
-- -angioedema (rapid swelling under the skin in areas such as the face, throat, arms and legs),
-- -a lump in the breast tissue (breast cyst),
 
 <div style=\"page-break-after: always\"></div>
 
+- -angioedema (rapid swelling under the skin in areas such as the face, throat, arms and legs),
+- -a lump in the breast tissue (breast cyst),
 - -uterine myoma expulsion (fibroid comes out either completely or partially through the vagina, usually with increased bleeding from the vagina).
 
 Rare side effects (may affect up to 1 in 1 000 people):
@@ -1406,7 +1417,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 ## Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on both the outer carton and bottle after EXP. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the outer carton, bottle and blister after EXP. The expiry date refers to the last day of that month.
 
 This medicine does not require any special storage condition.
 
@@ -1433,8 +1444,10 @@ Not all pack sizes may be marketed.
 
 Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
-## This leaflet was last revised in
+This leaflet was last revised in
 
 ## Other sources of information
+
+<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

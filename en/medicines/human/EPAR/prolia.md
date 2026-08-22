@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prolia.html
 document_name: prolia.html
 version: success
-processing_time: 0.184454
-conversion_datetime: 2026-08-22 22:48:12.158386
+processing_time: 0.1941867
+conversion_datetime: 2026-08-22 23:22:32.951357
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

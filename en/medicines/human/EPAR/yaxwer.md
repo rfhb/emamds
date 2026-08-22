@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yaxwer.html
 document_name: yaxwer.html
 version: success
-processing_time: 0.1005536
-conversion_datetime: 2026-08-22 22:41:50.325525
+processing_time: 0.0998841
+conversion_datetime: 2026-08-22 23:16:00.564352
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

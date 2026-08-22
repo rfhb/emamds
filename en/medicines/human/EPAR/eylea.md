@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eylea.html
 document_name: eylea.html
 version: success
-processing_time: 0.2092123
-conversion_datetime: 2026-08-22 22:54:18.416959
+processing_time: 0.381502
+conversion_datetime: 2026-08-22 23:28:33.258545
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

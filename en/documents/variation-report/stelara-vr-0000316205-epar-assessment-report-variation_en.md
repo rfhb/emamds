@@ -4,8 +4,8 @@ document_pages: 190
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/stelara-vr-0000316205-epar-assessment-report-variation_en.pdf
 document_name: stelara-vr-0000316205-epar-assessment-report-variation_en.pdf
 version: success
-processing_time: 316.9867371
-conversion_datetime: 2026-08-22 23:05:01.158461
+processing_time: 321.6854737
+conversion_datetime: 2026-08-22 23:39:13.860431
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

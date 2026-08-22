@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-25 08:41:24
+document_datetime: 2026-08-21 14:50:52
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cenrifki-epar-product-information_en.pdf
 document_name: cenrifki-epar-product-information_en.pdf
 version: success
-processing_time: 8.1004025
-conversion_datetime: 2026-07-04 15:08:52.167441
+processing_time: 7.3210182
+conversion_datetime: 2026-08-23 00:26:57.424659
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -184,7 +184,7 @@ Co-administration of a strong CYP2C8 inhibitor (gemfibrozil 600 mg twice daily) 
 
 ## Strong or moderate CYP3A/2C8 inducers
 
-Co-administration of a strong CYP3A/2C8 inducer (rifampicin 600 mg once daily) decreased both tolebrutinib AUC and Cmax by 6.2-fold, while M2 AUC and Cmax decreased by 2.4-fold and 1.9-fold in healthy subjects. Moderate CYP3A/2C8 inducer efavirenz may also decrease tolebrutinib and M2 metabolite exposures. Co-administration of tolebrutinib with strong CYP3A/2C8 inducers (e.g., carbamazepine, phenytoin, rifampicin, St. John's wort) or moderate CYP3A/2C8 inducers (e.g., bosentan, efavirenz, etravirine, nafcillin) should be avoided. If a moderate or strong CYP3A/2C8 inducer must be used short-term (&lt; 2 weeks), treatment with tolebrutinib can be continued (see section 4.4).
+Co-administration of a strong CYP3A/2C8 inducer (rifampicin 600 mg once daily) decreased both tolebrutinib AUC and Cmax by 6.2-fold, while M2 AUC and Cmax decreased by 2.4-fold and 1.9-fold in healthy subjects. Moderate CYP3A/2C8 inducer efavirenz may also decrease tolebrutinib and M2 metabolite exposures. Co-administration of tolebrutinib with strong CYP3A/2C8 inducers (e.g., carbamazepine, phenytoin, rifampic in, St. John's wort) or moderate CYP3A/2C8 inducers (e.g., bosentan, efavirenz, etravirine, nafcillin) should be avoided. If a moderate or strong CYP3A/2C8 inducer must be used short-term (&lt; 2 weeks), treatment with tolebrutinib can be continued (see section 4.4).
 
 ## Immunosuppressants
 
@@ -288,7 +288,7 @@ The median steady state of BTK occupancy in peripheral blood mononuclear cells w
 
 ## Cardiac electrophysiology
 
-The effect of tolebrutinib and the active metabolite M2 on the QTc interval was evaluated using concentration-QTc effect modelling of data obtained during a Phase 1 study with high-quality ECG
+The effect of tolebrutinib and the active metabolite M2 on the QTc interval was evaluated using concentration -QTc effect modelling of data obtained during a Phase 1 study with high-quality ECG
 
 <div style=\"page-break-after: always\"></div>
 
@@ -304,7 +304,7 @@ The baseline demographic and disease characteristics were balanced between the t
 
 The primary endpoint was time to onset of 6 month confirmed disability progression (CDP). Progression of disability was defined as an increase of 1.0 point or more from the baseline EDSS score when the baseline EDSS score was 5.0 or less, or by 0.5 points or more when the baseline EDSS score was above 5.0. Disability progression was considered confirmed when the increase in the EDSS score was established at a regularly scheduled visit at least 6 months after the initial documentation of neurological worsening with both onset and confirmation EDSS assessments having no relapses in the prior 90 days. Additional outcome measures included new or enlarging T2-hyperintense lesions, delay in disability progression confirmed at 3 months, 6-month confirmed disability improvement (CDI), and 20% increase in timed 25-foot walk test (T25-FW) and in 9-hole peg test (9-HPT) confirmed for at least 3 months.
 
-Based on a time-to-event analysis, the risk of 6-month CDP was significantly reduced by 31% in patients treated with tolebrutinib compared to placebo (see Figure 1). Tolebrutinib also significantly reduced the risk of 3-month CDP by 24%. MRI analysis demonstrated that patients treated with tolebrutinib had a significant 38% reduction in the adjusted mean number of new and/or enlarging T2hyperintense lesions per year compared to patients treated with placebo. Overall, the results of the secondary endpoint 'time to onset of sustained 20% increase in 9-HPT' did not reach statistical significance; 'time to onset of sustained 20% increase in the T25-FW for at least 3 months' and '6month CDI', did not reach formal statistical significance based on a pre-specified hierarchical testing order.
+Based on a time-to-event analysis, the risk of 6-month CDP was significantly reduced by 31% in patients treated with tolebrutinib compared to placebo (see Figure 1). Tolebrutinib also significantly reduced the risk of 3-month CDP by 24%. MRI analysis demonstrated that patients treated with tolebrutinib had a significant 38% reduction in the adjusted mean number of new and/or enlarging T2hyperintense lesions per year compared to patients treated with placebo. Overall, the results of the secondary endpoint ' time to onset of sustained 20% increase in 9-HPT ' did not reach statistical significance; 'time to onset of sustained 20% increase in the T25-FW for at least 3 months ' and ' 6month CDI ' , did not reach formal statistical significance based on a pre-specified hierarchical testing order.
 
 More detailed efficacy results are presented in Table 3 and Kaplan-Meier curves for 6-month CDP are provided in Figure 1.
 
@@ -433,7 +433,7 @@ Not applicable
 
 ## 6.3 Shelf life
 
-3 years
+4 years
 
 ## 6.4 Special precautions for storage
 
@@ -453,7 +453,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie 82 Avenue Raspail 94250, Gentilly
+Sanofi Winthrop Industrie
+
+82 Avenue Raspail 94250, Gentilly
 
 France
 
@@ -465,7 +467,7 @@ EU/1/25/2011/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 19 June 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -709,7 +711,7 @@ Also contains: lactose.
 
 ## Film-coated tablets
 
-7 film-coated tablets
+- 7 film-coated tablets
 
 28 film-coated tablets
 
@@ -723,9 +725,8 @@ Read the package leaflet before use.
 
 Press down at 1 and at the same time pull at 2.
 
-Press and hold here
-
-Pull out blister card
+1. Press and hold here
+2. Pull out blister card
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -765,14 +766,15 @@ EU/1/25/2011/003 (98 film-coated tablets)
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Cenrifki 60 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -820,40 +822,30 @@ Sunday
 
 <div style=\"page-break-after: always\"></div>
 
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER ALUMINUM FOIL
+
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
+
+Cenrifki 60 mg film-coated tablets tolebrutinib
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
+Sanofi Winthrop Industrie
+
 | 3.   | EXPIRY DATE   |
 |------|---------------|
+
+EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-| 5.   | OTHER   |
-|------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER ALUMINUM FOIL
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Cenrifki 60 mg film-coated tablets tolebrutinib
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Sanofi Winthrop Industrie
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -886,7 +878,9 @@ Tell your doctor, pharmacist, or nurse if you are taking, have recently taken or
 
 Prescribing physician name: …………………………………………………………………………..
 
-Prescribing physician phone number: ...……………………………………………………………….
+Prescribing physician phone number: ...………………………………………………………………
+
+.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -898,7 +892,9 @@ Prescribing physician phone number: ...…………………………………�
 
 ## Package leaflet: Information for the patient
 
-## Cenrifki 60 mg film-coated tablets tolebrutinib
+## Cenrifki 60 mg film-coated tablets
+
+## tolebrutinib
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -947,8 +943,8 @@ Talk to your doctor or pharmacist before taking Cenrifki:
 - -if you suffer from liver disease
 - -if you are taking or plan to take other medicines that may affect your liver, especially during the first 12 weeks of Cenrifki treatment. Your doctor may need to consider alternative options for those medicines.
 - -if you are using or plan to use herbal or dietary supplements. Some of these may potentially affect your liver, and you should avoid using them while taking Cenrifki.
-- -if you have an infection, or you are unable to fight infections (see section 2 'Infections').
-- -if you are going to have a vaccination (see section 2 'Vaccinations').
+- -if you have an infection, or you are unable to fight infections (see section 2 'Infections') .
+- -if you are going to have a vaccination (see section 2 'Vaccinations') .
 - -if you have a bleeding disorder, have recently undergone surgery or have one scheduled, or are taking medicines that may increase your risk of bleeding (see section 2 'Other medicines and Cenrifki').
 - -if you have a history of irregular heartbeat particularly atrial fibrillation.
 - -if you have or have had thoughts of harming or killing yourself. You (or your caregiver) should contact your doctor immediately if any such thoughts occur.
@@ -1015,36 +1011,36 @@ In particular, before taking this medicine, tell your doctor if you are taking o
 
 Medicines that can increase the levels of Cenrifki in your blood, which may increase your risk of side effects. Examples include:
 
-- -Gemfibrozil - a medicine used to lower cholesterol
-- -Deferasirox - a medicine used to treat iron overload
-- -Letermovir - a medicine used to prevent viral infections after bone marrow transplant
-- -Selpercatinib - a medicine used to treat certain types of cancer
+- -Gemfibrozil -a medicine used to lower cholesterol
+- -Deferasirox -a medicine used to treat iron overload
+- -Letermovir -a medicine used to prevent viral infections after bone marrow transplant
+- -Selpercatinib -a medicine used to treat certain types of cancer
 
 Medicines that can decrease the levels of Cenrifki in your blood, which may make Cenrifki less effective. Examples include:
 
-- -St John's wort - a herbal product used to treat depression
-- -Rifampicin, Nafcillin - antibiotics used to treat bacterial infections
-- -Carbamazepine, Phenytoin - medicines used to treat epilepsy and nerve pain
-- -Efavirenz, Etravirine - medicines used to treat HIV infection
-- -Bosentan - a medicine used to treat high blood pressure in the lungs
+- -St John's wort a herbal product used to treat depression
+- -Rifampicin, Nafcillin -antibiotics used to treat bacterial infections
+- -Carbamazepine, Phenytoin -medicines used to treat epilepsy and nerve pain
+- -Efavirenz, Etravirine -medicines used to treat HIV infection
+- -Bosentan -a medicine used to treat high blood pressure in the lungs
 
 Medicines that can thin your blood, which may increase your risk of bleeding. Examples include:
 
-- -Warfarin, Heparin, Apixaban, Rivaroxaban, Edoxaban - medicines that prevent blood clots (anticoagulants)
+- -Warfarin, Heparin, Apixaban, Rivaroxaban, Edoxaban -medicines that prevent blood clots (anticoagulants)
 
 <div style=\"page-break-after: always\"></div>
 
-- -Clopidogrel, Ticagrelor, Prasugrel - medicines that prevent blood platelets from clumping together (antiplatelet agents)
+- -Clopidogrel, Ticagrelor, Prasugrel -medicines that prevent blood platelets from clumping together (antiplatelet agents)
 
 Medicines that may increase your risk of infections. Examples include:
 
-- -Medicines that can weaken your immune system - immunosuppressants like mycophenolate mofetil, cyclophosphamide, or azathioprine, as well as medicines used to treat inflammation such as Disease-Modifying Antirheumatic Drugs (DMARDs) or long-term corticosteroids (see section 2 'Infections').
-- -Live or live attenuated vaccines - such as chickenpox, oral polio, or nasal flu vaccines (see section 2 'Vaccinations').
+- -Medicines that can weaken your immune system -immunosuppressants like mycophenolate mofetil, cyclophosphamide, or azathioprine, as well as medicines used to treat inflammation such as Disease-Modifying Antirheumatic Drugs (DMARDs) or long-term corticosteroids (see section 2 'Infections') .
+- -Live or live attenuated vaccines -such as chickenpox, oral polio, or nasal flu vaccines (see section 2 'Vaccinations') .
 
 Medicines whose levels in your blood may be increased when taken with Cenrifki, which may increase their risk of side effects. Caution should be taken when such medicines are taken with Cenrifki. Examples include:
 
-- -Cyclosporin and tacrolimus - medicines used to reduce immune reactions and prevent organ rejection
-- -Digoxin - a medicine used to treat abnormal heart rhythm or disorders
+- -Cyclosporin and tacrolimus -medicines used to reduce immune reactions and prevent organ rejection
+- -Digoxin -a medicine used to treat abnormal heart rhythm or disorders
 
 ## Pregnancy and breast-feeding
 
@@ -1090,7 +1086,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects:
 
-Cenrifki may cause your liver not to work properly (may affect up to 1 in 10 people) . Tell your doctor if you have symptoms such as tiredness, nausea, vomiting, pain in the abdomen, fever, rash or itching of your skin, loss of appetite or interest in food, dark urine, or yellowing of skin or eyes.
+## Cenrifki may cause your liver not to work properly (may affect up to 1 in 10 people) .
+
+Tell your doctor if you have symptoms such as tiredness, nausea, vomiting, pain in the abdomen, fever, rash or itching of your skin, loss of appetite or interest in food, dark urine, or yellowing of skin or eyes.
 
 ## Cenrifki may increase your likelihood of developing infections (may affect more than 1 in 10 people) .
 
@@ -1133,7 +1131,7 @@ The active substance is tolebrutinib. Each film-coated tablet contains 60 mg of 
 
 <div style=\"page-break-after: always\"></div>
 
-The other ingredients are lactose monohydrate, microcrystalline cellulose, hypromellose, crospovidone (Type A), magnesium stearate, titanium dioxide, yellow iron oxide (E172), red iron oxide (E172), macrogol - polyethylene glycol (400) (see section 2 'Cenrifki contains lactose').
+The other ingredients are lactose monohydrate, microcrystalline cellulose, hypromellose, crospovidone (Type A), magnesium stearate, titanium dioxide, yellow iron oxide (E172), red iron oxide (E172), macrogol - polyethylene glycol (400) (see section 2 ' Cenrifki contains lactose' ).
 
 ## What Cenrifki looks like and contents of the pack
 
@@ -1163,12 +1161,6 @@ Sanofi Belgium
 
 Tél/Tel: +32 (0)2 710 54 00
 
-## Lietuva
-
-Swixx Biopharma UAB
-
-Tel: +370 5 236 91 40
-
 ## България
 
 Swixx Biopharma EOOD
@@ -1177,35 +1169,17 @@ Swixx Biopharma EOOD
 
 .: +359 (0)2 4942 480
 
-## Luxembourg/Luxemburg
-
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
-
 ## Česká republika
 
 Sanofi s.r.o.
 
 Tel: +420 233 086 111
 
-## Magyarország
-
-SANOFI-AVENTIS Zrt.
-
-Tel.: +36 1 505 0050
-
 ## Danmark
 
 Sanofi A/S
 
 Tlf: +45 45 16 70 00
-
-## Malta
-
-Sanofi S.r.l.
-
-Tel: +39 02 39394275
 
 ## Deutschland
 
@@ -1215,21 +1189,43 @@ Tel.: 0800 04 36 996
 
 Tel. aus dem Ausland: +49 69 305 70 13
 
+## Eesti
+
+## Lietuva
+
+Swixx Biopharma UAB Tel: +370 5 236 91 40
+
+## Luxembourg/Luxemburg
+
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+
+## Magyarország
+
+SANOFI-AVENTIS Zrt.
+
+Tel.: +36 1 505 0050
+
+## Malta
+
+Sanofi S.r.l.
+
+Tel: +39 02 39394275
+
 ## Nederland
 
 Sanofi B.V.
 
 Tel: +31 20 245 4000
 
-## Eesti
-
-## Norge
+Norge
 
 Swixx Biopharma OÜ
 
-<div style=\"page-break-after: always\"></div>
-
 Tel: +372 640 10 30
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ελλάδα
 
@@ -1291,13 +1287,11 @@ Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
 
-## This leaflet was last revised in
+## This leaflet was last revised in .
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-.
 
 sanofi-aventis Norge AS
 
@@ -1329,9 +1323,7 @@ Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
-Swixx Biopharma d.o.o.
-
-Tel: +386 1 235 51 00
+Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
 
 ## Slovenská republika
 

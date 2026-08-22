@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-sandoz.html
 document_name: rivastigmine-sandoz.html
 version: success
-processing_time: 0.1489398
-conversion_datetime: 2026-08-22 22:47:07.837155
+processing_time: 0.1478393
+conversion_datetime: 2026-08-22 23:21:27.60603
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

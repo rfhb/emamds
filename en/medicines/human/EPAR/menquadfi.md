@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/menquadfi.html
 document_name: menquadfi.html
 version: success
-processing_time: 0.1487529
-conversion_datetime: 2026-08-22 22:50:56.349775
+processing_time: 0.1461349
+conversion_datetime: 2026-08-22 23:25:19.327894
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

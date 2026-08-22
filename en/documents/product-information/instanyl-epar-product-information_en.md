@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-13 15:22:25
+document_datetime: 2026-08-20 15:57:32
 document_pages: 123
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/instanyl-epar-product-information_en.pdf
 document_name: instanyl-epar-product-information_en.pdf
 version: success
-processing_time: 31.9399039
-conversion_datetime: 2025-12-23 08:12:26.643446
+processing_time: 28.978064
+conversion_datetime: 2026-08-23 00:33:49.794387
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -50,9 +50,9 @@ Nasal spray, solution (nasal spray) Clear, colourless solution.
 
 ## 4.1 Therapeutic indications
 
-Instanyl is indicated for the management of breakthrough pain in adults already receiving maintenance opioid therapy for chronic cancer pain. Breakthrough pain is a transitory exacerbation of pain that occurs on a background of otherwise controlled persistent pain. daily, at least 8 mg of oral hydromorphone daily or an equianalgesic dose of another opioid for a week
+Instanyl is indicated for the management of breakthrough pain in adults already receiving maintenance opioid therapy for chronic cancer pain. Breakthrough pain is a transitory exacerbation of pain that occurs on a background of otherwise controlled persistent pain.
 
-Patients receiving maintenance opioid therapy are those who are taking at least 60 mg of oral morphine daily, at least 25 micrograms of transdermal fentanyl per hour, at least 30 mg oxycodone or longer.
+Patients receiving maintenance opioid therapy are those who are taking at least 60 mg of oral morphine daily, at least 25 micrograms of transdermal fentanyl per hour, at least 30 mg oxycodone daily, at least 8 mg of oral hydromorphone daily or an equianalgesic dose of another opioid for a week or longer.
 
 ## 4.2 Posology and method of administration
 
@@ -126,17 +126,13 @@ The safety and efficacy of Instanyl in children aged below 18 years have not yet
 
 It is recommended that the patient sit or stand in upright position when administrating Instanyl. Cleaning of the nasal spray tip is required after each use.
 
-## Precautions to be taken before handling or administering the medicinal product
-
-Before using Instanyl for the first time, the nasal spray must be primed until a fine mist appears; 3 to 4 actuations of the nasal spray are usually required.
+Precautions to be taken before handling or administering the medicinal product Before using Instanyl for the first time, the nasal spray must be primed until a fine mist appears; 3 to 4 actuations of the nasal spray are usually required.
 
 If the product has not been used for a period of more than 7 days, the nasal spray must be primed again by actuating once before the next dose is taken.
 
-During the priming process product will be expelled. Therefore, the patient must be instructed that the priming should be conducted in a well ventilated area, pointing away from the patient and other
+During the priming process product will be expelled. Therefore, the patient must be instructed that the priming should be conducted in a well ventilated area, pointing away from the patient and other people, and away from surfaces and objects that could come into contact with other people, particularly children.
 
 <div style=\"page-break-after: always\"></div>
-
-people, and away from surfaces and objects that could come into contact with other people, particularly children.
 
 ## 4.3 Contraindications
 
@@ -202,11 +198,9 @@ Tolerance and physical and/or psychological dependence may develop upon repeated
 
 Repeated use of Instanyl may lead to Opioid Use Disorder (OUD). A higher dose and longer duration of opioid treatment, can increase the risk of developing OUD. Abuse or intentional misuse of Instanyl may result in overdose and/or death. The risk of developing OUD is increased in patients with a personal or a family history (parents or siblings) of substance use disorders (including alcohol use disorder), in current tobacco users or in patients with a personal history of other mental health disorders (e.g. major depression, anxiety and personality disorders).
 
-Before initiating treatment with Instanyl and during the treatment, treatment goals and a discontinuation plan should be agreed with the patient (see section 4.2). Before and during treatment
+Before initiating treatment with Instanyl and during the treatment, treatment goals and a discontinuation plan should be agreed with the patient (see section 4.2). Before and during treatment the patient should also be informed about the risks and signs of OUD. Patients should be advised to contact their physician if these signs occur.
 
 <div style=\"page-break-after: always\"></div>
-
-the patient should also be informed about the risks and signs of OUD. Patients should be advised to contact their physician if these signs occur.
 
 Patients will require monitoring for signs of drug-seeking behaviour (e.g. too early requests for refills). This includes the review of concomitant opioids and psycho-active drugs (like benzodiazepines). For patients with signs and symptoms of OUD, consultation with an addiction specialist should be considered.
 
@@ -292,8 +286,6 @@ The following adverse reactions have been reported with Instanyl and/or other fe
 | General disorders and administration site conditions |                                 | Pyrexia                                                    | Fatigue, malaise peripheral oedema, withdrawal syndrome*, neonatal withdrawal syndrome, Drug tolerance |
 | Injury, poisoning and procedural complications       |                                 |                                                            | Fall                                                                                                   |
 
-*opioid withdrawal symptoms such as nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating have been observed with transmucosal fentanyl.
-
 ## Description of selected adverse reactions
 
 ## Tolerance
@@ -334,7 +326,7 @@ Pharmacotherapeutic group: Analgesics, opioids, ATC code: N02AB03
 
 ## Mechanism of action
 
-Fentanyl is an opioid analgesic interacting primarily with the opioid μ -receptor as a pure agonist with low affinity for the δ -and κ -opioid receptors. The primary therapeutic action is analgesia. The secondary pharmacological effects are respiratory depression, bradycardia, hypothermia, constipation, miosis, physical dependence and euphoria.
+Fentanyl is an opioid analgesic interacting primarily with the opioid μ -receptor as a pure agonist with low affinity for the  -and κ -opioid receptors. The primary therapeutic action is analgesia. The secondary pharmacological effects are respiratory depression, bradycardia, hypothermia, constipation, miosis, physical dependence and euphoria.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -358,7 +350,7 @@ Opioids may influence the hypothalamic-pituitary-adrenal or -gonadal axes. Some 
 
 ## Absorption
 
-Fentanyl is highly lipophilic. Fentanyl exhibits three compartment distribution kinetics. Animal data shows that following absorption, fentanyl is rapidly distributed to the brain, heart, lungs, kidneys and spleen followed by a slower redistribution to muscles and fat. The plasma protein binding of fentanyl is approximately 80 % . The absolute bioavailability of Instanyl is approximately 89 % . Clinical data show that fentanyl is absorbed very rapidly through the nasal mucosa. Administration of Instanyl in single doses ranging from 50 to 200 micrograms fentanyl per dose in opioid tolerant cancer patients produces a rapid Cmax level of 0.35 to 1.2 ng/ml. The corresponding median Tmax are 12-15 minutes. However, higher values for Tmax were observed in a dose-proportionality study in healthy volunteers.
+Fentanyl is highly lipophilic. Fentanyl exhibits three compartment distribution kinetics. Animal data shows that following absorption, fentanyl is rapidly distributed to the brain, heart, lungs, kidneys and spleen followed by a slower redistribution to muscles and fat. The plasma protein binding of fentanyl is approximately 80  . The absolute bioavailability of Instanyl is approximately 89  . Clinical data show that fentanyl is absorbed very rapidly through the nasal mucosa. Administration of Instanyl in single doses ranging from 50 to 200 micrograms fentanyl per dose in opioid tolerant cancer patients produces a rapid Cmax level of 0.35 to 1.2 ng/ml. The corresponding median Tmax are 12-15 minutes. However, higher values for Tmax were observed in a dose-proportionality study in healthy volunteers.
 
 ## Distribution
 
@@ -372,7 +364,7 @@ Fentanyl is metabolised primarily in the liver via CYP3A4. The major metabolite,
 
 ## Elimination
 
-About 75 % of fentanyl is excreted into the urine, mostly as inactive metabolites, with less than 10 % as unchanged active substance. About 9 % of the dose is recovered in the faeces primarily as metabolites.
+About 75  of fentanyl is excreted into the urine, mostly as inactive metabolites, with less than 10  as unchanged active substance. About 9  of the dose is recovered in the faeces primarily as metabolites.
 
 ## Linearity
 
@@ -398,11 +390,9 @@ Carcinogenicity studies (26-week dermal alternative bioassay in Tg.AC transgenic
 
 ## 6.1 List of excipients
 
-Sodium dihydrogen phosphate dihydrate
+Sodium dihydrogen phosphate dihydrate Disodium phosphate dihydrate Purified water
 
 <div style=\"page-break-after: always\"></div>
-
-Disodium phosphate dihydrate Purified water
 
 ## 6.2 Incompatibilities
 
@@ -414,9 +404,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Store below 30 ° C. Do not freeze.
-
-Keep the bottle stored upright.
+Store below 30  C. Do not freeze. Keep the bottle stored upright.
 
 ## 6.5 Nature and contents of container
 
@@ -428,7 +416,8 @@ Available in the following presentations:
 
 - 1.8 ml containing 0.90 mg fentanyl ensuring the delivery of 10 doses of 50 micrograms
 - 2.9 ml containing 1.45 mg fentanyl ensuring the delivery of 20 doses of 50 micrograms
-- 5.0 ml containing 2.50 mg fentanyl ensuring the delivery of 40 doses of 50 micrograms
+
+5.0 ml containing 2.50 mg fentanyl ensuring the delivery of 40 doses of 50 micrograms
 
 ## Instanyl 100 micrograms/dose nasal spray, solution
 
@@ -496,7 +485,9 @@ Nasal spray, solution (nasal spray) Clear, colourless solution.
 
 ## 4.1 Therapeutic indications
 
-Instanyl is indicated for the management of breakthrough pain in adults already receiving maintenance opioid therapy for chronic cancer pain. Breakthrough pain is a transitory exacerbation of pain that occurs on a background of otherwise controlled persistent pain. Patients receiving maintenance opioid therapy are those who are taking at least 60 mg of oral morphine daily, at least 25 micrograms of transdermal fentanyl per hour, at least 30 mg oxycodone daily, at least 8 mg of oral hydromorphone daily or an equianalgesic dose of another opioid for a week or longer.
+Instanyl is indicated for the management of breakthrough pain in adults already receiving maintenance opioid therapy for chronic cancer pain. Breakthrough pain is a transitory exacerbation of pain that occurs on a background of otherwise controlled persistent pain.
+
+Patients receiving maintenance opioid therapy are those who are taking at least 60 mg of oral morphine daily, at least 25 micrograms of transdermal fentanyl per hour, at least 30 mg oxycodone daily, at least 8 mg of oral hydromorphone daily or an equianalgesic dose of another opioid for a week or longer.
 
 ## 4.2 Posology and method of administration
 
@@ -572,7 +563,9 @@ It is recommended that the patient's head is in upright position when administra
 
 ## 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Patients without maintenance opioid therapy as there is an increased risk of respiratory depression. Treatment of acute pain other than breakthrough pain. Patients being treated with medicinal products containing sodium oxybate. Severe respiratory depression or severe obstructive lung conditions. Previous facial radiotherapy. Recurrent episodes of epistaxis (see section 4.4).
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+Patients without maintenance opioid therapy as there is an increased risk of respiratory depression. Treatment of acute pain other than breakthrough pain. Patients being treated with medicinal products containing sodium oxybate. Severe respiratory depression or severe obstructive lung conditions. Previous facial radiotherapy. Recurrent episodes of epistaxis (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -724,8 +717,6 @@ The following adverse reactions have been reported with Instanyl and/or other fe
 | General disorders and administration site conditions |                                 | Pyrexia                                                    | Fatigue, malaise peripheral oedema, withdrawal syndrome*, neonatal withdrawal syndrome, Drug tolerance |
 | Injury, poisoning and procedural complications       |                                 |                                                            | Fall                                                                                                   |
 
-*opioid withdrawal symptoms such as nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating have been observed with transmucosal fentanyl.
-
 ## Description of selected adverse reactions
 
 ## Tolerance
@@ -766,17 +757,15 @@ Pharmacotherapeutic group: Analgesics, opioids, ATC code: N02AB03
 
 ## Mechanism of action
 
-Fentanyl is an opioid analgesic interacting primarily with the opioid μ -receptor as a pure agonist with low affinity for the δ -and κ -opioid receptors. The primary therapeutic action is analgesia. The secondary pharmacological effects are respiratory depression, bradycardia, hypothermia, constipation, miosis, physical dependence and euphoria.
+Fentanyl is an opioid analgesic interacting primarily with the opioid μ -receptor as a pure agonist with low affinity for the  -and κ -opioid receptors. The primary therapeutic action is analgesia. The secondary pharmacological effects are respiratory depression, bradycardia, hypothermia, constipation, miosis, physical dependence and euphoria.
 
 ## Clinical safety and efficacy
 
 The efficacy and safety of Instanyl (50, 100 and 200 micrograms) have been assessed in two randomised, double-blind, cross-over, placebo-controlled pivotal studies in 279 opioid-tolerant adult cancer patients (age 32-86 years) with breakthrough pain (BTP). The patients had an average of 1 to 4 episodes per day while taking maintenance opioid therapy. Patients in the second pivotal study had earlier participated in the Instanyl pharmacokinetic study or in the first pivotal study.
 
-The clinical studies demonstrated the efficacy and safety of Instanyl. No distinct correlation between the maintenance opioid dose and Instanyl doses have been established, however in the second pivotal study patients receiving low maintenance opioid dose tended to achieve effective pain relief with a
+The clinical studies demonstrated the efficacy and safety of Instanyl. No distinct correlation between the maintenance opioid dose and Instanyl doses have been established, however in the second pivotal study patients receiving low maintenance opioid dose tended to achieve effective pain relief with a lower strength of Instanyl compared to patients taking higher levels of maintenance opioid dose. This observation was most distinct for patients receiving Instanyl 50 micrograms. In the clinical studies in cancer patients, the most frequent strengths used were 100 and 200 micrograms; however, patients should be titrated to the optimal dose of Instanyl for treating BTP in cancer (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-lower strength of Instanyl compared to patients taking higher levels of maintenance opioid dose. This observation was most distinct for patients receiving Instanyl 50 micrograms. In the clinical studies in cancer patients, the most frequent strengths used were 100 and 200 micrograms; however, patients should be titrated to the optimal dose of Instanyl for treating BTP in cancer (see section 4.2).
 
 All three strengths of Instanyl demonstrated statistically significant (p &lt; 0.001) higher pain intensity difference at 10 minutes (PID10) compared with placebo. Furthermore, Instanyl was significantly superior to placebo in BTP relief at 10, 20, 40, and 60 minutes following administration. The results of summary of PID at 60 minutes (SPID0-60) showed that all strengths of Instanyl had significantly higher mean SPID0-60 scores compared with placebo (p &lt; 0.001) demonstrating better pain relief of Instanyl compared to placebo during 60 minutes.
 
@@ -792,7 +781,7 @@ Opioids may influence the hypothalamic-pituitary-adrenal or -gonadal axes. Some 
 
 ## Absorption
 
-Fentanyl is highly lipophilic. Fentanyl exhibits three compartment distribution kinetics. Animal data shows that following absorption, fentanyl is rapidly distributed to the brain, heart, lungs, kidneys and spleen followed by a slower redistribution to muscles and fat. The plasma protein binding of fentanyl is approximately 80 % . The absolute bioavailability of Instanyl is approximately 89 % . Clinical data show that fentanyl is absorbed very rapidly through the nasal mucosa. Administration of Instanyl in single doses ranging from 50 to 200 micrograms fentanyl per dose in opioid tolerant cancer patients produces a rapid Cmax level of 0.35 to 1.2 ng/ml. The corresponding median Tmax are 12-15 minutes. However, higher values for Tmax were observed in a dose-proportionality study in healthy volunteers.
+Fentanyl is highly lipophilic. Fentanyl exhibits three compartment distribution kinetics. Animal data shows that following absorption, fentanyl is rapidly distributed to the brain, heart, lungs, kidneys and spleen followed by a slower redistribution to muscles and fat. The plasma protein binding of fentanyl is approximately 80  . The absolute bioavailability of Instanyl is approximately 89  . Clinical data show that fentanyl is absorbed very rapidly through the nasal mucosa. Administration of Instanyl in single doses ranging from 50 to 200 micrograms fentanyl per dose in opioid tolerant cancer patients produces a rapid Cmax level of 0.35 to 1.2 ng/ml. The corresponding median Tmax are 12-15 minutes. However, higher values for Tmax were observed in a dose-proportionality study in healthy volunteers.
 
 ## Distribution
 
@@ -804,7 +793,7 @@ Fentanyl is metabolised primarily in the liver via CYP3A4. The major metabolite,
 
 ## Elimination
 
-About 75 % of fentanyl is excreted into the urine, mostly as inactive metabolites, with less than 10 % as unchanged active substance. About 9 % of the dose is recovered in the faeces primarily as metabolites.
+About 75  of fentanyl is excreted into the urine, mostly as inactive metabolites, with less than 10  as unchanged active substance. About 9  of the dose is recovered in the faeces primarily as metabolites.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -850,9 +839,7 @@ Instanyl 200 micrograms nasal spray, solution in single-dose container 42 months
 
 ## 6.4 Special precautions for storage
 
-Store below 30 ° C.
-
-Keep the blister in the outer carton. Keep stored upright.
+Store below 30  C. Keep the blister in the outer carton. Keep stored upright.
 
 ## 6.5 Nature and contents of container
 
@@ -886,6 +873,8 @@ Instanyl 200 micrograms nasal spray, solution in single-dose container EU/1/09/5
 
 Date of first authorisation: 20 July 2009
 
+Date of latest renewal: 01 July 2019
+
 <div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
@@ -906,7 +895,9 @@ Each ml of solution contains fentanyl citrate equivalent to 500 micrograms fenta
 
 Instanyl 100 micrograms/dose nasal spray, solution Each ml of solution contains fentanyl citrate equivalent to 1,000 micrograms fentanyl. 1 dose (100 microlitres) contains 100 micrograms fentanyl.
 
-Instanyl 200 micrograms/dose nasal spray, solution Each ml of solution contains fentanyl citrate equivalent to 2,000 micrograms fentanyl. 1 dose (100 microlitres) contains 200 micrograms fentanyl.
+Instanyl 200 micrograms/dose nasal spray, solution Each ml of solution contains fentanyl citrate equivalent to 2,000 micrograms fentanyl.
+
+1 dose (100 microlitres) contains 200 micrograms fentanyl.
 
 For the full list of excipients, see section 6.1.
 
@@ -918,9 +909,9 @@ Nasal spray, solution (nasal spray). DoseGuard Clear, colourless solution.
 
 ## 4.1 Therapeutic indications
 
-Instanyl is indicated for the management of breakthrough pain in adults already receiving maintenance opioid therapy for chronic cancer pain. Breakthrough pain is a transitory exacerbation of pain that occurs on a background of otherwise controlled persistent pain.
+Instanyl is indicated for the management of breakthrough pain in adults already receiving maintenance opioid therapy for chronic cancer pain. Breakthrough pain is a transitory exacerbation of pain that occurs on a background of otherwise controlled persistent pain. daily, at least 8 mg of oral hydromorphone daily or an equianalgesic dose of another opioid for a week
 
-Patients receiving maintenance opioid therapy are those who are taking at least 60 mg of oral morphine daily, at least 25 micrograms of transdermal fentanyl per hour, at least 30 mg oxycodone daily, at least 8 mg of oral hydromorphone daily or an equianalgesic dose of another opioid for a week or longer.
+Patients receiving maintenance opioid therapy are those who are taking at least 60 mg of oral morphine daily, at least 25 micrograms of transdermal fentanyl per hour, at least 30 mg oxycodone or longer.
 
 ## 4.2 Posology and method of administration
 
@@ -1066,11 +1057,9 @@ The overall extent of fentanyl exposure in subjects with common cold without pri
 
 Tolerance and physical and/or psychological dependence may develop upon repeated administration of opioids such as fentanyl.
 
-Repeated use of Instanyl may lead to Opioid Use Disorder (OUD). A higher dose and longer duration of opioid treatment, can increase the risk of developing OUD. Abuse or intentional misuse of Instanyl may result in overdose and/or death. The risk of developing OUD is increased in patients with a personal or a family history (parents or siblings) of substance use disorders (including alcohol use
+Repeated use of Instanyl may lead to Opioid Use Disorder (OUD). A higher dose and longer duration of opioid treatment, can increase the risk of developing OUD. Abuse or intentional misuse of Instanyl may result in overdose and/or death. The risk of developing OUD is increased in patients with a personal or a family history (parents or siblings) of substance use disorders (including alcohol use disorder), in current tobacco users or in patients with a personal history of other mental health disorders (e.g. major depression, anxiety and personality disorders).
 
 <div style=\"page-break-after: always\"></div>
-
-disorder), in current tobacco users or in patients with a personal history of other mental health disorders (e.g. major depression, anxiety and personality disorders).
 
 Before initiating treatment with Instanyl and during the treatment, treatment goals and a discontinuation plan should be agreed with the patient (see section 4.2). Before and during treatment the patient should also be informed about the risks and signs of OUD. Patients should be advised to contact their physician if these signs occur.
 
@@ -1098,11 +1087,9 @@ Patients receiving Instanyl concomitantly with moderate or strong CYP3A4 inhibit
 
 In a pharmacokinetic interaction study it was found that the maximum plasma concentration of nasally applied fentanyl was reduced about 50% by the concomitant use of oxymetazoline, while the time to reach Cmax (Tmax) was doubled. This may reduce the efficacy of Instanyl. It is recommended that concomitant use of nasal decongestants is avoided (see section 5.2).
 
-The concomitant use of Instanyl with other central nervous system depressants, (including opioids, sedatives, hypnotics, general anaesthetics, phenothiazines, tranquillisers, sedating antihistamines and
+The concomitant use of Instanyl with other central nervous system depressants, (including opioids, sedatives, hypnotics, general anaesthetics, phenothiazines, tranquillisers, sedating antihistamines and alcohol), skeletal muscle relaxants and gabapentinoids (gabapentin and pregabalin) may produce additive depressant effects: hypoventilation, hypotension, profound sedation, respiratory depression, coma or death may occur. Therefore, the use of any of these medicinal products concomitantly with Instanyl requires special patient care and observation.
 
 <div style=\"page-break-after: always\"></div>
-
-alcohol), skeletal muscle relaxants and gabapentinoids (gabapentin and pregabalin) may produce additive depressant effects: hypoventilation, hypotension, profound sedation, respiratory depression, coma or death may occur. Therefore, the use of any of these medicinal products concomitantly with Instanyl requires special patient care and observation.
 
 The concomitant use of opioids with sedative medicines such as benzodiazepines or related drugs increases the risk of sedation, respiratory depression, coma and death because of additive CNS depressant effect. The dose and duration of concomitant use should be limited (see section 4.4).
 
@@ -1134,11 +1121,9 @@ No studies of the effects on the ability to drive and use machines have been per
 
 ## Summary of the safety profile
 
-Typical opioid adverse reactions are to be expected with Instanyl. Frequently, most of these will cease or decrease in intensity with continued use of the medicinal product. The most serious adverse
+Typical opioid adverse reactions are to be expected with Instanyl. Frequently, most of these will cease or decrease in intensity with continued use of the medicinal product. The most serious adverse reactions are respiratory depression (potentially leading to apnoea or respiratory arrest), circulatory depression, hypotension and shock and all patients should be closely monitored for these.
 
 <div style=\"page-break-after: always\"></div>
-
-reactions are respiratory depression (potentially leading to apnoea or respiratory arrest), circulatory depression, hypotension and shock and all patients should be closely monitored for these.
 
 The adverse reactions considered to be at least possibly related to treatment in the clinical trials of Instanyl are included in the table below.
 
@@ -1161,8 +1146,6 @@ The following adverse reactions have been reported with Instanyl and/or other fe
 | Skin and subcutaneous tissue disorders               | Hyperhidrosis                   | Pain of skin, pruritus                                     |                                                                                                        |
 | General disorders and administration site conditions |                                 | Pyrexia                                                    | Fatigue, malaise peripheral oedema, withdrawal syndrome*, neonatal withdrawal syndrome, Drug tolerance |
 | Injury, poisoning and procedural complications       |                                 |                                                            | Fall                                                                                                   |
-
-*opioid withdrawal symptoms such as nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating have been observed with transmucosal fentanyl.
 
 ## Description of selected adverse reactions
 
@@ -1204,11 +1187,9 @@ Pharmacotherapeutic group: Analgesics, opioids, ATC code: N02AB03
 
 ## Mechanism of action
 
-Fentanyl is an opioid analgesic interacting primarily with the opioid μ -receptor as a pure agonist with low affinity for the δ -and κ -opioid receptors. The primary therapeutic action is analgesia. The
+Fentanyl is an opioid analgesic interacting primarily with the opioid μ -receptor as a pure agonist with low affinity for the  -and κ -opioid receptors. The primary therapeutic action is analgesia. The secondary pharmacological effects are respiratory depression, bradycardia, hypothermia, constipation, miosis, physical dependence and euphoria.
 
 <div style=\"page-break-after: always\"></div>
-
-secondary pharmacological effects are respiratory depression, bradycardia, hypothermia, constipation, miosis, physical dependence and euphoria.
 
 ## Clinical safety and efficacy
 
@@ -1230,7 +1211,7 @@ Opioids may influence the hypothalamic-pituitary-adrenal or -gonadal axes. Some 
 
 ## Absorption
 
-Fentanyl is highly lipophilic. Fentanyl exhibits three compartment distribution kinetics. Animal data shows that following absorption, fentanyl is rapidly distributed to the brain, heart, lungs, kidneys and spleen followed by a slower redistribution to muscles and fat. The plasma protein binding of fentanyl is approximately 80 % . The absolute bioavailability of Instanyl is approximately 89 % . Clinical data show that fentanyl is absorbed very rapidly through the nasal mucosa. Administration of Instanyl in single doses ranging from 50 to 200 micrograms fentanyl per dose in opioid tolerant cancer patients produces a rapid Cmax level of 0.35 to 1.2 ng/ml. The corresponding median Tmax are 12-15 minutes. However, higher values for Tmax were observed in a dose-proportionality study in healthy volunteers.
+Fentanyl is highly lipophilic. Fentanyl exhibits three compartment distribution kinetics. Animal data shows that following absorption, fentanyl is rapidly distributed to the brain, heart, lungs, kidneys and spleen followed by a slower redistribution to muscles and fat. The plasma protein binding of fentanyl is approximately 80  . The absolute bioavailability of Instanyl is approximately 89  . Clinical data show that fentanyl is absorbed very rapidly through the nasal mucosa. Administration of Instanyl in single doses ranging from 50 to 200 micrograms fentanyl per dose in opioid tolerant cancer patients produces a rapid Cmax level of 0.35 to 1.2 ng/ml. The corresponding median Tmax are 12-15 minutes. However, higher values for Tmax were observed in a dose-proportionality study in healthy volunteers.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1244,7 +1225,7 @@ Fentanyl is metabolised primarily in the liver via CYP3A4. The major metabolite,
 
 ## Elimination
 
-About 75 % of fentanyl is excreted into the urine, mostly as inactive metabolites, with less than 10 % as unchanged active substance. About 9 % of the dose is recovered in the faeces primarily as metabolites.
+About 75  of fentanyl is excreted into the urine, mostly as inactive metabolites, with less than 10  as unchanged active substance. About 9  of the dose is recovered in the faeces primarily as metabolites.
 
 ## Linearity
 
@@ -1284,7 +1265,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Store below 30 ° C. Do not freeze. Keep stored upright.
+Store below 30  C. Do not freeze. Keep stored upright.
 
 ## 6.5 Nature and contents of container
 
@@ -1622,7 +1603,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30 ° C.
+Store below 30  C.
 
 Keep the bottle stored upright.
 
@@ -1664,37 +1645,41 @@ Instanyl 50
 
 <div style=\"page-break-after: always\"></div>
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## LABEL / BOTTLE (Multi dose)
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL / BOTTLE (Multi dose)                                        |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Instanyl 50 micrograms/dose nasal spray fentanyl
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.8 ml - 10 doses
 
@@ -1702,7 +1687,8 @@ Lot
 
 5.0 ml - 40 doses
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Accidental use can be fatal.
 
@@ -1784,11 +1770,11 @@ Keep out of the sight and reach of children.
 
 <!-- image -->
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Only used for chronic cancer pain while taking other opioids.
-
-Accidental use can be fatal.
+Only used for chronic cancer pain while taking other opioids. Accidental use can be fatal.
 
 ## 8. EXPIRY DATE
 
@@ -1796,7 +1782,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30 ° C.
+Store below 30  C.
 
 Keep the bottle stored upright.
 
@@ -1834,39 +1820,40 @@ Lot
 
 ## 16. INFORMATION IN BRAILLE
 
-<div style=\"page-break-after: always\"></div>
-
 Instanyl 100
 
 <div style=\"page-break-after: always\"></div>
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## LABEL / BOTTLE (Multi dose)
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL / BOTTLE (Multi dose)                                        |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Instanyl 100 micrograms/dose nasal spray fentanyl
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1878,7 +1865,8 @@ Lot
 
 5.0 ml - 40 doses
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Accidental use can be fatal.
 
@@ -1962,9 +1950,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Only used for chronic cancer pain while taking other opioids.
-
-Accidental use can be fatal.
+Only used for chronic cancer pain while taking other opioids. Accidental use can be fatal.
 
 ## 8. EXPIRY DATE
 
@@ -1972,7 +1958,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30 ° C.
+Store below 30  C.
 
 Keep the bottle stored upright.
 
@@ -2016,13 +2002,13 @@ Instanyl 200
 
 <div style=\"page-break-after: always\"></div>
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2054,7 +2040,8 @@ Lot
 
 5.0 ml - 40 doses
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Accidental use can be fatal.
 
@@ -2080,7 +2067,8 @@ Also contains: sodium dihydrogen phosphate dihydrate, disodium phosphate dihydra
 
 Nasal spray, solution
 
-- 2 single-dose containers
+2 single-dose containers
+
 - 6 single-dose containers
 - 8 single-dose containers
 - 10 single-dose containers
@@ -2099,9 +2087,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Only used for chronic cancer pain while taking other opioids.
-
-Accidental use can cause serious harm and be fatal.
+Only used for chronic cancer pain while taking other opioids. Accidental use can cause serious harm and be fatal.
 
 ## 8. EXPIRY DATE
 
@@ -2111,7 +2097,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30 ° C.
+Store below 30  C.
 
 Keep the blister in the outer carton. Keep stored upright.
 
@@ -2151,14 +2137,14 @@ Lot
 
 Instanyl 50, single-dose
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2186,27 +2172,20 @@ Lot
 
 ## 5. OTHER
 
-Nasal use
-
-1 dose
-
-Keep out of the sight and reach of children.
-
-Accidental use can be fatal.
+Nasal use 1 dose Keep out of the sight and reach of children. Accidental use can be fatal.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL / SINGLE-DOSE NASAL SPRAY                                  |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL / SINGLE-DOSE NASAL SPRAY                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Instanyl 50 mcg nasal spray fentanyl Nasal use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2218,8 +2197,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 dose
 
@@ -2267,9 +2246,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Only used for chronic cancer pain while taking other opioids.
-
-Accidental use can cause serious harm and be fatal.
+Only used for chronic cancer pain while taking other opioids. Accidental use can cause serious harm and be fatal.
 
 ## 8. EXPIRY DATE
 
@@ -2279,7 +2256,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30 ° C.
+Store below 30  C.
 
 Keep the blister in the outer carton. Keep stored upright.
 
@@ -2319,14 +2296,14 @@ Lot
 
 Instanyl 100, single-dose
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2354,27 +2331,21 @@ Lot
 
 ## 5. OTHER
 
-Nasal use
-
-1 dose
-
-Keep out of the sight and reach of children.
-
-Accidental use can be fatal.
+Nasal use 1 dose Keep out of the sight and reach of children. Accidental use can be fatal.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL / SINGLE-DOSE NASAL SPRAY                                  |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL / SINGLE-DOSE NASAL SPRAY                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Instanyl 100 mcg nasal spray fentanyl Nasal use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2386,8 +2357,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 dose
 
@@ -2416,7 +2387,8 @@ Also contains: sodium dihydrogen phosphate dihydrate, disodium phosphate dihydra
 
 Nasal spray, solution
 
-- 2 single-dose containers
+2 single-dose containers
+
 - 6 single-dose containers
 - 8 single-dose containers
 - 10 single-dose containers
@@ -2435,9 +2407,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Only used for chronic cancer pain while taking other opioids.
-
-Accidental use can cause serious harm and be fatal.
+Only used for chronic cancer pain while taking other opioids. Accidental use can cause serious harm and be fatal.
 
 ## 8. EXPIRY DATE
 
@@ -2447,9 +2417,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30
-
-° C.
+Store below 30  C.
 
 Keep the blister in the outer carton. Keep stored upright.
 
@@ -2489,14 +2457,14 @@ Lot
 
 Instanyl 200, single-dose
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2524,27 +2492,21 @@ Lot
 
 ## 5. OTHER
 
-Nasal use
-
-1 dose
-
-Keep out of the sight and reach of children.
-
-Accidental use can be fatal.
+Nasal use 1 dose Keep out of the sight and reach of children. Accidental use can be fatal.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL / SINGLE-DOSE NASAL SPRAY                                  |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL / SINGLE-DOSE NASAL SPRAY                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Instanyl 200 mcg nasal spray fentanyl Nasal use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2556,8 +2518,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 dose
 
@@ -2568,7 +2530,9 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER BOX - CARTON: DoseGuard
+OUTER BOX -
+
+CARTON: DoseGuard
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2584,7 +2548,7 @@ Also contains: sodium dihydrogen phosphate dihydrate, disodium phosphate dihydra
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## DoseGuard
+DoseGuard
 
 Nasal spray, solution 3.2 ml
 
@@ -2622,7 +2586,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30 ° C.
+Store below 30  C.
 
 Do not freeze.
 
@@ -2670,8 +2634,8 @@ Instanyl 50
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2715,7 +2679,7 @@ Accidental use can be fatal.
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER BOX - CARTON DoseGuard
+OUTER BOX -CARTON DoseGuard
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2731,7 +2695,7 @@ Also contains: sodium dihydrogen phosphate dihydrate, disodium phosphate dihydra
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-DoseGuard
+## DoseGuard
 
 Nasal spray, solution 3.2 ml
 
@@ -2769,7 +2733,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30 ° C.
+Store below 30  C.
 
 Do not freeze.
 
@@ -2817,8 +2781,8 @@ Instanyl 100
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2878,7 +2842,7 @@ Also contains: sodium dihydrogen phosphate dihydrate, disodium phosphate dihydra
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## DoseGuard
+DoseGuard
 
 Nasal spray, solution 3.2 ml
 
@@ -2916,7 +2880,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30 ° C.
+Store below 30  C.
 
 Do not freeze.
 
@@ -2964,8 +2928,8 @@ Instanyl 200
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3013,7 +2977,9 @@ Accidental use can be fatal.
 
 <div style=\"page-break-after: always\"></div>
 
-Instanyl 50 micrograms/dose nasal spray, solution Instanyl 100 micrograms/dose nasal spray, solution Instanyl 200 micrograms/dose nasal spray, solution fentanyl
+## Instanyl 50 micrograms/dose nasal spray, solution Instanyl 100 micrograms/dose nasal spray, solution Instanyl 200 micrograms/dose nasal spray, solution
+
+fentanyl
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -3063,8 +3029,8 @@ Talk to your doctor or pharmacist before using Instanyl, especially:
 - -if you have problems with your brain function, e.g. due to a brain tumour, a head injury or increased intracranial pressure.
 - -if you have ever developed adrenal insufficiency or lack of sex hormones (androgen deficiency) with opioid use.
 - -if you take sedative medicines such as benzodiazepines or related drugs (please also refer to the section 'Other medicines and Instanyl').
-- -if you take antidepressants or antipsychotics (please also refer to the section 'Other medicines and Instanyl').
-- -if you take medicines called partial agonist/antagonists e.g. buprenorphine, nalbuphine and pentazocine (medicines for treatment of pain) as you may experience symptoms of withdrawal syndrome. Please refer to the section 'Other medicines and Instanyl' for more information.
+- -if you take antidepressants or antipsychotics (please also refer to the section ' Other medicines and Instanyl ' ).
+- -if you take medicines called partial agonist/antagonists e.g. buprenorphine, nalbuphine and pentazocine (medicines for treatment of pain) as you may experience symptoms of withdrawal syndrome. Please refer to the section ' Other medicines and Instanyl ' for more information.
 - -if you use other nasal spray products, e.g. for common cold or allergy.
 
 ## Sleep-related breathing disorders
@@ -3088,11 +3054,9 @@ This medicine contains fentanyl which is an opioid medicine. Repeated use of opi
 
 This medicine contains fentanyl, which is an opioid. It can cause dependence and/or addiction.
 
-Repeated use of Instanyl can also lead to dependence, abuse and addiction which may result in lifethreatening overdose. The risk of these side effects can increase with a higher dose and longer duration of use. Dependence or addiction can make you feel that you are no longer in control of how much
+Repeated use of Instanyl can also lead to dependence, abuse and addiction which may result in lifethreatening overdose. The risk of these side effects can increase with a higher dose and longer duration of use. Dependence or addiction can make you feel that you are no longer in control of how much medicine you need to use or how often you need to use it. You might feel that you need to carry on using your medicine, even when it doesn't help to relieve your pain.
 
 <div style=\"page-break-after: always\"></div>
-
-medicine you need to use or how often you need to use it. You might feel that you need to carry on using your medicine, even when it doesn't help to relieve your pain.
 
 The risk of becoming dependent or addicted varies from person to person. You may have a greater risk of becoming dependent or addicted on Instanyl if:
 
@@ -3104,7 +3068,7 @@ If you notice any of the following signs whilst using Instanyl, it could be a si
 
 - -you need to use the medicine for longer than advised by your doctor
 - -you need to use more than the recommended dose
-- -you are using the medicine for reasons other than prescribed, for instance, 'to stay calm' or 'help you sleep'
+- -y ou are using the medicine for reasons other than prescribed, for instance, 'to stay calm' or 'help you sleep'
 - -you have made repeated, unsuccessful attempts to quit or control the use of the medicine
 - -when you stop taking the medicine you feel unwell (e.g. nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating), and you feel better once using the medicine again ('withdrawal effects')
 
@@ -3123,10 +3087,8 @@ Instanyl may affect or be affected by other medicines.
 Special care should be taken if you are treated with any of the following medicines:
 
 - -Other medicines for pain and some painkillers for nerve pain (such as gabapentin and pregabalin).
-- -any medicines which might normally make you sleepy (have a sedative effect) such as sleeping pills, sedative medicines such as benzodiazepines or related medicines, medicines to treat anxiety, antihistamines, or tranquillisers, skeletal muscle relaxants and gabapentinoids (gabapentin and pregabalin). The use of such other medicines at the same time as Instanyl, may cause risk of drowsiness, deep sedation and affect your ability to breathe (respiratory depression), which may lead to coma and may be life-threatening. Because of this, concomitant use should only be considered when other treatment options are not possible. However if your doctor does prescribe Instanyl together with sedative medicines the dose and duration of concomitant treatment should be limited by your doctor. the signs and symptoms stated above. Contact your doctor when experiencing such symptoms. -
-
-Please tell your doctor about all sedative medicines you are taking, and follow your doctor's dose recommendation closely. It could be helpful to inform friends or relatives to be aware of any medicines that might have an effect on the way in which your body breaks down Instanyl, such as:
-
+- -any medicines which might normally make you sleepy (have a sedative effect) such as sleeping pills, sedative medicines such as benzodiazepines or related medicines, medicines to treat anxiety, antihistamines, or tranquillisers, skeletal muscle relaxants and gabapentinoids (gabapentin and pregabalin). The use of such other medicines at the same time as Instanyl, may cause risk of drowsiness, deep sedation and affect your ability to breathe (respiratory depression), which may lead to coma and may be life-threatening. Because of this, concomitant use should only be considered when other treatment options are not possible. However if your doctor does prescribe Instanyl together with sedative medicines the dose and duration of concomitant treatment should be limited by your doctor. Please tell your doctor about all sedative medicines you are taking, and follow your doctor's dose recommendation closely. It could be helpful to inform friends or relatives to be aware of the signs and symptoms stated above. Contact your doctor when experiencing such symptoms.
+- -any medicines that might have an effect on the way in which your body breaks down Instanyl, such as:
 - ritonavir, nelfinavir, amprenavir, and fosamprenavir (medicines that help control HIV infection);
 - CYP3A4 inhibitors such as ketoconazole, itraconazole, or fluconazole (used for treatment of fungal infections);
 - troleandomycin, clarithromycin, or erythromycin (medicines for treatment of bacterial infections);
@@ -3253,7 +3215,7 @@ Sleeplessness, drowsiness, convulsive muscle contractions, abnormal sensation of
 
 Allergic reaction, fall, diarrhoea, convulsions (fits), loss of consciousness, swelling of arms or legs, seeing or hearing things that are not really there (hallucinations), delirium (symptoms may include a combination of agitation, restlessness, disorientation, confusion, fear, seeing or hearing things that are not really there, sleep disturbance, nightmares), drug tolerance, drug dependence (addiction), drug abuse (see section 2), fatigue, malaise, withdrawal syndrome (may manifest by the occurrence of the following side effects nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating), shortness of breath.
 
-There have also been reports of patients developing a hole in the septum of the nose - the structure, which separates the nostrils.
+There have also been reports of patients developing a hole in the septum of the nose -the structure, which separates the nostrils.
 
 Prolonged treatment with fentanyl during pregnancy may cause withdrawal symptoms in the newborn which can be life-threatening (see section 2)
 
@@ -3261,11 +3223,9 @@ You should tell your doctor if you experience recurrent episodes of nose bleedin
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Instanyl
 
@@ -3275,7 +3235,7 @@ Store this medicine in a safe and secure place, where other people cannot access
 
 Do not use Instanyl after the expiry date which is stated on the bottle after EXP. The expiry date refers to the last day of the month.
 
-Store below 30 ° C. Keep the nasal spray stored upright. Do not freeze. If Instanyl nasal spray is frozen the spray pump may crack. If uncertain of how the pump has been stored, you should check the spray pump before use.
+Store below 30  C. Keep the nasal spray stored upright. Do not freeze. If Instanyl nasal spray is frozen the spray pump may crack. If uncertain of how the pump has been stored, you should check the spray pump before use.
 
 Instanyl that has passed the expiry date or is no longer required, may still contain enough medicine to be harmful to other people, especially children. Do not throw away any medicines via wastewater or household waste. Any used or unused nasal spray should be returned systematically and suitably in the child-resistant outer box and discarded according to local requirements or returned to the pharmacy. Ask your pharmacist how to dispose of medicines you no longer use. These measures will help to protect the environment.
 
@@ -3323,7 +3283,7 @@ Istituto Gentili S.r.l. Tel: +39 0289132700 medinfo@gentilipharma.com
 
 ## España
 
-QualitecFarma S.L. Tel: +34 913 728 399
+Gentili Pharma ES S.L. Tel. +34 91 360 19 70
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -3436,8 +3396,8 @@ Talk to your doctor or pharmacist before using Instanyl, especially:
 - -if you have problems with your brain function, e.g. due to a brain tumour, a head injury or increased intracranial pressure.
 - -if you have ever developed adrenal insufficiency or lack of sex hormones (androgen deficiency) with opioid use.
 - -if you take sedative medicines such as benzodiazepines or related drugs (please also refer to the section 'Other medicines and Instanyl').
-- -if you take antidepressants or antipsychotics (please also refer to the section 'Other medicines and Instanyl').
-- -if you take medicines called partial agonist/antagonists e.g. buprenorphine, nalbuphine and pentazocine (medicines for treatment of pain) as you may experience symptoms of withdrawal syndrome. Please refer to the section 'Other medicines and Instanyl' for more information.
+- -if you take antidepressants or antipsychotics (please also refer to the section ' Other medicines and Instanyl ' ).
+- -if you take medicines called partial agonist/antagonists e.g. buprenorphine, nalbuphine and pentazocine (medicines for treatment of pain) as you may experience symptoms of withdrawal syndrome. Please refer to the section ' Other medicines and Instanyl ' for more information.
 - -if you use other nasal spray products, e.g. for common cold or allergy.
 
 ## Sleep-related breathing disorders
@@ -3475,7 +3435,7 @@ If you notice any of the following signs whilst using Instanyl, it could be a si
 
 - -you need to use the medicine for longer than advised by your doctor
 - -you need to use more than the recommended dose
-- -you are using the medicine for reasons other than prescribed, for instance, 'to stay calm' or 'help you sleep'
+- -y ou are using the medicine for reasons other than prescribed, for instance, 'to stay calm' or 'help you sleep'
 - -you have made repeated, unsuccessful attempts to quit or control the use of the medicine
 - -when you stop taking the medicine you feel unwell (e.g. nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating), and you feel better once using the medicine again ('withdrawal effects')
 
@@ -3495,8 +3455,10 @@ Special care should be taken if you are treated with any of the following medici
 
 - -Other medicines for pain and some painkillers for nerve pain (such as gabapentin and pregabalin).
 - -any medicines which might normally make you sleepy (have a sedative effect) such as sleeping pills, sedative medicines such as benzodiazepines or related medicines, medicines to treat anxiety, antihistamines, or tranquillisers, skeletal muscle relaxants and gabapentinoids (gabapentin and pregabalin). The use of such other medicines at the same time as Instanyl, may cause risk of drowsiness, deep sedation and affect your ability to breathe (respiratory depression), which may lead to coma and may be life-threatening. Because of this, concomitant use should only be considered when other treatment options are not possible.
-- However if your doctor does prescribe Instanyl together with sedative medicines the dose and duration of concomitant treatment should be limited by your doctor. Please tell your doctor about all sedative medicines you are taking, and follow your doctor's dose recommendation closely. It could be helpful to inform friends or relatives to be aware of the signs and symptoms stated above. Contact your doctor when experiencing such symptoms. any medicines that might have an effect on the way in which your body breaks down Instanyl,
-- -such as:
+
+However if your doctor does prescribe Instanyl together with sedative medicines the dose and duration of concomitant treatment should be limited by your doctor. Please tell your doctor about all sedative medicines you are taking, and follow your doctor's dose recommendation closely. It could be helpful to inform friends or relatives to be aware of the signs and symptoms stated above. Contact your doctor when experiencing such symptoms.
+
+- -any medicines that might have an effect on the way in which your body breaks down Instanyl, such as:
 - ritonavir, nelfinavir, amprenavir, and fosamprenavir (medicines that help control HIV infection);
 - CYP3A4 inhibitors such as ketoconazole, itraconazole, or fluconazole (used for treatment of fungal infections);
 - troleandomycin, clarithromycin, or erythromycin (medicines for treatment of bacterial infections);
@@ -3542,11 +3504,9 @@ The initial dose is one puff of 50 micrograms in one nostril each time you have 
 
 If your breakthrough pain is not relieved after 10 minutes, you may use only one puff more for this episode.
 
-Generally you should wait 4 hours before treating another episode of breakthrough pain. On exceptional occasions where a new episode occurs earlier, you can use Instanyl to treat it but you must
+Generally you should wait 4 hours before treating another episode of breakthrough pain. On exceptional occasions where a new episode occurs earlier, you can use Instanyl to treat it but you must wait at least 2 hours before doing so. If you regularly have breakthrough pain episodes that are less than 4 hours apart, contact your doctor as your usual cancer pain treatment may have to be changed.
 
 <div style=\"page-break-after: always\"></div>
-
-wait at least 2 hours before doing so. If you regularly have breakthrough pain episodes that are less than 4 hours apart, contact your doctor as your usual cancer pain treatment may have to be changed.
 
 You can use Instanyl to treat up to four episodes of breakthrough pain per day.
 
@@ -3607,7 +3567,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - -have convulsive pain.
 - -experience extreme dizziness.
 
-These side effects can be very serious.
+## These side effects can be very serious.
 
 Other side effects reported after use of Instanyl:
 
@@ -3623,7 +3583,7 @@ Sleeplessness, drowsiness, convulsive muscle contractions, abnormal sensation of
 
 Allergic reaction, fall, diarrhoea, convulsions (fits), loss of consciousness, swelling of arms or legs, seeing or hearing things that are not really there (hallucinations), delirium (symptoms may include a combination of agitation, restlessness, disorientation, confusion, fear, seeing or hearing things that are not really there, sleep disturbance, nightmares), drug tolerance, drug dependence (addiction), drug abuse (see section 2), fatigue, malaise, withdrawal syndrome (may manifest by the occurrence of the following side effects nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating), shortness of breath.
 
-There have also been reports of patients developing a hole in the septum of the nose - the structure, which separates the nostrils.
+There have also been reports of patients developing a hole in the septum of the nose -the structure, which separates the nostrils.
 
 Prolonged treatment with fentanyl during pregnancy may cause withdrawal symptoms in the newborn which can be life-threatening (see section 2)
 
@@ -3643,7 +3603,7 @@ Store this medicine in a safe and secure place, where other people cannot access
 
 Do not use Instanyl after the expiry date which is stated on the carton and the single-dose container after EXP. The expiry date refers to the last day of that month.
 
-Store below 30 ° C. Keep the blister in the outer carton. Keep stored upright.
+Store below 30  C. Keep the blister in the outer carton. Keep stored upright.
 
 Instanyl can be harmful to other people, especially children. Do not throw away any medicines via wastewater or household waste. Any unused single-dose containers should be returned systematically and suitably in the child-resistant blister and discarded according to local requirements or returned to the pharmacy. Ask your pharmacist how to dispose of medicines you no longer use. These measures will help to protect the environment.
 
@@ -3689,13 +3649,15 @@ For any information about this medicine, please contact the local representative
 
 ## AT / BE / BG/ CY / CZ / DE / DK / EE / EL / FI / FR / HR / HU / IE / IS / IT / LI  / LV / LT / LU / MT / NL / NO / PL/ PT / RO /SK/ SI  /SE
 
-Istituto Gentili S.r.l. Tel: +39 0289132700
+Istituto Gentili S.r.l.
+
+Tel: +39 0289132700
 
 medinfo@gentilipharma.com
 
 ## España
 
-QualitecFarma S.L. Tel: +34 913 728 399
+Gentili Pharma ES S.L. Tel. +34 91 360 19 70
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -3777,8 +3739,8 @@ Talk to your doctor or pharmacist before using Instanyl, especially:
 - -if you have problems with your brain function, e.g. due to a brain tumour, a head injury or increased intracranial pressure.
 - -if you have ever developed adrenal insufficiency or lack of sex hormones (androgen deficiency) with opioid use.
 - -if you take sedative medicines such as benzodiazepines or related drugs (please also refer to the section 'Other medicines and Instanyl').
-- -if you take antidepressants or antipsychotics (please also refer to the section 'Other medicines and Instanyl').
-- -if you take medicines called partial agonist/antagonists e.g. buprenorphine, nalbuphine and pentazocine (medicines for treatment of pain) as you may experience symptoms of withdrawal syndrome. Please refer to the section 'Other medicines and Instanyl' for more information.
+- -if you take antidepressants or antipsychotics (please also refer to the section ' Other medicines and Instanyl ' ).
+- -if you take medicines called partial agonist/antagonists e.g. buprenorphine, nalbuphine and pentazocine (medicines for treatment of pain) as you may experience symptoms of withdrawal syndrome. Please refer to the section ' Other medicines and Instanyl ' for more information.
 - -if you use other nasal spray products, e.g. for common cold or allergy.
 
 ## Sleep-related breathing disorders
@@ -3816,7 +3778,7 @@ If you notice any of the following signs whilst using Instanyl, it could be a si
 
 - -you need to use the medicine for longer than advised by your doctor
 - -you need to use more than the recommended dose
-- -you are using the medicine for reasons other than prescribed, for instance, 'to stay calm' or 'help you sleep'
+- -y ou are using the medicine for reasons other than prescribed, for instance, 'to stay calm' or 'help you sleep'
 - -you have made repeated, unsuccessful attempts to quit or control the use of the medicine
 - -when you stop taking the medicine you feel unwell (e.g. nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating), and you feel better once using the medicine again ('withdrawal effects')
 
@@ -3837,9 +3799,17 @@ Special care should be taken if you are treated with any of the following medici
 - -Other medicines for pain and some painkillers for nerve pain (such as gabapentin and pregabalin).
 - -any medicines which might normally make you sleepy (have a sedative effect) such as sleeping pills, sedative medicines such as benzodiazepines or related medicines, medicines to treat anxiety, antihistamines, or tranquillisers, skeletal muscle relaxants and gabapentinoids (gabapentin and pregabalin). The use of such other medicines at the same time as Instanyl, may cause risk of drowsiness, deep sedation and affect your ability to breathe (respiratory depression), which may lead to coma and may be life-threatening. Because of this, concomitant use should only be considered when other treatment options are not possible.
 
-However if your doctor does prescribe Instanyl together with sedative medicines the dose and duration of concomitant treatment should be limited by your doctor. Please tell your doctor about all sedative medicines you are taking, and follow your doctor's dose recommendation closely. It could be helpful to inform friends or relatives to be aware of the signs and symptoms stated above. Contact your doctor when experiencing such symptoms. any medicines that might have an effect on the way in which your body breaks down Instanyl,
+However if your doctor does prescribe Instanyl together with sedative medicines the dose and duration of concomitant treatment should be limited by your doctor.
 
-- -such as:
+P
+
+lease tell your doctor about all sedative medicines you are taking, and follow your doctor's
+
+dose recommendation closely. It could be helpful to inform friends or relatives to be aware of
+
+the signs and symptoms stated above. Contact your doctor when experiencing such symptoms.
+
+- -any medicines that might have an effect on the way in which your body breaks down Instanyl, such as:
 - ritonavir, nelfinavir, amprenavir, and fosamprenavir (medicines that help control HIV infection);
 - CYP3A4 inhibitors such as ketoconazole, itraconazole, or fluconazole (used for treatment of fungal infections);
 - troleandomycin, clarithromycin, or erythromycin (medicines for treatment of bacterial infections);
@@ -3966,7 +3936,7 @@ Sleeplessness, drowsiness, convulsive muscle contractions, abnormal sensation of
 
 Allergic reaction, fall, diarrhoea, convulsions (fits), loss of consciousness, swelling of arms or legs, seeing or hearing things that are not really there (hallucinations), delirium (symptoms may include a combination of agitation, restlessness, disorientation, confusion, fear, seeing or hearing things that are not really there, sleep disturbance, nightmares), drug tolerance, drug dependence (addiction), drug abuse (see section 2), fatigue, malaise, withdrawal syndrome (may manifest by the occurrence of the following side effects nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating), shortness of breath.
 
-There have also been reports of patients developing a hole in the septum of the nose - the structure, which separates the nostrils.
+There have also been reports of patients developing a hole in the septum of the nose -the structure, which separates the nostrils.
 
 Prolonged treatment with fentanyl during pregnancy may cause withdrawal symptoms in the newborn which can be life-threatening (see section 2)
 
@@ -3986,7 +3956,7 @@ Store this medicine in a safe and secure place, where other people cannot access
 
 Do not use Instanyl after the expiry date which is stated on the nasal spray after EXP. The expiry date refers to the last day of the month.
 
-Store below 30 ° C. Keep the nasal spray stored upright. Do not freeze. If Instanyl nasal spray is frozen the spray pump may crack. If uncertain of how the pump has been stored, you should check the spray pump before use.
+Store below 30  C. Keep the nasal spray stored upright. Do not freeze. If Instanyl nasal spray is frozen the spray pump may crack. If uncertain of how the pump has been stored, you should check the spray pump before use.
 
 Instanyl that has passed the expiry date or is no longer required, may still contain enough medicine to be harmful to other people, especially children.
 
@@ -4038,7 +4008,7 @@ Istituto Gentili S.r.l. Tel: +39 0289132700 medinfo@gentilipharma.com
 
 ## España
 
-QualitecFarma S.L. Tel: +34 913 728 399
+Gentili Pharma ES S.L. Tel. +34 91 360 19 70
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -4235,17 +4205,19 @@ If the battery symbol appears in the display, it is recommended that you contact
 
 The nasal spray must be pumped 5 times (primed), before it can be used (see section 'Preparing the Instanyl nasal spray'). The display counts downward after each pump (P5, P4, P3, P2 and P1). The nasal spray is ready, when the display shows the number of doses (i.e. 20, 30 or 40 doses).
 
-When priming, please refer to the above safety warning instructions (See section above 'Priming steps').
+When priming, please refer to the above safety warning instructions (See section above 'Priming steps') .
 
 The nasal spray has not been used for 7 days or more and must be primed again by pumping once in the air in a well-ventilated area before use (see below).
 
 The 'P' symbol will disappear from the display when the nasal spray is primed again.
 
-When re-priming, please refer to the above safety warning instructions (See section above 'Re-priming steps').
+When re-priming, please refer to the above safety warning instructions (See section above 'Re -priming steps') .
 
 ## LOCK symbol
 
-The nasal spray is locked and cannot be used. When the locking period is over, the lock symbol will start flashing. The lock symbol will disappear from the display when the white button on the side of the nasal spray is pressed; the nasal spray can now be used again when an episode of breakthrough pain occurs.
+The nasal spray is locked and cannot be used.
+
+When the locking period is over, the lock symbol will start flashing. The lock symbol will disappear from the display when the white button on the side of the nasal spray is pressed; the nasal spray can now be used again when an episode of breakthrough pain occurs.
 
 ## COUNTDOWN-CLOCK symbol
 

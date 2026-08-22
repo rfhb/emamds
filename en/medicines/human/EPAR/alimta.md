@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alimta.html
 document_name: alimta.html
 version: success
-processing_time: 0.1652649
-conversion_datetime: 2026-08-22 22:58:05.963527
+processing_time: 0.1704971
+conversion_datetime: 2026-08-22 23:32:23.463067
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

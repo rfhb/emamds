@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rystiggo.html
 document_name: rystiggo.html
 version: success
-processing_time: 0.3251963
-conversion_datetime: 2026-08-22 22:46:19.754065
+processing_time: 0.3863172
+conversion_datetime: 2026-08-22 23:20:37.271767
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

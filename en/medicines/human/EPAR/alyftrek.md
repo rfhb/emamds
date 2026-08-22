@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-30 16:58:00
+document_datetime: 2026-08-19 12:37:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alyftrek.html
 document_name: alyftrek.html
 version: success
-processing_time: 0.1088964
-conversion_datetime: 2026-04-01 12:22:49.710406
+processing_time: 0.1345837
+conversion_datetime: 2026-08-22 22:57:49.689054
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Alyftrek
 
@@ -60,7 +60,7 @@ Expand section
 
 Collapse section
 
-## How is Alyftrek used?
+### How is Alyftrek used?
 
 Alyftrek can only be obtained with a prescription. It should only be prescribed by healthcare professionals with experience in the treatment of cystic fibrosis.
 
@@ -68,13 +68,13 @@ Alyftrek is available as tablets taken by mouth once daily with foods containing
 
 For more information about using Alyftrek, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Alyftrek work?
+### How does Alyftrek work?
 
 Cystic fibrosis is caused by mutations in the CFTR gene. This gene leads to the production of the CFTR protein, which works on the surface of cells to regulate the production of mucus in the lungs and digestive juices in the gut. The mutations reduce the number of CFTR proteins on the cell surface or affect the way the protein works, resulting in mucus and digestive fluids being too thick, which leads to blockages, inflammation, increased risk of lung infections, and poor digestion and growth.
 
 Two of the active substances in Alyftrek, vanzacaftor and tezacaftor, increase the number of CFTR proteins on the cell surface, while the other, deutivacaftor, improves the activity of the defective CFTR protein. These actions combine to make lung mucus and digestive juices less thick, thereby helping to relieve symptoms of the disease.
 
-## What benefits of Alyftrek have been shown in studies?
+### What benefits of Alyftrek have been shown in studies?
 
 Alyftrek was as effective as another medicine, Kaftrio, at improving lung function in two main studies in people aged 12 years and older with cystic fibrosis. Kaftrio, which contains ivacaftor, tezacaftor and elexacaftor, is always given together with a medicine containing ivacaftor alone. Kaftrio is used in people with cystic fibrosis caused by at least one mutation that is not a class I mutation in the *CFTR* gene.
 
@@ -86,17 +86,17 @@ The second study involved 573 participants with and without an *F508del* mutatio
 
 The company also presented data from a study involving 78 children aged from 6 to 11 years with cystic fibrosis caused by at least one mutation responsive to treatment with Kaftrio. The study did not compare Alyftrek with another medicine or placebo (a dummy treatment). Data from the study showed that Alyftrek works in the same way in children aged 6 to 11 years as it does in older children and adults. Additionally, the effect of Alyftrek on lung function in children aged 6 to 11 years was generally consistent with that seen in older children and adults in the two main studies.
 
-## What are the risks associated with Alyftrek?
+### What are the risks associated with Alyftrek?
 
 For the full list of side effects and restrictions with Alyftrek, see the package leaflet.
 
 The most common side effects with Alyftrek (which may affect more than 1 in 10 people) include headache and diarrhoea. Some side effects can be serious. The most frequent with Alyftrek (which may affect up to 1 in 100 people) include an increase in liver enzymes which may be a sign of problems with the liver.
 
-## Why is Alyftrek authorised in the EU?
+### Why is Alyftrek authorised in the EU?
 
 Alyftrek was shown to be at least as effective as Kaftrio for the treatment of people with cystic fibrosis. Alyftrek's safety profile is similar to that of Kaftrio; no new safety concerns were identified with Alyftrek. However, there are limited data on the long-term safety, particularly in children. The European Medicines Agency decided that Alyftrek's benefits are greater than its risks and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Alyftrek?
+### What measures are being taken to ensure the safe and effective use of Alyftrek?
 
 The company that markets Alyftrek will carry out a study based on a patient registry to provide further data on the safety and effectiveness of Alyftrek in people with cystic fibrosis caused by at least one mutation that is not a Class I mutation.
 
@@ -104,7 +104,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Alyftrek are continuously monitored. Suspected side effects reported with Alyftrek are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Alyftrek
+### Other information about Alyftrek
 
 Alyftrek received a marketing authorisation valid throughout the EU on 30 June 2025.
 
@@ -118,7 +118,7 @@ English (EN) (127.67 KB - PDF)
 
 [View](/en/documents/overview/alyftrek-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-983)
+[Other languages (22)](#file-language-dropdown-242)
 
 български (BG) (155.29 KB - PDF)
 
@@ -150,7 +150,7 @@ Deutsch (DE) (132.78 KB - PDF)
 
 [View](/de/documents/overview/alyftrek-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (125.41 KB - PDF)
+eesti (ET) (125.41 KB - PDF)
 
 **First published:** 23/09/2025
 
@@ -180,13 +180,13 @@ italiano (IT) (126.99 KB - PDF)
 
 [View](/it/documents/overview/alyftrek-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (169.26 KB - PDF)
+latviešu (LV) (169.26 KB - PDF)
 
 **First published:** 23/09/2025
 
 [View](/lv/documents/overview/alyftrek-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (150.09 KB - PDF)
+lietuvių (LT) (150.09 KB - PDF)
 
 **First published:** 23/09/2025
 
@@ -240,7 +240,7 @@ slovenščina (SL) (150.5 KB - PDF)
 
 [View](/sl/documents/overview/alyftrek-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (125.55 KB - PDF)
+suomi (FI) (125.55 KB - PDF)
 
 **First published:** 23/09/2025
 
@@ -264,167 +264,168 @@ English (EN) (2.7 MB - PDF)
 
 Alyftrek : EPAR - Product information
 
-English (EN) (582.94 KB - PDF)
+English (EN) (489.59 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/en/documents/product-information/alyftrek-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-596)
+[Other languages (24)](#file-language-dropdown-779)
 
-български (BG) (644.7 KB - PDF)
+български (BG) (600.29 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/bg/documents/product-information/alyftrek-epar-product-information_bg.pdf)
 
-español (ES) (439.17 KB - PDF)
+español (ES) (424.57 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/es/documents/product-information/alyftrek-epar-product-information_es.pdf)
 
-čeština (CS) (513.17 KB - PDF)
+čeština (CS) (549.91 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/cs/documents/product-information/alyftrek-epar-product-information_cs.pdf)
 
-dansk (DA) (460.98 KB - PDF)
+dansk (DA) (454.33 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/da/documents/product-information/alyftrek-epar-product-information_da.pdf)
 
-Deutsch (DE) (478.99 KB - PDF)
+Deutsch (DE) (429.35 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/de/documents/product-information/alyftrek-epar-product-information_de.pdf)
 
-eesti keel (ET) (420.55 KB - PDF)
+eesti (ET) (425.62 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/et/documents/product-information/alyftrek-epar-product-information_et.pdf)
 
-ελληνικά (EL) (592.62 KB - PDF)
+ελληνικά (EL) (620.75 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/el/documents/product-information/alyftrek-epar-product-information_el.pdf)
 
-français (FR) (451.96 KB - PDF)
+français (FR) (420.37 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/fr/documents/product-information/alyftrek-epar-product-information_fr.pdf)
 
-hrvatski (HR) (520.53 KB - PDF)
+hrvatski (HR) (519.96 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/hr/documents/product-information/alyftrek-epar-product-information_hr.pdf)
 
-íslenska (IS) (438.34 KB - PDF)
+italiano (IT) (461.87 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
-
-[View](/is/documents/product-information/alyftrek-epar-product-information_is.pdf)
-
-italiano (IT) (489.13 KB - PDF)
-
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/it/documents/product-information/alyftrek-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (473.97 KB - PDF)
+latviešu (LV) (363.34 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/lv/documents/product-information/alyftrek-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (550.1 KB - PDF)
+lietuvių (LT) (430.76 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/lt/documents/product-information/alyftrek-epar-product-information_lt.pdf)
 
-magyar (HU) (541.28 KB - PDF)
+magyar (HU) (528.19 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/hu/documents/product-information/alyftrek-epar-product-information_hu.pdf)
 
-Malti (MT) (505.57 KB - PDF)
+Malti (MT) (500.62 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/mt/documents/product-information/alyftrek-epar-product-information_mt.pdf)
 
-Nederlands (NL) (455.32 KB - PDF)
+Nederlands (NL) (431.58 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/nl/documents/product-information/alyftrek-epar-product-information_nl.pdf)
 
-norsk (NO) (449.28 KB - PDF)
+polski (PL) (564.38 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
-
-[View](/no/documents/product-information/alyftrek-epar-product-information_no.pdf)
-
-polski (PL) (520.22 KB - PDF)
-
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/pl/documents/product-information/alyftrek-epar-product-information_pl.pdf)
 
-português (PT) (441.79 KB - PDF)
+português (PT) (431.27 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/pt/documents/product-information/alyftrek-epar-product-information_pt.pdf)
 
-română (RO) (498.5 KB - PDF)
+română (RO) (520.04 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/ro/documents/product-information/alyftrek-epar-product-information_ro.pdf)
 
-slovenčina (SK) (521.08 KB - PDF)
+slovenčina (SK) (548.34 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/sk/documents/product-information/alyftrek-epar-product-information_sk.pdf)
 
-slovenščina (SL) (542.12 KB - PDF)
+slovenščina (SL) (537.28 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/sl/documents/product-information/alyftrek-epar-product-information_sl.pdf)
 
-Suomi (FI) (488.96 KB - PDF)
+suomi (FI) (481.57 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/fi/documents/product-information/alyftrek-epar-product-information_fi.pdf)
 
-svenska (SV) (450.54 KB - PDF)
+svenska (SV) (425.9 KB - PDF)
 
-**First published:** 23/09/2025 **Last updated:** 30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
 
 [View](/sv/documents/product-information/alyftrek-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000338822
+Íslenska (IS) (410.87 KB - PDF)
 
-30/03/2026
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
+
+[View](/is/documents/product-information/alyftrek-epar-product-information_is.pdf)
+
+norsk (NO) (471.51 KB - PDF)
+
+**First published:** 23/09/2025 **Last updated:** 19/08/2026
+
+[View](/no/documents/product-information/alyftrek-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000332466
+
+23/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -442,7 +443,7 @@ English (EN) (44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-861)
+[Other languages (23)](#file-language-dropdown-137)
 
 español (ES) (44.21 KB - PDF)
 
@@ -468,7 +469,7 @@ Deutsch (DE) (44.52 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (44.83 KB - PDF)
+eesti (ET) (44.83 KB - PDF)
 
 **First published:** 23/09/2025
 
@@ -492,25 +493,19 @@ hrvatski (HR) (59.98 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (40.8 KB - PDF)
-
-**First published:** 23/09/2025
-
-[View](/is/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (44.67 KB - PDF)
 
 **First published:** 23/09/2025
 
 [View](/it/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (59.49 KB - PDF)
+latviešu (LV) (59.49 KB - PDF)
 
 **First published:** 23/09/2025
 
 [View](/lv/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (60.78 KB - PDF)
+lietuvių (LT) (60.78 KB - PDF)
 
 **First published:** 23/09/2025
 
@@ -533,12 +528,6 @@ Nederlands (NL) (44.21 KB - PDF)
 **First published:** 23/09/2025
 
 [View](/nl/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (43.98 KB - PDF)
-
-**First published:** 23/09/2025
-
-[View](/no/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (53.76 KB - PDF)
 
@@ -570,7 +559,7 @@ slovenščina (SL) (59.87 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (43.78 KB - PDF)
+suomi (FI) (43.78 KB - PDF)
 
 **First published:** 23/09/2025
 
@@ -582,29 +571,32 @@ svenska (SV) (43.65 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (40.8 KB - PDF)
+
+**First published:** 23/09/2025
+
+[View](/is/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (43.98 KB - PDF)
+
+**First published:** 23/09/2025
+
+[View](/no/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Alyftrek
-
-Active substance
-
-- deutivacaftor
-- tezacaftor
-- vanzacaftor calcium dihydrate
-
-International non-proprietary name (INN) or common name
-
-deutivacaftor / tezacaftor / vanzacaftor
-
-Therapeutic area (MeSH)
-
-Cystic Fibrosis
-
-Anatomical therapeutic chemical (ATC) code
-
-R07AX33
+- **Name of medicine**
+    - Alyftrek
+- **Active substance**
+        - deutivacaftor
+        - tezacaftor
+        - vanzacaftor calcium dihydrate
+- **International non-proprietary name (INN) or common name**
+    - deutivacaftor / tezacaftor / vanzacaftor
+- **Therapeutic area (MeSH)**
+    - Cystic Fibrosis
+- **Anatomical therapeutic chemical (ATC) code**
+    - R07AX33
 
 ### Pharmacotherapeutic group
 
@@ -616,35 +608,20 @@ Alyftrek tablets are indicated for the treatment of cystic fibrosis (CF) in peop
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006382
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Vertex Pharmaceuticals (Ireland) Limited
-
-Unit 49, Block 5 Northwood Court Northwood Crescent Dublin 9 D09 T665 Ireland
-
-Opinion adopted
-
-25/04/2025
-
-Marketing authorisation issued
-
-30/06/2025
-
-Revision
-
-3
+- **EMA product number**
+    - EMEA/H/C/006382
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Vertex Pharmaceuticals (Ireland) Limited Unit 49, Block 5  Northwood Court  Northwood Crescent  Dublin 9  D09 T665  Ireland
+- **Opinion adopted**
+    - 25/04/2025
+- **Marketing authorisation issued**
+    - 30/06/2025
+- **Revision**
+    - 4
 
 ## Assessment history
 
@@ -652,17 +629,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Alyftrek : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (156.11 KB - PDF)
+English (EN) (175.85 KB - PDF)
 
-**First published:** 14/11/2025 **Last updated:** 30/03/2026
+**First published:** 14/11/2025 **Last updated:** 19/08/2026
 
 [View](/en/documents/procedural-steps-after/alyftrek-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Alyftrek : Orphan maintenance assessment report (initial authorisation)
 
@@ -706,6 +683,6 @@ English (EN) (113.39 KB - PDF)
 
 **This page was last updated on**
 
-30/03/2026
+19/08/2026
 
 ## Share this page

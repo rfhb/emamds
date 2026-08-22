@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dupixent.html
 document_name: dupixent.html
 version: success
-processing_time: 0.221343
-conversion_datetime: 2026-08-22 22:55:23.245386
+processing_time: 0.2286904
+conversion_datetime: 2026-08-22 23:29:38.086793
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

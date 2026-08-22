@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/skyclarys.html
 document_name: skyclarys.html
 version: success
-processing_time: 0.14147
-conversion_datetime: 2026-08-22 22:45:46.484721
+processing_time: 0.1381166
+conversion_datetime: 2026-08-22 23:20:01.21871
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

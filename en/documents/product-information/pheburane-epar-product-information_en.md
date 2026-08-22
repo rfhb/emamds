@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-14 15:28:27
+document_datetime: 2026-08-17 10:25:28
 document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pheburane-epar-product-information_en.pdf
 document_name: pheburane-epar-product-information_en.pdf
 version: success
-processing_time: 9.2987951
-conversion_datetime: 2025-12-30 02:53:09.579192
+processing_time: 9.9415299
+conversion_datetime: 2026-08-23 00:45:23.795967
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -65,11 +65,9 @@ The usual total daily dose of sodium phenylbutyrate in clinical experience is:
 
 The safety and efficacy of doses in excess of 20 g/day of sodium phenylbutyrate have not been established.
 
-Therapeutic monitoring
+Therapeutic monitoring Plasma levels of ammonia, arginine, essential amino acids (especially branched chain amino acids), carnitine and serum proteins should be maintained within normal limits. Plasma glutamine should be maintained at levels less than 1,000 μmol/L.
 
 <div style=\"page-break-after: always\"></div>
-
-Plasma levels of ammonia, arginine, essential amino acids (especially branched chain amino acids), carnitine and serum proteins should be maintained within normal limits. Plasma glutamine should be maintained at levels less than 1,000 μmol/L.
 
 ## Nutritional management
 
@@ -89,9 +87,9 @@ Since the metabolism and excretion of sodium phenylbutyrate involves the liver a
 
 ## Method of administration
 
-PHEBURANE should be administered orally. Because of its slow dissolution, PHEBURANE should not be administered by nasogastric or gastrostomy tubes.
+PHEBURANE should be administered orally. Because of its slow dissolution, PHEBURANE granules should not be administered by nasogastric or gastrostomy tubes.
 
-The total daily dose should be divided into equal amounts and given with each meal or feeding (e.g. 4-6 times per day in small children). The granules can be directly swallowed with a drink (water, fruit juices, protein-free infant formulas) or sprinkled on to a spoonful of solid foods (mashed potatoes or apple sauce); in this case, it is important that it is taken immediately in order to preserve the taste-masking.
+The total daily dose should be divided into equal amounts and given with each meal or feeding (e.g. 4-6 times per day in small children). The granules can be directly swallowed with a drink (such as water, fruit juices, protein-free infant formulas) or sprinkled on to a spoonful of solid foods (such as mashed potatoes or apple sauce); in this case, it is important that it is taken immediately in order to preserve the taste-masking.
 
 The dose of PHEBURANE is expressed in grams of sodium phenylbutyrate. A calibrated measuring spoon is provided. It dispenses up to 3g of sodium phenylbutyrate by graduation of 250 mg.
 
@@ -186,11 +184,9 @@ A probable case of toxic reaction to sodium phenylbutyrate (450 mg/kg/d) was rep
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -220,11 +216,9 @@ PHEBURANE may be required life-long unless orthotropic liver transplantation is 
 
 ## Paediatric population
 
-Previously, neonatal-onset presentation of urea cycle disorders was almost universally fatal within the first year of life, even when treated with peritoneal dialysis and essential amino acids or their
+Previously, neonatal-onset presentation of urea cycle disorders was almost universally fatal within the first year of life, even when treated with peritoneal dialysis and essential amino acids or their nitrogen-free analogues. With haemodialysis, use of alternative waste nitrogen excretion pathways (sodium phenylbutyrate, sodium benzoate and sodium phenylacetate), dietary protein restriction, and, in some cases, essential amino acid supplementation, the survival rate in newborns diagnosed after birth (but within the first month of life) increased to almost 80 % with most deaths occurring during an episode of acute hyperammonaemic encephalopathy. Patients with neonatal-onset disease had a high incidence of mental retardation.
 
 <div style=\"page-break-after: always\"></div>
-
-nitrogen-free analogues. With haemodialysis, use of alternative waste nitrogen excretion pathways (sodium phenylbutyrate, sodium benzoate and sodium phenylacetate), dietary protein restriction, and, in some cases, essential amino acid supplementation, the survival rate in newborns diagnosed after birth (but within the first month of life) increased to almost 80 % with most deaths occurring during an episode of acute hyperammonaemic encephalopathy. Patients with neonatal-onset disease had a high incidence of mental retardation.
 
 In patients diagnosed during gestation and treated prior to any episode of hyperammonaemic encephalopathy, survival was 100 %, but even in these patients, many subsequently demonstrated cognitive impairment or other neurologic deficits.
 
@@ -334,7 +328,7 @@ Each mL of oral solution contains 350 mg of sodium phenylbutyrate.
 
 ## PHEBURANE 350 mg/mL oral solution
 
-Each gram dose of sodium phenylbutyrate contains 5.7 mg of aspartame and 124 mg (5.4 mmol) of sodium.
+Each gram of sodium phenylbutyrate contains 5.7 mg of aspartame and 124 mg (5.4 mmol) of sodium.
 
 ## Blackcurrant flavour topping
 
@@ -450,7 +444,7 @@ The maximum daily dose of this medicinal product contains 2.5 g sodium , equival
 
 The blackcurrant flavour topping contains 26.55 mg propylene glycol per drop.
 
-If your baby is less than 4 weeks old, talk to your doctor or pharmacist before giving them this medicine, in particular if the baby is given other medicines that contain propylene glycol or alcohol.
+If your baby is less than 4 weeks old, talk to your doctor or pharmacist before giving them this flavour topping in particular if the baby is given other medicines that contain propylene glycol or alcohol.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -518,7 +512,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-One case of overdose occurred in a 5-month old infant with an accidental single dose of 10 g (1,370 mg/kg). The patient developed diarrhoea, irritability and metabolic acidosis with hypokalaemia. The patient recovered within 48 hours after symptomatic treatment. These symptoms are consistent with the accumulation of phenylacetate, which showed dose-limiting neurotoxicity when administered intravenously at doses up to 400 mg/kg/day. Manifestations of neurotoxicity were predominantly somnolence, fatigue and lightheadedness. Less freq uent manifestations were confusion, headache, dysgeusia, hypoacusis, disorientation, impaired memory and exacerbation of a pre-existing neuropathy.
+One case of overdose occurred in a 5-month old infant with an accidental single dose of 10 g (1,370 mg/kg). The patient developed diarrhoea, irritability and metabolic acidosis with hypokalaemia. The patient recovered within 48 hours after symptomatic treatment. These symptoms are consistent with the accumulation of phenylacetate, which showed dose-limiting
+
+neurotoxicity when administered intravenously at doses up to 400 mg/kg/day. Manifestations of neurotoxicity were predominantly somnolence, fatigue and light-he adedness. Less frequent manifestations were confusion, headache, dysgeusia, hypoacusis, disorientation, impaired memory and exacerbation of a pre-existing neuropathy.
 
 In the event of an overdose, the treatment should be discontinued and supportive measures be instituted. Haemodialysis or peritoneal dialysis may be beneficial.
 
@@ -646,9 +642,9 @@ The oral solution of PHEBURANE is ready-to use.
 2. The CE marked dosing syringe is attached to the bottle adapter;
 3. The bottle adapter should be placed/pushed into the neck of the open bottle while the syringe is in it;
 4. The bottle should be inverted;
-5. The required dose of PHEBURANE (see section 4.2) should be taken from the bottle (equivalent to the number of grams sodium phenylbutyrate as prescribed and according to the amount to be given with the respective meal) with the use of the dosing syringe;
+5. The required dose of PHEBURANE oral solution (see section 4.2) should be taken from the bottle (equivalent to the number of grams sodium phenylbutyrate as prescribed and according to the amount to be given with the respective meal) with the use of the dosing syringe;
 6. The dosing syringe with PHEBURANE should be detached from the bottle adapter and the quantity of PHEBURANE oral solution should then be poured from the dosing syringe into a glass with minimum 20 ml of water;
-7. PHEBURANE oral solution tastes neutral. In order to improve the taste, one drop of the preferred flavour topping can be added to the content of the glass of water; swirled gently, and then consumed (If one drop of flavour topping would not provide the taste intensity, patient could use 2 drops);
+7. PHEBURANE oral solution tastes neutral. In order to improve the taste, one drop of the preferred flavour topping can be added to the content of the glass of water; swirled gently, and then consumed (If one drop of flavour topping would not provide the taste intensity, patient could use 2 drops). The solution with the lemon-mint flavour topping is less viscous than the one with blackcurrant flavour topping and may lead to adding of more  than 2 drops. Therefore, it is recommended to carefully measure the lemon-mint topping and ensure that only one drop is added.
 8. The bottle with PHEBURANE oral solution should be closed, without removing the bottle adapter inserted in the neck of the bottle.
 
 ## Preparation for nasogastric tube or gastrostomy tube administration
@@ -660,16 +656,12 @@ In patients who have to receive sodium phenylbutyrate, permanently or at certain
 1. Steps 1 to 5 of the administration for oral use above should be followed;
 2. The oral solution of PHEBURANE is ready-to use and no dilution is needed;
 3. When used via nasogastic/gastrostomy tube the flavour topping should not be added;
-4. The tip of the syringe filled with the medicinal product should be inserted onto the tip of the nasogastric/gastrostomy tube;
-5. The plunger of the dosing syringe to administer the dose of PHEBURANE oral solution into the nasogastric/gastrostomy tube should be used;
 
 <div style=\"page-break-after: always\"></div>
 
-6.
-
-The tube should be flushed once with the adequate volume of lukewarm water and allowed to drain after the administration. For adults, 20 ml of lukewarm water should be used. For
-
-children weighing less than 20 kg and neonates use
+4. The tip of the syringe filled with the medicinal product should be inserted onto the tip of the nasogastric/gastrostomy tube;
+5. The plunger of the dosing syringe to administer the dose of PHEBURANE oral solution into the nasogastric/gastrostomy tube should be used;
+6. The tube should be flushed once with the adequate volume of lukewarm water and allowed to drain after the administration. For adults, 20 ml of lukewarm water should be used. For children weighing less than 20 kg and neonates use 3 mL of water.
 
 ## Disposal
 
@@ -694,10 +686,6 @@ Date of latest renewal: 21 March 2018
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-3 mL
-
-of water.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -810,7 +798,7 @@ After the first opening, to be used within 45 days.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eurocept International BV (Lucane Pharma)
+Eurocept International BV
 
 Trapgans 5
 
@@ -840,8 +828,8 @@ PHEBURANE 483 mg/g {For carton only}
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -909,13 +897,13 @@ EXP
 
 Discard 4 weeks after first opening.
 
-- 9 SPECIAL STORAGE CONDITIONS
+## 9 SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eurocept International BV (Lucane Pharma)
+Eurocept International BV
 
 Trapgans 5
 
@@ -935,7 +923,7 @@ Batch
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Carton:
 
@@ -947,7 +935,7 @@ mg/mL
 
 2D barcode carrying the unique identifier included.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1327,109 +1315,133 @@ Eurocept International BV Trapgans 5 1244 RL Ankeveen The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Lucane Pharma Tél/Tel: + 33 153 868 750 info@lucanepharma.com
+## België/Belgique/Belgien
 
-България Lucane Pharma
+Eurocept International BV Tel: +31 35 528 39 57
 
-Te л .: + 33 153 868 750 info@lucanepharma.com
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
 
-Česká republika Lucane Pharma Tél/Tel: + 33 153 868 750 info@lucanepharma.com
+## България
 
-Danmark FrostPharma AB Tlf: +46 824 36 60 info@frostpharma.com
+Eurocept International BV Tel: +31 35 528 39 57
 
-Deutschland Lucane Pharma Tel: + 33 153 868 750 info@lucanepharma.com
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
 
-Lietuva FrostPharma AB Tel: +46 824 36 60 info@frostpharma.com
+## Česká republika
+
+Eurocept International BV Tel: +31 35 528 39 57
+
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
+
+## Danmark
+
+FrostPharma AB Tlf: +46 824 36 60
+
+[info@frostpharma.com](mailto:info@frostpharma.com)
+
+Deutschland Dipharma Arzneimittel GmbH Tel: +49 6431 285 88 30 InfoDeutschland@dipharma.com Lietuva FrostPharma AB Tel: +46 824 36 60 info@frostpharma.com
 
 ## Luxembourg/Luxemburg
 
-Lucane Pharma Tél/Tel: + 33 153 868 750 info@lucanepharma.com
+Eurocept International BV Tel: +31 35 528 39 57
 
-Magyarország Lucane Pharma Tel: + 33 153 868 750 info@lucanepharma.com
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
 
-Malta Lucane Pharma Tel: + 33 153 868 750 info@lucanepharma.com
+## Magyarország
 
-Nederland Lucane Pharma ( Eurocept International BV) Tel: +31 35 528 39 57 info@euroceptpharma.com
+Eurocept International BV Tel: +31 35 528 39 57
+
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
+
+## Malta
+
+Eurocept International BV Tel: +31 35 528 39 57
+
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
+
+## Nederland
+
+Eurocept International BV Tel: +31 35 528 39 57
+
+info@euroceptpharma.com Eesti FrostPharma AB Tel: +46 824 36 60
 
 <div style=\"page-break-after: always\"></div>
 
-Eesti FrostPharma AB Tel: +46 824 36 60
+[info@frostpharma.com](mailto:info@frostpharma.com)
 
-info@frostpharma.com
+Ελλάδα Eurocept International BV Tel: +31 35 528 39 57
 
-Ελλάδα Lucane Pharma Τηλ: + 33 153 868 750
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
 
-info@lucanepharma.com
+España Eurocept International BV Tel: +31 35 528 39 57
 
-España Lucane Pharma Tel: + 33 153 868 750
-
-info@lucanepharma.com
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
 
 France Lucane Pharma Tél: + 33 153 868 750
 
-info@lucanepharma.com
+[info@lucanepharma.com](mailto:info@lucanepharma.com)
 
-Hrvatska Lucane Pharma Tel: + 33 153 868 750
+Hrvatska Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
 
-Ireland Lucane Pharma Tel: + 33 153 868 750
+Ireland Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
 
 Ísland FrostPharma AB Tel: +46 824 36 60
 
-info@frostpharma.com
+[info@frostpharma.com](mailto:info@frostpharma.com)
 
-Italia Lucane Pharma Tel: + 33 153 868 750
+Italia Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
 
-Κύπρος Lucane Pharma Τηλ: + 33 153 868 750
+Κύπρος Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
 
 Latvija FrostPharma AB Tel: +46 824 36 60
 
-info@frostpharma.com
+[info@frostpharma.com](mailto:info@frostpharma.com)
 
 This leaflet was last revised in:
 
 Norge FrostPharma AB Tlf: +46 824 36 60
 
-info@frostpharma.com
+[info@frostpharma.com](mailto:info@frostpharma.com)
 
-Österreich Lucane Pharma Tel: + 33 153 868 750
+Österreich Dipharma Arzneimittel GmbH Tel: +49 6431 285 88 30
 
-info@lucanepharma.com
+[InfoDeutschland@dipharma.com](mailto:InfoDeutschland@dipharma.com)
 
-Polska Lucane Pharma Tel: + 33 153 868 750
+Polska IMED Poland Sp. z o.o. Tel: + 48 22 663 43 03
 
-info@lucanepharma.com
+[imed@imed.com.pl](mailto:imed@imed.com.pl)
 
-Portugal Lucane Pharma Tel: + 33 153 868 750
+Portugal Dux pharma Tel: +351 21 824 98 76
 
-info@lucanepharma.com
+[customerservice@duxpharma.com](mailto:customerservice@duxpharma.com)
 
-România Lucane Pharma Tel: + 33 153 868 750
+România Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
 
-Slovenija Lucane Pharma Tel: + 33 153 868 750
+Slovenija Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
 
-Slovenská republika Lucane Pharma Tel: + 33 153 868 750
+Slovenská republika Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+[info@euroceptpharma.com](mailto:info@euroceptpharma.com)
 
 Suomi/Finland FrostPharma AB Puh/Tel: +46 824 36 60
 
-info@frostpharma.com
+[info@frostpharma.com](mailto:info@frostpharma.com)
 
 Sverige FrostPharma AB Tel: +46 824 36 60
 
-info@frostpharma.com
+[info@frostpharma.com](mailto:info@frostpharma.com)
 
 40
 
@@ -1488,11 +1500,9 @@ Talk to your doctor or pharmacist before taking PHEBURANE if you:
 - suffer from congestive heart failure (a type of heart disease where the heart cannot pump enough blood around the body) or a decrease in your kidney function.
 - have decreased kidney or liver function, since PHEBURANE oral solution is eliminated from the body through the kidney and liver.
 
-PHEBURANE  will not prevent the occurrence of an acute excess of ammonia in the blood, a condition which usually constitutes a medical emergency. If this happens you will develop
+PHEBURANE  will not prevent the occurrence of an acute excess of ammonia in the blood, a condition which usually constitutes a medical emergency. If this happens you will develop symptoms such as feeling sick (nausea), being sick (vomiting), confusion and will need to get urgent medical help.
 
 <div style=\"page-break-after: always\"></div>
-
-symptoms such as feeling sick (nausea), being sick (vomiting), confusion and will need to get urgent medical help.
 
 If you need laboratory tests, it is important to remind your doctor that you are taking PHEBURANE oral solution, since sodium phenylbutyrate may interfere with certain laboratory test results (such as blood electrolytes or protein, or liver function tests)
 
@@ -1539,9 +1549,9 @@ This medicine contains 5.7 mg of aspartame per g dose of sodium phenylbutyrate. 
 
 This medicine contains 26.55 mg of propylene glycol per drop.
 
-If your baby is less than 4 weeks old, talk to your doctor or pharmacist before giving them this medicine, in particular if the baby is given other medicines that contain propylene glycol or alcohol.
-
 <div style=\"page-break-after: always\"></div>
+
+If your baby is less than 4 weeks old, talk to your doctor or pharmacist before giving them this flavour topping in particular if the baby is given other medicines that contain propylene glycol or alcohol.
 
 ## 3. How to take PHEBURANE oral solution
 
@@ -1585,7 +1595,7 @@ Administration for oral use
 
 <!-- image -->
 
-When using the pack without toppings , swirl gently and drink
+The solution with the lemon-mint flavour topping is slightly less thick than the one with blackcurrant flavour topping and may lead to adding of more than 2 drops. You should carefully measure the lemon-mint topping to be sure that only one drop is added. When using the pack without toppings , swirl gently and drink
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1622,9 +1632,10 @@ Patients who have taken very high doses of sodium phenylbutyrate experienced:
 - decrease in hearing;
 - disorientation;
 - impaired memory;
-- worsening of existing neurological conditions.
 
 <div style=\"page-break-after: always\"></div>
+
+- worsening of existing neurological conditions.
 
 If you experience any of these symptoms, you should immediately contact your doctor or the nearest hospital emergency department for supportive treatment.
 
@@ -1646,9 +1657,7 @@ Very common side effects (may affect more than 1 in 10 people) irregular menstru
 
 changes in number of blood cells (red cells, white cells and platelets), changes in the amount of bicarbonate in the blood, reduced appetite, depression, irritability, headache, fainting, fluid retention (swelling), changes in taste (taste disturbances), stomach ache, vomiting, nausea, constipation, abnormal skin door, rash, abnormal kidney function, weight gain, altered laboratory test values.
 
-## Uncommon side effects (may affect more than 1 in 1,000 people)
-
-deficiency in red blood cells due to failure of the bone marrow, bruising, altered heart rhythm, rectal bleeding, inflammation of the stomach, stomach ulcer, inflammation of the pancreas.
+Uncommon side effects (may affect more than 1 in 1,000 people) deficiency in red blood cells due to failure of the bone marrow, bruising, altered heart rhythm, rectal bleeding, inflammation of the stomach, stomach ulcer, inflammation of the pancreas.
 
 ## Reporting of side effects
 
@@ -1679,7 +1688,7 @@ There are 2 types of pack, namely a pack with and a pack without toppings
 - -The active substance is sodium phenylbutyrate. Each mL of liquid contains 350 mg of sodium phenylbutyrate.
 - -The other ingredients are: purified water, aspartame (E951), sucralose (E955), glycerol (E422), hydroxyethylcellulose (E1525) (See section 2 'PHEBURANE oral solution contains aspartame').
 
-The pack with toppings also contains
+## The pack with toppings also contains
 
 ## Flavour toppings:
 
@@ -1703,111 +1712,127 @@ PHEBURANE oral solution is clear, colourless to pale yellow liquid.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Eurocept International BV Trapgans 5 1244 RL Ankeveen The Netherlands
+Eurocept International BV
+
+Trapgans 5 1244 RL Ankeveen The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien
+## België/Belgique/Belgien
 
-Lucane Pharma (Eurocept International BV) Tél/Tel: +31 35 528 39 57 info@lucanepharma.com
+Eurocept International BV Tel: +31 35 528 39 57
 
-България Lucane Pharma (Eurocept International BV) Teл.: +31 35 528 39 57 info@lucanepharma.com
+info@euroceptpharma.com
 
-Lietuva FrostPharma AB Tel: +46 824 36 60 info@frostpharma.com
+България
 
-Luxembourg/Luxemburg Lucane Pharma (Eurocept International BV) Tél/Tel: +31 35 528 39 57 info@lucanepharma.com
+Eurocept International BV Tel: +31 35 528 39 57
+
+info@euroceptpharma.com Lietuva FrostPharma AB Tel: +46 824 36 60
+
+[info@frostpharma.com](mailto:info@frostpharma.com)
+
+Luxembourg/Luxemburg Eurocept International BV Tel: +31 35 528 39 57 info@euroceptpharma.com
 
 <div style=\"page-break-after: always\"></div>
 
-Česká republika Lucane Pharma
+Česká republika Eurocept International BV Tel: +31 35 528 39 57
 
-(Eurocept International BV) Tél/Tel: +31 35 528 39 57
-
-info@lucanepharma.com
+info@euroceptpharma.com
 
 Danmark FrostPharma AB Tlf: +46 824 36 60
 
-info@frostpharma.com
+[info@frostpharma.com](mailto:info@frostpharma.com)
 
-Deutschland Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57
+Deutschland Dipharma Arzneimittel GmbH Tel: +49 6431 285 88 30
 
-info@lucanepharma.com
+[InfoDeutschland@dipharma.com](mailto:InfoDeutschland@dipharma.com)
 
 Eesti FrostPharma AB Tel: +46 824 36 60
 
-info@frostpharma.com
+[info@frostpharma.com](mailto:info@frostpharma.com)
 
-Ελλάδα Lucane Pharma (Eurocept International BV) Τηλ: +31 35 528 39 57
+Ελλάδα Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+info@euroceptpharma.com
 
-España Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57
+España Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+info@euroceptpharma.com
 
 France Lucane Pharma Tél: + 33 153 868 750
 
-info@lucanepharma.com
+[info@lucanepharma.com](mailto:info@lucanepharma.com)
 
-Hrvatska Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57
+Hrvatska Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+info@euroceptpharma.com
 
-Ireland Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57
+Ireland Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+info@euroceptpharma.com
 
-Magyarország Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57
+Ísland FrostPharma AB Sími: +46 824 36 60
 
-info@lucanepharma.com
+[info@frostpharma.com](mailto:info@frostpharma.com)
 
-Malta Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57
+Italia Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+info@euroceptpharma.com Magyarország Eurocept International BV Tel: +31 35 528 39 57
 
-Nederland Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57
+info@euroceptpharma.com
+
+Malta Eurocept International BV Tel: +31 35 528 39 57
+
+info@euroceptpharma.com
+
+Nederland Eurocept International BV Tel: +31 35 528 39 57
 
 info@euroceptpharma.com
 
 Norge FrostPharma AB Tlf: +46 824 36 60
 
-info@frostpharma.com
+[info@frostpharma.com](mailto:info@frostpharma.com)
 
-Österreich Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57
+Österreich Dipharma Arzneimittel GmbH Tel: +49 6431 285 88 30
 
-info@lucanepharma.com
+[InfoDeutschland@dipharma.com](mailto:InfoDeutschland@dipharma.com)
 
-Polska Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57
+Polska
 
-info@lucanepharma.com
+IMED Poland Sp. z o.o. Tel: + 48 22 663 43 03 imed@imed.com.pl
 
-Portugal Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57
+Portugal Duxpharma Tel: +351 21 824 98 76
 
-info@lucanepharma.com
+[customerservice@duxpharma.com](mailto:customerservice@duxpharma.com)
 
-România Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57
+România Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+info@euroceptpharma.com
 
-Slovenija Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57
+Slovenija Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+info@euroceptpharma.com
+
+Slovenská republika Eurocept International BV Tel: +31 35 528 39 57
+
+info@euroceptpharma.com
+
+Suomi/Finland FrostPharma AB Puh/Tel: +46 824 36 60
+
+[info@frostpharma.com](mailto:info@frostpharma.com)
+
+49
 
 <div style=\"page-break-after: always\"></div>
 
-Ísland FrostPharma AB Sími: +46 824 36 60 info@frostpharma.com
+Κύπρος Eurocept International BV Tel: +31 35 528 39 57
 
-## Italia
+info@euroceptpharma.com
 
-Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57 info@lucanepharma.com
+Latvija FrostPharma AB Tel: +46 824 36 60
 
-## Κύπρος
-
-Lucane Pharma
-
-(Eurocept International BV) Τηλ: +31 35 528 39 57 info@lucanepharma.com
-
-Latvija FrostPharma AB Tel: +46 824 36 60 info@frostpharma.com
+[info@frostpharma.com](mailto:info@frostpharma.com)
 
 ## This leaflet was last revised in
 
@@ -1815,14 +1840,6 @@ Detailed information on this medicine is available on the European Medicines Age
 
 There are also links to other websites about rare diseases and treatments.
 
-Slovenská republika Lucane Pharma (Eurocept International BV) Tel: +31 35 528 39 57 info@lucanepharma.com
+Sverige FrostPharma AB Tel: +46 824 36 60
 
-## Suomi/Finland
-
-FrostPharma AB Puh/Tel: +46 824 36 60 info@frostpharma.com
-
-## Sverige
-
-FrostPharma AB Tel: +46 824 36 60
-
-info@frostpharma.com
+[info@frostpharma.com](mailto:info@frostpharma.com)

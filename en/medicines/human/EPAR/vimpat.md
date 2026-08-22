@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vimpat.html
 document_name: vimpat.html
 version: success
-processing_time: 0.3799023
-conversion_datetime: 2026-08-22 22:42:56.365981
+processing_time: 0.2357355
+conversion_datetime: 2026-08-22 23:17:07.972259
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

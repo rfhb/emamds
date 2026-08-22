@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-20 17:31:13
-document_pages: 50
+document_datetime: 2026-08-18 17:55:42
+document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/herwenda-epar-product-information_en.pdf
 document_name: herwenda-epar-product-information_en.pdf
 version: success
-processing_time: 19.7200575
-conversion_datetime: 2025-12-23 03:13:06.504387
+processing_time: 19.3461477
+conversion_datetime: 2026-08-23 00:32:42.686099
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,13 +28,25 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Herwenda 150 mg powder for concentrate for solution for infusion
+Herwenda 150 mg powder for concentrate for solution for infusion Herwenda 420 mg powder for concentrate for solution for infusion
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
+## Herwenda 150 mg powder for concentrate for solution for infusion
+
 One vial contains 150 mg of trastuzumab, a humanised IgG1 monoclonal antibody produced by mammalian (Chinese hamster ovary) cell suspension culture and purified by affinity and ion exchange chromatography including specific viral inactivation and removal procedures.
 
+## Herwenda 420 mg powder for concentrate for solution for infusion
+
+One vial contains 420 mg of trastuzumab, a humanised IgG1 monoclonal antibody produced by mammalian (Chinese hamster ovary) cell suspension culture and purified by affinity and ion exchange chromatography including specific viral inactivation and removal procedures.
+
 The reconstituted Herwenda solution contains 21 mg/mL of trastuzumab.
+
+## Excipient with known effect
+
+Each 150 mg vial contains 0.606 mg polysorbate 20 (E 432).
+
+Each 420 mg vial contains 1.696 mg polysorbate 20 (E 432).
 
 For the full list of excipients, see section 6.1.
 
@@ -55,11 +67,14 @@ White to pale yellow lyophilised powder.
 Herwenda is indicated for the treatment of adult patients with human epidermal growth factor receptor 2 (HER2) positive metastatic breast cancer (MBC):
 
 - -as monotherapy for the treatment of those patients who have received at least two chemotherapy regimens for their metastatic disease. Prior chemotherapy must have included at least an anthracycline and a taxane unless patients are unsuitable for these treatments. Hormone-receptor positive patients must also have failed hormonal therapy, unless patients are unsuitable for these treatments.
-- -in combination with paclitaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease and for whom an anthracycline is not suitable.
-- -in combination with docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.
-- -in combination with an aromatase inhibitor for the treatment of postmenopausal patients with hormone-receptor positive MBC, not previously treated with trastuzumab.
+- -in combination with paclitaxel for the treatment of those patients who have not received
 
 <div style=\"page-break-after: always\"></div>
+
+chemotherapy for their metastatic disease and for whom an anthracycline is not suitable.
+
+- -in combination with docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.
+- -in combination with an aromatase inhibitor for the treatment of postmenopausal patients with hormone-receptor positive MBC, not previously treated with trastuzumab.
 
 ## Early breast cancer
 
@@ -86,6 +101,8 @@ It is important to check the product labels to ensure that the correct formulati
 
 In order to prevent medication errors, it is important to check the vial labels to ensure that the medicinal product being prepared and administered is Herwenda (trastuzumab) and not another trastuzumab-containing product (e.g. trastuzumab emtansine or trastuzumab deruxtecan).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Posology
 
 ## Metastatic breast cancer
@@ -93,8 +110,6 @@ In order to prevent medication errors, it is important to check the vial labels 
 ## Three-weekly schedule
 
 The recommended initial loading dose is 8 mg/kg body weight. The recommended maintenance dose at three-weekly intervals is 6 mg/kg body weight, beginning three weeks after the loading dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Weekly schedule
 
@@ -136,11 +151,11 @@ No reductions in the dose of trastuzumab were made during clinical studies. Pati
 
 If left ventricular ejection fraction (LVEF) percentage drops ≥ 10 points from baseline AND to below 50%, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks. If LVEF has not improved, or has declined further, or if symptomatic congestive heart failure (CHF) has developed, discontinuation of trastuzumab should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks. All such patients should be referred for assessment by a cardiologist and followed up.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Missed doses
 
 If the patient has missed a dose of Herwenda by one week or less, then the usual maintenance dose (weekly regimen: 2 mg/kg; three-weekly regimen: 6 mg/kg) should be administered as soon as possible. Do not wait until the next planned cycle. Subsequent maintenance doses should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 If the patient has missed a dose of Herwenda by more than one week, a re-loading dose of Herwenda should be administered over approximately 90 minutes (weekly regimen: 4 mg/kg; three-weekly regimen: 8 mg/kg) as soon as possible. Subsequent Herwenda maintenance doses (weekly regimen: 2 mg/kg; three-weekly regimen: 6 mg/kg respectively) should be administered 7 days or 21 days later according to the weekly or three-weekly schedules respectively.
 
@@ -173,9 +188,9 @@ In order to improve the traceability of biological medicinal products, the name 
 
 HER2 testing must be performed in a specialised laboratory which can ensure adequate validation of the testing procedures (see section 5.1).
 
-Currently no data from clinical studies are available on re-treatment of patients with previous exposure to trastuzumab in the adjuvant setting.
-
 <div style=\"page-break-after: always\"></div>
+
+Currently no data from clinical studies are available on re-treatment of patients with previous exposure to trastuzumab in the adjuvant setting.
 
 ## Cardiac dysfunction
 
@@ -193,13 +208,13 @@ The safety of continuation or resumption of trastuzumab in patients who experien
 
 If symptomatic cardiac failure develops during trastuzumab therapy, it should be treated with standard medicinal products for CHF. Most patients who developed CHF or asymptomatic cardiac dysfunction in pivotal studies improved with standard CHF treatment consisting of an angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB) and a beta-blocker. The majority of patients with cardiac symptoms and evidence of a clinical benefit of trastuzumab treatment continued on therapy without additional clinical cardiac events.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Metastatic breast cancer
 
 Herwenda and anthracyclines should not be given concurrently in combination in the MBC setting.
 
 Patients with MBC who have previously received anthracyclines are also at risk of cardiac dysfunction with trastuzumab treatment, although the risk is lower than with concurrent use of trastuzumab and anthracyclines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Early breast cancer
 
@@ -217,17 +232,17 @@ Risk factors for a cardiac event identified in four large adjuvant studies inclu
 
 ## Neoadjuvant-adjuvant treatment
 
-In patients with EBC eligible for neoadjuvant-adjuvant treatment, trastuzumab should be used concurrently with anthracyclines only in chemotherapy-naive patients and only with low-dose anthracycline regimens i.e. maximum cumulative doses of doxorubicin 180 mg/m 2 or epirubicin 360 mg/m 2 .
+In patients with EBC eligible for neoadjuvant-adjuvant treatment, trastuzumab should be used concurrently with anthracyclines only in chemotherapy-naive patients and only with low-dose anthracycline regimens i.e. maximum cumulative doses of doxorubicin 180 mg/m 2  or epirubicin 360 mg/m 2 .
 
 If patients have been treated concurrently with a full course of low-dose anthracyclines and trastuzumab in the neoadjuvant setting, no additional cytotoxic chemotherapy should be given after surgery. In other situations, the decision on the need for additional cytotoxic chemotherapy is determined based on individual factors.
+
+<div style=\"page-break-after: always\"></div>
 
 Experience of concurrent administration of trastuzumab with low-dose anthracycline regimens is currently limited to two studies (MO16432 and BO22227).
 
 In the pivotal study MO16432, trastuzumab was administered concurrently with neoadjuvant chemotherapy containing three cycles of doxorubicin (cumulative dose 180 mg/m 2 ).
 
 The incidence of symptomatic cardiac dysfunction was 1.7% in the trastuzumab arm.
-
-<div style=\"page-break-after: always\"></div>
 
 In the pivotal study BO22227, trastuzumab was administered concurrently with neoadjuvant chemotherapy that contained four cycles of epirubicin (cumulative dose 300 mg/m 2 ); at a median follow-up exceeding 70 months, the incidence of cardiac failure/congestive cardiac failure was 0.3% in the trastuzumab intravenous arm.
 
@@ -247,15 +262,23 @@ Severe pulmonary events have been reported with the use of trastuzumab in the po
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
+<div style=\"page-break-after: always\"></div>
+
+## Polysorbate 20 (E 432)
+
+This medicine contains 0.606 mg of polysorbate 20 (E 432) in each 150 mg vial which is equivalent to 0.086 mg/mL (after reconstitution with 7.2 mL sterile water for injection).
+
+This medicine contains 1.696 mg of polysorbate 20 (E 432) in each 420 mg vial which is equivalent to 0.086 mg/mL (after reconstitution with 20 mL sterile water for injection).
+
+Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No formal drug interaction studies have been performed. Clinically significant interactions between trastuzumab and the concomitant medicinal products used in clinical studies have not been observed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Effect of trastuzumab on the pharmacokinetics of other antineoplastic agents
 
-Pharmacokinetic data from studies BO15935 and M77004 in women with HER2 positive MBC suggested that exposure to paclitaxel and doxorubicin (and their major metabolites 6α hydroxyl- paclitaxel, POH, and doxorubicinol, DOL) was not altered in the presence of trastuzumab (8 mg/kg or 4 mg/kg intravenous loading dose followed by 6 mg/kg q3w or 2 mg/kg q1w intravenous, respectively). However, trastuzumab may elevate the overall exposure of one doxorubicin metabolite, (7-deoxy-13 dihydro-doxorubicinone, D7D). The bioactivity of D7D and the clinical impact of the elevation of this metabolite were unclear.
+Pharmacokinetic data from studies BO15935 and M77004 in women with HER2 positive MBC suggested that exposure to paclitaxel and doxorubicin (and their major metabolites 6-α hydroxyl- paclitaxel, POH, and doxorubicinol, DOL) was not altered in the presence of trastuzumab (8 mg/kg or 4 mg/kg intravenous loading dose followed by 6 mg/kg q3w or 2 mg/kg q1w intravenous, respectively). However, trastuzumab may elevate the overall exposure of one doxorubicin metabolite, (7-deoxy-13 dihydro-doxorubicinone, D7D). The bioactivity of D7D and the clinical impact of the elevation of this metabolite were unclear.
 
 Data from study JP16003, a single-arm study of trastuzumab (4 mg/kg intravenous loading dose and 2 mg/kg intravenous weekly) and docetaxel (60 mg/m 2  intravenous) in Japanese women with HER2 positive MBC, suggested that concomitant administration of trastuzumab had no effect on the single dose pharmacokinetics of docetaxel. Study JP19959 was a substudy of BO18255 (ToGA) performed in male and female Japanese patients with advanced gastric cancer to study the pharmacokinetics of capecitabine and cisplatin when used with or without trastuzumab. The results of this substudy suggested that the exposure to the bioactive metabolites (e.g. 5-FU) of capecitabine was not affected by concurrent use of cisplatin or by concurrent use of cisplatin plus trastuzumab. However, capecitabine itself showed higher concentrations and a longer half-life when combined with trastuzumab. The data also suggested that the pharmacokinetics of cisplatin were not affected by concurrent use of capecitabine or by concurrent use of capecitabine plus trastuzumab.
 
@@ -267,6 +290,8 @@ By comparison of simulated serum trastuzumab concentrations after trastuzumab mo
 
 Comparison of PK results from two phase II studies (BO15935 and M77004) and one phase III study (H0648g) in which patients were treated concomitantly with trastuzumab and paclitaxel and two phase II studies in which trastuzumab was administered as monotherapy (W016229 and MO16982), in women with HER2 positive MBC indicates that individual and mean trastuzumab trough serum concentrations varied within and across studies but there was no clear effect of the concomitant administration of paclitaxel on the pharmacokinetics of trastuzumab. Comparison of trastuzumab PK data from Study M77004 in which women with HER2 positive MBC were treated concomitantly with trastuzumab, paclitaxel and doxorubicin to trastuzumab PK data in studies where trastuzumab was administered as monotherapy (H0649g) or in combination with anthracycline plus cyclophosphamide or paclitaxel (Study H0648g), suggested no effect of doxorubicin and paclitaxel on the pharmacokinetics of trastuzumab.
 
+<div style=\"page-break-after: always\"></div>
+
 Pharmacokinetic data from Study H4613g/GO01305 suggested that carboplatin had no impact on the PK of trastuzumab.
 
 The administration of concomitant anastrozole did not appear to influence the pharmacokinetics of trastuzumab.
@@ -276,8 +301,6 @@ The administration of concomitant anastrozole did not appear to influence the ph
 ## Women of childbearing potential/Contraception
 
 Women of childbearing potential should be advised to use effective contraception during treatment with trastuzumab and for 7 months after treatment has concluded (see section 5.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -297,6 +320,8 @@ There is no fertility data available.
 
 Herwenda has minor influence on the ability to drive or use machines (see section 4.8). Dizziness and somnolence may occur during treatment with Herwenda (see section 4.8). Patients experiencing infusion-related symptoms (see section 4.4) should be advised not to drive and use machines until symptoms abate.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
@@ -305,11 +330,9 @@ Amongst the most serious and/or common adverse reactions reported in trastuzumab
 
 ## Tabulated list of adverse reactions
 
-In this section, the following categories of frequency have been used: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+In this section, the following categories of frequency have been used: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Presented in Table 1 are adverse reactions that have been reported in association with the use of intravenous trastuzumab alone or in combination with chemotherapy in pivotal clinical studies and in the post-marketing setting.
-
-<div style=\"page-break-after: always\"></div>
 
 All the terms included are based on the highest percentage seen in pivotal clinical studies. In addition, terms reported in the post-marketing setting are included in Table 1.
 
@@ -346,137 +369,131 @@ Table 1 Undesirable effects reported with intravenous trastuzumab monotherapy or
 | Metabolism and nutrition disorders                                   | Hyperkalaemia                               | Not known   |
 | Psychiatric disorders                                                | Insomnia                                    | Very common |
 | Psychiatric disorders                                                | Anxiety                                     | Common      |
-| Psychiatric disorders                                                | Depression                                  | Common      |
-| Nervous system disorders                                             | 1 Tremor                                    | Very common |
-| Nervous system disorders                                             | Dizziness                                   | Very common |
-| Nervous system disorders                                             | Headache                                    | Very common |
-| Nervous system disorders                                             | Paraesthesia                                | Very common |
-| Nervous system disorders                                             | Dysgeusia                                   | Very common |
-| Nervous system disorders                                             | Peripheral neuropathy                       | Common      |
-| Nervous system disorders                                             | Hypertonia                                  | Common      |
-| Nervous system disorders                                             | Somnolence                                  | Common      |
-| Eye disorders                                                        | Conjunctivitis                              | Very common |
-| Eye disorders                                                        | Lacrimation increased                       | Very common |
-| Eye disorders                                                        | Dry                                         | Common      |
-| Eye disorders                                                        | eye Papilloedema                            | Not known   |
-| Eye disorders                                                        | Retinal haemorrhage                         | Not known   |
-| Ear and labyrinth disorders                                          | Deafness                                    | Uncommon    |
-| Cardiac disorders                                                    | 1 Blood pressure decreased                  | Very common |
-| Cardiac disorders                                                    | 1 Blood pressure increased                  | Very common |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                              | Adverse reaction                                   | Frequency           |
-|-------------------------------------------------|----------------------------------------------------|---------------------|
-|                                                 | 1 Heart beat irregular                             | Very common         |
-|                                                 | 1 Cardiac flutter                                  | Very common         |
-|                                                 | Ejection fraction decreased *                      | Very common         |
-|                                                 | + Cardiac failure (congestive)                     | Common              |
-|                                                 | +1 Supraventricular tachyarrhythmia                | Common              |
-|                                                 | Cardiomyopathy                                     | Common              |
-|                                                 | 1 Palpitation                                      | Common              |
-|                                                 | Pericardial effusion                               | Uncommon            |
-|                                                 | Cardiogenic shock                                  | Not known           |
-|                                                 | Gallop rhythm present                              | Not known           |
-| Vascular disorders                              | Hot flush                                          | Very common         |
-|                                                 | +1 Hypotension                                     | Common              |
-|                                                 | Vasodilatation                                     | Common              |
-| Respiratory, thoracic and mediastinal disorders | + Dyspnoea                                         | Very common         |
-|                                                 | Cough                                              | Very common         |
-|                                                 | Epistaxis                                          | Very common         |
-|                                                 | Rhinorrhoea                                        | Very common         |
-|                                                 | + Pneumonia                                        | Common              |
-|                                                 | Asthma                                             | Common              |
-|                                                 | Lung disorder                                      | Common              |
-|                                                 | + Pleural effusion                                 | Common              |
-|                                                 | +1 Wheezing                                        | Uncommon            |
-|                                                 | Pneumonitis                                        | Uncommon            |
-|                                                 | + Pulmonary fibrosis                               | Not known           |
-|                                                 | + Respiratory distress                             | Not known           |
-|                                                 | + Respiratory failure                              | Not known           |
-|                                                 | + Lung infiltration                                | Not known           |
-|                                                 | + Acute pulmonary oedema +                         | Not known Not known |
-|                                                 | Acute respiratory distress syndrome + Bronchospasm | Not known           |
-|                                                 | + Hypoxia                                          |                     |
-|                                                 | + Oxygen saturation decreased                      | Not known Not known |
-|                                                 | Laryngeal oedema                                   | Not known           |
-|                                                 | Orthopnoea                                         | Not known           |
-|                                                 | Pulmonary oedema                                   | Not known           |
-|                                                 | Interstitial lung disease                          | Not known           |
-| Gastrointestinal disorders                      | Diarrhoea                                          | Very common         |
-|                                                 | Vomiting                                           | Very common         |
-|                                                 | Nausea                                             | Very common         |
-|                                                 | 1 Lip swelling                                     | Very common         |
-|                                                 | Abdominal pain                                     | Very common         |
-|                                                 | Dyspepsia                                          | Very common         |
-|                                                 | Constipation                                       | Very common         |
-|                                                 | Stomatitis                                         | Very common         |
-|                                                 | Haemorrhoids                                       | Common              |
-| Hepatobiliary disorders                         | Hepatocellular injury                              | Common              |
-|                                                 | Hepatitis                                          | Common              |
-|                                                 | Liver tenderness                                   | Common              |
-|                                                 | Jaundice                                           | Rare                |
-| Skin and subcutaneous tissue                    | Erythema                                           | Very common         |
-| disorders                                       | Rash                                               | Very common         |
-|                                                 | 1 Swelling face                                    | Very common         |
-|                                                 | Alopecia                                           | Very common         |
+| System organ class                              | Adverse reaction                      | Frequency   |
+|-------------------------------------------------|---------------------------------------|-------------|
+|                                                 | Depression                            | Common      |
+| Nervous system disorders                        | 1 Tremor                              | Very common |
+|                                                 | Dizziness                             | Very common |
+|                                                 | Headache                              | Very common |
+|                                                 | Paraesthesia                          | Very common |
+|                                                 | Dysgeusia                             | Very common |
+|                                                 | Peripheral neuropathy                 | Common      |
+|                                                 | Hypertonia                            | Common      |
+|                                                 | Somnolence                            | Common      |
+| Eye disorders                                   | Conjunctivitis                        | Very common |
+|                                                 | Lacrimation increased                 | Very common |
+|                                                 | Dry eye                               | Common      |
+|                                                 | Papilloedema                          | Not known   |
+|                                                 | Retinal haemorrhage                   | Not known   |
+| Ear and labyrinth disorders                     | Deafness                              | Uncommon    |
+| Cardiac disorders                               | 1 Blood pressure decreased            | Very common |
+|                                                 | 1 Blood pressure increased            | Very common |
+|                                                 | 1 Heart beat irregular                | Very common |
+|                                                 | 1 Cardiac flutter                     | Very common |
+|                                                 | Ejection fraction decreased *         | Very common |
+|                                                 | + Cardiac failure (congestive)        | Common      |
+|                                                 | +1 Supraventricular tachyarrhythmia   | Common      |
+|                                                 | Cardiomyopathy                        | Common      |
+|                                                 | 1 Palpitation                         | Common      |
+|                                                 | Pericardial effusion                  | Uncommon    |
+|                                                 | Cardiogenic shock                     | Not known   |
+| Vascular disorders                              | Hot flush                             | Very common |
+|                                                 | +1 Hypotension                        | Common      |
+|                                                 | Vasodilatation                        | Common      |
+| Respiratory, thoracic and mediastinal disorders | + Dyspnoea                            | Very common |
+|                                                 | Cough                                 | Very common |
+|                                                 | Epistaxis                             | Very common |
+|                                                 | Rhinorrhoea                           | Very common |
+|                                                 | + Pneumonia                           | Common      |
+|                                                 | Asthma                                | Common      |
+|                                                 | Lung disorder                         | Common      |
+|                                                 | + Pleural effusion                    | Common      |
+|                                                 | +1 Wheezing                           | Uncommon    |
+|                                                 | Pneumonitis                           | Uncommon    |
+|                                                 | + Pulmonary fibrosis                  | Not known   |
+|                                                 | + Respiratory distress                | Not known   |
+|                                                 | + Respiratory failure                 | Not known   |
+|                                                 | + Lung infiltration                   | Not known   |
+|                                                 | + Acute pulmonary oedema              | Not known   |
+|                                                 | + Acute respiratory distress syndrome | Not known   |
+|                                                 | + Bronchospasm                        | Not known   |
+|                                                 | + Hypoxia                             | Not known   |
+|                                                 | + Oxygen saturation decreased         | Not known   |
+|                                                 | Laryngeal oedema                      | Not known   |
+|                                                 | Orthopnoea                            | Not known   |
+|                                                 | Pulmonary                             | Not known   |
+|                                                 | oedema Interstitial lung disease      | Not known   |
+| Gastrointestinal disorders                      | Diarrhoea                             | Very common |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Adverse reaction                            | Frequency   |
-|------------------------------------------------------|---------------------------------------------|-------------|
-|                                                      | Nail disorder                               | Very common |
-|                                                      | Palmar-plantar erythrodysaesthesia syndrome | Very common |
-|                                                      | Acne                                        | Common      |
-|                                                      | Dry skin                                    | Common      |
-|                                                      | Ecchymosis                                  | Common      |
-|                                                      | Hyperhydrosis                               | Common      |
-|                                                      | Maculopapular rash                          | Common      |
-|                                                      | Pruritus                                    | Common      |
-|                                                      | Onychoclasis                                | Common      |
-|                                                      | Dermatitis                                  | Common      |
-|                                                      | Urticaria                                   | Uncommon    |
-|                                                      | Angioedema                                  | Not known   |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                                  | Very common |
-| Musculoskeletal and connective tissue disorders      | 1 Muscle tightness                          | Very common |
-| Musculoskeletal and connective tissue disorders      | Myalgia                                     | Very common |
-| Musculoskeletal and connective tissue disorders      | Arthritis                                   | Common      |
-| Musculoskeletal and connective tissue disorders      | Back pain                                   | Common      |
-| Musculoskeletal and connective tissue disorders      | Bone pain                                   | Common      |
-| Musculoskeletal and connective tissue disorders      | Muscle spasms                               | Common      |
-| Musculoskeletal and connective tissue disorders      | Neck Pain                                   | Common      |
-| Musculoskeletal and connective tissue disorders      | Pain in extremity                           | Common      |
-| Renal and urinary disorders                          | Renal disorder                              | Common      |
-| Renal and urinary disorders                          | Glomerulonephritis membranous               | Not known   |
-| Renal and urinary disorders                          | Glomerulonephropathy                        | Not known   |
-| Renal and urinary disorders                          | Renal failure                               | Not known   |
-| Pregnancy, puerperium and perinatal conditions       | Oligohydramnios                             | Not known   |
-| Pregnancy, puerperium and perinatal conditions       | Renal hypoplasia                            | Not known   |
-| Pregnancy, puerperium and perinatal conditions       | Pulmonary hypoplasia                        | Not known   |
-| Reproductive system and breast disorders             | Breast inflammation/mastitis                | Common      |
-| General disorders and administration site conditions | Asthenia                                    | Very common |
-| General disorders and administration site conditions | Chest pain                                  | Very common |
-| General disorders and administration site conditions | Chills                                      | Very common |
-| General disorders and administration site conditions | Fatigue                                     | Very common |
-| General disorders and administration site conditions | Influenza-like symptoms                     | Very common |
-| General disorders and administration site conditions | Infusion related reaction                   | Very common |
-| General disorders and administration site conditions | Pain                                        | Very common |
-| General disorders and administration site conditions | Pyrexia                                     | Very common |
-| General disorders and administration site conditions | Mucosal inflammation                        | Very common |
-| General disorders and administration site conditions | Peripheral oedema                           | Very common |
-| General disorders and administration site conditions | Malaise                                     | Common      |
-| General disorders and administration site conditions | Oedema                                      | Common      |
-| Injury, poisoning and procedural complications       | Contusion                                   | Common      |
-
-+ Denotes adverse reactions that have been reported in association with a fatal outcome.
-
-1 Denotes adverse reactions that are reported largely in association with infusion-related reactions.
-
-Specific percentages for these are not available.
-
-* Observed with combination therapy following anthracyclines and combined with taxanes.
+| System organ class                                   | Adverse reaction                            | Frequency          |
+|------------------------------------------------------|---------------------------------------------|--------------------|
+|                                                      | Vomiting                                    | Very common        |
+|                                                      | Nausea                                      | Very common        |
+|                                                      | 1 Lip swelling                              | Very common        |
+|                                                      | Abdominal pain                              | Very common        |
+|                                                      | Dyspepsia                                   | Very common        |
+|                                                      | Constipation                                | Very common        |
+|                                                      | Stomatitis                                  | Very common        |
+|                                                      | Haemorrhoids                                | Common             |
+|                                                      | Dry mouth                                   | Common             |
+| Hepatobiliary disorders                              | Hepatocellular injury                       | Common             |
+|                                                      | Hepatitis                                   | Common             |
+|                                                      | Liver tenderness                            | Common             |
+|                                                      | Jaundice                                    | Rare               |
+| Skin and subcutaneous tissue disorders               | Erythema                                    | Very common        |
+|                                                      | Rash                                        | Very common        |
+|                                                      | 1 Swelling face                             | Very common        |
+|                                                      | Alopecia                                    | Very common        |
+|                                                      | Nail disorder                               | Very common        |
+|                                                      | Palmar-plantar erythrodysaesthesia syndrome | Very common        |
+|                                                      | Acne                                        | Common             |
+|                                                      | Dry skin                                    | Common             |
+|                                                      | Ecchymosis                                  | Common             |
+|                                                      | Hyperhydrosis                               | Common             |
+|                                                      | Pruritus                                    | Common             |
+|                                                      | Onychoclasis                                | Common Common      |
+|                                                      | Dermatitis                                  |                    |
+|                                                      | Urticaria Angioedema                        | Uncommon Not known |
+| Musculoskeletal and connective tissue disorders      | Arthralgia                                  | Very common        |
+|                                                      | 1 Muscle tightness                          | Very common        |
+|                                                      | Myalgia                                     | Very common        |
+|                                                      | Arthritis                                   | Common             |
+|                                                      | Back pain                                   | Common             |
+|                                                      | Bone pain                                   | Common             |
+|                                                      | Muscle spasms                               | Common             |
+|                                                      | Neck Pain                                   | Common             |
+|                                                      | Pain in extremity                           | Common             |
+| Renal and urinary disorders                          | Renal disorder                              | Common             |
+|                                                      | Glomerulonephritis membranous               | Not known          |
+|                                                      | Glomerulonephropathy                        | Not known          |
+|                                                      | Renal failure                               | Not known          |
+| Pregnancy, puerperium and                            | Oligohydramnios                             | Not known          |
+| perinatal conditions                                 | Renal hypoplasia                            | Not known          |
+|                                                      | Pulmonary hypoplasia                        | Not known          |
+| Reproductive system and breast disorders             | Breast inflammation/mastitis                | Common             |
+| General disorders and administration site conditions | Asthenia                                    | Very common        |
+|                                                      | Chest pain                                  | Very common        |
+|                                                      | Chills                                      | Very common        |
+|                                                      | Fatigue                                     | Very common        |
+|                                                      | Influenza-like symptoms                     | Very common        |
+|                                                      | Infusion related reaction                   | Very common        |
+|                                                      | Pain                                        | Very common        |
 
 <div style=\"page-break-after: always\"></div>
+
+| System organ class                             | Adverse reaction     | Frequency   |
+|------------------------------------------------|----------------------|-------------|
+|                                                | Pyrexia              | Very common |
+|                                                | Mucosal inflammation | Very common |
+|                                                | Peripheral oedema    | Very common |
+|                                                | Malaise              | Common      |
+|                                                | Oedema               | Common      |
+| Injury, poisoning and procedural complications | Contusion            | Common      |
 
 ## Description of selected adverse reactions
 
@@ -496,11 +513,11 @@ In the pivotal metastatic studies of intravenous trastuzumab, the incidence of c
 
 It is estimated that approximately 40% of patients who are treated with trastuzumab will experience some form of infusion-related reaction. However, the majority of infusion-related reactions are mild to moderate in intensity (NCI-CTC grading system) and tend to occur earlier in treatment, i.e. during infusions one, two and three and lessen in frequency in subsequent infusions. Reactions include chills, fever, dyspnoea, hypotension, wheezing, bronchospasm, tachycardia, reduced oxygen saturation, respiratory distress, rash, nausea, vomiting and headache (see section 4.4). The rate of infusion-related reactions of all grades varied between studies depending on the indication, the data collection methodology, and whether trastuzumab was given concurrently with chemotherapy or as monotherapy.
 
+<div style=\"page-break-after: always\"></div>
+
 Severe anaphylactic reactions requiring immediate additional intervention can occur usually during either the first or second infusion of trastuzumab (see section 4.4) and have been associated with a fatal outcome.
 
 Anaphylactoid reactions have been observed in isolated cases.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Haematotoxicity
 
@@ -516,7 +533,7 @@ Details of risk minimisation measures that are consistent with the EU Risk Manag
 
 In the neoadjuvant-adjuvant EBC study (BO22227), at a median follow-up exceeding 70 months, 10.1% (30/296) of patients treated with trastuzumab intravenous developed antibodies against trastuzumab. Neutralising anti-trastuzumab antibodies were detected in post-baseline samples in 2 of 30 patients in the trastuzumab intravenous arm.
 
-The clinical relevance of these antibodies is not known. The presence of anti-trastuzumab antibodies had no impact on pharmacokinetics, efficacy (determined by pathological Complete Response [pCR] and event free survival [EFS]) and safety determined by occurrence of administration related reactions (ARRs) of trastuzumab intravenous.
+The clinical relevance of these antibodies is not known. The presence of anti-trastuzumab antibodies had no impact on pharmacokinetics, efficacy (determined by pathological Complete Response [pCR] and event-free survival [EFS]) and safety determined by occurrence of administration related reactions (ARRs) of trastuzumab intravenous.
 
 There are no immunogenicity data available for trastuzumab in gastric cancer.
 
@@ -528,19 +545,17 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no experience with overdose in human clinical studies. Single doses of trastuzumab alone greater than 10 mg/kg have not been administered in the clinical studies; a maintenance dose of 10 mg/kg q3w following a loading dose of 8 mg/kg has been studied in a clinical study with MGC patients. Doses up to this level were well tolerated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01FD01
 
-Herwenda is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Herwenda is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-Trastuzumab is a recombinant humanised IgG1 monoclonal antibody against the human epidermal growth factor receptor 2 (HER2). Overexpression of HER2 is observed in 20% - 30% of primary
-
-<div style=\"page-break-after: always\"></div>
-
-breast cancers. Studies of HER2 positivity rates in gastric cancer (GC) using IHC and FISH or chromogenic in situ hybridisation (CISH) have shown that there is a broad variation of HER2 positivity ranging from 6.8% to 34.0% for IHC and 7.1% to 42.6% for FISH. Studies indicate that breast cancer patients whose tumours overexpress HER2 have a shortened disease-free survival compared to patients whose tumours do not overexpress HER2. The extracellular domain of the receptor (ECD, p105) can be shed into the blood stream and measured in serum samples.
+Trastuzumab is a recombinant humanised IgG1 monoclonal antibody against the human epidermal growth factor receptor 2 (HER2). Overexpression of HER2 is observed in 20% - 30% of primary breast cancers. Studies of HER2 positivity rates in gastric cancer (GC) using IHC and FISH or chromogenic in situ hybridisation (CISH) have shown that there is a broad variation of HER2 positivity ranging from 6.8% to 34.0% for IHC and 7.1% to 42.6% for FISH. Studies indicate that breast cancer patients whose tumours overexpress HER2 have a shortened disease-free survival compared to patients whose tumours do not overexpress HER2. The extracellular domain of the receptor (ECD, p105) can be shed into the blood stream and measured in serum samples.
 
 ## Mechanism of action
 
@@ -562,14 +577,17 @@ Table 2 Recommended scoring system to evaluate the IHC staining patterns in brea
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
 | 0       | No staining is observed or membrane staining is observed in < 10% of the tumour cells.                                                       | Negative                         |
 | 1+      | A faint/barely perceptible membrane staining is detected in > 10% of the tumour cells. The cells are only stained in part of their membrane. | Negative                         |
-| 2+      | A weak to moderate complete membrane staining is detected in > 10% of the tumour cells.                                                      | Equivocal                        |
-| 3+      | Strong complete membrane staining is detected in > 10% of the tumour cells.                                                                  | Positive                         |
+
+<div style=\"page-break-after: always\"></div>
+
+| Score   | Staining pattern                                                                        | HER2 overexpression assessment   |
+|---------|-----------------------------------------------------------------------------------------|----------------------------------|
+| 2+      | A weak to moderate complete membrane staining is detected in > 10% of the tumour cells. | Equivocal                        |
+| 3+      | Strong complete membrane staining is detected in > 10% of the tumour cells.             | Positive                         |
 
 In general, FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2, or if there are more than 4 copies of the HER2 gene per tumour cell if no chromosome 17 control is used.
 
 In general, CISH is considered positive if there are more than 5 copies of the HER2 gene per nucleus in greater than 50% of tumour cells.
-
-<div style=\"page-break-after: always\"></div>
 
 For full instructions on assay performance and interpretation please refer to the package inserts of validated FISH and CISH assays. Official recommendations on HER2 testing may also apply.
 
@@ -587,6 +605,8 @@ HER2 overexpression should be detected using an IHC-based assessment of fixed tu
 
 The recommended scoring system to evaluate the IHC staining patterns is as stated in Table 3:
 
+<div style=\"page-break-after: always\"></div>
+
 Table 3 Recommended scoring system to evaluate the IHC staining patterns in gastric cancer
 
 | Score   | Surgical specimen - staining pattern                                                                                       | Biopsy specimen - staining pattern                                                                                                                    | HER2 overexpression assessment   |
@@ -594,12 +614,7 @@ Table 3 Recommended scoring system to evaluate the IHC staining patterns in gast
 | 0       | No reactivity or membranous reactivity in < 10% of tumour cells                                                            | No reactivity or membranous reactivity in any tumour cell                                                                                             | Negative                         |
 | 1+      | Faint/barely perceptible membranous reactivity in ≥ 10% of tumour cells; cells are reactive only in part of their membrane | Tumour cell cluster with a faint/barely perceptible membranous reactivity irrespective of percentage of tumour cells stained                          | Negative                         |
 | 2+      | Weak to moderate complete, basolateral or lateral membranous reactivity in ≥ 10% of tumour cells                           | Tumour cell cluster with a weak to moderate complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained | Equivocal                        |
-
-<div style=\"page-break-after: always\"></div>
-
-| Score   | Surgical specimen - staining pattern                                                   | Biopsy specimen - staining pattern                                                                                                          | HER2 overexpression assessment   |
-|---------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| 3+      | Strong complete, basolateral or lateral membranous reactivity in ≥ 10% of tumour cells | Tumour cell cluster with a strong complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained | Positive                         |
+| 3+      | Strong complete, basolateral or lateral membranous reactivity in ≥ 10% of tumour cells                                     | Tumour cell cluster with a strong complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained           | Positive                         |
 
 In general, SISH or FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2.
 
@@ -617,23 +632,22 @@ The test method for HER2 overexpression used to determine eligibility of patient
 
 The main test method used to determine HER2 positivity in the pivotal study of docetaxel, with or without trastuzumab, was immunohistochemistry. A minority of patients was tested using FISH. In this study, 87% of patients entered had disease that was IHC3+, and 95% of patients entered had disease that was IHC3+ and/or FISH-positive.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Weekly dosing in metastatic breast cancer
 
 The efficacy results from the monotherapy and combination therapy studies are summarised in Table 4:
 
-<div style=\"page-break-after: always\"></div>
-
 Table 4 Efficacy results from the monotherapy and combination therapy studies
 
-| Parameter                            | Monotherapy           | Combination therapy                  | Combination therapy   | Combination therapy          | Combination therapy   |
-|--------------------------------------|-----------------------|--------------------------------------|-----------------------|------------------------------|-----------------------|
-|                                      | Trastuzumab 1 N = 172 | Trastuzumab plus paclitaxel 2 N = 68 | Paclitaxel 2          | Trastuzumab plus docetaxel 3 | Docetaxel 3 N = 94    |
-|                                      |                       |                                      | 77                    |                              |                       |
-|                                      |                       |                                      | N =                   | N = 92                       |                       |
-| Response rate (95%CI)                | 18% (13 - 25)         | 49% (36 - 61)                        | 17% (9 - 27)          | 61% (50 - 71)                | 34% (25 - 45)         |
-| Median duration of response (months) | 9.1 (5.6 - 10.3)      | 8.3 (7.3 - 8.8)                      | 4.6 (3.7 - 7.4)       | 11.7 (9.3 - 15.0)            | 5.7 (4.6 - 7.6)       |
-| Median TTP (months) (95%CI)          | 3.2 (2.6 - 3.5)       | 7.1 (6.2 - 12.0)                     | 3.0 (2.0 - 4.4)       | 11.7 (9.2 - 13.5)            | 6.1 (5.4 - 7.2)       |
-| Median Survival (months) (95%CI)     | 16.4 (12.3 - ne)      | 24.8 (18.6 - 33.7)                   | 17.9 (11.2 - 23.8)    | 31.2 (27.3 - 40.8)           | 22.74 (19.1 - 30.8)   |
+| Parameter                            | Monotherapy           | Combination therapy                  | Combination therapy   | Combination therapy                 | Combination therapy   |
+|--------------------------------------|-----------------------|--------------------------------------|-----------------------|-------------------------------------|-----------------------|
+|                                      | Trastuzumab 1 N = 172 | Trastuzumab plus paclitaxel 2 N = 68 | Paclitaxel 2          | Trastuzumab plus docetaxel 3 N = 92 | Docetaxel 3 N = 94    |
+|                                      |                       |                                      | N = 77                |                                     |                       |
+| Response rate (95%CI)                | 18% (13 - 25)         | 49% (36 - 61)                        | 17% (9 - 27)          | 61% (50 - 71)                       | 34% (25 - 45)         |
+| Median duration of response (months) | 9.1 (5.6 - 10.3)      | 8.3 (7.3 - 8.8)                      | 4.6 (3.7 - 7.4)       | 11.7 (9.3 - 15.0)                   | 5.7 (4.6 - 7.6)       |
+| Median TTP (months) (95%CI)          | 3.2 (2.6 - 3.5)       | 7.1 (6.2 - 12.0)                     | 3.0 (2.0 - 4.4)       | 11.7 (9.2 - 13.5)                   | 6.1 (5.4 - 7.2)       |
+| Median Survival (months) (95%CI)     | 16.4 (12.3 - ne)      | 24.8 (18.6 - 33.7)                   | 17.9 (11.2 - 23.8)    | 31.2 (27.3 - 40.8)                  | 22.74 (19.1 - 30.8)   |
 
 TTP = time to progression; \"ne\" indicates that it could not be estimated or it was not yet reached.
 
@@ -651,23 +665,17 @@ Trastuzumab has been studied in combination with anastrozole for first line trea
 
 The efficacy results from the non-comparative monotherapy and combination therapy studies are summarised in Table 5:
 
-Table 5 Efficacy results from the non-comparative monotherapy and combination therapy studies
-
-| Parameter                                    | Monotherapy           | Monotherapy      | Combination therapy                  | Combination therapy          |
-|----------------------------------------------|-----------------------|------------------|--------------------------------------|------------------------------|
-|                                              | Trastuzumab 1 N = 105 | Trastuzumab 2    | Trastuzumab plus paclitaxel 3 N = 32 | Trastuzumab plus docetaxel 4 |
-|                                              |                       | N = 72           |                                      | N = 110                      |
-| Response rate (95%CI)                        | 24% (15 - 35)         | 27% (14 - 43)    | 59% (41 - 76)                        | 73% (63 - 81)                |
-| Median duration of response (months) (range) | 10.1 (2.8 - 35.6)     | 7.9 (2.1 - 18.8) | 10.5 (1.8 - 21)                      | 13.4 (2.1 - 55.1)            |
-| Median TTP (months) (95%CI)                  | 3.4 (2.8 - 4.1)       | 7.7 (4.2 - 8.3)  | 12.2 (6.2 - ne)                      | 13.6 (11 - 16)               |
-
 <div style=\"page-break-after: always\"></div>
 
-| Parameter                        | Monotherapy   | Monotherapy   | Combination therapy           | Combination therapy          |
-|----------------------------------|---------------|---------------|-------------------------------|------------------------------|
-|                                  | Trastuzumab 1 | Trastuzumab 2 | Trastuzumab plus paclitaxel 3 | Trastuzumab plus docetaxel 4 |
-|                                  | N = 105       | N = 72        | N = 32                        | N = 110                      |
-| Median survival (months) (95%CI) | ne            | ne            | ne                            | 47.3 (32 - ne)               |
+Table 5 Efficacy results from the non-comparative monotherapy and combination therapy studies
+
+| Parameter                                    | Monotherapy           | Monotherapy          | Combination therapy                  | Combination therapy                  |
+|----------------------------------------------|-----------------------|----------------------|--------------------------------------|--------------------------------------|
+|                                              | Trastuzumab 1 N = 105 | Trastuzumab 2 N = 72 | Trastuzumab plus paclitaxel 3 N = 32 | Trastuzumab plus docetaxel 4 N = 110 |
+| Response rate (95%CI)                        | 24% (15 - 35)         | 27% (14 - 43)        | 59% (41 - 76)                        | 73% (63 - 81)                        |
+| Median duration of response (months) (range) | 10.1 (2.8 - 35.6)     | 7.9 (2.1 - 18.8)     | 10.5 (1.8 - 21)                      | 13.4 (2.1 - 55.1)                    |
+| Median TTP (months) (95%CI)                  | 3.4 (2.8 - 4.1)       | 7.7 (4.2 - 8.3)      | 12.2 (6.2 - ne)                      | 13.6 (11 - 16)                       |
+| Median survival (months) (95%CI)             | ne                    | ne                   | ne                                   | 47.3 (32 - ne)                       |
 
 TTP = time to progression; \"ne\" indicates that it could not be estimated or it was not yet reached.
 
@@ -695,11 +703,11 @@ EBC in the HERA study was limited to operable, primary, invasive adenocarcinoma 
 
 In the joint analysis of the NSABP B-31 and NCCTG N9831 studies, EBC was limited to women with operable breast cancer at high risk, defined as HER2 positive and axillary lymph node positive or HER2 positive and lymph node negative with high risk features (tumour size &gt; 1 cm and ER negative or tumour size &gt; 2 cm, regardless of hormonal status).
 
+<div style=\"page-break-after: always\"></div>
+
 In the BCIRG 006 study, HER2 positive, EBC was defined as either lymph node positive or high risk node negative patients with no (pN0) lymph node involvement, and at least 1 of the following factors: tumour size greater than 2 cm, oestrogen receptor and progesterone receptor negative, histological and/or nuclear grade 2 - 3, or age &lt; 35 years.
 
 The efficacy results from the BO16348 study following 12 months* and 8 years** median follow-up are summarised in Table 6:
-
-<div style=\"page-break-after: always\"></div>
 
 Table 6 Efficacy results from study BO16348
 
@@ -723,22 +731,22 @@ Table 6 Efficacy results from study BO16348
 | P-value versus observation                              | 0.24                          | 0.24                          | 0.0005                       | 0.0005                          |
 | Hazard ratio versus observation                         | 0.75                          | 0.75                          | 0.76                         | 0.76                            |
 
-*Co-primary endpoint of DFS of 1 year versus observation met the pre-defined statistical boundary **Final analysis (including cross-over of 52% of patients from the observation arm to trastuzumab) *** There is a discrepancy in the overall sample size due to a small number of patients who were randomised after the cut-off date for the 12-month median follow-up analysis
-
 The efficacy results from the interim efficacy analysis crossed the protocol pre-specified statistical boundary for the comparison of 1 year of trastuzumab versus observation. After a median follow-up of 12 months, the hazard ratio (HR) for disease-free survival (DFS) was 0.54 (95% CI 0.44, 0.67) which translates into an absolute benefit, in terms of a 2-year disease-free survival rate, of 7.6 percentage points (85.8% versus 78.2%) in favour of the trastuzumab arm.
 
-A final analysis was performed after a median follow-up of 8 years, which showed that 1-year trastuzumab treatment is associated with a 24% risk reduction compared to observation only (HR = 0.76, 95% CI 0.67, 0.86). This translates into an absolute benefit in terms of an 8-year diseasefree survival rate of 6.4 percentage points in favour of 1 year trastuzumab treatment.
+A final analysis was performed after a median follow-up of 8 years, which showed that 1-year trastuzumab treatment is associated with a 24% risk reduction compared to observation only
+
+<div style=\"page-break-after: always\"></div>
+
+(HR = 0.76, 95% CI 0.67, 0.86). This translates into an absolute benefit in terms of an 8-year diseasefree survival rate of 6.4 percentage points in favour of 1 year trastuzumab treatment.
 
 In this final analysis, extending trastuzumab treatment for a duration of two years did not show additional benefit over treatment for 1 year [DFS HR in the intent to treat (ITT) population of 2 years versus 1 year = 0.99 (95% CI 0.87, 1.13), p-value = 0.90 and OS HR = 0.98 (0.83, 1.15); p-value = 0.78]. The rate of asymptomatic cardiac dysfunction was increased in the 2-year treatment arm (8.1% versus 4.6% in the 1-year treatment arm). More patients experienced at least one grade 3 or 4 adverse event in the 2-year treatment arm (20.4%) compared with the 1-year treatment arm (16.3%).
 
 In the NSABP B-31 and NCCTG N9831 studies trastuzumab was administered in combination with paclitaxel, following AC chemotherapy.
 
-<div style=\"page-break-after: always\"></div>
-
 Doxorubicin and cyclophosphamide were administered concurrently as follows:
 
 - -intravenous push doxorubicin, at 60 mg/m 2 , given every 3 weeks for 4 cycles.
-- -intravenous cyclophosphamide, at 600 mg/m 2 over 30 minutes, given every 3 weeks for 4 cycles.
+- -intravenous cyclophosphamide, at 600 mg/m 2  over 30 minutes, given every 3 weeks for 4 cycles.
 
 Paclitaxel, in combination with trastuzumab, was administered as follows:
 
@@ -758,17 +766,15 @@ Table 7 Summary of efficacy results from the joint analysis of the NSABP B-31 an
 | Distant recurrence No. patients with event        | 193 (11.5)           | 96 (5.7)              | 0.47 (0.37, 0.60) p < 0.0001              |
 | Death (OS event) No. patients with event          | 92 (5.5)             | 62 (3.7)              | 0.67 (0.48, 0.92) p = 0.014 **            |
 
-A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
+A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab For the primary endpoint, DFS, the addition of trastuzumab to paclitaxel chemotherapy resulted in a 52% decrease in the risk of disease recurrence. The hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 11.8 percentage points (87.2% versus 75.4%) in favour of the AC → PH (trastuzumab) arm.
 
 * At median duration of follow-up of 1.8 years for the patients in the AC → P arm and 2.0 years for patients in the AC → PH arm
 
 ** p value for OS did not cross the pre-specified statistical boundary for comparison of AC → PH vs. AC → P
 
-For the primary endpoint, DFS, the addition of trastuzumab to paclitaxel chemotherapy resulted in a 52% decrease in the risk of disease recurrence. The hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 11.8 percentage points (87.2% versus 75.4%) in favour of the AC → PH (trastuzumab) arm.
+<div style=\"page-break-after: always\"></div>
 
 At the time of a safety update after a median of 3.5 - 3.8 years follow-up, an analysis of DFS reconfirms the magnitude of the benefit shown in the definitive analysis of DFS. Despite the cross-over to trastuzumab in the control arm, the addition of trastuzumab to paclitaxel chemotherapy resulted in a 52% decrease in the risk of disease recurrence. The addition of trastuzumab to paclitaxel chemotherapy also resulted in a 37% decrease in the risk of death.
-
-<div style=\"page-break-after: always\"></div>
 
 The pre-planned final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831 was performed when 707 deaths had occurred (median follow-up 8.3 years in the AC → PH group). Treatment with AC → PH resulted in a statistically significant improvement in OS compared with AC → P (stratified HR = 0.64; 95% CI [0.55, 0.74]; log-rank p-value &lt; 0.0001). At 8 years, the survival rate was estimated to be 86.9% in the AC → PH arm and 79.4% in the AC → P arm, an absolute benefit of 7.4% (95% CI 4.9%, 10.0%).
 
@@ -778,8 +784,7 @@ Table 8 Final overall survival analysis from the joint analysis of studies NSABP
 
 | Parameter                                     | AC → P (N = 2 032)   | AC → PH (N = 2 031)   | p-value versus AC → P   | Hazard ratio versus AC → P (95% CI)   |
 |-----------------------------------------------|----------------------|-----------------------|-------------------------|---------------------------------------|
-| Death (OS event): No. patients with event (%) | 418 (20.6%)          | 289 (14.2%)           | < 0.0001                | 0.64                                  |
-|                                               |                      |                       |                         | (0.55, 0.74)                          |
+| Death (OS event): No. patients with event (%) | 418 (20.6%)          | 289 (14.2%)           | < 0.0001                | 0.64 (0.55, 0.74)                     |
 
 A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
 
@@ -801,9 +806,9 @@ which was followed by:
 
 Trastuzumab was administered weekly with chemotherapy and 3-weekly thereafter for a total of 52 weeks.
 
-The efficacy results from the BCIRG 006 are summarised in Tables 9 and 10. The median duration of follow-up was 2.9 years in the AC → D arm and 3.0 years in each of the AC → DH and DCarbH arms.
-
 <div style=\"page-break-after: always\"></div>
+
+The efficacy results from the BCIRG 006 are summarised in Tables 9 and 10. The median duration of follow-up was 2.9 years in the AC → D arm and 3.0 years in each of the AC → DH and DCarbH arms.
 
 Table 9 Overview of efficacy analyses BCIRG 006 AC → D versus AC → DH
 
@@ -825,7 +830,7 @@ Table 10 Overview of efficacy analyses BCIRG 006 AC → D versus DCarbH
 
 AC → D = doxorubicin plus cyclophosphamide, followed by docetaxel; DCarbH = docetaxel, carboplatin and trastuzumab; CI = confidence interval
 
-In the BCIRG 006 study for the primary endpoint, DFS, the hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 5.8 percentage points (86.7% versus 80.9%) in favour of the AC→DH ( trastuzumab) arm and 4.6 percentage points (85.5% versus 80.9%) in favour of the DCarbH (trastuzumab) arm compared to AC → D.
+In the BCIRG 006 study for the primary endpoint, DFS, the hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 5.8 percentage points (86.7% versus 80.9%) in favour of the AC→DH (trastuzumab) arm and 4.6 percentage points (85.5% versus 80.9%) in favour of the DCarbH (trastuzumab) arm compared to AC → D.
 
 In study BCIRG 006, 213/1 075 patients in the DCarbH (TCH) arm, 221/1 074 patients in the AC → DH (AC → TH) arm, and 217/1 073 in the AC → D (AC → T) arm had a Karnofsky performance status ≤ 90 (either 80 or 90). No DFS benefit was noticed in this subgroup of patients (hazard ratio = 1.16, 95% CI [0.73, 1.83] for DCarbH (TCH) versus AC → D (AC → T); hazard ratio 0.97, 95% CI [0.60, 1.55] for AC → DH (AC → TH) versus AC → D).
 
@@ -883,8 +888,6 @@ Table 12 Efficacy results from MO16432
 | Overall survival                               |                                 |                        | Hazard ratio (95% CI)        |
 | No. patients with event                        | 22                              | 33                     | 0.59 (0.35, 1.02) p = 0.0555 |
 
-* defined as absence of any invasive cancer both in the breast and axillary nodes
-
 An absolute benefit of 13 percentage points in favour of the trastuzumab arm was estimated in terms of 3-year event-free survival rate (65% versus 52%).
 
 ## Metastatic gastric cancer
@@ -903,19 +906,19 @@ Either of which was administered with:
 
 - -cisplatin - 80 mg/m 2 every 3 weeks for 6 cycles on day 1 of each cycle.
 
-<div style=\"page-break-after: always\"></div>
-
 The efficacy results from study BO18225 are summarised in Table 13:
+
+<div style=\"page-break-after: always\"></div>
 
 Table 13 Efficacy results from BO18225
 
-| Parameter                                  | FP N = 290   | FP+H N = 294   | HR(95% CI)          | p-value   |
-|--------------------------------------------|--------------|----------------|---------------------|-----------|
-| Overall survival, median months            | 11.1         | 13.8           | 0.74 (0.60-0.91)    | 0.0046    |
-| Progression-free survival, median months   | 5.5          | 6.7            | 0.71 (0.59-0.85)    | 0.0002    |
-| Time to disease progression, median months | 5.6          | 7.1            | 0.70 (0.58-0.85)    | 0.0003    |
-| Overall response rate,%                    | 34.5%        | 47.3%          | 1.70 a (1.22, 2.38) | 0.0017    |
-| Duration of response, median months        | 4.8          | 6.9            | 0.54 (0.40-0.73)    | < 0.0001  |
+| Parameter                                  | FP N = 290   | FP + H N = 294   | HR (95% CI)         | p-value   |
+|--------------------------------------------|--------------|------------------|---------------------|-----------|
+| Overall survival, median months            | 11.1         | 13.8             | 0.74 (0.60-0.91)    | 0.0046    |
+| Progression-free survival, median months   | 5.5          | 6.7              | 0.71 (0.59-0.85)    | 0.0002    |
+| Time to disease progression, median months | 5.6          | 7.1              | 0.70 (0.58-0.85)    | 0.0003    |
+| Overall response rate, %                   | 34.5%        | 47.3%            | 1.70 a (1.22, 2.38) | 0.0017    |
+| Duration of response, median months        | 4.8          | 6.9              | 0.54 (0.40-0.73)    | < 0.0001  |
 
 FP + H: Fluoropyrimidine/cisplatin + trastuzumab
 
@@ -935,11 +938,11 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of trastuzumab were evaluated in a population pharmacokinetic model analysis using pooled data from 1 582 subjects, including patients with HER2 positive MBC, EBC, AGC or other tumour types, and healthy volunteers, in 18 phase I, II and III studies receiving trastuzumab intravenously. A two-compartment model with parallel linear and non-linear elimination from the central compartment described the trastuzumab concentration-time profile. Due to non-linear elimination, total clearance increased with decreasing concentration. Therefore, no constant value for half-life of trastuzumab can be deduced. The t1/2 decreases with decreasing concentrations within a dosing interval (see Table 16). MBC and EBC patients had similar PK parameters (e.g. clearance (CL), the central compartment volume (Vc)) and population-predicted steady-state exposures (Cmin, Cmax and AUC). Linear clearance was 0.136 L/day for MBC, 0.112 L/day for EBC and 0.176 L/day for
+The pharmacokinetics of trastuzumab were evaluated in a population pharmacokinetic model analysis using pooled data from 1 582 subjects, including patients with HER2 positive MBC, EBC, AGC or other tumour types, and healthy volunteers, in 18 phase I, II and III studies receiving trastuzumab intravenously. A two-compartment model with parallel linear and non-linear elimination from the central compartment described the trastuzumab concentration-time profile. Due to non-linear elimination, total clearance increased with decreasing concentration. Therefore, no constant value for half-life of trastuzumab can be deduced. The t1/2 decreases with decreasing concentrations within a dosing interval (see Table 16). MBC and EBC patients had similar PK parameters (e.g. clearance (CL), the central compartment volume (Vc)) and population-predicted steady-state exposures (Cmin, Cmax and AUC). Linear clearance was 0.136 L/day for MBC, 0.112 L/day for EBC and 0.176 L/day for AGC. The non-linear elimination parameter values were 8.81 mg/day for the maximum elimination rate (Vmax) and 8.92 mcg/mL for the Michaelis-Menten constant (Km) for the MBC, EBC, and AGC
 
 <div style=\"page-break-after: always\"></div>
 
-AGC. The non-linear elimination parameter values were 8.81 mg/day for the maximum elimination rate (Vmax) and 8.92 mcg/mL for the Michaelis-Menten constant (Km) for the MBC, EBC, and AGC patients. The central compartment volume was 2.62 L for patients with MBC and EBC and 3.63 L for patients with AGC. In the final population PK model, in addition to primary tumour type, body weight, serum aspartate aminotransferase and albumin were identified as a statistically significant covariates affecting the exposure of trastuzumab. However, the magnitude of effect of these covariates on trastuzumab exposure suggests that these covariates are unlikely to have a clinically meaningful effect on trastuzumab concentrations.
+patients. The central compartment volume was 2.62 L for patients with MBC and EBC and 3.63 L for patients with AGC. In the final population PK model, in addition to primary tumour type, body weight, serum aspartate aminotransferase and albumin were identified as a statistically significant covariates affecting the exposure of trastuzumab. However, the magnitude of effect of these covariates on trastuzumab exposure suggests that these covariates are unlikely to have a clinically meaningful effect on trastuzumab concentrations.
 
 The population predicted PK exposure values (median with 5th-95th Percentiles) and PK parameter values at clinically relevant concentrations (Cmax and Cmin) for MBC, EBC and AGC patients treated with the approved q1w and q3w dosing regimens are shown in Table 14 (cycle 1), Table 15 (steady-state), and Table 16 (PK parameters).
 
@@ -963,12 +966,6 @@ Table 15 Population predicted steady-state PK exposure values (median with 5th-9
 | 4 mg/kg + 2 mg/kg qw  | MBC                   | 805 | 63.1 (11.7 - 107)    | 107 (54.2 - 164)      | 1 710 (581 - 2 715)             |                               12 |
 | 4 mg/kg + 2 mg/kg qw  | EBC                   | 390 | 72.6 (46 - 109)      | 115 (82.6 - 160)      | 1 893 (1 309 - 2 734)           |                               14 |
 
-* Cmin,ss - Cmin at steady-state
-
-** Cmax,ss = Cmax at steady-state
-
-*** time to 90% of steady-state
-
 <div style=\"page-break-after: always\"></div>
 
 Table 16 Population predicted PK parameter values at steady-state for trastuzumab intravenous dosing regimens in MBC, EBC and AGC patients
@@ -983,7 +980,7 @@ Table 16 Population predicted PK parameter values at steady-state for trastuzuma
 
 ## Trastuzumab washout
 
-Trastuzumab washout period was assessed following q1w or q3w intravenous administration using the population PK model. The results of these simulations indicate that at least 95% of patients will reach concentrations that are &lt; 1 μg/mL (approximately 3% of the population predicted C min,ss, or about 97% washout) by 7 months.
+Trastuzumab washout period was assessed following q1w or q3w intravenous administration using the population PK model. The results of these simulations indicate that at least 95% of patients will reach concentrations that are &lt; 1 μg/mL (approximately 3% of the population predicted Cmin,ss, or about 97% washout) by 7 months.
 
 ## Circulating shed HER2 ECD
 
@@ -1001,7 +998,7 @@ No long-term animal studies have been performed to establish the carcinogenic po
 
 ## 6.1 List of excipients
 
-L-histidine hydrochloride monohydrate L-histidine α , α -trehalose dihydrate polysorbate 20 (E 432)
+L-histidine hydrochloride monohydrate L-histidine α,α-trehalose dihydrate polysorbate 20 (E 432)
 
 ## 6.2 Incompatibilities
 
@@ -1019,9 +1016,9 @@ The medicinal product should not be diluted with glucose solutions since these c
 
 ## Aseptic reconstitution and dilution
 
-After aseptic reconstitution with sterile water for injections, chemical and physical stability of the reconstituted solution has been demonstrated for 7 days at 2 °C - 8 °C.
+After aseptic reconstitution with sterile water for injections, chemical and physical stability of the reconstituted solution has been demonstrated for 10 days at 2 °C - 8 °C.
 
-After aseptic dilution in polyvinylchloride, polyethylene or polypropylene bags containing sodium chloride 9 mg/mL (0.9%) solution for injection, chemical and physical stability of Herwenda has been demonstrated for up to 33 days at 2 °C - 8 °C, and subsequently for 48 hours at temperatures not exceeding 30 °C.
+After aseptic dilution in polyvinylchloride, polyethylene or polypropylene bags containing sodium chloride 9 mg/mL (0.9%) solution for injection, chemical and physical stability of Herwenda has been demonstrated for up to 90 days at 2 °C - 8 °C, and subsequently for 48 hours at temperatures not exceeding 30 °C.
 
 From a microbiological point of view, the reconstituted solution and Herwenda infusion solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would not normally be longer than 24 hours at 2 °C-8 °C, unless reconstitution and dilution have taken place under controlled and validated aseptic conditions. Do not freeze the reconstituted solution.
 
@@ -1035,7 +1032,13 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 ## 6.5 Nature and contents of container
 
+## Herwenda 150 mg powder for concentrate for solution for infusion
+
 20 mL clear glass type I vial with a fluoropolymer-coated butyl rubber stopper and aluminium seal with flip-off cap containing 150 mg of trastuzumab.
+
+Herwenda 420 mg powder for concentrate for solution for infusion 50 mL clear glass type I vial with a fluoropolymer-coated butyl rubber stopper and aluminium seal
+
+with flip-off cap containing 420 mg of trastuzumab.
 
 Each carton contains one vial.
 
@@ -1049,23 +1052,39 @@ Appropriate aseptic technique should be used for reconstitution and dilution pro
 
 Aseptic handling must be ensured when preparing the infusion. Preparation should be:
 
-- performed under aseptic conditions by trained personnel in accordance with good practice rules especially with respect to the aseptic preparation of parenteral products.
-- prepared in a laminar flow hood or biological safety cabinet using standard precautions for the safe handling of intravenous agents.
-- followed by adequate storage of the prepared solution for intravenous infusion to ensure maintenance of the aseptic conditions
+- performed under aseptic conditions by trained personnel in accordance with good practice
 
 <div style=\"page-break-after: always\"></div>
+
+rules especially with respect to the aseptic preparation of parenteral products.
+
+- prepared in a laminar flow hood or biological safety cabinet using standard precautions for the safe handling of intravenous agents.
+- followed by adequate storage of the prepared solution for intravenous infusion to ensure maintenance of the aseptic conditions
 
 Herwenda should be carefully handled during reconstitution. Causing excessive foaming during reconstitution or shaking the reconstituted solution may result in problems with the amount of Herwenda that can be withdrawn from the vial.
 
 The reconstituted solution should not be frozen.
 
+## Herwenda 150 mg powder for concentrate for solution for infusion
+
 Each 150 mg vial of Herwenda is reconstituted with 7.2 mL of sterile water for injections (not supplied). Use of other reconstitution solvents should be avoided.
 
-This yields a 7.4 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab, at a pH of approximately 6.0. A volume overage of 4% ensures that the labelled dose of 150 mg can be withdrawn from each vial.
+This yields a 7.4 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab, at a pH of approximately 6.0. A volume overage of 6.5% ensures that the labelled dose of 150 mg can be withdrawn from each vial.
+
+## Herwenda 420 mg powder for concentrate for solution for infusion
+
+Each 420 mg vial of Herwenda is reconstituted with 20 mL of sterile water for injections (not supplied). Use of other reconstitution solvents should be avoided.
+
+This yields a 21 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab, at a pH of approximately 6.0. A volume overage of 6.7% ensures that the labelled dose of 420 mg can be withdrawn from each vial.
+
+| Herwenda vial   |    | Volume of sterile water for injections   |    | Final concentration   |
+|-----------------|----|------------------------------------------|----|-----------------------|
+| 150 mg vial     | +  | 7.2 mL                                   | =  | 21 mg/mL              |
+| 420 mg vial     | +  | 20 mL                                    | =  | 21 mg/mL              |
 
 ## Instructions for aseptic reconstitution
 
-- 1) Using a sterile syringe, slowly inject 7.2 mL of sterile water for injections in the vial containing the lyophilised Herwenda, directing the stream into the lyophilised cake.
+- 1) Using a sterile syringe, slowly inject the appropriate volume (as noted above) of sterile water for injections in the vial containing the lyophilised Herwenda, directing the stream into the lyophilised cake.
 - 2) Swirl the vial gently to aid reconstitution. DO NOT SHAKE.
 
 Slight foaming of the product upon reconstitution is not unusual. Allow the vial to stand undisturbed for approximately 5 minutes. The reconstituted Herwenda results in a colourless to pale yellow transparent solution and should be essentially free of visible particulates.
@@ -1076,11 +1095,19 @@ Determine the volume of the solution required:
 
 - based on a loading dose of 4 mg trastuzumab/kg body weight, or a subsequent weekly dose of 2 mg trastuzumab/kg body weight:
 
-Volume (mL) = Body weight (kg) x dose ( 4 mg/kg for loading or 2 mg/kg for maintenance) 21 (mg/mL, concentration of reconstituted solution)
+Volume (mL) = Body weight (kg) x dose ( 4 mg/kg for loading or 2 mg/kg for maintenance)
+
+21 (mg/mL, concentration of reconstituted solution)
 
 - based on a loading dose of 8 mg trastuzumab/kg body weight, or a subsequent 3-weekly dose of 6 mg trastuzumab/kg body weight:
 
-## Volume (mL) = Body weight (kg) x dose ( 8 mg/kg for loading or 6 mg/kg for maintenance) 21 (mg/mL, concentration of reconstituted solution)
+## Volume (mL) = Body weight (kg) x dose ( 8 mg/kg for loading or 6
+
+21
+
+mg/kg for maintenance) (mg/mL, concentration of reconstituted solution)
+
+<div style=\"page-break-after: always\"></div>
 
 The appropriate amount of solution should be withdrawn from the vial using a sterile needle and syringe and added to an infusion bag containing 250 mL of sodium chloride 9 mg/mL (0.9%) solution for injection. Do not use with glucose-containing solutions (see section 6.2). The bag should be gently inverted to mix the solution in order to avoid foaming.
 
@@ -1090,15 +1117,21 @@ No incompatibilities between Herwenda and polyvinylchloride, polyethylene or pol
 
 Herwenda is for single-use only, as the medicinal product contains no preservatives. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sandoz GmbH Biochemiestr. 10 6250 Kundl Austria
+Sandoz GmbH
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+Biochemiestr. 10
+
+6250 Kundl
+
+Austria
+
+## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/23/1762/001
+
+EU/1/23/1762/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1106,26 +1139,28 @@ Date of first authorisation: 15 November 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+32
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) of the biological active substance(s)
+Name and address of the manufacturer of the biological active substance
 
 EirGenix, Inc. Zhubei Facility No. 168, Sec. 1, Shengyi Rd., Zhubei City Hsinchu County, 30261 Taiwan, R.O.C.
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 Lek Pharmaceuticals d.d. Verovškova ulica 57 1526 Ljubljana Slovenia
 
@@ -1170,7 +1205,7 @@ CARTON
 
 Herwenda 150 mg powder for concentrate for solution for infusion trastuzumab
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 One vial of powder contains 150 mg trastuzumab.
 
@@ -1178,7 +1213,9 @@ After reconstitution 1 mL concentrate contains 21 mg of trastuzumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20 (E 432), α , α -trehalose dihydrate.
+L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20 (E 432), α,α-trehalose dihydrate.
+
+See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1186,11 +1223,9 @@ powder for concentrate
 
 1 vial
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-For intravenous use after reconstitution and dilution.
-
-Read the package leaflet before use.
+For intravenous use after reconstitution and dilution. Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1206,45 +1241,43 @@ EXP
 
 Store in a refrigerator.
 
-Keep the vial in the outer carton in order to protect from light.
-
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+Keep the vial in the outer carton in order to protect from light.
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Sandoz GmbH Biochemiestr. 10 6250 Kundl Austria
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+Sandoz GmbH
+
+Biochemiestr. 10
+
+6250 Kundl
+
+Austria
+
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/23/1762/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -1252,11 +1285,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
-VIAL LABEL
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 Herwenda 150 mg powder for concentrate trastuzumab
 
@@ -1276,19 +1307,159 @@ Lot
 
 ## 6. OTHER
 
+Additional information to appear on the fixed part of the label:
+
+PC
+
+Information to appear on peel-off part:
+
+Herwenda
+
+Lot
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Herwenda 420 mg powder for concentrate for solution for infusion trastuzumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+One vial of powder contains 420 mg trastuzumab.
+
+After reconstitution 1 mL concentrate contains 21 mg of trastuzumab.
+
+## 3. LIST OF EXCIPIENTS
+
+L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20 (E 432), α,α-trehalose dihydrate.
+
+See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+powder for concentrate
+
+1 vial
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+For intravenous use after reconstitution and dilution.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+<div style=\"page-break-after: always\"></div>
+
+Keep the vial in the outer carton in order to protect from light.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Sandoz GmbH Biochemiestr. 10 6250 Kundl Austria
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/23/1762/002
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+VIAL LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+
+Herwenda 420 mg powder for concentrate trastuzumab
+
+IV use after reconstitution and dilution
+
+## 2. METHOD OF ADMINISTRATION
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
+
+Additional information to appear on the fixed part of the label:
+
+PC
+
+Information to appear on peel-off part:
+
+Herwenda
+
+420 mg
+
+trastuzumab
+
+PC
+
+Lot
+
+EXP
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-## Package Leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
 
-## Herwenda 150 mg powder for concentrate for solution for infusion
+## Package Leaflet: Information for the user
+
+## Herwenda 150 mg powder for concentrate for solution for infusion Herwenda 420 mg powder for concentrate for solution for infusion
 
 trastuzumab
 
-▼ This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+▼This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1322,11 +1493,11 @@ Your doctor may prescribe Herwenda for the treatment of breast and gastric cance
 - you are allergic to trastuzumab, to murine (mouse) proteins, or to any of the other ingredients of this medicine (listed in section 6).
 - you have severe breathing problems at rest due to your cancer or if you need oxygen treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warnings and precautions
 
 Your doctor will closely supervise your therapy.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Heart checks
 
@@ -1351,13 +1522,11 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 
 It may take up to 7 months for Herwenda to be removed from the body. Therefore you should tell your doctor, pharmacist or nurse that you have had Herwenda if you start any new medicine in the 7 months after stopping treatment.
 
-## Pregnancy
+## Pregnancy and breast-feeding
 
 - If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before taking this medicine.
 - You should use effective contraception during treatment with Herwenda and for at least 7 months after treatment has ended.
 - Your doctor will advise you of the risks and benefits of taking Herwenda during pregnancy. In rare cases, a reduction in the amount of (amniotic) fluid that surrounds the developing baby within the womb has been observed in pregnant women receiving trastuzumab. This condition may be harmful to your baby in the womb and has been associated with the lungs not developing fully resulting in foetal death.
-
-## Breast-feeding
 
 Do not breast-feed your baby during Herwenda therapy and for 7 months after the last dose as Herwenda may pass to your baby through your breast milk.
 
@@ -1372,6 +1541,14 @@ Herwenda may affect your ability to drive a car or operate machines. If during t
 ## Herwenda contains sodium
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+
+## Herwenda contains polysorbate 20
+
+This medicine contains 0.606 mg of polysorbate 20 (E 432) in each 150 mg vial which is equivalent to 0.086 mg/mL (after reconstitution with 7.2 mL sterile water for injection).
+
+This medicine contains 1.696 mg of polysorbate 20 (E 432) in each 420 mg vial which is equivalent to 0.086 mg/mL (after reconstitution with 20 mL sterile water for injection).
+
+Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How Herwenda is given
 
@@ -1393,13 +1570,13 @@ It may take up to 7 months for Herwenda to be removed from your body. Therefore 
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these side effects may be serious and may lead to hospitalisation.
 
 During a Herwenda infusion, chills, fever and other flu like symptoms may occur. These are very common (may affect more than 1 in 10 people). Other infusion-related symptoms are: feeling sick (nausea), vomiting, pain, increased muscle tension and shaking, headache, dizziness, breathing difficulties, high or low blood pressure, heart rhythm disturbances (palpitations, heart fluttering or irregular heart beat), swelling of the face and lips, rash and feeling tired. Some of these symptoms can be serious and some patients have died (see section 2 under 'Warnings and precautions').
-
-<div style=\"page-break-after: always\"></div>
 
 These effects mainly occur with the first intravenous infusion ('drip' into your vein) and during the first few hours after the start of the infusion. They are usually temporary. You will be observed by a healthcare professional during the infusion and for at least six hours after the start of the first infusion and for two hours after the start of other infusions. If you develop a reaction, they will slow down or stop the infusion and may give you treatment to counteract the side effects. The infusion may be continued after the symptoms improve.
 
@@ -1428,6 +1605,9 @@ Very common (may affect more than 1 in 10 people):
 - chest pain
 - abdominal pain
 - joint pain
+
+<div style=\"page-break-after: always\"></div>
+
 - low counts of red blood cells and white blood cells (which help fight infection) sometimes with fever
 - muscle pain
 - conjunctivitis
@@ -1440,9 +1620,6 @@ Very common (may affect more than 1 in 10 people):
 - dizziness
 - nail disorders
 - weight loss
-
-<div style=\"page-break-after: always\"></div>
-
 - loss of appetite
 - inability to sleep (insomnia)
 - altered taste
@@ -1483,17 +1660,18 @@ Very common (may affect more than 1 in 10 people):
 - back pain
 - neck pain
 - bone pain
+
+<div style=\"page-break-after: always\"></div>
+
 - acne
 - leg cramps
 
-## Uncommon (may affect up to 1 in 100 people):
+Uncommon (may affect up to 1 in 100 people):
 
 - deafness
 - bumpy rash
 - wheezing
 - inflammation or scarring of the lungs
-
-<div style=\"page-break-after: always\"></div>
 
 Rare (may affect up to 1 in 1 000 people):
 
@@ -1536,13 +1714,13 @@ Do not use this medicine after the expiry date which is stated on the outer cart
 
 Store in a refrigerator (2 °C - 8 °C).
 
+<div style=\"page-break-after: always\"></div>
+
 Keep the vial in the outer carton in order to protect from light.
 
 Infusion solutions should be used immediately after dilution. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user, and would not normally be longer than 24 hours at 2 °C - 8 °C. Do not freeze the reconstituted solution.
 
 Do not use this medicine if you notice any particulate matter or discolouration prior to administration.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1550,16 +1728,23 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Herwenda contains
 
-- The active substance is trastuzumab. Each vial contains 150 mg trastuzumab that has to be dissolved in 7.2 mL of water for injections. The resulting solution contains approximately 21 mg/mL trastuzumab.
-- The other ingredient(s) are L-histidine hydrochloride monohydrate, Lhistidine, α,α -trehalose dihydrate, polysorbate 20 (E 432).
+- The active substance is trastuzumab. Each vial contains either:
+- 150 mg trastuzumab that has to be dissolved in 7.2 mL of water for injections, or
+- 420 mg trastuzumab that has to be dissolved in 20 mL of water for injections.
+
+The resulting solution contains approximately 21 mg/mL trastuzumab.
+
+- The other ingredient(s) are L-histidine hydrochloride monohydrate, L-histidine, α,α-trehalose dihydrate, polysorbate 20 (E 432) (see section 2 'Herwenda contains polysorbate 20').
 
 ## What Herwenda looks like and contents of the pack
 
-Herwenda is a powder for concentrate for solution for infusion, which is supplied in a glass vial with a rubber stopper containing 150 mg of trastuzumab. The powder is a white to pale yellow pellet. Each carton contains 1 vial of powder.
+Herwenda is a powder for concentrate for solution for infusion, which is supplied in a glass vial with a rubber stopper containing either 150 mg or 420 mg of trastuzumab. The powder is a white to pale yellow pellet. Each carton contains 1 vial of powder.
 
 ## Marketing Authorisation Holder
 
-Sandoz GmbH Biochemiestr. 10 6250 Kundl Austria
+Sandoz GmbH Biochemiestr. 10 6250 Kundl
+
+Austria
 
 ## Manufacturer
 
@@ -1599,13 +1784,15 @@ Tel: +420 234 142 222
 
 ## Luxembourg/Luxemburg
 
-Sandoz nv/sa (Belgique/Belgien) Tél/Tel: +32 2 722 97 97
+Sandoz nv/sa (Belgique/Belgien)
+
+Tél/Tel: +32 2 722 97 97
 
 ## Danmark/Norge/Ísland/Sverige
 
 Sandoz A/S
 
-Tlf/Sími/Tel: +45 63 95 10 00
+Tlf./Tlf/Sími/Tel: +45 63 95 10 00
 
 ## Magyarország
 
@@ -1639,7 +1826,7 @@ Tel: +31 36 52 41 600
 
 ## Ελλάδα
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
 
 Τηλ: +30 216 600 5000
 
@@ -1689,13 +1876,13 @@ Tel: +40 21 407 51 60
 
 Rowex Ltd.
 
-Tel: + 353 27 50077
+Tel: 1 800 83 20 83
 
 ## Slovenija
 
 Sandoz farmacevtska družba d.d.
 
-Tel: +386 1 580 29 02
+Tel: +386 1 580 21 11
 
 ## Italia
 
@@ -1711,9 +1898,9 @@ Tel: +421 2 48 200 600
 
 ## Κύπρος
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
 
-( Ελλάδα )
+(Ελλάδα)
 
 Τηλ: +30 216 600 5000
 
@@ -1727,9 +1914,9 @@ Puh/Tel: +358 10 6133 400
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
+---------------------------------------------------------------------------------------------------------------
 
 ## The following information is intended for healthcare professionals only:
 
@@ -1739,11 +1926,13 @@ In order to prevent medication errors it is important to check the vial labels t
 
 Always keep this medicine in the closed original pack at a temperature of 2 ºC - 8 ºC in a refrigerator.
 
+<div style=\"page-break-after: always\"></div>
+
 Appropriate aseptic technique should be used for reconstitution and dilution procedures. Care must be taken to ensure the sterility of prepared solutions. Since the medicinal product does not contain any anti-microbial preservative or bacteriostatic agents, aseptic technique must be observed.
 
-A vial of Herwenda aseptically reconstituted with sterile water for injections (not supplied) is chemically and physically stable for 7 days at 2 °C - 8 °C after reconstitution and must not be frozen.
+A vial of Herwenda aseptically reconstituted with sterile water for injections (not supplied) is chemically and physically stable for 10 days at 2 °C - 8 °C after reconstitution and must not be frozen.
 
-After aseptic dilution in polyvinylchloride, polyethylene or polypropylene bags containing sodium chloride 9 mg/mL (0.9%) solution for injection, chemical and physical stability of Herwenda has been demonstrated for up to 33 days at 2 °C - 8 °C, and subsequently for 48 hours at temperatures not exceeding 30 °C.
+After aseptic dilution in polyvinylchloride, polyethylene or polypropylene bags containing sodium chloride 9 mg/mL (0.9%) solution for injection, chemical and physical stability of Herwenda has been demonstrated for up to 90 days at 2 °C - 8 °C, and subsequently for 48 hours at temperatures not exceeding 30 °C.
 
 From a microbiological point of view, the reconstituted solution and Herwenda infusion solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would not normally be longer than 24 hours at 2 °C - 8 °C, unless reconstitution and dilution have taken place under controlled and validated aseptic conditions.
 
@@ -1755,13 +1944,24 @@ Aseptic handling must be ensured when preparing the infusion. Preparation should
 - -prepared in a laminar flow hood or biological safety cabinet using standard precautions for the safe handling of intravenous agents.
 - -followed by adequate storage of the prepared solution for intravenous infusion to ensure maintenance of the aseptic conditions
 
-Each vial of Herwenda is reconstituted with 7.2 mL of sterile water for injections (not supplied). Use of other reconstitution solvents should be avoided. This yields a 7.4 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab. A volume overage of 4% ensures that the labelled dose of 150 mg can be withdrawn from each vial.
+## Herwenda 150 mg powder for concentrate for solution for infusion
+
+Each 150 mg vial of Herwenda is reconstituted with 7.2 mL of sterile water for injections (not supplied). Use of other reconstitution solvents should be avoided. This yields a 7.4 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab. A volume overage of 6.5% ensures that the labelled dose of 150 mg can be withdrawn from each vial.
+
+## Herwenda 420 mg powder for concentrate for solution for infusion
+
+Each 420 mg vial of Herwenda is reconstituted with 20 mL of sterile water for injections (not supplied). Use of other reconstitution solvents should be avoided. This yields a 21 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab. A volume overage of 6.7% ensures that the labelled dose of 420 mg can be withdrawn from each vial.
+
+| Herwenda vial   |    | Volume of sterile water for injections   |    | Final concentration   |
+|-----------------|----|------------------------------------------|----|-----------------------|
+| 150 mg vial     | +  | 7.2 mL                                   | =  | 21 mg/mL              |
+| 420 mg vial     | +  | 20 mL                                    | =  | 21 mg/mL              |
 
 ## Instructions for aseptic reconstitution
 
 Herwenda should be carefully handled during reconstitution. Causing excessive foaming during reconstitution or shaking the reconstituted solution may result in problems with the amount of Herwenda that can be withdrawn from the vial.
 
-- 1) Using a sterile syringe, slowly inject 7.2 mL of water for injections in the vial containing the lyophilised Herwenda, directing the stream into the lyophilised cake.
+- 1) Using a sterile syringe, slowly inject the appropriate volume (as noted above) of sterile water for injections in the vial containing the lyophilised Herwenda, directing the stream into the lyophilised cake.
 - 2) Swirl the vial gently to aid reconstitution. DO NOT SHAKE.
 
 Slight foaming of the product upon reconstitution is not unusual. Allow the vial to stand undisturbed for approximately 5 minutes. The reconstituted Herwenda results in a colourless to pale yellow transparent solution and should be essentially free of visible particulates.

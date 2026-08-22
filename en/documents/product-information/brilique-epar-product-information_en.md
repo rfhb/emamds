@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-01 12:02:33
+document_datetime: 2026-08-18 15:30:24
 document_pages: 110
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/brilique-epar-product-information_en.pdf
 document_name: brilique-epar-product-information_en.pdf
 version: success
-processing_time: 35.1829731
-conversion_datetime: 2026-04-05 12:24:17.298612
+processing_time: 33.1449623
+conversion_datetime: 2026-08-23 00:26:34.154122
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -299,7 +299,7 @@ In PLATO, patients on ticagrelor had a higher incidence of discontinuation due t
 
 The following adverse reactions have been identified following studies or have been reported in post-marketing experience with ticagrelor (Table 1).
 
-Adverse reactions are listed by MedDRA System Organ Class (SOC). Within each SOC the adverse reactions are ranked by frequency category. Frequency categories are defined according to the following conventions: Very common (≥1/10), c ommon (≥1/100 to &lt; 1/10), uncommon (≥1/1,000 to &lt; 1/100), r are (≥1/10,000 to &lt; 1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+Adverse reactions are listed by MedDRA System Organ Class (SOC). Within each SOC the adverse reactions are ranked by frequency category. Frequency categories are defined according to the following conventions: Very common (≥1/10), common (≥1/100 to  1/10), uncommon (≥1/1,000 to  1/100), rare (≥1/10,000 to  1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Table 1 - Adverse reactions by frequency and system organ class (SOC)
 
@@ -335,13 +335,13 @@ e e.g. conjunctival, retinal, intraocular bleeding
 
 f e.g. epistaxis, haemoptysis
 
-g e.g. gingival bleeding, rectal haemorrhage, gastric ulcer haemorrhage
+g  e.g. gingival bleeding, rectal haemorrhage, gastric ulcer haemorrhage
 
 h  e.g. ecchymosis, skin haemorrhage, petechiae
 
 i  e.g. haemarthrosis, muscle haemorrhage
 
-j e.g. haematuria, cystitis haemorrhagic
+j  e.g. haematuria, cystitis haemorrhagic
 
 k  e.g. vaginal haemorrhage, haematospermia, postmenopausal haemorrhage
 
@@ -366,7 +366,7 @@ Table 2 - Analysis of overall bleeding events, Kaplan-Meier estimates at 12 mont
 | Non-CABG PLATO Major               |                                   4.5 |                  3.8 | 0.0264      |
 | Non-Procedural PLATO Major         |                                   3.1 |                  2.3 | 0.0058      |
 | PLATO Total Major + Minor          |                                  16.1 |                 14.6 | 0.0084      |
-| Non-Procedural PLATO Major + Minor |                                   5.9 |                  4.3 | < 0.0001    |
+| Non-Procedural PLATO Major + Minor |                                   5.9 |                  4.3 |  0.0001    |
 | TIMI-defined Major                 |                                   7.9 |                  7.7 | 0.5669      |
 | TIMI-defined Major + Minor         |                                  11.4 |                 10.9 | 0.3272      |
 
@@ -424,7 +424,7 @@ Table 3 - Analysis of overall bleeding events, Kaplan-Meier estimates at 36 mont
 | Other PLATO Major                                  | 1.1                                         | 3.37 (1.95, 5.83)                           | 0.3                               | <0.0001                           |
 | PLATO Major or Minor                               | 15.2                                        | 2.71 (2.40, 3.08)                           | 6.2                               | <0.0001                           |
 
-## Bleeding category definitions:
+Bleeding category definitions:
 
 TIMI Major: Fatal bleeding, OR any intracranial bleeding, OR clinically overt signs of haemorrhage associated with a drop in haemoglobin (Hgb) of ≥50 g/L, or when Hgb is not available, a fall in haematocrit (Hct) of 15%.
 
@@ -436,9 +436,7 @@ ICH:
 
 Intracranial haemorrhage.
 
-Other TIMI Major:
-
-Non-fatal non-ICH TIMI Major bleeding.
+Other TIMI Major: Non-fatal non-ICH TIMI Major bleeding.
 
 TIMI Minor: Clinically apparent with 30-50 g/L decrease in haemoglobin.
 
@@ -466,11 +464,9 @@ Dyspnoea, a sensation of breathlessness, is reported by patients treated with ti
 
 Compared with clopidogrel, patients with asthma/COPD treated with ticagrelor may have an increased risk of experiencing non-serious dyspnoea (3.29% ticagrelor versus 0.53% clopidogrel) and serious dyspnoea (0.38% ticagrelor versus 0.00% clopidogrel). In absolute terms, this risk was higher than in the overall PLATO population. Ticagrelor should be used with caution in patients with history of asthma and/or COPD (see section 4.4).
 
-About 30% of episodes resolved within 7 days. PLATO included patients with baseline congestive heart failure, COPD or asthma; these patients, and the elderly, were more likely to report dyspnoea. For ticagrelor, 0.9% of patients discontinued study drug because of dyspnoea compared with 0.1% taking clopidogrel. The higher incidence of dyspnoea with ticagrelor is not associated with new
+About 30% of episodes resolved within 7 days. PLATO included patients with baseline congestive heart failure, COPD or asthma; these patients, and the elderly, were more likely to report dyspnoea. For ticagrelor, 0.9% of patients discontinued study drug because of dyspnoea compared with 0.1% taking clopidogrel. The higher incidence of dyspnoea with ticagrelor is not associated with new or worsening heart or lung disease (see section 4.4). Ticagrelor does not affect tests of pulmonary function.
 
 <div style=\"page-break-after: always\"></div>
-
-or worsening heart or lung disease (see section 4.4). Ticagrelor does not affect tests of pulmonary function.
 
 In PEGASUS, dyspnoea was reported in 14.2% of patients taking ticagrelor 60 mg twice daily and in 5.5% of patients taking ASA alone. As in PLATO, most reported dyspnoea was mild to moderate in intensity (see section 4.4). Patients who reported dyspnoea tended to be older and more frequently had dyspnoea, COPD or asthma at baseline.
 
@@ -498,11 +494,9 @@ Pharmacotherapeutic group: Platelet aggregation inhibitors excluding heparin, AT
 
 ## Mechanism of action
 
-Brilique contains ticagrelor, a member of the chemical class cyclopentyltriazolopyrimidines (CPTP), which is an oral, direct acting, selective and reversibly binding P2Y12 receptor antagonist that prevents ADP-mediated P2Y12 dependent platelet activation and aggregation. Ticagrelor does not prevent ADP binding but when bound to the P2Y12 receptor prevents ADP-induced signal transduction. Since platelets participate in the initiation and/or evolution of thrombotic complications of atherosclerotic
+Brilique contains ticagrelor, a member of the chemical class cyclopentyltriazolopyrimidines (CPTP), which is an oral, direct acting, selective and reversibly binding P2Y12 receptor antagonist that prevents ADP-mediated P2Y12 dependent platelet activation and aggregation. Ticagrelor does not prevent ADP binding but when bound to the P2Y12 receptor prevents ADP-induced signal transduction. Since platelets participate in the initiation and/or evolution of thrombotic complications of atherosclerotic disease, inhibition of platelet function has been shown to reduce the risk of CV events such as death, MI or stroke.
 
 <div style=\"page-break-after: always\"></div>
-
-disease, inhibition of platelet function has been shown to reduce the risk of CV events such as death, MI or stroke.
 
 Ticagrelor also increases local endogenous adenosine levels by inhibiting the equilibrative nucleoside transporter-1 (ENT-1).
 
@@ -562,7 +556,7 @@ Table 4 - Analysis of primary and secondary efficacy endpoints (PLATO)
 |                                                         |   Ticagrelor 90 mg twice daily (% patients with event) N=9333 |   Clopidogrel 75 mg once daily (% patients with event) N=9291 |   ARR a (%/yr) | RRR a (%) (95% CI)   | p- value   |
 |---------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|----------------|----------------------|------------|
 | CV death, MI (excl. silent MI) or stroke                |                                                           9.3 |                                                          10.9 |            1.9 | 16 (8, 23)           | 0.0003     |
-| Invasive intent                                         |                                                           8.5 |                                                          10   |            1.7 | 16 (6, 25)           | 0.0025     |
+| Invasive intent                                         |                                                           8.5 |                                                          10.0 |            1.7 | 16 (6, 25)           | 0.0025     |
 | Medical intent                                          |                                                          11.3 |                                                          13.2 |            2.3 | 15 (0.3, 27)         | 0.0444 d   |
 | CV death                                                |                                                           3.8 |                                                           4.8 |            1.1 | 21 (9, 31)           | 0.0013     |
 | MI (excl. silent MI) b                                  |                                                           5.4 |                                                           6.4 |            1.1 | 16 (5, 25)           | 0.0045     |
@@ -602,6 +596,8 @@ Clinical efficacy
 
 Figure 2 - Analysis of primary clinical composite endpoint of CV death, MI and stroke (PEGASUS)
 
+11
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
@@ -610,7 +606,7 @@ Table 5 - Analysis of primary and secondary efficacy endpoints (PEGASUS)
 
 |                                 | Ticagrelor 60 mg twice daily +ASA N = 7045   | Ticagrelor 60 mg twice daily +ASA N = 7045   | Ticagrelor 60 mg twice daily +ASA N = 7045   | ASA alone N = 7067   | ASA alone N = 7067   | p -value           |
 |---------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------|----------------------|--------------------|
-| Characteristic                  | Patients with events                         | KM%                                          | HR (95% CI)                                  | Patients with events | KM%                  | p -value           |
+| Characteristic                  | Patients with events                         | KM %                                         | HR (95% CI)                                  | Patients with events | KM %                 | p -value           |
 | Primary endpoint                | Primary endpoint                             | Primary endpoint                             | Primary endpoint                             | Primary endpoint     | Primary endpoint     | Primary endpoint   |
 | Composite of CV Death/MI/Stroke | 487 (6.9%)                                   | 7.8%                                         | 0.84 (0.74, 0.95)                            | 578 (8.2%)           | 9.0%                 | 0.0043 (s)         |
 | CV death                        | 174 (2.5%)                                   | 2.9%                                         | 0.83 (0.68, 1.01)                            | 210 (3.0%)           | 3.4%                 | 0.0676             |
@@ -708,11 +704,9 @@ In patients with end stage renal disease on haemodialysis AUC and Cmax of ticagr
 
 ## Hepatic impairment
 
-Cmax and AUC for ticagrelor were 12% and 23% higher in patients with mild hepatic impairment compared to matched healthy subjects, respectively, however, the IPA effect of ticagrelor was similar between the two groups. No dose adjustment is needed for patients with mild hepatic impairment. Ticagrelor has not been studied in patients with severe hepatic impairment and there is no pharmacokinetic information in patients with moderate hepatic impairment. In patients that had
+Cmax and AUC for ticagrelor were 12% and 23% higher in patients with mild hepatic impairment compared to matched healthy subjects, respectively, however, the IPA effect of ticagrelor was similar between the two groups. No dose adjustment is needed for patients with mild hepatic impairment. Ticagrelor has not been studied in patients with severe hepatic impairment and there is no pharmacokinetic information in patients with moderate hepatic impairment. In patients that had moderate or severe elevation in one or more liver function tests at baseline, ticagrelor plasma concentrations were on average similar or slightly higher as compared to those without baseline elevations. No dose adjustment is recommended in patients with moderate hepatic impairment (see sections 4.2 and 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-moderate or severe elevation in one or more liver function tests at baseline, ticagrelor plasma concentrations were on average similar or slightly higher as compared to those without baseline elevations. No dose adjustment is recommended in patients with moderate hepatic impairment (see sections 4.2 and 4.4).
 
 ## Ethnicity
 
@@ -756,18 +750,27 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-- PVC-PVDC/Al transparent blister (with sun/moon symbols) of 10 tablets; cartons of 60 tablets (6 blisters) and 180 tablets (18 blisters).
+·
+
+PVC-PVDC/Al transparent blister (with sun/moon symbols) of 10 tablets; cartons of 60 tablets
+
+(6 blisters) and 180 tablets (18 blisters).
+
 - PVC-PVDC/Al transparent calendar blister (with sun/moon symbols) of 14 tablets; cartons of 14 tablets (1 blister), 56 tablets (4 blisters) and 168 tablets (12 blisters).
 
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB SE-151 85 Södertälje Sweden
+SE-151 85 Södertälje
+
+AstraZeneca AB Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1064,7 +1067,7 @@ In PLATO, patients on ticagrelor had a higher incidence of discontinuation due t
 
 The following adverse reactions have been identified following studies or have been reported in post-marketing experience with ticagrelor (Table 1).
 
-Adverse reactions are listed by MedDRA System Organ Class (SOC). Within each SOC the adverse reactions are ranked by frequency category. Frequency categories are defined according to the following conventions: Very common (≥1/10), c ommon (≥1/100 to &lt; 1/10), uncommon (≥1/1,000 to &lt; 1/100), r are (≥1/10,000 to &lt; 1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+Adverse reactions are listed by MedDRA System Organ Class (SOC). Within each SOC the adverse reactions are ranked by frequency category. Frequency categories are defined according to the following conventions: Very common (≥1/10), common (≥1/100 to  1/10), uncommon (≥1/1,000 to  1/100), rare (≥1/10,000 to  1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Table 1 - Adverse reactions by frequency and system organ class (SOC)
 
@@ -1098,13 +1101,13 @@ Table 1 - Adverse reactions by frequency and system organ class (SOC)
 
 f e.g. epistaxis, haemoptysis
 
-g e.g. gingival bleeding, rectal haemorrhage, gastric ulcer haemorrhage
+g  e.g. gingival bleeding, rectal haemorrhage, gastric ulcer haemorrhage
 
 h  e.g. ecchymosis, skin haemorrhage, petechiae
 
 i  e.g. haemarthrosis, muscle haemorrhage
 
-j e.g. haematuria, cystitis haemorrhagic
+j  e.g. haematuria, cystitis haemorrhagic
 
 k  e.g. vaginal haemorrhage, haematospermia, postmenopausal haemorrhage
 
@@ -1129,7 +1132,7 @@ Table 2 - Analysis of overall bleeding events, Kaplan-Meier estimates at 12 mont
 | Non-CABG PLATO Major               |                                   4.5 |                  3.8 | 0.0264      |
 | Non-Procedural PLATO Major         |                                   3.1 |                  2.3 | 0.0058      |
 | PLATO Total Major + Minor          |                                  16.1 |                 14.6 | 0.0084      |
-| Non-Procedural PLATO Major + Minor |                                   5.9 |                  4.3 | < 0.0001    |
+| Non-Procedural PLATO Major + Minor |                                   5.9 |                  4.3 |  0.0001    |
 | TIMI-defined Major                 |                                   7.9 |                  7.7 | 0.5669      |
 | TIMI-defined Major + Minor         |                                  11.4 |                 10.9 | 0.3272      |
 
@@ -1187,7 +1190,7 @@ Table 3 - Analysis of overall bleeding events, Kaplan-Meier estimates at 36 mont
 | Other PLATO Major                                  | 1.1                                         | 3.37 (1.95, 5.83)                           | 0.3                               | <0.0001                           |
 | PLATO Major or Minor                               | 15.2                                        | 2.71 (2.40, 3.08)                           | 6.2                               | <0.0001                           |
 
-## Bleeding category definitions:
+Bleeding category definitions:
 
 TIMI Major: Fatal bleeding, OR any intracranial bleeding, OR clinically overt signs of haemorrhage associated with a drop in haemoglobin (Hgb) of ≥50 g/L, or when Hgb is not available, a fall in haematocrit (Hct) of 15%.
 
@@ -1227,11 +1230,9 @@ Dyspnoea, a sensation of breathlessness, is reported by patients treated with ti
 
 Compared with clopidogrel, patients with asthma/COPD treated with ticagrelor may have an increased risk of experiencing non-serious dyspnoea (3.29% ticagrelor versus 0.53% clopidogrel) and serious dyspnoea (0.38% ticagrelor versus 0.00% clopidogrel). In absolute terms, this risk was higher than in the overall PLATO population. Ticagrelor should be used with caution in patients with history of asthma and/or COPD (see section 4.4).
 
-About 30% of episodes resolved within 7 days. PLATO included patients with baseline congestive heart failure, COPD or asthma; these patients, and the elderly, were more likely to report dyspnoea. For ticagrelor, 0.9% of patients discontinued study drug because of dyspnoea compared with 0.1% taking clopidogrel. The higher incidence of dyspnoea with ticagrelor is not associated with new
+About 30% of episodes resolved within 7 days. PLATO included patients with baseline congestive heart failure, COPD or asthma; these patients, and the elderly, were more likely to report dyspnoea. For ticagrelor, 0.9% of patients discontinued study drug because of dyspnoea compared with 0.1% taking clopidogrel. The higher incidence of dyspnoea with ticagrelor is not associated with new or worsening heart or lung disease (see section 4.4). Ticagrelor does not affect tests of pulmonary function.
 
 <div style=\"page-break-after: always\"></div>
-
-or worsening heart or lung disease (see section 4.4). Ticagrelor does not affect tests of pulmonary function.
 
 In PEGASUS, dyspnoea was reported in 14.2% of patients taking ticagrelor 60 mg twice daily and in 5.5% of patients taking ASA alone. As in PLATO, most reported dyspnoea was mild to moderate in intensity (see section 4.4). Patients who reported dyspnoea tended to be older and more frequently had dyspnoea, COPD or asthma at baseline.
 
@@ -1259,11 +1260,9 @@ Pharmacotherapeutic group: Platelet aggregation inhibitors excluding heparin, AT
 
 ## Mechanism of action
 
-Brilique contains ticagrelor, a member of the chemical class cyclopentyltriazolopyrimidines (CPTP), which is an oral, direct acting, selective and reversibly binding P2Y12 receptor antagonist that prevents ADP-mediated P2Y12 dependent platelet activation and aggregation. Ticagrelor does not prevent ADP binding but when bound to the P2Y12 receptor prevents ADP-induced signal transduction. Since platelets participate in the initiation and/or evolution of thrombotic complications of atherosclerotic
+Brilique contains ticagrelor, a member of the chemical class cyclopentyltriazolopyrimidines (CPTP), which is an oral, direct acting, selective and reversibly binding P2Y12 receptor antagonist that prevents ADP-mediated P2Y12 dependent platelet activation and aggregation. Ticagrelor does not prevent ADP binding but when bound to the P2Y12 receptor prevents ADP-induced signal transduction. Since platelets participate in the initiation and/or evolution of thrombotic complications of atherosclerotic disease, inhibition of platelet function has been shown to reduce the risk of CV events such as death, MI or stroke.
 
 <div style=\"page-break-after: always\"></div>
-
-disease, inhibition of platelet function has been shown to reduce the risk of CV events such as death, MI or stroke.
 
 Ticagrelor also increases local endogenous adenosine levels by inhibiting the equilibrative nucleoside transporter-1 (ENT-1).
 
@@ -1314,18 +1313,16 @@ Figure 1 - Analysis of primary clinical composite endpoint of CV death, MI and s
 
 <!-- image -->
 
-Ticagrelor reduced the occurrence of the primary composite endpoint compared to clopidogrel in both the UA/NSTEMI and STEMI population (Table 4). Thus, Brilique 90 mg twice daily together with low-dose ASA can be used in patients with ACS (unstable angina, non-ST elevation Myocardial Infarction [NSTEMI] or ST elevation Myocardial Infarction [STEMI]); including patients managed
+Ticagrelor reduced the occurrence of the primary composite endpoint compared to clopidogrel in both the UA/NSTEMI and STEMI population (Table 4). Thus, Brilique 90 mg twice daily together with low-dose ASA can be used in patients with ACS (unstable angina, non-ST elevation Myocardial Infarction [NSTEMI] or ST elevation Myocardial Infarction [STEMI]); including patients managed medically, and those who are managed with percutaneous coronary intervention (PCI) or coronary artery by-pass grafting (CABG).
 
 <div style=\"page-break-after: always\"></div>
-
-medically, and those who are managed with percutaneous coronary intervention (PCI) or coronary artery by-pass grafting (CABG).
 
 Table 4 - Analysis of primary and secondary efficacy endpoints (PLATO)
 
 |                                                         |   Ticagrelor 90 mg twice daily (% patients with event) N=9333 |   Clopidogrel 75 mg once daily (% patients with event) N=9291 |   ARR a (%/yr) | RRR a (%) (95% CI)   | p- value   |
 |---------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|----------------|----------------------|------------|
 | CV death, MI (excl. silent MI) or stroke                |                                                           9.3 |                                                          10.9 |            1.9 | 16 (8, 23)           | 0.0003     |
-| Invasive intent                                         |                                                           8.5 |                                                          10   |            1.7 | 16 (6, 25)           | 0.0025     |
+| Invasive intent                                         |                                                           8.5 |                                                          10.0 |            1.7 | 16 (6, 25)           | 0.0025     |
 | Medical intent                                          |                                                          11.3 |                                                          13.2 |            2.3 | 15 (0.3, 27)         | 0.0444 d   |
 | CV death                                                |                                                           3.8 |                                                           4.8 |            1.1 | 21 (9, 31)           | 0.0013     |
 | MI (excl. Silent MI) b                                  |                                                           5.4 |                                                           6.4 |            1.1 | 16 (5, 25)           | 0.0045     |
@@ -1347,11 +1344,9 @@ A combined efficacy and safety composite (CV death, MI, stroke or PLATO-defined 
 
 ## Holter substudy:
 
-To study the occurrence of ventricular pauses and other arrhythmic episodes during PLATO, investigators performed Holter monitoring in a subset of nearly 3000 patients, of whom approximately 2000 had recordings both in the acute phase of their ACS and after one month. The primary variable of interest was the occurrence of ventricular pauses ≥3 seconds. More patients had
+To study the occurrence of ventricular pauses and other arrhythmic episodes during PLATO, investigators performed Holter monitoring in a subset of nearly 3000 patients, of whom approximately 2000 had recordings both in the acute phase of their ACS and after one month. The primary variable of interest was the occurrence of ventricular pauses ≥3 seconds. More patients had ventricular pauses with ticagrelor (6.0%) than with clopidogrel (3.5%) in the acute phase; and 2.2% and 1.6%, respectively, after 1 month (see section 4.4). The increase in ventricular pauses in the acute phase of ACS was more pronounced in ticagrelor patients with history of CHF (9.2% versus 5.4% in patients without CHF history; for clopidogrel patients, 4.0% in those with versus 3.6% in those without CHF history). This imbalance did not occur at one month: 2.0% versus 2.1% for ticagrelor patients with and without CHF history, respectively; and 3.8% versus 1.4% with clopidogrel. There were no adverse clinical consequences associated with this imbalance (including pacemaker insertions) in this population of patients.
 
 <div style=\"page-break-after: always\"></div>
-
-ventricular pauses with ticagrelor (6.0%) than with clopidogrel (3.5%) in the acute phase; and 2.2% and 1.6%, respectively, after 1 month (see section 4.4). The increase in ventricular pauses in the acute phase of ACS was more pronounced in ticagrelor patients with history of CHF (9.2% versus 5.4% in patients without CHF history; for clopidogrel patients, 4.0% in those with versus 3.6% in those without CHF history). This imbalance did not occur at one month: 2.0% versus 2.1% for ticagrelor patients with and without CHF history, respectively; and 3.8% versus 1.4% with clopidogrel. There were no adverse clinical consequences associated with this imbalance (including pacemaker insertions) in this population of patients.
 
 ## PEGASUS study (History of Myocardial Infarction)
 
@@ -1365,24 +1360,26 @@ Patients were ineligible if there was planned use of a P2Y12 receptor antagonist
 
 Figure 2 - Analysis of primary clinical composite endpoint of CV death, MI and stroke (PEGASUS)
 
+11
+
 <!-- image -->
 
 Table 5 - Analysis of primary and secondary efficacy endpoints (PEGASUS)
 
-|                                 | Ticagrelor 60 mg twice daily +ASA N = 7045   | Ticagrelor 60 mg twice daily +ASA N = 7045   | Ticagrelor 60 mg twice daily +ASA N = 7045   | ASA alone N = 7067   | ASA alone N = 7067   |                  |
-|---------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------|----------------------|------------------|
-| Characteristic                  | Patients with events                         | KM%                                          | HR (95% CI)                                  | Patients with events | KM%                  | p -value         |
-| Primary endpoint                | Primary endpoint                             | Primary endpoint                             | Primary endpoint                             | Primary endpoint     | Primary endpoint     | Primary endpoint |
-| Composite of CV Death/MI/Stroke | 487 (6.9%)                                   | 7.8%                                         | 0.84 (0.74, 0.95)                            | 578 (8.2%)           | 9.0%                 | 0.0043 (s)       |
-| CV death                        | 174 (2.5%)                                   | 2.9%                                         | 0.83 (0.68, 1.01)                            | 210 (3.0%)           | 3.4%                 | 0.0676           |
-| MI                              | 285 (4.0%)                                   | 4.5%                                         | 0.84 (0.72, 0.98)                            | 338 (4.8%)           | 5.2%                 | 0.0314           |
-| Stroke                          | 91 (1.3%)                                    | 1.5%                                         | 0.75 (0.57, 0.98)                            | 122 (1.7%)           | 1.9%                 | 0.0337           |
+|                                 | Ticagrelor 60 mg twice daily +ASA N = 7045   | Ticagrelor 60 mg twice daily +ASA N = 7045   | Ticagrelor 60 mg twice daily +ASA N = 7045   | ASA alone N = 7067   | ASA alone N = 7067   |            |
+|---------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------|----------------------|------------|
+| Characteristic                  | Patients with events                         | KM %                                         | HR (95% CI)                                  | Patients with events | KM %                 | p -value   |
+| Primary endpoint                |                                              |                                              |                                              |                      |                      |            |
+| Composite of CV Death/MI/Stroke | 487 (6.9%)                                   | 7.8%                                         | 0.84 (0.74, 0.95)                            | 578 (8.2%)           | 9.0%                 | 0.0043 (s) |
+| CV death                        | 174 (2.5%)                                   | 2.9%                                         | 0.83 (0.68, 1.01)                            | 210 (3.0%)           | 3.4%                 | 0.0676     |
+| MI                              | 285 (4.0%)                                   | 4.5%                                         | 0.84 (0.72, 0.98)                            | 338 (4.8%)           | 5.2%                 | 0.0314     |
+| Stroke                          | 91 (1.3%)                                    | 1.5%                                         | 0.75 (0.57, 0.98)                            | 122 (1.7%)           | 1.9%                 | 0.0337     |
 
 <div style=\"page-break-after: always\"></div>
 
 |                     | Ticagrelor 60 mg twice daily +ASA N = 7045   | Ticagrelor 60 mg twice daily +ASA N = 7045   | Ticagrelor 60 mg twice daily +ASA N = 7045   | ASA alone N = 7067   | ASA alone N = 7067   |                    |
 |---------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------|----------------------|--------------------|
-| Characteristic      | Patients with events                         | KM%                                          | HR (95% CI)                                  | Patients with events | KM%                  | p -value           |
+| Characteristic      | Patients with events                         | KM %                                         | HR (95% CI)                                  | Patients with events | KM %                 | p -value           |
 | Secondary endpoint  | Secondary endpoint                           | Secondary endpoint                           | Secondary endpoint                           | Secondary endpoint   | Secondary endpoint   | Secondary endpoint |
 | CV death            | 174 (2.5%)                                   | 2.9%                                         | 0.83 (0.68, 1.01)                            | 210 (3.0%)           | 3.4%                 | -                  |
 | All-cause mortality | 289 (4.1%)                                   | 4.7%                                         | 0.89 (0.76, 1.04)                            | 326 (4.6%)           | 5.2%                 | -                  |
@@ -1415,11 +1412,9 @@ The rate of discontinuations with ticagrelor 60 mg due to bleeding and dyspnoea 
 
 ## Paediatric population
 
-In a randomised, double-blind, parallel-group Phase III study (HESTIA 3), 193 paediatric patients (ages 2 to less than 18 years) with sickle cell disease were randomised to receive either placebo or
+In a randomised, double-blind, parallel-group Phase III study (HESTIA 3), 193 paediatric patients (ages 2 to less than 18 years) with sickle cell disease were randomised to receive either placebo or ticagrelor at doses of 15 mg to 45 mg twice daily depending on body weight. Ticagrelor resulted in a median platelet inhibition of 35% at pre-dose and 56% at 2 hours post-dose at steady state.
 
 <div style=\"page-break-after: always\"></div>
-
-ticagrelor at doses of 15 mg to 45 mg twice daily depending on body weight. Ticagrelor resulted in a median platelet inhibition of 35% at pre-dose and 56% at 2 hours post-dose at steady state.
 
 Compared to placebo, there was no treatment benefit of ticagrelor on the rate of vaso-occlusive crises.
 
@@ -1531,7 +1526,9 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1673,11 +1670,9 @@ Use of ticagrelor is contraindicated in patients with severe hepatic impairment 
 
 ## Patients at risk for bradycardic events
 
-Holter ECG monitoring has shown an increased frequency of mostly asymptomatic ventricular pauses during treatment with ticagrelor compared with clopidogrel. Patients with an increased risk of bradycardic events (e.g. patients without a pacemaker who have sick sinus syndrome, 2 nd or 3 rd degree AV block or bradycardic-related syncope) have been excluded from the main studies evaluating the
+Holter ECG monitoring has shown an increased frequency of mostly asymptomatic ventricular pauses during treatment with ticagrelor compared with clopidogrel. Patients with an increased risk of bradycardic events (e.g. patients without a pacemaker who have sick sinus syndrome, 2 nd or 3 rd degree AV block or bradycardic-related syncope) have been excluded from the main studies evaluating the safety and efficacy of ticagrelor. Therefore, due to the limited clinical experience, ticagrelor should be used with caution in these patients (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-safety and efficacy of ticagrelor. Therefore, due to the limited clinical experience, ticagrelor should be used with caution in these patients (see section 5.1).
 
 In addition, caution should be exercised when administering ticagrelor concomitantly with medicinal products known to induce bradycardia. However, no evidence of clinically significant adverse reactions was observed in the PLATO trial after concomitant administration with one or more medicinal products known to induce bradycardia (e.g. 96% beta blockers, 33% calcium channel blockers diltiazem and verapamil and 4% digoxin) (see section 4.5).
 
@@ -1737,11 +1732,9 @@ Ticagrelor is primarily a CYP3A4 substrate and a mild inhibitor of CYP3A4. Ticag
 
 ## CYP3A inducers
 
-Co-administration of rifampicin with ticagrelor decreased ticagrelor Cmax and AUC by 73% and 86%, respectively. The Cmax of the active metabolite was unchanged and the AUC was decreased by 46%, respectively. Other CYP3A inducers (e.g. phenytoin, carbamazepine and phenobarbital) would be expected to decrease the exposure to ticagrelor as well. Co-administration of ticagrelor with potent
+Co-administration of rifampicin with ticagrelor decreased ticagrelor Cmax and AUC by 73% and 86%, respectively. The Cmax of the active metabolite was unchanged and the AUC was decreased by 46%, respectively. Other CYP3A inducers (e.g. phenytoin, carbamazepine and phenobarbital) would be expected to decrease the exposure to ticagrelor as well. Co-administration of ticagrelor with potent CYP3A inducers may decrease exposure and efficacy of ticagrelor, therefore, their concomitant use with ticagrelor is discouraged.
 
 <div style=\"page-break-after: always\"></div>
-
-CYP3A inducers may decrease exposure and efficacy of ticagrelor, therefore, their concomitant use with ticagrelor is discouraged.
 
 ## Cyclosporine (P-gp and CYP3A inhibitor)
 
@@ -1767,11 +1760,9 @@ Ticagrelor is a mild CYP3A4 inhibitor. Co-administration of ticagrelor and CYP3A
 
 ## P-gp substrates (including digoxin, cyclosporine)
 
-Concomitant administration of ticagrelor increased the digoxin Cmax by 75% and AUC by 28%. The mean trough digoxin levels were increased about 30% with ticagrelor co-administration with some individual maximum increases to 2-fold. In the presence of digoxin, the Cmax and AUC of ticagrelor and its active metabolite were not affected. Therefore, appropriate clinical and/or laboratory
+Concomitant administration of ticagrelor increased the digoxin Cmax by 75% and AUC by 28%. The mean trough digoxin levels were increased about 30% with ticagrelor co-administration with some individual maximum increases to 2-fold. In the presence of digoxin, the Cmax and AUC of ticagrelor and its active metabolite were not affected. Therefore, appropriate clinical and/or laboratory monitoring is recommended when giving narrow therapeutic index P-gp dependent medicinal products like digoxin concomitantly with ticagrelor.
 
 <div style=\"page-break-after: always\"></div>
-
-monitoring is recommended when giving narrow therapeutic index P-gp dependent medicinal products like digoxin concomitantly with ticagrelor.
 
 There was no effect of ticagrelor on cyclosporine blood levels. Effect of ticagrelor on other P-gp substrates has not been studied.
 
@@ -1835,7 +1826,7 @@ In PLATO, patients on ticagrelor had a higher incidence of discontinuation due t
 
 The following adverse reactions have been identified following studies or have been reported in post-marketing experience with ticagrelor (Table 1).
 
-Adverse reactions are listed by MedDRA System Organ Class (SOC). Within each SOC the adverse reactions are ranked by frequency category. Frequency categories are defined according to the following conventions: Very common (≥1/10), common (≥1/100 to &lt; 1/10), uncommon (≥1/1,000 to &lt; 1/100), rare (≥1/10,000 to &lt; 1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+Adverse reactions are listed by MedDRA System Organ Class (SOC). Within each SOC the adverse reactions are ranked by frequency category. Frequency categories are defined according to the following conventions: Very common (≥1/10), common (≥1/100 to  1/10), uncommon (≥1/1,000 to  1/100), rare (≥1/10,000 to  1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 ## Table 1 - Adverse reactions by frequency and system organ class (SOC)
 
@@ -1870,9 +1861,7 @@ Adverse reactions are listed by MedDRA System Organ Class (SOC). Within each SOC
 |------------------------------------------------|---------------|----------------------------------------------------|------------|-------------|
 | Injury, poisoning and procedural complications |               | Post procedural haemorrhage, Traumatic bleedings l |            |             |
 
-j
-
-e.g. haematuria, cystitis haemorrhagic
+j  e.g. haematuria, cystitis haemorrhagic
 
 k  e.g. vaginal haemorrhage, haematospermia, postmenopausal haemorrhage
 
@@ -1882,7 +1871,7 @@ m  i.e. spontaneous, procedure related or traumatic intracranial haemorrhage
 
 ## Description of selected adverse reactions
 
-Bleeding
+## Bleeding
 
 Bleeding findings in PLATO
 
@@ -1897,7 +1886,7 @@ Table 2 - Analysis of overall bleeding events, Kaplan-Meier estimates at 12 mont
 | Non-CABG PLATO Major               |                                   4.5 |                  3.8 | 0.0264      |
 | Non-Procedural PLATO Major         |                                   3.1 |                  2.3 | 0.0058      |
 | PLATO Total Major + Minor          |                                  16.1 |                 14.6 | 0.0084      |
-| Non-Procedural PLATO Major + Minor |                                   5.9 |                  4.3 | < 0.0001    |
+| Non-Procedural PLATO Major + Minor |                                   5.9 |                  4.3 |  0.0001    |
 | TIMI-defined Major                 |                                   7.9 |                  7.7 | 0.5669      |
 | TIMI-defined Major + Minor         |                                  11.4 |                 10.9 | 0.3272      |
 
@@ -1974,7 +1963,9 @@ TIMI Minor: Clinically apparent with 30-50 g/L decrease in haemoglobin.
 
 TIMI Requiring medical attention: Requiring intervention, OR leading to hospitalisation, OR prompting evaluation.
 
-PLATO Major Fatal/life-threatening: Fatal bleeding, OR any intracranial bleeding, OR intrapericardial with cardiac tamponade, OR with hypovolaemic shock or severe hypotension requiring pressors/inotropes or surgery OR clinically apparent with &gt;50 g/L decrease in haemoglobin or ≥4 red cell units transfused.
+PLATO Major Fatal/life-threatening: Fatal bleeding, OR any intracranial bleeding, OR intrapericardial with cardiac
+
+tamponade, OR with hypovolaemic shock or severe hypotension requiring pressors/inotropes or surgery OR clinically apparent with &gt;50 g/L decrease in haemoglobin or ≥4 red cell units transfused.
 
 PLATO Major Other: Significantly disabling, OR clinically apparent with 30-50 g/L decrease in haemoglobin, OR 2-3 red cell units transfused.
 
@@ -2086,7 +2077,7 @@ Table 4 - Analysis of primary and secondary efficacy endpoints (PLATO)
 |                                                     |   Ticagrelor 90 mg twice daily (% patients with event) N=9333 |   Clopidogrel 75 mg once daily (% patients with event) N=9291 |   ARR a (%/yr) | RRR a (%) (95% CI)   | p- value   |
 |-----------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|----------------|----------------------|------------|
 | CV death, MI (excl. silent MI) or stroke            |                                                           9.3 |                                                          10.9 |            1.9 | 16 (8, 23)           | 0.0003     |
-| Invasive intent                                     |                                                           8.5 |                                                          10   |            1.7 | 16 (6, 25)           | 0.0025     |
+| Invasive intent                                     |                                                           8.5 |                                                          10.0 |            1.7 | 16 (6, 25)           | 0.0025     |
 | Medical intent                                      |                                                          11.3 |                                                          13.2 |            2.3 | 15 (0.3, 27)         | 0.0444 d   |
 | CV death                                            |                                                           3.8 |                                                           4.8 |            1.1 | 21 (9, 31)           | 0.0013     |
 | MI (excl. silent MI) b                              |                                                           5.4 |                                                           6.4 |            1.1 | 16 (5, 25)           | 0.0045     |
@@ -2136,13 +2127,15 @@ Clinical efficacy
 
 Figure 2 - Analysis of primary clinical composite endpoint of CV death, MI and stroke (PEGASUS)
 
+11
+
 <!-- image -->
 
 Table 5 - Analysis of primary and secondary efficacy endpoints (PEGASUS)
 
 |                                 | Ticagrelor 60 mg twice daily +ASA N = 7045   | Ticagrelor 60 mg twice daily +ASA N = 7045   | Ticagrelor 60 mg twice daily +ASA N = 7045   | ASA alone N = 7067   | ASA alone N = 7067   |                  |
 |---------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------|----------------------|------------------|
-| Characteristic                  | Patients with events                         | KM%                                          | HR (95% CI)                                  | Patients with events | KM%                  | p -value         |
+| Characteristic                  | Patients with events                         | KM %                                         | HR (95% CI)                                  | Patients with events | KM %                 | p -value         |
 | Primary endpoint                | Primary endpoint                             | Primary endpoint                             | Primary endpoint                             | Primary endpoint     | Primary endpoint     | Primary endpoint |
 | Composite of CV Death/MI/Stroke | 487 (6.9%)                                   | 7.8%                                         | 0.84 (0.74, 0.95)                            | 578 (8.2%)           | 9.0%                 | 0.0043 (s)       |
 | CV death                        | 174 (2.5%)                                   | 2.9%                                         | 0.83 (0.68, 1.01)                            | 210 (3.0%)           | 3.4%                 | 0.0676           |
@@ -2153,7 +2146,7 @@ Table 5 - Analysis of primary and secondary efficacy endpoints (PEGASUS)
 
 |                     | Ticagrelor 60 mg twice daily +ASA N = 7045   | Ticagrelor 60 mg twice daily +ASA N = 7045   | Ticagrelor 60 mg twice daily +ASA N = 7045   | ASA alone N = 7067   | ASA alone N = 7067   |                    |
 |---------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------|----------------------|--------------------|
-| Characteristic      | Patients with events                         | KM%                                          | HR (95% CI)                                  | Patients with events | KM%                  | p -value           |
+| Characteristic      | Patients with events                         | KM %                                         | HR (95% CI)                                  | Patients with events | KM %                 | p -value           |
 | Secondary endpoint  | Secondary endpoint                           | Secondary endpoint                           | Secondary endpoint                           | Secondary endpoint   | Secondary endpoint   | Secondary endpoint |
 | CV death            | 174 (2.5%)                                   | 2.9%                                         | 0.83 (0.68, 1.01)                            | 210 (3.0%)           | 3.4%                 | -                  |
 | All-cause mortality | 289 (4.1%)                                   | 4.7%                                         | 0.89 (0.76, 1.04)                            | 326 (4.6%)           | 5.2%                 | -                  |
@@ -2186,11 +2179,9 @@ The rate of discontinuations with ticagrelor 60 mg due to bleeding and dyspnoea 
 
 ## Paediatric population
 
-In a randomised, double-blind, parallel-group Phase III study (HESTIA 3), 193 paediatric patients (ages 2 to less than 18 years) with sickle cell disease were randomised to receive either placebo or
+In a randomised, double-blind, parallel-group Phase III study (HESTIA 3), 193 paediatric patients (ages 2 to less than 18 years) with sickle cell disease were randomised to receive either placebo or ticagrelor at doses of 15 mg to 45 mg twice daily depending on body weight. Ticagrelor resulted in a median platelet inhibition of 35% at pre-dose and 56% at 2 hours post-dose at steady state.
 
 <div style=\"page-break-after: always\"></div>
-
-ticagrelor at doses of 15 mg to 45 mg twice daily depending on body weight. Ticagrelor resulted in a median platelet inhibition of 35% at pre-dose and 56% at 2 hours post-dose at steady state.
 
 Compared to placebo, there was no treatment benefit of ticagrelor on the rate of vaso-occlusive crises.
 
@@ -2300,15 +2291,15 @@ Not all pack sizes may be marketed.
 
 Special precautions for disposal
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 7.
 
 MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB
-
-SE-151 85 Södertälje
+AstraZeneca AB SE-151 85 Södertälje
 
 Sweden
 
@@ -2365,7 +2356,7 @@ The  requirements for submission of periodic safety update reports for this medi
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk Management Plan (RMP)
+- Risk Management Plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
@@ -2507,9 +2498,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-Sun/Moon symbol
-
-76
+Sun/Moon symbol Brilique 60 mg tablets ticagrelor AstraZeneca AB
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2520,12 +2509,8 @@ Sun/Moon symbol
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Brilique 60 mg tablets ticagrelor
-
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
-
-AstraZeneca AB
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2563,7 +2548,9 @@ Each film-coated tablet contains 90 mg ticagrelor
 - 14 film-coated tablets
 - 56 film-coated tablets
 - 60 film-coated tablets
-- 100x1 film-coated tablets
+
+100x1 film-coated tablets
+
 - 168 film-coated tablets
 - 180 film-coated tablets
 
@@ -2579,7 +2566,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -2663,7 +2650,7 @@ EXP
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
+Lot Brilique 90 mg tablets ticagrelor AstraZeneca AB
 
 | 5.   | OTHER   |
 |------|---------|
@@ -2677,12 +2664,8 @@ Lot
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Brilique 90 mg tablets ticagrelor
-
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
-
-AstraZeneca AB
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2697,9 +2680,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-Sun/Moon symbol
-
-81
+Sun/Moon symbol Brilique 90 mg tablets ticagrelor AstraZeneca AB
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2710,12 +2691,8 @@ Sun/Moon symbol
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Brilique 90 mg tablets ticagrelor
-
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
-
-AstraZeneca AB
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2770,7 +2747,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -2815,8 +2793,6 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 ## PERFORATED UNIT DOSE BLISTER
@@ -2829,7 +2805,7 @@ Brilique 90 mg orodispersible tablets ticagrelor
 
 AstraZeneca AB
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -2838,6 +2814,8 @@ EXP
 Lot
 
 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3132,27 +3110,25 @@ Film-coated tablet (tablet): The tablets are round, biconvex, pink, film-coated 
 Brilique is available in:
 
 - standard blisters (with sun/moon symbols) in cartons of 60 and 180 tablets
-- calendar blisters (with sun/moon symbols) in cartons of 14, 56 and 168 tablets Not all pack sizes may be marketed.
+- calendar blisters (with sun/moon symbols) in cartons of 14, 56 and 168 tablets
+
+Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
 Marketing Authorisation Holder: AstraZeneca AB SE-151 85 Södertälje Sweden
 
-Manufacturer: AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
+Manufacturer: AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## België/Belgique/Belgien
 
-AstraZeneca S.A./N.V.
-
-Tel: +32 2 370 48 11
+AstraZeneca S.A./N.V. Tel: +32 2 370 48 11
 
 ## България
 
-АстраЗенека България ЕООД Te л .: +359 2 44 55 000
+АстраЗенека България ЕООД Teл.: +359 2 44 55 000
 
 ## Česká republika
 
@@ -3168,13 +3144,11 @@ AstraZeneca GmbH Tel: +49 40 809034100
 
 ## Eesti
 
-AstraZeneca
-
-Tel: +372 6549 600
+AstraZeneca Tel: +372 6549 600
 
 ## Ελλάδα
 
-AstraZeneca A.E. Τηλ : +30 2 106871500
+AstraZeneca A.E. Τηλ: +30 2 106871500
 
 ## España
 
@@ -3188,7 +3162,9 @@ Tél: +33 1 41 29 40 00
 
 ## Hrvatska
 
-AstraZeneca d.o.o. Tel: +385 1 4628 000
+AstraZeneca d.o.o.
+
+Tel: +385 1 4628 000
 
 ## Ireland
 
@@ -3196,7 +3172,7 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor hf.
+Vistor
 
 Sími: +354 535 7000
 
@@ -3206,9 +3182,7 @@ AstraZeneca S.p.A. Tel: +39 02 00704500
 
 ## Lietuva
 
-UAB AstraZeneca Lietuva
-
-Tel: +370 5 2660550
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
 
 ## Luxembourg/Luxemburg
 
@@ -3224,9 +3198,7 @@ Associated Drug Co. Ltd Tel: +356 2277 8000
 
 ## Nederland
 
-AstraZeneca BV
-
-Tel: +31 85 808 9900
+AstraZeneca BV Tel: +31 85 808 9900
 
 ## Norge
 
@@ -3256,9 +3228,7 @@ Tel: +386 1 51 35 600
 
 ## Slovenská republika
 
-AstraZeneca AB, o.z.
-
-Tel: +421 2 5737 7777
+AstraZeneca AB, o.z. Tel: +421 2 5737 7777
 
 ## Suomi/Finland
 
@@ -3268,7 +3238,7 @@ AstraZeneca Oy Puh/Tel: +358 10 23 010
 
 ## Κύπρος
 
-Αλέκτωρ Φαρ µ ακευτική Λτδ
+Αλέκτωρ Φαρµακευτική Λτδ
 
 Τηλ: +357 22490305
 
@@ -3284,17 +3254,9 @@ Tel: +371 67377100
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-## Sverige
-
-AstraZeneca AB
+Sverige AstraZeneca AB
 
 Tel: +46 8 553 26 000
-
-## United Kingdom (Northern Ireland)
-
-AstraZeneca UK Ltd
-
-Tel: +44 1582 836 836
 
 ## Package leaflet: Information for the user
 
@@ -3446,9 +3408,9 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 ## Taking Brilique with other medicines for blood clotting
 
-<div style=\"page-break-after: always\"></div>
-
 Your doctor will usually also tell you to take acetylsalicylic acid. This is a substance present in many medicines used to prevent blood clotting. Your doctor will tell you how much to take (usually between 75-150 mg daily).
+
+<div style=\"page-break-after: always\"></div>
 
 ## How to take Brilique
 
@@ -3494,13 +3456,13 @@ Brilique affects blood clotting, so most side effects are related to bleeding. B
 - -sudden confusion, difficulty speaking or understanding others
 - -sudden difficulty in walking or loss of balance or co-ordination
 - -suddenly feeling dizzy or sudden severe headache with no known cause
-
-<div style=\"page-break-after: always\"></div>
-
 - Signs of bleeding such as:
 - -bleeding that is severe or that you cannot control
 - -unexpected bleeding or bleeding that lasts a long time
 - -pink, red or brown urine
+
+<div style=\"page-break-after: always\"></div>
+
 - -vomiting red blood or your vomit looks like 'coffee grounds'
 - -red or black stools (look like tar)
 - -coughing up or vomiting blood clots
@@ -3544,13 +3506,12 @@ Brilique affects blood clotting, so most side effects are related to bleeding. B
 - Allergic reaction - a rash, itching or a swollen face or swollen lips/tongue may be signs of an allergic reaction
 - Confusion
 - Visual problems caused by blood in your eye
-
-<div style=\"page-break-after: always\"></div>
-
 - Vaginal bleeding that is heavier, or happens at different times, than your normal period (menstrual) bleeding
 - Bleeding into your joints and muscles causing painful swelling
 - Blood in your ear
 - Internal bleeding, this may cause dizziness or light-headedness
+
+<div style=\"page-break-after: always\"></div>
 
 ## Not known (frequency cannot be estimated from the available data)
 
@@ -3595,15 +3556,11 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder:
+Marketing Authorisation Holder: AstraZeneca AB SE-151 85 Södertälje Sweden
 
-AstraZeneca AB SE-151 85 Södertälje Sweden
+Manufacturer: AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-Manufacturer: AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -3613,69 +3570,31 @@ Tel: +32 2 370 48 11
 
 ## България
 
-АстраЗенека България ЕООД
-
-Te л
-
-.: +359 2 44 55 000
+АстраЗенека България ЕООД Te л .: +359 2 44 55 000
 
 ## Česká republika
 
-## Lietuva
-
-UAB AstraZeneca Lietuva Tel: +370 5 2660550
-
-## Luxembourg/Luxemburg
-
-AstraZeneca S.A./N.V.
-
-Tél/Tel: +32 2 370 48 11
-
-## Magyarország
-
 AstraZeneca Czech Republic s.r.o Tel: +420 222 807 111
-
-AstraZeneca Kft. Tel.: +36 1 883 6500
 
 ## Danmark
 
-## Malta
-
-AstraZeneca A/S
-
-Tlf: +45 43 66 64 62
-
-Associated Drug Co. Ltd Tel: +356 2277 8000
+AstraZeneca A/S Tlf: +45 43 66 64 62
 
 ## Deutschland
 
-## Nederland
-
-AstraZeneca GmbH
-
-Tel: +49 40 809034100
-
-AstraZeneca BV Tel: +31 85 808 9900
+AstraZeneca GmbH Tel: +49 40 809034100
 
 ## Eesti
 
-AstraZeneca
-
-Tel: +372 6549 600
+AstraZeneca Tel: +372 6549 600
 
 ## Ελλάδα
 
-AstraZeneca A.E.
-
-Τηλ
-
-: +30 2 106871500
+AstraZeneca A.E. Τηλ: +30 2 106871500
 
 ## España
 
-AstraZeneca Farmacéutica Spain, S.A.
-
-Tel: +34 91 301 91 00
+AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
 
 ## France
 
@@ -3693,11 +3612,39 @@ Tel: +385 1 4628 000
 
 AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
+## Ísland
+
+Vistor
+
+Sími: +354 535 7000
+
+## Italia
+
+AstraZeneca S.p.A. Tel: +39 02 00704500
+
+## Lietuva
+
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
+
+## Luxembourg/Luxemburg
+
+AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
+
+## Magyarország
+
+AstraZeneca Kft. Tel.: +36 1 883 6500
+
+## Malta
+
+Associated Drug Co. Ltd Tel: +356 2277 8000
+
+## Nederland
+
+AstraZeneca BV Tel: +31 85 808 9900
+
 ## Norge
 
-AstraZeneca AS
-
-Tlf: +47 21 00 64 00
+AstraZeneca AS Tlf: +47 21 00 64 00
 
 ## Österreich
 
@@ -3717,43 +3664,25 @@ AstraZeneca Pharma SRL Tel: +40 21 317 60 41
 
 ## Slovenija
 
-AstraZeneca UK Limited Tel: +386 1 51 35 600
+AstraZeneca UK Limited
 
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
+Tel: +386 1 51 35 600
 
 ## Slovenská republika
 
-AstraZeneca AB, o.z.
-
-Tel: +421 2 5737 7777
-
-## Italia
-
-AstraZeneca S.p.A.
-
-Tel: +39 02 00704500
+AstraZeneca AB, o.z. Tel: +421 2 5737 7777
 
 ## Suomi/Finland
 
-AstraZeneca Oy
+AstraZeneca Oy Puh/Tel: +358 10 23 010
 
-Puh/Tel: +358 10 23 010
+<div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
-Αλέκτωρ Φαρ µ ακευτική Λτδ
+Αλέκτωρ Φαρµακευτική Λτδ
 
 Τηλ: +357 22490305
-
-## Sverige
-
-AstraZeneca AB
-
-Tel: +46 8 553 26 000
 
 ## Latvija
 
@@ -3761,19 +3690,15 @@ SIA AstraZeneca Latvija
 
 Tel: +371 67377100
 
-## United Kingdom (Northern Ireland)
-
-AstraZeneca UK Ltd
-
-Tel: +44 1582 836 836
-
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+Sverige AstraZeneca AB
+
+Tel: +46 8 553 26 000
 
 ## Package leaflet: Information for the user
 
@@ -4082,29 +4007,19 @@ AstraZeneca Czech Republic s.r.o Tel: +420 222 807 111
 
 ## Danmark
 
-AstraZeneca A/S
-
-Tlf: +45 43 66 64 62
+AstraZeneca A/S Tlf: +45 43 66 64 62
 
 ## Deutschland
 
-AstraZeneca GmbH
-
-Tel: +49 40 809034100
+AstraZeneca GmbH Tel: +49 40 809034100
 
 ## Eesti
 
-AstraZeneca
-
-Tel: +372 6549 600
+AstraZeneca Tel: +372 6549 600
 
 ## Ελλάδα
 
-AstraZeneca A.E.
-
-Τηλ
-
-: +30 2 106871500
+AstraZeneca A.E. Τηλ: +30 2 106871500
 
 ## España
 
@@ -4112,7 +4027,9 @@ AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
 
 ## France
 
-AstraZeneca Tél: +33 1 41 29 40 00
+AstraZeneca
+
+Tél: +33 1 41 29 40 00
 
 ## Hrvatska
 
@@ -4124,7 +4041,7 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
@@ -4132,7 +4049,11 @@ AstraZeneca S.p.A. Tel: +39 02 00704500
 
 ## Κύπρος
 
-Αλέκτωρ Φαρ µ ακευτική Λτδ Τηλ: +357 22490305
+Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
+
+## Latvija
+
+SIA AstraZeneca Latvija Tel: +371 67377100
 
 ## Luxembourg/Luxemburg
 
@@ -4152,9 +4073,7 @@ AstraZeneca BV Tel: +31 85 808 9900
 
 ## Norge
 
-AstraZeneca AS
-
-Tlf: +47 21 00 64 00
+AstraZeneca AS Tlf: +47 21 00 64 00
 
 ## Österreich
 
@@ -4190,20 +4109,8 @@ AstraZeneca AB Tel: +46 8 553 26 000
 
 <div style=\"page-break-after: always\"></div>
 
-## Latvija
-
-SIA AstraZeneca Latvija
-
-Tel: +371 67377100
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-## United Kingdom (Northern Ireland)
-
-AstraZeneca UK Ltd
-
-Tel: +44 1582 836 836

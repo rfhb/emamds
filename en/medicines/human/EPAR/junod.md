@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-01-05 17:35:00
+document_datetime: 2026-08-20 17:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/junod.html
 document_name: junod.html
 version: success
-processing_time: 0.0925399
-conversion_datetime: 2026-01-06 07:46:38.774535
+processing_time: 0.1376245
+conversion_datetime: 2026-08-22 22:52:36.455295
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Junod
 
 [RSS](/en/individual-human-medicine.xml/258601)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-denosumab Medicine Human Authorised
+denosumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -51,13 +51,13 @@ Junod is a medicine used to treat the following conditions:
 - bone loss in men receiving treatment for prostate cancer that increases their risk of fracture. Junod reduces the risk of fractures in the spine;
 - bone loss in adults at increased risk of fractures who are treated long term with corticosteroid medicines given by mouth or injection.
 
-Junod contains the active substance denosumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Junod is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Junod is Prolia. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Junod contains the active substance denosumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Junod is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Junod is Prolia.
 
 Expand section
 
 Collapse section
 
-## How is Junod used?
+### How is Junod used?
 
 Junod can only be obtained with a prescription and is available as a solution for injection in prefilled syringes.
 
@@ -65,11 +65,11 @@ It is given once every 6 months as an injection under the skin in the thigh, abd
 
 For more information about using Junod, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Junod work?
+### How does Junod work?
 
 The active substance in Junod, denosumab, is a monoclonal antibody (a type of protein) that has been designed to recognise and attach to a specific structure in the body called RANKL. RANKL is involved in activating osteoclasts, the cells in the body that are involved in breaking down bone tissue. By attaching to and blocking RANKL, denosumab reduces the formation and activity of the osteoclasts. This reduces the loss of bone and maintains bone strength, making fractures less likely to happen.
 
-## What benefits of Junod have been shown in studies?
+### What benefits of Junod have been shown in studies?
 
 Laboratory studies comparing Junod with Prolia have shown that the active substance in Junod is highly similar to that in Prolia in terms of structure, purity and biological activity. Studies have also shown that giving Junod produces similar levels of the active substance in the body to those seen with Prolia.
 
@@ -77,7 +77,7 @@ In addition, a study involving 473 women with osteoporosis who have been through
 
 Because Junod is a biosimilar medicine, the studies on the effectiveness carried out with Prolia do not all need to be repeated for Junod.
 
-## What are the risks associated with Junod?
+### What are the risks associated with Junod?
 
 For the complete list of side effects and restrictions with Junod, see the package leaflet.
 
@@ -87,13 +87,13 @@ The most common side effects with Junod (which may affect more than 1 in 10 peop
 
 Junod must not be used in people with hypocalcaemia (low blood calcium levels).
 
-## Why is Junod authorised in the EU?
+### Why is Junod authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Junod has a highly similar structure, purity and biological activity to Prolia and is distributed in the body in the same way. In addition, a study has shown that Junod and Prolia are equivalent in terms of safety and effectiveness in women with osteoporosis who have been through the menopause.
 
 All these data were considered sufficient to conclude that Junod will have the same effects as Prolia in its authorised uses. Therefore, the Agency's view was that, as for Prolia, the benefits of Junod outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Junod?
+### What measures are being taken to ensure the safe and effective use of Junod?
 
 The company that markets Junod will provide a card to inform patients about the risk of osteonecrosis of the jaw and to instruct them to contact their doctor if they experience symptoms.
 
@@ -101,7 +101,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Junod are continuously monitored. Suspected side effects reported with Junod are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Junod
+### Other information about Junod
 
 Junod received a marketing authorisation valid throughout the EU on 23 June 2025.
 
@@ -115,181 +115,137 @@ English (EN) (145.11 KB - PDF)
 
 [View](/en/documents/overview/junod-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-457)
+[Other languages (22)](#file-language-dropdown-499)
 
 български (BG) (189.49 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/bg/documents/overview/junod-epar-medicine-overview_bg.pdf)
 
 español (ES) (144.22 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/es/documents/overview/junod-epar-medicine-overview_es.pdf)
 
 čeština (CS) (167.47 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/cs/documents/overview/junod-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (144.23 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/da/documents/overview/junod-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (152.21 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/de/documents/overview/junod-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (140.69 KB - PDF)
+eesti (ET) (140.69 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/et/documents/overview/junod-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (168.9 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/el/documents/overview/junod-epar-medicine-overview_el.pdf)
 
 français (FR) (145.65 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/fr/documents/overview/junod-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (165.1 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/hr/documents/overview/junod-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (143.58 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/it/documents/overview/junod-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (172.53 KB - PDF)
+latviešu (LV) (172.53 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/lv/documents/overview/junod-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (165.13 KB - PDF)
+lietuvių (LT) (165.13 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/lt/documents/overview/junod-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (165.52 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/hu/documents/overview/junod-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (167.53 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/mt/documents/overview/junod-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (145.08 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/nl/documents/overview/junod-epar-medicine-overview_nl.pdf)
 
 polski (PL) (168.69 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/pl/documents/overview/junod-epar-medicine-overview_pl.pdf)
 
 português (PT) (145.15 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/pt/documents/overview/junod-epar-medicine-overview_pt.pdf)
 
 română (RO) (162.32 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/ro/documents/overview/junod-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (166.8 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/sk/documents/overview/junod-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (164.2 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/sl/documents/overview/junod-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (141.4 KB - PDF)
+suomi (FI) (141.4 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/fi/documents/overview/junod-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (154.93 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/sv/documents/overview/junod-epar-medicine-overview_sv.pdf)
 
@@ -305,19 +261,168 @@ English (EN) (795.83 KB - PDF)
 
 Junod : EPAR - Product information
 
-English (EN) (838.22 KB - PDF)
+English (EN) (814.06 KB - PDF)
 
-**First published:** 03/09/2025
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
 
 [View](/en/documents/product-information/junod-epar-product-information_en.pdf)
 
-**Latest procedure affecting product information:** VR/0000300682 22/12/2025
+[Other languages (24)](#file-language-dropdown-17)
+
+български (BG) (904.97 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/bg/documents/product-information/junod-epar-product-information_bg.pdf)
+
+español (ES) (845.48 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/es/documents/product-information/junod-epar-product-information_es.pdf)
+
+čeština (CS) (863.32 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/cs/documents/product-information/junod-epar-product-information_cs.pdf)
+
+dansk (DA) (837.47 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/da/documents/product-information/junod-epar-product-information_da.pdf)
+
+Deutsch (DE) (859.31 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/de/documents/product-information/junod-epar-product-information_de.pdf)
+
+eesti (ET) (828.49 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/et/documents/product-information/junod-epar-product-information_et.pdf)
+
+ελληνικά (EL) (895.86 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/el/documents/product-information/junod-epar-product-information_el.pdf)
+
+français (FR) (875.85 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/fr/documents/product-information/junod-epar-product-information_fr.pdf)
+
+hrvatski (HR) (915.09 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/hr/documents/product-information/junod-epar-product-information_hr.pdf)
+
+italiano (IT) (847.09 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/it/documents/product-information/junod-epar-product-information_it.pdf)
+
+latviešu (LV) (891.87 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/lv/documents/product-information/junod-epar-product-information_lv.pdf)
+
+lietuvių (LT) (824.75 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/lt/documents/product-information/junod-epar-product-information_lt.pdf)
+
+magyar (HU) (885.74 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/hu/documents/product-information/junod-epar-product-information_hu.pdf)
+
+Malti (MT) (910.92 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/mt/documents/product-information/junod-epar-product-information_mt.pdf)
+
+Nederlands (NL) (841.52 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/nl/documents/product-information/junod-epar-product-information_nl.pdf)
+
+polski (PL) (867.05 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/pl/documents/product-information/junod-epar-product-information_pl.pdf)
+
+português (PT) (860.54 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/pt/documents/product-information/junod-epar-product-information_pt.pdf)
+
+română (RO) (947.93 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/ro/documents/product-information/junod-epar-product-information_ro.pdf)
+
+slovenčina (SK) (908.27 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/sk/documents/product-information/junod-epar-product-information_sk.pdf)
+
+slovenščina (SL) (844.07 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/sl/documents/product-information/junod-epar-product-information_sl.pdf)
+
+suomi (FI) (918.75 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/fi/documents/product-information/junod-epar-product-information_fi.pdf)
+
+svenska (SV) (853.9 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/sv/documents/product-information/junod-epar-product-information_sv.pdf)
+
+Íslenska (IS) (820.59 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/is/documents/product-information/junod-epar-product-information_is.pdf)
+
+norsk (NO) (816.07 KB - PDF)
+
+**First published:** 03/09/2025 **Last updated:** 20/08/2026
+
+[View](/no/documents/product-information/junod-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000363030
+
+19/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -335,193 +440,154 @@ English (EN) (59.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-319)
+[Other languages (22)](#file-language-dropdown-861)
 
 български (BG) (75.35 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/bg/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (56.71 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/es/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (77.69 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/cs/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (50.75 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/da/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (39.31 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/de/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (56.19 KB - PDF)
+eesti (ET) (56.19 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/et/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (44.86 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/el/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (59.36 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/fr/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (75.81 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/hr/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (60.28 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/is/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (58.7 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/it/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (58.42 KB - PDF)
+latviešu (LV) (58.42 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/lv/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (77.47 KB - PDF)
+lietuvių (LT) (77.47 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/lt/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (79.85 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/hu/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (46.07 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/mt/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (59.83 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/nl/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (60.94 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/no/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (81 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/pl/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (63.75 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/pt/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (75.93 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/ro/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (78.57 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/sk/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_sk.pdf)
 
-Suomi (FI) (57.3 KB - PDF)
+suomi (FI) (57.3 KB - PDF)
 
-**First published:**
-
-03/09/2025
+**First published:** 03/09/2025
 
 [View](/fi/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_fi.pdf)
 
+Íslenska (IS) (60.28 KB - PDF)
+
+**First published:** 03/09/2025
+
+[View](/is/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (60.94 KB - PDF)
+
+**First published:** 03/09/2025
+
+[View](/no/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Junod Active substance denosumab International non-proprietary name (INN) or common name denosumab Therapeutic area (MeSH)
-
-- Bone Resorption
-- Osteoporosis
-- Osteoporosis, Postmenopausal
-
-Anatomical therapeutic chemical (ATC) code M05BX04
+- **Name of medicine**
+    - Junod
+- **Active substance**
+    - denosumab
+- **International non-proprietary name (INN) or common name**
+    - denosumab
+- **Therapeutic area (MeSH)**
+        - Bone Resorption
+        - Osteoporosis
+        - Osteoporosis, Postmenopausal
+- **Anatomical therapeutic chemical (ATC) code**
+    - M05BX04
 
 ### Pharmacotherapeutic group
 
@@ -529,27 +595,28 @@ Drugs for treatment of bone diseases
 
 ### Therapeutic indication
 
-Treatment of osteoporosis in postmenopausal women and in men at increased risk of fractures. In postmenopausal women Junod significantly reduces the risk of vertebral, non-vertebral and hip fractures. Treatment of bone loss associated with hormone ablation in men with prostate cancer at increased risk of fractures (see section 5.1). In men with prostate cancer receiving hormone ablation, Junod significantly reduces the risk of vertebral fractures. Treatment of bone loss associated with long-term systemic glucocorticoid therapy in adult patients at increased risk of fracture (see section 5.1).
+Treatment of osteoporosis in postmenopausal women and in men at increased risk of fractures. In postmenopausal women Junod significantly reduces the risk of vertebral, non-vertebral and hip fractures.
+
+Treatment of bone loss associated with hormone ablation in men with prostate cancer at increased risk of fractures (see section 5.1). In men with prostate cancer receiving hormone ablation, Junod significantly reduces the risk of vertebral fractures.
+
+Treatment of bone loss associated with long-term systemic glucocorticoid therapy in adult patients at increased risk of fracture (see section 5.1).
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006436
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Gedeon Richter Plc.
-
-Gyomroi ut 19-21
-
-Opinion adopted 25/04/2025 Marketing authorisation issued 23/06/2025 Revision 1
+- **EMA product number**
+    - EMEA/H/C/006436
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Gedeon Richter Plc. Gyomroi ut 19-21  1103 Budapest  Hungary
+- **Opinion adopted**
+    - 25/04/2025
+- **Marketing authorisation issued**
+    - 23/06/2025
+- **Revision**
+    - 2
 
 ## Assessment history
 
@@ -557,23 +624,21 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Junod : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.31 KB - PDF)
+English (EN) (202.79 KB - PDF)
 
-**First published:** 05/01/2026
+**First published:** 05/01/2026 **Last updated:** 20/08/2026
 
 [View](/en/documents/procedural-steps-after/junod-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Junod : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/165403/2025
+Adopted Reference Number: EMA/165403/2025
 
 English (EN) (7.17 MB - PDF)
 
@@ -583,9 +648,7 @@ English (EN) (7.17 MB - PDF)
 
 CHMP summary of positive opinion for Junod
 
-Adopted
-
-Reference Number: EMA/118084/2025
+Adopted Reference Number: EMA/118084/2025
 
 English (EN) (133.58 KB - PDF)
 
@@ -593,12 +656,14 @@ English (EN) (133.58 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-junod_en.pdf)
 
-#### News on Junod
+## News on Junod
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025)
 
-**This page was last updated on** 05/01/2026
+25/04/2025
+
+**This page was last updated on**
+
+20/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

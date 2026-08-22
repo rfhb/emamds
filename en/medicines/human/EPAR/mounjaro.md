@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mounjaro.html
 document_name: mounjaro.html
 version: success
-processing_time: 0.2063945
-conversion_datetime: 2026-08-22 22:50:40.373417
+processing_time: 0.1983086
+conversion_datetime: 2026-08-22 23:25:02.114406
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

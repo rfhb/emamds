@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/parsabiv.html
 document_name: parsabiv.html
 version: success
-processing_time: 0.151493
-conversion_datetime: 2026-08-22 22:48:43.826282
+processing_time: 0.1538375
+conversion_datetime: 2026-08-22 23:23:07.16593
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

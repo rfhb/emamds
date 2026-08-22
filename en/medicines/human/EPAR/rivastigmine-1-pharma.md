@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-1-pharma.html
 document_name: rivastigmine-1-pharma.html
 version: success
-processing_time: 0.1445271
-conversion_datetime: 2026-08-22 22:47:23.92119
+processing_time: 0.1481806
+conversion_datetime: 2026-08-22 23:21:43.714375
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

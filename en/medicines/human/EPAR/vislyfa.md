@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vislyfa.html
 document_name: vislyfa.html
 version: success
-processing_time: 0.128393
-conversion_datetime: 2026-08-22 22:42:39.920639
+processing_time: 0.1382563
+conversion_datetime: 2026-08-22 23:16:51.937641
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

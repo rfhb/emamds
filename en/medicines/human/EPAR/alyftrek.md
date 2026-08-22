@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alyftrek.html
 document_name: alyftrek.html
 version: success
-processing_time: 0.1345837
-conversion_datetime: 2026-08-22 22:57:49.689054
+processing_time: 0.1415811
+conversion_datetime: 2026-08-22 23:32:07.343712
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

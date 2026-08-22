@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-05-07 17:52:00
+document_datetime: 2026-08-19 11:17:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/febuxostat-viatris.html
 document_name: febuxostat-viatris.html
 version: success
-processing_time: 0.1301983
-conversion_datetime: 2026-05-10 12:39:20.499079
+processing_time: 0.14758
+conversion_datetime: 2026-08-22 22:54:02.207805
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Febuxostat Viatris (previously Febuxostat Mylan)
-
 # Febuxostat Viatris (previously Febuxostat Mylan)
 
 [RSS](/en/individual-human-medicine.xml/66047)
@@ -114,8 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Febuxostat Viatris (previously Febuxostat Mylan)](#news-on)
-- [More on Febuxostat Mylan](#more-on-febuxostat-mylan-1183)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -131,7 +53,7 @@ Expand section
 
 Collapse section
 
-## What is Febuxostat Mylan and what is it used for?
+### What is Febuxostat Mylan and what is it used for?
 
 Febuxostat Mylan is a medicine used to treat adults with long-term hyperuricaemia (high levels of uric acid or 'urate' in the blood). Hyperuricaemia can lead to urate crystals forming and building up in the joints and the kidneys. When this happens in the joints and causes pain, it is known as 'gout'. Febuxostat Mylan is used in patients who have signs of a build-up of crystals, including gouty arthritis (pain and inflammation in the joints) or tophi ('stones', larger deposits of urate crystals that can cause joint and bone damage).
 
@@ -139,7 +61,7 @@ Febuxostat Mylan is also used to treat and prevent high levels of uric acid in t
 
 Febuxostat Mylan contains the active substance febuxostat and is a 'generic medicine'. This means that Febuxostat Mylan contains the same active substance and works in the same way as a 'reference medicine' already authorised in the European Union (EU) called Adenuric.
 
-## How is Febuxostat Mylan used?
+### How is Febuxostat Mylan used?
 
 Febuxostat Mylan is available as tablets (80 and 120 mg) and can only be obtained with a prescription.
 
@@ -147,29 +69,29 @@ For the treatment of long-term hyperuricaemia, the recommended dose of Febuxosta
 
 For the prevention and treatment of hyperuricaemia in patients undergoing chemotherapy, the recommended dose is 120 mg once a day. Febuxostat Mylan should be started 2 days before chemotherapy and continued for at least 7 days.
 
-## How does Febuxostat Mylan work?
+### How does Febuxostat Mylan work?
 
 The active substance in Febuxostat Mylan, febuxostat, reduces the formation of uric acid. It works by blocking an enzyme called xanthine oxidase, which is needed to make uric acid in the body. By reducing the production of uric acid, Febuxostat Mylan can reduce levels of uric acid in the blood and keep them low, stopping crystals from building up. This can reduce the symptoms of gout. Keeping uric acid levels low for long enough can also shrink tophi. In patients who are on chemotherapy a reduction in uric acid levels is expected to reduce the risk of tumour lysis syndrome.
 
-## How has Febuxostat Mylan been studied?
+### How has Febuxostat Mylan been studied?
 
 Studies on the benefits and risks of the active substance in the approved uses have already been carried out with the reference medicine, Adenuric, and do not need to be repeated for Febuxostat Mylan.
 
 As for every medicine, the company provided studies on the quality of Febuxostat Mylan. The company also carried out a study that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Febuxostat Mylan?
+### What are the benefits and risks of Febuxostat Mylan?
 
 Because Febuxostat Mylan is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Febuxostat Mylan approved?
+### Why is Febuxostat Mylan approved?
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) concluded that, in accordance with EU requirements, Febuxostat Mylan has been shown to have comparable quality and to be bioequivalent to Adenuric. Therefore, the CHMP's view was that, as for Adenuric, the benefit outweighs the identified risk. The Committee recommended that Febuxostat Mylan be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Febuxostat Mylan?
+### What measures are being taken to ensure the safe and effective use of Febuxostat Mylan?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Febuxostat Mylan have been included in the summary of product characteristics and the package leaflet.
 
-## Other information about Febuxostat Mylan
+### Other information about Febuxostat Mylan
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Febuxostat Mylan on 15 June 2017.
 
@@ -185,7 +107,7 @@ English (EN) (100.14 KB - PDF)
 
 [View](/en/documents/overview/febuxostat-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-360)
+[Other languages (22)](#file-language-dropdown-187)
 
 български (BG) (120.29 KB - PDF)
 
@@ -217,7 +139,7 @@ Deutsch (DE) (93.63 KB - PDF)
 
 [View](/de/documents/overview/febuxostat-mylan-epar-summary-public_de.pdf)
 
-eesti keel (ET) (91.64 KB - PDF)
+eesti (ET) (91.64 KB - PDF)
 
 **First published:** 19/10/2017 **Last updated:** 19/10/2017
 
@@ -247,13 +169,13 @@ italiano (IT) (92.21 KB - PDF)
 
 [View](/it/documents/overview/febuxostat-mylan-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (114.73 KB - PDF)
+latviešu (LV) (114.73 KB - PDF)
 
 **First published:** 19/10/2017 **Last updated:** 19/10/2017
 
 [View](/lv/documents/overview/febuxostat-mylan-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (117.74 KB - PDF)
+lietuvių (LT) (117.74 KB - PDF)
 
 **First published:** 19/10/2017 **Last updated:** 19/10/2017
 
@@ -307,7 +229,7 @@ slovenščina (SL) (113.29 KB - PDF)
 
 [View](/sl/documents/overview/febuxostat-mylan-epar-summary-public_sl.pdf)
 
-Suomi (FI) (92.17 KB - PDF)
+suomi (FI) (92.17 KB - PDF)
 
 **First published:** 19/10/2017 **Last updated:** 19/10/2017
 
@@ -323,167 +245,168 @@ svenska (SV) (92.59 KB - PDF)
 
 Febuxostat Viatris : EPAR - Product Information
 
-English (EN) (588.11 KB - PDF)
+English (EN) (559.12 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/en/documents/product-information/febuxostat-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-69)
+[Other languages (24)](#file-language-dropdown-308)
 
-български (BG) (674.65 KB - PDF)
+български (BG) (643.68 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/bg/documents/product-information/febuxostat-viatris-epar-product-information_bg.pdf)
 
-español (ES) (513.11 KB - PDF)
+español (ES) (426.54 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/es/documents/product-information/febuxostat-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (650.12 KB - PDF)
+čeština (CS) (687.32 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/cs/documents/product-information/febuxostat-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (621.1 KB - PDF)
+dansk (DA) (638.89 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/da/documents/product-information/febuxostat-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (507.57 KB - PDF)
+Deutsch (DE) (623.14 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/de/documents/product-information/febuxostat-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (609.71 KB - PDF)
+eesti (ET) (465.79 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/et/documents/product-information/febuxostat-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (876.71 KB - PDF)
+ελληνικά (EL) (728.48 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/el/documents/product-information/febuxostat-viatris-epar-product-information_el.pdf)
 
-français (FR) (519.13 KB - PDF)
+français (FR) (668.37 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/fr/documents/product-information/febuxostat-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (624.5 KB - PDF)
+hrvatski (HR) (688.42 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/hr/documents/product-information/febuxostat-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (573.33 KB - PDF)
+italiano (IT) (594.9 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/febuxostat-viatris-epar-product-information_is.pdf)
-
-italiano (IT) (542.15 KB - PDF)
-
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/it/documents/product-information/febuxostat-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (724.13 KB - PDF)
+latviešu (LV) (536.6 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/lv/documents/product-information/febuxostat-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (780.95 KB - PDF)
+lietuvių (LT) (804.64 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/lt/documents/product-information/febuxostat-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (540.59 KB - PDF)
+magyar (HU) (554.9 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/hu/documents/product-information/febuxostat-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (691.66 KB - PDF)
+Malti (MT) (835.99 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/mt/documents/product-information/febuxostat-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (495.66 KB - PDF)
+Nederlands (NL) (623.41 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/nl/documents/product-information/febuxostat-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (596.81 KB - PDF)
+polski (PL) (638.53 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/febuxostat-viatris-epar-product-information_no.pdf)
-
-polski (PL) (637.16 KB - PDF)
-
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/pl/documents/product-information/febuxostat-viatris-epar-product-information_pl.pdf)
 
-português (PT) (610.97 KB - PDF)
+português (PT) (587.46 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/pt/documents/product-information/febuxostat-viatris-epar-product-information_pt.pdf)
 
-română (RO) (666.67 KB - PDF)
+română (RO) (684.83 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/ro/documents/product-information/febuxostat-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (548.32 KB - PDF)
+slovenčina (SK) (490.51 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/sk/documents/product-information/febuxostat-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (652.05 KB - PDF)
+slovenščina (SL) (747.78 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/sl/documents/product-information/febuxostat-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (584.42 KB - PDF)
+suomi (FI) (592.59 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/fi/documents/product-information/febuxostat-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (605.64 KB - PDF)
+svenska (SV) (593.81 KB - PDF)
 
-**First published:** 19/10/2017 **Last updated:** 07/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
 
 [View](/sv/documents/product-information/febuxostat-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000325156
+Íslenska (IS) (691.19 KB - PDF)
 
-05/05/2026
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
+
+[View](/is/documents/product-information/febuxostat-viatris-epar-product-information_is.pdf)
+
+norsk (NO) (623.54 KB - PDF)
+
+**First published:** 19/10/2017 **Last updated:** 19/08/2026
+
+[View](/no/documents/product-information/febuxostat-viatris-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** N/0000361366
+
+17/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -501,7 +424,7 @@ English (EN) (84.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-468)
+[Other languages (24)](#file-language-dropdown-997)
 
 български (BG) (97.48 KB - PDF)
 
@@ -533,7 +456,7 @@ Deutsch (DE) (66.52 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (60.21 KB - PDF)
+eesti (ET) (60.21 KB - PDF)
 
 **First published:** 19/10/2017 **Last updated:** 16/01/2024
 
@@ -557,25 +480,19 @@ hrvatski (HR) (43.56 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (61.28 KB - PDF)
-
-**First published:** 19/10/2017 **Last updated:** 16/01/2024
-
-[View](/is/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (68.93 KB - PDF)
 
 **First published:** 19/10/2017 **Last updated:** 16/01/2024
 
 [View](/it/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (81.58 KB - PDF)
+latviešu (LV) (81.58 KB - PDF)
 
 **First published:** 19/10/2017 **Last updated:** 16/01/2024
 
 [View](/lv/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (83.37 KB - PDF)
+lietuvių (LT) (83.37 KB - PDF)
 
 **First published:** 19/10/2017 **Last updated:** 16/01/2024
 
@@ -598,12 +515,6 @@ Nederlands (NL) (63.25 KB - PDF)
 **First published:** 19/10/2017 **Last updated:** 16/01/2024
 
 [View](/nl/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (39.3 KB - PDF)
-
-**First published:** 19/10/2017 **Last updated:** 16/01/2024
-
-[View](/no/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (80.71 KB - PDF)
 
@@ -635,7 +546,7 @@ slovenščina (SL) (51.44 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (92.89 KB - PDF)
+suomi (FI) (92.89 KB - PDF)
 
 **First published:** 19/10/2017 **Last updated:** 16/01/2024
 
@@ -647,29 +558,32 @@ svenska (SV) (38.54 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (61.28 KB - PDF)
+
+**First published:** 19/10/2017 **Last updated:** 16/01/2024
+
+[View](/is/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (39.3 KB - PDF)
+
+**First published:** 19/10/2017 **Last updated:** 16/01/2024
+
+[View](/no/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Febuxostat Viatris (previously Febuxostat Mylan)
-
-Active substance
-
-febuxostat
-
-International non-proprietary name (INN) or common name
-
-febuxostat
-
-Therapeutic area (MeSH)
-
-- Hyperuricemia
-- Arthritis, Gouty
-- Gout
-
-Anatomical therapeutic chemical (ATC) code
-
-M04AA03
+- **Name of medicine**
+    - Febuxostat Viatris (previously Febuxostat Mylan)
+- **Active substance**
+    - febuxostat
+- **International non-proprietary name (INN) or common name**
+    - febuxostat
+- **Therapeutic area (MeSH)**
+        - Hyperuricemia
+        - Arthritis, Gouty
+        - Gout
+- **Anatomical therapeutic chemical (ATC) code**
+    - M04AA03
 
 ### Pharmacotherapeutic group
 
@@ -685,31 +599,18 @@ Febuxostat Viatris is indicated in adults.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004374
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Viatris Limited
-
-Damastown Industrial Park Dublin 15 Ireland
-
-Opinion adopted
-
-21/04/2017
-
-Marketing authorisation issued
-
-15/06/2017
-
-Revision
-
-15
+- **EMA product number**
+    - EMEA/H/C/004374
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Viatris Limited Damastown Industrial Park  Dublin 15  Ireland
+- **Opinion adopted**
+    - 21/04/2017
+- **Marketing authorisation issued**
+    - 15/06/2017
+- **Revision**
+    - 16
 
 ## Assessment history
 
@@ -717,13 +618,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Febuxostat Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (137.51 KB - PDF)
+English (EN) (152.25 KB - PDF)
 
-**First published:** 14/07/2025 **Last updated:** 07/05/2026
+**First published:** 14/07/2025 **Last updated:** 19/08/2026
 
 [View](/en/documents/procedural-steps-after/febuxostat-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -735,7 +636,7 @@ English (EN) (174.33 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/febuxostat-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Febuxostat Mylan : EPAR - Public assessment report
 
@@ -763,159 +664,8 @@ English (EN) (74.82 KB - PDF)
 
 21/04/2017
 
-## More on Febuxostat Mylan
-
-Questions and answers on generic medicines
-
-Reference Number: EMA/393905/2006 Rev. 2
-
-English (EN) (66.45 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-731)
-
-български (BG) (93.16 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
-
-español (ES) (68.3 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
-
-čeština (CS) (87.71 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
-
-dansk (DA) (66.79 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
-
-Deutsch (DE) (67.55 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
-
-eesti keel (ET) (65.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
-
-ελληνικά (EL) (91.29 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
-
-français (FR) (68.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
-
-hrvatski (HR) (87.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
-
-italiano (IT) (67.62 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
-
-latviešu valoda (LV) (111.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
-
-lietuvių kalba (LT) (86.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
-
-magyar (HU) (85.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
-
-Malti (MT) (89.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
-
-Nederlands (NL) (66.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
-
-polski (PL) (88.51 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
-
-português (PT) (68.32 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
-
-română (RO) (86.9 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
-
-slovenčina (SK) (87.73 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
-
-slovenščina (SL) (84.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
-
-Suomi (FI) (66.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
-
-svenska (SV) (67.11 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
-
-## Topics
-
-- [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-07/05/2026
+19/08/2026
 
 ## Share this page

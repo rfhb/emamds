@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-07 16:04:15
+document_datetime: 2026-08-20 15:16:41
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/junod-epar-product-information_en.pdf
 document_name: junod-epar-product-information_en.pdf
 version: success
-processing_time: 7.743315
-conversion_datetime: 2026-01-10 11:03:06.846395
+processing_time: 8.5579321
+conversion_datetime: 2026-08-23 00:34:44.638072
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -114,11 +114,9 @@ Adequate intake of calcium and vitamin D is important in all patients.
 
 ## Hypocalcaemia
 
-It is important to identify patients at risk for hypocalcaemia. Hypocalcaemia must be corrected by
+It is important to identify patients at risk for hypocalcaemia. Hypocalcaemia must be corrected by adequate intake of calcium and vitamin D before initiating therapy. Clinical monitoring of calcium levels is recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks after the initial dose. If any patient presents with suspected symptoms of hypocalcaemia during treatment (see section 4.8 for symptoms) calcium levels should be measured. Patients should be encouraged to report symptoms indicative of hypocalcaemia.
 
 <div style=\"page-break-after: always\"></div>
-
-adequate intake of calcium and vitamin D before initiating therapy. Clinical monitoring of calcium levels is recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks after the initial dose. If any patient presents with suspected symptoms of hypocalcaemia during treatment (see section 4.8 for symptoms) calcium levels should be measured. Patients should be encouraged to report symptoms indicative of hypocalcaemia.
 
 In the post-marketing setting, severe symptomatic hypocalcaemia (resulting in hospitalisation, lifethreatening events, and fatal cases) have been reported. While most cases occurred in the first few weeks of initiating therapy, it has also occurred later.
 
@@ -151,11 +149,9 @@ The management plan of the patients who develop ONJ should be set up in close co
 
 ## Osteonecrosis of the external auditory canal
 
-Osteonecrosis of the external auditory canal has been reported with denosumab. Possible risk factors
+Osteonecrosis of the external auditory canal has been reported with denosumab. Possible risk factors for osteonecrosis of the external auditory canal include steroid use and chemotherapy and/or local risk factors such as infection or trauma. The possibility of osteonecrosis of the external auditory canal should be considered in patients receiving denosumab who present with ear symptoms including chronic ear infections.
 
 <div style=\"page-break-after: always\"></div>
-
-for osteonecrosis of the external auditory canal include steroid use and chemotherapy and/or local risk factors such as infection or trauma. The possibility of osteonecrosis of the external auditory canal should be considered in patients receiving denosumab who present with ear symptoms including chronic ear infections.
 
 ## Atypical fractures of the femur
 
@@ -189,11 +185,9 @@ This medicinal product contains 0.1 mg of polysorbate 20 in each 1 mL. Polysorba
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-In an interaction study, denosumab did not affect the pharmacokinetics of midazolam, which is
+In an interaction study, denosumab did not affect the pharmacokinetics of midazolam, which is metabolised by cytochrome P450 3A4 (CYP3A4). This indicates that denosumab should not alter the pharmacokinetics of medicinal products metabolised by CYP3A4.
 
 <div style=\"page-break-after: always\"></div>
-
-metabolised by cytochrome P450 3A4 (CYP3A4). This indicates that denosumab should not alter the pharmacokinetics of medicinal products metabolised by CYP3A4.
 
 There are no clinical data on the co-administration of denosumab and hormone replacement therapy (oestrogen), however, the potential for a pharmacodynamic interaction is considered to be low.
 
@@ -227,11 +221,9 @@ The most common side effects with denosumab (seen in more than 1 patient in 10) 
 
 ## Tabulated list of adverse reactions
 
-The data in Table 1 below describe adverse reactions reported from phase II and III clinical trials in
+The data in Table 1 below describe adverse reactions reported from phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
 
 <div style=\"page-break-after: always\"></div>
-
-patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
 
 The following convention has been used for the classification of the adverse reactions (see Table 1): very common (≥ 1/10), common (≥ 1/100 to &lt; /10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (frequency cannot be estimated from the available data). Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
@@ -255,11 +247,9 @@ In a pooled analysis of data from all phase II and phase III placebo-controlled 
 
 In two phase III placebo-controlled clinical trials in postmenopausal women with osteoporosis, approximately 0.05% (2 out of 4 050) of patients had declines of serum calcium levels (less than 1.88 mmol/L) following denosumab administration. Declines of serum calcium levels (less than 1.88 mmol/L) were not reported in either the two phase III placebo-controlled clinical trials in patients receiving hormone ablation or the phase III placebo-controlled clinical trial in men with osteoporosis.
 
-In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia resulting in
+In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia resulting in hospitalisation, life-threatening events, and fatal cases have been reported predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy. Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4). Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
 
 <div style=\"page-break-after: always\"></div>
-
-hospitalisation, life-threatening events, and fatal cases have been reported predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy. Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4). Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
 
 ## Skin infections
 
@@ -325,11 +315,9 @@ Denosumab is a human monoclonal antibody (IgG2) that targets and binds with high
 
 ## Pharmacodynamic effects
 
-Denosumab treatment rapidly reduced the rate of bone turnover, reaching a nadir for the bone resorption marker serum type 1 C-telopeptides (CTX) (85% reduction) by 3 days, with reductions maintained over the dosing interval. At the end of each dosing interval, CTX reductions were partially attenuated from maximal reduction of ≥ 87% to approximately ≥ 45% (range 45-80%), reflecting the reversibility of denosumab's effects on bone remodelling once serum levels diminish. These effects were sustained with continued treatment. Bone turnover markers generally reached pre-treatment levels within 9 months after the last dose. Upon re-initiation, reductions in CTX by denosumab were
+Denosumab treatment rapidly reduced the rate of bone turnover, reaching a nadir for the bone resorption marker serum type 1 C-telopeptides (CTX) (85% reduction) by 3 days, with reductions maintained over the dosing interval. At the end of each dosing interval, CTX reductions were partially attenuated from maximal reduction of ≥ 87% to approximately ≥ 45% (range 45-80%), reflecting the reversibility of denosumab's effects on bone remodelling once serum levels diminish. These effects were sustained with continued treatment. Bone turnover markers generally reached pre-treatment levels within 9 months after the last dose. Upon re-initiation, reductions in CTX by denosumab were similar to those observed in patients initiating primary denosumab treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-similar to those observed in patients initiating primary denosumab treatment.
 
 ## Immunogenicity
 
@@ -411,11 +399,9 @@ Thirteen adjudicated cases of osteonecrosis of the jaw (ONJ) and two adjudicated
 
 Efficacy and safety of denosumab once every 6 months for 1 year were investigated in 242 men aged 31-84 years. Subjects with an eGFR &lt; 30 mL/min/1.73 m 2 were excluded from the study. All men received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
-The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated. Denosumab significantly increased BMD at all clinical sites measured, relative to placebo
+The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated. Denosumab significantly increased BMD at all clinical sites measured, relative to placebo at 12 months: 4.8% at lumbar spine, 2.0% at total hip, 2.2% at femoral neck, 2.3% at hip trochanter, and 0.9% at distal 1/3 radius (all p &lt; 0.05). Denosumab increased lumbar spine BMD from baseline in 94.7% of men at 1 year. Significant increases in BMD at lumbar spine, total hip, femoral neck and hip trochanter were observed by 6 months (p &lt; 0.0001).
 
 <div style=\"page-break-after: always\"></div>
-
-at 12 months: 4.8% at lumbar spine, 2.0% at total hip, 2.2% at femoral neck, 2.3% at hip trochanter, and 0.9% at distal 1/3 radius (all p &lt; 0.05). Denosumab increased lumbar spine BMD from baseline in 94.7% of men at 1 year. Significant increases in BMD at lumbar spine, total hip, femoral neck and hip trochanter were observed by 6 months (p &lt; 0.0001).
 
 ## Bone histology in post-menopausal women and men with osteoporosis
 
@@ -439,11 +425,9 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 
 Efficacy and safety of denosumab were investigated in 795 patients (70% women and 30% men) aged 20 to 94 years treated with ≥ 7.5 mg daily oral prednisone (or equivalent).
 
-Two subpopulations were studied: glucocorticoid-continuing (≥ 7.5 mg daily prednisone or its
+Two subpopulations were studied: glucocorticoidcontinuing (≥ 7.5 mg daily prednisone or its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoidinitiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised (1:1) to receive either denosumab 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
 <div style=\"page-break-after: always\"></div>
-
-equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoid-initiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised (1:1) to receive either denosumab 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
 ## Effect on bone mineral density
 
@@ -505,11 +489,9 @@ No specific study in patients with hepatic impairment was performed. In general,
 
 Denosumab should not be used in paediatric populations (see sections 4.2 and 5.1).
 
-In a phase III study of paediatric patients with osteogenesis imperfecta (n = 153), maximum serum denosumab concentrations were observed on day 10 across all age groups. For every 3 months and
+In a phase III study of paediatric patients with osteogenesis imperfecta (n = 153), maximum serum denosumab concentrations were observed on day 10 across all age groups. For every 3 months and every 6 months dosing, mean serum denosumab trough concentrations were observed to be higher for children 11 to 17 years of age, while children 2 to 6 years of age had the lowest mean trough concentrations.
 
 <div style=\"page-break-after: always\"></div>
-
-every 6 months dosing, mean serum denosumab trough concentrations were observed to be higher for children 11 to 17 years of age, while children 2 to 6 years of age had the lowest mean trough concentrations.
 
 ## 5.3 Preclinical safety data
 
@@ -537,11 +519,9 @@ Knockout mice (see section 4.6) lacking RANK or RANKL exhibited decreased body w
 
 ## 6.1 List of excipients
 
-Sodium hydroxide (for pH adjustment)*
-
 Acetic acid, glacial* Sorbitol (E420) Polysorbate 20 (E432)
 
-Water for injections
+Sodium hydroxide (for pH adjustment)* Water for injections
 
 * Acetate buffer is formed by mixing acetic acid, glacial with sodium hydroxide.
 
@@ -551,7 +531,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-3 years
+4 years
 
 Once removed from the refrigerator, Junod may be stored at room temperature (up to 25 °C) for up to 30 days in the original container and outer packaging in order to protect from light . It must be used within this 30-day period.
 
@@ -574,11 +554,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7 MARKETING AUTHORISATION HOLDER
 
-Gedeon Richter Plc. Gyömrői út 19-21. 1103 Budapest
+Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
 <div style=\"page-break-after: always\"></div>
-
-Hungary
 
 ## 8 MARKETING AUTHORISATION NUMBER(S)
 
@@ -613,7 +591,7 @@ Name and address of the manufacturers responsible for batch release
 
 Chemical Works of Gedeon Richter Plc. (Gedeon Richter Plc.) Richter Gedeon utca 20. Debrecen 4031 Hungary
 
-Gedeon Richter Plc. Gyömrői út 19-21. 1103 Budapest Hungary
+Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -716,7 +694,7 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 Gedeon Richter Plc.
 
-Gyömrői út 19-21.
+Gyömrői út 19 -21.
 
 1103 Budapest
 
@@ -752,17 +730,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Junod 60 mg injection denosumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -774,8 +752,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -894,11 +872,9 @@ Before receiving treatment, tell your doctor or the health care professional if 
 
 Your doctor may ask you to undergo a dental examination before you start treatment with Junod.
 
-While being treated, you should maintain good oral hygiene and receive routine dental check-ups. If
+While being treated, you should maintain good oral hygiene and receive routine dental check-ups. If you wear dentures, you should make sure these fit properly. If you are under dental treatment or will undergo dental surgery (e.g., tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Junod.
 
 <div style=\"page-break-after: always\"></div>
-
-you wear dentures, you should make sure these fit properly. If you are under dental treatment or will undergo dental surgery (e.g., tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Junod.
 
 Contact your doctor and dentist immediately if you experience any problems with your mouth or teeth such as loose teeth, pain or swelling, or non-healing of sores or discharge, as these could be signs of ONJ.
 
@@ -982,11 +958,9 @@ Rarely (may affect up to 1 in 1 000 people), patients receiving denosumab may ha
 
 Rarely (may affect up to 1 in 1 000 people), unusual fractures of the thigh bone may occur in patients receiving denosumab. Contact your doctor if you experience new or unusual pain in your hip, groin or thigh as this may be an early indication of a possible fracture of the thigh bone.
 
-Rarely (may affect up to 1 in 1 000 people), allergic reactions may occur in patients receiving
+Rarely (may affect up to 1 in 1 000 people), allergic reactions may occur in patients receiving denosumab. Symptoms include swelling of the face, lips, tongue, throat or other parts of the body; rash, itching or hives on the skin, wheezing or difficulty breathing. Please tell your doctor if you develop any of these symptoms while being treated with Junod.
 
 <div style=\"page-break-after: always\"></div>
-
-denosumab. Symptoms include swelling of the face, lips, tongue, throat or other parts of the body; rash, itching or hives on the skin, wheezing or difficulty breathing. Please tell your doctor if you develop any of these symptoms while being treated with Junod.
 
 Very common side effects (may affect more than 1 in 10 people):
 
@@ -1036,11 +1010,9 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 Once removed from the refrigerator, Junod may be stored at room temperature (up to 25 °C) for up to 30 days in the original container and outer packaging in order to protect from light. It must be used within this 30-day period.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
-
-throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -1059,11 +1031,11 @@ The package contains 1 pre-filled syringe with safety guard.
 
 ## Marketing Authorisation Holder
 
-Gedeon Richter Plc. Gyömrői út 19-21. 1103 Budapest Hungary
+Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
 ## Manufacturers
 
-Gedeon Richter Plc. Gyömrői út 19-21. 1103 Budapest Hungary
+Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
 Chemical Works of Gedeon Richter Plc. (Gedeon Richter Plc.) Richter Gedeon utca 20. Debrecen 4031 Hungary
 

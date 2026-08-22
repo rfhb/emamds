@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kesimpta.html
 document_name: kesimpta.html
 version: success
-processing_time: 0.3516884
-conversion_datetime: 2026-08-22 22:52:03.985957
+processing_time: 0.1465783
+conversion_datetime: 2026-08-22 23:26:23.862448
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

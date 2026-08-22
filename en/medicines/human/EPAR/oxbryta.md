@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/oxbryta.html
 document_name: oxbryta.html
 version: success
-processing_time: 0.1416695
-conversion_datetime: 2026-08-22 22:49:00.517422
+processing_time: 0.1402994
+conversion_datetime: 2026-08-22 23:23:23.088712
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

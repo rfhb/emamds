@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-23 14:18:00
+document_datetime: 2026-08-21 14:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/taltz.html
 document_name: taltz.html
 version: success
-processing_time: 0.1425555
-conversion_datetime: 2026-04-25 16:53:17.591395
+processing_time: 0.1641378
+conversion_datetime: 2026-08-22 22:44:53.217437
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Taltz
 
@@ -75,7 +75,7 @@ Expand section
 
 Collapse section
 
-## How is Taltz used?
+### How is Taltz used?
 
 Taltz can only be obtained with a prescription. It should be used under the supervision of a doctor experienced in diagnosing and treating people with the condition it is used for.
 
@@ -85,11 +85,11 @@ If no improvement is seen after 16 to 20 weeks of treatment, the doctor may deci
 
 For more information about using Taltz, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Taltz work?
+### How does Taltz work?
 
 The active substance in Taltz, ixekizumab, is a protein called a monoclonal antibody. It works by attaching to another protein called interleukin 17A, which plays a key role in causing inflammation in people with plaque psoriasis, psoriatic arthritis, axial spondyloarthritis and enthesitis-related arthritis. By blocking interleukin 17A, ixekizumab helps reduce the activity of the immune system (the body's natural defences) and the symptoms of these inflammatory conditions.
 
-## What benefits of Taltz have been shown in studies?
+### What benefits of Taltz have been shown in studies?
 
 **Plaque psoriasis**
 
@@ -107,7 +107,8 @@ In the first study, which involved adults who had not been treated with biologic
 
 **Axial spondyloarthritis**
 
-Taltz was shown to be effective in treating radiographic and non-radiographic axial spondyloarthritis in three main studies. The first study involved 341 adults with radiographic axial spondyloarthritis who had not been treated with DMARDs before. After 16 weeks of treatment, around 48% (39 out of 81) of those given Taltz had at least a 40% improvement in signs and symptoms (ASAS40), compared with around 36% (32 out of 90) of those given adalimumab and 18% (16 out of 87) of those given placebo.
+Taltz was shown to be effective in treating radiographic and non-radiographic axial spondyloarthritis in three main studies.  
+The first study involved 341 adults with radiographic axial spondyloarthritis who had not been treated with DMARDs before. After 16 weeks of treatment, around 48% (39 out of 81) of those given Taltz had at least a 40% improvement in signs and symptoms (ASAS40), compared with around 36% (32 out of 90) of those given adalimumab and 18% (16 out of 87) of those given placebo.
 
 The second study involved 316 adults with radiographic axial spondyloarthritis who had previously been treated with other medicines called TNF inhibitors. After 16 weeks of treatment, around 25% (29 out of 114) of those given Taltz achieved a 40% improvement, compared with around 13% (13 out of 104) of those given placebo.
 
@@ -119,7 +120,7 @@ In a main study involving 101 children aged 5 years and older, Taltz was effecti
 
 After 16 weeks of treatment, around 89% (72 out of 81) of children given Taltz had at least a 30% improvement. In addition, 79% (64 out of 81) of children treated with Taltz had at least a 50% improvement (ACR50), and around 64% (52 out of 81) had at least a 70% improvement (ACR70).
 
-## What are the risks associated with Taltz?
+### What are the risks associated with Taltz?
 
 For the full list of side effects and restrictions with Taltz, see the package leaflet.
 
@@ -127,7 +128,7 @@ The most common side effects with Taltz (which may affect more than 1 in 10 peop
 
 Taltz must not be given to patients who have serious infections such as tuberculosis.
 
-## Why is Taltz authorised in the EU?
+### Why is Taltz authorised in the EU?
 
 Studies showed that Taltz is effective in treating moderate-to-severe plaque psoriasis, psoriatic arthritis, axial spondyloarthritis and enthesitis-related arthritis.
 
@@ -135,13 +136,13 @@ Regarding safety, the side effects of Taltz are in line with those of other medi
 
 The European Medicines Agency therefore decided that Taltz's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Taltz?
+### What measures are being taken to ensure the safe and effective use of Taltz?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Taltz have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Taltz are continuously monitored. Suspected side effects reported with Taltz are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Taltz
+### Other information about Taltz
 
 Taltz received a marketing authorisation valid throughout the EU on 25 April 2016.
 
@@ -155,7 +156,7 @@ English (EN) (110.04 KB - PDF)
 
 [View](/en/documents/overview/taltz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-284)
+[Other languages (22)](#file-language-dropdown-830)
 
 български (BG) (137.64 KB - PDF)
 
@@ -187,7 +188,7 @@ Deutsch (DE) (113.48 KB - PDF)
 
 [View](/de/documents/overview/taltz-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (104.56 KB - PDF)
+eesti (ET) (104.56 KB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 11/09/2025
 
@@ -217,13 +218,13 @@ italiano (IT) (106.62 KB - PDF)
 
 [View](/it/documents/overview/taltz-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (149.59 KB - PDF)
+latviešu (LV) (149.59 KB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/lv/documents/overview/taltz-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (131.72 KB - PDF)
+lietuvių (LT) (131.72 KB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 11/09/2025
 
@@ -277,7 +278,7 @@ slovenščina (SL) (131.65 KB - PDF)
 
 [View](/sl/documents/overview/taltz-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (103.94 KB - PDF)
+suomi (FI) (103.94 KB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 11/09/2025
 
@@ -291,9 +292,9 @@ svenska (SV) (106.55 KB - PDF)
 
 Taltz : EPAR - Risk management plan
 
-English (EN) (1.13 MB - PDF)
+English (EN) (1.1 MB - PDF)
 
-**First published:** 11/06/2020 **Last updated:** 26/02/2026
+**First published:** 11/06/2020 **Last updated:** 21/08/2026
 
 [View](/en/documents/rmp/taltz-epar-risk-management-plan_en.pdf)
 
@@ -307,7 +308,7 @@ English (EN) (2.38 MB - PDF)
 
 [View](/en/documents/product-information/taltz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-344)
+[Other languages (24)](#file-language-dropdown-800)
 
 български (BG) (2.53 MB - PDF)
 
@@ -339,7 +340,7 @@ Deutsch (DE) (2.5 MB - PDF)
 
 [View](/de/documents/product-information/taltz-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.08 MB - PDF)
+eesti (ET) (2.08 MB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 23/04/2026
 
@@ -363,25 +364,19 @@ hrvatski (HR) (2.71 MB - PDF)
 
 [View](/hr/documents/product-information/taltz-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.32 MB - PDF)
-
-**First published:** 02/05/2016 **Last updated:** 23/04/2026
-
-[View](/is/documents/product-information/taltz-epar-product-information_is.pdf)
-
 italiano (IT) (2.38 MB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/it/documents/product-information/taltz-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.74 MB - PDF)
+latviešu (LV) (2.74 MB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/lv/documents/product-information/taltz-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.48 MB - PDF)
+lietuvių (LT) (2.48 MB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 23/04/2026
 
@@ -404,12 +399,6 @@ Nederlands (NL) (2.37 MB - PDF)
 **First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/nl/documents/product-information/taltz-epar-product-information_nl.pdf)
-
-norsk (NO) (2.28 MB - PDF)
-
-**First published:** 02/05/2016 **Last updated:** 23/04/2026
-
-[View](/no/documents/product-information/taltz-epar-product-information_no.pdf)
 
 polski (PL) (2.84 MB - PDF)
 
@@ -441,7 +430,7 @@ slovenščina (SL) (2.5 MB - PDF)
 
 [View](/sl/documents/product-information/taltz-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.46 MB - PDF)
+suomi (FI) (2.46 MB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 23/04/2026
 
@@ -453,6 +442,18 @@ svenska (SV) (2 MB - PDF)
 
 [View](/sv/documents/product-information/taltz-epar-product-information_sv.pdf)
 
+Íslenska (IS) (2.32 MB - PDF)
+
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
+
+[View](/is/documents/product-information/taltz-epar-product-information_is.pdf)
+
+norsk (NO) (2.28 MB - PDF)
+
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
+
+[View](/no/documents/product-information/taltz-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000323136
 
 26/03/2026
@@ -461,7 +462,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -479,7 +481,7 @@ English (EN) (65.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-536)
+[Other languages (24)](#file-language-dropdown-411)
 
 български (BG) (62.7 KB - PDF)
 
@@ -511,7 +513,7 @@ Deutsch (DE) (72.03 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (63.45 KB - PDF)
+eesti (ET) (63.45 KB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 07/04/2025
 
@@ -535,25 +537,19 @@ hrvatski (HR) (72.93 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (65.49 KB - PDF)
-
-**First published:** 02/05/2016 **Last updated:** 07/04/2025
-
-[View](/is/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (46.34 KB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/it/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (91.69 KB - PDF)
+latviešu (LV) (91.69 KB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/lv/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (83.47 KB - PDF)
+lietuvių (LT) (83.47 KB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 07/04/2025
 
@@ -576,12 +572,6 @@ Nederlands (NL) (66.63 KB - PDF)
 **First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/nl/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (66.55 KB - PDF)
-
-**First published:** 02/05/2016 **Last updated:** 07/04/2025
-
-[View](/no/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (93 KB - PDF)
 
@@ -613,7 +603,7 @@ slovenščina (SL) (74.23 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (63.87 KB - PDF)
+suomi (FI) (63.87 KB - PDF)
 
 **First published:** 02/05/2016 **Last updated:** 07/04/2025
 
@@ -625,30 +615,33 @@ svenska (SV) (53.62 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (65.49 KB - PDF)
+
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
+
+[View](/is/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (66.55 KB - PDF)
+
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
+
+[View](/no/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Taltz
-
-Active substance
-
-ixekizumab
-
-International non-proprietary name (INN) or common name
-
-ixekizumab
-
-Therapeutic area (MeSH)
-
-- Psoriasis
-- Arthritis, Psoriatic
-- Axial Spondyloarthritis
-- Arthritis, Juvenile
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AC13
+- **Name of medicine**
+    - Taltz
+- **Active substance**
+    - ixekizumab
+- **International non-proprietary name (INN) or common name**
+    - ixekizumab
+- **Therapeutic area (MeSH)**
+        - Psoriasis
+        - Arthritis, Psoriatic
+        - Axial Spondyloarthritis
+        - Arthritis, Juvenile
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC13
 
 ### Pharmacotherapeutic group
 
@@ -656,37 +649,44 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Plaque psoriasis Taltz is indicated for the treatment of moderate to severe plaque psoriasis in adults who are candidates for systemic therapy. Paediatric plaque psoriasis Taltz is indicated for the treatment of moderate to severe plaque psoriasis in children from the age of 6 years and with a body weight of at least 25 kg and adolescents who are candidates for systemic therapy. Psoriatic arthritis Taltz, alone or in combination with methotrexate, is indicated for the treatment of active psoriatic arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more disease-modifying anti-rheumatic drug (DMARD) therapies. Axial spondyloarthritis
+Plaque psoriasis  
+Taltz is indicated for the treatment of moderate to severe plaque psoriasis in adults who are candidates for systemic therapy.
 
-Ankylosing spondylitis (radiographic axial spondyloarthritis) Taltz is indicated for the treatment of adult patients with active ankylosing spondylitis who have responded inadequately to conventional therapy.
+Paediatric plaque psoriasis  
+Taltz is indicated for the treatment of moderate to severe plaque psoriasis in children from the age of 6 years and with a body weight of at least 25 kg and adolescents who are candidates for systemic therapy.
+
+Psoriatic arthritis  
+Taltz, alone or in combination with methotrexate, is indicated for the treatment of active psoriatic arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more disease-modifying anti-rheumatic drug (DMARD) therapies.
+
+Axial spondyloarthritis
+
+Ankylosing spondylitis (radiographic axial spondyloarthritis)  
+Taltz is indicated for the treatment of adult patients with active ankylosing spondylitis who have responded inadequately to conventional therapy.
 
 Non-radiographic axial spondyloarthritis
 
-Taltz is indicated for the treatment of adult patients with active non-radiographic axial spondyloarthritis with objective signs of inflammation as indicated by elevated C-reactive protein (CRP) and/or magnetic resonance imaging (MRI) who have responded inadequately to nonsteroidal anti-inflammatory drugs (NSAIDs). Juvenile idiopathic arthritis (JIA) Juvenile psoriatic arthritis (JPsA) Taltz, alone or in combination with methotrexate, is indicated for the treatment of active JPsA in patients 6 years of age and older and with a body weight of at least 25 kg, who have had an inadequate response to, or who are intolerant of, conventional therapy. Enthesitis-related arthritis (ERA) Taltz, alone or in combination with methotrexate, is indicated for the treatment of active ERA in patients 6 years of age and older and with a body weight of at least 25 kg, who have had an inadequate response to, or who are intolerant of, conventional therapy.
+Taltz is indicated for the treatment of adult patients with active non-radiographic axial spondyloarthritis with objective signs of inflammation as indicated by elevated C-reactive protein (CRP) and/or magnetic resonance imaging (MRI) who have responded inadequately to nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+Juvenile idiopathic arthritis (JIA)
+
+Juvenile psoriatic arthritis (JPsA)  
+Taltz, alone or in combination with methotrexate, is indicated for the treatment of active JPsA in patients 6 years of age and older and with a body weight of at least 25 kg, who have had an inadequate response to, or who are intolerant of, conventional therapy.
+
+Enthesitis-related arthritis (ERA)  
+Taltz, alone or in combination with methotrexate, is indicated for the treatment of active ERA in patients 6 years of age and older and with a body weight of at least 25 kg, who have had an inadequate response to, or who are intolerant of, conventional therapy.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/003943
-
-Marketing authorisation holder
-
-Eli Lilly and Company (Ireland) Limited
-
-Dunderrow
-
-Opinion adopted
-
-25/02/2016
-
-Marketing authorisation issued
-
-25/04/2016
-
-Revision
-
-21
+- **EMA product number**
+    - EMEA/H/C/003943
+- **Marketing authorisation holder**
+    - Eli Lilly and Company (Ireland) Limited Dunderrow  Kinsale  Co. Cork  Ireland
+- **Opinion adopted**
+    - 25/02/2016
+- **Marketing authorisation issued**
+    - 25/04/2016
+- **Revision**
+    - 22
 
 ## Assessment history
 
@@ -694,13 +694,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Taltz : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.31 KB - PDF)
+English (EN) (174.16 KB - PDF)
 
-**First published:** 22/07/2025 **Last updated:** 23/04/2026
+**First published:** 22/07/2025 **Last updated:** 21/08/2026
 
 [View](/en/documents/procedural-steps-after/taltz-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -820,7 +820,7 @@ English (EN) (63.41 KB - PDF)
 
 **First published:** 11/01/2018 **Last updated:** 11/01/2018
 
-[View](/en/documents/scientific-conclusion/taltz-h-c-psusa-00010493-201709-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/taltz-h-c-psusa-00010493-201709-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Taltz (II-09)
 
@@ -832,7 +832,7 @@ English (EN) (62.07 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-taltz-ii-09_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Taltz : EPAR - Public assessment report
 
@@ -890,6 +890,6 @@ English (EN) (68.8 KB - PDF)
 
 **This page was last updated on**
 
-23/04/2026
+21/08/2026
 
 ## Share this page

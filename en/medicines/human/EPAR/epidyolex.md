@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/epidyolex.html
 document_name: epidyolex.html
 version: success
-processing_time: 0.1687491
-conversion_datetime: 2026-08-22 22:54:50.813691
+processing_time: 0.166117
+conversion_datetime: 2026-08-22 23:29:06.034314
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

@@ -4,8 +4,8 @@ document_pages: 16
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/xeljanz-vr-0000339481-epar-assessment-report-variation_en.pdf
 document_name: xeljanz-vr-0000339481-epar-assessment-report-variation_en.pdf
 version: success
-processing_time: 13.1901166
-conversion_datetime: 2026-08-22 22:58:51.177897
+processing_time: 8.7367187
+conversion_datetime: 2026-08-22 23:33:03.484698
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

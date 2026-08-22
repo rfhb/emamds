@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-02 10:08:22
+document_datetime: 2026-08-21 10:07:40
 document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/krazati-epar-product-information_en.pdf
 document_name: krazati-epar-product-information_en.pdf
 version: success
-processing_time: 5.886732
-conversion_datetime: 2025-12-23 04:53:49.624476
+processing_time: 6.3675153
+conversion_datetime: 2026-08-23 00:36:56.607306
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -93,10 +93,6 @@ Table 2: Recommended dosage modifications for adverse reactions
 | QTc Prolongation                                                                       | Grade 3 (QTc ≥ 501 ms or > 60 ms change from baseline)                                   | Withhold KRAZATI until recovery to ≤ Grade 1 or return to baseline Resume KRAZATI at the next lower dose level |
 | QTc Prolongation                                                                       | Grade 4 (ventricular arrhythmia)                                                         | Permanently discontinue KRAZATI                                                                                |
 | Other adverse reactions                                                                | Grade 3 or 4                                                                             | Withhold KRAZATI until recovery to ≤ Grade 1 or return to baseline Resume KRAZATI at the next lower dose level |
-
-ALT = alanine aminotransferase; AST = aspartate aminotransferase; ULN = upper limit of normal
-
-a  Grading defined by National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 5.0
 
 ## Special populations
 
@@ -182,11 +178,9 @@ Adagrasib Cmax increased by 2.4-fold and AUC increased by 4-fold following conco
 
 ## Substrates of cytochrome P450 (CYP) enzymes
 
-CYP3A4 substrates: Co-administration of oral midazolam (a sensitive CYP3A4 substrate) with multiple doses of adagrasib (400 mg BID) increased midazolam AUC by approximately 21-fold in healthy subjects. Administration of multiple doses of adagrasib at 600 mg BID in patients is predicted
+CYP3A4 substrates: Co-administration of oral midazolam (a sensitive CYP3A4 substrate) with multiple doses of adagrasib (400 mg BID) increased midazolam AUC by approximately 21-fold in healthy subjects. Administration of multiple doses of adagrasib at 600 mg BID in patients is predicted to increase oral midazolam AUC by 31-fold. Avoid concomitant use of adagrasib with sensitive CYP3A substrates unless otherwise recommended in the SmPC for these substrates.
 
 <div style=\"page-break-after: always\"></div>
-
-to increase oral midazolam AUC by 31-fold. Avoid concomitant use of adagrasib with sensitive CYP3A substrates unless otherwise recommended in the SmPC for these substrates.
 
 CYP2C9 substrates: In vitro , adagrasib inhibits CYP2C9. Avoid concomitant use of adagrasib with sensitive CYP2C9 substrates where minimal concentration changes may lead to serious adverse reactions unless otherwise recommended in the SmPC for these substrates.
 
@@ -228,7 +222,9 @@ No clinical data are available on the possible effects of adagrasib on fertility
 
 ## 4.7 Effects on ability to drive and use machines
 
-Adagrasib has minor influence on the ability to drive and use machines. Dizziness (including vertigo and fatigue) may occur following administration of adagrasib (see section 4.8). Patients should be advised that dizziness may occur and that, if affected, they should not drive, use machines, or take part in other activities where this would put themselves or others at risk.
+Adagrasib has minor influence on the ability to drive and use machines. Dizziness (including vertigo
+
+and fatigue) may occur following administration of adagrasib (see section 4.8). Patients should be advised that dizziness may occur and that, if affected, they should not drive, use machines, or take part in other activities where this would put themselves or others at risk.
 
 ## 4.8 Undesirable effects
 
@@ -287,19 +283,11 @@ Table 3: Adverse reactions reported in patients treated with adagrasib
 | Fatigue 4                                            | Very common                                                                          | 54.3                                                                                 | 9.0                                                                                  |
 | Peripheral oedema                                    | Very common                                                                          | 23.0                                                                                 | < 1                                                                                  |
 
-1  Includes lymphocyte count decreased and lymphocytopenia
-
-2 Includes dizziness and vertigo
-
-3  Includes AST increased, ALT increased, blood alkaline phosphatase increased, blood bilirubin increased, Gammaglutamyltransferase increased, hepatic enzyme increased, liver function test increased, bilirubin conjugated increased, druginduced liver injury, hepatic cytolysis, hepatic failure, hepatitis, hepatotoxicity, hyperbilirubinaemia, hypertransaminasaemia, liver injury, and transaminases increased and mixed liver injury
-
-4 Includes fatigue and asthenia
-
 ## Description of selected adverse reactions
 
 ## Gastrointestinal adverse reactions
 
-Gastrointestinal (GI) adverse reactions occur in 85.3% of patients taking adagrasib and include diarrhoea (65.2 %, ≥ G3 5.1%), nausea (59.9 %, ≥ G3 4.6%), and vomiting (50.3 %, ≥ G3 3.3%). These events may lead to potential consequences such as dehydration, hyponatraemia, blood creatinine increased, and acute kidney injury.
+Gastrointestinal (GI) adverse reactions occur in 85.3% of patients taking adagrasib and include diarrhoea (65.2%, ≥ G3 5.1%), nausea (59.9%, ≥ G3 4.6%), and vomiting (50.3%, ≥ G3 3.3%). These events may lead to potential consequences such as dehydration, hyponatraemia, blood creatinine increased, and acute kidney injury.
 
 Diarrhoea, nausea and vomiting resulted in dose interruption or reduction in 13.3%, 14.7% and 13.4% of patients respectively. Discontinuations due to nausea was 0.4%, diarrhoea was 0.2% and vomiting was 0.1%.
 
@@ -307,7 +295,7 @@ Diarrhoea, nausea and vomiting resulted in dose interruption or reduction in 13.
 
 ## Hepatotoxicity
 
-Hepatotoxicity-related reactions were reported in 41.0% (all grades) and 11.3 % (Grade ≥ 3) of patients treated with adagrasib. Elevations of ALT occurred in 28.3% of patients and elevations of AST in 29.0% of patients. Grade ≥ 3 elevations of ALT and AST each occurred in 6.6% and 4.6% of patients, respectively. Liver injury has been reported in &lt; 1% of patients. Median time to first onset of adverse reactions was 22 days for ALT and AST increased, 63 days for blood bilirubin increased and 22 days for blood alkaline phosphatase increased, with a median duration of 22, 13 and 35 days, respectively.
+Hepatotoxicity-related reactions were reported in 41.0% (all grades) and 11.3% (Grade ≥ 3) of patients treated with adagrasib. Elevations of ALT occurred in 28.3% of patients and elevations of AST in 29.0% of patients. Grade ≥ 3 elevations of ALT and AST each occurred in 6.6% and 4.6% of patients, respectively. Liver injury has been reported in &lt; 1% of patients. Median time to first onset of adverse reactions was 22 days for ALT and AST increased, 63 days for blood bilirubin increased and 22 days for blood alkaline phosphatase increased, with a median duration of 22, 13 and 35 days, respectively.
 
 Elevations of ALT resulted in dose interruption and/or reduction in 10.2% of patients, and elevations of AST resulted in dose interruption and/or reduction in 7.3% of patients. Discontinuations due to elevations of AST or ALT was 0.1% and 0.5% respectively.
 
@@ -329,7 +317,7 @@ Blood creatinine increased led to dose reduction or interruption in 6.9% of pati
 
 ## Hyponatraemia
 
-Hyponatraemia was reported in 17.1% (all grades) and 4.0 % (grade ≥ 3) of patients treated with adagrasib. Hyponatraemia led to dose reduction or interruption in 1.9% of patients. Median time to the first onset from first dose was 22 days, with a median duration of 15 days. No hyponatraemia leading to treatment discontinuation was observed.
+Hyponatraemia was reported in 17.1% (all grades) and 4.0% (grade ≥ 3) of patients treated with adagrasib. Hyponatraemia led to dose reduction or interruption in 1.9% of patients. Median time to the first onset from first dose was 22 days, with a median duration of 15 days. No hyponatraemia leading to treatment discontinuation was observed.
 
 ## Lymphocyte count decreased
 
@@ -373,11 +361,9 @@ The primary efficacy endpoint for Cohort A was objective response rate (ORR) in 
 
 A total of 116 patients were enrolled and treated with adagrasib for a median of 5.7 months and a mean of 7.0 months.
 
-The median age was 64.0 years (range: 25 to 89 years); 56.0% were female; 83.6% were White; 7.8% were Black; 4.3% were Asian, and 4.3% were other. Eastern Cooperative Oncology Group (ECOG) performance status was 0 (15.5%) or 1 (83.6%). Tumour histology was adenocarcinoma for 97.4% of
+The median age was 64.0 years (range: 25 to 89 years); 56.0% were female; 83.6% were White; 7.8% were Black; 4.3% were Asian, and 4.3% were other. Eastern Cooperative Oncology Group (ECOG) performance status was 0 (15.5%) or 1 (83.6%). Tumour histology was adenocarcinoma for 97.4% of patients, and 88.8% of patients had metastatic disease. Patients received a median of 2 prior systemic therapies (range: 1 to 7); 43.1% received 1 line, 34.5% received 2 lines, 10.3% received 3 lines, and 12.1% received 4 or more lines; 98.3% received both prior platinum and prior anti-PD-1/PD-L1 therapy. Sites of disease included lung 86.2%, lymph node 58.6%, bone 43.1%, brain 29.3%, liver 20.7%, adrenals 19.8%, and other 30.2%.
 
 <div style=\"page-break-after: always\"></div>
-
-patients, and 88.8% of patients had metastatic disease. Patients received a median of 2 prior systemic therapies (range: 1 to 7); 43.1% received 1 line, 34.5% received 2 lines, 10.3% received 3 lines, and 12.1% received 4 or more lines; 98.3% received both prior platinum and prior anti-PD-1/PD-L1 therapy. Sites of disease included lung 86.2%, lymph node 58.6%, bone 43.1%, brain 29.3%, liver 20.7%, adrenals 19.8%, and other 30.2%.
 
 Efficacy results are summarised in Table 4.
 
@@ -386,20 +372,12 @@ Table 4: Efficacy results for patients with advanced KRAS G12C-mutant NSCLC prev
 | Endpoint                                      | Adagrasib (n = 116)   |
 |-----------------------------------------------|-----------------------|
 | Objective response rate (95% CI) a,b          | 41.4 (32.3, 50.9)     |
-| Complete response rate,%                      | 0.9                   |
-| Partial response rate,%                       | 40.5                  |
+| Complete response rate, %                     | 0.9                   |
+| Partial response rate, %                      | 40.5                  |
 | Duration of response a,b                      |                       |
 | Number of patients with an objective response | 48                    |
 | Median in months (95% CI)                     | 8.5 (6.2, 13.8)       |
-| Proportion of responses ≥ 6 months,% c        | 58.3                  |
-
-CI = Confidence interval
-
-a  Assessed by Blinded Independent Central Review (BICR)
-
-b  Based on 15 October 2021 data cut
-
-c  Observed proportion of patients with duration of response beyond landmark time
+| Proportion of responses ≥ 6 months, % c       | 58.3                  |
 
 ## Paediatric population
 
@@ -499,17 +477,21 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
+Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/23/1744/001 EU/1/23/1744/002
+EU/1/23/1744/001
+
+EU/1/23/1744/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 05 January 2024
 
-Date of renewal: 18 November 2024
+Date of renewal: 17 November 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -566,9 +548,9 @@ An updated RMP should be submitted:
 
 This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                     | Due date   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| In order to further confirm the efficacy and safety of adagrasib in the treatment of patients with KRAS G12C-mutated NSCLC, the MAHshould submit the final clinical study report including the final OS analysis for the phase 3 clinical study KRYSTAL-12, comparing adagrasib versus docetaxel for the treatment of previously treated patients with KRAS G12C mutated NSCLC. The clinical study report will be submitted by: | Q3/2026    |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                      | Due date   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| In order to further confirm the efficacy and safety of adagrasib in the treatment of patients with KRAS G12C-mutated NSCLC, the MAH should submit the final clinical study report including the final OS analysis for the phase 3 clinical study KRYSTAL-12, comparing adagrasib versus docetaxel for the treatment of previously treated patients with KRAS G12C mutated NSCLC. The clinical study report will be submitted by: | Q2/2027    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -616,9 +598,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Store in the original package in order to protect from moisture. Keep the bottle tightly closed.
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -626,7 +608,9 @@ Store in the original package in order to protect from moisture. Keep the bottle
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
+Bristol-Myers Squibb Pharma EEIG
+
+Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -659,8 +643,6 @@ NN [Outer packaging only]
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 ## Package leaflet: Information for the patient
 
@@ -905,9 +887,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What KRAZATI contains
 
 - -The active substance is adagrasib. Each film-coated tablet contains 200 mg adagrasib.
-- -The other ingredients are:
-
-## Tablet core
+- -
+- The other ingredients are: Tablet core
 
 Microcrystalline cellulose (E 460), mannitol (E 421), crospovidone, silica colloidal anhydrous (E 551), magnesium stearate (vegetable).
 
@@ -945,41 +926,27 @@ Tel: + 420 221 016 111
 
 medinfo.czech@bms.com
 
-Danmark Bristol-Myers Squibb Denmark
-
-Tlf: + 45 45 93 05 06
+Danmark Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06
 
 medinfo.denmark@bms.com
 
-## Deutschland
+Deutschland Bristol-Myers Squibb GmbH &amp; Co. KGaA Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
 
-Bristol-Myers Squibb GmbH &amp; Co. KGaA Tel: 0800 0752002 (+ 49 89 121 42 350)
+## Eesti
 
-medwiss.info@bms.com
-
-Eesti Swixx Biopharma OÜ
-
-Tel: + 372 640 1030
+Swixx Biopharma OÜ Tel: + 372 640 1030
 
 medinfo.estonia@swixxbiopharma.com
 
-Ελλάδα Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
+Ελλάδα
 
-medinfo.greece@bms.com
+Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300 medinfo.greece@bms.com
 
 España
 
 Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00 informacion.medica@bms.com
 
-France Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96 infomed@bms.com
-
-Lietuva
-
-Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com
-
-Luxembourg/Luxemburg N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
-
-Magyarország Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797
+France Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96 infomed@bms.com Lietuva Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com Luxembourg/Luxemburg N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com Magyarország Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797
 
 Medinfo.hungary@bms.com
 
@@ -987,9 +954,9 @@ Malta A.M. Mangion Ltd Tel: + 356 23976333
 
 pv@ammangion.com
 
-Nederland
+Nederland Tel: + 31 (0)30 300 2222
 
-Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
+Bristol-Myers Squibb B.V. medischeafdeling@bms.com
 
 Norge Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
 
@@ -1035,7 +1002,11 @@ Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300) medinfo.greece@bm
 
 ## Latvija
 
-Swixx Biopharma SIA Tel: + 371 66164750 medinfo.latvia@swixxbiopharma.com
+Swixx Biopharma SIA
+
+Tel: + 371 66164750
+
+medinfo.latvia@swixxbiopharma.com
 
 ## This leaflet was last revised in month YYYY.
 

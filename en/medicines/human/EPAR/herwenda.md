@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/herwenda.html
 document_name: herwenda.html
 version: success
-processing_time: 0.1665863
-conversion_datetime: 2026-08-22 22:53:45.117511
+processing_time: 0.1450597
+conversion_datetime: 2026-08-22 23:27:59.821118
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

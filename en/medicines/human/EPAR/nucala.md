@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-22 12:02:00
+document_datetime: 2026-08-19 15:23:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nucala.html
 document_name: nucala.html
 version: success
-processing_time: 0.349744
-conversion_datetime: 2026-07-28 12:56:54.867373
+processing_time: 0.2122526
+conversion_datetime: 2026-08-22 22:49:49.763734
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Nucala
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Nucala](#news-on)
 - [More information on Nucala](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -122,7 +121,7 @@ English (EN) (157.41 KB - PDF)
 
 [View](/en/documents/overview/nucala-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-318)
+[Other languages (22)](#file-language-dropdown-369)
 
 български (BG) (156.26 KB - PDF)
 
@@ -274,7 +273,7 @@ English (EN) (2.19 MB - PDF)
 
 [View](/en/documents/product-information/nucala-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-595)
+[Other languages (23)](#file-language-dropdown-116)
 
 español (ES) (2.14 MB - PDF)
 
@@ -422,7 +421,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -441,7 +440,7 @@ English (EN) (78.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nucala-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-698)
+[Other languages (24)](#file-language-dropdown-240)
 
 български (BG) (84.03 KB - PDF)
 
@@ -607,16 +606,20 @@ Drugs for obstructive airway diseases
 ### Therapeutic indication
 
 Severe eosinophilic asthma
-Nucala is indicated as an add-on treatment for severe refractory eosinophilic asthma in adults, adolescents and children aged 6 years and older .
+
+- Nucala is indicated as an add-on treatment for severe refractory eosinophilic asthma in adults, adolescents and children aged 6 years and older .
 
 Chronic rhinosinusitis with nasal polyps (CRSwNP)
-Nucala is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adult patients with severe CRSwNP for whom therapy with systemic corticosteroids and/or surgery do not provide adequate control.
+
+- Nucala is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adult patients with severe CRSwNP for whom therapy with systemic corticosteroids and/or surgery do not provide adequate control.
 
 Eosinophilic granulomatosis with polyangiitis (EGPA)
-Nucala is indicated as an add-on treatment for patients aged 6 years and older with relapsing-remitting or refractory eosinophilic granulomatosis with polyangiitis (EGPA).
+
+- Nucala is indicated as an add-on treatment for patients aged 6 years and older with relapsing-remitting or refractory eosinophilic granulomatosis with polyangiitis (EGPA).
 
 Hypereosinophilic syndrome (HES)
-Nucala is indicated as an add-on treatment for adult patients with inadequately controlled hypereosinophilic syndrome without an identifiable non-haematologic secondary cause.
+
+- Nucala is indicated as an add-on treatment for adult patients with inadequately controlled hypereosinophilic syndrome without an identifiable non-haematologic secondary cause.
 
 ## Authorisation details
 
@@ -629,7 +632,7 @@ Nucala is indicated as an add-on treatment for adult patients with inadequately 
 - **Marketing authorisation issued**
     - 01/12/2015
 - **Revision**
-    - 28
+    - 29
 
 ## Assessment history
 
@@ -654,6 +657,26 @@ English (EN) (231.35 KB - PDF)
 **First published:** 15/04/2016 **Last updated:** 04/12/2025
 
 [View](/en/documents/procedural-steps-after/nucala-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Nucala-PAM-0000336241 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2988231
+
+English (EN) (1.66 MB - PDF)
+
+**First published:** 19/08/2026
+
+[View](/en/documents/variation-report/nucala-pam-0000336241-epar-assessment-report_en.pdf)
+
+Nucala-PAM-0000324417 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2857977
+
+English (EN) (1.07 MB - PDF)
+
+**First published:** 19/08/2026
+
+[View](/en/documents/variation-report/nucala-pam-0000324417-epar-assessment-report_en.pdf)
 
 Nucala-PAM-0000327347 : EPAR - Assessment report
 
@@ -896,20 +919,16 @@ English (EN) (67.37 KB - PDF)
 - [EMEA-000069-PIP05-16 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000069-pip05-16)
 - [Nucala - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/nucala)
 - [Nucala - supply shortage](/en/medicines/human/shortages/nucala)
+- [A post-authorisation safety study (PASS) to describe real-world safety and effectiveness of NUCALA (mepolizumab) in paediatric eosinophilic granulomatosis with polyangiitis (EGPA) patients in Europe (218065) - post-authorisation study](https://catalogues.ema.europa.eu/study/49461)
+- [Sustainability of response to biologics in severe asthma and predictors of late failure among patients in an international registry (SHINE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000788)
 - [Associations between biological and clinical response following treatment with anti-IL5/5R biologics (FLAME) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000531)
 - [Impact of biologics on inhaled corticosteroids reduction (MOON LIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000855)
-- [Sustainability of response to biologics in severe asthma and predictors of late failure among patients in an international registry (SHINE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000788)
 - [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
-- [A post-authorisation safety study (PASS) to describe real-world safety and effectiveness of NUCALA (mepolizumab) in paediatric eosinophilic granulomatosis with polyangiitis (EGPA) patients in Europe (218065) - post-authorisation study](https://catalogues.ema.europa.eu/study/49461)
 - [Assessing the impact of earlier access to biologics on remission and natural course of asthma (GLEAM) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000530)
 - [Nucala Subcutaneous Injection Special Drug Use Investigation (Long-Term) (204524) - post-authorisation study](https://catalogues.ema.europa.eu/study/38541)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-22/07/2026
+19/08/2026
 
 ## Share this page

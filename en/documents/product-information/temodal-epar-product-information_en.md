@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-06 14:49:35
+document_datetime: 2026-08-18 11:00:13
 document_pages: 79
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/temodal-epar-product-information_en.pdf
 document_name: temodal-epar-product-information_en.pdf
 version: success
-processing_time: 20.0603201
-conversion_datetime: 2025-12-27 16:19:17.478347
+processing_time: 20.111859
+conversion_datetime: 2026-08-23 00:52:11.457611
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,9 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Temodal 5 mg hard capsules Temodal 20 mg hard capsules Temodal 100 mg hard capsules Temodal 140 mg hard capsules Temodal 180 mg hard capsules Temodal 250 mg hard capsules
+Temodal 5 mg hard capsules Temodal 20 mg hard capsules Temodal 100 mg hard capsules Temodal 140 mg hard capsules Temodal 180 mg hard capsules
+
+Temodal 250 mg hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -80,19 +82,19 @@ For the full list of  excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## 5 mg hard capsule (capsule).
-
-The hard capsules have an opaque white body, an opaque green cap, and are imprinted with black ink. The cap is imprinted with ' TEMODAL '. The body is imprinted with \"5 mg\", the Schering-Plough logo and two stripes.
+5 mg hard capsule (capsule).
 
 <div style=\"page-break-after: always\"></div>
 
+The hard capsules have an opaque white body, an opaque green cap, and are imprinted with black ink. The cap is imprinted with ' TEMODAL '. The body is imprinted with \"5 mg\", the Schering-Plough logo and two stripes.
+
 ## 20 mg hard capsule (capsule)
 
-The hard capsules have an opaque white body, an opaque yellow cap, and are imprinted with black ink. The cap is imprinted with ' TEMODAL '. The body is imprin ted with \"20 mg\", the ScheringPlough logo and two stripes.
+The hard capsules have an opaque white body, an opaque yellow cap, and are imprinted with black ink. The cap is imprinted with ' TEMODAL '.  The body is imprinted with \"20 mg\", the ScheringPlough logo and two stripes.
 
 ## 100 mg hard capsule (capsule)
 
-The hard capsules have an opaque white body, an opaque pink cap, and are imprinted with black ink. The cap is imprinted with ' TEMODAL '. The body is imprinted with \" 100 mg\", the Schering-Plough logo and two stripes.
+The hard capsules have an opaque white body, an opaque pink cap, and are imprinted with black ink. The cap is imprinted with ' TEMODAL '. The body is imprinted with \"100 mg\", the Schering-Plough logo and two stripes.
 
 ## 140 mg hard capsule (capsule)
 
@@ -100,7 +102,7 @@ The hard capsules have an opaque white body, a blue cap, and are imprinted with 
 
 ## 180 mg hard capsule (capsule)
 
-The hard capsules have an opaque white body, an opaque orange cap, and are imprinted with black ink. The cap is imprinted with ' TEMODAL '. The body is imprinted with \"180 mg\", the ScheringPlough logo and two stripes.
+The hard capsules have an opaque white body, an opaque orange cap, and are imprinted with black ink. The cap is imprinted with ' TEMODAL '.  The body is imprinted with \"180 mg\", the ScheringPlough logo and two stripes.
 
 ## 250 mg hard capsule (capsule)
 
@@ -121,13 +123,13 @@ Temodal should only be prescribed by physicians experienced in the oncological t
 
 Anti-emetic therapy may be administered (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Posology
 
 ## Adult patients with newly-diagnosed glioblastoma multiforme
 
 Temodal is administered in combination with focal radiotherapy (concomitant phase) followed by up to 6 cycles of temozolomide (TMZ) monotherapy (monotherapy phase).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Concomitant phase
 
@@ -142,15 +144,15 @@ During treatment a complete blood count should be obtained weekly. TMZ administr
 | Table 1. TMZ dosing interruption or discontinuation during concomitant radiotherapy and TMZ   | Table 1. TMZ dosing interruption or discontinuation during concomitant radiotherapy and TMZ   | Table 1. TMZ dosing interruption or discontinuation during concomitant radiotherapy and TMZ   |
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | Toxicity                                                                                      | TMZ interruption a                                                                            | TMZ discontinuation                                                                           |
-| Absolute neutrophil count                                                                     | /uniF0B3 0.5 and < 1.5 x 10 9 /l                                                              | < 0.5 x 10 9 /l                                                                               |
-| Thrombocyte count                                                                             | /uniF0B3 10 and < 100 x 10 9 /l                                                               | < 10 x 10 9 /l                                                                                |
+| Absolute neutrophil count                                                                     | 0.5 and < 1.5 x 10 9 /l                                                                       | < 0.5 x 10 9 /l                                                                               |
+| Thrombocyte count                                                                             | 10 and < 100 x 10 9 /l                                                                        | < 10 x 10 9 /l                                                                                |
 | CTC non-haematological toxicity (except for alopecia, nausea, vomiting)                       | CTC Grade 2                                                                                   | CTC Grade 3 or 4                                                                              |
 
-a: Treatment with concomitant TMZ can be continued when all of the following conditions are met: absolute neutrophil count /uniF0B3 1.5 x 10 9 /l; thrombocyte count /uniF0B3 100 x 10 9 /l; CTC non-haematological toxicity /uniF0A3 Grade 1 (except for alopecia, nausea, vomiting).
+- a: Treatment with concomitant TMZ can be continued when all of the following conditions are met: absolute neutrophil count 1.5 x 10 9 /l; thrombocyte count 100 x 10 9 /l; CTC non-haematological toxicity Grade 1 (except for alopecia, nausea, vomiting).
 
 ## Monotherapy phase
 
-Four weeks after completing the TMZ + RT concomitant phase, TMZ is administered for up to 6 cycles of monotherapy treatment. Dose in Cycle 1 (monotherapy) is 150 mg/m 2 once daily f or 5 days followed by 23 days without treatment. At the start of Cycle 2, the dose is escalated to 200 mg/m 2 if the CTC non-haematological toxicity for Cycle 1 is Grade ≤ 2 (except for alopecia, nausea and vomiting), absolute neutrophil count (ANC) is ≥ 1.5 x 10 9 /l, and the thrombocyte count is ≥ 100 x 10 9 /l. If  the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles. Once escalated, the dose remains at 200 mg/m 2 per day for the f irst 5 days of  each subsequent cycle except if toxicity occurs. Dose reductions and discontinuations during the monotherapy phase should be applied according to Tables 2 and 3.
+Four weeks after completing the TMZ + RT concomitant phase, TMZ is administered for up to 6 cycles of monotherapy treatment. Dose in Cycle 1 (monotherapy) is 150 mg/m 2 once daily for 5 days followed by 23 days without treatment. At the start of Cycle 2, the dose is escalated to 200 mg/m 2 if the CTC non-haematological toxicity for Cycle 1 is Grade ≤ 2 (except for alopecia, nausea and vomiting), absolute neutrophil count (ANC) is ≥ 1.5 x 10 9 /l, and the thrombocyte count is ≥ 100 x 10 9 /l. If  the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles. Once escalated, the dose remains at 200 mg/m 2 per day for the f irst 5 days of  each subsequent cycle except if toxicity occurs. Dose reductions and discontinuations during the monotherapy phase should be applied according to Tables 2 and 3.
 
 During treatment a complete blood count should be obtained on Day 22 (21 days after the first dose of TMZ). The dose should be reduced or administration discontinued according to Table 3.
 
@@ -159,7 +161,7 @@ During treatment a complete blood count should be obtained on Day 22 (21 days af
 | Dose level                                           | TMZ dose (mg/m 2 /day)                               | Remarks                                              |
 | - 1                                                  | 100                                                  | Reduction for prior toxicity                         |
 | 0                                                    | 150                                                  | Dose during Cycle 1                                  |
-| 1                                                    | 200                                                  | Dose during Cycles 2-6 in absence oftoxicity         |
+| 1                                                    | 200                                                  | Dose during Cycles 2-6 in absence of toxicity        |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -183,7 +185,7 @@ A treatment cycle comprises 28 days. In patients previously untreated with chemo
 
 ## Paediatric population
 
-In patients 3 years of age or older, TMZ is only to be used in recurrent or progressive malignant glioma. Experience in these children is very limited (see sections 4.4 and 5.1). The safety and eff icacy of TMZ in children under the age of 3 years have not been established. No data are available.
+In patients 3 years of age or older, TMZ is only to be used in recurrent or progressive malignant glioma. Experience in these children is very limited (see sections 4.4 and 5.1). The safety and ef f icacy of TMZ in children under the age of 3 years have not been established. No data are available.
 
 ## Patients with hepatic or renal impairment
 
@@ -191,7 +193,7 @@ The pharmacokinetics of TMZ were comparable in patients with normal hepatic func
 
 ## Elderly patients
 
-Based on a population pharmacokinetic analysis in patients 19-78 years of age, clearance of TMZ is not aff ected by age. However, elderly patients (&gt; 70 years of age) appear to be at increased risk of neutropenia and thrombocytopenia (see section 4.4).
+Based on a population pharmacokinetic analysis in patients 19-78 years of age, clearance of TMZ is not aff ected by age. However, elderly patients (&gt; 70 years of  age) appear to be at increased risk of neutropenia and thrombocytopenia (see section 4.4).
 
 ## Method of administration
 
@@ -199,7 +201,7 @@ Temodal hard capsules should be administered in the fasting state.
 
 The capsules must be swallowed whole with a glass of water and must not be opened or chewed.
 
-If  vomiting occurs after the dose is administered, a second dose should not be administered that day.
+If vomiting occurs after the dose is administered, a second dose should not be administered that day.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -215,15 +217,15 @@ Severe myelosuppression (see section 4.4).
 
 ## Opportunistic infections and reactivation of infections
 
-Opportunistic infections (such as Pneumocystis jirovecii pneumonia) and reactivation of infections (such as HBV, CMV) have been observed during the treatment with TMZ (see section 4.8).
+Opportunistic infections (such as Pneumocystis jirovecii pneumonia) and reactivation of inf ections (such as HBV, CMV) have been observed during the treatment with TMZ (see section 4.8).
 
 ## Meningoencephalitis herpetic
 
-In post marketing cases, meningoencephalitis herpetic (including fatal cases) has been observed in patients receiving TMZ in combination with radiotherapy, including cases of concomitant steroids administration.
+In post marketing cases, meningoencephalitis herpetic (including f atal cases) has been observed in patients receiving TMZ in combination with radiotherapy, including cases of concomitant steroids administration.
 
 ## Pneumocystis jirovecii pneumonia
 
-Patients who received concomitant TMZ and RT in a pilot trial for the prolonged 42-day schedule were shown to be at particular risk f or developing Pneumocystis jirovecii pneumonia (PCP). Thus, prophylaxis against PCP is required for all patients receiving concomitant TMZ and RT for the 42-day regimen (with a maximum of 49 days) regardless of lymphocyte count. If lymphopenia occurs, they are to continue the prophylaxis until recovery of  lymph openia to grade ≤ 1.
+Patients who received concomitant TMZ and RT in a pilot trial for the prolonged 42-day schedule were shown to be at particular risk f or developing Pneumocystis jirovecii pneumonia (PCP). Thus, prophylaxis against PCP is required for all patients receiving concomitant TMZ and RT for the 42-day regimen (with a maximum of 49 days) regardless of lymphocyte count. If lymphopenia occurs, they are to continue the prophylaxis until recovery of  lymphopenia to grade ≤ 1.
 
 There may be a higher occurrence of PCP when TMZ is administered during a longer dosing regimen. However, all patients receiving TMZ, particularly patients receiving steroids, should be observed closely for the development of PCP, regardless of the regimen. Cases of fatal respiratory failure have been reported in patients using TMZ, in particular in combination with dexamethasone or other steroids.
 
@@ -233,7 +235,7 @@ Hepatitis due to hepatitis B virus (HBV) reactivation, in some cases resulting i
 
 ## Hepatotoxicity
 
-Hepatic injury, including fatal hepatic f ailure, has been reported in patients treated with TMZ (see section 4.8). Baseline liver function tests should be performed prior to treatment initiation. If abnormal, physicians should assess the benefit/risk prior to initiating temozolomide including the potential f or f atal hepatic f ailure. For patients on a 42 day treatment cycle liver f unction tests should be repeated midway during this cycle. For all patients, liver function tests should be checked af ter each treatment cycle. For patients with signif icant liver function abnormalities, physicians should assess the benefit/risk of continuing treatment. Liver toxicity may occur several weeks or more af ter the last treatment with temozolomide.
+Hepatic injury, including f atal hepatic f ailure, has been reported in patients treated with TMZ (see section 4.8). Baseline liver function tests should be performed prior to treatment initiation. If abnormal, physicians should assess the benefit/risk prior to initiating temozolomide including the potential for f atal hepatic f ailure. For patients on a 42 day treatment cycle liver f unction tests should be repeated midway during this cycle. For all patients, liver function tests should be checked af ter each treatment cycle. For patients with signif icant liver function abnormalities, physicians should assess the benefit/risk of continuing treatment. Liver toxicity may occur several weeks or more af ter the last treatment with temozolomide.
 
 ## Malignancies
 
@@ -245,7 +247,7 @@ Cases of myelodysplastic syndrome and secondary malignancies, including myeloid 
 
 Nausea and vomiting are very commonly associated with TMZ.
 
-Anti-emetic therapy may be administered prior to or f ollowing administration of TMZ.
+Anti-emetic therapy may be administered prior to or following administration of TMZ.
 
 ## Adult patients with newly-diagnosed glioblastoma multiforme
 
@@ -257,11 +259,11 @@ Patients who have experienced severe (Grade 3 or 4) vomiting in previous treatme
 
 ## Laboratory parameters
 
-Patients treated with TMZ may experience myelosuppression, including prolonged pancytopenia, which may result in aplastic anaemia, which in some cases has resulted in a fatal outcome. In some cases, exposure to concomitant medicinal products associated with aplastic anaemia, including carbamazepine, phenytoin, and sulfamethoxazole/trimethoprim, complicates assessment. Prior to dosing, the following laboratory parameters must be met: ANC /uniF0B3 1.5 x 10 9 /l and platelet count /uniF0B3 100 x 10 9 /l. A complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until ANC &gt; 1.5 x 10 9 /l and platelet count &gt; 100 x 10 9 /l. If ANC falls to &lt; 1.0 x 10 9 /l or the platelet count is &lt; 50 x 10 9 /l during any cycle, the next cycle should be reduced one dose level (see section 4.2). Dose levels include 100 mg/m 2 , 150 mg/m 2 , and 200 mg/m 2 . The lowest recommended dose is 100 mg/m 2 .
+Patients treated with TMZ may experience myelosuppression, including prolonged pancytopenia, which may result in aplastic anaemia, which in some cases has resulted in a fatal outcome. In some cases, exposure to concomitant medicinal products associated with aplastic anaemia, including carbamazepine, phenytoin, and sulf amethoxazole/trimethoprim, complicates assessment. Prior to dosing, the following laboratory parameters must be met: ANC 1.5 x 10 9 /l and platelet count 100 x 10 9 /l. A complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until ANC &gt; 1.5 x 10 9 /l and platelet count &gt; 100 x 10 9 /l. If ANC falls to &lt; 1.0 x 10 9 /l or the platelet count is &lt; 50 x 10 9 /l during any cycle, the next cycle should be reduced one dose level (see section 4.2). Dose levels include 100 mg/m 2 , 150 mg/m 2 , and 200 mg/m 2 . The lowest recommended dose is 100 mg/m 2 .
 
 ## Paediatric population
 
-There is no clinical experience with use of TMZ in children under the age of 3 years. Experience in older children and adolescents is very limited (see sections 4.2 and 5.1).
+There is no clinical experience with use of  TMZ in children under the age of  3 years. Experience in older children and adolescents is very limited (see sections 4.2 and 5.1).
 
 ## Elderly patients (&gt; 70 years of age)
 
@@ -277,7 +279,7 @@ Men being treated with TMZ should be advised not to father a child for at least 
 
 ## Lactose
 
-This medicinal product contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase def iciency or glucose-galactose malabsorption should not take this medicine.
+This medicinal product contains lactose. Patients with rare hereditary problems of  galactose intolerance, total lactase def iciency or glucose-galactose malabsorption should not take this medicine.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -289,13 +291,11 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, tha
 
 In a separate phase I study, administration of TMZ with ranitidine did not result in alterations in the extent of absorption of temozolomide or the exposure to its active metabolite monomethyl triazenoimidazole carboxamide (MTIC).
 
-Administration of TMZ with food resulted in a 33 % decrease in Cmax and a 9 % decrease in area under the curve (AUC).
-
-As it cannot be excluded that the change in Cmax is clinically significant, Temodal should be administered without food.
+Administration of TMZ with food resulted in a 33 % decrease in Cmax and a 9 % decrease in area under the curve (AUC). As it cannot be excluded that the change in Cmax is clinically signif icant, Temodal should be administered without food.
 
 Based on an analysis of population pharmacokinetics in phase II trials, co-administration of dexamethasone, prochlorperazine, phenytoin, carbamazepine, ondansetron, H2 receptor antagonists, or phenobarbital did not alter the clearance of TMZ. Co-administration with valproic acid was associated with a small but statistically signif icant decrease in clearance of TMZ.
 
-No studies have been conducted to determine the effect of TMZ on the metabolism or elimination of other medicinal products. However, since TMZ does not undergo hepatic metabolism and exhibits low protein binding, it is unlikely that it would affect the pharmacokinetics of other medicinal products (see section 5.2).
+No studies have been conducted to determine the effect of TMZ on the metabolism or elimination of other medicinal products. However, since TMZ does not undergo hepatic metabolism and exhibits low protein binding, it is unlikely that it would aff ect the pharmacokinetics of other medicinal products (see section 5.2).
 
 Use of TMZ in combination with other myelosuppressive agents may increase the likelihood of myelosuppression.
 
@@ -307,7 +307,7 @@ Interaction studies have only been performed in adults.
 
 ## Pregnancy
 
-There are no data in pregnant women. In preclinical studies in rats and rabbits receiving 150 mg/m 2 TMZ, teratogenicity and/or foetal toxicity were demonstrated (see section 5.3). Temodal should not be administered to pregnant women. If use during pregnancy must be considered, the patient should be apprised of the potential risk to the foetus.
+There are no data in pregnant women. In preclinical studies in rats and rabbits receiving 150 mg/m 2 TMZ, teratogenicity and/or foetal toxicity were demonstrated (see section 5.3). Temodal should not be administered to pregnant women. If use during pregnancy must be considered, the patient should be apprised of the potential risk to the f oetus.
 
 ## Breast-feeding
 
@@ -321,7 +321,7 @@ Women of childbearing potential have to use effective contraception to avoid pre
 
 ## Male fertility
 
-TMZ can have genotoxic effects. Therefore, men being treated with it should use effective contraceptive measures and be advised not to father a child for at least 3 months af ter receiving the last dose and to seek advice on cryoconservation of sperm prior to treatment, because of the possibility of irreversible infertility due to therapy with TMZ.
+TMZ can have genotoxic effects. Therefore, men being treated with it should use effective contraceptive measures and be advised not to father a child for at least 3 months af ter receiving the last dose and to seek advice on cryoconservation of sperm prior to treatment, because of the possibility of irreversible inf ertility due to therapy with TMZ.
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -339,20 +339,20 @@ For patients with recurrent or progressive glioma, nausea (43 %) and vomiting (3
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions observed in clinical studies and reported f rom post-marketing use of TMZ are listed in Table 4. These reactions are classif ied according to System Organ Class and frequency. Frequency groupings are def ined according to the f ollowing convention: Very common (≥ 1/10); Common (≥ 1/100 to &lt; 1/10); Uncommon (≥ 1/1,000 to &lt; 1/100); Rare (≥1/10,000 to &lt;1/1,000); Very rare (&lt;1/10,000); Not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Adverse reactions observed in clinical studies and reported f rom post-marketing use of TMZ are listed in Table 4. These reactions are classif ied according to System Organ Class and frequency. Frequency groupings are def ined according to the f ollowing convention: Very common (≥ 1/10); Common (≥ 1/100 to &lt; 1/10); Uncommon (≥ 1/1 000 to &lt; 1/100); Rare (≥1/10 000 to &lt;1/1 000); Very rare (&lt;1/10 000); Not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| Table 4. Adverse reactions in patients treated with temozolomide   | Table 4. Adverse reactions in patients treated with temozolomide                                                                                                                                                      |
-|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                                        | Infections and infestations                                                                                                                                                                                           |
-| Common:                                                            | Infections, herpes zoster, pharyngitis a , candidiasis oral                                                                                                                                                           |
-| Uncommon:                                                          | Opportunistic infection (including PCP), sepsis † , meningoencephalitis herpetic † , CMVinfection, CMV reactivation, hepatitis B virus † , herpes simplex, infection reactivation, wound infection, gastroenteritis b |
-| Neoplasm benign, malignant, and unspecified                        | Neoplasm benign, malignant, and unspecified                                                                                                                                                                           |
-| Uncommon:                                                          | Myelodysplastic syndrome (MDS), secondary malignancies, including myeloid leukaemia                                                                                                                                   |
-| Blood and lymphatic system disorders                               | Blood and lymphatic system disorders                                                                                                                                                                                  |
-| Common:                                                            | Febrile neutropenia, neutropenia, thrombocytopenia, lymphopenia, leukopenia, anaemia                                                                                                                                  |
-| Uncommon:                                                          | Prolonged pancytopenia, aplastic anaemia † , pancytopenia, petechiae                                                                                                                                                  |
-| Immune system disorders                                            | Immune system disorders                                                                                                                                                                                               |
-| Common:                                                            | Allergic reaction                                                                                                                                                                                                     |
+| Table 4. Adverse reactions in patients treated with temozolomide   | Table 4. Adverse reactions in patients treated with temozolomide                                                                                                                                                       |
+|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                                        | Infections and infestations                                                                                                                                                                                            |
+| Common:                                                            | Infections, herpes zoster, pharyngitis a , candidiasis oral                                                                                                                                                            |
+| Uncommon:                                                          | Opportunistic infection (including PCP), sepsis † , meningoencephalitis herpetic † , CMV infection, CMV reactivation, hepatitis B virus † , herpes simplex, infection reactivation, wound infection, gastroenteritis b |
+| Neoplasm benign, malignant, and unspecified                        | Neoplasm benign, malignant, and unspecified                                                                                                                                                                            |
+| Uncommon:                                                          | Myelodysplastic syndrome (MDS), secondary malignancies, including myeloid leukaemia                                                                                                                                    |
+| Blood and lymphatic system disorders                               | Blood and lymphatic system disorders                                                                                                                                                                                   |
+| Common:                                                            | Febrile neutropenia, neutropenia, thrombocytopenia, lymphopenia, leukopenia, anaemia                                                                                                                                   |
+| Uncommon:                                                          | Prolonged pancytopenia, aplastic anaemia † , pancytopenia, petechiae                                                                                                                                                   |
+| Immune system disorders                                            | Immune system disorders                                                                                                                                                                                                |
+| Common:                                                            | Allergic reaction                                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -362,7 +362,7 @@ Adverse reactions observed in clinical studies and reported f rom post-marketing
 | Endocrine disorders                                                |                                                                                                                                                                                                                                                  |
 | Common:                                                            | Cushingoid c                                                                                                                                                                                                                                     |
 | Uncommon:                                                          | Diabetes insipidus                                                                                                                                                                                                                               |
-| Metabolism and nutrition disorders                                 |                                                                                                                                                                                                                                                  |
+| Metabolism and nutrition disorders                                 | Metabolism and nutrition disorders                                                                                                                                                                                                               |
 | Very common:                                                       | Anorexia                                                                                                                                                                                                                                         |
 | Common:                                                            | Hyperglycaemia                                                                                                                                                                                                                                   |
 | Uncommon:                                                          | Hypokalaemia, alkaline phosphatase increased                                                                                                                                                                                                     |
@@ -425,18 +425,12 @@ Adverse reactions observed in clinical studies and reported f rom post-marketing
 - c  Includes cushingoid, Cushing syndrome
 - d  Includes neuropathy, peripheral neuropathy, polyneuropathy, peripheral sensory neuropathy, peripheral motor neuropathy
 - e  Includes visual impairment, eye disorder
-
-f Includes deafness, deafness bilateral, deafness neurosensory, deaf ness unilateral
-
+- f Includes deafness, deafness bilateral, deafness neurosensory, deaf ness unilateral
 - g Includes earache, ear discomfort
-
-h  Includes abdominal pain, abdominal pain lower, abdominal pain upper, abdominal discomfort
-
-i  Includes oedema peripheral, peripheral swelling
-
-j Includes liver f unction test increased, alanine aminotransf erase increased, aspartate aminotransf erase increased, hepatic enzymes increased
-
-k Includes radiation injury, radiation skin injury
+- h  Includes abdominal pain, abdominal pain lower, abdominal pain upper, abdominal discomfort
+- i  Includes oedema peripheral, peripheral swelling
+- j Includes liver f unction test increased, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzymes increased
+- k Includes radiation injury, radiation skin injury
 
 † Including cases with fatal outcome
 
@@ -452,15 +446,15 @@ Myelosuppression (neutropenia and thrombocytopenia), which is known dose-limitin
 
 ## Laboratory results
 
-Grade 3 or 4 thrombocytopenia and neutropenia occurred in 19 % and 17 % respectively, of patients treated for malignant glioma. This led to hospitalisation and/or discontinuation of TMZ in 8 % and 4 %, respectively. Myelosuppression was predictable (usually within the first few cycles, with the nadir between Day 21 and Day 28), and recovery was rapid, usually within 1-2 weeks. No evidence of cumulative myelosuppression was observed. The presence of thrombocytopenia may increase the risk of bleeding, and the presence of neutropenia or leukopenia may increase the risk of infection.
+Grade 3 or 4 thrombocytopenia and neutropenia occurred in 19 % and 17 % respectively, of patients treated for malignant glioma. This led to hospitalisation and/or discontinuation of TMZ in 8 % and 4 %, respectively. Myelosuppression was predictable (usually within the first few cycles, with the nadir between Day 21 and Day 28), and recovery was rapid, usually within 1-2 weeks. No evidence of cumulative myelosuppression was observed. The presence of thrombocytopenia may increase the risk of bleeding, and the presence of neutropenia or leukopenia may increase the risk of  infection.
 
 ## Gender
 
-In a population pharmacokinetics analysis of clinical trial experience there were 101 f emale and 169 male subjects for whom nadir neutrophil counts were available and 110 female and 174 male subjects for whom nadir platelet counts were available. There were higher rates of Grade 4 neutropenia (ANC &lt; 0.5 x 10 9 /l), 12 % vs 5 %, and thrombocytopenia (&lt; 20 x 10 9 /l), 9 % vs 3 %, in women vs men in the first cycle of therapy. In a 400 subject recurrent glioma data set, Grade 4 neutropenia occurred in 8 % of female vs 4 % of male subjects and Grade 4 thrombocytopenia in 8 % of f emale vs 3 % of male subjects in the first cycle of therapy. In a study of  288 subjects with newlydiagnosed glioblastoma multiforme, Grade 4 neutropenia occurred in 3 % of female vs 0 % of male subjects and Grade 4 thrombocytopenia in 1 % of female vs 0 % of male subjects in the f irst cycle of therapy.
+In a population pharmacokinetics analysis of clinical trial experience there were 101 female and 169 male subjects for whom nadir neutrophil counts were available and 110 female and 174 male subjects for whom nadir platelet counts were available. There were higher rates of Grade 4 neutropenia (ANC &lt; 0.5 x 10 9 /l), 12 % vs 5 %, and thrombocytopenia (&lt; 20 x 10 9 /l), 9 % vs 3 %, in women vs men in the first cycle of therapy. In a 400 subject recurrent glioma data set, Grade 4 neutropenia occurred in 8 % of female vs 4 % of male subjects and Grade 4 thrombocytopenia in 8 % of female vs 3 % of male subjects in the first cycle of  therapy. In a study of  288 subjects with newlydiagnosed glioblastoma multif orme, Grade 4 neutropenia occurred in 3 % of  f emale vs 0 % of male subjects and Grade 4 thrombocytopenia in 1 % of  f emale vs 0 % of male subjects in the f irst cycle of therapy.
 
 ## Paediatric population
 
-Oral TMZ has been studied in paediatric patients (age 3-18 years) with recurrent brainstem glioma or recurrent high grade astrocytoma, in a regimen administered daily for 5 days every 28 days. Although the data is limited, tolerance in children is expected to be the same as in adults. The saf ety of TMZ in children under the age of 3 years has not been established.
+Oral TMZ has been studied in paediatric patients (age 3-18 years) with recurrent brainstem glioma or recurrent high-grade astrocytoma, in a regimen administered daily f or 5 days every 28 days. Although the data is limited, tolerance in children is expected to be the same as in adults. The saf ety of TMZ in children under the age of 3 years has not been established.
 
 ## Reporting of suspected adverse reactions
 
@@ -468,11 +462,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Doses of 500, 750, 1,000, and 1,250 mg/m 2 (total dose per cycle over 5 days) have been evaluated clinically in patients. Dose-limiting toxicity was haematological and was reported with any dose but is expected to be more severe at higher doses. An overdose of 10,000 mg (total dose in a single cycle, over 5 days) was taken by one patient and the adverse reactions reported were pancytopenia, pyrexia, multi-organ failure and death. There are reports of patients who have taken the recommended dose for more than 5 days of treatment (up to 64 days) with adverse events reported including bone marrow suppression, with or without infection, in some cases severe and prolonged and resulting in death. In
+Doses of 500, 750, 1 000, and 1 250 mg/m 2 (total dose per cycle over 5 days) have been evaluated clinically in patients. Dose-limiting toxicity was haematological and was reported with any dose but is expected to be more severe at higher doses. An overdose of 10 000 mg (total dose in a single cycle, over 5 days) was taken by one patient and the adverse reactions reported were pancytopenia, pyrexia, multi-organ failure and death. There are reports of  patients who have taken the recommended dose for more than 5 days of treatment (up to 64 days) with adverse events reported including bone marrow suppression, with or without infection, in some cases severe and prolonged and resulting in death. In the event of an overdose, haematological evaluation is needed. Supportive measures should be provided as necessary.
 
 <div style=\"page-break-after: always\"></div>
-
-the event of an overdose, haematological evaluation is needed. Supportive measures should be provided as necessary.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -484,11 +476,11 @@ Pharmacotherapeutic group: Antineoplastic agents - Other alkylating agents, ATC 
 
 Temozolomide is a triazene, which undergoes rapid chemical conversion at physiologic pH to the active monomethyl triazenoimidazole carboxamide (MTIC). The cytotoxicity of MTIC is thought to be due primarily to alkylation at the O 6 position of guanine with additional alkylation also occurring at the N 7 position. Cytotoxic lesions that develop subsequently are thought to involve aberrant repair of the methyl adduct.
 
-## Clinical eff icacy and safety
+## Clinical ef f icacy and saf ety
 
 ## Newly-diagnosed glioblastoma multiforme
 
-A total of 573 patients were randomised to receive either TMZ + RT (n=287) or RT alone (n=286). Patients in the TMZ + RT arm received concomitant TMZ (75 mg/m 2 ) once daily, starting the first day of RT until the last day of RT, for 42 days (with a maximum of 49 days). This was followed by monotherapy TMZ (150 - 200 mg/m 2 ) on Days 1 - 5 of every 28-day cycle for up to 6 cycles, starting 4 weeks after the end of RT. Patients in the control arm received RT only. Pneumocystis jirovecii pneumonia (PCP) prophylaxis was required during RT and combined TMZ therapy.
+A total of 573 patients were randomised to receive either TMZ + RT (n=287) or RT alone (n=286). Patients in the TMZ + RT arm received concomitant TMZ (75 mg/m 2 ) once daily, starting the f irst day of RT until the last day of  RT, f or 42 days (with a maximum of 49 days). This was followed by monotherapy TMZ (150 - 200 mg/m 2 ) on Days 1 - 5 of every 28-day cycle for up to 6 cycles, starting 4 weeks after the end of RT. Patients in the control arm received RT only. Pneumocystis jirovecii pneumonia (PCP) prophylaxis was required during RT and combined TMZ therapy.
 
 TMZ was administered as salvage therapy in the follow-up phase in 161 patients of the 282 (57 %) in the RT alone arm, and 62 patients of the 277 (22 %) in the TMZ + RT arm.
 
@@ -496,7 +488,7 @@ The hazard ratio (HR) for overall survival was 1.59 (95 % CI for HR=1.33 -1.91) 
 
 <div style=\"page-break-after: always\"></div>
 
-## ITTPopulation:Overall Survival
+## ITT Population: Overall Survival
 
 Figure 1 Kaplan-Meier curves for overall survival (intent-to-treat population)
 
@@ -506,27 +498,27 @@ The results from the trial were not consistent in the subgroup of patients with 
 
 ## Recurrent or progressive malignant glioma
 
-Data on clinical eff icacy in patients with glioblastoma multiforme (Karnof sky perf ormance status [KPS] /uniF0B3 70), progressive or recurrent af ter surgery and RT, were based on two clinical trials with oral TMZ. One was a non-comparative trial in 138 patients (29 % received prior chemotherapy), and the other was a randomised active-controlled trial of  TMZ vs procarbazine in a total of  225 patients (67 % received prior treatment with nitrosourea based chemotherapy). In both trials, the primary endpoint was progression-free survival (PFS) defined by MRI scans or neurological worsening. In the noncomparative trial, the PFS at 6 months was 19 %, the median progression-free survival was 2.1 months, and the median overall survival 5.4 months. The objective response rate (ORR) based on MRI scans was 8 %.
+Data on clinical ef f icacy in patients with glioblastoma multiforme (Karnof sky perf ormance status [KPS] 70), progressive or recurrent af ter surgery and RT, were based on two clinical trials with oral TMZ. One was a non-comparative trial in 138 patients (29 % received prior chemotherapy), and the other was a randomised active-controlled trial of  TMZ vs procarbazine in a total of  225 patients (67 % received prior treatment with nitrosourea based chemotherapy). In both trials, the primary endpoint was progression-free survival (PFS) defined by MRI scans or neurological worsening. In the noncomparative trial, the PFS at 6 months was 19 %, the median progression-free survival was 2.1 months, and the median overall survival 5.4 months. The objective response rate (ORR) based on MRI scans was 8 %.
 
-In the randomised active-controlled trial, the PFS at 6 months was significantly greater f or TMZ than for procarbazine (21 % vs 8 %, respectively -chi-square p = 0.008) with median PFS of 2.89 and 1.88 months respectively (log rank p = 0.0063). The median survival was 7.34 and 5.66 months for TMZ and procarbazine, respectively (log rank p = 0.33). At 6 months, the fraction of surviving patients was significantly higher in the TMZ arm (60 %) compared with the procarbazine arm (44 %) (chi-square p = 0.019). In patients with prior chemotherapy a benefit was indicated in those with a KPS /uniF0B3 80.
+In the randomised active-controlled trial, the PFS at 6 months was significantly greater f or TMZ than for procarbazine (21 % vs 8 %, respectively -chi-square p = 0.008) with median PFS of 2.89 and 1.88 months respectively (log rank p = 0.0063). The median survival was 7.34 and 5.66 months for TMZ and procarbazine, respectively (log rank p = 0.33). At 6 months, the fraction of surviving patients was significantly higher in the TMZ arm (60 %) compared with the procarbazine arm (44 %) (chi-square p = 0.019). In patients with prior chemotherapy a benefit was indicated in those with a KPS   80.
 
 Data on time to worsening of neurological status favoured TMZ over procarbazine as did data on time to worsening of performance status (decrease to a KPS of &lt; 70 or a decrease by at least 30 points). The median times to progression in these endpoints ranged from 0.7 to 2.1 months longer for TMZ than for procarbazine (log rank p = &lt; 0.01 to 0.03).
 
 ## Recurrent anaplastic astrocytoma
 
-In a multicentre, prospective phase II trial evaluating the safety and efficacy of oral TMZ in the treatment of patients with anaplastic astrocytoma at first relapse, the 6 month PFS was 46 %. The median PFS was 5.4 months. Median overall survival was 14.6 months. Response rate, based on the central reviewer assessment, was 35 % (13 CR and 43 PR) for the intent-to-treat population (ITT) n=162. In 43 patients stable disease was reported. The 6-month event-free survival for the ITT
+In a multicentre, prospective phase II trial evaluating the safety and ef ficacy of oral TMZ in the treatment of patients with anaplastic astrocytoma at first relapse, the 6 month PFS was 46 %. The median PFS was 5.4 months. Median overall survival was 14.6 months. Response rate, based on the central reviewer assessment, was 35 % (13 CR and 43 PR) for the intent-to-treat population (ITT) n=162. In 43 patients stable disease was reported. The 6-month event-free survival for the ITT
 
 <div style=\"page-break-after: always\"></div>
 
-population was 44 % with a median event-free survival of 4.6 months, which was similar to the results for the progression-free survival. For the eligible histology population, the efficacy results were similar. Achieving a radiological objective response or maintaining progression-free status was strongly associated with maintained or improved quality of lif e.
+population was 44 % with a median event-free survival of 4.6 months, which was similar to the results for the progression-free survival. For the eligible histology population, the ef ficacy results were similar. Achieving a radiological objective response or maintaining progression-f ree status was strongly associated with maintained or improved quality of lif e.
 
 ## Paediatric population
 
-Oral TMZ has been studied in paediatric patients (age 3-18 years) with recurrent brainstem glioma or recurrent high grade astrocytoma, in a regimen administered daily for 5 days every 28 days. Tolerance to TMZ is similar to adults.
+Oral TMZ has been studied in paediatric patients (age 3-18 years) with recurrent brainstem glioma or recurrent high-grade astrocytoma, in a regimen administered daily f or 5 days every 28 days. Tolerance to TMZ is similar to adults.
 
 ## 5.2 Pharmacokinetic properties
 
-TMZ is spontaneously hydrolyzed at physiologic pH primarily to the active species, 3-methyl-(triazen1-yl)imidazole-4-carboxamide (MTIC). MTIC is spontaneously hydrolyzed to 5-amino-imidazole-4carboxamide (AIC), a known intermediate in purine and nucleic acid biosynthesis, and to methylhydrazine, which is believed to be the active alkylating species. The cytotoxicity of MTIC is thought to be primarily due to alkylation of DNA mainly at the O 6 and N 7 positions of guanine. Relative to the AUC of TMZ, the exposure to MTIC and AIC is ~ 2.4 % and 23 %, respectively. In vivo , the t 1/2 of  MTIC was similar to that of TMZ, 1.8 hr.
+TMZ is spontaneously hydrolysed at physiologic pH primarily to the active species, 3-methyl-(triazen1-yl)imidazole-4-carboxamide (MTIC). MTIC is spontaneously hydrolysed to 5-amino-imidazole-4carboxamide (AIC), a known intermediate in purine and nucleic acid biosynthesis, and to methylhydrazine, which is believed to be the active alkylating species. The cytotoxicity of MTIC is thought to be primarily due to alkylation of DNA mainly at the O 6 and N 7 positions of guanine. Relative to the AUC of TMZ, the exposure to MTIC and AIC is ~ 2.4 % and 23 %, respectively. In vivo , the t1/2 of  MTIC was similar to that of TMZ, 1.8 hr.
 
 ## Absorption
 
@@ -540,23 +532,23 @@ PET studies in humans and preclinical data suggest that TMZ crosses the blood-br
 
 ## Elimination
 
-The half-lif e (t 1/2) in plasma is approximately 1.8 hours. The major route of 14 C elimination is renal. Following oral administration, approximately 5 % to 10 % of the dose is recovered unchanged in the urine over 24 hours, and the remainder excreted as temozolomide acid, 5-aminoimidazole-4carboxamide (AIC) or unidentified polar metabolites.
+The half-life (t1/2) in plasma is approximately 1.8 hours. The major route of 14 C elimination is renal. Following oral administration, approximately 5 % to 10 % of the dose is recovered unchanged in the urine over 24 hours, and the remainder excreted as temozolomide acid, 5-aminoimidazole-4carboxamide (AIC) or unidentified polar metabolites.
 
 Plasma concentrations increase in a dose-related manner. Plasma clearance, volume of distribution and half-lif e are independent of dose.
 
 ## Special populations
 
-Analysis of population-based pharmacokinetics of TMZ revealed that plasma TMZ clearance was independent of age, renal function or tobacco use. In a separate pharmacokinetic study, plasma pharmacokinetic profiles in patients with mild to moderate hepatic impairment were similar to those observed in patients with normal hepatic function.
+Analysis of population-based pharmacokinetics of TMZ revealed that plasma TMZ clearance was independent of age, renal f unction or tobacco use. In a separate pharmacokinetic study, plasma pharmacokinetic profiles in patients with mild to moderate hepatic impairment were similar to those observed in patients with normal hepatic function.
 
-Paediatric patients had a higher AUC than adult patients; however, the maximum tolerated dose (MTD) was 1,000 mg/m 2  per cycle both in children and in adults.
+Paediatric patients had a higher AUC than adult patients; however, the maximum tolerated dose (MTD) was 1 000 mg/m 2  per cycle both in children and in adults.
 
 <div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
-Single-cycle (5-day dosing, 23 days non-treatment), 3- and 6-cycle toxicity studies were conducted in rats and dogs. The primary targets of toxicity included the bone marrow, lymphoreticular system, testes, the gastrointestinal tract and, at higher doses, which were lethal to 60 % to 100 % of rats and dogs tested, degeneration of the retina occurred. Most of the toxicity showed evidence of reversibility, except for adverse events on the male reproductive system and retinal degeneration. However, because the doses implicated in retinal degeneration were in the lethal dose range, and no comparable effect has been observed in clinical studies, this finding was not considered to have clinical relevance.
+Single-cycle (5-day dosing, 23 days non-treatment), 3- and 6-cycle toxicity studies were conducted in rats and dogs. The primary targets of toxicity included the bone marrow, lymphoreticular system, testes, the gastrointestinal tract and, at higher doses, which were lethal to 60 % to 100 % of rats and dogs tested, degeneration of the retina occurred. Most of the toxicity showed evidence of  reversibility, except for adverse events on the male reproductive system and retinal degeneration. However, because the doses implicated in retinal degeneration were in the lethal dose range, and no comparable ef fect has been observed in clinical studies, this finding was not considered to have clinical relevance.
 
-TMZ is an embryotoxic, teratogenic and genotoxic alkylating agent. TMZ is more toxic to the rat and dog than to humans, and the clinical dose approximates the minimum lethal dose in rats and dogs. Dose-related reductions in leukocytes and platelets appear to be sensitive indicators of toxicity. A variety of neoplasms, including mammary carcinomas, keratocanthoma of the skin and basal cell adenoma were observed in the 6-cycle rat study while no tumours or pre-neoplastic changes were evident in dog studies. Rats appear to be particularly sensitive to oncogenic effects of TMZ, with the occurrence of first tumours within 3 months of initiating dosing. This latency period is very short even for an alkylating agent.
+TMZ is an embryotoxic, teratogenic and genotoxic alkylating agent. TMZ is more toxic to the rat and dog than to humans, and the clinical dose approximates the minimum lethal dose in rats and dogs. Dose-related reductions in leukocytes and platelets appear to be sensitive indicators of toxicity. A variety of neoplasms, including mammary carcinomas, keratocanthoma of the skin and basal cell adenoma were observed in the 6-cycle rat study while no tumours or pre-neoplastic changes were evident in dog studies. Rats appear to be particularly sensitive to oncogenic ef fects of TMZ, with the occurrence of first tumours within 3 months of initiating dosing. This latency period is very short even for an alkylating agent.
 
 Results of the Ames/salmonella and Human Peripheral Blood Lymphocyte (HPBL) chromosome aberration tests showed a positive mutagenicity response.
 
@@ -570,7 +562,9 @@ Capsule shell: gelatin, titanium dioxide (E 171), sodium laurilsulfate, yellow i
 
 Printing ink: shellac, propylene glycol (E 1520), purified water, ammonium hydroxide, potassium hydroxide, black iron oxide (E 172).
 
-20 mg hard capsules Capsule content: anhydrous lactose, colloidal anhydrous silica, sodium starch glycolate type A, tartaric acid, stearic acid.
+## 20 mg hard capsules
+
+Capsule content: anhydrous lactose, colloidal anhydrous silica, sodium starch glycolate type A, tartaric acid, stearic acid.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -588,17 +582,17 @@ Printing ink: shellac, propylene glycol (E 1520), purified water, ammonium hydro
 
 Capsule shell: gelatin, titanium dioxide (E 171), sodium laurilsulfate, indigo carmine (E 132).
 
-Printing ink: shellac, propylene glycol (E 1520), purified water, ammonium hydroxide, potassium hydroxide,
+Printing ink: shellac, propylene glycol (E 1520), purified water, ammonium hydroxide, potassium hydroxide, black iron oxide (E 172).
 
 <div style=\"page-break-after: always\"></div>
-
-black iron oxide (E 172).
 
 180 mg hard capsules Capsule content: anhydrous lactose, colloidal anhydrous silica, sodium starch glycolate type A, tartaric acid, stearic acid.
 
 Capsule shell: gelatin, titanium dioxide (E 171), sodium laurilsulfate, yellow iron oxide (E 172), red iron oxide (E 172).
 
-Printing ink: shellac, propylene glycol (E 1520), purified water, ammonium hydroxide, potassium hydroxide, black iron oxide (E 172).
+Printing ink: shellac, propylene glycol (E 1520), purified water, ammonium hydroxide, potassium hydroxide,
+
+black iron oxide (E 172).
 
 250 mg hard capsules Capsule content: anhydrous lactose, colloidal anhydrous silica, sodium starch glycolate type A, tartaric acid, stearic acid.
 
@@ -616,7 +610,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30 /uniF0B0 C.
+Do not store above 30  C.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -634,7 +628,7 @@ Not all pack sizes may be marketed.
 
 Capsules should not be opened. If a capsule becomes damaged, contact of the powder contents with skin or mucous membrane must be avoided. If Temodal comes into contact with skin or mucosa, it should be washed immediately and thoroughly with soap and water.
 
-Patients should be advised to keep capsules out of the sight and reach of children, preferably in a locked cupboard. Accidental ingestion can be lethal for children.
+Patients should be advised to keep capsules out of the sight and reach of  children, pref erably in a locked cupboard. Accidental ingestion can be lethal for children.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -644,9 +638,7 @@ Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-5 mg hard capsules EU/1/98/096/024
-
-EU/1/98/096/025
+5 mg hard capsules EU/1/98/096/024 EU/1/98/096/025
 
 20 mg hard capsules EU/1/98/096/013 EU/1/98/096/014
 
@@ -672,9 +664,7 @@ Date of latest renewal: 17 December 2008
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-20
+Detailed information on this medicinal product is available on the website of  the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -688,9 +678,9 @@ Each vial contains 100 mg of temozolomide.
 
 After reconstitution, 1 ml solution for infusion contains 2.5 mg temozolomide.
 
-Excipient(s) with known effect:
+## Excipients with known effect:
 
-Each vial contains 55.2 mg sodium.
+Each vial contains 55.2 mg sodium and 120 mg polysorbate 80.
 
 For the full list of  excipients, see section 6.1.
 
@@ -715,22 +705,21 @@ Temodal should only be prescribed by physicians experienced in the oncological t
 
 Anti-emetic therapy may be administered (see section 4.4).
 
-Posology
+## Posology
 
-Adult patients with newly-diagnosed glioblastoma multiforme
+## Adult patients with newly-diagnosed glioblastoma multiforme
 
 Temodal is administered in combination with focal radiotherapy (concomitant phase) followed by up to 6 cycles of temozolomide (TMZ) monotherapy (monotherapy phase).
 
 ## Concomitant phase
 
-TMZ is administered at a dose of 75 mg/m 2 daily for 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions). No dose reductions are recommended, but delay or discontinuation of TMZ administration should be decided weekly according to haematological and non-haematological toxicity criteria.
+TMZ is administered at a dose of 75 mg/m 2 daily f or 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions). No dose reductions are recommended, but delay or discontinuation of TMZ administration should be decided weekly according to haematological and non-haematological toxicity criteria.
 
 TMZ administration can be continued throughout the 42 day concomitant period (up to 49 days) if all of the following conditions are met:
 
-- -absolute neutrophil coun t  (ANC) ≥ 1.5 x 10 9 /l
-
 <div style=\"page-break-after: always\"></div>
 
+- -absolute neutrophil count (ANC) ≥ 1.5 x 10 9 /l
 - -thrombocyte count ≥ 100 x 10 9 /l
 - -common toxicity criteria (CTC) nonhaematological toxicity ≤ Grade 1 (except for alopecia, nausea and vomiting).
 
@@ -739,11 +728,11 @@ During treatment a complete blood count should be obtained weekly. TMZ administr
 | Table 1. TMZ dosing interruption or discontinuation during concomitant radiotherapy and TMZ   | Table 1. TMZ dosing interruption or discontinuation during concomitant radiotherapy and TMZ   | Table 1. TMZ dosing interruption or discontinuation during concomitant radiotherapy and TMZ   |
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | Toxicity                                                                                      | TMZ interruption a                                                                            | TMZ discontinuation                                                                           |
-| Absolute neutrophil count                                                                     | /uniF0B3 0.5 and < 1.5 x 10 9 /l                                                              | < 0.5 x 10 9 /l                                                                               |
-| Thrombocyte count                                                                             | /uniF0B3 10 and < 100 x 10 9 /l                                                               | < 10 x 10 9 /l                                                                                |
+| Absolute neutrophil count                                                                     | 0.5 and < 1.5 x 10 9 /l                                                                       | < 0.5 x 10 9 /l                                                                               |
+| Thrombocyte count                                                                             | 10 and < 100 x 10 9 /l                                                                        | < 10 x 10 9 /l                                                                                |
 | CTC non-haematological toxicity (except for alopecia, nausea, vomiting)                       | CTC Grade 2                                                                                   | CTC Grade 3 or 4                                                                              |
 
-a: Treatment with concomitant TMZ can be continued when all of the following conditions are met: absolute neutrophil count /uniF0B3 1.5 x 10 9 /l; thrombocyte count /uniF0B3 100 x 10 9 /l; CTC non-haematological toxicity /uniF0A3 Grade 1 (except for alopecia, nausea, vomiting).
+- a: Treatment with concomitant TMZ can be continued when all of the following conditions are met: absolute neutrophil count 1.5 x 10 9 /l; thrombocyte count 100 x 10 9 /l; CTC non-haematological toxicity Grade 1 (except for alopecia, nausea, vomiting).
 
 ## Monotherapy phase
 
@@ -756,7 +745,7 @@ During treatment a complete blood count should be obtained on Day 22 (21 days af
 | Dose level                                           | TMZ dose (mg/m 2 /day)                               | Remarks                                              |
 | - 1                                                  | 100                                                  | Reduction for prior toxicity                         |
 | 0                                                    | 150                                                  | Dose during Cycle 1                                  |
-| 1                                                    | 200                                                  | Dose during Cycles 2-6 in absence oftoxicity         |
+| 1                                                    | 200                                                  | Dose during Cycles 2-6 in absence of toxicity        |
 
 | Table 3. TMZ dose reduction or discontinuation during monotherapy treatment   | Table 3. TMZ dose reduction or discontinuation during monotherapy treatment   | Table 3. TMZ dose reduction or discontinuation during monotherapy treatment   |
 |-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
@@ -766,9 +755,7 @@ During treatment a complete blood count should be obtained on Day 22 (21 days af
 | CTC non-haematological Toxicity (except for alopecia, nausea, vomiting)       | CTC Grade 3                                                                   | CTC Grade 4 b                                                                 |
 
 - a: TMZ dose levels are listed in Table 2.
-
-b: TMZ is to be discontinued if:
-
+- b: TMZ is to be discontinued if:
 - dose level -1 (100 mg/m 2 ) still results in unacceptable toxicity
 - the same Grade 3 non-haematological toxicity (except f or alopecia, nausea, vomiting) recurs after dose reduction.
 
@@ -776,25 +763,25 @@ b: TMZ is to be discontinued if:
 
 ## Adult and paediatric patients 3 years of age or older with recurrent or progressive malignant glioma:
 
-A treatment cycle comprises 28 days. In patients previously untreated with chemotherapy, TMZ is administered at a dose of 200 mg/m 2 once daily for the first 5 days followed by a 23 day treatment interruption (total of 28 days). In patients previously treated with chemotherapy, the initial dose is 150 mg/m 2  once daily, to be increased in the second cycle to 200 mg/m 2 once daily, for 5 days if there is no haematological toxicity (see section 4.4)
+A treatment cycle comprises 28 days. In patients previously untreated with chemotherapy, TMZ is administered at a dose of 200 mg/m 2 once daily for the first 5 days f ollowed by a 23 day treatment interruption (total of 28 days). In patients previously treated with chemotherapy, the initial dose is 150 mg/m 2  once daily, to be increased in the second cycle to 200 mg/m 2 once daily, for 5 days if  there is no haematological toxicity (see section 4.4).
 
 ## Special populations
 
 ## Paediatric population
 
-In patients 3 years of age or older, TMZ is only to be used in recurrent or progressive malignant glioma. Experience in these children is very limited (see sections 4.4 and 5.1). The safety and eff icacy of TMZ in children under the age of 3 years have not been established. No data are available.
+In patients 3 years of age or older, TMZ is only to be used in recurrent or progressive malignant glioma. Experience in these children is very limited (see sections 4.4 and 5.1). The safety and ef f icacy of TMZ in children under the age of 3 years have not been established. No data are available.
 
 ## Patients with hepatic or renal impairment
 
-The pharmacokinetics of TMZ were comparable in patients with normal hepatic function and in those with mild or moderate hepatic impairment. No data are available on the administration of TMZ in patients with severe hepatic impairment (Child's Class C) or with renal impairment. Based on the pharmacokinetic properties of TMZ, it is unlikely that dose reductions are required in patients with severe hepatic impairment or any degree of renal impairment. However, caution should be exercised when TMZ is administered in these patients.
+The pharmacokinetics of TMZ were comparable in patients with normal hepatic function and in those with mild or moderate hepatic impairment. No data are available on the administration of TMZ in patients with severe hepatic imp airment (Child's Class C) or with renal impairment. Based on the pharmacokinetic properties of TMZ, it is unlikely that dose reductions are required in patients with severe hepatic impairment or any degree of renal impairment. However, caution should be exercised when TMZ is administered in these patients.
 
 ## Elderly patients
 
-Based on a population pharmacokinetic analysis in patients 19-78 years of age, clearance of TMZ is not aff ected by age. However, elderly patients (&gt; 70 years of age) appear to be at increased risk of neutropenia and thrombocytopenia (see section 4.4).
+Based on a population pharmacokinetic analysis in patients 19-78 years of age, clearance of TMZ is not aff ected by age. However, elderly patients (&gt; 70 years of  age) appear to be at increased risk of neutropenia and thrombocytopenia (see section 4.4).
 
 ## Method of administration
 
-Temodal 2.5 mg/ml powder for solution for infusion must be administered only by intravenous infusion. It must not be given by other routes of administration, such as the intrathecal, intramuscular, or subcutaneous route. Temodal 2.5 mg/ml powder for solution for infusion may be administered in the same IV line with 0.9% Sodium Chloride injection. It is incompatible with dextrose solutions.
+Temodal 2.5 mg/ml powder for solution for infusion must be administered only by intravenous infusion. It must not be given by other routes of  administration, such as the intrathecal, intramuscular, or subcutaneous route. Temodal 2.5 mg/ml powder for solution for infusion may be administered in the same IV line with 0.9% Sodium Chloride injection. It is incompatible with dextrose solutions.
 
 The appropriate dose of TMZ should be infused intravenously using a pump over a period of 90 minutes.
 
@@ -816,15 +803,15 @@ Severe myelosuppression (see section 4.4).
 
 ## Opportunistic infections and reactivation of infections
 
-Opportunistic infections (such as Pneumocystis jirovecii pneumonia) and reactivation of inf ections (such as HBV, CMV) have been observed during the treatment with TMZ (see section 4.8).
+Opportunistic infections (such as Pneumocystis jirovecii pneumonia) and reactivation of infections (such as HBV, CMV) have been observed during the treatment with TMZ (see section 4.8).
 
 ## Meningoencephalitis herpetic
 
-In post marketing cases, meningoencephalitis herpetic (including fatal cases) has been observed in patients receiving TMZ in combination with radiotherapy, including cases of concomitant steroids administration.
+In post marketing cases, meningoencephalitis herpetic (including f atal cases) has been observed in patients receiving TMZ in combination with radiotherapy, including cases of concomitant steroids administration.
 
 ## Pneumocystis jirovecii pneumonia
 
-Patients who received concomitant TMZ and RT in a pilot trial for the prolonged 42-day schedule were shown to be at particular risk f or developing Pneumocystis jirovecii pneumonia (PCP). Thus, prophylaxis against PCP is required for all patients receiving concomitant TMZ and RT for the 42-day regimen (with a maximum of 49 days) regardless of lymphocyte count. If lymphopenia occurs, they a re to continue the prophylaxis until recovery of  lymphopenia to grade ≤ 1.
+Patients who received concomitant TMZ and RT in a pilot trial for the prolonged 42-day schedule were shown to be at particular risk f or developing Pneumocystis jirovecii pneumonia (PCP). Thus, prophylaxis against PCP is required for all patients receiving concomitant TMZ and RT for the 42-day regimen (with a maximum of 49 days) regardless of lymphocyte count. If lymphopenia occurs, they are to continue the prophylaxis until recovery of  lymphopenia to grade ≤ 1.
 
 There may be a higher occurrence of PCP when TMZ is administered during a longer dosing regimen. However, all patients receiving TMZ, particularly patients receiving steroids, should be observed closely for the development of PCP, regardless of the regimen. Cases of fatal respiratory failure have been reported in patients using TMZ, in particular in combination with dexamethasone or other steroids.
 
@@ -834,7 +821,7 @@ Hepatitis due to hepatitis B virus (HBV) reactivation, in some cases resulting i
 
 ## Hepatotoxicity
 
-Hepatic injury, including fatal hepatic f ailure, has been reported in patients treated with TMZ (see section 4.8). Baseline liver function tests should be performed prior to treatment initiation. If abnormal, physicians should assess the benefit/risk prior to initiating temozolomide including the potential f or f atal hepatic f ailure. For patients on a 42 day treatment cycle liver f unction tests should be repeated midway during this cycle. For all patients, liver function tests should be checked af ter each treatment cycle. For patients with signif icant liver function abnormalities, physicians should assess the benefit/risk of continuing treatment. Liver toxicity may occur several weeks or more after the last treatment with temozolomide.
+Hepatic injury, including f atal hepatic f ailure, has been reported in patients treated with TMZ (see section 4.8). Baseline liver function tests should be performed prior to treatment initiation. If abnormal, physicians should assess the benefit/risk prior to initiating temozolomide including the potential for f atal hepatic f ailure. For patients on a 42 day treatment cycle liver f unction tests should be repeated midway during this cycle. For all patients, liver function tests should be checked af ter each treatment cycle. For patients with signif icant liver function abnormalities, physicians should assess the benefit/risk of continuing treatment. Liver toxicity may occur several weeks or more af ter the last treatment with temozolomide.
 
 ## Malignancies
 
@@ -842,7 +829,7 @@ Cases of myelodysplastic syndrome and secondary malignancies, including myeloid 
 
 ## Anti-emetic therapy
 
-Nausea and vomiting are very commonly associated with TMZ. Anti-emetic therapy may be administered prior to or f ollowing administration of TMZ.
+Nausea and vomiting are very commonly associated with TMZ. Anti-emetic therapy may be administered prior to or following administration of TMZ.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -856,11 +843,11 @@ Patients who have experienced severe (Grade 3 or 4) vomiting in previous treatme
 
 ## Laboratory parameters
 
-Patients treated with TMZ may experience myelosuppression, including prolonged pancytopenia, which may result in aplastic anaemia, which in some cases has resulted in a fatal outcome. In some cases, exposure to concomitant medicinal products associated with aplastic anaemia, including carbamazepine, phenytoin, and sulfamethoxazole/trimethoprim, complicates assessment. Prior to dosing, the following laboratory parameters must be met: ANC /uniF0B3 1.5 x 10 9 /l and platelet count /uniF0B3 100 x 10 9 /l. A complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until ANC &gt; 1.5 x 10 9 /l and platelet count &gt; 100 x 10 9 /l. If ANC falls to &lt; 1.0 x 10 9 /l or the platelet count is &lt; 50 x 10 9 /l during any cycle, the next cycle should be reduced one dose level (see section 4.2). Dose levels include 100 mg/m 2 , 150 mg/m 2 , and 200 mg/m 2 . The lowest recommended dose is 100 mg/m 2 .
+Patients treated with TMZ may experience myelosuppression, including prolonged pancytopenia, which may result in aplastic anaemia, which in some cases has resulted in a fatal outcome. In some cases, exposure to concomitant medicinal products associated with aplastic anaemia, including carbamazepine, phenytoin, and sulf amethoxazole/trimethoprim, complicates assessment. Prior to dosing, the following laboratory parameters must be met: ANC 1.5 x 10 9 /l and platelet count 100 x 10 9 /l. A complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until ANC &gt; 1.5 x 10 9 /l and platelet count &gt; 100 x 10 9 /l. If ANC falls to &lt; 1.0 x 10 9 /l or the platelet count is &lt; 50 x 10 9 /l during any cycle, the next cycle should be reduced one dose level (see section 4.2). Dose levels include 100 mg/m 2 , 150 mg/m 2 , and 200 mg/m 2 . The lowest recommended dose is 100 mg/m 2 .
 
 ## Paediatric population
 
-There is no clinical experience with use of TMZ in children under the age of 3 years. Experience in older children and adolescents is very limited (see sections 4.2 and 5.1).
+There is no clinical experience with use of  TMZ in children under the age of  3 years. Experience in older children and adolescents is very limited (see sections 4.2 and 5.1).
 
 ## Elderly patients (&gt; 70 years of age)
 
@@ -874,19 +861,27 @@ Women of childbearing potential have to use effective contraception to avoid pre
 
 Men being treated with TMZ should be advised not to father a child for at least 3 months after receiving the last dose and to seek advice on cryoconservation of sperm prior to treatment (see section 4.6).
 
+## Excipients with known effect
+
 ## Sodium
 
 This medicinal product contains 55.2 mg sodium per vial, equivalent to 2.8 % of the WHO recommended maximum daily intake of 2 g sodium for an adult. This should be taken into consideration by patients on a controlled sodium diet.
+
+## Polysorbate 80
+
+This medicinal product contains 3 mg of polysorbate 80 in each ml of reconstituted solution. Polysorbates may cause allergic reactions. Polysorbates can have cardiovascular effect
+
+<div style=\"page-break-after: always\"></div>
+
+(hypotension/cardiac depression). To minimise the risk of cardiovascular effects consider lowering the rate of inf usion. Potential of  polysorbate f or QT prolongation and torsades de pointes must be considered when used concomitantly with medicines that prolong the QT/QTc interval or for patients with congenital syndrome.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 In a separate phase I study, administration of TMZ with ranitidine did not result in alterations in the extent of absorption of temozolomide or the exposure to its active metabolite monomethyl triazenoimidazole carboxamide (MTIC).
 
-<div style=\"page-break-after: always\"></div>
-
 Based on an analysis of population pharmacokinetics in phase II trials, co-administration of dexamethasone, prochlorperazine, phenytoin, carbamazepine, ondansetron, H2 receptor antagonists, or phenobarbital did not alter the clearance of TMZ. Co-administration with valproic acid was associated with a small but statistically signif icant decrease in clearance of TMZ.
 
-No studies have been conducted to determine the effect of TMZ on the metabolism or elimination of other medicinal products. However, since TMZ does not undergo hepatic metabolism and exhibits low protein binding, it is unlikely that it would affect the pharmacokinetics of other medicinal products (see section 5.2).
+No studies have been conducted to determine the effect of TMZ on the metabolism or elimination of other medicinal products. However, since TMZ does not undergo hepatic metabolism and exhibits low protein binding, it is unlikely that it would aff ect the pharmacokinetics of other medicinal products (see section 5.2).
 
 Use of TMZ in combination with other myelosuppressive agents may increase the likelihood of myelosuppression.
 
@@ -910,7 +905,9 @@ Women of childbearing potential have to use effective contraception to avoid pre
 
 ## Male fertility
 
-TMZ can have genotoxic effects. Therefore, men being treated with it should use effective contraceptive measures and be advised not to father a child for at least 3 months af ter receiving the last dose and to seek advice on cryoconservation of sperm prior to treatment, because of the possibility of irreversible infertility due to therapy with TMZ.
+TMZ can have genotoxic effects. Therefore, men being treated with it should use effective contraceptive measures and be advised not to father a child for at least 3 months af ter receiving the last dose and to seek advice on cryoconservation of sperm prior to treatment, because of the possibility of irreversible inf ertility due to therapy with TMZ.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -922,48 +919,44 @@ TMZ has minor influence on the ability to drive and use machines due to fatigue 
 
 ## Clinical trial experience with hard capsules
 
-In patients treated with TMZ in clinical trials, the most common adverse reactions were nausea, vomiting, constipation, anorexia, headache, fatigue, convulsions, and rash. Most haematologic adverse
+In patients treated with TMZ in clinical trials, the most common adverse reactions were nausea, vomiting, constipation, anorexia, headache, fatigue, convulsions, and rash. Most haematologic adverse reactions were reported commonly; the frequency of Grade 3-4 laboratory findings is presented after Table 4.
 
-<div style=\"page-break-after: always\"></div>
-
-reactions were reported commonly; the frequency of Grade 3-4 laboratory findings is presented after Table 4.
-
-For patients with recurrent or progressive glioma, nausea (43 %) and vomiting (36 %) were usually Grade 1 or 2 (0 -5 episodes of vomiting in 24 hours) and were either self -limiting or readily controlled with standard anti-emetic therapy. The incidence of severe nausea and vomiting was 4 %.
+For patients with recurrent or progressive glioma, nausea (43 %) and vomiting (36 %) were usually Grade 1 or 2 (0 -5 episodes of vomiting in 24 hours) and were either self-limiting or readily controlled with standard anti-emetic therapy. The incidence of severe nausea and vomiting was 4 %.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions observed in clinical studies and reported f rom post-marketing use of TMZ are listed in Table 4. These reactions are classif ied according to System Organ Class and frequency. Frequency groupings are defined according to the following convention: Very common (≥ 1/10); Common (≥ 1/100 to &lt; 1/10); Uncommon (≥ 1/1,000 to &lt; 1/100); Rare ( ≥1/10,000 to &lt;1/1,000); Very rare (&lt;1/10,000); Not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Adverse reactions observed in clinical studies and reported f rom post-marketing use of TMZ are listed in Table 4. These reactions are classif ied according to System Organ Class and frequency. Frequency groupings are def ined according to the f ollowing convention: Very common (≥ 1/10); Common (≥ 1/100 to &lt; 1/10); Uncommon (≥ 1/1 000 to &lt; 1/100); Rare (≥1/10 000 to &lt;1/1 000); Very rare (&lt;1/10 000); Not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| Table 4. Adverse reactions in patients treated with temozolomide   | Table 4. Adverse reactions in patients treated with temozolomide                                                                                                                                                      |
-|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                                        | Infections and infestations                                                                                                                                                                                           |
-| Common:                                                            | Infections, herpes zoster, pharyngitis a , candidiasis oral                                                                                                                                                           |
-| Uncommon:                                                          | Opportunistic infection (including PCP), sepsis † , meningoencephalitis herpetic † , CMVinfection, CMV reactivation, hepatitis B virus † , herpes simplex, infection reactivation, wound infection, gastroenteritis b |
-| Neoplasm benign, malignant, and unspecified                        | Neoplasm benign, malignant, and unspecified                                                                                                                                                                           |
-| Uncommon:                                                          | Myelodysplastic syndrome (MDS), secondary malignancies, including myeloid leukaemia                                                                                                                                   |
-| Blood and lymphatic system disorders                               | Blood and lymphatic system disorders                                                                                                                                                                                  |
-| Common:                                                            | Febrile neutropenia, neutropenia, thrombocytopenia, lymphopenia, leukopenia, anaemia                                                                                                                                  |
-| Uncommon:                                                          | Prolonged pancytopenia, aplastic anaemia † , pancytopenia, petechiae                                                                                                                                                  |
-| Immune system disorders                                            | Immune system disorders                                                                                                                                                                                               |
-| Common:                                                            | Allergic reaction                                                                                                                                                                                                     |
-| Uncommon:                                                          | Anaphylaxis                                                                                                                                                                                                           |
-| Endocrine disorders                                                | Endocrine disorders                                                                                                                                                                                                   |
-| Common:                                                            | Cushingoid c                                                                                                                                                                                                          |
-| Uncommon:                                                          | Diabetes insipidus                                                                                                                                                                                                    |
-| Metabolism and nutrition disorders                                 | Metabolism and nutrition disorders                                                                                                                                                                                    |
-| Very common:                                                       | Anorexia                                                                                                                                                                                                              |
-| Common:                                                            | Hyperglycaemia                                                                                                                                                                                                        |
-| Uncommon:                                                          | Hypokalaemia, alkaline phosphatase increased                                                                                                                                                                          |
-| Psychiatric disorders                                              | Psychiatric disorders                                                                                                                                                                                                 |
-| Common:                                                            | Agitation, amnesia, depression, anxiety, confusion, insomnia                                                                                                                                                          |
-| Uncommon:                                                          | Behaviour disorder, emotional lability, hallucination, apathy                                                                                                                                                         |
-| Nervous system disorders                                           | Nervous system disorders                                                                                                                                                                                              |
-| Very common:                                                       | Convulsions, hemiparesis, aphasia/dysphasia, headache                                                                                                                                                                 |
+| Table 4. Adverse reactions in patients treated with temozolomide   | Table 4. Adverse reactions in patients treated with temozolomide                                                                                                                                                       |
+|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                                        | Infections and infestations                                                                                                                                                                                            |
+| Common:                                                            | Infections, herpes zoster, pharyngitis a , candidiasis oral                                                                                                                                                            |
+| Uncommon:                                                          | Opportunistic infection (including PCP), sepsis † , meningoencephalitis herpetic † , CMV infection, CMV reactivation, hepatitis B virus † , herpes simplex, infection reactivation, wound infection, gastroenteritis b |
+| Neoplasm benign, malignant, and unspecified                        | Neoplasm benign, malignant, and unspecified                                                                                                                                                                            |
+| Uncommon:                                                          | Myelodysplastic syndrome (MDS), secondary malignancies, including myeloid leukaemia                                                                                                                                    |
+| Blood and lymphatic system disorders                               | Blood and lymphatic system disorders                                                                                                                                                                                   |
+| Common:                                                            | Febrile neutropenia, neutropenia, thrombocytopenia, lymphopenia, leukopenia, anaemia                                                                                                                                   |
+| Uncommon:                                                          | Prolonged pancytopenia, aplastic anaemia † , pancytopenia, petechiae                                                                                                                                                   |
+| Immune system disorders                                            | Immune system disorders                                                                                                                                                                                                |
+| Common:                                                            | Allergic reaction                                                                                                                                                                                                      |
+| Uncommon:                                                          | Anaphylaxis                                                                                                                                                                                                            |
+| Endocrine disorders                                                | Endocrine disorders                                                                                                                                                                                                    |
+| Common:                                                            | Cushingoid c                                                                                                                                                                                                           |
+| Uncommon:                                                          | Diabetes insipidus                                                                                                                                                                                                     |
+| Metabolism and nutrition disorders                                 | Metabolism and nutrition disorders                                                                                                                                                                                     |
+| Very common:                                                       | Anorexia                                                                                                                                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
 | Table 4. Adverse reactions in patients treated with temozolomide   | Table 4. Adverse reactions in patients treated with temozolomide                                                                                                                                                                                 |
 |--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Common:                                                            | Hyperglycaemia                                                                                                                                                                                                                                   |
+| Uncommon:                                                          | Hypokalaemia, alkaline phosphatase increased                                                                                                                                                                                                     |
+| Psychiatric disorders                                              |                                                                                                                                                                                                                                                  |
+| Common:                                                            | Agitation, amnesia, depression, anxiety, confusion, insomnia                                                                                                                                                                                     |
+| Uncommon:                                                          | Behaviour disorder, emotional lability, hallucination, apathy                                                                                                                                                                                    |
+| Nervous system disorders                                           |                                                                                                                                                                                                                                                  |
+| Very common:                                                       | Convulsions, hemiparesis, aphasia/dysphasia, headache                                                                                                                                                                                            |
 | Common:                                                            | Ataxia, balance impaired, cognition impaired, concentration impaired, consciousness decreased, dizziness, hypoesthesia, memory impaired, neurologic disorder, neuropathy d , paraesthesia, somnolence, speech disorder, taste perversion, tremor |
 | Uncommon:                                                          | Status epilepticus, hemiplegia, extrapyramidal disorder, parosmia, gait abnormality, hyperaesthesia, sensory disturbance, coordination abnormal                                                                                                  |
 | Eye disorders                                                      |                                                                                                                                                                                                                                                  |
@@ -977,7 +970,7 @@ Adverse reactions observed in clinical studies and reported f rom post-marketing
 | Vascular disorders                                                 |                                                                                                                                                                                                                                                  |
 | Common:                                                            | Haemorrhage, embolism pulmonary, deep vein thrombosis, hypertension,                                                                                                                                                                             |
 | Uncommon:                                                          | Cerebral haemorrhage, flushing, hot flushes                                                                                                                                                                                                      |
-| Respiratory, thoracic and mediastinal disorders                    | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                  |
+| Respiratory, thoracic and mediastinal                              | disorders                                                                                                                                                                                                                                        |
 | Common:                                                            | Pneumonia, dyspnoea, sinusitis, bronchitis, coughing, upper respiratory infection                                                                                                                                                                |
 | Uncommon:                                                          | Respiratory failure † , interstitial pneumonitis/pneumonitis, pulmonary fibrosis, nasal congestion                                                                                                                                               |
 | Gastrointestinal disorders                                         |                                                                                                                                                                                                                                                  |
@@ -989,47 +982,39 @@ Adverse reactions observed in clinical studies and reported f rom post-marketing
 | Skin and subcutaneous tissue disorders                             |                                                                                                                                                                                                                                                  |
 | Very Common:                                                       | Rash, alopecia                                                                                                                                                                                                                                   |
 | Common:                                                            | Erythema, dry skin, pruritus                                                                                                                                                                                                                     |
-| Uncommon:                                                          | Toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, erythema multiforme, erythroderma, skin exfoliation, photosensitivity reaction, urticaria, exanthema, dermatitis, sweating increased, pigmentation abnormal                    |
-| Not known:                                                         | Drug reaction with eosinophilia and systemic symptoms (DRESS)                                                                                                                                                                                    |
-| Musculoskeletal and connective tissue disorders                    | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                  |
-| Common:                                                            | Myopathy, muscle weakness, arthralgia, back pain, musculoskeletal pain, myalgia                                                                                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 4. Adverse reactions in patients treated with temozolomide   | Table 4. Adverse reactions in patients treated with temozolomide                         |
-|--------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| Renal and urinary disorders                                        | Renal and urinary disorders                                                              |
-| Common:                                                            | Micturition frequency, urinary incontinence                                              |
-| Uncommon:                                                          | Dysuria                                                                                  |
-| Reproductive system and breast disorders                           | Reproductive system and breast disorders                                                 |
-| Uncommon:                                                          | Vaginal haemorrhage, menorrhagia, amenorrhoea, vaginitis, breast pain, impotence         |
-| General disorders and administration site conditions               | General disorders and administration site conditions                                     |
-| Very common:                                                       | Fatigue                                                                                  |
-| Common:                                                            | Fever, influenza-like symptoms, asthenia, malaise, pain, oedema, oedema peripheral i     |
-| Uncommon:                                                          | Condition aggravated, rigors, face oedema, tongue discolouration, thirst, tooth disorder |
-| Investigations                                                     | Investigations                                                                           |
-| Common:                                                            | Liver enzymes elevation j , weight decreased, weight increased                           |
-| Uncommon:                                                          | Gamma-glutamyltransferase increased                                                      |
-| Injury, poisoning and procedural complications                     | Injury, poisoning and procedural complications                                           |
-| Common:                                                            | Radiation injury k                                                                       |
+| Table 4. Adverse reactions in patients treated with temozolomide   | Table 4. Adverse reactions in patients treated with temozolomide                                                                                                                                                              |
+|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Uncommon:                                                          | Toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, erythema multiforme, erythroderma, skin exfoliation, photosensitivity reaction, urticaria, exanthema, dermatitis, sweating increased, pigmentation abnormal |
+| Not known:                                                         | Drug reaction with eosinophilia and systemic symptoms (DRESS)                                                                                                                                                                 |
+| Musculoskeletal and connective tissue disorders                    | Musculoskeletal and connective tissue disorders                                                                                                                                                                               |
+| Common:                                                            | Myopathy, muscle weakness, arthralgia, back pain, musculoskeletal pain, myalgia                                                                                                                                               |
+| Renal and urinary disorders                                        | Renal and urinary disorders                                                                                                                                                                                                   |
+| Common:                                                            | Micturition frequency, urinary incontinence                                                                                                                                                                                   |
+| Uncommon:                                                          | Dysuria                                                                                                                                                                                                                       |
+| Reproductive system and breast disorders                           | Reproductive system and breast disorders                                                                                                                                                                                      |
+| Uncommon:                                                          | Vaginal haemorrhage, menorrhagia, amenorrhoea, vaginitis, breast pain, impotence                                                                                                                                              |
+| General disorders and administration site conditions               | General disorders and administration site conditions                                                                                                                                                                          |
+| Very common:                                                       | Fatigue                                                                                                                                                                                                                       |
+| Common:                                                            | Fever, influenza-like symptoms, asthenia, malaise, pain, oedema, oedema peripheral i                                                                                                                                          |
+| Uncommon:                                                          | Condition aggravated, rigors, face oedema, tongue discolouration, thirst, tooth disorder                                                                                                                                      |
+| Investigations                                                     | Investigations                                                                                                                                                                                                                |
+| Common:                                                            | Liver enzymes elevation j , weight decreased, weight increased                                                                                                                                                                |
+| Uncommon:                                                          | Gamma-glutamyltransferase increased                                                                                                                                                                                           |
+| Injury, poisoning and procedural complications                     | Injury, poisoning and procedural complications                                                                                                                                                                                |
+| Common:                                                            | Radiation injury k                                                                                                                                                                                                            |
 
-- b Includes gastroenteritis, gastroenteritis viral
-
-c  Includes cushingoid, Cushing syndrome
-
-d  Includes neuropathy, peripheral neuropathy, polyneuropathy, peripheral sensory neuropathy, peripheral motor neuropathy
-
-e  Includes visual impairment, eye disorder
-
-f Includes deafness, deafness bilateral, deafness neurosensory, deaf ness unilateral
+- e  Includes visual impairment, eye disorder
+- f Includes deafness, deafness bilateral, deafness neurosensory, deaf ness unilateral
 
 g Includes earache, ear discomfort
 
 - h  Includes abdominal pain, abdominal pain lower, abdominal pain upper, abdominal discomfort
+- i  Includes oedema peripheral, peripheral swelling
 
-i  Includes oedema peripheral, peripheral swelling
-
-j Includes liver f unction test increased, alanine aminotransf erase increased, aspartate aminotransf erase increased, hepatic enzymes increased
+j Includes liver f unction test increased, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzymes increased
 
 k Includes radiation injury, radiation skin injury
 
@@ -1041,21 +1026,21 @@ k Includes radiation injury, radiation skin injury
 
 Myelosuppression (neutropenia and thrombocytopenia), which is known dose-limiting toxicity for most cytotoxic agents, including TMZ, was observed. When laboratory abnormalities and adverse events were combined across concomitant and monotherapy treatment phases, Grade 3 or Grade 4 neutrophil abnormalities including neutropenic events were observed in 8 % of the patients. Grade 3 or Grade 4 thrombocyte abnormalities, including thrombocytopenic events were observed in 14 % of the patients who received TMZ.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Recurrent or progressive malignant glioma
 
 ## Laboratory results
 
-Grade 3 or 4 thrombocytopenia and neutropenia occurred in 19 % and 17 % respectively, of patients treated for malignant glioma. This led to hospitalisation and/or discontinuation of TMZ in 8 % and 4 %, respectively. Myelosuppression was predictable (usually within the first few cycles, with the nadir between Day 21 and Day 28), and recovery was rapid, usually within 1-2 weeks. No evidence of cumulative myelosuppression was observed. The presence of thrombocytopenia may increase the risk of bleeding, and the presence of neutropenia or leukopenia may increase the risk of infection.
-
-<div style=\"page-break-after: always\"></div>
+Grade 3 or 4 thrombocytopenia and neutropenia occurred in 19 % and 17 % respectively, of patients treated for malignant glioma. This led to hospitalisation and/or discontinuation of TMZ in 8 % and 4 %, respectively. Myelosuppression was predictable (usually within the first few cycles, with the nadir between Day 21 and Day 28), and recovery was rapid, usually within 1-2 weeks. No evidence of cumulative myelosuppression was observed. The presence of thrombocytopenia may increase the risk of bleeding, and the presence of neutropenia or leukopenia may increase the risk of  infection.
 
 ## Gender
 
-In a population pharmacokinetics analysis of clinical trial experience there were 101 female and 169 male subjects for whom nadir neutrophil counts were available and 110 female and 174 male subjects for whom nadir platelet counts were available. There were higher rates of  Grade 4 neutropenia (ANC &lt; 0.5 x 10 9 /l), 12 % vs 5 %, and thrombocytopenia (&lt; 20 x 10 9 /l), 9 % vs 3 %, in women vs men in the first cycle of therapy. In a 400 subject recurrent glioma data set, Grade 4 neutropenia occurred in 8 % of female vs 4 % of male subjects and Grade 4 thrombocytopenia in 8 % of f emale vs 3 % of male subjects in the first cycle of therapy. In a study of  288 subjects with newly -diagnosed glioblastoma multiforme, Grade 4 neutropenia occurred in 3 % of female vs 0 % of male subjects and Grade 4 thrombocytopenia in 1 % of female vs 0 % of male subjects in the f irst cycle of therapy.
+In a population pharmacokinetics analysis of clinical trial experience there were 101 female and 169 male subjects for whom nadir neutrophil counts were available and 110 female and 174 male subjects for whom nadir platelet counts were available. There were higher rates of Grade 4 neutropenia (ANC &lt; 0.5 x 10 9 /l), 12 % vs 5 %, and thrombocytopenia (&lt; 20 x 10 9 /l), 9 % vs 3 %, in women vs men in the first cycle of therapy. In a 400 subject recurrent glioma data set, Grade 4 neutropenia occurred in 8 % of female vs 4 % of male subjects and Grade 4 thrombocytopenia in 8 % of female vs 3 % of male subjects in the first cycle of  therapy. In a study of  288 subjects with newly -diagnosed glioblastoma multif orme, Grade 4 neutropenia occurred in 3 % of  f emale vs 0 % of male subjects and Grade 4 thrombocytopenia in 1 % of  f emale vs 0 % of male subjects in the f irst cycle of therapy.
 
 ## Paediatric population
 
-Oral TMZ has been studied in paediatric patients (age 3-18 years) with recurrent brainstem glioma or recurrent high grade astrocytoma, in a regimen administered daily for 5 days every 28 days. Although the data is limited, tolerance in children is expected to be the same as in adults. The saf ety of TMZ in children under the age of 3 years has not been established.
+Oral TMZ has been studied in paediatric patients (age 3-18 years) with recurrent brainstem glioma or recurrent high-grade astrocytoma, in a regimen administered daily f or 5 days every 28 days. Although the data is limited, tolerance in children is expected to be the same as in adults. The saf ety of TMZ in children under the age of 3 years has not been established.
 
 ## Clinical trial experience with IV
 
@@ -1067,7 +1052,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Doses of 500, 750, 1,000, and 1,250 mg/m 2 (total dose per cycle over 5 days) have been evaluated clinically in patients. Dose-limiting toxicity was haematological and was reported with any dose but is expected to be more severe at higher doses. An overdose of 10,000 mg (total dose in a single cycle, over 5 days) was taken by one patient and the adverse reactions reported were pancytopenia, pyrexia, multi-organ failure and death. There are reports of patients who have taken the recommended dose for more than 5 days of treatment (up to 64 days) with adverse events reported including bone marrow suppression, with or without infection, in some cases severe and prolonged and resulting in death. In the event of an overdose, haematological evaluation is needed. Supportive measures should be provided as necessary.
+Doses of 500, 750, 1 000, and 1 250 mg/m 2 (total dose per cycle over 5 days) have been evaluated clinically in patients. Dose-limiting toxicity was haematological and was reported with any dose but is expected to be more severe at higher doses. An overdose of 10 000 mg (total dose in a single cycle, over 5 days) was taken by one patient and the adverse reactions reported were pancytopenia, pyrexia, multi-organ failure and death. There are reports of  patients who have taken the recommended dose for more than 5 days of treatment (up to 64 days) with adverse events reported including bone marrow suppression, with or without infection, in some cases severe and prolonged and resulting in death. In the event of an overdose, haematological evaluation is needed. Supportive measures should be provided as necessary.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -1077,37 +1064,31 @@ Pharmacotherapeutic group: Antineoplastic agents - Other alkylating agents, ATC 
 
 ## Mechanism of action
 
-Temozolomide is a triazene, which undergoes rapid chemical conversion at physiologic pH to the active monomethyl triazenoimidazole carboxamide (MTIC). The cytotoxicity of MTIC is thought to
+Temozolomide is a triazene, which undergoes rapid chemical conversion at physiologic pH to the active monomethyl triazenoimidazole carboxamide (MTIC). The cytotoxicity of MTIC is thought to be due primarily to alkylation at the O 6 position of guanine with additional alkylation also occurring at the N 7 position. Cytotoxic lesions that develop subsequently are thought to involve aberrant repair of the methyl adduct.
 
-<div style=\"page-break-after: always\"></div>
-
-be due primarily to alkylation at the O 6 position of guanine with additional alkylation also occurring at the N 7 position. Cytotoxic lesions that develop subsequently are thought to involve aberrant repair of the methyl adduct.
-
-## Clinical eff icacy and safety
+## Clinical ef f icacy and saf ety
 
 ## Newly-diagnosed glioblastoma multiforme
 
-A total of 573 patients were randomised to receive either TMZ + RT (n=287) or RT alone (n=286). Patients in the TMZ + RT arm received concomitant TMZ (75 mg/m 2 ) once daily, starting the first day of RT until the last day of RT, for 42 days (with a maximum of 49 days). This was followed by monotherapy TMZ (150 - 200 mg/m 2 ) on Days 1 - 5 of every 28-day cycle for up to 6 cycles, starting 4 weeks after the end of RT. Patients in the control arm received RT only. Pneumocystis jirovecii pneumonia (PCP) prophylaxis was required during RT and combined TMZ therapy.
+A total of 573 patients were randomised to receive either TMZ + RT (n=287) or RT alone (n=286). Patients in the TMZ + RT arm received concomitant TMZ (75 mg/m 2 ) once daily, starting the f irst day of RT until the last day of  RT, f or 42 days (with a maximum of 49 days). This was followed by monotherapy TMZ (150 - 200 mg/m 2 ) on Days 1 - 5 of every 28-day cycle for up to 6 cycles, starting 4 weeks after the end of RT. Patients in the control arm received RT only. Pneumocystis jirovecii pneumonia (PCP) prophylaxis was required during RT and combined TMZ therapy.
 
 TMZ was administered as salvage therapy in the follow-up phase in 161 patients of the 282 (57 %) in the RT alone arm, and 62 patients of the 277 (22 %) in the TMZ + RT arm.
 
 The hazard ratio (HR) for overall survival was 1.59 (95 % CI for HR=1.33 -1.91) with a log-rank p &lt; 0.0001 in favour of the TMZ arm. The estimated probability of surviving 2 years or more (26 % vs 10 %) is higher for the RT + TMZ arm. The addition of concomitant TMZ to RT, followed by TMZ monotherapy in the treatment of patients with newly-diagnosed glioblastoma multiforme demonstrated a statistically signif icant improvement in overall survival (OS) compared with RT alone (Figure 1).
 
-## ITT Population:Overall Survival
+## ITT Population: Overall Survival
 
 Figure 1 Kaplan-Meier curves for overall survival (Intent to treat population)
 
 <!-- image -->
 
+<div style=\"page-break-after: always\"></div>
+
 The results from the trial were not consistent in the subgroup of patients with a poor performance status (WHO PS=2, n=70), where overall survival and time to progression were similar in both arms. However, no unacceptable risks appear to be present in this patient group.
 
 ## Recurrent or progressive malignant glioma
 
-Data on clinical eff icacy in patients with glioblastoma multiforme (Karnof sky perf ormance status [KPS] /uniF0B3 70), progressive or recurrent af ter surgery and RT, were based on two clinical trials with oral TMZ. One was a non-comparative trial in 138 patients (29 % received prior chemotherapy), and the other was a randomised active-controlled trial of  TMZ vs procarbazine in a total of  225 patients (67 % received prior treatment with nitrosourea based chemotherapy). In both trials, the primary endpoint
-
-<div style=\"page-break-after: always\"></div>
-
-was progression-free survival (PFS) defined by MRI scans or neurological worsening. In the non-comparative trial, the PFS at 6 months was 19 %, the median progression-free survival was 2.1 months, and the median overall survival 5.4 months. The objective response rate (ORR) based on MRI scans was 8 %.
+Data on clinical ef f icacy in patients with glioblastoma multiforme (Karnof sky perf ormance status [KPS] 70), progressive or recurrent af ter surgery and RT, were based on two clinical trials with oral TMZ. One was a non-comparative trial in 138 patients (29 % received prior chemotherapy), and the other was a randomised active-controlled trial of  TMZ vs procarbazine in a total of  225 patients (67 % received prior treatment with nitrosourea based chemotherapy). In both trials, the primary endpoint was progression-free survival (PFS) defined by MRI scans or neurological worsening. In the non-comparative trial, the PFS at 6 months was 19 %, the median progression-free survival was 2.1 months, and the median overall survival 5.4 months. The objective response rate (ORR) based on MRI scans was 8 %.
 
 In the randomised active-controlled trial, the PFS at 6 months was significantly greater f or TMZ than for procarbazine (21 % vs 8 %, respectively -chi-square p = 0.008) with median PFS of 2.89 and 1.88 months respectively (log rank p = 0.0063). The median survival was 7.34 and 5.66 months for TMZ and procarbazine, respectively (log rank p = 0.33). At 6 months, the fraction of surviving patients was significantly higher in the TMZ arm (60 %) compared with the procarbazine arm (44 %) (chi-square p = 0.019). In patients with prior chemotherapy a benefit was indicated in those with a KPS ≥ 80.
 
@@ -1115,19 +1096,19 @@ Data on time to worsening of neurological status favoured TMZ over procarbazine 
 
 ## Recurrent anaplastic astrocytoma
 
-In a multicentre, prospective phase II trial evaluating the safety and efficacy of oral TMZ in the treatment of patients with anaplastic astrocytoma at first relapse, the 6 month PFS was 46 %. The median PFS was 5.4 months. Median overall survival was 14.6 months. Response rate, based on the central reviewer assessment, was 35 % (13 CR and 43 PR) for the intent-to-treat population (ITT) n=162. In 43 patients stable disease was reported. The 6-month event-free survival for the ITT population was 44 % with a median event-free survival of 4.6 months, which was similar to the results for the progression-free survival. For the eligible histology population, the efficacy results were similar. Achieving a radiological objective response or maintaining progression-free status was strongly associated with maintained or improved quality of lif e.
+In a multicentre, prospective phase II trial evaluating the safety and ef ficacy of oral TMZ in the treatment of patients with anaplastic astrocytoma at first relapse, the 6 month PFS was 46 %. The median PFS was 5.4 months. Median overall survival was 14.6 months. Response rate, based on the central reviewer assessment, was 35 % (13 CR and 43 PR) for the intent-to-treat population (ITT) n=162. In 43 patients stable disease was reported. The 6-month event-free survival for the ITT population was 44 % with a median event-free survival of 4.6 months, which was similar to the results for the progression-free survival. For the eligible histology population, the ef ficacy results were similar. Achieving a radiological objective response or maintaining progression-f ree status was strongly associated with maintained or improved quality of lif e.
 
 ## Paediatric population
 
-Oral TMZ has been studied in paediatric patients (age 3-18 years) with recurrent brainstem glioma or recurrent high grade astrocytoma, in a regimen administered daily for 5 days every 28 days. Tolerance to TMZ is similar to adults.
+Oral TMZ has been studied in paediatric patients (age 3-18 years) with recurrent brainstem glioma or recurrent high-grade astrocytoma, in a regimen administered daily f or 5 days every 28 days. Tolerance to TMZ is similar to adults.
 
 ## 5.2 Pharmacokinetic properties
 
-TMZ is spontaneously hydrolyzed at physiologic pH primarily to the active species, 3- methyl(triazen-1-yl)imidazole-4-carboxamide (MTIC). MTIC is spontaneously hydrolyzed to 5amino-imidazole4carboxamide (AIC), a known intermediate in purine and nucleic acid biosynthesis, and to methylhydrazine, which is believed to be the active alkylating species. The cytotoxicity of MTIC is thought to be primarily due to alkylation of DNA mainly at the O 6 and N 7 positions of guanine. Relative to the AUC of TMZ, the exposure to MTIC and AIC is ~ 2.4 % and 23 %, respectively. In vivo , the t 1/2 of  MTIC was similar to that of TMZ, 1.8 hr.
-
-In an open-label, two-way crossover bioequivalence study of the pharmacokinetics of oral and intravenous TMZ in patients with primary CNS malignancies, Temodal 2.5 mg/ml powder for solution for inf usion administered over 90 minutes was found to be bioequivalent for Cmax and AUC of TMZ and MTIC as compared to Temodal hard capsules, following administration of 150 mg/m 2  dose. Mean Cmax values for TMZ and MTIC were 7.4 µg/ml and 320 ng/ml, respectively, following 90 minute intravenous infusion. Mean AUC (0 → /uniF0A5 ) values f or TMZ and MTIC were 25 µg·h/ml and 1,004 ng·h/ml, respecti vely.
+TMZ is spontaneously hydrolysed at physiologic pH primarily to the active species, 3- methyl(triazen-1-yl)imidazole-4-carboxamide (MTIC). MTIC is spontaneously hydrolysed to 5amino-imidazole4carboxamide (AIC), a known intermediate in purine and nucleic acid biosynthesis, and to methylhydrazine, which is believed to be the active alkylating species. The cytotoxicity of MTIC is thought to be primarily due to alkylation of DNA mainly at the O 6 and N 7 positions of guanine. Relative to the AUC of TMZ, the exposure to MTIC and AIC is ~ 2.4 % and 23 %, respectively. In vivo , the t1/2 of  MTIC was similar to that of TMZ, 1.8 hr.
 
 <div style=\"page-break-after: always\"></div>
+
+In an open-label, two-way crossover bioequivalence study of the pharmacokinetics of oral and intravenous TMZ in patients with primary CNS malignancies, Temodal 2.5 mg/ml powder for solution for inf usion administered over 90 minutes was found to be bioequivalent f or Cmax and AUC of TMZ and MTIC as compared to Temodal hard capsules, following administration of 150 mg/m 2  dose. Mean Cmax values for TMZ and MTIC were 7.4 µg/ml and 320 ng/ml, respectively, following 90 minute intravenous infusion. Mean AUC (0 → ) values f or TMZ and MTIC were 25 µg·h/ml and 1 004 ng·h/ml, respectively.
 
 ## Absorption
 
@@ -1141,25 +1122,27 @@ PET studies in humans and preclinical data suggest that TMZ crosses the blood-br
 
 ## Elimination
 
-The half-lif e (t 1/2) in plasma is approximately 1.8 hours. The major route of 14 C elimination is renal. Following oral administration, approximately 5 % to 10 % of the dose is recovered unchanged in the urine over 24 hours, and the remainder excreted as temozolomide acid, 5-aminoimidazole-4-carboxamide (AIC) or unidentified polar metabolites.
+The half-life (t1/2) in plasma is approximately 1.8 hours. The major route of 14 C elimination is renal. Following oral administration, approximately 5 % to 10 % of the dose is recovered unchanged in the urine over 24 hours, and the remainder excreted as temozolomide acid, 5-aminoimidazole-4-carboxamide (AIC) or unidentified polar metabolites.
 
 Plasma concentrations increase in a dose-related manner. Plasma clearance, volume of distribution and half-lif e are independent of dose.
 
 ## Special populations
 
-Analysis of population-based pharmacokinetics of TMZ revealed that plasma TMZ clearance was independent of age, renal function or tobacco use. In a separate pharmacokinetic study, plasma pharmacokinetic profiles in patients with mild to moderate hepatic impairment were similar to those observed in patients with normal hepatic function.
+Analysis of population-based pharmacokinetics of TMZ revealed that plasma TMZ clearance was independent of age, renal f unction or tobacco use. In a separate pharmacokinetic study, plasma pharmacokinetic profiles in patients with mild to moderate hepatic impairment were similar to those observed in patients with normal hepatic function.
 
-Paediatric patients had a higher AUC than adult patients; however, the maximum tolerated dose (MTD) was 1,000 mg/m 2  per cycle both in children and in adults.
+Paediatric patients had a higher AUC than adult patients; however, the maximum tolerated dose (MTD) was 1 000 mg/m 2  per cycle both in children and in adults.
 
 ## 5.3 Preclinical safety data
 
-Single-cycle (5-day dosing, 23 days non-treatment), 3- and 6-cycle toxicity studies were conducted in rats and dogs. The primary targets of toxicity included the bone marrow, lymphoreticular system, testes, the gastrointestinal tract and, at higher doses, which were lethal to 60 % to 100 % of rats and dogs tested, degeneration of the retina occurred. Most of the toxicity showed evidence of reversibility, except for adverse events on the male reproductive system and retinal degeneration. However, because the doses implicated in retinal degeneration were in the lethal dose range, and no comparable effect has been observed in clinical studies, this finding was not considered to have clinical relevance.
+Single-cycle (5-day dosing, 23 days non-treatment), 3- and 6-cycle toxicity studies were conducted in rats and dogs. The primary targets of toxicity included the bone marrow, lymphoreticular system, testes, the gastrointestinal tract and, at higher doses, which were lethal to 60 % to 100 % of rats and dogs tested, degeneration of the retina occurred. Most of the toxicity showed evidence of  reversibility, except for adverse events on the male reproductive system and retinal degeneration. However, because the doses implicated in retinal degeneration were in the lethal dose range, and no comparable ef fect has been observed in clinical studies, this finding was not considered to have clinical relevance.
 
-TMZ is an embryotoxic, teratogenic and genotoxic alkylating agent. TMZ is more toxic to the rat and dog than to humans, and the clinical dose approximates the minimum lethal dose in rats and dogs. Dose-related reductions in leukocytes and platelets appear to be sensitive indicators of toxicity. A variety of neoplasms, including mammary carcinomas, keratocanthoma of the skin and basal cell adenoma were observed in the 6-cycle rat study while no tumours or pre-neoplastic changes were evident in dog studies. Rats appear to be particularly sensitive to oncogenic effects of TMZ, with the occurrence of first tumours within 3 months of initiating dosing. This latency period is very short even for an alkylating agent.
-
-Results of the Ames/salmonella and Human Peripheral Blood Lymphocyte (HPBL) chromosome aberration tests showed a positive mutagenicity response.
+TMZ is an embryotoxic, teratogenic and genotoxic alkylating agent. TMZ is more toxic to the rat and dog than to humans, and the clinical dose approximates the minimum lethal dose in rats and dogs. Dose-related reductions in leukocytes and platelets appear to be sensitive indicators of toxicity. A
 
 <div style=\"page-break-after: always\"></div>
+
+variety of neoplasms, including mammary carcinomas, keratocanthoma of the skin and basal cell adenoma were observed in the 6-cycle rat study while no tumours or pre-neoplastic changes were evident in dog studies. Rats appear to be particularly sensitive to oncogenic ef fects of TMZ, with the occurrence of first tumours within 3 months of initiating dosing. This latency period is very short even for an alkylating agent.
+
+Results of the Ames/salmonella and Human Peripheral Blood Lymphocyte (HPBL) chromosome aberration tests showed a positive mutagenicity response.
 
 The intravenous formulation produced local irritation at the site of injection in both rabbits and rats. The irritation was transient and not associated with lasting tissue damage.
 
@@ -1167,9 +1150,7 @@ The intravenous formulation produced local irritation at the site of injection i
 
 ## 6.1 List of excipients
 
-Mannitol (E421) Threonine Polysorbate 80 Sodium citrate (for pH adjustment)
-
-Hydrochloric acid concentrated (for pH adjustment)
+Mannitol (E421) Threonine Polysorbate 80 Sodium citrate (for pH adjustment) Hydrochloric acid concentrated (f or pH adjustment)
 
 ## 6.2 Incompatibilities
 
@@ -1179,13 +1160,13 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Unopened vial: 4 years
 
-Reconstituted solution: af ter reconstitution the chemical and physical in-use stability has been demonstrated for 14 hours at 25 /uniF0B0 C, including infusion time.
+Reconstituted solution: after reconstitution the chemical and physical in-use stability has been demonstrated for 14 hours at 25 C, including infusion time.
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8 /uniF0B0 C, unless reconstitution has taken place in controlled and validated aseptic conditions.
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8 C, unless reconstitution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 /uniF0B0 C -8 /uniF0B0 C).
+Store in a refrigerator (2  C -8  C).
 
 For storage conditions of the reconstituted medicinal product, see section 6.3.
 
@@ -1199,13 +1180,11 @@ Temodal 2.5 mg/ml is supplied as a pack of 1 vial.
 
 Caution must be exercised in handling Temodal 2.5 mg/ml powder for solution for infusion. The use of gloves and aseptic technique is required. If Temodal 2.5 mg/ml comes into contact with skin or mucosa, it should be washed immediately and thoroughly with soap and water.
 
-Each vial must be reconstituted with 41 ml sterilised water for injections. The resulting solution contains 2.5 mg/ml TMZ. The vials should be gently swirled and not shaken. The solution should be inspected and any vial containing visible particulate matter should not be used. A volume up to 40 ml reconstituted solution should be withdrawn, according to the total prescribed dose and transferred into an empty 250 ml infusion bag (PVC or polyolefin). The pump tubing should be attached to the bag, the tubing purged and then capped. Temodal 2.5 mg/ml must be administered by intravenous infusion only over a period of 90 minutes.
-
 <div style=\"page-break-after: always\"></div>
 
-Temodal 2.5 mg/ml powder for solution for infusion may be administered in the same IV line with
+Each vial must be reconstituted with 41 ml sterilised water for injections. The resulting solution contains 2.5 mg/ml TMZ. The vials should be gently swirled and not shaken. The solution should be inspected and any vial containing visible particulate matter should not be used. A volume up to 40 ml reconstituted solution should be withdrawn, according to the total prescribed dose and transferred into an empty 250 ml infusion bag (PVC or polyolefin). The pump tubing should be attached to the bag, the tubing purged and then capped. Temodal 2.5 mg/ml must be administered by intravenous infusion only over a period of 90 minutes.
 
-0.9% Sodium Chloride injection. It is incompatible with dextrose solutions. In the absence of additional data, this medicinal product must not be mixed with other medicinal products or infused simultaneously through the same intravenous line.
+Temodal 2.5 mg/ml powder for solution for infusion may be administered in the same IV line with 0.9% Sodium Chloride injection. It is incompatible with dextrose solutions. In the absence of additional data, this medicinal product must not be mixed with other medicinal products or infused simultaneously through the same intravenous line.
 
 This medicinal product is for single use only. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -1219,15 +1198,11 @@ EU/1/98/096/023
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 26 January 1999
-
-Date of latest renewal: 17 December 2008
+Date of first authorisation: 26 January 1999 Date of latest renewal: 17 December 2008
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-35
+Detailed information on this medicinal product is available on the website of  the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1242,9 +1217,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
-
-Organon Heist bv Industriepark 30 2220 Heist-op-den-Berg Belgium
+Name and address of the manufacturer(s) responsible for batch release Organon Heist bv Industriepark 30 2220 Heist-op-den-Berg Belgium
 
 Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
@@ -1268,8 +1241,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of  the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benef it/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1289,7 +1262,9 @@ An updated RMP should be submitted:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Temodal 5 mg hard capsules temozolomide
+Temodal 5 mg hard capsules
+
+temozolomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1313,7 +1288,7 @@ Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children, preferably in a locked cupboard. Accidental ingestion can be lethal f or children.
+Keep out of the sight and reach of children, pref erably in a locked cupboard. Accidental ingestion can be lethal f or children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1324,6 +1299,8 @@ Do not open, crush or chew the capsules, swallow whole. If a capsule is damaged,
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1348,22 +1325,23 @@ EU/1/98/096/024 (5 hard capsules) EU/1/98/096/025 (20 hard capsules)
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Temodal 5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC
 
-<div style=\"page-break-after: always\"></div>
+SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1373,7 +1351,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Temodal 20 mg hard capsules temozolomide
+Temodal 20 mg hard capsules
+
+temozolomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1397,7 +1377,7 @@ Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children, preferably in a locked cupboard. Accidental ingestion can be lethal f or children.
+Keep out of the sight and reach of children, pref erably in a locked cupboard. Accidental ingestion can be lethal f or children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1435,7 +1415,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Temodal 20 mg
 
@@ -1461,7 +1441,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Temodal 100 mg hard capsules temozolomide
+Temodal 100 mg hard capsules
+
+temozolomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1485,7 +1467,7 @@ Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children, preferably in a locked cupboard. Accidental ingestion can be lethal f or children.
+Keep out of the sight and reach of children, pref erably in a locked cupboard. Accidental ingestion can be lethal f or children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1496,6 +1478,8 @@ Do not open, crush or chew the capsules, swallow whole. If a capsule is damaged,
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1522,14 +1506,13 @@ EU/1/98/096/016 (20 hard capsules
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Temodal 100 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1538,8 +1521,6 @@ Temodal 100 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1551,7 +1532,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Temodal 140 mg hard capsules temozolomide
+Temodal 140 mg hard capsules
+
+temozolomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1573,7 +1556,7 @@ Read the enclosed package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children, preferably in a locked cupboard. Accidental ingestion can be lethal f or children.
+Keep out of the sight and reach of children, pref erably in a locked cupboard. Accidental ingestion can be lethal f or children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1601,9 +1584,7 @@ Waarderweg 39 2031 BN Haarlem The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/98/096/017 (5 hard capsules)
-
-EU/1/98/096/018 (20 hard capsules)
+EU/1/98/096/017 (5 hard capsules) EU/1/98/096/018 (20 hard capsules)
 
 ## 13. BATCH NUMBER
 
@@ -1613,7 +1594,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Temodal 140 mg
 
@@ -1623,9 +1604,13 @@ Temodal 140 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC
+
+SN
 
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1635,7 +1620,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Temodal 180 mg hard capsules temozolomide
+Temodal 180 mg hard capsules
+
+temozolomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1657,7 +1644,7 @@ Read the enclosed package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children, preferably in a locked cupboard. Accidental ingestion can be lethal f or children.
+Keep out of the sight and reach of children, pref erably in a locked cupboard. Accidental ingestion can be lethal f or children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1668,6 +1655,8 @@ Do not open, crush or chew the capsules, swallow whole. If a capsule is damaged,
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1692,14 +1681,13 @@ EU/1/98/096/019 (5 hard capsules) EU/1/98/096/020 (20 hard capsules)
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Temodal 180 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1708,8 +1696,6 @@ Temodal 180 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1721,7 +1707,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Temodal 250 mg hard capsules temozolomide
+Temodal 250 mg hard capsules
+
+temozolomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1743,7 +1731,7 @@ Read the enclosed package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children, preferably in a locked cupboard. Accidental ingestion can be lethal f or children.
+Keep out of the sight and reach of children, pref erably in a locked cupboard. Accidental ingestion can be lethal f or children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1754,6 +1742,8 @@ Do not open, crush or chew the capsules, swallow whole. If a capsule is damaged,
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1778,210 +1768,198 @@ EU/1/98/096/021 (5 hard capsules) EU/1/98/096/022 (20 hard capsules)
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Temodal 250 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC
+
+SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+SACHET CONTAINING 1 HARD CAPSULE OF TEMODAL 5 mg
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Temodal 5 mg capsules temozolomide Oral use
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+1 capsule Temodal 20 mg capsules temozolomide Oral use EXP
+
+| 6.   | OTHER   |
+|------|---------|
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGINGUNITS   |
-|---------------------------------------------------------------|
-| SACHET CONTAINING1 HARD CAPSULE OFTEMODAL5 mg                 |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SACHET CONTAINING 1 HARD CAPSULE OF TEMODAL 20 mg                  |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+1 capsule MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+SACHET CONTAINING 1 HARD CAPSULE OF TEMODAL 100 mg
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Temodal 100 mg capsules temozolomide Oral use
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+1 capsule
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SACHET CONTAINING 1 HARD CAPSULE OF TEMODAL 140 mg                 |
 
 1.
 
 NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Temodal 5 mg capsules temozolomide Oral use
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
-| 3.   | EXPIRYDATE   |
-|------|--------------|
-
-EXP
-
-| 4.   | BATCHNUMBER   |
-|------|---------------|
-
-Lot
-
-| 5.   | CONTENTS BYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|--------------------------------------|
-
-1 capsule
-
-| 6.   | OTHER   |
-|------|---------|
-
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUMPARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGINGUNITS   |
-|---------------------------------------------------------------|
-| SACHET CONTAINING1 HARD CAPSULE OF TEMODAL20 mg               |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
-
-Temodal 20 mg capsules temozolomide Oral use
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
-| 3.   | EXPIRYDATE   |
-|------|--------------|
-
-EXP
-
-| 4.   | BATCHNUMBER   |
-|------|---------------|
-
-Lot
-
-| 5.   | CONTENTS BYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|--------------------------------------|
-
-1 capsule
-
-| 6.   | OTHER   |
-|------|---------|
-
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUMPARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGINGUNITS   |
-|---------------------------------------------------------------|
-| SACHET CONTAINING1 HARD CAPSULE OF TEMODAL100 mg              |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
-
-Temodal 100 mg capsules temozolomide Oral use
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
-| 3.   | EXPIRYDATE   |
-|------|--------------|
-
-EXP
-
-| 4.   | BATCHNUMBER   |
-|------|---------------|
-
-Lot
-
-| 5.   | CONTENTS BYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|--------------------------------------|
-
-1 capsule
-
-| 6.   | OTHER   |
-|------|---------|
-
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUMPARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGINGUNITS   |
-|---------------------------------------------------------------|
-| SACHET CONTAINING1 HARD CAPSULE OF TEMODAL140 mg              |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
-
 Temodal 140 mg capsules temozolomide Oral use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|--------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
-1 capsule
+1 capsule Temodal 180 mg capsules temozolomide Oral use EXP
 
 | 6.   | OTHER   |
 |------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGINGUNITS   |
-|---------------------------------------------------------------|
-| SACHET CONTAINING1 HARD CAPSULE OF TEMODAL180 mg              |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SACHET CONTAINING 1 HARD CAPSULE OF TEMODAL 180 mg                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Temodal 180 mg capsules temozolomide Oral use
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
-| 3.   | EXPIRYDATE   |
-|------|--------------|
-
-EXP
-
-| 4.   | BATCHNUMBER   |
+| 3.   | EXPIRY DATE   |
 |------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|--------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
-1 capsule
+1 capsule MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 | 6.   | OTHER   |
 |------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGINGUNITS   |
-|---------------------------------------------------------------|
-| SACHET CONTAINING1 HARD CAPSULE OF TEMODAL250 mg              |
+SACHET CONTAINING 1 HARD CAPSULE OF TEMODAL 250 mg
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Temodal 250 mg capsules temozolomide Oral use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|--------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 capsule
 
@@ -1996,23 +1974,25 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Temodal 2.5 mg/ml powder for solution for infusion temozolomide
+Temodal 2.5 mg/ml powder for solution for infusion
+
+temozolomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each vial contains 100 mg temozolomide.
 
-After reconstitution, 1 ml of  solution f or inf usion contains 2.5 mg temozolomide.
+After reconstitution, 1 ml of solution for infusion contains 2.5 mg temozolomide.
 
 ## 3. LIST OF EXCIPIENTS
 
 Excipients: mannitol (E421), threonine, polysorbate 80, sodium citrate and hydrochloric acid concentrated for pH adjustment.
 
-For sodium, see leaflet for f urther inf ormation.
+For sodium and polysorbate 80, see leaflet f or further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder for solution for inf usion
+## Powder for solution for inf usion
 
 1 vial 100 mg
 
@@ -2044,7 +2024,7 @@ EXP
 
 Store in a refrigerator.
 
-After reconstitution, use the solution within 14 hours at 25 /uniF0B0 C, including infusion time.
+After reconstitution, use the solution within 14 hours at 25  C, including infusion time.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2067,7 +2047,8 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Justif ication f or not including Braille accepted.
 
@@ -2097,13 +2078,13 @@ Temodal 2.5 mg/ml powder for solution for infusion temozolomide
 
 Each vial contains 100 mg temozolomide.
 
-After reconstitution, 1 ml of  solution f or inf usion contains 2.5 mg.
+After reconstitution, 1 ml of solution for infusion contains 2.5 mg.
 
 ## 3. LIST OF EXCIPIENTS
 
 Mannitol (E421), threonine, polysorbate 80, sodium citrate and hydrochloric acid.
 
-For sodium, see leaflet for f urther inf ormation.
+For sodium and polysorbate 80, see leaflet f or further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2131,15 +2112,13 @@ Avoid contact with skin, eyes, nose.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
-After reconstitution: 14 hours at 25
+After reconstitution: 14 hours at 25  C, including infusion time.
 
-/uniF0B0 C, including infusion time.
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2147,9 +2126,7 @@ Dispose of in accordance with local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Merck Sharp &amp; Dohme B.V.
-
-Waarderweg 39 2031 BN Haarlem The Netherlands
+Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2173,21 +2150,23 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-Temodal 5 mg hard capsules Temodal 20 mg hard capsules Temodal 100 mg hard capsules Temodal 140 mg hard capsules Temodal 180 mg hard capsules Temodal 250 mg hard capsules temozolomide
+Temodal 5 mg hard capsules Temodal 20 mg hard capsules Temodal 100 mg hard capsules Temodal 140 mg hard capsules Temodal 180 mg hard capsules Temodal 250 mg hard capsules
+
+temozolomide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor, pharmacist or nurse.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of  illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side ef f ects not listed in this leaf let. See section 4.
+- -If you get any side ef f ects, talk to your doctor, pharmacist or nurse. This includes any possible side ef f ects not listed in this leaf let. See section 4.
 
 ## What is in this leaflet
 
 1. What Temodal is and what it is used for
 2. What you need to know before you take Temodal
 3. How to take Temodal
-4. Possible side effects
+4. Possible side ef f ects
 5. How to store Temodal
 6. Contents of the pack and other information
 
@@ -2206,7 +2185,7 @@ Temodal is used for the treatment of specif ic forms of brain tumours:
 
 - -if  you are allergic to temozolomide or any of the other ingredients of this medicine (listed in section 6).
 - -if  you have had an allergic reaction to dacarbazine (an anticancer medicine sometimes called DTIC). Signs of allergic reaction include feeling itchy, breathlessness or wheezing, swelling of the face, lips, tongue or throat.
-- -if  certain kinds of  blood cells are severely reduced (myelosuppression), such as your white blood cell count and platelet count. These blood cells are important for f ighting inf ection and for proper blood clotting. Your doctor will check your blood to make sure you have enough of these cells before you begin treatment.
+- -if  certain kinds of  blood cells are severely reduced (myelosuppression), such as your white blood cell count and platelet count. These blood cells are important for f ighting inf ection and for proper blood clotting. Your doctor will check your blood to make sure you have enough of these cells bef ore you begin treatment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2215,20 +2194,20 @@ Temodal is used for the treatment of specif ic forms of brain tumours:
 Talk to your doctor, pharmacist or nurse before taking Temodal,
 
 - -as you should be observed closely for the development of a serious form of chest infection called Pneumocystis jirovecii pneumonia (PCP) . If  you are a newly-diagnosed patient (glioblastoma multiforme) you may be receiving Temodal for 42 days in combination with radiotherapy. In this case, your doctor will also prescribe medicine to help you prevent this type of pneumonia (PCP).
-- -if  you have ever had or might now have a hepatitis B infection. This is because Temodal could cause hepatitis B to become active again, which can be fatal in some cases. Patients will be carefully checked by their doctor for signs of this infection before treatment is started.
-- -if  you have low counts of red blood cells (anaemia), white blood cells and platelets, or blood clotting problems before starting the treatment, or if you develop them during treatment. Your doctor may decide to reduce the dose, interrupt, stop or change your treatment. You may also need other treatments. In some cases, it may be necessary to stop treatment with Temodal. Your blood will be tested frequently during treatment to monitor the side ef fects of Temodal on your blood cells.
+- -if  you have ever had or might now have a hepatitis B infection. This is because Temodal could cause hepatitis B to become active again, which can be fatal in some cases. Patients will be carefully checked by their doctor for signs of this infection bef ore treatment is started.
+- -if  you have low counts of  red blood cells (anaemia), white blood cells and platelets, or blood clotting problems before starting the treatment, or if you develop them during treatment. Your doctor may decide to reduce the dose, interrupt, stop or change your treatment. You may also need other treatments. In some cases, it may be necessary to stop treatment with Temodal. Your blood will be tested frequently during treatment to monitor the side ef fects of  Temodal on your blood cells.
 - -as you may have a small risk of other changes in blood cells, including leukaemia.
 - -if  you have nausea (f eeling sick in your stomach) and/or vomiting which are very common side effects of  Temodal (see section 4), your doctor may prescribe you a medicine (an anti-emetic) to help prevent vomiting.
 
 If you vomit frequently before or during treatment, ask your doctor about the best time to take Temodal until the vomiting is under control. If you vomit after taking your dose, do not take a second dose on the same day.
 
-- -if  you develop fever or symptoms of an infection, contact your doctor immediately.
-- -if  you are older than 70 years of age, you might be more prone to infections, bruising or bleeding.
+- -if  you develop fever or symptoms of an inf ection, contact your doctor immediately.
+- -if  you are older than 70 years of  age, you might be more prone to infections, bruising or bleeding.
 - -if  you have liver or kidney problems, your dose of Temodal may need to be adjusted.
 
 ## Children and adolescents
 
-Do not give this medicine to children under the age of 3 years because it has not been studied. There is limited information in patients over 3 years of age who have taken Temodal.
+Do not give this medicine to children under the age of 3 years because it has not been studied. There is limited information in patients over 3 years of  age who have taken Temodal.
 
 ## Other medicines and Temodal
 
@@ -2238,23 +2217,23 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine. This is because you must not be treated with Temodal during pregnancy unless clearly indicated by your doctor.
 
-Effective contraceptive precautions must be taken by female patients who are able to become pregnant during treatment with Temodal, and f or at least 6 months following completion of treatment.
+Effective contraceptive precautions must be taken by f emale patients who are able to become pregnant during treatment with Temodal, and for at least 6 months following completion of treatment.
 
 You should stop breast-feeding while receiving treatment with Temodal.
 
 ## Male fertility
 
-Temodal may cause permanent infertility. Male patients should use effective contraception and not father a child for at least 3 months after stopping treatment. It is recommended to seek advice on conservation of sperm prior to treatment.
+Temodal may cause permanent infertility. Male patients should use effective contraception and not father a child f or at least 3 months af ter stopping treatment. It is recommended to seek advice on conservation of sperm prior to treatment.
 
 ## Driving and using machines
 
-Temodal may make you feel tired or sleepy. In this case, do not drive or use any tools or machines or cycle until you see how this medicine affects you (see section 4).
+Temodal may make you feel tired or sleepy. In this case, do not drive or use any tools or machines or cycle until you see how this medicine aff ects you (see section 4).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Temodal contains lactose
 
-This medicine contains lactose (a kind of sugar). If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
+This medicine contains lactose (a kind of  sugar). If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
 ## Temodal contains sodium
 
@@ -2285,7 +2264,7 @@ Then, you will start the monotherapy phase.
 
 During the monotherapy phase, the dose and way you take Temodal will be different. Your doctor will work out your exact dose. There may be up to 6 treatment periods (cycles). Each one lasts 28 days. You will take your new dose of Temodal alone once daily for the first 5 days ('dosing days') of  each cycle. The first dose will be 150 mg/m 2 . Then you will have 23 days without Temodal. This adds up to a 28-day treatment cycle.
 
-After Day 28, the next cycle will begin. You will again take Temodal once daily for 5 days followed by 23 days without Temodal. The Temodal dose may be adjusted, delayed or stopped depending on your blood counts and how you tolerate your medicine during each treatment cycle.
+After Day 28, the next cycle will begin. You will again take Temodal once daily f or 5 days f ollowed by 23 days without Temodal. The Temodal dose may be adjusted, delayed or stopped depending on your blood counts and how you tolerate your medicine during each treatment cycle.
 
 Patients with tumours that have returned or worsened (malignant glioma, such as glioblastoma multiforme or anaplastic astrocytoma) taking Temodal only:
 
@@ -2305,18 +2284,18 @@ Before each new treatment cycle, your blood will be tested to see if the Temodal
 
 Take your prescribed dose of Temodal once a day, preferably at the same time each day.
 
-Take the capsules on an empty stomach; for example, at least one hour before you plan to eat breakfast. Swallow the capsule(s) whole with a glass of water. Do not open, crush or chew the capsules. If a capsule is damaged, avoid contact of the powder with your skin, eyes or nose. If you accidentally get some in your eyes or nose, flush the area with water.
+Take the capsules on an empty stomach; for example, at least one hour before you plan to eat breakfast. Swallow the capsule(s) whole with a glass of water. Do not open, crush or chew the capsules. If a capsule is damaged, avoid contact of the powder with your skin, eyes or nose. If you accidentally get some in your eyes or nose, f lush the area with water.
 
-Depending on the prescribed dose, you may have to take more than one capsule together, eventually with different strengths (content of active substance, in mg). The colour of the capsule cap is dif f erent for each strength (see in the table below).
+Depending on the prescribed dose, you may have to take more than one capsule together, eventually with dif f erent strengths (content of  active substance, in mg). The colour of the capsule cap is dif f erent for each strength (see in the table below).
 
-| Strength                     | Strength                     | Colour ofthe cap   |
-|------------------------------|------------------------------|--------------------|
-| Temodal                      | 5 mg hard capsules           | green              |
-| Temodal                      | 20 mg hard capsules          | yellow             |
-| Temodal 100 mg hard capsules | Temodal 100 mg hard capsules | pink               |
-| Temodal 140 mg hard capsules | Temodal 140 mg hard capsules | blue               |
-| Temodal 180 mg hard capsules | Temodal 180 mg hard capsules | orange             |
-| Temodal 250 mg hard capsules | Temodal 250 mg hard capsules | white              |
+| Strength                     | Strength                     | Colour of the cap   |
+|------------------------------|------------------------------|---------------------|
+| Temodal                      | 5 mg hard capsules           | green               |
+| Temodal                      | 20 mg hard capsules          | yellow              |
+| Temodal 100 mg hard capsules | Temodal 100 mg hard capsules | pink                |
+| Temodal 140 mg hard capsules | Temodal 140 mg hard capsules | blue                |
+| Temodal 180 mg hard capsules | Temodal 180 mg hard capsules | orange              |
+| Temodal 250 mg hard capsules | Temodal 250 mg hard capsules | white               |
 
 You should make sure you fully understand and remember the following:
 
@@ -2335,13 +2314,13 @@ If you accidentally take more Temodal capsules than you were told to, contact yo
 
 Take the missed dose as soon as possible during the same day. If a full day has gone by, check with your doctor. Do not take a double dose to make up for a forgotten dose, unless your doctor tells you to do so.
 
-If  you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
 <div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
+Like all medicines, this medicine can cause side ef fects, although not everybody gets them.
 
 Contact your doctor immediately if  you have any of the following:
 
@@ -2369,7 +2348,7 @@ Other side effects that have been reported are listed below:
 - -reduced number of blood cells (neutropenia, lymphopenia, thrombocytopenia)
 - -allergic reaction
 - -increased blood sugar
-- -memory impairment, depression, anxiety, confusion, inability to fall asleep or stay asleep
+- -memory impairment, depression, anxiety, confusion, inability to f all asleep or stay asleep
 - -impaired coordination and balance
 - -difficulty concentrating, change in mental status or alertness, forgetfulness
 - -dizziness, impaired sensations, tingling sensations, shaking, abnormal taste
@@ -2406,7 +2385,7 @@ Other side effects that have been reported are listed below:
 - -hearing impairment, infection of the middle ear
 - -palpitations (when you can feel your heart beat), hot f lushes
 - -swollen stomach, difficulty controlling your bowel movements, haemorrhoids, dry mouth
-- -hepatitis and injury to the liver (including f atal liver f ailure), cholestasis, increased bilirubin
+- -hepatitis and injury to the liver (including fatal liver f ailure), cholestasis, increased bilirubin
 - -blisters on body or in mouth, skin peeling, skin eruption, painful reddening of the skin, severe rash with skin swelling (including palms and soles)
 - -increased sensitivity to sunlight, urticaria (hives), increased sweating, change in skin colour
 - -difficulty in urinating
@@ -2416,7 +2395,7 @@ Other side effects that have been reported are listed below:
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side eff ects not listed in this leaf let. You can also report side ef f ects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side ef f ects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaf let. You can also report side ef f ects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Temodal
 
@@ -2424,7 +2403,7 @@ Keep this medicine out of the sight and reach of children, preferably in a locke
 
 Do not use this medicine after the expiry date which is stated on the sachet and carton. The expiry date refers to the last day of  that month.
 
-## Do not store above 30 /uniF0B0 C
+Do not store above 30  C.
 
 Tell your pharmacist if you notice any change in the appearance of the capsules.
 
@@ -2460,13 +2439,13 @@ Temodal 5 mg hard capsules : gelatin, titanium dioxide (E 171), sodium laurilsul
 
 Temodal 20 mg hard capsules : gelatin, titanium dioxide (E 171), sodium laurilsulf ate, yellow iron oxide (E 172).
 
-Temodal 100 mg hard capsules : gelatin, titanium dioxide (E 171), sodium laurilsulfate, red iron oxide (E 172).
+Temodal 100 mg hard capsules : gelatin, titanium dioxide (E 171), sodium laurilsulf ate, red iron oxide (E 172).
 
-Temodal 140 mg hard capsules : gelatin, titanium dioxide (E 171), sodium laurilsulfate, indigo carmine (E 132).
+Temodal 140 mg hard capsules : gelatin, titanium dioxide (E 171), sodium laurilsulf ate, indigo carmine (E 132).
 
-Temodal 180 mg hard capsules : gelatin, titanium dioxide (E 171), sodium laurilsulfate, yellow iron oxide (E 172), and red iron oxide (E 172).
+Temodal 180 mg hard capsules : gelatin, titanium dioxide (E 171), sodium laurilsulf ate, yellow iron oxide (E 172), and red iron oxide (E 172).
 
-Temodal 250 mg hard capsules : gelatin, titanium dioxide (E 171), sodium laurilsulfate. printing ink:
+Temodal 250 mg hard capsules : gelatin, titanium dioxide (E 171), sodium laurilsulf ate. printing ink:
 
 shellac, propylene glycol (E 1520), purified water, ammonium hydroxide, potassium hydroxide, and black iron oxide (E 172).
 
@@ -2506,9 +2485,9 @@ For any information about this medicine, please contact the local representative
 
 MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
-## /Beъл/geа/erи/ia
+## България
 
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@msd.com
+Мерк Шарп и Доум България ЕООД Тел.: +359 2 819 3737 info-msdbg@msd.com
 
 ## Česká republika
 
@@ -2566,17 +2545,21 @@ Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
 
 MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
 
-<div style=\"page-break-after: always\"></div>
-
 ## France
 
 MSD France
 
 Tél: +33 (0) 1 80 46 40 40
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hrvatska
 
-Merck Sharp &amp; Dohme d.o.o. Tel: +385 1 6611 333 dpoc.croatia@msd.com
+Merck Sharp &amp; Dohme d.o.o.
+
+Tel: +385 1 6611 333
+
+dpoc.croatia@msd.com
 
 ## Ireland
 
@@ -2600,7 +2583,7 @@ dpoc.italy@msd.com
 
 Merck Sharp &amp; Dohme Cyprus Limited
 
-Τηλ : 800 00 673 (+357 22866700) dpoccyprus@msd.com
+Τηλ: 800 00 673 (+357 22866700) dpoccyprus@msd.com
 
 ## Latvija
 
@@ -2618,7 +2601,11 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Portugal
 
-Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
+Merck Sharp &amp; Dohme, Lda
+
+Tel.: +351 21 4465700
+
+inform\\_pt@msd.com
 
 ## România
 
@@ -2626,19 +2613,27 @@ Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
 
 ## Slovenija
 
-Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slovenia@msd.com
+Merck Sharp &amp; Dohme, inovativna zdravila d.o.o.
+
+Tel: +386 1 520 4201
+
+msd.slovenia@msd.com
 
 ## Slovenská republika
 
 Merck Sharp &amp; Dohme, s. r. o.
 
-Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
+Tel.: +421 2 58282010
+
+dpoc\\_czechslovak@msd.com
 
 ## Suomi/Finland
 
 MSD Finland Oy
 
-Puh/Tel: +358 (0)9 804 650 info@msd.fi
+Puh/Tel: +358 (0)9 804 650
+
+info@msd.fi
 
 ## Sverige
 
@@ -2655,15 +2650,15 @@ Tel: +46 77 5700488 medicinskinfo@msd.com
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
-- -If  you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side ef f ects not listed in this leaf let. See section 4.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -If you get any side ef f ects, talk to your doctor, pharmacist or nurse. This includes any possible side ef f ects not listed in this leaf let. See section 4.
 
 ## What is in this leaflet
 
 1. What Temodal is and what it is used for
 2. What you need to know before you use Temodal
 3. How to use Temodal
-4. Possible side effects
+4. Possible side ef f ects
 5. How to store Temodal
 6. Contents of the pack and other information
 
@@ -2680,29 +2675,29 @@ Temodal is used for the treatment of specif ic forms of brain tumours:
 
 ## Do not use Temodal
 
-- -if  you are allergic to temozolomide or any of the other ingredients of this medicine (listed in section 6).
+- -if  you are allergic to temozolomide or any of  the other ingredients of this medicine (listed in section 6).
 - -if  you have had an allergic reaction to dacarbazine (an anticancer medicine sometimes called DTIC). Signs of allergic reaction include feeling itchy, breathlessness or wheezing, swelling of the face, lips, tongue or throat.
-- -if  certain kinds of  blood cells are severely reduced (myelosuppression), such as your white blood cell count and platelet count. These blood cells are important for f ighting inf ection and for proper blood clotting. Your doctor will check your blood to make sure you have enough of these cells before you begin treatment.
+- -if  certain kinds of  blood cells are severely reduced (myelosuppression), such as your white blood cell count and platelet count. These blood cells are important for f ighting inf ection and for proper blood clotting. Your doctor will check your blood to make sure you have enough of these cells bef ore you begin treatment.
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before using Temodal,
 
 - -as you should be observed closely for the development of a serious form of chest infection called Pneumocystis jirovecii pneumonia (PCP) . If  you are a newly-diagnosed patient (glioblastoma multiforme) you may be receiving Temodal for 42 days in combination with radiotherapy. In this case, your doctor will also prescribe medicine to help you prevent this type of pneumonia (PCP).
-- -if  you have ever had or might now have a hepatitis B infection. This is because Temodal could cause hepatitis B to become active again, which can be fatal in some cases. Patients will be carefully checked by their doctor for signs of this infection before treatment is started.
+- -if  you have ever had or might now have a hepatitis B infection. This is because Temodal could cause hepatitis B to become active again, which can be fatal in some cases. Patients will be carefully checked by their doctor for signs of this infection bef ore treatment is started.
 
 <div style=\"page-break-after: always\"></div>
 
-- -if  you have low counts of red blood cells (anaemia), white blood cells and platelets, or blood clotting problems before starting the treatment, or if you develop them during treatment. Your doctor may decide to reduce the dose, interrupt, stop or change your treatment. You may also need other treatments. In some cases, it may be necessary to stop treatment with Temodal. Your blood will be tested frequently during treatment to monitor the side ef fects of Temodal on your blood cells.
+- -if  you have low counts of  red blood cells (anaemia), white blood cells and platelets, or blood clotting problems before starting the treatment, or if you develop them during treatment. Your doctor may decide to reduce the dose, interrupt, stop or change your treatment. You may also need other treatments. In some cases, it may be necessary to stop treatment with Temodal. Your blood will be tested frequently during treatment to monitor the side ef fects of  Temodal on your blood cells.
 - -as you may have a small risk of other changes in blood cells, including leukaemia.
 - -if  you have nausea (f eeling sick in your stomach) and/or vomiting which are very common side effects of  Temodal (see section 4), your doctor may prescribe you a medicine (an anti-emetic) to help prevent vomiting.
-- -if  you develop fever or symptoms of an infection, contact your doctor immediately.
-- -if  you are older than 70 years of age, you might be more prone to infections, bruising or bleeding.
+- -if  you develop fever or symptoms of an inf ection, contact your doctor immediately.
+- -if  you are older than 70 years of  age, you might be more prone to infections, bruising or bleeding.
 - -if  you have liver or kidney problems, your dose of Temodal may need to be adjusted.
 
 ## Children and adolescents
 
-Do not give this medicine to children under the age of 3 years because it has not been studied. There is limited information in patients over 3 years of age who have used Temodal.
+Do not give this medicine to children under the age of 3 years because it has not been studied. There is limited information in patients over 3 years of  age who have used Temodal.
 
 ## Other medicines and Temodal
 
@@ -2712,21 +2707,27 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before using this medicine. This is because you must not be treated with Temodal during pregnancy unless clearly indicated by your doctor.
 
-Effective contraceptive precautions must be taken by female patients who are able to become pregnant during treatment with Temodal, and f or at least 6 months following completion of treatment.
+Effective contraceptive precautions must be taken by f emale patients who are able to become pregnant during treatment with Temodal, and for at least 6 months following completion of treatment.
 
 You should stop breast-feeding while receiving treatment with Temodal.
 
 ## Male fertility
 
-Temodal may cause permanent infertility. Male patients should use effective contraception and not father a child for at least 3 months after stopping treatment. It is recommended to seek advice on conservation of sperm prior to treatment.
+Temodal may cause permanent infertility. Male patients should use effective contraception and not father a child f or at least 3 months af ter stopping treatment. It is recommended to seek advice on conservation of sperm prior to treatment.
 
 ## Driving and using machines
 
-Temodal may make you feel tired or sleepy. In this case, do not drive or use any tools or machines or cycle until you see how this medicine affects you (see section 4).
+Temodal may make you feel tired or sleepy. In this case, do not drive or use any tools or machines or cycle until you see how this medicine aff ects you (see section 4).
 
 ## Temodal contains sodium
 
 This medicine contains 55.2 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 2.8 % of the recommended maximum daily dietary intake of sodium for an adult.
+
+## Temodal contains polysorbate 80
+
+This medicine contains 3 mg of polysorbate 80 in each ml of reconstituted solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies. Polysorbates can have an effect on your heart and blood circulation (e.g., irregular or abnormal heartbeat, or low blood pressure).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use Temodal
 
@@ -2735,8 +2736,6 @@ Always use this medicine exactly as your doctor or pharmacist has told you. Chec
 Your doctor will work out your dose of Temodal. This is based on your size (height and weight) and if you have a recurrent tumour and have had chemotherapy treatment in the past.
 
 You may be given other medicines (anti-emetics) to take before and/or after receiving Temodal to prevent or control nausea and vomiting.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Patients with newly-diagnosed glioblastoma multiforme:
 
@@ -2779,17 +2778,17 @@ Before each new treatment cycle, your blood will be tested to see if the Temodal
 
 Temodal will be given to you by your doctor in a drip into a vein (intravenous inf usion), only over approximately 90 minutes. No infusion site other than a vein is acceptable.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you use more Temodal than you should
 
-Your medicine is given to you by health care professionals. It is therefore unlikely that you will receive more Temodal than you should. However, if you do, the doctor or nurse will treat you accordingly.
+Your medicine is given to you by health care professionals. It is theref ore unlikely that you will receive more Temodal than you should. However, if you do, the doctor or nurse will treat you accordingly.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
+Like all medicines, this medicine can cause side ef fects, although not everybody gets them.
 
 Contact your doctor immediately if  you have any of the following:
 
@@ -2817,7 +2816,7 @@ Other side effects that have been reported are listed below:
 - -reduced number of blood cells (neutropenia, lymphopenia, thrombocytopenia)
 - -allergic reaction
 - -increased blood sugar
-- -memory impairment, depression, anxiety, confusion, inability to fall asleep or stay asleep
+- -memory impairment, depression, anxiety, confusion, inability to f all asleep or stay asleep
 - -impaired coordination and balance
 - -difficulty concentrating, change in mental status or alertness, forgetfulness
 - -dizziness, impaired sensations, tingling sensations, shaking, abnormal taste
@@ -2831,12 +2830,13 @@ Other side effects that have been reported are listed below:
 - -painful joint, back pain
 - -frequent urination, diff iculty withholding your urine
 - -fever, f lu-like symptoms, pain, feeling unwell, a cold or the f lu
+
+<div style=\"page-break-after: always\"></div>
+
 - -fluid retention, swollen legs
 - -liver enzyme elevations
 - -loss of weight, weight gain
 - -radiation injury
-
-<div style=\"page-break-after: always\"></div>
 
 ## Uncommon side effects (may affect up to 1 in 100 people) are:
 
@@ -2853,7 +2853,7 @@ Other side effects that have been reported are listed below:
 - -hearing impairment, infection of the middle ear
 - -palpitations (when you can feel your heart beat), hot f lushes
 - -swollen stomach, difficulty controlling your bowel movements, haemorrhoids, dry mouth
-- -hepatitis and injury to the liver (including f atal liver f ailure), cholestasis, increased bilirubin
+- -hepatitis and injury to the liver (including fatal liver f ailure), cholestasis, increased bilirubin
 - -blisters on body or in mouth, skin peeling, skin eruption, painful reddening of the skin, severe rash with skin swelling (including palms and soles)
 - -increased sensitivity to sunlight, urticaria (hives), increased sweating, change in skin colour
 - -difficulty in urinating
@@ -2867,7 +2867,7 @@ In addition to the side ef f ects listed above, the f ollowing may also occur wi
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaf let. You can also report side ef f ects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side ef f ects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaf let. You can also report side ef f ects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Temodal
 
@@ -2879,11 +2879,11 @@ Do not use this medicine after the expiry date which is stated on the label and 
 
 Once your medicine is prepared for infusion (reconstituted), the solution may be stored at room temperature (25°C) for up to 14 hours, including infusion time.
 
+<div style=\"page-break-after: always\"></div>
+
 The reconstituted solution should not be used if discolouration or particulate matter is observed.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -2891,17 +2891,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is temozolomide. Each vial contains 100 mg temozolomide. After reconstitution, each ml solution for inf usion contains 2.5 mg of temozolomide.
 
-The other ingredients are mannitol (E421), threonine, polysorbate 80, sodium citrate (for pH-adjustment) and hydrochloric acid concentrated (for pH-adjustment) (see section 2).
+The other ingredients are mannitol (E421), threonine, polysorbate 80, sodium citrate (for pH-adjustment) and hydrochloric acid concentrated (f or pH-adjustment) (see section 2).
 
 ## What Temodal looks like and contents of the pack
 
-The powder for solution for infusion is a white powder. Temodal is available in a glass vial, with a butyl rubber stopper and aluminium seal with a flip-of f  bonnet. Each pack contains 1 vial of 100 mg temozolomide.
+The powder for solution for infusion is a white powder. Temodal is available in a glass vial, with a butyl rubber stopper and aluminium seal with a flip-of f bonnet. Each pack contains 1 vial of 100 mg temozolomide.
 
 ## Marketing Authorisation Holder
 
-## Manufacturer
-
 Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
+
+## Manufacturer
 
 Organon Heist bv Industriepark 30 2220 Heist-op-den-Berg Belgium
 
@@ -2911,19 +2911,35 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 MSD Belgium
 
-Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
+Tél/Tel: +32(0)27766211
+
+dpoc\\_belux@msd.com
+
+## България
+
+Мерк Шарп и Доум България ЕООД
+
++359 2 819 3737
+
+Тел.:
+
+info-msdbg@msd.com
+
+## Česká republika
+
+Merck Sharp &amp; Dohme s.r.o.
+
+Tel.: +420 277 050 000
+
+dpoc\\_czechslovak@msd.com
+
+## Danmark
+
+## Lietuva
 
 UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
-
-## /Beъл/geа/erи/ia
-
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De
-
-Тел.: +359 2 819 3737 info-msdbg@msd.com
 
 ## Luxembourg/Luxemburg
 
@@ -2931,67 +2947,45 @@ MSD Belgium
 
 Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
-## Česká republika
-
-Merck Sharp &amp; Dohme s.r.o.
-
-Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
-
 ## Magyarország
 
-MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
+MSD Pharma Hungary Kft.
 
-Danmark MSD Danmark ApS
-
-Tlf.: +45 4482 4000 dkmail@msd.com
+Tel.: +36 1 888 5300 hungary\\_msd@msd.com
 
 ## Malta
 
-Merck Sharp &amp; Dohme Cyprus Limited
+MSD Danmark ApS
 
-Tel: 8007 4433 (+356 99917558) dpoccyprus@msd.com
+Tlf.: +45 4482 4000
 
-## Deutschland
+dkmail@msd.com
 
-MSD Sharp &amp; Dohme GmbH
-
-Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
-
-## Nederland
-
-Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@msd.com
+Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) dpoccyprus@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
+## Deutschland
+
+MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500
+
+medinfo@msd.de
+
 ## Eesti
 
-Merck Sharp &amp; Dohme OÜ
-
-Tel: +372 614 4200
-
-dpoc.estonia@msd.com
+Merck Sharp &amp; Dohme OÜ Tel: +372 614 4200 dpoc.estonia@msd.com
 
 ## Eλλάδα
 
-MSD Α.Φ.Ε.Ε.
-
-Τηλ:
-
-+30 210 98 97 300
-
-dpoc.greece@msd.com
+MSD Α.Φ.Ε.Ε. Τηλ: +30 210 98 97 300 dpoc.greece@msd.com
 
 ## España
 
-Merck Sharp &amp; Dohme de España, S.A.
-
-Tel: +34 91 321 06 00 msd\\_info@msd.com
+Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.com
 
 ## France
 
-MSD France
-
-Tél: +33 (0) 1 80 46 40 40
+MSD France Tél: +33 (0) 1 80 46 40 40
 
 ## Hrvatska
 
@@ -3011,27 +3005,23 @@ MSD Italia S.r.l. Tel: 800 23 99 89 (+39 06 361911) dpoc.italy@msd.com
 
 ## Κύπρος
 
-Merck Sharp &amp; Dohme Cyprus Limited Τηλ : 800 00 673 (+357 22866700) dpoccyprus@msd.com
+Merck Sharp &amp; Dohme Cyprus Limited Τηλ: 800 00 673 (+357 22866700) dpoccyprus@msd.com
 
 ## Latvija
 
 SIA Merck Sharp &amp; Dohme Latvija
 
-Tel.: +371 67025300
+Tel.: +371 67025300 dpoc.latvia@msd.com
 
-dpoc.latvia@msd.com
+## Nederland
 
-## This leaflet was last revised in
+Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153)
 
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+medicalinfo.nl@msd.com
 
 ## Norge
 
-MSD (Norge) AS
-
-Tlf: +47 32 20 73 00
+MSD (Norge) AS Tlf: +47 32 20 73 00
 
 medinfo.norway@msd.com
 
@@ -3049,9 +3039,7 @@ Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
 
 ## România
 
-Merck Sharp &amp; Dohme Romania S.R.L.
-
-Tel.: +40 21 529 29 00 msdromania@msd.com
+Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
 
 ## Slovenija
 
@@ -3059,21 +3047,23 @@ Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slo
 
 ## Slovenská republika
 
-Merck Sharp &amp; Dohme, s. r. o.
-
-Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
+Merck Sharp &amp; Dohme, s. r. o. Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
 
 ## Suomi/Finland
 
-MSD Finland Oy
-
-Puh/Tel: +358 (0)9 804 650 info@msd.fi
+MSD Finland Oy Puh/Tel: +358 (0)9 804 650 info@msd.fi
 
 ## Sverige
 
 Merck Sharp &amp; Dohme (Sweden) AB Tel: +46 77 5700488 medicinskinfo@msd.com
 
 <div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 The following information is intended for medical or health care professional use only:
 

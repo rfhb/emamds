@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-19 10:50:02
+document_datetime: 2026-08-20 11:37:13
 document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arexvy-epar-product-information_en.pdf
 document_name: arexvy-epar-product-information_en.pdf
 version: success
-processing_time: 19.825797
-conversion_datetime: 2026-05-22 23:33:46.482409
+processing_time: 12.973037
+conversion_datetime: 2026-08-23 00:25:10.127161
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,21 +36,21 @@ Respiratory Syncytial Virus (RSV) vaccine (recombinant, adjuvanted)
 
 After reconstitution, one dose (0.5 mL) contains:
 
-RSVPreF3 1  antigen 2,3
+RSVPreF3 1 antigen 2,3
 
 120 micrograms
 
 1 Respiratory Syncytial Virus recombinant glycoprotein F stabilised in the pre-fusion conformation = RSVPreF3
 
-- 2  RSVPreF3 produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology 3
-
-adjuvanted with AS01E containing:
+- 2 RSVPreF3 produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology 3 adjuvanted with AS01E containing:
 
 plant extract Quillaja saponaria Molina, fraction 21 (QS-21)
 
+3-O-desacyl-4'-monophosphoryl lipid A (MPL) from
+
 25 micrograms
 
-3-O-desacyl-4'-monophosphoryl lipid A (MPL) from Salmonella minnesota
+Salmonella minnesota
 
 25 micrograms
 
@@ -124,7 +124,7 @@ Do not administer the vaccine intravascularly or intradermally. No data are avai
 
 As with other intramuscular injections, Arexvy should be given with caution to individuals with thrombocytopenia or any coagulation disorder since bleeding may occur following intramuscular administration to these individuals.
 
-## Systemic immunosuppressive medicinal products and immunodeficiency
+Systemic immunosuppressive medicinal products and immunodeficiency
 
 Patients receiving immunosuppressive treatment or patients with immunodeficiency may have a reduced immune response to Arexvy (see section 5.1).
 
@@ -278,7 +278,7 @@ Table 2. Efficacy analysis during the first RSV season (confirmatory analysis): 
 
 |                                                      | Arexvy   | Arexvy   | Arexvy                                 | Placebo   | Placebo   | Placebo                                |                   |
 |------------------------------------------------------|----------|----------|----------------------------------------|-----------|-----------|----------------------------------------|-------------------|
-| Subgroup                                             | N        | n        | Incidence rate per 1 000 person- years | N         | n         | Incidence rate per 1 000 person- years | %Efficacy (CI) a  |
+| Subgroup                                             | N        | n        | Incidence rate per 1 000 person- years | N         | n         | Incidence rate per 1 000 person- years | % Efficacy (CI) a |
 | Overall (≥ 60 years) b                               | 12 466   | 7        | 1.0                                    | 12 494    | 40        | 5.8                                    | 82.6 (57.9, 94.1) |
 | 60-69 years                                          | 6 963    | 4        | 1.0                                    | 6 979     | 21        | 5.5                                    | 81.0 (43.6, 95.3) |
 | 70-79 years                                          | 4 487    | 1        | 0.4                                    | 4 487     | 16        | 6.5                                    | 93.8 (60.2, 99.9) |
@@ -328,13 +328,13 @@ Table 3. Summary  of  adjusted  GMT  and  SRR  values,  and  adjusted  GMT  rati
 
 | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   |
 |------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
-|                                    | AdjustedGMT (95% CI)               | AdjustedGMT ratio (95% CI) b       | SRR (%) (95% CI)                   | SRR difference (95% CI) c          |
+|                                    | Adjusted GMT (95% CI)              | Adjusted GMT ratio (95% CI) b      | SRR (%) (95% CI)                   | SRR difference (95% CI) c          |
 | OA (≥ 60 years)                    | 7 440.1 (6 768.4, 8 178.5)         | 0.83 (0.73, 0.95)                  | 80.4 (75.8, 84.5)                  | -6.5 (-12.1, -0.9)                 |
 | Adults-AIR (50-59 years)           | 8 922.7 (8 118.2, 9 806.9)         | 0.83 (0.73, 0.95)                  | 86.9 (82.8, 90.3)                  | -6.5 (-12.1, -0.9)                 |
 | OA (≥ 60 years)                    | 7 492.6 (6 819.1, 8 232.7)         | 0.95 (0.83, 1.09)                  | 80.4 (75.8, 84.5)                  | -2.4 (-8.3, 3.5)                   |
 | Adults-non-AIR (50-59 years)       | 7 893.5 (7 167.5, 8 692.9)         | 0.95 (0.83, 1.09)                  | 82.8 (78.3, 86.8)                  | -2.4 (-8.3, 3.5)                   |
 | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   |
-|                                    | AdjustedGMT (95% CI)               | AdjustedGMT ratio b                | SRR (95% CI)                       | SRR difference c                   |
+|                                    | Adjusted GMT (95% CI)              | Adjusted GMT ratio b               | SRR (95% CI)                       | SRR difference c                   |
 | OA (≥ 60 years)                    | 8 062.8 (7 395.9, 8 789.9)         | 0.80 (95% CI [0.71, 0.91])         | 74.5 (69.5, 79.0)                  | -7.2 (95% CI [-13.3, -0.9])        |
 | Adults-AIR (50-59 years)           | 10 054.7 (9 225.4, 10 958.7)       | 0.80 (95% CI [0.71, 0.91])         | 81.6 (77.1, 85.6)                  | -7.2 (95% CI [-13.3, -0.9])        |
 | OA (≥ 60 years)                    | 8 058.2 (7 373.1, 8 807.0)         | 0.89 (97.5% CI [0.77, 1.03])       | 74.5 (69.5, 79.0)                  | -3.7 (97.5% CI [-11.1, 3.7])       |
@@ -350,11 +350,11 @@ Table 4. Summary  of  adjusted  GMT  and  SRR  values,  and  adjusted  GMT  rati
 
 | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   |
 |------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
-|                                    | AdjustedGMT (95% CI)               | Adjusted GMTratio (95% CI) b       | SRR (%) (95% CI)                   | SRR difference (95% CI) c          |
+|                                    | Adjusted GMT (95% CI)              | Adjusted GMT ratio (95% CI) b      | SRR (%) (95% CI)                   | SRR difference (95% CI) c          |
 | OA (≥ 60 years)                    | 8 591.5 (7 902.7, 9 340.3)         | 0.72 (0.64, 0.81)                  | 77.7 (73.4, 81.6)                  | -9.4 (-14.6, -4.1)                 |
 | Adults-AIR (18-49 years)           | 11 914.6 (10 933.2, 12 984.2)      | 0.72 (0.64, 0.81)                  | 87.1 (83.3, 90.2)                  | -9.4 (-14.6, -4.1)                 |
 | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   |
-|                                    | AdjustedGMT (95% CI)               | Adjusted GMTratio (95% CI) b       | SRR (95% CI)                       | SRR difference (95% CI) c          |
+|                                    | Adjusted GMT (95% CI)              | Adjusted GMT ratio (95% CI) b      | SRR (95% CI)                       | SRR difference (95% CI) c          |
 | OA (≥ 60 years)                    | 9 087.6 (8 372.1, 9 864.2)         | 0.73 (0.65, 0.82)                  | 77.2 (72.9, 81.2)                  | -10.1 (-15.3, -4.8)                |
 | Adults-AIR (18-49 years)           | 12 503.4 (11 490.5, 13 605.4)      | 0.73 (0.65, 0.82)                  | 87.3 (83.6, 90.4)                  | -10.1 (-15.3, -4.8)                |
 
@@ -382,35 +382,29 @@ RSV-A neutralising titres (ED60)
 
 |                          | SOT 1 dose group a    | SOT 1 dose group a     | SOT 2 dose group b    | SOT 2 dose group b     | Non-IC c              |
 |--------------------------|-----------------------|------------------------|-----------------------|------------------------|-----------------------|
-| Timepoint                | MCYes                 | MCNo                   | MCYes                 | MCNo                   |                       |
+| Timepoint                | MC Yes                | MC No                  | MC Yes                | MC No                  |                       |
 | Baseline                 | N=95                  | N=28                   | N=94                  | N=29                   | N=125                 |
 | Baseline                 | 785 [663 - 929]       | 888 [692 - 1 139]      | 813 [694 - 952]       | 818 [553 - 1 210]      | 889 [782 - 1 011]     |
 | 1 month post dose 1      | N=95                  | N=28                   | N=90                  | N=24                   | N=117                 |
 | 1 month post dose 1      | 3 101 [2 459 - 3 912] | 9 388 [6 329 - 13 926] | 3 602 [2 672 - 4 855] | 7 255 [4 668 - 11 277] | 6 881 [5 976 - 7 924] |
-| 1 month post dose 2      | NA                    | NA                     | N=88                  | N=23                   | NA                    |
-| 1 month post dose 2      | NA                    | NA                     | 4 960 [3 779 - 6 511] | 7 327 [4 811 - 11 159] | NA                    |
+| 1 month post             | NA                    | NA                     | N=88                  | N=23                   | NA                    |
+| dose 2                   | NA                    | NA                     | 4 960 [3 779 - 6 511] | 7 327 [4 811 - 11 159] | NA                    |
 | 12 months post last dose | N=89                  | N=27                   | N=83                  | N=24                   | N=114                 |
-| 12 months post last dose | 1 528 [1 254 - 1 862] | 2 899 [2 044 - 4 110]  | 2 564 [2 000 - 3 287] | 2 363 [1 567 - 3 563]  | 2 244 [1 925 - 2 615] |
+|                          | 1 528 [1 254 - 1 862] | 2 899 [2 044 - 4 110]  | 2 564 [2 000 - 3 287] | 2 363 [1 567 - 3 563]  | 2 244 [1 925 - 2 615] |
 
 RSV-B neutralising titres (ED60)
 
 |                          | SOT 1 dose group a    | SOT 1 dose group a      | SOT 2 dose group b    | SOT 2 dose group b     | Non-IC c               |
 |--------------------------|-----------------------|-------------------------|-----------------------|------------------------|------------------------|
-| Timepoint                | MCYes                 | MCNo                    | MCYes                 | MCNo                   |                        |
+| Timepoint                | MC Yes                | MC No                   | MC Yes                | MC No                  |                        |
 | Baseline                 | N=95                  | N=28                    | N=94                  | N=29                   | N=125                  |
 | Baseline                 | 859 [703 - 1 049]     | 882 [621 - 1 253]       | 877 [729 - 1 055]     | 946 [625 - 1 433]      | 1 027 [890 - 1 186]    |
 | 1 month post dose 1      | N=95                  | N=28                    | N=90                  | N=24                   | N=117                  |
 | 1 month post dose 1      | 3 931 [2 985 - 5 177] | 11 336 [7 042 - 18 249] | 4 041 [3 012 - 5 422] | 9 468 [5 900 - 15 195] | 9 125 [7 782 - 10 700] |
-| 1 month post             | NA                    | NA                      | N=88                  | N=23                   | NA                     |
-| dose 2                   | NA                    | NA                      | 5 274 [4 062 - 6 848] | 8 487 [5 736 - 12 559] | NA                     |
+| 1 month post dose 2      | NA                    | NA                      | N=88                  | N=23                   | NA                     |
+|                          | NA                    | NA                      | 5 274 [4 062 - 6 848] | 8 487 [5 736 - 12 559] | NA                     |
 | 12 months post last dose | N=89                  | N=27                    | N=83                  | N=24                   | N=114                  |
 |                          | 2 048 [1 620 - 2 589] | 2 822 [1 968 - 4 047]   | 2 898 [2 308 - 3 638] | 2 846 [1 848 - 4 385]  | 2 665 [2 311 - 3 074]  |
-
-b SOT 2 dose group = SOT recipients who received two doses of Arexvy
-
-c Non-IC = non-immunocompromised participants who received one dose of Arexvy
-
-N = Number of participants included in each group for each visit
 
 ED60: Estimated dilution 60
 
@@ -440,11 +434,11 @@ Reproductive and developmental studies in rabbits with Arexvy or with an unadjuv
 
 ## 6.1 List of excipients
 
-## Powder (RSVPreF3 antigen)
+Powder (RSVPreF3 antigen)
 
 Trehalose dihydrate Polysorbate 80 (E 433) Potassium dihydrogen phosphate (E 340) Dipotassium phosphate (E 340)
 
-## Suspension (AS01E Adjuvant System)
+Suspension (AS01E Adjuvant System)
 
 Dioleoyl phosphatidylcholine (E 322) Cholesterol Sodium chloride Disodium phosphate anhydrous (E 339) Potassium dihydrogen phosphate (E 340) Water for injections
 
@@ -468,7 +462,11 @@ From a microbiological point of view, the product is to be used immediately. If 
 
 <div style=\"page-break-after: always\"></div>
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Store in the original package in order to protect from light. For storage conditions after reconstitution of the medicinal product, see section 6.3
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Store in the original package in order to protect from light.
+
+Stability data indicate that the unopened vaccine components are stable for 7 days when stored at temperatures between 8 °C and 25 °C. At the end of this period Arexvy should be used immediately or discarded. These data are intended to guide healthcare professionals in case of temporary temperature excursion only.
+
+For storage conditions after reconstitution of the medicinal product, see section 6.3
 
 ## 6.5 Nature and contents of container
 
@@ -524,10 +522,6 @@ The powder and suspension should be inspected visually for any foreign particula
 ## Instructions for the pre-filled syringe
 
 <!-- image -->
-
-Hold the syringe by the barrel, not by the plunger.
-
-Unscrew the syringe cap by twisting it anticlockwise.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -649,7 +643,7 @@ See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder and suspension for suspension for injection
+## Powder and suspension for suspension for injection
 
 1 vial: powder (antigen)
 
@@ -729,8 +723,7 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN NN
 
@@ -826,27 +819,29 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
-<div style=\"page-break-after: always\"></div>
-
-SN NN
+SN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL WITH POWDERLABEL                                            |
+NN
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL WITH POWDER LABEL                                             |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Antigen for Arexvy IM
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Mix with adjuvant
 
@@ -860,8 +855,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 dose Adjuvant for Arexvy Mix with antigen EXP
 
@@ -870,15 +865,15 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS      |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS    |
 |---------------------------------------------------------------------|
 | VIAL WITH SUSPENSION LABEL PRE-FILLED SYRINGE WITH SUSPENSION LABEL |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -888,8 +883,8 @@ Lot
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 mL
 
@@ -900,9 +895,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Arexvy powder and suspension for suspension for injection
 
@@ -986,7 +981,9 @@ If Arexvy is given at the same time as another injectable vaccine, a different i
 
 ## Pregnancy and breast-feeding
 
-If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before you are given this vaccine. Arexvy is not recommended during pregnancy or breast-feeding.
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before you are given this vaccine.
+
+Arexvy is not recommended during pregnancy or breast-feeding.
 
 ## Driving and using machines
 
@@ -1079,13 +1076,13 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 After reconstitution, one dose (0.5 mL) contains:
 
-RSVPreF3 1  antigen 2,3
+RSVPreF3 1 antigen 2,3
 
 120 micrograms
 
 1 Respiratory Syncytial Virus recombinant glycoprotein F stabilised in the pre-fusion conformation = RSVPreF3
 
-2  RSVPreF3 produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology
+2 RSVPreF3 produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology
 
 3 adjuvanted with AS01E containing:
 
@@ -1139,7 +1136,9 @@ GlaxoSmithKline Biologicals SA Тел. +359 80018205
 
 ## Luxembourg/Luxemburg
 
-GlaxoSmithKline Pharmaceuticals s.a./n.v Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v Belgique/Belgien
+
+Tél/Tel: + 32 (0) 10 85 52 00
 
 ## Česká republika
 
@@ -1161,7 +1160,11 @@ Tel: +356 80065004
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 360448701 produkt.info@gsk.com
+GlaxoSmithKline GmbH &amp; Co. KG
+
+Tel: + 49 (0)89 360448701
+
+produkt.info@gsk.com
 
 ## Nederland
 
@@ -1505,13 +1508,13 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 After reconstitution, one dose (0.5 mL) contains:
 
-RSVPreF3 1  antigen 2,3
+RSVPreF3 1 antigen 2,3
 
 120 micrograms
 
 1 Respiratory Syncytial Virus recombinant glycoprotein F stabilised in the pre-fusion conformation = RSVPreF3
 
-2  RSVPreF3 produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology
+2 RSVPreF3 produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology
 
 3 adjuvanted with AS01E containing:
 
@@ -1553,11 +1556,21 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
+## Lietuva
+
 GlaxoSmithKline Pharmaceuticals s.a./n.v Tél/Tel : + 32 (0) 10 85 52 00
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +370 80000334
 
 ## България
 
 GlaxoSmithKline Biologicals SA Тел. +359 80018205
+
+## Luxembourg/Luxemburg
+
+GlaxoSmithKline Pharmaceuticals s.a./n.v Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
 
 ## Česká republika
 
@@ -1567,6 +1580,12 @@ Tel: + 420 222 001 111
 
 cz.info@gsk.com
 
+## Magyarország
+
+GlaxoSmithKline Biologicals SA
+
+Tel.: +36 80088309
+
 ## Danmark
 
 GlaxoSmithKline Pharma A/S
@@ -1574,6 +1593,12 @@ GlaxoSmithKline Pharma A/S
 Tlf.: + 45 36 35 91 00
 
 dk-info@gsk.com
+
+## Malta
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +356 80065004
 
 ## Deutschland
 
@@ -1583,47 +1608,27 @@ Tel: + 49 (0)89 360448701
 
 produkt.info@gsk.com
 
-## Eesti
-
-GlaxoSmithKline Biologicals SA
-
-Tel: +372 8002640
-
-## Ελλάδα
-
-GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Tηλ: + 30 210 68 82 100
-
-## Lietuva
-
-GlaxoSmithKline Biologicals SA Tel: +370 80000334
-
-## Luxembourg/Luxemburg
-
-GlaxoSmithKline Pharmaceuticals s.a./n.v Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
-
-## Magyarország
-
-GlaxoSmithKline Biologicals SA
-
-Tel.: +36 80088309
-
-## Malta
-
-GlaxoSmithKline Biologicals SA
-
-Tel: +356 80065004
-
 ## Nederland
 
 GlaxoSmithKline BV
 
 Tel: + 31 (0)33 2081100
 
+## Eesti
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +372 8002640
+
 ## Norge
 
 GlaxoSmithKline AS
 
 Tlf: + 47 22 70 20 00
+
+## Ελλάδα
+
+GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Tηλ: + 30 210 68 82 100
 
 ## Österreich
 

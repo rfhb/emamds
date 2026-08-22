@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-13 15:42:27
-document_pages: 35
+document_datetime: 2026-08-19 10:48:28
+document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/inrebic-epar-product-information_en.pdf
 document_name: inrebic-epar-product-information_en.pdf
 version: success
-processing_time: 6.9811557
-conversion_datetime: 2026-01-14 08:28:42.173215
+processing_time: 6.7964813
+conversion_datetime: 2026-08-23 00:33:04.928105
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -80,7 +80,7 @@ In cases where co-administration with a strong CYP3A4 inhibitor is discontinued,
 
 ## Dose re-escalation
 
-If the adverse reaction due to Inrebic that resulted in a dose reduction is controlled with effective management and the toxicity is resolved for at least 28 days, the dose level may be re-escalated to one dose level higher per month up to the original dose level. Dose re-escalation is not recommended if the dose reduction was due to a Grade 4 non-haematologic toxicity, ≥ Grade 3 alanine aminotransferase (ALT), aspartate aminotransferase (AST), or total bilirubin elevation, or reoccurrence of a Grade 4 haematologic toxicity.
+If the adverse reaction due to Inrebic that resulted in a dose reduction is controlled with effective management and the toxicity is resolved for at least 28 days, the dose level may be re-escalated to one dose level higher per month up to the original dose level. Dose re-escalation is not recommended if the dose reduction was due to a Grade 4 nonhaematologic toxicity, ≥ Grade 3 alanine aminotransferase (ALT), aspartate aminotransferase (AST), or total bilirubin elevation, or reoccurrence of a Grade 4 haematologic toxicity.
 
 Table 1: Dose reductions for haematologic, non-haematologic treatment emergent toxicities and management of Wernicke's encephalopathy
 
@@ -93,16 +93,16 @@ Table 1: Dose reductions for haematologic, non-haematologic treatment emergent t
 
 <div style=\"page-break-after: always\"></div>
 
-| Non-haematologic toxicity                                                                             | Dose reduction                                                                                                                                                                                                                                                                                                                                                                                    |
-|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ≥ Grade 3 nausea, vomiting or diarrhoea not responding to supportive measures within 48 hours         | Interrupt Inrebic dose until resolved to ≤ Grade 1 or baseline. Restart dose at 100 mg daily below the last given dose.                                                                                                                                                                                                                                                                           |
-| ≥ Grade 3 ALT/AST (> 5.0 to 20.0 x upper limit of normal [ULN]) or bilirubin (> 3.0 to 10.0 ULN)      | Interrupt Inrebic dose until resolved to ≤ Grade 1 (AST/ALT (> ULN - 3.0 x ULN) or bilirubin (> ULN - 1.5 x ULN)) or baseline. Restart dose at 100 mg daily below the last given dose. Monitor ALT, AST and bilirubin (total and direct) every 2 weeks for at least 3 months following the dose reduction. If re-occurrence of a Grade 3 or higher elevation, discontinue treatment with Inrebic. |
-| ≥ Grade 3 amylase/lipase (> 2.0 to 5.0 x ULN)                                                         | Interrupt Inrebic dose until resolved to Grade 1 (> ULN - 1.5 x ULN) or baseline. Restart dose at 100 mg daily below the last given dose. Monitor amylase/lipase every 2 weeks for at least 3 months following the dose reduction. If re-occurrence of a Grade 3 or higher elevation, discontinue treatment with Inrebic.                                                                         |
-| ≥ Grade 3 other non-haematologic toxicities                                                           | Interrupt Inrebic dose until resolved to ≤ Grade 1 or baseline. Restart dose at 100 mg daily below the last given dose.                                                                                                                                                                                                                                                                           |
-| Management of thiamine levels and Wernicke's encephalopathy                                           | Dose reduction                                                                                                                                                                                                                                                                                                                                                                                    |
-| For thiamine levels < normal range (74 to 222 nmol/L)* but ≥ 30 nmol/L without signs or symptoms ofWE | Interrupt Inrebic treatment. Dose with daily 100 mg oral thiamine until thiamine levels are restored to normal range*. Consider re-starting Inrebic treatment when thiamine levels are within normal range*.                                                                                                                                                                                      |
-| For thiamine levels < 30 nmol/L without signs or symptoms ofWE                                        | Interrupt Inrebic treatment. Initiate treatment with parenteral thiamine at therapeutic dosages until thiamine levels are restored to normal range*. Consider re-starting Inrebic treatment when thiamine levels are within normal range*.                                                                                                                                                        |
-| For signs or symptoms of WEregardless of thiamine levels                                              | Discontinue Inrebic treatment and immediately administer parenteral thiamine at therapeutic dosages.                                                                                                                                                                                                                                                                                              |
+| Non-haematologic toxicity                                                                              | Dose reduction                                                                                                                                                                                                                                                                                                                                                                                    |
+|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ≥ Grade 3 nausea, vomiting or diarrhoea not responding to supportive measures within 48 hours          | Interrupt Inrebic dose until resolved to ≤ Grade 1 or baseline. Restart dose at 100 mg daily below the last given dose.                                                                                                                                                                                                                                                                           |
+| ≥ Grade 3 ALT/AST (> 5.0 to 20.0 x upper limit of normal [ULN]) or bilirubin (> 3.0 to 10.0 ULN)       | Interrupt Inrebic dose until resolved to ≤ Grade 1 (AST/ALT (> ULN - 3.0 x ULN) or bilirubin (> ULN - 1.5 x ULN)) or baseline. Restart dose at 100 mg daily below the last given dose. Monitor ALT, AST and bilirubin (total and direct) every 2 weeks for at least 3 months following the dose reduction. If re-occurrence of a Grade 3 or higher elevation, discontinue treatment with Inrebic. |
+| ≥ Grade 3 amylase/lipase (> 2.0 to 5.0 x ULN)                                                          | Interrupt Inrebic dose until resolved to Grade 1 (> ULN - 1.5 x ULN) or baseline. Restart dose at 100 mg daily below the last given dose. Monitor amylase/lipase every 2 weeks for at least 3 months following the dose reduction. If re-occurrence of a Grade 3 or higher elevation, discontinue treatment with Inrebic.                                                                         |
+| ≥ Grade 3 other non-haematologic toxicities                                                            | Interrupt Inrebic dose until resolved to ≤ Grade 1 or baseline. Restart dose at 100 mg daily below the last given dose.                                                                                                                                                                                                                                                                           |
+| Management of thiamine levels and Wernicke's encephalopathy                                            | Dose reduction                                                                                                                                                                                                                                                                                                                                                                                    |
+| For thiamine levels < normal range (74 to 222 nmol/L)* but ≥ 30 nmol/L without signs or symptoms of WE | Interrupt Inrebic treatment. Dose with daily 100 mg oral thiamine until thiamine levels are restored to normal range*. Consider re-starting Inrebic treatment when thiamine levels are within normal range*.                                                                                                                                                                                      |
+| For thiamine levels < 30 nmol/L without signs or symptoms of WE                                        | Interrupt Inrebic treatment. Initiate treatment with parenteral thiamine at therapeutic dosages until thiamine levels are restored to normal range*. Consider re-starting Inrebic treatment when thiamine levels are within normal range*.                                                                                                                                                        |
+| For signs or symptoms of WE regardless of thiamine levels                                              | Discontinue Inrebic treatment and immediately administer parenteral thiamine at therapeutic dosages.                                                                                                                                                                                                                                                                                              |
 
 *the normal thiamine range may differ depending on the methods used by the laboratory.
 
@@ -140,9 +140,9 @@ Pregnancy (see section 4.6).
 
 ## 4.4 Special warnings and precautions for use
 
-Encephalopathy, including Wernicke's encephalopathy
+## Encephalopathy, including Wernicke's encephalopathy
 
-Cases of serious and fatal encephalopathy, including Wernicke's, were reported in patients taking Inrebic. Wernicke's encephalopathy is a neurologic emergency resulting from thiamine (vitamin B1) deficiency. Signs and symptoms of Wernicke's encephalopathy may include ataxia, mental status changes and ophthalmoplegia (e.g. nystagmus, diplopia). Any change in mental status, confusion or memory impairment should raise concern for potential encephalopathy, including Wernicke's and prompt a full evaluation including a neurologic examination, assessment of thiamine levels and imaging (see sections 4.2 and 4.8).
+In the absence of thiamine supplementation, cases of serious and fatal encephalopathy, including Wernicke's, were reported in patients taking Inrebic. Wernicke's encephalopathy is a neurologic emergency resulting from thiamine (vitamin B1) deficiency. Signs and symptoms of Wernicke's encephalopathy may include ataxia, mental status changes and ophthalmoplegia (e.g. nystagmus, diplopia). Any change in mental status, confusion or memory impairment should raise concern for potential encephalopathy, including Wernicke's and prompt a full evaluation including a neurologic examination, assessment of thiamine levels and imaging (see sections 4.2 and 4.8).
 
 Thiamine levels and nutritional status in patients should be assessed before starting treatment with Inrebic. Inrebic treatment should not be started in patients with thiamine deficiency. Before treatment initiation, thiamine levels should be replenished if they are low. While on treatment, all patients should receive prophylaxis with oral thiamine and should have thiamine levels assessed as clinically indicated. If encephalopathy is suspected, Inrebic treatment should be discontinued immediately and parenteral thiamine treatment should be initiated while evaluating for all possible causes. Patients should be monitored until symptoms have resolved or improved and thiamine levels have normalised (see sections 4.2 and 4.8).
 
@@ -166,7 +166,7 @@ Neutropenia was generally reversible and was managed by temporarily withholding 
 
 ## Gastrointestinal events
 
-Nausea, vomiting and diarrhoea are among the most frequent adverse reactions in Inrebic-treated patients. Most of the adverse reactions are Grade 1 or 2 and typically occur within the first 2 weeks of treatment. Consider providing appropriate prophylactic anti-emetic therapy (e.g. 5-HT3 receptor antagonists) during Inrebic treatment. Treat diarrhoea with anti-diarrhoeal medicinal products promptly at the first onset of symptoms. For cases of Grade 3 or higher nausea, vomiting, and diarrhoea that are not responsive to supportive measures within 48 hours, the dose of Inrebic should be interrupted until resolved to Grade 1 or less/baseline. The dose should be restarted at 100 mg daily below the last given dose. Thiamine levels should be monitored and replenished as needed (see sections 4.2 and 4.8).
+Nausea, vomiting and diarrhoea are among the most frequent adverse reactions in Inrebic-treated patients. Most of the adverse reactions are Grade 1 or 2 and typically occur within the first 2 weeks of treatment. Prophylactic anti-emetic therapy (e.g. 5-HT3 receptor antagonists) should be provided during Inrebic treatment. Treat diarrhoea with anti-diarrhoeal medicinal products promptly at the first onset of symptoms. For cases of Grade 3 or higher nausea, vomiting, and diarrhoea that are not responsive to supportive measures within 48 hours, the dose of Inrebic should be interrupted until resolved to Grade 1 or less/baseline. The dose should be restarted at 100 mg daily below the last given dose. Thiamine levels should be monitored and replenished as needed (see sections 4.2 and 4.8).
 
 ## Hepatic toxicity
 
@@ -178,7 +178,7 @@ Elevations of amylase and/or lipase have been reported with Inrebic treatment an
 
 ## Elevated creatinine
 
-Elevations of creatinine have been reported with Inrebic treatment (see section 4.8). Patients should have their creatinine levels monitored at baseline, at least monthly for the first 3 months, periodically during treatment and as clinically indicated. For severe renal impairment (CLcr 15 mL/min to 29 mL/min by C-G), dose modifications are recommended (see section 4.2).
+Elevations of creatinine have been reported with Inrebic treatment (see section 4.8). Patients with myelofibrosis treated with fedratinib at 400 mg had an approximately 30% increase in serum creatinine (SCr) in the first cycle after initiating treatment, which remained stable throughout treatment duration. Patients should have their creatinine levels monitored at baseline, at least monthly for the first 3 months, periodically during treatment and as clinically indicated. For severe renal impairment (CLcr 15 mL/min to 29 mL/min by C-G), dose modifications are recommended (see section 4.2). Inrebic has been shown to increase serum creatinine (SCr) due to inhibition of renal transporters. Therefore, change of SCr as the marker for renal function should be used with caution. Other renal markers may be considered.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -206,11 +206,9 @@ The concomitant use of haematopoietic growth factors with Inrebic has not been s
 
 In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of major adverse cardiovascular events (MACE), defined as cardiovascular death, non-fatal myocardial infarction (MI) and non-fatal stroke, was observed with tofacitinib compared to TNF inhibitors.
 
-Events of MACE have been reported in patients receiving Inrebic. Prior to initiating or continuing therapy with Inrebic, the benefits and risks for the individual patient should be considered particularly
-
 <div style=\"page-break-after: always\"></div>
 
-in patients 65 years of age and older, patients who are current or past long-time smokers, and patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors.
+Events of MACE have been reported in patients receiving Inrebic. Prior to initiating or continuing therapy with Inrebic, the benefits and risks for the individual patient should be considered particularly in patients 65 years of age and older, patients who are current or past long-time smokers, and patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors.
 
 ## Thrombosis
 
@@ -234,19 +232,19 @@ Lymphoma and other malignancies have been reported in patients receiving JAK inh
 
 ## Elderly
 
-The experience in the age group 75 years and older is limited. In clinical studies, 13.8% (28/203) of patients treated with Inrebic were 75 years and older and serious adverse reactions and adverse reactions leading to treatment discontinuation occurred more frequently.
+Among patients with myelofibrosis who received an Inrebic dose of 400 mg in the clinical studies, 58.4% were older than 65 years of age and 14.8% were greater than 75 years of age. All safety parameters had a higher incidence in patients &gt; 65 years of age than patients ≤ 65 years of age.
 
 ## Excipients
 
 Inrebic capsules contain less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Effect of other medicinal products on fedratinib
 
 Fedratinib is metabolised by multiple CYPs in vitro with the predominant contribution from CYP3A4 and with a lesser contribution from CYP2C19, and flavin-containing monooxygenases (FMOs).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Strong and moderate CYP3A4 inhibitors
 
@@ -310,109 +308,108 @@ Inrebic has minor influence on the ability to drive and use machines. Patients w
 
 ## Summary of the safety profile
 
-The overall safety information of Inrebic was assessed in 608 patients who received continuous doses of Inrebic in Phase 1, 2 and 3 clinical studies.
-
-## Primary or secondary myelofibrosis (JAKARTA, JAKARTA2, ARD11936)
-
-In clinical studies of patients with primary myelofibrosis (MF), post polycythaemia vera myelofibrosis (post-PV MF), or post essential thrombocythemia myelofibrosis (post-ET MF), treated with Inrebic 400 mg (N = 203), including patients previously exposed to ruxolitinib (N = 97; JAKARTA2), the
+The safety data is pooled for 486 patients (at 400 mg daily dose) previously treated with ruxolitinib. This analysis combines data from six studies: three pre-approval trials (JAKARTA, JAKARTA2, ARD11936) and three post-approval trials (FEDR-MF-001, FEDR-MF-002, FEDR-MF-003).
 
 <div style=\"page-break-after: always\"></div>
 
-median exposure was 35.6 weeks (range 0.7 to 114.6 weeks) and the median number of cycles (1 cycle = 28 days) initiated was 9 cycles. Sixty-three percent of 203 patients were exposed for 6 months or longer and 38% were exposed for 12 months or longer.
+## Primary or secondary myelofibrosis (JAKARTA, JAKARTA2, ARD11936, FEDR-MF-001, FEDR-MF-002, FEDR-MF-003)
 
-Among the 203 patients with MF treated with a 400 mg dose of Inrebic in the clinical studies, the most frequent non-haematologic adverse reactions were diarrhoea (67.5%), nausea (61.6%), and vomiting (44.8%). The most frequent haematologic adverse reactions were anaemia (99.0%) and thrombocytopenia (68.5%) based on laboratory values (Table 2). The most frequent serious adverse reactions in MF patients treated with 400 mg were anaemia (2.5% based on reported adverse events and not laboratory values) and diarrhoea (1.5%). Permanent discontinuation due to adverse event regardless of causality occurred in 24% of patients receiving 400 mg of Inrebic.
+In clinical studies of patients with primary myelofibrosis (MF), post polycythaemia vera myelofibrosis (post-PV MF), or post essential thrombocythemia myelofibrosis (post-ET MF), treated with Inrebic 400 mg (N = 486), including patients previously exposed to ruxolitinib (N = 97; JAKARTA2, N = 38; FEDR-MF-001, N = 182; FEDR-MF-002). The median exposure was 43.9 weeks (range 0.1 to 264.0 weeks). The median number of cycles (1 cycle = 28 days) initiated was 11 cycles (range 1 to 66 cycles).
+
+Among the 486 patients with MF treated with a 400 mg dose of Inrebic in the clinical studies, the most frequent non-haematologic adverse reactions were diarrhoea (55.3%), nausea (49.6%), and vomiting (32.5%). The most frequent haematologic adverse reactions were anaemia (51.4%) and thrombocytopenia (28.8%) based on laboratory values (Table 2). The most frequent serious adverse reactions in MF patients treated with 400 mg were anaemia (2.3%) and neutropenia (0.4%) based on reported adverse events and not laboratory values. Permanent discontinuation due to adverse event regardless of causality occurred in 20.2% of patients receiving 400 mg of Inrebic.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions from clinical studies for entire treatment duration (Table 2) are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); and not known (cannot be estimated from available data).
+Adverse reactions from clinical studies for entire treatment duration (Table 2) are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Frequencies are defined as: v ery common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); u ncommon (≥ 1/1,000 to &lt; 1/100); r are (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); and not known (cannot be estimated from available data).
 
 Table 2: All adverse reactions by system organ class and preferred term
 
-| System organ class                   | Adverse reaction                       | All grades frequency   |
-|--------------------------------------|----------------------------------------|------------------------|
-| Infections and infestations          | Urinary tract infection                | Very common            |
-| Blood and lymphatic system disorders | Anaemia a                              | Very common            |
-| Blood and lymphatic system disorders | Thrombocytopenia a                     | Very common            |
-| Blood and lymphatic system disorders | Neutropenia a                          | Very common            |
-| Blood and lymphatic system disorders | Bleeding b                             | Very common            |
-| Metabolism and nutrition disorders   | Lipase increased a                     | Very common            |
-| Metabolism and nutrition disorders   | Amylase increased a                    | Very common            |
-| Nervous system disorders             | Headache                               | Very common            |
-| Nervous system disorders             | Wernicke's encephalopathy              | Common                 |
-| Nervous system disorders             | Dizziness                              | Common                 |
-| Eye disorders                        | Uveitis                                | Common c               |
-| Vascular disorders                   | Hypertension                           | Common                 |
-| Gastrointestinal disorders           | Diarrhoea                              | Very common            |
-| Gastrointestinal disorders           | Vomiting                               | Very common            |
-| Gastrointestinal disorders           | Nausea                                 | Very common            |
-| Gastrointestinal disorders           | Constipation                           | Very common            |
-| Gastrointestinal disorders           | Dyspepsia                              | Common                 |
-| Hepatobiliary disorders              | Alanine aminotransferase increased a   | Very common            |
-| Hepatobiliary disorders              | Aspartate aminotransferase increased a | Very common            |
+| System organ class                   | Adverse reaction          | All grades frequency   |
+|--------------------------------------|---------------------------|------------------------|
+| Infections and infestations          | Urinary tract infection   | Very common            |
+| Blood and lymphatic system disorders | Anaemia a                 | Very common            |
+| Blood and lymphatic system disorders | Thrombocytopenia a        | Very common            |
+| Blood and lymphatic system disorders | Bleeding b                | Very common            |
+| Blood and lymphatic system disorders | Neutropenia               | Common                 |
+| Metabolism and nutrition disorders   | Low thiamine d            | Very common            |
+| Metabolism and nutrition disorders   | Lipase increased a        | Common                 |
+| Metabolism and nutrition disorders   | Amylase increased a       | Common                 |
+| Metabolism and nutrition disorders   | Hyperkalaemia             | Common                 |
+| Nervous system disorders             | Headache                  | Very common            |
+| Nervous system disorders             | Dizziness                 | Very Common            |
+| Nervous system disorders             | Peripheral neuropathy c   | Common                 |
+| Nervous system disorders             | Wernicke's encephalopathy | Uncommon               |
+| Eye disorders                        | Uveitis                   | Common                 |
+| Vascular disorders                   | Hypertension              | Common                 |
+| Gastrointestinal disorders           | Diarrhoea                 | Very common            |
+| Gastrointestinal disorders           | Vomiting                  | Very common            |
+| Gastrointestinal disorders           | Nausea                    | Very common            |
+| Gastrointestinal disorders           | Constipation              | Very common            |
+| Gastrointestinal disorders           | Dyspepsia                 | Common                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Adverse reaction             | All grades frequency   |
-|------------------------------------------------------|------------------------------|------------------------|
-| Musculoskeletal and connective tissue disorders      | Bone pain                    | Common                 |
-| Musculoskeletal and connective tissue disorders      | Muscle spasms                | Very common            |
-| Musculoskeletal and connective tissue disorders      | Pain in extremity            | Common                 |
-| Renal and urinary disorders                          | Blood creatinine increased a | Very common            |
-| Renal and urinary disorders                          | Dysuria                      | Common                 |
-| General disorders and administration site conditions | Fatigue/ Asthenia            | Very common            |
-| Investigations                                       | Weight increased             | Common                 |
+| System organ class                                   | Adverse reaction                       | All grades frequency   |
+|------------------------------------------------------|----------------------------------------|------------------------|
+| Hepatobiliary disorders                              | Alanine aminotransferase increased a   | Very common            |
+| Hepatobiliary disorders                              | Aspartate aminotransferase increased a | Very common            |
+| Musculoskeletal and connective tissue disorders      | Muscle spasms                          | Very common            |
+| Musculoskeletal and connective tissue disorders      | Bone pain                              | Common                 |
+| Musculoskeletal and connective tissue disorders      | Pain in extremity                      | Common                 |
+| Renal and urinary disorders                          | Blood creatinine increased a           | Very common            |
+| Renal and urinary disorders                          | Dysuria                                | Common                 |
+| General disorders and administration site conditions | Fatigue/ Asthenia                      | Very common            |
+| Investigations                                       | Weight increased                       | Common                 |
 
 MedDRA = Medical dictionary of regulatory activities
 
 SMQ = Standardized MedDRA Query (a grouping of several MedDRA preferred terms to capture a medical concept).
 
-a Frequency is based on laboratory value.
+- a Frequency is based on laboratory value.
 
-b Bleeding includes any type associated with thrombocytopenia requiring clinical intervention. Bleeding is evaluated using the MedDRA
+b Bleeding of any type including GI haemorrhage, subdural hematoma, haematoma, contusion, and epistaxis).
 
-SMQ haemorrhage terms (broad scope).
+c Peripheral neuropathy (narrow scope).
 
-c Adverse reactions from post-approval clinical studies
+d Low thiamine values below 70 nmol/l, based on laboratory values in FEDR-MF-002 data, for further explanation, see below.
 
 ## Description of selected adverse reactions
 
-## Encephalopathy, including Wernicke's
+## Wernicke's encephalopathy, Low Thiamine
 
-Serious cases of encephalopathy, including 1 established case of Wernicke's, were reported in 1.3% (8/608) of patients treated with Inrebic in clinical studies; 7 patients were taking Inrebic at 500 mg daily prior to the onset of neurologic findings and had predisposing factors such as malnutrition, gastrointestinal adverse events, and other risk factors that could lead to thiamine deficiency. One patient treated with Inrebic at 400 mg was determined to have hepatic encephalopathy. Most events resolved with some residual neurological symptoms including memory loss, cognitive impairment and dizziness, except for one fatal case (1/608; 0.16%). This was a patient with head and neck cancer, brain metastasis, difficulty eating, and weight loss who received fedratinib 500 mg in a study for another indication (see sections 4.2 and 4.4 for monitoring and management guidance and section 4.9).
+Historical data indicate a higher risk of Wernicke's encephalopathy (WE) in the absence of thiamine supplementation particularly in subjects treated with doses higher than 400 mg FEDR daily in the pre-approval clinical program (refer to Section 4.9, Overdose). However, additional long-term evidence obtained in the post-approval program indicates a lower risk of WE with thiamine supplementation (1/486 (0.2%)) and clinical monitoring and laboratory evaluation for low thiamine as clinically indicated at the approved dose of 400 mg.
 
-In a randomised controlled post-marketing study (FEDR-MF-002) of Fedratinib vs. best available therapy (BAT), the incidence of thiamine levels below the lower limit of normal (&lt; 70 nmol/L) was 20.9% for Fedratinib vs 4.5% for BAT. Thiamine levels &lt; 30 nmol/L were not observed in the study. The median time to the first low thiamine level after initiation of Fedratinib was 29.5 days. The frequency of low thiamine levels in participants receiving Fedratinib was 4.8% in those receiving thiamine supplementation 100 mg orally per day vs. 23.9% in those not receiving thiamine supplementation.
+In a randomised controlled post-marketing study (FEDR-MF-002) of Fedratinib vs. best available therapy (BAT), the incidence of thiamine levels below the lower limit of normal (&lt; 70 nmol/L) was 20.9% for Fedratinib vs 4.5% for BAT. Thiamine levels &lt; 30 nmol/L were not observed in the study. The median time to the first low thiamine level after initiation of Fedratinib was 29.5 days. The frequency of low thiamine levels in participants receiving Fedratinib was 4.8% in those receiving thiamine supplementation 100 mg orally per day vs. 23.9% in those not receiving thiamine supplementation (see sections 4.2 and 4.4 for monitoring and management guidance).
 
 ## Gastrointestinal toxicity
 
-Nausea, vomiting, and diarrhoea are among the most frequent adverse reactions in Inrebic-treated patients. In MF patients treated with 400 mg of Inrebic, diarrhoea occurred in 68% of patients, nausea in 62% of patients, and vomiting in 45% of patients. Grade 3 diarrhoea, nausea, and vomiting occurred in 5%, 0.5% and 2% of patients, respectively. The median time to onset of any grade nausea, vomiting, and diarrhoea was 2 days, with 75% of cases occurring within 3 weeks of starting treatment. Dose interruptions and reductions due to gastrointestinal toxicity were reported in 11% and 9% of patients, respectively. Permanent discontinuation of 400 mg Inrebic occurred due to gastrointestinal toxicity in 4% of patients (see sections 4.2 and 4.4 for monitoring and management guidance).
-
-## Anaemia
-
-In patients with primary or secondary myelofibrosis treated with 400 mg of Inrebic, 52% of patients developed Grade 3 anaemia. The median time to first onset of Grade 3 anaemia event was approximately 60 days with 75% of cases occurring within 4 months of starting treatment. Red blood cell transfusions were received by 58% of 400 mg Inrebic-treated patients and permanent
+Nausea, vomiting, and diarrhoea are among the most frequent adverse reactions in Inrebic-treated patients. In MF patients treated with 400 mg of Inrebic, diarrhoea occurred in 55.3% of patients, nausea in 49.6% of patients, and vomiting in 32.5% of patients. Grade 3/4 diarrhoea, nausea, and vomiting occurred in 3.3%, 1% and 1% of patients, respectively. The median time to onset of any grade nausea, vomiting, and diarrhoea was 8.0, 8.5 and 8.0 days respectively, with 27.6%, 17.9% and 32.1%, respectively, occurring within 2 weeks of starting treatment. Dose interruptions and reductions due to nausea were reported in 3.5% and 3.5% of patients, respectively. Dose interruptions and reductions due to vomiting were reported in 3.7% and 1.4% of subjects, respectively. Dose interruptions and reductions due to diarrhoea were reported in 4.9% and 2.3% of subjects, respectively. Permanent discontinuation of 400 mg Inrebic due to nausea diarrhoea, and vomiting occurred infrequently in 1.0%, 1.2% and 0.4%, respectively (see sections 4.2 and 4.4 for monitoring and management guidance).
 
 <div style=\"page-break-after: always\"></div>
 
-discontinuation of 400 mg Inrebic occurred due to anaemia in 1.5% of patients (see sections 4.2 and 4.4 for monitoring and management guidance).
+## Anaemia
 
-## Thrombocytopenia
+In patients with primary or secondary myelofibrosis treated with 400 mg of Inrebic, 40.3% of patients developed Grade 3/4 anaemia. The median time to first onset of Grade 3 anaemia event was approximately 43 days with 27.4% of cases occurring within 3 months of starting treatment. Permanent discontinuation of 400 mg Inrebic occurred due to anaemia in 1.2% of patients. With longer exposure in Study FEDR-MF-002, 73% of Inrebic-treated patients (including those who received transfusions before starting Inrebic) received RBC transfusions (with a median number of transfusions of 1.3 units per 28 days (Q1, Q3: 0.451, 3.11)) and permanent discontinuation of 400 mg Inrebic occurred due to anaemia in 0.7% of patients (see sections 4.2 and 4.4 for monitoring and management guidance).
 
-In patients with primary or secondary myelofibrosis treated with 400 mg of Inrebic, 14% and 9% of patients developed Grade 3 and Grade 4 thrombocytopenia, respectively. The median time to first onset of Grade 3 or 4 thrombocytopenia was approximately 70 days with 75% of cases occurring within 7 months of starting treatment. Platelet transfusions were received by 9% of 400 mg Inrebic-treated patients. Bleeding (associated with thrombocytopenia), that required clinical intervention occurred in 11% of patients. Permanent discontinuation of treatment due to thrombocytopenia occurred in 3% of patients (see sections 4.2 and 4.4 for monitoring and management guidance).
+## Thrombocytopenia/Bleeding
+
+In patients with primary or secondary myelofibrosis treated with 400 mg of Inrebic, 13.8% of patients developed Grade 3 (10.1%) and Grade 4 (3.7%) thrombocytopenia, respectively. The median time to first onset of Grade 3/4 thrombocytopenia was approximately 30 days with 10.1% of cases occurring within 3 months of starting treatment. Permanent discontinuation of treatment due to thrombocytopenia occurred in 2.7% of patients. During the entire treatment duration, bleeding of any type was observed in 29.2%, Grade 3/4 events of any kind in 6.2%. In post-approval clinical studies, in 248 patients, bleeding of any type was observed in 28.2%, Grade 3/4 in 7.7%. (see sections 4.2 and 4.4 for monitoring and management guidance).
 
 ## Neutropenia
 
-Grade 4 neutropenia occurred in 3.5% of patients and dose interruption due to neutropenia were reported in 0.5% of patients (see sections 4.2 and 4.4 for monitoring and management guidance).
+Grade 3/4 neutropenia occurred in 4.5% of patients and dose interruption due to neutropenia were reported in 1.0% of patients (see sections 4.2 and 4.4 for monitoring and management guidance).
 
 ## Hepatic toxicity
 
-Elevations of ALT and AST (all Grades) occurred in 52% and 59%, respectively, with Grade 3 or 4 in 3% and 2%, respectively, of 400 mg Inrebic-treated patients. The median time to onset of any Grade transaminase elevation was approximately 1 month, with 75% of cases occurring within 3 months of starting treatment (see sections 4.2 and 4.4 for monitoring and management guidance).
+Elevations of ALT and AST (all Grades) occurred in 8.0% and 5.6%, respectively, with Grade 3/4 in 3.1% and 1.2%, respectively, of 400 mg Inrebic-treated patients. The median time to onset of any Grade transaminase elevation for ALT and AST were approximately 57 days (see sections 4.2 and 4.4 for monitoring and management guidance).
 
 ## Elevated amylase/lipase
 
-Elevations of amylase and/or lipase (all Grades) occurred in 24% and 40%, respectively, of Inrebic-treated MF patients. Most of these events were Grade 1 or 2, with Grade 3/4 in 2.5% and 12%, respectively (see section 4.2). The median time to onset of any Grade amylase or lipase elevation was 16 days, with 75% of cases occurring within 3 months of starting treatment. Permanent discontinuation of treatment due to elevated amylase and/or lipase occurred in 1.0% of patients receiving 400 mg of Inrebic (see sections 4.2 and 4.4 for monitoring and management guidance).
+Elevations of amylase and/or lipase (all Grades) occurred in 2.5 and 5.1%, respectively, with Grade 3/4 in 0.8% and 2.7% of Inrebic-treated MF patients, respectively. The median time to onset of any Grade amylase or lipase elevation was 43 and 85 days respectively. Permanent discontinuation of treatment due to elevated amylase and/or lipase occurred in 0.2% and 0.6% of patients, respectively, receiving 400 mg of Inrebic (see sections 4.2 and 4.4 for monitoring and management guidance).
 
 ## Elevated creatinine
 
-Elevations of creatinine (all Grades), occurred in 74% of MF patients taking 400 mg of Inrebic. These elevations were generally asymptomatic Grade 1 or 2 events, with Grade 3 elevations observed in 3% of patients. The median time to onset of any Grade creatinine elevation was 27 days, with 75% of cases occurring within 3 months of starting treatment. Dose interruptions and reductions due to elevated creatinine were reported in 1% and 0.5% of patients, respectively. Permanent discontinuation of treatment due to elevated creatinine occurred in 1.5% of 400 mg Inrebic-treated patients (see sections 4.2 and 4.4).
+Elevations of creatinine (all Grades), occurred in 8.0% of MF patients taking 400 mg of Inrebic with Grade 3/4 elevations observed in 0.4% of patients. The median time to onset of any Grade creatinine elevation was 15 days. Dose interruptions and reductions due to elevated creatinine were reported in 1.4% and 1.0% of patients, respectively. Permanent discontinuation of treatment due to elevated creatinine occurred in 0.6% of 400 mg Inrebic-treated patients (see sections 4.2 and 4.4).
 
 ## Uveitis
 
@@ -420,11 +417,11 @@ Uveitis occurred in 4.4% of Inrebic-exposed patients in the pooled data from thr
 
 Among patients with uveitis, most (55%) experienced more than one episode with grade 1/2 in 60% of episodes, and grade 3/4 in 40%. Topical steroids were sufficient for treatment in 75%, and systemic steroids were required in 25% of episodes.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -446,15 +443,13 @@ Fedratinib inhibits cytokine induced signal transducer and activator of transcri
 
 ## Clinical efficacy and safety
 
-Two key clinical studies (JAKARTA and JAKARTA2) were conducted in patients with myelofibrosis. JAKARTA was a randomised placebo-controlled Phase 3 study in patients who are JAK inhibitor naïve. JAKARTA2 was a single-arm study in patients who have been treated with ruxolitinib.
+Three key clinical studies (JAKARTA and JAKARTA2 and FEDR-MF-002) were conducted in patients with myelofibrosis. JAKARTA was a randomised placebo-controlled Phase 3 study in patients who are JAK inhibitor naïve. JAKARTA2 was a single-arm study in patients who have been treated with ruxolitinib.
 
 ## JAKARTA: Myelofibrosis patients who are JAK inhibitor naive
 
-JAKARTA was a double-blind, randomised, placebo-controlled Phase 3 study in patients with intermediate-2 or high-risk myelofibrosis, post-polycythaemia vera myelofibrosis or post-essential thrombocythemia myelofibrosis with splenomegaly and platelet count ≥ 50 x 10 9 /L. A total of 289 patients were randomised to receive either Inrebic 500 mg (N = 97), 400 mg (n = 96) or placebo (n = 96) once daily for at least 24 weeks (6 x 28 day cycles). Placebo patients could cross-over after 24 weeks to active treatment. The 400 mg dose appeared to be better tolerated than the 500 mg dose with fewer patients in the 400 mg arm reporting Grade 3 or 4 treatment emergent adverse events (TEAEs), TEAEs leading to dose reduction or dose interruption, and TEAEs leading to permanent treatment discontinuation. Fifty-nine percent (59%) of patients were male and the median age was 65 years (range 27 to 86 years), with 40% of patients between 65 and 74 years and 11% of patients at least 75 years. Sixty-four percent (64%) of patients had primary MF, 26% had post-polycythaemia vera MF, and 10% had post-essential thrombocythemia MF. Fifty-two percent (52%) of patients had intermediate-2 risk, and 48% had high-risk disease. The median haemoglobin count at baseline was 10.2 g/dL (range 4.5 to 17.4 g/dL). The median platelet count was 213.5 x 10 9 /L (range 23.0 to 1155.0 x 10 9 /L); 16.3% of patients had a platelet count &lt; 100 x 10 9 /L
+JAKARTA was a double-blind, randomised, placebo-controlled Phase 3 study in patients with intermediate-2 or high-risk myelofibrosis, post-polycythaemia vera myelofibrosis or post-essential thrombocythemia myelofibrosis with splenomegaly and platelet count ≥ 50 x 10 9 /L. A total of 289 patients were randomised to receive either Inrebic 500 mg (N = 97), 400 mg (n = 96) or placebo (n = 96) once daily for at least 24 weeks (6 x 28 day cycles). Placebo patients could cross-over after 24 weeks to active treatment. The 400 mg dose appeared to be better tolerated than the 500 mg dose with fewer patients in the 400 mg arm reporting Grade 3 or 4 treatment emergent adverse events (TEAEs), TEAEs leading to dose reduction or dose interruption, and TEAEs leading to permanent treatment discontinuation. Fifty-nine percent (59%) of patients were male and the median age was 65 years (range 27 to 86 years), with 40% of patients between 65 and 74 years and 11% of patients at least 75 years. Sixty-four percent (64%) of patients had primary MF, 26% had post-polycythaemia vera MF, and 10% had post-essential thrombocythemia MF. Fifty-two percent (52%) of patients had intermediate-2 risk, and 48% had high-risk disease. The median haemoglobin count at baseline was 10.2 g/dL (range 4.5 to 17.4 g/dL). The median platelet count was 213.5 x 10 9 /L (range 23.0 to 1155.0 x 10 9 /L); 16.3% of patients had a platelet count &lt; 100 x 10 9 /L and 83.7% of patients had a platelet count ≥ 100 x 10 9 /L. Patients had a median palpable spleen length of 15 cm (range 4 to 40 cm) at baseline and a median spleen volume as measured by magnetic resonance imaging (MRI) or computed tomography (CT) of 2568.0 mL (range of 316 to 8244 mL) at baseline. (The median normal spleen volume is approximately 215 mL).
 
 <div style=\"page-break-after: always\"></div>
-
-and 83.7% of patients had a platelet count ≥ 100 x 10 9 /L. Patients had a median palpable spleen length of 15 cm (range 4 to 40 cm) at baseline and a median spleen volume as measured by magnetic resonance imaging (MRI) or computed tomography (CT) of 2568.0 mL (range of 316 to 8244 mL) at baseline. (The median normal spleen volume is approximately 215 mL).
 
 The primary efficacy endpoint was the proportion of patients achieving ≥ 35% reduction from baseline in spleen volume at week 24 (end of cycle 6) as measured by MRI or CT confirmed 4 weeks later.
 
@@ -482,13 +477,11 @@ The modified MFSAF included 6 key MF associated symptoms: night sweats, itching,
 
 The percentage of patients (95% confidence interval) with a ≥ 50% reduction in TSS at the end of cycle 6 was 40.4% (36/89, 95% CI:30.3%, 50.6%) in the Inrebic 400 mg arm and 8.6% (7/81, 95% CI: 2.5%, 14.8%) in the placebo arm.
 
-## JAKARTA2: Myelofibrosis patients who have been treated with ruxolitinib
-
-JAKARTA2, was a multicentre, open-label, single-arm study in patients previously exposed to ruxolitinib with a diagnosis of intermediate-1 with symptoms, intermediate-2 or high-risk primary myelofibrosis, post-polycythaemia vera myelofibrosis or post-essential thrombocythemia myelofibrosis with splenomegaly and platelet count ≥ 50 x 10 9 /L. A total of 97 patients who were heavily pre-treated (79% of patients had received ≥ 2 prior therapies and 13% had received ≥ 4 prior therapies) were enrolled and started treatment with Inrebic 400 mg once daily with dose escalation up to 600 mg permitted. Fifty-five percent (55%) of patients were male and the median age was 67 years (range 38 to 83 years) with 46% of patients between 65 and 74 years and 17% of patients at least
-
 <div style=\"page-break-after: always\"></div>
 
-75 years. Fifty-five percent (55%) of patients had primary MF, 26% had post-polycythaemia vera MF, and 19% had post-essential thrombocythemia MF. Sixteen percent (16%) of patients had intermediate-1 with symptoms, 49% had intermediate-2, and 35% had high-risk disease. The median haemoglobin count was 9.8 g/dL (range 6.8 to 15.3 g/dL) at baseline. The median platelet count was 147.0 x 10 9 /L (range 48.0 to 929.0 x 10 9 /L) at baseline; 34.0% of patients had a platelet count &lt; 100 x 10 9 /L, and 66.0% of patients had a platelet count ≥ 100 x 10 9 /L. Patients had a median palpable spleen length of 18 cm (range 5 to 36 cm) at baseline and a median spleen volume as measured by magnetic resonance imaging (MRI) or computed tomography (CT) of 2893.5 mL (range of 737 to 7815 mL) at baseline.
+## JAKARTA2: Myelofibrosis patients who have been treated with ruxolitinib
+
+JAKARTA2, was a multicentre, open-label, single-arm study in patients previously exposed to ruxolitinib with a diagnosis of intermediate-1 with symptoms, intermediate-2 or high-risk primary myelofibrosis, post-polycythaemia vera myelofibrosis or post-essential thrombocythemia myelofibrosis with splenomegaly and platelet count ≥ 50 x 10 9 /L. A total of 97 patients who were heavily pretreated (79% of patients had received ≥ 2 prior therapies and 13% had received ≥ 4 prior therapies) were enrolled and started treatment with Inrebic 400 mg once daily with dose escalation up to 600 mg permitted. Fifty-five percent (55%) of patients were male and the median age was 67 years (range 38 to 83 years) with 46% of patients between 65 and 74 years and 17% of patients at least 75 years. Fifty-five percent (55%) of patients had primary MF, 26% had post-polycythaemia vera MF, and 19% had post-essential thrombocythemia MF. Sixteen percent (16%) of patients had intermediate-1 with symptoms, 49% had intermediate-2, and 35% had high-risk disease. The median haemoglobin count was 9.8 g/dL (range 6.8 to 15.3 g/dL) at baseline. The median platelet count was 147.0 x 10 9 /L (range 48.0 to 929.0 x 10 9 /L) at baseline; 34.0% of patients had a platelet count &lt; 100 x 10 9 /L, and 66.0% of patients had a platelet count ≥ 100 x 10 9 /L. Patients had a median palpable spleen length of 18 cm (range 5 to 36 cm) at baseline and a median spleen volume as measured by magnetic resonance imaging (MRI) or computed tomography (CT) of 2893.5 mL (range of 737 to 7815 mL) at baseline.
 
 The median duration of prior exposure to ruxolitinib was 10.7 months (range 0.1 to 62.4 months). Seventy-one percent (71%) of patients had received a dose of either 30 mg or 40 mg daily of ruxolitinib prior to study entry.
 
@@ -496,9 +489,17 @@ The primary efficacy endpoint was the proportion of patients achieving a ≥ 35%
 
 For the primary endpoint, the percentage of patients (95% confidence interval) who achieved a ≥ 35% reduction in spleen volume by MRI or CT at the 400 mg dose at the end of cycle 6 was 22.7% (22/97, 95% CI: 14.8%, 32.3%)
 
+## FEDR-MF-002
+
+MF-002 was a Phase 3, multicenter, open-label, randomised study assessing fedratinib versus best available therapy for subjects with DIPSS-intermediate or high-risk MF, post-PV MF, or post-ET MF, all previously treated with ruxolitinib. The study's primary objective was to measure the proportion of subjects achieving at least a 35% reduction in SVR35, as assessed by MRI or CT at the EOC6. The key secondary endpoints were Symptom Response Rate (≥ 50% reduction in TSS at EOC6) and spleen volume response rate (≥ 25% SVR at EOC6).
+
+Overall, 201 subjects were randomised: 134 to the FEDR arm and 67 to the BAT arm. Among those assigned to BAT, 48 subjects crossed over to FEDR following the End of Cycle 6. The percentage of patients with at least 35% SVR at EOC6 was 35.8% in the FEDR arm and 6.0% in the BAT arm. B oth key secondary endpoints (≥ 50% reduction in TSS at EOC6, ≥ 25% SVR at EOC6) showed statistically significant superiority for FEDR over BAT (34.1% vs 11.69% and 47% vs 13.4%, respectively).
+
 ## Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Inrebic in all subsets of the paediatric population for the treatment of myelofibrosis (MF) (see section 4.2 for information on paediatric use).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -514,9 +515,7 @@ A low-fat, low-calorie (total 162 calories: 6% from fat, 78% from carbohydrate a
 
 ## Distribution
 
-The mean apparent volume of distribution of fedratinib at steady-state is 1770 L in patients with myelofibrosis at 400 mg once daily dose suggesting extensive tissue distribution. The human plasma protein binding of fedratinib is approximately 95%, mostly to α1-acid glycoprotein.
-
-<div style=\"page-break-after: always\"></div>
+The mean apparent volume of distribution of fedratinib at steady-state is 1770 L in patients with myelofibrosis at 400 mg once daily dose suggesting extensive tissue distribution. The human plasma protein binding of fedratinib is approximately 95 %, mostly to α1 -acid glycoprotein.
 
 ## Biotransformation
 
@@ -536,6 +535,8 @@ Fedratinib pharmacokinetics is characterised by a biphasic disposition with an e
 
 In a population pharmacokinetics analysis of cumulative data from 452 patients, no clinically meaningful effect on the pharmacokinetics of fedratinib was observed with regard to age (analysis including 170 patients with age 65-74 years, 54 with age 75-84 years and 4 with age 85+ years), body weight (40 to 135 kg), gender (analysis including 249 males and 203 females) and race (analysis including 399 White, 7 Black, 44 Asian and 2 other).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
 Following a single 300 mg dose of fedratinib, the AUCinf of fedratinib increased by 1.5-fold in subjects with moderate renal impairment (CLcr 30 mL/min to 59 mL/min by C-G) and 1.9-fold in subjects with severe renal impairment (CLcr 15 mL/min to 29 mL/min by C-G), compared to that in subjects with normal renal function (CLcr ≥ 90 mL/min by C-G).
@@ -548,8 +549,6 @@ The safety and pharmacokinetics of a single oral dose of fedratinib were evaluat
 
 In a population pharmacokinetics analysis of cumulative data from 452 patients, no clinically meaningful effect on the pharmacokinetics of fedratinib was observed with regard to mild (defined as total bilirubin ≤ ULN and AST &gt; ULN or total bilirubin 1 to 1.5 times ULN and any AST increase; n = 115) or moderate (defined as total bilirubin &gt; 1.5 to 3 times ULN and any AST; n = 17) hepatic impairment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.3 Preclinical safety data
 
 Fedratinib has been evaluated in safety pharmacology, repeated dose toxicity, genotoxicity and reproductive toxicity studies and in a carcinogenicity study. Fedratinib was not genotoxic and not carcinogenic in the 6-month Tg.rasH2 transgenic mouse model. Preclinical studies have demonstrated that at clinically-relevant doses, fedratinib does not inhibit thiamine transport in the gastrointestinal tract or the brain (see sections 4.2 and 4.8)
@@ -559,6 +558,8 @@ In repeat-dose toxicity studies of up to 9 months in length, in mice, rats and d
 ## Fertility and early embryonic development
 
 Fedratinib had no effect on the oestrous cycle parameters, mating performance, fertility, pregnancy rate or reproductive parameters in male or female rats. The exposure (AUC) was approximately 0.10 to 0.13 times the clinical exposure at the recommended dose of 400 mg once daily. In a repeat-dose toxicity study, at exposures approximately equivalent to human clinical exposure, fedratinib caused aspermia, oligospermia and seminiferous tubule degeneration in male dogs (see section 4.6).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Embryo-foetal development
 
@@ -570,21 +571,15 @@ Fedratinib administered to pregnant rats during organogenesis (gestation days 6 
 
 ## Capsule content
 
-Silicified microcrystalline cellulose (contains microcrystalline cellulose (E460) and silica colloidal anhydrous (E551)).
-
-Sodium stearyl fumarate
+Silicified microcrystalline cellulose (contains microcrystalline cellulose (E460) and silica colloidal anhydrous (E551)). Sodium stearyl fumarate
 
 ## Capsule shell
 
 Gelatin (E441) Titanium dioxide (E171) Red iron oxide (E172)
 
-## Printing ink
+Printing ink
 
-Shellac (E904) Titanium dioxide (E171)
-
-<div style=\"page-break-after: always\"></div>
-
-Propylene glycol (E1520)
+Shellac (E904) Titanium dioxide (E171) Propylene glycol (E1520)
 
 ## 6.2 Incompatibilities
 
@@ -610,17 +605,11 @@ Each bottle contains 120 hard capsules and is packed in a cardboard carton.
 
 Any unused product or waste material should be returned to the pharmacist for safe disposal in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Bristol-Myers Squibb Pharma EEIG
-
-Plaza 254
-
-Blanchardstown Corporate Park 2
-
-Dublin 15, D15 T867
-
-Ireland
+Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -630,13 +619,11 @@ EU/1/20/1514/001
 
 Date of first authorisation: 8 February 2021
 
+Date of first renewal: 18 December 2025
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency https://www.ema.europa.eu.
-
-19
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -688,13 +675,17 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-INREBIC 100 mg hard capsules fedratinib
+INREBIC 100 mg hard capsules
+
+fedratinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -714,7 +705,7 @@ Read the package leaflet before use.
 
 QR code to be included
 
-www.inrebic-eu-pil.com
+[www.inrebic-eu-pil.com](http://www.inrebic-eu-pil.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -728,8 +719,6 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Keep the bottle tightly closed in order to protect from moisture.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
@@ -742,7 +731,7 @@ Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dubli
 
 EU/1/20/1514/001
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -754,9 +743,9 @@ Lot
 
 INREBIC
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
+- 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -772,7 +761,9 @@ BOTTLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-INREBIC 100 mg hard capsules fedratinib
+INREBIC 100 mg hard capsules
+
+fedratinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -794,7 +785,7 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -810,35 +801,25 @@ Keep the bottle tightly closed in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1514/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -848,9 +829,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Inrebic 100 mg hard capsules
-
-## fedratinib
+## Inrebic 100 mg hard capsules fedratinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -889,6 +868,8 @@ An enlarged spleen is one of the characteristics of myelofibrosis. Myelofibrosis
 - -if you are allergic to fedratinib or any of the other ingredients of this medicine (listed in section 6).
 - -if you are pregnant or think you may be pregnant.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking these capsules and during treatment, if you have any of the following signs or symptoms:
@@ -896,15 +877,11 @@ Talk to your doctor or pharmacist before taking these capsules and during treatm
 Condition affecting the brain called encephalopathy, including Wernicke's encephalopathy
 
 - Confusion, memory loss, or difficulty thinking; loss of balance or difficulty walking.
-- Eye problems such as random eye movement, double-vision, blurred vision and loss of vision.
-
-<div style=\"page-break-after: always\"></div>
-
-These maybe signs of a brain condition called encephalopathy, including Wernicke's encephalopathy which may lead to death.
+- Eye problems such as random eye movement, double-vision, blurred vision and loss of vision. These maybe signs of a brain condition called encephalopathy, including Wernicke's encephalopathy which may lead to death.
 
 Contact your doctor immediately if you get any of these signs or symptoms.
 
-## Talk to your doctor or pharmacist during your treatment
+Talk to your doctor or pharmacist during your treatment
 
 - if you are feeling very tired, being short of breath, pale skin or fast heartbeat - these may be signs of a low red blood cell count.
 - if you have unusual bleeding or bruising under the skin, longer than usual bleeding after your blood has been drawn, or bleeding from your gums - these may be signs of a low blood platelet count.
@@ -939,11 +916,11 @@ Your doctor may adjust the dose or stop treatment based on the results of the bl
 
 Inrebic should not be used in children or young people under 18 years of age because this medicine has not been studied in this age group.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other medicines and Inrebic
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This is because Inrebic can affect the way some other medicines work. Also some other medicines can affect the way Inrebic works.
-
-<div style=\"page-break-after: always\"></div>
 
 The following may increase the risk of side effects with Inrebic:
 
@@ -991,11 +968,11 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 The recommended dose is 400 mg (four 100 mg capsules) taken by mouth once daily.
 
+<div style=\"page-break-after: always\"></div>
+
 You will have blood tests before and while you take this medicine to monitor your progress. Your doctor will also tell you to take a daily dose of 100 mg vitamin B1 supplement during treatment (see section 2 'Blood tests').
 
 If you get certain side effects while you are taking Inrebic (see section 4) your doctor may lower your dose or pause or stop treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Taking these capsules
 
@@ -1034,8 +1011,8 @@ Talk to your doctor if you get any other side effects. These can include:
 Very common side effects (may affect more than 1 in 10 people)
 
 - Low levels of red blood cells which may cause tiredness, shortness of breath, pale skin or a fast heartbeat (anaemia) .
+- Low levels of thiamine in the blood ( Vitamin B1 ).
 - Reduction in blood platelets, which can make you bleed or bruise easily (thrombocytopenia) .
-- Reduction in white blood cells (neutropenia) , sometimes with fever. Low level of white blood cells can reduce your ability to fight off infections.
 - Feeling sick (nausea) or being sick (vomiting) .
 - Diarrhoea.
 - Constipation.
@@ -1043,15 +1020,19 @@ Very common side effects (may affect more than 1 in 10 people)
 - Urinary tract infection.
 - Headache.
 - Muscle spasms.
-- Tiredness (fatigue) or weakness (asthenia) .
-- Changes in blood test results ( alanine amino transferase increased , aspartate aminotransferase increased , increase in blood creatinine , increase in amylase and lipase levels). These may be signs of liver, kidney or pancreas problems.
-
-## Common side effects (may affect up to 1 in 10 people)
-
-- Dizziness.
 
 <div style=\"page-break-after: always\"></div>
 
+- Tiredness (fatigue) or weakness (asthenia) .
+- Changes in blood test results ( alanine amino transferase increased , aspartate aminotransferase increased , increase in blood creatinine ). These may be signs of liver or kidney problems.
+
+## Common side effects (may affect up to 1 in 10 people)
+
+- Reduction in white blood cells (neutropenia) , sometimes with fever. Low level of white blood cells can reduce your ability to fight off infections.
+- Change in blood tests results (increase in lipase and amylase levels). These may be signs of pancreas problems.
+- Increase in potassium levels in the blood ( hyperkalaemia )
+- Peripheral neuropathy, a condition causing feelings like numbness, tingling, burning, or weakness in your hands or feet
+- Dizziness.
 - Increase in blood pressure (hypertension) .
 - Indigestion (dyspepsia) .
 - Bone pain.
@@ -1086,128 +1067,158 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - o The capsule shell contains gelatin (E441), titanium dioxide (E171) and red iron oxide (E172).
 - o The white printing ink is composed of shellac (E904), titanium dioxide (E171) and propylene glycol (E1520).
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Inrebic looks like and contents of the pack
 
 - Inrebic are 21.4 -22.0 mm, reddish-brown capsules, printed with 'FEDR' on the cap and '100 mg' on the body in white ink.
 - The capsules are packaged in a high-density polyethylene (HDPE) bottle with a seal and polypropylene child resistant cap. Each bottle contains 120 capsules and is packed in a cardboard carton.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing Authorisation Holder
 
 Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
-Manufacturer Celgene Distribution B.V. Orteliuslaan 1000 3528 BD Utrecht Netherlands
+## Manufacturer
+
+Celgene Distribution B.V. Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-Belgique/België/Belgien
+Belgique/België/Belgien N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
-N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+## България
 
-България Swixx Biopharma EOOD Teл.: + 359 2 4942 480
+Swixx Biopharma EOOD Teл.: + 359 2 4942 480
 
-medinfo.bulgaria@swixxbiopharma.com
+[medinfo.bulgaria@swixxbiopharma.com](mailto:medinfo.bulgaria@swixxbiopharma.com)
 
-## Česká republika
+Česká republika Bristol-Myers Squibb spol. s r.o. Tel: + 420 221 016 111 medinfo.czech@bms.com
 
-Bristol-Myers Squibb spol. s r.o.
-
-Tel: + 420 221 016 111
-
-medinfo.czech@bms.com
-
-Danmark Bristol-Myers Squibb Denmark
-
-Tlf: + 45 45 93 05 06
-
-medinfo.denmark@bms.com
+Danmark Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06 medinfo.denmark@bms.com
 
 Deutschland Bristol-Myers Squibb GmbH &amp; Co. KGaA Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
 
-Eesti
+Eesti Swixx Biopharma OÜ Tel: + 372 640 1030
 
-Swixx Biopharma OÜ Tel: + 372 640 1030
-
-medinfo.estonia@swixxbiopharma.com
-
-Ελλάδα Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
-
-medinfo.greece@bms.com
-
-Lietuva
-
-Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com
-
-Luxembourg/Luxemburg N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+medinfo.estonia@swixxbiopharma.com Lietuva Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com Luxembourg/Luxemburg N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
 ## Magyarország
 
-Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797
-
-Medinfo.hungary@bms.com
+Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797 Medinfo.hungary@bms.com
 
 Malta A.M. Mangion Ltd Tel: + 356 23976333
 
-pv@ammangion.com
+[pv@ammangion.com](mailto:pv@ammangion.com)
 
-Nederland
-
-Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
+Nederland Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
 
 Norge Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
 
-Österreich Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30
-
-medinfo.austria@bms.com
-
 <div style=\"page-break-after: always\"></div>
 
-## España
+## Ελλάδα
+
+Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
+
+[medinfo.greece@bms.com](mailto:medinfo.greece@bms.com)
+
+España
 
 Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00
 
-informacion.medica@bms.com
+[informacion.medica@bms.com](mailto:informacion.medica@bms.com)
 
-## France
+France Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96
 
-Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96
+[infomed@bms.com](mailto:infomed@bms.com)
 
-infomed@bms.com
+Hrvatska
 
-## Hrvatska
+Swixx Biopharma d.o.o. Tel: + 385 1 2078 500
 
-Swixx Biopharma d.o.o.
+[medinfo.croatia@swixxbiopharma.com](mailto:medinfo.croatia@swixxbiopharma.com)
 
-Tel: + 385 1 2078 500
-
-medinfo.croatia@swixxbiopharma.com
-
-## Ireland
+Ireland
 
 Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625)
 
-medical.information@bms.com
+[medical.information@bms.com](mailto:medical.information@bms.com)
 
-## Ísland
+Ísland
 
 Vistor ehf. Sími: + 354 535 7000
 
-medical.information@bms.com
+[medical.information@bms.com](mailto:medical.information@bms.com)
 
-## Italia
+Italia
 
-Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61
+Bristol-Myers Squibb S.r.l.
 
-medicalinformation.italia@bms.com
+Tel: + 39 06 50 39 61
 
-Κύπρος Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300) medinfo.greece@bms.com
+[medicalinformation.italia@bms.com](mailto:medicalinformation.italia@bms.com)
 
-## Latvija
+Κύπρος
 
-Swixx Biopharma SIA Tel: + 371 66164750
+Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300)
 
-medinfo.latvia@swixxbiopharma.com
+[medinfo.greece@bms.com](mailto:medinfo.greece@bms.com)
+
+Latvija Swixx Biopharma SIA Tel: + 371 66164750
+
+[medinfo.latvia@swixxbiopharma.com](mailto:medinfo.latvia@swixxbiopharma.com)
+
+## Österreich
+
+Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30
+
+[medinfo.austria@bms.com](mailto:medinfo.austria@bms.com)
+
+Polska
+
+Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400
+
+[informacja.medyczna@bms.com](mailto:informacja.medyczna@bms.com)
+
+Portugal
+
+Bristol-Myers Squibb Farmacêutica Portuguesa,
+
+S.A.
+
+Tel: + 351 21 440 70 00
+
+[portugal.medinfo@bms.com](mailto:portugal.medinfo@bms.com)
+
+România
+
+Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19
+
+[medinfo.romania@bms.com](mailto:medinfo.romania@bms.com)
+
+Slovenija Swixx Biopharma d.o.o. Tel: + 386 1 2355 100
+
+[medinfo.slovenia@swixxbiopharma.com](mailto:medinfo.slovenia@swixxbiopharma.com)
+
+## Slovenská republika
+
+Swixx Biopharma s.r.o. Tel: + 421 2 20833 600
+
+[medinfo.slovakia@swixxbiopharma.com](mailto:medinfo.slovakia@swixxbiopharma.com)
+
+## Suomi/Finland
+
+Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230
+
+[medinfo.finland@bms.com](mailto:medinfo.finland@bms.com)
+
+Sverige
+
+Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00
+
+[medinfo.sweden@bms.com](mailto:medinfo.sweden@bms.com)
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1216,31 +1227,3 @@ medinfo.latvia@swixxbiopharma.com
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 Detailed information on this medicine is also available by scanning the QR code on the outer packaging with a smartphone. The same information is available on the following URL: www.inrebiceu-pil.com.
-
-Polska Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400 informacja.medyczna@bms.com
-
-## Portugal
-
-Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
-
-## România
-
-Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19 medinfo.romania@bms.com
-
-## Slovenija
-
-Swixx Biopharma d.o.o. Tel: + 386 1 2355 100
-
-medinfo.slovenia@swixxbiopharma.com
-
-## Slovenská republika
-
-Swixx Biopharma s.r.o. Tel: + 421 2 20833 600 medinfo.slovakia@swixxbiopharma.com
-
-## Suomi/Finland
-
-Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230
-
-medinfo.finland@bms.com
-
-Sverige Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00 medinfo.sweden@bms.com

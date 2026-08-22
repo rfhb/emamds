@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/samsca.html
 document_name: samsca.html
 version: success
-processing_time: 0.1689575
-conversion_datetime: 2026-08-22 22:46:03.570345
+processing_time: 0.1664653
+conversion_datetime: 2026-08-22 23:20:20.9253
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

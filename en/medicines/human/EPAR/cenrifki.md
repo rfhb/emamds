@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cenrifki.html
 document_name: cenrifki.html
 version: success
-processing_time: 0.1366588
-conversion_datetime: 2026-08-22 22:55:56.664026
+processing_time: 0.1356714
+conversion_datetime: 2026-08-22 23:30:11.954439
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

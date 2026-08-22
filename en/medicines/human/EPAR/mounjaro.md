@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-26 12:00:00
+document_datetime: 2026-08-18 16:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mounjaro.html
 document_name: mounjaro.html
 version: success
-processing_time: 0.1812047
-conversion_datetime: 2026-07-04 13:05:32.003863
+processing_time: 0.2063945
+conversion_datetime: 2026-08-22 22:50:40.373417
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Mounjaro
 
@@ -48,9 +48,9 @@ Page contents
 
 ## Overview
 
-Mounjaro is a medicine used together with diet and physical activity to treat adults who have type 2 diabetes which is not satisfactorily controlled. It can be used on its own in patients who cannot take metformin (another diabetes medicine) or as an 'add-on' to other diabetes medicines.
+Mounjaro is a medicine used together with diet and physical activity to treat adults, adolescents and children aged 10 years and above who have type 2 diabetes which is not satisfactorily controlled. It can be used on its own in patients who cannot take metformin (another diabetes medicine) or as an 'add-on' to other diabetes medicines.
 
-Mounjaro is also used together with diet and physical activity to help people to lose weight and keep their weight under control. It is used in people who have obesity (BMI of 30 kg/m2 or more) or who are overweight (BMI between 27 and 30 kg/m2) and have weight-related health problems such as diabetes, abnormally high levels of fat in the blood, high blood pressure or obstructive sleep apnoea (frequent interruption of breathing during sleep). BMI (body mass index) is a measure of your weight in relation to your height.
+Mounjaro is also used together with diet and physical activity to help adults to lose weight and keep their weight under control. It is used in adults who have obesity with a body mass index (BMI) of 30 kg/m 2 or more, or who are overweight with a BMI between 27 and 30 kg/m 2 and have weight-related health problems such as diabetes, abnormally high levels of fat in the blood, high blood pressure or obstructive sleep apnoea (frequent interruption of breathing during sleep). BMI is a measure of your weight in relation to your height.
 
 Mounjaro contains the active substance tirzepatide.
 
@@ -60,7 +60,9 @@ Collapse section
 
 ### How is Mounjaro used?
 
-Mounjaro is available as a solution for injection in prefilled pens and can only be obtained with a prescription. It is injected once a week, under the skin of the abdomen (belly), upper arm or thigh. Mounjaro should be injected on the same day each week.
+Mounjaro can only be obtained with a prescription. It is given by injection using prefilled pens. It is injected once a week, under the skin of the abdomen (belly), thigh, or upper arm, and if another person gives the injection, it may also be given in the back of the shoulder.
+
+Mounjaro should be injected on the same day each week. Patients or their carers can inject the medicine after being trained.
 
 For more information about using Mounjaro, see the package leaflet or contact your doctor or pharmacist.
 
@@ -70,31 +72,33 @@ The active substance in Mounjaro, tirzepatide, acts in the same way as glucagon-
 
 ### What benefits of Mounjaro have been shown in studies?
 
-Mounjaro was effective at controlling blood glucose in five main studies involving more than 6,000 adults with type 2 diabetes. In these studies, the main measure of effectiveness was the reduction in the proportion of haemoglobin in the blood that has glucose attached (HbA1c). This indicates how well blood glucose is controlled.
+**Type 2 diabetes**
 
-In two studies, Mounjaro lowered HbA1c by up to 2.1 and 2.6 percentage points after 40 weeks when added to existing treatment consisting of lifestyle changes only or insulin glargine with or without metformin, respectively. These results compared with no decrease or a decrease of 0.9 percentage points, respectively, in patients who received placebo (a dummy treatment).
+Mounjaro was effective at controlling blood glucose in five main studies involving more than 6,000 adults with type 2 diabetes. In these studies, the main measure of effectiveness was a reduction in the proportion of haemoglobin in the blood that has glucose attached (HbA1c). This indicates how well blood glucose is controlled.
 
+In two studies, Mounjaro lowered HbA1c by up to 2.1 and 2.6 percentage points after 40 weeks when added to lifestyle changes only or to insulin glargine with or without metformin, respectively. These results compared with no decrease or a decrease of 0.9 percentage points, respectively, in patients who received placebo (a dummy treatment).  
 In a third study, Mounjaro lowered HbA1c by up to 2.5 percentage points after 40 weeks when added to metformin treatment, compared with a decrease of 1.9 percentage points in patients who received semaglutide (another medicine for type 2 diabetes).
 
 In a fourth study, Mounjaro lowered HbA1c by up to 2.4 percentage points after 52 weeks, when added to treatment with metformin with or without an SGLT2 inhibitor (a group of medicines used to control blood glucose levels), compared with a decrease of 1.3 percentage points in patients who received insulin degludec.
 
-FFinally, in a fifth study, Mounjaro lowered HbA1c by up to 2.6 percentage points after 52 weeks, when added to treatment with up to 3 oral medicines (metformin, SGLT2 inhibitors and sulphonylureas (another group of medicines used to control blood glucose levels)), compared with a decrease of 1.4 percentage points in patients who received insulin glargine.
+In a fifth study, Mounjaro lowered HbA1c by up to 2.6 percentage points after 52 weeks, when added to treatment with up to 3 oral medicines (metformin, SGLT2 inhibitors and sulphonylureas (another group of medicines used to control blood glucose levels)), compared with a decrease of 1.4 percentage points in patients who received insulin glargine.  
+In addition, another study involved 99 adolescents aged 10 to less than 18 years with type 2 diabetes. The study found that, after 30 weeks, Mounjaro lowered HbA1c levels by around 2 percentage points compared to 0.2 in those who received placebo.
 
 **Weight management**
 
-Mounjaro was effective at helping people lose weight in a study involving more than 2,500 adults who had obesity (BMI over 30kg/m2) or who were overweight (BMI between 27 and 30 kg/m2) and had at least one weight-related health problem. In this study, people who used Mounjaro in combination with diet and physical activity for 72 weeks reduced their weight by at least 15% on average, depending on the dose they were given. This compares with 3% in people who were given a placebo. Over 85% of people taking Mounjaro were able to reduce their weight by at least 5%, compared with 35% of people given placebo.
+Mounjaro was effective at helping adults to lose weight in a study involving more than 2,500 participants who had obesity (BMI over 30 kg/m2) or who were overweight (BMI between 27 and 30 kg/m2) and had at least one weight-related health problem. In this study, people who used Mounjaro in combination with diet and physical activity for 72 weeks reduced their weight by at least 15% on average, depending on the dose they were given. This compares with 3% in people who were given a placebo. Over 85% of study participants taking Mounjaro were able to reduce their weight by at least 5%, compared with 35% of those given placebo.
 
 ### What are the risks associated with Mounjaro?
 
-For the full list of side effects and restrictions of Mounjaro, see the package leaflet.
+For the full list of side effects and restrictions with Mounjaro, see the package leaflet.
 
-The most common side effects with Mounjaro (which may affect more than 1 in 10 people) include problems with the digestive system, such as nausea (feeling sick) and diarrhoea. Constipation and vomiting were seen in up to 1 in 10 people. Side effects linked to the digestive system were generally mild or moderate in severity and occurred more often when the dose of Mounjaro was changed.
+The most common side effects with Mounjaro (which may affect more than 1 in 10 people) include low blood glucose levels (when used with sulphonylurea or insulin), nausea (feeling sick), vomiting, abdominal pain, constipation and diarrhoea.
 
 ### Why is Mounjaro authorised in the EU?
 
-Studies show that Mounjaro is effective in lowering blood glucose levels in patients with type-2 diabetes, when given alone or in combination with other diabetes medicines, without significantly increasing the patient's risk of having low glucose levels. In patients who have obesity or are overweight with weight-related complications, treatment with Mounjaro resulted in weight loss which was mainly due to loss of fat mass. Further, Mounjaro improved other measures such as blood pressure levels and the amount of fat in the blood.
+Studies show that Mounjaro is effective in lowering blood glucose levels in adults and children aged 10 years and above with type 2 diabetes, when given alone or in combination with other diabetes medicines, without significantly increasing the patient's risk of having low glucose levels. In adults who have obesity or are overweight with weight-related complications, treatment with Mounjaro resulted in weight loss which was mainly due to loss of fat mass. Further, Mounjaro improved other measures such as blood pressure levels and the amount of fat in the blood.
 
-The side effects of Mounjaro are manageable and its safety will continue to be monitored. The European Medicines Agency therefore decided that Mounjaro's benefits are greater than its risks and it can be authorised for use in the EU.
+The most common side effects of Mounjaro were gut-related, generally mild or moderate in severity and occurred more often shortly after the dose was increased. Overall, side effects were considered manageable. The European Medicines Agency therefore decided that Mounjaro's benefits are greater than its risks and it can be authorised for use in the EU.
 
 ### What measures are being taken to ensure the safe and effective use of Mounjaro?
 
@@ -108,153 +112,153 @@ Mounjaro received a marketing authorisation valid throughout the EU on 15 Septem
 
 Mounjaro : EPAR - Medicine Overview
 
-Reference Number: EMA/674324/2022
+Reference Number: EMADOC-1829012207-38696
 
-English (EN) (120.66 KB - PDF)
+English (EN) (125.37 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/en/documents/overview/mounjaro-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-953)
+[Other languages (22)](#file-language-dropdown-692)
 
-български (BG) (149.23 KB - PDF)
+български (BG) (141.96 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/bg/documents/overview/mounjaro-epar-medicine-overview_bg.pdf)
 
-español (ES) (124.75 KB - PDF)
+español (ES) (117.98 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/es/documents/overview/mounjaro-epar-medicine-overview_es.pdf)
 
-čeština (CS) (149.71 KB - PDF)
+čeština (CS) (131.53 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/cs/documents/overview/mounjaro-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (123.86 KB - PDF)
+dansk (DA) (116.47 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/da/documents/overview/mounjaro-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (128.09 KB - PDF)
+Deutsch (DE) (120.92 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/de/documents/overview/mounjaro-epar-medicine-overview_de.pdf)
 
-eesti (ET) (122.15 KB - PDF)
+eesti (ET) (114.79 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/et/documents/overview/mounjaro-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (150.73 KB - PDF)
+ελληνικά (EL) (144.07 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/el/documents/overview/mounjaro-epar-medicine-overview_el.pdf)
 
-français (FR) (125.55 KB - PDF)
+français (FR) (118.53 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/fr/documents/overview/mounjaro-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (146.79 KB - PDF)
+hrvatski (HR) (140.33 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/hr/documents/overview/mounjaro-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (123.83 KB - PDF)
+italiano (IT) (116.73 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/it/documents/overview/mounjaro-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (165.21 KB - PDF)
+latviešu (LV) (166.54 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/lv/documents/overview/mounjaro-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (148.87 KB - PDF)
+lietuvių (LT) (141.56 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/lt/documents/overview/mounjaro-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (149.22 KB - PDF)
+magyar (HU) (141.11 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/hu/documents/overview/mounjaro-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (151.45 KB - PDF)
+Malti (MT) (152.64 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/mt/documents/overview/mounjaro-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (126.38 KB - PDF)
+Nederlands (NL) (117.62 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/nl/documents/overview/mounjaro-epar-medicine-overview_nl.pdf)
 
-polski (PL) (152.04 KB - PDF)
+polski (PL) (156.3 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/pl/documents/overview/mounjaro-epar-medicine-overview_pl.pdf)
 
-português (PT) (125.63 KB - PDF)
+português (PT) (118.02 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/pt/documents/overview/mounjaro-epar-medicine-overview_pt.pdf)
 
-română (RO) (146.16 KB - PDF)
+română (RO) (140.06 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/ro/documents/overview/mounjaro-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (149.62 KB - PDF)
+slovenčina (SK) (143.58 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/sk/documents/overview/mounjaro-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (146.4 KB - PDF)
+slovenščina (SL) (139.8 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/sl/documents/overview/mounjaro-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (122.47 KB - PDF)
+suomi (FI) (114.88 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/fi/documents/overview/mounjaro-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (123.35 KB - PDF)
+svenska (SV) (115.83 KB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/sv/documents/overview/mounjaro-epar-medicine-overview_sv.pdf)
 
 Mounjaro : EPAR - Risk Management Plan
 
-English (EN) (3.34 MB - PDF)
+English (EN) (2.1 MB - PDF)
 
-**First published:** 25/11/2022 **Last updated:** 21/02/2024
+**First published:** 25/11/2022 **Last updated:** 18/08/2026
 
 [View](/en/documents/rmp/mounjaro-epar-risk-management-plan_en.pdf)
 
@@ -268,7 +272,7 @@ English (EN) (3.42 MB - PDF)
 
 [View](/en/documents/product-information/mounjaro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-447)
+[Other languages (24)](#file-language-dropdown-962)
 
 български (BG) (4.32 MB - PDF)
 
@@ -422,7 +426,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -441,7 +445,7 @@ English (EN) (75.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mounjaro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-103)
+[Other languages (24)](#file-language-dropdown-494)
 
 български (BG) (104.49 KB - PDF)
 
@@ -608,21 +612,7 @@ Drugs used in diabetes
 
 ### Therapeutic indication
 
-**Type 2 diabetes mellitus**
-
-Mounjaro is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise
-
-- as monotherapy when metformin is considered inappropriate due to intolerance or contraindications
-- in addition to other medicinal products for the treatment of diabetes.
-
-For study results with respect to combinations, effects on glycaemic control and the populations studied, see sections 4.4, 4.5 and 5.1.
-
-**Weight management**
-
-Mounjaro is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of
-
-- ≥ 30 kg/m2 (obesity) or
-- ≥ 27 kg/m2 to &lt; 30 kg/m2 (overweight) in the presence of at least one weight-related comorbid condition (e.g., hypertension, dyslipidaemia, obstructive sleep apnoea, cardiovascular disease, prediabetes, or type 2 diabetes mellitus).
+Type 2 diabetes mellitus Mounjaro is indicated for the treatment of adults, adolescents and children aged 10 years and above with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise - as monotherapy when metformin is considered inappropriate due to intolerance or contraindications - in addition to other medicinal products for the treatment of diabetes. For study results with respect to combinations, effects on glycaemic control and the populations studied, see sections 4.4, 4.5 and 5.1. Weight management Mounjaro is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of - ≥ 30 kg/m 2 (obesity) or - ≥ 27 kg/m2 to &lt; 30 kg/m 2 (overweight) in the presence of at least one weight-related comorbid condition (e.g., hypertension, dyslipidaemia, obstructive sleep apnoea, cardiovascular disease, prediabetes, or type 2 diabetes mellitus). For trial results with respect to obstructive sleep apnoea (OSA) and heart failure with preserved ejection fraction (HFpEF), see section 5.1.
 
 ## Authorisation details
 
@@ -660,6 +650,26 @@ English (EN) (236.97 KB - PDF)
 **First published:** 23/02/2023 **Last updated:** 26/02/2026
 
 [View](/en/documents/procedural-steps-after/mounjaro-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Mounjaro-H-C-005620-II-0038 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMA/39652/2026
+
+English (EN) (3.73 MB - PDF)
+
+**First published:** 18/08/2026
+
+[View](/en/documents/variation-report/mounjaro-h-c-005620-ii-0038-epar-assessment-report-variation_en.pdf)
+
+Mounjaro-VR-0000281937 : EPAR - Assessment report - Variation
+
+Reference Number: EMADOC-1700519818-2704504
+
+English (EN) (9.82 MB - PDF)
+
+**First published:** 18/08/2026
+
+[View](/en/documents/variation-report/mounjaro-vr-0000281937-epar-assessment-report-variation_en.pdf)
 
 Mounjaro-H-C-PSUSA-00011019-202405 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -781,7 +791,7 @@ English (EN) (4.47 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-526)
+[Other languages (24)](#file-language-dropdown-872)
 
 български (BG) (4.14 MB - DOCX)
 
@@ -962,7 +972,6 @@ English (EN) (127.93 KB - PDF)
 ## More information on Mounjaro
 
 - [EMEA-002360-PIP02-22-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002360-pip02-22-m02)
-- [Mounjaro - opinion on variation to marketing authorisation](/en/medicines/human/variation/mounjaro)
 - [NN2211-8841 Database Linkage Study to Evaluate the Risk of Medullary Thyroid Carcinoma - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001037)
 - [A Post-Marketing Safety Study of Mounjaro® (Tirzepatide) in Chinese Participants who are Overweight or have Obesity with or without Type 2 Diabetes Mellitus in a Real-World Setting - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000461)
 - [Body weight and waist circumference change in midlife women treated with tirzepatide by menopausal status: an observational study in UK primary care - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000983)
@@ -972,6 +981,6 @@ English (EN) (127.93 KB - PDF)
 
 **This page was last updated on**
 
-26/06/2026
+18/08/2026
 
 ## Share this page

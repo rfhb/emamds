@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-02 17:15:00
+document_datetime: 2026-08-19 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nivestim.html
 document_name: nivestim.html
 version: success
-processing_time: 0.0838486
-conversion_datetime: 2026-03-05 11:40:02.092275
+processing_time: 0.1502002
+conversion_datetime: 2026-08-22 22:50:06.803114
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Nivestim
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-filgrastim Medicine Human Authorised
+filgrastim
+
+Medicine Human Authorised
 
 Page contents
 
@@ -37,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [Related content](#related-content-694)
 - [More information on Nivestim](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -62,17 +63,17 @@ Expand section
 
 Collapse section
 
-## How is Nivestim used?
+### How is Nivestim used?
 
 Nivestim can only be obtained with a prescription and treatment should be given in collaboration with a centre for cancer treatment. The medicine is available in pre-filled syringes and is given by injection under the skin or infusion (drip) into a vein.
 
 The way Nivestim is given, its dose and the duration of treatment depend on why it is being used, the patient's body weight and the response to treatment. For more information about using Nivestim, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Nivestim work?
+### How does Nivestim work?
 
 The active substance in Nivestim, filgrastim, is very similar to a human protein called granulocyte colony stimulating factor (G CSF). Filgrastim works in the same way as naturally produced G CSF by encouraging the bone marrow to produce more white blood cells.
 
-## What benefits of Nivestim have been shown in studies?
+### What benefits of Nivestim have been shown in studies?
 
 Laboratory studies comparing Nivestim with Neupogen have shown that the active substance in Nivestim is highly similar to that in Neupogen in terms of structure, purity and biological activity. Studies have also shown that giving Nivestim produces similar levels of the active substance in the body to giving Neupogen.
 
@@ -80,25 +81,25 @@ In addition, a study in 279 female adult patients with breast cancer who were be
 
 Because Nivestim is a biosimilar medicine the studies on effectiveness and safety of filgrastim carried out with Neupogen do not all need to be repeated for Nivestim.
 
-## What is the risk associated with Nivestim?
+### What is the risk associated with Nivestim?
 
 The safety of Nivestim has been evaluated, and on the basis of all the studies carried out the side effects of the medicine are considered to be comparable to those of the reference medicine Neupogen.
 
 The most common side effects with Nivestim (which may affect more than 1 in 10 people) are fever, musculoskeletal pain (pain in the muscles and bones), anaemia (low red blood cell counts), vomiting and nausea (feeling sick). Other side effects may be seen in more than 1 in 10 patients, depending on the condition that Nivestim is being used for. For the full list of side effects and restrictions with Nivestim, see the package leaflet.
 
-## Why is Nivestim approved?
+### Why is Nivestim approved?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Nivestim has a highly similar structure, purity and biological activity to Neupogen and is distributed in the body in the same way.
 
 All these data were considered sufficient to conclude that Nivestim will behave in the same way as Neupogen in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Neupogen, the benefits of Nivestim are greater than its risks and it can be authorised or use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Nivestim?
+### What measures are being taken to ensure the safe and effective use of Nivestim?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Nivestim have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Nivestim are continuously monitored. Side effects reported with Nivestim are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Nivestim
+### Other information about Nivestim
 
 Nivestim received a marketing authorisation valid throughout the EU on 8 June 2010.
 
@@ -108,275 +109,141 @@ Reference Number: EMA/CHMP/544826/2019
 
 English (EN) (82.08 KB - PDF)
 
-**First published:** 23/06/2010
-
-**Last updated:** 08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/en/documents/overview/nivestim-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-208)
+[Other languages (22)](#file-language-dropdown-963)
 
 български (BG) (110.59 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/bg/documents/overview/nivestim-epar-medicine-overview_bg.pdf)
 
 español (ES) (82.49 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/es/documents/overview/nivestim-epar-medicine-overview_es.pdf)
 
 čeština (CS) (106.82 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/cs/documents/overview/nivestim-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (81.31 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/da/documents/overview/nivestim-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (83.07 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/de/documents/overview/nivestim-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (80.71 KB - PDF)
+eesti (ET) (80.71 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/et/documents/overview/nivestim-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (116.92 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/el/documents/overview/nivestim-epar-medicine-overview_el.pdf)
 
 français (FR) (82.63 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/fr/documents/overview/nivestim-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (101.35 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/hr/documents/overview/nivestim-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (81.34 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/it/documents/overview/nivestim-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (109.89 KB - PDF)
+latviešu (LV) (109.89 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/lv/documents/overview/nivestim-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (103.75 KB - PDF)
+lietuvių (LT) (103.75 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/lt/documents/overview/nivestim-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (102.03 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/hu/documents/overview/nivestim-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (106.73 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/mt/documents/overview/nivestim-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (81.97 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/nl/documents/overview/nivestim-epar-medicine-overview_nl.pdf)
 
 polski (PL) (107.81 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/pl/documents/overview/nivestim-epar-medicine-overview_pl.pdf)
 
 português (PT) (82.4 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/pt/documents/overview/nivestim-epar-medicine-overview_pt.pdf)
 
 română (RO) (103.05 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/ro/documents/overview/nivestim-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (106.29 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/sk/documents/overview/nivestim-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (100.16 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/sl/documents/overview/nivestim-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (80.8 KB - PDF)
+suomi (FI) (80.8 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/fi/documents/overview/nivestim-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (81.4 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-08/10/2019
+**First published:** 23/06/2010 **Last updated:** 08/10/2019
 
 [View](/sv/documents/overview/nivestim-epar-medicine-overview_sv.pdf)
 
@@ -392,311 +259,168 @@ English (EN) (961.89 KB - PDF)
 
 Nivestim : EPAR - Product Information
 
-English (EN) (660.73 KB - PDF)
+English (EN) (733.6 KB - PDF)
 
-**First published:** 23/06/2010
-
-**Last updated:** 02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/en/documents/product-information/nivestim-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-917)
+[Other languages (24)](#file-language-dropdown-408)
 
-български (BG) (784.03 KB - PDF)
+български (BG) (633.58 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/bg/documents/product-information/nivestim-epar-product-information_bg.pdf)
 
-español (ES) (507.11 KB - PDF)
+español (ES) (468.89 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/es/documents/product-information/nivestim-epar-product-information_es.pdf)
 
-čeština (CS) (710.17 KB - PDF)
+čeština (CS) (566.89 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/cs/documents/product-information/nivestim-epar-product-information_cs.pdf)
 
-dansk (DA) (708.76 KB - PDF)
+dansk (DA) (467.98 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/da/documents/product-information/nivestim-epar-product-information_da.pdf)
 
-Deutsch (DE) (778.47 KB - PDF)
+Deutsch (DE) (468.53 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/de/documents/product-information/nivestim-epar-product-information_de.pdf)
 
-eesti keel (ET) (736.83 KB - PDF)
+eesti (ET) (485.53 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/et/documents/product-information/nivestim-epar-product-information_et.pdf)
 
-ελληνικά (EL) (793 KB - PDF)
+ελληνικά (EL) (629.3 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/el/documents/product-information/nivestim-epar-product-information_el.pdf)
 
-français (FR) (621.82 KB - PDF)
+français (FR) (579.83 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/fr/documents/product-information/nivestim-epar-product-information_fr.pdf)
 
-hrvatski (HR) (738.12 KB - PDF)
+hrvatski (HR) (585.21 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/hr/documents/product-information/nivestim-epar-product-information_hr.pdf)
 
-íslenska (IS) (755.46 KB - PDF)
+italiano (IT) (569.6 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
-
-[View](/is/documents/product-information/nivestim-epar-product-information_is.pdf)
-
-italiano (IT) (756.12 KB - PDF)
-
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/it/documents/product-information/nivestim-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (779.16 KB - PDF)
+latviešu (LV) (597.44 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/lv/documents/product-information/nivestim-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (756.38 KB - PDF)
+lietuvių (LT) (578.82 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/lt/documents/product-information/nivestim-epar-product-information_lt.pdf)
 
-magyar (HU) (832.79 KB - PDF)
+magyar (HU) (658.94 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/hu/documents/product-information/nivestim-epar-product-information_hu.pdf)
 
-Malti (MT) (1.7 MB - PDF)
+Malti (MT) (634.4 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/mt/documents/product-information/nivestim-epar-product-information_mt.pdf)
 
-Nederlands (NL) (521.23 KB - PDF)
+Nederlands (NL) (491.24 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/nl/documents/product-information/nivestim-epar-product-information_nl.pdf)
 
-norsk (NO) (756.01 KB - PDF)
+polski (PL) (580.23 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
-
-[View](/no/documents/product-information/nivestim-epar-product-information_no.pdf)
-
-polski (PL) (784.32 KB - PDF)
-
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/pl/documents/product-information/nivestim-epar-product-information_pl.pdf)
 
-português (PT) (733.5 KB - PDF)
+português (PT) (465.86 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/pt/documents/product-information/nivestim-epar-product-information_pt.pdf)
 
-română (RO) (758.27 KB - PDF)
+română (RO) (551.67 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/ro/documents/product-information/nivestim-epar-product-information_ro.pdf)
 
-slovenčina (SK) (606.56 KB - PDF)
+slovenčina (SK) (586.88 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/sk/documents/product-information/nivestim-epar-product-information_sk.pdf)
 
-slovenščina (SL) (747.21 KB - PDF)
+slovenščina (SL) (530.04 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/sl/documents/product-information/nivestim-epar-product-information_sl.pdf)
 
-Suomi (FI) (709.43 KB - PDF)
+suomi (FI) (487.35 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/fi/documents/product-information/nivestim-epar-product-information_fi.pdf)
 
-svenska (SV) (738.83 KB - PDF)
+svenska (SV) (457.51 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-02/03/2026
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
 
 [View](/sv/documents/product-information/nivestim-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000326464 12/02/2026
+Íslenska (IS) (476.46 KB - PDF)
+
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
+
+[View](/is/documents/product-information/nivestim-epar-product-information_is.pdf)
+
+norsk (NO) (494.26 KB - PDF)
+
+**First published:** 23/06/2010 **Last updated:** 19/08/2026
+
+[View](/no/documents/product-information/nivestim-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000356992
+
+18/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -710,310 +434,169 @@ Nivestim : EPAR - All Authorised presentations
 
 English (EN) (26.39 KB - PDF)
 
-**First published:** 23/06/2010
-
-**Last updated:** 31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/en/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-457)
+[Other languages (24)](#file-language-dropdown-821)
 
 български (BG) (46.08 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/bg/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (27.37 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/es/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (56.98 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/cs/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (18.5 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/da/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (30.84 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/de/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (25.29 KB - PDF)
+eesti (ET) (25.29 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/et/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (54.24 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/el/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (26.33 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/fr/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (44.64 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/hr/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (28.95 KB - PDF)
-
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
-
-[View](/is/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (26.61 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/it/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (44.03 KB - PDF)
+latviešu (LV) (44.03 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/lv/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (43.27 KB - PDF)
+lietuvių (LT) (43.27 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/lt/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (58.65 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/hu/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (56.56 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/mt/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (29.24 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/nl/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (26.51 KB - PDF)
-
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
-
-[View](/no/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (56.32 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/pl/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (30.43 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/pt/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (55.15 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/ro/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (56.99 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/sk/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (25.57 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/sl/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (26.28 KB - PDF)
+suomi (FI) (26.28 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/fi/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (18.68 KB - PDF)
 
-**First published:**
-
-23/06/2010
-
-**Last updated:**
-
-31/08/2016
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
 
 [View](/sv/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (28.95 KB - PDF)
+
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
+
+[View](/is/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (26.51 KB - PDF)
+
+**First published:** 23/06/2010 **Last updated:** 31/08/2016
+
+[View](/no/documents/all-authorised-presentations/nivestim-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Nivestim Active substance filgrastim International non-proprietary name (INN) or common name filgrastim Therapeutic area (MeSH)
-
-- Hematopoietic Stem Cell Transplantation
-- Cancer
-
-Anatomical therapeutic chemical (ATC) code L03AA02
+- **Name of medicine**
+    - Nivestim
+- **Active substance**
+    - filgrastim
+- **International non-proprietary name (INN) or common name**
+    - filgrastim
+- **Therapeutic area (MeSH)**
+        - Hematopoietic Stem Cell Transplantation
+        - Cancer
+- **Anatomical therapeutic chemical (ATC) code**
+    - L03AA02
 
 ### Pharmacotherapeutic group
 
@@ -1033,19 +616,18 @@ Filgrastim is indicated for the treatment of persistent neutropenia (ANC ?1.0 x 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/001142
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-Opinion adopted 18/03/2010 Marketing authorisation issued 07/06/2010 Revision 32
+- **EMA product number**
+    - EMEA/H/C/001142
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Pfizer Europe MA EEIG Boulevard de la Plaine 17  1050 Bruxelles  Belgium
+- **Opinion adopted**
+    - 18/03/2010
+- **Marketing authorisation issued**
+    - 07/06/2010
+- **Revision**
+    - 33
 
 ## Assessment history
 
@@ -1053,13 +635,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Nivestim : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (132.12 KB - PDF)
+English (EN) (149.8 KB - PDF)
 
-**First published:** 02/03/2026
+**First published:** 02/03/2026 **Last updated:** 19/08/2026
 
 [View](/en/documents/procedural-steps-after/nivestim-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1067,35 +649,27 @@ Nivestim : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (211.89 KB - PDF)
 
-**First published:** 13/09/2010
-
-**Last updated:** 02/03/2026
+**First published:** 13/09/2010 **Last updated:** 02/03/2026
 
 [View](/en/documents/procedural-steps-after/nivestim-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Nivestim : EPAR - Public assessment report
 
 English (EN) (708.2 KB - PDF)
 
-**First published:** 23/06/2010
-
-**Last updated:** 23/06/2010
+**First published:** 23/06/2010 **Last updated:** 23/06/2010
 
 [View](/en/documents/assessment-report/nivestim-epar-public-assessment-report_en.pdf)
 
 CHMP positive summary of opinion for Nivestim
 
-Adopted
-
-Reference Number: EMA/CHMP/117846/2010
+Adopted Reference Number: EMA/CHMP/117846/2010
 
 English (EN) (56.87 KB - PDF)
 
-**First published:** 19/03/2010
-
-**Last updated:** 19/03/2010
+**First published:** 19/03/2010 **Last updated:** 19/03/2010
 
 [View](/en/documents/smop-initial/chmp-positive-summary-opinion-nivestim_en.pdf)
 
@@ -1107,13 +681,8 @@ English (EN) (56.87 KB - PDF)
 
 - [A multinational, multi-centre, prospective, non-interventional, post-authorisation safety study in healthy donors (HDs) exposed to Nivestim (biosimilar filgrastim) for haematopoietic stem cell (HSC) mobilisation (NEST) - post-authorisation study](https://catalogues.ema.europa.eu/study/34290)
 
-## Topics
+**This page was last updated on**
 
-- [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 02/03/2026
+19/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -4,8 +4,8 @@ document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/vimpat-h-c-863-vr-0000321459-epar-assessment-report-variation_en.pdf
 document_name: vimpat-h-c-863-vr-0000321459-epar-assessment-report-variation_en.pdf
 version: success
-processing_time: 15.0039553
-conversion_datetime: 2026-08-22 22:59:23.547508
+processing_time: 15.0209763
+conversion_datetime: 2026-08-22 23:33:34.015821
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-11 14:56:33
+document_datetime: 2026-08-19 17:53:38
 document_pages: 67
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/andembry-epar-product-information_en.pdf
 document_name: andembry-epar-product-information_en.pdf
 version: success
-processing_time: 16.5862062
-conversion_datetime: 2025-12-20 19:16:48.930453
+processing_time: 19.3882338
+conversion_datetime: 2026-08-23 00:24:42.209936
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -66,11 +66,9 @@ ANDEMBRY is indicated for routine prevention of recurrent attacks of hereditary 
 
 This medicinal product should be initiated under the supervision of a healthcare professional experienced in the management of patients with HAE.
 
-Posology
+Posology The recommended dose of ANDEMBRY, in adults and children 12 years of age and above, is an initial loading dose of 400 mg administered subcutaneously as two 200 mg injections on the first day of treatment, followed by a monthly dose of 200 mg.
 
 <div style=\"page-break-after: always\"></div>
-
-The recommended dose of ANDEMBRY, in adults and children 12 years of age and above, is an initial loading dose of 400 mg administered subcutaneously as two 200 mg injections on the first day of treatment, followed by a monthly dose of 200 mg.
 
 Consideration should be given to discontinuing treatment in patients with normal C1-INH HAE (nC1INH) who have shown insufficient reduction in attacks after 3 months of treatment (see section 4.4 and 5.1).
 
@@ -118,13 +116,13 @@ In order to improve the traceability of biological medicinal products, the name 
 
 <div style=\"page-break-after: always\"></div>
 
-Hypersensitivity reactions have not been observed but may theoretically occur. In case of severe hypersensitivity reactions, administration of garadacimab should be discontinued, and appropriate treatment instituted.
+Hypersensitivity reactions have been observed (see section 4.8). In case of severe hypersensitivity reactions, including anaphylaxis, administration of garadacimab should be discontinued immediately, and appropriate treatment instituted.
 
 ## General
 
 ANDEMBRY is not intended for treatment of acute HAE attacks. In case of breakthrough HAE attack, individualized treatment should be initiated with an approved rescue medicinal product.
 
-There are limited data available on the use of garadacimab in HAE patients with nC1-INH  (see section 5.1).
+There are limited data available on the use of garadacimab in HAE patients with nC1-INH (see section 5.1).
 
 Some subcategories of nC1-INH HAE may not respond to treatment with garadacimab due to alternative pathways that do not include FXII activation. It is recommended to perform genetic testing, if available, according to the current HAE guidelines and to discontinue the treatment if clinical response is not observed (see sections 4.2 and 5.1).
 
@@ -166,23 +164,20 @@ ANDEMBRY has no or negligible influence on the ability to drive and use machines
 
 ## Summary of the safety profile
 
-The most commonly observed adverse reactions associated with ANDEMBRY were injection site reactions (ISR) including injection site erythema, injection site bruising,  injection site pruritus and injection site urticaria, headache and abdominal pain.
+The most commonly observed adverse reactions associated with ANDEMBRY were injection site reactions (ISR) including injection site erythema, injection site bruising, injection site pruritus and injection site urticaria, headache and abdominal pain.
 
 ## Tabulated list of adverse reactions
 
-Table 1 summarises adverse reactions observed in the VANGUARD pivotal trial , which included 39 subjects with HAE who received at least 1 dose of ANDEMBRY.
+The frequency of adverse reactions listed in Table 1 is defined using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data).
 
-The frequency of adverse reactions listed in Table 1 is defined using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000).
+Table 1: Adverse drug reactions (ADRs) obtained from clinical studies with ANDEMBRY and post-marketing surveillance
 
-Table 1: Adverse drug reactions (ADRs) obtained from clinical studies with ANDEMBRY
-
-| System organ class                                   | Adverse drug reaction     | Frequency   |
-|------------------------------------------------------|---------------------------|-------------|
-| General disorders and administration site conditions | Injection site reactions* | Common      |
-| Nervous system disorders                             | Headache                  | Common      |
-| Gastrointestinal disorders                           | Abdominal pain            | Common      |
-
-*Injection site reactions include, erythema, bruising, pruritus, and injection site urticaria
+| System organ class                                   | Adverse drug reaction      | Frequency   |
+|------------------------------------------------------|----------------------------|-------------|
+| Immune system disorders                              | Hypersensitivity*          | Not known   |
+| General disorders and administration site conditions | Injection site reactions** | Common      |
+| Nervous system disorders                             | Headache                   | Common      |
+| Gastrointestinal disorders                           | Abdominal pain             | Common      |
 
 ## Paediatric population
 
@@ -220,42 +215,44 @@ The efficacy of ANDEMBRY for the routine prevention of recurrent attacks of here
 
 The study contained 64 patients aged 12 years and older including 58 adult and 6 pediatric patients who experienced at least 2 attacks during the up to 2-month run-in period. Patients were randomised into 2 parallel treatment arms in a 3:2 ratio (garadacimab 200 mg monthly after an initial 400 mg loading dose or volume-match placebo) for a 6-month treatment period. Patients were required to discontinue other prophylactic HAE treatment prior to entering the study. All patients were allowed to use on-demand medications for treatment of HAE attacks during the study.
 
-Overall, 87.5% of patients had Type I HAE. A family history of HAE was reported for 89.1%, a history of laryngeal edema attacks for 59.4% of patients and 32.8% were on prior prophylactic HAE treatments. During the study runin period, attack rates of ≥ 3 attacks/month were observed in 59.4% of patients overall. Mean baseline number of attacks per month was 3.07 in the ANDEMBRY group compared to 2.52 in the placebo group.
+Overall, 87.5% of patients had Type I HAE. A family history of HAE was reported for 89.1%, a history of laryngeal edema attacks for 59.4% of patients and 32.8% were on prior prophylactic HAE treatments. During the study run-in period, attack rates of ≥ 3 attacks/month were observed in 59.4% of patients overall. Mean baseline number of attacks per month was 3.07 in the ANDEMBRY group compared to 2.52 in the placebo group.
 
 The primary efficacy endpoint was the time-normalised number of HAE attacks from day 1 through the end of the 6-month treatment period. The key secondary endpoints were: the percent reduction in the mean time-normalised number of HAE attacks, the number of subjects who were attack free from day 1 through the end of the first 3-months the percent of subjects with good or excellent responses to the SGART from day 1 through the end of the 6-month treatment period.
 
 ## Table 2: Results of key primary and secondary efficacy measures (ITT analysis set)
 
-| ANDEMBRY 200 mg (N = 39)   | Placebo (N = 25)   |
-|----------------------------|--------------------|
+| ANDEMBRY 200 mg   | Placebo   |
+|-------------------|-----------|
 
 <div style=\"page-break-after: always\"></div>
 
-| Number of evaluable patients, n                                                         | 39                                                      | 24 a              |
-|-----------------------------------------------------------------------------------------|---------------------------------------------------------|-------------------|
-| Primary endpoint                                                                        | Primary endpoint                                        | Primary endpoint  |
-| Total number of HAE attacks from Day 1 to 182                                           | 63                                                      | 264               |
-| Time-normalised number of HAE attacks from Day 1 to 182                                 | Time-normalised number of HAE attacks from Day 1 to 182 |                   |
-| Mean (95% CI)                                                                           | 0.27 (0.05, 0.49)                                       | 2.01 (1.44, 2.57) |
-| P-value*                                                                                | < 0.001                                                 | < 0.001           |
-| Adjusted LS mean b (95% CI)                                                             | 0.22 (0.11, 0.47)                                       | 2.07 (1.49, 2.87) |
-| Secondary endpoints                                                                     | Secondary endpoints                                     |                   |
-| Mean (95% CI)                                                                           | 86.51 (57.84, 95.68)                                    |                   |
-| P-value*                                                                                | < 0.001                                                 | < 0.001           |
-| Percent (number) of subjects who were attack free from day 1 through the end of month 3 | 71.79 (28)                                              | 8.33 (2)          |
-| P-value*                                                                                | < 0.001                                                 | < 0.001           |
-| Percent (number) of subjects with good or excellent response to SGART at day 182        | 82 (31)                                                 | 33 (8)            |
-| P-value*                                                                                | < 0.001                                                 | < 0.001           |
+|                                                                                         | (N = 39)                                                                         | (N = 25)          |
+|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------|
+| Number of evaluable patients, n                                                         | 39                                                                               | 24 a              |
+| Primary endpoint                                                                        | Primary endpoint                                                                 | Primary endpoint  |
+| Total number of HAE attacks from Day 1 to 182                                           | 63                                                                               | 264               |
+| Time-normalised number of HAE attacks from Day 1 to 182                                 | Time-normalised number of HAE attacks from Day 1 to 182                          |                   |
+| Mean (95% CI)                                                                           | 0.27 (0.05, 0.49)                                                                | 2.01 (1.44, 2.57) |
+| P-value*                                                                                | < 0.001                                                                          | < 0.001           |
+| Adjusted LS mean b (95% CI)                                                             | 0.22 (0.11, 0.47)                                                                | 2.07 (1.49, 2.87) |
+| Secondary endpoints                                                                     | Secondary endpoints                                                              |                   |
+| Percent reduction in time-normalised number of HAE attacks relative to placebo c        | Percent reduction in time-normalised number of HAE attacks relative to placebo c |                   |
+| Mean (95% CI)                                                                           | 86.51 (57.84, 95.68)                                                             |                   |
+| P-value*                                                                                | < 0.001                                                                          | < 0.001           |
+| Percent (number) of subjects who were attack free from day 1 through the end of month 3 | 71.79 (28)                                                                       | 8.33 (2)          |
+| P-value*                                                                                | < 0.001                                                                          | < 0.001           |
+| Percent (number) of subjects with good or excellent response to SGART at day 182        | 82 (31)                                                                          | 33 (8)            |
+| P-value*                                                                                | < 0.001                                                                          | < 0.001           |
 
-HAE - hereditary angioedema; ITT - intent to treat; N - number of patients in the ITT analysis set; LS - least squares; CI - confidence interval; SGART - Subjects Global Assessment of Response to
+HAE - hereditary angioedema; ITT - intent to treat; N - number of patients in the ITT analysis set; LS
 
-Therapy
+- least squares; CI - confidence interval; SGART - Subjects Global Assessment of Response to Therapy
 
 a One patient had a treatment period of less than 30 Days and was therefore not included in the analysis
 
 b After adjusting for baseline attack rate
 
-c Median percent reduction for this endpoint was 100
+c  Median percent reduction for this endpoint was 100
 
 * A hierarchical testing procedure controls for the overall alpha level of 5% (2-sided)
 
@@ -280,9 +277,9 @@ Table 3: AE-QoL total score and domains change from baseline to day 182 (ITT ana
 
 ITT = intention-to-treat; N = number of patients in the ITT Analysis Set; SD = standard deviation.
 
-a Angioedema Quality of Life is only answered by patients of age ≥ 18 years.
+a  Angioedema Quality of Life is only answered by patients of age ≥ 18 years.
 
-b A lower AE-QoL score represents greater improvement
+b  A lower AE-QoL score represents greater improvement
 
 The efficacy profile in pediatric patients 12 years of age and older (n=6) was consistent with that of the overall population.
 
@@ -312,7 +309,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## 5.2 Pharmacokinetic properties
 
-In the VANGUARD pivotal trial , patients treated with 200 mg garadacimab subcutaneous once monthly presented mean (SD) area under the curve over the dosing interval at steady-state (AUCtau,ss), maximum concentration at steady-state (Cmax,ss), and minimum concentration at steady-state (Cmin,ss) of 10300 (3380) mcg ∙h/mL, 21.2 (6.58) mcg/mL, and 9.30 (3.73) mcg/mL, respectively. Steady-state exposure of garadacimab was achieved after the initial subcutaneous administration of loading dose of 400 mg (2 doses of 200 mg).
+In the VANGUARD pivotal trial , patients treated with 200 mg garadacimab subcutaneous once monthly presented mean (SD) area under the curve over the dosing interval at steady-state (AUCtau,ss), maximum concentration at steady-state (Cmax,ss), and minimum concentration at steady-state (Cmin,ss) of 10300 (3380) mcg∙h/mL, 21.2 (6.58) mcg/mL, and 9.30 (3.73) mcg/mL, respectively. Steady-state exposure of garadacimab was achieved after the initial subcutaneous administration of loading dose of 400 mg (2 doses of 200 mg).
 
 ## Absorption
 
@@ -346,7 +343,7 @@ As IgG monoclonal antibodies are mainly eliminated via intracellular catabolism,
 
 <div style=\"page-break-after: always\"></div>
 
-I n a population pharmacokinetic analysis, renal impairment (estimated glomerular filtration rate: ≥90 mL/min [normal, N=149], 60 to &lt;90 mL/min [mild, N=22], and 30 to &lt;60 mL/min [moderate, N=1]) had no effect on the pharmacokinetics of garadacimab.
+In a population pharmacokinetic analysis, renal impairment (estimated glomerular filtration rate: ≥90 mL/min [normal, N=149], 60 to &lt;90 mL/min [mild, N=22], and 30 to &lt;60 mL/min [moderate, N=1]) had no effect on the pharmacokinetics of garadacimab.
 
 ## 5.3 Preclinical safety data
 
@@ -444,7 +441,7 @@ EU/1/24/1885/001 EU/1/24/1885/002 EU/1/24/1885/003 EU/1/24/1885/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 10 February 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -477,7 +474,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -485,14 +482,14 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -558,11 +555,9 @@ Date removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
-Do not re-refrigerate after it has reached room temperature.
+Do not re-refrigerate after it has reached room temperature. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-Keep the pre-filled syringe in the outer carton in order to protect from light.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -680,9 +675,7 @@ ANDEMBRY 200 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -774,17 +767,17 @@ ANDEMBRY 200 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL - PRE-FILLED SYRINGE                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL - PRE-FILLED SYRINGE                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 ANDEMBRY 200 mg solution for injection garadacimab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -796,8 +789,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.2 mL
 
@@ -858,43 +851,52 @@ Keep the pre-filled pen in the outer carton in order to protect from light
 
 Can be stored at room temperature (up to 25 °C) for a single period of up to 2 months.
 
+<div style=\"page-break-after: always\"></div>
+
 Date removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 Do not re-refrigerate after it has reached room temperature.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 CSL Behring GmbH Emil-von-Behring-Strasse 76 35041 Marburg Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/24/1885/003
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 ANDEMBRY 200 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -948,43 +950,52 @@ Keep the pre-filled pen in the outer carton in order to protect from light
 
 Can be stored at room temperature (up to 25 °C) for a single period of up to 2 months.
 
+<div style=\"page-break-after: always\"></div>
+
 Date removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 Do not re-refrigerate after it has reached room temperature.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 CSL Behring GmbH Emil-von-Behring-Strasse 76 35041 Marburg Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/24/1885/004
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 ANDEMBRY 200 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1034,11 +1045,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze.
-
-Keep the pre-filled pen in the outer carton in order to protect from light.
-
-Can be stored at room temperature (up to 25 °C) for a single period of up to 2 months.
+Store in a refrigerator. Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light. Can be stored at room temperature (up to 25 °C) for a single period of up to 2 months.
 
 Date removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
@@ -1066,7 +1073,7 @@ Lot
 
 ANDEMBRY 200 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -1074,17 +1081,17 @@ ANDEMBRY 200 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL - PRE-FILLED PEN                                           |
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## LABEL - PRE-FILLED PEN
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 ANDEMBRY 200 mg solution for injection garadacimab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1096,8 +1103,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.2 mL
 
@@ -1149,21 +1156,21 @@ ANDEMBRY is a medicine used in patients aged 12 years and older with hereditary 
 
 HAE is a condition that causes recurrent episodes of rapid swelling, known as HAE attacks, in different parts of the body, including the
 
-- hands and feet;
-- face, eyelids, lips or tongue
-- voice-box (larynx) and throat, which may make breathing difficult;
-- genitals;
-- stomach and gut
+-  hands and feet;
+-  face, eyelids, lips or tongue
+-  voice-box (larynx) and throat, which may make breathing difficult;
+-  genitals;
+-  stomach and gut
 
 HAE attacks may be painful and disabling. Attacks that affect your throat or larynx may be dangerous or even life threatening.
 
-HAE often runs in families, but some people may not have a family history. Three types of HAE are known, based on the type of genetic defect and its effect on a protein that circulates in your blood, named C1 esterase inhibitor (C1-INH). A person can have low levels of C1-INH in the body (type I HAE), poorly functioning C1-INH (type II HAE), or HAE with normal functioning C1-INH (type III HAE). The last type is extremely rare. All three types produce the same clinical symptoms of localized swelling.
+HAE often runs in families, but some people may not have a family history. Three types of HAE are known, based on the type of genetic defect and its effect on a protein that circulates in your blood, named C1 esterase inhibitor (C1-INH). A person can have low levels of C1-INH in the body (type I HAE), poorly functioning C1-INH (type II HAE), or HAE with normal functioning C1-INH (nC1INH or type III HAE). The last type is extremely rare. All three types produce the same clinical symptoms of localized swelling.
 
 <div style=\"page-break-after: always\"></div>
 
 C1-INH regulates a process in the body that controls the production of an inflammatory substance called bradykinin. Overproduction of bradykinin causes swelling and inflammation in people with HAE.
 
-The active substance in ANDEMBRY, garadacimab, blocks the activation of a protein known as factor XIIa (FXIIa), which is involved in stimulating bradykinin production. By blocking FXIIa activity, garadacimab reduces the level of bradykinin, thereby preventing HAE attacks. Some subcategories of normal C1-INH HAE may not respond to treatment with garadacimab. Talk to your doctor if you have any concerns about your medicine.
+The active substance in ANDEMBRY, garadacimab, blocks the activity of a protein known as factor XIIa (FXIIa), which is involved in stimulating bradykinin production. By blocking FXIIa activity, garadacimab reduces the level of bradykinin, thereby preventing HAE attacks. Some subcategories of normal C1-INH HAE may not respond to treatment with garadacimab. Talk to your doctor if you have any concerns about your medicine.
 
 ## 2. What you need to know before you use ANDEMBRY
 
@@ -1173,9 +1180,9 @@ The active substance in ANDEMBRY, garadacimab, blocks the activation of a protei
 
 ## Warnings and precautions
 
-- Talk to your doctor, pharmacist or nurse before using ANDEMBRY.
-- If you have a severe allergic reaction to ANDEMBRY with symptoms such as hives, tight chest, difficulty breathing, wheezing, hypotension or anaphylaxis, tell your doctor, pharmacist or nurse immediately .
-- Treat a hereditary angioedema attack with your regular rescue medicine without taking additional doses of ANDEMBRY.
+-  Talk to your doctor, pharmacist or nurse before using ANDEMBRY.
+-  If you have a severe allergic reaction to ANDEMBRY with symptoms such as hives, tight chest, difficulty breathing, wheezing, hypotension or anaphylaxis, tell your doctor, pharmacist or nurse immediately .
+-  Treat a hereditary angioedema attack with your regular rescue medicine without taking additional doses of ANDEMBRY.
 
 ## Keeping a record
 
@@ -1227,11 +1234,11 @@ The recommended dose of ANDEMBRY is an initial loading dose of 400 mg given as t
 
 You can self-inject ANDEMBRY or a caregiver can inject it. In both cases, you or your caregiver must carefully read and follow the instructions in section 7, 'Instructions for Use'.
 
-- ANDEMBRY is for injection under the skin ('subcutaneous injection') in the tummy (abdomen), thigh or upper arm.
-- A doctor, pharmacists or nurse should show you how to inject ANDEMBRY properly before you use it for the first time. Do not self-inject or allow a caregiver to inject you until you have been trained to inject the medicine.
-- Use each pre-filled syringe only once.
-- If the pre-filled syringe with needle safety device does not perform as intended, tell your doctor, pharmacist or nurse as soon as possible.
-- Rotation of the injection site is recommended.
+-  ANDEMBRY is for injection under the skin ('subcutaneous injection') in the tummy (abdomen), thigh or upper arm.
+-  A doctor, pharmacists or nurse should show you how to inject ANDEMBRY properly before you use it for the first time. Do not self-inject or allow a caregiver to inject you until you have been trained to inject the medicine.
+-  Use each pre-filled syringe only once.
+-  If the pre-filled syringe with needle safety device does not perform as intended, tell your doctor, pharmacist or nurse as soon as possible.
+-  Rotation of the injection site is recommended.
 
 ## If you take more ANDEMBRY than you should
 
@@ -1255,9 +1262,13 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Common (may affect up to 1 in 10 people)
 
-- Injection site reactions including redness, bruising, itchiness, and urticaria
-- Headache
-- Abdominal pain
+-  Injection site reactions including redness, bruising, itchiness, and urticaria
+-  Headache
+-  Abdominal pain
+
+Frequency not known (frequency cannot be estimated from the available data)
+
+##  Allergic reactions
 
 ## Reporting of side effects
 
@@ -1271,7 +1282,7 @@ Do not use this medicine after the expiry date which is stated on the outer cart
 
 Store in a refrigerator (2 ℃ - 8 ℃). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-The pre-filled syringe may be stored at room temperature (up to 25 ℃ ) for a single period of up to 2 months, but not beyond the expiry date.
+The pre-filled syringe may be stored at room temperature (up to 25 ℃) for a single period of up to 2 months, but not beyond the expiry date.
 
 Do not return ANDEMBRY to refrigerated storage after storage at room temperature.
 
@@ -1284,9 +1295,10 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What ANDEMBRY contains
 
 - -The active substance is garadacimab. Each pre-filled syringe contains 200 mg of garadacimab in 1.2 ml solution.
-- -The other ingredients are histidine, arginine monohydrochloride, proline, polysorbate 80 and water for injections - see section 2 'ANDEMBRY contains proline and polysorbate 80'.
 
 <div style=\"page-break-after: always\"></div>
+
+- -The other ingredients are histidine, arginine monohydrochloride, proline, polysorbate 80 and water for injections - see section 2 'ANDEMBRY contains proline and polysorbate 80'.
 
 ## What ANDEMBRY looks like and contents of the pack
 
@@ -1400,11 +1412,11 @@ Tel.: +48 22 213 22 65
 
 ## France
 
+## Portugal
+
 CSL Behring SA
 
 Tél: +33 1 53 58 54 00
-
-## Portugal
 
 CSL Behring Lda
 
@@ -1412,11 +1424,11 @@ Tel: +351 21 782 62 30
 
 ## Hrvatska
 
-## România
-
 Marti Farm d.o.o.
 
 Tel: +385 1 5588297
+
+## România
 
 Prisum Healthcare S.R.L.
 
@@ -1432,7 +1444,7 @@ Tel: +49 6190 75 84700
 
 EMMES BIOPHARMA GLOBAL s.r.o.-
 
-podružnica v Sloveniji
+podru ž nica v Sloveniji
 
 Tel: +386 41 42 0002
 
@@ -1474,19 +1486,19 @@ CSL Behring AB
 
 Tel: +46 8 544 966 70
 
-<div style=\"page-break-after: always\"></div>
-
 ## Latvija
 
 CentralPharma Communications SIA
 
 Tel: +371 6 7450497
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 ## 7. Instructions for Use
 
@@ -1510,26 +1522,26 @@ Figure A
 
 ## Read the following safety information:
 
-- Keep the pre-filled syringe in its original carton box until use, to protect it from light.
-- Do not remove the needle cap until you are ready to inject the medicine.
-- Do not recap the pre-filled syringe.
-- Do not reuse the same pre-filled syringe. The pre-filled syringe contains 1 dose and is for single-use only.
-- The pre-filled syringe is for subcutaneous (under the skin) injection only.
-- Do not use the pre-filled syringe if it looks damaged, has cracks, is leaking medicine, or has been dropped. In these cases throw away the pre-filled syringe and use a new one.
-- Do not inject the pre-filled syringe through clothing.
-- Keep ANDEMBRY out of reach of children.
+-  Keep the pre-filled syringe in its original carton box until use, to protect it from light.
+-  Do not remove the needle cap until you are ready to inject the medicine.
+-  Do not recap the pre-filled syringe.
+-  Do not reuse the same pre-filled syringe. The pre-filled syringe contains 1 dose and is for single-use only.
+-  The pre-filled syringe is for subcutaneous (under the skin) injection only.
+-  Do not use the pre-filled syringe if it looks damaged, has cracks, is leaking medicine, or has been dropped. In these cases throw away the pre-filled syringe and use a new one.
+-  Do not inject the pre-filled syringe through clothing.
+-  Keep ANDEMBRY out of reach of children.
 
 ## How should I store ANDEMBRY?
 
-- Store in a refrigerator, between 2˚C to 8˚C, in its original carton until use, to protect it from light.
-- Do not freeze. If the pre-filled syringe has been frozen, do not use the pre-filled syringe even if it is thawed.
-- The refrigerated pre-filled syringe may be used until the expiry date printed on the label.
-- Take the pre-filled syringe out of the refrigerator 30 minutes before use, allowing it to reach room temperature.
+-  Store in a refrigerator, between 2˚C to 8˚C, in its original carton until use, to protect it from light.
+-  Do not freeze. If the pre-filled syringe has been frozen, do not use the pre-filled syringe even if it is thawed.
+-  The refrigerated pre-filled syringe may be used until the expiry date printed on the label.
+-  Take the pre-filled syringe out of the refrigerator 30 minutes before use, allowing it to reach room temperature.
 
 ## Alternative storage (room temperature):
 
-- If needed, for example when traveling, the pre-filled syringe may be stored at room temperature ( up to 25˚C ) for a single period of up to 2 months, but not beyond the expiry date.
-- If you decide to store the pre-filled syringe at room temperature:
+-  If needed, for example when traveling, the pre-filled syringe may be stored at room temperature (up to 25˚C) for a single period of up to 2 months, but not beyond the expiry date.
+-  If you decide to store the pre-filled syringe at room temperature:
 - o In the space provided on the carton box, write the date that you first removed the prefilled syringe from the refrigerator to help you keep track of how long it has been stored at room temperature.
 - o do not put the pre-filled syringe back in the refrigerator after it has reached room temperature.
 - o throw away the pre-filled syringe if it has been stored at room temperature for longer than 2 months.
@@ -1538,13 +1550,13 @@ Figure A
 
 Included in the carton box:
 
-- 1 pre-filled syringe
+-  1 pre-filled syringe
 
 Required but not included:
 
-- Alcohol pad
-- Cotton ball or gauze pad
-- Sharps container or puncture-resistant container for disposal (see Step 12. Disposing of the Syringe )
+-  Alcohol pad
+-  Cotton ball or gauze pad
+-  Sharps container or puncture-resistant container for disposal (see Step 12. Disposing of the Syringe )
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1556,12 +1568,12 @@ Figure B
 
 ## Step 1. Let the pre-filled syringe reach room temperature
 
-- Remove the pre-filled syringe from the carton box and place it on a clean flat surface .
-- Do not remove the pre-filled syringe from the carton box by holding onto the needle cap or plunger.
-- Do not move or pull on the plunger.
-- Wait 30 minutes for the medicine to reach room temperature if it has been stored in the refrigerator (see Figure C ).
-- Injecting the medicine cold could cause you some discomfort.
-- Do not try to speed up the warming process in any way. Do not microwave the pre-filled syringe, run hot water over it, or leave it in direct sunlight.
+-  Remove the pre-filled syringe from the carton box and place it on a clean flat surface .
+-  Do not remove the pre-filled syringe from the carton box by holding onto the needle cap or plunger.
+-  Do not move or pull on the plunger.
+-  Wait 30 minutes for the medicine to reach room temperature if it has been stored in the refrigerator (see Figure C ).
+-  Injecting the medicine cold could cause you some discomfort.
+-  Do not try to speed up the warming process in any way. Do not microwave the pre-filled syringe, run hot water over it, or leave it in direct sunlight.
 
 <!-- image -->
 
@@ -1569,10 +1581,10 @@ Figure B
 
 ## Step 2. Check the expiry date
 
-- Check the expiry date on the pre-filled syringe (see Figure D ).
-- Do not use the pre-filled syringe if the expiry date has passed.
-- Do not use the pre-filled syringe if it has been stored at room temperature for longer than 2 months.
-- If the expiry date has passed or the syringe has been stored at room temperature for longer than 2 months, then safely dispose of the pre-filled syringe and take a new one (see Step 12. Disposing of the syringe ).
+-  Check the expiry date on the pre-filled syringe (see Figure D ).
+-  Do not use the pre-filled syringe if the expiry date has passed.
+-  Do not use the pre-filled syringe if it has been stored at room temperature for longer than 2 months.
+-  If the expiry date has passed or the syringe has been stored at room temperature for longer than 2 months, then safely dispose of the pre-filled syringe and take a new one (see Step 12. Disposing of the syringe ).
 
 Figure D
 
@@ -1580,12 +1592,12 @@ Figure D
 
 ## Step 3. Inspect the pre-filled syringe
 
-- Inspect the medicine through the clear window of the pre-filled syringe (see Figure E and Figure F ).
-- Peel back the label to inspect the medicine if you cannot see enough of the medicine through the clear window of the pre-filled syringe (see Figure F ).
-- It is normal to see air bubbles. Do not try to remove the air bubbles.
-- The medicine should be brownish-yellow to yellow and may appear slightly opalescent to clear.
-- If the medicine is discolored or contains particles (see Figure E ), then do not use it. Safely dispose of the pre-filled syringe and take a new one (see Step 12. Disposing of the Syringe ).
-- Check the pre-filled syringe. If it looks damaged, has cracks or is leaking medicine, or has been dropped, safely dispose of the pre-filled syringe and take a new one.
+-  Inspect the medicine through the clear window of the pre-filled syringe (see Figure E and Figure F ).
+-  Peel back the label to inspect the medicine if you cannot see enough of the medicine through the clear window of the pre-filled syringe (see Figure F ).
+-  It is normal to see air bubbles. Do not try to remove the air bubbles.
+-  The medicine should be brownish-yellow to yellow and may appear slightly opalescent to clear.
+-  If the medicine is discolored or contains particles (see Figure E ), then do not use it. Safely dispose of the pre-filled syringe and take a new one (see Step 12. Disposing of the Syringe ).
+-  Check the pre-filled syringe. If it looks damaged, has cracks or is leaking medicine, or has been dropped, safely dispose of the pre-filled syringe and take a new one.
 
 ## Figure C
 
@@ -1601,7 +1613,7 @@ Figure F
 
 ## Step 4. Clean your hands
 
-- Wash your hands well with soap and water or use hand sanitizer (see Figure G ).
+-  Wash your hands well with soap and water or use hand sanitizer (see Figure G ).
 
 Figure G
 
@@ -1609,10 +1621,10 @@ Figure G
 
 ## Step 5. Select the injection site
 
-- Inject into the thigh or belly (abdomen) area, but stay 2 cm away from the belly button (navel) (see Figure H ).
-- If somebody else (like a caregiver) gives you the injection, you can also use the upper arm.
-- Rotate your injection sites. Do not inject in the same injection site multiple times if you see that the skin is damaged.
-- Do not inject into the belly button, moles, scars or bruises, or into areas where the skin is tender, red, hard, or injured.
+-  Inject into the thigh or belly (abdomen) area, but stay 2 cm away from the belly button (navel) (see Figure H ).
+-  If somebody else (like a caregiver) gives you the injection, you can also use the upper arm.
+-  Rotate your injection sites. Do not inject in the same injection site multiple times if you see that the skin is damaged.
+-  Do not inject into the belly button, moles, scars or bruises, or into areas where the skin is tender, red, hard, or injured.
 
 Figure H
 
@@ -1622,10 +1634,10 @@ Figure H
 
 ## Step 6. Prepare the injection site
 
-- Clean the injection site with an alcohol pad in a circular motion (see Figure I ).
-- Allow the injection site to air dry.
-- Do not touch the cleaned injection site before giving the injection.
-- Do not fan or blow on the skin area that you cleaned.
+-  Clean the injection site with an alcohol pad in a circular motion (see Figure I ).
+-  Allow the injection site to air dry.
+-  Do not touch the cleaned injection site before giving the injection.
+-  Do not fan or blow on the skin area that you cleaned.
 
 Figure I
 
@@ -1637,14 +1649,14 @@ Figure I
 
 ## Step 7. Remove needle cap and dispose of the cap
 
-- Do not remove the needle cap until you are ready to inject.
-- Hold the pre-filled syringe by the body, with the needle facing away from you.
-- Pull the needle cap straight off with one hand while holding the pre-filled syringe with the other hand (see Figure J ). If you cannot remove the cap, you should ask a caregiver for help or contact your healthcare provider.
-- Do not touch or hold the plunger during needle cap removal.
-- Do not re-cap the pre-filled syringe.
-- Dispose of the needle cap in a sharps container or puncture resistant container.
-- You may see a drop of liquid at the end of the needle. This is normal.
-- The needle should be kept sterile after removing the needle cap.  Do not touch the needle or let it touch any surfaces after removing the needle cap.
+-  Do not remove the needle cap until you are ready to inject.
+-  Hold the pre-filled syringe by the body, with the needle facing away from you.
+-  Pull the needle cap straight off with one hand while holding the pre-filled syringe with the other hand (see Figure J ). If you cannot remove the cap, you should ask a caregiver for help or contact your healthcare provider.
+-  Do not touch or hold the plunger during needle cap removal.
+-  Do not re-cap the pre-filled syringe.
+-  Dispose of the needle cap in a sharps container or puncture resistant container.
+-  You may see a drop of liquid at the end of the needle. This is normal.
+-  The needle should be kept sterile after removing the needle cap.  Do not touch the needle or let it touch any surfaces after removing the needle cap.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1656,16 +1668,16 @@ Figure J
 
 Immediately after removing the needle cap, complete the following steps without stopping:
 
-- Gently pinch the area of cleaned skin around the injection site and hold that area firmly until the injection is complete (see Figure K ).
-- Fully insert the needle at an angle between 45˚ and 90˚. Do not change the angle during the injection.  (see Figure K : images show an example of injection at a 90˚ angle).
-- Do not hold or push on the plunger while inserting the needle into the skin.
+-  Gently pinch the area of cleaned skin around the injection site and hold that area firmly until the injection is complete (see Figure K ).
+-  Fully insert the needle at an angle between 45˚ and 90˚. Do not change the angle during the injection.  (see Figure K : images show an example of injection at a 90˚ angle).
+-  Do not hold or push on the plunger while inserting the needle into the skin.
 
 <!-- image -->
 
 ## Step 9. Inject medicine
 
-- Hold the pre-filled syringe in place and inject all of the medicine by firmly pushing the plunger all the way down (see Figure L ).
-- Press the plunger all the way down until it stops to get the full dose. Push firmly on the plunger until the end of the injection (See Figure M ).
+-  Hold the pre-filled syringe in place and inject all of the medicine by firmly pushing the plunger all the way down (see Figure L ).
+-  Press the plunger all the way down until it stops to get the full dose. Push firmly on the plunger until the end of the injection (See Figure M ).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1681,7 +1693,7 @@ Figure M
 
 ## Step 10. Release plunger
 
-- After the plunger has been fully pushed down and the full dose injected, slowly remove your thumb from the plunger before removing the syringe from the skin (see Figure N ). This will make the needle retract inside the syringe.
+-  After the plunger has been fully pushed down and the full dose injected, slowly remove your thumb from the plunger before removing the syringe from the skin (see Figure N ). This will make the needle retract inside the syringe.
 
 Caution: Do not remove the syringe from the skin before removing your thumb, as this could result in a needle stick injury.
 
@@ -1691,10 +1703,10 @@ Figure N
 
 Step 11. Release the pinch and remove the pre-filled syringe
 
-- Release the pinch around the skin and remove the pre-filled syringe from the injection site (see Figure O ).
-- If there is a little bleeding at the injection site, you can press a cotton ball or gauze over the injection site.
-- Do not rub the injection site.
-- If needed, you may cover the injection site with a small adhesive bandage.
+-  Release the pinch around the skin and remove the pre-filled syringe from the injection site (see Figure O ).
+-  If there is a little bleeding at the injection site, you can press a cotton ball or gauze over the injection site.
+-  Do not rub the injection site.
+-  If needed, you may cover the injection site with a small adhesive bandage.
 
 Figure O
 
@@ -1706,17 +1718,17 @@ Figure O
 
 ## Step 12. Disposing of the syringe
 
-- Do not reuse the pre-filled syringe.
-- After injecting the dose, put the syringe into a sharps disposal container or closed punctureresistant container (see Figure P).
-- If you do not have a sharps disposal container or closed puncture-resistant container, you may use a household container that is:
+-  Do not reuse the pre-filled syringe.
+-  After injecting the dose, put the syringe into a sharps disposal container or closed punctureresistant container (see Figure P).
+-  If you do not have a sharps disposal container or closed puncture-resistant container, you may use a household container that is:
 - o Made of heavy-duty plastic
 - o Can be closed with a tight-fitting, puncture-resistant lid, to keep sharps safely inside
 - o Upright stable during use
 - o Leak-resistant
 - o Properly labeled to warn of hazardous waste inside the container
-- When your sharps disposal container is almost full, you will need to follow your local guidelines for the right way to dispose of your sharps disposal container. Ask your pharmacist / healthcare provider for more information on how to dispose of your sharps container.
-- Do not dispose of your used sharps disposal container in your household trash unless your local guidelines permit this.
-- Do not recycle your used sharps disposal container.
+-  When your sharps disposal container is almost full, you will need to follow your local guidelines for the right way to dispose of your sharps disposal container. Ask your pharmacist / healthcare provider for more information on how to dispose of your sharps container.
+-  Do not dispose of your used sharps disposal container in your household trash unless your local guidelines permit this.
+-  Do not recycle your used sharps disposal container.
 
 Figure P
 
@@ -1724,7 +1736,7 @@ Figure P
 
 ## Step 13. Keep track of treatment
 
-- If required by your physician, record your injection in a diary to help keep track of your medicine.
+-  If required by your physician, record your injection in a diary to help keep track of your medicine.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1759,21 +1771,21 @@ ANDEMBRY is a medicine used in patients aged 12 years and older with hereditary 
 
 HAE is a condition that causes recurrent episodes of swelling, known as HAE attacks, in different parts of the body, including the:
 
-- hands and feet;
-- face, eyelids, lips or tongue;
-- voice-box (larynx) and throat, which may make breathing difficult;
-- genitals;
-- stomach and gut.
+-  hands and feet;
+-  face, eyelids, lips or tongue;
+-  voice-box (larynx) and throat, which may make breathing difficult;
+-  genitals;
+-  stomach and gut.
 
 HAE attacks may be painful and disabling. Attacks that affect your throat or larynx may be dangerous or even life threatening.
 
-HAE is a condition that often runs in families, but some people may not have a family history. Three types of HAE are known, based on the type of genetic defect and its effect on a protein that circulates in your blood, named C1 esterase inhibitor (C1-INH). A person can have low levels of C1-INH in the body (type I HAE), poorly functioning C1-INH (type II HAE), or HAE with normal functioning C1INH (type III HAE). The last type is extremely rare. All three types produce the same clinical symptoms of localized swelling.
+HAE is a condition that often runs in families, but some people may not have a family history. Three types of HAE are known, based on the type of genetic defect and its effect on a protein that circulates in your blood, named C1 esterase inhibitor (C1-INH). A person can have low levels of C1-INH in the body (type I HAE), poorly functioning C1-INH (type II HAE), or HAE with normal functioning C1INH (nC1-INH or type III HAE). The last type is extremely rare. All three types produce the same clinical symptoms of localized swelling.
 
 C1-INH regulates a process in the body that controls the production of an inflammatory substance called bradykinin. Overproduction of bradykinin causes swelling and inflammation in people with HAE.
 
 <div style=\"page-break-after: always\"></div>
 
-The active substance in ANDEMBRY, garadacimab, blocks the activation of a protein known as factor XIIa (FXIIa), which is involved in stimulating bradykinin production. By blocking FXIIa activity, garadacimab reduces the level of bradykinin, thereby preventing HAE attacks. Some subcategories of normal C1-INH HAE may not respond to treatment with garadacimab. Talk to your doctor if you have any concerns about your medicine.
+The active substance in ANDEMBRY, garadacimab, blocks the activity of a protein known as factor XIIa (FXIIa), which is involved in stimulating bradykinin production. By blocking FXIIa activity, garadacimab reduces the level of bradykinin, thereby preventing HAE attacks. Some subcategories of normal C1-INH HAE may not respond to treatment with garadacimab. Talk to your doctor if you have any concerns about your medicine.
 
 ## 2. What you need to know before you use ANDEMBRY
 
@@ -1783,9 +1795,9 @@ If you are allegic to garadacimab or any of the other ingredients of this medici
 
 ## Warnings and precautions
 
-- Talk to your doctor, pharmacist or nurse before using ANDEMBRY.
-- If you have a severe allergic reaction to ANDEMBRY with symptoms such as hives, tight chest, difficulty breathing, wheezing, hypotension or anaphylaxis, tell your doctor, pharmacist or nurse immediately .
-- Treat a hereditary angioedema attack with your regular rescue medicine without taking additional doses of ANDEMBRY.
+-  Talk to your doctor, pharmacist or nurse before using ANDEMBRY.
+-  If you have a severe allergic reaction to ANDEMBRY with symptoms such as hives, tight chest, difficulty breathing, wheezing, hypotension or anaphylaxis, tell your doctor, pharmacist or nurse immediately .
+-  Treat a hereditary angioedema attack with your regular rescue medicine without taking additional doses of ANDEMBRY.
 
 ## Keeping a record
 
@@ -1837,11 +1849,11 @@ The recommended dose of ANDEMBRY is an initial loading dose of 400 mg given as t
 
 You can self inject ANDEMBRY or a caregiver can inject it for you. In both cases, you or your caregiver must carefully read and follow the instructions in section 7, 'Instructions for Use'.
 
-- ANDEMBRY is for injection under the skin ('subcutaneous injection') in the tummy (abdomen), thigh or upper arm.
-- A doctor, pharmacists or nurse should show you how to inject ANDEMBRY properly before you use it for the first time. Do not self-inject or allow a caregiver to inject youuntil you have been trained to inject the medicine.
-- Use each pre-filled pen only once.
-- If the pre-filled pen does not perform as intended, tell your doctor, pharmacist or nurse as soon as possible.
-- Rotation of the injection site is recommended.
+-  ANDEMBRY is for injection under the skin ('subcutaneous injection') in the tummy (abdomen), thigh or upper arm.
+-  A doctor, pharmacists or nurse should show you how to inject ANDEMBRY properly before you use it for the first time. Do not self-inject or allow a caregiver to inject youuntil you have been trained to inject the medicine.
+-  Use each pre-filled pen only once.
+-  If the pre-filled pen does not perform as intended, tell your doctor, pharmacist or nurse as soon as possible.
+-  Rotation of the injection site is recommended.
 
 ## If you take more ANDEMBRY than you should
 
@@ -1867,9 +1879,13 @@ Tell your doctor, pharmacist or nurse if you notice any of the following side ef
 
 Common (may affect up to 1 in 10 people)
 
-- Injection site reactions including redness, bruising, itchiness, and urticaria
-- Headache
-- Abdominal pain
+-  Injection site reactions including redness, bruising, itchiness, and urticaria
+-  Headache
+-  Abdominal pain
+
+Frequency not known (frequency cannot be estimated from the available data)
+
+##  Allergic reactions
 
 ## Reporting of side effects
 
@@ -1883,7 +1899,7 @@ Do not use this medicine after the expiry date which is stated on the outer cart
 
 Store in a refrigerator (2 ℃ - 8 ℃). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
 
-The pre-filled pen may be stored at room temperature (up to 25 ℃ ) for a single period of up to 2 months, but not beyond the expiry date.
+The pre-filled pen may be stored at room temperature (up to 25 ℃) for a single period of up to 2 months, but not beyond the expiry date.
 
 Do not return ANDEMBRY to refrigerated storage after storage at room temperature.
 
@@ -1900,9 +1916,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What ANDEMBRY looks like and contents of the pack
 
-ANDEMBRY is presented as a slightly opalescent to clear, brownish-yellow to yellow solution for injection in a pre-filled pen.
-
 <div style=\"page-break-after: always\"></div>
+
+ANDEMBRY is presented as a slightly opalescent to clear, brownish-yellow to yellow solution for injection in a pre-filled pen.
 
 ANDEMBRY is available as a single pack containing one 1.2 ml pre-filled pen and in multipacks of 3 cartons, each containing 1 pre-filled pen.
 
@@ -1970,12 +1986,6 @@ Tél: +33 1 53 58 54 00
 
 ## Hrvatska
 
-Marti Farm d.o.o.
-
-Tel: +385 1 5588297
-
-## Ireland
-
 ## Lietuva
 
 CentralPharma Communications UAB
@@ -2032,17 +2042,27 @@ Tel: +351 21 782 62 30
 
 ## România
 
+Marti Farm d.o.o.
+
+Tel: +385 1 5588297
+
 Prisum Healthcare S.R.L.
 
 Tel: +40 21 322 01 71
 
-## Slovenija
+## Ireland
 
 CSL Behring GmbH
 
-<div style=\"page-break-after: always\"></div>
-
 Tel: +49 6190 75 84700
+
+## Slovenija
+
+EMMES BIOPHARMA GLOBAL s.r.o.-
+
+podru ž nica v Sloveniji
+
+Tel: +386 41 42 0002
 
 ## Ísland
 
@@ -2050,11 +2070,23 @@ CSL Behring AB
 
 Sími: +46 8 544 966 70
 
+## Slovenská republika
+
+CSL Behring Slovakia s.r.o.
+
+Tel: +421 911 653 862
+
 ## Italia
 
 CSL Behring S.p.A.
 
 Tel: +39 02 34964 200
+
+## Suomi/Finland
+
+CSL Behring AB
+
+Puh/Tel: +46 8 544 966 70
 
 ## Κύπρος
 
@@ -2063,6 +2095,14 @@ CSL Behring ΕΠΕ
 Τηλ
 
 : +30 210 7255 660
+
+## Sverige
+
+CSL Behring AB
+
+Tel: +46 8 544 966 70
+
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -2074,33 +2114,9 @@ Tel: +371 6 7450497
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 ## 7. Instructions for Use
-
-EMMES BIOPHARMA GLOBAL s.r.o.-
-
-podružnica v Sloveniji
-
-Tel: +386 41 42 0002
-
-## Slovenská republika
-
-CSL Behring Slovakia s.r.o.
-
-Tel: +421 911 653 862
-
-## Suomi/Finland
-
-CSL Behring AB
-
-Puh/Tel: +46 8 544 966 70
-
-Sverige
-
-CSL Behring AB
-
-Tel: +46 8 544 966 70
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2124,32 +2140,32 @@ Figure A
 
 ## Read the following safety information:
 
-- Keep the pre-filled pen in its original carton box until use, to protect it from light.
-- Do not remove the clear pre-filled pen cap until you are ready to inject.
-- Do not put the clear pre-filled pen cap back on the pre-filled pen after it has been removed because this could start the injection and cause injury.
+-  Keep the pre-filled pen in its original carton box until use, to protect it from light.
+-  Do not remove the clear pre-filled pen cap until you are ready to inject.
+-  Do not put the clear pre-filled pen cap back on the pre-filled pen after it has been removed because this could start the injection and cause injury.
 
 <div style=\"page-break-after: always\"></div>
 
-- The pre-filled pen contains 1 dose and is for single-use only. Do not try to reuse the same prefilled pen.
-- Do not use the pre-filled pen if the expiry date has passed.
-- The pre-filled pen is for subcutaneous (under the skin) injection only.
-- Do not use the pre-filled pen if it looks damaged, has cracks, is leaking medicine, or has been dropped. In these cases, throw away the pre-filled pen as described in Step 11 and use a new one.
-- Do not inject through clothing.
-- Do not touch or try to remove the grey needle shield at any time.
-- Keep ANDEMBRY out of reach of children.
+-  The pre-filled pen contains 1 dose and is for single-use only. Do not try to reuse the same prefilled pen.
+-  Do not use the pre-filled pen if the expiry date has passed.
+-  The pre-filled pen is for subcutaneous (under the skin) injection only.
+-  Do not use the pre-filled pen if it looks damaged, has cracks, is leaking medicine, or has been dropped. In these cases, throw away the pre-filled pen as described in Step 11 and use a new one.
+-  Do not inject through clothing.
+-  Do not touch or try to remove the grey needle shield at any time.
+-  Keep ANDEMBRY out of reach of children.
 
 Contact your healthcare provider if you have any questions.
 
 ## How should I store ANDEMBRY?
 
-- Store ANDEMBRY pre-filled pen in a refrigerator, between 2 ˚C to 8 ˚C in its original carton until use, to protect it from light.
-- Do not freeze. If the pre-filled pen has been frozen, do not use the pre-filled pen even if it is thawed.
-- Take the pre-filled pen out of the refrigerator 30 minutes before use, allowing it to reach room temperature.
+-  Store ANDEMBRY pre-filled pen in a refrigerator, between 2 ˚C to 8 ˚C in its original carton until use, to protect it from light.
+-  Do not freeze. If the pre-filled pen has been frozen, do not use the pre-filled pen even if it is thawed.
+-  Take the pre-filled pen out of the refrigerator 30 minutes before use, allowing it to reach room temperature.
 
 ## Alternative storage (room temperature)
 
-- If needed, for example when traveling, the pre-filled pen may be stored at room temperature ( up to 25˚C ) for a single period of up to 2 months, but not beyond the expiry date.
-- If you decide to store the pre-filled pen at room temperature:
+-  If needed, for example when traveling, the pre-filled pen may be stored at room temperature (up to 25˚C) for a single period of up to 2 months, but not beyond the expiry date.
+-  If you decide to store the pre-filled pen at room temperature:
 - o In the space provided on the carton box, write the date you first removed the pre-filled pen from the refrigerator to help you keep track of how long it has been stored at room temperature.
 - o do not put the pre-filled pen back in the refrigerator after it has reached room temperature.
 - o throw away the pre-filled pen if it has been stored at room temperature for longer than 2 months (see Step 11. Disposing of the pre-filled pen ).
@@ -2158,13 +2174,13 @@ Contact your healthcare provider if you have any questions.
 
 Included in the carton box:
 
-- 1 Single-dose pre-filled pen
+-  1 Single-dose pre-filled pen
 
 Required supplies but not included in the carton box:
 
-- 1 alcohol pad
-- 1 cotton ball or gauze pad
-- 1 sharps container or puncture-resistant container for disposal (see Step 11. Disposing of the pre-filled pen )
+-  1 alcohol pad
+-  1 cotton ball or gauze pad
+-  1 sharps container or puncture-resistant container for disposal (see Step 11. Disposing of the pre-filled pen )
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2178,21 +2194,23 @@ Do not remove the clear pre-filled pen cap until immediately before the injectio
 
 ## Step 1. Let the pre-filled pen reach room temperature
 
-- Remove the pre-filled pen from the carton box and place it laying down on a clean flat surface.
-- Wait 30 minutes for the medicine to reach room temperature if it was stored in the refrigerator (see Figure C ).
-- Injecting the medicine cold could be uncomfortable.
-- Do not try to speed up the warming process in any way. For example, do not warm it in a microwave, in hot water, or leave it in direct sunlight.
+-  Remove the pre-filled pen from the carton box and place it laying down on a clean flat surface.
+-  Wait 30 minutes for the medicine to reach room temperature if it was stored in the refrigerator (see Figure C ).
+-  Injecting the medicine cold could be uncomfortable.
+-  Do not try to speed up the warming process in any way. For example, do not warm it in a microwave, in hot water, or leave it in direct sunlight.
 
 <div style=\"page-break-after: always\"></div>
 
-Room temp.
+Room
+
+temp.
 
 ## Step 2. Check the expiry date
 
-- Check the expiry date on the pre-filled pen label (see Figure D ).
-- Do not use the pre-filled pen if the expiry date has passed.
-- Do not use the pre-filled pen if it has been stored at room temperature for longer than 2 months.
-- If the expiry date has passed or if stored at room temperature for longer than 2 months, then safely dispose of the pre-filled pen and take a new one (see Step 11. Disposing of the prefilled pen ).
+-  Check the expiry date on the pre-filled pen label (see Figure D ).
+-  Do not use the pre-filled pen if the expiry date has passed.
+-  Do not use the pre-filled pen if it has been stored at room temperature for longer than 2 months.
+-  If the expiry date has passed or if stored at room temperature for longer than 2 months, then safely dispose of the pre-filled pen and take a new one (see Step 11. Disposing of the prefilled pen ).
 
 Figure C
 
@@ -2206,11 +2224,11 @@ Figure D
 
 ## Step 3. Inspect the pre-filled pen and the medicine
 
-- Check the pre-filled pen for damage .
-- Check the medicine through the viewing window of the pre-filled pen (see Figure E ).
-- It is normal to see air bubbles, do not try to remove the air bubbles.
-- The medicine should be brownish-yellow to yellow and may appear slightly opalescent to clear.
-- Do not use the pre-filled pen, safely dispose of it and take a new one (see Step 11. Disposing of the pre-filled pen ) if :
+-  Check the pre-filled pen for damage .
+-  Check the medicine through the viewing window of the pre-filled pen (see Figure E ).
+-  It is normal to see air bubbles, do not try to remove the air bubbles.
+-  The medicine should be brownish-yellow to yellow and may appear slightly opalescent to clear.
+-  Do not use the pre-filled pen, safely dispose of it and take a new one (see Step 11. Disposing of the pre-filled pen ) if :
 - o The medicine is discoloured or contains particles
 - o The pre-filled pen looks damaged or has cracks
 - o The pre-filled pen is leaking
@@ -2224,7 +2242,7 @@ Figure D
 
 ## Step 4. Clean your hands
 
-- Wash your hands well with soap and water or use hand sanitizer (see Figure F ).
+-  Wash your hands well with soap and water or use hand sanitizer (see Figure F ).
 
 Figure F
 
@@ -2232,10 +2250,12 @@ Figure F
 
 ## Step 5. Select the injection site
 
-- Inject into the thigh or belly (abdomen) area , but stay 2 cm away from the belly button (navel) (see Figure G )
-- If somebody else (caregiver) gives you the injection, they can also use the upper arm. Do not try to inject into the upper arm yourself.
-- Change (rotate) your injection site with each injection. Do not inject in the same place multiple times if the skin is damaged.
-- Do not inject into the belly button, moles, scars or bruises, or into areas where the skin is tender, red, hard, or injured.
+-  Inject into the thigh or belly (abdomen) area , but stay 2 cm away from the belly button (navel) (see Figure G )
+-  If somebody else (caregiver) gives you the injection, they can also use the upper arm. Do not try to inject into the upper arm yourself.
+-  Change (rotate) your injection site with each injection. Do not inject in the same place multiple times if the skin is damaged.
+-  Do not inject into the belly button, moles, scars or bruises, or into areas where the skin is tender, red, hard, or injured.
+
+Figure E
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2245,10 +2265,10 @@ Figure G
 
 ## Step 6. Prepare the injection site
 
-- Clean the injection site with an alcohol pad (see Figure H ).
-- Let your skin dry on its own.
-- Do not touch this area again before injecting.
-- Do not fan or blow on the skin area that you cleaned.
+-  Clean the injection site with an alcohol pad (see Figure H ).
+-  Let your skin dry on its own.
+-  Do not touch this area again before injecting.
+-  Do not fan or blow on the skin area that you cleaned.
 
 Figure H
 
@@ -2262,16 +2282,16 @@ Complete the injection without stopping. Read all steps first before beginning. 
 
 ## Step 7. Remove clear pre-filled pen cap and dispose of the cap
 
-- Hold the pre-filled pen with one hand and pull the clear pre-filled pen cap straight off with the other hand.
-- Do not twist the Clear Cap, (see Figure I ). If you cannot remove the Clear Cap, ask a caregiver for help or contact your healthcare provider.
-- The Clear Cap has a metal part inside, this is normal.
-- Do not put the Clear Cap back on after it has been removed, because this could start the injection and cause injury.
-- Dispose of the Clear Cap in a sharps container or closed puncture-resistant container.
+-  Hold the pre-filled pen with one hand and pull the clear pre-filled pen cap straight off with the other hand.
+-  Do not twist the Clear Cap, (see Figure I ). If you cannot remove the Clear Cap, ask a caregiver for help or contact your healthcare provider.
+-  The Clear Cap has a metal part inside, this is normal.
+-  Do not put the Clear Cap back on after it has been removed, because this could start the injection and cause injury.
+-  Dispose of the Clear Cap in a sharps container or closed puncture-resistant container.
 
 ## Important:
 
-- Do not touch the grey needle shield of the pre-filled pen to avoid injury.
-- Do not put the pre-filled pen down after removing the Clear Cap.
+-  Do not touch the grey needle shield of the pre-filled pen to avoid injury.
+-  Do not put the pre-filled pen down after removing the Clear Cap.
 
 Figure I
 
@@ -2283,9 +2303,9 @@ Figure I
 
 Immediately after removing the clear pre-filled pen cap, complete the following steps without stopping:
 
-- Gently pinch the area of cleaned skin around the injection site and hold the area firmly until the injection is complete (see Figure J ).
-- Place the pre-filled pen at a 90˚ angle on the cleaned injection site (see Figure J ).
-- Make sure you can see the viewing window.
+-  Gently pinch the area of cleaned skin around the injection site and hold the area firmly until the injection is complete (see Figure J ).
+-  Place the pre-filled pen at a 90˚ angle on the cleaned injection site (see Figure J ).
+-  Make sure you can see the viewing window.
 
 Figure J
 
@@ -2301,15 +2321,15 @@ Figure K
 
 <!-- image -->
 
-- Do not remove the pre-filled pen until the yellow plunger has stopped moving and completely filled the viewing window, and 5 seconds has passed after the Second 'click.'
-- Do not remove, tilt, or rotate the pre-filled pen during the injection.
+-  Do not remove the pre-filled pen until the yellow plunger has stopped moving and completely filled the viewing window, and 5 seconds has passed after the Second 'click.'
+-  Do not remove, tilt, or rotate the pre-filled pen during the injection.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Step 10. Release the pinch and remove the pre-filled pen
 
-- Release the pinch and remove the pre-filled pen at a 90° angle from the skin (see Figure L ).
-- As the pre-filled pen is lifted from the skin, the grey needle shield will return to the original (before use) position, and lock into place, covering the needle.
+-  Release the pinch and remove the pre-filled pen at a 90° angle from the skin (see Figure L ).
+-  As the pre-filled pen is lifted from the skin, the grey needle shield will return to the original (before use) position, and lock into place, covering the needle.
 
 Figure L
 
@@ -2317,9 +2337,9 @@ Figure L
 
 ## Important: If you think that you have not received the full dose contact your healthcare provider right away.
 
-- If there is a little bleeding at the injection site, you can press a cotton ball or gauze over the injection site.
-- Do not rub the injection site.
-- If needed, you may cover the injection site with a small adhesive bandage.
+-  If there is a little bleeding at the injection site, you can press a cotton ball or gauze over the injection site.
+-  Do not rub the injection site.
+-  If needed, you may cover the injection site with a small adhesive bandage.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2327,17 +2347,17 @@ Figure L
 
 ## Step 11. Disposing of the pre-filled pen
 
-- Do not try to reuse the pre-filled pen.
-- After injecting your dose, put the pre-filled pen into a sharps container or closed punctureresistant container (see Figure M ).
-- If you do not have a sharps container or closed puncture resistant container, you may use a household container that is:
+-  Do not try to reuse the pre-filled pen.
+-  After injecting your dose, put the pre-filled pen into a sharps container or closed punctureresistant container (see Figure M ).
+-  If you do not have a sharps container or closed puncture resistant container, you may use a household container that is:
 - o Made of heavy-duty plastic
 - o Can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
 - o Upright stable during use
 - o Leak-resistant
 - o Properly labeled to warn of hazardous waste inside the container
-- When your sharps container is almost full, you will need to follow your local guidelines for the right way to dispose of your sharps container. Ask your pharmacist / healthcare provider for more information on how to dispose of your sharps container.
-- Do not dispose of your used sharps container in your household trash unless your local guidelines permit this.
-- Do not recycle your used sharps container.
+-  When your sharps container is almost full, you will need to follow your local guidelines for the right way to dispose of your sharps container. Ask your pharmacist / healthcare provider for more information on how to dispose of your sharps container.
+-  Do not dispose of your used sharps container in your household trash unless your local guidelines permit this.
+-  Do not recycle your used sharps container.
 
 Figure M
 
@@ -2347,4 +2367,4 @@ Figure M
 
 ## Step 12. Keep track of your treatment
 
-- If required by your physician, record your injection in a diary to help keep track of your medicine.
+-  If required by your physician, record your injection in a diary to help keep track of your medicine.

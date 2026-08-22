@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-15 12:32:00
+document_datetime: 2026-08-17 18:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rinvoq.html
 document_name: rinvoq.html
 version: success
-processing_time: 0.220406
-conversion_datetime: 2026-07-16 13:15:36.909453
+processing_time: 0.227343
+conversion_datetime: 2026-08-22 22:47:40.076214
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Rinvoq
 
@@ -53,6 +53,8 @@ Rinvoq is a medicine that acts on the immune system (the body's natural defences
 - adults with active axial spondyloarthritis (inflammation of the spine causing back pain), including ankylosing spondylitis, when an X-ray shows the disease, and non-radiographic axial spondyloarthritis, when there are clear signs of inflammation but an X-ray does not show disease. It is used when other treatments do not work well enough;
 - adults with giant cell arteritis, a disease in which arteries, usually of the head, are swollen;
 - adults and children from 12 years of age with moderate to severe atopic dermatitis (also known as eczema, when the skin is itchy, red and dry) who can be treated with a medicine given by mouth or by injection;
+- adults and adolescents aged 12 years and older with severe alopecia areata, an autoimmune disease causing hair loss of the scalp or other parts of the body;
+- adults and adolescents aged 12 years and older with non-segmental vitiligo (a disease that causes patches of skin to lose colour on both sides of the body) who can be treated with a medicine given by mouth or by injection;
 - adults with ulcerative colitis (inflammation of the large intestine causing ulceration and bleeding) or Crohn's disease (an inflammatory disease affecting the gut). Rinvoq is used to treat moderately to severely active disease when other medicines, including biological medicines, do not or no longer work, or if the patient cannot take them.
 
 Rinvoq contains the active substance upadacitinib.
@@ -63,25 +65,23 @@ Collapse section
 
 ### How is Rinvoq used?
 
-Rinvoq can only be obtained with a prescription and treatment should be started and supervised by a doctor experienced in diagnosing and treating the conditions for which the medicine is used.
+Rinvoq can only be obtained with a prescription, and treatment should be started and supervised by a doctor experienced in diagnosing and treating the conditions for which the medicine is used.
 
 Rinvoq is available as tablets to be taken by mouth once a day. The dose depends on the disease Rinvoq is used for and other factors including the patient's age and the severity of the disease.
 
-The doctor may interrupt treatment in case of certain side effects, including falls in blood cell counts. Treatment may also be stopped if the patient does not respond after a number of weeks, depending on the condition Rinvoq is used for.
+The doctor may interrupt treatment in case of certain side effects, including falls in blood cell counts. Treatment may also be stopped if the disease does not respond after a number of weeks, depending on the condition being treated.
 
-For more information about using Rinvoq, see the package leaflet or contact your healthcare provider.
+For more information about using Rinvoq, see the package leaflet or contact doctor or pharmacist.
 
 ### How does Rinvoq work?
 
-In patients with rheumatoid arthritis, psoriatic arthritis, axial spondyloarthritis, giant cell arteritis, atopic dermatitis, ulcerative colitis and Crohn's disease, the immune system attacks healthy tissue, causing inflammation, pain and other symptoms.
-
-Upadacitinib, the active substance in Rinvoq, is an immunosuppressant. This means that it reduces the activity of the immune system. Upadacitinib works by blocking the action of enzymes called Janus kinases, which are involved in processes that lead to inflammation. Blocking the effect of Janus kinases helps to control the symptoms of the conditions.
+Upadacitinib, the active substance in Rinvoq, is an immunosuppressant (a medicine that reduces the activity of the immune system). It works by blocking the action of enzymes known as Janus kinases. These enzymes play an important role in the processes of inflammation and damage that occur in the conditions Rinvoq is used to treat. By blocking these enzymes, upadacitinib reduces symptoms of these diseases.
 
 ### What benefits of Rinvoq have been shown in studies?
 
 **Rheumatoid arthritis**
 
-Five studies involving a total of nearly 4,400 patients found Rinvoq was effective in reducing symptoms in patients with moderate to severe rheumatoid arthritis. These studies involved rating disease activity in 28 joints in the body on a standard scale. They showed that Rinvoq was effective at clearing the symptoms or achieving low disease activity in 43 to 48% of patients; this compared with a reduced disease activity in 14 to 19% of patients given placebo (a dummy treatment) or methotrexate.
+Five studies involving a total of nearly 4,400 patients found Rinvoq was effective in reducing symptoms in patients with moderate to severe rheumatoid arthritis. These studies involved rating disease activity in 28 joints in the body on a standard scale. They showed that Rinvoq was effective at clearing the symptoms or reducing disease activity in 43 to 48% of patients; this compared with a lower disease activity in 14 to 19% of patients given placebo (a dummy treatment) or methotrexate.
 
 **Psoriatic arthritis**
 
@@ -105,6 +105,20 @@ Treatment with Rinvoq on its own reduced the extent and severity of the disease 
 
 Similar results were observed when Rinvoq was used with corticosteroids: the extent and severity of the disease were reduced in 65 to 77% of patients taking Rinvoq compared with 26% of patients given placebo; skin cleared or almost cleared in 40 to 59% of patients taking Rinvoq, compared with 11% of patients given placebo.
 
+**Severe alopecia areata**
+
+Two main studies showed that Rinvoq, at doses of 15 mg and 30 mg, was effective at treating severe alopecia areata compared with placebo.
+
+The studies involved a total of 1,399 adults and adolescents over 12 years of age who had severe alopecia areata, with more than 50% hair loss on the scalp. Depending on the dose used, around 45 to 55% of people who received Rinvoq in the first study, and around 45 to 54% of those who received Rinvoq in the second study achieved at least 80% scalp hair coverage after 24 weeks. This compared with around 1 to 3% for those who received placebo in the first and second study, respectively.
+
+**Non-segmental vitiligo**
+
+In two main studies, Rinvoq was shown to improve pigmentation of the skin compared with placebo.
+
+The studies involved a total of 614 adults and adolescents over 12 years of age with non-segmental vitiligo.
+
+Around 25% and 23% of people who received Rinvoq achieved an improvement of at least 75% in the pigmentation of their face assessed using a standard scoring index, compared with around 6 to 7% of those who received placebo. Total body pigmentation improved by at least 50% in around 19 to 22% of people who used Rinvoq compared with 6% of those receiving placebo.
+
 **Ulcerative colitis**
 
 Two main studies involving 988 patients showed that Rinvoq was effective at clearing symptoms and improving the inflammation in the lining of the bowel of patients with moderately to severely active ulcerative colitis whose disease had not responded to other treatment or who could not tolerate other treatment. In the study patients took Rinvoq 45 mg or placebo once a day. After eight weeks of treatment, the proportion of patients on Rinvoq whose symptoms were gone or almost gone, along with normal or mild inflammation in the lining of the bowel, was 26% in the first study and 34% in the second study, compared with almost 5% and 4% for those given placebo.
@@ -117,7 +131,9 @@ Two main studies involving a total of 1,021 patients with moderately to severely
 
 A third study involved 502 patients from the first two studies whose Crohn's disease had improved with Rinvoq. Patients took 15 or 30 mg of the medicine once daily, or placebo. After 52 weeks of treatment, symptoms of Crohn's disease were gone or almost gone in 36% of patients given 15 mg Rinvoq and in 46% of patients given 30 mg Rinvoq, compared with 14% of patients given placebo. Inflammation of the gut lining was reduced by more than half in 28% and 40% of patients given Rinvoq 15 mg and 30 mg, respectively, compared with 7% of patients given placebo.
 
-### What are the risks associated with Rinvoq?
+Studies carried out with Rinvoq are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Rinvoq?
 
 For the complete list of side effects and restrictions with Rinvoq, see the package leaflet.
 
@@ -137,13 +153,17 @@ Rinvoq should only be used if no suitable treatment alternatives are available i
 
 ### Why is Rinvoq authorised in the EU?
 
-Rinvoq was effective at controlling moderate to severe rheumatoid arthritis, as well as psoriatic arthritis, axial spondyloarthritis, atopic dermatitis, ulcerative colitis and Crohn's disease in patients whose disease had not improved enough with, or could not take, other treatments. Studies found that it reduced disease activity when used alone or when combined with other medicines, depending on the condition treated. It was also found to be effective at treating giant cell arteritis in adults. Patients treated with Rinvoq may have side effects that include infection, neutropenia, and blood tests that suggest liver or muscle damage and raised blood lipids (fats). However, these side effects are considered manageable.
+Rinvoq was effective at controlling moderate to severe rheumatoid arthritis, as well as psoriatic arthritis, axial spondyloarthritis, atopic dermatitis, ulcerative colitis and Crohn's disease in patients whose disease had not improved enough with, or could not take, other treatments. Studies found that it reduced disease activity when used alone or when combined with other medicines, depending on the condition treated. It was also found to be effective at treating giant cell arteritis in adults. In adults and adolescents over 12 years of age, Rinvoq was shown to be effective at treating severe alopecia areata and non-segmental vitiligo.
+
+Patients treated with Rinvoq may have side effects that include infection, neutropenia, and blood tests that suggest liver or muscle damage and raised blood lipids (fats). Some of these side effects can be serious; however, they are considered manageable with the measures in place to minimise the risks.
 
 The European Medicines Agency therefore decided that Rinvoq's benefits are greater than its risks and that it can be authorised for use in the EU.
 
 ### What measures are being taken to ensure the safe and effective use of Rinvoq?
 
-The company that markets Rinvoq will provide educational materials to healthcare professionals and patients with information about the risks with the medicine, particularly the risk of serious infections, blood clots, major cardiovascular events, cancer or gastrointestinal perforation in certain patients. They will also include a reminder that Rinvoq should not be taken during pregnancy and that women taking Rinvoq must use contraception (birth control) during and, four weeks after stopping, treatment.
+The company that markets Rinvoq will provide educational materials to healthcare professionals and patients with information about the risks associated with the medicine, particularly the risk of serious infections, blood clots, major cardiovascular events, cancer or gastrointestinal perforation in certain patients. They will also include a reminder that Rinvoq should not be taken during pregnancy and that women taking Rinvoq must use contraception (birth control) during and, four weeks after stopping, treatment.
+
+These materials may be made available by national competent authorities on their websites. A list of national repositories is available on the EMA website.
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Rinvoq have also been included in the summary of product characteristics and the package leaflet.
 
@@ -153,155 +173,157 @@ As for all medicines, data on the use of Rinvoq are continuously monitored. Side
 
 Rinvoq received a marketing authorisation valid throughout the EU on 16 December 2019.
 
+For information about the availability of this medicine in your country, contact your national competent authority.
+
 Rinvoq : EPAR - Medicine overview
 
-Reference Number: EMA/114168/2025
+Reference Number: EMADOC-1829012207-58475
 
-English (EN) (113.89 KB - PDF)
+English (EN) (174.54 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/en/documents/overview/rinvoq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-452)
+[Other languages (22)](#file-language-dropdown-958)
 
-български (BG) (143.84 KB - PDF)
+български (BG) (196.97 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/bg/documents/overview/rinvoq-epar-medicine-overview_bg.pdf)
 
-español (ES) (115.68 KB - PDF)
+español (ES) (172.76 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/es/documents/overview/rinvoq-epar-medicine-overview_es.pdf)
 
-čeština (CS) (137.47 KB - PDF)
+čeština (CS) (194.37 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/cs/documents/overview/rinvoq-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (114.35 KB - PDF)
+dansk (DA) (175.37 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/da/documents/overview/rinvoq-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (116.98 KB - PDF)
+Deutsch (DE) (181.91 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/de/documents/overview/rinvoq-epar-medicine-overview_de.pdf)
 
-eesti (ET) (113.68 KB - PDF)
+eesti (ET) (166.85 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/et/documents/overview/rinvoq-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (150.84 KB - PDF)
+ελληνικά (EL) (194.76 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/el/documents/overview/rinvoq-epar-medicine-overview_el.pdf)
 
-français (FR) (117.22 KB - PDF)
+français (FR) (176.22 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/fr/documents/overview/rinvoq-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (132.04 KB - PDF)
+hrvatski (HR) (188.91 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/hr/documents/overview/rinvoq-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (115.43 KB - PDF)
+italiano (IT) (172.33 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/it/documents/overview/rinvoq-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (138.9 KB - PDF)
+latviešu (LV) (197.06 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/lv/documents/overview/rinvoq-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (135.46 KB - PDF)
+lietuvių (LT) (187.49 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/lt/documents/overview/rinvoq-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (130.09 KB - PDF)
+magyar (HU) (191.34 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/hu/documents/overview/rinvoq-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (136.78 KB - PDF)
+Malti (MT) (194.3 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/mt/documents/overview/rinvoq-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (116.49 KB - PDF)
+Nederlands (NL) (177.46 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/nl/documents/overview/rinvoq-epar-medicine-overview_nl.pdf)
 
-polski (PL) (140.27 KB - PDF)
+polski (PL) (199.08 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/pl/documents/overview/rinvoq-epar-medicine-overview_pl.pdf)
 
-português (PT) (115.48 KB - PDF)
+português (PT) (174.2 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/pt/documents/overview/rinvoq-epar-medicine-overview_pt.pdf)
 
-română (RO) (135.16 KB - PDF)
+română (RO) (185.19 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/ro/documents/overview/rinvoq-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (135.55 KB - PDF)
+slovenčina (SK) (192.8 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/sk/documents/overview/rinvoq-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (131.02 KB - PDF)
+slovenščina (SL) (189.68 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/sl/documents/overview/rinvoq-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (115.01 KB - PDF)
+suomi (FI) (168.38 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/fi/documents/overview/rinvoq-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (114.55 KB - PDF)
+svenska (SV) (172.67 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/sv/documents/overview/rinvoq-epar-medicine-overview_sv.pdf)
 
 Rinvoq : EPAR - Risk management plan
 
-English (EN) (10.91 MB - PDF)
+English (EN) (2.66 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 14/04/2025
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/en/documents/rmp/rinvoq-epar-risk-management-plan_en.pdf)
 
@@ -309,167 +331,167 @@ English (EN) (10.91 MB - PDF)
 
 Rinvoq : EPAR - Product information
 
-English (EN) (891.85 KB - PDF)
+English (EN) (1.01 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/en/documents/product-information/rinvoq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-457)
+[Other languages (24)](#file-language-dropdown-821)
 
-български (BG) (1.02 MB - PDF)
+български (BG) (1.22 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/bg/documents/product-information/rinvoq-epar-product-information_bg.pdf)
 
-español (ES) (937.78 KB - PDF)
+español (ES) (1.16 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/es/documents/product-information/rinvoq-epar-product-information_es.pdf)
 
-čeština (CS) (1.01 MB - PDF)
+čeština (CS) (1.23 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/cs/documents/product-information/rinvoq-epar-product-information_cs.pdf)
 
-dansk (DA) (905.13 KB - PDF)
+dansk (DA) (1.12 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/da/documents/product-information/rinvoq-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.1 MB - PDF)
+Deutsch (DE) (1.35 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/de/documents/product-information/rinvoq-epar-product-information_de.pdf)
 
-eesti (ET) (896.39 KB - PDF)
+eesti (ET) (1.13 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/et/documents/product-information/rinvoq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.03 MB - PDF)
+ελληνικά (EL) (1.27 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/el/documents/product-information/rinvoq-epar-product-information_el.pdf)
 
-français (FR) (1004.75 KB - PDF)
+français (FR) (1.28 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/fr/documents/product-information/rinvoq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (952.3 KB - PDF)
+hrvatski (HR) (1.12 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/hr/documents/product-information/rinvoq-epar-product-information_hr.pdf)
 
-italiano (IT) (960.92 KB - PDF)
+italiano (IT) (1.16 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/it/documents/product-information/rinvoq-epar-product-information_it.pdf)
 
-latviešu (LV) (985.3 KB - PDF)
+latviešu (LV) (1.21 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/lv/documents/product-information/rinvoq-epar-product-information_lv.pdf)
 
-lietuvių (LT) (975.4 KB - PDF)
+lietuvių (LT) (1.22 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/lt/documents/product-information/rinvoq-epar-product-information_lt.pdf)
 
-magyar (HU) (1009.34 KB - PDF)
+magyar (HU) (1.24 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/hu/documents/product-information/rinvoq-epar-product-information_hu.pdf)
 
-Malti (MT) (1.01 MB - PDF)
+Malti (MT) (1.25 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/mt/documents/product-information/rinvoq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (934.63 KB - PDF)
+Nederlands (NL) (1.17 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/nl/documents/product-information/rinvoq-epar-product-information_nl.pdf)
 
-polski (PL) (1 MB - PDF)
+polski (PL) (1.27 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/pl/documents/product-information/rinvoq-epar-product-information_pl.pdf)
 
-português (PT) (954.54 KB - PDF)
+português (PT) (1.15 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/pt/documents/product-information/rinvoq-epar-product-information_pt.pdf)
 
-română (RO) (954.02 KB - PDF)
+română (RO) (1.18 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/ro/documents/product-information/rinvoq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.02 MB - PDF)
+slovenčina (SK) (1.31 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/sk/documents/product-information/rinvoq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.04 MB - PDF)
+slovenščina (SL) (1.35 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/sl/documents/product-information/rinvoq-epar-product-information_sl.pdf)
 
-suomi (FI) (929.09 KB - PDF)
+suomi (FI) (1.14 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/fi/documents/product-information/rinvoq-epar-product-information_fi.pdf)
 
-svenska (SV) (901.44 KB - PDF)
+svenska (SV) (1.14 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/sv/documents/product-information/rinvoq-epar-product-information_sv.pdf)
 
-Íslenska (IS) (887.21 KB - PDF)
+Íslenska (IS) (1.1 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/is/documents/product-information/rinvoq-epar-product-information_is.pdf)
 
-norsk (NO) (843.07 KB - PDF)
+norsk (NO) (1.08 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 22/06/2026
+**First published:** 18/12/2019 **Last updated:** 17/08/2026
 
 [View](/no/documents/product-information/rinvoq-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000322413
+**Latest procedure affecting product information:** VR/0000312506
 
-11/06/2026
+24/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -488,7 +510,7 @@ English (EN) (38.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rinvoq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-307)
+[Other languages (24)](#file-language-dropdown-977)
 
 български (BG) (39.44 KB - PDF)
 
@@ -651,6 +673,8 @@ norsk (NO) (37.35 KB - PDF)
         - Dermatitis, Atopic
         - Colitis, Ulcerative
         - Crohn Disease
+        - Alopecia Areata
+        - Vitiligo
 - **Anatomical therapeutic chemical (ATC) code**
     - L04AA44
 
@@ -670,11 +694,11 @@ Psoriatic arthritis
 
 Axial spondyloarthritis
 
-Non-radiographic axial spondyloarthritis (nr-axSpA)
+*Non-radiographic axial spondyloarthritis (nr-axSpA)*
 
 - Rinvoq is indicated for the treatment of active non-radiographic axial spondyloarthritis in adult patients with objective signs of inflammation as indicated by elevated C-reactive protein (CRP) and/or magnetic resonance imaging (MRI), who have responded inadequately to nonsteroidal anti-inflammatory drugs (NSAIDs).
 
-Ankylosing spondylitis (AS, radiographic axial spondyloarthritis)
+*Ankylosing spondylitis (AS, radiographic axial spondyloarthritis)*
 
 - Rinvoq is indicated for the treatment of active ankylosing spondylitis in adult patients who have responded inadequately to conventional therapy.
 
@@ -685,6 +709,14 @@ Giant cell arteritis
 Atopic dermatitis
 
 - Rinvoq is indicated for the treatment of moderate to severe atopic dermatitis in adults and adolescents 12 years and older who are candidates for systemic therapy.
+
+Alopecia areata
+
+- Rinvoq is indicated for the treatment of severe alopecia areata in adults and adolescents 12 years and older.
+
+Vitiligo
+
+- Rinvoq is indicated for the treatment of non-segmental vitiligo in adults and adolescents 12 years and older who are candidates for systemic therapy.
 
 Ulcerative colitis
 
@@ -705,7 +737,7 @@ Crohn's disease
 - **Marketing authorisation issued**
     - 16/12/2019
 - **Revision**
-    - 33
+    - 34
 
 ## Assessment history
 
@@ -717,9 +749,9 @@ Collapse section
 
 Rinvoq : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (154.74 KB - PDF)
+English (EN) (163.61 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 22/06/2026
+**First published:** 24/09/2025 **Last updated:** 17/08/2026
 
 [View](/en/documents/procedural-steps-after/rinvoq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -731,6 +763,26 @@ English (EN) (169.28 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/rinvoq-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Rinvoq-VR-0000312506 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2969402
+
+English (EN) (5.18 MB - PDF)
+
+**First published:** 17/08/2026
+
+[View](/en/documents/variation-report/rinvoq-vr-0000312506-epar-assessment-report-variation_en.pdf)
+
+Rinvoq-VR-0000325958 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3190821
+
+English (EN) (5.42 MB - PDF)
+
+**First published:** 17/08/2026
+
+[View](/en/documents/variation-report/rinvoq-vr-0000325958-epar-assessment-report-variation_en.pdf)
+
 Rinvoq-PAM-0000337807 : EPAR - Assessment report
 
 Adopted Reference Number: EMADOC-1700519818-3325357
@@ -740,6 +792,26 @@ English (EN) (255.98 KB - PDF)
 **First published:** 15/07/2026
 
 [View](/en/documents/variation-report/rinvoq-pam-0000337807-epar-assessment-report_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Rinvoq (VR-0000312506)
+
+Adopted Reference Number: EMADOC-1700519818-3215454
+
+English (EN) (117.69 KB - PDF)
+
+**First published:** 26/06/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-rinvoq-vr-0000312506_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Rinvoq (VR-0000325958)
+
+Adopted Reference Number: EMADOC-1700519818-3194723
+
+English (EN) (118.49 KB - PDF)
+
+**First published:** 26/06/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-rinvoq-vr-0000325958_en.pdf)
 
 Rinvoq-PAM-0000336291 : EPAR - Assessment report
 
@@ -857,7 +929,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/rinvoq-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-26)
+[Other languages (24)](#file-language-dropdown-612)
 
 български (BG) (203.66 KB - PDF)
 
@@ -1147,7 +1219,7 @@ Rinvoq-H-C-004760-II-0004 : EPAR - Assessment report - Variation
 
 Adopted Reference Number: EMA/708066/2020
 
-English (EN) (9.35 MB - PDF)
+English (EN) (10.28 MB - PDF)
 
 **First published:** 03/02/2021
 
@@ -1196,6 +1268,10 @@ English (EN) (69.42 KB - PDF)
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-rinvoq_en.pdf)
 
 ## News on Rinvoq
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2026)
+
+24/07/2026
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2026)
 
@@ -1253,8 +1329,7 @@ English (EN) (69.42 KB - PDF)
 - [EMEA-001741-PIP08-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001741-pip08-22)
 - [EMEA-001741-PIP09-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001741-pip09-23)
 - [EMEA-001741-PIP10-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001741-pip10-23)
-- [Rinvoq - opinion on variation to marketing authorisation](/en/medicines/human/variation/rinvoq)
-- [Rinvoq - opinion on variation to marketing authorisation](/en/medicines/human/variation/rinvoq-0)
+- [Rinvoq - opinion on variation to marketing authorisation](/en/medicines/human/variation/rinvoq-1)
 - [Drug utilisation study of upadacitinib (Rinvoq™) in Europe to evaluate the effectiveness of additional risk minimisation measures - post-authorisation study](https://catalogues.ema.europa.eu/study/47974)
 - [LOOK-UP: Active pharmacovigilance study of the medicine Rinvoq™ (upadacitinib) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000227)
 - [LOOK-UP: Active pharmacovigilance study of the medicine Rinvoq™ (upadacitinib) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000227)
@@ -1271,6 +1346,6 @@ English (EN) (69.42 KB - PDF)
 
 **This page was last updated on**
 
-15/07/2026
+17/08/2026
 
 ## Share this page

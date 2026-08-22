@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-24 13:35:00
+document_datetime: 2026-08-18 16:03:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/stelara.html
 document_name: stelara.html
 version: success
-processing_time: 0.1952093
-conversion_datetime: 2026-04-25 16:42:58.276567
+processing_time: 0.246453
+conversion_datetime: 2026-08-22 22:45:29.304267
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Stelara
 
@@ -40,7 +40,6 @@ Page contents
 - [News on Stelara](#news-on)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-75898)
 - [More information on Stelara](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -51,12 +50,9 @@ Page contents
 Stelara is a medicine used to treat:
 
 - moderate to severe plaque psoriasis (a disease causing red, scaly patches on the skin). It is used in adults and children from 6 years of age whose condition has not improved with, or who cannot use, other systemic (whole-body) psoriasis treatments, such as ciclosporin, methotrexate or psoralen ultraviolet A (PUVA). PUVA is a type of treatment where the patient receives a medicine called psoralen before being exposed to ultraviolet light;
-
 - active psoriatic arthritis (inflammation of the joints associated with psoriasis) in adults whose condition has not improved enough with other treatments called disease-modifying anti-rheumatic drugs (DMARDs). Stelara may be used alone or combined with methotrexate (a DMARD);
-
 - moderately to severely active Crohn's disease (a disease causing inflammation of the gut) in adults and children from 2 years of age whose condition has not improved enough with other treatments or who cannot receive such treatments;
-
-- moderately to severely active ulcerative colitis (inflammation of the large intestine causing ulceration and bleeding) in adults whose condition has not improved enough with other treatments for ulcerative colitis or who cannot receive such treatments.
+- moderately to severely active ulcerative colitis (inflammation of the large intestine causing ulceration and bleeding) in adults and children from 2 years of age whose condition has not improved enough with other treatments for ulcerative colitis or who cannot receive such treatments.
 
 Stelara contains the active substance ustekinumab.
 
@@ -64,7 +60,7 @@ Expand section
 
 Collapse section
 
-## How is Stelara used?
+### How is Stelara used?
 
 Stelara can only be obtained with a prescription and should be given under the supervision of a doctor who has experience in diagnosing and treating the diseases that Stelara is used for.
 
@@ -72,13 +68,15 @@ In plaque psoriasis and psoriatic arthritis, Stelara is injected under the skin.
 
 In Crohn's disease and ulcerative colitis, Stelara treatment starts with an infusion (drip) into a vein lasting at least 1 hour. Eight weeks after the infusion, Stelara is given as an injection under the skin. Patients then continue with Stelara injected under the skin every 8 or 12 weeks, depending on how well the treatment is working.
 
-Patients or their caregivers may inject Stelara once they have been trained, if their doctor thinks that this is appropriate. For more information about using Stelara, see the package leaflet or contact your doctor or pharmacist.
+Patients or their caregivers may inject Stelara once they have been trained and if their doctor thinks that this is appropriate.
 
-## How does Stelara work?
+For more information about using Stelara, see the package leaflet or contact your doctor or pharmacist.
+
+### How does Stelara work?
 
 The active substance in Stelara, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to 2 messenger molecules in the immune system called interleukin 12 (IL-12) and interleukin 23 (IL-23). Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis. By attaching to IL-12 and IL-23 and blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the disease.
 
-## What benefits of Stelara have been shown in studies?
+### What benefits of Stelara have been shown in studies?
 
 **Plaque psoriasis**
 
@@ -86,7 +84,7 @@ In the treatment of moderate to severe plaque psoriasis, Stelara was more effect
 
 Longer-term results from these studies showed that with continuous treatment for 5 years, improvement of symptoms with Stelara is maintained. A study comparing Stelara with etanercept (another medicine used for psoriasis) found that Stelara is more effective than etanercept after 12 weeks of treatment.
 
-Two studies were carried out in children with moderate to severe plaque psoriasis. The main measure of effectiveness for both studies was the number of patients whose symptom score improved after 12 weeks of treatment. The first study involved 110 children aged between 12 and 18 years whoreceived placebo or Stelara. Around 69% of children who received Stelara achieved a score of \"cleared\" or \"minimal\", compared with 5% of patients receiving placebo. The second study involved 44 children aged between 6 and 11 years, all of whom received Stelara. Around 77% of children achieved a score of \"cleared\" or \"minimal\". In this study, Stelara was not compared with placebo or another treatment.
+Two studies were carried out in children with moderate to severe plaque psoriasis. The main measure of effectiveness for both studies was the number of patients whose symptom score improved after 12 weeks of treatment. The first study involved 110 children aged between 12 and 18 years who received placebo or Stelara. Around 69% of children who received Stelara achieved a score of \"cleared\" or \"minimal\", compared with 5% of patients receiving placebo. The second study involved 44 children aged between 6 and 11 years, all of whom received Stelara. Around 77% of children achieved a score of \"cleared\" or \"minimal\". In this study, Stelara was not compared with placebo or another treatment.
 
 **Psoriatic arthritis**
 
@@ -106,41 +104,47 @@ A main study involved 101 children aged 2 to 17 years with moderate to severely 
 
 Additionally, about 84% (85 out of 101) of participants had improvements in their symptoms after 8 weeks of treatment, and 60% (51 out of 85) had improvements after 1 year of treatment. A small number of patients who didn't respond to treatment every 8 or 12 weeks and had low blood levels of the medicine were treated more frequently, every 4 weeks, with similar effectiveness.
 
-**Ulcerative colitis**
+Ulcerative colitis
 
-In the treatment of ulcerative colitis, Stelara (given by infusion) was compared with placebo in 2 main studies. The first study involved 961 patients with moderately to severely active disease. The main measure of effectiveness was the number of patients whose symptoms were gone or almost gone 8 weeks after the infusion. Symptoms were gone or almost gone in 16% of patients who received Stelara compared with 5% of patients receiving placebo.
+*Adults*
+
+In the treatment of adults with ulcerative colitis, Stelara (given by infusion) was compared with placebo in 2 main studies. The first study involved 961 patients with moderately to severely active disease. The main measure of effectiveness was the number of patients whose symptoms were gone or almost gone 8 weeks after the infusion. Symptoms were gone or almost gone in 16% of patients who received Stelara compared with 5% of patients receiving placebo.
 
 In the second study, a total of 523 patients from the first study whose symptoms had improved with Stelara went on to receive the medicine (injected under the skin), given either every 8 or 12 weeks, or placebo. After 44 weeks of starting treatment, symptoms of ulcerative colitis were gone or almost gone in 44% of patients given Stelara every 8 weeks and 38% of patients given Stelara every 12 weeks, compared with 24% of patients given placebo.
 
+*Children*
+
+A study involving 112 children aged 2 to 17 years with moderately to severely active ulcerative colitis showed that Stelara helped reduce disease activity when given first by infusion and then by injection under the skin every 8 to 12 weeks for 44 weeks. The main measure of effectiveness was the number of children whose disease went into clinical remission, meaning that their symptoms were gone or almost gone. Clinical remission was achieved in 25% of patients (28 out of 112) after 8 weeks of treatment and in 41% of patients (32 out of 79) after 44 weeks of treatment. The study did not compare Stelara with another treatment, but the results were comparable to those seen in adults treated with Stelara.
+
 Studies carried out with Stelara are described in more detail in the medicine's assessment reports.
 
-## What are the side effects and restrictions with Stelara?
+### What are the side effects and restrictions with Stelara?
 
 For the full list of side effects and restrictions with Stelara, see the package leaflet.
 
-The most common side effects with Stelara (which may affect up to 1 in 100 people) include headache and nasopharyngitis (inflammation of the nose and throat). The most serious side effect reported with Stelara is serious hypersensitivity (allergic reaction).
+The most common side effects with Stelara (which may affect up to 1 in 100 people) include headache and nasopharyngitis (inflammation of the nose and throat). The most serious side effect reported with Stelara is serious hypersensitivity, including anaphylaxis (a sudden, severe allergic reaction).
 
 Stelara must not be used in patients who have an active infection that the doctor considers important.
 
-## Why is Stelara approved?
+### Why is Stelara authorised in the EU?
 
 The European Medicines Agency decided that Stelara's benefits are greater than its risks and it can be authorised for use in the EU.
 
 The Agency considered that studies had shown that Stelara was effective in the treatment of adults and children from 6 years of age with moderate to severe plaque psoriasis in whom other treatments had not worked or could not be used.
 
-For adults with psoriatic arthritis whose condition had not improved enough with DMARDs, the Agency noted that limited treatments were available and considered that Stelara would be of benefit in these patients.
+For adults with psoriatic arthritis whose condition had not improved enough with DMARDs, the Agency noted that limited treatments were available and considered that Stelara would be of benefit to these patients.
 
 In Crohn's disease, the effects of Stelara in reducing symptoms in adults and children from 2 years of age in whom other treatments had not worked or could not be used were considered important, also given the unmet medical need of these patients. The side effects of the medicine were considered manageable.
 
-In ulcerative colitis, studies showed that Stelara was effective in the treatment ofadults in whom other treatments had not worked or could not be used. The side effects were as expected for this medicine.
+In ulcerative colitis, studies showed that Stelara was effective in the treatment of adults and children from 2 years of age in whom other treatments had not worked or could not be used. The side effects were as expected for this medicine.
 
-## What measures are being taken to ensure the safe and effective use of Stelara?
+### What measures are being taken to ensure the safe and effective use of Stelara?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Stelara have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Stelara are continuously monitored. Side effects reported with Stelara are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Stelara
+### Other information about Stelara
 
 Stelara received a marketing authorisation valid throughout the EU on 16 January 2009.
 
@@ -148,151 +152,151 @@ Stelara : EPAR - Medicine overview
 
 Reference Number: EMADOC-1829012207-45437
 
-English (EN) (149.21 KB - PDF)
+English (EN) (163.57 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/en/documents/overview/stelara-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-962)
+[Other languages (22)](#file-language-dropdown-926)
 
-български (BG) (186.98 KB - PDF)
+български (BG) (201.52 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/bg/documents/overview/stelara-epar-medicine-overview_bg.pdf)
 
-español (ES) (148.13 KB - PDF)
+español (ES) (161.77 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/es/documents/overview/stelara-epar-medicine-overview_es.pdf)
 
-čeština (CS) (183.85 KB - PDF)
+čeština (CS) (186.81 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/cs/documents/overview/stelara-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (148.17 KB - PDF)
+dansk (DA) (162.85 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/da/documents/overview/stelara-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (154.25 KB - PDF)
+Deutsch (DE) (168.31 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/de/documents/overview/stelara-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (143.51 KB - PDF)
+eesti (ET) (156.88 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/et/documents/overview/stelara-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (188.62 KB - PDF)
+ελληνικά (EL) (202.68 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/el/documents/overview/stelara-epar-medicine-overview_el.pdf)
 
-français (FR) (150.29 KB - PDF)
+français (FR) (164.38 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/fr/documents/overview/stelara-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (173.55 KB - PDF)
+hrvatski (HR) (175.89 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/hr/documents/overview/stelara-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (146.12 KB - PDF)
+italiano (IT) (160.64 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/it/documents/overview/stelara-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (188.3 KB - PDF)
+latviešu (LV) (191.86 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/lv/documents/overview/stelara-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (172.23 KB - PDF)
+lietuvių (LT) (186.51 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/lt/documents/overview/stelara-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (185 KB - PDF)
+magyar (HU) (199.18 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/hu/documents/overview/stelara-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (176.16 KB - PDF)
+Malti (MT) (191.5 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/mt/documents/overview/stelara-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (153.26 KB - PDF)
+Nederlands (NL) (166.75 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/nl/documents/overview/stelara-epar-medicine-overview_nl.pdf)
 
-polski (PL) (187.18 KB - PDF)
+polski (PL) (200.4 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/pl/documents/overview/stelara-epar-medicine-overview_pl.pdf)
 
-português (PT) (148.74 KB - PDF)
+português (PT) (162.62 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/pt/documents/overview/stelara-epar-medicine-overview_pt.pdf)
 
-română (RO) (177.08 KB - PDF)
+română (RO) (191.76 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/ro/documents/overview/stelara-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (174.05 KB - PDF)
+slovenčina (SK) (189.75 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/sk/documents/overview/stelara-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (171.96 KB - PDF)
+slovenščina (SL) (187.13 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/sl/documents/overview/stelara-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (144.02 KB - PDF)
+suomi (FI) (146.39 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/fi/documents/overview/stelara-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (145.34 KB - PDF)
+svenska (SV) (160.19 KB - PDF)
 
-**First published:** 09/02/2009 **Last updated:** 24/04/2026
+**First published:** 09/02/2009 **Last updated:** 18/08/2026
 
 [View](/sv/documents/overview/stelara-epar-medicine-overview_sv.pdf)
 
 Stelara : EPAR - Risk management plan
 
-English (EN) (2.69 MB - PDF)
+English (EN) (27.48 MB - PDF)
 
-**First published:** 12/09/2019 **Last updated:** 24/04/2026
+**First published:** 12/09/2019 **Last updated:** 18/08/2026
 
 [View](/en/documents/rmp/stelara-epar-risk-management-plan_en.pdf)
 
@@ -300,167 +304,168 @@ English (EN) (2.69 MB - PDF)
 
 Stelara : EPAR - Product information
 
-English (EN) (2.82 MB - PDF)
+English (EN) (2.91 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/en/documents/product-information/stelara-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-276)
+[Other languages (24)](#file-language-dropdown-665)
 
-български (BG) (2.82 MB - PDF)
+български (BG) (3.16 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/bg/documents/product-information/stelara-epar-product-information_bg.pdf)
 
-español (ES) (2.59 MB - PDF)
+español (ES) (2.7 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/es/documents/product-information/stelara-epar-product-information_es.pdf)
 
-čeština (CS) (3.3 MB - PDF)
+čeština (CS) (3.95 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/cs/documents/product-information/stelara-epar-product-information_cs.pdf)
 
-dansk (DA) (3.3 MB - PDF)
+dansk (DA) (3.33 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/da/documents/product-information/stelara-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.67 MB - PDF)
+Deutsch (DE) (3.7 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/de/documents/product-information/stelara-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.57 MB - PDF)
+eesti (ET) (2.74 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/et/documents/product-information/stelara-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.24 MB - PDF)
+ελληνικά (EL) (3.96 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/el/documents/product-information/stelara-epar-product-information_el.pdf)
 
-français (FR) (2.57 MB - PDF)
+français (FR) (2.59 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/fr/documents/product-information/stelara-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.57 MB - PDF)
+hrvatski (HR) (2.95 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/hr/documents/product-information/stelara-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.72 MB - PDF)
+italiano (IT) (2.56 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
-
-[View](/is/documents/product-information/stelara-epar-product-information_is.pdf)
-
-italiano (IT) (2.55 MB - PDF)
-
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/it/documents/product-information/stelara-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.79 MB - PDF)
+latviešu (LV) (2.95 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/lv/documents/product-information/stelara-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.44 MB - PDF)
+lietuvių (LT) (3.47 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/lt/documents/product-information/stelara-epar-product-information_lt.pdf)
 
-magyar (HU) (2.62 MB - PDF)
+magyar (HU) (2.65 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/hu/documents/product-information/stelara-epar-product-information_hu.pdf)
 
-Malti (MT) (3.59 MB - PDF)
+Malti (MT) (3.63 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/mt/documents/product-information/stelara-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.54 MB - PDF)
+Nederlands (NL) (2.6 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/nl/documents/product-information/stelara-epar-product-information_nl.pdf)
 
-norsk (NO) (3.12 MB - PDF)
+polski (PL) (2.79 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
-
-[View](/no/documents/product-information/stelara-epar-product-information_no.pdf)
-
-polski (PL) (2.76 MB - PDF)
-
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/pl/documents/product-information/stelara-epar-product-information_pl.pdf)
 
-português (PT) (2.52 MB - PDF)
+português (PT) (2.55 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/pt/documents/product-information/stelara-epar-product-information_pt.pdf)
 
-română (RO) (3.11 MB - PDF)
+română (RO) (3.14 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/ro/documents/product-information/stelara-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.41 MB - PDF)
+slovenčina (SK) (3.47 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/sk/documents/product-information/stelara-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.83 MB - PDF)
+slovenščina (SL) (2.77 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/sl/documents/product-information/stelara-epar-product-information_sl.pdf)
 
-Suomi (FI) (3.27 MB - PDF)
+suomi (FI) (3.3 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/fi/documents/product-information/stelara-epar-product-information_fi.pdf)
 
-svenska (SV) (3.83 MB - PDF)
+svenska (SV) (3.86 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 24/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
 
 [View](/sv/documents/product-information/stelara-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000290099
+Íslenska (IS) (2.73 MB - PDF)
 
-07/04/2026
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
+
+[View](/is/documents/product-information/stelara-epar-product-information_is.pdf)
+
+norsk (NO) (3.67 MB - PDF)
+
+**First published:** 23/01/2009 **Last updated:** 18/08/2026
+
+[View](/no/documents/product-information/stelara-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000316205
+
+23/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -478,7 +483,7 @@ English (EN) (25.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-559)
+[Other languages (24)](#file-language-dropdown-613)
 
 български (BG) (27.41 KB - PDF)
 
@@ -510,7 +515,7 @@ Deutsch (DE) (27.93 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (24.63 KB - PDF)
+eesti (ET) (24.63 KB - PDF)
 
 **First published:** 09/02/2009 **Last updated:** 15/12/2023
 
@@ -534,25 +539,19 @@ hrvatski (HR) (32.04 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (26.43 KB - PDF)
-
-**First published:** 09/02/2009 **Last updated:** 15/12/2023
-
-[View](/is/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (24.68 KB - PDF)
 
 **First published:** 09/02/2009 **Last updated:** 15/12/2023
 
 [View](/it/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (26.63 KB - PDF)
+latviešu (LV) (26.63 KB - PDF)
 
 **First published:** 09/02/2009 **Last updated:** 15/12/2023
 
 [View](/lv/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (26.73 KB - PDF)
+lietuvių (LT) (26.73 KB - PDF)
 
 **First published:** 09/02/2009 **Last updated:** 15/12/2023
 
@@ -575,12 +574,6 @@ Nederlands (NL) (25.5 KB - PDF)
 **First published:** 09/02/2009 **Last updated:** 15/12/2023
 
 [View](/nl/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (26.53 KB - PDF)
-
-**First published:** 09/02/2009 **Last updated:** 15/12/2023
-
-[View](/no/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (27.37 KB - PDF)
 
@@ -612,7 +605,7 @@ slovenščina (SL) (25.33 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (24.13 KB - PDF)
+suomi (FI) (24.13 KB - PDF)
 
 **First published:** 09/02/2009 **Last updated:** 15/12/2023
 
@@ -624,15 +617,27 @@ svenska (SV) (25.83 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (26.43 KB - PDF)
+
+**First published:** 09/02/2009 **Last updated:** 15/12/2023
+
+[View](/is/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (26.53 KB - PDF)
+
+**First published:** 09/02/2009 **Last updated:** 15/12/2023
+
+[View](/no/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_no.pdf)
+
 Stelara : EPAR - Conditions imposed on member states for safe and effective use - Annex IV
 
 English (EN) (29.2 KB - PDF)
 
 **First published:** 03/03/2009 **Last updated:** 15/04/2010
 
-[View](/en/documents/conditions-member-states/stelara-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
+[View](/en/documents/conditions-member-states/stelara-epar-conditions-imposed-member-states-safe-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-592)
+[Other languages (21)](#file-language-dropdown-345)
 
 български (BG) (86.27 KB - PDF)
 
@@ -664,7 +669,7 @@ Deutsch (DE) (24.22 KB - PDF)
 
 [View](/de/documents/conditions-member-states/stelara-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_de.pdf)
 
-eesti keel (ET) (24 KB - PDF)
+eesti (ET) (24 KB - PDF)
 
 **First published:** 03/03/2009 **Last updated:** 15/04/2010
 
@@ -688,13 +693,13 @@ italiano (IT) (23.82 KB - PDF)
 
 [View](/it/documents/conditions-member-states/stelara-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_it.pdf)
 
-latviešu valoda (LV) (95.18 KB - PDF)
+latviešu (LV) (95.18 KB - PDF)
 
 **First published:** 03/03/2009 **Last updated:** 15/04/2010
 
 [View](/lv/documents/conditions-member-states/stelara-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lv.pdf)
 
-lietuvių kalba (LT) (95.21 KB - PDF)
+lietuvių (LT) (95.21 KB - PDF)
 
 **First published:** 03/03/2009 **Last updated:** 15/04/2010
 
@@ -748,7 +753,7 @@ slovenščina (SL) (81.75 KB - PDF)
 
 [View](/sl/documents/conditions-member-states/stelara-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sl.pdf)
 
-Suomi (FI) (23.69 KB - PDF)
+suomi (FI) (23.69 KB - PDF)
 
 **First published:** 03/03/2009 **Last updated:** 15/04/2010
 
@@ -762,28 +767,19 @@ svenska (SV) (23.72 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Stelara
-
-Active substance
-
-ustekinumab
-
-International non-proprietary name (INN) or common name
-
-ustekinumab
-
-Therapeutic area (MeSH)
-
-- Psoriasis
-- Arthritis, Psoriatic
-- Crohn Disease
-- Colitis, Ulcerative
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AC05
+- **Name of medicine**
+    - Stelara
+- **Active substance**
+    - ustekinumab
+- **International non-proprietary name (INN) or common name**
+    - ustekinumab
+- **Therapeutic area (MeSH)**
+        - Psoriasis
+        - Arthritis, Psoriatic
+        - Crohn Disease
+        - Colitis, Ulcerative
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC05
 
 ### Pharmacotherapeutic group
 
@@ -791,35 +787,46 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Adult Crohn's Disease Stelara is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist. Paediatric Crohn's Disease Stelara is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy. Ulcerative colitis Stelara is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
+Adult Crohn's Disease
 
-Plaque psoriasis Stelara is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).
+- Stelara is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
-Paediatric plaque psoriasis Stelara is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies. Psoriatic arthritis (PsA) Stelara, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease modifying anti rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
+Paediatric Crohn's Disease
+
+- Stelara is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
+
+Adult ulcerative colitis
+
+- Stelara is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
+
+Paediatric ulcerative colitis
+
+- Stelara is indicated for the treatment of moderately to severely active ulcerative colitis in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional therapy or a biologic.
+
+Plaque psoriasis
+
+- Stelara is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).
+
+Paediatric plaque psoriasis
+
+- Stelara is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies.
+
+Psoriatic arthritis (PsA)
+
+- Stelara, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease modifying anti rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000958
-
-Marketing authorisation holder
-
-Janssen-Cilag International NV
-
-Turnhoutseweg, 30
-
-Opinion adopted
-
-20/11/2008
-
-Marketing authorisation issued
-
-16/01/2009
-
-Revision
-
-52
+- **EMA product number**
+    - EMEA/H/C/000958
+- **Marketing authorisation holder**
+    - Janssen-Cilag International NV Turnhoutseweg, 30  B-2340 Beerse  Belgium
+- **Opinion adopted**
+    - 20/11/2008
+- **Marketing authorisation issued**
+    - 16/01/2009
+- **Revision**
+    - 53
 
 ## Assessment history
 
@@ -827,13 +834,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Stelara : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (155.22 KB - PDF)
+English (EN) (149.08 KB - PDF)
 
-**First published:** 24/04/2026
+**First published:** 24/04/2026 **Last updated:** 18/08/2026
 
 [View](/en/documents/procedural-steps-after/stelara-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -844,6 +851,26 @@ English (EN) (358.37 KB - PDF)
 **First published:** 17/02/2010 **Last updated:** 24/04/2026
 
 [View](/en/documents/procedural-steps-after/stelara-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Stelara-VR-0000316205 - EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3138505
+
+English (EN) (15.92 MB - PDF)
+
+**First published:** 18/08/2026
+
+[View](/en/documents/variation-report/stelara-vr-0000316205-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Stelara (VR-0000316205)
+
+Adopted Reference Number: EMADOC-1700519818-3138737
+
+English (EN) (141.67 KB - PDF)
+
+**First published:** 26/06/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-stelara-vr-0000316205_en.pdf)
 
 Stelara-VR-0000290099 : EPAR - Assessment report - Variation
 
@@ -903,9 +930,9 @@ English (EN) (101.23 KB - PDF)
 
 **First published:** 15/11/2022
 
-[View](/en/documents/scientific-conclusion/stelara-h-c-psusa-00003085-202112-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/stelara-h-c-psusa-00003085-202112-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
-Stelara-H-C-PSUSA-00003085-202012  : Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+Stelara-H-C-PSUSA-00003085-202012 : Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
 Reference Number: EMA/CHMP/684614/2021
 
@@ -913,7 +940,7 @@ English (EN) (221.71 KB - PDF)
 
 **First published:** 18/11/2021
 
-[View](/en/documents/scientific-conclusion/stelara-h-c-psusa-00003085-202012-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/stelara-h-c-psusa-00003085-202012-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Stelara-H-C-958-P46-051 : EPAR - Assessment Report
 
@@ -963,7 +990,7 @@ English (EN) (69.25 KB - PDF)
 
 **First published:** 03/10/2019
 
-[View](/en/documents/scientific-conclusion/stelara-h-c-psusa-00003085-201812-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/stelara-h-c-psusa-00003085-201812-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Stelara-H-C-958-II-0071 : EPAR - Assessment Report - Variation
 
@@ -995,7 +1022,7 @@ English (EN) (7.58 MB - PDF)
 
 [View](/en/documents/variation-report/stelara-h-c-000958-x-0049-g-epar-assessment-report-extension_en.pdf)
 
-CHMP post-authorisation summary of positive opinion for  Stelara
+CHMP post-authorisation summary of positive opinion for Stelara
 
 Adopted Reference Number: EMA/CHMP/582037/2016
 
@@ -1055,7 +1082,7 @@ English (EN) (2.85 MB - PDF)
 
 [View](/en/documents/variation-report/stelara-h-c-958-ii-0029-epar-assessment-report-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Stelara : EPAR - Public assessment report
 
@@ -1076,6 +1103,10 @@ English (EN) (79.81 KB - PDF)
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-stelara_en.pdf)
 
 ## News on Stelara
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2026)
+
+26/06/2026
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 February 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-february-2026)
 
@@ -1119,157 +1150,157 @@ The approved product information for this medicine is available below showing th
 
 Stelara : EPAR - Product information - tracked changes
 
-English (EN) (2.19 MB - DOCX)
+English (EN) (2.73 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/en/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-834)
+[Other languages (24)](#file-language-dropdown-544)
 
-български (BG) (2.81 MB - DOCX)
+български (BG) (2.73 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/bg/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (3.29 MB - DOCX)
+español (ES) (3.62 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/es/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (3.04 MB - DOCX)
+čeština (CS) (3.11 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/cs/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (3.55 MB - DOCX)
+dansk (DA) (3.34 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/da/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (2.63 MB - DOCX)
+Deutsch (DE) (2.62 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/de/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (3.34 MB - DOCX)
+eesti (ET) (3.14 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/et/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (2.2 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/el/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (2.54 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/fr/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (3.63 MB - DOCX)
+hrvatski (HR) (3.83 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/hr/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (2.97 MB - DOCX)
+italiano (IT) (1.89 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
-
-[View](/is/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (1.91 MB - DOCX)
-
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/it/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (3.42 MB - DOCX)
+latviešu (LV) (3.22 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/lv/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (3.28 MB - DOCX)
+lietuvių (LT) (3.03 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/lt/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (3.06 MB - DOCX)
+magyar (HU) (2.94 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/hu/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (2.94 MB - DOCX)
+Malti (MT) (2.62 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/mt/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (3.18 MB - DOCX)
+Nederlands (NL) (3.16 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/nl/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (2.86 MB - DOCX)
+polski (PL) (2.78 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
-
-[View](/no/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_no.docx)
-
-polski (PL) (2.83 MB - DOCX)
-
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/pl/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (3.32 MB - DOCX)
+português (PT) (3.28 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/pt/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (3.62 MB - DOCX)
+română (RO) (3.42 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/ro/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (3.44 MB - DOCX)
+slovenčina (SK) (3.04 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/sk/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (2.99 MB - DOCX)
+slovenščina (SL) (2.87 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/sl/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (2.89 MB - DOCX)
+suomi (FI) (2.74 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/fi/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (2.86 MB - DOCX)
+svenska (SV) (2.63 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 24/04/2026
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
 
 [View](/sv/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (2.77 MB - DOCX)
+
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
+
+[View](/is/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (2.94 MB - DOCX)
+
+**First published:** 14/04/2025 **Last updated:** 18/08/2026
+
+[View](/no/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_no.docx)
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC000958X0049G) (X/0049)
 
@@ -1278,20 +1309,18 @@ svenska (SV) (2.86 MB - DOCX)
 - [EMEA-000311-PIP01-08-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000311-pip01-08-m04)
 - [EMEA-000311-PIP03-11-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000311-pip03-11-m07)
 - [EMEA-000311-PIP04-13-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000311-pip04-13-m06)
-- [EMEA-000311-PIP05-17-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000311-pip05-17-m02)
+- [EMA/PE/0000232680 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000232680)
 - [EMEA-000311-PIP06-18 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000311-pip06-18)
+- [Stelara - opinion on variation to marketing authorisation](/en/medicines/human/variation/stelara)
+- [Ustekinumab and Risk of Small for Gestational Age in Inflammatory Bowel Disease Pregnancies: Data from the DUMBO Registry - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001012)
 - [An observational post-authorization safety study to describe the safety of ustekinumab and other treatments of ulcerative colitis in a cohort of patients with ulcerative colitis using the French Nationwide claims database (SNDS) France - post-authorisation study](https://catalogues.ema.europa.eu/study/45589)
 - [An Observational Postauthorization Safety Study To Describe The Safety Of Ustekinumab and Other Biologic Treatments in a Cohort of Patients With Ulcerative Colitis or Crohn's Disease Using Compulsory Swedish Nationwide Healthcare Registers and the Independent Swedish National Quality Register for Inflammatory Bowel Disease (SWIBREG) (Stelara UC/CD PASS (SWIBREG)) - post-authorisation study](https://catalogues.ema.europa.eu/study/45899)
 - [Shortening the time to confirm or to rebut Adverse events of interest related to innovative Therapies for immune-mediated inflammATory dIseases: cross-talking between different data sOURces. SATURATIOn study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000207)
 - [Comparative Effectiveness of Tofacitinib Versus Ustekinumab and Vedolizumab among Ulcerative Colitis Patients With Prior Anti- Tumor Necrosis Factor (TNF) Failure - post-authorisation study](https://catalogues.ema.europa.eu/study/46622)
 - [Prospective, multicentric, national,observational cohort of patients receiving a systemic treatment for psoriasis - post-authorisation study](https://catalogues.ema.europa.eu/study/45731)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-24/04/2026
+18/08/2026
 
 ## Share this page

@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/stelara.html
 document_name: stelara.html
 version: success
-processing_time: 0.246453
-conversion_datetime: 2026-08-22 22:45:29.304267
+processing_time: 0.2422556
+conversion_datetime: 2026-08-22 23:19:45.080071
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

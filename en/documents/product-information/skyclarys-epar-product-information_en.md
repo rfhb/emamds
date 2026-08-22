@@ -1,24 +1,24 @@
 ---
-document_datetime: 2026-08-04 15:23:54
-document_pages: 33
+document_datetime: 2026-08-19 17:06:06
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/skyclarys-epar-product-information_en.pdf
 document_name: skyclarys-epar-product-information_en.pdf
 version: success
-processing_time: 5.8048158
-conversion_datetime: 2026-08-07 14:21:51.854923
+processing_time: 6.2825951
+conversion_datetime: 2026-08-23 00:49:43.011069
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
-## 0B0B SUMMARY OF PRODUCT CHARACTERISTICS
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -197,9 +197,15 @@ Skyclarys may decrease the efficacy of hormonal contraceptives (see section 4.5)
 
 ## Breast-feeding
 
-There are no data on the presence of omaveloxolone in human milk. Omaveloxolone is present in the milk of lactating rats and resulted in treatment-related effects in offspring (see section 5.3). A risk to the newborn infant cannot be excluded. Skyclarys should not be used during breast-feeding.
+In a clinical lactation study, omaveloxolone was shown to be excreted into human breast milk, and a minimal (&lt;2%) mean relative infant dose of 0.37% was determined after a single 150 mg oral dose of omaveloxolone (see section 5.2). Plasma concentration of omaveloxolone in breastfed infants is unknown.
 
 <div style=\"page-break-after: always\"></div>
+
+There is no clinical experience in breastfed infants, and a risk of omaveloxolone to the breastfed infant cannot be excluded.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for omaveloxolone and any potential adverse effects on the breastfed child from omaveloxolone or from the underlying maternal condition.
+
+Omaveloxolone is present in the milk of lactating rats and resulted in treatment-related effects in offspring (see section 5.3).
 
 ## Fertility
 
@@ -234,22 +240,22 @@ The adverse reactions observed in the randomized, double-blind, placebo-controll
 | Gastrointestinal disorders                      | Nausea                                          | Very common          |
 | Gastrointestinal disorders                      | Diarrhoea                                       | Very common          |
 | Gastrointestinal disorders                      | Vomiting                                        | Very common          |
-| Gastrointestinal disorders                      | Abdominal upper pain                            | Common               |
-| Gastrointestinal disorders                      | Abdominal pain                                  | Common               |
-| Hepatobiliary disorders                         | ALT increased                                   | Very common          |
-| Hepatobiliary disorders                         | AST increased                                   | Very common          |
-| Hepatobiliary disorders                         | GGT increased                                   | Common               |
-| Musculoskeletal and connective tissue disorders | Back pain                                       | Very common          |
-| Musculoskeletal and connective tissue disorders | Muscle spasms                                   | Very common          |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Preferred Term     | Frequency Category   |
-|------------------------------------------------------|--------------------|----------------------|
-| Reproductive system and breast disorders             | Dysmenorrhoea      | Common               |
-| General disorders and administration site conditions | Fatigue            | Very common          |
-| Investigations                                       | BNP increased b    | Common               |
-| Investigations                                       | Weight decreased c | Very common          |
+| System Organ Class                                   | Preferred Term       | Frequency Category   |
+|------------------------------------------------------|----------------------|----------------------|
+|                                                      | Abdominal upper pain | Common               |
+|                                                      | Abdominal pain       | Common               |
+| Hepatobiliary disorders                              | ALT increased        | Very common          |
+| Hepatobiliary disorders                              | AST increased        | Very common          |
+| Hepatobiliary disorders                              | GGT increased        | Common               |
+| Musculoskeletal and connective tissue disorders      | Back pain            | Very common          |
+| Musculoskeletal and connective tissue disorders      | Muscle spasms        | Very common          |
+| Reproductive system and breast disorders             | Dysmenorrhoea        | Common               |
+| General disorders and administration site conditions | Fatigue              | Very common          |
+| Investigations                                       | BNP increased b      | Common               |
+| Investigations                                       | Weight decreased c   | Very common          |
 
 ## Description of selected adverse reactions
 
@@ -267,11 +273,11 @@ In patients treated with Skyclarys, the incidence of ontreatment elevations of A
 
 In the randomized, double-blind, placebo-controlled study, increases in laboratory evaluations of BNP were observed in patients treated with Skyclarys. Mean BNP values were elevated at Week 4, and remained elevated through Week 48, with peak mean elevations at Week 24. Mean BNP values remained below the ULN (&lt; 100 pg/mL). A total of 13.7% of patients treated with Skyclarys had an increase from baseline in BNP and a BNP above the ULN (100 pg/mL), compared to 3.8% of patients who received placebo; 3.9% of patients had BNP values that exceeded 200 pg/mL while on treatment. There were no discontinuations due to BNP elevation.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Lipid abnormalities
 
 Among patients treated with Skyclarys in the randomized, double-blind, placebo-controlled study, hypertriglyceridaemia was reported in 3.9% of patients, very low-density lipoprotein increased was reported in 3.9% of patients, and hypercholesterolaemia was reported in 2.0% of patients. At Week 48 in the Skyclarys treatment group, mean LDL increased by approximately 25 mg/dL and mean HDL decreased by approximately 5 mg/dL. After withdrawal of Skyclarys, mean LDL and HDL levels returned to baseline.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Weight decreased
 
@@ -301,11 +307,11 @@ Pharmacotherapeutic group: Other nervous system drugs, ATC code: N07XX25
 
 The precise mechanism by which omaveloxolone exerts its therapeutic effect in patients with Friedreich's ataxia is unknown. Omaveloxolone has been shown to activate the Nuclear factor (erythroid-derived 2)-like 2 (Nrf2) pathway in vitro and in vivo in animals and humans. The Nrf2 pathway is involved in the cellular response to oxidative stress. There is substantial evidence that Nrf2 levels and activity are suppressed in cells from patients with Friedreich's ataxia.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacodynamic effects
 
 Omaveloxolone binds to Kelch-like ECH-associated protein 1 (Keap1), a protein that regulates the activity of Nrf2. Binding to Keap1 allows nuclear translocation of Nrf2 and transcription of its target genes. In fibroblasts isolated from patients with Friedreich's ataxia, omaveloxolone was shown to restore Nrf2 protein levels and increase Nrf2 activity. Omaveloxolone was also shown to rescue mitochondrial dysfunction and restore redox balance in these cells, as well as in neurons from mouse models of Friedreich's ataxia. Evidence of pharmacodynamic activity was observed in omaveloxolone-treated patients, with dose-dependent changes in the products of Nrf2 target genes, serum ferritin and GGT, across the dose range of 20 mg to 300 mg. Patients who received omaveloxolone 160 mg generally showed the largest increase from baseline for these serum markers.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect of omaveloxolone on the QT interval
 
@@ -315,34 +321,33 @@ In a randomized, double-blind, placebo- and active-controlled, 3-way crossover T
 
 The efficacy and safety of Skyclarys were evaluated as a treatment for Friedreich's ataxia in two parts of a randomized, double-blind, placebo-controlled, study (Study 1 [NCT02255435; EudraCT 2015002762-23]) and in an ongoing, open-label extension to Study 1.
 
-Study 1 Part 2
+## Study 1 Part 2
 
 Study 1 Part 2 was a randomized, double-blind, placebo-controlled, multicentre study to evaluate the safety and efficacy of Skyclarys in patients with Friedreich's ataxia for 48 weeks of treatment. A total of 103 patients including 24 adolescents were randomized (1:1) to Skyclarys 150 mg/day (N=51) or placebo (N=52). Patients were excluded from Study 1 if they had BNP levels &gt; 200 pg/mL prior to study entry, or a history of clinically significant left-sided heart disease and/or clinically significant cardiac disease, with the exception of mild to moderate cardiomyopathy associated with Friedreich's ataxia. Additionally, patients were excluded from Study 1 if they had a history of clinically significant liver disease (eg, fibrosis, cirrhosis, hepatitis) or clinically relevant deviations in laboratory tests at screening including ALT and/or AST &gt; 1.5-fold ULN, bilirubin &gt; 1.2-fold ULN, alkaline phosphatase &gt; 2-fold ULN, or albumin &lt; lower limit of normal (LLN). Randomization was stratified by pes cavus status. Pes cavus population was defined as having a loss of lateral support and was determined if light from a flashlight could be seen under the patient's arch when barefoot and weight bearing. The primary efficacy endpoint was change in the modified Friedreich's Ataxia Rating Scale (mFARS) score compared to placebo at Week 48 for patients without pes cavus (ie, the full analysis set [FAS]; n=82). The mFARS is a clinical assessment tool to assess patient function, which consists of 4 domains to evaluate bulbar function, upper limb coordination, lower limb coordination, and upright stability. The mFARS has a maximum score of 99, with a lower score on the mFARS signifying lesser physical impairment. In the FAS, 53.7% were male. The mean age was 23.9 years at study entry, and the mean age of Friedreich's ataxia onset was 15.5 years. Baseline mFARS and Friedreich's ataxiaActivities of Daily Living (FA-ADL) scores were 39.83 and 10.29 points, respectively. Mean GAA1 repeat length was 714.8. At study entry, 92.7% of patients were ambulatory, 37.8% had a history of cardiomyopathy, and 2.4% had a history of diabetes mellitus.
 
 Treatment with Skyclarys significantly improved mFARS scores, with a least squares mean difference of -2.41 (standard error 0.955) relative to placebo (p=0.0138) (Table 3). All components of the mFARS assessment, including ability to swallow (bulbar), upper limb coordination, lower limb coordination, and upright stability, favoured Skyclarys over placebo.
 
-Table 3 Study 1 Part 2: mFARS Results (FAS)
-
-|             | Skyclarys (N=40)   | Placebo (N=42)   |
-|-------------|--------------------|------------------|
-| Total mFARS |                    |                  |
-| Baseline    |                    |                  |
-| n           | 40                 | 42               |
-| Mean (SD)   | 40.95(10.394)      | 38.78 (11.025)   |
-| Week 48     |                    |                  |
-| n           | 34                 | 41               |
-| Mean (SD)   | 39.17 (10.019)     | 39.54 (11.568)   |
-
 <div style=\"page-break-after: always\"></div>
+
+Table 3 Study 1 Part 2: mFARS Results (FAS)
 
 |                              | Skyclarys (N=40)   | Placebo (N=42)   |
 |------------------------------|--------------------|------------------|
+| Total mFARS                  |                    |                  |
+| Baseline n                   |                    |                  |
+|                              | 40                 | 42               |
+| Mean (SD)                    | 40.95(10.394)      | 38.78 (11.025)   |
+| Week 48                      |                    |                  |
+| n                            | 34                 | 41               |
+| Mean (SD)                    | 39.17 (10.019)     | 39.54 (11.568)   |
 | Week 48 Change from baseline |                    |                  |
-| LS Mean (SE)                 | -1.5 6 (0.689)     | 0.85 (0.640)     |
+| LS Mean (SE)                 | -1.56 (0.689)      | 0.85 (0.640)     |
 | LS Mean Difference (SE)      | -2.41 (0.955)      | -                |
 | p-value vs. placebo          | 0.0138             |                  |
 
-Abbreviations: FAS=Full Analysis Set; LS=least squares; mFARS=modified Friedreich's ataxia rating scale. Note: mFARS scores can range from 0 to 99 points. Within each section of the mFARS, the minimum score is 0. The maximum score for each section is as follows: 11 points for Bulbar Function, 36 points for Upper Limb Coordination, 16 points for Lower Limb Coordination, and 36 points for Upright Stability.
+Abbreviations: FAS=Full Analysis Set; LS=least squares; mFARS=modified Friedreich's ataxia rating scale.
+
+Note: mFARS scores can range from 0 to 99 points. Within each section of the mFARS, the minimum score is 0. The maximum score for each section is as follows: 11 points for Bulbar Function, 36 points for Upper Limb Coordination, 16 points for Lower Limb Coordination, and 36 points for Upright Stability.
 
 In the All Randomized Population (N=103), which included all patients regardless of pes cavus status, Skyclarys improved mFARS scores relative to placebo, with a least squares mean difference of -1.9 4 (standard error 0.894) (nominal p=0.0331).
 
@@ -370,11 +375,11 @@ Although Study 1 was not powered to detect a difference in the key secondary end
 
 In a post hoc,propensity-matched analysis of long term open-label treatment with Skyclarys, patients treated with Skyclarys had lower mFARS scores at 3 years, as compared to a matched natural history group. This exploratory analysis should be interpreted cautiously given the limitations of data collected outside of a controlled study, which may be subject to confounding.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Skyclarys in the paediatric population aged 2 years to less than 16 years in treatment of Friedreich's ataxia (see section 4.2 for information on paediatric use).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -396,9 +401,17 @@ The total plasma omaveloxolone exposure (AUC) increased in a dose-dependent and 
 
 Omaveloxolone is 97% bound to protein in human plasma. Omaveloxolone shows low to moderate membrane permeability. The average apparent volume of distribution is 7361 L (105 L/kg).
 
+## Distribution into breast milk
+
+The distribution of omaveloxolone into human breast milk was studied in a group of 12 healthy lactating women following oral administration of a single dose of 150 mg. The results indicate that breast milk-fed infants may be exposed to a small fraction of the adult dose, with a geometric mean daily infant dose of 0.0076 mg/kg/day, resulting in a geometric mean relative infant dose of 0.37%.
+
+Lactation did not alter the pharmacokinetic profile of omaveloxolone in lactating women. The plasma protein binding of omaveloxolone in this population was 98.4%.
+
 ## Biotransformation
 
 Following a single oral dose of [ 14 C]-omaveloxolone administered to healthy male subjects, omaveloxolone was found to be eliminated by metabolism via CYP3A4 to a series of 30 metabolites, of which 7 metabolites were quantified and identified. Metabolites M22 and M17 were major plasma metabolites that accounted for 18.6% and 10.9% of total plasma radioactivity, respectively. The other metabolites were minor, each accounting for less than 10% of total plasma radioactivity exposure. None of the metabolites has meaningful pharmacological activity.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -411,8 +424,6 @@ The average apparent plasma clearance of omaveloxolone is 109 L/hr and the avera
 ## Effect of age, sex, and body weight on omaveloxolone pharmacokinetics
 
 Population pharmacokinetic analyses indicate that there is no clinically meaningful effect of age (16-71 years), sex, or body weight on the pharmacokinetics of omaveloxolone and no dose adjustments based on these factors are necessary.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Patients with renal impairment
 
@@ -436,13 +447,13 @@ Based on a panel of in vitro and in vivo mutagenicity tests, omaveloxolone is co
 
 ## Carcinogenicity
 
-Omaveloxolone was not carcinogenic in a 6-month study in male and female rasH2 transgenic mice at each 14.6- and 54.5-fold the AUC-based systemic exposure in humans receiving the maximum recommended human dose (MRHD). A long-term carcinogenicity study of omaveloxolone over 85 and 87 weeks in female and male rats revealed neoplastic findings in the liver (bile ducts: cholangioma and cholangiocarcinoma), mammary gland (adenocarcinoma and sarcoma), testis (Leydig cell adenoma), and rectum (squamous cell papillomas) at dose levels of ≥1 mg/kg corresponding to an exposure level of less than 1-fold the clinical plasma exposure at the MRHD. The human relevance is currently unknown.
+<div style=\"page-break-after: always\"></div>
+
+Omaveloxolone was not carcinogenic in a 6-month study in male and female rasH2 transgenic mice at each 14.6- and 54.5-fold the AUC-based systemic exposure in humans receiving the maximum recommended human dose (MRHD). A long-term carcinogenicity study of omaveloxolone over 85 and 87 weeks in female and male rats revealed neoplastic findings in the liver (bile ducts: cholangioma and cholangiocarcinoma), mammary gland (adenocarcinoma and sarcoma), testis (Leydig cell adenoma), and r ectum (squamous cell papillomas) at dose levels of ≥1 mg/kg corresponding to an exposure level of less than 1-fold the clinical plasma exposure at the MRHD. The human relevance is currently unknown.
 
 ## Fertility and early embryonic development
 
 Omaveloxolone, administered at oral doses of 1, 3, and 10 mg/kg/day to male rats for 28 days before mating and throughout the mating period and to female rats from 14 days before mating, throughout mating, and until gestation day 7 did not alter male or female fertility. However, pre- and post-implantation embryonic loss, resorptions, and a decrease in the number of viable embryos occurred at the dose corresponding to approximately 6 times the maximum human recommended dose (MHRD) based on systemic exposure. No effects on pre- and post-implantation loss occurred at approximately 2 times the MHRD based on systemic exposure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Embryo-foetal development
 
@@ -460,6 +471,8 @@ In a pre- and postnatal evaluation in rats, administration of omaveloxolone�
 
 Pregelatinized maize starch Microcrystalline cellulose Croscarmellose sodium Magnesium stearate Silica, colloidal anhydrous
 
+<div style=\"page-break-after: always\"></div>
+
 ## Capsule shell
 
 Hypromellose Titanium dioxide (E171) Brilliant Blue FCF (E133) Ferric oxide yellow (E172)
@@ -473,8 +486,6 @@ Not applicable.
 ## 6.3 Shelf life
 
 5 years
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -496,11 +507,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Biogen Netherlands B.V.
-
-Prins Mauritslaan 13 1171 LP Badhoevedorp
-
-The Netherlands
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -509,6 +516,8 @@ EU/1/23/1786/001 EU/1/23/1786/002
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 9 February 2024
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -525,7 +534,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## 3B3B A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturers responsible for batch release
 
@@ -535,11 +544,11 @@ Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherland
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
-## 4B4B B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
-## 5B5B C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic safety update reports (PSURs)
 
@@ -547,7 +556,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
-## 6B6B D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
 
@@ -566,7 +575,7 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## 1B1B A. LABELLING
+## A. LABELLING
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -634,9 +643,7 @@ Skyclarys 50 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -779,7 +786,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## 2B2B B. PACKAGE LEAFLET
+## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -900,7 +907,7 @@ Using Skyclarys can reduce the effectiveness of hormonal birth control. You shou
 
 ## Breast-feeding
 
-Do not breast-feed your baby while you are being treated with Skyclarys. It is not known if this medicine passes into the breast milk.
+Skyclarys passes into breast milk. You and your doctor should discuss the risks and benefits of taking Skyclarys during breast-feeding.
 
 ## Driving and using machines
 
@@ -985,16 +992,16 @@ Very common (may affect more than 1 in 10 people)
 - -decreased appetite
 - -hypersensitivity (an allergic or allergic-like reaction that may include itchy rash and skin rash)
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - -urinary tract infection (infection of the structures that carry urine, UTI)
 - -period pains in women (menstrual cramps)
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Skyclarys
 
@@ -1036,21 +1043,19 @@ Not all pack sizes may be marketed.
 
 Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
-## Manufacturer(s)
+Manufacturer(s) BIOGEN DISTRIBUTION SERVICES LIMITED United Drug House Magna Drive Magna Business Park Citywest Road Dublin 24 D24 XKE5 Ireland
 
-BIOGEN DISTRIBUTION SERVICES LIMITED United Drug House Magna Drive Magna Business Park Citywest Road Dublin 24 D24 XKE5 Ireland
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 <div style=\"page-break-after: always\"></div>
-
-## Biogen Netherlands B.V.
-
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Biogen Belgium N.V./S.A. Tél/Tel: +32 2 219 12 18
+Biogen Belgium N.V./S.A.
+
+Tél/Tel: +32 2 219 12 18
 
 ## България
 
@@ -1066,7 +1071,9 @@ Biogen (Czech Republic) s.r.o. Tel: +420 255 706 200
 
 ## Danmark
 
-Biogen (Denmark) A/S Tlf.: +45 77 41 57 57
+Biogen (Denmark) A/S
+
+Tlf.: +45 77 41 57 57
 
 ## Deutschland
 
@@ -1076,47 +1083,77 @@ Tel: +49 (0) 89 99 6170
 
 ## Eesti
 
-Biogen Estonia OÜ Tel: + 372 618 9551
+Biogen Estonia OÜ
+
+Tel: + 372 618 9551
 
 ## Ελλάδα
 
-Genesis Pharma SA Τηλ : +30 210 8771500
+Genesis Pharma SA
+
+Τηλ
+
+: +30 210 8771500
 
 ## España
 
-Biogen Spain SL Tel: +34 91 310 7110
+Biogen Spain SL
+
+Tel: +34 91 310 7110
 
 ## France
 
-Biogen France SAS Tél: +33 (0)1 41 37 95 95
+Biogen France SAS
+
+Tél: +33 (0)1 41 37 95 95
 
 ## Hrvatska
 
-Biogen Pharma d.o.o. Tel: +385 (0) 1 775 73 22
+Biogen Pharma d.o.o.
+
+Tel: +385 (0) 1 775 73 22
+
+## Ireland
+
+Biogen Idec (Ireland) Ltd.
+
+Tel: +353 (0)1 463 7799
 
 ## Lietuva
 
-Biogen Lithuania UAB Tel: +370 5 259 6176
+Biogen Lithuania UAB
+
+Tel: +370 5 259 6176
 
 ## Luxembourg/Luxemburg
 
-Biogen Belgium N.V./S.A. Tél/Tel: +32 2 219 12 18
+Biogen Belgium N.V./S.A.
+
+Tél/Tel: +32 2 219 12 18
 
 ## Magyarország
 
-Biogen Hungary Kft. Tel.: +36 1 899 9880
+Biogen Hungary Kft.
+
+Tel.: +36 1 899 9880
 
 ## Malta
 
-Pharma MT limited Tel: +356 213 37008/9
+Pharma MT limited
+
+Tel: +356 213 37008/9
 
 ## Nederland
 
-Biogen Netherlands B.V. Tel: +31 20 542 2000
+Biogen Netherlands B.V.
+
+Tel: +31 20 542 2000
 
 ## Norge
 
-Biogen Norway AS Tlf: +47 23 40 01 00
+Biogen Norway AS
+
+Tlf: +47 23 40 01 00
 
 ## Österreich
 
@@ -1138,13 +1175,9 @@ Tel.: +351 21 318 8450
 
 ## România
 
-Ewopharma România SRL Tel: + 40 21 260 13 44
+Ewopharma România SRL
 
-## Ireland
-
-Biogen Idec (Ireland) Ltd.
-
-Tel: +353 (0)1 463 7799
+Tel: + 40 21 260 13 44
 
 ## Slovenija
 
@@ -1202,4 +1235,6 @@ Tel: + 371 68 688 158
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.

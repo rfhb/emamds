@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/taltz.html
 document_name: taltz.html
 version: success
-processing_time: 0.1641378
-conversion_datetime: 2026-08-22 22:44:53.217437
+processing_time: 0.1781388
+conversion_datetime: 2026-08-22 23:19:07.176456
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

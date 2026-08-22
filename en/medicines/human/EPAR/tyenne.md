@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:02:11
+document_datetime: 2026-08-19 17:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tyenne.html
 document_name: tyenne.html
 version: success
-processing_time: 0.110957
-conversion_datetime: 2025-12-30 03:05:37.991188
+processing_time: 0.1389353
+conversion_datetime: 2026-08-22 22:44:01.29267
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Tyenne
 
 [RSS](/en/individual-human-medicine.xml/67681)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-tocilizumab Medicine Human Authorised
+tocilizumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -63,7 +63,7 @@ Expand section
 
 Collapse section
 
-## How is Tyenne used?
+### How is Tyenne used?
 
 Tyenne can only be obtained with a prescription and treatment should be started by a doctor who has experience in the diagnosis and treatment of the relevant condition.
 
@@ -71,11 +71,11 @@ Tyenne is available as a solution to be injected under the skin and as a concent
 
 For more information about using Tyenne, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Tyenne work?
+### How does Tyenne work?
 
 The active substance in Tyenne, tocilizumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target (called an antigen) in the body. Tocilizumab attaches to the receptor for a messenger molecule or 'cytokine' called interleukin 6. This messenger is involved in inflammation and is found at high levels in patients with rheumatoid arthritis, systemic juvenile idiopathic arthritis, juvenile idiopathic polyarthritis, giant cell arteritis, CRS and COVID-19. By preventing interleukin 6 from attaching to its receptors, tocilizumab reduces the inflammation and other symptoms of these diseases.
 
-## What benefits of Tyenne have been shown in studies?
+### What benefits of Tyenne have been shown in studies?
 
 Laboratory studies comparing Tyenne with RoActemra have shown that the active substance in Tyenne is highly similar to that in RoActemra in terms of structure, purity and biological activity. Studies have also shown that giving Tyenne produces similar levels of the active substance in the body to giving RoActemra.
 
@@ -83,7 +83,7 @@ In addition, Tyenne was as effective as RoActemra in reducing disease in a study
 
 Because Tyenne is a biosimilar medicine, the studies on effectiveness and safety of tocilizumab carried out with RoActemra do not all need to be repeated for Tyenne.
 
-## What are the risks associated with Tyenne?
+### What are the risks associated with Tyenne?
 
 The safety of Tyenne has been evaluated and, based on all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine RoActemra.
 
@@ -95,13 +95,13 @@ In patients with COVID-19, the most common side effects with tocilizumab (which 
 
 Tyenne must not be used in patients who have an active, severe infection (except COVID-19). Doctors should monitor patients carefully for signs of infection during treatment, and should prescribe Tyenne with caution in patients who have had recurring or long-term infections, or diseases that could increase the risk of infections, such as diverticulitis or diabetes.
 
-## Why is Tyenne authorised in the EU?
+### Why is Tyenne authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Tyenne has a highly similar structure, purity and biological activity to RoActemra and is distributed in the body in the same way. In addition, a study involving patients with rheumatoid arthritis has shown that the safety and effectiveness of Tyenne is equivalent to that of RoActemra in the treatment of this disease.
 
 All these data were considered sufficient to conclude that Tyenne will behave in the same way as RoActemra in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for RoActemra, the benefits of Tyenne outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Tyenne?
+### What measures are being taken to ensure the safe and effective use of Tyenne?
 
 The company that markets Tyenne must supply all doctors expected to prescribe the medicine for rheumatoid arthritis, systemic juvenile idiopathic arthritis, juvenile idiopathic polyarthritis and giant cell arteritis with an educational pack containing important information on the safety and correct use of Tyenne. The pack will also include a patient alert card with key safety information for patients.
 
@@ -109,7 +109,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Tyenne a are continuously monitored. Side effects reported with Tyenne are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Tyenne
+### Other information about Tyenne
 
 Tyenne received a marketing authorisation valid throughout the EU on 15 September 2023.
 
@@ -123,503 +123,314 @@ English (EN) (113.24 KB - PDF)
 
 [View](/en/documents/overview/tyenne-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-825)
+[Other languages (22)](#file-language-dropdown-493)
 
 български (BG) (166.66 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/bg/documents/overview/tyenne-epar-medicine-overview_bg.pdf)
 
 español (ES) (139.86 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/es/documents/overview/tyenne-epar-medicine-overview_es.pdf)
 
 čeština (CS) (163.52 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/cs/documents/overview/tyenne-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (138.46 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/da/documents/overview/tyenne-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (143.64 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/de/documents/overview/tyenne-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (137.5 KB - PDF)
+eesti (ET) (137.5 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/et/documents/overview/tyenne-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (163.74 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/el/documents/overview/tyenne-epar-medicine-overview_el.pdf)
 
 français (FR) (142.14 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/fr/documents/overview/tyenne-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (162.5 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/hr/documents/overview/tyenne-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (138.69 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/it/documents/overview/tyenne-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (172.01 KB - PDF)
+latviešu (LV) (172.01 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/lv/documents/overview/tyenne-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (163.17 KB - PDF)
+lietuvių (LT) (163.17 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/lt/documents/overview/tyenne-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (117.55 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/hu/documents/overview/tyenne-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (166.35 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/mt/documents/overview/tyenne-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (117.03 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/nl/documents/overview/tyenne-epar-medicine-overview_nl.pdf)
 
 polski (PL) (167.96 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/pl/documents/overview/tyenne-epar-medicine-overview_pl.pdf)
 
 português (PT) (140.42 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/pt/documents/overview/tyenne-epar-medicine-overview_pt.pdf)
 
 română (RO) (162.71 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/ro/documents/overview/tyenne-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (163.4 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/sk/documents/overview/tyenne-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (160.78 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/sl/documents/overview/tyenne-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (136.58 KB - PDF)
+suomi (FI) (136.58 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/fi/documents/overview/tyenne-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (138.25 KB - PDF)
 
-**First published:**
-
-02/10/2023
+**First published:** 02/10/2023
 
 [View](/sv/documents/overview/tyenne-epar-medicine-overview_sv.pdf)
 
-Tyenne : EPAR - Risk management plan summary
+Tyenne : EPAR - Risk management plan
 
-English (EN) (3.91 MB - PDF)
+English (EN) (9.35 MB - PDF)
 
-**First published:** 02/10/2023
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
-**Last updated:** 28/02/2024
-
-[View](/en/documents/rmp-summary/tyenne-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/tyenne-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Tyenne : EPAR - Product information
 
-English (EN) (2.4 MB - PDF)
+English (EN) (2.62 MB - PDF)
 
-**First published:** 02/10/2023
-
-**Last updated:** 02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/en/documents/product-information/tyenne-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-429)
+[Other languages (24)](#file-language-dropdown-291)
 
-български (BG) (2.85 MB - PDF)
+български (BG) (3.06 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/bg/documents/product-information/tyenne-epar-product-information_bg.pdf)
 
-español (ES) (2.24 MB - PDF)
+español (ES) (2.44 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/es/documents/product-information/tyenne-epar-product-information_es.pdf)
 
-čeština (CS) (2.7 MB - PDF)
+čeština (CS) (3.19 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/cs/documents/product-information/tyenne-epar-product-information_cs.pdf)
 
-dansk (DA) (2.66 MB - PDF)
+dansk (DA) (2.64 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/da/documents/product-information/tyenne-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.74 MB - PDF)
+Deutsch (DE) (2.98 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/de/documents/product-information/tyenne-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.36 MB - PDF)
+eesti (ET) (2.81 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/et/documents/product-information/tyenne-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.75 MB - PDF)
+ελληνικά (EL) (3.55 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/el/documents/product-information/tyenne-epar-product-information_el.pdf)
 
-français (FR) (2.39 MB - PDF)
+français (FR) (2.33 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/fr/documents/product-information/tyenne-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.31 MB - PDF)
+hrvatski (HR) (3.76 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/hr/documents/product-information/tyenne-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.64 MB - PDF)
+italiano (IT) (2.42 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
-
-[View](/is/documents/product-information/tyenne-epar-product-information_is.pdf)
-
-italiano (IT) (2.65 MB - PDF)
-
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/it/documents/product-information/tyenne-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.07 MB - PDF)
+latviešu (LV) (3.12 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/lv/documents/product-information/tyenne-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.89 MB - PDF)
+lietuvių (LT) (2.95 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/lt/documents/product-information/tyenne-epar-product-information_lt.pdf)
 
-magyar (HU) (3.26 MB - PDF)
+magyar (HU) (2.79 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/hu/documents/product-information/tyenne-epar-product-information_hu.pdf)
 
 Malti (MT) (3.42 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/mt/documents/product-information/tyenne-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.42 MB - PDF)
+Nederlands (NL) (2.48 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/nl/documents/product-information/tyenne-epar-product-information_nl.pdf)
 
-norsk (NO) (1.64 MB - PDF)
+polski (PL) (3.01 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
-
-[View](/no/documents/product-information/tyenne-epar-product-information_no.pdf)
-
-polski (PL) (2.43 MB - PDF)
-
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/pl/documents/product-information/tyenne-epar-product-information_pl.pdf)
 
-português (PT) (2.44 MB - PDF)
+português (PT) (2.69 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/pt/documents/product-information/tyenne-epar-product-information_pt.pdf)
 
 română (RO) (3.4 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/ro/documents/product-information/tyenne-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.8 MB - PDF)
+slovenčina (SK) (2.93 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/sk/documents/product-information/tyenne-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.78 MB - PDF)
+slovenščina (SL) (3.27 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/sl/documents/product-information/tyenne-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.28 MB - PDF)
+suomi (FI) (3.2 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/fi/documents/product-information/tyenne-epar-product-information_fi.pdf)
 
-svenska (SV) (2.23 MB - PDF)
+svenska (SV) (2.71 MB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/sv/documents/product-information/tyenne-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000296005 02/10/2025
+Íslenska (IS) (2.62 MB - PDF)
+
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
+
+[View](/is/documents/product-information/tyenne-epar-product-information_is.pdf)
+
+norsk (NO) (3 MB - PDF)
+
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
+
+[View](/no/documents/product-information/tyenne-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000355576
+
+18/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -631,315 +442,174 @@ Product information documents contain:
 
 Tyenne : EPAR - All authorised presentations
 
-English (EN) (55.22 KB - PDF)
+English (EN) (51.9 KB - PDF)
 
-**First published:** 02/10/2023
-
-**Last updated:** 02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/en/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-854)
+[Other languages (24)](#file-language-dropdown-401)
 
-български (BG) (64.87 KB - PDF)
+български (BG) (64.58 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/bg/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (80.44 KB - PDF)
+español (ES) (80.54 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/es/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (69.56 KB - PDF)
+čeština (CS) (71.85 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/cs/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (169.99 KB - PDF)
+dansk (DA) (54.3 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/da/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (56.44 KB - PDF)
+Deutsch (DE) (56.1 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/de/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (66.82 KB - PDF)
+eesti (ET) (71.8 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/et/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (76.28 KB - PDF)
+ελληνικά (EL) (81.07 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/el/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (63.52 KB - PDF)
+français (FR) (65.54 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/fr/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (97.96 KB - PDF)
+hrvatski (HR) (97.52 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/hr/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (49.35 KB - PDF)
+italiano (IT) (81.28 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
-
-[View](/is/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (72.41 KB - PDF)
-
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/it/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (122.64 KB - PDF)
+latviešu (LV) (101 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/lv/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (78.91 KB - PDF)
+lietuvių (LT) (82.08 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/lt/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (76.75 KB - PDF)
+magyar (HU) (82.28 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/hu/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (76.67 KB - PDF)
+Malti (MT) (77.36 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/mt/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (75.99 KB - PDF)
+Nederlands (NL) (97.63 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/nl/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (165.77 KB - PDF)
+polski (PL) (57.22 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
-
-[View](/no/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (60.52 KB - PDF)
-
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/pl/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (66.67 KB - PDF)
+português (PT) (55.42 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/pt/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (69.42 KB - PDF)
+română (RO) (69.12 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/ro/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (92.45 KB - PDF)
+slovenčina (SK) (90.74 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/sk/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (86.41 KB - PDF)
+slovenščina (SL) (83.53 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/sl/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (57.57 KB - PDF)
+suomi (FI) (52.25 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/fi/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (50.88 KB - PDF)
+svenska (SV) (23.14 KB - PDF)
 
-**First published:**
-
-02/10/2023
-
-**Last updated:**
-
-02/10/2025
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
 
 [View](/sv/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (54.62 KB - PDF)
+
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
+
+[View](/is/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (75.72 KB - PDF)
+
+**First published:** 02/10/2023 **Last updated:** 19/08/2026
+
+[View](/no/documents/all-authorised-presentations/tyenne-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Tyenne Active substance tocilizumab International non-proprietary name (INN) or common name tocilizumab Therapeutic area (MeSH)
-
-- Arthritis, Rheumatoid
-- Cytokine Release Syndrome
-- Arthritis, Juvenile Rheumatoid
-- COVID-19 virus infection
-- Giant Cell Arteritis
-
-Anatomical therapeutic chemical (ATC) code L04AC07
+- **Name of medicine**
+    - Tyenne
+- **Active substance**
+    - tocilizumab
+- **International non-proprietary name (INN) or common name**
+    - tocilizumab
+- **Therapeutic area (MeSH)**
+        - Arthritis, Rheumatoid
+        - Cytokine Release Syndrome
+        - Arthritis, Juvenile Rheumatoid
+        - COVID-19 virus infection
+        - Giant Cell Arteritis
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC07
 
 ### Pharmacotherapeutic group
 
@@ -960,7 +630,8 @@ Tyenne is indicated for the treatment of coronavirus disease 2019 (COVID-19) in 
 
 Tyenne is indicated for the treatment of active systemic juvenile idiopathic arthritis (sJIA) in patients 1 year of age and older, who have responded inadequately to previous therapy with NSAIDs and systemic corticosteroids. Tyenne can be given as monotherapy (in case of intolerance to MTX or where treatment with MTX is inappropriate) or in combination with MTX.
 
-Tyenne in combination with methotrexate (MTX) is indicated for the treatment of juvenile idiopathic polyarthritis (pJIA; rheumatoid factor positive or negative and extended oligoarthritis) in patients 2 years of age and older, who have responded inadequately to previous therapy with MTX. Tyenne can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.
+Tyenne in combination with methotrexate (MTX) is indicated for the treatment of juvenile idiopathic polyarthritis (pJIA; rheumatoid factor positive or negative and extended oligoarthritis) in patients 2 years of age and older, who have responded inadequately to previous therapy with MTX.  
+Tyenne can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.
 
 Tyenne is indicated for the treatment of chimeric antigen receptor (CAR) T cell-induced severe or life-threatening cytokine release syndrome (CRS) in adults and paediatric patients 2 years of age and older.
 
@@ -968,19 +639,18 @@ Tyenne is indicated for the treatment of Giant Cell Arteritis (GCA) in adult pat
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005781
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Fresenius Kabi Deutschland GmbH
-
-Else-Kröner-Straße 1,
-
-Opinion adopted 20/07/2023 Marketing authorisation issued 15/09/2023 Revision 5
+- **EMA product number**
+    - EMEA/H/C/005781
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Fresenius Kabi Deutschland GmbH Else-Kröner-Straße 1,  61352 Bad Homburg v.d.Höhe  Germany
+- **Opinion adopted**
+    - 20/07/2023
+- **Marketing authorisation issued**
+    - 15/09/2023
+- **Revision**
+    - 6
 
 ## Assessment history
 
@@ -988,15 +658,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Tyenne : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (162.35 KB - PDF)
+English (EN) (219.36 KB - PDF)
 
-**First published:** 17/06/2025
-
-**Last updated:** 02/10/2025
+**First published:** 17/06/2025 **Last updated:** 19/08/2026
 
 [View](/en/documents/procedural-steps-after/tyenne-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1004,19 +672,15 @@ Tyenne : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (113.06 KB - PDF)
 
-**First published:** 09/02/2024
-
-**Last updated:** 17/06/2025
+**First published:** 09/02/2024 **Last updated:** 17/06/2025
 
 [View](/en/documents/procedural-steps-after/tyenne-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Tyenne : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/365561/2023
+Adopted Reference Number: EMA/365561/2023
 
 English (EN) (3.64 MB - PDF)
 
@@ -1026,9 +690,7 @@ English (EN) (3.64 MB - PDF)
 
 CHMP summary of positive opinion for Tyenne
 
-Adopted
-
-Reference Number: EMA/245419/2023
+Adopted Reference Number: EMA/245419/2023
 
 English (EN) (123.71 KB - PDF)
 
@@ -1036,12 +698,14 @@ English (EN) (123.71 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tyenne_en.pdf)
 
-#### News on Tyenne
+## News on Tyenne
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023) 21/07/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023)
 
-**This page was last updated on** 02/10/2025
+21/07/2023
+
+**This page was last updated on**
+
+19/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-05-07 15:45:00
+document_datetime: 2026-08-18 17:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arixtra.html
 document_name: arixtra.html
 version: success
-processing_time: 0.1422166
-conversion_datetime: 2026-05-10 12:21:57.700861
+processing_time: 0.1835489
+conversion_datetime: 2026-08-22 22:56:29.040277
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Arixtra
-
 # Arixtra
 
 [RSS](/en/individual-human-medicine.xml/66777)
@@ -115,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-83211)
 - [More information on Arixtra](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -129,11 +52,11 @@ Expand section
 
 Collapse section
 
-## What is Arixtra?
+### What is Arixtra?
 
 Arixtra is a solution for injection in a prefilled syringe. Arixtra contains the active substance fondaparinux sodium (1.5, 2.5, 5, 7.5 or 10 mg per syringe).
 
-## What is Arixtra used for?
+### What is Arixtra used for?
 
 Arixtra (1.5 and 2.5 mg strengths) is used to prevent venous thromboembolic events (VTEs, problems due to the formation of blood clots in the veins) in adults (aged 18 years or over) who are having major surgery to their legs, such as a hip or knee surgery. It can also be used in adults at high risk (because of their age or disease) when they are having abdominal surgery or are forced to stay in bed because of an acute illness.
 
@@ -145,7 +68,7 @@ The 2.5 mg strength is also used to treat adults with unstable angina (a type of
 
 The medicine can only be obtained with a prescription.
 
-## How is Arixtra used?
+### How is Arixtra used?
 
 In the prevention of VTEs, the recommended dose of Arixtra is 2.5 mg once a day by subcutaneous injection (under the skin). For patients having surgery, the first dose should be given six hours after the end of the operation. Treatment should be continued until the risk of VTE has been reduced, usually at least five to nine days after surgery. For patients who have kidney problems, Arixtra may not be suitable, or the 1.5-mg dose may be used.
 
@@ -157,11 +80,11 @@ For patients with unstable angina or myocardial infarction, the recommended dose
 
 For more information, see the summary of product characteristics (also part of the EPAR).
 
-## How does Arixtra work?
+### How does Arixtra work?
 
 Blood clotting can be a problem when blood flow is disturbed in any way. Arixtra is an anticoagulant: it prevents the blood from coagulating (clotting). The active ingredient in Arixtra, fondaparinux sodium, stops one of the substances (factors) that are involved in the clotting of blood, factor Xa. When this is blocked, no thrombin (another factor) can be produced, and no clot can be formed. By using Arixtra after surgery, the risk of a blood clot forming is greatly reduced. By reducing blood clots, Arixtra can also help the flow of blood to the heart to be maintained in patients with angina or who are having a heart attack.
 
-## How has Arixtra been studied?
+### How has Arixtra been studied?
 
 Arixtra has been studied for the prevention of and in the treatment of VTE. In the prevention studies, Arixtra was compared with other anticoagulants: enoxaparin (in hip or knee surgery; over 8,000 patients) or dalteparin (in abdominal surgery; 2,927 patients). It was also compared with placebo (a dummy treatment) when looking at patients with an acute illness (839 patients) and patients treated for an additional 24 days following hip-fracture surgery (656 patients). In the treatment of VTE such as DVT and PE, Arixtra was compared with enoxaparin (DVT: 2,192 patients) or with unfractionated heparin (PE: 2,184 patients). In all studies, the main measure of effectiveness was the overall rate of thrombotic events (problems caused by blood clots).
 
@@ -169,7 +92,7 @@ In the treatment of superficial-vein thrombosis, Arixtra was compared with place
 
 Arixtra has also been studied in two main studies of patients with unstable angina or myocardial infarction. The first compared the effects of Arixtra with those of enoxaparin in over 20,000 patients with unstable angina or myocardial infarction without ST-segment elevation, and the second compared Arixtra with standard care (unfractionated heparin in eligible patients, or placebo) in over 12,000 patients with myocardial infarction with ST segment elevation. The main measure of effectiveness was the proportion of patients who died or had an 'ischaemic event' (restriction of blood supply to an organ, including the heart).
 
-## What benefit has Arixtra shown during the studies?
+### What benefit has Arixtra shown during the studies?
 
 Arixtra was at least as effective as the comparators in all of the studies that looked at the prevention of VTE and treatment of DVT and PE. The overall rate of thrombotic events in patients treated with Arixtra was significantly less than in patients treated with placebo or enoxaparin (for patients undergoing leg surgery), and was similar to that seen with enoxaparin (treatment of DVT), dalteparin or unfractionated heparin.
 
@@ -177,17 +100,17 @@ Arixtra was more effective than placebo in reducing the overall occurrence of VT
 
 Arixtra was at least as effective as enoxaparin in preventing death or an ischaemic event in patients with unstable angina or myocardial infarction without ST-segment elevation, with around 5% of the patients in each group had died or had an ischaemic event after nine days. In the study of myocardial infarction with ST-segment elevation, Arixtra reduced the risk of death or another heart attack by 14% after 30 days, compared to standard care. However, these results were insufficient to show whether Arixtra was more effective than unfractionated heparin or not.
 
-## What is the risk associated with Arixtra?
+### What is the risk associated with Arixtra?
 
 As with other anticoagulant medicines, the most common side effect of Arixtra is bleeding. For the full list of all side effects reported with Arixtra, see the package leaflet.
 
 Arixtra should not be used in people who may be hypersensitive (allergic) to fondaparinux sodium or any of the other ingredients, who might be bleeding already, who have acute bacterial endocarditis (an infection of the heart) or have severe kidney problems. For the full list of restrictions, see the package leaflet.
 
-## Why has Arixtra been approved?
+### Why has Arixtra been approved?
 
 The CHMP decided that Arixtra's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## Other information about Arixtra
+### Other information about Arixtra
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Arixtra on 21 March 2002. The marketing authorisation is valid for an unlimited period. The marketing-authorisation holder is Mylan IRE Healthcare Limited.
 
@@ -199,7 +122,7 @@ English (EN) (66.58 KB - PDF)
 
 [View](/en/documents/overview/arixtra-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-791)
+[Other languages (21)](#file-language-dropdown-769)
 
 български (BG) (174.24 KB - PDF)
 
@@ -231,7 +154,7 @@ Deutsch (DE) (73.4 KB - PDF)
 
 [View](/de/documents/overview/arixtra-epar-summary-public_de.pdf)
 
-eesti keel (ET) (129.19 KB - PDF)
+eesti (ET) (129.19 KB - PDF)
 
 **First published:** 05/12/2008 **Last updated:** 08/10/2010
 
@@ -255,13 +178,13 @@ italiano (IT) (133.08 KB - PDF)
 
 [View](/it/documents/overview/arixtra-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (161.72 KB - PDF)
+latviešu (LV) (161.72 KB - PDF)
 
 **First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/lv/documents/overview/arixtra-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (158.42 KB - PDF)
+lietuvių (LT) (158.42 KB - PDF)
 
 **First published:** 05/12/2008 **Last updated:** 08/10/2010
 
@@ -315,7 +238,7 @@ slovenščina (SL) (95.8 KB - PDF)
 
 [View](/sl/documents/overview/arixtra-epar-summary-public_sl.pdf)
 
-Suomi (FI) (71.98 KB - PDF)
+suomi (FI) (71.98 KB - PDF)
 
 **First published:** 05/12/2008 **Last updated:** 08/10/2010
 
@@ -327,6 +250,14 @@ svenska (SV) (69.41 KB - PDF)
 
 [View](/sv/documents/overview/arixtra-epar-summary-public_sv.pdf)
 
+Arixtra : EPAR - Risk management plan
+
+English (EN) (4.41 MB - PDF)
+
+**First published:** 18/08/2026
+
+[View](/en/documents/rmp/arixtra-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Arixtra : EPAR - Product information
@@ -337,7 +268,7 @@ English (EN) (952.37 KB - PDF)
 
 [View](/en/documents/product-information/arixtra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-73)
+[Other languages (24)](#file-language-dropdown-905)
 
 български (BG) (1.22 MB - PDF)
 
@@ -369,7 +300,7 @@ Deutsch (DE) (1.02 MB - PDF)
 
 [View](/de/documents/product-information/arixtra-epar-product-information_de.pdf)
 
-eesti keel (ET) (986.98 KB - PDF)
+eesti (ET) (986.98 KB - PDF)
 
 **First published:** 04/11/2008 **Last updated:** 07/05/2026
 
@@ -393,25 +324,19 @@ hrvatski (HR) (1.06 MB - PDF)
 
 [View](/hr/documents/product-information/arixtra-epar-product-information_hr.pdf)
 
-íslenska (IS) (976.37 KB - PDF)
-
-**First published:** 04/11/2008 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/arixtra-epar-product-information_is.pdf)
-
 italiano (IT) (965.96 KB - PDF)
 
 **First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/arixtra-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.2 MB - PDF)
+latviešu (LV) (1.2 MB - PDF)
 
 **First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/arixtra-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.07 MB - PDF)
+lietuvių (LT) (1.07 MB - PDF)
 
 **First published:** 04/11/2008 **Last updated:** 07/05/2026
 
@@ -434,12 +359,6 @@ Nederlands (NL) (1.05 MB - PDF)
 **First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/arixtra-epar-product-information_nl.pdf)
-
-norsk (NO) (945.03 KB - PDF)
-
-**First published:** 04/11/2008 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/arixtra-epar-product-information_no.pdf)
 
 polski (PL) (1.3 MB - PDF)
 
@@ -471,7 +390,7 @@ slovenščina (SL) (1.02 MB - PDF)
 
 [View](/sl/documents/product-information/arixtra-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.01 MB - PDF)
+suomi (FI) (1.01 MB - PDF)
 
 **First published:** 04/11/2008 **Last updated:** 07/05/2026
 
@@ -483,6 +402,18 @@ svenska (SV) (949.08 KB - PDF)
 
 [View](/sv/documents/product-information/arixtra-epar-product-information_sv.pdf)
 
+Íslenska (IS) (976.37 KB - PDF)
+
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
+
+[View](/is/documents/product-information/arixtra-epar-product-information_is.pdf)
+
+norsk (NO) (945.03 KB - PDF)
+
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
+
+[View](/no/documents/product-information/arixtra-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000325156
 
 05/05/2026
@@ -491,7 +422,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -509,7 +441,7 @@ English (EN) (17.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-105)
+[Other languages (24)](#file-language-dropdown-491)
 
 български (BG) (89.22 KB - PDF)
 
@@ -541,7 +473,7 @@ Deutsch (DE) (19.7 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (18.77 KB - PDF)
+eesti (ET) (18.77 KB - PDF)
 
 **First published:** 04/11/2008 **Last updated:** 04/11/2008
 
@@ -565,25 +497,19 @@ hrvatski (HR) (162.44 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (113.51 KB - PDF)
-
-**First published:** 04/11/2008 **Last updated:** 04/11/2008
-
-[View](/is/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (17.97 KB - PDF)
 
 **First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/it/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (88.8 KB - PDF)
+latviešu (LV) (88.8 KB - PDF)
 
 **First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/lv/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (88.65 KB - PDF)
+lietuvių (LT) (88.65 KB - PDF)
 
 **First published:** 04/11/2008 **Last updated:** 04/11/2008
 
@@ -606,12 +532,6 @@ Nederlands (NL) (19.15 KB - PDF)
 **First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/nl/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (135.06 KB - PDF)
-
-**First published:** 04/11/2008 **Last updated:** 04/11/2008
-
-[View](/no/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (94.81 KB - PDF)
 
@@ -643,7 +563,7 @@ slovenščina (SL) (86.14 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (19.75 KB - PDF)
+suomi (FI) (19.75 KB - PDF)
 
 **First published:** 04/11/2008 **Last updated:** 04/11/2008
 
@@ -655,30 +575,33 @@ svenska (SV) (19.86 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (113.51 KB - PDF)
+
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
+
+[View](/is/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (135.06 KB - PDF)
+
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
+
+[View](/no/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Arixtra
-
-Active substance
-
-fondaparinux sodium
-
-International non-proprietary name (INN) or common name
-
-fondaparinux sodium
-
-Therapeutic area (MeSH)
-
-- Venous Thrombosis
-- Pulmonary Embolism
-- Myocardial Infarction
-- Angina, Unstable
-
-Anatomical therapeutic chemical (ATC) code
-
-B01AX05
+- **Name of medicine**
+    - Arixtra
+- **Active substance**
+    - fondaparinux sodium
+- **International non-proprietary name (INN) or common name**
+    - fondaparinux sodium
+- **Therapeutic area (MeSH)**
+        - Venous Thrombosis
+        - Pulmonary Embolism
+        - Myocardial Infarction
+        - Angina, Unstable
+- **Anatomical therapeutic chemical (ATC) code**
+    - B01AX05
 
 ### Pharmacotherapeutic group
 
@@ -708,27 +631,16 @@ Treatment of adults with acute deep-vein thrombosis (DVT) and treatment of acute
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000403
-
-Marketing authorisation holder
-
-Viatris Healthcare Limited
-
-Damastown Industrial Park Mulhuddart Dublin 15 Dublin Ireland
-
-Opinion adopted
-
-22/07/2010
-
-Marketing authorisation issued
-
-20/03/2002
-
-Revision
-
-39
+- **EMA product number**
+    - EMEA/H/C/000403
+- **Marketing authorisation holder**
+    - Viatris Healthcare Limited Damastown Industrial Park  Mulhuddart  Dublin 15  Dublin  Ireland
+- **Opinion adopted**
+    - 22/07/2010
+- **Marketing authorisation issued**
+    - 20/03/2002
+- **Revision**
+    - 40
 
 ## Assessment history
 
@@ -736,7 +648,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Arixtra : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -762,7 +674,7 @@ English (EN) (67.68 KB - PDF)
 
 **First published:** 08/11/2016 **Last updated:** 08/11/2016
 
-[View](/en/documents/scientific-conclusion/arixtra-h-c-psusa-00001467-201512-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/arixtra-h-c-psusa-00001467-201512-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Arixtra-H-C-403-II-45 : EPAR - Assessment Report - Variation
 
@@ -822,7 +734,7 @@ English (EN) (251.14 KB - PDF)
 
 [View](/en/documents/scientific-discussion-variation/arixtra-h-c-403-ii-12-epar-scientific-discussion-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Arixtra : EPAR - Procedural steps taken before authorisation
 
@@ -852,7 +764,7 @@ English (EN) (660.2 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-875)
+[Other languages (24)](#file-language-dropdown-178)
 
 български (BG) (606.87 KB - DOCX)
 
@@ -884,7 +796,7 @@ Deutsch (DE) (670.33 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (501.46 KB - DOCX)
+eesti (ET) (501.46 KB - DOCX)
 
 **First published:** 29/01/2026 **Last updated:** 07/05/2026
 
@@ -908,25 +820,19 @@ hrvatski (HR) (728.74 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (571.43 KB - DOCX)
-
-**First published:** 29/01/2026 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (540.63 KB - DOCX)
 
 **First published:** 29/01/2026 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (677.03 KB - DOCX)
+latviešu (LV) (677.03 KB - DOCX)
 
 **First published:** 29/01/2026 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (625.43 KB - DOCX)
+lietuvių (LT) (625.43 KB - DOCX)
 
 **First published:** 29/01/2026 **Last updated:** 07/05/2026
 
@@ -949,12 +855,6 @@ Nederlands (NL) (723.95 KB - DOCX)
 **First published:** 29/01/2026 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (547.1 KB - DOCX)
-
-**First published:** 29/01/2026 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (693.53 KB - DOCX)
 
@@ -986,7 +886,7 @@ slovenščina (SL) (687.88 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (700.5 KB - DOCX)
+suomi (FI) (700.5 KB - DOCX)
 
 **First published:** 29/01/2026 **Last updated:** 07/05/2026
 
@@ -998,17 +898,25 @@ svenska (SV) (529.78 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_sv.docx)
 
+Íslenska (IS) (571.43 KB - DOCX)
+
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
+
+[View](/is/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (547.1 KB - DOCX)
+
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
+
+[View](/no/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_no.docx)
+
 ## More information on Arixtra
 
 - [Arixtra - supply shortage](/en/medicines/human/shortages/arixtra)
 - [Arixtra - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/arixtra)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-07/05/2026
+18/08/2026
 
 ## Share this page

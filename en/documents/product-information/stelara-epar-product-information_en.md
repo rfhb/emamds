@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-24 09:16:00
-document_pages: 187
+document_datetime: 2026-08-18 15:52:13
+document_pages: 190
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/stelara-epar-product-information_en.pdf
 document_name: stelara-epar-product-information_en.pdf
 version: success
-processing_time: 49.6274825
-conversion_datetime: 2026-04-25 16:27:52.310438
+processing_time: 54.4490701
+conversion_datetime: 2026-08-23 00:50:53.761564
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,9 +52,13 @@ STELARA is indicated for the treatment of adult patients with moderately to seve
 
 STELARA is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
-## Ulcerative colitis
+## Adult ulcerative colitis
 
 STELARA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
+
+## Paediatric ulcerative colitis
+
+STELARA is indicated for the treatment of moderately to severely active ulcerative colitis in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional therapy or a biologic.
 
 ## 4.2 Posology and method of administration
 
@@ -88,9 +92,9 @@ STELARA has not been studied in these patient populations. No dose recommendatio
 
 ## Paediatric population
 
-## Paediatric Crohn's disease (2 years and older)
+## Paediatric Crohn's disease and ulcerative colitis (2 years and older)
 
-## Patients weighing less than 40 kg (BSA-based dosing)
+Patients weighing less than 40 kg (BSA-based dosing)
 
 Treatment is to be initiated with a single intravenous (IV) dose based on the patient's body surface area (BSA), see Table 2. The infusion solution is to be composed of infusion solution volume from the total number of vials of STELARA 130 mg as specified in Table 2.
 
@@ -115,17 +119,13 @@ Table 3: Initial intravenous dose of STELARA
 | > 55 kg to ≤ 85 kg                             | 390 mg               |                        3 |
 | > 85 kg                                        | 520 mg               |                        4 |
 
-The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the STELARA solution
+The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the STELARA solution for injection (vial) and solution for injection in pre-filled syringe SmPC.
 
 <div style=\"page-break-after: always\"></div>
 
-for injection (vial) and solution for injection in prefilled syringe SmPC.
+## Paediatric population
 
-The safety and efficacy of STELARA for the treatment of Crohn's disease in paediatric patients less than 2 years and less than 10 kg have not been established. No data are available.
-
-## Paediatric ulcerative colitis
-
-The safety and efficacy of STELARA in treatment of ulcerative colitis in paediatric patients less than 18 years have not yet been established. No data are available
+The safety and efficacy of STELARA in paediatric patients with Crohn's disease or ulcerative colitis less than 2 years of age and less than 10 kg have not been established. No data are available.
 
 ## Method of administration
 
@@ -157,11 +157,9 @@ Patients should be instructed to seek medical advice if signs or symptoms sugges
 
 ## Malignancies
 
-Immunosuppressants like ustekinumab have the potential to increase the risk of malignancy. Some patients who received STELARA in clinical studies and in a post-marketing observational study in patients with psoriasis developed cutaneous and non-cutaneous malignancies (see section 4.8). The risk of malignancy may be higher in psoriasis patients who have been treated with other biologics
+Immunosuppressants like ustekinumab have the potential to increase the risk of malignancy. Some patients who received STELARA in clinical studies and in a post-marketing observational study in patients with psoriasis developed cutaneous and non-cutaneous malignancies (see section 4.8). The risk of malignancy may be higher in psoriasis patients who have been treated with other biologics during the course of their disease.
 
 <div style=\"page-break-after: always\"></div>
-
-during the course of their disease.
 
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving STELARA. Thus, caution should be exercised when considering the use of STELARA in these patients.
 
@@ -191,11 +189,9 @@ Long term treatment with STELARA does not suppress the humoral immune response t
 
 ## Concomitant immunosuppressive therapy
 
-In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants,
+In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA. Caution should be exercised when considering concomitant use of other immunosuppressants and STELARA or when transitioning from other immunosuppressive biologics (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA. Caution should be exercised when considering concomitant use of other immunosuppressants and STELARA or when transitioning from other immunosuppressive biologics (see section 4.5).
 
 ## Immunotherapy
 
@@ -217,7 +213,11 @@ No overall differences in efficacy or safety in patients age 65 and older who re
 
 ## Excipients with known effect
 
+## Sodium content
+
 STELARA contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium-free'. STELARA is however, diluted in sodium chloride 9 mg/mL (0.9%) solution for infusion. This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
+
+## Polysorbate 80 content
 
 STELARA contains 10.8 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.40 mg/mL. Polysorbates may cause allergic reactions.
 
@@ -227,11 +227,9 @@ STELARA contains 10.8 mg of polysorbate 80 (E433) in each dosage unit which is e
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
-In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was
+In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
 <div style=\"page-break-after: always\"></div>
-
-explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
 The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
@@ -251,7 +249,9 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of STELARA in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients
+
+treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -279,7 +279,7 @@ The safety data described below reflect exposure in adults to ustekinumab in 14 
 
 Table 4 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 4 List of adverse reactions
+Table 4: List of adverse reactions
 
 | System Organ Class                              | Frequency: Adverse reaction                                                                                                                                                                                                              |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -313,15 +313,13 @@ In clinical studies, patients with latent tuberculosis who were concurrently tre
 
 In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of follow-up). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
 
-patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
-
 ## Hypersensitivity and infusion reactions
 
-In adult Crohn's disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose. In these studies, 2.2% of 785 placebo-treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion. In the paediatric Crohn's disease study, there was one serious and one non-serious infusion reaction. Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting (see section 4.4).
+In adult Crohn's disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose. In these studies, 2.2% of 785 placebo-treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion. In the paediatric Crohn's disease study, there was one serious and one non-serious infusion reaction. In the paediatric ulcerative colitis study, there was one serious and two non-serious infusion reactions. Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting (see section 4.4).
 
 ## Paediatric population
 
@@ -331,7 +329,11 @@ The safety of ustekinumab has been studied in two phase 3 studies of paediatric 
 
 ## Paediatric patients 2 years and older with Crohn's disease
 
-The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease. 34 patients in the Phase 1 study were followed up to 240 weeks and 101 patients in the Phase 3 study were followed up to 68 weeks, respectively. In general, the safety profile was similar to that seen in previous studies in adults with Crohn's disease.
+The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease. 34 patients in the phase 1 study were followed up to 240 weeks and 101 patients in the phase 3 study were followed up to 68 weeks, respectively. In general, the safety profile was similar to that seen in previous studies in adults with Crohn's disease.
+
+## Paediatric patients 2 years and older with ulcerative colitis
+
+The safety of ustekinumab has been studied in one phase 3 study of paediatric patients with moderately to severely active ulcerative colitis. In this study, 112 patients were followed up to 68 weeks. In general, the safety profile was similar to that seen in previous studies in adults with ulcerative colitis.
 
 ## Reporting of suspected adverse reactions
 
@@ -347,13 +349,11 @@ Single doses up to 6 mg/kg have been administered intravenously in clinical stud
 
 Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC05.
 
-## Mechanism of action
-
-Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer
-
 <div style=\"page-break-after: always\"></div>
 
-(NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
+## Mechanism of action
+
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
@@ -373,15 +373,15 @@ The safety and efficacy of ustekinumab was assessed in three randomised, double-
 
 The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to anti-TNFα therapies.
-
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
-
-In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 5). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to
+Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders),
 
 <div style=\"page-break-after: always\"></div>
 
-improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
+69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to anti-TNFα therapies.
+
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
+
+In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 5). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
 Table 5: Induction of clinical response and remission in UNITI-1 and UNITI-2
 
@@ -399,7 +399,9 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 70 point response is defined as reduction in CDAI score by at least 70 points
 
 * Anti-TNFα failures
-- ** Conventional therapy failures
+
+** Conventional therapy failures
+
 - a p &lt; 0.001
 - b p &lt; 0.01
 
@@ -417,10 +419,12 @@ Table 6: Maintenance of clinical response and remission in IM-UNITI (week 44; 52
 | Clinical Remission in patients:                  |                      |                                             |                                              |
 | in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
 | who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
-| who are Anti-TNFα naïve                          | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
-| who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
 
 <div style=\"page-break-after: always\"></div>
+
+| who are Anti-TNFα naïve          | 49% (25/51)   | 65% (34/52) c   | 57% (30/53)   |
+|----------------------------------|---------------|-----------------|---------------|
+| who entered from study CRD3001 § | 26% (16/61)   | 41% (23/56)     | 39% (22/57)   |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
@@ -450,13 +454,11 @@ Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible 
 
 In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
-## Health-related quality of life
-
-Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly
-
 <div style=\"page-break-after: always\"></div>
 
-greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
+## Health-related quality of life
+
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
 
 ## Ulcerative colitis
 
@@ -484,15 +486,15 @@ Table 7: Summary of key efficacy outcomes in UNIFI-I (week 8)
 | In patients who failed conventional therapy, but not a biologic | 35% (56/158)      | 67% (104/156) b                             |
 | In patients who failed biological therapy ¥                     | 27% (44/161)      | 57% (95/166) b                              |
 | In patients who failed both a TNF and vedolizumab               | 28% (13/47)       | 52% (30/58) c                               |
-| Mucosal Healing †                                               | 14%               | 27% a                                       |
-| In patients who failed conventional therapy, but not a biologic | 21% (33/158)      | 33% (52/156) c                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| In patients who failed biological therapy   | 7% (11/161)   | 21% (35/166) b   |
-|---------------------------------------------|---------------|------------------|
-| Symptomatic Remission ‡                     | 23%           | 45% b            |
-| Combined Symptomatic Remission and Mucosal  | 8%            | 21% b            |
+| Mucosal Healing †                                               | 14%          | 27% a          |
+|-----------------------------------------------------------------|--------------|----------------|
+| In patients who failed conventional therapy, but not a biologic | 21% (33/158) | 33% (52/156) c |
+| In patients who failed biological therapy                       | 7% (11/161)  | 21% (35/166) b |
+| Symptomatic Remission ‡                                         | 23%          | 45% b          |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 8%           | 21% b          |
 
 - £ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1 .
 * Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
@@ -630,13 +632,11 @@ Clinical remission is defined as PCDAI score ≤10 points.
 
 ## Dosing frequency adjustment
 
-Patients who entered the maintenance regimen and experienced loss of response based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). 2 patients were dose
+Patients who entered the maintenance regimen and experienced loss of response based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). 2 patients were dose adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
 
 <div style=\"page-break-after: always\"></div>
 
-adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
-
-Patients on both treatment regimens (treatment every 12 weeks or 8 weeks) who did not respond by maintenance week 8 or who lost response and had low levels of ustekinumab (steady state of 8-week ustekinumab trough concentration &lt;1.4 µg/mL) were eligible to enrol in an optional Exposure Optimisation Substudy. This open-label sub study was a minimum of 16 weeks with a subcutaneous maintenance regimen of 90 mg ustekinumab or 60 mg/m 2 (based on BSA) administered every 4 weeks. A total of 26 patients enrolled in the sub study. Among participating patients, 11 (42.3%) transitioned from 12-weekly to 4-weekly dosing, and 15 (57.7%) transitioned from 8-weekly to 4weekly dosing. At 16 weeks, after dosing frequency was changed, 95.0% (19/20) of evaluable patients were in clinical response and 50.0% (10/20) were in clinical remission.
+Patients on both treatment regimens (treatment every 12 weeks or 8 weeks) who did not respond by maintenance week 8 or who lost response and had low levels of ustekinumab (steady-state of 8-week ustekinumab trough concentration &lt;1.4 µg/mL) were eligible to enrol in an optional Exposure Optimisation Substudy. This open-label substudy was a minimum of 16 weeks with a subcutaneous maintenance regimen of 90 mg ustekinumab or 60 mg/m 2 (based on BSA) administered every 4 weeks. A total of 26 patients enrolled in the substudy. Among participating patients, 11 (42.3%) transitioned from every 12 weeks to every 4 weeks dosing, and 15 (57.7%) transitioned from every 8 weeks to every 4 weeks dosing. At 16 weeks, after dosing frequency was changed, 95.0% (19/20) of evaluable patients were in clinical response and 50.0% (10/20) were in clinical remission.
 
 The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population 2 years and older is comparable with that established in the adult Crohn's disease population (see section 4.8).
 
@@ -648,9 +648,64 @@ The mean (SD) change from baseline at maintenance week 44 in C-Reactive protein 
 
 The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
 
-## Paediatric population
+## Paediatric ulcerative colitis
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in ulcerative colitis (see section 4.2 for information on paediatric use).
+The safety and efficacy of ustekinumab was evaluated in 112 paediatric patients 2 years and older in a multicentre phase 3 study (UNIFI Jr) for paediatric patients with moderately to severely active ulcerative colitis. Disease assessment was defined at baseline (week 0) as a Mayo score of 6 to 12, including an endoscopy subscore of ≥2 determined by central review of the video of the endoscopy.
+
+The study enrolled 3 patients between 2 to 5 years old and 27 patients between 6 to 11 years old; 34 patients weighed less than 40 kg, including 16 patients who weighed less than 30 kg. Patients included in the study had to have failed biologic therapy, corticosteroids or immunomodulators. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (patients weighing at least 40 kg) or 250 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab (patients weighing at least 40 kg) or 60 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC) administered either every 8 weeks or every 12 weeks.
+
+## Efficacy results
+
+The primary endpoint of the study was clinical remission at induction week 8 (defined by Mayo subscores as: a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline). The proportion of patients who achieved clinical remission was 25.0% (28/112) and is comparable to that observed in the adult ustekinumab phase 3 studies.
+
+At induction week 8, clinical remission was achieved in 29.4% of patients (20/68) with nonbiologic failure, compared to 18.2% of patients (8/44) with biologic failures. 54 (48.2%) of 112 patients achieved symptomatic remission (defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0, where the stool frequency subscore has not increased from induction baseline).
+
+The proportion of patients in clinical response at induction week 8 (defined as a decrease from baseline in the Modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1) was 67.0% (75/112).
+
+<div style=\"page-break-after: always\"></div>
+
+Of the 112 patients who received IV induction treatment, 97% (109/112) patients entered the maintenance period of which 79 were induction responders.
+
+Table 10 presents the analyses for the secondary endpoints through maintenance week 44.
+
+Table 10: Summary of secondary endpoints through maintenance week 44
+
+|                                                                                                 | 90 mg or 60 mg/m 2 ustekinumab every 8 weeks N = 39   | 90 mg or 60 mg/m 2 ustekinumab every 12 weeks N = 40   | Total number of patients N = 79   |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------|-----------------------------------|
+| Clinical remission †                                                                            | 48.7% (19/39)                                         | 32.5% (13/40)                                          | 40.5% (32/79)                     |
+| Symptomatic remission **                                                                        | 74.4% (29/39)                                         | 57.5% (23/40)                                          | 65.8% (52/79)                     |
+| Corticosteroid-free clinical remission §                                                        | 48.7% (19/39)                                         | 32.5% (13/40)                                          | 40.5% (32/79)                     |
+| Clinical remission at week 44 for patients who were in clinical remission at induction week 8 † | 56.3% (9/16)                                          | 63.6% (7/11)                                           | 59.3% (16/27)                     |
+| Endoscopic improvement £                                                                        | 48.7% (19/39)                                         | 32.5% (13/40)                                          | 40.5% (32/79)                     |
+| Histological-endoscopic mucosal improvement based on GS ⸸                                       | 46.2% (18/39)                                         | 27.5% (11/40)                                          | 36.7% (29/79)                     |
+
+† Clinical remission is defined by Mayo subscores as: a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline.
+
+** Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0, where the stool frequency subscore has not increased from induction baseline.
+
+- § Corticosteroid-free clinical remission is defined as a Mayo stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline; and not receiving corticosteroids for at least 90 days prior to maintenance week 44.
+- £ Endoscopic improvement is defined as a Mayo endoscopy subscore of 0 or 1 with no friability present on the endoscopy.
+- ⸸ Histologic-endoscopic mucosal improvement based on Geboes score (GS) is defined as achieving a combination of histologic improvement (neutrophil infiltration in &lt;5% of crypts, no crypt destruction, and no erosions, ulcerations or granulation tissue according to the Geboes grading system) and endoscopic improvement (a Mayo endoscopy subscore of 0 or 1 with no friability present in the endoscopy).
+
+## Dosing frequency adjustment
+
+Patients who entered the maintenance period and experienced loss of response based on partial Mayo score and had normal ustekinumab exposure were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks (5/40) or stayed on treatment every 8 weeks (sham adjustment) (2/39). In these dose adjusted patients, clinical remission was achieved in 28.6% (2/7) of patients by maintenance week 44.
+
+Patients on both treatment regimens (treatment every 12 weeks or 8 weeks) who did not respond by maintenance week 8 or who lost response and had low levels of ustekinumab (steady-state of 8-week ustekinumab trough concentration &lt;1.4 µg/mL) were eligible to enroll in an optional Exposure Optimization Substudy. This open-label substudy was a minimum of 16 weeks with a subcutaneous maintenance regimen of 90 mg ustekinumab or 60 mg/m 2 (based on BSA) administered every 4 weeks. A total of 22 patients enrolled and 21 were treated in the substudy. Among participating patients, 13 (59.1%) transitioned from every 12 weeks to every 4 weeks dosing, and 9 (40.9%) transitioned from every 8 weeks to every 4 weeks dosing. At 16 weeks, after dosing frequency was changed, 84.6% (11/13) of evaluable patients were in clinical response based on partial Mayo score and 56.3% (9/16) were in clinical remission based on PUCAI score.
+
+The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population 2 years and older is comparable with that established in the adult ulcerative colitis population (see section 4.8).
+
+<div style=\"page-break-after: always\"></div>
+
+## Serum and faecal inflammatory biomarkers
+
+Among the 26 patients with elevated CRP levels at baseline, 3 (21.4%) of the 14 patients in the every 12 week treatment group and 9 (75.0%) of the 12 patients in the every 8 week treatment group had normalised CRP levels at maintenance week 44.
+
+Among the 63 induction responders with abnormal faecal calprotectin levels at baseline, 8 (25.0%) of the 32 patients in the every 12 week treatment group and 16 (51.6%) of the 31 patients in the every 8 week treatment group had normalised faecal calprotectin levels at maintenance week 44.
+
+## Health-related quality of life
+
+In patients aged ≥10 years in whom IMPACT-III was assessed, total scores and all subdomains (including bowel symptoms, systemic symptoms, emotional functioning, social functioning and body image and tests and treatment) demonstrated clinically meaningful improvements at 44 weeks.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -676,19 +731,19 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 
 No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted with intravenous ustekinumab in elderly patients.
 
-<div style=\"page-break-after: always\"></div>
-
 In patients with Crohn's disease and ulcerative colitis, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
 ## Regulation of CYP450 enzymes
 
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
 
+<div style=\"page-break-after: always\"></div>
+
 A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n=18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
 
 ## Paediatric population
 
-Serum ustekinumab concentrations in paediatric patients 2 years and older and weighing at least 10 kg with Crohn's disease, were generally comparable to those in the adult Crohn's disease population.
+Serum ustekinumab concentrations in paediatric patients aged 2 years and older with Crohn's disease or ulcerative colitis, weighing at least 10 kg, were generally comparable to those observed in adult patients.
 
 ## 5.3 Preclinical safety data
 
@@ -704,8 +759,6 @@ Carcinogenicity studies were not performed with ustekinumab due to the lack of a
 
 EDTA disodium salt dihydrate L-histidine L-histidine monohydrochloride monohydrate L-methionine Polysorbate 80 (E433) Sucrose Water for injections
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products. STELARA should only be diluted with sodium chloride 9 mg/mL (0.9%) solution. STELARA should not be administered concomitantly in the same intravenous line with other medicinal products.
@@ -718,11 +771,13 @@ Chemical and physical in-use stability has been demonstrated for 8 hours at 15-2
 
 From a microbiological point of view, unless the method of dilution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.4 Special precautions for storage
 
 Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
-For storage conditions after dilution of the medicinal product, (see section 6.3).
+For storage conditions after dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -736,14 +791,10 @@ The vial should not be shaken. The solution should be visually inspected for par
 
 STELARA concentrate for solution for infusion must be diluted and prepared by a healthcare professional using aseptic technique.
 
-1. For adult patients and paediatric patients who weigh at least 40 kg, calculate the dose and the number of STELARA vials needed based on patient weight (see section 4.2, Table 1, Table 3), or for paediatric patients who weigh less than 40 kg, calculate the dose and number of STELARA vials needed based on patient body surface area (BSA). Each 26 mL vial of STELARA contains 130 mg of ustekinumab.
-2. Withdraw and discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of STELARA to be added. (discard 26 mL sodium chloride for each vial of STELARA needed, for 2 vials-discard 52 mL, for 3 vials- discard 78 mL, for 4 vials- discard 104 mL)
+1. For adult patients and paediatric patients who weigh at least 40 kg, calculate the dose and the number of STELARA vials needed based on patient weight (see section 4.2, Table 1 and Table 3) or for paediatric patients who weigh less than 40 kg, calculate the dose and number of vials needed based on the patient's body surface area (BSA) (see section 4.2, Table 2). Each 26 mL vial of STELARA contains 130 mg of ustekinumab.
+2. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of STELARA to be added (discard 26 mL sodium chloride for each vial of STELARA needed, for 2 vials discard 52 mL, for 3 vials discard 78 mL, for 4 vials discard 104 mL).
 3. Withdraw 26 mL of STELARA from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently mix.
-4. For paediatric patients with Crohn's disease weighing less than 40 kg the dose is based on the patient's BSA as a single intravenous (IV) dose of STELARA. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 100 mL infusion bag equal to the volume of STELARA to be added. Withdraw the appropriate volume of STELARA from
-
-<div style=\"page-break-after: always\"></div>
-
-- each vial needed and add it to the 100 mL infusion bag. The final volume in the infusion bag should be 100 mL. Gently mix.
+4. For paediatric patients with Crohn's disease or ulcerative colitis weighing less than 40 kg the dose is based on the patient's BSA as a single intravenous (IV) dose of STELARA. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 100 mL infusion bag equal to the volume of STELARA to be added. Withdraw the appropriate volume of STELARA from each vial needed and add it to the 100 mL infusion bag. The final volume in the infusion bag should be 100 mL. Gently mix.
 5. Visually inspect the diluted solution before administration. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
 6. Administer the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within eight hours of the dilution in the infusion bag.
 7. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometre).
@@ -751,7 +802,13 @@ STELARA concentrate for solution for infusion must be diluted and prepared by a 
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30
+
+<div style=\"page-break-after: always\"></div>
+
+B-2340 Beerse
+
+Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -763,9 +820,13 @@ Date of first authorisation: 16 January 2009
 
 Date of latest renewal: 19 September 2013
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+
+24
 
 <div style=\"page-break-after: always\"></div>
 
@@ -779,9 +840,7 @@ STELARA 45 mg solution for injection Each vial contains 45 mg ustekinumab in 0.5
 
 STELARA 45 mg solution for injection in pre-filled syringe Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL.
 
-STELARA 90 mg solution for injection in pre-filled syringe
-
-Each pre-filled syringe contains 90 mg ustekinumab in 1 mL.
+STELARA 90 mg solution for injection in pre-filled syringe Each pre-filled syringe contains 90 mg ustekinumab in 1 mL.
 
 Ustekinumab is a fully human IgG1κ monoclonal antibody produced in a murine myeloma cell line using recombinant DNA technology.
 
@@ -811,19 +870,21 @@ STELARA, alone or in combination with MTX, is indicated for the treatment of act
 
 ## Adult Crohn's disease
 
-STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either
+STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
 <div style=\"page-break-after: always\"></div>
-
-conventional therapy or a TNFα antagonist.
 
 ## Paediatric Crohn's disease
 
 STELARA is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
-## Ulcerative colitis
+## Adult ulcerative colitis
 
 STELARA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
+
+## Paediatric ulcerative colitis
+
+STELARA is indicated for the treatment of moderately to severely active ulcerative colitis in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional therapy or a biologic.
 
 ## 4.2 Posology and method of administration
 
@@ -859,13 +920,13 @@ STELARA has not been studied in these patient populations. No dose recommendatio
 
 The safety and efficacy of STELARA in children with psoriasis less than 6 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric plaque psoriasis (6 years and older)
 
 The recommended dose of STELARA based on body weight is shown below (Tables 1 and 2). STELARA should be administered at weeks 0 and 4, then every 12 weeks thereafter.
 
-<div style=\"page-break-after: always\"></div>
-
-Table 1 Recommended dose of STELARA for paediatric psoriasis
+Table 1: Recommended dose of STELARA for paediatric psoriasis
 
 | Body weight at the time of dosing   | Recommended Dose   |
 |-------------------------------------|--------------------|
@@ -875,7 +936,7 @@ Table 1 Recommended dose of STELARA for paediatric psoriasis
 
 To calculate the volume of injection (mL) for patients &lt; 60 kg, use the following formula: body weight (kg) x 0.0083 (mL/kg) or see Table 2. The calculated volume should be rounded to the nearest 0.01 mL and administered using a 1 mL graduated syringe. A 45 mg vial is available for paediatric patients who need to receive less than the full 45 mg dose.
 
-Table 2 Injection volumes of STELARA for paediatric psoriasis patients &lt; 60 kg
+Table 2: Injection volumes of STELARA for paediatric psoriasis patients &lt; 60 kg
 
 |   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
 |--------------------------------------|-------------|----------------------------|
@@ -914,17 +975,17 @@ Table 2 Injection volumes of STELARA for paediatric psoriasis patients &lt; 60 k
 |                                   47 |        35.3 |                       0.39 |
 |                                   48 |        36.0 |                       0.40 |
 |                                   49 |        36.8 |                       0.41 |
-|                                   50 |        37.5 |                       0.42 |
-|                                   51 |        38.3 |                       0.42 |
-|                                   52 |        39.0 |                       0.43 |
-|                                   53 |        39.8 |                       0.44 |
-|                                   54 |        40.5 |                       0.45 |
-|                                   55 |        41.3 |                       0.46 |
 
 <div style=\"page-break-after: always\"></div>
 
-|   56 |   42.0 |   0.46 |
+|   50 |   37.5 |   0.42 |
 |------|--------|--------|
+|   51 |   38.3 |   0.42 |
+|   52 |   39.0 |   0.43 |
+|   53 |   39.8 |   0.44 |
+|   54 |   40.5 |   0.45 |
+|   55 |   41.3 |   0.46 |
+|   56 |   42.0 |   0.46 |
 |   57 |   42.8 |   0.47 |
 |   58 |   43.5 |   0.48 |
 |   59 |   44.3 |   0.49 |
@@ -939,11 +1000,11 @@ The first subcutaneous administration of 90 mg STELARA should take place at week
 
 Patients who have not shown adequate response at 8 weeks after the first subcutaneous dose, may receive a second subcutaneous dose at this time (see section 5.1).
 
-Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
+Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1 and section 5.2).
 
 Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
 
-Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to the 8-weekly maintenance dose.
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to 8 weeks maintenance dose.
 
 Immunomodulators and/or corticosteroids may be continued during treatment with STELARA. In patients who have responded to treatment with STELARA, corticosteroids may be reduced or discontinued in accordance with standard of care.
 
@@ -959,17 +1020,17 @@ STELARA has not been studied in these patient populations. No dose recommendatio
 
 ## Paediatric population
 
-## Paediatric Crohn's disease (2 years and older)
+## Paediatric Crohn's disease and ulcerative colitis (2 years and older)
 
 In the treatment regimen, the first dose of STELARA is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC.
 
-## Patients weighing less than 40 kg (BSA-based dosing)
-
-In paediatric patients with Crohn's disease weighing less than 40 kg the recommended maintenance dose is a subcutaneous dose administered based on the patient's BSA, see Table 3. The calculated volume should be rounded to the nearest 0.1 mL and administered using a 1 mL graduated syringe.
-
 <div style=\"page-break-after: always\"></div>
 
-Table 3 Injection volumes for paediatric patients with Crohn's disease weighing less than 40 kg
+## Patients weighing less than 40 kg (BSA-based dosing)
+
+In paediatric patients weighing less than 40 kg the recommended maintenance dose is a subcutaneous dose administered based on the patient's BSA, see Table 3. The calculated volume should be rounded to the nearest 0.1 mL and administered using a 1 mL graduated syringe.
+
+Table 3: Injection volumes for paediatric patients weighing less than 40 kg
 
 | BSA Range (m 2 ) of patient at time of dosing Body weight < 40 kg   | Recommended Dose (mg)   |   Volume of injection (mL) | Number of 45 mg/0.5mL Vials   |
 |---------------------------------------------------------------------|-------------------------|----------------------------|-------------------------------|
@@ -982,13 +1043,11 @@ Table 3 Injection volumes for paediatric patients with Crohn's disease weighing 
 
 ## Patients weighing at least 40 kg (weight-based dosing)
 
-In paediatric patients with Crohn's disease weighing at least 40 kg, the recommended maintenance dose is a subcutaneous 90 mg dose.
+In paediatric patients weighing at least 40 kg, the recommended maintenance dose is a subcutaneous 90 mg dose.
 
 ## Dosing frequency in paediatric patients (2 years and older)
 
 The first subcutaneous administration of STELARA should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
-
-Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
 
 Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
 
@@ -996,13 +1055,11 @@ Patients receiving treatment every 12 weeks who have a loss of response may incr
 
 Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after dose adjustment.
 
-Immunomodulators, 5-aminosalicylate (5-ASA) compounds, antibiotics, and/or corticosteroids may be continued during treatment with STELARA. In patients who have responded to treatment with STELARA, these medications maybe reduced or discontinued in accordance with standard of care.
+Immunomodulators, 5-aminosalicylate (5-ASA) compounds, antibiotics, and/or corticosteroids may be continued during treatment with STELARA. In patients who have responded to treatment with STELARA, these medications may be reduced or discontinued in accordance with standard of care.
 
-The safety and efficacy of STELARA for the treatment of Crohn's disease in paediatric patients less than 2 years and less than 10 kg have not been established. No data are available.
+## Paediatric population
 
-## Paediatric ulcerative colitis
-
-The safety and efficacy of STELARA in treatment of ulcerative colitis in paediatric patients less than 18 years have not yet been established. No data are available.
+The safety and efficacy of STELARA in paediatric patients with Crohn's disease or ulcerative colitis less than 2 years of age and less than 10 kg have not been established. No data are available.
 
 ## Method of administration
 
@@ -1098,6 +1155,8 @@ No overall differences in efficacy or safety in patients age 65 and older who re
 
 ## Excipient with known effect
 
+## Polysorbate 80 content
+
 STELARA contains 0.04 mg (90 mg/1.0 mL) or 0.02 mg (45 mg/0.5 mL) of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
@@ -1110,11 +1169,9 @@ In the population pharmacokinetic analyses of the phase 3 studies, the effect of
 
 The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
-In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies,
+In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA. (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-concomitant MTX use did not appear to influence the safety or efficacy of STELARA. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA. (see section 4.4).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -1130,7 +1187,9 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of STELARA in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth.
+
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -1150,17 +1209,15 @@ STELARA has no or negligible influence on the ability to drive and use machines.
 
 The most common adverse reactions in the controlled periods of the adult clinical studies were nasopharyngitis (occurring in 6.9% of ustekinumab-treated patients and 5.4% of patients on placebo) and headache (occurring in 7.0% of ustekinumab-treated patients and 5.2% of patients on placebo). The most serious adverse reaction that has been reported for STELARA is serious hypersensitivity reactions including anaphylaxis (see section 4.4). The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
-## Tabulated list of adverse reactions
-
-The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and
-
 <div style=\"page-break-after: always\"></div>
 
-phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to STELARA in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
+## Tabulated list of adverse reactions
+
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to STELARA in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
 Table 4 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 4 List of adverse reactions
+Table 4: List of adverse reactions
 
 | System Organ Class                                   | Frequency: Adverse reaction                                                                                                                                                                                                              |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1208,7 +1265,11 @@ The safety of ustekinumab has been studied in two phase 3 studies of paediatric 
 
 ## Paediatric patients 2 years and older with Crohn's disease
 
-The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease. 34 patients in the Phase 1 study were followed up to 240 weeks and 101 patients in the Phase 3 study were followed up to 68 weeks, respectively. In general, the safety profile was similar to that seen in previous studies in adults with Crohn's disease.
+The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease. 34 patients in the phase 1 study were followed up to 240 weeks and 101 patients in the phase 3 study were followed up to 68 weeks, respectively. In general, the safety profile was similar to that seen in previous studies in adults with Crohn's disease.
+
+## Paediatric patients 2 years and older with ulcerative colitis
+
+The safety of ustekinumab has been studied in one phase 3 study of paediatric patients with moderately to severely active ulcerative colitis. In this study, 112 patients were followed up to 68 weeks. In general, the safety profile was similar to that seen in previous studies in adults with ulcerative colitis.
 
 ## Reporting of suspected adverse reactions
 
@@ -1232,9 +1293,9 @@ By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its 
 
 In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and faecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
 
-In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and faecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
-
 <div style=\"page-break-after: always\"></div>
+
+In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and faecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
 
 ## Immunisation
 
@@ -1258,7 +1319,7 @@ The primary endpoint in these studies was the proportion of patients who achieve
 
 <div style=\"page-break-after: always\"></div>
 
-Table 5 Summary of clinical response in psoriasis study 1 (PHOENIX 1) and psoriasis study 2 (PHOENIX 2)
+Table 5: Summary of clinical response in psoriasis study 1 (PHOENIX 1) and psoriasis study 2 (PHOENIX 2)
 
 |                                   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4 and week 16)   | Week 28 3 doses (week 0, week 4 and week 16)   |
 |-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -1284,21 +1345,21 @@ Table 5 Summary of clinical response in psoriasis study 1 (PHOENIX 1) and psoria
 | Number of patients > 100 kg       | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
 | PASI 75 response N (%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
 
-Table 6 Summary of clinical response at week 12 in psoriasis study 3 (ACCEPT)
+Table 6: Summary of clinical response at week 12 in psoriasis study 3 (ACCEPT)
 
-|                                 | Psoriasis Study 3                        | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|---------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                 | Etanercept 24 doses (50 mg twice a week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                                 |                                          | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised   | 347                                      | 209                                     | 347                                     |
-| PASI 50 response N (%)          | 286 (82%)                                | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N (%)          | 197 (57%)                                | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N (%)          | 80 (23%)                                 | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal N (%) | 170 (49%)                                | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg     | 251                                      | 151                                     | 244                                     |
-| PASI 75 response N (%)          | 154 (61%)                                | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg     | 96                                       | 58                                      | 103                                     |
-| PASI 75 response N (%)          | 43 (45%)                                 | 32 (55%)                                | 67 (65%)                                |
+|                                 | Psoriasis Study 3                      | Psoriasis Study 3                       | Psoriasis Study 3                       |
+|---------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|
+|                                 | Etanercept 24 doses (50 mg twice week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
+|                                 | a                                      | 45 mg                                   | 90 mg                                   |
+| Number of patients randomised   | 347                                    | 209                                     | 347                                     |
+| PASI 50 response N (%)          | 286 (82%)                              | 181 (87%)                               | 320 (92%) a                             |
+| PASI 75 response N (%)          | 197 (57%)                              | 141 (67%) b                             | 256 (74%) a                             |
+| PASI 90 response N (%)          | 80 (23%)                               | 76 (36%) a                              | 155 (45%) a                             |
+| PGA of cleared or minimal N (%) | 170 (49%)                              | 136 (65%) a                             | 245 (71%) a                             |
+| Number of patients ≤ 100 kg     | 251                                    | 151                                     | 244                                     |
+| PASI 75 response N (%)          | 154 (61%)                              | 109 (72%)                               | 189 (77%)                               |
+| Number of patients > 100 kg     | 96                                     | 58                                      | 103                                     |
+| PASI 75 response N (%)          | 43 (45%)                               | 32 (55%)                                | 67 (65%)                                |
 
 In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal)
 
@@ -1322,7 +1383,7 @@ In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the pati
 
 Treatment with ustekinumab resulted in significant improvements in the measures of disease activity compared to placebo at week 24. The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at week 24. The key efficacy results are shown in Table 7 below.
 
-Table 7 Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
+Table 7: Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
 
 |                               | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
 |-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
@@ -1362,11 +1423,9 @@ The proportion of patients achieving a modified PsA response criteria (PsARC) re
 
 Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with anti-TNFα agents who received ustekinumab achieved a greater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
 
-For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared
+For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
 <div style=\"page-break-after: always\"></div>
-
-with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
 ## Radiographic response
 
@@ -1386,7 +1445,7 @@ The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patient
 
 Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
 
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1459,11 +1518,9 @@ In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/
 
 ## Health-related quality of life
 
-Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
 
 <div style=\"page-break-after: always\"></div>
-
-greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
 
 ## Ulcerative colitis
 
@@ -1647,7 +1704,7 @@ During the placebo-controlled period through week 12, the efficacy of both the r
 
 ## Children (6-11 years)
 
-The efficacy of ustekinumab was studied in 44 paediatric patients aged 6 to 11 years with moderate to severe plaque psoriasis in an open label, single-arm, multicentre, phase 3, study (CADMUS Jr.). Patients were treated with the recommended dose of ustekinumab (see section 4.2; n = 44) by subcutaneous injection at weeks 0 and 4 followed by every 12 week (q12w) dosing.
+The efficacy of ustekinumab was studied in 44 paediatric patients aged 6 to 11 years with moderate to severe plaque psoriasis in an open-label, single-arm, multicentre, phase 3, study (CADMUS Jr.). Patients were treated with the recommended dose of ustekinumab (see section 4.2; n = 44) by subcutaneous injection at weeks 0 and 4 followed by every 12 week (q12w) dosing.
 
 Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study. Approximately 43% of the patients had prior exposure to conventional systemic therapy or phototherapy. Approximately 5% of the patients had prior exposure to biologics.
 
@@ -1655,13 +1712,12 @@ The primary endpoint was the proportion of patients who achieved a PGA score of 
 
 All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) at week 12 was 77.3%. Efficacy (defined as PGA 0 or 1) was observed as early as the first post-baseline visit at week 4 and the proportion of subjects who achieved a PGA score of 0 or 1 increased through week 16 and then remained relatively stable through week 52. Improvements in PGA, PASI, and CDLQI were maintained through week 52 (Table 13).
 
-Table 13 Summary of primary and secondary endpoints at week 12 and week 52
+Table 13: Summary of primary and secondary endpoints at week 12 and week 52
 
 | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-|                                                      | Week 12 dose                                         | Week 52 Recommended dose of Ustekinumab              |
-|                                                      | Recommended of Ustekinumab                           |                                                      |
-|                                                      | N (%)                                                | N (%)                                                |
+|                                                      | Week 12 Recommended dose of Ustekinumab              | Week 52 Recommended dose of Ustekinumab N (%)        |
+|                                                      | N (%)                                                |                                                      |
 | Patients enrolled                                    | 44                                                   | 41                                                   |
 | PGA                                                  |                                                      |                                                      |
 | PGA of cleared (0) or minimal (1)                    | 34 (77.3%)                                           | 31 (75.6%)                                           |
@@ -1682,7 +1738,7 @@ a CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin pr
 
 ## Paediatric Crohn's disease
 
-The safety and efficacy of ustekinumab was evaluated in 101 paediatric patients 2 years and older and weighing at least 10 kg  in a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt;30) through 48 weeks of treatment (8 weeks of induction and 40 weeks of maintenance treatment). The study enrolled 2 patients between 2 to 5 years old and 18 patients between 6 to 11 years old; 29 patients weighed less than 40 kg, including 11 patients who weighed less than 30 kg. Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (patients weighing at least 40 kg) or 250 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab (patients weighing at least 40 kg) or 60 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection prefilled syringe SmPC) administered either every 8 weeks or every 12 weeks.
+The safety and efficacy of ustekinumab was evaluated in 101 paediatric patients 2 years and older and weighing at least 10 kg in a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt;30) through 48 weeks of treatment (8 weeks of induction and 40 weeks of maintenance treatment). The study enrolled 2 patients between 2 to 5 years old and 18 patients between 6 to 11 years old; 29 patients weighed less than 40 kg, including 11 patients who weighed less than 30 kg. Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (patients weighing at least 40 kg) or 250 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab (patients weighing at least 40 kg) or 60 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection prefilled syringe SmPC) administered either every 8 weeks or every 12 weeks.
 
 ## Efficacy results
 
@@ -1718,7 +1774,7 @@ Table 14: Summary of secondary endpoints through maintenance week 44
 
 Patients who entered the maintenance regimen and experienced loss of response based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). 2 patients were dose adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
 
-Patients on both treatment regimens (treatment every 12 weeks or 8 weeks) who did not respond by maintenance week 8 or who lost response and had low levels of ustekinumab (steady state of 8-week ustekinumab trough concentration &lt;1.4 µg/mL) were eligible to enrol in an optional Exposure Optimisation Substudy. This open-label sub study was a minimum of 16 weeks with a subcutaneous maintenance regimen of 90 mg ustekinumab or 60 mg/m 2 (based on BSA) administered every 4 weeks. A total of 26 patients enrolled in the sub study. Among participating patients, 11 (42.3%) transitioned from 12-weekly to 4-weekly dosing, and 15 (57.7%) transitioned from 8-weekly to 4weekly dosing. At 16 weeks, after dosing frequency was changed, 95.0 % (19/20) of evaluable patients were in clinical response and 50.0% (10/20) were in clinical remission.
+Patients on both treatment regimens (treatment every 12 weeks or 8 weeks) who did not respond by maintenance week 8 or who lost response and had low levels of ustekinumab (steady-state of 8-week ustekinumab trough concentration &lt;1.4 µg/mL) were eligible to enrol in an optional Exposure Optimisation Substudy. This open-label substudy was a minimum of 16 weeks with a subcutaneous maintenance regimen of 90 mg ustekinumab or 60 mg/m 2 (based on BSA) administered every 4 weeks. A total of 26 patients enrolled in the substudy. Among participating patients, 11 (42.3%) transitioned from every 12 weeks to every 4 weeks dosing, and 15 (57.7%) transitioned from every 8 weeks to every 4 weeks dosing. At 16 weeks, after dosing frequency was changed, 95.0% (19/20) of evaluable patients were in clinical response and 50.0% (10/20) were in clinical remission.
 
 The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population 2 years and older is comparable with that established in the adult Crohn's disease population (see section 4.8).
 
@@ -1730,9 +1786,70 @@ The mean (SD) change from baseline at maintenance week 44 in C-Reactive protein 
 
 The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
 
+## Paediatric ulcerative colitis
+
+The safety and efficacy of ustekinumab was evaluated in 112 paediatric patients 2 years and older in a multicentre phase 3 study (UNIFI Jr) for paediatric patients with moderately to severely active ulcerative colitis. Disease assessment was defined at baseline (week 0) as a Mayo score of 6 to 12, including an endoscopy subscore of ≥2 determined by central review of the video of the endoscopy.
+
+The study enrolled 3 patients between 2 to 5 years old and 27 patients between 6 to 11 years old; 34 patients weighed less than 40 kg, including 16 patients who weighed less than 30 kg. Patients included in the study had to have failed biologic therapy, corticosteroids or immunomodulators. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (patients weighing at least 40 kg) or 250 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab (patients weighing at least 40 kg) or 60 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2) administered either every 8 weeks or every 12 weeks.
+
+## Efficacy results
+
+The primary endpoint of the study was clinical remission at induction week 8 (defined by Mayo subscores as: a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline). The proportion of patients who achieved clinical remission was 25.0% (28/112) and is comparable to that observed in the adult ustekinumab phase 3 studies.
+
+At induction week 8, clinical remission was achieved in 29.4% of patients (20/68) with nonbiologic failure, compared to 18.2% of patients (8/44) with biologic failures. 54 (48.2%) of 112 patients achieved symptomatic remission (defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0, where the stool frequency subscore has not increased from induction baseline).
+
+<div style=\"page-break-after: always\"></div>
+
+The proportion of patients in clinical response at induction week 8 (defined as a decrease from baseline in the Modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1) was 67.0% (75/112).
+
+Of the 112 patients who received IV induction treatment, 97% (109/112) patients entered the maintenance period of which 79 were induction responders.
+
+Table 15 presents the analyses for the secondary endpoints through maintenance week 44.
+
+Table 15: Summary of secondary endpoints through maintenance week 44
+
+|                                                                                                 | 90 mg or 60 mg/m 2 ustekinumab every 8 weeks N = 39   | 90 mg or 60 mg/m 2 ustekinumab every 12 weeks N = 40   | Total number of patients N = 79   |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------|-----------------------------------|
+| Clinical remission †                                                                            | 48.7% (19/39)                                         | 32.5% (13/40)                                          | 40.5% (32/79)                     |
+| Symptomatic remission **                                                                        | 74.4% (29/39)                                         | 57.5% (23/40)                                          | 65.8% (52/79)                     |
+| Corticosteroid-free clinical remission §                                                        | 48.7% (19/39)                                         | 32.5% (13/40)                                          | 40.5% (32/79)                     |
+| Clinical remission at week 44 for patients who were in clinical remission at induction week 8 † | 56.3% (9/16)                                          | 63.6% (7/11)                                           | 59.3% (16/27)                     |
+| Endoscopic improvement £                                                                        | 48.7% (19/39)                                         | 32.5% (13/40)                                          | 40.5% (32/79)                     |
+| Histological-endoscopic mucosal improvement based on GS ⸸                                       | 46.2% (18/39)                                         | 27.5% (11/40)                                          | 36.7% (29/79)                     |
+
+† Clinical remission is defined by Mayo subscores as: a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline.
+
+** Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0, where the stool frequency subscore has not increased from induction baseline.
+
+- § Corticosteroid-free clinical remission is defined as a Mayo stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline; and not receiving corticosteroids for at least 90 days prior to maintenance week 44.
+- £ Endoscopic improvement is defined as a Mayo endoscopy subscore of 0 or 1 with no friability present on the endoscopy.
+- ⸸ Histologic-endoscopic mucosal improvement based on Geboes score (GS) is defined as achieving a combination of histologic improvement (neutrophil infiltration in &lt;5% of crypts, no crypt destruction, and no erosions, ulcerations or granulation tissue according to the Geboes grading system) and endoscopic improvement (a Mayo endoscopy subscore of 0 or 1 with no friability present in the endoscopy).
+
+## Dosing frequency adjustment
+
+Patients who entered the maintenance period and experienced loss of response based on partial Mayo score and had normal ustekinumab exposure were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks (5/40) or stayed on treatment every 8 weeks (sham adjustment) (2/39). In these dose adjusted patients, clinical remission was achieved in 28.6% (2/7) of patients by maintenance week 44.
+
+Patients on both treatment regimens (treatment every 12 weeks or 8 weeks) who did not respond by maintenance week 8 or who lost response and had low levels of ustekinumab (steady-state of 8-week ustekinumab trough concentration &lt;1.4 µg/mL) were eligible to enroll in an optional Exposure Optimization Substudy. This open-label substudy was a minimum of 16 weeks with a subcutaneous maintenance regimen of 90 mg ustekinumab or 60 mg/m 2 (based on BSA) administered every 4 weeks. A total of 22 patients enrolled and 21 were treated in the substudy. Among participating patients, 13 (59.1%) transitioned from every 12 weeks to every 4 weeks dosing, and 9 (40.9%)
+
+<div style=\"page-break-after: always\"></div>
+
+transitioned from every 8 weeks to every 4 weeks dosing. At 16 weeks, after dosing frequency was changed, 84.6% (11/13) of evaluable patients were in clinical response based on partial Mayo score and 56.3% (9/16) were in clinical remission based on PUCAI score.
+
+The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population 2 years and older is comparable with that established in the adult ulcerative colitis population (see section 4.8).
+
+## Serum and faecal inflammatory biomarkers
+
+Among the 26 patients with elevated CRP levels at baseline, 3 (21.4%) of the 14 patients in the every 12 week treatment group and 9 (75.0%) of the 12 patients in the every 8 week treatment group had normalised CRP levels at maintenance week 44.
+
+Among the 63 induction responders with abnormal faecal calprotectin levels at baseline, 8 (25.0%) of the 32 patients in the every 12 week treatment group and 16 (51.6%) of the 31 patients in the every 8 week treatment group had normalised faecal calprotectin levels at maintenance week 44.
+
+## Health-related quality of life
+
+In patients aged ≥10 years in whom IMPACT-III was assessed, total scores and all subdomains (including bowel symptoms, systemic symptoms, emotional functioning, social functioning and body image and tests and treatment) demonstrated clinically meaningful improvements at 44 weeks.
+
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in juvenile idiopathic arthritis and ulcerative colitis (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in juvenile idiopathic arthritis (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1750,11 +1867,11 @@ Median volume of distribution during the terminal phase (Vz) following a single 
 
 The exact metabolic pathway for ustekinumab is unknown.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elimination
 
 Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2 ) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Dose linearity
 
@@ -1764,7 +1881,7 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 
 Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady-state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
-In patients with Crohn's disease and ulcerative colitis, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively. In patients with ulcerative colitis, median steady-state trough concentrations ranged from 2.69 μg/mL to 3.09 μg/mL and from 0.92 μg/mL to 1.19 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
+In patients with Crohn's disease and ulcerative colitis, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady-state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively. In patients with ulcerative colitis, median steady-state trough concentrations ranged from 2.69 μg/mL to 3.09 μg/mL and from 0.92 μg/mL to 1.19 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
 
 ## Impact of weight on pharmacokinetics
 
@@ -1774,15 +1891,17 @@ In a population pharmacokinetic analysis using data from patients with psoriasis
 
 In patients with Crohn's disease and ulcerative colitis, based on observed data and population PK analyses, randomised subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared with subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy. In ulcerative colitis, population PK model based simulations demonstrated that adjusting dosing from 90 mg every 12 weeks to every 8 weeks would be expected to result in a 3-fold increase in steady-state trough ustekinumab concentrations. Additionally on the basis of clinical trial data in patients with ulcerative colitis, a positive exposure-response relationship was established between trough concentrations, and clinical remission and mucosal healing.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
-No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted in elderly patients.
+No pharmacokinetic data are available in patients with impaired renal or hepatic function.
+
+No specific studies have been conducted in elderly patients.
 
 The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis and ulcerative colitis.
 
 In patients with Crohn's disease and ulcerative colitis, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ± 20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
+
+<div style=\"page-break-after: always\"></div>
 
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
 
@@ -1798,27 +1917,27 @@ A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conduc
 
 Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose. Serum ustekinumab concentrations in paediatric psoriasis patients 12-17 years of age (CADMUS) treated with half of the recommended weight-based dose were generally lower than those in adults.
 
-The steady-state serum concentrations in paediatric patients with Crohn's disease 2 years and older and weighing at least 10 kg were comparable to those in the adult Crohn's disease population.
+Serum ustekinumab concentrations in paediatric patients aged 2 years and older with Crohn's disease or ulcerative colitis, weighing at least 10 kg, were generally comparable to those observed in adult patients.
 
 Patients who had loss of response and low ustekinumab levels were dose adjusted to maintenance treatment every 4 weeks. Serum ustekinumab concentrations increased following dose escalation and were within the range of the concentrations at the approved recommended dose in adults treated every 8 weeks.
 
 ## 5.3 Preclinical safety data
 
-Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No
-
-<div style=\"page-break-after: always\"></div>
-
-adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
+Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
 
 Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
 
 Carcinogenicity studies were not performed with ustekinumab due to the lack of appropriate models for an antibody with no cross-reactivity to rodent IL-12/23 p40.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-L-histidine L-histidine monohydrochloride monohydrate Polysorbate 80 (E433) Sucrose Water for injections
+L-histidine
+
+L-histidine monohydrochloride monohydrate Polysorbate 80 (E433) Sucrose Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1838,21 +1957,19 @@ STELARA 90 mg solution for injection in pre-filled syringe
 
 3 years
 
-Individual pre-filled syringes may be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+Individual pre-filled syringes may be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
-Keep the vial or pre-filled syringe in the outer carton in order to protect from light. If needed, individual pre-filled syringes may be stored at room temperature up to 30°C (see section 6.3).
+Keep the vial or pre-filled syringe in the outer carton in order to protect from light. If needed, individual pre-filled syringes may be stored at room temperature up to 30 °C (see section 6.3).
 
 ## 6.5 Nature and contents of container
 
 ## STELARA 45 mg solution for injection
 
 0.5 mL solution in a type I glass 2 mL vial closed with a coated butyl rubber stopper.
-
-<div style=\"page-break-after: always\"></div>
 
 ## STELARA 45 mg solution for injection in pre-filled syringe
 
@@ -1863,6 +1980,8 @@ Keep the vial or pre-filled syringe in the outer carton in order to protect from
 1 mL solution in a type I glass 1 mL syringe with a fixed stainless steel needle and a needle cover containing dry natural rubber (a derivative of latex). The syringe is fitted with a passive safety guard.
 
 STELARA is available in a 1 vial pack or a pack of 1 pre-filled syringe.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -1891,8 +2010,6 @@ Date of first authorisation: 16 January 2009
 Date of latest renewal: 19 September 2013
 
 ## 10. DATE OF REVISION OF THE TEXT
-
-<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
@@ -1954,7 +2071,7 @@ Consideration should be given to discontinuing treatment in patients who have sh
 
 ## Patients with body weight &gt; 100 kg
 
-For patients with a body weight &gt; 100 kg the initial dose is 90 mg administered subcutaneously, followed by a 90 mg dose 4 weeks later, and then every 12 weeks thereafter. In these patients, 45 mg was also shown to be efficacious. However, 90 mg resulted in greater efficacy. (see section 5.1, Table 4).
+For patients with a body weight &gt; 100 kg the initial dose is 90 mg administered subcutaneously, followed by a 90 mg dose 4 weeks later, and then every 12 weeks thereafter. In these patients, 45 mg was also shown to be efficacious. However, 90 mg resulted in greater efficacy (see section 5.1, Table 2).
 
 ## Psoriatic arthritis (PsA)
 
@@ -1982,17 +2099,17 @@ The first subcutaneous administration of 90 mg STELARA should take place at week
 
 Patients who have not shown adequate response at 8 weeks after the first subcutaneous dose, may receive a second subcutaneous dose at this time (see section 5.1).
 
-Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
+Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1 and section 5.2).
 
 Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
 
-Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to the 8-weekly maintenance dose.
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to every 8 weeks maintenance dose.
 
 Immunomodulators and/or corticosteroids may be continued during treatment with STELARA. In patients who have responded to treatment with STELARA, corticosteroids may be reduced or discontinued in accordance with standard of care.
 
-In Crohn's disease or Ulcerative Colitis, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
+In Crohn's disease or ulcerative colitis, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
 ## Elderly
 
@@ -2004,7 +2121,7 @@ STELARA has not been studied in these patient populations. No dose recommendatio
 
 ## Paediatric population
 
-The safety and efficacy of STELARA for the treatment of Crohn's disease in paediatric patients less than 2 years or ulcerative colitis in children less than 18 years have not yet been established. No data are available. The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients. See section 4.2 of the Concentrate for solution for infusion and pre-filled syringe SmPC for posology and method of administration in paediatric patients 2 years and older with Crohn's disease.
+The safety and efficacy of STELARA for the treatment of Crohn's disease in paediatric patients less than 2 years or ulcerative colitis in children less than 2 years have not yet been established. No data are available. The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients. See section 4.2 of the Concentrate for solution for infusion and pre-filled syringe SmPC for posology and method of administration in paediatric patients 2 years and older with Crohn's disease or ulcerative colitis.
 
 ## Method of administration
 
@@ -2096,13 +2213,13 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Elderly
 
-No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently
+No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
 <div style=\"page-break-after: always\"></div>
 
-from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
-
 ## Excipient with known effect
+
+## Polysorbate 80 content
 
 STELARA contains 0.04 mg (90 mg/1.0 mL) or 0.02 mg (45 mg/0.5 mL) of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions.
 
@@ -2184,11 +2301,9 @@ Table 1: List of adverse reactions
 
 In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies, and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess,
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies, and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
 
 <div style=\"page-break-after: always\"></div>
-
-cellulitis, diverticulitis, gastroenteritis and viral infections.
 
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
@@ -2218,11 +2333,9 @@ Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code:
 
 ## Mechanism of action
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
 <div style=\"page-break-after: always\"></div>
-
-protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
@@ -2242,11 +2355,9 @@ The safety and efficacy of ustekinumab was assessed in 1,996 patients in two ran
 
 Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 and followed by the same dose every 12 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
 
-Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive
+Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
 
 Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at weeks 0 and 4, or ustekinumab 90 mg at Weeks 0 and 4.
 
@@ -2280,27 +2391,23 @@ Table 2: Summary of clinical response in psoriasis study 1 (PHOENIX 1) and psori
 | Number of patients > 100 kg       | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
 | PASI 75 response N (%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
 
-a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with placebo (PBO).
-
-b PGA = Physician Global Assessment
-
 <div style=\"page-break-after: always\"></div>
 
 Table 3: Summary of clinical response at week 12 in psoriasis study 3 (ACCEPT)
 
-|                                 | Psoriasis Study 3                        | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|---------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                 | Etanercept 24 doses (50 mg twice a week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                                 |                                          | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised   | 347                                      | 209                                     | 347                                     |
-| PASI 50 response N (%)          | 286 (82%)                                | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N (%)          | 197 (57%)                                | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N (%)          | 80 (23%)                                 | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal N (%) | 170 (49%)                                | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg     | 251                                      | 151                                     | 244                                     |
-| PASI 75 response N (%)          | 154 (61%)                                | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg     | 96                                       | 58                                      | 103                                     |
-| PASI 75 response N (%)          | 43 (45%)                                 | 32 (55%)                                | 67 (65%)                                |
+|                                 | Psoriasis Study 3                      | Psoriasis Study 3                       | Psoriasis Study 3                       |
+|---------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|
+|                                 | Etanercept 24 doses (50 mg twice week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
+|                                 | a                                      | 45 mg                                   | 90 mg                                   |
+| Number of patients randomised   | 347                                    | 209                                     | 347                                     |
+| PASI 50 response N (%)          | 286 (82%)                              | 181 (87%)                               | 320 (92%) a                             |
+| PASI 75 response N (%)          | 197 (57%)                              | 141 (67%) b                             | 256 (74%) a                             |
+| PASI 90 response N (%)          | 80 (23%)                               | 76 (36%) a                              | 155 (45%) a                             |
+| PGA of cleared or minimal N (%) | 170 (49%)                              | 136 (65%) a                             | 245 (71%) a                             |
+| Number of patients ≤ 100 kg     | 251                                    | 151                                     | 244                                     |
+| PASI 75 response N (%)          | 154 (61%)                              | 109 (72%)                               | 189 (77%)                               |
+| Number of patients > 100 kg     | 96                                     | 58                                      | 103                                     |
+| PASI 75 response N (%)          | 43 (45%)                               | 32 (55%)                                | 67 (65%)                                |
 
 a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
 
@@ -2316,11 +2423,9 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite nonsteroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at weeks 0 and 4 followed by
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite nonsteroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
 <div style=\"page-break-after: always\"></div>
-
-every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
 In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with anti-tumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more anti-TNFα agent(s), of whom over 70% had discontinued their anti-TNFα treatment for lack of efficacy or intolerance at any time.
 
@@ -2328,7 +2433,7 @@ In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the pati
 
 Treatment with ustekinumab resulted in significant improvements in the measures of disease activity compared to placebo at week 24. The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at week 24. The key efficacy results are shown in Table 4 below.
 
-Table 4 Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
+Table 4: Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
 
 |                                             | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
 |---------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
@@ -2372,17 +2477,15 @@ There was significant improvement in DLQI scores in the ustekinumab groups as co
 
 ## Crohn's disease
 
-The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development programme consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed
+The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development programme consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
 <div style=\"page-break-after: always\"></div>
-
-by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
 The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
 Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
 
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 5). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
@@ -2447,7 +2550,7 @@ Of 131 patients who responded to ustekinumab induction, and were randomised to t
 
 In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
 
-No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's Disease.
+No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's disease.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2469,7 +2572,7 @@ The safety and efficacy of ustekinumab was assessed in two randomised, double-bl
 
 Efficacy results presented for UNIFI-I and UNIFI-M were based on central review of endoscopies.
 
-UNIFI-I included 961 patients. The primary endpoint for the induction study was the proportion of subjects in clinical remission at week 8. Patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+UNIFI-I included 961 patients. The primary endpoint for the induction study was the proportion of subjects in clinical remission at week 8. Patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
 Concomitant doses of oral corticosteroids, immunomodulators, and aminosalicylates were permitted and 90% of patients continued to receive at least one of these medications. Enrolled patients had to have failed conventional therapy (corticosteroids or immunomodulators) or at least one biologic (a TNFα antagonist and/or vedolizumab). 49% of patients had failed conventional therapy, but not a biologic (of which 94% where biological-naïve). 51% of patients had failed or were intolerant to a biologic. Approximately 50% of the patients had failed at least 1 prior anti-TNFα therapy (of which 48% were primary non-responders) and 17% had failed at least 1 anti-TNFα therapy and vedolizumab.
 
@@ -2497,11 +2600,14 @@ Table 7: Summary of key efficacy outcomes in UNIFI-I (week 8)
 | Symptomatic Remission ‡                                         | 23%               | 45% b                                       |
 | Combined Symptomatic Remission and Mucosal Healing ⸸            | 8%                | 21% b                                       |
 
+* Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+
+§ Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
+
+- ¥ A TNFα antagonist and/or vedolizumab.
 - † Mucosal healing is defined as a Mayo endoscopic subscore of 0 or 1.
 - ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
-
-⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
-
+- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
 - a p &lt; 0.001
 - b Nominally significant (p &lt; 0.001)
 - c Nominally significant (p &lt; 0.05)
@@ -2516,22 +2622,22 @@ Table 8: Summary of key efficacy measures in UNIFI-M (week 44; 52 weeks from ini
 |-----------------------------------------------------------------|--------------------|-------------------------------------------|--------------------------------------------|
 | Clinical Remission**                                            | 24%                | 44% a                                     | 38% b                                      |
 | In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                             | 49% (50/102) d                             |
-| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                             | 23% (16/70) d                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| In patients who failed both a TNF and vedolizumab               | 15% (4/27)   | 33% (7/21) e   | 23% (5/22) e   |
-|-----------------------------------------------------------------|--------------|----------------|----------------|
-| Maintenance of Clinical Response through week 44 §              | 45%          | 71% a          | 68% a          |
-| In patients who failed conventional therapy, but not a biologic | 51% (44/87)  | 78% (66/85) c  | 77% (78/102) c |
-| In patients who failed biological therapy ¥                     | 39% (34/88)  | 65% (59/91) c  | 56% (39/70) d  |
-| In patients who failed both a TNF and vedolizumab               | 41% (11/27)  | 67% (14/21) e  | 50% (11/22) e  |
-| Mucosal Healing †                                               | 29%          | 51% a          | 44% b          |
-| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)  | 58% (22/38)    | 65% (26/40) c  |
-| Corticosteroid Free Clinical Remission €                        | 23%          | 42% a          | 38% b          |
-| Durable Remission ǁ                                             | 35%          | 57% c          | 48% d          |
-| Symptomatic Remission ‡                                         | 45%          | 68% c          | 62% d          |
-| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%          | 48% c          | 41% d          |
+| In patients who failed biological therapy ¥                     | 17% (15/88)   | 40% (36/91) c   | 23% (16/70) d   |
+|-----------------------------------------------------------------|---------------|-----------------|-----------------|
+| In patients who failed both a TNF and vedolizumab               | 15% (4/27)    | 33% (7/21) e    | 23% (5/22) e    |
+| Maintenance of Clinical Response through week 44 §              | 45%           | 71% a           | 68% a           |
+| In patients who failed conventional therapy, but not a biologic | 51% (44/87)   | 78% (66/85) c   | 77% (78/102) c  |
+| In patients who failed biological therapy ¥                     | 39% (34/88)   | 65% (59/91) c   | 56% (39/70) d   |
+| In patients who failed both a TNF and vedolizumab               | 41% (11/27)   | 67% (14/21) e   | 50% (11/22) e   |
+| Mucosal Healing †                                               | 29%           | 51% a           | 44% b           |
+| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)   | 58% (22/38)     | 65% (26/40) c   |
+| Corticosteroid Free Clinical Remission €                        | 23%           | 42% a           | 38% b           |
+| Durable Remission ǁ                                             | 35%           | 57% c           | 48% d           |
+| Symptomatic Remission ‡                                         | 45%           | 68% c           | 62% d           |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%           | 48% c           | 41% d           |
 
 * Following response to IV ustekinumab.
 - ** Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
@@ -2587,11 +2693,9 @@ Patients receiving ustekinumab experienced significantly more improvements in wo
 
 ## Hospitalisations and ulcerative colitis (UC) related surgeries
 
-Through week 8 of UNIFI-I, the proportions of subjects with UC disease related hospitalisations were significantly lower for subjects in the ustekinumab recommended dose group (1.6%, 5/322) compared
+Through week 8 of UNIFI-I, the proportions of subjects with UC disease related hospitalisations were significantly lower for subjects in the ustekinumab recommended dose group (1.6%, 5/322) compared with subjects in the placebo group (4.4%, 14/319) and no subjects underwent UC disease related surgeries in subjects receiving ustekinumab at the recommended induction dose compared to 0.6% (2/319) subjects in the placebo group.
 
 <div style=\"page-break-after: always\"></div>
-
-with subjects in the placebo group (4.4%, 14/319) and no subjects underwent UC disease related surgeries in subjects receiving ustekinumab at the recommended induction dose compared to 0.6% (2/319) subjects in the placebo group.
 
 Through week 44 of UNIFI-M, a significantly lower number of UC-related hospitalisations was observed in subjects in the combined ustekinumab group (2.0%, 7/348) as compared with subjects in the placebo group (5.7%, 10/175). A numerically lower number of subjects in the ustekinumab group (0.6%, 2/348) underwent UC disease related surgeries compared with subjects in the placebo group (1.7%, 3/175) through week 44.
 
@@ -2601,7 +2705,7 @@ Antibodies to ustekinumab may develop during ustekinumab treatment and most are 
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in ulcerative colitis and juvenile idiopathic arthritis. The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in juvenile idiopathic arthritis. The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -2631,9 +2735,9 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 
 ## Single dose versus multiple doses
 
-Serum concentration time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
+Serum concentration time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady-state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
-In patients with Crohn's disease and ulcerative colitis, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively. In patients with ulcerative colitis, median steady-state trough concentrations ranged from 2.69 μg/mL to 3.09 μg/mL and from 0.92 μg/mL to 1.19 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
+In patients with Crohn's disease and ulcerative colitis, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady-state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively. In patients with ulcerative colitis, median steady-state trough concentrations ranged from 2.69 μg/mL to 3.09 μg/mL and from 0.92 μg/mL to 1.19 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
 
 ## Impact of weight on pharmacokinetics
 
@@ -2691,13 +2795,15 @@ STELARA 45 mg solution for injection in pre-filled pen 3 years
 
 STELARA 90 mg solution for injection in pre-filled pen 3 years
 
-Individual pre-filled pens may be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the prefilled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a prefilled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+Individual pre-filled pens may be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the prefilled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a prefilled pen has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
-If needed, individual pre-filled pens may be stored at room temperature up to 30°C (see section 6.3).
+Keep the pre-filled pen in the outer carton in order to protect from light.
+
+If needed, individual pre-filled pens may be stored at room temperature up to 30 °C (see section 6.3).
 
 ## 6.5 Nature and contents of container
 
@@ -2717,11 +2823,11 @@ The pre-filled pen should not be shaken. The solution should be visually inspect
 
 STELARA does not contain preservatives; therefore any unused medicinal product remaining in the pre-filled pen should not be used. STELARA is supplied as a sterile, single-use pre-filled pen. The pre-filled pen must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2907,7 +3013,8 @@ Do not shake.
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -2915,7 +3022,8 @@ Lot
 
 130 mg/26 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2925,7 +3033,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-STELARA 45 mg solution for injection ustekinumab
+STELARA 45 mg solution for injection
+
+ustekinumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2977,7 +3087,9 @@ Keep the vial in the outer carton in order to protect from light.
 
 Janssen-Cilag International NV
 
-Turnhoutseweg 30 B-2340 Beerse
+Turnhoutseweg 30
+
+B-2340 Beerse
 
 Belgium
 
@@ -3011,17 +3123,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL TEXT (45 mg)                                            |
 
-## VIAL LABEL TEXT (45 mg)
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 STELARA 45 mg solution for injection ustekinumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3033,8 +3145,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 45 mg/0.5 mL
 
@@ -3047,7 +3159,9 @@ PRE-FILLED SYRINGE CARTON TEXT (45 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-STELARA 45 mg solution for injection in pre-filled syringe ustekinumab
+STELARA 45 mg solution for injection in pre-filled syringe
+
+ustekinumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3083,7 +3197,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3097,7 +3211,7 @@ Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-Can be stored at room temperature (up to 30°C) for a single period up to 30 days, but not exceeding the original expiry date.
+Can be stored at room temperature (up to 30 °C) for a single period up to 30 days, but not exceeding the original expiry date.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -3133,8 +3247,8 @@ STELARA 45 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -3148,8 +3262,8 @@ PC SN NN
 
 STELARA 45 mg injection ustekinumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3161,8 +3275,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 45 mg/0.5 mL
 
@@ -3211,7 +3325,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3225,7 +3339,7 @@ Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-Can be stored at room temperature (up to 30°C) for a single period up to 30 days, but not exceeding the original expiry date.
+Can be stored at room temperature (up to 30 °C) for a single period up to 30 days, but not exceeding the original expiry date.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -3260,26 +3374,24 @@ STELARA 90 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL TEXT (90 mg)                            |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## PRE-FILLED SYRINGE LABEL TEXT (90 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 STELARA 90 mg injection ustekinumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
@@ -3288,8 +3400,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 90 mg/1 mL
 
@@ -3342,7 +3453,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3356,7 +3467,7 @@ Do not freeze.
 
 Keep the pre-filled pen in the outer carton in order to protect from light.
 
-Can be stored at room temperature (up to 30°C) for a single period up to 30 days, but not exceeding the original expiry date.
+Can be stored at room temperature (up to 30 °C) for a single period up to 30 days, but not exceeding the original expiry date.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -3391,8 +3502,8 @@ STELARA 45 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -3477,7 +3588,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3491,7 +3602,7 @@ Do not freeze.
 
 Keep the pre-filled pen in the outer carton in order to protect from light.
 
-Can be stored at room temperature (up to 30°C) for a single period up to 30 days, but not exceeding the original expiry date.
+Can be stored at room temperature (up to 30 °C) for a single period up to 30 days, but not exceeding the original expiry date.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -3526,8 +3637,8 @@ STELARA 90 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -3545,13 +3656,12 @@ Read Instructions for Use in full before use.
 
 ## PRE-FILLED PEN LABEL TEXT (90 mg)
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 STELARA 90 mg injection ustekinumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3563,8 +3673,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 90 mg/1 mL
 
@@ -3613,7 +3722,7 @@ Stelara belongs to a group of medicines called 'immunosuppressants'. These medic
 Stelara is used to treat the following inflammatory diseases:
 
 -  Moderate to severe Crohn's disease - in adults and children aged 2 years and older
--  Moderate to severe ulcerative colitis - in adults
+-  Moderate to severe ulcerative colitis - in adults and children aged 2 years and older
 
 ## Crohn's disease
 
@@ -3630,11 +3739,9 @@ Ulcerative colitis is an inflammatory disease of the bowel. If you have ulcerati
 -  If you are allergic to ustekinumab or any of the other ingredients of this medicine (listed in section 6).
 -  If you have an active infection which your doctor thinks is important.
 
-If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
 
 <div style=\"page-break-after: always\"></div>
-
-Stelara.
 
 ## Warnings and precautions
 
@@ -3665,7 +3772,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Stelara is not recommended for use in children under 2 years of age with Crohn's disease or children under 18 years of age with ulcerative colitis because it has not been studied in this age group.
+Stelara is not recommended for use in children under 2 years of age with Crohn's disease or ulcerative colitis because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Stelara
 
@@ -3709,7 +3816,7 @@ Stelara 130 mg concentrate for solution for infusion will be given to you by you
 
 Your doctor will decide how much Stelara you need to receive and for how long.
 
-## Adults aged 18 years or older Crohn's disease or Ulcerative Colitis
+## Adults aged 18 years or older Crohn's disease and ulcerative colitis
 
 -  The doctor will work out the recommended intravenous infusion dose for you based on your body weight.
 
@@ -3723,12 +3830,14 @@ Your doctor will decide how much Stelara you need to receive and for how long.
 
 -  After the starting intravenous dose, you will have the next dose of 90 mg Stelara by an injection under your skin ('subcutaneously') 8 weeks later, and then every 12 weeks thereafter.
 
-## Children who weigh less than 40 kg Crohn's disease
+## Children who weigh less than 40 kg
+
+## Crohn's disease and ulcerative colitis
 
 -  The doctor will work out the recommended intravenous infusion dose for you based on your body surface area (BSA)
 -  After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin (subcutaneously').
 
-## Children who weigh at least 40 kg Crohn's disease
+## Children who weigh at least 40 kg Crohn's disease and ulcerative colitis
 
 -  The doctor will work out the recommended intravenous infusion dose for you based on your body weight.
 -  After the starting intravenous dose, you will have the next dose of 90 mg Stelara by an injection under your skin ('subcutaneously') 8 weeks later, and then every 12 weeks thereafter.
@@ -3766,10 +3875,10 @@ Some patients may have serious side effects that may need urgent treatment.
 ## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
 
 -  Serious allergic reactions ('anaphylaxis') are rare in people taking Stelara (may affect up to 1 in 1,000 people). Signs include:
-- o difficulty breathing or swallowing
 
 <div style=\"page-break-after: always\"></div>
 
+- o difficulty breathing or swallowing
 - o low blood pressure, which can cause dizziness or light-headedness
 - o swelling of the face, lips, mouth or throat.
 -  Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
@@ -3808,12 +3917,12 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 Common side effects (may affect up to 1 in 10 people):
 
 -  Diarrhoea
-
-<div style=\"page-break-after: always\"></div>
-
 -  Nausea
 -  Vomiting
 -  Feeling tired
+
+<div style=\"page-break-after: always\"></div>
+
 -  Feeling dizzy
 -  Headache
 -  Itching ('pruritus')
@@ -3853,16 +3962,17 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 -  Stelara 130 mg concentrate for solution for infusion is given in a hospital or clinic and patients should not need to store or handle it.
 -  Keep this medicine out of the sight and reach of children.
--  Store in a refrigerator (2°C-8°C). Do not freeze.
+-  Store in a refrigerator (2 °C-8 °C). Do not freeze.
 -  Keep the vial in the outer carton in order to protect from light.
 -  Do not shake the vials. Prolonged vigorous shaking may damage the medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Do not use this medicine:
 
 -  After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
 -  If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Stelara looks like and contents of the pack').
+
+<div style=\"page-break-after: always\"></div>
+
 -  If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
 -  If the product has been shaken vigorously.
 -  If the seal is broken.
@@ -3882,7 +3992,9 @@ Stelara is a clear, colourless to light yellow concentrate for solution for infu
 
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV
+
+Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
@@ -3898,7 +4010,9 @@ Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 UAB \"JOHNSON &amp; JOHNSON\"
 
-Tel: +370 5 278 68 88 lt@its.jnj.com
+Tel: +370 5 278 68 88
+
+lt@its.jnj.com
 
 ## България
 
@@ -3926,11 +4040,21 @@ Tel.: +36 1 884 2858
 
 janssenhu@its.jnj.com
 
-<div style=\"page-break-after: always\"></div>
-
 ## Danmark
 
-Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
+Janssen-Cilag A/S
+
+Tlf.: +45 4594 8282
+
+jacdk@its.jnj.com
+
+## Malta
+
+AM MANGION LTD
+
+Tel: +356 2397 6000
+
+<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
@@ -3972,11 +4096,11 @@ Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
 
 Βαρνάβας Χατζηπαναγής Λτδ Tηλ: +357 22 207 700
 
-## Malta
+## Latvija
 
-AM MANGION LTD
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
 
-Tel: +356 2397 6000
+## This leaflet was last revised in .
 
 ## Nederland
 
@@ -4000,7 +4124,9 @@ Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
 
 ## Slovenija
 
@@ -4016,15 +4142,9 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
 ## Sverige
 
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
-
-Latvija UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
-
-## This leaflet was last revised in .
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -4038,12 +4158,12 @@ In order to improve the traceability of biological medicinal products, the trade
 
 STELARA concentrate for solution for infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
 
-1. For adult patients and paediatric patients who weigh at least 40 kg, calculate the dose and the number of STELARA vials needed based on patient weight (see section 4.2, Table 1, Table 3) or for paediatric patients who weigh less than 40 kg, calculate the dose and number of STELARA vials needed based on the patient's body surface area (BSA) (see section 4.2, Table 2). Each 26 mL vial of STELARA contains 130 mg of ustekinumab.
-2. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of STELARA to be added (discard 26 mL sodium chloride for each vial of STELARA needed, for 2 vials- discard 52 mL, for 3 vials discard 78 mL, for 4 vials- discard 104 mL).
+1. For adult patients and paediatric patients who weigh at least 40 kg, calculate the dose and the number of STELARA vials needed based on patient weight (see section 4.2, Table 1 and Table 3 in the Summary of Product Characteristics) or for paediatric patients who weigh less than 40 kg, calculate the dose and number of vials needed based on the patient's body surface area (BSA) (see section 4.2, Table 2 in the Summary of Product Characteristics). Each 26 mL vial of STELARA contains 130 mg of ustekinumab.
+2. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of STELARA to be added (discard 26 mL sodium chloride for each vial of STELARA needed, for 2 vials discard 52 mL, for 3 vials discard 78 mL, for 4 vials discard 104 mL).
 3. Withdraw 26 mL of STELARA from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently mix.
-4. For paediatric patients with Crohn's disease weighing less than 40 kg the dose is based on the patient's BSA as a single intravenous (IV) dose of STELARA. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 100 mL infusion bag equal to the volume of STELARA to be added. Withdraw the appropriate volume of STELARA from each vial needed and add it to the 100 mL infusion bag. The final volume in the infusion bag should be 100 mL. Gently mix.
-5. Visually inspect the diluted solution before infusion. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
-6. Infuse the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within eight hours of the dilution in the infusion bag.
+4. For paediatric patients with Crohn's disease or ulcerative colitis weighing less than 40 kg the dose is based on the patient's BSA as a single intravenous (IV) dose of STELARA. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 100 mL infusion bag equal to the volume of STELARA to be added. Withdraw the appropriate volume of STELARA from each vial needed and add it to the 100 mL infusion bag. The final volume in the infusion bag should be 100 mL. Gently mix.
+5. Visually inspect the diluted solution before administration. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
+6. Administer the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within eight hours of the dilution in the infusion bag.
 7. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometre).
 8. Each vial is for single use only and any unused medicinal product should be disposed of in accordance with local requirements.
 
@@ -4055,7 +4175,9 @@ If necessary, the diluted infusion solution may be stored at room temperature. T
 
 <div style=\"page-break-after: always\"></div>
 
-## STELARA 45 mg solution for injection ustekinumab
+## STELARA 45 mg solution for injection
+
+ustekinumab
 
 Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -4090,7 +4212,7 @@ Stelara is used to treat the following inflammatory diseases:
 -  Plaque psoriasis - in adults and children aged 6 years and older
 -  Psoriatic arthritis - in adults
 -  Moderate to severe Crohn's disease - in adults and children aged 2 years and older
--  Moderate to severe ulcerative colitis - in adults
+-  Moderate to severe ulcerative colitis - in adults and children aged 2 years and older
 
 ## Plaque psoriasis
 
@@ -4159,7 +4281,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Stelara is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease  under 2 years of age or for use in children under 18 years of age with psoriatic arthritis, or ulcerative colitis because it has not been studied in these age groups.
+Stelara is not recommended for use in children with psoriasis under 6 years of age, children under 2 years of age with Crohn's disease or ulcerative colitis, or for use in children under 18 years of age with psoriatic arthritis, because it has not been studied in these age groups.
 
 ## Other medicines, vaccines and Stelara
 
@@ -4186,7 +4308,7 @@ Stelara has no or negligible influence on the ability to drive and use machines.
 
 ## Stelara contains polysorbate 80
 
-STELARA contains 0.02 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+Stelara contains 0.02 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use Stelara
 
@@ -4198,12 +4320,12 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Stelara you need to use and for how long.
 
-## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older Psoriasis or psoriatic arthritis
 
 -  The recommended starting dose is 45 mg Stelara. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
 
-## Crohn's disease or Ulcerative Colitis
+## Crohn's disease or ulcerative colitis
 
 -  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 -  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
@@ -4216,12 +4338,12 @@ Your doctor will decide how much Stelara you need to use and for how long.
 -  If you weigh more than 100 kg, the recommended dose is 90 mg Stelara.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
-## Children who weigh less than 40 kg Crohn's disease
+## Children who weigh less than 40 kg Crohn's disease and ulcerative colitis
 
 -  During treatment, your doctor will work out the recommended intravenous infusion dose for you based on your body surface area (BSA). This will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 -  In some patients, after the first injection under the skin, Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
-## Children who weigh at least 40 kg Crohn's disease
+## Children who weigh at least 40 kg Crohn's disease and ulcerative colitis
 
 -  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will
 
@@ -4229,7 +4351,7 @@ Your doctor will decide how much Stelara you need to use and for how long.
 
 receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 
-In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
+-  In some patients, 90 mg Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
 ## How Stelara is given
 
@@ -4277,10 +4399,10 @@ If you have a serious allergic reaction, your doctor may decide that you should 
 
 -  Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
 -  Infections of the chest are uncommon (may affect up to 1 in 100 people)
+-  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
 
 <div style=\"page-break-after: always\"></div>
 
--  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
 -  Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
 
 Stelara may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
@@ -4301,7 +4423,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 ## Other side effects
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people) :
 
 -  Diarrhoea
 -  Nausea
@@ -4315,7 +4437,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-## Uncommon side effects (may affect up to 1 in 100 people) :
+Uncommon side effects (may affect up to 1 in 100 people) :
 
 -  Tooth infections
 -  Vaginal yeast infection
@@ -4324,12 +4446,11 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Bleeding, bruising, hardness, swelling and itching where the injection is given
 -  Feeling weak
 -  Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
-
-<div style=\"page-break-after: always\"></div>
-
 -  A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
 -  Peeling of the skin (skin exfoliation)
 -  Acne
+
+<div style=\"page-break-after: always\"></div>
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
@@ -4348,7 +4469,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 ## 5. How to store Stelara
 
 -  Keep this medicine out of the sight and reach of children.
--  Store in a refrigerator (2°C-8°C). Do not freeze.
+-  Store in a refrigerator (2 °C-8 °C). Do not freeze.
 -  Keep the vial in the outer carton in order to protect from light.
 -  Do not shake the vials. Prolonged vigorous shaking may damage the medicine.
 
@@ -4371,15 +4492,15 @@ Stelara is for single use only. Any unused product remaining in the vial and the
 
 ## What Stelara looks like and contents of the pack
 
-Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution
+Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 2 mL vial. Each vial contains 45 mg ustekinumab in 0.5 mL of solution for injection.
 
 <div style=\"page-break-after: always\"></div>
 
-for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 2 mL vial. Each vial contains 45 mg ustekinumab in 0.5 mL of solution for injection.
-
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV
+
+Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
@@ -4389,9 +4510,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: 0800 93 377
-
-info\\_belux@its.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## България
 
@@ -4405,11 +4524,7 @@ Tel: +420 227 012 227
 
 ## Danmark
 
-Janssen-Cilag A/S
-
-Tlf.: +45 4594 8282
-
-jacdk@its.jnj.com
+Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
@@ -4421,13 +4536,21 @@ UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
 
 ## Ελλάδα
 
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε.
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
 
-Tηλ: +30 210 80 90 000
+## España
+
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
 
 ## Lietuva
 
-UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88
+
+lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
@@ -4435,9 +4558,7 @@ Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
 
 ## Malta
 
@@ -4463,21 +4584,13 @@ Janssen-Cilag Pharma GmbH
 
 Tel: +43 1 610 300
 
-<div style=\"page-break-after: always\"></div>
-
-## España
-
 ## Polska
-
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
 
 Janssen-Cilag Polska Sp. z o.o.
 
 Tel.: +48 22 237 60 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## France
 
@@ -4487,25 +4600,11 @@ Tél: 0 800 25 50 75 / +33 1 55 00 40 03
 
 medisource@its.jnj.com
 
-## Portugal
-
-Janssen-Cilag Farmacêutica, Lda.
-
-Tel: +351 214 368 600
-
 ## Hrvatska
 
-Johnson &amp; Johnson S.E. d.o.o.
-
-Tel: +385 1 6610 700
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
 
 jjsafety@JNJCR.JNJ.com
-
-## România
-
-Johnson &amp; Johnson România SRL
-
-Tel: +40 21 207 1800
 
 ## Ireland
 
@@ -4514,14 +4613,6 @@ Janssen Sciences Ireland UC
 Tel: 1 800 709 122
 
 medinfo@its.jnj.com
-
-## Slovenija
-
-Johnson &amp; Johnson d.o.o.
-
-Tel: +386 1 401 18 00
-
-JNJ-SI-safety@its.jnj.com
 
 ## Ísland
 
@@ -4533,12 +4624,6 @@ Sími: +354 535 7000
 
 janssen@vistor.is
 
-## Slovenská republika
-
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
-
 ## Italia
 
 Janssen-Cilag SpA
@@ -4546,6 +4631,48 @@ Janssen-Cilag SpA
 Tel: 800.688.777 / +39 02 2510 1
 
 janssenita@its.jnj.com
+
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ
+
+Tηλ: +357 22 207 700
+
+## Latvija
+
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+
+Tel: +371 678 93561 lv@its.jnj.com
+
+## This leaflet was last revised in .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Portugal
+
+Janssen-Cilag Farmacêutica, Lda.
+
+Tel: +351 214 368 600
+
+## România
+
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
+
+## Slovenija
+
+Johnson &amp; Johnson d.o.o.
+
+Tel: +386 1 401 18 00
+
+JNJ-SI-safety@its.jnj.com
+
+## Slovenská republika
+
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
 
 ## Suomi/Finland
 
@@ -4555,33 +4682,15 @@ Puh/Tel: +358 207 531 300
 
 jacfi@its.jnj.com
 
-## Κύπρος
-
-Βαρνάβας Χατζηπαναγής Λτδ
-
-Tηλ: +357 22 207 700
-
 ## Sverige
 
 Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
-
-## Latvija
-
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
-
-Tel: +371 678 93561
-
-lv@its.jnj.com
-
-## This leaflet was last revised in .
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Instructions for administration
 
-At the start of treatment, your healthcare provider will assist you with your first injection. However, you and your doctor may decide that you may inject Stelara yourself. If this happens, you will get training on how to inject Stelara. Talk to your doctor if you have any questions about giving yourself an injection. BIOHAZARD
+At the start of treatment, your healthcare provider will assist you with your first injection. However, you and your doctor may decide that you may inject Stelara yourself. If this happens, you will get training on how to inject Stelara. Talk to your doctor if you have any questions about giving yourself an injection.
 
 -  Do not mix Stelara with other liquids for injection
 -  Do not shake Stelara vials. This is because strong shaking may damage the medicine. Do not use the medicine if it has been shaken strongly.
@@ -4590,11 +4699,11 @@ At the start of treatment, your healthcare provider will assist you with your fi
 
 Take the vial(s) out of the refrigerator. Let the vial stand for about half an hour. This will let the liquid come to a comfortable temperature for injection (room temperature).
 
-Check the vial(s) to make sure:
+Check the vial(s) to make sure
 
 -  the number of vials and strength is correct
 - o If your dose is 45 mg or less, you will get one 45 mg vial of Stelara
-- o If your dose is more than 45 mg you will get two 45 mg vials of Stelara and you will need to give yourself two injections. Choose two different sites for these injections (for example one injection in the right thigh and the other injection in the left thigh), and give the injections one right after the other. Use a new needle and syringe for each injection.
+- o If your dose is more than 45 mg you will get two 45 mg vials of Stelara and you will need to give yourself two injections. Choose two different sites for these injections (e.g. one injection in the right thigh and the other injection in the left thigh), and give the injections one right after the other. Use a new needle and syringe for each injection.
 -  it is the right medicine
 -  it has not passed its expiry date
 -  the vial is not damaged and the seal is not broken
@@ -4602,7 +4711,7 @@ Check the vial(s) to make sure:
 -  the solution is not discoloured or cloudy and does not contain any foreign particles
 -  the solution is not frozen.
 
-Children with plaque psoriasis weighing less than 60 kg need a dose lower than 45 mg and children with Crohn's disease weighing less than 40 kg need a dose less than 90 mg. Make sure you know the proper amount (volume) to remove from the vial (s) and type of syringe (s) needed for dosing. If you don't know the amount or type of syringe (s) needed, contact your healthcare provider for further instruction.
+Children with plaque psoriasis weighing less than 60 kg need a dose lower than 45 mg and children with Crohn's disease or ulcerative colitis weighing less than 40 kg need a dose less than 90 mg. Make sure you know the proper amount (volume) to remove from the vial(s) and type of syringe(s) needed for dosing. If you don't know the amount or type of syringe needed, contact your healthcare provider for further instruction.
 
 Get everything together that you need and lay out on a clean surface. This includes a syringe, needle, antiseptic wipes, a cotton ball or gauze, and a sharps container (see Figure 1).
 
@@ -4689,9 +4798,7 @@ Figure 4
 
 <div style=\"page-break-after: always\"></div>
 
-## STELARA 45 mg solution for injection in pre-filled syringe
-
-## ustekinumab
+## STELARA 45 mg solution for injection in pre-filled syringe ustekinumab
 
 Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -4726,7 +4833,7 @@ Stelara is used to treat the following inflammatory diseases:
 -  Plaque psoriasis - in adults and children aged 6 years and older
 -  Psoriatic arthritis - in adults
 -  Moderate to severe Crohn's disease - in adults and children aged 2 years and older
--  Moderate to severe ulcerative colitis - in adults
+-  Moderate to severe ulcerative colitis - in adults and children aged 2 years and older
 
 ## Plaque psoriasis
 
@@ -4798,7 +4905,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Stelara is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease under 2 years of age or for use in children under 18 years of age with psoriatic arthritis, or ulcerative colitis because it has not been studied in these age groups.
+Stelara is not recommended for use in children with psoriasis under 6 years of age, children under 2 years of age with Crohn's disease or ulcerative colitis, or for use in children under 18 years of age with psoriatic arthritis, because it has not been studied in these age groups.
 
 ## Other medicines, vaccines and Stelara
 
@@ -4837,12 +4944,12 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Stelara you need to use and for how long.
 
-## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older Psoriasis or psoriatic arthritis
 
 -  The recommended starting dose is 45 mg Stelara. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
 
-## Crohn's disease or Ulcerative Colitis
+## Crohn's disease or ulcerative colitis
 
 -  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 -  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
@@ -4856,705 +4963,17 @@ Your doctor will decide how much Stelara you need to use and for how long.
 -  If you weigh more than 100 kg, the recommended dose is 90 mg Stelara.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
-## Children who weigh less than 40 kg Crohn's disease
+## Children who weigh less than 40 kg Crohn's disease and ulcerative colitis
 
 -  During treatment, your doctor will work out the recommended intravenous infusion dose for you based on your body surface area (BSA). This will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 -  In some patients, after the first injection under the skin, Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
 <div style=\"page-break-after: always\"></div>
 
-## Children who weigh at least 40 kg Crohn's disease
+## Children who weigh at least 40 kg Crohn's disease and ulcerative colitis
 
 -  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 -  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
-
-## How Stelara is given
-
--  Stelara is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Stelara.
--  However, you and your doctor may decide that you may inject Stelara yourself. In this case you will get training on how to inject Stelara yourself.
--  For instructions on how to inject Stelara, see 'Instructions for administration' at the end of this leaflet.
-
-Talk to your doctor if you have any questions about giving yourself an injection.
-
-## If you use more Stelara than you should
-
-If you have used or been given too much Stelara, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
-
-## If you forget to use Stelara
-
-If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a forgotten dose.
-
-## If you stop using Stelara
-
-It is not dangerous to stop using Stelara. However, if you stop, your symptoms may come back.
-
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-## Serious side effects
-
-Some patients may have serious side effects that may need urgent treatment.
-
-## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
-
--  Serious allergic reactions ('anaphylaxis') are rare in people taking Stelara (may affect up to 1 in 1,000 people). Signs include:
-- o difficulty breathing or swallowing
-- o low blood pressure, which can cause dizziness or light-headedness
-- o swelling of the face, lips, mouth or throat.
--  Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
-
-In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
-
-If you have a serious allergic reaction, your doctor may decide that you should not use Stelara again.
-
-<div style=\"page-break-after: always\"></div>
-
-## Infections - these may need urgent treatment. Tell your doctor straight away if you notice any of the following signs.
-
--  Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
--  Infections of the chest are uncommon (may affect up to 1 in 100 people)
--  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
--  Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
-
-Stelara may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
-
-You must look out for signs of infection while you are using Stelara. These include:
-
--  fever, flu-like symptoms, night sweats, weight loss
--  feeling tired or short of breath; cough which will not go away
--  warm, red and painful skin, or a painful skin rash with blisters
--  burning when passing water
--  diarrhoea
--  visual disturbance or vision loss
--  headache, neck stiffness, light sensitivity, nausea or confusion.
-
-Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Stelara until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
-
-Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
-
-## Other side effects
-
-Common side effects (may affect up to 1 in 10 people) :
-
--  Diarrhoea
--  Nausea
--  Vomiting
--  Feeling tired
--  Feeling dizzy
--  Headache
--  Itching ('pruritus')
--  Back, muscle or joint pain
--  Sore throat
--  Redness and pain where the injection is given
--  Sinus infection
-
-Uncommon side effects (may affect up to 1 in 100 people) :
-
--  Tooth infections
--  Vaginal yeast infection
--  Depression
-
-<div style=\"page-break-after: always\"></div>
-
--  Blocked or stuffy nose
--  Bleeding, bruising, hardness, swelling and itching where the injection is given
--  Feeling weak
--  Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
--  A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
--  Peeling of the skin (skin exfoliation)
--  Acne
-
-## Rare side effects (may affect up to 1 in 1,000 people)
-
--  Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
--  Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
-
-## Very rare side effects (may affect up to 1 in 10,000 people)
-
--  Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
--  Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## 5. How to store Stelara
-
--  Keep this medicine out of the sight and reach of children.
--  Store in a refrigerator (2°C-8°C). Do not freeze.
--  Keep the pre-filled syringe in the outer carton in order to protect from light.
--  If needed, individual Stelara pre-filled syringes may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
--  Do not shake the pre-filled syringes. Prolonged vigorous shaking may damage the medicine.
-
-## Do not use this medicine:
-
--  After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
--  If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Stelara looks like and contents of the pack').
--  If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
--  If the product has been shaken vigorously.
-
-Stelara is for single use only. Any unused product remaining in the syringe should be thrown away. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
-
-## 6. Contents of the pack and other information
-
-## What Stelara contains
-
--  The active substance is ustekinumab. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL.
--  The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E433), sucrose and water for injections.
-
-## What Stelara looks like and contents of the pack
-
-Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL of solution for injection.
-
-## Marketing Authorisation Holder
-
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
-
-## Manufacturer
-
-Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Janssen-Cilag NV Tel/Tél: 0800 93 377
-
-info\\_belux@its.jnj.com
-
-## България
-
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00
-
-jjsafety@its.jnj.com
-
-## Česká republika
-
-Janssen-Cilag s.r.o.
-
-Tel: +420 227 012 227
-
-## Danmark
-
-Janssen-Cilag A/S
-
-Tlf.: +45 4594 8282
-
-jacdk@its.jnj.com
-
-## Deutschland
-
-Janssen-Cilag GmbH
-
-Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
-
-## Lietuva
-
-UAB \"JOHNSON &amp; JOHNSON\"
-
-Tel: +370 5 278 68 88
-
-lt@its.jnj.com
-
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV
-
-Tél/Tel: 800 29 504
-
-info\\_belux@its.jnj.com
-
-## Magyarország
-
-Janssen-Cilag Kft.
-
-Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
-
-## Malta
-
-AM MANGION LTD
-
-Tel: +356 2397 6000
-
-## Nederland
-
-Janssen-Cilag B.V.
-
-Tel: 0800 242 42 42
-
-info\\_nl@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
-
-## Eesti
-
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
-
-Tel: +372 617 7410
-
-ee@its.jnj.com
-
-## Ελλάδα
-
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη
-
-Α.Ε.Β.Ε.
-
-Tηλ: +30 210 80 90 000
-
-## España
-
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
-
-## France
-
-Janssen-Cilag
-
-Tél: 0 800 25 50 75 / +33 1 55 00 40 03
-
-medisource@its.jnj.com
-
-## Hrvatska
-
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
-
-jjsafety@JNJCR.JNJ.com
-
-## Ireland
-
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
-
-## Ísland
-
-Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
-
-## Italia
-
-Janssen-Cilag SpA
-
-Tel: 800.688.777 / +39 02 2510 1
-
-janssenita@its.jnj.com
-
-## Κύπρος
-
-Βαρνάβας Χατζηπαναγής Λτδ
-
-Tηλ: +357 22 207 700
-
-## Latvija
-
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
-
-Tel: +371 678 93561
-
-lv@its.jnj.com
-
-## This leaflet was last revised in .
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Norge
-
-Janssen-Cilag AS
-
-Tlf: +47 24 12 65 00
-
-jacno@its.jnj.com
-
-## Österreich
-
-Janssen-Cilag Pharma GmbH
-
-Tel: +43 1 610 300
-
-## Polska
-
-Janssen-Cilag Polska Sp. z o.o.
-
-Tel.: +48 22 237 60 00
-
-## Portugal
-
-Janssen-Cilag Farmacêutica, Lda.
-
-Tel: +351 214 368 600
-
-## România
-
-Johnson &amp; Johnson România SRL
-
-Tel: +40 21 207 1800
-
-## Slovenija
-
-Johnson &amp; Johnson d.o.o.
-
-Tel: +386 1 401 18 00
-
-JNJ-SI-safety@its.jnj.com
-
-## Slovenská republika
-
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
-
-## Suomi/Finland
-
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
-
-## Sverige
-
-Janssen-Cilag AB
-
-Tfn: +46 8 626 50 00
-
-jacse@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
-
-PLUNGER
-
-PLUNGER
-
-HEAD
-
-NEEDLE GUARD
-
-ACTIVATION CLIPS
-
-BODY
-
-VIEWING
-
-WINDOW
-
-*
-
-## Instructions for administration
-
-At the start of treatment, your healthcare provider will assist you with your first injection. However, you and your doctor may decide that you may inject Stelara yourself. If this happens, you will get training on how to inject Stelara. Talk to your doctor if you have any questions about giving yourself an injection.
-
--  Do not mix Stelara with other liquids for injection
--  Do not shake Stelara pre-filled syringes. This is because strong shaking may damage the medicine. Do not use the medicine if it has been shaken strongly.
-
-Figure 1 shows what the pre-filled syringe looks like.
-
-Figure 1
-
-<!-- image -->
-
-## 1. Check the number of pre-filled syringes and prepare the materials:
-
-Preparing for use of the pre-filled syringe
-
--  Take the pre-filled syringe(s) out of the refrigerator. Let the pre-filled syringe stand outside the box for about half an hour. This will let the liquid come to a comfortable temperature for injection (room temperature). Do not remove the syringe's needle cover while allowing it to reach room temperature
--  Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward
--  Do not hold by the plunger head, plunger, needle guard wings, or needle cover
--  Do not pull back on the plunger at any time
--  Do not remove the needle cover from the pre-filled syringe until instructed to do so
--  Do not touch the needle guard activation clips (as indicated by asterisks * in Figure 1) to prevent prematurely covering the needle with the needle guard.
-
-## Check the pre-filled syringe(s) to make sure
-
--  the number of pre-filled syringes and strength is correct
-- o If your dose is 45 mg you will get one 45 mg pre-filled syringe of Stelara
-- o If your dose is 90 mg you will get two 45 mg pre-filled syringes of Stelara and you will need to give yourself two injections. Choose two different sites for these injections (e.g. one injection in the right thigh and the other injection in the left thigh), and give the injections one right after the other.
--  it is the right medicine
--  it has not passed its expiry date
--  the pre-filled syringe is not damaged
--  the solution in the pre-filled syringe is clear to slightly opalescent (having a pearl-like shine) and colourless to light yellow
--  the solution in the pre-filled syringe is not discoloured or cloudy and does not contain any foreign particles
--  the solution in the pre-filled syringe is not frozen.
-
-NEEDLE
-
-COVER
-
-<div style=\"page-break-after: always\"></div>
-
-Get everything together that you need and lay out on a clean surface. This includes antiseptic wipes, a cotton ball or gauze, and a sharps container.
-
-## 2. Choose and prepare the injection site:
-
-Choose an injection site (see Figure 2)
-
--  Stelara is given by injection under the skin (subcutaneously)
--  Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
--  If possible, do not use areas of skin that show signs of psoriasis
--  If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site
-
-*Areas in gray are recommended injection sites.
-
-<!-- image -->
-
-Figure 2
-
-## Prepare the injection site
-
--  Wash your hands very well with soap and warm water
--  Wipe the injection site on the skin with an antiseptic wipe
--  Do not touch this area again before giving the injection
-
-## 3. Remove the needle cover (see Figure 3):
-
--  The needle cover should not be removed until you are ready to inject the dose
--  Pick up the pre-filled syringe, hold the body of the syringe with one hand
--  Pull the needle cover straight off and throw it away. Do not touch the plunger while you do this
--  You may notice an air bubble in the pre-filled syringe or a drop of liquid at the end of the needle. These are both normal and do not need to be removed
--  Do not touch the needle or allow it to touch any surface
--  Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist
--  Inject the dose promptly after removing the needle cover.
-
-Figure 3
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-05 2023
-
-## 4. Inject the dose:
-
--  Hold the pre-filled syringe with one hand between the middle and index fingers and place the thumb on top of the plunger head and use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly
--  Do not pull back on the plunger at any time
--  In a single and swift motion, insert the needle through the skin as far as it will go (see Figure 4) Fioure 6
--  Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 5)
--  When the plunger is pushed as far as it will go, continue to keep the pressure on the plunger head, take out the needle and let go of the skin (see Figure 6)
--  Slowly take your thumb off the plunger head to allow the empty syringe to move up until the entire needle is covered by the needle guard, as shown by Figure 7:
-
-Figure 4
-
-<!-- image -->
-
-Figure 5
-
-<!-- image -->
-
-Figure 6
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-BIOHAZARD
-
-## 5. After the injection:
-
--  There may be a small amount of blood or liquid at the injection site. This is normal.
--  Press a cotton ball or gauze over the injection site and hold for 10 seconds.
--  Do not rub the skin at the injection site. You may cover the injection site with a small adhesive bandage, if necessary.
-
-## 6. Disposal:
-
--  Used syringes should be placed in a puncture-resistant container, like a sharps container (see Figure 8). Never re-use a syringe, for your safety and health and for the safety of others. Dispose of your sharps container according to your local regulations
--  Antiseptic wipes and other supplies can be disposed of in your garbage.
-
-Figure 8
-
-<!-- image -->
-
-Figure 7
-
-<!-- image -->
-
-## Package leaflet: Information for the user
-
-<div style=\"page-break-after: always\"></div>
-
-## STELARA 90 mg solution for injection in pre-filled syringe
-
-## ustekinumab
-
-Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
-
-This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Stelara to a child, please read this information carefully.
-
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Stelara is and what it is used for
-2. What you need to know before you use Stelara
-3. How to use Stelara
-4. Possible side effects
-5. How to store Stelara
-6. Contents of the pack and other information
-
-## 1. What Stelara is and what it is used for
-
-## What Stelara is
-
-Stelara contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
-
-Stelara belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
-
-## What Stelara is used for
-
-Stelara is used to treat the following inflammatory diseases:
-
--  Plaque psoriasis - in adults and children aged 6 years and older
--  Psoriatic arthritis - in adults
--  Moderate to severe Crohn's disease - in adults and children aged 2 years and older
--  Moderate to severe ulcerative colitis - in adults
-
-## Plaque psoriasis
-
-Plaque psoriasis is a skin condition that causes inflammation affecting the skin and nails. Stelara will reduce the inflammation and other signs of the disease.
-
-Stelara is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
-
-Stelara is used in children and adolescents aged 6 years and older with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
-
-<div style=\"page-break-after: always\"></div>
-
-## Psoriatic arthritis
-
-Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given Stelara to:
-
--  Reduce the signs and symptoms of your disease.
--  Improve your physical function.
--  Slow down the damage to your joints.
-
-## Crohn's disease
-
-Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Stelara to reduce the signs and symptoms of your disease.
-
-## Ulcerative colitis
-
-Ulcerative colitis is an inflammatory disease of the bowel. If you have ulcerative colitis you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Stelara to reduce the signs and symptoms of your disease.
-
-## 2. What you need to know before you use Stelara
-
-## Do not use Stelara
-
--  If you are allergic to ustekinumab or any of the other ingredients of this medicine (listed in section 6).
--  If you have an active infection which your doctor thinks is important.
-
-If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
-
-## Warnings and precautions
-
-Talk to your doctor or pharmacist before using Stelara. Your doctor will check how well you are before each treatment. Make sure you tell your doctor about any illness you have before each treatment. Also tell your doctor if you have recently been near anyone who might have tuberculosis. Your doctor will examine you and do a test for tuberculosis, before you have Stelara. If your doctor thinks you are at risk of tuberculosis, you may be given medicines to treat it.
-
-## Look out for serious side effects
-
-Stelara can cause serious side effects, including allergic reactions and infections. You must look out for certain signs of illness while you are taking Stelara. See 'Serious side effects' in section 4 for a full list of these side effects.
-
-## Before you use Stelara tell your doctor:
-
--  If you ever had an allergic reaction to Stelara. Ask your doctor if you are not sure.
--  If you have ever had any type of cancer - this is because immunosuppressants like Stelara weaken part of the immune system. This may increase the risk of cancer.
--  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
--  If you have or have had a recent infection.
--  If you have any new or changing lesions within psoriasis areas or on normal skin.
--  If you have ever had an allergic reaction to latex or Stelara injection - the container of this medicinal product contains latex rubber, which may cause severe allergic reactions in people who are sensitive to latex. See 'Look out for serious side effects' in section 4 for the signs of an allergic reaction.
--  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using
-
-<div style=\"page-break-after: always\"></div>
-
-these therapies together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
-
--  If you are having or have ever had injections to treat allergies - it is not known if Stelara may affect these.
--  If you are 65 years of age or over - you may be more likely to get infections.
-
-If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
-
-Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
-
-## Heart attack and strokes
-
-Heart attack and strokes have been observed in a study in patients with psoriasis treated with Stelara. Your doctor will regularly check your risk factors for heart disease and stroke in order to ensure that they are appropriately treated. Seek medical attention right away if you develop chest pain, weakness or abnormal sensation on one side of your body, facial droop, or speech or visual abnormalities.
-
-## Children and adolescents
-
-Stelara is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease under 2 years of age or for use in children under 18 years of age with psoriatic arthritis, or ulcerative colitis because it has not been studied in these age groups.
-
-## Other medicines, vaccines and Stelara
-
-Tell your doctor or pharmacist:
-
--  If you are taking, have recently taken or might take any other medicines.
--  If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Stelara.
--  If you received Stelara while pregnant, tell your baby's doctor about your Stelara treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
-
-## Pregnancy and breast-feeding
-
--  If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
--  A higher risk of birth defects has not been seen in babies exposed to Stelara in the womb. However, there is limited experience with Stelara in pregnant women. It is therefore preferable to avoid the use of Stelara in pregnancy.
--  If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and must use adequate contraception while using Stelara and for at least 15 weeks after the last Stelara treatment.
--  Stelara can pass across the placenta to the unborn baby. If you received Stelara during your pregnancy, your baby may have a higher risk for getting an infection.
--  It is important that you tell your baby's doctors and other health care professionals if you received Stelara during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
--  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Stelara -do not do both.
-
-<div style=\"page-break-after: always\"></div>
-
-## Driving and using machines
-
-Stelara has no or negligible influence on the ability to drive and use machines.
-
-## Stelara contains polysorbate 80
-
-Stelara contains 0.04 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
-
-## 3. How to use Stelara
-
-Stelara is intended for use under the guidance and supervision of a doctor experienced in treating conditions for which Stelara is intended.
-
-Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure. Talk to your doctor about when you will have your injections and follow-up appointments.
-
-## How much Stelara is given
-
-Your doctor will decide how much Stelara you need to use and for how long.
-
-## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
-
--  The recommended starting dose is 45 mg Stelara. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
--  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
-
-## Crohn's disease or Ulcerative Colitis
-
--  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
--  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
-
-## Children and adolescents aged 6 years or older Psoriasis
-
--  The doctor will work out the right dose for you, including the amount (volume) of Stelara to be injected to give the right dose. The right dose for you will depend on your body weight at the time each dose is given.
--  A 45 mg vial is available for children who need to receive less than the full 45 mg dose.
--  If you weigh less than 60 kg, the recommended dose is 0.75 mg of Stelara per kg body weight.
--  If you weigh 60 kg to 100 kg, the recommended dose is 45 mg Stelara.
--  If you weigh more than 100 kg, the recommended dose is 90 mg Stelara.
--  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
-
-## Children who weigh less than 40 kg Crohn's disease
-
--  During treatment, your doctor will work out the recommended intravenous infusion for you based on your body surface area (BSA). This will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
--  In some patients, after the first injection under the skin, Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
-
-<div style=\"page-break-after: always\"></div>
-
-## Children who weigh at least 40 kg Crohn's disease
-
--  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
-
-In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
 ## How Stelara is given
 
@@ -5639,17 +5058,17 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-## Uncommon side effects (may affect up to 1 in 100 people) :
+Uncommon side effects (may affect up to 1 in 100 people) :
 
 -  Tooth infections
 -  Vaginal yeast infection
 -  Depression
-
-<div style=\"page-break-after: always\"></div>
-
 -  Blocked or stuffy nose
 -  Bleeding, bruising, hardness, swelling and itching where the injection is given
 -  Feeling weak
+
+<div style=\"page-break-after: always\"></div>
+
 -  Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
 -  A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
 -  Peeling of the skin (skin exfoliation)
@@ -5672,9 +5091,9 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 ## 5. How to store Stelara
 
 -  Keep this medicine out of the sight and reach of children.
--  Store in a refrigerator (2°C-8°C). Do not freeze.
+-  Store in a refrigerator (2 °C-8 °C). Do not freeze.
 -  Keep the pre-filled syringe in the outer carton in order to protect from light.
--  If needed, individual Stelara pre-filled syringes may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+-  If needed, individual Stelara pre-filled syringes may also be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 -  Do not shake the pre-filled syringes. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
@@ -5692,18 +5111,16 @@ Stelara is for single use only. Any unused product remaining in the syringe shou
 
 ## What Stelara contains
 
--  The active substance is ustekinumab. Each pre-filled syringe contains 90 mg ustekinumab in 1 mL.
+-  The active substance is ustekinumab. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL.
 -  The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E433), sucrose and water for injections.
 
 ## What Stelara looks like and contents of the pack
 
-Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 90 mg ustekinumab in 1 mL of solution for injection.
+Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL of solution for injection.
 
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
@@ -5713,33 +5130,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: 0800 93 377
-
-info\\_belux@its.jnj.com
-
-## България
-
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
-
-## Česká republika
-
-Janssen-Cilag s.r.o.
-
-Tel: +420 227 012 227
-
-## Danmark
-
-Janssen-Cilag A/S
-
-Tlf.: +45 4594 8282
-
-jacdk@its.jnj.com
-
-## Deutschland
-
-Janssen-Cilag GmbH
-
-Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## Lietuva
 
@@ -5749,6 +5140,10 @@ Tel: +370 5 278 68 88
 
 lt@its.jnj.com
 
+## България
+
+'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+
 ## Luxembourg/Luxemburg
 
 Janssen-Cilag NV
@@ -5756,6 +5151,12 @@ Janssen-Cilag NV
 Tél/Tel: 800 29 504
 
 info\\_belux@its.jnj.com
+
+## Česká republika
+
+Janssen-Cilag s.r.o.
+
+Tel: +420 227 012 227
 
 ## Magyarország
 
@@ -5765,11 +5166,23 @@ Tel.: +36 1 884 2858
 
 janssenhu@its.jnj.com
 
+## Danmark
+
+Janssen-Cilag A/S
+
+Tlf.: +45 4594 8282
+
+jacdk@its.jnj.com
+
 ## Malta
 
 AM MANGION LTD
 
 Tel: +356 2397 6000
+
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Nederland
 
@@ -5913,19 +5326,652 @@ jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
-PLUNGER
+## Instructions for administration
 
-PLUNGER
+At the start of treatment, your healthcare provider will assist you with your first injection. However, you and your doctor may decide that you may inject Stelara yourself. If this happens, you will get training on how to inject Stelara. Talk to your doctor if you have any questions about giving yourself an injection.
 
-HEAD
+-  Do not mix Stelara with other liquids for injection
+-  Do not shake Stelara pre-filled syringes. This is because strong shaking may damage the medicine. Do not use the medicine if it has been shaken strongly.
 
-NEEDLE GUARD
+Figure 1 shows what the pre-filled syringe looks like.
 
-VIEWING
+Figure 1
 
-ACTIVATION CLIPS
+<!-- image -->
 
-WINDOW
+## 1. Check the number of pre-filled syringes and prepare the materials:
+
+Preparing for use of the pre-filled syringe
+
+-  Take the pre-filled syringe(s) out of the refrigerator. Let the pre-filled syringe stand outside the box for about half an hour. This will let the liquid come to a comfortable temperature for injection (room temperature). Do not remove the syringe's needle cover while allowing it to reach room temperature
+-  Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward
+-  Do not hold by the plunger head, plunger, needle guard wings, or needle cover
+-  Do not pull back on the plunger at any time
+-  Do not remove the needle cover from the pre-filled syringe until instructed to do so
+-  Do not touch the needle guard activation clips (as indicated by asterisks * in Figure 1) to prevent prematurely covering the needle with the needle guard.
+
+## Check the pre-filled syringe(s) to make sure
+
+-  the number of pre-filled syringes and strength is correct
+- o If your dose is 45 mg you will get one 45 mg pre-filled syringe of Stelara
+- o If your dose is 90 mg you will get two 45 mg pre-filled syringes of Stelara and you will need to give yourself two injections. Choose two different sites for these injections (e.g. one injection in the right thigh and the other injection in the left thigh), and give the injections one right after the other.
+-  it is the right medicine
+-  it has not passed its expiry date
+-  the pre-filled syringe is not damaged
+-  the solution in the pre-filled syringe is clear to slightly opalescent (having a pearl-like shine) and colourless to light yellow
+-  the solution in the pre-filled syringe is not discoloured or cloudy and does not contain any foreign particles
+-  the solution in the pre-filled syringe is not frozen.
+
+<div style=\"page-break-after: always\"></div>
+
+Get everything together that you need and lay out on a clean surface. This includes antiseptic wipes, a cotton ball or gauze, and a sharps container.
+
+## 2. Choose and prepare the injection site:
+
+Choose an injection site (see Figure 2)
+
+-  Stelara is given by injection under the skin (subcutaneously)
+-  Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
+-  If possible, do not use areas of skin that show signs of psoriasis
+-  If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site
+
+*Areas in gray are recommended injection sites.
+
+<!-- image -->
+
+Figure 2
+
+## Prepare the injection site
+
+-  Wash your hands very well with soap and warm water
+-  Wipe the injection site on the skin with an antiseptic wipe
+-  Do not touch this area again before giving the injection
+
+## 3. Remove the needle cover (see Figure 3):
+
+-  The needle cover should not be removed until you are ready to inject the dose
+-  Pick up the pre-filled syringe, hold the body of the syringe with one hand
+-  Pull the needle cover straight off and throw it away. Do not touch the plunger while you do this
+-  You may notice an air bubble in the pre-filled syringe or a drop of liquid at the end of the needle. These are both normal and do not need to be removed
+-  Do not touch the needle or allow it to touch any surface
+-  Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist
+-  Inject the dose promptly after removing the needle cover.
+
+Figure 3
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 4. Inject the dose:
+
+-  Hold the pre-filled syringe with one hand between the middle and index fingers and place the thumb on top of the plunger head and use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly
+-  Do not pull back on the plunger at any time
+-  In a single and swift motion, insert the needle through the skin as far as it will go (see Figure 4)
+-  Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 5)
+-  When the plunger is pushed as far as it will go, continue to keep the pressure on the plunger head, take out the needle and let go of the skin (see Figure 6)
+-  Slowly take your thumb off the plunger head to allow the empty syringe to move up until the entire needle is covered by the needle guard, as shown by Figure 7:
+
+Figure 4
+
+<!-- image -->
+
+Figure 5
+
+<!-- image -->
+
+Figure 6
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 5. After the injection:
+
+-  There may be a small amount of blood or liquid at the injection site. This is normal.
+-  Press a cotton ball or gauze over the injection site and hold for 10 seconds.
+-  Do not rub the skin at the injection site. You may cover the injection site with a small adhesive bandage, if necessary.
+
+## 6. Disposal:
+
+-  Used syringes should be placed in a puncture-resistant container, like a sharps container (see Figure 8). Never re-use a syringe, for your safety and health and for the safety of others. Dispose of your sharps container according to your local regulations
+-  Antiseptic wipes and other supplies can be disposed of in your garbage.
+
+Figure 8
+
+<!-- image -->
+
+Figure 7
+
+<!-- image -->
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## STELARA 90 mg solution for injection in pre-filled syringe ustekinumab
+
+Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Stelara to a child, please read this information carefully.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor or pharmacist.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Stelara is and what it is used for
+2. What you need to know before you use Stelara
+3. How to use Stelara
+4. Possible side effects
+5. How to store Stelara
+6. Contents of the pack and other information
+
+## 1. What Stelara is and what it is used for
+
+## What Stelara is
+
+Stelara contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
+
+Stelara belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
+
+## What Stelara is used for
+
+Stelara is used to treat the following inflammatory diseases:
+
+-  Plaque psoriasis - in adults and children aged 6 years and older
+-  Psoriatic arthritis - in adults
+-  Moderate to severe Crohn's disease - in adults and children aged 2 years and older
+-  Moderate to severe ulcerative colitis - in adults and children aged 2 years and older
+
+## Plaque psoriasis
+
+Plaque psoriasis is a skin condition that causes inflammation affecting the skin and nails. Stelara will reduce the inflammation and other signs of the disease.
+
+Stelara is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
+
+Stelara is used in children and adolescents aged 6 years and older with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
+
+<div style=\"page-break-after: always\"></div>
+
+## Psoriatic arthritis
+
+Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given Stelara to:
+
+-  Reduce the signs and symptoms of your disease.
+-  Improve your physical function.
+-  Slow down the damage to your joints.
+
+## Crohn's disease
+
+Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Stelara to reduce the signs and symptoms of your disease.
+
+## Ulcerative colitis
+
+Ulcerative colitis is an inflammatory disease of the bowel. If you have ulcerative colitis you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Stelara to reduce the signs and symptoms of your disease.
+
+## 2. What you need to know before you use Stelara
+
+## Do not use Stelara
+
+-  If you are allergic to ustekinumab or any of the other ingredients of this medicine (listed in section 6).
+-  If you have an active infection which your doctor thinks is important.
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
+
+## Warnings and precautions
+
+Talk to your doctor or pharmacist before using Stelara. Your doctor will check how well you are before each treatment. Make sure you tell your doctor about any illness you have before each treatment. Also tell your doctor if you have recently been near anyone who might have tuberculosis. Your doctor will examine you and do a test for tuberculosis, before you have Stelara. If your doctor thinks you are at risk of tuberculosis, you may be given medicines to treat it.
+
+## Look out for serious side effects
+
+Stelara can cause serious side effects, including allergic reactions and infections. You must look out for certain signs of illness while you are taking Stelara. See 'Serious side effects' in section 4 for a full list of these side effects.
+
+## Before you use Stelara tell your doctor:
+
+-  If you ever had an allergic reaction to Stelara. Ask your doctor if you are not sure.
+-  If you have ever had any type of cancer - this is because immunosuppressants like Stelara weaken part of the immune system. This may increase the risk of cancer.
+-  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
+-  If you have or have had a recent infection.
+-  If you have any new or changing lesions within psoriasis areas or on normal skin.
+-  If you have ever had an allergic reaction to latex or Stelara injection - the container of this medicinal product contains latex rubber, which may cause severe allergic reactions in people who are sensitive to latex. See 'Look out for serious side effects' in section 4 for the signs of an allergic reaction.
+-  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using
+
+<div style=\"page-break-after: always\"></div>
+
+these therapies together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
+
+-  If you are having or have ever had injections to treat allergies - it is not known if Stelara may affect these.
+-  If you are 65 years of age or over - you may be more likely to get infections.
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
+
+Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
+
+## Heart attack and strokes
+
+Heart attack and strokes have been observed in a study in patients with psoriasis treated with Stelara. Your doctor will regularly check your risk factors for heart disease and stroke in order to ensure that they are appropriately treated. Seek medical attention right away if you develop chest pain, weakness or abnormal sensation on one side of your body, facial droop, or speech or visual abnormalities.
+
+## Children and adolescents
+
+Stelara is not recommended for use in children with psoriasis under 6 years of age, children under 2 years of age with Crohn's disease or ulcerative colitis, or for use in children under 18 years of age with psoriatic arthritis, because it has not been studied in these age groups.
+
+## Other medicines, vaccines and Stelara
+
+Tell your doctor or pharmacist:
+
+-  If you are taking, have recently taken or might take any other medicines.
+-  If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Stelara.
+-  If you received Stelara while pregnant, tell your baby's doctor about your Stelara treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
+
+## Pregnancy and breast-feeding
+
+-  If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
+-  A higher risk of birth defects has not been seen in babies exposed to Stelara in the womb. However, there is limited experience with Stelara in pregnant women. It is therefore preferable to avoid the use of Stelara in pregnancy.
+-  If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and must use adequate contraception while using Stelara and for at least 15 weeks after the last Stelara treatment.
+-  Stelara can pass across the placenta to the unborn baby. If you received Stelara during your pregnancy, your baby may have a higher risk for getting an infection.
+-  It is important that you tell your baby's doctors and other health care professionals if you received Stelara during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
+-  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Stelara - do not do both.
+
+<div style=\"page-break-after: always\"></div>
+
+## Driving and using machines
+
+Stelara has no or negligible influence on the ability to drive and use machines.
+
+## Stelara contains polysorbate 80
+
+Stelara contains 0.04 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How to use Stelara
+
+Stelara is intended for use under the guidance and supervision of a doctor experienced in treating conditions for which Stelara is intended.
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure. Talk to your doctor about when you will have your injections and follow-up appointments.
+
+## How much Stelara is given
+
+Your doctor will decide how much Stelara you need to use and for how long.
+
+## Adults aged 18 years or older Psoriasis or psoriatic arthritis
+
+-  The recommended starting dose is 45 mg Stelara. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
+-  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
+
+## Crohn's disease or ulcerative colitis
+
+-  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+-  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+
+## Children and adolescents aged 6 years or older Psoriasis
+
+-  The doctor will work out the right dose for you, including the amount (volume) of Stelara to be injected to give the right dose. The right dose for you will depend on your body weight at the time each dose is given.
+-  A 45 mg vial is available for children who need to receive less than the full 45 mg dose.
+-  If you weigh less than 60 kg, the recommended dose is 0.75 mg of Stelara per kg body weight.
+-  If you weigh 60 kg to 100 kg, the recommended dose is 45 mg Stelara.
+-  If you weigh more than 100 kg, the recommended dose is 90 mg Stelara.
+-  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
+
+## Children who weigh less than 40 kg Crohn's disease and ulcerative colitis
+
+-  During treatment, your doctor will work out the recommended intravenous infusion dose for you based on your body surface area (BSA). This will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+-  In some patients, after the first injection under the skin, Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
+
+<div style=\"page-break-after: always\"></div>
+
+## Children who weigh at least 40 kg Crohn's disease and ulcerative colitis
+
+-  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+-  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
+
+## How Stelara is given
+
+-  Stelara is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Stelara.
+-  However, you and your doctor may decide that you may inject Stelara yourself. In this case you will get training on how to inject Stelara yourself.
+-  For instructions on how to inject Stelara, see 'Instructions for administration' at the end of this leaflet.
+
+Talk to your doctor if you have any questions about giving yourself an injection.
+
+## If you use more Stelara than you should
+
+If you have used or been given too much Stelara, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
+
+## If you forget to use Stelara
+
+If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a forgotten dose.
+
+## If you stop using Stelara
+
+It is not dangerous to stop using Stelara. However, if you stop, your symptoms may come back.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Serious side effects
+
+Some patients may have serious side effects that may need urgent treatment.
+
+## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
+
+-  Serious allergic reactions ('anaphylaxis') are rare in people taking Stelara (may affect up to 1 in 1,000 people). Signs include:
+- o difficulty breathing or swallowing
+- o low blood pressure, which can cause dizziness or light-headedness
+- o swelling of the face, lips, mouth or throat.
+-  Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
+
+In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
+
+If you have a serious allergic reaction, your doctor may decide that you should not use Stelara again.
+
+<div style=\"page-break-after: always\"></div>
+
+## Infections - these may need urgent treatment. Tell your doctor straight away if you notice any of the following signs.
+
+-  Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
+-  Infections of the chest are uncommon (may affect up to 1 in 100 people)
+-  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
+-  Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
+
+Stelara may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
+
+You must look out for signs of infection while you are using Stelara. These include:
+
+-  fever, flu-like symptoms, night sweats, weight loss
+-  feeling tired or short of breath; cough which will not go away
+-  warm, red and painful skin, or a painful skin rash with blisters
+-  burning when passing water
+-  diarrhoea
+-  visual disturbance or vision loss
+-  headache, neck stiffness, light sensitivity, nausea or confusion.
+
+Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Stelara until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
+
+Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
+
+## Other side effects
+
+## Common side effects (may affect up to 1 in 10 people) :
+
+-  Diarrhoea
+-  Nausea
+-  Vomiting
+-  Feeling tired
+-  Feeling dizzy
+-  Headache
+-  Itching ('pruritus')
+-  Back, muscle or joint pain
+-  Sore throat
+-  Redness and pain where the injection is given
+-  Sinus infection
+
+Uncommon side effects (may affect up to 1 in 100 people) :
+
+-  Tooth infections
+-  Vaginal yeast infection
+-  Depression
+-  Blocked or stuffy nose
+-  Bleeding, bruising, hardness, swelling and itching where the injection is given
+-  Feeling weak
+
+<div style=\"page-break-after: always\"></div>
+
+-  Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
+-  A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
+-  Peeling of the skin (skin exfoliation)
+-  Acne
+
+## Rare side effects (may affect up to 1 in 1,000 people)
+
+-  Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
+-  Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
+
+## Very rare side effects (may affect up to 1 in 10,000 people)
+
+-  Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
+-  Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Stelara
+
+-  Keep this medicine out of the sight and reach of children.
+-  Store in a refrigerator (2 °C-8 °C). Do not freeze.
+-  Keep the pre-filled syringe in the outer carton in order to protect from light.
+-  If needed, individual Stelara pre-filled syringes may also be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+-  Do not shake the pre-filled syringes. Prolonged vigorous shaking may damage the medicine.
+
+## Do not use this medicine:
+
+-  After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
+-  If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Stelara looks like and contents of the pack').
+-  If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
+-  If the product has been shaken vigorously.
+
+Stelara is for single use only. Any unused product remaining in the syringe should be thrown away. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6. Contents of the pack and other information
+
+## What Stelara contains
+
+-  The active substance is ustekinumab. Each pre-filled syringe contains 90 mg ustekinumab in 1 mL.
+-  The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E433), sucrose and water for injections.
+
+## What Stelara looks like and contents of the pack
+
+Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 90 mg ustekinumab in 1 mL of solution for injection.
+
+## Marketing Authorisation Holder
+
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+
+## Manufacturer
+
+Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
+
+## Lietuva
+
+UAB \"JOHNSON &amp; JOHNSON\"
+
+Tel: +370 5 278 68 88
+
+lt@its.jnj.com
+
+## България
+
+'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV
+
+Tél/Tel: 800 29 504
+
+info\\_belux@its.jnj.com
+
+## Česká republika
+
+Janssen-Cilag s.r.o.
+
+Tel: +420 227 012 227
+
+## Magyarország
+
+Janssen-Cilag Kft.
+
+Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
+
+## Danmark
+
+Janssen-Cilag A/S
+
+Tlf.: +45 4594 8282
+
+jacdk@its.jnj.com
+
+## Malta
+
+AM MANGION LTD
+
+Tel: +356 2397 6000
+
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+
+## Nederland
+
+Janssen-Cilag B.V.
+
+Tel: 0800 242 42 42
+
+info\\_nl@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
+
+## Eesti
+
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
+
+Tel: +372 617 7410
+
+ee@its.jnj.com
+
+## Ελλάδα
+
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη
+
+Α.Ε.Β.Ε.
+
+Tηλ: +30 210 80 90 000
+
+## España
+
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
+
+## France
+
+Janssen-Cilag
+
+Tél: 0 800 25 50 75 / +33 1 55 00 40 03
+
+medisource@its.jnj.com
+
+## Hrvatska
+
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
+
+jjsafety@JNJCR.JNJ.com
+
+## Ireland
+
+Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
+
+## Ísland
+
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
+
+## Italia
+
+Janssen-Cilag SpA
+
+Tel: 800.688.777 / +39 02 2510 1
+
+janssenita@its.jnj.com
+
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ
+
+Tηλ: +357 22 207 700
+
+## Latvija
+
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+
+Tel: +371 678 93561
+
+lv@its.jnj.com
+
+## This leaflet was last revised in .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Norge
+
+Janssen-Cilag AS
+
+Tlf: +47 24 12 65 00
+
+jacno@its.jnj.com
+
+## Österreich
+
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
+
+## Polska
+
+Janssen-Cilag Polska Sp. z o.o.
+
+Tel.: +48 22 237 60 00
+
+## Portugal
+
+Janssen-Cilag Farmacêutica, Lda.
+
+Tel: +351 214 368 600
+
+## România
+
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
+
+## Slovenija
+
+Johnson &amp; Johnson d.o.o.
+
+Tel: +386 1 401 18 00
+
+JNJ-SI-safety@its.jnj.com
+
+## Slovenská republika
+
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
+
+## Suomi/Finland
+
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+
+## Sverige
+
+Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Instructions for administration
 
@@ -5964,12 +6010,6 @@ Preparing for use of the pre-filled syringe
 
 Get everything together that you need and lay out on a clean surface. This includes antiseptic wipes, a cotton ball or gauze, and a sharps container.
 
-BODY
-
-NEEDLE
-
-COVER
-
 <div style=\"page-break-after: always\"></div>
 
 ## 2. Choose and prepare the injection site:
@@ -5979,7 +6019,7 @@ Choose an injection site (see Figure 2)
 -  Stelara is given by injection under the skin (subcutaneously)
 -  Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
 -  If possible, do not use areas of skin that show signs of psoriasis
--  If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site.
+-  If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site
 
 Figure 2 *Areas in gray are recommended injection sites.
 
@@ -5989,7 +6029,7 @@ Figure 2 *Areas in gray are recommended injection sites.
 
 -  Wash your hands very well with soap and warm water
 -  Wipe the injection site on the skin with an antiseptic wipe
--  Do not touch this area again before giving the injection.
+-  Do not touch this area again before giving the injection
 
 ## 3. Remove the needle cover (see Figure 3):
 
@@ -6012,12 +6052,6 @@ Figure 3
 -  In a single and swift motion, insert the needle through the skin as far as it will go (see Figure 4)
 
 <div style=\"page-break-after: always\"></div>
-
-05 2023
-
-....-
-
-05 2023
 
 Figure 4
 
@@ -6160,9 +6194,9 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-The Stelara pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis or Crohn's disease because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, pre-filled vial or syringe should be used instead for children 2 years of age and older with Crohn's disease.
+The Stelara pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis, Crohn's disease or ulcerative colitis, because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, vial or pre-filled syringe should be used instead for children 2 years of age and older with Crohn's disease or ulcerative colitis.
 
-Stelara is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, or ulcerative colitis or children with Crohn's disease under 2 years of age because it has not been studied in these age groups.
+Stelara is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, or in children under the age of 6 years with psoriasis or children under 2 years of age with Crohn's disease or ulcerative colitis, because it has not been studied in these age groups.
 
 ## Other medicines, vaccines and Stelara
 
@@ -6201,710 +6235,12 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Stelara you need to use and for how long.
 
-## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older Psoriasis or psoriatic arthritis
 
 -  The recommended starting dose is 45 mg Stelara. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
 
-## Crohn's disease or Ulcerative Colitis
-
--  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
--  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
-
-## How Stelara is given
-
--  Stelara is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Stelara.
--  However, you and your doctor may decide that you may inject Stelara yourself. In this case you will get training on how to inject Stelara yourself.
--  For instructions on how to inject Stelara, see 'Instructions for administration' at the end of this leaflet.
-
-Talk to your doctor if you have any questions about giving yourself an injection.
-
-## If you use more Stelara than you should
-
-If you have used or been given too much Stelara, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
-
-## If you forget to use Stelara
-
-If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a forgotten dose.
-
-## If you stop using Stelara
-
-It is not dangerous to stop using Stelara. However, if you stop, your symptoms may come back.
-
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
-<div style=\"page-break-after: always\"></div>
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-## Serious side effects
-
-Some patients may have serious side effects that may need urgent treatment.
-
-## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
-
--  Serious allergic reactions ('anaphylaxis') are rare in people taking Stelara (may affect up to 1 in 1,000 people). Signs include:
-- o difficulty breathing or swallowing
-- o low blood pressure, which can cause dizziness or light-headedness
-- o swelling of the face, lips, mouth or throat.
--  Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
-
-In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
-
-If you have a serious allergic reaction, your doctor may decide that you should not use Stelara again.
-
-## Infections - these may need urgent treatment. Tell your doctor straight away if you notice any of the following signs.
-
--  Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
--  Infections of the chest are uncommon (may affect up to 1 in 100 people)
--  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
--  Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
-
-Stelara may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
-
-You must look out for signs of infection while you are using Stelara. These include:
-
--  fever, flu-like symptoms, night sweats, weight loss
--  feeling tired or short of breath; cough which will not go away
--  warm, red and painful skin, or a painful skin rash with blisters
--  burning when passing water
--  diarrhoea
--  visual disturbance or vision loss
--  headache, neck stiffness, light sensitivity, nausea or confusion.
-
-Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, or skin infections or shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Stelara until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
-
-Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin
-
-<div style=\"page-break-after: always\"></div>
-
-## conditions. You should tell your doctor straight away if you notice any of these signs.
-
-## Other side effects
-
-## Common side effects (may affect up to 1 in 10 people) :
-
--  Diarrhoea
--  Nausea
--  Vomiting
--  Feeling tired
--  Feeling dizzy
--  Headache
--  Itching ('pruritus')
--  Back, muscle or joint pain
--  Sore throat
--  Redness and pain where the injection is given
--  Sinus infection
-
-## Uncommon side effects (may affect up to 1 in 100 people) :
-
--  Tooth infections
--  Vaginal yeast infection
--  Depression
--  Blocked or stuffy nose
--  Bleeding, bruising, hardness, swelling and itching where the injection is given
--  Feeling weak
--  Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
--  A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
--  Peeling of the skin (skin exfoliation)
--  Acne
-
-## Rare side effects (may affect up to 1 in 1,000 people) :
-
--  Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
--  Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
-
-## Very rare side effects (may affect up to 1 in 10,000 people) :
-
--  Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
--  Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## 5. How to store Stelara
-
--  Keep this medicine out of the sight and reach of children.
--  Store in a refrigerator (2°C-8°C). Do not freeze.
--  Keep the pre-filled pen in the outer carton in order to protect from light.
-
-<div style=\"page-break-after: always\"></div>
-
--  If needed, individual Stelara pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
--  Do not shake the pre-filled pens. Prolonged vigorous shaking may damage the medicine.
-
-## Do not use this medicine:
-
--  After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
--  If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Stelara looks like and contents of the pack').
--  If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
--  If the product has been shaken vigorously.
-
-Stelara is for single use only. Any unused product remaining in the pre-filled pen should be thrown away. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-## 6. Contents of the pack and other information
-
-## What Stelara contains
-
--  The active substance is ustekinumab. Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL.
--  The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E433), sucrose and water for injections.
-
-## What Stelara looks like and contents of the pack
-
-Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled pen. Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL of solution for injection.
-
-## Marketing Authorisation Holder
-
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
-
-## Manufacturer
-
-Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Janssen-Cilag NV Tel/Tél: 0800 93 377
-
-info\\_belux@its.jnj.com
-
-## България
-
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
-
-## Česká republika
-
-Janssen-Cilag s.r.o. Tel: +420 227 012 227
-
-## Danmark
-
-Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
-
-## Deutschland
-
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
-
-## Eesti
-
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
-
-## Ελλάδα
-
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
-
-## España
-
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
-
-## France
-
-Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
-
-## Hrvatska
-
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
-
-## Lietuva
-
-UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
-
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
-
-## Magyarország
-
-Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
-
-## Malta
-
-AM MANGION LTD
-
-Tel: +356 2397 6000
-
-## Nederland
-
-Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
-
-## Norge
-
-Janssen-Cilag AS
-
-Tlf: +47 24 12 65 00
-
-jacno@its.jnj.com
-
-## Österreich
-
-Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
-
-## Polska
-
-Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
-
-## Portugal
-
-Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
-
-## România
-
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
-
-<div style=\"page-break-after: always\"></div>
-
-## Ireland
-
-Janssen Sciences Ireland UC Tel: 1 800 709 122
-
-medinfo@its.jnj.com
-
-## Ísland
-
-Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
-
-## Italia
-
-Janssen-Cilag SpA
-
-Tel: 800.688.777 / +39 02 2510 1
-
-janssenita@its.jnj.com
-
-## Κύπρος
-
-Βαρνάβας Χατζηπαναγής Λτδ
-
-Tηλ: +357 22 207 700
-
-## Latvija
-
-UAB \"JOHNSON &amp; JOHNSON\" filiāle
-
-Latvijā
-
-Tel: +371 678 93561
-
-lv@its.jnj.com
-
-## This leaflet was last revised in .
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Slovenija
-
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
-
-## Slovenská republika
-
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
-
-## Suomi/Finland
-
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
-
-## Sverige
-
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This 'Instructions for Use' contains information on how to inject Stelara.
-
-## Important
-
-Stelara comes in a single-dose pre-filled pen containing one 45 mg dose or one 90 mg dose.
-
-During injection, push handle all the way down until purple body is not visible to inject the full dose. DO NOT LIFT PRE-FILLED PEN during injection! If you do, the pre-filled pen will lock and you will not get the full dose.
-
-If your doctor decides that you or a caregiver may be able to give your injections of Stelara at home, you should receive training on the right way to prepare and inject Stelara using the pre-filled pen. Do not try to inject yourself until you have been trained by your doctor.
-
-Each pre-filled pen can only be used one time. Throw it away (see Step 3) after use even if there is medicine left in it.
-
-Do not reuse the pre-filled pen.
-
-Read these Instructions for Use before using the Stelara pre-filled pen and each time you get a new pre-filled pen. There may be new information. This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
-
-If you cannot give yourself the injection:
-
--  ask your doctor or nurse to help you, or
--  ask someone who has been trained by a doctor or nurse to give your injections.
-
-To reduce the risk of accidental needle sticks, each pre-filled pen has a needle guard that automatically covers the needle and locks after you have given your injection and the injector is lifted. Do not lift the pre-filled pen during the injection until the injection is complete.
-
-The needle cover inside the bottom cap of the pre-filled pen contains latex. Do not handle the needle cover if you are allergic to latex.
-
-Please also read the Package Leaflet carefully before starting your injection and discuss any questions you may have with your doctor or nurse.
-
-## Instructions for use Stelara (ustekinumab) injection, for subcutaneous use Pre-filled pen
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-Store in refrigerator at 2° to 8°C. If needed, store at room temperature up to 30°C for up to 30 days in the original carton. Do not return to refrigerator once stored at room temperature.
-
-Do not freeze the pre-filled pen.
-
-## Keep the pre-filled pen and all medicines out of reach of children.
-
-Do not shake the pre-filled pen. Shaking may damage the Stelara medicine. If the pre-filled pen has been shaken, do not use it. Get a new pre-filled pen.
-
-Keep the pre-filled pen in the original carton to protect from light and physical damage.
-
-<!-- image -->
-
-Call your doctor to talk about any questions you may have. For additional assistance or to share your feedback refer to the Package Leaflet for your local representative contact information.
-
-<div style=\"page-break-after: always\"></div>
-
-Pre-filled pen injector parts
-
-Before use
-
-Handle
-
-Purple Body
-
-Window
-
-Needle
-
-Guard
-
-Bottom Cap
-
-Do not touch inside.
-
-Gather the following supplies.
-
-Provided in the carton:
-
-· Pre-filled pen injector
-
-Not provided in the carton:
-
-## · Alcohol swabs · Cotton balls or gauze pads
-
-- Adhesive bandages
-
-· Sharps container (See Step 3)
-
-After use
-
-30
-
-WAIT
-
-MIN
-
--
-
-<!-- image -->
-
-## 1. Preparing to Inject Stelara
-
-<!-- image -->
-
-## Gather carton(s)
-
-If refrigerated, remove the pre-filled pen carton(s) from the refrigerator and place on a flat surface. Leave at room temperature for at least 30 minutes before use. Do not warm any other way.
-
-If your dose is 45 mg, you will receive one 45 mg pre-filled pen.
-
-If your dose is 90 mg, you will receive one 90 mg or two 45 mg pre-filled pens. If you receive two 45 mg pre-filled pens, follow Steps 1-3 for both injections.
-
-<div style=\"page-break-after: always\"></div>
-
-EXP
-
-## Choose a different injection site for the second injection.
-
-<!-- image -->
-
-## Check the expiry date ('EXP') and seals on the carton(s)
-
-Do not use the pre-filled pen if the seals on the carton are broken or if the expiry date has passed. Do not use the pre-filled pen if it has been kept at room temperature for longer than 30 days or if it has been stored above 30°C. Call your doctor or pharmacist for a new pre-filled pen.
-
-<!-- image -->
-
-## Choose injection site
-
-Select from the following areas for your injection:
-
--  Front of thighs
--  Lower stomach area (lower abdomen), except for a 5-centimetre area right around your navel (belly-button)
-
-If someone else is giving you the injection, they may also use:
-
--  Back of upper arms
-
-Do not inject into skin that is tender, bruised, red, or hard.
-
-## Use a different injection site for each injection.
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## Wash hands
-
-Wash your hands well with soap and warm water.
-
-## Clean injection site
-
-Wipe your chosen injection site with an alcohol swab and allow it to dry.
-
-Do not touch, fan, or blow on the injection site after you have cleaned it.
-
-<!-- image -->
-
-## Inspect liquid in window
-
-Choose a well-lit, clean, flat work surface.
-
-Take the pre-filled pen out of the carton and check for damage.
-
-Check the liquid in the viewing window. It should be clear to slightly opalescent and colourless to light yellow and may contain tiny white or clear particles and one or more air bubbles . This is normal.
-
-Do not inject if the liquid is frozen, cloudy, discoloured, or has large particles. Call your doctor or pharmacist for a new pre-filled pen.
-
-## 2. Injecting Stelara
-
-<!-- image -->
-
-## Pull off bottom cap
-
-Keep hands away from the needle guard after the cap is removed. It is normal to see a few drops of liquid.
-
-Inject Stelara within 5 minutes of removing the cap.
-
-Do not put the cap back on. This could damage the needle.
-
-Do not use a pre-filled pen if it is dropped after removing the cap. Call your doctor or pharmacist for a new pre-filled pen.
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-Place straight on skin. Push handle all the way down until purple body is not visible.
-
-## DO NOT LIFT PRE-FILLED PEN during injection!
-
-If you do, the needle guard will lock, showing a yellow band, and you will not get the full dose.
-
-You may hear a click when the injection begins. Keep pushing.
-
-## If you feel resistance, keep pushing. This is normal.
-
-The medication injects as you push. Do this at a speed that is comfortable for you.
-
-<!-- image -->
-
-## Confirm your injection is complete
-
-Your injection is complete when:
-
--  The purple body is not visible.
--  You cannot press the handle down anymore.
--  You may hear a click.
-
-<!-- image -->
-
-## Lift straight up
-
-The yellow band indicates that the needle guard is locked into place.
-
-<div style=\"page-break-after: always\"></div>
-
-## 3. After your injection
-
-<!-- image -->
-
-## Dispose of the pre-filled pen
-
-Put the used pre-filled pen in a sharps disposal container right away after use.
-
-Do not throw away (dispose of) the pre-filled pens in the household trash.
-
-Do not recycle your used sharps disposal container.
-
-<!-- image -->
-
-## Check injection site
-
-There may be a small amount of blood or liquid at the injection site. This is normal. Press a cotton ball or gauze pad to the injection site until any bleeding stops.
-
-Do not rub the injection site.
-
-If needed, cover the injection site with a bandage.
-
-If you receive two 45 mg pre-filled pens for a 90 mg dose, repeat Steps 1-3 with the second pre-filled pen. Choose a different injection site for the second injection.
-
-## Package leaflet: Information for the user
-
-<div style=\"page-break-after: always\"></div>
-
-## STELARA 90 mg solution for injection in pre-filled pen ustekinumab
-
-Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
-
-## This leaflet has been written for the person taking the medicine.
-
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Stelara is and what it is used for
-2. What you need to know before you use Stelara
-3. How to use Stelara
-4. Possible side effects
-5. How to store Stelara
-6. Contents of the pack and other information
-
-## 1. What Stelara is and what it is used for
-
-## What Stelara is
-
-Stelara contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
-
-Stelara belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
-
-## What Stelara is used for
-
-Stelara administered using the pre-filled pen is used to treat the following inflammatory diseases:
-
--  Plaque psoriasis - in adults
--  Psoriatic arthritis - in adults
--  Moderate to severe Crohn's disease - in adults
--  Moderate to severe ulcerative colitis - in adults
-
-## Plaque psoriasis
-
-Plaque psoriasis is a skin condition that causes inflammation affecting the skin and nails. Stelara will reduce the inflammation and other signs of the disease.
-
-Stelara administered using the pre-filled pen is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
-
-## Psoriatic arthritis
-
-Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given Stelara to:
-
--  Reduce the signs and symptoms of your disease.
--  Improve your physical function.
--  Slow down the damage to your joints.
-
-<div style=\"page-break-after: always\"></div>
-
-## Crohn's disease
-
-Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Stelara to reduce the signs and symptoms of your disease.
-
-## Ulcerative colitis
-
-Ulcerative colitis is an inflammatory disease of the bowel. If you have ulcerative colitis you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Stelara to reduce the signs and symptoms of your disease.
-
-## 2. What you need to know before you use Stelara
-
-## Do not use Stelara
-
--  If you are allergic to ustekinumab or any of the other ingredients of this medicine (listed in section 6).
--  If you have an active infection which your doctor thinks is important.
-
-If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
-
-## Warnings and precautions
-
-Talk to your doctor or pharmacist before using Stelara. Your doctor will check how well you are before each treatment. Make sure you tell your doctor about any illness you have before each treatment. Also tell your doctor if you have recently been near anyone who might have tuberculosis. Your doctor will examine you and do a test for tuberculosis, before you have Stelara. If your doctor thinks you are at risk of tuberculosis, you may be given medicines to treat it.
-
-## Look out for serious side effects
-
-Stelara can cause serious side effects, including allergic reactions and infections. You must look out for certain signs of illness while you are taking Stelara. See 'Serious side effects' in section 4 for a full list of these side effects.
-
-## Before you use Stelara tell your doctor:
-
--  If you ever had an allergic reaction to Stelara. Ask your doctor if you are not sure.
--  If you have ever had any type of cancer - this is because immunosuppressants like Stelara weaken part of the immune system. This may increase the risk of cancer.
--  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
--  If you have or have had a recent infection.
--  If you have any new or changing lesions within psoriasis areas or on normal skin.
--  If you have ever had an allergic reaction to latex or Stelara injection - the container of this medicinal product contains latex rubber, which may cause severe allergic reactions in people who are sensitive to latex. See 'Look out for serious side effects' in section 4 for the signs of an allergic reaction.
--  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
--  If you are having or have ever had injections to treat allergies - it is not known if Stelara may affect these.
--  If you are 65 years of age or over - you may be more likely to get infections.
-
-If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
-
-<div style=\"page-break-after: always\"></div>
-
-Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
-
-## Heart attack and strokes
-
-Heart attack and strokes have been observed in a study in patients with psoriasis treated with Stelara. Your doctor will regularly check your risk factors for heart disease and stroke in order to ensure that they are appropriately treated. Seek medical attention right away if you develop chest pain, weakness or abnormal sensation on one side of your body, facial droop, or speech or visual abnormalities.
-
-## Children and adolescents
-
-The Stelara pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis or Crohn's disease because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, pre-filled vial or syringe should be used instead for children 2 years of age and older with Crohn's disease.
-
-Stelara is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, ulcerative colitis or children with Crohn's disease under 2 years of age because it has not been studied in these age groups.
-
-## Other medicines, vaccines and Stelara
-
-Tell your doctor or pharmacist:
-
--  If you are taking, have recently taken or might take any other medicines.
--  If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Stelara.
--  If you received Stelara while pregnant, tell your baby's doctor about your Stelara treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
-
-## Pregnancy and breast-feeding
-
--  If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
--  A higher risk of birth defects has not been seen in babies exposed to Stelara in the womb. However, there is limited experience with Stelara in pregnant women. It is therefore preferable to avoid the use of Stelara in pregnancy.
--  If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and must use adequate contraception while using Stelara and for at least 15 weeks after the last Stelara treatment.
--  Stelara can pass across the placenta to the unborn baby. If you received Stelara during your pregnancy, your baby may have a higher risk for getting an infection.
--  It is important that you tell your baby's doctors and other health care professionals if you received Stelara during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
--  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Stelara -do not do both.
-
-## Driving and using machines
-
-Stelara has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
-
-## Stelara contains polysorbate 80
-
-Stelara contains 0.04 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
-
-## 3. How to use Stelara
-
-Stelara is intended for use under the guidance and supervision of a doctor experienced in treating conditions for which Stelara is intended.
-
-Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure. Talk to your doctor about when you will have your injections and follow-up appointments.
-
-## How much Stelara is given
-
-Your doctor will decide how much Stelara you need to use and for how long.
-
-## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
-
--  The recommended starting dose is 45 mg Stelara. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
--  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
-
-## Crohn's disease or Ulcerative Colitis
+## Crohn's disease or ulcerative colitis
 
 -  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 -  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
@@ -7024,13 +6360,13 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 ## 5. How to store Stelara
 
 -  Keep this medicine out of the sight and reach of children.
--  Store in a refrigerator (2°C-8°C). Do not freeze.
+-  Store in a refrigerator (2 °C-8 °C). Do not freeze.
 -  Keep the pre-filled pen in the outer carton in order to protect from light.
--  If needed, individual Stelara pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from
+-  If needed, individual Stelara pre-filled pens may also be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from
 
 <div style=\"page-break-after: always\"></div>
 
-light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 
 -  Do not shake the pre-filled pen. Prolonged vigorous shaking may damage the medicine.
 
@@ -7047,12 +6383,12 @@ Stelara is for single use only. Any unused product remaining in the pre-filled p
 
 ## What Stelara contains
 
--  The active substance is ustekinumab. Each pre-filled pen contains 90 mg ustekinumab in 1 mL.
+-  The active substance is ustekinumab. Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL.
 -  The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E433), sucrose and water for injections.
 
 ## What Stelara looks like and contents of the pack
 
-Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled pen. Each pre-filled pen contains 90 mg ustekinumab in 1 mL of solution for injection.
+Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled pen. Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL of solution for injection.
 
 ## Marketing Authorisation Holder
 
@@ -7068,15 +6404,17 @@ For any information about this medicine, please contact the local representative
 
 Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
-Lietuva UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
+## Lietuva
+
+UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88
+
+lt@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
 'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
-
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Česká republika
 
@@ -7084,27 +6422,13 @@ Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
 
-## Magyarország
-
-Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
-
 ## Danmark
 
 Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
-## Malta
-
-AM MANGION LTD
-
-Tel: +356 2397 6000
-
 ## Deutschland
 
 Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
-
-## Nederland
-
-Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Eesti
 
@@ -7112,61 +6436,79 @@ UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
 
 Tel: +372 617 7410 ee@its.jnj.com
 
-## Norge
-
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
-
 ## Ελλάδα
 
 Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
-
-## Österreich
-
-Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
 
 ## España
 
 Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
 
-## Polska
-
-Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
-
 ## France
 
 Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
-
-## Portugal
-
-Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## Hrvatska
 
 Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
-## România
-
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
-
 ## Ireland
 
 Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
 
-## Slovenija
-
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
-
 ## Ísland
 
 Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
+
+## Magyarország
+
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
+
+## Malta
+
+AM MANGION LTD
+
+Tel: +356 2397 6000
+
+## Nederland
+
+Janssen-Cilag B.V. Tel: 0800 242 42 42
+
+info\\_nl@its.jnj.com
+
+## Norge
+
+Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+
+## Österreich
+
+Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
+
+## Polska
+
+Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
+
+## Portugal
+
+Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
+
+## România
+
+Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+
+## Slovenija
+
+Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
 Johnson &amp; Johnson, s.r.o.
 
 Tel: +421 232 408 400
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7204,15 +6546,11 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
 ## Sverige
 
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com This 'Instructions for Use' contains information on how to inject Stelara.
 
 <div style=\"page-break-after: always\"></div>
 
-St
-
 <!-- image -->
-
-This 'Instructions for Use' contains information on how to inject Stelara.
 
 ## Important
 
@@ -7224,7 +6562,7 @@ If your doctor decides that you or a caregiver may be able to give your injectio
 
 Each pre-filled pen can only be used one time. Throw it away (see Step 3) after use even if there is medicine left in it.
 
-## Do not reuse the pre-filled pen.
+Do not reuse the pre-filled pen.
 
 Read these Instructions for Use before using the Stelara pre-filled pen and each time you get a new pre-filled pen. There may be new information. This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 
@@ -7239,21 +6577,17 @@ The needle cover inside the bottom cap of the pre-filled pen contains latex. Do 
 
 Please also read the Package Leaflet carefully before starting your injection and discuss any questions you may have with your doctor or nurse.
 
-<!-- image -->
-
-Store in refrigerator at 2° to 8°C. If needed, store at room temperature up to 30°C for up to 30 days in
-
-## injection, for subcutaneous use
-
-## Instructions for use Stelara (ustekinumab) Pre-filled pen
+## Instructions for use Stelara (ustekinumab) injection, for subcutaneous use Pre-filled pen
 
 <div style=\"page-break-after: always\"></div>
 
-the original carton. Do not return to refrigerator once stored at room temperature.
+<!-- image -->
+
+Store in refrigerator at 2 ° to 8 °C. If needed, store at room temperature up to 30 °C for up to 30 days in the original carton. Do not return to refrigerator once stored at room temperature.
 
 Do not freeze the pre-filled pen.
 
-Keep the pre-filled pen and all medicines out of reach of children.
+## Keep the pre-filled pen and all medicines out of reach of children.
 
 Do not shake the pre-filled pen. Shaking may damage the Stelara medicine. If the pre-filled pen has been shaken, do not use it. Get a new pre-filled pen.
 
@@ -7267,47 +6601,7 @@ Call your doctor to talk about any questions you may have. For additional assist
 
 <div style=\"page-break-after: always\"></div>
 
-Pre-filled pen injector parts
-
-Before use
-
-Handle
-
-Purple Body
-
-Window
-
-Needle
-
-Guard
-
-Bottom Cap
-
-Do not touch inside.
-
-Gather the following supplies.
-
-Provided in the carton:
-
-· Pre-filled pen injector
-
-Not provided in the carton:
-
-WAIT
-
-30
-
-MIN
-
 <!-- image -->
-
-## · Alcohol swabs
-
-· Cotton balls or gauze pads
-
-- Adhesive bandages
-
-· Sharps container (See Step 3)
 
 ## 1. Preparing to Inject Stelara
 
@@ -7315,27 +6609,25 @@ MIN
 
 ## Gather carton(s)
 
-If refrigerated, remove the pre-filled pen carton(s) from the refrigerator and place on a flat surface. Leave at room temperature for at least 30 minutes before use. Do not warm any other way.
+If refrigerated, remove the pre-filled pen carton(s) from the refrigerator and place on a flat surface.
 
-If your dose is 45 mg, you will receive one 45 mg pre-filled pen. If your dose is 90 mg, you will receive one 90 mg or two 45 mg pre-filled pens. If you receive two
+Leave at room temperature for at least 30 minutes before use.
 
-45 mg pre-filled pens, follow Steps 1-3 for both injections.
+Do not warm any other way.
 
-Choose a different injection site for the second injection.
+If your dose is 45 mg, you will receive one 45 mg pre-filled pen.
 
--
-
-After use
+If your dose is 90 mg, you will receive one 90 mg or two 45 mg pre-filled pens. If you receive two 45 mg pre-filled pens, follow Steps 1-3 for both injections.
 
 <div style=\"page-break-after: always\"></div>
 
-EXP
+## Choose a different injection site for the second injection.
 
 <!-- image -->
 
 ## Check the expiry date ('EXP') and seals on the carton(s)
 
-Do not use the pre-filled pen if the seals on the carton are broken or if the expiry date has passed. Do not use the pre-filled pen if it has been kept at room temperature for longer than 30 days or if it has been stored above 30°C. Call your doctor or pharmacist for a new pre-filled pen.
+Do not use the pre-filled pen if the seals on the carton are broken or if the expiry date has passed. Do not use the pre-filled pen if it has been kept at room temperature for longer than 30 days or if it has been stored above 30 °C. Call your doctor or pharmacist for a new pre-filled pen.
 
 <!-- image -->
 
@@ -7354,13 +6646,13 @@ Do not inject into skin that is tender, bruised, red, or hard.
 
 ## Use a different injection site for each injection.
 
-Wash hands
-
 <!-- image -->
 
-Wash your hands well with soap and warm water.
-
 <div style=\"page-break-after: always\"></div>
+
+## Wash hands
+
+Wash your hands well with soap and warm water.
 
 ## Clean injection site
 
@@ -7388,7 +6680,7 @@ Do not inject if the liquid is frozen, cloudy, discoloured, or has large particl
 
 Keep hands away from the needle guard after the cap is removed. It is normal to see a few drops of liquid.
 
-## Inject Stelara within 5 minutes of removing the cap.
+Inject Stelara within 5 minutes of removing the cap.
 
 Do not put the cap back on. This could damage the needle.
 
@@ -7441,6 +6733,672 @@ Do not throw away (dispose of) the pre-filled pens in the household trash.
 Do not recycle your used sharps disposal container.
 
 <!-- image -->
+
+S
+
+## Check injection site
+
+There may be a small amount of blood or liquid at the injection site. This is normal. Press a cotton ball or gauze pad to the injection site until any bleeding stops.
+
+Do not rub the injection site.
+
+If needed, cover the injection site with a bandage.
+
+If you receive two 45 mg pre-filled pens for a 90 mg dose, repeat Steps 1-3 with the second pre-filled pen. Choose a different injection site for the second injection.
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## STELARA 90 mg solution for injection in pre-filled pen ustekinumab
+
+Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+## This leaflet has been written for the person taking the medicine.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor or pharmacist.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Stelara is and what it is used for
+2. What you need to know before you use Stelara
+3. How to use Stelara
+4. Possible side effects
+5. How to store Stelara
+6. Contents of the pack and other information
+
+## 1. What Stelara is and what it is used for
+
+## What Stelara is
+
+Stelara contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
+
+Stelara belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
+
+## What Stelara is used for
+
+Stelara administered using the pre-filled pen is used to treat the following inflammatory diseases:
+
+-  Plaque psoriasis - in adults
+-  Psoriatic arthritis - in adults
+-  Moderate to severe Crohn's disease - in adults
+-  Moderate to severe ulcerative colitis - in adults
+
+## Plaque psoriasis
+
+Plaque psoriasis is a skin condition that causes inflammation affecting the skin and nails. Stelara will reduce the inflammation and other signs of the disease.
+
+Stelara administered using the pre-filled pen is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
+
+## Psoriatic arthritis
+
+Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given Stelara to:
+
+-  Reduce the signs and symptoms of your disease.
+-  Improve your physical function.
+-  Slow down the damage to your joints.
+
+<div style=\"page-break-after: always\"></div>
+
+## Crohn's disease
+
+Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Stelara to reduce the signs and symptoms of your disease.
+
+## Ulcerative colitis
+
+Ulcerative colitis is an inflammatory disease of the bowel. If you have ulcerative colitis you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Stelara to reduce the signs and symptoms of your disease.
+
+## 2. What you need to know before you use Stelara
+
+## Do not use Stelara
+
+-  If you are allergic to ustekinumab or any of the other ingredients of this medicine (listed in section 6).
+-  If you have an active infection which your doctor thinks is important.
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
+
+## Warnings and precautions
+
+Talk to your doctor or pharmacist before using Stelara. Your doctor will check how well you are before each treatment. Make sure you tell your doctor about any illness you have before each treatment. Also tell your doctor if you have recently been near anyone who might have tuberculosis. Your doctor will examine you and do a test for tuberculosis, before you have Stelara. If your doctor thinks you are at risk of tuberculosis, you may be given medicines to treat it.
+
+## Look out for serious side effects
+
+Stelara can cause serious side effects, including allergic reactions and infections. You must look out for certain signs of illness while you are taking Stelara. See 'Serious side effects' in section 4 for a full list of these side effects.
+
+## Before you use Stelara tell your doctor:
+
+-  If you ever had an allergic reaction to Stelara. Ask your doctor if you are not sure.
+-  If you have ever had any type of cancer - this is because immunosuppressants like Stelara weaken part of the immune system. This may increase the risk of cancer.
+-  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
+-  If you have or have had a recent infection.
+-  If you have any new or changing lesions within psoriasis areas or on normal skin.
+-  If you have ever had an allergic reaction to latex or Stelara injection - the container of this medicinal product contains latex rubber, which may cause severe allergic reactions in people who are sensitive to latex. See 'Look out for serious side effects' in section 4 for the signs of an allergic reaction.
+-  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
+-  If you are having or have ever had injections to treat allergies - it is not known if Stelara may affect these.
+-  If you are 65 years of age or over - you may be more likely to get infections.
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
+
+<div style=\"page-break-after: always\"></div>
+
+Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
+
+## Heart attack and strokes
+
+Heart attack and strokes have been observed in a study in patients with psoriasis treated with Stelara. Your doctor will regularly check your risk factors for heart disease and stroke in order to ensure that they are appropriately treated. Seek medical attention right away if you develop chest pain, weakness or abnormal sensation on one side of your body, facial droop, or speech or visual abnormalities.
+
+## Children and adolescents
+
+The Stelara pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis, Crohn's disease or ulcerative colitis, because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, vial or pre-filled syringe should be used instead for children 2 years of age and older with Crohn's disease or ulcerative colitis.
+
+Stelara is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, or in children under the age of 6 years with psoriasis or children under 2 years of age with Crohn's disease or ulcerative colitis, because it has not been studied in these age groups.
+
+## Other medicines, vaccines and Stelara
+
+Tell your doctor or pharmacist:
+
+-  If you are taking, have recently taken or might take any other medicines.
+-  If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Stelara.
+-  If you received Stelara while pregnant, tell your baby's doctor about your Stelara treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
+
+## Pregnancy and breast-feeding
+
+-  If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
+-  A higher risk of birth defects has not been seen in babies exposed to Stelara in the womb. However, there is limited experience with Stelara in pregnant women. It is therefore preferable to avoid the use of Stelara in pregnancy.
+-  If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and must use adequate contraception while using Stelara and for at least 15 weeks after the last Stelara treatment.
+-  Stelara can pass across the placenta to the unborn baby. If you received Stelara during your pregnancy, your baby may have a higher risk for getting an infection.
+-  It is important that you tell your baby's doctors and other health care professionals if you received Stelara during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
+-  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Stelara - do not do both.
+
+## Driving and using machines
+
+Stelara has no or negligible influence on the ability to drive and use machines.
+
+<div style=\"page-break-after: always\"></div>
+
+## Stelara contains polysorbate 80
+
+Stelara contains 0.04 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How to use Stelara
+
+Stelara is intended for use under the guidance and supervision of a doctor experienced in treating conditions for which Stelara is intended.
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure. Talk to your doctor about when you will have your injections and follow-up appointments.
+
+## How much Stelara is given
+
+Your doctor will decide how much Stelara you need to use and for how long.
+
+## Adults aged 18 years or older Psoriasis or psoriatic arthritis
+
+-  The recommended starting dose is 45 mg Stelara. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
+-  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
+
+## Crohn's disease or ulcerative colitis
+
+-  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+-  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+
+## How Stelara is given
+
+-  Stelara is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Stelara.
+-  However, you and your doctor may decide that you may inject Stelara yourself. In this case you will get training on how to inject Stelara yourself.
+-  For instructions on how to inject Stelara, see 'Instructions for administration' at the end of this leaflet.
+
+Talk to your doctor if you have any questions about giving yourself an injection.
+
+## If you use more Stelara than you should
+
+If you have used or been given too much Stelara, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
+
+## If you forget to use Stelara
+
+If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a forgotten dose.
+
+## If you stop using Stelara
+
+It is not dangerous to stop using Stelara. However, if you stop, your symptoms may come back.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Serious side effects
+
+Some patients may have serious side effects that may need urgent treatment.
+
+## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
+
+-  Serious allergic reactions ('anaphylaxis') are rare in people taking Stelara (may affect up to 1 in 1,000 people). Signs include:
+- o difficulty breathing or swallowing
+- o low blood pressure, which can cause dizziness or light-headedness
+- o swelling of the face, lips, mouth or throat.
+-  Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
+
+In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
+
+If you have a serious allergic reaction, your doctor may decide that you should not use Stelara again.
+
+## Infections - these may need urgent treatment. Tell your doctor straight away if you notice any of the following signs.
+
+-  Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
+-  Infections of the chest are uncommon (may affect up to 1 in 100 people)
+-  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
+-  Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
+
+Stelara may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
+
+You must look out for signs of infection while you are using Stelara. These include:
+
+-  fever, flu-like symptoms, night sweats, weight loss
+-  feeling tired or short of breath; cough which will not go away
+-  warm, red and painful skin, or a painful skin rash with blisters
+-  burning when passing water
+-  diarrhoea
+-  visual disturbance or vision loss
+-  headache, neck stiffness, light sensitivity, nausea or confusion.
+
+Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, or skin infections or shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Stelara until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
+
+Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
+
+<div style=\"page-break-after: always\"></div>
+
+## Other side effects
+
+## Common side effects (may affect up to 1 in 10 people) :
+
+-  Diarrhoea
+-  Nausea
+-  Vomiting
+-  Feeling tired
+-  Feeling dizzy
+-  Headache
+-  Itching ('pruritus')
+-  Back, muscle or joint pain
+-  Sore throat
+-  Redness and pain where the injection is given
+-  Sinus infection
+
+## Uncommon side effects (may affect up to 1 in 100 people) :
+
+-  Tooth infections
+-  Vaginal yeast infection
+-  Depression
+-  Blocked or stuffy nose
+-  Bleeding, bruising, hardness, swelling and itching where the injection is given
+-  Feeling weak
+-  Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
+-  A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
+-  Peeling of the skin (skin exfoliation)
+-  Acne
+
+## Rare side effects (may affect up to 1 in 1,000 people) :
+
+-  Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
+-  Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
+
+## Very rare side effects (may affect up to 1 in 10,000 people) :
+
+-  Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
+-  Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Stelara
+
+-  Keep this medicine out of the sight and reach of children.
+-  Store in a refrigerator (2 °C-8 °C). Do not freeze.
+-  Keep the pre-filled pen in the outer carton in order to protect from light.
+-  If needed, individual Stelara pre-filled pens may also be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from
+
+<div style=\"page-break-after: always\"></div>
+
+light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+
+-  Do not shake the pre-filled pen. Prolonged vigorous shaking may damage the medicine.
+
+## Do not use this medicine:
+
+-  After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
+-  If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Stelara looks like and contents of the pack').
+-  If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
+-  If the product has been shaken vigorously.
+
+Stelara is for single use only. Any unused product remaining in the pre-filled pen should be thrown away. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Stelara contains
+
+-  The active substance is ustekinumab. Each pre-filled pen contains 90 mg ustekinumab in 1 mL.
+-  The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E433), sucrose and water for injections.
+
+## What Stelara looks like and contents of the pack
+
+Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled pen. Each pre-filled pen contains 90 mg ustekinumab in 1 mL of solution for injection.
+
+## Marketing Authorisation Holder
+
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+
+## Manufacturer
+
+Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com Lietuva UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
+
+## България
+
+'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+
+## Česká republika
+
+Janssen-Cilag s.r.o.
+
+Tel: +420 227 012 227
+
+## Danmark
+
+Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
+
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+
+## Eesti
+
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
+
+Tel: +372 617 7410 ee@its.jnj.com
+
+## Ελλάδα
+
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
+
+## España
+
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
+
+## France
+
+Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
+
+## Hrvatska
+
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
+
+## Ireland
+
+Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
+
+## Ísland
+
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
+
+## Magyarország
+
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
+
+## Malta
+
+AM MANGION LTD
+
+Tel: +356 2397 6000
+
+## Nederland
+
+Janssen-Cilag B.V. Tel: 0800 242 42 42
+
+info\\_nl@its.jnj.com
+
+## Norge
+
+Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+
+## Österreich
+
+Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
+
+## Polska
+
+Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
+
+## Portugal
+
+Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
+
+## România
+
+Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+
+## Slovenija
+
+Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
+
+## Slovenská republika
+
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
+
+<div style=\"page-break-after: always\"></div>
+
+## Italia
+
+Janssen-Cilag SpA
+
+Tel: 800.688.777 / +39 02 2510 1
+
+janssenita@its.jnj.com
+
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ
+
+Tηλ: +357 22 207 700
+
+## Latvija
+
+UAB \"JOHNSON &amp; JOHNSON\" filiāle
+
+Latvijā
+
+Tel: +371 678 93561
+
+lv@its.jnj.com
+
+## This leaflet was last revised in .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Suomi/Finland
+
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+
+## Sverige
+
+Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com This 'Instructions for Use' contains information on how to inject Stelara.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Important
+
+Stelara comes in a single-dose pre-filled pen containing one 45 mg dose or one 90 mg dose.
+
+During injection, push handle all the way down until purple body is not visible to inject the full dose. DO NOT LIFT PRE-FILLED PEN during injection! If you do, the pre-filled pen will lock and you will not get the full dose.
+
+If your doctor decides that you or a caregiver may be able to give your injections of Stelara at home, you should receive training on the right way to prepare and inject Stelara using the pre-filled pen. Do not try to inject yourself until you have been trained by your doctor.
+
+Each pre-filled pen can only be used one time. Throw it away (see Step 3) after use even if there is medicine left in it.
+
+Do not reuse the pre-filled pen.
+
+Read these Instructions for Use before using the Stelara pre-filled pen and each time you get a new pre-filled pen. There may be new information. This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
+
+If you cannot give yourself the injection:
+
+-  ask your doctor or nurse to help you, or
+-  ask someone who has been trained by a doctor or nurse to give your injections.
+
+To reduce the risk of accidental needle sticks, each pre-filled pen has a needle guard that automatically covers the needle and locks after you have given your injection and the injector is lifted. Do not lift the pre-filled pen during the injection until the injection is complete.
+
+The needle cover inside the bottom cap of the pre-filled pen contains latex. Do not handle the needle cover if you are allergic to latex.
+
+Please also read the Package Leaflet carefully before starting your injection and discuss any questions you may have with your doctor or nurse.
+
+<!-- image -->
+
+Store in refrigerator at 2° to 8 °C. If needed, store at room temperature up to 30 °C for up to 30 days in
+
+## injection, for subcutaneous use
+
+## Instructions for use Stelara (ustekinumab) Pre-filled pen
+
+<div style=\"page-break-after: always\"></div>
+
+the original carton. Do not return to refrigerator once stored at room temperature.
+
+Do not freeze the pre-filled pen.
+
+Keep the pre-filled pen and all medicines out of reach of children.
+
+Do not shake the pre-filled pen. Shaking may damage the Stelara medicine. If the pre-filled pen has been shaken, do not use it. Get a new pre-filled pen.
+
+Keep the pre-filled pen in the original carton to protect from light and physical damage.
+
+<!-- image -->
+
+## Need help?
+
+Call your doctor to talk about any questions you may have. For additional assistance or to share your feedback refer to the Package Leaflet for your local representative contact information.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Gather the following supplies. Provided in the carton:
+
+Not provided in the carton:
+
+- Pre-filled pen injector
+- Alcohol swabs
+- Adhesive bandages
+- Cotton balls or gauze pads
+- Sharps container (See Step 3)
+
+## 1. Preparing to Inject Stelara
+
+<!-- image -->
+
+## Gather carton(s)
+
+If refrigerated, remove the pre-filled pen carton(s) from the refrigerator and place on a flat surface. Leave at room temperature for at least 30 minutes before use. Do not warm any other way.
+
+If your dose is 45 mg, you will receive one 45 mg pre-filled pen. If your dose is 90 mg, you will receive one 90 mg or two 45 mg pre-filled pens. If you receive two
+
+45 mg pre-filled pens, follow Steps 1-3 for both injections.
+
+Choose a different injection site for the second injection.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Check the expiry date ('EXP') and seals on the carton(s)
+
+Do not use the pre-filled pen if the seals on the carton are broken or if the expiry date has passed. Do not use the pre-filled pen if it has been kept at room temperature for longer than 30 days or if it has been stored above 30 °C. Call your doctor or pharmacist for a new pre-filled pen.
+
+<!-- image -->
+
+## Choose injection site
+
+Select from the following areas for your injection:
+
+-  Front of thighs
+-  Lower stomach area (lower abdomen), except for a 5-centimetre area right around your navel (belly-button)
+
+If someone else is giving you the injection, they may also use:
+
+-  Back of upper arms
+
+Do not inject into skin that is tender, bruised, red, or hard.
+
+## Use a different injection site for each injection.
+
+<!-- image -->
+
+## Wash hands
+
+Wash your hands well with soap and warm water.
+
+<div style=\"page-break-after: always\"></div>
+
+## Clean injection site
+
+Wipe your chosen injection site with an alcohol swab and allow it to dry.
+
+Do not touch, fan, or blow on the injection site after you have cleaned it.
+
+<!-- image -->
+
+## Inspect liquid in window
+
+Choose a well-lit, clean, flat work surface.
+
+Take the pre-filled pen out of the carton and check for damage.
+
+Check the liquid in the viewing window. It should be clear to slightly opalescent and colourless to light yellow and may contain tiny white or clear particles and one or more air bubbles . This is normal.
+
+Do not inject if the liquid is frozen, cloudy, discoloured, or has large particles. Call your doctor or pharmacist for a new pre-filled pen.
+
+## 2. Injecting Stelara
+
+<!-- image -->
+
+421
+
+## Pull off bottom cap
+
+Keep hands away from the needle guard after the cap is removed. It is normal to see a few drops of liquid.
+
+Inject Stelara within 5 minutes of removing the cap.
+
+Do not put the cap back on. This could damage the needle.
+
+Do not use a pre-filled pen if it is dropped after removing the cap. Call your doctor or pharmacist for a new pre-filled pen.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+Place straight on skin. Push handle all the way down until purple body is not visible.
+
+## DO NOT LIFT PRE-FILLED PEN during injection!
+
+If you do, the needle guard will lock, showing a yellow band, and you will not get the full dose.
+
+You may hear a click when the injection begins. Keep pushing.
+
+## If you feel resistance, keep pushing. This is normal.
+
+The medication injects as you push. Do this at a speed that is comfortable for you.
+
+<!-- image -->
+
+## Confirm your injection is complete
+
+Your injection is complete when:
+
+-  The purple body is not visible.
+-  You cannot press the handle down anymore.
+-  You may hear a click.
+
+<!-- image -->
+
+## Lift straight up
+
+The yellow band indicates that the needle guard is locked into place.
+
+<div style=\"page-break-after: always\"></div>
+
+## 3. After your injection
+
+<!-- image -->
+
+## Dispose of the pre-filled pen
+
+Put the used pre-filled pen in a sharps disposal container right away after use.
+
+Do not throw away (dispose of) the pre-filled pens in the household trash.
+
+Do not recycle your used sharps disposal container.
+
+<!-- image -->
+
+S
 
 ## Check injection site
 

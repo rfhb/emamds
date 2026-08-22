@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-05 15:57:24
+document_datetime: 2026-08-19 17:00:55
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vanflyta-epar-product-information_en.pdf
 document_name: vanflyta-epar-product-information_en.pdf
 version: success
-processing_time: 9.7218285
-conversion_datetime: 2026-02-09 21:59:17.683728
+processing_time: 11.7289922
+conversion_datetime: 2026-08-23 00:54:28.767694
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -48,11 +48,11 @@ Film-coated tablet (tablet)
 
 ## VANFLYTA 17.7 mg film-coated tablets
 
-White, round-shaped film-coated tablets, 8.9 mm in diameter and debossed with 'DSC 511' on one side.
+White, round-shaped film-coated tablets, 8.9 mm in diameter and debossed with ' DSC 511 ' on one side.
 
 ## VANFLYTA 26.5 mg film-coated tablets
 
-Yellow, round-shaped film-coated tablets, 10.2 mm in diameter and debossed with 'DSC 512' on one side.
+Yellow, round-shaped film-coated tablets, 10.2 mm in diameter and debossed with ' DSC 512 ' on one side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -81,12 +81,12 @@ Table 1: Dose regimen
 | VANFLYTA                 | Induction a                             | Consolidation b         | Maintenance                                                  |
 |--------------------------|-----------------------------------------|-------------------------|--------------------------------------------------------------|
 | initiation               | Starting on day 8 (For 7 + 3 regimen) c | Starting on day 6       | First day of maintenance therapy                             |
-| 35.4 mg once             | daily                                   | 35.4 mg once daily      | Dose • After two weeks, if QTcF                              |
+| Dose                     | 35.4 mg once daily                      | 35.4 mg once daily      | ≤ 450 ms. After two weeks, if QTcF ms, the dose to 53        |
 | Duration (28-day cycles) | Two weeks in each cycle                 | Two weeks in each cycle | Once daily with no break between cycles for up to 36 cycles. |
 
 ## Haematopoietic stem cell transplantation
 
-For patients who proceed to haematopoietic stem cell transplantation (HSCT), VANFLYTA should be stopped 7 days before the start of a conditioning regimen. It may be resumed after completion of the transplant based on white blood cell count (WBC) and at the discretion of the treating physician for patients with sufficient haematologic recovery and with ≤ Grade 2 graft-versus-host disease (GVHD), not requiring the initiation of new systemic GVHD therapy within 21 days, following the dosing recommendations described above.
+For patients who proceed to haematopoietic stem cell transplantation (HSCT), VANFLYTA should be stopped 7 days before the start of a conditioning regimen. It may be resumed after completion of the transplant based on white blood cell count (WBC) and at the discretion of the treating physician for patients with sufficient haemato logic recovery and with ≤ Grade 2 graft-versus-host disease (GVHD), not requiring the initiation of new systemic GVHD therapy within 21 days, following the dosing recommendations described above.
 
 ## Dose modifications
 
@@ -216,11 +216,9 @@ Quizartinib and its active metabolite AC886 are primarily metabolised by CYP3A i
 
 ## Strong CYP3A/P-glycoprotein (P-gp) inhibitors
 
-Co-administration of ketoconazole (200 mg twice daily for 28 days), a strong CYP3A/P-gp inhibitor, with a single dose of VANFLYTA increased quizartinib maximum plasma concentration (Cmax) and area under the curve (AUCinf) by 1.17-fold and 1.94-fold, respectively, and decreased AC886 Cmax and AUCinf by 2.5-fold and 1.18-fold, respectively, compared to VANFLYTA alone. At steady state, quizartinib exposure (Cmax and AUC0-24h) was estimated to be increased by 1.86-fold and 1.96-fold,
+Co-administration of ketoconazole (200 mg twice daily for 28 days), a strong CYP3A/P-gp inhibitor, with a single dose of VANFLYTA increased quizartinib maximum plasma concentration (Cmax) and area under the curve (AUCinf) by 1.17-fold and 1.94-fold, respectively, and decreased AC886 Cmax and AUCinf by 2.5-fold and 1.18-fold, respectively, compared to VANFLYTA alone. At steady state, quizartinib exposure (Cmax and AUC0-24h) was estimated to be increased by 1.86-fold and 1.96-fold, respectively, and AC886 exposure (Cmax and AUC0-24h) decreased by 1.22-fold and 1.17-fold, respectively. Increased quizartinib exposure may increase the risk of toxicity.
 
 <div style=\"page-break-after: always\"></div>
-
-respectively, and AC886 exposure (Cmax and AUC0-24h) decreased by 1.22-fold and 1.17-fold, respectively. Increased quizartinib exposure may increase the risk of toxicity.
 
 The dose of VANFLYTA should be reduced as shown in the table below if concomitant use with strong CYP3A inhibitors cannot be avoided. For more details regarding dose adjustments, see Table 3 in section 4.2.
 
@@ -238,15 +236,21 @@ Co-administration of fluconazole (200 mg twice daily for 28 days), a moderate CY
 
 ## Strong or moderate CYP3A inducers
 
-Co-administration of efavirenz (lead-in treatment at 600 mg once daily for 14 days), a moderate CYP3A inducer, with a single dose of VANFLYTA decreased quizartinib Cmax and AUCinf by approximately 1.18-fold and 9.7-fold, respectively, compared to VANFLYTA alone. The Cmax and AUCinf of AC886 decreased by approximately 3.1-fold and 26-fold, respectively (see section 5.2).
+Co-administration of efavirenz (lead-in treatment at 600 mg once daily for 14 days), a moderate CYP3A inducer, with a single dose of VANFLYTA decreased quizartinib Cmax and AUCinf by approximately 1.81-fold and 9.7-fold, respectively, compared to VANFLYTA alone. The Cmax and AUCinf of AC886 decreased by approximately 3.1-fold and 26-fold, respectively (see section 5.2).
 
 Decreased quizartinib exposure may lead to reduced efficacy. Co-administration of VANFLYTA with strong or moderate CYP3A inducers should be avoided.
 
 Examples of strong CYP3A4 inducers include apalutamide, carbamazepine, enzalutamide, mitotane, phenytoin, rifampicin and certain herbal medicinal products such as St. John's Wort (also known as Hypericum perforatum ). Examples of moderate CYP3A4 inducers include efavirenz, bosentan, etravirine, phenobarbital and primidone.
 
+## Weak CYP3A inducers
+
+Coadministration of rufinamide (lead-in treatment at 400 mg twice daily for 11 days) with single-dose administration of VANFLYTA in healthy subjects decreased quizartinib Cmax and AUCinf by approximately 1.24-fold and 1.52-fold, respectively, and decreased the active metabolite AC886 Cmax and AUCinf by approximately 1.88-fold and 2.12-fold, respectively. There were no clinically meaningful changes to quizartinib exposure with coadministration of a weak CYP3A inducer. No dose modification is recommended.
+
 ## QT interval prolonging medicinal products
 
 Co-administration of VANFLYTA with other medicinal products that prolong the QT interval may further increase the incidence of QT prolongation. Examples of QT prolonging medicinal products include but are not limited to antifungal azoles, ondansetron, granisetron, azithromycin, pentamidine, doxycycline, moxifloxacin, atovaquone, prochlorperazine and tacrolimus. Caution should be used when co-administering medicinal products that prolong the QT interval with VANFLYTA (see section 4.4).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Gastric acid reducing agents
 
@@ -256,15 +260,11 @@ Proton pump inhibitor lansoprazole decreased quizartinib Cmax by 1.16-fold and A
 
 ## P-glycoprotein (P-gp) substrates
 
-Co-administration of quizartinib and dabigatran etexilate (a P-gp substrate) increased total and free dabigatran Cmax by 1.12-fold and 1.13-fold, respectively, and increased total and free dabigatran AUCinf by 1.13-fold and 1.11-fold, respectively (see section 5.2). Quizartinib is a weak P-gp inhibitor,
-
-<div style=\"page-break-after: always\"></div>
-
-and no dose modification is recommended when P-gp substrates are co-administered with VANFLYTA.
+Co-administration of quizartinib and dabigatran etexilate (a P-gp substrate) increased total and free dabigatran Cmax by 1.12-fold and 1.13-fold, respectively, and increased total and free dabigatran AUCinf by 1.13-fold and 1.11-fold, respectively (see section 5.2). Quizartinib is a weak P-gp inhibitor, and no dose modification is recommended when P-gp substrates are co-administered with VANFLYTA.
 
 ## Breast cancer resistance protein (BCRP) substrates
 
-In vitro data indicate that quizartinib is an inhibitor of BCRP. The clinical relevance is currently not known. Caution should be used when quizartinib is co-administered with medicinal products that are substrates of BCRP.
+In vitro data indicate that quizartinib is an inhibitor of BCRP. The clinical relevance is currently not known. Caution should be used when quizartinib is co-administered with medicinal products that are substrates of BCRP. A dose reduction of the BCRP substrate medicinal product should be considered when used concomitantly with quizartinib.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -272,7 +272,7 @@ In vitro data indicate that quizartinib is an inhibitor of BCRP. The clinical re
 
 Women of childbearing potential should undergo pregnancy testing within 7 days before starting treatment with VANFLYTA.
 
-Quizartinib may cause embryo-foetal harm when administered to pregnant women (see section 5.3); therefore, women of childbearing potential should use effective contraception during treatment with VANFLYTA and for at least 7 months after the last dose.
+VANFLYTA may cause embryo-foetal harm when administered to pregnant women (see section 5.3); therefore, women of childbearing potential should use effective contraception during treatment with VANFLYTA and for at least 7 months after the last dose.
 
 Male patients with female partners of childbearing potential should use effective contraception during treatment with VANFLYTA and for at least 4 months after the last dose.
 
@@ -290,6 +290,8 @@ It is unknown whether quizartinib or its active metabolites are excreted in huma
 
 There are no human data on the effect of quizartinib on fertility. Based on findings in animals, female and male fertility may be impaired during treatment with VANFLYTA (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 VANFLYTA has no or negligible influence on the ability to drive and use machines.
@@ -299,8 +301,6 @@ VANFLYTA has no or negligible influence on the ability to drive and use machines
 ## Summary of the safety profile
 
 The most common adverse reactions were increased alanine aminotransferase (58.9%), decreased platelet count (40.0%), decreased haemoglobin (37.4%), diarrhoea (37.0%), nausea (34.0%), abdominal pain (29.4%), headache (27.5%), vomiting (24.5%) and decreased neutrophil count (21.9%).
-
-<div style=\"page-break-after: always\"></div>
 
 The most common Grade 3 or 4 adverse reactions were decreased platelet count (40%), decreased haemoglobin (35.5%), decreased neutrophil count (21.5%), increased alanine aminotransferase (12.1%), bacteraemia (7.2%) and fungal infections (5.7%). The most common serious adverse reactions in the VANFLYTA arm were neutropenia (3.0%), fungal infections (2.3%) and herpes infections (2.3%). Adverse reactions with fatal outcome were fungal infections (0.8%) and cardiac arrest (0.4%).
 
@@ -316,57 +316,57 @@ Adverse reactions are listed according to MedDRA System Organ Class (SOC). Withi
 
 Table 4: Adverse reactions
 
-| Adverse reaction                                | All grades %                                    | Grade 3 or 4 %                                  | Frequency category (All grades)                 |
-|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| Infections and infestations                     |                                                 |                                                 |                                                 |
-| Upper respiratory tract infections a            | 18.1                                            | 1.9                                             | Very common                                     |
-| Fungal infections b                             | 15.1                                            | 5.7                                             | Very common                                     |
-| Herpes infections c                             | 14.0                                            | 3.0                                             | Very common                                     |
-| Bacteraemia d                                   | 11.3                                            | 7.2                                             | Very common                                     |
-| Blood and lymphatic system disorders            |                                                 |                                                 |                                                 |
-| Thrombocytopenia e                              | 40.0                                            | 40.0                                            | Very common                                     |
-| Anaemia e                                       | 37.4                                            | 35.5                                            | Very common                                     |
-| Neutropenia e                                   | 21.9                                            | 21.5                                            | Very common                                     |
-| Pancytopenia                                    | 2.6                                             | 2.3                                             | Common                                          |
-| Metabolism and nutrition disorders              |                                                 |                                                 |                                                 |
-| Decreased appetite                              | 17.4                                            | 4.9                                             | Very common                                     |
-| Nervous system disorders                        |                                                 |                                                 |                                                 |
-| Headache f                                      | 27.5                                            | 0                                               | Very common                                     |
-| Cardiac disorders                               |                                                 |                                                 |                                                 |
-| Cardiac arrest g                                | 0.8                                             | 0.4                                             | Uncommon                                        |
-| Ventricular fibrillation g                      | 0.4                                             | 0.4                                             | Uncommon                                        |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |
-| Epistaxis                                       | 15.1                                            | 1.1                                             | Very common                                     |
-| Gastrointestinal disorders                      |                                                 |                                                 |                                                 |
-| Diarrhoea h                                     | 37.0                                            | 3.8                                             | Very common                                     |
-| Nausea                                          | 34.0                                            | 1.5                                             | Very common                                     |
-| Abdominal pain i                                | 29.4                                            | 2.3                                             | Very common                                     |
-| Vomiting                                        | 24.5                                            | 0                                               | Very common                                     |
-| Dyspepsia                                       | 11.3                                            | 0.4                                             | Very common                                     |
+| Adverse reaction                     |   All grades % |   Grade 3 or 4 % | Frequency category (All grades)   |
+|--------------------------------------|----------------|------------------|-----------------------------------|
+| Infections and infestations          |                |                  |                                   |
+| Upper respiratory tract infections a |           18.1 |              1.9 | Very common                       |
+| Fungal infections b                  |           15.1 |              5.7 | Very common                       |
+| Herpes infections c                  |           14.0 |              3.0 | Very common                       |
+| Bacteraemia d                        |           11.3 |              7.2 | Very common                       |
+| Blood and lymphatic system disorders |                |                  |                                   |
+| Thrombocytopenia e                   |           40.0 |             40.0 | Very common                       |
+| Anaemia e                            |           37.4 |             35.5 | Very common                       |
+| Neutropenia e                        |           21.9 |             21.5 | Very common                       |
+| Pancytopenia                         |            2.6 |              2.3 | Common                            |
+| Metabolism and nutrition disorders   |                |                  |                                   |
+| Decreased appetite                   |           17.4 |              4.9 | Very common                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction                                     | All grades %                                         | Grade 3 or 4 %   | Frequency category (All grades)   |
-|------------------------------------------------------|------------------------------------------------------|------------------|-----------------------------------|
-| Hepatobiliary disorders                              |                                                      |                  |                                   |
-| ALT increased e                                      | 58.9                                                 | 12.1             | Very common                       |
-| General disorders and administration site conditions | General disorders and administration site conditions |                  |                                   |
-| Oedema j                                             | 18.9                                                 | 0.4              | Very common                       |
-| Investigations                                       |                                                      |                  |                                   |
-| Prolonged electrocardiogram QT k                     | 14.0                                                 | 3.0              | Very common                       |
+| Adverse reaction                                     | All grades %                                         | Grade 3 or 4 %                                       | Frequency category (All grades)   |
+|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------|
+| Nervous system disorders                             |                                                      |                                                      |                                   |
+| Headache f                                           | 27.5                                                 | 0                                                    | Very common                       |
+| Cardiac disorders                                    |                                                      |                                                      |                                   |
+| Cardiac arrest g                                     | 0.8                                                  | 0.4                                                  | Uncommon                          |
+| Ventricular fibrillation g                           | 0.4                                                  | 0.4                                                  | Uncommon                          |
+| Respiratory, thoracic and mediastinal                | disorders                                            |                                                      |                                   |
+| Epistaxis                                            | 15.1                                                 | 1.1                                                  | Very common                       |
+| Gastrointestinal disorders                           |                                                      |                                                      |                                   |
+| Diarrhoea h                                          | 37.0                                                 | 3.8                                                  | Very common                       |
+| Nausea                                               | 34.0                                                 | 1.5                                                  | Very common                       |
+| Abdominal pain i                                     | 29.4                                                 | 2.3                                                  | Very common                       |
+| Vomiting                                             | 24.5                                                 | 0                                                    | Very common                       |
+| Dyspepsia                                            | 11.3                                                 | 0.4                                                  | Very common                       |
+| Hepatobiliary disorders                              |                                                      |                                                      |                                   |
+| ALT increased e                                      | 58.9                                                 | 12.1                                                 | Very common                       |
+| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |                                   |
+| Oedema j                                             | 18.9                                                 | 0.4                                                  | Very common                       |
+| Investigations                                       |                                                      |                                                      |                                   |
+| Prolonged electrocardiogram QT k                     | 14.0                                                 | 3.0                                                  | Very common                       |
 
 Standard chemotherapy = cytarabine (cytosine arabinoside) and anthracycline (daunorubicin or idarubicin).
 
 - a Upper respiratory tract infections include upper respiratory tract infection, nasopharyngitis, sinusitis, rhinitis, tonsillitis, laryngopharyngitis, pharyngitis bacterial, pharyngotonsillitis, viral pharyngitis and acute sinusitis.
 - b Fungal infections include oral candidiasis, bronchopulmonary aspergillosis, fungal infection, vulvovaginal candidiasis, aspergillus infection, lower respiratory tract infection fungal, oral fungal infection, candida infection, fungal skin infection, mucormycosis, oropharyngeal candidiasis, aspergillosis oral, hepatic infection fungal, hepatosplenic candidiasis, onychomycosis, fungemia, systemic candida and systemic mycosis.
 - c Herpes infections include oral herpes, herpes zoster, herpes virus infections, herpes simplex, human herpesvirus 6 infection, genital herpes and herpes dermatitis.
-- d Bacteraemia includes bacteraemia, Klebsiella bacteraemia, Staphylococcal bacteraemia, Enterococcal bacteraemia, Streptococcal bacteraemia, device-related bacteraemia, Escherichia bacteraemia, Corynebacterium bacteraemia and Pseudomonal bacteraemia.
+- d   Bacteraemia includes bacteraemia, Klebsiella bacteraemia, Staphylococcal bacteraemia, Enterococcal bacteraemia, Streptococcal bacteraemia, device-related bacteraemia, Escherichia bacteraemia, Corynebacterium bacteraemia and Pseudomonal bacteraemia.
 - e Terms based on laboratory data.
-- f Headache includes headache, tension headache and migraine.
+- f   Headache includes headache, tension headache and migraine.
 - g One subject experienced two events (ventricular fibrillation and cardiac arrest).
 - h Diarrhoea includes diarrhoea and diarrhoea haemorrhagic.
 - i   Abdominal pain includes abdominal pain, abdominal pain upper, abdominal discomfort, abdominal pain lower and gastrointestinal pain.
-- j Oedema includes oedema peripheral, face oedema, oedema, fluid overload, generalised oedema, peripheral swelling, localised oedema and face swelling.
+- j   Oedema includes oedema peripheral, face oedema, oedema, fluid overload, generalised oedema, peripheral swelling, localised oedema and face swelling.
 - k   Electrocardiogram QT prolonged includes electrocardiogram QT prolonged and electrocardiogram QT interval abnormal.
 
 ## Description of selected adverse reactions
@@ -374,6 +374,8 @@ Standard chemotherapy = cytarabine (cytosine arabinoside) and anthracycline (dau
 ## Cardiac disorders
 
 Quizartinib prolongs the QT interval on ECG. Any grade QT interval prolongation treatment-emergent adverse reactions were reported in 14.0% of VANFLYTA-treated patients and 3.0% of patients experienced reactions of Grade 3 or higher severity. QT prolongation was associated with dose reduction in 10 (3.8%) patients, dose interruption in 7 (2.6%) patients, and discontinuation in 2 (0.8%) patients. QTcF &gt; 500 ms occurred in 2.3% of patients based on central review of ECG data. Two (0.8%) patients treated with VANFLYTA experienced cardiac arrest with recorded ventricular fibrillation, one with a fatal outcome, both in the setting of severe hypokalaemia. Electrocardiograms, monitoring and correction of hypokalaemia and hypomagnesemia should be performed prior to and during treatment with VANFLYTA. For dose modification for patients with QT interval prolongation, see section 4.2.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other special populations
 
@@ -385,11 +387,7 @@ Patients older than 65 years of age should be closely monitored for the occurren
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
-
-<div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -399,7 +397,7 @@ There is no known antidote for overdoses of VANFLYTA. For a substantial overdose
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors, ATC code: L01EX11
+Pharmacotherapeutic group: Antineoplastic agents, Other protein kinase inhibitors, ATC code: L01EX11
 
 ## Mechanism of action
 
@@ -415,13 +413,11 @@ The exposure-response analysis of QuANTUM-First predicted a concentration-depend
 
 The efficacy and safety of quizartinib vs. placebo was investigated in a randomised, double-blind, placebo-controlled, phase III study, QuANTUM-First. The study enrolled 539 adult patients between 18 and 75 years of age (25% were 65 years or older), who were newly diagnosed with FLT3-ITD positive AML, as determined prospectively by a clinical study assay. Patients were randomised (1:1) to receive VANFLYTA 35.4 mg once daily (n = 268) or placebo (n = 271) for two weeks in each cycle in combination with standard chemotherapy (induction followed by consolidation for responding patients) followed by single-agent maintenance therapy with VANFLYTA (26.5 mg once daily for two weeks and 53 mg once daily thereafter) or placebo for up to 36 cycles (28 days/cycle).
 
-Patients received up to 2 cycles of induction chemotherapy with either daunorubicin on days 1, 2 and 3 or idarubicin on days 1, 2 and 3 and cytarabine for 7 days, followed by post remission therapy which consisted of up to 4 cycles of consolidation chemotherapy and/or HSCT. Consolidation chemotherapy consisted of cytarabine on days 1, 3 and 5. Patients who proceeded to HSCT stopped receiving study treatment 7 days before the start of a conditioning regimen. Please refer to the Summary of Product Characteristics for daunorubicin, idarubicin and cytarabine dosing recommendations.
-
-The two randomised treatment groups were well balanced with respect to baseline demographics, disease characteristics and stratification factors. Of the 539 patients, the median age was 56 years (range 20-75 years), 26.1% of patients in the quizartinib arm and 24% of patients in the placebo arm were 65 years or older; 54.5% were female and 45.5% were male; 59.7% were White, 29.3% were Asian, 1.3% were Black or African American, and 9.7% were other races. Eighty-four percent of patients had an Eastern Cooperative Oncology Group (ECOG) baseline performance status of 0 or 1.
-
 <div style=\"page-break-after: always\"></div>
 
-The majority of the patients (72.4%) had intermediate cytogenetics risk status at baseline. FLT3-ITD variant allele frequency (VAF) was 3-25% in 35.6% of patients, greater than 25-50% in 52.1% of patients and greater than 50% in 12.1% of patients.
+Patients received up to 2 cycles of induction chemotherapy with either daunorubicin on days 1, 2 and 3 or idarubicin on days 1, 2 and 3 and cytarabine for 7 days, followed by post remission therapy which consisted of up to 4 cycles of consolidation chemotherapy and/or HSCT. Consolidation chemotherapy consisted of cytarabine on days 1, 3 and 5. Patients who proceeded to HSCT stopped receiving study treatment 7 days before the start of a conditioning regimen. Please refer to the Summary of Product Characteristics for daunorubicin, idarubicin and cytarabine dosing recommendations.
+
+The two randomised treatment groups were well balanced with respect to baseline demographics, disease characteristics and stratification factors. Of the 539 patients, the median age was 56 years (range 20-75 years), 26.1% of patients in the quizartinib arm and 24% of patients in the placebo arm were 65 years or older; 54.5% were female and 45.5% were male; 59.7% were White, 29.3% were Asian, 1.3% were Black or African American, and 9.7% were other races. Eighty-four percent of patients had an Eastern Cooperative Oncology Group (ECOG) baseline performance status of 0 or 1. The majority of the patients (72.4%) had intermediate cytogenetics risk status at baseline. FLT3-ITD variant allele frequency (VAF) was 3-25% in 35.6% of patients, greater than 25-50% in 52.1% of patients and greater than 50% in 12.1% of patients.
 
 The primary efficacy measure was overall survival (OS) defined as the time from randomisation until death from any cause.
 
@@ -436,7 +432,7 @@ Table 5: Efficacy results from QuANTUM-First (intent-to-treat population)
 |                                              | Quizartinib N = 268   | Placebo N = 271      |
 |----------------------------------------------|-----------------------|----------------------|
 | OS (months)                                  |                       |                      |
-| Median (95% CI) a                            | 31.9 (21.0, NE)       | 15.1 (13.2, 26.2)    |
+| Median (95% CI ) a                           | 31.9 (21.0, NE)       | 15.1 (13.2, 26.2)    |
 | HR b relative to placebo (95% CI)            | 0.776 (0.615, 0.979)  | 0.776 (0.615, 0.979) |
 | p-value (two-sided stratified log-rank test) | 0.0324                | 0.0324               |
 | OS rate (%) (95% CI) a                       |                       |                      |
@@ -537,11 +533,9 @@ Patients with severe renal impairment (CLcr &lt; 30 mL/min) were not included in
 
 In genotoxicity studies, quizartinib was mutagenic in a bacterial reverse mutation assay, but not in a mammalian cell mutation assay (mouse lymphoma thymidine kinase) or in an in vivo transgenic rodent mutation assay. Quizartinib was not clastogenic and did not induce polyploidy in a chromosome aberration assay and was not clastogenic or aneugenic in a single-dose rat bone marrow micronucleus assay. An in vivo bone marrow micronucleus assay in rats was equivocal after 28 days repeated dosing. After a single higher dose, the result was negative.
 
-Fertility studies in animals have not been conducted with quizartinib. However, adverse findings in male and female reproductive systems were observed in repeat dose toxicity studies in rats and monkeys. In female rats, ovarian cysts and vaginal mucosal modifications were observed at doses approximately 10 times the recommended human dose (RHD) based on AUC. Findings in female monkeys included atrophy of the uterus, ovary and vagina; observed at doses approximately 0.3 times the RHD based on AUC. The corresponding no observed adverse effect levels (NOAELs) for these changes were 1.5 times and 0.1 times the RHD, respectively, based on AUC. In male rats, testicular seminiferous tubular degeneration and failure of sperm release were observed at approximately 8 times the RHD based on AUC. Findings in male monkeys included germ cell depletion in the testes; observed at approximately 0.5 times the RHD based on AUC. The corresponding NOAELs for these changes were 1.4 times and 0.1 times the RHD, respectively, based on AUC. After a four-week
+Fertility studies in animals have not been conducted with quizartinib. However, adverse findings in male and female reproductive systems were observed in repeat dose toxicity studies in rats and monkeys. In female rats, ovarian cysts and vaginal mucosal modifications were observed at doses approximately 10 times the recommended human dose (RHD) based on AUC. Findings in female monkeys included atrophy of the uterus, ovary and vagina; observed at doses approximately 0.3 times the RHD based on AUC. The corresponding no observed adverse effect levels (NOAELs) for these changes were 1.5 times and 0.1 times the RHD, respectively, based on AUC. In male rats, testicular seminiferous tubular degeneration and failure of sperm release were observed at approximately 8 times the RHD based on AUC. Findings in male monkeys included germ cell depletion in the testes; observed at approximately 0.5 times the RHD based on AUC. The corresponding NOAELs for these changes were 1.4 times and 0.1 times the RHD, respectively, based on AUC. After a four-week recovery period, all these findings except the vaginal mucosal modifications in the female rats were reversible.
 
 <div style=\"page-break-after: always\"></div>
-
-recovery period, all these findings except the vaginal mucosal modifications in the female rats were reversible.
 
 In embryo-foetal toxicity studies, embryo-foetal lethality and increased post-implantation loss were observed at maternally toxic doses. Foetotoxicity (lower foetal weights, effects on skeletal ossification) and teratogenicity (foetal abnormalities including oedema) were observed at doses approximately 3 times the RHD based on AUC. The NOAEL was 0.5 times the RHD based on AUC. Quizartinib is considered to be potentially teratogenic.
 
@@ -567,11 +561,9 @@ Film-coating Hypromellose (E464) Talc (E553b) Triacetin (E1518) Titanium dioxide
 
 ## VANFLYTA 26.5 mg film-coated tablets
 
-Tablet core Hydroxypropylbetadex Cellulose, microcrystalline (E460) Magnesium stearate
+Tablet core Hydroxypropylbetadex Cellulose, microcrystalline (E460) Magnesium stearate Film-coating Hypromellose (E464) Talc (E553b) Triacetin (E1518) Titanium dioxide (E171) Yellow iron oxide (E172)
 
 <div style=\"page-break-after: always\"></div>
-
-Film-coating Hypromellose (E464) Talc (E553b) Triacetin (E1518) Titanium dioxide (E171) Yellow iron oxide (E172)
 
 ## 6.2 Incompatibilities
 
@@ -648,8 +640,6 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
-
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
@@ -667,11 +657,12 @@ Prior to the launch of VANFLYTA in each Member State, the Marketing Authorisatio
 
 The educational programme is aimed at reinforcing the prescriber's and patient/caregiver's awareness about the risk of serious ADRs related to QTc interval prolongation, and the actions to be taken to minimise the occurrence of the risk in patients receiving VANFLYTA.
 
-<div style=\"page-break-after: always\"></div>
-
 The MAH shall ensure that in each Member State where VANFLYTA is marketed, all healthcare professionals and patients/caregivers who are expected to prescribe, dispense, and use VANFLYTA have access to/are provided with the following educational package:
 
 - Physician educational material
+
+<div style=\"page-break-after: always\"></div>
+
 - Patient information pack
 
 ## Physician educational material:
@@ -735,9 +726,7 @@ Each film-coated tablet contains 17.7 mg quizartinib (as dihydrochloride).
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -745,7 +734,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -777,7 +766,7 @@ Lot
 
 vanflyta 17.7 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -789,17 +778,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 VANFLYTA 17.7 mg tablets quizartinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Daiichi-Sankyo (logo)
 
@@ -815,8 +804,6 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -836,11 +823,11 @@ Each film-coated tablet contains 26.5 mg quizartinib (as dihydrochloride).
 
 ## Film-coated tablets
 
-14 x 1 film-coated tablets
+- 14 x 1 film-coated tablets
 
-28 x 1 film-coated tablets
+- 28 x 1 film-coated tablets
 
-56 x 1 film-coated tablets
+- 56 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -860,7 +847,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -878,11 +867,11 @@ EU/1/23/1768/005 56 x 1 film-coated tablets
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 vanflyta 26.5 mg
 
@@ -902,17 +891,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 VANFLYTA 26.5 mg tablets quizartinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Daiichi-Sankyo (logo)
 
@@ -975,7 +964,7 @@ Phone number:
 
 ## Important information for the patient
 
-VANFLYTA can cause an abnormal electrical activity in your heart called 'prolonged QT interval' which may lead to a life-threatening disturbances of the heart rhythm. Therefore, a regular check of the electrical activity in your heart with an electrocardiogram (ECG) is very important.
+VANFLYTA can cause an abnormal electrical activity in your heart called ' prolonged QT interval ' which may lead to a life-threatening disturbances of the heart rhythm. Therefore, a regular check of the electrical activity in your heart with an electrocardiogram (ECG) is very important.
 
 ## Contact your doctor immediately if:
 
@@ -1039,7 +1028,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## What VANFLYTA is
 
-VANFLYTA contains the active substance quizartinib. It is a type of cancer medicine called a 'protein kinase inhibitor'. The medicine is used along with chemotherapy to treat adults who have acute myeloid leukaemia (AML, a type of blood cancer), with a mutation (change) in the FLT3 gene called 'FLT3-ITD'. VANFLYTA treatment may be continued also after a bone marrow transplant when patients have sufficiently recovered.
+VANFLYTA contains the active substance quizartinib. It is a type of cancer medicine called a ' protein kinase inhibitor ' . The medicine is used along with chemotherapy to treat adults who have acute myeloid leukaemia (AML, a type of blood cancer), with a mutation (change) in the FLT3 gene called ' FLT3-ITD ' . VANFLYTA treatment may be continued also after a bone marrow transplant when patients have sufficiently recovered.
 
 Your doctor will test your cancer cells for changes in the FLT3 gene to look for FLT3-ITD mutations beforehand to make sure that VANFLYTA is right for you.
 
@@ -1055,8 +1044,8 @@ In AML, the body makes a large amount of abnormal white blood cells that do not 
 
 <div style=\"page-break-after: always\"></div>
 
-- if you were born with a heart problem called 'long QT syndrome' (abnormal electrical activity of the heart that affects its rhythm).
-- if you are breast-feeding (see 'Pregnancy, breast-feeding and fertility').
+- if you were born with a heart problem called ' long QT syndrome ' ( abnormal electrical activity of the heart that affects its rhythm).
+- if you are breast-feeding (see ' Pregnancy, breast-feeding and fertility ') .
 
 ## Warnings and precautions
 
@@ -1064,8 +1053,8 @@ Talk to your doctor, pharmacist or nurse before taking VANFLYTA:
 
 - if you have or have had any heart problems including arrhythmia (abnormal heart rhythm), myocardial infarction (heart attack) within 6 months, congestive heart failure (heart isn't pumping hard enough), uncontrolled angina pectoris (chest pain) or uncontrolled hypertension (blood pressure that's too high).
 - if you have been told you have low blood levels of potassium or magnesium.
-- if you are taking medicines that can prolong the QT interval (irregular heart rhythm; see 'Other medicines and VANFLYTA').
-- if you are taking strong CYP3A inhibitors (see 'Other medicines and VANFLYTA').
+- if you are taking medicines that can prolong the QT interval (irregular heart rhythm; see ' Other medicines and VANFLYTA ' ).
+- if you are taking strong CYP3A inhibitors (see ' Other medicines and VANFLYTA ') .
 - if you have or have had fever, cough, chest pain, shortness of breath, tiredness or pain when urinating.
 
 ## Monitoring during treatment with VANFLYTA
@@ -1076,7 +1065,7 @@ Your doctor will perform regular blood tests during treatment with VANFLYTA to c
 
 ## Electrocardiogram
 
-Before and during your treatment, your doctor will check your heart with an electrocardiogram (ECG) to make sure your heart is beating normally. ECGs will be done weekly initially and less often thereafter as decided by your doctor. Your doctor will check your heart more often if you are taking other medicines that prolong the QT interval (see 'Other medicines and VANFLYTA').
+Before and during your treatment, your doctor will check your heart with an electrocardiogram (ECG) to make sure your heart is beating normally. ECGs will be done weekly initially and less often thereafter as decided by your doctor. Your doctor will check your heart more often if you are taking other medicines that prolong the QT interval (see ' Other medicines and VANFLYTA ') .
 
 ## Infections in patients older than 65 years
 
@@ -1092,20 +1081,20 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 In particular, the following medicines may increase the risk of side effects with VANFLYTA by increasing the levels of this medicine in the blood:
 
-- certain medicines used to treat fungal infections - such as itraconazole, posaconazole or voriconazole;
-- certain antibiotics - such as clarithromycin or telithromycin;
+- certain medicines used to treat fungal infections -such as itraconazole, posaconazole or voriconazole;
+- certain antibiotics -such as clarithromycin or telithromycin;
 - nefazodone, a medicine used to treat major depression.
 
 <div style=\"page-break-after: always\"></div>
 
 The following medicines may reduce the effectiveness of VANFLYTA:
 
-- certain medicines used to treat tuberculosis - such as rifampicin;
-- certain medicines used to treat seizures or epilepsy - such as carbamazepine, primidone, phenobarbital or phenytoin;
-- certain medicines to treat prostatic cancer - such as apalutamide and enzalutamide;
-- mitotane - a medicine used for the treatment of symptoms of tumours of the adrenal glands;
-- bosentan - a medicine used to treat high blood pressure in the lungs (pulmonary arterial hypertension);
-- St. John's Wort ( Hypericum perforatum ) - an herbal product used for anxiety and mild depression.
+- certain medicines used to treat tuberculosis -such as rifampicin;
+- certain medicines used to treat seizures or epilepsy -such as carbamazepine, primidone, phenobarbital or phenytoin;
+- certain medicines to treat prostatic cancer -such as apalutamide and enzalutamide;
+- mitotane -a medicine used for the treatment of symptoms of tumours of the adrenal glands;
+- bosentan -a medicine used to treat high blood pressure in the lungs (pulmonary arterial hypertension);
+- St. John's Wort ( Hypericum perforatum ) -an herbal product used for anxiety and mild depression.
 
 Certain medicines use to treat HIV may either increase the risk of side effects (e.g., ritonavir) or reduce the effectiveness (e.g., efavirenz or etravirine) of VANFLYTA.
 
@@ -1125,7 +1114,7 @@ If you are pregnant, think you may be pregnant or are planning to have a baby, a
 
 ## Breast-feeding
 
-Do not breast-feed during treatment with VANFLYTA, and for at least 5 weeks after stopping treatment. This is because it is not known if VANFLYTA passes into your breast milk (see 'Do not take VANFLYTA' ) .
+Do not breast-feed during treatment with VANFLYTA, and for at least 5 weeks after stopping treatment. This is because it is not known if VANFLYTA passes into your breast milk (see ' Do not take VANFLYTA ' ) .
 
 If you are breast-feeding, ask your doctor, pharmacist or nurse for advice before taking this medicine.
 
@@ -1195,7 +1184,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor, pharmacist or nurse immediately if you notice the following side effects:
 
-- feeling dizzy, lightheaded or faint. These could be signs of a heart problem called 'prolonged QT interval' (abnormal electrical activity of the heart that affects its rhythm).
+- feeling dizzy, lightheaded or faint. These could be signs of a heart problem called ' prolonged QT interval ' (abnormal electrical activity of the heart that affects its rhythm).
 - fever, cough, chest pain, shortness of breath, tiredness or pain when urinating. These could be signs of an infection or febrile neutropenia (low white blood cell counts with fever).
 
 ## Very common side effects
@@ -1279,9 +1268,9 @@ Film-coating: Hypromellose, talc, triacetin, titanium dioxide, yellow iron oxide
 
 ## What VANFLYTA looks like and contents of the pack
 
-VANFLYTA 17.7 mg film-coated tablets (tablets) are white, round and with 'DSC 511' on one side, and available in cartons containing 14 x 1 or 28 x 1 film-coated tablets in aluminium/aluminium perforated unit dose blisters.
+VANFLYTA 17.7 mg film-coated tablets (tablets) are white, round and with ' DSC 511 ' on one side, and available in cartons containing 14 x 1 or 28 x 1 film-coated tablets in aluminium/aluminium perforated unit dose blisters.
 
-VANFLYTA 26.5 mg film-coated tablets (tablets) are yellow, round and with 'DSC 512' on one side, and available in cartons containing 14 x 1, 28 x 1 or 56 x 1 film-coated tablets in aluminium/aluminium perforated unit dose blisters.
+VANFLYTA 26.5 mg film-coated tablets (tablets) are yellow, round and with ' DSC 512 ' on one side, and available in cartons containing 14 x 1, 28 x 1 or 56 x 1 film-coated tablets in aluminium/aluminium perforated unit dose blisters.
 
 Not all pack sizes may be marketed.
 
@@ -1297,9 +1286,9 @@ For any information about this medicine, please contact the local representative
 
 <div style=\"page-break-after: always\"></div>
 
-België/Belgique/Belgien Daiichi Sankyo Belgium N.V.-S.A
+België/Belgique/Belgien
 
-Tél/Tel: +32-(0) 2 227 18 80
+Daiichi Sankyo Belgium N.V.-S.A Tél/Tel: +32-(0) 2 227 18 80
 
 ## България
 
@@ -1307,13 +1296,15 @@ Genesis Pharma Bulgaria EOOD Teл.: +359 2 969 3227
 
 ## Česká republika
 
-Genesis Biopharma Czech Republic S.R.O. Tel: +357 22765715
+Genesis Biopharma Czech Republic S.R.O.
 
-## Danmark
+Tel: +357 22765715
+
+Danmark
 
 Daiichi Sankyo Nordics ApS
 
-Tlf.: +45 (0) 33 68 19 99
+Tlf.: +45 80 83 12 11
 
 ## Deutschland
 
@@ -1327,7 +1318,7 @@ Genesis Pharma (Cyprus) Ltd Tel: +357 22765715
 
 ## Ελλάδα
 
-Daiichi Sankyo Greece Single Member S.A Τηλ: +30 2104448037
+Daiichi Sankyo Greece Single Member S.A Τηλ : +30 2104448037
 
 ## España
 
@@ -1347,7 +1338,7 @@ Daiichi Sankyo Ireland Ltd Tel: +353-(0) 1 489 3000
 
 ## Ísland
 
-Daiichi Sankyo Nordics ApS Sími: +354 5357000
+Icepharma hf Sími: +354 540 8000
 
 ## Italia
 
@@ -1355,13 +1346,17 @@ Daiichi Sankyo Italia S.p.A. Tel: +39-06 85 2551
 
 ## Κύπρος
 
-Genesis Pharma (Cyprus) Ltd Τηλ: +357 22765715
+Genesis Pharma (Cyprus) Ltd
+
+Τηλ: +357
+
+22765715
 
 ## Latvija
 
 Genesis Pharma (Cyprus) Ltd Tel: +357 22765715
 
-## This leaflet was last revised in .
+## This leaflet was last revised in
 
 ## Lietuva
 
@@ -1379,11 +1374,13 @@ Genesis Pharma (Cyprus) Ltd Tel: +357 22765715
 
 ## Nederland
 
-Daiichi Sankyo Nederland B.V. Tel: +31-(0) 20 4 07 20 72
+Daiichi Sankyo Nederland B.V.
+
+Tel: +31-(0) 20 4 07 20 72
 
 ## Norge
 
-Daiichi Sankyo Nordics ApS Tlf: +47 (0) 21 09 38 29
+Daiichi Sankyo Nordics ApS Tlf: +45 80 83 12 11
 
 ## Österreich
 
@@ -1405,9 +1402,7 @@ Tel: +40 21 403 4074
 
 ## Slovenija
 
-Genesis Biopharma SL d.o.o.
-
-Tel: +386 1 292 70 90
+Genesis Biopharma SL d.o.o. Tel: +386 1 292 70 90
 
 ## Slovenská republika
 
@@ -1415,13 +1410,11 @@ Genesis Biopharma Slovakia S.R.O. Tel: +357 22765715
 
 ## Suomi/Finland
 
-Daiichi Sankyo Nordics ApS Puh/Tel: +358 (0) 9 3540 7081
+Daiichi Sankyo Nordics ApS Puh/Tel: +45 80 83 12 11
 
 ## Sverige
 
-Daiichi Sankyo Nordics ApS Tel: +46 (0) 40 699 2524
-
-United Kingdom (Northern Ireland) Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
+Daiichi Sankyo Nordics ApS Tel: +45 80 83 12 11
 
 <div style=\"page-break-after: always\"></div>
 

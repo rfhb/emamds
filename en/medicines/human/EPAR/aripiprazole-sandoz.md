@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-13 15:35:00
+document_datetime: 2026-08-21 11:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aripiprazole-sandoz.html
 document_name: aripiprazole-sandoz.html
 version: success
-processing_time: 0.1534391
-conversion_datetime: 2026-04-17 15:48:17.91143
+processing_time: 0.1746797
+conversion_datetime: 2026-08-22 22:56:45.526114
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.0
-  docling: 2.89.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Aripiprazole Sandoz
 
@@ -39,8 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Aripiprazole Sandoz](#news-on)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-77534)
-- [More information on Aripiprazole Sandoz](#more-information-on-aripiprazole-sandoz-1073)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -56,7 +54,7 @@ Expand section
 
 Collapse section
 
-## What is Aripiprazole Sandoz and what is it used for?
+### What is Aripiprazole Sandoz and what is it used for?
 
 Aripiprazole Sandoz is used in patients with the following mental illnesses:
 
@@ -65,7 +63,7 @@ Aripiprazole Sandoz is used in patients with the following mental illnesses:
 
 Aripiprazole Sandoz contains the active substance aripiprazole and is a 'generic' and a 'hybrid' medicine. This means that it is similar to a 'reference medicine', but it contains aripiprazole at a new strength in addition to existing strengths: while the reference medicine, Abilify, is available as 5, 10, 15 and 30 mg, Aripiprazole Sandoz is also available as 20 mg tablets.
 
-## How is Aripiprazole Sandoz used?
+### How is Aripiprazole Sandoz used?
 
 Aripiprazole Sandoz is available as tablets and can only be obtained with a prescription.
 
@@ -75,27 +73,27 @@ For treating manic episodes in bipolar disorder, the recommended starting dose i
 
 For treating manic episodes in patients aged between 13 and 17 years, the starting dose is 2 mg a day (using an aripiprazole product available in liquid form), which is gradually increased to the recommended dose of 10 mg once a day. Treatment must not last longer than 12 weeks.
 
-The dose should be adjusted in patients who are taking other medicines that affect the way Aripiprazole Sandoz is broken down in the body.  For further information, see the summary of product characteristics (also part of the EPAR).
+The dose should be adjusted in patients who are taking other medicines that affect the way Aripiprazole Sandoz is broken down in the body. For further information, see the summary of product characteristics (also part of the EPAR).
 
-## How does Aripiprazole Sandoz work?
+### How does Aripiprazole Sandoz work?
 
 The active substance in Aripiprazole Sandoz, aripiprazole, is an antipsychotic medicine. Its exact mechanism of action is unknown, but it attaches to several different receptors on nerve cells in the brain. This disrupts signals transmitted between brain nerve cells by 'neurotransmitters', chemicals that allow nerve cells to communicate with each other. Aripiprazole is thought to act mainly by being a 'partial agonist' at the receptors for the neurotransmitters dopamine and 5-hydroxytryptamine (also called serotonin). This means that aripiprazole acts like dopamine and 5-hydroxytryptamine by activating these receptors, but less strongly than the neurotransmitters. In this way, aripiprazole helps to change the activity of the nerve cells which are thought to give rise to psychotic or manic symptoms and preventing them from returning.
 
-## How has Aripiprazole Sandoz been studied?
+### How has Aripiprazole Sandoz been studied?
 
 The company provided data from the published literature on aripiprazole.
 
 The company carried out 'bioequivalence' studies to show that Aripiprazole Sandoz is bioequivalent to the reference medicine, Abilify. Two medicines are bioequivalent when they produce the same levels of the active substance in the body.
 
-## What are the benefits and risks of Aripiprazole Sandoz?
+### What are the benefits and risks of Aripiprazole Sandoz?
 
 Because Aripiprazole Sandoz is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Aripiprazole Sandoz approved?
+### Why is Aripiprazole Sandoz approved?
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) concluded that, in accordance with EU requirements, Aripiprazole Sandoz has been shown to have comparable quality and to be bioequivalent to Abilify. Therefore, the CHMP's view was that, as for Abilify, the benefit outweighs the identified risk. The Committee recommended that Aripiprazole Sandoz be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Aripiprazole Sandoz?
+### What measures are being taken to ensure the safe and effective use of Aripiprazole Sandoz?
 
 A risk management plan has been developed to ensure that Aripiprazole Sandoz is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Aripiprazole Sandoz, including the appropriate precautions to be followed by healthcare professionals and patients.
 
@@ -103,7 +101,7 @@ Further information can be found in the [Aripiprazole Sandoz : EPAR - Risk-manag
 
 In addition, when used for patients aged 13 years or older with moderate to severe manic episodes in bipolar I disorder, the company that markets Aripiprazole Sandoz will provide educational materials to be supplied to patients or their caregivers and to doctors to explain the safe use of the medicine in these patients.
 
-## Other information about Aripiprazole Sandoz
+### Other information about Aripiprazole Sandoz
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Aripiprazole Sandoz on
 
@@ -119,7 +117,7 @@ English (EN) (99.7 KB - PDF)
 
 [View](/en/documents/overview/aripiprazole-sandoz-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-135)
+[Other languages (22)](#file-language-dropdown-399)
 
 български (BG) (129.55 KB - PDF)
 
@@ -151,7 +149,7 @@ Deutsch (DE) (106.75 KB - PDF)
 
 [View](/de/documents/overview/aripiprazole-sandoz-epar-summary-public_de.pdf)
 
-eesti keel (ET) (104.47 KB - PDF)
+eesti (ET) (104.47 KB - PDF)
 
 **First published:** 25/09/2015 **Last updated:** 25/09/2015
 
@@ -181,13 +179,13 @@ italiano (IT) (104.59 KB - PDF)
 
 [View](/it/documents/overview/aripiprazole-sandoz-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (123.38 KB - PDF)
+latviešu (LV) (123.38 KB - PDF)
 
 **First published:** 25/09/2015 **Last updated:** 25/09/2015
 
 [View](/lv/documents/overview/aripiprazole-sandoz-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (123.8 KB - PDF)
+lietuvių (LT) (123.8 KB - PDF)
 
 **First published:** 25/09/2015 **Last updated:** 25/09/2015
 
@@ -241,7 +239,7 @@ slovenščina (SL) (120.48 KB - PDF)
 
 [View](/sl/documents/overview/aripiprazole-sandoz-epar-summary-public_sl.pdf)
 
-Suomi (FI) (104.55 KB - PDF)
+suomi (FI) (104.55 KB - PDF)
 
 **First published:** 25/09/2015 **Last updated:** 25/09/2015
 
@@ -265,167 +263,168 @@ English (EN) (56.39 KB - PDF)
 
 Aripiprazole Sandoz : EPAR - Product Information
 
-English (EN) (454.93 KB - PDF)
+English (EN) (503.65 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/en/documents/product-information/aripiprazole-sandoz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-276)
+[Other languages (24)](#file-language-dropdown-857)
 
-български (BG) (500.95 KB - PDF)
+български (BG) (547.87 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/bg/documents/product-information/aripiprazole-sandoz-epar-product-information_bg.pdf)
 
-español (ES) (375.32 KB - PDF)
+español (ES) (431.49 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/es/documents/product-information/aripiprazole-sandoz-epar-product-information_es.pdf)
 
-čeština (CS) (467.88 KB - PDF)
+čeština (CS) (518.7 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/cs/documents/product-information/aripiprazole-sandoz-epar-product-information_cs.pdf)
 
-dansk (DA) (382.72 KB - PDF)
+dansk (DA) (439.1 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/da/documents/product-information/aripiprazole-sandoz-epar-product-information_da.pdf)
 
-Deutsch (DE) (399.87 KB - PDF)
+Deutsch (DE) (459.41 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/de/documents/product-information/aripiprazole-sandoz-epar-product-information_de.pdf)
 
-eesti keel (ET) (419.74 KB - PDF)
+eesti (ET) (473.8 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/et/documents/product-information/aripiprazole-sandoz-epar-product-information_et.pdf)
 
-ελληνικά (EL) (512.18 KB - PDF)
+ελληνικά (EL) (564.14 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/el/documents/product-information/aripiprazole-sandoz-epar-product-information_el.pdf)
 
-français (FR) (469.08 KB - PDF)
+français (FR) (527.28 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/fr/documents/product-information/aripiprazole-sandoz-epar-product-information_fr.pdf)
 
-hrvatski (HR) (433.93 KB - PDF)
+hrvatski (HR) (492.09 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/hr/documents/product-information/aripiprazole-sandoz-epar-product-information_hr.pdf)
 
-íslenska (IS) (378.52 KB - PDF)
+italiano (IT) (528.67 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
-
-[View](/is/documents/product-information/aripiprazole-sandoz-epar-product-information_is.pdf)
-
-italiano (IT) (469.04 KB - PDF)
-
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/it/documents/product-information/aripiprazole-sandoz-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (457.97 KB - PDF)
+latviešu (LV) (510.73 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/lv/documents/product-information/aripiprazole-sandoz-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (462.5 KB - PDF)
+lietuvių (LT) (522.16 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/lt/documents/product-information/aripiprazole-sandoz-epar-product-information_lt.pdf)
 
-magyar (HU) (468.15 KB - PDF)
+magyar (HU) (522.34 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/hu/documents/product-information/aripiprazole-sandoz-epar-product-information_hu.pdf)
 
-Malti (MT) (503.14 KB - PDF)
+Malti (MT) (556.8 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/mt/documents/product-information/aripiprazole-sandoz-epar-product-information_mt.pdf)
 
-Nederlands (NL) (358.93 KB - PDF)
+Nederlands (NL) (414.11 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/nl/documents/product-information/aripiprazole-sandoz-epar-product-information_nl.pdf)
 
-norsk (NO) (378.61 KB - PDF)
+polski (PL) (562.35 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
-
-[View](/no/documents/product-information/aripiprazole-sandoz-epar-product-information_no.pdf)
-
-polski (PL) (513.48 KB - PDF)
-
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/pl/documents/product-information/aripiprazole-sandoz-epar-product-information_pl.pdf)
 
-português (PT) (384.53 KB - PDF)
+português (PT) (441.01 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/pt/documents/product-information/aripiprazole-sandoz-epar-product-information_pt.pdf)
 
-română (RO) (465.39 KB - PDF)
+română (RO) (520.7 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/ro/documents/product-information/aripiprazole-sandoz-epar-product-information_ro.pdf)
 
-slovenčina (SK) (454.78 KB - PDF)
+slovenčina (SK) (510.27 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/sk/documents/product-information/aripiprazole-sandoz-epar-product-information_sk.pdf)
 
-slovenščina (SL) (472.66 KB - PDF)
+slovenščina (SL) (531.33 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/sl/documents/product-information/aripiprazole-sandoz-epar-product-information_sl.pdf)
 
-Suomi (FI) (381.14 KB - PDF)
+suomi (FI) (437.79 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/fi/documents/product-information/aripiprazole-sandoz-epar-product-information_fi.pdf)
 
-svenska (SV) (457.4 KB - PDF)
+svenska (SV) (433.48 KB - PDF)
 
-**First published:** 25/09/2015 **Last updated:** 13/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
 
 [View](/sv/documents/product-information/aripiprazole-sandoz-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000340511
+Íslenska (IS) (475.62 KB - PDF)
 
-10/04/2026
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
+
+[View](/is/documents/product-information/aripiprazole-sandoz-epar-product-information_is.pdf)
+
+norsk (NO) (434.38 KB - PDF)
+
+**First published:** 25/09/2015 **Last updated:** 21/08/2026
+
+[View](/no/documents/product-information/aripiprazole-sandoz-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000369001
+
+20/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -443,7 +442,7 @@ English (EN) (24.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aripiprazole-sandoz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-993)
+[Other languages (24)](#file-language-dropdown-871)
 
 български (BG) (65.05 KB - PDF)
 
@@ -475,7 +474,7 @@ Deutsch (DE) (25.04 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/aripiprazole-sandoz-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (25.03 KB - PDF)
+eesti (ET) (25.03 KB - PDF)
 
 **First published:** 25/09/2015 **Last updated:** 25/09/2015
 
@@ -499,25 +498,19 @@ hrvatski (HR) (55.51 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/aripiprazole-sandoz-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (29.52 KB - PDF)
-
-**First published:** 25/09/2015 **Last updated:** 25/09/2015
-
-[View](/is/documents/all-authorised-presentations/aripiprazole-sandoz-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (21.34 KB - PDF)
 
 **First published:** 25/09/2015 **Last updated:** 25/09/2015
 
 [View](/it/documents/all-authorised-presentations/aripiprazole-sandoz-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (62.59 KB - PDF)
+latviešu (LV) (62.59 KB - PDF)
 
 **First published:** 25/09/2015 **Last updated:** 25/09/2015
 
 [View](/lv/documents/all-authorised-presentations/aripiprazole-sandoz-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (56.94 KB - PDF)
+lietuvių (LT) (56.94 KB - PDF)
 
 **First published:** 25/09/2015 **Last updated:** 25/09/2015
 
@@ -540,12 +533,6 @@ Nederlands (NL) (25.03 KB - PDF)
 **First published:** 25/09/2015 **Last updated:** 25/09/2015
 
 [View](/nl/documents/all-authorised-presentations/aripiprazole-sandoz-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (29.02 KB - PDF)
-
-**First published:** 25/09/2015 **Last updated:** 25/09/2015
-
-[View](/no/documents/all-authorised-presentations/aripiprazole-sandoz-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (35.47 KB - PDF)
 
@@ -577,7 +564,7 @@ slovenščina (SL) (75.92 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/aripiprazole-sandoz-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (28.98 KB - PDF)
+suomi (FI) (28.98 KB - PDF)
 
 **First published:** 25/09/2015 **Last updated:** 25/09/2015
 
@@ -589,28 +576,31 @@ svenska (SV) (25.18 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/aripiprazole-sandoz-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (29.52 KB - PDF)
+
+**First published:** 25/09/2015 **Last updated:** 25/09/2015
+
+[View](/is/documents/all-authorised-presentations/aripiprazole-sandoz-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (29.02 KB - PDF)
+
+**First published:** 25/09/2015 **Last updated:** 25/09/2015
+
+[View](/no/documents/all-authorised-presentations/aripiprazole-sandoz-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Aripiprazole Sandoz
-
-Active substance
-
-aripiprazole
-
-International non-proprietary name (INN) or common name
-
-aripiprazole
-
-Therapeutic area (MeSH)
-
-- Schizophrenia
-- Bipolar Disorder
-
-Anatomical therapeutic chemical (ATC) code
-
-N05AX12
+- **Name of medicine**
+    - Aripiprazole Sandoz
+- **Active substance**
+    - aripiprazole
+- **International non-proprietary name (INN) or common name**
+    - aripiprazole
+- **Therapeutic area (MeSH)**
+        - Schizophrenia
+        - Bipolar Disorder
+- **Anatomical therapeutic chemical (ATC) code**
+    - N05AX12
 
 ### Pharmacotherapeutic group
 
@@ -626,31 +616,18 @@ Aripiprazole Sandoz is indicated for the treatment up to 12 weeks of moderate to
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004008
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Sandoz GmbH
-
-Biochemiestr. 10
-
-Opinion adopted
-
-25/06/2015
-
-Marketing authorisation issued
-
-20/08/2015
-
-Revision
-
-13
+- **EMA product number**
+    - EMEA/H/C/004008
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Sandoz GmbH Biochemiestr. 10  6250 Kundl  Austria
+- **Opinion adopted**
+    - 25/06/2015
+- **Marketing authorisation issued**
+    - 20/08/2015
+- **Revision**
+    - 14
 
 ## Assessment history
 
@@ -658,13 +635,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Aripiprazole Sandoz : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.06 KB - PDF)
+English (EN) (147.75 KB - PDF)
 
-**First published:** 24/06/2025 **Last updated:** 13/04/2026
+**First published:** 24/06/2025 **Last updated:** 21/08/2026
 
 [View](/en/documents/procedural-steps-after/aripiprazole-sandoz-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -684,9 +661,9 @@ English (EN) (139.71 KB - PDF)
 
 **First published:** 14/05/2020
 
-[View](/en/documents/scientific-conclusion/aripiprazole-sandoz-h-c-psusa-00000234-201907-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/aripiprazole-sandoz-h-c-psusa-00000234-201907-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Aripiprazole Sandoz : EPAR - Public assessment report
 
@@ -726,7 +703,7 @@ English (EN) (125.75 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/aripiprazole-sandoz-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-337)
+[Other languages (24)](#file-language-dropdown-437)
 
 български (BG) (125.62 KB - DOCX)
 
@@ -758,7 +735,7 @@ Deutsch (DE) (111.16 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/aripiprazole-sandoz-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (105.58 KB - DOCX)
+eesti (ET) (105.58 KB - DOCX)
 
 **First published:** 24/06/2025 **Last updated:** 13/04/2026
 
@@ -782,25 +759,19 @@ hrvatski (HR) (103.94 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/aripiprazole-sandoz-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (124.55 KB - DOCX)
-
-**First published:** 24/06/2025 **Last updated:** 13/04/2026
-
-[View](/is/documents/product-information-tracked-changes/aripiprazole-sandoz-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (110.6 KB - DOCX)
 
 **First published:** 24/06/2025 **Last updated:** 13/04/2026
 
 [View](/it/documents/product-information-tracked-changes/aripiprazole-sandoz-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (107.64 KB - DOCX)
+latviešu (LV) (107.64 KB - DOCX)
 
 **First published:** 24/06/2025 **Last updated:** 13/04/2026
 
 [View](/lv/documents/product-information-tracked-changes/aripiprazole-sandoz-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (113.64 KB - DOCX)
+lietuvių (LT) (113.64 KB - DOCX)
 
 **First published:** 24/06/2025 **Last updated:** 13/04/2026
 
@@ -823,12 +794,6 @@ Nederlands (NL) (107.03 KB - DOCX)
 **First published:** 24/06/2025 **Last updated:** 13/04/2026
 
 [View](/nl/documents/product-information-tracked-changes/aripiprazole-sandoz-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (107.56 KB - DOCX)
-
-**First published:** 24/06/2025 **Last updated:** 13/04/2026
-
-[View](/no/documents/product-information-tracked-changes/aripiprazole-sandoz-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (113.67 KB - DOCX)
 
@@ -860,7 +825,7 @@ slovenščina (SL) (115.09 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/aripiprazole-sandoz-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (109.04 KB - DOCX)
+suomi (FI) (109.04 KB - DOCX)
 
 **First published:** 24/06/2025 **Last updated:** 13/04/2026
 
@@ -872,159 +837,20 @@ svenska (SV) (101.56 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/aripiprazole-sandoz-epar-product-information-tracked-changes_sv.docx)
 
-## More information on Aripiprazole Sandoz
+Íslenska (IS) (124.55 KB - DOCX)
 
-Questions and answers on generic medicines
+**First published:** 24/06/2025 **Last updated:** 13/04/2026
 
-Reference Number: EMA/393905/2006 Rev. 2
+[View](/is/documents/product-information-tracked-changes/aripiprazole-sandoz-epar-product-information-tracked-changes_is.docx)
 
-English (EN) (66.45 KB - PDF)
+norsk (NO) (107.56 KB - DOCX)
 
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
+**First published:** 24/06/2025 **Last updated:** 13/04/2026
 
-[View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-834)
-
-български (BG) (93.16 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
-
-español (ES) (68.3 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
-
-čeština (CS) (87.71 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
-
-dansk (DA) (66.79 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
-
-Deutsch (DE) (67.55 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
-
-eesti keel (ET) (65.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
-
-ελληνικά (EL) (91.29 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
-
-français (FR) (68.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
-
-hrvatski (HR) (87.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
-
-italiano (IT) (67.62 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
-
-latviešu valoda (LV) (111.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
-
-lietuvių kalba (LT) (86.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
-
-magyar (HU) (85.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
-
-Malti (MT) (89.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
-
-Nederlands (NL) (66.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
-
-polski (PL) (88.51 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
-
-português (PT) (68.32 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
-
-română (RO) (86.9 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
-
-slovenčina (SK) (87.73 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
-
-slovenščina (SL) (84.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
-
-Suomi (FI) (66.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
-
-svenska (SV) (67.11 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
-
-## Topics
-
-- [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+[View](/no/documents/product-information-tracked-changes/aripiprazole-sandoz-epar-product-information-tracked-changes_no.docx)
 
 **This page was last updated on**
 
-13/04/2026
+21/08/2026
 
 ## Share this page

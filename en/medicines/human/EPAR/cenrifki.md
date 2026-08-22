@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-25 09:08:00
+document_datetime: 2026-08-21 16:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cenrifki.html
 document_name: cenrifki.html
 version: success
-processing_time: 0.1473088
-conversion_datetime: 2026-07-04 13:11:50.254346
+processing_time: 0.1366588
+conversion_datetime: 2026-08-22 22:55:56.664026
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Cenrifki
 
@@ -119,7 +119,7 @@ English (EN) (155.69 KB - PDF)
 
 [View](/en/documents/overview/cenrifki-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-416)
+[Other languages (22)](#file-language-dropdown-329)
 
 български (BG) (167.36 KB - PDF)
 
@@ -265,165 +265,167 @@ English (EN) (1.42 MB - PDF)
 
 Cenrifki : EPAR - Product information
 
-English (EN) (844.39 KB - PDF)
+English (EN) (604.8 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/en/documents/product-information/cenrifki-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-479)
+[Other languages (24)](#file-language-dropdown-332)
 
-български (BG) (662.07 KB - PDF)
+български (BG) (626.66 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/bg/documents/product-information/cenrifki-epar-product-information_bg.pdf)
 
-español (ES) (576.47 KB - PDF)
+español (ES) (480.6 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/es/documents/product-information/cenrifki-epar-product-information_es.pdf)
 
-čeština (CS) (884.44 KB - PDF)
+čeština (CS) (829.84 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/cs/documents/product-information/cenrifki-epar-product-information_cs.pdf)
 
-dansk (DA) (732.17 KB - PDF)
+dansk (DA) (634.58 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/da/documents/product-information/cenrifki-epar-product-information_da.pdf)
 
-Deutsch (DE) (622.82 KB - PDF)
+Deutsch (DE) (580.08 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/de/documents/product-information/cenrifki-epar-product-information_de.pdf)
 
-eesti (ET) (577.38 KB - PDF)
+eesti (ET) (298.6 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/et/documents/product-information/cenrifki-epar-product-information_et.pdf)
 
-ελληνικά (EL) (798.53 KB - PDF)
+ελληνικά (EL) (638.81 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/el/documents/product-information/cenrifki-epar-product-information_el.pdf)
 
-français (FR) (915.68 KB - PDF)
+français (FR) (900.44 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/fr/documents/product-information/cenrifki-epar-product-information_fr.pdf)
 
-hrvatski (HR) (639.78 KB - PDF)
+hrvatski (HR) (493.53 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/hr/documents/product-information/cenrifki-epar-product-information_hr.pdf)
 
-italiano (IT) (774.16 KB - PDF)
+italiano (IT) (738.68 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/it/documents/product-information/cenrifki-epar-product-information_it.pdf)
 
-latviešu (LV) (509.73 KB - PDF)
+latviešu (LV) (408.65 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/lv/documents/product-information/cenrifki-epar-product-information_lv.pdf)
 
-lietuvių (LT) (608.1 KB - PDF)
+lietuvių (LT) (478.71 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/lt/documents/product-information/cenrifki-epar-product-information_lt.pdf)
 
-magyar (HU) (530.65 KB - PDF)
+magyar (HU) (547.45 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/hu/documents/product-information/cenrifki-epar-product-information_hu.pdf)
 
-Malti (MT) (776.01 KB - PDF)
+Malti (MT) (738.79 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/mt/documents/product-information/cenrifki-epar-product-information_mt.pdf)
 
-Nederlands (NL) (853.98 KB - PDF)
+Nederlands (NL) (773.23 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/nl/documents/product-information/cenrifki-epar-product-information_nl.pdf)
 
-polski (PL) (768.1 KB - PDF)
+polski (PL) (727.6 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/pl/documents/product-information/cenrifki-epar-product-information_pl.pdf)
 
-português (PT) (771.66 KB - PDF)
+português (PT) (671.42 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/pt/documents/product-information/cenrifki-epar-product-information_pt.pdf)
 
-română (RO) (837.06 KB - PDF)
+română (RO) (837.41 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/ro/documents/product-information/cenrifki-epar-product-information_ro.pdf)
 
-slovenčina (SK) (592.8 KB - PDF)
+slovenčina (SK) (617.9 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/sk/documents/product-information/cenrifki-epar-product-information_sk.pdf)
 
-slovenščina (SL) (802.92 KB - PDF)
+slovenščina (SL) (717.71 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/sl/documents/product-information/cenrifki-epar-product-information_sl.pdf)
 
-suomi (FI) (638.99 KB - PDF)
+suomi (FI) (576.21 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/fi/documents/product-information/cenrifki-epar-product-information_fi.pdf)
 
-svenska (SV) (698.93 KB - PDF)
+svenska (SV) (620.07 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/sv/documents/product-information/cenrifki-epar-product-information_sv.pdf)
 
-Íslenska (IS) (792.92 KB - PDF)
+Íslenska (IS) (647.91 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/is/documents/product-information/cenrifki-epar-product-information_is.pdf)
 
-norsk (NO) (608.64 KB - PDF)
+norsk (NO) (574.41 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 21/08/2026
 
 [View](/no/documents/product-information/cenrifki-epar-product-information_no.pdf)
 
-19/06/2026
+**Latest procedure affecting product information:** VR/0000365570
+
+21/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -442,7 +444,7 @@ English (EN) (53.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cenrifki-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-409)
+[Other languages (24)](#file-language-dropdown-275)
 
 български (BG) (92.4 KB - PDF)
 
@@ -621,8 +623,24 @@ Cenrifki is indicated for the treatment of adult patients with secondary progres
     - 23/04/2026
 - **Marketing authorisation issued**
     - 19/06/2026
+- **Revision**
+    - 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Cenrifki : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (171.17 KB - PDF)
+
+**First published:** 21/08/2026
+
+[View](/en/documents/procedural-steps-after/cenrifki-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -654,6 +672,6 @@ English (EN) (130.95 KB - PDF)
 
 **This page was last updated on**
 
-25/06/2026
+21/08/2026
 
 ## Share this page

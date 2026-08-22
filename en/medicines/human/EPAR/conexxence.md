@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/conexxence.html
 document_name: conexxence.html
 version: success
-processing_time: 0.139424
-conversion_datetime: 2026-08-22 22:55:39.626328
+processing_time: 0.1411929
+conversion_datetime: 2026-08-22 23:29:54.28228
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

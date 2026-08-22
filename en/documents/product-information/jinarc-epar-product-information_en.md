@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-01 15:28:00
+document_datetime: 2026-08-19 12:33:21
 document_pages: 68
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jinarc-epar-product-information_en.pdf
 document_name: jinarc-epar-product-information_en.pdf
 version: success
-processing_time: 25.9866667
-conversion_datetime: 2026-06-04 22:35:37.724108
+processing_time: 13.4643489
+conversion_datetime: 2026-08-23 00:34:20.380259
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -284,9 +284,9 @@ Limited safety and efficacy data are available for Jinarc in patients with CKD l
 
 Jinarc contains lactose as an excipient. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
-## 4.5 Interaction with other medicinal products and other forms of interaction
-
 <div style=\"page-break-after: always\"></div>
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Effect of other medicinal products on the pharmacokinetics of tolvaptan
 
@@ -320,9 +320,9 @@ Tolvaptan has not been extensively studied in ADPKD in combination with diuretic
 
 In healthy subjects, tolvaptan, a CYP3A substrate, had no effect on the plasma concentrations of some other CYP3A substrates (e.g. warfarin or amiodarone). Tolvaptan increased plasma levels of lovastatin by 1.3-to 1.5-fold. Even though this increase has no clinical relevance, it indicates tolvaptan can potentially increase exposure to CYP3A4 substrates.
 
-## Transporter substrates
-
 <div style=\"page-break-after: always\"></div>
+
+## Transporter substrates
 
 P-glycoprotein substrates: In-vitro studies indicate that tolvaptan is a substrate and competitive inhibitor of P-glycoprotein (P-gp). Steady state digoxin concentrations were increased (1.3-fold in maximum observed plasma concentration [Cmax] and 1.2-fold in area under the plasma concentration-time curve over the dosing interval [AUC τ ]) when co-administered with multiple once daily 60 mg doses of tolvaptan. Patients receiving digoxin or other narrow therapeutic P-gp substrates (e.g. dabigatran) must therefore be managed cautiously and evaluated for excessive effects when treated with tolvaptan.
 
@@ -651,6 +651,10 @@ Name and address of the manufacturer(s) responsible for batch release
 
 Millmount Healthcare Limited Block-7, City North Business Campus, Stamullen, Co. Meath, K32 YD60 Ireland
 
+Tjoapack Netherlands B.V. Nieuwe Donk 9 Etten-Leur, 4879 AC Netherlands
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
@@ -676,7 +680,11 @@ An updated RMP should be submitted:
 
 Prior to launch of Jinarc in each Member State the Marketing Authorisation Holder must agree the content and format of the educational programme, including communication media and distribution modalities with each National Competent Authority. The MAH must ensure that all patients/carers who are expected to use JINARC have access to/are provided with patient educational material.
 
-The patient educational material is aimed at ensuring awareness about the potential risk of hepatotoxicity and the risk of severe dehydration and providing guidance on how to manage these risks. It also addresses the importance of pregnancy prevention prior to the initiation and during the treatment with Jinarc.
+The patient educational material is aimed at ensuring awareness about the potential risk of hepatotoxicity and the risk of severe dehydration and providing guidance on how to manage these risks.
+
+<div style=\"page-break-after: always\"></div>
+
+It also addresses the importance of pregnancy prevention prior to the initiation and during the treatment with Jinarc.
 
 ## The patient educational material should contain:
 
@@ -684,15 +692,13 @@ The patient educational material is aimed at ensuring awareness about the potent
 - Patient guide
 - Patient Card
 
-<div style=\"page-break-after: always\"></div>
-
-The Patient guide shall contain the following key messages:
+## The Patient guide shall contain the following key messages:
 
 - The risk of hepatotoxicity associated with the use of Jinarc
 - The risk of severe dehydration
 - The importance of pregnancy prevention, before and during treatment with Jinarc
 
-The Patient Card shall contain the following key messages:
+## The Patient Card shall contain the following key messages:
 
 - Signs or symptoms of liver toxicity and severe dehydration
 - Advice if such symptoms occur
@@ -1041,8 +1047,8 @@ Jinarc 45 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1189,8 +1195,8 @@ Jinarc 45 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1315,8 +1321,8 @@ Jinarc 45 mg
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 39
 
@@ -1426,8 +1432,8 @@ Jinarc 60 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1574,8 +1580,8 @@ Jinarc 60 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1700,8 +1706,8 @@ Jinarc 60 mg
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 49
 
@@ -1811,8 +1817,8 @@ Jinarc 90 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1959,8 +1965,8 @@ Jinarc 90 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2085,8 +2091,8 @@ Jinarc 90 mg
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 59
 
@@ -2383,17 +2389,19 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT, Amsterdam Netherlands
+Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT, Amsterdam
+
+Netherlands
 
 ## Manufacturer
 
 Millmount Healthcare Limited Block-7, City North Business Campus, Stamullen, Co. Meath, K32 YD60 Ireland
 
+Tjoapack Netherlands B.V. Nieuwe Donk 9 Etten-Leur, 4879 AC Netherlands
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Otsuka Pharma Scandinavia AB
-
-Tél/Tel: +46 (0) 8 545 286 60
+België/Belgique/Belgien Otsuka Pharma Scandinavia AB Tél/Tel: +46 (0) 8 545 286 60
 
 ## България
 
@@ -2418,10 +2426,6 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 ## Ελλάδα
 
 Otsuka Pharmaceutical Netherlands B.V. Thλ: +31 (0) 20 85 46 555
-
-## España
-
-Otsuka Pharmaceutical S.A Tel: +34 (0) 93 208 1020
 
 ## Lietuva
 
@@ -2451,11 +2455,13 @@ Otsuka Pharma Scandinavia AB Tlf: +46 (0) 8 545 286 60
 
 Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
-## Polska
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
-
 <div style=\"page-break-after: always\"></div>
+
+## España
+
+Otsuka Pharmaceutical S.A
+
+Tel: +34 (0) 93 208 1020
 
 ## France
 
@@ -2465,15 +2471,11 @@ Tél: +33 (0) 1 47 08 00 00
 
 ## Hrvatska
 
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Ireland
 
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Ísland
 
@@ -2489,11 +2491,7 @@ Tel: +39 (0) 2 0063 2710
 
 ## Κύπρος
 
-Otsuka Pharmaceutical Netherlands B.V.
-
-Thλ:
-
-+31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V. Thλ: +31 (0) 20 85 46 555
 
 ## Latvija
 
@@ -2507,23 +2505,21 @@ Tel: +31 (0) 20 85 46 555
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
+## Polska
+
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+
 ## Portugal
 
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## România
 
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Slovenija
 
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Slovenská republika
 
@@ -2537,6 +2533,4 @@ Puh/Tel: +46 (0) 8 545 286 60
 
 ## Sverige
 
-Otsuka Pharma Scandinavia AB
-
-Tel: +46 (0) 8 545 286 60
+Otsuka Pharma Scandinavia AB Tel: +46 (0) 8 545 286 60

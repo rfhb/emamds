@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-01 16:52:00
+document_datetime: 2026-08-19 12:33:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jinarc.html
 document_name: jinarc.html
 version: success
-processing_time: 0.0979052
-conversion_datetime: 2026-06-04 22:18:24.678882
+processing_time: 0.1589774
+conversion_datetime: 2026-08-22 22:52:53.503428
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Jinarc
 
@@ -40,7 +40,6 @@ Page contents
 - [News on Jinarc](#news-on)
 - [More information on Jinarc](#more-information-on-jinarc-784)
 - [More information on Jinarc](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -102,7 +101,7 @@ English (EN) (79.28 KB - PDF)
 
 [View](/en/documents/overview/jinarc-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-415)
+[Other languages (22)](#file-language-dropdown-85)
 
 български (BG) (105.66 KB - PDF)
 
@@ -248,167 +247,168 @@ English (EN) (16.56 MB - PDF)
 
 Jinarc : EPAR - Product Information
 
-English (EN) (504.17 KB - PDF)
+English (EN) (499.35 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/en/documents/product-information/jinarc-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-544)
+[Other languages (24)](#file-language-dropdown-960)
 
-български (BG) (607.35 KB - PDF)
+български (BG) (605.18 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/bg/documents/product-information/jinarc-epar-product-information_bg.pdf)
 
-español (ES) (511.52 KB - PDF)
+español (ES) (506.91 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/es/documents/product-information/jinarc-epar-product-information_es.pdf)
 
-čeština (CS) (574.68 KB - PDF)
+čeština (CS) (571.32 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/cs/documents/product-information/jinarc-epar-product-information_cs.pdf)
 
-dansk (DA) (509.26 KB - PDF)
+dansk (DA) (505.36 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/da/documents/product-information/jinarc-epar-product-information_da.pdf)
 
-Deutsch (DE) (532.34 KB - PDF)
+Deutsch (DE) (528.56 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/de/documents/product-information/jinarc-epar-product-information_de.pdf)
 
-eesti (ET) (539.23 KB - PDF)
+eesti (ET) (534.7 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/et/documents/product-information/jinarc-epar-product-information_et.pdf)
 
-ελληνικά (EL) (585.6 KB - PDF)
+ελληνικά (EL) (584.08 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/el/documents/product-information/jinarc-epar-product-information_el.pdf)
 
-français (FR) (514.07 KB - PDF)
+français (FR) (510.55 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/fr/documents/product-information/jinarc-epar-product-information_fr.pdf)
 
-hrvatski (HR) (525.49 KB - PDF)
+hrvatski (HR) (523.15 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/hr/documents/product-information/jinarc-epar-product-information_hr.pdf)
 
-italiano (IT) (514.04 KB - PDF)
+italiano (IT) (512.06 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/it/documents/product-information/jinarc-epar-product-information_it.pdf)
 
-latviešu (LV) (554.09 KB - PDF)
+latviešu (LV) (550.66 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/lv/documents/product-information/jinarc-epar-product-information_lv.pdf)
 
-lietuvių (LT) (551.43 KB - PDF)
+lietuvių (LT) (548.09 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/lt/documents/product-information/jinarc-epar-product-information_lt.pdf)
 
-magyar (HU) (600.6 KB - PDF)
+magyar (HU) (597.81 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/hu/documents/product-information/jinarc-epar-product-information_hu.pdf)
 
-Malti (MT) (612.45 KB - PDF)
+Malti (MT) (609.31 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/mt/documents/product-information/jinarc-epar-product-information_mt.pdf)
 
-Nederlands (NL) (497.58 KB - PDF)
+Nederlands (NL) (494.08 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/nl/documents/product-information/jinarc-epar-product-information_nl.pdf)
 
-polski (PL) (585.57 KB - PDF)
+polski (PL) (581.52 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/pl/documents/product-information/jinarc-epar-product-information_pl.pdf)
 
-português (PT) (495.79 KB - PDF)
+português (PT) (491.42 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/pt/documents/product-information/jinarc-epar-product-information_pt.pdf)
 
-română (RO) (564.23 KB - PDF)
+română (RO) (561.39 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/ro/documents/product-information/jinarc-epar-product-information_ro.pdf)
 
-slovenčina (SK) (574.08 KB - PDF)
+slovenčina (SK) (571.08 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/sk/documents/product-information/jinarc-epar-product-information_sk.pdf)
 
-slovenščina (SL) (537.3 KB - PDF)
+slovenščina (SL) (534.17 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/sl/documents/product-information/jinarc-epar-product-information_sl.pdf)
 
-suomi (FI) (504.04 KB - PDF)
+suomi (FI) (500.1 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/fi/documents/product-information/jinarc-epar-product-information_fi.pdf)
 
-svenska (SV) (515.03 KB - PDF)
+svenska (SV) (499.01 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/sv/documents/product-information/jinarc-epar-product-information_sv.pdf)
 
-Íslenska (IS) (564.19 KB - PDF)
+Íslenska (IS) (558.02 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/is/documents/product-information/jinarc-epar-product-information_is.pdf)
 
-norsk (NO) (502.54 KB - PDF)
+norsk (NO) (497.45 KB - PDF)
 
-**First published:** 12/06/2015 **Last updated:** 01/06/2026
+**First published:** 12/06/2015 **Last updated:** 19/08/2026
 
 [View](/no/documents/product-information/jinarc-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000246866
+**Latest procedure affecting product information:** VR/0000366253
 
-10/04/2026
+18/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -426,7 +426,7 @@ English (EN) (110.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jinarc-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-133)
+[Other languages (24)](#file-language-dropdown-345)
 
 български (BG) (72.08 KB - PDF)
 
@@ -574,25 +574,16 @@ norsk (NO) (34.57 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Jinarc
-
-Active substance
-
-tolvaptan
-
-International non-proprietary name (INN) or common name
-
-tolvaptan
-
-Therapeutic area (MeSH)
-
-Polycystic Kidney, Autosomal Dominant
-
-Anatomical therapeutic chemical (ATC) code
-
-C03XA01
+- **Name of medicine**
+    - Jinarc
+- **Active substance**
+    - tolvaptan
+- **International non-proprietary name (INN) or common name**
+    - tolvaptan
+- **Therapeutic area (MeSH)**
+    - Polycystic Kidney, Autosomal Dominant
+- **Anatomical therapeutic chemical (ATC) code**
+    - C03XA01
 
 ### Pharmacotherapeutic group
 
@@ -604,27 +595,16 @@ Jinarc is indicated to slow the progression of cyst development and renal insuff
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/002788
-
-Marketing authorisation holder
-
-Otsuka Pharmaceutical Netherlands B.V.
-
-Herikerbergweg 292 1101 CT Amsterdam Netherlands
-
-Opinion adopted
-
-26/02/2015
-
-Marketing authorisation issued
-
-27/05/2015
-
-Revision
-
-25
+- **EMA product number**
+    - EMEA/H/C/002788
+- **Marketing authorisation holder**
+    - Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292  1101 CT Amsterdam  Netherlands
+- **Opinion adopted**
+    - 26/02/2015
+- **Marketing authorisation issued**
+    - 27/05/2015
+- **Revision**
+    - 26
 
 ## Assessment history
 
@@ -636,9 +616,9 @@ Collapse section
 
 Jinarc : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (160.25 KB - PDF)
+English (EN) (142.26 KB - PDF)
 
-**First published:** 08/08/2025 **Last updated:** 01/06/2026
+**First published:** 08/08/2025 **Last updated:** 19/08/2026
 
 [View](/en/documents/procedural-steps-after/jinarc-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -688,7 +668,7 @@ English (EN) (65.55 KB - PDF)
 
 **First published:** 28/02/2019
 
-[View](/en/documents/scientific-conclusion/jinarc-h-c-psusa-00010395-201805-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/jinarc-h-c-psusa-00010395-201805-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Jinarc-H-C-2788-II-0009: EPAR - Assessment Report - Variation
 
@@ -754,12 +734,8 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 - [A 9-year, Multicentre, Non-interventional, Post-authorisation Safety Study for Patients Prescribed JINARC® for Autosomal Dominant Polycystic Kidney Disease (JINARC PASS) - post-authorisation study](https://catalogues.ema.europa.eu/study/38891)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-01/06/2026
+19/08/2026
 
 ## Share this page

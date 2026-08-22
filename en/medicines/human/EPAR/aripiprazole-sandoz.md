@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aripiprazole-sandoz.html
 document_name: aripiprazole-sandoz.html
 version: success
-processing_time: 0.1746797
-conversion_datetime: 2026-08-22 22:56:45.526114
+processing_time: 0.1700088
+conversion_datetime: 2026-08-22 23:31:01.816583
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

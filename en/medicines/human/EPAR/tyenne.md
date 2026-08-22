@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tyenne.html
 document_name: tyenne.html
 version: success
-processing_time: 0.1389353
-conversion_datetime: 2026-08-22 22:44:01.29267
+processing_time: 0.1480652
+conversion_datetime: 2026-08-22 23:18:17.801118
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

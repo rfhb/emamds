@@ -1,22 +1,22 @@
 ---
-document_datetime: 2026-02-26 10:06:13
+document_datetime: 2026-08-18 13:35:11
 document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/conexxence-epar-product-information_en.pdf
 document_name: conexxence-epar-product-information_en.pdf
 version: success
-processing_time: 9.3683511
-conversion_datetime: 2026-03-01 20:04:42.496557
+processing_time: 9.956732
+conversion_datetime: 2026-08-23 00:27:23.05904
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I 0B SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -28,7 +28,7 @@ Conexxence 60 mg solution for injection in pre-filled syringe
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each pre-filled syringe contains 60 mg of denosumab in 1 mL.
+Each pre-filled syringe contains 60 mg of denosumab in 1 mL of solution (60 mg/mL).
 
 Denosumab is a human monoclonal IgG2 antibody produced in a mammalian cell line (Chinese hamster ovary cells) by recombinant DNA technology.
 
@@ -78,7 +78,7 @@ No dose adjustment is required in elderly patients.
 
 No dose adjustment is required in patients with renal impairment (see section 4.4 for recommendations relating to monitoring of calcium).
 
-No data is available in patients with long-term systemic glucocorticoid therapy and severe renal impairment (GFR &lt; 30 mL/min).
+No data is available in patients with long-term systemic glucocorticoid therapy and severe renal impairment (Glomerular filtration rate, GFR &lt; 30 mL/min).
 
 ## Hepatic impairment
 
@@ -114,19 +114,17 @@ Adequate intake of calcium and vitamin D is important in all patients.
 
 ## Hypocalcaemia
 
-It is important to identify patients at risk for hypocalcaemia. Hypocalcaemia must be corrected by adequate intake of calcium and vitamin D before initiating therapy. Clinical monitoring of calcium levels is recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks after the initial dose. If any patient presents with suspected symptoms of hypocalcaemia during treatment (see section 4.8 for symptoms) calcium levels should be measured. Patients should be
+It is important to identify patients at risk for hypocalcaemia. Hypocalcaemia must be corrected by adequate intake of calcium and vitamin D before initiating therapy. Clinical monitoring of calcium levels is recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks after the initial dose. If any patient presents with suspected symptoms of hypocalcaemia during treatment (see section 4.8 for symptoms) calcium levels should be measured. Patients should be encouraged to report symptoms indicative of hypocalcaemia.
 
 <div style=\"page-break-after: always\"></div>
 
-encouraged to report symptoms indicative of hypocalcaemia.
-
-In the post-marketing setting, severe symptomatic hypocalcaemia (including fatal cases) has been reported (see section 4.8), with most cases occurring in the first weeks of initiating therapy, but it can occur later.
+In the post-marketing setting, severe symptomatic hypocalcaemia (resulting in hospitalisation, lifethreatening events, and fatal cases ) has been reported. While most cases occurred in the first few weeks of initiating therapy, it has also occurred later.
 
 Concomitant glucocorticoid treatment is an additional risk factor for hypocalcaemia.
 
 ## Renal impairment
 
-Patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis are at greater risk of developing hypocalcaemia. The risks of developing hypocalcaemia and accompanying parathyroid hormone elevations increase with increasing degree of renal impairment. Adequate intake of calcium, vitamin D and regular monitoring of calcium is especially important in these patients, see above.
+Patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis are at greater risk of developing hypocalcaemia. The risks of developing hypocalcaemia and accompanying parathyroid hormone elevations increase with increasing degree of renal impairment. Severe and fatal cases have been reported. Adequate intake of calcium, vitamin D and regular monitoring of calcium is especially important in these patients, see above.
 
 ## Skin infections
 
@@ -153,17 +151,27 @@ The management plan of the patients who develop ONJ should be set up in close co
 
 Osteonecrosis of the external auditory canal has been reported with denosumab. Possible risk factors for osteonecrosis of the external auditory canal include steroid use and chemotherapy and/or local risk factors such as infection or trauma. The possibility of osteonecrosis of the external auditory canal should be considered in patients receiving denosumab who present with ear symptoms including chronic ear infections.
 
+## Atypical fractures of the femur
+
+Atypical femoral fractures have been reported in patients receiving denosumab (see section 4.8).
+
 <div style=\"page-break-after: always\"></div>
 
-Atypical femoral fractures have been reported in patients receiving denosumab (see section 4.8). Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions of the femur. Specific radiographic findings characterise these events. Atypical femoral fractures have also been reported in patients with certain co-morbid conditions (e.g., vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain medicinal products (e.g., bisphosphonates, glucocorticoids, proton pump inhibitors). These events have also occurred without antiresorptive therapy. Similar fractures reported in association with bisphosphonates are often bilateral; therefore, the contralateral femur should be examined in denosumab-treated patients who have sustained a femoral shaft fracture. Discontinuation of denosumab therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefit-risk assessment. During denosumab treatment, patients should be advised to report new or unusual thigh, hip, or groin pain. Patients presenting with such symptoms should be evaluated for an incomplete femoral fracture.
+Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions of the femur. Specific radiographic findings characterise these events. Atypical femoral fractures have also been reported in patients with certain co-morbid conditions (e.g., vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain medicinal products (e.g., bisphosphonates, glucocorticoids, proton pump inhibitors). These events have also occurred without antiresorptive therapy. Similar fractures reported in association with bisphosphonates are often bilateral; therefore, the contralateral femur should be examined in denosumab-treated patients who have sustained a femoral shaft fracture. Discontinuation of denosumab therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefit-risk assessment. During denosumab treatment, patients should be advised to report new or unusual thigh, hip, or groin pain. Patients presenting with such symptoms should be evaluated for an incomplete femoral fracture.
 
 ## Long-term antiresorptive treatment
 
 Long-term antiresorptive treatment (including both denosumab and bisphosphonates) may contribute to an increased risk for adverse outcomes such as osteonecrosis of the jaw and atypical femur fractures due to significant suppression of bone remodelling (see section 4.2).
 
+## Treatment discontinuation
+
+Following denosumab discontinuation, decrease in bone mineral density (BMD) is expected (see section 5.1), leading to an increased risk for fractures. Thus, monitoring of BMD is recommended, and alternative treatment should be considered according to clinical guidelines.
+
 ## Concomitant treatment with other denosumab-containing medicinal products
 
-Patients being treated with denosumab should not be treated concomitantly with other denosumabcontaining medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
+Patients being treated with denosumab should not be treated concomitantly with other denosumabcontaining medicinal products (for prevention of skeletal related events in adults with bone metastases
+
+from solid tumours).
 
 ## Hypercalcaemia in paediatric patients
 
@@ -187,11 +195,11 @@ In postmenopausal women with osteoporosis the pharmacokinetics and pharmacodynam
 
 ## 4.6 Fertility, pregnancy and lactation
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy
 
 There are no or limited amount of data from the use of denosumab in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
-
-<div style=\"page-break-after: always\"></div>
 
 Denosumab is not recommended for use in pregnant women and women of child-bearing potential not using contraception. Women should be advised not to become pregnant during and for at least 5 months after treatment with denosumab. Any effects of denosumab are likely to be greater during the second and third trimesters of pregnancy since monoclonal antibodies are transported across the placenta in a linear fashion as pregnancy progresses, with the largest amount transferred during the third trimester.
 
@@ -215,7 +223,7 @@ The most common side effects with denosumab (seen in more than one patient in te
 
 ## Tabulated list of adverse reactions
 
-The data in table 1 below describe adverse reactions reported from phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
+The data in table 1 below describe adverse reactions reported from phase II and III clinical trials in patients with  osteoporosis  and  breast  or  prostate  cancer  patients  receiving hormone ablation; and/or spontaneous reporting.
 
 The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
@@ -223,7 +231,7 @@ The following convention has been used for the classification of the adverse rea
 
 Table 1. Adverse reactions reported in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation
 
-| MedDRAsystem organ class                        | Frequency category                          | Adverse reactions                                                                                                                               |
+| MedDRA system organ class                       | Frequency category                          | Adverse reactions                                                                                                                               |
 |-------------------------------------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Infections and infestations                     | Common Common Uncommon Uncommon Uncommon    | Urinary tract infection Upper respiratory tract infection Diverticulitis 1 Cellulitis 1 Ear infection                                           |
 | Immune system disorders                         | Rare Rare                                   | Drug hypersensitivity 1 Anaphylactic reaction 1                                                                                                 |
@@ -241,19 +249,19 @@ In a pooled analysis of data from all phase II and phase III placebo-controlled 
 
 In two phase III placebo-controlled clinical trials in postmenopausal women with osteoporosis, approximately 0.05% (2 out of 4,050) of patients had declines of serum calcium levels (less than 1.88 mmol/L) following denosumab administration. Declines of serum calcium levels (less than 1.88 mmol/L) were not reported in either the two phase III placebo-controlled clinical trials in patients receiving hormone ablation or the phase III placebo-controlled clinical trial in men with osteoporosis.
 
-In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia have been reported predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy. Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4). Symptoms of hypocalcaemia in denosumab clinical trials included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
+In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia resulting in hospitalisation, life-threatening events, and fatal cases have been reported, predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy. Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4). Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
 
 ## Skin infections
 
-In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the denosumab groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50
+In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the denosumab groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus denosumab [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%, 1 out of 120] versus denosumab [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus denosumab [1.4%, 12 out of 860]). Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4,041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4,050) of women receiving denosumab. These cases were predominantly cellulitis. Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the denosumab (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
 
 <div style=\"page-break-after: always\"></div>
-
-out of 4,041] versus denosumab [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%, 1 out of 120] versus denosumab [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus denosumab [1.4%, 12 out of 860]). Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4,041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4,050) of women receiving denosumab. These cases were predominantly cellulitis. Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the denosumab (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
 
 ## Osteonecrosis of the jaw
 
 ONJ has been reported rarely, in 16 patients, in clinical trials in osteoporosis and in breast or prostate cancer patients receiving hormone ablation including a total of 23,148 patients (see section 4.4). Thirteen of these ONJ cases occurred in postmenopausal women with osteoporosis during the phase III clinical trial extension following treatment with denosumab for up to 10 years. Incidence of ONJ was 0.04% at 3 years, 0.06% at 5 years and 0.44% at 10 years of denosumab treatment. The risk of ONJ increased with duration of exposure to denosumab.
+
+The risk of ONJ has also been assessed in a retrospective cohort study among 76 192 postmenopausal women newly initiating treatment with denosumab. The incidence of ONJ was 0.32% (95% confidence interval [CI]: 0.26, 0.39) among patients using denosumab up to 3 years and 0.51% (95% CI: 0.39, 0.65) among patients using denosumab up to 5 years of follow-up.
 
 ## Atypical fractures of the femur
 
@@ -283,17 +291,17 @@ Denosumab should not be used in paediatric patients (age &lt; 18). Serious hyper
 
 ## Renal impairment
 
-In clinical trials, patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcaemia in the absence of calcium supplementation. Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis (see section 4.4).
-
-## Reporting of suspected adverse reactions
+In clinical studies, patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcaemia in the absence of calcium supplementation. Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
+
+## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit-risk balance of the medicinal product. Healthcare  professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
-There is no experience with overdose in clinical trials. Denosumab has been administered in clinical trials using doses up to 180 mg every 4 weeks (cumulative doses up to 1,080 mg over 6 months), and no additional adverse reactions were observed.
+There is no experience with overdose in clinical studies. Denosumab has been administered in clinical studies using doses up to 180 mg every 4 weeks (cumulative doses up to 1,080 mg over 6 months), and no additional adverse reactions were observed.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -313,15 +321,17 @@ Denosumab treatment rapidly reduced the rate of bone turnover, reaching a nadir 
 
 ## Immunogenicity
 
-Anti-denosumab antibodies may develop during denosumab treatment. No apparent correlation of antibody development with pharmacokinetics, clinical response or adverse event has been observed. Clinical efficacy and safety in postmenopausal women with osteoporosis
+Anti-denosumab antibodies may develop during denosumab treatment. No apparent correlation of antibody development with pharmacokinetics, clinical response or adverse event has been observed.
+
+## Clinical efficacy and safety in postmenopausal women with osteoporosis
 
 Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7,808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between -2.5 and -4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture. Women with other diseases or on therapies that may affect bone were excluded from this study. Women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effect on vertebral fractures
 
 denosumab significantly reduced the risk of new vertebral fractures at 1, 2 and 3 years (p &lt; 0.0001) (see table 2).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 2. The effect of denosumab on the risk of new vertebral fractures
 
@@ -344,14 +354,22 @@ denosumab significantly reduced fractures across all fracture types/groups (see 
 
 Table 3. The effect of denosumab on the risk of clinical fractures over 3 years
 
-|                                | Proportion of womenwith fracture (%) +   | Proportion of womenwith fracture (%) +   | Absolute risk reduction (%)   | Relative risk reduction (%)   |
-|--------------------------------|------------------------------------------|------------------------------------------|-------------------------------|-------------------------------|
-|                                | Placebo n = 3,906                        | denosumab n = 3,902                      | (95% CI)                      | (95% CI)                      |
-| Any clinical fracture 1        | 10.2                                     | 7.2                                      | 2.9 (1.6, 4.2)                | 30 (19, 41)***                |
-| Clinical vertebral fracture    | 2.6                                      | 0.8                                      | 1.8 (1.2, 2.4)                | 69 (53, 80)***                |
-| Non-vertebral fracture 2       | 8.0                                      | 6.5                                      | 1.5 (0.3, 2.7)                | 20 (5, 33)**                  |
-| Major non-vertebral fracture 3 | 6.4                                      | 5.2                                      | 1.2 (0.1, 2.2)                | 20 (3, 34)*                   |
-| Major osteoporotic fracture 4  | 8.0                                      | 5.3                                      | 2.7 (1.6, 3.9)                | 35 (22, 45)***                |
+|                                | Proportion of women with fracture (%) +   | Proportion of women with fracture (%) +   | Absolute risk reduction (%)   | Relative risk reduction (%)   |
+|--------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------|-------------------------------|
+|                                | Placebo n = 3,906                         | denosumab n = 3,902                       | (95% CI)                      | (95% CI)                      |
+| Any clinical fracture 1        | 10.2                                      | 7.2                                       | 2.9 (1.6, 4.2)                | 30 (19, 41)***                |
+| Clinical vertebral fracture    | 2.6                                       | 0.8                                       | 1.8 (1.2, 2.4)                | 69 (53, 80)***                |
+| Non-vertebral fracture 2       | 8.0                                       | 6.5                                       | 1.5 (0.3, 2.7)                | 20 (5, 33)**                  |
+| Major non-vertebral fracture 3 | 6.4                                       | 5.2                                       | 1.2 (0.1, 2.2)                | 20 (3, 34)*                   |
+| Major osteoporotic fracture 4  | 8.0                                       | 5.3                                       | 2.7 (1.6, 3.9)                | 35 (22, 45)***                |
+
++ Event rates based on Kaplan-Meier estimates at 3 years.
+- 1 Includes clinical vertebral fractures and non-vertebral fractures.
+- 2 Excludes those of the vertebrae, skull, facial, mandible, metacarpus, and finger and toe phalanges.
+
+3 Includes pelvis, distal femur, proximal tibia, ribs, proximal humerus, forearm, and hip.
+
+- 4 Includes clinical vertebral, hip, forearm, and humerus fractures, as defined by the WHO.
 
 In women with baseline femoral neck BMD ≤ -2.5, denosumab reduced the risk of non-vertebral fracture (35% relative risk reduction, 4.1% absolute risk reduction, p &lt; 0.001, exploratory analysis).
 
@@ -361,11 +379,11 @@ The reduction in the incidence of new vertebral fractures, hip fractures and non
 
 Denosumab significantly increased BMD at all clinical sites measured, versus placebo at 1, 2 and 3 years. Denosumab increased BMD by 9.2% at the lumbar spine, 6.0% at the total hip, 4.8% at the femoral neck, 7.9% at the hip trochanter, 3.5% at the distal 1/3 radius and 4.1% at the total body over 3 years (all p &lt; 0.0001).
 
-In clinical trials examining the effects of discontinuation of denosumab, BMD returned to approximately pre-treatment levels and remained above placebo within 18 months of the last dose. These data indicate that continued treatment with denosumab is required to maintain the effect of the medicinal  product.  Re-initiation  of  denosumab  resulted  in  gains  in  BMD  similar  to  those  when denosumab was first administered.
-
-Open-label extension study in the treatment of postmenopausal osteoporosis
-
 <div style=\"page-break-after: always\"></div>
+
+In clinical studies examining the effects of discontinuation of denosumab, BMD returned to approximately pre-treatment levels and remained above placebo within 18 months of the last dose. These data indicate that continued treatment with denosumab is required to maintain the effect of the medicinal  product.  Re-initiation  of  denosumab  resulted  in  gains  in  BMD  similar  to  those  when denosumab was first administered.
+
+## Open-label extension study in the treatment of postmenopausal osteoporosis
 
 A total of 4,550 women (2,343 denosumab &amp; 2,207 placebo) who missed no more than one dose of investigational product in the pivotal study described above and completed the month 36 study visit agreed to enrol in a 7-year, multinational, multicentre, open-label, single-arm extension study to evaluate the long-term safety and efficacy of denosumab. All women in the extension study were to receive denosumab 60 mg every 6 months, as well as daily calcium (at least 1 g) and vitamin D (at least 400 IU). A total of 2,626 subjects (58% of the women included in the extension study i.e., 34% of the women included in the pivotal study) completed the extension study.
 
@@ -385,13 +403,11 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 
 Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
 
-## Clinical efficacy and safety in patients with bone loss associated with androgen deprivation
-
-Efficacy and safety of denosumab once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1,468 men aged 48-97 years) who were at increased risk of fracture (defined as &gt; 70 years, or &lt; 70 years with a BMD T-score at the lumbar spine, total hip, or femoral neck &lt; -1.0 or a history of an osteoporotic fracture.) All men received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
-
-Denosumab significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 3 years: 7.9% at the lumbar spine, 5.7% at the total hip, 4.9% at the femoral neck, 6.9% at the hip trochanter, 6.9% at the distal 1/3 radius and 4.7% at the total body (all p &lt; 0.0001). In a prospectively planned exploratory analysis, significant increases in BMD were observed at the lumbar spine, total hip, femoral neck and the hip trochanter 1 month after the initial dose.
+Clinical efficacy and safety in patients with bone loss associated with androgen deprivation Efficacy and safety of denosumab once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1,468 men aged 48-97 years) who were at increased risk of fracture (defined as &gt; 70 years, or &lt; 70 years with a BMD T-score at the lumbar spine, total hip, or femoral neck &lt; -1.0 or a history of an osteoporotic fracture.) All men received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 <div style=\"page-break-after: always\"></div>
+
+Denosumab significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 3 years: 7.9% at the lumbar spine, 5.7% at the total hip, 4.9% at the femoral neck, 6.9% at the hip trochanter, 6.9% at the distal 1/3 radius and 4.7% at the total body (all p &lt; 0.0001). In a prospectively planned exploratory analysis, significant increases in BMD were observed at the lumbar spine, total hip, femoral neck and the hip trochanter 1 month after the initial dose.
 
 Denosumab demonstrated a significant relative risk reduction of new vertebral fractures: 85% (1.6% absolute risk reduction) at 1 year, 69% (2.2% absolute risk reduction) at 2 years and 62% (2.4% absolute risk reduction) at 3 years (all p &lt; 0.01).
 
@@ -415,11 +431,11 @@ In addition, denosumab demonstrated a significantly greater mean percent increas
 
 The study was not powered to show a difference in fractures. At 1 year, the subject incidence of new radiological vertebral fracture was 2.7% (denosumab) versus 3.2% (risedronate). The subject incidence of non-vertebral fracture was 4.3% (denosumab) versus 2.5% (risedronate). At 2 years, the corresponding numbers were 4.1% versus 5.8% for new radiological vertebral fractures and 5.3% versus 3.8% for non-vertebral fractures. Most of the fractures occurred in the GC-C subpopulation.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
-A single-arm phase 3 study evaluated the efficacy, safety, and pharmacokinetics was conducted in children with osteogenesis imperfecta, aged 2 to 17 years, 52.3% male, 88.2% Caucasian. A total of 153 subjects initially received subcutaneous (SC) denosumab 1 mg/kg, up to a maximum of 60 mg, every 6 months for 36 months. Sixty subjects transitioned to every 3 months dosing.
-
-<div style=\"page-break-after: always\"></div>
+A single-arm phase III study evaluated the efficacy, safety, and pharmacokinetics was conducted in children with osteogenesis imperfecta, aged 2 to 17 years, 52.3% male, 88.2% Caucasian. A total of 153 subjects initially received subcutaneous (SC) denosumab 1 mg/kg, up to a maximum of 60 mg, every 6 months for 36 months. Sixty subjects transitioned to every 3 months dosing.
 
 At month 12 of every 3 months dosing, the least squares (LS) mean (standard error, SE) change from baseline in lumbar spine BMD Z-score was 1.01 (0.12).
 
@@ -428,6 +444,8 @@ The most common adverse events reported during every 6 months dosing were arthra
 In an extension study (N = 75), serious adverse events of hypercalcaemia (18.5%) were observed during every 3 months dosing.
 
 The studies were terminated early due to the occurrence of life-threatening events and hospitalisations due to hypercalcaemia (see section 4.2)
+
+In one multicentre, randomised, double-blind, placebo-controlled, parallel-group study conducted in 24 paediatric patients with glucocorticoid-induced osteoporosis, aged 5 to 17 years, evaluating change from baseline in lumbar spine BMD Z-score, safety and effectiveness were not established hence denosumab should not be used for this indication.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with denosumab in all subsets of the paediatric population in the treatment of bone loss associated with sex hormone ablative therapy, and in subsets of the paediatric population below the age of 2 in the treatment of osteoporosis. See section 4.2 for information on paediatric use.
 
@@ -445,15 +463,17 @@ Denosumab is composed solely of amino acids and carbohydrates as native immunogl
 
 After Cmax, serum levels declined with a half-life of 26 days (range 6-52 days) over a period of 3 months (range 1.5-4.5 months). Fifty-three percent (53%) of patients had no measurable amounts of denosumab detected at 6 months post-dose.
 
-No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months. Denosumab pharmacokinetics were not affected by the formation of binding antibodies to denosumab and were similar in men and women. Age (28-87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.
+No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months. Denosumab pharmacokinetics were not affected by the formation of binding antibodies to denosumab and were similar in men and women.
+
+<div style=\"page-break-after: always\"></div>
+
+Age (28-87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.
 
 A trend was observed between higher body weight and lower exposure based on AUC and Cmax. However, the trend is not considered clinically important, since pharmacodynamic effects based on bone turnover markers and BMD increases were consistent across a wide range of body weight.
 
 ## Linearity/non-linearity
 
 In dose ranging studies, denosumab exhibited non-linear, dose-dependent pharmacokinetics, with lower clearance at higher doses or concentrations, but approximately dose-proportional increases in exposures for doses of 60 mg and greater.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -467,7 +487,7 @@ No specific study in patients with hepatic impairment was performed. In general,
 
 Denosumab should not be used in paediatric populations (see sections 4.2 and 5.1).
 
-In a phase 3 study of paediatric patients with osteogenesis imperfecta (N = 153), maximum serum denosumab concentrations were observed on day 10 across all age groups. For every 3 months and every 6 months dosing, mean serum denosumab trough concentrations were observed to be higher for children 11 to 17 years of age, while children 2 to 6 years of age had the lowest mean trough concentrations.
+In a phase III study of paediatric patients with osteogenesis imperfecta (N = 153), maximum serum denosumab concentrations were observed on day 10 across all age groups. For every 3 months and every 6 months dosing, mean serum denosumab trough concentrations were observed to be higher for children 11 to 17 years of age, while children 2 to 6 years of age had the lowest mean trough concentrations.
 
 ## 5.3 Preclinical safety data
 
@@ -477,15 +497,15 @@ Standard tests to investigate the genotoxicity potential of denosumab have not b
 
 The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
 
-In preclinical trials conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus. An absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
+In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus. An absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
 
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester at AUC exposures up to 99-fold higher than the human dose (60 mg every 6 months), there was no evidence of maternal or foetal harm. In this study, foetal lymph nodes were not examined.
 
 In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at AUC exposures 119-fold higher than the human dose (60 mg every 6 months), there were increased stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6-month period after birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
 
-In preclinical bone quality studies in monkeys on long-term denosumab treatment, decreases in bone turnover were associated with improvement in bone strength and normal bone histology. Calcium levels were transiently decreased and parathyroid hormone levels transiently increased in ovariectomised monkeys treated with denosumab.
-
 <div style=\"page-break-after: always\"></div>
+
+In preclinical bone quality studies in monkeys on long-term denosumab treatment, decreases in bone turnover were associated with improvement in bone strength and normal bone histology. Calcium levels were transiently decreased and parathyroid hormone levels transiently increased in ovariectomised monkeys treated with denosumab.
 
 In male mice genetically engineered to express huRANKL (knock-in mice), which were subjected to a transcortical fracture, denosumab delayed the removal of cartilage and remodelling of the fracture callus compared to control, but biomechanical strength was not adversely affected.
 
@@ -507,9 +527,11 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the container in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 A pre-filled syringe may be stored at temperatures up to a maximum of 25 °C for a single period of 30 days. The pre-filled syringe must be protected from light, and discarded if not used within the 30day period.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -524,8 +546,6 @@ Pack size of 1  pre-filled syringe (glass) with needle guard.
 - To avoid discomfort at the site of injection, allow the pre-filled syringe to reach room temperature (up to 25°C) before injecting and inject slowly.
 - Inject the entire contents of the pre-filled syringe.
 
-<div style=\"page-break-after: always\"></div>
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
@@ -534,9 +554,11 @@ Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1 61352 Bad Homburg von der
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1954/01
+EU/1/25/1954/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+18 July 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -553,7 +575,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## 1B A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer of the biological active substance
 
@@ -563,19 +585,19 @@ Name and address of the manufacturer responsible for batch release
 
 Fresenius Kabi Austria GmbH Hafnerstrasse 36 8055 Graz Austria
 
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+## 2B B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to medical prescription.
 
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## 3B C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 - Periodic safety update report (PSUR)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## 4B D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-- Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -583,7 +605,8 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-- Additional risk minimisation measures
+
+## · Additional risk minimisation measures
 
 The MAH shall ensure that a patient reminder card regarding osteonecrosis of the jaw is implemented.
 
@@ -593,7 +616,7 @@ The MAH shall ensure that a patient reminder card regarding osteonecrosis of the
 
 <div style=\"page-break-after: always\"></div>
 
-- A. LABELLING
+- 5B A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -645,17 +668,18 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1 61352 Bad Homburg v.d. Hoehe Germany
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/25/1954/01 1 single use pre-filled syringe
+EU/1/25/1954/001 1 single use pre-filled syringe
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -665,36 +689,37 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Conexxence
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Conexxence 60 mg injection denosumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -706,8 +731,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 60 mg/ml
 
@@ -716,11 +741,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
-
-<div style=\"page-break-after: always\"></div>
+## 6B B. PACKAGE LEAFLET
 
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Conexxence 60 mg solution for injection in pre-filled syringe
 
@@ -782,6 +807,8 @@ You should also take calcium and vitamin D supplements while being on treatment 
 
 You may have low levels of calcium in your blood while receiving Conexxence. Please tell your doctor immediately if you notice any of the following symptoms: spasms, twitches, or cramps in your muscle, and/or numbness or tingling in your fingers, toes or around your mouth, and/or seizures (fits), confusion, or loss of consciousness.
 
+Severe low blood calcium levels leading to hospitalisation and even life-threatening reactions have been reported in rare cases. Before each dose and in patients predisposed to hypocalcaemia within two weeks after initial dose, the calcium levels in your blood will therefore be checked (via blood test).
+
 Tell your doctor if you have or have ever had severe kidney problems, kidney failure or have needed dialysis or are taking medicines called glucocorticoids (such as prednisolone or dexamethasone), which may increase your risk of getting low blood calcium if you do not take calcium supplements.
 
 ## Problems with your mouth, teeth or jaw
@@ -797,11 +824,13 @@ Before receiving treatment, tell your doctor or nurse (health care professional)
 - -are taking medicines called corticosteroids (such as prednisolone or dexamethasone).
 - -have cancer.
 
-Your doctor may ask you to undergo a dental examination before you start treatment with Conexxence.
-
-While being treated, you should maintain good oral hygiene and receive routine dental check-ups. If you wear dentures you should make sure these fit properly. If you are under dental treatment or will undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Conexxence.
+Your doctor may ask you to undergo a dental examination before you start treatment with
 
 <div style=\"page-break-after: always\"></div>
+
+## Conexxence.
+
+While being treated, you should maintain good oral hygiene and receive routine dental check-ups. If you wear dentures you should make sure these fit properly. If you are under dental treatment or will undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Conexxence.
 
 Contact your doctor and dentist immediately if you experience any problems with your mouth or teeth such as loose teeth, pain or swelling, or non-healing of sores or discharge, as these could be signs of ONJ.
 
@@ -829,7 +858,7 @@ It is not known whether Conexxence is excreted in breast milk. It is important t
 
 If you are breast-feeding during Conexxence treatment, please inform your doctor.
 
-Ask your doctor or pharmacist for advice before using any medicine.
+Ask your doctor or pharmacist for advice before taking any medicine.
 
 ## Driving and using machines
 
@@ -843,9 +872,9 @@ This medicine contains 47 mg sorbitol in each ml of solution.
 
 This medicine contains less than 1 mmol sodium (23 mg) per 60 mg, that is to say essentially 'sodiumfree'.
 
-## Conexxence contains polysorbate 20
-
 <div style=\"page-break-after: always\"></div>
+
+## Conexxence contains polysorbate 20
 
 This medicine contains 0.1 mg of polysorbate 20 in each pre-filled syringe which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
@@ -875,15 +904,15 @@ Uncommonly, patients receiving Conexxence may develop skin infections (predomina
 
 Rarely, patients receiving Conexxence may develop pain in the mouth and/or jaw, swelling or nonhealing of sores in the mouth or jaw, discharge, numbness or a feeling of heaviness in the jaw, or loosening of a tooth. These could be signs of bone damage in the jaw (osteonecrosis). Tell your doctor and dentist immediately if you experience such symptoms while being treated with Conexxence or after stopping treatment.
 
-Rarely, patients receiving Conexxence may have low calcium levels in the blood (hypocalcaemia). Symptoms include spasms, twitches, or cramps in your muscles, and/or numbness or tingling in your fingers, toes or around your mouth and/or seizures, confusion, or loss of consciousness. If any of these apply to you, tell your doctor immediately . Low calcium in the blood may also lead to a change in heart rhythm called QT prolongation which is seen by electrocardiogram (ECG).
-
-Rarely unusual fractures of the thigh bone may occur in patients receiving Conexxence. Contact your doctor if you experience new or unusual pain in your hip, groin or thigh as this may be an early indication of a possible fracture of the thigh bone.
+Rarely, patients receiving Conexxence may have low calcium levels in the blood (hypocalcaemia); severely low blood calcium levels may lead to hospitalisation and may even be life-threatening. Symptoms include spasms, twitches, or cramps in your muscles, and/or numbness or tingling in your fingers, toes or around your mouth and/or seizures, confusion, or loss of consciousness. If any of these apply to you, tell your doctor immediately . Low calcium in the blood may also lead to a change in heart rhythm called QT prolongation which is seen by electrocardiogram (ECG).
 
 <div style=\"page-break-after: always\"></div>
 
+Rarely unusual fractures of the thigh bone may occur in patients receiving Conexxence. Contact your doctor if you experience new or unusual pain in your hip, groin or thigh as this may be an early indication of a possible fracture of the thigh bone.
+
 Rarely, allergic reactions may occur in patients receiving Conexxence. Symptoms include swelling of the face, lips, tongue, throat or other parts of the body; rash, itching or hives on the skin, wheezing or difficulty breathing. Please tell your doctor if you develop any of these symptoms while being treated with Conexxence.
 
-## Very common side effects (may affect more than 1 in 10 people):
+Very common side effects (may affect more than 1 in 10 people):
 
 - -bone, joint, and/or muscle pain which is sometimes severe,
 - -arm or leg pain (pain in extremity).
@@ -915,7 +944,7 @@ Rarely, allergic reactions may occur in patients receiving Conexxence. Symptoms 
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in &lt;to be completed nationally&gt;. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in &lt;Appendix V &gt;. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Conexxence
 
@@ -927,13 +956,13 @@ Store in a refrigerator (2 °C - 8 °C).
 
 Do not freeze.
 
-Keep the container in the outer carton in order to protect from light.
+Keep the pre-filled syringe  in the outer carton in order to protect from light.
 
 Your pre-filled syringe may be left outside the refrigerator to reach room temperature (up to 25 °C) before injection. This will make the injection more comfortable. Once your syringe has been left to reach room temperature (up to 25 °C), it must be used within 30 days.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -962,9 +991,19 @@ For any information about this medicine, please contact the local representative
 
 Fresenius Kabi nv/sa Tél/Tel: +32 3 880 73 00
 
+## Lietuva
+
+UAB Fresenius Kabi Baltics Tel: +370 5 252 3213
+
 ## България
 
-Fresenius Kabi Deutschland GmbH Тел.: +49 0800 788 7070
+Fresenius Kabi Deutschland GmbH
+
+Тел.: +49 0800 788 7070
+
+## Luxembourg/Luxemburg
+
+Fresenius Kabi nv/sa Tél/Tel: +32 3 880 73 00
 
 ## Česká republika
 
@@ -972,33 +1011,13 @@ Fresenius Kabi s.r.o.
 
 Tel: +420 225 270 111
 
-## Danmark
-
-Fresenius Kabi filial af Fresenius Kabi AB Sverige Tlf.: +45 33181600
-
-## Deutschland
-
-Fresenius Kabi Deutschland GmbH Tel: +49 0800 788 7070
-
-## Eesti
-
-Fresenius Kabi Deutschland GmbH Tel: +49 0800 788 7070
-
-## Ελλάδα
-
-FRESENIUS KABI HELLAS ΜΟΝΟΠΡΟΣΩΠΗ ΑΕ
-
-## Lietuva
-
-UAB Fresenius Kabi Baltics Tel: +370 5 252 3213
-
-## Luxembourg/Luxemburg
-
-Fresenius Kabi nv/sa Tél/Tel: +32 3 880 73 00
-
 ## Magyarország
 
 Fresenius Kabi Hungary Kft. Tel: +36 1 250 8371
+
+## Danmark
+
+Fresenius Kabi filial af Fresenius Kabi AB Sverige Tlf.: +45 33181600
 
 ## Malta
 
@@ -1006,31 +1025,41 @@ Fresenius Kabi Deutschland GmbH
 
 Tel: +49 0800 788 7070
 
-## Nederland
-
-Fresenius Kabi Nederland bv Tel: +32 3 880 73 00
-
-## Norge
-
-Fresenius Kabi Norge AS Tlf: +47 22 58 80 00
-
-## Österreich
+## Deutschland
 
 Fresenius Kabi Deutschland GmbH
 
-Τηλ: +30 210 6542909
+Tel: +49 0800 788 7070
+
+## Nederland
+
+Fresenius Kabi Nederland bv
+
+Tel: +32 3 880 73 00
+
+## Eesti
+
+Fresenius Kabi Deutschland GmbH
 
 Tel: +49 0800 788 7070
 
+## Norge
+
+Fresenius Kabi Norge AS
+
+Tlf: +47 22 58 80 00
+
+<div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
+
+## FRESENIUS KABI HELLAS ΜΟΝΟΠΡΟΣΩΠΗ ΑΕ
+
+Τηλ: +30 210 6542909
+
 ## España
 
-Laboratorios Rubió, S.A.
-
-Tel: +34 93 772 25 09
-
-## Polska
-
-Fresenius Kabi Polska Sp. z o.o. Tel: +48 22 345 67 89
+Laboratorios Rubió, S.A. Tel: +34 93 772 25 09
 
 ## France
 
@@ -1038,19 +1067,11 @@ Fresenius Kabi France
 
 Tél: +33 1 41 14 26 00
 
-## Portugal
-
-Fresenius Kabi Pharma Portugal, Lda, Tel: +351 21 424 1280
-
 ## Hrvatska
 
 Fresenius Kabi d.o.o.
 
 Tel: +385 1 2333 242
-
-## România
-
-FRESENIUS KABI ROMANIA SRL Tel: +40 (0)268 40 62 60
 
 ## Ireland
 
@@ -1058,19 +1079,9 @@ Fresenius Kabi Ireland
 
 Tel: +353 (0) 1841 3030
 
-## Slovenija
-
-Fresenius Kabi Deutschland GmbH Tel: +49 0800 788 7070
-
 ## Ísland
 
-Vistor
-
-Simi: +354 535 7000
-
-## Slovenská republika
-
-Fresenius Kabi s.r.o., organizačná zložka Tel: +421 232 101 621
+Vistor Simi: +354 535 7000
 
 ## Italia
 
@@ -1078,29 +1089,55 @@ Fresenius Kabi Italia S.r.l
 
 Tel: +39 0456649311
 
-## Suomi/Finland
-
-Fresenius Kabi AB- filial I Finland, sivuliike Suomessa Puh/Tel: +358 9 428 1550
-
 ## Κύπρος
 
 Innopro Healthcare Ltd Τηλ: +357 22483000
 
-## Sverige
-
-Fresenius Kabi AB Tfn: +46 18 64 40 00
-
 ## Latvija
 
-Fresenius Kabi Deutschland GmbH Tel: +49 0800 788 7070
+Fresenius Kabi Deutschland GmbH
 
-<div style=\"page-break-after: always\"></div>
+Tel: +49 0800 788 7070
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en
+
+## Österreich
+
+Fresenius Kabi Deutschland GmbH
+
+Tel: +49 0800 788 7070
+
+## Polska
+
+Fresenius Kabi Polska Sp. z o.o. Tel: +48 22 345 67 89
+
+## Portugal
+
+Fresenius Kabi Pharma Portugal, Lda, Tel: +351 21 424 1280
+
+## România
+
+FRESENIUS KABI ROMANIA SRL Tel: +40 (0)268 40 62 60
+
+## Slovenija
+
+Fresenius Kabi Deutschland GmbH Tel: +49 0800 788 7070
+
+## Slovenská republika
+
+Fresenius Kabi s.r.o., organizačná zložka Tel: +421 232 101 621
+
+## Suomi/Finland
+
+Fresenius Kabi AB- filial I Finland, sivuliike Suomessa Puh/Tel: +358 9 428 1550
+
+## Sverige
+
+Fresenius Kabi AB Tfn: +46 18 64 40 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1131,7 +1168,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
-Call your doctor or healthcare provider if you have any questions.
+## Call your doctor or healthcare provider if you have any questions.
 
 ## Step 1: Prepare materials
 

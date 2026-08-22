@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-23 13:00:00
+document_datetime: 2026-08-18 14:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/amgevita.html
 document_name: amgevita.html
 version: success
-processing_time: 0.145167
-conversion_datetime: 2026-04-25 16:44:28.976234
+processing_time: 0.1776759
+conversion_datetime: 2026-08-22 22:57:33.726815
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Amgevita
 
@@ -41,7 +41,6 @@ Page contents
 - [Product information - with tracked changes](#product-information-with-tracked-changes-85552)
 - [Related content](#related-content-658)
 - [More information on Amgevita](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -57,7 +56,7 @@ Expand section
 
 Collapse section
 
-## What is Amgevita and what is it used for?
+### What is Amgevita and what is it used for?
 
 Amgevita is a medicine that acts on the immune system and is used to treat the following conditions:
 
@@ -75,7 +74,7 @@ Amgevita is mostly used in adults when their conditions are severe, moderately s
 
 Amgevita contains the active substance adalimumab and is a 'biosimilar medicine'. This means that Amgevita is highly similar to a biological medicine (also known as the 'reference medicine') that is already authorised in the European Union (EU). The reference medicine for Amgevita is Humira.
 
-## How is Amgevita used?
+### How is Amgevita used?
 
 Amgevita can only be obtained with a prescription and treatment should be started and supervised by specialist doctors experienced in the diagnosis and treatment of the conditions for which it is authorised. Doctors treating uveitis should also take advice from doctors who have experience of using Amgevita.
 
@@ -83,11 +82,11 @@ The medicine is available as a solution for injection under the skin in a pre-fi
 
 For information on the doses to be used for each condition and other information on the use of Amgevita, see the package leaflet.
 
-## How does Amgevita work?
+### How does Amgevita work?
 
 The active substance in Amgevita, adalimumab, is a monoclonal antibody (a type of protein) that has been designed to recognise and attach to a chemical messenger in the body called tumour necrosis factor (TNF). This messenger is involved in causing inflammation and is found at high levels in patients with the diseases that Amgevita is used to treat. By attaching to TNF, adalimumab blocks its activity, thereby reducing inflammation and other symptoms of the diseases.
 
-## What benefits of Amgevita have been shown in studies?
+### What benefits of Amgevita have been shown in studies?
 
 Extensive laboratory studies comparing Amgevita with Humira have shown that adalimumab in Amgevita is highly similar to adalimumab in Humira in terms of chemical structure, purity and biological activity.
 
@@ -97,7 +96,7 @@ The medicine has been shown to have similar effects to Humira in one main study 
 
 In the rheumatoid arthritis study, response was measured as a 20% or more improvement in symptom score after 24 weeks of treatment: 75% of those given Amgevita responded, compared with 72% of those given Humira. In the psoriasis study, which looked at the degree of improvement after 16 weeks, there was an 81% improvement in symptom score with Amgevita compared with an 83% improvement with Humira.
 
-## What are the risks associated with Amgevita?
+### What are the risks associated with Amgevita?
 
 The most common side effects with adalimumab (seen in more than 1 patient in 10) are infections in the nose and throat, sinuses and upper respiratory tract, injection site reactions (redness, itching, bleeding, pain or swelling), headache and muscle and bone pain.
 
@@ -107,19 +106,19 @@ Other rare serious side effects (seen in between 1 in 10,000 and 1 in 1,000 pati
 
 Amgevita must not be used in patients with active tuberculosis or other severe infections, or in patients with moderate to severe heart failure (an inability of the heart to pump enough blood around the body). For the full list of restrictions with Amgevita, see the package leaflet.
 
-## Why is Amgevita approved?
+### Why is Amgevita approved?
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) decided that, in accordance with EU requirements for biosimilar medicines, Amgevita has a highly similar structure, purity and biological activity to Humira and is distributed in the body in the same way.
 
 In addition, studies in rheumatoid arthritis and psoriasis have shown that the effects of the medicine are equivalent to those of Humira in these conditions. All these data were considered sufficient to conclude that Amgevita will behave in the same way as Humira in terms of effectiveness and safety in its approved indications. Therefore, the CHMP's view was that, as for Humira, the benefit outweighs the identified risk. The Committee recommended that Amgevita be given marketing authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Amgevita?
+### What measures are being taken to ensure the safe and effective use of Amgevita?
 
 The company that markets Amgevita must provide educational packs for doctors who will prescribe the medicine. These packs will include information on the safety of the medicine and an alert card to be given to patients.
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Amgevita have also been included in the summary of product characteristics and the package leaflet.
 
-## Other information about Amgevita
+### Other information about Amgevita
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Amgevita on 22 March 2017.
 
@@ -135,7 +134,7 @@ English (EN) (109.92 KB - PDF)
 
 [View](/en/documents/overview/amgevita-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-7)
+[Other languages (22)](#file-language-dropdown-464)
 
 български (BG) (116.26 KB - PDF)
 
@@ -167,7 +166,7 @@ Deutsch (DE) (87.61 KB - PDF)
 
 [View](/de/documents/overview/amgevita-epar-summary-public_de.pdf)
 
-eesti keel (ET) (83.24 KB - PDF)
+eesti (ET) (83.24 KB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 06/04/2017
 
@@ -197,13 +196,13 @@ italiano (IT) (84.82 KB - PDF)
 
 [View](/it/documents/overview/amgevita-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (108.74 KB - PDF)
+latviešu (LV) (108.74 KB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/lv/documents/overview/amgevita-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (112.45 KB - PDF)
+lietuvių (LT) (112.45 KB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 06/04/2017
 
@@ -257,7 +256,7 @@ slovenščina (SL) (105.2 KB - PDF)
 
 [View](/sl/documents/overview/amgevita-epar-summary-public_sl.pdf)
 
-Suomi (FI) (83.95 KB - PDF)
+suomi (FI) (83.95 KB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 06/04/2017
 
@@ -271,9 +270,9 @@ svenska (SV) (83.82 KB - PDF)
 
 Amgevita : EPAR - Risk management plan
 
-English (EN) (1.12 MB - PDF)
+English (EN) (2.22 MB - PDF)
 
-**First published:** 25/04/2019 **Last updated:** 22/05/2024
+**First published:** 25/04/2019 **Last updated:** 18/08/2026
 
 [View](/en/documents/rmp/amgevita-epar-risk-management-plan_en.pdf)
 
@@ -287,7 +286,7 @@ English (EN) (2.68 MB - PDF)
 
 [View](/en/documents/product-information/amgevita-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-697)
+[Other languages (24)](#file-language-dropdown-99)
 
 български (BG) (3.66 MB - PDF)
 
@@ -319,7 +318,7 @@ Deutsch (DE) (3.43 MB - PDF)
 
 [View](/de/documents/product-information/amgevita-epar-product-information_de.pdf)
 
-eesti keel (ET) (4.7 MB - PDF)
+eesti (ET) (4.7 MB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 23/04/2026
 
@@ -343,25 +342,19 @@ hrvatski (HR) (5.39 MB - PDF)
 
 [View](/hr/documents/product-information/amgevita-epar-product-information_hr.pdf)
 
-íslenska (IS) (5.19 MB - PDF)
-
-**First published:** 06/04/2017 **Last updated:** 23/04/2026
-
-[View](/is/documents/product-information/amgevita-epar-product-information_is.pdf)
-
 italiano (IT) (4.55 MB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/it/documents/product-information/amgevita-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (5.33 MB - PDF)
+latviešu (LV) (5.33 MB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/lv/documents/product-information/amgevita-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (5.45 MB - PDF)
+lietuvių (LT) (5.45 MB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 23/04/2026
 
@@ -384,12 +377,6 @@ Nederlands (NL) (3.33 MB - PDF)
 **First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/nl/documents/product-information/amgevita-epar-product-information_nl.pdf)
-
-norsk (NO) (5.08 MB - PDF)
-
-**First published:** 06/04/2017 **Last updated:** 23/04/2026
-
-[View](/no/documents/product-information/amgevita-epar-product-information_no.pdf)
 
 polski (PL) (5.94 MB - PDF)
 
@@ -421,7 +408,7 @@ slovenščina (SL) (5.34 MB - PDF)
 
 [View](/sl/documents/product-information/amgevita-epar-product-information_sl.pdf)
 
-Suomi (FI) (5.56 MB - PDF)
+suomi (FI) (5.56 MB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 23/04/2026
 
@@ -433,15 +420,28 @@ svenska (SV) (4.76 MB - PDF)
 
 [View](/sv/documents/product-information/amgevita-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000327651
+Íslenska (IS) (5.19 MB - PDF)
 
-23/04/2026
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
+
+[View](/is/documents/product-information/amgevita-epar-product-information_is.pdf)
+
+norsk (NO) (5.08 MB - PDF)
+
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
+
+[View](/no/documents/product-information/amgevita-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** V/0000361018
+
+13/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -459,7 +459,7 @@ English (EN) (73.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-82)
+[Other languages (24)](#file-language-dropdown-594)
 
 български (BG) (127.84 KB - PDF)
 
@@ -491,7 +491,7 @@ Deutsch (DE) (75.23 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (68.69 KB - PDF)
+eesti (ET) (68.69 KB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 22/05/2024
 
@@ -515,25 +515,19 @@ hrvatski (HR) (75.74 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (73.06 KB - PDF)
-
-**First published:** 06/04/2017 **Last updated:** 22/05/2024
-
-[View](/is/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (77.82 KB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/it/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (76.74 KB - PDF)
+latviešu (LV) (76.74 KB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/lv/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (73.57 KB - PDF)
+lietuvių (LT) (73.57 KB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 22/05/2024
 
@@ -556,12 +550,6 @@ Nederlands (NL) (78.51 KB - PDF)
 **First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/nl/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (96.38 KB - PDF)
-
-**First published:** 06/04/2017 **Last updated:** 22/05/2024
-
-[View](/no/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (321.32 KB - PDF)
 
@@ -593,7 +581,7 @@ slovenščina (SL) (102.75 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (78.9 KB - PDF)
+suomi (FI) (78.9 KB - PDF)
 
 **First published:** 06/04/2017 **Last updated:** 22/05/2024
 
@@ -605,33 +593,36 @@ svenska (SV) (74.72 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (73.06 KB - PDF)
+
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
+
+[View](/is/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (96.38 KB - PDF)
+
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
+
+[View](/no/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Amgevita
-
-Active substance
-
-adalimumab
-
-International non-proprietary name (INN) or common name
-
-adalimumab
-
-Therapeutic area (MeSH)
-
-- Arthritis, Psoriatic
-- Colitis, Ulcerative
-- Arthritis, Juvenile Rheumatoid
-- Spondylitis, Ankylosing
-- Psoriasis
-- Crohn Disease
-- Arthritis, Rheumatoid
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AB04
+- **Name of medicine**
+    - Amgevita
+- **Active substance**
+    - adalimumab
+- **International non-proprietary name (INN) or common name**
+    - adalimumab
+- **Therapeutic area (MeSH)**
+        - Arthritis, Psoriatic
+        - Colitis, Ulcerative
+        - Arthritis, Juvenile Rheumatoid
+        - Spondylitis, Ankylosing
+        - Psoriasis
+        - Crohn Disease
+        - Arthritis, Rheumatoid
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AB04
 
 ### Pharmacotherapeutic group
 
@@ -708,31 +699,18 @@ Amgevita is indicated for the treatment of paediatric chronic non-infectious ant
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004212
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Amgen Europe B.V.
-
-Minervum 7061
-
-Opinion adopted
-
-25/01/2017
-
-Marketing authorisation issued
-
-21/03/2017
-
-Revision
-
-15
+- **EMA product number**
+    - EMEA/H/C/004212
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Amgen Europe B.V. Minervum 7061  NL-4817 ZK Breda  The Netherlands
+- **Opinion adopted**
+    - 25/01/2017
+- **Marketing authorisation issued**
+    - 21/03/2017
+- **Revision**
+    - 16
 
 ## Assessment history
 
@@ -740,13 +718,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Amgevita : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (152.17 KB - PDF)
+English (EN) (154.04 KB - PDF)
 
-**First published:** 31/03/2025 **Last updated:** 23/04/2026
+**First published:** 31/03/2025 **Last updated:** 18/08/2026
 
 [View](/en/documents/procedural-steps-after/amgevita-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -768,7 +746,7 @@ English (EN) (1.22 MB - PDF)
 
 [View](/en/documents/variation-report/amgevita-h-c-004212-x-0036-g-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Amgevita : EPAR - Public assessment report
 
@@ -818,7 +796,7 @@ English (EN) (17.26 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-317)
+[Other languages (24)](#file-language-dropdown-353)
 
 български (BG) (9.69 MB - DOCX)
 
@@ -850,7 +828,7 @@ Deutsch (DE) (16.01 MB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (10.14 MB - DOCX)
+eesti (ET) (10.14 MB - DOCX)
 
 **First published:** 23/04/2026
 
@@ -874,25 +852,19 @@ hrvatski (HR) (10.12 MB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (10.29 MB - DOCX)
-
-**First published:** 23/04/2026
-
-[View](/is/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (7.64 MB - DOCX)
 
 **First published:** 23/04/2026
 
 [View](/it/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (17.49 MB - DOCX)
+latviešu (LV) (17.49 MB - DOCX)
 
 **First published:** 23/04/2026
 
 [View](/lv/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (7.75 MB - DOCX)
+lietuvių (LT) (7.75 MB - DOCX)
 
 **First published:** 23/04/2026
 
@@ -915,12 +887,6 @@ Nederlands (NL) (16.1 MB - DOCX)
 **First published:** 23/04/2026
 
 [View](/nl/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (17.54 MB - DOCX)
-
-**First published:** 23/04/2026
-
-[View](/no/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (14.3 MB - DOCX)
 
@@ -952,7 +918,7 @@ slovenščina (SL) (16.82 MB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (17.83 MB - DOCX)
+suomi (FI) (17.83 MB - DOCX)
 
 **First published:** 23/04/2026
 
@@ -964,6 +930,18 @@ svenska (SV) (17.03 MB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_sv.docx)
 
+Íslenska (IS) (10.29 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/is/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (17.54 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/no/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_no.docx)
+
 ## Related content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
@@ -972,13 +950,8 @@ svenska (SV) (17.03 MB - DOCX)
 
 - [Persistence of AMGEVITA® in patients with plaque psoriasis: a retrospective database analysis from the British Association of Dermatology Biologics and Immunomodulators Register (20210149) - post-authorisation study](https://catalogues.ema.europa.eu/study/47125)
 
-## Topics
-
-- [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-23/04/2026
+18/08/2026
 
 ## Share this page

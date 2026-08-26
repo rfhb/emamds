@@ -1,24 +1,24 @@
 ---
-document_datetime: 2026-07-10 11:40:27
+document_datetime: 2026-08-24 13:12:13
 document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bomyntra-epar-product-information_en.pdf
 document_name: bomyntra-epar-product-information_en.pdf
 version: success
-processing_time: 13.8918025
-conversion_datetime: 2026-07-13 12:51:14.314562
+processing_time: 15.3668377
+conversion_datetime: 2026-08-26 10:38:37.173442
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.112.0
-  docling-core: 2.87.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## 0B SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -42,7 +42,7 @@ Each pre-filled syringe contains 120 mg of denosumab in 1.7 mL of solution (70 m
 
 Denosumab is a human monoclonal IgG2 antibody produced in a mammalian cell line (Chinese hamster ovary cells) by recombinant DNA technology.
 
-## Excipient with known effects
+## Excipients with known effects
 
 Each 1.7 mL of solution contains 79.9 mg sorbitol (E420).
 
@@ -261,11 +261,12 @@ Table 1. Adverse reactions reported in patients with advanced malignancies invol
 
 <div style=\"page-break-after: always\"></div>
 
-| Musculoskeletal and connective   | Very common   | Musculoskeletal pain 1                           |
-|----------------------------------|---------------|--------------------------------------------------|
-| tissue disorders                 | Common        | Osteonecrosis of the jaw 1                       |
-| tissue disorders                 | Uncommon      | Atypical femoral fracture 1                      |
-| tissue disorders                 | Not known     | Osteonecrosis of the external auditory canal 3,4 |
+| Musculoskeletal and connective                       | Very common   | Musculoskeletal pain 1                           |
+|------------------------------------------------------|---------------|--------------------------------------------------|
+| tissue disorders                                     | Common        | Osteonecrosis of the jaw 1                       |
+|                                                      | Uncommon      | Atypical femoral fracture 1                      |
+|                                                      | Not known     | Osteonecrosis of the external auditory canal 3,4 |
+| General disorders and administration site conditions | Uncommon      | Injection site reactions 5                       |
 
 ## Description of selected adverse reactions
 
@@ -313,9 +314,11 @@ In the post-marketing setting, events of hypersensitivity, including rare events
 
 In the clinical trial programme, atypical femoral fractures have been reported uncommonly in patients treated with denosumab and the risk increased with longer duration of treatment. Events have occurred during treatment and up to 9 months after treatment was discontinued (see section 4.4).
 
-In the clinical trial programme for GCTB, atypical femoral fractures have been reported commonly in patients treated with denosumab. In study 6, incidence of confirmed AFF was 0.95% (5/526) in patients with giant cell tumour of bone. In the follow up study 7, the incidence of confirmed AFF was 3.9% (2/51) of patients exposed to denosumab.
+In the clinical trial programme for GCTB, atypical femoral fractures have been reported commonly in patients treated with denosumab. In study 6, incidence of confirmed AFF was 0.95% (5/526) in patients with giant cell tumour of bone. In the follow up study 7, the incidence of confirmed AFF was
 
 <div style=\"page-break-after: always\"></div>
+
+## 3.9% (2/51) of patients exposed to denosumab.
 
 ## Musculoskeletal pain
 
@@ -485,7 +488,7 @@ Table 3. Efficacy results for denosumab compared to zoledronic acid in patients 
 | First radiation to bone   | First radiation to bone   |
 |---------------------------|---------------------------|
 | Hazard ratio (95% CI)     | 0.78 (0.53, 1.14)         |
-| Overall survival          | Overall survival          |
+| Overall survival          |                           |
 | Hazard ratio (95% CI)     | 0.90 (0.70, 1.16)         |
 
 NE = not estimable
@@ -538,9 +541,9 @@ A population pharmacokinetic analysis did not indicate clinically significant ch
 
 Denosumab displayed non-linear pharmacokinetics with dose over a wide dose range, but approximately dose-proportional increases in exposure for doses of 60 mg (or 1 mg/kg) and higher. The non-linearity is likely due to a saturable target-mediated elimination pathway of importance at low concentrations.
 
-## Renal impairment
-
 <div style=\"page-break-after: always\"></div>
+
+## Renal impairment
 
 In studies of denosumab (60 mg, n = 55 and 120 mg, n = 32) in patients without advanced cancer but with varying degrees of renal function, including patients on dialysis, the degree of renal impairment had no effect on the pharmacokinetics of denosumab; thus, dose adjustment for renal impairment is not required. There is no need for renal monitoring with denosumab dosing.
 
@@ -570,9 +573,9 @@ In single and repeated dose toxicity studies in cynomolgus monkeys, denosumab do
 
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester of pregnancy, denosumab doses resulting in 9 times greater systemic exposure than the recommended human dose did not induce maternal toxicity or foetal harm during a period equivalent to the first trimester, although foetal lymph nodes were not examined.
 
-In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at systemic exposures 12-fold higher than the human dose, there were increased stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6-month period after birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
-
 <div style=\"page-break-after: always\"></div>
+
+In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at systemic exposures 12-fold higher than the human dose, there were increased stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6-month period after birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
 
 In preclinical bone quality studies in monkeys on long-term denosumab treatment, decreases in bone turnover were associated with improvement in bone strength and normal bone histology.
 
@@ -598,9 +601,9 @@ Once removed from the refrigerator, a single pre-filled syringe or vial may be s
 
 Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial or the pre-filled syringe in the outer carton in order to protect from light.
 
-## 6.5 Nature and contents of container
-
 <div style=\"page-break-after: always\"></div>
+
+## 6.5 Nature and contents of container
 
 ## Bomyntra 120 mg solution for injection in vial
 
@@ -610,7 +613,7 @@ Pack sizes of 1, 3 and 4 vials.
 
 Not all pack sizes may be marketed.
 
-## Bomyntra 120 mg solution for injection in pre-filled syringe
+Bomyntra 120 mg solution for injection in pre-filled syringe
 
 1.7 mL solution in a single use pre-filled syringe made from type I glass with stainless steel 27-gauge needle closed with a plunger stopper (fluoropolymer coated elastomeric) and a rigid needle shield. The pre-filled syringe is assembled with a passive needle safety guard.
 
@@ -638,11 +641,11 @@ Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1 61352 Bad Homburg von der
 
 EU/1/25/1953/001 EU/1/25/1953/002 EU/1/25/1953/003 EU/1/25/1953/004 EU/1/25/1953/005 EU/1/25/1953/006
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 17 July 2025
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -658,7 +661,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## 1B A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer of the biological active substance
 
@@ -668,17 +671,17 @@ Name and address of the manufacturer responsible for batch release Fresenius Kab
 
 Austria
 
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+## 2B B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## 3B C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic safety update report (PSUR)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## 4B D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
 
@@ -701,7 +704,7 @@ The MAH shall ensure that a patient reminder card regarding osteonecrosis of the
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+## 5B A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -951,7 +954,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
+## 6B B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -963,11 +966,11 @@ Lot
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Bomyntra.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Bomyntra.
 
 ## What is in this leaflet
 
@@ -990,9 +993,9 @@ Bomyntra is also used to treat giant cell tumour of bone, which cannot be treate
 
 ## Do not use Bomyntra
 
-- -if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
-- -Your healthcare professional will not administer Bomyntra to you if you have a very low level of calcium in your blood which has not been treated.
-- -Your healthcare professional will not administer Bomyntra to you if you have unhealed wounds from dental or oral surgery.
+- if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
+- Your healthcare professional will not administer Bomyntra to you if you have a very low level of calcium in your blood which has not been treated.
+- Your healthcare professional will not administer Bomyntra to you if you have unhealed wounds from dental or oral surgery.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1033,9 +1036,9 @@ Some people have developed unusual fractures in their thigh bone while being tre
 
 Some patients with giant cell tumour of the bone have developed high calcium levels in the blood weeks to months after stopping treatment. Your doctor will monitor you for signs and symptoms of high levels of calcium, after you stop receiving Bomyntra.
 
-## Children and adolescents
-
 <div style=\"page-break-after: always\"></div>
+
+## Children and adolescents
 
 Bomyntra is not recommended for children and adolescents under 18 years of age except for adolescents with giant cell tumour of the bone whose bones have stopped growing. The use of Bomyntra has not been studied in children and adolescents with other cancers that have spread to bone.
 
@@ -1078,9 +1081,9 @@ This medicine contains 0.17 mg of polysorbate 20 in each vial which is equivalen
 
 Bomyntra should be administered under the responsibility of a healthcare professional.
 
-The recommended dose of Bomyntra is 120 mg administered once every 4 weeks, as a single injection under the skin (subcutaneous). Bomyntra will be injected into your thigh, abdomen or upper arm. If you are being treated for giant cell tumour of bone, you will receive an additional dose 1 week and 2 weeks after the first dose.
-
 <div style=\"page-break-after: always\"></div>
+
+The recommended dose of Bomyntra is 120 mg administered once every 4 weeks, as a single injection under the skin (subcutaneous). Bomyntra will be injected into your thigh, abdomen or upper arm. If you are being treated for giant cell tumour of bone, you will receive an additional dose 1 week and 2 weeks after the first dose.
 
 Do not shake.
 
@@ -1117,7 +1120,8 @@ Uncommon side effects (may affect up to 1 in 100 people):
 
 - high calcium levels in the blood (hypercalcaemia) after stopping treatment in patients with giant cell tumour of the bone,
 - new or unusual pain in your hip, groin or thigh (this may be an early indication of a possible fracture of the thigh bone),
-- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
+- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions),
+- injection site reactions including pain around the site where the injection was given.
 
 Rare side effects (may affect up to 1 in 1 000 people):
 
@@ -1125,9 +1129,11 @@ Rare side effects (may affect up to 1 in 1 000 people):
 
 Not known (frequency cannot be estimated from the available data):
 
-- talk to your doctor if you have ear pain, discharge from the ear, and/or an ear infection. These could be signs of bone damage in the ear.
+- talk to your doctor if you have ear pain, discharge from the ear, and/or an ear infection. These
 
 <div style=\"page-break-after: always\"></div>
+
+could be signs of bone damage in the ear.
 
 ## Reporting of side effects
 
@@ -1139,7 +1145,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-## Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C - 8 °C).
 
 Do not freeze.
 
@@ -1153,8 +1159,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Bomyntra contains
 
-- -The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 ml of solution (corresponding to 70 mg/ml).
-- -The other ingredients are acetic acid, sodium acetate trihydrate, sorbitol (E420), polysorbate 20 (E432), and water for injections.
+- The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 ml of solution (corresponding to 70 mg/ml).
+- The other ingredients are acetic acid, sodium acetate trihydrate, sorbitol (E420), polysorbate 20 (E432), and water for injections.
 
 ## What Bomyntra looks like and contents of the pack
 
@@ -1203,11 +1209,11 @@ denosumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Bomyntra.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Bomyntra.
 
 ## What is in this leaflet
 
@@ -1230,9 +1236,9 @@ Bomyntra is also used to treat giant cell tumour of bone, which cannot be treate
 
 ## Do not use Bomyntra
 
-- -if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
-- -Your healthcare professional will not administer Bomyntra to you if you have a very low level of calcium in your blood which has not been treated.
-- -Your healthcare professional will not administer Bomyntra to you if you have unhealed wounds from dental or oral surgery.
+- if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
+- Your healthcare professional will not administer Bomyntra to you if you have a very low level of calcium in your blood which has not been treated.
+- Your healthcare professional will not administer Bomyntra to you if you have unhealed wounds from dental or oral surgery.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1357,7 +1363,8 @@ Uncommon side effects (may affect up to 1 in 100 people):
 
 - high calcium levels in the blood (hypercalcaemia) after stopping treatment in patients with giant cell tumour of the bone,
 - new or unusual pain in your hip, groin or thigh (this may be an early indication of a possible fracture of the thigh bone),
-- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
+- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions),
+- injection site reactions including pain around the site where the injection was given.
 
 Rare side effects (may affect up to 1 in 1 000 people):
 
@@ -1379,7 +1386,11 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C).
+
+Do not freeze.
+
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 The pre-filled syringe may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. Once your pre-filled syringe has been left to reach room temperature (up to 25°C), it must be used within 30 days.
 
@@ -1389,8 +1400,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Bomyntra contains
 
-- -The active substance is denosumab. Each pre-filled syringe contains 120 mg of denosumab in 1.7 ml of solution (corresponding to 70 mg/ml).
-- -The other ingredients are acetic acid, sodium acetate trihydrate, sorbitol (E420), polysorbate 20 (E432), and water for injections.
+- The active substance is denosumab. Each pre-filled syringe contains 120 mg of denosumab in 1.7 ml of solution (corresponding to 70 mg/ml).
+- The other ingredients are acetic acid, sodium acetate trihydrate, sorbitol (E420), polysorbate 20 (E432), and water for injections.
 
 ## What Bomyntra looks like and contents of the pack
 
@@ -1406,11 +1417,11 @@ Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1 61352 Bad Homburg v.d. Ho
 
 ## Manufacturer
 
-Fresenius Kabi Austria GmbH Hafnerstrasse 36
+Fresenius Kabi Austria GmbH
 
 <div style=\"page-break-after: always\"></div>
 
-8055 Graz Austria
+Hafnerstrasse 36 8055 Graz Austria
 
 ## This leaflet was last revised in
 
@@ -1426,22 +1437,22 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Before you use a Bomyntra pre-filled syringe with automatic needle guard, read this important information:
 
-- -It is important that you do not try to give yourself the injection unless you have received training from your doctor or healthcare provider.
-- -Bomyntra is given as an injection into the tissue just under the skin (subcutaneous injection).
-- -Do not remove the grey needle cap from the pre-filled syringe until you are ready to inject.
-- -Do not use the pre-filled syringe if the carton is damaged or the seal is broken.
-- -Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new pre-filled syringe and call your doctor or healthcare provider.
-- -Do not try to push the plunger rod of the pre-filled syringe before the injection.
-- -Do not shake the pre-filled syringe.
-- -Important: Keep the pre-filled syringe out of the sight and reach of children.
+- It is important that you do not try to give yourself the injection unless you have received training from your doctor or healthcare provider.
+- Bomyntra is given as an injection into the tissue just under the skin (subcutaneous injection).
+- Do not remove the grey needle cap from the pre-filled syringe until you are ready to inject.
+- Do not use the pre-filled syringe if the carton is damaged or the seal is broken.
+- Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new pre-filled syringe and call your doctor or healthcare provider.
+- Do not try to push the plunger rod of the pre-filled syringe before the injection.
+- Do not shake the pre-filled syringe.
+- Important: Keep the pre-filled syringe out of the sight and reach of children.
 
 ## Storing Bomyntra pre-filled syringe
 
-- -Store Bomyntra in a refrigerator between 2 °C to 8 °C in the original carton. Do not freeze.
-- -Before giving the injection, Bomyntra may be allowed to reach room temperature up to 25 °C in the original container. This takes 15 to 30 minutes. Do not warm Bomyntra in any other way.
-- -After Bomyntra is removed from the refrigerator, it must be used within 30 days . If not used in 30 days, Bomyntra should be thrown away (discarded).
-- -Do not use Bomyntra after the expiration date printed on the label.
-- -Protect Bomyntra from direct light and heat.
+- Store Bomyntra in a refrigerator between 2 °C to 8 °C in the original carton. Do not freeze.
+- Before giving the injection, Bomyntra may be allowed to reach room temperature up to 25 °C in the original container. This takes 15 to 30 minutes. Do not warm Bomyntra in any other way.
+- After Bomyntra is removed from the refrigerator, it must be used within 30 days . If not used in 30 days, Bomyntra should be thrown away (discarded).
+- Do not use Bomyntra after the expiration date printed on the label.
+- Protect Bomyntra from direct light and heat.
 
 ## Call your doctor or healthcare provider if you have any questions.
 

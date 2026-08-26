@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-23 15:33:00
+document_datetime: 2026-08-21 10:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zilbrysq.html
 document_name: zilbrysq.html
 version: success
-processing_time: 0.1172392
-conversion_datetime: 2026-04-25 16:25:44.295022
+processing_time: 0.141654
+conversion_datetime: 2026-08-26 10:58:35.639288
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Zilbrysq
 
@@ -39,6 +39,7 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Zilbrysq](#news-on)
 - [More information on Zilbrysq](#more-information-on-zilbrysq-64265)
+- [More information on Zilbrysq](#related-medicines)
 
 - Application under evaluation
 - CHMP opinion
@@ -54,7 +55,7 @@ Expand section
 
 Collapse section
 
-## How is Zilbrysq used?
+### How is Zilbrysq used?
 
 The medicine can only be obtained with a prescription. Treatment with Zilbrysq should be supervised by healthcare professionals experienced in managing patients with neuromuscular disorders (disorders that affect the nerves that control muscles).
 
@@ -62,13 +63,13 @@ Zilbrysq is given as an injection under the skin once daily. The dose depends on
 
 For more information about using Zilbrysq, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Zilbrysq work?
+### How does Zilbrysq work?
 
 The active substance in Zilbrysq, zilucoplan, is designed to attach to the C5 complement protein, which is part of the immune system called the 'complement system'.
 
 Myasthenia gravis is caused by the production of autoantibodies (proteins that attack parts of a person's own body by mistake) that damage acetylcholine receptors, which in normal conditions allow signals from the nerves to trigger muscle contractions. The attachment of autoantibodies to acetylcholine receptors activates the complement system, which leads to damage of the contact point between the nerve and muscle. Due to this damage, the muscles are not able to contract as well as normal, leading to muscle weakness and difficulty moving. By attaching to the C5 complement protein, zilucoplan reduces the activity of the complement system, which decreases the damage of acetylcholine receptors thereby improving the symptoms of the disease.
 
-## What benefits of Zilbrysq have been shown in studies?
+### What benefits of Zilbrysq have been shown in studies?
 
 A study involving 174 adults with generalised myasthenia gravis and anti-acetylcholine receptor autoantibodies showed that Zilbrysq was more effective than placebo (a dummy treatment) at improving symptoms of the disease.
 
@@ -76,7 +77,7 @@ The effect of treatment was measured using the Myasthenia Gravis - Activities of
 
 The study showed that after 12 weeks of treatment, patients given Zilbrysq had a reduction of about 4.4 points in the MG-ADL score compared to a reduction of 2.3 points in those given placebo.
 
-## What are the risks associated with Zilbrysq?
+### What are the risks associated with Zilbrysq?
 
 For the full list of side effects and restrictions with Zilbrysq, see the package leaflet.
 
@@ -84,13 +85,13 @@ The most common side effects with Zilbrysq (which may affect more than 1 in 10 p
 
 Due to an increased risk of developing meningococcal infection caused by the bacterium Neisseria meningitidis, Zilbrysq must not be given to patients who have an ongoing meningococcal infection. It should not be used in patients who have not been vaccinated against this bacterium at least two weeks before starting treatment. If treatment is started within two weeks of vaccination, patients should take appropriate antibiotics for two weeks after vaccination.
 
-## Why is Zilbrysq authorised in the EU?
+### Why is Zilbrysq authorised in the EU?
 
 Zilbrysq was shown to improve the symptoms of generalised myasthenia gravis in patients with anti-acetylcholine receptor autoantibodies. Given that patients can inject the medicine themselves, it provides an accessible treatment option for the disease. Although side effects with Zilbrysq were generally mild to moderate, there are some uncertainties about the medicine's long-term safety, given that the studies included a small number of patients for a relatively short period of time.
 
 The European Medicines Agency therefore decided that Zilbrysq's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Zilbrysq?
+### What measures are being taken to ensure the safe and effective use of Zilbrysq?
 
 The company that markets Zilbrysq will ensure that patients can only access the medicine if their prescribers have made a written declaration of their vaccination against meningococcal disease. The company will also send reminders to prescribers to check if re-vaccination is needed for patients taking Zilbrysq and provide healthcare professionals and patients with safety information on the risk of meningococcal infections with the medicine. Patients will also be given an alert card that explains the symptoms of meningococcal infection and when to seek immediate medical care.
 
@@ -98,7 +99,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Zilbrysq are continuously monitored. Suspected side effects reported with Zilbrysq are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Zilbrysq
+### Other information about Zilbrysq
 
 Zilbrysq received a marketing authorisation valid throughout the EU on 1 December 2023.
 
@@ -112,7 +113,7 @@ English (EN) (122.64 KB - PDF)
 
 [View](/en/documents/overview/zilbrysq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-793)
+[Other languages (22)](#file-language-dropdown-221)
 
 български (BG) (139.02 KB - PDF)
 
@@ -144,7 +145,7 @@ Deutsch (DE) (116.68 KB - PDF)
 
 [View](/de/documents/overview/zilbrysq-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (113.36 KB - PDF)
+eesti (ET) (113.36 KB - PDF)
 
 **First published:** 08/12/2023
 
@@ -174,13 +175,13 @@ italiano (IT) (112.63 KB - PDF)
 
 [View](/it/documents/overview/zilbrysq-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (142.5 KB - PDF)
+latviešu (LV) (142.5 KB - PDF)
 
 **First published:** 08/12/2023
 
 [View](/lv/documents/overview/zilbrysq-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (137.45 KB - PDF)
+lietuvių (LT) (137.45 KB - PDF)
 
 **First published:** 08/12/2023
 
@@ -234,7 +235,7 @@ slovenščina (SL) (133.67 KB - PDF)
 
 [View](/sl/documents/overview/zilbrysq-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (111.51 KB - PDF)
+suomi (FI) (111.51 KB - PDF)
 
 **First published:** 08/12/2023
 
@@ -248,9 +249,9 @@ svenska (SV) (112.77 KB - PDF)
 
 Zilbrysq : EPAR - Risk management plan
 
-English (EN) (4.42 MB - PDF)
+English (EN) (1.27 MB - PDF)
 
-**First published:** 08/12/2023
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/en/documents/rmp/zilbrysq-epar-risk-management-plan_en.pdf)
 
@@ -258,167 +259,168 @@ English (EN) (4.42 MB - PDF)
 
 Zilbrysq : EPAR - Product information
 
-English (EN) (923.65 KB - PDF)
+English (EN) (922.98 KB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/en/documents/product-information/zilbrysq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-715)
+[Other languages (24)](#file-language-dropdown-420)
 
 български (BG) (1.21 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/bg/documents/product-information/zilbrysq-epar-product-information_bg.pdf)
 
-español (ES) (1.03 MB - PDF)
+español (ES) (1.02 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/es/documents/product-information/zilbrysq-epar-product-information_es.pdf)
 
 čeština (CS) (1.09 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/cs/documents/product-information/zilbrysq-epar-product-information_cs.pdf)
 
 dansk (DA) (1.06 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/da/documents/product-information/zilbrysq-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.07 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/de/documents/product-information/zilbrysq-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.06 MB - PDF)
+eesti (ET) (1.06 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/et/documents/product-information/zilbrysq-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.18 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/el/documents/product-information/zilbrysq-epar-product-information_el.pdf)
 
 français (FR) (1.13 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/fr/documents/product-information/zilbrysq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.1 MB - PDF)
+hrvatski (HR) (1.09 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/hr/documents/product-information/zilbrysq-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.02 MB - PDF)
-
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
-
-[View](/is/documents/product-information/zilbrysq-epar-product-information_is.pdf)
-
 italiano (IT) (1.1 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/it/documents/product-information/zilbrysq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.17 MB - PDF)
+latviešu (LV) (1.16 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/lv/documents/product-information/zilbrysq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.16 MB - PDF)
+lietuvių (LT) (1.15 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/lt/documents/product-information/zilbrysq-epar-product-information_lt.pdf)
 
 magyar (HU) (1.17 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/hu/documents/product-information/zilbrysq-epar-product-information_hu.pdf)
 
 Malti (MT) (1.21 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/mt/documents/product-information/zilbrysq-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.08 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/nl/documents/product-information/zilbrysq-epar-product-information_nl.pdf)
 
-norsk (NO) (1.11 MB - PDF)
+polski (PL) (1.79 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
-
-[View](/no/documents/product-information/zilbrysq-epar-product-information_no.pdf)
-
-polski (PL) (1.14 MB - PDF)
-
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/pl/documents/product-information/zilbrysq-epar-product-information_pl.pdf)
 
-português (PT) (1.77 MB - PDF)
+português (PT) (1.8 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/pt/documents/product-information/zilbrysq-epar-product-information_pt.pdf)
 
 română (RO) (1.08 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/ro/documents/product-information/zilbrysq-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.14 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/sk/documents/product-information/zilbrysq-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.11 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/sl/documents/product-information/zilbrysq-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.22 MB - PDF)
+suomi (FI) (1.21 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/fi/documents/product-information/zilbrysq-epar-product-information_fi.pdf)
 
 svenska (SV) (1.07 MB - PDF)
 
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
 
 [View](/sv/documents/product-information/zilbrysq-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000314736
+Íslenska (IS) (1.02 MB - PDF)
 
-19/03/2026
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
+
+[View](/is/documents/product-information/zilbrysq-epar-product-information_is.pdf)
+
+norsk (NO) (1.11 MB - PDF)
+
+**First published:** 08/12/2023 **Last updated:** 21/08/2026
+
+[View](/no/documents/product-information/zilbrysq-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000343399
+
+09/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -436,7 +438,7 @@ English (EN) (97.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-735)
+[Other languages (24)](#file-language-dropdown-110)
 
 български (BG) (58.61 KB - PDF)
 
@@ -468,7 +470,7 @@ Deutsch (DE) (52.01 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (43.18 KB - PDF)
+eesti (ET) (43.18 KB - PDF)
 
 **First published:** 08/12/2023 **Last updated:** 23/04/2026
 
@@ -492,25 +494,19 @@ hrvatski (HR) (50.54 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (68.43 KB - PDF)
-
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
-
-[View](/is/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (47.25 KB - PDF)
 
 **First published:** 08/12/2023 **Last updated:** 23/04/2026
 
 [View](/it/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (83.15 KB - PDF)
+latviešu (LV) (83.15 KB - PDF)
 
 **First published:** 08/12/2023 **Last updated:** 23/04/2026
 
 [View](/lv/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (49.64 KB - PDF)
+lietuvių (LT) (49.64 KB - PDF)
 
 **First published:** 08/12/2023 **Last updated:** 23/04/2026
 
@@ -533,12 +529,6 @@ Nederlands (NL) (46.42 KB - PDF)
 **First published:** 08/12/2023 **Last updated:** 23/04/2026
 
 [View](/nl/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (50.91 KB - PDF)
-
-**First published:** 08/12/2023 **Last updated:** 23/04/2026
-
-[View](/no/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (93.22 KB - PDF)
 
@@ -570,7 +560,7 @@ slovenščina (SL) (86.48 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (71.37 KB - PDF)
+suomi (FI) (71.37 KB - PDF)
 
 **First published:** 08/12/2023 **Last updated:** 23/04/2026
 
@@ -582,27 +572,30 @@ svenska (SV) (48.45 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (68.43 KB - PDF)
+
+**First published:** 08/12/2023 **Last updated:** 23/04/2026
+
+[View](/is/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (50.91 KB - PDF)
+
+**First published:** 08/12/2023 **Last updated:** 23/04/2026
+
+[View](/no/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Zilbrysq
-
-Active substance
-
-zilucoplan
-
-International non-proprietary name (INN) or common name
-
-zilucoplan
-
-Therapeutic area (MeSH)
-
-Myasthenia Gravis
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AJ06
+- **Name of medicine**
+    - Zilbrysq
+- **Active substance**
+    - zilucoplan
+- **International non-proprietary name (INN) or common name**
+    - zilucoplan
+- **Therapeutic area (MeSH)**
+    - Myasthenia Gravis
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AJ06
 
 ### Pharmacotherapeutic group
 
@@ -614,31 +607,18 @@ Zilbrysq is indicated as an add-on to standard therapy for the treatment of gene
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005450
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-UCB Pharma S.A.
-
-Allée de la Recherche 60
-
-Opinion adopted
-
-14/09/2023
-
-Marketing authorisation issued
-
-01/12/2023
-
-Revision
-
-4
+- **EMA product number**
+    - EMEA/H/C/005450
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - UCB Pharma S.A. Allée de la Recherche 60  B-1070 Bruxelles  Belgium
+- **Opinion adopted**
+    - 14/09/2023
+- **Marketing authorisation issued**
+    - 01/12/2023
+- **Revision**
+    - 5
 
 ## Assessment history
 
@@ -646,13 +626,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Zilbrysq : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (160.85 KB - PDF)
+English (EN) (165.42 KB - PDF)
 
-**First published:** 29/04/2025 **Last updated:** 23/04/2026
+**First published:** 29/04/2025 **Last updated:** 21/08/2026
 
 [View](/en/documents/procedural-steps-after/zilbrysq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -664,7 +644,7 @@ English (EN) (107.01 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/zilbrysq-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Zilbrysq : Orphan designation withdrawal assessment report
 
@@ -706,8 +686,12 @@ English (EN) (103.84 KB - PDF)
 
 This product is no longer an orphan medicine. It was originally designated an orphan medicine on 18 July 2022. Zylbrysq was withdrawn from the Union Register of orphan medicinal products by the European Commission in October 2023 upon request of the marketing authorisation holder at the time of the granting of a marketing authorisation.
 
+## More information on Zilbrysq
+
+- [EMEA-002747-PIP01-20-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002747-pip01-20-m01)
+
 **This page was last updated on**
 
-23/04/2026
+21/08/2026
 
 ## Share this page

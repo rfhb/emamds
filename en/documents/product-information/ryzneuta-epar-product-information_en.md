@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-09 14:08:48
+document_datetime: 2026-08-19 11:53:09
 document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ryzneuta-epar-product-information_en.pdf
 document_name: ryzneuta-epar-product-information_en.pdf
 version: success
-processing_time: 9.6075248
-conversion_datetime: 2026-07-13 12:45:21.139042
+processing_time: 15.1739406
+conversion_datetime: 2026-08-26 10:44:12.165038
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.112.0
-  docling-core: 2.87.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -168,7 +168,7 @@ This medicinal product contains 50 mg sorbitol in each pre-filled syringe. The a
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 20 mg dose, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per 20 mg dose, that is to say essentially 'sodium - free'.
 
 ## Rubber - latex
 
@@ -308,7 +308,7 @@ Neutrophils produced in response to G-CSF show normal or enhanced function as de
 
 ## Clinical efficacy and safety
 
-In a randomised, placebo-controlled, double-blind study in patients with breast cancer, the effect of efbemalenograstim alfa on the duration of neutropenia and the incidence of febrile neutropenia was evaluated following administration of a chemotherapy regimen associated with a febrile neutropenia rate of 30-40% (docetaxel 75 mg/m 2 and doxorubicin 60 mg/m 2 every 3 weeks for 4 cycles). One hundred twenty-two patients were randomised 2:1 to receive either a single 20 mg dose of efbemalenograstim alfa or placebo approximately 24 hours (day 2) after chemotherapy in cycle 1; all subjects received efbemalenograstim alfa in cycles 2 -4. The primary endpoint of mean duration of grade 4 neutropenia in cycle 1 was lower for patients randomised to receive efbemalenograstim alfa compared with placebo (1.3 days versus 3.9 days, p &lt; 0.001), as was the incidence of febrile neutropenia (5% versus 26%, p &lt; 0.001). Consistent with the reduction in febrile neutropenia, the incidence of IV anti-infective use in cycle 1 was also lower in the efbemalenograstim alfa group compared with placebo (4% versus 18%).
+In a randomised, placebo-controlled, double-blind study in patients with breast cancer, the effect of efbemalenograstim alfa on the duration of neutropenia and the incidence of febrile neutropenia was evaluated following administration of a chemotherapy regimen associated with a febrile neutropenia rate of 30-40% (docetaxel 75 mg/m 2 and doxorubicin 60 mg/m 2 every 3 weeks for 4 cycles). One hundred twenty-two patients were randomised 2:1 to receive either a single 20 mg dose of efbemalenograstim alfa or placebo approximately 24 hours (day 2) after chemotherapy in cycle 1; all subjects received efbemalenograstim alfa in cycles 2 - 4. The primary endpoint of mean duration of grade 4 neutropenia in cycle 1 was lower for patients randomised to receive efbemalenograstim alfa compared with placebo (1.3 days versus 3.9 days, p &lt; 0.001), as was the incidence of febrile neutropenia (5% versus 26%, p &lt; 0.001). Consistent with the reduction in febrile neutropenia, the incidence of IV anti-infective use in cycle 1 was also lower in the efbemalenograstim alfa group compared with placebo (4% versus 18%).
 
 Two additional randomised, active-controlled studies compared efbemalenograstim alfa, given as a once-per-cycle 20 mg dose, to either once-per-cycle pegfilgrastim (n=393) or daily filgrastim (n=239) for reducing the duration of neutropenia and the incidence of febrile neutropenia in patients with breast cancer receiving myelosuppressive chemotherapy.  In the pegfilgrastim comparison, patients with metastatic or non-metastatic breast cancer received a docetaxel and cyclophosphamide regimen. In this study, the mean duration of grade 4 neutropenia in cycle 1 for both the efbemalenograstim alfa and pegfilgrastim groups was 0.2 days (difference 0.0 days, 95% CI -0.1, 0.1). Over the entire study, the rate of febrile neutropenia was 3.0% of efbemalenograstim alfa-treated patients compared with 0.5% of pegfilgrastim-treated patients (difference 2.5%, 95% CI -7.3%, 12.4%). In the comparison to filgrastim (median of 8 daily doses), patients with non-metastatic breast cancer received an epirubicin and cyclophosphamide regimen. In this study, the mean duration of grade 4 neutropenia in cycle 1 for the efbemalenograstim alfa group was 0.3 days and in the filgrastim group was 0.2 days (median difference 0.0 days, 95% CI -0.0, 0.0). Over the entire study, the rate of febrile neutropenia was 0.8% of efbemalenograstim alfa-treated patients compared with 1.7% of filgrastim-treated patients (difference -0.8%, 95% CI -4%, 2%).
 
@@ -380,7 +380,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C -8 ° C).
+Store in a refrigerator (2 ° C - 8 ° C).
 
 Ryzneuta may be exposed to room temperature (not above 30 ° C) for a maximum single period of up to 48 hours. Ryzneuta left at room temperature for more than 48 hours should be discarded.
 
@@ -412,7 +412,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7.  MARKETING AUTHORISATION HOLDER
 
-Evive Biotechnology Ireland LTD 20 Kildare Street Dublin 2 D02 T3V7 Ireland
+Fisiopharma S.r.l. Nucleo Industriale Palomonte, SA, 84020 Italy
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -538,45 +538,33 @@ Keep the pre-filled syringe in the outer carton in order to protect from light. 
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Evive Biotechnology Ireland LTD
+Fisiopharma S.r.l. Nucleo Industriale Palomonte, SA, 84020 Italy
 
-20 Kildare Street Dublin 2 D02 T3V7
-
-Ireland
-
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/24/1793/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Ryzneuta
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN NN
 
@@ -594,7 +582,7 @@ Ryzneuta 20 mg solution for injection efbemalenograstim alfa
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Evive Biotechnology Ireland LTD
+Fisiopharma S.r.l.
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -649,18 +637,18 @@ Lot
 
 ## Package leaflet: Information for the user
 
-## Ryzneuta 20 mg solution for injection
+## Ryzneuta 20 mg solution for injection in pre-filled syringe
 
-## in pre-filled syringe efbemalenograstim alfa
+## efbemalenograstim alfa
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -679,8 +667,8 @@ Ryzneuta contains the active substance efbemalenograstim alfa. Efbemalenograstim
 
 Ryzneuta is used in adult patients who are receiving cancer medicines known as ' chemotherapy '. Ryzneuta is given to:
 
-- -reduce the duration of 'neutropenia' ( low white blood cell count);
-- -reduce the chance of having ' febrile neutropenia ' ( low white blood cell count with a fever). Neutropenia, and febrile neutropenia can be caused by the use of medicines that destroy rapidly growing cells, such as chemotherapy.
+- reduce the duration of 'neutropenia' ( low white blood cell count);
+- reduce the chance of having ' febrile neutropenia ' ( low white blood cell count with a fever). Neutropenia, and febrile neutropenia can be caused by the use of medicines that destroy rapidly growing cells, such as chemotherapy.
 
 ## How Ryzneuta works
 
@@ -690,7 +678,7 @@ Ryzneuta works by helping your bone marrow make more white blood cells that help
 
 ## Do not use Ryzneuta
 
-- -if you are allergic to efbemalenograstim alfa or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to efbemalenograstim alfa or any of the other ingredients of this medicine (listed in section 6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -700,26 +688,26 @@ Do not use Ryzneuta if this applies to you. If you are not sure, talk to your do
 
 Before using Ryzneuta, talk to your doctor, pharmacist or nurse if:
 
-- -you have recently had a serious lung infection, fluid in the lungs, inflamed lungs (interstitial lung disease) or an abnormal chest x-ray (lung infiltration)
-- -you have any altered blood counts (such as an increased white blood cells or anaemia) or low blood platelet counts, which reduces the ability of your blood to clot - your doctor may want to monitor you more closely
-- -you have sickle cell anaemia - your doctor may monitor your condition more closely
-- -you have an allergy to latex - the needle cap on the syringe may cause severe allergic reactions
+- you have recently had a serious lung infection, fluid in the lungs, inflamed lungs (interstitial lung disease) or an abnormal chest x-ray (lung infiltration)
+- you have any altered blood counts (such as an increased white blood cells or anaemia) or low blood platelet counts, which reduces the ability of your blood to clot - your doctor may want to monitor you more closely
+- you have sickle cell anaemia - your doctor may monitor your condition more closely
+- you have an allergy to latex - the needle cap on the syringe may cause severe allergic reactions
 
 If any of the above apply to you (or if you are not sure), talk to your doctor, pharmacist or nurse before using Ryzneuta.
 
 During treatment with Ryzneuta, look out for the following signs and symptoms:
 
-- -low blood pressure such as weakness and lightheadedness, difficulty breathing, swelling of the face, red and flushed skin, skin rash and itchy areas of skin -may be signs of an allergic reaction
-- -cough, fever and difficulty breathing -may be signs of acute respiratory distress syndrome (ARDS)
-- -swelling or puffiness, passing water less often, difficulty breathing, stomach swelling and feeling full, and generally feeling tired -may be signs of capillary leak syndrome (a condition where fluid leaks from the small blood vessels).
-- -upper left abdominal pain or pain at the tip of your shoulder - may be signs of problems with your spleen (splenomegaly, splenic rupture)
-- -fever, stomach pain, general feeling of discomfort, back pain -may be signs of an inflamed aorta.
+- low blood pressure such as weakness and lightheadedness, difficulty breathing, swelling of the face, red and flushed skin, skin rash and itchy areas of skin - may be signs of an allergic reaction
+- cough, fever and difficulty breathing - may be signs of acute respiratory distress syndrome (ARDS)
+- swelling or puffiness, passing water less often, difficulty breathing, stomach swelling and feeling full, and generally feeling tired - may be signs of capillary leak syndrome (a condition where fluid leaks from the small blood vessels).
+- upper left abdominal pain or pain at the tip of your shoulder - may be signs of problems with your spleen (splenomegaly, splenic rupture)
+- fever, stomach pain, general feeling of discomfort, back pain - may be signs of an inflamed aorta.
 
 Tell your doctor straight away if you notice any of the signs above. You may need urgent medical treatment.
 
 ## Blood and urine checks
 
-Your doctor will check your blood and urine regularly -because medicines like Ryzneuta can harm the tiny filters (glomeruli) inside your kidneys.
+Your doctor will check your blood and urine regularly - because medicines like Ryzneuta can harm the tiny filters (glomeruli) inside your kidneys.
 
 ## Risk of blood cancer
 
@@ -763,7 +751,7 @@ Ryzneuta has no, or very little effect on the ability to drive or use tools or m
 
 This medicine contains 50 mg sorbitol in each 20 mg dose.
 
-This medicine contains less than 1 mmol sodium (23 mg) per 20 mg dose, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 20 mg dose, that is to say essentially 'sodium - free'.
 
 The needle cap of the pre-filled syringe contains dry natural rubber (latex), which may cause allergic reactions.
 
@@ -785,7 +773,7 @@ Do not shake Ryzneuta vigorously as this may affect its activity.
 
 ## How much and how often Ryzneuta is given
 
-The recommended dose is one 20 mg injection, which is given at the end of each chemotherapy cycle at least 24 hours after your last dose of chemotherapy for that cycle.
+The recommended dose is one 20 mg injection, which is given at the end of each chemotherapy cycle - at least 24 hours after your last dose of chemotherapy for that cycle.
 
 ## If you use more Ryzneuta than you should
 
@@ -807,71 +795,71 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor or nurse right away and get medical help immediately if you develop any of the following symptoms.
 
-- -Reactions such as serious allergic reactions, including anaphylaxis and angioedema (rash, weakness, drop in blood pressure, difficulty breathing, swelling of the face).
-- -Pain in the upper left side of the abdomen or left shoulder pain could be symptoms of an increased spleen size and splenic rupture, the latter of which may be fatal.
-- -Cough, difficult or painful breathing, anxiety and restlessness can be signs of pulmonary conditions, such as pulmonary oedema, interstitial pneumonia, pulmonary infiltrates, pulmonary fibrosis, respiratory failure and acute respiratory distress syndrome.
-- -Swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness. These symptoms generally develop in a rapid fashion. These could be symptoms of capillary leak syndrome, which causes blood to leak from the small blood vessels into your body and needs urgent medical attention.
+- Reactions such as serious allergic reactions, including anaphylaxis and angioedema (rash, weakness, drop in blood pressure, difficulty breathing, swelling of the face).
+- Pain in the upper left side of the abdomen or left shoulder pain could be symptoms of an increased spleen size and splenic rupture, the latter of which may be fatal.
+- Cough, difficult or painful breathing, anxiety and restlessness can be signs of pulmonary conditions, such as pulmonary oedema, interstitial pneumonia, pulmonary infiltrates, pulmonary fibrosis, respiratory failure and acute respiratory distress syndrome.
+- Swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness. These symptoms generally develop in a rapid fashion. These could be symptoms of capillary leak syndrome, which causes blood to leak from the small blood vessels into your body and needs urgent medical attention.
 
 ## Other side effects
 
 Very common side effects (may affect more than 1 in 10 people)
 
-- -bone pain
+- bone pain
 
 Common side effects (may affect up to 1 in 10 people)
 
-- -pain in back, joints, limbs
-- -feeling sick (nausea)
-- -vomiting
-- -diarrhoea
-- -felling tired
-- -feeling weak or generally unwell
-- -fever
-- -vertigo
-- -headache
-- -changes in blood tests:
+- pain in back, joints, limbs
+- feeling sick (nausea)
+- vomiting
+- diarrhoea
+- felling tired
+- feeling weak or generally unwell
+- fever
+- vertigo
+- headache
+- changes in blood tests:
 - high level of white blood cell
 - high level of alanine aminotransferase (ALT)
 - high level of aspartate aminotransferase (AST)
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
-- -herpes infection
-- -loss of appetite
-- -dizziness
-- -taste disorder
-- -muscle spasm
-- -sensation of numbness, tingling, burning (peripheral neuropathy)
-- -drowsiness
-- -watery eyes
-- -heart beating very fast
-- -hot flush
-- -vasculitis (inflammation of the blood vessels in the skin)
-- -dry nose, nose bleeding
-- -pain in mouth or throat
+- herpes infection
+- loss of appetite
+- dizziness
+- taste disorder
+- muscle spasm
+- sensation of numbness, tingling, burning (peripheral neuropathy)
+- drowsiness
+- watery eyes
+- heart beating very fast
+- hot flush
+- vasculitis (inflammation of the blood vessels in the skin)
+- dry nose, nose bleeding
+- pain in mouth or throat
 
 <div style=\"page-break-after: always\"></div>
 
-- -cough
-- -difficulty breathing
-- -inflammation of the mucous membrane of the mouth (stomatitis)
-- -dry mouth
-- -problems with digestion (e.g. heartburn)
-- -abdominal (belly) pain
-- -swallowing problems
-- -hair loss (alopecia)
-- -skin reactions such as rash, itch, hives, red spot, blister, papules, eczema, dry skin
-- -cold sweat
-- -night sweats
-- -pain in nails
-- -muscle pain
-- -neck pain
-- -injection site reactions including injection site redness, pain, itching
-- -fluid retention causing swelling in the lower legs or hands (peripheral swelling)
-- -chills
-- -thirst
-- -weight increased
-- -changes in blood tests:
+- cough
+- difficulty breathing
+- inflammation of the mucous membrane of the mouth (stomatitis)
+- dry mouth
+- problems with digestion (e.g. heartburn)
+- abdominal (belly) pain
+- swallowing problems
+- hair loss (alopecia)
+- skin reactions such as rash, itch, hives, red spot, blister, papules, eczema, dry skin
+- cold sweat
+- night sweats
+- pain in nails
+- muscle pain
+- neck pain
+- injection site reactions including injection site redness, pain, itching
+- fluid retention causing swelling in the lower legs or hands (peripheral swelling)
+- chills
+- thirst
+- weight increased
+- changes in blood tests:
 
 high level of neutrophil (a type of white blood cells)
 
@@ -891,12 +879,12 @@ high level of gamma-glutamyltransferase (liver enzyme)
 
 ## Side effects that have been seen with similar medicines, but not yet with Ryzneuta
 
-- -blood disorders (myelodysplastic syndrome [MDS] or acute myeloid leukaemia [AML])
-- -sickle cell crises in patients with sickle cell anaemia
-- -inflammation of aorta (the large blood vessel which transports blood from the heart to the body)
-- -Stevens-Johnson syndrome, which can appear as reddish target-like or circular patches often with central blisters on the trunk, skin peeling, ulcers of mouth, throat, nose, genitals and eyes and can be preceded by fever and flu-like symptoms.
-- -Sweet's syndrome (acute febrile neutrophilic dermatosis), manifested as plum -coloured, raised, painful lesions on the limbs and sometimes the face and neck with fever. But other factors may play a role.
-- -damage to the tiny filters inside your kidneys.
+- blood disorders (myelodysplastic syndrome [MDS] or acute myeloid leukaemia [AML])
+- sickle cell crises in patients with sickle cell anaemia
+- inflammation of aorta (the large blood vessel which transports blood from the heart to the body)
+- Stevens-Johnson syndrome, which can appear as reddish target-like or circular patches often with central blisters on the trunk, skin peeling, ulcers of mouth, throat, nose, genitals and eyes and can be preceded by fever and flu-like symptoms.
+- Sweet's syndrome (acute febrile neutrophilic dermatosis), manifested as plum -coloured, raised, painful lesions on the limbs and sometimes the face and neck with fever. But other factors may play a role.
+- damage to the tiny filters inside your kidneys.
 
 ## Reporting of side effects
 
@@ -908,7 +896,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and on the syringe label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ° C -8 ° C).
+Store in a refrigerator (2 ° C - 8 ° C).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -928,8 +916,8 @@ Ask your pharmacist how to throw away medicines you no longer use. These measure
 
 ## What Ryzneuta contains
 
-- -The active substance is efbemalenograstim alfa. Each pre-filled syringe contains 20 mg of efbemalenograstim alfa in 1 mL of solution.
-- -The other ingredients are sodium acetate trihydrate, glacial acetic acid, sorbitol (E420), polysorbate 20, edetic acid (EDTA) and water for injections. See section 2. ' Ryzneuta contains sorbitol (E420), sodium and latex. '
+- The active substance is efbemalenograstim alfa. Each pre-filled syringe contains 20 mg of efbemalenograstim alfa in 1 mL of solution.
+- The other ingredients are sodium acetate trihydrate, glacial acetic acid, sorbitol (E420), polysorbate 20, edetic acid (EDTA) and water for injections. See section 2. ' Ryzneuta contains sorbitol (E420), sodium and latex. '
 
 ## What Ryzneuta looks like and contents of the pack
 
@@ -939,7 +927,9 @@ Each pack contains 1 pre-filled syringe.
 
 ## Marketing Authorisation Holder
 
-Evive Biotechnology Ireland LTD 20 Kildare Street Dublin 2 D02 T3V7, Ireland
+Fisiopharma S.r.l. Nucleo Industriale
+
+Palomonte, SA, 84020, Italy
 
 ## Manufacturer
 
@@ -949,9 +939,9 @@ Eurofins PHAST GmbH Kardinal-Wendel-Strasse 16, Homburg, Saarland, 66424, German
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-Deutschland APOGEPHA Arzneimittel GmbH Kyffhä userstr. 27 D-01309 Dresden
+## Deutschland
 
-## E-Mail: info@apogepha.de
+APOGEPHA Arzneimittel GmbH Kyffhä userstr. 27 D-01309 Dresden
 
 <div style=\"page-break-after: always\"></div>
 
@@ -979,7 +969,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Instructions for Use Ryzneuta 20 mg solution for injection in pre-filled syringe efbemalenograstim alfa Injection for subcutaneous use
 
-This leaflet contains information on how to inject Ryzneuta -please read the entire instructions before you start using Ryzneuta.
+This leaflet contains information on how to inject Ryzneuta - please read the entire instructions before you start using Ryzneuta.
 
 It is important that you do not try to give yourself the injection unless you have received training from your doctor, nurse, or pharmacist. If you have questions about how to inject, please ask your doctor, nurse, pharmacist for assistance.
 
@@ -1086,9 +1076,9 @@ If you want to use the same injection area (such as thigh or arm), make sure it 
 
 <!-- image -->
 
-GN
-
 <!-- image -->
+
+GE
 
 <div style=\"page-break-after: always\"></div>
 

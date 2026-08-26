@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-23 12:48:08
+document_datetime: 2026-08-21 10:05:15
 document_pages: 98
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zilbrysq-epar-product-information_en.pdf
 document_name: zilbrysq-epar-product-information_en.pdf
 version: success
-processing_time: 29.5128007
-conversion_datetime: 2026-04-25 16:58:51.777001
+processing_time: 52.5476788
+conversion_datetime: 2026-08-26 10:47:02.185552
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,11 +64,9 @@ Zilbrysq is intended for use under the guidance and supervision of healthcare pr
 
 Before starting therapy, patients must be vaccinated against Neisseria meningitidis. If treatment needs to start less than 2 weeks after vaccination, the patient must receive appropriate prophylactic antibiotic treatment until 2 weeks after the first vaccination dose (see sections 4.3 and 4.4).
 
-Posology
+Posology The recommended dose should be given as a subcutaneous injection once daily and administered about the same time every day.
 
 <div style=\"page-break-after: always\"></div>
-
-The recommended dose should be given as a subcutaneous injection once daily and administered about the same time every day.
 
 Table 1: Total daily dose by body weight range
 
@@ -140,7 +138,7 @@ Vaccines against serogroups A, C, Y, W, and where available, serogroup B, are re
 
 During treatment, patients should be monitored for signs and symptoms of meningococcal infection and evaluated immediately if infection is suspected. In case of a suspected meningococcal infection, appropriate measures such as treatment with antibiotics and discontinuation of treatment, should be taken until the meningococcal infection can be ruled out. Patients should be instructed to seek immediate medical advice if signs or symptoms of meningococcal infections occur.
 
-Prescribers should be familiar with the educational materials for the management of meningococcal infections and provide a patient alert card and patient/carer guide to patients treated with zilucoplan.
+Prescribers should be familiar with the educational materials for the management of meningococcal infections and provide a patient card and patient/carer guide to patients treated with zilucoplan.
 
 ## Other Neisseria infections
 
@@ -285,21 +283,11 @@ Table 3: Baseline demographic and disease characteristics of patients enrolled i
 | Age ≥ 65                        | 22 (25.6)           | 26 (29.5)        |
 | Gender, male, n (%)             | 34 (39.5)           | 41 (46.6)        |
 | Baseline MG-ADL score mean (SD) | 10.3 (2.5)          | 10.9 (3.4)       |
-| Baseline QMGscore mean (SD)     | 18.7 (3.6)          | 19.4 (4.5)       |
+| Baseline QMG score mean (SD)    | 18.7 (3.6)          | 19.4 (4.5)       |
 
 <div style=\"page-break-after: always\"></div>
 
-LSM (958CIs) Change from Baseline in
-
-MG-ADL
-
-- 6
-
-Baseline
-
-A1ucoolan (N=B6
-
-| Baseline MGCscore, mean (SD)             | 20.1 (6.0)   | 21.6 (7.2)   |
+| Baseline MGC score, mean (SD)            | 20.1 (6.0)   | 21.6 (7.2)   |
 |------------------------------------------|--------------|--------------|
 | Baseline MG-QoL 15r score, mean (SD)     | 18.6 (6.6)   | 18.9 (6.8)   |
 | Duration of disease, years, mean (SD)    | 9.3 (9.5)    | 9.0 (10.4)   |
@@ -309,19 +297,7 @@ A1ucoolan (N=B6
 
 Table 4 presents the change from baseline at week 12 in the total scores for MG-ADL, QMG, MGC and MGQoL15r. Mean baseline scores were 10.9 and 10.3 for MG-ADL, 19.4 and 18.7 for QMG, 21.6 and 20.1 for MGC and 18.9 and 18.6 for MG-QoL15r for placebo and zilucoplan groups, respectively.
 
-Week 2
-
-Week 4
-
-Week 8
-
-Week 12
-
-p-value: &lt;0.001
-
 Table 4: Change from baseline at week 12 in total scores for MG-ADL, QMG, MGC and MG-QoL15r
-
-Anahaie bacod on MMM ANCOA madol
 
 | Endpoints: Change from baseline in total score at week 12: LS Mean (95% CI)   | Zilucoplan (n=86)     | Placebo (n=88)       | Zilucoplan change LS mean difference vs. placebo (95% CI)   | p-value *   |
 |-------------------------------------------------------------------------------|-----------------------|----------------------|-------------------------------------------------------------|-------------|
@@ -342,17 +318,15 @@ Figure 1: Change from baseline in MG ADL total score
 
 Analysis based on MMRM ANCOVA model Clinically meaningful change = 2-point change in MG-ADL score
 
-At week 12, 73.1% of the patients in the zilucoplan group were MG-ADL clinical responders without rescue therapy, vs. 46.1% in the placebo group (p&lt;0.001). Fifty-eight percent (58.0%) of the patients
+At week 12, 73.1% of the patients in the zilucoplan group were MG-ADL clinical responders without rescue therapy, vs. 46.1% in the placebo group (p&lt;0.001). Fifty-eight percent (58.0%) of the patients in the zilucoplan group were QMG clinical responders without rescue therapy, vs. 33.0% in the placebo group (p=0.0012).
 
 <div style=\"page-break-after: always\"></div>
-
-in the zilucoplan group were QMG clinical responders without rescue therapy, vs. 33.0% in the placebo group (p=0.0012).
 
 At week 12, the cumulative portion of patients that needed rescue therapy was 5% in the zilucoplan group and 11% in the placebo group. Rescue therapy was defined as intravenous immunoglobulin G (IVIG) or plasma exchange (PLEX).
 
 ## Study MG0011 (RAISE-XT)
 
-Two hundred patients who completed a placebo -controlled phase 2 study (MG0009) or the phase 3 study (MG0010) continued in the open -label extension study MG0011 in which all patients received zilucoplan (dosed according to Table 1) daily. Primary objective was long-term safety. Secondary efficacy endpoints were change from double-blind study baseline in MG -ADL, QMG, MGC and MG -QoL15r score at week 24. For former MG0010 participants, results are shown below (Table 5).
+Two hundred patients who completed a placebo - controlled phase 2 study (MG0009) or the phase 3 study (MG0010) continued in the open - label extension study MG0011 in which all patients received zilucoplan (dosed according to Table 1) daily. Primary objective was long-term safety. Secondary efficacy endpoints were change from double-blind study baseline in MG - ADL, QMG, MGC and MG - QoL15r score at week 24. For former MG0010 participants, results are shown below (Table 5).
 
 Table 5: Mean change from double-blind study baseline (MG0010) to week 24 (week 12 in MG0011) and week 60 (week 48 in MG0011) in total scores for MG-ADL, QMG, MGC and MG-QoL15r
 
@@ -377,33 +351,7 @@ SE = Standard error
 
 <div style=\"page-break-after: always\"></div>
 
-Mean (SE) Change from Baseline in
-
-MG-ADL
-
-- 6
-
--10
-
--11
-
-Placebo/ Zilucoplan (N=84)
-
-· Zilucoplan/ Zilucoplan (N=82)
-
 Figure 2: Mean change from double-blind study baseline to week 60 for total MG ADL score
-
-822 7
-
-Number of Participants (n):
-
-Placebo/Zilucoplan
-
-84 84 82
-
-Zilucoplan/Zilucoplan
-
-82 80 82
 
 <!-- image -->
 
@@ -423,7 +371,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Absorption
 
-Following single and multiple daily subcutaneous administration of the zilucoplan recommended dose (Table 1) in healthy subjects, zilucoplan reached peak plasma concentration generally between 3 to 6 hours post -dose.
+Following single and multiple daily subcutaneous administration of the zilucoplan recommended dose (Table 1) in healthy subjects, zilucoplan reached peak plasma concentration generally between 3 to 6 hours post - dose.
 
 In study MG0010 in patients with gMG, after daily repeated subcutaneous administration of the zilucoplan recommended dose (Table 1), plasma concentrations of zilucoplan were consistent, with steady state trough concentrations being reached by week 4 and maintained through week 12. Exposures after subcutaneous administration of single zilucoplan doses in the abdomen, thigh, or upper arm were comparable.
 
@@ -443,15 +391,15 @@ Zilucoplan inhibits MRP3 in vitro at therapeutic concentrations; the clinical re
 
 ## Elimination
 
-As a peptide, zilucoplan is expected to be degraded into smaller peptides and amino acids via catabolic pathways. The mean plasma terminal elimination half-life was approximately 172 hours (7 -8 days). The half-life was 220 hours and 96 hours respectively for the active (RA103488) and major inactive metabolite (RA102758). The excretion of zilucoplan and its metabolites (RA103488 and RA102758) measured in both urine and faeces was negligible. The pegylated part of zilucoplan is anticipated to be excreted mainly via the kidneys and the main degradation of fatty acid part is via β-oxidation to acetyl-CoA.
+As a peptide, zilucoplan is expected to be degraded into smaller peptides and amino acids via catabolic pathways. The mean plasma terminal elimination half-life was approximately 172 hours (7 - 8 days). The half-life was 220 hours and 96 hours respectively for the active (RA103488) and major inactive metabolite (RA102758). The excretion of zilucoplan and its metabolites (RA103488 and RA102758) measured in both urine and faeces was negligible. The pegylated part of zilucoplan is anticipated to be excreted mainly via the kidneys and the main degradation of fatty acid part is via β-oxidation to acetyl-CoA.
 
-## Linearity/non -linearity
+## Linearity/non - linearity
 
 In the population pharmacokinetic analysis (doses corresponding to 0.05 to 0.6 mg/kg), zilucoplan pharmacokinetics is characterised by target dependent drug disposition with less than dose proportional increase in exposure with increasing doses, and after multiple doses compared to single dose.
 
 ## Antibodies
 
-The incidences of ADA and anti -PEG antibodies in the phase 3 study in patients with gMG were comparable between the zilucoplan treatment group and the placebo treatment group (see section 5.1). The ADA and anti -PEG antibody status of patients treated with zilucoplan did not affect zilucoplan concentrations.
+The incidences of ADA and anti - PEG antibodies in the phase 3 study in patients with gMG were comparable between the zilucoplan treatment group and the placebo treatment group (see section 5.1). The ADA and anti - PEG antibody status of patients treated with zilucoplan did not affect zilucoplan concentrations.
 
 ## Special populations
 
@@ -465,7 +413,7 @@ Based on population pharmacokinetic analysis, age did not influence the pharmaco
 
 ## Renal impairment
 
-The effect of renal impairment on the pharmacokinetics of zilucoplan and its metabolites was studied in an open -label phase 1 study, where a single -dose of the zilucoplan recommended dose (Table 1)
+The effect of renal impairment on the pharmacokinetics of zilucoplan and its metabolites was studied in an open - label phase 1 study, where a single - dose of the zilucoplan recommended dose (Table 1)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -513,25 +461,25 @@ Not applicable
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C -Do not freeze.
+Store in a refrigerator (2 °C - Do not freeze.
 
 8 °C).
 
-Keep the pre -filled syringe in the outer carton in order to protect from light.
+Keep the pre - filled syringe in the outer carton in order to protect from light.
 
-Patients may store the pre -filled syringe at room temperature in the original carton up to 30 °C for a single period of maximum 3 months. Once Zilbrysq has been stored at room temperature, it should not be placed back into the refrigerator and should be discarded if not used within the 3 months period or by the expiry date, whichever occurs first.
+Patients may store the pre - filled syringe at room temperature in the original carton up to 30 °C for a single period of maximum 3 months. Once Zilbrysq has been stored at room temperature, it should not be placed back into the refrigerator and should be discarded if not used within the 3 months period or by the expiry date, whichever occurs first.
 
 ## 6.5 Nature and contents of container
 
-Pre -filled syringe (type I glass) with a 29G ½' thin wall needle closed with a grey fluoropolymer -laminated bromobutyl rubber plunger stopper. The needle is protected with a rigid needle shield consisting of a thermoplastic elastomer needle shield and a polypropylene rigid shield. Each pre -filled syringe is pre -assembled with a needle safety device, a finger grip and a coloured plunger:
+Pre - filled syringe (type I glass) with a 29G ½' thin wall needle closed with a grey fluoropolymer - laminated bromobutyl rubber plunger stopper. The needle is protected with a rigid needle shield consisting of a thermoplastic elastomer needle shield and a polypropylene rigid shield. Each pre - filled syringe is pre - assembled with a needle safety device, a finger grip and a coloured plunger:
 
-Zilbrysq 16.6 mg solution for injection in pre-filled syringe 0.416 mL solution for injection in pre -filled syringe with rubine red plunger rod
+Zilbrysq 16.6 mg solution for injection in pre-filled syringe 0.416 mL solution for injection in pre - filled syringe with rubine red plunger rod
 
-Zilbrysq 23 mg solution for injection in pre-filled syringe 0.574 mL solution for injection in pre -filled syringe with orange plunger rod
+Zilbrysq 23 mg solution for injection in pre-filled syringe 0.574 mL solution for injection in pre - filled syringe with orange plunger rod
 
-Zilbrysq 32.4 mg solution for injection in pre-filled syringe 0.810 mL solution for injection in pre -filled syringe with dark blue plunger rod
+Zilbrysq 32.4 mg solution for injection in pre-filled syringe 0.810 mL solution for injection in pre - filled syringe with dark blue plunger rod
 
-Pack size of 7 pre-filled syringes for 16.6 mg, 23 mg and 32.4 mg solution for injection. Multipack containing 28 (4 packs of 7) pre -filled syringes.
+Pack size of 7 pre-filled syringes for 16.6 mg, 23 mg and 32.4 mg solution for injection. Multipack containing 28 (4 packs of 7) pre - filled syringes.
 
 Not all pack sizes may be marketed.
 
@@ -543,7 +491,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 <div style=\"page-break-after: always\"></div>
 
-UCB Pharma S.A. Allée de la Recherche 60 B -1070 Bruxelles Belgium
+UCB Pharma S.A. Allée de la Recherche 60 B - 1070 Bruxelles Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -617,11 +565,11 @@ The recommended dose should be given as a subcutaneous injection once daily and 
 
 Table 1: Total daily dose by body weight range
 
-| Body weight     | Dose *   | Number of pre-filled pens by color of the label   |
-|-----------------|----------|---------------------------------------------------|
-| < 56 kg         | 16.6 mg  | 1 (Raspberry)                                     |
-| ≥ 56 to < 77 kg | 23 mg    | 1 (Orange)                                        |
-| ≥ 77 kg         | 32.4 mg  | 1 (Dark blue)                                     |
+| Body weight     | Dose *   | Number of pre-filled pens by colour of the label   |
+|-----------------|----------|----------------------------------------------------|
+| < 56 kg         | 16.6 mg  | 1 (Raspberry)                                      |
+| ≥ 56 to < 77 kg | 23 mg    | 1 (Orange)                                         |
+| ≥ 77 kg         | 32.4 mg  | 1 (Dark blue)                                      |
 
 * The recommended dose corresponds to approximately 0.3 mg/kg.
 
@@ -685,7 +633,7 @@ Vaccines against serogroups A, C, Y, W, and where available, serogroup B, are re
 
 During treatment, patients should be monitored for signs and symptoms of meningococcal infection and evaluated immediately if infection is suspected. In case of a suspected meningococcal infection, appropriate measures such as treatment with antibiotics and discontinuation of treatment, should be taken until the meningococcal infection can be ruled out. Patients should be instructed to seek immediate medical advice if signs or symptoms of meningococcal infections occur.
 
-Prescribers should be familiar with the educational materials for the management of meningococcal infections and provide a patient alert card and patient/carer guide to patients treated with zilucoplan.
+Prescribers should be familiar with the educational materials for the management of meningococcal infections and provide a patient card and patient/carer guide to patients treated with zilucoplan.
 
 ## Other Neisseria infections
 
@@ -832,29 +780,21 @@ Table 3: Baseline demographic and disease characteristics of patients enrolled i
 | Age ≥ 65                             | 22 (25.6)           | 26 (29.5)        |
 | Gender, male, n (%)                  | 34 (39.5)           | 41 (46.6)        |
 | Baseline MG-ADL score mean (SD)      | 10.3 (2.5)          | 10.9 (3.4)       |
-| Baseline QMGscore mean (SD)          | 18.7 (3.6)          | 19.4 (4.5)       |
-| Baseline MGCscore, mean (SD)         | 20.1 (6.0)          | 21.6 (7.2)       |
+| Baseline QMG score mean (SD)         | 18.7 (3.6)          | 19.4 (4.5)       |
+| Baseline MGC score, mean (SD)        | 20.1 (6.0)          | 21.6 (7.2)       |
 | Baseline MG-QoL 15r score, mean (SD) | 18.6 (6.6)          | 18.9 (6.8)       |
 
 <div style=\"page-break-after: always\"></div>
 
-LSM (958CIs) Change from Baseline in
+| Duration of disease, years, mean (SD)    | 9.3 (9.5)   | 9.0 (10.4)   |
+|------------------------------------------|-------------|--------------|
+| MGFA class at screening, n (%) Class II  | 22 (25.6)   | 27 (30.7)    |
+| MGFA class at screening, n (%) Class III | 60 (69.8)   | 57 (64.8)    |
+| MGFA class at screening, n (%) Class IV  | 4 (4.7)     | 4 (4.5)      |
 
-MG-ADL
-
-- 6
+Table 4 presents the change from baseline at week 12 in the total scores for MG-ADL, QMG, MGC and MGQoL15r. Mean baseline scores were 10.9 and 10.3 for MG-ADL, 19.4 and 18.7 for QMG, 21.6 and 20.1 for MGC and 18.9 and 18.6 for MG-QoL15r for placebo and zilucoplan groups, respectively.
 
 Table 4: Change from baseline at week 12 in total scores for MG-ADL, QMG, MGC and MG-QoL15r
-
-Baseline Week 1
-
-Week 2
-
-Week 4
-
-Week 8
-
-Week 12
 
 | Endpoints: Change from baseline in total score at week 12: LS Mean (95% CI)   | Zilucoplan (n=86)     | Placebo (n=88)       | Zilucoplan change LS mean difference vs. placebo (95% CI)   | p-value *   |
 |-------------------------------------------------------------------------------|-----------------------|----------------------|-------------------------------------------------------------|-------------|
@@ -877,37 +817,13 @@ Clinically meaningful change = 2-point change in MG-ADL score
 
 At week 12, 73.1% of the patients in the zilucoplan group were MG-ADL clinical responders without rescue therapy, vs. 46.1% in the placebo group (p&lt;0.001). Fifty-eight percent (58.0%) of the patients in the zilucoplan group were QMG clinical responders without rescue therapy, vs. 33.0% in the placebo group (p=0.0012).
 
-Zilucoplan (N=86)
-
-| Duration of disease, years, mean (SD)    | 9.3 (9.5)   | 9.0 (10.4)   |
-|------------------------------------------|-------------|--------------|
-| MGFA class at screening, n (%) Class II  | 22 (25.6)   | 27 (30.7)    |
-| MGFA class at screening, n (%) Class III | 60 (69.8)   | 57 (64.8)    |
-| MGFA class at screening, n (%) Class IV  | 4 (4.7)     | 4 (4.5)      |
-
-Table 4 presents the change from baseline at week 12 in the total scores for MG-ADL, QMG, MGC and MGQoL15r. Mean baseline scores were 10.9 and 10.3 for MG-ADL, 19.4 and 18.7 for QMG, 21.6 and 20.1 for MGC and 18.9 and 18.6 for MG-QoL15r for placebo and zilucoplan groups, respectively.
-
 <div style=\"page-break-after: always\"></div>
-
-Mean (SE) Change from Baseline in
-
-MG-ADL
-
-- 6
-
--10
-
--11
-
-Placebo/ Zilucoplan (N=84)
-
-Zilucoplan/ Zilucoplan (N=82)
 
 At week 12, the cumulative portion of patients that needed rescue therapy was 5% in the zilucoplan group and 11% in the placebo group. Rescue therapy was defined as intravenous immunoglobulin G (IVIG) or plasma exchange (PLEX).
 
 ## Study MG0011 (RAISE-XT)
 
-Two hundred patients who completed a placebo -controlled phase 2 study (MG0009) or the phase 3 study (MG0010) continued in the open -label extension study MG0011 in which all patients received zilucoplan (dosed according to Table 1) daily. Primary objective was long-term safety. Secondary efficacy endpoints were change from double-blind study baseline in MG -ADL, QMG, MGC and MG -QoL15r score at week 24. For former MG0010 participants, results are shown below (Table 5).
+Two hundred patients who completed a placebo - controlled phase 2 study (MG0009) or the phase 3 study (MG0010) continued in the open - label extension study MG0011 in which all patients received zilucoplan (dosed according to Table 1) daily. Primary objective was long-term safety. Secondary efficacy endpoints were change from double-blind study baseline in MG - ADL, QMG, MGC and MG - QoL15r score at week 24. For former MG0010 participants, results are shown below (Table 5).
 
 Table 5: Mean change from double-blind study baseline (MG0010) to week 24 (week 12 in MG0011) and week 60 (week 48 in MG0011) in total scores for MG-ADL, QMG, MGC and MG-QoL15r
 
@@ -952,7 +868,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Absorption
 
-Following single and multiple daily subcutaneous administration of the zilucoplan recommended dose (Table 1) in healthy subjects, zilucoplan reached peak plasma concentration generally between 3 to 6 hours post -dose.
+Following single and multiple daily subcutaneous administration of the zilucoplan recommended dose (Table 1) in healthy subjects, zilucoplan reached peak plasma concentration generally between 3 to 6 hours post - dose.
 
 In study MG0010 in patients with gMG, after daily repeated subcutaneous administration of the zilucoplan recommended dose (Table 1), plasma concentrations of zilucoplan were consistent, with steady state trough concentrations being reached by week 4 and maintained through week 12. Exposures after subcutaneous administration of single zilucoplan doses in the abdomen, thigh, or upper arm were comparable.
 
@@ -968,19 +884,17 @@ Zilucoplan inhibits MRP3 in vitro at therapeutic concentrations; the clinical re
 
 ## Elimination
 
-As a peptide, zilucoplan is expected to be degraded into smaller peptides and amino acids via catabolic pathways. The mean plasma terminal elimination half-life was approximately 172 hours (7 -8 days). The half-life was 220 hours and 96 hours respectively for the active (RA103488) and major inactive
+As a peptide, zilucoplan is expected to be degraded into smaller peptides and amino acids via catabolic pathways. The mean plasma terminal elimination half-life was approximately 172 hours (7 - 8 days). The half-life was 220 hours and 96 hours respectively for the active (RA103488) and major inactive metabolite (RA102758). The excretion of zilucoplan and its metabolites (RA103488 and RA102758) measured in both urine and faeces was negligible. The pegylated part of zilucoplan is anticipated to be excreted mainly via the kidneys and the main degradation of fatty acid part is via β-oxidation to acetyl-CoA.
 
 <div style=\"page-break-after: always\"></div>
 
-metabolite (RA102758). The excretion of zilucoplan and its metabolites (RA103488 and RA102758) measured in both urine and faeces was negligible. The pegylated part of zilucoplan is anticipated to be excreted mainly via the kidneys and the main degradation of fatty acid part is via β-oxidation to acetyl-CoA.
-
-## Linearity/non -linearity
+## Linearity/non - linearity
 
 In the population pharmacokinetic analysis (doses corresponding to 0.05 to 0.6 mg/kg), zilucoplan pharmacokinetics is characterised by target dependent drug disposition with less than dose proportional increase in exposure with increasing doses, and after multiple doses compared to single dose.
 
 ## Antibodies
 
-The incidences of ADA and anti -PEG antibodies in the phase 3 study in patients with gMG were comparable between the zilucoplan treatment group and the placebo treatment group (see section 5.1). The ADA and anti -PEG antibody status of patients treated with zilucoplan did not affect zilucoplan concentrations.
+The incidences of ADA and anti - PEG antibodies in the phase 3 study in patients with gMG were comparable between the zilucoplan treatment group and the placebo treatment group (see section 5.1). The ADA and anti - PEG antibody status of patients treated with zilucoplan did not affect zilucoplan concentrations.
 
 ## Special populations
 
@@ -994,7 +908,7 @@ Based on population pharmacokinetic analysis, age did not influence the pharmaco
 
 ## Renal impairment
 
-The effect of renal impairment on the pharmacokinetics of zilucoplan and its metabolites was studied in an open -label phase 1 study, where a single -dose of the zilucoplan recommended dose (Table 1) was administered to healthy subjects and subjects with severe renal impairment (creatinine clearance between 15 and &lt;30 mL/min).
+The effect of renal impairment on the pharmacokinetics of zilucoplan and its metabolites was studied in an open - label phase 1 study, where a single - dose of the zilucoplan recommended dose (Table 1) was administered to healthy subjects and subjects with severe renal impairment (creatinine clearance between 15 and &lt;30 mL/min).
 
 Systemic exposure to zilucoplan and the major inactive metabolite RA102758 was not different in subjects with severe renal impairment compared to subjects with normal renal function. The exposure to the active metabolite RA103488 was approximately 1.5-fold higher in subjects with severe renal impairment compared to subjects with normal renal function.
 
@@ -1004,11 +918,9 @@ Based on the pharmacokinetic results, no dose adjustment is required in patients
 
 The effects of moderate hepatic impairment (as defined by a Child-Pugh score between 7 and 9) on the pharmacokinetics of zilucoplan and its metabolites were studied in an open-label phase 1 study, where a single dose of the zilucoplan recommended dose (Table 1) was administered to healthy subjects and subjects with moderate hepatic impairment.
 
-Systemic exposure to zilucoplan was 24% lower in subjects with moderate impaired liver function compared to healthy subjects, which was in line with a higher systemic and peak exposures of both metabolites in subjects with hepatic impairment compared to healthy subjects. Zilucoplan peak exposure as well as terminal half-life were comparable between both groups. Further pharmacodynamic analysis did not identify meaningful differences in complement levels or inhibition
+Systemic exposure to zilucoplan was 24% lower in subjects with moderate impaired liver function compared to healthy subjects, which was in line with a higher systemic and peak exposures of both metabolites in subjects with hepatic impairment compared to healthy subjects. Zilucoplan peak exposure as well as terminal half-life were comparable between both groups. Further pharmacodynamic analysis did not identify meaningful differences in complement levels or inhibition of complement activity between both groups. Based on these results, no dose adjustment is required in patients with mild and moderate hepatic impairment.
 
 <div style=\"page-break-after: always\"></div>
-
-of complement activity between both groups. Based on these results, no dose adjustment is required in patients with mild and moderate hepatic impairment.
 
 ## Racial and ethnic groups
 
@@ -1040,23 +952,23 @@ Not applicable
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C -8 °C). Do not freeze.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 
-Keep the pre -filled pen in the outer carton in order to protect from light.
+Keep the pre - filled pen in the outer carton in order to protect from light.
 
-Patients may store the pre -filled pen at room temperature in the original carton up to 30 °C for a single period of maximum 3 months. Once Zilbrysq has been stored at room temperature, it should not be placed back into the refrigerator and should be discarded if not used within the 3 months period or by the expiry date, whichever occurs first.
+Patients may store the pre - filled pen at room temperature in the original carton up to 30 °C for a single period of maximum 3 months. Once Zilbrysq has been stored at room temperature, it should not be placed back into the refrigerator and should be discarded if not used within the 3 months period or by the expiry date, whichever occurs first.
 
 ## 6.5 Nature and contents of container
 
 One ml pre-filled syringe (type I glass) with a 29G, ½' thin wall needle closed with a grey fluoropolymer-laminated bromobutyl rubber plunger stopper. The needle is protected with a rigid needle shield consisting of a thermoplastic elastomer needle shield and a polypropylene rigid shield. Each pre-filled pen consists of the pre-filled syringe assembled with the single-use prefilled pen.
 
-Zilbrysq 16.6 mg solution for injection in pre-filled pen 0.416 mL solution for injection in pre -filled pen
+Zilbrysq 16.6 mg solution for injection in pre-filled pen 0.416 mL solution for injection in pre - filled pen
 
-Zilbrysq 23 mg solution for injection in pre-filled pen 0.574 mL solution for injection in pre -filled pen
+Zilbrysq 23 mg solution for injection in pre-filled pen 0.574 mL solution for injection in pre - filled pen
 
-Zilbrysq 32.4 mg solution for injection in pre-filled pen 0.810 mL solution for injection in pre -filled pen
+Zilbrysq 32.4 mg solution for injection in pre-filled pen 0.810 mL solution for injection in pre - filled pen
 
 Pack size of 7 or 28 pre-filled pens for 16.6 mg, 23 mg and 32.4 mg solution for injection.
 
@@ -1068,7 +980,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-UCB Pharma S.A. Allée de la Recherche 60 B -1070 Bruxelles Belgium
+UCB Pharma S.A. Allée de la Recherche 60 B - 1070 Bruxelles Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1094,8 +1006,7 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1134,16 +1045,16 @@ An updated RMP shall be submitted by {CHMP agreed deadline}.
 
 ## · Additional risk minimisation measures
 
-Prior to the launch of zilucoplan in each Member State, the MAH must agree about the content and format of the controlled access program and educational program, including communication media, distribution modalities, and any other aspects of the program, with the National Competent Authority.
+Prior to the launch of zilucoplan in each Member State, the MAH must agree about the content and format of the educational program, including communication media, distribution modalities, and any other aspects of the program, with the National Competent Authority.
 
-The controlled access program and educational program are aimed at further minimizing the important potential risk of meningococcal infection by reinforcing the key safety information available in the Summary of Product Characteristics and the package leaflet.
+The educational program is aimed at further minimizing the important potential risk of meningococcal infection by reinforcing the key safety information available in the Summary of Product Characteristics and the package leaflet.
 
 <div style=\"page-break-after: always\"></div>
 
 The MAH shall ensure that in each Member State where zilucoplan is marketed, healthcare professionals (HCPs) and patients/caregivers who are expected to prescribe/use zilucoplan are provided with/have access to the following educational materials:
 
 - Guide for HCPs
-- Patient alert card
+- Patient card
 - Patient/carer guide
 
 ## The physician education material should contain:
@@ -1154,46 +1065,47 @@ The MAH shall ensure that in each Member State where zilucoplan is marketed, hea
 The guide for HCPs should contain the following key elements:
 
 - A concise introduction to zilucoplan and the purpose of the guide for HCPs.
-- The HCP should educate the patient/caregiver on the risk described in the guide for HCPs and ensure the patient/caregiver is provided with a patient alert card and a patient/carer guide.
+- The HCP should educate the patient/caregiver on the risk described in the guide for HCPs and ensure the patient/caregiver is provided with a patient card and a patient/carer guide.
 - Key information on the important potential risk of meningococcal infection.
 - o Treatment with zilucoplan may increase the risk of meningococcal infection.
 - o Emphasize requirement of meningococcal vaccination and potentially antibiotic prophylaxis and that meningococcal vaccines reduce but do not completely eliminate the risk of meningococcal infection.
-- o Inform HCPs on how to comply with the controlled access program to ensure that only patients who have been vaccinated against Neisseria meningitidis have access to zilucoplan.
 - o Importance of monitoring for meningococcal infection and educate patients/caregivers on signs and symptoms of meningococcal infection and when to seek medical attention.
 - o Recommendation for measures to take in case of suspected meningococcal infection.
-- Emphasize importance to patients/caregivers that the patient alert card needs to be carried at all times and to be presented to all HCPs.
+- Emphasize importance to patients/caregivers that the patient card needs to be carried at all times and to be presented to all HCPs.
 - Reminding the need for and how to report suspected adverse reactions.
 
 ## The patient/caregiver information pack should contain:
 
 - Package leaflet
-- Patient alert card
+- Patient card
 - Patient/carer guide
 
-## The patient alert card should contain the following key elements:
+## The patient card should contain the following key elements:
 
 - A concise introduction to the potential risk of meningococcal infections with zilucoplan as a C5 inhibitor.
 - A warning message for HCPs, including in conditions of emergency, that the patient is using zilucoplan.
 - Signs and symptoms of meningococcal infection and when to seek medical attention.
-- The importance of carrying the patient alert card at all times and presenting it to all HCPs.
+- The importance of carrying the patient card at all times and presenting it to all HCPs.
 - Contact details of the zilucoplan prescriber.
+- Meningococcal vaccination- and re-vaccination information.
 
 ## The patient/care guide should contain the following key elements:
 
 - An introduction to zilucoplan treatment and a description of the correct use of zilucoplan including key information for safe self-administration.
 - Zilucoplan may increase the risk of meningococcal infection.
+- Requirement of meningococcal vaccinations (initial and booster vaccinations) and potentially antibiotic prophylaxis to minimize the risk of meningococcal infections. Emphasize that
 
 <div style=\"page-break-after: always\"></div>
 
-- Requirement of meningococcal vaccinations (initial and booster vaccinations) and potentially antibiotic prophylaxis to minimize the risk of meningococcal infections. Emphasize that meningococcal vaccines reduce but do not completely eliminate the risk of meningococcal infection.
-- A controlled access program is in place to ensure that only patients who have been vaccinated against meningococcal infection have access to zilucoplan.
+meningococcal vaccines reduce but do not completely eliminate the risk of meningococcal infection.
+
 - Signs and symptoms of meningococcal infection and when to seek medical attention.
-- The importance of carrying the patient alert card at all times and presenting it to all HCPs.
+- The importance of carrying the patient card at all times and presenting it to all HCPs.
 - Reminding the need for and how to report suspected adverse reactions.
 
 The MAH shall send annually a letter to prescribing physicians to remind them to verify and ensure that their patient's vaccination against meningococcal infection is still current according to relevant vaccination guidelines.
 
-The MAH shall implement in each Member State where Zilbrysq is marketed, a controlled access program to ensure that only patients who have been vaccinated against Neisseria meningitidis have access to zilucoplan. Verification of vaccination is achieved via written confirmation from the prescriber.
+.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1241,11 +1153,9 @@ Track your daily treatment. After the medicine is injected, tick the appropriate
 
 <!-- image -->
 
-Monday; Tuesday; Wednesday; Thursday; Friday; Saturday; Sunday
+Monday; Tuesday; Wednesday; Thursday; Friday; Saturday; Sunday Record the site where you inject.
 
 <div style=\"page-break-after: always\"></div>
-
-Record the site where you inject.
 
 <!-- image -->
 
@@ -1302,14 +1212,12 @@ zilbrysq 16.6 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
-
-Lift here
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1359,7 +1267,11 @@ EXP
 
 Store in a refrigerator. Do not freeze.
 
-Keep the pre-filled syringes in the outer carton in order to protect from light. Zilbrysq may be stored at room temperature (up to 30 °C) for a maximum of 3 months. Once removed from the refrigerator, do not place it back into the refrigerator. Use within 3 months or discard it. For additional information on storage, see package leaflet. Date removed from refrigerator:
+Keep the pre-filled syringes in the outer carton in order to protect from light.
+
+Zilbrysq may be stored at room temperature (up to 30 °C) for a maximum of 3 months.
+
+Once removed from the refrigerator, do not place it back into the refrigerator. Use within 3 months or discard it. For additional information on storage, see package leaflet. Date removed from refrigerator:
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1391,8 +1303,8 @@ zilbrysq 16.6 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1488,29 +1400,27 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-zilbrysq 16.6 mg
+zilbrysq 16.6 mg MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
 PRE-FILLED SYRINGE LABEL
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Zilbrysq 16.6 mg injection zilucoplan
 
 SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Subcutaneous use
 
@@ -1524,8 +1434,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.416 mL
 
@@ -1568,11 +1478,9 @@ Track your daily treatment. After the medicine is injected, tick the appropriate
 
 <!-- image -->
 
-Monday; Tuesday; Wednesday; Thursday; Friday; Saturday; Sunday
+Monday; Tuesday; Wednesday; Thursday; Friday; Saturday; Sunday Record the site where you inject.
 
 <div style=\"page-break-after: always\"></div>
-
-Record the site where you inject.
 
 <!-- image -->
 
@@ -1633,14 +1541,12 @@ zilbrysq 23 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
-
-Lift here
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1726,8 +1632,8 @@ zilbrysq 23 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1832,14 +1738,14 @@ zilbrysq 23 mg
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1847,8 +1753,8 @@ Zilbrysq 23 mg injection zilucoplan
 
 SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Subcutaneous use
 
@@ -1862,8 +1768,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.574 mL
 
@@ -1969,14 +1875,12 @@ zilbrysq 32.4 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
-
-Lift here
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2064,8 +1968,8 @@ zilbrysq 32.4 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2165,29 +2069,25 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-zilbrysq 32.4 mg
+zilbrysq 32.4 mg Zilbrysq 32.4 mg injection zilucoplan SC
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Zilbrysq 32.4 mg injection zilucoplan
-
-SC
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Subcutaneous use
 
@@ -2201,8 +2101,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.810 mL
 
@@ -2247,11 +2147,9 @@ Track your daily treatment. After the medicine is injected, tick the appropriate
 
 <!-- image -->
 
-Monday; Tuesday; Wednesday; Thursday; Friday; Saturday; Sunday
+Monday; Tuesday; Wednesday; Thursday; Friday; Saturday; Sunday Record the site where you inject.
 
 <div style=\"page-break-after: always\"></div>
-
-Record the site where you inject.
 
 <!-- image -->
 
@@ -2308,26 +2206,26 @@ zilbrysq 16.6 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Zilbrysq 16.6 mg injection zilucoplan
 
 SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Subcutaneous use
 
@@ -2341,8 +2239,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.416 mL
 
@@ -2452,27 +2350,25 @@ zilbrysq 23 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                               |
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Zilbrysq 23 mg injection zilucoplan
 
 SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Subcutaneous use
 
@@ -2486,8 +2382,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.574 mL
 
@@ -2597,26 +2493,26 @@ zilbrysq 32.4 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Zilbrysq 32.4 mg injection zilucoplan
 
 SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Subcutaneous use
 
@@ -2630,8 +2526,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.810 mL
 
@@ -2648,16 +2544,18 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-Zilbrysq 16.6 mg solution for injection in pre-filled syringe Zilbrysq 23 mg solution for injection in pre-filled syringe Zilbrysq 32.4 mg solution for injection in pre-filled syringe zilucoplan
+Zilbrysq 16.6 mg solution for injection in pre-filled syringe Zilbrysq 23 mg solution for injection in pre-filled syringe Zilbrysq 32.4 mg solution for injection in pre-filled syringe
+
+zilucoplan
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2680,9 +2578,9 @@ Zilbrysq can reduce symptoms of the disease and improve the quality of life.
 
 ## Do not use Zilbrysq
 
-- -if you are allergic to zilucoplan or any of the other ingredients of this medicine (listed in section 6).
-- -if you have not been vaccinated against meningococcal infection. See warnings and precautions section.
-- -if you have a meningococcal infection.
+- if you are allergic to zilucoplan or any of the other ingredients of this medicine (listed in section 6).
+- if you have not been vaccinated against meningococcal infection. See warnings and precautions section.
+- if you have a meningococcal infection.
 
 ## Warnings and precautions
 
@@ -2698,15 +2596,15 @@ If you are at risk of gonorrhoea (sexually transmitted bacterial infection), ask
 
 ## Meningococcal infection symptoms
 
-Because of the importance of rapidly identifying and treating meningococcal infections in patients who receive Zilbrysq, you will be provided a card to carry with you at all times, listing specific signs and symptoms of possible meningococcal infection. It also contains information for healthcare professionals that may not be familiar with Zilbrysq. This card is named 'patient alert card'. You will also be provided a patient/carer guide which contains further information on Zilbrysq.
+Because of the importance of rapidly identifying and treating meningococcal infections in patients who receive Zilbrysq, you will be provided a card to carry with you at all times, listing specific signs and symptoms of possible meningococcal infection. It also contains information for healthcare professionals that may not be familiar with Zilbrysq. This card is named 'patient card'. You will also be provided a patient/carer guide which contains further information on Zilbrysq.
 
 If you experience any of the following symptoms, you should immediately inform your doctor:
 
-- -Headache with additional symptoms such as nausea (feeling sick), vomiting, fever and stiff neck or back
-- -Fever with or without a rash
-- -Eyes sensitive to light
-- -Confusion / drowsiness
-- -Muscle pain with flu-like symptoms
+- Headache with additional symptoms such as nausea (feeling sick), vomiting, fever and stiff neck or back
+- Fever with or without a rash
+- Eyes sensitive to light
+- Confusion / drowsiness
+- Muscle pain with flu-like symptoms
 
 ## Treatment for meningococcal infection while travelling
 
@@ -2788,18 +2686,18 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Very common (may affect more than 1 in 10 people)
 
-- -Injection site reactions, such as bruising, pain, itching and forming of a lump.
-- -Nose and throat infections.
+- Injection site reactions, such as bruising, pain, itching and forming of a lump.
+- Nose and throat infections.
 
 Common (may affect up to 1 in 10 people)
 
-- -Diarrhoea
-- -Increased pancreas enzymes (amylase, lipase) seen in blood test.
-- -Morphoea (condition that causes localized discolored and hardened areas of the skin).
+- Diarrhoea
+- Increased pancreas enzymes (amylase, lipase) seen in blood test.
+- Morphoea (condition that causes localized discoloured and hardened areas of the skin).
 
 Uncommon (may affect up to 1 in 100 people)
 
-- -Increased of eosinophils (a type of white blood cell), seen in blood test.
+- Increased of eosinophils (a type of white blood cell), seen in blood test.
 
 ## Reporting of side effects
 
@@ -2827,8 +2725,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Zilbrysq contains
 
-- -The active substance is: zilucoplan.
-- -The other ingredients are: sodium dihydrogen phosphate monohydrate, disodium phosphate (anhydrous), sodium chloride, water for injections (see section 2 Zilbrysq contains sodium).
+- The active substance is: zilucoplan.
+- The other ingredients are: sodium dihydrogen phosphate monohydrate, disodium phosphate (anhydrous), sodium chloride, water for injections (see section 2 Zilbrysq contains sodium).
 
 ## What Zilbrysq looks like and contents of the pack
 
@@ -3042,25 +2940,11 @@ Tel: + 46 / (0) 40 294 900
 
 <div style=\"page-break-after: always\"></div>
 
-Plunger rod
-
-Plunger head
-
-Finger grip
-
-Syringe body
-
-Syringe label (expiry date and
-
-Needle guard (locked)
-
 ## Instructions for Use for Zilbrysq solution for injection in pre-filled syringe
 
 ## Read ALL the instructions below before you use Zilbrysq
 
 ## Before use
-
-activation clips retracts the needle.
 
 <!-- image -->
 
@@ -3070,12 +2954,12 @@ activation clips retracts the needle.
 
 ## Important information:
 
-- -Your healthcare professional should show you how to prepare and inject Zilbrysq properly before you use it for the first time.
-- -Call your healthcare professional if you or your caregiver have any questions about how to inject Zilbrysq correctly.
+- Your healthcare professional should show you how to prepare and inject Zilbrysq properly before you use it for the first time.
+- Call your healthcare professional if you or your caregiver have any questions about how to inject Zilbrysq correctly.
 
 ## Do not use, and return this medicine to the pharmacy:
 
-- -if the pre-filled syringe has been dropped
+- if the pre-filled syringe has been dropped
 
 Follow the steps below each time you use Zilbrysq
 
@@ -3164,10 +3048,6 @@ Figure D
 
 <div style=\"page-break-after: always\"></div>
 
-90°
-
-1/45°
-
 ## c) Insert the needle
 
 Insert the entire needle into the pinched skin at a 45° to 90° angle. (Figure E).
@@ -3221,16 +3101,18 @@ Always keep the sharps disposal container out of the reach of children.
 
 ## Package leaflet: Information for the patient
 
-Zilbrysq 16.6 mg solution for injection in pre-filled pen Zilbrysq 23 mg solution for injection in pre-filled pen Zilbrysq 32.4 mg solution for injection in pre-filled pen zilucoplan
+Zilbrysq 16.6 mg solution for injection in pre-filled pen Zilbrysq 23 mg solution for injection in pre-filled pen Zilbrysq 32.4 mg solution for injection in pre-filled pen
+
+zilucoplan
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3253,9 +3135,9 @@ Zilbrysq can reduce symptoms of the disease and improve the quality of life.
 
 ## Do not use Zilbrysq
 
-- -if you are allergic to zilucoplan or any of the other ingredients of this medicine (listed in section 6).
-- -if you have not been vaccinated against meningococcal infection. See warnings and precautions section.
-- -if you have a meningococcal infection.
+- if you are allergic to zilucoplan or any of the other ingredients of this medicine (listed in section 6).
+- if you have not been vaccinated against meningococcal infection. See warnings and precautions section.
+- if you have a meningococcal infection.
 
 ## Warnings and precautions
 
@@ -3271,15 +3153,15 @@ If you are at risk of gonorrhoea (sexually transmitted bacterial infection), ask
 
 ## Meningococcal infection symptoms
 
-Because of the importance of rapidly identifying and treating meningococcal infections in patients who receive Zilbrysq, you will be provided a card to carry with you at all times, listing specific signs and symptoms of possible meningococcal infection. It also contains information for healthcare professionals that may not be familiar with Zilbrysq. This card is named 'patient alert card'. You will also be provided a patient/carer guide which contains further information on Zilbrysq.
+Because of the importance of rapidly identifying and treating meningococcal infections in patients who receive Zilbrysq, you will be provided a card to carry with you at all times, listing specific signs and symptoms of possible meningococcal infection. It also contains information for healthcare professionals that may not be familiar with Zilbrysq. This card is named 'patient card'. You will also be provided a patient/carer guide which contains further information on Zilbrysq.
 
 If you experience any of the following symptoms, you should immediately inform your doctor:
 
-- -Headache with additional symptoms such as nausea (feeling sick), vomiting, fever and stiff neck or back
-- -Fever with or without a rash
-- -Eyes sensitive to light
-- -Confusion / drowsiness
-- -Muscle pain with flu-like symptoms
+- Headache with additional symptoms such as nausea (feeling sick), vomiting, fever and stiff neck or back
+- Fever with or without a rash
+- Eyes sensitive to light
+- Confusion / drowsiness
+- Muscle pain with flu-like symptoms
 
 ## Treatment for meningococcal infection while travelling
 
@@ -3361,18 +3243,18 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Very common (may affect more than 1 in 10 people)
 
-- -Injection site reactions, such as bruising, pain, itching and forming of a lump.
-- -Nose and throat infections.
+- Injection site reactions, such as bruising, pain, itching and forming of a lump.
+- Nose and throat infections.
 
 Common (may affect up to 1 in 10 people)
 
-- -Diarrhoea
-- -Increased pancreas enzymes (amylase, lipase) seen in blood test.
-- -Morphoea (condition that causes localized discolored and hardened areas of the skin).
+- Diarrhoea
+- Increased pancreas enzymes (amylase, lipase) seen in blood test.
+- Morphoea (condition that causes localized discoloured and hardened areas of the skin).
 
 Uncommon (may affect up to 1 in 100 people)
 
-- -Increased of eosinophils (a type of white blood cell), seen in blood test.
+- Increased of eosinophils (a type of white blood cell), seen in blood test.
 
 ## Reporting of side effects
 
@@ -3400,8 +3282,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Zilbrysq contains
 
-- -The active substance is: zilucoplan.
-- -The other ingredients are: sodium dihydrogen phosphate monohydrate, disodium phosphate (anhydrous), sodium chloride, water for injections (see section 2 Zilbrysq contains sodium).
+- The active substance is: zilucoplan.
+- The other ingredients are: sodium dihydrogen phosphate monohydrate, disodium phosphate (anhydrous), sodium chloride, water for injections (see section 2 Zilbrysq contains sodium).
 
 ## What Zilbrysq looks like and contents of the pack
 
@@ -3409,15 +3291,15 @@ Zilbrysq is a solution for injection (injection) in pre-filled pen and is a clea
 
 ## Zilbrysq 16.6 mg solution for injection in pre-filled pen
 
-Each pre-filled pen with raspberry color label contains zilucoplan sodium equivalent to 16.6 mg zilucoplan in 0.416 mL.
+Each pre-filled pen with raspberry colour label contains zilucoplan sodium equivalent to 16.6 mg zilucoplan in 0.416 mL.
 
 ## Zilbrysq 23 mg solution for injection in pre-filled pen
 
-Each pre-filled pen with orange color label contains zilucoplan sodium equivalent to 23 mg zilucoplan in 0.574 mL.
+Each pre-filled pen with orange colour label contains zilucoplan sodium equivalent to 23 mg zilucoplan in 0.574 mL.
 
 ## Zilbrysq 32.4 mg solution for injection in pre-filled pen
 
-Each pre-filled pen with dark blue color label contains zilucoplan sodium equivalent to 32.4 mg zilucoplan in 0.810 mL.
+Each pre-filled pen with dark blue colour label contains zilucoplan sodium equivalent to 32.4 mg zilucoplan in 0.810 mL.
 
 Pack size of 7 or 28 pre-filled pens for 16.6 mg, 23 mg and 32.4 mg solution for injection. Not all pack sizes may be marketed.
 
@@ -3533,9 +3415,7 @@ UCB (Pharma) Ireland Ltd. Tel: + 353 / (0)1-46 37 395
 
 ## Ísland
 
-UCB Nordic A/S
-
-Sími: + 45 / 32 46 24 00
+UCB Nordic A/S Sími: + 45 / 32 46 24 00
 
 ## Italia
 
@@ -3599,15 +3479,9 @@ Tel: + 46 / (0) 40 294 900
 
 <div style=\"page-break-after: always\"></div>
 
-Needle cap
-
-Viewing window
-
 ## Instructions for Use for Zilbrysq solution for injection in pre-filled pen Single-Dose pre-filled pen
 
 Read ALL the instructions below before you use Zilbrysq
-
-Handle
 
 <!-- image -->
 
@@ -3624,7 +3498,7 @@ Do not inject yourself or someone else until you have been shown how to inject Z
 - Do not use if the expiration date on the carton or label has passed.
 - Do not use the pre-filled pen if it has been dropped or looks damaged.
 - Do not use if the needle cap is missing or is not securely attached.
-- Do not use if the medicine is cloudy, discolored, or has floating particles.
+- Do not use if the medicine is cloudy, discoloured, or has floating particles.
 - Do not remove the needle cap from the pre-filled pen until you are ready to inject.
 - Do not use if the liquid has ever been frozen (even if thawed).
 - Do not share or reuse the pre-filled pen. The pre-filled pen is for 1-time (single-use) only.
@@ -3636,10 +3510,6 @@ Figure A
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-.
-
-Viewing window
 
 ## Preparing for injection
 
@@ -3670,11 +3540,13 @@ Wash your hands with soap and water and dry them with a clean towel. Gather the 
 - Check the pre-filled pen for damage.
 - Check the expiration date and medicine name (Zilbrysq) on the pre-filled pen label.
 - Check the dose appearing on the pre-filled pen label and make sure it matches your prescribed dose. Do not use if the dose does not match your prescribed dose.
-- Check the medicine through the viewing window. The medicine should be clear to almost clear and colorless. It is normal to see air bubbles.
+- Check the medicine through the viewing window. The medicine should be clear to almost clear and colourless. It is normal to see air bubbles.
 
 Figure B
 
 <!-- image -->
+
+.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3705,10 +3577,6 @@ Choose a different injection site each time you give yourself an injection. If y
 - Do not touch the injection site again before giving your injection.
 
 <div style=\"page-break-after: always\"></div>
-
-90°
-
-Donnenn
 
 Figure E
 
@@ -3741,11 +3609,7 @@ Hold the pre-filled pen straight at a 90-degree angle to the cleaned injection s
 
 Figure G                                                                  Figure H
 
-First click
-
 <div style=\"page-break-after: always\"></div>
-
-Second click
 
 Do not lift the pre-filled pen away from the skin during injection.
 

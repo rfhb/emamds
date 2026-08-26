@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/tavneos-epar-all-authorised-presentations_en.pdf
 document_name: tavneos-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 2.3518169
-conversion_datetime: 2026-08-26 10:27:29.643714
+processing_time: 1.02656
+conversion_datetime: 2026-08-26 10:30:54.265106
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

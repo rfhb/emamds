@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-12 13:51:52
-document_pages: 37
+document_datetime: 2026-08-21 14:40:33
+document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/imaavy-epar-product-information_en.pdf
 document_name: imaavy-epar-product-information_en.pdf
 version: success
-processing_time: 7.9527738
-conversion_datetime: 2025-12-26 18:58:33.112236
+processing_time: 7.567722
+conversion_datetime: 2026-08-26 10:39:19.785719
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -248,11 +248,9 @@ Table 2: Adverse reactions
 
 ## Infections
 
-In the Phase 3 double-blind placebo-controlled clinical study in gMG, the overall rate of infections was the same between patients in the nipocalimab group and patients in the placebo group (42 [42.9%] in each group). Most cases were mild to moderate in severity and did not lead to discontinuation of nipocalimab treatment. Urinary tract infection was reported in 5 patients (5.1%) in the nipocalimab group compared to 0 patients (0%) in the placebo group. The events of urinary tract infection were mild (3 [3.1%]) and
+In the Phase 3 double-blind placebo-controlled clinical study in gMG, the overall rate of infections was the same between patients in the nipocalimab group and patients in the placebo group (42 [42.9%] in each group). Most cases were mild to moderate in severity and did not lead to discontinuation of nipocalimab treatment. Urinary tract infection was reported in 5 patients (5.1%) in the nipocalimab group compared to 0 patients (0%) in the placebo group. The events of urinary tract infection were mild (3 [3.1%]) and moderate (2 [2.0%]) in severity. Pneumonia or bronchitis was reported in 5 patients (5.1%) in the nipocalimab group compared to 2 patients (2.0%) in the placebo group.
 
 <div style=\"page-break-after: always\"></div>
-
-moderate (2 [2.0%]) in severity. Pneumonia or bronchitis was reported in 5 patients (5.1%) in the nipocalimab group compared to 2 patients (2.0%) in the placebo group.
 
 ## Lipids increased
 
@@ -282,11 +280,9 @@ Pharmacotherapeutic group: Immunosuppressants, monoclonal antibodies, ATC code: 
 
 ## Mechanism of action
 
-Nipocalimab is a human IgG1 monoclonal antibody specifically targeting the IgG Fc binding site of FcRn with high specificity and high affinity at both neutral (extracellular) and acidic pH (intracellular) resulting
+Nipocalimab is a human IgG1 monoclonal antibody specifically targeting the IgG Fc binding site of FcRn with high specificity and high affinity at both neutral (extracellular) and acidic pH (intracellular) resulting in the reduction of circulating IgG, including IgG autoantibodies, without affecting other immunoglobulins (IgA, IgE or IgM). Nipocalimab did not demonstrate any clinically relevant impact on circulating levels of albumin, which binds at a different site on FcRn.
 
 <div style=\"page-break-after: always\"></div>
-
-in the reduction of circulating IgG, including IgG autoantibodies, without affecting other immunoglobulins (IgA, IgE or IgM). Nipocalimab did not demonstrate any clinically relevant impact on circulating levels of albumin, which binds at a different site on FcRn.
 
 IgG autoantibodies are the underlying cause of the pathogenesis of MG. IgG autoantibodies impair neuromuscular transmission by binding to AChR, MuSK or LRP4.
 
@@ -364,7 +360,7 @@ Figure 1: Least Squares Mean Change from Baseline in MG-ADL Total Score (A) and 
 
 <!-- image -->
 
-Nipocalimab-o Placebo
+中 NipocalimabPlacebo
 
 Over time, a higher proportion of patients achieved sustained MG-ADL (improvement &gt; 2 points from Week 2 through Week 24) and QMG (improvement &gt; 3 points from Week 2 through Week 24) responses in the nipocalimab group (45.5% and 33.8%, respectively) compared to the placebo group (21.1% and 7.9%, respectively).
 
@@ -548,18 +544,20 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer of the biological active substance
+Name and address of the manufacturers of the biological active substance
 
 WuXi Biologics Co., Ltd. 108 Meiliang Road Mashan, Binhu District, Wuxi, Jiangsu, 214092, China
+
+Janssen Sciences Ireland UC (JSI) Barnahely, Ringaskiddy Co. Cork, P43 FA46, Ireland
 
 Name and address of the manufacturer responsible for batch release
 
@@ -792,7 +790,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -854,10 +852,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -884,7 +882,7 @@ In patients with gMG, IgG autoantibodies attack and damage certain proteins on t
 
 ## Do not use Imaavy
 
-- -if you are allergic to nipocalimab or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to nipocalimab or any of the other ingredients of this medicine (listed in section 6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1001,10 +999,10 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Imaavy contains
 
-- -The active substance is nipocalimab.
+- The active substance is nipocalimab.
 -  Each vial of 1.62 mL contains 300 mg of nipocalimab (185 mg/mL).
 -  Each vial of 6.5 mL contains 1200 mg of nipocalimab (185 mg/mL).
-- -The other ingredients are: arginine hydrochloride, histidine, histidine monohydrochloride monohydrate, methionine, polysorbate 80 (E433), sucrose, and water for injections.
+- The other ingredients are: arginine hydrochloride, histidine, histidine monohydrochloride monohydrate, methionine, polysorbate 80 (E433), sucrose, and water for injections.
 
 ## What Imaavy looks like and contents of the pack
 

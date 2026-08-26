@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-13 09:10:17
+document_datetime: 2026-08-20 14:41:42
 document_pages: 67
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rivastigmine-hexal-epar-product-information_en.pdf
 document_name: rivastigmine-hexal-epar-product-information_en.pdf
 version: success
-processing_time: 45.7356703
-conversion_datetime: 2026-05-24 14:58:07.261031
+processing_time: 31.8647225
+conversion_datetime: 2026-08-26 10:43:07.729987
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -48,7 +48,9 @@ Off-white to slightly yellow powder in a capsule with red cap and orange body, w
 
 ## 4.1 Therapeutic indications
 
-Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease.
+Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's
+
+disease.
 
 ## 4.2 Posology and method of administration
 
@@ -194,60 +196,52 @@ The following adverse reactions, listed below in Table 1, have been accumulated 
 
 Table 1
 
-| Infections and infestations Very rare   | Urinary infection                                                                                    |
-|-----------------------------------------|------------------------------------------------------------------------------------------------------|
-| Metabolism and nutrition disorders      |                                                                                                      |
-| Very common                             | Anorexia                                                                                             |
-| Common                                  | Decreased appetite                                                                                   |
-| Not known                               | Dehydration                                                                                          |
-| Psychiatric disorders                   |                                                                                                      |
-| Common                                  | Agitation                                                                                            |
-| Common                                  | Confusion                                                                                            |
-| Common                                  | Anxiety                                                                                              |
-| Common                                  | Nightmares                                                                                           |
-| Uncommon                                | Insomnia                                                                                             |
-| Uncommon                                | Depression                                                                                           |
-| Very rare                               | Hallucinations                                                                                       |
-| Not known                               | Aggression, restlessness                                                                             |
-| Nervous system disorders                |                                                                                                      |
-| Very common                             | Dizziness                                                                                            |
-| Common                                  | Headache                                                                                             |
-| Common                                  | Somnolence                                                                                           |
-| Common                                  | Tremor                                                                                               |
-| Uncommon                                | Syncope                                                                                              |
-| Rare                                    | Seizures                                                                                             |
-| Very rare                               | Extrapyramidal symptoms (including worsening of Parkinson's disease)                                 |
-| Not known                               | Pleurothotonus (Pisa syndrome)                                                                       |
-| Cardiac disorders                       |                                                                                                      |
-| Rare                                    | Angina pectoris                                                                                      |
-| Very rare                               | Cardiac arrhythmia (e.g. bradycardia, atrio- ventricular block, atrial fibrillation and tachycardia) |
-| Not known                               | Sick sinus syndrome                                                                                  |
-| Vascular disorders                      |                                                                                                      |
-| Very rare                               | Hypertension                                                                                         |
-| Gastrointestinal disorders              |                                                                                                      |
-| Very common                             | Nausea                                                                                               |
-| Very common                             | Vomiting                                                                                             |
-| Very common                             | Diarrhoea                                                                                            |
-| Common                                  | Abdominal pain and dyspepsia                                                                         |
-| Rare                                    | Gastric and duodenal ulcers                                                                          |
-| Very rare                               | Gastrointestinal haemorrhage                                                                         |
-| Very rare                               | Pancreatitis                                                                                         |
-| Not known                               | Some cases of severe vomiting were associated with oesophageal rupture (see section 4.4).            |
+| Infections and infestations Very rare   | Urinary infection                                                                         |
+|-----------------------------------------|-------------------------------------------------------------------------------------------|
+| Metabolism and nutrition disorders      |                                                                                           |
+| Very common                             | Anorexia                                                                                  |
+| Common                                  | Decreased appetite                                                                        |
+| Not known                               | Dehydration                                                                               |
+| Psychiatric disorders                   |                                                                                           |
+| Common                                  | Agitation                                                                                 |
+| Common                                  | Confusion                                                                                 |
+| Common                                  | Anxiety                                                                                   |
+| Common                                  | Nightmares                                                                                |
+| Uncommon                                | Insomnia                                                                                  |
+| Uncommon                                | Depression                                                                                |
+| Very rare                               | Hallucinations                                                                            |
+| Not known                               | Aggression, restlessness                                                                  |
+| Nervous system disorders                |                                                                                           |
+| Very common                             | Dizziness                                                                                 |
+| Common                                  | Headache                                                                                  |
+| Common                                  | Somnolence                                                                                |
+| Common                                  | Tremor                                                                                    |
+| Uncommon                                | Syncope                                                                                   |
+| Rare                                    | Seizures                                                                                  |
+| Very rare                               | Extrapyramidal symptoms (including worsening of Parkinson's disease)                      |
+| Not known                               | Pleurothotonus (Pisa syndrome)                                                            |
+| Cardiac disorders                       |                                                                                           |
+| Rare                                    | Angina pectoris                                                                           |
+| Very rare                               | Cardiac arrhythmia (e.g. bradycardia, atrio- ventricular block, atrial fibrillation and   |
+| Not known                               | Sick sinus syndrome                                                                       |
+| Vascular disorders                      |                                                                                           |
+| Very rare                               | Hypertension                                                                              |
+| Gastrointestinal disorders              |                                                                                           |
+| Very common                             | Nausea                                                                                    |
+| Very common                             | Vomiting                                                                                  |
+| Very common                             | Diarrhoea                                                                                 |
+| Common                                  | Abdominal pain and dyspepsia                                                              |
+| Rare                                    | Gastric and duodenal ulcers                                                               |
+| Very rare                               | Gastrointestinal haemorrhage                                                              |
+| Very rare                               | Pancreatitis                                                                              |
+| Not known                               | Some cases of severe vomiting were associated with oesophageal rupture (see section 4.4). |
 
 <div style=\"page-break-after: always\"></div>
 
-| Hepatobiliary disorders Uncommon Not known           | Elevated liver function tests Hepatitis      |
-|------------------------------------------------------|----------------------------------------------|
-| Skin and subcutaneous tissue disorders               |                                              |
-| Common                                               | Hyperhydrosis                                |
-| Rare                                                 | Rash                                         |
-| Not known                                            | Pruritus, allergic dermatitis (disseminated) |
-| General disorders and administration site conditions |                                              |
-| Common                                               | Fatigue and asthenia                         |
-| Common                                               | Malaise                                      |
-| Uncommon                                             | Fall                                         |
-| Investigations                                       |                                              |
-| Common                                               | Weight loss                                  |
+| Hepatobiliary disorders Uncommon Not known                                  | Elevated liver function tests Hepatitis                         |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Skin and subcutaneous tissue disorders Common Rare Not known                | Hyperhydrosis Rash Pruritus, allergic dermatitis (disseminated) |
+| General disorders and administration site conditions Common Common Uncommon | Fatigue and asthenia Malaise Fall                               |
 
 The following additional adverse reactions have been observed with rivastigmine transdermal patches: delirium, pyrexia, decreased appetite, urinary incontinence (common), psychomotor hyperactivity (uncommon), erythema, urticaria, vesicles, allergic dermatitis (not known).
 
@@ -264,16 +258,16 @@ Table 2
 
 <div style=\"page-break-after: always\"></div>
 
-| Gastrointestinal disorders Very common Very common Common Common   | Nausea Vomiting Diarrhoea Abdominal pain and dyspepsia Salivary hypersecretion   |
-|--------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| and subcutaneous tissue disorders Common Not known                 | Hepatitis                                                                        |
-| Common                                                             |                                                                                  |
-| Hepatobiliary disorders Not known                                  |                                                                                  |
-| Skin                                                               | Hyperhydrosis                                                                    |
-| General disorders and administration conditions Very common Common | Allergic dermatitis (disseminated)                                               |
-| site                                                               | Fall Fatigue and asthenia Gait disturbance                                       |
-| Common                                                             |                                                                                  |
-| Common                                                             | Parkinson gait                                                                   |
+| Gastrointestinal disorders Very common Very common Common Common Common   | Nausea Vomiting Diarrhoea Abdominal pain and dyspepsia Salivary hypersecretion   |
+|---------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| and subcutaneous tissue disorders Common Not known administration site    | Hyperhydrosis                                                                    |
+| disorders                                                                 |                                                                                  |
+| Hepatobiliary disorders Not known                                         | Hepatitis                                                                        |
+| Skin                                                                      |                                                                                  |
+| General and conditions Very common Common Common                          | Allergic dermatitis (disseminated) Fall                                          |
+|                                                                           | Fatigue and asthenia Gait disturbance                                            |
+| Common                                                                    |                                                                                  |
+|                                                                           | Parkinson gait                                                                   |
 
 The following additional adverse reaction has been observed in a study of patients with dementia associated with Parkinson's disease treated with rivastigmine transdermal patches: agitation (common).
 
@@ -281,24 +275,24 @@ Table 3 lists the number and percentage of patients from the specific 24-week cl
 
 Table 3
 
-| Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Rivastigmine n (%)   | Placebo n (%)            |
-|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------------------------|
-| Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3)  | 179 (100) 28 (15.6)      |
-| Tremor Fall Parkinson's disease Salivary hypersecretion Dyskinesia                                                                             | 37 (10.2) 21 (5.8)   | 7 (3.9) 11 (6.1) 2 (1.1) |
-| (worsening)                                                                                                                                    | 12 (3.3)             |                          |
-|                                                                                                                                                | 5 (1.4)              | 0                        |
-|                                                                                                                                                | 5 (1.4)              | 1 (0.6)                  |
-| Parkinsonism                                                                                                                                   | 8 (2.2)              | 1 (0.6)                  |
-| Hypokinesia                                                                                                                                    | 1 (0.3)              | 0                        |
-| Movement disorder                                                                                                                              | 1 (0.3)              | 0                        |
-| Bradykinesia                                                                                                                                   | 9 (2.5)              | 3 (1.7)                  |
-| Dystonia                                                                                                                                       | 3 (0.8)              | 1 (0.6)                  |
-| Gait abnormality                                                                                                                               | 5 (1.4)              | 0                        |
-| Muscle rigidity                                                                                                                                | 1 (0.3)              | 0                        |
-| Balance disorder                                                                                                                               | 3 (0.8)              | 2 (1.1)                  |
-| Musculoskeletal stiffness                                                                                                                      | 3 (0.8)              | 0                        |
-| Rigors                                                                                                                                         | 1 (0.3)              | 0                        |
-| Motor dysfunction                                                                                                                              | 1 (0.3)              | 0                        |
+| Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Rivastigmine n (%)          | Placebo n (%)            |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------------|
+| Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3)         | 179 (100) 28 (15.6)      |
+| Tremor Fall Parkinson's disease Salivary hypersecretion Dyskinesia                                                                             | 37 (10.2) 21 (5.8) 12 (3.3) | 7 (3.9) 11 (6.1) 2 (1.1) |
+| (worsening)                                                                                                                                    |                             |                          |
+|                                                                                                                                                | 5 (1.4)                     | 0                        |
+|                                                                                                                                                | 5 (1.4)                     | 1 (0.6)                  |
+| Parkinsonism                                                                                                                                   | 8 (2.2)                     | 1 (0.6)                  |
+| Hypokinesia                                                                                                                                    | 1 (0.3)                     | 0                        |
+| Movement disorder                                                                                                                              | 1 (0.3)                     | 0                        |
+| Bradykinesia                                                                                                                                   | 9 (2.5)                     | 3 (1.7)                  |
+| Dystonia                                                                                                                                       | 3 (0.8)                     | 1 (0.6)                  |
+| Gait abnormality                                                                                                                               | 5 (1.4)                     | 0                        |
+| Muscle rigidity                                                                                                                                | 1 (0.3)                     | 0                        |
+| Balance disorder                                                                                                                               | 3 (0.8)                     | 2 (1.1)                  |
+| Musculoskeletal stiffness                                                                                                                      | 3 (0.8)                     | 0                        |
+| Rigors                                                                                                                                         | 1 (0.3)                     | 0                        |
+| Motor dysfunction                                                                                                                              | 1 (0.3)                     | 0                        |
 
 ## Reporting of suspected adverse reactions
 
@@ -372,27 +366,20 @@ Table 5
 | ITT - LOCF population Mean baseline ± SD Mean change at 24 weeks ± SD | (n=287) 24.0 ± 10.3 2.5 ± 8.4 | (n=154) 24.5 ± 10.6 -0.8 ± 7.5 | (n=289) n/a 3.7 ± 1.4    | (n=158) n/a 4.3 ± 1.5 |
 | Adjusted treatment difference p-value versus placebo                  | 3.54 1 <0.001 1               | 3.54 1 <0.001 1                | n/a <0.001 2             | n/a <0.001 2          |
 
-Mean data shown for convenience, categorical analysis performed using van Elteren test ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward
-
 Although a treatment effect was demonstrated in the overall study population, the data suggested that a larger treatment effect relative to placebo was seen in the subgroup of patients with moderate dementia associated with Parkinson's disease. Similarly a larger treatment effect was observed in those patients with visual hallucinations (see Table 6).
 
 Table 6
 
-| Dementia associated with Parkinson's Disease                         | ADAS-Cog Rivastigmine                        | ADAS-Cog Placebo                             | ADAS-Cog Rivastigmine                    | ADAS-Cog Placebo                         | ADAS-Cog Placebo                         | ADAS-Cog Placebo                         | ADAS-Cog Placebo                         | ADAS-Cog Placebo                         | ADAS-Cog Placebo                         |
-|----------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
-|                                                                      | Patients with visual hallucinations          | Patients with visual hallucinations          | Patients without visual hallucinations   | Patients without visual hallucinations   | Patients without visual hallucinations   | Patients without visual hallucinations   | Patients without visual hallucinations   | Patients without visual hallucinations   | Patients without visual hallucinations   |
-| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD | (n=107) 25.4 ± 9.9 1.0 ± 9.2                 | (n=60) 27.4 ± 10.4                           | (n=220) 23.1 ± 10.4 2.6 ± 7.6            | (n=101) 22.5 ± 10.1                      | (n=101) 22.5 ± 10.1                      | (n=101) 22.5 ± 10.1                      | (n=101) 22.5 ± 10.1                      | (n=101) 22.5 ± 10.1                      | (n=101) 22.5 ± 10.1                      |
-| Adjusted treatment difference                                        |                                              | -2.1 ±                                       |                                          | 8.3                                      | 8.3                                      | 8.3                                      | 8.3                                      | 8.3                                      | 8.3                                      |
-| p-value versus placebo                                               |                                              |                                              |                                          | 0.1 ± 6.9                                | 0.1 ± 6.9                                | 0.1 ± 6.9                                | 0.1 ± 6.9                                | 0.1 ± 6.9                                | 0.1 ± 6.9                                |
-|                                                                      | 4.27 1 0.002 1                               | 4.27 1 0.002 1                               | 2.09 1 0.015 1                           | 2.09 1 0.015 1                           | 2.09 1 0.015 1                           | 2.09 1 0.015 1                           | 2.09 1 0.015 1                           | 2.09 1 0.015 1                           | 2.09 1 0.015 1                           |
-|                                                                      | Patients with moderate dementia (MMSE 10-17) | Patients with moderate dementia (MMSE 10-17) | Patients with mild dementia (MMSE 18-24) | Patients with mild dementia (MMSE 18-24) | Patients with mild dementia (MMSE 18-24) | Patients with mild dementia (MMSE 18-24) | Patients with mild dementia (MMSE 18-24) | Patients with mild dementia (MMSE 18-24) | Patients with mild dementia (MMSE 18-24) |
-| ITT + RDO population                                                 | (n=87)                                       | (n=44) 33.7 ± 10.3                           | (n=237)                                  | (n=115) 20.7 ± 7.9                       | (n=115) 20.7 ± 7.9                       | (n=115) 20.7 ± 7.9                       | (n=115) 20.7 ± 7.9                       | (n=115) 20.7 ± 7.9                       | (n=115) 20.7 ± 7.9                       |
-| Mean baseline ± SD                                                   | 32.6 ± 10.4                                  |                                              | 20.6 ± 7.9                               |                                          |                                          |                                          |                                          |                                          |                                          |
-| Mean change at                                                       |                                              | -1.8 ± 7.2                                   | 1.9 ± 7.7                                |                                          |                                          |                                          |                                          |                                          |                                          |
-| 24 weeks ± SD Adjusted treatment                                     | 2.6 ± 9.4                                    |                                              |                                          |                                          |                                          |                                          |                                          |                                          |                                          |
-| difference                                                           | 1                                            | 4.73 1                                       |                                          |                                          |                                          |                                          |                                          |                                          |                                          |
-| p-value versus placebo                                               | 0.002                                        |                                              |                                          |                                          |                                          |                                          |                                          |                                          |                                          |
-|                                                                      |                                              |                                              | 2.14 0.010 1                             | 2.14 0.010 1                             | 2.14 0.010 1                             | 2.14 0.010 1                             | 2.14 0.010 1                             | 2.14 0.010 1                             | 2.14 0.010 1                             |
+| Dementia associated with Parkinson's Disease                         | ADAS-Cog Rivastigmine               | ADAS-Cog Placebo                    | ADAS-Cog Rivastigmine                  | ADAS-Cog Placebo                       |
+|----------------------------------------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------|----------------------------------------|
+|                                                                      | Patients with visual hallucinations | Patients with visual hallucinations | Patients without visual hallucinations | Patients without visual hallucinations |
+| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD | (n=107) 25.4 ± 9.9 1.0 ± 9.2        | (n=60) 27.4 ± 10.4 -2.1 ± 8.3       | (n=220) 23.1 ± 10.4 2.6 ± 7.6          | (n=101) 22.5 ± 10.1 0.1 ± 6.9          |
+| Adjusted treatment difference p-value versus placebo                 | 4.27 1 0.002 1                      | 4.27 1 0.002 1                      | 2.09 1 0.015 1                         | 2.09 1 0.015 1                         |
+| ITT + RDO population Mean baseline ± SD Mean change at               | dementia (MMSE (n=87) 32.6 ± 10.4   | 10-17) (n=44) 33.7 ± 10.3           | (MMSE (n=237) 20.6 ± 7.9 1.9 ± 7.7     | 18-24) (n=115) 20.7 ± 7.9              |
+| 24 weeks ± SD Adjusted treatment difference                          | 2.6 ± 9.4                           | -1.8 ± 7.2                          |                                        |                                        |
+| p-value versus                                                       | 4.73 1                              | 4.73 1                              | -0.2 ± 7.5 1                           | -0.2 ± 7.5 1                           |
+| placebo                                                              | 1                                   |                                     | 2.14                                   |                                        |
+|                                                                      | 0.002                               |                                     | 0.010 1                                |                                        |
 
 ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 
@@ -458,65 +445,65 @@ Rivastigmine HEXAL 1.5 mg hard capsules:
 
 Capsule shell:
 
-- -Gelatin
-- -Titanium dioxide (E171)
-- -Yellow iron oxide (E172)
+- Gelatin
+- Titanium dioxide (E171)
+- Yellow iron oxide (E172)
 
 Capsule fill:
 
-- -Microcrystaline cellulose
-- -Magnesium stearate
-- -Hypromellose
-- -Silica, colloidal anhydrous
+- Microcrystaline cellulose
+- Magnesium stearate
+- Hypromellose
+- Silica, colloidal anhydrous
 
 Printing ink:
 
-- -Shellac
-- -Red iron oxide (E172)
+- Shellac
+- Red iron oxide (E172)
 
 Rivastigmine HEXAL 3 mg and 6 mg hard capsules:
 
 Capsule shell:
 
-- -Gelatin
-- -Titanium dioxide (E171)
-- -Yellow iron oxide (E172)
-- -Red iron oxide (E172)
+- Gelatin
+- Titanium dioxide (E171)
+- Yellow iron oxide (E172)
+- Red iron oxide (E172)
 
 <div style=\"page-break-after: always\"></div>
 
 ## Capsule fill:
 
-- -Microcrystaline cellulose
-- -Magnesium stearate
-- -Hypromellose
-- -Silica, colloidal anhydrous
+- Microcrystaline cellulose
+- Magnesium stearate
+- Hypromellose
+- Silica, colloidal anhydrous
 
 ## Printing ink:
 
-- -Shellac
-- -Red iron oxide (E172)
+- Shellac
+- Red iron oxide (E172)
 
 ## Rivastigmine HEXAL 4.5 mg hard capsules:
 
 ## Capsule shell:
 
-- -Gelatin
-- -Titanium dioxide (E171)
-- -Yellow iron oxide (E172)
-- -Red iron oxide (E172)
+- Gelatin
+- Titanium dioxide (E171)
+- Yellow iron oxide (E172)
+- Red iron oxide (E172)
 
 ## Capsule fill:
 
-- -Microcrystaline cellulose
-- -Magnesium stearate
-- -Hypromellose
-- -Silica, colloidal anhydrous
+- Microcrystaline cellulose
+- Magnesium stearate
+- Hypromellose
+- Silica, colloidal anhydrous
 
 ## Printing ink:
 
-- -Shellac
-- -Titanium dioxide (E171)
+- Shellac
+- Titanium dioxide (E171)
 
 ## 6.2 Incompatibilities
 
@@ -524,7 +511,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-5 years
+3 years
 
 ## 6.4 Special precautions for storage
 
@@ -532,7 +519,7 @@ Do not store above 30°C.
 
 ## 6.5 Nature and contents of container
 
-- -Blister of clear PVC tray with blue lidding foil with 14 capsules. Each box contains 28, 56 or 112 capsules.
+- Blister of clear PVC tray with blue lidding foil with 14 capsules. Each box contains 28, 56 or 112 capsules.
 
 Not all pack sizes may be marketed.
 
@@ -579,6 +566,12 @@ EU/1/09/589/011
 EU/1/09/589/012
 
 Rivastigmine HEXAL 6 mg hard capsules:
+
+EU/1/09/589/013
+
+EU/1/09/589/014
+
+EU/1/09/589/015
 
 EU/1/09/589/013
 
@@ -804,8 +797,8 @@ Table 1
 | Common                                    | Tremor                                                                                               |
 | Uncommon                                  | Syncope                                                                                              |
 | Rare                                      | Seizures                                                                                             |
-| Very                                      | Extrapyramidal symptoms (including                                                                   |
-| rare                                      | worsening of Parkinson's disease) syndrome)                                                          |
+| Very rare                                 | Extrapyramidal symptoms (including                                                                   |
+|                                           | worsening of Parkinson's disease) syndrome)                                                          |
 | Not known                                 | Pleurothotonus (Pisa                                                                                 |
 | Cardiac disorders                         |                                                                                                      |
 | Rare                                      | Angina pectoris                                                                                      |
@@ -818,16 +811,15 @@ Table 1
 | Very common                               | Vomiting                                                                                             |
 | Very common                               | Diarrhoea                                                                                            |
 | Common                                    | Abdominal pain and dyspepsia                                                                         |
-| Rare                                      | Gastric and duodenal                                                                                 |
-| Very rare                                 | ulcers Gastrointestinal haemorrhage                                                                  |
+| Rare                                      | Gastric and duodenal ulcers                                                                          |
+| Very rare                                 | Gastrointestinal haemorrhage                                                                         |
 | Very rare                                 | Pancreatitis                                                                                         |
-| Not known                                 | Some cases of severe vomiting were associated with oesophageal rupture (see section 4.4).            |
+| Not known                                 | Some cases of severe vomiting were associated with oesophageal rupture                               |
 | Hepatobiliary disorders                   |                                                                                                      |
-| Uncommon                                  | Elevated liver function tests                                                                        |
-| Not known                                 | Hepatitis                                                                                            |
+| Uncommon Not known                        | Elevated liver function tests Hepatitis                                                              |
 | Skin and subcutaneous tissue disorders    |                                                                                                      |
 | Common                                    | Hyperhydrosis                                                                                        |
-| Rare                                      | Rash                                                                                                 |
+| Rare Not known                            | Rash Pruritus, allergic dermatitis (disseminated)                                                    |
 | General disorders and administration site |                                                                                                      |
 | conditions                                | Fatigue and asthenia                                                                                 |
 | Common Common                             | Malaise                                                                                              |
@@ -898,22 +890,23 @@ Table 3 lists the number and percentage of patients from the specific 24-week cl
 
 Table 3
 
-| Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Rivastigmine n (%)                  | Placebo n (%)                                                      |
-|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------------------------------------------------------------------|
-| Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3)                 | 179 (100) 28 (15.6)                                                |
-| Tremor Fall Parkinson's disease (worsening) Salivary hypersecretion Dyskinesia Parkinsonism Hypokinesia Movement disorder Bradykinesia         | 37 (10.2) 21 (5.8) 12 (3.3) 5 (1.4) | 7 (3.9) 11 (6.1) 2 (1.1) 0 1 (0.6) 1 (0.6) 0 0 3 (1.7) 1 (0.6) 0 0 |
-|                                                                                                                                                | 5 (1.4)                             |                                                                    |
-|                                                                                                                                                | 8 (2.2)                             |                                                                    |
-|                                                                                                                                                | 1 (0.3)                             |                                                                    |
-|                                                                                                                                                | 1 (0.3)                             |                                                                    |
-|                                                                                                                                                | 9 (2.5)                             |                                                                    |
-| Dystonia                                                                                                                                       | 3 (0.8)                             |                                                                    |
-| Gait abnormality                                                                                                                               | 5 (1.4)                             |                                                                    |
-| Muscle rigidity                                                                                                                                | 1 (0.3)                             |                                                                    |
-| Balance disorder                                                                                                                               | 3 (0.8)                             | 2 (1.1)                                                            |
-| Musculoskeletal stiffness                                                                                                                      | 3 (0.8)                             | 0                                                                  |
-| Rigors                                                                                                                                         | 1 (0.3)                             | 0                                                                  |
-| Motor dysfunction                                                                                                                              | 1 (0.3)                             | 0                                                                  |
+| Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Rivastigmine n (%)          | Placebo n (%)                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------------------------------|
+| Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3)         | 179 (100) 28 (15.6)                |
+| Tremor Fall Parkinson's disease (worsening) Salivary hypersecretion Dyskinesia                                                                 | 37 (10.2) 21 (5.8) 12 (3.3) | 7 (3.9) 11 (6.1) 2 (1.1) 0 1 (0.6) |
+|                                                                                                                                                | 5 (1.4)                     |                                    |
+|                                                                                                                                                | 5 (1.4)                     |                                    |
+| Parkinsonism                                                                                                                                   | 8 (2.2)                     | 1 (0.6)                            |
+| Hypokinesia                                                                                                                                    | 1 (0.3)                     | 0                                  |
+| Movement disorder                                                                                                                              | 1 (0.3)                     | 0                                  |
+| Bradykinesia                                                                                                                                   | 9 (2.5)                     | 3 (1.7)                            |
+| Dystonia                                                                                                                                       | 3 (0.8)                     | 1 (0.6)                            |
+| Gait abnormality                                                                                                                               | 5 (1.4)                     | 0                                  |
+| Muscle rigidity                                                                                                                                | 1 (0.3)                     | 0                                  |
+| Balance disorder                                                                                                                               | 3 (0.8)                     | 2 (1.1)                            |
+| Musculoskeletal stiffness                                                                                                                      | 3 (0.8)                     | 0                                  |
+| Rigors                                                                                                                                         | 1 (0.3)                     | 0                                  |
+| Motor dysfunction                                                                                                                              | 1 (0.3)                     | 0                                  |
 
 ## Reporting of suspected adverse reactions
 
@@ -991,16 +984,24 @@ ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried F
 
 Table 6
 
-| Dementia associated with Parkinson's Disease                         | ADAS-Cog Rivastigmine                 | ADAS-Cog Placebo                           | ADAS-Cog Rivastigmine                  | ADAS-Cog Placebo                       |
-|----------------------------------------------------------------------|---------------------------------------|--------------------------------------------|----------------------------------------|----------------------------------------|
-|                                                                      | Patients with visual hallucinations   | Patients with visual hallucinations        | Patients without visual hallucinations | Patients without visual hallucinations |
-| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD | (n=107) 25.4 ± 9.9 1.0 ± 9.2          | (n=60) 27.4 ± 10.4 -2.1 ± 8.3              | (n=220) 23.1 ± 10.4 2.6 ± 7.6          | (n=101) 22.5 ± 10.1 0.1 ± 6.9          |
-| Adjusted treatment difference p-value versus placebo                 | 4.27 1 0.002 1                        | 4.27 1 0.002 1                             | 2.09 1 0.015 1                         | 2.09 1 0.015 1                         |
-| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD | dementia (n=87) 32.6 ± 10.4 2.6 ± 9.4 | (MMSE 10-17) (n=44) 33.7 ± 10.3 -1.8 ± 7.2 | (MMSE (n=237) 20.6 ± 7.9 1.9 ± 7.7     | 18-24) (n=115) 20.7 ± 7.9 -0.2 ± 7.5   |
-| Adjusted treatment difference p-value versus                         | 4.73 1                                | 4.73 1                                     | 2.14 1 1                               | 2.14 1 1                               |
-| placebo                                                              | 0.002 1                               | 0.002 1                                    | 0.010                                  | 0.010                                  |
+| Dementia associated with Parkinson's Disease                         | ADAS-Cog Rivastigmine               | ADAS-Cog Placebo                    | ADAS-Cog Rivastigmine                  | ADAS-Cog Placebo                       | ADAS-Cog Placebo                       | ADAS-Cog Placebo                       |
+|----------------------------------------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+|                                                                      | Patients with visual hallucinations | Patients with visual hallucinations | Patients without visual hallucinations | Patients without visual hallucinations | Patients without visual hallucinations | Patients without visual hallucinations |
+| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD | (n=107) 25.4 ± 9.9 1.0 ± 9.2        | (n=60) 27.4 ± 10.4 -2.1 ± 8.3       | (n=220) 23.1 ± 10.4 2.6 ± 7.6          | (n=101) 22.5 ± 10.1 0.1 ± 6.9          | (n=101) 22.5 ± 10.1 0.1 ± 6.9          | (n=101) 22.5 ± 10.1 0.1 ± 6.9          |
+| Adjusted treatment difference p-value versus                         | 4.27 0.002                          |                                     | 2.09 1 0.015                           |                                        |                                        |                                        |
+| placebo                                                              | 1                                   |                                     |                                        |                                        |                                        |                                        |
+|                                                                      | 1 with moderate                     | 1 with moderate                     | 1 with mild dementia (MMSE 18-24)      | 1 with mild dementia (MMSE 18-24)      | 1 with mild dementia (MMSE 18-24)      | 1 with mild dementia (MMSE 18-24)      |
+|                                                                      | Patients dementia (MMSE 10-17)      | Patients dementia (MMSE 10-17)      | Patients                               | Patients                               | Patients                               | Patients                               |
+| ITT + RDO population Mean baseline ± SD Mean change at               | (n=87) 32.6 ± 10.4                  | (n=44) 33.7 ± 10.3 -1.8 ± 7.2       | (n=237) 20.6 ± 7.9 1.9 ± 7.7           | (n=115) 20.7 ± 7.9 -0.2 ± 7.5          | (n=115) 20.7 ± 7.9 -0.2 ± 7.5          | (n=115) 20.7 ± 7.9 -0.2 ± 7.5          |
+| 24 weeks ± SD Adjusted treatment                                     |                                     |                                     |                                        |                                        |                                        |                                        |
+| difference                                                           | 2.6 ± 9.4                           |                                     |                                        |                                        |                                        |                                        |
+|                                                                      | 4.73 1                              |                                     |                                        |                                        |                                        |                                        |
+|                                                                      | 1                                   |                                     |                                        |                                        |                                        |                                        |
+| p-value versus placebo                                               |                                     |                                     | 2.14 1 1                               | 2.14 1 1                               | 2.14 1 1                               | 2.14 1 1                               |
+|                                                                      |                                     |                                     | 0.010                                  | 0.010                                  | 0.010                                  | 0.010                                  |
+|                                                                      | 0.002                               | 0.002                               |                                        |                                        |                                        |                                        |
 
-1 Based on ANCOVA with treatment and country as factors and baseline ADAS-Cog as a covariate. A positive change indicates improvement.
+1  Based on ANCOVA with treatment and country as factors and baseline ADAS-Cog as a covariate. A positive change indicates improvement.
 
 ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 
@@ -1018,7 +1019,7 @@ Protein binding of rivastigmine is approximately 40%. It readily crosses the blo
 
 ## Biotransformation
 
-Rivastigmine is rapidly and extensively metabolised (half-life in plasma approximately 1 hour), primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite. In vitro , this metabolite shows minimal inhibition of acetylcholinesterase (&lt; 10%).
+Rivastigmine is rapidly and extensively metabolised (half-life in plasma approximately 1 hour), primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite. In vitro , this metabolite shows minimal inhibition of acetylcholinesterase (&lt;10%).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1193,11 +1194,11 @@ Each capsule contains 1.5 mg of rivastigmine (as hydrogen tartrate).
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-28 hard capsules
+- 28 hard capsules
 
 56 hard capsules
 
-112 hard capsules
+- 112 hard capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1221,7 +1222,7 @@ EXP
 
 Do not store above 30°C.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1251,7 +1252,7 @@ Medicinal product subject to medical prescription.
 
 ## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Rivastigmine HEXAL 1.5 mg
 
@@ -1306,8 +1307,8 @@ Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 
 Rivastigmine HEXAL 3 mg hard capsules rivastigmine
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 HEXAL AG
 
@@ -1372,11 +1373,19 @@ EXP
 
 Do not store above 30°C.
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-HEXAL AG Industriestraße 25 83607 Holzkirchen Germany
+HEXAL AG
+
+Industriestraße 25
+
+83607 Holzkirchen
+
+Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1396,7 +1405,7 @@ Medicinal product subject to medical prescription.
 
 ## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Rivastigmine HEXAL 4.5 mg
 
@@ -1410,25 +1419,23 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| ALU/PVC BLISTER                                     |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| ALU/PVC BLISTER                                       |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Rivastigmine HEXAL 4.5 mg hard capsules
 
 rivastigmine
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 HEXAL AG
 
@@ -1497,7 +1504,7 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1555,8 +1562,8 @@ Rivastigmine HEXAL 6 mg hard capsules
 
 rivastigmine
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 HEXAL AG
 
@@ -1597,7 +1604,9 @@ Contains sodium benzoate (E 211). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-50 ml oral solution 120 ml oral solution
+50 ml oral solution
+
+120 ml oral solution
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1610,7 +1619,8 @@ Oral use.
 Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-8. EXPIRY DATE
+
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1627,7 +1637,7 @@ Do not store above 30°C. Do not refrigerate or freeze. Store in an upright posi
 
 HEXAL AG Industriestraße 25 83607 Holzkirchen Germany
 
-12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/09/589/017
 
@@ -1656,7 +1666,9 @@ Only for carton box:
 
 Only for carton box:
 
-PC SN
+PC
+
+SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1666,16 +1678,14 @@ PC SN
 
 <div style=\"page-break-after: always\"></div>
 
-Rivastigmine HEXAL 1.5 mg hard capsules Rivastigmine HEXAL 3 mg hard capsules Rivastigmine HEXAL 4.5 mg hard capsules Rivastigmine HEXAL 6 mg hard capsules
-
-rivastigmine
+Rivastigmine HEXAL 1.5 mg hard capsules Rivastigmine HEXAL 3 mg hard capsules Rivastigmine HEXAL 4.5 mg hard capsules Rivastigmine HEXAL 6 mg hard capsules rivastigmine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only . Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only . Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1700,8 +1710,8 @@ Rivastigmine HEXAL is used for the treatment of adult patients with mild to mode
 
 ## Do not take Rivastigmine HEXAL
 
-- -if you are allergic to rivastigmine (the active substance in Rivastigmine HEXAL) or any of the other ingredients of this medicine (listed in section 6).
-- -if you have had a previous skin reaction suggestive of allergic contact dermatitis with rivastigmine.
+- if you are allergic to rivastigmine (the active substance in Rivastigmine HEXAL) or any of the other ingredients of this medicine (listed in section 6).
+- if you have had a previous skin reaction suggestive of allergic contact dermatitis with rivastigmine.
 
 If this applies to you, tell your doctor and do not take Rivastigmine HEXAL.
 
@@ -1711,16 +1721,16 @@ If this applies to you, tell your doctor and do not take Rivastigmine HEXAL.
 
 Talk to your doctor before taking Rivastigmine HEXAL
 
-- -if you have, or have ever had, a heart condition such as an irregular or slow heartbeat, QTc prolongation, a family history of QTc prolongation, torsade de pointes, or have a low blood level of potassium or magnesium.
-- -if you have, or have ever had, an active stomach ulcer.
-- -if you have, or have ever had, difficulties in passing urine.
-- -if you have, or have ever had, seizures.
-- -if you have, or have ever had, asthma or severe respiratory disease.
-- -if you have, or have ever had impaired kidney function.
-- -if you have, or have ever had, impaired liver function.
-- -if you suffer from trembling.
-- -if you have a low body weight.
-- -if you have gastrointestinal reactions such as feeling sick (nausea), being sick (vomiting) and diarrhoea. You may become dehydrated (losing too much fluid) if vomiting or diarrhoea are prolonged.
+- if you have, or have ever had, a heart condition such as an irregular or slow heartbeat, QTc prolongation, a family history of QTc prolongation, torsade de pointes, or have a low blood level of potassium or magnesium.
+- if you have, or have ever had, an active stomach ulcer.
+- if you have, or have ever had, difficulties in passing urine.
+- if you have, or have ever had, seizures.
+- if you have, or have ever had, asthma or severe respiratory disease.
+- if you have, or have ever had impaired kidney function.
+- if you have, or have ever had, impaired liver function.
+- if you suffer from trembling.
+- if you have a low body weight.
+- if you have gastrointestinal reactions such as feeling sick (nausea), being sick (vomiting) and diarrhoea. You may become dehydrated (losing too much fluid) if vomiting or diarrhoea are prolonged.
 
 If any of these apply to you, your doctor may need to monitor you more closely while you are on this medicine.
 
@@ -1885,7 +1895,7 @@ These patients have some side effects more often. They also have some additional
 -  Uneven heartbeat and poor control of movements
 -  Low blood pressure
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
 -  Pisa syndrome (a condition involving involuntary muscle contraction with abnormal bending of the body and head to one side)
 -  Skin rash
@@ -1930,8 +1940,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Rivastigmine HEXAL contains
 
-- -The active substance is rivastigmine.
-- -The other ingredients are: hypromellose, magnesium stearate, microcrystalline cellulose, colloidal anhydrous silica, gelatin, yellow iron oxide red iron oxide, titanium dioxide, and shellac.
+- The active substance is rivastigmine.
+- The other ingredients are: hypromellose, magnesium stearate, microcrystalline cellulose, colloidal anhydrous silica, gelatin, yellow iron oxide red iron oxide, titanium dioxide, and shellac.
 
 Each Rivastigmine HEXAL 1.5 mg capsule contains 1.5 mg of rivastigmine.
 
@@ -1943,10 +1953,10 @@ Each Rivastigmine HEXAL 6 mg capsule contains 6 mg of rivastigmine.
 
 ## What Rivastigmine HEXAL looks like and contents of the pack
 
-- -Rivastigmine HEXAL 1.5 mg hard capsules, which contain an off-white to slightly yellow powder, have a yellow cap and yellow body, with a red imprint 'RIV 1.5 mg' on the body.
-- -Rivastigmine HEXAL 3 mg hard capsules, which contain an off-white to slightly yellow powder, have an orange cap and orange body, with a red imprint 'RIV 3 mg' on the body.
-- -Rivastigmine HEXAL 4.5 mg hard capsules, which contain an off-white to slightly yellow powder, have a red cap and red body, with a white imprint 'RIV 4.5 mg' on the body.
-- -Rivastigmine HEXAL 6 mg hard capsules, which contain an off-white to slightly yellow powder, have a red cap and orange body, with a red imprint 'RIV 6 mg' on the body.
+- Rivastigmine HEXAL 1.5 mg hard capsules, which contain an off-white to slightly yellow powder, have a yellow cap and yellow body, with a red imprint 'RIV 1.5 mg' on the body.
+- Rivastigmine HEXAL 3 mg hard capsules, which contain an off-white to slightly yellow powder, have an orange cap and orange body, with a red imprint 'RIV 3 mg' on the body.
+- Rivastigmine HEXAL 4.5 mg hard capsules, which contain an off-white to slightly yellow powder, have a red cap and red body, with a white imprint 'RIV 4.5 mg' on the body.
+- Rivastigmine HEXAL 6 mg hard capsules, which contain an off-white to slightly yellow powder, have a red cap and orange body, with a red imprint 'RIV 6 mg' on the body.
 
 They are packed in blisters available in three different pack sizes (28, 56 or 112 capsules) but these may not all be available in your country.
 
@@ -1974,9 +1984,7 @@ Tél/Tel.: + 32 2 722  97 97
 
 Сандоз България КЧТ
 
-Te
-
-л.: + 359 2 970 47 47
+Teл.: + 359 2 970 47 47
 
 ## Česká republika
 
@@ -1986,7 +1994,9 @@ Tel: +420 234 142 222
 
 ## Danmark
 
-Sandoz A/S Tlf.: + 45 63 95 10 00
+Sandoz A/S
+
+Tlf.: + 45 63 95 10 00
 
 ## Deutschland
 
@@ -2006,17 +2016,15 @@ Tel: +372 6652400
 
 SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ
 
-Α . Ε
+Α.Ε.
 
-.
-
-Τηλ
-
-: +30 216 600 5000
+Τηλ: +30 216 600 5000
 
 ## España
 
-Sandoz Farmacéutica, S.A Centro Empresarial Parque Norte, Edificio Roble C/ Serrano Galvache Nº 56, 28033 Madrid
+Sandoz Farmacéutica, S.A Centro Empresarial Parque Norte, Edificio Roble C/ Serrano Galvache Nº 56,
+
+28033 Madrid
 
 Tel: +34 900 456 856
 
@@ -2030,7 +2038,13 @@ Tél/Tel: + 32 2 722 97 97
 
 ## Magyarország
 
-Sandoz Hungária Kft.k Bartók Béla út 43-47 H-1114 Budapest Tel.: + 36 1 430 2890 E-mail: info.hungary@sandoz.com
+Sandoz Hungária Kft.k
+
+Bartók Béla út 43-47 H-1114 Budapest
+
+Tel.: + 36 1 430 2890
+
+E-mail: info.hungary@sandoz.com
 
 ## Malta
 
@@ -2062,13 +2076,17 @@ Sandoz Farmacêutica Lda.
 
 Tel: +351 21 196 40 00
 
-<div style=\"page-break-after: always\"></div>
-
 ## France
 
 Sandoz SAS
 
 Tél: + 33 1 49 64 48 00
+
+## România
+
+Sandoz Pharmaceuticals SRL
+
+Tel: +40 21 407 51 60
 
 ## Ireland
 
@@ -2078,17 +2096,35 @@ Tel: +353 27 50077
 
 Email: patient.safety.ireland@sandoz.net
 
+## Slovenija
+
+Lek Pharmaceuticals d.d. Verovškova 57 SI-1526 Ljubljana
+
+Tel: + 386 1 5802111
+
+E-mail: info.lek@sandoz.com
+
 ## Ísland
 
 Sandoz A/S
 
 Simi: + 45 63 95 10 00
 
+## Slovenská republika
+
+Sandoz d.d. - organizačná zložka Žižkova 22B SK-811 02 Bratislava Tel: +421 2 48 200 600
+
 ## Italia
 
 Sandoz  S.p.A.
 
 Tel: + 39 02 812 806 96
+
+## Suomi/Finland
+
+Sandoz A/S
+
+Puh/Tel: + 358 10 6133 400
 
 ## Κύπρος
 
@@ -2098,49 +2134,19 @@ SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
 
 Τηλ: +30 216 600 5000
 
-## Latvija
-
-- 29
-
-Sandoz d.d. Latvia filiāle K.Valdemāra Str. 33 LV-1010 Riga Tel: + 371 67892006
-
-## Lietuva
-
-Sandoz Pharmaceuticals d.d. filialas Tel: + 370 5 2636037
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency (EMA) website: http://www.ema.europa.eu/
-
-## România
-
-Sandoz Pharmaceuticals SRL
-
-Tel: +40 21 407 51 60
-
-## Slovenija
-
-Lek Pharmaceuticals d.d. Verovškova 57 SI-1526 Ljubljana
-
-Tel: + 386 1 5802111
-
-E-mail: info.lek@sandoz.com
-
-## Slovenská republika
-
-Sandoz d.d. organizačná zložka Žižkova 22B SK-811 02 Bratislava Tel: +421 2 48 200 600
-
-## Suomi/Finland
-
-Sandoz A/S
-
-Puh/Tel: + 358 10 6133 400
-
 ## Sverige
 
 Sandoz A/S
 
 Tel: + 45 63 95 10 00
+
+## Latvija
+
+Sandoz d.d. Latvia filiāle K.Valdemāra Str. 33 - 29 LV-1010 Riga Tel: + 371 67892006
+
+## Lietuva
+
+Sandoz Pharmaceuticals d.d. filialas Tel: + 370 5 2636037
 
 ## Hrvatska
 
@@ -2152,16 +2158,22 @@ E-mail: upit.croatia@sandoz.com
 
 <div style=\"page-break-after: always\"></div>
 
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency (EMA) website: http://www.ema.europa.eu/
+
+<div style=\"page-break-after: always\"></div>
+
 ## Package leaflet: Information for the patient
 
 ## Rivastigmine HEXAL 2 mg/ml oral solution rivastigmine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects , talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects , talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4
 
 ## What is in this leaflet
 
@@ -2178,7 +2190,9 @@ The active substance of Rivastigmine HEXAL is rivastigmine.
 
 Rivastigmine belongs to a class of substances called cholinesterase inhibitors.
 
-In patients with Alzheimer's dementia or dementia due to Parkinson's disease, certain nerve cells die in the brain, resulting in low levels of the neurotransmitter acetylcholine (a substance that allows nerve cells to communicate with each other). Rivastigmine works by blocking the enzymes that break down acetylcholine: acetylcholinesterase and butyrylcholinesterase. By blocking these enzymes, Rivastigmine HEXAL allows levels of acetylcholine to be increased in the brain, helping to reduce the symptoms of Alzheimer's disease and dementia associated with Parkinson's disease.
+In patients with Alzheimer's dementia or dementia due to Parkinson's disease, certain nerve cells die in the brain, resulting in low levels of the neurotransmitter acetylcholine (a substance that allows nerve cells to communicate with each other). Rivastigmine works by blocking the enzymes that break down acetylcholine: acetylcholinesterase and butyrylcholinesterase. By blocking these enzymes,
+
+Rivastigmine HEXAL allows levels of acetylcholine to be increased in the brain, helping to reduce the symptoms of Alzheimer's disease and dementia associated with Parkinson's disease.
 
 Rivastigmine HEXAL is used for the treatment of adult patients with mild to moderately severe Alzheimer's dementia, a progressive brain disorder that gradually affects memory, intellectual ability and behaviour. The capsules and oral solution can also be used for the treatment of dementia in adult patients with Parkinson's disease.
 
@@ -2186,8 +2200,8 @@ Rivastigmine HEXAL is used for the treatment of adult patients with mild to mode
 
 ## Do not take Rivastigmine HEXAL
 
-- -if you are allergic to rivastigmine (the active substance in Rivastigmine HEXAL) or any of the other ingredients of this medicine (listed in section 6).
-- -if you have had a previous skin reaction suggestive of allergic contact dermatitis with rivastigmine.
+- if you are allergic to rivastigmine (the active substance in Rivastigmine HEXAL) or any of the other ingredients of this medicine (listed in section 6).
+- if you have had a previous skin reaction suggestive of allergic contact dermatitis with rivastigmine.
 
 If this applies to you, tell your doctor and do not take Rivastigmine HEXAL.
 
@@ -2197,16 +2211,16 @@ If this applies to you, tell your doctor and do not take Rivastigmine HEXAL.
 
 Talk to your doctor before taking Rivastigmine HEXAL
 
-- -if you have, or have ever had, a heart condition such as an irregular or slow heartbeat, QTc prolongation, a family history of QTc prolongation, torsade de pointes, or have a low blood level of potassium or magnesium.
-- -if you have, or have ever had, an active stomach ulcer.
-- -if you have, or have ever had, difficulties in passing urine.
-- -if you have, or have ever had, seizures.
-- -if you have, or have ever had, asthma or severe respiratory disease.
-- -if you have, or have ever had impaired kidney function.
-- -if you have, or have ever had impaired liver function.
-- -if you suffer from trembling.
-- -if you have a low body weight.
-- -if you have gastrointestinal reactions such as feeling sick (nausea), being sick (vomiting) and diarrhoea. You may become dehydrated (losing too much fluid) if vomiting or diarrhoea are prolonged.
+- if you have, or have ever had, a heart condition such as an irregular or slow heartbeat, QTc prolongation, a family history of QTc prolongation, torsade de pointes, or have a low blood level of potassium or magnesium.
+- if you have, or have ever had, an active stomach ulcer.
+- if you have, or have ever had, difficulties in passing urine.
+- if you have, or have ever had, seizures.
+- if you have, or have ever had, asthma or severe respiratory disease.
+- if you have, or have ever had impaired kidney function.
+- if you have, or have ever had impaired liver function.
+- if you suffer from trembling.
+- if you have a low body weight.
+- if you have gastrointestinal reactions such as feeling sick (nausea), being sick (vomiting) and diarrhoea. You may become dehydrated (losing too much fluid) if vomiting or diarrhoea are prolonged.
 
 If any of these apply to you, your doctor may need to monitor you more closely while you are on this medicine.
 
@@ -2248,7 +2262,9 @@ Your doctor will tell you whether your illness allows you to drive vehicles and 
 
 This medicine contains 1 mg sodium benzoate in each ml of oral solution.
 
-This medicine contains less than 1 mmol (23 mg) sodium in each ml of oral solution, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol (23 mg) sodium in each ml of oral solution, that is to say
+
+essentially 'sodium-free'.
 
 ## 3. How to take Rivastigmine HEXAL
 
@@ -2393,8 +2409,7 @@ These patients have some side effects more often. They also have some additional
 
 ## Very common (may affect more than 1 in 10 people)
 
-- 
-- Trembling
+-  Trembling
 -  Fainting
 -  Accidentally falling
 
@@ -2435,7 +2450,7 @@ These patients have some side effects more often. They also have some additional
 
 -  Hyperactivity (high level of activity, restlessness)
 
-Not known (frequency cannot be estimated from the available data)
+## Not known (frequency cannot be estimated from the available data)
 
 -  Allergic reaction where the patch was used, such as blisters or skin inflammation
 
@@ -2467,8 +2482,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Rivastigmine HEXAL contains
 
-- -The active substance is rivastigmine. Each ml contains rivastigmine hydrogen tartrate corresponding to rivastigmine base 2.0 mg.
-- -The other ingredients are: sodium benzoate, citric acid, sodium citrate, quinoline yellow WS dye (E104) and purified water. See section 2 'Rivastigmine Hexal contains benzoate salt and sodium'
+- The active substance is rivastigmine. Each ml contains rivastigmine hydrogen tartrate corresponding to rivastigmine base 2.0 mg.
+- The other ingredients are: sodium benzoate, citric acid, sodium citrate, quinoline yellow WS dye (E104) and purified water. See section 2 'Rivastigmine Hexal contains benzoate salt and sodium'
 
 ## What Rivastigmine HEXAL looks like and contents of the pack
 
@@ -2482,7 +2497,9 @@ HEXAL AG Industriestraße 25 D-83607 Holzkirchen Germany
 
 Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
 
-Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes 764, 08013 Barcelona Spain
+Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes 764, 08013 Barcelona
+
+Spain
 
 Salutas Pharma Gmbh Otto-Von-Guericke-Allee 1, Barleben, Saxony-Anhalt, 39179, Germany
 
@@ -2494,7 +2511,9 @@ Tél/Tel,: + 32 2 722  97 97
 
 ## България
 
-Сандоз България КЧТ Te л .: + 359 2 970 47 47
+Сандоз България КЧТ
+
+Teл.: + 359 2 970 47 47
 
 ## Luxembourg/Luxemburg
 
@@ -2534,7 +2553,11 @@ Tel: +372 6652400
 
 ## Ελλάδα
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . Τηλ : +30 216 600 5000
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ
+
+Α.Ε.
+
+Τηλ: +30 216 600 5000
 
 ## España
 
@@ -2578,9 +2601,7 @@ HEXAL Pharma GmbH Jakov-Lind-Straße 5, Top 3.05 A-1020 Wien Tel: + 43 (0)1 486 
 
 ## Polska
 
-Sandoz Polska Sp.z o.o. ul. Domaniewska 50 C PL-02-672 Warszawa
-
-Tel: + 48 22 549 15 00
+Sandoz Polska Sp.z o.o. ul. Domaniewska 50 C PL-02-672 Warszawa Tel: + 48 22 549 15 00
 
 ## Portugal
 
@@ -2598,7 +2619,7 @@ Lek Pharmaceuticals d.d. Verovškova 57 SI-1526 Ljubljana Tel: + 386 1 5802111 E
 
 ## Slovenská republika
 
-Sandoz d.d. organizačná zložka Žižkova 22B SK-811 02 Bratislava Tel: +421 2 48 200 600
+Sandoz d.d. - organizačná zložka Žižkova 22B SK-811 02 Bratislava Tel: +421 2 48 200 600
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2628,7 +2649,9 @@ Tel: + 371 67892006
 
 ## Lietuva
 
-Sandoz Pharmaceuticals d.d. filialas Tel: + 370 5 2636037
+Sandoz Pharmaceuticals d.d. filialas
+
+Tel: + 370 5 2636037
 
 ## This leaflet was last revised in
 

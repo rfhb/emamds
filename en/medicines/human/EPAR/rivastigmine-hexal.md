@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-13 09:41:00
+document_datetime: 2026-08-20 14:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-hexal.html
 document_name: rivastigmine-hexal.html
 version: success
-processing_time: 0.122286
-conversion_datetime: 2026-05-22 22:34:28.548242
+processing_time: 0.1525005
+conversion_datetime: 2026-08-26 10:57:00.284669
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Rivastigmine Hexal
 
@@ -37,7 +37,6 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -53,51 +52,51 @@ Expand section
 
 Collapse section
 
-## What is Rivastigmine Hexal?
+### What is Rivastigmine Hexal?
 
 Rivastigmine Hexal is a medicine containing the active substance rivastigmine. It is available as capsules (yellow: 1.5 mg; orange: 3 mg; red: 4.5 mg; red and orange: 6 mg) and as an oral solution (2 mg/ml).
 
 This medicine is the same as the capsules and oral solution of Exelon, a medicine that is already authorised in the European Union (EU). The company that makes Exelon has agreed that its scientific data can be used for Rivastigmine Hexal ('informed consent').
 
-## What is Rivastigmine Hexal used for?
+### What is Rivastigmine Hexal used for?
 
 Rivastigmine Hexal is used for the treatment of patients with mild to moderately severe Alzheimer's dementia, a progressive brain disorder that gradually affects memory, intellectual ability and behaviour. Rivastigmine Hexal is also used to treat mild to moderately severe dementia in patients with Parkinson's disease.
 
 The medicine can only be obtained with a prescription.
 
-## How is Rivastigmine Hexal used?
+### How is Rivastigmine Hexal used?
 
 Treatment with Rivastigmine Hexal should be initiated and supervised by a doctor who has experience in the diagnosis and treatment of Alzheimer's disease or dementia in patients with Parkinson's disease. Treatment should only be started if a caregiver is available who will regularly monitor the use of Rivastigmine Hexal by the patient. Treatment should continue as long as the medicine has a benefit, but the dose can be reduced or treatment interrupted if the patient has side effects.
 
 Rivastigmine Hexal should be given twice a day, with morning and evening meals. The capsules should be swallowed whole. The starting dose is 1.5 mg twice a day. In patients who tolerate this dose, it can be increased in 1.5-mg steps no more frequently than every two weeks, to a regular dose of 3 to 6 mg twice a day. The highest tolerated dose should be used to get the maximum benefit, but the dose should not exceed 6 mg twice a day.
 
-## How does Rivastigmine Hexal work?
+### How does Rivastigmine Hexal work?
 
 The active substance in Rivastigmine Hexal, rivastigmine, is an antidementia medicine. In patients with Alzheimer's dementia or dementia due to Parkinson's disease, certain nerve cells die in the brain, resulting in low levels of the neurotransmitter acetylcholine (a chemical that allows nerve cells to communicate with each other). Rivastigmine works by blocking the enzymes that break down acetylcholine: acetylcholinesterase and butyrylcholinesterase. By blocking these enzymes, Rivastigmine Hexal allows levels of acetylcholine to be increased in the brain, helping to reduce the symptoms of Alzheimer's dementia and dementia due to Parkinson's disease.
 
-## How has Rivastigmine Hexal been studied?
+### How has Rivastigmine Hexal been studied?
 
 Rivastigmine Hexal has been studied in three main studies involving 2,126 patients with mild to moderately severe Alzheimer's disease. Rivastigmine Hexal was also studied in 541 patients with dementia due to Parkinson's disease. All of the studies lasted six months and compared the effects of Rivastigmine Hexal with those of placebo (a dummy treatment). The main measures of effectiveness were the change in symptoms in two main areas: cognitive (the ability to think, learn and remember) and global (a combination of several areas including general function, cognitive symptoms, behaviour and the ability to carry out everyday activities).
 
 An additional study in 27 patients was used to show that Rivastigmine Hexal capsules and oral solution produced similar levels of the active substance in the blood.
 
-## What is the risk associated with Rivastigmine Hexal?
+### What is the risk associated with Rivastigmine Hexal?
 
 The types of side effects seen with Rivastigmine Hexal depend on the type of dementia it is being used to treat. Overall, the most common side effects include nausea (feeling sick, seen in 38 patients in 100) and vomiting (seen in 23 patients in 100), particularly during the phase when the dose of Rivastigmine Hexal is being increased. For the full list of all side effects reported with Rivastigmine Hexal, see the package leaflet.
 
 Rivastigmine Hexal must not be used in people who are hypersensitive (allergic) to rivastigmine, other carbamate derivatives or any of the other ingredients. It must also not be used in patients who are suspected to have had an allergic reaction called 'allergic contact dermatitis' to the Exelon patch in the past.
 
-## Why has Rivastigmine Hexal been approved?
+### Why has Rivastigmine Hexal been approved?
 
 The Committee for Medicinal Products for Human Use (CHMP) concluded that Rivastigmine Hexal has a modest effectiveness in treating the symptoms of Alzheimer's dementia, although this does reflect an important benefit in some patients. The Committee initially concluded that for the treatment of dementia due to Parkinson's disease, Rivastigmine Hexal's benefits did not outweigh its risks. However, following a re-examination of this opinion, the Committee concluded that the medicine's modest effectiveness could also be of benefit to some patients.
 
 Therefore, the Committee decided that Rivastigmine Hexal's benefits are greater than its risks for the treatment of mild to moderately severe Alzheimer's dementia and mild to moderately severe dementia in patients with idiopathic Parkinson's disease. The Committee recommended that Rivastigmine Hexal be given marketing authorisation.
 
-## Other information about Rivastigmine Hexal:
+### Other information about Rivastigmine Hexal:
 
 The European Commission granted a marketing authorisation valid throughout the EU to Hexal AG for Rivastigmine Hexal on 11 December 2009. The marketing authorisation is valid for five years, after which it can be renewed.
 
-Rivastigmine Hexal  : EPAR - Summary for the public
+Rivastigmine Hexal : EPAR - Summary for the public
 
 English (EN) (76.57 KB - PDF)
 
@@ -105,7 +104,7 @@ English (EN) (76.57 KB - PDF)
 
 [View](/en/documents/overview/rivastigmine-hexal-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-76)
+[Other languages (21)](#file-language-dropdown-337)
 
 български (BG) (105.4 KB - PDF)
 
@@ -137,7 +136,7 @@ Deutsch (DE) (101.32 KB - PDF)
 
 [View](/de/documents/overview/rivastigmine-hexal-epar-summary-public_de.pdf)
 
-eesti keel (ET) (75.95 KB - PDF)
+eesti (ET) (75.95 KB - PDF)
 
 **First published:** 21/12/2009 **Last updated:** 06/02/2013
 
@@ -161,13 +160,13 @@ italiano (IT) (99.89 KB - PDF)
 
 [View](/it/documents/overview/rivastigmine-hexal-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (122.45 KB - PDF)
+latviešu (LV) (122.45 KB - PDF)
 
 **First published:** 21/12/2009 **Last updated:** 06/02/2013
 
 [View](/lv/documents/overview/rivastigmine-hexal-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (123.54 KB - PDF)
+lietuvių (LT) (123.54 KB - PDF)
 
 **First published:** 21/12/2009 **Last updated:** 06/02/2013
 
@@ -221,7 +220,7 @@ slovenščina (SL) (95.13 KB - PDF)
 
 [View](/sl/documents/overview/rivastigmine-hexal-epar-summary-public_sl.pdf)
 
-Suomi (FI) (97.99 KB - PDF)
+suomi (FI) (97.99 KB - PDF)
 
 **First published:** 21/12/2009 **Last updated:** 06/02/2013
 
@@ -237,167 +236,168 @@ svenska (SV) (99.06 KB - PDF)
 
 Rivastigmine Hexal : EPAR - Product Information
 
-English (EN) (478.26 KB - PDF)
+English (EN) (539.96 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/en/documents/product-information/rivastigmine-hexal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-866)
+[Other languages (24)](#file-language-dropdown-302)
 
-български (BG) (616.37 KB - PDF)
+български (BG) (610.64 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/bg/documents/product-information/rivastigmine-hexal-epar-product-information_bg.pdf)
 
-español (ES) (577.92 KB - PDF)
+español (ES) (526.32 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/es/documents/product-information/rivastigmine-hexal-epar-product-information_es.pdf)
 
-čeština (CS) (612.33 KB - PDF)
+čeština (CS) (599.89 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/cs/documents/product-information/rivastigmine-hexal-epar-product-information_cs.pdf)
 
-dansk (DA) (622.67 KB - PDF)
+dansk (DA) (574.95 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/da/documents/product-information/rivastigmine-hexal-epar-product-information_da.pdf)
 
-Deutsch (DE) (597.87 KB - PDF)
+Deutsch (DE) (541.29 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/de/documents/product-information/rivastigmine-hexal-epar-product-information_de.pdf)
 
-eesti keel (ET) (578.12 KB - PDF)
+eesti (ET) (545.6 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/et/documents/product-information/rivastigmine-hexal-epar-product-information_et.pdf)
 
-ελληνικά (EL) (696.96 KB - PDF)
+ελληνικά (EL) (628.52 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/el/documents/product-information/rivastigmine-hexal-epar-product-information_el.pdf)
 
-français (FR) (639.22 KB - PDF)
+français (FR) (609.49 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/fr/documents/product-information/rivastigmine-hexal-epar-product-information_fr.pdf)
 
-hrvatski (HR) (566.93 KB - PDF)
+hrvatski (HR) (542.93 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/hr/documents/product-information/rivastigmine-hexal-epar-product-information_hr.pdf)
 
-íslenska (IS) (580.72 KB - PDF)
+italiano (IT) (557.15 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
-
-[View](/is/documents/product-information/rivastigmine-hexal-epar-product-information_is.pdf)
-
-italiano (IT) (600.23 KB - PDF)
-
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/it/documents/product-information/rivastigmine-hexal-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (632.52 KB - PDF)
+latviešu (LV) (616.38 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/lv/documents/product-information/rivastigmine-hexal-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (662.53 KB - PDF)
+lietuvių (LT) (656.93 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/lt/documents/product-information/rivastigmine-hexal-epar-product-information_lt.pdf)
 
-magyar (HU) (650.84 KB - PDF)
+magyar (HU) (616.68 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/hu/documents/product-information/rivastigmine-hexal-epar-product-information_hu.pdf)
 
-Malti (MT) (691.53 KB - PDF)
+Malti (MT) (665.35 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/mt/documents/product-information/rivastigmine-hexal-epar-product-information_mt.pdf)
 
-Nederlands (NL) (595.99 KB - PDF)
+Nederlands (NL) (538.53 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/nl/documents/product-information/rivastigmine-hexal-epar-product-information_nl.pdf)
 
-norsk (NO) (567.78 KB - PDF)
+polski (PL) (605.44 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
-
-[View](/no/documents/product-information/rivastigmine-hexal-epar-product-information_no.pdf)
-
-polski (PL) (521.04 KB - PDF)
-
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/pl/documents/product-information/rivastigmine-hexal-epar-product-information_pl.pdf)
 
-português (PT) (605.29 KB - PDF)
+português (PT) (530.86 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/pt/documents/product-information/rivastigmine-hexal-epar-product-information_pt.pdf)
 
-română (RO) (583.52 KB - PDF)
+română (RO) (558.17 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/ro/documents/product-information/rivastigmine-hexal-epar-product-information_ro.pdf)
 
-slovenčina (SK) (610.98 KB - PDF)
+slovenčina (SK) (594.5 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/sk/documents/product-information/rivastigmine-hexal-epar-product-information_sk.pdf)
 
-slovenščina (SL) (600.41 KB - PDF)
+slovenščina (SL) (584.49 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/sl/documents/product-information/rivastigmine-hexal-epar-product-information_sl.pdf)
 
-Suomi (FI) (622.22 KB - PDF)
+suomi (FI) (564.49 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/fi/documents/product-information/rivastigmine-hexal-epar-product-information_fi.pdf)
 
-svenska (SV) (620.34 KB - PDF)
+svenska (SV) (563.02 KB - PDF)
 
-**First published:** 21/12/2009 **Last updated:** 13/05/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
 
 [View](/sv/documents/product-information/rivastigmine-hexal-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000301284
+Íslenska (IS) (527.86 KB - PDF)
 
-15/01/2026
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
+
+[View](/is/documents/product-information/rivastigmine-hexal-epar-product-information_is.pdf)
+
+norsk (NO) (517.66 KB - PDF)
+
+**First published:** 21/12/2009 **Last updated:** 20/08/2026
+
+[View](/no/documents/product-information/rivastigmine-hexal-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000368385
+
+19/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -407,7 +407,7 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Rivastigmine Hexal  : EPAR - All Authorised presentations
+Rivastigmine Hexal : EPAR - All Authorised presentations
 
 English (EN) (83.2 KB - PDF)
 
@@ -415,7 +415,7 @@ English (EN) (83.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-809)
+[Other languages (24)](#file-language-dropdown-796)
 
 български (BG) (45.94 KB - PDF)
 
@@ -447,7 +447,7 @@ Deutsch (DE) (20.39 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (20.18 KB - PDF)
+eesti (ET) (20.18 KB - PDF)
 
 **First published:** 21/12/2009 **Last updated:** 21/06/2023
 
@@ -471,25 +471,19 @@ hrvatski (HR) (39.8 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (19.61 KB - PDF)
-
-**First published:** 21/12/2009 **Last updated:** 21/06/2023
-
-[View](/is/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (20 KB - PDF)
 
 **First published:** 21/12/2009 **Last updated:** 21/06/2023
 
 [View](/it/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (42.04 KB - PDF)
+latviešu (LV) (42.04 KB - PDF)
 
 **First published:** 21/12/2009 **Last updated:** 21/06/2023
 
 [View](/lv/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (40.31 KB - PDF)
+lietuvių (LT) (40.31 KB - PDF)
 
 **First published:** 21/12/2009 **Last updated:** 21/06/2023
 
@@ -512,12 +506,6 @@ Nederlands (NL) (20.19 KB - PDF)
 **First published:** 21/12/2009 **Last updated:** 21/06/2023
 
 [View](/nl/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (20.14 KB - PDF)
-
-**First published:** 21/12/2009 **Last updated:** 21/06/2023
-
-[View](/no/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (40.33 KB - PDF)
 
@@ -549,7 +537,7 @@ slovenščina (SL) (53.87 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (20.34 KB - PDF)
+suomi (FI) (20.34 KB - PDF)
 
 **First published:** 21/12/2009 **Last updated:** 21/06/2023
 
@@ -561,29 +549,32 @@ svenska (SV) (19.71 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (19.61 KB - PDF)
+
+**First published:** 21/12/2009 **Last updated:** 21/06/2023
+
+[View](/is/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (20.14 KB - PDF)
+
+**First published:** 21/12/2009 **Last updated:** 21/06/2023
+
+[View](/no/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Rivastigmine Hexal
-
-Active substance
-
-rivastigmine
-
-International non-proprietary name (INN) or common name
-
-rivastigmine
-
-Therapeutic area (MeSH)
-
-- Dementia
-- Alzheimer Disease
-- Parkinson Disease
-
-Anatomical therapeutic chemical (ATC) code
-
-N06DA03
+- **Name of medicine**
+    - Rivastigmine Hexal
+- **Active substance**
+    - rivastigmine
+- **International non-proprietary name (INN) or common name**
+    - rivastigmine
+- **Therapeutic area (MeSH)**
+        - Dementia
+        - Alzheimer Disease
+        - Parkinson Disease
+- **Anatomical therapeutic chemical (ATC) code**
+    - N06DA03
 
 ### Pharmacotherapeutic group
 
@@ -597,23 +588,14 @@ Symptomatic treatment of mild to moderately severe dementia in patients with idi
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/001182
-
-Marketing authorisation holder
-
-Hexal AG
-
-Industriestrasse 25 D-83607 Holzkirchen Germany
-
-Marketing authorisation issued
-
-11/12/2009
-
-Revision
-
-20
+- **EMA product number**
+    - EMEA/H/C/001182
+- **Marketing authorisation holder**
+    - Hexal AG Industriestrasse 25  D-83607 Holzkirchen  Germany
+- **Marketing authorisation issued**
+    - 11/12/2009
+- **Revision**
+    - 21
 
 ## Assessment history
 
@@ -621,17 +603,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Rivastigmine Hexal : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.96 KB - PDF)
+English (EN) (155.2 KB - PDF)
 
-**First published:** 20/01/2025 **Last updated:** 16/01/2026
+**First published:** 20/01/2025 **Last updated:** 20/08/2026
 
 [View](/en/documents/procedural-steps-after/rivastigmine-hexal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-Rivastigmine Hexal  : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+Rivastigmine Hexal : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
 English (EN) (241.26 KB - PDF)
 
@@ -657,11 +639,11 @@ English (EN) (75.51 KB - PDF)
 
 **First published:** 12/01/2016 **Last updated:** 12/01/2016
 
-[View](/en/documents/scientific-conclusion/rivastigmine-hexal-h-c-psusa-00002654-201501-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/rivastigmine-hexal-h-c-psusa-00002654-201501-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
-Rivastigmine Hexal  : EPAR - Public assessment report
+Rivastigmine Hexal : EPAR - Public assessment report
 
 English (EN) (60.75 KB - PDF)
 
@@ -679,12 +661,8 @@ English (EN) (32.38 KB - PDF)
 
 [View](/en/documents/smop-initial/committee-medicinal-products-human-use-summary-positive-opinion-rivastigmine-hexal_en.pdf)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-13/05/2026
+20/08/2026
 
 ## Share this page

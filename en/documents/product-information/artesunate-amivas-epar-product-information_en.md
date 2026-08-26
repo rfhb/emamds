@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-24 11:31:33
+document_datetime: 2026-08-21 10:45:10
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/artesunate-amivas-epar-product-information_en.pdf
 document_name: artesunate-amivas-epar-product-information_en.pdf
 version: success
-processing_time: 5.4824287
-conversion_datetime: 2026-03-25 12:37:26.31611
+processing_time: 5.4189452
+conversion_datetime: 2026-08-26 10:38:05.710243
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,9 +34,9 @@ Artesunate Amivas 110 mg powder and solvent for solution for injection
 
 Each vial of powder contains 110 mg of artesunate.
 
-Each vial of solvent for reconstitution contains 12 mL of 0.3 M sodium phosphate buffer. After reconstitution, the solution for injection contains 10 mg of artesunate per mL.
+After reconstitution, the solution for injection contains 10 mg of artesunate per mL.
 
-Excipient(s) with known effect:
+## Excipient with known effect
 
 After reconstitution, the solution for injection contains 13.4 mg sodium per mL.
 
@@ -44,7 +44,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Powder and solvent for solution for injection
+Powder and solvent for solution for injection.
 
 Powder: white or almost white, fine crystalline powder.
 
@@ -68,13 +68,15 @@ Initial treatment of severe malaria with artesunate should always be followed by
 
 Adults and children (birth to less than 18 years)
 
-The recommended dose is 2.4 mg/kg (0.24 mL of reconstituted solution for injection per kg body weight) by intravenous (IV) injection at 0, 12 and 24 hours (see sections 4.4 and 5.2).
-
-<div style=\"page-break-after: always\"></div>
+The recommended dose is 2.4 mg/kg (0.24 mL of reconstituted solution for injection per kg body weight) by intravenous  injection at 0, 12 and 24 hours (see sections 4.4 and 5.2).
 
 After at least 24 hours (3 doses) treatment with Artesunate Amivas, patients unable to tolerate oral treatment may continue to receive intravenous treatment with 2.4 mg/kg once every 24 hours (from 48 hours after start of treatment).
 
+<div style=\"page-break-after: always\"></div>
+
 Treatment with Artesunate Amivas should be stopped when patients can tolerate oral treatment. After stopping Artesunate Amivas, all patients should receive a complete treatment course of an appropriate oral combination antimalarial regimen.
+
+## Special populations
 
 ## Elderly
 
@@ -94,11 +96,11 @@ No dose adjustment is recommended based on age or weight (see sections 4.4 and 5
 
 ## Method of administration
 
-Artesunate Amivas is for IV administration only. The reconstituted solution should be administered as a slow bolus injection over 1-2 minutes.
+Artesunate Amivas is for intravenous administration only. The reconstituted solution should be administered as a slow bolus injection over 1-2 minutes.
 
 Artesunate Amivas must be reconstituted with the supplied solvent prior to administration. Because of the instability of artesunate in aqueous solutions the reconstituted solution must be used within 1.5 hours of preparation. Therefore, the required dose of artesunate should be calculated (dose in mg = patient's weight in kg x 2.4) and the number of vials of artesunate needed should be determined prior to reconstituting the artesunate powder.
 
-For instructions on reconstitution of the medicinal product before administration, see section 6.6.
+For instructions on reconstitution of the medicinal product before administration, see section 6.6. Post reconstitution the medicinal product should be a clear colourless solution with no visible particles.
 
 ## 4.3 Contraindications
 
@@ -108,27 +110,33 @@ Hypersensitivity to the active substance, to any other artemisinin antimalarial 
 
 ## Hypersensitivity
 
-Allergic reactions to intravenous artesunate, including anaphylaxis have been reported.  Other reported allergic reactions include urticaria, rash and pruritus (see section 4.8).
+Allergic reactions to intravenous artesunate, including anaphylaxis have been reported. Other reported allergic reactions include urticaria, rash and pruritus (see section 4.8).
 
 ## Post-artesunate delayed haemolysis
 
-Post-artesunate delayed haemolysis (PADH) is characterised by decreased haemoglobin with laboratory evidence of haemolysis (such as decreased haptoglobin and increased lactate dehydrogenase) with onset at least 7 days and sometimes several weeks after initiating artesunate treatment. PADH has been reported to occur very commonly after successful treatment of severe malaria that commenced with IV artesunate in returning travellers. The risk of PADH may be highest in patients with hyperparasitaemia and in younger children. Patients should be monitored for evidence of haemolytic anaemia for 4 weeks after starting artesunate treatment. Spontaneous recovery from PADH usually occurs within a few weeks. However, cases of post-artesunate haemolytic anaemia
+Post-artesunate delayed haemolysis (PADH) is characterised by decreased haemoglobin with laboratory evidence of haemolysis (such as decreased haptoglobin and increased lactate dehydrogenase) with onset at least 7 days and sometimes several weeks after initiating artesunate treatment. PADH has been reported to occur very commonly after successful treatment of severe malaria that commenced with intravenous artesunate in returning travellers. The risk of PADH may be highest in patients with hyperparasitaemia and in younger children. Patients should be monitored for evidence of haemolytic anaemia for 4 weeks after starting artesunate treatment. Spontaneous recovery from PADH usually occurs within a few weeks. However, cases of post-artesunate haemolytic anaemia severe enough to require transfusion have been reported. Since a subset of patients with delayed haemolysis after artesunate therapy have evidence of immune haemolytic anaemia, performing a direct antiglobulin test should be considered to determine if therapy, e.g. with corticosteroids, is necessary. See section 4.8.
 
 <div style=\"page-break-after: always\"></div>
 
-severe enough to require transfusion have been reported. Since a subset of patients with delayed haemolysis after artesunate therapy have evidence of immune haemolytic anaemia, performing a direct antiglobulin test should be considered to determine if therapy, e.g. with corticosteroids, is necessary. See section 4.8.
-
 ## Reticulocytopenia
 
-The artemisinins have shown direct inhibitory effects on human erythroid precursors in vitro and inhibit bone marrow responses (especially red blood cell precursors) in animal models. Both animal preclinical data and human data from clinical trials have suggested that reversible reticulocytopenia occurs at least commonly in association with treatment with intravenous artesunate (see section 4.8). The reticulocyte count recovers after cessation of treatment.
+The artemisinins have shown direct inhibitory effects on human erythroid precursors invitro and inhibit bone marrow responses (especially red blood cell precursors) in animal models. Both animal preclinical data and human data from clinical trials have suggested that reversible reticulocytopenia occurs at least commonly in association with treatment with intravenous artesunate (see section 4.8). The reticulocyte count recovers after cessation of treatment.
 
 ## Malaria due to Plasmodium vivax, Plasmodium malariae or Plasmodium ovale
 
 Artesunate Amivas has not been evaluated in the treatment of severe malaria due to Plasmodium vivax, Plasmodium malariae or Plasmodium ovale. Available data indicates that it is effective against all Plasmodium species (see section 5.1). It does not treat the hypnozoite liver stage forms of Plasmodium and will therefore not prevent relapses of malaria due to Plasmodium vivax or Plasmodium ovale . Patients treated initially with artesunate for severe malaria due to P. vivax or P. ovale should receive an antimalarial agent that is active against the hypnozoite liver stage forms of Plasmodium .
 
+Co-administration of intravenous artesunate with strong inhibitors of UGT enzymes (e.g. axitinib, vandetanib, imatinib, diclofenac) may increase plasma exposures to DHA. Co-administration should be avoided if possible (see section 4.5).
+
+Co-administration of Artesunate Amivas with UGT inducers (e.g. nevirapine, ritonavir, rifampicin, carbamazepine, phenytoin) may decrease DHA exposures, leading to a reduction in, or loss of, efficacy. Co-administration should be avoided (see section 4.5).
+
+## Pregnancy
+
+The use of Artesunate Amivas in the first trimester is not recommended unless the benefit to the mother outweighs the risk to the fetus (see section 4.6).
+
 ## Infants aged less than 6 months
 
-There are insufficient clinical data to establish the safety and efficacy of Artesunate Amivas in infants below 6 months of age. Pharmacokinetic modelling and simulations indicate that after 2.4 mg/kg IV artesunate the dihydroartemisinin (DHA) plasma exposures in infants aged less than 6 months are likely to be higher than those in older infants and children (see section 5.2).
+There are insufficient clinical data to establish the safety and efficacy of Artesunate Amivas in infants below 6 months of age. Pharmacokinetic modelling and simulations indicate that after 2.4 mg/kg intravenous artesunate the dihydroartemisinin (DHA) plasma exposures in infants aged less than 6 months are likely to be higher than those in older infants and children (see section 5.2).
 
 ## Elderly
 
@@ -138,6 +146,8 @@ There are insufficient clinical data to establish the safety and efficacy of int
 
 This medicinal product contains 193 mg sodium per the recommended single dose for a 60 kg adult, equivalent to 9.6 % of the WHO recommended maximum daily intake of 2 g sodium for an adult. As the first and second doses are recommended 12 hours apart, on days when two doses are given in a 24 hour period, then the dose would be 386 mg sodium per day, equivalent to 19.2 % of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No clinical drug-drug interactions studies have been conducted with Artesunate Amivas.
@@ -146,15 +156,13 @@ No clinical drug-drug interactions studies have been conducted with Artesunate A
 
 After intravenous administration, artesunate is converted to DHA by esterases and by CYP2A6.  DHA is converted to inactive glucuronide conjugates primarily by UGT1A9.
 
-<div style=\"page-break-after: always\"></div>
+Co-administration of intravenous artesunate with strong inhibitors of UGT enzymes (e.g. axitinib, vandetanib, imatinib, diclofenac) may increase plasma exposures to DHA. Co-administration should be avoided if possible (see section 4.4).
 
-Co-administration of intravenous artesunate with strong inhibitors of UGT enzymes (e.g. axitinib, vandetanib, imatinib, diclofenac) may increase plasma exposures to DHA. Co-administration should be avoided if possible.
-
-Co-administration of Artesunate Amivas with UGT inducers (e.g. nevirapine, ritonavir, rifampicin, carbamazepine, phenytoin) may decrease DHA exposures, leading to a reduction in, or loss of, efficacy. Co-administration should be avoided.
+Co-administration of Artesunate Amivas with UGT inducers (e.g. nevirapine, ritonavir, rifampicin, carbamazepine, phenytoin) may decrease DHA exposures, leading to a reduction in, or loss of, efficacy. Co-administration should be avoided (see section 4.4).
 
 ## Effect of artesunate and/or DHA on other medicinal products
 
-Limited data from in-vitro studies and from clinical drug-drug interaction studies with oral artesunate and/or oral DHA have indicated that DHA induces CYP3A and inhibits CYP1A2. Caution is advised when co-administering intravenous artesunate with substrates of CYP3A4 or CYP1A2 that have narrow therapeutic windows.
+Limited data from in vitro studies and from clinical drug-drug interaction studies with oral artesunate and/or oral DHA have indicated that DHA induces CYP3A and inhibits CYP1A2. Caution is advised when co-administering intravenous artesunate with substrates of CYP3A4 or CYP1A2 that have narrow therapeutic windows.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -162,7 +170,7 @@ Limited data from in-vitro studies and from clinical drug-drug interaction studi
 
 There is limited clinical experience with the use of Artesunate Amivas in the first trimester of pregnancy. A risk to the fetus cannot be excluded. Animal studies have shown reproductive toxicity (see section 5.3). The use of Artesunate Amivas in the first trimester is therefore not recommended unless the benefit to the mother outweighs the risk to the fetus.
 
-A moderate amount of clinical data on pregnant women (between 300-1000 pregnancy outcomes) indicate no malformative or feto/neonatal toxicity of artesunate when given IV in their second or third trimester. As a precautionary measure, it is preferable to avoid the use of Artesunate Amivas during the second or third trimester of pregnancy.
+A moderate amount of clinical data on pregnant women (between 300-1000 pregnancy outcomes) indicate no malformative or feto/neonatal toxicity of artesunate when given intravenous in their second or third trimester. As a precautionary measure, it is preferable to avoid the use of Artesunate Amivas during the second or third trimester of pregnancy.
 
 ## Pregnancy registry
 
@@ -178,51 +186,49 @@ No fertility data are available in humans.
 
 Animal studies have reported effects on the male reproductive organs, however studies on female rats show no effect on fertility (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
-No studies on the effects on the ability to drive and use machines have been performed. Patients should be warned not to drive or use machines if they feel tired or dizzy.
-
-<div style=\"page-break-after: always\"></div>
+No studies on the effects on the ability to drive and use machines have been performed. Dizziness is common undesirable effect with Artesunate Amivas which may have a moderate influence on a patient's ability to drive and use machines. Patients should be warned not to drive or use machines if they feel tired or dizzy.
 
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The most common adverse drug reaction reported in clinical trials has been anaemia. While anaemia occurs very commonly in patients with severe malaria as a result of the disease and effective treatment, anaemia that was not dose-related was also reported in healthy subjects in clinical pharmacology studies with IV artesunate.
+The most common adverse drug reaction reported in clinical trials has been anaemia. While anaemia occurs very commonly in patients with severe malaria as a result of the disease and effective treatment, anaemia that was not dose-related was also reported in healthy subjects in clinical pharmacology studies with intravenous artesunate.
 
-Post-Artesunate Delayed Haemolysis (PADH) has been reported very commonly following effective treatment of severe malaria with IV artesunate in travellers and in children (see section 4.4).
+Post-Artesunate Delayed Haemolysis (PADH) has been reported very commonly following effective treatment of severe malaria with intravenous artesunate in travellers and in children (see section 4.4).
 
-Reticulocytopenia that resolves after completion of treatment with IV artesunate occurs commonly or very commonly (see section 4.4).
+Reticulocytopenia that resolves after completion of treatment with intravenous artesunate occurs commonly or very commonly (see section 4.4).
 
 ## Tabulated list of adverse reactions
 
-Adverse events considered at least possibly related to artesunate are listed below by body system, organ class and absolute frequency. Frequencies are defined as very common (≥ 1/10), common (1/100-1/10), uncommon (1/1000-1/100) and unknown (frequency cannot be determined) (Table 1).
+Adverse events considered at least possibly related to artesunate are listed below by body system, organ class and absolute frequency. Frequencies are defined as very common (≥ 1/10), common (1/100-1/10), uncommon (1/1 000-1/100) and unknown (frequency cannot be determined) (Table 1).
 
-| Table 1. Summary of Organ Systems    | adverse drug reactions Very Common                                    | by organ system Common              | and frequency Uncommon     | Not known                      |
-|--------------------------------------|-----------------------------------------------------------------------|-------------------------------------|----------------------------|--------------------------------|
-| Infections and Infestations          |                                                                       | Rhinitis                            |                            |                                |
-| Blood and Lymphatic System Disorders | Anaemia Reduced reticulocyte count Post-artesunate delayed haemolysis |                                     |                            | Immune haemolytic anaemia      |
-| Metabolism And Nutrition Disorders   |                                                                       |                                     | Anorexia                   |                                |
-| Nervous System Disorders             |                                                                       | Dizziness, Dysgeusia, Headache      |                            |                                |
-| Cardiac Disorders                    |                                                                       | Bradycardia                         |                            | Electrocardiogram QT prolonged |
-| Vascular Disorders                   |                                                                       | Hypotension, Phlebitis              | Flushing                   |                                |
-| Respiratory, Thoracic and            |                                                                       | Cough                               |                            |                                |
-| Mediastinal Disorders                |                                                                       |                                     |                            |                                |
-| Gastrointestinal                     |                                                                       |                                     |                            |                                |
-| Disorders                            |                                                                       | Abdominal Pain, Diarrhoea, Vomiting | Nausea, Constipation       |                                |
-| Hepatobiliary Disorders              |                                                                       | Hyperbilirubinaemia Jaundice        |                            |                                |
-| Skin and Subcutaneous                |                                                                       |                                     |                            |                                |
-|                                      |                                                                       |                                     | Stevens- Johnson Syndrome, |                                |
-| Tissue Disorders                     |                                                                       |                                     | Pruritus, Rash, Urticaria  |                                |
+Table 1. Summary of adverse drug reactions by organ system and frequency
+
+| Organ Systems                                   | Very common                                                           | Common                              | Uncommon             | Not known                      |
+|-------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------|----------------------|--------------------------------|
+| Infections and infestations                     |                                                                       | Rhinitis                            |                      |                                |
+| Blood and lymphatic system disorders            | Anaemia Reduced reticulocyte count Post-artesunate delayed haemolysis |                                     |                      | Immune haemolytic anaemia      |
+| Immune system disorders                         |                                                                       |                                     |                      | Anaphylaxis                    |
+| Metabolism and nutrition disorders              |                                                                       |                                     | Anorexia             |                                |
+| Nervous system disorders                        |                                                                       | Dizziness, Dysgeusia, Headache      |                      |                                |
+| Cardiac disorders                               |                                                                       | Bradycardia                         |                      | Electrocardiogram QT prolonged |
+| Vascular disorders                              |                                                                       | Hypotension, Phlebitis              | Flushing             |                                |
+| Respiratory, thoracic and mediastinal disorders |                                                                       | Cough                               |                      |                                |
+| Gastrointestinal disorders                      |                                                                       | Abdominal Pain, Diarrhoea, Vomiting | Nausea, Constipation |                                |
+| Hepatobiliary disorders                         |                                                                       | Hyperbilirubinaemia Jaundice        |                      |                                |
 
 <div style=\"page-break-after: always\"></div>
 
-| Organ Systems                                        | Very Common   | Common                              | Uncommon                        | Not known   |
-|------------------------------------------------------|---------------|-------------------------------------|---------------------------------|-------------|
-| Renal and Urinary Disorders                          |               | Haemoglobinuria Acute renal failure |                                 |             |
-| General Disorders and Administration Site Conditions |               | Pyrexia                             | Fatigue, Pain at injection site |             |
-| Immune System Disorders                              |               |                                     |                                 | Anaphylaxis |
-| Investigations                                       |               | ALT increased, AST increased        |                                 |             |
+| Organ Systems                                        | Very common   | Common                              | Uncommon                                             | Not known   |
+|------------------------------------------------------|---------------|-------------------------------------|------------------------------------------------------|-------------|
+| Skin and subcutaneous tissue disorders               |               |                                     | Stevens- Johnson Syndrome, Pruritus, Rash, Urticaria |             |
+| Renal and urinary disorders                          |               | Haemoglobinuria Acute renal failure |                                                      |             |
+| General disorders and administration site conditions |               | Pyrexia                             | Fatigue, Pain at injection site                      |             |
+| Investigations                                       |               | ALT increased, AST increased        |                                                      |             |
 
 ## Reporting of suspected adverse reactions
 
@@ -230,7 +236,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-In cases of suspected overdosage symptomatic and supportive therapy should be given as appropriate.
+In cases of suspected overdose symptomatic and supportive therapy should be given as appropriate.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -242,9 +248,9 @@ Pharmacotherapeutic group: Antiprotozoals, artemisinin and derivatives, ATC code
 
 The antimalarial mechanism of action of artesunate is generally thought to depend upon activation involving iron-mediated cleavage of the endoperoxide bridge of DHA to generate an unstable organic free radical followed by alkylation, where the free radical binds to malarial proteins leading to destruction of parasite membranes.
 
-## In-vitro activity
+## In vitro activity
 
-Available in-vitro data indicate that artesunate 50% inhibitory concentrations (IC50 values) are broadly comparable for P. falciparum and for the other Plasmodium species that cause malaria in humans ( P. vivax, P. ovale, P. malariae, P. knowlesi ).
+Available in vitro data indicate that artesunate 50% inhibitory concentrations (IC50 values) are broadly comparable for P. falciparum and for the other Plasmodium species that cause malaria in humans ( P. vivax, P. ovale, P. malariae, P. knowlesi ).
 
 ## Artemisinin resistance
 
@@ -252,11 +258,13 @@ Decreased susceptibility to artesunate and other artemisinins, manifesting clini
 
 ## Clinical efficacy
 
-In SEAQUAMAT (South East Asian Quinine Artesunate Malaria Trial), an open-label, multicentre trial conducted in Bangladesh, India, Indonesia and Myanmar, 1461 patients (1259 adults and 202 children &lt;15 years) with severe falciparum malaria were randomised to initial intravenous treatment with artesunate or quinine until oral medication could be tolerated. Artesunate was administered at 2.4 mg/kg IV at 0, 12 and 24 hours and then every 24 hours. Quinine was given IV at 20 mg/kg over 4 hours, followed by 10 mg/kg thrice daily over 2-8 hours. Mortality in the intention to treat population
+In SEAQUAMAT (South East Asian Quinine Artesunate Malaria Trial), an open-label, multicentre trial conducted in Bangladesh, India, Indonesia and Myanmar, 1461 patients (1259 adults and 202 children &lt;15 years) with severe falciparum malaria were randomised to initial intravenous treatment with artesunate or quinine until oralmedicine could be tolerated. Artesunate was administered at
 
 <div style=\"page-break-after: always\"></div>
 
-was 14.7% (107 of 730) in the artesunate group compared to 22.4% (164 of 731) in the quinine group, a reduction in the odds of death adjusted by study site of 40% (95% CI: 21%, 55%; p=0.0002). Mortality in patients with severe malaria in the artesunate group was 19.8% (101 of 509) compared to 28.1% (152 of 541), a reduction in the odds of death adjusted by study site of 35% (95% CI: 13%, 52%; p=0.003).
+2.4 mg/kg intravenous at 0, 12 and 24 hours and then every 24 hours. Quinine was given intravenous at 20 mg/kg over 4 hours, followed by 10 mg/kg thrice daily over 2-8 hours. Mortality in the intention to treat population was 14.7% (107 of 730) in the artesunate group compared to 22.4% (164 of 731) in the quinine group, a reduction in the odds of death adjusted by study site of 40% (95% CI: 21%, 55%; p=0.0002).
+
+Mortality in patients with severe malaria in the artesunate group was 19.8% (101 of 509) compared to 28.1% (152 of 541), a reduction in the odds of death adjusted by study site of 35% (95% CI: 13%, 52%; p=0.003).
 
 AQUAMAT (African Quinine Artesunate Malaria Trial) was an open-label multicentre trial in which African children aged &lt; 15 years (n=5425) with severe falciparum malaria were randomised to parenteral artesunate or parenteral quinine using the same dose as in SEAQUAMAT. Mortality in the intent to treat population was 8.5% (230 of 2712) in the artesunate group compared to 10.9% (297 of 2713) in the quinine group, a reduction in the odds of death adjusted by study site of 25% (95% CI: 10%, 37%; p=0.0022). Mortality in children with severe malaria in the artesunate group was 9.9% (226 of 2280) compared to 12.4% (291 of 2338) in the quinine group, a reduction in the odds of death adjusted by study site of 23% (95% CI: 7%, 36%; (p=0.0055).
 
@@ -282,7 +290,7 @@ Artesunate and DHA distribute into the extracellular body fluid. DHA is approxim
 
 ## Biotransformation
 
-Artesunate is converted to DHA by cytochrome 2A6 and blood esterases. In human liver microsomal incubations of DHA, DHAglucuronide was the only metabolite found. In urine from patients, α -DHAβ -glucuronide (α -DHA-G) and a variable amount of the tetrahydro furan isomer of α -DHA-G was identified. DHA itself was present only in very small amounts.
+Artesunate is converted to DHA by cytochrome 2A6 and blood esterases. In human liver microsomal incubations of DHA, DHAglucuronide was the only metabolite found. In urine from patients, α - DHAβ - glucuronide (α -DHA-G) and a variable amount of the tetrahydro furan isomer of α -DHA-G was identified. DHA itself was present only in very small amounts.
 
 ## Elimination
 
@@ -290,47 +298,45 @@ Artesunate is very rapidly eliminated from blood (within a few minutes) via conv
 
 <div style=\"page-break-after: always\"></div>
 
-## Special Populations
+## Special populations
 
 ## Elderly
 
-There are no pharmacokinetic data available after intravenous artesunate dosing in patients aged 65 years or older with severe malaria (see sections 4.2 and 4.4).
+There are no pharmacokinetic (PK) data available after intravenous artesunate dosing in patients aged 65 years or older with severe malaria (see sections 4.2 and 4.4).
 
 ## Renal impairment
 
-No pharmacokinetic data are available for patients with impaired renal function. Clinical trial data from patients with severe malaria and accompanying renal impairment at start of treatment indicate that no dose modifications are necessary.
+No PK data are available for patients with impaired renal function. Clinical trial data from patients with severe malaria and accompanying renal impairment at start of treatment indicate that no dose modifications are necessary.
 
 ## Hepatic impairment
 
-No pharmacokinetic data are available for patients with impaired hepatic function. Clinical trial data from patients with severe malaria and accompanying hepatic impairment at start of treatment indicate that no dose modifications are necessary.
+No PK data are available for patients with impaired hepatic function. Clinical trial data from patients with severe malaria and accompanying hepatic impairment at start of treatment indicate that no dose modifications are necessary.
 
 ## Paediatric population
 
-There are limited PK data on the use of IV artesunate in neonates and infants. Physiologically-based PK modelling and simulations predict that plasma exposures are likely to be higher in infants below 6 months of age compared to infants aged more than 6 months (see section 4.4).
+There are limited PK data on the use of intravenous artesunate in neonates and infants. Physiologically-based PK modelling and simulations predict that plasma exposures are likely to be higher in infants below 6 months of age compared to infants aged more than 6 months (see section 4.4).
 
 ## 5.3 Preclinical safety data
 
 Artesunate was negative in an in vitro bacterial reverse mutation assay, an in vitro Chinese hamster ovary chromosome aberration assay, an in vivo mouse bone marrow micronucleus assay using oral administration, and in an in vivo micronucleus assay in rats when administered intravenously. Carcinogenicity studies have not been conducted with artesunate.
 
-Adverse reactions not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use were as follows:
+Adverse reactions not observed in clinical trials, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use were as follows:
 
 ## Reproductive and developmental toxicity
 
-In a fertility and early embryonic development study IV administration of artesunate to rats at between 1-2 times the clinical dose (based on body surface area comparisons) did not affect female fertility, or early embryonic development. Oral administration of artesunate during organogenesis in rats, rabbits, and monkeys induces a dose-dependent increase in embryolethality and fetal malformations (including cardiovascular, brain, and/or skeletal) at 0.3 to 1.6-times the clinical dose based on body surface area (BSA) comparisons. Although animal reproduction studies in several species have demonstrated fetal harm from oral and IV administered artesunate and other artemisinin class drugs, the clinical relevance of the animal data is uncertain.
+In a fertility and early embryonic development study intravenous administration of artesunate to rats at between 1-2 times the clinical dose (based on body surface area comparisons) did not affect female fertility, or early embryonic development. Oral administration of artesunate during organogenesis in rats, rabbits, and monkeys induces a dose-dependent increase in embryolethality and fetal malformations (including cardiovascular, brain, and/or skeletal) at 0.3 to 1.6-times the clinical dose based on body surface area (BSA) comparisons. Although animal reproduction studies in several species have demonstrated fetal harm from oral and intravenous administered artesunate and other artemisinin class drugs, the clinical relevance of the animal data is uncertain.
 
-Studies in the literature indicate that artesunate oral administration in the male rat can cause a dose and duration dependent effect on the epididymis and testes with reversible decreases in the production of viable sperm at near clinical doses. No such effects were noted in rats or dogs in 28-day Good Laboratory Practice (GLP) studies conducted using IV dosing.
+Studies in the literature indicate that artesunate oral administration in the male rat can cause a dose and duration dependent effect on the epididymis and testes with reversible decreases in the production of viable sperm at near clinical doses. No such effects were noted in rats or dogs in 28-day Good Laboratory Practice (GLP) studies conducted using intravenous dosing.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Solvent: Monosodium phosphate monohydrate Disodium phosphate dihydrate
+## Solvent
 
-Phosphoric acid, concentrated (for pH adjustment)
+Monosodium phosphate monohydrate Disodium phosphate dihydrate Phosphoric acid, concentrated (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injections
 
 <div style=\"page-break-after: always\"></div>
-
-Sodium hydroxide (for pH adjustment) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -338,9 +344,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## 4 years
+4 years.
 
-Chemical and physical in-use stability has been demonstrated for 1.5 hours at 25°C. From a microbiological point of view, unless the method of opening/reconstituting/dilution precludes the risks of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
+Chemical and physical in-use stability has been demonstrated for 1.5 hours at 25 °C. From a microbiological point of view, unless the method of opening/reconstituting/dilution precludes the risks of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
 
 ## 6.4 Special precautions for storage
 
@@ -368,11 +374,11 @@ Withdraw 11 mL of the supplied 0.3 M sodium phosphate buffer with a needle and s
 
 Visually inspect the solution within the vial to ensure that no visible particles remain and there is no discolouration of the solution. Do not administer if the solution is discoloured or contains particulate matter.
 
-Inject the reconstituted solution IV as a slow bolus over 1-2 minutes. Do not administer via continuous IV infusion.
-
-Discard the vial and any unused portion of the medicinal product after use.
+Inject the reconstituted solution intravenous as a slow bolus over 1-2 minutes. Do not administer via continuous intravenous infusion.
 
 <div style=\"page-break-after: always\"></div>
+
+Discard the vial and any unused portion of the medicinal product after use.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -390,24 +396,28 @@ EU/1/21/1582/001 EU/1/21/1582/002
 
 Date of first authorisation: 22/11/2021
 
+Date of latest renewal:
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+11
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 MIAS Pharma Limited, Suite 1 Stafford House, Strand Road, Portmarnock,
 
@@ -422,8 +432,6 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -450,7 +458,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON (2 X 2 VIALS) (4 X 4 VIALS)
+CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -460,11 +468,11 @@ Artesunate Amivas 110 mg powder and solvent for solution for injection artesunat
 
 Each vial of powder contains 110 mg of artesunate.
 
-Each vial of solvent for reconstitiution contains 12 mL of 0.3 M sodium phosphate buffer After reconstitution, the solution for injection contains 10 mg artesunate per ml.
+Each vial of solvent for reconstitution contains 12 mL of 0.3 M sodium phosphate buffer After reconstitution, the solution for injection contains 10 mg artesunate per ml.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: monosodium phosphate monohydrate, disodium phosphate dihydrate, phosphoric acid, concentrated, sodium hydroxide, water for injections
+Excipients: monosodium phosphate monohydrate, disodium phosphate dihydrate, phosphoric acid, concentrated, sodium hydroxide, water for injections. See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -478,7 +486,7 @@ Excipients: monosodium phosphate monohydrate, disodium phosphate dihydrate, phos
 
 Read the package leaflet before use.
 
-Intravenous use.
+Intravenous use after reconstitution.
 
 Reconstitute before use.
 
@@ -506,17 +514,18 @@ Amivas Ireland Ltd Suite 5, Second Floor Station House Railway Square Waterford 
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1582/001 EU/1/21/1582/002
+EU/1/21/1582/001 (2 x 2 vials)
+
+EU/1/21/1582/002 (4 x 4 vials)
 
 ## 13. BATCH NUMBER
 
-LOT
+Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
@@ -526,9 +535,7 @@ Justification for not including Braille accepted
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -544,9 +551,9 @@ Artesunate Amivas 110 mg powder for solution for injection artesunate
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each vial of powder contains 110 mg of artesunate
+Each vial of powder contains 110 mg of artesunate.
 
-After reconstitution, the solution for injection contains 10 mg artesunate per mL
+After reconstitution, the solution for injection contains 10 mg artesunate per mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -580,7 +587,8 @@ Date and time of reconstitution: \\_/\\_/\\_
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -588,19 +596,18 @@ Amivas Ireland Ltd Suite 5, Second Floor Station House Railway Square Waterford 
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-## EU/1/21/1582/001
-
-EU/1/21/1582/002
+EU/1/21/1582/001 (2 x 2 vials) EU/1/21/1582/002 (4 x 4 vials)
 
 ## 13. BATCH NUMBER
 
-LOT
+Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -618,7 +625,7 @@ Each vial of solvent for reconstitution contains 12 mL of 0.3 M sodium phosphate
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: monosodium phosphate monohydrate, disodium phosphate dihydrate, phosphoric acid, concentrated, sodium hydroxide, water for injections
+Excipients: monosodium phosphate monohydrate, disodium phosphate dihydrate, phosphoric acid, concentrated, sodium hydroxide, water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -646,25 +653,25 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Amivas Ireland Ltd Suite 5, Second Floor Station House Railway Square Waterford Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1582/001 EU/1/21/1582/002
+EU/1/21/1582/001 (2 x 2 vials) EU/1/21/1582/002 (4 x 4 vials)
 
 ## 13. BATCH NUMBER
 
-LOT
+Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -682,9 +689,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -699,28 +706,30 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Artesunate Amivas contains the active substance artesunate. Artesunate Amivas is used to treat severe malaria in adults and children.
 
-After treatment with Artesunate Amivas your doctor will complete your treatment for malaria with a course of anti-malarial medication that can be taken by mouth.
+After treatment with Artesunate Amivas your doctor will complete your treatment for malaria with a course of anti-malarial medicine that can be taken by mouth.
 
 ## 2. What you need to know before you are given Artesunate Amivas
 
 ## Do not use Artesunate Amivas
 
-- -if you are allergic to artesunate, to any other antimalarial treatment that contains an artemisinin (e.g. artemether or dihydroartemisinin) or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to artesunate, to any other antimalarial treatment that contains an artemisinin (e.g. artemether or dihydroartemisinin) or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
-You may develop anaemia, a reduced number of red blood cells, or other blood changes after treatment with this medicine. Some changes to numbers of blood cells can occur while you are being treated and usually recover after stopping treatment for malaria. However, some individuals develop severe anaemia that can occur up to several weeks after completing treatment for malaria. In most cases, the anaemia recovers without any specific treatment. In a small number of cases the anaemia may be severe and require blood transfusion. Your doctor will carry out regular blood tests that can include a direct antiglobulin test to determine if treatment, e.g. with corticosteroids, is necessary and monitor your recovery for 4 weeks after you have completed your treatment for malaria. It is important you attend appointments for these check-ups. Talk to your doctor for more information.
+Talk to your doctor or nurse before using Artesunate Amivas.
+
+You may develop anaemia, a reduced number of red blood cells, or other blood changes after treatment with this medicine. Some changes to numbers of blood cells can occur while you are being treated and usually recover after stopping treatment for malaria. However, some individuals develop severe anaemia that can occur up to several weeks after completing treatment for malaria. In most cases, the anaemia recovers without any specific treatment. In a small number of cases the anaemia may be severe and require blood transfusion. Your doctor will carry out regular blood tests that can include a direct antiglobulin test to determine if treatment, e.g. with corticosteroids, is necessary and monitor your recovery for 4 weeks after you have completed your treatment for malaria. It is important you attend appointments for these check-ups.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other medicines and Artesunate Amivas
 
-Tell your doctor if you are taking, have recently taken or might take any other medicines. This includes medicines not on prescription.
-
-<div style=\"page-break-after: always\"></div>
+Tell your doctor if you are taking, have recently taken or might take any other medicines.
 
 Some medicines should not be taken with artesunate because they could reduce its effect on malaria. Some examples include:
 
 - rifampicin (to treat bacterial infections)
-- ritonavir, nevirapine (anti-HIV medication)
+- ritonavir, nevirapine (anti-HIVmedicine)
 - carbamazepine, phenytoin (to treat epilepsy)
 
 Some medicines may increase blood levels of artesunate and may increase the risk of side effects. Some examples include:
@@ -734,11 +743,25 @@ Artesunate may increase or decrease the blood levels of some other medicines. Yo
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, you should talk to your doctor before being given this medicine.
 
+## Pregnancy
+
 Your doctor will discuss with you the potential risk of taking Artesunate Amivas during pregnancy. Use in the first trimester of pregnancy is not recommended unless your doctor decides that the benefit of treatment for you outweighs the risk to your unborn child. In the later stages of pregnancy, you should only take Artesunate Amivas if your doctor feels that there are no suitable alternative medicines.
+
+## Pregnancy registry
 
 If you are or become pregnant during treatment with this medicine, the doctor will report your pregnancy to the manufacturer, who is keeping a record in order to understand any effects that the treatment may have on the pregnancy and the baby.
 
+## Breast-feeding
+
 Traces of this medicine may be present in your breast milk. It is not known if these could have any effect on a breastfed baby. If you are planning to breastfeed, discuss with your doctor whether the benefits of breastfeeding to you and your baby outweigh the potential risk.
+
+## Infants under 6 months
+
+Talk to your doctor for more information.
+
+## Elderly
+
+Talk to your doctor for more information.
 
 ## Driving and using machines
 
@@ -748,7 +771,9 @@ You should not drive or use machines if you feel tired or dizzy.
 
 This medicine contains 193 mg sodium (main component of cooking/table salt) in each single dose. This is equivalent to just under 10 % of the recommended maximum daily dietary intake of sodium for an adult.
 
-As the first and second doses are recommended 12 hours apart, this would supply 386 mg sodium (nearly 20 %of your maximum daily intake).
+As the first and second doses are recommended 12 hours apart, this would supply 386 mg sodium (nearly 20% of your maximum daily intake).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How Artesunate Amivas is given
 
@@ -757,8 +782,6 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 This medicine will be given to you by a slow injection directly into a vein. Your doctor or nurse will inject this medicine for you.
 
 The dose of the medicine you are given is based on your weight and your doctor or nurse will work out the right amount to give you. The recommended dose is 2.4 mg for each kg of body weight. The dose per kg is the same for adults and children of all ages.
-
-<div style=\"page-break-after: always\"></div>
 
 You will be given at least three doses of Artesunate Amivas, each dose given 12 hours apart. After three doses, if you still cannot take medicines by mouth, you will be given one dose of Artesunate Amivas every 24 hours (once a day) until you are able to take a different malaria treatment by mouth.
 
@@ -778,53 +801,54 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-If you experience any of the following side effects seek medical help immediately:
+If you experience any of the following side effects seek medical help immediately :
 
-- -difficulty breathing or swallowing, swelling of your face, mouth or throat. These are signs you may be having a severe allergic reaction. The frequency of very severe allergic reactions leading to loss of consciousness is unknown.
+- difficulty breathing or swallowing, swelling of your face, mouth or throat. These are signs you may be having a severe allergic reaction. The frequency of very severe allergic reactions leading to loss of consciousness is unknown.
 
-## Very common side effects (may affect more than 1 in 10 people) a lack of healthy red blood cells, which can make you feel tired and weak (anaemia); this can develop
+## Very common side effects (may affect more than 1 in 10 people)
 
-at least 7 days or sometimes several weeks after treatment has finished.
+- a lack of healthy red blood cells, which can make you feel tired and weak (anaemia); this can develop at least 7 days or sometimes several weeks after treatment has finished.
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-- -inflammation of a vein
-- -altered sense of taste
-- -raised body temperature or fever
-- -very dark yellow or reddish brown coloured urine
-- -reduced kidney function, including low urine output
-- -bruising easily or slow clotting of any cuts or wounds.
-- -abnormal levels of liver enzyme levels detected in blood tests
-- -yellowing of the skin (jaundice)
-- -diarrhoea
-- -abdominal pain
-- -vomiting
-- -slow heart rate
-- -low blood pressure
-- -cough
-- -rhinitis (blocked and/or runny nose)
-- -feeling dizzy or weak
-- -headache
+- inflammation of a vein
+- altered sense of taste
+- raised body temperature or fever
+- very dark yellow or reddish brown coloured urine
+- reduced kidney function, including low urine output
+- bruising easily or slow clotting of any cuts or wounds.
+- abnormal levels of liver enzyme levels detected in blood tests
+- yellowing of the skin (jaundice)
+- diarrhoea
+- abdominal pain
 
 <div style=\"page-break-after: always\"></div>
 
+- vomiting
+- slow heart rate
+- low blood pressure
+- cough
+- rhinitis (blocked and/or runny nose)
+- feeling dizzy or weak
+- headache
+
 ## Uncommon (affecting less than 1 in 100 patients)
 
-- -tiredness
-- -feeling sick
-- -constipation
-- -pain at injection site
-- -painful widespread rash with blisters especially near mouth, nose, eyes and genitals, flu-like symptoms for several days (Stevens-Johnson syndrome or SJS)
-- -loss of appetite
-- -rash
-- -itching
-- -swelling and reddening of the face
-- -flushing
+- tiredness
+- feeling sick
+- constipation
+- pain at injection site
+- painful widespread rash with blisters especially near mouth, nose, eyes and genitals, flu-like symptoms for several days (Stevens-Johnson syndrome or SJS)
+- loss of appetite
+- rash
+- itching
+- swelling and reddening of the face
+- flushing
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
-- -a lack of healthy red blood cells caused by your immune system (immune haemolytic anaemia)
-- -abnormal electrical activity of the heart that affects its rhythm (Prolonged electrocardiogram QT)
+- a lack of healthy red blood cells caused by your immune system (immune haemolytic anaemia)
+- abnormal electrical activity of the heart that affects its rhythm (Prolonged electrocardiogram QT)
 
 ## Reporting of side effects
 
@@ -834,20 +858,27 @@ If you get any side effects, talk to your doctor or nurse. This includes any pos
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the label on the carton after EXP.
+Do not use this medicine after the expiry date which is stated on the label on the carton after EXP. The expiry date refers to the last day of that month.
 
 This medicine does not require any special storage conditions.
 
 The reconstituted solution must be used within 1.5 hours of preparation.
 
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
 ## 6. Contents of the pack and other information
 
 ## What Artesunate Amivas contains
 
-- -The active substance is artesunate.
-- -Each vial of powder contains 110 mg of artesunate.
-- -Each vial of solvent for reconstitution contains 12 mL of 0.3 M sodium phosphate buffer.
-- -The other ingredients in the 0.3 M sodium phosphate buffer solvent are monosodium phosphate monohydrate, disodium phosphate dihydrate (see section 2 'Artesunate Amivas contains sodium') and phosphoric acid, concentrated (for pH adjustment), sodium hydroxide (for pH adjustment) and water for injections.
+- -
+- The active substance is artesunate.
+- Each vial of powder contains 110 mg of artesunate.
+- Each vial of solvent for reconstitution contains 12 mL of 0.3 M sodium phosphate buffer.
+- The other ingredients in the 0.3 M sodium phosphate buffer solvent are monosodium phosphate monohydrate, disodium phosphate dihydrate (see section 2 'Artesunate Amivas contains
+
+<div style=\"page-break-after: always\"></div>
+
+sodium') and phosphoric acid, concentrated (for pH adjustment), sodium hydroxide (for pH adjustment) and water for injections.
 
 After reconstitution with 11 mL of the solvent provided, the solution for injection contains 10 mg of artesunate per mL.
 
@@ -856,8 +887,6 @@ After reconstitution with 11 mL of the solvent provided, the solution for inject
 Artesunate Amivas 110 mg powder and solvent for solution for injection. The powder is white or almost white, fine crystalline powder in a glass vial. The solvent is a clear, colourless liquid in a glass vial.
 
 Each pack contains 2 or 4 vials of Artesunate Amivas powder and 2 or 4 vials of sodium phosphate buffer solvent.
-
-<div style=\"page-break-after: always\"></div>
 
 Not all pack sizes may be marketed.
 
@@ -873,7 +902,7 @@ MIAS Pharma Limited, Suite 1, Stafford House, Strand Road, Portmarnock, Co. Dubl
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
 &lt;------------------------------------------------------------------------------------------------------------------------&gt;
 
@@ -891,18 +920,18 @@ To reconstitute, withdraw 11 mL of the supplied solvent (0.3 M sodium phosphate 
 
 Visually inspect the solution within the vial to ensure that no visible particles remain and there is no discolouration. Do not administer if solution is discoloured or contains visible particles.
 
-Inject the reconstituted drug solution IV as a slow bolus over 1-2 minutes. Do not administer via continuous IV infusion.
+Inject the reconstituted medicinal product solution intravenous  as a slow bolus over 1-2 minutes. Do not administer via continuous intravenous infusion.
 
-The recommended dosage schedule is at 0, 12, 24 and 48 hours, then once daily until alternative oral anti-malarial medication can be tolerated.
+The recommended dosage schedule is at 0, 12, and 24 hours, then once daily until alternative oral antimalarial medicine can be tolerated.
+
+<div style=\"page-break-after: always\"></div>
 
 Artesunate Amivas also contains 193 mg sodium per the recommended single dose in a 60 kg adult, equivalent to 9.6 % of the WHO recommended maximum daily intake of 2 g sodium for an adult. As the first and second doses are recommended 12 hours apart, on days when two doses are given in a 24 hour period, then the dose would be 386 mg sodium per day, equivalent to 19.2 % of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 ## Storage of reconstituted Artesunate Amivas solution
 
-Once reconstituted, the Artesunate Amivas solution should be administered within 1.5 hours of preparation. Discard any unused solution in accordance with local guidelines.
+Once reconstituted, the Artesunate Amivas solution should be administered within 1.5 hours of preparation. Discard any unusued solution in accordance with local guidelines.
 
 Please scan to see all other EU translations of this leaflet
-
-<div style=\"page-break-after: always\"></div>
 
 {QR code} to be included + https://www.ema.europa.eu/en/medicines/human/EPAR/artesunateamivas#product-info

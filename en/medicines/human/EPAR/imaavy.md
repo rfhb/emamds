@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:51:57
+document_datetime: 2026-08-21 16:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imaavy.html
 document_name: imaavy.html
 version: success
-processing_time: 0.1019605
-conversion_datetime: 2025-12-31 01:36:55.812505
+processing_time: 0.1360703
+conversion_datetime: 2026-08-26 10:55:23.407719
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Imaavy
 
 [RSS](/en/individual-human-medicine.xml/267287)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-nipocalimab Medicine Human Authorised
+nipocalimab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -55,7 +55,7 @@ Expand section
 
 Collapse section
 
-## How is Imaavy used?
+### How is Imaavy used?
 
 Imaavy can only be obtained with a prescription. Treatment should be given and supervised by a doctor experienced in treating disorders that affect muscles and nerves.
 
@@ -63,7 +63,7 @@ Imaavy is given as an infusion (drip) into a vein every 2 weeks. The first infus
 
 For more information about using Imaavy, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Imaavy work?
+### How does Imaavy work?
 
 In myasthenia gravis, the immune system produces immunoglobulin G (IgG) antibodies (a type of protein) that target proteins involved in the communication between nerves and muscles, such as AChR and MuSK.
 
@@ -71,7 +71,7 @@ The active substance in Imaavy, nipocalimab, is a monoclonal antibody that attac
 
 By binding to and blocking FcRn, nipocalimab increases the removal of IgG antibodies, including those targeting AChR and MuSK, thereby lowering their levels and preventing them from disrupting AChR or MusK. This is expected to lead to an improvement in muscle function.
 
-## What benefits of Imaavy have been shown in studies?
+### What benefits of Imaavy have been shown in studies?
 
 A main study showed that Imaavy is effective in treating adults with generalised myasthenia gravis. This study involved 153 participants who had antibodies against AChR or MuSK and for whom standard of care (standard treatment) was not sufficient. Participants were either given Imaavy in addition to standard of care or placebo (a dummy treatment) with standard of care.
 
@@ -81,13 +81,13 @@ After 24 weeks of treatment, patients given Imaavy had an average reduction of 4
 
 A supportive study involved 8 adolescents aged 12 to 17 years and showed that Imaavy behaves in the body of adolescents and adults in a comparable way. It is therefore expected that the medicine has comparable effects in both age groups.
 
-## What are the risks associated with Imaavy?
+### What are the risks associated with Imaavy?
 
 For the full list of side effects and restrictions with Imaavy, see the package leaflet.
 
 The most common side effects with Imaavy (which may affect more than 1 in 10 people) include muscle spasms, peripheral oedema (swelling usually affecting arms and legs), increased lipids (fats) and decreased serum albumin (a blood protein).
 
-## Why is Imaavy authorised in the EU?
+### Why is Imaavy authorised in the EU?
 
 At the time of approval, there was a need for additional treatment options for people with generalised myasthenia gravis. The need was even greater for adolescents for which treatment options were very limited, and patients with antibodies against MuSK who often have more severe symptoms and fewer treatment options.
 
@@ -97,13 +97,13 @@ Regarding safety, the Agency identified that treatment with Imaavy often led to 
 
 The European Medicines Agency therefore decided that Imaavy's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Imaavy?
+### What measures are being taken to ensure the safe and effective use of Imaavy?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Imaavy have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Imaavy are continuously monitored. Suspected side effects reported with Imaavy are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Imaavy
+### Other information about Imaavy
 
 Imaavy received a marketing authorisation valid throughout the EU on 28 November 2025.
 
@@ -117,181 +117,137 @@ English (EN) (122.17 KB - PDF)
 
 [View](/en/documents/overview/imaavy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-829)
+[Other languages (22)](#file-language-dropdown-138)
 
 български (BG) (138.45 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/bg/documents/overview/imaavy-epar-medicine-overview_bg.pdf)
 
 español (ES) (111 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/es/documents/overview/imaavy-epar-medicine-overview_es.pdf)
 
 čeština (CS) (135.84 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/cs/documents/overview/imaavy-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (111.63 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/da/documents/overview/imaavy-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (114.93 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/de/documents/overview/imaavy-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (109.27 KB - PDF)
+eesti (ET) (109.27 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/et/documents/overview/imaavy-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (136.46 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/el/documents/overview/imaavy-epar-medicine-overview_el.pdf)
 
 français (FR) (113.22 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/fr/documents/overview/imaavy-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (136.25 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/hr/documents/overview/imaavy-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (110.46 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/it/documents/overview/imaavy-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (140.39 KB - PDF)
+latviešu (LV) (140.39 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/lv/documents/overview/imaavy-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (135.71 KB - PDF)
+lietuvių (LT) (135.71 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/lt/documents/overview/imaavy-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (133.4 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/hu/documents/overview/imaavy-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (136.79 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/mt/documents/overview/imaavy-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (114.68 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/nl/documents/overview/imaavy-epar-medicine-overview_nl.pdf)
 
 polski (PL) (139.21 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/pl/documents/overview/imaavy-epar-medicine-overview_pl.pdf)
 
 português (PT) (112.06 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/pt/documents/overview/imaavy-epar-medicine-overview_pt.pdf)
 
 română (RO) (130.72 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/ro/documents/overview/imaavy-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (133.53 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/sk/documents/overview/imaavy-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (132.43 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/sl/documents/overview/imaavy-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (109.62 KB - PDF)
+suomi (FI) (109.62 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/fi/documents/overview/imaavy-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (109.77 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/sv/documents/overview/imaavy-epar-medicine-overview_sv.pdf)
 
@@ -307,211 +263,168 @@ English (EN) (384.55 KB - PDF)
 
 Imaavy : EPAR - Product information
 
-English (EN) (591.52 KB - PDF)
+English (EN) (596.8 KB - PDF)
 
-**First published:** 12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/en/documents/product-information/imaavy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-831)
+[Other languages (24)](#file-language-dropdown-480)
 
-български (BG) (295.09 KB - PDF)
+български (BG) (295.7 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/bg/documents/product-information/imaavy-epar-product-information_bg.pdf)
 
-español (ES) (567.45 KB - PDF)
+español (ES) (568.14 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/es/documents/product-information/imaavy-epar-product-information_es.pdf)
 
-čeština (CS) (716.56 KB - PDF)
+čeština (CS) (716.37 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/cs/documents/product-information/imaavy-epar-product-information_cs.pdf)
 
-dansk (DA) (565.53 KB - PDF)
+dansk (DA) (566.29 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/da/documents/product-information/imaavy-epar-product-information_da.pdf)
 
-Deutsch (DE) (591.44 KB - PDF)
+Deutsch (DE) (591.62 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/de/documents/product-information/imaavy-epar-product-information_de.pdf)
 
-eesti keel (ET) (306.21 KB - PDF)
+eesti (ET) (306.6 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/et/documents/product-information/imaavy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (774.13 KB - PDF)
+ελληνικά (EL) (774.44 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/el/documents/product-information/imaavy-epar-product-information_el.pdf)
 
-français (FR) (418.29 KB - PDF)
+français (FR) (418.41 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/fr/documents/product-information/imaavy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (517.52 KB - PDF)
+hrvatski (HR) (517.64 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/hr/documents/product-information/imaavy-epar-product-information_hr.pdf)
 
-íslenska (IS) (400.56 KB - PDF)
+italiano (IT) (668.54 KB - PDF)
 
-**First published:**
-
-12/12/2025
-
-[View](/is/documents/product-information/imaavy-epar-product-information_is.pdf)
-
-italiano (IT) (667.73 KB - PDF)
-
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/it/documents/product-information/imaavy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (623.72 KB - PDF)
+latviešu (LV) (623.94 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/lv/documents/product-information/imaavy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (506.33 KB - PDF)
+lietuvių (LT) (506.54 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/lt/documents/product-information/imaavy-epar-product-information_lt.pdf)
 
-magyar (HU) (415.8 KB - PDF)
+magyar (HU) (416.37 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/hu/documents/product-information/imaavy-epar-product-information_hu.pdf)
 
-Malti (MT) (827.23 KB - PDF)
+Malti (MT) (827.66 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/mt/documents/product-information/imaavy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (579.15 KB - PDF)
+Nederlands (NL) (579.72 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/nl/documents/product-information/imaavy-epar-product-information_nl.pdf)
 
-norsk (NO) (328.02 KB - PDF)
+polski (PL) (341.41 KB - PDF)
 
-**First published:**
-
-12/12/2025
-
-[View](/no/documents/product-information/imaavy-epar-product-information_no.pdf)
-
-polski (PL) (341.2 KB - PDF)
-
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/pl/documents/product-information/imaavy-epar-product-information_pl.pdf)
 
-português (PT) (585.78 KB - PDF)
+português (PT) (586.19 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/pt/documents/product-information/imaavy-epar-product-information_pt.pdf)
 
-română (RO) (514.74 KB - PDF)
+română (RO) (515.16 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/ro/documents/product-information/imaavy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (523 KB - PDF)
+slovenčina (SK) (523.76 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/sk/documents/product-information/imaavy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (727.49 KB - PDF)
+slovenščina (SL) (728 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/sl/documents/product-information/imaavy-epar-product-information_sl.pdf)
 
-Suomi (FI) (661.5 KB - PDF)
+suomi (FI) (662.11 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/fi/documents/product-information/imaavy-epar-product-information_fi.pdf)
 
-svenska (SV) (557.49 KB - PDF)
+svenska (SV) (562.88 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
 
 [View](/sv/documents/product-information/imaavy-epar-product-information_sv.pdf)
+
+Íslenska (IS) (400.79 KB - PDF)
+
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
+
+[View](/is/documents/product-information/imaavy-epar-product-information_is.pdf)
+
+norsk (NO) (328.22 KB - PDF)
+
+**First published:** 12/12/2025 **Last updated:** 21/08/2026
+
+[View](/no/documents/product-information/imaavy-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000339040
+
+23/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -529,203 +442,164 @@ English (EN) (22.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-922)
+[Other languages (24)](#file-language-dropdown-538)
 
 български (BG) (34.24 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/bg/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (28.98 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/es/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (30.67 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/cs/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (31.06 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/da/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (32.07 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/de/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (27.86 KB - PDF)
+eesti (ET) (27.86 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/et/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (30.73 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/el/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (43.41 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/fr/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (23.11 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/hr/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (29.9 KB - PDF)
-
-**First published:**
-
-12/12/2025
-
-[View](/is/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (29.73 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/it/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (30.59 KB - PDF)
+latviešu (LV) (30.59 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/lv/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (29.9 KB - PDF)
+lietuvių (LT) (29.9 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/lt/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (29.49 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/hu/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (31.04 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/mt/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (29.76 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/nl/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (30.32 KB - PDF)
-
-**First published:**
-
-12/12/2025
-
-[View](/no/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (31.6 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/pl/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (30.47 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/pt/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (29.58 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/ro/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (24.28 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/sk/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (29.94 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/sl/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (28.37 KB - PDF)
+suomi (FI) (28.37 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/fi/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (22.76 KB - PDF)
 
-**First published:**
-
-12/12/2025
+**First published:** 12/12/2025
 
 [View](/sv/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (29.9 KB - PDF)
+
+**First published:** 12/12/2025
+
+[View](/is/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (30.32 KB - PDF)
+
+**First published:** 12/12/2025
+
+[View](/no/documents/all-authorised-presentations/imaavy-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Imaavy Active substance nipocalimab International non-proprietary name (INN) or common name nipocalimab Therapeutic area (MeSH) Myasthenia Gravis Anatomical therapeutic chemical (ATC) code L04AL03
+- **Name of medicine**
+    - Imaavy
+- **Active substance**
+    - nipocalimab
+- **International non-proprietary name (INN) or common name**
+    - nipocalimab
+- **Therapeutic area (MeSH)**
+    - Myasthenia Gravis
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AL03
 
 ### Pharmacotherapeutic group
 
@@ -737,29 +611,40 @@ Imaavy is indicated as an add-on to standard therapy for the treatment of genera
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006379
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Janssen Cilag International NV
-
-Turnhoutseweg 30
-
-Opinion adopted 03/11/2025 Marketing authorisation issued 28/11/2025
+- **EMA product number**
+    - EMEA/H/C/006379
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Janssen Cilag International NV Turnhoutseweg 30  B 2340 Beerse  Belgium
+- **Opinion adopted**
+    - 03/11/2025
+- **Marketing authorisation issued**
+    - 28/11/2025
+- **Revision**
+    - 1
 
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Imaavy : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (146.26 KB - PDF)
+
+**First published:** 21/08/2026
+
+[View](/en/documents/procedural-steps-after/imaavy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Imaavy : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/290491/2025
+Adopted Reference Number: EMA/CHMP/290491/2025
 
 English (EN) (8.1 MB - PDF)
 
@@ -769,9 +654,7 @@ English (EN) (8.1 MB - PDF)
 
 CHMP summary of positive opinion for Imaavy
 
-Adopted
-
-Reference Number: EMA/CHMP/292567/2025
+Adopted Reference Number: EMA/CHMP/292567/2025
 
 English (EN) (118.71 KB - PDF)
 
@@ -779,12 +662,14 @@ English (EN) (118.71 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-imaavy_en.pdf)
 
-#### News on Imaavy
+## News on Imaavy
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025) 19/09/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025)
 
-**This page was last updated on** 12/12/2025
+19/09/2025
+
+**This page was last updated on**
+
+21/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-15 12:49:27
-document_pages: 85
+document_datetime: 2026-08-21 15:40:49
+document_pages: 87
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rimmyrah-epar-product-information_en.pdf
 document_name: rimmyrah-epar-product-information_en.pdf
 version: success
-processing_time: 33.0054326
-conversion_datetime: 2026-06-16 13:56:03.096048
+processing_time: 38.5889078
+conversion_datetime: 2026-08-26 10:42:21.596398
 docling_version:
-  docling-serve: 1.24.0
-  docling-jobkit: 1.23.1
-  docling: 2.102.2
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -258,25 +258,26 @@ Table 1 List of adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | Retinal pigment epithelium tear Visual acuity reduced Vitreoushaemorrhage Vitreous disorder Uveitis Iritis Iridocyclitis Cataract Cataract subcapsular Posterior capsule opacification Punctuate keratitis Corneal abrasion Anterior chamber flare Vision blurred Injection site haemorrhage Eye haemorrhage Conjunctivitis, Conjunctivitis allergic, Eye discharge, photopsia, Photophobia, Ocular discomfort, Eyelid oedema, Eyelid pain,   |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Uncommon                                        | Blindness, Endophthalmitis, Hypopyon, Hyphaema, Keratopathy, Iris adhesion, Corneal deposits, Corneal oedema, Corneal striae, Injection site pain, Injection site irritation, Abnormal sensation in eye,                                                                                                                                                                                                                                      |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                                                                                                                                                                                               |
-| Common                                          | Cough                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Common                                          | Nausea                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Common                                          | Allergic reactions (rash, urticaria, pruritus, erythema)                                                                                                                                                                                                                                                                                                                                                                                      |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                                                                                                                                                                               |
-| Very common                                     | Arthralgia                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Investigations                                  | Investigations                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Very common                                     | Intraocular pressure increased                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                 | Retinal pigment epithelium tear Visual acuity reduced Vitreous haemorrhage Vitreous disorder Uveitis Iritis Iridocyclitis Cataract Cataract subcapsular Posterior capsule opacification Punctuate keratitis Corneal abrasion Anterior chamber flare Vision blurred Injection site haemorrhage Eye haemorrhage Conjunctivitis, Conjunctivitis allergic, Eye discharge, photopsia, Photophobia, Ocular discomfort, Eyelid oedema, Eyelid pain,   |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Uncommon                                        | Blindness, Endophthalmitis, Hypopyon, Hyphaema, Keratopathy, Iris adhesion, Corneal deposits, Corneal oedema, Corneal striae, Injection site pain, Injection site irritation, Abnormal sensation in eye, Eyelid irritation.                                                                                                                                                                                                                    |
+| Not known                                       | Retinal vasculitis** Retinal occlusive vasculitis**                                                                                                                                                                                                                                                                                                                                                                                            |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                                                                                                                                                                                                |
+| Common                                          | Cough                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Common                                          | Nausea                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Common                                          | Allergic reactions (rash, urticaria, pruritus, erythema)                                                                                                                                                                                                                                                                                                                                                                                       |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                                                                                                                                                                                |
+| Very common                                     | Arthralgia                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Investigations                                  | Investigations                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Very common                                     | Intraocular pressure increased                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Product-class-related adverse reactions
 
 In the wet AMD phase III studies, the overall frequency of non-ocular haemorrhages, an adverse event potentially related to systemic VEGF (vascular endothelial growth factor) inhibition, was slightly increased in ranibizumab-treated patients. However, there was no consistent pattern among the different haemorrhages. There is a theoretical risk of arterial thromboembolic events, including stroke and myocardial infarction, following intravitreal use of VEGF inhibitors. A low incidence rate of arterial thromboembolic events was observed in the ranibizumab clinical studies in patients with AMD, DME, PDR, RVO and CNV and there were no major differences between the groups treated with ranibizumab compared to control.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -304,25 +305,27 @@ Ranibizumab is a humanised recombinant monoclonal antibody fragment targeted aga
 
 In wet AMD, the clinical safety and efficacy of ranibizumab have been assessed in three randomised, double-masked, sham- or active-controlled studies of 24 months duration in patients with neovascular AMD. A total of 1,323 patients (879 active and 444 control) were enrolled in these studies.
 
-In study FVF2598g (MARINA), 716 patients with minimally classic or occult with no classic lesions were randomised in a 1:1:1 ratio to receive monthly injections of ranibizumab 0.3 mg, ranibizumab 0.5 mg or sham.
-
-In study FVF2587g (ANCHOR), 423 patients with predominantly classic CNV lesions were randomised in a 1:1:1 ratio to receive ranibizumab 0.3 mg monthly, ranibizumab 0.5 mg monthly or verteporfin PDT (at baseline and every 3 months thereafter if fluorescein angiography showed persistence or recurrence of vascular leakage).
+In study FVF2598g (MARINA), 716 patients with minimally classic or occult with no classic lesions were randomised in a 1:1:1 ratio to receive monthly injections of ranibizumab 0.3 mg, ranibizumab
 
 <div style=\"page-break-after: always\"></div>
+
+0.5 mg or sham.
+
+In study FVF2587g (ANCHOR), 423 patients with predominantly classic CNV lesions were randomised in a 1:1:1 ratio to receive ranibizumab 0.3 mg monthly, ranibizumab 0.5 mg monthly or verteporfin PDT (at baseline and every 3 months thereafter if fluorescein angiography showed persistence or recurrence of vascular leakage).
 
 Key outcome measures are summarised in Table 2 and Figure 1.
 
 Table 2 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g  (ANCHOR)
 
-|                                                                                      |          | FVF2598g (MARINA)   | FVF2598g (MARINA)           | FVF2587g (ANCHOR)      | FVF2587g (ANCHOR)           |
-|--------------------------------------------------------------------------------------|----------|---------------------|-----------------------------|------------------------|-----------------------------|
-| Outcome measure                                                                      | Month    | Sham (n=238)        | Ranibi zumab 0.5 mg (n=240) | Verteporfin PDT(n=143) | Ranibi zumab 0.5 mg (n=140) |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                 | 95%                         | 64%                    | 96%                         |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                 | 90%                         | 66%                    | 90%                         |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                  | 34%                         | 6%                     | 40%                         |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                  | 33%                         | 6%                     | 41%                         |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5(16.6)         | +7.2 (14.4)                 | -9.5 (16.4)            | +11.3 (14.6)                |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                 | -9.8 (17.6)            | +10.7 (16.5)                |
+|                                                                                      |          | FVF2598g (MARINA)   | FVF2598g (MARINA)           | FVF2587g (ANCHOR)       | FVF2587g (ANCHOR)           |
+|--------------------------------------------------------------------------------------|----------|---------------------|-----------------------------|-------------------------|-----------------------------|
+| Outcome measure                                                                      | Month    | Sham (n=238)        | Ranibi zumab 0.5 mg (n=240) | Verteporfin PDT (n=143) | Ranibi zumab 0.5 mg (n=140) |
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                 | 95%                         | 64%                     | 96%                         |
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                 | 90%                         | 66%                     | 90%                         |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                  | 34%                         | 6%                      | 40%                         |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                  | 33%                         | 6%                      | 41%                         |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5(16.6)         | +7.2 (14.4)                 | -9.5 (16.4)             | +11.3 (14.6)                |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                 | -9.8 (17.6)             | +10.7 (16.5)                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -397,12 +400,12 @@ The mean number of injections given over 12-months was 5.8 in the ranibizumab ar
 
 Table 4 Outcomes at Month 2 (MINERVA)
 
-|                                                                              | Ranibizumab 0.5 mg(n=119)   | Sham (n=59)   |
-|------------------------------------------------------------------------------|-----------------------------|---------------|
-| Mean BCVA change from baseline to Month 2 a                                  | 9.5 letters                 | -0.4 letters  |
-| Patients gaining ≥15 letters from baseline or reaching 84 letters at Month 2 | 31.4%                       | 12.3%         |
-| Patients not losing >15 letters from baseline at Month 2                     | 99.2%                       | 94.7%         |
-| Reduction in CSFT b from baseline to Month 2 a                               | 77 µm                       | -9.8 µm       |
+|                                                                              | Ranibizumab 0.5 mg (n=119)   | Sham (n=59)   |
+|------------------------------------------------------------------------------|------------------------------|---------------|
+| Mean BCVA change from baseline to Month 2 a                                  | 9.5 letters                  | -0.4 letters  |
+| Patients gaining ≥15 letters from baseline or reaching 84 letters at Month 2 | 31.4%                        | 12.3%         |
+| Patients not losing >15 letters from baseline at Month 2                     | 99.2%                        | 94.7%         |
+| Reduction in CSFT b from baseline to Month 2 a                               | 77 µm                        | -9.8 µm       |
 
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
@@ -429,7 +432,7 @@ In the pivotal study G2301 (MINERVA), five adolescent patients aged 12 to 17 yea
 
 The efficacy and safety of ranibizumab have been assessed in three randomised, controlled studies of   at least 12 months duration. A total of 868 patients (708 active and 160 control) were enrolled in these studies.
 
-In the phase II study D2201 (RESOLVE), 151 patients were treated with ranibizumab (6 mg/ml, n=51, 10 mg/ml, n=51) or sham (n=49) by monthly intravitreal injections. The mean average change in BCVA from Month 1 to Month 12 compared to baseline was +7.8 (±7.72) letters in the pooled ranibizumab-treated patients (n=102), compared to -0.1 (±9.77) letters for sham-treated patients; and the mean change in BCVA at Month 12 from baseline was 10.3 (±9.1) letters compared to -1.4 (±14.2) letters, respectively (p&lt;0.0 001 for the treatment difference).
+In the phase II study D2201 (RESOLVE), 151 patients were treated with ranibizumab (6 mg/ml, n=51, 10 mg/ml, n=51) or sham (n=49) by monthly intravitreal injections. The mean average change in BCVA from Month 1 to Month 12 compared to baseline was +7.8 (±7.72) letters in the pooled ranibizumab-treated patients (n=102), compared to -0.1 (±9.77) letters for sham-treated patients; and the mean change in BCVA at Month 12 from baseline was 10.3 (±9.1) letters compared to -1.4 (±14.2) letters, respectively (p&lt;0.0001 for the treatment difference).
 
 In the phase III study D2301 (RESTORE), 345 patients were randomised in a 1:1:1 ratio to receive ranibizumab 0.5 mg monotherapy and sham laser photocoagulation, combined ranibizumab 0.5 mg  and laser photocoagulation or sham injection and laser photocoagulation. 240 patients, who had previously completed the 12 month RESTORE study, were enrolled in the open-label, multicentre 24 month extension (RESTORE Extension) study. Patients were treated with ranibizumab 0.5 mg pro  re nata (PRN) in the same eye as the core study (D2301 RESTORE).
 
@@ -557,7 +560,7 @@ Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO
 
 <!-- image -->
 
-BL=baseline;SE=standarderror ofmean
+BL=baseline; SE=standard error of mean
 
 <div style=\"page-break-after: always\"></div>
 
@@ -565,7 +568,7 @@ BL=baseline;SE=standarderror ofmean
 
 <!-- image -->
 
-BL-baseline;SE=standard errorofmean
+BL=baseline; SE=standard error of mean
 
 In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
@@ -577,18 +580,19 @@ The long-term (24 months) clinical safety and efficacy of ranibizumab in patient
 
 Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 10.
 
+Ranibizumab 0.5 mg (n=130)
+
 <div style=\"page-break-after: always\"></div>
 
 Table 10 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 
-|                                              | BRIGHTER                 | BRIGHTER                         | BRIGHTER      | CRYSTAL                  |
-|----------------------------------------------|--------------------------|----------------------------------|---------------|--------------------------|
-|                                              | Ranibizumab 0.5 mg N=180 | Ranibizumab 0.5 mg + Laser N=178 | Laser* N=90   | Ranibizumab 0.5 mg N=356 |
-| Mean change in BCVA at Month 6 a (letters)   | +14.8 (10.7)             | +14.8 (11.13)                    | +6.0          | +12.0 (13.95)            |
-| (SD) Mean change in BCVA at b                |                          |                                  | (14.27)       |                          |
-| Month 24 (letters) (SD)                      | +15.5 (13.91)            | +17.3 (12.61)                    | +11.6 (16.09) | +12.1 (18.60)            |
-| Mean number of injections (SD) (Months 0-23) | 11.4 (5.81)              | 11.3 (6.02)                      | NA            | 13.1                     |
-|                                              |                          |                                  |               | (6.39)                   |
+|                                                  | BRIGHTER                 | BRIGHTER                         | BRIGHTER      | CRYSTAL                  |
+|--------------------------------------------------|--------------------------|----------------------------------|---------------|--------------------------|
+|                                                  | Ranibizumab 0.5 mg N=180 | Ranibizumab 0.5 mg + Laser N=178 | Laser* N=90   | Ranibizumab 0.5 mg N=356 |
+| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)             | +14.8 (11.13)                    | +6.0 (14.27)  | +12.0 (13.95)            |
+| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)            | +17.3 (12.61)                    | +11.6 (16.09) | +12.1 (18.60)            |
+| Gain of ≥15 letters in BCVA at Month 24 (%)      | 52.8                     | 59.6                             | 43.3          | 49.2                     |
+| Mean number of injections (SD) (Months 0-23)     | 11.4 (5.81)              | 11.3 (6.02)                      | NA            | 13.1 (6.39)              |
 
 a p&lt;0. 0001 for both comparisons in BRIGHTER at Month 6: Ranibizumab 0.5 mg vs Laser and        Ranibizumab 0.5 mg + Laser vs Laser.
 
@@ -952,38 +956,39 @@ The adverse reactions experienced following administration of ranibizumab in cli
 
 The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| Infections and infestations          |                                                                              |
-|--------------------------------------|------------------------------------------------------------------------------|
-| Very common                          | Nasopharyngitis                                                              |
-| Common                               | Urinary tract infection*                                                     |
-| Blood and lymphatic system disorders |                                                                              |
-| Common                               | Anaemia                                                                      |
-| Immune system disorders              |                                                                              |
-| Common                               | Hypersensitivity                                                             |
-| Psychiatric disorders                |                                                                              |
-| Common                               | Anxiety                                                                      |
-| Nervous system disorders             |                                                                              |
-| Very common                          | Headache                                                                     |
-| Eye disorders                        |                                                                              |
-| Very common                          | Vitritis                                                                     |
-|                                      | Vitreous detachment                                                          |
-|                                      | Retinal haemorrhage                                                          |
-|                                      | Visual disturbance                                                           |
-|                                      | Eye pain                                                                     |
-|                                      | Vitreous floaters                                                            |
-|                                      | Conjunctival haemorrhage                                                     |
-|                                      | Eye irritation                                                               |
-|                                      | Foreign body sensation in eyes                                               |
-|                                      | Lacrimation increased                                                        |
-|                                      | Blepharitis                                                                  |
-|                                      | Dry eye                                                                      |
-|                                      | Ocular hyperaemia                                                            |
-|                                      | Eye pruritus                                                                 |
-| Common                               | Retinal degeneration                                                         |
-|                                      | Retinal disorder                                                             |
-|                                      | Retinal detachment                                                           |
-|                                      | Retinal tear                                                                 |
-|                                      | Detachment of the retinal pigment epithelium Retinal pigment epithelium tear |
+| Infections and infestations          |                                              |
+|--------------------------------------|----------------------------------------------|
+| Very common                          | Nasopharyngitis                              |
+| Common                               | Urinary tract infection*                     |
+| Blood and lymphatic system disorders |                                              |
+| Common                               | Anaemia                                      |
+| Immune system disorders              |                                              |
+| Common                               | Hypersensitivity                             |
+| Psychiatric disorders                |                                              |
+| Common                               | Anxiety                                      |
+| Nervous system disorders             |                                              |
+| Very common                          | Headache                                     |
+| Eye disorders                        |                                              |
+| Very common                          | Vitritis                                     |
+|                                      | Vitreous detachment                          |
+|                                      | Retinal haemorrhage                          |
+|                                      | Visual disturbance                           |
+|                                      | Eye pain                                     |
+|                                      | Vitreous floaters                            |
+|                                      | Conjunctival haemorrhage                     |
+|                                      | Eye irritation                               |
+|                                      | Foreign body sensation in eyes               |
+|                                      | Lacrimation increased                        |
+|                                      | Blepharitis                                  |
+|                                      | Dry eye                                      |
+|                                      | Ocular hyperaemia                            |
+|                                      | Eye pruritus                                 |
+| Common                               | Retinal degeneration                         |
+|                                      | Retinal disorder                             |
+|                                      | Retinal detachment                           |
+|                                      | Retinal tear                                 |
+|                                      | Detachment of the retinal pigment epithelium |
+|                                      | Retinal pigment epithelium tear              |
 
 Visual acuity reduced
 
@@ -1055,7 +1060,15 @@ Injection site pain,
 
 Injection site irritation,
 
-Abnormal sensation in eye, Eyelid irritation.
+Abnormal sensation in eye,
+
+Eyelid irritation.
+
+Not known
+
+Retinal vasculitis**
+
+Retinal occlusive vasculitis**
 
 ## Respiratory, thoracic and mediastinal disorders
 
@@ -1075,7 +1088,7 @@ Common
 
 Allergic reactions (rash, urticaria, pruritus, erythema)
 
-## Musculoskeletal and connective tissue disorders
+Musculoskeletal and connective tissue disorders
 
 Very common
 
@@ -1093,11 +1106,13 @@ Intraocular pressure increased
 
 * observed only in DME population
 
+**From post-marketing reporting
+
+<div style=\"page-break-after: always\"></div>
+
 ## Product-class-related adverse reactions
 
 In the wet AMD phase III studies, the overall frequency of non-ocular haemorrhages, an adverse event potentially related to systemic VEGF (vascular endothelial growth factor) inhibition, was slightly increased in ranibizumab-treated patients. However, there was no consistent pattern among the different haemorrhages. There is a theoretical risk of arterial thromboembolic events, including stroke and myocardial infarction, following intravitreal use of VEGF inhibitors. A low incidence rate of arterial thromboembolic events was observed in the ranibizumab clinical studies in patients with AMD, DME, PDR, RVO and CNV and there were no major differences between the groups treated with ranibizumab compared to control.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -1125,25 +1140,27 @@ Ranibizumab is a humanised recombinant monoclonal antibody fragment targeted aga
 
 In wet AMD, the clinical safety and efficacy of ranibizumab have been assessed in three randomised, double-masked, sham- or active-controlled studies of 24 months duration in patients with neovascular AMD. A total of 1,323 patients (879 active and 444 control) were enrolled in these studies.
 
-In study FVF2598g (MARINA), 716 patients with minimally classic or occult with no classic lesions were randomised in a 1:1:1 ratio to receive monthly injections of ranibizumab 0.3 mg, ranibizumab 0.5 mg or sham.
-
-In study FVF2587g (ANCHOR), 423 patients with predominantly classic CNV lesions were randomised in a 1:1:1 ratio to receive ranibizumab 0.3 mg monthly, ranibizumab 0.5 mg monthly or verteporfin PDT (at baseline and every 3 months thereafter if fluorescein angiography showed persistence or recurrence of vascular leakage).
+In study FVF2598g (MARINA), 716 patients with minimally classic or occult with no classic lesions were randomised in a 1:1:1 ratio to receive monthly injections of ranibizumab 0.3 mg, ranibizumab
 
 <div style=\"page-break-after: always\"></div>
+
+0.5 mg or sham.
+
+In study FVF2587g (ANCHOR), 423 patients with predominantly classic CNV lesions were randomised in a 1:1:1 ratio to receive ranibizumab 0.3 mg monthly, ranibizumab 0.5 mg monthly or verteporfin PDT (at baseline and every 3 months thereafter if fluorescein angiography showed persistence or recurrence of vascular leakage).
 
 Key outcome measures are summarised in Table 1 and Figure 1.
 
 Table1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
 
-|                                                                                      |          | FVF2598g (MARINA)   | FVF2598g (MARINA)           | FVF2587g (ANCHOR)      | FVF2587g (ANCHOR)           |
-|--------------------------------------------------------------------------------------|----------|---------------------|-----------------------------|------------------------|-----------------------------|
-| Outcome measure                                                                      | Month    | Sham (n=238)        | Ranibi zumab 0.5 mg (n=240) | Verteporfin PDT(n=143) | Ranibi zumab 0.5 mg (n=140) |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                 | 95%                         | 64%                    | 96%                         |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                 | 90%                         | 66%                    | 90%                         |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                  | 34%                         | 6%                     | 40%                         |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                  | 33%                         | 6%                     | 41%                         |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5(16.6)         | +7.2 (14.4)                 | -9.5 (16.4)            | +11.3 (14.6)                |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                 | -9.8 (17.6)            | +10.7 (16.5)                |
+|                                                                                      |          | FVF2598g (MARINA)   | FVF2598g (MARINA)           | FVF2587g (ANCHOR)       | FVF2587g (ANCHOR)           |
+|--------------------------------------------------------------------------------------|----------|---------------------|-----------------------------|-------------------------|-----------------------------|
+| Outcome measure                                                                      | Month    | Sham (n=238)        | Ranibi zumab 0.5 mg (n=240) | Verteporfin PDT (n=143) | Ranibi zumab 0.5 mg (n=140) |
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                 | 95%                         | 64%                     | 96%                         |
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                 | 90%                         | 66%                     | 90%                         |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                  | 34%                         | 6%                      | 40%                         |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                  | 33%                         | 6%                      | 41%                         |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5(16.6)         | +7.2 (14.4)                 | -9.5 (16.4)             | +11.3 (14.6)                |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                 | -9.8 (17.6)             | +10.7 (16.5)                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1220,12 +1237,12 @@ The mean number of injections given over 12-months was 5.8 in the ranibizumab ar
 
 Table 3 Outcomes at Month 2 (MINERVA)
 
-|                                                                              | Ranibizumab 0.5 mg(n=119)   | Sham (n=59)   |
-|------------------------------------------------------------------------------|-----------------------------|---------------|
-| Mean BCVA change from baseline to Month 2 a                                  | 9.5 letters                 | -0.4 letters  |
-| Patients gaining ≥15 letters from baseline or reaching 84 letters at Month 2 | 31.4%                       | 12.3%         |
-| Patients not losing >15 letters from baseline at Month 2                     | 99.2%                       | 94.7%         |
-| Reduction in CSFT b from baseline to Month 2 a                               | 77 µm                       | -9.8 µm       |
+|                                                                              | Ranibizumab 0.5 mg (n=119)   | Sham (n=59)   |
+|------------------------------------------------------------------------------|------------------------------|---------------|
+| Mean BCVA change from baseline to Month 2 a                                  | 9.5 letters                  | -0.4 letters  |
+| Patients gaining ≥15 letters from baseline or reaching 84 letters at Month 2 | 31.4%                        | 12.3%         |
+| Patients not losing >15 letters from baseline at Month 2                     | 99.2%                        | 94.7%         |
+| Reduction in CSFT b from baseline to Month 2 a                               | 77 µm                        | -9.8 µm       |
 
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
@@ -1380,7 +1397,7 @@ Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO
 
 <!-- image -->
 
-BL=baseline;SE=standarderror ofmean
+BL=baseline; SE=standard error of mean
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1388,7 +1405,7 @@ BL=baseline;SE=standarderror ofmean
 
 <!-- image -->
 
-BL-baseline;SE=standard errorofmean
+BL=baseline; SE=standard error of mean
 
 In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
@@ -1404,14 +1421,13 @@ Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 9.
 
 Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 
-|                                              | BRIGHTER                 | BRIGHTER                         | BRIGHTER      | CRYSTAL                  |
-|----------------------------------------------|--------------------------|----------------------------------|---------------|--------------------------|
-|                                              | Ranibizumab 0.5 mg N=180 | Ranibizumab 0.5 mg + Laser N=178 | Laser* N=90   | Ranibizumab 0.5 mg N=356 |
-| Mean change in BCVA at Month 6 a (letters)   | +14.8 (10.7)             | +14.8 (11.13)                    | +6.0          | +12.0 (13.95)            |
-| (SD) Mean change in BCVA at b                |                          |                                  | (14.27)       |                          |
-| Month 24 (letters) (SD)                      | +15.5 (13.91)            | +17.3 (12.61)                    | +11.6 (16.09) | +12.1 (18.60)            |
-| Mean number of injections (SD) (Months 0-23) | 11.4 (5.81)              | 11.3 (6.02)                      | NA            | 13.1                     |
-|                                              |                          |                                  |               | (6.39)                   |
+|                                                  | BRIGHTER                 | BRIGHTER                         | BRIGHTER      | CRYSTAL                  |
+|--------------------------------------------------|--------------------------|----------------------------------|---------------|--------------------------|
+|                                                  | Ranibizumab 0.5 mg N=180 | Ranibizumab 0.5 mg + Laser N=178 | Laser* N=90   | Ranibizumab 0.5 mg N=356 |
+| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)             | +14.8 (11.13)                    | +6.0 (14.27)  | +12.0 (13.95)            |
+| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)            | +17.3 (12.61)                    | +11.6 (16.09) | +12.1 (18.60)            |
+| Gain of ≥15 letters in BCVA at Month 24 (%)      | 52.8                     | 59.6                             | 43.3          | 49.2                     |
+| Mean number of injections (SD) (Months 0-23)     | 11.4 (5.81)              | 11.3 (6.02)                      | NA            | 13.1 (6.39)              |
 
 a p&lt;0.0001 for both comparisons in BRIGHTER at Month 6: Ranibizumab 0.5 mg vs Laser and        Ranibizumab 0.5 mg + Laser vs Laser.
 
@@ -1506,11 +1522,11 @@ To prepare Rimmyrah for intravitreal administration, please adhere to the instru
 
 <!-- image -->
 
-| Introduction                   | Read all the instructions carefully before using the pre-filled syringe. The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions.   | Read all the instructions carefully before using the pre-filled syringe. The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions.   |
-|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pre-filled syringe description | Note: The dose must be set to 0.05 ml.                                                                                                                                                                                                                                                                            | Note: The dose must be set to 0.05 ml.                                                                                                                                                                                                                                                                            |
-| Prepare                        | Figure 1 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully remove                                                                                                                                | Figure 1 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully remove                                                                                                                                |
-| Check syringe                  | the syringe. 3. Check that: • the syringe cap is not detached from the Luer lock. • the syringe is not damaged. • the solution looks clear, colourless to pale brownish-yellow and does not contain any particles. 4. If any of the above is not true, discard the pre-filled syringe and use a new one.          |                                                                                                                                                                                                                                                                                                                   |
+| Introduction                   | Read all the instructions carefully before using the pre-filled syringe. The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. Note: The dose must be set to 0.05 ml.   | Read all the instructions carefully before using the pre-filled syringe. The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. Note: The dose must be set to 0.05 ml.   |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Pre-filled syringe description | Figure 1                                                                                                                                                                                                                                                                                                                                                 | Figure 1                                                                                                                                                                                                                                                                                                                                                 |
+| Prepare                        | 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully remove                                                                                                                                                                                | 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully remove                                                                                                                                                                                |
+| Check syringe                  | the syringe. 3. Check that: • the syringe cap is not detached from the Luer lock. • the syringe is not damaged. • the solution looks clear, colourless to pale brownish-yellow and does not contain any particles. 4. If any of the above is not true, discard the pre-filled syringe and use a new one.                                                 |                                                                                                                                                                                                                                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1524,8 +1540,8 @@ To prepare Rimmyrah for intravitreal administration, please adhere to the instru
 
 <div style=\"page-break-after: always\"></div>
 
-| Inject   | The injection procedure should be carried out under aseptic conditions. 12. The injection needle should be inserted 3.5-4.0 mmposterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 13. Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml. 14. A different scleral site should be used for subsequent injections. 15. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements.   |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Inject   | The injection procedure should be carried out under aseptic conditions. 12. The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 13. Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml. 14. A different scleral site should be used for subsequent injections. 15. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements.   |
+|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1935,6 +1951,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1962,7 +1980,6 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1976,8 +1993,6 @@ Justification for not including Braille accepted.
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -2035,9 +2050,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2060,8 +2075,8 @@ Rimmyrah is used in adults to treat several eye diseases causing vision impairme
 
 These diseases result from damage to the retina (light-sensitive layer at the back of the eye) caused by:
 
-- -Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
-- -Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
+- Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
+- Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
 
 ## How Rimmyrah works
 
@@ -2075,18 +2090,18 @@ In these diseases, Rimmyrah can help to stabilise and in many cases improve your
 
 ## You must not receive Rimmyrah
 
-- -If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in section 6).
-- -If you have an infection in or around your eye.
-- -If you have pain or redness (severe intraocular inflammation) in your eye.
+- If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in section 6).
+- If you have an infection in or around your eye.
+- If you have pain or redness (severe intraocular inflammation) in your eye.
 
 ## Warnings and precautions
 
 Talk to your doctor before you are given Rimmyrah.
 
-- -Rimmyrah is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Rimmyrah treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
-- -In some patients the eye pressure may increase for a short period directly after the injection.
-- -This is something you may not notice, therefore your doctor may monitor this after each injection.
-- -Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Rimmyrah is the appropriate treatment for you.
+- Rimmyrah is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Rimmyrah treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
+- In some patients the eye pressure may increase for a short period directly after the injection.
+- This is something you may not notice, therefore your doctor may monitor this after each injection.
+- Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Rimmyrah is the appropriate treatment for you.
 
 Please see section 4 ('Possible side effects') for more detailed information on side effects that could occur during Rimmyrah therapy.
 
@@ -2100,9 +2115,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Rimmyrah.
-- -There is no experience of using Rimmyrah in pregnant women. Rimmyrah should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Rimmyrah.
-- -Small amounts of ranibizumab may pass into breast milk, therefore Rimmyrah is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Rimmyrah treatment.
+- Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Rimmyrah.
+- There is no experience of using Rimmyrah in pregnant women. Rimmyrah should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Rimmyrah.
+- Small amounts of ranibizumab may pass into breast milk, therefore Rimmyrah is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Rimmyrah treatment.
 
 ## Driving and using machines
 
@@ -2140,11 +2155,11 @@ The most serious side effects are described below:
 
 ## Common serious side effects (may affect up to 1 in 10 people):
 
-- -Detachment or tear of the layer in the back of the eye (retinal detachment or tear), resulting in flashes of light with floaters progressing to a temporary loss of sight, or a clouding of the lens (cataract).
+- Detachment or tear of the layer in the back of the eye (retinal detachment or tear), resulting in flashes of light with floaters progressing to a temporary loss of sight, or a clouding of the lens (cataract).
 
 ## Uncommon serious side effects (may affect up to 1 in 100 people):
 
-- -Blindness, infection of the eyeball (endophthalmitis) with inflammation of the inside of the eye.
+- Blindness, infection of the eyeball (endophthalmitis) with inflammation of the inside of the eye.
 
 The symptoms you might experience are pain or increased discomfort in your eye, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
 
@@ -2156,29 +2171,29 @@ The most frequently reported side effects are described below:
 
 Visual side effects include:
 
-- -Inflammation of the eye,
-- -Bleeding in the back of the eye (retinal bleeding),
-- -Visual disturbances,
-- -Eye pain,
-- -Small particles or spots in your vision (floaters),
-- -Bloodshot eye, eye irritation,
-- -A feeling of having something in the eye,
-- -Increased tear production,
+- Inflammation of the eye,
+- Bleeding in the back of the eye (retinal bleeding),
+- Visual disturbances,
+- Eye pain,
+- Small particles or spots in your vision (floaters),
+- Bloodshot eye, eye irritation,
+- A feeling of having something in the eye,
+- Increased tear production,
 
 <div style=\"page-break-after: always\"></div>
 
-- -Inflammation or infection of the eyelid margins,
-- -Dry eye,
-- -Redness or itching of the eye,
-- -Increased eye pressure.
+- Inflammation or infection of the eyelid margins,
+- Dry eye,
+- Redness or itching of the eye,
+- Increased eye pressure.
 
 Non-visual side effects include:
 
-- -Sore throat,
-- -Nasal congestion,
-- -Runny nose,
-- -Headache,
-- -Joint pain.
+- Sore throat,
+- Nasal congestion,
+- Runny nose,
+- Headache,
+- Joint pain.
 
 Other side effects which may occur following Rimmyrah treatment are described below:
 
@@ -2186,39 +2201,44 @@ Other side effects which may occur following Rimmyrah treatment are described be
 
 Visual side effects include:
 
-- -Decreased sharpness of vision,
-- -Swelling of a section of the eye (uvea, cornea),
-- -Inflammation of the cornea (front part of eye),
-- -Small marks on the surface of the eye,
-- -Blurred vision,
-- -Bleeding at the site of injection,
-- -Bleeding in the eye,
-- -Discharge from the eye with itching,
-- -Redness and swelling (conjunctivitis),
-- -Light sensitivity,
-- -Eye discomfort,
-- -Swelling of the eyelid,
-- -Eyelid pain.
+- Decreased sharpness of vision,
+- Swelling of a section of the eye (uvea, cornea),
+- Inflammation of the cornea (front part of eye),
+- Small marks on the surface of the eye,
+- Blurred vision,
+- Bleeding at the site of injection,
+- Bleeding in the eye,
+- Discharge from the eye with itching,
+- Redness and swelling (conjunctivitis),
+- Light sensitivity,
+- Eye discomfort,
+- Swelling of the eyelid,
+- Eyelid pain.
 
-Non-visual side effects include:
+## Non-visual side effects include:
 
-- -Urinary tract infection,
-- -Low red blood cells count (with symptoms such as tiredness, breathlessness, dizziness, pale skin),
-- -Anxiety,
-- -Cough,
-- -Nausea (feeling sick),
-- -Allergic reactions like rash, hives, itching and skin reddening.
+- Urinary tract infection,
+- Low red blood cells count (with symptoms such as tiredness, breathlessness, dizziness, pale skin),
+- Anxiety,
+- Cough,
+- Nausea (feeling sick),
+- Allergic reactions like rash, hives, itching and skin reddening.
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
 Visual side effects include:
 
-- -Inflammation and bleeding in the front part of the eye,
-- -Sac of pus on the eye,
-- -Changes of the central part of the eye surface,
-- -Pain or irritation at the site of injection,
-- -Abnormal sensation in the eye,
-- -Irritation of the eyelid.
+- Inflammation and bleeding in the front part of the eye,
+- Sac of pus on the eye,
+- Changes of the central part of the eye surface,
+- Pain or irritation at the site of injection,
+- Abnormal sensation in the eye,
+- Irritation of the eyelid.
+
+## Not known (frequency cannot be estimated from the available data)
+
+- Retinal vasculitis (inflammation of blood vessels in the back of the eye)
+- Retinal occlusive vasculitis (blockage of blood vessels in the back of the eye, typically in presence of inflammation)
 
 ## Reporting of side effects
 
@@ -2228,19 +2248,19 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## 5. How to store Rimmyrah
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2°C - 8°C). Do not freeze.
-- -Prior to use, the unopened vial may be kept at room temperature (25°C) for up to 24 hours.
-- -Keep the vial in the outer carton in order to protect from light.
-- -Do not use any pack that is damaged.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2°C - 8°C). Do not freeze.
+- Prior to use, the unopened vial may be kept at room temperature (25°C) for up to 24 hours.
+- Keep the vial in the outer carton in order to protect from light.
+- Do not use any pack that is damaged.
 
 ## 6 . Contents of the pack and other information
 
 ## What Rimmyrah contains
 
-- -The active substance is ranibizumab. Each ml contains 10 mg ranibizumab. Each vial contains 2,3 mg ranibizumab in 0.23 ml solution. This provides a suitable amount to deliver a single dose of 0.05 ml containing 0.5 mg ranibizumab.
-- -The other ingredients are trehalose dihydrate, histidine hydrochloride monohydrate, histidine, polysorbate 20 (E432), water for injections.
+- The active substance is ranibizumab. Each ml contains 10 mg ranibizumab. Each vial contains 2,3 mg ranibizumab in 0.23 ml solution. This provides a suitable amount to deliver a single dose of 0.05 ml containing 0.5 mg ranibizumab.
+- The other ingredients are trehalose dihydrate, histidine hydrochloride monohydrate, histidine, polysorbate 20 (E432), water for injections.
 
 ## What Rimmyrah looks like and contents of the pack
 
@@ -2258,7 +2278,9 @@ Pack containing one glass vial of ranibizumab with chlorobutyl rubber stopper an
 
 ## Marketing Authorisation Holder
 
-QILU PHARMA SPAIN S.L. Paseo de la Castellana 40, planta 8 28046 Madrid Spain
+QILU PHARMA SPAIN S.L.
+
+Paseo de la Castellana 40, planta 8 28046 Madrid Spain
 
 ## Manufacturer
 
@@ -2266,11 +2288,13 @@ KYMOS, S.L. Ronda De Can Fatjo 7 B Parc Tecnologic Del Valles Cerdanyola Del Val
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Qilu Pharma Spain S.L. Tél/Tel: + 34 911 841 918
-
-Lietuva UAB Orion Pharma Tel: +370 5 276 9499
+| België/Belgique/Belgien   | Lietuva          |
+|---------------------------|------------------|
+| Qilu Pharma Spain S.L.    | UAB Orion Pharma |
 
 <div style=\"page-break-after: always\"></div>
+
+Tél/Tel: + 34 911 841 918
 
 ## България
 
@@ -2326,13 +2350,15 @@ Qilu Pharma Spain S.L. Τηλ: + 34 911 841 918
 
 ## Latvija
 
-Orion Corporation, Orion Pharma pārstāvniecība Latvijā Tālr. +371 20028332
+Orion Corporation, Orion Pharma pārstāvniecība
+
+Latvijā Tālr. +371 20028332
+
+Tel: +370 5 276 9499
 
 ## Luxembourg/Luxemburg
 
-Qilu Pharma Spain S.L.
-
-Tél/Tel: + 34 911 841 918
+Qilu Pharma Spain S.L. Tél/Tel: + 34 911 841 918
 
 ## Magyarország
 
@@ -2414,9 +2440,11 @@ The treatment of visual impairment due to CNV should be determined individually 
 
 Ranibizumab and laser photocoagulation in DME and macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation. When given on the same day, ranibizumab should be administered at least 30 minutes after laser photocoagulation. ranibizumab can be administered in patients who have received previous laser photocoagulation.
 
-Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM There is no experience of concomitant administration of ranibizumab and verteporfin.
+Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM
 
 <div style=\"page-break-after: always\"></div>
+
+There is no experience of concomitant administration of ranibizumab and verteporfin.
 
 Rimmyrah should be inspected visually to ensure there is no particulate matter, discolouration or disturbance prior to the administration. If particulate matter, discolouration or disturbance is observed, the vial should be discarded per local disposal guidelines.
 
@@ -2428,9 +2456,9 @@ The vial is for single use only. After injection any unused product must be disc
 
 For preparation and intravitreal injection the following medical devices for single use are needed:
 
-- -a 5 µm filter needle (18G × 1½ inches, 1.2 mm × 40 mm)
-- -a 1 ml sterile syringe (including a 0.05 ml mark)
-- -an injection needle (30G × ½ inches).
+- a 5 µm filter needle (18G × 1½ inches, 1.2 mm × 40 mm)
+- a 1 ml sterile syringe (including a 0.05 ml mark)
+- an injection needle (30G × ½ inches).
 
 These medical devices are not included within the Rimmyrah pack.
 
@@ -2440,9 +2468,9 @@ All components are sterile and for single use only. Any component with packaging
 
 For preparation and intravitreal injection the following medical devices for single use are needed:
 
-- -a 5 µm filter needle (18G × 1½ inches, 1.2 mm × 40 mm, provided)
-- -a 1 ml sterile syringe (including a 0.05 ml mark, not included within the Rimmyrah pack)
-- -an injection needle (30G × ½ inches; not included within the Rimmyrah pack)
+- a 5 µm filter needle (18G × 1½ inches, 1.2 mm × 40 mm, provided)
+- a 1 ml sterile syringe (including a 0.05 ml mark, not included within the Rimmyrah pack)
+- an injection needle (30G × ½ inches; not included within the Rimmyrah pack)
 
 To prepare Rimmyrah for intravitreal administration to adult patients, please adhere to the following instructions:
 
@@ -2492,9 +2520,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2517,8 +2545,8 @@ Rimmyrah is used in adults to treat several eye diseases causing vision impairme
 
 These diseases result from damage to the retina (light-sensitive layer at the back of the eye) caused by:
 
-- -Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
-- -Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
+- Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
+- Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
 
 ## How Rimmyrah works
 
@@ -2532,18 +2560,18 @@ In these diseases, Rimmyrah can help to stabilise and in many cases improve your
 
 ## You must not receive Rimmyrah
 
-- -If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in section 6).
-- -If you have an infection in or around your eye.
-- -If you have pain or redness (severe intraocular inflammation) in your eye.
+- If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in section 6).
+- If you have an infection in or around your eye.
+- If you have pain or redness (severe intraocular inflammation) in your eye.
 
 ## Warnings and precautions
 
 Talk to your doctor before you are given Rimmyrah.
 
-- -Rimmyrah is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Rimmyrah treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
-- -In some patients the eye pressure may increase for a short period directly after the injection.
-- -This is something you may not notice, therefore your doctor may monitor this after each injection.
-- -Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Rimmyrah is the appropriate treatment for you.
+- Rimmyrah is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Rimmyrah treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
+- In some patients the eye pressure may increase for a short period directly after the injection.
+- This is something you may not notice, therefore your doctor may monitor this after each injection.
+- Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Rimmyrah is the appropriate treatment for you.
 
 Please see section 4 ('Possible side effects') for more detailed information on side effects that could occur during Rimmyrah therapy.
 
@@ -2557,9 +2585,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Rimmyrah.
-- -There is no experience of using Rimmyrah in pregnant women. Rimmyrah should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Rimmyrah.
-- -Small amounts of Rimmyrah may pass into breast milk, therefore Rimmyrah is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Rimmyrah treatment.
+- Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Rimmyrah.
+- There is no experience of using Rimmyrah in pregnant women. Rimmyrah should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Rimmyrah.
+- Small amounts of Rimmyrah may pass into breast milk, therefore Rimmyrah is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Rimmyrah treatment.
 
 ## Driving and using machines
 
@@ -2599,11 +2627,11 @@ The most serious side effects are described below:
 
 ## Common serious side effects (may affect up to 1 in 10 people):
 
-- -Detachment or tear of the layer in the back of the eye (retinal detachment or tear), resulting in flashes of light with floaters progressing to a temporary loss of sight, or a clouding of the lens (cataract).
+- Detachment or tear of the layer in the back of the eye (retinal detachment or tear), resulting in flashes of light with floaters progressing to a temporary loss of sight, or a clouding of the lens (cataract).
 
 ## Uncommon serious side effects (may affect up to 1 in 100 people):
 
-- -Blindness, infection of the eyeball (endophthalmitis) with inflammation of the inside of the eye.
+- Blindness, infection of the eyeball (endophthalmitis) with inflammation of the inside of the eye.
 
 The symptoms you might experience are pain or increased discomfort in your eye, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
 
@@ -2615,29 +2643,29 @@ The most frequently reported side effects are described below:
 
 Visual side effects include:
 
-- -Inflammation of the eye,
-- -Bleeding in the back of the eye (retinal bleeding),
-- -Visual disturbances,
+- Inflammation of the eye,
+- Bleeding in the back of the eye (retinal bleeding),
+- Visual disturbances,
 
 <div style=\"page-break-after: always\"></div>
 
-- -Eye pain,
-- -Small particles or spots in your vision (floaters),
-- -Bloodshot eye, eye irritation,
-- -A feeling of having something in the eye,
-- -Increased tear production,
-- -Inflammation or infection of the eyelid margins,
-- -Dry eye,
-- -Redness or itching of the eye,
-- -Increased eye pressure.
+- Eye pain,
+- Small particles or spots in your vision (floaters),
+- Bloodshot eye, eye irritation,
+- A feeling of having something in the eye,
+- Increased tear production,
+- Inflammation or infection of the eyelid margins,
+- Dry eye,
+- Redness or itching of the eye,
+- Increased eye pressure.
 
 ## Non-visual side effects include:
 
-- -Sore throat,
-- -Nasal congestion,
-- -Runny nose,
-- -Headache,
-- -Joint pain.
+- Sore throat,
+- Nasal congestion,
+- Runny nose,
+- Headache,
+- Joint pain.
 
 Other side effects which may occur following Rimmyrah treatment are described below:
 
@@ -2645,61 +2673,66 @@ Other side effects which may occur following Rimmyrah treatment are described be
 
 Visual side effects include:
 
-- -Decreased sharpness of vision,
-- -Swelling of a section of the eye (uvea, cornea),
-- -Inflammation of the cornea (front part of eye),
-- -Small marks on the surface of the eye,
-- -Blurred vision,
-- -Bleeding at the site of injection,
-- -Bleeding in the eye,
-- -Discharge from the eye with itching,
-- -Redness and swelling (conjunctivitis),
-- -Light sensitivity,
-- -Eye discomfort,
-- -Swelling of the eyelid,
-- -Eyelid pain.
+- Decreased sharpness of vision,
+- Swelling of a section of the eye (uvea, cornea),
+- Inflammation of the cornea (front part of eye),
+- Small marks on the surface of the eye,
+- Blurred vision,
+- Bleeding at the site of injection,
+- Bleeding in the eye,
+- Discharge from the eye with itching,
+- Redness and swelling (conjunctivitis),
+- Light sensitivity,
+- Eye discomfort,
+- Swelling of the eyelid,
+- Eyelid pain.
 
 ## Non-visual side effects include:
 
-- -Urinary tract infection,
-- -Low red blood cells count (with symptoms such as tiredness, breathlessness, dizziness, pale skin),
-- -Anxiety,
-- -Cough,
-- -Nausea,
-- -Allergic reactions like rash, hives, itching and skin reddening.
+- Urinary tract infection,
+- Low red blood cells count (with symptoms such as tiredness, breathlessness, dizziness, pale skin),
+- Anxiety,
+- Cough,
+- Nausea,
+- Allergic reactions like rash, hives, itching and skin reddening.
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
 Visual side effects include:
 
-- -Inflammation and bleeding in the front part of the eye,
-- -Sac of pus on the eye,
-- -Changes of the central part of the eye surface,
-- -Pain or irritation at the site of injection,
-- -Abnormal sensation in the eye,
-- -Irritation of the eyelid.
+- Inflammation and bleeding in the front part of the eye,
+- Sac of pus on the eye,
+- Changes of the central part of the eye surface,
+- Pain or irritation at the site of injection,
+- Abnormal sensation in the eye,
+- Irritation of the eyelid.
+
+## Not known (frequency cannot be estimated from the available data)
+
+- Retinal vasculitis (inflammation of blood vessels in the back of the eye)
+- Retinal occlusive vasculitis (blockage of blood vessels in the back of the eye, typically in presence of inflammation)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. How to store Rimmyrah
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and pre-filled syringe label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2°C - 8°C). Do not freeze.
-- -Prior to use, the sealed tray may be kept at room temperature (25°C) for up to 24 hours.
-- -Keep the pre-filled syringe in its unopened tray in the carton in order to protect from light.
-- -Do not use any pack that is damaged.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and pre-filled syringe label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2°C - 8°C). Do not freeze.
+- Prior to use, the sealed tray may be kept at room temperature (25°C) for up to 24 hours.
+- Keep the pre-filled syringe in its unopened tray in the carton in order to protect from light.
+- Do not use any pack that is damaged.
 
 ## 6 . Contents of the pack and other information
 
 ## What Rimmyrah contains
 
-- -The active substance is ranibizumab. Each ml contains 10 mg ranibizumab. One pre-filled syringe contains 0.165 ml, equivalent to 1.65 mg ranibizumab. This provides a usable amount to deliver a single dose of 0.05 ml containing 0.5 mg ranibizumab.
-- -The other ingredients are trehalose dihydrate, histidine hydrochloride monohydrate, histidine, polysorbate 20 (E432), water for injections.
+- The active substance is ranibizumab. Each ml contains 10 mg ranibizumab. One pre-filled syringe contains 0.165 ml, equivalent to 1.65 mg ranibizumab. This provides a usable amount to deliver a single dose of 0.05 ml containing 0.5 mg ranibizumab.
+- The other ingredients are trehalose dihydrate, histidine hydrochloride monohydrate, histidine, polysorbate 20 (E432), water for injections.
 
 ## What Rimmyrah looks like and contents of the pack
 
@@ -2709,9 +2742,7 @@ Pack size of one pre-filled syringe, packed in a sealed tray. The pre-filled syr
 
 ## Marketing Authorisation Holder
 
-QILU PHARMA SPAIN S.L.
-
-Paseo de la Castellana 40, planta 8 28046 Madrid Spain
+QILU PHARMA SPAIN S.L. Paseo de la Castellana 40, planta 8 28046 Madrid Spain
 
 ## Manufacturer
 
@@ -2719,27 +2750,15 @@ KYMOS, S.L. Ronda De Can Fatjo 7 B Parc Tecnologic Del Valles Cerdanyola Del Val
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
-
-Qilu Pharma Spain S.L. Tél/Tel: + 34 911 841 918
+België/Belgique/Belgien Qilu Pharma Spain S.L. Tél/Tel: + 34 911 841 918
 
 Lietuva UAB Orion Pharma Tel: +370 5 276 9499
 
+<div style=\"page-break-after: always\"></div>
+
 ## България
 
-Qilu Pharma Spain S.L.
-
-Te л
-
-.: + 34 911 841 918
-
-## Luxembourg/Luxemburg
-
-Qilu Pharma Spain S.L.
-
-Tél/Tel: + 34 911 841 918
-
-<div style=\"page-break-after: always\"></div>
+Qilu Pharma Spain S.L. Te л .: + 34 911 841 918
 
 ## Česká republika
 
@@ -2791,13 +2810,13 @@ Qilu Pharma Spain S.L. Τηλ:  +34 911 841 918
 
 ## Latvija
 
-Orion Corporation, Orion Pharma pārstāvniecība Latvijā
+Orion Corporation, Orion Pharma pārstāvniecība
 
-Tālr.
+Latvijā Tālr. +371 20028332
 
-+371 20028332
+## Luxembourg/Luxemburg
 
-## This leaflet was last revised in
+Qilu Pharma Spain S.L. Tél/Tel: + 34 911 841 918
 
 ## Magyarország
 
@@ -2809,9 +2828,7 @@ Qilu Pharma Spain S.L. Tel: +34 911 841 918
 
 ## Nederland
 
-Orion Pharma BV/SRL
-
-Tel: +32 (0)15 64 10 20
+Orion Pharma BV/SRL Tel: +32 (0)15 64 10 20
 
 ## Norge
 
@@ -2851,6 +2868,8 @@ Orion Pharma AB Tel: + 46 8 623 6440
 
 <div style=\"page-break-after: always\"></div>
 
+## This leaflet was last revised in
+
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu
@@ -2881,11 +2900,13 @@ The treatment of visual impairment due to CNV should be determined individually 
 
 Ranibizumab and laser photocoagulation in DME and macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation. When given on the same day, ranibizumab should be administered at least 30 minutes after laser photocoagulation. Ranibizumab can be administered in patients who have received previous laser photocoagulation.
 
-Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM There is no experience of concomitant administration of ranibizumab and verteporfin.
+<div style=\"page-break-after: always\"></div>
+
+Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM
+
+There is no experience of concomitant administration of ranibizumab and verteporfin.
 
 Rimmyrah should be inspected visually for particulate matter and discoloration prior to administration.
-
-<div style=\"page-break-after: always\"></div>
 
 The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required). The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure. Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
@@ -2899,23 +2920,48 @@ To prepare Rimmyrah for intravitreal administration, please adhere to the instru
 
 <!-- image -->
 
-| Introduction                   | Read all the instructions carefully before using the pre-filled syringe. The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. 0.05 ml.   | Read all the instructions carefully before using the pre-filled syringe. The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. 0.05 ml.   |
-|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pre-filled syringe description | Note: The dose must be set to                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                            |
-| Prepare                        | Figure 1 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully                                                                                                                                                | Figure 1 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully                                                                                                                                                |
-| Check syringe                  | remove the syringe. 3. Check that: • the syringe cap is not detached from the Luer lock. • the syringe is not damaged. • the solution looks clear, colourless to pale brownish-yellow and does not contain any particles. 4. If any of the above is not true, discard the pre-filled syringe and use a new one.            |                                                                                                                                                                                                                                                                                                                            |
+| Introduction                   | Read all the instructions carefully before using the pre-filled syringe. The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. Note: The dose must be set to 0.05 ml.   | Read all the instructions carefully before using the pre-filled syringe. The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. Note: The dose must be set to 0.05 ml.   |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Pre-filled syringe description |                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                          |
+| Prepare                        | Figure 1 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully                                                                                                                                                                              | Figure 1 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully                                                                                                                                                                              |
+| Check syringe                  | remove the syringe. 3. Check that: • the syringe cap is not detached from the Luer lock. • the syringe is not damaged. • the solution looks clear, colourless to pale brownish-yellow and does not                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-| Remove syringe cap   | 5. Twist off the syringe cap (see Figure 2). 6. Dispose of the syringe cap (see Figure 3).                                                                                                                                                                                                                                                 | Figure 2 Figure 3   |
-|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
-| Attach needle        | 7. Attach a 30G x ½ ″ sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 4). 8. Carefully remove the needle cap by pulling it straight off (see Figure 5). Note: Do not wipe the needle at any time.                                                                                   |                     |
-| Dislodge air bubbles | 9. Hold the syringe upright. 10. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 6).                                                                                                                                                                                   | Figure 4 Figure     |
-| Set dose             | 11. Hold the syringe at eye level and carefully push the plunger until the edge below the dome of the rubber stopper is aligned with the dose mark (see Figure 7). This will expel the air and the excess solution and set the dose to 0.05 ml. Note: Be careful not to pull on the plunger rod to avoid air being drawn into the syringe. | Figure 7            |
+|                      | contain any particles. 4. If any of the above is not true, the pre-filled syringe and use a new one.                                                                                                                                                     | discard           |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Remove syringe cap   | 5. Twist off the syringe cap (see Figure 2). 6. Dispose of the syringe cap (see Figure 3).                                                                                                                                                               | Figure 2 Figure 3 |
+| Attach needle        | 7. Attach a 30G x ½ ″ sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 4). 8. Carefully remove the needle cap by pulling it straight off (see Figure 5). Note: Do not wipe the needle at any time. | Figure 4 Figure 5 |
+| Dislodge air bubbles | 9. Hold the syringe upright. 10. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 6).                                                                                                 | Figure 6          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Inject   | The injection procedure should be carried out under aseptic conditions. 12. The injection needle should be inserted 3.5-4.0 mmposterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 13. Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml. 14. A different scleral site should be used for subsequent injections. 15. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements.   |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<!-- image -->
+
+| Set dose   | 11. Hold the syringe at eye level and carefully push the plunger until the edge below the dome of the rubber stopper is aligned with the dose mark (see Figure 7). This will expel the air and the excess solution and set the dose to 0.05 ml. Note: Be careful not to pull on the plunger rod to avoid air being drawn into the syringe.                                                                                                                                                                                                                                                                                                | Figure 7 aseptic conditions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Inject     | The injection procedure should be carried out under 12. The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 13. Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml. 14. A different scleral site should be used for subsequent injections. 15. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements. | The injection procedure should be carried out under 12. The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 13. Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml. 14. A different scleral site should be used for subsequent injections. 15. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements. |
+
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV
+
+Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for ranibizumab, the scientific conclusions of PRAC are as follows:
+
+In view of available data on retinal vasculitis with or without occlusion from clinical trials, the literature, spontaneous reports and in view of a plausible mechanism of action, the PRAC Rapporteur considers a causal relationship between ranibizumab and retinal vasculitis with or without occlusion, at least a reasonable possibility.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for ranibizumab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing ranibizumab is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

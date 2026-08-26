@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-05 09:19:51
+document_datetime: 2026-08-19 17:22:57
 document_pages: 63
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kisqali-epar-product-information_en.pdf
 document_name: kisqali-epar-product-information_en.pdf
 version: success
-processing_time: 24.5754378
-conversion_datetime: 2026-08-07 14:29:06.799071
+processing_time: 26.6718361
+conversion_datetime: 2026-08-26 10:40:50.881269
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -111,7 +111,7 @@ Tables 2, 3, 4, 5 and 6 summarise recommendations for dose interruption, reducti
 
 Complete blood counts (CBC) should be performed before initiating treatment with Kisqali. After initiating treatment CBC should be monitored every 2 weeks for the first 2 cycles, at the beginning of each of the subsequent 4 cycles, then as clinically indicated.
 
-Table 2 Dose modification and management -Neutropenia
+Table 2 Dose modification and management - Neutropenia
 
 |                                                                                                                                                                                                                              | Grade 1 or 2* (ANC 1 000/mm 3 - ≤ LLN)                                                                                                                                                                                       | Grade 3* (ANC 500 - <1 000/mm 3 )                                                                                                                                                                                            | Grade 3* febrile neutropenia**                                                                                                                                                                                               | Grade 4* (ANC <500/mm 3 )                                                                                                                                                                                                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -122,7 +122,7 @@ Liver function tests (LFTs) should be performed before initiating treatment with
 
 <div style=\"page-break-after: always\"></div>
 
-Table 3 Dose modification and management -Hepatobiliary toxicity
+Table 3 Dose modification and management - Hepatobiliary toxicity
 
 |                                                                                                                                                                            | Grade 1* (> ULN - 3 x ULN)                                                                                                                                                 | Grade 2* (>3 to 5 x ULN)                                                                                                                                                     | Grade 3* (>5 to 20 x ULN)                                                                                                                                                  | Grade 4* (>20 x ULN)                                                                                                                                                       |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -137,7 +137,7 @@ Treatment with Kisqali should be initiated only in patients with QTcF values les
 
 In case of QTcF prolongation during treatment, more frequent ECG monitoring is recommended in patients with early breast cancer and advanced or metastatic breast cancer.
 
-Table 4 Dose modification and management -QT prolongation
+Table 4 Dose modification and management - QT prolongation
 
 | QTcF* prolongation                                                                                                                                                                                                                                     | Early breast cancer                                                                                                                                                                                                                                    | Advanced or metastatic breast cancer                                                                                                                                                                                                                   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -150,7 +150,7 @@ Table 4 Dose modification and management -QT prolongation
 
 <div style=\"page-break-after: always\"></div>
 
-Table 5 Dose modification and management -ILD/pneumonitis
+Table 5 Dose modification and management - ILD/pneumonitis
 
 |                 | Grade 1* ( asymptomatic)                                                                                  | Grade 2* (symptomatic)                                                                              | Grade 3 or 4* (severe)   |
 |-----------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------|
@@ -160,7 +160,7 @@ Table 5 Dose modification and management -ILD/pneumonitis
 
 * * An individualised benefit-risk assessment should be performed when considering resuming Kisqali. ILD = interstitial lung disease
 
-Table 6 Dose modification and management -Other toxicities*
+Table 6 Dose modification and management - Other toxicities*
 
 | Other toxicities   | Grade 1 or 2**                                                                                            | Grade 3**                                                                                                                                                 | Grade 4**            |
 |--------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
@@ -214,7 +214,7 @@ Hypersensitivity to the active substance or to peanut, soya or any of the excipi
 
 ## Critical visceral disease
 
-The efficacy and safety of ribociclib have not been studied in patients with critical visceral disease.
+A longer time to response (TTR) has been observed in patients treated with ribociclib plus a nonsteroidal aromatase inhibitor (NSAI) compared to those treated with combination chemotherapy in a clinical study (see section 5.1). This should be considered by the treating physician managing patients with critical visceral disease who may be considered for ribociclib plus NSAI therapy.
 
 ## Neutropenia
 
@@ -336,7 +336,7 @@ Kisqali can be administered with or without food (see sections 4.2 and 5.2).
 
 ## Medicinal products that elevate gastric pH
 
-Ribociclib exhibits high solubility at or below pH 4.5 and in bio-relevant media (at pH 5.0 and 6.5). Co-administration of ribociclib with medicinal products that elevate the gastric pH was not evaluated in a clinical study; however, altered ribociclib absorption was not observed in population pharmacokinetic and non -compartmental pharmacokinetic analyses.
+Ribociclib exhibits high solubility at or below pH 4.5 and in bio-relevant media (at pH 5.0 and 6.5). Co-administration of ribociclib with medicinal products that elevate the gastric pH was not evaluated in a clinical study; however, altered ribociclib absorption was not observed in population pharmacokinetic and non - compartmental pharmacokinetic analyses.
 
 ## Drug-drug interaction between ribociclib and letrozole
 
@@ -428,7 +428,7 @@ ADRs from the phase III clinical studies and post-marketing experience (Table 7)
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7 Adverse drug reactions reported in the phase III clinical studies and during post -marketing experience
+Table 7 Adverse drug reactions reported in the phase III clinical studies and during post - marketing experience
 
 | Frequency                                            | Patients with early breast cancer with starting dose 400 mg ribociclib   | Patients with advanced or metastatic breast cancer with starting dose 600 mg ribociclib   |
 |------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
@@ -518,9 +518,9 @@ In the phase III study in patients with early breast cancer, 5.3% of patients in
 
 A central analysis of ECG data showed 10 patients (0.4%) and 4 patients (0.2%) with at least one postbaseline QTcF interval &gt;480 msec for the Kisqali plus AI arm and the AI alone arm, respectively. Among the patients who had QTcF interval prolongation of &gt;480 msec in the Kisqali plus AI arm, the median time to onset was 15 days and these changes were reversible with dose interruption and/or dose adjustment. QTcF interval &gt;60 msec change from baseline was observed in 19 patients (0.8%) in the Kisqali plus AI arm and post-baseline QTcF interval &gt;500 msec was observed in 3 patients (0.1%) in the Kisqali plus AI arm.
 
-In study E2301 (MONALEESA-7) in patients with advanced or metastatic breast cancer, the observed mean QTcF increase from baseline was approximately 10 msec higher in the tamoxifen plus placebo subgroup compared with the NSAI plus placebo subgroup, suggesting that tamoxifen alone had a QTcF prolongation effect which can contribute to the QTcF values observed in the Kisqali plus tamoxifen group. In the placebo arm, a QTcF interval increase of &gt;60 msec from baseline occurred in 6/90 (6.7%) patients receiving tamoxifen and in no patients receiving a NSAI (see section 5.2). A QTcF interval increase of &gt;60 msec from baseline was observed in 14/87 (16.1%) patients receiving Kisqali plus tamoxifen and in 18/245 (7.3%) patients receiving Kisqali plus a NSAI. Kisqali is not recommended to be used in combination with tamoxifen (see section 5.1).
-
 <div style=\"page-break-after: always\"></div>
+
+In study E2301 (MONALEESA-7) in patients with advanced or metastatic breast cancer, the observed mean QTcF increase from baseline was approximately 10 msec higher in the tamoxifen plus placebo subgroup compared with the NSAI plus placebo subgroup, suggesting that tamoxifen alone had a QTcF prolongation effect which can contribute to the QTcF values observed in the Kisqali plus tamoxifen group. In the placebo arm, a QTcF interval increase of &gt;60 msec from baseline occurred in 6/90 (6.7%) patients receiving tamoxifen and in no patients receiving a NSAI (see section 5.2). A QTcF interval increase of &gt;60 msec from baseline was observed in 14/87 (16.1%) patients receiving Kisqali plus tamoxifen and in 18/245 (7.3%) patients receiving Kisqali plus a NSAI. Kisqali is not recommended to be used in combination with tamoxifen (see section 5.1).
 
 In the phase III clinical studies 9.3% of patients with advanced or metastatic breast cancer in the Kisqali plus aromatase inhibitor or fulvestrant arms and 3.5% in the placebo plus aromatase inhibitor or fulvestrant arms had at least one event of QT interval prolongation (including ECG QT prolonged and syncope). Review of ECG data showed 15 patients (1.4%) had &gt;500 msec post-baseline QTcF value, and 61 patients (5.8%) had a &gt;60 msec increase from baseline in QTcF intervals. There were no reported cases of torsade de pointes. Dose interruptions/adjustments were reported in 2.9% of Kisqali plus aromatase inhibitor or fulvestrant treated patients due to electrocardiogram QT prolonged and syncope.
 
@@ -578,10 +578,10 @@ Kisqali was evaluated in a randomised, open-label, multicentre phase III clinica
 - Anatomic stage group IIA that is either:
 - o Node positive or
 - o Node negative, with:
-- -Histologic grade 3, or
-- -Histologic grade 2, with any of the following criteria:
-- -Ki67 ≥20%
-- -High risk by gene signature testing
+- Histologic grade 3, or
+- Histologic grade 2, with any of the following criteria:
+- Ki67 ≥20%
+- High risk by gene signature testing
 
 Premenopausal women, and men, also received goserelin. Applying TNM criteria, NATALEE included patients with any lymph node involvement, or if no nodal involvement either tumour size &gt;5 cm, or tumour size 2-5 cm with either grade 2 (and high genomic risk o r Ki67 ≥20%) or grade 3.
 
@@ -758,7 +758,7 @@ Table 12 MONALEESA-7 - Efficacy results (PFS) in patients who received NSAI
 | Hazard ratio (95% CI)                                                                                                 | 0.569 (0.436, 0.743)                                                                                                  | 0.569 (0.436, 0.743)                                                                                                  |
 | CI=confidence interval; N=number of patients; NE = Not estimable. a PFS based on investigator radiological assessment | CI=confidence interval; N=number of patients; NE = Not estimable. a PFS based on investigator radiological assessment | CI=confidence interval; N=number of patients; NE = Not estimable. a PFS based on investigator radiological assessment |
 
-Figure 5 MONALEESA-7 -Kaplan-Meier plot of PFS based on investigator assessment in patients who received NSAI
+Figure 5 MONALEESA-7 - Kaplan-Meier plot of PFS based on investigator assessment in patients who received NSAI
 
 <!-- image -->
 
@@ -785,7 +785,7 @@ A more mature update of overall survival data (30 November 2018 cut-off) is prov
 
 In the second OS analysis the study met its key secondary endpoint demonstrating a statistically significant improvement in OS.
 
-Table 14 MONALEESA-7 -Efficacy results (OS) (30 November 2018 cut-off)
+Table 14 MONALEESA-7 - Efficacy results (OS) (30 November 2018 cut-off)
 
 |                                            | Updated analysis     | Updated analysis     |
 |--------------------------------------------|----------------------|----------------------|
@@ -801,7 +801,7 @@ Table 14 MONALEESA-7 -Efficacy results (OS) (30 November 2018 cut-off)
 
 CI=confidence interval, NE=not estimable, N=number of patients; a p-value is obtained from the one-sided log-rank test stratified by lung and/or liver metastases, prior chemotherapy for advanced disease, and endocrine partner per IRT (interactive response technology).
 
-Figure 6 MONALEESA-7 -Kaplan-Meier plot of final OS analysis (30 November 2018 cutoff)
+Figure 6 MONALEESA-7 - Kaplan-Meier plot of final OS analysis (30 November 2018 cutoff)
 
 <!-- image -->
 
@@ -809,7 +809,7 @@ Log-rank test and Cox model are stratified by lung and/or liver metastasis, prio
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 7 MONALEESA-7 -Kaplan-Meier plot of final OS analysis in patients who received NSAI (30 November 2018 cut-off)
+Figure 7 MONALEESA-7 - Kaplan-Meier plot of final OS analysis in patients who received NSAI (30 November 2018 cut-off)
 
 <!-- image -->
 
@@ -860,7 +860,7 @@ b patients whose disease relapsed during adjuvant therapy or within 12 months of
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 8 MONALEESA-3 (F2301) -Kaplan-Meier plot of PFS based on investigator assessment (FAS) (03 June 2019 cut-off)
+Figure 8 MONALEESA-3 (F2301) - Kaplan-Meier plot of PFS based on investigator assessment (FAS) (03 June 2019 cut-off)
 
 <!-- image -->
 
@@ -887,7 +887,7 @@ The results from this final OS analysis on the overall study population and the 
 
 <div style=\"page-break-after: always\"></div>
 
-Table 17 MONALEESA-3 (F2301) -Efficacy results (OS) (03 June 2019 cut-off)
+Table 17 MONALEESA-3 (F2301) - Efficacy results (OS) (03 June 2019 cut-off)
 
 |                                               | Kisqali plus fulvestrant   | Placebo plus fulvestrant   |
 |-----------------------------------------------|----------------------------|----------------------------|
@@ -911,7 +911,7 @@ b One-sided P-value is obtained from log-rank test stratified by lung and/or liv
 
 c Hazard ratio is obtained from the unstratified Cox PH model.
 
-Figure 9 MONALEESA-3 (F2301) -Kaplan-Meier plot of OS (full analysis set [FAS]) (03 June 2019 cut-off)
+Figure 9 MONALEESA-3 (F2301) - Kaplan-Meier plot of OS (full analysis set [FAS]) (03 June 2019 cut-off)
 
 <!-- image -->
 
@@ -920,6 +920,16 @@ Log-rank test and Cox model are stratified by lung and/or liver metastasis, prio
 Time to progression on next-line therapy or death (PFS2) in patients in the Kisqali arm was longer compared to patients in the placebo arm (HR: 0.670 [95% CI: 0.542, 0.830]) in the overall study population. The median PFS2 was 39.8 months (95% CI: 32.5, NE) for the Kisqali arm and 29.4 months (95% CI: 24.1, 33.1) in the placebo arm.
 
 <div style=\"page-break-after: always\"></div>
+
+## Study CLEE011A3201C (RIGHT Choice)
+
+RIGHT Choice was a randomised, open-label, phase II study (N=222) comparing the combination of ribociclib plus NSAI (letrozole or anastrozole) plus goserelin (n=112) versus combination chemotherapy (docetaxel plus capecitabine, paclitaxel plus gemcitabine, or capecitabine plus vinorelbine, n=110) in pre-/perimenopausal women with HR-positive, HER2-negative advanced breast cancer for whom combination chemotherapy was indicated. Patients had not received prior hormonal therapy, except LHRH agonist, nor chemotherapy for advanced breast cancer.
+
+The primary endpoint of progression-free survival (PFS) was met at the time of primary analysis (12 April 2022 cut-off), with a statistically significant improvement in PFS in the ribociclib plus NSAI arm compared to the combination chemotherapy arm (HR: 0.536, 95% CI: 0.363, 0.793 at one-sided stratified log-rank test p-value=0.000727). The median PFS was 24.0 months in the ribociclib plus NSAI arm versus 12.3 months in the combination chemotherapy arm.
+
+Secondary endpoints included overall response rate (ORR) and time to response (TTR) as determined by local investigator assessment without image confirmation. The unconfirmed ORR was 65.2% in the ribociclib plus NSAI arm versus 60.0% in the combination chemotherapy arm. The median TTR was 4.9 months in the ribociclib plus NSAI arm versus 3.2 months in the combination chemotherapy arm.
+
+OS data was immature at final data cut-off date (10 May 2023) with 34 deaths (30.4%) in the ribociclib plus NSAI arm and 29 deaths (26.4%) in the combination chemotherapy arm. The median OS was not reached in the ribociclib plus NSAI arm (95% CI, 38.6 months, NE) or the combination chemotherapy arm (95% CI: 30.8 months, NE); HR: 0.92, 95% CI: 0.56, 1.52.
 
 ## Elderly patients
 
@@ -934,6 +944,8 @@ In the three pivotal studies (MONALEESA-2, MONALEESA-3 and MONALEESA-7), 510 (53
 ## Study CLEE011Q12101
 
 A phase I/II multicentre study was conducted to evaluate the efficacy and safety of the combination of ribociclib with TOTEM in paediatric (4 to &lt;18 years, n=10) and young adult (18 to 20 years, n=2) patients with relapsed or refractory (r/r) neuroblastoma (NB) or other solid tumours (including alveolar rhabdomyosarcoma/rhabdomyosarcoma, malignant glioma, malignant astrocytoma, glioblastoma and medulloblastoma). Three cohorts were completed in the phase I dose-finding part which investigated the following dose regimens in a 28-day treatment cycle: ribociclib 200 mg/m²/day (days 1 to 21) plus topotecan 0.75 mg/m²/day and temozolomide 150 mg/m²/day (days 1 to 5) (concurrent dosing); ribociclib 100 mg/m²/day (days 6 to 21) after topotecan 0.75 mg/m²/day and temozolomide 150 mg/m²/day (days 1 to 5) (sequential dosing); ribociclib 100 mg/m²/day (days 1 to 14) plus topotecan 0.75 mg/m²/day and temozolomide 100 mg/m²/day (days 1 to 5) (concurrent dosing). Patients had a median age of 14 years (n=12), 7 were female. No objective response was observed. The maximum tolerated dose (MTD) and recommended phase II dose (RP2D) could not be determined in this study due to dose-limiting toxicity (DLT). No new safety signals were observed.
+
+<div style=\"page-break-after: always\"></div>
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Kisqali in all subsets of the paediatric population in the treatment of breast cancer (see section 4.2 for information on paediatric use).
 
@@ -951,8 +963,6 @@ The time to reach Cmax (Tmax) following ribociclib oral administration was betwe
 
 Compared to the fasted state, oral administration of a single 600 mg dose of ribociclib film-coated tablets with a high-fat, high-calorie meal had no effect on the rate and extent of absorption of ribociclib.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Distribution
 
 Binding of ribociclib to human plasma proteins in vitro was approximately 70% and was independent of concentration (10 to 10 000 ng/ml). Ribociclib was equally distributed between red blood cells and plasma with a mean in vivo blood-to-plasma ratio of 1.04. The apparent volume of distribution at steady state (Vss/F) was 1 090 L based on population pharmacokinetic analysis.
@@ -967,6 +977,8 @@ Ribociclib was extensively metabolised, with unchanged drug accounting for 17.3%
 
 The geometric mean plasma effective half-life (based on accumulation ratio) was 32.0 hours (63% CV) and the geometric mean apparent oral clearance (CL/F) was 25.5 l/hr (66% CV) at steady state at 600 mg in patients with advanced cancer. Based on a population pharmacokinetic analysis, the ribociclib exposure in patients with early breast cancer is expected to be slightly lower than in patients with advanced breast cancer treated with the same dose. The geometric mean apparent plasma terminal half-life (T1/2) of ribociclib ranged from 29.7 to 54.7 hours and the geometric mean CL/F of ribociclib ranged from 39.9 to 77.5 l/hr at 600 mg across studies in healthy subjects.
 
+<div style=\"page-break-after: always\"></div>
+
 Ribociclib and its metabolites are eliminated mainly via faeces, with a small contribution of the renal route. In 6 healthy male subjects, following a single oral dose of [ 14 C] ribociclib, 91.7% of the total administered radioactive dose was recovered within 22 days; faeces was the major route of excretion (69.1%), with 22.6% of the dose recovered in urine.
 
 ## Linearity/non-linearity
@@ -979,8 +991,6 @@ Ribociclib exhibited slightly over-proportional increases in exposure (Cmax and 
 
 The effect of renal function on the pharmacokinetics of ribociclib was assessed in a renal impairment study that included 14 healthy subjects with normal renal function (absolute Glomerular Filtration Rate [aGFR] ≥90 ml/min), 8 subjects with mild renal impairment (aGFR 60 to &lt;90 ml/min), 6 subjects with moderate renal impairment (aGFR 30 to &lt;60 ml/min), 7 subjects with severe renal impairment (aGFR 15 to &lt;30 ml/min) and 3 subjects with end-stage renal disease (ESRD) (aGFR &lt;15 ml/min) at a single ribociclib dose of 400 mg.
 
-<div style=\"page-break-after: always\"></div>
-
 AUCinf increased 1.6-fold, 1.9-fold and 2.7-fold and Cmax increased 1.8-fold, 1.8-fold and 2.3-fold in subjects with mild, moderate and severe renal impairment relative to the exposure in subjects with normal renal function. Since the efficacy and safety studies of ribociclib included a large proportion of patients with mild renal impairment (see section 5.1), data from the subjects with moderate or severe renal impairment in the renal impairment study were also compared with pooled data for the subjects with normal renal function and mild renal impairment. Compared to the pooled data for the subjects with normal renal function and mild renal impairment, AUCinf increased 1.6-fold and 2.2-fold and Cmax increased 1.5-fold and 1.9-fold in subjects with moderate and severe renal impairment, respectively. A fold difference for subjects with ESRD was not calculated due to the small number of subjects, but results indicate a similar or somewhat larger increase in ribociclib exposure compared to subjects with severe renal impairment.
 
 The effect of renal function on the pharmacokinetics of ribociclib was also assessed in advanced or metastatic breast cancer patients included in efficacy and safety studies where patients were given the 600 mg start dose (see section 5.1). In a sub-group analysis of pharmacokinetic data from studies in advanced or metastatic breast cancer patients following oral administration of 600 mg ribociclib as a single dose or repeat doses, AUCinf and Cmax of ribociclib in patients with mild (n=57) or moderate (n=14) renal impairment were comparable to the AUCinf and Cmax in patients with normal renal function (n=86), suggesting no clinically meaningful effect of mild or moderate renal impairment on ribociclib exposure.
@@ -990,6 +1000,8 @@ The effect of renal function on the pharmacokinetics of ribociclib was also asse
 Based on a pharmacokinetic study in non-cancer subjects with hepatic impairment, mild hepatic impairment had no effect on the exposure of ribociclib (see section 4.2). The mean exposure for ribociclib was increased less than 2-fold in patients with moderate (geometric mean ratio [GMR]: 1.44 for Cmax; 1.28 for AUCinf) and severe (GMR: 1.32 for Cmax; 1.29 for AUCinf) hepatic impairment (see section 4.2).
 
 Based on a population pharmacokinetic analysis that included 160 advanced or metastatic breast cancer patients with normal hepatic function and 47 patients with mild hepatic impairment, mild hepatic impairment had no effect on the exposure of ribociclib, further supporting the findings from the dedicated hepatic impairment study. Ribociclib has not been studied in breast cancer patients with moderate or severe hepatic impairment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effect of age, weight, gender and race
 
@@ -1004,8 +1016,6 @@ The pharmacokinetics of ribociclib were evaluated in paediatric (n=10) and young
 ## Effect of ribociclib on cytochrome P450 enzymes
 
 In vitro , ribociclib is a reversible inhibitor of CYP1A2, CYP2E1 and CYP3A4/5 and a time-dependent inhibitor of CYP3A4/5, at clinically relevant concentrations. In vitro evaluations indicated that ribociclib has no potential to inhibit the activities of CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP2D6 at clinically relevant concentrations. Ribociclib has no potential for timedependent inhibition of CYP1A2, CYP2C9, and CYP2D6.
-
-<div style=\"page-break-after: always\"></div>
 
 In vitro data indicate that ribociclib has no potential to induce UGT enzymes or the CYP enzymes CYP2C9, CYP2C19 and CYP3A4 via PXR. Therefore, Kisqali is unlikely to affect substrates of these enzymes. In vitro data are not sufficient to exclude a potential of ribociclib to induce CYP2B6 via CAR.
 
@@ -1027,6 +1037,8 @@ In vivo cardiac safety studies in dogs demonstrated dose and concentration relat
 
 Repeated-dose toxicity studies (treatment schedule of 3 weeks on/1 week off) of up to 27 weeks ' duration in rats and up to 39 weeks ' duration in dogs, revealed the hepatobiliary system (proliferative changes, cholestasis, sand-like gallbladder calculi, and inspissated bile) as the primary target organ of toxicity of ribociclib. Target organs associated with the pharmacological action of ribociclib in repeatdose studies include bone marrow (hypocellularity), lymphoid system (lymphoid depletion), intestinal mucosa (atrophy), skin (atrophy), bone (decreased bone formation), kidney (concurrent degeneration and regeneration of tubular epithelial cells) and testes (atrophy). Besides the atrophic changes seen in the testes, which showed a trend towards reversibility, all other changes were fully reversible after a 4week treatment-free period. Exposure to ribociclib in animals in the toxicity studies was generally less than or equal to that observed in patients receiving multiple doses of 600 mg/day (based on AUC).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reproductive toxicity/Fertility
 
 Ribociclib showed foetotoxicity and teratogenicity at doses which did not show maternal toxicity in the rats or rabbits. Following prenatal exposure, increased incidences of post-implantation loss and reduced foetal weights were observed in rats and ribociclib was teratogenic in rabbits at exposures lower than or 1.5 times the exposure in humans, respectively, at the highest recommended dose of 600 mg/day in patients with advanced or metastatic breast cancer based on AUC.
@@ -1034,8 +1046,6 @@ Ribociclib showed foetotoxicity and teratogenicity at doses which did not show m
 In rats, reduced foetal weights accompanied by skeletal changes considered to be transitory and/or related to the lower foetal weights were noted. In rabbits, there were adverse effects on embryo-foetal development as evidenced by increased incidences of foetal abnormalities (malformations and external, visceral and skeletal variants) and foetal growth (lower foetal weights). These findings included reduced/small lung lobes and additional vessel on the aortic arch and diaphragmatic hernia, absent accessory lobe or (partly) fused lung lobes and reduced/small accessory lung lobe (30 and 60 mg/kg), extra/rudimentary thirteenth ribs and misshapen hyoid bone and reduced number of phalanges in the pollex. There was no evidence of embryo-foetal mortality.
 
 In a fertility study in female rats, ribociclib did not affect reproductive function, fertility or early embryonic development at any dose up to 300 mg/kg/day (which is likely at an exposure lower than or equal to patients ' clinical exposure at the highest recommended dose of 600 mg/day based on AUC).
-
-<div style=\"page-break-after: always\"></div>
 
 Ribociclib has not been evaluated in male fertility studies. However, atrophic changes in testes were reported in rat and dog toxicity studies at exposures that were less than or equal to human exposure at the highest recommended daily dose of 600 mg/day based on AUC. These effects can be linked to a direct anti-proliferative effects on the testicular germ cells resulting in atrophy of the seminiferous tubules.
 
@@ -1053,6 +1063,8 @@ Oral administration of ribociclib for 2 years resulted in an increased incidence
 
 Additional non-neoplastic proliferative changes consisted of increased liver altered foci (basophilic and clear cell) and testicular interstitial (Leydig) cell hyperplasia in male rats at doses of ≥5 mg/kg/day and 50 mg/kg/day, respectively.
 
+<div style=\"page-break-after: always\"></div>
+
 The mechanism for the thyroid findings in male rats is likely to involve a rodent-specific microsomal enzyme induction in the liver which is considered to be of no relevance to humans. The effects on the uterus/cervix and on the testicular interstitial (Leydig) cells are related to prolonged hypoprolactinaemia secondary to CDK4 inhibition of lactotrophic cell function in the pituitary gland, altering the hypothalamus-pituitary-gonadal axis.
 
 Any potential increase of oestrogen/progesterone ratio in humans by this mechanism would be compensated by an inhibitory action of concomitant anti-oestrogen therapy on oestrogen synthesis as in humans Kisqali is indicated in combination with oestrogen-lowering agents.
@@ -1062,8 +1074,6 @@ Considering important differences between rodents and humans with regard to synt
 ## Juvenile animal studies
 
 In juvenile rats dosed orally from postnatal day (PND) 14 (the human equivalent of 1 year of age) to PND 63, minor reversible reductions in femur lengths (-3% to -4% from controls) were observed only in females. The no-observed-adverse-effect level (NOAEL) was 150 mg/kg/day in males and 150/300 mg/kg/day (dose escalation on PND 32) in females. The exposure at the NOAEL corresponds to an exposure margin of 5- to 22-fold and 4- to 6-fold of the paediatric AUC0-24h at the dose of 100 mg/m 2 /day, in males and females respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1085,6 +1095,8 @@ Not applicable.
 
 2 years.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.4 Special precautions for storage
 
 Store in the original package in order to protect from moisture. This medicinal product does not require any special temperature storage conditions.
@@ -1100,8 +1112,6 @@ Not all pack sizes may be marketed.
 ## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1120,6 +1130,8 @@ Date of latest renewal: 04 April 2022
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+38
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1373,7 +1385,7 @@ Lot
 
 Kisqali 200 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1527,10 +1539,10 @@ Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1551,8 +1563,8 @@ Kisqali contains the active substance ribociclib, which belongs to a group of me
 
 Kisqali is used in patients with a type of breast cancer called hormone receptor-positive and human epidermal growth factor receptor (HER2)-negative breast cancer that is:
 
-- -localised to the breast or could have spread to the lymph nodes in the region of the breast, with no detectable spread to other parts of the body, has been surgically removed, and has certain characteristics that increase the risk of the cancer returning. It is used in combination with an aromatase inhibitor, which is used as hormonal anticancer therapy (early breast cancer). Women who have not reached menopause, and men, will also be treated with a medicine called a luteinising hormone-releasing hormone (LHRH) agonist that blocks the production of some hormones.
-- -either advanced or metastatic. This means the cancer has grown outside the breast and spread to the lymph nodes of the breast (locally advanced) or has spread to other parts of the body (metastatic). Kisqali is used in combination with an aromatase inhibitor or fulvestrant, which are used as hormonal anticancer therapies. Women who have not reached menopause will also be treated with a medicine called a luteinising hormone-releasing hormone (LHRH) agonist that blocks the production of some hormones.
+- localised to the breast or could have spread to the lymph nodes in the region of the breast, with no detectable spread to other parts of the body, has been surgically removed, and has certain characteristics that increase the risk of the cancer returning. It is used in combination with an aromatase inhibitor, which is used as hormonal anticancer therapy (early breast cancer). Women who have not reached menopause, and men, will also be treated with a medicine called a luteinising hormone-releasing hormone (LHRH) agonist that blocks the production of some hormones.
+- either advanced or metastatic. This means the cancer has grown outside the breast and spread to the lymph nodes of the breast (locally advanced) or has spread to other parts of the body (metastatic). Kisqali is used in combination with an aromatase inhibitor or fulvestrant, which are used as hormonal anticancer therapies. Women who have not reached menopause will also be treated with a medicine called a luteinising hormone-releasing hormone (LHRH) agonist that blocks the production of some hormones.
 
 ## How Kisqali works
 
@@ -1568,7 +1580,7 @@ Follow all of your doctor's instructions carefully. They may differ from the gen
 
 ## Do not take Kisqali
 
-- -if you are allergic to ribociclib, peanut, soya or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to ribociclib, peanut, soya or any of the other ingredients of this medicine (listed in section 6).
 
 If you think you may be allergic, ask your doctor for advice.
 
@@ -1736,10 +1748,10 @@ Your doctor may ask you to take a lower dose, interrupt your treatment with Kisq
 - Fever, chills, weakness and frequent infections with symptoms such as sore throat or mouth ulcers. These may be signs of either a low level of white blood cells ( very common, may affect more than 1 in 10 people ) or a low level of lymphocytes, which are a specific type of white blood cell ( common, may affect up to 1 in 10 people ).
 - Abnormal results of blood tests that give information about the health of the liver (abnormal liver function tests). Very common (may affect more than 1 in 10 people).
 - Spontaneous bleeding or bruising (signs of a low level of blood platelets). Common (may affect up to 1 in 10 people).
-- Reduced level of potassium in the blood, which could lead to disturbances in heart rhythm. Common (may affect up to 1 in 10 people) .
 
 <div style=\"page-break-after: always\"></div>
 
+- Reduced level of potassium in the blood, which could lead to disturbances in heart rhythm. Common (may affect up to 1 in 10 people) .
 - Chest pain or discomfort, changes in heart beat (fast or slow), palpitations, lightheadedness, fainting, dizziness, lips turning blue colour, shortness of breath, swelling (oedema) of your lower limbs or skin (these may be signs of heart problems). Common (may affect up to 1 in 10 people).
 - Tiredness, itchy yellow skin or yellowing of the whites of your eyes, nausea or vomiting, loss of appetite, pain in the upper right side of the belly (abdomen), dark or brown urine, bleeding or bruising more easily than normal (these may be signs of a liver problem). Common (may affect up to 1 in 10 people).
 - Inflammation of the lungs, which can cause dry cough, chest pain, fever, shortness of breath and breathing difficulty (these may be signs of interstitial lung disease/pneumonitis which, if severe, may be life threatening). Common (may affect up to 1 in 10 people).
@@ -1873,8 +1885,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Kisqali contains
 
-- -The active substance is ribociclib. Each film-coated tablet contains ribociclib succinate equivalent to 200 mg ribociclib.
-- -The other ingredients are:
+- The active substance is ribociclib. Each film-coated tablet contains ribociclib succinate equivalent to 200 mg ribociclib.
+- The other ingredients are:
 
 Tablet core: microcrystalline cellulose; crospovidone type A; low-substituted hydroxypropylcellulose; magnesium stearate; colloidal anhydrous silica. Coating material: iron oxide black (E172); iron oxide red (E172); soya lecithin (E322) (see 'Kisqali contains soya lecithin' in section 2); polyvinyl alcohol (partially hydrolysed); talc; titanium dioxide (E171); xanthan gum.
 
@@ -1954,9 +1966,7 @@ Novartis Ireland Limited Tel: +353 1 260 12 55
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 ## Italia
 
@@ -2012,9 +2022,7 @@ Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
 ## Suomi/Finland
 
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
+Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 

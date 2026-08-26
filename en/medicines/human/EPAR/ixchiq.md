@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-07 17:05:00
+document_datetime: 2026-08-24 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ixchiq.html
 document_name: ixchiq.html
 version: success
-processing_time: 0.1718374
-conversion_datetime: 2026-07-13 12:34:50.130048
+processing_time: 0.1631265
+conversion_datetime: 2026-08-26 10:55:40.11455
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.112.0
-  docling-core: 2.87.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Ixchiq
 
@@ -48,7 +48,7 @@ Page contents
 
 ## Overview
 
-Ixchiq is a vaccine used to help protect people aged 12 years and older against disease caused by the chikungunya virus. Chikungunya is a viral disease that mosquitoes can pass to humans.
+Ixchiq is a vaccine used to help protect people aged 12 years and older who are at high risk of becoming infected with the chikungunya virus. Chikungunya is a viral disease that mosquitoes can pass to humans.
 
 Ixchiq contains a strain of chikungunya virus that has been attenuated (weakened).
 
@@ -76,189 +76,61 @@ Ixchiq is a vaccine. Vaccines work by preparing the immune system (the body's na
 
 Ixchiq was shown to be effective at triggering the production of antibodies against the chikungunya virus in two main studies involving around 4,500 adults. This is expected to reduce the risk of getting disease caused by the chikungunya virus.
 
-In one main study, over 4,000 people were given Ixchiq or placebo (a dummy treatment). The study looked at whether Ixchiq could trigger a level of antibodies expected to provide protection in about 400 people. The target level of antibodies expected to provide protection was based on data from animal studies and information from people who were previously exposed to chikungunya virus and who had developed immunity. One month after the injection, nearly 99% of people given Ixchiq had reached the target level of antibodies, compared with none of those given placebo. Follow-up data showed that two years after vaccination, this target level was maintained in 97% of people who received Ixchiq.
+In one main study, over 4,000 people were given Ixchiq or placebo (a dummy treatment). The study looked at whether Ixchiq could trigger a level of antibodies expected to provide protection in about 400 people. The target level of antibodies expected to provide protection was based on data from animal studies and information from people who were previously exposed to chikungunya virus and who had developed immunity. One month after the injection, nearly 99% of people given Ixchiq had reached the target level of antibodies, compared with none of those given placebo. Follow-up data showed that four years after vaccination, this target level was maintained in 95% of people who received Ixchiq.
 
 Another main study involving around 360 people who all received Ixchiq showed similar results, with 98% of people reaching the target level of antibodies one month after injection.
 
 **Adolescents**
 
-In a main study involving adolescents aged 12 to 17 years of age, around 99 % (248 out of 251) of those who were not previously infected with the chikungunya virus and were given Ixchiq reached the target level of antibodies 28 days after vaccination compared with around 2% (1 out of 41) of those given placebo. Six months after vaccination, this target level was maintained in 99% of those given Ixchiq compared with 0% given placebo.
+In a main study involving adolescents aged 12 to 17 years of age, around 99 % (248 out of 251) of those who were not previously infected with the chikungunya virus and were given Ixchiq reached the target level of antibodies one month s after vaccination compared with around 2% (1 out of 41) of those given placebo. One year after vaccination, this target level was maintained in 98% of those given Ixchiq compared with 0% given placebo.
 
-### What are the risks associated with Ixchiq?
+Studies carried out with Ixchiq are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Ixchiq?
 
 For the full list of side effects and restrictions with Ixchiq, see the package leaflet.
 
-The most common side effects with Ixchiq in adults and adolescents (which may affect more than 1 in 10 people) include leucopenia, neutropenia and lymphopenia (low levels of white blood cells, including neutrophils and lymphocytes, as seen in blood tests), headache, tiredness, myalgia (muscle pain), joint pain (arthralgia), elevated liver enzymes as seen in blood tests, fever, nausea (feeling sick), and tenderness and pain at the site of injection.
-
-Some side effects can be serious and include encephalopathy (general dysfunction of the brain, which may be caused by various factors), encephalitis (inflammation of the brain), and aseptic (not caused by bacteria) meningitis (inflammation of the membranes that surround the brain and spinal cord), as well as overall health worsening, and long-term health problems becoming more severe. These side effects have been reported particularly in males aged 65 years and older with chronic (long-term) diseases, such as cardiovascular disease, diabetes or chronic kidney disease. Their frequency cannot be estimated from available data.
+The most common side effects with Ixchiq in adults and adolescents (which may affect more than 1 in 10 people) include low levels of white blood cell, headache, tiredness, myalgia (muscle pain), joint pain (arthralgia), elevated liver enzymes as seen in blood tests, fever, nausea (feeling sick), and tenderness, pain, swelling and thickening of tissues at the site of injection.
 
 Ixchiq must not be given to people who are immunodeficient or immunosuppressed (have a weakened immune system) due to a disease or treatment. This includes people with cancer, those receiving chemotherapy, those who have an inherited immune deficiency, those taking immunosuppressive treatment (treatment which reduces the activity of the immune system) or people with HIV who have a severely weakened immune system.
 
 ### Why is Ixchiq authorised in the EU?
 
-At the time of approval, there was no vaccine available to protect against chikungunya. Therefore, Ixchiq was addressing an unmet medical need. Ixchiq triggers an immune response against chikungunya virus in adults that is maintained for at least 2 years after vaccination. Similarly, the vaccine triggers a robust immune response in adolescents that is maintained for at least 6 months after vaccination.
+The European Medicines Agency decided that Ixchiq's benefits are greater than its risks and it can be authorised for use in the EU.
+
+At the time of approval, there was no vaccine available to protect against chikungunya. Therefore, Ixchiq was addressing an unmet medical need. Ixchiq triggers an immune response against chikungunya virus in adults that is maintained for at least 4 years after vaccination. Similarly, the vaccine triggers a robust immune response in adolescents that is maintained for at least one year after vaccination.
 
 There are some uncertainties regarding the effectiveness of the vaccine due to the lack of data on how well Ixchiq protects against chikungunya. However, the immune response triggered by Ixchiq indicates that the vaccine is expected to provide some protection against disease caused by the chikungunya virus.
 
-The company marketing Ixchiq will conduct studies in areas where the chikungunya virus circulates to evaluate how well Ixchiq protects vaccinated people against the disease. In terms of safety, the vaccine has side effects similar to those seen with other vaccines containing live, attenuated viruses. The safety profile of the vaccine in adolescents is similar to that seen in adults.
+The company marketing Ixchiq will conduct studies in areas where the chikungunya virus circulates to evaluate how well Ixchiq protects vaccinated people against the disease.
 
-The European Medicines Agency therefore decided that Ixchiq's benefits are greater than its risks and it can be authorised for use in the EU.
+In terms of safety, the vaccine has side effects similar to those seen with other vaccines containing live, attenuated viruses. Serious side effects linked to the vaccine mainly occur in people aged 65 years and older and in people with multiple underlying chronic medical conditions, although young otherwise healthy adults have also been affected.
+
+EMA therefore decided that Ixchiq should only be used in people who are at high risk of becoming infected with the chikungunya virus.
 
 ### What measures are being taken to ensure the safe and effective use of Ixchiq?
 
 The company marketing Ixchiq must carry out a study to assess the effectiveness of Ixchiq in adults and adolescents living in areas where the chikungunya virus is spreading.
 
-Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ixchiq have been included in the summary of product characteristics and the package leaflet.
+Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ixchiq have also been included in the summary of product characteristics and the package leaflet.
 
-As for all medicines, data on the use of Ixchiq are continuously monitored. Suspected side effects reported with Ixchiq are carefully evaluated and any necessary action taken to protect patients.
+As for all medicines, data on the use of Ixchiq are continuously monitored. Suspected side effects reported with Ixchiq are carefully evaluated and any necessary action is taken to protect patients.
 
 ### Other information about Ixchiq
 
 Ixchiq received a marketing authorisation valid throughout the EU on 28 June 2024.
 
+For information about the availability of this medicine in your country, contact your [national competent authority](/en/partners-networks/eu-partners/eu-member-states/national-competent-authorities-human) .
+
 Ixchiq : EPAR - Medicine overview
 
 Reference Number: EMADOC-1829012207-27263
 
-English (EN) (119.78 KB - PDF)
+English (EN) (143.05 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/08/2026
 
 [View](/en/documents/overview/ixchiq-epar-medicine-overview_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-131)
-
-български (BG) (141.04 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/bg/documents/overview/ixchiq-epar-medicine-overview_bg.pdf)
-
-español (ES) (118.06 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/es/documents/overview/ixchiq-epar-medicine-overview_es.pdf)
-
-čeština (CS) (142.77 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/cs/documents/overview/ixchiq-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (116.79 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/da/documents/overview/ixchiq-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (121.92 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/de/documents/overview/ixchiq-epar-medicine-overview_de.pdf)
-
-eesti (ET) (115.76 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/et/documents/overview/ixchiq-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (144.03 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/el/documents/overview/ixchiq-epar-medicine-overview_el.pdf)
-
-français (FR) (118.75 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/fr/documents/overview/ixchiq-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (139.59 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/hr/documents/overview/ixchiq-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (116.47 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/it/documents/overview/ixchiq-epar-medicine-overview_it.pdf)
-
-latviešu (LV) (147.96 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/lv/documents/overview/ixchiq-epar-medicine-overview_lv.pdf)
-
-lietuvių (LT) (140.18 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/lt/documents/overview/ixchiq-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (140.23 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/hu/documents/overview/ixchiq-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (142.63 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/mt/documents/overview/ixchiq-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (117.16 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/nl/documents/overview/ixchiq-epar-medicine-overview_nl.pdf)
-
-polski (PL) (156.21 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/pl/documents/overview/ixchiq-epar-medicine-overview_pl.pdf)
-
-português (PT) (117.97 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/pt/documents/overview/ixchiq-epar-medicine-overview_pt.pdf)
-
-română (RO) (140.84 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/ro/documents/overview/ixchiq-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (141.92 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/sk/documents/overview/ixchiq-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (139.14 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/sl/documents/overview/ixchiq-epar-medicine-overview_sl.pdf)
-
-suomi (FI) (115.63 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/fi/documents/overview/ixchiq-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (116.03 KB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/09/2025
-
-[View](/sv/documents/overview/ixchiq-epar-medicine-overview_sv.pdf)
 
 Ixchiq : EPAR - Risk management plan
 
@@ -272,167 +144,167 @@ English (EN) (1.79 MB - PDF)
 
 Ixchiq : EPAR - Product information
 
-English (EN) (436.6 KB - PDF)
+English (EN) (463.03 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/en/documents/product-information/ixchiq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-217)
+[Other languages (24)](#file-language-dropdown-867)
 
-български (BG) (459.1 KB - PDF)
+български (BG) (459.7 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/bg/documents/product-information/ixchiq-epar-product-information_bg.pdf)
 
-español (ES) (421.51 KB - PDF)
+español (ES) (432.33 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/es/documents/product-information/ixchiq-epar-product-information_es.pdf)
 
-čeština (CS) (470.24 KB - PDF)
+čeština (CS) (483.55 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/cs/documents/product-information/ixchiq-epar-product-information_cs.pdf)
 
-dansk (DA) (433.93 KB - PDF)
+dansk (DA) (430.52 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/da/documents/product-information/ixchiq-epar-product-information_da.pdf)
 
-Deutsch (DE) (427.7 KB - PDF)
+Deutsch (DE) (438.02 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/de/documents/product-information/ixchiq-epar-product-information_de.pdf)
 
-eesti (ET) (419.31 KB - PDF)
+eesti (ET) (429.19 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/et/documents/product-information/ixchiq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (464.27 KB - PDF)
+ελληνικά (EL) (475.61 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/el/documents/product-information/ixchiq-epar-product-information_el.pdf)
 
-français (FR) (433.65 KB - PDF)
+français (FR) (435.98 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/fr/documents/product-information/ixchiq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (455.88 KB - PDF)
+hrvatski (HR) (456.48 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/hr/documents/product-information/ixchiq-epar-product-information_hr.pdf)
 
-italiano (IT) (440.82 KB - PDF)
+italiano (IT) (446.06 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/it/documents/product-information/ixchiq-epar-product-information_it.pdf)
 
-latviešu (LV) (445 KB - PDF)
+latviešu (LV) (448.8 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/lv/documents/product-information/ixchiq-epar-product-information_lv.pdf)
 
-lietuvių (LT) (456.71 KB - PDF)
+lietuvių (LT) (465.08 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/lt/documents/product-information/ixchiq-epar-product-information_lt.pdf)
 
-magyar (HU) (497.86 KB - PDF)
+magyar (HU) (503.11 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/hu/documents/product-information/ixchiq-epar-product-information_hu.pdf)
 
-Malti (MT) (482.38 KB - PDF)
+Malti (MT) (484.54 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/mt/documents/product-information/ixchiq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (443.84 KB - PDF)
+Nederlands (NL) (449 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/nl/documents/product-information/ixchiq-epar-product-information_nl.pdf)
 
-polski (PL) (472.14 KB - PDF)
+polski (PL) (482.49 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/pl/documents/product-information/ixchiq-epar-product-information_pl.pdf)
 
-português (PT) (435.44 KB - PDF)
+português (PT) (436.99 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/pt/documents/product-information/ixchiq-epar-product-information_pt.pdf)
 
-română (RO) (454.14 KB - PDF)
+română (RO) (455.67 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/ro/documents/product-information/ixchiq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (488.25 KB - PDF)
+slovenčina (SK) (493.69 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/sk/documents/product-information/ixchiq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (463.04 KB - PDF)
+slovenščina (SL) (477.96 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/sl/documents/product-information/ixchiq-epar-product-information_sl.pdf)
 
-suomi (FI) (477.01 KB - PDF)
+suomi (FI) (483.6 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/fi/documents/product-information/ixchiq-epar-product-information_fi.pdf)
 
-svenska (SV) (435.69 KB - PDF)
+svenska (SV) (524.09 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/sv/documents/product-information/ixchiq-epar-product-information_sv.pdf)
 
-Íslenska (IS) (435.88 KB - PDF)
+Íslenska (IS) (446.07 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/is/documents/product-information/ixchiq-epar-product-information_is.pdf)
 
-norsk (NO) (429.48 KB - PDF)
+norsk (NO) (426.61 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 05/06/2026
+**First published:** 24/09/2025 **Last updated:** 24/08/2026
 
 [View](/no/documents/product-information/ixchiq-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000347283
+**Latest procedure affecting product information:** PSUR/0000327923
 
-05/06/2026
+17/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -451,7 +323,7 @@ English (EN) (47.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-600)
+[Other languages (24)](#file-language-dropdown-263)
 
 български (BG) (63.07 KB - PDF)
 
@@ -616,7 +488,7 @@ Vaccines
 
 ### Therapeutic indication
 
-Ixchiq is indicated for active immunisation for the prevention of disease caused by chikungunya virus (CHIKV) in individuals between 12 years older. The use of this vaccine should be in accordance with official recommendations.
+Ixchiq is indicated for active immunisation for the prevention of disease caused by chikungunya virus (CHIKV) in individuals 12 years and older at high risk of acquiring chikungunya infection. The use of this vaccine should be in accordance with official recommendations.
 
 ## Authorisation details
 
@@ -633,7 +505,7 @@ Ixchiq is indicated for active immunisation for the prevention of disease caused
 - **Marketing authorisation issued**
     - 28/06/2024
 - **Revision**
-    - 6
+    - 8
 
 ## Assessment history
 
@@ -645,9 +517,9 @@ Collapse section
 
 Ixchiq : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (185.53 KB - PDF)
+English (EN) (162.34 KB - PDF)
 
-**First published:** 09/04/2025 **Last updated:** 05/06/2026
+**First published:** 09/04/2025 **Last updated:** 24/08/2026
 
 [View](/en/documents/procedural-steps-after/ixchiq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -659,6 +531,26 @@ English (EN) (155.3 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/ixchiq-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
+Glivec-PSUSA-00011058-202511 : EPAR - Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation
+
+Adopted Reference Number: EMADOC-1700519818-3346739
+
+English (EN) (144.86 KB - PDF)
+
+**First published:** 24/08/2026
+
+[View](/en/documents/scientific-conclusion/glivec-psusa-00011058-202511-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+
+Ixchiq-PAM-0000341806 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3178068
+
+English (EN) (3.87 MB - PDF)
+
+**First published:** 30/07/2026
+
+[View](/en/documents/variation-report/ixchiq-pam-0000341806-epar-assessment-report_en.pdf)
+
 Ixchiq-PAM-0000338015 : EPAR - Assessment report
 
 Reference Number: EMADOC-1700519818-3307640
@@ -668,6 +560,16 @@ English (EN) (272.95 KB - PDF)
 **First published:** 07/07/2026
 
 [View](/en/documents/variation-report/ixchiq-pam-0000338015-epar-assessment-report_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Ixchiq (PSUSA-00011058202511)
+
+Adopted Reference Number: EMADOC-1700519818-3249573
+
+English (EN) (140.67 KB - PDF)
+
+**First published:** 26/06/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-ixchiq-psusa-00011058202511_en.pdf)
 
 Ixchiq-H-C-005797-REF-0000269473 : EPAR - Assessment report - Variation
 
@@ -687,7 +589,7 @@ English (EN) (219.69 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-743)
+[Other languages (24)](#file-language-dropdown-927)
 
 български (BG) (154.15 KB - PDF)
 
@@ -891,10 +793,6 @@ English (EN) (137.49 KB - PDF)
 
 26/06/2026
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2026)
-
-26/06/2026
-
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025)
 
 25/07/2025
@@ -929,12 +827,10 @@ English (EN) (137.49 KB - PDF)
 - [Ixchiq - referral](/en/medicines/human/referrals/ixchiq)
 - [Ixchiq - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ixchiq)
 - [Ixchiq - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ixchiq-0)
-- [Ixchiq - referral](/en/node/281932)
-- [Ixchiq - opinion on variation to marketing authorisation](/en/medicines/human/variation/ixchiq)
 - [Ixchiq - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ixchiq-1)
 
 **This page was last updated on**
 
-07/07/2026
+24/08/2026
 
 ## Share this page

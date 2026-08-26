@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-05 14:40:18
-document_pages: 32
+document_datetime: 2026-08-24 16:14:16
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ixchiq-epar-product-information_en.pdf
 document_name: ixchiq-epar-product-information_en.pdf
 version: success
-processing_time: 11.9940456
-conversion_datetime: 2026-06-07 12:10:04.896471
+processing_time: 7.708981
+conversion_datetime: 2026-08-26 10:39:42.051126
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -51,7 +51,7 @@ Before reconstitution, the lyophilized vaccine is a white to slightly yellowish 
 
 ## 4.1 Therapeutic indications
 
-IXCHIQ is indicated for active immunisation for the prevention of disease caused by chikungunya virus (CHIKV) in individuals 12 years and older.
+IXCHIQ is indicated for active immunisation for the prevention of disease caused by chikungunya virus (CHIKV) in individuals 12 years and older at high risk of acquiring chikungunya infection.
 
 The use of this vaccine should be in accordance with official recommendations.
 
@@ -89,7 +89,7 @@ Immunodeficient or immunosuppressed individuals due to disease or medical therap
 
 ## 4.4 Special warnings and precautions for use
 
-IXCHIQ should only be given when there is a significant risk of acquiring chikungunya infection, and after careful consideration of the potential risks and benefits (see Section 4.3 and below).
+IXCHIQ should only be given when there is a high risk of acquiring chikungunya infection, and  after careful consideration of the potential risks and benefits (see Section s 4.1, 4.3 and below).
 
 Serious adverse reactions have been reported with the use of IXCHIQ, particularly in individuals aged 65 years and older and in individuals with multiple underlying chronic and/or uncontrolled medical conditions, but also in young adults with no relevant comorbidities (see section 4.8). Severe reactogenicity or chikungunya-like adverse reactions may lead to deterioration of general condition including malaise and decreased appetite, exacerbation of pre-existing diseases, confusional state, aseptic meningitis, encephalopathy, or encephalitis, leading to falls, hospitalisation and death. Vaccinees should be instructed to promptly seek medical attention if they experience, after vaccination, symptoms suggestive of severe reactogenicity or severe chikungunya-like adverse reactions.
 
@@ -308,21 +308,21 @@ No efficacy data are available for IXCHIQ. The clinical efficacy of IXCHIQ was i
 
 A threshold of CHIKVspecific neutralizing antibody μPRNT50 titre of ≥150 was selected as surrogate marker for protection, referred to as seroresponse. This threshold was determined from a nonhuman primate passive transfer study in which animals with titres ≥150 were protected against wild-type CHIKV infections and had undetectable virus in blood during 14 days after the challenge. In addition, the threshold was supported by data obtained from a prospective human seroepidemiological study.
 
-VLA1553 -301 was a placebo -controlled study assessing the immunogenicity and safety in generally healthy individuals 18 years and above. The study was conducted in the US. Participants in th is study were followed up for 6 months after immunization. The proportion of participants with CHIKVspecific antibody titers ≥150 µPRNT50 , i.e. seroresponse rate, 28 days post-vaccination in the CHIKV participants negative for CHIKV neutralizing antibodies of the IXCHIQ arm was the primary endpoint.
+VLA1553 - 301 was a placebo -controlled study assessing the immunogenicity and safety in generally healthy individuals 18 years and above. The study was conducted in the US. Participants in th is study were followed up for 6 months after immunization. The proportion of participants with CHIKVspecific antibody titers ≥150 µPRNT50 , i.e. seroresponse rate, 28 days post-vaccination in the CHIKV participants negative for CHIKV neutralizing antibodies of the IXCHIQ arm was the primary endpoint.
 
 Humoral immune response was evaluated in 362 participants (266 in the IXCHIQ arm and 96 in the Placebo arm). All these participants were negative at baseline (pre -vaccination) for CHIKV neutralizing antibodies. The study population included 82 participants 65 years of age or above (59 and 23 in the IXCHIQ and Placebo arm).
 
-VLA1553 -321 was a placebo -controlled study assessing the immunogenicity and safety in generally healthy adolescents 12 to &lt;18 years of age. The study was conducted in Brazil which is an endemic country for chikungunya. Participants in this study were followed up to 6 months, and 12 months in a subset of adolescents after immunization. The primary endpoint was similar as in study VLA1553 -301 .
+VLA1553 - 321 was a placebo -controlled study assessing the immunogenicity and safety in generally healthy adolescents 12 to &lt;18 years of age. The study was conducted in Brazil which is an endemic country for chikungunya. Participants in this study were followed up to 6 months, and 12 months in a subset of adolescents after immunization. The primary endpoint was similar as in study VLA1553 - 301 .
 
 Humoral immune response was evaluated in 351 participants (303 in the IXCHIQ arm and 48 in the p lacebo arm). 293 participants were negative, and 58 participants were positive at baseline (prevaccination) for CHIKV neutralizing antibodies.
 
-Antibody persistence is evaluated in study VLA1553 -303 (follow up of a subset of participants of study of VLA1553 -301). Data are available up to 4 years post-immunization.
+Antibody persistence is evaluated in study VLA1553 - 303 (follow up of a subset of participants of study of VLA1553 - 301). Data are available up to 4 years post-immunization.
 
 ## Seroresponse rate
 
 ## Adults
 
-In the pivotal trial VLA1553 -301, 98.9% of the participants who were administered IXCHIQ presented CHIKVspecific neutralizing antibody titers ≥150 µPRNT50 at 28 days post -vaccination. This percentage was sustained up to 6 months postvaccination (96.3%). Refer to Table 2. Only 1.6% (n=4/251) of the participants vaccinated with IXCHIQ had CHIKV-specific neutralizing antibody titers ≥150 µPRNT50 at Day 8. No participant had CHIKV -specific neutralizing antibody response ≥150 µPRNT50 in the placebo arm of VLA1553 -301 .
+In the pivotal trial VLA1553 - 301, 98.9% of the participants who were administered IXCHIQ presented CHIKVspecific neutralizing antibody titers ≥150 µPRNT50 at 28 days post -vaccination. This percentage was sustained up to 6 months postvaccination (96.3%). Refer to Table 2. Only 1.6% (n=4/251) of the participants vaccinated with IXCHIQ had CHIKV-specific neutralizing antibody titers ≥150 µPRNT50 at Day 8. No participant had CHIKV -specific neutralizing antibody response ≥150 µPRNT50 in the placebo arm of VLA1553 - 301 .
 
 <div style=\"page-break-after: always\"></div>
 
@@ -341,7 +341,7 @@ Abbreviations: CI=confidence interval; n= number of participants with serorespon
 
 ## Adolescents 12 to &lt;18 years of age
 
-In the adolescent trial VLA1553 -321, 98.8% (248/251) of the CHIKV seronegative participants who were administered IXCHIQ presented CHIKVspecific neutralizing antibody titers ≥150 µPRNT50 at 28 days post-vaccination. This percentage was sustained up to 12 months post-vaccination (98. 3 % (232/23 6). 5.7% (n=14/245) of the CHIKV seronegative participants vaccinated with IXCHIQ had CHIKVspecific neutralizing antibody titers ≥150 µPRNT50 at Day 8. The vast majority of CHIKV seropositive participants (50/52) presented CHIKV-specific neutralizing antibody titers ≥150 µPRNT50 before vaccination with IXCHIQ. The percentages remained in the same range 28 days post-vaccination (52/52) and 12 months post-vaccination (46/46).
+In the adolescent trial VLA1553 - 321, 98.8% (248/251) of the CHIKV seronegative participants who were administered IXCHIQ presented CHIKVspecific neutralizing antibody titers ≥150 µPRNT50 at 28 days post-vaccination. This percentage was sustained up to 12 months post-vaccination (98. 3 % (232/23 6). 5.7% (n=14/245) of the CHIKV seronegative participants vaccinated with IXCHIQ had CHIKVspecific neutralizing antibody titers ≥150 µPRNT50 at Day 8. The vast majority of CHIKV seropositive participants (50/52) presented CHIKV-specific neutralizing antibody titers ≥150 µPRNT50 before vaccination with IXCHIQ. The percentages remained in the same range 28 days post-vaccination (52/52) and 12 months post-vaccination (46/46).
 
 Table 3.  Seroresponse rates over time, as determined by µPRNT50 assay, in study VLA1553-321 (PP population)
 
@@ -361,7 +361,7 @@ Abbreviations: CI=confidence interval; n=number of participants with serorespons
 
 <div style=\"page-break-after: always\"></div>
 
-Persistence of the immune response was evaluated 12 , 24 , 36, and 48 months post-vaccination in VLA1553 -303. All the participants were negative at baseline (pre -vaccination) for CHIKV-specific neutralizing antibodies. Proportion of participants with a CHIKV -specific neutralizing antibody response ≥150 µPRNT50 was 99.5% (183/184) at 1 year, 97.1% (268/276) at 2 years, 96.3% (236/245) at 3 year s , and 95.2% (220/231) at 4 year s post-vaccination.
+Persistence of the immune response was evaluated 12 , 24 , 36, and 48 months post-vaccination in VLA1553 - 303. All the participants were negative at baseline (pre -vaccination) for CHIKV-specific neutralizing antibodies. Proportion of participants with a CHIKV -specific neutralizing antibody response ≥150 µPRNT50 was 99.5% (183/184) at 1 year, 97.1% (268/276) at 2 years, 96.3% (236/245) at 3 year s , and 95.2% (220/231) at 4 year s post-vaccination.
 
 ## Paediatric population
 
@@ -383,7 +383,7 @@ A reproductive toxicity trial studying in female rats showed that IXCHIQ adminis
 
 Powder
 
-Sucrose D-Sorbitol L-Methionine Trisodium Citrate Di-Hydrate Magnesium Chloride DiPotassium -Hydrogen Phosphate Potassium -Di- HydrogenPhosphate recombinant Human Albumin (rHA) produced in yeast (Saccharomyces cerevisiae)
+Sucrose D-Sorbitol L-Methionine Trisodium Citrate Di-Hydrate Magnesium Chloride DiPotassium - Hydrogen Phosphate Potassium -Di- HydrogenPhosphate recombinant Human Albumin (rHA) produced in yeast (Saccharomyces cerevisiae)
 
 ## Solvent
 
@@ -405,7 +405,7 @@ Do not freeze.
 
 ## After reconstitution
 
-In-use stability of the reconstituted vaccine has been demonstrated for 2 hours when stored either refrigerated at (2°C -8°C) or at room temperature (15°C -25°C).  After this time, the reconstituted vaccine must be discarded.
+In-use stability of the reconstituted vaccine has been demonstrated for 2 hours when stored either refrigerated at (2°C - 8°C) or at room temperature (15°C - 25°C).  After this time, the reconstituted vaccine must be discarded.
 
 From a microbiological point of view, after first opening the vaccine should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
 
@@ -550,9 +550,9 @@ A n updated RMP should be submitted:
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Due date                            |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| Post - authorisation efficacy study (PAES): In order to confirm the efficacy of IXCHIQ in individuals 12 years and older, the MAHshould conduct, according to an agreed protocol, and submit the results of, a randomized, controlled trial with pragmatic elements to assess the effectiveness of IXCHIQ vaccination in the prevention of symptomatic, laboratory confirmed chikungunya after a single vaccination with IXCHIQ in adults in endemic areas. | Final report due date : 31 Dec 2029 |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Due date                            |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| Post - authorisation efficacy study (PAES): In order to confirm the efficacy of IXCHIQ in individuals 12 years and older, the MAH should conduct, according to an agreed protocol, and submit the results of, a randomized, controlled trial with pragmatic elements to assess the effectiveness of IXCHIQ vaccination in the prevention of symptomatic, laboratory confirmed chikungunya after a single vaccination with IXCHIQ in adults in endemic areas. | Final report due date : 31 Dec 2029 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -594,7 +594,7 @@ Trisodium Citrate Di-Hydrate
 
 Magnesium Chloride
 
-DiPotassium -Hydrogen Phosphate
+DiPotassium - Hydrogen Phosphate
 
 Potassium -Di- HydrogenPhosphate
 
@@ -632,7 +632,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard reconstitued vaccine, if not used within 2 hours when kept refrigerated ( 2°C -8°C ) or at room temperature (1 5° C 25°C ).
+Discard reconstitued vaccine, if not used within 2 hours when kept refrigerated ( 2°C - 8°C ) or at room temperature (1 5° C - 25°C ).
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -723,8 +723,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 mL
 
@@ -749,9 +749,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start receiving this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -764,7 +764,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What IXCHIQ is and what it is used for
 
-IXCHIQ is a vaccine that helps protect adults and adolescents aged 12 years and older against disease caused by the Chikungunya virus (CHIKV).
+IXCHIQ is a vaccine that helps protect adults and adolescents aged 12 years and older against disease caused by the Chikungunya virus (CHIKV). It should be given to individuals who are at high risk of becoming infected with Chikungunya virus and after carefully weighing the benefits and risks (see section 2).
 
 Chikungunya is a disease that is caused by the chikungunya virus (CHIKV), which is found in the subtropical regions of the Americas, Africa, Southeast Asia, India, and the Pacific Region. CHIKV is spread to humans by the bite of an infected mosquito.  The majority of people infected with CHIKV develop a sudden fever and severe pain in multiple joints. Other symptoms may include headache, muscle pain, joint swelling, or rash.  These symptoms typically resolve within 7 to 10 days, but symptoms may last for months or years.
 
@@ -780,17 +780,17 @@ IXCHIQ works by teaching the immune system (the body's natural defences) to defe
 
 <div style=\"page-break-after: always\"></div>
 
-- -If you are allergic to the active substance or any of the other ingredients of this vaccine (listed in section 6).
-- -If your immune system has a reduced ability to fight infections and other diseases (immunodeficiency) or you have a weakened immune system (immunocompromised) because of a disease or a medicine (such as cancer and chemotherapy, use of medicines that weaken the immune system such as corticosteroids or immunosuppressants, inherited immune problems, or HIV infection).
+- If you are allergic to the active substance or any of the other ingredients of this vaccine (listed in section 6).
+- If your immune system has a reduced ability to fight infections and other diseases (immunodeficiency) or you have a weakened immune system (immunocompromised) because of a disease or a medicine (such as cancer and chemotherapy, use of medicines that weaken the immune system such as corticosteroids or immunosuppressants, inherited immune problems, or HIV infection).
 
 ## Warnings and precautions
 
 Talk to your doctor or, pharmacist or nurse before you receive IXCHIQ:
 
-- -If you have ever had a severe allergic reaction after any other vaccine injection.
-- -If you have anxiety related to needles or injections or if you have ever fainted following any injection.
-- -If you have a problem with bleeding or bruising, or if you are taking an anticoagulant medicine (to prevent blood clots).
-- -If you have a recent onset of fever (body temperature over 38°C). However, you can have your vaccination if you have a mild fever or upper airway infection like a cold.
+- If you have ever had a severe allergic reaction after any other vaccine injection.
+- If you have anxiety related to needles or injections or if you have ever fainted following any injection.
+- If you have a problem with bleeding or bruising, or if you are taking an anticoagulant medicine (to prevent blood clots).
+- If you have a recent onset of fever (body temperature over 38°C). However, you can have your vaccination if you have a mild fever or upper airway infection like a cold.
 
 Your doctor will carefully weigh the benefits and risks before recommending the vaccine, taking into consideration the risk of infection with the chikungunya virus in the regions where you are living or going to stay. Serious reactions to the vaccine have been reported mostly in persons 65 years and older and in persons with chronic medical conditions, such as high blood pressure, diabetes or heart disease, but also in healthy young adults. Tell your doctor or nurse immediately if you experience worsening of your general health or existing diseases (see section 4).
 
@@ -943,7 +943,7 @@ Do not use this medicine after the expiry date which is stated on the carton, vi
 
 Store in a refrigerator (2 °C to 8 °C ). Do not freeze. Store in the outer carton in order to protect from light.
 
-In-use stability of the reconstituted vaccine has been demonstrated for 2 hours when stored either refrigerated at (2°C -8°C) or at room temperature (15°C -25°C).  After this time, the reconstituted vaccine must be discarded.
+In-use stability of the reconstituted vaccine has been demonstrated for 2 hours when stored either refrigerated at (2°C - 8°C) or at room temperature (15°C - 25°C).  After this time, the reconstituted vaccine must be discarded.
 
 From a microbiological point of view, after first opening the vaccine should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
 
@@ -977,8 +977,8 @@ IXCHIQ is a powder and solvent for solution for injection. The powder is white t
 
 ## Each pack of IXCHIQ contains:
 
-- -1 vial containing the IXCHIQ component powder for 1 dose as a white to slightly yellowish powder.
-- -1 pre-filled syringe containing the solvent for 1 dose sterile water component as a clear solution.
+- 1 vial containing the IXCHIQ component powder for 1 dose as a white to slightly yellowish powder.
+- 1 pre-filled syringe containing the solvent for 1 dose sterile water component as a clear solution.
 
 The contents of the two components (vial and syringe) are to be mixed prior to vaccination providing one dose of 0.5 mL.
 
@@ -1036,3 +1036,25 @@ After reconstitution, administer IXCHIQ intramuscularly within 2 hours. If not u
 ## Disposal
 
 This product contains genetically modified organisms (GMOs). Any unused vaccine or waste material should be disposed of in compliance with the local guidance for pharmaceutical waste. Potential spills should be cleaned up immediately and disinfected according to local policies. Dispose of the used syringe and needle in a sharps container such as a closeable, puncture resistant container
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for chikungunya vaccine (live), the scientific conclusions of PRAC are as follows:
+
+In view of available data on serious adverse reactions from spontaneous reports and in view of a plausible mechanism of action, the PRAC considers a restriction of the indication is warranted. The PRAC concluded that the product information of products con taining chikungunya vaccine (live) should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for chikungunya vaccine (live) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing chikungunya vaccine (live) is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

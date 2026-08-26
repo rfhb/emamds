@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-19 14:51:32
-document_pages: 167
+document_datetime: 2026-08-21 11:40:21
+document_pages: 169
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tuyory-epar-product-information_en.pdf
 document_name: tuyory-epar-product-information_en.pdf
 version: success
-processing_time: 91.2185937
-conversion_datetime: 2026-05-22 23:17:29.962075
+processing_time: 60.2014003
+conversion_datetime: 2026-08-26 10:45:52.615171
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -105,11 +105,11 @@ Dose adjustments due to laboratory abnormalities (see section 4.4).
 
 ## · Liver enzyme abnormalities
 
-| Laboratory value                                               | Action                                                                                                                                                                                                                                                                                                        |
-|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| > 1 to 3 × Upper Limit of Normal (ULN)                         | Modify the dose of the concomitantMTX if appropriate. For persistent increases in this range, reduce tocilizumab dose to 4 mg/kg or interrupt treatment until alanine aminotransferase (ALT) or aspartate aminotransferase (AST) have normalised. Restart with 4 mg/kg or 8 mg/kg, as clinically appropriate. |
-| > 3 to 5 × ULN (confirmed by repeat testing, see section 4.4). | Interrupt tocilizumab dosing until < 3 × ULN and follow recommendations above for > 1 to 3 × ULN. For persistent increases > 3 × ULN, discontinue treatment.                                                                                                                                                  |
-| > 5 × ULN                                                      | Discontinue treatment.                                                                                                                                                                                                                                                                                        |
+| Laboratory value                                               | Action                                                                                                                                                                                                                                                                                                         |
+|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| > 1 to 3 × Upper Limit of Normal (ULN)                         | Modify the dose of the concomitant MTX if appropriate. For persistent increases in this range, reduce tocilizumab dose to 4 mg/kg or interrupt treatment until alanine aminotransferase (ALT) or aspartate aminotransferase (AST) have normalised. Restart with 4 mg/kg or 8 mg/kg, as clinically appropriate. |
+| > 3 to 5 × ULN (confirmed by repeat testing, see section 4.4). | Interrupt tocilizumab dosing until < 3 × ULN and follow recommendations above for > 1 to 3 × ULN. For persistent increases > 3 × ULN, discontinue treatment.                                                                                                                                                   |
+| > 5 × ULN                                                      | Discontinue treatment.                                                                                                                                                                                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -182,8 +182,8 @@ Dose interruptions of tocilizumab for the following laboratory abnormalities are
 
 | Laboratory Value     | Action                                                                                                                                                                 |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| > 1 to 3 × ULN       | Modify the dose of the concomitantMTX if appropriate. For persistent increases in this range, interrupt tocilizumab until ALT/AST have normalised.                     |
-| > 3 × ULN to 5 × ULN | Modify the dose of the concomitantMTX if appropriate. Interrupt tocilizumab dosing until < 3 × ULN and follow recommendations above for > 1 to 3 × ULN.                |
+| > 1 to 3 × ULN       | Modify the dose of the concomitant MTX if appropriate. For persistent increases in this range, interrupt tocilizumab until ALT/AST have normalised.                    |
+| > 3 × ULN to 5 × ULN | Modify the dose of the concomitant MTX if appropriate. Interrupt tocilizumab dosing until < 3 × ULN and follow recommendations above for > 1 to 3 × ULN.               |
 | > 5 × ULN            | Discontinue tocilizumab. The decision to discontinue treatment in sJIA for a laboratory abnormality must be based on the medical assessment of the individual patient. |
 
 <div style=\"page-break-after: always\"></div>
@@ -200,7 +200,7 @@ Dose interruptions of tocilizumab for the following laboratory abnormalities are
 
 | Laboratory Value (cells × 10 3 /μL)   | Action                                                                                                                                                                 |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 50 to 100                             | Modify the dose of the concomitantMTX if appropriate. Interrupt tocilizumab dosing. When platelet count is > 100 × 10 3 / μL resume treatment.                         |
+| 50 to 100                             | Modify the dose of the concomitant MTX if appropriate. Interrupt tocilizumab dosing. When platelet count is > 100 × 10 3 / μL resume treatment.                        |
 | < 50                                  | Discontinue tocilizumab. The decision to discontinue treatment in sJIA for a laboratory abnormality must be based on the medical assessment of the individual patient. |
 
 There are insufficient clinical data to assess the impact of a tocilizumab dose reduction in sJIA patients who have experienced laboratory abnormalities.
@@ -221,8 +221,8 @@ Dose interruptions of tocilizumab for the following laboratory abnormalities are
 
 | Laboratory Value     | Action                                                                                                                                                                 |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| > 1 to 3 × ULN       | Modify the dose of the concomitantMTX if appropriate. For persistent increases in this range, interrupt tocilizumab until ALT/AST have normalised.                     |
-| > 3 × ULN to 5 × ULN | Modify the dose of the concomitantMTX if appropriate. Interrupt tocilizumab dosing until < 3 × ULN and follow recommendations above for > 1 to 3 × ULN.                |
+| > 1 to 3 × ULN       | Modify the dose of the concomitant MTX if appropriate. For persistent increases in this range, interrupt tocilizumab until ALT/AST have normalised.                    |
+| > 3 × ULN to 5 × ULN | Modify the dose of the concomitant MTX if appropriate. Interrupt tocilizumab dosing until < 3 × ULN and follow recommendations above for > 1 to 3 × ULN.               |
 | > 5 × ULN            | Discontinue tocilizumab. The decision to discontinue treatment in pJIA for a laboratory abnormality must be based on the medical assessment of the individual patient. |
 
 ## · Low absolute neutrophil count (ANC)
@@ -237,7 +237,7 @@ Dose interruptions of tocilizumab for the following laboratory abnormalities are
 
 | Laboratory Value (cells × 10 3 /μL)   | Action                                                                                                                                                                 |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 50 to 100                             | Modify the dose of the concomitantMTX if appropriate. Interrupt tocilizumab dosing. When platelet count is > 100 × 10 3 /μL resume treatment.                          |
+| 50 to 100                             | Modify the dose of the concomitant MTX if appropriate. Interrupt tocilizumab dosing. When platelet count is > 100 × 10 3 /μL resume treatment.                         |
 | < 50                                  | Discontinue tocilizumab. The decision to discontinue treatment in pJIA for a laboratory abnormality must be based on the medical assessment of the individual patient. |
 
 Reduction of tocilizumab dose due to laboratory abnormalities has not been studied in pJIA patients.
@@ -768,21 +768,21 @@ Table 4. ACR responses in placebo-/MTX-/DMARDs-controlled trials (% patients)
 
 |        | Trial I AMBITION   | Trial I AMBITION   | Trial II LITHE     | Trial II LITHE   | Trial III OPTION   | Trial III OPTION   | Trial IV TOWARD       | Trial IV TOWARD   | Trial V RADIATE   | Trial V RADIATE   |
 |--------|--------------------|--------------------|--------------------|------------------|--------------------|--------------------|-----------------------|-------------------|-------------------|-------------------|
-| Wee k  | TCZ 8 mg/kg        | MTX                | TCZ 8 mg/k g + MTX | PBO + MTX        | TCZ 8 mg/kg +MTX   | PBO + MTX          | TCZ 8 mg/k g + DMAR D | PBO + DMA R D     | TCZ 8 mg/kg +MTX  | PBO + MTX         |
+| Wee k  | TCZ 8 mg/kg        | MTX                | TCZ 8 mg/k g + MTX | PBO + MTX        | TCZ 8 mg/kg + MTX  | PBO + MTX          | TCZ 8 mg/k g + DMAR D | PBO + DMA R D     | TCZ 8 mg/kg + MTX | PBO + MTX         |
 |        | n =286             | n =284             | n =398             | n =3 93          | N=205              | n =204             | n =803                | n =41 3           | n =170            | n =158            |
 | ACR 20 | ACR 20             | ACR 20             | ACR 20             | ACR 20           | ACR 20             | ACR 20             | ACR 20                | ACR 20            | ACR 20            | ACR 20            |
-| 24     | 70 %** *           | 52%                | 56 %** *           | 27%              | 59 %** *           | 26%                | 61 %** *              | 24%               | 50 %** *          | 10%               |
-| 52     |                    |                    | 56 %** *           | 25%              |                    |                    |                       |                   |                   |                   |
+| 24     | 70 %** *           | 52 %               | 56 %** *           | 27 %             | 59 %** *           | 26 %               | 61 %** *              | 24 %              | 50 %** *          | 10 %              |
+| 52     |                    |                    | 56 %** *           | 25 %             |                    |                    |                       |                   |                   |                   |
 | ACR 50 | ACR 50             | ACR 50             | ACR 50             | ACR 50           | ACR 50             | ACR 50             | ACR 50                | ACR 50            | ACR 50            | ACR 50            |
-| 24     | 44 %**             | 33%                | 32 %** *           | 10%              | 44 %** *           | 11%                | 38 %** *              | 9%                | 29 %** *          | 4%                |
-| 52     |                    |                    | 36 %** *           | 10%              |                    |                    |                       |                   |                   |                   |
+| 24     | 44 %**             | 33 %               | 32 %** *           | 10 %             | 44 %** *           | 11 %               | 38 %** *              | 9 %               | 29 %** *          | 4 %               |
+| 52     |                    |                    | 36 %** *           | 10 %             |                    |                    |                       |                   |                   |                   |
 | ACR 70 | ACR 70             | ACR 70             | ACR 70             | ACR 70           | ACR 70             | ACR 70             | ACR 70                | ACR 70            | ACR 70            | ACR 70            |
 
 <div style=\"page-break-after: always\"></div>
 
 |    | Trial I AMBITION   | Trial I AMBITION   | Trial II LITHE   | Trial II LITHE   | Trial III OPTION   | Trial III OPTION   | Trial IV TOWARD   | Trial IV TOWARD   | Trial V RADIATE   | Trial V RADIATE   |
 |----|--------------------|--------------------|------------------|------------------|--------------------|--------------------|-------------------|-------------------|-------------------|-------------------|
-| 24 | 28 %**             | 15%                | 13 %** *         | 2%               | 22 %** *           | 2%                 | 21 %** *          | 3%                | 12 %**            | 1%                |
+| 24 | 28 %**             | 15 %               | 13 %** *         | 2 %              | 22 %** *           | 2 %                | 21 %** *          | 3 %               | 12 %**            | 1 %               |
 | 52 |                    |                    | 20 %** *         | 4 %*             |                    |                    |                   |                   |                   |                   |
 
 ACR
@@ -823,11 +823,11 @@ In the open-label extension of Trial II the inhibition of progression of structu
 
 Table 5. Radiographic mean changes over 52 weeks in Trial II
 
-|                          |   PBO+MTX (+ TCZ from week 24) n = =393 | TCZ 8 mg/kg+MTX n = =398   |
-|--------------------------|-----------------------------------------|----------------------------|
-| Total Sharp-Genant score |                                    1.13 | 0.29*                      |
-| Erosion score            |                                    0.71 | 0.17*                      |
-| JSN score                |                                    0.42 | 0.12**                     |
+|                          |   PBO + MTX (+ TCZ from week 24) n = =393 | TCZ 8 mg/kg + MTX n = =398   |
+|--------------------------|-------------------------------------------|------------------------------|
+| Total Sharp-Genant score |                                      1.13 | 0.29*                        |
+| Erosion score            |                                      0.71 | 0.17*                        |
+| JSN score                |                                      0.42 | 0.12**                       |
 
 PBO
 
@@ -903,27 +903,27 @@ Trial VII (WA19926), a 2 year trial with the planned primary analysis at week 52
 
 Table 7: Efficacy Results for Trial VII (WA19926) on MTX-naïve, early RA patients
 
-|                                             |                  | TCZ 8 mg/kg +MTX n = 290   | TCZ 8 mg/kg + placebo n = 292   | TCZ 4 mg/kg + MTX n = 288   | Placebo + MTX n = 287   |
-|---------------------------------------------|------------------|----------------------------|---------------------------------|-----------------------------|-------------------------|
-| Primary endpoint                            |                  |                            |                                 |                             |                         |
-| DAS28 Remission                             |                  |                            |                                 |                             |                         |
-| Week 24                                     | n (%)            | 130 (44.8)***              | 113 (38.7)***                   | 92 (31.9)                   | 43 (15.0)               |
-| Key secondary endpoints                     |                  |                            |                                 |                             |                         |
-| DAS 28 remission                            | DAS 28 remission |                            |                                 |                             |                         |
-| week 52                                     | n (%)            | 142 (49.0)***              | 115 (39.4)                      | 98 (34.0)                   | 56 (19.5)               |
-| ACR                                         |                  |                            |                                 |                             |                         |
-| week 24                                     | ACR 20, n (%)    | 216 (74.5)*                | 205 (70.2)                      | 212 (73.6)                  | 187 (65.2)              |
-| ACR                                         | 50, n (%)        | 165 (56.9)**               | 139 (47.6)                      | 138 (47.9)                  | 124 (43.2)              |
-|                                             | ACR 70, n (%)    | 112 (38.6)**               | 88 (30.1)                       | 100 (34.7)                  | 73 (25.4)               |
-| week 52                                     | ACR 20, n (%)    | 195 (67.2)*                | 184 (63.0)                      | 181 (62.8)                  | 164 (57.1)              |
-|                                             | ACR 50, n (%)    | 162 (55.9)**               | 144 (49.3)                      | 151 (52.4)                  | 117 (40.8)              |
-| ACR                                         | 70, n (%)        | 125 (43.1)**               | 105 (36.0)                      | 107 (37.2)                  | 83 (28.9)               |
-| HAQ-DI (adjusted mean change from baseline) |                  |                            |                                 |                             |                         |
-| week 52                                     | week 52          | -0.81*                     | -0.67                           | -0.75                       | -0.64                   |
+|                                             |                  | TCZ 8 mg/kg + MTX n = 290   | TCZ 8 mg/kg + placebo n = 292   | TCZ 4 mg/kg + MTX n = 288   | Placebo + MTX n = 287   |
+|---------------------------------------------|------------------|-----------------------------|---------------------------------|-----------------------------|-------------------------|
+| Primary endpoint                            |                  |                             |                                 |                             |                         |
+| DAS28 Remission                             |                  |                             |                                 |                             |                         |
+| Week 24                                     | n (%)            | 130 (44.8)***               | 113 (38.7)***                   | 92 (31.9)                   | 43 (15.0)               |
+| Key secondary endpoints                     |                  |                             |                                 |                             |                         |
+| DAS 28 remission                            | DAS 28 remission |                             |                                 |                             |                         |
+| week 52                                     | n (%)            | 142 (49.0)***               | 115 (39.4)                      | 98 (34.0)                   | 56 (19.5)               |
+| ACR                                         |                  |                             |                                 |                             |                         |
+| week 24                                     | ACR 20, n (%)    | 216 (74.5)*                 | 205 (70.2)                      | 212 (73.6)                  | 187 (65.2)              |
+| ACR                                         | 50, n (%)        | 165 (56.9)**                | 139 (47.6)                      | 138 (47.9)                  | 124 (43.2)              |
+|                                             | ACR 70, n (%)    | 112 (38.6)**                | 88 (30.1)                       | 100 (34.7)                  | 73 (25.4)               |
+| week 52                                     | ACR 20, n (%)    | 195 (67.2)*                 | 184 (63.0)                      | 181 (62.8)                  | 164 (57.1)              |
+|                                             | ACR 50, n (%)    | 162 (55.9)**                | 144 (49.3)                      | 151 (52.4)                  | 117 (40.8)              |
+| ACR                                         | 70, n (%)        | 125 (43.1)**                | 105 (36.0)                      | 107 (37.2)                  | 83 (28.9)               |
+| HAQ-DI (adjusted mean change from baseline) |                  |                             |                                 |                             |                         |
+| week 52                                     | week 52          | -0.81*                      | -0.67                           | -0.75                       | -0.64                   |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                          |                                                                          | TCZ 8 mg/kg +MTX n = 290                           | TCZ 8 mg/kg + placebo n = 292                      | TCZ 4 mg/kg + MTX n = 288                          | Placebo + MTX n = 287                              |
+|                                                                          |                                                                          | TCZ 8 mg/kg + MTX n = 290                          | TCZ 8 mg/kg + placebo n = 292                      | TCZ 4 mg/kg + MTX n = 288                          | Placebo + MTX n = 287                              |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
 | Radiographic endpoints (mean change from baseline)                       | Radiographic endpoints (mean change from baseline)                       | Radiographic endpoints (mean change from baseline) | Radiographic endpoints (mean change from baseline) | Radiographic endpoints (mean change from baseline) | Radiographic endpoints (mean change from baseline) |
 | week 52                                                                  | mTSS                                                                     | 0.08***                                            | 0.26                                               | 0.42                                               | 1.14                                               |
@@ -986,10 +986,10 @@ Table 8. JIA ACR response rates at week 12 (% patients)
 
 | Response rate   | Tocilizumab n = 75   | Placebo n = 37   |
 |-----------------|----------------------|------------------|
-| JIA ACR 30      | 90.7% 1              | 24.3%            |
-| JIA ACR 50      | 85.3% 1              | 10.8%            |
-| JIA ACR 70      | 70.7% 1              | 8.1%             |
-| JIA ACR 90      | 37.3% 1              | 5.4%             |
+| JIA ACR 30      | 90.7 % 1             | 24.3 %           |
+| JIA ACR 50      | 85.3 % 1             | 10.8 %           |
+| JIA ACR 70      | 70.7 % 1             | 8.1 %            |
+| JIA ACR 90      | 37.3 % 1             | 5.4 %            |
 
 ## Systemic effects
 
@@ -1078,7 +1078,7 @@ The pharmacokinetics of tocilizumab were determined using a population pharmacok
 
 The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg tocilizumab given every 4  weeks: steady-state area under curve (AUC)   =   3 8000 ± 13 000 h·µg/mL, trough concentration (Cmin)    =   15.9 ± 13.1 μ g/mL and maximum concentration
 
-(Cmax)   =   182 ± 50.4 µg/mL, and the accumulation ratios for AUC and Cmax were small, 1.32 and 1.09, respectively. The accumulation ratio was higher for Cmin (2.49), which was expected based on the non-linear clearance contribution at lower concentrations. Steady-state was reached following the first administration for Cmax and after 8 and 20  weeks for AUC and Cmin, respectively. Tocilizumab AUC, Cmin and Cmax increased with increase of body weight. At body weight ≥ 100 kg, the predicted mean (  ± SD) steady- state AUC, Cmin and Cmax of tocilizumab were 50 000 ± 16 800 μg·h/mL, 24.4   ±   17.5 μg/mL, and 226 ± 50.3 μg/mL, respectively, which are higher than mean exposure values for the patient population (i.e. all body weights) reported above. The dose-response curve for tocilizumab flattens at higher exposure, resulting in smaller efficacy gains for each incremental increase in tocilizumab concentration such that clinically meaningful increases in efficacy were not demonstrated in patients treated with   &gt; 800 mg of tocilizumab. Therefore, tocilizumab doses exceeding 800 mg per infusion are not recommended (see section   4.2).
+(Cmax)   =   182 ± 50.4 µg/mL, and the accumulation ratios for AUC and Cmax were small, 1.32 and 1.09, respectively. The accumulation ratio was higher for Cmin (2.49), which was expected based on the non-linear clearance contribution at lower concentrations. Steady-state was reached following the first administration for Cmax and after 8 and 20  weeks for AUC and Cmin, respectively. Tocilizumab AUC, Cmin and Cmax increased with increase of body weight. At body weight ≥ 100 kg, the predicted mean (  ± SD) steady- state AUC, Cmin and Cmax of tocilizumab were 50 000 ± 16 800 μg·h/m L, 24.4   ±   17.5 μg/mL, and 226 ± 50.3 μg/mL, respectively, which are higher than mean exposure values for the patient population (i.e. all body weights) reported above. The dose-response curve for tocilizumab flattens at higher exposure, resulting in smaller efficacy gains for each incremental increase in tocilizumab concentration such that clinically meaningful increases in efficacy were not demonstrated in patients treated with   &gt; 800 mg of tocilizumab. Therefore, tocilizumab doses exceeding 800 mg per infusion are not recommended (see section   4.2).
 
 ## COVID-19 patients
 
@@ -1130,14 +1130,14 @@ The pharmacokinetics of tocilizumab were determined using a population pharmacok
 
 Table 11. Predicted mean ± SD PK parameters at steady-state after intravenous dosing in sJIA
 
-| Tocilizumab PK parameter     | 8 mg/kgQ2W ≥ 30 kg   | 12 mg/kg Q2Wbelow 30 kg   |
-|------------------------------|----------------------|---------------------------|
-| C max (µg/mL)                | 256 ± 60.8           | 274 ± 63.8                |
-| C trough (µg/mL)             | 69.7 ± 29.1          | 68.4 ± 30.0               |
-| C mean (µg/mL)               | 119 ± 36.0           | 123 ± 36.0                |
-| Accumulation C max           | 1.42                 | 1.37                      |
-| Accumulation C trough        | 3.20                 | 3.41                      |
-| Accumulation C mean or AUCτ* | 2.01                 | 1.95                      |
+| Tocilizumab PK parameter     | 8 mg/kg Q2W ≥ 30 kg   | 12 mg/kg Q2W below 30 kg   |
+|------------------------------|-----------------------|----------------------------|
+| C max (µg/mL)                | 256 ± 60.8            | 274 ± 63.8                 |
+| C trough (µg/mL)             | 69.7 ± 29.1           | 68.4 ± 30.0                |
+| C mean (µg/mL)               | 119 ± 36.0            | 123 ± 36.0                 |
+| Accumulation C max           | 1.42                  | 1.37                       |
+| Accumulation C trough        | 3.20                  | 3.41                       |
+| Accumulation C mean or AUCτ* | 2.01                  | 1.95                       |
 
 After intravenous dosing, approximately 90  % of the steady-state was reached by week 8 for both the 12 mg/kg (body weight  &lt; 30 kg) and 8 mg/kg Q2W (body weight ≥ 30 kg) regimens.
 
@@ -1153,14 +1153,14 @@ The pharmacokinetics of tocilizumab in pJIA patients was characterised by a popu
 
 Table 12. Predicted mean ± SD PK parameters at steady-state after intravenous dosing in pJIA
 
-| Tocilizumab PK parameter       | 8 mg/kgQ4W≥ 30 kg   | 10 mg/kg Q4Wbelow 30 kg   |
-|--------------------------------|---------------------|---------------------------|
-| C max (µg/mL)                  | 183 ± 42.3          | 168 ± 24.8                |
-| C trough (µg/mL)               | 6.55 ± 7.93         | 1.47 ± 2.44               |
-| C mean (µg/mL)                 | 42.2 ± 13.4         | 31.6 ± 7.84               |
-| Accumulation C max             | 1.04                | 1.01                      |
-| Accumulation C trough          | 2.22                | 1.43                      |
-| Accumulation C mean or AUC τ * | 1.16                | 1.05                      |
+| Tocilizumab PK parameter       | 8 mg/kg Q4W ≥ 30 kg   | 10 mg/kg Q4W below 30 kg   |
+|--------------------------------|-----------------------|----------------------------|
+| C max (µg/mL)                  | 183 ± 42.3            | 168 ± 24.8                 |
+| C trough (µg/mL)               | 6.55 ± 7.93           | 1.47 ± 2.44                |
+| C mean (µg/mL)                 | 42.2 ± 13.4           | 31.6 ± 7.84                |
+| Accumulation C max             | 1.04                  | 1.01                       |
+| Accumulation C trough          | 2.22                  | 1.43                       |
+| Accumulation C mean or AUC τ * | 1.16                  | 1.05                       |
 
 After intravenous dosing, approximately 90  % of the steady-state was reached by week 12 for the 10 mg/kg (body weight &lt; 30 kg), and by week 16 for the 8 mg/kg (body weight ≥ 30 kg) dose.
 
@@ -1264,9 +1264,7 @@ EU/1/26/2022/001 EU/1/26/2022/002 EU/1/26/2022/003 EU/1/26/2022/004
 
 ## 9. DATE OF FIRST AUTHORISATION/DATE OF LATEST RENEWAL
 
-Date of first authorisation:
-
-Date of last renewal:
+Date of first authorisation: Date of last renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1428,10 +1426,10 @@ If appropriate, the dose of concomitant MTX and/or other medicinal products shou
 
 ## · Liver enzyme abnormalities
 
-| Laboratory value     | Action                                                                                                                                                  |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| > 1 to 3 × ULN       | Modify the dose of the concomitantMTX if appropriate. For persistent increases in this range, interrupt tocilizumab until ALT/AST have normalised.      |
-| > 3 × ULN to 5 × ULN | Modify the dose of the concomitantMTX if appropriate. Interrupt tocilizumab dosing until < 3 × ULN and follow recommendations above for > 1 to 3 × ULN. |
+| Laboratory value     | Action                                                                                                                                                   |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| > 1 to 3 × ULN       | Modify the dose of the concomitant MTX if appropriate. For persistent increases in this range, interrupt tocilizumab until ALT/AST have normalised.      |
+| > 3 × ULN to 5 × ULN | Modify the dose of the concomitant MTX if appropriate. Interrupt tocilizumab dosing until < 3 × ULN and follow recommendations above for > 1 to 3 × ULN. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1451,7 +1449,7 @@ If appropriate, the dose of concomitant MTX and/or other medicinal products shou
 
 | Laboratory value (cells × 10 3 /μL)   | Action                                                                                                                                                                         |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 50 to 100                             | Modify the dose of the concomitantMTX if appropriate. Interrupt tocilizumab dosing. When platelet count is > 100 × 10 3 /μL resume treatment.                                  |
+| 50 to 100                             | Modify the dose of the concomitant MTX if appropriate. Interrupt tocilizumab dosing. When platelet count is > 100 × 10 3 /μL resume treatment.                                 |
 | < 50                                  | Discontinue tocilizumab. The decision to discontinue treatment in sJIA or pJIA for a laboratory abnormality must be based on the medical assessment of the individual patient. |
 
 Reduction of tocilizumab dosing frequency due to laboratory abnormalities has not been studied in sJIA or pJIA patients.
@@ -1901,15 +1899,15 @@ Trial SC-I evaluated patients with moderate to severe active RA who had an inade
 
 Table 2. ACR responses in Trial SC-I (% patients) at week 24
 
-|                              | SC-I a                                  | SC-I a                        |
-|------------------------------|-----------------------------------------|-------------------------------|
-|                              | TCZ SC 162 mg every week+ DMARD n = 558 | TCZ IV 8 mg/kg+ DMARD n = 537 |
-| ACR 20 week 24               | 69.4%                                   | 73.4%                         |
-| Weighted difference (95 %CI) | -4.0 (-9.2, 1.2)                        | -4.0 (-9.2, 1.2)              |
-| ACR 50 week 24               | 47.0%                                   | 48.6%                         |
-| Weighted difference (95 %CI) | -1.8 (-7.5, 4.0)                        | -1.8 (-7.5, 4.0)              |
-| ACR 70 week 24               | 24.0%                                   | 27.9%                         |
-| Weighted difference (95 %CI) | -3.8 (-9.0, 1.3)                        | -3.8 (-9.0, 1.3)              |
+|                               | SC-I a                                  | SC-I a                        |
+|-------------------------------|-----------------------------------------|-------------------------------|
+|                               | TCZ SC 162 mg every week+ DMARD n = 558 | TCZ IV 8 mg/kg+ DMARD n = 537 |
+| ACR 20 week 24                | 69.4 %                                  | 73.4 %                        |
+| Weighted difference (95 % CI) | -4.0 (-9.2, 1.2)                        | -4.0 (-9.2, 1.2)              |
+| ACR 50 week 24                | 47.0 %                                  | 48.6 %                        |
+| Weighted difference (95 % CI) | -1.8 (-7.5, 4.0)                        | -1.8 (-7.5, 4.0)              |
+| ACR 70 week 24                | 24.0 %                                  | 27.9 %                        |
+| Weighted difference (95 % CI) | -3.8 (-9.0, 1.3)                        | -3.8 (-9.0, 1.3)              |
 
 DMARD = disease-modifying anti-rheumatic drugs
 
@@ -2004,30 +2002,30 @@ The cumulative prednisone dose at week  52 was significantly lower in the two to
 
 Table 4. Efficacy results from Trial WA28119
 
-|                                                                                                | Placebo + 26 weeks prednisone taper n = 50                   | Placebo + 52 weeks prednisone taper n = 51                   | Tocilizumab 162 mg SC weekly + 26 weeks prednisone taper n = 100   | Tocilizumab 162 mg SC every other weekly + 26 weeks prednisone taper n = 49   |
-|------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| Primary endpoint                                                                               |                                                              |                                                              |                                                                    |                                                                               |
-| ****Sustained remission (Tocilizumab groups vs Placebo + 26)                                   | ****Sustained remission (Tocilizumab groups vs Placebo + 26) | ****Sustained remission (Tocilizumab groups vs Placebo + 26) | ****Sustained remission (Tocilizumab groups vs Placebo + 26)       | ****Sustained remission (Tocilizumab groups vs Placebo + 26)                  |
-| Responders at week 52, n (%)                                                                   | 7 (14 %)                                                     | 9 (17.6 %)                                                   | 56 (56 %)                                                          | 26 (53.1 %)                                                                   |
-| Unadjusted difference in proportions                                                           | N/A                                                          | N/A                                                          | 42 %*                                                              | 39.06 %*                                                                      |
-| (99.5 %CI)                                                                                     |                                                              |                                                              | (18.00, 66.00)                                                     | (12.46, 65.66)                                                                |
-| Key secondary endpoint                                                                         | Key secondary endpoint                                       | Key secondary endpoint                                       | Key secondary endpoint                                             | Key secondary endpoint                                                        |
-| Sustained remission (Tocilizumab groups vs Placebo + 52)                                       | Sustained remission (Tocilizumab groups vs Placebo + 52)     | Sustained remission (Tocilizumab groups vs Placebo + 52)     | Sustained remission (Tocilizumab groups vs Placebo + 52)           | Sustained remission (Tocilizumab groups vs Placebo + 52)                      |
-| Responders at week 52, n (%)                                                                   | 7 (14 %)                                                     | 9 (17.6 %)                                                   | 56 (56 %)                                                          | 26 (53.1 %)                                                                   |
-| Unadjusted difference in proportions                                                           | N/A                                                          | N/A                                                          | 38.35 %*                                                           | 35.41 %**                                                                     |
-| (99.5 %CI)                                                                                     |                                                              |                                                              | (17.89, 58.81)                                                     | (10.41, 60.41)                                                                |
-| Other secondary endpoints                                                                      | Other secondary endpoints                                    | Other secondary endpoints                                    | Other secondary endpoints                                          | Other secondary endpoints                                                     |
-| Time to first GCA flare¹ (Tocilizumab groups vs Placebo +2 6) HR (99 %CI)                      | N/A                                                          | N/A                                                          | 0.23* (0.11, 0.46)                                                 | 0.28** (0.12, 0.66)                                                           |
-| Time to first GCA flare¹ Tocilizumab groups vs Placebo + 52) HR (99 %CI))                      | N/A                                                          | N/A                                                          | 0.39** (0.18, 0.82)                                                | 0.48 (0.20, 1.16)                                                             |
-| Time to first GCA flare¹ (Relapsing patients; Tocilizumab groups vs Placebo + 26) HR (99 %CI   | N/A                                                          | N/A                                                          | 0.23*** (0.09, 0.61)                                               | 0.42 (0.14, 1.28)                                                             |
-| Time to first GCA flare¹ (Relapsing patients ; Tocilizumab groups vs Placebo + 52) HR (99 %CI) | N/A                                                          | N/A                                                          | 0.36 (0.13, 1.00)                                                  | 0.67 (0.21,2.10)                                                              |
+|                                                                                                 | Placebo + 26 weeks prednisone taper n = 50                   | Placebo + 52 weeks prednisone taper n = 51                   | Tocilizumab 162 mg SC weekly + 26 weeks prednisone taper n = 100   | Tocilizumab 162 mg SC every other weekly + 26 weeks prednisone taper n = 49   |
+|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| Primary endpoint                                                                                |                                                              |                                                              |                                                                    |                                                                               |
+| ****Sustained remission (Tocilizumab groups vs Placebo + 26)                                    | ****Sustained remission (Tocilizumab groups vs Placebo + 26) | ****Sustained remission (Tocilizumab groups vs Placebo + 26) | ****Sustained remission (Tocilizumab groups vs Placebo + 26)       | ****Sustained remission (Tocilizumab groups vs Placebo + 26)                  |
+| Responders at week 52, n (%)                                                                    | 7 (14 %)                                                     | 9 (17.6 %)                                                   | 56 (56 %)                                                          | 26 (53.1 %)                                                                   |
+| Unadjusted difference in proportions                                                            | N/A                                                          | N/A                                                          | 42 %*                                                              | 39.06 %*                                                                      |
+| (99.5 % CI)                                                                                     |                                                              |                                                              | (18.00, 66.00)                                                     | (12.46, 65.66)                                                                |
+| Key secondary endpoint                                                                          | Key secondary endpoint                                       | Key secondary endpoint                                       | Key secondary endpoint                                             | Key secondary endpoint                                                        |
+| Sustained remission (Tocilizumab groups vs Placebo + 52)                                        | Sustained remission (Tocilizumab groups vs Placebo + 52)     | Sustained remission (Tocilizumab groups vs Placebo + 52)     | Sustained remission (Tocilizumab groups vs Placebo + 52)           | Sustained remission (Tocilizumab groups vs Placebo + 52)                      |
+| Responders at week 52, n (%)                                                                    | 7 (14 %)                                                     | 9 (17.6 %)                                                   | 56 (56 %)                                                          | 26 (53.1 %)                                                                   |
+| Unadjusted difference in proportions                                                            | N/A                                                          | N/A                                                          | 38.35 %*                                                           | 35.41 %**                                                                     |
+| (99.5 % CI)                                                                                     |                                                              |                                                              | (17.89, 58.81)                                                     | (10.41, 60.41)                                                                |
+| Other secondary endpoints                                                                       | Other secondary endpoints                                    | Other secondary endpoints                                    | Other secondary endpoints                                          | Other secondary endpoints                                                     |
+| Time to first GCA flare¹ (Tocilizumab groups vs Placebo +2 6) HR (99 % CI)                      | N/A                                                          | N/A                                                          | 0.23* (0.11, 0.46)                                                 | 0.28** (0.12, 0.66)                                                           |
+| Time to first GCA flare¹ Tocilizumab groups vs Placebo + 52) HR (99 % CI))                      | N/A                                                          | N/A                                                          | 0.39** (0.18, 0.82)                                                | 0.48 (0.20, 1.16)                                                             |
+| Time to first GCA flare¹ (Relapsing patients; Tocilizumab groups vs Placebo + 26) HR (99 % CI   | N/A                                                          | N/A                                                          | 0.23*** (0.09, 0.61)                                               | 0.42 (0.14, 1.28)                                                             |
+| Time to first GCA flare¹ (Relapsing patients ; Tocilizumab groups vs Placebo + 52) HR (99 % CI) | N/A                                                          | N/A                                                          | 0.36 (0.13, 1.00)                                                  | 0.67 (0.21,2.10)                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                                                                                                                                         | Placebo + 26 weeks prednisone taper n = 50   | Placebo + 52 weeks prednisone taper n = 51   | Tocilizumab 162 mg SC weekly + 26 weeks prednisone taper n = 100   | Tocilizumab 162 mg SC every other weekly + 26 weeks prednisone taper n = 49   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo + 26) HR (99 %CI)                                                           | N/A                                          | N/A                                          | 0.25*** (0.09, 0.70)                                               | 0.20*** (0.05, 0.76)                                                          |
-| Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo + 52) HR (99 %CI)                                                           | N/A                                          | N/A                                          | 0.44 (0.14, 1.32)                                                  | 0.35 (0.09, 1.42)                                                             |
+| Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo + 26) HR (99 % CI)                                                          | N/A                                          | N/A                                          | 0.25*** (0.09, 0.70)                                               | 0.20*** (0.05, 0.76)                                                          |
+| Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo + 52) HR (99 % CI)                                                          | N/A                                          | N/A                                          | 0.44 (0.14, 1.32)                                                  | 0.35 (0.09, 1.42)                                                             |
 | Cumulative glucocorticoid dose (mg) median at week 52 (Tocilizumab groups vs Placebo +2 6 2 ) median at week 52 (Tocilizumab groups vs Placebo +5 2 2 ) | 3296.00 N/A                                  | N/A 3817.50                                  | 1862.00* 1862.00*                                                  | 1862.00* 1862.00*                                                             |
 | Exploratory endpoints                                                                                                                                   |                                              |                                              |                                                                    |                                                                               |
 | Annualised relapse rate, week 52 §                                                                                                                      |                                              |                                              |                                                                    |                                                                               |
@@ -2102,19 +2100,19 @@ Similarly the proportion of patients achieving a DAS  28 remission (DAS28  &lt; 
 
 Table 5. ACR responses in placebo-/MTX-/DMARDs-controlled trials (% patients)
 
-|        | Trial I AMBITION   | Trial I AMBITION   | Trial II LITHE   | Trial II LITHE   | Trial III OPTION   | Trial III OPTION   | Trial IV TOWARD     | Trial IV TOWARD   | Trial V RADIATE   | Trial V RADIATE   |
-|--------|--------------------|--------------------|------------------|------------------|--------------------|--------------------|---------------------|-------------------|-------------------|-------------------|
-| week   | TCZ 8 mg/kg        | MTX                | TCZ 8 mg/kg +MTX | PBO + MTX        | TCZ 8 mg/kg +MTX   | PBO + MTX          | TCZ 8 mg/kg + DMARD | PBO + DMARD       | TCZ 8 mg/kg +MTX  | PBO + MT X        |
-|        | n = 286            | n = 284            | n = 398          | n = 393          | n = 205            | n = 20 4           | n = 803             | n = 413           | n = 170           | n = 158           |
-| ACR20  | ACR20              | ACR20              | ACR20            | ACR20            | ACR20              | ACR20              | ACR20               | ACR20             | ACR20             | ACR20             |
-| 24     | 70 %** *           | 52%                | 56 %** *         | 27%              | 59 %** *           | 26%                | 61 %** *            | 24%               | 50 %** *          | 10 %              |
-| 52     |                    |                    | 56 %** *         | 25%              |                    |                    |                     |                   |                   |                   |
-| ACR 50 | ACR 50             | ACR 50             | ACR 50           | ACR 50           | ACR 50             | ACR 50             | ACR 50              | ACR 50            | ACR 50            | ACR 50            |
-| 24     | 44 %**             | 33%                | 32 %** *         | 10%              | 44 %** *           | 11%                | 38 %** *            | 9%                | 29 %** *          | 4%                |
-| 52     |                    |                    | 36 %** *         | 10%              |                    |                    |                     |                   |                   |                   |
-| ACR70  | ACR70              | ACR70              | ACR70            | ACR70            | ACR70              | ACR70              | ACR70               | ACR70             | ACR70             | ACR70             |
-| 24     | 28 %**             | 15%                | 13 %** *         | 2%               | 22 %** *           | 2%                 | 21 %** *            | 3%                | 12 %**            | 1%                |
-| 52     |                    |                    | 20 %**           | 4 %*             |                    |                    |                     |                   |                   |                   |
+|        | Trial I AMBITION   | Trial I AMBITION   | Trial II LITHE    | Trial II LITHE   | Trial III OPTION   | Trial III OPTION   | Trial IV TOWARD     | Trial IV TOWARD   | Trial V RADIATE   | Trial V RADIATE   |
+|--------|--------------------|--------------------|-------------------|------------------|--------------------|--------------------|---------------------|-------------------|-------------------|-------------------|
+| week   | TCZ 8 mg/kg        | MTX                | TCZ 8 mg/kg + MTX | PBO + MTX        | TCZ 8 mg/kg + MTX  | PBO + MTX          | TCZ 8 mg/kg + DMARD | PBO + DMARD       | TCZ 8 mg/kg + MTX | PBO + MT X        |
+|        | n = 286            | n = 284            | n = 398           | n = 393          | n = 205            | n = 20 4           | n = 803             | n = 413           | n = 170           | n = 158           |
+| ACR 20 | ACR 20             | ACR 20             | ACR 20            | ACR 20           | ACR 20             | ACR 20             | ACR 20              | ACR 20            | ACR 20            | ACR 20            |
+| 24     | 70 %** *           | 52 %               | 56 %** *          | 27 %             | 59 %** *           | 26 %               | 61 %** *            | 24 %              | 50 %** *          | 10 %              |
+| 52     |                    |                    | 56 %** *          | 25 %             |                    |                    |                     |                   |                   |                   |
+| ACR 50 | ACR 50             | ACR 50             | ACR 50            | ACR 50           | ACR 50             | ACR 50             | ACR 50              | ACR 50            | ACR 50            | ACR 50            |
+| 24     | 44 %**             | 33 %               | 32 %** *          | 10 %             | 44 %** *           | 11 %               | 38 %** *            | 9 %               | 29 %** *          | 4 %               |
+| 52     |                    |                    | 36 %** *          | 10 %             |                    |                    |                     |                   |                   |                   |
+| ACR 70 | ACR 70             | ACR 70             | ACR 70            | ACR 70           | ACR 70             | ACR 70             | ACR 70              | ACR 70            | ACR 70            | ACR 70            |
+| 24     | 28 %**             | 15 %               | 13 %** *          | 2 %              | 22 %** *           | 2 %                | 21 %** *            | 3 %               | 12 %**            | 1 %               |
+| 52     |                    |                    | 20 %**            | 4 %*             |                    |                    |                     |                   |                   |                   |
 
 TCZ
 
@@ -2152,11 +2150,11 @@ In the open-label extension of Trial II the inhibition of progression of structu
 
 Table 6. Radiographic mean changes over 52 weeks in Trial II
 
-|                          |   PBO + MTX(+ TCZ from week 24) n = 393 | TCZ 8 mg/kg+MTX n = 398   |
-|--------------------------|-----------------------------------------|---------------------------|
-| Total Sharp-Genant score |                                    1.13 | 0.29*                     |
-| Erosion score            |                                    0.71 | 0.17*                     |
-| JSN score                |                                    0.42 | 0.12**                    |
+|                          |   PBO + MTX (+ TCZ from week 24) n = 393 | TCZ 8 mg/kg + MTX n = 398   |
+|--------------------------|------------------------------------------|-----------------------------|
+| Total Sharp-Genant score |                                     1.13 | 0.29*                       |
+| Erosion score            |                                     0.71 | 0.17*                       |
+| JSN score                |                                     0.42 | 0.12**                      |
 
 PBO - Placebo
 
@@ -2202,7 +2200,7 @@ Table 7: Efficacy results for Trial VI (WA19924)
 |---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
 | Primary endpoint - mean change from baseline at week 24       | Primary endpoint - mean change from baseline at week 24       | Primary endpoint - mean change from baseline at week 24       | Primary endpoint - mean change from baseline at week 24       |
 | DAS28 (adjusted mean)                                         | -1.8                                                          | -3.3                                                          |                                                               |
-| Difference in adjusted mean (95 %CI)                          | -1.5 (-1.8, -1.1) <0.0001                                     | -1.5 (-1.8, -1.1) <0.0001                                     |                                                               |
+| Difference in adjusted mean (95 % CI)                         | -1.5 (-1.8, -1.1) <0.0001                                     | -1.5 (-1.8, -1.1) <0.0001                                     |                                                               |
 | Secondary endpoints - percentage of responders at week 24 (b) | Secondary endpoints - percentage of responders at week 24 (b) | Secondary endpoints - percentage of responders at week 24 (b) | Secondary endpoints - percentage of responders at week 24 (b) |
 | DAS28 < 2.6, n (%)                                            | 17 (10.5)                                                     | 65 (39.9)                                                     | <0.0001                                                       |
 | DAS28 ≤ 3.2, n (%)                                            | 32 (19.8)                                                     | 84 (51.5)                                                     | <0.0001                                                       |
@@ -2268,14 +2266,14 @@ subcutaneously (see section 4.2).
 
 Table 8. Predicted mean ± SD PK parameters at steady-state after subcutaneous dosing in sJIA
 
-| Tocilizumab PK parameter       | 162mgQW ≥ 30 kg   | 162mgQ2W below 30 kg   |
-|--------------------------------|-------------------|------------------------|
-| C max (µg/mL)                  | 99.8 ± 46.2       | 134 ± 58.6             |
-| C min (µg/mL)                  | 79.2 ± 35.6       | 65.9 ± 31.3            |
-| C mean (µg/mL)                 | 91.3 ± 40.4       | 101 ± 43.2             |
-| Accumulation C max             | 3.66              | 1.88                   |
-| Accumulation C min             | 4.39              | 3.21                   |
-| Accumulation C mean or AUC τ * | 4.28              | 2.27                   |
+| Tocilizumab PK parameter       | 162 mg QW ≥ 30 kg   | 162 mg Q2W below 30 kg   |
+|--------------------------------|---------------------|--------------------------|
+| C max (µg/mL)                  | 99.8 ± 46.2         | 134 ± 58.6               |
+| C min (µg/mL)                  | 79.2 ± 35.6         | 65.9 ± 31.3              |
+| C mean (µg/mL)                 | 91.3 ± 40.4         | 101 ± 43.2               |
+| Accumulation C max             | 3.66                | 1.88                     |
+| Accumulation C min             | 4.39                | 3.21                     |
+| Accumulation C mean or AUC τ * | 4.28                | 2.27                     |
 
 After subcutaneous dosing, approximately 90 % of the steady-state was reached by week 12 for both the 162 mg QW and Q2W regimens.
 
@@ -2299,14 +2297,14 @@ The pharmacokinetics of tocilizumab in pJIA patients was characterised by a popu
 
 Table 9. Predicted mean ± SD PK parameters at steady-state after subcutaneous dosing in pJIA
 
-| Tocilizumab PK parameter       | 162mgQ2W ≥ 30 kg   | 162mgQ3W below 30 kg   |
-|--------------------------------|--------------------|------------------------|
-| C max (µg/mL)                  | 29.4 ± 13.5        | 75.5 ± 24.1            |
-| C min (µg/mL)                  | 11.8 ± 7.08        | 18.4 ± 12.9            |
-| C avg (µg/mL)                  | 21.7 ± 10.4        | 45.5 ± 19.8            |
-| Accumulation C max             | 1.72               | 1.32                   |
-| Accumulation C min             | 3.58               | 2.08                   |
-| Accumulation C mean or AUC τ * | 2.04               | 1.46                   |
+| Tocilizumab PK parameter       | 162 mg Q2W ≥ 30 kg   | 162 mg Q3W below 30 kg   |
+|--------------------------------|----------------------|--------------------------|
+| C max (µg/mL)                  | 29.4 ± 13.5          | 75.5 ± 24.1              |
+| C min (µg/mL)                  | 11.8 ± 7.08          | 18.4 ± 12.9              |
+| C avg (µg/mL)                  | 21.7 ± 10.4          | 45.5 ± 19.8              |
+| Accumulation C max             | 1.72                 | 1.32                     |
+| Accumulation C min             | 3.58                 | 2.08                     |
+| Accumulation C mean or AUC τ * | 2.04                 | 1.46                     |
 
 After intravenous dosing, approximately 90 % of the steady-state was reached by week 12 for the 10 mg/kg (body weight &lt; 30 kg), and by week 16 for the 8 mg/kg (body weight ≥ 30 kg) dose. After subcutaneous dosing, approximately 90 % of the steady-state was reached by week 12 for both the 162 mg subcutaneous Q2W and Q3W regimens.
 
@@ -2454,9 +2452,7 @@ EU/1/26/2022/008
 
 ## 9. DATE OF FIRST AUTHORISATION/DATE OF LATEST RENEWAL
 
-Date of first authorisation:
-
-Date of last renewal:
+Date of first authorisation: Date of last renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -2527,7 +2523,9 @@ Tuyory is indicated for the treatment of GCA in adult patients.
 
 Tocilizumab subcutaneous formulation is administered with a single-use pre-filled pen. Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA, sJIA, pJIA and/or GCA.
 
-The pre-filled pen must not be used to treat paediatric patients  &lt; 12 years of age since there is a potential risk of intramuscular injection due to thinner subcutaneous tissue layer. The first injection must be performed under the supervision of a qualified health care professional. A appropriate and the patient or parent/guardian agrees to medical follow-up as necessary and has been
+The pre-filled pen must not be used to treat paediatric patients  &lt; 12 years of age since there is a potential risk of intramuscular injection due to thinner subcutaneous tissue layer.
+
+The first injection must be performed under the supervision of a qualified health care professional. A appropriate and the patient or parent/guardian agrees to medical follow-up as necessary and has been
 
 patient or parent/guardian can inject this medicinal product only if the physician determines that it is trained in proper injection technique.
 
@@ -2632,15 +2630,15 @@ If appropriate, the dose of concomitant MTX and/or other medicinal products shou
 
 ## · Liver enzyme abnormalities
 
-| Laboratory value   | Action                                                                                                                                             |
-|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| > 1 to 3 × UL      | Modify the dose of the concomitantMTX if appropriate. For persistent increases in this range, interrupt tocilizumab until ALT/AST have normalised. |
+| Laboratory value   | Action                                                                                                                                              |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| > 1 to 3 × UL      | Modify the dose of the concomitant MTX if appropriate. For persistent increases in this range, interrupt tocilizumab until ALT/AST have normalised. |
 
 <div style=\"page-break-after: always\"></div>
 
 | Laboratory value     | Action                                                                                                                                                                         |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| > 3 × ULN to 5 × ULN | Modify the dose of the concomitantMTX if appropriate. Interrupt tocilizumab dosing until < 3 × ULN and follow recommendations above for > 1 to 3 × ULN.                        |
+| > 3 × ULN to 5 × ULN | Modify the dose of the concomitant MTX if appropriate. Interrupt tocilizumab dosing until < 3 × ULN and follow recommendations above for > 1 to 3 × ULN.                       |
 | > 5 × ULN            | Discontinue tocilizumab. The decision to discontinue treatment in sJIA or pJIA for a laboratory abnormality must be based on the medical assessment of the individual patient. |
 
 ## · Low absolute neutrophil count (ANC)
@@ -2655,7 +2653,7 @@ If appropriate, the dose of concomitant MTX and/or other medicinal products shou
 
 | Laboratory value (cells × 10 3 /μL)   | Action                                                                                                                                                                         |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 50 to 100                             | Modify the dose of the concomitantMTX if appropriate. Interrupt tocilizumab dosing. When platelet count is > 100 × 10 3 /μL resume treatment.                                  |
+| 50 to 100                             | Modify the dose of the concomitant MTX if appropriate. Interrupt tocilizumab dosing. When platelet count is > 100 × 10 3 /μL resume treatment.                                 |
 | < 50                                  | Discontinue tocilizumab. The decision to discontinue treatment in sJIA or pJIA for a laboratory abnormality must be based on the medical assessment of the individual patient. |
 
 Reduction of tocilizumab dosing frequency due to laboratory abnormalities has not been studied in sJIA or pJIA patients.
@@ -3083,7 +3081,7 @@ RA and GCA patients demonstrate a comparable (to healthy subjects) decrease of a
 
 ## Subcutaneous use
 
-RA patients
+## RA patients
 
 ## Clinical efficacy
 
@@ -3217,18 +3215,18 @@ Table 4. Efficacy results from Trial WA28119
 | Primary endpoint                                                                                                           |                                                            |                                                            |                                                                    |                                                                                 |
 | ****Sustained remission (Tocilizumab groups vs Placebo+26)                                                                 | ****Sustained remission (Tocilizumab groups vs Placebo+26) | ****Sustained remission (Tocilizumab groups vs Placebo+26) | ****Sustained remission (Tocilizumab groups vs Placebo+26)         | ****Sustained remission (Tocilizumab groups vs Placebo+26)                      |
 | Responders at week 52, n (%)                                                                                               | 7 (14 %)                                                   | 9 (17.6 %)                                                 | 56 (56 %)                                                          | 26 (53.1 %)                                                                     |
-| Unadjusted difference in proportions (99.5 %CI)                                                                            | N/A                                                        | N/A                                                        | 42 %* (18.00, 66.00)                                               | 39.06 %* (12.46, 65.66)                                                         |
+| Unadjusted difference in proportions (99.5 % CI)                                                                           | N/A                                                        | N/A                                                        | 42 %* (18.00, 66.00)                                               | 39.06 %* (12.46, 65.66)                                                         |
 | Key secondary endpoint                                                                                                     |                                                            |                                                            |                                                                    |                                                                                 |
 | Sustained remission (Tocilizumab groups vs Placebo + 52)                                                                   | Sustained remission (Tocilizumab groups vs Placebo + 52)   | Sustained remission (Tocilizumab groups vs Placebo + 52)   | Sustained remission (Tocilizumab groups vs Placebo + 52)           | Sustained remission (Tocilizumab groups vs Placebo + 52)                        |
 | Responders at week 52, n (%)                                                                                               | 7 (1 4%)                                                   | 9 (17.6 %)                                                 | 56 (56 %)                                                          | 26 (53.1 %)                                                                     |
-| Unadjusted difference in proportions (99.5 %CI)                                                                            | N/A                                                        | N/A                                                        | 38.35 %* (17.89, 58.81)                                            | 35.41 %* * (10.41, 60.41)                                                       |
+| Unadjusted difference in proportions (99.5 % CI)                                                                           | N/A                                                        | N/A                                                        | 38.35 %* (17.89, 58.81)                                            | 35.41 %* * (10.41, 60.41)                                                       |
 | Other secondary endpoints                                                                                                  | Other secondary endpoints                                  | Other secondary endpoints                                  | Other secondary endpoints                                          | Other secondary endpoints                                                       |
 | Time to first GCA flare¹ (Tocilizumab groups vs Placebo+26) HR (99% CI)                                                    | N/A                                                        | N/A                                                        | 0.23* (0.11, 0.46)                                                 | 0.28** (0.12, 0.66)                                                             |
-| Time to first GCA flare¹ (Relapsing patients; Tocilizumab groups vs Placebo + 52) HR (99 %CI))                             | N/A                                                        | N/A                                                        | 0.39** (0.18, 0.82)                                                | 0.48 (0.20, 1.16)                                                               |
+| Time to first GCA flare¹ (Relapsing patients; Tocilizumab groups vs Placebo + 52) HR (99 % CI))                            | N/A                                                        | N/A                                                        | 0.39** (0.18, 0.82)                                                | 0.48 (0.20, 1.16)                                                               |
 | Time to first GCA flare¹ (Relapsing patients; Tocilizumab groups vs Placebo +26) HR (9 9% CI                               | N/A                                                        | N/A                                                        | 0.23*** (0.09,0.61)                                                | 0.42 (0.14, 1.28)                                                               |
-| Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo + 52) HR (99 %CI)                              | N/A                                                        | N/A                                                        | 0.36 (0.13, 1.00)                                                  | 0.67 (0.21,2.10 )                                                               |
-| Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo +26) HR (99 %CI)                               | N/A                                                        | N/A                                                        | 0.25*** (0.09, 0.70)                                               | 0.20*** (0.05, 0.76)                                                            |
-| Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo + 52) HR (99 %CI)                              | N/A                                                        | N/A                                                        | 0.44 (0.14, 1.32)                                                  | 0.35 (0.09, 1.42)                                                               |
+| Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo + 52) HR (99 % CI)                             | N/A                                                        | N/A                                                        | 0.36 (0.13, 1.00)                                                  | 0.67 (0.21,2.10 )                                                               |
+| Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo +26) HR (99 % CI)                              | N/A                                                        | N/A                                                        | 0.25*** (0.09, 0.70)                                               | 0.20*** (0.05, 0.76)                                                            |
+| Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo + 52) HR (99 % CI)                             | N/A                                                        | N/A                                                        | 0.44 (0.14, 1.32)                                                  | 0.35 (0.09, 1.42)                                                               |
 | Cumulative glucocorticoid dose (mg) median at week 52 (Tocilizumab groups vs Placebo+26 2 ) median at week 52 (Tocilizumab | 3296.00                                                    | N/A                                                        | 1862.00*                                                           | 1862.00*                                                                        |
 | groups vs Placebo +522)                                                                                                    | N/A                                                        | 3817.50                                                    | 1862.00*                                                           | 1862.00*                                                                        |
 | Exploratory endpoints                                                                                                      | Exploratory endpoints                                      | Exploratory endpoints                                      | Exploratory endpoints                                              | Exploratory endpoints                                                           |
@@ -3310,19 +3308,19 @@ Similarly the proportion of patients achieving a DAS 28 remission (DAS28  &lt; 2
 
 Table 5. ACR responses in placebo-/MTX-/DMARDs-controlled trials (% patients)
 
-|        | Trial I AMBITION   | Trial I AMBITION   | Trial II LITHE   | Trial II LITHE   | Trial III OPTION   | Trial III OPTION   | Trial IV TOWARD     | Trial IV TOWARD   | Trial V RADIATE   | Trial V RADIATE   |
-|--------|--------------------|--------------------|------------------|------------------|--------------------|--------------------|---------------------|-------------------|-------------------|-------------------|
-| week   | TCZ 8 mg/kg        | MTX                | TCZ 8 mg/kg +MTX | PBO + MTX        | TCZ 8 mg/kg +MTX   | PBO + MTX          | TCZ 8 mg/kg + DMARD | PBO + DMARD       | TCZ 8 mg/kg +MTX  | PBO + MTX         |
-|        | n = 286            | n = 284            | n = 398          | n = 393          | n = 205            | n = 204            | n = 803             | n = 413           | n = 170           | n = 158           |
-| ACR 20 | ACR 20             | ACR 20             | ACR 20           | ACR 20           | ACR 20             | ACR 20             | ACR 20              | ACR 20            | ACR 20            | ACR 20            |
-| 24     | 70 %***            | 52%                | 56 %***          | 27%              | 59 %***            | 26%                | 61 %***             | 24%               | 50 %***           | 10%               |
-| 52     |                    |                    | 56 %***          | 25%              |                    |                    |                     |                   |                   |                   |
-| ACR 50 | ACR 50             | ACR 50             | ACR 50           | ACR 50           | ACR 50             | ACR 50             | ACR 50              | ACR 50            | ACR 50            | ACR 50            |
-| 24     | 44 %**             | 33%                | 32 %***          | 10%              | 44 %***            | 11%                | 38 %***             | 9%                | 29 %***           | 4%                |
-| 52     |                    |                    | 36 %***          | 10%              |                    |                    |                     |                   |                   |                   |
-| ACR 70 | ACR 70             | ACR 70             | ACR 70           | ACR 70           | ACR 70             | ACR 70             | ACR 70              | ACR 70            | ACR 70            | ACR 70            |
-| 24     | 28 %**             | 15%                | 13 %***          | 2%               | 22 %***            | 2%                 | 21 %***             | 3%                | 12 %**            | 1%                |
-| 52     |                    |                    | 20 %**           | 4 %*             |                    |                    |                     |                   |                   |                   |
+|        | Trial I AMBITION   | Trial I AMBITION   | Trial II LITHE    | Trial II LITHE   | Trial III OPTION   | Trial III OPTION   | Trial IV TOWARD     | Trial IV TOWARD   | Trial V RADIATE   | Trial V RADIATE   |
+|--------|--------------------|--------------------|-------------------|------------------|--------------------|--------------------|---------------------|-------------------|-------------------|-------------------|
+| week   | TCZ 8 mg/kg        | MTX                | TCZ 8 mg/kg + MTX | PBO + MTX        | TCZ 8 mg/kg + MTX  | PBO + MTX          | TCZ 8 mg/kg + DMARD | PBO + DMARD       | TCZ 8 mg/kg + MTX | PBO + MTX         |
+|        | n = 286            | n = 284            | n = 398           | n = 393          | n = 205            | n = 204            | n = 803             | n = 413           | n = 170           | n = 158           |
+| ACR 20 | ACR 20             | ACR 20             | ACR 20            | ACR 20           | ACR 20             | ACR 20             | ACR 20              | ACR 20            | ACR 20            | ACR 20            |
+| 24     | 70 %***            | 52 %               | 56 %***           | 27 %             | 59 %***            | 26 %               | 61 %***             | 24 %              | 50 %***           | 10 %              |
+| 52     |                    |                    | 56 %***           | 25 %             |                    |                    |                     |                   |                   |                   |
+| ACR 50 | ACR 50             | ACR 50             | ACR 50            | ACR 50           | ACR 50             | ACR 50             | ACR 50              | ACR 50            | ACR 50            | ACR 50            |
+| 24     | 44 %**             | 33 %               | 32 %***           | 10 %             | 44 %***            | 11 %               | 38 %***             | 9 %               | 29 %***           | 4 %               |
+| 52     |                    |                    | 36 %***           | 10 %             |                    |                    |                     |                   |                   |                   |
+| ACR 70 | ACR 70             | ACR 70             | ACR 70            | ACR 70           | ACR 70             | ACR 70             | ACR 70              | ACR 70            | ACR 70            | ACR 70            |
+| 24     | 28 %**             | 15 %               | 13 %***           | 2 %              | 22 %***            | 2 %                | 21 %***             | 3 %               | 12 %**            | 1 %               |
+| 52     |                    |                    | 20 %**            | 4 %*             |                    |                    |                     |                   |                   |                   |
 
 TCZ
 
@@ -3358,9 +3356,9 @@ In the open-label extension of Trial II the inhibition of progression of structu
 
 Table 6. Radiographic mean changes over 52 weeks in Trial II
 
-|                          |   PBO + MTX(+ TCZ from week 24) n = 393 | TCZ 8 mg/kg+MTX n = 398   |
-|--------------------------|-----------------------------------------|---------------------------|
-| Total Sharp-Genant score |                                    1.13 | 0.29*                     |
+|                          |   PBO + MTX (+ TCZ from week 24) n = 393 | TCZ 8 mg/kg + MTX n = 398   |
+|--------------------------|------------------------------------------|-----------------------------|
+| Total Sharp-Genant score |                                     1.13 | 0.29*                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3400,7 +3398,7 @@ Table 7: Efficacy results for Trial VI (WA19924)
 |---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
 | Primary endpoint - Mean change from baseline at week 24       | Primary endpoint - Mean change from baseline at week 24       | Primary endpoint - Mean change from baseline at week 24       | Primary endpoint - Mean change from baseline at week 24       |
 | DAS28 (adjusted mean)                                         | -1.8                                                          | -3.3                                                          |                                                               |
-| Difference in adjusted mean (95 %CI)                          | -1.5 (-1.8, -1.1)                                             | -1.5 (-1.8, -1.1)                                             | <0.0001                                                       |
+| Difference in adjusted mean (95 % CI)                         | -1.5 (-1.8, -1.1)                                             | -1.5 (-1.8, -1.1)                                             | <0.0001                                                       |
 | Secondary endpoints - Percentage of responders at week 24 (b) | Secondary endpoints - Percentage of responders at week 24 (b) | Secondary endpoints - Percentage of responders at week 24 (b) | Secondary endpoints - Percentage of responders at week 24 (b) |
 | DAS28 < 2.6, n (%)                                            | 17 (10.5)                                                     | 65 (39.9)                                                     | <0.0001                                                       |
 | DAS28 ≤ 3.2, n (%)                                            | 32 (19.8)                                                     | 84 (51.5)                                                     | <0.0001                                                       |
@@ -3480,14 +3478,14 @@ Patients with sJIA must have a minimum body weight of 10 kg when receiving tocil
 
 Table 8. Predicted mean ± SD PK parameters at steady-state after subcutaneous dosing in sJIA
 
-| Tocilizumab PK parameter       | 162mgQW ≥ 30 kg   | 162mgQ2W below 30 kg   |
-|--------------------------------|-------------------|------------------------|
-| C max (µg/mL)                  | 99.8 ± 46.2       | 134 ± 58.6             |
-| C min (µg/mL)                  | 79.2 ± 35.6       | 65.9 ± 31.3            |
-| C mean (µg/mL)                 | 91.3 ± 40.4       | 101 ± 43.2             |
-| Accumulation C max             | 3.66              | 1.88                   |
-| Accumulation C min             | 4.39              | 3.21                   |
-| Accumulation C mean or AUC τ * | 4.28              | 2.27                   |
+| Tocilizumab PK parameter       | 162 mg QW ≥ 30 kg   | 162 mg Q2W below 30 kg   |
+|--------------------------------|---------------------|--------------------------|
+| C max (µg/mL)                  | 99.8 ± 46.2         | 134 ± 58.6               |
+| C min (µg/mL)                  | 79.2 ± 35.6         | 65.9 ± 31.3              |
+| C mean (µg/mL)                 | 91.3 ± 40.4         | 101 ± 43.2               |
+| Accumulation C max             | 3.66                | 1.88                     |
+| Accumulation C min             | 4.39                | 3.21                     |
+| Accumulation C mean or AUC τ * | 4.28                | 2.27                     |
 
 After subcutaneous dosing, approximately 90 % of the steady-state was reached by week 12 for both the 162 mg QW and Q2W regimens.
 
@@ -3509,14 +3507,14 @@ The pharmacokinetics of tocilizumab in pJIA patients was characterised by a popu
 
 Table 9. Predicted mean ± SD PK parameters at steady-state after subcutaneous dosing in pJIA
 
-| Tocilizumab PK parameter       | 162 mgQ2W≥ 30 kg   | 162mgQ3W below 30 kg   |
-|--------------------------------|--------------------|------------------------|
-| C max (µg/mL)                  | 29.4 ± 13.5        | 75.5 ± 24.1            |
-| C min (µg/mL)                  | 11.8 ± 7.08        | 18.4 ± 12.9            |
-| C avg (µg/mL)                  | 21.7 ± 10.4        | 45.5 ± 19.8            |
-| Accumulation C max             | 1.72               | 1.32                   |
-| Accumulation C min             | 3.58               | 2.08                   |
-| Accumulation C mean or AUC τ * | 2.04               | 1.46                   |
+| Tocilizumab PK parameter       | 162 mg Q2W ≥ 30 kg   | 162 mg Q3W below 30 kg   |
+|--------------------------------|----------------------|--------------------------|
+| C max (µg/mL)                  | 29.4 ± 13.5          | 75.5 ± 24.1              |
+| C min (µg/mL)                  | 11.8 ± 7.08          | 18.4 ± 12.9              |
+| C avg (µg/mL)                  | 21.7 ± 10.4          | 45.5 ± 19.8              |
+| Accumulation C max             | 1.72                 | 1.32                     |
+| Accumulation C min             | 3.58                 | 2.08                     |
+| Accumulation C mean or AUC τ * | 2.04                 | 1.46                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3726,9 +3724,9 @@ The Patient Information Pack should contain the following key elements:
 
 - Package leaflet (with instructions for use for subcutaneous form) (e.g., link to EMA website)
 - Patient card
-- -To  address  the  risk  of  getting  infections  which  can  become  serious  if  not  treated.  In addition, some previous infections may reappear.Patients should seek guidance from their healthcare professional in case they develop an infection of any kind (even a head cold) at the time of their scheduled treatment with Tuyory.
-- -To  address  the  risk  that  patients  using  Tuyory  may  develop  complications  of diverticulitis which can become serious if not treated. Patients should inform their doctor immediately if they experience signs and symptoms of stomach pain, or colic with a change in bowel habits, or notice blood in their stool. The patient should inform the healthcare  professional  if  they  have  or  have  had  intestinal  ulceration  or  diverticulitis (inflammation in parts of the large intestine).
-- -To address the risk that patients using Tuyory may develop serious hepatic injury. Patients liver function would be monitored for changes in the level of liver enzymes through liver function tests  during treatment with Tuyory.  Patients should  inform  their doctor immediately if they experience signs and symptoms of liver toxicity including tiredness, confusion, abdominal pain, pain or swelling in the upper right side of the stomach area and jaundice (yellowing of the skin and eyes, and have dark brown coloured urine)
+- To  address  the  risk  of  getting  infections  which  can  become  serious  if  not  treated.  In addition, some previous infections may reappear.Patients should seek guidance from their healthcare professional in case they develop an infection of any kind (even a head cold) at the time of their scheduled treatment with Tuyory.
+- To  address  the  risk  that  patients  using  Tuyory  may  develop  complications  of diverticulitis which can become serious if not treated. Patients should inform their doctor immediately if they experience signs and symptoms of stomach pain, or colic with a change in bowel habits, or notice blood in their stool. The patient should inform the healthcare  professional  if  they  have  or  have  had  intestinal  ulceration  or  diverticulitis (inflammation in parts of the large intestine).
+- To address the risk that patients using Tuyory may develop serious hepatic injury. Patients liver function would be monitored for changes in the level of liver enzymes through liver function tests  during treatment with Tuyory.  Patients should  inform  their doctor immediately if they experience signs and symptoms of liver toxicity including tiredness, confusion, abdominal pain, pain or swelling in the upper right side of the stomach area and jaundice (yellowing of the skin and eyes, and have dark brown coloured urine)
 
 .
 
@@ -3869,8 +3867,8 @@ Lot
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3884,8 +3882,8 @@ VIAL LABEL
 
 Tuyory 20 mg/mL sterile concentrate tocilizumab
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 IV infusion
 
@@ -3912,7 +3910,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-PRE-FILLED SYRINGE OUTER CARTON
+## PRE-FILLED SYRINGE OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -4201,19 +4199,19 @@ tuyory 162 mg syringe
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Tuyory 162 mg injection tocilizumab
 
 SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -4225,8 +4223,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.9 mL
 
@@ -4399,7 +4397,7 @@ Once removed from the refrigerator, the pre-filled pen can be stored up to 2 wee
 
 Gedeon Richter Plc.
 
-Gyömrői út 19 -21.
+Gyömrői út 19-21.
 
 1103 Budapest
 
@@ -4415,7 +4413,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -4525,17 +4523,17 @@ tuyory 162 mg pen
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Tuyory 162 mg injection tocilizumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -4547,8 +4545,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.9 mL
 
@@ -4561,19 +4559,19 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+## Package leaflet: Information for the user
+
+## Tuyory 20 mg/mL concentrate for solution for infusion
+
+tocilizumab
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
-## Package leaflet: Information for the user
+## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-## Tuyory 20 mg/mL concentrate for solution for infusion tocilizumab
-
-Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
-
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 In addition to this leaflet, you will be given a Patient Card , which contains important safety information that you need to be aware of before and during treatment with Tuyory.
 
@@ -4866,8 +4864,6 @@ Not all pack sizes may be marketed.
 
 Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## This leaflet was last revised in .
 
 ## Other sources of information
@@ -4914,22 +4910,20 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
 ## Package leaflet: Information for the user
 
 ## Tuyory 162 mg solution for injection in pre-filled syringe
 
 ## tocilizumab
 
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 In addition to this leaflet, you will be given a Patient Card , which contains important safety information that you need to be aware of before and during treatment with Tuyory.
 
@@ -4955,9 +4949,11 @@ Tuyory helps to reduce RA symptoms such as pain and swelling in your joints and 
 
 Tuyory is usually given in combination with another medicine for RA called methotrexate. However, Tuyory can be given alone if your doctor determines that methotrexate is inappropriate.
 
-- adults with a disease of the arteries called giant cell arteritis ( GCA ), caused by inflammation of the body's largest arteries, especially those that supply blood to the head and neck. Symptoms include headache, fatigue and jaw pain. Effects can include strokes and blindness.
+- adults with a disease of the arteries called giant cell arteritis ( GCA ), caused by inflammation of the body's largest arteries, especially those that supply blood to the head and
 
 <div style=\"page-break-after: always\"></div>
+
+neck. Symptoms include headache, fatigue and jaw pain. Effects can include strokes and blindness.
 
 Tuyory can reduce pain and swelling in the arteries and veins in your head, neck and arms.
 
@@ -5079,12 +5075,10 @@ Because Tuyory is given in one pre-filled syringe, it is unlikely that you will 
 It is very important to use Tuyory exactly as prescribed by your doctor. Keep track of your next dose.
 
 - If you miss your weekly dose within 7 days, take your dose on the next scheduled day.
-- If you miss your once every other week  dose within 7 days, inject a dose as soon as you
 
 <div style=\"page-break-after: always\"></div>
 
-remember and take your next dose at your regular scheduled time.
-
+- If you miss your once every other week  dose within 7 days, inject a dose as soon as you remember and take your next dose at your regular scheduled time.
 - If you miss your weekly or once every other week dose by more than 7 days, or you are not sure when to inject Tuyory, call your doctor or pharmacist.
 
 ## If a child or adolescent with pJIA misses or forgets a dose
@@ -5108,7 +5102,7 @@ Side effects could occur 3 months or more after your last dose of Tuyory.
 
 ## Possible serious side effects
 
-Tell your doctor immediately if you experience any of the following side effects:
+## Tell your doctor immediately if you experience any of the following side effects:
 
 These are common: they may affect up to 1 in 10 people
 
@@ -5148,10 +5142,10 @@ These may affect more than 1 in 10 people
 These may affect up to 1 in 10 people
 
 - lung infection (pneumonia)
-- shingles (herpes zoster)
 
 <div style=\"page-break-after: always\"></div>
 
+- shingles (herpes zoster)
 - cold sores (oral herpes simplex), blisters
 - skin infection (cellulitis) sometimes with fever and chills
 - rash and itching, hives
@@ -5224,7 +5218,10 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Tuyory contains
 
-- The active substance is tocilizumab. Each pre-filled syringe contains 162 mg tocilizumab in 0.9 mL.
+- The active substance is tocilizumab.
+
+Each pre-filled syringe contains 162 mg tocilizumab in 0.9 mL.
+
 - The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, L-valine, Lmethionine, polysorbate 80 (E 433) and phosphoric acid, concentrated (for pH adjustment) sodium hydroxide (for pH adjustment) water for injections. (see section 2 'Tuyory contains polysorbate')
 
 ## What Tuyory looks like and contents of the pack
@@ -5241,15 +5238,19 @@ Not all pack sizes may be marketed.
 
 Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## This leaflet was last revised in .
 
 ## Other sources of information:
 
 Detailed and updated information on this product and the latest approved patient education materials are also available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: www.tuyoryinfo.com
 
-QR code to be included Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+## QR code to be included
+
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+<div style=\"page-break-after: always\"></div>
+
+https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5344,7 +5345,7 @@ Dispose of the syringe and do not use if:
 
 ## Step 4. Choose and prepare an injection site
 
-- The recommended injection sites are the front and middle of your thighs and the lower part of the abdomen below the navel (belly button) except for the five centimeter area directly around the navel. ( See Figure D )
+- The recommended injection sites are the front and middle of your thighs and the lower part of the abdomen around the navel (belly button) except for the five centimeter area directly around the navel. ( See Figure D )
 - If a caregiver is giving the injection, the outer area of the upper arms may also be used. ( See Figure D )
 - You should use a different place each time you give yourself an injection, at least three centimeters from the area you used for your previous injection.
 - o Do not inject into areas that could be bothered by a belt or waistband. Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard or not intact.
@@ -5444,6 +5445,8 @@ Do not throw away used syringes or the puncture resistant container in household
 - Dispose of the full container as instructed by your healthcare provider or pharmacist.
 - Always keep the puncture-resistant container out of the sight and reach of children.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Patient advice regarding hypersensitivity reactions (also known as anaphylaxis, if severe)
 
 If you develop symptoms such as, but not limited to skin rash, itching, chills, swelling of face, lips, tongue or throat, chest pain, wheezing, difficulty breathing or swallowing or feeling dizzy or faint at any time while not at the clinic during or following an Tuyory injection you should seek emergency care immediately.
@@ -5463,20 +5466,20 @@ If you have any concerns or questions about your syringe, contact your healthcar
 
 <div style=\"page-break-after: always\"></div>
 
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
 ## Package leaflet: Information for the user
 
 ## Tuyory 162 mg solution for injection in pre-filled pen
 
 ## tocilizumab
 
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 In addition to this leaflet, you will be given a Patient Card , which contains important safety information that you need to be aware of before and during treatment with Tuyory.
 
@@ -5664,7 +5667,7 @@ Side effects could occur 3 months or more after your last dose of Tuyory.
 
 These are common: they may affect up to 1 in 10 people
 
-Allergic reactions during or after injection:
+## Allergic reactions during or after injection:
 
 - difficulty with breathing, chest tightness or light-headedness
 - rash, itching, hives, swelling of the, lips, tongue or face
@@ -5699,10 +5702,9 @@ These may affect more than 1 in 10 people
 
 These may affect up to 1 in 10 people
 
-- lung infection (pneumonia)
-
 <div style=\"page-break-after: always\"></div>
 
+- lung infection (pneumonia)
 - shingles (herpes zoster)
 - cold sores (oral herpes simplex), blisters
 - skin infection (cellulitis) sometimes with fever and chills
@@ -5794,17 +5796,19 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
+Gedeon Richter Plc.
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Gyömrői út 19 -21.
+
+1103 Budapest
+
+Hungary
 
 ## This leaflet was last revised in .
 
 ## Other sources of information:
 
-Detailed information on this product and the latest approved patient education materials are also available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL:
-
-[www.tuyoryinfo.com](http://www.tuyoryinfo.com/)
+Detailed information on this product and the latest approved patient education materials are also available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: www.tuyoryinfo.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5991,5 +5995,22 @@ Figure K
 ## Keep the Tuyory pre-filled pen and disposal container out of the reach of children. Record your Injection
 
 - Write the date, time, and specific part of your body where you injected yourself. It may also be helpful to write any questions or concerns about the injection so you can ask your healthcare provider.
+
+<div style=\"page-break-after: always\"></div>
+
+## Patient advice regarding hypersensitivity reactions (also known as anaphylaxis, if severe)
+
+If you develop symptoms such as, but not limited to skin rash, itching, chills, swelling of face, lips, tongue or throat, chest pain, wheezing, difficulty breathing or swallowing or feeling dizzy or faint at any time while not at the clinic during or following an Tuyory injection you should seek emergency care immediately.
+
+## Patient advice regarding early recognition and treatment to limit risk of a serious infection
+
+Be alert for the first signs of infection such as:
+
+- body aches, fever, chills
+- cough, chest discomfort/tightness, shortness of breath
+- redness, heat, unusual swelling of skin or joint
+- abdominal pain/tenderness and/or change in bowel function
+
+Call your doctor and seek medical attention without delay if you think you might be developing an infection.
 
 If you have any questions or concerns about your Tuyory pre-filled pen, talk to your healthcare provider familiar with Tuyory.

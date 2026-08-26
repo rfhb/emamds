@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-16 12:20:00
+document_datetime: 2026-08-20 15:37:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ocrevus.html
 document_name: ocrevus.html
 version: success
-processing_time: 0.096926
-conversion_datetime: 2026-04-17 15:30:10.015641
+processing_time: 0.1676456
+conversion_datetime: 2026-08-26 10:56:27.922215
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.0
-  docling: 2.89.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Ocrevus
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Ocrevus](#news-on)
 - [More information on Ocrevus](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -55,7 +54,7 @@ Expand section
 
 Collapse section
 
-## What is Ocrevus and what is it used for?
+### What is Ocrevus and what is it used for?
 
 Ocrevus is a medicine for treating multiple sclerosis - an inflammatory disease of the nervous system that causes symptoms such as weakness, difficulty walking and problems with vision.
 
@@ -66,7 +65,7 @@ Ocrevus is used in two types of patients:
 
 Ocrevus contains the active substance ocrelizumab.
 
-## How is Ocrevus used?
+### How is Ocrevus used?
 
 Ocrevus is given as an infusion (drip) into a vein. The first two infusions are given two weeks apart and subsequent infusions are given every six months.
 
@@ -74,13 +73,13 @@ Before each infusion, the patient is given other medicines (a corticosteroid and
 
 Ocrevus can only be obtained with a prescription and treatment must only be started and supervised by a doctor experienced in treating diseases of the nerves. For further information, see the package leaflet.
 
-## How does Ocrevus work?
+### How does Ocrevus work?
 
 The active substance in Ocrevus, ocrelizumab, is a monoclonal antibody designed to recognise and attach to a target called CD20 on the surface of certain types of white blood cells (so called B cells).
 
 These white blood cells play a role in multiple sclerosis by attacking the sheaths around the nerves in the brain and spinal cord, causing inflammation and damage. By targeting the B cells, Ocrevus helps to reduce their activity and thereby relieves symptoms or slows down the worsening of the disease.
 
-## What benefits of Ocrevus have been shown in studies?
+### What benefits of Ocrevus have been shown in studies?
 
 Studies have shown that Ocrevus is effective at reducing the number of relapses and it can also reduce the worsening of symptoms in some patients.
 
@@ -88,23 +87,23 @@ In two studies of 1,656 patients with relapsing forms of multiple sclerosis (RMS
 
 A third study, in 732 patients with primary progressive multiple sclerosis (PPMS), showed that fewer patients taking Ocrevus had worsening symptoms lasting 12 weeks or more (30%) compared with those taking a placebo (34%).
 
-## What are the risks associated with Ocrevus?
+### What are the risks associated with Ocrevus?
 
 The most important and most frequently reported side effects with Ocrevus are infusion reactions (such as itching, rash, and difficulty breathing) and infections. These occur in more than 1 in 10 people. For the full list of side effects reported with Ocrevus, see the package leaflet.
 
 Ocrevus must not be used in patients with active infections or severely weakened immune systems or in patients with cancer. For the full list of restrictions, see the package leaflet.
 
-## Why is Ocrevus approved?
+### Why is Ocrevus approved?
 
 Studies showed that Ocrevus was more effective than interferon beta-1a at reducing the number of relapses in patients with relapsing forms of multiple sclerosis. Ocrevus treatment also provided some benefit in patients with primary progressive multiple sclerosis, a condition for which treatments are urgently needed.
 
 The European Medicines Agency concluded that the benefits seen with Ocrevus outweighed its risks and recommended that it be authorised in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Ocrevus?
+### What measures are being taken to ensure the safe and effective use of Ocrevus?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ocrevus have been included in the summary of product characteristics and the package leaflet.
 
-## Other information about Ocrevus
+### Other information about Ocrevus
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Ocrevus on 8 January 2018.
 
@@ -120,7 +119,7 @@ English (EN) (84.29 KB - PDF)
 
 [View](/en/documents/overview/ocrevus-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-662)
+[Other languages (22)](#file-language-dropdown-235)
 
 български (BG) (109.83 KB - PDF)
 
@@ -152,7 +151,7 @@ Deutsch (DE) (84.29 KB - PDF)
 
 [View](/de/documents/overview/ocrevus-epar-summary-public_de.pdf)
 
-eesti keel (ET) (83.37 KB - PDF)
+eesti (ET) (83.37 KB - PDF)
 
 **First published:** 11/01/2018 **Last updated:** 25/01/2018
 
@@ -182,13 +181,13 @@ italiano (IT) (82.68 KB - PDF)
 
 [View](/it/documents/overview/ocrevus-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (106 KB - PDF)
+latviešu (LV) (106 KB - PDF)
 
 **First published:** 11/01/2018 **Last updated:** 25/01/2018
 
 [View](/lv/documents/overview/ocrevus-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (106.91 KB - PDF)
+lietuvių (LT) (106.91 KB - PDF)
 
 **First published:** 11/01/2018 **Last updated:** 25/01/2018
 
@@ -242,7 +241,7 @@ slovenščina (SL) (100.76 KB - PDF)
 
 [View](/sl/documents/overview/ocrevus-epar-summary-public_sl.pdf)
 
-Suomi (FI) (82.68 KB - PDF)
+suomi (FI) (82.68 KB - PDF)
 
 **First published:** 11/01/2018 **Last updated:** 25/01/2018
 
@@ -266,167 +265,168 @@ English (EN) (7.06 MB - PDF)
 
 Ocrevus : EPAR - Product Information
 
-English (EN) (672.44 KB - PDF)
+English (EN) (356.17 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/en/documents/product-information/ocrevus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-699)
+[Other languages (24)](#file-language-dropdown-89)
 
-български (BG) (1.21 MB - PDF)
+български (BG) (1.29 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/bg/documents/product-information/ocrevus-epar-product-information_bg.pdf)
 
-español (ES) (970.43 KB - PDF)
+español (ES) (951.89 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/es/documents/product-information/ocrevus-epar-product-information_es.pdf)
 
-čeština (CS) (934.67 KB - PDF)
+čeština (CS) (948.24 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/cs/documents/product-information/ocrevus-epar-product-information_cs.pdf)
 
-dansk (DA) (845.71 KB - PDF)
+dansk (DA) (846.83 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/da/documents/product-information/ocrevus-epar-product-information_da.pdf)
 
-Deutsch (DE) (833.4 KB - PDF)
+Deutsch (DE) (930.17 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/de/documents/product-information/ocrevus-epar-product-information_de.pdf)
 
-eesti keel (ET) (863.17 KB - PDF)
+eesti (ET) (863.36 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/et/documents/product-information/ocrevus-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.05 MB - PDF)
+ελληνικά (EL) (1.06 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/el/documents/product-information/ocrevus-epar-product-information_el.pdf)
 
-français (FR) (843.47 KB - PDF)
+français (FR) (857.1 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/fr/documents/product-information/ocrevus-epar-product-information_fr.pdf)
 
-hrvatski (HR) (958.34 KB - PDF)
+hrvatski (HR) (960.65 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/hr/documents/product-information/ocrevus-epar-product-information_hr.pdf)
 
-íslenska (IS) (792.04 KB - PDF)
+italiano (IT) (930.83 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
-
-[View](/is/documents/product-information/ocrevus-epar-product-information_is.pdf)
-
-italiano (IT) (931.16 KB - PDF)
-
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/it/documents/product-information/ocrevus-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.17 MB - PDF)
+latviešu (LV) (1.15 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/lv/documents/product-information/ocrevus-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1022.14 KB - PDF)
+lietuvių (LT) (1015.59 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/lt/documents/product-information/ocrevus-epar-product-information_lt.pdf)
 
-magyar (HU) (1008.21 KB - PDF)
+magyar (HU) (1.03 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/hu/documents/product-information/ocrevus-epar-product-information_hu.pdf)
 
-Malti (MT) (914.39 KB - PDF)
+Malti (MT) (926.32 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/mt/documents/product-information/ocrevus-epar-product-information_mt.pdf)
 
-Nederlands (NL) (837.93 KB - PDF)
+Nederlands (NL) (839.35 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/nl/documents/product-information/ocrevus-epar-product-information_nl.pdf)
 
-norsk (NO) (849.94 KB - PDF)
+polski (PL) (984.64 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
-
-[View](/no/documents/product-information/ocrevus-epar-product-information_no.pdf)
-
-polski (PL) (986.14 KB - PDF)
-
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/pl/documents/product-information/ocrevus-epar-product-information_pl.pdf)
 
-português (PT) (824.62 KB - PDF)
+português (PT) (927.6 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/pt/documents/product-information/ocrevus-epar-product-information_pt.pdf)
 
-română (RO) (894.16 KB - PDF)
+română (RO) (892.1 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/ro/documents/product-information/ocrevus-epar-product-information_ro.pdf)
 
-slovenčina (SK) (853.99 KB - PDF)
+slovenčina (SK) (863.87 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/sk/documents/product-information/ocrevus-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.09 MB - PDF)
+slovenščina (SL) (1.04 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/sl/documents/product-information/ocrevus-epar-product-information_sl.pdf)
 
-Suomi (FI) (819.19 KB - PDF)
+suomi (FI) (920.22 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/fi/documents/product-information/ocrevus-epar-product-information_fi.pdf)
 
-svenska (SV) (733.48 KB - PDF)
+svenska (SV) (750.47 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 06/05/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
 
 [View](/sv/documents/product-information/ocrevus-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000254616
+Íslenska (IS) (747.89 KB - PDF)
 
-29/04/2025
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
+
+[View](/is/documents/product-information/ocrevus-epar-product-information_is.pdf)
+
+norsk (NO) (861.21 KB - PDF)
+
+**First published:** 11/01/2018 **Last updated:** 20/08/2026
+
+[View](/no/documents/product-information/ocrevus-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000335399
+
+02/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -444,7 +444,7 @@ English (EN) (20.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-32)
+[Other languages (24)](#file-language-dropdown-860)
 
 български (BG) (44.08 KB - PDF)
 
@@ -476,7 +476,7 @@ Deutsch (DE) (19.22 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (19.93 KB - PDF)
+eesti (ET) (19.93 KB - PDF)
 
 **First published:** 11/01/2018 **Last updated:** 24/06/2024
 
@@ -500,25 +500,19 @@ hrvatski (HR) (41.05 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (25.32 KB - PDF)
-
-**First published:** 11/01/2018 **Last updated:** 24/06/2024
-
-[View](/is/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (19.4 KB - PDF)
 
 **First published:** 11/01/2018 **Last updated:** 24/06/2024
 
 [View](/it/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (45.32 KB - PDF)
+latviešu (LV) (45.32 KB - PDF)
 
 **First published:** 11/01/2018 **Last updated:** 24/06/2024
 
 [View](/lv/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (38.27 KB - PDF)
+lietuvių (LT) (38.27 KB - PDF)
 
 **First published:** 11/01/2018 **Last updated:** 24/06/2024
 
@@ -541,12 +535,6 @@ Nederlands (NL) (19.13 KB - PDF)
 **First published:** 11/01/2018 **Last updated:** 24/06/2024
 
 [View](/nl/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (22.97 KB - PDF)
-
-**First published:** 11/01/2018 **Last updated:** 24/06/2024
-
-[View](/no/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (40.1 KB - PDF)
 
@@ -578,7 +566,7 @@ slovenščina (SL) (28.2 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (20.04 KB - PDF)
+suomi (FI) (20.04 KB - PDF)
 
 **First published:** 11/01/2018 **Last updated:** 24/06/2024
 
@@ -590,27 +578,30 @@ svenska (SV) (25.77 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (25.32 KB - PDF)
+
+**First published:** 11/01/2018 **Last updated:** 24/06/2024
+
+[View](/is/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (22.97 KB - PDF)
+
+**First published:** 11/01/2018 **Last updated:** 24/06/2024
+
+[View](/no/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Ocrevus
-
-Active substance
-
-ocrelizumab
-
-International non-proprietary name (INN) or common name
-
-ocrelizumab
-
-Therapeutic area (MeSH)
-
-Multiple Sclerosis
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AG08
+- **Name of medicine**
+    - Ocrevus
+- **Active substance**
+    - ocrelizumab
+- **International non-proprietary name (INN) or common name**
+    - ocrelizumab
+- **Therapeutic area (MeSH)**
+    - Multiple Sclerosis
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AG08
 
 ### Pharmacotherapeutic group
 
@@ -624,27 +615,16 @@ Treatment of adult patients with early primary progressive multiple sclerosis (P
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004043
-
-Marketing authorisation holder
-
-Roche Registration GmbH
-
-Emil-Barell-Strasse 1
-
-Opinion adopted
-
-09/11/2017
-
-Marketing authorisation issued
-
-08/01/2018
-
-Revision
-
-26
+- **EMA product number**
+    - EMEA/H/C/004043
+- **Marketing authorisation holder**
+    - Roche Registration GmbH Emil-Barell-Strasse 1  79639 Grenzach-Wyhlen  Germany
+- **Opinion adopted**
+    - 09/11/2017
+- **Marketing authorisation issued**
+    - 08/01/2018
+- **Revision**
+    - 27
 
 ## Assessment history
 
@@ -652,13 +632,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ocrevus : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (158.19 KB - PDF)
+English (EN) (164.24 KB - PDF)
 
-**First published:** 06/05/2025 **Last updated:** 16/04/2026
+**First published:** 06/05/2025 **Last updated:** 20/08/2026
 
 [View](/en/documents/procedural-steps-after/ocrevus-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -698,7 +678,7 @@ English (EN) (131.32 KB - PDF)
 
 **First published:** 22/01/2021
 
-[View](/en/documents/scientific-conclusion/ocrevus-h-c-psusa-00010662-202003-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/ocrevus-h-c-psusa-00010662-202003-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Ocrevus-H-C-PSUSA-00010662- 201903 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -708,7 +688,7 @@ English (EN) (67.21 KB - PDF)
 
 **First published:** 06/01/2020
 
-[View](/en/documents/scientific-conclusion/ocrevus-h-c-psusa-00010662-201903-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/ocrevus-h-c-psusa-00010662-201903-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Ocrevus-H-C-PSUSA-00010662- 201809 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -718,9 +698,9 @@ English (EN) (68.19 KB - PDF)
 
 **First published:** 26/06/2019
 
-[View](/en/documents/scientific-conclusion/ocrevus-h-c-psusa-00010662-201809-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/ocrevus-h-c-psusa-00010662-201809-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ocrevus : EPAR - Public assessment report
 
@@ -754,16 +734,14 @@ English (EN) (71.29 KB - PDF)
 
 ## More information on Ocrevus
 
-- [EMEA-000310-PIP03-10-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000310-pip03-10-m06)
+- [EMA/PE/0000237224 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000237224)
 - [EMEA-000310-PIP05-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000310-pip05-22)
+- [An Observational Study to Determine the Incidence of Injection Reactions Among Patients With Multiple Sclerosis Treated With Ocrelizumab Subcutaneous - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001057)
+- [An Observational Study of Ocrelizumab Treated Patients with Multiple Sclerosis to Determine the Incidence and Mortality Rates of Breast Cancer and All Malignancies (VERISMO Study) - post-authorisation study](https://catalogues.ema.europa.eu/study/49480)
 - [Safety and Effectiveness of Ocrelizumab under Real World Conditions: a Non-Interventional Post Authorization Safety Study in Patients Diagnosed with Relapsing or Primary Progressive Multiple Sclerosis (CONFIDENCE) - post-authorisation study](https://catalogues.ema.europa.eu/study/47489)
-
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
 **This page was last updated on**
 
-16/04/2026
+20/08/2026
 
 ## Share this page

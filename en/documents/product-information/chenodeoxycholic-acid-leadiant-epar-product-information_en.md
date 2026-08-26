@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-13 10:44:43
-document_pages: 27
+document_datetime: 2026-08-24 14:16:38
+document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/chenodeoxycholic-acid-leadiant-epar-product-information_en.pdf
 document_name: chenodeoxycholic-acid-leadiant-epar-product-information_en.pdf
 version: success
-processing_time: 5.8634095
-conversion_datetime: 2025-12-23 06:29:54.210223
+processing_time: 5.2283731
+conversion_datetime: 2026-08-26 10:38:57.30017
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,15 +56,13 @@ During the initiation of therapy and dose adjustment, serum cholestanol levels a
 
 In case of persistent lack of therapeutic response to chenodeoxycholic acid monotherapy, other treatment options should be considered.
 
-## Posology
+Posology
 
 Adults
 
-The starting dose in adults is 750 mg/day, in three divided doses provided that it is sufficient to normalise serum cholestanol and/or urine bile alcohols. The daily dose can be subsequently increased
+The starting dose in adults is 750 mg/day, in three divided doses provided that it is sufficient to normalise serum cholestanol and/or urine bile alcohols. The daily dose can be subsequently increased in 250 mg increments to a maximum of 1,000 mg/day if the serum cholestanol and/or urine bile alcohols remain elevated.
 
 <div style=\"page-break-after: always\"></div>
-
-in 250 mg increments to a maximum of 1,000 mg/day if the serum cholestanol and/or urine bile alcohols remain elevated.
 
 ## Paediatric population (1 month-18 years)
 
@@ -219,13 +217,11 @@ Pharmacotherapeutic group: Bile and liver therapy, bile acids and derivatives, A
 
 ## Mechanism of action
 
-Exogenous chenodeoxycholic acid is used as replacement therapy to restore the feedback inhibition lost due to the deficiency/absence of endogenous chenodeoxycholic acid. In CTX, a defect in the CYP27A1 gene results in a deficient mitochondrial sterol 27-hydroxylase enzyme. This deficiency blocks the synthesis of primary bile acids via the classical (neutral pathway) and the alternative (acidic) pathway. However, cholic acid is still formed via an alternate microsomal pathway. The net
+Exogenous chenodeoxycholic acid is used as replacement therapy to restore the feedback inhibition lost due to the deficiency/absence of endogenous chenodeoxycholic acid. In CTX, a defect in the CYP27A1 gene results in a deficient mitochondrial sterol 27-hydroxylase enzyme. This deficiency blocks the synthesis of primary bile acids via the classical (neutral pathway) and the alternative (acidic) pathway. However, cholic acid is still formed via an alternate microsomal pathway. The net result is a total bile acid pool that is severely deficient in chenodeoxycholic acid but relatively enriched with cholic acid.
 
 <div style=\"page-break-after: always\"></div>
 
-result is a total bile acid pool that is severely deficient in chenodeoxycholic acid but relatively enriched with cholic acid.
-
-In CTX, deficiency of chenodeoxycholic acid causes a lack of feedback of cholesterol 7 α -hydroxylase (CYP7A1) and HMG CoA reductase, causing increased production of atypical bile acids, bile alcohols and cholestanol that lead to the pathological consequences of the condition. Exogenous replacement with chenodeoxycholic acid inhibits CYP7A1 (via nuclear receptor, FXR) and HMG CoA reductase, thus restoring the feedback inhibition.
+In CTX, deficiency of chenodeoxycholic acid causes a lack of feedback of cholesterol 7α-hydroxylase (CYP7A1) and HMG CoA reductase, causing increased production of atypical bile acids, bile alcohols and cholestanol that lead to the pathological consequences of the condition. Exogenous replacement with chenodeoxycholic acid inhibits CYP7A1 (via nuclear receptor, FXR) and HMG CoA reductase, thus restoring the feedback inhibition.
 
 The primary pharmacodynamic effects of chenodeoxycholic acid are:
 
@@ -241,7 +237,7 @@ In the pivotal study CDCA-STUK-15-001 treatment of CTX patients with chenodeoxyc
 
 Disease signs and symptoms resolved, improved or stabilised in a majority of patients over the course of the study. Diarrhoea disappeared in 100% (23/23 patients) of the patients who had this symptom at baseline. There was a resolution, improvement or stabilisation in 88.9% (16/18) of patients with cognitive impairment. Epilepsy resolved in 100% (3/3 patients) and polyneuropathy stabilised or improved in 100% (11/11). Pyramidal dysfunction improved or stabilised in 60% (10/15) and cerebellar dysfunction in 88.7% (12/14). Psychiatric impairment resolved, improved or stabilised in 85.7% (6/7) of patients. However, parkinsonian symptoms, a rare disease manifestation/association that occurred in only 2 patients during the course of the study, did not respond.
 
-In the supportive study CDCA-STRCH-CR-14-001 treatment of CTX patients with chenodeoxycholic acid 750 mg/day given for a median duration of 5.75 years was associated with statistically significant decreases in mean serum levels of cholestanol from baseline to any post-baseline visit. The mean levels of 7α -hydroxy-4-cholesten-3one significantly decreased from baseline to post-baseline visits 1 and 2. Vitamin D and PTH levels decreased from baseline to both post-treatment visits and mean pyruvate levels decrease from baseline to the first post-treatment visit. Rankin and EDSS scores remained stable in 61.5% and 50% of patients respectively, however there was an overall worsening of the mean score from baseline. Increases in bone mineral density (Z-score) were observed at lumbar spine at both post-treatment visits and at total hip at post-treatment at post-treatment visit 2. Signs and symptoms of the disease remained stable in most of the patients. Diarrhoea improved or disappeared in 64.3% of the patients who had this symptom present at baseline.
+In the supportive study CDCA-STRCH-CR-14-001 treatment of CTX patients with chenodeoxycholic acid 750 mg/day given for a median duration of 5.75 years was associated with statistically significant decreases in mean serum levels of cholestanol from baseline to any post-baseline visit. The mean levels of 7α-hydroxy-4-cholesten-3one significantly decreased from baseline to post-baseline visits 1 and 2. Vitamin D and PTH levels decreased from baseline to both post-treatment visits and mean pyruvate levels decrease from baseline to the first post-treatment visit. Rankin and EDSS scores remained stable in 61.5% and 50% of patients respectively, however there was an overall worsening of the mean score from baseline. Increases in bone mineral density (Z-score) were observed at lumbar spine at both post-treatment visits and at total hip at post-treatment at post-treatment visit 2. Signs and symptoms of the disease remained stable in most of the patients. Diarrhoea improved or disappeared in 64.3% of the patients who had this symptom present at baseline.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -307,7 +303,7 @@ Pack size: 100 hard capsules
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Patients who are unable to swallow capsules
+Patients who are unable to swallow capsules
 
 For children (1 year to 11 years), adolescents (12 years to 18 years) and adults who cannot swallow capsules and/or need to take a dose below 250 mg, the capsule may be opened, the contents of added to 25 mL of sodium bicarbonate solution 8.4% (1 mmol/mL) and mixed to produce a suspension containing chenodeoxycholic acid 10 mg/mL.
 
@@ -325,9 +321,7 @@ The suspension should be stored in a glass bottle. Do not refrigerate or freeze.
 
 The pharmacy should provide oral dose syringes of appropriate volume and grading for administering the suspension. The correct volumes should preferably be marked on the oral syringe.
 
-The physician should provide information on the dose to be received according to the weight of the child. The dose range in paediatric patients (1 month to 18 years) is 5-15 mg/kg per day (see section
-
-4.2).
+The physician should provide information on the dose to be received according to the weight of the child. The dose range in paediatric patients (1 month to 18 years) is 5-15 mg/kg per day (see section 4.2).
 
 Further information is provided at the end of the package leaflet under \"information for healthcare professionals only\".
 
@@ -335,23 +329,9 @@ Disposal
 
 Any unused product or waste material should be disposed of in accordance with national requirements.
 
-7.
+## 7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION HOLDER
-
-Leadiant GmbH
-
-Liebherrstr. 22
-
-80538 Munich
-
-Germany
-
-Telephone: +49 (0)89 4111 595 00
-
-Fax: +49 (0) 89 4111 595 25
-
-e-mail: info@leadiantbiosciences.com
+Leadiant Biosciences Ireland Limited 127 Baggot Street Lower Dublin 2 D02 F634 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -363,13 +343,9 @@ Date of first authorisation: 10 April 2017
 
 Date of latest renewal: 09 December 2021
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
 10
 
@@ -418,9 +394,9 @@ An updated RMP should be submitted:
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                               | Due date                                      |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| In order to collect long term safety and efficacy data in patients treated with chenodeoxycholic acid, the MAHwill submit the results of a study deriving from a registry of patients with inborn errors of primary bile acid synthesis due to sterol 27-hydroxylase deficiency in infants, children and adolescents aged 1 month to 18 years and adults. | Study results - PSUR and annual reassessments |
+| Description                                                                                                                                                                                                                                                                                                                                                | Due date                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| In order to collect long term safety and efficacy data in patients treated with chenodeoxycholic acid, the MAH will submit the results of a study deriving from a registry of patients with inborn errors of primary bile acid synthesis due to sterol 27-hydroxylase deficiency in infants, children and adolescents aged 1 month to 18 years and adults. | Study results - PSUR and annual reassessments |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -472,78 +448,69 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+Leadiant Biosciences Ireland Limited 127 Baggot Street Lower Dublin 2 D02 F634 Ireland
 
-Leadiant GmbH Liebherrstr. 22 80538 Munich Germany
-
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/16/1110/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Chenodeoxycholic acid Leadiant
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+<div style=\"page-break-after: always\"></div>
 
-## BLISTER PACKS
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER PACKS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Chenodeoxycholic acid Leadiant 250 mg hard capsules chenodeoxycholic acid
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-Leadiant GmbH
+Leadiant Biosciences Ireland Limited
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Package leaflet: Information for the user
 
 ## Chenodeoxycholic acid Leadiant 250 mg hard capsules
 
@@ -553,10 +520,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -579,7 +546,7 @@ Chenodeoxycholic acid Leadiant capsules can be used from the age of one month an
 
 ## Do not take Chenodeoxycholic acid Leadiant
 
-- -if you are allergic to chenodeoxycholic acid or any of the other ingredients of this medicine (listed in section 6)
+- if you are allergic to chenodeoxycholic acid or any of the other ingredients of this medicine (listed in section 6)
 
 ## Warnings and precautions
 
@@ -635,9 +602,9 @@ Chenodeoxycholic acid Leadiant is not expected to affect your ability to drive o
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
 
-<div style=\"page-break-after: always\"></div>
-
 The usual starting dose in adults is one 250 mg capsule three times a day. The maximum dose is one 250 mg capsule four times a day. The capsules should be swallowed whole with water at approximately the same time each day. The capsules can be taken with or without food. Your doctor may decide to increase your dose depending on how your body responds to treatment. Your doctor will tell you how many capsules you need to take, and when you should take the capsules.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Use in children and adolescents (aged one month to 18 years)
 
@@ -677,18 +644,18 @@ If you get any side effects, talk to your doctor or, pharmacist. This includes a
 
 Keep this medicine out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not use this medicine after the expiry date which is stated on the carton and blister pack after 'EXP'. The expiry date refers to the last day of that month.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
 ## What Chenodeoxycholic acid Leadiant contains
 
-- -The active substance is chenodeoxycholic acid. Each capsule contains 250 mg of chenodeoxycholic acid.
-- -The other ingredients are:
+- The active substance is chenodeoxycholic acid. Each capsule contains 250 mg of chenodeoxycholic acid.
+- The other ingredients are:
 
 Capsule contents: maize starch, magnesium stearate, silica colloidal anhydrous,
 
@@ -702,11 +669,7 @@ Chenodeoxycholic acid Leadiant is available in blister packs containing 100 hard
 
 ## Marketing Authorisation Holder
 
-Leadiant GmbH
-
-Liebherrstr. 22 80538 Munich Germany
-
-e-mail:  info@leadiantbiosciences.com
+Leadiant Biosciences Ireland Limited 127 Baggot Street Lower Dublin 2 D02 F634 Ireland
 
 ## Manufacturer
 
@@ -763,27 +726,3 @@ Dose calculation (children 1-11 years, adolescents 12-18 years and adults) cheno
 | Volume to administer: (Divided dose in mg) x 1 ml = Amount of suspension to give | Volume to administer: (Divided dose in mg) x 1 ml = Amount of suspension to give                                                                                                                                                                         |
 | Example:                                                                         | 5 mg 3 kg patient on a dose of 5 mg/kg of chenodeoxycholic acid. The total daily dose = 3 kg x 5 mg/kg = 15 mg The divided dose when given three times a day = 15 mg = 5 mg 3 The corresponding amount of suspension to give = (5 mg x 1 ml) = 1 ml 5 mg |
 | *number of divided doses dependant on advice from doctor.                        | *number of divided doses dependant on advice from doctor.                                                                                                                                                                                                |
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for chenodeoxycholic acid (inborn error in primary bile acid synthesis, xanthomatosis - centrally authorised products only), the scientific conclusions of PRAC are as follows:
-
-In view of available cumulative data on hepatic adverse reactions from the literature and spontaneous reports and in view of a plausible mechanism of action, the PRAC considers a causal relationship between chenodeoxycholic acid and increased transaminases and jaundice is at least a reasonable possibility.
-
-The PRAC concluded that the product information of products containing chenodeoxycholic acid should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for chenodeoxycholic acid (inborn error in primary bile acid synthesis, xanthomatosis - centrally authorised products only) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing chenodeoxycholic acid (inborn error in primary bile acid synthesis, xanthomatosis - centrally authorised products only) is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

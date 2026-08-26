@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-20 15:22:13
+document_datetime: 2026-08-24 14:04:15
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/izamby-epar-product-information_en.pdf
 document_name: izamby-epar-product-information_en.pdf
 version: success
-processing_time: 8.6481916
-conversion_datetime: 2025-12-30 01:39:21.724761
+processing_time: 10.1426333
+conversion_datetime: 2026-08-26 10:40:07.927011
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.122.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -114,11 +114,9 @@ Adequate intake of calcium and vitamin D is important in all patients.
 
 ## Hypocalcaemia
 
-It  is  important  to  identify  patients  at  risk  for  hypocalcaemia.  Hypocalcaemia  must  be  corrected  by adequate intake of calcium and vitamin D before initiating therapy. Clinical monitoring of calcium
+It  is  important  to  identify  patients  at  risk  for  hypocalcaemia.  Hypocalcaemia  must  be  corrected  by adequate intake of calcium and vitamin D before initiating therapy. Clinical monitoring of calcium levels is  recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks after the initial dose. If any patient presents with suspected symptoms of hypocalcaemia during treatment  (see  section  4.8  for  symptoms)  calcium  levels  should  be  measured.  Patients  should  be encouraged to report symptoms indicative of hypocalcaemia.
 
 <div style=\"page-break-after: always\"></div>
-
-levels  is  recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks after the initial dose. If any patient presents with suspected symptoms of hypocalcaemia during treatment  (see  section  4.8  for  symptoms)  calcium  levels  should  be  measured.  Patients  should  be encouraged to report symptoms indicative of hypocalcaemia.
 
 In  the  post-marketing  setting,  severe  symptomatic  hypocalcaemia  (resulting  in  hospitalisation,  lifethreatening events, and fatal cases) have been reported. While most cases occurred in the first few weeks of initiating therapy, it has also occurred later.
 
@@ -149,15 +147,13 @@ All patients should be encouraged to maintain good oral hygiene, receive routine
 
 The management plan of the patients who develop ONJ should be set up in close collaboration between the treating physician and a dentist or oral surgeon with expertise in ONJ. Temporary interruption of treatment should be considered until the condition resolves and contributing risk factors are mitigated where possible.
 
-Osteonecrosis of the external auditory canal
+Osteonecrosis of the external auditory canal Osteonecrosis of the external auditory canal has been reported with denosumab. Possible risk factors for osteonecrosis of the external auditory canal include steroid use and chemotherapy and/or local risk factors such as infection or trauma. The possibility of osteonecrosis of the external auditory canal should be considered in patients receiving denosumab who present with ear symptoms including chronic ear infections.
 
 <div style=\"page-break-after: always\"></div>
 
-Osteonecrosis of the external auditory canal has been reported with denosumab. Possible risk factors for osteonecrosis of the external auditory canal include steroid use and chemotherapy and/or local risk factors such as infection or trauma. The possibility of osteonecrosis of the external auditory canal should be considered in patients receiving denosumab who present with ear symptoms including chronic ear infections.
-
 ## Atypical fractures of the femur
 
-Atypical  femoral  fractures  have  been  reported  in  patients  receiving  denosumab  (see  section  4.8). Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions  of  the  femur.  Specific  radiographic  findings  characterise  these  events.  Atypical  femoral fractures  have  also  been  reported  in  patients  with  certain  co-morbid  conditions  (e.g.  vitamin  D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain medicinal products (e.g. bisphosphonates, glucocorticoids, proton pump inhibitors). These events have also occurred without antiresorptive therapy. Similar fractures reported in association with bisphosphonates are often bilateral; therefore, the contralateral femur should be examined in denosumab-treated patients who have sustained a femoral shaft fracture. Discontinuation of denosumab therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefitrisk  assessment.  During denosumab treatment, patients should be advised to report new or unusual thigh, hip, or groin pain. Patients presenting with such symptoms should be evaluated for an incomplete femoral fracture.
+Atypical  femoral  fractures  have  been  reported  in  patients  receiving  denosumab  (see  section  4.8). Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions  of  the  femur.  Specific  radiographic  findings  characterise  these  events.  Atypical  femoral fractures  have  also  been  reported  in  patients  with  certain  co-morbid  conditions  (e.g.  vitamin  D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain medicinal products (e.g. bisphosphonates, glucocorticoids, proton pump inhibitors). These events have also occurred without antiresorptive therapy. Similar fractures reported in association with bisphosphonates are often bilateral; therefore, the contralateral femur should be examined in denosumab-treated patients who have sustained a femoral shaft fracture. Discontinuation of denosumab therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefitrisk  assessment.  During  denosumab treatment, patients  should be advised to report new or unusual thigh, hip, or groin pain. Patients presenting with such symptoms should be evaluated for an incomplete femoral fracture.
 
 ## Long-term antiresorptive treatment
 
@@ -203,7 +199,7 @@ Izamby is not recommended for use in pregnant women and women of child-bearing p
 
 ## Breast-feeding
 
-It is unknown whether denosumab is excreted in human milk. In genetically engineered mice in which RANKL has  been  turned  off  by  gene  removal  (a  'knockout  mouse'),  studies  suggest  absence  of RANKL (the target of denosumab see section 5.1) during pregnancy may interfere with maturation of the mammary gland leading to impaired lactation post-partum (see section 5.3). A decision on whether to  abstain  from  breast-feeding or to abstain from therapy with Izamby should be made, taking into account the benefit of breast-feeding to the newborn/infant and the benefit of denosumab therapy to the woman.
+It is unknown whether denosumab is excreted in human milk. In genetically engineered mice in which RANKL has  been  turned  off  by  gene  removal  (a  'knockout  mouse'),  studies  suggest  absence  of RANKL (the target of denosumab see section 5.1) during pregnancy may interfere with maturation of the mammary gland leading to impaired lactation post-partum (see section 5.3). A decision on whether to  abstain  from breast-feeding or to abstain from therapy with Izamby should be made, taking into account the benefit of breast-feeding to the newborn/infant and the benefit of denosumab therapy to the woman.
 
 ## Fertility
 
@@ -245,7 +241,7 @@ In a pooled analysis of data from all phase II and phase III placebo-controlled 
 
 ## Hypocalcaemia
 
-In  two  phase  III  placebo-controlled  clinical  trials  in  postmenopausal  women  with  osteoporosis, approximately 0.05% (2 out of 4,050) of patients had declines of serum calcium levels (less than 1.88 mmol/L)  following  denosumab  administration.  Declines  of  serum  calcium  levels  (less  than  1.88 mmol/L) were not reported  in  either  the  two  phase  III  placebo-controlled  clinical  trials  in  patients receiving hormone ablation or the phase III placebo-controlled clinical trial in men with osteoporosis.
+In  two  phase  III  placebo-controlled  clinical  trials  in  postmenopausal  women  with  osteoporosis, approximately 0.05% (2 out of 4,050) of patients had declines of serum calcium levels (less than 1.88 mmol/L)  following  denosumab  administration.  Declines  of  serum  calcium  levels  (less  than  1.88 mmol/L) were not reported in either the  two  phase III  placebo-controlled  clinical  trials  in  patients receiving hormone ablation or the phase III placebo-controlled clinical trial in men with osteoporosis.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -311,11 +307,11 @@ Izamby  is  a  biosimilar  medicinal  product.  Detailed  information  is  avail
 
 ## Mechanism of action
 
-Denosumab is  a  human  monoclonal  antibody  (IgG2)  that  targets  and  binds  with  high  affinity  and specificity  to  RANKL,  preventing  activation  of  its  receptor,  RANK,  on  the  surface  of  osteoclast precursors and osteoclasts. Prevention of the RANKL/RANK interaction inhibits osteoclast formation, function and survival, thereby decreasing bone resorption in cortical and trabecular bone.
+Denosumab is a  human  monoclonal  antibody  (IgG2)  that  targets  and  binds  with  high  affinity  and specificity  to  RANKL,  preventing  activation  of  its  receptor,  RANK,  on  the  surface  of  osteoclast precursors and osteoclasts. Prevention of the RANKL/RANK interaction inhibits osteoclast formation, function and survival, thereby decreasing bone resorption in cortical and trabecular bone.
 
 ## Pharmacodynamic effects
 
-Denosumab treatment rapidly reduced the rate of bone turnover, reaching a nadir for the bone resorption marker serum type 1 C-telopeptides (CTX) (85% reduction) by 3 days, with reductions maintained over the dosing interval. At the end of each dosing interval, CTX reductions were partially attenuated from maximal reduction of ≥ 87% to approximately ≥ 45% (range 45 -80%), reflecting the reversibility of denosumab's effects on bone remodelling once serum levels diminish. These effects were sustained with  continued  treatment.  Bone  turnover  markers  generally  reached  pre-treatment  levels  within  9
+Denosumab treatment rapidly reduced the rate of bone turnover, reaching a nadir for the bone resorption marker serum type 1 C-telopeptides (CTX) (85% reduction) by 3 days, with reductions maintained over the dosing interval. At the end of each dosing interval, CTX reductions were partially attenuated from maximal reduction of ≥ 87% to approximately ≥ 45% (range 45-80%), reflecting the reversibility of denosumab's effects on bone remodelling once serum levels diminish. These effects were sustained with  continued  treatment.  Bone  turnover  markers  generally  reached  pre-treatment  levels  within  9
 
 <div style=\"page-break-after: always\"></div>
 
@@ -335,12 +331,12 @@ Denosumab significantly reduced the risk of new vertebral fractures at 1, 2 and 
 
 Table 2. The effect of denosumab on the risk of new vertebral fractures
 
-|           | Proportion of women with fracture (%)   | Proportion of women with fracture (%)   | Absolute risk reduction (%) (95% CI)   | Relative risk reduction (%) (95% CI)   |
-|-----------|-----------------------------------------|-----------------------------------------|----------------------------------------|----------------------------------------|
-|           | Placebo n = 3,906                       | Denosumab n = 3,902                     | Absolute risk reduction (%) (95% CI)   | Relative risk reduction (%) (95% CI)   |
-| 0-1 year  | 2.2                                     | 0.9                                     | 1.4 (0.8, 1.9)                         | 61 (42, 74)**                          |
-| 0-2 years | 5.0                                     | 1.4                                     | 3.5 (2.7, 4.3)                         | 71 (61, 79)**                          |
-| 0-3 years | 7.2                                     | 2.3                                     | 4.8 (3.9, 5.8)                         | 68 (59, 74)*                           |
+|           | Proportion of women with fracture (%)   | Proportion of women with fracture (%)   | Absolute risk reduction (%) (95% CI)   | Relative risk reduction (95% CI)   |
+|-----------|-----------------------------------------|-----------------------------------------|----------------------------------------|------------------------------------|
+|           | Placebo n = 3,906                       | Denosumab n = 3,902                     |                                        | (%)                                |
+| 0-1 year  | 2.2                                     | 0.9                                     | 1.4 (0.8, 1.9)                         | 61 (42, 74)**                      |
+| 0-2 years | 5.0                                     | 1.4                                     | 3.5 (2.7, 4.3)                         | 71 (61, 79)**                      |
+| 0-3 years | 7.2                                     | 2.3                                     | 4.8 (3.9, 5.8)                         | 68 (59, 74)*                       |
 
 *p &lt; 0.0001, **p &lt; 0.0001 - exploratory analysis
 
@@ -356,14 +352,14 @@ Denosumab significantly reduced fractures across all fracture types/groups (see 
 
 Table 3. The effect of denosumab on the risk of clinical fractures over 3 years
 
-|                                | Proportion of women with fracture (%) +   | Proportion of women with fracture (%) +   | Absolute risk reduction (%) (95% CI)   | Relative risk reduction (%) (95% CI)   |
-|--------------------------------|-------------------------------------------|-------------------------------------------|----------------------------------------|----------------------------------------|
-|                                | Placebo n = 3,906                         | Denosumab n = 3,902                       | Absolute risk reduction (%) (95% CI)   | Relative risk reduction (%) (95% CI)   |
-| Any clinical fracture 1        | 10.2                                      | 7.2                                       | 2.9 (1.6, 4.2)                         | 30 (19, 41)***                         |
-| Clinical vertebral fracture    | 2.6                                       | 0.8                                       | 1.8 (1.2, 2.4)                         | 69 (53, 80)***                         |
-| Non-vertebral fracture 2       | 8.0                                       | 6.5                                       | 1.5 (0.3, 2.7)                         | 20 (5, 33)**                           |
-| Major non-vertebral fracture 3 | 6.4                                       | 5.2                                       | 1.2 (0.1, 2.2)                         | 20 (3, 34)*                            |
-| Major osteoporotic fracture 4  | 8.0                                       | 5.3                                       | 2.7 (1.6, 3.9)                         | 35 (22, 45)***                         |
+|                                | Proportion of women with fracture (%) +   | Proportion of women with fracture (%) +   | Absolute risk reduction (%)   | Relative risk reduction (%)   |
+|--------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------|-------------------------------|
+|                                | Placebo n = 3,906                         | Denosumab n = 3,902                       | (95% CI)                      | (95% CI)                      |
+| Any clinical fracture 1        | 10.2                                      | 7.2                                       | 2.9 (1.6, 4.2)                | 30 (19, 41)***                |
+| Clinical vertebral fracture    | 2.6                                       | 0.8                                       | 1.8 (1.2, 2.4)                | 69 (53, 80)***                |
+| Non-vertebral fracture 2       | 8.0                                       | 6.5                                       | 1.5 (0.3, 2.7)                | 20 (5, 33)**                  |
+| Major non-vertebral fracture 3 | 6.4                                       | 5.2                                       | 1.2 (0.1, 2.2)                | 20 (3, 34)*                   |
+| Major osteoporotic fracture 4  | 8.0                                       | 5.3                                       | 2.7 (1.6, 3.9)                | 35 (22, 45)***                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -379,7 +375,7 @@ Table 3. The effect of denosumab on the risk of clinical fractures over 3 years
 
 4 Includes clinical vertebral, hip, forearm, and humerus fractures, as defined by the WHO.
 
-In  women  with  baseline  femoral  neck  BMD  ≤ -2.5,  denosumab  reduced  the  risk  of  non-vertebral fracture (35% relative risk reduction, 4.1% absolute risk reduction, p &lt; 0.001, exploratory analysis).
+In  women  with  baseline  femoral  neck  BMD  ≤  -2.5,  denosumab  reduced  the  risk  of  non-vertebral fracture (35% relative risk reduction, 4.1% absolute risk reduction, p &lt; 0.001, exploratory analysis).
 
 The reduction in the incidence of new vertebral fractures, hip fractures and non-vertebral fractures by denosumab over 3 years were consistent regardless of the 10-year baseline fracture risk.
 
@@ -393,7 +389,7 @@ In  clinical  studies  examining  the  effects  of  discontinuation  of  denosum
 
 A total of 4,550 women (2,343 denosumab &amp; 2,207 placebo) who missed no more than one dose of investigational product in the pivotal study described above and completed the month 36 study visit agreed  to  enrol  in  a  7-year,  multinational,  multicentre,  open-label,  single-arm  extension  study  to evaluate the long-term safety and efficacy of denosumab. All women in the extension study were to receive denosumab 60 mg every 6 months, as well as daily calcium (at least 1 g) and vitamin D (at least 400 IU). A total of 2,626 subjects (58% of the women included in the extension study i.e. 34% of the women included in the pivotal study) completed the extension study.
 
-In patients treated with denosumab for up to 10 years, BMD increased from the pivotal study baseline by 21.7% at the lumbar spine, 9.2% at the total hip, 9.0% at the femoral neck, 13.0% at the trochanter and 2.8% at the distal 1/3 radius. The mean lumbar spine BMD Tscore at the end of the study was -1.3 in patients treated for 10 years.
+In patients treated with denosumab for up to 10 years, BMD increased from the pivotal study baseline by 21.7% at the lumbar spine, 9.2% at the total hip, 9.0% at the femoral neck, 13.0% at the trochanter and 2.8% at the distal 1/3 radius. The mean lumbar spine BMD T-score at the end of the study was -1.3 in patients treated for 10 years.
 
 Fracture incidence was evaluated as a safety endpoint but efficacy in fracture prevention cannot be estimated due to high number of discontinuations and open-label design. The cumulative incidence of new vertebral and non-vertebral fractures were approximately 6.8% and 13.1% respectively, in patients who remained on denosumab treatment for 10 years (n = 1,278). Patients who did not complete the study for any reason had higher on-treatment fracture rates.
 
@@ -401,7 +397,7 @@ Thirteen adjudicated cases of osteonecrosis of the jaw (ONJ) and two adjudicated
 
 ## Clinical efficacy and safety in men with osteoporosis
 
-Efficacy and safety of denosumab once every 6 months for 1 year were investigated in 242 men aged 31-84 years. Subjects with an eGFR &lt; 30 mL/min/1.73 m 2 were excluded from the study. All men received calcium (at least 1,000 mg) and vitamin D (at least 800 IU) supplementation daily.
+Efficacy and safety of denosumab once every 6 months for 1 year were investigated in 242 men aged 31-84 years. Subjects with an eGFR &lt; 30 mL/min/1.73 m 2  were excluded from the study. All men received calcium (at least 1,000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -419,7 +415,7 @@ Denosumab  significantly  increased  BMD  at  all  clinical  sites  measured,  r
 
 Denosumab demonstrated a significant relative risk reduction of new vertebral fractures: 85% (1.6% absolute risk reduction) at 1 year, 69% (2.2% absolute risk reduction) at 2 years and 62% (2.4% absolute risk reduction) at 3 years (all p &lt; 0.01).
 
-## Clinical efficacy and safety in patients with bone loss associated with adjuvant aromatase inhibitor therapy
+## Clinical efficacy and safety in patients with bone loss associated with adjuvant aromatase  inhibitor therapy
 
 Efficacy and safety of denosumab once every 6 months for 2 years were investigated in women with non-metastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between -1.0 to -2.5 at the lumbar spine, total hip or femoral neck. All women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
@@ -431,7 +427,7 @@ Efficacy and safety of denosumab were investigated in 795 patients (70% women an
 
 <div style=\"page-break-after: always\"></div>
 
-Two  subpopulations  were  studied:  glucocorticoidcontinuing  (≥  7.5  mg  daily  prednisone  or  its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoid -initiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised  (1:1)  to  receive  either  denosumab  60  mg  subcutaneously  once  every  6  months  or  oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1,000 mg) and vitamin D (at least 800 IU) supplementation daily.
+Two  subpopulations  were  studied:  glucocorticoid-continuing  (≥  7.5  mg  daily  prednisone  or  its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoid-initiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised (1:1) to  receive  either  denosumab  60 mg  subcutaneously  once  every  6  months  or  oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1,000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
 ## Effect on Bone Mineral Density (BMD)
 
@@ -509,7 +505,7 @@ In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairm
 
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester at AUC exposures up to 99-fold higher than the human dose (60 mg every 6 months), there was no evidence of maternal or foetal harm. In this study, foetal lymph nodes were not examined.
 
-In  another  study  of  cynomolgus  monkeys  dosed  with  denosumab  throughout  pregnancy  at  AUC exposures 119-fold higher than the human dose (60 mg every 6 months), there were increased stillbirths and postnatal mortality; abnormal  bone  growth  resulting in reduced bone  strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6 month  period  after  birth,  bone  related  changes  showed  recovery  and  there  was  no  effect  on  tooth eruption.  However,  the  effects  on  lymph  nodes  and  tooth  malalignment  persisted,  and  minimal  to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
+In  another  study  of  cynomolgus  monkeys  dosed  with  denosumab  throughout  pregnancy  at  AUC exposures 119-fold higher than the human dose (60 mg every 6 months), there were increased stillbirths and postnatal mortality; abnormal  bone  growth  resulting in reduced  bone  strength,  reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6 month  period  after  birth,  bone  related  changes  showed  recovery  and  there  was  no  effect  on  tooth eruption.  However,  the  effects  on  lymph  nodes  and  tooth  malalignment  persisted,  and  minimal  to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
 
 In preclinical bone quality studies in monkeys on long-term denosumab treatment, decreases in bone turnover were associated with improvement in bone strength and normal bone histology. Calcium levels were  transiently  decreased  and  parathyroid  hormone  levels  transiently  increased  in  ovariectomised monkeys treated with denosumab.
 
@@ -523,9 +519,7 @@ Knockout mice (see section 4.6) lacking RANK or RANKL exhibited decreased body w
 
 ## 6.1 List of excipients
 
-Acetic acid, glacial* Sorbitol (E420) Polysorbate 20 (E432)
-
-Sodium hydroxide (for pH adjustment)* Water for injections * Acetate buffer is formed by mixing acetic acid with sodium hydroxide Solution with pH between 5.0 - 5.5.
+Acetic acid, glacial* Sodium hydroxide (for pH adjustment)* Sorbitol (E420) Polysorbate 20 (E432) Water for injections * Acetate buffer is formed by mixing acetic acid with sodium hydroxide Solution with pH between 5.0 - 5.5.
 
 ## 6.2 Incompatibilities
 
@@ -533,13 +527,17 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-2 years.
+3 years.
 
 Once removed from the refrigerator, Izamby may be stored at room temperature (up to 25°C) for up to 30 days in the original container. It must be used within this 30 days period.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C).
+
+Do not freeze.
+
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
@@ -686,8 +684,8 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mabxience Research SL C/ Manuel Pombo Angulo 28 28050 Madrid Spain
 
@@ -717,8 +715,8 @@ Izamby
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -772,9 +770,9 @@ Mabxience Research SL
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Izamby 60 mg solution for injection in pre-filled syringe denosumab
 
@@ -782,11 +780,11 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-- -Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Izamby.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Izamby.
 
 ## What is in this leaflet
 
@@ -803,7 +801,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Izamby contains denosumab, a protein (monoclonal antibody) that interferes with the action of another protein, in order to treat bone loss and osteoporosis. Treatment with denosumab makes bone stronger and less likely to break.
 
-Bone is a living tissue  and  is  renewed  all  the  time.  Oestrogen  helps  keep  bones  healthy.  After  the menopause,  oestrogen  level  drops  which  may  cause  bones  to  become  thin  and  fragile.  This  can eventually lead to a condition called osteoporosis. Osteoporosis can also occur in men due to a number of causes including ageing and/or a low level of the male hormone, testosterone. It can also occur in patients receiving glucocorticoids. Many patients with osteoporosis have no symptoms, but they are still at risk of breaking bones, especially in the spine, hips and wrists.
+Bone is a living tissue and is renewed all the time. Oestrogen helps keep bones healthy. After the menopause,  oestrogen  level  drops  which  may  cause  bones  to  become  thin  and  fragile.  This  can eventually lead to a condition called osteoporosis. Osteoporosis can also occur in men due to a number of causes including ageing and/or a low level of the male hormone, testosterone. It can also occur in patients receiving glucocorticoids. Many patients with osteoporosis have no symptoms, but they are still at risk of breaking bones, especially in the spine, hips and wrists.
 
 Surgery or medicines that stop the production of oestrogen or testosterone used to treat patients with breast or prostate cancer can also lead to bone loss. The bones become weaker and break more easily.
 
@@ -823,7 +821,7 @@ Surgery or medicines that stop the production of oestrogen or testosterone used 
 ## Do not use Izamby
 
 - if you have low calcium levels in the blood (hypocalcaemia).
-- if  you  are  allergic  to  desnosumab  or  any  of  the  other  ingredients  of  this  medicine  (listed  in section 6).
+- if  you are allergic to desnosumab or any of the other ingredients of this  medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -845,7 +843,7 @@ A side effect called osteonecrosis of the jaw (ONJ) (bone damage in the jaw) has
 
 Before receiving treatment, tell your doctor or nurse (healthcare professional) if you:
 
-- have  any  problems  with  your  mouth  or  teeth  such  as  poor  dental  health,  gum  disease,  or  a planned tooth extraction.
+- have any problems with your mouth or teeth such as poor dental health, gum  disease, or a planned tooth extraction.
 - don't receive routine dental care or have not had a dental check-up for a long time.
 - are a smoker (as this may increase the risk of dental problems).
 - have previously been treated with a bisphosphonate (used to treat or prevent bone disorders).
@@ -854,11 +852,9 @@ Before receiving treatment, tell your doctor or nurse (healthcare professional) 
 
 Your doctor may ask you to undergo a dental examination before you start treatment with Izamby.
 
-While being treated, you should maintain good oral hygiene and receive routine dental check-ups. If you wear dentures you should make sure these fit properly. If you are under dental treatment or will
+While being treated, you should maintain good oral hygiene and receive routine dental check-ups. If you wear dentures you should make sure these fit properly. If you are under dental treatment or will undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Izamby.
 
 <div style=\"page-break-after: always\"></div>
-
-undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Izamby.
 
 Contact your doctor and dentist immediately if you experience any problems with your mouth or teeth such as loose teeth, pain or swelling, or non-healing of sores or discharge, as these could be signs of ONJ.
 
@@ -951,7 +947,7 @@ Rarely, allergic reactions may occur in patients receiving Izamby. Symptoms incl
 - bone, joint, and/or muscle pain which is sometimes severe,
 - arm or leg pain (pain in extremity).
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people):
 
 - painful urination, frequent urination, blood in the urine, inability to hold your urine,
 - upper respiratory tract infection,
@@ -1002,8 +998,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Izamby contains
 
-- -The active substance is denosumab. Each 1 mL pre-filled syringe contains 60 mg of denosumab (60 mg/mL).
-- -The other ingredients are acetic acid, glacial, sodium hydroxide, sorbitol (E420), polysorbate 20 (E432) and water for injections
+- The active substance is denosumab. Each 1 mL pre-filled syringe contains 60 mg of denosumab (60 mg/mL).
+- The other ingredients are acetic acid, glacial, sodium hydroxide, sorbitol (E420), polysorbate 20 (E432) and water for injections
 
 ## What Izamby looks like and contents of the pack
 
@@ -1023,9 +1019,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Mabxience Research SL
-
-Tél/Tel: + 34 917 711 500
+Mabxience Research SL Tél/Tel: + 34 917 711 500
 
 ## Lietuva
 
@@ -1037,15 +1031,11 @@ Tel: + 370 5 231 4658
 
 EGIS Bulgaria
 
-Te л
-
-.: + 359 2 987 60 40
+Teл.: + 359 2 987 60 40
 
 ## Luxembourg/Luxemburg
 
-Mabxience Research SL
-
-Tél/Tel: + 34 917 711 500
+Mabxience Research SL Tél/Tel: + 34 917 711 500
 
 ## Česká republika
 
@@ -1055,9 +1045,7 @@ Tel: + 420 227 129 111
 
 ## Magyarország
 
-Egis Gyógyszergyár Zrt.
-
-Tel.: + 36 1 803 5555
+Egis Gyógyszergyár Zrt. Tel.: + 36 1 803 5555
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1075,7 +1063,7 @@ Mabxience Research SL Tel: + 34 917 711 500
 
 ## Ελλάδα
 
-ELPEN Pharmaceutical Co. Inc Τel: + 30 210 6039326 -9
+ELPEN Pharmaceutical Co. Inc Τel: + 30 210 6039326-9
 
 ## España
 

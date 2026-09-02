@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-30 10:49:06
-document_pages: 111
+document_datetime: 2026-08-26 09:02:18
+document_pages: 182
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/wegovy-epar-product-information_en.pdf
 document_name: wegovy-epar-product-information_en.pdf
 version: success
-processing_time: 34.1587139
-conversion_datetime: 2026-04-01 12:32:30.643945
+processing_time: 76.7501123
+conversion_datetime: 2026-09-02 22:12:02.814414
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,68 +30,110 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 Wegovy 0.25 mg solution for injection in pre-filled pen
 
-- Wegovy 0.5 mg solution for injection in pre-filled pen
-- Wegovy 1 mg solution for injection in pre-filled pen
-- Wegovy 1.7 mg solution for injection in pre-filled pen
-- Wegovy 2.4 mg solution for injection in pre-filled pen
+Wegovy 0.5 mg solution for injection in pre-filled pen
+
+Wegovy 1 mg solution for injection in pre-filled pen
+
+Wegovy 1.7 mg solution for injection in pre-filled pen
+
+Wegovy 2.4 mg solution for injection in pre-filled pen
+
+- Wegovy 7.2 mg solution for injection in pre-filled pen
 - Wegovy 0.25 mg FlexTouch solution for injection in pre-filled pen
-- Wegovy 0.5 mg FlexTouch solution for injection in pre-filled pen
+
+Wegovy 0.5 mg FlexTouch solution for injection in pre-filled pen
 
 Wegovy 1 mg FlexTouch solution for injection in pre-filled pen
 
-- Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen
+Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen
 
 Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen
+
+Wegovy 0.25 mg solution for injection in pre-filled syringe
+
+Wegovy 0.5 mg solution for injection in pre-filled syringe
+
+Wegovy 1 mg solution for injection in pre-filled syringe
+
+Wegovy 1.7 mg solution for injection in pre-filled syringe
+
+Wegovy 2.4 mg solution for injection in pre-filled syringe
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 ## Pre-filled pen, single-dose
 
-## Wegovy 0.25 mg solution for injection
+## Wegovy 0.25 mg solution for injection in pre-filled pen
 
-Each single-dose pre-filled pen contains 0.25 mg semaglutide* in 0.5 mL solution. One mL of solution contains 0.5 mg of semaglutide*.
+Each single-dose pre-filled pen contains 0.25 mg semaglutide* in 0.5 mL solution. One mL of solution contains 0.5 mg semaglutide*.
 
-## Wegovy 0.5 mg solution for injection
+## Wegovy 0.5 mg solution for injection in pre-filled pen
 
-Each single-dose pre-filled pen contains 0.5 mg semaglutide* in 0.5 mL solution. One mL of solution contains 1 mg of semaglutide*.
+Each single-dose pre-filled pen contains 0.5 mg semaglutide* in 0.5 mL solution. One mL of solution contains 1 mg semaglutide*.
 
-## Wegovy 1 mg solution for injection
+## Wegovy 1 mg solution for injection in pre-filled pen
 
-Each single-dose pre-filled pen contains 1 mg semaglutide* in 0.5 mL solution. One mL of solution contains 2 mg of semaglutide*.
+Each single-dose pre-filled pen contains 1 mg semaglutide* in 0.5 mL solution. One mL of solution contains 2 mg semaglutide*.
 
-## Wegovy 1.7 mg solution for injection
+## Wegovy 1.7 mg solution for injection in pre-filled pen
 
-Each single-dose pre-filled pen contains 1.7 mg semaglutide* in 0.75 mL solution. One mL of solution contains 2.27 mg of semaglutide*.
+Each single-dose pre-filled pen contains 1.7 mg semaglutide* in 0.75 mL solution. One mL of solution contains 2.27 mg semaglutide*.
 
-## Wegovy 2.4 mg solution for injection
+## Wegovy 2.4 mg solution for injection in pre-filled pen
 
-Each single-dose pre-filled pen contains 2.4 mg semaglutide* in 0.75 mL solution. One mL of solution contains 3.2 mg of semaglutide*.
+Each single-dose pre-filled pen contains 2.4 mg semaglutide* in 0.75 mL solution. One mL of solution contains 3.2 mg semaglutide*.
+
+## Wegovy 7.2 mg solution for injection in pre-filled pen
+
+Each single-dose pre-filled pen contains 7.2 mg semaglutide* in 0.75 mL solution. One mL of solution contains 9.6 mg semaglutide*.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pre-filled pen, FlexTouch
 
-## Wegovy 0.25 mg FlexTouch solution for injection pre-filled pen
+## Wegovy 0.25 mg FlexTouch solution for injection in pre-filled pen
 
 Each pre-filled pen contains 1 mg semaglutide* in 1.5 mL solution. One mL of solution contains 0.68 mg semaglutide*. One pre-filled pen contains 4 doses of 0.25 mg.
 
-## Wegovy 0.5 mg FlexTouch solution for injection pre-filled pen
+## Wegovy 0.5 mg FlexTouch solution for injection in pre-filled pen
 
 1.5 mL: Each pre-filled pen contains 2 mg semaglutide* in 1.5 mL solution. One mL of solution contains 1.34 mg semaglutide*. One pre-filled pen contains 4 doses of 0.5 mg.
 
 3 mL: Each pre-filled pen contains 2 mg semaglutide* in 3 mL solution. One mL of solution contains 0.68 mg semaglutide*. One pre-filled pen contains 4 doses of 0.5 mg.
 
-<div style=\"page-break-after: always\"></div>
-
-## Wegovy 1 mg FlexTouch solution for injection pre-filled pen
+## Wegovy 1 mg FlexTouch solution for injection in pre-filled pen
 
 Each pre-filled pen contains 4 mg semaglutide* in 3 mL solution. One mL of solution contains 1.34 mg semaglutide*. One pre-filled pen contains 4 doses of 1 mg.
 
-## Wegovy 1.7 mg FlexTouch solution for injection pre-filled pen
+## Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen
 
 Each pre-filled pen contains 6.8 mg semaglutide* in 3 mL solution. One mL of solution contains 2.27 mg semaglutide*. One pre-filled pen contains 4 doses of 1.7 mg.
 
-## Wegovy 2.4 mg FlexTouch solution for injection pre-filled pen
+## Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen
 
 Each pre-filled pen contains 9.6 mg semaglutide* in 3 mL solution. One mL of solution contains 3.2 mg semaglutide*. One pre-filled pen contains 4 doses of 2.4 mg.
+
+Pre-filled syringe
+
+## Wegovy 0.25 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 0.25 mg semaglutide* in 0.5 mL solution. One mL of solution contains 0.5 mg of semaglutide*.
+
+## Wegovy 0.5 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 0.5 mg semaglutide* in 0.5 mL solution. One mL of solution contains 1 mg of semaglutide*.
+
+## Wegovy 1 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 1 mg semaglutide* in 0.5 mL solution. One mL of solution contains 2 mg of semaglutide*.
+
+## Wegovy 1.7 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 1.7 mg semaglutide* in 0.75 mL solution. One mL of solution contains 2.27 mg of semaglutide*.
+
+## Wegovy 2.4 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 2.4 mg semaglutide* in 0.75 mL solution. One mL of solution contains 3.2 mg of semaglutide*.
 
 *human glucagon-like peptide-1 (GLP-1) analogue produced in Saccharomyces cerevisiae cells by recombinant DNA technology.
 
@@ -100,6 +142,8 @@ For the full list of excipients, see section 6.1.
 ## 3. PHARMACEUTICAL FORM
 
 Solution for injection (injection) Clear and colourless isotonic solution; pH=7.4.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4. CLINICAL PARTICULARS
 
@@ -110,24 +154,22 @@ Solution for injection (injection) Clear and colourless isotonic solution; pH=7.
 Wegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of
 
 - ≥30 kg/m 2 (obesity), or
-- ≥27 kg/m 2 to &lt;30 kg/m 2 (overweight) in the presence of at least one weight-related comorbidity e.g. dysglycaemia (prediabetes or type 2 diabetes mellitus), hypertension, dyslipidaemia, obstructive sleep apnoea or cardiovascular disease.
+- ≥27 kg/m 2 to &lt; 30 kg/m 2 (overweight) in the presence of at least one weight-related comorbidity e.g. dysglycaemia (prediabetes or type 2 diabetes mellitus), hypertension, dyslipidaemia, obstructive sleep apnoea or cardiovascular disease.
 
 For trial results with respect to cardiovascular risk reduction, obesity-related heart failure, and populations studied, see section 5.1.
 
-## Adolescents (≥12 years)
+## Adolescents (≥12 years of age)
 
-Wegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management in adolescents ages 12 years and above with
+Wegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management in adolescents aged 12 years and above with
 
 - obesity* and
 - body weight above 60 kg.
 
 Treatment with Wegovy should be discontinued and re-evaluated if adolescent patients have not reduced their BMI by at least 5% after 12 weeks on the 2.4 mg or maximum tolerated dose.
 
-*Obesity (BMI ≥95th percentile) as defined on sex - and age-specific BMI growth charts (CDC.gov) (see Table 1).
+*Obesity (BMI ≥95th percentile) as defined on gender- and age-specific BMI growth charts (CDC.gov) (see Table 1).
 
-<div style=\"page-break-after: always\"></div>
-
-Table 1 BMI cutoff points for obesity (≥95 th percentile) by sex and age for paediatric patients aged 12 and older (CDC criteria)
+Table 1 BMI cutoff points for obesity (≥95 th percentile) by gender and age for paediatric patients aged 12 and older (CDC criteria)
 
 | Age (years)   | BMI (kg/m 2 ) at 95 th Percentile   | BMI (kg/m 2 ) at 95 th Percentile   |
 |---------------|-------------------------------------|-------------------------------------|
@@ -145,6 +187,8 @@ Table 1 BMI cutoff points for obesity (≥95 th percentile) by sex and age for p
 | 17            | 28.2                                | 29.6                                |
 | 17.5          | 28.6                                | 30.0                                |
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.2 Posology and method of administration
 
 ## Posology
@@ -157,7 +201,7 @@ If needed, the dose can be increased to 7.2 mg once weekly after a minimum of 4 
 
 If no additional clinical improvement in body weight is observed with the 7.2 mg, lower the dose to 2.4 mg once weekly.
 
-In case of significant gastrointestinal symptoms, consider delaying dose escalation or lowering to the previous dose until symptoms have improved.
+In case of significant gastrointestinal symptoms,  delaying dose escalation or lowering to the previous dose until symptoms have improved could be considered.
 
 Table 2 Dose escalation schedule
 
@@ -170,15 +214,19 @@ Table 2 Dose escalation schedule
 | Maintenance dose  | 2.4 mg        |
 | Maintenance dose  | 7.2 mg        |
 
+## Switching from oral to subcutaneous semaglutide
+
+The effect of switching between oral and subcutaneous semaglutide cannot easily be predicted because oral semaglutide displays higher pharmacokinetic variability in absorption compared to subcutaneous semaglutide.
+
+Patients treated with oral semaglutide 25 mg once daily can be transitioned to subcutaneous semaglutide 2.4 mg once weekly. Patients can start subcutaneous semaglutide the day after their last dose of oral semaglutide (Wegovy tablet).
+
 ## Adolescents
 
-For adolescents ages 12 years and above, the same dose escalation schedule as for adults should be applied (see Table 2). The dose should be increased until 2.4 mg (maintenance dose) or maximum tolerated dose has been reached. Weekly doses higher than 2.4 mg are not recommended.
+For adolescents aged 12 years and above, the same dose escalation schedule as for adults should be applied (see Table 2). The dose should be increased until 2.4 mg (maintenance dose) or maximum tolerated dose has been reached. Weekly doses higher than 2.4 mg are not recommended.
 
 ## Patients with type 2 diabetes
 
-When initiating semaglutide in patients with type 2 diabetes, consider reducing the dose of concomitantly administered insulin or insulin secretagogues (such as sulfonylureas) to reduce the risk of hypoglycaemia, see section 4.4.
-
-<div style=\"page-break-after: always\"></div>
+The risk of hypoglycaemia can be lowered by reducing the dose of sulfonylurea or insulin when initiating treatment with semaglutide (see sections 4.4 and 4.8).
 
 ## Missed dose
 
@@ -186,13 +234,15 @@ If a dose is missed, it should be administered as soon as possible and within 5 
 
 ## Special populations
 
-## Elderly (≥65 years old)
+## Elderly (≥65 years of age)
 
 No dose adjustment is required based on age. Therapeutic experience in patients ≥ 85 years of age is limited.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Patients with renal impairment
 
-No dose adjustment is required for patients with mild or moderate renal impairment. Experience with the use of semaglutide in patients with severe renal impairment is limited. Semaglutide is not recommended for use in patients with severe renal impairment (eGFR &lt;30 mL/min/1.73m 2 ) including patients with end-stage renal disease (see sections 4.4, 4.8 and 5.2).
+No dose adjustment is required for patients with mild or moderate renal impairment. Experience with the use of semaglutide in patients with severe renal impairment is limited. Semaglutide is not recommended for use in patients with severe renal impairment (eGFR &lt; 30 mL/min/1.73m 2 ) including patients with end-stage renal disease (see sections 4.4, 4.8 and 5.2).
 
 ## Patients with hepatic impairment
 
@@ -206,15 +256,15 @@ The safety and efficacy of semaglutide in children below 12 years of age have no
 
 ## Method of administration
 
-Subcutaneous use.
+For subcutaneous use.
 
-Wegovy is administered once weekly at any time of the day, with or without meals.
+Wegovy solution for injection is administered once weekly at any time of the day, with or without meals.
 
 It is to be injected subcutaneously in the abdomen, in the thigh or in the upper arm. The injection site can be changed. It should not be administered intravenously or intramuscularly.
 
-For the 7.2 mg dose, inject three doses of 2.4 mg one after each other. The injections can be administered in the same body area but should be at least 5 cm apart.
+The 7.2 mg dose can be administered either as one injection of 7.2 mg or as three injections of 2.4 mg depending on the device. The injections can be administered in the same body area but should be at least 5 cm apart.
 
-The day of weekly administration can be changed if necessary, as long as the time between doses is at least 3 days (&gt;72 hours). After selecting a new dosing day, once-weekly dosing should be continued.
+The day of weekly administration can be changed if necessary, as long as the time between doses is at least 3 days (&gt; 72 hours). After selecting a new dosing day, once-weekly dosing should be continued.
 
 When administering Wegovy pre-filled pen for single use, the pen should be pressed firmly against the skin until the yellow bar has stopped moving. The injection takes about 5-10 seconds.
 
@@ -226,19 +276,19 @@ For further information before administration see section 6.6.
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.4 Special warnings and precautions for use
 
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Aspiration in association with general anaesthesia or deep sedation
 
 Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation. Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
 
-## Gastrointestinal effects and Dehydration
+## Gastrointestinal effects and dehydration
 
 Use of GLP-1 receptor agonists may be associated with gastrointestinal adverse reactions. This should be considered when treating patients with impaired renal function, as nausea, vomiting, and diarrhoea may cause dehydration, which in rare cases can lead to a deterioration of renal function (see section 4.8). Patients treated with semaglutide should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion.
 
@@ -264,37 +314,37 @@ Insulin and sulfonylurea are known to cause hypoglycaemia. Patients treated with
 
 ## Diabetic retinopathy in patients with type 2 diabetes
 
-In patients with diabetic retinopathy treated with semaglutide, an increased risk of developing diabetic retinopathy complications has been observed (see section 4.8). Rapid improvement in glucose control
+In patients with diabetic retinopathy treated with semaglutide, an increased risk of developing diabetic retinopathy complications has been observed (see section 4.8). Rapid improvement in glucose control has been associated with a temporary worsening of diabetic retinopathy, but other mechanisms cannot be excluded. Patients with diabetic retinopathy using semaglutide should be monitored closely and treated according to clinical guidelines. There is no experience with Wegovy in patients with type 2 diabetes with uncontrolled or potentially unstable diabetic retinopathy. In these patients, treatment with Wegovy is not recommended.
 
 <div style=\"page-break-after: always\"></div>
 
-has been associated with a temporary worsening of diabetic retinopathy, but other mechanisms cannot be excluded. Patients with diabetic retinopathy using semaglutide should be monitored closely and treated according to clinical guidelines. There is no experience with Wegovy in patients with type 2 diabetes with uncontrolled or potentially unstable diabetic retinopathy. In these patients, treatment with Wegovy is not recommended.
-
 ## Patients with gastroparesis
 
-Semaglutide treated patients with gastroparesis may experience more serious or severe gastrointestinal adverse events. Semaglutide should be used with caution in these patients, and semaglutide is not recommended if gastroparesis is severe (see section 4.8).
+Semaglutide treated patients with gastroparesis may experience more serious or severe gastrointestinal adverse reactions. Semaglutide should be used with caution in these patients, and semaglutide is not recommended if gastroparesis is severe (see section 4.8).
 
 ## Populations not studied
 
 The safety and efficacy of Wegovy have not been investigated in patients:
 
-- -treated with other products for weight management,
-- -with type 1 diabetes,
-- -with severe renal impairment (see section 4.2),
-- -with severe hepatic impairment (see section 4.2),
-- -with congestive heart failure New York Heart Association (NYHA) class IV.
+- treated with other products for weight management,
+- with type 1 diabetes,
+- with severe renal impairment (see section 4.2),
+- with severe hepatic impairment (see section 4.2),
+- with congestive heart failure New York Heart Association (NYHA) class IV.
 
 Use in these patients is not recommended.
 
 There is limited experience with Wegovy in patients:
 
-- -aged 85 years or more (see section 4.2),
-- -with mild or moderate hepatic impairment (see section 4.2),
-- -with inflammatory bowel disease.
+- aged 85 years or more (see section 4.2),
+- with mild or moderate hepatic impairment (see section 4.2),
+- with inflammatory bowel disease.
 
 Use with caution in these patients.
 
-## Sodium content
+## Excipient with known effect
+
+## Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
@@ -344,7 +394,7 @@ Studies in animals have shown reproductive toxicity (see section 5.3). There are
 
 ## Breast-feeding
 
-In lactating rats, semaglutide was excreted in milk. A risk to a breast-fed child cannot be excluded. Semaglutide should not be used during breast-feeding.
+In lactating rats, semaglutide was excreted in milk. A risk to the newborns/infants cannot be excluded. Semaglutide should not be used during breast-feeding.
 
 ## Fertility
 
@@ -364,61 +414,54 @@ If semaglutide is used in combination with a sulfonylurea or insulin, patients s
 
 ## Summary of safety profile
 
-In four phase 3a trials, 2 650 adult patients were exposed to Wegovy. The duration of the trials were 68 weeks. The most frequently reported adverse reactions were gastrointestinal disorders including nausea, diarrhoea, constipation and vomiting.
+The most frequently reported adverse reactions were gastrointestinal disorders including nausea, diarrhoea, constipation, abdominal pain and vomiting. These reactions were mainly seen in the doseescalation period (see Description of selected adverse reactions).
 
 ## Tabulated list of adverse reactions
 
-Table 3 lists adverse reactions identified in clinical trials in adults and post-marketing reports. The frequencies are based on a pool of the phase 3a trials.
+Table 3 lists adverse reactions identified in clinical trials in adults and post-marketing reports. The frequencies are based on a pool of four phase 3a trials (STEP 1-4), unless otherwise specified, where 2650 adult patients were exposed to Wegovy. The duration of the trials were 68 weeks.
 
-Adverse reactions associated with Wegovy are listed by system organ class and frequency. Frequency categories are defined as: Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
+Adverse reactions are listed by MedDRA system organ class and frequency. Frequency categories are defined as: Very common (≥1/10); common (≥1/100 to &lt; 1/10); uncommon (≥1/1 000 to &lt; 1/100); rare (≥1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency category, adverse reactions are presented in order of decreasing seriousness.
 
-Table 3 Frequency of adverse reactions of semaglutide
+Table 3 Adverse reactions
 
-| MedDRA system organ class          | Very common   | Common                                                  | Uncommon                                                     | Rare                   | Very Rare                                                  | Not known   |
-|------------------------------------|---------------|---------------------------------------------------------|--------------------------------------------------------------|------------------------|------------------------------------------------------------|-------------|
-| Immune system disorders            |               |                                                         |                                                              | Anaphylact ic reaction |                                                            |             |
-| Metabolism and nutrition disorders |               | Hypoglycae mia in patients with type 2 diabetes a       |                                                              |                        |                                                            |             |
-| Nervous system disorders           | Headache b    | Dizziness b Dysgeusia b,c Dysaesthesia a,d              |                                                              |                        |                                                            |             |
-| Eye disorders                      |               | Diabetic retinopathy in patients with type 2 diabetes a |                                                              |                        | Non- arteritic anterior ischaemic optic neuropathy (NAION) |             |
-| Cardiac disorders                  |               |                                                         | Hypotension Orthostatic hypotension Increased heart rate a,c |                        |                                                            |             |
+| MedDRA system organ class          | Very common   | Common                                                  | Uncommo n                            | Rare                   | Very rare                                                   | Not known   |
+|------------------------------------|---------------|---------------------------------------------------------|--------------------------------------|------------------------|-------------------------------------------------------------|-------------|
+| Immune system disorders            |               |                                                         |                                      | Anaphylacti c reaction |                                                             |             |
+| Metabolism and nutrition disorders |               | Hypoglycaemia in patients with type 2 diabetes a        |                                      |                        |                                                             |             |
+| Nervous system disorders           | Headache b    | Dizziness b Dysgeusia b,c Dysaesthesia a,c,f,g          |                                      |                        |                                                             |             |
+| Eye disorders                      |               | Diabetic retinopathy in patients with type 2 diabetes a |                                      |                        | Non- arteritic anterior ischaemic optic neuropath y (NAION) |             |
+| Cardiac disorders                  |               |                                                         | Increased heart rate a,c             |                        |                                                             |             |
+| Vascular disorders                 |               |                                                         | Hypotensio n Orthostatic hypotension |                        |                                                             |             |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system organ class                             | Very common                                                                | Common                                                                                                         | Uncommon                                      | Rare        | Very Rare   | Not known               |
-|-------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------------|-------------------------|
-| Gastrointes tinal disorders                           | Vomiting a,b Diarrhoea a,b Constipatio n a,b Nausea a,b Abdominal pain b,c | Gastritis b,c Gastrooesop hageal reflux disease b Dyspepsia b Eructation b Flatulence b Abdominal distension b | Acute pancreatitis a Delayed gastric emptying |             |             | Intestinal obstructio n |
-| Hepatobilia ry disorders                              |                                                                            | Cholelithiasi s a                                                                                              |                                               |             |             |                         |
-| Skin and subcutaneo us tissue disorders               |                                                                            | Hair loss a                                                                                                    |                                               | Angioedem a |             |                         |
-| General disorders and administrati on site conditions | Fatigue b,c                                                                | Injection site reactions c                                                                                     |                                               |             |             |                         |
-| Investigatio ns                                       |                                                                            |                                                                                                                | Increased amylase c Increased lipase c        |             |             |                         |
-
-a) see description of selected adverse reactions below
-
-b) mainly seen in the dose-escalation period
-
-c) Grouped preferred terms
-
-d) Frequency is based on the 3a program. An increased frequency has been observed with the 7.2 mg dose. Please refer to dysaesthesia subheading below for more information.
+| MedDRA system organ class                            | Very common                                                                | Common                                                                                                         | Uncommo n                                     | Rare        | Very rare   | Not known                     |
+|------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------------|-------------------------------|
+| Gastrointestin al disorders                          | Vomiting a,b Diarrhoea a,b Constipation a ,b Nausea a,b Abdominal pain b,c | Gastritis b,c Gastrooesophage al reflux disease b Dyspepsia b Eructation b Flatulence b Abdominal distension b | Acute pancreatitis a Delayed gastric emptying |             |             | Intestinal obstruction c,d ,e |
+| Hepatobiliary disorders                              |                                                                            | Cholelithiasis a                                                                                               |                                               |             |             |                               |
+| Skin and subcutaneous tissue disorders               |                                                                            | Hair loss a                                                                                                    |                                               | Angioedem a |             |                               |
+| General disorders and administration site conditions | Fatigue b,c                                                                | Injection site reactions c                                                                                     |                                               |             |             |                               |
+| Investigations                                       |                                                                            |                                                                                                                | Increased amylase c Increased lipase c        |             |             |                               |
 
 ## Description of selected adverse reactions
 
-The below information on specific adverse reactions, unless otherwise specified, pertains to the phase 3a trials.
+The below frequencies on specific adverse reactions, unless otherwise specified, pertains to the phase 3a trials (STEP 1-4).
 
 ## Gastrointestinal adverse reactions
 
-Over the 68 weeks trial period, nausea occurred in 43.9% of patients when treated with semaglutide (16.1% for placebo), diarrhoea in 29.7% (15.9% for placebo) and vomiting in 24.5% (6.3% for placebo). Most events were mild to moderate in severity and of short duration. Constipation occurred in 24.2% of patients treated with semaglutide (11.1% for placebo) and was mild to moderate in severity and of longer duration. In patients treated with semaglutide, median duration of nausea was 8 days, vomiting 2 days, diarrhoea 3 days, and constipation 47 days.
+Over the 68 weeks trial period, nausea occurred in 43.9% of patients when treated with semaglutide (16.1% for placebo), diarrhoea in 29.7% (15.9% for placebo), vomiting in 24.5% (6.3% for placebo), and abdominal pain in 19.7% (10% for placebo). Most events were mild to moderate in severity and of short duration. Constipation occurred in 24.2% of patients treated with semaglutide (11.1% for placebo) and was mild to moderate in severity and of longer duration. In patients treated with semaglutide, median duration of nausea was 8 days, vomiting 2 days, diarrhoea 3 days, and constipation 47 days.
 
-Patients with moderate renal impairment (eGFR ≥30 to &lt;60 mL/min/1.73m 2 ) may experience more gastrointestinal effects when treated with semaglutide.
+Patients with moderate renal impairment (eGFR ≥30 to &lt; 60 mL/min/1.73m 2 ) may experience more gastrointestinal effects when treated with semaglutide.
 
 The gastrointestinal events led to permanent treatment discontinuation in 4.3% of patients.
 
 Patients with gastroparesis may experience more serious or severe gastrointestinal effects when treated with semaglutide.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Acute pancreatitis
 
-The frequency of adjudication-confirmed acute pancreatitis reported in phase 3a clinical trials was 0.2% for semaglutide and &lt;0.1% for placebo, respectively. In SELECT, the cardiovascular outcomes trial, the frequency of acute pancreatitis confirmed by adjudication was 0.2% for semaglutide and 0.3% for placebo.
+The frequency of adjudication-confirmed acute pancreatitis reported in phase 3a clinical trials was 0.2% for semaglutide and &lt; 0.1% for placebo, respectively. In SELECT, the cardiovascular outcomes trial, the frequency of acute pancreatitis confirmed by adjudication was 0.2% for semaglutide and 0.3% for placebo.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Acute gallstone disease/Cholelithiasis
 
@@ -444,7 +487,7 @@ In STEP-HFpEF-DM, clinically significant hypoglycaemia was observed in 4.2% of s
 
 ## Diabetic retinopathy in patients with type 2 diabetes
 
-A 2-year clinical trial investigated semaglutide 0.5 mg and 1 mg vs. placebo in 3 297 patients with type 2 diabetes, with high cardiovascular risk, long duration of diabetes and poorly controlled blood glucose. In this trial, adjudicated events of diabetic retinopathy complications occurred in more patients treated with semaglutide (3.0%) compared to placebo (1.8%). This was observed in insulintreated patients with known diabetic retinopathy. The treatment difference appeared early and persisted throughout the trial. In STEP 2, retinal disorders were reported by 6.9% of patients treated with Wegovy, 6.2% of patients treated with semaglutide 1 mg, and 4.2% of patients treated with placebo. The majority of events were reported as diabetic retinopathy (4.0%, 2.7%, and 2.7%, respectively) and non-proliferative retinopathy (0.7%, 0%, and 0%, respectively).
+A 2-year clinical trial investigated semaglutide 0.5 mg and 1 mg vs. placebo in 3 297 patients with type 2 diabetes, with high cardiovascular risk, long duration of diabetes and poorly controlled blood glucose. In this trial, adjudicated events of diabetic retinopathy complications occurred in more patients treated with semaglutide (3.0%) compared to placebo (1.8%). This was observed in insulintreated patients with known diabetic retinopathy. The treatment difference appeared early and persisted throughout the trial. In STEP 2, retinal disorders were reported by 6.9% of patients treated with semaglutide, 6.2% of patients treated with semaglutide 1 mg, and 4.2% of patients treated with placebo. The majority of events were reported as diabetic retinopathy (4.0%, 2.7%, and 2.7%, respectively) and non-proliferative retinopathy (0.7%, 0%, and 0%, respectively).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -460,9 +503,9 @@ Results from several large epidemiological studies suggest that exposure to sema
 
 ## Paediatric population
 
-In a clinical trial conducted in adolescents of 12 years to below 18 years with obesity or overweight with at least one weight-related comorbidity, 133 patients were exposed to Wegovy. The trial duration was 68 weeks.
+In a clinical trial conducted in adolescents of 12 years to below 18 years of age with obesity or overweight with at least one weight-related comorbidity, 133 patients were exposed to semaglutide. The trial duration was 68 weeks.
 
-Overall, the frequency, type and severity of adverse reactions in the adolescents were comparable to that observed in the adult population. Cholelithiasis was reported in 3.8% of patients treated with Wegovy and 0% of patients treated with placebo.
+Overall, the frequency, type and severity of adverse reactions in the adolescents were comparable to that observed in the adult population. Cholelithiasis was reported in 3.8% of patients treated with semaglutide and 0% of patients treated with placebo.
 
 No effects on growth or pubertal development were found after 68 weeks of treatment.
 
@@ -480,13 +523,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Overdose with semaglutide may be associated with gastrointestinal disorders which could lead to dehydration. In the event of overdose the patient should be observed for clinical signs and appropriate supportive treatment initiated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs used in diabetes, glucagon-like peptide-1 (GLP-1) analogues, ATC code: A10BJ06
-
-<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -512,11 +555,11 @@ The mechanism of action of semaglutide for cardiovascular risk reduction is like
 
 Semaglutide reduces appetite by increasing feelings of fullness and satiety, while lowering hunger and prospective food consumption. In a phase 1 trial, energy intake during an ad libitum meal was 35% lower with semaglutide compared to placebo after 20 weeks of dosing. This was supported by improved control of eating, less food cravings and a relative lower preference for high fat food. Food cravings were further assessed in STEP 5 by a Control of Eating Questionnaire (CoEQ). At week 104, the estimated treatment difference both for control of cravings and craving of savoury food significantly favoured semaglutide, whereas no clear effect was seen for craving of sweet food.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fasting and postprandial lipids
 
-Semaglutide 1 mg compared to placebo lowered fasting triglyceride and very low density lipoproteins (VLDL) concentrations by 12% and 21%, respectively. The postprandial triglyceride and VLDL response to a high fat meal was reduced with &gt;40%.
-
-<div style=\"page-break-after: always\"></div>
+Semaglutide 1 mg compared to placebo lowered fasting triglyceride and very low density lipoproteins (VLDL) concentrations by 12% and 21%, respectively. The postprandial triglyceride and VLDL response to a high fat meal was reduced with &gt; 40%.
 
 ## Clinical efficacy and safety
 
@@ -524,15 +567,15 @@ The efficacy and safety of semaglutide for weight management in combination with
 
 The efficacy and safety of semaglutide 7.2 mg was evaluated in two 72-weeks double-blinded randomised placebo-controlled 3-armed phase 3b trials (STEP UP and STEP UP T2D) including 1919 patients (1312 randomised to treatment with semaglutide 7.2 mg).
 
-Treatment with semaglutide demonstrated superior, clinically meaningful, and sustained weight loss compared with placebo in patients with obesity (BMI ≥30 kg/m 2 ), or overweight (BMI ≥27 kg/m 2 to &lt;30 kg/m 2 ) and at least one weight-related comorbidity. Furthermore, across the trials, a higher proportion of patients achieved ≥5%, ≥10%, ≥15% and ≥20% weight loss with semaglutide compared with placebo. The reduction in body weight occurred irrespective of the presence of gastrointestinal symptoms such as nausea, vomiting or diarrhoea.
+Treatment with semaglutide demonstrated superior, clinically meaningful, and sustained weight loss compared with placebo in patients with obesity (BMI ≥30 kg/m 2 ), or overweight (BMI ≥27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity. Furthermore, across the trials, a higher proportion of patients achieved ≥5%, ≥10%, ≥15% and ≥20% weight loss with semaglutide compared with placebo. The reduction in body weight occurred irrespective of the presence of gastrointestinal symptoms such as nausea, vomiting or diarrhoea.
 
 Treatment with semaglutide also showed statistically significant improvements in waist circumference, systolic blood pressure and physical functioning compared to placebo.
 
-Efficacy was demonstrated regardless of age, sex, race, ethnicity, baseline body weight, BMI, presence of type 2 diabetes and level of renal function. Variations in efficacy existed within all subgroups. Relatively greater weight loss was observed in women and in patients without type 2 diabetes as well as in patients with a lower versus higher baseline body weight.
+Efficacy was demonstrated regardless of age, gender, race, ethnicity, baseline body weight, BMI, presence of type 2 diabetes and level of renal function. Variations in efficacy existed within all subgroups. Relatively greater weight loss was observed in women and in patients without type 2 diabetes as well as in patients with a lower versus higher baseline body weight.
 
 ## STEP 1: Weight management
 
-In a 68-week double-blind trial, 1 961 patients with obesity (BMI ≥30 kg/m 2 ), or with overweight (BMI ≥27 kg/m 2 to &lt;30 kg/m 2 ) and at least one weight-related comorbidity were randomised to semaglutide or placebo. All patients were on a reduced-calorie diet and increased physical activity throughout the trial.
+In a 68-week double-blind trial, 1 961 patients with obesity (BMI ≥30 kg/m 2 ), or with overweight (BMI ≥27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity were randomised to semaglutide or placebo. All patients were on a reduced-calorie diet and increased physical activity throughout the trial.
 
 Weight loss occurred early and continued throughout the trial. At end of treatment (week 68), the weight loss was superior and clinically meaningful compared with placebo (see Table 4 and Figure 1). Furthermore, a higher proportion of patients achieved ≥5%, ≥10%, ≥15% and ≥20% weight loss with semaglutide compared with placebo (see Table 4). Among patients with prediabetes at baseline, a higher proportion of patients had a normo-glycaemic status at end of treatment with semaglutide compared to placebo (84.1% vs. 47.8%).
 
@@ -556,10 +599,12 @@ Table 4 STEP 1: Results at week 68
 | Baseline                                  | 114.6                 | 114.8     |
 | Change from baseline 1                    | -13.5                 | -4.1      |
 | Difference from placebo 1 [95% CI]        | -9.4 [-10.3; -8.5]*   | -         |
-| Systolic blood pressure(mmHg)             |                       |           |
+| Systolic blood pressure (mmHg)            |                       |           |
 | Baseline                                  | 126                   | 127       |
 | Change from baseline 1                    | -6.2                  | -1.1      |
 | Difference from placebo 1 [95% CI]        | -5.1 [-6.3; -3.9]*    | -         |
+
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -569,8 +614,6 @@ Figure 1 STEP 1: Mean change in body weight (%) from baseline to week 68
 
 Following the 68-week trial, a 52-week off-treatment extension was conducted including 327 patients who had completed the main trial period on the maintenance dose of semaglutide or placebo. In the off-treatment period from week 68 to week 120, mean body weight increased in both treatment groups. However, for patients that had been treated with semaglutide for the main trial period the weight remained 5.6% below baseline compared to 0.1% for the placebo group.
 
-<div style=\"page-break-after: always\"></div>
-
 ## STEP 2: Weight management in patients with type 2 diabetes
 
 In a 68-week, double-blind trial, 1 210 patients with overweight or obesity (BMI ≥27 kg/m 2 ) and type 2 diabetes were randomised to either semaglutide 2.4 mg, semaglutide 1 mg once-weekly or placebo. Patients included in the trial had insufficiently controlled diabetes (HbA1c 7-10%) and were treated with either: diet and exercise alone or 1-3 oral antidiabetic drugs. All patients were on a reduced-calorie diet and increased physical activity throughout the trial.
@@ -579,23 +622,28 @@ Treatment with semaglutide for 68 weeks resulted in superior and clinically mean
 
 Table 5 STEP 2: Results at week 68
 
+|                                          | Semaglutide 2.4 mg   | Placebo   |
+|------------------------------------------|----------------------|-----------|
+| Full analysis set (N)                    | 404                  | 403       |
+| Body weight                              |                      |           |
+| Baseline (kg)                            | 99.9                 | 100.5     |
+| Change (%) from baseline 1,2             | -9.6                 | -3.4      |
+| Difference (%) from placebo 1 [95% CI]   | -6.2 [-7.3;-5.2]*    | -         |
+| Change (kg) from baseline                | -9.7                 | -3.5      |
+| Difference (kg) from placebo 1 [95% CI]  | -6.1 [-7.2;-5.0]     | -         |
+| Patients (%) achieving weight loss ≥5% 3 | 67.4*                | 30.2      |
+
+<div style=\"page-break-after: always\"></div>
+
 |                                           | Semaglutide 2.4 mg                        | Placebo     |
 |-------------------------------------------|-------------------------------------------|-------------|
-| Full analysis set (N)                     | 404                                       | 403         |
-| Body weight                               |                                           |             |
-| Baseline (kg)                             | 99.9                                      | 100.5       |
-| Change (%) from baseline 1,2              | -9.6                                      | -3.4        |
-| Difference (%) from placebo 1 [95% CI]    | -6.2 [-7.3;-5.2]*                         | -           |
-| Change (kg) from baseline                 | -9.7                                      | -3.5        |
-| Difference (kg) from placebo 1 [95% CI]   | -6.1 [-7.2;-5.0]                          | -           |
-| Patients (%) achieving weight loss ≥5% 3  | 67.4*                                     | 30.2        |
 | Patients (%) achieving weight loss ≥10% 3 | 44.5*                                     | 10.2        |
 | Patients (%) achieving weight loss ≥15% 3 | 25.0*                                     | 4.3         |
 | Waist circumference (cm)                  |                                           |             |
 | Baseline                                  | 114.5                                     | 115.5       |
 | Change from baseline 1                    | -9.4                                      | -4.5        |
 | Difference from placebo 1 [95% CI]        | -4.9 [-6.0; -3.8]*                        | -           |
-| Systolic blood pressure(mmHg)             |                                           |             |
+| Systolic blood pressure (mmHg)            |                                           |             |
 | Baseline                                  | 130                                       | 130         |
 | Change from baseline 1                    | -3.9                                      | -0.5        |
 | Difference from placebo 1 [95% CI]        | -3.4 [-5.6; -1.3]**                       | -           |
@@ -604,7 +652,13 @@ Table 5 STEP 2: Results at week 68
 | Change from baseline 1                    | -17.5 (-1.6)                              | -4.1 (-0.4) |
 | Difference from placebo 1 [95% CI]        | -13.5 [-15.5; -11.4] (-1.2 [-1.4; -1.1])* | - -         |
 
-<div style=\"page-break-after: always\"></div>
+* p&lt; 0.0001 (unadjusted 2-sided) for superiority; **p&lt; 0.05 (unadjusted 2-sided) for superiority.
+
+1  Estimated using an ANCOVA model using multiple imputation based on all data irrespective of discontinuation of randomised treatment or initiation of other anti-obesity medication or bariatric surgery.
+
+2 During the trial, randomised treatment was permanently discontinued by 11.6% and 13.9% of patients randomised to semaglutide 2.4 mg and placebo, respectively. Assuming that all randomised patients stayed on treatment and did not receive additional anti-obesity therapies, the estimated changes from randomisation to week 68 for body weight based on a Mixed Model for Repeated Measures including all observations until first discontinuation were -10.6% and -3.1% for semaglutide 2.4 mg and placebo respectively
+
+3 Estimated from binary regression model based on same imputation procedure as in primary analysis.
 
 <!-- image -->
 
@@ -612,9 +666,11 @@ Observed values for patients completing each scheduled visit, and estimates with
 
 Figure 2 STEP 2: Mean change in body weight (%) from baseline to week 68
 
+<div style=\"page-break-after: always\"></div>
+
 ## STEP 3: Weight management with intensive behavioural therapy
 
-In a 68-week double-blind trial, 611 patients with obesity (BMI ≥30 kg/m 2 ), or with overweight (BMI ≥27 kg/m 2 to &lt;30 kg/m 2 ) and at least one weight-related comorbidity were randomised to semaglutide or placebo. During the trial, all patients received intensive behavioural therapy (IBT) consisting of a very restrictive diet, increased physical activity and behavioural counselling.
+In a 68-week double-blind trial, 611 patients with obesity (BMI ≥30 kg/m 2 ), or with overweight (BMI ≥27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity were randomised to semaglutide or placebo. During the trial, all patients received intensive behavioural therapy (IBT) consisting of a very restrictive diet, increased physical activity and behavioural counselling.
 
 Treatment with semaglutide and IBT for 68 weeks resulted in superior and clinically meaningful reduction in body weight compared to placebo (see Table 6).
 
@@ -636,20 +692,18 @@ Table 6 STEP 3: Results at week 68
 | Baseline                                  | 113.6                | 111.8     |
 | Change from baseline 1                    | -14.6                | -6.3      |
 | Difference from placebo 1 [95% CI]        | -8.3 [-10.1; -6.6]*  | -         |
-| Systolic blood pressure(mmHg)             |                      |           |
+| Systolic blood pressure (mmHg)            |                      |           |
 | Baseline                                  | 124                  | 124       |
 | Change from baseline 1                    | -5.6                 | -1.6      |
 | Difference from placebo 1 [95% CI]        | -3.9 [-6.4; -1.5]*   | -         |
 
-<div style=\"page-break-after: always\"></div>
-
-observations until first discontinuation were -17.6% and -5.0% for semaglutide 2.4 mg and placebo respectively 3 Estimated from binary regression model based on same imputation procedure as in primary analysis.
-
 ## STEP 4: Sustained weight management
 
-In a 68-week double-blind trial, 902 patients with obesity (BMI ≥30 kg/m 2 ), or with overweight (BMI ≥27 kg/m 2 to &lt;30 kg/m 2 ) and at least one weight-related comorbidity were included in the trial. All patients were on a reduced-calorie diet and increased physical activity throughout the trial. From week 0 to week 20 (run-in), all patients received semaglutide. At week 20 (baseline), patients who had reached the maintenance dose of 2.4 mg were randomised to continue treatment or switch to placebo. At week 0 (start of run-in period) patients had a mean body weight of 107.2 kg and a mean BMI of 38.4 kg/m 2 .
+In a 68-week double-blind trial, 902 patients with obesity (BMI ≥30 kg/m 2 ), or with overweight (BMI ≥27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity were included in the trial. All patients were on a reduced-calorie diet and increased physical activity throughout the trial. From week 0 to week 20 (run-in), all patients received semaglutide. At week 20 (baseline), patients who had reached the maintenance dose of 2.4 mg were randomised to continue treatment or switch to placebo. At week 0 (start of run-in period) patients had a mean body weight of 107.2 kg and a mean BMI of 38.4 kg/m 2 .
 
-Patients who had reached the maintenance dose of 2.4 mg at week 20 (baseline) and continued treatment with semaglutide for 48 weeks (week 20-68) continued losing weight and had a superior and clinically meaningful reduction in body weight compared to those switched to placebo (see Table 7 and Figure 3). The body weight increased steadily from week 20 to week 68 in patients switching to placebo at week 20 (baseline). Nevertheless, the observed mean body weight was lower at week 68 than at start of the run-in period (week 0) (see Figure 3). Patients treated with semaglutide from week 0 (run-in) to week 68 (end of treatment) achieved a mean change in body weight of 17.4%, with weight loss ≥5% achieved by 87.8%, ≥10% achieved by 78.0%, ≥15% achieved by 62.2% and ≥20% achieved by 38.6% of these patients.
+Patients who had reached the maintenance dose of 2.4 mg at week 20 (baseline) and continued treatment with semaglutide for 48 weeks (week 20-68) continued losing weight and had a superior and clinically meaningful reduction in body weight compared to those switched to placebo (see Table 7 and Figure 3). The body weight increased steadily from week 20 to week 68 in patients switching to placebo at week 20 (baseline). Nevertheless, the observed mean body weight was lower at week 68 than at start of the run-in period (week 0) (see Figure 3). Patients treated with semaglutide from week 0 (run-in) to week 68 (end of treatment) achieved a mean change in body weight of - 17.4%, with weight loss ≥5% achieved by 87.8%, ≥10% achieved by 78.0%, ≥15% achieved by 62.2% and ≥20% achieved by 38.6% of these patients.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 7 STEP 4: Results from week 20 to week 68
 
@@ -666,18 +720,10 @@ Table 7 STEP 4: Results from week 20 to week 68
 | Baseline                                | 105.5                 | 104.7     |
 | Change from baseline 1                  | -6.4                  | 3.3       |
 | Difference from placebo 2 [95% CI]      | -9.7 [-10.9; -8.5]*   | -         |
-| Systolic blood pressure(mmHg)           |                       |           |
+| Systolic blood pressure (mmHg)          |                       |           |
 | Baseline 1                              | 121                   | 121       |
 | Change from baseline 1,2                | 0.5                   | 4.4       |
 | Difference from placebo 2 [95% CI]      | -3.9 [-5.8; -2.0]*    | -         |
-
-* p&lt;0.0001 (unadjusted 2-sided) for superiority.
-
-1 Baseline = week 20
-
-2 Estimated using an ANCOVA model using multiple imputation based on all data irrespective of discontinuation of randomised treatment or initiation of other anti-obesity medication or bariatric surgery.
-
-3 During the trial, randomised treatment was permanently discontinued by 5.8% and 11.6% of patients randomized to semaglutide 2.4 mg and placebo, respectively. Assuming that all randomised patients stayed on treatment and did not receive additional anti-obesity therapies, the estimated changes from randomisation to week 68 for body weight based on a Mixed Model for Repeated Measures including all observations until first discontinuation were -8.8% and 6.5% for semaglutide 2.4 mg and placebo respectively.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -689,22 +735,27 @@ Figure 3 STEP 4: Mean change in body weight (%) from week 0 to week 68
 
 ## STEP 5: 2-year data
 
-In a 104-week double-blind trial, 304 patients with obesity (BMI ≥30 kg/m 2 ), or with overweight (BMI ≥27 to &lt;30 kg/m 2 ) and at least one weight-related comorbidity, were randomised to semaglutide or placebo. All patients were on a reduced-calorie diet and increased physical activity throughout the trial. At baseline, patients had a mean BMI of 38.5 kg/m 2 , a mean body weight of 106.0 kg.
+In a 104-week double-blind trial, 304 patients with obesity (BMI ≥30 kg/m 2 ), or with overweight (BMI ≥27 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity, were randomised to semaglutide or placebo. All patients were on a reduced-calorie diet and increased physical activity throughout the trial. At baseline, patients had a mean BMI of 38.5 kg/m 2 , a mean body weight of 106.0 kg.
 
 Treatment with semaglutide for 104 weeks resulted in a superior and clinically meaningful reduction in body weight compared to placebo. Mean body weight decreased from baseline through to week 68 with semaglutide after which a plateau was reached. With placebo, mean body weight decreased less, and a plateau was reached after approximately 20 weeks of treatment (see Table 8 and Figure 4). Patients treated with semaglutide achieved a mean change in body weight of -15.2%, with weight loss ≥5% achieved by 74.7%, ≥10% achieved by 59.2% and ≥15% achieved by 49.7% of these patients. Among patients with prediabetes at baseline, 80% and 37% achieved a normo-glycaemic status at end of treatment with semaglutide and placebo, respectively.
 
 Table 8 STEP 5: Results at week 104
 
+|                                          | Semaglutide 2.4 mg   | Placebo   |
+|------------------------------------------|----------------------|-----------|
+| Full analysis set (N)                    | 152                  | 152       |
+| Body weight                              |                      |           |
+| Baseline (kg)                            | 105.6                | 106.5     |
+| Change (%) from baseline 1, 2            | -15.2                | -2.6      |
+| Difference (%) from placebo 1 [95% CI]   | -12.6 [-15.3; -9.8]* | -         |
+| Change (kg) from baseline                | -16.1                | -3.2      |
+| Difference (kg) from placebo 1 [95% CI]  | -12.9 [-16.1; -9.8]  | -         |
+| Patients (%) achieving weight loss ≥5% 3 | 74.7*                | 37.3      |
+
+<div style=\"page-break-after: always\"></div>
+
 |                                           | Semaglutide 2.4 mg   | Placebo   |
 |-------------------------------------------|----------------------|-----------|
-| Full analysis set (N)                     | 152                  | 152       |
-| Body weight                               |                      |           |
-| Baseline (kg)                             | 105.6                | 106.5     |
-| Change (%) from baseline 1, 2             | -15.2                | -2.6      |
-| Difference (%) from placebo 1 [95% CI]    | -12.6 [-15.3; -9.8]* | -         |
-| Change (kg) from baseline                 | -16.1                | -3.2      |
-| Difference (kg) from placebo 1 [95% CI]   | -12.9 [-16.1; -9.8]  | -         |
-| Patients (%) achieving weight loss ≥5% 3  | 74.7*                | 37.3      |
 | Patients (%) achieving weight loss ≥10% 3 | 59.2*                | 16.8      |
 | Patients (%) achieving weight loss ≥15% 3 | 49.7*                | 9.2       |
 | Waist circumference (cm)                  |                      |           |
@@ -716,13 +767,13 @@ Table 8 STEP 5: Results at week 104
 | Change from baseline 1                    | -5.7                 | -1.6      |
 | Difference from placebo 1 [95% CI]        | -4.2 [-7.3; -1.0]*   | -         |
 
-<div style=\"page-break-after: always\"></div>
+1  Estimated using an ANCOVA model using multiple imputation based on all data irrespective of
 
-* p&lt;0.0001 (unadjusted 2-sided) for superiority.
+discontinuation of randomised treatment or initiation of other anti-obesity medication or bariatric surgery.
 
-1 Estimated using an ANCOVA model using multiple imputation based on all data irrespective of discontinuation of randomised treatment or initiation of other anti-obesity medication or bariatric surgery.
+2 During the trial, randomised treatment was permanently discontinued by 13.2% and 27.0% of patients randomised to semaglutide 2.4 mg and placebo, respectively. Assuming that all randomised patients stayed on treatment and did not receive additional anti-obesity therapies, the estimated changes from randomisation to week 104 for body weight based on a Mixed Model for Repeated Measures including all observations until first discontinuation were -16.7% and -0.6% for semaglutide and placebo respectively.
 
-2 During the trial, randomised treatment was permanently discontinued by 13.2% and 27.0% of patients randomised to semaglutide 2.4 mg and placebo, respectively. Assuming that all randomised patients stayed on treatment and did not receive additional anti-obesity therapies, the estimated changes from randomisation to week 104 for body weight based on a Mixed Model for Repeated Measures including all observations until first discontinuation were -16.7% and -0.6% for semaglutide and placebo respectively. 3 Estimated from binary regression model based on same imputation procedure as in primary analysis.
+3 Estimated from binary regression model based on same imputation procedure as in primary analysis.
 
 <!-- image -->
 
@@ -732,7 +783,9 @@ Figure 4 STEP 5: Mean change in body weight (%) from week 0 to week 104
 
 ## STEP 8: Semaglutide vs liraglutide
 
-In a 68-week, randomised, open-label, pairwise placebo-controlled trial, 338 patients with obesity (BMI ≥30 kg/m 2 ), or with overweight (BMI ≥27 to &lt;30 kg/m 2 ) and at least one weight-related comorbidity, were randomised to semaglutide once weekly, liraglutide 3 mg once daily or placebo. Semaglutide once weekly and liraglutide 3 mg were open-label, but each active treatment group was double-blinded against placebo administered at the same dosing frequency. All patients were on a reduced-calorie diet and increased physical activity throughout the trial. At baseline, patients had a mean BMI of 37.5 kg/m 2 , a mean body weight of 104.5 kg.
+In a 68-week, randomised, open-label, pairwise placebo-controlled trial, 338 patients with obesity (BMI ≥30 kg/m 2 ), or with overweight (BMI ≥27 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity, were randomised to semaglutide once weekly, liraglutide 3 mg once daily or placebo. Semaglutide once weekly and liraglutide 3 mg were open-label, but each active treatment group was double-blinded against placebo administered at the same dosing frequency. All patients were on a reduced-calorie diet and increased physical activity throughout the trial. At baseline, patients had a mean BMI of 37.5 kg/m 2 , a mean body weight of 104.5 kg.
+
+<div style=\"page-break-after: always\"></div>
 
 Treatment with semaglutide once weekly for 68 weeks resulted in superior and clinically meaningful reduction in body weight compared to liraglutide. Mean body weight decreased from baseline through to week 68 with semaglutide. With liraglutide, mean body weight decreased less (see Table 9). 37.4% of the patients treated with semaglutide lost ≥20%, compared to 7.0% treated with liraglutide. Table 9 shows the results of the confirmatory endpoints ≥10%, ≥15% and ≥20% weight loss.
 
@@ -751,12 +804,6 @@ Table 9 STEP 8: Results of a 68-week trial comparing semaglutide with liraglutid
 | Patients (%) achieving weight loss ≥15% 3   | 54.0*                | 13.4               |
 | Patients (%) achieving weight loss ≥20% 3   | 37.4*                | 7.0                |
 
-<div style=\"page-break-after: always\"></div>
-
-2 During the trial, randomised treatment was permanently discontinued by 13.5% and 27.6% of patients randomised to semaglutide 2.4 mg and liraglutide 3 mg, respectively. Assuming that all randomised patients stayed on treatment and did not receive additional anti-obesity therapies, the estimated changes from randomisation to week 68 for body weight based on a Mixed Model for Repeated Measures including all observations until first discontinuation were -16.7% and -6.7% for semaglutide 2.4 mg and liraglutide 3 mg respectively.
-
-3 Estimated from binary regression model based on same imputation procedure as in primary analysis.
-
 ## STEP 9: Weight management in patients with knee osteoarthritis
 
 In a 68-week double-blind trial, 407 patients with obesity and moderate knee osteoarthritis (OA) of one or both knees were randomised to either semaglutide or placebo, as an adjunct to counselling on a reduced-calorie diet and increased physical activity. The treatment effect on knee OA-related pain was assessed by the Western Ontario and McMaster Universities Osteoarthritis 3.1 Index (WOMAC). This index is designed to evaluate changes in symptoms and lower extremity functioning associated with treatment in patients suffering from OA of the hip and/or knee. At baseline, patients had a mean BMI of 40.3 kg/m 2 and a mean body weight of 108.6 kg. All patients had a clinical diagnosis of knee OA with a mean baseline WOMAC pain score of 70.9 (on a scale of 0-100).
@@ -767,29 +814,40 @@ Treatment with semaglutide demonstrated a clinically meaningful improvement in k
 
 Table 10 STEP 9: Results at week 68
 
+|                              |   Semaglutide 2.4 mg |   Placebo |
+|------------------------------|----------------------|-----------|
+| Full analysis set (N)        |                  271 |       136 |
+| Body weight                  |                      |           |
+| Baseline (kg)                |                108.7 |     108.5 |
+| Change (%) from baseline 1,2 |                -13.7 |      -3.2 |
+
+<div style=\"page-break-after: always\"></div>
+
 |                                                               | Semaglutide 2.4 mg   | Placebo   |
 |---------------------------------------------------------------|----------------------|-----------|
-| Full analysis set (N)                                         | 271                  | 136       |
-| Body weight                                                   |                      |           |
-| Baseline (kg)                                                 | 108.7                | 108.5     |
-| Change (%) from baseline 1,2                                  | -13.7                | -3.2      |
 | Difference (%) from placebo 1 [95% CI]                        | -10.5 [-12.3; -8.6]* | -         |
 | Patients (%) achieving weight loss ≥5% 3                      | 85.2*                | 33.6      |
-| WOMACpain score 4                                             |                      |           |
+| WOMAC pain score 4                                            |                      |           |
 | Baseline                                                      | 72.8                 | 67.2      |
 | Change from baseline 1,2                                      | -41.7                | -27.5     |
 | Difference from placebo 1 [95% CI]                            | -14.1 [-20.0, -8.3]* | -         |
 | Patients (%) achieving clinically meaningful improvement 3, 5 | 59.0                 | 35.0      |
 
+* p&lt;  0.0001 (unadjusted 2-sided) for superiority.
+- 1 Estimated using an ANCOVA model using multiple imputation based on all data irrespective of discontinuation of randomised treatment or initiation of other anti-obesity therapies or other knee OA interventions and regardless of compliance with wash out period for pain medication (the latter only relevant for WOMAC related endpoint). During the trial, randomised treatment was permanently discontinued by 12.5% and 21.3% of patients randomised to semaglutide 2.4 mg and placebo, respectively.
+
+2 Based on a Mixed Model for Repeated Measures assuming that all randomised patients stayed on treatment and did not receive additional anti-obesity therapies or additional knee OA interventions and complied with washout period for pain medication (the latter only relevant for knee OA related pain), including all observations until first discontinuation the estimated changes from baseline to week 68 for body weight were -14.5% and -2.3% (semaglutide 2.4 mg and placebo, respectively) and for WOMAC pain score: -43.0 and -28.3 (semaglutide
+
+- 2.4 mg and placebo, respectively).
+2. 3 Estimated from logistic regression model based on same imputation procedure as for the primary analysis.
+3. 4 WOMAC scores are presented on a scale from 0-100, with lower scores representing less disability.
+4. 5 The change in WOMAC pain score of ≤ -37.3 was used as a threshold for meaningful improvement. The threshold was derived from trial data using anchor-based methods.
+
 ## Effect on body composition
 
 In a sub-study in STEP 1 (N = 140), body composition was measured using dual energy X-ray absorptiometry (DEXA). The results of the DEXA assessment showed that treatment with semaglutide was accompanied by greater reduction in fat mass than in lean body mass leading to an improvement in body composition compared to placebo after 68 weeks. Furthermore, this reduction in total fat mass was accompanied by a reduction in visceral fat. These results suggest that most of the total weight loss was attributable to a reduction in fat tissue, including visceral fat.
 
-In a sub-study in STEP UP (N=55), body composition was measured using magnetic resonance imaging (MRI). The results of the MRI assessment showed that treatment with semaglutide injection
-
-<div style=\"page-break-after: always\"></div>
-
-at doses of 2.4 mg and 7.2 mg was accompanied by a greater reduction in fat mass/volume than in lean body mass/volume leading to an improvement in body composition compared to placebo after 72 weeks.
+In a sub-study in STEP UP (N=55), body composition was measured using magnetic resonance imaging (MRI). The results of the MRI assessment showed that treatment with semaglutide injection at doses of 2.4 mg and 7.2 mg was accompanied by a greater reduction in fat mass/volume than in lean body mass/volume leading to an improvement in body composition compared to placebo after 72 weeks.
 
 ## Improvement in physical functioning
 
@@ -797,59 +855,68 @@ Semaglutide showed small improvements in physical functioning scores. Physical f
 
 ## STEP UP and STEP UP T2D: Weight management with higher dose of semaglutide
 
-In two 72-week double-blinded clinical trials, 1407 patients with obesity (STEP UP) and 514 patients with obesity and type 2 diabetes (STEP UP T2D) were randomised 5:1:1 (STEP UP) or 3:1:1 (STEP UP T2D) to semaglutide 7.2 mg, semaglutide 2.4 mg or placebo once weekly. All patients were on a reduced-calorie diet and increased physical activity throughout the trials.
+In two 72-week double-blinded clinical trials, 1407 patients with obesity (STEP UP) and 512 patients with obesity and type 2 diabetes (STEP UP T2D) were randomised 5:1:1 (STEP UP) or 3:1:1 (STEP UP T2D) to semaglutide 7.2 mg, semaglutide 2.4 mg or placebo once weekly. All patients were on a reduced-calorie diet and increased physical activity throughout the trials.
 
 At baseline in STEP UP, patients had a mean age of 47 years, mean BMI of 39.9 kg/m 2 , and a mean body weight of 113 kg. There were 26.3% males, 73.7% females, 85.5% Caucasian/white, 8.6% black/African American, 4.5% Asian and 1.2% other. A total of 4.5% were Hispanic or Latino.
 
+<div style=\"page-break-after: always\"></div>
+
 At baseline in STEP UP T2D, patients had a mean age of 56 years, mean BMI of 38.6 kg/m 2 , and a mean body weight of 110.1 kg. There were 48.2% males, 51.8% females, 83.6% Caucasian/white, 8.6% black/African American, 6.3% Asian, and 1.6% other. A total of 5.7% were Hispanic or Latino.
 
-In the two trials STEP UP and STEP UP T2D, at end of treatment (week 72), the weight loss with semaglutide 7.2 mg injection was superior and clinically meaningful compared to placebo (see Table 11 and Figure 5 and 6). Furthermore, a higher proportion achieved ≥5%, ≥10%, ≥15% and ≥20% weight loss with semaglutide 7.2 mg compared to placebo.
+In the two trials STEP UP and STEP UP T2D, at end of treatment (week 72), the weight loss with semaglutide 7.2 mg injection was superior and clinically meaningful compared to placebo (see Table 11 and Figure 5 and 6). Furthermore, a higher proportion achieved ≥5 %, ≥10 %, ≥15 % and ≥20 % weight loss with semaglutide 7.2 mg compared to placebo.
 
-In STEP UP, the weight loss with semaglutide 7.2 mg injection was superior compared with semaglutide 2.4 mg injection and a higher proportion achieved ≥20% and ≥25% weight loss compared with semaglutide 2.4 mg injection (see Table 11).
+In STEP UP, the weight loss with semaglutide 7.2 mg injection was superior compared with semaglutide 2.4 mg injection and a higher proportion achieved ≥20 % and ≥25 % weight loss compared with semaglutide 2.4 mg injection (see Table 11).
 
 Table 11 STEP UP and STEP UP T2D: Results at week 72
 
-|                                        | STEP UP                      | STEP UP                      | STEP UP                   | STEP UP T2D                  | STEP UP T2D               |
-|----------------------------------------|------------------------------|------------------------------|---------------------------|------------------------------|---------------------------|
-|                                        | Semaglutide 7.2 mg injection | Semaglutide 2.4 mg injection | Placebo                   | Semaglutide 7.2 mg injection | Placebo                   |
-| Full analysis set (N)                  | 1005                         | 201                          | 201                       | 307                          | 102                       |
-| Body weight / composition              | Body weight / composition    | Body weight / composition    | Body weight / composition | Body weight / composition    | Body weight / composition |
-| Baseline (kg)                          | 112.4                        | 116.5                        | 112.4                     | 110.5                        | 112.1                     |
-| Change (%) from baseline 1             | -18.7                        | -15.6                        | -3.9                      | -13.2                        | -3.9                      |
-| Change (%) from baseline Trial product | -20.7                        | -17.5                        | -2.4                      | -14.1                        | -3.6                      |
-| Difference (%) from placebo 1 [95% CI] | -14.8 [-16.2; -13.4]*        | -                            | -                         | -9.3 [-11.0; -7.7]*          | -                         |
-| Difference (%) from                    | -3.1 [-4.7; -1.6]*           | -                            | -                         | -                            | -                         |
+|                                                   | STEP UP                      | STEP UP                      | STEP UP                   | STEP UP T2D                  | STEP UP T2D               |
+|---------------------------------------------------|------------------------------|------------------------------|---------------------------|------------------------------|---------------------------|
+|                                                   | Semaglutide 7.2 mg injection | Semaglutide 2.4 mg injection | Placebo                   | Semaglutide 7.2 mg injection | Placebo                   |
+| Full analysis set (N)                             | 1005                         | 201                          | 201                       | 307                          | 102                       |
+| Body weight / composition                         | Body weight / composition    | Body weight / composition    | Body weight / composition | Body weight / composition    | Body weight / composition |
+| Baseline (kg)                                     | 112.4                        | 116.5                        | 112.4                     | 110.5                        | 112.1                     |
+| Change (%) from baseline 1                        | -18.7                        | -15.6                        | -3.9                      | -13.2                        | -3.9                      |
+| Change (%) from baseline Trial product            | -20.7                        | -17.5                        | -2.4                      | -14.1                        | -3.6                      |
+| estimand 2 Difference (%) from placebo 1 [95% CI] | -14.8 [-16.2; -13.4]*        | -                            | -                         | -9.3 [-11.0; -7.7]*          | -                         |
+| Difference (%) from 2.4 mg [95% CI] 1             | -3.1 [-4.7; -1.6]*           | -                            | -                         | -                            | -                         |
+| Change (kg) from baseline                         | -20.9                        | -17.3                        | -4.6                      | -14.5                        | -4.3                      |
+| Difference (kg) from placebo [95% CI] 1           | -16.3 [-17.9; -14.8]         | -                            | -                         | -10.2 [-12.1; -8.4]          | -                         |
+| Patients (%) achieving weight loss ≥5% 3          | 90.7                         | 89.9                         | 36.8                      | 86.3                         | 34.7                      |
+| Patients (%) achieving weight                     | 82.4                         | 75.1                         | 20.5                      | 62.9                         | 11.6                      |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                                  | STEP UP                      | STEP UP                      | STEP UP                  | STEP UP T2D                  | STEP UP T2D              |
 |--------------------------------------------------|------------------------------|------------------------------|--------------------------|------------------------------|--------------------------|
 |                                                  | Semaglutide 7.2 mg injection | Semaglutide 2.4 mg injection | Placebo                  | Semaglutide 7.2 mg injection | Placebo                  |
-| 2.4 mg [95% CI] 1                                |                              |                              |                          |                              |                          |
-| Change (kg) from baseline                        | -20.9                        | -17.3                        | -4.6                     | -14.5                        | -4.3                     |
-| Difference (kg) from placebo [95% CI] 1          | -16.3 [-17.9; -14.8]         | -                            | -                        | -10.2 [-12.1; -8.4]          | -                        |
-| Patients (%) achieving weight loss ≥5% 3         | 90.7                         | 89.9                         | 36.8                     | 86.3                         | 34.7                     |
-| Patients (%) achieving weight loss ≥10% 3        | 82.4                         | 75.1                         | 20.5                     | 62.9                         | 11.6                     |
-| Patients (%) achieving weight loss 3             | 66.5                         | 54.5                         | 7.6                      | 41.2                         | 7.4                      |
-| ≥15% Patients (%) achieving weight loss ≥20% 3,4 | 47.7                         | 33.3                         | 2.9                      | 21.3                         | 2.1                      |
-| Patients (%) achieving weight loss ≥25% 3,5      | 31.2                         | 15.3                         | 0                        | -                            | -                        |
+| loss ≥10% 3                                      |                              |                              |                          |                              |                          |
+| Patients (%) achieving weight loss ≥15% 3        | 66.5                         | 54.5                         | 7.6                      | 41.2                         | 7.4                      |
+| Patients (%) achieving weight loss 3,4           | 47.7                         | 33.3                         | 2.9                      | 21.3                         | 2.1                      |
+| ≥20% Patients (%) achieving weight loss ≥25% 3,5 | 31.2                         | 15.3                         | 0                        | -                            | -                        |
 | Waist circumference (cm)                         | Waist circumference (cm)     | Waist circumference (cm)     | Waist circumference (cm) | Waist circumference (cm)     | Waist circumference (cm) |
 | Baseline                                         | 118.4                        | 120.3                        | 118.6                    | 121.8                        | 123.9                    |
-| Change from                                      | -17.5                        | -14.6                        | -5.9                     | -12.3                        | -5.8                     |
+| Change from baseline 1                           | -17.5                        | -14.6                        | -5.9                     | -12.3                        | -5.8                     |
 | Difference from placebo 1 [95% CI]               | -11.7 [-13.0; -10.4]*        | -                            | -                        | -6.5 [-9.0; -4.1]*           | -                        |
 | HbA 1c (%)                                       | HbA 1c (%)                   | HbA 1c (%)                   | HbA 1c (%)               | HbA 1c (%)                   | HbA 1c (%)               |
 | Baseline                                         | 5.7                          | 5.6                          | 5.7                      | 8.0                          | 8.2                      |
 | Change from baseline 1                           | -0.3                         | -0.3                         | -0.02                    | -1.7                         | -0.2                     |
 | Difference from placebo 1 [95% CI]               | -0.3 [-0.4; -0.2]            | -                            | -                        | -1.5 [-1.8; -1.2]*           | -                        |
 
-<div style=\"page-break-after: always\"></div>
-
 * p&lt;0.0001 (unadjusted 2-sided) for superiority.
-- 1 Estimated using ANCOVA with multiple imputation based on all data irrespective of treatment discontinuation or initiation of other antiobesity medication or bariatric surgery.
-- 2 Estimated changes are from randomisation to week 72 using Mixed Model for Repeated Measures that includes all observations until first treatment discontinuation, assuming all randomised patients stayed on treatment and did not initiate other anti-obesity medication or bariatric surgery.
-- 3 Observed proportions based on in-trial period (uninterrupted period from randomisation until the last trial visit), regardless of discontinuation, dose reduction, or initiation of other anti-obesity medication or bariatric surgery.
-- 4 Observed on-treatment proportions (excluding offtreatment data triggered by at least two consecutive missed doses), achieved ≥20% reduction in body weight among 50.9%, 35.1% and 2.9% of patients randomised to semaglutide 7.2 mg, 2.4 mg, and placebo, respectively in STEP UP study.
-- 5 Observed ontreatment proportions achieved ≥25% reduction in body weight among 33.2%, 16.7% and 0% of patients randomised to semaglutide 7.2, 2.4 mg, and placebo, respectively in STEP UP study.
+
+1 Estimated using ANCOVA with multiple imputation based on all data irrespective of treatment discontinuation or initiation of other anti-obesity medication or bariatric surgery.
+
+2  Estimated changes are from randomisation to week 72 using Mixed Model for Repeated Measures that includes all observations until first
+
+treatment discontinuation, assuming all randomised patients stayed on treatment and did not initiate other antiobesity medication or bariatric surgery.
+
+3 Observed proportions based on in-trial period (uninterrupted period from randomisation until the last trial visit), regardless of discontinuation, dose reduction, or initiation of other anti-obesity medication or bariatric surgery.
+
+4 Observed on-treatment proportions (excluding off-treatment data triggered by at least two consecutive missed doses), achieved ≥20 % reduction in body weight among 50.9 %, 35.1 % and 2.9 % of patients randomised to semaglutide 7.2 mg, 2.4 mg, and placebo, respectively in STEP UP study.
+
+5  Observed ontreatment proportions achieved ≥25 % reduction in body weight among 33.2 %, 16.7 % and 0 % of patients randomised to semaglutide 7.2, 2.4 mg, and placebo, respectively in STEP UP study.
+
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -857,13 +924,13 @@ Observed values for patients completing each scheduled visit, and estimates with
 
 Figure 5 STEP UP: Mean change in body weight (%) from week 0 to week 72
 
-<div style=\"page-break-after: always\"></div>
-
 <!-- image -->
 
 Observed values for patients completing each scheduled visit, and estimates with multiple imputations (MI) from retrieved dropouts
 
 Figure 6 STEP UP T2D: Mean change in body weight (%) from week 0 to week 72
+
+<div style=\"page-break-after: always\"></div>
 
 ## Cardiovascular evaluation
 
@@ -875,32 +942,32 @@ The study population consisted of 27.7% female and 72.3% male patients, with a m
 
 The primary endpoint was the time from randomisation to first occurrence of major adverse cardiovascular events (MACE), defined as a composite endpoint consisting of cardiovascular death (including undetermined cause of death), non-fatal myocardial infarction, or non-fatal stroke. The primary endpoint, time to first MACE, occurred in 1 270 of the 17 604 patients included in the SELECT trial. Specifically, 569 first MACE (6.5%) were recorded among the 8 803 patients treated with semaglutide, compared to 701 first MACE (8.0%) among the 8 801 patients treated with placebo . A total of 63 (11.1%) of the first MACE with semaglutide and 80 (11.4%) with placebo were undetermined cause of death.
 
-Superiority of semaglutide 2.4 mg versus placebo for MACE was confirmed with a hazard ratio of 0.80 [0.72; 0.90][95% CI], corresponding to a relative risk reduction in MACE of 20 % (see Figure 7). The effect on each component to the reduction of MACE is shown in Figure 8. The reduction of MACE with semaglutide 2.4 mg was not impacted by age, sex, race, ethnicity, BMI at baseline, or level of renal function impairment.
-
-<div style=\"page-break-after: always\"></div>
+Superiority of semaglutide 2.4 mg versus placebo for MACE was confirmed with a hazard ratio of 0.80 [0.72; 0.90][95% CI], corresponding to a relative risk reduction in MACE of 20 % (see Figure 7). The effect on each component to the reduction of MACE is shown in Figure 8. The reduction of MACE with semaglutide 2.4 mg was not impacted by age, gender, race, ethnicity, BMI at baseline, or level of renal function impairment.
 
 Analysis of the cardiovascular death (the first confirmatory secondary endpoint) resulted in a hazard ratio of 0.85 [0.71; 1.01][95% CI].
 
 <!-- image -->
 
-Data from the in-trial period. Cumulative incidence estimates are based on time from randomisation to first EAC-confirmed MACE with non-CV death modelled as competing risk using the Aalen-Johansen estimator. Subjects without events of interest were censored at the end of their in-trial observation period. Time from randomisation to first MACE was analysed using a Cox proportional hazards model with treatment as categorical fixed factor. The hazard ratio and confidence interval are adjusted for the group sequential design using the likelihood ratio ordering. The x-axis is truncated at 50 months where approximately 10% of the population was still in the trial. HR: hazard ratio, CI: Confidence interval, Sema 2.4 mg: semaglutide 2.4 mg.
+Data from the in-trial period. Cumulative incidence estimates are based on time from randomisation to first EAC-confirmed MACE with non-CV death modelled as competing risk using the Aalen-Johansen estimator. Subjects without events of interest were censored at the end of their in-trial observation period. Time from randomisation to first MACE was analysed using a Cox proportional hazards model with treatment as categorical fixed factor. The hazard ratio and confidence interval are adjusted for the group sequential design using the likelihood ratio ordering. The x-axis is truncated at 50 months where approximately 10% of the population was still in the trial.
+
+<div style=\"page-break-after: always\"></div>
+
+HR: hazard ratio, CI: Confidence interval, Sema 2.4 mg: semaglutide 2.4 mg.
 
 CV: cardiovascular, EAC: event adjudication committee, MACE: major adverse cardiovascular event.
 
 Figure 7: Time from randomisation to first MACE Cumulative incidence function plot
 
-<!-- image -->
-
-|                                  |                     |                 | HR [95% CI]       | Number of events/ analysed subjects (Sema 2.4 mg; Placebo)   |
-|----------------------------------|---------------------|-----------------|-------------------|--------------------------------------------------------------|
-| Primary endpoints and components |                     |                 |                   |                                                              |
-| Primary endpoint                 |                     |                 | 0.80 [0.72; 0.90] | 569/8 803; 701/8 801                                         |
-| CV death                         |                     |                 | 0.85 [0.71; 1.01] | 223/8 803; 262/8 801                                         |
-| Non-fatal MI                     |                     |                 | 0.72 [0.61; 0.85] | 234/8 803; 322/8 801                                         |
-| Non-fatal stroke                 |                     |                 | 0.93 [0.74; 1.15] | 154/8 803; 165/8 801                                         |
-| Secondary confirmatory endpoints |                     |                 |                   |                                                              |
-| Heart failure composite          |                     |                 | 0.82 [0.71; 0.96] | 300/8 803; 361/8 801                                         |
-| All-cause death                  | Favours Sema 2.4 mg | Favours Placebo | 0.81 [0.71; 0.93] | 375/8 803; 458/8 801                                         |
+|                                  |                             |                   | HR [95% CI]       | Number of events/ analysed subjects (Sema 2.4 mg; Placebo)   |
+|----------------------------------|-----------------------------|-------------------|-------------------|--------------------------------------------------------------|
+| Primary endpoints and components |                             |                   |                   |                                                              |
+| Primary endpoint                 |                             |                   | 0.80 [0.72; 0.90] | 569/8 803; 701/8 801                                         |
+| CV death                         |                             |                   | 0.85 [0.71; 1.01] | 223/8 803; 262/8 801                                         |
+| Non-fatal MI                     |                             |                   | 0.72 [0.61; 0.85] | 234/8 803; 322/8 801                                         |
+| Non-fatal stroke                 |                             |                   | 0.93 [0.74; 1.15] | 154/8 803; 165/8 801                                         |
+| Secondary confirmatory endpoints |                             |                   |                   |                                                              |
+| Heart failure composite          |                             |                   | 0.82 [0.71; 0.96] | 300/8 803; 361/8 801                                         |
+| All-cause death                  | 0.4 Favours Sema 2.4 mg 0.6 | Favours Placebo 2 | 0.81 [0.71; 0.93] | 375/8 803; 458/8 801                                         |
 
 Data from the in-trial period. Time from randomisation to each endpoint was analysed using a Cox proportional hazards model with treatment as categorical fixed factor. Subjects without events of interest were censored at the end of their in-trial period. For the primary endpoint the HR and CI were adjusted for the group sequential design using likelihood ratio ordering. Secondary endpoints are not under multiplicity control. CV death includes both cardiovascular death and undetermined cause of death.
 
@@ -908,17 +975,17 @@ HR: hazard ratio, CI: Confidence interval, Sema 2.4 mg: semaglutide 2.4 mg.
 
 CV: cardiovascular, MI: myocardial infarction, Heart failure (HF) composite consisting of HF hospitalisation, urgent HF visit or CV death.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Figure 8: Forest plot of time from randomisation to first MACE, MACE components and secondary confirmatory endpoints
 
 ## SUSTAIN 6: Cardiovascular outcomes trial in patients with type 2 diabetes
 
-In the SUSTAIN 6 trial, 3 297 patients with insufficiently controlled type 2 diabetes and at high risk of cardiovascular events were randomised to semaglutide s.c. 0.5 mg or 1 mg once-weekly or placebo in addition to standard-of-care. The treatment duration was 104 weeks. The mean age was 65 years and the mean BMI was 33 kg/m 2 .
+In the SUSTAIN 6 trial, 3 297 patients with insufficiently controlled type 2 diabetes and at high risk of cardiovascular events were randomised to subcutaneous semaglutide 0.5 mg or 1 mg once-weekly or placebo in addition to standard-of-care. The treatment duration was 104 weeks. The mean age was 65 years and the mean BMI was 33 kg/m 2 .
 
 The primary endpoint was the time from randomisation to first occurrence of a major adverse cardiovascular event (MACE): cardiovascular death, non-fatal myocardial infarction or non-fatal stroke. The total number of the MACE was 254, including 108 (6.6%) with semaglutide and 146 (8.9%) with placebo.
 
 The cardiovascular safety of treatment with semaglutide 0.5 or 1 mg was confirmed as the hazard ratio (HR) for semaglutide vs. placebo was 0.74, [0.58, 0.95] [95% CI], driven by a decrease in the rate of non-fatal stroke and non-fatal myocardial infarction with no difference in cardiovascular death (see Figure 9).
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 9 : Kaplan-Meier plot of time to first occurrence of the composite outcome: Cardiovascular death, non-fatal myocardial infarction or non-fatal stroke (SUSTAIN 6)
 
@@ -930,13 +997,13 @@ In two 52-week double-blinded clinical trials, 529 patients with obesity-related
 
 At baseline, 66.2% and 70.6% of the patients were classified as New York Heart Association (NYHA) class II, 33.6% and 29.2% were NYHA class III and 0.2% and 0.2% were NYHA class IV, in STEPHFpEF and STEP HFpEF-DM respectively. Mean age was 68 years in both trials, median left ventricular ejection fraction (LVEF) was 57.0% and 56.0%, and mean BMI was 38.5 kg/m 2 and 37.9 kg/m 2 . The STEP-HFpEF trial included 56.1% females, whereas 44.3% were female in STEPHFpEF-DM. A high proportion of patients were on cardiovascular medications including ~ 81% on diuretics, ~ 81% on beta blockers, ~ 34% on angiotensin converting enzyme (ACE) inhibitors and ~ 45% on angiotensin receptor blockers (ARBs).
 
-<div style=\"page-break-after: always\"></div>
-
 In STEP-HFpEF-DM patients were also receiving standard of care glucose lowering medications of which 32.8% were treated with sodium/glucose cotransporter-2 inhibitor (SGLT-2i) and 20.8% were treated with insulin.
 
 The treatment effect of semaglutide 2.4 mg on heart failure symptoms was assessed using the Clinical Summary Score of the Kansas City Cardiomyopathy Questionnaire (KCCQ-CSS) which includes the domains of symptom (frequency and burden) and physical limitation. The score ranges from 0 to 100, with higher scores representing better health status. The treatment effect of semaglutide 2.4 mg on 6Minute Walk Distance (6MWD) was assessed by the 6-Minute Walk Test (6MWT). Baseline values of KCCQ-CSS and 6MWD reflect a highly symptomatic population.
 
 In both trials treatment with semaglutide 2.4 mg resulted in a superior effect on both KCCQ-CSS and 6MWD (Table 12). Benefits were seen both in heart failure symptoms and physical function.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 12 Results of 6MWD, KCCQ-CSS and body weight from the two 52 -week randomised trials (STEP-HFpEF and STEP-HFpEF-DM)
 
@@ -949,7 +1016,7 @@ Table 12 Results of 6MWD, KCCQ-CSS and body weight from the two 52 -week randomi
 | Change from baseline 2                        | 16.6                | 8.7                 | 13.7               | 6.4               |
 | Difference from placebo 2 [95% CI]            | 7.8 [4.8; 10.9]     | 7.8 [4.8; 10.9]     | 7.3 [4.1; 10.4]    | 7.3 [4.1; 10.4]   |
 | Patients (%) experiencing meaningful change 3 | 43.2                | 32.5                | 42.7               | 30.5              |
-| 6MWD(metres)                                  |                     |                     |                    |                   |
+| 6MWD (metres)                                 |                     |                     |                    |                   |
 | Baseline (mean) 1                             | 319.6               | 314.6               | 279.7              | 276.7             |
 | Change from baseline 2                        | 21.5                | 1.2                 | 12.7               | -1.6              |
 | Difference from placebo 2 [95% CI]            | 20.3 [8.6; 32.1]    | 20.3 [8.6; 32.1]    | 14.3 [3.7; 24.9]   | 14.3 [3.7; 24.9]  |
@@ -961,15 +1028,13 @@ Table 12 Results of 6MWD, KCCQ-CSS and body weight from the two 52 -week randomi
 
 1  Observed mean.
 
-2 Estimated using an ANCOVA model using multiple imputation and for KCCQ and 6MWD, also a composite imputation based on all data irrespective of discontinuation of randomised treatment or initiation of other anti-obesity medication or bariatric surgery.
+2  Estimated using an ANCOVA model using multiple imputation and for KCCQ and 6MWD, also a composite imputation based on all data irrespective of discontinuation of randomised treatment or initiation of other antiobesity medication or bariatric surgery.
 
-3 Meaningful within patient change threshold of 17.2 points for STEP-HFpEF trial and 16.3 points for STEP-HFpEF-DM trial (derived using an anchor-based method based on a 1-category improvement in Patient Global Impression of Status (PGI-S)). Percentages are based on subjects with an observation at the visit.
+3 Meaningful within patient change threshold of 17.2 points for STEP-HFpEF trial and 16.3 points for STEPHFpEF-DM trial (derived using an anchor-based method based on a 1-category improvement in Patient Global Impression of Status (PGI-S)). Percentages are based on subjects with an observation at the visit.
 
-4 Meaningful within patient change threshold of 22.1 metres for STEP-HFpEF trial and 25.6 metres for STEP-HFpEF-DM trial (derived using an anchor-based method using 'moderately better' in Patient Global Impression of Change (PGI-C)). Percentages are based on subjects with an observation at the visit.
+4  Meaningful within patient change threshold of 22.1 metres for STEP-HFpEF trial and 25.6 metres for STEPHFpEF-DM trial (derived using an anchor-based method using 'moderately better' in Patient Global Impression of Change (PGI-C)). Percentages are based on subjects with an observation at the visit.
 
-The treatment benefit of semaglutide over placebo was consistent across all subpopulations defined by age, sex, BMI, race, ethnicity, region, systolic blood pressure (SBP), LVEF and concomitant heart failure therapy.
-
-<div style=\"page-break-after: always\"></div>
+The treatment benefit of semaglutide over placebo was consistent across all subpopulations defined by age, gender, BMI, race, ethnicity, region, systolic blood pressure (SBP), LVEF and concomitant heart failure therapy.
 
 ## Paediatric population
 
@@ -977,7 +1042,9 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## STEP TEENS: Weight management in adolescent patients
 
-In a 68-week double-blind trial 201 pubertal adolescents, ages 12 to &lt;18 years, with obesity or overweight and at least one weight-related comorbidity were randomised 2:1 to semaglutide or placebo. All patients were on a reduced-calorie diet and increased physical activity throughout the trial.
+In a 68-week double-blind trial 201 pubertal adolescents, aged 12 to &lt; 18 years, with obesity or overweight and at least one weight-related comorbidity were randomised 2:1 to semaglutide or placebo. All patients were on a reduced-calorie diet and increased physical activity throughout the trial.
+
+<div style=\"page-break-after: always\"></div>
 
 At end of treatment (week 68), the improvement in BMI with semaglutide was superior and clinically meaningful compared with placebo (see Table 13 and Figure 10). Furthermore, a higher proportion of patients achieved ≥5%, 10% and ≥15% weight loss with semaglutide compared with placebo (see Table 13).
 
@@ -1006,7 +1073,7 @@ Table 13 STEP TEENS: Results at week 68
 | Baseline                                  | 111.9                  | 107.3     |
 | Change from baseline 1                    | -12.7                  | -0.6      |
 | Difference from placebo 1 [95% CI]        | -12.1 [-15.6; -8.7]    | -         |
-| Systolic blood pressure(mmHg)             |                        |           |
+| Systolic blood pressure (mmHg)            |                        |           |
 | Baseline                                  | 120                    | 120       |
 | Change from baseline 1                    | -2.7                   | -0.8      |
 | Difference from placebo 1 [95% CI]        | -1.9 [-5.0; 1.1]       | -         |
@@ -1014,6 +1081,10 @@ Table 13 STEP TEENS: Results at week 68
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
+
+Semaglutide 2.4 mg subcutaneous Multiple imputation (MI)
+
+Placebo
 
 Observed values for patients completing each scheduled visit, and estimates with multiple imputations (MI) from retrieved dropouts
 
@@ -1025,11 +1096,13 @@ Compared to native GLP-1, semaglutide has a prolonged half-life of around 1 week
 
 ## Absorption
 
-The average semaglutide steady state concentration following s.c. administration of the 2.4 mg and 7.2 mg semaglutide maintenance doses was approximately 75 nmol/L and 236 nmol/L, respectively, in patients with overweight (BMI ≥27 kg/m 2 to &lt;30 kg/m 2 ) or obesity (BMI ≥30 kg/m 2 ) based on data from phase 3 trials, where 90% of patients had average concentrations between 51 nmol/L and 110 nmol/L and between 164 nmol/L and 332 nmol/L, respectively. The steady state exposure of semaglutide increased proportionally with doses from 0.25 mg up to 7.2 mg once weekly. Steady state exposure was stable with time as assessed up to week 72. Similar exposure was achieved with s.c. administration of semaglutide in the abdomen, thigh, or upper arm. The absolute bioavailability of semaglutide was 89%.
+The average semaglutide steady state concentration following subcutaneous administration of the 2.4 mg and 7.2 mg semaglutide maintenance doses was approximately 75 nmol/L and 236 nmol/L, respectively, in patients with overweight (BMI ≥27 kg/m 2 to &lt; 30 kg/m 2 ) or obesity (BMI ≥30 kg/m 2 ) based on data from phase 3 trials, where 90% of patients had average concentrations between 51 nmol/L and 110 nmol/L and between 164 nmol/L and 332 nmol/L, respectively. The steady state exposure of semaglutide increased proportionally with doses from 0.25 mg up to 7.2 mg once weekly. Steady state exposure was stable with time as assessed up to week 72. Similar exposure was achieved with subcutaneous administration of semaglutide in the abdomen, thigh, or upper arm. The absolute bioavailability of semaglutide was 89%.
 
 ## Distribution
 
-The mean volume of distribution of semaglutide following s.c. administration in patients with overweight or obesity was approximately 12.4 L. Semaglutide is extensively bound to plasma albumin (&gt;99%).
+The mean volume of distribution of semaglutide following subcutaneous administration in patients with overweight or obesity was approximately 12.4 L. Semaglutide is extensively bound to plasma albumin (&gt; 99%).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Metabolism/biotransformation
 
@@ -1037,11 +1110,7 @@ Prior to excretion, semaglutide is extensively metabolised through proteolytic c
 
 ## Elimination
 
-The primary excretion routes of semaglutide-related material are via the urine and faeces. Approximately 3% of the absorbed dose was excreted in the urine as intact semaglutide.
-
-<div style=\"page-break-after: always\"></div>
-
-The clearance of semaglutide in patients with overweight (BMI ≥27 kg/m 2 to &lt;30 kg/m 2 ) or obesity (BMI ≥30 kg/m 2 ) was approximately 0.05 L/h. With an elimination half-life of approximately 1 week, semaglutide will be present in the circulation for approximately 7 weeks after the last dose of 2.4 mg.
+The primary excretion routes of semaglutide-related material are via the urine and faeces. Approximately 3% of the absorbed dose was excreted in the urine as intact semaglutide. The clearance of semaglutide in patients with overweight (BMI ≥27 kg/m 2 to &lt; 30 kg/m 2 ) or obesity (BMI ≥30 kg/m 2 ) was approximately 0.05 L/h. With an elimination half-life of approximately 1 week, semaglutide will be present in the circulation for approximately 7 weeks after the last dose of 2.4 mg.
 
 ## Special populations
 
@@ -1059,7 +1128,7 @@ Body weight had an effect on the exposure of semaglutide. Higher body weight was
 
 ## Renal impairment
 
-Renal impairment did not impact the pharmacokinetics of semaglutide in a clinically relevant manner. This was shown with a single dose of 0.5 mg semaglutide for patients with different degrees of renal impairment (mild, moderate, severe or patients in dialysis) compared with patients with normal renal function. This was also shown for patients with overweight (BMI ≥27 kg/m 2 to &lt;30 kg/m 2 ) or obesity (BMI ≥30 kg/m 2 ) and mild to moderate renal impairment based on data from phase 3a trials.
+Renal impairment did not impact the pharmacokinetics of semaglutide in a clinically relevant manner. This was shown with a single dose of 0.5 mg semaglutide for patients with different degrees of renal impairment (mild, moderate, severe or patients in dialysis) compared with patients with normal renal function. This was also shown for patients with overweight (BMI ≥27 kg/m 2 to &lt; 30 kg/m 2 ) or obesity (BMI ≥30 kg/m 2 ) and mild to moderate renal impairment based on data from phase 3a trials.
 
 ## Hepatic impairment
 
@@ -1075,7 +1144,11 @@ Development of anti-semaglutide antibodies when treated with semaglutide occurre
 
 ## Paediatrics
 
-Pharmacokinetic properties for semaglutide were assessed in a clinical trial for adolescent patients with obesity or overweight and at least one weight-related comorbidity ages 12 to &lt;18 years (124 patients, body weight 61.6-211.9 kg). The semaglutide exposure in adolescents was similar to that in adults with obesity or overweight.
+Pharmacokinetic properties for semaglutide were assessed in a clinical trial for adolescent patients with obesity or overweight and at least one weight-related comorbidity ages 12 to &lt; 18 years
+
+<div style=\"page-break-after: always\"></div>
+
+(124 patients, body weight 61.6-211.9 kg). The semaglutide exposure in adolescents was similar to that in adults with obesity or overweight.
 
 Safety and efficacy of semaglutide in children below 12 years of age have not been studied.
 
@@ -1083,13 +1156,758 @@ Safety and efficacy of semaglutide in children below 12 years of age have not be
 
 Preclinical data reveal no special hazards for humans based on conventional studies of safety pharmacology, repeat-dose toxicity or genotoxicity.
 
-Non-lethal thyroid C-cell tumours observed in rodents are a class effect for GLP-1 receptor agonists. In 2-year carcinogenicity studies in rats and mice, semaglutide caused thyroid C-cell tumours at
+Non-lethal thyroid C-cell tumours observed in rodents are a class effect for GLP-1 receptor agonists. In 2-year carcinogenicity studies in rats and mice, semaglutide caused thyroid C-cell tumours at clinically relevant exposures. No other treatment-related tumours were observed. The rodent C-cell tumours are caused by a non-genotoxic, specific GLP-1 receptor mediated mechanism to which rodents are particularly sensitive. The relevance for humans is considered to be low, but cannot be completely excluded.
+
+In fertility studies in rats, semaglutide did not affect mating performance or male fertility. In female rats, an increase in oestrous cycle length and a small reduction in corpora lutea (ovulations) were observed at doses associated with maternal body weight loss.
+
+In embryo-foetal development studies in rats, semaglutide caused embryotoxicity below clinically relevant exposures. Semaglutide caused marked reductions in maternal body weight and reductions in embryonic survival and growth. In foetuses, major skeletal and visceral malformations were observed, including effects on long bones, ribs, vertebrae, tail, blood vessels and brain ventricles. Mechanistic evaluations indicated that the embryotoxicity involved a GLP-1 receptor mediated impairment of the nutrient supply to the embryo across the rat yolk sac. Due to species differences in yolk sac anatomy and function, and due to lack of GLP-1 receptor expression in the yolk sac of non-human primates, this mechanism is considered unlikely to be of relevance to humans. However, a direct effect of semaglutide on the foetus cannot be excluded.
+
+In developmental toxicity studies in rabbits and cynomolgus monkeys, increased pregnancy loss and slightly increased incidence of foetal abnormalities were observed at clinically relevant exposures. The findings coincided with marked maternal body weight loss of up to 16%. Whether these effects are related to the decreased maternal food consumption as a direct GLP-1 effect is unknown.
+
+Postnatal growth and development were evaluated in cynomolgus monkeys. Infants were slightly smaller at delivery but recovered during the lactation period.
+
+In juvenile rats, semaglutide caused delayed sexual maturation in both males and females. These delays had no impact upon fertility and reproductive capacity of either sex, or on the ability of the females to maintain pregnancy.
 
 <div style=\"page-break-after: always\"></div>
 
-clinically relevant exposures. No other treatment-related tumours were observed. The rodent C-cell tumours are caused by a non-genotoxic, specific GLP-1 receptor mediated mechanism to which rodents are particularly sensitive. The relevance for humans is considered to be low, but cannot be completely excluded.
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Pre-filled syringe and Pre-filled pen, single-dose Disodium phosphate, dihydrate Sodium chloride Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injections
+
+Pre-filled pen, FlexTouch Disodium phosphate, dihydrate Propylene glycol Phenol Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injection
+
+## 6.2 Incompatibilities
+
+In the absence of compatibility studies this medicinal product must not be mixed with other medicinal products.
+
+## 6.3 Shelf life
+
+Pre-filled pen, single-dose
+
+2 years
+
+Wegovy may be stored unrefrigerated for up to 28 days at a temperature not above 30°C. Discard the pen if it has been out of the refrigerator for more than 28 days.
+
+## Pre-filled pen, FlexTouch
+
+Wegovy 0.25 mg FlexTouch solution for injection in pre-filled pen
+
+Wegovy 0.5 mg FlexTouch solution for injection in pre-filled pen Wegovy 1 mg FlexTouch solution for injection in pre-filled pen Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen
+
+Wegovy can be distributed to the patient at a temperature below 30°C for up to 48 hours.
+
+Before use: 3 years.
+
+After first use: 6 weeks. Store below 30°C or in a refrigerator (2°C to 8°C).
+
+Pre-filled syringe
+
+2 years.
+
+Wegovy may be stored unrefrigerated for up to 28 days at a temperature not above 30°C. Discard the syringe if it has been out of the refrigerator for more than 28 days.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6.4 Special precautions for storage
+
+Store in a refrigerator (2°C to 8°C). Keep away from the cooling element. Do not freeze.
+
+## Pre-filled pen, single-dose
+
+Store the pen in the original carton in order to protect from light.
+
+## Pre-filled pen, FlexTouch
+
+Keep the pen cap on when the pen is not in use in order to protect it from light.
+
+## Pre-filled syringe
+
+Store the syringe in the original carton in order to protect from light.
+
+## 6.5 Nature and contents of container
+
+## Pre-filled pen, single-dose
+
+1 mL glass syringe (type I glass) with attached stainless steel needle, rigid needle shield (type II/polyisoprene) and a rubber plunger (type I/chlorobutyl).
+
+## Pre-filled pen, FlexTouch (0.25 mg, 0.5 mg) 1.5 mL pre-filled pen
+
+1.5 mL glass cartridge (type I glass) closed at the one end with a rubber plunger (chlorobutyl) and at the other end with an aluminium cap with a laminated rubber sheet (bromobutyl/polyisoprene) inserted. The cartridge is assembled into a disposable pre-filled pen made of polypropylene, polyoxymethylene, polycarbonate and acrylonitrile butadiene styrene.
+
+Pre-filled pen, FlexTouch (0.5 mg, 1 mg, 1.7 mg and 2.4 mg) 3 mL pre-filled pen
+
+3 mL glass cartridge (type I glass) closed at the one end with a rubber plunger (chlorobutyl) and at the other end with an aluminium cap with a laminated rubber sheet (bromobutyl/polyisoprene) inserted. The cartridge is assembled into a disposable pre-filled pen made of polypropylene, polyoxymethylene, polycarbonate and acrylonitrile butadiene styrene.
+
+## Pre-filled syringe
+
+1 mL glass syringe (type I glass) with attached stainless steel needle, rigid needle shield (type II/polyisoprene) and a rubber plunger (type I/chlorobutyl). The pre-filled syringe is assembled with a polypropylene plunger rod and a polypropylene finger grip.
+
+## Pack sizes
+
+Pre-filled pen, single-dose (0.25 mg, 0.5 mg, 1 mg, 1.7 mg, 2.4 mg and 7.2 mg)
+
+Pack size of 4 pre-filled pens.
+
+Pre-filled pen, FlexTouch (0.25 mg, 0.5 mg, 1 mg and 1.7 mg)
+
+Pack size of 1 pre-filled pen and 4 disposable NovoFine Plus needles.
+
+<div style=\"page-break-after: always\"></div>
+
+## Pre-filled pen, FlexTouch (2.4 mg)
+
+Pack sizes:
+
+1 pre-filled pen and 4 disposable NovoFine Plus needles.
+
+3 pre-filled pens and 12 disposable NovoFine Plus needles.
+
+Pre-filled syringe (0.25, 0.5, 1, 1.7 and 2.4 mg)
+
+Pack size of 4 pre-filled syringes.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal and other handling
+
+Wegovy solution for injection should not be used if it does not appear clear and colourless. Wegovy should not be used if it has been frozen.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+Pre-filled pen, single-dose
+
+The pen is for single-dose only.
+
+## Pre-filled pen, FlexTouch
+
+This pen is for multi-use. It contains 4 doses. After having injected the 4 doses, there might still be solution left in the pen despite having administered correctly. Any solution left is insufficient for a dose and the pen should be disposed of.
+
+The patient should be advised to discard the injection needle in accordance with local requirements after each injection and store the Wegovy pen without an injection needle attached. This may prevent blocked needles, contamination, infection, leakage of solution and inaccurate dosing.
+
+The pen is for use by one person only.
+
+Wegovy can be administered with 30 G, 31 G, and 32 G disposable needles up to a length of 8 mm.
+
+## Pre-filled syringe
+
+The syringe is for single-dose only.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
+
+<div style=\"page-break-after: always\"></div>
+
+## 8. MARKETING AUTHORISATION NUMBERS
+
+```
+EU/1/21/1608/001 EU/1/21/1608/002 EU/1/21/1608/003 EU/1/21/1608/004 EU/1/21/1608/005 EU/1/21/1608/006 EU/1/21/1608/007 EU/1/21/1608/008 EU/1/21/1608/009 EU/1/21/1608/010 EU/1/21/1608/011 EU/1/21/1608/012 EU/1/21/1608/025 EU/1/21/1608/026 EU/1/21/1608/027 EU/1/21/1608/028 EU/1/21/1608/029 EU/1/21/1608/030
+```
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 06 January 2022
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wegovy 1.5 mg tablets
+
+Wegovy 4 mg tablets
+
+Wegovy 9 mg tablets
+
+Wegovy 25 mg tablets
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Wegovy 1.5 mg tablets
+
+Each tablet contains 1.5 mg semaglutide*.
+
+Wegovy 4 mg tablets
+
+Each tablet contains 4 mg semaglutide*.
+
+Wegovy 9 mg tablets
+
+Each tablet contains 9 mg semaglutide*.
+
+Wegovy 25 mg tablets
+
+Each tablet contains 25 mg semaglutide*.
+
+*human glucagon-like peptide-1 (GLP-1) analogue produced in Saccharomyces cerevisiae cells by recombinant DNA technology.
+
+Excipient with known effect
+
+Wegovy 25 mg tablets
+
+Each tablet contains 23 mg sodium.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Tablet
+
+Wegovy 1.5 mg tablets
+
+White to light yellow and round (6.5 mm in diameter) debossed with '1.5' on one side and 'novo' on the other side.
+
+## Wegovy 4 mg tablets
+
+White to light yellow and round (6.5 mm in diameter) debossed with '4' on one side and 'novo' on the other side.
+
+<div style=\"page-break-after: always\"></div>
+
+## Wegovy 9 mg tablets
+
+White to light yellow and round (6.5 mm in diameter) debossed with '9' on one side and 'novo' on the other side.
+
+## Wegovy 25 mg tablets
+
+White to light yellow, oval shaped (6.8 mm x 12 mm) debossed with '25' on one side and 'novo' on the other side.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+Wegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of
+
+- ≥ 30 kg/m 2 (obesity), or
+
+· ≥ 27 kg/m 2 to &lt; 30 kg/m 2 (overweight) in the presence of at least one weight-related comorbidity e.g. dysglycaemia (prediabetes or type 2 diabetes mellitus), hypertension, dyslipidaemia, obstructive sleep apnoea or cardiovascular disease.
+
+For trial results with respect to populations studied, see section 5.1.
+
+## 4.2 Posology and method of administration
+
+## Posology
+
+The starting dose for orally administered semaglutide is 1.5 mg once daily. After four weeks at this dose, the dose escalation steps for orally administered semaglutide once daily are 4 mg, 9 mg and 25 mg with a minimum duration of four weeks at each dose level. The dose should be escalated until 25 mg (maintenance dose). If needed, the dose can be maintained at the previous dose level.
+
+The maximum recommended single daily dose of orally administered semaglutide is 25 mg. Orally administered semaglutide should always be taken as only one tablet per day. Taking more than one tablet, per day should not be done to achieve the effect of a higher dose.
+
+## Switching from subcutaneous to oral semaglutide
+
+The effect of switching between subcutaneous and oral semaglutide cannot easily be predicted because oral semaglutide displays higher pharmacokinetic variability in absorption compared to subcutaneous semaglutide.
+
+Patients treated with subcutaneous semaglutide 2.4 mg once weekly can be transitioned to oral semaglutide 25 mg once daily.
+
+Patients can start oral semaglutide (Wegovy tablet) one week after their last dose of subcutaneous semaglutide.
+
+## Patients with type 2 diabetes
+
+The risk of hypoglycaemia can be lowered by reducing the dose of sulfonylurea or insulin when initiating treatment with semaglutide (see sections 4.4 and 4.8).
+
+## Missed dose
+
+If a dose is missed, the missed dose should be skipped, and the next dose should be taken the following day.
+
+<div style=\"page-break-after: always\"></div>
+
+## Special populations
+
+## Elderly (≥ 65 years of age)
+
+No dose adjustment is required based on age. Therapeutic experience in patients ≥ 85 years of age is limited.
+
+## Patients with renal impairment
+
+No dose adjustment is required for patients with mild or moderate renal impairment. Experience with the use of semaglutide in patients with severe renal impairment is limited. Semaglutide is not recommended for use in patients with severe renal impairment (eGFR &lt; 30 mL/min/1.73m 2 ) including patients with end-stage renal disease (see sections 4.4, 4.8 and 5.2).
+
+## Patients with hepatic impairment
+
+No dose adjustment is required for patients with mild or moderate hepatic impairment. Experience with the use of semaglutide in patients with severe hepatic impairment is limited. Semaglutide is not recommended for use in patients with severe hepatic impairment and should be used cautiously in patients with mild or moderate hepatic impairment (see sections 4.4 and 5.2).
+
+## Paediatric population
+
+The safety and efficacy of orally administered semaglutide in children and adolescents below 18 years have not been established. No data is available.
+
+## Method of administration
+
+Wegovy tablet is for oral use.
+
+- This medicinal product should be taken on an empty stomach after a recommended fasting period of at least 8 hours (see section 5.2).
+- It should be swallowed whole with a sip of water (up to half a glass of water equivalent to 120 mL). Tablets should not be split, crushed or chewed, as it is not known whether this impacts absorption of semaglutide.
+- Patients should wait at least 30 minutes before eating, drinking or taking other oral medicinal products. Waiting less than 30 minutes decreases the absorption of semaglutide (see sections 4.5 and 5.2).
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+## 4.4 Special warnings and precautions for use
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+## Aspiration in association with general anaesthesia or deep sedation
+
+Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation. Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
+
+## Gastrointestinal effects and dehydration
+
+Use of GLP-1 receptor agonists may be associated with gastrointestinal adverse reactions. This should be considered when treating patients with impaired renal function, as nausea, vomiting, and diarrhoea may cause dehydration, which in rare cases can lead to a deterioration of renal function (see section 4.8). Patients treated with semaglutide should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion.
+
+<div style=\"page-break-after: always\"></div>
+
+## Acute pancreatitis
+
+Acute pancreatitis has been observed with the use of GLP-1 receptor agonists (see section 4.8). Patients should be informed of the characteristic symptoms of acute pancreatitis. If pancreatitis is suspected, semaglutide should be discontinued; if confirmed, semaglutide should not be restarted. Caution should be exercised in patients with a history of pancreatitis.
+
+In the absence of other signs and symptoms of acute pancreatitis, elevations in pancreatic enzymes alone are not predictive of acute pancreatitis.
+
+## Non-arteritic anterior ischaemic optic neuropathy (NAION)
+
+Data from epidemiological studies indicates an increased risk for non-arteritic anterior ischaemic optic neuropathy (NAION) during treatment with semaglutide. There is no identified time interval for when NAION may develop following treatment start. A sudden loss of vision should lead to ophthalmological examination and treatment with semaglutide should be discontinued if NAION is confirmed (see section 4.8).
+
+## Patients with type 2 diabetes
+
+Semaglutide should not be used as a substitute for insulin in patients with type 2 diabetes.
+
+Semaglutide should not be used in combination with other GLP-1 receptor agonist products. It has not been evaluated and an increased risk of adverse reactions related to overdose is considered likely.
+
+Compliance with the dosing regimen is recommended for the optimal effect of semaglutide. If the treatment response with semaglutide is lower than expected, the treating physician should be aware that the absorption of semaglutide is highly variable and may be minimal, and that the absolute bioavailability of semaglutide is low.
+
+Furthermore, patients with diabetes have been predicted to have lower drug exposure and less weight reduction than patients without diabetes.
+
+In patients with type 2 diabetes with an inadequate response to oral semaglutide, consider switching to subcutaneous semaglutide.
+
+## Hypoglycaemia in patients with type 2 diabetes
+
+Insulin and sulfonylurea are known to cause hypoglycaemia. Patients treated with semaglutide in combination with a sulfonylurea or insulin may have an increased risk of hypoglycaemia. The risk of hypoglycaemia can be lowered by reducing the dose of sulfonylurea or insulin when initiating treatment with a GLP-1 receptor agonist.
+
+## Diabetic retinopathy in patients with type 2 diabetes
+
+In patients with diabetic retinopathy treated with semaglutide, an increased risk of developing diabetic retinopathy complications has been observed (see section 4.8). Rapid improvement in glucose control has been associated with a temporary worsening of diabetic retinopathy, but other mechanisms cannot be excluded. Patients with diabetic retinopathy using semaglutide should be monitored closely and treated according to clinical guidelines. There is no experience with Wegovy in patients with type 2 diabetes with uncontrolled or potentially unstable diabetic retinopathy. In these patients, treatment with Wegovy is not recommended.
+
+<div style=\"page-break-after: always\"></div>
+
+## Patients with gastroparesis
+
+Semaglutide treated patients with gastroparesis may experience more serious or severe gastrointestinal adverse reactions. Semaglutide should be used with caution in these patients, and semaglutide is not recommended if gastroparesis is severe (see section 4.8).
+
+## Populations not studied
+
+The safety and efficacy of subcutaneous or oral semaglutide have not been investigated in patients:
+
+- treated with other products for weight management,
+- with type 1 diabetes,
+- with severe renal impairment (see section 4.2),
+- with severe hepatic impairment (see section 4.2),
+- with congestive heart failure New York Heart Association (NYHA) class IV.
+
+Use in these patients is not recommended.
+
+There is limited experience with subcutaneous or oral semaglutide in patients:
+
+- aged 85 years or more (see section 4.2),
+- with mild or moderate hepatic impairment (see section 4.2),
+- with inflammatory bowel disease,
+- with type 2 diabetes and HbA1c &lt; 8% for the 25 mg oral semaglutide,
+- with type 2 diabetes on concomitant insulin for the 25 mg oral semaglutide.
+
+Use with caution in these patients.
+
+## Excipient with known effect
+
+## Sodium
+
+Wegovy 1.5 mg, 4 mg and 9 mg tablets contain less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+
+Wegovy 25 mg tablets contain 23 mg sodium per tablet, equivalent to 1% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+Semaglutide delays gastric emptying which may influence the absorption of other oral medicinal products.
+
+## Effects of semaglutide on other medicinal products
+
+## Thyroxine
+
+Total exposure (Area Under the Curve (AUC)) of thyroxine (adjusted for endogenous levels) was increased by 33% following administration of a single dose of levothyroxine. Maximum exposure (Cmax) was unchanged. Monitoring of thyroid parameters should be considered when treating patients with semaglutide at the same time as levothyroxine.
+
+## Warfarin and other coumarin derivatives
+
+Semaglutide did not change the AUC or Cmax of R- and S-warfarin following a single dose of warfarin, and the pharmacodynamic effects of warfarin as measured by the international normalised ratio (INR) were not affected in a clinically relevant manner. However, cases of decreased INR have been reported during concomitant use of acenocoumarol and semaglutide. Upon initiation of semaglutide treatment in patients on warfarin or other coumarin derivatives, frequent monitoring of INR is recommended.
+
+## Rosuvastatin
+
+AUC of rosuvastatin was increased by 41% [90% CI: 24; 60] when co-administered with semaglutide. Based on the wide therapeutic index of rosuvastatin the magnitude of changes in the exposure is not considered clinically relevant.
+
+<div style=\"page-break-after: always\"></div>
+
+## Digoxin, oral contraceptives, metformin, furosemide
+
+No clinically relevant change in AUC or Cmax of digoxin, oral contraceptives (containing ethinylestradiol and levonorgestrel), metformin or furosemide was observed when concurrently administered with semaglutide.
+
+Interactions with medicinal products with very low bioavailability (1%) have not been evaluated.
+
+## Effects of other medicinal products on semaglutide
+
+## Omeprazole
+
+No clinically relevant change in AUC or Cmax of semaglutide was observed when taken with omeprazole.
+
+In a trial investigating the pharmacokinetics of semaglutide co-administered with five other tablets, the AUC of semaglutide decreased by 34% and Cmax by 32%. This suggests that the presence of multiple tablets in the stomach influences the absorption of semaglutide if co-administered at the same time. After administering semaglutide, the patients should wait 30 minutes before taking other oral medicinal products (see section 4.2).
+
+## Paediatric population
+
+Interaction studies have only been performed in adults.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Women of childbearing potential
+
+Women of childbearing potential are recommended to use contraception when treated with semaglutide (see section 4.5).
+
+## Pregnancy
+
+Studies in animals have shown reproductive toxicity (see section 5.3). There are limited data from the use of semaglutide in pregnant women. Therefore, semaglutide should not be used during pregnancy. If a patient wishes to become pregnant, or pregnancy occurs, semaglutide should be discontinued. Semaglutide should be discontinued at least 2 months before a planned pregnancy due to the long halflife (see section 5.2).
+
+## Breast-feeding
+
+No measurable concentrations of semaglutide were found in breast milk of lactating women. Salcaprozate sodium was present in breast milk and some of its metabolites were excreted in breast milk at low concentrations. A risk to newborns/infants cannot be excluded. Wegovy should not be used during breast-feeding.
+
+## Fertility
+
+The effect of semaglutide on fertility in humans is unknown. Semaglutide did not affect male fertility in rats. In female rats, an increase in oestrous length and a small reduction in number of ovulations were observed at doses associated with maternal body weight loss.
+
+## 4.7 Effects on ability to drive and use machines
+
+Semaglutide has no or negligible influence on the ability to drive or use machines. However, dizziness can be experienced mainly during the dose escalation period. Driving or use of machines should be done cautiously if dizziness occurs.
+
+<div style=\"page-break-after: always\"></div>
+
+## Patients with type 2 diabetes
+
+If semaglutide is used in combination with a sulfonylurea or insulin, patients should be advised to take precautions to avoid hypoglycaemia while driving and using machines (see section 4.4).
+
+## 4.8 Undesirable effects
+
+## Summary of safety profile
+
+The most frequently reported adverse reactions were gastrointestinal disorders including nausea, diarrhoea, constipation, abdominal pain, dyspepsia and vomiting. These reactions were mainly seen in the dose-escalation period (see Description of selected adverse reactions).
+
+The safety profile of oral semaglutide was consistent with the safety profile of subcutaneous semaglutide.
+
+## Tabulated list of adverse reactions
+
+Table 1 lists adverse reactions identified in clinical trials in adults and post-marketing reports. The frequencies are based, unless otherwise specified, on a pool of the subcutaneous semaglutide phase 3a trials (STEP 1-4), where 2650 adult patients were exposed to Wegovy. The duration of the trials was 68 weeks. The adverse reactions in OASIS 4 (204 adults with obesity or overweight with at least one weight-related comorbidity were exposed to oral semaglutide for 64 weeks) had similar frequencies to the subcutaneous phase 3a trials, except for dyspepsia which had a higher frequency category. Events not relevant for oral administration are omitted in the following overview.
+
+Adverse reactions are listed by MedDRA system organ class and frequency. Frequency categories are defined as: Very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency category, adverse reactions are presented in order of decreasing seriousness.
+
+Table 1 Adverse reactions
+
+| MedDRA system organ class          | Very common   | Common                                                  | Uncommo n                | Rare                   | Very rare                                                   | Not known   |
+|------------------------------------|---------------|---------------------------------------------------------|--------------------------|------------------------|-------------------------------------------------------------|-------------|
+| Immune system disorders            |               |                                                         |                          | Anaphylacti c reaction |                                                             |             |
+| Metabolism and nutrition disorders |               | Hypoglycaemia in patients with type 2 diabetes a        |                          |                        |                                                             |             |
+| Nervous system disorders           | Headache b    | Dizziness b Dysgeusia b,c Dysaesthesia a,c,g            |                          |                        |                                                             |             |
+| Eye disorders                      |               | Diabetic retinopathy in patients with type 2 diabetes a |                          |                        | Non- arteritic anterior ischaemic optic neuropath y (NAION) |             |
+| Cardiac disorders                  |               |                                                         | Increased heart rate a,c |                        |                                                             |             |
+
+<div style=\"page-break-after: always\"></div>
+
+| MedDRA system organ class                            | Very common                                                                              | Common                                                                                             | Uncommo n                                     | Rare        | Very rare   | Not known                     |
+|------------------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------------|-------------------------------|
+| Vascular disorders                                   |                                                                                          |                                                                                                    | Hypotensio n Orthostatic hypotension          |             |             |                               |
+| Gastrointestin al disorders                          | Vomiting a,b Diarrhoea a,b Constipation a ,b Dyspepsia b,d Nausea a,b Abdominal pain b,c | Gastritis b,c Gastrooesophage al reflux disease b Eructation b Flatulence b Abdominal distension b | Acute pancreatitis a Delayed gastric emptying |             |             | Intestinal obstruction c, e,f |
+| Hepatobiliary disorders                              |                                                                                          | Cholelithiasis a                                                                                   |                                               |             |             |                               |
+| Skin and subcutaneous tissue disorders               |                                                                                          | Hair loss a                                                                                        |                                               | Angioedem a |             |                               |
+| General disorders and administration site conditions | Fatigue b,c                                                                              |                                                                                                    |                                               |             |             |                               |
+| Investigations                                       |                                                                                          |                                                                                                    | Increased amylase c Increased lipase c        |             |             |                               |
+
+## Description of selected adverse reactions
+
+The below adverse reactions are applicable for oral semaglutide. Frequencies on specific adverse reactions, unless otherwise specified, pertains to the OASIS 4 phase 3 trial.
+
+## Gastrointestinal adverse reactions
+
+The events were most frequently reported during dose escalation. Over the 64 weeks trial period, nausea occurred in 46.6% of patients when treated with oral semaglutide (18.6% for placebo), vomiting in 30.9% (5.9% for placebo), dyspepsia in 18.1% (8.8% for placebo), diarrhoea in 17.6% (8.8% for placebo), and abdominal pain in 16.7% (7.8% for placebo). Most events were mild to moderate in severity and of short duration. Constipation occurred in 20.1% of patients treated with semaglutide (9.8% for placebo) and was mild to moderate in severity and of longer duration.
+
+Patients with a history of gastroparesis may experience more serious or severe gastrointestinal effects when treated with semaglutide.
+
+Patients with moderate renal impairment (eGFR ≥ 30 to &lt; 60 mL/min/1.73 m 2 ) may experience more gastrointestinal effects when treated with semaglutide.
+
+The gastrointestinal events led to permanent treatment discontinuation in 3.4% of patients treated with oral semaglutide.
+
+<div style=\"page-break-after: always\"></div>
+
+## Acute pancreatitis
+
+Acute pancreatitis was reported in 0 % of patients treated with oral semaglutide and 1.0 % of patients treated with placebo. The frequency of adjudication-confirmed acute pancreatitis reported in the STEP phase 3a clinical trials was 0.2 % for semaglutide and &lt; 0.1 % for placebo, respectively. In SELECT, the cardiovascular outcomes trial, the frequency of acute pancreatitis confirmed by adjudication was 0.2 % for semaglutide and 0.3 % for placebo.
+
+## Acute gallstone disease/Cholelithiasis
+
+Cholelithiasis was reported in 2.5 % and led to cholecystitis in 0 % of patients treated with oral semaglutide. Cholelithiasis and cholecystitis were reported in 1 % and 0 %, respectively, of patients treated with placebo.
+
+## Hair loss
+
+Hair loss was reported in 6.4 % of patients treated with oral semaglutide and in 2.0 % of patients treated with placebo. All events were mild or moderate and half of them recovered by end of the trial. Hair loss was reported more frequently in patients with a greater weight loss (≥ 20 %).
+
+## Increased heart rate
+
+A mean increase of 2 beats per minute (bpm) from a baseline mean of 72 bpm was observed in patients treated with oral semaglutide. The proportions of subjects with an increase in pulse from baseline ≥ 20 bpm at any timepoint during the on-treatment period were 26.5 % in the semaglutide group vs. 20.8 % in the placebo group.
+
+## Immunogenicity
+
+Consistent with the potentially immunogenic properties of medicinal products containing proteins or peptides, patients may develop antibodies following treatment with semaglutide. The proportion of patients testing positive for anti-semaglutide antibodies with oral semaglutide 14 mg and 50 mg at any time post-baseline was low (0.5 % and 0.3 % for Rybelsus and Wegovy tablets, respectively) and no patients had anti-semaglutide neutralising antibodies or anti-semaglutide antibodies with endogenous GLP-1 neutralising effect. During treatment, high semaglutide concentrations might have lowered the sensitivity of the assays, hence the risk of false negatives cannot be excluded. However, in subjects testing positive for anti-semaglutide antibodies, the presence of antibodies had no apparent impact on efficacy and safety.
+
+## Hypoglycaemia in patients with type 2 diabetes
+
+In STEP 2, clinically significant hypoglycaemia was observed in 6.2 % (0.1 events/patient year) of subjects treated with semaglutide 2.4 mg s.c compared with 2.5 % (0.03 events/patient year) of subjects treated with placebo. Hypoglycaemia with semaglutide was seen both with and without concomitant use of sulfonylurea. One episode (0.2 % of subjects, 0.002 events/patient year) was reported as severe in a subject not concomitantly treated with a sulfonylurea. The risk of hypoglycaemia was increased when semaglutide was used with a sulfonylurea.
+
+## Diabetic retinopathy in patients with type 2 diabetes
+
+A 2-year clinical trial investigated subcutaneous semaglutide 0.5 mg and 1 mg vs. placebo in 3 297 patients with type 2 diabetes, with high cardiovascular risk, long duration of diabetes and poorly controlled blood glucose. In this trial, adjudicated events of diabetic retinopathy complications occurred in more patients treated with semaglutide (3.0%) compared to placebo (1.8 %). This was observed in insulin-treated patients with known diabetic retinopathy. The treatment difference appeared early and persisted throughout the trial. In STEP 2, retinal disorders were reported by 6.9% of patients treated with semaglutide 2.4 mg, 6.2 % of patients treated with subcutaneous semaglutide 1 mg, and 4.2% of patients treated with placebo. The majority of events were reported as diabetic retinopathy (4.0%, 2.7%, and 2.7%, respectively) and non-proliferative retinopathy (0.7%, 0%, and 0%, respectively).
+
+## Dysaesthesia
+
+Events related to a clinical picture of altered skin sensation such as sensitive skin, hyperaesthesia, paraesthesia, skin burning sensation and allodynia were reported in 4.9% of patients treated with oral semaglutide. No events were reported in patients treated with placebo. The events were mild to moderate in severity and most patients recovered while on continued treatment.
+
+<div style=\"page-break-after: always\"></div>
+
+## Non-arteritic anterior ischaemic optic neuropathy (NAION)
+
+Results from several large epidemiological studies suggest that exposure to semaglutide in adults with type 2 diabetes is associated with an approximately two-fold increase in the relative risk of developing NAION, corresponding to approximately one additional case per 10 000 person-years of treatment.
+
+## Other special populations
+
+In the SELECT trial, in adults with established cardiovascular disease, the adverse reaction profile was similar to that seen in subcutaneous semaglutide in the weight management phase 3a trials.
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+Overdose with semaglutide may be associated with gastrointestinal disorders which could lead to dehydration. In the event of overdose the patient should be observed for clinical signs and appropriate supportive treatment initiated.
+
+## PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Drugs used in diabetes, glucagon-like peptide-1 (GLP-1) analogues, ATC code: A10BJ06.
+
+## Mechanism of action
+
+Semaglutide is a GLP-1 analogue with 94% sequence homology to human GLP-1. Semaglutide acts as a GLP-1 receptor agonist that selectively binds to and activates the GLP-1 receptor, the target for native GLP-1.
+
+GLP-1 is a physiological regulator of appetite and calorie intake, and the GLP-1 receptor is present in several areas of the brain involved in appetite regulation.
+
+Animal studies show that semaglutide works in the brain through the GLP-1 receptor. Semaglutide has direct effects on areas in the brain involved in homeostatic regulation of food intake in the hypothalamus and the brainstem. Semaglutide may affect the hedonic reward system through direct and indirect effects in brain areas including the septum, thalamus and amygdala.
+
+Clinical studies show that semaglutide reduces energy intake, increases feelings of satiety, fullness and control of eating, reduces feelings of hunger, and frequency and intensity of cravings. In addition, semaglutide reduces the preference for high fat foods.
+
+Semaglutide orchestrates the homeostatic and hedonic contributions with executive function to regulate caloric intake, appetite, reward and food choice.
+
+<div style=\"page-break-after: always\"></div>
+
+In addition, in clinical studies semaglutide has shown to reduce blood glucose in a glucose dependent manner by stimulating insulin secretion and lowering glucagon secretion when blood glucose is high. The mechanism of blood glucose lowering also involves a minor delay in gastric emptying in the early postprandial phase. During hypoglycaemia, semaglutide diminishes insulin secretion and does not impair glucagon secretion.
+
+GLP-1 receptors are also expressed in the heart, vasculature, immune system and kidneys. Semaglutide has a beneficial effect on plasma lipids, lowered systolic blood pressure and reduced inflammation in clinical studies. Furthermore, animal studies have shown that semaglutide attenuated the development of atherosclerosis and had an anti-inflammatory action in the cardiovascular system.
+
+The mechanism of action of semaglutide for cardiovascular risk reduction is likely multifactorial, in part driven by weight loss effects and effects on known cardiovascular risk factors (reduction in blood pressure, improvements in lipid profile and glucose metabolism, and anti-inflammatory effects as demonstrated by reductions in high-sensitivity C-reactive protein (hsCRP)). The exact mechanism of cardiovascular risk reduction has not been established.
+
+## Pharmacodynamic effects
+
+## Appetite, energy intake and food choice
+
+Semaglutide reduces appetite by increasing feelings of fullness and satiety, while lowering hunger and prospective food consumption.
+
+## Fasting and postprandial lipids
+
+In patients with type 2 diabetes, oral semaglutide equivalent to a dose of 9 mg compared to placebo lowered fasting triglyceride and very-low-density lipoproteins (VLDL) cholesterol concentrations by 19% [8; 28] and 20% [5; 33], respectively. The postprandial triglyceride and VLDL cholesterol response to a high fat meal was reduced by 24% [9; 36] and 21% [7; 32], respectively. ApoB48 was reduced both in fasting and postprandial state by 25% [2; 42] and 30% [15; 43], respectively.
+
+## Clinical efficacy and safety
+
+The efficacy and safety of 25 mg orally administered semaglutide (tablet) once daily for weight management in combination with a reduced calorie intake and increased physical activity have been evaluated in a 64-week double-blinded randomised placebo-controlled phase 3b trial (OASIS 4) including 307 patients (205 randomised to treatment with orally administered semaglutide).
+
+Treatment with oral semaglutide demonstrated superior, clinically meaningful, and sustained weight loss compared with placebo in patients with obesity (BMI ≥ 30 kg/m 2 ), or overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity. Furthermore, across the trials, a higher proportion of patients achieved ≥ 5%, ≥ 10%, ≥ 15% and ≥ 20% weight loss with semaglutide compared with placebo. The reduction in body weight occurred irrespective of the presence of gastrointestinal symptoms such as nausea, vomiting or diarrhoea.
+
+Treatment with oral semaglutide also showed statistically significant improvements in waist circumference, and physical functioning compared to placebo.
+
+Efficacy was demonstrated with oral semaglutide regardless of age, gender, race, ethnicity, baseline body weight, BMI, presence of type 2 diabetes and level of renal function. Variations in efficacy existed within all subgroups. Relatively greater weight loss was observed in women and in patients without type 2 diabetes as well as in patients with a lower versus higher baseline body weight.
+
+In addition, the efficacy and safety of subcutaneous semaglutide for weight management in combination with a reduced calorie intake and increased physical activity were evaluated in four 68 weeks double-blinded randomised placebo-controlled phase 3a trials (STEP 1-4). A total of 4 684 patients (2 652 randomised to treatment with subcutaneously administered semaglutide) were included in these trials. The efficacy and safety were similar between OASIS 4 and STEP 1 regardless of the route of administration.
+
+<div style=\"page-break-after: always\"></div>
+
+## OASIS 4: Weight management - once daily Wegovy 25 mg tablet (semaglutide 25 mg)
+
+In a 64week phase 3b trial, 307 adult patients with obesity (BMI ≥ 30 kg/m 2 ) or with overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity, were randomised to once daily orally administered semaglutide or placebo. All patients were on a reduced-calorie diet and increased physical activity throughout the trial.
+
+Weight loss occurred early and continued throughout the trial. At end of treatment (week 64), the weight loss was superior and clinically meaningful compared with placebo (see Table 2 and Figure 1).
+
+Furthermore, a higher proportion of patients achieved ≥ 5%, ≥ 10%, ≥ 15% and ≥ 20% weight loss with orally administered semaglutide compared with placebo (see Table 2). Among patients with prediabetes at baseline, a higher proportion of patients had a normo-glycaemic status at end of treatment with orally administered semaglutide compared to placebo (71.1% vs. 33.3%).
+
+Table 2 OASIS 4: Results at week 64
+
+|                                            | Semaglutide 25 mg tablet   |   Placebo |
+|--------------------------------------------|----------------------------|-----------|
+| Full analysis set (N)                      | 205                        |       102 |
+| Body weight                                |                            |           |
+| Baseline (kg)                              | 106.4                      |     104.8 |
+| Change (%) from baseline 1,2               | -13.6                      |      -2.2 |
+| Difference (%) from placebo 1 [95% CI]     | -11.4 [-13.9; -9]*         |           |
+| Change (kg) from baseline 1                | -14.2                      |      -2.2 |
+| Difference (kg) from placebo 1 [95% CI]    | -12.0 [-14.6; -9.5]*       |           |
+| Patients (%) achieving weight loss ≥ 5% 3  | 76.3*                      |      30.5 |
+| Patients (%) achieving weight loss ≥ 10% 3 | 59.8*                      |      14.1 |
+| Patients (%) achieving weight loss ≥ 15% 3 | 47.0*                      |       5.4 |
+| Patients (%) achieving weight loss ≥ 20% 3 | 27.5*                      |         3 |
+| Waist circumference (cm)                   |                            |           |
+| Baseline                                   | 114                        |     113.6 |
+| Change from baseline 1                     | -12.2                      |      -2.8 |
+| Difference from placebo 1 [95% CI]         | -9.5 [-12.4; -6.6]*        |           |
+| Systolic blood pressure (mmHg)             |                            |           |
+| Baseline                                   | 131                        |       131 |
+| Change from baseline 1                     | -6.8                       |      -5.4 |
+| Difference from placebo 1 [95% CI]         | -1.4 [-4.6; 1.8]           |           |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+Observed values for patients completing each scheduled visit and estimates with multiple imputations (MI) from retrieved dropouts.
+
+## Figure 1 OASIS 4: Mean change in body weight (%) from baseline to week 64
+
+While some patients have not achieved the same exposure with oral semaglutide 25 mg and subcutaneous semaglutide 2.4 mg, data from the following trials with the subcutaneous formulation are considered informative for the oral formulation.
+
+## STEP 1: Weight management
+
+In a 68-week double-blind trial, 1 961 patients with obesity (BMI ≥ 30 kg/m 2 ), or with overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity were randomised to subcutaneous semaglutide or placebo. All patients were on a reduced-calorie diet and increased physical activity throughout the trial.
+
+Weight loss occurred early and continued throughout the trial. At end of treatment (week 68), the weight loss was superior and clinically meaningful compared with placebo. Furthermore, a higher proportion of patients achieved ≥ 5%, ≥ 10%, ≥ 15% and ≥ 20% weight loss with semaglutide compared with placebo.
+
+## STEP 2: Weight management in patients with type 2 diabetes
+
+In a 68-week, double-blind trial, 1 210 patients with overweight or obesity (BMI ≥ 27 kg/m 2 ) and type 2 diabetes were randomised to either semaglutide 2.4 mg, semaglutide 1 mg once-weekly or placebo. Patients included in the trial had insufficiently controlled diabetes (HbA1c 7-10%) and were treated with either: diet and exercise alone or 1-3 oral antidiabetic drugs. All patients were on a reduced-calorie diet and increased physical activity throughout the trial.
+
+Treatment with semaglutide for 68 weeks resulted in superior and clinically meaningful reduction in body weight and in HbA1c compared to placebo.
+
+<div style=\"page-break-after: always\"></div>
+
+## STEP 3: Weight management with intensive behavioural therapy
+
+In a 68-week double-blind trial, 611 patients with obesity (BMI ≥ 30 kg/m 2 ), or with overweight (BMI ≥ 27 kg/m 2 to &lt;30 kg/m 2 ) and at least one weight-related comorbidity were randomised to subcutaneous semaglutide or placebo. During the trial, all patients received intensive behavioural therapy (IBT) consisting of a very restrictive diet, increased physical activity and behavioural counselling.
+
+Treatment with semaglutide and IBT for 68 weeks resulted in superior and clinically meaningful reduction in body weight compared to placebo.
+
+## STEP 4: Sustained weight management
+
+In a 68-week double-blind trial, 902 patients with obesity (BMI ≥ 30 kg/m 2 ), or with overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity were included in the trial. All patients were on a reduced-calorie diet and increased physical activity throughout the trial. From week 0 to week 20 (run-in), all patients received subcutaneous semaglutide. At week 20 (baseline), patients who had reached the maintenance dose of subcutaneous semaglutide 2.4 mg were randomised to continue treatment or switch to placebo.
+
+Patients who had reached the maintenance dose of 2.4 mg at week 20 (baseline) and continued treatment with semaglutide for 48 weeks (week 20-68) continued losing weight and had a superior and clinically meaningful reduction in body weight compared to those switched to placebo.
+
+## Improvement in physical functioning
+
+Oral semaglutide showed statistically significant improvement in physical functioning scores and more patients with oral semaglutide achieved a clinically meaningful improvement compared to placebo. Physical functioning was assessed using the obesity-specific questionnaire Impact of Weight on Quality of Life Lite Clinical Trials Version (IWQOL-Lite-CT).
+
+## Cardiovascular evaluation
+
+## SELECT: Cardiovascular outcomes trial in patients with overweight or obesity
+
+No cardiovascular outcomes clinical studies have been performed with oral semaglutide 25 mg in individuals with established cardiovascular disease and BMI ≥ 27 kg/m 2 .
+
+SELECT was a randomised, double-blind, placebo-controlled, event driven trial which included 17 604 patients with established cardiovascular disease and BMI≥ 27 kg/m 2 . Patients were randomised to either subcutaneous semaglutide 2.4 mg (n=8 803) or placebo (n=8 801) in addition to standard-ofcare. The median time in trial was 41.8 months.
+
+The study population consisted of female and male patients, with a mean age of 61.6 years. The mean BMI was 33.3 kg/m 2  and mean body weight was 96.7 kg. Patients with history of type 1 and type 2 diabetes were excluded.
+
+The primary endpoint was the time from randomisation to first occurrence of major adverse cardiovascular events (MACE), defined as a composite endpoint consisting of cardiovascular death (including undetermined cause of death), non-fatal myocardial infarction, or non-fatal stroke.
+
+Superiority of subcutaneous semaglutide 2.4 mg versus placebo for MACE was confirmed with a hazard ratio of 0.80 [0.72; 0.90][95% CI], corresponding to a relative risk reduction in MACE of 20 %. The reduction of MACE with subcutaneous semaglutide 2.4 mg was not impacted by age, gender, race, ethnicity, BMI at baseline, or level of renal function impairment.
+
+<div style=\"page-break-after: always\"></div>
+
+## 5.2 Pharmacokinetic properties
+
+## Absorption
+
+Orally administered semaglutide has a low absolute bioavailability and a variable absorption. Daily administration according to the recommended posology in combination with a long half-life reduces day-to-day fluctuation of the exposure.
+
+The pharmacokinetic profile of orally administered semaglutide has been characterised in healthy people and patients with overweight or obesity using population PK modelling. Following oral administration, maximum plasma concentration of semaglutide occurred 1 hour post dose. The halflife of semaglutide is approximately 1 week indicating that steady-state exposure will be reached after 4-5 weeks of once-daily administration. Average predicted concentration was approximately 77 nmol/L with 90% of subjects treated with semaglutide 25 mg having an average concentration between 27 and 186 nmol/L.
+
+The steady-state concentrations increased approximately proportionally with doses up to 25 mg once daily. The total within and between participant variability in AUC following oral semaglutide dosing was estimated at 166% after a single dose. In steady state conditions, the variability in AUC is reduced due to daily dosing and the long half-life of semaglutide, resulting in 68% total variability (33% within participant variability).
+
+Based on in vitro data, salcaprozate sodium facilitates absorption of semaglutide. The absorption of semaglutide predominantly occurs in the stomach.
+
+The estimated absolute bioavailability of semaglutide is approximately 1-2% following oral administration.
+
+Absorption of orally administered semaglutide is decreased if taken with food or large volumes of water. Different dosing schedules of semaglutide have been investigated. Studies show that longer preand post-dose fasting period results in higher absorption.
+
+## Distribution
+
+The absolute volume of distribution of semaglutide in patients with overweight or obesity is approximately 8.9 L. Semaglutide is extensively bound to plasma proteins (&gt; 99%).
+
+## Metabolism/biotransformation
+
+Prior to excretion, semaglutide is extensively metabolised through proteolytic cleavage of the peptide backbone and sequential beta-oxidation of the fatty acid side chain. The enzyme neutral endopeptidase (NEP) was identified as one of the active metabolic enzymes.
+
+## Elimination
+
+The primary excretion routes of semaglutide-related material are via the urine and faeces. Approximately 3% of the absorbed dose was excreted in the urine as intact semaglutide. The absolute clearance of semaglutide in patients with overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) or obesity (BMI ≥ 30 kg/m 2 ) is approximately 0.04 L/h. With an elimination half-life of approximately 1 week, semaglutide will be present in the circulation for approximately 7 weeks after the last dose of oral semaglutide (tablet).
+
+## Special populations
+
+## Elderly
+
+Age had no effect on the pharmacokinetics of semaglutide based on data from phase 3 trials including patients 18-92 years of age.
+
+<div style=\"page-break-after: always\"></div>
+
+## Gender, race and ethnicity
+
+Gender, race (White, Black or African American, Asian) and ethnicity (Hispanic or Latino, nonHispanic or -Latino) had no effect on the pharmacokinetics of semaglutide based on data from phase 3a trials.
+
+## Body weight
+
+Body weight had an effect on the exposure of semaglutide. Higher body weight was associated with lower exposure; a 20% difference in body weight between individuals will result in an approximate 18% difference in exposure based on subcutaneous semaglutide data. Subcutaneous and oral administration of semaglutide has provided clinically efficacious exposures over the body weight range of 54.4-245.6 kg in clinical trials.
+
+## Renal impairment
+
+Renal impairment did not impact the pharmacokinetics of semaglutide in a clinically relevant manner. This was shown following 10 consecutive days of once-daily oral doses of semaglutide for patients with different degrees of renal impairment (mild, moderate, severe or patients in dialysis) compared with patients with normal renal function. This was also shown for patients with overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) or obesity (BMI ≥ 30 kg/m 2 ) and mild to moderate renal impairment based on data from phase 3 trials.
+
+## Hepatic impairment
+
+Hepatic impairment did not have any impact on the exposure of semaglutide. The pharmacokinetics of semaglutide were evaluated in patients with different degrees of hepatic impairment (mild, moderate, severe) and compared with patients with normal hepatic function in studies following 10 consecutive days of once-daily oral doses of semaglutide.
+
+## Upper gastrointestinal tract diseases
+
+Upper gastrointestinal tract disease (chronic gastritis and/or gastroesophageal reflux disease) did not impact the pharmacokinetics of orally administrated semaglutide in a clinically relevant manner. The pharmacokinetics were evaluated in patients with type 2 diabetes with or without upper gastrointestinal tract disease dosed for 10 consecutive days with once-daily doses of orally administrated semaglutide. This was also shown for subjects with type 2 diabetes and upper gastrointestinal tract disease based on data from phase 3 studies.
+
+## Immunogenicity
+
+Development of anti-semaglutide antibodies when treated with semaglutide occurred infrequently (see section 4.8) and the response did not appear to influence semaglutide pharmacokinetics.
+
+## Paediatric population
+
+Safety and efficacy of orally administered semaglutide in children and adolescents below 18 years of age have not been studied.
+
+## 5.3 Preclinical safety data
+
+Non-clinical data reveal no special hazards for humans based on conventional studies of safety pharmacology, repeated-dose toxicity or genotoxicity.
+
+Non-lethal thyroid C-cell tumours observed in rodents are a class effect for GLP-1 receptor agonists. In 2-year carcinogenicity studies in rats and mice, semaglutide caused thyroid C-cell tumours at clinically relevant exposures. No other treatment-related tumours were observed. The rodent C-cell tumours are caused by a non-genotoxic, specific GLP-1 receptor mediated mechanism to which rodents are particularly sensitive. The relevance for humans is considered to be low but cannot be completely excluded.
 
 In fertility studies in rats, semaglutide did not affect mating performance or male fertility. In female rats, an increase in oestrous cycle length and a small reduction in corpora lutea (ovulations) were observed at doses associated with maternal body weight loss.
+
+<div style=\"page-break-after: always\"></div>
 
 In embryo-foetal development studies in rats, semaglutide caused embryotoxicity below clinically relevant exposures. Semaglutide caused marked reductions in maternal body weight and reductions in embryonic survival and growth. In foetuses, major skeletal and visceral malformations were observed, including effects on long bones, ribs, vertebrae, tail, blood vessels and brain ventricles. Mechanistic evaluations indicated that the embryotoxicity involved a GLP-1 receptor mediated impairment of the nutrient supply to the embryo across the rat yolk sac. Due to species differences in yolk sac anatomy and function, and due to lack of GLP-1 receptor expression in the yolk sac of non-human primates, this mechanism is considered unlikely to be of relevance to humans. However, a direct effect of semaglutide on the foetus cannot be excluded.
 
@@ -1103,113 +1921,37 @@ In juvenile rats, semaglutide caused delayed sexual maturation in both males and
 
 ## 6.1 List of excipients
 
-Pre-filled pen, single-dose Disodium phosphate, dihydrate Sodium chloride Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injections
-
-Pre-filled pen, FlexTouch Disodium phosphate, dihydrate Propylene glycol Phenol Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injection
+Salcaprozate sodium Magnesium stearate
 
 ## 6.2 Incompatibilities
 
-In the absence of compatibility studies this medicinal product must not be mixed with other medicinal products.
-
-<div style=\"page-break-after: always\"></div>
+Non applicable.
 
 ## 6.3 Shelf life
 
-## Pre-filled pen, single-dose
-
-2 years
-
-Wegovy may be stored unrefrigerated for up to 28 days at a temperature not above 30°C. Discard the pen if it has been out of the refrigerator for more than 28 days.
-
-## Pre-filled pen, FlexTouch
-
-Wegovy 0.25 mg FlexTouch solution for injection in pre-filled pen Wegovy 0.5 mg FlexTouch solution for injection in pre-filled pen Wegovy 1 mg FlexTouch solution for injection in pre-filled pen Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen
-
-Wegovy can be distributed to the patient at a temperature below 30°C for up to 48 hours.
-
-Before use: 3 years.
-
-After first use: 6 weeks. Store below 30°C or in a refrigerator (2°C to 8°C).
+3 years.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C to 8°C). Keep away from the cooling element. Do not freeze.
-
-Pre-filled pen, single-dose
-
-Store the pen in the original carton in order to protect from light.
-
-Pre-filled pen, FlexTouch
-
-Keep the pen cap on when the pen is not in use in order to protect it from light.
+Store in the original package in order to protect from moisture and light. This medicinal product does not require any special temperature storage conditions.
 
 ## 6.5 Nature and contents of container
 
-## Pre-filled pen, single-dose
-
-1 mL glass syringe (type I glass) with attached stainless steel needle, rigid needle shield (type II/polyisoprene) and a rubber plunger (type I/chlorobutyl).
-
-## Pre-filled pen, FlexTouch (0.25, 0.5 mg) 1.5 mL pre-filled pen
-
-1.5 mL glass cartridge (type I glass) closed at the one end with a rubber plunger (chlorobutyl) and at the other end with an aluminium cap with a laminated rubber sheet (bromobutyl/polyisoprene) inserted. The cartridge is assembled into a disposable pre-filled pen made of polypropylene, polyoxymethylene, polycarbonate and acrylonitrile butadiene styrene.
-
-## Pre-filled pen, FlexTouch (0.5 1, 1.7 and 2.4 mg) 3 mL pre-filled pen
-
-3 mL glass cartridge (type I glass) closed at the one end with a rubber plunger (chlorobutyl) and at the other end with an aluminium cap with a laminated rubber sheet (bromobutyl/polyisoprene) inserted. The cartridge is assembled into a disposable pre-filled pen made of polypropylene, polyoxymethylene, polycarbonate and acrylonitrile butadiene styrene.
-
-<div style=\"page-break-after: always\"></div>
-
-## Pack sizes
-
-Pre-filled pen, single-dose (0.25, 0.5, 1, 1.7 and 2.4 mg)
-
-Pack size of 4 pre-filled pens.
-
-Pre-filled pen, FlexTouch (0.25, 0.5, 1 and 1.7 mg)
-
-Pack size of 1 pre-filled pen and 4 disposable NovoFine Plus needles.
-
-Pre-filled pen, FlexTouch (2.4 mg)
-
-Pack sizes:
-
-1 pre-filled pen and 4 disposable NovoFine Plus needles.
-
-3 pre-filled pens and 12 disposable NovoFine Plus needles.
-
-Not all pack sizes may be marketed.
+Alu/Alu blisters of 10 tablets. Pack sizes of: 10, 30 and 90 tablets. Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Wegovy should not be used if it does not appear clear and colourless. The pen should not be used if it has been frozen.
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-Pre-filled pen, single-dose
-
-The pen is for single-dose only.
-
-Pre-filled pen, FlexTouch
-
-This pen is for multi-use. It contains 4 doses. After having injected the 4 doses, there might still be solution left in the pen despite having administered correctly. Any solution left is insufficient for a dose and the pen should be disposed of.
-
-The patient should be advised to discard the injection needle in accordance with local requirements after each injection and store the Wegovy pen without an injection needle attached. This may prevent blocked needles, contamination, infection, leakage of solution and inaccurate dosing.
-
-The pen is for use by one person only.
-
-Wegovy can be administered with 30G, 31G, and 32G disposable needles up to a length of 8 mm.
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
 
-<div style=\"page-break-after: always\"></div>
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
-## 8. MARKETING AUTHORISATION NUMBERS
-
-```
-EU/1/21/1608/001 EU/1/21/1608/002 EU/1/21/1608/003 EU/1/21/1608/004 EU/1/21/1608/005 EU/1/21/1608/006 EU/1/21/1608/007 EU/1/21/1608/008 EU/1/21/1608/009 EU/1/21/1608/010 EU/1/21/1608/011 EU/1/21/1608/012
-```
+EU/1/21/1608/013 EU/1/21/1608/014 EU/1/21/1608/015 EU/1/21/1608/016 EU/1/21/1608/017 EU/1/21/1608/018 EU/1/21/1608/019 EU/1/21/1608/020 EU/1/21/1608/021 EU/1/21/1608/022 EU/1/21/1608/023 EU/1/21/1608/024
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1217,32 +1959,50 @@ Date of first authorisation: 06 January 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer of the biological active substance
+Name and address of the manufacturers of the biological active substance
+
+Solution for injection in pre-filled pen and pre-filled syringe
 
 Novo Nordisk A/S Hallas Allé DK-4400 Kalundborg Denmark
 
-Name and address of the manufacturer responsible for batch release
+## Tablets
+
+Novo Nordisk A/S Hallas Allé DK-4400 Kalundborg Denmark
+
+Hovione FarmaCiencia S.A. Quinta são Pedro, Sete Casas PT-2674-506 Loures Portugal
+
+Novo Nordisk Pharmaceutical Industries Inc. 3612 Powhatan Road Clayton North Carolina 27527-9217 United States
+
+Name and address of the manufacturers responsible for batch release
+
+Solution for injection in pre-filled pen and pre-filled syringe
 
 Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
 
 Novo Nordisk Production SAS 45, Avenue d'Orléans 28000 Chartres France
 
+## Tablets
+
+Novo Nordisk A/S Novo Allé DK-2800 Bagsværd Denmark
+
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
+<div style=\"page-break-after: always\"></div>
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1254,15 +2014,11 @@ Medicinal product subject to medical prescription.
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
-
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
-
-<div style=\"page-break-after: always\"></div>
 
 An updated RMP should be submitted:
 
@@ -1333,7 +2089,7 @@ Keep the pen in the outer carton in order to protect from light
 
 Discard pen after use
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1459,7 +2215,7 @@ Keep the pen in the outer carton in order to protect from light
 
 Discard pen after use
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1583,7 +2339,7 @@ Keep the pen in the outer carton in order to protect from light
 
 Discard pen after use
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1623,17 +2379,13 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 PRE-FILLED PEN LABEL (single-dose)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Wegovy 1 mg injection semaglutide
-
-SC
+Wegovy 1 mg injection semaglutide SC
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1652,6 +2404,8 @@ Batch
 0.5 mL (1 dose)
 
 ## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 Novo Nordisk A/S
 
@@ -1703,11 +2457,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze
-
-Keep the pen in the outer carton in order to protect from light
-
-Discard pen after use
+Store in a refrigerator. Do not freeze Keep the pen in the outer carton in order to protect from light Discard pen after use
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1743,9 +2493,7 @@ Wegovy 1.7 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1833,7 +2581,7 @@ Keep the pen in the outer carton in order to protect from light
 
 Discard pen after use
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1903,6 +2651,130 @@ Batch
 
 Novo Nordisk A/S
 
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (single-dose)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wegovy 7.2 mg solution for injection in pre-filled pen semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+Each pre-filled pen contains 7.2 mg semaglutide in 0.75 mL (9.6 mg/mL)
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See leaflet for further information
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+4 pre-filled pens (1 pen delivers 1 dose)
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+subcutaneous use once weekly
+
+Read the package leaflet before use
+
+For single use only
+
+Push to open
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNINGS, IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze
+
+Keep the pen in the outer carton in order to protect from light
+
+Discard pen after use
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/21/1608/025
+
+## 13. BATCH NUMBER
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Wegovy 7.2 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+PRE-FILLED PEN LABEL (single-dose)
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+
+Wegovy 7.2 mg injection semaglutide SC
+
+## 2. METHOD OF ADMINISTRATION
+
+Subcutaneous use once weekly
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Batch
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+0.75 mL (1 dose)
+
+## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+Novo Nordisk A/S
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON (multi-dose pre-filled pen (FlexTouch))
@@ -1947,6 +2819,8 @@ Lift here
 
 Keep out of the sight and reach of children.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. OTHER SPECIAL WARNINGS, IF NECESSARY
 
 Do not store the pen with a needle attached.
@@ -1989,11 +2863,9 @@ Batch
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
-
-<div style=\"page-break-after: always\"></div>
 
 Wegovy 0.25 mg FlexTouch
 
@@ -2004,8 +2876,8 @@ Wegovy 0.25 mg FlexTouch
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2083,8 +2955,6 @@ Lift here
 
 Keep out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. OTHER SPECIAL WARNINGS, IF NECESSARY
 
 Do not store the pen with a needle attached.
@@ -2135,12 +3005,14 @@ Wegovy 0.5 mg FlexTouch
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+<div style=\"page-break-after: always\"></div>
+
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2218,8 +3090,6 @@ Lift here
 
 Keep out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. OTHER SPECIAL WARNINGS, IF NECESSARY
 
 Do not store the pen with a needle attached.
@@ -2270,12 +3140,14 @@ Wegovy 0.5 mg FlexTouch
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+<div style=\"page-break-after: always\"></div>
+
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2410,16 +3282,14 @@ Wegovy 1 mg FlexTouch
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-PRE-FILLED PEN LABEL (multi-dose pre-filled pen (FlexTouch))
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN LABEL (multi-dose pre-filled pen (FlexTouch))
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
@@ -2548,8 +3418,8 @@ Wegovy 1.7 mg FlexTouch
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2651,7 +3521,7 @@ Keep the pen cap on in order to protect from light.
 
 Discard pen 6 weeks after first use.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2689,10 +3559,12 @@ Wegovy 2.4 mg FlexTouch
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2726,6 +3598,1176 @@ Novo Nordisk A/S
 
 <div style=\"page-break-after: always\"></div>
 
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (Pre-filled syringe)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wegovy 0.25 mg solution for injection in pre-filled syringe semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled syringe contains 0.25 mg semaglutide in 0.5 mL (0.5 mg/mL)
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See leaflet for further information
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+4 pre-filled syringes (1 syringe delivers 1 dose)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+subcutaneous use once weekly
+
+Read the package leaflet before use
+
+For single use only
+
+Open
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze
+
+Keep the pre-filled syringe in the outer carton in order to protect from light
+
+Discard pre-filled syringe after use
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1608/026
+
+## 13. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Wegovy 0.25 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Wegovy 0.25 mg injection semaglutide SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER<, DONATION AND PRODUCT CODES>   |
+|------|----------------------------------------------|
+
+Batch
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+0.5 mL
+
+(1 dose)
+
+| 6.   | OTHER   |
+|------|---------|
+
+Novo Nordisk A/S
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (Pre-filled syringe)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wegovy 0.5 mg solution for injection in pre-filled syringe semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled syringe contains 0.5 mg semaglutide in 0.5 mL (1 mg/mL)
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See leaflet for further information
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+4 pre-filled syringes (1 syringe delivers 1 dose)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+subcutaneous use once weekly
+
+Read the package leaflet before use
+
+For single use only
+
+Open
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze
+
+Keep the pre-filled syringe in the outer carton in order to protect from light
+
+Discard pre-filled syringe after use
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1608/027
+
+## 13. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Wegovy 0.5 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Wegovy 0.5 mg injection semaglutide SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER<, DONATION AND PRODUCT CODES>   |
+|------|----------------------------------------------|
+
+Batch
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+0.5 mL
+
+(1 dose)
+
+| 6.   | OTHER   |
+|------|---------|
+
+Novo Nordisk A/S
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (Pre-filled syringe)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wegovy 1 mg solution for injection in pre-filled syringe semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled syringe contains 1 mg semaglutide in 0.5 mL (2 mg/mL)
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See leaflet for further information
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+4 pre-filled syringes (1 syringe delivers 1 dose)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+subcutaneous use once weekly
+
+Read the package leaflet before use
+
+For single use only
+
+Open
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze
+
+Keep the pre-filled syringe in the outer carton in order to protect from light
+
+Discard pre-filled syringe after use
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1608/028
+
+## 13. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Wegovy 1 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Wegovy 1 mg injection semaglutide SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER<, DONATION AND PRODUCT CODES>   |
+|------|----------------------------------------------|
+
+Batch
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+0.5 mL (1 dose)
+
+| 6.   | OTHER   |
+|------|---------|
+
+Novo Nordisk A/S
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (Pre-filled syringe)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wegovy 1.7 mg solution for injection in pre-filled syringe semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled syringe contains 1.7 mg semaglutide in 0.75 mL (2.27 mg/mL)
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See leaflet for further information
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+4 pre-filled syringes (1 syringe delivers 1 dose)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+subcutaneous use once weekly
+
+Read the package leaflet before use
+
+For single use only
+
+Open
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze
+
+Keep the pre-filled syringe in the outer carton in order to protect from light
+
+Discard pre-filled syringe after use
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1608/029
+
+## 13. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Wegovy 1.7 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Wegovy 1.7 mg injection semaglutide SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER<, DONATION AND PRODUCT CODES>   |
+|------|----------------------------------------------|
+
+Batch
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+0.75 mL
+
+(1 dose)
+
+| 6.   | OTHER   |
+|------|---------|
+
+Novo Nordisk A/S
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (Pre-filled syringe)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wegovy 2.4 mg solution for injection in pre-filled syringe semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled syringe contains 2.4 mg semaglutide in 0.75 mL (3.2 mg/mL)
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See leaflet for further information
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+4 pre-filled syringes (1 syringe delivers 1 dose)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+subcutaneous use once weekly
+
+Read the package leaflet before use
+
+For single use only
+
+Open
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze
+
+Keep the pre-filled syringe in the outer carton in order to protect from light
+
+Discard pre-filled syringe after use
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1608/030
+
+## 13. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Wegovy 2.4 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Wegovy 2.4 mg injection semaglutide SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER<, DONATION AND PRODUCT CODES>   |
+|------|----------------------------------------------|
+
+Batch
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+0.75 mL
+
+(1 dose)
+
+| 6.   | OTHER   |
+|------|---------|
+
+Novo Nordisk A/S
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wegovy 1.5 mg tablets
+
+semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+Each tablet contains 1.5 mg semaglutide
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+10 tablets
+
+30 tablets
+
+90 tablets
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+Oral use
+
+Read the package leaflet before use
+
+How to take Wegovy
+
+Take on an empty stomach, after a recommended fasting of at least 8 hours
+
+Take the tablet whole with a sip of water (up to 120 mL). Do not split, crush, or chew
+
+Wait at least 30 minutes before eating, drinking or taking any other oral medicines
+
+Push down and push back
+
+Open here
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING, IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original package in order to protect from light and moisture
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBERS
+
+EU/1/21/1608/013   10 tablets
+
+EU/1/21/1608/014   30 tablets
+
+EU/1/21/1608/015   90 tablets
+
+## 13. BATCH NUMBER
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Wegovy 1.5 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Wegovy 1.5 mg tablets semaglutide
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Novo Nordisk A/S
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Batch
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wegovy 4 mg tablets
+
+semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+Each tablet contains 4 mg semaglutide
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+10 tablets
+
+30 tablets
+
+90 tablets
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+Oral use
+
+Read the package leaflet before use
+
+How to take Wegovy
+
+Take on an empty stomach, after a recommended fasting of at least 8 hours
+
+Take the tablet whole with a sip of water (up to 120 mL). Do not split, crush, or chew
+
+Wait at least 30 minutes before eating, drinking or taking any other oral medicines
+
+Push down and push back
+
+Open here
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING, IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original package in order to protect from light and moisture
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBERS
+
+EU/1/21/1608/016   10 tablets
+
+EU/1/21/1608/017   30 tablets
+
+EU/1/21/1608/018   90 tablets
+
+## 13. BATCH NUMBER
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Wegovy 4 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Wegovy 4 mg tablets semaglutide
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Novo Nordisk A/S
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Batch
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wegovy 9 mg tablets
+
+semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+Each tablet contains 9 mg semaglutide
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+10 tablets
+
+30 tablets
+
+90 tablets
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+Oral use
+
+Read the package leaflet before use
+
+How to take Wegovy
+
+Take on an empty stomach, after a recommended fasting of at least 8 hours
+
+Take the tablet whole with a sip of water (up to 120 mL). Do not split, crush, or chew
+
+Wait at least 30 minutes before eating, drinking or taking any other oral medicines
+
+Push down and push back
+
+Open here
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING, IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original package in order to protect from light and moisture
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBERS
+
+EU/1/21/1608/019   10 tablets
+
+EU/1/21/1608/020   30 tablets
+
+EU/1/21/1608/021   90 tablets
+
+## 13. BATCH NUMBER
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Wegovy 9 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Wegovy 9 mg tablets semaglutide
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Novo Nordisk A/S
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Batch
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wegovy 25 mg tablets
+
+semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+Each tablet contains 25 mg semaglutide
+
+## 3. LIST OF EXCIPIENTS
+
+Contains sodium. See leaflet for further information
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+10 tablets
+
+30 tablets
+
+90 tablets
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+Oral use
+
+Read the package leaflet before use
+
+How to take Wegovy
+
+Take on an empty stomach, after a recommended fasting of at least 8 hours
+
+Take the tablet whole with a sip of water (up to 120 mL). Do not split, crush, or chew
+
+Wait at least 30 minutes before eating, drinking or taking any other oral medicines
+
+Push down and push back
+
+Open here
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING, IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original package in order to protect from light and moisture
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
+
+## 12. MARKETING AUTHORISATION NUMBERS
+
+EU/1/21/1608/022   10 tablets
+
+EU/1/21/1608/023   30 tablets
+
+EU/1/21/1608/024   90 tablets
+
+## 13. BATCH NUMBER
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Wegovy 25 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Wegovy 25 mg tablets semaglutide
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Novo Nordisk A/S
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Batch
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
@@ -2734,16 +4776,20 @@ Novo Nordisk A/S
 
 ## Package leaflet: Information for the patient
 
-Wegovy 0.25 mg solution for injection in pre-filled pen Wegovy 0.5 mg solution for injection in pre-filled pen Wegovy 1 mg solution for injection in pre-filled pen Wegovy 1.7 mg solution for injection in pre-filled pen Wegovy 2.4 mg solution for injection in pre-filled pen semaglutide
+Wegovy 0. 25 mg solution for injection in pre-filled pen
+
+Wegovy 0.5 mg solution for injection in pre-filled pen Wegovy 1 mg solution for injection in pre-filled pen Wegovy 1.7 mg solution for injection in pre-filled pen Wegovy 2.4 mg solution for injection in pre-filled pen Wegovy 7.2 mg solution for injection in pre-filled pen
+
+semaglutide
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2772,7 +4818,7 @@ BMI (Body Mass Index) is a measure of your weight in relation to your height.
 Wegovy is used together with diet and physical activity for weight management in adolescents ages 12 years and above, who have
 
 - obesity and
-- body weight &gt;60 kg.
+- body weight &gt; 60 kg.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2824,23 +4870,21 @@ Taking a sulfonylurea or an insulin with Wegovy might increase the risk of getti
 
 ## · Diabetic eye disease (retinopathy)
 
-If you have diabetic eye disease and are using insulin, this medicine may lead to a worsening of your vision, and this may require treatment. Fast improvements in blood sugar control may lead
+If you have diabetic eye disease and are using insulin, this medicine may lead to a worsening of your vision, and this may require treatment. Fast improvements in blood sugar control may lead to a temporary worsening of diabetic eye disease. If you have diabetic eye disease and experience eye problems while taking this medicine, talk to your doctor.
 
 <div style=\"page-break-after: always\"></div>
 
-to a temporary worsening of diabetic eye disease. If you have diabetic eye disease and experience eye problems while taking this medicine, talk to your doctor.
-
-## · Sudden changes to your eyesight.
+## · Sudden changes to your eyesight
 
 If you notice a sudden loss of vision or rapidly worsening eyesight during treatment with this medicine, immediately contact your doctor for advice. This may be caused by a very rare side effect called non-arteritic anterior ischaemic optic neuropathy (NAION) (See section 4: Serious side effects). Your doctor may refer you for an eye examination and you may have to stop treatment with this medicine.
 
-## · Patients with delayed stomach emptying (gastroparesis).
+## · Patients with delayed stomach emptying (gastroparesis)
 
-If you have slow (delayed) stomach emptying (called gastroparesis), use of Wegovy may lead to serious or severe gastrointestinal adverse events. Talk to your doctor before using Wegovy.
+If you have slow (delayed) stomach emptying (called gastroparesis), use of Wegovy may lead to serious or severe gastrointestinal side effects. Talk to your doctor before using Wegovy.
 
 ## Children and adolescents
 
-The safety and efficacy of Wegovy in children below 12 years of age have not been studied and are not recommended for use in this population.
+Giving this medicine to children below 12 years of age is not recommended because the safety and efficacy have not been studied in this age group.
 
 ## Other medicines and Wegovy
 
@@ -2876,26 +4920,25 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 ## How much to use
 
-## Adults
-
-The recommended dose is 2.4 mg once weekly.
+Adults
 
 Your treatment will start at a low dose which will be gradually increased over 16 weeks of treatment.
 
 - When you first start using Wegovy, the starting dose is 0.25 mg once weekly.
 - Your doctor will instruct you to gradually increase your dose every 4 weeks until you reach the recommended dose of 2.4 mg once weekly.
-- Once you reach the recommended dose of 2.4 mg, do not increase this dose further.
-- In case you are feeling very bothered by sickness (nausea) or by being sick (vomiting) talk with your doctor about delaying dose escalation or lowering to the previous dose until symptoms have improved.
+- Your doctor may instruct you  to increase your dose to 7.2 mg once weekly after a minimum of 4 weeks on the 2.4 mg.
+- The maximum dose is 7.2 mg once weekly.· In case you are feeling very bothered by sickness (nausea) or by being sick (vomiting) talk with your doctor about delaying dose escalation or lowering to the previous dose until symptoms have improved.
 
 Usually, you will be told to follow the table below.
 
-| Dose escalation   | Weekly dose   |
-|-------------------|---------------|
-| Week 1-4          | 0.25 mg       |
-| Week 5-8          | 0.5 mg        |
-| Week 9-12         | 1 mg          |
-| Week 13-16        | 1.7 mg        |
-| From week 17      | 2.4 mg        |
+| Dose escalation   | Weekly dose      |
+|-------------------|------------------|
+| Week 1-4          | 0.25 mg          |
+| Week 5-8          | 0.5 mg           |
+| Week 9-12         | 1 mg             |
+| Week 13-16        | 1.7 mg           |
+| From week 17      | 2.4 mg           |
+| From week 21      | 2.4 mg or 7.2 mg |
 
 Your doctor will assess your treatment on a regular basis.
 
@@ -2923,11 +4966,11 @@ Tell your doctor if you have type 2 diabetes. Your doctor may adjust the dose of
 
 If necessary, you can change the day of your weekly injection of this medicine as long as it has been at least 3 days since your last injection. After selecting a new dosing day, continue with once a week dosing.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you use more Wegovy than you should
 
 Talk to your doctor straight away. You may get side effects such as feeling sick (nausea), being sick (vomiting) or have diarrhoea, which may cause dehydration (loss of fluids).
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you forget to use Wegovy
 
@@ -2964,7 +5007,7 @@ Rare (may affect up to 1 in 1 000 people)
 
 ## Very Rare (may affect up to 1 in 10 000 people)
 
-- A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight')
+- A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight').
 
 Not known (frequency cannot be estimated from the available data)
 
@@ -2972,21 +5015,21 @@ Not known (frequency cannot be estimated from the available data)
 
 ## Other side effects
 
-Very common (may affect more than 1 in 10 people)
+## Very common (may affect more than 1 in 10 people)
 
 - headache
 - feeling sick (nausea)
 - being sick (vomiting)
-- diarrhoea
-- constipation
-- stomach pain
 
 <div style=\"page-break-after: always\"></div>
 
+- diarrhoea
+- constipation
+- stomach pain
 - feeling weak or tired
 - these are mainly seen during dose escalation and usually go away over time.
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - feeling dizzy
 - upset stomach or indigestion
@@ -2996,10 +5039,10 @@ Common (may affect up to 1 in 10 people)
 - inflamed stomach ('gastritis') - the signs include stomach-ache, feeling sick (nausea) or being sick (vomiting)
 - reflux or heartburn - also called 'gastro-oesophageal reflux disease'
 - gallstones
-- hair loss
+- hair loss - may occur more frequently with semaglutide 7.2 mg
 - injection site reactions
 - change in the way food or drink tastes
-- change in skin sensation
+- change in skin sensation - this usually goes away over time and may happen more frequently with semaglutide 7.2 mg
 - low blood sugar (hypoglycaemia) in patients with type 2 diabetes.
 
 The warning signs of low blood sugar may come on suddenly. They can include: cold sweat, cool pale skin, headache, fast heartbeat, feeling sick (nausea) or very hungry, changes in vision, feeling sleepy or weak, feeling nervous, anxious or confused, difficulty concentrating or shaking.
@@ -3028,13 +5071,11 @@ Do not use this medicine after the expiry date which is stated on the pen label 
 
 Store in a refrigerator (2°C - 8°C). Do not freeze. Keep away from the cooling element. Always store the pen in the original carton in order to protect from light.
 
-Wegovy may be stored unrefrigerated for up to 28 days at a temperature not above 30°C.
-
-Discard the pen if it has been exposed to light or temperatures above 30°C, has been out of the refrigerator for more than 28 days, or has been frozen.
-
-Do not use this medicine if you notice that the solution is not clear and colourless.
+Wegovy may be stored unrefrigerated for up to 28 days at a temperature not above 30°C. Discard the pen if it has been exposed to light or temperatures above 30°C, has been out of the refrigerator for more than 28 days, or has been frozen.
 
 <div style=\"page-break-after: always\"></div>
+
+Do not use this medicine if you notice that the solution is not clear and colourless.
 
 After use: The pen is for single use and contains one dose only. Discard pen after use.
 
@@ -3044,29 +5085,20 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Wegovy contains
 
-- The active substance is semaglutide.
+- -
+- The active substance is semaglutide. Wegovy 0.25 mg solution for injection in pre-filled pen Each pre-filled pen contains 0.25 mg semaglutide in 0.5 mL (0.5 mg/mL).
 
-Wegovy 0.25 mg solution for injection
+Wegovy 0.5 mg solution for injection in pre-filled pen Each pre-filled pen contains 0.5 mg semaglutide in 0.5 mL (1 mg/mL).
 
-Each pre-filled pen contains 0.25 mg semaglutide in 0.5 mL (0.5 mg/mL).
+Wegovy 1 mg solution for injection in pre-filled pen Each pre-filled pen contains 1 mg semaglutide in 0.5 mL (2 mg/mL).
 
-## Wegovy 0.5 mg solution for injection
+Wegovy 1.7 mg solution for injection in pre-filled pen Each pre-filled pen contains 1.7 mg semaglutide in 0.75 mL (2.27 mg/mL).
 
-Each pre-filled pen contains 0.5 mg semaglutide in 0.5 mL (1 mg/mL).
+Wegovy 2.4 mg solution for injection in pre-filled pen Each pre-filled pen contains 2.4 mg semaglutide in 0.75 mL (3.2 mg/mL).
 
-## Wegovy 1 mg solution for injection
+Wegovy 7.2 mg solution for injection in pre-filled pen Each pre-filled pen contains 7.2 mg  semaglutide in 0.75 mL (9.6 mg/mL).
 
-Each pre-filled pen contains 1 mg semaglutide in 0.5 mL (2 mg/mL).
-
-## Wegovy 1.7 mg solution for injection
-
-Each pre-filled pen contains 1.7 mg semaglutide in 0.75 mL (2.27 mg/mL).
-
-## Wegovy 2.4 mg solution for injection
-
-Each pre-filled pen contains 2.4 mg of semaglutide in 0.75 mL (3.2 mg/mL).
-
-- -The other ingredients are disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See also section 2 'Wegovy contains sodium' for information on sodium.
+- The other ingredients are disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See also section 2 'Wegovy contains sodium' for information on sodium.
 
 ## What Wegovy looks like and contents of the pack
 
@@ -3084,27 +5116,9 @@ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
-
-## Package leaflet: Information for the patient
-
-## Wegovy
-
-<!-- image -->
-
-Wegovy 0.25 mg solution for injection in pre-filled pen
-
-Wegovy 0.5 mg solution for injection in pre-filled pen
-
-Wegovy 1 mg solution for injection in pre-filled pen
-
-Wegovy 1.7 mg solution for injection in pre-filled pen
-
-Wegovy 2.4 mg solution for injection in pre-filled pen semaglutide
-
-Use Wegovy one time each week
 
 <!-- image -->
 
@@ -3132,17 +5146,15 @@ People who are blind or have vision problems should not use Wegovy pen without h
 
 Always follow these user instructions and any directions given by your doctor or nurse.
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
-Pull out to get started
+<!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## How to use your Wegovy
 
@@ -3201,16 +5213,18 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## Package leaflet: Information for the patient
 
-Wegovy 0.25 mg FlexTouch solution for injection in pre-filled pen Wegovy 0.5 mg FlexTouch solution for injection in pre-filled pen Wegovy 1 mg FlexTouch solution for injection in pre-filled pen Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen semaglutide
+Wegovy 0. 25 mg FlexTouch solution for injection in pre-filled pen Wegovy 0.5 mg FlexTouch solution for injection in pre-filled pen Wegovy 1 mg FlexTouch solution for injection in pre-filled pen Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen
+
+semaglutide
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3239,7 +5253,7 @@ BMI (Body Mass Index) is a measure of your weight in relation to your height.
 Wegovy is used together with diet and physical activity for weight management in adolescents ages 12 years and above, who have
 
 - obesity and
-- body weight &gt;60 kg.
+- body weight &gt; 60 kg.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3291,11 +5305,9 @@ Taking a sulfonylurea or an insulin with Wegovy might increase the risk of getti
 
 ## · Diabetic eye disease (retinopathy)
 
-If you have diabetic eye disease and are using insulin, this medicine may lead to a worsening of your vision, and this may require treatment. Fast improvements in blood sugar control may lead
+If you have diabetic eye disease and are using insulin, this medicine may lead to a worsening of your vision, and this may require treatment. Fast improvements in blood sugar control may lead to a temporary worsening of diabetic eye disease. If you have diabetic eye disease and experience eye problems while taking this medicine, talk to your doctor.
 
 <div style=\"page-break-after: always\"></div>
-
-to a temporary worsening of diabetic eye disease. If you have diabetic eye disease and experience eye problems while taking this medicine, talk to your doctor.
 
 ## · Sudden changes to your eyesight.
 
@@ -3303,11 +5315,11 @@ If you notice a sudden loss of vision or rapidly worsening eyesight during treat
 
 ## · Patients with delayed stomach emptying (gastroparesis)
 
-If you have slow (delayed) stomach emptying (called gastroparesis), use of Wegovy may lead to serious or severe gastrointestinal adverse events. Talk to your doctor before using Wegovy.
+If you have slow (delayed) stomach emptying (called gastroparesis), use of Wegovy may lead to serious or severe gastrointestinal side effects. Talk to your doctor before using Wegovy.
 
 ## Children and adolescents
 
-The safety and efficacy of Wegovy in children below 12 years of age have not been studied and are not recommended for use in this population.
+Do not give this medicine to children below 12 years of age because it has not been studied in this age group.
 
 ## Other medicines and Wegovy
 
@@ -3349,7 +5361,7 @@ Your treatment will start at a low dose which will be gradually increased over 1
 
 - When you first start using Wegovy, the starting dose is 0.25 mg once weekly.
 - Your doctor will instruct you to gradually increase your dose every 4 weeks until you reach the dose of 2.4 mg once weekly.
-- If needed, dose increase to the next maintenance dose 7.2 mg once weekly (3 injections of 2.4 mg) can be made after a minimum of 4 weeks on 2.4 mg.
+- Your doctor may instruct you to increase  your dose to 7.2 mg once weekly (3 injections of 2.4 mg) after a minimum of 4 weeks on 2.4 mg.
 - The maximum dose is 7.2 mg once weekly.
 - In case you are feeling very bothered by sickness (nausea) or by being sick (vomiting) talk with your doctor about delaying dose escalation or lowering to the previous dose until symptoms have improved.
 
@@ -3427,15 +5439,15 @@ Common (may affect up to 1 in 10 people)
 
 - Inflamed pancreas (acute pancreatitis). Signs of inflamed pancreas may include severe and longlasting pain in your stomach, the pain may move to your back. You should see your doctor immediately if you experience such symptoms.
 
-Rare (may affect up to 1 in 1 000 people)
+## Rare (may affect up to 1 in 1 000 people)
 
 - Severe allergic reactions (anaphylactic reactions, angioedema). You should seek immediate medical help and inform your doctor straight away if you get symptoms such as breathing difficulty, swelling, light-headedness, fast heartbeat, sweating and loss of consciousness or rapid swelling under the skin in areas such as the face, throat, arms and legs, which can be life threatening if throat swelling blocks the airway.
 
-## Very Rare (may affect up to 1 in 10 000 people)
+## Very rare (may affect up to 1 in 10 000 people)
 
 - A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight')
 
-Not known (frequency cannot be estimated from the available data)
+## Not known (frequency cannot be estimated from the available data)
 
 - Bowel obstruction. A severe form of constipation with additional symptoms such as stomach ache, bloating, vomiting etc.
 
@@ -3453,9 +5465,9 @@ Not known (frequency cannot be estimated from the available data)
 <div style=\"page-break-after: always\"></div>
 
 - feeling weak or tired
-- -these are mainly seen during dose escalation and usually go away over time.
+- these are mainly seen during dose escalation and usually go away over time.
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - feeling dizzy
 - upset stomach or indigestion
@@ -3477,7 +5489,7 @@ Your doctor will tell you how to treat low blood sugar and what to do if you not
 
 Low blood sugar is more likely to happen if you also take a sulfonylurea or insulin. Your doctor may reduce your dose of these medicines before you start using this medicine.
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - low blood pressure
 - feeling dizzy or lightheaded on standing or sitting up because of a drop in blood pressure
@@ -3516,31 +5528,19 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - -
 
-The active substance is semaglutide.
+The active substance is semaglutide. Wegovy 0.25 mg FlexTouch solution for injection in pre-filled pen Each pre-filled pen contains 1 mg semaglutide in 1.5 mL (0.68 mg/mL).
 
-Wegovy 0.25 mg FlexTouch solution for injection
+Wegovy 0.5 mg FlexTouch solution for injection in pre-filled pen 1.5 mL: Each pre-filled pen contains 2 mg semaglutide in 1.5 mL (1.34 mg/mL). 3 mL: Each pre-filled pen contains 2 mg semaglutide in 3 mL (0.68 mg/mL).
 
-Each pre-filled pen contains 1 mg semaglutide in 1.5 mL (0.68 mg/mL).
+Wegovy 1 mg FlexTouch solution for injection in pre-filled pen Each pre-filled pen contains 4 mg semaglutide in 3 mL (1.34 mg/mL).
 
-## Wegovy 0.5 mg FlexTouch solution for injection
+Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen Each pre-filled pen contains 6.8 mg semaglutide in 3 mL (2.27 mg/mL).
 
-1.5 mL: Each pre-filled pen contains 2 mg semaglutide in 1.5 mL (1.34 mg/mL).
+Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen
 
-3 mL: Each pre-filled pen contains 2 mg semaglutide in 3 mL (0.68 mg/mL).
+Each pre-filled pen contains 9.6 mg semaglutide in 3 mL (3.2 mg/mL).
 
-## Wegovy 1 mg FlexTouch solution for injection
-
-Each pre-filled pen contains 4 mg semaglutide in 3 mL (1.34 mg/mL).
-
-Wegovy 1.7 mg FlexTouch solution for injection
-
-Each pre-filled pen contains 6.8 mg semaglutide in 3 mL (2.27 mg/mL).
-
-## Wegovy 2.4 mg FlexTouch solution for injection
-
-Each pre-filled pen contains 9.6 mg of semaglutide in 3 mL (3.2 mg/mL).
-
-- -The other ingredients are disodium phosphate dihydrate, propylene glycol, phenol, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See also section 2 'Wegovy contains sodium' for information on sodium.
+- The other ingredients are disodium phosphate dihydrate, propylene glycol, phenol, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See also section 2 'Wegovy contains sodium' for information on sodium.
 
 ## What Wegovy looks like and contents of the pack
 
@@ -3548,11 +5548,11 @@ Wegovy is a clear and colourless solution for injection in a pre-filled pen.
 
 Each pre-filled pen contains 4 doses. After having injected the 4 doses, there might still be solution left in the pen despite having administered correctly. Any solution left is insufficient for a dose and the pen should be disposed of.
 
-## Wegovy 0.25, 0.5, 1 and 1.7 mg FlexTouch solution for injection is available in the following pack size:
+Wegovy 0.25 mg, 0.5 mg, 1 mg and 1.7 mg FlexTouch solution for injection in pre-filled pen is available in the following pack size:
 
 1 pre-filled pen and 4 disposable NovoFine Plus needles.
 
-Wegovy 2.4 mg FlexTouch solution for injection is available in the following pack sizes:
+Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen is available in the following pack sizes:
 
 1 pre-filled pen and 4 disposable NovoFine Plus needles.
 
@@ -3576,7 +5576,7 @@ Novo Nordisk Production SAS 45, Avenue d'Orléans 28000 Chartres France
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3648,15 +5648,19 @@ If your Wegovy pen is already in use, go to '2 Set your dose'.
 
 Only check the Wegovy flow before your first injection with each new pen.
 
-Turn the dose selector until you see the flow check symbol ( ). ■
+Turn the dose selector until you see the flow check symbol ( ).
 
 (See figure F).
 
-Make sure the flow check symbol lines up with the dose pointer. (See figure G).
+Make sure the flow check symbol lines up with the dose pointer.
+
+(See figure G).
 
 <!-- image -->
 
-<!-- image -->
+G
+
+mg
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3688,21 +5692,15 @@ Turn the dose selector until the dose counter stops, and it shows your prescribe
 
 <div style=\"page-break-after: always\"></div>
 
-一
-
-一
-
 The dashed line ( ) in the dose counter will guide you to your dose.
 
 The dose selector clicks differently when turned forward, backwards or past your dose. You will hear a 'click' every time you turn the dose selector. Do not set the dose by counting the number of clicks you hear.
 
 (See figure J).
 
-When your prescribed dose lines up with the dose pointer, you
+When your prescribed dose lines up with the dose pointer, you have selected your dose. In this picture, the dose 0.25 mg as an example.
 
 <!-- image -->
-
-have selected your dose. In this picture, the dose 0.25 mg is shown as an example.
 
 If the dose counter stops before you reach your prescribed dose, see the section 'Do you have enough Wegovy?' below these instructions.
 
@@ -3809,6 +5807,834 @@ If the dose counter stops before you reach your prescribed dose, there is not en
 
 <div style=\"page-break-after: always\"></div>
 
-- Never share your pen or your needles with other people.
-- Needles are for single use only. Never reuse your needles as it may lead to blocked needles, contamination, infection and inaccurate dosing.
-- Caregivers must be very careful when handling used needles to prevent accidental needle stick injuries and infection.
+| •   | Never share your pen or your needles with other people.                                                                                      |
+|-----|----------------------------------------------------------------------------------------------------------------------------------------------|
+| •   | Needles are for single use only. Never reuse your needles as it may lead to blocked needles, contamination, infection and inaccurate dosing. |
+| •   | Caregivers must be very careful when handling used needles to prevent accidental needle stick injuries and infection.                        |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Package leaflet: Information for the patient
+
+Wegovy 0.25 mg solution for injection in pre-filled syringe Wegovy 0.5 mg solution for injection in pre-filled syringe Wegovy 1 mg solution for injection in pre-filled syringe Wegovy 1.7 mg solution for injection in pre-filled syringe Wegovy 2.4 mg solution for injection in pre-filled syringe
+
+semaglutide
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Wegovy is and what it is used for
+2. What you need to know before you use Wegovy
+3. How to use Wegovy
+4. Possible side effects
+5. How to store Wegovy
+6. Contents of the pack and other information
+
+## 1. What Wegovy is and what it is used for
+
+## What Wegovy is
+
+Wegovy is a medicine for weight loss and weight maintenance that contains the active substance semaglutide. It is similar to a natural hormone called glucagon-like peptide-1 (GLP-1) that is released from the intestine after a meal. It works by acting on targets (receptors) in the brain that control your appetite, causing you to feel fuller and less hungry and experience less craving for food. This will help you eat less food and reduce your body weight. Wegovy can also help prevent heart disease.
+
+## What Wegovy is used for
+
+Wegovy is used together with diet and physical activity for weight loss and to help keep the weight under control. It is used in adults, who have
+
+- a BMI of 30 kg/m² or greater (obesity) or
+- a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) who have weight-related health problems (such as diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea' or a history of heart attack, stroke or blood vessel problems).
+
+BMI (Body Mass Index) is a measure of your weight in relation to your height.
+
+Wegovy is used together with diet and physical activity for weight management in adolescents ages 12 years and above, who have
+
+- obesity and
+- body weight &gt;60 kg.
+
+<div style=\"page-break-after: always\"></div>
+
+As an adolescent patient, you should only continue using Wegovy if you have lost at least 5% of your BMI after 12 weeks on the 2.4 mg dose or maximum tolerated dose (see section 3). Consult your doctor before you continue.
+
+## 2. What you need to know before you use Wegovy
+
+## Do not use Wegovy
+
+- if you are allergic to semaglutide or any of the other ingredients of this medicine (listed in section 6).
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before using Wegovy.
+
+The use of Wegovy is not recommended if you:
+
+- use other products for weight loss,
+- have type 1 diabetes,
+- have severely reduced kidney function,
+- have severely reduced liver function,
+- have severe heart failure,
+- have diabetic eye disease (retinopathy).
+
+There is little experience with Wegovy in patients:
+
+- of 85 years and older,
+- with liver problems.
+
+Please consult your doctor if one of the above applies to you.
+
+If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are taking Wegovy.
+
+## · Dehydration
+
+During treatment with Wegovy, you may feel sick (nausea) or be sick (vomiting), or have diarrhoea. These side effects can cause dehydration (loss of fluids). It is important that you drink enough fluids to prevent dehydration. This is especially important if you have kidney problems. Talk to your doctor if you have any questions or concerns.
+
+## · Inflammation of the pancreas
+
+If you have severe and on-going pain in the stomach area (see section 4) - see a doctor straight away as this could be a sign of inflamed pancreas (acute pancreatitis).
+
+## · People with type 2 diabetes
+
+Wegovy cannot be used as a substitute for insulin.   Do not use Wegovy in combination with other medicines that contain GLP-1 receptor agonists (such as liraglutide, dulaglutide, exenatide or lixisenatide).
+
+## · Low blood sugar (hypoglycaemia)
+
+Taking a sulfonylurea or an insulin with Wegovy might increase the risk of getting low blood sugar levels (hypoglycaemia). Please see section 4 for the warning signs of low blood sugar levels. Your doctor may ask you to test your blood sugar levels. This will help your doctor decide if the dose of the sulfonylurea or insulin needs to be changed to reduce the risk of low blood sugar.
+
+## · Diabetic eye disease (retinopathy)
+
+If you have diabetic eye disease and are using insulin, this medicine may lead to a worsening of your vision, and this may require treatment. Fast improvements in blood sugar control may lead to a temporary worsening of diabetic eye disease. If you have diabetic eye disease and experience eye problems while taking this medicine, talk to your doctor.
+
+<div style=\"page-break-after: always\"></div>
+
+## · Sudden changes to your eyesight.
+
+If you notice a sudden loss of vision or rapidly worsening eyesight during treatment with this medicine, immediately contact your doctor for advice. This may be caused by a very rare side effect called non-arteritic anterior ischaemic optic neuropathy (NAION) (See section 4: Serious side effects). Your doctor may refer you for an eye examination and you may have to stop treatment with this medicine.
+
+## · Patients with delayed stomach emptying (gastroparesis)
+
+If you have slow (delayed) stomach emptying (called gastroparesis), use of Wegovy may lead to serious or severe gastrointestinal adverse events. Talk to your doctor before using Wegovy.
+
+## Children and adolescents
+
+The safety and efficacy of Wegovy in children below 12 years of age have not been studied and are not recommended for use in this population.
+
+## Other medicines and Wegovy
+
+Tell your doctor, pharmacist or nurse if you are using, have recently used or might use any other medicines.
+
+In particular, tell your doctor, pharmacist or nurse if you are using medicines containing the following:
+
+- Warfarin or other similar medicines taken by mouth to reduce blood clotting (oral anticoagulants). When you start treatment with e.g. warfarin or similar medicines, frequent blood testing to determine the ability of your blood to clot may be required.
+
+## Pregnancy and breast-feeding
+
+This medicine should not be used during pregnancy, as it is not known if it may affect your unborn child. Therefore, it is recommended to use contraception while using this medicine. If you wish to become pregnant, you should stop using this medicine at least two months in advance. If you become or are pregnant, think you may be pregnant or are planning to have a baby when using this medicine, talk to your doctor straight away, as your treatment will need to be stopped.
+
+Do not use this medicine if you are breast-feeding, as it is unknown if it passes into breast milk.
+
+## Driving and using machines
+
+Wegovy is unlikely to affect your ability to drive and use machines. Some patients may feel dizzy when taking Wegovy mainly during the first 4 months of treatment (see section 4). If you feel dizzy be extra careful while driving or using machines. If you need any further information, talk to your doctor, pharmacist or nurse.
+
+## People with type 2 diabetes
+
+If you use this medicine in combination with a sulfonylurea or insulin, low blood sugar (hypoglycaemia) may occur which may reduce your ability to concentrate. Avoid driving or using machines if you get any signs of low blood sugar. See section 2, 'Warnings and precautions' for information on increased risk of low blood sugar and section 4 for the warning signs of low blood sugar. Talk to your doctor for further information.
+
+## Wegovy contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+
+<div style=\"page-break-after: always\"></div>
+
+## 3. How to use Wegovy
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor, pharmacist or nurse if you are not sure.
+
+## How much to use
+
+## Adults
+
+The recommended dose is 2.4 mg once weekly.
+
+Your treatment will start at a low dose which will be gradually increased over 16 weeks of treatment.
+
+- When you first start using Wegovy, the starting dose is 0.25 mg once weekly.
+- Your doctor will instruct you to gradually increase your dose every 4 weeks until you reach the recommended dose of 2.4 mg once weekly.
+- Once you reach the recommended dose of 2.4 mg, do not increase this dose further.
+- In case you are feeling very bothered by sickness (nausea) or by being sick (vomiting) talk with your doctor about delaying dose escalation or lowering to the previous dose until symptoms have improved.
+
+Usually, you will be told to follow the table below.
+
+| Dose escalation   | Weekly dose   |
+|-------------------|---------------|
+| Week 1-4          | 0.25 mg       |
+| Week 5-8          | 0.5 mg        |
+| Week 9-12         | 1 mg          |
+| Week 13-16        | 1.7 mg        |
+| From week 17      | 2.4 mg        |
+
+Your doctor will assess your treatment on a regular basis.
+
+## Adolescents (above 12 years of age)
+
+For adolescents, the same dose escalation schedule as for adults should be applied (see above). The dose should be increased until 2.4 mg (maintenance dose) or maximum tolerated dose has been reached. Weekly doses higher than 2.4 mg are not recommended.
+
+## How Wegovy is given
+
+Wegovy is given as an injection under the skin (subcutaneous injection). Do not inject it into a vein or muscle.
+
+- The best places to give the injection are the thighs, stomach area (abdomen) at least 5 centimetres from the belly button, or the back of your upper arm (with help from someone else).
+- Before you use the syringe for the first time, your doctor, pharmacist or nurse will show you how to use it.
+
+Detailed instructions on how to use the syringe are on the other side of this leaflet.
+
+## People with type 2 diabetes
+
+Tell your doctor if you have type 2 diabetes. Your doctor may adjust the dose of your diabetes medicines to prevent you from getting low blood sugar.
+
+## When to use Wegovy
+
+- You should use this medicine once a week and if possible, on the same day each week.
+- You can give yourself the injection at any time of the day - regardless of meals.
+
+If necessary, you can change the day of your weekly injection of this medicine as long as it has been at least 3 days since your last injection. After selecting a new dosing day, continue with once a week dosing.
+
+<div style=\"page-break-after: always\"></div>
+
+## If you use more Wegovy than you should
+
+Talk to your doctor straight away. You may get side effects such as feeling sick (nausea), being sick (vomiting) or have diarrhoea, which may cause dehydration (loss of fluids).
+
+## If you forget to use Wegovy
+
+If you forgot to inject a dose and:
+
+- it is 5 days or less since you should have used Wegovy, use it as soon as you remember. Then inject your next dose as usual on your scheduled day.
+- it is more than 5 days since you should have used Wegovy, skip the missed dose. Then inject your next dose as usual on your next scheduled day.
+
+Do not use a double dose to make up for a forgotten dose.
+
+## If you stop using Wegovy
+
+Do not stop using this medicine without talking to your doctor.
+
+If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Serious side effects
+
+Common (may affect up to 1 in 10 people)
+
+- Complications of diabetic eye disease (diabetic retinopathy). If you have diabetes you should inform your doctor if you experience eye problems, such as changes in vision, during treatment with this medicine.
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- Inflamed pancreas (acute pancreatitis). Signs of inflamed pancreas may include severe and longlasting pain in your stomach, the pain may move to your back. You should see your doctor immediately if you experience such symptoms.
+
+Rare (may affect up to 1 in 1 000 people)
+
+- Severe allergic reactions (anaphylactic reactions, angioedema). You should seek immediate medical help and inform your doctor straight away if you get symptoms such as breathing difficulty, swelling, light-headedness, fast heartbeat, sweating and loss of consciousness or rapid swelling under the skin in areas such as the face, throat, arms and legs, which can be life threatening if throat swelling blocks the airway.
+
+## Very Rare (may affect up to 1 in 10 000 people)
+
+- A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight').
+
+Not known (frequency cannot be estimated from the available data)
+
+- Bowel obstruction. A severe form of constipation with additional symptoms such as stomach ache, bloating, vomiting etc.
+
+## Other side effects
+
+## Very common (may affect more than 1 in 10 people)
+
+- Headache
+- Feeling sick (nausea)
+- Being sick (vomiting)
+
+<div style=\"page-break-after: always\"></div>
+
+- Diarrhoea
+- Constipation
+- Stomach pain
+- Feeling weak or tired
+- these are mainly seen during dose escalation and usually go away over time.
+
+Common (may affect up to 1 in 10 people)
+
+- Feeling dizzy
+- Upset stomach or indigestion
+- Burping
+- Gas (flatulence)
+- Bloating of the stomach
+- Inflamed stomach ('gastritis') - the signs include stomach-ache, feeling sick (nausea) or being sick (vomiting)
+- Reflux or heartburn - also called 'gastro-oesophageal reflux disease'
+- Gallstones
+- Hair loss
+- Injection site reactions
+- Change in the way food or drink tastes
+- Change in skin sensation
+- Low blood sugar (hypoglycaemia) in patients with type 2 diabetes.
+
+The warning signs of low blood sugar may come on suddenly. They can include: cold sweat, cool pale skin, headache, fast heartbeat, feeling sick (nausea) or very hungry, changes in vision, feeling sleepy or weak, feeling nervous, anxious or confused, difficulty concentrating or shaking.
+
+Your doctor will tell you how to treat low blood sugar and what to do if you notice these warning signs.
+
+Low blood sugar is more likely to happen if you also take a sulfonylurea or insulin. Your doctor may reduce your dose of these medicines before you start using this medicine.
+
+Uncommon (may affect up to 1 in 100 people)
+
+- Low blood pressure
+- Feeling dizzy or lightheaded on standing or sitting up because of a drop in blood pressure
+- Fast heartbeat
+- Increase of pancreatic enzymes (such as lipase and amylase) shown in blood tests
+- A delay in the emptying of the stomach.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Wegovy
+
+Keep this medicine out of the sight and reach of children. Always keep small parts out of sight and reach of others, especially children.
+
+Do not use this medicine after the expiry date which is stated on the syringe label and carton after 'EXP'. The expiry date refers to the last day of that month.
+
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep away from the cooling element. Always store the syringe in the original carton in order to protect from light.
+
+Wegovy may be stored unrefrigerated for up to 28 days at a temperature not above 30°C.
+
+Discard the syringe if it has been exposed to light or temperatures above 30°C, has been out of the refrigerator for more than 28 days, or has been frozen.
+
+<div style=\"page-break-after: always\"></div>
+
+Do not use this medicine if you notice that the solution is not clear and colourless or almost colourless.
+
+After use: The syringe is for single use and contains one dose only. Dispose the used syringe immediately after use in a puncture-resistant container with a tight-fitting lid.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Wegovy contains
+
+- The active substance is semaglutide.
+
+Wegovy 0.25 mg solution for injection
+
+Each pre-filled syringe contains 0.25 mg semaglutide in 0.5 mL (0.5 mg/mL).
+
+## Wegovy 0.5 mg solution for injection
+
+Each pre-filled syringe contains 0.5 mg semaglutide in 0.5 mL (1 mg/mL).
+
+## Wegovy 1 mg solution for injection
+
+Each pre-filled syringe contains 1 mg semaglutide in 0.5 mL (2 mg/mL).
+
+## Wegovy 1.7 mg solution for injection
+
+Each pre-filled syringe contains 1.7 mg semaglutide in 0.75 mL (2.27 mg/mL).
+
+## Wegovy 2.4 mg solution for injection
+
+Each pre-filled syringe contains 2.4 mg of semaglutide in 0.75 mL (3.2 mg/mL).
+
+- The other ingredients are disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See also section 2 'Wegovy contains sodium' for information on sodium.
+
+## What Wegovy looks like and contents of the pack
+
+Wegovy is a clear and colourless or almost colourless solution for injection in a pre-filled disposable syringe.
+
+Each syringe contains one dose only.
+
+Pack size of 4 pre-filled syringes.
+
+## Marketing Authorisation Holder and Manufacturer
+
+Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+<div style=\"page-break-after: always\"></div>
+
+## Instructions for use
+
+## Before you begin using your pre-filled syringe always read these instructions carefully.
+
+The pack contains four pre-filled syringes. This leaflet instructs how to perform an injection under the skin (subcutaneous).
+
+The syringe might be different from any other device you have used before.
+
+Before you use your syringe for the first time, talk to your doctor about how to inject your syringe correctly.
+
+## Get to know your syringe
+
+You should check the label on the carton and syringe to ensure it contains the correct medicine. Please make sure you have the correct dose prescribed by your doctor.
+
+Please note: The syringe might be different from the one shown in this leaflet.
+
+<!-- image -->
+
+<!-- image -->
+
+## Important information about your syringe
+
+- The syringe contains one complete dose. It is for one-time use only.
+- Do not use the syringe if the carton is damaged or if the tamper-proof is broken.
+- The syringe can be used straight from the refrigerator.
+- Keep this medicine out of the sight and reach of children.
+- Always keep small parts out of sight and reach of others, especially children.
+
+<div style=\"page-break-after: always\"></div>
+
+People who have poor eyesight should not use the syringe without help from a person who knows how to use the syringe.
+
+## Frequently asked questions
+
+## Do I inject the full volume of the syringe?
+
+Yes, the syringe is for one-time (single) use and contains one complete dose.
+
+## What if the syringe is damaged?
+
+If a syringe has been dropped, damaged or broken, do not use. Take a new one.
+
+## What if the needle is bent?
+
+If the needle is bent, dropped or damaged do not use the syringe. Take a new one.
+
+## Turn this leaflet for further information
+
+You will need information regarding the medicine inside the syringe.
+
+See this information in section 5 on the other side of this leaflet, which includes:
+
+- Storage
+- Expiry date
+- Disposal
+- What the medicine looks like
+
+For any questions contact your doctor.
+
+## Prepare your syringe
+
+## 1. Take out one syringe
+
+<!-- image -->
+
+- Open the carton.
+- Gently take out one syringe by holding the glass barrel.
+- Check the syringe label. Confirm you have the dose prescribed by your doctor.
+
+Do not hold or touch the syringe by the plunger rod or needle cap.
+
+Keep the needle cap on, until you are ready to inject.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2. Inspect your syringe
+
+<!-- image -->
+
+- Look through the glass barrel. Only use the syringe if the medicine appears as described in section 5 on the other side of this leaflet.
+
+The expiry date can be found on the back side of the syringe label.
+
+It is normal to see air bubbles. Do not try to remove bubbles.
+
+Do not use the syringe if it appears to have been used, dropped, damaged or broken.
+
+## 3. Choose your injection site
+
+<!-- image -->
+
+Inject under the skin of your:
+
+- Stomach area (abdomen) at least 5 cm from the belly button.
+- Thighs.
+- ⸰ Back of upper arm (only with help from someone else).
+
+Your doctor will help you choose the injection site that is best for you.
+
+Avoid using the exact same spot as the last time you injected.
+
+<div style=\"page-break-after: always\"></div>
+
+## Inject your dose
+
+## 4. Pull off the needle cap
+
+<!-- image -->
+
+- Pull the needle cap straight off and dispose of it.
+
+You might see drops of medicine from the needle tip. This is normal and does not affect your dose. Continue with your injection right away.
+
+Do not put the needle cap back on the syringe, to avoid needle stick injuries.
+
+## 5. Insert into your skinfold
+
+<!-- image -->
+
+- Gently make a skinfold and fully insert the syringe needle at a 45-degree angle.
+
+You will reach under the skin and not the muscle.
+
+## 6. Inject your dose
+
+<!-- image -->
+
+- With a slow and constant pressure, push the plunger rod all the way in until the plunger stops.
+
+When the plunger is at the bottom and the syringe is empty your dose is complete.
+
+<div style=\"page-break-after: always\"></div>
+
+## 7. Remove your syringe
+
+<!-- image -->
+
+- Remove the needle at a 45-degree angle.
+
+If blood appears at the injection site, press lightly on the area to stop the bleeding, without rubbing.
+
+## Dispose of your syringe
+
+Be careful when handling used needles. Dispose of your syringe right away. Find disposal information in section 5 on the other side of this leaflet.
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
+
+Wegovy 1.5 mg tablets
+
+Wegovy 4 mg tablets Wegovy 9 mg tablets Wegovy 25 mg tablets
+
+semaglutide
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Wegovy is and what it is used for
+2. What you need to know before you take Wegovy
+3. How to take Wegovy
+4. Possible side effects
+5. How to store Wegovy
+6. Contents of the pack and other information
+
+## 1. What Wegovy is and what it is used for
+
+## What Wegovy is
+
+Wegovy is a medicine for weight loss and weight maintenance that contains the active substance semaglutide. It is similar to a natural hormone called glucagon-like peptide-1 (GLP-1) that is released from the intestine after a meal. It works by acting on targets (receptors) in the brain that control your appetite, causing you to feel fuller and less hungry and experience less craving for food. This will help you eat less food and reduce your body weight. Wegovy can also help prevent heart disease.
+
+## What Wegovy is used for
+
+Wegovy is used together with diet and physical activity for weight loss and to help keep the weight under control. It is used in adults, who have
+
+- a BMI of 30 kg/m² or greater (obesity) or
+- a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) who have weight-related health problems (such as diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea' or a history of heart attack, stroke or blood vessel problems).
+
+BMI (Body Mass Index) is a measure of your weight in relation to your height.
+
+## 2. What you need to know before you take Wegovy
+
+## Do not take Wegovy
+
+- if you are allergic to semaglutide or any of the other ingredients of this medicine (listed in section 6).
+
+<div style=\"page-break-after: always\"></div>
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before taking Wegovy.
+
+The use of Wegovy is not recommended if you:
+
+- use other products for weight loss,
+- have type 1 diabetes,
+- have severely reduced kidney function,
+- have severely reduced liver function,
+- have severe heart failure,
+- have uncontrolled or potentially unstable diabetic eye disease (retinopathy).
+
+There is little experience with Wegovy in patients:
+
+- of 85 years and older,
+- with liver problems,
+- with inflammatory diseases affecting the gut,
+- with type 2 diabetes having HbA1c below 8 for the 25 mg tablet,
+- with type 2 diabetes using insulin for the 25 mg tablet.
+
+Please consult your doctor if one of the above applies to you.
+
+If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are taking Wegovy.
+
+## · Dehydration
+
+During treatment with Wegovy, you may feel sick (nausea) or be sick (vomiting), or have diarrhoea. These side effects can cause dehydration (loss of fluids). It is important that you drink enough fluids to prevent dehydration. This is especially important if you have kidney problems. Talk to your doctor if you have any questions or concerns.
+
+## · Inflammation of the pancreas
+
+If you have severe and on-going pain in the stomach area (see section 4) - see a doctor straight away as this could be a sign of inflamed pancreas (acute pancreatitis).
+
+## · People with type 2 diabetes
+
+Wegovy cannot be used as a substitute for insulin. Do not take Wegovy in combination with other medicines that contain GLP-1 receptor agonists (such as liraglutide, dulaglutide, exenatide or lixisenatide).
+
+## · Low blood sugar (hypoglycaemia)
+
+Taking a sulfonylurea or an insulin with Wegovy might increase the risk of getting low blood sugar levels (hypoglycaemia). Please see section 4 for the warning signs of low blood sugar levels. Your doctor may ask you to test your blood sugar levels. This will help your doctor decide if the dose of the sulfonylurea or insulin needs to be changed to reduce the risk of low blood sugar.
+
+## · Diabetic eye disease (retinopathy)
+
+If you have diabetic eye disease and are using insulin, this medicine may lead to a worsening of your vision, and this may require treatment. Fast improvements in blood sugar control may lead to a temporary worsening of diabetic eye disease. If you have diabetic eye disease and experience eye problems while taking this medicine, talk to your doctor.
+
+## · Sudden changes to your eyesight
+
+If you notice a sudden loss of vision or rapidly worsening eyesight during treatment with this medicine, immediately contact your doctor for advice. This may be caused by a very rare side effect called non-arteritic anterior ischaemic optic neuropathy (NAION) (See section 4: Serious side effects). Your doctor may refer you for an eye examination and you may have to stop treatment with this medicine.
+
+<div style=\"page-break-after: always\"></div>
+
+## · Patients with delayed stomach emptying (gastroparesis)
+
+If you have slow (delayed) stomach emptying (called gastroparesis), use of Wegovy may lead to serious or severe gastrointestinal side effects. Talk to your doctor before using Wegovy.
+
+## · Treatment response
+
+If the treatment response with semaglutide is lower than expected, this may be due to low absorption caused by variability in absorption and low absolute bioavailability. You should follow the instructions given in section 3 for optimal effect of semaglutide.
+
+## Children and adolescents
+
+Do not give this medicine to children or adolescents below 18 years of age as it has not been studied in this age group.
+
+## Other medicines and Wegovy
+
+Tell your doctor, pharmacist or nurse if you are taking, have recently taken or might take any other medicines.
+
+In particular, tell your doctor, pharmacist or nurse if you are using medicines containing the following:
+
+- levothyroxine which is used for thyroid disease. This is because your doctor may need to check your thyroid levels if you are taking Wegovy together with levothyroxine.
+- warfarin or similar medicines taken by mouth to reduce blood clotting (oral anti-coagulants). You may need frequent blood tests to check how quickly your blood clots.
+
+## Pregnancy and breast-feeding
+
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
+
+This medicine should not be used during pregnancy, as it is not known if it affects your unborn baby. Therefore, it is recommended to use contraception while taking this medicine. If you wish to become pregnant, discuss how to change your treatment with your doctor as you should stop using this medicine at least 2 months in advance. If you become pregnant while using this medicine, talk to your doctor straight away, as your treatment will need to be changed.
+
+Do not use this medicine if you are breast-feeding. The medicine passes into breast milk, and it is not known how it affects your baby.
+
+## Driving and using machines
+
+Wegovy is unlikely to affect your ability to drive and use machines. Some patients may feel dizzy when taking Wegovy mainly during the first 4 months of treatment (see section 4). If you feel dizzy be extra careful while driving or using machines. If you need any further information, talk to your doctor, pharmacist or nurse.
+
+## People with type 2 diabetes
+
+If you use this medicine in combination with a sulfonylurea or insulin, low blood sugar (hypoglycaemia) may occur which may reduce your ability to concentrate. Avoid driving or using machines if you get any signs of low blood sugar. See section 2, 'Warnings and precautions' for information on increased risk of low blood sugar and section 4 for the warning signs of low blood sugar. Talk to your doctor for further information.
+
+## Wegovy contains sodium
+
+Wegovy 1.5 mg, 4 mg and 9 mg tablets contain less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+
+Wegovy 25 mg tablets contain 23 mg sodium (main component of cooking/table salt) in each tablet. This is equivalent to 1% of the recommended maximum daily dietary intake of sodium for an adult.
+
+<div style=\"page-break-after: always\"></div>
+
+## 3. How to take Wegovy
+
+Always take this medicine exactly as your doctor has told you. Check with your doctor, pharmacist or nurse if you are not sure.
+
+## How much to take
+
+Your treatment will start at a low dose which will be gradually increased over 12 weeks of treatment.
+
+- The starting dose is one 1.5 mg tablet once a day for four weeks.
+- Your doctor will instruct you to gradually increase your dose every four weeks until you reach the recommended dose of 25 mg once daily. If needed, the dose can be maintained at the previous dose level.
+- Once you reach the recommended dose of 25 mg, do not increase this dose further.
+
+Usually, you will be told to follow as below:
+
+| Dose escalation   | Daily dose   |
+|-------------------|--------------|
+| Week 1-4          | 1.5 mg       |
+| Week 5-8          | 4 mg         |
+| Week 9-12         | 9 mg         |
+| From week 13      | 25 mg        |
+
+Your doctor will assess your treatment on a regular basis. You should not take two tablets to get the effect of a higher dose.
+
+## Taking this medicine
+
+- Take your Wegovy tablet on an empty stomach after a recommended fasting period of at least 8 hours.
+- Swallow your Wegovy tablet whole with a sip of water (up to 120 mL). Do not split, crush or chew the tablet, as it is not known if it affects absorption of semaglutide.
+- After taking your Wegovy tablet wait at least 30 minutes before eating or drinking or taking other oral medicines. Waiting less than 30 minutes lowers the absorption of semaglutide.
+
+## People with type 2 diabetes
+
+Tell your doctor if you have type 2 diabetes. Your doctor may adjust the dose of your diabetes medicines to prevent you from getting low blood sugar.
+
+## If you take more Wegovy than you should
+
+Talk to your doctor straight away. You may get side effects such as feeling sick (nausea).
+
+## If you forget to take Wegovy
+
+If you forget to take a dose, skip the missed dose and just take your normal dose the next day.
+
+## If you stop taking Wegovy
+
+Do not stop using this medicine without talking to your doctor. If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Serious side effects
+
+## Common (may affect up to 1 in 10 people)
+
+- Complications of diabetic eye disease (diabetic retinopathy). If you have diabetes you should inform your doctor if you experience eye problems, such as changes in vision, during treatment with this medicine.
+
+<div style=\"page-break-after: always\"></div>
+
+## Uncommon (may affect up to 1 in 1 00 people)
+
+- Inflamed pancreas (acute pancreatitis). Signs of inflamed pancreas may include severe and longlasting pain in your stomach, the pain may move to your back. You should see your doctor immediately if you experience such symptoms.
+
+## Rare (may affect up to 1 in 1 000 people)
+
+- Severe allergic reactions (anaphylactic reactions, angioedema). You should seek immediate medical help and inform your doctor straight away if you get symptoms such as breathing difficulty, swelling, light-headedness, fast heartbeat, sweating and loss of consciousness or rapid swelling under the skin in areas such as the face, throat, arms and legs, which can be life threatening if throat swelling blocks the airway.
+
+## Very Rare (may affect up to 1 in 10 000 people)
+
+- A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight').
+
+## Not known (frequency cannot be estimated from the available data)
+
+- Bowel obstruction. A severe form of constipation with additional symptoms such as stomachache, bloating, vomiting etc.
+
+## Other side effects
+
+## Very common (may affect more than 1 in 10 people)
+
+- Headache
+- Feeling sick (nausea)
+- Being sick (vomiting)
+- Diarrhoea
+- Constipation
+- Stomach pain
+- Feeling weak or tired
+- Upset stomach or indigestion
+- these are mainly seen during dose escalation and usually go away over time.
+
+## Common (may affect up to 1 in 10 people)
+
+- Feeling dizzy
+- Burping
+- Gas (flatulence)
+- Bloating of the stomach
+- Inflamed stomach ('gastritis') - the signs include stomach-ache, feeling sick (nausea) or being sick (vomiting)
+- Reflux or heartburn - also called 'gastro-oesophageal reflux disease'
+- Gallstones
+- Hair loss
+- Change in the way food or drink tastes
+- Change in skin sensation
+- Low blood sugar (hypoglycaemia) in patients with type 2 diabetes.
+
+The warning signs of low blood sugar may come on suddenly. They can include cold sweat, cool pale skin, headache, fast heartbeat, feeling sick (nausea) or very hungry, changes in vision, feeling sleepy or weak, feeling nervous, anxious or confused, difficulty concentrating or shaking.
+
+Your doctor will tell you how to treat low blood sugar and what to do if you notice these warning signs.
+
+Low blood sugar is more likely to happen if you also take a sulfonylurea or insulin. Your doctor may reduce your dose of these medicines before you start using this medicine.
+
+<div style=\"page-break-after: always\"></div>
+
+Uncommon (may affect up to 1 in 100 people)
+
+- Low blood pressure
+- Feeling dizzy or lightheaded on standing or sitting up because of a drop in blood pressure
+- Fast heartbeat
+- Increase of pancreatic enzymes (such as lipase and amylase) shown in blood tests
+- A delay in the emptying of the stomach.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Wegovy
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the blister and carton after 'EXP'. The expiry date refers to the last day of that month.
+
+Store in the original package in order to protect from light and moisture. This medicine does not require any special temperature storage conditions.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Wegovy contains
+
+The active substance is semaglutide. Wegovy 1.5 mg tablets Each tablet contains 1.5 mg semaglutide.
+
+Wegovy 4 mg tablets Each tablet contains 4 mg semaglutide.
+
+Wegovy 9 mg tablets Each tablet contains 9 mg semaglutide.
+
+Wegovy 25 mg tablets
+
+Each tablet contains 25 mg semaglutide.
+
+The other ingredients are salcaprozate sodium and magnesium stearate. See also section 2 'Wegovy contains sodium' for information on sodium.
+
+<div style=\"page-break-after: always\"></div>
+
+## What Wegovy looks like and contents of the pack
+
+Wegovy 1.5 mg tablets are white to light yellow and round (6.5 mm in diameter). They have '1.5' on one side and 'novo' on the other side.
+
+Wegovy 4 mg tablets are white to light yellow and round (6.5 mm in diameter). They have '4' on one side and 'novo' on the other side.
+
+Wegovy 9 mg tablets are white to light yellow and round (6.5 mm in diameter). They have '9' on one side and 'novo' on the other side.
+
+Wegovy 25 mg tablets are white to light yellow and oval shaped (6.8 mm x 12 mm). They have '25' on one side and 'novo' on the other side.
+
+Wegovy 1.5 mg, 4 mg, 9 mg and 25 mg tablets are available in alu/alu blisters in pack sizes of 10, 30 and 90 tablets.
+
+Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder and Manufacturer
+
+Novo Nordisk A/S Novo Allé DK-2880 Bagsværd
+
+Denmark
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

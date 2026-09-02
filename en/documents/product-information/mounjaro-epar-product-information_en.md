@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-26 16:27:26
+document_datetime: 2026-08-28 14:55:58
 document_pages: 202
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mounjaro-epar-product-information_en.pdf
 document_name: mounjaro-epar-product-information_en.pdf
 version: success
-processing_time: 66.3035682
-conversion_datetime: 2026-03-01 20:23:48.4659
+processing_time: 76.4034295
+conversion_datetime: 2026-09-02 22:02:00.627304
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,41 +28,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 2.5 mg solution for injection in pre-filled pen
-
-Mounjaro 5 mg solution for injection in pre-filled pen
-
-Mounjaro 7.5 mg solution for injection in pre-filled pen
-
-Mounjaro 10 mg solution for injection in pre-filled pen
-
-Mounjaro 12.5 mg solution for injection in pre-filled pen
-
-Mounjaro 15 mg solution for injection in pre-filled pen
-
-Mounjaro 2.5 mg solution for injection in vial
-
-Mounjaro 5 mg solution for injection in vial
-
-Mounjaro 7.5 mg solution for injection in vial
-
-Mounjaro 10 mg solution for injection in vial
-
-Mounjaro 12.5 mg solution for injection in vial
-
-Mounjaro 15 mg solution for injection in vial
-
-Mounjaro 2.5 mg/dose KwikPen solution for injection in pre-filled pen
-
-Mounjaro 5 mg/dose KwikPen solution for injection in pre-filled pen
-
-Mounjaro 7.5 mg/dose KwikPen solution for injection in pre-filled pen
-
-Mounjaro 10 mg/dose KwikPen solution for injection in pre-filled pen
-
-Mounjaro 12.5 mg/dose KwikPen solution for injection in pre-filled pen
-
-Mounjaro 15 mg/dose KwikPen solution for injection in pre-filled pen
+Mounjaro 2.5 mg solution for injection in pre-filled pen Mounjaro 5 mg solution for injection in pre-filled pen Mounjaro 7.5 mg solution for injection in pre-filled pen Mounjaro 10 mg solution for injection in pre-filled pen Mounjaro 12.5 mg solution for injection in pre-filled pen Mounjaro 15 mg solution for injection in pre-filled pen Mounjaro 2.5 mg solution for injection in vial Mounjaro 5 mg solution for injection in vial Mounjaro 7.5 mg solution for injection in vial Mounjaro 10 mg solution for injection in vial Mounjaro 12.5 mg solution for injection in vial Mounjaro 15 mg solution for injection in vial Mounjaro 2.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 7.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 10 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 12.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 15 mg/dose KwikPen solution for injection in pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -104,11 +70,9 @@ Each vial contains 5 mg of tirzepatide in 0.5 ml solution (10 mg/ml).
 
 <div style=\"page-break-after: always\"></div>
 
-Mounjaro 7.5 mg solution for injection in vial
+Mounjaro 7.5 mg solution for injection in vial Each vial contains 7.5 mg of tirzepatide in 0.5 ml solution (15 mg/ml).
 
-Each vial contains 7.5 mg of tirzepatide in 0.5 ml solution (15 mg/ml).
-
-Mounjaro 10 mg solution for injection in vial
+## Mounjaro 10 mg solution for injection in vial
 
 Each vial contains 10 mg of tirzepatide in 0.5 ml solution (20 mg/ml).
 
@@ -116,27 +80,37 @@ Mounjaro 12.5 mg solution for injection in vial
 
 Each vial contains 12.5 mg of tirzepatide in 0.5 ml solution (25 mg/ml).
 
-Mounjaro 15 mg solution for injection in vial Each vial contains 15 mg of tirzepatide in 0.5 ml solution (30 mg/ml).
+## Mounjaro 15 mg solution for injection in vial
+
+Each vial contains 15 mg of tirzepatide in 0.5 ml solution (30 mg/ml).
 
 ## Pre-filled pen (KwikPen), multi-dose
 
-Mounjaro 2.5 mg/dose KwikPen solution for injection in pre-filled pen Each dose contains 2.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 10 mg of tirzepatide in 2.4 ml (4.17 mg/ml). Each pen delivers 4 doses of 2.5 mg.
+## Mounjaro 2.5 mg/dose KwikPen solution for injection in pre-filled pen
 
-Mounjaro 5 mg/dose KwikPen solution for injection in pre-filled pen Each dose contains 5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 20 mg of tirzepatide in 2.4 ml (8.33 mg/ml). Each pen delivers 4 doses of 5 mg.
+Each dose contains 2.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 10 mg of tirzepatide in 2.4 ml (4.17 mg/ml). Each pen delivers 4 doses of 2.5 mg.
+
+## Mounjaro 5 mg/dose KwikPen solution for injection in pre-filled pen
+
+Each dose contains 5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 20 mg of tirzepatide in 2.4 ml (8.33 mg/ml). Each pen delivers 4 doses of 5 mg.
 
 ## Mounjaro 7.5 mg/dose KwikPen solution for injection in pre-filled pen
 
 Each dose contains 7.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 30 mg of tirzepatide in 2.4 ml (12.5 mg/ml). Each pen delivers 4 doses of 7.5 mg.
 
-Mounjaro 10 mg/dose KwikPen solution for injection in pre-filled pen Each dose contains 10 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 40 mg of tirzepatide in 2.4 ml (16.7 mg/ml). Each pen delivers 4 doses of 10 mg.
+## Mounjaro 10 mg/dose KwikPen solution for injection in pre-filled pen
+
+Each dose contains 10 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains
+
+40 mg of tirzepatide in 2.4 ml (16.7 mg/ml). Each pen delivers 4 doses of 10 mg.
 
 ## Mounjaro 12.5 mg/dose KwikPen solution for injection in pre-filled pen
 
-Each dose contains 12.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains
+Each dose contains 12.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 50 mg of tirzepatide in 2.4 ml (20.8 mg/ml). Each pen delivers 4 doses of 12.5 mg.
 
-50 mg of tirzepatide in 2.4 ml (20.8 mg/ml). Each pen delivers 4 doses of 12.5 mg.
+## Mounjaro 15 mg/dose KwikPen solution for injection in pre-filled pen
 
-Mounjaro 15 mg/dose KwikPen solution for injection in pre-filled pen Each dose contains 15 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 60 mg of tirzepatide in 2.4 ml (25 mg/ml). Each pen delivers 4 doses of 15 mg.
+Each dose contains 15 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 60 mg of tirzepatide in 2.4 ml (25 mg/ml). Each pen delivers 4 doses of 15 mg.
 
 For the full list of excipients, see section 6.1.
 
@@ -159,7 +133,7 @@ Mounjaro is indicated for the treatment of adults, adolescents and children aged
 - as monotherapy when metformin is considered inappropriate due to intolerance or contraindications
 - in addition to other medicinal products for the treatment of diabetes.
 
-For study results with respect to combinations, effects on glycaemic control and the populations studied, see sections 4.4, 4.5 and 5.1.
+For study results with respect to combinations, effects on glycaemic control, the populations studied, and cardiovascular events see sections 4.4, 4.5 and 5.1.
 
 ## Weight management
 
@@ -236,9 +210,9 @@ Patients and caregivers should be advised to carefully read the instructions for
 
 Before using Mounjaro KwikPen, the instructions for use must be read carefully.
 
-## Vial
-
 <div style=\"page-break-after: always\"></div>
+
+## Vial
 
 Patients and their caregivers should be trained in subcutaneous injection technique before administering Mounjaro.
 
@@ -272,7 +246,7 @@ Tirzepatide has not been studied in patients with severe gastrointestinal diseas
 
 ## Diabetic retinopathy
 
-Tirzepatide has not been studied in patients with non-proliferative diabetic retinopathy requiring acute therapy, proliferative diabetic retinopathy or diabetic macular oedema, and should be used with caution in these patients with appropriate monitoring.
+Rapid improvement in glucose control has been associated with a temporary worsening of diabetic retinopathy. Patients with diabetic retinopathy should be monitored closely and treated according to clinical guidelines.
 
 ## Aspiration in association with general anaesthesia or deep sedation
 
@@ -300,7 +274,7 @@ Following a 5 mg single dose of tirzepatide, the maximum plasma concentration (C
 
 ## Oral contraceptives
 
-Administration of a combination oral contraceptive (0.035 mg ethinyl estradiol plus 0.25 mg norgestimate, a prodrug of norelgestromin) in the presence of a single dose of tirzepatide (5 mg) resulted in a reduction of oral contraceptive Cmax and area under the curve (AUC). Ethinyl estradiol Cmax was reduced by 59 % and AUC by 20 % with a delay in tmax of 4 hours. Norelgestromin Cmax was reduced by 55 % and AUC by 23 % with a delay in tmax of 4.5 hours. Norgestimate Cmax was reduced by 66 %, and AUC by 20 % with a delay in tmax of 2.5 hours. This reduction in exposure after a single dose of tirzepatide is not considered clinically relevant.  No dose adjustment of oral contraceptives is required.
+Administration of a combination oral contraceptive (0.035 mg ethinyl estradiol plus 0.25 mg norgestimate, a prodrug of norelgestromin) in the presence of a single dose of tirzepatide (5 mg) resulted in a reduction of oral contraceptive Cmax and area under the curve (AUC). Ethinyl estradiol Cmax was reduced by 59 % and AUC by 20 % with a delay in tmax of 4 hours. Norelgestromin Cmax was reduced by 55 % and AUC by 23 % with a delay in tmax of 4.5 hours. Norgestimate Cmax was reduced by 66 %, and AUC by 20 % with a delay in tmax of 2.5 hours. This reduction in exposure after a single dose of tirzepatide is not considered clinically relevant. No dose adjustment of oral contraceptives is required.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -310,11 +284,9 @@ Women of childbearing potential are recommended to use contraception when treate
 
 ## Pregnancy
 
-There are no or a limited amount of data from the use of tirzepatide in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Tirzepatide is not recommended during pregnancy and in women of childbearing potential not using contraception. If a patient wishes to
+There are no or a limited amount of data from the use of tirzepatide in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Tirzepatide is not recommended during pregnancy and in women of childbearing potential not using contraception. If a patient wishes to become pregnant, or pregnancy occurs, tirzepatide should be discontinued. Tirzepatide should be discontinued at least 1 month before a planned pregnancy due to the long half-life (see section 5.2).
 
 <div style=\"page-break-after: always\"></div>
-
-become pregnant, or pregnancy occurs, tirzepatide should be discontinued. Tirzepatide should be discontinued at least 1 month before a planned pregnancy due to the long half-life (see section 5.2).
 
 ## Breast-feeding
 
@@ -334,7 +306,7 @@ Tirzepatide has no or negligible influence on the ability to drive or use machin
 
 ## Summary of safety profile
 
-In 13 completed phase 3 studies, 8 522 adult patients were exposed to tirzepatide alone or in combination with other glucose lowering medicinal products. The most frequently reported adverse reactions were gastrointestinal disorders and these were mostly mild or moderate in severity. The incidence of nausea, diarrhoea and vomiting was higher during the dose escalation period and decreased over time (see sections 4.2, and 4.4).
+In 14 completed phase 3 studies, 15 169 adult patients were exposed to tirzepatide alone or in combination with other glucose lowering medicinal products. The most frequently reported adverse reactions were gastrointestinal disorders and these were mostly mild or moderate in severity. The incidence of nausea, diarrhoea and vomiting was higher during the dose escalation period and decreased over time (see sections 4.2, and 4.4).
 
 ## Tabulated list of adverse reactions
 
@@ -342,19 +314,19 @@ The following related adverse reactions from clinical studies are listed below b
 
 ## Table 1. Adverse reactions
 
-| System organ class                 | Very common                                               | Common                                                                      | Uncommon                                                        | Rare                                   |
-|------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------|
-| Immune system disorders            |                                                           | Hypersensitivity reactions                                                  |                                                                 | Anaphylactic reaction # , Angioedema # |
-| Metabolism and nutrition disorders | Hypoglycaemia 1 * when used with sulphonylurea or insulin | Hypoglycaemia 1 * when used with metformin and SGLT2i, Decreased appetite 1 | Hypoglycaemia 1 * when used with metformin 6 , Weight decreased | 1                                      |
-| Nervous system disorders           |                                                           | Dizziness 2                                                                 | Dysgeusia, Dysaesthesia                                         |                                        |
+| System organ class                 | Very common                                                                       | Common                                                 | Uncommon                                                          | Rare                                   |
+|------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------|
+| Immune system disorders            |                                                                                   | Hypersensitivity reactions                             |                                                                   | Anaphylactic reaction # , Angioedema # |
+| Metabolism and nutrition disorders | Hypoglycaemia 1 * when used with sulphonylurea or insulin, Decreased appetite 1,7 | Hypoglycaemia 1 * when used with metformin and SGLT2i- | Hypoglycaemia 1 * when used with metformin 6 , Weight decreased 1 |                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Vascular disorders                                   |                                                                   | Hypotension 2                                                                            |                                                                             |
+| Nervous system disorders                             |                                                                   | Dizziness 2                                                                              | Dysgeusia, Dysaesthesia ##                                                  |
 |------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Vascular disorders                                   |                                                                   | Hypotension 2                                                                            |                                                                             |
 | Gastrointestina l disorders                          | Nausea, Diarrhoea, Vomiting 3 , Abdominal pain 3 , Constipation 4 | Dyspepsia, Abdominal distention, Eructation, Flatulence, Gastroesophageal reflux disease | Cholelithiasis, Cholecystitis, Acute pancreatitis, Delayed gastric emptying |
 | Skin and subcutaneous tissue disorders               |                                                                   | Hair loss 2                                                                              |                                                                             |
-| General disorders and administration site conditions |                                                                   | Fatigue † , Injection site reactions                                                     | Injection site pain                                                         |
+| General disorders and administration site conditions | Fatigue †8                                                        | Injection site reactions                                                                 | Injection site pain                                                         |
 | Investigations                                       |                                                                   | Heart rate increased, Lipase increased, Amylase increased, Blood calcitonin increased 5  |                                                                             |
 
 ## Description of selected adverse reactions
@@ -365,13 +337,13 @@ Hypersensitivity reactions have been reported with tirzepatide in pooled adult T
 
 Cases of anaphylactic reaction and angioedema have been rarely reported with marketed use of tirzepatide.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hypoglycaemia in patients with type 2 diabetes mellitus
 
 ## Type 2 diabetes studies in adults
 
 Clinically significant hypoglycaemia (blood glucose &lt; 3.0 mmol/L (&lt; 54 mg/dL)) or severe hypoglycaemia (requiring the assistance of another person) occurred in 10 to 14 % (0.14 to 0.16 events/patient year) of patients when tirzepatide was added to sulphonylurea and in 14 to 19 % (0.43 to 0.64 events/patient year) of patients when tirzepatide was added to basal insulin.
-
-<div style=\"page-break-after: always\"></div>
 
 The rate of clinically significant hypoglycaemia when tirzepatide was used as monotherapy or when added to other oral antidiabetic medicinal products was up to 0.04 events/patient year (see table 1 and sections 4.2, 4.4 and 5.1).
 
@@ -395,11 +367,9 @@ More patients in the tirzepatide 5 mg (1.9 %), 10 mg (4.4 %) and 15 mg (4.1 %) g
 
 In pooled placebo-controlled weight management phase 3 studies, the overall incidence of cholecystitis and cholecystitis acute was 0.6 % and 0.2 % for tirzepatide- and placebo-treated patients, respectively.
 
-In pooled placebo-controlled weight management phase 3 studies, in pooled placebo-controlled OSA phase 3 studies, and in a placebo-controlled HFpEF phase 3 study, acute gallbladder disease was
+In pooled placebo-controlled weight management phase 3 studies, in pooled placebo-controlled OSA phase 3 studies, and in a placebo-controlled HFpEF phase 3 study, acute gallbladder disease was reported in 2.0 %, 0.9 %, and 4.4 % of tirzepatide-treated patients, respectively, and in 1.6 %, 0.9 %, and 2.7 % of placebo-treated patients, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-reported in 2.0 %, 0.9 %, and 4.4 % of tirzepatide-treated patients, respectively, and in 1.6 %, 0.9 %, and 2.7 % of placebo-treated patients, respectively.
 
 In the weight management phase 3 studies, acute gallbladder events were positively associated with weight reduction.
 
@@ -417,6 +387,8 @@ The percentage of patients who had a change of baseline heart rate of &gt; 20 bp
 
 Small mean increases in PR interval were observed with tirzepatide when compared to placebo (mean increase of 1.4 to 3.2 msec and mean decrease of 1.4 msec respectively). No difference in arrhythmia and cardiac conduction disorder treatment emergent events were observed between tirzepatide 5 mg, 10 mg, 15 mg and placebo (3.8 %, 2.1 %, 3.7 % and 3 % respectively).
 
+In SURPASS-CVOT, treatment with tirzepatide resulted in a maximum mean increase in heart rate of 6 bpm.
+
 In pooled placebo-controlled weight management phase 3 studies, in pooled placebo-controlled OSA phase 3 studies, and in a placebo-controlled HFpEF phase 3 study, treatment with tirzepatide resulted in a mean increase in heart rate of 3, 2 and 3 beats per minute, respectively. There was a mean increase in heart rate of &lt;1, &lt;1 and 1 beat per minute, respectively, in placebo-treated patients
 
 In a placebo-controlled weight management study in patients without T2DM, the percentage of patients who had a change in baseline heart rate of &gt; 20 bpm for 2 or more consecutive visits was 2.4 %, 4.9 % and 6.3 %, for tirzepatide 5 mg, 10 mg and 15 mg, respectively, compared with 1.2 % for placebo. Small mean increases in PR interval were observed with tirzepatide and placebo (mean increase of 0.3 to 1.4 msec and of 0.5 msec respectively). No difference in arrhythmia and cardiac conduction disorder treatment emergent events were observed between tirzepatide 5 mg, 10 mg, 15 mg and placebo (3.7 %, 3.3 %, 3.3 % and 3.6 % respectively).
@@ -432,6 +404,8 @@ Overall, in phase 3 studies, the most common signs and symptoms of injection sit
 ## Pancreatic enzymes
 
 In pooled placebo-controlled T2DM phase 3 studies, treatment in adult patients with tirzepatide resulted in mean increases from baseline in pancreatic amylase of 33 % to 38 % and lipase of 31 % to 42 % across doses. Placebo treated patients had an increase from baseline in amylase of 4 % and no changes were observed in lipase.
+
+In SURPASS-CVOT, at month 36, treatment with tirzepatide resulted in mean increases from baseline in pancreatic amylase of 29 % and lipase of 28 %.
 
 In pooled placebo-controlled weight management phase 3 studies, in pooled placebo-controlled OSA phase 3 studies, and in a placebo-controlled HFpEF phase 3 study, treatment with tirzepatide resulted in mean increases from baseline in pancreatic amylase of 23 %, 25 %, and 28 %, respectively, and lipase of 34 %, 39 %, and 32 %, respectively. Placebo treated patients had an increase from baseline in amylase of 2 %, 1 %, and 4 %, respectively, and in lipase of 6 %, 4 %, and 1 %, respectively.
 
@@ -481,7 +455,7 @@ In a hyperglycaemic clamp study in adult patients with type 2 diabetes, tirzepat
 
 ## Insulin sensitivity
 
-## Tirzepatide improves insulin sensitivity.
+Tirzepatide improves insulin sensitivity.
 
 In adults, tirzepatide 15 mg improved whole body insulin sensitivity by 63 %, as measured by M-value, a measure of glucose tissue uptake using hyperinsulinemic euglycaemic clamp. The M-value was unchanged for placebo.
 
@@ -505,7 +479,13 @@ In a cardiac magnetic resonance imaging substudy in patients with HFpEF and obes
 
 ## Type 2 diabetes mellitus in adults
 
-The safety and efficacy of tirzepatide were evaluated in five global randomised, controlled, phase 3 studies (SURPASS 1-5) assessing glycaemic control as the primary objective. The studies involved 6 263 treated patients with type 2 diabetes (4 199 treated with tirzepatide). The secondary objectives included body weight, percentage of patients achieving weight reduction targets, fasting serum glucose (FSG) and percentage of patients reaching target HbA1c. All five phase 3 studies assessed tirzepatide 5 mg, 10 mg and 15 mg. All patients treated with tirzepatide started with 2.5 mg for 4 weeks. Then the dose of tirzepatide was increased by 2.5 mg every 4 weeks until they reached their assigned dose.
+Improvement of glycaemic control, reduction of cardiovascular morbidity and mortality, weight loss, and preservation of kidney function are integral parts of the treatment of type 2 diabetes.
+
+The safety and efficacy of tirzepatide were evaluated in five global randomised, controlled, phase 3 studies (SURPASS 1-5) assessing glycaemic control as the primary objective, and the cardiovascular outcome study (SURPASS-CVOT), which included a total of 19 557 patients with type 2 diabetes mellitus (10 846 treated with tirzepatide).
+
+## SURPASS 1-5
+
+The studies involved 6 263 treated patients with type 2 diabetes (4 199 treated with tirzepatide). The secondary objectives included body weight, percentage of patients achieving weight reduction targets, fasting serum glucose (FSG) and percentage of patients reaching target HbA1c. All five phase 3 studies assessed tirzepatide 5 mg, 10 mg and 15 mg. All patients treated with tirzepatide started with 2.5 mg for 4 weeks. Then the dose of tirzepatide was increased by 2.5 mg every 4 weeks until they reached their assigned dose.
 
 Across all studies, treatment with tirzepatide demonstrated sustained, statistically significant and clinically meaningful reductions from baseline in HbA1c as the primary objective compared to either placebo or active control treatment (semaglutide, insulin degludec and insulin glargine) for up to 1 year. In 1 study these effects were sustained for up to 2 years. Statistically significant and clinically meaningful reductions from baseline in body weight were also demonstrated. Results from the phase 3 studies are presented below based on the on-treatment data without rescue therapy in the modified intent-to-treat (mITT) population consisting of all randomly assigned patients who were exposed to at least 1 dose of study treatment, excluding patients discontinuing study treatment due to inadvertent enrolment.
 
@@ -517,36 +497,30 @@ In a 40 week double-blind placebo-controlled study, 478 patients with inadequate
 
 Table 2. SURPASS-1: Results at week 40
 
-|                                    |                                  | Tirzepatide 5 mg       | Tirzepatide 10 mg      | Tirzepatide 15 mg      | Placebo   |
-|------------------------------------|----------------------------------|------------------------|------------------------|------------------------|-----------|
-| mITT population (n)                | mITT population (n)              | 121                    | 121                    | 120                    | 113       |
-| HbA 1c (%)                         | Baseline (mean)                  | 7.97                   | 7.88                   | 7.88                   | 8.08      |
-| HbA 1c (%)                         | Change from baseline             | -1.87 ##               | -1.89 ##               | -2.07 ##               | +0.04     |
-| HbA 1c (%)                         | Difference from placebo [95 %CI] | -1.91** [-2.18, -1.63] | -1.93** [-2.21, -1.65] | -2.11** [-2.39, -1.83] | -         |
-| HbA 1c (mmol/mol)                  | Baseline (mean)                  | 63.6                   | 62.6                   | 62.6                   | 64.8      |
-| HbA 1c (mmol/mol)                  | Change from baseline             | -20.4 ##               | -20.7 ##               | -22.7 ##               | +0.4      |
-| HbA 1c (mmol/mol)                  | Difference from placebo [95 %CI] | -20.8** [-23.9, -17.8] | -21.1** [-24.1, -18.0] | -23.1** [-26.2, -20.0] | -         |
-| Patients (%) achieving HbA 1c      | <7%                              | 86.8**                 | 91.5**                 | 87.9**                 | 19.6      |
-| Patients (%) achieving HbA 1c      | ≤ 6.5%                           | 81.8 ††                | 81.4 ††                | 86.2 ††                | 9.8       |
-| Patients (%) achieving HbA 1c      | < 5.7%                           | 33.9**                 | 30.5**                 | 51.7**                 | 0.9       |
-| FSG (mmol/L)                       | Baseline (mean)                  | 8.5                    | 8.5                    | 8.6                    | 8.6       |
-| FSG (mmol/L)                       | Change from baseline             | -2.4 ##                | -2.6 ##                | -2.7 ##                | +0.7 #    |
-| FSG (mmol/L)                       | Difference from placebo [95 %CI] | -3.13** [-3.71, -2.56] | -3.26** [-3.84, -2.69] | -3.45** [-4.04, -2.86] | -         |
-| FSG (mg/dL)                        | Baseline (mean)                  | 153.7                  | 152.6                  | 154.6                  | 155.2     |
-| FSG (mg/dL)                        | Change from baseline             | -43.6 ##               | -45.9 ##               | -49.3 ##               | +12.9 #   |
-| FSG (mg/dL)                        | Difference from placebo [95 %CI] | -56.5** [-66.8, -46.1] | -58.8** [-69.2, -48.4] | -62.1** [-72.7, -51.5] | -         |
-| Body weight (kg)                   | Baseline (mean)                  | 87.0                   | 85.7                   | 85.9                   | 84.4      |
-| Body weight (kg)                   | Change from baseline             | -7.0 ##                | -7.8 ##                | -9.5 ##                | -0.7      |
-| Body weight (kg)                   | Difference from placebo [95 %CI] | -6.3** [-7.8, -4.7]    | -7.1** [-8.6, -5.5]    | -8.8** [-10.3, -7.2]   | -         |
-| Patients (%) achieving weight loss | ≥ 5%                             | 66.9 ††                | 78.0 ††                | 76.7 ††                | 14.3      |
-| Patients (%) achieving weight loss | ≥ 10%                            | 30.6 ††                | 39.8 ††                | 47.4 ††                | 0.9       |
-| Patients (%) achieving weight loss | ≥ 15%                            | 13.2 †                 | 17.0 †                 | 26.7 †                 | 0.0       |
-
-* p &lt; 0.05, ** p &lt; 0.001 for superiority, adjusted for multiplicity.
-
-† p &lt; 0.05, †† p &lt; 0.001 compared to placebo, not adjusted for multiplicity.
-
-# p &lt; 0.05, ## p &lt; 0.001 compared to baseline, not adjusted for multiplicity.
+|                                    |                                   | Tirzepatide 5 mg       | Tirzepatide 10 mg      | Tirzepatide 15 mg      | Placebo   |
+|------------------------------------|-----------------------------------|------------------------|------------------------|------------------------|-----------|
+| mITT population (n)                | mITT population (n)               | 121                    | 121                    | 120                    | 113       |
+| HbA 1c (%)                         | Baseline (mean)                   | 7.97                   | 7.88                   | 7.88                   | 8.08      |
+| HbA 1c (%)                         | Change from baseline              | -1.87 ##               | -1.89 ##               | -2.07 ##               | +0.04     |
+| HbA 1c (%)                         | Difference from placebo [95 % CI] | -1.91** [-2.18, -1.63] | -1.93** [-2.21, -1.65] | -2.11** [-2.39, -1.83] | -         |
+| HbA 1c (mmol/mol)                  | Baseline (mean)                   | 63.6                   | 62.6                   | 62.6                   | 64.8      |
+| HbA 1c (mmol/mol)                  | Change from baseline              | -20.4 ##               | -20.7 ##               | -22.7 ##               | +0.4      |
+| HbA 1c (mmol/mol)                  | Difference from placebo [95 % CI] | -20.8** [-23.9, -17.8] | -21.1** [-24.1, -18.0] | -23.1** [-26.2, -20.0] | -         |
+| Patients (%) achieving HbA 1c      | < 7 %                             | 86.8**                 | 91.5**                 | 87.9**                 | 19.6      |
+| Patients (%) achieving HbA 1c      | ≤ 6.5 %                           | 81.8 ††                | 81.4 ††                | 86.2 ††                | 9.8       |
+| Patients (%) achieving HbA 1c      | < 5.7 %                           | 33.9**                 | 30.5**                 | 51.7**                 | 0.9       |
+| FSG (mmol/L)                       | Baseline (mean)                   | 8.5                    | 8.5                    | 8.6                    | 8.6       |
+| FSG (mmol/L)                       | Change from baseline              | -2.4 ##                | -2.6 ##                | -2.7 ##                | +0.7 #    |
+| FSG (mmol/L)                       | Difference from placebo [95 % CI] | -3.13** [-3.71, -2.56] | -3.26** [-3.84, -2.69] | -3.45** [-4.04, -2.86] | -         |
+| FSG (mg/dL)                        | Baseline (mean)                   | 153.7                  | 152.6                  | 154.6                  | 155.2     |
+| FSG (mg/dL)                        | Change from baseline              | -43.6 ##               | -45.9 ##               | -49.3 ##               | +12.9 #   |
+| FSG (mg/dL)                        | Difference from placebo [95 % CI] | -56.5** [-66.8, -46.1] | -58.8** [-69.2, -48.4] | -62.1** [-72.7, -51.5] | -         |
+| Body weight (kg)                   | Baseline (mean)                   | 87.0                   | 85.7                   | 85.9                   | 84.4      |
+| Body weight (kg)                   | Change from baseline              | -7.0 ##                | -7.8 ##                | -9.5 ##                | -0.7      |
+| Body weight (kg)                   | Difference from placebo [95 % CI] | -6.3** [-7.8, -4.7]    | -7.1** [-8.6, -5.5]    | -8.8** [-10.3, -7.2]   | -         |
+| Patients (%) achieving weight loss | ≥ 5 %                             | 66.9 ††                | 78.0 ††                | 76.7 ††                | 14.3      |
+| Patients (%) achieving weight loss | ≥ 10 %                            | 30.6 ††                | 39.8 ††                | 47.4 ††                | 0.9       |
+| Patients (%) achieving weight loss | ≥ 15 %                            | 13.2 †                 | 17.0 †                 | 26.7 †                 | 0.0       |
 
 Figure 1. Mean HbA1c (%) and mean body weight (kg) from baseline to week 40
 
@@ -554,38 +528,36 @@ Figure 1. Mean HbA1c (%) and mean body weight (kg) from baseline to week 40
 
 SURPASS-2 - Combination therapy with metformin
 
-In a 40 week active-controlled open-label study, (double-blind with respect to tirzepatide dose assignment) 1879 patients were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or
+In a 40 week active-controlled open-label study, (double-blind with respect to tirzepatide dose assignment) 1879 patients were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or semaglutide 1 mg once weekly, all in combination with metformin. Patients had a mean age of 57 years and 47 % were men. At baseline the patients had a mean duration of diabetes of 9 years and the mean BMI was 34 kg/m 2 .
 
 <div style=\"page-break-after: always\"></div>
 
-semaglutide 1 mg once weekly, all in combination with metformin. Patients had a mean age of 57 years and 47 % were men. At baseline the patients had a mean duration of diabetes of 9 years and the mean BMI was 34 kg/m 2 .
-
 Table 3. SURPASS-2: Results at week 40
 
-|                                    |                                      | Tirzepatide 5 mg       | Tirzepatide 10 mg       | Tirzepatide 15 mg       | Semaglutide 1 mg   |
-|------------------------------------|--------------------------------------|------------------------|-------------------------|-------------------------|--------------------|
-| mITT population (n)                | mITT population (n)                  | 470                    | 469                     | 469                     | 468                |
-| HbA 1c (%)                         | Baseline (mean)                      | 8.33                   | 8.31                    | 8.25                    | 8.24               |
-| HbA 1c (%)                         | Change from baseline                 | -2.09 ##               | -2.37 ##                | -2.46 ##                | -1.86 ##           |
-| HbA 1c (%)                         | Difference from semaglutide [95 %CI] | -0.23** [-0.36, -0.10] | -0.51** [-0.64, -0.38]  | -0.60** [-0.73, -0.47]  | -                  |
-| HbA 1c (mmol/mol)                  | Baseline (mean)                      | 67.5                   | 67.3                    | 66.7                    | 66.6               |
-| HbA 1c (mmol/mol)                  | Change from baseline                 | -22.8 ##               | -25.9 ##                | -26.9 ##                | -20.3 ##           |
-| HbA 1c (mmol/mol)                  | Difference from semaglutide [95 %CI] | -2.5** [-3.9, -1.1]    | -5.6** [-7.0, -4.1]     | -6.6** [-8.0, -5.1]     | N/A                |
-| Patients (%) achieving HbA 1c      | <7%                                  | 85.5*                  | 88.9**                  | 92.2**                  | 81.1               |
-| Patients (%) achieving HbA 1c      | ≤ 6.5%                               | 74.0 †                 | 82.1 ††                 | 87.1 ††                 | 66.2               |
-| Patients (%) achieving HbA 1c      | < 5.7%                               | 29.3 ††                | 44.7**                  | 50.9**                  | 19.7               |
-| FSG (mmol/L)                       | Baseline (mean)                      | 9.67                   | 9.69                    | 9.56                    | 9.49               |
-| FSG (mmol/L)                       | Change from baseline                 | -3.11 ##               | -3.42 ##                | -3.52 ##                | -2.70 ##           |
-| FSG (mmol/L)                       | Difference from semaglutide [95 %CI] | -0.41 † [-0.65, -0.16] | -0.72 †† [-0.97, -0.48] | -0.82 †† [-1.06, -0.57] | -                  |
-| FSG (mg/dL)                        | Baseline (mean)                      | 174.2                  | 174.6                   | 172.3                   | 170.9              |
-| FSG (mg/dL)                        | Change from baseline                 | -56.0 ##               | -61.6 ##                | -63.4 ##                | -48.6 ##           |
-| FSG (mg/dL)                        | Difference from semaglutide [95 %CI] | -7.3 † [-11.7, -3.0]   | -13.0 †† [-17.4, -8.6]  | -14.7 †† [-19.1, -10.3] | -                  |
-| Body weight (kg)                   | Baseline (mean)                      | 92.6                   | 94.9                    | 93.9                    | 93.8               |
-| Body weight (kg)                   | Change from baseline                 | -7.8 ##                | -10.3 ##                | -12.4 ##                | -6.2 ##            |
-| Body weight (kg)                   | Difference from semaglutide [95 %CI] | -1.7** [-2.6, -0.7]    | -4.1** [-5.0, -3.2]     | -6.2** [-7.1, -5.3]     | -                  |
-| Patients (%) achieving weight loss | ≥ 5%                                 | 68.6 †                 | 82.4 ††                 | 86.2 ††                 | 58.4               |
-| Patients (%) achieving weight loss | ≥ 10%                                | 35.8 ††                | 52.9 ††                 | 64.9 ††                 | 25.3               |
-| Patients (%) achieving weight loss | ≥ 15%                                | 15.2 †                 | 27.7 ††                 | 39.9 ††                 | 8.7                |
+|                                    |                                       | Tirzepatide 5 mg       | Tirzepatide 10 mg       | Tirzepatide 15 mg       | Semaglutide 1 mg   |
+|------------------------------------|---------------------------------------|------------------------|-------------------------|-------------------------|--------------------|
+| mITT population (n)                | mITT population (n)                   | 470                    | 469                     | 469                     | 468                |
+| HbA 1c (%)                         | Baseline (mean)                       | 8.33                   | 8.31                    | 8.25                    | 8.24               |
+| HbA 1c (%)                         | Change from baseline                  | -2.09 ##               | -2.37 ##                | -2.46 ##                | -1.86 ##           |
+| HbA 1c (%)                         | Difference from semaglutide [95 % CI] | -0.23** [-0.36, -0.10] | -0.51** [-0.64, -0.38]  | -0.60** [-0.73, -0.47]  | -                  |
+| HbA 1c (mmol/mol)                  | Baseline (mean)                       | 67.5                   | 67.3                    | 66.7                    | 66.6               |
+| HbA 1c (mmol/mol)                  | Change from baseline                  | -22.8 ##               | -25.9 ##                | -26.9 ##                | -20.3 ##           |
+| HbA 1c (mmol/mol)                  | Difference from semaglutide [95 % CI] | -2.5** [-3.9, -1.1]    | -5.6** [-7.0, -4.1]     | -6.6** [-8.0, -5.1]     | N/A                |
+| Patients (%) achieving HbA 1c      | < 7 %                                 | 85.5*                  | 88.9**                  | 92.2**                  | 81.1               |
+| Patients (%) achieving HbA 1c      | ≤ 6.5 %                               | 74.0 †                 | 82.1 ††                 | 87.1 ††                 | 66.2               |
+| Patients (%) achieving HbA 1c      | < 5.7 %                               | 29.3 ††                | 44.7**                  | 50.9**                  | 19.7               |
+| FSG (mmol/L)                       | Baseline (mean)                       | 9.67                   | 9.69                    | 9.56                    | 9.49               |
+| FSG (mmol/L)                       | Change from baseline                  | -3.11 ##               | -3.42 ##                | -3.52 ##                | -2.70 ##           |
+| FSG (mmol/L)                       | Difference from semaglutide [95 % CI] | -0.41 † [-0.65, -0.16] | -0.72 †† [-0.97, -0.48] | -0.82 †† [-1.06, -0.57] | -                  |
+| FSG (mg/dL)                        | Baseline (mean)                       | 174.2                  | 174.6                   | 172.3                   | 170.9              |
+| FSG (mg/dL)                        | Change from baseline                  | -56.0 ##               | -61.6 ##                | -63.4 ##                | -48.6 ##           |
+| FSG (mg/dL)                        | Difference from semaglutide [95 % CI] | -7.3 † [-11.7, -3.0]   | -13.0 †† [-17.4, -8.6]  | -14.7 †† [-19.1, -10.3] | -                  |
+| Body weight (kg)                   | Baseline (mean)                       | 92.6                   | 94.9                    | 93.9                    | 93.8               |
+| Body weight (kg)                   | Change from baseline                  | -7.8 ##                | -10.3 ##                | -12.4 ##                | -6.2 ##            |
+| Body weight (kg)                   | Difference from semaglutide [95 % CI] | -1.7** [-2.6, -0.7]    | -4.1** [-5.0, -3.2]     | -6.2** [-7.1, -5.3]     | -                  |
+| Patients (%) achieving weight loss | ≥ 5 %                                 | 68.6 †                 | 82.4 ††                 | 86.2 ††                 | 58.4               |
+| Patients (%) achieving weight loss | ≥ 10 %                                | 35.8 ††                | 52.9 ††                 | 64.9 ††                 | 25.3               |
+| Patients (%) achieving weight loss | ≥ 15 %                                | 15.2 †                 | 27.7 ††                 | 39.9 ††                 | 8.7                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -593,7 +565,7 @@ Figure 2. Mean HbA1c (%) and mean body weight (kg) from baseline to week 40
 
 <!-- image -->
 
-SURPASS-3 - Combination therapy with metformin, with or without SGLT2i
+## SURPASS-3 - Combination therapy with metformin, with or without SGLT2i
 
 In a 52 week active-controlled open-label study, 1 444 patients were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or insulin degludec, all in combination with metformin with or without a SGLT2i. 32 % of patients were using SGLT2i at baseline. At baseline the patients had a mean duration of diabetes of 8 years, a mean BMI of 34 kg/m 2 , a mean age of 57 years and 56 % were men.
 
@@ -603,30 +575,30 @@ Patients treated with insulin degludec started at a dose of 10 U/day which was a
 
 Table 4. SURPASS-3: Results at week 52
 
-|                                    |                                           | Tirzepatide 5 mg       | Tirzepatide 10 mg      | Tirzepatide 15 mg      | Titrated insulin degludec   |
-|------------------------------------|-------------------------------------------|------------------------|------------------------|------------------------|-----------------------------|
-| mITT population (n)                | mITT population (n)                       | 358                    | 360                    | 358                    | 359                         |
-| HbA 1c (%)                         | Baseline (mean)                           | 8.17                   | 8.19                   | 8.21                   | 8.13                        |
-| HbA 1c (%)                         | Change from baseline                      | -1.93 ##               | -2.20 ##               | -2.37 ##               | -1.34 ##                    |
-| HbA 1c (%)                         | Difference from insulin degludec [95 %CI] | -0.59** [-0.73, -0.45] | -0.86** [-1.00, -0.72] | -1.04** [-1.17, -0.90] | -                           |
-| HbA 1c (mmol/mol)                  | Baseline (mean)                           | 65.8                   | 66.0                   | 66.3                   | 65.4                        |
-| HbA 1c (mmol/mol)                  | Change from baseline                      | -21.1 ##               | -24.0 ##               | -26.0 ##               | -14.6 ##                    |
-| HbA 1c (mmol/mol)                  | Difference from insulin degludec [95 %CI] | -6.4** [-7.9, -4.9]    | -9.4** [-10.9, -7.9]   | -11.3** [-12.8, -9.8]  | -                           |
-| Patients (%) achieving HbA 1c      | <7%                                       | 82.4**                 | 89.7**                 | 92.6**                 | 61.3                        |
-| Patients (%) achieving HbA 1c      | ≤ 6.5%                                    | 71.4 ††                | 80.3 ††                | 85.3 ††                | 44.4                        |
-| Patients (%) achieving HbA 1c      | < 5.7%                                    | 25.8 ††                | 38.6 ††                | 48.4 ††                | 5.4                         |
-| FSG (mmol/L)                       | Baseline (mean)                           | 9.54                   | 9.48                   | 9.35                   | 9.24                        |
-| FSG (mmol/L)                       | Change from baseline                      | -2.68 ##               | -3.04 ##               | -3.29 ##               | -3.09 ##                    |
-| FSG (mmol/L)                       | Difference from insulin degludec [95 %CI] | 0.41 † [0.14, 0.69]    | 0.05 [-0.24, 0.33]     | -0.20 [-0.48, 0.08]    | -                           |
-| FSG (mg/dL)                        | Baseline (mean)                           | 171.8                  | 170.7                  | 168.4                  | 166.4                       |
-| FSG (mg/dL)                        | Change from baseline                      | -48.2 ##               | -54.8 ##               | -59.2 ##               | -55.7 ##                    |
-| FSG (mg/dL)                        | Difference from insulin degludec [95 %CI] | 7.5 † [2.4, 12.5]      | 0.8 [-4.3, 5.9]        | -3.6 [-8.7, 1.5]       | -                           |
-| Body weight                        | Baseline (mean)                           | 94.5                   | 94.3                   | 94.9                   | 94.2                        |
-| Body weight                        | Change from baseline                      | -7.5 ##                | -10.7 ##               | -12.9 ##               | +2.3 ##                     |
-| Body weight                        | Difference from insulin degludec [95 %CI] | -9.8** [-10.8, -8.8]   | -13.0** [-14.0, -11.9] | -15.2** [-16.2, -14.2] | -                           |
-| Patients (%) achieving weight loss | ≥ 5%                                      | 66.0 ††                | 83.7 ††                | 87.8 ††                | 6.3                         |
-| Patients (%) achieving weight loss | ≥ 10%                                     | 37.4 ††                | 55.7 ††                | 69.4 ††                | 2.9                         |
-| Patients (%) achieving weight loss | ≥ 15%                                     | 12.5 ††                | 28.3 ††                | 42.5 ††                | 0.0                         |
+|                                    |                                            | Tirzepatide 5 mg       | Tirzepatide 10 mg      | Tirzepatide 15 mg      | Titrated insulin degludec   |
+|------------------------------------|--------------------------------------------|------------------------|------------------------|------------------------|-----------------------------|
+| mITT population (n)                | mITT population (n)                        | 358                    | 360                    | 358                    | 359                         |
+| HbA 1c (%)                         | Baseline (mean)                            | 8.17                   | 8.19                   | 8.21                   | 8.13                        |
+| HbA 1c (%)                         | Change from baseline                       | -1.93 ##               | -2.20 ##               | -2.37 ##               | -1.34 ##                    |
+| HbA 1c (%)                         | Difference from insulin degludec [95 % CI] | -0.59** [-0.73, -0.45] | -0.86** [-1.00, -0.72] | -1.04** [-1.17, -0.90] | -                           |
+| HbA 1c (mmol/mol)                  | Baseline (mean)                            | 65.8                   | 66.0                   | 66.3                   | 65.4                        |
+| HbA 1c (mmol/mol)                  | Change from baseline                       | -21.1 ##               | -24.0 ##               | -26.0 ##               | -14.6 ##                    |
+| HbA 1c (mmol/mol)                  | Difference from insulin degludec [95 % CI] | -6.4** [-7.9, -4.9]    | -9.4** [-10.9, -7.9]   | -11.3** [-12.8, -9.8]  | -                           |
+| Patients (%) achieving HbA 1c      | < 7 %                                      | 82.4**                 | 89.7**                 | 92.6**                 | 61.3                        |
+| Patients (%) achieving HbA 1c      | ≤ 6.5 %                                    | 71.4 ††                | 80.3 ††                | 85.3 ††                | 44.4                        |
+| Patients (%) achieving HbA 1c      | < 5.7 %                                    | 25.8 ††                | 38.6 ††                | 48.4 ††                | 5.4                         |
+| FSG (mmol/L)                       | Baseline (mean)                            | 9.54                   | 9.48                   | 9.35                   | 9.24                        |
+| FSG (mmol/L)                       | Change from baseline                       | -2.68 ##               | -3.04 ##               | -3.29 ##               | -3.09 ##                    |
+| FSG (mmol/L)                       | Difference from insulin degludec [95 % CI] | 0.41 † [0.14, 0.69]    | 0.05 [-0.24, 0.33]     | -0.20 [-0.48, 0.08]    | -                           |
+| FSG (mg/dL)                        | Baseline (mean)                            | 171.8                  | 170.7                  | 168.4                  | 166.4                       |
+| FSG (mg/dL)                        | Change from baseline                       | -48.2 ##               | -54.8 ##               | -59.2 ##               | -55.7 ##                    |
+| FSG (mg/dL)                        | Difference from insulin degludec [95 % CI] | 7.5 † [2.4, 12.5]      | 0.8 [-4.3, 5.9]        | -3.6 [-8.7, 1.5]       | -                           |
+| Body weight                        | Baseline (mean)                            | 94.5                   | 94.3                   | 94.9                   | 94.2                        |
+| Body weight                        | (kg) Change from baseline                  | -7.5 ##                | -10.7 ##               | -12.9 ##               | +2.3 ##                     |
+| Body weight                        | Difference from insulin degludec [95 % CI] | -9.8** [-10.8, -8.8]   | -13.0** [-14.0, -11.9] | -15.2** [-16.2, -14.2] | -                           |
+| Patients (%) achieving weight loss | ≥ 5 %                                      | 66.0 ††                | 83.7 ††                | 87.8 ††                | 6.3                         |
+| Patients (%) achieving weight loss | ≥ 10 %                                     | 37.4 ††                | 55.7 ††                | 69.4 ††                | 2.9                         |
+|                                    | ≥ 15 %                                     | 12.5 ††                | 28.3 ††                | 42.5 ††                | 0.0                         |
 
 # p &lt; 0.05, ## p &lt; 0.001 compared to baseline, not adjusted for multiplicity.
 
@@ -646,130 +618,162 @@ to 7.8 mmol/L) compared to patients treated with insulin degludec, with 73 % and
 
 In an active-controlled open-label study of up to 104 weeks (primary endpoint at 52 weeks), 2 002 patients with type 2 diabetes and increased cardiovascular risk were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or insulin glargine once daily on a background of metformin (95 %) and/or sulphonylureas (54 %) and/or SGLT2i (25 %). At baseline the patients had a mean duration of diabetes of 12 years, a mean BMI of 33 kg/m 2 , a mean age of 64 years and 63 % were men. Patients treated with insulin glargine started at a dose of 10 U/day which was adjusted using an algorithm with a fasting blood glucose target of &lt; 5.6 mmol/L. The mean dose of insulin glargine at week 52 was 44 units/day.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 5. SURPASS-4: Results at week 52
 
-|                               |                                           | Tirzepatide 5 mg       | Tirzepatide 10 mg      | Tirzepatide 15 mg       | Titrated insulin glargine   |
-|-------------------------------|-------------------------------------------|------------------------|------------------------|-------------------------|-----------------------------|
-| mITT population (n)           | mITT population (n)                       | 328                    | 326                    | 337                     | 998                         |
-| 52 weeks                      | 52 weeks                                  |                        |                        |                         |                             |
-| HbA 1c (%)                    | Baseline (mean)                           | 8.52                   | 8.60                   | 8.52                    | 8.51                        |
-| HbA 1c (%)                    | Change from baseline                      | -2.24 ##               | -2.43 ##               | -2.58 ##                | -1.44 ##                    |
-| HbA 1c (%)                    | Difference from insulin glargine [95 %CI] | -0.80** [-0.92, -0.68] | -0.99** [-1.11, -0.87] | -1.14** [-1.26, -1.02]  | -                           |
-| HbA 1c (mmol/mol)             | Baseline (mean)                           | 69.6                   | 70.5                   | 69.6                    | 69.5                        |
-| HbA 1c (mmol/mol)             | Change from baseline                      | -24.5 ##               | -26.6 ##               | -28.2 ##                | -15.7 ##                    |
-| HbA 1c (mmol/mol)             | Difference from insulin glargine [95 %CI] | -8.8** [-10.1, -7.4]   | -10.9** [-12.3, -9.6]  | -12.5** [-13.8, -11.2]  | -                           |
-| Patients (%) achieving HbA 1c | <7%                                       | 81.0**                 | 88.2**                 | 90.7**                  | 50.7                        |
-| Patients (%) achieving HbA 1c | ≤ 6.5%                                    | 66.0 ††                | 76.0 ††                | 81.1 ††                 | 31.7                        |
-| Patients (%) achieving HbA 1c | < 5.7%                                    | 23.0 ††                | 32.7 ††                | 43.1 ††                 | 3.4                         |
-| FSG (mmol/L)                  | Baseline (mean)                           | 9.57                   | 9.75                   | 9.67                    | 9.37                        |
-| FSG (mmol/L)                  | Change from baseline                      | -2.80 ##               | -3.06 ##               | -3.29 ##                | -2.84 ##                    |
-| FSG (mmol/L)                  | Difference from insulin glargine [95 %CI] | 0.04 [-0.22, 0.30]     | -0.21 [-0.48, 0.05]    | -0.44 †† [-0.71, -0.18] | -                           |
-| FSG (mg/dL)                   | Baseline (mean)                           | 172.3                  | 175.7                  | 174.2                   | 168.7                       |
-| FSG (mg/dL)                   | Change from baseline                      | -50.4 ##               | -54.9 ##               | -59.3 ##                | -51.4 ##                    |
-| FSG (mg/dL)                   | Difference from insulin glargine [95 %CI] | 1.0 [-3.7, 5.7]        | -3.6 [-8.2, 1.1]       | -8.0 †† [-12.6, -3.4]   | -                           |
-| Body weight                   | Baseline (mean)                           | 90.3                   | 90.7                   | 90.0                    | 90.3                        |
-| (kg)                          | Change from baseline                      | -7.1 ##                | -9.5 ##                | -11.7 ##                | +1.9 ##                     |
-| Body weight                   | Difference from insulin glargine [95 %CI] | -9.0** [-9.8, -8.3]    | -11.4** [-12.1, -10.6] | -13.5** [-14.3, -12.8]  | -                           |
-| Patients (%) achieving        | ≥ 5%                                      | 62.9 ††                | 77.6 ††                | 85.3 ††                 | 8.0                         |
-| weight loss                   | ≥ 10%                                     | 35.9 ††                | 53.0 ††                | 65.6 ††                 | 1.5                         |
-| weight loss                   | ≥ 15%                                     | 13.8 ††                | 24.0 ††                | 36.5 ††                 | 0.5                         |
+|                               |                                            | Tirzepatide 5 mg       | Tirzepatide 10 mg      | Tirzepatide 15 mg       | Titrated insulin glargine   |
+|-------------------------------|--------------------------------------------|------------------------|------------------------|-------------------------|-----------------------------|
+| mITT population (n)           | mITT population (n)                        | 328                    | 326                    | 337                     | 998                         |
+| 52 weeks                      | 52 weeks                                   |                        |                        |                         |                             |
+| HbA 1c (%)                    | Baseline (mean)                            | 8.52                   | 8.60                   | 8.52                    | 8.51                        |
+| HbA 1c (%)                    | Change from baseline                       | -2.24 ##               | -2.43 ##               | -2.58 ##                | -1.44 ##                    |
+| HbA 1c (%)                    | Difference from insulin glargine [95 % CI] | -0.80** [-0.92, -0.68] | -0.99** [-1.11, -0.87] | -1.14** [-1.26, -1.02]  | -                           |
+| HbA 1c (mmol/mol)             | Baseline (mean)                            | 69.6                   | 70.5                   | 69.6                    | 69.5                        |
+| HbA 1c (mmol/mol)             | Change from baseline                       | -24.5 ##               | -26.6 ##               | -28.2 ##                | -15.7 ##                    |
+| HbA 1c (mmol/mol)             | Difference from insulin glargine [95 % CI] | -8.8** [-10.1, -7.4]   | -10.9** [-12.3, -9.6]  | -12.5** [-13.8, -11.2]  | -                           |
+| Patients (%) achieving HbA 1c | < 7 %                                      | 81.0**                 | 88.2**                 | 90.7**                  | 50.7                        |
+| Patients (%) achieving HbA 1c | ≤ 6.5 %                                    | 66.0 ††                | 76.0 ††                | 81.1 ††                 | 31.7                        |
+| Patients (%) achieving HbA 1c | < 5.7 %                                    | 23.0 ††                | 32.7 ††                | 43.1 ††                 | 3.4                         |
+| FSG (mmol/L)                  | Baseline (mean)                            | 9.57                   | 9.75                   | 9.67                    | 9.37                        |
+| FSG (mmol/L)                  | Change from baseline                       | -2.80 ##               | -3.06 ##               | -3.29 ##                | -2.84 ##                    |
+| FSG (mmol/L)                  | Difference from insulin glargine [95 % CI] | 0.04 [-0.22, 0.30]     | -0.21 [-0.48, 0.05]    | -0.44 †† [-0.71, -0.18] | -                           |
+| FSG (mg/dL)                   | Baseline (mean)                            | 172.3                  | 175.7                  | 174.2                   | 168.7                       |
+| FSG (mg/dL)                   | Change from baseline                       | -50.4 ##               | -54.9 ##               | -59.3 ##                | -51.4 ##                    |
+| FSG (mg/dL)                   | Difference from insulin glargine [95 % CI] | 1.0 [-3.7, 5.7]        | -3.6 [-8.2, 1.1]       | -8.0 †† [-12.6, -3.4]   | -                           |
+| Body weight                   | Baseline (mean)                            | 90.3                   | 90.7                   | 90.0                    | 90.3                        |
+| (kg)                          | Change from baseline                       | -7.1 ##                | -9.5 ##                | -11.7 ##                | +1.9 ##                     |
+| (kg)                          | Difference from insulin glargine [95 % CI] | -9.0** [-9.8, -8.3]    | -11.4** [-12.1, -10.6] | -13.5** [-14.3, -12.8]  | -                           |
+| Patients (%)                  | %                                          | 62.9 ††                | 77.6 ††                | 85.3 ††                 | 8.0                         |
+| achieving weight loss         | ≥ 5 ≥ 10 %                                 | 35.9 ††                | 53.0 ††                | 65.6 ††                 | 1.5                         |
+| achieving weight loss         | ≥ 15 %                                     | 13.8 ††                | 24.0 ††                | 36.5 ††                 | 0.5                         |
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 4. Mean HbA1c (%) and mean body weight (kg) from baseline to week 52
 
 <!-- image -->
 
-SURPASS-5 - Combination therapy with titrated basal insulin, with or without metformin
+## SURPASS-5 - Combination therapy with titrated basal insulin, with or without metformin
 
-In a 40 week double-blind placebo-controlled study, 475 patients with inadequate glycaemic control using insulin glargine with or without metformin were randomised to tirzepatide 5 mg, 10 mg or
+In a 40 week double-blind placebo-controlled study, 475 patients with inadequate glycaemic control using insulin glargine with or without metformin were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or placebo. Insulin glargine doses were adjusted utilizing an algorithm with a fasting blood glucose target of &lt; 5.6 mmol/L. At baseline the patients had a mean duration of diabetes of 13 years, a mean BMI of 33 kg/m 2 , a mean age of 61 years and 56 % were men. The overall estimated median dose of insulin glargine at baseline was 34 units/day. The median dose of insulin glargine at week 40 was 38, 36, 29 and 59 units/day for tirzepatide 5 mg, 10 mg, 15 mg and placebo respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-15 mg once weekly or placebo. Insulin glargine doses were adjusted utilizing an algorithm with a fasting blood glucose target of &lt; 5.6 mmol/L. At baseline the patients had a mean duration of diabetes of 13 years, a mean BMI of 33 kg/m 2 , a mean age of 61 years and 56 % were men. The overall estimated median dose of insulin glargine at baseline was 34 units/day. The median dose of insulin glargine at week 40 was 38, 36, 29 and 59 units/day for tirzepatide 5 mg, 10 mg, 15 mg and placebo respectively.
 
 Table 6. SURPASS-5: Results at week 40
 
-|                                    |                                  | Tirzepatide 5 mg       | Tirzepatide 10 mg      | Tirzepatide 15 mg      | Placebo   |
-|------------------------------------|----------------------------------|------------------------|------------------------|------------------------|-----------|
-| mITT population (n)                | mITT population (n)              | 116                    | 118                    | 118                    | 119       |
-| HbA 1c (%)                         | Baseline (mean)                  | 8.29                   | 8.34                   | 8.22                   | 8.39      |
-| HbA 1c (%)                         | Change from baseline             | -2.23 ##               | -2.59 ##               | -2.59 ##               | -0.93 ##  |
-| HbA 1c (%)                         | Difference from placebo [95 %CI] | -1.30** [-1.52, -1.07] | -1.66** [-1.88, -1.43] | -1.65** [-1.88, -1.43] | -         |
-| HbA 1c (mmol/mol)                  | Baseline (mean)                  | 67.1                   | 67.7                   | 66.4                   | 68.2      |
-| HbA 1c (mmol/mol)                  | Change from baseline             | -24.4 ##               | -28.3 ##               | -28.3 ##               | -10.2 ##  |
-| HbA 1c (mmol/mol)                  | Difference from placebo [95 %CI] | -14.2** [-16.6, -11.7] | -18.1** [-20.6, -15.7] | -18.1** [-20.5, -15.6] | -         |
-| Patients (%) achieving HbA 1c      | <7%                              | 93.0**                 | 97.4**                 | 94.0**                 | 33.9      |
-| Patients (%) achieving HbA 1c      | ≤ 6.5%                           | 80.0 ††                | 94.7 ††                | 92.3 ††                | 17.0      |
-| Patients (%) achieving HbA 1c      | < 5.7%                           | 26.1 ††                | 47.8 ††                | 62.4 ††                | 2.5       |
-| FSG (mmol/L)                       | Baseline (mean)                  | 9.00                   | 9.04                   | 8.91                   | 9.13      |
-| FSG (mmol/L)                       | Change from baseline             | -3.41 ##               | -3.77 ##               | -3.76 ##               | -2.16 ##  |
-| FSG (mmol/L)                       | Difference from placebo [95 %CI] | -1.25** [-1.64, -0.86] | -1.61** [-2.00, -1.22] | -1.60** [-1.99, -1.20] | -         |
-| FSG (mg/dL)                        | Baseline (mean)                  | 162.2                  | 162.9                  | 160.4                  | 164.4     |
-| FSG (mg/dL)                        | Change from baseline             | -61.4 ##               | -67.9 ##               | -67.7 ##               | -38.9 ##  |
-| FSG (mg/dL)                        | Difference from placebo [95 %CI] | -22.5** [-29.5, -15.4] | -29.0** [-36.0, -22.0] | -28.8** [-35.9, -21.6] | -         |
-| Body weight (kg)                   | Baseline (mean)                  | 95.5                   | 95.4                   | 96.2                   | 94.1      |
-| Body weight (kg)                   | Change from baseline             | -6.2 ##                | -8.2 ##                | -10.9 ##               | +1.7 #    |
-| Body weight (kg)                   | Difference from placebo [95 %CI] | -7.8** [-9.4, -6.3]    | -9.9** [-11.5, -8.3]   | -12.6** [-14.2, -11.0] | -         |
-| Patients (%) achieving weight loss | ≥ 5%                             | 53.9 ††                | 64.6 ††                | 84.6 ††                | 5.9       |
-| Patients (%) achieving weight loss | ≥ 10%                            | 22.6 ††                | 46.9 ††                | 51.3 ††                | 0.9       |
-| Patients (%) achieving weight loss | ≥ 15%                            | 7.0 †                  | 26.6 †                 | 31.6 ††                | 0.0       |
-
-<div style=\"page-break-after: always\"></div>
+|                                    |                                   | Tirzepatide 5 mg       | Tirzepatide 10 mg      | Tirzepatide 15 mg      | Placebo   |
+|------------------------------------|-----------------------------------|------------------------|------------------------|------------------------|-----------|
+| mITT population (n)                | mITT population (n)               | 116                    | 118                    | 118                    | 119       |
+| HbA 1c (%)                         | Baseline (mean)                   | 8.29                   | 8.34                   | 8.22                   | 8.39      |
+| HbA 1c (%)                         | Change from baseline              | -2.23 ##               | -2.59 ##               | -2.59 ##               | -0.93 ##  |
+| HbA 1c (%)                         | Difference from placebo [95 % CI] | -1.30** [-1.52, -1.07] | -1.66** [-1.88, -1.43] | -1.65** [-1.88, -1.43] | -         |
+| HbA 1c (mmol/mol)                  | Baseline (mean)                   | 67.1                   | 67.7                   | 66.4                   | 68.2      |
+| HbA 1c (mmol/mol)                  | Change from baseline              | -24.4 ##               | -28.3 ##               | -28.3 ##               | -10.2 ##  |
+| HbA 1c (mmol/mol)                  | Difference from placebo [95 % CI] | -14.2** [-16.6, -11.7] | -18.1** [-20.6, -15.7] | -18.1** [-20.5, -15.6] | -         |
+| Patients (%) achieving HbA 1c      | < 7 %                             | 93.0**                 | 97.4**                 | 94.0**                 | 33.9      |
+| Patients (%) achieving HbA 1c      | ≤ 6.5 %                           | 80.0 ††                | 94.7 ††                | 92.3 ††                | 17.0      |
+| Patients (%) achieving HbA 1c      | < 5.7 %                           | 26.1 ††                | 47.8 ††                | 62.4 ††                | 2.5       |
+| FSG (mmol/L)                       | Baseline (mean)                   | 9.00                   | 9.04                   | 8.91                   | 9.13      |
+| FSG (mmol/L)                       | Change from baseline              | -3.41 ##               | -3.77 ##               | -3.76 ##               | -2.16 ##  |
+| FSG (mmol/L)                       | Difference from placebo [95 % CI] | -1.25** [-1.64, -0.86] | -1.61** [-2.00, -1.22] | -1.60** [-1.99, -1.20] | -         |
+| FSG (mg/dL)                        | Baseline (mean)                   | 162.2                  | 162.9                  | 160.4                  | 164.4     |
+| FSG (mg/dL)                        | Change from baseline              | -61.4 ##               | -67.9 ##               | -67.7 ##               | -38.9 ##  |
+| FSG (mg/dL)                        | Difference from placebo [95 % CI] | -22.5** [-29.5, -15.4] | -29.0** [-36.0, -22.0] | -28.8** [-35.9, -21.6] | -         |
+| Body weight (kg)                   | Baseline (mean)                   | 95.5                   | 95.4                   | 96.2                   | 94.1      |
+| Body weight (kg)                   | Change from baseline              | -6.2 ##                | -8.2 ##                | -10.9 ##               | +1.7 #    |
+| Body weight (kg)                   | Difference from placebo [95 % CI] | -7.8** [-9.4, -6.3]    | -9.9** [-11.5, -8.3]   | -12.6** [-14.2, -11.0] | -         |
+| Patients (%) achieving weight loss | ≥ 5 %                             | 53.9 ††                | 64.6 ††                | 84.6 ††                | 5.9       |
+| Patients (%) achieving weight loss | ≥ 10 %                            | 22.6 ††                | 46.9 ††                | 51.3 ††                | 0.9       |
+| Patients (%) achieving weight loss | ≥ 15 %                            | 7.0 †                  | 26.6 †                 | 31.6 ††                | 0.0       |
 
 Figure 5. Mean HbA1c (%) and mean body weight (kg) from baseline to week 40
 
 <!-- image -->
 
-## Type 2 diabetes mellitus in children and adolescents aged 10 to less than 18 years
+Type 2 diabetes mellitus in children and adolescents aged 10 to less than 18 years
 
 The safety and efficacy of tirzepatide 5 mg and 10 mg once weekly was evaluated in 99 patients aged 10 to below 18 years with type 2 diabetes on metformin (68.7 %) or basal insulin (8.1 %), or both (23.2 %), in a 30-week double-blind, placebo-controlled phase 3 study, followed by a 22-week openlabel extension (SURPASS-PEDS). In the open-label period, all participants on placebo were switched to tirzepatide at a maintenance dose of 5 mg while participants randomized to tirzepatide continued their treatment at the same dose of 5 or 10 mg.
 
-At baseline, patients had a mean age of 14.7 years and 61 % were female. The mean duration of type 2 diabetes was 2.4 years. All participants had overweight or obesity, since a BMI above the 85 th percentile of the general age and gender-matched population for the country or region was an inclusion criterion. At 30 weeks, tirzepatide 5 mg and 10 mg, both pooled and individually, were superior to placebo in lowering HbA1c, FSG and BMI. Glycaemic efficacy was sustained and BMI reductions continued through Week 52.
-
 <div style=\"page-break-after: always\"></div>
+
+At baseline, patients had a mean age of 14.7 years and 61 % were female. The mean duration of type 2 diabetes was 2.4 years. All participants had overweight or obesity, since a BMI above the 85 th percentile of the general age and gender-matched population for the country or region was an inclusion criterion. At 30 weeks, tirzepatide 5 mg and 10 mg, both pooled and individually, were superior to placebo in lowering HbA1c, FSG and BMI. Glycaemic efficacy was sustained and BMI reductions continued through Week 52.
 
 Table 7. SURPASS-PEDS: Results at week 30
 
-|                               |                                      | Tirzepatide 5 mg       | Tirzepatide 10 mg       | Tirzepatide Pooled     | Placebo   |
-|-------------------------------|--------------------------------------|------------------------|-------------------------|------------------------|-----------|
-| mITT population (n)           | mITT population (n)                  | 32                     | 33                      | 65                     | 34        |
-| HbA 1c (%)                    | Baseline (mean)                      | 8.22                   | 7.92                    | 8.07                   | 8.02      |
-| HbA 1c (%)                    | Change from baseline                 | -2.16                  | -2.30                   | -2.23                  | 0.049     |
-| HbA 1c (%)                    | Difference from placebo [95 %CI]     | -2.21** [-2.89, -1.53] | -2.35** [-3.03, -1.66]  | -2.28** [-2.87, -1.69] | -         |
-| HbA 1c (mmol/mol)             | Baseline (mean)                      | 66.3                   | 63.1                    | 64.7                   | 64.2      |
-| HbA 1c (mmol/mol)             | Change from baseline                 | -23.6                  | -25.1                   | -24.4                  | 0.53      |
-| HbA 1c (mmol/mol)             | Difference from placebo [95 %CI]     | -24.2** [-31.6, -16.8] | -25.6** [-33.1, -18.2]  | -24.9** [-31.4, -18.4] | -         |
-| Patients (%) achieving HbA 1c | <7%                                  | 84.2                   | 91.5                    | 87.9                   | 34.3      |
-| Patients (%) achieving HbA 1c | ≤ 6.5%                               | 70.8**                 | 86.1**                  | 78.6**                 | 27.8      |
-| Patients (%) achieving HbA 1c | < 5.7%                               | 46.9                   | 59.6                    | 53.4                   | 14.4      |
-| BMI (kg/m 2 )                 | Baseline (mean)                      | 33.9                   | 37.3                    | 35.6                   | 34.7      |
-| BMI (kg/m 2 )                 | Change (%) from baseline             | -7.4                   | -11.2                   | -9.3                   | -0.4      |
-| BMI (kg/m 2 )                 | Difference (%) from placebo [95 %CI] | -7.0** [-10.48, -3.60] | -10.8** [-14.25, -7.39] | -8.9** [-11.91, -5.95] | -         |
+|                               |                                       | Tirzepatide 5 mg       | Tirzepatide 10 mg       | Tirzepatide Pooled     | Placebo   |
+|-------------------------------|---------------------------------------|------------------------|-------------------------|------------------------|-----------|
+| mITT population (n)           | mITT population (n)                   | 32                     | 33                      | 65                     | 34        |
+| HbA 1c (%)                    | Baseline (mean)                       | 8.22                   | 7.92                    | 8.07                   | 8.02      |
+| HbA 1c (%)                    | Change from baseline                  | -2.16                  | -2.30                   | -2.23                  | 0.049     |
+| HbA 1c (%)                    | Difference from placebo [95 % CI]     | -2.21** [-2.89, -1.53] | -2.35** [-3.03, -1.66]  | -2.28** [-2.87, -1.69] | -         |
+| HbA 1c (mmol/mol)             | Baseline (mean)                       | 66.3                   | 63.1                    | 64.7                   | 64.2      |
+| HbA 1c (mmol/mol)             | Change from baseline                  | -23.6                  | -25.1                   | -24.4                  | 0.53      |
+| HbA 1c (mmol/mol)             | Difference from placebo [95 % CI]     | -24.2** [-31.6, -16.8] | -25.6** [-33.1, -18.2]  | -24.9** [-31.4, -18.4] | -         |
+| Patients (%) achieving HbA 1c | < 7 %                                 | 84.2                   | 91.5                    | 87.9                   | 34.3      |
+| Patients (%) achieving HbA 1c | ≤ 6.5 %                               | 70.8**                 | 86.1**                  | 78.6**                 | 27.8      |
+| Patients (%) achieving HbA 1c | < 5.7 %                               | 46.9                   | 59.6                    | 53.4                   | 14.4      |
+| BMI (kg/m 2 )                 | Baseline (mean)                       | 33.9                   | 37.3                    | 35.6                   | 34.7      |
+| BMI (kg/m 2 )                 | Change (%) from baseline              | -7.4                   | -11.2                   | -9.3                   | -0.4      |
+| BMI (kg/m 2 )                 | Difference (%) from placebo [95 % CI] | -7.0** [-10.48, -3.60] | -10.8** [-14.25, -7.39] | -8.9** [-11.91, -5.95] | -         |
 
 *p &lt; 0.05, ** p &lt; 0.001 for superiority, adjusted for multiplicity.
 
+<!-- image -->
+
 Figure 6. Mean HbA1c (%) and change in BMI (%) from baseline to week 30
 
+<div style=\"page-break-after: always\"></div>
+
+## SURPASS-CVOT - Cardiovascular Outcomes Trial in Adults with Type 2 Diabetes Mellitus and Cardiovascular Disease
+
+In a randomized, double-blind, active comparator controlled cardiovascular outcome study (SURPASS-CVOT), a total of 13 299 adult patients with inadequately controlled type 2 diabetes mellitus and established cardiovascular disease (history of myocardial infarction, coronary revascularisation, stroke, carotid revascularisation, or peripheral arterial disease) were randomised to once weekly tirzepatide maximum tolerated dose (MTD) up to 15 mg versus once weekly dulaglutide 1.5 mg. The primary endpoint was time from randomisation to first occurrence of a composite of major adverse cardiovascular events (MACE): cardiovascular death, myocardial infarction or stroke. The median follow-up time was 4.0 years. In total, 99.0 % of the patients completed the trial and the vital status was known for 99.7 % of the patients.
+
+At baseline, patients had a mean age of 64.1 years, and 29.0 % were women. Mean BMI was 32.6 kg/m 2 . The mean duration of type 2 diabetes mellitus was 14.7 years, and the mean HbA1c was 8.4 %. The percentage of patients with high or very high risk for progression of chronic kidney disease (CKD) in the study was 23 %.
+
+Tirzepatide was non-inferior to dulaglutide for reducing the occurrence of MACE with a hazard ratio of 0.92 (95.3 % CI: 0.83, 1.01; the non-inferiority margin had been set to 1.05) (see Figure 7 and 8). This result demonstrated the benefit of cardiovascular risk reduction with tirzepatide.
+
 <!-- image -->
+
+Superiority of tirzepatide to dulaglutide, which was defined as the second step in the graphical testing approach, was not achieved.
+
+Figure 7. Kaplan-Meier plot of time to first occurrence of the composite MACE outcome: cardiovascular death, myocardial infarction or stroke.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+Figure 8. Treatment effect for first MACE and all cause death
+
+|                          |                      | Hazard Ratio (95% ClI)   | Mounjaro N (%)   | Dulaglutide N (%)   |
+|--------------------------|----------------------|--------------------------|------------------|---------------------|
+| mT                       |                      |                          | 6586             | 6579                |
+| Primary endpoint - MACE  |                      | 0.92 (0.83, 1.01)        | 801 (12.2)       | 862 (13.1)          |
+| Component of MACE        |                      |                          |                  |                     |
+| Cardiovascular death     |                      | 0.89 (0.77, 1.02)        | 367 (5.6)        | 408 (6.2)           |
+| Myocardial infarction    |                      | 0.86 (0.74, 1.00)        | 311(4.7)         | 357 (5.4)           |
+| Stroke                   |                      | 0.91 (0.76, 1.09)        | 229 (3.5)        | 249 (3.8)           |
+| Other secondary endpoint |                      |                          |                  |                     |
+| All cause death          |                      | 0.84 (0.75, 0.94)        | 566 (8.6)        | 669(10.2)           |
+|                          | Favours Mounjaro 0.5 | Favours Dulaglutide      |                  |                     |
+
+Consistent results were observed for patients with or without concomitant use of SGLT2i.
+
+At month 36, a significantly smaller reduction in eGFR in participants with high or very-high risk for CKD was observed in the tirzepatide treatment group (-4.50 mL/min/1.73 m²) compared with the dulaglutide treatment group (-8.40 mL/min/1.73 m²). The estimated difference was 3.90 mL/min/1.73 m² (95 % CI: 2.90 to 5.00), demonstrating a clinically meaningful slower progression in eGFR decline for the tirzepatide group compared to dulaglutide.
 
 ## Weight management
 
 The efficacy and safety of tirzepatide for weight management, in combination with a reduced calorie intake and increased physical activity, in patients with obesity (BMI ≥ 30 kg/m 2 ), or overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity (such as treated or untreated dyslipidaemia, hypertension, obstructive sleep apnoea, or cardiovascular disease), and with prediabetes or normoglycaemia, but without type 2 diabetes mellitus, were evaluated in three randomised double-blinded, placebo-controlled phase 3 studies (SURMOUNT-1, SURMOUNT-3, SURMOUNT-4). A total of 3 900 adult patients (2 518 randomised to tirzepatide) were included in these studies.
 
-<div style=\"page-break-after: always\"></div>
-
 Treatment with tirzepatide demonstrated clinically meaningful and sustained weight reduction compared with placebo. Furthermore, a higher percentage of patients achieved ≥ 5 %, ≥ 10 %, ≥ 15 % and ≥ 20 % weight loss with tirzepatide compared with placebo.
 
 The efficacy and safety of tirzepatide for weight management in patients with type 2 diabetes were evaluated in a randomised double-blinded, placebo-controlled phase 3 study (SURMOUNT-2), and in a subpopulation of patients with BMI ≥ 27 kg/m 2 in five randomised phase 3 studies (SURPASS-1 to -5). A total of 6 330 patients with BMI ≥ 27 kg/m 2 (4 249 randomised to treatment with tirzepatide) were included in these studies. In SURMOUNT-2 treatment with tirzepatide demonstrated clinically meaningful and sustained weight reduction compared with placebo. Furthermore, a higher percentage of patients achieved ≥ 5 %, ≥ 10 %, ≥ 15 % and ≥ 20 % weight loss with tirzepatide compared with placebo. Subgroup analyses of patients with obesity or overweight in the SURPASS studies (amounting to 86 % of the overall SURPASS-1 to -5 population) showed sustained weight reduction, and a higher percentage of patients achieving weight reduction targets compared to active comparator/placebo.
+
+<div style=\"page-break-after: always\"></div>
 
 In all SURMOUNT studies, the same tirzepatide dose escalation scheme was used as in the SURPASS programme (starting with 2.5 mg for 4 weeks, followed by increases in 2.5 mg increments every 4 weeks until the assigned dose was reached).
 
 ## SURMOUNT-1
 
 In a 72 week double-blind placebo-controlled study, 2 539 adult patients with obesity (BMI ≥ 30 kg/m 2 ) or with overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight-related comorbid condition, were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or placebo. All patients were counselled on a reduced-calorie diet and increased physical activity throughout the trial. At baseline, patients had a mean age of 45 years, 67.5 % were women and 40.6 % of patients had prediabetes. Mean BMI at baseline was 38 kg/m 2 .
-
-<div style=\"page-break-after: always\"></div>
 
 Table 8. SURMOUNT-1: Results at week 72
 
@@ -779,22 +783,22 @@ Table 8. SURMOUNT-1: Results at week 72
 | Body weight                                  |                                              |                                              |                                              |                                              |
 | Baseline (kg)                                | 102.9                                        | 105.9                                        | 105.5                                        | 104.8                                        |
 | Change (%) from baseline                     | -16.0 ††                                     | -21.4 ††                                     | -22.5 ††                                     | -2.4                                         |
-| Difference (%) from placebo [95 %CI]         | -13.5 ** [-14.6, -12.5]                      | -18.9 ** [-20.0, -17.8]                      | -20.1 ** [-21.2, -19.0]                      | -                                            |
+| Difference (%) from placebo [95 % CI]        | -13.5 ** [-14.6, -12.5]                      | -18.9 ** [-20.0, -17.8]                      | -20.1 ** [-21.2, -19.0]                      | -                                            |
 | Change (kg) from baseline                    | -16.1 ††                                     | -22.2 ††                                     | -23.6 ††                                     | -2.4 ††                                      |
-| Difference (kg) from placebo [95 %CI]        | -13.8 ## [-15.0, -12.6]                      | -19.8 ## [-21.0, -18.6]                      | -21.2 ## [-22.4, -20.0]                      | -                                            |
+| Difference (kg) from placebo [95 % CI]       | -13.8 ## [-15.0, -12.6]                      | -19.8 ## [-21.0, -18.6]                      | -21.2 ## [-22.4, -20.0]                      | -                                            |
 | Patients (%) achieving body weight reduction | Patients (%) achieving body weight reduction | Patients (%) achieving body weight reduction | Patients (%) achieving body weight reduction | Patients (%) achieving body weight reduction |
-| ≥ 5%                                         | 89.4 **                                      | 96.2 **                                      | 96.3 **                                      | 27.9                                         |
-| ≥ 10%                                        | 73.4 ##                                      | 85.9 **                                      | 90.1 **                                      | 13.5                                         |
-| ≥ 15%                                        | 50.2 ##                                      | 73.6 **                                      | 78.2 **                                      | 6.0                                          |
-| ≥ 20%                                        | 31.6 ##                                      | 55.5 **                                      | 62.9 **                                      | 1.3                                          |
+| ≥ 5 %                                        | 89.4 **                                      | 96.2 **                                      | 96.3 **                                      | 27.9                                         |
+| ≥ 10 %                                       | 73.4 ##                                      | 85.9 **                                      | 90.1 **                                      | 13.5                                         |
+| ≥ 15 %                                       | 50.2 ##                                      | 73.6 **                                      | 78.2 **                                      | 6.0                                          |
+| ≥ 20 %                                       | 31.6 ##                                      | 55.5 **                                      | 62.9 **                                      | 1.3                                          |
 | Waist circumference (cm)                     | Waist circumference (cm)                     | Waist circumference (cm)                     | Waist circumference (cm)                     | Waist circumference (cm)                     |
 | Baseline                                     | 113.2                                        | 114.9                                        | 114.4                                        | 114.0                                        |
 | Change from baseline                         | -14.6 ††                                     | -19.4 ††                                     | -19.9 ††                                     | -3.4 ††                                      |
-| Difference from placebo [95 %CI]             | -11.2 ## [-12.3, -10.0]                      | -16.0 ** [-17.2, -14.9]                      | -16.5 ** [-17.7, -15.4]                      | -                                            |
+| Difference from placebo [95 % CI]            | -11.2 ## [-12.3, -10.0]                      | -16.0 ** [-17.2, -14.9]                      | -16.5 ** [-17.7, -15.4]                      | -                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 7. Mean change in body weight (%) from baseline to week 72
+Figure 9. Mean change in body weight (%) from baseline to week 72
 
 <!-- image -->
 
@@ -804,19 +808,19 @@ Patients with prediabetes at baseline continued for up to 176 weeks of treatment
 
 Table 9. SURMOUNT-1: Results at week 176 (patients with prediabetes at baseline)
 
-|                                       | Tirzepatide 5 mg        | Tirzepatide 10 mg       | Tirzepatide 15 mg       | Placebo   |
-|---------------------------------------|-------------------------|-------------------------|-------------------------|-----------|
-| mITT population (n)                   | 247                     | 262                     | 253                     | 270       |
-| Body weight                           |                         |                         |                         |           |
-| Baseline (kg)                         | 104.6                   | 108.9                   | 108.5                   | 107.4     |
-| Change (%) from baseline              | -15.4 ††                | -19.9 ††                | -22.9 ††                | -2.1 †    |
-| Difference (%) from placebo [95 %CI]  | -13.2 ## [-15.3, -11.1] | -17.7** [-19.8, -15.7]  | -20.7** [-22.8, -18.6]  | -         |
-| Change (kg) from baseline             | -15.7 ††                | -21.4 ††                | -24.6 ††                | -2.3 †    |
-| Difference (kg) from placebo [95 %CI] | -13.4 ## [-15.9, -11.0] | -19.1 ## [-21.5, -16.7] | -22.3 ## [-24.7, -19.9] | -         |
+|                                        | Tirzepatide 5 mg        | Tirzepatide 10 mg       | Tirzepatide 15 mg       | Placebo   |
+|----------------------------------------|-------------------------|-------------------------|-------------------------|-----------|
+| mITT population (n)                    | 247                     | 262                     | 253                     | 270       |
+| Body weight                            |                         |                         |                         |           |
+| Baseline (kg)                          | 104.6                   | 108.9                   | 108.5                   | 107.4     |
+| Change (%) from baseline               | -15.4 ††                | -19.9 ††                | -22.9 ††                | -2.1 †    |
+| Difference (%) from placebo [95 % CI]  | -13.2 ## [-15.3, -11.1] | -17.7** [-19.8, -15.7]  | -20.7** [-22.8, -18.6]  | -         |
+| Change (kg) from baseline              | -15.7 ††                | -21.4 ††                | -24.6 ††                | -2.3 †    |
+| Difference (kg) from placebo [95 % CI] | -13.4 ## [-15.9, -11.0] | -19.1 ## [-21.5, -16.7] | -22.3 ## [-24.7, -19.9] | -         |
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 8. Mean change in body weight (%) from baseline to week 176 (patients with prediabetes at baseline)
+Figure 10. Mean change in body weight (%) from baseline to week 176 (patients with prediabetes at baseline)
 
 <!-- image -->
 
@@ -824,56 +828,56 @@ Among the patients in SURMOUNT-1 with prediabetes at baseline (N = 1032), 95.3 %
 
 ## SURMOUNT-2
 
-In a 72 week double-blind placebo-controlled study, 938 adult patients with obesity (BMI ≥ 30 kg/m 2 ) or with overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and type 2 diabetes, were randomised to tirzepatide 10 mg or 15 mg once weekly or placebo. Patients included in the trial had HbA1c 7-10 % and were treated with either diet and exercise alone, or with one or more oral anti-hyperglycaemic agent . All patients were counselled on a reduced calorie diet and increased physical activity throughout the trial. Patients had a mean age of 54 years and 51 % were women. Mean BMI at baseline was 36.1 kg/m 2 .
+In a 72 week double-blind placebo-controlled study, 938 adult patients with obesity (BMI ≥ 30 kg/m 2 ) or with overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and type 2 diabetes, were randomised to tirzepatide 10 mg or 15 mg once weekly or placebo. Patients included in the trial had HbA1c 7-10 % and were treated with either diet and exercise alone, or with one or more oral anti-hyperglycaemic agent. All patients were counselled on a reduced calorie diet and increased physical activity throughout the trial. Patients had a mean age of 54 years and 51 % were women. Mean BMI at baseline was 36.1 kg/m 2 .
 
 <div style=\"page-break-after: always\"></div>
 
 Table 10. SURMOUNT-2: Results at week 72
 
-|                                       | Tirzepatide 10 mg       | Tirzepatide 15 mg       | Placebo   |
-|---------------------------------------|-------------------------|-------------------------|-----------|
-| mITT population (n)                   | 312                     | 311                     | 315       |
-| Body weight                           |                         |                         |           |
-| Baseline (kg)                         | 101.1                   | 99.5                    | 101.7     |
-| Change (%) from baseline              | -13.4 ††                | -15.7 ††                | -3.3 ††   |
-| Difference (%) from placebo [95 %CI]  | -10.1 ** [-11.5, -8.8]  | -12.4 ** [-13.7, -11.0] | -         |
-| Change (kg) from baseline             | -13.5 ††                | -15.6 ††                | -3.2      |
-| Difference (kg) from placebo [95 %CI] | -10.3 ## [-11.7, -8.8]  | -12.4 ## [-13.8,-11.0]  | -         |
-| Patients (%) achieving body weight    | reduction               |                         |           |
-| ≥ 5%                                  | 81.6 **                 | 86.4 **                 | 30.5      |
-| ≥ 10%                                 | 63.4 **                 | 69.6 **                 | 8.7       |
-| ≥ 15%                                 | 41.4 **                 | 51.8 **                 | 2.6       |
-| ≥ 20%                                 | 23.0 **                 | 34.0 **                 | 1.0       |
-| Waist circumference (cm)              |                         |                         |           |
-| Baseline                              | 114.3                   | 114.6                   | 116.1     |
-| Change from baseline                  | -11.2 ††                | -13.8 ††                | -3.4 ††   |
-| Difference from placebo [95 %CI]      | -7.8 ** [-9.2, -6.4]    | -10.4 ** [-11.8, -8.9]  | -         |
-| HbA 1c (mmol/mol)                     |                         |                         |           |
-| Baseline                              | 64.1                    | 64.7                    | 63.4      |
-| Change from baseline                  | -23.4 ††                | -24.3 ††                | -1.8 †    |
-| Difference from placebo [95 %CI]      | -21.6 ** [-23.5, -19.6] | -22.5 ** [-24.4, -20.6] | -         |
-| HbA 1c (%)                            |                         |                         |           |
-| Baseline                              | 8.0                     | 8.1                     | 8.0       |
-| Change from baseline                  | -2.1 ††                 | -2.2 ††                 | -0.2 †    |
-| Difference from placebo [95 %CI]      | -2.0 ** [-2.2, -1.8]    | -2.1 ** [-2.2, -1.9]    | -         |
-| Patients (%) achieving HbA1c          |                         |                         |           |
-| <7%                                   | 90.0 **                 | 90.7 **                 | 29.3      |
-| ≤ 6.5%                                | 84.1 **                 | 86.7 **                 | 15.5      |
-| < 5.7%                                | 50.2 **                 | 55.3 **                 | 2.8       |
-| FSG (mmol/L)                          |                         |                         |           |
-| Baseline                              | 8.8                     | 9.0                     | 8.7       |
-| Change from baseline                  | -2.7 ††                 | -2.9 ††                 | -0.1      |
-| Difference from placebo               | -2.6 **                 | -2.7 **                 | -         |
-| [95 %CI]                              | [-2.9, -2.3]            | [-3.1, -2.4]            |           |
-| FSG (mg/dL)                           |                         |                         |           |
-| Baseline                              | 157.8                   | 161.5                   | 156.7     |
-| Change from baseline                  | -49.2 ††                | -51.7 ††                | -2.4      |
-| Difference from placebo               | -46.8 **                | -49.3 **                | -         |
-| [95 %CI]                              | [-52.7, -40.9]          | [-55.2, -43.3]          |           |
+|                                              | Tirzepatide 10 mg       | Tirzepatide 15 mg       | Placebo   |
+|----------------------------------------------|-------------------------|-------------------------|-----------|
+| mITT population (n)                          | 312                     | 311                     | 315       |
+| Body weight                                  |                         |                         |           |
+| Baseline (kg)                                | 101.1                   | 99.5                    | 101.7     |
+| Change (%) from baseline                     | -13.4 ††                | -15.7 ††                | -3.3 ††   |
+| Difference (%) from placebo [95 % CI]        | -10.1 ** [-11.5, -8.8]  | -12.4 ** [-13.7, -11.0] | -         |
+| Change (kg) from baseline                    | -13.5 ††                | -15.6 ††                | -3.2      |
+| Difference (kg) from placebo [95 % CI]       | -10.3 ## [-11.7, -8.8]  | -12.4 ## [-13.8,-11.0]  | -         |
+| Patients (%) achieving body weight reduction |                         |                         |           |
+| ≥ 5 %                                        | 81.6 **                 | 86.4 **                 | 30.5      |
+| ≥ 10 %                                       | 63.4 **                 | 69.6 **                 | 8.7       |
+| ≥ 15 %                                       | 41.4 **                 | 51.8 **                 | 2.6       |
+| ≥ 20 %                                       | 23.0 **                 | 34.0 **                 | 1.0       |
+| Waist circumference (cm)                     |                         |                         |           |
+| Baseline                                     | 114.3                   | 114.6                   | 116.1     |
+| Change from baseline                         | -11.2 ††                | -13.8 ††                | -3.4 ††   |
+| Difference from placebo [95 % CI]            | -7.8 ** [-9.2, -6.4]    | -10.4 ** [-11.8, -8.9]  | -         |
+| HbA 1c (mmol/mol)                            |                         |                         |           |
+| Baseline                                     | 64.1                    | 64.7                    | 63.4      |
+| Change from baseline                         | -23.4 ††                | -24.3 ††                | -1.8 †    |
+| Difference from placebo [95 % CI]            | -21.6 ** [-23.5, -19.6] | -22.5 ** [-24.4, -20.6] | -         |
+| HbA 1c (%)                                   |                         |                         |           |
+| Baseline                                     | 8.0                     | 8.1                     | 8.0       |
+| Change from baseline                         | -2.1 ††                 | -2.2 ††                 | -0.2 †    |
+| Difference from placebo [95 % CI]            | -2.0 ** [-2.2, -1.8]    | -2.1 ** [-2.2, -1.9]    | -         |
+| Patients (%) achieving HbA1c                 |                         |                         |           |
+| < 7 %                                        | 90.0 **                 | 90.7 **                 | 29.3      |
+| ≤ 6.5 %                                      | 84.1 **                 | 86.7 **                 | 15.5      |
+| < 5.7 %                                      | 50.2 **                 | 55.3 **                 | 2.8       |
+| FSG (mmol/L)                                 |                         |                         |           |
+| Baseline                                     | 8.8                     | 9.0                     | 8.7       |
+| Change from baseline                         | -2.7 ††                 | -2.9 ††                 | -0.1      |
+| Difference from placebo                      | -2.6 **                 | -2.7 **                 | -         |
+| [95 % CI]                                    | [-2.9, -2.3]            | [-3.1, -2.4]            |           |
+| FSG (mg/dL)                                  |                         |                         |           |
+| Baseline                                     | 157.8                   | 161.5                   | 156.7     |
+| Change from baseline                         | -49.2 ††                | -51.7 ††                | -2.4      |
+| Difference from placebo                      | -46.8 **                | -49.3 **                | -         |
+| [95 % CI]                                    | [-52.7, -40.9]          | [-55.2, -43.3]          |           |
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 9. Mean change in body weight (%) from baseline to week 72
+Figure 11. Mean change in body weight (%) from baseline to week 72
 
 <!-- image -->
 
@@ -893,23 +897,23 @@ Table 11. SURMOUNT-3: Results at week 72
 | Body weight                                                                              |                         |           |
 | Baseline 1 (kg)                                                                          | 102.3                   | 101.3     |
 | Change (%) from baseline 1                                                               | -21.1 ††                | 3.3 ††    |
-| Difference (%) from placebo [95 %CI]                                                     | -24.5 ** [-26.1, -22.8] | -         |
+| Difference (%) from placebo [95 % CI]                                                    | -24.5 ** [-26.1, -22.8] | -         |
 | Change (kg) from baseline 1                                                              | -21.5 ††                | 3.5 ††    |
-| Difference (kg) from placebo [95 %CI]                                                    | -25.0 ## [-26.9, -23.2] | -         |
+| Difference (kg) from placebo [95 % CI]                                                   | -25.0 ## [-26.9, -23.2] | -         |
 | Patients (%) achieving body weight reduction                                             |                         |           |
-| ≥ 5%                                                                                     | 94.4 **                 | 10.7      |
-| ≥ 10%                                                                                    | 88.0 **                 | 4.8       |
-| ≥ 15%                                                                                    | 73.9 **                 | 2.1       |
-| ≥ 20%                                                                                    | 54.9 **                 | 1.0       |
+| ≥ 5 %                                                                                    | 94.4 **                 | 10.7      |
+| ≥ 10 %                                                                                   | 88.0 **                 | 4.8       |
+| ≥ 15 %                                                                                   | 73.9 **                 | 2.1       |
+| ≥ 20 %                                                                                   | 54.9 **                 | 1.0       |
 | Patients (%) who maintain ≥80% of the body weight lost during the 12-week lead-in period | 98.6 **                 | 37.8      |
 | Waist circumference (cm)                                                                 |                         |           |
 | Baseline 1                                                                               | 109.2                   | 109.6     |
 | Change from baseline 1                                                                   | -16.8 ††                | 1.1       |
-| Difference from placebo [95 %CI]                                                         | -17.9 ** [-19.5, -16.3] | -         |
+| Difference from placebo [95 % CI]                                                        | -17.9 ** [-19.5, -16.3] | -         |
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 10. Mean change in body weight (%) from Week -12 to week 72
+Figure 12. Mean change in body weight (%) from Week -12 to week 72
 
 <!-- image -->
 
@@ -917,7 +921,7 @@ Figure 10. Mean change in body weight (%) from Week -12 to week 72
 
 In an 88 week study, 783 adult patients with obesity (BMI ≥ 30 kg/m 2 ) or with overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight related comorbid condition, were enrolled in a 36 week open label tirzepatide lead-in phase. At the start of lead-in period, the enrolled patients had a mean body weight of 107.0 kg and a mean BMI of 38.3 kg/m 2 . At the end of the lead-in period, 670 patients who achieved tirzepatide MTD of 10 mg or 15 mg dose were randomised to continue treatment with tirzepatide once weekly or to switch to placebo for 52 weeks (double-blind phase). Patients were counselled on a reduced calorie diet and increased physical activity throughout the trial. At randomisation (week 36), patients had a mean age of 49 years and 71 % were women. Mean body weight at randomisation was 85.2 kg and mean BMI was 30.5 kg/m 2 .
 
-Patients who continued treatment with tirzepatide for an additional 52 weeks (up to 88 weeks in total) maintained and experienced further weigh loss after the initial weight reduction achieved during the 36 week lead-in phase. The weight reduction was superior and clinically meaningful compared to the placebo group, in which a substantial regain of body weight lost during the lead-in phase was observed (see Table 12 and Figure 11). Nevertheless, the observed mean body weight for placebo-treated patients was lower at week 88 than at the start of the lead-in phase (see Figure 11).
+Patients who continued treatment with tirzepatide for an additional 52 weeks (up to 88 weeks in total) maintained and experienced further weigh loss after the initial weight reduction achieved during the 36 week lead-in phase. The weight reduction was superior and clinically meaningful compared to the placebo group, in which a substantial regain of body weight lost during the lead-in phase was observed (see Table 12 and Figure 13). Nevertheless, the observed mean body weight for placebo-treated patients was lower at week 88 than at the start of the lead-in phase (see Figure 13).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -930,24 +934,24 @@ Table 12. SURMOUNT-4: Results at week 88
 | Weight (kg) at Week 0 (baseline)                                                                    | 106.7                                                               | 107.8                                                               |
 | Weight (kg) at Week 36 (randomisation)                                                              | 84.5                                                                | 85.9                                                                |
 | Change (%) from Week 36 at Week 88                                                                  | -6.7 ††                                                             | 14.8 ††                                                             |
-| Difference (%) from placebo at Week 88 [95 %CI]                                                     | -21.4 ** [-22.9, -20.0]                                             | -                                                                   |
+| Difference (%) from placebo at Week 88 [95 % CI]                                                    | -21.4 ** [-22.9, -20.0]                                             | -                                                                   |
 | Change (kg) from Week 36 at Week 88                                                                 | -5.7 ††                                                             | 11.9 ††                                                             |
-| Difference (kg) from placebo at Week 88 [95 %CI]                                                    | -17.6 ## [-18.8, -16.4]                                             | -                                                                   |
+| Difference (kg) from placebo at Week 88 [95 % CI]                                                   | -17.6 ## [-18.8, -16.4]                                             | -                                                                   |
 | Patients (%) achieving body weight reduction from Week 0 to Week 88                                 | Patients (%) achieving body weight reduction from Week 0 to Week 88 | Patients (%) achieving body weight reduction from Week 0 to Week 88 |
-| ≥ 5%                                                                                                | 98.5 **                                                             | 69.0                                                                |
-| ≥ 10%                                                                                               | 94.0 **                                                             | 44.4                                                                |
-| ≥ 15%                                                                                               | 87. 1 **                                                            | 24.0                                                                |
-| ≥ 20%                                                                                               | 72.6 **                                                             | 11.6                                                                |
+| ≥ 5 %                                                                                               | 98.5 **                                                             | 69.0                                                                |
+| ≥ 10 %                                                                                              | 94.0 **                                                             | 44.4                                                                |
+| ≥ 15 %                                                                                              | 87. 1 **                                                            | 24.0                                                                |
+| ≥ 20 %                                                                                              | 72.6 **                                                             | 11.6                                                                |
 | Patients (%) who maintain ≥80% of the body weight lost during the 36-week lead-in period at Week 88 | 93.4 **                                                             | 13.5                                                                |
 | Waist circumference (cm)                                                                            |                                                                     |                                                                     |
 | Baseline (Week 0)                                                                                   | 114.9                                                               | 115.6                                                               |
 | Randomisation (Week 36)                                                                             | 96.7                                                                | 98.2                                                                |
 | Change from randomisation (Week 36)                                                                 | -4.6 ††                                                             | 8.3 ††                                                              |
-| Difference from placebo [95 %CI]                                                                    | -12.9 ** [-14.1, -11.7]                                             | -                                                                   |
+| Difference from placebo [95 % CI]                                                                   | -12.9 ** [-14.1, -11.7]                                             | -                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 11. Mean change in body weight (%) from baseline (Week 0) to week 88
+Figure 13. Mean change in body weight (%) from baseline (Week 0) to week 88
 
 <!-- image -->
 
@@ -959,15 +963,13 @@ Time to event analysis showed that continued tirzepatide treatment during the do
 
 In a 72-week study, 751 adult patients with obesity (BMI ≥ 30 kg/m 2 ) or overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) with at least 1 weight-related comorbid condition were randomised to tirzepatide 15 mg or semaglutide 2.4 mg once weekly. When patients did not tolerate this dose, the dose was reduced to tirzepatide 10 mg or semaglutide 1.7 mg once weekly. Patients were counselled on a reduced calorie diet and increased physical activity throughout the trial. Participants had a mean age of 44.7 years and a mean BMI of 39.4 kg/m 2 . Overall, 64.7 % were female.
 
-Treatment with tirzepatide for 72 weeks resulted in a superior and clinically meaningful reduction in body weight compared to semaglutide. The percent change from baseline at week 72 (primary endpoint) was -21.6 % for tirzepatide and -15.4 % for semaglutide (difference from semaglutide: 6.2 %; 95 % CI [-7.8, -4.6]; p&lt;0.001). Tirzepatide also achieved superiority compared with semaglutide for the key secondary endpoints, i.e. proportion of patients achieving ≥10 %, ≥15 %, ≥20 %, and ≥25 % body weight reduction at week 72 as well as reduction of waist circumference at week 72.
+Treatment with tirzepatide for 72 weeks resulted in a superior and clinically meaningful reduction in body weight compared to semaglutide. The percent change from baseline at week 72 (primary endpoint) was -21.6 % for tirzepatide and -15.4 % for semaglutide (difference from semaglutide: - 6.2 %; 95 % CI [-7.8, -4.6]; p&lt;0.001). Tirzepatide also achieved superiority compared with semaglutide for the key secondary endpoints, i.e. proportion of patients achieving ≥10 %, ≥15 %, ≥20 %, and ≥25 % body weight reduction at week 72 as well as reduction of waist circumference at week 72.
 
 ## Effect on body composition
 
-Changes in body composition were evaluated in a sub-study in SURMOUNT-1 using dual energy X-ray absorptiometry (DEXA). The results of the DEXA assessment showed that treatment with tirzepatide was accompanied by greater reduction in fat mass than in lean body mass leading to an improvement in body composition compared to placebo after 72 weeks. Furthermore, this reduction in
+Changes in body composition were evaluated in a sub-study in SURMOUNT-1 using dual energy X-ray absorptiometry (DEXA). The results of the DEXA assessment showed that treatment with tirzepatide was accompanied by greater reduction in fat mass than in lean body mass leading to an improvement in body composition compared to placebo after 72 weeks. Furthermore, this reduction in total fat mass was accompanied by a reduction in visceral fat. These results suggest that most of the total weight loss was attributable to a reduction in fat tissue, including visceral fat.
 
 <div style=\"page-break-after: always\"></div>
-
-total fat mass was accompanied by a reduction in visceral fat. These results suggest that most of the total weight loss was attributable to a reduction in fat tissue, including visceral fat.
 
 ## Improvement in physical functioning
 
@@ -985,32 +987,32 @@ In two 52 week double-blind placebo-controlled studies, 469 adult patients with 
 
 Table 13. SURMOUNT-OSA, Study 1 and Study 2: Results at week 52
 
-|                                   | OSA Study 1             | OSA Study 1   | OSA Study 2             | OSA Study 2   |
-|-----------------------------------|-------------------------|---------------|-------------------------|---------------|
-|                                   | Tirzepatide MTD         | Placebo       | Tirzepatide MTD         | Placebo       |
-| mITT population (n)               | 114                     | 120           | 119                     | 114           |
-| AHI (events/hr)                   |                         |               |                         |               |
-| Baseline mean                     | 54.3                    | 50.9          | 45.8                    | 53.1          |
-| Change from baseline              | -27.4 ††                | -4.8 †        | -30.4 ††                | -6.0 †        |
-| Difference from placebo [95 %CI]  | -22.5 ** [-28.7, -16.4] | -             | -24.4 ** [-30.3, -18.6] | -             |
-| %Change in AHI                    |                         |               |                         |               |
-| %Change from baseline             | -55.0 ††                | -5.0          | -62.8 ††                | -6.4          |
-| %Difference from placebo [95% CI] | -49.9 ** [-62.8, -37.0] | -             | -56.4 ** [-70.7, -42.2] | -             |
+|                                    | OSA Study 1             | OSA Study 1   | OSA Study 2             | OSA Study 2   |
+|------------------------------------|-------------------------|---------------|-------------------------|---------------|
+|                                    | Tirzepatide MTD         | Placebo       | Tirzepatide MTD         | Placebo       |
+| mITT population (n)                | 114                     | 120           | 119                     | 114           |
+| AHI (events/hr)                    |                         |               |                         |               |
+| Baseline mean                      | 54.3                    | 50.9          | 45.8                    | 53.1          |
+| Change from baseline               | -27.4 ††                | -4.8 †        | -30.4 ††                | -6.0 †        |
+| Difference from placebo [95 % CI]  | -22.5 ** [-28.7, -16.4] | -             | -24.4 ** [-30.3, -18.6] | -             |
+| % Change in AHI                    |                         |               |                         |               |
+| % Change from baseline             | -55.0 ††                | -5.0          | -62.8 ††                | -6.4          |
+| % Difference from placebo [95% CI] | -49.9 ** [-62.8, -37.0] | -             | -56.4 ** [-70.7, -42.2] | -             |
 
 <div style=\"page-break-after: always\"></div>
 
 | Patients (%) achieving reduction in AHI          | Patients (%) achieving reduction in AHI          | Patients (%) achieving reduction in AHI          | Patients (%) achieving reduction in AHI          | Patients (%) achieving reduction in AHI          |
 |--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
 | ≥50%                                             | 62.3                                             | 19.2                                             | 74.3                                             | 22.9                                             |
-| %Difference from placebo [95% CI]                | 43.6 ** [31.1, 56.2]                             | -                                                | 50.8 ** [38.6, 62.9]                             | -                                                |
+| % Difference from placebo [95% CI]               | 43.6 ** [31.1, 56.2]                             | -                                                | 50.8 ** [38.6, 62.9]                             | -                                                |
 | Sleep apnoea-specific hypoxic burden (% min/h) a | Sleep apnoea-specific hypoxic burden (% min/h) a | Sleep apnoea-specific hypoxic burden (% min/h) a | Sleep apnoea-specific hypoxic burden (% min/h) a | Sleep apnoea-specific hypoxic burden (% min/h) a |
 | Baseline geometric mean                          | 156.6                                            | 148.2                                            | 129.9                                            | 139.1                                            |
 | Change from baseline                             | -103.1 ††                                        | -21.1                                            | -103.0 ††                                        | -40.7 †                                          |
 | Difference from placebo [95% CI]                 | -82.0 ** [-107.0, -57.1]                         | -                                                | -62.4 ** [-87.1, -37.6]                          | -                                                |
 | Body weight (kg)                                 | Body weight (kg)                                 | Body weight (kg)                                 | Body weight (kg)                                 | Body weight (kg)                                 |
 | Baseline mean                                    | 117.0                                            | 112.7                                            | 115.8                                            | 115.0                                            |
-| %Change from baseline                            | -18.1 ††                                         | -1.3                                             | -20.1 ††                                         | -2.3 †                                           |
-| %Difference from placebo [95% CI]                | -16.8 ** [-18.8, -14.7]                          | -                                                | -17.8 ** [-19.9, -15.7]                          | -                                                |
+| % Change from baseline                           | -18.1 ††                                         | -1.3                                             | -20.1 ††                                         | -2.3 †                                           |
+| % Difference from placebo [95% CI]               | -16.8 ** [-18.8, -14.7]                          | -                                                | -17.8 ** [-19.9, -15.7]                          | -                                                |
 | Systolic Blood Pressure (mmHg) b                 | Systolic Blood Pressure (mmHg) b                 | Systolic Blood Pressure (mmHg) b                 | Systolic Blood Pressure (mmHg) b                 | Systolic Blood Pressure (mmHg) b                 |
 | Baseline mean                                    | 128.2                                            | 130.3                                            | 130.7                                            | 130.5                                            |
 | Change from baseline                             | -9.6 ††                                          | -1.7                                             | -7.6 ††                                          | -3.3 †                                           |
@@ -1026,7 +1028,7 @@ Table 13. SURMOUNT-OSA, Study 1 and Study 2: Results at week 52
 
 a Analysed using log transformed data.
 
-b  Blood pressure was assessed at Week 48 because PAP withdrawal at Week 52 may confound blood pressure assessment.
+b Blood pressure was assessed at Week 48 because PAP withdrawal at Week 52 may confound blood pressure assessment.
 
 ## Heart failure with preserved ejection fraction
 
@@ -1034,11 +1036,11 @@ The efficacy and safety of tirzepatide for the treatment of chronic heart failur
 
 Patients had a mean age of 65.2 years, 21.0 % were 75 years of age or older, and 53.8 % were women. At randomization, 72.5 % of patients were classified as NYHA Class II, 27.5 % as Class III/IV, and 48.2 % had T2DM. Mean BMI at baseline was 38.2 kg/m 2 , and median eGFR was 62.0 mL/min/1.73 m 2 . Baseline heart failure therapy included renin-angiotensin-system inhibitors (80.4 %), diuretics (73.6 %), beta blockers (69.5 %), mineralocorticoid receptor antagonists (35.0 %), and 17.2 % used SGLT2i.
 
-Tirzepatide demonstrated superiority compared with placebo in reducing the risk of worsening heart failure assessed as the composite of cardiovascular death or heart failure event, defined as heart failure hospitalization, urgent heart failure visits, or oral diuretic intensification for worsening heart failure (see Figure 12 and Table 14).
+Tirzepatide demonstrated superiority compared with placebo in reducing the risk of worsening heart failure assessed as the composite of cardiovascular death or heart failure event, defined as heart failure hospitalization, urgent heart failure visits, or oral diuretic intensification for worsening heart failure (see Figure 14 and Table 14).
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 12: Time-to-first event analysis for the composite of adjudication-confirmed cardiovascular death or heart failure events over a median follow up of 104 weeks
+Figure 14: Time-to-first event analysis for the composite of adjudication-confirmed cardiovascular death or heart failure events over a median follow up of 104 weeks
 
 <!-- image -->
 
@@ -1077,19 +1079,19 @@ Table 15. SUMMIT: Results at week 52
 | LS mean change from baseline                  | 24.8                   | 15.0      |
 | Difference from placebo [95% CI]              | 9.8** [7.1, 12.5]      | -         |
 | Patients (%) experiencing meaningful change 1 | 56.6 ##                | 38.7      |
-| 6MWD(metres)                                  |                        |           |
+| 6MWD (metres)                                 |                        |           |
 | Baseline mean                                 | 309.4                  | 303.9     |
 | LS mean change from baseline                  | 38.2                   | 7.9       |
 | Difference from placebo [95% CI]              | 30.3** [20.3, 40.3]    | -         |
 | Patients (%) experiencing meaningful change 2 | 59.9 ##                | 30.4      |
 | Body Weight (kg)                              |                        |           |
 | Baseline mean                                 | 103.1                  | 103.3     |
-| LS mean %change from baseline                 | -15.7                  | -2.2      |
-| %Difference from placebo [95% CI]             | -13.5** [-14.6, -12.4] | -         |
+| LS mean % change from baseline                | -15.7                  | -2.2      |
+| % Difference from placebo [95% CI]            | -13.5** [-14.6, -12.4] | -         |
 | hsCRP (mg/L)                                  |                        |           |
 | Baseline mean                                 | 5.5                    | 5.6       |
-| %Change from baseline                         | -43.4                  | -3.5      |
-| %Difference from placebo [95% CI]             | -41.4** [-49.5, -31.9] | -         |
+| % Change from baseline                        | -43.4                  | -3.5      |
+| % Difference from placebo [95% CI]            | -41.4** [-49.5, -31.9] | -         |
 
 ** p &lt; 0.001 versus placebo, adjusted for multiplicity.
 
@@ -1109,11 +1111,15 @@ An additional analysis was conducted specifically for the SURPASS-4 study that e
 
 <div style=\"page-break-after: always\"></div>
 
+In SURPASS-CVOT of patients with type 2 diabetes mellitus and established cardiovascular disease, a total of 1 663 patients (tirzepatide: 801 [n = 6 586]; dulaglutide: 862 [n = 6 579]) experienced at least one adjudication confirmed MACE-3 including CV death, myocardial infarction, and stroke. The results showed tirzepatide was non-inferior to dulaglutide for reducing the occurrence of MACE-3 (HR: 0.92; CI: 0.83 to 1.01).
+
 In 3 placebo-controlled weight management phase 3 studies (SURMOUNT 1-3), a total of 27 participants experienced at least one adjudication confirmed MACE (TZP: 17 (n = 2 806); placebo: 10 (n = 1 250)); the event rate was similar across placebo and tirzepatide.
 
 ## Blood pressure
 
 In the placebo-controlled phase 3 studies in adult patients with T2DM, treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 6 to 9 mmHg and 3 to 4 mmHg, respectively. There was a mean decrease in systolic and diastolic blood pressure of 2 mmHg each in placebo treated patients.
+
+In SURPASS-CVOT, treatment with tirzepatide resulted in a maximum mean decrease in systolic and diastolic blood pressure of 9 mmHg and 3 mmHg, respectively.
 
 In 3 placebo-controlled weight management phase 3 studies (SURMOUNT 1-3), treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 7 mmHg and 4 mmHg, respectively. There was a mean decrease in systolic and diastolic blood pressure of &lt; 1 mmHg each in placebo treated patients.
 
@@ -1137,11 +1143,13 @@ Across SURPASS-1 to -5 trials, tirzepatide 5 mg, 10 mg and 15 mg resulted in red
 
 In the 40 week trial versus semaglutide 1 mg, tirzepatide 5 mg, 10 mg and 15 mg resulted in 19 %, 24 % and 25 % reduction in serum triglycerides levels respectively compared to 12 % reduction with semaglutide 1 mg.
 
+<div style=\"page-break-after: always\"></div>
+
 In the 72 week placebo-controlled phase 3 study in patients with obesity or overweight without T2DM (SURMOUNT-1), treatment with tirzepatide 5 mg, 10 mg, and 15 mg resulted in 24 %, 27 % and 31 % reduction in serum triglyceride levels respectively compared to 6 % reduction with placebo.
 
 In the 72 week placebo-controlled phase 3 study in patients with obesity or overweight with T2DM (SURMOUNT-2), treatment with tirzepatide 10 mg and 15 mg resulted in 27 % and 31 % reduction in serum triglyceride levels respectively compared to 6 % reduction with placebo.
 
-<div style=\"page-break-after: always\"></div>
+In SURPASS-CVOT, treatment with tirzepatide MTD at month 24 resulted in 27% reduction in serum triglyceride levels compared to 11 % reduction with dulaglutide.
 
 ## Proportion of patients reaching HbA1c &lt; 5.7 % without clinically significant hypoglycaemia
 
@@ -1173,13 +1181,13 @@ Similar exposure was achieved with subcutaneous administration of tirzepatide in
 
 Absolute bioavailability of subcutaneous tirzepatide was 80 %.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Distribution
 
 The mean apparent steady-state volume of distribution of tirzepatide following subcutaneous administration in patients with type 2 diabetes is approximately 10.3 L, and 9.7 L in patients with obesity.
 
 Tirzepatide is highly bound to plasma albumin (99 %).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -1213,11 +1221,11 @@ The exposure in paediatric patients aged 10 to below 18 years with T2DM treated 
 
 Non-clinical data reveal no special hazards for humans based on conventional studies of safety pharmacology or repeat-dose toxicity or genotoxicity.
 
+<div style=\"page-break-after: always\"></div>
+
 A 2-year carcinogenicity study was conducted with tirzepatide in male and female rats at doses of 0.15, 0.50, and 1.5 mg/kg (0.12, 0.36, and 1.02-fold the maximum recommended human dose (MRHD) based on AUC) administered by subcutaneous injection twice weekly. Tirzepatide caused an increase in thyroid C-cell tumours (adenomas and carcinomas) at all doses compared to controls. The human relevance of these findings is unknown.
 
 In a 6-month carcinogenicity study in rasH2 transgenic mice, tirzepatide at doses of 1, 3, and 10 mg/kg administered by subcutaneous injection twice weekly did not produce increased incidences of thyroid C-cell hyperplasia or neoplasia at any dose.
-
-<div style=\"page-break-after: always\"></div>
 
 Animal studies with tirzepatide did not indicate direct harmful effects with respect to fertility.
 
@@ -1241,21 +1249,25 @@ Disodium hydrogen phosphate heptahydrate (E339) Benzyl alcohol (E1519) Glycerol 
 
 In the absence of compatibility studies this medicinal product must not be mixed with other medicinal products.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
-Pre-filled pen, single-dose; vial, single-dose
+## Pre-filled pen, single-dose; vial, single-dose
 
-Before use 2 years
+Before use
+
+2 years
 
 Mounjaro may be stored unrefrigerated for up to 21 cumulative days at a temperature below 30 ºC and then the pre-filled pen or vial must be discarded.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pre-filled pen (KwikPen), multi-dose
 
-Before use 2 years
+Before use
 
-## After first use
+2 years
+
+After first use
 
 30 days. Store unrefrigerated at room temperature below 30 ºC. The pre-filled KwikPen must be discarded 30 days after first use.
 
@@ -1263,11 +1275,11 @@ Before use 2 years
 
 Store in a refrigerator (2 ºC - 8 ºC). Do not freeze.
 
-## Pre-filled pen, single-dose; vial, single-dose
+Pre-filled pen, single-dose; vial, single-dose
 
 Store in original package in order to protect from light.
 
-## Pre-filled pen (KwikPen), multi-dose
+Pre-filled pen (KwikPen), multi-dose
 
 For storage conditions after first use of the medicinal product, see section 6.3.
 
@@ -1295,11 +1307,11 @@ Pack sizes of 1 vial, 4 vials, 12 vials, multipack containing 4 (4 packs of 1) v
 
 Clear glass cartridge encased in a multi-dose pre-filled pen.
 
+<div style=\"page-break-after: always\"></div>
+
 Each pre-filled KwikPen contains 2.4 ml of solution for injection (4 doses of 0.6 ml). Each pen has excess volume for priming. However, attempting to inject any leftover medicinal product will result in an incomplete dose even though the pen still has medicinal product left in it. Needles are not included.
 
 Pack sizes of 1 and 3 pre-filled KwikPens. Not all pack sizes may be marketed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -1437,7 +1449,9 @@ An updated RMP should be submitted:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 2.5 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 2.5 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1513,19 +1527,15 @@ The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1685/001 2 pre-filled pens
-
-EU/1/22/1685/002 4 pre-filled pens
+EU/1/22/1685/001 2 pre-filled pens EU/1/22/1685/002 4 pre-filled pens
 
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 MOUNJARO 2.5 mg
 
@@ -1536,8 +1546,8 @@ MOUNJARO 2.5 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1549,7 +1559,9 @@ OUTER CARTON (with Blue Box) - multipack - PRE-FILLED PEN SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 2.5 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 2.5 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1639,7 +1651,9 @@ INNER CARTON (without Blue Box) component of a multipack - PRE-FILLED PEN SINGLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 2.5 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 2.5 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1725,9 +1739,12 @@ MOUNJARO 2.5 mg
 
 PRE-FILLED PEN SINGLE-DOSE LABEL
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Mounjaro 2.5 mg solution for injection tirzepatide
+Mounjaro 2.5 mg solution for injection
+
+tirzepatide
 
 Subcutaneous use
 
@@ -1758,7 +1775,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 5 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 5 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1843,7 +1862,6 @@ EU/1/22/1685/005 4 pre-filled pens
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1857,8 +1875,8 @@ MOUNJARO 5 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1870,7 +1888,9 @@ OUTER CARTON (with Blue Box) - multipack - PRE-FILLED PEN SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 5 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 5 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1960,7 +1980,9 @@ INNER CARTON (without Blue Box) component of a multipack - PRE-FILLED PEN SINGLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 5 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 5 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2042,11 +2064,13 @@ MOUNJARO 5 mg
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-PRE-FILLED PEN SINGLE-DOSE LABEL
+## PRE-FILLED PEN SINGLE-DOSE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Mounjaro 5 mg solution for injection tirzepatide
+Mounjaro 5 mg solution for injection
+
+tirzepatide
 
 Subcutaneous use
 
@@ -2077,7 +2101,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 7.5 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 7.5 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2089,7 +2115,7 @@ Excipients: Disodium hydrogen phosphate heptahydrate (E339), sodium chloride, so
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 2 pre-filled pens
 
@@ -2097,7 +2123,9 @@ Solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For single use only Once weekly
+For single use only
+
+Once weekly
 
 Mark the day of the week you want to use your medicine to help you remember.
 
@@ -2160,7 +2188,6 @@ EU/1/22/1685/008 4 pre-filled pens
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2174,8 +2201,8 @@ MOUNJARO 7.5 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2189,7 +2216,9 @@ OUTER CARTON (with Blue Box) - multipack - PRE-FILLED PEN SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 7.5 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 7.5 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2279,7 +2308,9 @@ INNER CARTON (without Blue Box) component of a multipack - PRE-FILLED PEN SINGLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 7.5 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 7.5 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2359,36 +2390,39 @@ MOUNJARO 7.5 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE   |
-|--------------------------------------------------|
-| PRE-FILLED PEN SINGLE-DOSE LABEL                 |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN SINGLE-DOSE LABEL                                   |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Mounjaro 7.5 mg solution for injection
 
 tirzepatide Subcutaneous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Once weekly
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2398,7 +2432,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 10 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 10 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2483,7 +2519,6 @@ EU/1/22/1685/011 4 pre-filled pens
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2497,8 +2532,8 @@ MOUNJARO 10 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2510,7 +2545,9 @@ OUTER CARTON (with Blue Box) - multipack - PRE-FILLED PEN SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 10 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 10 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2574,7 +2611,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2600,7 +2637,9 @@ INNER CARTON (without Blue Box) component of a multipack - PRE-FILLED PEN SINGLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 10 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 10 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2684,17 +2723,20 @@ MOUNJARO 10 mg
 
 PRE-FILLED PEN SINGLE-DOSE LABEL
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Mounjaro 10 mg solution for injection tirzepatide Subcutaneous use
+Mounjaro 10 mg solution for injection
+
+tirzepatide
+
+Subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
 Once weekly
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
@@ -2718,7 +2760,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 12.5 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 12.5 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2803,7 +2847,6 @@ EU/1/22/1685/014 4 pre-filled pens
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2817,8 +2860,8 @@ MOUNJARO 12.5 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2830,7 +2873,9 @@ OUTER CARTON (with Blue Box) - multipack - PRE-FILLED PEN SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 12.5 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 12.5 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2894,7 +2939,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2920,7 +2965,9 @@ INNER CARTON (without Blue Box) component of a multipack - PRE-FILLED PEN SINGLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 12.5 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 12.5 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2975,7 +3022,7 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3038,7 +3085,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 15 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 15 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3123,7 +3172,6 @@ EU/1/22/1685/017 4 pre-filled pens
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -3137,8 +3185,8 @@ MOUNJARO 15 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3150,7 +3198,9 @@ OUTER CARTON (with Blue Box) - multipack - PRE-FILLED PEN SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 15 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 15 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3214,7 +3264,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3240,7 +3290,9 @@ INNER CARTON (without Blue Box) component of a multipack - PRE-FILLED PEN SINGLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 15 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 15 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3322,11 +3374,13 @@ MOUNJARO 15 mg
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-PRE-FILLED PEN SINGLE-DOSE LABEL
+## PRE-FILLED PEN SINGLE-DOSE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Mounjaro 15 mg solution for injection tirzepatide
+Mounjaro 15 mg solution for injection
+
+tirzepatide
 
 Subcutaneous use
 
@@ -3357,7 +3411,9 @@ OUTER CARTON - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 2.5 mg solution for injection in vial tirzepatide
+Mounjaro 2.5 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3369,7 +3425,7 @@ Excipients: Disodium hydrogen phosphate heptahydrate (E339), sodium chloride, so
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 1 vial
 
@@ -3433,7 +3489,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3459,7 +3515,9 @@ OUTER CARTON (with Blue Box) - multipack - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 2.5 mg solution for injection in vial tirzepatide
+Mounjaro 2.5 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3513,11 +3571,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000, 3528 BD Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3531,7 +3585,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3557,7 +3611,9 @@ INNER CARTON (without Blue Box) component of a multipack - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 2.5 mg solution for injection in vial tirzepatide
+Mounjaro 2.5 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3668,7 +3724,9 @@ OUTER CARTON - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 5 mg solution for injection in vial tirzepatide
+Mounjaro 5 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3680,7 +3738,7 @@ Excipients: Disodium hydrogen phosphate heptahydrate (E339), sodium chloride, so
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 1 vial
 
@@ -3744,7 +3802,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3770,7 +3828,9 @@ OUTER CARTON (with Blue Box) - multipack - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 5 mg solution for injection in vial tirzepatide
+Mounjaro 5 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3842,7 +3902,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3868,7 +3928,9 @@ INNER CARTON (without Blue Box) component of a multipack - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 5 mg solution for injection in vial tirzepatide
+Mounjaro 5 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3945,17 +4007,19 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| VIAL SINGLE-DOSE LABEL                                     |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL SINGLE-DOSE LABEL                                             |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Mounjaro 5 mg injection tirzepatide Subcutaneous use
+Mounjaro 5 mg injection
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+tirzepatide Subcutaneous use
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3967,8 +4031,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 ml
 
@@ -3983,7 +4047,9 @@ OUTER CARTON - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 7.5 mg solution for injection in vial tirzepatide
+Mounjaro 7.5 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3995,7 +4061,7 @@ Excipients: Disodium hydrogen phosphate heptahydrate (E339), sodium chloride, so
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 1 vial
 
@@ -4059,7 +4125,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -4085,7 +4151,9 @@ OUTER CARTON (with Blue Box) - multipack - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 7.5 mg solution for injection in vial tirzepatide
+Mounjaro 7.5 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -4157,7 +4225,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -4183,7 +4251,9 @@ INNER CARTON (without Blue Box) component of a multipack - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 7.5 mg solution for injection in vial tirzepatide
+Mounjaro 7.5 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -4266,7 +4336,9 @@ Justification for not including Braille accepted.
 
 Mounjaro 7.5 mg injection
 
-tirzepatide Subcutaneous use
+tirzepatide
+
+Subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -4274,7 +4346,8 @@ tirzepatide Subcutaneous use
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -4282,7 +4355,8 @@ Lot
 
 0.5 ml
 
-6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4292,7 +4366,9 @@ OUTER CARTON - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 10 mg solution for injection in vial tirzepatide
+Mounjaro 10 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -4368,7 +4444,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -4394,7 +4470,9 @@ OUTER CARTON (with Blue Box) - multipack - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 10 mg solution for injection in vial tirzepatide
+Mounjaro 10 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -4466,7 +4544,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -4492,7 +4570,9 @@ INNER CARTON (without Blue Box) component of a multipack - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 10 mg solution for injection in vial tirzepatide
+Mounjaro 10 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -4569,17 +4649,19 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| VIAL SINGLE-DOSE LABEL                                     |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL SINGLE-DOSE LABEL                                             |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Mounjaro 10 mg injection tirzepatide Subcutaneous use
+Mounjaro 10 mg injection
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+tirzepatide Subcutaneous use
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -4591,8 +4673,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 ml
 
@@ -4607,7 +4689,9 @@ OUTER CARTON - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 12.5 mg solution for injection in vial tirzepatide
+Mounjaro 12.5 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -4683,7 +4767,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -4709,7 +4793,9 @@ OUTER CARTON (with Blue Box) - multipack - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 12.5 mg solution for injection in vial tirzepatide
+Mounjaro 12.5 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -4781,7 +4867,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -4807,7 +4893,9 @@ INNER CARTON (without Blue Box) component of a multipack - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 12.5 mg solution for injection in vial tirzepatide
+Mounjaro 12.5 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -4871,7 +4959,8 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -4897,7 +4986,8 @@ Subcutaneous use
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -4905,7 +4995,8 @@ Lot
 
 0.5 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4915,7 +5006,9 @@ OUTER CARTON - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 15 mg solution for injection in vial tirzepatide
+Mounjaro 15 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -4991,7 +5084,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -5017,7 +5110,9 @@ OUTER CARTON (with Blue Box) - multipack - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 15 mg solution for injection in vial tirzepatide
+Mounjaro 15 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -5071,11 +5166,9 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
 Orteliuslaan 1000, 3528 BD Utrecht
 
-The Netherlands
+Eli Lilly Nederland B.V. The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -5089,7 +5182,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -5115,7 +5208,9 @@ INNER CARTON (without Blue Box) component of a multipack - VIAL SINGLE-DOSE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mounjaro 15 mg solution for injection in vial tirzepatide
+Mounjaro 15 mg solution for injection in vial
+
+tirzepatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -5179,12 +5274,12 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
+17. UNIQUE IDENTIFIER - 2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -5326,8 +5421,8 @@ Mounjaro 2.5 mg/dose KwikPen
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -5476,8 +5571,8 @@ Mounjaro 5 mg/dose KwikPen
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -5511,7 +5606,7 @@ Lot
 
 2.4 ml
 
-- 4 doses
+4 doses
 
 ## 6. OTHER
 
@@ -5626,8 +5721,8 @@ Mounjaro 7.5 mg/dose KwikPen
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -5661,7 +5756,7 @@ Lot
 
 2.4 ml
 
-- 4 doses
+4 doses
 
 ## 6. OTHER
 
@@ -5776,12 +5871,10 @@ Mounjaro 10 mg/dose KwikPen
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
@@ -5789,7 +5882,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTES OF ADMINISTRATION
 
-Mounjaro 10 mg/dose KwikPen solution for injection tirzepatide
+Mounjaro 10 mg/dose KwikPen solution for injection
+
+tirzepatide
 
 Subcutaneous use
 
@@ -5812,6 +5907,8 @@ Lot
 4 doses
 
 ## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5924,8 +6021,8 @@ Mounjaro 12.5 mg/dose KwikPen
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -5957,9 +6054,9 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-- 2.4 ml
+2.4 ml
 
-- 4 doses
+4 doses
 
 ## 6. OTHER
 
@@ -6074,8 +6171,8 @@ Mounjaro 15 mg/dose KwikPen
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -6121,16 +6218,18 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-Mounjaro 2.5 mg solution for injection in pre-filled pen Mounjaro 5 mg solution for injection in pre-filled pen Mounjaro 7.5 mg solution for injection in pre-filled pen Mounjaro 10 mg solution for injection in pre-filled pen Mounjaro 12.5 mg solution for injection in pre-filled pen Mounjaro 15 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro 2.5 mg solution for injection in pre-filled pen Mounjaro 5 mg solution for injection in pre-filled pen Mounjaro 7.5 mg solution for injection in pre-filled pen Mounjaro 10 mg solution for injection in pre-filled pen Mounjaro 12.5 mg solution for injection in pre-filled pen Mounjaro 15 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, nurse or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, nurse or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -6143,19 +6242,19 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What Mounjaro is and what it is used for
 
-Mounjaro contains an active substance called tirzepatide and is used to treat adults, adolescents and children aged 10 years and above with type 2 diabetes mellitus. Mounjaro reduces the level of sugar in the body only when the levels of sugar are high.
+Mounjaro contains an active substance called tirzepatide and is used to treat adults, adolescents and children aged 10 years and above with type 2 diabetes mellitus. Mounjaro reduces the level of sugar in the body only when the levels of sugar are high. Mounjaro can also help prevent heart disease.
 
 Mounjaro is also used to treat adults with obesity or overweight (with BMI of at least 27 kg/m 2 ). Mounjaro influences appetite regulation, which may help you eat less food and reduce your body weight.
 
 In type 2 diabetes, Mounjaro is used:
 
-- -on its own when you can't take metformin (another diabetes medicine).
-- -with other medicines for diabetes when they are not enough to control your blood sugar levels. These other medicines may be medicines taken by mouth and/or insulin given by injection.
+- on its own when you can't take metformin (another diabetes medicine).
+- with other medicines for diabetes when they are not enough to control your blood sugar levels. These other medicines may be medicines taken by mouth and/or insulin given by injection.
 
 Mounjaro is also used together with diet and exercise for weight loss and to help keep the weight under control in adults, who have:
 
-- -a BMI of 30 kg/m² or greater (obesity) or
-- -a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) and weight-related health problems (such as prediabetes, type 2 diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea', impaired heart function or a history of heart attack, stroke or blood vessel problems)
+- a BMI of 30 kg/m² or greater (obesity) or
+- a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) and weight-related health problems (such as prediabetes, type 2 diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea', impaired heart function or a history of heart attack, stroke or blood vessel problems)
 
 BMI (Body Mass Index) is a measure of your weight in relation to your height.
 
@@ -6169,20 +6268,20 @@ It is important to continue to follow the advice on diet and exercise given to y
 
 ## Do not use Mounjaro
 
-- -if you are allergic to tirzepatide or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to tirzepatide or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor, nurse or pharmacist before using Mounjaro if:
 
-- -you have severe problems with food digestion or food remaining in your stomach for longer than normal (including severe gastroparesis).
-- -you have ever had pancreatitis (inflammation of the pancreas which may cause severe pain in the stomach and back which does not go away).
-- -you have a problem with your eyes (diabetic retinopathy or macular oedema).
-- -you are using a sulphonylurea (another diabetes medicine) or insulin for your diabetes, as low blood sugar (hypoglycaemia) can occur. Your doctor may need to change your dose of these other medicines to reduce this risk.
+- you have severe problems with food digestion or food remaining in your stomach for longer than normal (including severe gastroparesis).
+- you have ever had pancreatitis (inflammation of the pancreas which may cause severe pain in the stomach and back which does not go away).
+- you have a problem with your eyes.
+- you are using a sulphonylurea (another diabetes medicine) or insulin for your diabetes, as low blood sugar (hypoglycaemia) can occur. Your doctor may need to change your dose of these other medicines to reduce this risk.
 
 When starting treatment with Mounjaro, in some cases you may experience loss of fluids/dehydration, e.g. due to vomiting, nausea and/or diarrhoea, which may lead to a decrease in kidney function. It is important to avoid dehydration by drinking plenty of fluids. Contact your doctor if you have any questions or concerns.
 
-If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are taking Mounjaro.
+If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are using Mounjaro.
 
 ## Children and adolescents
 
@@ -6277,70 +6376,73 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
-- -Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away. You should see a doctor immediately if you experience such symptoms.
+- Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away. You should see a doctor immediately if you experience such symptoms.
 
 ## Rare (may affect up to 1 in 1 000 people)
 
-- -Severe allergic reactions (e.g. anaphylactic reaction, angioedema). You should get immediate medical help and inform your doctor if you experience symptoms such as breathing problems, rapid swelling of the lips, tongue and/or throat with difficulty swallowing and a fast heartbeat.
+- Severe allergic reactions (e.g. anaphylactic reaction, angioedema). You should get immediate medical help and inform your doctor if you experience symptoms such as breathing problems, rapid swelling of the lips, tongue and/or throat with difficulty swallowing and a fast heartbeat.
 
 ## Other side effects
 
 Very common ( may affect more than 1 in 10 people)
 
-- -Feeling sick (nausea)
-- -Diarrhoea
-- -Stomach (abdominal) pain reported in patients treated for weight management and in adolescents and children treated for type 2 diabetes
-- -Being sick (vomiting) reported in patients treated for weight management and in adolescents and children treated for type 2 diabetes
-- -Constipation reported in patients treated for weight management
+- Feeling sick (nausea)
+- Diarrhoea
+- Stomach (abdominal) pain reported in patients treated for weight management, in patients with type 2 diabetes with cardiovascular disease, and in adolescents and children treated for type 2 diabetes
 
 <div style=\"page-break-after: always\"></div>
 
+- Being sick (vomiting) reported in patients treated for weight management, in patients with type 2 diabetes with cardiovascular disease and in adolescents and children treated for type 2 diabetes
+- Constipation reported in patients treated for weight management, and in patients with type 2 diabetes with cardiovascular disease
+- Feeling less hungry (decreased appetite) reported in patients with type 2 diabetes with cardiovascular disease
+- Feeling tired (fatigue) reported in patients with type 2 diabetes with cardiovascular disease
+
 These side effects are usually not severe. Nausea, diarrhoea, and vomiting are most common when first starting tirzepatide but decrease over time in most patients.
 
-- -Low blood sugar (hypoglycaemia) is very common when tirzepatide is used with medicines that contain a sulphonylurea and/or insulin. If you are using a sulphonylurea or insulin for type 2 diabetes, the dose may need to be lowered while you use tirzepatide (see section 2, 'Warnings and precautions'). Symptoms of low blood sugar may include headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating. Your doctor should tell you how to treat low blood sugar.
+- Low blood sugar (hypoglycaemia) is very common when tirzepatide is used with medicines that contain a sulphonylurea and/or insulin. If you are using a sulphonylurea or insulin for type 2 diabetes, the dose may need to be lowered while you use tirzepatide (see section 2, 'Warnings and precautions'). Symptoms of low blood sugar may include headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating. Your doctor should tell you how to treat low blood sugar.
 
 ## Common ( may affect up to 1 in 10 people)
 
-- -Low blood sugar (hypoglycaemia) when tirzepatide is used for type 2 diabetes with both metformin and a sodium-glucose co-transporter 2 inhibitor (another diabetes medicine)
-- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin alone in adolescents and children for type 2 diabetes
-- -Allergic reaction (hypersensitivity) (e.g., rash, itching, and eczema)
-- -Dizziness reported in patients treated for weight management
-- -Low blood pressure reported in patients treated for weight management
-- -Feeling less hungry (decreased appetite) reported in patients treated for type 2 diabetes
-- -Stomach (abdominal) pain reported in adult patients treated for type 2 diabetes
-- -Being sick (vomiting) reported in adult patients treated for type 2 diabetes - this usually decreases over time
-- -Indigestion (dyspepsia)
-- -Constipation reported in patients treated for type 2 diabetes
-- -Bloating of the stomach
-- -Burping (eructation)
-- -Gas (flatulence)
-- -Reflux or heartburn (also called gastroesophageal reflux disease - GERD) --a disease caused by stomach acid coming up into the tube from your stomach to your mouth
-- -Hair loss reported in patients treated for weight management
-- -Feeling tired (fatigue)
-- -Injection site reactions (e.g. itching or redness)
-- -Fast pulse
-- -Increased levels of pancreatic enzymes (such as lipase and amylase) in blood
-- -Increased calcitonin levels in blood in patients treated for weight management.
+- Low blood sugar (hypoglycaemia) when tirzepatide is used for type 2 diabetes with both metformin and a sodium-glucose co-transporter 2 inhibitor (another diabetes medicine)
+- Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin alone in adolescents and children for type 2 diabetes
+- Allergic reaction (hypersensitivity) (e.g., rash, itching, and eczema)
+- Dizziness reported in patients treated for weight management
+- Low blood pressure reported in patients treated for weight management
+- Feeling less hungry (decreased appetite) reported in patients treated for type 2 diabetes
+- Stomach (abdominal) pain reported in adult patients treated for type 2 diabetes
+- Being sick (vomiting) reported in adult patients treated for type 2 diabetes - this usually decreases over time
+- Indigestion (dyspepsia)
+- Constipation reported in patients treated for type 2 diabetes
+- Bloating of the stomach
+- Burping (eructation)
+- Gas (flatulence)
+- Reflux or heartburn (also called gastroesophageal reflux disease - GERD) --a disease caused by stomach acid coming up into the tube from your stomach to your mouth
+- Hair loss reported in patients treated for weight management
+- Feeling tired (fatigue) reported in patients treated for type 2 diabetes, and weight management
+- Injection site reactions (e.g. itching or redness)
+- Fast pulse
+- Increased levels of pancreatic enzymes (such as lipase and amylase) in blood
+- Increased calcitonin levels in blood in patients treated for weight management.
 
 ## Uncommon ( may affect up to 1 in 100 people)
 
-- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin in adults for type 2 diabetes.
-- -Gallstones
-- -Inflammation of the gallbladder
-- -Weight loss reported in patients treated for type 2 diabetes
-- -Injection site pain
-- -Increased calcitonin levels in blood in adult patients treated for type 2 diabetes or for OSA with obesity
-- -Changed sense of taste
-- -Change in skin sensation
-- -A delay in the emptying of the stomach
+- Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin in adults for type 2 diabetes.
+- Gallstones
+- Inflammation of the gallbladder
+- Weight loss reported in patients treated for type 2 diabetes
+- Injection site pain
+- Increased calcitonin levels in blood in adult patients treated for type 2 diabetes or for OSA with obesity
+- Changed sense of taste
+- Change in skin sensation
+- A delay in the emptying of the stomach
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Mounjaro
 
@@ -6364,12 +6466,12 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is tirzepatide.
 
-- -Mounjaro 2.5 mg: Each pre-filled pen contains 2.5 mg of tirzepatide in 0.5 ml solution (5 mg/ml).
-- -Mounjaro 5 mg: Each pre-filled pen contains 5 mg of tirzepatide in 0.5 ml solution (10 mg/ml).
-- -Mounjaro 7.5 mg: Each pre-filled pen contains 7.5 mg of tirzepatide in 0.5 ml solution (15 mg/ml).
-- -Mounjaro 10 mg: Each pre-filled pen contains 10 mg of tirzepatide in 0.5 ml solution (20 mg/ml).
-- -Mounjaro 12.5 mg: Each pre-filled pen contains 12.5 mg of tirzepatide in 0.5 ml solution (25 mg/ml).
-- -Mounjaro 15 mg: Each pre-filled pen contains 15 mg of tirzepatide in 0.5 ml solution (30 mg/ml).
+- Mounjaro 2.5 mg: Each pre-filled pen contains 2.5 mg of tirzepatide in 0.5 ml solution (5 mg/ml).
+- Mounjaro 5 mg: Each pre-filled pen contains 5 mg of tirzepatide in 0.5 ml solution (10 mg/ml).
+- Mounjaro 7.5 mg: Each pre-filled pen contains 7.5 mg of tirzepatide in 0.5 ml solution (15 mg/ml).
+- Mounjaro 10 mg: Each pre-filled pen contains 10 mg of tirzepatide in 0.5 ml solution (20 mg/ml).
+- Mounjaro 12.5 mg: Each pre-filled pen contains 12.5 mg of tirzepatide in 0.5 ml solution (25 mg/ml).
+- Mounjaro 15 mg: Each pre-filled pen contains 15 mg of tirzepatide in 0.5 ml solution (30 mg/ml).
 
 The other ingredients are disodium hydrogen phosphate heptahydrate (E339), sodium chloride, sodium hydroxide (see section 2 under 'Mounjaro contains sodium' for further information); concentrated hydrochloric acid and water for injections.
 
@@ -6381,6 +6483,8 @@ The pre-filled pen is for single use only.
 
 Pack sizes of 2 pre-filled pens, 4 pre-filled pens or multipack of 12 (3 packs of 4) pre-filled pens. Not all pack sizes may be available in your country.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
 Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
@@ -6389,81 +6493,97 @@ Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 Eli Lilly Italia S.p.A.,Via Gramsci 731/733, 50019, Sesto Fiorentino, Firenze (FI), Italy Lilly France, 2, rue du Colonel Lilly, 67640 Fegersheim, France
 
-<div style=\"page-break-after: always\"></div>
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . - България
-
-тел. + 359 2 491 41 40
+ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
 
 ## Česká republika
 
-ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
+ELI LILLY ČR, s.r.o.
+
+Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S Tlf.: +45 45 26 60 00
+Eli Lilly Danmark A/S
+
+Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
-Lilly Deutschland GmbH Tel. + 49-(0) 6172 273 2222
+Lilly Deutschland GmbH
+
+Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
-Eli Lilly Nederland B.V. Tel: +372 6 817 280
+Eli Lilly Nederland B.V.
+
+Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε. Τηλ: +30 210 629 4600
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+
+Τηλ: +30 210 629 4600
 
 ## España
 
-Lilly S.A. Tel: + 34-91 663 50 00
+Lilly S.A.
+
+Tel: + 34-91 663 50 00
 
 ## France
 
-Lilly France Tél: +33-(0) 1 55 49 34 34
+Lilly France
+
+Tél: +33-(0) 1 55 49 34 34
 
 ## Hrvatska
 
-Eli Lilly Hrvatska d.o.o. Tel: +385 1 2350 999
+Eli Lilly Hrvatska d.o.o.
+
+Tel: +385 1 2350 999
 
 ## Ireland
 
-Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
+Eli Lilly and Company (Ireland) Limited
+
+Tel: + 353-(0) 1 661 4377
 
 ## Ísland
 
-Icepharma hf.
-
-Sími + 354 540 8000
-
-## Italia
-
-Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
-
 ## Lietuva
 
-Eli Lilly Lietuva Tel. +370 (5) 2649600
+Eli Lilly Lietuva
+
+Tel. +370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## Magyarország
 
-Lilly Hungária Kft. Tel: + 36 1 328 5100
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
 
 ## Malta
 
-Charles de Giorgio Ltd. Tel: + 356 25600 500
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
 
 ## Nederland
 
@@ -6473,43 +6593,57 @@ Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
-Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
 
 ## Österreich
 
-Eli Lilly Ges.m.b.H. Tel: + 43-(0) 1 20609 1270
+Eli Lilly Ges.m.b.H.
+
+Tel: + 43-(0) 1 20609 1270
 
 ## Polska
 
-Eli Lilly Polska Sp. z o.o. Tel: +48 22 440 33 00
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
 
 ## Portugal
 
-Lilly Portugal Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
+Lilly Portugal Produtos Farmacêuticos, Lda
+
+Tel: + 351-21-4126600
 
 ## România
 
-Eli Lilly România S.R.L. Tel: + 40 21 4023000
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
 
 ## Slovenija
 
-Eli Lilly farmacevtska družba, d.o.o. Tel: +386 (0)1 580 00 10
+Eli Lilly farmacevtska družba, d.o.o.
+
+Tel: +386 (0)1 580 00 10
 
 ## Slovenská republika
 
-Eli Lilly Slovakia s.r.o. Tel: + 421 220 663 111
+Icepharma hf.
 
-## Suomi/Finland
+Sími + 354 540 8000
 
-Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
+## Italia
+
+Eli Lilly Italia S.p.A.
+
+Tel: + 39- 055 42571
 
 ## Κύπρος
 
 Phadisco Ltd
 
 Τηλ: +357 22 715000
-
-<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -6519,19 +6653,37 @@ Tel:
 
 + 371 67364000
 
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
+
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
+
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-Sverige Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
-
 <div style=\"page-break-after: always\"></div>
 
 ## Instructions for use
 
-Mounjaro   2.5 mg solution for injection in pre-filled pen Mounjaro   5 mg solution for injection in pre-filled pen Mounjaro   7.5 mg solution for injection in pre-filled pen Mounjaro   10 mg solution for injection in pre-filled pen Mounjaro   12.5 mg solution for injection in pre-filled pen Mounjaro   15 mg solution for injection in pre-filled pen tirzepatide
+Mounjaro   2.5 mg solution for injection in pre-filled pen Mounjaro   5 mg solution for injection in pre-filled pen Mounjaro   7.5 mg solution for injection in pre-filled pen Mounjaro   10 mg solution for injection in pre-filled pen Mounjaro   12.5 mg solution for injection in pre-filled pen Mounjaro   15 mg solution for injection in pre-filled pen
+
+tirzepatide
 
 <!-- image -->
 
@@ -6569,8 +6721,7 @@ Inspect the pen to make sure that it is not damaged.
 Make sure the medicine is:
 
 -  not frozen ·  colourless to slightly yellow
--  not cloudy
--  does not have particles
+-  not cloudy ·  does not have particles
 
 Wash your hands.
 
@@ -6658,9 +6809,7 @@ It is not necessary to warm the pen to room temperature.
 
 Do not remove the grey base cap. Throw away the pen and get a new pen.
 
-## What if there is a drop of liquid on the tip of the needle when I remove the grey base cap?
-
-A drop of liquid on the tip of the needle is normal. Do not touch the needle.
+What if there is a drop of liquid on the tip of the needle when I remove the grey base cap? A drop of liquid on the tip of the needle is normal. Do not touch the needle.
 
 ## Do I need to hold the injection button down until the injection is complete?
 
@@ -6698,16 +6847,18 @@ This is normal. Press a cotton ball or gauze over the injection site. Do not rub
 
 <div style=\"page-break-after: always\"></div>
 
-Mounjaro 2.5 mg solution for injection in vial Mounjaro 5 mg solution for injection in vial Mounjaro 7.5 mg solution for injection in vial Mounjaro 10 mg solution for injection in vial Mounjaro 12.5 mg solution for injection in vial Mounjaro 15 mg solution for injection in vial tirzepatide
+Mounjaro 2.5 mg solution for injection in vial Mounjaro 5 mg solution for injection in vial Mounjaro 7.5 mg solution for injection in vial Mounjaro 10 mg solution for injection in vial Mounjaro 12.5 mg solution for injection in vial Mounjaro 15 mg solution for injection in vial
+
+tirzepatide
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, nurse or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, nurse or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -6720,19 +6871,19 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. What Mounjaro is and what it is used for
 
-Mounjaro contains an active substance called tirzepatide and is used to treat adults, adolescents and children aged 10 years and above with type 2 diabetes mellitus. Mounjaro reduces the level of sugar in the body only when the levels of sugar are high.
+Mounjaro contains an active substance called tirzepatide and is used to treat adults, adolescents and children aged 10 years and above with type 2 diabetes mellitus. Mounjaro reduces the level of sugar in the body only when the levels of sugar are high. Mounjaro can also help prevent heart disease.
 
 Mounjaro is also used to treat adults with obesity or overweight (with BMI of at least 27 kg/m2). Mounjaro influences appetite regulation, which may help you eat less food and reduce your body weight.
 
 In type 2 diabetes, Mounjaro is used:
 
-- -on its own when you can't take metformin (another diabetes medicine).
-- -with other medicines for diabetes when they are not enough to control your blood sugar levels. These other medicines may be medicines taken by mouth and/or insulin given by injection.
+- on its own when you can't take metformin (another diabetes medicine).
+- with other medicines for diabetes when they are not enough to control your blood sugar levels. These other medicines may be medicines taken by mouth and/or insulin given by injection.
 
 Mounjaro is also used together with diet and exercise for weight loss and to help keep the weight under control in adults, who have:
 
-- -a BMI of 30 kg/m² or greater (obesity) or
-- -a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) and weight-related health problems (such as prediabetes, type 2 diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea', impaired heart function or a history of heart attack, stroke or blood vessel problems)
+- a BMI of 30 kg/m² or greater (obesity) or
+- a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) and weight-related health problems (such as prediabetes, type 2 diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea', impaired heart function or a history of heart attack, stroke or blood vessel problems)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6746,20 +6897,20 @@ It is important to continue to follow the advice on diet and exercise given to y
 
 ## Do not use Mounjaro
 
-- -if you are allergic to tirzepatide or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to tirzepatide or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor, nurse or pharmacist before using Mounjaro if:
 
-- -you have severe problems with food digestion or food remaining in your stomach for longer than normal (including severe gastroparesis).
-- -you have ever had pancreatitis (inflammation of the pancreas which may cause severe pain in the stomach and back which does not go away).
-- -you have a problem with your eyes (diabetic retinopathy or macular oedema).
-- -you are using a sulphonylurea (another diabetes medicine) or insulin for your diabetes, as low blood sugar (hypoglycaemia) can occur. Your doctor may need to change your dose of these other medicines to reduce this risk.
+- you have severe problems with food digestion or food remaining in your stomach for longer than normal (including severe gastroparesis).
+- you have ever had pancreatitis (inflammation of the pancreas which may cause severe pain in the stomach and back which does not go away).
+- you have a problem with your eyes.
+- you are using a sulphonylurea (another diabetes medicine) or insulin for your diabetes, as low blood sugar (hypoglycaemia) can occur. Your doctor may need to change your dose of these other medicines to reduce this risk.
 
 When starting treatment with Mounjaro, in some cases you may experience loss of fluids/dehydration, e.g. due to vomiting, nausea and/or diarrhoea, which may lead to a decrease in kidney function. It is important to avoid dehydration by drinking plenty of fluids. Contact your doctor if you have any questions or concerns.
 
-If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are taking Mounjaro.
+If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are using Mounjaro.
 
 ## Children and adolescents
 
@@ -6831,7 +6982,7 @@ If you want to do so, you can use the same area of your body each week. But be s
 2. Check that the Mounjaro in the vial looks clear and colourless to slightly yellow. Do not use if it is frozen, cloudy, or has particles in it.
 3. Pull off the vial plastic protective cap, but do not remove the stopper. Clean the stopper on the vial with a swab and prepare a new syringe. Do not share or reuse your needle or syringe.
 4. Draw a small amount of air into the syringe. Put the needle through the rubber stopper on top of the Mounjaro vial and inject the air into the vial.
-5. Turn the Mounjaro vial and the syringe upside down and slowly pull the syringe plunger down to withdraw all the Mounjaro solution from the vial.  The vial is filled to enable delivery of a single 0.5 ml dose of Mounjaro.
+5. Turn the Mounjaro vial and the syringe upside down and slowly pull the syringe plunger down to withdraw all the Mounjaro solution from the vial. The vial is filled to enable delivery of a single 0.5 ml dose of Mounjaro.
 6. If there are air bubbles in the syringe, tap the syringe gently a few times to let any air bubbles rise to the top. Slowly push the plunger up until there is no more air in the syringe.
 7. Pull the syringe out of the vial stopper.
 8. Before you make an injection, clean your skin.
@@ -6873,63 +7024,65 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Uncommon (may affect up to 1 in 100 people)
 
-- -Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away. You should see a doctor immediately if you experience such symptoms.
+- Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away. You should see a doctor immediately if you experience such symptoms.
 
 ## Rare (may affect up to 1 in 1 000 people)
 
-- -Severe allergic reactions (e.g. anaphylactic reaction, angioedema). You should get immediate medical help and inform your doctor if you experience symptoms such as breathing problems, rapid swelling of the lips, tongue and/or throat with difficulty swallowing and a fast heartbeat.
+- Severe allergic reactions (e.g. anaphylactic reaction, angioedema). You should get immediate medical help and inform your doctor if you experience symptoms such as breathing problems, rapid swelling of the lips, tongue and/or throat with difficulty swallowing and a fast heartbeat.
 
 ## Other side effects
 
 Very common ( may affect more than 1 in 10 people)
 
-- -Feeling sick (nausea)
-- -Diarrhoea
-- -Stomach (abdominal) pain reported in patients treated for weight management and in adolescents and children treated for type 2 diabetes
-- -Being sick (vomiting) reported in patients treated for weight management and in adolescents and children treated for type 2 diabetes
-- -Constipation reported in patients treated for weight management
+- Feeling sick (nausea)
+- Diarrhoea
+- Stomach (abdominal) pain reported in patients treated for weight management, in patients with type 2 diabetes with cardiovascular disease, and in adolescents and children treated for type 2 diabetes
+- Being sick (vomiting) reported in patients treated for weight management, in patients with type 2 diabetes with cardiovascular disease, and in adolescents and children treated for type 2 diabetes
+- Constipation reported in patients treated for weight management, and in patients with type 2 diabetes with cardiovascular disease
+- Feeling less hungry (decreased appetite) reported in patients with type 2 diabetes with cardiovascular disease
+- Feeling tired (fatigue) reported in patients with type 2 diabetes with cardiovascular disease
 
 These side effects are usually not severe. Nausea, diarrhoea, and vomiting are most common when first starting tirzepatide but decrease over time in most patients.
 
-- -Low blood sugar (hypoglycaemia) is very common when tirzepatide is used with medicines that contain a sulphonylurea and/or insulin. If you are using a sulphonylurea or insulin for type 2 diabetes, the dose may need to be lowered while you use tirzepatide (see section 2, 'Warnings and precautions'). Symptoms of low blood sugar may include headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating. Your doctor should tell you how to treat low blood sugar.
+- Low blood sugar (hypoglycaemia) is very common when tirzepatide is used with medicines that contain a sulphonylurea and/or insulin. If you are using a sulphonylurea or insulin for type 2 diabetes, the dose may need to be lowered while you use tirzepatide (see section 2, 'Warnings and precautions'). Symptoms of low blood sugar may include headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating. Your doctor should tell you how to treat low blood sugar.
 
 ## Common ( may affect up to 1 in 10 people)
 
-- -Low blood sugar (hypoglycaemia) when tirzepatide is used for type 2 diabetes with both metformin and a sodium-glucose co-transporter 2 inhibitor (another diabetes medicine)
-- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin alone in adolescents and children for type 2 diabetes
-- -Allergic reaction (hypersensitivity) (e.g., rash, itching, and eczema)
-- -Dizziness reported in patients treated for weight management
-- -Low blood pressure reported in patients treated for weight management
-- -Feeling less hungry (decreased appetite) reported in patients treated for type 2 diabetes
-- -Stomach (abdominal) pain reported in adult patients treated for type 2 diabetes
-- -Being sick (vomiting) reported in adult patients treated for type 2 diabetes - this usually decreases over time
-- -Indigestion (dyspepsia)
-- -Constipation reported in patients treated for type 2 diabetes
-- -Bloating of the stomach
-- -Burping (eructation)
-- -Gas (flatulence)
-- -Reflux or heartburn (also called gastroesophageal reflux disease - GERD) - a disease caused by stomach acid coming up into the tube from your stomach to your mouth
+- Low blood sugar (hypoglycaemia) when tirzepatide is used for type 2 diabetes with both metformin and a sodium-glucose co-transporter 2 inhibitor (another diabetes medicine)
+- Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin alone in adolescents and children for type 2 diabetes
+- Allergic reaction (hypersensitivity) (e.g., rash, itching, and eczema)
+- Dizziness reported in patients treated for weight management
+- Low blood pressure reported in patients treated for weight management
+- Feeling less hungry (decreased appetite) reported in patients treated for type 2 diabetes
+- Stomach (abdominal) pain reported in adult patients treated for type 2 diabetes
+- Being sick (vomiting) reported in adult patients treated for type 2 diabetes - this usually decreases over time
 
 <div style=\"page-break-after: always\"></div>
 
-- -Hair loss reported in patients treated for weight management
-- -Feeling tired (fatigue)
-- -Injection site reactions (e.g. itching or redness)
-- -Fast pulse
-- -Increased levels of pancreatic enzymes (such as lipase and amylase) in blood
-- -Increased calcitonin levels in blood in patients treated for weight management.
+- Indigestion (dyspepsia)
+- Constipation reported in patients treated for type 2 diabetes
+- Bloating of the stomach
+- Burping (eructation)
+- Gas (flatulence)
+- Reflux or heartburn (also called gastroesophageal reflux disease - GERD) - a disease caused by stomach acid coming up into the tube from your stomach to your mouth
+- Hair loss reported in patients treated for weight management
+- Feeling tired (fatigue) reported in patients treated for type 2 diabetes, and weight management
+- Injection site reactions (e.g. itching or redness)
+- Fast pulse
+- Increased levels of pancreatic enzymes (such as lipase and amylase) in blood
+- Increased calcitonin levels in blood in patients treated for weight management.
 
 ## Uncommon ( may affect up to 1 in 100 people)
 
-- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin in adults for type 2 diabetes.
-- -Gallstones
-- -Inflammation of the gallbladder
-- -Weight loss reported in patients treated for type 2 diabetes
-- -Injection site pain
-- -Increased calcitonin levels in blood in adult patients treated for type 2 diabetes or for OSA with obesity
-- -Changed sense of taste
-- -Change in skin sensation
-- -A delay in the emptying of the stomach
+- Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin in adults for type 2 diabetes.
+- Gallstones
+- Inflammation of the gallbladder
+- Weight loss reported in patients treated for type 2 diabetes
+- Injection site pain
+- Increased calcitonin levels in blood in adult patients treated for type 2 diabetes or for OSA with obesity
+- Changed sense of taste
+- Change in skin sensation
+- A delay in the emptying of the stomach
 
 ## Reporting of side effects
 
@@ -6951,27 +7104,28 @@ Do not use this medicine if you notice that the vial, seal or stopper is damaged
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What Mounjaro contains
 
 The active substance is tirzepatide.
 
-- -Mounjaro 2.5 mg: Each vial contains 2.5 mg of tirzepatide in 0.5 ml solution (5 mg/ml).
-- -Mounjaro 5 mg: Each vial contains 5 mg of tirzepatide in 0.5 ml solution (10 mg/ml).
-- -Mounjaro 7.5 mg: Each vial contains 7.5 mg of tirzepatide in 0.5 ml solution (15 mg/ml).
-- -Mounjaro 10 mg: Each vial contains 10 mg of tirzepatide in 0.5 ml solution (20 mg/ml).
-- -Mounjaro 12.5 mg: Each vial contains 12.5 mg of tirzepatide in 0.5 ml solution (25 mg/ml).
-
-<div style=\"page-break-after: always\"></div>
-
-- -Mounjaro 15 mg: Each vial contains 15 mg of tirzepatide in 0.5 ml solution (30 mg/ml).
+- Mounjaro 2.5 mg: Each vial contains 2.5 mg of tirzepatide in 0.5 ml solution (5 mg/ml).
+- Mounjaro 5 mg: Each vial contains 5 mg of tirzepatide in 0.5 ml solution (10 mg/ml).
+- Mounjaro 7.5 mg: Each vial contains 7.5 mg of tirzepatide in 0.5 ml solution (15 mg/ml).
+- Mounjaro 10 mg: Each vial contains 10 mg of tirzepatide in 0.5 ml solution (20 mg/ml).
+- Mounjaro 12.5 mg: Each vial contains 12.5 mg of tirzepatide in 0.5 ml solution (25 mg/ml).
+- Mounjaro 15 mg: Each vial contains 15 mg of tirzepatide in 0.5 ml solution (30 mg/ml).
 
 The other ingredients are disodium hydrogen phosphate heptahydrate (E339), sodium chloride, sodium hydroxide (see section 2 under 'Mounjaro contains sodium' for further information); concentrated hydrochloric acid and water for injections.
 
 ## What Mounjaro looks like and contents of the pack
 
-Mounjaro is a clear, colourless to slightly yellow, solution for injection in a vial. Each vial contains 0.5 ml solution.
+Mounjaro is a clear, colourless to slightly yellow, solution for injection in a vial.
+
+Each vial contains 0.5 ml solution.
 
 The vial is for single use only.
 
@@ -6995,7 +7149,7 @@ Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . -България тел. + 359 2 491 41 40
+ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
 
 ## Česká republika
 
@@ -7020,18 +7174,6 @@ Tel. + 49-(0) 6172 273 2222
 Eli Lilly Nederland B.V.
 
 Tel: +372 6 817 280
-
-## Ελλάδα
-
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
-
-Τηλ: +30 210 629 4600
-
-## España
-
-Lilly S.A.
-
-Tel: + 34-91 663 50 00
 
 ## Lietuva
 
@@ -7069,17 +7211,19 @@ Eli Lilly Norge A.S.
 
 Tlf: + 47 22 88 18 00
 
-## Österreich
+<div style=\"page-break-after: always\"></div>
 
-Eli Lilly Ges.m.b.H.
+## Ελλάδα
 
-Tel: + 43-(0) 1 20609 1270
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
-## Polska
+Τηλ: +30 210 629 4600
 
-Eli Lilly Polska Sp. z o.o.
+## España
 
-Tel: +48 22 440 33 00
+Lilly S.A.
+
+Tel: + 34-91 663 50 00
 
 ## France
 
@@ -7087,23 +7231,11 @@ Lilly France
 
 Tél: +33-(0) 1 55 49 34 34
 
-## Portugal
-
-Lilly Portugal Produtos Farmacêuticos, Lda
-
-Tel: + 351-21-4126600
-
 ## Hrvatska
 
 Eli Lilly Hrvatska d.o.o.
 
 Tel: +385 1 2350 999
-
-## România
-
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
 
 ## Ireland
 
@@ -7111,23 +7243,11 @@ Eli Lilly and Company (Ireland) Limited
 
 Tel: + 353-(0) 1 661 4377
 
-## Slovenija
-
-Eli Lilly farmacevtska družba, d.o.o.
-
-Tel: +386 (0)1 580 00 10
-
 ## Ísland
 
 Icepharma hf.
 
 Sími + 354 540 8000
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
 
 ## Italia
 
@@ -7135,25 +7255,11 @@ Eli Lilly Italia S.p.A.
 
 Tel: + 39- 055 42571
 
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
-
 ## Κύπρος
 
 Phadisco Ltd
 
 Τηλ: +357 22 715000
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
-
-<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -7169,22 +7275,70 @@ Tel:
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
+## Österreich
 
-<!-- image -->
+Eli Lilly Ges.m.b.H.
+
+Tel: + 43-(0) 1 20609 1270
+
+## Polska
+
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
+
+## Portugal
+
+Lilly Portugal Produtos Farmacêuticos, Lda
+
+Tel: + 351-21-4126600
+
+## România
+
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
+
+## Slovenija
+
+Eli Lilly farmacevtska družba, d.o.o.
+
+Tel: +386 (0)1 580 00 10
+
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
+
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
+
+<div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the patient
 
-Mounjaro 2.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 7.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 10 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 12.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 15 mg/dose KwikPen solution for injection in pre-filled pen tirzepatide
+Mounjaro 2.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 7.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 10 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 12.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro 15 mg/dose KwikPen solution for injection in pre-filled pen
+
+tirzepatide
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, nurse or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, nurse or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -7197,19 +7351,19 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What Mounjaro KwikPen is and what it is used for
 
-Mounjaro contains an active substance called tirzepatide and is used to treat adults, adolescents and children aged 10 years and above with type 2 diabetes mellitus. Mounjaro reduces the level of sugar in the body only when the levels of sugar are high.
+Mounjaro contains an active substance called tirzepatide and is used to treat adults, adolescents and children aged 10 years and above with type 2 diabetes mellitus. Mounjaro reduces the level of sugar in the body only when the levels of sugar are high. Mounjaro can also help prevent heart disease.
 
 Mounjaro is also used to treat adults with obesity or overweight (with BMI of at least 27 kg/m2). Mounjaro influences appetite regulation, which may help you eat less food and reduce your body weight.
 
 In type 2 diabetes, Mounjaro is used:
 
-- -on its own when you can't take metformin (another diabetes medicine).
-- -with other medicines for diabetes when they are not enough to control your blood sugar levels. These other medicines may be medicines taken by mouth and/or insulin given by injection.
+- on its own when you can't take metformin (another diabetes medicine).
+- with other medicines for diabetes when they are not enough to control your blood sugar levels. These other medicines may be medicines taken by mouth and/or insulin given by injection.
 
 Mounjaro is also used together with diet and exercise for weight loss and to help keep the weight under control in adults, who have:
 
-- -a BMI of 30 kg/m² or greater (obesity) or
-- -a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) and weight-related health problems (such as prediabetes, type 2 diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea', impaired heart function or a history of heart attack, stroke or blood vessel problems)
+- a BMI of 30 kg/m² or greater (obesity) or
+- a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) and weight-related health problems (such as prediabetes, type 2 diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea', impaired heart function or a history of heart attack, stroke or blood vessel problems)
 
 BMI (Body Mass Index) is a measure of your weight in relation to your height.
 
@@ -7223,20 +7377,20 @@ It is important to continue to follow the advice on diet and exercise given to y
 
 ## Do not use Mounjaro KwikPen
 
-- -if you are allergic to tirzepatide or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to tirzepatide or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor, nurse or pharmacist before using Mounjaro if:
 
-- -you have severe problems with food digestion or food remaining in your stomach for longer than normal (including severe gastroparesis).
-- -you have ever had pancreatitis (inflammation of the pancreas which may cause severe pain in the stomach and back which does not go away).
-- -you have a problem with your eyes (diabetic retinopathy or macular oedema).
-- -you are using a sulphonylurea (another diabetes medicine) or insulin for your diabetes, as low blood sugar (hypoglycaemia) can occur. Your doctor may need to change your dose of these other medicines to reduce this risk.
+- you have severe problems with food digestion or food remaining in your stomach for longer than normal (including severe gastroparesis).
+- you have ever had pancreatitis (inflammation of the pancreas which may cause severe pain in the stomach and back which does not go away).
+- you have a problem with your eyes.
+- you are using a sulphonylurea (another diabetes medicine) or insulin for your diabetes, as low blood sugar (hypoglycaemia) can occur. Your doctor may need to change your dose of these other medicines to reduce this risk.
 
 When starting treatment with Mounjaro, in some cases you may experience loss of fluids/dehydration, e.g. due to vomiting, nausea and/or diarrhoea, which may lead to a decrease in kidney function. It is important to avoid dehydration by drinking plenty of fluids. Contact your doctor if you have any questions or concerns.
 
-If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are taking Mounjaro.
+If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are using Mounjaro.
 
 ## Children and adolescents
 
@@ -7331,73 +7485,75 @@ Do not stop using Mounjaro without talking with your doctor. If you stop using M
 
 If you have any further questions on the use of this medicine, ask your doctor, nurse or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Serious side effects
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
-- -Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away. You should see a doctor immediately if you experience such symptoms.
+- Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away. You should see a doctor immediately if you experience such symptoms.
 
-Rare (may affect up to 1 in 1 000 people)
+## Rare (may affect up to 1 in 1 000 people)
 
-- -Severe allergic reactions (e.g. anaphylactic reaction, angioedema). You should get immediate medical help and inform your doctor if you experience symptoms such as breathing problems, rapid swelling of the lips, tongue and/or throat with difficulty swallowing and a fast heartbeat.
+- Severe allergic reactions (e.g. anaphylactic reaction, angioedema). You should get immediate medical help and inform your doctor if you experience symptoms such as breathing problems, rapid swelling of the lips, tongue and/or throat with difficulty swallowing and a fast heartbeat.
 
 ## Other side effects
 
-Very common ( may affect more than 1 in 10 people)
+## Very common ( may affect more than 1 in 10 people)
 
-- -Feeling sick (nausea)
-- -Diarrhoea
-- -Stomach (abdominal) pain reported in patients treated for weight management and in adolescents and children treated for type 2 diabetes
-- -Being sick (vomiting) reported in patients treated for weight management and in adolescents and children treated for type 2 diabetes
-- -Constipation reported in patients treated for weight management
+- Feeling sick (nausea)
+- Diarrhoea
+- Stomach (abdominal) pain reported in patients treated for weight management, in patients with type 2 diabetes with cardiovascular disease, and in adolescents and children treated for type 2 diabetes
+- Being sick (vomiting) reported in patients treated for weight management, in patients with type 2 diabetes with cardiovascular disease, and in adolescents and children treated for type 2 diabetes
+- Constipation reported in patients treated for weight management, and in patients with type 2 diabetes with cardiovascular disease
+- Feeling less hungry (decreased appetite) reported in patients with type 2 diabetes with cardiovascular disease
+- Feeling tired (fatigue) reported in patients with type 2 diabetes with cardiovascular disease
 
 These side effects are usually not severe. Nausea, diarrhoea, and vomiting are most common when first starting tirzepatide but decrease over time in most patients.
 
-- -Low blood sugar (hypoglycaemia) is very common when tirzepatide is used with medicines that contain a sulphonylurea and/or insulin. If you are using a sulphonylurea or insulin for type 2 diabetes, the dose may need to be lowered while you use tirzepatide (see section 2, 'Warnings and precautions'). Symptoms of low blood sugar may include headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating. Your doctor should tell you how to treat low blood sugar.
+- Low blood sugar (hypoglycaemia) is very common when tirzepatide is used with medicines that contain a sulphonylurea and/or insulin. If you are using a sulphonylurea or insulin for type 2 diabetes, the dose may need to be lowered while you use tirzepatide (see section 2, 'Warnings and precautions'). Symptoms of low blood sugar may include headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating. Your doctor should tell you how to treat low blood sugar.
 
 ## Common ( may affect up to 1 in 10 people)
 
-- -Low blood sugar (hypoglycaemia) when tirzepatide is used for type 2 diabetes with both metformin and a sodium-glucose co-transporter 2 inhibitor (another diabetes medicine)
-- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin alone in adolescents and children for type 2 diabetes
-- -Allergic reaction (hypersensitivity) (e.g., rash, itching, and eczema)
-- -Dizziness reported in patients treated for weight management
-- -Low blood pressure reported in patients treated for weight management
-- -Feeling less hungry (decreased appetite) reported in patients treated for type 2 diabetes
-- -Stomach (abdominal) pain reported in adult patients treated for type 2 diabetes
-- -Being sick (vomiting) reported in adult patients treated for type 2 diabetes - this usually decreases over time
-- -Indigestion (dyspepsia)
-- -Constipation reported in patients treated for type 2 diabetes
-- -Bloating of the stomach
-- -Burping (eructation)
-- -Gas (flatulence)
-- -Reflux or heartburn (also called gastroesophageal reflux disease - GERD) - a disease caused by stomach acid coming up into the tube from your stomach to your mouth
-- -Hair loss reported in patients treated for weight management
-- -Feeling tired (fatigue)
+- Low blood sugar (hypoglycaemia) when tirzepatide is used for type 2 diabetes with both metformin and a sodium-glucose co-transporter 2 inhibitor (another diabetes medicine)
+- Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin alone in adolescents and children for type 2 diabetes
+- Allergic reaction (hypersensitivity) (e.g., rash, itching, and eczema)
+- Dizziness reported in patients treated for weight management
+- Low blood pressure reported in patients treated for weight management
+- Feeling less hungry (decreased appetite) reported in patients treated for type 2 diabetes
+- Stomach (abdominal) pain reported in adult patients treated for type 2 diabetes
+- Being sick (vomiting) reported in adult patients treated for type 2 diabetes - this usually decreases over time
+- Indigestion (dyspepsia)
+- Constipation reported in patients treated for type 2 diabetes
+- Bloating of the stomach
+- Burping (eructation)
+- Gas (flatulence)
 
 <div style=\"page-break-after: always\"></div>
 
-- -Injection site reactions (e.g. itching or redness)
-- -Fast pulse
-- -Increased levels of pancreatic enzymes (such as lipase and amylase) in blood
-- -Increased calcitonin levels in blood in patients treated for weight management.
+- Reflux or heartburn (also called gastroesophageal reflux disease - GERD) - a disease caused by stomach acid coming up into the tube from your stomach to your mouth
+- Hair loss reported in patients treated for weight management
+- Feeling tired (fatigue) reported in patients treated for type 2 diabetes, and weight management
+- Injection site reactions (e.g. itching or redness)
+- Fast pulse
+- Increased levels of pancreatic enzymes (such as lipase and amylase) in blood
+- Increased calcitonin levels in blood in patients treated for weight management.
 
-Uncommon ( may affect up to 1 in 100 people)
+## Uncommon ( may affect up to 1 in 100 people)
 
-- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin in adults for type 2 diabetes.
-- -Gallstones
-- -Inflammation of the gallbladder
-- -Weight loss reported in patients treated for type 2 diabetes
-- -Injection site pain
-- -Increased calcitonin levels in blood in adult patients treated for type 2 diabetes or for OSA with obesity
-- -Changed sense of taste
-- -Change in skin sensation
-- -A delay in the emptying of the stomach
+- Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin in adults for type 2 diabetes.
+- Gallstones
+- Inflammation of the gallbladder
+- Weight loss reported in patients treated for type 2 diabetes
+- Injection site pain
+- Increased calcitonin levels in blood in adult patients treated for type 2 diabetes or for OSA with obesity
+- Changed sense of taste
+- Change in skin sensation
+- A delay in the emptying of the stomach
 
 ## Reporting of side effects
 
@@ -7425,11 +7581,11 @@ The active substance is tirzepatide.
 
 Mounjaro 2.5 mg/dose KwikPen: Each dose contains 2.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 10 mg of tirzepatide in 2.4 ml (4.17 mg/ml). Each pen delivers 4 doses of 2.5 mg.
 
+<div style=\"page-break-after: always\"></div>
+
 Mounjaro 5 mg/dose KwikPen: Each dose contains 5 mg of tirzepatide in 0.6 ml solution. Each multidose pre-filled pen contains 20 mg of tirzepatide in 2.4 ml (8.33 mg/ml). Each pen delivers 4 doses of 5 mg.
 
 Mounjaro 7.5 mg/dose KwikPen: Each dose contains 7.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 30 mg of tirzepatide in 2.4 ml (12.5 mg/ml). Each pen delivers 4 doses of 7.5 mg.
-
-<div style=\"page-break-after: always\"></div>
 
 Mounjaro 10 mg/dose KwikPen: Each dose contains 10 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 40 mg of tirzepatide in 2.4 ml (16.7 mg/ml). Each pen delivers 4 doses of 10 mg.
 
@@ -7437,13 +7593,15 @@ Mounjaro 12.5 mg/dose KwikPen: Each dose contains 12.5 mg of tirzepatide in 0.6 
 
 Mounjaro 15 mg/dose KwikPen: Each dose contains 15 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 60 mg of tirzepatide in 2.4 ml (25 mg/ml). Each pen delivers 4 doses of 15 mg.
 
-The other ingredients are disodium hydrogen phosphate heptahydrate (E339), benzyl alcohol (E1519) (see section 2 under 'Mounjaro KwikPen contains benzyl alcohol' for further information), glycerol, phenol, sodium chloride, sodium hydroxide (see section 2 under 'Mounjaro contains sodium' for further information); concentrated hydrochloric acid and water for injections.
+The other ingredients are disodium hydrogen phosphate heptahydrate (E339), benzyl alcohol (E1519) (see section 2 under 'Mounjaro KwikPen contains benzyl alcohol' for further information), glycerol, phenol, sodium chloride, sodium hydroxide (see section 2 under 'Mounjaro KwikPen contains sodium' for further information); concentrated hydrochloric acid and water for injections.
 
 ## What Mounjaro looks like and contents of the pack
 
 Mounjaro is a clear, colourless to slightly yellow, solution for injection in a pre-filled pen (KwikPen). Each KwikPen contains 2.4 ml solution for injection (4 doses of 0.6 ml), and excess for priming. Needles are not included.
 
-Pack sizes of 1 and 3 KwikPens Not all pack sizes may be available in your country.
+Pack sizes of 1 and 3 KwikPens
+
+Not all pack sizes may be available in your country.
 
 ## Marketing Authorisation Holder
 
@@ -7461,23 +7619,23 @@ For any information about this medicine, please contact the local representative
 
 Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
-## Lietuva
-
-Eli Lilly Lietuva Tel. +370 (5) 2649600
-
 ## България
 
 ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
 ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
+
+## Lietuva
+
+Eli Lilly Lietuva Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Magyarország
 
@@ -7487,9 +7645,13 @@ Tel: + 36 1 328 5100
 
 ## Danmark
 
+## Malta
+
 Eli Lilly Danmark A/S
 
 Tlf.: +45 45 26 60 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
@@ -7497,29 +7659,11 @@ Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
 
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
-
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
-
 ## Eesti
 
 Eli Lilly Nederland B.V.
 
 Tel: +372 6 817 280
-
-## Norge
-
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
 
 ## Ελλάδα
 
@@ -7527,23 +7671,11 @@ Tlf: + 47 22 88 18 00
 
 Τηλ: +30 210 629 4600
 
-## Österreich
-
-Eli Lilly Ges.m.b.H.
-
-Tel: + 43-(0) 1 20609 1270
-
 ## España
 
 Lilly S.A.
 
 Tel: + 34-91 663 50 00
-
-## Polska
-
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
 
 ## France
 
@@ -7551,47 +7683,19 @@ Lilly France
 
 Tél: +33-(0) 1 55 49 34 34
 
-## Portugal
-
-Lilly Portugal Produtos Farmacêuticos, Lda
-
-Tel: + 351-21-4126600
-
 ## Hrvatska
 
 Eli Lilly Hrvatska d.o.o.
 
 Tel: +385 1 2350 999
 
-## România
-
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
-
 ## Ireland
 
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
-
-## Slovenija
-
-Eli Lilly farmacevtska družba, d.o.o.
-
-Tel: +386 (0)1 580 00 10
+Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
 
 ## Ísland
 
-Icepharma hf.
-
-Sími + 354 540 8000
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
+Icepharma hf. Sími + 354 540 8000
 
 ## Italia
 
@@ -7599,23 +7703,11 @@ Eli Lilly Italia S.p.A.
 
 Tel: + 39- 055 42571
 
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
-
 ## Κύπρος
 
 Phadisco Ltd
 
 Τηλ: +357 22 715000
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
 
 ## Latvija
 
@@ -7631,7 +7723,65 @@ Tel:
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
+
+## Nederland
+
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
+
+## Norge
+
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
+
+## Österreich
+
+Eli Lilly Ges.m.b.H.
+
+Tel: + 43-(0) 1 20609 1270
+
+## Polska
+
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
+
+## Portugal
+
+Lilly Portugal Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
+
+## România
+
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
+
+## Slovenija
+
+Eli Lilly farmacevtska družba, d.o.o. Tel: +386 (0)1 580 00 10
+
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
+
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7641,7 +7791,9 @@ Multi-dose pre-filled pen
 
 ## Each pen contains 4 fixed doses, one dose taken weekly.
 
-Mounjaro   2.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro   5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro   7.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro   10 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro   12.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro   15 mg/dose KwikPen solution for injection in pre-filled pen tirzepatide
+Mounjaro   2.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro   5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro   7.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro   10 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro   12.5 mg/dose KwikPen solution for injection in pre-filled pen Mounjaro   15 mg/dose KwikPen solution for injection in pre-filled pen
+
+tirzepatide
 
 This instructions for use contains information on how to inject Mounjaro KwikPen
 
@@ -7661,11 +7813,11 @@ People who are blind or have vision problems should not use the pen without help
 
 <div style=\"page-break-after: always\"></div>
 
-Guide to parts Parts of the Mounjaro KwikPen
+## Guide to parts Parts of the Mounjaro KwikPen
+
+KwikPen compatible pen needle (If you do not know what pen needle to use, talk to your healthcare professional)
 
 <!-- image -->
-
-KwikPen compatible needle (If you do not know what pen needle to use, talk to your healthcare professional)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7675,10 +7827,10 @@ KwikPen compatible needle (If you do not know what pen needle to use, talk to yo
 
 ## Supplies needed to give your injection
 
-- -Mounjaro KwikPen
-- -KwikPen compatible pen needle (If you do not know what pen needle to use, talk to your healthcare professional)
-- -Swab, gauze or cotton ball
-- -Sharps disposal container or household container
+- Mounjaro KwikPen
+- KwikPen compatible pen needle (If you do not know what pen needle to use, talk to your healthcare professional)
+- Swab, gauze or cotton ball
+- Sharps disposal container or household container
 
 ## Preparing to inject Mounjaro KwikPen
 
@@ -7694,9 +7846,9 @@ KwikPen compatible needle (If you do not know what pen needle to use, talk to yo
 
 - Pull the pen cap straight off.
 - Inspect the pen and label. Do not use if:
-- -the medicine name or dose strength does not match your prescription.
-- -the pen is expired (EXP) or looks damaged.
-- -the medicine has been frozen, has particles, is cloudy, or is discoloured. Mounjaro should be colourless to slightly yellow.
+- the medicine name or dose strength does not match your prescription.
+- the pen is expired (EXP) or looks damaged.
+- the medicine has been frozen, has particles, is cloudy, or is discoloured. Mounjaro should be colourless to slightly yellow.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7706,9 +7858,9 @@ KwikPen compatible needle (If you do not know what pen needle to use, talk to yo
 
 <!-- image -->
 
-<!-- image -->
-
 a. Outer needle shield
+
+<!-- image -->
 
 <!-- image -->
 
@@ -7759,13 +7911,13 @@ b. Inner needle shield
 
 ## Step 9:
 
-- Release some medicine into the air by pushing the dose knob in until it stops, then slowly count to 5 while holding the dose knob . The icon must be shown in the dose window. Do not inject into your body. 0
+- Release some medicine into the air by pushing the dose knob in until it stops, then slowly count to 5 while holding the dose knob . The icon must be shown in the dose window. Do not inject into your body.
 
 Priming removes air from the cartridge and makes sure that your pen is working correctly. Your pen has been primed if a small amount of medicine comes out of the tip of the pen needle.
 
-- -If you do not see medicine, repeat steps 7-9 , no more than 2 additional times.
-- -If you still do not see medicine, then change the pen needle and repeat steps 7-9 , no more than 1 additional time.
-- -If you still do not see medicine, contact your local Lilly office listed in the patient information leaflet.
+- If you do not see medicine, repeat steps 7-9 , no more than 2 additional times.
+- If you still do not see medicine, then change the pen needle and repeat steps 7-9 , no more than 1 additional time.
+- If you still do not see medicine, contact your local Lilly office listed in the patient information leaflet.
 
 ## Step 10:
 
@@ -7794,16 +7946,20 @@ Priming removes air from the cartridge and makes sure that your pen is working c
 
 <!-- image -->
 
-- b. Inject the medicine by pushing the dose knob in until it stops then slowly count to 5 while holding the dose knob . The icon must be shown in the dose window before removing the needle. 0
+- b. Inject the medicine by pushing the dose knob in until it stops then slowly count to 5 while holding the dose knob . The icon must be shown in the dose window before removing the needle.
 
 ## Step 13:
 
 - Pull the needle out of your skin. A drop of medicine on the needle tip is normal. It will not affect your dose.
-- Confirm the icon is in the dose window. If you see the icon in the window, you have received the full dose. 0 0
+- Confirm the icon is in the dose window. If you see the icon in the window, you have received the full dose.
 
-If you do not see the icon in the dose window, insert the needle back into your skin and finish your injection. Do not redial the dose. 0
+If you do not see the icon in the dose window, insert the needle back into your skin and finish your injection. Do not redial the dose.
 
-If you still do not think you received the full dose, do not start over or repeat the injection. See \"Storing your Mounjaro KwikPen\" or \"Commonly asked questions\" sections for more information.
+If you still do not think you received the full dose, do not start over or repeat the injection.
+
+See \"Storing your Mounjaro KwikPen\" or
+
+\"Commonly asked questions\" sections for more information.
 
 ## Step 14:
 
@@ -7837,8 +7993,8 @@ If you still do not think you received the full dose, do not start over or repea
 ## Leftover Medicine:
 
 - After you have completed your fourth injection , you will see some leftover medicine and that is normal. This leftover medicine ensures the pen operates correctly.
-- -Dispose of the pen.
-- -Even though the pen still has medicine left in it, do not attempt to inject the leftover medicine. Attempting to inject any leftover medicine could result in an incomplete dose.
+- Dispose of the pen.
+- Even though the pen still has medicine left in it, do not attempt to inject the leftover medicine. Attempting to inject any leftover medicine could result in an incomplete dose.
 
 ## Disposing of Mounjaro KwikPen and pen needles
 
@@ -7866,7 +8022,7 @@ Do not store the pen with the needle attached to prevent leaking, blocking the n
 
 - If you cannot remove the pen cap, gently twist the pen cap back and forth, and then pull the pen cap straight off.
 - If you are unable to turn the dose knob until the is in the dose window:
-- -dispose of the pen, including the unused medicine. There may not be enough medicine left in the pen to give a full dose. Do not attempt to inject the leftover medicine.
+- dispose of the pen, including the unused medicine. There may not be enough medicine left in the pen to give a full dose. Do not attempt to inject the leftover medicine.
 - If the dose knob is hard to push:
 -  pushing the dose knob more slowly will make it easier to inject.
 -  your needle may be blocked. Put on a new needle and prime the pen.
@@ -7877,12 +8033,10 @@ Do not store the pen with the needle attached to prevent leaking, blocking the n
 
 Use Mounjaro KwikPen 1 time a week.
 
-I inject my weekly dose on the dates below.
-
 Write the day of the week you choose to inject. Inject on this day each week (Example: Monday).
 
-(Day/Month) (Day/Month) (Day/Month)
+I inject my weekly dose on the dates below.
 
-(Day/Month)
+(Day/Month) (Day/Month) (Day/Month) (Day/Month)
 
 Last revised in

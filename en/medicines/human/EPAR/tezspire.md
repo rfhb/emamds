@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-25 09:29:00
+document_datetime: 2026-08-26 17:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tezspire.html
 document_name: tezspire.html
 version: success
-processing_time: 0.1634861
-conversion_datetime: 2026-07-04 12:59:58.667436
+processing_time: 0.3379191
+conversion_datetime: 2026-09-02 22:32:14.565558
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Tezspire
 
@@ -118,7 +118,7 @@ English (EN) (146.75 KB - PDF)
 
 [View](/en/documents/overview/tezspire-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-631)
+[Other languages (22)](#file-language-dropdown-837)
 
 български (BG) (171.15 KB - PDF)
 
@@ -270,7 +270,7 @@ English (EN) (2.9 MB - PDF)
 
 [View](/en/documents/product-information/tezspire-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-110)
+[Other languages (24)](#file-language-dropdown-891)
 
 български (BG) (1.21 MB - PDF)
 
@@ -424,7 +424,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -443,7 +443,7 @@ English (EN) (40.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tezspire-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-233)
+[Other languages (24)](#file-language-dropdown-658)
 
 български (BG) (34.28 KB - PDF)
 
@@ -609,10 +609,10 @@ Drugs for obstructive airway diseases
 
 ### Therapeutic indication
 
-Asthma
+Asthma  
 Tezspire is indicated as an add-on maintenance treatment in adults and adolescents 12 years and older with severe asthma who are inadequately controlled despite high dose inhaled corticosteroids plus another medicinal product for maintenance treatment.
 
-Chronic rhinosinusitis with nasal polyps (CRSwNP)
+Chronic rhinosinusitis with nasal polyps (CRSwNP)  
 Tezspire is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adult patients with severe CRSwNP for whom therapy with systemic corticosteroids, and/or surgery do not provide adequate disease control.
 
 ## Authorisation details
@@ -628,7 +628,7 @@ Tezspire is indicated as an add-on therapy with intranasal corticosteroids for t
 - **Marketing authorisation issued**
     - 19/09/2022
 - **Revision**
-    - 14
+    - 15
 
 ## Assessment history
 
@@ -653,6 +653,16 @@ English (EN) (176.34 KB - PDF)
 **First published:** 09/11/2022 **Last updated:** 25/06/2026
 
 [View](/en/documents/procedural-steps-after/tezspire-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Tezspire-PAM-0000340081 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3392290
+
+English (EN) (2.38 MB - PDF)
+
+**First published:** 26/08/2026
+
+[View](/en/documents/variation-report/tezspire-pam-0000340081-epar-assessment-report_en.pdf)
 
 Tezspire-H-C-005588-EMAVR0000245013 : EPAR - Assessment report - Variation
 
@@ -729,8 +739,8 @@ English (EN) (9.61 MB - PDF)
 ## More information on Tezspire
 
 - [EMEA-001613-PIP03-21-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001613-pip03-21-m01)
-- [Impact of biologics on inhaled corticosteroids reduction (MOON LIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000855)
 - [Sustainability of response to biologics in severe asthma and predictors of late failure among patients in an international registry (SHINE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000788)
+- [Impact of biologics on inhaled corticosteroids reduction (MOON LIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000855)
 - [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
 - [CROSSROADS-2: Clinical Characteristics, Treatment Patterns, and Treatment Outcomes Among Users of Tezspire: An Electronic Medical Record (EMR) study (20220066) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000053)
 - [Real-World Clinical Outcomes in Patients with Severe Asthma Treated with Tezepelumab: A Retrospective Observational Study of CHRONICLE and ISAR (SYNERGY) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000951)
@@ -742,6 +752,6 @@ English (EN) (9.61 MB - PDF)
 
 **This page was last updated on**
 
-25/06/2026
+26/08/2026
 
 ## Share this page

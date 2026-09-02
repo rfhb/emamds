@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-11-25 14:25:50
-document_pages: 41
+document_datetime: 2026-08-27 10:04:06
+document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kauliv-epar-product-information_en.pdf
 document_name: kauliv-epar-product-information_en.pdf
 version: success
-processing_time: 8.936233
-conversion_datetime: 2025-12-22 00:18:39.667313
+processing_time: 8.7854273
+conversion_datetime: 2026-09-02 21:59:51.375531
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,25 +22,27 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse  reactions. See  section  4.8  for  how  to  report  adverse  reactions.
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See  section  4.8  for  how  to  report  adverse  reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kauliv  20  micrograms/80  microliters  solution  for  injection
+Kauliv  20  micrograms/80  microliters solution  for injection
 
-## 2.    QUALITATIVE AND QUANTITATIVE COMPOSITION
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each dose of  80  microliters contains 20 micrograms of  teriparatide*.
+Each dose of  80 microliters contains 20 micrograms of  teriparatide*.
 
 Each  cartridge  of  3  mL of  solution  contains  750  micrograms  of  teriparatide  (corresponding to 250 micrograms per mL).
 
 *Teriparatide, rhPTH (1-34), produced in E. coli, using recombinant DNA technology, is identical to the  34-N-terminal  amino  acid  sequence  of  endogenous  human  parathyroid  hormone.
 
-For the full list of  excipients, see  section  6.1.
+For the full list of  excipients, see section 6.1.
 
-## 3. PHARMACEUTICAL  FORM
+## 3. PHARMACEUTICAL FORM
 
-Solution  for injection. Colourless,  clear  solution  for  injection.
+Solution  for injection.
+
+Colourless,  clear  solution  for  injection.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -48,19 +50,19 @@ Solution  for injection. Colourless,  clear  solution  for  injection.
 
 Kauliv is indicated in adults.
 
-Treatment  of  osteoporosis  in  postmenopausal  women  and  in  men  at  increased  risk  of  fracture  (see section 5.1). In postmenopausal women, a significant reduction in the incidence of vertebral and  nonvertebral  fractures  but  not  hip  fractures  has  been  demonstrated.
+Treatment of osteoporosis in postmenopausal women and in men at increased risk of fracture (see section 5.1). In postmenopausal women, a significant reduction in the incidence of vertebral and nonvertebral fractures  but  not  hip  fractures  has  been  demonstrated.
 
-Treatment of osteoporosis associated with sustained  systemic  glucocorticoid  therapy  in  women  and men  at  increased  risk  for  fracture  (see  section  5.1).
+Treatment of osteoporosis associated with sustained  systemic  glucocorticoid  therapy  in  women and men  at  increased  risk  for  fracture  (see  section  5.1).
 
 ## 4.2. Posology and method of administration
 
-## Posology
+Posology
 
-The  recommended  dose  of  Kauliv  is  20  micrograms  administered  once  daily.
+The recommended  dose  of  Kauliv  is 20  micrograms administered  once  daily.
 
 Patients  should  receive  supplemental calcium  and  vitamin  D  supplements  if  dietary  intake  is inadequate.
 
-The maximum total duration of treatment with teriparatide should be 24 months (see section 4.4). The 24-month  course  of  teriparatide  should  not  be  repeated  over  a  patient's  lifetime.
+The maximum total duration of treatment with teriparatide should be 24 months (see section 4.4). The 24-month  course  of  teriparatide  should  not  be  repeated  over  a patient's lifetime.
 
 Following cessation of teriparatide therapy, patients may be continued on other osteoporosis therapies.
 
@@ -70,11 +72,11 @@ Special  populations
 
 ## Elderly
 
-Dose adjustment based on  age is not required  (see  section  5.2).
+Dose adjustment based on age is not required (see section  5.2).
 
 ## Renal impairment
 
-Teriparatide must not be used in patients with  severe  renal impairment (see  section  4.3).  In  patients with  moderate  renal  impairment,  teriparatide  should  be  used  with  caution.  No  special  caution  is required  for  patients  with  mild  renal impairment.
+Teriparatide must not be used in patients with severe renal impairment (see section 4.3). In patients with moderate renal impairment, teriparatide should be used with caution. No special caution is required  for  patients  with  mild  renal impairment.
 
 ## Hepatic  impairment
 
@@ -86,30 +88,30 @@ The safety and efficacy of teriparatide in children and adolescents less than 18
 
 ## Method of  administration
 
-Kauliv  should  be  administered  once  daily  by  subcutaneous injection  in  the  thigh  or abdomen.
+Kauliv should be administered  once  daily  by  subcutaneous injection in the thigh  or abdomen.
 
 Patients must be trained to use the proper injection techniques (see section 6.6). For instructions of the medicinal product before administration (see section 6.6). Instructions for use which is included in  the carton  of  the  pen  are  also  available  to  instruct  patients  on  the  correct  use  of  the  pen.
 
 ## 4.3. Contraindications
 
-- Hypersensitivity  to  the  active  substance  or to  any  of  the  excipients  listed  in  section  6.1.
+- Hypersensitivity to the active substance or to any  of  the excipients listed  in  section  6.1.
 - Pregnancy  and  breast-feeding  (see  sections  4.4  and  4.6).
 - Pre-existing hypercalcaemia.
 - Severe renal impairment.
 - Metabolic bone diseases (including hyperparathyroidism and Paget's disease of the bone) other than  primary  osteoporosis  or  glucocorticoid-induced  osteoporosis.
 - Unexplained  elevations  of  alkaline  phosphatase.
-- Prior external beam  or implant radiation  therapy  to  the  skeleton.
+- Prior external beam  or implant radiation therapy  to the  skeleton.
 - Patients with skeletal malignancies or bone metastases should be excluded from treatment with teriparatide.
 
 ## 4.4. Special warnings and precautions for use
 
 ## Traceability
 
-In order to improve the traceability of biological medicinal products, the name  and  the  batch  number of  the  administered  medicinal  product  should  be  clearly  recorded.
+In order to improve the traceability of biological medicinal products, the name  and  the batch number of  the  administered  medicinal  product  should  be  clearly  recorded.
 
 ## Serum and urine calcium
 
-In normocalcaemic patients, slight and transient elevations of serum calcium concentrations have been observed following teriparatide injection. Serum calcium concentrations  reach  a  maximum  between 4 and 6 hours and return to baseline by 16 to  24 hours after each dose of  teriparatide. Therefore, if blood samples for serum calcium measurements are taken, this should be done  at least 16  hours  after the  most  recent  teriparatide  injection.  Routine  calcium  monitoring during therapy  is  not  required.
+In  normocalcaemic patients, slight and transient elevations of serum calcium concentrations have been observed following teriparatide injection.  Serum  calcium  concentrations  reach  a  maximum between  4 and 6 hours and return to baseline by 16 to  24 hours after each dose of  teriparatide. Therefore, if blood samples for serum calcium measurements are taken, this should be done at least 16 hours after the  most recent  teriparatide  injection.  Routine  calcium  monitoring  during  therapy  is not  required.
 
 Teriparatide  may  cause  small increases  in  urinary  calcium  excretion,  but the  incidence  of hypercalciuria  did  not  differ  from  that  in  the  placebo-treated  patients  in  clinical  trials.
 
@@ -117,7 +119,7 @@ Teriparatide  may  cause  small increases  in  urinary  calcium  excretion,  but
 
 ## Urolithiasis
 
-Teriparatide has not been studied in patients with active urolithiasis. Teriparatide should be used with caution  in  patients  with  active  or  recent  urolithiasis  because  of  the  potential  to  exacerbate  this condition.
+Teriparatide has not been studied in patients with active urolithiasis. Teriparatide should be used with caution  in  patients  with  active  or  recent  urolithiasis  because  of  the  potential  to exacerbate  this condition.
 
 ## Orthostatic hypotension
 
@@ -139,27 +141,27 @@ Studies in rats indicate an increased incidence of osteosarcoma with long-term a
 
 ## Excipients
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium - free'.
 
 ## 4.5. Interaction with other medicinal products and other forms of interaction
 
-In a study of 15 healthy subjects administered digoxin daily to steady state, a single teriparatide dose did  not  alter  the  cardiac  effect  of  digoxin.  However,  sporadic  case  reports  have  suggested  that hypercalcaemia may predispose patients to digitalis toxicity. Because teriparatide transiently increases serum  calcium,  teriparatide  should  be  used  with  caution  in  patients  taking  digitalis.
+In a study of 15 healthy subjects administered digoxin daily to steady state, a single teriparatide dose did  not  alter  the  cardiac  effect  of  digoxin.  However,  sporadic  case  reports  have suggested  that hypercalcaemia may predispose patients to digitalis toxicity. Because teriparatide transiently increases serum  calcium,  teriparatide  should  be  used  with  caution  in  patients  taking digitalis.
 
 Teriparatide has been evaluated in pharmacodynamic interaction studies with hydrochlorothiazide. No clinically  significant interactions were  noted.
 
 <div style=\"page-break-after: always\"></div>
 
-Co-administration of raloxifene  or  hormone  replacement therapy  with  teriparatide  did  not alter  the effects  of  teriparatide  on  serum  or  urine  calcium  or  on  clinical  adverse  events.
+Co-administration of raloxifene  or  hormone  replacement therapy  with  teriparatide  did  not alter the effects  of  teriparatide  on  serum  or  urine  calcium  or  on  clinical  adverse  events.
 
-## 4.6. Fertility,  pregnancy  and lactation
+## 4.6. Fertility, pregnancy and lactation
 
-## Women  of  childbearing potential/Contraception  in  females
+## Women of  childbearing potential/Contraception  in  females
 
-Women of  childbearing potential  should  use  effective  methods  of  contraception  during use  of teriparatide.  If  pregnancy  occurs,  Kauliv  should  be  discontinued.
+Women of childbearing potential should  use  effective  methods  of  contraception  during use  of teriparatide.  If  pregnancy  occurs,  Kauliv  should  be  discontinued.
 
 ## Pregnancy
 
-Kauliv  is  contraindicated  for  use  during pregnancy  (see  section  4.3).
+Kauliv is  contraindicated  for  use  during pregnancy  (see  section  4.3).
 
 ## Breast-feeding
 
@@ -167,7 +169,7 @@ Kauliv  is  contraindicated  for  use  during breast-feeding.  It  is  not  know
 
 ## Fertility
 
-Studies in rabbits have shown  reproductive  toxicity  (see  section  5.3).  The  effect of  teriparatide  on human  foetal  development  has  not  been  studied.  The  potential  risk  for  humans  is  unknown.
+Studies in rabbits have shown reproductive toxicity (see section 5.3). The effect of teriparatide on human  foetal  development  has  not  been  studied.  The  potential  risk  for  humans  is  unknown.
 
 ## 4.7. Effects on ability to drive and use machines
 
@@ -179,15 +181,15 @@ Kauliv has no or negligible influence on the ability to drive and use machines. 
 
 The most commonly reported adverse reactions in patients treated with teriparatide are nausea, pain in limbs, headache and dizziness.
 
-## Tabulated  list of  adverse  reactions
+## Tabulated list of  adverse  reactions
 
-Of  patients  in  the  teriparatide  trials,  82.8%  of  the  teriparatide  patients  and  84.5%  of  the  placebo patients  reported  at least 1  adverse  event.
+Of  patients in  the  teriparatide  trials,  82.8%  of  the teriparatide  patients and  84.5%  of  the  placebo patients  reported  at least 1  adverse  event.
 
 <div style=\"page-break-after: always\"></div>
 
-The adverse reactions associated with the use  of  teriparatide  in  osteoporosis  clinical trials  and  postmarketing exposure  are  summarised  in  the  table  below.
+The adverse reactions associated with the use  of  teriparatide  in  osteoporosis  clinical trials and post-marketing exposure  are  summarised  in  the  table  below.
 
-The following convention has been used for the classification of the adverse reactions: very  common (≥1/10), common (≥1/100 to  &lt;1/10),  uncommon (≥1/1 000  to  &lt;1/100),  and  rare (≥1/10 000  to &lt;1/1 000).
+The following convention has been used for the classification of the adverse reactions: very common (≥1/10), common (≥1/100 to  &lt;1/10),  uncommon (≥1/1 000  to  &lt;1/100),  and  rare (≥1/10 000  to &lt;1/1 000).
 
 Table 1. Adverse reactions
 
@@ -223,8 +225,6 @@ Table 1. Adverse reactions
 | General disorders and administration site condition | Rare       | Possible allergic events soon after injection: acute dyspnoea, oro/facial oedema, generalised urticaria, chest pain, oedema (mainly peripheral)                                |
 | Investigations                                      | Uncommon   | Weight increased, cardiac murmur, alkaline phosphatase increased                                                                                                               |
 
-*Serious cases of  back  cramp  or pain  have  been  reported  within  minutes of  the  injection.
-
 ## Description  of  selected  adverse  reactions
 
 In clinical trials the following reactions were reported at a ≥1% difference in frequency from placebo: vertigo,  nausea,  pain  in  limb,  dizziness,  depression,  dyspnoea.
@@ -235,7 +235,7 @@ Anti-drug antibodies  if  any  are  likely  to  be  observed  in  line  with  ot
 
 ## Reporting of  suspected  adverse  reactions
 
-Reporting suspected adverse  reactions  after  authorisation  of  the  medicinal  product  is  important.  It allows  continued  monitoring  of  the  benefit/risk  balance  of  the  medicinal  product.  Healthcare professionals are asked to report  any  suspected  adverse  reactions  via  the  national  reporting system listed in Appendix V.
+Reporting suspected adverse  reactions  after  authorisation  of  the  medicinal  product  is  important. It allows  continued  monitoring  of  the  benefit/risk  balance  of  the  medicinal  product.  Healthcare professionals are asked to report  any  suspected  adverse  reactions  via  the  national  reporting system listed in Appendix V.
 
 ## 4.9. Overdose
 
@@ -245,132 +245,136 @@ Teriparatide has been administered in single doses of up to 100 micrograms and i
 
 The effects of overdose that might be expected include delayed hypercalcaemia and risk of orthostatic hypotension.  Nausea,  vomiting,  dizziness,  and  headache  can  also  occur.
 
-## Overdose  experience  based  on  post-marketing  spontaneous  reports
+## Overdose  experience  based  on  post-marketing spontaneous  reports
 
 <div style=\"page-break-after: always\"></div>
 
-In  post-marketing spontaneous  reports,  there  have  been  cases  of  medication  error  where  the  entire contents  (up  to  750  micrograms)  of  a  teriparatide  pen  have  been  administered  as  a  single  dose. Transient events reported have included nausea, weakness/lethargy  and  hypotension.  In  some  cases, no adverse events occurred as a result of  the  overdose. No  fatalities associated  with  overdose  have been reported.
+In  post-marketing  spontaneous  reports,  there  have  been  cases  of  medication  error  where  the entire contents  (up  to  750  micrograms)  of  a  teriparatide  pen  have  been  administered  as  a  single dose. Transient events reported have included nausea, weakness/lethargy  and  hypotension.  In  some cases, no adverse events occurred as a result of  the  overdose. No  fatalities associated  with overdose  have been reported.
 
 ## Overdose  management
 
-There  is  no  specific  antidote  for  teriparatide.  Treatment  of  suspected  overdose  should  include transitory  discontinuation  of  teriparatide,  monitoring of  serum  calcium,  and  implementation  of appropriate  supportive  measures,  such  as  hydration.
+There is no specific antidote for teriparatide. Treatment of suspected overdose should include transitory discontinuation of teriparatide, monitoring of serum calcium, and implementation of appropriate  supportive  measures,  such  as  hydration.
 
-## 5. PHARMACOLOGICAL PROPERTIES
+## 5. PHARMACOLOGICAL  PROPERTIES
 
 ## 5.1. Pharmacodynamic  properties
 
 Pharmacotherapeutic group: Calcium homeostasis, parathyroid hormones and analogues, ATC code: H05AA02
 
-Kauliv  is  a  biosimilar medicinal product.  Detailed  information  is  available  on  the  website  of  the European  Medicines  Agency  http://www.ema.europa.eu.
+Kauliv is a  biosimilar medicinal product. Detailed  information  is available  on  the  website  of the European  Medicines  Agency  http://www.ema.europa.eu.
 
 ## Mechanism of  action
 
-Endogenous  84-amino  -acid  parathyroid  hormone  (PTH)  is  the  primary  regulator  of  calcium  and phosphate metabolism in bone and kidney. Teriparatide (rh PTH (1-34)) is the active fragment (1-34) of endogenous human parathyroid hormone. Physiological actions of PTH include stimulation of bone formation  by  direct  effects  on  bone  forming cells  (osteoblasts)  indirectly  increasing the  intestinal absorption of calcium and increasing the tubular re-absorption of calcium and excretion  of  phosphate by the kidney.
+Endogenous 84-amino -acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Teriparatide (rh PTH (1-34)) is the active  fragment (134) of endogenous human parathyroid hormone. Physiological actions of PTH include stimulation of bone formation by direct effects on bone forming cells (osteoblasts) indirectly increasing the intestinal absorption of calcium and increasing the tubular re-absorption of calcium and excretion of  phosphate by the kidney.
 
 ## Pharmacodynamic  effects
 
-Teriparatide is a bone formation agent to treat osteoporosis. The skeletal effects of teriparatide depend upon the pattern of systemic exposure. Once-daily administration of teriparatide  increases  apposition of  new  bone  on  trabecular  and  cortical  bone  surfaces  by  preferential  stimulation  of  osteoblastic activity over osteoclastic activity.
+Teriparatide is a bone formation agent to treat osteoporosis. The skeletal effects of teriparatide depend upon the pattern of systemic exposure. Once-daily administration of teriparatide  increases apposition of  new  bone  on  trabecular  and  cortical  bone  surfaces  by  preferential  stimulation  of osteoblastic activity over osteoclastic activity.
 
-## Clinical  efficacy  and  safety
+## Clinical efficacy  and  safety
 
 ## Risk factors
 
-Independent  risk  factors,  for  example,  low  BMD,  age,  the  existence  of previous  fracture,  family history of hip fractures, high bone turnover and low body mass index should be considered in  order to identify women and men at increased risk of osteoporotic fractures who could benefit from treatment.
+Independent risk factors, for example, low BMD, age, the existence of  previous fracture, family history of hip fractures, high bone turnover and low body mass index should be considered in  order to  identify  women  and  men  at  increased  risk  of  osteoporotic  fractures  who  could  benefit  from treatment.
 
-Premenopausal women with glucocorticoid-induced osteoporosis should be considered at high risk for fracture if they have a prevalent fracture or a combination of  risk  factors  that place  them  at high  risk for  fracture  (e.g.,  low  bone  density  [e.g.,  Tscore  ≤-2],  sustained  high  dose  glucocorticoid  therapy [e.g., ≥7.5 mg/day  for at least 6 months], high  underlying disease  activity,  low  sex  steroid  levels).
+Premenopausal women with glucocorticoid-induced osteoporosis should be considered at high risk for fracture if they have a prevalent fracture or a combination of  risk factors that place  them at high risk for fracture (e.g., low bone density [e.g., T-score ≤-2], sustained high dose glucocorticoid therapy [e.g.,
+
+≥7.5 mg/day  for at least 6  months], high  underlying disease  activity, low sex  steroid  levels).
 
 ## Postmenopausal  osteoporosis
 
-The pivotal study included 1  637 postmenopausal women (mean age 69.5 years). At baseline, ninety percent  of  the  patients  had  one  or  more  vertebral  fractures,  and  on  average,  vertebral  BMD  was 0.82 g/cm2 (equivalent to a T-score = - 2.6). All patients were offered 1 000  mg calcium per day  and at least  400 IU vitamin D per day. Results from up to 24 months (median:19 months) treatment with
+The pivotal study included 1  637 postmenopausal women (mean age 69.5 years). At baseline, ninety percent of  the  patients  had  one  or  more  vertebral  fractures,  and  on  average,  vertebral BMD was
+
+0.82 g/cm2 (equivalent to a T-score = - 2.6). All patients were offered 1 000  mg calcium  per day and at least  400 IU vitamin D per day. Results from up to 24 months (median:19 months) treatment with teriparatide demonstrate statistically significant fracture reduction (Table 2). To prevent one or more new  vertebral  fractures,  11  women  had  to  be  treated  for  a  median  of  19  months.
 
 <div style=\"page-break-after: always\"></div>
 
-teriparatide demonstrate statistically significant fracture reduction (Table 2). To prevent one or more new  vertebral  fractures,  11  women  had  to  be  treated  for  a  median  of  19  months.
-
 Table 2. Fracture incidence in postmenopausal women
 
-|                                                                                  | Placebo (N = 544) (%)   | Teriparatide (N = 541) (%)   | Relative risk (95 %CI) Vs. placebo   |
-|----------------------------------------------------------------------------------|-------------------------|------------------------------|--------------------------------------|
-| New vertebral fracture (≥1)a                                                     | 14.3                    | 5.0b                         | 0.35 (0.22, 0.55)                    |
-| Multiple vertebral fractures (≥1)a                                               | 4.9                     | 1.1b                         | 0.23 (0.09, 0.60)                    |
-| Non-vertebral fragility fracturesc                                               | 5.5%                    | 2.6%b                        | 0.47 (0.25, 0.87)                    |
-| Major non-vertebral fragility fracturesc (hip, radius, humerus, ribs and pelvis) | 3.9%                    | 1.5%b                        | 0.38 (0.17, 0.86)                    |
+|                                                                                  | Placebo (N = 544) (%)   | Teriparatide (N = 541) (%)   | Relative risk (95 % CI) Vs. placebo   |
+|----------------------------------------------------------------------------------|-------------------------|------------------------------|---------------------------------------|
+| New vertebral fracture (≥1)a                                                     | 14.3                    | 5.0b                         | 0.35 (0.22, 0.55)                     |
+| Multiple vertebral fractures (≥1)a                                               | 4.9                     | 1.1b                         | 0.23 (0.09, 0.60)                     |
+| Non-vertebral fragility fracturesc                                               | 5.5%                    | 2.6%b                        | 0.47 (0.25, 0.87)                     |
+| Major non-vertebral fragility fracturesc (hip, radius, humerus, ribs and pelvis) | 3.9%                    | 1.5%b                        | 0.38 (0.17, 0.86)                     |
 
 Abbreviations: N = number of patients randomly assigned  to  each  treatment group; CI = confidence interval.
 
-The incidence of vertebral fractures was assessed in 448 placebo and 444  teriparatide  patients  who a had  baseline  and  follow-up  spine  radiographs.
+a The incidence of vertebral fractures was assessed in 448 placebo and 444  teriparatide  patients who had  baseline  and  follow-up  spine  radiographs.
 
 b p≤0.001 compared  with  placebo.
 
-c A significant reduction  in  the  incidence  of  hip  fractures  has  not been  demonstrated. p≤0.025 compared  with  placebo.
+c A significant reduction  in  the  incidence  of  hip  fractures has not been  demonstrated. p≤0.025 compared  with  placebo.
 
-After 19  months (median) treatment,  BMD had  increased  in  the  lumbar spine  and  total hip, respectively,  by  9%  and  4%  compared  with  placebo  (p&lt;0.001).
+After 19  months (median) treatment, BMD had increased in the lumbar spine and  total hip, respectively,  by  9%  and  4%  compared  with  placebo  (p&lt;0.001).
 
-Post-treatment  management:  Following  treatment  with  teriparatide,  1  262  postmenopausal  women from the pivotal trial enrolled in a post-treatment follow-up study. The primary objective of  the study was  to  collect  safety  data  of  teriparatide.  During  this  observational  period,  other  osteoporosis treatments  were  allowed,  and  additional  assessment  of  vertebral  fractures  was  performed.
+Post-treatment management: Following treatment with teriparatide, 1 262 postmenopausal women from the pivotal trial enrolled in a post-treatment follow-up study. The primary objective of the study was  to collect  safety  data  of  teriparatide.  During  this  observational  period,  other  osteoporosis treatments  were  allowed,  and  additional  assessment of  vertebral fractures  was  performed.
 
 During a median of 18 months following discontinuation of  teriparatide, there was a 41% reduction (p=0.004) compared with placebo in the number of patients with a minimum of one new vertebral fracture.
 
-In an open-label study, 503 postmenopausal women with severe osteoporosis  and  a  fragility  fracture within  the  previous  3  years  (83%  had  received  previous  osteoporosis  therapy)  were  treated  with teriparatide for up to 24 months. At 24 months, the mean increase from baseline in lumbar spine, total hip and femoral neck BMD was 10.5%, 2.6 %  and  3.9%  respectively. The mean  increase  in  BMD from 18 to 24 months was 1.4%, 1.2%,  and  1.6%  at the  lumbar spine,  total hip  and  femoral neck, respectively.
+In  an  open-label  study,  503  postmenopausal  women  with  severe  osteoporosis and a fragility fracture within the previous 3 years (83% had received previous osteoporosis therapy) were treated with teriparatide for up to 24 months. At 24 months, the mean increase from baseline in lumbar spine, total hip and femoral neck BMD was 10.5%, 2.6 % and 3.9% respectively. The mean increase in BMD from 18 to 24 months was 1.4%, 1.2%, and 1.6% at the lumbar spine, total hip and femoral neck, respectively.
 
-A  24-month,  randomised,  double-blind,  comparator-controlled  phase  4  study  included  1  360 postmenopausal women with established osteoporosis. 680 subjects were randomised to teriparatide and 680 subjects were randomised to oral risedronate 35 mg/week. At baseline, the women had a mean age  of  72.1  years  and  a  median  of  2  prevalent  vertebral  fractures;  57.9%  of  patients  had  received previous bisphosphonate therapy and 18.8% took concomitant glucocorticoids during the study. 1  013 (74.5%)  patients  completed  the  24-month  follow-up.  The  mean  (median)  cumulative  dose  of glucocorticoid was 474.3 (66.2) mg in  the  teriparatide  arm  and  898.0  (100.0) mg in  the  risedronate arm. The mean (median) vitamin D intake for the teriparatide  arm  was 1  433  IU/day  (1,400  IU/day) and for the risedronate arm was 1 191 IU/day ( 900 IU/day). For those subjects who  had  baseline and follow-up  spine  radiographs,  the  incidence  of  new  vertebral  fractures  was  28/516  (5.4%)  in teriparatide-  and  64/533  (12.0%)  in  risedronate-treated  patients,  relative  risk  (95%  CI)  =  0.44 (0.29-0.68),  p&lt;0.0001.  The cumulative incidence of  pooled clinical fractures (clinical vertebral and non-vertebral fractures) was 4.8% in teriparatide and 9.8% in risedronate-treated patients, hazard  ratio (95%  CI)  = 0.48  (0.32-0.74),  p  = 0.0009.
+A  24-month,  randomised,  double-blind,  comparator-controlled  phase  4  study  included  1  360 postmenopausal women with established osteoporosis. 680 subjects were randomised to teriparatide and 680 subjects were randomised to oral risedronate 35 mg/week. At baseline, the women had a mean age of 72.1 years and a median of 2 prevalent vertebral fractures; 57.9% of patients had received previous bisphosphonate therapy and 18.8% took concomitant glucocorticoids during the study. 1  013 (74.5%) patients  completed  the  24-month  follow-up.  The  mean  (median) cumulative  dose  of  glucocorticoid was 474.3 (66.2) mg in  the  teriparatide  arm  and  898.0 (100.0)  mg in  the  risedronate arm. The mean (median) vitamin D intake for the teriparatide  arm was 1  433  IU/day  (1,400  IU/day) and for the risedronate arm was 1 191 IU/day ( 900 IU/day). For those subjects who  had  baseline  and follow-up  spine  radiographs,  the  incidence  of  new vertebral  fractures  was  28/516  (5.4%)  in teriparatide-  and  64/533  (12.0%)  in  risedronatetreated  patients,  relative  risk  (95%  CI)  =  0.44 (0.29-0.68), p&lt;0.0001. The cumulative incidence of pooled clinical fractures (clinical vertebral and non-vertebral fractures) was 4.8% in teriparatide and 9.8% in risedronate-treated patients, hazard ratio (95% CI)  = 0.48  (0.32-0.74),  p  = 0.0009.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Male osteoporosis
 
-437 patients (mean age 58.7 years) were enrolled in a clinical trial for men with hypogonadal (defined as low morning free testosterone or an elevated FSH or LH) or idiopathic osteoporosis. Baseline spinal and femoral neck BMD mean T-scores were -2.2 and -2.1, respectively. At baseline, 35% of  patients had  a  vertebral  fracture  and  59%  had  a  non-vertebral  fracture.
+437 patients (mean age 58.7 years) were enrolled in a clinical trial for men with hypogonadal (defined as low morning free testosterone or an elevated FSH or LH) or idiopathic osteoporosis. Baseline spinal and femoral neck BMD mean T-scores were -2.2 and -2.1, respectively. At baseline, 35% of patients had  a  vertebral  fracture  and  59%  had  a  non-vertebral  fracture.
 
-All patients were offered 1 000 mg calcium per day and at least 400 IU vitamin D per day. Lumbar spine BMD significantly increased by 3 months. After 12 months, BMD had increased in the lumbar spine  and  total  hip  by  5%  and  1%,  respectively,  compared  with  placebo.  However,  no  significant effect  on  fracture  rates  was  demonstrated.
+All patients were offered 1 000 mg calcium per day and at least 400 IU vitamin D per day. Lumbar spine BMD significantly increased by 3 months. After 12 months, BMD had increased in the lumbar spine and total hip by 5% and 1%, respectively, compared with placebo. However, no significant effect  on fracture  rates  was  demonstrated.
 
-## Glucocorticoid-induced  osteoporosis
+## Glucocorticoid-induced osteoporosis
 
-The efficacy of teriparatide in men and women (N=428) receiving sustained  systemic glucocorticoid therapy (equivalent to 5 mg or greater of prednisone  for  at least  3  months)  was  demonstrated  in  the 18-month  primary  phase  of  a  36-month,  randomised,  double-blind,  comparator  -controlled  study (alendronate  10  mg/day).  Twenty-eight  percent  of  patients  had  one  or  more  radiographic  vertebral fractures at baseline. All patients were offered 1 000 mg calcium  per day  and  800  IU vitamin  D per day.
+The efficacy of teriparatide in men and women (N=428) receiving sustained  systemic glucocorticoid therapy (equivalent to 5 mg or greater of prednisone  for  at  least  3  months)  was  demonstrated  in the 18-month primary phase of a 36-month, randomised, double-blind, comparator -controlled study (alendronate 10 mg/day). Twenty-eight percent of patients had one or more radiographic vertebral fractures at baseline. All patients were offered 1 000 mg calcium  per day  and 800  IU vitamin  D per day.
 
-This  study  included  postmenopausal  women  (N=277),  premenopausal  women  (N=67),  and  men (N=83). At baseline,  the  postmenopausal women  had  a  mean  age  of  61  years,  mean  lumbar spine BMD T score of -2.7, median prednisone equivalent dose of 7.5 mg/day, and  34%  had  one or more radiographic vertebral fractures; premenopausal women  had  a  mean  age  of  37  years,  mean  lumbar spine BMD T score of -2.5, median prednisone  equivalent dose  of  10  mg/day, and  9%  had  one  or more radiographic vertebral fractures; and men had a mean age of 57 years, mean lumbar spine BMD T score  of -2.2, median  prednisone  equivalent  dose  of  10  mg/day,  and  24%  had  one  or  more radiographic vertebral fractures.
+This  study  included  postmenopausal  women  (N=277),  premenopausal  women  (N=67),  and men (N=83). At baseline,  the  postmenopausal women  had  a  mean  age  of  61  years, mean lumbar spine BMD T score of -2.7, median prednisone equivalent dose of 7.5 mg/day, and 34% had one or more radiographic vertebral fractures; premenopausal women  had  a  mean  age  of  37 years,  mean  lumbar spine BMD T score of -2.5, median prednisone  equivalent dose  of  10 mg/day, and  9%  had  one  or more radiographic vertebral fractures; and men had a mean age of 57 years, mean lumbar spine BMD T  score  of -2.2, median  prednisone  equivalent  dose  of  10 mg/day,  and  24%  had  one  or  more radiographic vertebral fractures.
 
-Sixty-nine percent of  patients  completed  the  18-month  primary  phase.  At the  18  month  endpoint, teriparatide  significantly  increased  lumbar  spine  BMD  (7.2%)  compared  with  alendronate  (3.4%) (p&lt;0.001). Teriparatide  increased  BMD  at the  total  hip  (3.6%)  compared  with  alendronate  (2.2%) (p&lt;0.01),  as  well  as  at  the  femoral  neck  (3.7%)  compared  with  alendronate  (2.1%)  (p&lt;0.05).  In patients treated with teriparatide, lumbar spine, total hip  and  femoral neck  BMD  increased  between 18  and  24  months  by  an  additional  1.7%,  0.9%,  and  0.4%,  respectively.
+Sixty-nine percent of  patients  completed  the  18-month  primary  phase.  At the  18  month endpoint, teriparatide  significantly  increased  lumbar  spine  BMD  (7.2%)  compared  with alendronate  (3.4%) (p&lt;0.001). Teriparatide  increased  BMD  at the  total  hip  (3.6%)  compared with  alendronate  (2.2%) (p&lt;0.01),  as  well  as  at  the  femoral  neck  (3.7%)  compared  with alendronate  (2.1%)  (p&lt;0.05).  In patients treated with teriparatide, lumbar spine, total  hip  and femoral neck  BMD increased  between 18  and  24  months  by  an  additional  1.7%,  0.9%,  and 0.4%,  respectively.
 
-At 36 months, analysis of spinal X-rays from 169 alendronate patients and 173 teriparatide patients showed that  13  patients  in  the  alendronate  group  (7.7%)  had  experienced  a  new  vertebral  fracture compared with 3 patients in the teriparatide group (1.7%) (p=0.01). In addition, 15  of  214  patients in the  alendronate  group  (7.0%)  had  experienced  a  non-vertebral  fracture  compared  with  16  of  214 patients  in  the  teriparatide  group  (7.5%)  (p=0.84).
+At 36 months, analysis of spinal X-rays from 169 alendronate patients and 173 teriparatide patients showed that 13 patients in the alendronate group (7.7%) had experienced a new vertebral fracture compared with 3 patients in the teriparatide group (1.7%) (p=0.01). In addition, 15  of  214  patients in the alendronate group (7.0%) had experienced a non-vertebral fracture compared with 16 of 214 patients in  the  teriparatide  group  (7.5%)  (p=0.84).
 
-In premenopausal women, the increase in BMD from baseline to 18 month endpoint was significantly greater in the teriparatide group compared with the alendronate group at the lumbar spine (4.2% versus -1.9%; p&lt;0.001)  and  total  hip  (3.8%  versus  0.9%;  p=0.005).  However,  no  significant  effect  on fracture rates was demonstrated.
+In premenopausal women, the increase in BMD from baseline to 18 month endpoint was significantly greater in the teriparatide group compared with the alendronate group at the lumbar spine (4.2% versus
+
+-1.9%; p&lt;0.001)  and  total  hip  (3.8%  versus  0.9%;  p=0.005).  However,  no  significant  effect on fracture rates was demonstrated.
 
 ## 5.2. Pharmacokinetic  properties
 
 ## Distribution
 
-The volume of distribution is approximately 1.7  L/kg.  The  half-life  of  teriparatide  is  approximately 1 hour when administered subcutaneously, which reflects the time required for absorption from the injection site.
-
-## Biotransformation
+The volume of distribution is approximately 1.7 L/kg. The half-life of teriparatide is approximately 1 hour when administered subcutaneously, which reflects the time required for absorption from the injection site.
 
 <div style=\"page-break-after: always\"></div>
 
-No  metabolism  or  excretion  studies  have  been  performed  with  teriparatide  but  the  peripheral metabolism  of  parathyroid  hormone  is  believed  to  occur  predominantly  in  liver  and  kidney.
+## Biotransformation
+
+No  metabolism  or excretion  studies  have  been  performed  with  teriparatide  but the  peripheral metabolism  of  parathyroid  hormone  is  believed  to  occur  predominantly  in  liver  and  kidney.
 
 ## Elimination
 
-Teriparatide  is  eliminated  through  hepatic  and  extra-hepatic  clearance  (approximately  62  L/hr  in women and 94 L/hr in men).
+Teriparatide  is  eliminated  through  hepatic  and  extra-hepatic  clearance  (approximately  62  L/hr in women and 94 L/hr in men).
 
 ## Elderly
 
-No  differences  in  teriparatide  pharmacokinetics  were  detected  with  regard  to  age  (range  31  to 85  years).  Dose  adjustment  based  on  age  is  not  required.
+No differences in  teriparatide  pharmacokinetics were  detected  with  regard  to  age  (range  31 to 85  years).  Dose  adjustment  based  on  age  is  not  required.
 
 ## 5.3. Preclinical safety  data
 
-Teriparatide was not genotoxic in a standard battery of tests. It produced no teratogenic effects in rats, mice  or  rabbits.  There  were  no  important  effects  observed  in  pregnant  rats  or  mice  administered teriparatide at daily doses of 30 to 1 000 micrograms/kg. However, foetal resorption and reduced litter size  occurred  in  pregnant  rabbits  administered  daily  doses  of  3  to  100  micrograms/kg.  The embryotoxicity observed in rabbits may be related  to  their much  greater sensitivity  to  the  effects of PTH  on  blood  ionised  calcium  compared  with  rodents.
+Teriparatide was not genotoxic in a standard battery of tests. It produced no teratogenic effects in rats, mice  or  rabbits.  There  were  no  important  effects  observed  in  pregnant  rats  or  mice administered teriparatide at daily doses of 30 to 1 000 micrograms/kg. However, foetal resorption and reduced litter size  occurred  in  pregnant  rabbits  administered  daily  doses  of  3  to  100 micrograms/kg.  The embryotoxicity observed in rabbits may be related to their much  greater sensitivity  to  the  effects of PTH  on  blood  ionised  calcium  compared  with  rodents.
 
-Rats treated with near-life time daily injections had dose-dependent exaggerated  bone  formation  and increased incidence of osteosarcoma most probably due to an epigenetic mechanism. Teriparatide did not  increase  the  incidence  of  any  other  type  of  neoplasia  in  rats.  Due  to  the  differences  in  bone physiology in rats and humans, the clinical relevance  of  these  findings  is  probably  minor.  No  bone tumours were observed in ovariectomised monkeys treated for 18 months or during a 3-year follow-up period after treatment cessation. In addition, no osteosarcomas have been observed in clinical trials or during the  post  treatment  follow-up  study.
+Rats treated with near-life time daily injections had dose-dependent exaggerated  bone  formation and  increased  incidence  of  osteosarcoma  most  probably  due  to  an  epigenetic  mechanism. Teriparatide  did  not  increase  the  incidence  of  any  other  type  of  neoplasia  in  rats.  Due  to  the differences  in  bone  physiology  in  rats  and  humans,  the  clinical  relevance  of  these  findings  is probably minor. No bone tumours were observed in ovariectomised monkeys treated for 18 months or during a 3-year follow-up period after treatment cessation. In addition, no osteosarcomas have been observed in clinical trials or during the  post  treatment  follow-up  study.
 
 Animal studies have shown that severely reduced hepatic blood flow decreases exposure of PTH to the principal  cleavage  system  (Kupffer  cells)  and  consequently  clearance  of  PTH(1-84).
 
-## 6. PHARMACEUTICAL  PARTICULARS
+## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1. List of excipients
 
-Glacial acetic acid Mannitol Metacresol Anhydrous  sodium  acetate Diluted hydrochloric acid (for pH adjustment) Sodium  hydroxide  (for  pH  adjustment) Water for injections
+Glacial acetic acid Mannitol Metacresol Anhydrous  sodium  acetate Diluted hydrochloric acid (for pH adjustment) Sodium  hydroxide  (for  pH adjustment) Water for injections
 
 ## 6.2. Incompatibilities
 
-In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+In  the  absence  of  compatibility  studies,  this  medicinal  product  must  not  be  mixed  with  other medicinal products.
 
 ## 6.3. Shelf life
 
@@ -380,29 +384,31 @@ Chemical, physical and microbiological in-use stability has been demonstrated fo
 
 <div style=\"page-break-after: always\"></div>
 
-Once opened, the medicinal product may be stored for a maximum  of  28  days within  its shelf  life  at 2°C to 8°C. After insertion of the cartridge into the pen, the combined pen and cartridge should be returned to the refrigerator immediately after use. Do  not store  the  pen  with  the  needle  attached.  Do not remove the cartridge from the pen after first use. The cartridge within the pen  can  additionally  be placed  in  the  pouch  supplied  with  the  pen  in  order  to  protect  from  light.
+Once opened, the medicinal product may be stored for a maximum  of  28  days within  its shelf  life at 2°C to 8°C. After insertion of the cartridge into the pen, the combined pen and cartridge should be returned to the refrigerator immediately after use. Do  not store  the  pen  with  the  needle  attached. Do not remove the cartridge from the pen after first use. The cartridge within the pen can additionally be placed  in  the  pouch  supplied  with  the  pen  in  order  to  protect  from  light.
 
-Other in-use  storage  times and  conditions are  the  responsibility  of  the  user.
+Other in-use storage times and  conditions are the responsibility of  the  user.
 
-## 6.4. Special precautions for  storage
+## 6.4. Special precautions for storage
 
 Store in a refrigerator (2°C - 8°C).
 
-Do not freeze. Keep the cartridge in  the outer carton  in  order to  protect from light.
+Do not freeze. Keep  the cartridge in  the  outer carton  in  order to  protect from light.
 
-For storage  conditions  after  first  opening of  the  medicinal product,  see  section  6.3.
+For storage  conditions after first opening of  the  medicinal product,  see  section
+
+6.3.
 
 ## 6.5. Nature and contents of container
 
-3  mL cartridge  (USP type-1  glass  cartridge),  with  a  plunger  stopper  (bromobutyl)  and  disc  seal (aluminium and rubber liner seals), packed  in  a plastic tray sealed  with  lid  foil and  supplied  in  a carton.
+3  mL cartridge  (USP type-1  glass  cartridge),  with  a  plunger  stopper  (bromobutyl)  and  disc seal (aluminium and rubber liner seals), packed in a plastic tray sealed with lid foil and supplied in a carton.
 
 Each cartridge contains 3 mL solution for injection corresponding to 28 doses of  20 micrograms (per 80 microliters).
 
-Pack sizes:
+## Pack sizes:
 
 Kauliv 1 cartridge or 3 cartridges.
 
-Kauliv  cartridge and  pen  pack:
+## Kauliv cartridge and pen pack:
 
 1 inner carton of Kauliv cartridge (containing 1 cartridge) and 1 inner carton of Kauliv Pen (containing 1 pen).
 
@@ -412,45 +418,41 @@ Not all pack sizes may be marketed.
 
 ## Handling
 
-Kauliv cartridges should be used exclusively within Kauliv  reusable,  multidose  pen.  No  needles  are supplied with this medicinal product.
+Kauliv cartridges should be used exclusively within Kauliv reusable, multidose pen. No needles are supplied with this medicinal product.
 
-Each cartridge and pen  should be used  by  only  one patient. The pen  can be used  with  32  G 4 mm single-use pen needles.
+Each cartridge and pen should be used by only one patient. The pen can be used with 32 G 4 mm single-use pen needles.
 
-A new, sterile needle  must be  used  for every  injection.
+A new, sterile needle must be used for every  injection.
 
-The  expiry  date  on  the  cartridge  label must always  be  checked  before  inserting the  cartridge  into Kauliv pen. To avoid medication errors, make sure that the date when starting to use a new cartridge is at least 28  days  before  its  expiry  date.
+The expiry date on the cartridge label must always be checked before inserting the cartridge into Kauliv pen. To avoid medication errors, make sure that the date when starting to use a new cartridge is at least 28  days  before  its  expiry  date.
 
-Before using the pen for the first time, the patient should read and understand the instructions  on  how to  use  the  pen,  which  are  provided  with  the  pen.
+Before using the pen for the first time, the patient should read and understand the instructions  on how to  use  the  pen,  which  are  provided  with  the  pen.
 
 After each injection, the pen should be returned to the refrigerator. After the first use, the cartridge should not be removed from the pen during the 28 days of usage. Do not use Kauliv if it is, or has been frozen.
 
-Kauliv must not be transferred  to  a  syringe. Empty  cartridges must not be  refilled.
-
 <div style=\"page-break-after: always\"></div>
 
-Kauliv  should  not be  used  if  the  solution  is  cloudy,  coloured  or contains  visible  particles.
+Kauliv must not be transferred to a syringe. Empty cartridges must not be refilled.
 
-The date of first injection should be written on the outer carton of  Kauliv  cartridge  (see  the  provided space on the box: 'First use').
+Kauliv should not be  used if  the solution  is cloudy, coloured  or contains visible  particles.
 
-The Kauliv reusable pen features a dose  selector with  audible  clicks and  visual indicators to  ensure correct  dose  is  set  for  priming (P)  and  for  setting the  dose  (D).
+The date of first injection should be written on the outer carton of  Kauliv  cartridge (see the provided space on the box: 'First use').
+
+The Kauliv reusable pen features a dose  selector with  audible  clicks and  visual indicators to ensure correct  dose  is  set  for  priming (P)  and  for  setting the  dose  (D).
 
 ## Disposal
 
-Any  unused  medicinal product or  waste  material should  be  disposed  of  in  accordance  with  local requirements.
+Any  unused  medicinal product or  waste  material should  be  disposed  of  in  accordance  with local requirements.
 
-## 7. MARKETING  AUTHORISATION  HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
-Strides Pharma (Cyprus) Ltd. Themistokli Dervi, 3 Julia House, 1st Floor, 1066, Nicosia, Cyprus
+Strides Pharma (Cyprus) Ltd.
 
-## 8. MARKETING  AUTHORISATION  NUMBER(S)
+Themistokli Dervi, 3 Julia House, 1st Floor, 1066, Nicosia, Cyprus
 
-EU/1/22/1710/001  [1
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
-cartridge]
-
-EU/1/22/1710/002  [3 cartridges]
-
-EU/1/22/1710/003  [cartridge  and  pen pack]
+EU/1/22/1710/001  [1  cartridge] EU/1/22/1710/002  [3  cartridges] EU/1/22/1710/003  [cartridge  and  pen pack]
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -458,7 +460,7 @@ Date of  first authorisation:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this product is available on  the  website  of  the  European  Medicines Agency http://www.ema.europa.eu
+Detailed information on this product is available on  the  website of  the  European  Medicines Agency http://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -467,29 +469,29 @@ Detailed information on this product is available on  the  website  of  the  Eur
 - A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS  OR  RESTRICTIONS  WITH  REGARD  TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
 ## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of  the  manufacturer of  the  biological active  substance
+Name and address of  the manufacturer of  the  biological active  substance
 
 Onesource Specialty Pharma Limited (Unit-1) Plot no.293 Bommasandra Jigani link Road, Jigani Industrial area, Anekal Taluk, Bengaluru - 560 105,
 
 India
 
-Name  and  address  of  the  manufacturer  responsible  for  batch  release
+Name and  address of  the  manufacturer responsible  for  batch  release
 
-Fairmed Healthcare GmbH Maria-Goeppert-Strasse 3 23562 Luebeck Germany
+Fairmed Healthcare GmbH MariaGoeppert-Strasse 3 23562 Luebeck Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
-Medicinal product subject  to  medical  prescription.
+Medicinal product subject to  medical  prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety  update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and  any  subsequent  updates  published  on  the  European  medicines  web-portal.
 
@@ -497,7 +499,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## · Risk management plan (RMP)
 
-The  marketing  authorisation  holder  (MAH)  shall  perform  the  required  pharmacovigilance activities  and  interventions  detailed  in  the  agreed  RMP presented  in  Module  1.8.2  of  the marketing  authorisation  and  any  agreed  subsequent  updates  of  the  RMP.
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing  authorisation  and  any  agreed  subsequent  updates  of  the  RMP.
 
 An updated RMP should be submitted:
 
@@ -526,13 +528,11 @@ Kauliv 20 micrograms/80 microliters solution for injection teriparatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each  dose  of  80  microliters  contains  20  micrograms  of  teriparatide.
-
-Each  cartridge  contains  28  doses of  20  micrograms (per 80  microliters).
+Each  dose  of  80  microliters  contains  20  micrograms  of  teriparatide. Each  cartridge  contains  28  doses of  20  micrograms (per 80 microliters).
 
 ## 3. LIST OF EXCIPIENTS
 
-Glacial  acetic  acid,  anhydrous  sodium  acetate,  mannitol,  metacresol,  water  for  injections,  diluted hydrochloric  acid  (for  pH  adjustment)  and  sodium  hydroxide  (for  pH  adjustment).  See  leaflet  for further information.
+Glacial acetic acid, anhydrous sodium acetate, mannitol, metacresol, water for injections, diluted hydrochloric acid (for pH adjustment) and sodium hydroxide (for pH adjustment).  See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -562,51 +562,53 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-Discard the cartridge 28 days after the first use. Do not remove the  cartridge  from  the  pen  during the 28 days of use. The cartridge within the pen can additionally be placed in the pouch supplied  with  the pen in order to protect from light.
+Discard the cartridge 28 days after the first use. Do not remove the  cartridge  from  the  pen  during the 28 days of use. The cartridge within the pen can additionally be placed in the pouch supplied with the pen in order to protect from light.
 
 First    use:    ......................./......................../........................
 
-Cartridge    1.    ......................./......................../........................
+Cartridge
 
-Cartridge    2.    ......................./......................../........................
+1.    ......................./......................../........................
 
-Cartridge    3.    ......................./......................../........................
+Cartridge
 
-{the grey-shaded text refers to  the  3x  pack  size}
+2.    ......................./......................../........................
+
+Cartridge
+
+3.    ......................./......................../........................
+
+{the grey-shaded text refers to the 3x  pack size}
+
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
 Do not freeze.
 
-Keep the cartridge in  the outer carton  in  order to  protect from light.
-
-Strides Pharma (Cyprus) Limited Themistokli Dervi, 3 Julia House, 1st Floor, 1066, Nicosia, Cyprus
-
-EU/1/22/1710/001  [1 cartridge]
-
-EU/1/22/1710/002  [3 cartridges]
-
-EU/1/22/1710/003  [cartridge  and  pen
-
-pack]
-
-Lot
-
-## 16. INFORMATION IN BRAILLE
-
-15. INSTRUCTIONS ON USE
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 13. BATCH NUMBER
-
-## 12. MARKETING  AUTHORISATION  NUMBER(S)
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+Keep the cartridge in the outer carton in order to protect from light.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 9. SPECIAL STORAGE CONDITIONS
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Strides Pharma (Cyprus) Limited Themistokli Dervi, 3 Julia House, 1st Floor, 1066, Nicosia, Cyprus
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/22/1710/001  [1  cartridge]
+
+EU/1/22/1710/002  [3  cartridges]
+
+EU/1/22/1710/003  [cartridge  and  pen  pack]
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -615,12 +617,12 @@ Kauliv
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-2D barcode  carrying the  unique  identifier to  be  included
+2D barcode carrying the  unique identifier to  be  included
 
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
-PC SN NN
+P C S N N N
 
 <div style=\"page-break-after: always\"></div>
 
@@ -634,21 +636,18 @@ Kauliv 20 micrograms/80 microliters solution for injection teriparatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each  dose  of  80  microliters  contains  20  micrograms  of  teriparatide.
-
-Each  cartridge  contains  28  doses of  20  micrograms (per 80  microliters).
+Each  dose  of  80  microliters  contains  20  micrograms  of  teriparatide. Each  cartridge  contains  28  doses of  20  micrograms (per 80 microliters).
 
 ## 3. LIST OF EXCIPIENTS
 
-Glacial  acetic  acid,  anhydrous  sodium  acetate,  mannitol,  metacresol,  water  for  injections,  diluted hydrochloric  acid  (for  pH  adjustment)  and  sodium  hydroxide  (for  pH  adjustment).  See  leaflet  for further information.
+Glacial acetic acid, anhydrous sodium acetate, mannitol, metacresol, water for injections, diluted hydrochloric acid (for pH adjustment) and sodium hydroxide (for pH adjustment).  See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution  for injection
+Solution for injection
 
 - 1 Kauliv cartridge
 - 1 Kauliv pen
-- 28 doses
 
 Not to be sold separately.
 
@@ -672,7 +671,7 @@ Keep out of  the sight and reach of  children.
 
 EXP
 
-Discard the cartridge 28 days after the first use. Do not remove the  cartridge  from  the  pen  during the 28 days of use.
+Discard the cartridge 28 days after the first use. Do not remove the cartridge from the pen  during the 28 days of use.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -686,11 +685,17 @@ Do not freeze.
 
 Strides Pharma (Cyprus) Limited
 
-Themistokli Dervi, 3 Julia House, 1st Floor, 1066, Nicosia, Cyprus
+Themistokli Dervi, 3
 
-## 12. MARKETING  AUTHORISATION  NUMBER(S)
+Julia House, 1st Floor,
 
-EU/1/22/1710/003  [cartridge  and  pen pack]
+1066, Nicosia,
+
+Cyprus
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/22/1710/003  [cartridge  and  pen  pack]
 
 ## 13. BATCH NUMBER
 
@@ -698,22 +703,21 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
-Kauliv  cartridge and  pen
+Kauliv cartridge and  pen
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode  carrying the  unique  identifier to  be  included
+- 2D barcode carrying the  unique identifier to  be  included
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-## PC SN NN
+## 2D barcode carrying the  unique identifier to  be  included
 
 <div style=\"page-break-after: always\"></div>
 
@@ -729,7 +733,7 @@ Kauliv 20 micrograms/80 microliters solution for injection teriparatide
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Strides  Pharma  (Cyprus) Limited
+Strides Pharma (Cyprus) Limited
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -744,9 +748,9 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-Subcutaneous  use  {1X} SC use {3X} Store in refrigerator
+Subcutaneous use {1X}  SC use {3 X} Store in
 
-24
+refrigerator Kauliv 20 mcg/80 mcL solution for injection teriparatide Subcutaneous  use EXP
 
 <div style=\"page-break-after: always\"></div>
 
@@ -757,15 +761,11 @@ Subcutaneous  use  {1X} SC use {3X} Store in refrigerator
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
 
-Kauliv 20 mcg/80 mcL solution for injection teriparatide Subcutaneous  use
-
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -790,18 +790,16 @@ Store in refrigerator
 
 <div style=\"page-break-after: always\"></div>
 
-## Kauliv  20  micrograms/80  microliters solution for  injection
+## Kauliv 20 micrograms/80 microliters solution for injection teriparatide
 
-## teriparatide
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side affects you may get. See the end of section 4 for  how to report side effects.
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side affects you may get. See the end of section 4 for how to report side effects.
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-## Read all of this leaflet carefully  before you start using this medicine because it contains important information for you.
-
-- -Keep this leaflet. You may need to read it again.
-- -If  you  have  any  further  questions,  ask  your  doctor  or  pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to  others. It may  harm them, even  if  their  signs  of  illness  are  the  same  as  yours.
-- If  you get any side effects, talk  to  your doctor or pharmacist.  This includes any  possible  side effects not listed  in  this  leaflet.  See  section  4. -
+- Keep this leaflet. You may need to read it again.
+- If  you  have  any  further  questions,  ask  your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to  others. It may  harm them, even  if  their  signs  of  illness  are  the  same  as  yours.
+- If you get any side effects, talk  to your doctor or pharmacist. This includes any possible side effects not listed  in  this leaflet. See  section  4.
 
 ## What is in this leaflet
 
@@ -810,145 +808,142 @@ This medicine is subject to additional monitoring. This will allow quick identif
 3. How to use Kauliv
 4. Possible side effects
 5. How to store Kauliv?
-6. Contents of  the  pack  and  other information
+6. Contents of  the  pack  and other information
 
 ## 1. What Kauliv is and what it is used for
 
-Kauliv contains the active substance teriparatide that is used to make the bones stronger, and to reduce the  risk  of  fractures  by  stimulating bone  formation.
+Kauliv contains the active substance teriparatide that is used to make the bones stronger, and to reduce the risk  of  fractures  by  stimulating bone  formation.
 
-Kauliv  is  used  to  treat  osteoporosis  in  adults.  Osteoporosis  is  a  disease  that causes  your  bones  to become thin and fragile. This disease is especially common in women after the menopause,  but it can also occur in men. Osteoporosis is also common in patients receiving medicines called corticosteroids.
+Kauliv is used to treat osteoporosis in adults. Osteoporosis is a disease that causes your bones to become thin and fragile. This disease is especially common in women after the menopause,  but  it  can also occur in men. Osteoporosis is also common in patients receiving medicines called corticosteroids.
 
 ## 2. What you need to know before you use Kauliv
 
 ## Do not use Kauliv
 
-- if  you  are allergic to  teriparatide or any  of  the other ingredients of  this medicine (listed in section  6).
-- if  you  have  high  levels  of  calcium  in  your  blood  (pre-existing hypercalcaemia). ·
-- if  you  suffer  from  serious  kidney  problems. ·
-- if you have ever had bone cancer or if other cancers have spread (metastasised) to your bones. ·
-- if  you  have  certain  bone  diseases.  If  you  have  a  bone  disease,  tell your doctor. ·
-- if  you have unexplained high levels of alkaline phosphatase in your blood, which means you might have Paget's disease of bone (disease with abnormal bone changes). If  you are not sure, ask your doctor. ·
-- if  you  have  had  radiation  therapy  involving your  bones. ·
-- if  you  are  pregnant or breast-feeding. ·
+- if  you  are allergic to teriparatide or any of  the other ingredients of  this medicine (listed in section  6).
+- if  you  have  high  levels  of  calcium  in  your  blood  (pre-existing hypercalcaemia).
+- if  you  suffer  from  serious  kidney  problems.
+- if you have ever had bone cancer or if other cancers have spread (metastasised) to your bones.
+- if  you  have  certain  bone  diseases.  If  you  have  a  bone  disease, tell your doctor.
+- if you have unexplained high levels of alkaline phosphatase in your blood, which means you might have Paget's disease of bone (disease with abnormal bone changes). If you are not sure, ask your doctor.
+- if  you  have  had  radiation  therapy  involving your  bones.
+- if  you  are  pregnant or breast-feeding.
 
 ## Warnings and precautions
 
-Kauliv  may  cause  an  increase  in  the  amount of  calcium  in  your blood  or urine.
+Kauliv may cause an increase in the amount of  calcium in your blood or urine.
 
 <div style=\"page-break-after: always\"></div>
 
-Talk  to  your doctor before  or while  using Kauliv:
+Talk to  your doctor before or while using Kauliv:
 
 - if you have continuing nausea, vomiting, constipation, low energy, or muscle weakness. These may  be  signs  there  is  too  much  calcium  in  your  blood.
-- if  you  suffer  from  kidney  stones  or  have  had  kidney  stones. ·
-- if  you  suffer  from  kidney  problems  (moderate  renal  impairment). ·
+- if  you  suffer  from  kidney  stones  or have  had  kidney  stones.
+- if  you  suffer  from  kidney  problems  (moderate  renal  impairment).
 
-Some patients get dizzy or get a fast heartbeat after the first few doses of  Kauliv. For the  first doses, inject Kauliv  in  a  place  where  you  can  sit or lie  down  right away  if  you  get dizzy.
+Some patients get dizzy or get a fast heartbeat after the first few doses of Kauliv. For the first doses, inject Kauliv  in  a  place  where  you  can  sit  or  lie  down  right  away  if  you  get  dizzy.
 
-The  recommended  treatment time  of  24  months  should  not be  exceeded.
+The recommended treatment time  of  24 months should  not be  exceeded.
 
-Before inserting a cartridge in Kauliv pen write down the batch (Lot) number of  the cartridge and its first injection date on a calendar and provide  this  information  when  reporting any  side  effects.  The date of first injection should also be recorded on the outer carton of Kauliv cartridge (see the provided space  on  the  box: 'First use')  (see  section  3.).
+Before inserting a cartridge in Kauliv pen write down the batch (Lot) number of  the cartridge and its first injection date on a calendar and provide  this  information  when  reporting any  side  effects.  The date of first injection should also be recorded on the outer carton of Kauliv cartridge (see the provided space  on the box: 'First use') (see  section  3.).
 
-Kauliv  should  not be  used  in  growing adults.
+Kauliv should not be used in growing adults.
 
 ## Children and adolescents
 
-Kauliv should  not be  used  in  children  and  adolescents (aged  less than  18  years).
+Kauliv should  not be used in children and adolescents (aged  less than  18 years).
 
 ## Other medicines and Kauliv
 
-Tell your doctor or pharmacist if you are using, have recently used or might use any  other medicines. This  is  important,  because  some  medicines  (e.g.  digoxin/digitalis,  a  medicine  used  to  treat  heart disease) may interact with teriparatide.
+Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines. This is important, because some medicines (e.g. digoxin/digitalis, a medicine used to treat heart disease) may interact with teriparatide.
 
 ## Pregnancy  and breast-feeding
 
-Do not use Kauliv if you are pregnant or breast-feeding. If you are a woman of child-bearing potential, you should use effective methods of contraception during use of Kauliv. If you become pregnant while using Kauliv, Kauliv should be discontinued. Ask your doctor or pharmacist for advice  before  taking this medicine.
+Do not use Kauliv if you are pregnant or breast-feeding. If you are a woman of child-bearing potential, you should use effective methods of contraception during use of Kauliv. If  you become pregnant while using Kauliv, Kauliv should be discontinued. Ask your doctor or pharmacist for advice  before taking this medicine.
 
 ## Driving and using machines
 
-Some patients may feel dizzy  after injecting Kauliv.  If  you  feel dizzy  you  should  not drive  or use machines until you feel better.
+Some patients may feel dizzy after injecting Kauliv. If you feel dizzy you should not drive or use machines until you feel better.
 
 ## Kauliv contains sodium
 
-This medicine contains less than  1  mmol sodium (23  mg) per dose, that is to  say  essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium - free'.
 
 ## 3. How to use Kauliv
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
-The  recommended  dose  is  20  micrograms  (corresponding  to  80  microliters)  given  once  a  day  by injection  under  the  skin  (subcutaneous  injection)  in  the  thigh  or  abdomen.
+The recommended dose is 20 micrograms (corresponding to 80 microliters) given once a day by injection under the skin (subcutaneous injection) in the thigh or abdomen.
 
-To help you remember to use your medicine, inject it at about the same time each day. Kauliv  can be injected at meal time. Inject Kauliv each day for as long as your doctor prescribes it for you.  The  total duration of treatment with Kauliv should not exceed 24 months. You should not receive more than one treatment  course  of  24  months  over  your  lifetime.
+To help you remember to use your medicine, inject it at about the same time each day. Kauliv can be injected at mealtime. Inject Kauliv each day for as long as your doctor prescribes it for you. The total duration of treatment with Kauliv should not exceed 24 months. You should not receive more than one treatment course of 24 months over your lifetime.
 
-Your doctor may advise you to use Kauliv with calcium and vitamin D. Your doctor will tell you  how much  you  should  take  each  day.
+Your doctor may advise you to use Kauliv with calcium and vitamin D. Your doctor will tell you how much you should take each day.
 
 Kauliv can be given with or without food.
 
 <div style=\"page-break-after: always\"></div>
 
-Kauliv  cartridges  are  designed  to  be  used  only  with  the  Kauliv  multidose  pen  and  compatible  pen needles.  The  pen  and  injection  needles  are  not  included  with  Kauliv  cartridge.
+Kauliv cartridges are designed to be used only with the Kauliv multidose pen and compatible pen needles. The pen and injection needles are not included with Kauliv cartridge.
 
-Before the first use, insert the cartridge into the pen (which is supplied separately). For the correct use of this medicine it is very important to closely follow the detailed  Instructions for Use (IFU) of  your pen  which  are  provided  with  the  pen.
+For the correct  use of this medicine, it is very important to closely follow the detailed  Instructions for Use (IFU) of  your pen  which  are  provided  with  the  pen.
 
-Use  a  new  injection  needle  for each  injection  to  prevent contamination  and  safely  dispose  of  the needle after use.
+Before using the Kauliv pen for the first time, you or your caregiver should be shown how to use it correctly by a doctor, pharmacist or nurse.
 
-Never store your pen with the needle attached.
+Before the first use, insert the cartridge into the pen (which is supplied separately).
 
-Never share your pen with others.
+Use  a  new  injection  needle  for each  injection  to  prevent contamination  and  safely  dispose  of the needle after use.
 
-Do not use your Kauliv  pen  to  inject any  other medicine (e.g. insulin).
+Never store your pen with the needle attached. Never share your cartridge and pen with others. Do not use your Kauliv pen to inject any  other medicine (e.g. insulin). The  pen  is  customised  for  use  with  Kauliv  only. Do not refill the cartridge. Do not transfer the medicine into a syringe.
 
-The  pen  is  customised  for  use  with  Kauliv  only.
+You should inject Kauliv shortly after you take the pen with inserted cartridge  out of  the  refrigerator. Put the pen with inserted cartridge back into the refrigerator immediately  after  you  have  used  it.
 
-Do not refill the cartridge.
-
-Do not transfer the medicine into  a syringe.
-
-You should inject Kauliv shortly after you take the pen with inserted cartridge  out of  the  refrigerator. Put the pen with inserted cartridge back into the refrigerator immediately  after you  have  used  it.  Do not remove the cartridge from the pen after each use. The cartridge within the pen can  additionally  be placed  in  the  pouch  supplied  with  the  pen  in  order  to  protect from  light during the  whole  28-day treatment period.
+Do not remove the cartridge from the pen after each use. The cartridge within the pen can  additionally be placed in the pouch supplied with the pen in order to protect from light during the whole 28-day treatment period.
 
 ## Preparing the pen for use
 
-- -To ensure the  correct administration  of  Kauliv  always read  the  IFU of  Kauliv  pen, which  is included  in  the carton  of  the pen.
-- Wash  your hands  before  handling the  cartridge  or  pen. -
-- Check the expiry date on the cartridge  label before  inserting the  cartridge  into  the  pen.  Make sure that there are at least 28 days remaining before its expiry date. Insert the cartridge  into  the pen before the first use as detailed in the pen instructions. Write down the batch (Lot) number of each cartridge and its first injection date on a calendar. The date of first injection should also be recorded on the outer carton of Kauliv cartridge (see the provided space on the box: 'First use'). -
-- After inserting a new cartridge and before the first injection  from  this  cartridge,  prime  the  pen according to  the  instructions  which  are  provided  with  the  pen  IFU.  Please  ensure  to  prime before  each  dose  as  per  the  instructions  given  in  pen  IFU. -
+- To ensure the correct administration  of  Kauliv  always read the IFU of  Kauliv pen, which is included  in  the carton  of  the pen.
+- Wash your hands before  handling the  cartridge  or pen.
+- Check the expiry date on the cartridge label before inserting the cartridge into  the pen. Make sure that there are at least 28 days remaining before its expiry date. Insert the  cartridge  into the  pen before the first use as detailed in the pen instructions. Write down the batch (Lot) number of each cartridge and its first injection date on a calendar. The date of first injection should also be recorded on the outer carton of Kauliv cartridge (see the provided space on the box: 'First use ' ).
+- After inserting a new cartridge and before the first injection  from this cartridge, prime  the pen according to the instructions which are provided with the pen IFU. Please ensure to prime before  each  dose  as  per  the  instructions  provided with the  pen  IFU.
 
 ## Injecting Kauliv
 
-- -Before  you  inject Kauliv,  clean  your skin  where  you  intend  to  inject (thigh  or abdomen) as instructed by your doctor.
-- Gently hold a fold of cleansed skin and  insert the  needle  straight into  the  skin. Press the  push button  and  hold  it  pressed  in  until  the  dose  indication  has  returned  to  the  start  position. -
-- After your injection, leave the needle in the skin for ten seconds to make sure that you receive the whole dose. -
-- As soon as you have finished  the  injection, attach  the  outer needle  protective  cap  on  the  pen needle  and  screw  the  cap  anti-clockwise  to  remove  the  pen  needle. -
-- Replace the cap on your pen. Leave the cartridge in the pen. -
+- Before  you inject Kauliv, clean  your skin  where  you  intend  to  inject (thigh  or abdomen) as instructed by your doctor.
+- Gently hold a fold of cleansed skin and  insert the  needle  straight into  the  skin. Press the push button  and  hold  it  pressed  in  until  the  dose  indication  has  returned  to  the  start position.
+- After your injection, leave the needle in the skin for ten seconds to make sure that you receive the whole dose.
+- As soon as you have finished  the injection, attach  the outer needle  protective cap  on  the pen needle  and  screw  the  cap  anti-clockwise  to  remove  the  pen  needle.
+- Replace the cap on your pen. Leave the cartridge in the pen.
+- Do not inject more than one dose per day.
 
 ## If you use more Kauliv than you should
 
-If, by mistake, you have used more Kauliv than you  should,  contact your doctor or pharmacist.  The expected  effects  of  overdose  include  nausea,  vomiting,  dizziness,  and  headache.
-
-## If you forget to use Kauliv
-
-If  you forget an injection or cannot use your medicine at your usual time, inject it as soon  as  possible on that day. Do not use a double dose to make up for a forgotten dose. Do not take more than one injection in the same day.
+If, by mistake, you have used more Kauliv than you should, contact your doctor or pharmacist. The expected  effects  of  overdose  include  nausea,  vomiting,  dizziness,  and  headache.
 
 <div style=\"page-break-after: always\"></div>
 
+## If you forget to use Kauliv
+
+If you forget an injection or cannot use your medicine at your usual time, inject it as soon as possible on that day. Do not use a double dose to make up for a forgotten dose. Do not take more than one injection in the same day.
+
 ## If you stop using Kauliv
 
-If  you are considering stopping Kauliv treatment,  please  discuss  this  with  your doctor.  Your  doctor will  advise  you  and  decide  how  long you  should  be  treated  with  Kauliv.
+If you are considering stopping Kauliv treatment, please discuss this with your doctor. Your doctor will  advise  you  and  decide  how  long  you  should  be  treated  with  Kauliv.
 
-If  you  have  any  further questions on  the  use  of  this  medicine,  ask  your doctor or pharmacist.
+If  you  have any  further questions on  the  use  of  this medicine, ask  your doctor or pharmacist.
 
-Kauliv is not recommended for use by the blind  or visually  impaired  persons without the  assistance from  a  person  trained  in  the  proper  use  of  the  pen.
+Kauliv is not recommended for use by the blind  or visually  impaired  persons without the assistance from  a  person  trained  in  the  proper  use  of  the  pen.
 
 ## 4. Possible side effects
 
-Like  all medicines,  this  medicine  can  cause  side  effects,  although  not everybody  gets  them.
+Like  all medicines,  this medicine  can  cause  side  effects,  although  not everybody  gets them.
 
-The most common side effects are pain in limb (which may affect more than 1 in 10 people). Other common side effects (affecting up to 1 in 10 people) include feeling sick,  headache  and  dizziness.  If you become dizzy (light-headed) after your injection, you should sit or lie down  until you  feel better. If you do not feel better, you should  call a  doctor before  you  continue  treatment.  Cases  of  fainting have  occurred  after teriparatide  use.
+The most common side effects are pain in limb (which may affect more than 1 in 10 people). Other common side effects (affecting up to 1 in 10 people) include feeling sick,  headache  and  dizziness. If you  become dizzy  (light-headed) after your injection, you should sit or lie down  until  you  feel better. If you do not feel better, you should  call a  doctor before  you  continue  treatment.  Cases  of fainting have  occurred  after teriparatide  use.
 
-If  you  have  discomfort around the area of the injection such as redness of the skin, pain, swelling, itching, bruising or minor bleeding (which can occur commonly), this should clear up in a few days or weeks. Otherwise tell your doctor.
+If you have discomfort around the area of the injection such as redness of the skin, pain, swelling, itching, bruising or minor bleeding (which can occur commonly), this should clear up in a few days or weeks. Otherwise tell your doctor.
 
-Rarely  (may  affect  up  to  1  in  1  000  people),  patients  may  suffer  allergic  reactions  consisting of breathlessness, swelling of  the  face,  rash  and  chest pain.  These  reactions  usually  occur  soon  after injection. In rare cases, serious and potentially life-threatening allergic reactions including anaphylaxis can occur.
+Rarely (may affect up to 1 in 1 000 people), patients may suffer allergic reactions consisting of breathlessness, swelling of the face, rash and chest pain. These reactions usually occur soon after injection. In  rare  cases,  serious  and  potentially  life-threatening  allergic  reactions  including anaphylaxis can occur.
 
-## Other  side  effects  include:
+Other side  effects  include:
 
 Common (may affect up to 1 in 10 people)
 
@@ -965,28 +960,28 @@ Common (may affect up to 1 in 10 people)
 - tiredness
 - chest pain
 - low blood pressure
-- heartburn  (painful  or  burning sensation  just  below  the  breast  bone)
+- heartburn  (painful  or  burning sensation  just below  the  breast  bone)
 - being sick (vomiting)
-- a  hernia  of  the  tube  that carries  food  to  your stomach  (hiatus  hernia)
+- a hernia of  the tube that carries food  to  your stomach  (hiatus hernia)
 - low haemoglobin  or red  blood  cell count (anaemia).
 
-Uncommon (may affect up to 1 in  100  people)
+Uncommon (may affect up to 1 in 100 people)
 
 - increased heart rate
 - abnormal heart sound
 - shortness of breath
 - piles (haemorrhoids)
-- leakage of urine
-- increased  need  to  pass  water
 
 <div style=\"page-break-after: always\"></div>
 
+- leakage of urine
+- increased  need  to  pass water
 - weight increase
 - kidney stones
 - pain in the muscles and pain in the joints. Some patients have had  severe  back  cramps or pain which led to admission into hospital.
-- increase  in  blood  calcium  level ·
-- increase in  blood  uric acid  level ·
-- increase  in  an  enzyme  called  alkaline  phosphatase. ·
+- increase  in  blood  calcium level
+- increase in blood uric acid level
+- increase  in  an  enzyme  called  alkaline  phosphatase.
 
 Rare (may affect up to 1 in 1 000 people)
 
@@ -995,335 +990,221 @@ Rare (may affect up to 1 in 1 000 people)
 
 ## Reporting of side effects
 
-If  you get any side effects, talk to your doctor or pharmacist.  This  includes  any  possible  side  effects not  listed  in  this  leaflet.  You  can  also  report  side  effects  directly  via  the  national  reporting  system listed in Appendix V. By reporting side effects, you can help provide more information  on  the  safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Kauliv
 
 Keep this medicine out of  the sight and reach of  children.
 
-Do not use this medicine after the expiry  date which  is stated  on  the carton  and  the  cartridge  after EXP.  The  expiry  date  refers  to  the  last  day  of  that  month.
+Do not use this medicine after the expiry date which is stated on the carton and the cartridge after EXP.
+
+The  expiry  date  refers  to  the  last  day  of  that  month.
 
 Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
-Keep the cartridge in  the outer carton  in  order to  protect from light.
+Keep the cartridge in the outer carton in order to protect from light.
 
-You can use Kauliv for up to 28 days after the first injection, as long as the cartridge/pen with the cartridge inserted is stored in a refrigerator (2 °C to 8 °C). The cartridge/pen can additionally be placed in  the  pouch  supplied  with  the  pen  in  order  to  protect  from  light.
+You can use Kauliv for up to 28 days after the first injection, as long as the cartridge/pen with the cartridge inserted is stored in a refrigerator (2 °C to 8 °C). The cartridge/pen can additionally be placed in the pouch supplied  with  the  pen  in  order  to  protect  from  light.
 
 Avoid placing the cartridge close to the ice compartment of the refrigerator to prevent freezing. Do not use  Kauliv  if  it is,  or  has  been,  frozen.
 
-Each cartridge should be properly disposed of after 28  days of  first use, even  if  it is not completely empty.
+Kauliv contains a clear and colourless solution. Do not use Kauliv if  solid  particles appear or if  the solution is cloudy or coloured.
 
-Kauliv contains a clear and colourless solution. Do  not use Kauliv  if  solid  particles appear or if  the solution is cloudy or coloured.
+Each cartridge should be properly disposed of after 28 days of  first use, even if  it is not completely empty.
 
-Do not throw away any medicines via wastewater or household  waste.  Ask  your pharmacist how  to throw  away  medicines  you  no  longer  use.  These  measures  will  help  protect  the  environment.
+Do not throw away any medicines via wastewater or household  waste.  Ask  your pharmacist how to throw  away  medicines  you  no  longer  use.  These  measures  will  help  protect  the  environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Kauliv contains
 
-- -The active substance  is  teriparatide.  Each  dose  of  80  microliters  contains  20  micrograms  of teriparatide. Each cartridge of 3 mL contains 750 micrograms of teriparatide  (corresponding to 250 micrograms per mL).
-- The other ingredients are: anhydrous sodium acetate, glacial acetic acid, mannitol, metacresol, diluted hydrochloric acid (for pH adjustment), sodium hydroxide (for pH adjustment), water for injections.  See  section  2.  'Kauliv  contains  sodium'. -
+- The active substance is teriparatide. Each dose of 80 microliters contains 20 micrograms of teriparatide. Each cartridge of 3 mL contains 750 micrograms of teriparatide  (corresponding to 250 micrograms per mL).
+- The  other ingredients are:  anhydrous  sodium  acetate,  glacial  acetic acid, mannitol, metacresol,  diluted  hydrochloric  acid  (for  pH  adjustment),  sodium  hydroxide  (for  pH adjustment), water for injections.  See  section  2. 'Kauliv contains sodium'.
 
 <div style=\"page-break-after: always\"></div>
 
-## What Kauliv looks like and contents of the pack
-
-Kauliv is a colourless and  clear solution  for injection. It is supplied  in  a  cartridge. Each  cartridge contains  3  mL  of  solution,  adequate  for  28  doses.
+Kauliv is a colourless and clear solution  for injection. It is supplied  in  a  cartridge. Each cartridge contains  3  mL  of  solution,  adequate  for  28  doses.
 
 ## Pack sizes:
 
 1 cartridge or 3 cartridges packed in a plastic tray sealed with lid foil and packed in a carton.
 
-## Kauliv  cartridge and  pen  pack:
+## Kauliv cartridge and pen pack:
 
-1 inner carton of Kauliv cartridge (containing 1 cartridge) and 1 inner carton of Kauliv Pen (containing 1 pen).
+1 inner carton of Kauliv cartridge (containing 1 cartridge) and 1 inner carton of Kauliv Pen (containing 1 pen). Not all pack sizes may be marketed.
 
-Not all pack sizes may be marketed.
+## Marketing Authorisation Holder
 
-## Marketing  Authorisation Holder
-
-Strides Pharma (Cyprus) Limited Themistokli Dervi, 3 Julia House, 1st Floor, 1066,  Nicosia,  Cyprus
+Strides Pharma (Cyprus) Limited Themistokli Dervi, 3 Julia House, 1st Floor 1066, Nicosia, Cyprus
 
 ## Manufacturer
 
-Fairmed Healthcare GmbH Maria-Goeppert-Strasse 3 23562 Luebeck Germany
+Fairmed Healthcare GmbH Maria-Goeppert-Strasse 3 23562, Luebeck, Germany
 
-For  any  information  about  this  medicine,  please  contact  the  local  representative  of  the  Marketing Authorisation Holder:
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien Strides Pharma (Cyprus) Limited Tél/Tel: +357-2255000
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
-
-## Lietuva
-
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+k.sangeetha@strides.com
 
 ## България
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+Strides Pharma (Cyprus) Limited Teл.: +357 -2255000
 
-## Luxembourg/Luxemburg
-
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+k.sangeetha@strides.com
 
 ## Česká republika
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
-
-## Magyarország
-
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+Strides Pharma (Cyprus) Limited Tel: +357-2255000 k.sangeetha@strides.com
 
 ## Danmark
 
-Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Denmark@zentiva.com
+Zentiva Denmark ApS Tlf.: +45 787 68 400
 
-## Malta
-
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+PV-Denmark@zentiva.com
 
 ## Deutschland
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+## Lietuva
+
+Strides Pharma (Cyprus) Limited Tel: +357-2255000
+
+k.sangeetha@strides.com
+
+## Luxembourg/Luxemburg
+
+Strides Pharma (Cyprus) Limited Tél/Tel: +357-2255000 k.sangeetha@strides.com
+
+## Magyarország
+
+Strides Pharma (Cyprus) Limited Tel: +357-2255000 k.sangeetha@strides.com
+
+## Malta
+
+Strides Pharma (Cyprus) Limited Tel: +357-2255000 k.sangeetha@strides.com
 
 ## Nederland
 
-Zentiva,  k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
+Strides Pharma (Cyprus) Limited Tel: +357-2255000
+
+k.sangeetha@strides.com
+
+Eesti Strides Pharma (Cyprus) Limited Tel: +357-2255000 k.sangeetha@strides.com Zentiva, k.s. Tel: +31 202 253 638
+
+PV-Netherlands@zentiva.com
+
+## Norge
+
+Zentiva Denmark ApS
+
+Tlf.: +45 787 68 400
+
+k.sangeetha@strides.com
 
 <div style=\"page-break-after: always\"></div>
 
-## Eesti
-
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
-
 ## Ελλάδα
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+Strides Pharma (Cyprus) Limited Τηλ:  +357 -2255000
+
+k.sangeetha@strides.com
 
 ## España
 
-Zentiva Spain S.L.U. Tel: +34 91 111 58 93 PV-Spain@zentiva.com
+Zentiva Spain S.L.U. Tel: +34 671 365 828
 
-## France
+PV-Spain@zentiva.com
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+France
 
-## Hrvatska
+Strides Pharma (Cyprus) Limited Tél: +357-2255000
 
-Zentiva  d.o.o. Tel: +385 1 6641 830 PV-Croatia@zentiva.com
+k.sangeetha@strides.com
+
+Hrvatska
+
+Zentiva d.o.o. Tel: +385 1 6641 830
+
+PV-Croatia@zentiva.com
 
 ## Ireland
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+Strides Pharma (Cyprus) Limited Tel: +357-2255000
+
+k.sangeetha@strides.com
 
 ## Ísland
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+Strides Pharma (Cyprus) Limited Tel: +357-2255000
 
-## Italia
+k.sangeetha@strides.com
 
-Zentiva Italia S.r.l. Tel: +39 800081631 PV-Italy@zentiva.com
+Italia
 
-## Κύπρος
+Zentiva Italia S.r.l. Tel: +39 800081631
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+PV-Italy@zentiva.com
 
-## Latvija
+Κύπρος
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+Strides Pharma (Cyprus) Limited Τηλ: +357 -2255000
+
+k.sangeetha@strides.com
+
+Latvija
+
+Strides Pharma (Cyprus) Limited Tel: +357-2255000
+
+k.sangeetha@strides.com
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-## Norge
-
-Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Norway@zentiva.com
+Detailed  information  on  this  medicine  is  available  on  the  European  Medicines  Agency  web  site: https://www.ema.europa.eu
 
 ## Österreich
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+Strides Pharma (Cyprus) Limited Tel: +357-2255000
+
+k.sangeetha@strides.com
 
 ## Polska
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+Strides Pharma (Cyprus) Limited Tel: +357-2255000
 
-## Portugal
+k.sangeetha@strides.com
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+Portugal
 
-## România
+Strides Pharma (Cyprus) Limited Tel: +357-2255000
 
-ZENTIVA S.A. Tel: +4 021.304.7597 PV-Romania@zentiva.com
+k.sangeetha@strides.com
 
-## Slovenija
+România
 
-Strides Pharma (Cyprus) Limited
+ZENTIVA S.A. Tel: +4 021.304.7597
 
-Tlf: +357-2255000 k.sangeetha@strides.com
+PV-Romania@zentiva.com
+
+Slovenija
+
+Strides Pharma (Cyprus) Limited Tel: +357-2255000
+
+k.sangeetha@strides.com
 
 ## Slovenská republika
 
-Strides Pharma (Cyprus) Limited Tlf: +357-2255000 k.sangeetha@strides.com
+Strides Pharma (Cyprus) Limited Tel: +357-2255000
+
+k.sangeetha@strides.com
 
 ## Suomi/Finland
 
-Zentiva Denmark ApS Puh/Tel: +358 942 598 648 PV-Finland@zentiva.com
+Zentiva Denmark ApS Puh/Tel: +358 942 598 648
 
-## Sverige
+PV-Finland@zentiva.com
 
-Zentiva Denmark ApS Tel: +46 840 838 822
+Sverige Zentiva Denmark ApS Tel: +46 840 838 822
 
 PV-Sweden@zentiva.com
-
-<div style=\"page-break-after: always\"></div>
-
-Detailed  information  on  this  medicine  is  available  on  the  European  Medicines  Agency  web  site: http://www.ema.europa.eu
-
-<div style=\"page-break-after: always\"></div>
-
-## Instructions for Use Kauliv Pen
-
-Please follow these step-by-step instructions carefully  before using Kauliv  pen.
-
-The Kauliv pen should not be used for any other purpose than that advised by your healthcare professional.
-
-## Kauliv pen parts
-
-<!-- image -->
-
-## INDICATIONS FOR USE
-
-Kauliv pen is a reusable injection pen for self-administering subcutaneous  injections  of  teriparatide. For further information, please refer to 'What Kauliv is and what it is used for' in the  package  leaflet for Kauliv. The Kauliv pen must only be used with Kauliv cartridge and 32 G 4 mm single-use pen needles.
-
-<div style=\"page-break-after: always\"></div>
-
-Each  cartridge  contains  28  doses  of  teriparatide.  Inject  a  single  dose  ( D )  of  20  micrograms (corresponding to  80  microliters)  every  day.
-
-You need to load a new cartridge at the start of  each new 28 day period.
-
-Patients and caregivers who administer Kauliv should receive appropriate  training and  instruction  on the proper use of the Kauliv pen from a qualified health professional and read  the  package leaflet for Kauliv cartridge before the first use. It is important to read, understand, and follow the instructions for using the  pen  as  given  in  the  Instructions  for  Use  for  Kauliv  pen
-
-## PEN PREPARATION: FIRST USE AND CHANGING CARTRIDGES
-
-Write down the first injection date of each new cartridge in the space provided on the carton box. This helps  you  to  know  when  the  28  daily  doses  per  cartridge  are  used  (see  section  2  'Warnings  and precautions'  and  section  3  'How  to  use  Kauliv'  in  the  Package  leaflet  of  Kauliv).  Follow  the instructions every  time  you  insert a  new Kauliv  cartridge  into  your Kauliv  pen.
-
-## LOAD A CARTRIDGE
-
-<!-- image -->
-
-Pull off  the pen cap. Unscrew by turning the pen  body  from  the  cartridge  holder (fig.  1).
-
-<!-- image -->
-
-Check to ensure that the internal plunger is fully retracted (fig. 2). If the internal plunger is extended, please  refer  to  fig.  12  to  see  how  to  wind  it  back  in.
-
-<!-- image -->
-
-Check the teriparatide cartridge. If  the  solution  appears cloudy, then  use  a  new cartridge. Load  the Kauliv  cartridge  into  the  cartridge  holder,  metal  cap  in  first  (fig.  3).
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-Screw the cartridge  holder and  pen  body  firmly  together (fig.  4).
-
-## ATTACH A NEW NEEDLE
-
-<!-- image -->
-
-Peel the  protective  paper from  a  new  pen  needle  (Size: 32G 4mm). Screw the pen needle straight onto the cartridge holder (fig. 5a). The pen needle must be changed for every injection.
-
-Pull off the outer needle cap and save it.
-
-<!-- image -->
-
-## PRIME THE PEN
-
-Pull out the inner needle shield and dispose of  it (fig. 5b).
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-It is important to prime the Kauliv pen before every daily use to remove any air that may be inside the needle and cartridge. (fig. 6a)
-
-Dial the dose selector to P to prime the Kauliv pen (fig. 6b). If  you over-dial, proceed to fig. 7.
-
-<!-- image -->
-
-<!-- image -->
-
-Hold the Kauliv pen with the needle pointing up. Push and hold the release button towards the needle until the  arrow  on  the  dose  selector  points  to 0 .  Keep  dialling to P and  releasing until a  drop  of teriparatide appears at the needle tip (fig. 7). The Kauliv pen is now ready for use. (If  the  arrow does not  return  to 0 after  pushing the  release  button,  refer  to  the  priming advice  given  above.)
-
-## INJECT A DOSE
-
-<!-- image -->
-
-Make sure the arrow points to 0 on the dose selector (fig. 8a). Now dial up to D (fig. 8b).
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-Using  the  technique  recommended  by  your  healthcare  professional  gently  insert  the  needle  of  the Kauliv pen into the injection site. Push the release button towards the pen needle and hold it in place until  the  arrow  on  the  dose  selector  points  to 0 and  continue  holding the  release  button  down  for 10  seconds,  then  remove  the  needle  from  the  skin  (fig.  9).
-
-## REMOVE THE NEEDLE
-
-<!-- image -->
-
-Reattach the outer pen needle cap and unscrew the pen needle (fig. 10). Always check your pen needle has  been  removed.  Dispose  of  used  pen  needles  carefully  into  an  approved  sharps  container  in accordance with the advice given by your healthcare professional or local regulations. Replace the pen cap  on  to  the  Kauliv  pen  and  return  it  to  the  fridge  for  storage.
-
-## CHANGE THE CARTRIDGE (EVERY 28 DAYS)
-
-Each cartridge contains enough teriparatide for 28 doses. After 28 days, dispose  of  the  used  cartridge and  insert a  new cartridge  (fig.  1  to  fig.  4.).  Dispose  of  the  used  cartridge  in  accordance  with  the advice  given  by  your  healthcare  professional/local  regulations.
-
-<!-- image -->
-
-To change the cartridge, ensure the pen needle is removed. Unscrew the cartridge holder from the pen body  and  remove  the  cartridge  (fig.  11).
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-Rewind the internal plunger by holding the grey rewind collar of the pen body between the thumb  and finger (fig. 12). Turn the pen body until the internal plunger is fully  retracted  (fig. 2). Then  return  to step 3 to load the next cartridge.
-
-## PRIMING ADVICE
-
-If  during fig.  7  the  arrow  does  not point to  0  (after pushing the  release  button) and  no  teriparatide appears,  this  may  indicate  one  of  two  possibilities:
-
-A. The pen needle that you are using could be blocked. If so, remove the pen needle from the  pen  and replace  with  a  new  one.  Then  return  to  fig.  5,  fig.  6  and  fig.  7.
-
-- B. The cartridge bung may require releasing. If  so, follow these  steps:
-- a. Replace the  outer pen  needle  cap  onto  the  needle.
-- b. Unscrew the cartridge  holder.
-- c. Push and hold down the release button towards the internal plunger until the arrow points to 0 on the dose selector.
-- d. Dial up  to  D without screwing the pen  back together. Push  and  hold  down the release button  towards  the  internal  plunger  until  the  arrow  points  to  0.
-- e. Without  rewinding the  internal  plunger,  screw  the  cartridge  holder  and  body  firmly together. This will release the cartridge bung and  expel some  teriparatide,  however,  the  pen will not be primed.
-- f. Repeat fig. 6 and fig. 7 to prime the pen fully.
-
-## SAFETY PRECAUTIONS
-
-- Wash  hands  thoroughly  before  use. ·
-- When a Kauliv cartridge is loaded, the Kauliv pen should be stored in a refrigerator (2°C to 8°C) · in  between  injections until 28  days of  use  from  the  date  of  first use.  The  cartridge/pen  can additionally  be  placed  in  the  pouch  supplied  with  the  pen  in  order  to  protect  from  light.
-- The Kauliv pen should be stored with the arrow on the pen body pointing to 0 to avoid  damage to the pen. ·
-- Check the Kauliv cartridge. If  the  solution  appears cloudy, then  use  a  new cartridge. ·
-- Always  ensure  the  Kauliv  pen  has  been  primed  before  every  use,  in  accordance  with  the instructions detailed in steps 6 and 7. Failure to follow the exact priming procedures  could  result in  an  inaccurate  dose  being delivered. ·
-- Never attempt to dial back the dose selector as doing so  may  damage  the  Kauliv  pen.  Expel the incorrect dose into the air. ·
-- Do not inject more than  one dose (D) per day. ·
-- If when removing the pen needle any leakage of teriparatide is found, it is possible that you  may not  have  injected  the  full  teriparatide  dose.  Do  not  try  to  make  up  for  the  shortfall  in  your teriparatide  dose  by  giving a  second  injection. ·
-- The needle should be  removed  and  safely  disposed  of  immediately  after  each  injection.  If  the needle  is  left  on  the  pen,  it  can  get  blocked  and  affect  the  next  dose. ·
-- Choking hazard  -  small parts.  Keep  away  from  children  under 3. ·
-
-## STORAGE AND CLEANING
-
-- To clean the Kauliv pen wipe with a damp cloth. Do not immerse in water. Do not use any other · solutions  to  clean  the  pen,  e.g.  chemicals,  alcohol wipes.
-
-<div style=\"page-break-after: always\"></div>
-
-- The Kauliv pen should always be stored or carried with the pen needle  removed  and  the  pen  cap on.
-- Discard  cartridge  28  days after the  date  of  first use.
-- Before  disposing of  the  pen  injector, be  sure  to  remove  the  pen  needle.
-- Dispose of used pen needles carefully  into  a  sharps  container or in  accordance  with  the  advice given  by  your  healthcare  professional/local  regulations.
-- Do  not throw  needles  directly  into  your  household  waste.
-- Do not recycle  the filled  sharps container.

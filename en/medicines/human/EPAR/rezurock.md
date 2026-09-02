@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-17 10:20:00
+document_datetime: 2026-08-25 14:31:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rezurock.html
 document_name: rezurock.html
 version: success
-processing_time: 0.107716
-conversion_datetime: 2026-04-17 15:51:25.962967
+processing_time: 0.143639
+conversion_datetime: 2026-09-02 22:30:52.985792
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.0
-  docling: 2.89.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Rezurock
 
@@ -57,7 +57,7 @@ Expand section
 
 Collapse section
 
-## How is Rezurock used?
+### How is Rezurock used?
 
 The medicine can only be obtained with a prescription. Treatment should be started and supervised by a doctor experienced in the management of chronic GvHD.
 
@@ -69,15 +69,15 @@ The doctor may need to reduce the dose or stop the medicine in case of side effe
 
 For more information about using Rezurock, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Rezurock work?
+### How does Rezurock work?
 
 The active substance in Rezurock, belumosudil, stops the action of ROCK2, a protein involved in the immune reactions that take place in chronic GvHD and cause inflammation and scarring (fibrosis) in different organs. By blocking the action of this protein, Rezurock is expected to help treat the condition by reducing inflammation and fibrosis.
 
-## What benefits of Rezurock have been shown in studies?
+### What benefits of Rezurock have been shown in studies?
 
 The main study involved 156 patients with chronic GvHD who had previously received at least two other treatments. Patients received Rezurock either once a day (78 patients) or twice a day (78 patients). Patients were also allowed to take other treatments, and Rezurock was not compared with any other treatment. The study looked at how many patients taking Rezurock once a day responded to treatment with either a complete response (all symptoms in all affected organs resolved) or a partial response (at least one organ improved and no other organ worsened or became affected). Over a 6-month period, 73% of patients (57 out of 78) who took Rezurock once daily responded to treatment. At 6 months, 44% of patients were responding to treatment. Around 5% of patients (4 out of 78) achieved a complete response while around 68% (53 out of 78) achieved a partial response.
 
-## What are the side effects and restrictions with Rezurock?
+### What are the side effects and restrictions with Rezurock?
 
 For the full list of side effects and restrictions with Rezurock, see the package leaflet.
 
@@ -85,7 +85,7 @@ The most common side effects with Rezurock (which may affect more than 1 in 10 p
 
 Some side effects can be serious. The most frequent (which may affect more than 1 in 100 people) include pneumonia (infection of the lungs), cellulitis (inflammation of the deep skin tissue), large intestine infection, periorbital cellulitis (inflammation of the eye lid and skin around the eye), staphylococcal bacteraemia (staphylococci bacteria present in the blood), upper respiratory tract infection (nose and throat infection), hypoxia (lack of oxygen in body tissues), pulmonary embolism (clot in a blood vessel in the lung), diarrhoea, nausea, tongue dysplasia (presence of abnormal cells in the tongue which may become cancerous), vomiting and multiple organ dysfunction syndrome (a serious condition where several organs in the body stop working properly).
 
-## Why is Rezurock authorised in the EU?
+### Why is Rezurock authorised in the EU?
 
 At the time of approval, there was an urgent medical need for new treatments for patients with chronic GvHD when other treatments have failed or are not suitable. The main study showed that treatment with Rezurock could lead to a response in patients with chronic GvHD. However, there are uncertainties about the size of the benefit because of how the main results were measured and because patients were taking other treatments at the same time.
 
@@ -95,13 +95,13 @@ Rezurock has been given conditional authorisation for use in the EU. This means 
 
 The company must provide further data on Rezurock. It must carry out a c study where Rezurock is compared to another treatment to confirm its effectiveness. Every year, the Agency will review any new information that becomes available.
 
-## What measures are being taken to ensure the safe and effective use of Rezurock?
+### What measures are being taken to ensure the safe and effective use of Rezurock?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Rezurock have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Rezurock are continuously monitored. Suspected side effects reported with Rezurock are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Rezurock
+### Other information about Rezurock
 
 Rezurock received a conditional marketing authorisation valid throughout the EU on 24 March 2026.
 
@@ -115,7 +115,7 @@ English (EN) (157.79 KB - PDF)
 
 [View](/en/documents/overview/rezurock-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-853)
+[Other languages (22)](#file-language-dropdown-974)
 
 български (BG) (157.53 KB - PDF)
 
@@ -147,7 +147,7 @@ Deutsch (DE) (141.99 KB - PDF)
 
 [View](/de/documents/overview/rezurock-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (121.06 KB - PDF)
+eesti (ET) (121.06 KB - PDF)
 
 **First published:** 07/04/2026
 
@@ -177,13 +177,13 @@ italiano (IT) (140.18 KB - PDF)
 
 [View](/it/documents/overview/rezurock-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (164.03 KB - PDF)
+latviešu (LV) (164.03 KB - PDF)
 
 **First published:** 07/04/2026
 
 [View](/lv/documents/overview/rezurock-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (155.84 KB - PDF)
+lietuvių (LT) (155.84 KB - PDF)
 
 **First published:** 07/04/2026
 
@@ -237,7 +237,7 @@ slovenščina (SL) (154.66 KB - PDF)
 
 [View](/sl/documents/overview/rezurock-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (136.41 KB - PDF)
+suomi (FI) (136.41 KB - PDF)
 
 **First published:** 07/04/2026
 
@@ -261,163 +261,168 @@ English (EN) (735.11 KB - PDF)
 
 Rezurock : EPAR - Product information
 
-English (EN) (472.04 KB - PDF)
+English (EN) (393.49 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/en/documents/product-information/rezurock-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-767)
+[Other languages (24)](#file-language-dropdown-666)
 
-български (BG) (573.44 KB - PDF)
+български (BG) (481.12 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/bg/documents/product-information/rezurock-epar-product-information_bg.pdf)
 
-español (ES) (387.84 KB - PDF)
+español (ES) (244.04 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/es/documents/product-information/rezurock-epar-product-information_es.pdf)
 
-čeština (CS) (478.69 KB - PDF)
+čeština (CS) (343.94 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/cs/documents/product-information/rezurock-epar-product-information_cs.pdf)
 
-dansk (DA) (467.51 KB - PDF)
+dansk (DA) (414.46 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/da/documents/product-information/rezurock-epar-product-information_da.pdf)
 
-Deutsch (DE) (502.59 KB - PDF)
+Deutsch (DE) (432.25 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/de/documents/product-information/rezurock-epar-product-information_de.pdf)
 
-eesti keel (ET) (370.3 KB - PDF)
+eesti (ET) (229.7 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/et/documents/product-information/rezurock-epar-product-information_et.pdf)
 
-ελληνικά (EL) (488.86 KB - PDF)
+ελληνικά (EL) (441.46 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/el/documents/product-information/rezurock-epar-product-information_el.pdf)
 
-français (FR) (655.84 KB - PDF)
+français (FR) (458.31 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/fr/documents/product-information/rezurock-epar-product-information_fr.pdf)
 
-hrvatski (HR) (542.53 KB - PDF)
+hrvatski (HR) (407.7 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/hr/documents/product-information/rezurock-epar-product-information_hr.pdf)
 
-íslenska (IS) (521 KB - PDF)
+italiano (IT) (411.18 KB - PDF)
 
-**First published:** 07/04/2026
-
-[View](/is/documents/product-information/rezurock-epar-product-information_is.pdf)
-
-italiano (IT) (452.44 KB - PDF)
-
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/it/documents/product-information/rezurock-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (441.67 KB - PDF)
+latviešu (LV) (300.66 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/lv/documents/product-information/rezurock-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (471.59 KB - PDF)
+lietuvių (LT) (314.56 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/lt/documents/product-information/rezurock-epar-product-information_lt.pdf)
 
-magyar (HU) (558.82 KB - PDF)
+magyar (HU) (323.99 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/hu/documents/product-information/rezurock-epar-product-information_hu.pdf)
 
-Malti (MT) (576.2 KB - PDF)
+Malti (MT) (560.78 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/mt/documents/product-information/rezurock-epar-product-information_mt.pdf)
 
-Nederlands (NL) (491.39 KB - PDF)
+Nederlands (NL) (401.93 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/nl/documents/product-information/rezurock-epar-product-information_nl.pdf)
 
-norsk (NO) (486.92 KB - PDF)
+polski (PL) (461.82 KB - PDF)
 
-**First published:** 07/04/2026
-
-[View](/no/documents/product-information/rezurock-epar-product-information_no.pdf)
-
-polski (PL) (512.15 KB - PDF)
-
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/pl/documents/product-information/rezurock-epar-product-information_pl.pdf)
 
-português (PT) (633.73 KB - PDF)
+português (PT) (371.65 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/pt/documents/product-information/rezurock-epar-product-information_pt.pdf)
 
-română (RO) (439.33 KB - PDF)
+română (RO) (408.62 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/ro/documents/product-information/rezurock-epar-product-information_ro.pdf)
 
-slovenčina (SK) (428.5 KB - PDF)
+slovenčina (SK) (383.31 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/sk/documents/product-information/rezurock-epar-product-information_sk.pdf)
 
-slovenščina (SL) (460.72 KB - PDF)
+slovenščina (SL) (384.25 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/sl/documents/product-information/rezurock-epar-product-information_sl.pdf)
 
-Suomi (FI) (518.28 KB - PDF)
+suomi (FI) (387.96 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/fi/documents/product-information/rezurock-epar-product-information_fi.pdf)
 
-svenska (SV) (442.15 KB - PDF)
+svenska (SV) (397.67 KB - PDF)
 
-**First published:** 07/04/2026
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
 
 [View](/sv/documents/product-information/rezurock-epar-product-information_sv.pdf)
+
+Íslenska (IS) (368.86 KB - PDF)
+
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
+
+[View](/is/documents/product-information/rezurock-epar-product-information_is.pdf)
+
+norsk (NO) (408.3 KB - PDF)
+
+**First published:** 07/04/2026 **Last updated:** 25/08/2026
+
+[View](/no/documents/product-information/rezurock-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000351057
+
+24/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -435,7 +440,7 @@ English (EN) (49.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-498)
+[Other languages (24)](#file-language-dropdown-151)
 
 български (BG) (56.77 KB - PDF)
 
@@ -467,7 +472,7 @@ Deutsch (DE) (40.8 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (18.49 KB - PDF)
+eesti (ET) (18.49 KB - PDF)
 
 **First published:** 07/04/2026
 
@@ -491,25 +496,19 @@ hrvatski (HR) (99.97 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (53.45 KB - PDF)
-
-**First published:** 07/04/2026
-
-[View](/is/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (40.46 KB - PDF)
 
 **First published:** 07/04/2026
 
 [View](/it/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (40.04 KB - PDF)
+latviešu (LV) (40.04 KB - PDF)
 
 **First published:** 07/04/2026
 
 [View](/lv/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (40.16 KB - PDF)
+lietuvių (LT) (40.16 KB - PDF)
 
 **First published:** 07/04/2026
 
@@ -532,12 +531,6 @@ Nederlands (NL) (40.57 KB - PDF)
 **First published:** 07/04/2026
 
 [View](/nl/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (41.03 KB - PDF)
-
-**First published:** 07/04/2026
-
-[View](/no/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (50.93 KB - PDF)
 
@@ -569,7 +562,7 @@ slovenščina (SL) (42.97 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (46.12 KB - PDF)
+suomi (FI) (46.12 KB - PDF)
 
 **First published:** 07/04/2026
 
@@ -581,27 +574,30 @@ svenska (SV) (40.12 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (53.45 KB - PDF)
+
+**First published:** 07/04/2026
+
+[View](/is/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (41.03 KB - PDF)
+
+**First published:** 07/04/2026
+
+[View](/no/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Rezurock
-
-Active substance
-
-belumosudil mesilate
-
-International non-proprietary name (INN) or common name
-
-belumosudil
-
-Therapeutic area (MeSH)
-
-Graft vs Host Disease
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AA48
+- **Name of medicine**
+    - Rezurock
+- **Active substance**
+    - belumosudil mesilate
+- **International non-proprietary name (INN) or common name**
+    - belumosudil
+- **Therapeutic area (MeSH)**
+    - Graft vs Host Disease
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AA48
 
 ### Pharmacotherapeutic group
 
@@ -613,39 +609,40 @@ Rezurock is indicated for the treatment of adults and paediatric patients (12 ye
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006421
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Conditional approval
-
-This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Sanofi Winthrop Industrie
-
-82 Avenue Raspail
-
-Opinion adopted
-
-29/01/2026
-
-Marketing authorisation issued
-
-24/03/2026
+- **EMA product number**
+    - EMEA/H/C/006421
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Conditional approval**
+    - This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Sanofi Winthrop Industrie 82 Avenue Raspail  94250 Gentilly  FRANCE
+- **Opinion adopted**
+    - 29/01/2026
+- **Marketing authorisation issued**
+    - 24/03/2026
+- **Revision**
+    - 1
 
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Rezurock : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (140.31 KB - PDF)
+
+**First published:** 25/08/2026
+
+[View](/en/documents/procedural-steps-after/rezurock-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Rezurock : EPAR - Public assessment report
 
@@ -713,6 +710,6 @@ English (EN) (109.64 KB - PDF)
 
 **This page was last updated on**
 
-17/04/2026
+25/08/2026
 
 ## Share this page

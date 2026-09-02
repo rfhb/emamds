@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-28 12:35:00
+document_datetime: 2026-08-25 10:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vpriv.html
 document_name: vpriv.html
 version: success
-processing_time: 0.0834194
-conversion_datetime: 2026-01-29 11:36:49.720868
+processing_time: 0.1585981
+conversion_datetime: 2026-09-02 22:33:36.940876
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Vpriv
 
 [RSS](/en/individual-human-medicine.xml/65554)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-velaglucerase alfa Medicine Human Authorised
+velaglucerase alfa
+
+Medicine Human Authorised
 
 Page contents
 
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [More information on Vpriv](#more-information-on-vpriv-465)
+- [More information on Vpriv](#related-medicines)
 - [Topics](#topics)
 
 - Application under evaluation
@@ -50,11 +53,11 @@ Expand section
 
 Collapse section
 
-## What is Vpriv?
+### What is Vpriv?
 
 Vpriv is a powder that is made up into a solution for infusion (drip) into a vein. It contains the active substance velaglucerase alfa.
 
-## What is Vpriv used for?
+### What is Vpriv used for?
 
 Vpriv is used for the long-term treatment of patients with Gaucher disease. Gaucher disease is a rare inherited disorder, in which people do not have enough of an enzyme called glucocerebrosidase, which normally breaks down a fat called glucocerebroside. Without the enzyme, glucocerebroside builds up in the body, typically in the liver, spleen and bone, which produces the symptoms of the disease: anaemia (low red-blood-cell counts), tiredness, easy bruising and a tendency to bleed, an enlarged spleen and liver, and bone pain and breaks.
 
@@ -64,39 +67,39 @@ Because the number of patients with Gaucher disease is low, the disease is consi
 
 The medicine can only be obtained with a prescription.
 
-## How is Vpriv used?
+### How is Vpriv used?
 
 Vpriv treatment should be supervised by a doctor experienced in managing Gaucher disease.
 
 The recommended dose of Vpriv is 60 units/kg bodyweight, which is given as a one?hour infusion once every two weeks. The dose can be adjusted according to each patient's symptoms and response to treatment. The first three infusions are given in hospital, but subsequent infusions may be given at home in patients who tolerate the medicine well. Home infusions should be supervised by a healthcare professional trained in emergency measures.
 
-## How does Vpriv work?
+### How does Vpriv work?
 
 Gaucher disease occurs because of the lack of an enzyme called glucocerebrosidase. Velaglucerase alfa replaces the missing enzyme in Gaucher disease, helping to break down glucocerebroside and stopping it building up in the body.
 
-## How has Vpriv been studied?
+### How has Vpriv been studied?
 
 In one main study involving 35 patients (including 9 children) with type 1 Gaucher disease, Vpriv was compared with imiglucerase (another medicine for Gaucher disease). The main measure of effectiveness was the improvement in anaemia, one of the symptoms of the disease, after 41 weeks. The study also looked at control of other signs of the disease such as the increase in the number of platelets in the blood, and the reduction of the size of the liver and spleen.
 
-## What benefit has Vpriv shown during the studies?
+### What benefit has Vpriv shown during the studies?
 
 Vpriv was as effective as imiglucerase at reducing anaemia. Vpriv increased the amount of haemoglobin (the protein in red blood cells that carries oxygen) by an average of 1.6 grams per decilitre (from 11.4 g/dl) while imiglucerase increased the amount of haemoglobin by an average of 1.5 g/dl (from 10.6 g/dl). The study also showed that Vpriv is as effective as imiglucerase in controlling other signs of Gaucher disease.
 
-## What is the risk associated with Vpriv?
+### What is the risk associated with Vpriv?
 
 In studies, the most common side effects with Vpriv (seen in more than 1 patient in 10) were abdominal (belly) pain, headache, dizziness, bone pain, arthralgia (joint pain), back pain, infusion-related reactions, asthenia (weakness) or fatigue (tiredness), and pyrexia (fever) or increased body temperature. For the full list of all side effects and restrictions with Vpriv, see the package leaflet.
 
 Vpriv must not be used in people who have a severe allergic reaction to velaglucerase alfa or any of the other ingredients.
 
-## Why has Vpriv been approved?
+### Why has Vpriv been approved?
 
 The CHMP decided that Vpriv's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Vpriv?
+### What measures are being taken to ensure the safe and effective use of Vpriv?
 
 A risk management plan has been developed to ensure that Vpriv is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Vpriv, including the appropriate precautions to be followed by healthcare professionals and patients.
 
-## Other information about Vpriv:
+### Other information about Vpriv:
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Vpriv to Shire Pharmaceuticals Ireland Limited on 26 August 2010.
 
@@ -106,275 +109,141 @@ Vpriv : EPAR - Summary for the public
 
 English (EN) (81.95 KB - PDF)
 
-**First published:** 10/09/2010
-
-**Last updated:** 01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/en/documents/overview/vpriv-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-431)
+[Other languages (22)](#file-language-dropdown-317)
 
 български (BG) (109.18 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/bg/documents/overview/vpriv-epar-summary-public_bg.pdf)
 
 español (ES) (81.29 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/es/documents/overview/vpriv-epar-summary-public_es.pdf)
 
 čeština (CS) (108.04 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/cs/documents/overview/vpriv-epar-summary-public_cs.pdf)
 
 dansk (DA) (81.6 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/da/documents/overview/vpriv-epar-summary-public_da.pdf)
 
 Deutsch (DE) (83.34 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/de/documents/overview/vpriv-epar-summary-public_de.pdf)
 
-eesti keel (ET) (80.73 KB - PDF)
+eesti (ET) (80.73 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/et/documents/overview/vpriv-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (110.79 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/el/documents/overview/vpriv-epar-summary-public_el.pdf)
 
 français (FR) (82.44 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/fr/documents/overview/vpriv-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (102.46 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/hr/documents/overview/vpriv-epar-summary-public_hr.pdf)
 
 italiano (IT) (82.15 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/it/documents/overview/vpriv-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (104.92 KB - PDF)
+latviešu (LV) (104.92 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/lv/documents/overview/vpriv-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (105.27 KB - PDF)
+lietuvių (LT) (105.27 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/lt/documents/overview/vpriv-epar-summary-public_lt.pdf)
 
 magyar (HU) (102.68 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/hu/documents/overview/vpriv-epar-summary-public_hu.pdf)
 
 Malti (MT) (108.52 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/mt/documents/overview/vpriv-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (82.03 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/nl/documents/overview/vpriv-epar-summary-public_nl.pdf)
 
 polski (PL) (108.07 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/pl/documents/overview/vpriv-epar-summary-public_pl.pdf)
 
 português (PT) (82.56 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/pt/documents/overview/vpriv-epar-summary-public_pt.pdf)
 
 română (RO) (104.22 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/ro/documents/overview/vpriv-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (108.25 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/sk/documents/overview/vpriv-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (101.49 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/sl/documents/overview/vpriv-epar-summary-public_sl.pdf)
 
-Suomi (FI) (81.74 KB - PDF)
+suomi (FI) (81.74 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/fi/documents/overview/vpriv-epar-summary-public_fi.pdf)
 
 svenska (SV) (82.01 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-01/07/2016
+**First published:** 10/09/2010 **Last updated:** 01/07/2016
 
 [View](/sv/documents/overview/vpriv-epar-summary-public_sv.pdf)
 
@@ -390,311 +259,168 @@ English (EN) (93.38 KB - PDF)
 
 Vpriv : EPAR - Product Information
 
-English (EN) (396.87 KB - PDF)
+English (EN) (316.73 KB - PDF)
 
-**First published:** 10/09/2010
-
-**Last updated:** 28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/en/documents/product-information/vpriv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-815)
+[Other languages (24)](#file-language-dropdown-233)
 
-български (BG) (664.16 KB - PDF)
+български (BG) (358.77 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/bg/documents/product-information/vpriv-epar-product-information_bg.pdf)
 
-español (ES) (351.26 KB - PDF)
+español (ES) (317.74 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/es/documents/product-information/vpriv-epar-product-information_es.pdf)
 
-čeština (CS) (601.81 KB - PDF)
+čeština (CS) (357.19 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/cs/documents/product-information/vpriv-epar-product-information_cs.pdf)
 
-dansk (DA) (379.64 KB - PDF)
+dansk (DA) (335.98 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/da/documents/product-information/vpriv-epar-product-information_da.pdf)
 
-Deutsch (DE) (369.24 KB - PDF)
+Deutsch (DE) (329.7 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/de/documents/product-information/vpriv-epar-product-information_de.pdf)
 
-eesti keel (ET) (328.63 KB - PDF)
+eesti (ET) (337.83 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/et/documents/product-information/vpriv-epar-product-information_et.pdf)
 
-ελληνικά (EL) (661.6 KB - PDF)
+ελληνικά (EL) (349.84 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/el/documents/product-information/vpriv-epar-product-information_el.pdf)
 
-français (FR) (360.36 KB - PDF)
+français (FR) (338.13 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/fr/documents/product-information/vpriv-epar-product-information_fr.pdf)
 
-hrvatski (HR) (578.55 KB - PDF)
+hrvatski (HR) (324.55 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/hr/documents/product-information/vpriv-epar-product-information_hr.pdf)
 
-íslenska (IS) (379.01 KB - PDF)
+italiano (IT) (334.89 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
-
-[View](/is/documents/product-information/vpriv-epar-product-information_is.pdf)
-
-italiano (IT) (346.67 KB - PDF)
-
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/it/documents/product-information/vpriv-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (673.92 KB - PDF)
+latviešu (LV) (350.55 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/lv/documents/product-information/vpriv-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (606.32 KB - PDF)
+lietuvių (LT) (326 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/lt/documents/product-information/vpriv-epar-product-information_lt.pdf)
 
-magyar (HU) (534.44 KB - PDF)
+magyar (HU) (342.85 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/hu/documents/product-information/vpriv-epar-product-information_hu.pdf)
 
-Malti (MT) (620.34 KB - PDF)
+Malti (MT) (382.22 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/mt/documents/product-information/vpriv-epar-product-information_mt.pdf)
 
-Nederlands (NL) (354.57 KB - PDF)
+Nederlands (NL) (319.95 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/nl/documents/product-information/vpriv-epar-product-information_nl.pdf)
 
-norsk (NO) (368.99 KB - PDF)
+polski (PL) (364.99 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
-
-[View](/no/documents/product-information/vpriv-epar-product-information_no.pdf)
-
-polski (PL) (623.8 KB - PDF)
-
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/pl/documents/product-information/vpriv-epar-product-information_pl.pdf)
 
-português (PT) (355.63 KB - PDF)
+português (PT) (316.2 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/pt/documents/product-information/vpriv-epar-product-information_pt.pdf)
 
-română (RO) (564.61 KB - PDF)
+română (RO) (330.59 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/ro/documents/product-information/vpriv-epar-product-information_ro.pdf)
 
-slovenčina (SK) (654.6 KB - PDF)
+slovenčina (SK) (361.66 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/sk/documents/product-information/vpriv-epar-product-information_sk.pdf)
 
-slovenščina (SL) (555.16 KB - PDF)
+slovenščina (SL) (318.13 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/sl/documents/product-information/vpriv-epar-product-information_sl.pdf)
 
-Suomi (FI) (316.37 KB - PDF)
+suomi (FI) (298.23 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/fi/documents/product-information/vpriv-epar-product-information_fi.pdf)
 
-svenska (SV) (354.8 KB - PDF)
+svenska (SV) (311.5 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-28/01/2026
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
 
 [View](/sv/documents/product-information/vpriv-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0063 15/01/2025
+Íslenska (IS) (342.61 KB - PDF)
+
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
+
+[View](/is/documents/product-information/vpriv-epar-product-information_is.pdf)
+
+norsk (NO) (331.08 KB - PDF)
+
+**First published:** 10/09/2010 **Last updated:** 25/08/2026
+
+[View](/no/documents/product-information/vpriv-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000361662
+
+24/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -708,293 +434,162 @@ Vpriv : EPAR - All Authorised presentations
 
 English (EN) (14.68 KB - PDF)
 
-**First published:** 10/09/2010
-
-**Last updated:** 15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/en/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-375)
+[Other languages (23)](#file-language-dropdown-769)
 
 български (BG) (36.78 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/bg/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (14.57 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/es/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (31.93 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/cs/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (14.91 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/da/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (14.6 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/de/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (14.43 KB - PDF)
+eesti (ET) (14.43 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/et/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (34.32 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/el/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (14.49 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/fr/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_fr.pdf)
 
-íslenska (IS) (14.48 KB - PDF)
-
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
-
-[View](/is/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (14.49 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/it/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (32.76 KB - PDF)
+latviešu (LV) (32.76 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/lv/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (28.94 KB - PDF)
+lietuvių (LT) (28.94 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/lt/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (22.66 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/hu/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (29.19 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/mt/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (14.46 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/nl/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (14.45 KB - PDF)
-
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
-
-[View](/no/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (31.09 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/pl/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (14.5 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/pt/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (31.78 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/ro/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (29.97 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/sk/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (20.75 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/sl/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (14.4 KB - PDF)
+suomi (FI) (14.4 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/fi/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (14.44 KB - PDF)
 
-**First published:**
-
-10/09/2010
-
-**Last updated:**
-
-15/05/2013
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
 
 [View](/sv/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (14.48 KB - PDF)
+
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
+
+[View](/is/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (14.45 KB - PDF)
+
+**First published:** 10/09/2010 **Last updated:** 15/05/2013
+
+[View](/no/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Vpriv Active substance velaglucerase alfa International non-proprietary name (INN) or common name velaglucerase alfa Therapeutic area (MeSH) Gaucher Disease Anatomical therapeutic chemical (ATC) code A16AB10
+- **Name of medicine**
+    - Vpriv
+- **Active substance**
+    - velaglucerase alfa
+- **International non-proprietary name (INN) or common name**
+    - velaglucerase alfa
+- **Therapeutic area (MeSH)**
+    - Gaucher Disease
+- **Anatomical therapeutic chemical (ATC) code**
+    - A16AB10
 
 ### Pharmacotherapeutic group
 
@@ -1006,19 +601,18 @@ Vpriv is indicated for long-term enzyme-replacement therapy (ERT) in patients wi
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/001249
-
-Accelerated assessment
-
-This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
-
-Marketing authorisation holder
-
-Takeda Pharmaceuticals International AG Ireland Branch
-
-Block 2 Miesian Plaza
-
-Opinion adopted 04/06/2010 Marketing authorisation issued 26/08/2010 Revision 21
+- **EMA product number**
+    - EMEA/H/C/001249
+- **Accelerated assessment**
+    - This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
+- **Marketing authorisation holder**
+    - Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza  50-58 Baggot Street Lower  Dublin 2  Co Dublin  D02 HW68  Ireland
+- **Opinion adopted**
+    - 04/06/2010
+- **Marketing authorisation issued**
+    - 26/08/2010
+- **Revision**
+    - 22
 
 ## Assessment history
 
@@ -1026,23 +620,27 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Vpriv : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (273.65 KB - PDF)
+English (EN) (156.79 KB - PDF)
 
-**First published:** 18/11/2010
-
-**Last updated:** 28/01/2026
+**First published:** 25/08/2026
 
 [View](/en/documents/procedural-steps-after/vpriv-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
+Vpriv : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (273.65 KB - PDF)
+
+**First published:** 18/11/2010 **Last updated:** 25/08/2026
+
+[View](/en/documents/procedural-steps-after/vpriv-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
 Vpriv-H-C-001249-P46-033 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/116407/2025
+Adopted Reference Number: EMA/116407/2025
 
 English (EN) (389.19 KB - PDF)
 
@@ -1052,9 +650,7 @@ English (EN) (389.19 KB - PDF)
 
 Vpriv-H-C-001249-P46-032 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/116426/2025
+Adopted Reference Number: EMA/116426/2025
 
 English (EN) (569.01 KB - PDF)
 
@@ -1064,9 +660,7 @@ English (EN) (569.01 KB - PDF)
 
 Vpriv-H-C-001249-P46-031 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/235244/2024
+Adopted Reference Number: EMA/235244/2024
 
 English (EN) (463.34 KB - PDF)
 
@@ -1074,42 +668,40 @@ English (EN) (463.34 KB - PDF)
 
 [View](/en/documents/variation-report/vpriv-h-c-001249-p46-031-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Vpriv : EPAR - Public assessment report
 
 English (EN) (1.12 MB - PDF)
 
-**First published:** 10/09/2010
-
-**Last updated:** 10/09/2010
+**First published:** 10/09/2010 **Last updated:** 10/09/2010
 
 [View](/en/documents/assessment-report/vpriv-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Vpriv
 
-Adopted
-
-Reference Number: EMA/CHMP/384050/2010
+Adopted Reference Number: EMA/CHMP/384050/2010
 
 English (EN) (49.68 KB - PDF)
 
-**First published:** 25/06/2010
-
-**Last updated:** 25/06/2010
+**First published:** 25/06/2010 **Last updated:** 25/06/2010
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-vpriv_en.pdf)
 
-#### More information on Vpriv
+## More information on Vpriv
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu-3-10-752) on 6 June 2010. Vpriv was withdrawn from the Community register of orphan medicinal products in August 2022 at the end of the 12-year period of market exclusivity.
 
-#### Topics
+## More information on Vpriv
+
+- [TAK-669-4018: A Survey Among Patients, Caregivers and Home Infusion Nurses Based in the European Union to Assess Their Awareness and Understanding of Educational Materials Supporting VPRIV® Infusion at Home - post-authorisation study](https://catalogues.ema.europa.eu/study/49599)
+
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 28/01/2026
+**This page was last updated on**
+
+25/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

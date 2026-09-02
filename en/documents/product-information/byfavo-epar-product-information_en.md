@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-28 09:27:57
+document_datetime: 2026-08-26 09:27:48
 document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/byfavo-epar-product-information_en.pdf
 document_name: byfavo-epar-product-information_en.pdf
 version: success
-processing_time: 18.638249
-conversion_datetime: 2025-12-25 10:41:14.30562
+processing_time: 19.657142
+conversion_datetime: 2026-09-02 21:56:38.951602
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -62,10 +62,10 @@ Opioid co-administered medicinal products are known to increase the sedative eff
 
 Table 1: Dosing guidelines for adults *
 
-|                                    | Adults < 65 years of age                                                                                                                                                                                  | Elderly ≥ 65 years of age and/or with ASA-PS # III-IV and/or body weight < 50 kg                                                                                                                                         |
-|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Procedural sedation with opioid**  | Induction Administer opioid* Wait 1-2 min Initial dose: Injection: 5 mg (2 mL) over 1 min Wait 2 min Maintenance / titration Injection: 2.5 mg (1 mL) over 15 sec Maximal total dose administrated in the | Induction Administer opioid* Wait 1-2 min Initial dose: Injection: 2.5-5 mg (1-2 mL) over 1 min Wait 2 min Maintenance / titration Injection: 1.25-2.5 mg (0.5-1 mL) over 15 sec Maximal total dose administrated in the |
-| Procedural sedation without opioid | Induction Injection: 7 mg (2.8 mL) over 1 min Wait 2 min Maintenance / titration Injection: 2.5 mg (1 mL) over 15 sec Maximal total dose administrated in the clinical trials was 33 mg.                  | Induction Injection: 2.5-5 mg (1-2 mL) over 1 min Wait 2 min Maintenance / titration Injection: 1.25-2.5 mg (0.5-1 mL) over 15 sec Maximal total dose administrated in the clinical trials was 17.5 mg.                  |
+|                                    | Adults < 65 years of age                                                                                                                                                                                            | Elderly ≥ 65 years of age and/or with ASA-PS # III-IV and/or body weight < 50 kg                                                                                                                                                     |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Procedural sedation with opioid**  | Induction Administer opioid* Wait 1-2 min Initial dose: Injection: 5 mg (2 mL) over 1 min Wait 2 min Maintenance / titration Injection: 2.5 mg (1 mL) over 15 sec Maximal total dose administrated in the           | Induction Administer opioid* Wait 1-2 min Initial dose: Injection: 2.5-5 mg (1-2 mL) over 1 min Wait 2 min Maintenance / titration Injection: 1.25-2.5 mg (0.5-1 mL) over 15 sec Maximal total dose administrated in the             |
+| Procedural sedation without opioid | clinical trials was 33 mg. Induction Injection: 7 mg (2.8 mL) over 1 min Wait 2 min Maintenance / titration Injection: 2.5 mg (1 mL) over 15 sec Maximal total dose administrated in the clinical trials was 33 mg. | clinical trials was 17.5 mg. Induction Injection: 2.5-5 mg (1-2 mL) over 1 min Wait 2 min Maintenance / titration Injection: 1.25-2.5 mg (0.5-1 mL) over 15 sec Maximal total dose administrated in the clinical trials was 17.5 mg. |
 
 # American Society of Anesthesiologists Physical Status
 
@@ -159,11 +159,9 @@ Remimazolam is metabolised by CES, type 1A. No in vivo drug interaction study wa
 
 ## Increased sedation with CNS depressants and opioids
 
-The co-administration of remimazolam with opioids and CNS depressants, including alcohol, is likely to result in enhanced sedation and cardiorespiratory depression. Examples include opiate derivatives (used as analgesics, antitussives or substitutive treatments), antipsychotics, other benzodiazepines (used as anxiolytics or hypnotics), barbiturates, propofol, ketamine, etomidate; sedative
+The co-administration of remimazolam with opioids and CNS depressants, including alcohol, is likely to result in enhanced sedation and cardiorespiratory depression. Examples include opiate derivatives (used as analgesics, antitussives or substitutive treatments), antipsychotics, other benzodiazepines (used as anxiolytics or hypnotics), barbiturates, propofol, ketamine, etomidate; sedative antidepressants, non recent H1-antihistamines and centrally acting antihypertensive medicinal products.
 
 <div style=\"page-break-after: always\"></div>
-
-antidepressants, non recent H1-antihistamines and centrally acting antihypertensive medicinal products.
 
 Concomitant use of remimazolam and opioids may result in profound sedation and respiratory depression. Patients should be monitored for respiratory depression and depth of sedation (see sections 4.2 and 4.4).
 
@@ -197,11 +195,9 @@ The most frequent adverse reactions in patients with intravenous remimazolam are
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions associated with intravenous remimazolam observed in controlled clinical trials in procedural sedation and the postmarketing setting are tabulated below in Table 2 according to the MedDRA system organ classification and frequency. Within each frequency grouping, adverse
+Adverse reactions associated with intravenous remimazolam observed in controlled clinical trials in procedural sedation and the postmarketing setting are tabulated below in Table 2 according to the MedDRA system organ classification and frequency. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.. Frequency groupings are as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (cannot be estimated from available data).
 
 <div style=\"page-break-after: always\"></div>
-
-reactions are presented in order of decreasing seriousness.. Frequency groupings are as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (cannot be estimated from available data).
 
 Table 2: Tabulated list of adverse reactions
 
@@ -231,27 +227,25 @@ The reported adverse reactions hypotension, respiratory depression and bradycard
 
 Table 3: Selected adverse reactions
 
-| Adverse reaction           | Mild   | Moderate   | Severe   |
-|----------------------------|--------|------------|----------|
-| Reported event term        |        |            |          |
-| Bradycardia                |        |            |          |
-| Bradycardia                | 6.0%   | 0.1%       | 0.4%     |
-| Hypotension                |        |            |          |
-| Hypotension                | 30.1%  | 1.1%       | 0.1%     |
-| Diastolic hypotension      | 8.7%   | 0          | 0        |
-| Respiratory depression     |        |            |          |
-| Hypoxia                    | 8.0%   | 0.9%       | 0.3%     |
-| Respiratory rate decreased | 1.5%   | 0.4%       | 0        |
+| Adverse reaction Reported event   | Mild   | Moderate   | Severe   |
+|-----------------------------------|--------|------------|----------|
+| term                              |        |            |          |
+| Bradycardia                       |        |            |          |
+| Bradycardia                       | 6.0%   | 0.1%       | 0.4%     |
+| Hypotension                       |        |            |          |
+| Hypotension                       | 30.1%  | 1.1%       | 0.1%     |
+| Diastolic hypotension             | 8.7%   | 0          | 0        |
+| Respiratory depression            |        |            |          |
+| Hypoxia                           | 8.0%   | 0.9%       | 0.3%     |
+| Respiratory rate decreased        | 1.5%   | 0.4%       | 0        |
 
 ## Other special populations
 
 ## Elderly and/or patients with ASA-PS III-IV
 
-In controlled trials in procedural sedation, patients ≥65 years old had a higher frequency of events grouped under the terms hypotension (47.0% vs 33.3%) and respiratory depression (22.8% vs 9.0%) than patients below 65 years old. Patients with ASA-PS III-IV also showed higher frequencies for
+In controlled trials in procedural sedation, patients ≥65 years old had a higher frequency of events grouped under the terms hypotension (47.0% vs 33.3%) and respiratory depression (22.8% vs 9.0%) than patients below 65 years old. Patients with ASA-PS III-IV also showed higher frequencies for hypotension (43.6% vs 35.6%) and respiratory depression (17.6% vs 11.8%) than patients with ASAPS I-II. Older age and higher ASA-PS were not associated with a higher frequency of bradycardia. See also sections 4.2 and 4.4.
 
 <div style=\"page-break-after: always\"></div>
-
-hypotension (43.6% vs 35.6%) and respiratory depression (17.6% vs 11.8%) than patients with ASAPS I-II. Older age and higher ASA-PS were not associated with a higher frequency of bradycardia. See also sections 4.2 and 4.4.
 
 ## Patients with hepatic impairment
 
@@ -576,7 +570,7 @@ EU/1/20/1505/001
 
 Date of first authorisation: March 26, 2021
 
-Date of latest renewal:
+Date of latest renewal: November 17, 2025
 
 <div style=\"page-break-after: always\"></div>
 
@@ -706,11 +700,9 @@ Remimazolam should be administered only by health care professionals trained in 
 
 ## Amnesia
 
-Remimazolam can cause anterograde amnesia. Amnesia, if prolonged, can present problems in outpatients, who are scheduled for discharge following intervention. After receiving remimazolam,
+Remimazolam can cause anterograde amnesia. Amnesia, if prolonged, can present problems in outpatients, who are scheduled for discharge following intervention. After receiving remimazolam, patients should be assessed and discharged from hospital or consulting room by their physician, only with appropriate advice and support.
 
 <div style=\"page-break-after: always\"></div>
-
-patients should be assessed and discharged from hospital or consulting room by their physician, only with appropriate advice and support.
 
 ## Hepatic impairment
 
@@ -827,11 +819,9 @@ Table 1: Tabulated list of adverse reactions
 
 ## Description of selected adverse reactions
 
-The reported adverse reactions hypotension, respiratory depression and bradycardia represent medical concepts which encompass a group of events (refer to footnotes 1 - 3 under table 1); the incidence of
+The reported adverse reactions hypotension, respiratory depression and bradycardia represent medical concepts which encompass a group of events (refer to footnotes 1 - 3 under table 1); the incidence of those reported in at least 1% of patients who received remimazolam are presented in table 2 below by severity level:
 
 <div style=\"page-break-after: always\"></div>
-
-those reported in at least 1% of patients who received remimazolam are presented in table 2 below by severity level:
 
 Table 2: Selected adverse reactions
 
@@ -916,7 +906,7 @@ CNS7056-022: This was a European, confirmatory trial to establish non-inferior e
 The primary endpoints in the pivotal clinical trials, were defined as :
 
 - Percentage of general anaesthesia maintenance time with Narcotrend index (NCI) ≤60 (CNS7056-022)
-- Functional capability as a general anaesthetic as assessed by a composite of 3 variables: ' intraoperative awakening or recall ' , ' requirement of rescue sedation with other sedatives ' and ' body movement. ' (ONO-2745-05).
+- Functional capability as a general anaesthetic as assessed by a composite of 3 variables: 'intraoperative awakening or recall', 'requirement of rescue sedation with other sedatives' and 'body movement.' (ONO -2745-05).
 
 The primary endpoint was reached in both clinical trials (see table 3). All doses of remimazolam were non-inferior to propofol.
 
@@ -936,23 +926,23 @@ In CNS7056-022, haemodynamic stability, assessed as absolute or relative hypoten
 
 Table 4: Secondary endpoints in phase 3 clinical trial CNS7056-022
 
-| Endpoint                                                     | Remimazolam N = 270      | Propofol N = 95          |
-|--------------------------------------------------------------|--------------------------|--------------------------|
-| MAP < 65 mmHg                                                |                          |                          |
-| Mean ± Standard deviation                                    | 6.62 ± 6.604             | 8.55 ± 8.944 (6.75 to    |
-| CI 95%                                                       | (5.83 to 7.41)           | 10.4)                    |
-| Median (minimum, maximum)                                    | 5 (2, 10)                | 6 (3, 11)                |
-| Difference of least square means between treatments (95% CI) | 1.9292 (0.2209 - 3.6375) | 1.9292 (0.2209 - 3.6375) |
-| Norepinephrine Use                                           |                          |                          |
-| Mean ± Standard deviation                                    | 14.06 ± 13.540           | 19.86 ± 14.560           |
-| CI 95%                                                       | (12.4 to 15.7)           | (16.9 to 22.8)           |
-| Median (minimum, maximum)                                    | 12 (0, 63)               | 21 (0, 66)               |
-| Difference of least square means between treatments (95% CI) | 5.8009 (2.5610 - 9.0409) | 5.8009 (2.5610 - 9.0409) |
-| MAP < 65 mmHg AND/OR Norepinephrine use Number of events     |                          |                          |
-| Mean ± Standard deviation                                    | 20.68 ± 16.444           | 28.41 ± 17.468           |
-| CI 95%                                                       | (18.7 to 22.6)           | (24.9 to 31.9)           |
-| Median (minimum, maximum)                                    | 21 (0, 68)               | 30 (0, 75)               |
-| Difference of least square means between treatments (95% CI) | 7.7301 (3.8090 - 11.651) | 7.7301 (3.8090 - 11.651) |
+| Endpoint                                                                                                        | Remimazolam N = 270      | Propofol N = 95          |
+|-----------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------|
+| MAP < 65 mmHg MAP <65 mmHg within start of IMP to 15 minutes after first skin incision over 1 minute, number of |                          |                          |
+| events Mean ± Standard deviation                                                                                | 6.62 ± 6.604             | 8.55 ± 8.944 (6.75 to    |
+| CI 95%                                                                                                          | (5.83 to 7.41)           | 10.4)                    |
+| Median (minimum, maximum)                                                                                       | 5 (2, 10)                | 6 (3, 11)                |
+| Difference of least square means between treatments (95% CI)                                                    | 1.9292 (0.2209 - 3.6375) | 1.9292 (0.2209 - 3.6375) |
+| Norepinephrine Use Norepinephrine boluses or infusion or continuous                                             |                          |                          |
+| infusion over 2 minutes, number of events Mean ± Standard deviation                                             | 14.06 ± 13.540           | 19.86 ± 14.560           |
+| CI 95%                                                                                                          | (12.4 to 15.7)           | (16.9 to 22.8)           |
+| Median (minimum, maximum)                                                                                       | 12 (0, 63)               | 21 (0, 66)               |
+| Difference of least square means between treatments (95% CI)                                                    | 5.8009 (2.5610 - 9.0409) | 5.8009 (2.5610 - 9.0409) |
+| MAP < 65 mmHg AND/OR Norepinephrine use Number of events                                                        |                          |                          |
+| Mean ± Standard deviation                                                                                       | 20.68 ± 16.444           | 28.41 ± 17.468           |
+| CI 95%                                                                                                          | (18.7 to 22.6)           | (24.9 to 31.9)           |
+| Median (minimum, maximum)                                                                                       | 21 (0, 68)               | 30 (0, 75)               |
+| Difference of least square means between treatments (95% CI)                                                    | 7.7301 (3.8090 - 11.651) | 7.7301 (3.8090 - 11.651) |
 
 IMP = investigational medicinal product; MAP = mean arterial pressure
 
@@ -960,15 +950,15 @@ The onset and recovery profile of remimazolam was characterised by time-to-event
 
 Table 5: Induction and recovery endpoints in phase 3 clinical trials
 
-| Median time         | CNS 7056-022   | CNS 7056-022   | ONO-2745-05   | ONO-2745-05   | ONO-2745-05   |
-|---------------------|----------------|----------------|---------------|---------------|---------------|
-|                     | RMZ 1          | PROP 4         | RMZ6 2        | RMZ12 3       | PROP          |
-| Induction endpoints |                |                |               |               |               |
-| - Time to loss of   | 2.5 min        | 3 min          | 100.5 s       | 87.5 s        | 80 s          |
-| Patients (n)        | 268            | 95             | 150           | 150           | 75            |
-| 95% CI              | 2.5 - 2.8 min  | 3.0 - 3.2 min  | NA            | NA            | NA            |
-| Q1; Q3              | 2.0; 3.3 min   | 2.5; 3.7 min   | NA            | NA            | NA            |
-| Min; Max            | NA             | NA             | 24; 165 s     | 30; 170 s     | 17; 280 s     |
+| Median time                     | CNS 7056-022   | CNS 7056-022   | ONO-2745-05   | ONO-2745-05   | ONO-2745-05   |
+|---------------------------------|----------------|----------------|---------------|---------------|---------------|
+|                                 | RMZ 1          | PROP 4         | RMZ6 2        | RMZ12 3       | PROP          |
+| Induction endpoints             |                |                |               |               |               |
+| - Time to loss of consciousness | 2.5 min        | 3 min          | 100.5 s       | 87.5 s        | 80 s          |
+| Patients (n)                    | 268            | 95             | 150           | 150           | 75            |
+| 95% CI                          | 2.5 - 2.8 min  | 3.0 - 3.2 min  | NA            | NA            | NA            |
+| Q1; Q3                          | 2.0; 3.3 min   | 2.5; 3.7 min   | NA            | NA            | NA            |
+| Min; Max                        | NA             | NA             | 24; 165 s     | 30; 170 s     | 17; 280 s     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -979,7 +969,7 @@ Table 5: Induction and recovery endpoints in phase 3 clinical trials
 | - Extubation Patients (n) 95% CI Q1; Q3 Min; Max                    | 12 min 263 11 - 13 min 8; 18 min NA  | 11 min 95 10 - 12 min 8; 15 min NA  | 15.5 min 150 NA NA 3; 104 min | 18 min 150 NA NA 2; 58 min  | 12 min 75 NA NA 3; 42 min |
 | - Awakening # Patients (n) 95% CI Q1; Q3 Min; Max                   | 15 min 257 13 - 17 min 9; 26 min NA  | 12 min 95 10 - 13 min 8; 16 min NA  | 12 min 150 NA NA 1; 87 min    | 12 min 150 NA NA 0; 50 min  | 10 min 75 NA NA 0; 24 min |
 | - Orientation ## Patients (n) 95% CI Q1; Q3 Min; Max                | 54 min 262 47 - 61 min 31; 88 min NA | 30 min 95 27 - 33 min 22; 48 min NA | 21 min 149 NA NA 3; 106 min   | 21 min 149 NA NA 2; 125 min | 14 min 75 NA NA 4; 86 min |
-| - Modified Aldrete score ≥ 9 Patients (n) 95% CI Q1; Q3 …Min; Max   | 53 min 260 44 - 58 min 30; 98 min NA | 37 min 94 28 - 45 min 21; 88 min NA | NA                            | NA                          | NA                        |
+| - Modified Aldrete score ≥9 Patients (n) 95% CI Q1; Q3 …Min; Max    | 53 min 260 44 - 58 min 30; 98 min NA | 37 min 94 28 - 45 min 21; 88 min NA | NA                            | NA                          | NA                        |
 | - Discharge from operation room Patients (n) 95% CI Q1; Q3 Min; Max | NA                                   | NA                                  | 25 min 150 NA NA 4; 144 min   | 25 min 150 NA NA 5; 125 min | 16 min 75 NA NA 5; 87 min |
 
 Induction doses remimazolam (1) 6 mg/min, (2) 6 mg/kg/h or (3) 12 mg/kg/h, (4) propofol dose equipotent to remimazolam
@@ -1161,7 +1151,7 @@ EU/1/20/1505/002
 
 Date of first authorisation: 26 March 2021
 
-Date of latest renewal:
+Date of latest renewal: November 17, 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1182,8 +1172,6 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers responsible for batch release
 
-PAION Deutschland GmbH Heussstraße 25 52078 Aachen Germany
-
 PAION Pharma GmbH Heussstraße 25 52078 Aachen Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
@@ -1194,7 +1182,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## -Periodic safety update reports (PSURs)
+## - Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicine ' s web-portal.
 
@@ -1202,7 +1190,7 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## -Risk management plan (RMP)
+## - Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -1286,9 +1274,7 @@ EU/1/20/1505/001 10 vial pack
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1307,16 +1293,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| 12mL Glass vial                                                  |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| 12mL Glass vial                                                    |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Byfavo 20 mg powder for solution for injection remimazolam IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1328,8 +1314,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 After reconstitution: 2.5 mg/mL
 
@@ -1390,11 +1376,11 @@ Keep the vials in the outer carton to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 PAION Pharma GmbH Heussstraße 25 52078 Aachen Germany
 
@@ -1424,8 +1410,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1463,9 +1449,9 @@ Lot
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1488,19 +1474,19 @@ Byfavo is a sedative given before a medical test or procedure to make you feel r
 
 ## You must not be given Byfavo if:
 
-- -you are allergic to remimazolam or other benzodiazepines (such as midazolam) or any of the other ingredients of this medicine (listed in section 6).
-- -you have an unstable form of a condition called myasthenia gravis (weakness of muscles) in which your chest muscles that help you breathe get weak
+- you are allergic to remimazolam or other benzodiazepines (such as midazolam) or any of the other ingredients of this medicine (listed in section 6).
+- you have an unstable form of a condition called myasthenia gravis (weakness of muscles) in which your chest muscles that help you breathe get weak
 
 ## Warnings and precautions
 
 Talk to your doctor or nurse before using Byfavo if you have any severe illness or condition and in particular if:
 
-- -you have very low or very high blood pressure or tend to faint
-- -you have heart problems especially a very slow and/or irregular (arrhythmic) heart rate
-- -you have any breathing problems including shortness of breath
-- -you have severe liver problems.
-- -you have a condition called myasthenia gravis in which your muscles are weak
-- -you regularly take recreational drugs or you have had problems with drug use in the past.
+- you have very low or very high blood pressure or tend to faint
+- you have heart problems especially a very slow and/or irregular (arrhythmic) heart rate
+- you have any breathing problems including shortness of breath
+- you have severe liver problems.
+- you have a condition called myasthenia gravis in which your muscles are weak
+- you regularly take recreational drugs or you have had problems with drug use in the past.
 
 Byfavo can cause temporary loss of memory. Your doctor will assess you before you leave the hospital or clinic and give you necessary advice.
 
@@ -1514,13 +1500,13 @@ Byfavo should not be given to patients under the age of 18 years because it has 
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines, in particular about:
 
-- -opioids (including painkillers such as morphine, fentanyl and codeine or certain cough medicines or medicines for use in drug substitution therapy)
-- -antipsychotics (medicines to treat certain psychiatric illnesses)
-- -anxiolytics (tranquilizers or medicines that reduce anxiety)
-- -medicines that cause sedation (for example temazepam or diazepam)
-- -antidepressants (medicines to treat depression)
-- -certain antihistamines (medicines to treat allergies)
-- -certain antihypertensives (medicines to treat high blood pressure)
+- opioids (including painkillers such as morphine, fentanyl and codeine or certain cough medicines or medicines for use in drug substitution therapy)
+- antipsychotics (medicines to treat certain psychiatric illnesses)
+- anxiolytics (tranquilizers or medicines that reduce anxiety)
+- medicines that cause sedation (for example temazepam or diazepam)
+- antidepressants (medicines to treat depression)
+- certain antihistamines (medicines to treat allergies)
+- certain antihypertensives (medicines to treat high blood pressure)
 
 It is important to tell your doctor or nurse if you are taking other medicines, as using more than one at the same time can change the effect of the medicines involved.
 
@@ -1528,7 +1514,7 @@ It is important to tell your doctor or nurse if you are taking other medicines, 
 
 Alcohol can change the effect of Byfavo. Tell your doctor or nurse:
 
-- -how much alcohol you drink regularly or if you have had problems with alcohol use;
+- how much alcohol you drink regularly or if you have had problems with alcohol use;
 
 Do not drink alcohol for 24 hours before you are given Byfavo.
 
@@ -1562,19 +1548,19 @@ Your doctor or nurse will check on you for a while after sedation to make sure t
 
 If you are given too much Byfavo, you may have the following symptoms:
 
-- -you may feel dizzy
-- -you may get confused
-- -you may feel sleepy
-- -your eyesight may get blurry or you may have involuntary eye movements (dancing eyes)
-- -you may get agitated
+- you may feel dizzy
+- you may get confused
+- you may feel sleepy
+- your eyesight may get blurry or you may have involuntary eye movements (dancing eyes)
+- you may get agitated
 
 <div style=\"page-break-after: always\"></div>
 
-- -you may feel weak
-- -your blood pressure may drop
-- -your heartbeat may slow down
-- -your breathing may become slow and shallow
-- -you may lose consciousness
+- you may feel weak
+- your blood pressure may drop
+- your heartbeat may slow down
+- your breathing may become slow and shallow
+- you may lose consciousness
 
 Your doctor will know how to treat you.
 
@@ -1586,27 +1572,27 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Very common (may affect more than 1 in 10 users)
 
-- -Low blood pressure
-- -Unusually slow or shallow breathing (and low oxygen level in blood)
+- Low blood pressure
+- Unusually slow or shallow breathing (and low oxygen level in blood)
 
 Common (may affect up to 1 in 10 users)
 
-- -Headache
-- -Feeling dizzy
-- -Slow heart rate
-- -Feeling sick (nausea)
-- -Being sick (vomiting)
+- Headache
+- Feeling dizzy
+- Slow heart rate
+- Feeling sick (nausea)
+- Being sick (vomiting)
 
 Uncommon (may affect up to 1 in 100 users)
 
-- -Sleepiness
-- -Feeling cold
-- -Chills
-- -Hiccups
+- Sleepiness
+- Feeling cold
+- Chills
+- Hiccups
 
 Not known (frequency cannot be estimated from the available data)
 
-- -sudden, severe allergic reaction
+- sudden, severe allergic reaction
 
 ## Reporting of side effects
 
@@ -1632,12 +1618,12 @@ Do not use this medicine if you notice visible particulate matter or discolourat
 
 ## What Byfavo contains
 
-- -The active substance is remimazolam. Each vial contains remimazolam besylate equivalent to 20 mg of remimazolam. After reconstitution each mL contains 2.5 mg of remimazolam.
-- -The other ingredients are:
-- -Dextran 40 for injection
-- -Lactose monohydrate
-- -Hydrochloric acid
-- -Sodium hydroxide
+- The active substance is remimazolam. Each vial contains remimazolam besylate equivalent to 20 mg of remimazolam. After reconstitution each mL contains 2.5 mg of remimazolam.
+- The other ingredients are:
+- Dextran 40 for injection
+- Lactose monohydrate
+- Hydrochloric acid
+- Sodium hydroxide
 
 See section 2, 'Byfavo contains dextran 40 for injection'.
 
@@ -1655,32 +1641,30 @@ PAION Pharma GmbH Heussstraße 25 52078 Aachen Germany
 
 ## Manufacturer
 
-PAION Deutschland GmbH Heussstraße 25 52078 Aachen Germany
-
 PAION Pharma GmbH Heussstraße 25 52078 Aachen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-| België/Belgique/Belgien Viatris Tél/Tel: + 32 (0)2 658 61 00   | Lietuva PAION Pharma GmbH Tel: +800 4453 4453                  |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| България PAION Pharma GmbH Te л .: +800 4453 4453              | Luxembourg/Luxemburg PAION Pharma GmbH Tél/Tel: +800 4453 4453 |
-| Česká republika PAION Pharma GmbH Tel: +800 4453 4453          | Magyarország PAION Pharma GmbH Tel.: +800 4453 4453            |
-| Danmark PAION Pharma GmbH Tlf: +800 4453 4453                  | Malta PAION Pharma GmbH Tel: +800 4453 4453                    |
-| Deutschland PAION Pharma GmbH Tel: +800 4453 4453              | Nederland PAION Pharma GmbH Tel: +800 4453 4453                |
+| België/Belgique/Belgien Viatris Tél/Tel: +32 (0)2 658 61 00   | Lietuva PAION Pharma GmbH Tel: +800 4453 4453                  |
+|---------------------------------------------------------------|----------------------------------------------------------------|
+| България PAION Pharma GmbH Teл.: +800 4453 4453               | Luxembourg/Luxemburg PAION Pharma GmbH Tél/Tel: +800 4453 4453 |
+| Česká republika PAION Pharma GmbH Tel: +800 4453 4453         | Magyarország PAION Pharma GmbH Tel.: +800 4453 4453            |
+| Danmark PAION Pharma GmbH Tlf: +800 4453 4453                 | Malta PAION Pharma GmbH Tel: +800 4453 4453                    |
+| Deutschland PAION Pharma GmbH Tel: +800 4453 4453             | Nederland PAION Pharma GmbH Tel: +800 4453 4453                |
+| Eesti PAION Pharma GmbH Tel: +800 4453 4453                   | Norge PAION Pharma GmbH Tlf: +800 4453 4453                    |
+| Ελλάδα Viatris Hellas Ltd Τηλ: +30 210 0100002                | Österreich PAION Pharma GmbH Tel: +800 4453 4453               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Eesti PAION Pharma GmbH Tel: +800 4453 4453                | Norge PAION Pharma GmbH Tlf: +800 4453 4453                  |
-|------------------------------------------------------------|--------------------------------------------------------------|
-| Ελλάδα Viatris Hellas Ltd Τηλ : +30 210 0100002            | Österreich PAION Pharma GmbH Tel: +800 4453 4453             |
-| España Viatris Pharmaceuticals, S.L. Tel: + 34 900 102 712 | Polska Viatris Healthcare Sp. z o.o. Tel.: + 48 22 546 64 00 |
-| France Viatris Santé Tél: +33 4 37 25 75 00                | Portugal PAION Pharma GmbH Tel: +800 4453 4453               |
-| Hrvatska PAION Pharma GmbH Tel: +800 4453 4453             | România BGP Products SRL Tel: +40 372 579 000                |
-| Ireland PAION Pharma GmbH Tel: +800 4453 4453              | Slovenija PAION Pharma GmbH Tel: +800 4453 4453              |
-| Ísland PAION Pharma GmbH Sími: +800 4453 4453              | Slovenská republika PAION Pharma GmbH Tel: +800 4453 4453    |
-| Italia Viatris Italia S.r.l. Tel: + 39 02 612 46921        | Suomi/Finland PAION Pharma GmbH Puh/Tel: +800 4453 4453      |
-| Κύπρος PAION Pharma GmbH Τηλ : +800 4453 4453              | Sverige PAION Pharma GmbH Tel: +800 4453 4453                |
-| Latvija PAION Pharma GmbH Tel: +800 4453 4453              |                                                              |
+| España Viatris Pharmaceuticals, S.L. Tel: +34 900 102 712   | Polska Viatris Healthcare Sp. z o.o. Tel.: +48 22 546 64 00   |
+|-------------------------------------------------------------|---------------------------------------------------------------|
+| France Viatris Santé Tél: +33 4 37 25 75 00                 | Portugal PAION Pharma GmbH Tel: +800 4453 4453                |
+| Hrvatska PAION Pharma GmbH Tel: +800 4453 4453              | România BGP Products SRL Tel: +40 372 579 000                 |
+| Ireland PAION Pharma GmbH Tel: +800 4453 4453               | Slovenija PAION Pharma GmbH Tel: +800 4453 4453               |
+| Ísland PAION Pharma GmbH Sími: +800 4453 4453               | Slovenská republika PAION Pharma GmbH Tel: +800 4453 4453     |
+| Italia Viatris Italia S.r.l. Tel: +39 02 612 46921          | Suomi/Finland PAION Pharma GmbH Puh/Tel: +800 4453 4453       |
+| Κύπρος PAION Pharma GmbH Τηλ: +800 4453 4453                | Sverige PAION Pharma GmbH Tel: +800 4453 4453                 |
+| Latvija PAION Pharma GmbH Tel: +800 4453 4453               |                                                               |
 
 ## This leaflet was last revised in
 
@@ -1700,11 +1684,9 @@ The following information is intended for healthcare professionals only:
 
 Read the Summary of Product Characteristics (SmPC) carefully before use.
 
-Remimazolam must only be administered by health care professionals experienced in sedation. The patient should be monitored throughout by a separate healthcare professional, who is not involved in the conduct of the procedure, and whose sole task is to monitor the patient. All personnel must be
+Remimazolam must only be administered by health care professionals experienced in sedation. The patient should be monitored throughout by a separate healthcare professional, who is not involved in the conduct of the procedure, and whose sole task is to monitor the patient. All personnel must be trained in the detection and management of airway obstruction, hypoventilation and apnoea, including the maintenance of a patent airway, supportive ventilation and cardiovascular resuscitation. The patient´s respiratory and cardiac function must be continuously monitored. Resuscitative medicinal products and age- and size-appropriate equipment for restoring airway patency and bag/valve/mask ventilation must be immediately available. A benzodiazepine antagonist (flumazenil, a medicine for counteracting the effects of remimazolam) must be immediately available for use.
 
 <div style=\"page-break-after: always\"></div>
-
-trained in the detection and management of airway obstruction, hypoventilation and apnoea, including the maintenance of a patent airway, supportive ventilation and cardiovascular resuscitation. The patient´s respiratory and cardiac function must be continuously monitored. Resuscitative medicinal products and age- and size-appropriate equipment for restoring airway patency and bag/valve/mask ventilation must be immediately available. A benzodiazepine antagonist (flumazenil, a medicine for counteracting the effects of remimazolam) must be immediately available for use.
 
 ## Reconstitution instructions
 
@@ -1726,11 +1708,11 @@ After reconstitution, this medicinal product must not be mixed with other medici
 
 Reconstituted Byfavo has been shown to be compatible with the following i.v. fluids when administered through the same i.v. line:
 
-- -Glucose (5%) solution for injection
-- -Glucose (20%) solution for injection
-- -Glucose (5%) - sodium chloride (0.45%) solution for injection
-- -Ringers Solution
-- -Sodium chloride (0.9%) solution for injection
+- Glucose (5%) solution for injection
+- Glucose (20%) solution for injection
+- Glucose (5%) - sodium chloride (0.45%) solution for injection
+- Ringers Solution
+- Sodium chloride (0.9%) solution for injection
 
 Compatibility with other i.v. fluids has not been evaluated.
 
@@ -1752,9 +1734,9 @@ Keep the vials in the outer carton in order to protect from light.
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1773,19 +1755,19 @@ Byfavo is a medicine that contains the active substance remimazolam. This is one
 
 ## You must not be given Byfavo if:
 
-- -you are allergic to remimazolam or other benzodiazepines (such as midazolam) or any of the other ingredients of this medicine (listed in section 6).
-- -you have an unstable form of a condition called myasthenia gravis (weakness of muscles) in which your chest muscles that help you breathe get weak
+- you are allergic to remimazolam or other benzodiazepines (such as midazolam) or any of the other ingredients of this medicine (listed in section 6).
+- you have an unstable form of a condition called myasthenia gravis (weakness of muscles) in which your chest muscles that help you breathe get weak
 
 ## Warnings and precautions
 
 Talk to your doctor or nurse before using Byfavo if you have any severe illness or condition and in particular if:
 
-- -you have very low or very high blood pressure or tend to faint
-- -you have heart problems especially a very slow and/or irregular (arrhythmic) heart rate
-- -you have any breathing problems including shortness of breath
-- -you have severe liver problems
-- -you have a condition called myasthenia gravis in which your muscles are weak
-- -you regularly take recreational drugs or you have had problems with drug use in the past.
+- you have very low or very high blood pressure or tend to faint
+- you have heart problems especially a very slow and/or irregular (arrhythmic) heart rate
+- you have any breathing problems including shortness of breath
+- you have severe liver problems
+- you have a condition called myasthenia gravis in which your muscles are weak
+- you regularly take recreational drugs or you have had problems with drug use in the past.
 
 Byfavo can cause temporary loss of memory. Your doctor will assess you before you leave the hospital or clinic and give you necessary advice.
 
@@ -1803,13 +1785,13 @@ Byfavo should not be given to patients under the age of 18 years because it has 
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines, in particular about:
 
-- -opioids (including painkillers such as morphine, fentanyl and codeine or certain cough medicines or medicines for use in drug substitution therapy)
-- -antipsychotics (medicines to treat certain psychiatric illnesses)
-- -anxiolytics (tranquilizers or medicines that reduce anxiety)
-- -medicines that cause sedation (for example temazepam or diazepam)
-- -antidepressants (medicines to treat depression)
-- -certain antihistamines (medicines to treat allergies)
-- -certain antihypertensives (medicines to treat high blood pressure)
+- opioids (including painkillers such as morphine, fentanyl and codeine or certain cough medicines or medicines for use in drug substitution therapy)
+- antipsychotics (medicines to treat certain psychiatric illnesses)
+- anxiolytics (tranquilizers or medicines that reduce anxiety)
+- medicines that cause sedation (for example temazepam or diazepam)
+- antidepressants (medicines to treat depression)
+- certain antihistamines (medicines to treat allergies)
+- certain antihypertensives (medicines to treat high blood pressure)
 
 It is important to tell your doctor or nurse if you are taking other medicines, as using more than one at the same time can change the effect of the medicines involved.
 
@@ -1851,9 +1833,9 @@ Time to recovery after end of administration is expected to be 12-15 min.
 
 If you are given too much Byfavo, you may have the following symptoms:
 
-- -your blood pressure may drop
-- -your heartbeat may slow down
-- -your breathing may become slow and shallow
+- your blood pressure may drop
+- your heartbeat may slow down
+- your breathing may become slow and shallow
 
 Your doctor will know how to treat you.
 
@@ -1865,29 +1847,29 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Very common (may affect more than 1 in 10 users)
 
-- -Slow heart rate
-- -Low blood pressure
-- -Feeling sick (nausea)
-- -Being sick (vomiting)
+- Slow heart rate
+- Low blood pressure
+- Feeling sick (nausea)
+- Being sick (vomiting)
 
 Common (may affect up to 1 in 10 users)
 
-- -Feeling agitated
-- -Headache
-- -Feeling dizzy
-- -Unusually slow or shallow breathing (and low oxygen level in blood)
-- -Prolonged sleepiness or being unconscious after the operation
-- -Chills
+- Feeling agitated
+- Headache
+- Feeling dizzy
+- Unusually slow or shallow breathing (and low oxygen level in blood)
+- Prolonged sleepiness or being unconscious after the operation
+- Chills
 
 Uncommon (may affect up to 1 in 100 users)
 
-- -Hiccups
-- -Abnormal positioning of the tongue in the mouth (higher, toward the roof, and further back in the mouth than usual)
-- -Feeling cold
+- Hiccups
+- Abnormal positioning of the tongue in the mouth (higher, toward the roof, and further back in the mouth than usual)
+- Feeling cold
 
 Not known (frequency cannot be estimated from the available data)
 
-- -Sudden, severe allergic reaction
+- Sudden, severe allergic reaction
 
 ## Reporting of side effects
 
@@ -1913,12 +1895,12 @@ Do not use this medicine if you notice visible particulate matter or discolourat
 
 ## What Byfavo contains
 
-- -The active substance is remimazolam. Each vial contains remimazolam besylate equivalent to 50 mg of remimazolam. After reconstitution each mL contains 5 mg of remimazolam which is further diluted before use. Your doctor will decide the exact amount that is right for you.
-- -The other ingredients are:
-- -Dextran 40 for injection
-- -Lactose monohydrate
-- -Hydrochloric acid
-- -Sodium hydroxide
+- The active substance is remimazolam. Each vial contains remimazolam besylate equivalent to 50 mg of remimazolam. After reconstitution each mL contains 5 mg of remimazolam which is further diluted before use. Your doctor will decide the exact amount that is right for you.
+- The other ingredients are:
+- Dextran 40 for injection
+- Lactose monohydrate
+- Hydrochloric acid
+- Sodium hydroxide
 
 See section 2, 'Byfavo contains d extran 40 for injection'.
 
@@ -1926,7 +1908,9 @@ See section 2, 'Byfavo contains d extran 40 for injection'.
 
 Byfavo is a white to off-white powder for concentrate for solution for injection/infusion (powder for concentrate).
 
-Pack sizes 10 vial pack
+## Pack sizes
+
+10 vial pack
 
 ## Marketing Authorisation Holder
 
@@ -1934,32 +1918,30 @@ PAION Pharma GmbH Heussstraße 25 52078 Aachen Germany
 
 ## Manufacturer
 
-PAION Deutschland GmbH Heussstraße 25 52078 Aachen Germany
-
 PAION Pharma GmbH Heussstraße 25 52078 Aachen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-| België/Belgique/Belgien Viatris Tél/Tel: + 32 (0)2 658 61 00   | Lietuva PAION Pharma GmbH Tel: +800 4453 4453   |
-|----------------------------------------------------------------|-------------------------------------------------|
+| België/Belgique/Belgien Viatris Tél/Tel: +32 (0)2 658 61 00   | Lietuva PAION Pharma GmbH Tel: +800 4453 4453                  |
+|---------------------------------------------------------------|----------------------------------------------------------------|
+| България PAION Pharma GmbH Teл.: +800 4453 4453               | Luxembourg/Luxemburg PAION Pharma GmbH Tél/Tel: +800 4453 4453 |
+| Česká republika PAION Pharma GmbH Tel: +800 4453 4453         | Magyarország PAION Pharma GmbH Tel.: +800 4453 4453            |
 
 <div style=\"page-break-after: always\"></div>
 
-| България PAION Pharma GmbH Te л .: +800 4453 4453          | Luxembourg/Luxemburg PAION Pharma GmbH Tél/Tel: +800 4453 4453   |
-|------------------------------------------------------------|------------------------------------------------------------------|
-| Česká republika PAION Pharma GmbH Tel: +800 4453 4453      | Magyarország PAION Pharma GmbH Tel.: +800 4453 4453              |
-| Danmark PAION Pharma GmbH Tlf: +800 4453 4453              | Malta PAION Pharma GmbH Tel: +800 4453 4453                      |
-| Deutschland PAION Pharma GmbH Tel: +800 4453 4453          | Nederland PAION Pharma GmbH Tel: +800 4453 4453                  |
-| Eesti PAION Pharma GmbH Tel: +800 4453 4453                | Norge PAION Pharma GmbH Tlf: +800 4453 4453                      |
-| Ελλάδα Viatris Hellas Ltd Τηλ : +30 210 0100002            | Österreich PAION Pharma GmbH Tel: +800 4453 4453                 |
-| España Viatris Pharmaceuticals, S.L. Tel: + 34 900 102 712 | Polska Viatris Healthcare Sp. z o.o. Tel.: + 48 22 546 64 00     |
-| France Viatris Santé Tél: +33 4 37 25 75 00                | Portugal PAION Pharma GmbH Tel: +800 4453 4453                   |
-| Hrvatska PAION Pharma GmbH Tel: +800 4453 4453             | România BGP Products SRL Tel: +40 372 579 000                    |
-| Ireland PAION Pharma GmbH Tel: +800 4453 4453              | Slovenija PAION Pharma GmbH Tel: +800 4453 4453                  |
-| Ísland PAION Pharma GmbH Sími: +800 4453 4453              | Slovenská republika PAION Pharma GmbH Tel: +800 4453 4453        |
-| Italia Viatris Italia S.r.l. Tel: + 39 02 612 46921        | Suomi/Finland PAION Pharma GmbH Puh/Tel: +800 4453 4453          |
-| Κύπρος PAION Pharma GmbH Τηλ : +800 4453 4453              | Sverige PAION Pharma GmbH Tel: +800 4453 4453                    |
-| Latvija PAION Pharma GmbH Tel: +800 4453 4453              |                                                                  |
+| Danmark PAION Pharma GmbH Tlf: +800 4453 4453             | Malta PAION Pharma GmbH Tel: +800 4453 4453                 |
+|-----------------------------------------------------------|-------------------------------------------------------------|
+| Deutschland PAION Pharma GmbH Tel: +800 4453 4453         | Nederland PAION Pharma GmbH Tel: +800 4453 4453             |
+| Eesti PAION Pharma GmbH Tel: +800 4453 4453               | Norge PAION Pharma GmbH Tlf: +800 4453 4453                 |
+| Ελλάδα Viatris Hellas Ltd Τηλ: +30 210 0100002            | Österreich PAION Pharma GmbH Tel: +800 4453 4453            |
+| España Viatris Pharmaceuticals, S.L. Tel: +34 900 102 712 | Polska Viatris Healthcare Sp. z o.o. Tel.: +48 22 546 64 00 |
+| France Viatris Santé Tél: +33 4 37 25 75 00               | Portugal PAION Pharma GmbH Tel: +800 4453 4453              |
+| Hrvatska PAION Pharma GmbH Tel: +800 4453 4453            | România BGP Products SRL Tel: +40 372 579 000               |
+| Ireland PAION Pharma GmbH Tel: +800 4453 4453             | Slovenija PAION Pharma GmbH Tel: +800 4453 4453             |
+| Ísland PAION Pharma GmbH Sími: +800 4453 4453             | Slovenská republika PAION Pharma GmbH Tel: +800 4453 4453   |
+| Italia Viatris Italia S.r.l. Tel: +39 02 612 46921        | Suomi/Finland PAION Pharma GmbH Puh/Tel: +800 4453 4453     |
+| Κύπρος PAION Pharma GmbH Τηλ: +800 4453 4453              | Sverige PAION Pharma GmbH Tel: +800 4453 4453               |
+| Latvija PAION Pharma GmbH Tel: +800 4453 4453             |                                                             |
 
 ## This leaflet was last revised in &lt; { MM/YYYY }&gt;
 
@@ -1971,15 +1953,13 @@ Detailed information on this medicine is available on the European Medicines Age
 
 The following information is intended for healthcare professionals only:
 
-## Byfavo 50 mg powder for concentrate for solution for injection/infusion
-
-<div style=\"page-break-after: always\"></div>
+Byfavo 50 mg powder for concentrate for solution for injection/infusion
 
 ## FOR INTRAVENOUS USE ONLY
 
-## Must be reconstituted and further diluted before use with Sodium chloride 9 mg/mL (0.9%) solution for injection
+Must be reconstituted and further diluted before use with Sodium chloride 9 mg/mL (0.9%) solution for injection Read the summary of product characteristics (SmPC) carefully before use.
 
-Read the summary of product characteristics (SmPC) carefully before use.
+<div style=\"page-break-after: always\"></div>
 
 Remimazolam must only be given in hospitals or adequately equipped day therapy units by physicians trained in anaesthesia.
 
@@ -1989,7 +1969,7 @@ Circulatory and respiratory functions should be constantly monitored (e.g. ECG, 
 
 ## General precautions
 
-Each vial is for single use only. Reconstitution and dilution of the product should be conducted using aseptic techniques. Once opened the contents of the vial should be used immediately (SmPC section 6.3). To prevent coring, the needle should be inserted at a 45 -60° angle with the opening of the needle tip facing up (i.e., away from the stopper), sometimes referred to as 'bevel up'. A small amount of pressure is applied, and the angle is gradually increased as the needle enters the vial. The needle should be at a 90° angle just as the needle bevel passes through the stopper.
+Each vial is for single use only. Reconstitution and dilution of the product should be conducted using aseptic techniques. Once opened the contents of the vial should be used immediately (SmPC section 6.3). To prevent coring, the needle should be inserted at a 45 - 60° angle with the opening of the needle tip facing up (i.e., away from the stopper), sometimes referred to as 'bevel up'. A small amount of pressure is applied, and the angle is gradually increased as the needle enters the vial. The needle should be at a 90° angle just as the needle bevel passes through the stopper.
 
 ## Instructions for reconstitution
 
@@ -1999,7 +1979,7 @@ Byfavo should be reconstituted by adding 10 mL of sodium chloride 9 mg/mL (0.9%)
 
 For administration, the reconstituted solution must be further diluted. The appropriate volume of reconstituted remimazolam solution must be withdrawn from the vial(s) and added to a syringe or infusion bag containing sodium chloride 9 mg/ml (0.9%) solution for injection in order to achieve a final concentration of 1-2 mg/ml remimazolam (Table 2).
 
-## Table 2 Dilution instructions
+Table 2 Dilution instructions
 
 | Reconstituted solution                   | Final concentration 2 mg/ml                                                                        | Final concentration 1 mg/ml                                                                        |
 |------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -2021,13 +2001,13 @@ Ringers Solution (Sodium Chloride 8.6 g/L, Potassium Chloride 0.3 g/L, Calcium C
 
 This medicinal product must not be mixed or co-administered through the same infusion line with medicinal products other than those fluids described in this section
 
-<div style=\"page-break-after: always\"></div>
-
 ## Incompatibilities
 
 Incompatibilities between Byfavo and co-administered solutions may result in precipitation/turbidity which may cause occlusion of vascular access site. Byfavo is incompatible with Lactated Ringer's Solution (also known as Compound Sodium Lactate Solution or Hartmann's Solution ), Acetated Ringer's Solution, and Bicarbonated Ringer's Solution for infusion and other alkaline solutions since the solubility of the product is low at pH of 4 or higher.
 
-This medicinal product must not be mixed or co-administered through the same infusion line with other medicinal products except those mentioned in 'Administration with other fluids' .
+<div style=\"page-break-after: always\"></div>
+
+This medicinal product must not be mixed or co-administered through the same infusion line with other medicinal products except those mentioned in 'Administration with other fluids'.
 
 ## In-use stability after reconstitution
 

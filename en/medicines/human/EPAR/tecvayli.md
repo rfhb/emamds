@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-07 14:40:00
+document_datetime: 2026-08-27 11:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tecvayli.html
 document_name: tecvayli.html
 version: success
-processing_time: 0.1459993
-conversion_datetime: 2026-08-10 20:47:28.730143
+processing_time: 0.1572966
+conversion_datetime: 2026-09-02 22:31:58.179346
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.119.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.11.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Tecvayli
 
@@ -47,7 +47,11 @@ Page contents
 
 ## Overview
 
-Tecvayli is a cancer medicine used to treat adults with multiple myeloma (a cancer of the bone marrow). It can be used in patients who have received at least three previous treatments for their cancer, including an immunomodulatory agent, a proteasome inhibitor and an anti-CD38 antibody, and whose cancer has worsened since receiving the last treatment.
+Tecvayli is a cancer medicine used to treat multiple myeloma (a cancer of the bone marrow) that has come back or not responded to previous treatment. It can be used:
+
+- on its own in adults who have received at least three previous treatments for their cancer, including an immunomodulatory agent, a proteasome inhibitor and an anti-CD38 antibody, and whose cancer has worsened since receiving the last treatment;
+
+- in combination with daratumumab (another cancer medicine) in adults whose cancer has worsened after at least one previous treatment.
 
 Tecvayli contains the active substance teclistamab.
 
@@ -57,9 +61,13 @@ Collapse section
 
 ### How is Tecvayli used?
 
-The medicine can only be obtained with a prescription and treatment must be started and monitored by a doctor experienced in the management of multiple myeloma, in a location with appropriate medical support to manage severe side effects such as cytokine release syndrome (a potentially life-threatening condition that causes fever, vomiting, shortness of breath, headache and low blood-pressure; see risks section below).
+Tecvayli can only be obtained with a prescription and treatment must be started and monitored by a doctor experienced in the management of multiple myeloma. It must be given in a facility with appropriate medical support to manage severe side effects such as cytokine release syndrome (a potentially life-threatening condition that causes fever, vomiting, shortness of breath, headache and low blood-pressure).
 
-Tecvayli is given as an injection under the skin. The recommended dose is based on the patient's body weight. Treatment starts with injections on days 1, 3 and 5 at increasing doses (so-called step-up dosing). One to three hours before receiving these injections, patients are given medicines to reduce the risk of developing cytokine release syndrome. After step-up dosing, patients are given maintenance doses once a week. Treatment can continue until the disease gets worse or the patient experiences unacceptable side effects.
+Tecvayli is given as an injection under the skin. The recommended dose is based on the patient's body weight. When used on its own, treatment starts with injections on days 1, 3 and 5 at increasing doses (so-called step-up dosing). This is then followed by an injection given once-weekly. For patients using Tecvayli on its own and whose cancer has responded very well to treatment for at least 6 months, the doctor may consider giving Tecvayli once every 2 weeks instead.
+
+When used in combination with daratumumab, only daratumumab is given on day 1. Treatment with Tecvayli starts with a step-up dosing schedule: injections of Tecvayli are given at increasing doses on days 2, 4 and 8. A maintenance dose is then given once weekly from weeks 3 to 8, every 2 weeks from weeks 9 to 24 and every 4 weeks from week 25 onwards.
+
+One to three hours before receiving the injections that are given as part of the step-up dosing schedule, patients are given medicines to reduce the risk of developing cytokine release syndrome. Treatment can continue until the disease gets worse or the patient experiences unacceptable side effects.
 
 For more information about using Tecvayli, see the package leaflet or contact your doctor or pharmacist.
 
@@ -71,21 +79,25 @@ The active substance in Tecvayli is teclistamab, an antibody (a type of protein)
 
 The benefits of Tecvayli have been investigated in an ongoing study involving 165 patients with multiple myeloma who had received at least three prior treatments (including an immunomodulatory agent, a proteasome inhibitor and an anti-CD38 antibody) and whose disease had not improved (refractory) or had come back (relapsed) after the last treatment. The study did not compare Tecvayli with other medicines or placebo (a dummy treatment). In this study, 63% (104 out of 165) of patients responded to treatment with Tecvayli and they lived for an average of 18 months without their disease getting worse.
 
-### What are the risks associated with Tecvayli?
+Another main study involved 587 adults with multiple myeloma whose cancer had worsened after at least one previous treatment (including a proteasome inhibitor and lenalidomide, a type of immunomodulatory agent). The study compared Tecvayli given together with daratumumab with daratumumab given with either bortezomib or pomalidomide (other cancer medicines) and dexamethasone. The main measure of effectiveness was how long patients lived without their cancer getting worse. Based on the available data, after 36 months of treatment, around 83% of patients who received treatment with Tecvayli and daratumumab were alive without their disease getting worse compared with around 30% of patients who received daratumumab given with either bortezomib or pomalidomide and dexamethasone. In addition, after 36 months of treatment around 83% of those who received treatment with Tecvayli and daratumumab were alive compared with around 65% of those who received daratumumab given with either bortezomib or pomalidomide and dexamethasone.
 
-The most common side effects with Tecvayli (which may affect more than 1 in 10 people) are hypogammaglobulinaemia (low immunoglobulin or antibody levels in the blood, which increases the risk of infection), cytokine release syndrome, neutropenia (low levels of neutrophils, a type of white blood cell that fights infection), anaemia (low levels of red blood cells or haemoglobin), pain in the muscles and bones, tiredness, thrombocytopenia (low levels of blood platelets, components that help the blood to clot), injection site reactions, upper respiratory tract (nose and throat) infection, lymphopenia (low levels of lymphocytes, a type of white blood cell), diarrhoea, pneumonia (infection of the lungs), nausea (feeling sick), fever, headache, cough, constipation and pain.
+Studies carried out with Tecvayli are described in more detail in the medicines assessment reports.
 
-The most common serious side effects are pneumonia, COVID-19, cytokine release syndrome, sepsis (blood poisoning; when bacteria and their toxins circulate in the blood, leading to organ damage), fever, pain in the muscles and bones, acute kidney injury, diarrhoea, cellulitis (inflammation of deep skin tissue), hypoxia (lack of oxygen in body tissues), febrile neutropenia (low levels of neutrophils with fever), and encephalopathy (a brain disorder).
+### What are the side effects and restrictions with Tecvayli?
 
 For the full list of side effects and restrictions of Tecvayli, see the package leaflet.
 
+The most common side effects with Tecvayli (which may affect more than 1 in 10 people) include hypogammaglobulinaemia (low immunoglobulin or antibody levels in the blood, which increases the risk of infection), cytokine release syndrome, neutropenia (low levels of neutrophils, a type of white blood cell that fights infection), anaemia (low levels of red blood cells or haemoglobin), pain in the muscles and bones, tiredness, thrombocytopenia (low levels of blood platelets, components that help the blood to clot), injection site reactions, upper respiratory tract (nose and throat) infection, lymphopenia (low levels of lymphocytes, a type of white blood cell), diarrhoea, pneumonia (infection of the lungs), COVID-19, nausea (feeling sick), fever, headache, cough, pain and hypokalaemia (low blood potassium levels).
+
+Some side effects can be serious. The most frequent (which may affect more than 1 in 10 people) include pneumonia, COVID-19 and cytokine release syndrome. Upper respiratory tract infection, sepsis (blood poisoning; when bacteria and their toxins circulate in the blood, leading to organ damage), fever, pain in the muscles and bones, diarrhoea and febrile neutropenia (low levels of neutrophils with fever) may affect up to 1 in 10 people.
+
 ### Why is Tecvayli authorised in the EU?
 
-At the time of approval, treatment options were limited for patients with multiple myeloma once they no longer respond to an immunomodulatory agent, a proteasome inhibitor and an anti-CD38 antibody. Tecvayli addressed a medical need in these patients and showed a clinically relevant treatment effect, although the lack of a comparator, the short duration of the follow?up of patients within the main study and the small number of patients involved in this study limited the evaluation of the benefits and risks associated with its use.
+At the time of approval, treatment options were limited for patients with multiple myeloma once they no longer respond to an immunomodulatory agent, a proteasome inhibitor and an anti-CD38 antibody. Tecvayli addressed a medical need in these patients and showed a clinically relevant treatment effect.
 
-Tecvayli has therefore been given 'conditional authorisation'. This means that that the European Medicines Agency decided that the benefits of Tecvayli are greater than its risks, but the company will have to provide additional evidence after authorisation.
+Compared with other daratumumab-based treatments, Tecvayli used with daratumumab helped patients live longer without their multiple myeloma getting worse and also increased how long patients lived overall. The daratumumab-based treatments used for comparison in the study were daratumumab with bortezomib and dexamethasone or daratumumab with pomalidomide and dexamethasone. Tecvayli and daratumumab work in different ways to target the cancer; using them together provided a meaningful benefit for patients whose disease had come back or no longer responded to previous treatment.
 
-Conditional authorisation is granted on the basis of less comprehensive data than are normally required. It is granted for medicines that fulfil an unmet medical need to treat serious diseases and when the benefits of having them available earlier outweigh any risks associated with using the medicines while waiting for further evidence. Every year, the European Medicines Agency will review any new information that becomes available until data become comprehensive and this overview will be updated as necessary.
+Tecvayli was originally given 'conditional authorisation'. The authorisation was then switched to standard authorisation as the company had provided additional data requested by the Agency.
 
 ### What information is still awaited for Tecvayli?
 
@@ -93,163 +105,163 @@ Since Tecvayli has been given conditional authorisation, the company that market
 
 ### What measures are being taken to ensure the safe and effective use of Tecvayli?
 
-Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Tecvayli have also been included in the summary of product characteristics and the package leaflet.
+Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Tecvayli have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Tecvayli are continuously monitored. Suspected side effects reported with Tecvayli are carefully evaluated and any necessary action taken to protect patients.
 
 ### Other information about Tecvayli
 
-Tecvayli received a conditional marketing authorisation valid throughout the EU on 23 August 2022.
+Tecvayli received a conditional marketing authorisation valid throughout the EU on 23 August 2022. The conditional marketing authorisation was switched to a standard marketing authorisation on 20 August 2026.
 
 Tecvayli : EPAR - Medicine Overview
 
-Reference Number: EMA/788391/2022
+Reference Number: EMADOC-1829012207-57547
 
-English (EN) (115.49 KB - PDF)
+English (EN) (136.07 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/en/documents/overview/tecvayli-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-863)
+[Other languages (22)](#file-language-dropdown-230)
 
-български (BG) (142.78 KB - PDF)
+български (BG) (153 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/bg/documents/overview/tecvayli-epar-medicine-overview_bg.pdf)
 
-español (ES) (118.28 KB - PDF)
+español (ES) (137.85 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/es/documents/overview/tecvayli-epar-medicine-overview_es.pdf)
 
-čeština (CS) (140.65 KB - PDF)
+čeština (CS) (152.15 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/cs/documents/overview/tecvayli-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (115.75 KB - PDF)
+dansk (DA) (134.35 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/da/documents/overview/tecvayli-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (120.24 KB - PDF)
+Deutsch (DE) (141.39 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/de/documents/overview/tecvayli-epar-medicine-overview_de.pdf)
 
-eesti (ET) (114.61 KB - PDF)
+eesti (ET) (133.17 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/et/documents/overview/tecvayli-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (145.36 KB - PDF)
+ελληνικά (EL) (154.13 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/el/documents/overview/tecvayli-epar-medicine-overview_el.pdf)
 
-français (FR) (118.86 KB - PDF)
+français (FR) (138.43 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/fr/documents/overview/tecvayli-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (149.61 KB - PDF)
+hrvatski (HR) (160.96 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/hr/documents/overview/tecvayli-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (115.92 KB - PDF)
+italiano (IT) (134.82 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/it/documents/overview/tecvayli-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (156.91 KB - PDF)
+latviešu (LV) (168.06 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/lv/documents/overview/tecvayli-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (138.16 KB - PDF)
+lietuvių (LT) (150.88 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/lt/documents/overview/tecvayli-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (139.98 KB - PDF)
+magyar (HU) (151.75 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/hu/documents/overview/tecvayli-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (152.07 KB - PDF)
+Malti (MT) (162.25 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/mt/documents/overview/tecvayli-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (116.5 KB - PDF)
+Nederlands (NL) (135.87 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/nl/documents/overview/tecvayli-epar-medicine-overview_nl.pdf)
 
-polski (PL) (143.26 KB - PDF)
+polski (PL) (152.54 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/pl/documents/overview/tecvayli-epar-medicine-overview_pl.pdf)
 
-português (PT) (118.87 KB - PDF)
+português (PT) (137.71 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/pt/documents/overview/tecvayli-epar-medicine-overview_pt.pdf)
 
-română (RO) (138.75 KB - PDF)
+română (RO) (149.95 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/ro/documents/overview/tecvayli-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (140.32 KB - PDF)
+slovenčina (SK) (150.51 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/sk/documents/overview/tecvayli-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (138.91 KB - PDF)
+slovenščina (SL) (149.18 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/sl/documents/overview/tecvayli-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (114.62 KB - PDF)
+suomi (FI) (132.93 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/fi/documents/overview/tecvayli-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (115.75 KB - PDF)
+svenska (SV) (133.65 KB - PDF)
 
-**First published:** 13/10/2022
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/sv/documents/overview/tecvayli-epar-medicine-overview_sv.pdf)
 
 Tecvayli : EPAR - Risk management plan
 
-English (EN) (370.59 KB - PDF)
+English (EN) (328.14 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 04/06/2025
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/en/documents/rmp/tecvayli-epar-risk-management-plan_en.pdf)
 
@@ -257,167 +269,167 @@ English (EN) (370.59 KB - PDF)
 
 Tecvayli : EPAR - Product Information
 
-English (EN) (294.6 KB - PDF)
+English (EN) (621.15 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/en/documents/product-information/tecvayli-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-112)
+[Other languages (24)](#file-language-dropdown-534)
 
-български (BG) (326.64 KB - PDF)
+български (BG) (527.36 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/bg/documents/product-information/tecvayli-epar-product-information_bg.pdf)
 
-español (ES) (321.8 KB - PDF)
+español (ES) (477.8 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/es/documents/product-information/tecvayli-epar-product-information_es.pdf)
 
-čeština (CS) (343.72 KB - PDF)
+čeština (CS) (686.96 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/cs/documents/product-information/tecvayli-epar-product-information_cs.pdf)
 
-dansk (DA) (316 KB - PDF)
+dansk (DA) (950.18 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/da/documents/product-information/tecvayli-epar-product-information_da.pdf)
 
-Deutsch (DE) (341.56 KB - PDF)
+Deutsch (DE) (554.62 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/de/documents/product-information/tecvayli-epar-product-information_de.pdf)
 
-eesti (ET) (336.62 KB - PDF)
+eesti (ET) (599.42 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/et/documents/product-information/tecvayli-epar-product-information_et.pdf)
 
-ελληνικά (EL) (330.51 KB - PDF)
+ελληνικά (EL) (666.9 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/el/documents/product-information/tecvayli-epar-product-information_el.pdf)
 
-français (FR) (314.04 KB - PDF)
+français (FR) (591.14 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/fr/documents/product-information/tecvayli-epar-product-information_fr.pdf)
 
-hrvatski (HR) (324.98 KB - PDF)
+hrvatski (HR) (577.5 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/hr/documents/product-information/tecvayli-epar-product-information_hr.pdf)
 
-italiano (IT) (722.08 KB - PDF)
+italiano (IT) (607.55 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/it/documents/product-information/tecvayli-epar-product-information_it.pdf)
 
-latviešu (LV) (325.26 KB - PDF)
+latviešu (LV) (550.32 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/lv/documents/product-information/tecvayli-epar-product-information_lv.pdf)
 
-lietuvių (LT) (335.53 KB - PDF)
+lietuvių (LT) (598.1 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/lt/documents/product-information/tecvayli-epar-product-information_lt.pdf)
 
-magyar (HU) (339.62 KB - PDF)
+magyar (HU) (471.71 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/hu/documents/product-information/tecvayli-epar-product-information_hu.pdf)
 
-Malti (MT) (374 KB - PDF)
+Malti (MT) (771.13 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/mt/documents/product-information/tecvayli-epar-product-information_mt.pdf)
 
-Nederlands (NL) (330.44 KB - PDF)
+Nederlands (NL) (496.13 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/nl/documents/product-information/tecvayli-epar-product-information_nl.pdf)
 
-polski (PL) (334.68 KB - PDF)
+polski (PL) (511.84 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/pl/documents/product-information/tecvayli-epar-product-information_pl.pdf)
 
-português (PT) (318.61 KB - PDF)
+português (PT) (593 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/pt/documents/product-information/tecvayli-epar-product-information_pt.pdf)
 
-română (RO) (328.51 KB - PDF)
+română (RO) (577.03 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/ro/documents/product-information/tecvayli-epar-product-information_ro.pdf)
 
-slovenčina (SK) (316.43 KB - PDF)
+slovenčina (SK) (604.9 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/sk/documents/product-information/tecvayli-epar-product-information_sk.pdf)
 
-slovenščina (SL) (332.28 KB - PDF)
+slovenščina (SL) (855.9 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/sl/documents/product-information/tecvayli-epar-product-information_sl.pdf)
 
-suomi (FI) (326.02 KB - PDF)
+suomi (FI) (822.61 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/fi/documents/product-information/tecvayli-epar-product-information_fi.pdf)
 
-svenska (SV) (315.33 KB - PDF)
+svenska (SV) (810.57 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/sv/documents/product-information/tecvayli-epar-product-information_sv.pdf)
 
-Íslenska (IS) (339.94 KB - PDF)
+Íslenska (IS) (777.47 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/is/documents/product-information/tecvayli-epar-product-information_is.pdf)
 
-norsk (NO) (329.17 KB - PDF)
+norsk (NO) (871.79 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 07/08/2026
+**First published:** 13/10/2022 **Last updated:** 27/08/2026
 
 [View](/no/documents/product-information/tecvayli-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000362254
+**Latest procedure affecting product information:** VR/0000322279
 
-07/08/2026
+20/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -436,7 +448,7 @@ English (EN) (29.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tecvayli-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-498)
+[Other languages (24)](#file-language-dropdown-858)
 
 български (BG) (31.69 KB - PDF)
 
@@ -591,7 +603,7 @@ norsk (NO) (30.94 KB - PDF)
 - **Therapeutic area (MeSH)**
     - Multiple Myeloma
 - **Anatomical therapeutic chemical (ATC) code**
-    - L01F
+    - L01FX24
 
 ### Pharmacotherapeutic group
 
@@ -599,7 +611,10 @@ Antineoplastic agents
 
 ### Therapeutic indication
 
-TECVAYLI is indicated as monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma, who have received at least three prior therapies, including an immunomodulatory agent, a proteasome inhibitor, and an anti-CD38 antibody and have demonstrated disease progression on the last therapy.
+Tecvayli is indicated
+
+- in combination with daratumumab for the treatment of adult patients with relapsed or refractory multiple myeloma who have received at least one prior therapy
+- as monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma, who have received at least three prior therapies, including an immunomodulatory agent, a proteasome inhibitor, and an anti-CD38 antibody and have demonstrated disease progression on the last therapy.
 
 ## Authorisation details
 
@@ -607,8 +622,6 @@ TECVAYLI is indicated as monotherapy for the treatment of adult patients with re
     - EMEA/H/C/005865
 - **Additional monitoring**
     - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-- **Conditional approval**
-    - This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774) .
 - **PRIME: priority medicine**
     - This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
 - **Opinion adopted**
@@ -616,7 +629,7 @@ TECVAYLI is indicated as monotherapy for the treatment of adult patients with re
 - **Marketing authorisation issued**
     - 23/08/2022
 - **Revision**
-    - 9
+    - 10
 
 ## Assessment history
 
@@ -628,19 +641,39 @@ Collapse section
 
 Tecvayli : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (164.63 KB - PDF)
+English (EN) (154.36 KB - PDF)
 
-**First published:** 04/06/2025 **Last updated:** 07/08/2026
+**First published:** 04/06/2025 **Last updated:** 27/08/2026
 
 [View](/en/documents/procedural-steps-after/tecvayli-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Tecvayli : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (171.26 KB - PDF)
+English (EN) (143.31 KB - PDF)
 
-**First published:** 21/07/2023 **Last updated:** 21/10/2024
+**First published:** 21/07/2023 **Last updated:** 27/08/2026
 
 [View](/en/documents/procedural-steps-after/tecvayli-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Tecvayli-VR-0000322279 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3172017
+
+English (EN) (8.98 MB - PDF)
+
+**First published:** 27/08/2026
+
+[View](/en/documents/variation-report/tecvayli-vr-0000322279-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Tecvayli (VR-0000322279)
+
+Reference Number: EMADOC-1700519818-3256178
+
+English (EN) (117.95 KB - PDF)
+
+**First published:** 26/06/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-tecvayli-vr-0000322279_en.pdf)
 
 Tecvayli-PSUSA-00011010-202508 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -714,11 +747,10 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 ## More information on Tecvayli
 
-- [Tecvayli - opinion on variation to marketing authorisation](/en/medicines/human/variation/tecvayli)
 - [Characterize infections and outcomes developed in relapsed/refractory multiple myeloma (RRMM) patients treated with Teclistamab (SPOT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000414)
 
 **This page was last updated on**
 
-07/08/2026
+27/08/2026
 
 ## Share this page

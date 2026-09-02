@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-28 12:25:31
-document_pages: 38
+document_datetime: 2026-08-25 10:02:50
+document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vpriv-epar-product-information_en.pdf
 document_name: vpriv-epar-product-information_en.pdf
 version: success
-processing_time: 7.6295605
-conversion_datetime: 2026-01-29 12:46:06.514311
+processing_time: 6.3395257
+conversion_datetime: 2026-09-02 22:09:45.498448
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,13 +32,13 @@ Each vial contains 400 Units* of velaglucerase alfa**.
 
 After reconstitution, one ml of the solution contains 100 Units of velaglucerase alfa.
 
-*An enzyme unit is defined as the amount of enzyme that is required to convert one micromole of p -nitrophenyl β -D-glucopyranoside to p -nitrophenol per minute at 37 ºC.
+*An enzyme unit is defined as the amount of enzyme that is required to convert one micromole of p -nitrophenyl β -D-glucopyranoside to p -nitrophenol per minute at 37 °C.
 
 **produced in an HT-1080 human fibroblast cell line by recombinant DNA technology.
 
-## Excipient with known effect
+## Excipients with known effect
 
-Each vial contains 12.15 mg sodium.
+Each vial contains 12.15 mg sodium. Each vial contains 0.484 mg polysorbate 20.
 
 For the full list of excipients, see section 6.1.
 
@@ -66,7 +66,7 @@ Dose adjustments can be made on an individual basis based on achievement and mai
 
 Patients currently treated with imiglucerase enzyme replacement therapy for type 1 Gaucher disease may be switched to VPRIV, using the same dose and frequency.
 
-## Special populations
+Special populations
 
 ## Elderly (≥ 65 years old)
 
@@ -100,27 +100,25 @@ For instructions on reconstitution and dilution of the medicinal product before 
 
 ## 4.3 Contraindications
 
-Severe allergic reaction to the active substance or to any of the excipients listed in section 6.1.
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
 ## 4.4 Special warnings and precautions for use
 
 ## Traceability
 
-In order to improve the traceability of biological medicinal products, the name and batch number of the administered medicinal product should be clearly recorded.
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 ## Hypersensitivity
 
-Hypersensitivity reactions, including symptoms consistent with anaphylaxis, have been reported in patients in clinical studies and in post-marketing experience. The majority of hypersensitivity reactions usually occur up to 12 hours post infusion. The most frequently reported symptoms of
+Hypersensitivity reactions, including symptoms consistent with anaphylaxis, have been reported in patients in clinical studies and in post-marketing experience. The majority of hypersensitivity reactions usually occur up to 12 hours post infusion. The most frequently reported symptoms of hypersensitivity include nausea, rash dyspnoea, back pain, chest discomfort (including chest tightness), urticaria, arthralgia, and headache.
 
 <div style=\"page-break-after: always\"></div>
-
-hypersensitivity include nausea, rash dyspnoea, back pain, chest discomfort (including chest tightness), urticaria, arthralgia, and headache.
 
 ## Infusion-related reactions
 
 An infusion-related reaction is defined as any adverse drug reaction occurring within 24 hours after the initiation of velaglucerase alfa infusion. Infusion-related reactions (IRR) were the most commonly observed adverse reactions in patients treated in clinical studies. An IRR often appears as a hypersensitivity reaction. The most frequently reported symptoms of hypersensitivity include nausea, rash, dyspnoea, back pain, chest discomfort (including chest tightness), urticaria, arthralgia, and headache. Symptoms consistent with anaphylaxis have been reported in patients in clinical studies and in post-marketing experience. Apart from symptoms associated with hypersensitivity reactions IRRs might show as fatigue, dizziness, pyrexia, blood pressure increase, pruritus, vision blurred, or vomiting. In treatment-naïve patients, the majority of infusion-related reactions occurred during the first 6 months of treatment.
 
-## Prevention and management of infusion related reactions including hypersensitivity reactions
+## Prevention and management of infusion-related reactions including hypersensitivity reactions
 
 The management of infusion-related reactions should be based on the severity of the reaction, and include slowing the infusion rate, treatment with medicinal products such as antihistamines, antipyretics and/or corticosteroids, and/or stopping and resuming treatment with increased infusion time.
 
@@ -140,11 +138,15 @@ During a post marketing extension study, one patient developed IgG antibodies to
 
 If the physician suspects a lack/loss of effect that may be related to antibody formation the patient may be tested for antibodies at the physician's discretion. For further information on requesting antibody testing services, please contact medinfoEMEA@takeda.com.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Sodium
 
-This medicinal product contains 12.15 mg sodium per vial. This is equivalent to 0.6% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+This medicinal product contains 12.15 mg sodium per vial, equivalent to 0.6% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
-<div style=\"page-break-after: always\"></div>
+## Polysorbate 20
+
+This medicinal product contains 0.484 mg of polysorbate 20 in each vial which is equivalent to 0.11 mg/ml. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -180,11 +182,11 @@ The most serious adverse reactions in patients in clinical studies were hypersen
 
 The most common adverse reactions were infusion-related reactions (39.4%). The most commonly observed symptoms of infusion-related reactions were: headache, dizziness, hypotension, hypertension, nausea, fatigue/asthenia, and pyrexia/body temperature increased (see section 4.4 for further information). The only adverse reaction leading to discontinuation of treatment was an infusion-related reaction.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in patients with type 1 Gaucher disease are listed in Table 1. Information is presented by system organ class and frequency according to MedDRA convention. Frequency is defined as very common (  1/10), common (  1/100 to &lt;1/10), and uncommon (≥1/1 000 to &lt;1/100). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-<div style=\"page-break-after: always\"></div>
+Adverse reactions reported in patients with type 1 Gaucher disease are listed in Table 1. Information is presented by system organ class and frequency according to MedDRA convention. Frequency is defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), and uncommon (≥ 1/1 000 to &lt; 1/100). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: Adverse reactions reported with VPRIV in patients with type 1 Gaucher disease
 
@@ -203,19 +205,19 @@ Table 1: Adverse reactions reported with VPRIV in patients with type 1 Gaucher d
 | General disorders and administration site conditions | infusion-related reaction, asthenia/fatigue, pyrexia/body temperature increased | chest discomfort*                                                                                   |                    |
 | Investigations                                       |                                                                                 | activated partial thromboplastin time prolonged, neutralizing antibody positive                     |                    |
 
+<div style=\"page-break-after: always\"></div>
+
 ## Description of selected adverse reactions
 
 ## Vomiting
 
-In some cases vomiting can be serious and severe. Vomiting most often occurs during the infusion and up to 24 hours after the infusion.
+In some cases, vomiting can be serious and severe. Vomiting most often occurs during the infusion and up to 24 hours after the infusion.
 
 ## Other special populations
 
-Elderly population (≥ 65 years)
+## Elderly population (≥ 65 years)
 
 The safety profile of VPRIV in clinical studies involving patients aged 65 years and above was similar to that observed in other adult patients.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -233,23 +235,27 @@ There is limited information available regarding overdose with velaglucerase alf
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other alimentary tract and metabolism products, enzymes, ATC code: A16AB10.
+Pharmacotherapeutic group: other alimentary tract and metabolism products, enzymes, ATC code: A16AB10.
 
-Gaucher disease is an autosomal recessive disorder caused by mutations in the GBA gene which results in a deficiency of the lysosomal enzyme beta-glucocerebrosidase. This enzymatic deficiency causes an accumulation of glucocerebroside primarily in macrophages, giving rise to foam cells or \"Gaucher cells\". In this lysosomal storage disorder (LSD), clinical features are reflective of the distribution of Gaucher cells in the liver, spleen, bone marrow, skeleton, and lungs. The accumulation of glucocerebroside in the liver and spleen leads to organomegaly. Bone involvement results in skeletal abnormalities and deformities as well as bone pain crises. Deposits in the bone marrow and splenic sequestration lead to clinically significant anaemia and thrombocytopenia.
+## Mechanism of action
 
-The active substance of VPRIV is velaglucerase alfa, which is produced by gene activation technology in a human cell line. Velaglucerase alfa is a glycoprotein. The monomer is approximately 63 kDa, has 497 amino acids, and the same amino acid sequence as the naturally occurring human enzyme, glucocerebrosidase. There are 5 potential N-linked glycosylation sites, four of which are occupied. Velaglucerase alfa is manufactured to contain predominantly high-mannose-type glycans to facilitate internalisation of the enzyme by the phagocytic target cells via the mannose receptor.
+Gaucher disease is an autosomal recessive disorder caused by mutations in the GBA gene which results in a deficiency of the lysosomal enzyme beta-glucocerebrosidase. This enzymatic deficiency causes an accumulation of glucocerebroside primarily in macrophages, giving rise to foam cells or 'Gaucher cells'. In this lysosomal storage disorder (LSD), clinical features are reflective of the distribution of Gaucher cells in the liver, spleen, bone marrow, skeleton, and lungs. The accumulation of glucocerebroside in the liver and spleen leads to organomegaly. Bone involvement results in skeletal abnormalities and deformities as well as bone pain crises. Deposits in the bone marrow and splenic sequestration lead to clinically significant anaemia and thrombocytopenia.
+
+The active substance of VPRIV is velaglucerase alfa, which is produced by gene activation technology in a human cell line. Velaglucerase alfa is a glycoprotein. The monomer is approximately 63 kDa, has 497 amino acids, and the same amino acid sequence as the naturally occurring human enzyme, glucocerebrosidase. There are 5 potential N-linked glycosylation sites, four of which are occupied.
+
+<div style=\"page-break-after: always\"></div>
+
+Velaglucerase alfa is manufactured to contain predominantly high-mannose-type glycans to facilitate internalisation of the enzyme by the phagocytic target cells via the mannose receptor.
 
 Velaglucerase alfa supplements or replaces beta-glucocerebrosidase, the enzyme that catalyses the hydrolysis of glucocerebroside to glucose and ceramide in the lysosome, reducing the amount of accumulated glucocerebroside and correcting the pathophysiology of Gaucher disease. Velaglucerase alfa increases haemoglobin concentration and platelet counts and reduces liver and spleen volumes in patients with type 1 Gaucher disease.
 
 In studies 025EXT and 034, patients were offered home therapy. In study 025EXT, 7 of 10 patients received home therapy at least once during 60 months of treatment. In study 034, 25 of 40 patients received home therapy at least once during the 12-month study.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety
 
 ## Studies in treatment naïve patients
 
-Study 025 was a 9 month, open-label study in 12 adult (≥18 years) patients who were naïve to ERT (defined as having not been treated with ERT for at least 12 months prior to study entry). Velaglucerase alfa was initially administered in a dose-escalating fashion in the first 3 patients (15, 30, 60 Units/kg) and the 9 remaining patients began treatment with 60 Units/kg.
+Study 025 was a 9-month, open-label study in 12 adult (≥ 18 years) patients who were naïve to ERT (defined as having not been treated with ERT for at least 12 months prior to study entry). Velaglucerase alfa was initially administered in a dose-escalating fashion in the first 3 patients (15, 30, 60 Units/kg) and the 9 remaining patients began treatment with 60 Units/kg.
 
 Clinically meaningful improvements from baseline were observed in haemoglobin concentration and platelet counts as early as 3 months and in liver and spleen volumes at both 6 months and 9 months following the initiation of treatment with velaglucerase alfa.
 
@@ -257,23 +263,21 @@ Ten patients who completed Study 025 enrolled in an open-label extension study (
 
 By month 57, 8 out of the 8 patients had achieved a reduction of at least 2 points in the lumbar spine Bone Marrow Burden (BMB) score as assessed by MRI scan. Improvement from baseline in mean lumbar spine and femoral neck bone mineral density (BMD) Z-scores were observed at month 24 (0.4; 95% CI 0.1, 0.7) and month 33 (0.4; 95% CI 0.2, 0.6), respectively. After seven years of treatment, the mean increase from baseline in Z-scores were 0.7 (95% CI 0.4, 1.0) for the lumbar spine and 0.5 (95% CI 0.2, 0.7) for the femoral neck. No patients were classified at a more severe WHO classification of bone density compared to baseline.
 
-Study 032 was a 12-month, randomised, double-blind, parallel-group efficacy study that enrolled 25 patients aged 4 years and older who were naïve to ERT (defined as having not been treated with ERT for at least 30 months prior to study entry). Patients were required to have Gaucher diseaserelated anaemia and either thrombocytopenia or organomegaly. Patients were randomised to receive velaglucerase alfa at a dose of either 45 Units/kg (N=13) or 60 Units/kg (N=12) every other week.
+Study 032 was a 12-month, randomised, double-blind, parallel-group efficacy study that enrolled 25 patients aged 4 years and older who were naïve to ERT (defined as having not been treated with ERT for at least 30 months prior to study entry). Patients were required to have Gaucher disease-related anaemia and either thrombocytopenia or organomegaly. Patients were randomised to receive velaglucerase alfa at a dose of either 45 Units/kg (N = 13) or 60 Units/kg (N = 12) every other week.
 
 Velaglucerase alfa 60 Units/kg given intravenously every other week demonstrated clinically meaningful increases from baseline in mean haemoglobin concentration (+2.4 g/dl) and platelet count (+50.9 x 10 9 /l), liver volume was reduced from 1.46 to 1.22 times normal (mean reduction of 17%) and spleen volume was reduced from 14.0 to 5.75 times normal (mean reduction of 50%). Meaningful increases from baseline were observed in the 45 Units/kg dose group in haemoglobin concentration (+2.4 g/dl) and platelet count (+40.9 x 10 9 /l), liver volume was reduced from 1.40 to 1.24 times normal (mean reduction of 6%) and spleen volume was reduced from 14.5 to 9.50 times normal (mean reduction of 40%).
 
-Study 039 was a 9-month, randomised, double-blind, non-inferiority, active-comparator (imiglucerase) controlled, parallel-group efficacy study that enrolled 34 patients aged 4 years and older who were naïve to ERT (defined as having not been treated with ERT for at least 12 months prior to study entry). Patients were required to have Gaucher disease-related anaemia and either thrombocytopenia or organomegaly. Patients received either 60 Units/kg of velaglucerase alfa (N=17) or 60 Units/kg of imiglucerase (N=17) every other week.
-
-The mean absolute increase from baseline in haemoglobin concentrations was 1.624 g/dl (±0.223 SE) following 9 months of treatment with velaglucerase alfa. This increase in haemoglobin concentration was demonstrated to be clinically and statistically non-inferior to imiglucerase (mean treatment difference of change from baseline to 9 months [velaglucerase alfa - imiglucerase]: 0.135 g/dl). There were no statistically significant differences between velaglucerase alfa and imiglucerase in changes in
-
 <div style=\"page-break-after: always\"></div>
 
-platelet counts and liver and spleen volumes after 9 months of velaglucerase alfa treatment, and in the time to first haemoglobin response (defined as 1 g/dl increase from baseline).
+Study 039 was a 9-month, randomised, double-blind, non-inferiority, active-comparator (imiglucerase) controlled, parallel-group efficacy study that enrolled 34 patients aged 4 years and older who were naïve to ERT (defined as having not been treated with ERT for at least 12 months prior to study entry). Patients were required to have Gaucher disease-related anaemia and either thrombocytopenia or organomegaly. Patients received either 60 Units/kg of velaglucerase alfa (N = 17) or 60 Units/kg of imiglucerase (N = 17) every other week.
+
+The mean absolute increase from baseline in haemoglobin concentrations was 1.624 g/dl (±0.223 SE) following 9 months of treatment with velaglucerase alfa. This increase in haemoglobin concentration was demonstrated to be clinically and statistically non-inferior to imiglucerase [mean treatment difference of change from baseline to 9 months (velaglucerase alfa - imiglucerase): 0.135 g/dl]. There were no statistically significant differences between velaglucerase alfa and imiglucerase in changes in platelet counts and liver and spleen volumes after 9 months of velaglucerase alfa treatment, and in the time to first haemoglobin response (defined as 1 g/dl increase from baseline).
 
 ## Study in patients switching from imiglucerase treatment to VPRIV
 
 Study 034 was a 12-month, open-label safety study that enrolled 40 patients aged 4 years and older who had been receiving treatment with imiglucerase at doses ranging from 15 to 60 Units/kg for a minimum of 30 consecutive months. Patients were required to have a stable dose of imiglucerase for at least 6 months prior to study enrolment. Treatment with velaglucerase alfa was administered as the same number of units and regimen as their imiglucerase dose. Haemoglobin concentration and platelet counts were evaluated as changes from baseline, which was defined as the end of the patient's treatment with imiglucerase.
 
-In patients who switched from imiglucerase to velaglucerase alfa, haemoglobin concentrations and platelet counts were sustained at therapeutic levels through 12 months of treatment. Study 058 was an open-label clinical safety study in 211 patients including 205 patients previously treated with imiglucerase 6 treatment-naïve patients and 57 patients aged 65 years or older (56/57 had switched from imiglucerase to velaglucerase alfa). Patients transferring from imiglucerase were administered velaglucerase alfa infusions every other week at the same number of units as imiglucerase within the range of 15 to 60 Units/kg. Patients transferring from a dose of &lt;15 Units/kg imiglucerase were administered 15 Units/kg of velaglucerase alfa.
+In patients who switched from imiglucerase to velaglucerase alfa, haemoglobin concentrations and platelet counts were sustained at therapeutic levels through 12 months of treatment. Study 058 was an open-label clinical safety study in 211 patients including 205 patients previously treated with imiglucerase 6 treatment-naïve patients and 57 patients aged 65 years or older (56/57 had switched from imiglucerase to velaglucerase alfa). Patients transferring from imiglucerase were administered velaglucerase alfa infusions every other week at the same number of units as imiglucerase within the range of 15 to 60 Units/kg. Patients transferring from a dose of &lt; 15 Units/kg imiglucerase were administered 15 Units/kg of velaglucerase alfa.
 
 Patients previously treated with imiglucerase received a median of 8 velaglucerase alfa infusions with median duration of treatment of 15.1 weeks. The safety profile in these patients was similar to that observed in other clinical studies. Only 1 out of 163 patients assessed developed anti-velaglucerase alfa antibodies during the study.
 
@@ -289,13 +293,13 @@ In this study, haemoglobin concentration, platelet count, liver volume and splee
 
 Table 2: Results at 24 months - change from baseline - study 044 ITT population
 
-| Clinical parameters                                                                                                                                                                                                                                                                                  | Overall velaglucerase alfa group (N=39) - Mean change from baseline (95% CI)                                                                                                                                                                                                                         | Patients treated with imiglucerase for 9 months and then velaglucerase alfa for 15 months (N=16) - Mean change from baseline (95% CI)                                                                                                                                                                | Patients who switched from long-term imiglucerase treatment to velaglucerase alfa (N=38) - Mean change from baseline (95% CI)                                                                                                                                                                        |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Haemoglobin concentration (g/dL)                                                                                                                                                                                                                                                                     | 2.75 (2.28, 3.22)                                                                                                                                                                                                                                                                                    | 2.00 (1.25, 2.75)                                                                                                                                                                                                                                                                                    | -0.05 (-0.34, 0.25)                                                                                                                                                                                                                                                                                  |
-| Platelet count (x10 9 /L)                                                                                                                                                                                                                                                                            | 87.85 (72.69, 103.00)                                                                                                                                                                                                                                                                                | 160.94 (117.22, 204.66)                                                                                                                                                                                                                                                                              | 9.03 (-2.60, 20.66)                                                                                                                                                                                                                                                                                  |
-| Normalised liver volume* (%BW)                                                                                                                                                                                                                                                                       | -1.21 (-1.50, -0.91)                                                                                                                                                                                                                                                                                 | -1.69 (-2.16, -1.21)                                                                                                                                                                                                                                                                                 | -0.03 (-0.10, 0.05)                                                                                                                                                                                                                                                                                  |
-| Normalised spleen volume* (%BW) §                                                                                                                                                                                                                                                                    | -2.66 (-3.50, -1.82)                                                                                                                                                                                                                                                                                 | -3.63 (-7.25, - 0.02)                                                                                                                                                                                                                                                                                | -0.11 (-0.19, -0.03)                                                                                                                                                                                                                                                                                 |
-| § Excludes patients with splenectomy. N=30, 6 and 34 for the 3 above groups. *Liver and spleen volume are normalised as a percentage of body weight. Normal spleen is defined as 0.2% of body weight; normal liver as 2.5% of body weight Note: Imputation was applied to intermittent missing data. | § Excludes patients with splenectomy. N=30, 6 and 34 for the 3 above groups. *Liver and spleen volume are normalised as a percentage of body weight. Normal spleen is defined as 0.2% of body weight; normal liver as 2.5% of body weight Note: Imputation was applied to intermittent missing data. | § Excludes patients with splenectomy. N=30, 6 and 34 for the 3 above groups. *Liver and spleen volume are normalised as a percentage of body weight. Normal spleen is defined as 0.2% of body weight; normal liver as 2.5% of body weight Note: Imputation was applied to intermittent missing data. | § Excludes patients with splenectomy. N=30, 6 and 34 for the 3 above groups. *Liver and spleen volume are normalised as a percentage of body weight. Normal spleen is defined as 0.2% of body weight; normal liver as 2.5% of body weight Note: Imputation was applied to intermittent missing data. |
+| Clinical parameters                                                                                                                                                                                                                                                                                     | Overall velaglucerase alfa group (N = 39) - Mean change from baseline (95% CI)                                                                                                                                                                                                                          | Patients treated with imiglucerase for 9 months and then velaglucerase alfa for 15 months (N = 16) - Mean change from baseline (95% CI)                                                                                                                                                                 | Patients who switched from long-term imiglucerase treatment to velaglucerase alfa (N = 38) - Mean change from baseline (95% CI)                                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Haemoglobin concentration (g/dl)                                                                                                                                                                                                                                                                        | 2.75 (2.28, 3.22)                                                                                                                                                                                                                                                                                       | 2.00 (1.25, 2.75)                                                                                                                                                                                                                                                                                       | -0.05 (-0.34, 0.25)                                                                                                                                                                                                                                                                                     |
+| Platelet count (x 10 9 /l)                                                                                                                                                                                                                                                                              | 87.85 (72.69, 103.00)                                                                                                                                                                                                                                                                                   | 160.94 (117.22, 204.66)                                                                                                                                                                                                                                                                                 | 9.03 (-2.60, 20.66)                                                                                                                                                                                                                                                                                     |
+| Normalised liver volume* (%BW)                                                                                                                                                                                                                                                                          | -1.21 (-1.50, -0.91)                                                                                                                                                                                                                                                                                    | -1.69 (-2.16, -1.21)                                                                                                                                                                                                                                                                                    | -0.03 (-0.10, 0.05)                                                                                                                                                                                                                                                                                     |
+| Normalised spleen volume* (%BW) §                                                                                                                                                                                                                                                                       | -2.66 (-3.50, -1.82)                                                                                                                                                                                                                                                                                    | -3.63 (-7.25, -0.02)                                                                                                                                                                                                                                                                                    | -0.11 (-0.19, -0.03)                                                                                                                                                                                                                                                                                    |
+| § Excludes patients with splenectomy. N = 30, 6 and 34 for the 3 above groups. * Liver and spleen volume are normalised as a percentage of body weight. Normal spleen is defined as 0.2% of body weight; normal liver as 2.5% of body weight Note: Imputation was applied to intermittent missing data. | § Excludes patients with splenectomy. N = 30, 6 and 34 for the 3 above groups. * Liver and spleen volume are normalised as a percentage of body weight. Normal spleen is defined as 0.2% of body weight; normal liver as 2.5% of body weight Note: Imputation was applied to intermittent missing data. | § Excludes patients with splenectomy. N = 30, 6 and 34 for the 3 above groups. * Liver and spleen volume are normalised as a percentage of body weight. Normal spleen is defined as 0.2% of body weight; normal liver as 2.5% of body weight Note: Imputation was applied to intermittent missing data. | § Excludes patients with splenectomy. N = 30, 6 and 34 for the 3 above groups. * Liver and spleen volume are normalised as a percentage of body weight. Normal spleen is defined as 0.2% of body weight; normal liver as 2.5% of body weight Note: Imputation was applied to intermittent missing data. |
 
 In this study, BMD was assessed using dual x-ray absorptiometry of the lumbar spine and femoral neck. Among 31 treatment-naïve adult patients treated with velaglucerase alfa, the mean lumbar spine BMD Z-score at baseline was -1.820 (95% CI: -2.21, -1.43) and increased by 0.62 (95% CI: 0.39, 0.84) from baseline following 24 months of treatment with velaglucerase alfa. Similar results were seen in treatment-naïve patients who received 9 months of imiglucerase followed by velaglucerase alfa for 15 months. In patients who switched from long-term imiglucerase to velaglucerase alfa, lumbar spine BMD was maintained at 24 months. In contrast, no significant change in femoral neck BMD was observed.
 
@@ -305,7 +309,7 @@ These treatment effects on haemoglobin, platelet count, organ volumes, bone mine
 
 Study 402
 
-Study 402 was a Phase IV, open-label, single-arm study that evaluated the effect of VPRIV on bonerelated pathology in 21 treatment naïve adult subjects with type 1 Gaucher disease. The primary efficacy analysis was conducted in 16 subjects that completed 24 months of VPRIV treatment with a median age of 46 years at baseline and baseline mean (SD) BMD Z-score of -1.93 (0.876).
+Study 402 was a Phase IV, open-label, single-arm study that evaluated the effect of VPRIV on bone-related pathology in 21 treatment naïve adult subjects with type 1 Gaucher disease. The primary efficacy analysis was conducted in 16 subjects that completed 24 months of VPRIV treatment with a median age of 46 years at baseline and baseline mean (SD) BMD Z-score of -1.93 (0.876).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -315,13 +319,13 @@ The secondary endpoints [ITT population: OC (observed cases)] as seen in Table 3
 
 Table 3: Secondary endpoints in SHP-GCB-402 study - Baseline mean (SD), mean change from baseline to month 24, 95 % CI
 
-| Clinical parameters                     | Baseline mean (SD)   | Mean change from baseline to month 24 [95% CI]   |
-|-----------------------------------------|----------------------|--------------------------------------------------|
-| Bone Marrow Burden (BMB) score (n=13)   | 7.8 (2.61)           | -3.0 [-4.4; -1.6]                                |
-| Haemoglobin concentration (g/dL) (n=18) | 13.1 (1.30)          | 0.90 [0.29; 1.51]                                |
-| Platelet count (x 10 9 /L) (n=16)       | 135.3 (47.94)        | 69.16 [40.67; 97.64]                             |
-| Normalised liver volume (%BW) (n=15)    | 2.8 (0.59)           | -0.45 [-0.67; -0.22]                             |
-| Normalised spleen volume (%BW) (n=15)   | 1.0 (0.86)           | -0.56 [-0.97; -0.15]                             |
+| Clinical parameters                                                    | Baseline mean (SD)            | Mean change from baseline to month 24 (95% CI)   |
+|------------------------------------------------------------------------|-------------------------------|--------------------------------------------------|
+| Bone Marrow Burden (BMB) score (n = 13)                                | 7.8 (2.61)                    | -3.0 (-4.4, -1.6)                                |
+| Haemoglobin concentration (g/dl) (n = 18)                              | 13.1 (1.30)                   | 0.90 (0.29, 1.51)                                |
+| Platelet count (x 10 9 /l) (n = 16)                                    | 135.3 (47.94)                 | 69.16 (40.67, 97.64)                             |
+| Normalised liver volume (%BW) (n = 15)                                 | 2.8 (0.59)                    | -0.45 (-0.67, -0.22)                             |
+| Normalised spleen volume (%BW) (n = 15) CI = confidence interval; SD = | 1.0 (0.86) standard deviation | -0.56 (-0.97, -0.15)                             |
 
 The safety profile was consistent with data from previous studies as well; no new safety signals were observed.
 
@@ -329,7 +333,7 @@ The safety profile was consistent with data from previous studies as well; no ne
 
 Use in the age group 4 to 17 is supported by evidence from controlled studies in adults and paediatric [20 of 94 (21%)] patients. The safety and efficacy profiles were similar between paediatric and adult patients. The studies allowed the inclusion of patients 2 years and older and the safety and efficacy profiles are expected to be similar down to the age of 2 years. However, no data are available for children under the age of 4 years. The effect on height was assessed in the study 044 (see section 5.1, extension study 044) .
 
-Phase I/II study HGT-GCB-068 was conducted to explore the efficacy and safety of velaglucerase alfa ERT in treatment naïve children and adolescents with type 3 Gaucher disease. This was a multicentre, open-label study in which 60 U/kg of velaglucerase alfa was administered by intravenous infusion every other week (EOW) over 12 months in 6 patients (2 to 17 years of age at enrolment) with a confirmed diagnosis of type 3 Gaucher disease.
+Phase I/II study HGT-GCB-068 was conducted to explore the efficacy and safety of velaglucerase alfa ERT in treatment naïve children and adolescents with type 3 Gaucher disease. This was a multicentre, open-label study in which 60 Units/kg of velaglucerase alfa was administered by intravenous infusion every other week (EOW) over 12 months in 6 patients (2 to 17 years of age at enrolment) with a confirmed diagnosis of type 3 Gaucher disease.
 
 In this small, exploratory study, the non-neurological efficacy findings and the safety profile of intravenous velaglucerase alfa in type 3 Gaucher patients were consistent with those observed in patients with type 1 Gaucher disease. There was no indication of significant improvements of the neurological manifestations of type 3 Gaucher disease except for one patient in this study.
 
@@ -337,11 +341,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## 5.2 Pharmacokinetic properties
 
-There were no apparent pharmacokinetic differences between male and female patients with type 1 Gaucher disease. None of the subjects in the pharmacokinetic studies were positive for
+There were no apparent pharmacokinetic differences between male and female patients with type 1 Gaucher disease. None of the subjects in the pharmacokinetic studies were positive for anti-velaglucerase alfa antibodies on the days of pharmacokinetic evaluation. Therefore, it was not possible to evaluate the effect of antibody response on the pharmacokinetic profile of velaglucerase alfa.
 
 <div style=\"page-break-after: always\"></div>
-
-anti-velaglucerase alfa antibodies on the days of pharmacokinetic evaluation. Therefore, it was not possible to evaluate the effect of antibody response on the pharmacokinetic profile of velaglucerase alfa.
 
 ## Absorption
 
@@ -353,7 +355,7 @@ Velaglucerase alfa exhibited an approximately linear (i.e. first-order) pharmaco
 
 ## Elimination
 
-The range of velaglucerase alfa clearance in paediatric patients (N=7, age range 4 to 17 years) was contained within the range of clearance values in adult patients (N=15, age range 19 to 62 years).
+The range of velaglucerase alfa clearance in paediatric patients (N = 7, age range 4 to 17 years) was contained within the range of clearance values in adult patients (N = 15, age range 19 to 62 years).
 
 ## 5.3 Preclinical safety data
 
@@ -363,7 +365,7 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## 6.1 List of excipients
 
-Sucrose Sodium citrate dihydrate (E331) Citric acid monohydrate (E330) Polysorbate 20
+Sucrose Sodium citrate dihydrate (E331) Citric acid monohydrate (E330) Polysorbate 20 (E432)
 
 ## 6.2 Incompatibilities
 
@@ -373,17 +375,17 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 3 years.
 
-## Reconstituted and diluted solution for infusion:
+Reconstituted and diluted solution for infusion:
 
-Chemical and physical in-use stability has been demonstrated for 24 hours at 2  C to 8  C under protection from light.
+Chemical and physical in-use stability has been demonstrated for 24 hours at 2 °C to 8 °C under protection from light.
 
-From a microbiological point of view, the medicinal product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and must not exceed 24 hours at 2  C to 8  C.
+From a microbiological point of view, the medicinal product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and must not exceed 24 hours at 2 °C to 8 °C.
 
 <div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2  C - 8  C).
+Store in a refrigerator (2 °C - 8 °C).
 
 Do not freeze.
 
@@ -435,34 +437,28 @@ Date of latest renewal: 23 July 2020
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-## Name and address of the manufacturers of the biological active substance
-
-Cell Bank storage and Drug Substance Manufacture Shire Human Genetic Therapies, Inc 205 Alewife Brook Parkway, Cambridge, Massachusetts 02138 USA
+Name and address of the manufacturer of the biological active substance
 
 Drug Substance Manufacture Shire Human Genetic Therapies, Inc 400 Shire Way, Lexington, Massachusetts 02421 USA
 
-Name and address of the manufacturers responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-Shire Pharmaceuticals Ireland Limited Block 2 &amp; 3 Miesian Plaza 50 - 58 Baggot Street Lower Dublin 2 Ireland
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -470,26 +466,26 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-<div style=\"page-break-after: always\"></div>
-
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorization holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-## An updated RMP should be submitted:
+An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency.
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates of submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
-##  Additional risk minimisation measures
+<div style=\"page-break-after: always\"></div>
+
+## · Additional risk minimisation measures
 
 Prior to the use of VPRIV in each Member State, the MAH must agree about the content and format of the educational material including communication media, distribution modalities and any other aspects of the programme, with the National Competent Authority.
 
@@ -497,39 +493,39 @@ The educational material is aimed to enable healthcare professionals in the appr
 
 The MAH shall ensure that in each Member State where velaglucerase is marketed, all healthcare professionals, and patients/carers who are expected to prescribe, dispense or use velaglucerase have access to/are provided with the following educational package:
 
--  Healthcare Professional (HCP) Guide
--  Educational material for nurses/patients/caregivers
+- Healthcare Professional (HCP) Guide
+- Educational material for nurses/patients/caregivers
 
 ## Healthcare Professional (HCP) Guide
 
--  Enhance awareness on the risk of IRRs including hypersensitivity reactions associated with velaglucerase.
--  Checklist to determine patient eligibility prior to initiation of home infusion:
-- o Patient had at least 3 consecutive well-tolerated velaglucerase infusions (no infusion related reactions) in the clinic.
+- Enhance awareness on the risk of IRRs including hypersensitivity reactions associated with velaglucerase.
+- Checklist to determine patient eligibility prior to initiation of home infusion:
+- o Patient had at least 3 consecutive well-tolerated velaglucerase infusions (no infusion-related reactions) in the clinic.
 - o Patient assessed to be medically stable.
 - o History of adherence to infusion schedule.
 - o The homecare nurse, patient and/or caregiver have been trained about home infusion, the associated risks, and how to act in an emergency.
 - o The homecare nurse, patient and/or caregiver has received the educational material for nurses/patients.
--  Detailed description of the administration procedures of VPRIV
--  Infusion diary is the communication tool for all involved in the infusion. It should be provided to patient/caregiver. It should include:
+- Detailed description of the administration procedures of VPRIV
+- Infusion diary is the communication tool for all involved in the infusion. It should be provided to patient/caregiver. It should include:
 - o The infusion plan determined by the treating physician including dose, infusion rate etc., and any changes
 - o A record of the actual infusions administered by the infusing person including health status of the patient before, during and after infusion and measures taken in response to an adverse event
-
-<div style=\"page-break-after: always\"></div>
-
--  The physician should ensure that the medications for pre-treatment, and/or treatment of IRR are prescribed and readily available and that the nurse/patient/caregiver knows how to utilize medications for pre-medication and/or treatment of serious IRRs when needed.
--  The physician is responsible that the homecare nurse, patient and/or caregiver is adequately trained in preparing, administering and documenting the infusions and that they are aware of risks and trained to act in emergencies adequately including communication of adverse events to the treating physician.
+- The physician should ensure that the medications for pre-treatment, and/or treatment of IRR are prescribed and readily available and that the nurse/patient/caregiver knows how to utilize medications for pre-medication and/or treatment of serious IRRs when needed.
+- The physician is responsible that the homecare nurse, patient and/or caregiver is adequately trained in preparing, administering and documenting the infusions and that they are aware of risks and trained to act in emergencies adequately including communication of adverse events to the treating physician.
 
 ## Educational material for nurses/patients/caregivers
 
--  A description of the correct preparation and administration technique.
--  Emphasize the importance of adhering to the dosing and infusion rate prescribed by the physician.
--  Any medication prescribed by the treating physician for pre-treatment, and/or treatment of any IRRs should be readily available at home. Importance to follow on any instructions regarding medication for pre-treatment and/or treatment of serious IRRs and knows how to utilize it.
--  Information on signs and symptoms related to IRRs
--  Infusion diary is the communication tool for all involved in the infusion. It should be provided to patient/caregiver. It should include:
+- A description of the correct preparation and administration technique.
+- Emphasize the importance of adhering to the dosing and infusion rate prescribed by the physician.
+- Any medication prescribed by the treating physician for pre-treatment, and/or treatment of any IRRs should be readily available at home. Importance to follow on any instructions regarding medication for pre-treatment and/or treatment of serious IRRs and knows how to utilize it.
+- Information on signs and symptoms related to IRRs
+- Infusion diary is the communication tool for all involved in the infusion. It should be provided to patient/caregiver. It should include:
 - o The infusion plan determined by the treating physician including dose, infusion rate etc., and any changes
+
+<div style=\"page-break-after: always\"></div>
+
 - o A record of the actual infusions administered by the infusing person including health status of the patient before, during and after infusion and measures taken in response to an adverse event
--  In the emergency plan, the physician determines for the individual patient how to act in an emergency.
--  During self-infusion, the importance of the patient always having a caregiver or responsible adult nearby who is capable of acting according to the emergency plan.
+- In the emergency plan, the physician determines for the individual patient how to act in an emergency.
+- During self-infusion, the importance of the patient always having a caregiver or responsible adult nearby who is capable of acting according to the emergency plan.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -545,13 +541,15 @@ The MAH shall ensure that in each Member State where velaglucerase is marketed, 
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON - 400 UNITS (1 vial pack)
+OUTER CARTON - 400 UNITS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-VPRIV 400 Units powder for solution for infusion velaglucerase alfa
+VPRIV 400 Units powder for solution for infusion
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+velaglucerase alfa
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 Each vial contains 400 Units of velaglucerase alfa.
 
@@ -559,251 +557,21 @@ After reconstitution, one ml of the solution contains 100 Units of velaglucerase
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains:
-
-Sucrose
-
-Sodium citrate dihydrate
-
-Citric acid monohydrate
-
-Polysorbate 20
+Also contains: sucrose, sodium citrate dihydrate (E331), citric acid monohydrate (E330), polysorbate 20 (E432).
 
 See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder for solution for infusion
+## Powder for solution for infusion
 
 1 vial
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Single use only.
-
-Read the package leaflet before use.
-
-Intravenous use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-<div style=\"page-break-after: always\"></div>
-
-## After reconstitution and dilution
-
-Use immediately. Do not exceed 24 hours at 2  C to 8  C.
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Store in a refrigerator.
-
-Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-Do not use, if it is discoloured or if foreign particulate matter is present.
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Takeda Pharmaceuticals International AG Ireland Branch
-
-Block 2 Miesian Plaza
-
-50-58 Baggot Street Lower
-
-Dublin 2
-
-D02 HW68
-
-Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/10/646/002
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Justification for not including Braille accepted
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included
-
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
-
-PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-OUTER CARTON - 400 UNITS (5 vial pack)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-VPRIV 400 Units powder for solution for infusion velaglucerase alfa
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each vial contains 400 Units of velaglucerase alfa.
-
-After reconstitution, one ml of the solution contains 100 Units of velaglucerase alfa.
-
-## 3. LIST OF EXCIPIENTS
-
-Also contains:
-
-Sucrose
-
-Sodium citrate dihydrate
-
-Citric acid monohydrate
-
-Polysorbate 20
-
-See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Powder for solution for infusion
-
 5 vials
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Single use only.
-
-Read the package leaflet before use.
-
-Intravenous use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-<div style=\"page-break-after: always\"></div>
-
-## After reconstitution and dilution
-
-Use immediately. Do not exceed 24 hours at 2  C to 8  C.
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Store in a refrigerator.
-
-Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-Do not use, if it is discoloured or if foreign particulate matter is present.
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Takeda Pharmaceuticals International AG Ireland Branch
-
-Block 2 Miesian Plaza
-
-50-58 Baggot Street Lower
-
-Dublin 2
-
-D02 HW68
-
-Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/10/646/005
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Justification for not including Braille accepted
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included
-
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
-
-PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-OUTER CARTON - 400 UNITS (25 vial pack)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-VPRIV 400 Units powder for solution for infusion velaglucerase alfa
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each vial contains 400 Units of velaglucerase alfa.
-
-After reconstitution, one ml of the solution contains 100 Units of velaglucerase alfa.
-
-## 3. LIST OF EXCIPIENTS
-
-Also contains:
-
-Sucrose
-
-Sodium citrate dihydrate
-
-Citric acid monohydrate
-
-Polysorbate 20
-
-See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Powder for solution for infusion
 
 25 vials
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Single use only.
 
@@ -823,9 +591,9 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## After reconstitution and dilution
+## After reconstitution and dilution:
 
-Use immediately. Do not exceed 24 hours at 2  C to 8  C.
+Use immediately. Do not exceed 24 hours at 2 °C to 8 °C.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -836,8 +604,6 @@ Do not freeze.
 Keep the vial in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-Do not use, if it is discoloured or if foreign particulate matter is present.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -853,9 +619,13 @@ D02 HW68
 
 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/10/646/006
+EU/1/10/646/002 1 vial
+
+EU/1/10/646/005 5 vials
+
+EU/1/10/646/006 25 vials
 
 ## 13. BATCH NUMBER
 
@@ -863,38 +633,40 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
-Justification for not including Braille accepted
+Justification for not including Braille accepted.
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL - 400 UNITS                                                   |
 
-VIAL - 400 UNITS
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+VPRIV 400 Units powder for solution for infusion velaglucerase alfa IV
 
-VPRIV 400 Units powder for solution for infusion velaglucerase alfa Intravenous use
-
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Read the package leaflet before use.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -903,7 +675,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -916,22 +689,20 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## VPRIV 400 Units powder for solution for infusion
-
-## velaglucerase alfa
+## VPRIV 400 Units powder for solution for infusion velaglucerase alfa
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet (see section 4).
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet (see section 4).
 
 ## What is in this leaflet
 
 1. What VPRIV is and what it is used for
-2. What you need to know before VPRIV is used
-3. How VPRIV is used
+2. What you need to know before you use VPRIV
+3. How to use VPRIV
 4. Possible side effects
 5. How to store VPRIV
 6. Contents of the pack and other information
@@ -944,23 +715,23 @@ Gaucher disease is a genetic disorder caused by a missing or defective enzyme na
 
 VPRIV contains a substance called velaglucerase alfa which is designed to replace the missing or defective enzyme, glucocerebrosidase, in patients with Gaucher disease.
 
-## 2. What you need to know before VPRIV is used
+## 2. What you need to know before you use VPRIV
 
 ## Do not use VPRIV
 
-- -if you are severely allergic to velaglucerase alfa or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to velaglucerase alfa or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor before VPRIV is used
 
-- -If you are treated with VPRIV, you may experience side effects during or following the infusion (see section 4, possible side effects). These are called infusion related reactions and might appear as a hypersensitivity reaction with symptoms like nausea, rash, difficulty in breathing, back pain, chest discomfort (chest tightness), hives, joint pain or headache.
-- -Apart from symptoms of hypersensitivity reactions, infusion-related reactions might show as dizziness, high blood pressure, tiredness, fever, itching, blurry vision, or vomiting. If you experience any of the symptoms, you must tell your doctor immediately .
-- -You may be given additional medicines to treat or help prevent future reactions. These medicines may include antihistamines, antipyretics, and corticosteroids.
-
-<div style=\"page-break-after: always\"></div>
+- If you are treated with VPRIV, you may experience side effects during or following the infusion (see section 4, possible side effects). These are called infusion-related reactions and might appear as a hypersensitivity reaction with symptoms like nausea, rash, difficulty in breathing, back pain, chest discomfort (chest tightness), hives, joint pain or headache.
+- Apart from symptoms of hypersensitivity reactions, infusion-related reactions might show as dizziness, high blood pressure, tiredness, fever, itching, blurry vision, or vomiting. If you experience any of the symptoms, you must tell your doctor immediately .
+- You may be given additional medicines to treat or help prevent future reactions. These medicines may include antihistamines, antipyretics, and corticosteroids.
 
 Tell your doctor if you have previously experienced an infusion-related reaction with other ERT for Gaucher disease.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Children
 
@@ -986,7 +757,11 @@ VPRIV has no or negligible influence on your ability to drive or use machines.
 
 This medicine contains 12.15 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 0.6% of the recommended maximum daily dietary intake of sodium for an adult.
 
-## 3. How VPRIV is used
+## VPRIV contains polysorbate 20
+
+This medicine contains 0.484 mg of polysorbate 20 in each vial which is equivalent to 0.11 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you or your child have any known allergies.
+
+## 3. How to use VPRIV
 
 This medicine is only to be used under appropriate medical supervision of a doctor who is knowledgeable in the treatment of Gaucher disease, who will also determine the dose that you should receive.
 
@@ -1006,11 +781,11 @@ VPRIV may be given to children and adolescents (4 to 17 years of age) at the sam
 
 VPRIV may be given to the elderly (aged over 65 years) at the same dose and frequency as in adults.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Response to treatment
 
 Your doctor will monitor your response to treatment and may change your dose (up or down) over time.
-
-<div style=\"page-break-after: always\"></div>
 
 If you are tolerating your infusions well in the clinic, your doctor or nurse may administer your infusions at home.
 
@@ -1044,33 +819,32 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Commonly (may affect up to 1 in 10 people), patients experienced a severe allergic reaction, with difficulty breathing, chest discomfort (chest tightness), feeling sick (nausea), swelling of the face, lips, tongue or throat (anaphylactic/anaphylactoid reactions), common is also an allergic skin reaction such as hives, severe rash or itching. If any of these happen tell your doctor immediately.
 
-Most side effects, including the allergic reactions, occurred during the infusion or shortly after. These are called infusion related reactions.
+Most side effects, including the allergic reactions, occurred during the infusion or shortly after. These are called infusion-related reactions.
 
-- -If the reaction is severe, in the clinic your doctor will stop the intravenous infusion immediately and start giving you appropriate medical treatment.
-- -In case of home administration, if a serious infusion-related reaction occurs, including anaphylaxis, immediately stop the infusion, immediately seek emergency support and contact your doctor.
-- -If the reactions are severe and/or there is a loss of effect from this medicine, your doctor will perform a blood test to check for antibodies which may affect the outcome of your treatment.
-- -Your doctor or nurse may decide to continue to administer VPRIV even if you experience any infusion related-reaction. Your condition will be closely monitored.
+- If the reaction is severe, in the clinic your doctor will stop the intravenous infusion immediately and start giving you appropriate medical treatment.
+- In case of home administration, if a serious infusion-related reaction occurs, including anaphylaxis, immediately stop the infusion, immediately seek emergency support and contact your doctor.
+- If the reactions are severe and/or there is a loss of effect from this medicine, your doctor will perform a blood test to check for antibodies which may affect the outcome of your treatment.
+- Your doctor or nurse may decide to continue to administer VPRIV even if you experience any infusion-related reaction. Your condition will be closely monitored.
 
-Other infusion related reactions that occurred very commonly (may affect more than 1 in 10 people) include headache, dizziness, fever/body temperature increased, back pain, joint pain and tiredness, as well as high blood pressure (commonly reported), blurry vision, and vomiting (uncommonly reported). If any of these happen tell your doctor immediately.
+Other infusion-related reactions that occurred very commonly (may affect more than 1 in 10 people) include headache, dizziness, fever/body temperature increased, back pain, joint pain and tiredness, as well as high blood pressure (commonly reported), blurry vision, and vomiting (uncommonly reported). If any of these happen tell your doctor immediately.
+
+<div style=\"page-break-after: always\"></div>
 
 Other side effects include:
 
 ## Very common side effects (may affect more than 1 in 10 people) are:
 
-- -bone pain
-
-<div style=\"page-break-after: always\"></div>
-
-- -weakness/loss of strength
-- -stomach ache
+- bone pain
+- weakness/loss of strength
+- stomach ache
 
 ## Common side effects (may affect up to 1 in 10 people) are:
 
-- -lengthening of the time it takes for a cut to stop bleeding may lead to easy/spontaneous bleeding/easy bruising
-- -skin flushing
-- -rapid heart beat
-- -developing antibodies to VPRIV (see section 2)
-- -decreased blood pressure
+- lengthening of the time it takes for a cut to stop bleeding may lead to easy/spontaneous bleeding/easy bruising
+- skin flushing
+- rapid heart beat
+- developing antibodies to VPRIV (see section 2)
+- decreased blood pressure
 
 ## Reporting of side effects
 
@@ -1082,50 +856,35 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
 
-Store in the refrigerator (2 ºC - 8 ºC).
+Store in the refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
-Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
-
-Reconstituted and diluted solution for infusion:
-
-Use immediately. Do not exceed 24 hours at 2  C to 8  C.
+Reconstituted and diluted solution for infusion: Use immediately. Do not exceed 24 hours at 2 °C to 8 °C.
 
 Do not use if the solution is discoloured or if foreign particles are present.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throwaway medicines you no longer use. These measures will help to protect the environment.
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What VPRIV contains
 
 - -
-- The active substance is velaglucerase alfa. Each vial contains 400 Units of velaglucerase alfa.
-
-After reconstitution, one ml of solution contains 100 Units of velaglucerase alfa
-
-- -The other ingredients are sucrose, sodium citrate dihydrate, citric acid monohydrate and polysorbate 20 (see section 2 'VPRIV contains sodium').
+- The active substance is velaglucerase alfa. Each vial contains 400 Units of velaglucerase alfa. After reconstitution, one ml of solution contains 100 Units of velaglucerase alfa.
+- The other ingredients are sucrose, sodium citrate dihydrate (E331), citric acid monohydrate (E330) and polysorbate 20 (E432) (see section 2 'VPRIV contains sodium' and 'VPRIV contains polysorbate 20').
 
 ## What VPRIV looks like and contents of the pack
 
 20 ml glass vial containing a white to off-white powder for solution for infusion.
 
-Packs of 1, 5 or 25 vials. Not all pack sizes may be marketed.
+Packs of 1, 5 or 25 vials.
 
 <div style=\"page-break-after: always\"></div>
 
+Not all pack sizes may be marketed.
+
 ## Marketing Authorisation Holder and Manufacturer
 
-## Marketing Authorisation Holder
-
 Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-## Manufacturer
-
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-Shire Pharmaceuticals Ireland Limited Block 2 &amp; 3 Miesian Plaza 50 - 58 Baggot Street Lower Dublin 2 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1147,13 +906,23 @@ Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Deutschland
 
-Takeda GmbH Tel: +49 (0)800 825 3325
-
-medinfoEMEA@takeda.com
+Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
 
 ## Eesti
 
 Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
+
+## Ελλάδα
+
+Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com
+
+## España
+
+Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
+
+## France
+
+Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com
 
 ## Lietuva
 
@@ -1179,59 +948,29 @@ Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
 
 Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com
 
-<div style=\"page-break-after: always\"></div>
-
-## Ελλάδα
-
 ## Österreich
 
-Τakeda ΕΛΛΑΣ Α.Ε.
-
-Tηλ: +30 210 6387800
-
-medinfoEMEA@takeda.com
-
-Takeda Pharma Ges.m.b.H.
-
-Tel: +43 (0) 800-20 80 50
-
-medinfoEMEA@takeda.com
-
-## España
-
-Takeda Farmacéutica España, S.A
-
-Tel: +34 917 90 42 22
-
-medinfoEMEA@takeda.com
+Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
 
 ## Polska
 
-Takeda Pharma Sp. z o.o.
-
-Tel.: +48223062447
-
-medinfoEMEA@takeda.com
-
-## France
-
-Takeda France SAS
-
-Tél: + 33 1 40 67 33 00
-
-medinfoEMEA@takeda.com
+Takeda Pharma Sp. z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com
 
 ## Portugal
 
 Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
 
-## Hrvatska
+<div style=\"page-break-after: always\"></div>
 
-Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com
+## Hrvatska
 
 ## România
 
-Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals Croatia d.o.o.
+
+Tel: +385 1 377 88 96
+
+medinfoEMEA@takeda.com
 
 ## Ireland
 
@@ -1241,21 +980,13 @@ Tel: 1800 937 970
 
 medinfoEMEA@takeda.com
 
-## Slovenija
-
-Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
-
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
 medinfoEMEA@takeda.com
-
-## Slovenská republika
-
-Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
 
 ## Italia
 
@@ -1265,17 +996,41 @@ Tel: +39 06 502601
 
 medinfoEMEA@takeda.com
 
-## Suomi/Finland
-
-Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
-
 ## Κύπρος
 
 A.POTAMITIS MEDICARE LTD
 
 Τηλ: +357 22583333
 
-a.potamitismedicare@cytanet.com.cy
+a.potamitismedicare@cytanet.com.cy Takeda Pharmaceuticals SRL
+
+Tel: +40 21 335 03 91
+
+medinfoEMEA@takeda.com
+
+## Slovenija
+
+Takeda Pharmaceuticals farmacevtska družba d.o.o.
+
+Tel: + 386 (0) 59 082 480
+
+medinfoEMEA@takeda.com
+
+## Slovenská republika
+
+Takeda Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 (2) 20 602 600
+
+medinfoEMEA@takeda.com
+
+## Suomi/Finland
+
+Takeda Oy
+
+Puh/Tel: 0800 774 051
+
+medinfoEMEA@takeda.com
 
 ## Sverige
 
@@ -1289,19 +1044,13 @@ Tel: +371 67840082
 
 medinfoEMEA@takeda.com
 
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd Tel: +44 (0) 3333 000 181 medinfoEMEA@takeda.com
-
-## This leaflet was last revised in .
+## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ------------------------------------------------------------------------------------------------------------------------
-
-<div style=\"page-break-after: always\"></div>
 
 The following information is intended for healthcare professionals only.
 
@@ -1313,23 +1062,26 @@ VPRIV is a powder for solution for infusion. It requires reconstitution and dilu
 
 1. Determine the number of vials to be reconstituted based on the individual patient's weight and the prescribed dose.
 2. Remove the required vials from the refrigerator. Reconstitute each vial using sterile water for injections:
+
+Vial size
+
+400 Units Water for injections 4.3 ml
+
+<div style=\"page-break-after: always\"></div>
+
 3. Upon reconstitution, mix vials gently. Do not shake.
 4. Prior to dilution, visually inspect the solution in the vials; the solution should be clear to slightly opalescent and colourless; do not use if the solution is discoloured, or if foreign particulate matter is present.
 5. Withdraw the calculated volume of medicine from the appropriate number of vials. Some solution will remain in the vial:
 6. Dilute the total volume required in 100 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion. Mix gently. Do not shake. Initiate the infusion within 24 hours from the time of reconstitution.
 
-| Vial size   | Water for injections   |
-|-------------|------------------------|
-| 400 Units   | 4.3 ml                 |
-
 | Vial size   | Extractable volume   |
 |-------------|----------------------|
 | 400 Units   | 4.0 ml               |
 
-From a microbiological point of view, use the medicine immediately. If you do not immediately, inuse storage times and conditions prior to use are the responsibility of the user. Do not exceed 24 hours at 2  C to 8  C.
+From a microbiological point of view, use the medicine immediately. If you do not immediately, in-use storage times and conditions prior to use are the responsibility of the user. Do not exceed 24 hours at 2 °C to 8 °C.
 
 Do not dispose of the medicine via waste water or household waste. Dispose of any unused medicine or waste material in accordance with local requirements.
 
 ## Keeping a record
 
-In order to improve the traceability of biological medicine, record the name and batch number of the administered medicine clearly.
+In order to improve the traceability of biological medicine, record the name and the batch number of the administered medicine clearly.

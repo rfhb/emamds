@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-04 10:59:42
+document_datetime: 2026-08-27 10:14:58
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/qinlock-epar-product-information_en.pdf
 document_name: qinlock-epar-product-information_en.pdf
 version: success
-processing_time: 5.6979902
-conversion_datetime: 2026-08-07 14:23:07.248051
+processing_time: 10.6815674
+conversion_datetime: 2026-09-02 22:05:09.785672
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -195,13 +195,9 @@ Based on in vitro data, medicinal products that are inhibitors of BCRP (e.g. cyc
 
 Ripretinib is a weak inhibitor of CYP2C8. Co-administration of QINLOCK with repaglinide (a sensitive index substrate for CYP2C8) increased repaglinide AUC0-∞ by 26%. Repaglinide Cmax was unchanged; therefore, dose adjustment is not required.
 
-The in vivo net effect of inhibition of CYP3A4 in the intestine and systemic CYP3A4 induction is unknown. Caution is recommended when co-administering ripretinib with sensitive CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporine, tacrolimus) or that are mostly metabolised in the intestine (e.g. midazolam).
-
-Ripretinib and DP-5439 induced CYP2B6 in vitro . Co-administration of ripretinib with CYP2B6 substrates with narrow therapeutic index (e.g. efavirenz) may lead to loss of their efficacy. Ripretinib and DP-5439 down-regulated CYP1A2 in vitro . Co-administration of ripretinib with CYP1A2 substrates with narrow therapeutic index (e.g. tizanidine) may lead to increased concentrations and monitoring is recommended.
+Co-administration of QINLOCK with midazolam (a sensitive probe substrate for CYP3A4 ) did not impact the pharmacokinetics of midazolam and 1-hydroxy midazolam; therefore, dose adjustment is not required when QINLOCK is co-administered with CYP3A4 substrates. Ripretinib and DP-5439 induced CYP2B6 in vitro . Co-administration of ripretinib with CYP2B6 substrates with narrow therapeutic index (e.g. efavirenz) may lead to loss of their efficacy. Ripretinib and DP-5439 down-regulated CYP1A2 in vitro . Co-administration of ripretinib with CYP1A2 substrates with narrow therapeutic index (e.g. tizanidine) may lead to increased concentrations and monitoring is recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-It is unknown whether ripretinib may reduce the effectiveness of systemically acting hormonal contraceptives, and therefore women using systemically acting hormonal contraceptives should add a barrier method.
 
 ## UGT1A substrates
 
@@ -227,9 +223,7 @@ Effects of QINLOCK on contraceptive steroids have not been studied. A barrier me
 
 ## Pregnancy
 
-## There are no data on the use of ripretinib in pregnant women.
-
-Based on its mechanism of action, ripretinib is suspected to cause foetal harm when administered during pregnancy and animal studies have shown reproductive toxicity (see sections 4.4 and 5.3). QINLOCK should not be used during pregnancy unless the clinical condition of the woman requires treatment with ripretinib.
+There are no data on the use of ripretinib in pregnant women. Based on its mechanism of action, ripretinib is suspected to cause foetal harm when administered during pregnancy and animal studies have shown reproductive toxicity (see sections 4.4 and 5.3). QINLOCK should not be used during pregnancy unless the clinical condition of the woman requires treatment with ripretinib.
 
 ## Breast-feeding
 
@@ -532,7 +526,9 @@ EU/1/21/1569/001 EU/1/21/1569/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 18 November 2021 Date of latest renewal:
+Date of first authorisation: 18 November 2021
+
+Date of latest renewal: 29 July 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -655,9 +651,7 @@ EU/1/21/1569/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 QINLOCK 50 mg
@@ -761,10 +755,10 @@ Lot
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -781,8 +775,8 @@ QINLOCK is a cancer medicine containing the active substance ripretinib, a prote
 
 QINLOCK is used to treat adults with gastrointestinal stromal tumour (GIST), a rare type of cancer of the digestive system including the stomach and bowel , that has:
 
-- -spread to other parts of the body or cannot be removed by surgery
-- -been treated with at least 3 previous cancer medicines, including imatinib.
+- spread to other parts of the body or cannot be removed by surgery
+- been treated with at least 3 previous cancer medicines, including imatinib.
 
 If you have any questions about how QINLOCK works or why this medicine has been prescribed for you, please ask your doctor.
 
@@ -794,19 +788,19 @@ Do not take QINLOCK if you are allergic to ripretinib or any of the other ingred
 
 ## Before taking QINLOCK, talk to your doctor or pharmacist if you have or have a history of :
 
-- -high blood pressure. Your doctor will monitor your blood pressure prior to and during treatment with QINLOCK and may give you a medicine to treat high blood pressure, if needed.
-- -heart conditions. Your doctor may perform additional tests to assess how your heart functions prior to and during your treatment with QINLOCK.
-- -liver or kidney problems.
+- high blood pressure. Your doctor will monitor your blood pressure prior to and during treatment with QINLOCK and may give you a medicine to treat high blood pressure, if needed.
+- heart conditions. Your doctor may perform additional tests to assess how your heart functions prior to and during your treatment with QINLOCK.
+- liver or kidney problems.
 
 ## When taking QINLOCK, talk to your doctor or pharmacist if:
 
 <div style=\"page-break-after: always\"></div>
 
-- -you notice redness, pain, swelling, or blisters on the palms of your hands or soles of your feet. This is a skin problem called palmar-plantar erythrodysaesthesia syndrome (PPES). Your doctor may continue your treatment, change your dose or stop your treatment until your condition improves (see section 4).
-- -you notice unexpected skin changes such as a new wart, open sore or reddish bump that bleeds or does not heal, or a change in size or colour of a mole. QINLOCK may increase the risk of some types of skin cancers (see section 4). Your doctor will check your skin when starting treatment with QINLOCK and routinely during treatment. It is important that you check your skin regularly.
-- -you have wounds from any recent surgery that aren't healing as expected. QINLOCK may affect the way wounds heal. Your doctor may decide to temporarily stop treatment with QINLOCK a few days before surgery and until your wound has healed after surgery. Your doctor will decide when to start QINLOCK again. It is important that you tell your doctor if you have any planned surgeries in the future.
-- -you feel tired, short of breath, notice protruding veins in your neck, or have swelling of the abdomen, ankles or lower legs while taking QINLOCK, these may be symptoms of heart failure (see section 4).
-- -your skin or eyes become more sensitive to sunlight or other forms of light. Do not expose yourself to direct sunlight, sunlamps and other sources of ultraviolet radiation when taking this medicine. You should wear protective clothing, and apply sun cream with high sun protection factor when you are exposed to strong sunlight.
+- you notice redness, pain, swelling, or blisters on the palms of your hands or soles of your feet. This is a skin problem called palmar-plantar erythrodysaesthesia syndrome (PPES). Your doctor may continue your treatment, change your dose or stop your treatment until your condition improves (see section 4).
+- you notice unexpected skin changes such as a new wart, open sore or reddish bump that bleeds or does not heal, or a change in size or colour of a mole. QINLOCK may increase the risk of some types of skin cancers (see section 4). Your doctor will check your skin when starting treatment with QINLOCK and routinely during treatment. It is important that you check your skin regularly.
+- you have wounds from any recent surgery that aren't healing as expected. QINLOCK may affect the way wounds heal. Your doctor may decide to temporarily stop treatment with QINLOCK a few days before surgery and until your wound has healed after surgery. Your doctor will decide when to start QINLOCK again. It is important that you tell your doctor if you have any planned surgeries in the future.
+- you feel tired, short of breath, notice protruding veins in your neck, or have swelling of the abdomen, ankles or lower legs while taking QINLOCK, these may be symptoms of heart failure (see section 4).
+- your skin or eyes become more sensitive to sunlight or other forms of light. Do not expose yourself to direct sunlight, sunlamps and other sources of ultraviolet radiation when taking this medicine. You should wear protective clothing, and apply sun cream with high sun protection factor when you are exposed to strong sunlight.
 
 ## Important information for men and women about contraception
 
@@ -824,24 +818,23 @@ QINLOCK can affect the way some medicines work. Also, some medicines can affect 
 
 In particular, tell your doctor if you are taking any of the following medicines:
 
-- -medicines used to treat fungal infections (such as ketoconazole, itraconazole, posaconazole, voriconazole)
-- -medicines used to treat bacterial infections (such as erythromycin, clarithromycin, rifampicin)
-- -medicines used to treat HIV (such as ritonavir, efavirenz, etravirine, bictegravir, cabotegravir, dolutegravir, raltegravir)
-- -medicines used for epilepsy or fits (such as phenytoin, carbamazepine, phenobarbital, lamotrigine)
-- -medicines used to treat irregular heartbeats (such as digoxin)
-- -medicines used to prevent stroke or harmful blood clots (such as dabigatran etexilate)
-- -medicines used to lower elevated cholesterol (such as rosuvastatin)
-- -medicines used to reduce blood glucose or to treat diabetes (such as repaglinide or metformin)
-- -medicines used to treat severe bowel and rheumatic joint inflammation (such as sulfasalazine)
+- medicines used to treat fungal infections (such as ketoconazole, itraconazole, posaconazole, voriconazole)
+- medicines used to treat bacterial infections (such as erythromycin, clarithromycin, rifampicin)
+- medicines used to treat HIV (such as ritonavir, efavirenz, etravirine, bictegravir, cabotegravir, dolutegravir, raltegravir)
+- medicines used for epilepsy or fits (such as phenytoin, carbamazepine, phenobarbital, lamotrigine)
+- medicines used to treat irregular heartbeats (such as digoxin)
+- medicines used to prevent stroke or harmful blood clots (such as dabigatran etexilate)
+- medicines used to lower elevated cholesterol (such as rosuvastatin)
+- medicines used to reduce blood glucose or to treat diabetes (such as metformin)
+- medicines used to treat severe bowel and rheumatic joint inflammation (such as sulfasalazine)
 
 <div style=\"page-break-after: always\"></div>
 
-- -medicines used to treat cancer (such as paclitaxel or irinotecan)
-- -medicines used to prevent organ rejection (such as cyclosporine, tacrolimus)
-- -medicines used to treat low platelet counts in the blood (such as eltrombopag)
-- -medicines used to treat muscle spasms (such as tizanidine)
-- -medicines used to relieve anxiety before procedures (such as midazolam)
-- -herbal preparations used to treat depression and anxiety containing St. John's Wort ( Hypericum perforatum ).
+- medicines used to treat cancer (such as paclitaxel or irinotecan)
+- medicines used to prevent organ rejection (such as cyclosporine, tacrolimus)
+- medicines used to treat low platelet counts in the blood (such as eltrombopag)
+- medicines used to treat muscle spasms (such as tizanidine)
+- herbal preparations used to treat depression and anxiety containing St. John's Wort ( Hypericum perforatum ).
 
 ## QINLOCK with food and drink
 
@@ -903,8 +896,8 @@ If you have accidentally taken too many tablets, seek urgent medical attention.
 
 What to do if you forget to take this medicine, depends on when you remember the dose that has been forgotten. If it is:
 
-- -8 hours or less (4 hours or less for 150 mg twice per day doses) after the time it should have been taken, take the missed dose as soon as you remember. Then take the next dose as usual.
-- -more than 8 hours after (more than 4 hours for 150 mg twice per day doses) the time it should have been taken, skip the missed dose. Then take the next dose at the usual time.
+- 8 hours or less (4 hours or less for 150 mg twice per day doses) after the time it should have been taken, take the missed dose as soon as you remember. Then take the next dose as usual.
+- more than 8 hours after (more than 4 hours for 150 mg twice per day doses) the time it should have been taken, skip the missed dose. Then take the next dose at the usual time.
 
 Do not take a double dose to make up a forgotten dose.
 
@@ -922,13 +915,15 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Seek urgent medical attention if you experience any of the following (see section 2):
 
-- -Skin problems (called PPES)
+## - Skin problems (called PPES)
 
 PPES is a very common side effect when taking this medicine. If you develop:
 
-- redness, pain, swelling, or blisters on the palms of your hands or soles of your feet, your doctor may continue your treatment, change your dose or stop your treatment until your condition improves.
+- redness, pain, swelling, or blisters on the palms of your hands or soles of your feet,
 
-## -High blood pressure
+your doctor may continue your treatment, change your dose or stop your treatment until your condition improves.
+
+## - High blood pressure
 
 High blood pressure is a very common side effect when taking this medicine. If you develop:
 
@@ -936,59 +931,61 @@ High blood pressure is a very common side effect when taking this medicine. If y
 
 your doctor may change your dose or stop your treatment until your condition improves.
 
-## -Heart problems (heart failure)
+## - Heart problems (heart failure)
 
 Heart failure is a common side effect when taking this medicine. If you feel:
 
+- very tired, are short of breath, have swollen feet and/or ankles,
+
 <div style=\"page-break-after: always\"></div>
 
-- very tired, are short of breath, have swollen feet and/or ankles, these may be symptoms of heart problems.
+these may be symptoms of heart problems.
 
 ## Other side effects
 
 Talk to your doctor or pharmacist if you experience any of these other side effects:
 
-## -Skin cancer
+## - Skin cancer
 
 Treatment with QINLOCK may result in certain types of skin cancer such as 'cutaneous squamous cell carcinoma' and 'melanoma'. Tell your doctor if you notice any skin changes during treatment including a new wart, open sore or reddish bump that bleeds or does not heal, or a change in size or colour of a mole. Your doctor will check your skin when starting treatment with QINLOCK and routinely during treatment (see section 2).
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
-- -feeling sick (nausea)
-- -constipation
-- -diarrhoea
-- -being sick (vomiting)
-- -joint pain
-- -headache
-- -shortness of breath
-- -blood tests showing increased levels of bilirubin, a substance produced by the liver
-- -blood tests showing increased levels of lipase, an enzyme involved in digestion
-- -blood tests showing decreased levels of phosphate
-- -tiredness
-- -hair loss
-- -muscle ache or pain
-- -weight loss
-- -muscle spasms
-- -dry skin
-- -back pain
-- -cough
-- -swelling in hands and lower legs
-- -pain in hands or feet
-- -itching
-- -non-cancerous skin lesions
+- feeling sick (nausea)
+- constipation
+- diarrhoea
+- being sick (vomiting)
+- joint pain
+- headache
+- shortness of breath
+- blood tests showing increased levels of bilirubin, a substance produced by the liver
+- blood tests showing increased levels of lipase, an enzyme involved in digestion
+- blood tests showing decreased levels of phosphate
+- tiredness
+- hair loss
+- muscle ache or pain
+- weight loss
+- muscle spasms
+- dry skin
+- back pain
+- cough
+- swelling in hands and lower legs
+- pain in hands or feet
+- itching
+- non-cancerous skin lesions
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- -sores in mouth
-- -belly (abdominal) pain
-- -peripheral nerve impairment (numbness and tingling in feet or hands, burning, stabbing or shooting pain in affected areas, loss of balance and co-coordination, and muscle weakness, especially in the feet)
-- -skin reactions such as flaking and inflammation of the skin, rash characterised by a flat, red area on the skin that is covered with small bumps or acne
-- -abnormal liver test (possible liver damage shown by blood test)
-- -depression
-- -underactive thyroid gland
-- -weakness
-- -chest pain
-- -rapid heart rate
+- sores in mouth
+- belly (abdominal) pain
+- peripheral nerve impairment (numbness and tingling in feet or hands, burning, stabbing or shooting pain in affected areas, loss of balance and co-coordination, and muscle weakness, especially in the feet)
+- skin reactions such as flaking and inflammation of the skin, rash characterised by a flat, red area on the skin that is covered with small bumps or acne
+- abnormal liver test (possible liver damage shown by blood test)
+- depression
+- underactive thyroid gland
+- weakness
+- chest pain
+- rapid heart rate
 
 ## Reporting of side effects
 
@@ -1014,8 +1011,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What QINLOCK contains
 
-- -The active substance is ripretinib. Each tablet contains 50 mg of ripretinib.
-- -The other ingredients are crospovidone (E1202), hypromellose acetate succinate, lactose monohydrate, magnesium stearate (E470b), microcrystalline cellulose (E460), and colloidal hydrated silica (E551) (see section 2 'QINLOCK contains lactose').
+- The active substance is ripretinib. Each tablet contains 50 mg of ripretinib.
+- The other ingredients are crospovidone (E1202), hypromellose acetate succinate, lactose monohydrate, magnesium stearate (E470b), microcrystalline cellulose (E460), and colloidal hydrated silica (E551) (see section 2 'QINLOCK contains lactose').
 
 ## What QINLOCK looks like and contents of the pack
 
@@ -1029,9 +1026,7 @@ Not all pack sizes may be marketed.
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-Strawinskylaan 3051 1077ZX, Amsterdam
-
-Netherlands
+Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1043,11 +1038,7 @@ Deciphera Pharmaceuticals (Netherlands) B.V. Tél/Tel: +31 8006333435 medicalinf
 
 Genesis Pharma Bulgaria EOOD Te л .: +359 2 969 3227
 
-medinfo@genesispharmagroup.com
-
-## Lietuva
-
-Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
+medinfo@genesispharmagroup.com Lietuva Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 ## Luxembourg/Luxemburg
 

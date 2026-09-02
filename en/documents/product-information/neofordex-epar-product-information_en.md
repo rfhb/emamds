@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-10 13:49:06
+document_datetime: 2026-08-26 09:43:26
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/neofordex-epar-product-information_en.pdf
 document_name: neofordex-epar-product-information_en.pdf
 version: success
-processing_time: 6.1753616
-conversion_datetime: 2026-07-13 12:47:36.955338
+processing_time: 6.4221371
+conversion_datetime: 2026-09-02 22:02:24.360823
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.112.0
-  docling-core: 2.87.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -588,7 +588,9 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine France
+92200 Neuilly-sur-Seine
+
+THERAVIA 16 Rue Montrosier France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -602,7 +604,7 @@ LOT
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 neofordex
 
@@ -613,8 +615,6 @@ neofordex
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -627,37 +627,27 @@ NN
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
+Neofordex 40 mg tablet dexamethasone
+
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
+
+THERAVIA
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
+EXP
+
 | 4.   | BATCH NUMBER   |
 |------|----------------|
+
+Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Neofordex 40 mg tablet dexamethasone
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-THERAVIA
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -671,10 +661,10 @@ Lot
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -755,16 +745,16 @@ If you need tests (in particular for infections) you should inform the person pe
 
 Talk to your doctor before taking Neofordex
 
-- -if you have liver or kidney disease,
-- -if you have heart disease or you have recently had a heart attack,
-- -if you have high blood pressure, high cholesterol or you are a smoker,
-- -if you have diabetes or if there is a history of diabetes in your family,
-- -if you have osteoporosis, especially if you are a woman who has been through the menopause,
-- -if you have glaucoma (increased eye pressure) or if there is a history of glaucoma in your family,
-- -if you have myasthenia gravis (a disease affecting the muscles), inflammation of a tendon (tendonitis),
-- -if you have a peptic ulcer (ulcer in your stomach or duodenum), or a history of peptic ulcers, stomach bleeding or perforation,
-- -if you have inflammation of the colon, diverticulitis, or have recently had surgery on the intestine,
-- -if you have or are suspected of having pheochromocytoma (a tumor of the adrenal glands).
+- if you have liver or kidney disease,
+- if you have heart disease or you have recently had a heart attack,
+- if you have high blood pressure, high cholesterol or you are a smoker,
+- if you have diabetes or if there is a history of diabetes in your family,
+- if you have osteoporosis, especially if you are a woman who has been through the menopause,
+- if you have glaucoma (increased eye pressure) or if there is a history of glaucoma in your family,
+- if you have myasthenia gravis (a disease affecting the muscles), inflammation of a tendon (tendonitis),
+- if you have a peptic ulcer (ulcer in your stomach or duodenum), or a history of peptic ulcers, stomach bleeding or perforation,
+- if you have inflammation of the colon, diverticulitis, or have recently had surgery on the intestine,
+- if you have or are suspected of having pheochromocytoma (a tumor of the adrenal glands).
 
 You doctor will observe you more closely if you have any of the listed diseases.
 
@@ -786,51 +776,51 @@ If you are taking any of the following medicines, you should consult your doctor
 
 ## The following combinations should be avoided
 
-- -Acetylsalicylic acid, a substance present in many medicines used to relieve pain and lower fever (may increase the risk of bleeding);
-- -You should also tell your doctor if you have recently received a vaccination or are planning to be vaccinated (please see section 'Warnings and precautions').
+- Acetylsalicylic acid, a substance present in many medicines used to relieve pain and lower fever (may increase the risk of bleeding);
+- You should also tell your doctor if you have recently received a vaccination or are planning to be vaccinated (please see section 'Warnings and precautions').
 
 ## The following combinations require precautions
 
-- -Medicines that reduce blood potassium levels: for example, some diuretics or laxatives, amphotericin B injection, tetracosactide, due to the risk of decreased potassium levels. Your doctor may need to monitor the level of potassium;
-- -Medicines that can increase the risk of abnormal heart rhythm (e.g. some medicines for treatment of heart disease, as digitalis), since low levels of potassium increase the risk of abnormal heart beats;
-- -Medicines to treat hypertension, since their effect can be reduced. Your doctor may need to adjust the dose of anti-hypertensive treatment;
-- -Medicines to treat anaemia such as Erythropoietin (EPO) or other medicines such as hormone replacement therapy, may increase the risk of formation of blood clots (please see sections 'Warnings and precautions' and 'Possible side effects');
-- -Medicines to treat pain, inflammation and fever (non-steroidal anti-inflammatory drugs) e.g. ibuprofen, naproxen, diclofenac, meloxicam and others may increase the risk of bleeding or open sores in the stomach;
+- Medicines that reduce blood potassium levels: for example, some diuretics or laxatives, amphotericin B injection, tetracosactide, due to the risk of decreased potassium levels. Your doctor may need to monitor the level of potassium;
+- Medicines that can increase the risk of abnormal heart rhythm (e.g. some medicines for treatment of heart disease, as digitalis), since low levels of potassium increase the risk of abnormal heart beats;
+- Medicines to treat hypertension, since their effect can be reduced. Your doctor may need to adjust the dose of anti-hypertensive treatment;
+- Medicines to treat anaemia such as Erythropoietin (EPO) or other medicines such as hormone replacement therapy, may increase the risk of formation of blood clots (please see sections 'Warnings and precautions' and 'Possible side effects');
+- Medicines to treat pain, inflammation and fever (non-steroidal anti-inflammatory drugs) e.g. ibuprofen, naproxen, diclofenac, meloxicam and others may increase the risk of bleeding or open sores in the stomach;
 
 <div style=\"page-break-after: always\"></div>
 
-- -Medicines for treatment of diabetes, as Neofordex can modify glucose level. It is important to selfmonitor blood glucose levels, especially during the initiation of treatment. Your doctor may need to adjust the dose of anti-diabetic medicines;
-- -Some antibiotics (such as fluoroquinolones) may increase the risk of tendonitis and, in exceptional cases, rupture of the affected tendon, particularly after long-term treatment;
-- -Certain medicines to treat cancer (such as methotrexate) may increase the risk of infection, bleeding or anaemia.
+- Medicines for treatment of diabetes, as Neofordex can modify glucose level. It is important to selfmonitor blood glucose levels, especially during the initiation of treatment. Your doctor may need to adjust the dose of anti-diabetic medicines;
+- Some antibiotics (such as fluoroquinolones) may increase the risk of tendonitis and, in exceptional cases, rupture of the affected tendon, particularly after long-term treatment;
+- Certain medicines to treat cancer (such as methotrexate) may increase the risk of infection, bleeding or anaemia.
 
 ## The following medicines may influence the effect of Neofordex
 
 These medicines may reduce the effect of Neofordex:
 
-- -Aminogluthetimide (medicine to treat Cushing's syndrome or breast cancer);
-- -Anticonvulsants (for the treatment of epilepsy) such as carbamazepine, fosphenytoin, phenobarbital, phenytoin, primidone;
-- -Rifampicin (used to treat tuberculosis);
-- -Medicines for an upset stomach (for example antacids) as well as colestyramine (to lower cholesterol); The administration of such medicines with Neofordex should be separated by at least two hours;
-- -Ephedrine (to treat asthma attacks or relieve nasal congestion).
+- Aminogluthetimide (medicine to treat Cushing's syndrome or breast cancer);
+- Anticonvulsants (for the treatment of epilepsy) such as carbamazepine, fosphenytoin, phenobarbital, phenytoin, primidone;
+- Rifampicin (used to treat tuberculosis);
+- Medicines for an upset stomach (for example antacids) as well as colestyramine (to lower cholesterol); The administration of such medicines with Neofordex should be separated by at least two hours;
+- Ephedrine (to treat asthma attacks or relieve nasal congestion).
 
 These medicines may increase the effect of Neofordex:
 
-- -Aprepitant or fosaprepitant (for the treatment of nausea and vomiting after surgery or caused by chemotherapy [cancer treatment]);
-- -Antibiotics, with active substance names ending in -mycin and antifungals (to treat fungal infections) with active substance names ending in -conazole; and anti-HIV medicines with active substance names ending in -navir.
+- Aprepitant or fosaprepitant (for the treatment of nausea and vomiting after surgery or caused by chemotherapy [cancer treatment]);
+- Antibiotics, with active substance names ending in -mycin and antifungals (to treat fungal infections) with active substance names ending in -conazole; and anti-HIV medicines with active substance names ending in -navir.
 
 ## Neofordex may influence the effect of these medicines
 
-- -The effect of oral contraceptives and hormone replacement therapy (HRT) may be reduced. Effective measures to avoid pregnancy must be taken (see section 'Pregnancy, breast-feeding and fertility');
-- -The effect of oral anticoagulants may be increased, leading to increased bleeding risk. Your doctor may need to monitor closely your blood coagulation parameters;
-- -The effect of certain medicines to treat cancer (such as docetaxel and cyclophosphamide) may be reduced;
-- -The liver effects of lapatinib (used to treat cancer) may be increased;
-- -The effect of ciclosporin (a medicine used to suppress immune reactions) may be reduced. In addition, convulsions have been reported with concurrent use of dexamethasone and ciclosporin. Concomitant use of Neofordex and ciclosporine should be avoided;
-- -The effect of midazolam (used as sleeping pill and for the treatment of epilepsy) may be reduced;
-- -The effect of ivermectin (for certain worm infections) may be reduced, therefore the treatment with ivermectin must be successfully terminated before Neofordex administration (see section 'Warnings and precautions');
-- -The effect of rifabutin or isoniazid (used to treat tuberculosis) may be reduced;
-- -The effect of indinavir (used in the treatment of HIV) may be reduced;
-- -The effect of erythromycin may be reduced;
-- -The effect of praziquantel (for certain worm infections) may be reduced with a risk of failure of treatment, therefore treatment with praziquantel and Neofordex should be separated by at least one week.
+- The effect of oral contraceptives and hormone replacement therapy (HRT) may be reduced. Effective measures to avoid pregnancy must be taken (see section 'Pregnancy, breast-feeding and fertility');
+- The effect of oral anticoagulants may be increased, leading to increased bleeding risk. Your doctor may need to monitor closely your blood coagulation parameters;
+- The effect of certain medicines to treat cancer (such as docetaxel and cyclophosphamide) may be reduced;
+- The liver effects of lapatinib (used to treat cancer) may be increased;
+- The effect of ciclosporin (a medicine used to suppress immune reactions) may be reduced. In addition, convulsions have been reported with concurrent use of dexamethasone and ciclosporin. Concomitant use of Neofordex and ciclosporine should be avoided;
+- The effect of midazolam (used as sleeping pill and for the treatment of epilepsy) may be reduced;
+- The effect of ivermectin (for certain worm infections) may be reduced, therefore the treatment with ivermectin must be successfully terminated before Neofordex administration (see section 'Warnings and precautions');
+- The effect of rifabutin or isoniazid (used to treat tuberculosis) may be reduced;
+- The effect of indinavir (used in the treatment of HIV) may be reduced;
+- The effect of erythromycin may be reduced;
+- The effect of praziquantel (for certain worm infections) may be reduced with a risk of failure of treatment, therefore treatment with praziquantel and Neofordex should be separated by at least one week.
 
 ## Pregnancy, breast-feeding and fertility
 
@@ -870,8 +860,8 @@ If you take too much Neofordex contact your doctor or hospital immediately.
 
 If you forget to take Neofordex at the usual time and
 
-- -if you are less than 12 hours late: take the tablet immediately.
-- -if you are more than 12 hours late: do not take the tablet but take the next tablet at the usual time.
+- if you are less than 12 hours late: take the tablet immediately.
+- if you are more than 12 hours late: do not take the tablet but take the next tablet at the usual time.
 
 Do not take a double dose to make up for a forgotten tablet.
 
@@ -893,10 +883,10 @@ The side effects listed below were seen when dexamethasone was taken for the tre
 
 Neofordex may cause serious mental health problems. These are common (may affect up to 1 in 10 people) and may include:
 
-- -feeling depressed (including thinking about suicide)
-- -feeling high (mania), very happy (euphoria) or moods that go up and down,
-- -feeling anxious, having difficulty in concentrating and memory loss,
-- -feeling, seeing or hearing things that do not exist or believing in things that are not real, having gloomy thoughts, changing how you act.
+- feeling depressed (including thinking about suicide)
+- feeling high (mania), very happy (euphoria) or moods that go up and down,
+- feeling anxious, having difficulty in concentrating and memory loss,
+- feeling, seeing or hearing things that do not exist or believing in things that are not real, having gloomy thoughts, changing how you act.
 
 If you notice any of these symptoms talk to a doctor straight away.
 
@@ -974,8 +964,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Neofordex contains
 
-- -The active substance is dexamethasone. Each tablet contains dexamethasone acetate equivalent to 40 mg dexamethasone.
-- -The other ingredients are lactose monohydrate, microcrystalline cellulose, magnesium stearate and colloidal anhydrous silica (see section 2).
+- The active substance is dexamethasone. Each tablet contains dexamethasone acetate equivalent to 40 mg dexamethasone.
+- The other ingredients are lactose monohydrate, microcrystalline cellulose, magnesium stearate and colloidal anhydrous silica (see section 2).
 
 ## What Neofordex looks like and contents of the pack
 
@@ -983,35 +973,35 @@ Each tablet is white, oblong in shape with '40 mg' engraved  on one side..
 
 Each carton contains 10 x 1 tablets in OPA/Aluminium /PVC-Aluminium perforated unit dose blister.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing Authorisation Holder
 
 THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine France
 
 ## Manufacturer
 
-THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine France
+THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine
+
+France
 
 or
 
 Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam The Netherlands
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-THERAVIA
-
-Tél/Tel : +32 (0)2 808 2973
-
-question@theravia.com
+THERAVIA Tél/Tel : +32 (0)2 808 2973 question@theravia.com
 
 ## България
 
 THERAVIA
 
-Teл.: +33 (0)1 72 69 01 86 question@theravia.com
+Teл.: +33 (0)1 72 69 01 86
+
+question@theravia.com
 
 ## Česká republika
 
@@ -1031,7 +1021,9 @@ question@theravia.com
 
 ## Eesti
 
-Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+THERAVIA
+
+Tel: +33 (0)1 72 69 01 86
 
 ## Ελλάδα
 
@@ -1041,13 +1033,13 @@ RAFARM AEBE
 
 ## Lietuva
 
-Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+THERAVIA
+
+Tel: +33 (0)1 72 69 01 86
 
 ## Luxembourg/Luxemburg
 
-THERAVIA
-
-Tél/Tel: +352 278 62 329 question@theravia.com
+THERAVIA Tél/Tel: +352 278 62 329 question@theravia.com
 
 ## Magyarország
 
@@ -1055,7 +1047,9 @@ THERAVIA Tel.: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Malta
 
-THERAVIA Tel : 01 72 69 01 86
+THERAVIA
+
+Tel : 01 72 69 01 86
 
 question@theravia.com
 
@@ -1111,7 +1105,11 @@ question@theravia.com
 
 ## Ísland
 
-Immedica Pharma AB Sími: + 46 (0)8 533 39 500 info@immedica.com
+Norgine Danmark A/S
+
+Sími: +4570715000
+
+medinfo@norgine.com
 
 ## Italia
 
@@ -1129,11 +1127,9 @@ RAFARM AEBE
 
 ## Latvija
 
-Immedica Pharma AB
+THERAVIA
 
-Tel: +46 (0)8 533 39 500
-
-info@immedica.com
+Tel: +33 (0)1 72 69 01 86
 
 ## This leaflet was last revised in
 
@@ -1167,11 +1163,19 @@ question@theravia.com
 
 ## Slovenija
 
-THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
+THERAVIA
+
+Tel: +33 (0)1 72 69 01 86
+
+question@theravia.com
 
 ## Slovenská republika
 
-THERAVIA Tel.: +33 (0)1 72 69 01 86 question@theravia.com
+THERAVIA
+
+Tel.: +33 (0)1 72 69 01 86
+
+question@theravia.com
 
 ## Suomi/Finland
 
@@ -1183,4 +1187,6 @@ medinfo@norgine.com
 
 ## Sverige
 
-Norgine Danmark A/S Tel: +4570715000 medinfo@norgine.com
+Norgine Danmark A/S Tel: +4570715000
+
+medinfo@norgine.com

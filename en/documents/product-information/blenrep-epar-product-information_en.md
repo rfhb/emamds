@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-17 11:49:38
+document_datetime: 2026-08-26 10:22:23
 document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/blenrep-epar-product-information_en.pdf
 document_name: blenrep-epar-product-information_en.pdf
 version: success
-processing_time: 14.3160817
-conversion_datetime: 2026-04-21 15:00:43.716758
+processing_time: 19.0010408
+conversion_datetime: 2026-09-02 21:56:04.579496
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -130,27 +130,32 @@ Table 3: Recommended dose modifications for adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction   | a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Recommended dose modifications                                                                                                                                                                                                                                                                                                    |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                    | Severity Moderate (Grade 2) Corneal examination finding(s) Moderate superficial punctate keratopathy, patchy microcyst-like deposits, peripheral sub-epithelial haze, or a new peripheral stromal opacity. Change in BCVA Decline from baseline of 2 lines (and snellen equivalent visual acuity not worse than 20/200). Or Severe (Grade 3) Corneal examination finding(s) Severe superficial punctate keratopathy, diffuse microcyst-like deposits involving the central cornea, central sub-epithelial haze, or a new central stromal opacity. Change in BCVA Decline from baseline of 3 or more lines (and snellen equivalent visual acuity not | Withhold treatment until improvement in both corneal examination findings and BCVA to mild severity or better. Resume treatment at reduced dose level 1 as per Table 2. If toxicity is identified prior to dosing cycle 2 for BPd, reduce Blenrep dose at 1.9 mg/kg every 4 weeks for cycle 2 and all subsequent cycles.          |
-|                    | worse than 20/200). Corneal Epithelial Defect such as Corneal Ulcers or Change of BCVA worse than 20/200 (Grade 4) Corneal examination finding(s) Corneal epithelial defect such as corneal ulcers. b Change in BCVA Decline to snellen equivalent visual acuity of worse than 20/200.                                                                                                                                                                                                                                                                                                                                                              | Withhold until improvement in both corneal examination findings and BCVA to mild severity or better. Resume treatment at reduced dose level 1 for BVd and reduced dose level 2 for BPd as per Table 2, if applicable. For worsening symptoms that are unresponsive to appropriate management, consider permanent discontinuation. |
+| Adverse reaction   | Severity a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Recommended dose modifications                                                                                                                                                                                                                                                                                                    |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                    | Moderate (Grade 2) Corneal examination finding(s) Moderate superficial punctate keratopathy, patchy microcyst-like deposits, peripheral sub-epithelial haze, or a new peripheral stromal opacity. Change in BCVA Decline from baseline of 2 or 3 lines (and snellen equivalent visual acuity not worse than 20/200). Or Severe (Grade 3) Corneal examination finding(s) Severe superficial punctate keratopathy, diffuse microcyst-like deposits involving the central cornea, central sub-epithelial haze, or a new central stromal opacity. Change in BCVA Decline from baseline by more than 3 lines (and snellen equivalent visual acuity not worse than | Withhold treatment until improvement in both corneal examination findings and BCVA to mild severity or better. Resume treatment at reduced dose level 1 as per Table 2. If toxicity is identified prior to dosing cycle 2 for BPd, reduce Blenrep dose at 1.9 mg/kg every 4 weeks for cycle 2 and all subsequent cycles.          |
+|                    | 20/200). Corneal Epithelial Defect such as Corneal Ulcers or Change of BCVA worse than 20/200 (Grade 4) Corneal examination finding(s) Corneal epithelial defect such as corneal ulcers. b Change in BCVA Decline to snellen equivalent visual                                                                                                                                                                                                                                                                                                                                                                                                               | Withhold until improvement in both corneal examination findings and BCVA to mild severity or better. Resume treatment at reduced dose level 1 for BVd and reduced dose level 2 for BPd as per Table 2, if applicable. For worsening symptoms that are unresponsive to appropriate management, consider permanent discontinuation. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction                             | Severity a   | Recommended dose modifications                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|----------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Thrombocytopenia c (see section 4.4)         | Grade 3      | Without bleeding: • For patients on 2.5 mg/kg, reduce Blenrep to 1.9 mg/kg. For BVd, may consider reverting to previous dose, if appropriate once thrombocytopenia recovers to Grade 2 or better. • For patients on 1.9 mg/kg or lower, continue at same dose. With bleeding: • Withhold Blenrep until improvement to Grade 2 or better. For patients previously on 2.5 mg/kg, resume Blenrep at 1.9 mg/kg. For patients on 1.9 mg/kg or lower, resume at same dose. Consider additional supportive treatment (e.g., transfusion), as clinically indicated and per local practice. |
-| Thrombocytopenia c (see section 4.4)         | Grade 4      | Withhold the dose. Consider restarting if recovered to Grade 3 or better, and only if there is no active bleeding at time of treatment restart. For patients previously on 2.5 mg/kg, resume Blenrep at 1.9 mg/kg. For patients on 1.9 mg/kg or lower, resume at same dose.                                                                                                                                                                                                                                                                                                        |
-| Infusion-related reactions (see section 4.4) | Grade 2      | Interrupt infusion and provide supportive treatment. Once symptoms resolve to Grade 1 or better, resume at a decreased infusion rate by at least 50% and may consider premedication.                                                                                                                                                                                                                                                                                                                                                                                               |
-| Infusion-related reactions (see section 4.4) | Grade 3      | Interrupt infusion and provide supportive treatment. Once resolved, resume dosing with a slower infusion rate. For future infusion, consider premedication.                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Infusion-related reactions (see section 4.4) | Grade 4      | Permanently discontinue Blenrep. • If anaphylactic or life-threatening infusion reaction, permanently discontinue the infusion and institute appropriate emergency care.                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Pneumonitis (see section 4.8)                | Grade ≥3     | Permanently discontinue Blenrep.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Other adverse reactions (see section 4.8)    | Grade 3      | Withhold Blenrep until improvement to Grade 1 or better. For patients previously on 2.5 mg/kg, resume Blenrep at 1.9 mg/kg. For patients on 1.9 mg/kg or lower, resume at same dose.                                                                                                                                                                                                                                                                                                                                                                                               |
-| Other adverse reactions (see section 4.8)    | Grade 4      | Consider permanent discontinuation of Blenrep. If continuing treatment, withhold Blenrep until improvement to Grade 1 or better. For patients previously on 2.5 mg/kg, resume Blenrep at 1.9 mg/kg. For patients on 1.9 mg/kg or lower, resume at same dose.                                                                                                                                                                                                                                                                                                                       |
+| Adverse reaction                             | Severity a                   | Recommended dose modifications                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|----------------------------------------------|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                              | acuity of worse than 20/200. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Thrombocytopenia c (see section 4.4)         | Grade 3                      | Without bleeding: • For patients on 2.5 mg/kg, reduce Blenrep to 1.9 mg/kg. For BVd, may consider reverting to previous dose, if appropriate once thrombocytopenia recovers to Grade 2 or better. • For patients on 1.9 mg/kg or lower, continue at same dose. With bleeding: • Withhold Blenrep until improvement to Grade 2 or better. For patients previously on 2.5 mg/kg, resume Blenrep at 1.9 mg/kg. For patients on 1.9 mg/kg or lower, resume at same dose. Consider additional supportive treatment (e.g., transfusion), as clinically indicated and per local practice. |
+| Thrombocytopenia c (see section 4.4)         | Grade 4                      | Withhold the dose. Consider restarting if recovered to Grade 3 or better, and only if there is no active bleeding at time of treatment restart. For patients previously on 2.5 mg/kg, resume Blenrep at 1.9 mg/kg. For patients on 1.9 mg/kg or lower, resume at same dose.                                                                                                                                                                                                                                                                                                        |
+| Infusion-related reactions (see section 4.4) | Grade 2                      | Interrupt infusion and provide supportive treatment. Once symptoms resolve to Grade 1 or better, resume at a decreased infusion rate by at least 50% and may consider premedication.                                                                                                                                                                                                                                                                                                                                                                                               |
+| Infusion-related reactions (see section 4.4) | Grade 3                      | Interrupt infusion and provide supportive treatment. Once resolved, resume dosing with a slower infusion rate. For future infusion, consider premedication.                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Infusion-related reactions (see section 4.4) | Grade 4                      | Permanently discontinue Blenrep. • If anaphylactic or life-threatening infusion reaction, permanently discontinue the infusion and institute appropriate emergency care.                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Pneumonitis (see section 4.8)                | Grade ≥3                     | Permanently discontinue Blenrep.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Other adverse reactions (see section 4.8)    | Grade 3                      | Withhold Blenrep until improvement to Grade 1 or better. For patients previously on 2.5 mg/kg, resume Blenrep at 1.9 mg/kg. For patients on 1.9 mg/kg or lower, resume at same dose.                                                                                                                                                                                                                                                                                                                                                                                               |
+| Other adverse reactions (see section 4.8)    | Grade 4                      | Consider permanent discontinuation of Blenrep. If continuing treatment, withhold Blenrep until improvement to Grade 1 or better. For patients previously on 2.5 mg/kg, resume Blenrep at                                                                                                                                                                                                                                                                                                                                                                                           |
+
+<div style=\"page-break-after: always\"></div>
+
+| Adverse reaction   | Severity a   | Recommended dose modifications                                      |
+|--------------------|--------------|---------------------------------------------------------------------|
+|                    |              | 1.9 mg/kg. For patients on 1.9 mg/kg or lower, resume at same dose. |
 
 BCVA = best corrected visual acuity; BPd = Blenrep with pomalidomide and dexamethasone; BVd = Blenrep with bortezomib and dexamethasone.
-
-<div style=\"page-break-after: always\"></div>
 
 - a Non-ocular adverse reactions were graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE).
 - b A corneal defect may lead to corneal ulcers. These should be managed promptly and as clinically indicated by an eye care professional. Corneal ulcer, by definition, means an epithelial defect with underlying stromal infiltration.
@@ -186,11 +191,11 @@ Blenrep must not be administered as an intravenous push or bolus injection.
 
 Blenrep must be diluted before administration.
 
+<div style=\"page-break-after: always\"></div>
+
 Filtration of the diluted solution is not required. However, if the diluted solution is filtered, 0.2 µm or 0.22 µm polyethersulfone (PES) based filter is recommended.
 
 For instructions on dilution, precaution before manipulating or administering the medicinal product, handling, and disposal of the vials, see section 6.6.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
@@ -242,7 +247,7 @@ This medicinal product contains polysorbate 80 (E433), which may cause allergic 
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium - free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -256,11 +261,11 @@ No interaction studies have been performed. Based on available in vitro and clin
 
 The pregnancy status of women of child-bearing potential must be verified prior to initiating therapy with Blenrep. Women of child-bearing potential have to use effective contraception during treatment with Blenrep and for at least 4 months after the last dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Men
 
 Men with female partners of child-bearing potential have to use effective contraception during treatment with Blenrep and for at least 6 months after the last dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -296,11 +301,9 @@ The most common serious adverse reactions (any grade) were pneumonia (9%), pyrex
 
 The proportion of subjects with treatment discontinuation due to adverse reactions was 24%. The most common adverse reaction leading to treatment discontinuation was ocular events (7%).
 
-The frequency of dose reduction due to adverse reactions was 63%. The most common adverse reactions leading to dose reduction were ocular events (39%), thrombocytopenia (12%), platelet count
-
 <div style=\"page-break-after: always\"></div>
 
-decreased (6%), insomnia (5%), peripheral sensory neuropathy (5%), neuropathy peripheral (5%), neutropenia (4%), fatigue (3%), and neutrophil count decreased (2%).
+The frequency of dose reduction due to adverse reactions was 63%. The most common adverse reactions leading to dose reduction were ocular events (39%), thrombocytopenia (12%), platelet count decreased (6%), insomnia (5%), peripheral sensory neuropathy (5%), neuropathy peripheral (5%), neutropenia (4%), fatigue (3%), and neutrophil count decreased (2%).
 
 The frequency of dose delay due to adverse reactions was 83%. The most common adverse reactions leading to dose delay were ocular events (67%), thrombocytopenia (16%), COVID-19 (11%), platelet count decreased (8%), neutropenia (8%), upper respiratory tract infection (7%), pneumonia (7%), diarrhoea (4%), pyrexia (4%), neutrophil count decreased (4%), peripheral sensory neuropathy (4%), bronchitis (3%), COVID-19 pneumonia (3%), cataract (3%), neuropathy peripheral (3%), and alanine aminotransferase increased (3%).
 
@@ -350,55 +353,55 @@ Table 4: Adverse reactions in multiple myeloma patients treated with belantamab 
 | Blood and lymphatic system disorders | Neutropenia b                     | Very common | 27              | 22              |
 | Blood and lymphatic system disorders | Anaemia                           | Very common | 23              | 12              |
 | Blood and lymphatic system disorders | Lymphopenia c                     | Very common | 10              | 7               |
-| Blood and lymphatic system disorders | Leukopenia d                      | Common      | 9               | 4               |
-| Blood and lymphatic system disorders | Febrile neutropenia               | Common      | 1               | 1               |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ                           | Adverse reaction                                         | Frequency   | Incidence (%)   | Incidence (%)   |
-|----------------------------------------|----------------------------------------------------------|-------------|-----------------|-----------------|
-| class (SOC)                            |                                                          |             | Any grade       | Grade 3-4       |
-| Immune system disorders                | Hypogammaglobulinemia                                    | Common      | 2               | ˂1              |
-| Metabolism and nutrition disorders     | Decreased appetite                                       | Common      | 8               | <1              |
-| Psychiatric disorders                  | Insomnia                                                 | Very Common | 13              | 1               |
-| Nervous system disorders               | Neuropathies e                                           | Very common | 23              | 2               |
-| Eye disorders                          | Corneal examination findings (including keratopathy) f,g | Very common | 84              | 62              |
-|                                        | Visual acuity reduced f                                  | Very common | 81              | 50              |
-|                                        | Vision blurred                                           | Very common | 52              | 13              |
-|                                        | Dry eye                                                  | Very common | 36              | 5               |
-|                                        | Foreign body sensation in eyes                           | Very common | 32              | 2               |
-|                                        | Photophobia                                              | Very common | 30              | 1               |
-|                                        | Eye irritation                                           | Very common | 28              | 3               |
-|                                        | Eye pain                                                 | Very common | 21              | <1              |
-|                                        | Cataract                                                 | Very common | 13              | 4               |
-|                                        | Visual impairment                                        | Common      | 8               | 5               |
-|                                        | Lacrimation increased                                    | Common      | 5               | <1              |
-|                                        | Diplopia                                                 | Common      | 3               | <1              |
-|                                        | Eye pruritus                                             | Common      | 2               | <1              |
-|                                        | Ocular discomfort                                        | Common      | 1               | <1              |
-|                                        | Corneal ulcer h                                          | Common      | 1               | <1              |
-|                                        | Corneal hypoesthesia                                     | Not known   | -               | -               |
-| Respiratory,                           | Cough                                                    | Very common | 11              | ˂1              |
-| thoracic and mediastinal               | Dyspnoea                                                 | Common      | 9               | 1               |
-| disorders                              | Pneumonitis                                              | Uncommon    | <1              | <1              |
-| Gastrointestinal                       | Diarrhoea                                                | Very common | 23              | 2               |
-| disorders                              | Nausea                                                   | Very common | 17              | <1              |
-|                                        | Constipation                                             | Very common | 15              | <1              |
-|                                        | Vomiting                                                 | Common      | 7               | <1              |
-| Hepatobiliary Disorders                | Increased aspartate aminotransferase                     | Very common | 15              | 2               |
-|                                        | Increased alanine aminotransferase                       | Very common | 13              | 3               |
-|                                        | Increased gamma glutamyltransferase                      | Very common | 11              | 5               |
-|                                        | Porto-sinusoidal vascular disorder i                     | Uncommon    | <1              | <1              |
-| Skin and subcutaneous tissue disorders | Rash                                                     | Common      | 4               | <1              |
-| Musculoskeletal                        | Arthralgia                                               | Very common | 11              | <1              |
+| System organ class (SOC)           | Adverse reaction                                         | Frequency          | Incidence (%)   | Incidence (%)   |
+|------------------------------------|----------------------------------------------------------|--------------------|-----------------|-----------------|
+| System organ class (SOC)           |                                                          |                    | Any grade       | Grade 3-4       |
+| System organ class (SOC)           | Leukopenia d                                             | Common             | 9               | 4               |
+| Immune system disorders            | Febrile neutropenia Hypogammaglobulinemia                | Common Common      | 1 2             | 1 ˂1            |
+| Metabolism and nutrition disorders | Decreased appetite                                       | Common             | 8               | <1              |
+| Psychiatric disorders              | Insomnia                                                 | Very Common        | 13              | 1               |
+| Nervous system disorders           | Neuropathies e                                           | Very common        | 23              | 2               |
+| Eye disorders                      | Corneal examination findings (including keratopathy) f,g | Very common        | 84              | 62              |
+|                                    | Visual acuity reduced f                                  | Very common        | 81              | 50              |
+|                                    | Vision blurred                                           | Very common        | 52              | 13              |
+|                                    | Dry eye                                                  | Very common        | 36              | 5               |
+|                                    | Foreign body sensation in eyes                           | Very common        | 32              | 2               |
+|                                    | Photophobia                                              | Very common        | 30              | 1               |
+|                                    | Eye irritation                                           | Very common        | 28              | 3               |
+|                                    | Eye pain                                                 | Very common        | 21              | <1              |
+|                                    | Cataract                                                 | Very common        | 13              | 4               |
+|                                    | Visual impairment                                        | Common             | 8               | 5               |
+|                                    | Lacrimation increased                                    | Common             | 5               | <1              |
+|                                    | Diplopia                                                 | Common             | 3               | <1              |
+|                                    | Eye pruritus                                             |                    | 2               | <1              |
+|                                    | Ocular discomfort                                        | Common Common      | 1               | <1              |
+|                                    | Corneal ulcer h                                          | Common             | 1               | <1              |
+|                                    | Corneal hypoesthesia                                     | Not known          | -               | -               |
+| Respiratory,                       | Cough                                                    | Very common        | 11              | ˂1              |
+| thoracic and                       | Dyspnoea                                                 | Common             | 9               | 1               |
+| mediastinal disorders              | Pneumonitis                                              | Uncommon           | <1              | <1              |
+| Gastrointestinal                   | Diarrhoea                                                | Very common        | 23              | 2               |
+| disorders                          | Nausea                                                   | Very common        | 17              | <1              |
+|                                    |                                                          | common             | 15              | <1              |
+|                                    | Constipation                                             | Very               |                 |                 |
+| Hepatobiliary Disorders            | Vomiting Increased                                       | Common Very common | 7 15            | <1              |
+|                                    | aspartate aminotransferase Increased alanine             | Very common        | 13              | 2 3             |
+|                                    | aminotransferase Increased gamma                         | Very common        | 11              |                 |
+|                                    | glutamyltransferase Porto-sinusoidal vascular i          | Uncommon           | <1              | 5 <1            |
+| Skin and subcutaneous              | disorder Rash                                            | Common             | 4               | <1              |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class (SOC)                             | Adverse reaction                 | Frequency   | Incidence (%)   | Incidence (%)   |
 |------------------------------------------------------|----------------------------------|-------------|-----------------|-----------------|
-| System organ class (SOC)                             |                                  |             | Any grade       | Grade 3-4       |
-| and connective tissue disorders                      | Back pain                        | Very common | 11              | 1               |
-| and connective tissue disorders                      | Increased creatine phosphokinase | Common      | 3               | 1               |
+|                                                      |                                  |             | Any grade       | Grade 3-4       |
+| tissue disorders                                     |                                  |             |                 |                 |
+| Musculoskeletal and connective tissue disorders      | Arthralgia                       | Very common | 11              | <1              |
+| Musculoskeletal and connective tissue disorders      | Back pain                        | Very common | 11              | 1               |
+| Musculoskeletal and connective tissue disorders      | Increased creatine phosphokinase | Common      | 3               | 1               |
 | Renal and urinary disorders                          | Albuminuria j                    | Common      | 3               | <1              |
 | General disorders and administration site conditions | Fatigue                          | Very common | 19              | 3               |
 | General disorders and administration site conditions | Pyrexia                          | Very common | 18              | <1              |
@@ -425,9 +428,9 @@ Across pooled datasets from 3 trials of belantamab mafodotin in combination with
 
 Corneal examination findings (keratopathies such as superficial punctate keratopathy and microcystlike deposits) were reported based on the ophthalmic examination findings as Grade 1 in 5% of patients, Grade 2 in 14%, Grade 3 in 59% and Grade 4 in 12%. Cases of corneal ulcer (ulcerative and infective keratitis) were reported in &lt; 1% of patients (n = 5). At least 1 corneal examination finding or BCVA-related event (Grade ≥ 2) was reported by 86% of patients.
 
-Table 5 includes a summary of decreased vision in patients with normal baseline (snellen equivalent visual acuity 20/25 or better in at least one eye) and corneal examination findings from pooled data of belantamab mafodotin in combination with other therapies.
-
 <div style=\"page-break-after: always\"></div>
+
+Table 5 includes a summary of decreased vision in patients with normal baseline (snellen equivalent visual acuity 20/25 or better in at least one eye) and corneal examination findings from pooled data of belantamab mafodotin in combination with other therapies.
 
 Table 5: Median duration and resolution of the first ocular events in clinical trials (DREAMM6, DREAMM-7, DREAMM-8; n = 516)
 
@@ -446,13 +449,10 @@ Table 5: Median duration and resolution of the first ocular events in clinical t
 
 NA = Not applicable.
 
-a Improvement was defined as no longer 20/50, or 20/200, or worse in at least one eye.
-
+- a Improvement was defined as no longer 20/50, or 20/200, or worse in at least one eye.
 - b   At time of data cut-off (DREAMM-6: 28 FEB 2023; DREAMM-7: 02 OCT 2023; DREAMM-8: 29 JAN 2024).
-
-c Resolution of BCVA was defined as 20/25 or better in at least one eye.
-
-d Resolution of corneal examination findings was defined as Grade 1 or better based on the ophthalmic examination findings.
+- c Resolution of BCVA was defined as 20/25 or better in at least one eye.
+- d Resolution of corneal examination findings was defined as Grade 1 or better based on the ophthalmic examination findings.
 
 ## Infusion-related reactions
 
@@ -494,11 +494,9 @@ Pharmacotherapeutic group: antineoplastic agents, monoclonal antibodies, and ant
 
 ## Mechanism of action
 
-Belantamab mafodotin is a humanised IgG1 kappa monoclonal antibody conjugated with a cytotoxic agent, mcMMAF. Belantamab mafodotin binds to cell surface BCMA and is rapidly internalised. Once inside the tumour cell, the cytotoxic agent (cys-mcMMAF) is released disrupting the microtubule network, leading to cell cycle arrest and apoptosis. The antibody also enhances recruitment and activation of immune effector cells, killing tumour cells by antibody-dependent cellular cytotoxicity and phagocytosis. Apoptosis induced by belantamab mafodotin is accompanied
+Belantamab mafodotin is a humanised IgG1 kappa monoclonal antibody conjugated with a cytotoxic agent, mcMMAF. Belantamab mafodotin binds to cell surface BCMA and is rapidly internalised. Once inside the tumour cell, the cytotoxic agent (cys-mcMMAF) is released disrupting the microtubule network, leading to cell cycle arrest and apoptosis. The antibody also enhances recruitment and activation of immune effector cells, killing tumour cells by antibody-dependent cellular cytotoxicity and phagocytosis. Apoptosis induced by belantamab mafodotin is accompanied by markers of immunogenic cell death, which may contribute to an adaptive immune response to tumour cells.
 
 <div style=\"page-break-after: always\"></div>
-
-by markers of immunogenic cell death, which may contribute to an adaptive immune response to tumour cells.
 
 ## Pharmacodynamic effects
 
@@ -557,38 +555,6 @@ Table 6: Efficacy results in DREAMM-7
 
 <div style=\"page-break-after: always\"></div>
 
-Overall survival probabilitv
-
-Proaression-free survival probabilitv
-
-0.4
-
-0.2
-
-Belantamab mafodotin + 243
-
-0.0
-
-Belantamab mafodotin +
-
-Daratumumab +
-
-Bortezomib/Dexamethasone
-
-Bortezomib/Dexamethasone
-
-Treatment
-
-Benlantamab mafodotin + Bortezomib/Dexamethasone
-
-Treatment
-
-· Belantamab mafodotin + Bortezomib/Dexamethasone
-
-- - - Daratumumab + Bortezomib/Dexamethasone
-
-- - Daratumumab + Bortezomib/Dexamethasone
-
 Figure 1: Kaplan-Meier curve of progression-free survival per IRC in DREAMM-7
 
 <!-- image -->
@@ -639,18 +605,6 @@ h Results have not reached statistical significance.
 - j Assessed by NGS at 10 -5 threshold.
 
 <div style=\"page-break-after: always\"></div>
-
-Treatment
-
-Belantamab mafodotin + Pomalidomide/Dexamethasone
-
-Treatment
-
-Belantamab mafodotin + Pomalidomide/Dexamethasone
-
-- - - - - - · Pomalidomide + Bortezomib/Dexamethasone
-
-Pomalidomide + Bortezomib/Dexamethasone
 
 Figure 3: Kaplan-Meier curve of progression-free survival per IRC in DREAMM-8
 
@@ -779,19 +733,19 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## Reconstituted solution
 
-The reconstituted solution can be stored for up to 4 hours at room temperature (20 ºC -25 ºC) or stored in a refrigerator (2 ºC -8 ºC) for up to 4 hours. Do not freeze.
+The reconstituted solution can be stored for up to 4 hours at room temperature (20 ºC - 25 ºC) or stored in a refrigerator (2 ºC - 8 ºC) for up to 4 hours. Do not freeze.
 
 ## Diluted solution
 
 From a microbiological point of view, the product should be used immediately.
 
-If not used immediately, the diluted solution can be stored in a refrigerator (2 ºC -8 ºC) prior to administration for up to 24 hours. Do not freeze. If refrigerated, allow the diluted solution to equilibrate to room temperature prior to administration.
+If not used immediately, the diluted solution can be stored in a refrigerator (2 ºC - 8 ºC) prior to administration for up to 24 hours. Do not freeze. If refrigerated, allow the diluted solution to equilibrate to room temperature prior to administration.
 
-The diluted infusion solution may be kept at room temperature (20 ºC -25 ºC) for a maximum of 6 hours (including infusion time).
+The diluted infusion solution may be kept at room temperature (20 ºC - 25 ºC) for a maximum of 6 hours (including infusion time).
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ºC -8 ºC).
+Store in a refrigerator (2 ºC - 8 ºC).
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
@@ -836,7 +790,7 @@ Reconstitute each 100 mg vial with 2 mL of water for injections to obtain a conc
 2. Add the necessary amount of Blenrep to the infusion bag containing 250 mL of sodium chloride 9 mg/mL (0.9%) solution for injection. Mix the diluted solution by gentle inversion. The final concentration of the diluted solution should be between 0.2 mg/mL to 2 mg/mL. Do not shake.
 3. Discard any unused reconstituted solution of Blenrep left in the vial.
 
-If the diluted solution is not used immediately, it may be stored in a refrigerator (2 ºC -8 ºC) for up to 24 hours prior to administration. If refrigerated, allow the diluted solution to equilibrate to room temperature prior to administration. The diluted solution may be kept at room temperature (20 ºC -25 ºC) for a maximum of 6 hours (including infusion time).
+If the diluted solution is not used immediately, it may be stored in a refrigerator (2 ºC - 8 ºC) for up to 24 hours prior to administration. If refrigerated, allow the diluted solution to equilibrate to room temperature prior to administration. The diluted solution may be kept at room temperature (20 ºC - 25 ºC) for a maximum of 6 hours (including infusion time).
 
 ## Administration
 
@@ -861,7 +815,7 @@ Blenrep 100 mg powder for concentrate for solution for infusion EU/1/25/1948/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 23 July 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -913,11 +867,9 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
-Prior to the launch of Blenrep in each Member State, the Marketing Authorisation Holder (MAH) must agree the content and format of the educational materials, including communication media,
+Prior to the launch of Blenrep in each Member State, the Marketing Authorisation Holder (MAH) must agree the content and format of the educational materials, including communication media, distribution modalities, and any other aspects of the programme with the National Competent Authority.
 
 <div style=\"page-break-after: always\"></div>
-
-distribution modalities, and any other aspects of the programme with the National Competent Authority.
 
 The MAH shall ensure that in each Member State where Blenrep is marketed, all healthcare professionals who are expected to prescribe, or dispense Blenrep, and patients who receive Blenrep have access to/are provided with the following educational materials to be disseminated in line with NCA agreed implementation pathways:
 
@@ -1031,9 +983,7 @@ EU/1/25/1948/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1050,9 +1000,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1143,9 +1093,7 @@ EU/1/25/1948/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1203,9 +1151,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1233,7 +1181,7 @@ It is important you read the patient leaflets for these other medicines. If you 
 
 ## You should not be given Blenrep :
 
-- -if you are allergic to belantamab mafodotin or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to belantamab mafodotin or any of the other ingredients of this medicine (listed in section 6).
 - ➔ Check with your doctor if you think this applies to you.
 
 ## Warnings and precautions
@@ -1350,7 +1298,7 @@ Blenrep can cause problems with vision that can affect your ability to drive or 
 
 This medicine contains 0.28 mg of polysorbate 80 (E433) in each 70 mg vial and 0.4 mg of polysorbate 80 (E433) in each 100 mg vial, which is equivalent to 0.2 mg/mL in each vial. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium - free'.
 
 ## 3. How Blenrep is given
 
@@ -1392,83 +1340,50 @@ Very common : may affect more than 1 in 10 people
 - COVID-19. Symptoms may include:
 
 - o fever
-
 - o chills
-
 - o cough
-
 - o sore throat
-
 - o congestion or runny nose
-
 - o new loss of taste or smell.
-
 - infection of the lungs ( pneumonia ). Symptoms may include:
-
 - o shortness of breath
-
 - o chest pain
-
 - o new onset or worsening cough.
-
 - abnormal bruising and bleeding, due to low number of a type of blood cell called platelets, which help to clot blood ( thrombocytopenia )
-
 - ➔ Read the information under 'Abnormal bruising and bleeding' in section 2 of this leaflet.
-
 - low number of white blood cells ( neutropenia ), which may increase risk of infections. Symptoms may include:
-
 - o fever
-
 - o chills
-
 - o feeling tired.
-
 - fever ( pyrexia ). Symptoms may include:
-
 - o chills
-
 - o flushing.
 
 ## Common: may affect up to 1 in 10 people
 
 - COVID-19 lung infection ( pneumonia ). Symptoms may include:
-
 - o shortness of breath or trouble breathing
-
 - o cough
-
 - o chest pain
-
 - o fever
-
 - o extreme tiredness ( fatigue )
-
 - o confusion.
-
 - Infusion-related reactions develop within minutes or hours but may develop up to 24 hours after treatment. Symptoms
 
 Some people may have allergic-like reactions when they receive an infusion. These usually may include:
 
 - o flushing
-
 - o chills
-
 - o fever
-
 - o difficulty breathing
-
 - o rapid heartbeat
-
 - o drop in blood pressure.
-
 - ➔ Get medical help immediately if you think you may be having a reaction.
 
 ## Uncommon: may affect up to 1 in 100 people
 
 - disorder of the blood vessels in the liver ( porto-sinusoidal vascular disorder ). This can lead to:
-
 - o abnormal liver blood tests and long-term problems such as increased pressure of the blood vessels in the abdomen ( portal hypertension )
-
 - o swelling of blood vessels ( varices ) of the tube that leads from the mouth to the stomach ( oesophagus )
 
 <div style=\"page-break-after: always\"></div>
@@ -1484,69 +1399,39 @@ The following side effects have been reported with Blenrep when given with borte
 ## Very common: may affect more than 1 in 10 people
 
 - eye problems, including:
-
 - o blurred vision
-
 - o changes to the surface of your eye
-
 - o dry eyes
-
 - o sensitivity to light ( photophobia )
-
 - o feeling of something in your eye (foreign body sensation in eyes)
-
 - o eye irritation
-
 - o eye pain
-
 - o decreased vision
-
 - o clouding of the lens ( cataract ).
-
 - ➔ Read the information under 'Eye problems' in section 2 of this leaflet.
-
 - cold or cold-like symptoms such as cough, runny nose or sore throat ( upper respiratory tract infection )
-
 - low number of red blood cells which carry oxygen in the blood ( anaemia ), causing weakness and fatigue
-
 - low number of white blood cells in the blood which help to fight infections ( lymphopenia )
-
 - difficulty falling and staying asleep, and poor quality of sleep ( insomnia )
-
 - nerve damage ( neuropathies )
-
 - cough
-
 - diarrhoea
-
 - nausea
-
 - constipation
-
 - abnormal blood tests indicating liver problems ( alanine aminotransferase, aspartate aminotransferase, and gamma glutamyltransferase )
-
 - joint pain
-
 - back pain
-
 - feeling tired ( fatigue ).
 
 ## Common: may affect up to 1 in 10 people
 
 - other eye problems, including:
-
 - o increased tear production ( lacrimation )
-
 - o double vision ( diplopia )
-
 - o itchy eyes ( eye pruritus )
-
 - o discomfort in eye
-
 - o eye sores, possibly with infection ( corneal ulcer )
-
 - o problems with vision.
-
 - infection of the parts of the body that collect and pass out urine ( urinary tract infection )
 
 <div style=\"page-break-after: always\"></div>
@@ -1586,11 +1471,11 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ºC -8 ºC).
+Store in a refrigerator (2 ºC - 8 ºC).
 
-The reconstituted solution can be stored for up to 4 hours at room temperature (20 ºC -25 ºC) or stored in a refrigerator (2 ºC -8 ºC) for up to 4 hours. Do not freeze.
+The reconstituted solution can be stored for up to 4 hours at room temperature (20 ºC - 25 ºC) or stored in a refrigerator (2 ºC - 8 ºC) for up to 4 hours. Do not freeze.
 
-The diluted solution can be stored in a refrigerator (2 ºC -8 ºC) prior to administration for up to 24 hours. Do not freeze. If refrigerated, allow the diluted solution to equilibrate to room temperature prior to administration. The diluted solution for infusion may be kept at room temperature (20 ºC -25 ºC) for a maximum of 6 hours.
+The diluted solution can be stored in a refrigerator (2 ºC - 8 ºC) prior to administration for up to 24 hours. Do not freeze. If refrigerated, allow the diluted solution to equilibrate to room temperature prior to administration. The diluted solution for infusion may be kept at room temperature (20 ºC - 25 ºC) for a maximum of 6 hours.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1620,9 +1505,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-GlaxoSmithKline Pharmaceuticals s.a./n.v.
-
-Tél/Tel: + 32 (0) 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0) 10 85 52 00
 
 ## България
 
@@ -1642,9 +1525,7 @@ GlaxoSmithKline Trading Services Limited Tel: + 370 80000334
 
 ## Luxembourg/Luxemburg
 
-GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien
-
-Tél/Tel: + 32 (0) 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
 
 ## Magyarország
 
@@ -1726,7 +1607,7 @@ GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-GlaxoSmithKline -Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
 
 ## România
 
@@ -1781,7 +1662,7 @@ Calculate the dose (mg), total volume (mL) of solution required and the number o
 2. Add the necessary amount of Blenrep to the infusion bag containing 250 mL of sodium chloride 9 mg/mL (0.9%) solution for injection. Mix the diluted solution by gentle inversion. The final concentration of the diluted solution should be between 0.2 mg/mL to 2 mg/mL. Do not shake.
 3. Discard any unused reconstituted solution of Blenrep left in the vial.
 
-If the diluted solution is not used immediately, it may be stored in a refrigerator (2 ºC -8 ºC) for up to 24 hours prior to administration. If refrigerated, allow the diluted solution to equilibrate to room temperature prior to administration. The diluted solution may be kept at room temperature (20 ºC -25 ºC) for a maximum of 6 hours (including infusion time).
+If the diluted solution is not used immediately, it may be stored in a refrigerator (2 ºC - 8 ºC) for up to 24 hours prior to administration. If refrigerated, allow the diluted solution to equilibrate to room temperature prior to administration. The diluted solution may be kept at room temperature (20 ºC - 25 ºC) for a maximum of 6 hours (including infusion time).
 
 <div style=\"page-break-after: always\"></div>
 

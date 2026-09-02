@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-12 15:46:44
+document_datetime: 2026-08-25 14:29:28
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zutectra-epar-product-information_en.pdf
 document_name: zutectra-epar-product-information_en.pdf
 version: success
-processing_time: 9.5913667
-conversion_datetime: 2026-06-13 19:57:14.136217
+processing_time: 6.0655449
+conversion_datetime: 2026-09-02 22:12:24.971927
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -130,8 +130,8 @@ Rarely, human hepatitis B immunoglobulin can induce a fall in blood pressure wit
 
 Potential complications can often be avoided by ensuring that patients:
 
-- -are not sensitive to human normal immunoglobulin, by initially injecting the product slowly;
-- -are carefully monitored for any symptoms throughout the injection. In particular, patients naive to human normal immunoglobulin, patients switched from an alternative product or when there has been a long interval since the previous injection should be monitored during the first injection and for the first hour after the first injection, in order to detect potential adverse signs. All other patients should be observed for at least 20 minutes after administration.
+- are not sensitive to human normal immunoglobulin, by initially injecting the product slowly;
+- are carefully monitored for any symptoms throughout the injection. In particular, patients naive to human normal immunoglobulin, patients switched from an alternative product or when there has been a long interval since the previous injection should be monitored during the first injection and for the first hour after the first injection, in order to detect potential adverse signs. All other patients should be observed for at least 20 minutes after administration.
 
 Suspicion of allergic or anaphylactic type reactions requires immediate discontinuation of the treatment. In case of shock, standard medical treatment for shock should be implemented.
 
@@ -367,11 +367,11 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Biotest AG Landsteinerstr. 5 D-63303 Dreieich Germany
+Biotest GmbH &amp; Co. KGaA Landsteinerstraße 5 63303 Dreieich Germany
 
 Name and address of the manufacturer responsible for batch release
 
-Biotest Pharma GmbH Landsteinerstrasse 5 D-63303 Dreieich Germany
+Biotest Pharma GmbH Landsteinerstraße 5 63303 Dreieich Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -541,10 +541,10 @@ Lot
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet:
 
@@ -570,7 +570,7 @@ Zutectra is used to prevent re-infection of hepatitis B in adults who have had a
 
 ## Do not use Zutectra
 
-- -if you are allergic to human immunoglobulin or any of the other ingredients of this medicine (listed in section 6). In particular, in very rare cases of insufficient amount of immunoglobulin A (IgA), when you have antibodies against IgA in your blood. This might lead to severe allergic reaction (anaphylaxis).
+- if you are allergic to human immunoglobulin or any of the other ingredients of this medicine (listed in section 6). In particular, in very rare cases of insufficient amount of immunoglobulin A (IgA), when you have antibodies against IgA in your blood. This might lead to severe allergic reaction (anaphylaxis).
 
 An allergic reaction may include sudden wheeziness, difficulty breathing, fast pulse, swelling of the eyelids, face, lips, throat or tongue, rash or itching.
 
@@ -582,7 +582,7 @@ Zutectra is for injection under the skin (subcutaneous) only. Injection into a v
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you have been told that you have antibodies against immunoglobulins of the type IgA in your blood. This is very rare and may result in allergic reactions.
+- if you have been told that you have antibodies against immunoglobulins of the type IgA in your blood. This is very rare and may result in allergic reactions.
 
 You may be allergic to immunoglobulins (antibodies) without knowing it, even if you have tolerated previous treatments with human immunoglobulins. Particularly if you do not have enough immunoglobulins of the type IgA in your blood, allergic reactions such as a sudden fall in blood pressure or shock may occur.
 
@@ -602,8 +602,8 @@ The starting material or what Zutectra is made from is human blood plasma (this 
 
 When medicines are made from human blood or plasma, certain measures are put in place to prevent infections being passed on to patients. These include
 
-- -careful selection of blood and plasma donors to make sure those at risk of carrying infections are excluded, and
-- -the testing of each donation and pools of plasma for signs of virus/infections.
+- careful selection of blood and plasma donors to make sure those at risk of carrying infections are excluded, and
+- the testing of each donation and pools of plasma for signs of virus/infections.
 
 Manufacturers of these medicines also include steps in the processing of the blood or plasma that can inactivate or remove viruses. Despite these measures, when medicines prepared from human blood or plasma are administered, the possibility of passing on infection cannot be totally excluded. This also applies to any unknown or emerging viruses or other types of infections.
 
@@ -677,12 +677,12 @@ Most side effects observed with Zutectra were mild to moderate in nature. In ver
 
 ## If you notice any of the following effects stop the injection and tell your doctor immediately:
 
-- -rash
-- -itching
-- -wheezing
-- -difficulty breathing
-- -swelling of the eyelids, face, lips, throat or tongue
-- -low blood pressure, fast pulse
+- rash
+- itching
+- wheezing
+- difficulty breathing
+- swelling of the eyelids, face, lips, throat or tongue
+- low blood pressure, fast pulse
 
 This could be an allergic reaction or a serious allergic reaction (anaphylactic shock).
 
@@ -692,37 +692,37 @@ This could be an allergic reaction or a serious allergic reaction (anaphylactic 
 
 Common (may affect up to 1 in 10 people):
 
-- -injection site reactions: pain, hives (urticaria), a collection of blood in tissue under the skin (haematoma), reddening of the skin (erythema).
+- injection site reactions: pain, hives (urticaria), a collection of blood in tissue under the skin (haematoma), reddening of the skin (erythema).
 
 Uncommon (may affect up to 1 in 100 people):
 
-- -headache
-- -upper abdominal pain (from your chest to the belly button)
+- headache
+- upper abdominal pain (from your chest to the belly button)
 
 ## Furthermore, the following reactions have been reported once only:
 
-- -tiredness (fatigue)
-- -high blood pressure (hypertension)
-- -inflammation of the nose and throat (nasopharyngitis)
-- -muscle spasms
-- -allergic reactions (hypersensitivity)
-- -abnormal heartbeat (palpitations), cardiac discomfort
-- -itching (pruritus), rash
-- -pain in the mouth and throat
+- tiredness (fatigue)
+- high blood pressure (hypertension)
+- inflammation of the nose and throat (nasopharyngitis)
+- muscle spasms
+- allergic reactions (hypersensitivity)
+- abnormal heartbeat (palpitations), cardiac discomfort
+- itching (pruritus), rash
+- pain in the mouth and throat
 
 ## With other human immunoglobulin preparations, the following additional symptoms have been reported:
 
-- -chills
-- -headache
-- -dizziness
-- -fever
-- -vomiting
-- -mild allergic reactions
-- -nausea (urge to vomit)
-- -joint pain
-- -low blood pressure
-- -moderate lower back pain
-- -injection site reactions: swelling, soreness, redness, hardening of the skin, local heat, itching, bruising and rash.
+- chills
+- headache
+- dizziness
+- fever
+- vomiting
+- mild allergic reactions
+- nausea (urge to vomit)
+- joint pain
+- low blood pressure
+- moderate lower back pain
+- injection site reactions: swelling, soreness, redness, hardening of the skin, local heat, itching, bruising and rash.
 
 ## Reporting of side effects
 
@@ -748,9 +748,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Zutectra contains
 
-- -The active substance is human hepatitis B immunoglobulin of at least 500 IU/mL.
-- -Zutectra contains 150 mg/mL of human plasma protein of which at least 96 % is immunoglobulin G (IgG). The maximum immunoglobulin A (IgA) content is 6 000 micrograms/mL.
-- -The other ingredients are glycine and water for injections.
+- The active substance is human hepatitis B immunoglobulin of at least 500 IU/mL.
+- Zutectra contains 150 mg/mL of human plasma protein of which at least 96 % is immunoglobulin G (IgG). The maximum immunoglobulin A (IgA) content is 6 000 micrograms/mL.
+- The other ingredients are glycine and water for injections.
 
 ## What Zutectra looks like and the contents of the pack
 
@@ -776,15 +776,19 @@ Twinpharma BV Trasmolenlaan 5 NL-3447 GZ Woerden Tél/Tel +31 348 71 24 05
 
 МЕДИС ФАРМА БЪЛГАРИЯ ЕООД 1700 София
 
+## Ireland
+
+Aquilant Pharmaceuticals 21 Fonthill Business Park Fonthill Road Clondalkin IRL-Dublin 22 Tel: + 353 1 404 8344
+
+## Italia
+
 Ул. Проф. Атанас Иширков 31, офис 6 T: +359 2 427 49 58
 
-## Česká republika, Slovenská republika
+## Česká republika , Slovenská republika
 
 Reg-Pharm spol.s.r.o. Fialková 45 CZ-10600 Praha 10 Tel: + 420 2 7265 4004
 
-## Danmark, Sverige
-
-## Ísland, Norge, Suomi/Finland,
+## Danmark, Ísland, Norge, Suomi/Finland, Sverige
 
 Grifols Nordic AB
 
@@ -794,25 +798,7 @@ Email: infonordic@grifols.com
 
 ## Deutschland, Eesti, Ελλάδα , Latvija, Lietuva, Luxembourg/Luxemburg, Polska, România
 
-Biotest AG Landsteinerstrasse 5 D-63303 Dreieich Tel: + 49 6103 801-0
-
-## España
-
-Grifols Movaco, S.A.
-
-Tel.: +34 93 571 02 00
-
-## France
-
-Grifols France 24 Rue de Prony F-75017 Paris
-
-Tél: +33 (0) 1 53530870
-
-## Ireland
-
-Aquilant Pharmaceuticals 21 Fonthill Business Park Fonthill Road Clondalkin IRL-Dublin 22 Tel: + 353 1 404 8344
-
-## Italia
+Biotest GmbH &amp; Co. KGaA
 
 Grifols Italia S.p.A. Via Torino, 15 I-56010 Vicopisano - Pisa Tel: +39 050 8755111
 
@@ -826,6 +812,20 @@ Biotest Hungaria Kft. Torbágy u. 15/A H-2045 Törökbálint Tel.: + 36 23 511 3
 
 ## Malta
 
+Landsteinerstrasse 5 D-63303 Dreieich Tel: + 49 6103 801-0
+
+## España
+
+Grifols Movaco, S.A.
+
+Tel.: +34 93 571 02 00
+
+## France
+
+Grifols France Tour PB6 Légende 20 place de la Défense F-92800 Puteaux
+
+Tél: +33 (0) 1 53530870
+
 Rodel Ltd 55, Ravina Triq ir-Russett MT-Kappara SGN 4432 Tel: + 356 27 386221
 
 ## Österreich
@@ -834,9 +834,7 @@ Biotest Austria GmbH Einsiedlergasse 58 A-1050 Wien Tel: + 43 1 545 15 61-0
 
 ## Portugal
 
-Grifols Portugal, Lda.
-
-Tel: +351 219 255 200
+Grifols Portugal, Lda. Tel: +351 219 255 200
 
 <div style=\"page-break-after: always\"></div>
 
@@ -856,10 +854,10 @@ The following instructions are intended to explain how to inject Zutectra. Pleas
 
 ## General information:
 
-- -Keep the pens out of the sight and reach of children; lock the supplies if possible.
-- -Try to take the injection at the same time of day. This makes it easier to remember it.
-- -Always double-check the dose and how many injections you have to administer to complete your dose. One pre-filled pen contains 500 IU.
-- -Take each pre-filled pen only out of the pack when you are ready for an injection. Familiarise yourself with the single-use pre-filled pen.
+- Keep the pens out of the sight and reach of children; lock the supplies if possible.
+- Try to take the injection at the same time of day. This makes it easier to remember it.
+- Always double-check the dose and how many injections you have to administer to complete your dose. One pre-filled pen contains 500 IU.
+- Take each pre-filled pen only out of the pack when you are ready for an injection. Familiarise yourself with the single-use pre-filled pen.
 
 <!-- image -->
 
@@ -874,11 +872,11 @@ D = label with expiry date
 ## Before the injection:
 
 1. Collect your supplies and lay them out on a clean surface:
-2. -pre-filled pen(s) of Zutectra (one pre-filled pen contains 500 IU)
-3. -one alcohol swab
-4. -one cotton ball/gauze
-5. -sharps container
-6. -treatment diary
+- pre-filled pen(s) of Zutectra (one pre-filled pen contains 500 IU)
+- one alcohol swab
+- one cotton ball/gauze
+- sharps container
+- treatment diary
 
 Note that only the pre-filled pens of Zutectra are supplied. You need to supply the other items yourself.
 
@@ -910,25 +908,23 @@ Fig. 5
 
 <!-- image -->
 
-10
-
-sec
-
-2.
-
 Fig. 3
-
-Fig. 6
-
-+5
-
-sec
 
 Fig. 4
 
-1.
+Fig. 6
 
 Fig. 7
+
+sec sec
+
+10
+
++5
+
+2.
+
+(C
 
 ## Injection:
 

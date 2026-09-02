@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-02 14:52:21
+document_datetime: 2026-08-25 14:53:01
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aquipta-epar-product-information_en.pdf
 document_name: aquipta-epar-product-information_en.pdf
 version: success
-processing_time: 15.8388002
-conversion_datetime: 2026-07-04 15:10:21.584807
+processing_time: 14.3926418
+conversion_datetime: 2026-09-02 21:55:30.092772
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -244,19 +244,19 @@ Table 3: Efficacy endpoints during Attack 1 in ECLIPSE
 |                                                                                                                            | AQUIPTA 60 mg N=602                                                                                                        | Placebo N=612                                                                                                              |
 |----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | Pain-free at 2 hours                                                                                                       |                                                                                                                            |                                                                                                                            |
-| %Responders                                                                                                                | 24.3                                                                                                                       | 13.1                                                                                                                       |
+| % Responders                                                                                                               | 24.3                                                                                                                       | 13.1                                                                                                                       |
 | Odds ratio (95% CI)                                                                                                        | 2.36 (1.76, 3.15)                                                                                                          |                                                                                                                            |
 | p -value                                                                                                                   | <0.0001 a                                                                                                                  |                                                                                                                            |
 | Freedom from most bothersome symptom b at 2 hours                                                                          |                                                                                                                            |                                                                                                                            |
-| %Responders                                                                                                                | 43.7                                                                                                                       | 32.7                                                                                                                       |
+| % Responders                                                                                                               | 43.7                                                                                                                       | 32.7                                                                                                                       |
 | Odds ratio (95% CI)                                                                                                        | 1.77 (1.41, 2.24)                                                                                                          |                                                                                                                            |
 | p -value                                                                                                                   | <0.0001 a                                                                                                                  |                                                                                                                            |
 | Pain relief at 2 hours                                                                                                     |                                                                                                                            |                                                                                                                            |
-| %Responders                                                                                                                | 72.1                                                                                                                       | 54.4                                                                                                                       |
+| % Responders                                                                                                               | 72.1                                                                                                                       | 54.4                                                                                                                       |
 | Odds ratio (95% CI)                                                                                                        | 2.35 (1.85, 2.98)                                                                                                          |                                                                                                                            |
 | p -value                                                                                                                   | <0.0001 a                                                                                                                  |                                                                                                                            |
 | Sustained pain freedom from 2 to 48 hours                                                                                  |                                                                                                                            |                                                                                                                            |
-| %Responders                                                                                                                | 16.6                                                                                                                       | 5.7                                                                                                                        |
+| % Responders                                                                                                               | 16.6                                                                                                                       | 5.7                                                                                                                        |
 | Odds ratio (95% CI)                                                                                                        | 3.62 (2.43, 5.39)                                                                                                          |                                                                                                                            |
 | p -value                                                                                                                   | <0.0001 a                                                                                                                  |                                                                                                                            |
 | a p values adjusted for multiple comparisons b Patient-identified as nausea (31%), photophobia (44%), or phonophobia (25%) | a p values adjusted for multiple comparisons b Patient-identified as nausea (31%), photophobia (44%), or phonophobia (25%) | a p values adjusted for multiple comparisons b Patient-identified as nausea (31%), photophobia (44%), or phonophobia (25%) |
@@ -306,8 +306,8 @@ Table 4: Efficacy endpoints in ADVANCE
 | Mean change from baseline                         | -3.8                  |            -2.3 |
 | Difference from placebo                           | -1.4                  |                 |
 | p -value                                          | <0.001                |                 |
-| ≥ 50% MMDresponders across 12 weeks               |                       |                 |
-| %Responders                                       | 59                    |              29 |
+| ≥ 50% MMD responders across 12 weeks              |                       |                 |
+| % Responders                                      | 59                    |              29 |
 | Odds ratio (95% CI)                               | 3.55 (2.39, 5.28)     |                 |
 | p -value                                          | <0.001                |                 |
 
@@ -321,7 +321,7 @@ Figure 2: Change from baseline in monthly migraine days in ADVANCE
 
 ## Long-term efficacy
 
-Efficacy was sustained for up to one year in an open-label study in which 546 patients with episodic migraine were randomised to receive AQUIPTA 60 mg once daily. 68% (373/546) of patients completed the treatment period. The reduction in the least-squares mean number of monthly migraine days in the first month (weeks 1-4) was -3.8 days and improved to a least-squares mean reduction of 5.2 days in the last month (weeks 49-52). Approximately 84%, 70%, and 48% of patients reported ≥ 50%, ≥ 75%, and 100% reduction in monthly migraine days at weeks 49-52, respectively.
+Efficacy was sustained for up to one year in an open-label study in which 546 patients with episodic migraine were randomised to receive AQUIPTA 60 mg once daily. 68% (373/546) of patients completed the treatment period. The reduction in the least-squares mean number of monthly migraine days in the first month (weeks 1-4) was -3.8 days and improved to a least-squares mean reduction of - 5.2 days in the last month (weeks 49-52). Approximately 84%, 70%, and 48% of patients reported ≥ 50%, ≥ 75%, and 100% reduction in monthly migraine days at weeks 49-52, respectively.
 
 ## Patients with previous failure to 2 to 4 classes of oral prophylactic treatments
 
@@ -358,8 +358,8 @@ Table 5: Efficacy endpoints in PROGRESS
 | Mean change from baseline                         | -6.2                                              | -4.1                                              |
 | Difference from placebo                           | -2.1                                              |                                                   |
 | p -value                                          | 0.002                                             |                                                   |
-| ≥ 50% MMDresponders across 12 weeks               | ≥ 50% MMDresponders across 12 weeks               | ≥ 50% MMDresponders across 12 weeks               |
-| %Responders                                       | 40                                                | 27                                                |
+| ≥ 50% MMD responders across 12 weeks              | ≥ 50% MMD responders across 12 weeks              | ≥ 50% MMD responders across 12 weeks              |
+| % Responders                                      | 40                                                | 27                                                |
 | Odds ratio (95% CI)                               | 1.90 (1.29, 2.79)                                 |                                                   |
 | p -value                                          | 0.002                                             |                                                   |
 
@@ -375,11 +375,15 @@ h
 
 In the TEMPLE study, 540 adult patients with episodic or chronic migraine were randomised and received either atogepant 60 mg once daily (N = 273) or topiramate 50 mg to 100 mg per day (N = 267) for 24 weeks during the double-blind phase to assess tolerability, safety, and efficacy. Atogepant demonstrated superior tolerability versus topiramate based on the rate of treatment discontinuation due to adverse events (atogepant: 12.1%, topiramate: 29.6%; p&lt;0.0001; primary endpoint). 64.1% of patients in the atogepant group achieved at least a 50% reduction in MMD during Months 4 to 6 of the study compared to 39.3% in the topiramate group (p&lt;0.0001).
 
+## Long-term study
+
+Efficacy was sustained for up to 3 years in an open-label, uncontrolled study of AQUIPTA 60 mg once daily. The study included 270 episodic migraine patients who completed the ELEVATE study and 325 chronic migraine patients who completed the PROGRESS study. Overall, 63% of patients completed 3 years of open-label treatment, and no new safety signals were identified. The reduction from lead-in study baselines in the mean number of MMD was maintained over the 156-week open-label treatment period for both episodic and chronic migraine. In subjects completing the 3-year study, the proportions of patients who responded with ≥ 50%, ≥ 75%, and 100% reduction in MMD during weeks 153-156 were 79.6%, 61.7%, and 35.8% for episodic migraine patients, respectively, and 75.4%, 52.5% and 20.3% for chronic migraine patients, respectively.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with AQUIPTA in one or more subsets of the paediatric population in acute treatment and prophylaxis of migraine headaches (see section 4.2 for information on paediatric use).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -411,6 +415,8 @@ In vitro , atogepant is not an inhibitor for CYP3A4, 1A2, 2B6, 2C8, 2C9, 2C19, 2
 
 The elimination half-life of atogepant is approximately 11 hours. The mean apparent oral clearance (CL/F) of atogepant is approximately 19 L/h. Following single oral dose of 50 mg 14 C-atogepant to healthy male subjects, 42% and 5% of the dose was recovered as unchanged atogepant in faeces and urine, respectively.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Transporters
 
 Atogepant is a substrate of P-gp, BCRP, OATP1B1, OATP1B3, and OAT1. Dose adjustment for concomitant use with strong inhibitors of OATP is recommended based on a clinical interaction study with a strong OATP inhibitor. Atogepant is not a substrate of OAT3, OCT2, or MATE1.
@@ -418,8 +424,6 @@ Atogepant is a substrate of P-gp, BCRP, OATP1B1, OATP1B3, and OAT1. Dose adjustm
 Atogepant is not an inhibitor of P-gp, BCRP, OAT1, OAT3, NTCP, BSEP, MRP3, or MRP4 at clinically relevant concentrations. Atogepant is a weak inhibitor of OATP1B1, OATP1B3, OCT1, and MATE1, but no clinically relevant interactions are expected.
 
 ## Special populations
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -443,15 +447,17 @@ Notwithstanding marked interspecies differences in CGRP-receptor affinity of ato
 
 ## Impairment of fertility
 
-Oral administration of atogepant to male and female rats prior to and during mating and continuing in females to gestation day 7 resulted in no adverse effects on fertility or reproductive performance. Plasma exposures (AUC) are up to approximately 15 times that in humans at the maximum recommended human dose (MRHD).
+Oral administration of atogepant to male and female rats prior to and during mating and continuing in females to gestation day 7 resulted in no adverse effects on fertility or reproductive performance.
+
+<div style=\"page-break-after: always\"></div>
+
+Plasma exposures (AUC) are up to approximately 15 times that in humans at the maximum recommended human dose (MRHD).
 
 ## Reproductive and developmental toxicology
 
 Oral administration of atogepant to pregnant rats and rabbits during the period of organogenesis resulted in decreased foetal body weight in rats and an increased incidence of foetal visceral and skeletal variations at doses associated with minimal maternal toxicity. At the no-effect dose for adverse effects on embryofoetal development, plasma exposure (AUC) was approximately 4 times in rats and 3 times in rabbits that in humans at the MRHD of 60 mg/day.
 
 Oral administration of atogepant to rats throughout gestation and lactation resulted in non-adverse significant decreased pup body weight which persisted into adulthood. Plasma exposure (AUC) at the no-effect dose for pre- and postnatal development were approximately 5-times that in humans at the MRHD. In lactating rats, oral dosing with atogepant resulted in levels of atogepant in milk approximately 2-fold higher than those in maternal plasma.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -483,6 +489,8 @@ Aluminium foil and PVC/PE/PCTFE blisters containing 2 tablets. Packs containing 
 
 Aluminium foil and PVC/PE/PCTFE blisters, each containing 7 tablets. Packs containing 7, 28 or 98 tablets.
 
+<div style=\"page-break-after: always\"></div>
+
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
@@ -491,11 +499,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse
-
-<div style=\"page-break-after: always\"></div>
-
-67061 Ludwigshafen Germany
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -591,7 +595,8 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
 8. EXPIRY DATE
 
@@ -605,8 +610,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
@@ -636,8 +641,8 @@ aquipta 10 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -685,8 +690,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
@@ -714,20 +719,20 @@ aquipta 10 mg AQUIPTA 10 mg tablets atogepant AbbVie (as logo)
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -831,8 +836,8 @@ aquipta 60 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -886,8 +891,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
@@ -915,20 +920,20 @@ aquipta 60 mg AQUIPTA 60 mg tablets atogepant AbbVie (as logo)
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -963,10 +968,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -984,7 +989,7 @@ AQUIPTA contains the active substance atogepant. AQUIPTA is used in adult patien
 - treat an active migraine attack
 - prevent migraine in those who have at least 4 migraine days per month
 
-AQUIPTA is thought to block the activity of the calcitonin/calcitonin gene related peptide (CGRP)receptor family, which have been linked to migraine.
+AQUIPTA is thought to block the activity of the calcitonin/calcitonin gene related peptide (CGRP)- receptor family, which have been linked to migraine.
 
 ## 2. What you need to know before you take AQUIPTA
 

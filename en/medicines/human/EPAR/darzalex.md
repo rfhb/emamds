@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-21 15:42:00
+document_datetime: 2026-08-26 16:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/darzalex.html
 document_name: darzalex.html
 version: success
-processing_time: 0.2121979
-conversion_datetime: 2026-07-28 13:01:35.042395
+processing_time: 0.2219864
+conversion_datetime: 2026-09-02 22:26:29.368464
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Darzalex
 
@@ -176,7 +176,7 @@ English (EN) (157.15 KB - PDF)
 
 [View](/en/documents/overview/darzalex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-779)
+[Other languages (22)](#file-language-dropdown-954)
 
 български (BG) (181.75 KB - PDF)
 
@@ -328,7 +328,7 @@ English (EN) (5.55 MB - PDF)
 
 [View](/en/documents/product-information/darzalex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-682)
+[Other languages (24)](#file-language-dropdown-582)
 
 български (BG) (2.64 MB - PDF)
 
@@ -482,7 +482,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -501,7 +501,7 @@ English (EN) (40.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-595)
+[Other languages (24)](#file-language-dropdown-277)
 
 български (BG) (33.58 KB - PDF)
 
@@ -699,8 +699,6 @@ Darzalex is indicated:
     - EMEA/H/C/004077
 - **Accelerated assessment**
     - This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
-- **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
 - **Opinion adopted**
     - 31/03/2016
 - **Marketing authorisation issued**
@@ -1032,7 +1030,7 @@ English (EN) (2.63 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-795)
+[Other languages (24)](#file-language-dropdown-610)
 
 български (BG) (1.2 MB - DOCX)
 
@@ -1182,18 +1180,24 @@ norsk (NO) (1.57 MB - DOCX)
 
 ## More information on Darzalex
 
-This product originally had an orphan designation for [treatment of plasma-cell myeloma](/en/medicines/human/orphan-designations/eu-3-13-1153) , granted on 17 July 2013. This designation was withdrawn from the Community register of orphan medicinal products in May 2026 at the end of the 10-year period of market exclusivity.
+This product was originally designated an orphan medicine for the following orphan indications:
+
+- [treatment of plasma-cell myeloma](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-13-1153) (17 July 2013) and
+- [treatment of AL amyloidosis](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-18-2020) (25 May 2018).
+
+Darzalex for treatment of plasma-cell myeloma was withdrawn from the Community register of orphan medicinal products in May 2026 at the end of the 10-year period of market exclusivity.
+
+Darzalex for treatment of AL amyloidosis was withdrawn from the Community register of orphan medicinal products in August 2026 upon request of the marketing authorisation holder.
 
 ## More information on Darzalex
 
 - [EMEA-002152-PIP02-17-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002152-pip02-17-m01)
-- [EU/3/18/2020 - orphan designation for treatment of AL amyloidosis](/en/medicines/human/orphan-designations/eu-3-18-2020)
 - [EMEA-002152-PIP01-17-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002152-pip01-17-m04)
 - [EMEA-002152-PIP03-19 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002152-pip03-19)
 - [A Post-authorization Safety Study to Evaluate the Incidence of and Risk Factors for Severe and Fatal Infusion-related Reactions in Participants Treated with Daratumumab (Intravenous or Subcutaneous) (HALO) - post-authorisation study](https://catalogues.ema.europa.eu/study/49828)
 
 **This page was last updated on**
 
-21/07/2026
+26/08/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-25 13:29:00
+document_datetime: 2026-08-26 15:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/skyrizi.html
 document_name: skyrizi.html
 version: success
-processing_time: 0.1760641
-conversion_datetime: 2026-07-04 13:01:45.650072
+processing_time: 0.182854
+conversion_datetime: 2026-09-02 22:31:10.043234
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Skyrizi
 
@@ -46,12 +46,12 @@ Page contents
 
 ## Overview
 
-Skyrizi is a medicine used to treat adults with:
+Skyrizi is a medicine used to treat:
 
-- moderate-to-severe plaque psoriasis (a disease causing red, scaly patches on the skin) who require systemic treatment (treatment with medicines given by mouth or by injection);
-- active psoriatic arthritis (a disease that causes psoriasis and inflammation of the joints) when treatment with one or more medicines known as disease-modifying anti-rheumatic drugs (DMARDs) has not worked well enough or causes unacceptable side effects;
-- moderate-to-severe Crohn's disease (a disease causing inflammation of the digestive tract) when conventional or biological treatments do not work well enough or cause unacceptable side effects;
-- ulcerative colitis (inflammation of the large intestine causing ulceration and bleeding) when conventional or biological treatments do not work well enough or cause unacceptable side effects.
+- moderate-to-severe plaque psoriasis (a disease causing red, scaly patches on the skin) in adults, adolescents and children from 6 years of age who require systemic treatment (treatment with medicines given by mouth or by injection);
+- active psoriatic arthritis (a disease that causes psoriasis and inflammation of the joints) in adults when treatment with one or more medicines known as disease-modifying anti-rheumatic drugs (DMARDs) has not worked well enough or causes unacceptable side effects;
+- moderate-to-severe Crohn's disease (a disease causing inflammation of the digestive tract) in adults when conventional or biological treatments do not work well enough or cause unacceptable side effects;
+- ulcerative colitis (inflammation of the large intestine causing ulceration and bleeding) in adults when conventional or biological treatments do not work well enough or cause unacceptable side effects.
 
 When used for psoriatic arthritis, Skyrizi can be given alone or with another medicine, methotrexate.
 
@@ -69,7 +69,7 @@ For plaque psoriasis and psoriatic arthritis, Skyrizi is available in pre-filled
 
 For Crohn's disease and ulcerative colitis, Skyrizi is given as an infusion (drip into a vein) three times over eight weeks at the start of treatment. For long-term maintenance treatment, Skyrizi is available in a cartridge and given as an injection under the skin 4 weeks after the last infusion and then every 8 weeks.
 
-After being trained, patients may inject Skyrizi themselves if the doctor considers it appropriate.
+After being trained, adult patients may inject Skyrizi themselves if the doctor considers it appropriate.
 
 For more information about using Skyrizi, including the recommended doses, see the package leaflet or contact your doctor or pharmacist.
 
@@ -81,13 +81,21 @@ The active substance in Skyrizi, risankizumab, is a monoclonal antibody (a type 
 
 **Plaque psoriasis**
 
-In four main studies involving over 2,100 patients with moderate-to-severe plaque psoriasis who required systemic treatment, Skyrizi was more effective than placebo (a dummy treatment) and comparator medicines at improving symptoms.
+In four main studies involving over 2,100 adults with moderate-to-severe plaque psoriasis who required systemic treatment, Skyrizi was more effective than placebo (a dummy treatment) and comparator medicines at improving symptoms.
 
-In the first two studies in a total of 997 patients, after 16 weeks of treatment around 75% of patients receiving Skyrizi had a reduction of at least 90% in PASI scores (a measure of how severe and widespread the skin lesions are), compared with around 45% of those receiving ustekinumab and around 4% of those receiving placebo. In addition, around 86% of patients receiving Skyrizi had clear or almost clear skin, compared with around 62% of those receiving ustekinumab and around 6% of those receiving placebo. Improvements in symptoms were maintained after 52 weeks of treatment with Skyrizi.
+In the first two studies in a total of 997 adults, after 16 weeks of treatment around 75% of patients receiving Skyrizi had a reduction of at least 90% in PASI scores (a measure of how severe and widespread the skin lesions are), compared with around 45% of those receiving ustekinumab and around 4% of those receiving placebo. In addition, around 86% of patients receiving Skyrizi had clear or almost clear skin, compared with around 62% of those receiving ustekinumab and around 6% of those receiving placebo. Improvements in symptoms were maintained after 52 weeks of treatment with Skyrizi.
 
-In the third study involving 605 patients, after 16 weeks of treatment 72% of patients receiving Skyrizi had a reduction of at least 90% in PASI scores, compared with 47% of those receiving adalimumab. In addition, 84% of patients receiving Skyrizi had clear or almost clear skin, compared with 60% of those receiving adalimumab.
+In the third study involving 605 adults, after 16 weeks of treatment 72% of patients receiving Skyrizi had a reduction of at least 90% in PASI scores, compared with 47% of those receiving adalimumab. In addition, 84% of patients receiving Skyrizi had clear or almost clear skin, compared with 60% of those receiving adalimumab.
 
-Finally, in the fourth study involving 507 patients, after 16 weeks of treatment 73% of patients receiving Skyrizi had a reduction of at least 90% in PASI scores, compared with 2% of those receiving placebo. Around 84% of patients receiving Skyrizi had clear or almost clear skin, compared with around 7% of those receiving placebo. In a second part of this study, some patients who first received Skyrizi were then switched to placebo after 28 weeks while others remained on Skyrizi. At week 52, more patients who remained on Skyrizi had clear or almost clear skin than those who were switched to placebo.
+Finally, in the fourth study involving 507 adults, after 16 weeks of treatment 73% of patients receiving Skyrizi had a reduction of at least 90% in PASI scores, compared with 2% of those receiving placebo. Around 84% of patients receiving Skyrizi had clear or almost clear skin, compared with around 7% of those receiving placebo. In a second part of this study, some patients who first received Skyrizi were then switched to placebo after 28 weeks while others remained on Skyrizi. At week 52, more patients who remained on Skyrizi had clear or almost clear skin than those who were switched to placebo.
+
+Another study involved 137 children and adolescents from 6 years to less than 18 of age. The study consisted of four parts, each with distinct patient populations; part 2 and part 4 provided the most relevant results on the benefits of Skyrizi in the treatment of plaque psoriasis in children and adolescents.
+
+Part 2 of the study involved 82 children and adolescents from 12 years of age who received either Skyrizi or ustekinumab; after 16 weeks of treatment, around 85% (46 out of 54) of children receiving Skyrizi had a reduction of at least 75% in PASI scores, compared with 86% (24 out of 28) of those receiving ustekinumab. Around 80% (43 out of 54) of patients receiving Skyrizi had clear or almost clear skin, compared with 75% (21 out of 28) of those receiving ustekinumab.
+
+Part 4 of the study involved 30 children from six to less than 12 years of age; in this part of the study, Skyrizi was not compared with another treatment. After 52 weeks of treatment, around 87% (26 out of 30) of children had a reduction of at least 75% in PASI scores, and 90% (27 out of 30) had clear or almost clear skin.
+
+Interim results from an ongoing study, which involves 129 children and adolescents who completed the previous study, indicate that the effectiveness of Skyrizi is maintained in the long-term.
 
 **Psoriatic arthritis**
 
@@ -115,7 +123,9 @@ The benefits of Skyrizi were investigated in a main study involving 977 patients
 
 A second main study looked at the long-term benefits of Skyrizi in 548 patients who had a clinical response to 12 weeks of treatment. In this study, patients were taking the medicine as an injection under the skin; after 52 weeks of treatment, 40% of patients taking a low dose and 38% of patients taking a high dose of Skyrizi achieved clinical remission, compared with 25% of patients taking placebo.
 
-### What are the risks associated with Skyrizi?
+Studies carried out with Skyrizi are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Skyrizi?
 
 For the full list of side effects and restrictions with Skyrizi, see the package leaflet.
 
@@ -141,145 +151,145 @@ Skyrizi received a marketing authorisation valid throughout the EU on 26 April 2
 
 Skyrizi : EPAR - Medicine overview
 
-Reference Number: EMA/321332/2024
+Reference Number: EMADOC-1829012207-54552
 
-English (EN) (110.85 KB - PDF)
+English (EN) (165.67 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/en/documents/overview/skyrizi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-200)
+[Other languages (22)](#file-language-dropdown-386)
 
-български (BG) (137.53 KB - PDF)
+български (BG) (183.52 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/bg/documents/overview/skyrizi-epar-medicine-overview_bg.pdf)
 
-español (ES) (111.63 KB - PDF)
+español (ES) (165.32 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/es/documents/overview/skyrizi-epar-medicine-overview_es.pdf)
 
-čeština (CS) (132.05 KB - PDF)
+čeština (CS) (184.17 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/cs/documents/overview/skyrizi-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (110.59 KB - PDF)
+dansk (DA) (159.6 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/da/documents/overview/skyrizi-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (111.89 KB - PDF)
+Deutsch (DE) (166.65 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/de/documents/overview/skyrizi-epar-medicine-overview_de.pdf)
 
-eesti (ET) (109.83 KB - PDF)
+eesti (ET) (157.72 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/et/documents/overview/skyrizi-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (138 KB - PDF)
+ελληνικά (EL) (181.22 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/el/documents/overview/skyrizi-epar-medicine-overview_el.pdf)
 
-français (FR) (112.12 KB - PDF)
+français (FR) (164.26 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/fr/documents/overview/skyrizi-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (126.32 KB - PDF)
+hrvatski (HR) (184.07 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/hr/documents/overview/skyrizi-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (111.25 KB - PDF)
+italiano (IT) (161.15 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/it/documents/overview/skyrizi-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (134.68 KB - PDF)
+latviešu (LV) (191.6 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/lv/documents/overview/skyrizi-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (131.51 KB - PDF)
+lietuvių (LT) (184.11 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/lt/documents/overview/skyrizi-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (125.75 KB - PDF)
+magyar (HU) (182.9 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/hu/documents/overview/skyrizi-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (132.34 KB - PDF)
+Malti (MT) (186.71 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/mt/documents/overview/skyrizi-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (111.54 KB - PDF)
+Nederlands (NL) (161.9 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/nl/documents/overview/skyrizi-epar-medicine-overview_nl.pdf)
 
-polski (PL) (133.1 KB - PDF)
+polski (PL) (187.06 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/pl/documents/overview/skyrizi-epar-medicine-overview_pl.pdf)
 
-português (PT) (111.25 KB - PDF)
+português (PT) (162.42 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/pt/documents/overview/skyrizi-epar-medicine-overview_pt.pdf)
 
-română (RO) (129.33 KB - PDF)
+română (RO) (181.59 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/ro/documents/overview/skyrizi-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (129.26 KB - PDF)
+slovenčina (SK) (181.74 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/sk/documents/overview/skyrizi-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (125.74 KB - PDF)
+slovenščina (SL) (181.54 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/sl/documents/overview/skyrizi-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (111.01 KB - PDF)
+suomi (FI) (159.76 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/fi/documents/overview/skyrizi-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (110.25 KB - PDF)
+svenska (SV) (160.74 KB - PDF)
 
-**First published:** 26/06/2019 **Last updated:** 27/08/2024
+**First published:** 26/06/2019 **Last updated:** 26/08/2026
 
 [View](/sv/documents/overview/skyrizi-epar-medicine-overview_sv.pdf)
 
@@ -301,7 +311,7 @@ English (EN) (2.89 MB - PDF)
 
 [View](/en/documents/product-information/skyrizi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-333)
+[Other languages (24)](#file-language-dropdown-916)
 
 български (BG) (3.08 MB - PDF)
 
@@ -455,7 +465,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -474,7 +484,7 @@ English (EN) (28.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/skyrizi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-986)
+[Other languages (24)](#file-language-dropdown-910)
 
 български (BG) (52.22 KB - PDF)
 
@@ -907,6 +917,6 @@ English (EN) (61.17 KB - PDF)
 
 **This page was last updated on**
 
-25/06/2026
+26/08/2026
 
 ## Share this page

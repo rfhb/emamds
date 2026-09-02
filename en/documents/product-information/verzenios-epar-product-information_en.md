@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-25 09:08:04
+document_datetime: 2026-08-25 15:13:10
 document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/verzenios-epar-product-information_en.pdf
 document_name: verzenios-epar-product-information_en.pdf
 version: success
-processing_time: 16.6389604
-conversion_datetime: 2026-03-01 20:27:57.43636
+processing_time: 16.6896982
+conversion_datetime: 2026-09-02 22:08:20.741824
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -452,11 +452,9 @@ Among the 5 637 randomised patients, 5 120 were enrolled in Cohort 1, representi
 
 Sixty-five percent of the patients had 4 or more positive lymph nodes, 41 % had Grade 3 tumour, and 24 % had pathological tumour size ≥ 5 cm at surgery.
 
-The primary endpoint was invasive disease-free survival (IDFS) in ITT population defined as the time from randomization to the first occurrence of ipsilateral invasive breast tumour recurrence, regional invasive breast cancer recurrence, distant recurrence, contralateral invasive breast cancer, second
+The primary endpoint was invasive disease-free survival (IDFS) in ITT population defined as the time from randomization to the first occurrence of ipsilateral invasive breast tumour recurrence, regional invasive breast cancer recurrence, distant recurrence, contralateral invasive breast cancer, second primary non-breast invasive cancer, or death attributable to any cause. Key secondary endpoint was distant relapse free survival (DRFS) in ITT population defined as time from randomization to the first occurrence of distant recurrence, or death attributable to any cause.
 
 <div style=\"page-break-after: always\"></div>
-
-primary non-breast invasive cancer, or death attributable to any cause. Key secondary endpoint was distant relapse free survival (DRFS) in ITT population defined as time from randomization to the first occurrence of distant recurrence, or death attributable to any cause.
 
 The primary objective of the study was met at the pre-planned interim analysis (16 Mar 2020 cut-off). A statistically significant improvement in IDFS was observed in patients who received Verzenios plus endocrine therapy versus endocrine therapy alone in the ITT population. At the time of the subsequent final overall survival (OS) analysis (15 July 2025 cut-off) a statistically significant improvement in OS was also observed in patients who received Verzenios plus endocrine therapy versus endocrine therapy alone in the ITT population. The approval was granted for the large subpopulation, Cohort 1.
 
@@ -470,12 +468,12 @@ Table 9. monarchE: Summary of efficacy data (Cohort 1 population)
 |-----------------------------------------|----------------------------------------------|-------------------------------------|
 | Invasive disease-free survival (IDFS)   |                                              |                                     |
 | Number of patients with event (n, %)    | 512 (20.0)                                   | 678 (26.4)                          |
-| Hazard ratio (95 %CI)                   | 0.726 (0.648, 0.815)                         | 0.726 (0.648, 0.815)                |
-| IDFS at 84 months (%, 95 %CI)           | 77.0 (75.0, 78.8)                            | 70.1 (68.0, 72.1)                   |
+| Hazard ratio (95 % CI)                  | 0.726 (0.648, 0.815)                         | 0.726 (0.648, 0.815)                |
+| IDFS at 84 months (%, 95 % CI)          | 77.0 (75.0, 78.8)                            | 70.1 (68.0, 72.1)                   |
 | Distant relapse free survival (DRFS)    |                                              |                                     |
 | Number of patients with an event (n, %) | 448 (17.5)                                   | 589 (23.0)                          |
-| Hazard ratio (95 %CI)                   | 0.736 (0.651, 0.832)                         | 0.736 (0.651, 0.832)                |
-| DRFS at 84 months (%, 95 %CI)           | 79.5 (77.6, 81.2)                            | 74.0 (72.0, 75.9                    |
+| Hazard ratio (95 % CI)                  | 0.736 (0.651, 0.832)                         | 0.736 (0.651, 0.832)                |
+| DRFS at 84 months (%, 95 % CI)          | 79.5 (77.6, 81.2)                            | 74.0 (72.0, 75.9                    |
 | Overall Survival (OS)                   |                                              |                                     |
 | Number of events, n (%)                 | 286 (11.2)                                   | 344 (13.4)                          |
 | Hazard Ratio (95% CI)                   | 0.835 (0.713, 0.977)                         | 0.835 (0.713, 0.977)                |
@@ -522,22 +520,22 @@ The study met its primary endpoint of improving PFS. Primary efficacy results ar
 
 Table 10. MONARCH 3: Summary of efficacy data (Investigator assessment, intent-to-treat population)
 
-|                                                           | Verzenios plus aromatase inhibitor   | Placebo plus aromatase inhibitor   |
-|-----------------------------------------------------------|--------------------------------------|------------------------------------|
-| Progression-free survival                                 | N = 328                              | N = 165                            |
-| Investigator assessment, number of events (%)             | 138 (42.1)                           | 108 (65.5)                         |
-| Median [months] (95 %CI)                                  | 28.18 (23.51, NR)                    | 14.76 (11.24, 19.20)               |
-| Hazard ratio (95 %CI) and p-value                         | 0.540 (0.418, 0.698), p = 0.000002   | 0.540 (0.418, 0.698), p = 0.000002 |
-| Independent radiographic review, number of events (%)     | 91 (27.7)                            | 73 (44.2)                          |
-| Median [months] (95 %CI)                                  | NR (NR, NR)                          | 19.36 (16.37, 27.91)               |
-| Hazard ratio (95 %CI) and p-value                         | 0.465 (0.339, 0.636); p < 0.000001   | 0.465 (0.339, 0.636); p < 0.000001 |
-| Objective response rate b [%] (95 %CI)                    | 49.7 (44.3, 55.1)                    | 37.0 (29.6, 44.3)                  |
-| Duration of response [months] (95 %CI)                    | 27.39 (25.74, NR)                    | 17.46 (11.21, 22.19)               |
-| Objective response for patients with measurable disease a | N = 267                              | N = 132                            |
-| Objective response rate b [%] (95 %CI)                    | 61.0 (55.2, 66.9)                    | 45.5 (37.0, 53.9)                  |
-| Complete response, (%)                                    | 3.4                                  | 0                                  |
-| Partial response, (%)                                     | 57.7                                 | 45.5                               |
-| Clinical benefit rate c (measurable disease) [%] (95 %CI) | 79.0 (74.1, 83.9)                    | 69.7 (61.9, 77.5)                  |
+|                                                            | Verzenios plus aromatase inhibitor   | Placebo plus aromatase inhibitor   |
+|------------------------------------------------------------|--------------------------------------|------------------------------------|
+| Progression-free survival                                  | N = 328                              | N = 165                            |
+| Investigator assessment, number of events (%)              | 138 (42.1)                           | 108 (65.5)                         |
+| Median [months] (95 % CI)                                  | 28.18 (23.51, NR)                    | 14.76 (11.24, 19.20)               |
+| Hazard ratio (95 % CI) and p-value                         | 0.540 (0.418, 0.698), p = 0.000002   | 0.540 (0.418, 0.698), p = 0.000002 |
+| Independent radiographic review, number of events (%)      | 91 (27.7)                            | 73 (44.2)                          |
+| Median [months] (95 % CI)                                  | NR (NR, NR)                          | 19.36 (16.37, 27.91)               |
+| Hazard ratio (95 % CI) and p-value                         | 0.465 (0.339, 0.636); p < 0.000001   | 0.465 (0.339, 0.636); p < 0.000001 |
+| Objective response rate b [%] (95 % CI)                    | 49.7 (44.3, 55.1)                    | 37.0 (29.6, 44.3)                  |
+| Duration of response [months] (95 % CI)                    | 27.39 (25.74, NR)                    | 17.46 (11.21, 22.19)               |
+| Objective response for patients with measurable disease a  | N = 267                              | N = 132                            |
+| Objective response rate b [%] (95 % CI)                    | 61.0 (55.2, 66.9)                    | 45.5 (37.0, 53.9)                  |
+| Complete response, (%)                                     | 3.4                                  | 0                                  |
+| Partial response, (%)                                      | 57.7                                 | 45.5                               |
+| Clinical benefit rate c (measurable disease) [%] (95 % CI) | 79.0 (74.1, 83.9)                    | 69.7 (61.9, 77.5)                  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -588,22 +586,22 @@ The study met its primary endpoint of improving PFS. Primary efficacy results ar
 
 Table 12. MONARCH 2: Summary of efficacy data (Investigator assessment, intent-to-treat population)
 
-|                                                           | Verzenios plus fulvestrant          | Placebo plus fulvestrant            |
-|-----------------------------------------------------------|-------------------------------------|-------------------------------------|
-| Progression-free survival                                 | N = 446                             | N = 223                             |
-| Investigator assessment, number of events (%)             | 222 (49.8)                          | 157 (70.4)                          |
-| Median [months] (95 %CI)                                  | 16.4 (14.4, 19.3)                   | 9.3 (7.4, 12.7)                     |
-| Hazard ratio (95 %CI) and p-value                         | 0.553 (0.449, 0.681), p = 0.0000001 | 0.553 (0.449, 0.681), p = 0.0000001 |
-| Independent radiographic review, number of events (%)     | 164 (36.8)                          | 124 (55.6)                          |
-| Median [months] (95 %CI)                                  | 22.4 (18.3, NR )                    | 10.2 (5.8, 14.0)                    |
-| Hazard ratio (95 %CI) and p-value                         | 0.460 (0.363, 0.584); p < 0.000001  | 0.460 (0.363, 0.584); p < 0.000001  |
-| Objective response rate b [%] (95 %CI)                    | 35.2 (30.8, 39.6)                   | 16.1 ( 11.3, 21.0)                  |
-| Duration of response [months] (95 %CI)                    | NR (18.05, NR)                      | 25.6 (11.9, 25.6)                   |
-| Objective response for patients with measurable disease a | N = 318                             | N = 164                             |
-| Objective response rate b [%] (95 %CI)                    | 48.1 (42.6, 53.6)                   | 21.3 (15.1, 27.6)                   |
-| Complete response, (%)                                    | 3.5                                 | 0                                   |
-| Partial response, (%)                                     | 44.7                                | 21.3                                |
-| Clinical benefit rate c (measurable disease) [%] (95 %CI) | 73.3 (68.4, 78.1)                   | 51.8 (44.2, 59.5)                   |
+|                                                            | Verzenios plus fulvestrant          | Placebo plus fulvestrant            |
+|------------------------------------------------------------|-------------------------------------|-------------------------------------|
+| Progression-free survival                                  | N = 446                             | N = 223                             |
+| Investigator assessment, number of events (%)              | 222 (49.8)                          | 157 (70.4)                          |
+| Median [months] (95 % CI)                                  | 16.4 (14.4, 19.3)                   | 9.3 (7.4, 12.7)                     |
+| Hazard ratio (95 % CI) and p-value                         | 0.553 (0.449, 0.681), p = 0.0000001 | 0.553 (0.449, 0.681), p = 0.0000001 |
+| Independent radiographic review, number of events (%)      | 164 (36.8)                          | 124 (55.6)                          |
+| Median [months] (95 % CI)                                  | 22.4 (18.3, NR )                    | 10.2 (5.8, 14.0)                    |
+| Hazard ratio (95 % CI) and p-value                         | 0.460 (0.363, 0.584); p < 0.000001  | 0.460 (0.363, 0.584); p < 0.000001  |
+| Objective response rate b [%] (95 % CI)                    | 35.2 (30.8, 39.6)                   | 16.1 ( 11.3, 21.0)                  |
+| Duration of response [months] (95 % CI)                    | NR (18.05, NR)                      | 25.6 (11.9, 25.6)                   |
+| Objective response for patients with measurable disease a  | N = 318                             | N = 164                             |
+| Objective response rate b [%] (95 % CI)                    | 48.1 (42.6, 53.6)                   | 21.3 (15.1, 27.6)                   |
+| Complete response, (%)                                     | 3.5                                 | 0                                   |
+| Partial response, (%)                                      | 44.7                                | 21.3                                |
+| Clinical benefit rate c (measurable disease) [%] (95 % CI) | 73.3 (68.4, 78.1)                   | 51.8 (44.2, 59.5)                   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -623,13 +621,13 @@ At the pre-specified interim OS analysis (20 June 2019 cut-off), the ITT populat
 
 Table 13. MONARCH 2: Summary of overall survival data (Intent-to-treat population)
 
-|                             | Verzenios plus fulvestrant   | Placebo plus fulvestrant   |
-|-----------------------------|------------------------------|----------------------------|
-| Overall survival            | N = 446                      | N = 223                    |
-| Number of events (n, %)     | 211 (47.3)                   | 127 (57.0)                 |
-| Median OS [months] (95 %CI) | 46.7 (39.2, 52.2)            | 37.3 (34.4, 43.2)          |
-| Hazard ratio (95 %CI)       | 0.757 (0.606, 0.945)         | 0.757 (0.606, 0.945)       |
-| p-value                     | 0.0137                       | 0.0137                     |
+|                              | Verzenios plus fulvestrant   | Placebo plus fulvestrant   |
+|------------------------------|------------------------------|----------------------------|
+| Overall survival             | N = 446                      | N = 223                    |
+| Number of events (n, %)      | 211 (47.3)                   | 127 (57.0)                 |
+| Median OS [months] (95 % CI) | 46.7 (39.2, 52.2)            | 37.3 (34.4, 43.2)          |
+| Hazard ratio (95 % CI)       | 0.757 (0.606, 0.945)         | 0.757 (0.606, 0.945)       |
+| p-value                      | 0.0137                       | 0.0137                     |
 
 N = number of patients; CI = confidence interval; OS = overall survival
 
@@ -679,11 +677,9 @@ Age, gender, and body weight had no effect on the exposure of abemaciclib in a p
 
 ## Hepatic impairment
 
-Abemaciclib is metabolised in the liver. Mild (Child Pugh A) and moderate (Child Pugh B) hepatic impairment had no effect on the exposure of abemaciclib. In subjects with severe hepatic impairment (Child Pugh C), the AUC0-∞ of abemaciclib and potency adjusted unbound abemaciclib plus its active
+Abemaciclib is metabolised in the liver. Mild (Child Pugh A) and moderate (Child Pugh B) hepatic impairment had no effect on the exposure of abemaciclib. In subjects with severe hepatic impairment (Child Pugh C), the AUC0-∞ of abemaciclib and potency adjusted unbound abemaciclib plus its active metabolites increased 2.1-fold and 2.4-fold, respectively. The half-life of abemaciclib increased from 24 to 55 hours (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-metabolites increased 2.1-fold and 2.4-fold, respectively. The half-life of abemaciclib increased from 24 to 55 hours (see section 4.2).
 
 ## Renal impairment
 
@@ -781,7 +777,9 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX II A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## ANNEX II
+
+## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -922,17 +920,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER FOR 50 MGFILM-COATED TABLETS                |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOR 50 MG FILM-COATED TABLETS                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Verzenios 50 mg tablets abemaciclib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Lilly
 
@@ -1243,17 +1241,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER FOR 150 MGFILM-COATED TABLETS               |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOR 150 MG FILM-COATED TABLETS                |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Verzenios 150 mg tablets abemaciclib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Lilly
 
@@ -1312,18 +1310,20 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
 
-Verzenios 50 mg film-coated tablets Verzenios 100 mg film-coated tablets Verzenios 150 mg film-coated tablets abemaciclib
+<div style=\"page-break-after: always\"></div>
+
+Verzenios 50 mg film-coated tablets Verzenios 100 mg film-coated tablets Verzenios 150 mg film-coated tablets
+
+abemaciclib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1342,14 +1342,14 @@ Abemaciclib blocks the effects of proteins called cyclin-dependent kinase 4 and 
 
 Verzenios is used to treat certain types of breast cancer (hormone receptor-positive (HR+), human epidermal growth factor receptor 2-negative (HER2-)) which have:
 
-- -spread to the lymph nodes of the armpit, with no detectable spread to other parts of the body, been surgically removed, and have certain characteristics that increase the risk of the cancer returning. Treatment is given in combination with hormonal therapy, such as aromatase inhibitors or tamoxifen, to prevent the cancer from coming back after surgery (treatment after surgery is called adjuvant therapy)
-- -spread beyond the original tumour and/or to other organs. It is given together with hormonal therapies, such as aromatase inhibitors or fulvestrant.
+- spread to the lymph nodes of the armpit, with no detectable spread to other parts of the body, been surgically removed, and have certain characteristics that increase the risk of the cancer returning. Treatment is given in combination with hormonal therapy, such as aromatase inhibitors or tamoxifen, to prevent the cancer from coming back after surgery (treatment after surgery is called adjuvant therapy)
+- spread beyond the original tumour and/or to other organs. It is given together with hormonal therapies, such as aromatase inhibitors or fulvestrant.
 
 ## 2. What you need to know before you take Verzenios
 
 ## Do not take Verzenios:
 
-- -if you are allergic to abemaciclib or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to abemaciclib or any of the other ingredients of this medicine (listed in section 6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1357,12 +1357,12 @@ Verzenios is used to treat certain types of breast cancer (hormone receptor-posi
 
 Verzenios may:
 
-- -reduce the number of your white blood cells, and you may be at greater risk of getting an infection. Serious infections such as lung infections can be life-threatening;
-- -cause blood clots in the veins;
-- -cause severe or life-threatening inflammation of the lungs;
-- -affect the way your liver works;
-- -cause diarrhoea. At the first sign of diarrhoea, start treatment with antidiarrhoeal agents, such as loperamide. Drink plenty of fluids;
-- -cause blood clots in the arteries in patients also receiving hormone therapies.
+- reduce the number of your white blood cells, and you may be at greater risk of getting an infection. Serious infections such as lung infections can be life-threatening;
+- cause blood clots in the veins;
+- cause severe or life-threatening inflammation of the lungs;
+- affect the way your liver works;
+- cause diarrhoea. At the first sign of diarrhoea, start treatment with antidiarrhoeal agents, such as loperamide. Drink plenty of fluids;
+- cause blood clots in the arteries in patients also receiving hormone therapies.
 
 See section 4 'Possible side effects', and talk to your doctor if you have any symptoms.
 
@@ -1384,13 +1384,14 @@ In particular, tell you doctor or pharmacist before taking Verzenios if you are 
 - o Clarithromycin (antibiotic used to treat bacterial infections)
 - o Itraconazole, ketoconazole, posaconazole, voriconazole (used to treat fungal infections)
 - o Lopinavir/ritonavir (used to treat HIV/AIDS)
-- o Digoxin (used to treat heart disorders)
-- o Dabigatran etexilate (used to reduce the risk of stroke and blood clots)
 - medicines that may reduce the effectiveness of Verzenios:
 - o Carbamazepine (anti-epileptic used to treat seizures or fits)
 - o Rifampicin , used to treat tuberculosis (TB)
 - o Phenytoin (used to treat seizures)
 - o St. John's wort (a herbal product used to treat mild depression and anxiety)
+- medicines whose concentration in the blood might be increased by Verzenios:
+- o Digoxin (used to treat heart disorders)
+- o Dabigatran etexilate (used to reduce the risk of stroke and blood clots)
 
 ## Verzenios with food and drink
 
@@ -1406,7 +1407,7 @@ You should not use Verzenios if you are pregnant.
 
 You should avoid becoming pregnant while taking Verzenios.
 
-If you are able to have children, you should use adequate contraceptive methods (e.g., double -barrier contraception such as condom and diaphragm) during therapy and for at least 3 weeks after completing therapy. Discuss contraception with your doctor if there is any possibility that you may become pregnant.
+If you are able to have children, you should use adequate contraceptive methods (e.g., double-barrier contraception such as condom and diaphragm) during therapy and for at least 3 weeks after completing therapy. Discuss contraception with your doctor if there is any possibility that you may become pregnant.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1458,11 +1459,11 @@ Take Verzenios continuously for as long as your doctor tells you to. If you take
 
 If you take too many tablets, or if someone else takes your medicine, contact a doctor or hospital for advice. Show the Verzenios carton and this leaflet. Medical treatment may be necessary.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you miss a dose of Verzenios
 
 If you vomit after taking the dose or forget a dose, take your next dose at your usual time. Do not take a double dose to make up for the forgotten or vomited dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you stop taking Verzenios
 
@@ -1474,9 +1475,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side-effects, although not everybody gets them. Contact your doctor immediately for any of the following:
 
-- -Symptoms such as chills or fever. These could be a sign of low white blood cell counts (which may affect more than 1 in 10 people) and should be treated immediately. If you have cough, fever and difficulty breathing or chest pain, this could be a sign of lung infection.  Serious or life-threatening infections are uncommon (may affect up to 1 in 100 people).
-- -Painful swollen leg, chest pain, shortness of breath, rapid breathing or rapid heart rate as these can be signs of blood clots in the vein (which may affect up to 1 in 10 people).
-- -Diarrhoea (which may affect more than 1 in 10 people).
+- Symptoms such as chills or fever. These could be a sign of low white blood cell counts (which may affect more than 1 in 10 people) and should be treated immediately. If you have cough, fever and difficulty breathing or chest pain, this could be a sign of lung infection.  Serious or life-threatening infections are uncommon (may affect up to 1 in 100 people).
+- Painful swollen leg, chest pain, shortness of breath, rapid breathing or rapid heart rate as these can be signs of blood clots in the vein (which may affect up to 1 in 10 people).
+- Diarrhoea (which may affect more than 1 in 10 people).
 
 Refer to section 2 for more information on any of the possible effects listed above.
 
@@ -1539,19 +1540,19 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Verzenios contains
 
-- -The active substance is abemaciclib. Verzenios film-coated tablets come in different strengths:
+- The active substance is abemaciclib. Verzenios film-coated tablets come in different strengths:
 - Verzenios 50 mg film-coated tablet: each tablet contains 50 mg abemaciclib.
 - Verzenios 100 mg film-coated tablet: each tablet contains 100 mg abemaciclib.
 - Verzenios 150 mg film-coated tablet: each tablet contains 150 mg abemaciclib.
-- -The other ingredients in this medicine are:
+- The other ingredients in this medicine are:
 - Tablet core: colloidal hydrated silica, croscarmellose sodium, lactose monohydrate, microcrystalline cellulose, sodium stearyl fumarate (see section 2 under 'Verzenios contains lactose' and 'Verzenios contains sodium' for further information).
 - Film-coating: titanium dioxide (E171), talc (E553b), polyvinyl alcohol (E1203), macrogol 3350 (E1521), iron oxide yellow (E172) [50 mg and 150 mg tablets only], iron oxide red (E172) [50 mg tablets only].
 
 ## What Verzenios looks like and contents of the pack
 
-- -Verzenios 50 mg film-coated tablets are beige, oval tablets debossed with 'Lilly' on one side and '50' on the other.
-- -Verzenios 100 mg film-coated tablets are white, oval tablets debossed with 'Lilly' on one side and '100' on the other.
-- -Verzenios 150 mg film-coated tablets are yellow, oval tablets debossed with 'Lilly' on one side and '150' on the other.
+- Verzenios 50 mg film-coated tablets are beige, oval tablets debossed with 'Lilly' on one side and '50' on the other.
+- Verzenios 100 mg film-coated tablets are white, oval tablets debossed with 'Lilly' on one side and '100' on the other.
+- Verzenios 150 mg film-coated tablets are yellow, oval tablets debossed with 'Lilly' on one side and '150' on the other.
 
 Verzenios is available in calendar blister packs of 14, 28, 42, 56, 70 and 168 film-coated tablets and perforated unit dose blisters of 28 x 1 film-coated tablets.
 
@@ -1605,7 +1606,7 @@ Tel: + 372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: + 30 210 629 4600
 
@@ -1705,23 +1706,11 @@ Icepharma hf.
 
 Sími: + 354 540 8000
 
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
 ## Italia
 
 Eli Lilly Italia S.p.A.
 
 Tel: + 39- 055 42571
-
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Κύπρος
 
@@ -1731,12 +1720,6 @@ Phadisco Ltd
 
 357 22 715000
 
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
-
 ## Latvija
 
 Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
@@ -1744,6 +1727,24 @@ Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
 Tel:
 
 + 371 67364000
+
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
+
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 

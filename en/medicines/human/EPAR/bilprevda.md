@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-14 14:54:00
+document_datetime: 2026-08-27 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bilprevda.html
 document_name: bilprevda.html
 version: success
-processing_time: 0.3265864
-conversion_datetime: 2026-07-16 13:20:03.785051
+processing_time: 0.1419201
+conversion_datetime: 2026-09-02 22:25:06.032169
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Bilprevda
 
@@ -117,7 +117,7 @@ English (EN) (127.94 KB - PDF)
 
 [View](/en/documents/overview/bilprevda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-933)
+[Other languages (22)](#file-language-dropdown-602)
 
 български (BG) (155.42 KB - PDF)
 
@@ -253,9 +253,9 @@ svenska (SV) (125.18 KB - PDF)
 
 Bilprevda : EPAR - Risk management plan
 
-English (EN) (544.22 KB - PDF)
+English (EN) (1.93 MB - PDF)
 
-**First published:** 27/10/2025
+**First published:** 27/10/2025 **Last updated:** 27/08/2026
 
 [View](/en/documents/rmp/bilprevda-epar-risk-management-plan_en.pdf)
 
@@ -269,7 +269,7 @@ English (EN) (554.22 KB - PDF)
 
 [View](/en/documents/product-information/bilprevda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-677)
+[Other languages (24)](#file-language-dropdown-979)
 
 български (BG) (580.82 KB - PDF)
 
@@ -423,7 +423,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -442,7 +442,7 @@ English (EN) (44.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bilprevda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-388)
+[Other languages (24)](#file-language-dropdown-157)
 
 български (BG) (52.82 KB - PDF)
 
@@ -627,7 +627,7 @@ Treatment of adults and skeletally mature adolescents with giant cell tumour of 
 - **Marketing authorisation issued**
     - 17/09/2025
 - **Revision**
-    - 3
+    - 4
 
 ## Assessment history
 
@@ -639,9 +639,9 @@ Collapse section
 
 Bilprevda : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (131.9 KB - PDF)
+English (EN) (149.34 KB - PDF)
 
-**First published:** 28/11/2025 **Last updated:** 14/07/2026
+**First published:** 28/11/2025 **Last updated:** 27/08/2026
 
 [View](/en/documents/procedural-steps-after/bilprevda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -675,6 +675,6 @@ English (EN) (151.98 KB - PDF)
 
 **This page was last updated on**
 
-14/07/2026
+27/08/2026
 
 ## Share this page

@@ -1,26 +1,28 @@
 ---
-document_datetime: 2026-04-07 14:14:04
-document_pages: 36
+document_datetime: 2026-08-25 12:32:39
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rezurock-epar-product-information_en.pdf
 document_name: rezurock-epar-product-information_en.pdf
 version: success
-processing_time: 9.222536
-conversion_datetime: 2026-04-09 12:47:55.001479
+processing_time: 13.2669343
+conversion_datetime: 2026-09-02 22:06:38.435505
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
@@ -50,7 +52,7 @@ REZUROCK is indicated for the treatment of adults and paediatric patients (12 ye
 
 Treatment should be initiated and supervised by physicians experienced in the management of cGVHD.
 
-Posology
+## Posology
 
 The recommended dose is 200 mg given orally once daily with a meal.
 
@@ -83,11 +85,11 @@ Strong CYP3A4 inducers and proton pump inhibitors decrease the exposure of belum
 
 ## Strong CYP3A inducers
 
-The recommended dose is 200 mg twice daily with a meal when co-administered with strong CYP3A inducers.
+The recommended dose is 200 mg twice daily with a meal when co-administered with strong CYP3A inducers.
 
 ## Proton pump inhibitors
 
-The recommended dose is 200 mg twice daily with a meal when co-administered with proton pump inhibitors.
+The recommended dose is 200 mg twice daily with a meal when co-administered with proton pump inhibitors.
 
 ## Delayed or missed dose
 
@@ -111,9 +113,9 @@ If a patient vomits following the intake of a dose, the next dose should be take
 
 In case of missed dose, the patient should be instructed not to take extra doses to make up the missed dose.
 
-## Special populations
-
 <div style=\"page-break-after: always\"></div>
+
+## Special populations
 
 ## Hepatic impairment
 
@@ -127,7 +129,7 @@ No dose adjustment is recommended in patients with mild or moderate renal impair
 
 No data are available for patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) or for patients with end-stage renal disease on dialysis (see section 5.2). Patients should be carefully monitored with regard to safety and efficacy during belumosudil treatment.
 
-## Elderly patients ( ≥ 65 years)
+## Elderly patients (≥65 years)
 
 No additional dose adjustments are recommended for elderly patients (see sections 5.1 and 5.2).
 
@@ -195,11 +197,11 @@ The co-administration of moderate CYP3A4 inducers e.g. efavirenz is expected to 
 
 ## Effect of proton pump inhibitors on belumosudil
 
-The co-administration of multiple doses of rabeprazole decreased belumosudil Cmax by 87% and AUC by 80%. The co-administration of multiple doses of omeprazole decreased belumosudil Cmax by 68% and AUC by 47%. The co-administration of proton pump inhibitors with belumosudil may decrease
+The co-administration of multiple doses of rabeprazole decreased belumosudil Cmax by 87% and AUC by 80%. The co-administration of multiple doses of omeprazole decreased belumosudil Cmax by 68%
 
 <div style=\"page-break-after: always\"></div>
 
-belumosudil exposure, which may reduce the efficacy. Therefore, the dose of belumosudil should be increased to 200 mg twice daily.
+and AUC by 47%. The co-administration of proton pump inhibitors with belumosudil may decrease belumosudil exposure, which may reduce the efficacy. Therefore, the dose of belumosudil should be increased to 200 mg twice daily.
 
 ## Effect of other gastric acid reducing agents on belumosudil
 
@@ -227,11 +229,11 @@ Belumosudil is an inhibitor of both CYP3A4 and P-gp. Co-administration of belumo
 
 Interaction studies have only been performed in adults.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
-Women of childbearing potential/contraception in males and females
-
-<div style=\"page-break-after: always\"></div>
+## Women of childbearing potential/contraception in males and females
 
 Women of childbearing potential should use highly effective contraception during treatment with belumosudil and for at least one week after the last dose of belumosudil (see sections 4.4 and 5.3).
 
@@ -271,11 +273,9 @@ Serious adverse reactions were pneumonia (2.1%) and cellulitis, large intestine 
 
 The most common adverse reaction leading to discontinuation of treatment was nausea (2.1%).
 
-Adverse reactions leading to dose interruption occurred in 14.9% of patients and were nausea (2.1%) and gastroenteritis, large intestine infection, periorbital cellulitis, pneumonia, ALT increased, blood creatine phosphokinase increased, GGT increased, procalcitonin increased, diarrhoea, vomiting,
-
 <div style=\"page-break-after: always\"></div>
 
-fatigue, pulmonary embolism, neutropenia, arthralgia, neuropathy peripheral, and dermatitis bullous (1.1% each).
+Adverse reactions leading to dose interruption occurred in 14.9% of patients and were nausea (2.1%) and gastroenteritis, large intestine infection, periorbital cellulitis, pneumonia, ALT increased, blood creatine phosphokinase increased, GGT increased, procalcitonin increased, diarrhoea, vomiting, fatigue, pulmonary embolism, neutropenia, arthralgia, neuropathy peripheral, and dermatitis bullous (1.1% each).
 
 Long-term safety data beyond 12 months demonstrated that 13.8% of patients in the 200 mg once daily group experienced at least one related adverse reaction. The most frequent observed related adverse reactions were diarrhoea (4.3%), upper respiratory infections (2.1%), nausea (2.1%) and weight decreased (2.1%).
 
@@ -313,60 +313,64 @@ Their frequency is defined using the following conventions: very common (≥ 1/1
 | Headache                             | Very common                              | 10 (10.6)        | 0               |
 | Neuropathy peripheral                | Common                                   | 4 (4.3)          | 0               |
 | Dizziness                            | Common                                   | 2 (2.1)          | 0               |
-| Paraesthesia                         | Common                                   | 2 (2.1)          | 0               |
-| Migraine                             | Common                                   | 1 (1.1)          | 0               |
-| Vascular disorders                   |                                          |                  |                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Hypertension                                         | Common                                               | 2 (2.1)                                              | 1 (1.1)                                              |
-|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| Hypotension                                          | Common                                               | 1 (1.1)                                              | 1 (1.1)                                              |
-| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      |
-| Dyspnoea                                             | Common                                               | 6 (6.4)                                              | 1 (1.1)                                              |
-| Cough                                                | Common                                               | 2 (2.1)                                              | 0                                                    |
-| Hypoxia                                              | Common                                               | 2 (2.1)                                              | 2 (2.1)                                              |
-| Pulmonary embolism                                   | Common                                               | 2 (2.1)                                              | 1 (1.1)                                              |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
-| Nausea                                               | Very common                                          | 11 (11.7)                                            | 1 (1.1)                                              |
-| Diarrhoea                                            | Very common                                          | 12 (12.8)                                            | 2 (2.1)                                              |
-| Vomiting                                             | Common                                               | 8 (8.5)                                              | 1 (1.1)                                              |
-| Constipation                                         | Common                                               | 5 (5.3)                                              | 1 (1.1)                                              |
-| Abdominal pain                                       | Common                                               | 2 (2.1)                                              | 0                                                    |
-| Abdominal distension                                 | Common                                               | 2 (2.1)                                              | 0                                                    |
-| Abdominal discomfort                                 | Common                                               | 2 (2.1)                                              | 0                                                    |
-| Tongue dysplasia                                     | Common                                               | 1 (1.1)                                              | 0                                                    |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
-| Pruritus                                             | Common                                               | 1 (1.1)                                              | 0                                                    |
-| Rash                                                 | Common                                               | 1 (1.1)                                              | 0                                                    |
-| Dermatitis bullous                                   | Common                                               | 1 (1.1)                                              | 0                                                    |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
-| Back pain                                            | Common                                               | 3 (3.2)                                              | 0                                                    |
-| Muscle spasms                                        | Common                                               | 2 (2.1)                                              | 0                                                    |
-| Arthralgia                                           | Common                                               | 2 (2.1)                                              | 0                                                    |
-| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
-| Fatigue                                              | Very common                                          | 19 (20.2)                                            | 1 (1.1)                                              |
-| Oedema peripheral                                    | Common                                               | 3 (3.2)                                              | 0                                                    |
-| Pyrexia                                              | Common                                               | 2 (2.1)                                              | 0                                                    |
-| Malaise                                              | Common                                               | 1 (1.1)                                              | 0                                                    |
-| Localized oedema                                     | Common                                               | 1 (1.1)                                              | 0                                                    |
-| Multiorgan dysfunction syndrome                      | Common                                               | 1 (1.1)                                              | 1 (1.1)                                              |
-| Swelling                                             | Common                                               | 1 (1.1)                                              | 0                                                    |
-| Investigations                                       | Investigations                                       | Investigations                                       | Investigations                                       |
-| Aspartate aminotransferase increased                 | Common                                               | 7 (7.4)                                              | 1 (1.1)                                              |
-| Alanine aminotransferase increased                   | Common                                               | 5 (5.3)                                              | 1 (1.1)                                              |
-| Gamma-glutamyltransferase increased                  | Common                                               | 4 (4.3)                                              | 1 (1.1)                                              |
-| Weight decreased                                     | Common                                               | 3 (3.2)                                              | 0                                                    |
-| Blood alkaline phosphatase increased                 | Common                                               | 3 (3.2)                                              | 0                                                    |
-| Blood creatine phosphokinase increased               | Common                                               | 3 (3.2)                                              | 1 (1.1)                                              |
-| Platelet count decreased                             | Common                                               | 2 (2.1)                                              | 0                                                    |
-| Blood creatinine increased                           | Common                                               | 2 (2.1)                                              | 0                                                    |
-| Lymphocyte count decreased                           | Common                                               | 2 (2.1)                                              | 0                                                    |
-| White blood cell count decreased                     | Common                                               | 2 (2.1)                                              | 1 (1.1)                                              |
-| Bilirubin conjugated increased                       | Common                                               | 1 (1.1)                                              | 0                                                    |
-| Procalcitonin increase                               | Common                                               | 1 (1.1)                                              | 0                                                    |
+| Adverse reactions                               | All severity grades frequency category   | All grades (%)   | Grade 3-4 (%)   |
+|-------------------------------------------------|------------------------------------------|------------------|-----------------|
+| Paraesthesia                                    | Common                                   | 2 (2.1)          | 0               |
+| Migraine                                        | Common                                   | 1 (1.1)          | 0               |
+| Vascular disorders                              |                                          |                  |                 |
+| Hypertension                                    | Common                                   | 2 (2.1)          | 1 (1.1)         |
+| Hypotension                                     | Common                                   | 1 (1.1)          | 1 (1.1)         |
+| Respiratory, thoracic and mediastinal disorders |                                          |                  |                 |
+| Dyspnoea                                        | Common                                   | 6 (6.4)          | 1 (1.1)         |
+| Cough                                           | Common                                   | 2 (2.1)          | 0               |
+| Hypoxia                                         | Common                                   | 2 (2.1)          | 2 (2.1)         |
+| Pulmonary embolism                              | Common                                   | 2 (2.1)          | 1 (1.1)         |
+| Gastrointestinal disorders                      |                                          |                  |                 |
+| Nausea                                          | Very common                              | 11 (11.7)        | 1 (1.1)         |
+| Diarrhoea                                       | Very common                              | 12 (12.8)        | 2 (2.1)         |
+| Vomiting                                        | Common                                   | 8 (8.5)          | 1 (1.1)         |
+| Constipation                                    | Common                                   | 5 (5.3)          | 1 (1.1)         |
+| Abdominal pain                                  | Common                                   | 2 (2.1)          | 0               |
+| Abdominal distension                            | Common                                   | 2 (2.1)          | 0               |
+| Abdominal discomfort                            | Common                                   | 2 (2.1)          | 0               |
+| Tongue dysplasia                                | Common                                   | 1 (1.1)          | 0               |
+| Skin and subcutaneous tissue disorders          |                                          |                  |                 |
+| Pruritus                                        | Common                                   | 1 (1.1)          | 0               |
+| Rash                                            | Common                                   | 1 (1.1)          | 0               |
+| Dermatitis bullous                              | Common                                   | 1 (1.1)          | 0               |
+| Musculoskeletal and connective tissue disorders |                                          |                  |                 |
+| Back pain                                       | Common                                   | 3 (3.2)          | 0               |
+| Muscle spasms                                   | Common                                   | 2 (2.1)          | 0               |
+| Arthralgia                                      | Common                                   | 2 (2.1)          | 0               |
+| General disorders and administration site       | conditions                               |                  |                 |
+| Fatigue                                         | Very common                              | 19 (20.2)        | 1 (1.1)         |
+| Oedema peripheral                               | Common                                   | 3 (3.2)          | 0               |
+| Pyrexia                                         | Common                                   | 2 (2.1)          | 0               |
+| Malaise                                         | Common                                   | 1 (1.1)          | 0               |
+| Localized oedema                                | Common                                   | 1 (1.1)          | 0               |
+| Multiorgan dysfunction syndrome                 | Common                                   | 1 (1.1)          | 1 (1.1)         |
+| Swelling                                        | Common                                   | 1 (1.1)          | 0               |
+| Investigations                                  |                                          |                  |                 |
+| Aspartate aminotransferase increased            | Common                                   | 7 (7.4)          | 1 (1.1)         |
+| Alanine aminotransferase increased              | Common                                   | 5 (5.3)          | 1 (1.1)         |
+| Gamma-glutamyltransferase increased             | Common                                   | 4 (4.3)          | 1 (1.1)         |
+| Weight decreased                                | Common                                   | 3 (3.2)          | 0               |
+| Blood alkaline phosphatase increased            | Common                                   | 3 (3.2)          | 0               |
+| Blood creatine phosphokinase increased          | Common                                   | 3 (3.2)          | 1 (1.1)         |
+| Platelet count decreased                        | Common                                   | 2 (2.1)          | 0               |
+| Blood creatinine increased                      | Common                                   | 2 (2.1)          | 0               |
 
 <div style=\"page-break-after: always\"></div>
+
+| Adverse reactions                | All severity grades frequency category   | All grades (%)   | Grade 3-4 (%)   |
+|----------------------------------|------------------------------------------|------------------|-----------------|
+| Lymphocyte count decreased       | Common                                   | 2 (2.1)          | 0               |
+| White blood cell count decreased | Common                                   | 2 (2.1)          | 1 (1.1)         |
+| Bilirubin conjugated increased   | Common                                   | 1 (1.1)          | 0               |
+| Procalcitonin increase           | Common                                   | 1 (1.1)          | 0               |
 
 ## Description of selected adverse reactions
 
@@ -394,6 +398,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no known antidote for overdoses with belumosudil. Single doses up to 1 000 mg have been administered with acceptable tolerability in healthy volunteers. In the event of an overdose, the patient must be monitored for signs or symptoms of adverse reactions and all appropriate supportive measures must be taken immediately.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -401,8 +407,6 @@ There is no known antidote for overdoses with belumosudil. Single doses up to 1 
 Pharmacotherapeutic group: Immunosuppressants, selective immunosuppressants, ATC code: L04AA48
 
 ## Mechanism of action
-
-<div style=\"page-break-after: always\"></div>
 
 Belumosudil is a selective Rho-associated, coiled-coil containing protein kinase-2 (ROCK2) inhibitor that mediates signalling in immune cellular function and fibrotic pathways.
 
@@ -424,18 +428,15 @@ Of adult patients enrolled in the 200 mg once daily arm (N=78), the median age w
 
 The primary efficacy endpoint of overall response rate (ORR) was defined as the proportion of subjects who achieved either a complete response (CR [resolution of all manifestations in each organ or site]) or a partial response (PR [improvement in at least one organ or site without progression in any other organ or site]) at any post-baseline response assessment according to the 2014 NIH Consensus Development Project on Criteria for Clinical Trials in cGVHD. Secondary endpoints included duration of response and time to response. Responses, including complete responses, were achieved across all organs involved (skin, eyes, mouth, oesophagus, upper GI, lower GI, liver, lungs, and joints/fascia). ORR and key secondary endpoints results are presented in Table 3.
 
-Table 3: Best overall response rate and other efficacy results, ITT adult population
-
-| Variable                  | Belumosudil 200 mg once daily (N = 78)   |
-|---------------------------|------------------------------------------|
-| Overall response rate (%) | 73.1                                     |
-| 95% CI of ORR (%)         | 61.8, 82.5                               |
-| Complete response (%)     | 5.1                                      |
-
 <div style=\"page-break-after: always\"></div>
+
+Table 3: Best overall response rate and other efficacy results, ITT adult population
 
 | Variable                                                     | Belumosudil 200 mg once daily (N = 78)   |
 |--------------------------------------------------------------|------------------------------------------|
+| Overall response rate (%)                                    | 73.1                                     |
+| 95% CI of ORR (%)                                            | 61.8, 82.5                               |
+| Complete response (%)                                        | 5.1                                      |
 | Partial response (%)                                         | 67.9                                     |
 | ORR at 6 months (%)                                          | 43.6                                     |
 | 95% CI of ORR at 6 months                                    | 32.4, 55.3                               |
@@ -450,15 +451,13 @@ Note: 2-sided, exact CI of ORR was calculated using the Clopper Pearson method.
 
 Note: Responder population was used for duration of response and time to response. The percentages are calculated based on the number of ITT population.
 
-# Duration of response (primary) is defined as the time from first response to deterioration from best response (e.g., CR to PR, or PR-LR), the initiation of new systemic treatment or death.
-
-ORR- defined as the proportion of subjects who achieved a complete response (CR) or a partial response (PR) at any time in the absence of new systemic treatment for cGVHD according to the 2014 NIH Consensus Development Project on Criteria for Clinical Trials in cGVHD, and as assessed by investigators.
+# Duration of response (primary) is defined as the time from first response to deterioration from best response (e.g., CR to PR, or PR-LR), the initiation of new systemic treatment or death. ORR- defined as the proportion of subjects who achieved a complete response (CR) or a partial response (PR) at any time in the absence of new systemic treatment for cGVHD according to the 2014 NIH Consensus Development Project on Criteria for Clinical Trials in cGVHD, and as assessed by investigators.
 
 ## Paediatric population
 
 A total of 3 adolescent patients were treated with belumosudil 200 mg once daily in the interventional clinical studies and belumosudil responses were observed in these patients. The safety and efficacy of belumosudil in adolescents aged 12 to 18 years are supported by evidence from study KD025-213.
 
-In study KD025-213, two adolescent patients were treated with belumosudil 200 mg once daily. One of them achieved a PR.  The responder showed a time to response (TTR) of 53 days and duration of response (DOR) of 820 days.
+In study KD025-213, two adolescent patients were treated with belumosudil 200 mg once daily. One of them achieved a PR. The responder showed a time to response (TTR) of 53 days and duration of response (DOR) of 820 days.
 
 Based on PK model predictions, the efficacy and safety are expected to be similar in adolescents and adult patients.
 
@@ -470,6 +469,8 @@ This medicinal product has been authorised under a so-called 'conditional approv
 
 The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
@@ -478,11 +479,7 @@ Median Tmax of belumosudil across studies was approximately 3 hours. Following a
 
 ## Effects of food
 
-In healthy subjects, the administration of a single 200 mg dose of belumosudil with a high-fat and high-calorie meal (800 to 1 000 kilocalories with approximately 50% of total caloric content of the
-
-<div style=\"page-break-after: always\"></div>
-
-meal from fat) increased belumosudil Cmax to 2.25 times that following fasted administration and AUC to 2 times that following fasted administration. Median Tmax was delayed 0.5 hour.
+In healthy subjects, the administration of a single 200 mg dose of belumosudil with a high-fat and high-calorie meal (800 to 1 000 kilocalories with approximately 50% of total caloric content of the meal from fat) increased belumosudil Cmax to 2.25 times that following fasted administration and AUC to 2 times that following fasted administration. Median Tmax was delayed 0.5 hour.
 
 Based on population PK modelling, the mean steady-state AUC (% coefficient of variation) in patients with cGVHD receiving 200 mg once daily administered with food was 18 800 (33%) h·ng/mL; mean steady-state Cmax was 2 230 (31%) ng/mL. With once daily administration, steady-state concentrations of belumosudil were achieved with an accumulation ratio of 1.2.
 
@@ -512,23 +509,21 @@ Based on population PK analysis no clinically relevant differences in belumosudi
 
 Based on population PK analysis, no clinically relevant differences in belumosudil pharmacokinetics were observed in patients with mild or moderate renal impairment. Severe renal impairment has not been studied.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 Following a single 200 mg dose of belumosudil, changes in belumosudil exposure in subjects with varying degrees of hepatic impairment based on Child-Pugh score without liver GVHD relative to subjects with normal hepatic function is shown in Table 4.
 
-## Table 4: Effect of varying degrees of hepatic impairment on belumosudil exposure
+Table 4: Effect of varying degrees of hepatic impairment on belumosudil exposure
 
-| Hepatic impairment category   | Changes in belumosudil exposure in subjects with hepatic impairment compared to subjects with normal hepatic function   |
-|-------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-
-<div style=\"page-break-after: always\"></div>
-
-|                         | Total (Free + Bound) concentrations   | Total (Free + Bound) concentrations   | Free concentrations   | Free concentrations   |
-|-------------------------|---------------------------------------|---------------------------------------|-----------------------|-----------------------|
-|                         | C max                                 | AUC                                   | C max                 | AUC                   |
-| Mild (Child-Pugh A)     | 1.2-fold increase                     | 1.4-fold increase                     | 14% decrease          | 19% decrease          |
-| Moderate (Child-Pugh B) | 6% decrease                           | 1.5-fold increase                     | 12% decrease          | 1.4-fold increase     |
-| Severe (Child-Pugh C)   | 1.3-fold increase                     | 4.2-fold increase                     | 5.4-fold increase     | 16-fold increase      |
+| Hepatic impairment category   | Changes in belumosudil exposure in subjects with hepatic impairment compared to subjects with normal hepatic function   | Changes in belumosudil exposure in subjects with hepatic impairment compared to subjects with normal hepatic function   | Changes in belumosudil exposure in subjects with hepatic impairment compared to subjects with normal hepatic function   | Changes in belumosudil exposure in subjects with hepatic impairment compared to subjects with normal hepatic function   |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+|                               | Total (Free + Bound) concentrations                                                                                     | Total (Free + Bound) concentrations                                                                                     | Free concentrations                                                                                                     | Free concentrations                                                                                                     |
+|                               | C max                                                                                                                   | AUC                                                                                                                     | C max                                                                                                                   | AUC                                                                                                                     |
+| Mild (Child-Pugh A)           | 1.2-fold increase                                                                                                       | 1.4-fold increase                                                                                                       | 14% decrease                                                                                                            | 19% decrease                                                                                                            |
+| Moderate (Child-Pugh B)       | 6% decrease                                                                                                             | 1.5-fold increase                                                                                                       | 12% decrease                                                                                                            | 1.4-fold increase                                                                                                       |
+| Severe (Child-Pugh C)         | 1.3-fold increase                                                                                                       | 4.2-fold increase                                                                                                       | 5.4-fold increase                                                                                                       | 16-fold increase                                                                                                        |
 
 ## Paediatric population
 
@@ -550,6 +545,8 @@ In male rats and dogs, toxicities included lower epididymis and testes weights a
 
 In female rats, lower uterine weights that correlated with uterine/cervical hypoplasia and decreased follicular development in ovaries related to adverse body weight reduction was observed. These changes were reversible.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Toxicity to reproductive and development
 
 Adverse effects in female rats (treated with belumosudil or untreated but mated with treated males) included increased pre- or post-implantation loss, decreased number of viable embryos and foetal malformations including absence of anus and tail, omphalocele, and dome shaped head.
@@ -559,8 +556,6 @@ In rabbits, maternal toxicity and embryo-foetal developmental effects (including
 ## Carcinogenicity
 
 No carcinogenic effects were reported in transgenic mice.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -594,23 +589,29 @@ Pack size: 28 or 30 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie 82 Avenue Raspail 94250 Gentilly France
+Sanofi Winthrop Industrie
 
-<div style=\"page-break-after: always\"></div>
+82 Avenue Raspail 94250 Gentilly
+
+France
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/26/2015/001 EU/1/26/2015/002
+EU/1/26/2015/001
+
+EU/1/26/2015/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 24 March 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -633,6 +634,8 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer responsible for batch release
 
 Sanofi Winthrop Industrie 30-36 Avenue Gustave Eiffel 37100 Tours France
+
+Sanofi S.r.l. Strada Statale 17, Km 22 67019 Scoppito (AQ) Italy
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -659,15 +662,15 @@ An updated RMP should be submitted:
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
+<div style=\"page-break-after: always\"></div>
+
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
 This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-<div style=\"page-break-after: always\"></div>
-
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Due date   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| In order to confirm the efficacy and safety of Rezurock in adult and paediatric patients (12 years and older with a body weight of at least 40 kg) with cGVHD when other medicinal products approved for use in cGVHD provide limited clinical benefit or are not suitable, theMAH shall submit the final results of Study EFC22965, a Phase III, randomised, open-label, multi-center study of belumosudil versus best available therapy according to an agreed protocol. | Q4 2029    |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Due date   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| In order to confirm the efficacy and safety of Rezurock in adult and paediatric patients (12 years and older with a body weight of at least 40 kg) with cGVHD when other medicinal products approved for use in cGVHD provide limited clinical benefit or are not suitable, the MAH shall submit the final results of Study EFC22965, a Phase III, randomised, open-label, multi-center study of belumosudil versus best available therapy according to an agreed protocol. | Q4 2029    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -687,13 +690,15 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-REZUROCK 200 mg film-coated tablets belumosudil
+REZUROCK 200 mg film-coated tablets
+
+belumosudil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each film-coated tablet contains belumosudil mesylate equivalent to 200 mg belumosudil.
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -722,7 +727,8 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -739,9 +745,7 @@ EU/1/26/2015/001 28 tablets EU/1/26/2015/002 30 tablets
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Rezurock 200 mg
@@ -779,7 +783,6 @@ Each film-coated tablet contains belumosudil mesylate equivalent to 200 mg belum
 ## film-coated tablets
 
 - 28 film-coated tablets
-
 - 30 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -802,28 +805,40 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Sanofi Winthrop Industrie
 
-12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/26/2015/001 28 tablets EU/1/26/2015/002 30 tablets
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -841,10 +856,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -869,9 +884,9 @@ The active substance in Rezurock, belumosudil, works by blocking an enzyme (prot
 
 ## Do not take Rezurock
 
-- -if you are allergic to belumosudil or any of the other ingredients of this medicine (listed in section 6).
-- -if you are pregnant or breast-feeding
-- -if you have severe liver problems without liver GVHD
+- if you are allergic to belumosudil or any of the other ingredients of this medicine (listed in section 6).
+- if you are pregnant or breast-feeding
+- if you have severe liver problems without liver GVHD
 
 If you are uncertain whether the conditions above apply to you, talk to your doctor or pharmacist before taking Rezurock.
 
@@ -881,10 +896,10 @@ If you are uncertain whether the conditions above apply to you, talk to your doc
 
 Talk to your doctor or pharmacist before taking Rezurock if you:
 
-- -are pregnant or plan to become pregnant, since Rezurock can harm your unborn baby (see section 'Pregnancy, breast-feeding, fertility and contraception').
-- -are breast-feeding or plan to breast-feed, since Rezurock may potentially cause serious side effects in a breast-fed child (see section 'Pregnancy, breast-feeding, fertility and contraception').
-- -have any liver problems. You must have blood tests before and during treatment with Rezurock including tests to monitor how well your liver is working.
-- -are taking other medicines (see section 'Other medicines and Rezurock').
+- are pregnant or plan to become pregnant, since Rezurock can harm your unborn baby (see section 'Pregnancy, breast-feeding, fertility and contraception').
+- are breast-feeding or plan to breast-feed, since Rezurock may potentially cause serious side effects in a breast-fed child (see section 'Pregnancy, breast-feeding, fertility and contraception').
+- have any liver problems. You must have blood tests before and during treatment with Rezurock including tests to monitor how well your liver is working.
+- are taking other medicines (see section 'Other medicines and Rezurock').
 
 ## Children
 
@@ -898,16 +913,16 @@ Especially tell your doctor if you are taking any of the following medicines, as
 
 The following medicines might decrease the effectiveness of Rezurock by decreasing the amount of Rezurock in the blood:
 
-- -Rifampin (used for tuberculosis).
-- -Proton pump inhibitors like omeprazole or rabeprazole (used to lower acid production in the stomach).
-- -Other gastric acid reducing agents (used to lower acid production in the stomach).
+- Rifampin (used for tuberculosis).
+- Proton pump inhibitors like omeprazole or rabeprazole (used to lower acid production in the stomach).
+- Other gastric acid reducing agents (used to lower acid production in the stomach).
 
 Rezurock might increase the risk of side effects with these medicines by increasing the amounts of these medicines in the blood:
 
-- -Statins like rosuvastatin (used to lower cholesterol).
-- -Dabigatran (used to prevent blood clots from forming in the body).
-- -Raltegravir (for HIV).
-- -Sirolimus or tacrolimus (used to prevent graft-versus-host disease).
+- Statins like rosuvastatin (used to lower cholesterol).
+- Dabigatran (used to prevent blood clots from forming in the body).
+- Raltegravir (for HIV).
+- Sirolimus or tacrolimus (used to prevent graft-versus-host disease).
 
 If you are not sure if any of the above apply to you, talk to your doctor before taking Rezurock.
 
@@ -979,13 +994,13 @@ If you take too much Rezurock, tell your doctor or go to the nearest hospital ri
 
 If you miss a dose of Rezurock you should take it as soon as you remember on the same day, only if:
 
-- -you take Rezurock once a day and it has been less than 12 hours since your dose was due
-- -you take Rezurock twice a day and it has been less than 6 hours since your dose was due After taking the missed dose, take your next dose of Rezurock at your usual time.
+- you take Rezurock once a day and it has been less than 12 hours since your dose was due
+- you take Rezurock twice a day and it has been less than 6 hours since your dose was due After taking the missed dose, take your next dose of Rezurock at your usual time.
 
 If you miss a dose of Rezurock you should not take it if:
 
-- -you take Rezurock once a day and it has been more than 12 hours since your dose was due
-- -you take Rezurock twice a day and it has been more than 6 hours since your dose was due In these cases, skip the missed dose, and take your next dose of Rezurock at the usual time.
+- you take Rezurock once a day and it has been more than 12 hours since your dose was due
+- you take Rezurock twice a day and it has been more than 6 hours since your dose was due In these cases, skip the missed dose, and take your next dose of Rezurock at the usual time.
 
 Do not take a double dose to make up for a forgotten dose.
 
@@ -1003,19 +1018,19 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor straight away if you experience any of the following common serious side effects (may affect up to 1 in 10 people):
 
-- -Cough, chest pain, shortness of breath, fever. These could be symptoms of pneumonia.
-- -Feeling of not being able to breath or think properly. These could be symptoms of hypoxia (low oxygen).
-- -Inflammation of the deep skin tissue. These could be symptoms of cellulitis.
-- -Belly pain, diarrhoea, fever. These could be symptoms of a large intestine infection.
-- -Inflammation that affects the eyelids and surrounding skin. These could be symptoms of periorbital cellulitis.
-- -Fever, chills and low blood pressure. These could be symptoms of staphylococcal bacteraemia (infection in your bloodstream).
-- -Common cold, nose or throat (upper respiratory tract) infection.
-- -Feeling shortness of breath and chest pain. These could be symptoms of a pulmonary embolism (clot in a blood vessel in the lungs).
-- -Diarrhoea
-- -Feeling sick (nausea)
-- -Sores in your tongue that do not heal could be a sign of a presence of abnormal cells (which may become cancerous). These could be symptoms of tongue dysplasia.
-- -Vomiting
-- -Feeling very weak, vomiting, fever, chills, confusion, fast heartbeat. These could be symptoms of two to more of your organ systems that are failing to support your body's needs (multiple organ dysfunction syndrome).
+- Cough, chest pain, shortness of breath, fever. These could be symptoms of pneumonia.
+- Feeling of not being able to breath or think properly. These could be symptoms of hypoxia (low oxygen).
+- Inflammation of the deep skin tissue. These could be symptoms of cellulitis.
+- Belly pain, diarrhoea, fever. These could be symptoms of a large intestine infection.
+- Inflammation that affects the eyelids and surrounding skin. These could be symptoms of periorbital cellulitis.
+- Fever, chills and low blood pressure. These could be symptoms of staphylococcal bacteraemia (infection in your bloodstream).
+- Common cold, nose or throat (upper respiratory tract) infection.
+- Feeling shortness of breath and chest pain. These could be symptoms of a pulmonary embolism (clot in a blood vessel in the lungs).
+- Diarrhoea
+- Feeling sick (nausea)
+- Sores in your tongue that do not heal could be a sign of a presence of abnormal cells (which may become cancerous). These could be symptoms of tongue dysplasia.
+- Vomiting
+- Feeling very weak, vomiting, fever, chills, confusion, fast heartbeat. These could be symptoms of two to more of your organ systems that are failing to support your body's needs (multiple organ dysfunction syndrome).
 
 ## Other side effects
 
@@ -1025,51 +1040,51 @@ Other possible side effects include the following listed below. If these side ef
 
 ## Very common (may affect more than 1 in 10 people)
 
-- -Headache
-- -Extreme tiredness
+- Headache
+- Extreme tiredness
 
 ## Common (may affect up to 1 in 10 people)
 
-- -Low red blood cell count (anaemia)
-- -An underactive thyroid gland (hypothyroidism)
-- -Decreased appetite
-- -High blood sugar levels (hyperglycaemia)
-- -Low blood phosphate levels (hypophosphataemia)
-- -High levels of fat in the blood (hyperlipidaemia)
-- -Nerve damage in the arms and legs (peripheral neuropathy)
-- -Dizziness
-- -Sensations like numbness, tingling, pins and needles (paraesthesia)
-- -High blood pressure (hypertension)
-- -Sudden shortness of breath or difficulty breathing (dyspnoea)
-- -Cough
-- -Constipation
-- -Belly (abdominal) pain
-- -Abdominal swelling
-- -Abdominal discomfort
-- -Back pain
-- -Muscle spasms
-- -Joint pain (arthralgia)
-- -Swelling especially of the ankles and feet (oedema peripheral)
-- -Fever
-- -Abnormal liver function test
-- -Weight loss
-- -Increase of levels of creatine phosphokinase, an enzyme (protein) that is released into the blood when muscle is damaged
-- -Decrease blood levels of platelets, components that help the blood to clot
-- -Increased levels of creatinine, a sign of worsening kidney problems
-- -Decreased blood count of lymphocytes, a type of white blood cell
-- -White blood cell count decreased
-- -Belly pain, diarrhoea, fever. These could be symptoms of gastroenteritis.
-- -Inflammation of the nose and throat
-- -Sinus infection
-- -Headache (migraine)
-- -Low blood pressure
-- -Itching
-- -Rash
-- -Inflammation of the skin with large blisters (dermatitis bullous)
-- -Feeling generally unwell (malaise)
-- -Local swelling
-- -Yellowing of the skin and eyes (bilirubin conjugated increased)
-- -Increased levels of procalcitonin, a protein in the blood that is a marker for infection
+- Low red blood cell count (anaemia)
+- An underactive thyroid gland (hypothyroidism)
+- Decreased appetite
+- High blood sugar levels (hyperglycaemia)
+- Low blood phosphate levels (hypophosphataemia)
+- High levels of fat in the blood (hyperlipidaemia)
+- Nerve damage in the arms and legs (peripheral neuropathy)
+- Dizziness
+- Sensations like numbness, tingling, pins and needles (paraesthesia)
+- High blood pressure (hypertension)
+- Sudden shortness of breath or difficulty breathing (dyspnoea)
+- Cough
+- Constipation
+- Belly (abdominal) pain
+- Abdominal swelling
+- Abdominal discomfort
+- Back pain
+- Muscle spasms
+- Joint pain (arthralgia)
+- Swelling especially of the ankles and feet (oedema peripheral)
+- Fever
+- Abnormal liver function test
+- Weight loss
+- Increase of levels of creatine phosphokinase, an enzyme (protein) that is released into the blood when muscle is damaged
+- Decrease blood levels of platelets, components that help the blood to clot
+- Increased levels of creatinine, a sign of worsening kidney problems
+- Decreased blood count of lymphocytes, a type of white blood cell
+- White blood cell count decreased
+- Belly pain, diarrhoea, fever. These could be symptoms of gastroenteritis.
+- Inflammation of the nose and throat
+- Sinus infection
+- Headache (migraine)
+- Low blood pressure
+- Itching
+- Rash
+- Inflammation of the skin with large blisters (dermatitis bullous)
+- Feeling generally unwell (malaise)
+- Local swelling
+- Yellowing of the skin and eyes (bilirubin conjugated increased)
+- Increased levels of procalcitonin, a protein in the blood that is a marker for infection
 
 Your doctor may change your dose of Rezurock, temporarily stop, or permanently stop treatment with Rezurock if you have certain side effects.
 
@@ -1113,21 +1128,15 @@ Sanofi Winthrop Industrie, 82 Avenue Raspail, 94250 Gentilly, France
 
 ## Manufacturer
 
-Sanofi Winthrop Industrie, 30-36 Avenue Gustave Eiffel, 37100 Tours, France
+Sanofi Winthrop Industrie, 30-36 Avenue Gustave Eiffel, 37100 Tours, France Sanofi S.r.l., Strada Statale 17, Km 22, 67019 Scoppito (AQ), Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien
+## België/Belgique/Belgien
 
 Sanofi Belgium
 
 Tél/Tel: +32 (0)2 710 54 00
-
-Lietuva
-
-Swixx Biopharma UAB
-
-Tel: +370 5 236 91 40
 
 ## България
 
@@ -1137,17 +1146,23 @@ Swixx Biopharma EOOD
 
 .: +359 (0)2 4942 480
 
-## Luxembourg/Luxemburg
-
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
-
 ## Česká republika
 
 Sanofi s.r.o.
 
 Tel: +420 233 086 111
+
+## Lietuva
+
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
+
+## Luxembourg/Luxemburg
+
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Magyarország
 
@@ -1179,7 +1194,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
+SanofiAventis Μονοπρόσωπη ΑΕΒΕ
 
 Τηλ: +30 210 900 16 00
 
@@ -1310,17 +1325,3 @@ Tel: +46 (0)8 634 50 00
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-<div style=\"page-break-after: always\"></div>
-
-## Annex IV
-
-Conclusions on the granting of the conditional marketing authorisation presented by the European Medicines Agency
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-## · Conditional marketing authorisation
-
-The CHMP having considered the application is of the opinion that the risk-benefit balance is favourable to recommend the granting of the conditional marketing authorisation as further explained in the European Public Assessment Report.

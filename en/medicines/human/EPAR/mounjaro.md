@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-18 16:18:00
+document_datetime: 2026-08-28 15:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mounjaro.html
 document_name: mounjaro.html
 version: success
-processing_time: 0.1983086
-conversion_datetime: 2026-08-22 23:25:02.114406
+processing_time: 0.1970268
+conversion_datetime: 2026-09-02 22:28:54.906966
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -120,7 +120,7 @@ English (EN) (125.37 KB - PDF)
 
 [View](/en/documents/overview/mounjaro-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-692)
+[Other languages (22)](#file-language-dropdown-916)
 
 български (BG) (141.96 KB - PDF)
 
@@ -254,173 +254,165 @@ svenska (SV) (115.83 KB - PDF)
 
 [View](/sv/documents/overview/mounjaro-epar-medicine-overview_sv.pdf)
 
-Mounjaro : EPAR - Risk Management Plan
-
-English (EN) (2.1 MB - PDF)
-
-**First published:** 25/11/2022 **Last updated:** 18/08/2026
-
-[View](/en/documents/rmp/mounjaro-epar-risk-management-plan_en.pdf)
-
 ## Product information
 
 Mounjaro : EPAR - Product Information
 
-English (EN) (3.42 MB - PDF)
+English (EN) (3.49 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/en/documents/product-information/mounjaro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-962)
+[Other languages (24)](#file-language-dropdown-172)
 
-български (BG) (4.32 MB - PDF)
+български (BG) (4.38 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/bg/documents/product-information/mounjaro-epar-product-information_bg.pdf)
 
-español (ES) (4.38 MB - PDF)
+español (ES) (4.34 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/es/documents/product-information/mounjaro-epar-product-information_es.pdf)
 
-čeština (CS) (3.88 MB - PDF)
+čeština (CS) (3.92 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/cs/documents/product-information/mounjaro-epar-product-information_cs.pdf)
 
-dansk (DA) (3.61 MB - PDF)
+dansk (DA) (4.06 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/da/documents/product-information/mounjaro-epar-product-information_da.pdf)
 
 Deutsch (DE) (4.04 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/de/documents/product-information/mounjaro-epar-product-information_de.pdf)
 
-eesti (ET) (3.61 MB - PDF)
+eesti (ET) (3.67 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/et/documents/product-information/mounjaro-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.07 MB - PDF)
+ελληνικά (EL) (4.21 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/el/documents/product-information/mounjaro-epar-product-information_el.pdf)
 
-français (FR) (3.05 MB - PDF)
+français (FR) (4.62 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/fr/documents/product-information/mounjaro-epar-product-information_fr.pdf)
 
-hrvatski (HR) (4.47 MB - PDF)
+hrvatski (HR) (4.65 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/hr/documents/product-information/mounjaro-epar-product-information_hr.pdf)
 
-italiano (IT) (3.52 MB - PDF)
+italiano (IT) (3.83 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/it/documents/product-information/mounjaro-epar-product-information_it.pdf)
 
-latviešu (LV) (3.69 MB - PDF)
+latviešu (LV) (3.73 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/lv/documents/product-information/mounjaro-epar-product-information_lv.pdf)
 
-lietuvių (LT) (4.12 MB - PDF)
+lietuvių (LT) (4.15 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/lt/documents/product-information/mounjaro-epar-product-information_lt.pdf)
 
-magyar (HU) (3.91 MB - PDF)
+magyar (HU) (3.84 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/hu/documents/product-information/mounjaro-epar-product-information_hu.pdf)
 
-Malti (MT) (4.07 MB - PDF)
+Malti (MT) (4.14 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/mt/documents/product-information/mounjaro-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.58 MB - PDF)
+Nederlands (NL) (3.89 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/nl/documents/product-information/mounjaro-epar-product-information_nl.pdf)
 
-polski (PL) (4.49 MB - PDF)
+polski (PL) (4.26 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/pl/documents/product-information/mounjaro-epar-product-information_pl.pdf)
 
-português (PT) (4.22 MB - PDF)
+português (PT) (4.21 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/pt/documents/product-information/mounjaro-epar-product-information_pt.pdf)
 
-română (RO) (3.62 MB - PDF)
+română (RO) (3.74 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/ro/documents/product-information/mounjaro-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.12 MB - PDF)
+slovenčina (SK) (4.15 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/sk/documents/product-information/mounjaro-epar-product-information_sk.pdf)
 
-slovenščina (SL) (3.64 MB - PDF)
+slovenščina (SL) (3.57 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/sl/documents/product-information/mounjaro-epar-product-information_sl.pdf)
 
-suomi (FI) (4.2 MB - PDF)
+suomi (FI) (4.12 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/fi/documents/product-information/mounjaro-epar-product-information_fi.pdf)
 
-svenska (SV) (3.38 MB - PDF)
+svenska (SV) (3.4 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/sv/documents/product-information/mounjaro-epar-product-information_sv.pdf)
 
-Íslenska (IS) (3.41 MB - PDF)
+Íslenska (IS) (3.81 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/is/documents/product-information/mounjaro-epar-product-information_is.pdf)
 
-norsk (NO) (3.93 MB - PDF)
+norsk (NO) (4 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 26/02/2026
+**First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/no/documents/product-information/mounjaro-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** II/0038
+**Latest procedure affecting product information:** VR/0000310637
 
-29/01/2026
+25/06/2026
 
 icon globe
 
@@ -445,7 +437,7 @@ English (EN) (75.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mounjaro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-494)
+[Other languages (24)](#file-language-dropdown-644)
 
 български (BG) (104.49 KB - PDF)
 
@@ -612,7 +604,23 @@ Drugs used in diabetes
 
 ### Therapeutic indication
 
-Type 2 diabetes mellitus Mounjaro is indicated for the treatment of adults, adolescents and children aged 10 years and above with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise - as monotherapy when metformin is considered inappropriate due to intolerance or contraindications - in addition to other medicinal products for the treatment of diabetes. For study results with respect to combinations, effects on glycaemic control and the populations studied, see sections 4.4, 4.5 and 5.1. Weight management Mounjaro is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of - ≥ 30 kg/m 2 (obesity) or - ≥ 27 kg/m2 to &lt; 30 kg/m 2 (overweight) in the presence of at least one weight-related comorbid condition (e.g., hypertension, dyslipidaemia, obstructive sleep apnoea, cardiovascular disease, prediabetes, or type 2 diabetes mellitus). For trial results with respect to obstructive sleep apnoea (OSA) and heart failure with preserved ejection fraction (HFpEF), see section 5.1.
+**Type 2 diabetes mellitus**
+
+Mounjaro is indicated for the treatment of adults, adolescents and children aged 10 years and above with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise
+
+- as monotherapy when metformin is considered inappropriate due to intolerance or contraindications
+- in addition to other medicinal products for the treatment of diabetes.
+
+For study results with respect to combinations, effects on glycaemic control and the populations studied, see sections 4.4, 4.5 and 5.1.
+
+**Weight management**
+
+Mounjaro is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of
+
+- ≥ 30 kg/m 2 (obesity) or
+- ≥ 27 kg/m2 to &lt; 30 kg/m 2 (overweight) in the presence of at least one weight-related comorbid condition (e.g., hypertension, dyslipidaemia, obstructive sleep apnoea, cardiovascular disease, prediabetes, or type 2 diabetes mellitus).
+
+For trial results with respect to obstructive sleep apnoea (OSA) and heart failure with preserved ejection fraction (HFpEF), see section 5.1.
 
 ## Authorisation details
 
@@ -625,7 +633,7 @@ Type 2 diabetes mellitus Mounjaro is indicated for the treatment of adults, adol
 - **Marketing authorisation issued**
     - 15/09/2022
 - **Revision**
-    - 20
+    - 21
 
 ## Assessment history
 
@@ -637,9 +645,9 @@ Collapse section
 
 Mounjaro : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (1.18 MB - PDF)
+English (EN) (227.54 KB - PDF)
 
-**First published:** 15/04/2025 **Last updated:** 06/02/2026
+**First published:** 15/04/2025 **Last updated:** 28/08/2026
 
 [View](/en/documents/procedural-steps-after/mounjaro-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -785,155 +793,155 @@ The approved product information for this medicine is available below showing th
 
 Mounjaro : EPAR - Product information - tracked changes
 
-English (EN) (4.47 MB - DOCX)
+English (EN) (4.61 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/en/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-872)
+[Other languages (24)](#file-language-dropdown-779)
 
-български (BG) (4.14 MB - DOCX)
+български (BG) (4.1 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/bg/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (3.36 MB - DOC)
+español (ES) (4.06 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
-[View](/es/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_es.doc)
+[View](/es/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (3.18 MB - DOCX)
+čeština (CS) (4.14 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/cs/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (4.26 MB - DOCX)
+dansk (DA) (4.17 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/da/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (3.88 MB - DOCX)
+Deutsch (DE) (3.85 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/de/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_de.docx)
 
-eesti (ET) (4.55 MB - DOCX)
+eesti (ET) (4.54 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/et/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (4.21 MB - DOCX)
+ελληνικά (EL) (4.45 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/el/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (5.8 MB - DOC)
+français (FR) (4.94 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
-[View](/fr/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_fr.doc)
+[View](/fr/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (3.98 MB - DOCX)
+hrvatski (HR) (5.17 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/hr/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_hr.docx)
 
-italiano (IT) (4.39 MB - DOCX)
+italiano (IT) (4.32 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/it/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_it.docx)
 
-latviešu (LV) (4.92 MB - DOCX)
+latviešu (LV) (4.88 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/lv/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių (LT) (4.8 MB - DOCX)
+lietuvių (LT) (4.86 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/lt/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (3.03 MB - DOCX)
+magyar (HU) (3.83 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/hu/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (4.61 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/mt/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (2.97 MB - DOCX)
+Nederlands (NL) (4.18 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/nl/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_nl.docx)
 
-polski (PL) (3.67 MB - DOCX)
+polski (PL) (4.53 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/pl/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (3.03 MB - DOCX)
+português (PT) (4.3 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/pt/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (6.28 MB - DOCX)
+română (RO) (6.56 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/ro/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (4.52 MB - DOCX)
+slovenčina (SK) (4.55 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/sk/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (3.9 MB - DOCX)
+slovenščina (SL) (5.2 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/sl/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_sl.docx)
 
-suomi (FI) (4.38 MB - DOCX)
+suomi (FI) (4.24 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/fi/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (4.39 MB - DOCX)
+svenska (SV) (4.42 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/sv/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_sv.docx)
 
-Íslenska (IS) (4.9 MB - DOCX)
+Íslenska (IS) (4.8 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/is/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_is.docx)
 
-norsk (NO) (4.65 MB - DOCX)
+norsk (NO) (4.59 MB - DOCX)
 
-**First published:** 06/11/2025 **Last updated:** 26/02/2026
+**First published:** 06/11/2025 **Last updated:** 28/08/2026
 
 [View](/no/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_no.docx)
 
@@ -981,6 +989,6 @@ English (EN) (127.93 KB - PDF)
 
 **This page was last updated on**
 
-18/08/2026
+28/08/2026
 
 ## Share this page

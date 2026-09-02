@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-06 15:00:00
+document_datetime: 2026-08-26 13:37:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spikevax.html
 document_name: spikevax.html
 version: success
-processing_time: 0.4789603
-conversion_datetime: 2026-08-07 13:48:43.257267
+processing_time: 0.2980271
+conversion_datetime: 2026-09-02 22:31:42.28862
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Spikevax (previously COVID-19 Vaccine Moderna)
 
@@ -90,7 +90,7 @@ For more information about using Spikevax, including information about the adapt
 
 Spikevax works by preparing the body to defend itself against COVID-19. It contains a molecule called mRNA which has instructions for making the spike protein. This is a protein on the surface of SARS-CoV-2 which the virus needs to enter the body's cells and which can differ between variants of the virus.
 
-When a person is given the vaccine, some of their cells will read the mRNA instructions and temporarily produce the spike protein. The person's immune system will then recognise this protein as foreign and produce antibodies and activate T cells (white blood cells) to attack it.
+When a person is given the vaccine, some of their cells will read the mRNA instructions and temporarily produce the spike protein. The person's immune system will then recognise this protein as foreign and produce antibodies and activate T cells (white blood cells) to attack it.  
 If, later on, the person comes into contact with SARS-CoV-2, their immune system will recognise it and be ready to defend the body against it.
 
 After vaccination, the mRNA from the vaccine is broken down and removed from the body.
@@ -232,7 +232,7 @@ English (EN) (179.32 KB - PDF)
 
 [View](/en/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-993)
+[Other languages (22)](#file-language-dropdown-640)
 
 български (BG) (235.49 KB - PDF)
 
@@ -384,7 +384,7 @@ English (EN) (1.35 MB - PDF)
 
 [View](/en/documents/product-information/spikevax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-907)
+[Other languages (24)](#file-language-dropdown-684)
 
 български (BG) (1.9 MB - PDF)
 
@@ -538,7 +538,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -557,7 +557,7 @@ English (EN) (108.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-776)
+[Other languages (24)](#file-language-dropdown-890)
 
 български (BG) (154.86 KB - PDF)
 
@@ -1609,9 +1609,9 @@ Documents published within the scope of the exceptional transparency measures th
 
 Spikevax : Module 2.3.S drug substance
 
-English (EN) (38.5 MB - ZIP)
+English (EN) (43.68 MB - ZIP)
 
-**First published:** 30/01/2026 **Last updated:** 24/07/2026
+**First published:** 30/01/2026 **Last updated:** 26/08/2026
 
 [View](/en/documents/other/spikevax-module-23-quality-overall-summary_en.zip)
 
@@ -1761,13 +1761,14 @@ English (EN) (2.01 MB - DOCX)
 
 **First published:** 25/07/2025
 
-[View](/en/documents/product-information/spikevax-epar-product-information-tracked-changes_en.docx)
+[View](/en/documents/product-information-tracked-changes/spikevax-epar-product-information-tracked-changes_en.docx)
 
 ## More information on Spikevax (previously COVID-19 Vaccine Moderna)
 
 - [EMA/PE/0000228531 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000228531)
 - [Comirnaty / Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/comirnaty-spikevax-previously-covid-19-vaccine-moderna)
 - [Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/spikevax-previously-covid-19-vaccine-moderna)
+- [DARWIN EU® Effectiveness of COVID-19 vaccines on severe COVID-19 and post acute outcomes of SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/107616)
 - [Post-marketing safety of the Moderna COVID-19 vaccine following the 2024/2025 strain change in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000711)
 - [Observational Study to Assess Pregnancy and Infant Outcomes Following Exposure to Updated Moderna Vaccines Targeting SARS CoV-2 During Pregnancy - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000750)
 - [mRNA-1273-P920, Post-marketing safety of elasomeran/davesomeran and andusomeran vaccines in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/106695)
@@ -1778,7 +1779,6 @@ English (EN) (2.01 MB - DOCX)
 - [Vaccine Effectiveness, Burden and Impact Studies (VEBIS), Vaccine effectiveness against COVID-19 and seasonal influenza among patients presenting to primary care physicians in EU/EEA - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000095)
 - [Vaccine Effectiveness, Burden and Impact Studies (VEBIS) - Vaccine effectiveness and the impact of COVID-19 vaccines through routinely collected exposure and outcome data using health registries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000101)
 - [Vaccine Effectiveness, Burden and Impact Studies (VEBIS) - Vaccine effectiveness hospital admission with Severe Acute Respiratory Infection - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000099)
-- [DARWIN EU® Effectiveness of COVID-19 vaccines on severe COVID-19 and post acute outcomes of SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/107616)
 - [mRNA-1273-P919: An Observational Study to Assess Maternal and Infant Outcomes Following Exposure to SPIKEVAX During Pregnancy - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000058)
 - [Incidence rates of pemphigus and pemphigoid following COVID-19 vaccines - post-authorisation study](https://catalogues.ema.europa.eu/study/50716)
 - [Effectiveness of monovalent XBB.1.5-containing Covid-19 mRNA vaccines in the Nordic countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000043)
@@ -1786,6 +1786,6 @@ English (EN) (2.01 MB - DOCX)
 
 **This page was last updated on**
 
-06/08/2026
+26/08/2026
 
 ## Share this page

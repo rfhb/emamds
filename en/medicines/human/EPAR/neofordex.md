@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-10 15:51:00
+document_datetime: 2026-08-26 16:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neofordex.html
 document_name: neofordex.html
 version: success
-processing_time: 0.1775318
-conversion_datetime: 2026-07-13 12:34:19.157029
+processing_time: 0.1836116
+conversion_datetime: 2026-09-02 22:29:28.819802
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.112.0
-  docling-core: 2.87.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Neofordex
 
@@ -111,7 +111,7 @@ English (EN) (74.94 KB - PDF)
 
 [View](/en/documents/overview/neofordex-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-180)
+[Other languages (22)](#file-language-dropdown-766)
 
 български (BG) (100.35 KB - PDF)
 
@@ -259,167 +259,167 @@ English (EN) (90.12 KB - PDF)
 
 Neofordex : EPAR - Product Information
 
-English (EN) (371.89 KB - PDF)
+English (EN) (328.29 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/en/documents/product-information/neofordex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-819)
+[Other languages (24)](#file-language-dropdown-78)
 
-български (BG) (661.86 KB - PDF)
+български (BG) (619.86 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/bg/documents/product-information/neofordex-epar-product-information_bg.pdf)
 
-español (ES) (312.13 KB - PDF)
+español (ES) (268.34 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/es/documents/product-information/neofordex-epar-product-information_es.pdf)
 
-čeština (CS) (625.47 KB - PDF)
+čeština (CS) (582.62 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/cs/documents/product-information/neofordex-epar-product-information_cs.pdf)
 
-dansk (DA) (316.34 KB - PDF)
+dansk (DA) (279.09 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/da/documents/product-information/neofordex-epar-product-information_da.pdf)
 
-Deutsch (DE) (338.02 KB - PDF)
+Deutsch (DE) (294.22 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/de/documents/product-information/neofordex-epar-product-information_de.pdf)
 
-eesti (ET) (335.12 KB - PDF)
+eesti (ET) (286.18 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/et/documents/product-information/neofordex-epar-product-information_et.pdf)
 
-ελληνικά (EL) (713.84 KB - PDF)
+ελληνικά (EL) (671.85 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/el/documents/product-information/neofordex-epar-product-information_el.pdf)
 
-français (FR) (339.14 KB - PDF)
+français (FR) (296.24 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/fr/documents/product-information/neofordex-epar-product-information_fr.pdf)
 
-hrvatski (HR) (543.62 KB - PDF)
+hrvatski (HR) (500.21 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/hr/documents/product-information/neofordex-epar-product-information_hr.pdf)
 
-italiano (IT) (346.38 KB - PDF)
+italiano (IT) (302.91 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/it/documents/product-information/neofordex-epar-product-information_it.pdf)
 
-latviešu (LV) (587.05 KB - PDF)
+latviešu (LV) (545.46 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/lv/documents/product-information/neofordex-epar-product-information_lv.pdf)
 
-lietuvių (LT) (619.3 KB - PDF)
+lietuvių (LT) (575.76 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/lt/documents/product-information/neofordex-epar-product-information_lt.pdf)
 
-magyar (HU) (506.14 KB - PDF)
+magyar (HU) (462.51 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/hu/documents/product-information/neofordex-epar-product-information_hu.pdf)
 
-Malti (MT) (611.21 KB - PDF)
+Malti (MT) (567.59 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/mt/documents/product-information/neofordex-epar-product-information_mt.pdf)
 
-Nederlands (NL) (326.9 KB - PDF)
+Nederlands (NL) (283.03 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/nl/documents/product-information/neofordex-epar-product-information_nl.pdf)
 
-polski (PL) (644.76 KB - PDF)
+polski (PL) (601.33 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/pl/documents/product-information/neofordex-epar-product-information_pl.pdf)
 
-português (PT) (350.51 KB - PDF)
+português (PT) (306.56 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/pt/documents/product-information/neofordex-epar-product-information_pt.pdf)
 
-română (RO) (658.41 KB - PDF)
+română (RO) (615.06 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/ro/documents/product-information/neofordex-epar-product-information_ro.pdf)
 
-slovenčina (SK) (607.91 KB - PDF)
+slovenčina (SK) (564.53 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/sk/documents/product-information/neofordex-epar-product-information_sk.pdf)
 
-slovenščina (SL) (562.26 KB - PDF)
+slovenščina (SL) (521.19 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/sl/documents/product-information/neofordex-epar-product-information_sl.pdf)
 
-suomi (FI) (344.81 KB - PDF)
+suomi (FI) (302.63 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/fi/documents/product-information/neofordex-epar-product-information_fi.pdf)
 
-svenska (SV) (355.96 KB - PDF)
+svenska (SV) (312.67 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/sv/documents/product-information/neofordex-epar-product-information_sv.pdf)
 
-Íslenska (IS) (311.26 KB - PDF)
+Íslenska (IS) (270.2 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/is/documents/product-information/neofordex-epar-product-information_is.pdf)
 
-norsk (NO) (296.96 KB - PDF)
+norsk (NO) (254.42 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 10/07/2026
+**First published:** 01/04/2016 **Last updated:** 26/08/2026
 
 [View](/no/documents/product-information/neofordex-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000360192
+**Latest procedure affecting product information:** N/0000368841
 
-09/07/2026
+25/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -438,7 +438,7 @@ English (EN) (17.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neofordex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-686)
+[Other languages (24)](#file-language-dropdown-307)
 
 български (BG) (40.83 KB - PDF)
 
@@ -616,7 +616,7 @@ Treatment of multiple myeloma.
 - **Marketing authorisation issued**
     - 16/03/2016
 - **Revision**
-    - 15
+    - 16
 
 ## Assessment history
 
@@ -628,9 +628,9 @@ Collapse section
 
 Neofordex : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (133.71 KB - PDF)
+English (EN) (146.45 KB - PDF)
 
-**First published:** 09/04/2026 **Last updated:** 10/07/2026
+**First published:** 09/04/2026 **Last updated:** 26/08/2026
 
 [View](/en/documents/procedural-steps-after/neofordex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -702,7 +702,7 @@ English (EN) (164.82 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-709)
+[Other languages (24)](#file-language-dropdown-949)
 
 български (BG) (117.89 KB - DOCX)
 
@@ -862,6 +862,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-10/07/2026
+26/08/2026
 
 ## Share this page

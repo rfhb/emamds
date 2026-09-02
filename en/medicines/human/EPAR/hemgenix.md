@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-14 15:08:00
+document_datetime: 2026-08-27 15:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hemgenix.html
 document_name: hemgenix.html
 version: success
-processing_time: 0.1419268
-conversion_datetime: 2026-07-16 13:18:59.641179
+processing_time: 0.1555919
+conversion_datetime: 2026-09-02 22:27:18.229325
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Hemgenix
 
@@ -120,7 +120,7 @@ English (EN) (119.47 KB - PDF)
 
 [View](/en/documents/overview/hemgenix-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-130)
+[Other languages (22)](#file-language-dropdown-759)
 
 български (BG) (138.29 KB - PDF)
 
@@ -266,167 +266,167 @@ English (EN) (2.24 MB - PDF)
 
 Hemgenix : EPAR - Product information
 
-English (EN) (529.34 KB - PDF)
+English (EN) (531.3 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/en/documents/product-information/hemgenix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-509)
+[Other languages (24)](#file-language-dropdown-505)
 
-български (BG) (702.84 KB - PDF)
+български (BG) (723.32 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/bg/documents/product-information/hemgenix-epar-product-information_bg.pdf)
 
-español (ES) (545.48 KB - PDF)
+español (ES) (542.83 KB - PDF)
 
 **First published:** 28/02/2023 **Last updated:** 14/07/2026
 
 [View](/es/documents/product-information/hemgenix-epar-product-information_es.pdf)
 
-čeština (CS) (763.77 KB - PDF)
+čeština (CS) (766.14 KB - PDF)
 
 **First published:** 28/02/2023 **Last updated:** 14/07/2026
 
 [View](/cs/documents/product-information/hemgenix-epar-product-information_cs.pdf)
 
-dansk (DA) (542.67 KB - PDF)
+dansk (DA) (546.8 KB - PDF)
 
 **First published:** 28/02/2023 **Last updated:** 14/07/2026
 
 [View](/da/documents/product-information/hemgenix-epar-product-information_da.pdf)
 
-Deutsch (DE) (666.92 KB - PDF)
+Deutsch (DE) (586.84 KB - PDF)
 
 **First published:** 28/02/2023 **Last updated:** 14/07/2026
 
 [View](/de/documents/product-information/hemgenix-epar-product-information_de.pdf)
 
-eesti (ET) (533.66 KB - PDF)
+eesti (ET) (535.92 KB - PDF)
 
 **First published:** 28/02/2023 **Last updated:** 14/07/2026
 
 [View](/et/documents/product-information/hemgenix-epar-product-information_et.pdf)
 
-ελληνικά (EL) (614.4 KB - PDF)
+ελληνικά (EL) (634.43 KB - PDF)
 
 **First published:** 28/02/2023 **Last updated:** 14/07/2026
 
 [View](/el/documents/product-information/hemgenix-epar-product-information_el.pdf)
 
-français (FR) (533.72 KB - PDF)
+français (FR) (530.48 KB - PDF)
 
 **First published:** 28/02/2023 **Last updated:** 14/07/2026
 
 [View](/fr/documents/product-information/hemgenix-epar-product-information_fr.pdf)
 
-hrvatski (HR) (982.5 KB - PDF)
+hrvatski (HR) (989.84 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/hr/documents/product-information/hemgenix-epar-product-information_hr.pdf)
 
-italiano (IT) (610.42 KB - PDF)
+italiano (IT) (613.18 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/it/documents/product-information/hemgenix-epar-product-information_it.pdf)
 
-latviešu (LV) (556.48 KB - PDF)
+latviešu (LV) (579.82 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/lv/documents/product-information/hemgenix-epar-product-information_lv.pdf)
 
-lietuvių (LT) (590.95 KB - PDF)
+lietuvių (LT) (594.32 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/lt/documents/product-information/hemgenix-epar-product-information_lt.pdf)
 
-magyar (HU) (596.85 KB - PDF)
+magyar (HU) (599.67 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/hu/documents/product-information/hemgenix-epar-product-information_hu.pdf)
 
-Malti (MT) (623.05 KB - PDF)
+Malti (MT) (624.07 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/mt/documents/product-information/hemgenix-epar-product-information_mt.pdf)
 
-Nederlands (NL) (589.04 KB - PDF)
+Nederlands (NL) (953.29 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/nl/documents/product-information/hemgenix-epar-product-information_nl.pdf)
 
-polski (PL) (615.07 KB - PDF)
+polski (PL) (618.9 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/pl/documents/product-information/hemgenix-epar-product-information_pl.pdf)
 
-português (PT) (610.41 KB - PDF)
+português (PT) (614.67 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/pt/documents/product-information/hemgenix-epar-product-information_pt.pdf)
 
-română (RO) (613.36 KB - PDF)
+română (RO) (615.46 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/ro/documents/product-information/hemgenix-epar-product-information_ro.pdf)
 
-slovenčina (SK) (706.88 KB - PDF)
+slovenčina (SK) (709.22 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/sk/documents/product-information/hemgenix-epar-product-information_sk.pdf)
 
-slovenščina (SL) (642.65 KB - PDF)
+slovenščina (SL) (639.96 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/sl/documents/product-information/hemgenix-epar-product-information_sl.pdf)
 
-suomi (FI) (531.92 KB - PDF)
+suomi (FI) (535.76 KB - PDF)
 
 **First published:** 28/02/2023 **Last updated:** 14/07/2026
 
 [View](/fi/documents/product-information/hemgenix-epar-product-information_fi.pdf)
 
-svenska (SV) (618.91 KB - PDF)
+svenska (SV) (618.13 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/sv/documents/product-information/hemgenix-epar-product-information_sv.pdf)
 
-Íslenska (IS) (552.14 KB - PDF)
+Íslenska (IS) (554.76 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/is/documents/product-information/hemgenix-epar-product-information_is.pdf)
 
-norsk (NO) (544.81 KB - PDF)
+norsk (NO) (546.42 KB - PDF)
 
-**First published:** 28/02/2023 **Last updated:** 14/07/2026
+**First published:** 28/02/2023 **Last updated:** 27/08/2026
 
 [View](/no/documents/product-information/hemgenix-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000315755
+**Latest procedure affecting product information:** VR/0000367485
 
-21/05/2026
+27/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -447,7 +447,7 @@ English (EN) (38.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hemgenix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-964)
+[Other languages (24)](#file-language-dropdown-716)
 
 български (BG) (47.95 KB - PDF)
 
@@ -635,7 +635,7 @@ Treatment of severe and moderately severe Haemophilia B (congenital Factor IX de
 - **Marketing authorisation issued**
     - 20/02/2023
 - **Revision**
-    - 8
+    - 9
 
 ## Assessment history
 
@@ -647,9 +647,9 @@ Collapse section
 
 Hemgenix : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (170.94 KB - PDF)
+English (EN) (182.39 KB - PDF)
 
-**First published:** 04/03/2026 **Last updated:** 14/07/2026
+**First published:** 04/03/2026 **Last updated:** 27/08/2026
 
 [View](/en/documents/procedural-steps-after/hemgenix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -706,10 +706,11 @@ English (EN) (148.64 KB - PDF)
 ## More information on Hemgenix
 
 - [EU/3/18/1999 - orphan designation for treatment of haemophilia B](/en/medicines/human/orphan-designations/eu-3-18-1999)
+- [Evaluation of the Effectiveness of the Additional Risk Minimisation Measures for Hemgenix®: PASS Survey Among Physicians in European Countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001088)
 - [An Observational Post-authorization Long-term Follow-up Study to Characterize the Effectiveness and Safety of HEMGENIX® (Etranacogene Dezaparvovec) in Patients with Hemophilia B (CSL222\\_4001) - post-authorisation study](https://catalogues.ema.europa.eu/study/106067)
 
 **This page was last updated on**
 
-14/07/2026
+27/08/2026
 
 ## Share this page

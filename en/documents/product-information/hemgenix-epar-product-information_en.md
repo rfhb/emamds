@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-14 09:40:43
+document_datetime: 2026-08-27 12:01:38
 document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hemgenix-epar-product-information_en.pdf
 document_name: hemgenix-epar-product-information_en.pdf
 version: success
-processing_time: 11.0870134
-conversion_datetime: 2026-07-16 13:36:18.276356
+processing_time: 12.6514143
+conversion_datetime: 2026-09-02 21:58:24.838425
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,9 +44,9 @@ Each vial contains an extractable volume of 10 mL of concentrate for solution fo
 
 The total number of vials in each pack corresponds to the dosing requirement for the individual patient, depending on the patient`s body weight (see sections 4.2 and 6.5).
 
-## Excipient with known effect
+## Excipients with known effect
 
-This medicinal product contains 35.2 mg sodium per vial (3.52 mg/mL).
+This medicinal product contains 35.2 mg sodium per vial (3.52 mg/mL) and 2.20 mg polysorbate-20 per vial (0.22 mg/mL).
 
 For the full list of excipients, see section 6.1.
 
@@ -131,9 +131,9 @@ For detailed instructions on preparation, handling, measures to take in case of 
 
 ## 4.3 Contraindications
 
-- -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-- -Active infections, either acute or uncontrolled chronic (see section 4.4).
-- -Patients with known advanced hepatic fibrosis, or cirrhosis (see section 4.4).
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Active infections, either acute or uncontrolled chronic (see section 4.4).
+- Patients with known advanced hepatic fibrosis, or cirrhosis (see section 4.4).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -190,15 +190,17 @@ The safety of etranacogene dezaparvovec in patients with severe hepatic impairme
 
 ## Factor IX assays
 
-The results of Factor IX activity tests are lower if measured with chromogenic substrate assay (CSA) compared to one-stage clotting assay (OSA). In clinical studies, the post-dose Factor IX activity measured with CSA returned lower values with the
+The results of Factor IX activity tests are lower if measured with chromogenic substrate assay (CSA)
 
-mean CSA to OSA Factor IX activity ratio ranging from 0.408 to 0.547 (see section 5.1).
+compared to one-stage clotting assay (OSA).
+
+In clinical studies, the post-dose Factor IX activity measured with CSA returned lower values with the mean CSA to OSA Factor IX activity ratio ranging from 0.408 to 0.547 (see section 5.1).
 
 ## Hepatic function and Factor IX monitoring
 
 In the first 3 months after Hemgenix administration, the purpose of hepatic and Factor IX monitoring is to detect increases in ALT, which may be accompanied by decreased Factor IX activity and may indicate the need to initiate corticosteroid treatment (see sections 4.2 and 4.8). After the first 3 months of administration, hepatic and Factor IX monitoring is intended to routinely assess liver health and bleeding risk, respectively.
 
-A baseline assessment of liver health (including liver function tests within 3 months and recent fibrosis assessment using either imaging modalities, such as ultrasound elastography, or laboratory assessments, within 6 months) should be obtained before administration of Hemgenix (including liver function tests within 3 months and recent fibrosis assessment using either imaging modalities, such as ultrasound elastography, or laboratory assessments, within 6 months). Consider obtaining at least two ALT measurements prior to administration, or use an average of prior ALT measurements (for example within 4 months) to establish patient's baseline ALT. It is recommended that the hepatic function is evaluated through a multidisciplinary approach with involvement of a hepatologist to best adjust the monitoring to the patient's individual condition.
+A baseline assessment of liver health (including liver function tests within 3 months and recent fibrosis assessment using either imaging modalities, such as ultrasound elastography, or laboratory assessments, within 6 months) should be obtained before administration of Hemgenix. Consider obtaining at least two ALT measurements prior to administration, or use an average of prior ALT measurements (for example within 4 months) to establish patient's baseline ALT. It is recommended that the hepatic function is evaluated through a multidisciplinary approach with involvement of a hepatologist to best adjust the monitoring to the patient's individual condition.
 
 It is recommended (where possible) to use the same laboratory for hepatic testing at baseline and monitoring over time, particularly during the timeframe for corticosteroid treatment decision making, to minimise the impact of inter-laboratory variability.
 
@@ -208,18 +210,17 @@ Treating physicians should ensure the availability of patients for frequent moni
 
 Table 1: Hepatic function and Factor IX activity monitoring
 
-|                       | Measurements         | Timeframe                         | Monitoring frequency a   |
-|-----------------------|----------------------|-----------------------------------|--------------------------|
-| Before administration | Liver function tests | Within 3 months prior to infusion | Baseline measurement     |
+|                       | Measurements                                    | Timeframe                                                           | Monitoring frequency a   |
+|-----------------------|-------------------------------------------------|---------------------------------------------------------------------|--------------------------|
+| Before administration | Liver function tests Recent fibrosis assessment | Within 3 months prior to infusion Within 6 months prior to infusion | Baseline measurement     |
+| After administration  | ALT b and Factor IX activity                    | First 3 months                                                      | Weekly                   |
 
 <div style=\"page-break-after: always\"></div>
 
-|                      | Recent fibrosis assessment   | Within 6 months prior to infusion   |                                                                                                                                                                                                                                                                  |
-|----------------------|------------------------------|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| After administration | ALT b and Factor IX activity | First 3 months                      | Weekly                                                                                                                                                                                                                                                           |
-| After administration | ALT b and Factor IX activity | Months 4 to 12 (Year 1)             | Every 3 months                                                                                                                                                                                                                                                   |
-| After administration | ALT b and Factor IX activity | Year 2                              | • Every 6 months for patients with Factor IX activity levels > 5 IU/dL (see Factor IX assays) • Consider more frequent monitoring in patients with Factor IX activity levels ≤ 5 IU/dL and consider the stability of Factor IX levels and evidence of bleeding.  |
-|                      |                              | After Year 2                        | • Every 12 months for patients with Factor IX activity levels > 5 IU/dL (see Factor IX assays) • Consider more frequent monitoring in patients with Factor IX activity levels ≤ 5 IU/dL and consider the stability of Factor IX levels and evidence of bleeding. |
+| Months 4 to 12 (Year 1)   | Every 3 months                                                                                                                                                                                                                                                   |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Year 2                    | • Every 6 months for patients with Factor IX activity levels > 5 IU/dL (see Factor IX assays) • Consider more frequent monitoring in patients with Factor IX activity levels ≤ 5 IU/dL and consider the stability of Factor IX levels and evidence of bleeding.  |
+| After Year 2              | • Every 12 months for patients with Factor IX activity levels > 5 IU/dL (see Factor IX assays) • Consider more frequent monitoring in patients with Factor IX activity levels ≤ 5 IU/dL and consider the stability of Factor IX levels and evidence of bleeding. |
 
 a Weekly monitoring is recommended, or as clinically indicated, during corticosteroid tapering. Adjustment of the monitoring frequency may also be indicated depending on the individual situation.
 
@@ -233,18 +234,16 @@ An immune response to the AAV5 capsid protein will occur after administration of
 
 Table 2. Recommended prednisolone treatment in response to ALT elevations:
 
-| Timeline   |   Prednisolone oral dose (mg/day) * |
-|------------|-------------------------------------|
-| Week 1     |                                  60 |
+| Timeline                                                   | Prednisolone oral dose (mg/day) *   |
+|------------------------------------------------------------|-------------------------------------|
+| Week 1                                                     | 60                                  |
+| Week 2                                                     | 40                                  |
+| Week 3                                                     | 30                                  |
+| Week 4                                                     | 30                                  |
+| Maintenance dose until ALT level returns to baseline level | 20                                  |
+| Taper dose after baseline level has been reached           | Reduce daily dose by 5 mg/week      |
 
 <div style=\"page-break-after: always\"></div>
-
-| Week 2                                                     | 40                             |
-|------------------------------------------------------------|--------------------------------|
-| Week 3                                                     | 30                             |
-| Week 4                                                     | 30                             |
-| Maintenance dose until ALT level returns to baseline level | 20                             |
-| Taper dose after baseline level has been reached           | Reduce daily dose by 5 mg/week |
 
 * Medicinal products equivalent to prednisolone may also be used. A combined immunosuppressant regimen or the use of other immunosuppressive therapy can also be considered in case of prednisolone treatment failure or contraindication (see section 4.5). It is further recommended to set a multidisciplinary consultation involving a hepatologist, to best adjust the alternative to corticosteroids and the monitoring to the patient's individual condition.
 
@@ -276,9 +275,9 @@ The safety and efficacy in patients with HIV infection not controlled with anti-
 
 ## Patients with active or uncontrolled chronic infections
 
-<div style=\"page-break-after: always\"></div>
-
 There is no clinical experience with administration of etranacogene dezaparvovec in patients with acute infections (such as acute respiratory infections or acute hepatitis) or uncontrolled chronic infections (such as active chronic Hepatitis B or Hepatitis C). It is possible that such acute or uncontrolled infections may affect the response to Hemgenix and reduce its efficacy and/or cause adverse reactions. In patients with such infections, Hemgenix treatment is contraindicated (see section 4.3).
+
+<div style=\"page-break-after: always\"></div>
 
 If there are signs or symptoms of acute or uncontrolled chronic active infections, Hemgenix treatment must be postponed until the infection has resolved or is controlled.
 
@@ -311,17 +310,23 @@ In the clinical studies, no malignancies were identified in relation to treatmen
 
 It is recommended that patients with preexisting risk factors for hepatocellular carcinoma (such as hepatic fibrosis, hepatitis C or B disease, non-alcoholic fatty liver disease) undergo regular liver ultrasound screenings and are regularly monitored for alpha-fetoprotein (AFP) elevations (e.g. annually) for at least 5 years after Hemgenix administration (see also section 4.3).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Long-term follow up
 
+<div style=\"page-break-after: always\"></div>
+
 Patients are expected to be enrolled in a follow-up study to follow Haemophilia patients for 15 years, to substantiate the long-term safety and efficacy of Hemgenix gene therapy.
+
+## Excipients with known effect
 
 ## Sodium and potassium content
 
 This medicinal product contains 35.2 mg sodium per vial, equivalent to 1.8% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 This medicinal product contains potassium, less than 1 mmol (39 mg) per vial, that is to say essentially potassium-free.
+
+## Polysorbate-20
+
+This medicinal product contains 2.20 mg polysorbate-20 per vial (0.22 mg/mL). Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -345,9 +350,9 @@ Agents that may reduce or increase the plasma concentration of corticosteroids (
 
 Prior to etranacogene dezaparvovec infusion, ensure that the patient's vaccinations are up to date. The patient's vaccination schedule may need to be adjusted to accommodate concomitant immunomodulatory therapy (see section 4.4). Live vaccines should not be administered to patients while on immunomodulatory therapy.
 
-## 4.6 Fertility, pregnancy and lactation
-
 <div style=\"page-break-after: always\"></div>
+
+## 4.6 Fertility, pregnancy and lactation
 
 ## Women of childbearing potential
 
@@ -412,23 +417,21 @@ Table 4. Hepatic laboratory abnormalities in patients administered 2 x 10 13 gc/
 
 | Laboratory Parameter Increases a   | Number of patients (%) N = 57 f   |
 |------------------------------------|-----------------------------------|
-| ALT increases > ULN b              | (40.4%)                           |
+| ALT increases > ULN b              | 23 (40.4%)                        |
 | > ULN - 3.0 x ULN c                | 17 (29.8%)                        |
 | > 3.0 - 5.0 x ULN d                | 1 (1.8%)                          |
 | > 5.0 - 20.0 x ULN e               | 1 (1.8%)                          |
-| AST increases > ULN b              | (42.1%)                           |
+| AST increases > ULN b              | 24 (42.1%)                        |
 | > ULN - 3.0 x ULN c                | 19 (33.3%)                        |
 | > 3.0 - 5.0 x ULN d                | 4 (7.0%)                          |
 | Bilirubin increases > ULN b        | 14 (24.6%)                        |
 | > ULN - 1.5 x ULN c                | 12 (21.1%)                        |
 
-Abbreviations: ULN = Upper Limit of Normal; CTCAE = Common Terminology Criteria for Adverse Events
+Abbreviations: ULN = Upper Limit of Normal; CTCAE = Common Terminology Criteria for Adverse Events c CTCAE Grade 1
 
 a Highest post-dose CTCAE Grades of values are presented
 
 b Not all patients with laboratory abnormality &gt;ULN reached CTCAE Grade 1 due to elevated baseline levels
-
-c CTCAE Grade 1
 
 <div style=\"page-break-after: always\"></div>
 
@@ -500,15 +503,15 @@ Table 5. Bleeding events and Annualised Bleeding Rates
 | Number of patients with zero bleeds        | 14 (25.9%)                            | 34 (63.0%)                         | 20 (37.0%)                         | 13 (24.5%)                            | 34 (64.2%)                         | 20 (37.0%)                         |
 | Number of any bleeds                       | 136                                   | 54                                 | 151                                | 136                                   | 49                                 | 146                                |
 | Number of person years for bleeding events | 33.12                                 | 49.78                              | 219.11                             | 32.60                                 | 49.77                              | 219.10                             |
-| Adjusted * ABR **                          | 4.19 (3.22, 5.45)                     | 1.51 (0.81, 2.82)                  | 1.52 (0.72, 3.26)                  | 3.89 (2.93, 5.16)                     | 1.07 (0.63, 1.82)                  | 0.96 (0.53, 1.76)                  |
+| Adjusted * ABR **                          | 4.19 (3.22, 5.45)                     | 1.51 (0.81, 2.82)                  | 1.52 (0.71, 3.26)                  | 3.89 (2.93, 5.16)                     | 1.07 (0.63, 1.82)                  | 0.96 (0.53, 1.76)                  |
 
 <div style=\"page-break-after: always\"></div>
 
 | (95% CI) for any bleeds                                                              |            |                         |                         |    |                         |                         |
 |--------------------------------------------------------------------------------------|------------|-------------------------|-------------------------|----|-------------------------|-------------------------|
-| ABR reduction (lead-in to post- treatment) 2-sided 95% Wald CI 1-sided p- value **** | -          | 64% (36%, 80%) p=0.0002 | 63% (24%, 82%) p=0.0035 | -  | 72% (57%, 83%) p<0.0001 | 75% (46%, 87%) p<0.0001 |
+| ABR reduction (lead-in to post- treatment) 2-sided 95% Wald CI 1-sided p- value **** | -          | 64% (36%, 80%) p=0.0002 | 63% (24%, 82%) p=0.0035 | -  | 72% (57%, 83%) p<0.0001 | 75% (53%, 87%) p<0.0001 |
 | Number of patients with severe i bleeds                                              | 10 (18.5%) | 7 (13%)                 | -                       | -  | -                       | -                       |
-| Number of patients with very severe i                                                | 3 (5.6%)   | 2 (3.7%)                | -                       | -  | -                       | -                       |
+| Number of patients with very severe i bleeds                                         | 3 (5.6%)   | 2 (3.7%)                | -                       | -  | -                       | -                       |
 | Adjusted ABR for spontaneous bleeds 1-sided p- value                                 | 1.52       | 0.44 p=0.0034           | 0.53 p=0.0133           | -  | -                       | -                       |
 | Adjusted ABR for joint bleeds 1-sided p- value                                       | 2.35       | 0.51 p<0.0001           | 0.35 p<0.0001           | -  | -                       | -                       |
 | Adjusted ABR for traumatic bleeds 1-sided p- value                                   | 2.09       | 0.62 p<0.0001           | 0.43 p<0.0001           | -  | -                       | -                       |
@@ -731,7 +734,9 @@ Store in a refrigerator (2 °C - 8 °C).
 
 ## Do not freeze.
 
-Do not use Hemgenix after the expiry date printed on the outer carton after \"EXP\". Store in the original package in order to protect from light.
+Do not use Hemgenix after the expiry date printed on the outer carton after \"EXP\".
+
+Store in the original package in order to protect from light.
 
 Dilute before use.
 
@@ -777,20 +782,20 @@ The patient body weight used for the dose calculation should be taken to the nea
 For a patient weighing between 72.1 kg to 72.4 kg use 72 kg. For a patient weighing between 72.5 kg to 72.9 kg use 73 kg.
 
 5. Etranacogene dezaparvovec must be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection prior to administration.
-2. -Prior to dilution, inspect each of the etranacogene dezaparvovec vials.
+- Prior to dilution, inspect each of the etranacogene dezaparvovec vials.
 3. o If particulates, cloudiness, or discoloration is visible, do not use the vial(s).
-4. -Gently swirl the vials 3 times (about 10 seconds) to homogenize the etranacogene dezaparvovec suspension.
+- Gently swirl the vials 3 times (about 10 seconds) to homogenize the etranacogene dezaparvovec suspension.
 5. o To avoid foaming, do not shake the etranacogene dezaparvovec vial(s).
-6. -Withdraw the volume of the calculated Hemgenix dose (in mL) from the 500 mL-infusion bag(s) with sodium chloride 9 mg/mL (0.9%) solution for injection. The volume to be withdrawn will vary based on the patient body weight.
+- Withdraw the volume of the calculated Hemgenix dose (in mL) from the 500 mL-infusion bag(s) with sodium chloride 9 mg/mL (0.9%) solution for injection. The volume to be withdrawn will vary based on the patient body weight.
 7. o For patients &lt;120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from one 500 mL-infusion bag.
 8. o For patients ≥120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from two 500 mL-infusion bags, by withdrawing half of the volume from each of the two 500 mLinfusion bags.
-9. -Withdraw etranacogene dezaparvovec from each vial using a 20 G needle and syringe.
-10. -Add subsequently the required etranacogene dezaparvovec dose to the infusion bag(s) to bring the total volume in each infusion bag back to 500 mL.
+- Withdraw etranacogene dezaparvovec from each vial using a 20 G needle and syringe.
+- Add subsequently the required etranacogene dezaparvovec dose to the infusion bag(s) to bring the total volume in each infusion bag back to 500 mL.
 6. Add the Hemgenix dose directly into the sodium chloride 9 mg/mL (0.9%) solution for injection. Do not add the Hemgenix dose into the air in the infusion bag during diluting.
 7. Gently invert the infusion bag(s) at least 3 times (about 10 seconds) to mix the solution and ensure even distribution of the diluted product.
 8. To avoid foaming:
-14. -Do not shake the prepared infusion bag(s).
-15. -Do not use filter needles during preparation of etranacogene dezaparvovec.
+- Do not shake the prepared infusion bag(s).
+- Do not use filter needles during preparation of etranacogene dezaparvovec.
 9. To reduce the risk of spillage and/or aerosol formation, the infusion bag(s) should be provided connected to an infusion tubing prefilled with sterile sodium chloride 9 mg/mL (0.9%) solution for injection.
 10. The infusion tubing prefilled with sterile sodium chloride 9 mg/mL (0.9%) solution for injection should be connected to the main intravenous infusion line also primed with sterile sodium chloride 9 mg/mL (0.9%) solution for injection prior to use.
 11. Use only sodium chloride 9 mg/mL (0.9%) solution for injection since the stability of etranacogene dezaparvovec has not been determined with other solutions and diluents.
@@ -837,11 +842,15 @@ EU/1/22/1715/001
 
 <div style=\"page-break-after: always\"></div>
 
-9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 20 February 2023 Date of latest renewal: 16 January 2026
+Date of first authorisation: 20 February 2023
+
+Date of latest renewal: 16 January 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -896,21 +905,21 @@ Prior to launch of Hemgenix in each Member State, the marketing authorisation ho
 
 The MAH shall ensure that in each Member State where Hemgenix is marketed, all healthcare professionals and patients/carers who are expected to prescribe, use or oversee the administration of Hemgenix have access to/are provided with the following educational packages. These packages will be translated in the local language to ensure understanding of proposed mitigation measures by physicians and patients:
 
-- -Physician Educational Material
-- -Patient Information Pack.
+- Physician Educational Material
+- Patient Information Pack.
 
 ## The Physician Educational Material consists of:
 
-- -Guide for Healthcare Professionals;
-- -The Summary of Product Characteristics;
-- -The Patient/Care-giver guide;
-- -The Patient Card.
+- Guide for Healthcare Professionals;
+- The Summary of Product Characteristics;
+- The Patient/Care-giver guide;
+- The Patient Card.
 
 The Patient Information Pack consists of:
 
-- -The Patient/Care-giver guide;
-- -The Patient Card;
-- -The patient information leaflet.
+- The Patient/Care-giver guide;
+- The Patient Card;
+- The patient information leaflet.
 
 ## The Guide for Healthcare Professionals key messages:
 
@@ -938,9 +947,9 @@ Patients should inform the healthcare professional about current use of corticos
 - o That high preexisting immunity against the vector may reduce the efficacy of Hemgenix therapy; patients are expected to be assessed for the titre of preexisting neutralising antiAAV5 antibodies before the Hemgenix treatment.
 - o That not all patients may benefit from treatment with Hemgenix. Patients not responding to treatment are still be exposed to long-term risks.
 - o Details how the important potential risks of horizontal and germline transmission, development of Factor IX inhibitors, malignancy in relation to vector genome integration, and thromboembolism can be recognised and minimised by regular monitoring as recommended by doctors, including that:
-- -The patient should seek immediate medical advice for any symptoms suggestive of a thromboembolic event.
-- -Male patients of reproductive potential or their female partners should use barrier contraception for one year after administration of Hemgenix.
-- -That Hemgenix has a viral vector component, and it may be associated with an increased risk of malignant tumour. Regular liver monitoring for at least 5 years after Hemgenix treatment is needed in patients with preexisting risk factors for hepatocellular carcinoma.
+- The patient should seek immediate medical advice for any symptoms suggestive of a thromboembolic event.
+- Male patients of reproductive potential or their female partners should use barrier contraception for one year after administration of Hemgenix.
+- That Hemgenix has a viral vector component, and it may be associated with an increased risk of malignant tumour. Regular liver monitoring for at least 5 years after Hemgenix treatment is needed in patients with preexisting risk factors for hepatocellular carcinoma.
 
 -
 
@@ -969,9 +978,7 @@ The MAH shall complete, within the stated timeframe, the below measures:
 
 This being a conditional marketing authorisation and pursuant to Article 14-a(4) of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-Description
-
-Due date
+Description Due date
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1061,9 +1068,7 @@ EU/1/22/1715/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1089,12 +1094,11 @@ NN
 Hemgenix 1 x 10 13 genome copies/mL sterile concentrate etranacogene dezaparvovec Intravenous use
 
 2. METHOD OF ADMINISTRATION
-
 3. EXPIRY DATE
 
 EXP
 
-## 4. BATCH NUMBER
+4. BATCH NUMBER
 
 Lot
 
@@ -1102,30 +1106,28 @@ Lot
 
 10 mL
 
-## 6. OTHER
+6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the user
 
-## Hemgenix 1 x 10 13
+<div style=\"page-break-after: always\"></div>
 
-## genome copies/mL concentrate for solution for infusion etranacogene dezaparvovec
+## Hemgenix 1 x 10 13 genome copies/mL concentrate for solution for infusion etranacogene dezaparvovec
+
+<!-- image -->
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -Your doctor will give you a Patient Card. Read it carefully and follow the instructions on it.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Your doctor will give you a Patient Card. Read it carefully and follow the instructions on it.
 
 ## What is in this leaflet
 
@@ -1156,9 +1158,9 @@ The active substance in Hemgenix is based on a virus that does not cause disease
 
 <div style=\"page-break-after: always\"></div>
 
-- -If you are allergic to etranacogene dezaparvovec or to any of the other ingredients of this medicine (listed in section 6).
-- -If you suffer from an active infection which is either an acute (short-term) infection, or chronic (long-term) infection that is not controlled by medicines.
-- -If your liver does not work properly due to advanced liver fibrosis (tissue scarring and thickening), or cirrhosis (scarring due to long-term liver damage).
+- If you are allergic to etranacogene dezaparvovec or to any of the other ingredients of this medicine (listed in section 6).
+- If you suffer from an active infection which is either an acute (short-term) infection, or chronic (long-term) infection that is not controlled by medicines.
+- If your liver does not work properly due to advanced liver fibrosis (tissue scarring and thickening), or cirrhosis (scarring due to long-term liver damage).
 
 If any of the above applies to you, or if you are unsure of any of the above, please talk to your doctor before you receive Hemgenix.
 
@@ -1226,13 +1228,13 @@ After Hemgenix use, talk to your doctor about if or when you should stop your ot
 
 After treatment with Hemgenix, your Factor IX protein level may increase. In some patients, it could increase to levels above the normal range for a period of time.
 
-- -Unusually elevated Factor IX levels may cause your blood to clot abnormally, increasing the risk of blood clots, such as in the lung (pulmonary thromboembolism) or in a blood vessel of the leg (venous or arterial thrombosis). This theoretical risk is low due to your inborn deficiency in the clotting cascade when compared with healthy subjects.
-- -You may be at risk of abnormal blood clotting, if you have preexisting problems with your heart and blood vessels (e.g. a history of a heart disease (cardiovascular disease), thick and stiff arteries (arteriosclerosis), high blood pressure (hypertension), or if you are diabetic or above 50 years).
+- Unusually elevated Factor IX levels may cause your blood to clot abnormally, increasing the risk of blood clots, such as in the lung (pulmonary thromboembolism) or in a blood vessel of the leg (venous or arterial thrombosis). This theoretical risk is low due to your inborn deficiency in the clotting cascade when compared with healthy subjects.
+- You may be at risk of abnormal blood clotting, if you have preexisting problems with your heart and blood vessels (e.g. a history of a heart disease (cardiovascular disease), thick and stiff arteries (arteriosclerosis), high blood pressure (hypertension), or if you are diabetic or above 50 years).
 
 <div style=\"page-break-after: always\"></div>
 
-- -Your doctor will regularly monitor your blood for any potential abnormalities in Factor IX levels, in particular if you continue receiving your regular Factor IX prophylaxis (Factor IX replacement therapy) after Hemgenix administration (see also section 3 'How to use Hemgenix').
-- -Consult your doctor immediately, if you observe signs of abnormal clotting, such as sudden chest pain, shortness of breath, sudden onset of muscle weakness, loss of sensation and/or balance, decreased alertness, difficulty in speaking, or swelling of one or both legs.
+- Your doctor will regularly monitor your blood for any potential abnormalities in Factor IX levels, in particular if you continue receiving your regular Factor IX prophylaxis (Factor IX replacement therapy) after Hemgenix administration (see also section 3 'How to use Hemgenix').
+- Consult your doctor immediately, if you observe signs of abnormal clotting, such as sudden chest pain, shortness of breath, sudden onset of muscle weakness, loss of sensation and/or balance, decreased alertness, difficulty in speaking, or swelling of one or both legs.
 
 ## Avoiding blood donations and donations for transplantations
 
@@ -1254,11 +1256,11 @@ After receiving Hemgenix, your immune system will produce antibodies to the shel
 
 ## Risk of malignancy potentially associated with Hemgenix
 
-- -Hemgenix will insert into liver cells and it could possibly insert into the liver cell DNA or the DNA of other body cells. As a consequence, Hemgenix could contribute to a risk of cancer, such as liver cancer (hepatocellular carcinoma). Although there is no evidence of this in the clinical studies so far, this remains possible because of the nature of the medicine. You should therefore discuss this with your physician.
-- -If you are a patient with preexisting risk factors for hepatocellular carcinoma (e.g. you have liver fibrosis (scarring and thickening of the liver), or Hepatitis B, Hepatitis C, fatty liver (nonalcoholic fatty liver disease (NAFLD)), or you excessively drink alcohol), your doctor will regularly (e.g. annually) monitor your long-term liver health for at least 5 years after Hemgenix administration and perform the following tests:
+- Hemgenix will insert into liver cells and it could possibly insert into the liver cell DNA or the DNA of other body cells. As a consequence, Hemgenix could contribute to a risk of cancer, such as liver cancer (hepatocellular carcinoma). Although there is no evidence of this in the clinical studies so far, this remains possible because of the nature of the medicine. You should therefore discuss this with your physician.
+- If you are a patient with preexisting risk factors for hepatocellular carcinoma (e.g. you have liver fibrosis (scarring and thickening of the liver), or Hepatitis B, Hepatitis C, fatty liver (nonalcoholic fatty liver disease (NAFLD)), or you excessively drink alcohol), your doctor will regularly (e.g. annually) monitor your long-term liver health for at least 5 years after Hemgenix administration and perform the following tests:
 - Annual liver ultrasound and
 - Annual blood test to check for increases in so-called alpha-fetoprotein.
-- -After treatment with Hemgenix, you will be expected to enrol in a follow up study to help study the long-term safety of the treatment for 15 years, how well it continues to work and any side effects
+- After treatment with Hemgenix, you will be expected to enrol in a follow up study to help study the long-term safety of the treatment for 15 years, how well it continues to work and any side effects
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1280,9 +1282,9 @@ There are no data regarding Hemgenix use in women with Haemophilia B.
 
 If you are pregnant or breast-feeding, think you may be pregnant or plan to become pregnant, ask your doctor for advice prior to be given Hemgenix.
 
-- -Hemgenix treatment is not recommended in women who are able to become pregnant. It is not yet known whether Hemgenix can be used safely in these patients as the effects on pregnancy and the unborn child are not known.
-- -Hemgenix should not be used during pregnancy. It is not known whether this medicinal product can cause harm to your unborn baby when administered to you during your pregnancy.
-- -Hemgenix should not be used during breast-feeding. It is unknown whether this medicine is excreted in human milk. A risk to the newborns/infants cannot be excluded.
+- Hemgenix treatment is not recommended in women who are able to become pregnant. It is not yet known whether Hemgenix can be used safely in these patients as the effects on pregnancy and the unborn child are not known.
+- Hemgenix should not be used during pregnancy. It is not known whether this medicinal product can cause harm to your unborn baby when administered to you during your pregnancy.
+- Hemgenix should not be used during breast-feeding. It is unknown whether this medicine is excreted in human milk. A risk to the newborns/infants cannot be excluded.
 
 ## Use of contraception and avoiding partner pregnancy for a period of time
 
@@ -1294,12 +1296,16 @@ Hemgenix has minor influence on the ability to drive and use machines. Temporary
 
 ## Hemgenix contains sodium and potassium
 
-- -The medicine contains 35.2 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 1.8% of the recommended maximum daily dietary intake of sodium for an adult.
-- -This medicinal product contains potassium, less than 1 mmol (39 mg) per vial, that is to say essentially potassium-free.
+- The medicine contains 35.2 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 1.8% of the recommended maximum daily dietary intake of sodium for an adult.
+- This medicinal product contains potassium, less than 1 mmol (39 mg) per vial, that is to say essentially potassium-free.
 
-## 3. How Hemgenix is given
+## Hemgenix contains polysorbate-20
 
 <div style=\"page-break-after: always\"></div>
+
+- The medicine contains 2.20 mg polysorbate-20 per vial (0.22 mg/mL). Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How Hemgenix is given
 
 Hemgenix will be given to you in a hospital setting under direction of a doctor experienced and trained in the treatment of your condition Haemophilia B.
 
@@ -1309,8 +1315,8 @@ Your doctor will work out the correct dose for you, based on your body weight.
 
 ## Discontinuation of exogenous Factor IX treatment
 
-- -It may take several weeks before improved bleeding control becomes apparent after Hemgenix infusion, and you may need to continue your replacement therapy with exogenous Factor IX during the first weeks after Hemgenix infusion.
-- -Your doctor will regularly monitor your blood for the Factor IX activity levels, i.e. weekly for at least first 3 months, and at regular intervals thereafter, and decide if and when you should receive, reduce, or stop your exogenous Factor IX therapy (see section 2).
+- It may take several weeks before improved bleeding control becomes apparent after Hemgenix infusion, and you may need to continue your replacement therapy with exogenous Factor IX during the first weeks after Hemgenix infusion.
+- Your doctor will regularly monitor your blood for the Factor IX activity levels, i.e. weekly for at least first 3 months, and at regular intervals thereafter, and decide if and when you should receive, reduce, or stop your exogenous Factor IX therapy (see section 2).
 
 If you have any questions on the use of Hemgenix ask your doctor.
 
@@ -1342,19 +1348,21 @@ Common (may occur with up to 1 in 10 patients)
 
 If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Hemgenix
 
 The following information is intended for doctors only.
-
-<div style=\"page-break-after: always\"></div>
 
 Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the vial label and carton after EXP.
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Store vials in the original package in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
-## Dilute before use.
+Store vials in the original package in order to protect from light.
+
+Dilute before use.
 
 Once diluted with sodium chloride 9 mg/mL (0.9%) solution for injection, Hemgenix can be stored at 15 °C - 25 °C in the infusion bag protected from light for up to 24 hours after the dose preparation.
 
@@ -1364,8 +1372,17 @@ Do not use this medicine if you notice particles, cloudiness or discolouration.
 
 ## What Hemgenix contains
 
-- -The active substance is etranacogene dezaparvovec. Each mL of etranacogene dezaparvovec contains 1 x 10 13 gene copies (gc)/mL.
-- -The other ingredients (excipients) are sucrose, polysorbate-20, potassium chloride, potassium dihydrogen phosphate, sodium chloride, sodium hydrogen phosphate, hydrochloric acid (for pH adjustment), water for injections (see also section 2 'Hemgenix contains sodium and potassium.').
+- The active substance is etranacogene dezaparvovec. Each mL of etranacogene dezaparvovec contains 1 x 10 13 gene copies (gc)/mL.
+
+-
+
+The other ingredients (excipients) are sucrose, polysorbate-20, potassium chloride, potassium
+
+dihydrogen phosphate, sodium chloride, sodium hydrogen phosphate, hydrochloric acid (for pH
+
+adjustment), water for injections (see also section 2 'Hemgenix contains sodium and potassium'
+
+and 'Hemgenix contains polysorbate-20').
 
 This medicine contains genetically modified organisms.
 
@@ -1377,7 +1394,9 @@ Hemgenix is a clear, colourless solution.
 
 Hemgenix is supplied in a vial containing 10 mL of etranacogene dezaparvovec.
 
-The total number of vials in a pack, corresponds to the dosing requirement for individual patient depending on his body weight, and is provided on the package.
+The total number of vials in a pack, corresponds to the dosing requirement for individual patient
+
+depending on his body weight, and is provided on the package.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -1385,81 +1404,71 @@ CSL Behring GmbH Emil-von-Behring-Strasse 76 D-35041 Marburg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien
-
-CSL Behring NV
-
-Tél/Tel: +32 15 28 89 20
+België/Belgique/Belgien CSL Behring NV Tél/Tel: +32 15 28 89 20
 
 Luxembourg/Luxemburg
 
-CSL Behring NV
-
-Tél/Tel: +32 15 28 89 20
-
-България
-
-МагнаФарм България ЕАД
-
-Тел
-
-: +359 2 810 3949
-
-Magyarország
-
-CSL Behring Kft.
-
-Tel: +36 1 213 4290
+CSL Behring NV Tél/Tel: +32 15 28 89 20
 
 <div style=\"page-break-after: always\"></div>
 
+## България
+
+МагнаФарм България ЕАД
+
+Тел : +359 2 810 3949
+
 ## Česká republika
 
-CSL Behring s.r.o.
-
-Tel: +420 702 137 233
+CSL Behring s.r.o. Tel: +420 702 137 233
 
 ## Danmark
+
+CSL Behring AB Tlf: +46 8 544 966 70
+
+## Deutschland
+
+CSL Behring GmbH Tel: +49 6190 75 84810
+
+## Eesti
+
+## Magyarország
+
+CSL Behring Kft. Tel: +36 1 213 4290
+
+## Malta
+
+AM Mangion Ltd. Tel: +356 2397 6333
+
+## Nederland
+
+CSL Behring BV Tel: +31 85 111 96 00
+
+## Norge
 
 CSL Behring AB
 
 Tlf: +46 8 544 966 70
 
-## Deutschland
+## Österreich
 
-CSL Behring GmbH
-
-Tel: +49 6190 75 84810
-
-## Eesti
-
-CentralPharma Communications OÜ
-
-Tel: +3726015540
+CentralPharma Communications OÜ Tel: +3726015540
 
 ## Ελλάδα
 
-CSL Behring ΕΠΕ
-
-Τηλ: +30 210 7255 660
+CSL Behring ΕΠΕ Τηλ: +30 210 7255 660
 
 ## España
 
-CSL Behring S.A.
-
-Tel: +34 933 67 1870
+CSL Behring S.A. Tel: +34 933 67 1870
 
 ## France
 
-CSL Behring SA
-
-Tél: +33 1 53 58 54 00
+CSL Behring SA Tél: +33 1 53 58 54 00
 
 ## Hrvatska
 
-Marti Farm d.o.o.
-
-Tel: +385 1 5588297
+Marti Farm d.o.o. Tel: +385 1 5588297
 
 ## Ireland
 
@@ -1471,45 +1480,15 @@ CSL Behring AB Sími: +46 8 544 966 70
 
 ## Italia
 
-CSL Behring S.p.A.
-
-Tel: +39 02 34964 200
+CSL Behring S.p.A. Tel: +39 02 34964 200
 
 ## Κύπρος
 
-CSL Behring ΕΠΕ
-
-Τηλ: +30 210 7255 660
+CSL Behring ΕΠΕ Τηλ: +30 210 7255 660
 
 ## Latvija
 
-CentralPharma Communications SIA
-
-Tel: +371 6 7450497
-
-## Lietuva
-
-CentralPharma Communications UAB
-
-Tel: +370 5 243 0444
-
-## Malta
-
-AM Mangion Ltd.
-
-Tel: +356 2397 6333
-
-## Nederland
-
-CSL Behring BV
-
-Tel: +31 85 111 96 00
-
-## Norge
-
-CSL Behring AB Tlf: +46 8 544 966 70
-
-## Österreich
+CentralPharma Communications SIA Tel: +371 6 7450497
 
 CSL Behring GmbH Tel: +43 1 80101 1040
 
@@ -1525,13 +1504,11 @@ CSL Behring Lda Tel: +351 21 782 62 30
 
 ## România
 
-Prisum Healthcare S.R.L.
-
-Tel: +40 21 322 01 71
+Prisum Healthcare S.R.L. Tel: +40 21 322 01 71
 
 ## Slovenija
 
-Emmes Biopharma Global s.r.o. podružnica v Sloveniji Tel: +386 41 42 0002
+Emmes Biopharma Global s.r.o. - podružnica v Sloveniji Tel: +386 41 42 0002
 
 ## Slovenská republika
 
@@ -1543,11 +1520,15 @@ CSL Behring AB Puh/Tel: +46 8 544 966 70
 
 ## Sverige
 
-CSL Behring AB
-
-Tel: +46 8 544 966 70
+CSL Behring AB Tel: +46 8 544 966 70
 
 <div style=\"page-break-after: always\"></div>
+
+## Lietuva
+
+CentralPharma Communications UAB
+
+Tel: +370 5 243 0444
 
 ## This leaflet was last revised in
 
@@ -1575,6 +1556,8 @@ This medicinal product contains genetically modified organisms (GMOs).
 
 Personal protective equipment, including gloves, safety goggles, protective clothing and masks, should be worn while preparing and administering etranacogene dezaparvovec.
 
+## Preparation of etranacogene dezaparvovec prior to administration
+
 1. Use aseptic techniques during the preparation and administration of etranacogene dezaparvovec.
 2. Do not expose etranacogene dezaparvovec to the light of an ultraviolet radiation disinfection lamp.
 3. Use etranacogene dezaparvovec vial(s) only once (single-use vial(s)).
@@ -1596,24 +1579,23 @@ For a patient weighing between 72.1 kg to 72.4 kg use 72 kg.
 
 For a patient weighing between 72.5 kg to 72.9 kg use 73 kg.
 
-5. Etranacogene dezaparvovec must be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection prior to administration.
-2. -Prior to dilution, inspect each of the etranacogene dezaparvovec vials.
-3. o If particulates, cloudiness, or discoloration is visible, do not use the vial(s).
-4. -Gently swirl the vials 3 times (about 10 seconds) to homogenize the etranacogene dezaparvovec suspension.
-
 <div style=\"page-break-after: always\"></div>
 
-- o To avoid foaming, do not shake the etranacogene dezaparvovec vial(s).
-- -Withdraw the volume of the calculated Hemgenix dose (in mL) from the 500 mL-infusion bag(s) with sodium chloride 9 mg/mL (0.9%) solution for injection. The volume to be withdrawn will vary based on the patient body weight.
-- o For patients &lt;120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from one 500 mL-infusion bag.
-- o For patients ≥120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from two 500 mL-infusion bags, by withdrawing half of the volume from each of the two 500 mLinfusion bags.
-- -Withdraw etranacogene dezaparvovec from each vial using a 20 G needle and syringe.
-- -Add subsequently the required etranacogene dezaparvovec dose to the infusion bag(s) to bring the total volume in each infusion bag back to 500 mL.
+5. Etranacogene dezaparvovec must be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection prior to administration.
+- Prior to dilution, inspect each of the etranacogene dezaparvovec vials.
+3. o If particulates, cloudiness, or discoloration is visible, do not use the vial(s).
+- Gently swirl the vials 3 times (about 10 seconds) to homogenize the etranacogene dezaparvovec suspension.
+5. o To avoid foaming, do not shake the etranacogene dezaparvovec vial(s).
+- Withdraw the volume of the calculated Hemgenix dose (in mL) from the 500 mL-infusion bag(s) with sodium chloride 9 mg/mL (0.9%) solution for injection. The volume to be withdrawn will vary based on the patient body weight.
+7. o For patients &lt;120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from one 500 mL-infusion bag.
+8. o For patients ≥120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from two 500 mL-infusion bags, by withdrawing half of the volume from each of the two 500 mLinfusion bags.
+- Withdraw etranacogene dezaparvovec from each vial using a 20 G needle and syringe.
+- Add subsequently the required etranacogene dezaparvovec dose to the infusion bag(s) to bring the total volume in each infusion bag back to 500 mL.
 6. Add the Hemgenix dose directly into the sodium chloride 9 mg/mL (0.9%) solution for injection. Do not add the Hemgenix dose into the air in the infusion bag during diluting.
 7. Gently invert the infusion bag(s) at least 3 times (about 10 seconds) to mix the solution and ensure even distribution of the diluted product.
 8. To avoid foaming:
-- -Do not shake the prepared infusion bag(s).
-- -Do not use filter needles during preparation of etranacogene dezaparvovec.
+- Do not shake the prepared infusion bag(s).
+- Do not use filter needles during preparation of etranacogene dezaparvovec.
 9. To reduce the risk of spillage and/or aerosol formation, the infusion bag(s) should be provided connected to an infusion tubing prefilled with sterile sodium chloride 9 mg/mL (0.9%) solution for injection.
 10. The infusion tubing prefilled with sterile sodium chloride 9 mg/mL (0.9%) solution for injection should be connected to the main intravenous infusion line also primed with sterile sodium chloride 9 mg/mL (0.9%) solution for injection prior to use.
 11. Use only sodium chloride 9 mg/mL (0.9%) solution for injection since the stability of etranacogene dezaparvovec has not been determined with other solutions and diluents.
@@ -1631,12 +1613,11 @@ For a patient weighing between 72.5 kg to 72.9 kg use 73 kg.
 
 ## Measures to take in case of accidental exposure
 
+<div style=\"page-break-after: always\"></div>
+
 In case of accidental exposure local guidance for pharmaceutical waste must be followed.
 
 - o In case of accidental exposure to eyes, immediately flush eyes with water for at least 15 minutes. Do not use alcohol solution.
-
-<div style=\"page-break-after: always\"></div>
-
 - o In case of accidental needle stick exposure, encourage bleeding of the wound and wash injection area well with soap and water.
 - o In case of accidental exposure to skin, the affected area must be thoroughly cleaned with soap and water for at least 15 minutes. Do not use alcohol solution.
 - o In case of accidental inhalation, move the person into fresh air.

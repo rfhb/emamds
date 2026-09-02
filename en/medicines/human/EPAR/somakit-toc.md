@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-04 15:48:00
+document_datetime: 2026-08-28 08:57:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/somakit-toc.html
 document_name: somakit-toc.html
 version: success
-processing_time: 0.1568307
-conversion_datetime: 2026-08-07 13:48:58.783432
+processing_time: 0.1554875
+conversion_datetime: 2026-09-02 22:31:26.217282
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # SomaKit TOC
 
@@ -111,7 +111,7 @@ English (EN) (77.63 KB - PDF)
 
 [View](/en/documents/overview/somakit-toc-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-173)
+[Other languages (22)](#file-language-dropdown-722)
 
 български (BG) (105.74 KB - PDF)
 
@@ -257,167 +257,167 @@ English (EN) (54.47 KB - PDF)
 
 SomaKit TOC : EPAR - Product Information
 
-English (EN) (463.08 KB - PDF)
+English (EN) (449.2 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/en/documents/product-information/somakit-toc-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-852)
+[Other languages (24)](#file-language-dropdown-921)
 
-български (BG) (577 KB - PDF)
+български (BG) (567.12 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/bg/documents/product-information/somakit-toc-epar-product-information_bg.pdf)
 
-español (ES) (495.28 KB - PDF)
+español (ES) (482.18 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/es/documents/product-information/somakit-toc-epar-product-information_es.pdf)
 
-čeština (CS) (523.1 KB - PDF)
+čeština (CS) (511.06 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/cs/documents/product-information/somakit-toc-epar-product-information_cs.pdf)
 
-dansk (DA) (507.74 KB - PDF)
+dansk (DA) (493.45 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/da/documents/product-information/somakit-toc-epar-product-information_da.pdf)
 
-Deutsch (DE) (575.69 KB - PDF)
+Deutsch (DE) (560.24 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/de/documents/product-information/somakit-toc-epar-product-information_de.pdf)
 
-eesti (ET) (480.01 KB - PDF)
+eesti (ET) (475.46 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/et/documents/product-information/somakit-toc-epar-product-information_et.pdf)
 
-ελληνικά (EL) (554.86 KB - PDF)
+ελληνικά (EL) (541.29 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/el/documents/product-information/somakit-toc-epar-product-information_el.pdf)
 
-français (FR) (519.76 KB - PDF)
+français (FR) (515.68 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/fr/documents/product-information/somakit-toc-epar-product-information_fr.pdf)
 
-hrvatski (HR) (519.84 KB - PDF)
+hrvatski (HR) (515.94 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/hr/documents/product-information/somakit-toc-epar-product-information_hr.pdf)
 
-italiano (IT) (496.74 KB - PDF)
+italiano (IT) (492.16 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/it/documents/product-information/somakit-toc-epar-product-information_it.pdf)
 
-latviešu (LV) (522.29 KB - PDF)
+latviešu (LV) (518.72 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/lv/documents/product-information/somakit-toc-epar-product-information_lv.pdf)
 
-lietuvių (LT) (499.95 KB - PDF)
+lietuvių (LT) (496.18 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/lt/documents/product-information/somakit-toc-epar-product-information_lt.pdf)
 
-magyar (HU) (544.51 KB - PDF)
+magyar (HU) (540.09 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/hu/documents/product-information/somakit-toc-epar-product-information_hu.pdf)
 
-Malti (MT) (666.12 KB - PDF)
+Malti (MT) (662.81 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/mt/documents/product-information/somakit-toc-epar-product-information_mt.pdf)
 
-Nederlands (NL) (482.23 KB - PDF)
+Nederlands (NL) (479.98 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/nl/documents/product-information/somakit-toc-epar-product-information_nl.pdf)
 
-polski (PL) (514.26 KB - PDF)
+polski (PL) (510.68 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/pl/documents/product-information/somakit-toc-epar-product-information_pl.pdf)
 
-português (PT) (518.98 KB - PDF)
+português (PT) (512.63 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/pt/documents/product-information/somakit-toc-epar-product-information_pt.pdf)
 
-română (RO) (529.31 KB - PDF)
+română (RO) (525.81 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/ro/documents/product-information/somakit-toc-epar-product-information_ro.pdf)
 
-slovenčina (SK) (544.56 KB - PDF)
+slovenčina (SK) (540.91 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/sk/documents/product-information/somakit-toc-epar-product-information_sk.pdf)
 
-slovenščina (SL) (499.08 KB - PDF)
+slovenščina (SL) (495.24 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/sl/documents/product-information/somakit-toc-epar-product-information_sl.pdf)
 
-suomi (FI) (505.17 KB - PDF)
+suomi (FI) (500.67 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/fi/documents/product-information/somakit-toc-epar-product-information_fi.pdf)
 
-svenska (SV) (478.63 KB - PDF)
+svenska (SV) (473.77 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/sv/documents/product-information/somakit-toc-epar-product-information_sv.pdf)
 
-Íslenska (IS) (481.68 KB - PDF)
+Íslenska (IS) (477.26 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/is/documents/product-information/somakit-toc-epar-product-information_is.pdf)
 
-norsk (NO) (508.21 KB - PDF)
+norsk (NO) (503.33 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 04/08/2026
+**First published:** 20/02/2017 **Last updated:** 28/08/2026
 
 [View](/no/documents/product-information/somakit-toc-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** T/0000355342
+**Latest procedure affecting product information:** N/0000369647
 
-09/07/2026
+27/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -436,7 +436,7 @@ English (EN) (13.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-174)
+[Other languages (24)](#file-language-dropdown-615)
 
 български (BG) (35 KB - PDF)
 
@@ -619,7 +619,7 @@ After radiolabelling with gallium (68Ga) chloride solution, the solution of gall
 - **Marketing authorisation issued**
     - 08/12/2016
 - **Revision**
-    - 23
+    - 24
 
 ## Assessment history
 
@@ -631,9 +631,9 @@ Collapse section
 
 SomaKit TOC : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (131.81 KB - PDF)
+English (EN) (151.48 KB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 04/08/2026
+**First published:** 04/03/2025 **Last updated:** 28/08/2026
 
 [View](/en/documents/procedural-steps-after/somakit-toc-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -713,6 +713,6 @@ English (EN) (76.77 KB - PDF)
 
 **This page was last updated on**
 
-04/08/2026
+28/08/2026
 
 ## Share this page

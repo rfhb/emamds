@@ -1,22 +1,24 @@
 ---
-document_datetime: 2026-06-10 12:26:22
-document_pages: 35
+document_datetime: 2026-08-26 10:04:38
+document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bysumlog-epar-product-information_en.pdf
 document_name: bysumlog-epar-product-information_en.pdf
 version: success
-processing_time: 11.3954641
-conversion_datetime: 2026-06-13 20:22:55.71712
+processing_time: 11.538843
+conversion_datetime: 2026-09-02 21:57:05.242373
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -40,7 +42,7 @@ For a full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection in pre-filled pen (VitaClick).
+Solution for injection in pre-filled pen (VitaClick). Solution for injection
 
 Clear, colourless, aqueous solution.
 
@@ -58,7 +60,7 @@ The dose should be determined by the physician, according to the requirement of 
 
 Insulin lispro may be given shortly before meals. When necessary, insulin lispro can be given soon after meals.
 
-Insulin lispro takes effect rapidly and has a shorter duration of activity (2 to 5 hours) given subcutaneously as compared with soluble insulin. This rapid onset of activity allows an insulin lispro injection (or, in the case of administration by continuous subcutaneous infusion, a Bysumlog bolus) to be given very close to mealtime. The time course of action of any insulin may vary considerably in different individuals or at different times in the same individual. The faster onset of action compared to soluble human insulin is maintained regardless of injection site. As with all insulin preparations, the duration of action of insulin lispro is dependent on dose, site of injection, blood supply, temperature, and physical activity.
+Insulin lispro takes effect rapidly and has a shorter duration of activity (2 to 5 hours) given subcutaneously as compared with soluble insulin. This rapid onset of activity allows an insulin lispro injection (or, in the case of administration  by continuous subcutaneous infusion, a Bysumlog bolus) to be given very close to mealtime. The time course of action of any insulin may vary considerably in different individuals or at different times in the same individual. The faster onset of action compared to soluble human insulin is maintained regardless of injection site. As with all insulin preparations, the duration of action of insulin lispro is dependent on dose, site of injection, blood supply, temperature, and physical activity.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -68,11 +70,11 @@ Insulin lispro can be used in conjunction with a longer-acting insulin or oral s
 
 ## Renal impairment
 
-Insulin requirements may be reduced in the presence of renal impairment.
+Insulin requirements  may be reduced in the presence of renal impairment.
 
 ## Hepatic impairment
 
-Insulin requirements may be reduced in patients with hepatic impairment due to reduced capacity for gluconeogenesis and reduced insulin breakdown; however, in patients with chronic hepatic impairment, an increase in insulin resistance may lead to increased insulin requirements.
+Insulin requirements  may be reduced in patients with hepatic impairment due to reduced capacity for gluconeogenesis and reduced insulin breakdown; however, in patients with chronic hepatic impairment, an increase in insulin resistance may lead to increased insulin requirements.
 
 ## Paediatric population
 
@@ -88,11 +90,11 @@ When administered subcutaneously care should be taken when injecting Bysumlog to
 
 The Bysumlog 100 units/ml pre-filled pen delivers 1-60 units in steps of 1 unit in a single injection. The number of insulin units is shown in the dose window of the pen regardless of strength and no dose conversion should be done when transferring a patient to a new strength or to a pen with a different dose step.
 
-Bysumlog is only available as 100 units/ml solution for injection in pre-filled pen, for subcutaneous use only. Therefore, if an alternate strength or route of administration is required, other insulin lispro medicinal products offering such options should be used. For detailed instructions on the handling of the medicinal product before administration, see section 6.6.
+Bysumlog is only available as 100 units/ml solution for injection in pre-filled pen, for subcutaneous use only. Therefore, if an alternate strength or route of administration  is required, other insulin lispro medicinal products offering such options should be used. For detailed instructions on the handling of the medicinal product before administration, see section 6.6.
 
 ## 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+Hypersensitivity  to the active substance or to any of the excipients listed in section 6.1.
 
 Hypoglycaemia.
 
@@ -102,11 +104,11 @@ Hypoglycaemia.
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered medicinal product should be clearly recorded.
 
-## Transferring a patient to another type or brand of insulin
+## Transferring  a patient to another type or brand of insulin
 
 <div style=\"page-break-after: always\"></div>
 
-Transferring a patient to another type or brand of insulin should be done under strict medical supervision. Changes in strength, brand (manufacturer), type (regular/soluble, NPH/isophane, etc.), species (animal, human, human insulin analogue), and/or method of manufacture (recombinant DNA versus animal source insulin) may result in the need for a change in dose. For fast acting insulins, any patient also on basal insulin must optimise dose of both insulins to obtain glucose control across the whole day, particularly nocturnal/fasting glucose control.
+Transferring  a patient to another type or brand of insulin should be done under strict medical supervision. Changes in strength, brand (manufacturer), type (regular/soluble, NPH/isophane, etc.), species (animal, human, human insulin analogue), and/or method of manufacture (recombinant DNA versus animal source insulin) may result in the need for a change in dose. For fast acting insulins, any patient also on basal insulin must optimise dose of both insulins to obtain glucose control across the whole day, particularly nocturnal/fasting  glucose control.
 
 ## Hypoglycaemia and hyperglycaemia
 
@@ -114,29 +116,29 @@ Conditions which may make the early warning symptoms of hypoglycaemia different 
 
 A few patients who have experienced hypoglycaemic reactions after transfer from animal-source insulin to human insulin have reported that the early warning symptoms of hypoglycaemia were less pronounced or different from those experienced with their previous insulin. Uncorrected hypoglycaemic or hyperglycaemic reactions can cause loss of consciousness, coma, or death.
 
-The use of doses which are inadequate or discontinuation of treatment, especially in insulin-dependent diabetics, may lead to hyperglycaemia and diabetic ketoacidosis; conditions which are potentially lethal.
+The use of doses which are inadequate or discontinuation  of treatment, especially in insulin-dependent diabetics, may lead to hyperglycaemia  and diabetic ketoacidosis;  conditions which are potentially lethal.
 
 ## Injection technique
 
 Patients must be instructed to perform continuous rotation of the injection site to reduce the risk of developing lipodystrophy and cutaneous amyloidosis. There is a potential risk of delayed insulin absorption and worsened glycaemic control following insulin injections at sites with these reactions. A sudden change in the injection site to an unaffected area has been reported to result in hypoglycaemia. Blood glucose monitoring is recommended after the change in the injection site, and dose adjustment of antidiabetic medications may be considered.
 
-## Insulin requirements and dose adjustment
+## Insulin requirements  and dose adjustment
 
-Insulin requirements may be increased during illness or emotional disturbances.
+Insulin requirements  may be increased during illness or emotional disturbances.
 
 Adjustment of dose may also be necessary if patients undertake increased physical activity or change their usual diet. Exercise taken immediately after a meal may increase the risk of hypoglycaemia. A consequence of the pharmacodynamics of rapid-acting insulin analogues is that if hypoglycaemia occurs, it may occur earlier after an injection when compared with soluble human insulin.
 
 ## Combination of Bysumlog with pioglitazone
 
-Cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for development of cardiac heart failure. This should be kept in mind, if treatment with the combination of pioglitazone and Bysumlog is considered. If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema. Pioglitazone should be discontinued, if any deterioration in cardiac symptoms occurs.
+Cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for development of cardiac heart failure. This should be kept in mind, if treatment with the combination  of pioglitazone  and Bysumlog is considered. If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema. Pioglitazone should be discontinued, if any deterioration  in cardiac symptoms occurs.
 
 ## Avoidance of medication errors
 
 Patients must be instructed to always check the insulin label before each injection to avoid accidental mix-ups between Bysumlog and other insulin products.
 
-Patients must visually verify the dialled units on the dose counter of the pen. Therefore, the requirement for patients to self-inject is that they can read the dose counter on the pen. Patients who are blind or have poor vision must be instructed to always get help/assistance from another person who has good vision and is trained in using the insulin device.
-
 <div style=\"page-break-after: always\"></div>
+
+Patients must visually verify the dialled units on the dose counter of the pen. Therefore, the requirement for patients to self-inject is that they can read the dose counter on the pen. Patients who are blind or have poor vision must be instructed to always get help/assistance  from another person who has good vision and is trained in using the insulin device.
 
 ## Excipients
 
@@ -144,9 +146,9 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e., 
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Insulin requirements may be increased by medicinal products with hyperglycaemic activity, such as oral contraceptives, corticosteroids, or thyroid replacement therapy, danazol, beta2 stimulants (such as ritodrine, salbutamol, terbutaline).
+Insulin requirements  may be increased by medicinal products with hyperglycaemic activity, such as oral contraceptives, corticosteroids, or thyroid replacement  therapy, danazol, beta2 stimulants (such as ritodrine, salbutamol, terbutaline).
 
-Insulin requirements may be reduced in the presence of medicinal products with hypoglycaemic activity, such as oral hypoglycaemics, salicylates (for example, acetylsalicylic acid), sulpha antibiotics, certain antidepressants (monoamine oxidase inhibitors, selective serotonin reuptake inhibitors), certain angiotensin converting enzyme inhibitors (captopril, enalapril), angiotensin II receptor blockers, beta-blockers, octreotide or alcohol.
+Insulin requirements  may be reduced in the presence of medicinal products with hypoglycaemic activity, such as oral hypoglycaemics, salicylates (for example, acetylsalicylic  acid), sulpha antibiotics, certain antidepressants (monoamine  oxidase inhibitors, selective serotonin reuptake inhibitors), certain angiotensin converting enzyme inhibitors (captopril, enalapril), angiotensin II receptor blockers, beta-blockers, octreotide or alcohol.
 
 The physician should be consulted when using other medications in addition to Bysumlog (see section 4.4).
 
@@ -156,11 +158,11 @@ The physician should be consulted when using other medications in addition to By
 
 Data on a large number of exposed pregnancies do not indicate any adverse effect of insulin lispro on pregnancy or on the health of the foetus/newborn.
 
-It is essential to maintain good control of the insulin-treated (insulin-dependent or gestational diabetes) patient throughout pregnancy. Insulin requirements usually fall during the first trimester and increase during the second and third trimesters. Patients with diabetes should be advised to inform their doctor if they are pregnant or are contemplating pregnancy. Careful monitoring of glucose control, as well as general health, is essential in pregnant patients with diabetes.
+It is essential to maintain good control of the insulin-treated  (insulin-dependent  or gestational diabetes) patient throughout pregnancy. Insulin requirements usually fall during the first trimester and increase during the second and third trimesters. Patients with diabetes should be advised to inform their doctor if they are pregnant or are contemplating  pregnancy. Careful monitoring of glucose control, as well as general health, is essential in pregnant patients with diabetes.
 
 ## Breast-feeding
 
-Patients with diabetes who are breast-feeding may require adjustments in insulin dose, diet or both.
+Patients with diabetes who are breast-feeding  may require adjustments  in insulin dose, diet or both.
 
 ## Fertility
 
@@ -170,7 +172,7 @@ Insulin lispro did not induce fertility impairment in animal studies (see sectio
 
 The patient's ability to concentrate and react may be impaired as a result of hypoglycaemia. This may constitute a risk in situations where these abilities are of special importance (e.g. driving a car or operating machinery).
 
-Patients should be advised to take precautions to avoid hypoglycaemia whilst driving, this is particularly important in those who have reduced or absent awareness of the warning signs of hypoglycaemia or have frequent episodes of hypoglycaemia. The advisability of driving should be considered in these circumstances.
+Patients should be advised to take precautions  to avoid hypoglycaemia whilst driving, this is particularly important in those who have reduced or absent awareness of the warning signs of hypoglycaemia or have frequent episodes of hypoglycaemia. The advisability of driving should be considered in these circumstances.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -178,22 +180,22 @@ Patients should be advised to take precautions to avoid hypoglycaemia whilst dri
 
 ## Summary of safety profile
 
-Hypoglycaemia is the most frequent undesirable effect of insulin therapy that a patient with diabetes may suffer. Severe hypoglycaemia may lead to loss of consciousness, and in extreme cases, death. No specific frequency for hypoglycaemia is presented, since hypoglycaemia is a result of both the insulin dose and other factors e.g. a patient`s level of diet and exercise.
+Hypoglycaemia is the most frequent undesirable effect of insulin therapy that a patient with diabetes may suffer. Severe hypoglycaemia may lead to loss of consciousness, and in extreme cases, death. No specific frequency for hypoglycaemia  is presented, since hypoglycaemia  is a result of both the insulin dose and other factors e.g. a patient`s level of diet and exercise.
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical trials are listed below as MedDRA preferred term by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to &lt;1/10; uncommon: ≥1/1 000 to &lt;1/100; rare: ≥1/10 000 to &lt;1/1 000; very rare: &lt;1/10 000) and not known (cannot be estimated form the available data).
+The following related adverse reactions from clinical trials are listed below as MedDRA preferred term by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to &lt;1/10; uncommon: ≥ 1/1 000 to &lt;1/100; rare: ≥1/10 000 to &lt;1/1 000; very rare: &lt;1/10 000) and not known (cannot be estimated form the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| MedDRAsystem organ classes             | Very common                            | Common                                 | Uncommon                               | Rare                                   | Very rare                              | Not known                              |
-|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
-| Immune system disorders                | Immune system disorders                | Immune system disorders                | Immune system disorders                | Immune system disorders                | Immune system disorders                | Immune system disorders                |
-| Local allergy                          |                                        | X                                      |                                        |                                        |                                        |                                        |
-| Systemic allergy                       |                                        |                                        |                                        | X                                      |                                        |                                        |
-| Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders |
-| Lipodystrophy                          |                                        |                                        | X                                      |                                        |                                        |                                        |
-| Cutaneous amyloidosis                  |                                        |                                        |                                        |                                        |                                        | X                                      |
+| MedDRA system organ classes            | Very common                            | Common                                 | Uncommon                               | Rare                                   | Very rare                              | Not known   |
+|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|-------------|
+| Immune system disorders                | Immune system disorders                | Immune system disorders                | Immune system disorders                | Immune system disorders                | Immune system disorders                |             |
+| Local allergy                          |                                        | X                                      |                                        |                                        |                                        |             |
+| Systemic allergy                       |                                        |                                        |                                        | X                                      |                                        |             |
+| Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders |             |
+| Lipodystrophy                          |                                        |                                        | X                                      |                                        |                                        |             |
+| Cutaneous amyloidosis                  |                                        |                                        |                                        |                                        |                                        | X           |
 
 ## Description of selected adverse reactions
 
@@ -207,9 +209,9 @@ Systemic allergy, which is rare but potentially more serious, is a generalised a
 
 ## Skin and subcutaneous tissue disorders
 
-Lipodystrophy and cutaneous amyloidosis may occur at the injection site and delay local insulin absorption. Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions (see section 4.4).
-
 <div style=\"page-break-after: always\"></div>
+
+Lipodystrophy and cutaneous amyloidosis may occur at the injection site and delay local insulin absorption. Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions (see section 4.4).
 
 ## Oedema
 
@@ -221,17 +223,17 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Insulins have no specific overdose definitions because serum glucose concentrations are a result of complex interactions between insulin levels, glucose availability and other metabolic processes. Hypoglycaemia may occur as a result of an excess of insulin activity relative to food intake and energy expenditure.
+Insulins have no specific overdose definitions because serum glucose concentrations  are a result of complex interactions between insulin levels, glucose availability and other metabolic processes. Hypoglycaemia may occur as a result of an excess of insulin activity relative to food intake and energy expenditure.
 
 Hypoglycaemia may be associated with listlessness, confusion, palpitations, headache, sweating and vomiting.
 
-Mild hypoglycaemic episodes will respond to oral administration of glucose or other sugar or saccharated products.
+Mild hypoglycaemic episodes will respond to oral administration  of glucose or other sugar or saccharated products.
 
-Correction of moderately severe hypoglycaemia can be accomplished by intramuscular or subcutaneous administration of glucagon, followed by oral carbohydrate when the patient recovers sufficiently. Patients who fail to respond to glucagon must be given glucose solution intravenously.
+Correction of moderately severe hypoglycaemia can be accomplished by intramuscular or subcutaneous administration  of glucagon, followed by oral carbohydrate when the patient recovers sufficiently. Patients who fail to respond to glucagon must be given glucose solution intravenously.
 
-If the patient is comatose, glucagon should be administered intramuscularly or subcutaneously. However, glucose solution must be given intravenously if glucagon is not available or if the patient fails to respond to glucagon. The patient should be given a meal as soon as consciousness is recovered.
+If the patient is comatose, glucagon should be administered  intramuscularly or subcutaneously. However, glucose solution must be given intravenously if glucagon is not available or if the patient fails to respond to glucagon. The patient should be given a meal as soon as consciousness  is recovered.
 
-Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+Sustained carbohydrate intake and observation  may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -249,7 +251,7 @@ The primary activity of insulin lispro is the regulation of glucose metabolism.
 
 In addition, insulins have several anabolic and anti-catabolic actions on a variety of different tissues. Within muscle tissue this includes increasing glycogen, fatty acid, glycerol and protein synthesis and amino acid uptake, while decreasing glycogenolysis, gluconeogenesis, ketogenesis, lipolysis, protein catabolism and amino acid output.
 
-Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allowing it to be given closer to a meal (within zero to 15 minutes of the meal) when compared to soluble insulin (30 to 45 minutes before). Insulin lispro takes effect rapidly and has a shorter duration of activity (2 to 5 hours) when compared to soluble insulin.
+Insulin lispro has a rapid onset of action (approximately  15 minutes), thus allowing it to be given closer to a meal (within zero to 15 minutes of the meal) when compared to soluble insulin (30 to 45 minutes before). Insulin lispro takes effect rapidly and has a shorter duration of activity (2 to 5 hours) when compared to soluble insulin.
 
 Clinical trials in patients with type 1 and type 2 diabetes have demonstrated reduced postprandial hyperglycaemia with insulin lispro compared to soluble human insulin.
 
@@ -257,13 +259,13 @@ As with all insulin preparations, the time course of insulin lispro action may v
 
 <!-- image -->
 
-The above representation reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
+The above representation  reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
 
 Clinical trials have been performed in children (61 patients aged 2 to 11 years) and children and adolescents (481 patients aged 9 to 19 years), comparing insulin lispro to human soluble insulin. The pharmacodynamic profile of insulin lispro in children is similar to that seen in adults.
 
 In patients with type 2 diabetes on maximum doses of sulphonylurea agents, studies have shown that the addition of insulin lispro significantly reduces HbA1c compared to sulphonylurea alone. The reduction of HbA1c would also be expected with other insulin products e.g. soluble or isophane insulins.
 
-Clinical trials in patients with type 1 and type 2 diabetes have demonstrated a reduced number of episodes of nocturnal hypoglycaemia with insulin lispro compared to soluble human insulin. In some studies, reduction of nocturnal hypoglycaemia was associated with increased episodes of daytime hypoglycaemia.
+Clinical trials in patients with type 1 and type 2 diabetes have demonstrated a reduced number of episodes of nocturnal hypoglycaemia with insulin lispro compared to soluble human insulin. In some studies, reduction of nocturnal hypoglycaemia  was associated with increased episodes of daytime hypoglycaemia.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -281,7 +283,7 @@ Insulin lispro maintains more rapid absorption when compared to soluble human in
 
 In in vitro tests, including binding to insulin receptor sites and effects on growing cells, insulin lispro behaved in a manner that closely resembled human insulin. Studies also demonstrate that the dissociation of binding to the insulin receptor of insulin lispro is equivalent to human insulin. Acute, one month and twelve month toxicology studies produced no significant toxicity findings.
 
-Insulin lispro did not induce fertility impairment, embryotoxicity or teratogenicity in animal studies.
+Insulin lispro did not induce fertility impairment, embryotoxicity  or teratogenicity in animal studies.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -315,7 +317,7 @@ For storage conditions of the medicinal product after first use, see section 6.3
 
 The solution is contained in type I borosilicate glass cartridges, sealed with bromobutyl disc seals and plunger heads and are secured with aluminium seals. The 3 ml cartridges are sealed in a disposable pen injector.
 
-Packs of 1 and 5 pre-filled pens. Not all packs may be marketed.
+Packs of 1, 5 or a multipack of 10 (2 packs of 5) pre-filled pens. Not all packs may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -327,7 +329,7 @@ The Bysumlog solution should be clear and colourless. Bysumlog should not be use
 
 ## Preparing a dose
 
-Before using the pre-filled pen, the instructions for use included in the package leaflet must be read carefully. The pre-filled pen has to be used as recommended in the instructions for use. Do not expose to excessive heat or direct sunlight.
+Before using the pre-filled pen, the instructions for use included in the package leaflet must be read carefully. The pre-filled pen has to be used as recommended  in the instructions for use. Do not expose to excessive heat or direct sunlight.
 
 The pre-filled pen should not be stored with the needle attached.
 
@@ -348,27 +350,51 @@ For detailed instructions for preparing the pen and injecting the dose please re
 
 <div style=\"page-break-after: always\"></div>
 
-7. Use of the injection sites should be rotated so that the same is not used more than approximately once a month.
+7.
 
-## Disposal
+Use of the injection sites should be rotated so that the same is not used more than approximately
+
+once a month.
+
+Disposal
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
 
-Gan &amp; Lee Pharmaceuticals Europe GmbH Prinzenallee 11a 40549 Düsseldorf Germany.
+MARKETING AUTHORISATION HOLDER
 
-## 8. MARKETING AUTHORISATION NUMBERS
+Gan &amp; Lee Pharmaceuticals Europe GmbH
 
-EU/1/26/2030/001 EU/1/26/2030/002
+Prinzenallee 11a
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF AUTHORISATION
+40549 Düsseldorf
 
-Date of first authorisation:
+Germany.
 
-## 10. DATE OF REVISION OF THE TEXT
+8.
+
+MARKETING AUTHORISATION NUMBERS
+
+EU/1/26/2030/001
+
+EU/1/26/2030/002
+
+EU/1/26/2030/003
+
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL  OF AUTHORISATION
+
+Date of first authorisation: 06 May 2026
+
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+
+11
 
 <div style=\"page-break-after: always\"></div>
 
@@ -389,7 +415,7 @@ Gan &amp; Lee Pharmaceuticals No.8 Nanfeng West First Road Huoxian Town Tongzhou
 
 Names and addresses of the manufacturers responsible for batch release
 
-IL-CSM Clinical Supplies Management GmbH Marie-Curie-Strasse 8 Loerrach, Baden-Wuerttemberg, 79539, Germany
+Sandoz GmbH Biochemiestr. 10 6250 Kundl Austria
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -410,7 +436,7 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance  or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -426,7 +452,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+OUTER CARTON - Pack of 1 and 5
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -478,7 +504,7 @@ Before opening: Store in a refrigerator.
 
 Do not freeze.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -504,28 +530,214 @@ Bysumlog
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 2D barcode carrying the unique identifier included.
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-LABEL
+OUTER CARTON (with blue box) multipack
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Bysumlog 100 units/ml solution for injection in pre-filled pen. insulin lispro
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One ml solution contains 100 units of insulin lispro (equivalent to 3.5 mg).
+
+Each pre-filled pen contains 300 units of insulin lispro in 3 ml solution.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: glycerol, zinc oxide, anhydrous disodium hydrogen phosphate, metacresol, water for injections, sodium hydroxide and/or hydrochloric acid (for pH adjustment). See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection in pre-filled pen (VitaClick)
+
+Multipack: 10 (2 packs of 5) pens of 3 ml
+
+## 5. METHOD AND ROUTES OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use
+
+OPEN HERE
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the reach and sight of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+During use: Use within 4 weeks. Store below 30 ° C. Do not refrigerate.  Do not expose to excessive heat or direct sunlight.
+
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+Before opening: Store in a refrigerator. Do not freeze.
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Düsseldorf Germany
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/26/2030/003
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Bysumlog
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+INTERMEDIATE CARTON (without blue box) component of a multipack
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Bysumlog 100 units/ml solution for injection in pre-filled pen. insulin lispro
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One ml solution contains 100 units of insulin lispro (equivalent to 3.5 mg).
+
+Each pre-filled pen contains 300 units of insulin lispro in 3 ml solution.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: glycerol, zinc oxide, anhydrous disodium hydrogen phosphate, metacresol, water for injections, sodium hydroxide and/or hydrochloric acid (for pH adjustment). See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection in pre-filled pen (VitaClick)
+
+5 pens of 3 ml. Component of a multipack, can't be sold separately.
+
+## 5. METHOD AND ROUTES OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use
+
+OPEN HERE
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the reach and sight of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+During use: Use within 4 weeks. Store below 30 ° C. Do not refrigerate.  Do not expose to excessive heat or direct sunlight.
+
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+Before opening: Store in a refrigerator.
+
+Do not freeze.
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Düsseldorf
+
+Germany
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/26/2030/003
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Bysumlog
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL                                                              |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Bysumlog 100 units/ml solution for injection insulin lispro Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -537,8 +749,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 ml
 
@@ -551,22 +763,24 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the user
 
 ## Bysumlog 100 units/ml solution for injection in pre-filled pen
 
-insulin lispro Each pre-filled pen delivers 1 - 60 units in steps of 1 units
+insulin lispro
 
-<!-- image -->
+Each pre-filled pen delivers 1 - 60 units in steps of 1 units
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -591,8 +805,8 @@ Bysumlog is suitable for use in adults and children.
 
 ## Do NOT use Bysumlog
 
-- -if you think hypoglycaemia (low blood sugar) is starting. Further in this leaflet it tells you how to deal with mild hypoglycaemia (see section 3: If you use more Bysumlog than you should).
-- -if you are allergic to insulin lispro or any of the other ingredients of this medicine (listed in section 6).
+- if you think hypoglycaemia (low blood sugar) is starting. Further in this leaflet it tells you how to deal with mild hypoglycaemia (see section 3: If you use more Bysumlog than you should).
+- if you are allergic to insulin lispro or any of the other ingredients of this medicine (listed in section 6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -627,7 +841,7 @@ Your insulin needs may change if you are taking
 - octreotide,
 - 'beta2 stimulants' (for example ritodrine, salbutamol or terbutaline),
 - beta-blockers, or
-- some antidepressants (monoamine oxidase inhibitors or selective serotonin reuptake inhibitors),
+- some antidepressants  (monoamine oxidase inhibitors or selective serotonin reuptake inhibitors),
 - danazol,
 - some angiotensin converting enzyme (ACE) inhibitors (for example captopril, enalapril), and
 - angiotensin II receptor blockers.
@@ -659,11 +873,9 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 Always use Bysumlog exactly as your doctor has told you. You should check with your doctor if you are not sure. To prevent the possible transmission of disease, each pen must be used by you only, even if the needle is changed.
 
-The Bysumlog is a disposable pre-filled pen containing 3 ml (300 units, 100 units/ml) of insulin lispro.
+The Bysumlog is a disposable pre-filled pen containing 3 ml (300 units, 100 units/ml) of insulin lispro. One Bysumlog pre-filled pen contains multiple doses of insulin. The Bysumlog dials 1 unit at a time. The number of units are displayed in the dose window, always check this before your injection. You can give from 1 to 60 units in a single injection. If your dose is more than 60 units, you will
 
-One Bysumlog pre-filled pen contains multiple doses of insulin. The Bysumlog dials 1 unit at a time. The number of units are displayed in the dose window, always check this before your injection.
-
-You can give from 1 to 60 units in a single injection. If your dose is more than 60 units, you will need to give yourself more than one injection.
+need to give yourself more than one injection.
 
 ## Dose
 
@@ -709,7 +921,7 @@ If your blood sugar is low (mild hypoglycaemia) , eat glucose tablets, sugar or 
 
 If you use less Bysumlog than you need or are unsure how much you have injected, a high blood sugar may occur. Check your blood sugar.
 
-If hypoglycaemia (low blood sugar) or hyperglycaemia (high blood sugar) is not treated they can be very serious and cause headaches, nausea, vomiting, dehydration, unconsciousness, coma or even death (see A and B in section 4 'Possible Side Effects').
+If hypoglycaemia (low blood sugar) or hyperglycaemia (high blood sugar) is not treated they can be very serious and cause headaches, nausea, vomiting, dehydration, unconsciousness,  coma or even death (see A and B in section 4 'Possible Side Effects').
 
 Three simple steps to avoid hypoglycaemia or hyperglycaemia are:
 
@@ -731,15 +943,15 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Systemic allergy is rare (may affect up to 1 in 1 000 people). The symptoms are as follows:
 
-- rash over the whole body •
+- rash over the whole body ·
 
 blood pressure dropping
 
-- difficulty in breathing •
+- difficulty in breathing ·
 
 heart beating fast
 
-- wheezing •
+- wheezing ·
 
 sweating
 
@@ -747,7 +959,7 @@ If you think you are having this sort of insulin allergy with Bysumlog, tell you
 
 Local allergy is common (may affect up to 1 in 10 people). Some people get redness, swelling or itching around the area of the insulin injection. This usually clears up in anything from a few days to a few weeks. If this happens to you, tell your doctor.
 
-Lipodystrophy is uncommon (may affect up to 1 in 100 people). If you inject insulin too often at the same place, the fatty tissue may either shrink (lipoatrophy) or thicken (lipohypertrophy). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
+Lipodystrophy is uncommon (may affect up to 1 in 100 people). If you inject insulin too often at the same place, the fatty tissue may either shrink (lipoatrophy)  or thicken (lipohypertrophy). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
 
 Oedema (e.g. swelling in arms, ankles; fluid retention) has been reported, particularly at the start of insulin therapy or during a change in therapy to improve control of your blood glucose.
 
@@ -772,19 +984,19 @@ Alcohol and some medicines can affect your blood sugar levels (see section 2).
 
 The first symptoms of low blood sugar usually come on quickly and include the following:
 
-- tiredness •
+- tiredness ·
 
 rapid heartbeat
 
-- nervousness or shakiness •
+- nervousness or shakiness ·
 
 feeling sick
 
-- headache •
+- headache ·
 
 cold sweat
 
-While you are not confident about recognising your warning symptoms, avoid situations, e.g. driving a car, in which you or others would be put at risk by hypoglycaemia.
+While you are not confident about recognising  your warning symptoms, avoid situations, e.g. driving a car, in which you or others would be put at risk by hypoglycaemia.
 
 ## B. Hyperglycaemia and diabetic ketoacidosis
 
@@ -799,15 +1011,15 @@ Hyperglycaemia (too much sugar in the blood) means that your body does not have 
 
 Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
 
-- feeling sleepy •
+- feeling sleepy ·
 
 no appetite
 
-- flushed face •
+- flushed face ·
 
 fruity smell on the breath
 
-- thirst •
+- thirst ·
 
 feeling or being sick
 
@@ -835,24 +1047,22 @@ Medicines should not be disposed of via wastewater or household waste. Ask your 
 
 ## What Bysumlog 100 units/ml pre-filled pen solution for injection contains
 
-- -The active substance is insulin lispro. Each ml of the solution contains 100 units (equivalent to 3.5 mg) of insulin lispro. Each pre-filled pen contains 3 ml of solution for injection, equivalent to 300 units.
-- -The other ingredients are metacresol, glycerol, anhydrous disodium hydrogen phosphate, zinc oxide and water for injection. Sodium hydroxide or hydrochloric acid may have been used to adjust the acidity (see section 2 'Bysumlog contains sodium').
+- The active substance is insulin lispro. Each ml of the solution contains 100 units (equivalent to 3.5 mg) of insulin lispro. Each pre-filled pen contains 3 ml of solution for injection, equivalent to 300 units.
+- The other ingredients are metacresol, glycerol, anhydrous disodium hydrogen phosphate, zinc oxide and water for injection. Sodium hydroxide or hydrochloric acid may have been used to adjust the acidity (see section 2 'Bysumlog contains sodium').
 
 ## What Bysumlog looks like and contents of the pack
 
 Bysumlog 100 units/ml solution for injection in pre-filled pen (VitaClick) is a sterile, clear, colourless, aqueous solution. Each pre-filled pen contains 300 units (3 millilitres).
 
-Packs of 1 and 5 pre-filled pens. Not all pack sizes may be marketed.
+Packs of 1, 5 or a multipack containing 10 (2 packs of 5) pre-filled pens. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Gan &amp; Lee Pharmaceuticals Europe GmbH, Prinzenallee 11a, 40549 Düsseldorf, Germany.
-
 <div style=\"page-break-after: always\"></div>
 
-## Manufacturer
+Gan &amp; Lee Pharmaceuticals Europe GmbH, Prinzenallee 11a, 40549 Düsseldorf, Germany.
 
-IL-CSM Clinical Supplies Management GmbH Marie-Curie-Strasse 8 Loerrach, BadenWuerttemberg, 79539, Germany
+Manufacturer Sandoz GmbH Biochemiestr. 10 6250 Kundl Austria
 
 ## This leaflet was last revised in .
 
@@ -860,9 +1070,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
-## INSTRUCTIONS FOR USE
-
-## Bysumlog solution for injection in pre-filled pen (VitaClick)
+## INSTRUCTIONS FOR USE Bysumlog solution for injection in pre-filled pen (VitaClick)
 
 Bysumlog (VitaClick) is a pre-filled pen for the injection of insulin lispro.
 
@@ -895,7 +1103,7 @@ Figure A Overview Bysumlog pre-filled pen (VitaClick) and needles (example)
 
 ## Need Help?
 
-If you have any questions about Bysumlog or about diabetes, ask your doctor, pharmacist or nurse or call the local representative number on the front of this leaflet.
+If you have any questions about Bysumlog or about diabetes, ask your doctor, pharmacist or nurse or call the local representative  number on the front of this leaflet.
 
 ## Materials needed
 
@@ -908,10 +1116,10 @@ Included in your carton
 Not included in your carton (Obtain separately)
 
 - New sterile needle. Only use needles that are compatible for use with Bysumlog pre-filled pen, which sizes compatible with this pen:
-- -31G, 5 mm
-- -32G, 4-6 mm
-- -33G, 4 mm
-- -34G, 4 mm
+- 31G, 5 mm
+- 32G, 4-6 mm
+- 33G, 4 mm
+- 34G, 4 mm
 - Alcohol swab
 - Sharps disposal container for used needles
 
@@ -937,7 +1145,7 @@ If your Bysumlog is in the refrigerator, take it out 1 to 2 hours before you inj
 
 ## Step 2. Attach a new needle
 
-Always use a new sterile needle for each injection. This helps prevent contamination and potential needle blocks.
+Always use a new sterile needle for each injection. This helps prevent contamination  and potential needle blocks.
 
 - A. Wipe the rubber seal with an alcohol swab.
 - B. Remove the protective seal from a new needle.
@@ -990,6 +1198,8 @@ You can set the dose from 1 to 60 units in steps of 1 unit of insulin (one step 
 - You will hear a click for every single unit dialled. Do not set the dose by counting the number of clicks you hear because you may get an incorrect dose. Even numbers are shown in line with the dose indicator, odd numbers are shown as a line between even numbers (see Figure J ).
 
 <!-- image -->
+
+Figure J
 
 <!-- image -->
 

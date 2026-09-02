@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-12 16:32:00
+document_datetime: 2026-08-25 16:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zutectra.html
 document_name: zutectra.html
 version: success
-processing_time: 0.1441935
-conversion_datetime: 2026-06-13 19:38:06.284949
+processing_time: 0.1557487
+conversion_datetime: 2026-09-02 22:34:43.538444
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Zutectra
 
@@ -118,7 +118,7 @@ English (EN) (75.18 KB - PDF)
 
 [View](/en/documents/overview/zutectra-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-996)
+[Other languages (22)](#file-language-dropdown-516)
 
 български (BG) (104.07 KB - PDF)
 
@@ -256,167 +256,168 @@ svenska (SV) (76 KB - PDF)
 
 Zutectra : EPAR - Product Information
 
-English (EN) (570.63 KB - PDF)
+English (EN) (528.07 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/en/documents/product-information/zutectra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-326)
+[Other languages (24)](#file-language-dropdown-554)
 
-български (BG) (590.93 KB - PDF)
+български (BG) (589.34 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/bg/documents/product-information/zutectra-epar-product-information_bg.pdf)
 
-español (ES) (603.91 KB - PDF)
+español (ES) (602.35 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/es/documents/product-information/zutectra-epar-product-information_es.pdf)
 
-čeština (CS) (533.13 KB - PDF)
+čeština (CS) (583.61 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/cs/documents/product-information/zutectra-epar-product-information_cs.pdf)
 
-dansk (DA) (513.37 KB - PDF)
+dansk (DA) (509.96 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/da/documents/product-information/zutectra-epar-product-information_da.pdf)
 
-Deutsch (DE) (551.61 KB - PDF)
+Deutsch (DE) (506.45 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/de/documents/product-information/zutectra-epar-product-information_de.pdf)
 
-eesti (ET) (502.56 KB - PDF)
+eesti (ET) (501.75 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/et/documents/product-information/zutectra-epar-product-information_et.pdf)
 
-ελληνικά (EL) (612.84 KB - PDF)
+ελληνικά (EL) (615.16 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/el/documents/product-information/zutectra-epar-product-information_el.pdf)
 
-français (FR) (518.91 KB - PDF)
+français (FR) (518.54 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/fr/documents/product-information/zutectra-epar-product-information_fr.pdf)
 
-hrvatski (HR) (530.16 KB - PDF)
+hrvatski (HR) (529.89 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/hr/documents/product-information/zutectra-epar-product-information_hr.pdf)
 
-italiano (IT) (510.05 KB - PDF)
+italiano (IT) (514 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/it/documents/product-information/zutectra-epar-product-information_it.pdf)
 
-latviešu (LV) (529.01 KB - PDF)
+latviešu (LV) (601.72 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/lv/documents/product-information/zutectra-epar-product-information_lv.pdf)
 
-lietuvių (LT) (560.82 KB - PDF)
+lietuvių (LT) (561.94 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/lt/documents/product-information/zutectra-epar-product-information_lt.pdf)
 
-magyar (HU) (609.1 KB - PDF)
+magyar (HU) (608.96 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/hu/documents/product-information/zutectra-epar-product-information_hu.pdf)
 
-Malti (MT) (676.89 KB - PDF)
+Malti (MT) (658.02 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/mt/documents/product-information/zutectra-epar-product-information_mt.pdf)
 
-Nederlands (NL) (525.45 KB - PDF)
+Nederlands (NL) (578.1 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/nl/documents/product-information/zutectra-epar-product-information_nl.pdf)
 
-polski (PL) (573.06 KB - PDF)
+polski (PL) (594.66 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/pl/documents/product-information/zutectra-epar-product-information_pl.pdf)
 
-português (PT) (522.83 KB - PDF)
+português (PT) (539.26 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/pt/documents/product-information/zutectra-epar-product-information_pt.pdf)
 
-română (RO) (613.06 KB - PDF)
+română (RO) (619.13 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/ro/documents/product-information/zutectra-epar-product-information_ro.pdf)
 
-slovenčina (SK) (542.21 KB - PDF)
+slovenčina (SK) (563.4 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/sk/documents/product-information/zutectra-epar-product-information_sk.pdf)
 
-slovenščina (SL) (572.13 KB - PDF)
+slovenščina (SL) (594.1 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/sl/documents/product-information/zutectra-epar-product-information_sl.pdf)
 
-suomi (FI) (490.88 KB - PDF)
+suomi (FI) (488.68 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/fi/documents/product-information/zutectra-epar-product-information_fi.pdf)
 
-svenska (SV) (560.43 KB - PDF)
+svenska (SV) (584.03 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/sv/documents/product-information/zutectra-epar-product-information_sv.pdf)
 
-Íslenska (IS) (492.99 KB - PDF)
+Íslenska (IS) (493.31 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/is/documents/product-information/zutectra-epar-product-information_is.pdf)
 
-norsk (NO) (494.59 KB - PDF)
+norsk (NO) (566.25 KB - PDF)
 
-**First published:** 12/02/2010 **Last updated:** 12/06/2026
+**First published:** 12/02/2010 **Last updated:** 25/08/2026
 
 [View](/no/documents/product-information/zutectra-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000315705
+**Latest procedure affecting product information:** VR/0000361105
 
-21/05/2026
+24/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -434,7 +435,7 @@ English (EN) (77.35 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zutectra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-845)
+[Other languages (24)](#file-language-dropdown-20)
 
 български (BG) (56.81 KB - PDF)
 
@@ -582,27 +583,18 @@ norsk (NO) (61.63 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Zutectra
-
-Active substance
-
-human hepatitis B immunoglobulin
-
-International non-proprietary name (INN) or common name
-
-human hepatitis B immunoglobulin
-
-Therapeutic area (MeSH)
-
-- Immunization, Passive
-- Hepatitis B
-- Liver Transplantation
-
-Anatomical therapeutic chemical (ATC) code
-
-J06BB04
+- **Name of medicine**
+    - Zutectra
+- **Active substance**
+    - human hepatitis B immunoglobulin
+- **International non-proprietary name (INN) or common name**
+    - human hepatitis B immunoglobulin
+- **Therapeutic area (MeSH)**
+        - Immunization, Passive
+        - Hepatitis B
+        - Liver Transplantation
+- **Anatomical therapeutic chemical (ATC) code**
+    - J06BB04
 
 ### Pharmacotherapeutic group
 
@@ -616,23 +608,14 @@ The concomitant use of adequate virostatic agents should be considered as standa
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/001089
-
-Marketing authorisation holder
-
-Biotest Pharma GmbH
-
-Landsteinerstrasse 5 D-63303 Dreieich Germany
-
-Marketing authorisation issued
-
-30/11/2009
-
-Revision
-
-19
+- **EMA product number**
+    - EMEA/H/C/001089
+- **Marketing authorisation holder**
+    - Biotest Pharma GmbH Landsteinerstrasse 5  D-63303 Dreieich  Germany
+- **Marketing authorisation issued**
+    - 30/11/2009
+- **Revision**
+    - 20
 
 ## Assessment history
 
@@ -644,9 +627,9 @@ Collapse section
 
 Zutectra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (157.09 KB - PDF)
+English (EN) (164.89 KB - PDF)
 
-**First published:** 15/10/2025 **Last updated:** 12/06/2026
+**First published:** 15/10/2025 **Last updated:** 25/08/2026
 
 [View](/en/documents/procedural-steps-after/zutectra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -713,6 +696,6 @@ English (EN) (32.43 KB - PDF)
 
 **This page was last updated on**
 
-12/06/2026
+25/08/2026
 
 ## Share this page

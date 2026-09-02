@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-28 13:52:00
+document_datetime: 2026-08-28 14:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/herzuma.html
 document_name: herzuma.html
 version: success
-processing_time: 0.1235352
-conversion_datetime: 2026-01-29 12:22:03.450468
+processing_time: 0.1566066
+conversion_datetime: 2026-09-02 22:27:34.456941
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Herzuma
 
 [RSS](/en/individual-human-medicine.xml/66978)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-trastuzumab Medicine Human Authorised
+trastuzumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -37,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Herzuma](#news-on)
 - [Related content](#related-content-842)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -53,7 +54,7 @@ Expand section
 
 Collapse section
 
-## What is Herzuma and what is it used for?
+### What is Herzuma and what is it used for?
 
 Herzuma is a cancer medicine used to treat the following conditions:
 
@@ -67,7 +68,7 @@ Herzuma is a 'biosimilar medicine'. This means that Herzuma is similar to anothe
 
 Herzuma contains the active substance trastuzumab.
 
-## How is Herzuma used?
+### How is Herzuma used?
 
 Herzuma can only be obtained with a prescription and treatment should be started by a doctor who has experience in the use of cancer medicines.
 
@@ -77,11 +78,11 @@ The infusion may be associated with allergic reactions, so the patient should be
 
 For further information, see the package leaflet.
 
-## How does Herzuma work?
+### How does Herzuma work?
 
 The active substance in Herzuma, trastuzumab, is a monoclonal antibody (a type of protein) that has been designed to recognise and attach to the HER2 protein. By attaching to HER2, trastuzumab activates cells of the immune system, which then kill the tumour cells. Trastuzumab also stops HER2 producing signals that cause the tumour cells to grow.
 
-## What benefits of Herzuma have been shown in studies?
+### What benefits of Herzuma have been shown in studies?
 
 Laboratory studies comparing Herzuma with Herceptin have shown that the active substance in Herzuma is highly similar to that in Herceptin in terms of structure, purity and biological activity. Studies have also shown that giving Herzuma produces similar levels of the active substance in the body to giving Herceptin.
 
@@ -89,7 +90,7 @@ In addition, one main study involving 549 patients with early breast cancer that
 
 Because Herzuma is a biosimilar medicine, the studies on effectiveness and safety of trastuzumab carried out with Herceptin do not all need to be repeated for Herzuma.
 
-## What are the risks associated with Herzuma?
+### What are the risks associated with Herzuma?
 
 The most common or serious side effects with Herzuma are heart problems, reactions related to the Herzuma infusion, reduced levels of blood cells (especially white blood cells), infections and lung problems.
 
@@ -99,17 +100,17 @@ Herzuma must not be used in people who are hypersensitive (allergic) to trastuzu
 
 For the full list of all side effects and restrictions with trastuzumab, see the package leaflet.
 
-## Why is Herzuma approved?
+### Why is Herzuma approved?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Herzuma has been shown to have a comparable quality, safety and effectiveness to Herceptin.
 
 Therefore, the Agency's view was that, as for Herceptin, the benefit outweighs the identified risk and Herzuma should be given marketing authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Herzuma?
+### What measures are being taken to ensure the safe and effective use of Herzuma?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Herzuma have been included in the summary of product characteristics and the package leaflet.
 
-## Other information about Herzuma
+### Other information about Herzuma
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Herzuma on 9 February 2018.
 
@@ -121,275 +122,141 @@ Reference Number: EMA/1108/2018
 
 English (EN) (106.71 KB - PDF)
 
-**First published:** 17/05/2018
-
-**Last updated:** 17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/en/documents/overview/herzuma-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-385)
+[Other languages (22)](#file-language-dropdown-495)
 
 български (BG) (131.3 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/bg/documents/overview/herzuma-epar-summary-public_bg.pdf)
 
 español (ES) (107.11 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/es/documents/overview/herzuma-epar-summary-public_es.pdf)
 
 čeština (CS) (127.44 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/cs/documents/overview/herzuma-epar-summary-public_cs.pdf)
 
 dansk (DA) (106.72 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/da/documents/overview/herzuma-epar-summary-public_da.pdf)
 
 Deutsch (DE) (107.23 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/de/documents/overview/herzuma-epar-summary-public_de.pdf)
 
-eesti keel (ET) (106.01 KB - PDF)
+eesti (ET) (106.01 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/et/documents/overview/herzuma-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (131.96 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/el/documents/overview/herzuma-epar-summary-public_el.pdf)
 
 français (FR) (107.83 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/fr/documents/overview/herzuma-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (122.08 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/hr/documents/overview/herzuma-epar-summary-public_hr.pdf)
 
 italiano (IT) (107.05 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/it/documents/overview/herzuma-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (128.57 KB - PDF)
+latviešu (LV) (128.57 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/lv/documents/overview/herzuma-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (126.01 KB - PDF)
+lietuvių (LT) (126.01 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/lt/documents/overview/herzuma-epar-summary-public_lt.pdf)
 
 magyar (HU) (121.64 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/hu/documents/overview/herzuma-epar-summary-public_hu.pdf)
 
 Malti (MT) (126.47 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/mt/documents/overview/herzuma-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (107.03 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/nl/documents/overview/herzuma-epar-summary-public_nl.pdf)
 
 polski (PL) (126.32 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/pl/documents/overview/herzuma-epar-summary-public_pl.pdf)
 
 português (PT) (106.94 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/pt/documents/overview/herzuma-epar-summary-public_pt.pdf)
 
 română (RO) (123.88 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/ro/documents/overview/herzuma-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (125.1 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/sk/documents/overview/herzuma-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (120.33 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/sl/documents/overview/herzuma-epar-summary-public_sl.pdf)
 
-Suomi (FI) (106.15 KB - PDF)
+suomi (FI) (106.15 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/fi/documents/overview/herzuma-epar-summary-public_fi.pdf)
 
 svenska (SV) (106.21 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/sv/documents/overview/herzuma-epar-summary-public_sv.pdf)
 
@@ -405,311 +272,168 @@ English (EN) (49.74 KB - PDF)
 
 Herzuma : EPAR - Product Information
 
-English (EN) (580.26 KB - PDF)
+English (EN) (762.03 KB - PDF)
 
-**First published:** 17/05/2018
-
-**Last updated:** 28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/en/documents/product-information/herzuma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-778)
+[Other languages (24)](#file-language-dropdown-696)
 
-български (BG) (624.8 KB - PDF)
+български (BG) (892.17 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/bg/documents/product-information/herzuma-epar-product-information_bg.pdf)
 
-español (ES) (592.85 KB - PDF)
+español (ES) (908.2 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/es/documents/product-information/herzuma-epar-product-information_es.pdf)
 
-čeština (CS) (672.45 KB - PDF)
+čeština (CS) (951.8 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/cs/documents/product-information/herzuma-epar-product-information_cs.pdf)
 
-dansk (DA) (577.08 KB - PDF)
+dansk (DA) (850.71 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/da/documents/product-information/herzuma-epar-product-information_da.pdf)
 
-Deutsch (DE) (684.68 KB - PDF)
+Deutsch (DE) (938.67 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/de/documents/product-information/herzuma-epar-product-information_de.pdf)
 
-eesti keel (ET) (552.98 KB - PDF)
+eesti (ET) (818.34 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/et/documents/product-information/herzuma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (640.43 KB - PDF)
+ελληνικά (EL) (913.35 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/el/documents/product-information/herzuma-epar-product-information_el.pdf)
 
-français (FR) (606.75 KB - PDF)
+français (FR) (900.78 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/fr/documents/product-information/herzuma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (595.84 KB - PDF)
+hrvatski (HR) (865.68 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/hr/documents/product-information/herzuma-epar-product-information_hr.pdf)
 
-íslenska (IS) (558.86 KB - PDF)
+italiano (IT) (867.51 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
-
-[View](/is/documents/product-information/herzuma-epar-product-information_is.pdf)
-
-italiano (IT) (593.52 KB - PDF)
-
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/it/documents/product-information/herzuma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (637.6 KB - PDF)
+latviešu (LV) (918.45 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/lv/documents/product-information/herzuma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (659.77 KB - PDF)
+lietuvių (LT) (1012.78 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/lt/documents/product-information/herzuma-epar-product-information_lt.pdf)
 
-magyar (HU) (622.78 KB - PDF)
+magyar (HU) (897.17 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/hu/documents/product-information/herzuma-epar-product-information_hu.pdf)
 
-Malti (MT) (754.79 KB - PDF)
+Malti (MT) (1.01 MB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/mt/documents/product-information/herzuma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (615.24 KB - PDF)
+Nederlands (NL) (897.45 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/nl/documents/product-information/herzuma-epar-product-information_nl.pdf)
 
-norsk (NO) (553.65 KB - PDF)
+polski (PL) (885.53 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
-
-[View](/no/documents/product-information/herzuma-epar-product-information_no.pdf)
-
-polski (PL) (613.11 KB - PDF)
-
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/pl/documents/product-information/herzuma-epar-product-information_pl.pdf)
 
-português (PT) (578.37 KB - PDF)
+português (PT) (857.25 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/pt/documents/product-information/herzuma-epar-product-information_pt.pdf)
 
-română (RO) (605.38 KB - PDF)
+română (RO) (876.13 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/ro/documents/product-information/herzuma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (644.29 KB - PDF)
+slovenčina (SK) (917.99 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/sk/documents/product-information/herzuma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (633.03 KB - PDF)
+slovenščina (SL) (900.72 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/sl/documents/product-information/herzuma-epar-product-information_sl.pdf)
 
-Suomi (FI) (589.3 KB - PDF)
+suomi (FI) (863.89 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/fi/documents/product-information/herzuma-epar-product-information_fi.pdf)
 
-svenska (SV) (577.39 KB - PDF)
+svenska (SV) (896.38 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-28/01/2026
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
 
 [View](/sv/documents/product-information/herzuma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000324305 26/01/2026
+Íslenska (IS) (831.19 KB - PDF)
+
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
+
+[View](/is/documents/product-information/herzuma-epar-product-information_is.pdf)
+
+norsk (NO) (823.14 KB - PDF)
+
+**First published:** 17/05/2018 **Last updated:** 28/08/2026
+
+[View](/no/documents/product-information/herzuma-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** N/0000324305
+
+26/01/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -723,310 +447,169 @@ Herzuma : EPAR - All Authorised presentations
 
 English (EN) (43.02 KB - PDF)
 
-**First published:** 17/05/2018
-
-**Last updated:** 11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/en/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-580)
+[Other languages (24)](#file-language-dropdown-459)
 
 български (BG) (50.57 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/bg/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (42.82 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/es/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (48.47 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/cs/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (45.9 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/da/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (45.99 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/de/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (41.34 KB - PDF)
+eesti (ET) (41.34 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/et/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (48.38 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/el/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (43.45 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/fr/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (45.96 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/hr/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (45.91 KB - PDF)
-
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
-
-[View](/is/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (41.96 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/it/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (46.98 KB - PDF)
+latviešu (LV) (46.98 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/lv/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (46.88 KB - PDF)
+lietuvių (LT) (46.88 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/lt/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (46.26 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/hu/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (48.45 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/mt/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (42.9 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/nl/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (45.36 KB - PDF)
-
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
-
-[View](/no/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (48.43 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/pl/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (44.74 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/pt/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (45.56 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/ro/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (47.75 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/sk/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (45.22 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/sl/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (41.86 KB - PDF)
+suomi (FI) (41.86 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/fi/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (43.51 KB - PDF)
 
-**First published:**
-
-17/05/2018
-
-**Last updated:**
-
-11/04/2025
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
 
 [View](/sv/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (45.91 KB - PDF)
+
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
+
+[View](/is/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (45.36 KB - PDF)
+
+**First published:** 17/05/2018 **Last updated:** 11/04/2025
+
+[View](/no/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Herzuma Active substance trastuzumab International non-proprietary name (INN) or common name trastuzumab Therapeutic area (MeSH)
-
-- Stomach Neoplasms
-- Breast Neoplasms
-
-Anatomical therapeutic chemical (ATC) code L01FD01
+- **Name of medicine**
+    - Herzuma
+- **Active substance**
+    - trastuzumab
+- **International non-proprietary name (INN) or common name**
+    - trastuzumab
+- **Therapeutic area (MeSH)**
+        - Stomach Neoplasms
+        - Breast Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FD01
 
 ### Pharmacotherapeutic group
 
@@ -1064,19 +647,18 @@ Herzuma should only be used in patients with metastatic gastric cancer (MGC) who
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002575
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Celltrion Healthcare Hungary Kft.
-
-1062 Budapest
-
-Opinion adopted 14/12/2017 Marketing authorisation issued 09/02/2018 Revision 26
+- **EMA product number**
+    - EMEA/H/C/002575
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Celltrion Healthcare Hungary Kft. 1062 Budapest  Váci út 1-3. WestEnd Office Building B torony  Hungary
+- **Opinion adopted**
+    - 14/12/2017
+- **Marketing authorisation issued**
+    - 09/02/2018
+- **Revision**
+    - 26
 
 ## Assessment history
 
@@ -1084,15 +666,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Herzuma : EPAR - Procedural steps taken and scientific information after authorisation
 
 English (EN) (156.14 KB - PDF)
 
-**First published:** 26/02/2025
-
-**Last updated:** 28/01/2026
+**First published:** 26/02/2025 **Last updated:** 28/01/2026
 
 [View](/en/documents/procedural-steps-after/herzuma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1100,57 +680,44 @@ Herzuma : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (244.66 KB - PDF)
 
-**First published:** 28/05/2018
-
-**Last updated:** 07/01/2026
+**First published:** 28/05/2018 **Last updated:** 07/01/2026
 
 [View](/en/documents/procedural-steps-after/herzuma-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Herzuma : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/44005/2018
+Adopted Reference Number: EMA/44005/2018
 
 English (EN) (2.79 MB - PDF)
 
-**First published:** 17/05/2018
-
-**Last updated:** 17/05/2018
+**First published:** 17/05/2018 **Last updated:** 17/05/2018
 
 [View](/en/documents/assessment-report/herzuma-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Herzuma
 
-Adopted
-
-Reference Number: EMA/CHMP/774782/2017
+Adopted Reference Number: EMA/CHMP/774782/2017
 
 English (EN) (72.66 KB - PDF)
 
-**First published:** 15/12/2017
-
-**Last updated:** 15/12/2017
+**First published:** 15/12/2017 **Last updated:** 15/12/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-herzuma_en.pdf)
 
-#### News on Herzuma
+## News on Herzuma
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 December 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-december-2017) 15/12/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 December 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-december-2017)
 
-#### Related content
+15/12/2017
+
+## Related content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 
-#### Topics
+**This page was last updated on**
 
-- [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 28/01/2026
+28/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

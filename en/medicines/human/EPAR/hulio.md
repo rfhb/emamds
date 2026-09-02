@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-30 09:52:00
+document_datetime: 2026-08-27 15:54:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hulio.html
 document_name: hulio.html
 version: success
-processing_time: 0.1196567
-conversion_datetime: 2026-08-01 11:37:10.109915
+processing_time: 0.1617994
+conversion_datetime: 2026-09-02 22:28:05.955576
 docling_version:
-  docling-serve: 1.29.0
-  docling-jobkit: 3.2.0
-  docling: 2.117.0
-  docling-core: 2.89.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Hulio
 
@@ -126,7 +126,7 @@ English (EN) (83.04 KB - PDF)
 
 [View](/en/documents/overview/hulio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-366)
+[Other languages (22)](#file-language-dropdown-163)
 
 български (BG) (117.84 KB - PDF)
 
@@ -260,13 +260,13 @@ svenska (SV) (83.1 KB - PDF)
 
 [View](/sv/documents/overview/hulio-epar-medicine-overview_sv.pdf)
 
-Hulio : EPAR - Risk-management-plan summary
+Hulio : EPAR - Risk management plan
 
-English (EN) (191.2 KB - PDF)
+English (EN) (1.43 MB - PDF)
 
-**First published:** 21/09/2018 **Last updated:** 05/08/2022
+**First published:** 21/09/2018 **Last updated:** 27/08/2026
 
-[View](/en/documents/rmp-summary/hulio-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/hulio-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -278,7 +278,7 @@ English (EN) (3.93 MB - PDF)
 
 [View](/en/documents/product-information/hulio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-604)
+[Other languages (24)](#file-language-dropdown-181)
 
 български (BG) (4.1 MB - PDF)
 
@@ -432,7 +432,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -657,7 +657,7 @@ Hulio is indicated for the treatment of paediatric chronic non-infectious anteri
 - **Marketing authorisation issued**
     - 17/09/2018
 - **Revision**
-    - 20
+    - 21
 
 ## Assessment history
 
@@ -669,9 +669,9 @@ Collapse section
 
 Hulio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.83 KB - PDF)
+English (EN) (155.59 KB - PDF)
 
-**First published:** 09/04/2025 **Last updated:** 30/07/2026
+**First published:** 09/04/2025 **Last updated:** 27/08/2026
 
 [View](/en/documents/procedural-steps-after/hulio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -717,6 +717,6 @@ English (EN) (97.6 KB - PDF)
 
 **This page was last updated on**
 
-30/07/2026
+27/08/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-04 09:30:29
+document_datetime: 2026-08-28 08:55:56
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/somakit-toc-epar-product-information_en.pdf
 document_name: somakit-toc-epar-product-information_en.pdf
 version: success
-processing_time: 6.455897
-conversion_datetime: 2026-08-07 14:21:32.069304
+processing_time: 8.1664103
+conversion_datetime: 2026-09-02 22:07:04.127774
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -38,8 +38,8 @@ For the full list of excipients, see section 6.1.
 
 Kit for radiopharmaceutical preparation containing:
 
-- -Powder for solution for injection: the vial contains a white lyophilised powder.
-- -Reaction buffer: the vial contains a clear, colourless solution.
+- Powder for solution for injection: the vial contains a white lyophilised powder.
+- Reaction buffer: the vial contains a clear, colourless solution.
 
 For radiolabelling with gallium ( 68 Ga) chloride solution.
 
@@ -81,7 +81,7 @@ SomaKit TOC is for intravenous use and for single use only.
 
 This medicinal product should be radiolabelled before administration to the patient.
 
-## The activity of gallium ( 68 Ga) edotreotide must be measured with an activimeter immediately prior to injection.
+The activity of gallium ( 68 Ga) edotreotide must be measured with an activimeter immediately prior to injection.
 
 The injection of gallium ( 68 Ga) edotreotide must be administered intravenously in order to avoid local extravasation resulting in inadvertent radiation to the patient and imaging artefacts.
 
@@ -153,7 +153,7 @@ Close contact with infants and pregnant women should be restricted during the fi
 
 ## Specific warnings
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium - free'.
 
 Due to the acidic pH of the radiolabelled gallium ( 68 Ga) edotreotide solution, accidental extravasation may cause local irritation. In case of extravasation, the injection must be stopped, the site of injection must be changed and the affected area should be irrigated with sodium chloride solution.
 
@@ -279,9 +279,9 @@ Non-clinical data did not reveal any special hazard for gallium ( 68 Ga) edotreo
 
 Local tolerance assessment resulted in mild to moderate inflammation signs in the perivascular region of some animals which can be attributed to the acidic pH of the solution.
 
-No studies on fertility, embryology, mutagenicity or long-term carcinogenicity have been conducted.
-
 <div style=\"page-break-after: always\"></div>
+
+No studies on fertility, embryology, mutagenicity or long-term carcinogenicity have been conducted.
 
 Regarding the novel excipient (1,10-phenanthroline), during the toxicity study conducted with the kit formulation of SomaKit TOC including 1,10-phenanthroline at a dose 400-fold higher than the human dose, no toxicity signs were observed.
 
@@ -295,7 +295,7 @@ Genotoxicity studies on 1,10-phenanthroline available in the literature show neg
 
 1,10-phenanthroline Gentisic acid Mannitol (E421)
 
-## Buffer
+Buffer
 
 Formic acid Sodium hydroxide (E524) Water for injections
 
@@ -378,9 +378,7 @@ EU/1/16/1141/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 08 December 2016
-
-Date of latest renewal: 12 November 2021
+Date of first authorisation: 08 December 2016 Date of latest renewal: 12 November 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -430,7 +428,7 @@ For an administered activity of 200 MBq the typical radiation absorbed dose to t
 
 ## 12. INSTRUCTIONS FOR PREPARATION OF RADIOPHARMACEUTICALS
 
-## Radiation safety -Medicinal product handling
+## Radiation safety - Medicinal product handling
 
 Use waterproof gloves, effective radiation shielding, and appropriate safety measures when handling the radiolabelled SomaKit TOC to avoid unnecessary radiation exposure to the patient, occupational workers, clinical personnel, and other persons.
 
@@ -457,7 +455,7 @@ Refer to the Summary of Product Characteristics of the particular generator for 
 
 The gallium ( 68 Ga) edotreotide solution for intravenous injection must be prepared according to aseptic procedure, local regulation and the following instructions.
 
-Reconstitution and radiolabelling with GalliaPharm generator:
+## Reconstitution and radiolabelling with GalliaPharm generator:
 
 - a. If possible, for more convenience in the preparation of radiolabelled SomaKit TOC, the heating platform should be placed right beside the generator.
 - b. Set the temperature of the shielded dry bath with holes of 25 mm diameter at 95°C. Using a thermometer, ensure the temperature reaches the set point and stabilises before starting the reconstitution procedure.
@@ -653,8 +651,8 @@ See leaflet for further information.
 
 Each pack contains:
 
-- -1 vial of powder for solution for injection
-- -1 vial of reaction buffer
+- 1 vial of powder for solution for injection
+- 1 vial of reaction buffer
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -694,15 +692,7 @@ Radioactive waste must be disposed of in accordance with relevant national regul
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -713,7 +703,6 @@ EU/1/16/1141/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -764,12 +753,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| BUFFER VIAL                                                        |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS BUFFER VIAL
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 SomaKit TOC Reaction buffer
 
@@ -788,8 +774,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1 mL
 
@@ -846,9 +831,9 @@ Do not store above 25ºC.
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your nuclear medicine doctor who will supervise the procedure.
-- -If you get any side effects, talk to your nuclear medicine doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your nuclear medicine doctor who will supervise the procedure.
+- If you get any side effects, talk to your nuclear medicine doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -871,24 +856,24 @@ The use of SomaKit TOC involves exposure to small amounts of radioactivity. Your
 
 ## SomaKit TOC must not be used
 
-- -if you are allergic to edotreotide or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to edotreotide or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your nuclear medicine doctor before you are given SomaKit TOC:
 
-- -if you experienced any signs of allergic reaction (listed in section 4) after previous administration of SomaKit TOC;
-- -if you have kidney or liver problems (renal or hepatic disease);
-- -if you are under 18 years of age;
-- -if you have signs of dehydration before and after the examination;
+- if you experienced any signs of allergic reaction (listed in section 4) after previous administration of SomaKit TOC;
+- if you have kidney or liver problems (renal or hepatic disease);
+- if you are under 18 years of age;
+- if you have signs of dehydration before and after the examination;
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you have other medical conditions, such as high level of cortisol in the body (Cushing syndrome), inflammation, thyroid disease, other type of tumour (of pituitary gland, lung, brain, breast, immune system, thyroid, adrenal gland or others) or disease of the spleen (including previous trauma or surgery involving the spleen). Such conditions may be visible and affect the interpretation of the images. Your doctor may therefore perform additional scans and tests to confirm the findings on gallium ( 68 Ga) edotreotide imaging.
-- -if you have been recently vaccinated. Enlarged lymph nodes due to vaccination may become visible during gallium ( 68 Ga) edotreotide imaging;
-- -if you have been taking other medicines, such as somatostatin analogues and glucocorticoids, which may interact with SomaKit TOC;
-- -if you are pregnant or believe you may be pregnant;
-- -if you are breast-feeding.
+- if you have other medical conditions, such as high level of cortisol in the body (Cushing syndrome), inflammation, thyroid disease, other type of tumour (of pituitary gland, lung, brain, breast, immune system, thyroid, adrenal gland or others) or disease of the spleen (including previous trauma or surgery involving the spleen). Such conditions may be visible and affect the interpretation of the images. Your doctor may therefore perform additional scans and tests to confirm the findings on gallium ( 68 Ga) edotreotide imaging.
+- if you have been recently vaccinated. Enlarged lymph nodes due to vaccination may become visible during gallium ( 68 Ga) edotreotide imaging;
+- if you have been taking other medicines, such as somatostatin analogues and glucocorticoids, which may interact with SomaKit TOC;
+- if you are pregnant or believe you may be pregnant;
+- if you are breast-feeding.
 
 Your nuclear medicine doctor will inform you if you need to take any other special precaution before or after using SomaKit TOC.
 
@@ -944,8 +929,8 @@ Your nuclear medicine doctor will inform you about the usual duration of the pro
 
 ## After administration of SomaKit TOC, you should:
 
-- -avoid any close contact with young children and pregnant women for 12 hours after the injection
-- -urinate frequently in order to eliminate the medicine from your body.
+- avoid any close contact with young children and pregnant women for 12 hours after the injection
+- urinate frequently in order to eliminate the medicine from your body.
 
 The nuclear medicine doctor will inform you if you need to take any special precautions after receiving this medicine. Contact your nuclear medicine doctor if you have any questions.
 
@@ -963,7 +948,7 @@ Although no side effects have been reported, a potential risk of allergic reacti
 
 ## Not known (frequency cannot be estimated from the available data):
 
-- -Stinging near the injection site
+- Stinging near the injection site
 
 The spleen is an organ located in the abdomen (belly). Some people are born with an extra spleen (an accessory spleen). Extra spleen tissue may also be found in the abdomen following surgery or trauma to the spleen (this is known as splenosis). Gallium ( 68 Ga) edotreotide may make an accessory spleen or splenosis visible during medical imaging. There have been reports where this has been mistaken for a tumour. Your doctor may therefore perform additional scans and tests to confirm the findings on gallium ( 68 Ga) edotreotide imaging (see section 2).
 
@@ -999,8 +984,8 @@ Do not throw away any medicines via wastewater or household waste. Wait for the 
 
 ## What SomaKit TOC contains
 
-- -The active substance is edotreotide. Each vial of powder for solution for injection contains 40 micrograms of edotreotide.
-- -The other ingredients are: 1,10-phenanthroline, gentisic acid, mannitol, formic acid, sodium hydroxide, water for injections.
+- The active substance is edotreotide. Each vial of powder for solution for injection contains 40 micrograms of edotreotide.
+- The other ingredients are: 1,10-phenanthroline, gentisic acid, mannitol, formic acid, sodium hydroxide, water for injections.
 
 After radiolabelling, the solution obtained also contains hydrochloric acid.
 
@@ -1008,8 +993,8 @@ After radiolabelling, the solution obtained also contains hydrochloric acid.
 
 SomaKit TOC is a kit for radiopharmaceutical preparation containing:
 
-- -A glass vial with black flip-off cap containing a white powder.
-- -A cyclic olefin polymer vial with yellow flip-off cap containing a clear and colourless solution.
+- A glass vial with black flip-off cap containing a white powder.
+- A cyclic olefin polymer vial with yellow flip-off cap containing a clear and colourless solution.
 
 The radioactive substance is not part of the kit and should be added during the preparation steps before injection.
 
@@ -1031,10 +1016,6 @@ Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
 
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
 ## България
 
 Novartis Bulgaria EOOD
@@ -1043,35 +1024,17 @@ Novartis Bulgaria EOOD
 
 : +359 2 489 98 28
 
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
 ## Česká republika
 
 Novartis s.r.o.
 
 Tel: +420 225 775 111
 
-## Magyarország
-
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
-
 ## Danmark
 
-Novartis Sverige AB
+Novartis Healthcare A/S
 
-Tlf.: +46 8 732 32 00
-
-## Malta
-
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
+Tlf.: +45 39 16 84 00
 
 ## Deutschland
 
@@ -1079,23 +1042,11 @@ Novartis Pharma GmbH
 
 Tel: +49 911 273 0
 
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
-
-## Norge
-
-Novartis Sverige AB
-
-Tlf: +46 8 732 32 00
 
 ## Ελλάδα
 
@@ -1111,29 +1062,63 @@ Novartis (Hellas) A.E.B.E.
 
 Τηλ: +30 210 281 17 12
 
-## Österreich
-
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
-
 ## España
 
 Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
 
-## Polska
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
-
 ## France
 
 Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
+
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## Portugal
 
@@ -1145,35 +1130,17 @@ Novartis Hrvatska d.o.o.
 
 Tel. +385 1 6274 220
 
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
-
 ## Ireland
 
 Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
 ## Ísland
 
-Novartis Sverige AB
+Vistor ehf.
 
-Sími: +46 8 732 32 00
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
+Sími: +354 535 7000
 
 ## Italia
 
@@ -1181,25 +1148,37 @@ Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
-## Suomi/Finland
-
-Novartis Sverige AB
-
-Puh/Tel: +46 8 732 32 00
-
 ## Κύπρος
-
-ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
-
-Τηλ
-
-: +30 22920 63900
-
-ή
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+## Latvija
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
 
 ## Sverige
 
@@ -1208,8 +1187,6 @@ Novartis Sverige AB
 Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
-
-## Latvija
 
 SIA Novartis Baltics
 

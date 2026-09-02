@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-12 16:25:00
+document_datetime: 2026-08-26 13:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comirnaty.html
 document_name: comirnaty.html
 version: success
-processing_time: 0.3085945
-conversion_datetime: 2026-08-13 19:54:04.550144
+processing_time: 0.5421577
+conversion_datetime: 2026-09-02 22:26:12.958084
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.119.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.12.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Comirnaty
 
@@ -227,7 +227,7 @@ English (EN) (165.99 KB - PDF)
 
 [View](/en/documents/overview/comirnaty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-766)
+[Other languages (22)](#file-language-dropdown-592)
 
 български (BG) (204.05 KB - PDF)
 
@@ -379,7 +379,7 @@ English (EN) (2.34 MB - PDF)
 
 [View](/en/documents/product-information/comirnaty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-349)
+[Other languages (24)](#file-language-dropdown-533)
 
 български (BG) (5.09 MB - PDF)
 
@@ -533,7 +533,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -552,7 +552,7 @@ English (EN) (138.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-31)
+[Other languages (24)](#file-language-dropdown-676)
 
 български (BG) (145.79 KB - PDF)
 
@@ -1776,51 +1776,19 @@ English (EN) (8.39 MB - ZIP)
 
 Comirnaty : 3.2.P drug product
 
-English (EN) (76.52 MB - ZIP)
+English (EN) (93.47 MB - ZIP)
 
-**First published:** 20/08/2025 **Last updated:** 19/12/2025
+**First published:** 20/08/2025 **Last updated:** 26/08/2026
 
 [View](/en/documents/other/comirnaty-32p-drug-product_en.zip)
 
 Comirnaty : 3.2.S Drug substance
 
-English (EN) (53.52 MB - ZIP)
+English (EN) (103.13 MB - ZIP)
 
-**First published:** 02/09/2025 **Last updated:** 19/12/2025
+**First published:** 02/09/2025 **Last updated:** 26/08/2026
 
 [View](/en/documents/other/comirnaty-32s-drug-substance_en.zip)
-
-Comirnaty : 3.2.S.2.2 description of manufacturing process
-
-English (EN) (7.72 MB - ZIP)
-
-**First published:** 17/07/2025 **Last updated:** 25/07/2025
-
-[View](/en/documents/other/comirnaty-32s22-description-manufacturing-process_en.zip)
-
-Comirnaty : 3.2.S.2.3 control of materials
-
-English (EN) (6 MB - ZIP)
-
-**First published:** 17/07/2025 **Last updated:** 25/07/2025
-
-[View](/en/documents/other/comirnaty-32s23-control-materials_en.zip)
-
-Comirnaty : 3.2.S.2.4 controls of critical steps and intermediates
-
-English (EN) (7.07 MB - ZIP)
-
-**First published:** 17/07/2025
-
-[View](/en/documents/other/comirnaty-32s24-controls-critical-steps-intermediates_en.zip)
-
-Comirnaty : 3.2.S.2.6 manufacturing process development
-
-English (EN) (10.71 MB - ZIP)
-
-**First published:** 17/07/2025
-
-[View](/en/documents/other/comirnaty-32s26-manufacturing-process-development_en.zip)
 
 **Module 4.2 study reports**
 
@@ -1876,6 +1844,7 @@ English (EN) (813.79 KB - PDF)
 
 - [EMA/PE/0000221583 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000221583)
 - [Comirnaty / Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/comirnaty-spikevax-previously-covid-19-vaccine-moderna)
+- [DARWIN EU® Effectiveness of COVID-19 vaccines on severe COVID-19 and post acute outcomes of SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/107616)
 - [Interim Analysis of Myocarditis and Pericarditis Associated with COMIRNATY in Persons Less Than 21 Years of Age - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000600)
 - [Non-Interventional Postmarketing Safety Study to Evaluate the COMIRNATY 2024-2025 Formula (monovalent KP.2) in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000476)
 - [TARGET-EU: Effectiveness of BNT162b2 mRNA COVID-19 vaccine in healthy individuals or with stable pre-existing medical conditions against SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000995)
@@ -1896,7 +1865,6 @@ English (EN) (813.79 KB - PDF)
 - [Vaccine Effectiveness, Burden and Impact Studies (VEBIS) - Vaccine effectiveness and the impact of COVID-19 vaccines through routinely collected exposure and outcome data using health registries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000101)
 - [Vaccine Effectiveness, Burden and Impact Studies (VEBIS) - Vaccine effectiveness hospital admission with Severe Acute Respiratory Infection - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000099)
 - [A Non-Interventional Post-Authorization Safety Study of Pfizer-BioNTech Bivalent COVID-19 Vaccine in the United States (US) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000314)
-- [DARWIN EU® Effectiveness of COVID-19 vaccines on severe COVID-19 and post acute outcomes of SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/107616)
 - [Incidence rates of pemphigus and pemphigoid following COVID-19 vaccines - post-authorisation study](https://catalogues.ema.europa.eu/study/50716)
 - [Effectiveness of monovalent XBB.1.5-containing Covid-19 mRNA vaccines in the Nordic countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000043)
 - [A Non-Interventional Post-Authorization Safety Study (PASS) for Active Safety Surveillance of Recipients of the Pfizer-BioNTech COVID-19 mRNA vaccine in the EU - post-authorisation study](https://catalogues.ema.europa.eu/study/47010)
@@ -1904,6 +1872,6 @@ English (EN) (813.79 KB - PDF)
 
 **This page was last updated on**
 
-12/08/2026
+26/08/2026
 
 ## Share this page

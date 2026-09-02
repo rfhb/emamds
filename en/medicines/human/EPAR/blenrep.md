@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-08 16:28:00
+document_datetime: 2026-08-26 17:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/blenrep.html
 document_name: blenrep.html
 version: success
-processing_time: 0.0793355
-conversion_datetime: 2026-04-09 12:37:53.29299
+processing_time: 0.1520996
+conversion_datetime: 2026-09-02 22:25:22.811562
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Blenrep
 
@@ -56,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Blenrep used?
+### How is Blenrep used?
 
 Blenrep can only be obtained with a prescription, and treatment should be started and supervised by a doctor experienced in the treatment of multiple myeloma.
 
@@ -66,11 +66,11 @@ Because Blenrep could damage the cornea (the transparent layer in front of the e
 
 For more information about using Blenrep, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Blenrep work?
+### How does Blenrep work?
 
 The active substance in Blenrep, belantamab mafodotin, consists of a monoclonal antibody (a type of protein) attached to a cytotoxic (cell-killing) molecule. The antibody attaches to a protein called B-cell maturation antigen (BCMA), which is present on the surface of abnormal immature plasma cells (myeloma cells). When Blenrep is given to the patient, the antibody attaches to BCMA on the myeloma cells and delivers the cytotoxic molecule into the cells. Once inside, the cytotoxic molecule kills the cells by interfering with their ability to divide and grow. Blenrep also stimulates the immune system (the body's natural defences) to attack the myeloma cells, and these actions combined are expected to slow down progression of the disease.
 
-## What benefits of Blenrep have been shown in studies?
+### What benefits of Blenrep have been shown in studies?
 
 Two main studies showed that Blenrep is effective at delaying progression of the disease in patients with relapsed or refractory multiple myeloma who have received at least one prior treatment.
 
@@ -78,7 +78,7 @@ One study investigated the use of Blenrep in 494 patients whose disease came bac
 
 A second ongoing study involved 302 patients whose disease came back after at least one previous treatment including lenalidomide. The study showed that patients treated with bortezomib plus pomalidomide and dexamethasone lived on average for 12.7 months without their disease getting worse; for patients treated with Blenrep plus pomalidomide and dexamethasone, this period could not be calculated because the majority of patients had not got worse during the follow-up.
 
-## What are the risks associated with Blenrep?
+### What are the risks associated with Blenrep?
 
 For the full list of side effects and restrictions with Blenrep, see the package leaflet.
 
@@ -86,11 +86,11 @@ The most common side effects with Blenrep (which may affect more than 2 in 10 pe
 
 Some side effects can be serious. The most frequent (which may affect up to 1 in 10 people) include pneumonia (infection of the lungs), fever, COVID-19, pneumonia due to COVID-19 and thrombocytopenia.
 
-## Why is Blenrep authorised in the EU?
+### Why is Blenrep authorised in the EU?
 
 Blenrep in combination with other cancer medicines was shown to delay the progression of the disease in patients with relapsed or refractory multiple myeloma who have received at least one prior treatment. The side effects of Blenrep are mostly manageable with dose modifications and close monitoring. The European Medicines Agency therefore decided that Blenrep's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Blenrep?
+### What measures are being taken to ensure the safe and effective use of Blenrep?
 
 The company that markets Blenrep will provide educational materials to healthcare professionals to inform them that Blenrep can affect the eyes and vision. Patients who are prescribed Blenrep will also be provided with educational materials including a patient card with this information.
 
@@ -98,7 +98,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Blenrep are continuously monitored. Side effects reported with Blenrep are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Blenrep
+### Other information about Blenrep
 
 Blenrep received a marketing authorisation valid throughout the EU on 23 July 2025.
 
@@ -112,7 +112,7 @@ English (EN) (107.13 KB - PDF)
 
 [View](/en/documents/overview/blenrep-epar-medicine-overview_en.pdf-0)
 
-[Other languages (22)](#file-language-dropdown-259)
+[Other languages (22)](#file-language-dropdown-150)
 
 български (BG) (131.15 KB - PDF)
 
@@ -144,7 +144,7 @@ Deutsch (DE) (110.16 KB - PDF)
 
 [View](/de/documents/overview/blenrep-epar-medicine-overview_de.pdf-0)
 
-eesti keel (ET) (103.73 KB - PDF)
+eesti (ET) (103.73 KB - PDF)
 
 **First published:** 01/08/2025
 
@@ -174,13 +174,13 @@ italiano (IT) (105.11 KB - PDF)
 
 [View](/it/documents/overview/blenrep-epar-medicine-overview_it.pdf-0)
 
-latviešu valoda (LV) (143.59 KB - PDF)
+latviešu (LV) (143.59 KB - PDF)
 
 **First published:** 01/08/2025
 
 [View](/lv/documents/overview/blenrep-epar-medicine-overview_lv.pdf-0)
 
-lietuvių kalba (LT) (128.3 KB - PDF)
+lietuvių (LT) (128.3 KB - PDF)
 
 **First published:** 01/08/2025
 
@@ -234,7 +234,7 @@ slovenščina (SL) (125.63 KB - PDF)
 
 [View](/sl/documents/overview/blenrep-epar-medicine-overview_sl.pdf-0)
 
-Suomi (FI) (103.9 KB - PDF)
+suomi (FI) (103.9 KB - PDF)
 
 **First published:** 01/08/2025
 
@@ -258,167 +258,168 @@ English (EN) (1.85 MB - PDF)
 
 Blenrep : EPAR - Product information
 
-English (EN) (961.48 KB - PDF)
+English (EN) (823.13 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
 [View](/en/documents/product-information/blenrep-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-684)
+[Other languages (24)](#file-language-dropdown-444)
 
-български (BG) (1.13 MB - PDF)
+български (BG) (993.87 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/bg/media/69624)
+[View](/bg/documents/product-information/blenrep-epar-product-information_bg.pdf)
 
-español (ES) (1.03 MB - PDF)
+español (ES) (831.66 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/es/media/69624)
+[View](/es/documents/product-information/blenrep-epar-product-information_es.pdf)
 
-čeština (CS) (1.1 MB - PDF)
+čeština (CS) (898.82 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/cs/media/69624)
+[View](/cs/documents/product-information/blenrep-epar-product-information_cs.pdf)
 
-dansk (DA) (1 MB - PDF)
+dansk (DA) (805.85 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/da/media/69624)
+[View](/da/documents/product-information/blenrep-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.06 MB - PDF)
+Deutsch (DE) (860.22 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/de/media/69624)
+[View](/de/documents/product-information/blenrep-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.09 MB - PDF)
+eesti (ET) (840.47 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/et/media/69624)
+[View](/et/documents/product-information/blenrep-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1017.42 KB - PDF)
+ελληνικά (EL) (806.72 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/el/media/69624)
+[View](/el/documents/product-information/blenrep-epar-product-information_el.pdf)
 
-français (FR) (1.03 MB - PDF)
+français (FR) (812.81 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/fr/media/69624)
+[View](/fr/documents/product-information/blenrep-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.06 MB - PDF)
+hrvatski (HR) (859.64 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/hr/media/69624)
+[View](/hr/documents/product-information/blenrep-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.01 MB - PDF)
+italiano (IT) (964.12 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/is/media/69624)
+[View](/it/documents/product-information/blenrep-epar-product-information_it.pdf)
 
-italiano (IT) (1.05 MB - PDF)
+latviešu (LV) (874.04 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/it/media/69624)
+[View](/lv/documents/product-information/blenrep-epar-product-information_lv.pdf)
 
-latviešu valoda (LV) (1.07 MB - PDF)
+lietuvių (LT) (916.2 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/lv/media/69624)
+[View](/lt/documents/product-information/blenrep-epar-product-information_lt.pdf)
 
-lietuvių kalba (LT) (1.13 MB - PDF)
+magyar (HU) (903.8 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/lt/media/69624)
+[View](/hu/documents/product-information/blenrep-epar-product-information_hu.pdf)
 
-magyar (HU) (1.11 MB - PDF)
+Malti (MT) (1015.06 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/hu/media/69624)
+[View](/mt/documents/product-information/blenrep-epar-product-information_mt.pdf)
 
-Malti (MT) (1.27 MB - PDF)
+Nederlands (NL) (871.43 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/mt/media/69624)
+[View](/nl/documents/product-information/blenrep-epar-product-information_nl.pdf)
 
-Nederlands (NL) (1.07 MB - PDF)
+polski (PL) (926.12 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/nl/media/69624)
+[View](/pl/documents/product-information/blenrep-epar-product-information_pl.pdf)
 
-norsk (NO) (1015.92 KB - PDF)
+português (PT) (812.19 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/no/media/69624)
+[View](/pt/documents/product-information/blenrep-epar-product-information_pt.pdf)
 
-polski (PL) (1.12 MB - PDF)
+română (RO) (830.35 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/pl/media/69624)
+[View](/ro/documents/product-information/blenrep-epar-product-information_ro.pdf)
 
-português (PT) (1.01 MB - PDF)
+slovenčina (SK) (1.07 MB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/pt/media/69624)
+[View](/sk/documents/product-information/blenrep-epar-product-information_sk.pdf)
 
-română (RO) (1.07 MB - PDF)
+slovenščina (SL) (1.07 MB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/ro/media/69624)
+[View](/sl/documents/product-information/blenrep-epar-product-information_sl.pdf)
 
-slovenčina (SK) (1.34 MB - PDF)
+suomi (FI) (827.82 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/sk/media/69624)
+[View](/fi/documents/product-information/blenrep-epar-product-information_fi.pdf)
 
-slovenščina (SL) (1.25 MB - PDF)
+svenska (SV) (853.96 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/sl/media/69624)
+[View](/sv/documents/product-information/blenrep-epar-product-information_sv.pdf)
 
-Suomi (FI) (1.02 MB - PDF)
+Íslenska (IS) (819.36 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/fi/media/69624)
+[View](/is/documents/product-information/blenrep-epar-product-information_is.pdf)
 
-svenska (SV) (1.04 MB - PDF)
+norsk (NO) (801.83 KB - PDF)
 
-**First published:** 01/08/2025 **Last updated:** 08/04/2026
+**First published:** 01/08/2025 **Last updated:** 26/08/2026
 
-[View](/sv/media/69624)
+[View](/no/documents/product-information/blenrep-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** EMA/VR/0000314500 and EMA/VR/0000314494
+**Latest procedure affecting product information:** VR/0000362446
 
-05/02/2026
+26/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -436,7 +437,7 @@ English (EN) (39.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_en.pdf-0)
 
-[Other languages (24)](#file-language-dropdown-568)
+[Other languages (24)](#file-language-dropdown-528)
 
 български (BG) (54.79 KB - PDF)
 
@@ -468,7 +469,7 @@ Deutsch (DE) (44.91 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_de.pdf-0)
 
-eesti keel (ET) (59.79 KB - PDF)
+eesti (ET) (59.79 KB - PDF)
 
 **First published:** 01/08/2025
 
@@ -492,25 +493,19 @@ hrvatski (HR) (56.31 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_hr.pdf-0)
 
-íslenska (IS) (39.12 KB - PDF)
-
-**First published:** 01/08/2025
-
-[View](/is/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_is.pdf-0)
-
 italiano (IT) (40.53 KB - PDF)
 
 **First published:** 01/08/2025
 
 [View](/it/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_it.pdf-0)
 
-latviešu valoda (LV) (55.55 KB - PDF)
+latviešu (LV) (55.55 KB - PDF)
 
 **First published:** 01/08/2025
 
 [View](/lv/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_lv.pdf-0)
 
-lietuvių kalba (LT) (58.13 KB - PDF)
+lietuvių (LT) (58.13 KB - PDF)
 
 **First published:** 01/08/2025
 
@@ -533,12 +528,6 @@ Nederlands (NL) (39.75 KB - PDF)
 **First published:** 01/08/2025
 
 [View](/nl/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_nl.pdf-0)
-
-norsk (NO) (41.3 KB - PDF)
-
-**First published:** 01/08/2025
-
-[View](/no/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_no.pdf-0)
 
 polski (PL) (57.83 KB - PDF)
 
@@ -570,7 +559,7 @@ slovenščina (SL) (47.43 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_sl.pdf-0)
 
-Suomi (FI) (38.96 KB - PDF)
+suomi (FI) (38.96 KB - PDF)
 
 **First published:** 01/08/2025
 
@@ -582,27 +571,30 @@ svenska (SV) (39.32 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_sv.pdf-0)
 
+Íslenska (IS) (39.12 KB - PDF)
+
+**First published:** 01/08/2025
+
+[View](/is/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_is.pdf-0)
+
+norsk (NO) (41.3 KB - PDF)
+
+**First published:** 01/08/2025
+
+[View](/no/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_no.pdf-0)
+
 ## Product details
 
-Name of medicine
-
-Blenrep
-
-Active substance
-
-belantamab mafodotin
-
-International non-proprietary name (INN) or common name
-
-belantamab mafodotin
-
-Therapeutic area (MeSH)
-
-Multiple Myeloma
-
-Anatomical therapeutic chemical (ATC) code
-
-L01FX15
+- **Name of medicine**
+    - Blenrep
+- **Active substance**
+    - belantamab mafodotin
+- **International non-proprietary name (INN) or common name**
+    - belantamab mafodotin
+- **Therapeutic area (MeSH)**
+    - Multiple Myeloma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FX15
 
 ### Pharmacotherapeutic group
 
@@ -614,31 +606,18 @@ Blenrep is indicated in adults for the treatment of relapsed or refractory multi
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006511
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-GlaxoSmithKline Trading Services Limited
-
-12 Riverwalk Citywest Business Campus Dublin 24 D24 YK11 Ireland
-
-Opinion adopted
-
-22/05/2025
-
-Marketing authorisation issued
-
-23/07/2025
-
-Revision
-
-2
+- **EMA product number**
+    - EMEA/H/C/006511
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - GlaxoSmithKline Trading Services Limited 12 Riverwalk  Citywest Business Campus  Dublin 24  D24 YK11  Ireland
+- **Opinion adopted**
+    - 22/05/2025
+- **Marketing authorisation issued**
+    - 23/07/2025
+- **Revision**
+    - 3
 
 ## Assessment history
 
@@ -646,17 +625,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Blenrep : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.07 KB - PDF)
+English (EN) (162.24 KB - PDF)
 
-**First published:** 02/09/2025 **Last updated:** 08/04/2026
+**First published:** 02/09/2025 **Last updated:** 26/08/2026
 
 [View](/en/documents/procedural-steps-after/blenrep-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf-0)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Blenrep : Orphan designation withdrawal assessment report (initial authorisation)
 
@@ -700,6 +679,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-08/04/2026
+26/08/2026
 
 ## Share this page

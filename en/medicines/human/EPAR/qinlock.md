@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-04 16:02:00
+document_datetime: 2026-08-27 10:16:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qinlock.html
 document_name: qinlock.html
 version: success
-processing_time: 0.1394509
-conversion_datetime: 2026-08-07 13:50:17.722959
+processing_time: 0.1502674
+conversion_datetime: 2026-09-02 22:30:19.823985
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Qinlock
 
@@ -104,7 +104,7 @@ English (EN) (108.28 KB - PDF)
 
 [View](/en/documents/overview/qinlock-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-720)
+[Other languages (22)](#file-language-dropdown-813)
 
 български (BG) (142.38 KB - PDF)
 
@@ -250,155 +250,155 @@ English (EN) (248.59 KB - PDF)
 
 Qinlock : EPAR - Product information
 
-English (EN) (299.33 KB - PDF)
+English (EN) (299.02 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/en/documents/product-information/qinlock-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-492)
+[Other languages (24)](#file-language-dropdown-902)
 
-български (BG) (419.38 KB - PDF)
+български (BG) (417.51 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/bg/documents/product-information/qinlock-epar-product-information_bg.pdf)
 
-español (ES) (295.66 KB - PDF)
+español (ES) (295.3 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/es/documents/product-information/qinlock-epar-product-information_es.pdf)
 
-čeština (CS) (377.15 KB - PDF)
+čeština (CS) (377.08 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/cs/documents/product-information/qinlock-epar-product-information_cs.pdf)
 
-dansk (DA) (288.77 KB - PDF)
+dansk (DA) (288.57 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/da/documents/product-information/qinlock-epar-product-information_da.pdf)
 
-Deutsch (DE) (307.7 KB - PDF)
+Deutsch (DE) (308.97 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/de/documents/product-information/qinlock-epar-product-information_de.pdf)
 
-eesti (ET) (287.78 KB - PDF)
+eesti (ET) (287.97 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/et/documents/product-information/qinlock-epar-product-information_et.pdf)
 
-ελληνικά (EL) (521.34 KB - PDF)
+ελληνικά (EL) (520.12 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/el/documents/product-information/qinlock-epar-product-information_el.pdf)
 
-français (FR) (309.44 KB - PDF)
+français (FR) (308.95 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/fr/documents/product-information/qinlock-epar-product-information_fr.pdf)
 
-hrvatski (HR) (364.29 KB - PDF)
+hrvatski (HR) (363.93 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/hr/documents/product-information/qinlock-epar-product-information_hr.pdf)
 
-italiano (IT) (302.08 KB - PDF)
+italiano (IT) (301.93 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/it/documents/product-information/qinlock-epar-product-information_it.pdf)
 
-latviešu (LV) (365.82 KB - PDF)
+latviešu (LV) (365.38 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/lv/documents/product-information/qinlock-epar-product-information_lv.pdf)
 
-lietuvių (LT) (373.08 KB - PDF)
+lietuvių (LT) (372.65 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/lt/documents/product-information/qinlock-epar-product-information_lt.pdf)
 
-magyar (HU) (412.39 KB - PDF)
+magyar (HU) (411.9 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/hu/documents/product-information/qinlock-epar-product-information_hu.pdf)
 
-Malti (MT) (389.98 KB - PDF)
+Malti (MT) (389.38 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/mt/documents/product-information/qinlock-epar-product-information_mt.pdf)
 
-Nederlands (NL) (308.65 KB - PDF)
+Nederlands (NL) (308.44 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/nl/documents/product-information/qinlock-epar-product-information_nl.pdf)
 
-polski (PL) (384.98 KB - PDF)
+polski (PL) (384.78 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/pl/documents/product-information/qinlock-epar-product-information_pl.pdf)
 
-português (PT) (328.64 KB - PDF)
+português (PT) (327.97 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/pt/documents/product-information/qinlock-epar-product-information_pt.pdf)
 
-română (RO) (380.5 KB - PDF)
+română (RO) (380.14 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/ro/documents/product-information/qinlock-epar-product-information_ro.pdf)
 
-slovenčina (SK) (373.53 KB - PDF)
+slovenčina (SK) (373.25 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/sk/documents/product-information/qinlock-epar-product-information_sk.pdf)
 
-slovenščina (SL) (360.27 KB - PDF)
+slovenščina (SL) (359.55 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/sl/documents/product-information/qinlock-epar-product-information_sl.pdf)
 
-suomi (FI) (297.89 KB - PDF)
+suomi (FI) (297.47 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/fi/documents/product-information/qinlock-epar-product-information_fi.pdf)
 
-svenska (SV) (313.82 KB - PDF)
+svenska (SV) (313.17 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/sv/documents/product-information/qinlock-epar-product-information_sv.pdf)
 
-Íslenska (IS) (315.79 KB - PDF)
+Íslenska (IS) (313.46 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/is/documents/product-information/qinlock-epar-product-information_is.pdf)
 
-norsk (NO) (321.05 KB - PDF)
+norsk (NO) (320.38 KB - PDF)
 
-**First published:** 04/08/2026 **Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 27/08/2026
 
 [View](/no/documents/product-information/qinlock-epar-product-information_no.pdf)
 
@@ -410,7 +410,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -429,7 +429,7 @@ English (EN) (39.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-917)
+[Other languages (24)](#file-language-dropdown-680)
 
 български (BG) (53 KB - PDF)
 
@@ -609,7 +609,7 @@ Qinlock is indicated for the treatment of adult patients with advanced gastroint
 - **Marketing authorisation issued**
     - 18/11/2021
 - **Revision**
-    - 9
+    - 10
 
 ## Assessment history
 
@@ -621,9 +621,9 @@ Collapse section
 
 Qinlock : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (161.49 KB - PDF)
+English (EN) (186.76 KB - PDF)
 
-**First published:** 15/10/2025 **Last updated:** 04/08/2026
+**First published:** 15/10/2025 **Last updated:** 27/08/2026
 
 [View](/en/documents/procedural-steps-after/qinlock-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -689,6 +689,6 @@ English (EN) (128.12 KB - PDF)
 
 **This page was last updated on**
 
-04/08/2026
+27/08/2026
 
 ## Share this page

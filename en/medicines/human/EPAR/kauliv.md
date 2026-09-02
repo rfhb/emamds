@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 14:36:11
+document_datetime: 2026-08-27 10:07:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kauliv.html
 document_name: kauliv.html
 version: success
-processing_time: 0.109897
-conversion_datetime: 2025-12-31 03:03:57.694901
+processing_time: 0.1493552
+conversion_datetime: 2026-09-02 22:28:21.7232
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Kauliv
 
 [RSS](/en/individual-human-medicine.xml/67607)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-teriparatide Medicine Human Authorised
+teriparatide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -51,7 +51,7 @@ Kauliv is used for the treatment of osteoporosis (a disease that makes bones fra
 - men who are at an increased risk of fractures;
 - men and women who are at an increased risk of fractures due to long-term treatment with glucocorticoids (a type of steroid).
 
-Kauliv is a 'biosimilar medicine'. This means that Kauliv is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Kauliv is Forsteo. For more information on biosimilar medicines, see [here](/en/biosimilar-medicines-overview) .
+Kauliv is a 'biosimilar medicine'. This means that Kauliv is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Kauliv is Forsteo.
 
 Kauliv contains the active substance teriparatide.
 
@@ -59,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Kauliv used?
+### How is Kauliv used?
 
 Kauliv can only be obtained with a prescription. The medicine is available as a pre-filled pen and patients may inject themselves once they have been trained. The recommended dose is 20 micrograms given once a day as an injection under the skin of the thigh or abdomen (belly).
 
@@ -67,7 +67,7 @@ The medicine can be used for up to two years. Only one two-year course of Kauliv
 
 For more information about using Kauliv, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Kauliv work?
+### How does Kauliv work?
 
 Bones are made of a tissue that is constantly being broken down and replaced. Osteoporosis happens when growth of new bone is not enough to replace the bone that is broken down. In people with osteoporosis, bones become thin and fragile over time and are more likely to break.
 
@@ -75,13 +75,13 @@ In women, osteoporosis is more common after the menopause, when the levels of th
 
 The active substance in Kauliv, teriparatide, is identical to part of the human parathyroid hormone. It acts like the hormone to stimulate bone formation by acting on osteoblasts (bone-forming cells). It also increases the absorption of calcium from food and prevents too much calcium being lost in the urine.
 
-## What benefits of Kauliv have been shown in studies?
+### What benefits of Kauliv have been shown in studies?
 
 Laboratory studies comparing Kauliv with Forsteo have shown that the active substance in Kauliv is highly similar to that in Forsteo in terms of structure, purity and biological activity. Studies have also shown that giving Kauliv produces similar levels of the active substance in the body to giving Forsteo.
 
 Because Kauliv is a biosimilar medicine, the studies on effectiveness and safety of teriparatide carried out with Forsteo do not all need to be repeated for Kauliv.
 
-## What are the risks associated with Kauliv?
+### What are the risks associated with Kauliv?
 
 The safety of Kauliv has been evaluated, and on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Forsteo.
 
@@ -91,19 +91,19 @@ Kauliv must not be used in patients who have other bone diseases such as Paget's
 
 For the full list of restrictions, see the package leaflet.
 
-## Why is Kauliv authorised in the EU?
+### Why is Kauliv authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Kauliv has a highly similar structure, purity and biological activity to Forsteo and is distributed in the body in the same way.
 
 All these data were considered sufficient to conclude that Kauliv will behave in the same way as Forsteo in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Forsteo, the benefits of Kauliv outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Kauliv?
+### What measures are being taken to ensure the safe and effective use of Kauliv?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Kauliv have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Kauliv are continuously monitored. Suspected side effects reported with Kauliv are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Kauliv
+### Other information about Kauliv
 
 Kauliv received a marketing authorisation valid throughout the EU on 12 January 2023.
 
@@ -117,181 +117,137 @@ English (EN) (143.03 KB - PDF)
 
 [View](/en/documents/overview/kauliv-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-657)
+[Other languages (22)](#file-language-dropdown-669)
 
 български (BG) (165.7 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/bg/documents/overview/kauliv-epar-medicine-overview_bg.pdf)
 
 español (ES) (142.56 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/es/documents/overview/kauliv-epar-medicine-overview_es.pdf)
 
 čeština (CS) (165.19 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/cs/documents/overview/kauliv-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (142.15 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/da/documents/overview/kauliv-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (146.03 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/de/documents/overview/kauliv-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (130.83 KB - PDF)
+eesti (ET) (130.83 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/et/documents/overview/kauliv-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (166.63 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/el/documents/overview/kauliv-epar-medicine-overview_el.pdf)
 
 français (FR) (143.97 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/fr/documents/overview/kauliv-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (162.18 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/hr/documents/overview/kauliv-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (141.61 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/it/documents/overview/kauliv-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (176.99 KB - PDF)
+latviešu (LV) (176.99 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/lv/documents/overview/kauliv-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (161.29 KB - PDF)
+lietuvių (LT) (161.29 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/lt/documents/overview/kauliv-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (161.42 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/hu/documents/overview/kauliv-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (163.86 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/mt/documents/overview/kauliv-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (143.68 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/nl/documents/overview/kauliv-epar-medicine-overview_nl.pdf)
 
 polski (PL) (165.94 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/pl/documents/overview/kauliv-epar-medicine-overview_pl.pdf)
 
 português (PT) (142.92 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/pt/documents/overview/kauliv-epar-medicine-overview_pt.pdf)
 
 română (RO) (159.44 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/ro/documents/overview/kauliv-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (162.62 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/sk/documents/overview/kauliv-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (160.81 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/sl/documents/overview/kauliv-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (140.01 KB - PDF)
+suomi (FI) (140.01 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/fi/documents/overview/kauliv-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (140.71 KB - PDF)
 
-**First published:**
-
-07/03/2023
+**First published:** 07/03/2023
 
 [View](/sv/documents/overview/kauliv-epar-medicine-overview_sv.pdf)
 
@@ -307,311 +263,168 @@ English (EN) (169.21 KB - PDF)
 
 Kauliv : EPAR - Product Information
 
-English (EN) (1.02 MB - PDF)
+English (EN) (391.65 KB - PDF)
 
-**First published:** 07/03/2023
-
-**Last updated:** 25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/en/documents/product-information/kauliv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-607)
+[Other languages (24)](#file-language-dropdown-94)
 
-български (BG) (1.05 MB - PDF)
+български (BG) (483.79 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/bg/documents/product-information/kauliv-epar-product-information_bg.pdf)
 
-español (ES) (1.04 MB - PDF)
+español (ES) (410.19 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/es/documents/product-information/kauliv-epar-product-information_es.pdf)
 
-čeština (CS) (1.06 MB - PDF)
+čeština (CS) (430.88 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/cs/documents/product-information/kauliv-epar-product-information_cs.pdf)
 
-dansk (DA) (998.17 KB - PDF)
+dansk (DA) (396.99 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/da/documents/product-information/kauliv-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.04 MB - PDF)
+Deutsch (DE) (414.26 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/de/documents/product-information/kauliv-epar-product-information_de.pdf)
 
-eesti keel (ET) (1015.78 KB - PDF)
+eesti (ET) (390.95 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/et/documents/product-information/kauliv-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.08 MB - PDF)
+ελληνικά (EL) (478.93 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/el/documents/product-information/kauliv-epar-product-information_el.pdf)
 
-français (FR) (1.04 MB - PDF)
+français (FR) (413.11 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/fr/documents/product-information/kauliv-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.07 MB - PDF)
+hrvatski (HR) (434.32 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/hr/documents/product-information/kauliv-epar-product-information_hr.pdf)
 
-íslenska (IS) (1014.68 KB - PDF)
+italiano (IT) (409.96 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
-
-[View](/is/documents/product-information/kauliv-epar-product-information_is.pdf)
-
-italiano (IT) (1.02 MB - PDF)
-
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/it/documents/product-information/kauliv-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.07 MB - PDF)
+latviešu (LV) (431.68 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/lv/documents/product-information/kauliv-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.08 MB - PDF)
+lietuvių (LT) (452.59 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/lt/documents/product-information/kauliv-epar-product-information_lt.pdf)
 
-magyar (HU) (1.09 MB - PDF)
+magyar (HU) (461.89 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/hu/documents/product-information/kauliv-epar-product-information_hu.pdf)
 
-Malti (MT) (1.14 MB - PDF)
+Malti (MT) (501.58 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/mt/documents/product-information/kauliv-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.01 MB - PDF)
+Nederlands (NL) (411.21 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/nl/documents/product-information/kauliv-epar-product-information_nl.pdf)
 
-norsk (NO) (1008.78 KB - PDF)
+polski (PL) (466.42 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
-
-[View](/no/documents/product-information/kauliv-epar-product-information_no.pdf)
-
-polski (PL) (1.08 MB - PDF)
-
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/pl/documents/product-information/kauliv-epar-product-information_pl.pdf)
 
-português (PT) (1 MB - PDF)
+português (PT) (396.89 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/pt/documents/product-information/kauliv-epar-product-information_pt.pdf)
 
-română (RO) (1.13 MB - PDF)
+română (RO) (486.35 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/ro/documents/product-information/kauliv-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.08 MB - PDF)
+slovenčina (SK) (433.69 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/sk/documents/product-information/kauliv-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.07 MB - PDF)
+slovenščina (SL) (449.36 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/sl/documents/product-information/kauliv-epar-product-information_sl.pdf)
 
-Suomi (FI) (1014.56 KB - PDF)
+suomi (FI) (379.78 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/fi/documents/product-information/kauliv-epar-product-information_fi.pdf)
 
-svenska (SV) (1016.09 KB - PDF)
+svenska (SV) (388.64 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-25/11/2024
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
 
 [View](/sv/documents/product-information/kauliv-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IA/0005/G 22/11/2024
+Íslenska (IS) (398.79 KB - PDF)
+
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
+
+[View](/is/documents/product-information/kauliv-epar-product-information_is.pdf)
+
+norsk (NO) (393.56 KB - PDF)
+
+**First published:** 07/03/2023 **Last updated:** 27/08/2026
+
+[View](/no/documents/product-information/kauliv-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** N/0000357477
+
+26/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -625,310 +438,169 @@ Kauliv : EPAR - All authorised presentations
 
 English (EN) (47.04 KB - PDF)
 
-**First published:** 07/03/2023
-
-**Last updated:** 20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/en/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-690)
+[Other languages (24)](#file-language-dropdown-569)
 
 български (BG) (55.58 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/bg/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (46.46 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/es/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (52.9 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/cs/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (51.2 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/da/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (48.99 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/de/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (45.73 KB - PDF)
+eesti (ET) (45.73 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/et/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (51.66 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/el/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (48.5 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/fr/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (48.81 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/hr/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (49.33 KB - PDF)
-
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
-
-[View](/is/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (46.54 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/it/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (50.99 KB - PDF)
+latviešu (LV) (50.99 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/lv/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (49.9 KB - PDF)
+lietuvių (LT) (49.9 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/lt/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (50.39 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/hu/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (51.53 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/mt/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (45.33 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/nl/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (48.32 KB - PDF)
-
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
-
-[View](/no/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (52.71 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/pl/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (47.46 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/pt/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (49.55 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/ro/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (52.11 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/sk/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (48.1 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/sl/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (44.6 KB - PDF)
+suomi (FI) (44.6 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/fi/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (47.73 KB - PDF)
 
-**First published:**
-
-07/03/2023
-
-**Last updated:**
-
-20/11/2023
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
 
 [View](/sv/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (49.33 KB - PDF)
+
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
+
+[View](/is/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (48.32 KB - PDF)
+
+**First published:** 07/03/2023 **Last updated:** 20/11/2023
+
+[View](/no/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Kauliv Active substance teriparatide International non-proprietary name (INN) or common name teriparatide Therapeutic area (MeSH)
-
-- Osteoporosis
-- Osteoporosis, Postmenopausal
-
-Anatomical therapeutic chemical (ATC) code H05AA02
+- **Name of medicine**
+    - Kauliv
+- **Active substance**
+    - teriparatide
+- **International non-proprietary name (INN) or common name**
+    - teriparatide
+- **Therapeutic area (MeSH)**
+        - Osteoporosis
+        - Osteoporosis, Postmenopausal
+- **Anatomical therapeutic chemical (ATC) code**
+    - H05AA02
 
 ### Pharmacotherapeutic group
 
@@ -944,23 +616,20 @@ Treatment of osteoporosis associated with sustained systemic glucocorticoid ther
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004932
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Strides Pharma (Cyprus) Limited
-
-Themistokli Dervi 3
-
-Opinion adopted 10/11/2022 Marketing authorisation issued 12/01/2023 Revision 3
+- **EMA product number**
+    - EMEA/H/C/004932
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Strides Pharma (Cyprus) Limited Themistokli Dervi 3  1066 Nicosia  Cyprus
+- **Opinion adopted**
+    - 10/11/2022
+- **Marketing authorisation issued**
+    - 12/01/2023
+- **Revision**
+    - 4
 
 ## Assessment history
 
@@ -968,25 +637,29 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Kauliv : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (106.52 KB - PDF)
+English (EN) (141.88 KB - PDF)
 
-**First published:** 20/11/2023
-
-**Last updated:** 25/11/2024
+**First published:** 27/08/2026
 
 [View](/en/documents/procedural-steps-after/kauliv-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+Kauliv : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (106.52 KB - PDF)
+
+**First published:** 20/11/2023 **Last updated:** 25/11/2024
+
+[View](/en/documents/procedural-steps-after/kauliv-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+### Initial marketing authorisation documents
 
 Kauliv : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/923811/2022
+Adopted Reference Number: EMA/923811/2022
 
 English (EN) (1.51 MB - PDF)
 
@@ -1004,12 +677,14 @@ English (EN) (127.91 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-kauliv_en.pdf)
 
-#### News on Kauliv
+## News on Kauliv
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022) 11/11/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022)
 
-**This page was last updated on** 25/11/2024
+11/11/2022
+
+**This page was last updated on**
+
+27/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

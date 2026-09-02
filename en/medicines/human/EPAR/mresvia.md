@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-30 15:13:00
+document_datetime: 2026-08-27 15:06:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mresvia.html
 document_name: mresvia.html
 version: success
-processing_time: 0.1118229
-conversion_datetime: 2026-05-05 19:37:00.363025
+processing_time: 0.1665845
+conversion_datetime: 2026-09-02 22:29:12.226547
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # mResvia
 
@@ -24,7 +24,7 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-Single-stranded 5' capped mRNA encoding the respiratory syncytial virus glycoprotein F stabilised in the prefusion conformation / Respiratory syncytial virus mRNA vaccine (nucleoside modified)
+respiratory syncytial virus mRNA vaccine
 
 Medicine Human Authorised
 
@@ -54,7 +54,7 @@ Expand section
 
 Collapse section
 
-## How is mResvia used?
+### How is mResvia used?
 
 The vaccine can only be obtained with a prescription and should be used according to official recommendations issued at national level by public health bodies.
 
@@ -62,7 +62,7 @@ The recommended dose is a single injection into the muscle of the upper arm.
 
 For more information about using mResvia, see the package leaflet or contact your doctor or pharmacist.
 
-## How does mResvia work?
+### How does mResvia work?
 
 mResvia works by preparing the body to defend itself against RSV. It contains a molecule called mRNA which provides instructions for making the RSV-A glycoprotein F. This is a protein on the surface of RSV-A (a subtype of RSV), which the virus needs to enter the body's cells.
 
@@ -72,7 +72,7 @@ If, later on, the person comes into contact with RSV, their immune system will r
 
 After vaccination, the mRNA from the vaccine is broken down and removed from the body.
 
-## What benefits of mResvia have been shown in studies?
+### What benefits of mResvia have been shown in studies?
 
 A main study involved over 35,000 adults aged 60 years and above who received either mResvia or a dummy injection. Around 4 months after vaccination, people who received mResvia had an 84% reduction in their risk of getting lower respiratory tract disease caused by RSV, compared with those who received a dummy injection. During this period, 9 out of 17,572 people who received mResvia got lower respiratory tract disease due to RSV with 2 or more symptoms compared with 55 out of 17,516 people who received a dummy injection.
 
@@ -82,13 +82,13 @@ A second main study involved 502 people aged between 18 and 59 years who were at
 
 Studies carried out with mResvia are described in more detail in the medicine's assessment reports.
 
-## What are the side effects and restrictions with mResvia?
+### What are the side effects and restrictions with mResvia?
 
 For the full list of side effects and restrictions with mResvia, see the package leaflet.
 
 The most common side effects with mResvia (which may affect more than 1 in 10 people) include pain at the injection site, tiredness, headache, muscle pain and joint pain. These side effects are usually mild in intensity and resolve within 2 days.
 
-## Why is mResvia authorised in the EU?
+### Why is mResvia authorised in the EU?
 
 A main study found that mResvia is effective at preventing lower respiratory tract disease due to RSV in older adults.
 
@@ -98,13 +98,13 @@ The vaccine is generally well tolerated, with mild to moderate side effects that
 
 The European Medicines Agency therefore decided that mResvia's benefits are greater than its risks and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of mResvia?
+### What measures are being taken to ensure the safe and effective use of mResvia?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of mResvia have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of mResvia are continuously monitored. Suspected side effects reported with mResvia are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about mResvia
+### Other information about mResvia
 
 mResvia received a marketing authorisation valid throughout the EU on 22 August 2024.
 
@@ -117,6 +117,140 @@ English (EN) (151.12 KB - PDF)
 **First published:** 06/09/2024 **Last updated:** 30/04/2026
 
 [View](/en/documents/overview/mresvia-epar-medicine-overview_en.pdf)
+
+[Other languages (22)](#file-language-dropdown-678)
+
+български (BG) (158.54 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/bg/documents/overview/mresvia-epar-medicine-overview_bg.pdf)
+
+español (ES) (130.05 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/es/documents/overview/mresvia-epar-medicine-overview_es.pdf)
+
+čeština (CS) (159.25 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/cs/documents/overview/mresvia-epar-medicine-overview_cs.pdf)
+
+dansk (DA) (128.87 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/da/documents/overview/mresvia-epar-medicine-overview_da.pdf)
+
+Deutsch (DE) (133.1 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/de/documents/overview/mresvia-epar-medicine-overview_de.pdf)
+
+eesti (ET) (127.83 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/et/documents/overview/mresvia-epar-medicine-overview_et.pdf)
+
+ελληνικά (EL) (152.4 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/el/documents/overview/mresvia-epar-medicine-overview_el.pdf)
+
+français (FR) (130.74 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 30/04/2026
+
+[View](/fr/documents/overview/mresvia-epar-medicine-overview_fr.pdf)
+
+hrvatski (HR) (152.78 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/hr/documents/overview/mresvia-epar-medicine-overview_hr.pdf)
+
+italiano (IT) (128.87 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/it/documents/overview/mresvia-epar-medicine-overview_it.pdf)
+
+latviešu (LV) (156.27 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/lv/documents/overview/mresvia-epar-medicine-overview_lv.pdf)
+
+lietuvių (LT) (151.71 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/lt/documents/overview/mresvia-epar-medicine-overview_lt.pdf)
+
+magyar (HU) (154.43 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/hu/documents/overview/mresvia-epar-medicine-overview_hu.pdf)
+
+Malti (MT) (163.17 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/mt/documents/overview/mresvia-epar-medicine-overview_mt.pdf)
+
+Nederlands (NL) (129.97 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/nl/documents/overview/mresvia-epar-medicine-overview_nl.pdf)
+
+polski (PL) (155 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/pl/documents/overview/mresvia-epar-medicine-overview_pl.pdf)
+
+português (PT) (130.31 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/pt/documents/overview/mresvia-epar-medicine-overview_pt.pdf)
+
+română (RO) (159.59 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/ro/documents/overview/mresvia-epar-medicine-overview_ro.pdf)
+
+slovenčina (SK) (160.26 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/sk/documents/overview/mresvia-epar-medicine-overview_sk.pdf)
+
+slovenščina (SL) (151.58 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/sl/documents/overview/mresvia-epar-medicine-overview_sl.pdf)
+
+suomi (FI) (128.24 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/fi/documents/overview/mresvia-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (128.41 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 18/05/2026
+
+[View](/sv/documents/overview/mresvia-epar-medicine-overview_sv.pdf)
 
 mResvia : EPAR - Risk management plan
 
@@ -136,7 +270,7 @@ English (EN) (462.6 KB - PDF)
 
 [View](/en/documents/product-information/mresvia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-897)
+[Other languages (24)](#file-language-dropdown-278)
 
 български (BG) (457.73 KB - PDF)
 
@@ -168,7 +302,7 @@ Deutsch (DE) (471.67 KB - PDF)
 
 [View](/de/documents/product-information/mresvia-epar-product-information_de.pdf)
 
-eesti keel (ET) (415.79 KB - PDF)
+eesti (ET) (415.79 KB - PDF)
 
 **First published:** 06/09/2024 **Last updated:** 30/04/2026
 
@@ -192,25 +326,19 @@ hrvatski (HR) (454.67 KB - PDF)
 
 [View](/hr/documents/product-information/mresvia-epar-product-information_hr.pdf)
 
-íslenska (IS) (416.45 KB - PDF)
-
-**First published:** 06/09/2024 **Last updated:** 30/04/2026
-
-[View](/is/documents/product-information/mresvia-epar-product-information_is.pdf)
-
 italiano (IT) (446 KB - PDF)
 
 **First published:** 06/09/2024 **Last updated:** 30/04/2026
 
 [View](/it/documents/product-information/mresvia-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (440.46 KB - PDF)
+latviešu (LV) (440.46 KB - PDF)
 
 **First published:** 06/09/2024 **Last updated:** 30/04/2026
 
 [View](/lv/documents/product-information/mresvia-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (455.75 KB - PDF)
+lietuvių (LT) (455.75 KB - PDF)
 
 **First published:** 06/09/2024 **Last updated:** 30/04/2026
 
@@ -233,12 +361,6 @@ Nederlands (NL) (431.38 KB - PDF)
 **First published:** 06/09/2024 **Last updated:** 30/04/2026
 
 [View](/nl/documents/product-information/mresvia-epar-product-information_nl.pdf)
-
-norsk (NO) (437.04 KB - PDF)
-
-**First published:** 06/09/2024 **Last updated:** 30/04/2026
-
-[View](/no/documents/product-information/mresvia-epar-product-information_no.pdf)
 
 polski (PL) (486.8 KB - PDF)
 
@@ -270,7 +392,7 @@ slovenščina (SL) (454.64 KB - PDF)
 
 [View](/sl/documents/product-information/mresvia-epar-product-information_sl.pdf)
 
-Suomi (FI) (407.28 KB - PDF)
+suomi (FI) (407.28 KB - PDF)
 
 **First published:** 06/09/2024 **Last updated:** 30/04/2026
 
@@ -282,6 +404,18 @@ svenska (SV) (435.97 KB - PDF)
 
 [View](/sv/documents/product-information/mresvia-epar-product-information_sv.pdf)
 
+Íslenska (IS) (416.45 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 30/04/2026
+
+[View](/is/documents/product-information/mresvia-epar-product-information_is.pdf)
+
+norsk (NO) (437.04 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 30/04/2026
+
+[View](/no/documents/product-information/mresvia-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000312911
 
 27/04/2026
@@ -290,7 +424,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -308,7 +443,7 @@ English (EN) (53.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mresvia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-859)
+[Other languages (24)](#file-language-dropdown-914)
 
 български (BG) (63.79 KB - PDF)
 
@@ -340,7 +475,7 @@ Deutsch (DE) (65.2 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/mresvia-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (58.8 KB - PDF)
+eesti (ET) (58.8 KB - PDF)
 
 **First published:** 06/09/2024 **Last updated:** 05/05/2025
 
@@ -364,25 +499,19 @@ hrvatski (HR) (111.85 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/mresvia-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (50.36 KB - PDF)
-
-**First published:** 06/09/2024 **Last updated:** 05/05/2025
-
-[View](/is/documents/all-authorised-presentations/mresvia-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (81.47 KB - PDF)
 
 **First published:** 06/09/2024 **Last updated:** 05/05/2025
 
 [View](/it/documents/all-authorised-presentations/mresvia-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (82.44 KB - PDF)
+latviešu (LV) (82.44 KB - PDF)
 
 **First published:** 06/09/2024 **Last updated:** 05/05/2025
 
 [View](/lv/documents/all-authorised-presentations/mresvia-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (83.94 KB - PDF)
+lietuvių (LT) (83.94 KB - PDF)
 
 **First published:** 06/09/2024 **Last updated:** 05/05/2025
 
@@ -405,12 +534,6 @@ Nederlands (NL) (50.98 KB - PDF)
 **First published:** 06/09/2024 **Last updated:** 05/05/2025
 
 [View](/nl/documents/all-authorised-presentations/mresvia-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (52.94 KB - PDF)
-
-**First published:** 06/09/2024 **Last updated:** 05/05/2025
-
-[View](/no/documents/all-authorised-presentations/mresvia-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (77.43 KB - PDF)
 
@@ -442,7 +565,7 @@ slovenščina (SL) (73.21 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/mresvia-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (50.73 KB - PDF)
+suomi (FI) (50.73 KB - PDF)
 
 **First published:** 06/09/2024 **Last updated:** 05/05/2025
 
@@ -454,29 +577,30 @@ svenska (SV) (82.17 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/mresvia-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (50.36 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 05/05/2025
+
+[View](/is/documents/all-authorised-presentations/mresvia-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (52.94 KB - PDF)
+
+**First published:** 06/09/2024 **Last updated:** 05/05/2025
+
+[View](/no/documents/all-authorised-presentations/mresvia-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-mResvia
-
-Active substance
-
-- Single-stranded 5' capped mRNA encoding the respiratory syncytial virus glycoprotein F stabilised in the prefusion conformation
-- Respiratory syncytial virus mRNA vaccine (nucleoside modified)
-
-International non-proprietary name (INN) or common name
-
-- Single-stranded 5' capped mRNA encoding the respiratory syncytial virus glycoprotein F stabilised in the prefusion conformation
-- Respiratory syncytial virus mRNA vaccine (nucleoside modified)
-
-Therapeutic area (MeSH)
-
-Respiratory Syncytial Virus Infections
-
-Anatomical therapeutic chemical (ATC) code
-
-J07BX05
+- **Name of medicine**
+    - mResvia
+- **Active substance**
+    - Single-stranded 5' capped mRNA encoding the respiratory syncytial virus glycoprotein F stabilised in the prefusion conformation
+- **International non-proprietary name (INN) or common name**
+    - respiratory syncytial virus mRNA vaccine
+- **Therapeutic area (MeSH)**
+    - Respiratory Syncytial Virus Infections
+- **Anatomical therapeutic chemical (ATC) code**
+    - J07BX05
 
 ### Pharmacotherapeutic group
 
@@ -490,31 +614,18 @@ The use of this vaccine should be in accordance with official recommendations.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006278
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Moderna Biotech Spain, S.L.
-
-C/ Julián Camarillo nº 31
-
-Opinion adopted
-
-27/06/2024
-
-Marketing authorisation issued
-
-22/08/2024
-
-Revision
-
-9
+- **EMA product number**
+    - EMEA/H/C/006278
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Moderna Biotech Spain, S.L. C/ Julián Camarillo nº 31  28037 Madrid  Spain
+- **Opinion adopted**
+    - 27/06/2024
+- **Marketing authorisation issued**
+    - 22/08/2024
+- **Revision**
+    - 10
 
 ## Assessment history
 
@@ -522,7 +633,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 mResvia : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -539,6 +650,16 @@ English (EN) (103.11 KB - PDF)
 **First published:** 27/02/2025 **Last updated:** 05/05/2025
 
 [View](/en/documents/procedural-steps-after/mresvia-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+mResvia-PAM-0000334125 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2965327
+
+English (EN) (747.96 KB - PDF)
+
+**First published:** 27/08/2026
+
+[View](/en/documents/variation-report/mresvia-pam-0000334125-epar-assessment-report_en.pdf)
 
 mResvia-VR-0000312911 : EPAR - Assessment report - Variation
 
@@ -560,7 +681,7 @@ English (EN) (143.79 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-mresvia-vr0000312911_en.pdf)
 
-mResvia-VR-0000248175  : EPAR - Assessment report - Variation
+mResvia-VR-0000248175 : EPAR - Assessment report - Variation
 
 Reference Number: EMADOC-1700519818-2305287
 
@@ -590,7 +711,7 @@ English (EN) (1.24 MB - PDF)
 
 [View](/en/documents/variation-report/mresvia-h-c-006278-p46-004-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 mResvia : EPAR - Public assessment report
 
@@ -632,6 +753,6 @@ English (EN) (132.15 KB - PDF)
 
 **This page was last updated on**
 
-30/04/2026
+27/08/2026
 
 ## Share this page

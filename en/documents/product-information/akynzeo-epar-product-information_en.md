@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-02 10:28:49
+document_datetime: 2026-08-25 14:40:08
 document_pages: 117
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/akynzeo-epar-product-information_en.pdf
 document_name: akynzeo-epar-product-information_en.pdf
 version: success
-processing_time: 56.0364185
-conversion_datetime: 2026-06-04 22:39:39.910838
+processing_time: 35.0887973
+conversion_datetime: 2026-09-02 21:54:58.756405
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -48,8 +48,8 @@ Opaque gelatin capsule of size '0' (length 21.7 mm) with white body and caramel 
 
 Akynzeo is indicated in adults for the:
 
-- -Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin-based cancer chemotherapy.
-- -Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy.
+- Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin-based cancer chemotherapy.
+- Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy.
 
 ## 4.2 Posology and method of administration
 
@@ -105,7 +105,7 @@ There have been reports of serotonin syndrome with the use of 5-HT3 antagonists 
 
 ## QT Prolongation
 
-An ECG study was conducted in adult male and female healthy volunteers with oral netupitant either 200 or 600 mg administered in combination with oral palonosetron 0.5 or 1.5 mg, respectively. The study demonstrated no clinically important effects on ECG parameters: the largest point estimate of the placebo and baseline corrected QTc interval was 7.0 ms (onesided upper 95% confidence limit 8.8 ms), observed 16 hours after the administration of supratherapeutic doses (600 mg netupitant and 1.5 mg palonosetr on). Upper 95% confidence limit of the point estimates of placebo and baseline corrected QTcI was constantly within 10 ms at all time points over 2 days after study substance administration.
+An ECG study was conducted in adult male and female healthy volunteers with oral netupitant either 200 or 600 mg administered in combination with oral palonosetron 0.5 or 1.5 mg, respectively. The study demonstrated no clinically important effects on ECG parameters: the largest point estimate of the placebo and baseline corrected QTc interval was 7.0 ms (onesided upper 95% confidence limit 8.8 ms), observed 16 hours after the administration of supratherapeutic doses (600 mg netupitant and 1.5 mg palonosetron). Upper 95% confidence limit of the point estimates of placebo and baseline corrected QTcI was constantly within 10 ms at all time points over 2 days after study substance administration.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -255,7 +255,7 @@ Table1: Adverse reactions
 | Nervous system disorders                             | Headache     | Dizziness                            | Hypoaesthesia                          |
 | Nervous system disorders                             |              |                                      | Somnolence                             |
 | Eye disorders                                        |              |                                      | Conjunctivitis                         |
-|                                                      |              |                                      | Vision blurred                         |
+| Eye disorders                                        |              |                                      | Vision blurred                         |
 | Ear and labyrinth disorders                          |              | Vertigo                              | Tinnitus                               |
 | Cardiac disorders                                    |              | Atrioventricular block first degree  | Arrhythmia                             |
 |                                                      |              | Cardiomyopathy                       | Atrioventricular block second degree   |
@@ -275,7 +275,7 @@ Table1: Adverse reactions
 | Gastrointestinal disorders                           |              | Nausea                               | Vomiting                               |
 | Skin and subcutaneous tissue disorders               |              | Alopecia                             | Erythema                               |
 | Skin and subcutaneous tissue disorders               |              | Urticaria                            | Pruritus                               |
-|                                                      |              |                                      | Rash                                   |
+| Skin and subcutaneous tissue disorders               |              |                                      | Rash                                   |
 | Musculoskeletal and connective tissue                |              |                                      | Back pain                              |
 | disorders                                            |              |                                      | Pain in extremities                    |
 | General disorders and administration site conditions | Fatigue      | Asthenia                             | Feeling hot                            |
@@ -287,7 +287,7 @@ Table1: Adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-| increased                      | MBincreased                             |
+| increased                      | MB increased                            |
 |--------------------------------|-----------------------------------------|
 | Electrocardiogram QT prolonged | Blood urea increased                    |
 |                                | Electrocardiogram ST segment depression |
@@ -354,10 +354,10 @@ Treatment regimens for the Akynzeo and the palonosetron 0.5 mg arms are displaye
 
 Table 2: Oral antiemetic treatment regimen -- HEC study
 
-| Treatment regimen   | Day 1                                                               | Days 2 to 4                    |
-|---------------------|---------------------------------------------------------------------|--------------------------------|
-| Akynzeo             | Akynzeo (Netupitant 300 mg Palonosetron 0.5 mg) Dexamethasone 12 mg | Dexamethasone 8 mg once a day  |
-| Palonosetron        | Palonosetron 0.5 mg Dexamethasone 20 mg                             | Dexamethasone 8 mg twice a day |
+| Treatment regimen   | Day 1                                                                 | Days 2 to 4                    |
+|---------------------|-----------------------------------------------------------------------|--------------------------------|
+| Akynzeo             | Akynzeo (Netupitant 300 mg + Palonosetron 0.5 mg) Dexamethasone 12 mg | Dexamethasone 8 mg once a day  |
+| Palonosetron        | Palonosetron 0.5 mg Dexamethasone 20 mg                               | Dexamethasone 8 mg twice a day |
 
 The primary efficacy endpoint was complete response (CR) rate (defined as no emetic episodes, no rescue medication) within 120 hours (overall phase) after the start of the highly emetogenic chemotherapy administration.
 
@@ -385,11 +385,13 @@ Table 3: Proportion of patients receiving cisplatin chemotherapy responding by t
 | Delayed phase             |              90.4 |                          80.9 |     0.004 |
 | Overall phase             |              89.6 |                          79.4 |     0.021 |
 
-‡ Acute phase: 0 to 24 hours post-cisplatin treatment.
+†
 
-† Delayed phase: 25 to 120 hours post-cisplatin treatment.
+Delayed phase: 25 to 120 hours post-cisplatin treatment.
 
-§ Overall: 0 to 120 hours post-cisplatin treatment.
+§
+
+Overall: 0 to 120 hours post-cisplatin treatment.
 
 ## Moderately Emetogenic Chemotherapy (MEC) study
 
@@ -495,7 +497,7 @@ Three metabolites have been detected in human plasma at netupitant oral doses of
 
 ## Palonosetron
 
-Palonosetron is eliminated by multiple routes with approximately 50% metabolised to form two primary metabolites: N-oxide-palonosetron and 6-S-hydroxy-palonosetron. These metabolites each have less than 1% of the 5-HT3 receptor antagonist activity of palonosetron. In vitro metabolism studies have suggested that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 are involved in the metabolism of palonosetron. However, clinical pharmacokinetic parameters are not significantly different between poor and extensive metabolizers of CYP2D6 substrates.
+Palonosetron is eliminated by multiple routes with approximately 50% metabolised to form two primary metabolites: N-oxide-palonosetron and 6-S­hydroxy-palonosetron. These metabolites each have less than 1% of the 5-HT3 receptor antagonist activity of palonosetron. In vitro metabolism studies have suggested that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 are involved in the metabolism of palonosetron. However, clinical pharmacokinetic parameters are not significantly different between poor and extensive metabolizers of CYP2D6 substrates.
 
 ## Elimination
 
@@ -513,7 +515,7 @@ Following administration of a single oral 0.75 mg dose of [14C]­palonosetron to
 
 ## Netupitant
 
-Maximum concentrations and total exposure of netupitant were increased in subjects with mild (n=8), moderate (n=8), and severe (n=2) hepatic impairment compared to matching healthy subjects, although there was pronounced individual variability in both hepatically-impaired and healthy subjects. Exposure to netupitant (Cmax, AUC0-t and AUC0-∞ ) compared to matching healthy subjects was 11%, 28% and 19% higher in mild and 70%, 88% and 143% higher in moderate hepatically -impaired subjects, respectively. As such, no dose adjustment is necessary for patients with mild to moderate hepatic impairment. Limited data exist in patients with severe hepatic impairment (Child Pugh score ≥9).
+Maximum concentrations and total exposure of netupitant were increased in subjects with mild (n=8), moderate (n=8), and severe (n=2) hepatic impairment compared to matching healthy subjects, although there was pronounced individual variability in both hepatically-impaired and healthy subjects. Exposure to netupitant (Cmax, AUC0-t and AUC0-∞ ) compared to matching healthy subjects was 11%, 28% and 19% higher in mild and 70%, 88% and 143% higher in moderate hepatically - impaired subjects, respectively. As such, no dose adjustment is necessary for patients with mild to moderate hepatic impairment. Limited data exist in patients with severe hepatic impairment (Child Pugh score ≥9).
 
 ## Palonosetron
 
@@ -561,7 +563,9 @@ Microcrystalline cellulose (E460) Sucrose lauric acid esters Povidone K-30 Crosc
 
 Palonosetron soft capsules Soft capsule content Glycerol monocaprylocaprate (type I) Glycerol Polyglyceryl oleate Purified water Butylhydroxyanisole (E320)
 
-Soft capsule shell Gelatin Glycerol Sorbitol (E420) 1,4 sorbitan Titanium dioxide (E171)
+## Soft capsule shell
+
+Gelatin Glycerol Sorbitol (E420) 1,4 sorbitan Titanium dioxide (E171)
 
 ## Hard capsule shell
 
@@ -593,9 +597,7 @@ Pack size of one hard capsule or 4 x1 hard capsules in perforated unit dose blis
 
 Not all pack sizes may be marketed.
 
-6.6
-
-Special precautions for disposal
+## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local
 
@@ -615,17 +617,13 @@ Dublin 15
 
 Ireland.
 
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/15/1001/001
 
 EU/1/15/1001/002
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 27 May 2015
 
@@ -675,8 +673,8 @@ White to off-white amorphous powder.
 
 Akynzeo is indicated in adults for the:
 
-- -Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin-based cancer chemotherapy.
-- -Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy.
+- Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin-based cancer chemotherapy.
+- Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy.
 
 ## 4.2 Posology and method of administration
 
@@ -734,7 +732,7 @@ There have been reports of serotonin syndrome with the use of 5-HT3 antagonists 
 
 <div style=\"page-break-after: always\"></div>
 
-An ECG study was conducted in adult male and female healthy volunteers with oral netupitant either 200 mg or 600 mg administered in combination with oral palonosetron 0.5 mg or 1.5 mg, respectively. The study demonstrated no clinically important effects on ECG parameters: the largest point estimate of the placebo and baseline corrected QTc interval was 7.0 ms (onesided upper 95% confidence limit 8.8 ms), observed 16 hours after the administration of supratherapeutic doses (600 mg netupitant and 1.5 mg palo nosetron). The upper 95% confidence limit of the point estimates of placebo and baseline corrected QTcI was constantly within 10 ms at all time points over 2 days after study administration of the medicinal product.
+An ECG study was conducted in adult male and female healthy volunteers with oral netupitant either 200 mg or 600 mg administered in combination with oral palonosetron 0.5 mg or 1.5 mg, respectively. The study demonstrated no clinically important effects on ECG parameters: the largest point estimate of the placebo and baseline corrected QTc interval was 7.0 ms (onesided upper 95% confidence limit 8.8 ms), observed 16 hours after the administration of supratherapeutic doses (600 mg netupitant and 1.5 mg palonosetron). The upper 95% confidence limit of the point estimates of placebo and baseline corrected QTcI was constantly within 10 ms at all time points over 2 days after study administration of the medicinal product.
 
 However, since netupitant and palonosetron hydrochloride combination contains a 5-HT3 receptor antagonist, caution should be exercised in concomitant use with medicinal products that increase the QT interval or in patients who have or are likely to develop prolongation of the QT interval. These conditions include patients with a personal or family history of QT prolongation, electrolyte abnormalities, congestive heart failure, bradyarrhythmia, conduction disturbances and in patients taking anti-arrhythmic medicinal products or other medicinal products that lead to QT prolongation or electrolyte abnormalities. Hypokalaemia and hypomagnesaemia should be corrected prior to administration.
 
@@ -776,9 +774,7 @@ Co-administration of a single oral dose of 300 mg netupitant or a single intrave
 
 As such, the oral dexamethasone dose should be reduced by approximately 50% when co-administered with fosnetupitant and palonosetron hydrochloride combination (see section 4.2).
 
-## Chemotherapeutic medicinal products (docetaxel, etoposide, cyclophosphamide)
-
-Exposure to docetaxel and etoposide was increased 37% and 21%, respectively, when co-administered with netupitant/palonosetron capsules. No consistent effect was seen with cyclophosphamide after netupitant co-administration.
+Chemotherapeutic medicinal products (docetaxel, etoposide, cyclophosphamide) Exposure to docetaxel and etoposide was increased 37% and 21%, respectively, when co-administered with netupitant/palonosetron capsules. No consistent effect was seen with cyclophosphamide after netupitant co-administration.
 
 ## Oral contraceptives
 
@@ -876,47 +872,47 @@ The following convention has been used for classification of frequency: Very com
 
 Table 1: Adverse reactions
 
-| System organ class                              | Common       | Uncommon                             | Rare                                     |
-|-------------------------------------------------|--------------|--------------------------------------|------------------------------------------|
-| Infections and infestations                     |              |                                      | Cystitis                                 |
-| Blood and lymphatic                             |              | Neutropenia                          | Leukopenia                               |
-| system disorders                                |              | Leucocytosis                         | Lymphocytosis                            |
-| Metabolism and nutrition disorders              |              | Decreased appetite                   | Hypokalaemia                             |
-| Psychiatric disorders                           |              | Insomnia                             | Acute psychosis                          |
-|                                                 |              |                                      | Mood altered                             |
-|                                                 |              |                                      | Sleep disorder                           |
-| Nervous system                                  | Headache     | Dizziness                            | Hypoaesthesia                            |
-| disorders                                       |              |                                      | Somnolence                               |
-| Eye disorders                                   |              |                                      | Conjunctivitis                           |
-|                                                 |              |                                      | Vision blurred                           |
-| Ear and labyrinth disorders                     |              | Vertigo                              | Tinnitus                                 |
-| Cardiac disorders                               |              | Atrioventricular block first degree  | Arrhythmia                               |
-|                                                 |              | Cardiomyopathy                       | Atrioventricular block second degree     |
-|                                                 |              | Conduction disorder                  | Bundle branch block left                 |
-|                                                 |              | Tachycardia                          | Bundle branch block right                |
-|                                                 |              |                                      | Mitral valve incompetence                |
-|                                                 |              |                                      | Myocardial ischaemia                     |
-|                                                 |              |                                      | Ventricular extrasystoles                |
-| Vascular disorders                              |              | Hypertension                         | Flushing                                 |
-|                                                 |              |                                      | Hypotension                              |
-| Respiratory, thoracic and mediastinal disorders |              | Hiccups                              |                                          |
-| Gastrointestinal disorders                      | Constipation | Abdominal distension                 | Dry mouth                                |
-|                                                 |              | Abdominal pain                       | Dysphagia                                |
-|                                                 |              | Diarrhoea                            | Eructation                               |
-|                                                 |              | Dyspepsia                            | Haemorrhoids                             |
-|                                                 |              | Flatulence                           | Tongue coated                            |
-|                                                 |              | Nausea                               | Vomiting                                 |
-| Skin and subcutaneous                           |              | Alopecia                             | Erythema                                 |
-| tissue disorders                                |              | Urticaria                            | Pruritus                                 |
-|                                                 |              |                                      | Rash                                     |
-| Musculoskeletal and connective tissue           |              |                                      | Back pain                                |
-| disorders                                       |              |                                      | Pain in extremities                      |
-| General disorders and                           | Fatigue      | Asthenia                             | Feeling hot                              |
-| administration site                             |              |                                      | Non-cardiac chest pain                   |
-| conditions                                      |              |                                      | Product taste abnormal                   |
-| Investigations                                  |              | Liver transaminases increased        | Blood bilirubin increased                |
-|                                                 |              | Blood alkaline phosphatase increased | Blood creatine phosphokinase increased   |
-|                                                 |              | Blood creatinine increased           | Blood creatine PhosphokinaseMB increased |
+| System organ class                              | Common       | Uncommon                             | Rare                                      |
+|-------------------------------------------------|--------------|--------------------------------------|-------------------------------------------|
+| Infections and infestations                     |              |                                      | Cystitis                                  |
+| Blood and lymphatic                             |              | Neutropenia                          | Leukopenia                                |
+| system disorders                                |              | Leucocytosis                         | Lymphocytosis                             |
+| Metabolism and nutrition disorders              |              | Decreased appetite                   | Hypokalaemia                              |
+| Psychiatric disorders                           |              | Insomnia                             | Acute psychosis                           |
+|                                                 |              |                                      | Mood altered                              |
+|                                                 |              |                                      | Sleep disorder                            |
+| Nervous system                                  | Headache     | Dizziness                            | Hypoaesthesia                             |
+| disorders                                       |              |                                      | Somnolence                                |
+| Eye disorders                                   |              |                                      | Conjunctivitis                            |
+|                                                 |              |                                      | Vision blurred                            |
+| Ear and labyrinth disorders                     |              | Vertigo                              | Tinnitus                                  |
+| Cardiac disorders                               |              | Atrioventricular block first degree  | Arrhythmia                                |
+|                                                 |              | Cardiomyopathy                       | Atrioventricular block second degree      |
+|                                                 |              | Conduction disorder                  | Bundle branch block left                  |
+|                                                 |              | Tachycardia                          | Bundle branch block right                 |
+|                                                 |              |                                      | Mitral valve incompetence                 |
+|                                                 |              |                                      | Myocardial ischaemia                      |
+|                                                 |              |                                      | Ventricular extrasystoles                 |
+| Vascular disorders                              |              | Hypertension                         | Flushing                                  |
+|                                                 |              |                                      | Hypotension                               |
+| Respiratory, thoracic and mediastinal disorders |              | Hiccups                              |                                           |
+| Gastrointestinal disorders                      | Constipation | Abdominal distension                 | Dry mouth                                 |
+|                                                 |              | Abdominal pain                       | Dysphagia                                 |
+|                                                 |              | Diarrhoea                            | Eructation                                |
+|                                                 |              | Dyspepsia                            | Haemorrhoids                              |
+|                                                 |              | Flatulence                           | Tongue coated                             |
+|                                                 |              | Nausea                               | Vomiting                                  |
+| Skin and subcutaneous                           |              | Alopecia                             | Erythema                                  |
+| tissue disorders                                |              | Urticaria                            | Pruritus                                  |
+|                                                 |              |                                      | Rash                                      |
+| Musculoskeletal and connective tissue           |              |                                      | Back pain                                 |
+| disorders                                       |              |                                      | Pain in extremities                       |
+| General disorders and                           | Fatigue      | Asthenia                             | Feeling hot                               |
+| administration site                             |              |                                      | Non-cardiac chest pain                    |
+| conditions                                      |              |                                      | Product taste abnormal                    |
+| Investigations                                  |              | Liver transaminases increased        | Blood bilirubin increased                 |
+|                                                 |              | Blood alkaline phosphatase increased | Blood creatine phosphokinase increased    |
+|                                                 |              | Blood creatinine increased           | Blood creatine Phosphokinase MB increased |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -988,10 +984,10 @@ Treatment regimens for the Akynzeo and the palonosetron 0.5 mg arms are displaye
 
 Table 2: Oral antiemetic treatment regimen -- HEC study
 
-| Treatment regimen   | Day 1                                                               | Days 2 to 4                    |
-|---------------------|---------------------------------------------------------------------|--------------------------------|
-| Akynzeo             | Akynzeo (Netupitant 300 mg Palonosetron 0.5 mg) Dexamethasone 12 mg | Dexamethasone 8 mg once a day  |
-| Palonosetron        | Palonosetron 0.5 mg Dexamethasone 20 mg                             | Dexamethasone 8 mg twice a day |
+| Treatment regimen   | Day 1                                                                 | Days 2 to 4                    |
+|---------------------|-----------------------------------------------------------------------|--------------------------------|
+| Akynzeo             | Akynzeo (Netupitant 300 mg + Palonosetron 0.5 mg) Dexamethasone 12 mg | Dexamethasone 8 mg once a day  |
+| Palonosetron        | Palonosetron 0.5 mg Dexamethasone 20 mg                               | Dexamethasone 8 mg twice a day |
 
 The primary efficacy endpoint was complete response (CR) rate (defined as no emetic episodes, no rescue medication) within 120 hours (overall phase) after the start of the highly emetogenic chemotherapy administration.
 
@@ -1050,22 +1046,23 @@ A summary of the key results from this study is shown in the table 5 below.
 
 Table 5: Proportion of patients receiving anthracycline and cyclophosphamide chemotherapy responding by treatment group and phase - cycle 1
 
-|                                   |   Akynzeo N=724 % |   Palonosetron 0.5 mg N=725 % | p-value*   |
-|-----------------------------------|-------------------|-------------------------------|------------|
-| Primary endpoint                  |                   |                               |            |
-| Complete response Delayed phase † |              76.9 |                          69.5 | 0.001      |
-| Major secondary endpoints         |                   |                               |            |
-| Complete response                 |                   |                               |            |
-| Acute phase ‡                     |              88.4 |                          85.0 | 0.047      |
-| Overall phase §                   |              74.3 |                          66.6 | 0.001      |
-| No emesis                         |                   |                               |            |
-| Acute phase                       |              90.9 |                          87.3 | 0.025      |
-| Delayed phase                     |              81.8 |                          75.6 | 0.004      |
-| Overall phase                     |              79.8 |                          72.1 | <0.001     |
-| No significant nausea             |                   |                               |            |
-| Acute phase                       |              87.3 |                          87.9 | N.S.       |
-| Delayed phase                     |              76.9 |                          71.3 | 0.014      |
-| Overall phase                     |              74.6 |                          69.1 | 0.020      |
+|                           |   Akynzeo N=724 % |   Palonosetron 0.5 mg N=725 % | p-value*   |
+|---------------------------|-------------------|-------------------------------|------------|
+| Primary endpoint          |                   |                               |            |
+| Complete response Delayed |                   |                               |            |
+| phase †                   |              76.9 |                          69.5 | 0.001      |
+| Major secondary endpoints |                   |                               |            |
+| Complete response         |                   |                               |            |
+| Acute phase ‡             |              88.4 |                          85.0 | 0.047      |
+| Overall phase §           |              74.3 |                          66.6 | 0.001      |
+| No emesis                 |                   |                               |            |
+| Acute phase               |              90.9 |                          87.3 | 0.025      |
+| Delayed phase             |              81.8 |                          75.6 | 0.004      |
+| Overall phase             |              79.8 |                          72.1 | <0.001     |
+| No significant nausea     |                   |                               |            |
+| Acute phase               |              87.3 |                          87.9 | N.S.       |
+| Delayed phase             |              76.9 |                          71.3 | 0.014      |
+| Overall phase             |              74.6 |                          69.1 | 0.020      |
 
 * p-value from Cochran-Mantel-Haenszel test, stratified by age class and region.
 
@@ -1107,18 +1104,16 @@ After single dose administration of Akynzeo, administered as a 30-minute infusio
 
 Table 6: PK Parameters (mean and CV%) After Single Dose Administration Akynzeo Powder for Concentrate for Solution for Infusion in Healthy Volunteers (HVs) and Cancer Patients
 
-|               |          | Fosnetupitant    | Netupitant      | Palonosetron 2   |
-|---------------|----------|------------------|-----------------|------------------|
-| C max (ng/mL) | HVs      | 6431 (14)        | 841 (21)        | 2.1 (61)         |
-| C max (ng/mL) | Patients | 3478 (45)        | 590 (28)        | 0.8 (35)         |
-|               | HVs      | 0.5 (0.25 - 0.5) | 0.5 (0.5 - 0.4) | 0.55             |
-|               | Patients | 0.5 (0.5 - 0.6)  | 0.6 (0.5 - 4)   | 0.6 (0.5 - 6)    |
-| AUC (ng*h/mL) | HVs      | 2938 (12)        | 13854 (21)      | 35 (33)          |
-| AUC (ng*h/mL) | Patients | 1401 (46)        | 15588 (32)      | 36 (30)          |
-|               | HVs      | 0.96 (57)        | 36.1 (19)       | 43 (32)          |
-|               | Patients | 0.75 (54)        | 144 (50)        | 58 (47)          |
-
-1  median (min-max);  2  IV bolus in HVs
+|               |                    | Fosnetupitant    | Netupitant      | Palonosetron 2   |
+|---------------|--------------------|------------------|-----------------|------------------|
+| C max (ng/mL) | HVs                | 6431 (14)        | 841 (21)        | 2.1 (61)         |
+| C max (ng/mL) | Patients           | 3478 (45)        | 590 (28)        | 0.8 (35)         |
+|               | 1 HVs              | 0.5 (0.25 - 0.5) | 0.5 (0.5 - 0.4) | 0.55             |
+|               | t max (h) Patients | 0.5 (0.5 - 0.6)  | 0.6 (0.5 - 4)   | 0.6 (0.5 - 6)    |
+| AUC (ng*h/mL) | HVs                | 2938 (12)        | 13854 (21)      | 35 (33)          |
+| AUC (ng*h/mL) | Patients           | 1401 (46)        | 15588 (32)      | 36 (30)          |
+|               | HVs                | 0.96 (57)        | 36.1 (19)       | 43 (32)          |
+|               | t 1/2 (h) Patients | 0.75 (54)        | 144 (50)        | 58 (47)          |
 
 Fosnetupitant Cmax and AUC were lower in patients than in healthy subjects, although the systemic exposures to netupitant were comparable.
 
@@ -1158,7 +1153,7 @@ Fosnetupitant is rapidly converted in vivo to netupitant by metabolic hydrolysis
 
 ## Palonosetron
 
-Palonosetron is eliminated by multiple routes with approximately 50% metabolised to form two primary metabolites: N-oxide-palonosetron and 6-S-hydroxy-palonosetron. These metabolites each have less than 1% of the 5-HT3 receptor antagonist activity of palonosetron. In vitro metabolism studies have suggested that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 are involved in the metabolism of palonosetron. However, clinical pharmacokinetic parameters are not significantly different between poor and extensive metabolizers of CYP2D6 substrates.
+Palonosetron is eliminated by multiple routes with approximately 50% metabolised to form two primary metabolites: N-oxide-palonosetron and 6-S­hydroxy-palonosetron. These metabolites each have less than 1% of the 5-HT3 receptor antagonist activity of palonosetron. In vitro metabolism studies have suggested that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 are involved in the metabolism of palonosetron. However, clinical pharmacokinetic parameters are not significantly different between poor and extensive metabolizers of CYP2D6 substrates.
 
 ## Elimination
 
@@ -1186,7 +1181,7 @@ Following administration of a single oral 0.75 mg dose of [14C]­palonosetron to
 
 ## Netupitant
 
-Maximum concentrations and total exposure of netupitant were increased in subjects with mild (n=8), moderate (n=8), and severe (n=2) hepatic impairment compared to matching healthy subjects, although there was pronounced individual variability in both hepatically-impaired and healthy subjects. Exposure to netupitant (Cmax, AUC0-t and AUC0-∞ ) compared to matching healthy subjects was 11%, 28% and 19% higher in mild and 70%, 88% and 143% higher in moderate hepatically -impaired subjects, respectively. As such, no dose adjustment is necessary for patients with mild to moderate hepatic impairment. Limited data exist in patients with severe hepatic impairment (Child Pugh score ≥9).
+Maximum concentrations and total exposure of netupitant were increased in subjects with mild (n=8), moderate (n=8), and severe (n=2) hepatic impairment compared to matching healthy subjects, although there was pronounced individual variability in both hepatically-impaired and healthy subjects. Exposure to netupitant (Cmax, AUC0-t and AUC0-∞ ) compared to matching healthy subjects was 11%, 28% and 19% higher in mild and 70%, 88% and 143% higher in moderate hepatically - impaired subjects, respectively. As such, no dose adjustment is necessary for patients with mild to moderate hepatic impairment. Limited data exist in patients with severe hepatic impairment (Child Pugh score ≥9).
 
 ## Palonosetron
 
@@ -1270,12 +1265,12 @@ Akynzeo must be reconstituted and then diluted prior to administration.
 
 ## Preparation of Akynzeo
 
-| Step 1   | Aseptically inject 20 mL5%glucose injection or sodium chloride 9 mg/ml (0.9%) solution for injection, into the vial. Ensure the solvent is added to the vial along the vial wall and not jetted in order to prevent foaming. Swirl the vial gently for 3 minutes. The powder should be dissolved before the solution is diluted in the infusion bag.   |
-|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 2   | Aseptically prepare an infusion vial or bag filled with 30 mL of 5% glucose injection, or sodium chloride 9 mg/ml (0.9%) solution for injection .                                                                                                                                                                                                      |
-| Step 3   | Dilution should occur immediately after reconstitution (according to Step 1). Aseptically withdraw the entire volume of reconstituted solution from the AKYNZEOvial and transfer it into the infusion vial or bag containing 30 mLof5%glucose injection or sodium chloride 9 mg/ml (0.9%) solution for injection to yield a total volume of 50 mL.     |
-| Step 4   | Gently invert the vial or bag until complete dissolution.                                                                                                                                                                                                                                                                                              |
-| Step 5   | Before administration, inspect the final diluted solution for particulate matter and discolouration. Discard the vial or bag if particulates and/or discolouration are observed.                                                                                                                                                                       |
+| Step 1   | Aseptically inject 20 mL 5% glucose injection or sodium chloride 9 mg/ml (0.9%) solution for injection, into the vial. Ensure the solvent is added to the vial along the vial wall and not jetted in order to prevent foaming. Swirl the vial gently for 3 minutes. The powder should be dissolved before the solution is diluted in the infusion bag.   |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 2   | Aseptically prepare an infusion vial or bag filled with 30 mL of 5% glucose injection, or sodium chloride 9 mg/ml (0.9%) solution for injection .                                                                                                                                                                                                        |
+| Step 3   | Dilution should occur immediately after reconstitution (according to Step 1). Aseptically withdraw the entire volume of reconstituted solution from the AKYNZEO vial and transfer it into the infusion vial or bag containing 30 mL of 5% glucose injection or sodium chloride 9 mg/ml (0.9%) solution for injection to yield a total volume of 50 mL.   |
+| Step 4   | Gently invert the vial or bag until complete dissolution.                                                                                                                                                                                                                                                                                                |
+| Step 5   | Before administration, inspect the final diluted solution for particulate matter and discolouration. Discard the vial or bag if particulates and/or discolouration are observed.                                                                                                                                                                         |
 
 Akynzeo  must  not  be  reconstituted  or  mixed  with  solutions  for  which  physical  and  chemical compatibility has not been established (see section 6.2).
 
@@ -1309,9 +1304,7 @@ Akynzeo 235 mg/0.25 mg concentrate for solution for infusion
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each vial of 20 ml contains 235 mg of fosnetupitant (as chloride hydrochloride), which corresponds to 197.5 mg of netupitant, and 0.25 mg of palonosetron (as hydrochloride). mg of
-
-Each ml of concentrate for solution contains 11.75 mg fosnetupitant, which corresponds to 9.87 netupitant, and 0.0125 mg palonosetron
+Each vial of 20 ml contains 235 mg of fosnetupitant (as chloride hydrochloride), which corresponds to 197.5 mg of netupitant, and 0.25 mg of palonosetron (as hydrochloride). Each ml of concentrate for solution contains 11.75 mg fosnetupitant, which corresponds to 9.87 mg of netupitant, and 0.0125 mg palonosetron
 
 After dilution 1 ml of solution contains 4.7 mg fosnetupitant, which corresponds to 3.95 mg of netupitant, and 0.005 mg palonosetron.
 
@@ -1333,8 +1326,8 @@ Clear, colourless to slightly yellow solution.
 
 Akynzeo is indicated in adults for the:
 
-- -Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin-based cancer chemotherapy.
-- -Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy.
+- Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin-based cancer chemotherapy.
+- Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy.
 
 ## 4.2 Posology and method of administration
 
@@ -1390,7 +1383,7 @@ There have been reports of serotonin syndrome with the use of 5-HT3 antagonists 
 
 <div style=\"page-break-after: always\"></div>
 
-An ECG study was conducted in adult male and female healthy volunteers with oral netupitant either 200 mg or 600 mg administered in combination with oral palonosetron 0.5 mg or 1.5 mg, respectively. The study demonstrated no clinically important effects on ECG parameters: the largest point estimate of the placebo and baseline corrected QTc interval was 7.0 ms (onesided upper 95% confidence limit 8.8 ms), observed 16 hours after the administration of supratherapeutic doses (600 mg netupitant and 1.5 mg palo nosetron). The upper 95% confidence limit of the point estimates of placebo and baseline corrected QTcI was constantly within 10 ms at all time points over 2 days after study administration of the medicinal product.
+An ECG study was conducted in adult male and female healthy volunteers with oral netupitant either 200 mg or 600 mg administered in combination with oral palonosetron 0.5 mg or 1.5 mg, respectively. The study demonstrated no clinically important effects on ECG parameters: the largest point estimate of the placebo and baseline corrected QTc interval was 7.0 ms (onesided upper 95% confidence limit 8.8 ms), observed 16 hours after the administration of supratherapeutic doses (600 mg netupitant and 1.5 mg palonosetron). The upper 95% confidence limit of the point estimates of placebo and baseline corrected QTcI was constantly within 10 ms at all time points over 2 days after study administration of the medicinal product.
 
 However, since netupitant and palonosetron hydrochloride combination contains a 5-HT3 receptor antagonist, caution should be exercised in concomitant use with medicinal products that increase the QT interval or in patients who have or are likely to develop prolongation of the QT interval. These conditions include patients with a personal or family history of QT prolongation, electrolyte abnormalities, congestive heart failure, bradyarrhythmia, conduction disturbances and in patients taking anti-arrhythmic medicinal products or other medicinal products that lead to QT prolongation or electrolyte abnormalities. Hypokalaemia and hypomagnesaemia should be corrected prior to administration.
 
@@ -1432,9 +1425,7 @@ Co-administration of a single oral dose of 300 mg netupitant or a single intrave
 
 As such, the oral dexamethasone dose should be reduced by approximately 50% when co-administered with fosnetupitant and palonosetron hydrochloride combination (see section 4.2).
 
-## Chemotherapeutic medicinal products (docetaxel, etoposide, cyclophosphamide)
-
-Exposure to docetaxel and etoposide was increased 37% and 21%, respectively, when co-administered with netupitant/palonosetron capsules. No consistent effect was seen with cyclophosphamide after netupitant co-administration.
+Chemotherapeutic medicinal products (docetaxel, etoposide, cyclophosphamide) Exposure to docetaxel and etoposide was increased 37% and 21%, respectively, when co-administered with netupitant/palonosetron capsules. No consistent effect was seen with cyclophosphamide after netupitant co-administration.
 
 ## Oral contraceptives
 
@@ -1532,47 +1523,47 @@ The following convention has been used for classification of frequency: Very com
 
 Table 1: Adverse reactions
 
-| System organ class                              | Common       | Uncommon                             | Rare                                     |
-|-------------------------------------------------|--------------|--------------------------------------|------------------------------------------|
-| Infections and infestations                     |              |                                      | Cystitis                                 |
-| Blood and lymphatic                             |              | Neutropenia                          | Leukopenia                               |
-| system disorders                                |              | Leucocytosis                         | Lymphocytosis                            |
-| Metabolism and nutrition disorders              |              | Decreased appetite                   | Hypokalaemia                             |
-| Psychiatric disorders                           |              | Insomnia                             | Acute psychosis                          |
-|                                                 |              |                                      | Mood altered                             |
-|                                                 |              |                                      | Sleep disorder                           |
-| Nervous system                                  | Headache     | Dizziness                            | Hypoaesthesia                            |
-| disorders                                       |              |                                      | Somnolence                               |
-| Eye disorders                                   |              |                                      | Conjunctivitis                           |
-|                                                 |              |                                      | Vision blurred                           |
-| Ear and labyrinth disorders                     |              | Vertigo                              | Tinnitus                                 |
-| Cardiac disorders                               |              | Atrioventricular block first degree  | Arrhythmia                               |
-|                                                 |              | Cardiomyopathy                       | Atrioventricular block second degree     |
-|                                                 |              | Conduction disorder                  | Bundle branch block left                 |
-|                                                 |              | Tachycardia                          | Bundle branch block right                |
-|                                                 |              |                                      | Mitral valve incompetence                |
-|                                                 |              |                                      | Myocardial ischaemia                     |
-|                                                 |              |                                      | Ventricular extrasystoles                |
-| Vascular disorders                              |              | Hypertension                         | Flushing                                 |
-|                                                 |              |                                      | Hypotension                              |
-| Respiratory, thoracic and mediastinal disorders |              | Hiccups                              |                                          |
-| Gastrointestinal disorders                      | Constipation | Abdominal distension                 | Dry mouth                                |
-|                                                 |              | Abdominal pain                       | Dysphagia                                |
-|                                                 |              | Diarrhoea                            | Eructation                               |
-|                                                 |              | Dyspepsia                            | Haemorrhoids                             |
-|                                                 |              | Flatulence                           | Tongue coated                            |
-|                                                 |              | Nausea                               | Vomiting                                 |
-| Skin and subcutaneous                           |              | Alopecia                             | Erythema                                 |
-| tissue disorders                                |              | Urticaria                            | Pruritus                                 |
-|                                                 |              |                                      | Rash                                     |
-| Musculoskeletal and connective tissue           |              |                                      | Back pain                                |
-| disorders                                       |              |                                      | Pain in extremities                      |
-| General disorders and                           | Fatigue      | Asthenia                             | Feeling hot                              |
-| administration site                             |              |                                      | Non-cardiac chest pain                   |
-| conditions                                      |              |                                      | Product taste abnormal                   |
-| Investigations                                  |              | Liver transaminases increased        | Blood bilirubin increased                |
-|                                                 |              | Blood alkaline phosphatase increased | Blood creatine phosphokinase increased   |
-|                                                 |              | Blood creatinine increased           | Blood creatine PhosphokinaseMB increased |
+| System organ class                              | Common       | Uncommon                             | Rare                                      |
+|-------------------------------------------------|--------------|--------------------------------------|-------------------------------------------|
+| Infections and infestations                     |              |                                      | Cystitis                                  |
+| Blood and lymphatic                             |              | Neutropenia                          | Leukopenia                                |
+| system disorders                                |              | Leucocytosis                         | Lymphocytosis                             |
+| Metabolism and nutrition disorders              |              | Decreased appetite                   | Hypokalaemia                              |
+| Psychiatric disorders                           |              | Insomnia                             | Acute psychosis                           |
+|                                                 |              |                                      | Mood altered                              |
+|                                                 |              |                                      | Sleep disorder                            |
+| Nervous system                                  | Headache     | Dizziness                            | Hypoaesthesia                             |
+| disorders                                       |              |                                      | Somnolence                                |
+| Eye disorders                                   |              |                                      | Conjunctivitis                            |
+|                                                 |              |                                      | Vision blurred                            |
+| Ear and labyrinth disorders                     |              | Vertigo                              | Tinnitus                                  |
+| Cardiac disorders                               |              | Atrioventricular block first degree  | Arrhythmia                                |
+|                                                 |              | Cardiomyopathy                       | Atrioventricular block second degree      |
+|                                                 |              | Conduction disorder                  | Bundle branch block left                  |
+|                                                 |              | Tachycardia                          | Bundle branch block right                 |
+|                                                 |              |                                      | Mitral valve incompetence                 |
+|                                                 |              |                                      | Myocardial ischaemia                      |
+|                                                 |              |                                      | Ventricular extrasystoles                 |
+| Vascular disorders                              |              | Hypertension                         | Flushing                                  |
+|                                                 |              |                                      | Hypotension                               |
+| Respiratory, thoracic and mediastinal disorders |              | Hiccups                              |                                           |
+| Gastrointestinal disorders                      | Constipation | Abdominal distension                 | Dry mouth                                 |
+|                                                 |              | Abdominal pain                       | Dysphagia                                 |
+|                                                 |              | Diarrhoea                            | Eructation                                |
+|                                                 |              | Dyspepsia                            | Haemorrhoids                              |
+|                                                 |              | Flatulence                           | Tongue coated                             |
+|                                                 |              | Nausea                               | Vomiting                                  |
+| Skin and subcutaneous                           |              | Alopecia                             | Erythema                                  |
+| tissue disorders                                |              | Urticaria                            | Pruritus                                  |
+|                                                 |              |                                      | Rash                                      |
+| Musculoskeletal and connective tissue           |              |                                      | Back pain                                 |
+| disorders                                       |              |                                      | Pain in extremities                       |
+| General disorders and                           | Fatigue      | Asthenia                             | Feeling hot                               |
+| administration site                             |              |                                      | Non-cardiac chest pain                    |
+| conditions                                      |              |                                      | Product taste abnormal                    |
+| Investigations                                  |              | Liver transaminases increased        | Blood bilirubin increased                 |
+|                                                 |              | Blood alkaline phosphatase increased | Blood creatine phosphokinase increased    |
+|                                                 |              | Blood creatinine increased           | Blood creatine Phosphokinase MB increased |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1644,10 +1635,10 @@ Treatment regimens for the Akynzeo and the palonosetron 0.5 mg arms are displaye
 
 Table 2: Oral antiemetic treatment regimen -- HEC study
 
-| Treatment regimen   | Day 1                                                               | Days 2 to 4                    |
-|---------------------|---------------------------------------------------------------------|--------------------------------|
-| Akynzeo             | Akynzeo (Netupitant 300 mg Palonosetron 0.5 mg) Dexamethasone 12 mg | Dexamethasone 8 mg once a day  |
-| Palonosetron        | Palonosetron 0.5 mg Dexamethasone 20 mg                             | Dexamethasone 8 mg twice a day |
+| Treatment regimen   | Day 1                                                                 | Days 2 to 4                    |
+|---------------------|-----------------------------------------------------------------------|--------------------------------|
+| Akynzeo             | Akynzeo (Netupitant 300 mg + Palonosetron 0.5 mg) Dexamethasone 12 mg | Dexamethasone 8 mg once a day  |
+| Palonosetron        | Palonosetron 0.5 mg Dexamethasone 20 mg                               | Dexamethasone 8 mg twice a day |
 
 The primary efficacy endpoint was complete response (CR) rate (defined as no emetic episodes, no rescue medication) within 120 hours (overall phase) after the start of the highly emetogenic chemotherapy administration.
 
@@ -1706,22 +1697,23 @@ A summary of the key results from this study is shown in the table 5 below.
 
 Table 5: Proportion of patients receiving anthracycline and cyclophosphamide chemotherapy responding by treatment group and phase - cycle 1
 
-|                                   |   Akynzeo N=724 % |   Palonosetron 0.5 mg N=725 % | p-value*   |
-|-----------------------------------|-------------------|-------------------------------|------------|
-| Primary endpoint                  |                   |                               |            |
-| Complete response Delayed phase † |              76.9 |                          69.5 | 0.001      |
-| Major secondary endpoints         |                   |                               |            |
-| Complete response                 |                   |                               |            |
-| Acute phase ‡                     |              88.4 |                          85.0 | 0.047      |
-| Overall phase §                   |              74.3 |                          66.6 | 0.001      |
-| No emesis                         |                   |                               |            |
-| Acute phase                       |              90.9 |                          87.3 | 0.025      |
-| Delayed phase                     |              81.8 |                          75.6 | 0.004      |
-| Overall phase                     |              79.8 |                          72.1 | <0.001     |
-| No significant nausea             |                   |                               |            |
-| Acute phase                       |              87.3 |                          87.9 | N.S.       |
-| Delayed phase                     |              76.9 |                          71.3 | 0.014      |
-| Overall phase                     |              74.6 |                          69.1 | 0.020      |
+|                           |   Akynzeo N=724 % |   Palonosetron 0.5 mg N=725 % | p-value*   |
+|---------------------------|-------------------|-------------------------------|------------|
+| Primary endpoint          |                   |                               |            |
+| Complete response Delayed |                   |                               |            |
+| phase †                   |              76.9 |                          69.5 | 0.001      |
+| Major secondary endpoints |                   |                               |            |
+| Complete response         |                   |                               |            |
+| Acute phase ‡             |              88.4 |                          85.0 | 0.047      |
+| Overall phase §           |              74.3 |                          66.6 | 0.001      |
+| No emesis                 |                   |                               |            |
+| Acute phase               |              90.9 |                          87.3 | 0.025      |
+| Delayed phase             |              81.8 |                          75.6 | 0.004      |
+| Overall phase             |              79.8 |                          72.1 | <0.001     |
+| No significant nausea     |                   |                               |            |
+| Acute phase               |              87.3 |                          87.9 | N.S.       |
+| Delayed phase             |              76.9 |                          71.3 | 0.014      |
+| Overall phase             |              74.6 |                          69.1 | 0.020      |
 
 * p-value from Cochran-Mantel-Haenszel test, stratified by age class and region.
 
@@ -1735,7 +1727,7 @@ Patients continued into the Multiple-Cycle extension for up to 7 additional cycl
 
 The impact of nausea and vomiting on patients' daily lives was assessed using the Functional Living Index-Emesis (FLIE). The proportion of patients with Overall no impact on daily life was 6.3% higher (p value =0.005) in the Akynzeo group (78.5%) than in the palonosetron group (72.1%).
 
-## Multiple-cycle safety study in patients receiving either Highly Emetogenic Chemotherapy or Moderately Emetogenic Chemotherapy
+Multiple-cycle safety study in patients receiving either Highly Emetogenic Chemotherapy or Moderately Emetogenic Chemotherapy
 
 In a separate study, a total of 413 patients undergoing initial and repeat cycles of chemotherapy (including carboplatin, cisplatin, oxaliplatin, and doxorubicin regimens), were randomized to receive either Akynzeo (n=309) or aprepitant and palonosetron (n=104). Safety and efficacy were maintained throughout all cycles.
 
@@ -1763,18 +1755,16 @@ After single dose administration of Akynzeo, administered as a 30-minute infusio
 
 Table 6: PK Parameters (mean and CV%) After Single Dose Administration Akynzeo Concentrate for Solution for Infusion in Healthy Volunteers (HVs) and Cancer Patients
 
-|               |          | Fosnetupitant    | Netupitant      | Palonosetron 2   |
-|---------------|----------|------------------|-----------------|------------------|
-| C max (ng/mL) | HVs      | 6431 (14)        | 841 (21)        | 2.1 (61)         |
-| C max (ng/mL) | Patients | 3478 (45)        | 590 (28)        | 0.8 (35)         |
-|               | HVs      | 0.5 (0.25 - 0.5) | 0.5 (0.5 - 0.4) | 0.55             |
-|               | Patients | 0.5 (0.5 - 0.6)  | 0.6 (0.5 - 4)   | 0.6 (0.5 - 6)    |
-| AUC (ng*h/mL) | HVs      | 2938 (12)        | 13854 (21)      | 35 (33)          |
-| AUC (ng*h/mL) | Patients | 1401 (46)        | 15588 (32)      | 36 (30)          |
-|               | HVs      | 0.96 (57)        | 36.1 (19)       | 43 (32)          |
-|               | Patients | 0.75 (54)        | 144 (50)        | 58 (47)          |
-
-1  median (min-max);  2  IV bolus in HVs
+|               |                    | Fosnetupitant    | Netupitant      | Palonosetron 2   |
+|---------------|--------------------|------------------|-----------------|------------------|
+| C max (ng/mL) | HVs                | 6431 (14)        | 841 (21)        | 2.1 (61)         |
+| C max (ng/mL) | Patients           | 3478 (45)        | 590 (28)        | 0.8 (35)         |
+|               | 1 HVs              | 0.5 (0.25 - 0.5) | 0.5 (0.5 - 0.4) | 0.55             |
+|               | t max (h) Patients | 0.5 (0.5 - 0.6)  | 0.6 (0.5 - 4)   | 0.6 (0.5 - 6)    |
+| AUC (ng*h/mL) | HVs                | 2938 (12)        | 13854 (21)      | 35 (33)          |
+| AUC (ng*h/mL) | Patients           | 1401 (46)        | 15588 (32)      | 36 (30)          |
+|               | HVs                | 0.96 (57)        | 36.1 (19)       | 43 (32)          |
+|               | t 1/2 (h) Patients | 0.75 (54)        | 144 (50)        | 58 (47)          |
 
 Fosnetupitant Cmax and AUC were lower in patients than in healthy subjects, although the systemic exposures to netupitant were comparable.
 
@@ -1814,7 +1804,7 @@ Fosnetupitant is rapidly converted in vivo to netupitant by metabolic hydrolysis
 
 ## Palonosetron
 
-Palonosetron is eliminated by multiple routes with approximately 50% metabolised to form two primary metabolites: N-oxide-palonosetron and 6-S-hydroxy-palonosetron. These metabolites each have less than 1% of the 5-HT3 receptor antagonist activity of palonosetron. In vitro metabolism studies have suggested that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 are involved in the metabolism of palonosetron. However, clinical pharmacokinetic parameters are not significantly different between poor and extensive metabolizers of CYP2D6 substrates.
+Palonosetron is eliminated by multiple routes with approximately 50% metabolised to form two primary metabolites: N-oxide-palonosetron and 6-S­hydroxy-palonosetron. These metabolites each have less than 1% of the 5-HT3 receptor antagonist activity of palonosetron. In vitro metabolism studies have suggested that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 are involved in the metabolism of palonosetron. However, clinical pharmacokinetic parameters are not significantly different between poor and extensive metabolizers of CYP2D6 substrates.
 
 ## Elimination
 
@@ -1840,7 +1830,7 @@ Following administration of a single oral 0.75 mg dose of [14C]­palonosetron to
 
 ## Netupitant
 
-Maximum concentrations and total exposure of netupitant were increased in subjects with mild (n=8), moderate (n=8), and severe (n=2) hepatic impairment compared to matching healthy subjects, although there was pronounced individual variability in both hepatically-impaired and healthy subjects. Exposure to netupitant (Cmax, AUC0-t and AUC0-∞ ) compared to matching healthy subjects was 11%, 28% and 19% higher in mild and 70%, 88% and 143% higher in moderate hepatically -impaired subjects, respectively. As such, no dose adjustment is necessary for patients with mild to moderate hepatic impairment. Limited data exist in patients with severe hepatic impairment (Child Pugh score ≥9).
+Maximum concentrations and total exposure of netupitant were increased in subjects with mild (n=8), moderate (n=8), and severe (n=2) hepatic impairment compared to matching healthy subjects, although there was pronounced individual variability in both hepatically-impaired and healthy subjects. Exposure to netupitant (Cmax, AUC0-t and AUC0-∞ ) compared to matching healthy subjects was 11%, 28% and 19% higher in mild and 70%, 88% and 143% higher in moderate hepatically - impaired subjects, respectively. As such, no dose adjustment is necessary for patients with mild to moderate hepatic impairment. Limited data exist in patients with severe hepatic impairment (Child Pugh score ≥9).
 
 ## Palonosetron
 
@@ -1920,10 +1910,10 @@ Akynzeo must be diluted prior to administration.
 
 ## Preparation of Akynzeo
 
-| Step 1   | Aseptically prepare an infusion vial or bag filled with 30 mL of 5% glucose injection, or sodium chloride 9 mg/ml (0.9%) solution for injection .                                                                                                           |
-|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 2   | Aseptically withdraw the entire volume of concentrate from the AKYNZEO vial and transfer it into the infusion vial or bag containing 30 mLof 5%glucose injection or sodium chloride 9 mg/ml (0.9%) solution for injection to yield a total volume of 50 mL. |
-| Step 3   | Before administration, inspect the final diluted solution for particulate matter and discolouration. Discard the vial or bag if particulates and/or discolouration are observed.                                                                            |
+| Step 1   | Aseptically prepare an infusion vial or bag filled with 30 mL of 5% glucose injection, or sodium chloride 9 mg/ml (0.9%) solution for injection .                                                                                                             |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 2   | Aseptically withdraw the entire volume of concentrate from the AKYNZEO vial and transfer it into the infusion vial or bag containing 30 mL of 5% glucose injection or sodium chloride 9 mg/ml (0.9%) solution for injection to yield a total volume of 50 mL. |
+| Step 3   | Before administration, inspect the final diluted solution for particulate matter and discolouration. Discard the vial or bag if particulates and/or discolouration are observed.                                                                              |
 
 Akynzeo must not be diluted or mixed with solutions for which physical and chemical compatibility has not been established (see section 6.2).
 
@@ -1931,7 +1921,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Helsinn Birex Pharmaceuticals Ltd. Damastown Mulhuddart Dublin 15
+Helsinn Birex Pharmaceuticals Ltd.
+
+Damastown
+
+Mulhuddart
+
+Dublin 15
 
 Ireland
 
@@ -1979,8 +1975,8 @@ White to off white homogeneous suspension.
 
 Akynzeo is indicated in adults for the:
 
-- -Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin-based cancer chemotherapy.
-- -Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy.
+- Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin-based cancer chemotherapy.
+- Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy.
 
 ## 4.2 Posology and method of administration
 
@@ -2192,7 +2188,7 @@ Table1: Adverse reactions
 | Nervous system disorders                             | Headache     | Dizziness                            | Hypoaesthesia                          |
 | Nervous system disorders                             |              |                                      | Somnolence                             |
 | Eye disorders                                        |              |                                      | Conjunctivitis                         |
-|                                                      |              |                                      | Vision blurred                         |
+| Eye disorders                                        |              |                                      | Vision blurred                         |
 | Ear and labyrinth disorders                          |              | Vertigo                              | Tinnitus                               |
 | Cardiac disorders                                    |              | Atrioventricular block first degree  | Arrhythmia                             |
 |                                                      |              | Cardiomyopathy                       | Atrioventricular block second degree   |
@@ -2212,7 +2208,7 @@ Table1: Adverse reactions
 | Gastrointestinal disorders                           |              | Nausea                               | Vomiting                               |
 | Skin and subcutaneous tissue disorders               |              | Alopecia                             | Erythema                               |
 | Skin and subcutaneous tissue disorders               |              | Urticaria                            | Pruritus                               |
-|                                                      |              |                                      | Rash                                   |
+| Skin and subcutaneous tissue disorders               |              |                                      | Rash                                   |
 | Musculoskeletal and connective tissue                |              |                                      | Back pain                              |
 | disorders                                            |              |                                      | Pain in extremities                    |
 | General disorders and administration site conditions | Fatigue      | Asthenia                             | Feeling hot                            |
@@ -2224,7 +2220,7 @@ Table1: Adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-| increased                      | MBincreased                             |
+| increased                      | MB increased                            |
 |--------------------------------|-----------------------------------------|
 | Electrocardiogram QT prolonged | Blood urea increased                    |
 |                                | Electrocardiogram ST segment depression |
@@ -2287,10 +2283,10 @@ Treatment regimens for the Akynzeo and the palonosetron 0.5 mg arms are displaye
 
 Table 2: Oral antiemetic treatment regimen -- HEC study
 
-| Treatment regimen   | Day 1                                                               | Days 2 to 4                    |
-|---------------------|---------------------------------------------------------------------|--------------------------------|
-| Akynzeo             | Akynzeo (Netupitant 300 mg Palonosetron 0.5 mg) Dexamethasone 12 mg | Dexamethasone 8 mg once a day  |
-| Palonosetron        | Palonosetron 0.5 mg Dexamethasone 20 mg                             | Dexamethasone 8 mg twice a day |
+| Treatment regimen   | Day 1                                                                 | Days 2 to 4                    |
+|---------------------|-----------------------------------------------------------------------|--------------------------------|
+| Akynzeo             | Akynzeo (Netupitant 300 mg + Palonosetron 0.5 mg) Dexamethasone 12 mg | Dexamethasone 8 mg once a day  |
+| Palonosetron        | Palonosetron 0.5 mg Dexamethasone 20 mg                               | Dexamethasone 8 mg twice a day |
 
 The primary efficacy endpoint was complete response (CR) rate (defined as no emetic episodes, no rescue medication) within 120 hours (overall phase) after the start of the highly emetogenic chemotherapy administration.
 
@@ -2318,11 +2314,13 @@ Table 3: Proportion of patients receiving cisplatin chemotherapy responding by t
 | Delayed phase             |              90.4 |                          80.9 |     0.004 |
 | Overall phase             |              89.6 |                          79.4 |     0.021 |
 
-‡ Acute phase: 0 to 24 hours post-cisplatin treatment.
+†
 
-† Delayed phase: 25 to 120 hours post-cisplatin treatment.
+Delayed phase: 25 to 120 hours post-cisplatin treatment.
 
-§ Overall: 0 to 120 hours post-cisplatin treatment.
+§
+
+Overall: 0 to 120 hours post-cisplatin treatment.
 
 ## Moderately emetogenic chemotherapy (MEC) study
 
@@ -2430,7 +2428,7 @@ Three metabolites have been detected in human plasma at netupitant oral doses of
 
 ## Palonosetron
 
-Palonosetron is eliminated by multiple routes with approximately 50% metabolised to form two primary metabolites: N-oxide-palonosetron and 6-S-hydroxy-palonosetron. These metabolites each have less than 1% of the 5-HT3 receptor antagonist activity of palonosetron. In vitro metabolism studies have suggested that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 are involved in the metabolism of palonosetron. However, clinical pharmacokinetic parameters are not significantly different between poor and extensive metabolizers of CYP2D6 substrates.
+Palonosetron is eliminated by multiple routes with approximately 50% metabolised to form two primary metabolites: N-oxide-palonosetron and 6-S­hydroxy-palonosetron. These metabolites each have less than 1% of the 5-HT3 receptor antagonist activity of palonosetron. In vitro metabolism studies have suggested that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 are involved in the metabolism of palonosetron. However, clinical pharmacokinetic parameters are not significantly different between poor and extensive metabolizers of CYP2D6 substrates.
 
 ## Elimination
 
@@ -2448,7 +2446,7 @@ Following administration of a single oral 0.75 mg dose of [14C]­palonosetron to
 
 ## Netupitant
 
-Maximum concentrations and total exposure of netupitant were increased in subjects with mild (n=8), moderate (n=8), and severe (n=2) hepatic impairment compared to matching healthy subjects, although there was pronounced individual variability in both hepatically-impaired and healthy subjects. Exposure to netupitant (Cmax, AUC0-t and AUC0-∞ ) compared to matching healthy subjects was 11%, 28% and 19% higher in mild and 70%, 88% and 143% higher in moderate hepatically -impaired subjects, respectively. As such, no dose adjustment is necessary for patients with mild to moderate hepatic impairment. Limited data exist in patients with severe hepatic impairment (Child Pugh score ≥9).
+Maximum concentrations and total exposure of netupitant were increased in subjects with mild (n=8), moderate (n=8), and severe (n=2) hepatic impairment compared to matching healthy subjects, although there was pronounced individual variability in both hepatically-impaired and healthy subjects. Exposure to netupitant (Cmax, AUC0-t and AUC0-∞ ) compared to matching healthy subjects was 11%, 28% and 19% higher in mild and 70%, 88% and 143% higher in moderate hepatically - impaired subjects, respectively. As such, no dose adjustment is necessary for patients with mild to moderate hepatic impairment. Limited data exist in patients with severe hepatic impairment (Child Pugh score ≥9).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2496,7 +2494,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-30 months.
+3 years.
 
 ## 6.4 Special precautions for storage
 
@@ -2516,9 +2514,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-<div style=\"page-break-after: always\"></div>
-
 Helsinn Birex Pharmaceuticals Ltd. Damastown Mulhuddart Dublin 15 Ireland.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2540,10 +2538,8 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2628,9 +2624,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2653,10 +2647,9 @@ EU/1/15/1001/002 4x1 hard capsules
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 akynzeo
 
@@ -2674,23 +2667,29 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+<div style=\"page-break-after: always\"></div>
 
-BLISTER
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Akynzeo 300 mg/0.5 mg hard capsules netupitant/palonosetron
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Helsinn
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -2781,7 +2780,7 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-PC SN NN
+## PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2799,9 +2798,7 @@ After reconstitution and dilution, 1 ml of solution contains 4.7 mg fosnetupitan
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains mannitol, disodium edetate, sodium hydroxide and hydrochloric acid.
-
-See package leaflet for further information.
+Also contains mannitol, disodium edetate, sodium hydroxide and hydrochloric acid. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2852,13 +2849,9 @@ EU/1/15/1001/003
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -2883,9 +2876,7 @@ After dilution, 1 ml of solution contains 4.7 mg fosnetupitant, which correspond
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains mannitol, disodium edetate, sodium hydroxide, hydrochloric acid and water.
-
-See package leaflet for further information.
+Also contains mannitol, disodium edetate, sodium hydroxide, hydrochloric acid and water. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2915,7 +2906,7 @@ Keep out of the sight and reach of children.
 
 Store below 25°C. Keep the vial in the outer carton in order to protect from light. After dilution: 24 hours below 25°C.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2953,7 +2944,7 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-PC SN NN
+## PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3028,13 +3019,9 @@ EU/1/15/1001/004
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -3105,11 +3092,11 @@ EU/1/15/1001/005 1 sachet EU/1/15/1001/006 4 x 1 sachets
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 akynzeo oral suspension
 
@@ -3127,9 +3114,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-SACHET
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SACHET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3163,9 +3148,7 @@ Lot
 
 ## Package Leaflet: Information for the patient
 
-## Akynzeo 300 mg/0.5 mg hard capsules
-
-netupitant/palonosetron
+## Akynzeo 300 mg/0.5 mg hard capsules netupitant/palonosetron
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3231,7 +3214,7 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 
 In particular tell your doctor, pharmacist or nurse if you are taking any of the following medicines:
 
-- medicines for depression or anxiety called SSRIs (selective serotonin re-uptake inhibitors) such as fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram or escitalopram
+- medicines for depression or anxiety called SSRIs (selective serotonin re-uptake inhibitors) - such as fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram or escitalopram
 - medicines for depression or anxiety called SNRIs (serotonin noradrenaline re-uptake inhibitors) - such as venlafaxine or duloxetine.
 
 Also tell your doctor, pharmacist or nurse if you are taking any of the following medicines as your doctor may need to change the dose of these other medicines:
@@ -3303,7 +3286,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-Stop taking Akynzeo and tell your doctor straight away if you notice the following serious side effect you may need urgent medical treatment:
+Stop taking Akynzeo and tell your doctor straight away if you notice the following serious side effect - you may need urgent medical treatment:
 
 ## Very rare: may affect up to 1 in 10,000 people
 
@@ -3404,7 +3387,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Immedica Pharma AB Tél/Tel: + 46(0)8 533 39 500
+Immedica Pharma AB
+
+Tél/Tel: + 46(0)8 533 39 500
 
 ## България
 
@@ -3424,7 +3409,9 @@ Esteve Pharmaceuticals GmbH Tel: + 49 30 338427 -0
 
 ## Eesti
 
-Farma Mondo Tel: + 370 698 36600
+Farma Mondo
+
+Tel: + 370 698 36600
 
 ## Ελλάδα
 
@@ -3432,7 +3419,9 @@ Galenica A.E. Τηλ : +30 210 52 81 700
 
 ## España
 
-Immedica Pharma AB Tel: + 34(0)9 373 70 164
+Immedica Pharma AB
+
+Tel: + 34(0)9 373 70 164
 
 ## France
 
@@ -3597,7 +3586,7 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 
 In particular tell your doctor, pharmacist or nurse if you are taking any of the following medicines:
 
-- medicines for depression or anxiety called SSRIs (selective serotonin re-uptake inhibitors) such as fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram or escitalopram
+- medicines for depression or anxiety called SSRIs (selective serotonin re-uptake inhibitors) - such as fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram or escitalopram
 - medicines for depression or anxiety called SNRIs (serotonin noradrenaline re-uptake inhibitors) - such as venlafaxine or duloxetine.
 
 Also tell your doctor, pharmacist or nurse if you are taking any of the following medicines as your doctor may need to change the dose of these other medicines:
@@ -3771,14 +3760,6 @@ Tél/Tel:
 
 + 46(0)8 533 39 500
 
-## Lietuva
-
-Farma Mondo
-
-Tel: +
-
-370 698 36600
-
 ## България
 
 Angelini Pharma Bulgaria EOOD
@@ -3786,14 +3767,6 @@ Angelini Pharma Bulgaria EOOD
 Te
 
 л.: +359 2 975 13 95
-
-## Luxembourg/Luxemburg
-
-Immedica Pharma AB
-
-Tél/Tel:
-
-+ 46(0)8 533 39 500
 
 ## Česká republika
 
@@ -3803,29 +3776,45 @@ Tel:
 
 +420 234 076 049
 
-## Magyarország
-
-MagnaPharm Hungary Kft.
-
-Tel.: +36 1 354 1840
-
 ## Danmark
 
 Swedish Orphan Biovitrum A/S
 
 Tlf: + 45 32 96 68 69
 
-## Malta
-
-Helsinn Birex Pharmaceuticals Ltd.
-
-Tel.: + 353 1 822 5404
-
 ## Deutschland
 
 Esteve Pharmaceuticals GmbH
 
 Tel: + 49 30 338427 -0
+
+## Lietuva
+
+Farma Mondo
+
+Tel: +
+
+370 698 36600
+
+## Luxembourg/Luxemburg
+
+Immedica Pharma AB
+
+Tél/Tel:
+
++ 46(0)8 533 39 500
+
+## Magyarország
+
+MagnaPharm Hungary Kft.
+
+Tel.: +36 1 354 1840
+
+## Malta
+
+Helsinn Birex Pharmaceuticals Ltd.
+
+Tel.: + 353 1 822 5404
 
 ## Nederland
 
@@ -3843,12 +3832,6 @@ Tel: +
 
 370 698 36600
 
-## Norge
-
-Swedish Orphan Biovitrum AS
-
-Tlf: +47 66 82 34 00
-
 ## Ελλάδα
 
 Galenica A.E.
@@ -3856,12 +3839,6 @@ Galenica A.E.
 Τηλ
 
 : +30 210 52 81 700
-
-## Österreich
-
-Esteve Pharmaceuticals GmbH
-
-Tel: 0800560044
 
 ## España
 
@@ -3871,23 +3848,11 @@ Tel: +
 
 34(0)9 373 70 164
 
-## Polska
-
-MagnaPharm Poland sp. z o.o.
-
-Tel: +48 22 570 27 00
-
 ## France
 
 Immedica Pharma France SARL
 
 Tél: + 33(0)148 014 711
-
-## Portugal
-
-Immedica Pharma AB
-
-Tel: + 46(0)8 533 39 500
 
 ## Hrvatska
 
@@ -3895,25 +3860,11 @@ Bausch Health Poland sp. z o.o., P odružnica Zagreb
 
 Tel:  +385 1 670 0750
 
-## România
-
-MagnaPharm Marketing &amp; Sales Romania SRL
-
-Tel: +40 372 502 221
-
 ## Ireland
 
 Chugai Pharma France
 
-Tel:
-
-+33 1 79 36 36 18
-
-## Slovenija
-
-PharmaSwiss
-
-Tel: +386 1 2364 700
+Tel: +33 1 79 36 36 18
 
 ## Ísland
 
@@ -3921,25 +3872,11 @@ Swedish Orphan Biovitrum A/S
 
 Tlf: + 45 32 96 68 69
 
-## Slovenská republika
-
-MagnaPharm SK s.r.o.
-
-Tel:
-
-+421 917 532 065
-
 ## Italia
 
 Italfarmaco
 
 Tel: + 39 02 64431
-
-## Suomi/Finland
-
-Oy Swedish Orphan Biovitrum Ab
-
-Puh./Tel: +358 201 558 840
 
 ## Κύπρος
 
@@ -3949,12 +3886,6 @@ Galenica A.E.
 
 : +30 210 52 81 700
 
-## Sverige
-
-Swedish Orphan Biovitrum AB (publ)
-
-Tel: +46 8 697 20 00
-
 ## Latvija
 
 Farma Mondo
@@ -3962,8 +3893,6 @@ Farma Mondo
 Tel: +
 
 370 698 36600
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -3977,14 +3906,72 @@ Instructions of how to reconstitute and dilute AKYNZEO 235 mg/0.25 mg
 
 ## Preparation of Akynzeo
 
+## Norge
+
+Swedish Orphan Biovitrum AS
+
+Tlf: +47 66 82 34 00
+
+## Österreich
+
+Esteve Pharmaceuticals GmbH
+
+Tel: 0800560044
+
+## Polska
+
+MagnaPharm Poland sp. z o.o.
+
+Tel: +48 22 570 27 00
+
+## Portugal
+
+Immedica Pharma AB
+
+Tel: + 46(0)8 533 39 500
+
+## România
+
+MagnaPharm Marketing &amp; Sales Romania SRL
+
+Tel: +40 372 502 221
+
+## Slovenija
+
+PharmaSwiss
+
+Tel: +386 1 2364 700
+
+## Slovenská republika
+
+MagnaPharm SK s.r.o.
+
+Tel:
+
++421 917 532 065
+
+## Suomi/Finland
+
+Oy Swedish Orphan Biovitrum Ab
+
+Puh./Tel: +358 201 558 840
+
+## Sverige
+
+Swedish Orphan Biovitrum AB (publ)
+
+Tel: +46 8 697 20 00
+
 <div style=\"page-break-after: always\"></div>
 
-| Step 1   | Aseptically inject 20 mL5%glucose injection or sodium chloride 9 mg/ml (0.9%) solution for injection, into the vial. Ensure the solvent is added to the vial along the vial wall and not jetted in order to prevent foaming. Swirl the vial gently for 3 minutes. The powder should be dissolved before the solution is diluted in the infusion bag.   |
-|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 2   | Aseptically prepare an infusion vial or bag filled with 30 mL of 5% glucose injection, or sodium chloride 9 mg/ml (0.9%) solution for injection .                                                                                                                                                                                                      |
-| Step 3   | Dilution should occur immediately after reconstitution (according to Step 1). Aseptically withdraw the entire volume of reconstituted solution from the AKYNZEOvial and transfer it into the infusion vial or bag containing 30 mLof5%glucose injection or sodium chloride 9 mg/ml (0.9%) solution for injection to yield a total volume of 50 mL.     |
-| Step 4   | Gently invert the vial or bag until complete dissolution.                                                                                                                                                                                                                                                                                              |
-| Step 5   | Before administration, inspect the final diluted solution for particulate matter and discolouration. Discard the vial or bag if particulates and/or discolouration are observed.                                                                                                                                                                       |
+<div style=\"page-break-after: always\"></div>
+
+| Step 1   | Aseptically inject 20 mL 5% glucose injection or sodium chloride 9 mg/ml (0.9%) solution for injection, into the vial. Ensure the solvent is added to the vial along the vial wall and not jetted in order to prevent foaming. Swirl the vial gently for 3 minutes. The powder should be dissolved before the solution is diluted in the infusion bag.   |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 2   | Aseptically prepare an infusion vial or bag filled with 30 mL of 5% glucose injection, or sodium chloride 9 mg/ml (0.9%) solution for injection .                                                                                                                                                                                                        |
+| Step 3   | Dilution should occur immediately after reconstitution (according to Step 1). Aseptically withdraw the entire volume of reconstituted solution from the AKYNZEO vial and transfer it into the infusion vial or bag containing 30 mL of 5% glucose injection or sodium chloride 9 mg/ml (0.9%) solution for injection to yield a total volume of 50 mL.   |
+| Step 4   | Gently invert the vial or bag until complete dissolution.                                                                                                                                                                                                                                                                                                |
+| Step 5   | Before administration, inspect the final diluted solution for particulate matter and discolouration. Discard the vial or bag if particulates and/or discolouration are observed.                                                                                                                                                                         |
 
 The reconstituted and diluted final solution is stable for 24 hours at 25°C.
 
@@ -4067,7 +4054,7 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 
 In particular tell your doctor, pharmacist or nurse if you are taking any of the following medicines:
 
-- medicines for depression or anxiety called SSRIs (selective serotonin re-uptake inhibitors) such as fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram or escitalopram
+- medicines for depression or anxiety called SSRIs (selective serotonin re-uptake inhibitors) - such as fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram or escitalopram
 - medicines for depression or anxiety called SNRIs (serotonin noradrenaline re-uptake inhibitors) - such as venlafaxine or duloxetine.
 
 Also tell your doctor, pharmacist or nurse if you are taking any of the following medicines as your doctor may need to change the dose of these other medicines:
@@ -4237,13 +4224,9 @@ For any information about this medicine, please contact the local representative
 
 Immedica Pharma AB
 
-Tél/Tel: + 46(0)8 533 39 500
+Tél/Tel: +
 
-## Lietuva
-
-Farma Mondo
-
-Tel: + 370 698 36600
+46(0)8 533 39 500
 
 ## България
 
@@ -4253,14 +4236,6 @@ Te
 
 л.: +359 2 975 13 95
 
-## Luxembourg/Luxemburg
-
-Immedica Pharma AB
-
-Tél/Tel: +
-
-46(0)8 533 39 500
-
 ## Česká republika
 
 MagnaPharm CZ s.r.o.
@@ -4269,17 +4244,33 @@ Tel:
 
 +420 234 076 049
 
-## Magyarország
-
-MagnaPharm Hungary Kft.
-
-Tel.: +36 1 354 1840
-
 ## Danmark
 
 Swedish Orphan Biovitrum A/S
 
 Tlf: + 45 32 96 68 69
+
+## Lietuva
+
+Farma Mondo
+
+Tel: +
+
+370 698 36600
+
+## Luxembourg/Luxemburg
+
+Immedica Pharma AB
+
+Tél/Tel: +
+
+46(0)8 533 39 500
+
+## Magyarország
+
+MagnaPharm Hungary Kft.
+
+Tel.: +36 1 354 1840
 
 ## Malta
 
@@ -4297,10 +4288,6 @@ Esteve Pharmaceuticals GmbH
 
 Tel: + 49 30 338427 -0
 
-Immedica Pharma AB
-
-Tel: + 46(0)8 533 39 500
-
 ## Eesti
 
 Farma Mondo
@@ -4308,12 +4295,6 @@ Farma Mondo
 Tel: +
 
 370 698 36600
-
-## Norge
-
-Swedish Orphan Biovitrum AS
-
-Tlf: +47 66 82 34 00
 
 ## Ελλάδα
 
@@ -4323,25 +4304,11 @@ Galenica A.E.
 
 : +30 210 52 81 700
 
-## Österreich
-
-Esteve Pharmaceuticals GmbH
-
-Tel: 0800560044
-
 ## España
 
 Immedica Pharma AB
 
-Tel: +
-
-34(0)9 373 70 164
-
-## Polska
-
-MagnaPharm Poland sp. z o.o.
-
-Tel: +48 22 570 27 00
+Tel: + 34(0)9 373 70 164
 
 ## France
 
@@ -4349,33 +4316,19 @@ Immedica Pharma France SARL
 
 Tél: + 33(0)148 014 711
 
-## Portugal
-
-Immedica Pharma AB
-
-Tel: +
-
-46(0)8 533 39 500
-
 ## Hrvatska
 
-Bausch Health Poland sp. z o.o., P odružnica Zagreb Tel:  +385 1 670 0750
+Bausch Health Poland sp. z o.o., P odružnica Zagreb
 
-## România
-
-MagnaPharm Marketing &amp; Sales Romania SRL Tel: +40 372 502 221
+Tel:  +385 1 670 0750
 
 ## Ireland
 
 Chugai Pharma France
 
-Tel: +33 1 79 36 36 18
+Tel:
 
-## Slovenija
-
-PharmaSwiss
-
-Tel: +386 1 2364 700
++33 1 79 36 36 18
 
 ## Ísland
 
@@ -4383,25 +4336,11 @@ Swedish Orphan Biovitrum A/S
 
 Tlf: + 45 32 96 68 69
 
-## Slovenská republika
-
-MagnaPharm SK s.r.o.
-
-Tel:
-
-+421 917 532 065
-
 ## Italia
 
 Italfarmaco
 
 Tel: + 39 02 64431
-
-## Suomi/Finland
-
-Oy Swedish Orphan Biovitrum Ab
-
-Puh./Tel: +358 201 558 840
 
 ## Κύπρος
 
@@ -4411,12 +4350,6 @@ Galenica A.E.
 
 : +30 210 52 81 700
 
-## Sverige
-
-Swedish Orphan Biovitrum AB (publ)
-
-Tel: +46 8 697 20 00
-
 ## Latvija
 
 Farma Mondo
@@ -4424,6 +4357,68 @@ Farma Mondo
 Tel: +
 
 370 698 36600
+
+Immedica Pharma AB
+
+Tel: + 46(0)8 533 39 500
+
+## Norge
+
+Swedish Orphan Biovitrum AS
+
+Tlf: +47 66 82 34 00
+
+## Österreich
+
+Esteve Pharmaceuticals GmbH
+
+Tel: 0800560044
+
+## Polska
+
+MagnaPharm Poland sp. z o.o.
+
+Tel: +48 22 570 27 00
+
+## Portugal
+
+Immedica Pharma AB
+
+Tel: +
+
+46(0)8 533 39 500
+
+## România
+
+MagnaPharm Marketing &amp; Sales Romania SRL
+
+Tel: +40 372 502 221
+
+## Slovenija
+
+PharmaSwiss
+
+Tel: +386 1 2364 700
+
+## Slovenská republika
+
+MagnaPharm SK s.r.o.
+
+Tel:
+
++421 917 532 065
+
+## Suomi/Finland
+
+Oy Swedish Orphan Biovitrum Ab
+
+Puh./Tel: +358 201 558 840
+
+## Sverige
+
+Swedish Orphan Biovitrum AB (publ)
+
+Tel: +46 8 697 20 00
 
 ## This leaflet was last revised in
 
@@ -4439,10 +4434,10 @@ Instructions of how to dilute AKYNZEO 235 mg/0.25 mg
 
 ## Preparation of Akynzeo
 
-| Step 1   | Aseptically prepare an infusion vial or bag filled with 30 mL of 5% glucose injection, or sodium chloride 9 mg/ml (0.9%) solution for injection .                                                                                                           |
-|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 2   | Aseptically withdraw the entire volume of concentrate from the AKYNZEO vial and transfer it into the infusion vial or bag containing 30 mLof 5%glucose injection or sodium chloride 9 mg/ml (0.9%) solution for injection to yield a total volume of 50 mL. |
-| Step 3   | Before administration, inspect the final diluted solution for particulate matter and discolouration. Discard the vial or bag if particulates and/or discolouration are observed.                                                                            |
+| Step 1   | Aseptically prepare an infusion vial or bag filled with 30 mL of 5% glucose injection, or sodium chloride 9 mg/ml (0.9%) solution for injection .                                                                                                             |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 2   | Aseptically withdraw the entire volume of concentrate from the AKYNZEO vial and transfer it into the infusion vial or bag containing 30 mL of 5% glucose injection or sodium chloride 9 mg/ml (0.9%) solution for injection to yield a total volume of 50 mL. |
+| Step 3   | Before administration, inspect the final diluted solution for particulate matter and discolouration. Discard the vial or bag if particulates and/or discolouration are observed.                                                                              |
 
 The diluted final solution is stable for 24 hours at 25°C.
 
@@ -4526,7 +4521,7 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 
 In particular tell your doctor, pharmacist or nurse if you are taking any of the following medicines:
 
-- medicines for depression or anxiety called SSRIs (selective serotonin re-uptake inhibitors) such as fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram or escitalopram
+- medicines for depression or anxiety called SSRIs (selective serotonin re-uptake inhibitors) - such as fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram or escitalopram
 - medicines for depression or anxiety called SNRIs (serotonin noradrenaline re-uptake inhibitors) - such as venlafaxine or duloxetine.
 
 Also tell your doctor, pharmacist or nurse if you are taking any of the following medicines as your doctor may need to change the dose of these other medicines:
@@ -4597,7 +4592,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-Stop taking Akynzeo and tell your doctor straight away if you notice the following serious side effect you may need urgent medical treatment:
+Stop taking Akynzeo and tell your doctor straight away if you notice the following serious side effect - you may need urgent medical treatment:
 
 ## Very rare: ( may affect up to 1 in 10 000 people)
 
@@ -4682,8 +4677,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Akynzeo contains
 
-- -The active substances are palonosetron and netupitant. Each sachet contains 300 mg of netupitant and palonosetron hydrochloride equivalent to 0.5 mg of palonosetron.
-- -The other ingredients are glycerol (E422), xanthan gum, citric acid, sodium citrate dihydrate, potassium sorbate and sorbitol liquid (non-crystallising) (E420).
+- The active substances are palonosetron and netupitant. Each sachet contains 300 mg of netupitant and palonosetron hydrochloride equivalent to 0.5 mg of palonosetron.
+- The other ingredients are glycerol (E422), xanthan gum, citric acid, sodium citrate dihydrate, potassium sorbate and sorbitol liquid (non-crystallising) (E420).
 
 This medicine contains sodium, potassium and sorbitol (E420), see section 2 for more information.
 
@@ -4705,11 +4700,11 @@ België/Belgique/Belgien Immedica Pharma AB
 
 Tél/Tel: + 46(0)8 533 39 500
 
-Lietuva Farma Mondo Tel: + 370 689 36600
-
 България
 
 Angelini Pharma Bulgaria EOOD
+
+Lietuva Farma Mondo Tel: + 370 689 36600
 
 Luxembourg/Luxemburg
 

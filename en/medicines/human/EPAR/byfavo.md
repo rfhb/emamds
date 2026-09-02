@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:42:56
+document_datetime: 2026-08-26 10:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/byfavo.html
 document_name: byfavo.html
 version: success
-processing_time: 0.116165
-conversion_datetime: 2025-12-31 02:01:13.483356
+processing_time: 0.1833738
+conversion_datetime: 2026-09-02 22:25:40.052716
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Byfavo
 
 [RSS](/en/individual-human-medicine.xml/67397)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-remimazolam Medicine Human Authorised
+remimazolam
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -38,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Byfavo](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-88937)
 - [More information on Byfavo](#related-medicines)
 
 - Application under evaluation
@@ -56,7 +57,7 @@ Expand section
 
 Collapse section
 
-## How is Byfavo used?
+### How is Byfavo used?
 
 When used as a sedative, Byfavo must be given by a healthcare professional experienced in sedation. A healthcare professional who monitors the patient must also be present while the procedure is being carried out. Resuscitation equipment and a medicine (antidote) to reverse the effects of Byfavo must be readily available.
 
@@ -68,11 +69,11 @@ When used for general anaesthesia, the dose depends on the response of each pati
 
 Byfavo can only be obtained with a prescription. For more information about using Byfavo, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Byfavo work?
+### How does Byfavo work?
 
 The active substance in Byfavo, remimazolam, belongs to a class of sedative medicines called benzodiazepines. It attaches to a specific site on the receptor (target) for the neurotransmitter gamma-amino butyric acid (GABA) in the brain. Neurotransmitters are chemicals that allow nerve cells to communicate with each other and GABA reduces electrical activity in the brain. By activating the receptor GABA-A, remimazolam reduces brain activity. The extent of the effects of Byfavo on brain activity depend on the dose given and the other medicines used during the procedure.
 
-## What benefits of Byfavo have been shown in studies?
+### What benefits of Byfavo have been shown in studies?
 
 **Sedation**
 
@@ -90,7 +91,7 @@ The efficacy of Byfavo for bringing about and maintaining general anaesthesia wa
 
 In the second study, involving 391 adults who underwent surgery, loss of consciousness was achieved and maintained in 99% of patients given Byfavo and 100% of patients given propofol. The main measure of efficacy was the successful conduct of the surgery, measured by a lack of body movements and the absence of awakening or recall of the surgical procedure, and the need for other medications to maintain general anaesthesia during surgery.
 
-## What are the risks associated with Byfavo?
+### What are the risks associated with Byfavo?
 
 When used as a sedative, the most common side effects with Byfavo (which may affect more than 1 in 10 people) are hypotension (low blood pressure) and respiratory depression (inhibition of breathing). Bradycardia (slow heart rate) can affect up to 1 in 10 people.
 
@@ -100,19 +101,19 @@ For the full list of side effects of Byfavo, see the package leaflet.
 
 Byfavo must not be used in patients who are allergic to remimazolam, other benzodiazepines, or any other ingredients of Byfavo. Byfavo must also not be used in patients with unstable myasthenia gravis (a disease causing muscle weakness).
 
-## Why is Byfavo authorised in the EU?
+### Why is Byfavo authorised in the EU?
 
 Byfavo is effective at sedating patients undergoing colonoscopy or bronchoscopy and is expected to work in the same way in other types of procedures of this kind. Byfavo starts acting quickly, allowing early start of procedure and its sedative effects disappear quickly, allowing patients to be discharged promptly. The efficacy of Byfavo in bringing about and maintaining general anaesthesia was shown to be comparable to that of propofol. Although the effects of Byfavo last slightly longer than propofol, it's effects can be reversed almost immediately with an antidote (flumazenil), unlike those of propofol. In terms of safety, Byfavo's side effects, including breathing problems, are considered manageable provided that patients are continuously monitored by a healthcare professional not involved in other aspects of the procedure.
 
 The European Medicines Agency therefore decided that Byfavo's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Byfavo?
+### What measures are being taken to ensure the safe and effective use of Byfavo?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Byfavo have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Byfavo are continuously monitored. Side effects reported with Byfavo are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Byfavo
+### Other information about Byfavo
 
 Byfavo received a marketing authorisation valid throughout the EU on 26 March 2021.
 
@@ -120,275 +121,141 @@ Byfavo : EPAR - Medicine overview
 
 English (EN) (126.39 KB - PDF)
 
-**First published:** 20/04/2021
-
-**Last updated:** 18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/en/documents/overview/byfavo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-220)
+[Other languages (22)](#file-language-dropdown-545)
 
 български (BG) (152.02 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/bg/documents/overview/byfavo-epar-medicine-overview_bg.pdf)
 
 español (ES) (124.66 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/es/documents/overview/byfavo-epar-medicine-overview_es.pdf)
 
 čeština (CS) (149.13 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/cs/documents/overview/byfavo-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (125.74 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/da/documents/overview/byfavo-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (129.88 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/de/documents/overview/byfavo-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (113.5 KB - PDF)
+eesti (ET) (113.5 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/et/documents/overview/byfavo-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (182.63 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/el/documents/overview/byfavo-epar-medicine-overview_el.pdf)
 
 français (FR) (126.71 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/fr/documents/overview/byfavo-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (148.42 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/hr/documents/overview/byfavo-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (123.61 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/it/documents/overview/byfavo-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (164.66 KB - PDF)
+latviešu (LV) (164.66 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/lv/documents/overview/byfavo-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (149.27 KB - PDF)
+lietuvių (LT) (149.27 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/lt/documents/overview/byfavo-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (149.7 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/hu/documents/overview/byfavo-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (151.08 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/mt/documents/overview/byfavo-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (126.89 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/nl/documents/overview/byfavo-epar-medicine-overview_nl.pdf)
 
 polski (PL) (152.53 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/pl/documents/overview/byfavo-epar-medicine-overview_pl.pdf)
 
 português (PT) (125.66 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/pt/documents/overview/byfavo-epar-medicine-overview_pt.pdf)
 
 română (RO) (147.32 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/ro/documents/overview/byfavo-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (149.45 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/sk/documents/overview/byfavo-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (148.43 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/sl/documents/overview/byfavo-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (122.22 KB - PDF)
+suomi (FI) (122.22 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/fi/documents/overview/byfavo-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (124.7 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/sv/documents/overview/byfavo-epar-medicine-overview_sv.pdf)
 
@@ -396,9 +263,7 @@ Byfavo : EPAR - Risk-management-plan summary
 
 English (EN) (102.96 KB - PDF)
 
-**First published:** 20/04/2021
-
-**Last updated:** 18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/en/documents/rmp-summary/byfavo-epar-risk-management-plan-summary_en.pdf)
 
@@ -406,311 +271,168 @@ English (EN) (102.96 KB - PDF)
 
 Byfavo : EPAR - Product information
 
-English (EN) (1.94 MB - PDF)
+English (EN) (626.72 KB - PDF)
 
-**First published:** 20/04/2021
-
-**Last updated:** 28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/en/documents/product-information/byfavo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-732)
+[Other languages (24)](#file-language-dropdown-133)
 
-български (BG) (2.48 MB - PDF)
+български (BG) (963.42 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/bg/documents/product-information/byfavo-epar-product-information_bg.pdf)
 
-español (ES) (1.94 MB - PDF)
+español (ES) (801.38 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/es/documents/product-information/byfavo-epar-product-information_es.pdf)
 
-čeština (CS) (2.32 MB - PDF)
+čeština (CS) (844.98 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/cs/documents/product-information/byfavo-epar-product-information_cs.pdf)
 
-dansk (DA) (2.09 MB - PDF)
+dansk (DA) (811.84 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/da/documents/product-information/byfavo-epar-product-information_da.pdf)
 
-Deutsch (DE) (1019.94 KB - PDF)
+Deutsch (DE) (815.25 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/de/documents/product-information/byfavo-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.95 MB - PDF)
+eesti (ET) (775.02 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/et/documents/product-information/byfavo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.9 MB - PDF)
+ελληνικά (EL) (855.76 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/el/documents/product-information/byfavo-epar-product-information_el.pdf)
 
-français (FR) (2.13 MB - PDF)
+français (FR) (856.99 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/fr/documents/product-information/byfavo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.27 MB - PDF)
+hrvatski (HR) (843.14 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/hr/documents/product-information/byfavo-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.91 MB - PDF)
+italiano (IT) (813.32 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
-
-[View](/is/documents/product-information/byfavo-epar-product-information_is.pdf)
-
-italiano (IT) (1.98 MB - PDF)
-
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/it/documents/product-information/byfavo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.07 MB - PDF)
+latviešu (LV) (837.92 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/lv/documents/product-information/byfavo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.98 MB - PDF)
+lietuvių (LT) (820.93 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/lt/documents/product-information/byfavo-epar-product-information_lt.pdf)
 
-magyar (HU) (2.14 MB - PDF)
+magyar (HU) (839.41 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/hu/documents/product-information/byfavo-epar-product-information_hu.pdf)
 
-Malti (MT) (2.99 MB - PDF)
+Malti (MT) (967.87 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/mt/documents/product-information/byfavo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.86 MB - PDF)
+Nederlands (NL) (803.63 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/nl/documents/product-information/byfavo-epar-product-information_nl.pdf)
 
-norsk (NO) (1.92 MB - PDF)
+polski (PL) (815.45 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
-
-[View](/no/documents/product-information/byfavo-epar-product-information_no.pdf)
-
-polski (PL) (1.85 MB - PDF)
-
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/pl/documents/product-information/byfavo-epar-product-information_pl.pdf)
 
-português (PT) (1.9 MB - PDF)
+português (PT) (776.88 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/pt/documents/product-information/byfavo-epar-product-information_pt.pdf)
 
-română (RO) (2.04 MB - PDF)
+română (RO) (838.55 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/ro/documents/product-information/byfavo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2 MB - PDF)
+slovenčina (SK) (818.13 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/sk/documents/product-information/byfavo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.9 MB - PDF)
+slovenščina (SL) (798.02 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/sl/documents/product-information/byfavo-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.84 MB - PDF)
+suomi (FI) (776.65 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/fi/documents/product-information/byfavo-epar-product-information_fi.pdf)
 
-svenska (SV) (2 MB - PDF)
+svenska (SV) (801.96 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-28/11/2025
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
 
 [View](/sv/documents/product-information/byfavo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0000278275 17/11/2025
+Íslenska (IS) (771.28 KB - PDF)
+
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
+
+[View](/is/documents/product-information/byfavo-epar-product-information_is.pdf)
+
+norsk (NO) (787.23 KB - PDF)
+
+**First published:** 20/04/2021 **Last updated:** 26/08/2026
+
+[View](/no/documents/product-information/byfavo-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000348950
+
+19/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -724,305 +446,168 @@ Byfavo : EPAR - All authorised presentations
 
 English (EN) (43.69 KB - PDF)
 
-**First published:** 20/04/2021
-
-**Last updated:** 18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/en/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-610)
+[Other languages (24)](#file-language-dropdown-266)
 
 български (BG) (51.17 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/bg/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (42.54 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/es/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (51.67 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/cs/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (44.4 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/da/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (44.9 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/de/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (39.97 KB - PDF)
+eesti (ET) (39.97 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/et/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (79.96 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/el/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (42.87 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/fr/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (65.52 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/hr/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (60.22 KB - PDF)
-
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
-
-[View](/is/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (42.11 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/it/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (69.74 KB - PDF)
+latviešu (LV) (69.74 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/lv/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (61.76 KB - PDF)
+lietuvių (LT) (61.76 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/lt/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (46.88 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/hu/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (68.22 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/mt/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (41.98 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/nl/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (59.33 KB - PDF)
-
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
-
-[View](/no/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (68.99 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/pl/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (43.46 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/pt/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (60.2 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/ro/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (60.94 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/sk/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (50.92 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/sl/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (41.71 KB - PDF)
+suomi (FI) (41.71 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/fi/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (42.53 KB - PDF)
 
-**First published:**
-
-20/04/2021
-
-**Last updated:**
-
-18/04/2023
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
 
 [View](/sv/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (60.22 KB - PDF)
+
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
+
+[View](/is/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (59.33 KB - PDF)
+
+**First published:** 20/04/2021 **Last updated:** 18/04/2023
+
+[View](/no/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Byfavo Active substance remimazolam besilate International non-proprietary name (INN) or common name remimazolam Therapeutic area (MeSH) Conscious Sedation Anatomical therapeutic chemical (ATC) code N05CD14
+- **Name of medicine**
+    - Byfavo
+- **Active substance**
+    - remimazolam besilate
+- **International non-proprietary name (INN) or common name**
+    - remimazolam
+- **Therapeutic area (MeSH)**
+    - Conscious Sedation
+- **Anatomical therapeutic chemical (ATC) code**
+    - N05CD14
 
 ### Pharmacotherapeutic group
 
@@ -1036,13 +621,16 @@ Remimazolam 50 mg is indicated in adults for intravenous induction and maintenan
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005246 Marketing authorisation holder
-
-Paion Pharma GmbH
-
-Heussstrasse 25 Brand 52078 Aachen GERMANY
-
-Opinion adopted 10/12/2020 Marketing authorisation issued 26/03/2021 Revision 9
+- **EMA product number**
+    - EMEA/H/C/005246
+- **Marketing authorisation holder**
+    - Paion Pharma GmbH Heussstrasse 25  Brand  52078 Aachen  GERMANY
+- **Opinion adopted**
+    - 10/12/2020
+- **Marketing authorisation issued**
+    - 26/03/2021
+- **Revision**
+    - 10
 
 ## Assessment history
 
@@ -1050,13 +638,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Byfavo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (155.24 KB - PDF)
+English (EN) (160.11 KB - PDF)
 
-**First published:** 28/11/2025
+**First published:** 28/11/2025 **Last updated:** 26/08/2026
 
 [View](/en/documents/procedural-steps-after/byfavo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1064,17 +652,13 @@ Byfavo : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (174.17 KB - PDF)
 
-**First published:** 28/04/2022
-
-**Last updated:** 28/11/2025
+**First published:** 28/04/2022 **Last updated:** 28/11/2025
 
 [View](/en/documents/procedural-steps-after/byfavo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Byfavo-H-C-005246-0000 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/79576/2023
+Adopted Reference Number: EMA/CHMP/79576/2023
 
 English (EN) (6.22 MB - PDF)
 
@@ -1084,9 +668,7 @@ English (EN) (6.22 MB - PDF)
 
 CHMP post-authorisation summary of opinion for Byfavo (X-02)
 
-Adopted
-
-Reference Number: EMA/CHMP/27760/2023
+Adopted Reference Number: EMA/CHMP/27760/2023
 
 English (EN) (127.56 KB - PDF)
 
@@ -1096,15 +678,13 @@ English (EN) (127.56 KB - PDF)
 
 Byfavo-H-C-PSUSA-00010924-202201 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/902653/2022
+Adopted Reference Number: EMA/902653/2022
 
 English (EN) (173.66 KB - PDF)
 
 **First published:** 06/01/2023
 
-[View](/en/documents/scientific-conclusion/byfavo-h-c-psusa-00010924-202201-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/byfavo-h-c-psusa-00010924-202201-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Byfavo-H-C-PSUSA-00010924-202107 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1114,15 +694,13 @@ English (EN) (115.23 KB - PDF)
 
 **First published:** 28/04/2022
 
-[View](/en/documents/scientific-conclusion/byfavo-h-c-psusa-00010924-202107-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/byfavo-h-c-psusa-00010924-202107-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Byfavo : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/160756/2021
+Adopted Reference Number: EMA/160756/2021
 
 English (EN) (3 MB - PDF)
 
@@ -1132,9 +710,7 @@ English (EN) (3 MB - PDF)
 
 CHMP summary of positive opinion for Byfavo
 
-Adopted
-
-Reference Number: EMA/CHMP/622868/2020
+Adopted Reference Number: EMA/CHMP/622868/2020
 
 English (EN) (131.39 KB - PDF)
 
@@ -1142,16 +718,176 @@ English (EN) (131.39 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-byfavo_en.pdf)
 
-#### News on Byfavo
+## News on Byfavo
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-29 January 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-29-january-2021) 29/01/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-29 January 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-29-january-2021)
 
-#### More information on Byfavo
+29/01/2021
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Byfavo : EPAR - Product information - tracked changes
+
+English (EN) (177.79 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/en/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-33)
+
+български (BG) (208.09 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/bg/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (157.25 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/es/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (183.21 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/cs/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (180.88 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/da/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (176.59 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/de/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_de.docx)
+
+eesti (ET) (178.28 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/et/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (197.42 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/el/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (185.82 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/fr/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (184.81 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/hr/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_hr.docx)
+
+italiano (IT) (161.02 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/it/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_it.docx)
+
+latviešu (LV) (158.31 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/lv/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (155.51 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/lt/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (183.52 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/hu/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (161.3 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/mt/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (157.7 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/nl/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (158.59 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/pl/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (154.9 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/pt/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (157.52 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/ro/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (157.08 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/sk/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (151.34 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/sl/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (148.56 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/fi/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (161.47 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/sv/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (162.6 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/is/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (165.78 KB - DOCX)
+
+**First published:** 26/08/2026
+
+[View](/no/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_no.docx)
+
+## More information on Byfavo
 
 - [EMEA-001880-PIP02-19-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001880-pip02-19-m04)
 
-**This page was last updated on** 28/11/2025
+**This page was last updated on**
+
+26/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

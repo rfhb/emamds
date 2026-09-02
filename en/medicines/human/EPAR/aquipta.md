@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-02 17:30:00
+document_datetime: 2026-08-25 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aquipta.html
 document_name: aquipta.html
 version: success
-processing_time: 0.1525152
-conversion_datetime: 2026-07-04 13:13:05.672784
+processing_time: 0.1591192
+conversion_datetime: 2026-09-02 22:24:49.930531
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.124.0
+  docling-core: 2.93.0
+  docling-ibm-models: 4.0.1
+  docling-parse: 7.16.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Aquipta
 
@@ -108,7 +108,7 @@ English (EN) (131.15 KB - PDF)
 
 [View](/en/documents/overview/aquipta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-289)
+[Other languages (22)](#file-language-dropdown-399)
 
 български (BG) (146.4 KB - PDF)
 
@@ -242,11 +242,11 @@ svenska (SV) (117.97 KB - PDF)
 
 [View](/sv/documents/overview/aquipta-epar-medicine-overview_sv.pdf)
 
-Aquipta : EPAR - Risk Management Plan
+Aquipta : EPAR - Risk management plan
 
-English (EN) (585.93 KB - PDF)
+English (EN) (495.7 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/en/documents/rmp/aquipta-epar-risk-management-plan_en.pdf)
 
@@ -254,167 +254,167 @@ English (EN) (585.93 KB - PDF)
 
 Aquipta : EPAR - Product Information
 
-English (EN) (367.55 KB - PDF)
+English (EN) (369 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/en/documents/product-information/aquipta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-16)
+[Other languages (24)](#file-language-dropdown-18)
 
-български (BG) (455.34 KB - PDF)
+български (BG) (438.3 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/bg/documents/product-information/aquipta-epar-product-information_bg.pdf)
 
-español (ES) (369.42 KB - PDF)
+español (ES) (356.62 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/es/documents/product-information/aquipta-epar-product-information_es.pdf)
 
-čeština (CS) (438.27 KB - PDF)
+čeština (CS) (421.35 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/cs/documents/product-information/aquipta-epar-product-information_cs.pdf)
 
-dansk (DA) (374.05 KB - PDF)
+dansk (DA) (362.19 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/da/documents/product-information/aquipta-epar-product-information_da.pdf)
 
-Deutsch (DE) (381.18 KB - PDF)
+Deutsch (DE) (369.42 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/de/documents/product-information/aquipta-epar-product-information_de.pdf)
 
-eesti (ET) (367.72 KB - PDF)
+eesti (ET) (355.27 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/et/documents/product-information/aquipta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (451.92 KB - PDF)
+ελληνικά (EL) (434.63 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/el/documents/product-information/aquipta-epar-product-information_el.pdf)
 
-français (FR) (427.02 KB - PDF)
+français (FR) (418.82 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/fr/documents/product-information/aquipta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (434.95 KB - PDF)
+hrvatski (HR) (422.26 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/hr/documents/product-information/aquipta-epar-product-information_hr.pdf)
 
-italiano (IT) (420.86 KB - PDF)
+italiano (IT) (403.81 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/it/documents/product-information/aquipta-epar-product-information_it.pdf)
 
-latviešu (LV) (426.02 KB - PDF)
+latviešu (LV) (408.92 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/lv/documents/product-information/aquipta-epar-product-information_lv.pdf)
 
-lietuvių (LT) (435.31 KB - PDF)
+lietuvių (LT) (418.53 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/lt/documents/product-information/aquipta-epar-product-information_lt.pdf)
 
-magyar (HU) (436.96 KB - PDF)
+magyar (HU) (420.24 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/hu/documents/product-information/aquipta-epar-product-information_hu.pdf)
 
-Malti (MT) (439.38 KB - PDF)
+Malti (MT) (423.01 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/mt/documents/product-information/aquipta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (349.41 KB - PDF)
+Nederlands (NL) (363.11 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/nl/documents/product-information/aquipta-epar-product-information_nl.pdf)
 
-polski (PL) (451.62 KB - PDF)
+polski (PL) (435.38 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/pl/documents/product-information/aquipta-epar-product-information_pl.pdf)
 
-português (PT) (373.03 KB - PDF)
+português (PT) (360.92 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/pt/documents/product-information/aquipta-epar-product-information_pt.pdf)
 
-română (RO) (426.27 KB - PDF)
+română (RO) (410.9 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/ro/documents/product-information/aquipta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (442.84 KB - PDF)
+slovenčina (SK) (425.6 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/sk/documents/product-information/aquipta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (421.56 KB - PDF)
+slovenščina (SL) (404 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/sl/documents/product-information/aquipta-epar-product-information_sl.pdf)
 
-suomi (FI) (372.42 KB - PDF)
+suomi (FI) (365.89 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/fi/documents/product-information/aquipta-epar-product-information_fi.pdf)
 
-svenska (SV) (367.57 KB - PDF)
+svenska (SV) (355.2 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/sv/documents/product-information/aquipta-epar-product-information_sv.pdf)
 
-Íslenska (IS) (374.13 KB - PDF)
+Íslenska (IS) (361.89 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/is/documents/product-information/aquipta-epar-product-information_is.pdf)
 
-norsk (NO) (370.03 KB - PDF)
+norsk (NO) (357.71 KB - PDF)
 
-**First published:** 25/08/2023 **Last updated:** 02/07/2026
+**First published:** 25/08/2023 **Last updated:** 25/08/2026
 
 [View](/no/documents/product-information/aquipta-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000310717
+**Latest procedure affecting product information:** VR/0000334780
 
-29/05/2026
+09/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -433,7 +433,7 @@ English (EN) (36.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aquipta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-529)
+[Other languages (24)](#file-language-dropdown-305)
 
 български (BG) (43.79 KB - PDF)
 
@@ -594,7 +594,9 @@ norsk (NO) (37.8 KB - PDF)
 
 ### Therapeutic indication
 
-Aquipta is indicated for prophylaxis of migraine in adults who have at least 4 migraine days per month
+Aquipta is indicated for:  
+- acute treatment of migraine with or without aura in adults  
+- prophylaxis of migraine in adults who have at least 4 migraine days per month.
 
 ## Authorisation details
 
@@ -609,7 +611,7 @@ Aquipta is indicated for prophylaxis of migraine in adults who have at least 4 m
 - **Marketing authorisation issued**
     - 11/08/2023
 - **Revision**
-    - 6
+    - 7
 
 ## Assessment history
 
@@ -621,9 +623,9 @@ Collapse section
 
 Aquipta : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.42 KB - PDF)
+English (EN) (160.96 KB - PDF)
 
-**First published:** 28/05/2026 **Last updated:** 02/07/2026
+**First published:** 28/05/2026 **Last updated:** 25/08/2026
 
 [View](/en/documents/procedural-steps-after/aquipta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -690,9 +692,10 @@ English (EN) (119.86 KB - PDF)
 ## More information on Aquipta
 
 - [EMA/PE/0000225746 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000225746)
+- [Network meta-analysis of reported adverse events in randomized trials comparing CGRPs for the prophylaxis of episodic migraine - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000874)
 
 **This page was last updated on**
 
-02/07/2026
+25/08/2026
 
 ## Share this page

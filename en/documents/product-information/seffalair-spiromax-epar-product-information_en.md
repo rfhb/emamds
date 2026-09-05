@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-16 12:56:19
+document_datetime: 2026-09-01 11:09:20
 document_pages: 59
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/seffalair-spiromax-epar-product-information_en.pdf
 document_name: seffalair-spiromax-epar-product-information_en.pdf
 version: success
-processing_time: 12.4869732
-conversion_datetime: 2026-01-03 13:15:47.278188
+processing_time: 12.4765331
+conversion_datetime: 2026-09-05 10:40:44.018427
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -62,11 +62,9 @@ When choosing the starting dose strength of Seffalair Spiromax (12.75/100 microg
 
 Patients should be regularly reassessed by a doctor, so that the strength of the salmeterol/fluticasone propionate they are receiving remains optimal and is only changed on medical advice. The dose should be titrated to the lowest dose at which effective control of symptoms is maintained.
 
-Note that the delivered doses for Seffalair Spiromax are different from other salmeterol/fluticasone containing products on the market. The different dose strengths (medium/high doses of fluticasone) for
+Note that the delivered doses for Seffalair Spiromax are different from other salmeterol/fluticasone containing products on the market. The different dose strengths (medium/high doses of fluticasone) for different products do not necessarily correspond to each other, thus the products are not interchangeable based on the corresponding dose strengths.
 
 <div style=\"page-break-after: always\"></div>
-
-different products do not necessarily correspond to each other, thus the products are not interchangeable based on the corresponding dose strengths.
 
 ## Adults and adolescents 12 years and older
 
@@ -76,7 +74,7 @@ One inhalation of 12.75 micrograms salmeterol and 202 micrograms fluticasone pro
 
 Once control of asthma is attained, treatment should be reviewed and consideration given as to whether patients should be stepped down to salmeterol/fluticasone propionate containing a lower dose of the inhaled corticosteroid, and then, ultimately, to an inhaled corticosteroid alone. Regular review of patients as treatment is stepped down is important.
 
-If an individual patient should require dosages outside the recommended regimen, appr opriate doses of β 2 agonist and/or inhaled corticosteroid should be prescribed.
+If an individual patient should require dosages outside the recommended regimen, appropriate doses of β 2 agonist and/or inhaled corticosteroid should be prescribed.
 
 ## Special populations
 
@@ -182,11 +180,9 @@ Visual disturbance may be reported with systemic and topical corticosteroid use.
 
 ## Adrenal function
 
-Prolonged treatment of patients with high doses of inhaled corticosteroids may result in adrenal suppression and acute adrenal crisis. Very rare cases of adrenal suppression and acute adrenal crisis have also been described with doses of fluticasone propionate between 500 micrograms and less than 1000 micrograms. Situations, which could potentially trigger acute adrenal crisis include trauma, surgery, infection, or any
+Prolonged treatment of patients with high doses of inhaled corticosteroids may result in adrenal suppression and acute adrenal crisis. Very rare cases of adrenal suppression and acute adrenal crisis have also been described with doses of fluticasone propionate between 500 micrograms and less than 1000 micrograms. Situations, which could potentially trigger acute adrenal crisis include trauma, surgery, infection, or any rapid reduction in dosage. Presenting symptoms are typically vague and may include anorexia, abdominal pain, weight loss, tiredness, headache, nausea, vomiting, hypotension, decreased level of consciousness, hypoglycaemia, and seizures. Additional systemic corticosteroid treatment should be considered during periods of stress or elective surgery.
 
 <div style=\"page-break-after: always\"></div>
-
-rapid reduction in dosage. Presenting symptoms are typically vague and may include anorexia, abdominal pain, weight loss, tiredness, headache, nausea, vomiting, hypotension, decreased level of consciousness, hypoglycaemia, and seizures. Additional systemic corticosteroid treatment should be considered during periods of stress or elective surgery.
 
 The benefits of inhaled fluticasone propionate therapy should minimise the need for oral steroids, but patients transferring from oral steroids may remain at risk of impaired adrenal reserve for a considerable time. Therefore, these patients should be treated with special care and adrenocortical function regularly monitored. Patients who have required high dose emergency corticosteroid therapy in the past may also be at risk. This possibility of residual impairment should always be borne in mind in emergency and elective situations likely to produce stress, and appropriate corticosteroid treatment must be considered. The extent of the adrenal impairment may require specialist advice before elective procedures.
 
@@ -238,11 +234,9 @@ In an interaction study in healthy subjects with intranasal fluticasone propiona
 
 In a small study in healthy volunteers, the slightly less potent CYP3A inhibitor ketoconazole increased the exposure of fluticasone propionate after a single inhalation by 150%. This resulted in a greater reduction of plasma cortisol as compared with fluticasone propionate alone. Co-treatment with other potent CYP3A inhibitors, such as itraconazole, and moderate CYP3A inhibitors, such as erythromycin, is also expected to increase the systemic fluticasone propionate exposure and the risk of systemic undesirable effects. Caution is recommended and long-term treatment with such drugs should, if possible, be avoided.
 
-Co-treatment with CYP3A inhibitors, including cobicistat-containing products, is expected to increase the risk of systemic side-effects. The combination should be avoided unless the benefit outweighs the increased
+Co-treatment with CYP3A inhibitors, including cobicistat-containing products, is expected to increase the risk of systemic side-effects. The combination should be avoided unless the benefit outweighs the increased risk of systemic corticosteroid side-effects, in which case patients should be monitored for systemic corticosteroid effects.
 
 <div style=\"page-break-after: always\"></div>
-
-risk of systemic corticosteroid side-effects, in which case patients should be monitored for systemic corticosteroid effects.
 
 ## Interaction with P-glycoprotein inhibitors
 
@@ -360,6 +354,8 @@ Due to the fluticasone propionate component, hoarseness and candidiasis (thrush)
 
 Frequency, type and severity of adverse reactions in adolescents aged 12 years and older are expected to be the same as in adults.
 
+The safety assessment in adolescents is based on the safety data generated from executed Seffalair Spiromax studies and demonstrates that the safety profile of the product in adolescents is similar to that observed in the adult population.
+
 Inhaled corticosteroids, including fluticasone propionate, a component of Seffalair Spiromax, may cause a reduction in growth velocity in adolescents (see section 4.4). The growth of paediatric patients receiving orally inhaled corticosteroids, including salmeterol/fluticasone propionate, should be monitored routinely. To minimize the systemic effects of orally inhaled corticosteroids, including salmeterol/fluticasone propionate titrate each patient's dosage to the lowest dosage that effectively controls his/her symptoms.
 
 ## Reporting of suspected adverse reactions
@@ -374,9 +370,9 @@ There are no data available from clinical trials on overdose with Seffalair Spir
 
 The signs and symptoms of salmeterol overdose are dizziness, increases in systolic blood pressure, tremor, headache and tachycardia. If salmeterol/fluticasone propionate therapy has to be withdrawn due to overdose of the β 2 agonist component of the medicinal product, provision of appropriate replacement steroid therapy should be considered. Additionally, hypokalaemia can occur and therefore serum potassium levels should be monitored. Potassium replacement should be considered.
 
-## Fluticasone propionate
-
 <div style=\"page-break-after: always\"></div>
+
+## Fluticasone propionate
 
 ## Acute
 
@@ -404,17 +400,15 @@ Fluticasone propionate given by inhalation at recommended doses has a glucocorti
 
 ## Clinical efficacy and safety
 
-## Seffalair Spiromax a sthma clinical trials
+## Seffalair Spiromax asthma clinical trials
 
-The safety and efficacy of Seffalair Spiromax were evaluated in 3004 patients with asthma. The development program included 2 confirmatory trials of 12-weeks duration, a 26-week safety trial and 3 dose-ranging trials. The efficacy of Seffalair Spiromax is based primarily on the the confirmatory trials described below.
+The safety and efficacy of Seffalair Spiromax were evaluated in 3004 patients with asthma. The development program included 2 confirmatory trials of 12-weeks duration, a 26-week safety trial and 3 dose-ranging trials. The efficacy of Seffalair Spiromax is based primarily on the confirmatory trials described below.
 
 Six doses of fluticasone propionate ranging from 16 mcg to 434 mcg (expressed as metered doses) administered twice daily via multidose dry powder inhaler (MDPI) and an open-label fluticasone propionate dry powder comparator (100mcg or 250mcg) were evaluated in 2 randomised, double-blind, placebocontrolled 12-week trials. Trial 201 was conducted in patients who were uncontrolled at baseline and had been treated by short-acting β 2 agonist alone or in combination with non-corticosteroid asthma medication. Low dose inhaled corticosteroid (ICS) patients may have been included after a minimum of 2 weeks washout. Trial 202 was conducted in patients who were uncontrolled at baseline and had been treated with high dose ICS with or without a long-acting beta-agonist (LABA). The metered doses for fluticasone propionate Spiromax [Fp MDPI] (16, 28, 59, 118, 225, and 434 mcg) used in Trial 201 and Trial 202 are different from the metered doses for the comparator products (fluticasone inhalation powder) and the Phase 3 investigational products which are the basis of the label claim metered dose (, 113, and 232 mcg for fluticasone propionate). The changes in doses between Phase 2 and 3 resulted from optimisation of the manufacturing process.
 
-The efficacy and safety of 4 doses of salmeterol xinafoate were evaluated in a double-blind, 6-period crossover study compared with single dose fluticasone propionate Spiromax and open-label fluticasone
-
 <div style=\"page-break-after: always\"></div>
 
-propionate/salmeterol 100/50 mcg dry powder inhaler as a comparator in patients with persistent asthma. The salmeterol doses studied were 6.8 mcg, 13.2 mcg, 26.8 mcg, and 57.4 mcg in combination with fluticasone propionate 118 mcg delivered by MDPI (expressed as metered dose). The metered doses for salmeterol (6.8, 13.2, 26.8, and 57.4 mcg) used in this study are slightly different from the metered doses for the comparator products (fluticasone/salmeterol inhalation powder) and the Phase 3 investigational products which are the basis of the label claim metered dose (113, and 232 mcg for fluticasone propionate and 14 mcg for salmeterol).
+The efficacy and safety of 4 doses of salmeterol xinafoate were evaluated in a double-blind, 6-period crossover study compared with single dose fluticasone propionate Spiromax and open-label fluticasone propionate/salmeterol 100/50 mcg dry powder inhaler as a comparator in patients with persistent asthma. The salmeterol doses studied were 6.8 mcg, 13.2 mcg, 26.8 mcg, and 57.4 mcg in combination with fluticasone propionate 118 mcg delivered by MDPI (expressed as metered dose). The metered doses for salmeterol (6.8, 13.2, 26.8, and 57.4 mcg) used in this study are slightly different from the metered doses for the comparator products (fluticasone/salmeterol inhalation powder) and the Phase 3 investigational products which are the basis of the label claim metered dose (113, and 232 mcg for fluticasone propionate and 14 mcg for salmeterol).
 
 As a consequence of optimisation of the manufacturing process, the Phase 3 and commercial products better match the strengths of the comparator products. Plasma for pharmacokinetic characterization was obtained at each dosing period.
 
@@ -437,15 +431,15 @@ Table 2: Primary analysis of change from baseline in trough FEV1 at week 12 by t
 | Difference of LS mean                 |                 | 0.151               | 0.262                  |
 | 95% CI                                |                 | (0.057, 0.244)      | (0.168, 0.356)         |
 | p-value                               |                 | 0.0017              | 0.0000                 |
-| Comparison to Fp MDPI                 |                 |                     |                        |
 
 <div style=\"page-break-after: always\"></div>
 
-|                       | Compared with 113 mcg:   |
-|-----------------------|--------------------------|
-| Difference of LS mean | 0.111                    |
-| 95% CI                | (0.017, 0.206)           |
-| p-value               | 0.0202                   |
+| Comparison to Fp MDPI   |                        |
+|-------------------------|------------------------|
+|                         | Compared with 113 mcg: |
+| Difference of LS mean   | 0.111                  |
+| 95% CI                  | (0.017, 0.206)         |
+| p-value                 | 0.0202                 |
 
 Comparisons of combination therapy with monotherapy were not controlled for multiplicity. FEV1 = forced expiratory volume in 1 second; FAS = full analysis set; Fp MDPI = fluticasone propionate multidose dry powder inhaler; FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler; BID = twice daily; n = number; LS = least squares; CI = confidence interval
 
@@ -457,11 +451,9 @@ Figure 1: Primary analysis serial spirometry: Mean change from baseline in FEV1 
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
-Trial 2: This randomised, double-blind, placebo-controlled, 12-week, efficacy and safety trial compared Fluticasone Propionate Multidose Dry Powder Inhaler (Fp MDPI) 113 mcg and 232 mcg (1 inhalation twice a day) with Salmeterol/Fluticasone Multidose Dry Powder Inhaler (FS MDPI) 14/113 mcg and 14/232 mcg (1 inhalation twice a day) and placebo in adolescents and adult patients with persistent symptomatic asthma
+Trial 2: This randomised, double-blind, placebo-controlled, 12-week, efficacy and safety trial compared Fluticasone Propionate Multidose Dry Powder Inhaler (Fp MDPI) 113 mcg and 232 mcg (1 inhalation twice a day) with Salmeterol/Fluticasone Multidose Dry Powder Inhaler (FS MDPI) 14/113 mcg and 14/232 mcg (1 inhalation twice a day) and placebo in adolescents and adult patients with persistent symptomatic asthma despite inhaled corticosteroid or inhaled corticosteroid/LABA therapy. Patients received single-blinded placebo MDPI and were switched from their baseline ICS therapy to Fp MDPI 55 mcg twice daily during the run-in period. Patients were randomly assigned to receive treatment as follows: 145 patients received placebo, 146 patients received Fp MDPI 113 mcg, 146 patients received Fp MDPI 232 mcg, 145 patients received FS MDPI 14/113 mcg, and 146 patients received FS MDPI 14/232mcg. Baseline FEV1 measurements were similar across treatments: Fp MDPI 113 mcg 2.069 L, Fp MDPI 232 mcg 2.075 L, FS MDPI 14/113 mcg 2.157 L, FS MDPI 14/232 mcg 2.083 L, and placebo 2.141 L. The primary endpoints for this trial were the change from baseline in trough FEV1 at week 12 for all patients and standardized baselineadjusted FEV1 AUEC0-12h at week 12 analyzed for a subset of 312 patients who performed post-dose serial spirometry.
 
 <div style=\"page-break-after: always\"></div>
-
-despite inhaled corticosteroid or inhaled corticosteroid/LABA therapy. Patients received single-blinded placebo MDPI and were switched from their baseline ICS therapy to Fp MDPI 55 mcg twice daily during the run-in period. Patients were randomly assigned to receive treatment as follows: 145 patients received placebo, 146 patients received Fp MDPI 113 mcg, 146 patients received Fp MDPI 232 mcg, 145 patients received FS MDPI 14/113 mcg, and 146 patients received FS MDPI 14/232mcg. Baseline FEV1 measurements were similar across treatments: Fp MDPI 113 mcg 2.069 L, Fp MDPI 232 mcg 2.075 L, FS MDPI 14/113 mcg 2.157 L, FS MDPI 14/232 mcg 2.083 L, and placebo 2.141 L. The primary endpoints for this trial were the change from baseline in trough FEV1 at week 12 for all patients and standardized baselineadjusted FEV1 AUEC0-12h at week 12 analyzed for a subset of 312 patients who performed post-dose serial spirometry.
 
 Table 3: Primary analysis of change from baseline in trough FEV1 at Week 12 by treatment group Trial 2 (FAS)
 
@@ -480,7 +472,9 @@ Table 3: Primary analysis of change from baseline in trough FEV1 at Week 12 by t
 | 95% CI                                |                 |                     |                     | (0.066, 0.237)         | (0.009, 0.178)         |
 | p-value                               |                 |                     |                     | 0.0005                 | 0.0309                 |
 
-Comparisons of combination therapy with monotherapy were not controlled for multiplicity. FEV1 = forced expiratory volume in 1 second; FAS = full analysis set; Fp MDPI = fluticasone propionate multidose dry powder inhaler; FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler; BID = twice daily; n = number; LS=least squares; CI = confidence interval
+Comparisons of combination therapy with monotherapy were not controlled for multiplicity.
+
+FEV1 = forced expiratory volume in 1 second; FAS = full analysis set; Fp MDPI = fluticasone propionate multidose dry powder inhaler; FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler; BID = twice daily; n = number; LS=least squares; CI = confidence interval
 
 Improvements in lung function occurred within 15 minutes of the first dose (15 minutes post-dose, the difference in LS mean change from baseline in FEV1 was 0.160 L and 0.187 L compared with placebo for FS MDPI 14/113 mcg and 14/232 mcg, respectively; unadjusted p-value &lt;0.0001 for both doses compared with placebo. Maximum improvement in FEV1 generally occurred within 3 hours for both FS MDPI dose groups, and improvements were sustained over the 12 hours of testing at weeks 1 and 12 (Figure 2). No diminution in the 12 hour bronchodilator effect was observed with either FS MDPI dose as assessed by FEV1 following 12 weeks of therapy.
 
@@ -604,7 +598,9 @@ EU/1/21/1533/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 26 March 2021 Date of latest renewal:
+Date of first authorisation: 26 March 2021
+
+Date of latest renewal: 12 December 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -737,7 +733,6 @@ EU/1/21/1533/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1159,7 +1154,6 @@ EU/1/21/1533/004
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1339,10 +1333,10 @@ Start:
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1368,7 +1362,7 @@ Seffalair Spiromax helps to prevent breathlessness and wheeziness coming on. You
 
 ## Do not use Seffalair Spiromax
 
-- -if you are allergic to salmeterol, fluticasone propionate or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to salmeterol, fluticasone propionate or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -1543,11 +1537,9 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. To reduce the chance of side effects your doctor will prescribe the lowest dose of this combination of drugs to control your asthma.
 
-Allergic reactions: you may notice your breathing suddenly gets worse immediately after using Seffalair Spiromax . You may be very wheezy and cough or be short of breath. You may also notice itching, a rash (hives) and swelling (usually of the face, lips, tongue or throat), or you may suddenly feel that your heart is beating very fast or you feel faint and light headed (which may lead to collapse or loss of
+Allergic reactions: you may notice your breathing suddenly gets worse immediately after using Seffalair Spiromax . You may be very wheezy and cough or be short of breath. You may also notice itching, a rash (hives) and swelling (usually of the face, lips, tongue or throat), or you may suddenly feel that your heart is beating very fast or you feel faint and light headed (which may lead to collapse or loss of consciousness). If you get any of these effects or if they happen suddenly after using Seffalair Spiromax, stop using Seffalair Spiromax and tell your doctor straight away . Allergic reactions to Seffalair Spiromax are uncommon (they may affect up to 1 in 100 people). Other side effects are listed below:
 
 <div style=\"page-break-after: always\"></div>
-
-consciousness). If you get any of these effects or if they happen suddenly after using Seffalair Spiromax, stop using Seffalair Spiromax and tell your doctor straight away . Allergic reactions to Seffalair Spiromax are uncommon (they may affect up to 1 in 100 people). Other side effects are listed below:
 
 ## Common (may affect up to 1 in 10 people)
 
@@ -1590,12 +1582,12 @@ consciousness). If you get any of these effects or if they happen suddenly after
 
 - Breathing difficulties or wheezing that gets worse straight after taking Seffalair Spiromax. If this happens stop using Seffalair Spiromax inhaler. Use your fast acting 'reliever' ('rescue') inhaler to help your breathing and tell your doctor straight away.
 - Seffalair Spiromax may affect the normal production of steroid hormones in the body, particularly if you have taken high doses for long periods of time. The effects include:
-- -Slowing of growth in children and adolescents
-- -Glaucoma (damage to the nerve in the eye)
+- Slowing of growth in children and adolescents
+- Glaucoma (damage to the nerve in the eye)
 
 <div style=\"page-break-after: always\"></div>
 
-- -Rounded (moon shaped) face (Cushing's syndrome).
+- Rounded (moon shaped) face (Cushing's syndrome).
 
 Your doctor will check you regularly for any of these side effects and make sure you are taking the lowest dose of this combination of drugs to control your asthma.
 
@@ -1624,8 +1616,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Seffalair Spiromax contains
 
-- -The active substances are salmeterol and fluticasone propionate. Each metered dose contains 14 micrograms of salmeterol (as salmeterol xinafoate) and 113 micrograms of fluticasone propionate. Each delivered dose (the dose that leaves the mouthpiece) contains 12.75 micrograms of salmeterol (as salmeterol xinafoate) and 100 micrograms of fluticasone propionate.
-- -The other ingredient is lactose monohydrate (see section 2 under 'Seffalair Spiromax contains lactose').
+- The active substances are salmeterol and fluticasone propionate. Each metered dose contains 14 micrograms of salmeterol (as salmeterol xinafoate) and 113 micrograms of fluticasone propionate. Each delivered dose (the dose that leaves the mouthpiece) contains 12.75 micrograms of salmeterol (as salmeterol xinafoate) and 100 micrograms of fluticasone propionate.
+- The other ingredient is lactose monohydrate (see section 2 under 'Seffalair Spiromax contains lactose').
 
 ## What Seffalair Spiromax looks like and contents of the pack
 
@@ -1659,10 +1651,6 @@ Teva Pharma Belgium N.V./S.A./AG
 
 Tél/Tel: +32 38207373
 
-UAB Teva Baltics
-
-Tel: +370 52660203
-
 ## България
 
 Тева Фарма ЕАД
@@ -1671,23 +1659,11 @@ Teл
 
 .: +359 24899585
 
-## Luxembourg/Luxemburg
-
-Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien
-
-Tél/Tel: +32 38207373
-
 ## Česká republika
 
 Teva Pharmaceuticals CR, s.r.o.
 
 Tel: +420 251007111
-
-## Magyarország
-
-Teva Gyógyszergyár Zrt.
-
-Tel.: +36 12886400
 
 ## Danmark
 
@@ -1695,25 +1671,11 @@ Teva Denmark A/S
 
 Tlf.: +45 44985511
 
-## Malta
-
-TEVA HELLAS Α.Ε.
-
-il- Greċja
-
-Tel: +30 2118805000
-
 ## Deutschland
 
 TEVA GmbH
 
 Tel: +49 73140208
-
-## Nederland
-
-Teva Nederland B.V.
-
-Tel: +31 8000228400
 
 ## Eesti
 
@@ -1721,25 +1683,11 @@ UAB Teva Baltics Eesti filiaal
 
 Tel: +372 6610801
 
-## Norge
-
-Teva Norway AS
-
-Tlf: +47 66775590
-
 ## Ελλάδα
 
 TEVA HELLAS A.E.
 
-Τηλ:
-
-+30 2118805000
-
-## Österreich
-
-ratiopharm Arzneimittel Vertriebs-GmbH
-
-Tel: +43 1970070
+Τηλ: +30 2118805000
 
 ## España
 
@@ -1747,23 +1695,11 @@ Teva Pharma, S.L.U.
 
 Tel: +34 915359180
 
-## Polska
-
-Teva Pharmaceuticals Polska Sp. z o.o.
-
-Tel.: +48 223459300
-
 ## France
 
 Teva Santé
 
 Tél: +33 155917800
-
-## Portugal
-
-Teva Pharma - Produtos Farmacêuticos, Lda.
-
-Tel: +351 214767550
 
 ## Hrvatska
 
@@ -1771,17 +1707,71 @@ Pliva Hrvatska d.o.o.
 
 Tel: +385 13720000
 
-## România
-
-Teva Pharmaceuticals S.R.L.
-
-Tel: +40 212306524
-
 ## Ireland
 
 Teva Pharmaceuticals Ireland
 
 Tel: +44 2075407117
+
+UAB Teva Baltics
+
+Tel: +370 52660203
+
+## Luxembourg/Luxemburg
+
+Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien
+
+Tél/Tel: +32 38207373
+
+## Magyarország
+
+Teva Gyógyszergyár Zrt.
+
+Tel.: +36 12886400
+
+## Malta
+
+TEVA HELLAS Α . Ε .
+
+ilGreċja
+
+Tel: +30 2118805000
+
+## Nederland
+
+Teva Nederland B.V.
+
+Tel: +31 8000228400
+
+## Norge
+
+Teva Norway AS
+
+Tlf: +47 66775590
+
+## Österreich
+
+ratiopharm Arzneimittel Vertriebs-GmbH
+
+Tel: +43 1970070
+
+## Polska
+
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel.: +48 223459300
+
+## Portugal
+
+Teva Pharma - Produtos Farmacêuticos, Lda.
+
+Tel: +351 214767550
+
+## România
+
+Teva Pharmaceuticals S.R.L.
+
+Tel: +40 212306524
 
 ## Slovenija
 
@@ -1799,19 +1789,11 @@ Teva Pharma Iceland ehf.
 
 Sími: +354 5503300
 
-TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
-
 ## Italia
 
 Teva Italia S.r.l.
 
 Tel: +39 028917981
-
-## Suomi/Finland
-
-Teva Finland Oy
-
-Puh/Tel: +358 201805900
 
 ## Κύπρος
 
@@ -1819,15 +1801,23 @@ TEVA HELLAS A.E. Ελλάδα
 
 Τηλ: +30 2118805000
 
-## Sverige
-
-Teva Sweden AB Tel: +46 42121100
-
 ## Latvija
 
 UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
+
+TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
+
+## Suomi/Finland
+
+Teva Finland Oy
+
+Puh/Tel: +358 201805900
+
+## Sverige
+
+Teva Sweden AB Tel: +46 42121100
 
 ## This leaflet was last revised in .
 
@@ -1843,10 +1833,10 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1872,7 +1862,7 @@ Seffalair Spiromax helps to prevent breathlessness and wheeziness coming on. You
 
 ## Do not use Seffalair Spiromax
 
-- -if you are allergic to salmeterol, fluticasone propionate or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to salmeterol, fluticasone propionate or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -2097,9 +2087,9 @@ Allergic reactions: you may notice your breathing suddenly gets worse immediatel
 <div style=\"page-break-after: always\"></div>
 
 - Seffalair Spiromax may affect the normal production of steroid hormones in the body, particularly if you have taken high doses for long periods of time. The effects include:
-- -Slowing of growth in children and adolescents
-- -Glaucoma (damage to the nerve in the eye)
-- -Rounded (moon shaped) face (Cushing's syndrome).
+- Slowing of growth in children and adolescents
+- Glaucoma (damage to the nerve in the eye)
+- Rounded (moon shaped) face (Cushing's syndrome).
 
 Your doctor will check you regularly for any of these side effects and make sure you are taking the lowest dose of this combination of drugs to control your asthma.
 
@@ -2128,8 +2118,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Seffalair Spiromax contains
 
-- -The active substances are salmeterol and fluticasone propionate. Each metered dose contains 14 micrograms of salmeterol (as salmeterol xinafoate) and 232 micrograms of fluticasone propionate. Each delivered dose (the dose that leaves the mouthpiece) contains 12.75 micrograms of salmeterol (as salmeterol xinafoate) and 202 micrograms of fluticasone propionate.
-- -The other ingredient is lactose monohydrate (see section 2 under 'Seffalair Spiromax contains lactose').
+- The active substances are salmeterol and fluticasone propionate. Each metered dose contains 14 micrograms of salmeterol (as salmeterol xinafoate) and 232 micrograms of fluticasone propionate. Each delivered dose (the dose that leaves the mouthpiece) contains 12.75 micrograms of salmeterol (as salmeterol xinafoate) and 202 micrograms of fluticasone propionate.
+- The other ingredient is lactose monohydrate (see section 2 under 'Seffalair Spiromax contains lactose').
 
 ## What Seffalair Spiromax looks like and contents of the pack
 
@@ -2163,10 +2153,6 @@ Teva Pharma Belgium N.V./S.A./AG
 
 Tél/Tel: +32 38207373
 
-UAB Teva Baltics
-
-Tel: +370 52660203
-
 ## България
 
 Тева Фарма ЕАД
@@ -2175,25 +2161,11 @@ Teл
 
 .: +359 24899585
 
-## Luxembourg/Luxemburg
-
-Teva Pharma Belgium N.V./S.A./AG
-
-Belgique/Belgien
-
-Tél/Tel: +32 38207373
-
 ## Česká republika
 
 Teva Pharmaceuticals CR, s.r.o.
 
 Tel: +420 251007111
-
-## Magyarország
-
-Teva Gyógyszergyár Zrt.
-
-Tel.: +36 12886400
 
 ## Danmark
 
@@ -2201,37 +2173,17 @@ Teva Denmark A/S
 
 Tlf.: +45 44985511
 
-## Malta
-
-TEVA HELLAS Α.Ε.
-
-il- Greċja
-
-Tel: +30 2118805000
-
 ## Deutschland
 
 TEVA GmbH
 
 Tel: +49 73140208
 
-## Nederland
-
-Teva Nederland B.V.
-
-Tel: +31 8000228400
-
 ## Eesti
 
 UAB Teva Baltics Eesti filiaal
 
 Tel: +372 6610801
-
-## Norge
-
-Teva Norway AS
-
-Tlf: +47 66775590
 
 ## Ελλάδα
 
@@ -2241,23 +2193,11 @@ TEVA HELLAS A.E.
 
 +30 2118805000
 
-## Österreich
-
-ratiopharm Arzneimittel Vertriebs-GmbH
-
-Tel: +43 1970070
-
 ## España
 
 Teva Pharma, S.L.U.
 
 Tel: +34 915359180
-
-## Polska
-
-Teva Pharmaceuticals Polska Sp. z o.o.
-
-Tel.: +48 223459300
 
 ## France
 
@@ -2265,17 +2205,67 @@ Teva Santé
 
 Tél: +33 155917800
 
-## Portugal
-
-Teva Pharma - Produtos Farmacêuticos, Lda.
-
-Tel: +351 214767550
-
 ## Hrvatska
 
 Pliva Hrvatska d.o.o.
 
 Tel: +385 13720000
+
+UAB Teva Baltics
+
+Tel: +370 52660203
+
+## Luxembourg/Luxemburg
+
+Teva Pharma Belgium N.V./S.A./AG
+
+Belgique/Belgien
+
+Tél/Tel: +32 38207373
+
+## Magyarország
+
+Teva Gyógyszergyár Zrt.
+
+Tel.: +36 12886400
+
+## Malta
+
+TEVA HELLAS Α . Ε .
+
+ilGreċja
+
+Tel: +30 2118805000
+
+## Nederland
+
+Teva Nederland B.V.
+
+Tel: +31 8000228400
+
+## Norge
+
+Teva Norway AS
+
+Tlf: +47 66775590
+
+## Österreich
+
+ratiopharm Arzneimittel Vertriebs-GmbH
+
+Tel: +43 1970070
+
+## Polska
+
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel.: +48 223459300
+
+## Portugal
+
+Teva Pharma - Produtos Farmacêuticos, Lda.
+
+Tel: +351 214767550
 
 ## România
 
@@ -2289,31 +2279,17 @@ Teva Pharmaceuticals Ireland
 
 Tel: +44 2075407117
 
-## Slovenija
-
-Pliva Ljubljana d.o.o. Tel: +386 15890390
-
 ## Ísland
 
 Teva Pharma Iceland ehf.
 
 Sími: +354 5503300
 
-## Slovenská republika
-
-TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
-
 ## Italia
 
 Teva Italia S.r.l.
 
 Tel: +39 028917981
-
-## Suomi/Finland
-
-Teva Finland Oy
-
-Puh/Tel: +358 201805900
 
 ## Κύπρος
 
@@ -2322,6 +2298,20 @@ TEVA HELLAS A.E. Ελλάδα
 Τηλ:
 
 +30 2118805000
+
+## Slovenija
+
+Pliva Ljubljana d.o.o. Tel: +386 15890390
+
+## Slovenská republika
+
+TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
+
+## Suomi/Finland
+
+Teva Finland Oy
+
+Puh/Tel: +358 201805900
 
 ## Sverige
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 15:30:28
-document_pages: 39
+document_datetime: 2026-09-03 10:27:37
+document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ambrisentan-viatris-epar-product-information_en.pdf
 document_name: ambrisentan-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 8.5790625
-conversion_datetime: 2026-05-10 12:46:54.284113
+processing_time: 7.2413651
+conversion_datetime: 2026-09-05 10:34:12.701281
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -48,7 +48,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Film-coated tablet
+Film-coated tablet (tablet)
 
 ## Ambrisentan Viatris 5 mg film-coated tablets
 
@@ -394,10 +394,10 @@ At baseline, 96% of patients were naive to any previous PAH-specific treatment, 
 
 The primary endpoint was the time to first occurrence of a clinical failure event, defined as:
 
-- -death, or
-- -hospitalisation for worsening PAH,
-- -disease progression;
-- -unsatisfactory long-term clinical response.
+- death, or
+- hospitalisation for worsening PAH,
+- disease progression;
+- unsatisfactory long-term clinical response.
 
 The mean age of all patients was 54 years (SD 15; range 18-75 years of age). Patients WHO FC at baseline was II (31%) and FC III (69%). Idiopathic or heritable PAH was the most common aetiology in the study population (56%), followed by PAH due to connective tissue disorders (37%), PAH associated with medicines and toxins (3%), corrected simple congenital heart disease (2%), and HIV (2%). Patients with WHO FC II and III had a mean baseline 6MWD of 353 metres.
 
@@ -405,7 +405,7 @@ The mean age of all patients was 54 years (SD 15; range 18-75 years of age). Pat
 
 Treatment with combination therapy resulted in a 50% risk reduction (hazard ratio [HR] 0.502; 95% CI: 0.348 to 0.724; p=0.0002) of the composite clinical failure endpoint up to final assessment visit when compared to the pooled monotherapy group [Figure 1 and Table 1]. The treatment effect was driven by a 63% reduction in hospitalisations on combination therapy, was established early and was sustained. Efficacy of combination therapy on the primary endpoint was consistent on the comparison to individual monotherapy and across the subgroups of age, ethnic origin, geographical region, aetiology (iPAH/hPAH and PAH-CTD). The effect was significant for both FC II and FC III patients.
 
-## Figure 1
+Figure 1
 
 ## Time to Clinical Failure
 
@@ -437,11 +437,11 @@ Secondary endpoints were tested:
 
 Table 2
 
-| Secondary Endpoints (change from baseline to week 24)           |   Ambrisentan + Tadalafil |   Monotherapy pooled | Difference and Confidence Interval       | p-value   |
-|-----------------------------------------------------------------|---------------------------|----------------------|------------------------------------------|-----------|
-| NT-proBNP (% reduction)                                         |                     -67.2 |                -50.4 | %difference - 33.8; 95% CI: -44.8, -20.7 | p<0.0001  |
-| %subjects achieving a satisfactory clinical response at week 24 |                        39 |                   29 | Odds ratio 1.56; 95% CI: 1.05, 2.32      | p=0.026   |
-| 6MWD(metres, median change)                                     |                      49.0 |                 23.8 | 22.75m; 95% CI: 12.00, 33.50             | p<0.0001  |
+| Secondary Endpoints (change from baseline to week 24)            |   Ambrisentan + Tadalafil |   Monotherapy pooled | Difference and Confidence Interval        | p-value   |
+|------------------------------------------------------------------|---------------------------|----------------------|-------------------------------------------|-----------|
+| NT-proBNP (% reduction)                                          |                     -67.2 |                -50.4 | % difference - 33.8; 95% CI: -44.8, -20.7 | p<0.0001  |
+| % subjects achieving a satisfactory clinical response at week 24 |                        39 |                   29 | Odds ratio 1.56; 95% CI: 1.05, 2.32       | p=0.026   |
+| 6MWD (metres, median change)                                     |                      49.0 |                 23.8 | 22.75m; 95% CI: 12.00, 33.50              | p<0.0001  |
 
 ## Idiopathic Pulmonary Fibrosis
 
@@ -622,10 +622,6 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-McDermott Laboratories t/a Gerard Laboratories, 35/36 Baldoyle Industrial Estate, Grange Road, Dublin 13, Ireland
-
-or
-
 Mylan Hungary Kft, Mylan utca 1, 2900 Komárom, Hungary
 
 or
@@ -655,11 +651,11 @@ An updated RMP should be submitted:
 -  At the request of the European Medicines Agency;
 -  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-<div style=\"page-break-after: always\"></div>
-
 ##  Additional risk minimisation measures
 
 Prior to use of Ambrisentan Viatris in each Member State the Marketing Authorisation Holder (MAH) must agree the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
+
+<div style=\"page-break-after: always\"></div>
 
 The MAH shall ensure that in each Member State where Ambrisentan Viatris is marketed, all patients who are expected to use Ambrisentan Viatris are provided with the following educational material:
 
@@ -781,11 +777,13 @@ NN
 
 | MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
 |-------------------------------------------------------|
-| Blisters                                              |
+| Blisters and Unit-dose blisters                       |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ambrisentan Viatris 5 mg film-coated tablets ambrisentan
+Ambrisentan Viatris 5 mg film-coated tablets
+
+ambrisentan
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
@@ -901,13 +899,15 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| Blisters                                              |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Blisters and Unit-dose blisters
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ambrisentan Viatris 10 mg film-coated tablets ambrisentan
+Ambrisentan Viatris 10 mg film-coated tablets
+
+ambrisentan
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -939,10 +939,10 @@ ambrisentan
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -969,11 +969,11 @@ Ambrisentan Viatris may also be used in combination with other medicines used to
 
 ## Do not take Ambrisentan Viatris:
 
-- -if you are allergic to ambrisentan or any of the other ingredients of this medicine (listed in section 6).
-- -if you are pregnant, if you are planning to become pregnant, or if you could become pregnant because you are not using reliable birth control (contraception). Please read the information under 'Pregnancy'
-- -if you are breast feeding. Read the information under 'Breast-feeding'
-- -if you have liver disease. Talk to your doctor, who will decide whether this medicine is suitable for you
-- -if you have scarring of the lungs, of unknown cause (idiopathic pulmonary fibrosis).
+- if you are allergic to ambrisentan or any of the other ingredients of this medicine (listed in section 6).
+- if you are pregnant, if you are planning to become pregnant, or if you could become pregnant because you are not using reliable birth control (contraception). Please read the information under 'Pregnancy'
+- if you are breast feeding. Read the information under 'Breast-feeding'
+- if you have liver disease. Talk to your doctor, who will decide whether this medicine is suitable for you
+- if you have scarring of the lungs, of unknown cause (idiopathic pulmonary fibrosis).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1238,9 +1238,9 @@ The other ingredients are: lactose, microcrystalline cellulose (E460i), croscarm
 
 ## What Ambrisentan Viatris looks like and contents of the pack
 
-Ambrisentan Viatris 5 mg film-coated tablet is a pink round biconvex tablet engraved with 'M' on one side and 'AN' on the other side.
+Ambrisentan Viatris 5 mg film-coated tablet (tablet) is a pink round biconvex tablet engraved with 'M' on one side and 'AN' on the other side.
 
-Ambrisentan Viatris 10 mg film-coated tablet is a pink, capsule shaped tablet engraved with 'M' on one side of the tablet and 'AN1' on the other side.
+Ambrisentan Viatris 10 mg film-coated tablet (tablet) is a pink, capsule shaped tablet engraved with 'M' on one side of the tablet and 'AN1' on the other side.
 
 Ambrisentan Viatris is supplied as 5 mg and 10 mg film-coated tablets in packs of 30 tablets and unit dose blister packs of 30x1 tablets or 60 x1 tablets.
 
@@ -1252,79 +1252,121 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## Manufacturer
 
-McDermott Laboratories t/a Gerard Laboratories, 35/36 Baldoyle Industrial Estate, Grange Road, Dublin 13, Ireland
-
 Viatris Germany GmbH, Zweigniederlassung Bad Homburg v. d., Hoeh, Benzstrasse 1, 61352 Bad Homburg v. d. Hoehe, Germany
 
 Mylan Hungary Kft, Mylan utca 1, 2900 Komárom, Hungary
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Viatris Tél/Tel: + 32 (0)2 658 61 00
+## België/Belgique/Belgien
 
-Lietuva Viatris UAB Tel: +370 5 205 1288
+Viatris
 
-<div style=\"page-break-after: always\"></div>
+Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Виатрис ЕООД Тел.: +359 2 44 55 400
+Виатрис ЕООД
 
-## Česká republika
+Тел.: +359 2 44 55 400
 
-Viatris CZ s.r.o. Tel: + 420 222 004 400
+## Lietuva
 
-## Danmark
+Viatris UAB
 
-Viatris ApS Tlf: +45 28 11 69 32
-
-## Deutschland
-
-Viatris Healthcare GmbH Tel: + 49 800 0700 800
-
-## Eesti
-
-Viatris OÜ Tel: + 372 6363 052
-
-## Ελλάδα
-
-Viatris Hellas Ltd Τηλ: +30 2100 100 002
-
-## España
-
-Viatris Pharmaceuticals, S.L. Tel: + 34 900 102 712
-
-## France
-
-Viatris Santé Tél : +33 4 37 25 75 00
-
-## Hrvatska
-
-Viatris Hrvatska d.o.o. Tel: +385 1 23 50 599
-
-## Ireland
-
-Viatris Limited Tel: +353 1 8711600
-
-## Ísland
-
-Icepharma hf. Sími: +354 540 8000
-
-## Italia
-
-Viatris Italia S.r.l. Tel: + 39 (0) 2 612 46921
-
-## Κύπρος
-
-CPO Pharmaceuticals Limited Τηλ: +357 22863100
-
-## Latvija
-
-Viatris SIA Tel: +371 676 055 80
+Tel: +370 5 205 1288
 
 ## Luxembourg/Luxemburg
 
-Viatris Tél/Tel: + 32 (0)2 658 61 00 (Belgique/Belgien)
+Viatris
+
+Tél/Tel: + 32 (0)2 658 61 00
+
+(Belgique/Belgien)
+
+<div style=\"page-break-after: always\"></div>
+
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: + 420 222 004 400
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Deutschland
+
+Viatris Healthcare GmbH
+
+Tel: + 49 800 0700 800
+
+## Eesti
+
+Viatris OÜ
+
+Tel: + 372 6363 052
+
+## Ελλάδα
+
+Viatris Hellas Ltd
+
+Τηλ: +30 2100 100 002
+
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: + 34 900 102 712
+
+## France
+
+Viatris Santé
+
+Tél : +33 4 37 25 75 00
+
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: +385 1 23 50 599
+
+## Ireland
+
+Viatris Limited
+
+Tel: +353 1 8711600
+
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
+
+## Italia
+
+Viatris Italia S.r.l.
+
+Tel: + 39 (0) 2 612 46921
+
+## Κύπρος
+
+CPO Pharmaceuticals Limited
+
+Τηλ: +357 22863100
+
+## Latvija
+
+Viatris SIA
+
+Tel: +371 676 055 80
+
+## This leaflet was last revised in.
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 ## Magyarország
 
@@ -1334,50 +1376,66 @@ Tel.: + 36 1 465 2100
 
 ## Malta
 
-V.J. Salomone Pharma Ltd Tel: + 356 21 22 01 74
+V.J. Salomone Pharma Ltd
+
+Tel: + 356 21 22 01 74
 
 ## Nederland
 
-Mylan BV Tel: +31 (0)20 426 3300
+Mylan BV
+
+Tel: +31 (0)20 426 3300
 
 ## Norge
 
-Viatris AS Tlf: + 47 66 75 33 00
+Viatris AS
+
+Tlf: + 47 66 75 33 00
 
 ## Österreich
 
-Viatris Austria GmbH Tel: +43 1 86390
+Viatris Austria GmbH
+
+Tel: +43 1 86390
 
 ## Polska
 
-Viatris Healthcare Sp. z.o.o. Tel: + 48 22 546 64 00
+Viatris Healthcare Sp. z.o.o.
+
+Tel: + 48 22 546 64 00
 
 ## Portugal
 
-Mylan, Lda. Tel: + 351 214 127 200
+Mylan, Lda.
+
+Tel: + 351 214 127 200
 
 ## România
 
-BGP Products SRL Tel: +40 372 579 000
+BGP Products SRL
+
+Tel: +40 372 579 000
 
 ## Slovenija
 
-Viatris d.o.o. Tel: + 386 1 23 63 180
+Viatris d.o.o.
+
+Tel: + 386 1 23 63 180
 
 ## Slovenská republika
 
-Viatris Slovakia s.r.o. Tel: +421 2 32 199 100
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
 
 ## Suomi/Finland
 
-Viatris Oy Puh/Tel: +358 20 720 9555
+Viatris Oy
+
+Puh/Tel: +358 20 720 9555
 
 ## Sverige
 
-Viatris AB Tel: +46 (0)8 630 19 00
+Viatris AB
 
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in.
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Tel: +46 (0)8 630 19 00

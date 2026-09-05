@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-12 16:25:00
+document_datetime: 2026-09-03 14:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-tenofovir-disoproxil-mylan.html
 document_name: emtricitabine-tenofovir-disoproxil-mylan.html
 version: success
-processing_time: 0.4055522
-conversion_datetime: 2026-06-13 19:42:59.927206
+processing_time: 0.2087791
+conversion_datetime: 2026-09-05 10:47:22.119719
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Emtricitabine/Tenofovir disoproxil Mylan
 
@@ -68,17 +68,30 @@ For more information about using Emtricitabine/Tenofovir disoproxil Mylan, see t
 
 ### How does Emtricitabine/Tenofovir disoproxil Mylan work?
 
-Emtricitabine/Tenofovir disoproxil Mylan contains two active substances: emtricitabine, which is a nucleoside reverse transcriptase inhibitor; and tenofovir disoproxil, which is a 'prodrug' of tenofovir. This means that it is converted into tenofovir in the body. Tenofovir is a nucleotide reverse transcriptase inhibitor. Both emtricitabine and tenofovir work in similar ways by blocking the activity of reverse transcriptase, an enzyme produced by HIV that allows it to reproduce itself in the cells it has infected.
+Emtricitabine/Tenofovir disoproxil Mylan contains two active substances: emtricitabine, which is a  
+nucleoside reverse transcriptase inhibitor; and tenofovir disoproxil, which is a 'prodrug' of tenofovir.  
+This means that it is converted into tenofovir in the body. Tenofovir is a nucleotide reverse  
+transcriptase inhibitor. Both emtricitabine and tenofovir work in similar ways by blocking the activity of  
+reverse transcriptase, an enzyme produced by HIV that allows it to reproduce itself in the cells it has  
+infected.
 
-For the treatment of HIV-infection, Emtricitabine/Tenofovir disoproxil Mylan, taken in combination with at least one other HIV medicine, reduces the amount of HIV in the blood and keeps it at a low level. Emtricitabine/Tenofovir disoproxil Mylan does not cure HIV infection or AIDS, but it holds off damage to the immune system and the development of infections and diseases associated with AIDS.
+For the treatment of HIV-infection, Emtricitabine/Tenofovir disoproxil Mylan, taken in combination with  
+at least one other HIV medicine, reduces the amount of HIV in the blood and keeps it at a low level.  
+Emtricitabine/Tenofovir disoproxil Mylan does not cure HIV infection or AIDS, but it holds off damage  
+to the immune system and the development of infections and diseases associated with AIDS.
 
-For pre-exposure prophylaxis of HIV-1 infection, it is expected that Emtricitabine/Tenofovir disoproxil Mylan in the blood will stop the virus from multiplying and spreading from the site of infection in case the individual is exposed to the virus.
+For pre-exposure prophylaxis of HIV-1 infection, it is expected that Emtricitabine/Tenofovir disoproxil  
+Mylan in the blood will stop the virus from multiplying and spreading from the site of infection in case  
+the individual is exposed to the virus.
 
 ### How has Emtricitabine/Tenofovir disoproxil Mylan been studied?
 
-Studies on the benefits and risks of the active substances in the authorised uses have already been carried out with the reference medicine, Truvada, and do not need to be repeated for Emtricitabine/Tenofovir disoproxil Mylan.
+Studies on the benefits and risks of the active substances in the authorised uses have already been  
+carried out with the reference medicine, Truvada, and do not need to be repeated for  
+Emtricitabine/Tenofovir disoproxil Mylan.
 
-As for every medicine, the company provided studies on the quality of Emtricitabine/Tenofovir disoproxil Mylan. The company also carried out a study that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
+As for every medicine, the company provided studies on the quality of Emtricitabine/Tenofovir  
+disoproxil Mylan. The company also carried out a study that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
 ### What are the benefits and risks of Emtricitabine/Tenofovir disoproxil Mylan?
 
@@ -94,7 +107,9 @@ The company that markets Emtricitabine/Tenofovir disoproxil Mylan will provide a
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Emtricitabine/Tenofovir disoproxil Mylan have also been included in the summary of product characteristics and the package leaflet.
 
-As for all medicines, data on the use of Emtricitabine/Tenofovir disoproxil Mylan are continuously monitored. Side effects reported with Emtricitabine/Tenofovir disoproxil Mylan are carefully evaluated and any necessary action taken to protect patients.
+As for all medicines, data on the use of Emtricitabine/Tenofovir disoproxil Mylan are continuously  
+monitored. Side effects reported with Emtricitabine/Tenofovir disoproxil Mylan are carefully evaluated  
+and any necessary action taken to protect patients.
 
 ### Other information about Emtricitabine/Tenofovir disoproxil Mylan
 
@@ -110,7 +125,7 @@ English (EN) (122.44 KB - PDF)
 
 [View](/en/documents/overview/emtricitabine-tenofovir-disoproxil-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-700)
+[Other languages (22)](#file-language-dropdown-449)
 
 български (BG) (125.25 KB - PDF)
 
@@ -246,177 +261,178 @@ svenska (SV) (96.15 KB - PDF)
 
 Emtricitabine/Tenofovir disoproxil Mylan : EPAR - Risk Management Plan
 
-English (EN) (5.69 MB - PDF)
+English (EN) (315.32 KB - PDF)
 
-**First published:** 15/06/2023
+**First published:** 15/06/2023 **Last updated:** 03/09/2026
 
-[View](/en/documents/rmp-summary/emtricitabinetenofovir-disoproxil-mylan-epar-risk-management-plan_en.pdf)
+[View](/en/documents/rmp-summary/emtricitabine-tenofovir-disoproxil-mylan-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Emtricitabine/Tenofovir disoproxil Mylan : EPAR - Product information
 
-English (EN) (706.66 KB - PDF)
+English (EN) (676.3 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/en/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-693)
+[Other languages (24)](#file-language-dropdown-565)
 
-български (BG) (695.19 KB - PDF)
+български (BG) (876.32 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/bg/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_bg.pdf)
 
-español (ES) (495.87 KB - PDF)
+español (ES) (793.62 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/es/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_es.pdf)
 
-čeština (CS) (557.83 KB - PDF)
+čeština (CS) (911.86 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/cs/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_cs.pdf)
 
-dansk (DA) (479.97 KB - PDF)
+dansk (DA) (717.16 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/da/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_da.pdf)
 
-Deutsch (DE) (754.98 KB - PDF)
+Deutsch (DE) (842.77 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/de/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_de.pdf)
 
-eesti (ET) (477.64 KB - PDF)
+eesti (ET) (768.34 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/et/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_et.pdf)
 
-ελληνικά (EL) (846.31 KB - PDF)
+ελληνικά (EL) (891.86 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/el/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_el.pdf)
 
-français (FR) (544.35 KB - PDF)
+français (FR) (935.39 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/fr/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_fr.pdf)
 
-hrvatski (HR) (526.98 KB - PDF)
+hrvatski (HR) (787.52 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/hr/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_hr.pdf)
 
-italiano (IT) (498.22 KB - PDF)
+italiano (IT) (778.12 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/it/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_it.pdf)
 
-latviešu (LV) (624.12 KB - PDF)
+latviešu (LV) (835.33 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/lv/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_lv.pdf)
 
-lietuvių (LT) (557.47 KB - PDF)
+lietuvių (LT) (862.3 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/lt/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_lt.pdf)
 
-magyar (HU) (560.09 KB - PDF)
+magyar (HU) (853.31 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/hu/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_hu.pdf)
 
-Malti (MT) (583.47 KB - PDF)
+Malti (MT) (963.6 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/mt/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_mt.pdf)
 
-Nederlands (NL) (510.77 KB - PDF)
+Nederlands (NL) (804.05 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/nl/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_nl.pdf)
 
-polski (PL) (652.25 KB - PDF)
+polski (PL) (862.67 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/pl/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_pl.pdf)
 
-português (PT) (507.12 KB - PDF)
+português (PT) (782.81 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/pt/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_pt.pdf)
 
-română (RO) (600.15 KB - PDF)
+română (RO) (844.13 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/ro/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_ro.pdf)
 
-slovenčina (SK) (548.87 KB - PDF)
+slovenčina (SK) (918.87 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/sk/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_sk.pdf)
 
-slovenščina (SL) (540.24 KB - PDF)
+slovenščina (SL) (895.46 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/sl/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_sl.pdf)
 
-suomi (FI) (471.63 KB - PDF)
+suomi (FI) (789.91 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/fi/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_fi.pdf)
 
-svenska (SV) (487.16 KB - PDF)
+svenska (SV) (769.88 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/sv/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_sv.pdf)
 
-Íslenska (IS) (496.04 KB - PDF)
+Íslenska (IS) (799.38 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/is/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_is.pdf)
 
-norsk (NO) (482.47 KB - PDF)
+norsk (NO) (801.9 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 12/06/2026
+**First published:** 03/02/2017 **Last updated:** 03/09/2026
 
 [View](/no/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000326802
+**Latest procedure affecting product information:** VR/0000357199
 
-08/06/2026
+25/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -434,7 +450,7 @@ English (EN) (285.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/emtricitabine-tenofovir-disoproxil-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-791)
+[Other languages (24)](#file-language-dropdown-21)
 
 български (BG) (140.66 KB - PDF)
 
@@ -582,27 +598,18 @@ norsk (NO) (39.72 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Emtricitabine/Tenofovir disoproxil Mylan
-
-Active substance
-
-- emtricitabine
-- tenofovir disoproxil maleate
-
-International non-proprietary name (INN) or common name
-
-- emtricitabine
-- tenofovir disoproxil
-
-Therapeutic area (MeSH)
-
-HIV Infections
-
-Anatomical therapeutic chemical (ATC) code
-
-J05AR03
+- **Name of medicine**
+    - Emtricitabine/Tenofovir disoproxil Mylan
+- **Active substance**
+        - emtricitabine
+        - tenofovir disoproxil maleate
+- **International non-proprietary name (INN) or common name**
+        - emtricitabine
+        - tenofovir disoproxil
+- **Therapeutic area (MeSH)**
+    - HIV Infections
+- **Anatomical therapeutic chemical (ATC) code**
+    - J05AR03
 
 ### Pharmacotherapeutic group
 
@@ -621,31 +628,18 @@ Antivirals for systemic use
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004050
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Mylan Pharmaceuticals Limited
-
-Damastown Industrial Park Mulhuddart Dublin 15 Ireland
-
-Opinion adopted
-
-13/10/2016
-
-Marketing authorisation issued
-
-16/12/2016
-
-Revision
-
-18
+- **EMA product number**
+    - EMEA/H/C/004050
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Mylan Pharmaceuticals Limited Damastown Industrial Park  Mulhuddart  Dublin 15  Ireland
+- **Opinion adopted**
+    - 13/10/2016
+- **Marketing authorisation issued**
+    - 16/12/2016
+- **Revision**
+    - 19
 
 ## Assessment history
 
@@ -657,9 +651,9 @@ Collapse section
 
 Emtricitabine/Tenofovir disoproxil Mylan : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (156.01 KB - PDF)
+English (EN) (171.49 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 12/06/2026
+**First published:** 12/07/2024 **Last updated:** 03/09/2026
 
 [View](/en/documents/procedural-steps-after/emtricitabine-tenofovir-disoproxil-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -711,7 +705,7 @@ English (EN) (197.5 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-367)
+[Other languages (24)](#file-language-dropdown-598)
 
 български (BG) (187.83 KB - DOCX)
 
@@ -869,7 +863,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-817)
+[Other languages (22)](#file-language-dropdown-450)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1009,6 +1003,6 @@ svenska (SV) (67.11 KB - PDF)
 
 **This page was last updated on**
 
-12/06/2026
+03/09/2026
 
 ## Share this page

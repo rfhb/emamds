@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-16 08:50:38
+document_datetime: 2026-09-01 11:19:18
 document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/myqorzo-epar-product-information_en.pdf
 document_name: myqorzo-epar-product-information_en.pdf
 version: success
-processing_time: 12.8142925
-conversion_datetime: 2026-04-17 15:33:41.754065
+processing_time: 12.7966248
+conversion_datetime: 2026-09-05 10:38:07.534415
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.0
-  docling: 2.89.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -82,11 +82,11 @@ MYQORZO is indicated for the treatment of symptomatic (New York Heart Associatio
 
 Treatment should be initiated under the supervision of a physician experienced in the management of patients with cardiomyopathy.
 
-Before treatment initiation, left ventricular ejection fraction (LVEF) should be assessed by echocardiography (see section 4.4). Initiation or up-titration of MYQORZO in patients with LVEF &lt; 55% is not recommended. Regular LVEF and Valsalva left ventricular outflow tract gradient (LVOT-G) assessment should be performed during titration to achieve an appropriate target Valsalva LVOTG, while maintaining LVEF ≥ 50%.
+Before treatment initiation, left ventricular ejection fraction (LVEF) should be assessed by echocardiography (see section 4.4). Initiation or up-titration of MYQORZO in patients with LVEF &lt; 55% is not recommended. Regular LVEF and Valsalva left ventricular outflow tract gradient (LVOT-G) assessment should be performed during titration to achieve an appropriate target Valsalva LVOT-G, while maintaining LVEF ≥ 50%.
 
 ## Posology
 
-The dose range is 5 mg to 20 mg (either 5 mg, 10 mg, 15 mg, or 20 mg). The recommended starting dose is 5 mg orally once daily. A starting dose of 10 mg should be considered for patients with LVOTG ≥ 100 mmHg. The dose should be increased every 2 to 8 weeks by 5 mg until a maintenance dose or the maximum dose of 20 mg is achieved. The maintenance dose is individualised based on the patient's LVEF and LVOT-G. Recommendations for dosing based on LVEF and LVOT-G criteria are in Table 1.
+The dose range is 5 mg to 20 mg (either 5 mg, 10 mg, 15 mg, or 20 mg). The recommended starting dose is 5 mg orally once daily. A starting dose of 10 mg should be considered for patients with LVOT-G ≥ 100 mmHg. The dose should be increased every 2 to 8 weeks by 5 mg until a maintenance dose or the maximum dose of 20 mg is achieved. The maintenance dose is individualised based on the patient's LVEF and LVOT-G. Recommendations for dosing based on LVEF and LVOT-G criteria are in Table 1.
 
 Table 1: Dose adjustment of aficamten
 
@@ -100,11 +100,9 @@ Table 1: Dose adjustment of aficamten
 
 An echocardiographic assessment should be performed 2 to 8 weeks after initiation of treatment, any dose adjustment, or treatment interruption. After a treatment interruption when LVEF &lt; 40%, treatment should be resumed with a dose reduced by 5 mg when LVEF ≥ 55%. If at 5 mg and LVEF &lt; 50%, treatment should be interrupted for 7 days, and treatment can be resumed at 5 mg when LVEF ≥ 55% (see Table 1).
 
-After the maintenance dose has been established, LVEF and Valsalva LVOT-G should be assessed every 6 months, or every 3 months in patients with LVEF ≥ 50% to &lt; 55%. Consider monitoring LVEF and adjust dose per Table 1, as needed, in patients with intercurrent illness (e.g. severe infection
+After the maintenance dose has been established, LVEF and Valsalva LVOT-G should be assessed every 6 months, or every 3 months in patients with LVEF ≥ 50% to &lt; 55%. Consider monitoring LVEF and adjust dose per Table 1, as needed, in patients with intercurrent illness (e.g. severe infection or COVID-19), new arrhythmia (e.g. new or uncontrolled atrial fibrillation or other uncontrolled tachyarrhythmia) or any other conditions that may impair systolic function. Dose increases are not recommended until intercurrent illness, or new arrythmia has resolved or stabilised.
 
 <div style=\"page-break-after: always\"></div>
-
-or COVID-19), new arrhythmia (e.g. new or uncontrolled atrial fibrillation or other uncontrolled tachyarrhythmia) or any other conditions that may impair systolic function. Dose increases are not recommended until intercurrent illness or new arrythmia has resolved or stabilised.
 
 Discontinuation of aficamten may result in recurrence of HCM symptoms. Gradual dose reduction may attenuate the rate of symptom recurrence following treatment discontinuation (see section 4.4).
 
@@ -222,7 +220,7 @@ Aficamten is primarily metabolised by CYP2C9 and, to a lesser extent by CYP2D6 a
 
 ## Concomitant use contraindicated
 
-Coadministration of aficamten with more than a single dose of fluconazole and adagrasib is contraindicated (see section 4.3). Fluconazole (400 mg once daily), which is a moderate CYP2C9, strong CYP2C19, and moderate CYP3A inhibitor) increased aficamten AUC by 278%. Adagrasib a moderate CYP2C9, strong inhibitor of CYP3A4 and moderate inhibitor of CYP2D6 is expected to result in comparable or higher increased aficamten exposures as fluconazole.
+Coadministration of aficamten with more than a single dose of fluconazole and adagrasib is contraindicated (see section 4.3). Fluconazole (400 mg once daily), which is a moderate CYP2C9, strong CYP2C19, and moderate CYP3A inhibitor, increased aficamten AUC by 278%. Adagrasib a moderate CYP2C9, strong inhibitor of CYP3A4 and moderate inhibitor of CYP2D6 is expected to result in comparable or higher increased aficamten exposures as fluconazole.
 
 Coadministration of aficamten with medicinal products that are strong inducers of CYP3A and are also moderate CYP2C9 inducers such as rifampicin or St. John's wort ( Hypericum perforatum ) may result in decreased plasma concentrations of aficamten leading to loss of therapeutic effect (see section 4.3).
 
@@ -232,28 +230,26 @@ Avoidance is recommended for strong CYP2C9 inhibitors (e.g. sulfaphenazole) (see
 
 ## Other interactions
 
-Interactions of aficamten and potential co-administered medicinal products are listed in Table 3 below (increas e is indicated as '↑', decrease as '↓'). These interactions are based on either drug interaction studies or physiologically based pharmacokinetic predicted interactions due to the expected magnitude of interaction.
+Interactions of aficamten and potential co-administered medicinal products are listed in Table 3 below (increase is indicated as '↑', decrease as '↓'). These interactions are based on either drug interaction studies or physiologically based pharmacokinetic predicted interactions due to the expected magnitude of interaction.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 3: Interactions between aficamten and other medicinal products
 
-| Medicinal product by mechanism                                                                                                         | Effects on aficamten levels Mean percent change in AUC                                                                         | Recommendation concerning coadministration with aficamten                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Strong CYP3A4 inhibitor itraconazole 200 mg once daily                                                                                 | 26% ↑                                                                                                                          | This increase is not considered to be clinically relevant and does not necessitate dose adjustment of aficamten.                                                                                                                                                                                                                                                                                                                                                                                    |
-| Strong CYP2D6 inhibitor paroxetine 40 mg once daily                                                                                    | 27% ↑                                                                                                                          | This increase is not considered to be clinically relevant and does not necessitate dose adjustment of aficamten.                                                                                                                                                                                                                                                                                                                                                                                    |
-| Strong CYP2D6 and strong CYP2C19 inhibitor fluoxetine 40 mg once daily                                                                 | 31% ↑                                                                                                                          | This increase is not considered to be clinically relevant and does not necessitate dose adjustment of aficamten.                                                                                                                                                                                                                                                                                                                                                                                    |
-| Strong CYP2C9 inhibitor sulfaphenazole                                                                                                 | Interaction not studied Coadministration of a strong CYP2C9 inhibitor is expected to increase aficamten exposure.              | Coadministration should be avoided. If coadministration cannot be avoided, reduce the dose of aficamten to 5 mg and assess LVEF and LVOT - G every 4 to 8 weeks until a new maintenance dose of aficamten in presence of the inhibitor has been reached. (section 4.2, Table 1) The half-life of aficamten is expected to be increased (~7 to 10 days) in combination with strong CYP2C9 inhibitor. A new aficamten steady-state would then be achieved 5 to 7 weeks after initiation of inhibitor. |
-| Moderate CYP2C9 inhibitors that are also moderate-to-strong inhibitors of CYP2D6 or CYP3A fluconazole 400 mg once daily e.g. adagrasib | 278% ↑ Interaction with adagrasib is not studied but similar increase in aficamten exposure expected as caused by fluconazole. | Coadministration is contraindicated for adagrasib and more than a single dose of fluconazole (section 4.3) For coadministration of fluconazole 150 mg single dose, no dose adjustment of aficamten is necessary. For once weekly use, assess LVEF and LVOT-G every 4 to 8 weeks until a new maintenance dose of aficamten in the presence of fluconazole has been reached.                                                                                                                          |
-| Weak CYP2C9 inhibitors that are also moderate-to-strong inhibitors of CYP2D6 or CYP3A fluvoxamine                                      | Interactions not studied.                                                                                                      | Caution, adjust the dose of aficamten (section 4.2). Assess LVEF and LVOT - G every 4 to 8 weeks until a new maintenance dose of aficamten                                                                                                                                                                                                                                                                                                                                                          |
+| Medicinal product by mechanism                                                                                                         | Effects on aficamten levels Mean percent change in AUC                                                                                                                                                                   | Recommendation concerning coadministration with aficamten                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Strong CYP3A4 inhibitor itraconazole 200 mg once daily                                                                                 | 26% ↑                                                                                                                                                                                                                    | This increase is not considered to be clinically relevant and does not necessitate dose adjustment of aficamten.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Strong CYP2D6 inhibitor paroxetine 40 mg once daily                                                                                    | 27% ↑                                                                                                                                                                                                                    | This increase is not considered to be clinically relevant and does not necessitate dose adjustment of aficamten.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Strong CYP2D6 and strong CYP2C19 inhibitor fluoxetine 40 mg once daily Strong CYP2C9 inhibitor sulfaphenazole                          | 31% ↑ Interaction not studied                                                                                                                                                                                            | This increase is not considered to be clinically relevant and does not necessitate dose adjustment of aficamten. Coadministration should be avoided. If coadministration cannot be                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Moderate CYP2C9 inhibitors that are also moderate-to-strong inhibitors of CYP2D6 or CYP3A fluconazole 400 mg once daily e.g. adagrasib | Coadministration of a strong CYP2C9 inhibitor is expected to increase aficamten exposure. 278% ↑ Interaction with adagrasib is not studied but similar increase in aficamten exposure expected as caused by fluconazole. | avoided, reduce the dose of aficamten to 5 mg and assess LVEF and LVOT - G every 4 to 8 weeks until a new maintenance dose of aficamten in presence of the inhibitor has been reached. (section 4.2, Table 1) The half-life of aficamten is expected to be increased (~7 to 10 days) in combination with strong CYP2C9 inhibitor. A new aficamten steady-state would then be achieved 5 to 7 weeks after initiation of inhibitor. Coadministration is contraindicated for adagrasib and more than a single dose of fluconazole (section 4.3) For coadministration of fluconazole 150 mg single dose, no dose adjustment of aficamten is necessary. For once weekly use, assess LVEF and LVOT-G every 4 to 8 weeks until a new maintenance dose of aficamten in the presence of fluconazole has been reached. |
 
 <div style=\"page-break-after: always\"></div>
 
-| voriconazole                                                                                             | Coadministration of fluvoxamine and voriconazole is expected to increase aficamten exposure.                                                                                                            | in presence of the inhibitor has been reached (section 4.2, Table 1). The half-life of aficamten is expected to be increased (~1 week). A new aficamten steady-state would then be achieved by 4 to 6 weeks after initiation of inhibitor.                                                                                                                                  |
-|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Weak CYP2C9 inhibitors that are also weak to moderate inhibitors of CYP2D6 or CYP3A amiodarone           | Amiodarone has been co- administered in the clinical studies. Aficamten exposure may increase.                                                                                                          | Amiodarone has been co- administered in the clinical studies. Most patients had a maintenance aficamten dose of 5 and 10 mg. Assessment of LVEF and LVOT-G every 4 to 8 weeks is recommended when starting or stopping with amiodarone concomitant use. Amiodarone has a long half- life therefore interactions can linger for months after ending of amiodarone treatment. |
-| Strong CYP3A4 inducers that are also -moderate CYP2C9 inducers rifampicin St. John's wort                | Interactions not studied. Coadministration of rifampicin and other strong CYP3A that are also moderate CYP2C9 inducers is expected to decrease aficamten exposure leading to loss of therapeutic effect | Contraindicated (section 4.3)                                                                                                                                                                                                                                                                                                                                               |
-| Moderate-to-strong CYP3A4 and CYP2C9 inducers carbamazepine 300 mg twice daily e.g. rifabutin, efavirenz | 51% ↓ Interactions not studied but similar effects expected.                                                                                                                                            | This decrease in aficamten exposure may lead to less therapeutic effect. Maintenance aficamten dose may be increased up to a maximal dose of 20 mg once daily.                                                                                                                                                                                                              |
+| Weak CYP2C9 inhibitors that are also moderate-to-strong inhibitors of CYP2D6 or CYP3A fluvoxamine voriconazole   | Interactions not studied. Coadministration of fluvoxamine and voriconazole is expected to increase aficamten exposure.                                                                                  | Caution, adjust the dose of aficamten (section 4.2). Assess LVEF and LVOT-G every 4 to 8 weeks until a new maintenance dose of aficamten in presence of the inhibitor has been reached (section 4.2, Table 1). The half-life of aficamten is expected to be increased (~1 week). A new aficamten steady-state would then be achieved by 4 to 6 weeks after initiation of inhibitor.   |
+|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Weak CYP2C9 inhibitors that are also weak to moderate inhibitors of CYP2D6 or CYP3A amiodarone                   | Amiodarone has been co- administered in the clinical studies. Aficamten exposure may increase.                                                                                                          | Amiodarone has been co- administered in the clinical studies. Most patients had a maintenance aficamten dose of 5 and 10 mg. Assessment of LVEF and LVOT-G every 4 to 8 weeks is recommended when starting or stopping with amiodarone concomitant use. Amiodarone has a long half- life therefore interactions can linger for months after ending of amiodarone treatment.           |
+| Strong CYP3A4 inducers that are also -moderate CYP2C9 inducers rifampicin St. John's wort                        | Interactions not studied. Coadministration of rifampicin and other strong CYP3A that are also moderate CYP2C9 inducers is expected to decrease aficamten exposure leading to loss of therapeutic effect | Contraindicated (section 4.3)                                                                                                                                                                                                                                                                                                                                                         |
+| Moderate-to-strong CYP3A4 and CYP2C9 inducers carbamazepine 300 mg twice daily e.g. rifabutin, efavirenz         | 51% ↓ Interactions not studied but similar effects expected.                                                                                                                                            | This decrease in aficamten exposure may lead to less therapeutic effect. Maintenance aficamten dose may be increased up to a maximal dose of 20 mg once daily.                                                                                                                                                                                                                        |
 
 ## Effect of aficamten on other medicinal products
 
@@ -261,13 +257,13 @@ Coadministration of aficamten is not expected to cause clinically significant dr
 
 Aficamten increased total dabigatran exposure by 26% and therefore, aficamten is not a clinically significant P-glycoprotein inhibitor.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Women of childbearing potential
 
 Women of childbearing potential have to use effective contraception during treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -303,11 +299,11 @@ The adverse reactions included in Table 4 are listed according to system organ c
 
 Table 4: Adverse reactions
 
-| System organ class       | Adverse reaction       | Frequency   |
-|--------------------------|------------------------|-------------|
-| Nervous system disorders | Dizziness              | Common      |
-| Cardiac disorders        | Systolic dysfunction 1 | Common      |
-| Vascular disorders       | Hypertension           | Common      |
+| System organ class       | Adverse reaction                    | Frequency     |
+|--------------------------|-------------------------------------|---------------|
+| Nervous system disorders | Dizziness                           | Common        |
+| Cardiac disorders        | Systolic dysfunction 1 Palpitations | Common Common |
+| Vascular disorders       | Hypertension                        | Common        |
 
 ## Description of selected adverse reactions
 
@@ -325,7 +321,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-The highest single dose of aficamten 75 mg was administered to 1 healthy participant and resulted in LVEF of 35% at 1.5 hours post-dose that was asymptomatic, with recovery to LVEF of 52% at 4 hours post-dose. Treatment of overdose with consists of discontinuation of aficamten as well as medically supportive measures to maintain hemodynamic stability, including close monitoring of vital signs and LVEF and management of the clinical status of the patient. Overdose in humans can be lifethreatening and result in asystole refractory to any medical intervention.
+The highest single dose of aficamten 75 mg was administered to 1 healthy participant and resulted in LVEF of 35% at 1.5 hours post-dose that was asymptomatic, with recovery to LVEF of 52% at 4 hours post-dose. Treatment of overdose consists of discontinuation of aficamten as well as medically supportive measures to maintain hemodynamic stability, including close monitoring of vital signs and LVEF and management of the clinical status of the patient. Overdose in humans can be lifethreatening and result in asystole refractory to any medical intervention.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -351,7 +347,7 @@ In SEQUOIA-HCM study, the mean (SD) resting and Valsalva LVOT-G at baseline were
 
 ## Cardiac biomarkers
 
-In SEQUOIA-HCM, geometric mean NT-proBNP and troponin I at baseline were 734.7 pg/mL and 17.1 ng/L for patients in the aficamten group and 709.8 pg/mL and 16.6 ng/L in the placebo group. At week 24, the proportional change from based in NT-proBNP and troponin I were 0.19 and 0.58, respectively, for the aficamten group and 0.99 and 1.01, respectively, for the placebo group. NTproBNP and troponin I were similar to baseline for both treatment arms 4 weeks after the discontinuation from treatment.
+In SEQUOIA-HCM, geometric mean NT-proBNP and troponin I at baseline were 734.7 pg/mL and 17.1 ng/L for patients in the aficamten group and 709.8 pg/mL and 16.6 ng/L in the placebo group. At week 24, the proportional change from baseline in NT-proBNP and troponin I were 0.19 and 0.58, respectively, for the aficamten group and 0.99 and 1.01, respectively, for the placebo group. NTproBNP and troponin I were similar to baseline for both treatment arms 4 weeks after the discontinuation from treatment.
 
 ## Cardiac electrophysiology
 
@@ -367,9 +363,9 @@ Patients with a known infiltrative or storage disorder causing cardiac hypertrop
 
 Patients were randomised in a 1:1 ratio to receive either a starting dose of 5 mg of aficamten or placebo once daily for 24 weeks. Stratification factors included baseline use of beta blockers and cardiopulmonary exercise testing (CPET) ergometer (treadmill or cycle). At baseline, beta-blockers were used by 61.3% of patients, and non-dihydropyridine calcium channel blockers were used by 28.7% of participants. In addition, 12.8% of patients were taking disopyramide. Overall, 14.5% of patients were not taking any background medicinal product at baseline.
 
-Overall, baseline demographics and disease characteristics were balanced between treatment groups. The study enrolled patients with a mean age of 59.1 years; (range 18 to 84 years), 59% male, 79% White, 19% Asian and 1% Black or African American. The mean, body mass index was 28.1 kg/m 2 , mean resting heart rate of 66 bpm and mean blood pressure of 125/74 mmHg. In SEQUOIA-HCM there were 57 patients aged 65 years and older. No patients had undergone prior septal reduction therapy (SRT). At baseline, 76% of the randomised patients were NYHA class II and 24% were NYHA class III. The median LVEF was 75.6%, the mean resting LVOT-G was 55.1 mmHg, the mean Valsalva LVOT-G was 83.1 mmHg, and the mean Kansas City Cardiomyopathy Questionnaire Clinical Summary Score (KCCQ-CSS) was 74.7.
+Overall, baseline demographics and disease characteristics were balanced between treatment groups. The study enrolled patients with a mean age of 59.1 years; (range 18 to 84 years), 59% male, 79% White, 19% Asian and 1% Black or African American. The mean, body mass index was 28.1 kg/m 2 , mean resting heart rate of 66 bpm and mean blood pressure of 125/74 mmHg. In SEQUOIA-HCM there were 57 patients aged 65 years and older. No patients had undergone prior septal reduction therapy (SRT). At baseline, 76% of the randomised patients were NYHA class II and 24% were NYHA class III. The median LVEF was 75.6%, the mean resting LVOT-G was 55.1 mmHg, the mean Valsalva LVOT-G was 83.1 mmHg, and the mean Kansas City Cardiomyopathy Questionnaire - Clinical Summary Score (KCCQ-CSS) was 74.7.
 
-Patients were initiated on aficamten at a dose of 5 mg once daily. Doses were individually titrated at weeks 2, 4 and 6 if Valsalva LVOTG ≥ 30 mmHg and LVEF ≥ 55% in 5 mg intervals up to a maximum dose of 20 mg one daily. At week 24 in the aficamten group, 46% of patients were receiving a 20 mg dose, 35% were receiving a 15 mg dose, 15.3% were receiving a 10 mg dose and 3.6% were receiving a 5 mg dose.
+Patients were initiated on aficamten at a dose of 5 mg once daily. Doses were individually titrated at weeks 2, 4 and 6 if Valsalva LVOT-G ≥ 30 mmHg and LVEF ≥ 55% in 5 mg intervals up to a maximum dose of 20 mg once daily. At week 24 in the aficamten group, 46% of patients were receiving a 20 mg dose, 35% were receiving a 15 mg dose, 15.3% were receiving a 10 mg dose and 3.6% were receiving a 5 mg dose.
 
 ## Primary endpoint - peak oxygen uptake (pVO2)
 
@@ -377,7 +373,7 @@ In SEQUOIA-HCM study, the primary endpoint of change from baseline in pVO2 to we
 
 ## Secondary endpoints
 
-The treatment effects of aficamten on health status, functional capacity, and LVOT obstruction were assessed by change in KCCQCSS, proportion of patients with ≥ 1 class improvement in NYHA functional class, change from baseline in Valsalva LVOT-G, proportion of patients with Valsalva LVOTG ≤ 30 mmHg and duration of eligibility for septal reduction therapy (SRT). At week 24, patients receiving aficamten had greater improvement compared to the placebo group across all secondary points (Table 5).
+The treatment effects of aficamten on health status, functional capacity, and LVOT obstruction were assessed by change in KCCQ-CSS, proportion of patients with ≥ 1 class improvement in NYHA functional class, change from baseline in Valsalva LVOT-G, proportion of patients with Valsalva LVOT-G ≤ 30 mmHg and duration of eligibility for septal reduction therapy (SRT). At week 24, patients receiving aficamten had greater improvement compared to the placebo group across all secondary endpoints (Table 5).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -423,33 +419,34 @@ Table 5: Analysis of endpoints from SEQUOIA-HCM study
 | Week 24, n (%)                                              | -48 (2.4)                                              | 2.2 (2.4)                                              |
 | Difference (95% CI)                                         | -50 (-57, -44)                                         | -50 (-57, -44)                                         |
 | p-value                                                     | < 0.0001                                               | < 0.0001                                               |
+| Proportion of patients with Valsalva LVOT-G < 30 (mmHg)     | 4                                                      |                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Week 12, n (%)                                          | 74 (52.1)                                               | 8 (5.7)                                                 |
-|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
-| Difference (95% CI)                                     | OR: 18 (7.8, 44.4) Difference: 46.4 (37.3, 55.5)        | OR: 18 (7.8, 44.4) Difference: 46.4 (37.3, 55.5)        |
-| p-value                                                 | < 0.0001                                                | < 0.0001                                                |
-| Week 24, n (%)                                          | 70 (49.3)                                               | 5 (3.6)                                                 |
-| Difference (95% CI)                                     | OR: 25.5 (10.1, 88.2) Difference: 45.7 (36.9, 54.5)     | OR: 25.5 (10.1, 88.2) Difference: 45.7 (36.9, 54.5)     |
-| p-value                                                 | < 0.0001                                                | < 0.0001                                                |
-| Proportion of patients with ≥ 1 NYHAclass improvement 4 | Proportion of patients with ≥ 1 NYHAclass improvement 4 | Proportion of patients with ≥ 1 NYHAclass improvement 4 |
-| Week 12, n (%)                                          | 69 (48.6)                                               | 25 (17.9)                                               |
-| Difference (95% CI)                                     | OR: 4.6 (2.6, 8.4) Difference: 30.8 (20.6, 41)          | OR: 4.6 (2.6, 8.4) Difference: 30.8 (20.6, 41)          |
-| p-value                                                 | < 0.0001                                                | < 0.0001                                                |
-| Week 24, n (%)                                          | 83 (58.5)                                               | 34 (24.3)                                               |
-| Difference (95% CI)                                     | OR: 4.4 (2.6, 7.6) Difference: 34.2 (23.4, 45)          | OR: 4.4 (2.6, 7.6) Difference: 34.2 (23.4, 45)          |
-| p-value                                                 | < 0.0001                                                | < 0.0001                                                |
+| Week 12, n (%)                                           | 74 (52.1)                                                | 8 (5.7)                                                  |
+|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+| Difference (95% CI)                                      | OR: 18 (7.8, 44.4) Difference: 46.4 (37.3, 55.5)         | OR: 18 (7.8, 44.4) Difference: 46.4 (37.3, 55.5)         |
+| p-value                                                  | < 0.0001                                                 | < 0.0001                                                 |
+| Week 24, n (%)                                           | 70 (49.3)                                                | 5 (3.6)                                                  |
+| Difference (95% CI)                                      | OR: 25.5 (10.1, 88.2) Difference: 45.7 (36.9, 54.5)      | OR: 25.5 (10.1, 88.2) Difference: 45.7 (36.9, 54.5)      |
+| p-value                                                  | < 0.0001                                                 | < 0.0001                                                 |
+| Proportion of patients with ≥ 1 NYHA class improvement 4 | Proportion of patients with ≥ 1 NYHA class improvement 4 | Proportion of patients with ≥ 1 NYHA class improvement 4 |
+| Week 12, n (%)                                           | 69 (48.6)                                                | 25 (17.9)                                                |
+| Difference (95% CI)                                      | OR: 4.6 (2.6, 8.4) Difference: 30.8 (20.6, 41)           | OR: 4.6 (2.6, 8.4) Difference: 30.8 (20.6, 41)           |
+| p-value                                                  | < 0.0001                                                 | < 0.0001                                                 |
+| Week 24, n (%)                                           | 83 (58.5)                                                | 34 (24.3)                                                |
+| Difference (95% CI)                                      | OR: 4.4 (2.6, 7.6) Difference: 34.2 (23.4, 45)           | OR: 4.4 (2.6, 7.6) Difference: 34.2 (23.4, 45)           |
+| p-value                                                  | < 0.0001                                                 | < 0.0001                                                 |
 
 CPET: Cardiac Pulmonary Exercise Test; KCCQ CSS: Kansas City Cardiomyopathy Questionnaire - Clinical Summary Score; NYHA: New York Heart Association; LVOT-G: left ventricular outflow tract gradient; SRT: septal reduction therapy
 
-1 LS means (SE) and LS mean difference (95% CI) presented for continuous endpoints.
+1  LS means (SE) and LS mean difference (95% CI) presented for continuous endpoints.
 
-2 The KCCQ CSS measures patient-perceived physical limitations and symptoms associated with heart failure. The KCCQ CSS ranges from 0 to 100, with higher scores representing better health status.
+2  The KCCQ CSS measures patient-perceived physical limitations and symptoms associated with heart failure. The KCCQ CSS ranges from 0 to 100, with higher scores representing better health status.
 
-3 NYHA includes Classes I to IV.
+3  NYHA includes Classes I to IV.
 
-4 The number (percentage) of responders and rate difference (Diff) and common OR (exact 95% CI of the OR) are presented for binary endpoints.
+4  The number (percentage) of responders and rate difference (Diff) and common OR (exact 95% CI of the OR) are presented for binary endpoints.
 
 A range of demographic characteristics, baseline disease characteristics, and baseline concomitant medicinal products (e.g. use of beta blockers) were examined for their influence on outcomes. Results of the primary analysis favoured aficamten consistently across all subgroups.
 
@@ -465,11 +462,9 @@ Aficamten exposure increases dose proportionally following multiple once-daily d
 
 ## Absorption
 
-Aficamten is rapidly absorbed with a median time to maximum concentration (tmax) of 1.5 to 2 hours. Aficamten maximum concentration (Cmax) and trough concentration (Ctrough) after 20 mg once daily administration at steady-state were 336 and 288 ng/mL, respectively. The bioavailability of aficamten
+Aficamten is rapidly absorbed with a median time to maximum concentration (tmax) of 1.5 to 2 hours. Aficamten maximum concentration (Cmax) and trough concentration (Ctrough) after 20 mg once daily administration at steady-state were 336 and 288 ng/mL, respectively. The bioavailability of aficamten after oral administration is unknown. No clinically significant differences in aficamten AUC and Cmax were observed following its administration with a high-fat, high-calorie meal.
 
 <div style=\"page-break-after: always\"></div>
-
-after oral administration is unknown. No clinically significant differences in aficamten AUC and Cmax were observed following its administration with a high-fat, high-calorie meal.
 
 ## Distribution
 
@@ -513,7 +508,7 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## Embryo-foetal and postnatal development
 
-When aficamten was administered orally in an embryo-foetal toxicity study in the rat, increases in the number of early and late resorptions, decreases in group mean foetal body weight, and foetal abnormalities such as short tail (1 foetus) and kinked tail (2 foetuses) were observed at maternally toxic exposures 2.5x above the maximum recommended human dose (MRHD) of 20 mg of aficamten based on AUC. There were no aficamten-associated adverse effects on foetal growth, or foetal external or visceral variations observed at exposures 1.9x above the MRHD based on AUC..
+When aficamten was administered orally in an embryo-foetal toxicity study in the rat, increases in the number of early and late resorptions, decreases in group mean foetal body weight, and foetal abnormalities such as short tail (1 foetus) and kinked tail (2 foetuses) were observed at maternally toxic exposures 2.5x above the maximum recommended human dose (MRHD) of 20 mg of aficamten based on AUC. There were no aficamten-associated adverse effects on foetal growth, or foetal external or visceral variations observed at exposures 1.9x above the MRHD based on AUC.
 
 When aficamten was administered orally in an embryo-foetal toxicity study in the rabbit, increases in the number of late resorptions were observed at maternally toxic exposures below the MRHD. As such this study is considered insufficient.
 
@@ -529,7 +524,7 @@ Microcrystalline cellulose (E 460(i)) Mannitol (E 421) Croscarmellose sodium (E 
 
 ## Film coating
 
-Macrogol poly(vinyl alcohol) grafted copolymer (E 1209) Talc (E 553b) Titanium dioxide (E 171) Glycerol mono and dicaprylocaprate (E 471) Poly(vinyl alcohol) (E 1203) Indigo carmine aluminum lake (E 132) Carmine (E 120)
+Macrogol poly(vinyl alcohol) grafted copolymer (E 1209) Talc (E 553b) Titanium dioxide (E 171) Glycerol monocaprylocaprate Type 1  (E 471) Poly(vinyl alcohol) (E 1203) Indigo carmine aluminum lake (E 132) Carmine (E 120)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -537,7 +532,7 @@ Macrogol poly(vinyl alcohol) grafted copolymer (E 1209) Talc (E 553b) Titanium d
 |------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | Not applicable.                                                                                                              | Not applicable.                                                                                                              |
 | 6.3                                                                                                                          | Shelf life                                                                                                                   |
-| 30 months                                                                                                                    | 30 months                                                                                                                    |
+| 36 months                                                                                                                    | 36 months                                                                                                                    |
 | 6.4                                                                                                                          | Special precautions for storage                                                                                              |
 | Store below 30 °C.                                                                                                           | Store below 30 °C.                                                                                                           |
 | 6.5                                                                                                                          | Nature and contents of container                                                                                             |
@@ -546,7 +541,7 @@ Macrogol poly(vinyl alcohol) grafted copolymer (E 1209) Talc (E 553b) Titanium d
 | Not all pack sizes may be marketed.                                                                                          | Not all pack sizes may be marketed.                                                                                          |
 | 6.6                                                                                                                          | Special precautions for disposal and other handling                                                                          |
 | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                  | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                  |
-| 7.                                                                                                                           | MARKETING AUTHORISATIONHOLDER                                                                                                |
+| 7.                                                                                                                           | MARKETING AUTHORISATION HOLDER                                                                                               |
 | Cytokinetics (Ireland) Limited 45 Mespil Rd. Dublin D04 W2F1 Ireland                                                         | Cytokinetics (Ireland) Limited 45 Mespil Rd. Dublin D04 W2F1 Ireland                                                         |
 | 8.                                                                                                                           | MARKETING AUTHORISATION NUMBER                                                                                               |
 | EU/1/25/2014/001-012                                                                                                         | EU/1/25/2014/001-012                                                                                                         |
@@ -780,17 +775,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 MYQORZO 5 mg tablets aficamten
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Cytokinetics
 
@@ -813,7 +808,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-MYQORZO 10 mg film-coated tablets aficamten
+MYQORZO 10 mg film-coated tablets
+
+aficamten
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -857,7 +854,7 @@ EXP
 
 Store below 30 °C.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -878,9 +875,7 @@ EU/1/25/2014/010 (Pack size of 98 tablets)
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 MYQORZO 10 mg
@@ -899,17 +894,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 MYQORZO 10 mg tablets aficamten
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Cytokinetics
 
@@ -926,13 +921,17 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+30
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-MYQORZO 15 mg film-coated tablets aficamten
+MYQORZO 15 mg film-coated tablets
+
+aficamten
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -997,9 +996,7 @@ EU/1/25/2014/011 (Pack size of 98 tablets)
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 MYQORZO 15 mg
@@ -1018,17 +1015,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 MYQORZO 15 mg tablets aficamten
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Cytokinetics
 
@@ -1141,17 +1138,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 MYQORZO 20 mg tablets aficamten
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Cytokinetics
 
@@ -1222,7 +1219,9 @@ Hospital name (if applicable):  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
-MYQORZO 5 mg film-coated tablets MYQORZO 10 mg film-coated tablets MYQORZO 15 mg film-coated tablets MYQORZO 20 mg film-coated tablets aficamten
+MYQORZO 5 mg film-coated tablets MYQORZO 10 mg film-coated tablets MYQORZO 15 mg film-coated tablets MYQORZO 20 mg film-coated tablets
+
+aficamten
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1262,10 +1261,10 @@ The active substance in MYQORZO, aficamten, binds to the protein myosin in the h
 
 - if you are allergic to aficamten or any of the other ingredients of this medicine (listed in section 6).
 - If you are taking the following medicines:
-- -fluconazole for more than 1 dose (a medicine commonly used to treat fungal infections).
-- -adagrasib (a medicine used for the treatment of certain cancers).
-- -rifampicin (an antibiotic for infections like tuberculosis).
-- -St. John's wort (an herbal supplement for depression).
+- fluconazole for more than 1 dose (a medicine commonly used to treat fungal infections).
+- adagrasib (a medicine used for the treatment of certain cancers).
+- rifampicin (an antibiotic for infections like tuberculosis).
+- St. John's wort (an herbal supplement for depression).
 
 Ask your doctor if the medicine you are taking prevents you from taking aficamten. See section 'Other medicines and MYQORZO'.
 
@@ -1277,11 +1276,11 @@ Talk to your doctor before taking MYQORZO.
 
 Tell your doctor or pharmacist immediately if you get any of these symptoms (new or worsening) during your treatment with MYQORZO:
 
-- -irregular heartbeats (arrhythmia)
-- -shortness of breath (dyspnoea)
-- -chest pain
-- -tiredness or
-- -leg swelling.
+- irregular heartbeats (arrhythmia)
+- shortness of breath (dyspnoea)
+- chest pain
+- tiredness or
+- leg swelling.
 
 These could be signs and symptoms of systolic dysfunction, a condition where the heart cannot pump with enough force, which can be life-threatening and lead to heart failure (see section 4).
 
@@ -1416,8 +1415,8 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 
 - The active substance is aficamten. Each film-coated tablet (tablet) contains 5 mg, 10 mg, 15 mg or 20 mg aficamten.
 - The other ingredients are:
-- -Tablet core: Microcrystalline cellulose (E 460), mannitol (E 421), croscarmellose sodium (E 468), hydroxypropylcellulose (E 463), sodium laurilsulfate, magnesium stearate (E 470b). See section 2 'MYQORZO contains sodium'.
-- -Tablet film coating: Macrogol poly (vinyl alcohol) grafted copolymer (E 1209), talc (E 553b), titanium dioxide (E 171), glycerol mono and dicaprylocaprate (E 471), poly (vinyl alcohol) (E 1203), indigo carmine aluminium lake (E 132), carmine (E 120).
+- Tablet core: Microcrystalline cellulose (E 460), mannitol (E 421), croscarmellose sodium (E 468), hydroxypropylcellulose (E 463), sodium laurilsulfate, magnesium stearate (E 470b). See section 2 'MYQORZO contains sodium'.
+- Tablet film coating: Macrogol poly (vinyl alcohol) grafted copolymer (E 1209), talc (E 553b), titanium dioxide (E 171), glycerol monocaprylocaprate Type 1 (E 471), poly (vinyl alcohol) (E 1203), indigo carmine aluminium lake (E 132), carmine (E 120).
 
 ## What MYQORZO looks like and contents of the pack
 
@@ -1430,11 +1429,7 @@ The tablets are available in aluminium foil blisters containing 14 film-coated t
 
 Each pack contains 14, 28 or 98 tablets. Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder
-
-Cytokinetics (Ireland) Limited 45 Mespil Road Dublin D04 WF21 Ireland Tel: +353 1 200 3014
-
-medinfo.europe@cytokinetics.com
+Marketing Authorisation Holder Cytokinetics (Ireland) Limited 45 Mespil Road Dublin D04 WF21 Ireland Tel: +353 1 200 3014 medinfo.europe@cytokinetics.com
 
 ## Manufacturer
 

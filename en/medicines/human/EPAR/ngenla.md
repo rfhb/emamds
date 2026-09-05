@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-21 11:00:00
+document_datetime: 2026-09-02 16:04:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ngenla.html
 document_name: ngenla.html
 version: success
-processing_time: 0.1450131
-conversion_datetime: 2026-08-22 23:24:45.426971
+processing_time: 0.3556354
+conversion_datetime: 2026-09-05 10:49:34.800315
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -102,7 +102,7 @@ English (EN) (122.33 KB - PDF)
 
 [View](/en/documents/overview/ngenla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-136)
+[Other languages (22)](#file-language-dropdown-143)
 
 български (BG) (146.88 KB - PDF)
 
@@ -254,7 +254,7 @@ English (EN) (3.09 MB - PDF)
 
 [View](/en/documents/product-information/ngenla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-65)
+[Other languages (24)](#file-language-dropdown-746)
 
 български (BG) (1.9 MB - PDF)
 
@@ -427,7 +427,7 @@ English (EN) (36.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ngenla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-930)
+[Other languages (24)](#file-language-dropdown-591)
 
 български (BG) (37.28 KB - PDF)
 
@@ -609,7 +609,7 @@ Indicated for the long-term treatment of paediatric patients with growth disturb
 - **Marketing authorisation issued**
     - 14/02/2022
 - **Revision**
-    - 9
+    - 11
 
 ## Assessment history
 
@@ -634,6 +634,26 @@ English (EN) (143.04 KB - PDF)
 **First published:** 21/03/2022 **Last updated:** 23/04/2025
 
 [View](/en/documents/procedural-steps-after/ngenla-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Ngenla-PAM-0000269177 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3430991
+
+English (EN) (1.87 MB - PDF)
+
+**First published:** 02/09/2026
+
+[View](/en/documents/variation-report/ngenla-pam-0000269177-epar-assessment-report_en.pdf)
+
+Ngenla-PAM-0000269183 : EPAR - Assessment report
+
+Reference Number: EMADOC-1700519818-3428562
+
+English (EN) (1.47 MB - PDF)
+
+**First published:** 01/09/2026
+
+[View](/en/documents/variation-report/ngenla-pam-0000269183-epar-assessment-report_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -688,6 +708,6 @@ English (EN) (79.18 KB - PDF)
 
 **This page was last updated on**
 
-21/08/2026
+02/09/2026
 
 ## Share this page

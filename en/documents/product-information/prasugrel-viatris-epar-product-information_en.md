@@ -1,22 +1,24 @@
 ---
-document_datetime: 2025-09-26 16:04:16
-document_pages: 43
+document_datetime: 2026-09-02 15:08:25
+document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/prasugrel-viatris-epar-product-information_en.pdf
 document_name: prasugrel-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 12.8254446
-conversion_datetime: 2025-12-29 22:25:16.354154
+processing_time: 11.8664095
+conversion_datetime: 2026-09-05 10:40:12.603771
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -42,7 +44,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Film-coated tablet.
+Film-coated tablet (tablet).
 
 ## Prasugrel Viatris 5 mg
 
@@ -50,7 +52,7 @@ Yellow film-coated, capsule shaped, biconvex tablet, of dimensions 8.15 mm × 4.
 
 ## Prasugrel Viatris 10 mg
 
-Beige film-coated, capsule shaped, biconvex tablet, of dimensions 11.15 mm × 5.15 mm, debossed with 'PH4' on one side and 'M' on the other side.
+Beige film-coated, capsule shaped, biconvex tablet, of dimensions 11.15 mm × 5.15 mm, debossed with 'PH 4 ' on one side and 'M' on the other side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -66,11 +68,9 @@ For further information please refer to section 5.1.
 
 ## Adults
 
-Prasugrel Viatris should be initiated with a single 60 mg loading dose and then continued at 10 mg once a day. In UA/NSTEMI patients, where coronary angiography is performed within 48 hours after
+Prasugrel Viatris should be initiated with a single 60 mg loading dose and then continued at 10 mg once a day. In UA/NSTEMI patients, where coronary angiography is performed within 48 hours after admission, the loading dose should only be given at the time of PCI (see sections 4.4, 4.8 and 5.1). Patients taking Prasugrel Viatris should also take ASA daily (75 mg to 325 mg).
 
 <div style=\"page-break-after: always\"></div>
-
-admission, the loading dose should only be given at the time of PCI (see sections 4.4, 4.8 and 5.1). Patients taking Prasugrel Viatris should also take ASA daily (75 mg to 325 mg).
 
 In patients with acute coronary syndrome (ACS) who are managed with PCI, premature discontinuation of any antiplatelet agent, including Prasugrel Viatris, could result in an increased risk of thrombosis, myocardial infarction or death due to the patient's underlying disease. A treatment of up to 12 months is recommended unless the discontinuation of Prasugrel Viatris is clinically indicated (see sections 4.4 and 5.1).
 
@@ -106,11 +106,9 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Bleeding risk
 
-In the phase 3 clinical study (TRITON) key exclusion criteria included an increased risk of bleeding; anaemia; thrombocytopaenia; a history of pathological intracranial findings. Patients with acute
+In the phase 3 clinical study (TRITON) key exclusion criteria included an increased risk of bleeding; anaemia; thrombocytopaenia; a history of pathological intracranial findings. Patients with acute coronary syndromes undergoing PCI treated with prasugrel and ASA showed an increased risk of major and minor bleeding according to the TIMI classification system. Therefore, the use of prasugrel in patients at increased risk of bleeding should only be considered when the benefits in terms of prevention of ischaemic events are deemed to outweigh the risk of serious bleedings. This concern applies especially to patients:
 
 <div style=\"page-break-after: always\"></div>
-
-coronary syndromes undergoing PCI treated with prasugrel and ASA showed an increased risk of major and minor bleeding according to the TIMI classification system. Therefore, the use of prasugrel in patients at increased risk of bleeding should only be considered when the benefits in terms of prevention of ischaemic events are deemed to outweigh the risk of serious bleedings. This concern applies especially to patients:
 
 - ≥75 years of age (see below).
 - with a propensity to bleed (e.g. due to recent trauma, recent surgery, recent or recurrent gastrointestinal bleeding, or active peptic ulcer disease)
@@ -119,7 +117,7 @@ coronary syndromes undergoing PCI treated with prasugrel and ASA showed an incre
 
 For patients with active bleeding for whom reversal of the pharmacological effects of prasugrel is required, platelet transfusion may be appropriate.
 
-The use of Prasugrel Viatris in patients ≥75 years of age is generally not recommended and should only be undertaken with caution after a careful individual benefit/risk evaluation by the prescribing physician indicates that benefits in terms of prevention of ischaemic events outweigh the risk of serious bleedings. In the phase 3 clinical study these patients were at greater risk of bleeding, including fatal bleeding, compared to patients &lt;75 years of age. If prescribed, a lower maintenance dose of 5 mg should be used; the 10 mg maintenance dose is not recommended (see sections 4.2 and 4.8).
+The use of Prasugrel Viatris in patients ≥7 5 years of age is generally not recommended and should only be undertaken with caution after a careful individual benefit/risk evaluation by the prescribing physician indicates that benefits in terms of prevention of ischaemic events outweigh the risk of serious bleedings. In the phase 3 clinical study these patients were at greater risk of bleeding, including fatal bleeding, compared to patients &lt;75 years of age. If prescribed, a lower maintenance dose of 5 mg should be used; the 10 mg maintenance dose is not recommended (see sections 4.2 and 4.8).
 
 Therapeutic experience with prasugrel is limited in patients with renal impairment (including ESRD) and in patients with moderate hepatic impairment. These patients may have an increased bleeding risk. Therefore, prasugrel should be used with caution in these patients.
 
@@ -131,7 +129,7 @@ In a clinical study of NSTEMI patients (the ACCOAST study), where patients were 
 
 ## Surgery
 
-Patients should be advised to inform physicians and dentists that they are taking prasugrel before any surgery is scheduled and before any new medicinal product is taken. If a patient is to undergo elective surgery, and an antiplatelet effect is not desired, Prasugrel Viatris should be discontinued at least 7 days prior to surgery. Increased frequency (3-fold) and severity of bleeding may occur in patients undergoing CABG surgery within 7 days of discontinuation of prasugrel (see section 4.8). The benefits and risks of prasugrel should be carefully considered in patients in whom the coronary anatomy has not been defined and urgent CABG is a possibility.
+Patients should be advised to inform physicians and dentists that they are taking prasugrel before any surgery is scheduled and before any new medicinal product is taken. If a patient is to undergo elective surgery, and an antiplatelet effect is not desired, Prasugrel Viatris should be discontinued at least 7 days prior to surgery. Increased frequency (3­fold) and severity of bleeding may occur in patients undergoing CABG surgery within 7 days of discontinuation of prasugrel (see section 4.8). The benefits and risks of prasugrel should be carefully considered in patients in whom the coronary anatomy has not been defined and urgent CABG is a possibility.
 
 ## Hypersensitivity including angioedema
 
@@ -149,13 +147,13 @@ Reduced prasugrel efficacy has been seen in patients co-administered prasugrel a
 
 ## Prasugrel Viatris 5 mg contains sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium - free'.
 
 ## Prasugrel Viatris 10 mg contains sunset yellow FCF aluminium lake (E110) and sodium
 
 Sunset yellow FCF aluminium lake is an azo colouring agent, which may cause allergic reactions.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium - free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -165,7 +163,7 @@ Concomitant administration of Prasugrel Viatris with coumarin derivatives other 
 
 ## Non-steroidal anti-inflammatory drugs (NSAIDs)
 
-Concomitant administration with chronic NSAIDs has not been studied. Because of the potential for increased risk of bleeding, chronic NSAIDs (including COX-2 inhibitors) and Prasugrel Viatris should be co-administered with caution (see section 4.4).
+Concomitant administration with chronic NSAIDs has not been studied. Because of the potential for increased risk of bleeding, chronic NSAIDs (including COX­2 inhibitors) and Prasugrel Viatris should be co-administered with caution (see section 4.4).
 
 Prasugrel Viatris can be concomitantly administered with medicinal products metabolised by cytochrome P450 enzymes (including statins), or medicinal products that are inducers or inhibitors of cytochrome P450 enzymes. Prasugrel Viatris can also be concomitantly administered with ASA, heparin, digoxin, and medicinal products that elevate gastric pH, including proton pump inhibitors and H2 blockers. Although not studied in specific interaction studies, prasugrel has been co-administered in the phase 3 clinical study with low molecular weight heparin, bivalirudin, and GP IIb/IIIa inhibitors (no information available regarding the type of GP IIb/IIIa inhibitor used) without evidence of clinically significant adverse interactions.
 
@@ -177,11 +175,9 @@ Prasugrel Viatris is to be administered concomitantly with acetylsalicylic acid 
 
 ## Heparin
 
-A single intravenous bolus dose of unfractionated heparin (100 U/kg) did not significantly alter the prasugrel-mediated inhibition of platelet aggregation. Likewise, prasugrel did not significantly alter the
+A single intravenous bolus dose of unfractionated heparin (100 U/kg) did not significantly alter the prasugrel-mediated inhibition of platelet aggregation. Likewise, prasugrel did not significantly alter the effect of heparin on measures of coagulation. Therefore, both medicinal products can be administered concomitantly. An increased risk of bleeding is possible when Prasugrel Viatris is co-administered with heparin.
 
 <div style=\"page-break-after: always\"></div>
-
-effect of heparin on measures of coagulation. Therefore, both medicinal products can be administered concomitantly. An increased risk of bleeding is possible when Prasugrel Viatris is co-administered with heparin.
 
 ## Statins
 
@@ -189,11 +185,11 @@ Atorvastatin (80 mg daily) did not alter the pharmacokinetics of prasugrel and i
 
 ## Medicinal products that elevate gastric pH
 
-Daily co administration of ranitidine (an H2 blocker) or lansoprazole (a proton pump inhibitor) did not change the prasugrel active metabolite's AUC and Tmax, but decreased the Cmax by 14% and 29%, respectively. In the phase 3 clinical study, prasugrel was administered without regard to co administration of a proton pump inhibitor or H2 blocker. Administration of the 60 mg prasugrel loading dose without concomitant use of proton pump inhibitors may provide most rapid onset of action.
+Daily co administration of ranitidine (an H2 blocker) or lansoprazole (a proton pump inhibitor) did not change the prasugrel active metabolite's AUC and T max, but decreased the Cmax by 14% and 29%, respectively. In the phase 3 clinical study, prasugrel was administered without regard to co administration of a proton pump inhibitor or H2 blocker. Administration of the 60 mg prasugrel loading dose without concomitant use of proton pump inhibitors may provide most rapid onset of action.
 
 ## Inhibitors of CYP3A
 
-Ketoconazole (400 mg daily), a selective and potent inhibitor of CYP3A4 and CYP3A5, did not affect prasugrel-mediated inhibition of platelet aggregation or the prasugrel active metabolite's AUC and Tmax, but decreased the Cmax by 34% to 46%. Therefore, CYP3A inhibitors such as azol antifungals, HIV protease inhibitors, clarithromycin, telithromycin, verapamil, diltiazem, indinavir, ciprofloxacin, and grapefruit juice are not anticipated to have a significant effect on the pharmacokinetics of the active metabolite.
+Ketoconazole (400 mg daily), a selective and potent inhibitor of CYP3A4 and CYP3A5, did not affect prasugrelmediated inhibition of platelet aggregation or the prasugrel active metabolite's AUC and Tmax, but decreased the Cmax by 34% to 46%. Therefore, CYP3A inhibitors such as azol antifungals, HIV protease inhibitors, clarithromycin, telithromycin, verapamil, diltiazem, indinavir, ciprofloxacin, and grapefruit juice are not anticipated to have a significant effect on the pharmacokinetics of the active metabolite.
 
 ## Inducers of cytochromes P450
 
@@ -211,7 +207,7 @@ Prasugrel has no clinically significant effect on the pharmacokinetics of digoxi
 
 ## Medicinal products metabolised by CYP2C9
 
-Prasugrel did not inhibit CYP2C9, as it did not affect the pharmacokinetics of S-warfarin. Because of the potential for increased risk of bleeding, warfarin and Prasugrel Viatris should be co-administered with caution (see section 4.4).
+Prasugrel did not inhibit CYP2C9, as it did not affect the pharmacokinetics of S­warfarin. Because of the potential for increased risk of bleeding, warfarin and Prasugrel Viatris should be co-administered with caution (see section 4.4).
 
 ## Medicinal products metabolised by CYP2B6
 
@@ -269,10 +265,10 @@ Table 1: Incidence of Non-CABG related bleeding a  (% Patients)
 
 - a Centrally adjudicated events defined by the Thrombolysis in Myocardial Infarction (TIMI) Study Group criteria.
 - b Other standard therapies were used as appropriate.
-- c Any intracranial haemorrhage or any clinically overt bleeding associated with a fall in haemoglobin ≥5 g/dL.
+- c Any intracranial haemorrhage or any clinically overt bleeding associated with a fall in haemoglobin ≥ 5 g/dL.
 - d Life-threatening bleeding is a subset of TIMI major bleeding and includes the types indented below. Patients may be counted in more than one row.
 - e ICH = intracranial haemorrhage.
-- f Clinically overt bleeding associated with a fall in haemoglobin of ≥3 g/dL but &lt;5 g/dL.
+- f Clinically overt bleeding associated with a fall in haemoglobin of ≥ 3 g/dL but &lt;5 g/dL.
 
 ## Patients ≥75 years old
 
@@ -292,7 +288,7 @@ Non-CABG-related TIMI major or minor bleeding rates:
 
 <div style=\"page-break-after: always\"></div>
 
-## Patients &lt;60 kg
+Patients &lt;60 kg
 
 Non-CABG-related TIMI major or minor bleeding rates:
 
@@ -306,11 +302,11 @@ Non-CABG-related TIMI major or minor bleeding rates:
 
 * TRITON study in ACS patients undergoing PCI
 - ** TRILOGY-ACS study in patients not undergoing PCI (see 5.1):
-- a 10 mg prasugrel; 5 mg prasugrel if ≥75 years of age
+- a 10 mg prasugrel; 5 mg prasugrel if ≥7 5 years of age
 
-## Patients ≥60 kg and age &lt;75 years
+## Patients ≥6 0 kg and age &lt;75 years
 
-In patients ≥60 kg and age &lt;75 years, non-CABG-related TIMI major or minor bleeding rates were 3.6% for prasugrel and 2.8% for clopidogrel; rates for fatal bleeding were 0.2% for prasugrel and 0.1% for clopidogrel.
+In patients ≥6 0 kg and age &lt;75 years, non-CABG-related TIMI major or minor bleeding rates were 3.6% for prasugrel and 2.8% for clopidogrel; rates for fatal bleeding were 0.2% for prasugrel and 0.1% for clopidogrel.
 
 ## CABG-related bleeding
 
@@ -324,8 +320,8 @@ In a clinical study of NSTEMI patients (the ACCOAST study), where patients were 
 |----------------------------------|---------------------------------------------------------|------------------------------------------|
 | TIMI Major bleeding b            |                                                     1.3 |                                      0.5 |
 | Life-threatening c               |                                                     0.8 |                                      0.2 |
-| Fatal                            |                                                     0.1 |                                      0   |
-| Symptomatic ICH d                |                                                     0   |                                      0   |
+| Fatal                            |                                                     0.1 |                                      0.0 |
+| Symptomatic ICH d                |                                                     0.0 |                                      0.0 |
 | Requiring inotropes              |                                                     0.3 |                                      0.2 |
 | Requiring surgical intervention  |                                                     0.4 |                                      0.1 |
 | Requiring transfusion (≥4 units) |                                                     0.3 |                                      0.1 |
@@ -334,16 +330,16 @@ In a clinical study of NSTEMI patients (the ACCOAST study), where patients were 
 <div style=\"page-break-after: always\"></div>
 
 - a Other standard therapies were used as appropriate. The clinical study protocol provided for all patients to receive aspirin and a daily maintenance dose of prasugrel.
-- b Any intracranial haemorrhage or any clinically overt bleeding associated with a fall in haemoglobin ≥5 g/dL.
+- b Any intracranial haemorrhage or any clinically overt bleeding associated with a fall in haemoglobin ≥ 5 g/dL.
 - c Life-threatening is a subset of TIMI Major bleeding and includes the types indented below. Patients may be counted in more than one row.
 - d ICH = intracranial haemorrhage.
-- e Clinically overt bleeding associated with a fall in haemoglobin of ≥3 g/dL but &lt;5 g/dL.
+- e Clinically overt bleeding associated with a fall in haemoglobin of ≥ 3 g/dL but &lt;5 g/dL.
 
 ## Tabulated list of adverse reactions
 
 Table 2 summarises haemorrhagic and non-haemorrhagic adverse reactions in TRITON, or that were spontaneously reported, classified by frequency and system organ class. Frequencies are defined as follows:
 
-Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from the available data).
+Very common ( ≥1 /10); common ( ≥1 /100 to &lt;1/10); uncommon ( ≥1 /1 000 to &lt;1/100); rare ( ≥1 /10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from the available data).
 
 Table 2: Haemorrhagic and non-haemorrhagic adverse reactions
 
@@ -387,7 +383,7 @@ Pharmacotherapeutic group: Antithrombotic agents, platelet aggregation inhibitor
 
 Prasugrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y12 class of ADP receptors on platelets. Since platelets participate in the initiation and/or evolution of thrombotic complications of atherosclerotic disease, inhibition of platelet function can result in the reduction of the rate of cardiovascular events such as death, myocardial infarction, or stroke.
 
-Following a 60 mg loading dose of prasugrel, inhibition of ADP-induced platelet aggregation occurs at 15 minutes with 5 µM ADP and 30 minutes with 20 µM ADP. The maximum inhibition by prasugrel of ADP-induced platelet aggregation is 83% with 5 µM ADP and 79% with 20 µM ADP, in both cases with 89% of healthy subjects and patients with stable atherosclerosis achieving at least 50% inhibition of platelet aggregation by 1 hour. Prasugrel-mediated inhibition of platelet aggregation exhibits low between-subject (9%) and within-subject (12%) variability with both 5 µM and 20 µM ADP. Mean steady-state inhibition of platelet aggregation was 74% and 69% respectively for 5 µM ADP and 20 µM ADP, and was achieved following 3 to 5 days of administration of the 10 mg prasugrel maintenance dose preceded by a 60 mg loading dose. More than 98% of subjects had ≥20% inhibition of platelet aggregation during maintenance dosing.
+Following a 60 mg loading dose of prasugrel, inhibition of ADP-induced platelet aggregation occurs at 15 minutes with 5 µM ADP and 30 minutes with 20 µM ADP. The maximum inhibition by prasugrel of ADP-induced platelet aggregation is 83% with 5 µM ADP and 79% with 20 µM ADP, in both cases with 89% of healthy subjects and patients with stable atherosclerosis achieving at least 50% inhibition of platelet aggregation by 1 hour. Prasugrel-mediated inhibition of platelet aggregation exhibits low between-subject (9%) and within-subject (12%) variability with both 5 µM and 20 µM ADP. Mean steady-state inhibition of platelet aggregation was 74% and 69% respectively for 5 µM ADP and 20 µM ADP, and was achieved following 3 to 5 days of administration of the 10 mg prasugrel maintenance dose preceded by a 60 mg loading dose. More than 98% of subjects had ≥2 0% inhibition of platelet aggregation during maintenance dosing.
 
 Platelet aggregation gradually returned to baseline values after treatment in 7 to 9 days after administration of a single 60 mg loading dose of prasugrel and in 5 days following discontinuation of maintenance dosing at steady-state.
 
@@ -411,11 +407,9 @@ The trial's primary outcome measure was the time to first occurrence of cardiova
 
 ## All ACS population
 
-Prasugrel showed superior efficacy compared to clopidogrel in reducing the primary composite outcome events as well as the pre-specified secondary outcome events, including stent thrombosis (see Table 3). The benefit of prasugrel was apparent within the first 3 days and it persisted to the end of study. The superior efficacy was accompanied by an increase in major bleeding (see sections 4.4 and 4.8). The patient population was 92% Caucasian, 26% female, and 39% ≥65 years of age. The benefits associated with prasugrel were independent of the use of other acute and long-term cardiovascular therapies, including heparin/low molecular weight heparin, bivalirudin, intravenous GP IIb/IIIa inhibitors, lipid-lowering medicinal products, beta-blockers, and angiotensin converting enzyme inhibitors. The efficacy of prasugrel was independent of the ASA dose (75 mg to 325 mg once daily). The use of oral anticoagulants, non-study antiplatelet medicinal products and chronic NSAIDs was not allowed in TRITON. In the All ACS population, prasugrel was associated with a lower incidence of CV death, non-fatal MI, or non-fatal stroke compared to clopidogrel, regardless of baseline
+Prasugrel showed superior efficacy compared to clopidogrel in reducing the primary composite outcome events as well as the pre-specified secondary outcome events, including stent thrombosis (see Table 3). The benefit of prasugrel was apparent within the first 3 days and it persisted to the end of study. The superior efficacy was accompanied by an increase in major bleeding (see sections 4.4 and 4.8). The patient population was 92% Caucasian, 26% female, and 39% ≥65 years of age. The benefits associated with prasugrel were independent of the use of other acute and long-term cardiovascular therapies, including heparin/low molecular weight heparin, bivalirudin, intravenous GP IIb/IIIa inhibitors, lipid-lowering medicinal products, beta-blockers, and angiotensin converting enzyme inhibitors. The efficacy of prasugrel was independent of the ASA dose (75 mg to 325 mg once daily). The use of oral anticoagulants, non-study antiplatelet medicinal products and chronic NSAIDs was not allowed in TRITON. In the All ACS population, prasugrel was associated with a lower incidence of CV death, non-fatal MI, or non-fatal stroke compared to clopidogrel, regardless of baseline characteristics such as age, sex, body weight, geographical region, use of GP IIb/IIIa inhibitors, and stent type. The benefit was primarily due to a significant decrease in non-fatal MI (see Table 3). Subjects with diabetes had significant reductions in the primary and all secondary composite endpoints.
 
 <div style=\"page-break-after: always\"></div>
-
-characteristics such as age, sex, body weight, geographical region, use of GP IIb/IIIa inhibitors, and stent type. The benefit was primarily due to a significant decrease in non-fatal MI (see Table 3). Subjects with diabetes had significant reductions in the primary and all secondary composite endpoints.
 
 The observed benefit of prasugrel in patients ≥75 years was less than that observed in patients &lt;75 years. Patients ≥75 years were at increased risk of bleeding, including fatal (see sections 4.2, 4.4, and 4.8). Patients ≥75 years in whom the benefit with prasugrel was more evident included those with diabetes, STEMI, higher risk of stent thrombosis, or recurrent events.
 
@@ -423,15 +417,15 @@ Patients with a history of TIA or a history of ischaemic stroke more than 3 mont
 
 Table 3: Patients with outcome events in TRITON primary analysis
 
-| Outcome Events                                                                                | Prasugrel + ASA                   | Clopidogrel + ASA                 | Hazard Ratio (HR) (95% CI)        | p-value                           |
+| Outcome Events                                                                                | Prasugrel + ASA                   | Clopidogrel + ASA                 | Hazard Ratio (HR) (95% CI)        | p­value                           |
 |-----------------------------------------------------------------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-| All ACS                                                                                       | (N=6,813)%                        | (N=6,795)%                        |                                   |                                   |
+| All ACS                                                                                       | (N=6,813) %                       | (N=6,795) %                       | 0.812 (0.732, 0.902)              | <0.001                            |
 | Primary Composite Outcome Events Cardiovascular (CV) death, non fatal MI, or non fatal stroke | 9.4                               | 11.5                              | 0.812 (0.732, 0.902)              | <0.001                            |
 | Primary Individual Outcome Events                                                             | Primary Individual Outcome Events | Primary Individual Outcome Events | Primary Individual Outcome Events | Primary Individual Outcome Events |
 | CV death                                                                                      | 2.0                               | 2.2                               | 0.886 (0.701, 1.118)              | 0.307                             |
 | Non fatal MI                                                                                  | 7.0                               | 9.1                               | 0.757 (0.672, 0.853)              | <0.001                            |
 | Non fatal stroke                                                                              | 0.9                               | 0.9                               | 1.016 (0.712, 1.451)              | 0.930                             |
-| UA/NSTEMI Primary Composite Outcome Events                                                    | (N=5,044)%                        | (N=5,030)%                        |                                   |                                   |
+| UA/NSTEMI Primary Composite Outcome Events                                                    | (N=5,044) %                       | (N=5,030) %                       |                                   |                                   |
 | CV death, nonfatal MI, or nonfatal stroke                                                     | 9.3                               | 11.2                              | 0.820 (0.726, 0.927)              | 0.002                             |
 | CV death                                                                                      | 1.8                               | 1.8                               | 0.979 (0.732,1.309)               | 0.885                             |
 | Non-fatal MI                                                                                  | 7.1                               | 9.2                               | 0.761 (0.663,0.873)               | <0.001                            |
@@ -439,24 +433,24 @@ Table 3: Patients with outcome events in TRITON primary analysis
 
 <div style=\"page-break-after: always\"></div>
 
-| STEMI Primary Composite Outcome Events    |   (N=1,769)% |   (N=1,765)% |                      |       |
-|-------------------------------------------|--------------|--------------|----------------------|-------|
-| CV death, nonfatal MI, or nonfatal stroke |          9.8 |         12.2 | 0.793 (0.649, 0.968) | 0.019 |
-| CV death                                  |          2.4 |          3.3 | 0.738 (0.497,1.094)  | 0.129 |
-| Non-fatal MI                              |          6.7 |          8.8 | 0.746 (0.588,0.948)  | 0.016 |
-| Non-fatal stroke                          |          1.2 |          1.1 | 1.097 (0.590,2.040)  | 0.77  |
+| STEMI Primary Composite Outcome Events    |   (N=1,769) % |   (N=1,765) % |                      |       |
+|-------------------------------------------|---------------|---------------|----------------------|-------|
+| CV death, nonfatal MI, or nonfatal stroke |           9.8 |          12.2 | 0.793 (0.649, 0.968) | 0.019 |
+| CV death                                  |           2.4 |           3.3 | 0.738 (0.497,1.094)  | 0.129 |
+| Non-fatal MI                              |           6.7 |           8.8 | 0.746 (0.588,0.948)  | 0.016 |
+| Non-fatal stroke                          |           1.2 |           1.1 | 1.097 (0.590,2.040)  | 0.770 |
 
 In the All ACS population, analysis of each of the secondary endpoints showed a significant benefit (p&lt;0.001) for prasugrel versus clopidogrel. These included definite or probable stent thrombosis at study end (0.9% vs 1.8%; HR 0.498; CI 0.364, 0.683); CV death, nonfatal MI, or urgent target vessel revascularisation through 30 days (5.9% vs 7.4%; HR 0.784; CI 0.688,0.894); all cause death, nonfatal MI, or nonfatal stroke through study end (10.2% vs 12.1%; HR 0.831; CI 0.751, 0.919); CV death, non-fatal MI, nonfatal stroke or rehospitalisation for cardiac ischaemic event through study end (11.7% vs 13.8%; HR 0.838; CI 0.762, 0.921). Analysis of all cause death did not show any significant difference between prasugrel and clopidogrel in the All ACS population (2.76% vs 2.90%), in the UA/NSTEMI population (2.58% vs 2.41%), and in the STEMI population (3.28% vs 4.31%).
 
 Prasugrel was associated with a 50% reduction in stent thrombosis through the 15 month follow-up period. The reduction in stent thrombosis with prasugrel was observed both early and beyond 30 days for both bare metal and medicinal product eluting stents.
 
-In an analysis of patients who survived an ischaemic event, prasugrel was associated with a reduction in the incidence of subsequent primary endpoint events (7.8% for prasugrel vs 11.9% for clopidogrel). Although bleeding was increased with prasugrel, an analysis of the composite endpoint of death from any cause, nonfatal myocardial infarction, nonfatal stroke, and non-CABG-related TIMI major haemorrhage favoured prasugrel compared to clopidogrel (Hazard ratio, 0.87; 95% CI, 0.79 to 0.95; p=0.004). In TRITON, for every 1,000 patients treated with prasugrel, there were 22 fewer patients with myocardial infarction, and 5 more with non-CABG-related TIMI major haemorrhages, compared with patients treated with clopidogrel.
+In an analysis of patients who survived an ischaemic event, prasugrel was associated with a reduction in the incidence of subsequent primary endpoint events (7.8% for prasugrel vs 11.9% for clopidogrel). Although bleeding was increased with prasugrel, an analysis of the composite endpoint of death from any cause, nonfatal myocardial infarction, nonfatal stroke, and non-CABG-related TIMI major haemorrhage favoured prasugrel compared to clopidogrel (Hazard ratio, 0.87; 95% CI, 0.79 to 0.95; p=0.004). In TRITON, for every 1,000 patients treated with prasugrel, there were 22 fewer patients with myocardial infarction, and 5 more with non - CABG-related TIMI major haemorrhages, compared with patients treated with clopidogrel.
 
 Results of a pharmacodynamic/pharmacogenomic study in 720 Asian ACS PCI patients demonstrated that higher levels of platelet inhibition are achieved with prasugrel compared to clopidogrel, and that prasugrel 60 mg loading dose/10 mg maintenance dose is an appropriate dose regimen in Asian subjects who weigh at least 60 kg and are less than 75 years of age (see section 4.2).
 
-In a 30 month study (TRILOGY-ACS) in 9,326 patients with UA/NSTEMI ACS medically managed without revascularisation (non-licensed indication), prasugrel did not significantly reduce the frequency of the composite endpoint of CV death, MI or stroke compared to clopidogrel. Rates of TIMI major bleeding (including life threatening, fatal and ICH) were similar in prasugrel and clopidogrel treated patients. Patients ≥75 years old or those below 60 kg (N=3,022) were randomized to 5 mg prasugrel. As in the &lt;75 years old and ≥60 kg patients treated with 10 mg prasugrel, there was no difference between 5 mg prasugrel and 75 mg clopidogrel in CV outcomes. Rates of major bleeding were similar in patients treated with 5 mg prasugrel and those treated with 75 mg clopidogrel. Prasugrel 5 mg provided greater antiplatelet effect than clopidogrel 75 mg. Prasugrel should be used with caution in patients ≥75 years old and in patients weighing &lt;60 kg (see sections 4.2, 4.4 and 4.8).
+In a 30 month study (TRILOGY - ACS) in 9,326 patients with UA/NSTEMI ACS medically managed without revascularisation (non-licensed indication), prasugrel did not significantly reduce the frequency of the composite endpoint of CV death, MI or stroke compared to clopidogrel. Rates of TIMI major bleeding (including life threatening, fatal and ICH) were similar in prasugrel and clopidogrel treated patients. Patients ≥75 years old or those below 60 kg (N=3,022) were randomized to 5 mg prasugrel. As in the &lt;75 years old and ≥60 kg patients treated with 10 mg prasugrel, there was no difference between 5 mg prasugrel and 75 mg clopidogrel in CV outcomes. Rates of major bleeding were similar in patients treated with 5 mg prasugrel and those treated with 75 mg clopidogrel. Prasugrel 5 mg provided greater antiplatelet effect than clopidogrel 75 mg. Prasugrel should be used with caution in patients ≥75 years old and in patients weighing &lt;60 kg (see sections 4.2, 4.4 and 4.8).
 
-In a 30-day study (ACCOAST) in 4,033 patients with NSTEMI with elevated troponin who were scheduled for coronary angiography followed by PCI within 2 to 48 hours after randomization, subjects who received prasugrel 30 mg loading dose on average 4 hours prior to coronary angiography followed by a 30 mg loading dose at the time of PCI (n=2,037) had an increased risk of non-CABG
+In a 30­day study (ACCOAST) in 4,033 patients with NSTEMI with elevated troponin who were scheduled for coronary angiography followed by PCI within 2 to 48 hours after randomization, subjects who received prasugrel 30 mg loading dose on average 4 hours prior to coronary angiography followed by a 30 mg loading dose at the time of PCI (n=2,037) had an increased risk of non-CABG
 
 <div style=\"page-break-after: always\"></div>
 
@@ -468,11 +462,11 @@ Study TADO tested the use of prasugrel (n=171) vs placebo (n=170) in patients, a
 
 ## 5.2 Pharmacokinetic properties
 
-Prasugrel is a prodrug and is rapidly metabolised in vivo to an active metabolite and inactive metabolites. The active metabolite's exposure (AUC) has moderate to low between-subject (27%) and within-subject (19%) variability. Prasugrel's pharmacokinetics are similar in healthy subjects, patients with stable atherosclerosis, and patients undergoing percutaneous coronary intervention.
+Prasugrel is a prodrug and is rapidly metabolised in vivo to an active metabolite and inactive metabolites. The active metabolite's exposure (AUC) has moderate to low between -subject (27%) and withinsubject (19%) variability. Prasugrel's pharmacokinetics are similar in healthy subjects, patients with stable atherosclerosis, and patients undergoing percutaneous coronary intervention.
 
 ## Absorption
 
-The absorption and metabolism of prasugrel are rapid, with peak plasma concentration (Cmax) of the active metabolite occurring in approximately 30 minutes. The active metabolite's exposure (AUC) increases proportionally over the therapeutic dose range. In a study of healthy subjects, AUC of the active metabolite was unaffected by a high fat, high calorie meal, but Cmax was decreased by 49% and the time to reach Cmax (Tmax) was increased from 0.5 to 1.5 hours. Prasugrel was administered without regard to food in TRITON. Therefore, prasugrel can be administered without regard to food; however, the administration of prasugrel loading dose in the fasted state may provide most rapid onset of action (see section 4.2).
+The absorption and metabolism of prasugrel are rapid, with peak plasma concentration (Cmax) of the active metabolite occurring in approximately 30 minute s. The active metabolite's exposure (AUC) increases proportionally over the therapeutic dose range. In a study of healthy subjects, AUC of the active metabolite was unaffected by a high fat, high calorie meal, but Cmax was decreased by 49% and the time to reach Cmax (Tmax) was increased from 0.5 to 1.5 hours. Prasugrel was administered without regard to food in TRITON. Therefore, prasugrel can be administered without regard to food; however, the administration of prasugrel loading dose in the fasted state may provide most rapid onset of action (see section 4.2).
 
 ## Distribution
 
@@ -480,7 +474,7 @@ Active metabolite binding to human serum albumin (4% buffered solution) was 98%.
 
 ## Biotransformation
 
-Prasugrel is not detected in plasma following oral administration. It is rapidly hydrolysed in the intestine to a thiolactone, which is then converted to the active metabolite by a single step of cytochrome P450 metabolism, primarily by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19. The active metabolite is further metabolised to two inactive compounds by S-methylation or conjugation with cysteine.
+Prasugrel is not detected in plasma following oral administration. It is rapidly hydrolysed in the intestine to a thiolactone, which is then converted to the active metabolite by a single step of cytochrome P450 metabolism, primarily by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19. The active metabolite is further metabolised to two inactive compounds by S­methylation or conjugation with cysteine.
 
 In healthy subjects, patients with stable atherosclerosis, and patients with ACS receiving prasugrel, there was no relevant effect of genetic variation in CYP3A5, CYP2B6, CYP2C9, or CYP2C19 on the pharmacokinetics of prasugrel or its inhibition of platelet aggregation.
 
@@ -494,7 +488,7 @@ Approximately 68% of the prasugrel dose is excreted in the urine and 27% in the 
 
 ## Elderly
 
-In a study of healthy subjects between the ages of 20 and 80 years, age had no significant effect on pharmacokinetics of prasugrel or its inhibition of platelet aggregation. In the large phase 3 clinical study, the mean estimated exposure (AUC) of the active metabolite was 19% higher in very elderly patients (≥75 years of age) compared to subjects &lt;75 years of age. Prasugrel should be used with caution in patients ≥75 years of age due to the potential risk of bleeding in this population (see sections 4.2 and 4.4). In a study in subjects with stable atherosclerosis, the mean AUC of the active metabolite in patients ≥75 years old taking 5 mg prasugrel was approximately half that in patients &lt;65 years old taking 10 mg prasugrel, and the antiplatelet effect of 5 mg was reduced but was noninferior compared to 10 mg.
+In a study of healthy subjects between the ages of 20 and 80 years, age had no significant effect on pharmacokinetics of prasugrel or its inhibition of platelet aggregation. In the large phase 3 clinical study, the mean estimated exposure (AUC) of the active metabolite was 19% higher in very elderly patients ( ≥75 years of age) compared to subjects &lt;75 years of age. Prasugrel should be used with caution in patients ≥75 years of age due to the potential risk of bleeding in this population (see sections 4.2 and 4.4). In a study in subjects with stable atherosclerosis, the mean AUC of the active metabolite in patients ≥7 5 years old taking 5 mg prasugrel was approximately half that in patients &lt;65 years old taking 10 mg prasugrel, and the antiplatelet effect of 5 mg was reduced but was noninferior compared to 10 mg.
 
 ## Hepatic impairment
 
@@ -506,7 +500,7 @@ No dose adjustment is necessary for patients with renal impairment, including pa
 
 ## Body weight
 
-The mean exposure (AUC) of the active metabolite of prasugrel is approximately 30 to 40% higher in healthy subjects and patients with a body weight of &lt;60 kg compared to those weighing ≥60 kg. Prasugrel should be used with caution in patients with a body weight of &lt;60 kg due to the potential risk of bleeding in this population (see section 4.4). In a study in subjects with stable atherosclerosis, the mean AUC of the active metabolite in patients &lt;60 kg taking 5 mg prasugrel was 38% lower than in patients ≥60 kg taking 10 mg prasugrel, and the antiplatelet effect of 5 mg was similar to 10 mg.
+The mean exposure (AUC) of the active metabolite of prasugrel is approximately 30 to 40% higher in healthy subjects and patients with a body weight of &lt;60 kg compared to those weighing ≥60 kg. Prasugrel should be used with caution in patients with a body weight of &lt;60 kg due to the potential risk of bleeding in this population (see section 4.4). In a study in subjects with stable atherosclerosis, the mean AUC of the active metabolite in patients &lt;60 kg taking 5 mg prasugrel was 38% lower than in patients ≥6 0 kg taking 10 mg prasugrel, and the antiplatelet effect of 5 mg was similar to 10 mg.
 
 ## Ethnicity
 
@@ -530,7 +524,7 @@ Effects in non-clinical studies were observed only at exposures considered suffi
 
 Embryo-foetal developmental toxicology studies in rats and rabbits showed no evidence of malformations due to prasugrel. At a very high dose (&gt;240 times the recommended daily human maintenance dose on a mg/m² basis) that caused effects on maternal body weight and/or food consumption, there was a slight decrease in offspring body weight (relative to controls). In pre- and post-natal rat studies, maternal treatment had no effect on the behavioural or reproductive development of the offspring at doses up to an exposure 240 times the recommended daily human maintenance dose (based on mg/m²).
 
-No compound-related tumours were observed in a 2-year rat study with prasugrel exposures ranging to greater than 75 times the recommended therapeutic exposures in humans (based on plasma exposures to the active and major circulating human metabolites). There was an increased incidence of tumours (hepatocellular adenomas) in mice exposed for 2 years to high doses (&gt;75 times human exposure), but this was considered secondary to prasugrel-induced enzyme-induction. The rodent-specific association of liver tumours and medicinal product-induced enzyme induction is well documented in the literature. The increase in liver tumours with prasugrel administration in mice is not considered a relevant human risk.
+No compound-related tumours were observed in a 2­year rat study with prasugrel exposures ranging to greater than 75 times the recommended therapeutic exposures in humans (based on plasma exposures to the active and major circulating human metabolites). There was an increased incidence of tumours (hepatocellular adenomas) in mice exposed for 2 years to high doses (&gt;75 times human exposure), but this was considered secondary to prasugrel-induced enzyme-induction. The rodent-specific association of liver tumours and medicinal product-induced enzyme induction is well documented in the literature. The increase in liver tumours with prasugrel administration in mice is not considered a relevant human risk.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -578,7 +572,7 @@ Do not store above 30°C. Store in the original package in order to protect from
 
 ## HDPE bottle
 
-White opaque HDPE bottle closed with white opaque polypropylene screw cap and aluminium induction sealing liner wad. Each bottle contains a desiccant labelled 'DO NOT EAT' and 28 or 30 film-coated tablets.
+White opaque HDPE bottle closed with white opaque polypropylene screw cap and aluminium induction sealing liner wad. Each bottle contains desiccants labelled 'DO NOT EAT' and 28 or 30 film-coated tablets.
 
 Each carton contains 1 bottle.
 
@@ -590,7 +584,7 @@ OPA/Aluminium/PE/Desiccant/PE- Aluminium blister packs containing 28, 30, 84 or 
 
 ## HDPE bottle
 
-White opaque HDPE bottle closed with white opaque polypropylene screw cap and aluminium induction sealing liner wad. Each bottle contains a desiccant labelled 'DO NOT EAT' and 28 or 30 film-coated tablets.
+White opaque HDPE bottle closed with white opaque polypropylene screw cap and aluminium induction sealing liner wad. Each bottle contains desiccants labelled 'DO NOT EAT' and 28 or 30 film-coated tablets.
 
 Each carton contains 1 bottle.
 
@@ -624,9 +618,16 @@ EU/1/18/1273/006
 
 ## Prasugrel Viatris 10 mg
 
-EU/1/18/1273/002 EU/1/18/1273/004 EU/1/18/1273/009 EU/1/18/1273/010 EU/1/18/1273/011 EU/1/18/1273/012 EU/1/18/1273/013 EU/1/18/1273/014
-
-EU/1/18/1273/015
+| EU/1/18/1273/002   |
+|--------------------|
+| EU/1/18/1273/004   |
+| EU/1/18/1273/009   |
+| EU/1/18/1273/010   |
+| EU/1/18/1273/011   |
+| EU/1/18/1273/012   |
+| EU/1/18/1273/013   |
+| EU/1/18/1273/014   |
+| EU/1/18/1273/015   |
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -680,9 +681,7 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III
-
-## LABELLING AND PACKAGE LEAFLET
+## ANNEX III LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -746,16 +745,13 @@ Viatris Limited
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/18/1273/001
-
-EU/1/18/1273/003
+EU/1/18/1273/001 EU/1/18/1273/003
 
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -849,7 +845,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -949,7 +945,9 @@ Do not store above 25°C. Store in the original package in order to protect from
 
 carton only:
 
-Viatris Limited, Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN, Ireland label only:
+Viatris Limited, Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN, Ireland
+
+label only:
 
 Viatris Limited
 
@@ -966,7 +964,8 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 carton only:
 
@@ -1017,7 +1016,9 @@ Contains sunset yellow FCF aluminium lake (E110). See leaflet for further inform
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1044,9 +1045,7 @@ Viatris Limited, Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN, Irela
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/18/1273/009 EU/1/18/1273/010 EU/1/18/1273/011 EU/1/18/1273/012 EU/1/18/1273/013 EU/1/18/1273/014
-
-EU/1/18/1273/015
+EU/1/18/1273/009 EU/1/18/1273/010 EU/1/18/1273/011 EU/1/18/1273/012 EU/1/18/1273/013 EU/1/18/1273/014 EU/1/18/1273/015
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -1078,20 +1077,12 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 BLISTER OF 10 MG FILM-COATED TABLETS
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Prasugrel Viatris 10 mg film-coated tablets prasugrel
 
@@ -1105,9 +1096,33 @@ EXP
 
 4. BATCH NUMBER
 
+Lot Prasugrel Viatris 10 mg film-coated tablets prasugrel Viatris Limited EXP
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS       |
+|-----------------------------------------------------------|
+| PERFORATED UNIT-DOSE BLISTER OF 10 MG FILM-COATED TABLETS |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
 Lot
 
-5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1123,10 +1138,10 @@ prasugrel
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1149,10 +1164,10 @@ You have been prescribed Prasugrel Viatris because you have already had a heart 
 
 ## Do not take Prasugrel Viatris if you
 
-- -are allergic to prasugrel or any of the other ingredients of this medicine (listed in section 6). An allergic reaction may be recognised as a rash, itching, a swollen face, swollen lips or shortness of breath. If this has happened to you, tell your doctor immediately.
-- -have a medical condition that is currently causing bleeding, such as bleeding from your stomach or intestines.
-- -have ever had a stroke or a transient ischaemic attack (TIA).
-- -have severe liver disease.
+- are allergic to prasugrel or any of the other ingredients of this medicine (listed in section 6). An allergic reaction may be recognised as a rash, itching, a swollen face, swollen lips or shortness of breath. If this has happened to you, tell your doctor immediately.
+- have a medical condition that is currently causing bleeding, such as bleeding from your stomach or intestines.
+- have ever had a stroke or a transient ischaemic attack (TIA).
+- have severe liver disease.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1165,14 +1180,14 @@ Talk to your doctor before taking Prasugrel Viatris.
 You should tell your doctor before taking Prasugrel Viatris if any of the situations mentioned below apply to you:
 
 - If you have an increased risk of bleeding such as:
-- -age of 75 years or older. Your doctor should prescribe a daily dose of 5 mg as there is a greater risk of bleeding in patients older than 75 years
-- -a recent serious injury
-- -recent surgery (including some dental procedures)
-- -recent or recurrent bleeding from the stomach or intestines (e.g. a stomach ulcer or colon polyps)
-- -body weight of less than 60 kg. Your doctor should prescribe a daily dose of 5 mg of Prasugrel Viatris if you weigh less than 60 kg
-- -renal (kidney) disease or moderate liver problems
-- -taking certain types of medicines (see 'Other medicines and Prasugrel Viatris' below)
-- -planned surgery (including some dental procedures) in the next seven days. Your doctor may wish you to stop taking Prasugrel Viatris temporarily due to the increased risk of bleeding
+- age of 75 years or older. Your doctor should prescribe a daily dose of 5 mg as there is a greater risk of bleeding in patients older than 75 years
+- a recent serious injury
+- recent surgery (including some dental procedures)
+- recent or recurrent bleeding from the stomach or intestines (e.g. a stomach ulcer or colon polyps)
+- body weight of less than 60 kg. Your doctor should prescribe a daily dose of 5 mg of Prasugrel Viatris if you weigh less than 60 kg
+- renal (kidney) disease or moderate liver problems
+- taking certain types of medicines (see ' Other medicines and Prasugrel Viatris ' below)
+- planned surgery (including some dental procedures) in the next seven days. Your doctor may wish you to stop taking Prasugrel Viatris temporarily due to the increased risk of bleeding
 - If you have had allergic reactions (hypersensitivity) to clopidogrel or any other anti-platelet agent please tell your doctor before starting treatment with Prasugrel Viatris. If you then take Prasugrel Viatris and experience allergic reactions that may be recognised as a rash, itching, a swollen face, swollen lips or shortness of breath you need to tell your doctor immediately.
 
 ## · While you are taking Prasugrel Viatris:
@@ -1191,7 +1206,7 @@ It is particularly important to tell your doctor if you are being treated with:
 
 - clopidogrel (an anti-platelet agent),
 - warfarin (an anti-coagulant),
-- 'non-steroidal anti-inflammatory drugs' for pain and fever (such as ibuprofen, naproxen, etoricoxib).
+- ' non-steroidal anti-inflammatory drugs ' for pain and fever (such as ibuprofen, naproxen, etoricoxib).
 
 If given together with Prasugrel Viatris these medicines may increase the risk of bleeding.
 
@@ -1201,7 +1216,7 @@ Only take other medicines while you are on Prasugrel Viatris if your doctor tell
 
 ## Pregnancy and breast-feeding
 
-If you are pregant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1215,11 +1230,11 @@ Prasugrel Viatris is unlikely to affect your ability to drive or use machines.
 
 ## Prasugrel Viatris 5 mg contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium - free'.
 
 ## Prasugrel Viatris 10 mg contains sunset yellow FCF aluminium lake (E110) and sodium
 
-Sunset yellow FCF aluminium lake is a colouring agent, which may cause allergic reactions. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodiumfree'.
+Sunset yellow FCF aluminium lake is a colouring agent, which may cause allergic reactions. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium - free'.
 
 ## 3. How to take Prasugrel Viatris
 
@@ -1262,8 +1277,8 @@ All of the above may be signs of a stroke. Stroke is an uncommon side effect of 
 
 Also contact your doctor immediately if you notice any of the following:
 
-- Fever and bruising under the skin that may appear as red pinpoint dots, with or without unexplained extreme tiredness, confusion, yellowing of the skin or eyes (jaundice). (see section 2 'What you need to know before you take Prasugrel Viatris')
-- A rash, itching, or a swollen face, swollen lips/tongue, or shortness of breath. These may be signs of a severe allergic reaction (see section 2 'What you need to know before you take Prasugrel Viatris')
+- Fever and bruising under the skin that may appear as red pinpoint dots, with or without unexplained extreme tiredness, confusion, yellowing of the skin or eyes (jaundice). (see section 2 'What you need to know before you take Prasugrel Viatris ')
+- A rash, itching, or a swollen face, swollen lips/tongue, or shortness of breath. These may be signs of a severe allergic reaction (see section 2 'What you need to know before you take Prasugrel Viatris ')
 
 Tell your doctor promptly if you notice any of the following:
 
@@ -1322,25 +1337,25 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Prasugrel Viatris contains
 
-- -The active substance is prasugrel.
+- The active substance is prasugrel.
 
 Prasugrel Viatris 5 mg: Each film-coated tablet contains prasugrel besilate equivalent to 5 mg prasugrel.
 
 Prasugrel Viatris 10 mg: Each film-coated tablet contains prasugrel besilate equivalent to 10 mg prasugrel.
 
-## -The other ingredients are:
+## - The other ingredients are:
 
 Prasugrel Viatris 5 mg: microcrystalline cellulose, mannitol, crospovidone, silica colloidal anhydrous, magnesium stearate, polyvinyl alcohol, talc, titanium dioxide (E171), glyceryl monocaprylocaprate, sodium lauryl sulfate, iron oxide yellow (E172). See section 2 'Prasugrel Viatris 5 mg contains sodium'.
 
-Prasugrel Viatris 10 mg: microcrystalline cellulose, mannitol, crospovidone, silica colloidal anhydrous, magnesium stearate, polyvinyl alcohol, talc, titanium dioxide (E171), glyceryl monocaprylocaprate, sodium lauryl sulfate, iron oxide yellow (E172), sunset yellow FCF aluminium lake (E110), iron oxide red (E172). See section 2 'Prasugrel Viatris 10 mg contains sunset yellow FCF aluminium lake and sodium'.
+Prasugrel Viatris 10 mg: microcrystalline cellulose, mannitol, crospovidone, silica colloidal anhydrous, magnesium stearate, polyvinyl alcohol, talc, titanium dioxide (E171), glyceryl monocaprylocaprate, sodium lauryl sulfate, iron oxide yellow (E172), sunset yellow FCF aluminium lake (E110), iron oxide red (E172). See section 2 'Prasugrel Viatris 10 mg contains sunset yellow FCF aluminium lake and sodium ' .
 
 ## What Prasugrel Viatris looks like and contents of the pack
 
-Prasugrel Viatris 10 mg film-coated tablets are beige film-coated, capsule shaped, biconvex tablets, of dimensions 11.15 mm × 5.15 mm, debossed with 'PH4' on one side of the tablet and 'M' on the other side.
+Prasugrel Viatris 10 mg film-coated tablets are beige film-coated (tablets), capsule shaped, biconvex tablets, of dimensions 11.15 mm × 5.15 mm, debossed with 'PH4' on one side of the tablet and 'M' on the other side.
 
 This medicine is available in plastic bottles containing a desiccant and 28 or 30 film-coated tablets and in blister packs containing 28, 30, 84, 90, 98 and in perforated blister packs containing 30 x 1 and 90 x 1 film-coated tablets.
 
-Prasugrel Viatris 5 mg film-coated tablets are yellow film-coated, capsule shaped, biconvex tablets, of dimensions 8.15 mm × 4.15 mm, debossed with 'PH3' on one side of the tablet and 'M' on the other side.
+Prasugrel Viatris 5 mg film-coated tablets are yellow film-coated, capsule shaped, biconvex tablets, of dimensions 8.15 mm × 4.15 mm , debossed with 'PH3' on one side of the tablet and 'M' on the other side.
 
 This medicine is available in plastic bottles containing a desiccant and 28 or 30 film-coated tablets and in blister packs containing 28, 30, 84 or 98 film-coated tablets.
 
@@ -1368,17 +1383,69 @@ Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
 
+## България
+
+Виатрис ЕООД
+
+Тел
+
+.: +359 2 44 55 400
+
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: + 420 222 004 400
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Deutschland
+
+Viatris Healthcare GmbH
+
+Tel: +49 800 0700 800
+
+## Eesti
+
+Viatris OÜ
+
+Tel: + 372 6363 052
+
+## Ελλάδα
+
+Viatris Hellas Ltd
+
+Τηλ
+
+: +30 2100 100 002
+
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: + 34 900 102 712
+
+## France
+
+Viatris Santé
+
+Tél : +33 4 37 25 75 00
+
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: +385 1 23 50 599
+
 ## Lietuva
 
 Viatris UAB
 
 Tel: +370 5 205 1288
-
-## България
-
-Майлан ЕООД
-
-Тел: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -1388,23 +1455,11 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Česká republika
-
-Viatris CZ s.r.o.
-
-Tel: + 420 222 004 400
-
 ## Magyarország
 
 Viatris Healthcare Kft.
 
 Tel.: + 36 1 465 2100
-
-## Danmark
-
-Viatris ApS
-
-Tlf: +45 28 11 69 32
 
 ## Malta
 
@@ -1412,23 +1467,11 @@ V.J. Salomone Pharma Ltd
 
 Tel: + 356 21 22 01 74
 
-## Deutschland
-
-Viatris Healthcare GmbH
-
-Tel: +49 800 0700 800
-
 ## Nederland
 
 Mylan BV
 
 Tel: +31 (0)20 426 3300
-
-## Eesti
-
-Viatris OÜ
-
-Tel: + 372 6363 052
 
 ## Norge
 
@@ -1436,23 +1479,11 @@ Viatris AS
 
 Tlf: + 47 66 75 33 00
 
-## Ελλάδα
-
-Viatris Hellas Ltd
-
-Τηλ: +30 2100 100 002
-
 ## Österreich
 
 Viatris Austria
 
 Tel: +43 1 86390
-
-## España
-
-Viatris Pharmaceuticals, S.L.
-
-Tel: + 34 900 102 712
 
 ## Polska
 
@@ -1460,23 +1491,11 @@ Viatris Healthcare Sp. z.o.o.
 
 Tel.: + 48 22 546 64 00
 
-## France
-
-Viatris Santé
-
-Tél : +33 4 37 25 75 00
-
 ## Portugal
 
 Mylan, Lda.
 
 Tel: + 351 21 412 72 00
-
-## Hrvatska
-
-Viatris Hrvatska d.o.o.
-
-Tel: +385 1 23 50 599
 
 ## România
 
@@ -1490,23 +1509,11 @@ Viatris Limited
 
 Tel: +353 1 8711600
 
-## Slovenija
-
-Viatris d.o.o.
-
-Tel: + 386 1 23 63 180
-
 ## Ísland
 
 Icepharma hf.
 
 Sími: +354 540 8000
-
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: +421 2 32 199 100
 
 ## Italia
 
@@ -1514,29 +1521,43 @@ Viatris Italia S.r.l.
 
 Tel: + 39 02 612 46921
 
-## Suomi/Finland
-
-Viatris Oy
-
-Puh/Tel: + 358 20 720 9555
-
 ## Κύπρος
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ
 
-## Sverige
-
-Viatris AB
-
-Tel: + 46 (0)8 630 19 00
+: +357 22863100
 
 ## Latvija
 
 Viatris SIA
 
 Tel: +371 676 055 80
+
+## Slovenija
+
+Viatris d.o.o.
+
+Tel: + 386 1 23 63 180
+
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh/Tel: + 358 20 720 9555
+
+## Sverige
+
+Viatris AB
+
+Tel: + 46 (0)8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
 

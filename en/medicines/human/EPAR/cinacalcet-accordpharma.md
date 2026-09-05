@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-31 15:20:00
+document_datetime: 2026-09-02 15:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cinacalcet-accordpharma.html
 document_name: cinacalcet-accordpharma.html
 version: success
-processing_time: 0.128662
-conversion_datetime: 2026-04-01 12:41:26.568681
+processing_time: 0.1496657
+conversion_datetime: 2026-09-05 10:47:05.184646
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Cinacalcet Accordpharma
 
@@ -38,8 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Cinacalcet Accordpharma](#news-on)
-- [Related content](#related-content-1583)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -60,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Cinacalcet Accordpharma used?
+### How is Cinacalcet Accordpharma used?
 
 Cinacalcet Accordpharma is available as 30, 60 and 90 mg tablets, to be taken with food or shortly after a meal.
 
@@ -70,31 +68,31 @@ In patients with hypercalcaemia who also have parathyroid gland cancer or primar
 
 The medicine can only be obtained with a prescription. For more information about using Cinacalcet Accordpharma, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Cinacalcet Accordpharma work?
+### How does Cinacalcet Accordpharma work?
 
 The active substance in Cinacalcet Accordpharma, cinacalcet, works by increasing the sensitivity of the calcium-sensing receptors on the parathyroid glands that regulate PTH secretion. By increasing the sensitivity of these receptors, cinacalcet leads to a reduction in the production of PTH by the parathyroid glands. The reduction in PTH levels also leads to a decrease in blood calcium levels.
 
-## How has Cinacalcet Accordpharma been studied?
+### How has Cinacalcet Accordpharma been studied?
 
 Studies on the benefits and risks of the active substance in the authorised uses have already been carried out with the reference medicine, Mimpara, and do not need to be repeated for Cinacalcet Accordpharma.
 
 As for every medicine, the company provided studies on the quality of Cinacalcet Accordpharma. The company also carried out a study that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Cinacalcet Accordpharma?
+### What are the benefits and risks of Cinacalcet Accordpharma?
 
 Because Cinacalcet Accordpharma is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Cinacalcet Accordpharma authorised in the EU?
+### Why is Cinacalcet Accordpharma authorised in the EU?
 
 The European Medicines Agency concluded that, in accordance with EU requirements, Cinacalcet Accordpharma has been shown to have comparable quality and to be bioequivalent to Mimpara. Therefore, the Agency's view was that, as for Mimpara, the benefits of Cinacalcet Accordpharma outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Cinacalcet Accordpharma?
+### What measures are being taken to ensure the safe and effective use of Cinacalcet Accordpharma?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Cinacalcet Accordpharma have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Cinacalcet Accordpharma are continuously monitored. Side effects reported with Cinacalcet Accordpharma are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Cinacalcet Accordpharma
+### Other information about Cinacalcet Accordpharma
 
 Cinacalcet Accordpharma received a marketing authorisation valid throughout the EU on 3 April 2020.
 
@@ -110,7 +108,7 @@ English (EN) (168.03 KB - PDF)
 
 [View](/en/documents/overview/cinacalcet-accordpharma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-304)
+[Other languages (22)](#file-language-dropdown-639)
 
 български (BG) (193.26 KB - PDF)
 
@@ -142,7 +140,7 @@ Deutsch (DE) (172.58 KB - PDF)
 
 [View](/de/documents/overview/cinacalcet-accordpharma-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (157.16 KB - PDF)
+eesti (ET) (157.16 KB - PDF)
 
 **First published:** 15/04/2020
 
@@ -172,13 +170,13 @@ italiano (IT) (166.93 KB - PDF)
 
 [View](/it/documents/overview/cinacalcet-accordpharma-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (198.69 KB - PDF)
+latviešu (LV) (198.69 KB - PDF)
 
 **First published:** 15/04/2020
 
 [View](/lv/documents/overview/cinacalcet-accordpharma-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (189.77 KB - PDF)
+lietuvių (LT) (189.77 KB - PDF)
 
 **First published:** 15/04/2020
 
@@ -232,7 +230,7 @@ slovenščina (SL) (188.05 KB - PDF)
 
 [View](/sl/documents/overview/cinacalcet-accordpharma-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (167.22 KB - PDF)
+suomi (FI) (167.22 KB - PDF)
 
 **First published:** 15/04/2020
 
@@ -256,167 +254,168 @@ English (EN) (461.07 KB - PDF)
 
 Cinacalcet Accordpharma : EPAR - Product information
 
-English (EN) (439.12 KB - PDF)
+English (EN) (375.68 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/en/documents/product-information/cinacalcet-accordpharma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-272)
+[Other languages (24)](#file-language-dropdown-381)
 
-български (BG) (551.62 KB - PDF)
+български (BG) (510.74 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/bg/documents/product-information/cinacalcet-accordpharma-epar-product-information_bg.pdf)
 
-español (ES) (491.87 KB - PDF)
+español (ES) (465.92 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/es/documents/product-information/cinacalcet-accordpharma-epar-product-information_es.pdf)
 
-čeština (CS) (533.51 KB - PDF)
+čeština (CS) (498.83 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/cs/documents/product-information/cinacalcet-accordpharma-epar-product-information_cs.pdf)
 
-dansk (DA) (493.87 KB - PDF)
+dansk (DA) (452.17 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/da/documents/product-information/cinacalcet-accordpharma-epar-product-information_da.pdf)
 
-Deutsch (DE) (496.79 KB - PDF)
+Deutsch (DE) (475.56 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/de/documents/product-information/cinacalcet-accordpharma-epar-product-information_de.pdf)
 
-eesti keel (ET) (487.48 KB - PDF)
+eesti (ET) (444.48 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/et/documents/product-information/cinacalcet-accordpharma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (665.9 KB - PDF)
+ελληνικά (EL) (1.01 MB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/el/documents/product-information/cinacalcet-accordpharma-epar-product-information_el.pdf)
 
-français (FR) (501.72 KB - PDF)
+français (FR) (512.24 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/fr/documents/product-information/cinacalcet-accordpharma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (526.49 KB - PDF)
+hrvatski (HR) (481.8 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/hr/documents/product-information/cinacalcet-accordpharma-epar-product-information_hr.pdf)
 
-íslenska (IS) (511.95 KB - PDF)
+italiano (IT) (506.18 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
-
-[View](/is/documents/product-information/cinacalcet-accordpharma-epar-product-information_is.pdf)
-
-italiano (IT) (491.27 KB - PDF)
-
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/it/documents/product-information/cinacalcet-accordpharma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (520.62 KB - PDF)
+latviešu (LV) (607.81 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/lv/documents/product-information/cinacalcet-accordpharma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (532.24 KB - PDF)
+lietuvių (LT) (573.28 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/lt/documents/product-information/cinacalcet-accordpharma-epar-product-information_lt.pdf)
 
-magyar (HU) (578.54 KB - PDF)
+magyar (HU) (525.86 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/hu/documents/product-information/cinacalcet-accordpharma-epar-product-information_hu.pdf)
 
-Malti (MT) (601.67 KB - PDF)
+Malti (MT) (540.46 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/mt/documents/product-information/cinacalcet-accordpharma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (484.06 KB - PDF)
+Nederlands (NL) (457.56 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/nl/documents/product-information/cinacalcet-accordpharma-epar-product-information_nl.pdf)
 
-norsk (NO) (492.14 KB - PDF)
+polski (PL) (494.48 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
-
-[View](/no/documents/product-information/cinacalcet-accordpharma-epar-product-information_no.pdf)
-
-polski (PL) (559.73 KB - PDF)
-
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/pl/documents/product-information/cinacalcet-accordpharma-epar-product-information_pl.pdf)
 
-português (PT) (474.94 KB - PDF)
+português (PT) (468.85 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/pt/documents/product-information/cinacalcet-accordpharma-epar-product-information_pt.pdf)
 
-română (RO) (564.38 KB - PDF)
+română (RO) (512.88 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/ro/documents/product-information/cinacalcet-accordpharma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (583.21 KB - PDF)
+slovenčina (SK) (500.69 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/sk/documents/product-information/cinacalcet-accordpharma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (549.05 KB - PDF)
+slovenščina (SL) (497.34 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/sl/documents/product-information/cinacalcet-accordpharma-epar-product-information_sl.pdf)
 
-Suomi (FI) (485.98 KB - PDF)
+suomi (FI) (468.48 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/fi/documents/product-information/cinacalcet-accordpharma-epar-product-information_fi.pdf)
 
-svenska (SV) (491.09 KB - PDF)
+svenska (SV) (463.18 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/sv/documents/product-information/cinacalcet-accordpharma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000338878
+Íslenska (IS) (464.91 KB - PDF)
 
-31/03/2026
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
+
+[View](/is/documents/product-information/cinacalcet-accordpharma-epar-product-information_is.pdf)
+
+norsk (NO) (458.06 KB - PDF)
+
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
+
+[View](/no/documents/product-information/cinacalcet-accordpharma-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000349358
+
+26/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -428,179 +427,170 @@ Product information documents contain:
 
 Cinacalcet Accordpharma : EPAR - All authorised presentations
 
-English (EN) (39.65 KB - PDF)
+English (EN) (116.08 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/en/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-395)
+[Other languages (24)](#file-language-dropdown-390)
 
-български (BG) (84.07 KB - PDF)
+български (BG) (90.8 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/bg/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (54.05 KB - PDF)
+español (ES) (60.4 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/es/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (73.85 KB - PDF)
+čeština (CS) (77.37 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/cs/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (39.15 KB - PDF)
+dansk (DA) (43.7 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/da/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (39.08 KB - PDF)
+Deutsch (DE) (29.62 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/de/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (41.51 KB - PDF)
+eesti (ET) (50.22 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/et/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (85.84 KB - PDF)
+ελληνικά (EL) (97.48 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/el/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (39.31 KB - PDF)
+français (FR) (56.84 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/fr/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (75.76 KB - PDF)
+hrvatski (HR) (81.95 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/hr/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (39.37 KB - PDF)
+italiano (IT) (43.64 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
-
-[View](/is/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (39.24 KB - PDF)
-
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/it/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (76.62 KB - PDF)
+latviešu (LV) (86.74 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/lv/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (78.35 KB - PDF)
+lietuvių (LT) (85.74 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/lt/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (54.68 KB - PDF)
+magyar (HU) (59.86 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/hu/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (78.3 KB - PDF)
+Malti (MT) (91.5 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/mt/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (39.83 KB - PDF)
+Nederlands (NL) (41 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/nl/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (39.88 KB - PDF)
+polski (PL) (84.61 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
-
-[View](/no/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (56 KB - PDF)
-
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/pl/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (47.88 KB - PDF)
+português (PT) (46.85 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/pt/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (74.45 KB - PDF)
+română (RO) (79.91 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/ro/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (75.27 KB - PDF)
+slovenčina (SK) (84.64 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/sk/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (54.05 KB - PDF)
+slovenščina (SL) (83.74 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/sl/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (40.48 KB - PDF)
+suomi (FI) (49 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/fi/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (40.01 KB - PDF)
+svenska (SV) (50.2 KB - PDF)
 
-**First published:** 15/04/2020 **Last updated:** 04/09/2020
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
 
 [View](/sv/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (44.59 KB - PDF)
+
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
+
+[View](/is/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (40.5 KB - PDF)
+
+**First published:** 15/04/2020 **Last updated:** 02/09/2026
+
+[View](/no/documents/all-authorised-presentations/cinacalcet-accordpharma-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Cinacalcet Accordpharma
-
-Active substance
-
-cinacalcet hydrochloride
-
-International non-proprietary name (INN) or common name
-
-cinacalcet
-
-Therapeutic area (MeSH)
-
-Hyperparathyroidism
-
-Anatomical therapeutic chemical (ATC) code
-
-H05BX01
+- **Name of medicine**
+    - Cinacalcet Accordpharma
+- **Active substance**
+    - cinacalcet hydrochloride
+- **International non-proprietary name (INN) or common name**
+    - cinacalcet
+- **Therapeutic area (MeSH)**
+    - Hyperparathyroidism
+- **Anatomical therapeutic chemical (ATC) code**
+    - H05BX01
 
 ### Pharmacotherapeutic group
 
@@ -610,7 +600,7 @@ Calcium homeostasis
 
 **Secondary hyperparathyroidism**
 
-*Adults*
+*Adults* Treatment of secondary hyperparathyroidism (HPT) in adult patients with end-stage renal disease (ESRD) on maintenance dialysis therapy.
 
 *Paediatric population* Treatment of secondary hyperparathyroidism (HPT) in children aged 3 years and older with end-stage renal disease (ESRD) on maintenance dialysis therapy in whom secondary HPT is not adequately controlled with standard of care therapy (see section 4.4).
 
@@ -625,31 +615,18 @@ Reduction of hypercalcaemia in adult patients with:
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005236
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Accord Healthcare S.L.U.
-
-Edificio Este Planta 6a World Trade Center Moll De Barcelona S/n 08039 Barcelona SPAIN
-
-Opinion adopted
-
-30/01/2020
-
-Marketing authorisation issued
-
-03/04/2020
-
-Revision
-
-5
+- **EMA product number**
+    - EMEA/H/C/005236
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Accord Healthcare S.L.U. Edificio Este Planta 6a  World Trade Center  Moll De Barcelona S/n  08039 Barcelona  SPAIN
+- **Opinion adopted**
+    - 30/01/2020
+- **Marketing authorisation issued**
+    - 03/04/2020
+- **Revision**
+    - 6
 
 ## Assessment history
 
@@ -657,13 +634,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Cinacalcet Accordpharma : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (131.36 KB - PDF)
+English (EN) (152.15 KB - PDF)
 
-**First published:** 31/03/2026
+**First published:** 31/03/2026 **Last updated:** 02/09/2026
 
 [View](/en/documents/procedural-steps-after/cinacalcet-accordpharma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -675,7 +652,7 @@ English (EN) (158.04 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/cinacalcet-accordpharma-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Cinacalcet Accordpharma : EPAR - Public assessment report
 
@@ -703,159 +680,8 @@ English (EN) (171.42 KB - PDF)
 
 31/01/2020
 
-## Related content
-
-Questions and answers on generic medicines
-
-Reference Number: EMA/393905/2006 Rev. 2
-
-English (EN) (66.45 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-856)
-
-български (BG) (93.16 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
-
-español (ES) (68.3 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
-
-čeština (CS) (87.71 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
-
-dansk (DA) (66.79 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
-
-Deutsch (DE) (67.55 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
-
-eesti keel (ET) (65.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
-
-ελληνικά (EL) (91.29 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
-
-français (FR) (68.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
-
-hrvatski (HR) (87.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
-
-italiano (IT) (67.62 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
-
-latviešu valoda (LV) (111.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
-
-lietuvių kalba (LT) (86.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
-
-magyar (HU) (85.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
-
-Malti (MT) (89.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
-
-Nederlands (NL) (66.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
-
-polski (PL) (88.51 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
-
-português (PT) (68.32 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
-
-română (RO) (86.9 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
-
-slovenčina (SK) (87.73 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
-
-slovenščina (SL) (84.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
-
-Suomi (FI) (66.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
-
-svenska (SV) (67.11 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
-
-## Topics
-
-- [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-31/03/2026
+02/09/2026
 
 ## Share this page

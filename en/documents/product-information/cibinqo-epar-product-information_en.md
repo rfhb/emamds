@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-08 14:58:01
-document_pages: 55
+document_datetime: 2026-09-02 10:21:53
+document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cibinqo-epar-product-information_en.pdf
 document_name: cibinqo-epar-product-information_en.pdf
 version: success
-processing_time: 23.9622378
-conversion_datetime: 2025-12-18 20:59:40.348957
+processing_time: 24.1209147
+conversion_datetime: 2026-09-05 10:35:16.347176
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,21 +22,17 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Cibinqo 50 mg film-coated tablets Cibinqo 100 mg film-coated tablets Cibinqo 200 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Cibinqo 50 mg film-coated tablets
+## Cibinqo 50 mg film-coated tablets
 
 Each film-coated tablet contains 50 mg of abrocitinib.
 
-Excipient with known effect
+## Excipient with known effect
 
 Each film-coated tablet contains 1.37 mg of lactose monohydrate.
 
@@ -44,7 +40,7 @@ Cibinqo 100 mg film-coated tablets
 
 Each film-coated tablet contains 100 mg of abrocitinib.
 
-Excipient with known effect
+## Excipient with known effect
 
 Each film-coated tablet contains 2.73 mg of lactose monohydrate.
 
@@ -52,7 +48,7 @@ Cibinqo 200 mg film-coated tablets
 
 Each film-coated tablet contains 200 mg of abrocitinib.
 
-Excipient with known effect
+## Excipient with known effect
 
 Each film-coated tablet contains 5.46 mg of lactose monohydrate.
 
@@ -68,13 +64,13 @@ Pink, approximately 11 mm long and 5 mm wide oval tablet debossed with 'PFE' on 
 
 ## Cibinqo 100 mg film-coated tablets
 
-Pink, approximately 9 mm in diameter round tablet debossed with 'PFE' on one side and 'ABR 100' on the other.
-
-<div style=\"page-break-after: always\"></div>
+Pink, approximately 9 mm in diameter round tablet debossed with 'PFE' on one side and ' ABR 100' on the other.
 
 ## Cibinqo 200 mg film-coated tablets
 
 Pink, approximately 18 mm long and 8 mm wide oval tablet debossed with 'PFE' on one side and 'ABR 200' on the other.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4. CLINICAL PARTICULARS
 
@@ -99,6 +95,10 @@ Discontinuation of treatment should be considered in patients who show no eviden
 
 Cibinqo can be used with or without medicated topical therapies for atopic dermatitis.
 
+## Treatment initiation
+
+Treatment should not be initiated in patients with a platelet count &lt; 150 × 10 3 /mm 3 , an absolute lymphocyte count (ALC) &lt; 0.5 × 10 3 /mm 3 , an absolute neutrophil count (ANC) &lt; 1.2 × 10 3 /mm 3  or who have a haemoglobin value &lt; 10 g/dL (see section 4.4).
+
 <div style=\"page-break-after: always\"></div>
 
 Table 1. Laboratory measures and monitoring guidance
@@ -107,12 +107,8 @@ Table 1. Laboratory measures and monitoring guidance
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Complete blood count including Platelet Count, Absolute Lymphocyte Count (ALC), Absolute Neutrophil Count (ANC) and Haemoglobin (Hb) | Before treatment initiation, 4 weeks after initiation and thereafter according to routine patient management.                                                                | Platelets: Treatment should be discontinued if platelet counts are < 50 × 10 3 /mm 3 .                                                                                                                                                                                                           |
 | Complete blood count including Platelet Count, Absolute Lymphocyte Count (ALC), Absolute Neutrophil Count (ANC) and Haemoglobin (Hb) | Before treatment initiation, 4 weeks after initiation and thereafter according to routine patient management.                                                                | ALC: Treatment should be interrupted if ALC is < 0.5 × 10 3 /mm 3 and may be restarted once ALC returns above this value. Treatment should be discontinued if confirmed. ANC: Treatment should be interrupted if ANC is < 1 × 10 3 /mm 3 and may be restarted once ANC returns above this value. |
-| Complete blood count including Platelet Count, Absolute Lymphocyte Count (ALC), Absolute Neutrophil Count (ANC) and Haemoglobin (Hb) | Before treatment initiation, 4 weeks after initiation and thereafter according to routine patient management.                                                                | Hb: Treatment should be interrupted if Hb is < 8g/dL and may be restarted once Hb returns above this value.                                                                                                                                                                                      |
+| Complete blood count including Platelet Count, Absolute Lymphocyte Count (ALC), Absolute Neutrophil Count (ANC) and Haemoglobin (Hb) | Before treatment initiation, 4 weeks after initiation and thereafter according to routine patient management.                                                                | Hb: Treatment should be interrupted if Hb is < 8 g/dL and may be restarted once Hb returns above this value.                                                                                                                                                                                     |
 | Lipid parameters                                                                                                                     | Before treatment initiation, 4 weeks after initiation and thereafter according to the patient's risk for cardiovascular disease and clinical guidelines for hyperlipidaemia. | Patients should be monitored according to clinical guidelines for hyperlipidaemia.                                                                                                                                                                                                               |
-
-## Treatment initiation
-
-Treatment should not be initiated in patients with a platelet count &lt; 150 × 10 3 /mm 3 , an absolute lymphocyte count (ALC) &lt; 0.5 × 10 3 /mm 3 , an absolute neutrophil count (ANC) &lt; 1.2 × 10 3 /mm 3  or who have a haemoglobin value &lt; 10 g/dL (see section 4.4).
 
 ## Dose interruption
 
@@ -130,9 +126,9 @@ In patients receiving dual strong inhibitors of CYP2C19 and moderate inhibitors 
 
 Treatment is not recommended concomitantly with moderate or strong inducers of CYP2C19/CYP2C9 enzymes (e.g. rifampicin, apalutamide, efavirenz, enzalutamide, phenytoin) (see section 4.5).
 
-<div style=\"page-break-after: always\"></div>
+In patients receiving acid-reducing agents (e.g. antacids, proton pump inhibitors and H2 receptor antagonists), a dose of abrocitinib 200 mg once daily should be considered (see section 4.5).
 
-In patients receiving acid reducing agents (e.g. antacids, proton pump inhibitors and H2 receptor antagonists), 200 mg once daily dose of abrocitinib should be considered (see section 4.5).
+<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
@@ -177,13 +173,19 @@ Tablets should be swallowed whole with water and should not be split, crushed or
 
 ## 4.4 Special warnings and precautions for use
 
-Abrocitinib should only be used if no suitable treatment alternatives are available in patients: -65 years of age and older; -patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors (such as current or past long-time smokers); -patients with malignancy risk factors (e.g. current malignancy or history of malignancy)
+Abrocitinib should only be used if no suitable treatment alternatives are available in patients:
+
+- 65 years of age and older;
+
+- patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors (such as current or past long-time smokers);
+
+- patients with malignancy risk factors (e.g. current malignancy or history of malignancy)
 
 ## Infections/serious infections
 
 Serious infections have been reported in patients receiving abrocitinib. The most frequent serious infections in clinical studies were herpes simplex, herpes zoster and pneumonia (see section 4.8).
 
-As there is a higher incidence of infections in the elderly and in the diabetic populations in general, caution should be used when treating the elderly and patients with diabetes. In patients 65 years of age and older abrocitinib should only be used if no suitable treatment alternatives are available (see section 4.2).
+As there is a higher incidence of infections in the elderly and in the diabetic populations in general, caution should be used when treating the elderly and patients with diabetes. In patients 65 years of age and older, abrocitinib should only be used if no suitable treatment alternatives are available (see section 4.2).
 
 Treatment must not be initiated in patients with an active, serious systemic infection (see section 4.3).
 
@@ -205,11 +207,9 @@ Tuberculosis was observed in clinical studies with abrocitinib. Patients should 
 
 Viral reactivation, including herpes virus reactivation (e.g. herpes zoster, herpes simplex), was reported in clinical studies (see section 4.8). The rate of herpes zoster infections was higher in patients who were treated with 200 mg, 65 years of age and older, with a medical history of herpes zoster, with a confirmed ALC &lt; 1 × 10 3 /mm 3 prior to the event and patients with severe atopic dermatitis at baseline (see section 4.8). If a patient develops herpes zoster, temporary interruption of treatment should be considered until the episode resolves.
 
-Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy and during therapy. Patients with evidence of active hepatitis B or hepatitis C (positive hepatitis C PCR) infection were excluded from clinical studies (see section 5.2). Patients who were hepatitis B surface antigen negative, hepatitis B core antibody positive, and hepatitis B surface antibody positive had testing for hepatitis B virus (HBV) DNA. Patients who had HBV DNA above the lower limit of quantification (LLQ) were excluded. Patients who had HBV DNA negative or below
+Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy and during therapy. Patients with evidence of active hepatitis B or hepatitis C (positive hepatitis C PCR) infection were excluded from clinical studies (see section 5.2). Patients who were hepatitis B surface antigen negative, hepatitis B core antibody positive, and hepatitis B surface antibody positive had testing for hepatitis B virus (HBV) DNA. Patients who had HBV DNA above the lower limit of quantification (LLQ) were excluded. Patients who had HBV DNA negative or below LLQ could initiate treatment; such patients had HBV DNA monitored. If HBV DNA is detected, a liver specialist should be consulted.
 
 <div style=\"page-break-after: always\"></div>
-
-LLQ could initiate treatment; such patients had HBV DNA monitored. If HBV DNA is detected, a liver specialist should be consulted.
 
 ## Vaccination
 
@@ -219,7 +219,7 @@ No data are available on the response to vaccination in patients receiving abroc
 
 Events of deep venous thrombosis (DVT) and pulmonary embolism (PE) have been reported in patients receiving abrocitinib (see section 4.8).
 
-In a large randomized active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a dose dependent higher rate of VTE including deep venous thrombosis (DVT) and pulmonary embolism (PE) was observed with tofacitinib compared to TNF inhibitors.
+In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a dose dependent higher rate of VTE including deep venous thrombosis (DVT) and pulmonary embolism (PE) was observed with tofacitinib compared to TNF inhibitors.
 
 A higher rate of VTE was observed with abrocitinib 200 mg compared to abrocitinib 100 mg.
 
@@ -235,7 +235,7 @@ Promptly evaluate patients with signs and symptoms of VTE and discontinue abroci
 
 Events of MACE have been observed in patients taking abrocitinib.
 
-In a large randomized active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of major adverse cardiovascular events (MACE), defined as cardiovascular death, non-fatal myocardial infarction (MI) and non-fatal stroke, was observed with tofacitinib compared to TNF inhibitors.
+In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of major adverse cardiovascular events (MACE), defined as cardiovascular death, non-fatal myocardial infarction (MI) and non-fatal stroke, was observed with tofacitinib compared to TNF inhibitors.
 
 Therefore, in patients 65 years of age and older, patients who are current or past long-time smokers, and patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors, abrocitinib should only be used if no suitable treatment alternatives are available.
 
@@ -245,7 +245,7 @@ Therefore, in patients 65 years of age and older, patients who are current or pa
 
 Lymphoma and other malignancies have been reported in patients receiving JAK inhibitors, including abrocitinib.
 
-In a large randomized active controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of malignancies, particularly lung cancer, lymphoma and non-melanoma skin cancer (NMSC) was observed with tofacitinib compared to TNF inhibitors.
+In a large randomised active controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of malignancies, particularly lung cancer, lymphoma and non-melanoma skin cancer (NMSC) was observed with tofacitinib compared to TNF inhibitors.
 
 A higher rate of malignancies (excluding non-melanoma skin cancer, NMSC) was observed with abrocitinib 200 mg compared to abrocitinib 100 mg.
 
@@ -275,6 +275,12 @@ Considering the increased risk of MACE, malignancies, serious infections, and al
 
 inhibitor), abrocitinib should only be used in these patients if no suitable treatment alternatives are available.
 
+## Women of childbearing potential
+
+Abrocitinib is not recommended in women of childbearing potential not using contraception.
+
+Women of childbearing potential should use effective contraception when taking abrocitinib and continue to use effective contraception for 1-month following the final dose of abrocitinib (see section 4.6).
+
 ## Immunosuppressive conditions or medicinal products
 
 Patients with immunodeficiency disorders or a first-degree relative with a hereditary immunodeficiency were excluded from clinical studies and no information on these patients is available.
@@ -289,7 +295,7 @@ Patients with rare hereditary problems of galactose intolerance, total lactase d
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free ' .
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -305,11 +311,11 @@ When 100 mg abrocitinib was administered concomitantly with fluvoxamine (a stron
 
 Administration of 200 mg abrocitinib after multiple doses with rifampicin, a strong inducer of CYP enzymes, resulted in reduction of abrocitinib active moiety exposures by approximately 56% (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Co-administration with OAT3 inhibitors
 
 When abrocitinib 200 mg was administered concomitantly with probenecid, an OAT3 inhibitor, abrocitinib active moiety exposures increased by approximately 66%. This is not clinically significant, and a dose adjustment is not needed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Co-administration with products which increase gastric pH
 
@@ -335,13 +341,11 @@ Women of reproductive potential should be advised to use effective contraception
 
 There are no or limited amount of data on the use of abrocitinib in pregnant women. Studies in animals have shown reproductive toxicity. Abrocitinib has been shown to cause embryo-foetal lethality in pregnant rats and rabbits, skeletal variations in the foetuses of pregnant rats and rabbits, and to affect parturition and peri/postnatal development in rats (see section 5.3). Cibinqo is contraindicated during pregnancy (see section 4.3).
 
-## Breast-feeding
-
-There are no data on the presence of abrocitinib in human milk, the effects on the breast-fed infant, or the effects on milk production. Abrocitinib was secreted in milk of lactating rats . A risk to
-
 <div style=\"page-break-after: always\"></div>
 
-newborns/infants cannot be excluded and Cibinqo is contraindicated during breast-feeding (see section 4.3).
+## Breast-feeding
+
+There are no data on the presence of abrocitinib in human milk, the effects on the breast-fed infant, or the effects on milk production. Abrocitinib was secreted in milk of lactating rats . A risk to newborns/infants cannot be excluded and Cibinqo is contraindicated during breast-feeding (see section 4.3).
 
 ## Fertility
 
@@ -431,7 +435,7 @@ A total of 635 adolescent patients (12 to less than 18 years of age) were treate
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix Ⅴ.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix Ⅴ .
 
 ## 4.9 Overdose
 
@@ -455,11 +459,9 @@ In biochemical assays, abrocitinib has selectivity for JAK1 over the other 3 JAK
 
 ## Clinical biomarkers
 
-Treatment with abrocitinib was associated with dose-dependent reduction in serum biomarkers of inflammation in atopic dermatitis [interleukin-31 (IL-31), interleukin-22 (IL-22), eosinophil count, and thymus and activation-regulated chemokine (TARC)], JAK1 signalling [natural killer (NK) cell
+Treatment with abrocitinib was associated with dose-dependent reduction in serum biomarkers of inflammation in atopic dermatitis [interleukin-31 (IL-31), interleukin-22 (IL-22), eosinophil count, and thymus and activation-regulated chemokine (TARC)], JAK1 signalling [natural killer (NK) cell count and interferon gamma-induced protein 10 (IP-10)] or both [high sensitivity C-reactive protein (hsCRP)]. These changes were reversible after treatment discontinuation.
 
 <div style=\"page-break-after: always\"></div>
-
-count and interferon gamma-induced protein 10 (IP-10)] or both [high sensitivity C-reactive protein (hsCRP)]. These changes were reversible after treatment discontinuation.
 
 Mean absolute lymphocyte count increased by 2 weeks after starting treatment with abrocitinib and returned to baseline by Month 9 of treatment. Most patients maintained an ALC within the reference range. Treatment with abrocitinib was associated with a dose-related increase in B cell counts and a dose-related decrease in NK cell counts. The clinical significance of these changes in B cell and NK cell counts is unknown.
 
@@ -469,7 +471,7 @@ The effect of abrocitinib on the QTc interval was examined in subjects who recei
 
 ## Clinical efficacy and safety
 
-The efficacy and safety of abrocitinib as monotherapy and in combination with background medicated topical therapies over 12-16 weeks were evaluated in 1 616 patients in 3 pivotal Phase 3 randomised, double-blind, placebo-controlled studies (MONO-1, MONO-2, and COMPARE). In addition, the efficacy and safety of abrocitinib in monotherapy over 52 weeks (with the option of rescue treatment in flaring patients) was evaluated in 1 233 patients in a Phase 3 induction, randomised withdrawal, double-blind, placebo-controlled study (REGIMEN). The patients in these 4 studies were 12 years of age and older with moderate-to-severe atopic dermatitis as defined by Investigator's Global Assessment (IGA) score ≥ 3, Eczema Area and Severity Index (EASI) score ≥ 16, BSA involvement ≥ 10%, and Peak Pruritus Numerical Rating Scale (PP-NRS) ≥ 4 at baseline prior to randomisation. Patients who had a prior inadequate response or for whom topical treatments were medically unadvisable, or who had received systemic therapies were eligible for inclusion. All patients who completed the parent studies were eligible to enrol into the long-term extension study EXTEND.
+The efficacy and safety of abrocitinib as monotherapy and in combination with background medicated topical therapies over 12-16 weeks were evaluated in 1 616 patients in 3 pivotal Phase 3 randomised, double-blind, placebo-controlled studies (MONO-1, MONO-2, and COMPARE). In addition, the efficacy and safety of abrocitinib in monotherapy over 52 weeks (with the option of rescue treatment in flaring patients) was evaluated in 1 233 patients in a Phase 3 induction, randomised withdrawal, double-blind, placebo-controlled study (REGIMEN). The patients in these 4 studies were 12 years of age and older with moderate-tosevere atopic dermatitis as defined by Investigator's Global Assessment (IGA) score ≥ 3, Eczema Area and Severity Index (EASI) score ≥ 16, BSA involvement ≥ 10%, and Peak Pruritus Numerical Rating Scale (PP-NRS) ≥ 4 at baseline prior to randomisation. Patients who had a prior inadequate response or for whom topical treatments were medically unadvisable, or who had received systemic therapies were eligible for inclusion. All patients who completed the parent studies were eligible to enrol into the long-term extension study EXTEND.
 
 ## Baseline characteristics
 
@@ -489,55 +491,55 @@ Treatment effects in subgroups (e.g. weight, age, sex, race and prior systemic i
 
 Table 3. Efficacy results of abrocitinib in monotherapy at Week 12
 
-|              | MONO-1 d                | MONO-1 d                | MONO-1 d             | MONO-2 d                | MONO-2 d                | MONO-2 d             |
-|--------------|-------------------------|-------------------------|----------------------|-------------------------|-------------------------|----------------------|
-|              | Week 12                 | Week 12                 |                      | Abrocitinib monotherapy | Abrocitinib monotherapy |                      |
-|              | Abrocitinib monotherapy | Abrocitinib monotherapy |                      |                         |                         |                      |
-|              | 200 mg QD N=154         | 100 mg QD N=156         | PBO N=77             | 200 mg QD N=155         | 100 mg QD N=158         | PBO N=78             |
-|              | %Responders (95% CI)    | %Responders (95% CI)    | %Responders (95% CI) | %Responders (95% CI)    | %Responders (95% CI)    | %Responders (95% CI) |
-| IGA 0 or 1 a | 43.8 e (35.9, 51.7)     | 23.7 e (17.0, 30.4)     | 7.9 (1.8, 14.0)      | 38.1 e (30.4, 45.7)     | 28.4 e (21.3, 35.5)     | 9.1 (2.7, 15.5)      |
-| EASI-75 b    | 62.7 e (55.1, 70.4)     | 39.7 e (32.1, 47.4)     | 11.8 (4.6, 19.1)     | 61.0 e (53.3, 68.7)     | 44.5 e (36.7, 52.3)     | 10.4 (3.6, 17.2)     |
-| PP-NRS4 c    | 57.2 e (48.8, 65.6)     | 37.7 e (29.2, 46.3)     | 15.3 (6.6, 24.0)     | 55.3 e (47.2, 63.5)     | 45.2 e (37.1, 53.3)     | 11.5 (4.1, 19.0)     |
+|              | MONO-1 d                | MONO-1 d                | MONO-1 d              | MONO-2 d                | MONO-2 d                | MONO-2 d              |
+|--------------|-------------------------|-------------------------|-----------------------|-------------------------|-------------------------|-----------------------|
+|              | Week 12                 | Week 12                 |                       | Abrocitinib monotherapy | Abrocitinib monotherapy |                       |
+|              | Abrocitinib monotherapy | Abrocitinib monotherapy |                       |                         |                         |                       |
+|              | 200 mg QD N=154         | 100 mg QD N=156         | PBO N=77              | 200 mg QD N=155         | Week 12 100 mg QD N=158 | PBO N=78              |
+|              | % Responders (95% CI)   | % Responders (95% CI)   | % Responders (95% CI) | % Responders (95% CI)   | % Responders (95% CI)   | % Responders (95% CI) |
+| IGA 0 or 1 a | 43.8 e (35.9, 51.7)     | 23.7 e (17.0, 30.4)     | 7.9 (1.8, 14.0)       | 38.1 e (30.4, 45.7)     | 28.4 e (21.3, 35.5)     | 9.1 (2.7, 15.5)       |
+| EASI-75 b    | 62.7 e (55.1, 70.4)     | 39.7 e (32.1, 47.4)     | 11.8 (4.6, 19.1)      | 61.0 e (53.3, 68.7)     | 44.5 e (36.7, 52.3)     | 10.4 (3.6, 17.2)      |
+| PP-NRS4 c    | 57.2 e (48.8, 65.6)     | 37.7 e (29.2, 46.3)     | 15.3 (6.6, 24.0)      | 55.3 e (47.2, 63.5)     | 45.2 e (37.1, 53.3)     | 11.5 (4.1, 19.0)      |
 
 Abbreviations: CI=confidence interval; EASI=Eczema Area and Severity Index; IGA=Investigator Global Assessment;
 
 N=number of patients randomised; PBO=placebo; PP-NRS=Peak Pruritus Numerical Rating Scale; QD=once daily.
 
 - a. IGA responders were patients with IGA score of clear (0) or almost clear (1) (on a 5-point scale) and a reduction from baseline of  2 points.
-- b. EASI-75 responders were patients with ≥ 75% improvement in EASI from baseline.
-- c. PP-NRS4 responders were patients with ≥ 4-point improvement in PP-NRS from baseline.
+- b.  EASI75 responders were patients with ≥ 75% improvement in EASI from baseline.
+- c. PPNRS4 responders were patients with ≥ 4-point improvement in PP-NRS from baseline.
 - d. Abrocitinib used as monotherapy.
 - e. Statistically significant with adjustment for multiplicity versus placebo.
 
 Table 4. Efficacy results of abrocitinib in combination with topical therapy at Week 12 and Week 16
 
-|              | COMPARE d              | COMPARE d              | COMPARE d            | COMPARE d            | COMPARE d              | COMPARE d              | COMPARE d            | COMPARE d            |
-|--------------|------------------------|------------------------|----------------------|----------------------|------------------------|------------------------|----------------------|----------------------|
-|              | Week 12                | Week 12                | Week 12              | Week 12              | Week 16                | Week 16                | Week 16              | Week 16              |
-|              | Abrocitinib + topicals | Abrocitinib + topicals | PBO + topicals N=131 | DUP + topicals       | Abrocitinib + topicals | Abrocitinib + topicals | PBO + topicals N=131 | DUP + topicals N=243 |
-|              | 200 mg QD N=226        | 100 mg QD N=238        |                      | N=243                | 200 mg QD N=226        | 100 mg QD N=238        |                      |                      |
-|              | %Responders (95% CI)   | %Responders (95% CI)   | %Responders (95% CI) | %Responders (95% CI) | %Responders (95% CI)   | %Responders (95% CI)   | %Responders (95% CI) | %Responders (95% CI) |
-| IGA 0 or 1 a | 48.4 e (41.8, 55.0)    | 36.6 e (30.4, 42.8)    | 14.0 (8.0, 19.9)     | 36.5 (30.4, 42.6)    | 47.5 e (40.9, 54.1)    | 34.8 e (28.6, 40.9)    | 12.9 (7.0, 18.8)     | 38.8 (32.5, 45.1)    |
-| EASI-75 b    | 70.3 e (64.3, 76.4)    | 58.7 e (52.4, 65.0)    | 27.1 (19.5, 34.8)    | 58.1 (51.9, 64.3)    | 71.0 e (65.1, 77.0)    | 60.3 e (53.9, 66.6)    | 30.6 (22.5, 38.8)    | 65.5 (59.4, 71.6)    |
-| PP-NRS4 c    | 63.1 (56.7, 69.6)      | 47.5 (40.9, 54.1)      | 28.9 (20.8, 37.0)    | 54.5 (47.9, 61.0)    | 62.8 (55.6, 70.0)      | 47.0 (39.5, 54.6)      | 28.7 (19.6, 37.9)    | 57.1 (50.1, 64.2)    |
+|              | COMPARE d              | COMPARE d              | COMPARE d             | COMPARE d             | COMPARE d              | COMPARE d              | COMPARE d             | COMPARE d             |
+|--------------|------------------------|------------------------|-----------------------|-----------------------|------------------------|------------------------|-----------------------|-----------------------|
+|              | Week 12                | Week 12                | Week 12               | Week 12               | Week 16                | Week 16                | Week 16               | Week 16               |
+|              | Abrocitinib + topicals | Abrocitinib + topicals | PBO + topicals N=131  | DUP + topicals        | Abrocitinib + topicals | Abrocitinib + topicals | PBO + topicals N=131  | DUP + topicals N=243  |
+|              | 200 mg QD N=226        | 100 mg QD N=238        |                       | N=243                 | 200 mg QD N=226        | 100 mg QD N=238        |                       |                       |
+|              | % Responders (95% CI)  | % Responders (95% CI)  | % Responders (95% CI) | % Responders (95% CI) | % Responders (95% CI)  | % Responders (95% CI)  | % Responders (95% CI) | % Responders (95% CI) |
+| IGA 0 or 1 a | 48.4 e (41.8, 55.0)    | 36.6 e (30.4, 42.8)    | 14.0 (8.0, 19.9)      | 36.5 (30.4, 42.6)     | 47.5 e (40.9, 54.1)    | 34.8 e (28.6, 40.9)    | 12.9 (7.0, 18.8)      | 38.8 (32.5, 45.1)     |
+| EASI-75 b    | 70.3 e (64.3, 76.4)    | 58.7 e (52.4, 65.0)    | 27.1 (19.5, 34.8)     | 58.1 (51.9, 64.3)     | 71.0 e (65.1, 77.0)    | 60.3 e (53.9, 66.6)    | 30.6 (22.5, 38.8)     | 65.5 (59.4, 71.6)     |
+| PP-NRS4 c    | 63.1 (56.7, 69.6)      | 47.5 (40.9, 54.1)      | 28.9 (20.8, 37.0)     | 54.5 (47.9, 61.0)     | 62.8 (55.6, 70.0)      | 47.0 (39.5, 54.6)      | 28.7 (19.6, 37.9)     | 57.1 (50.1, 64.2)     |
 
 <div style=\"page-break-after: always\"></div>
 
 Table 4. Efficacy results of abrocitinib in combination with topical therapy at Week 12 and Week 16
 
-| COMPARE d              | COMPARE d              | COMPARE d            | COMPARE d            | COMPARE d              | COMPARE d              | COMPARE d      | COMPARE d      | COMPARE d      | COMPARE d      | COMPARE d      | COMPARE d      | COMPARE d      | COMPARE d      | COMPARE d      | COMPARE d      | COMPARE d      | COMPARE d      | COMPARE d      |
-|------------------------|------------------------|----------------------|----------------------|------------------------|------------------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
-| Week 12                | Week 12                | Week 12              | Week 12              | Week 16                | Week 16                | Week 16        | Week 16        | Week 16        | Week 16        | Week 16        | Week 16        | Week 16        | Week 16        | Week 16        | Week 16        | Week 16        | Week 16        | Week 16        |
-| Abrocitinib + topicals | Abrocitinib + topicals | PBO + topicals N=131 | DUP + topicals N=243 | Abrocitinib + topicals | Abrocitinib + topicals | PBO + topicals | DUP + topicals | DUP + topicals | DUP + topicals | DUP + topicals | DUP + topicals | DUP + topicals | DUP + topicals | DUP + topicals | DUP + topicals | DUP + topicals | DUP + topicals | DUP + topicals |
-| 200 mg                 | 100 mg QD              |                      |                      | 200 mg                 | 100 mg                 | N=131          | N=243          | N=243          | N=243          | N=243          | N=243          | N=243          | N=243          | N=243          | N=243          | N=243          | N=243          | N=243          |
-| QD                     |                        |                      |                      | QD                     | QD                     |                |                |                |                |                |                |                |                |                |                |                |                |                |
-| N=226                  | N=238                  |                      |                      | N=226                  | N=238                  |                |                |                |                |                |                |                |                |                |                |                |                |                |
+| COMPARE d              | COMPARE d              | COMPARE d            | COMPARE d            | COMPARE d              | COMPARE d              | COMPARE d      | COMPARE d      |
+|------------------------|------------------------|----------------------|----------------------|------------------------|------------------------|----------------|----------------|
+| Week 12                | Week 12                | Week 12              | Week 12              | Week 16                | Week 16                | Week 16        | Week 16        |
+| Abrocitinib + topicals | Abrocitinib + topicals | PBO + topicals N=131 | DUP + topicals N=243 | Abrocitinib + topicals | Abrocitinib + topicals | PBO + topicals | DUP + topicals |
+| 200 mg                 | 100 mg QD              |                      |                      | 200 mg                 | 100 mg                 | N=131          | N=243          |
+| QD                     |                        |                      |                      | QD                     | QD                     |                |                |
+| N=226                  | N=238                  |                      |                      | N=226                  | N=238                  |                |                |
 
 Abbreviations: CI=confidence interval; DUP=Dupilumab; EASI=Eczema Area and Severity Index; IGA=Investigator Global Assessment; N=number of patients randomised; PBO=placebo; PP-NRS=Peak Pruritus Numerical Rating Scale; QD=once daily.
 
 - a. IGA responders were patients with IGA score of clear (0) or almost clear (1) (on a 5-point scale) and a reduction from baseline of  2 points.
-- b. EASI-75 responders were patients with ≥ 75% improvement in EASI from baseline.
-- c. PP-NRS4 responders were patients with ≥ 4-point improvement in PP-NRS from baseline.
+- b.  EASI75 responders were patients with ≥ 75% improvement in EASI from baseline.
+- c. PPNRS4 responders were patients with ≥ 4-point improvement in PP-NRS from baseline.
 - d. Abrocitinib used in combination with topical therapy.
 - e. Statistically significant with adjustment for multiplicity versus placebo.
 
@@ -547,7 +549,7 @@ Figure 1. Proportion of patients who achieved PP-NRS4 over time in MONO-1, MONO-
 
 <!-- image -->
 
-Abbreviations: PP-NRS=Peak Pruritus Numerical Rating Scale; QD=once daily; Q2W=every 2 weeks. PP-NRS4 responders were patients with ≥ 4-point improvement in PP-NRS from baseline.
+Abbreviations: PP-NRS=Peak Pruritus Numerical Rating Scale; QD=once daily; Q2W=every 2 weeks. PPNRS4 responders were patients with ≥ 4-point improvement in PP-NRS from baseline.
 
 - a. Abrocitinib used as monotherapy.
 - b. Abrocitinib used in combination with medicated topical therapy.
@@ -568,14 +570,12 @@ Table 5. Patient-reported outcomes results of abrocitinib monotherapy and in com
 |                                                 | 200 mg QD            | 100 mg QD          | PBO               | 200 mg QD            | 100 mg QD          | PBO               | 200 mg QD + topicals  | 100 mg QD + topicals  | PBO + topicals        |
 | N                                               | 154                  | 156                | 77                | 155                  | 158                | 78                | 226                   | 238                   | 131                   |
 | SCORAD Sleep VAS, change from baseline (95% CI) | -3.7* (-4.2, -3.3)   | -2.9* (-3.4, -2.5) | -1.6 (-2.2, -1.0) | -3.8* (-4.2, -3.4)   | -3.0* (-3.4, -2.6) | -2.1 (-2.7, -1.5) | -4.6* (-4.9, -4.3)    | -3.7* (-4.0, -3.4)    | -2.4 (-2.8, -2.0)     |
-| DLQI ≥ 4-point improvement,% responders         | 72.6%*               | 67.2%*             | 43.6%             | 78.1%*               | 73.3%*             | 32.3%             | 86.4%*                | 74.7%*                | 56.5%                 |
+| DLQI ≥ 4-point improvement, % responders        | 72.6%*               | 67.2%*             | 43.6%             | 78.1%*               | 73.3%*             | 32.3%             | 86.4%*                | 74.7%*                | 56.5%                 |
 | POEM, change from baseline (95% CI)             | -10.6* (-11.8, -9.4) | -6.8* (-8.0, -5.6) | -3.7 (-5.5, -1.9) | -11.0* (-12.1, -9.8) | -8.7* (-9.9, -7.5) | -3.6 (-5.3, -1.9) | -12.6* (-13.6, -11.7) | -9.6* (-10.5, -8.6)   | -5.1 (-6.3, -3.9)     |
 | HADS Anxiety, change from baseline (95% CI)     | -2.1* (-2.5, -1.6)   | -1.6 (-2.0, -1.1)  | -1.0 (-1.7, -0.4) | -1.7* (-2.2, -1.2)   | -1.6* (-2.1, -1.1) | -0.6 (-1.3, 0.2)  | -1.6* (-2.0, -1.2)    | -1.2* (-1.5, -0.8)    | -0.4 (-0.9, 0.1)      |
 | HADS Depression, change from baseline (95% CI)  | -1.8* (-2.2, -1.4)   | -1.4* (-1.8, -0.9) | -0.2 (-0.8, 0.4)  | -1.4* (-1.8, -1.0)   | -1.0* (-1.5, -0.6) | 0.3 (-0.3, 0.9)   | -1.6* (-1.9, -1.2)    | -1.3* (-1.6, -0.9)    | -0.3 (-0.7, 0.2)      |
 
-CI=confidence interval; DLQI=Dermatology Life Quality Index; HADS=Hospital Anxiety and Depression Scale; N=number of patients randomised; PBO=placebo; POEM=Patient-Oriented Eczema Measure; QD=once daily; SCORAD=SCORing for
-
-AD; VAS=visual analog scale.
+CI=confidence interval; DLQI=Dermatology Life Quality Index; HADS=Hospital Anxiety and Depression Scale; N=number of patients randomised; PBO=placebo; POEM=Patient-Oriented Eczema Measure; QD=once daily; SCORAD=SCORing for AD; VAS=visual analog scale.
 
 *Statistically significant without adjusting for multiplicity
 
@@ -644,8 +644,8 @@ Abbreviations: CI=confidence interval; EASI=Eczema Area and Severity Index; IGA=
 N=number of evaluable patients; PP-NRS=Peak Pruritus Numerical Rating Scale; QD=once daily.
 
 - a. IGA responders were patients with IGA score of clear (0) or almost clear (1) (on a 5-point scale) and a reduction from baseline of  2 points.
-- b. EASI-75 responders were patients with ≥ 75% improvement in EASI from baseline.
-- c. PP-NRS4 responders were patients with ≥ 4-point improvement in PP-NRS from baseline.
+- b. EASI75 responders were patients with ≥ 75% improvement in EASI from baseline.
+- c. PPNRS4 responders were patients with ≥ 4-point improvement in PP-NRS from baseline.
 - d. Abrocitinib used in combination with medicated topical therapy.
 - e. Statistically significant with adjustment for multiplicity versus placebo.
 
@@ -683,7 +683,7 @@ The elimination half-life of abrocitinib is about 5 hours. Abrocitinib is elimin
 
 Body weight, gender, CYP2C19/2C9 genotype, race and age did not have a clinically meaningful effect on abrocitinib exposure (see section 4.2).
 
-## Adolescents (≥ 12 to &lt;18 years)
+## Adolescents (≥ 12 to &lt; 18 years)
 
 Based on population pharmacokinetic analysis, there was no clinically relevant difference in mean abrocitinib steady-state exposures in adolescent patients compared to adults at their typical body weights.
 
@@ -693,7 +693,7 @@ Interaction studies have been performed in adults only. The pharmacokinetics of 
 
 ## Renal impairment
 
-In a renal impairment study, patients with severe (eGFR &lt; 30 mL/min) and moderate (eGFR 30 to&lt; 60 mL/min) renal impairment had approximately 191% and 110% increase in active moiety AUCinf, respectively, compared to patients with normal renal function (eGFR ≥ 90 mL/min) (see section 4.2 ). Pharmacokinetics of abrocitinib have not been determined in patients with mild renal impairment, however, based on the results observed in other groups, an increase of up to 70% in active moiety exposure is expected in patients with mild renal impairment (eGFR 60 to&lt; 90 mL/min). The increase of up to 70% is not clinically meaningful as the efficacy and safety of abrocitinib in atopic dermatitis patients with mild renal impairment (n=756) was comparable to the overall population in Phase 2 and 3 clinical studies. The eGFR in individual patients was estimated using Modification of Diet in Renal Disease (MDRD) formula.
+In a renal impairment study, patients with severe (eGFR &lt; 30 mL/min) and moderate (eGFR 30 to&lt; 60 mL/min) renal impairment had approximately 191% and 110% increase in active moiety AUCinf, respectively, compared to patient s with normal renal function (eGFR ≥ 90 mL/min) (see section 4.2). Pharmacokinetics of abrocitinib have not been determined in patients with mild renal impairment, however, based on the results observed in other groups, an increase of up to 70% in active moiety exposure is expected in patients with mild renal impairment (eGFR 60 to&lt; 90 mL/min). The increase of up to 70% is not clinically meaningful as the efficacy and safety of abrocitinib in atopic dermatitis patients with mild renal impairment (n=756) was comparable to the overall population in Phase 2 and 3 clinical studies. The eGFR in individual patients was estimated using Modification of Diet in Renal Disease (MDRD) formula.
 
 Abrocitinib has not been studied in patients with ESRD on renal replacement therapy (see section 4.2). In Phase 3 clinical studies, abrocitinib was not evaluated in patients with atopic dermatitis with baseline creatinine clearance values less than 40 mL/min .
 
@@ -707,11 +707,9 @@ Patients with mild (Child Pugh A) and moderate (Child Pugh B) hepatic impairment
 
 Decreased lymphocyte counts and decreased size and/or lymphoid cellularity of organs/tissues of the immune and haematopoietic systems were observed in nonclinical studies and were attributed to the pharmacological properties (JAK inhibition) of abrocitinib.
 
-In toxicity studies of up to 1 month of abrocitinib dosing in rats at an age comparable to adolescent human age of ≥ 12 years, a microscopic bone dystrophy finding, considered transient and reversible, was noted, and exposure margins at which no bone finding was noted were 5.7 to 6.1 times the human AUC at the maximum recommended human dose (MRHD) of 200 mg. No bone findings were observed in rats at any dose in the 6-month toxicity study (up to 25 times the human AUC at the
+In toxicity studies of up to 1 month of abrocitinib dosing in rats at an age comparable to adolescent human age of ≥ 12 years, a microscopic bone dystrophy finding, considered transient and reversible, was noted, and exposure margins at which no bone finding was noted were 5.7 to 6.1 times the human AUC at the maximum recommended human dose (MRHD) of 200 mg. No bone findings were observed in rats at any dose in the 6-month toxicity study (up to 25 times the human AUC at the MRHD of 200 mg) or in any of the toxicity studies in cynomolgus monkeys (comparable to human age of ≥ 8 years; up to 30 times the human AUC at the MRHD of 200 mg).
 
 <div style=\"page-break-after: always\"></div>
-
-MRHD of 200 mg) or in any of the toxicity studies in cynomolgus monkeys (comparable to human age of ≥ 8 years; up to 30 times the human AUC at the MRHD of 200 mg).
 
 ## Genotoxicity
 
@@ -831,7 +829,7 @@ EU/1/21/1593/015
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 09 December 2021
+Date of first authorisation: 09 December 2021 Date of latest renewal:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1060,8 +1058,8 @@ Cibinqo 50 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1095,7 +1093,7 @@ Mon., Tue., Wed., Thu., Fri., Sat., Sun.
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON FOR BLISTERS PACK AND BOTTLE LABEL FOR 100 MG
+## CARTON FOR BLISTERS PACK AND BOTTLE LABEL FOR 100 MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1136,8 +1134,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -1169,19 +1165,20 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Cibinqo 100 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+<div style=\"page-break-after: always\"></div>
+
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1267,7 +1264,13 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
+Pfizer Europe MA EEIG
+
+Boulevard de la Plaine 17
+
+1050 Bruxelles
+
+Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -1301,8 +1304,8 @@ Cibinqo 200 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1338,22 +1341,18 @@ Mon., Tue., Wed., Thu., Fri., Sat., Sun.
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
 Cibinqo 50 mg film-coated tablets Cibinqo 100 mg film-coated tablets Cibinqo 200 mg film-coated tablets
 
 ## abrocitinib
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 In addition to this leaflet, your doctor will give you a patient card, which contains important safety information that you need to be aware of. Keep this patient card with you.
 
@@ -1376,27 +1375,26 @@ Cibinqo is used to treat adults and adolescents 12 years and older with moderate
 
 ## Do not take Cibinqo
 
-- -if you are allergic to abrocitinib or any of the other ingredients of this medicine (listed in section 6).
-- -if you have a serious infection ongoing, including tuberculosis.
-- -if you have severe liver problems.
+- if you are allergic to abrocitinib or any of the other ingredients of this medicine (listed in section 6).
+- if you have a serious infection ongoing, including tuberculosis.
+- if you have severe liver problems.
+- if you are pregnant or breast-feeding (see the ' pregnancy, contraception, breast-feeding and fertility ' section ).
 
 <div style=\"page-break-after: always\"></div>
-
-- -if you are pregnant or breast-feeding (see the 'pregnancy, contraception, breast-feeding and fertility' section).
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before and during treatment with Cibinqo if you:
 
-- -have an infection or if you often get infections. Tell your doctor if you get symptoms such as fever, wounds, feeling more tired than usual or dental problems as these can be signs of infection. Cibinqo can reduce your body's ability to fight infections and may make an existing infection worse or increase the chance of you getting a new infection. If you have diabetes or are aged 65 years or older you may have an increased chance of getting infections.
-- -have, or have had, tuberculosis or have been in close contact with someone with tuberculosis. Your doctor will test you for tuberculosis before starting Cibinqo and may retest during treatment.
-- -have ever had a herpes infection (shingles), because Cibinqo may allow it to come back. Tell your doctor if you get a painful skin rash with blisters as this can be a sign of shingles.
-- -have ever had hepatitis B or hepatitis C.
-- -have recently had or plan to have a vaccination (immunisation) - this is because certain vaccines (live vaccines) are not recommended while using Cibinqo.
-- -have previously had blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism) or have an increased risk for developing this (for example: if you had recent major surgery, if you use hormonal contraceptives\\hormonal replacement therapy, if a coagulation defect is identified in you or your close relatives). Your doctor will discuss with you if Cibinqo is appropriate for you. Tell your doctor if you get sudden shortness of breath or difficulty breathing, chest pain or pain in upper back, swelling of the leg or arm, leg pain or tenderness, or redness or discoloration in the leg or arm as these can be signs of blood clots in the veins.
-- -have, or had heart problems because your doctor will discuss with you if Cibinqo is appropriate for you.
-- -have or have had cancer, smoke or have smoked in the past, because your doctor will discuss with you if Cibinqo is appropriate for you.
-- -Non-melanoma skin cancer has been observed in patients taking Cibinqo. Your doctor may recommend that you have regular skin examinations while taking Cibinqo. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
+- have an infection or if you often get infections. Tell your doctor if you get symptoms such as fever, wounds, feeling more tired than usual or dental problems as these can be signs of infection. Cibinqo can reduce your body's ability to fight infections and may make an existing infection worse or increase the chance of you getting a new infection. If you have diabetes or are aged 65 years or older you may have an increased chance of getting infections.
+- have, or have had, tuberculosis or have been in close contact with someone with tuberculosis. Your doctor will test you for tuberculosis before starting Cibinqo and may retest during treatment.
+- have ever had a herpes infection (shingles), because Cibinqo may allow it to come back. Tell your doctor if you get a painful skin rash with blisters as this can be a sign of shingles.
+- have ever had hepatitis B or hepatitis C.
+- have recently had or plan to have a vaccination (immunisation) - this is because certain vaccines (live vaccines) are not recommended while using Cibinqo.
+- have previously had blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism) or have an increased risk for developing this (for example: if you had recent major surgery, if you use hormonal contraceptives\\hormonal replacement therapy, if a coagulation defect is identified in you or your close relatives). Your doctor will discuss with you if Cibinqo is appropriate for you. Tell your doctor if you get sudden shortness of breath or difficulty breathing, chest pain or pain in upper back, swelling of the leg or arm, leg pain or tenderness, or redness or discoloration in the leg or arm as these can be signs of blood clots in the veins.
+- have, or had heart problems because your doctor will discuss with you if Cibinqo is appropriate for you.
+- have or have had cancer, smoke or have smoked in the past, because your doctor will discuss with you if Cibinqo is appropriate for you.
+- Non-melanoma skin cancer has been observed in patients taking Cibinqo. Your doctor may recommend that you have regular skin examinations while taking Cibinqo. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
 
 ## Additional monitoring tests
 
@@ -1412,21 +1410,21 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 In particular, tell your doctor or pharmacist before taking Cibinqo if you are taking some of the medicines to treat:
 
-- -fungal infections (such as fluconazole), depression (such as fluoxetine or fluvoxamine), stroke (such as ticlopidine), as they may increase the side effects of Cibinqo.
-- -stomach acid reflux (such as antacids, famotidine or omeprazole), as they may reduce the amount of Cibinqo in your blood.
-- -depression (such as citalopram, clobazam or escitalopram), as Cibinqo may increase their effects.
+- fungal infections (such as fluconazole), depression (such as fluoxetine or fluvoxamine), stroke (such as ticlopidine), as they may increase the side effects of Cibinqo.
+- stomach acid reflux (such as antacids, famotidine or omeprazole), as they may reduce the amount of Cibinqo in your blood.
+- depression (such as citalopram, clobazam or escitalopram), as Cibinqo may increase their effects.
+- neurofibromatosis type I (such as selumetinib), as Cibinqo may increase its effects.
+- heart failure (such as digoxin) or stroke (such as dabigatran), as Cibinqo may increase their effects.
 
 <div style=\"page-break-after: always\"></div>
 
-- -neurofibromatosis type I (such as selumetinib), as Cibinqo may increase its effects.
-- -heart failure (such as digoxin) or stroke (such as dabigatran), as Cibinqo may increase their effects.
-- -seizures (such a S-mephenytoin), as Cibinqo may increase its effects.
-- -stroke (such as clopidogrel), as Cibinqo may decrease its effects.
-- -asthma, rheumatoid arthritis, or atopic dermatitis (such as biologic antibody therapies, medicines that control the body's immune response such as ciclosporin, other Janus kinase inhibitors, such as baricitinib, upadacitinib), as they may increase the risk of side effects.
+- seizures (such a S-mephenytoin), as Cibinqo may increase its effects.
+- stroke (such as clopidogrel), as Cibinqo may decrease its effects.
+- asthma, rheumatoid arthritis, or atopic dermatitis (such as biologic antibody therapies, medicines that control the body's immune response such as ciclosporin, other Janus kinase inhibitors, such as baricitinib, upadacitinib), as they may increase the risk of side effects.
 
 Your doctor can tell you to avoid using or stop taking Cibinqo if you are taking some of the medicines to treat:
 
-- -tuberculosis (such as rifampicin), seizures or fits (such as phenytoin), prostate cancer (such as apalutamide, enzalutamide), or HIV infection (such as efavirenz), as these may reduce how well Cibinqo works.
+- tuberculosis (such as rifampicin), seizures or fits (such as phenytoin), prostate cancer (such as apalutamide, enzalutamide), or HIV infection (such as efavirenz), as these may reduce how well Cibinqo works.
 
 If any of the above apply to you or if you are not sure, talk to your doctor or pharmacist before taking Cibinqo.
 
@@ -1458,7 +1456,7 @@ Cibinqo has no effect on the ability to drive or use machines.
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium - free'.
 
 ## Elderly
 
@@ -1476,9 +1474,9 @@ The recommended starting dose for adults and adolescents (12 years to 17 years o
 
 Some patients need a lower starting dose and your doctor may give you 100 mg once a day if you:
 
-- -are 65 years of age or older.
-- -have a certain medical history or medical condition.
-- -are an adolescent (12 years to 17 years of age) weighing 25 kg-58 kg.
+- are 65 years of age or older.
+- have a certain medical history or medical condition.
+- are an adolescent (12 years to 17 years of age) weighing 25 kg-58 kg.
 
 If you have moderate-to-severe kidney problems, or if you are prescribed certain other medicines the starting dose can be either 50 mg or 100 mg once a day. You will get a starting dose based on your need and medical history or medical condition, therefore you should always take this medicine exactly as your doctor has told you.
 
@@ -1496,9 +1494,9 @@ If you take more Cibinqo than you should, contact your doctor. You may get some 
 
 ## If you forget to take Cibinqo
 
-- -If you miss a dose, take it as soon as you remember, unless your next dose is due in less than 12 hours.
-- -If there is less than 12 hours before your next dose, just skip the missed dose and take your next usual dose when it is due.
-- -Do not take a double dose to make up for a forgotten tablet.
+- If you miss a dose, take it as soon as you remember, unless your next dose is due in less than 12 hours.
+- If there is less than 12 hours before your next dose, just skip the missed dose and take your next usual dose when it is due.
+- Do not take a double dose to make up for a forgotten tablet.
 
 ## If you stop taking Cibinqo
 
@@ -1516,35 +1514,35 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Talk to your doctor and get medical help straight away if you get any signs of:
 
-- -Shingles (herpes zoster), a painful skin rash with blisters and fever
-- -Blood clots in the lungs, legs or pelvis with symptoms such as a painful swollen leg, chest pain or shortness of breath
+- Shingles (herpes zoster), a painful skin rash with blisters and fever
+- Blood clots in the lungs, legs or pelvis with symptoms such as a painful swollen leg, chest pain or shortness of breath
 
 ## Other side effects
 
 Very common (may affect more than 1 in 10 people)
 
-- -Feeling sick (nausea)
+- Feeling sick (nausea)
 
 Common (may affect up to 1 in 10 people)
 
-- -Cold sores and other types of herpes simplex infections
-- -Vomiting
-- -Stomach pain
-- -Headache
-- -Dizziness
-- -Acne
-- -Increase in an enzyme called creatine phosphokinase, shown by blood test
+- Cold sores and other types of herpes simplex infections
+- Vomiting
+- Stomach pain
+- Headache
+- Dizziness
+- Acne
+- Increase in an enzyme called creatine phosphokinase, shown by blood test
 
 Uncommon (may affect up to 1 in 100 people)
 
-- -Pneumonia (lung infection)
-- -Low platelet count shown by blood test
-- -Low white blood cell count shown by blood test (lymphocytes and neutrophils)
-- -High blood fat (cholesterol) shown by blood test (see section 2 Warnings and precautions)
+- Pneumonia (lung infection)
+- Low platelet count shown by blood test
+- Low white blood cell count shown by blood test (lymphocytes and/or neutrophils)
+- High blood fat (cholesterol) shown by blood test (see section 2 Warnings and precautions)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix Ⅴ. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix Ⅴ . By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Cibinqo
 
@@ -1562,11 +1560,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Cibinqo contains
 
-- -The active substance is abrocitinib. Each 50 mg tablet contains 50 mg of abrocitinib. Each 100 mg tablet contains 100 mg of abrocitinib. Each 200 mg tablet contains 200 mg of abrocitinib.
-- -
+- The active substance is abrocitinib.
+
+Each 50 mg tablet contains 50 mg of abrocitinib.
+
+Each 100 mg tablet contains 100 mg of abrocitinib.
+
+Each 200 mg tablet contains 200 mg of abrocitinib.
+
 - The other ingredients are:
 
-Tablet core: microcrystalline cellulose (E460i), calcium hydrogen phosphate anhydrous (E341ii), sodium starch glycolate, magnesium stearate (E470b). Film-coat: hypromellose (E464), titanium dioxide (E171), lactose monohydrate, macrogol (E1521), triacetin (E1518), iron red oxide (E172) (see section 2 Cibinqo contains lactose and sodium).
+Tablet core: microcrystalline cellulose (E460i), calcium hydrogen phosphate anhydrous (E341ii), sodium starch glycolate, magnesium stearate (E470b). Film-coat: hypromellose (E464), titanium dioxide (E171), lactose monohydrate, macrogol (E1521), triacetin (E1518), iron red oxide (E172) (see section 2 ' Cibinqo contains lactose monohydrate and sodium ' ).
 
 ## What Cibinqo looks like and contents of the pack
 
@@ -1586,11 +1590,7 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## Manufacturer
 
-Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/ Belgien Luxembourg/Luxemburg
 
@@ -1598,17 +1598,9 @@ Pfizer NV/SA
 
 Tél/Tel: +32 (0)2 554 62 11
 
-## Lietuva
-
-Pfizer Luxembourg SARL filialas Lietuvoje Tel: + 370 52 51 4000
-
 ## България
 
 Пфайзер Люксембург САРЛ, Клон България Тел.: +359 2 970 4333
-
-## Magyarország
-
-Pfizer Kft. Tel.: +36-1-488-37-00
 
 ## Česká republika
 
@@ -1616,21 +1608,11 @@ Pfizer, spol. s r.o.
 
 Tel.: +420 283 004 111
 
-## Malta
-
-Vivian Corporation Ltd. Tel: +356 21344610
-
 ## Danmark
 
 Pfizer ApS
 
 Tlf.: +45 44 20 11 00
-
-## Nederland
-
-Pfizer bv
-
-Tel: +31 (0)800 63 34 636
 
 ## Deutschland
 
@@ -1638,27 +1620,15 @@ PFIZER PHARMA GmbH
 
 Tel: +49 (0)30 550055-51000
 
-## Norge
-
-Pfizer AS
-
-Tlf: +47 67 52 61 00
-
 ## Eesti
 
-Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
+Pfizer Luxembourg SARL Eesti filiaal
 
-## Österreich
-
-Pfizer Corporation Austria Ges.m.b.H. Tel: +43 (0)1 521 15-0
+Tel: +372 666 7500
 
 ## Ελλάδα
 
 Pfizer Ελλάς A.E. Τηλ: +30 210 6785 800
-
-## Polska
-
-Pfizer Polska Sp. z o.o. Tel.:+48 22 335 61 00
 
 ## España
 
@@ -1666,39 +1636,85 @@ Pfizer S.L.
 
 Tel: +34 91 490 99 00
 
-## Portugal
-
-Laboratórios Pfizer, Lda. Tel: +351 21 423 5500
-
 ## France
 
 Pfizer
 
 Tél: +33 (0)1 58 07 34 40
 
-## România
-
-Pfizer Romania S.R.L. Tel: +40 (0) 21 207 28 00
-
 ## Hrvatska
 
-Pfizer Croatia d.o.o. Tel: +385 1 3908 777
+Pfizer Croatia d.o.o.
 
-## Slovenija
-
-Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: + 386 (0)1 52 11 400
+Tel: +385 1 3908 777
 
 ## Ireland
 
 Pfizer Healthcare Ireland Unlimited Company Tel: +1800 633 363 (toll free) +44 (0)1304 616161
 
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
+
+## Lietuva
+
+Pfizer Luxembourg SARL filialas Lietuvoje Tel: + 370 52 51 4000
+
+## Magyarország
+
+Pfizer Kft.
+
+Tel.: +36-1-488-37-00
+
+## Malta
+
+Vivian Corporation Ltd. Tel: +356 21344610
+
+## Nederland
+
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
+
+## Norge
+
+Pfizer AS
+
+Tlf: +47 67 52 61 00
+
+## Österreich
+
+Pfizer Corporation Austria Ges.m.b.H.
+
+Tel: +43 (0)1 521 15-0
+
+## Polska
+
+Pfizer Polska Sp. z o.o.
+
+Tel.:+48 22 335 61 00
+
+## Portugal
+
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
+
+## România
+
+Pfizer Romania S.R.L.
+
+Tel: +40 (0) 21 207 28 00
+
+## Slovenija
+
+Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: + 386 (0)1 52 11 400
+
 ## Slovenská republika
 
 Pfizer Luxembourg SARL, organizačná zložka Tel: + 421 2 3355 5500
-
-## Ísland
-
-Icepharma hf. Sími: +354 540 8000
 
 ## Suomi/Finland
 
@@ -1708,9 +1724,13 @@ Puh/Tel: +358 (0)9 43 00 40
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## Italia
 
-Pfizer S.r.l. Tel: +39 06 33 18 21
+Pfizer S.r.l.
+
+Tel: +39 06 33 18 21
 
 ## Kύπρος
 
@@ -1718,7 +1738,9 @@ Pfizer Ελλάς Α.Ε. (Cyprus Branch) Τηλ: +357 22 817690
 
 ## Latvija
 
-Pfizer Luxembourg SARL filiāle Latvijā Tel: + 371 670 35 775
+Pfizer Luxembourg SARL filiāle Latvijā
+
+Tel: + 371 670 35 775
 
 ## This leaflet was last revised in .
 
@@ -1731,25 +1753,3 @@ Detailed information on this medicine is available on the European Medicines Age
 Pfizer AB
 
 Tel: +46 (0)8 550 520 00
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR for abrocitinib, the scientific conclusions of PRAC are as follows:
-
-In view of available data on neutropenia, two cases reported with positive dechallenge and rechallenge as well as two additional reports with positive dechallenge together with clinical trial data and data from non-clinical trials where effect on neutrophil count was observed in rats, and potential class effect, the PRAC concluded that the product information of abrocitinib should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation
-
-On the basis of the scientific conclusions for abrocitinib the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing abrocitinib is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation should be varied.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-07 15:40:00
+document_datetime: 2026-09-02 11:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imvanex.html
 document_name: imvanex.html
 version: success
-processing_time: 0.1617815
-conversion_datetime: 2026-08-10 20:49:31.515112
+processing_time: 0.1689452
+conversion_datetime: 2026-09-05 10:48:11.234839
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.119.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.11.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Imvanex
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Imvanex](#news-on)
 - [More information on Imvanex](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -47,11 +46,11 @@ Page contents
 
 ## Overview
 
-Imvanex is a vaccine used to protect against smallpox in adults and adolescents aged 12 years and older.
+Imvanex is a vaccine used to protect against smallpox in adults and children aged two years and older.
 
 Smallpox was officially declared eradicated in 1980, with the last known case of the disease occurring in 1977. This vaccine will be used when it is considered necessary to protect against smallpox in accordance with official recommendations.
 
-Imvanex can also be used to protect adults and adolescents aged 12 years and older from mpox (formerly monkeypox) and disease caused by the vaccinia virus.
+Imvanex can also be used to protect adults and children aged two years and older from mpox (formerly monkeypox) and disease caused by the vaccinia virus.
 
 Imvanex contains an attenuated (weakened) form of the vaccinia virus called 'modified vaccinia virus Ankara', which is related to the smallpox and mpox viruses.
 
@@ -61,7 +60,7 @@ Collapse section
 
 ### How is Imvanex used?
 
-Imvanex is given by injection under the skin, preferably in the upper arm. People who have not been previously vaccinated against smallpox, mpox or vaccinia viruses should receive two doses, with the second dose given at least 28 days after the first.
+Imvanex is given by injection under the skin, preferably in the upper arm. People who have not been previously vaccinated against smallpox, mpox or the disease caused by the vaccinia virus should receive two doses, with the second dose given at least 28 days after the first.
 
 If a booster dose is considered necessary in people previously vaccinated, a single dose should be given. People with a weakened immune system (the body's natural defences) who require a booster should receive two doses, with the second dose given at least 28 days after the first.
 
@@ -81,29 +80,31 @@ Imvanex was shown in studies to be effective at triggering the production of ant
 
 Five main studies involved over 2,000 adults, including people with HIV and atopic dermatitis (an itchy skin condition caused by an overactive immune system) and adults who had been vaccinated against smallpox in the past. Two of the studies specifically looked at the effectiveness of Imvanex as a booster. A subsequent study in 433 people who had not been vaccinated before found that the level of protective antibodies after vaccination with Imvanex was at least as high as with a conventional smallpox vaccine. It is not yet known how long the protection will last.
 
-Interim results from an ongoing study involving 211 adults and 315 adolescents aged 12 to 17 years found that the immune response to two doses of Imvanex in adolescents, as measured by the levels of antibodies against the vaccinia virus, was comparable to that seen in adults.
+Results from a study involving 211 adults and 315 adolescents aged 12 to 17 years found that the immune response to two doses of Imvanex in adolescents, as measured by the levels of antibodies against the vaccinia virus, was comparable to that seen in adults. An additional study also showed that the vaccine triggered the production of similar levels of antibodies in children from two to 11 years of age.
 
 Data from several animal studies showed protection against mpox in non-human primates vaccinated with Imvanex and then exposed to the mpox virus.
 
 Imvanex is also expected to protect against the disease caused by vaccinia virus, since the vaccine is based on a modified version of vaccinia virus.
 
-### What are the risks associated with Imvanex?
+Studies carried out with Imvanex are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Imvanex?
 
 For the full list of side effects and restrictions with Imvanex, see the package leaflet.
 
-The most common side effects with Imvanex are usually mild or moderate and get better within seven days after vaccination. In adults, the most common side effects (which may affect more than 1 in 10 people) include headache, nausea, myalgia (muscle pain), tiredness and injection site reactions (pain, redness, swelling, hardening and itching). The side effects in children from 12 years old are similar to those seen in adults.
+The most common side effects with Imvanex are usually mild or moderate and get better within seven days after vaccination. In adults, the most common side effects (which may affect more than 1 in 10 people) include headache, nausea, myalgia (muscle pain), tiredness and injection site reactions (pain, redness, swelling, hardening and itching). The side effects in children from two years of age are similar to those seen in adults.
 
-Imvanex must not be used in patients who are hypersensitive (allergic) to the active substance or any of the substances found at trace levels, such as chicken protein, benzonase, gentamicin and ciprofloxacin.
+Imvanex must not be used in people who are hypersensitive (allergic) to the active substance or any of the substances found at trace levels in the vaccine, such as chicken protein, benzonase, gentamicin and ciprofloxacin.
 
 ### Why is Imvanex authorised in the EU?
 
 The European Medicines Agency considered that Imvanex is effective at triggering the production of antibodies against smallpox to a level that provides protection at least as high as that from conventional smallpox vaccines. The vaccinia virus in Imvanex cannot replicate in human cells and hence is less likely to cause side effects than conventional smallpox vaccines. Imvanex would therefore be beneficial for people who cannot be given vaccines containing replicating viruses, such as patients with a weakened immune system.
 
-For the prevention of mpox, the Agency considered that the effectiveness of Imvanex could be inferred from animal studies. In addition, because of the similarity between the virus in Imvanex ('modified vaccinia virus Ankara') and smallpox, mpox and vaccinia viruses, antibodies produced against it are expected to protect against mpox, smallpox as well as disease caused by the vaccinia virus.
+For the prevention of mpox, the Agency considered that the effectiveness of Imvanex could be inferred from animal studies. In addition, because of the similarity between the virus used in Imvanex ('modified vaccinia virus Ankara') and smallpox, mpox and vaccinia viruses, antibodies produced against it are expected to protect against mpox, smallpox as well as disease caused by the vaccinia virus.
 
 The safety profile of Imvanex is considered favourable, with vaccinated people experiencing mild to moderate side effects. The Agency therefore decided that Imvanex's benefits are greater than its risks and it can be authorised for use in the EU.
 
-Imvanex has been authorised under 'exceptional circumstances'. This is because it has not been possible to obtain complete information about Imvanex due to the rarity of the diseases. The company must provide further data on Imvanex. It must submit data on the vaccine's benefits and risks from an observational study in people who are given the vaccine, if an outbreak of smallpox occurs in the future. In addition, the company will collect data from an observational study carried out during the 2022 mpox outbreak in Europe to confirm the effectiveness of the vaccine in protecting against mpox. The company will also submit the final results of the ongoing study involving 12- to 17-year-old adolescents to provide further information on the safety of the vaccine in this age group.
+Imvanex has been authorised under 'exceptional circumstances'. This is because it has not been possible to obtain complete information about Imvanex due to the rarity of the diseases. The company must provide further data on Imvanex. It must submit data on the vaccine's benefits and risks from an observational study in people who are given the vaccine, if an outbreak of smallpox occurs in the future. The company will also submit the final results of the study involving two to 11-year-old children to provide further information on the safety of the vaccine in this age group, as well as yearly updates on any new information on the safety of the vaccine.
 
 Every year, the Agency will review any new information that becomes available.
 
@@ -119,143 +120,145 @@ Imvanex received a marketing authorisation valid throughout the EU on 31 July 20
 
 Imvanex : EPAR - Medicine overview
 
-English (EN) (126.18 KB - PDF)
+Reference Number: EMADOC-1829012207-61628
 
-**First published:** 16/08/2013 **Last updated:** 20/09/2024
+English (EN) (127.06 KB - PDF)
+
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/en/documents/overview/imvanex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-652)
+[Other languages (22)](#file-language-dropdown-579)
 
-български (BG) (141.3 KB - PDF)
+български (BG) (144.34 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/bg/documents/overview/imvanex-epar-medicine-overview_bg.pdf)
 
-español (ES) (115.5 KB - PDF)
+español (ES) (116.42 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/es/documents/overview/imvanex-epar-medicine-overview_es.pdf)
 
-čeština (CS) (138.64 KB - PDF)
+čeština (CS) (139.93 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/cs/documents/overview/imvanex-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (115.49 KB - PDF)
+dansk (DA) (116.09 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/da/documents/overview/imvanex-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (119.7 KB - PDF)
+Deutsch (DE) (121.03 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/de/documents/overview/imvanex-epar-medicine-overview_de.pdf)
 
-eesti (ET) (113.71 KB - PDF)
+eesti (ET) (112.84 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/et/documents/overview/imvanex-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (148.87 KB - PDF)
+ελληνικά (EL) (150.73 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/el/documents/overview/imvanex-epar-medicine-overview_el.pdf)
 
-français (FR) (117.06 KB - PDF)
+français (FR) (118.3 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/fr/documents/overview/imvanex-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (137.96 KB - PDF)
+hrvatski (HR) (137.48 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/hr/documents/overview/imvanex-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (114.9 KB - PDF)
+italiano (IT) (115.23 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/it/documents/overview/imvanex-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (146.69 KB - PDF)
+latviešu (LV) (135 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/lv/documents/overview/imvanex-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (147.92 KB - PDF)
+lietuvių (LT) (147.54 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/lt/documents/overview/imvanex-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (138.71 KB - PDF)
+magyar (HU) (138.32 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/hu/documents/overview/imvanex-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (149.58 KB - PDF)
+Malti (MT) (149.29 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/mt/documents/overview/imvanex-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (115.51 KB - PDF)
+Nederlands (NL) (118.16 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/nl/documents/overview/imvanex-epar-medicine-overview_nl.pdf)
 
-polski (PL) (142.31 KB - PDF)
+polski (PL) (145.98 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/pl/documents/overview/imvanex-epar-medicine-overview_pl.pdf)
 
-português (PT) (116.68 KB - PDF)
+português (PT) (117.35 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/pt/documents/overview/imvanex-epar-medicine-overview_pt.pdf)
 
-română (RO) (137.1 KB - PDF)
+română (RO) (135.2 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/ro/documents/overview/imvanex-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (139.08 KB - PDF)
+slovenčina (SK) (141.65 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/sk/documents/overview/imvanex-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (135.47 KB - PDF)
+slovenščina (SL) (136.28 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/sl/documents/overview/imvanex-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (113.5 KB - PDF)
+suomi (FI) (112.75 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/fi/documents/overview/imvanex-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (114.64 KB - PDF)
+svenska (SV) (113.54 KB - PDF)
 
-**First published:** 16/08/2013 **Last updated:** 16/10/2024
+**First published:** 16/08/2013 **Last updated:** 02/09/2026
 
 [View](/sv/documents/overview/imvanex-epar-medicine-overview_sv.pdf)
 
@@ -277,7 +280,7 @@ English (EN) (368.73 KB - PDF)
 
 [View](/en/documents/product-information/imvanex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-1)
+[Other languages (24)](#file-language-dropdown-129)
 
 български (BG) (548.83 KB - PDF)
 
@@ -431,7 +434,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -450,7 +453,7 @@ English (EN) (27.82 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-251)
+[Other languages (24)](#file-language-dropdown-375)
 
 български (BG) (42.2 KB - PDF)
 
@@ -815,14 +818,8 @@ English (EN) (70.35 KB - PDF)
 - [Prospective Cohort Study and Emulated Target Trial to Estimate the Safety and Effectiveness of MVA-BN vaccination against MPXV infection in at-risk individuals in Germany (SEMVAc/TEMVAc) - post-authorisation study](https://catalogues.ema.europa.eu/study/50282)
 - [Effectiveness and safety of MVA-BN vaccination against Mpox in at-risk individuals in the United States (USMVAc) (USMVAC study) - post-authorisation study](https://catalogues.ema.europa.eu/study/105127)
 
-## Topics
-
-- [Mpox](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A67812)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-- [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
-
 **This page was last updated on**
 
-07/08/2026
+02/09/2026
 
 ## Share this page

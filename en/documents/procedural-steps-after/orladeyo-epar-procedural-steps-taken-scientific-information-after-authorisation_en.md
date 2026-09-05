@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-31 16:43:05
+document_datetime: 2026-09-01 16:16:00
 document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/orladeyo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: orladeyo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 2.2777839
-conversion_datetime: 2026-09-02 21:48:43.211862
+processing_time: 2.3650204
+conversion_datetime: 2026-09-05 10:32:20.436318
 docling_version:
   docling-serve: 1.32.0
   docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -22,9 +22,9 @@ Procedural steps taken and scientific information after the authorisation*
 
 *Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number     | Scope    | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|------------------------|----------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Extension of marketing | Outcome: | 25/06/2026                          | 27/08/2026                                  | SmPC,                            |           |
+| Application number     | Scope    | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                              |
+|------------------------|----------|-------------------------------------|---------------------------------------------|----------------------------------|------------------------------------------------------|
+| Extension of marketing | Outcome: | 25/06/2026                          | 27/08/2026                                  | SmPC,                            | Please refer to Scientific Discussion 'Orladeyo-H-C- |
 
 <!-- image -->
 
@@ -32,8 +32,8 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| authorisation / EMA/X/0000268892   | This was an application for a group of variations. Labelling and PL   |
-|------------------------------------|-----------------------------------------------------------------------|
+| authorisation / EMA/X/0000268892   | This was an application for a group of variations. 2. Changes to strength, pharmaceutical and route of administration - (c) change addition of a new strength/potency - Accepted 2. Changes to strength, pharmaceutical and route of administration - (d) change addition of a new pharmaceutical form Accepted C.I HUMAN AND VETERINARY MEDICINAL PRODUCTS - C.I.4 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet due to new quality, preclinical, clinical or pharmacovigilance data - Accepted Extension application to introduce a new pharmaceutical form associated with strengths (78 mg, 96 mg, 108 mg and mg film - coated granules). The new presentations are indicated to include treatment for paediatric patients aged less than 12 years. The extension application is grouped with a type II clinical variation (C.I.4). As a consequence, sections 4.1, 4.4, 4.8, 5.1 and 5.2 of the SmPC are updated. The Package Leaflet and Labelling are updated in accordance. Version 2.1 the RMP has also been submitted.   | Labelling and PL   | 5138-EMAX0000268892'   |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------|
 
 <div style=\"page-break-after: always\"></div>
 

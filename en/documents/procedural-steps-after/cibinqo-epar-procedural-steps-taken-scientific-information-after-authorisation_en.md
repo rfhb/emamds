@@ -1,36 +1,30 @@
 ---
-document_datetime: 2025-02-17 12:11:15
-document_pages: 2
+document_datetime: 2026-09-02 10:22:28
+document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/cibinqo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: cibinqo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.1791656
-conversion_datetime: 2025-12-20 17:34:04.251107
+processing_time: 1.8634121
+conversion_datetime: 2026-09-05 10:28:57.625534
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## Cibinqo
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, please also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number   | Scope                                      | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|--------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Article 61(3) /      | Update of the package leaflet with revised | 11/02/2025                          |                                             | PL                               |           |
-
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| Application number   | Scope    | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                            |
+|----------------------|----------|-------------------------------------|---------------------------------------------|----------------------------------|----------------------------------------------------|
+| Renewal - 5 year /   | Outcome: | 25/06/2026                          | 28/08/2026                                  | SmPC and PL                      | Based on the review of data on quality, safety and |
 
 <!-- image -->
 
@@ -38,5 +32,14 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/N/0000244832   | contact details of local representative and deletion of 'United Kingdom (Northern Ireland)' from the list of local representatives in line with the QRD template v10.4. Additionally, the MAH took the opportunity to introduce minor editorial amendments.   |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| EMA/R/0000336009                      | Renewal of marketing authorisation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |            |            |    | efficacy, the CHMP considered that the benefit-risk balance of Cibinqo in the approved indication remains favourable and therefore recommended the renewal of the marketing authorisation with unlimited validity.   |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IB / EMA/VR/0000315152 | Outcome: B.I.d.1.a Re-test period/storage period - B.I.d.1.a.4 Extension or introduction of a re- test period/storage period supported by real time data - Accepted                                                                                                                                                                                                                                                                                                                                                                | 11/12/2025 |            |    |                                                                                                                                                                                                                      |
+| Variation type IA / EMA/VR/0000254602 | Outcome: A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a manufacturer (including where relevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier) - Accepted | 07/03/2025 |            |    |                                                                                                                                                                                                                      |
+| Article 61(3) / EMA/N/0000244832      | Outcome: - - Accepted Update of the package leaflet with revised contact details of local representative and                                                                                                                                                                                                                                                                                                                                                                                                                       | 11/02/2025 | 23/06/2025 | PL |                                                                                                                                                                                                                      |
+
+<div style=\"page-break-after: always\"></div>
+
+|                            | deletion of 'United Kingdom (Northern Ireland)' from the list of local representatives in line with the QRD template v10.4. Additionally, the MAH took the opportunity to introduce minor editorial amendments.   |            |             |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|
+| PSUR / EMA/PSUR/0000317674 | EURD: PSUSA/00010976/202509 Active substance: abrocitinib Outcome: Maintenance                                                                                                                                    | 10/04/2026 | Maintenance |

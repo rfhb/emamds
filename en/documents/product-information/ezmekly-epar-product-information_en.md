@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-13 14:11:38
+document_datetime: 2026-09-02 12:23:26
 document_pages: 67
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ezmekly-epar-product-information_en.pdf
 document_name: ezmekly-epar-product-information_en.pdf
 version: success
-processing_time: 18.5504228
-conversion_datetime: 2026-08-17 13:35:36.09635
+processing_time: 17.9676386
+conversion_datetime: 2026-09-05 10:36:46.070212
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.120.2
-  docling-core: 2.91.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.13.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -1160,6 +1160,8 @@ Mias Pharma Limited Suite 1 First Floor, Stafford House Strand Road, Portmarnock
 
 Merck Healthcare KGaA Frankfurter Strasse 250 64293 Darmstadt Germany
 
+Patheon France 40 Boulevard De Champaret 38300 Bourgoin Jallieu France
+
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
@@ -1182,12 +1184,12 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
+<div style=\"page-break-after: always\"></div>
+
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-<div style=\"page-break-after: always\"></div>
 
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
@@ -1271,7 +1273,6 @@ EU/1/25/1950/003
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1440,7 +1441,6 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Ezmekly 2 mg capsule
@@ -1505,7 +1505,8 @@ Store in the original package to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1522,14 +1523,14 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1598,9 +1599,7 @@ EU/1/25/1950/001 42 dispersible tablets EU/1/25/1950/002 84 dispersible tablets
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Ezmekly 1 mg dispersible tablets
@@ -1709,10 +1708,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you (or your child) start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1983,6 +1982,8 @@ Mias Pharma Limited Suite 1 First Floor, Stafford House Strand Road, Portmarnock
 
 Merck Healthcare KGaA Frankfurter Strasse 250 64293 Darmstadt Germany
 
+Patheon France 40 Boulevard De Champaret 38300 Bourgoin Jallieu France
+
 ## This leaflet was last revised in
 
 This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine. The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
@@ -2007,10 +2008,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you (or your child) start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you (or your child) only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you (or your child) only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2297,6 +2298,8 @@ Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 Mias Pharma Limited Suite 1 First Floor, Stafford House Strand Road, Portmarnock, D13 WC83 Ireland.
 
 Merck Healthcare KGaA Frankfurter Strasse 250 64293 Darmstadt Germany
+
+Patheon France 40 Boulevard De Champaret 38300 Bourgoin Jallieu France
 
 ## This leaflet was last revised in
 

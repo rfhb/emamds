@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-20 15:06:24
+document_datetime: 2026-09-02 12:28:26
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ogsiveo-epar-product-information_en.pdf
 document_name: ogsiveo-epar-product-information_en.pdf
 version: success
-processing_time: 12.746566
-conversion_datetime: 2026-07-28 13:46:44.197324
+processing_time: 9.0171405
+conversion_datetime: 2026-09-05 10:38:31.966971
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,17 +28,13 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ogsiveo 50 mg film -coated tablets
-
-Ogsiveo 100 mg film -coated tablets
-
-Ogsiveo 150 mg film -coated tablets
+Ogsiveo 50 mg film-coated tablets Ogsiveo 100 mg film-coated tablets Ogsiveo 150 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Ogsiveo 50 mg film -coated tablets
+## Ogsiveo 50 mg film-coated tablets
 
-Each film -coated tablet contains 50 mg of nirogacestat (as nirogacestat dihydrobromide).
+Each film-coated tablet contains 50 mg of nirogacestat (as nirogacestat dihydrobromide).
 
 ## Excipients with known effect
 
@@ -46,43 +42,41 @@ Each film-coated tablet contains 57.8 mg of lactose monohydrate.
 
 Each film-coated tablet contains sunset yellow FCF (E 110).
 
-## Ogsiveo 100 mg film -coated tablets
+## Ogsiveo 100 mg film-coated tablets
 
-Each film -coated tablet contains 100 mg of nirogacestat (as nirogacestat dihydrobromide).
-
-## Excipients with known effect
-
-Each film -coated tablet contains 115.7 mg of lactose monohydrate.
-
-Each film -coated tablet contains sunset yellow FCF (E 110).
-
-## Ogsiveo 150 mg film -coated tablets
-
-Each film -coated tablet contains 150 mg of nirogacestat (as nirogacestat dihydrobromide).
+Each film-coated tablet contains 100 mg of nirogacestat (as nirogacestat dihydrobromide).
 
 ## Excipients with known effect
 
-Each film -
+Each film-coated tablet contains 115.7 mg of lactose monohydrate.
 
-Each film - coated tablet contains 173.5 mg of lactose monohydrate. coated tablet contains sunset yellow FCF (E 110).
+Each film-coated tablet contains sunset yellow FCF (E 110).
+
+## Ogsiveo 150 mg film-coated tablets
+
+Each film-coated tablet contains 150 mg of nirogacestat (as nirogacestat dihydrobromide).
+
+## Excipients with known effect
+
+Each film-coated tablet contains 173.5 mg of lactose monohydrate. Each film-coated tablet contains sunset yellow FCF (E 110).
 
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Film -coated tablet (tablet).
+Film-coated tablet (tablet).
 
-Ogsiveo 50 mg film -coated tablets
+Ogsiveo 50 mg film-coated tablets
 
-Round, biconvex, orange film -coated tablets 8 mm diameter, debossed with '50' on one side.
+Round, biconvex, orange film-coated tablets 8 mm diameter, debossed with '50' on one side.
 
-Ogsiveo 100 mg film -coated tablets
+Ogsiveo 100 mg film-coated tablets
 
-Round, light orange film -coated tablets 10 mm diameter, debossed with '100' on one side.
+Round, light orange film-coated tablets 10 mm diameter, debossed with '100' on one side.
 
-## Ogsiveo 150 mg film -coated tablets
+## Ogsiveo 150 mg film-coated tablets
 
-Oval, yellow orange film -coated tablets 8.5 mm in width, 17.5 mm in length, debossed with '150' on one side.
+Oval, yellow orange film-coated tablets 8.5 mm in width, 17.5 mm in length, debossed with '150' on one side.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -112,7 +106,7 @@ If a dose of Ogsiveo is missed, patients should not take an additional dose. Pat
 
 The recommended dose modifications for selected adverse reactions are provided in Table 1.
 
-For other severe adverse reactions, or in the event of life -threatening adverse reactions, Ogsiveo should be withheld until the reaction is resolved to Grade ≤ 1 or baseline. Ogsiveo should only be restarted at a dose of 100 mg twice daily and only after carefully considering the potential benefit and likelihood of recurrence of the adverse reaction. Ogsiveo should be permanently discontinued for recurrence of severe or life-threatening adverse reaction upon rechallenge at the reduced dose.
+For other severe adverse reactions, or in the event of life-threatening adverse reactions, Ogsiveo should be withheld until the reaction is resolved to Grade ≤ 1 or baseline. Ogsiveo should only be restarted at a dose of 100 mg twice daily and only after carefully considering the potential benefit and likelihood of recurrence of the adverse reaction. Ogsiveo should be permanently discontinued for recurrence of severe or life-threatening adverse reaction upon rechallenge at the reduced dose.
 
 Dose modifications should be made if patients experience the following adverse reactions (grades refer to Common Terminology Criteria for Adverse Events):
 
@@ -168,10 +162,10 @@ Patients should avoid consuming grapefruit and grapefruit juice while taking Ogs
 
 ## 4.3 Contraindications
 
-- -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-- -Pregnancy (see sections 4.4 and 4.6)
-- -Women of childbearing potential not using highly effective contraception (see sections 4.4 and 4.6)
-- -Breast-feeding (see section 4.6)
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Pregnancy (see sections 4.4 and 4.6)
+- Women of childbearing potential not using highly effective contraception (see sections 4.4 and 4.6)
+- Breast-feeding (see section 4.6)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -179,7 +173,7 @@ Patients should avoid consuming grapefruit and grapefruit juice while taking Ogs
 
 ## Diarrhoea
 
-Diarrhoea was reported in patients receiving nirogacestat (see section 4.8). Patients who experience diarrhoea during treatment with nirogacestat should be monitored and managed using anti -diarrhoeal medicinal products. For Grade 3 diarrhoea that persists for ≥ 3 days despite maximal medical therapy, nirogacestat should be withheld until diarrhoea is resolved to Grade ≤ 1 or baseline, then it should be restarted at 100 mg twice daily (see section 4.2).
+Diarrhoea was reported in patients receiving nirogacestat (see section 4.8). Patients who experience diarrhoea during treatment with nirogacestat should be monitored and managed using anti-diarrhoeal medicinal products. For Grade 3 diarrhoea that persists for ≥ 3 days despite maximal medical therapy, nirogacestat should be withheld until diarrhoea is resolved to Grade ≤ 1 or baseline, then it should be restarted at 100 mg twice daily (see section 4.2).
 
 ## Skin and subcutaneous tissue disorders
 
@@ -187,11 +181,11 @@ Dermatologic reactions, including maculopapular rash, folliculitis, and hidraden
 
 ## Ovarian toxicity
 
-Ovarian toxicity was reported in female patients of childbearing potential receiving nirogacestat (see section 4.8). Ovarian toxicity, identified based on abnormal reproductive hormone levels or peri -menopausal symptoms, was reported in 75% of women of childbearing potential receiving nirogacestat in the DeFi study. Ovarian toxicity has been reported to resolve in 79% of women of childbearing potential during treatment. Follow up information is available for all but two out of 27 patients; after stopping treatment, ovarian toxicity was reported to resolve in all women of childbearing potential for whom data are available (see section 4.8). Effects of nirogacestat on human fertility are unknown. Based on findings from animal studies, female fertility may be impaired. Women of childbearing potential should be advised about the risk of ovarian toxicity before initiating treatment with nirogacestat. Patients should be monitored for changes in menstrual cycle regularity or the development of symptoms of oestrogen deficiency, including hot flashes, night sweats, and vaginal dryness.
+Ovarian toxicity was reported in female patients of childbearing potential receiving nirogacestat (see section 4.8). Ovarian toxicity, identified based on abnormal reproductive hormone levels or peri-menopausal symptoms, was reported in 75% of women of childbearing potential receiving nirogacestat in the DeFi study. Ovarian toxicity has been reported to resolve in 79% of women of childbearing potential during treatment. Follow up information is available for all but two out of 27 patients; after stopping treatment, ovarian toxicity was reported to resolve in all women of childbearing potential for whom data are available (see section 4.8). Effects of nirogacestat on human fertility are unknown. Based on findings from animal studies, female fertility may be impaired. Women of childbearing potential should be advised about the risk of ovarian toxicity before initiating treatment with nirogacestat. Patients should be monitored for changes in menstrual cycle regularity or the development of symptoms of oestrogen deficiency, including hot flashes, night sweats, and vaginal dryness.
 
 ## Electrolyte abnormalities
 
-Electrolyte abnormalities, including hypophosphataemia and hypokalaemia, were reported in patients receiving nirogacestat (see section 4.8). Phosphate and potassium levels should be monitored regularly and supplemented as necessary. For Grade 3 hypophosphata emia persisting for ≥ 7 days despite maximal replacement therapy, nirogacestat should be withheld until resolved to Grade ≤ 1 or baseline, then it should be restarted at a dose of 100 mg twice daily (see section 4.2). For Grade 3 hypokalaemia of any duration, despite maximal replacement therapy, nirogacestat should be withheld until resolved to Grade ≤ 1 or baseline, then it should be restarted at a dose of 100 mg twice daily (see section 4.2).
+Electrolyte abnormalities, including hypophosphataemia and hypokalaemia, were reported in patients receiving nirogacestat (see section 4.8). Phosphate and potassium levels should be monitored regularly and supplemented as necessary. For Grade 3 hypophosphataemia persisting for ≥ 7 days despite maximal replacement therapy, nirogacestat should be withheld until resolved to Grade ≤ 1 or baseline, then it should be restarted at a dose of 100 mg twice daily (see section 4.2). For Grade 3 hypokalaemia of any duration, despite maximal replacement therapy, nirogacestat should be withheld until resolved to Grade ≤ 1 or baseline, then it should be restarted at a dose of 100 mg twice daily (see section 4.2).
 
 ## Hepatic abnormalities
 
@@ -199,11 +193,11 @@ ALT or AST elevations were reported in patients who received nirogacestat (see s
 
 <div style=\"page-break-after: always\"></div>
 
-## Non -melanoma skin cancers
+## Non-melanoma skin cancers
 
-Non -melanoma skin cancers (basal cell carcinoma and squamous cell carcinoma) were reported in patients receiving nirogacestat (see section 4.8). Skin examinations should be performed prior to initiation of nirogacestat and routinely during treatment with nirogacestat. Cases should be managed according to clinical practices and patients may continue with nirogacestat treatment without dose adjustment.
+Non-melanoma skin cancers (basal cell carcinoma and squamous cell carcinoma) were reported in patients receiving nirogacestat (see section 4.8). Skin examinations should be performed prior to initiation of nirogacestat and routinely during treatment with nirogacestat. Cases should be managed according to clinical practices and patients may continue with nirogacestat treatment without dose adjustment.
 
-## Embryo -foetal toxicity - Contraception in males and females
+## Embryo-foetal toxicity - Contraception in males and females
 
 Nirogacestat may cause foetal harm when administered to a pregnant woman (see sections 4.6 and 5.3). Patients should be advised of the potential risk to a foetus. Women of childbearing potential must have a negative pregnancy test prior to initiating nirogacestat treatment. Pregnancy testing during treatment with nirogacestat should be considered for women of childbearing potential experiencing amenorrhoea. Women of childbearing potential receiving nirogacestat must use highly effective contraceptive methods during treatment with nirogacestat and for 1 week after the last dose of nirogacestat (see section 4.6). Women of childbearing potential should be advised to inform their healthcare provider immediately of a known or suspected pregnancy, and they must stop taking nirogacestat if they become pregnant.
 
@@ -211,23 +205,23 @@ Male patients with female partners of childbearing potential should be advised t
 
 ## Excipients
 
-This medicinal product contains lactose (see sections 2 and 6.1). Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose -galactose malabsorption should not take this medicinal product.
+This medicinal product contains lactose (see sections 2 and 6.1). Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 This medicinal product contains sunset yellow FCF (E110) (see sections 2 and 6.1), which may cause allergic reactions.
 
-Each film -coated tablet contains less than 1 mmol sodium (23 mg), that is to say essentially sodium -free (see section 6.1).
+Each film-coated tablet contains less than 1 mmol sodium (23 mg), that is to say essentially sodium-free (see section 6.1).
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Interaction studies have only been performed in adults.
 
-Nirogacestat is primarily metabolized by CYP3A4 and is a substrate of P -glycoprotein (P-gp).
+Nirogacestat is primarily metabolized by CYP3A4 and is a substrate of P-glycoprotein (P-gp).
 
 ## Agents that may increase nirogacestat serum concentrations
 
 ## Effect of moderate and strong CYP3A4 inhibitors
 
-In a clinical study, co -administration of itraconazole (a strong CYP3A4 inhibitor and P -gp inhibitor) increased nirogacestat Cmax by 2.5 -fold and AUC by 8.2 -fold. Co -administration with moderate CYP3A4 inhibitors is also expected to result in clinically relevant increases in exposure.
+In a clinical study, co-administration of itraconazole (a strong CYP3A4 inhibitor and P-gp inhibitor) increased nirogacestat Cmax by 2.5-fold and AUC by 8.2-fold. Co-administration with moderate CYP3A4 inhibitors is also expected to result in clinically relevant increases in exposure.
 
 Concomitant use with strong inhibitors of CYP3A4 (e.g., clarithromycin, oral ketoconazole, itraconazole) and moderate inhibitors of CYP3A4 (e.g., erythromycin and fluconazole) should therefore be avoided.
 
@@ -243,15 +237,15 @@ Patients should avoid consuming grapefruit and grapefruit juice when taking Ogsi
 
 The effects of CYP3A4 inducers on nirogacestat exposure have not been evaluated in a clinical study. Moderate and strong inducers are expected to result in clinically relevant decreases in exposure of nirogacestat that could lead to reduced efficacy. Concomitant treatment with strong inducers of CYP3A4 (e.g., carbamazepine, phenytoin, rifampicin, phenobarbital and St. John's wort) and moderate CYP3A inducers (e.g., efavirenz and etravirine) should therefore be avoided. In patients for whom CYP3A4 inducers are indicated, alternative agents with less enzyme induction potential should be selected.
 
-## Effect of acid -reducing agents
+## Effect of acid-reducing agents
 
-Nirogacestat has pH -dependent solubility, with substantially reduced solubility at pH greater than 6.0. The effects of acid reducing agents (i.e., H2 -receptor antagonists, proton pump inhibitors and antacids) on nirogacestat exposure have not been evaluated in a clinical study, however, co -administration of these medicinal products may reduce the bioavailability of nirogacestat. Concomitant use of Ogsiveo with proton pump inhibitors and H2 blockers is not recommended. However, if concomitant use with acid reducing agents cannot be avoided, Ogsiveo can be staggered with antacids by administering Ogsiveo 2 hours before or 2 hours after antacid use.
+Nirogacestat has pH-dependent solubility, with substantially reduced solubility at pH greater than 6.0. The effects of acid reducing agents (i.e., H2-receptor antagonists, proton pump inhibitors and antacids) on nirogacestat exposure have not been evaluated in a clinical study, however, co-administration of these medicinal products may reduce the bioavailability of nirogacestat. Concomitant use of Ogsiveo with proton pump inhibitors and H2 blockers is not recommended. However, if concomitant use with acid reducing agents cannot be avoided, Ogsiveo can be staggered with antacids by administering Ogsiveo 2 hours before or 2 hours after antacid use.
 
 ## Effects of nirogacestat on the pharmacokinetics of other medicinal products
 
 ## CYP substrates
 
-A drug -drug interaction study in healthy volunteers investigating the effects of multiple doses of nirogacestat at a dose of 95 mg once daily on the exposure of midazolam, a sensitive CYP3A4 substrate, resulted in a 1.3 -fold increase in midazolam Cmax and a 1.6 -fold increase in midazolam AUC. The effect of the clinical dose of nirogacestat (150 mg twice daily) on midazolam exposure has not been studied and may be different. Ogsiveo should not be used with concomitant administration of CYP3A4 substrates that have narrow therapeutic indices (e.g., cyclosporine, tacrolimus, digitoxin, warfarin, carbamazepine).
+A drug-drug interaction study in healthy volunteers investigating the effects of multiple doses of nirogacestat at a dose of 95 mg once daily on the exposure of midazolam, a sensitive CYP3A4 substrate, resulted in a 1.3-fold increase in midazolam Cmax and a 1.6-fold increase in midazolam AUC. The effect of the clinical dose of nirogacestat (150 mg twice daily) on midazolam exposure has not been studied and may be different. Ogsiveo should not be used with concomitant administration of CYP3A4 substrates that have narrow therapeutic indices (e.g., cyclosporine, tacrolimus, digitoxin, warfarin, carbamazepine).
 
 Since no study has been performed investigating the effect of nirogacestat on systemic contraceptive steroid exposure, it is unknown whether nirogacestat reduces the effectiveness of systemically acting hormonal contraceptives. Women of childbearing potential must use highly effective contraceptive methods (see section 4.6).
 
@@ -259,7 +253,7 @@ In vitro studies showed that nirogacestat may induce CYP2C8, CYP2C9, CYP2C19, an
 
 ## Drug transporter systems
 
-A single-dose drug -drug interaction study demonstrated that nirogacestat did not affect the exposure of dabigatran, a P -gp substrate, which supports the absence of clinically meaningful P -gp inhibition by nirogacestat.
+A single-dose drug-drug interaction study demonstrated that nirogacestat did not affect the exposure of dabigatran, a P-gp substrate, which supports the absence of clinically meaningful P-gp inhibition by nirogacestat.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -277,7 +271,7 @@ Male patients with female partners of childbearing potential must use highly eff
 
 Based on findings from animal studies and its mechanism of action, Ogsiveo may cause foetal harm when administered to a pregnant woman. Ogsiveo is contraindicated in pregnant women (see sections 4.3 and 5.3). Women of childbearing potential must have a negative pregnancy test prior to initiating Ogsiveo treatment. Pregnancy testing during treatment with Ogsiveo should be considered for women of childbearing potential experiencing amenorrhoea. Patients should be advised of the potential risk to a foetus. If a patient becomes pregnant while taking Ogsiveo, treatment must be discontinued. A spontaneous abortion was reported by a woman in the DeFi study who conceived while receiving nirogacestat.
 
-## Breast -feeding
+## Breast-feeding
 
 There are no data regarding the presence of nirogacestat or its metabolites in either human or animal milk or its effects on a breastfed child or on milk production. Because of the potential for serious adverse reactions in a breastfed child, women must not breastfeed during treatment with Ogsiveo and for 1 week after the last dose of Ogsiveo (see section 4.3).
 
@@ -355,6 +349,7 @@ Table 2: Adverse reactions reported
 | Eye disorders                                        | Dry eye                             | Common       | --           |
 | Immune system disorders                              | Hypersensitivity *                  | Not known    |              |
 
+- d  Bone fracture includes fracture, foot fracture, hand fracture, radius fracture, hip fracture and rib fracture.
 - e  Ovarian toxicity includes ovarian failure, premature menopause, amenorrhoea, oligomenorrhoea, menstruation irregular, dysmenorrhoea, heavy menstrual bleeding, vulvovaginal dryness, hot flush, decreased anti-Müllerian hormone (AMH) and increased follicle-stimulating hormone (FSH).
 - f Upper respiratory tract infection (URTI) includes URTI, viral URTI, acute sinusitis, and sinusitis.
 
@@ -372,11 +367,11 @@ In the double-blind phase of the DeFi study, diarrhoea was reported in 84% of pa
 
 ## Skin and subcutaneous tissue disorders
 
-In the double -blind phase of the DeFi study, dermatologic reactions were reported at a higher incidence in patients receiving nirogacestat than in those receiving placebo; they included maculo -papular rash (32% vs 6%), hidradenitis (9% vs 0), and folliculitis (13% vs 0) (see section 4.4). The median time to rash events was 22 days (range 2 to 603 days). Skin and subcutaneous disorders led to dose reduction in 9% of patients receiving nirogacestat, including maculo -papular rash in 4% and hidradenitis in 3%. Maculo -papular rash led to treatment discontinuation in 1%.
+In the double-blind phase of the DeFi study, dermatologic reactions were reported at a higher incidence in patients receiving nirogacestat than in those receiving placebo; they included maculo-papular rash (32% vs 6%), hidradenitis (9% vs 0), and folliculitis (13% vs 0) (see section 4.4). The median time to rash events was 22 days (range 2 to 603 days). Skin and subcutaneous disorders led to dose reduction in 9% of patients receiving nirogacestat, including maculo-papular rash in 4% and hidradenitis in 3%. Maculo-papular rash led to treatment discontinuation in 1%.
 
 ## Ovarian toxicity
 
-In the double -blind phase of the DeFi study, 75% of women of childbearing potential receiving nirogacestat reported ovarian toxicity (defined as ovarian failure, premature menopause, amenorrhoea, oligomenorrhea, and menopause) compared to no patients receiving placebo. There were three serious adverse reactions of ovarian toxicity, all premature menopause, representing 11% of all participants reporting ovarian toxicity. The median time to first onset of ovarian toxicity was 8.9 weeks (range 1 day to 54 weeks), and the overall median duration was 18.9 weeks (range 11 days to 215 weeks). Ovarian toxicity has been reported to resolve in 79% of women of childbearing potential during treatment. Follow up information is available for all but two out of 27 patients; after stopping treatment, ovarian toxicity was reported to resolve in all women of childbearing potential for whom data are available. The median time to resolution after discontinuing nirogacestat was 10.9 weeks
+In the double-blind phase of the DeFi study, 75% of women of childbearing potential receiving nirogacestat reported ovarian toxicity (defined as ovarian failure, premature menopause, amenorrhoea, oligomenorrhea, and menopause) compared to no patients receiving placebo. There were three serious adverse reactions of ovarian toxicity, all premature menopause, representing 11% of all participants reporting ovarian toxicity. The median time to first onset of ovarian toxicity was 8.9 weeks (range 1 day to 54 weeks), and the overall median duration was 18.9 weeks (range 11 days to 215 weeks). Ovarian toxicity has been reported to resolve in 79% of women of childbearing potential during treatment. Follow up information is available for all but two out of 27 patients; after stopping treatment, ovarian toxicity was reported to resolve in all women of childbearing potential for whom data are available. The median time to resolution after discontinuing nirogacestat was 10.9 weeks
 
 <div style=\"page-break-after: always\"></div>
 
@@ -384,23 +379,23 @@ In the double -blind phase of the DeFi study, 75% of women of childbearing poten
 
 ## Electrolyte abnormalities
 
-Electrolyte abnormalities were reported in patients receiving nirogacestat in the double -blind phase of the DeFi study, including hypophosphataemia (43%) and hypokalaemia (12%), compared to 7% and 1%, respectively, in patients receiving placebo. Median time to first onset of hypophosphataemia and hypokalaemia was 15 days (range 1 to 833 days) and 15 days (range 1 to 57 days), respectively. Grade 3 events of hypophosphataemia and hypokalaemia occurred in 3% of patients receiving nirogacestat compared to no patients receiving placebo (see section 4.4). Hypophosphataemia and hypokalaemia led to dose reduction in 4% and 1% of patients receiving nirogacestat, respectively. Hypophosphataemia led to dose discontinuation in 1% of patients receiving nirogacestat.
+Electrolyte abnormalities were reported in patients receiving nirogacestat in the double-blind phase of the DeFi study, including hypophosphataemia (43%) and hypokalaemia (12%), compared to 7% and 1%, respectively, in patients receiving placebo. Median time to first onset of hypophosphataemia and hypokalaemia was 15 days (range 1 to 833 days) and 15 days (range 1 to 57 days), respectively. Grade 3 events of hypophosphataemia and hypokalaemia occurred in 3% of patients receiving nirogacestat compared to no patients receiving placebo (see section 4.4). Hypophosphataemia and hypokalaemia led to dose reduction in 4% and 1% of patients receiving nirogacestat, respectively. Hypophosphataemia led to dose discontinuation in 1% of patients receiving nirogacestat.
 
 ## Hepatic abnormalities
 
-ALT and AST elevations were reported in 19% and 17%, respectively, of patients receiving nirogacestat in the double -blind phase of the DeFi study compared to 8% and 11%, respectively, in patients receiving placebo. Median time to first onset of ALT and AST elevations was 22 days (ALT range 8 to 924 days; AST range 1 to 1023 days). Grade 3 ALT and AST elevations (&gt; 5 x ULN) occurred in 3% of patients treated with nirogacestat compared to 1% in the placebo arm (see section 4.4). ALT and AST elevations each led to dose reduction in 1% of patients receiving nirogacestat. ALT and AST elevations led to dose discontinuation in 4% and 3% of patients receiving nirogacestat, respectively.
+ALT and AST elevations were reported in 19% and 17%, respectively, of patients receiving nirogacestat in the double-blind phase of the DeFi study compared to 8% and 11%, respectively, in patients receiving placebo. Median time to first onset of ALT and AST elevations was 22 days (ALT range 8 to 924 days; AST range 1 to 1023 days). Grade 3 ALT and AST elevations (&gt; 5 x ULN) occurred in 3% of patients treated with nirogacestat compared to 1% in the placebo arm (see section 4.4). ALT and AST elevations each led to dose reduction in 1% of patients receiving nirogacestat. ALT and AST elevations led to dose discontinuation in 4% and 3% of patients receiving nirogacestat, respectively.
 
 ## Non-melanoma skin cancers
 
-Non-melanoma skin cancers were reported at a higher incidence in patients receiving nirogacestat than in those receiving placebo in the double -blind phase of the DeFi study, including squamous cell carcinoma (3% vs 0) and basal cell carcinoma (1% vs 0), with one patient reporting both types of non -melanoma skin cancer (see section 4.4). An additional two cases of non -melanoma skin cancer were reported outside of the double -blind phase of the DeFi study.
+Non-melanoma skin cancers were reported at a higher incidence in patients receiving nirogacestat than in those receiving placebo in the double-blind phase of the DeFi study, including squamous cell carcinoma (3% vs 0) and basal cell carcinoma (1% vs 0), with one patient reporting both types of non-melanoma skin cancer (see section 4.4). An additional two cases of non-melanoma skin cancer were reported outside of the double-blind phase of the DeFi study.
 
 ## Proximal renal tubule effect
 
-Glycosuria and proteinuria were observed in 52% and 46%, respectively, of patients receiving nirogacestat in the double -blind phase of the DeFi study, compared with 1% and 39%, respectively, in patients receiving placebo. Median time to onset of glycosuria and proteinuria was 85 days (range 55 to 600 days) and 72 days (range 38 to 937 days), respectively. One patient in the DeFi study reported renal tubular disorder with increased urinary excretion of uric acid, glucose and phosphate, but no excess excretion of low molecular weight proteins (beta2 -microglobulin) or any change in renal function. The event was managed with dose reduction.
+Glycosuria and proteinuria were observed in 52% and 46%, respectively, of patients receiving nirogacestat in the double-blind phase of the DeFi study, compared with 1% and 39%, respectively, in patients receiving placebo. Median time to onset of glycosuria and proteinuria was 85 days (range 55 to 600 days) and 72 days (range 38 to 937 days), respectively. One patient in the DeFi study reported renal tubular disorder with increased urinary excretion of uric acid, glucose and phosphate, but no excess excretion of low molecular weight proteins (beta2-microglobulin) or any change in renal function. The event was managed with dose reduction.
 
 ## Bone fracture
 
-In the double -blind phase of the DeFi study, bone fractures were reported in 6% of patients receiving nirogacestat compared with no patients receiving placebo. All reports of bone fracture were non -serious and Grade 1 or 2. The median time to first onset of bone fracture events in patients receiving nirogacestat was 125 days (range 1 to 739 days). Bone fracture events did not lead to dose reduction or treatment discontinuation in any patient receiving nirogacestat.
+In the double-blind phase of the DeFi study, bone fractures were reported in 6% of patients receiving nirogacestat compared with no patients receiving placebo. All reports of bone fracture were non-serious and Grade 1 or 2. The median time to first onset of bone fracture events in patients receiving nirogacestat was 125 days (range 1 to 739 days). Bone fracture events did not lead to dose reduction or treatment discontinuation in any patient receiving nirogacestat.
 
 ## Paediatric population
 
@@ -430,19 +425,19 @@ Pharmacotherapeutic group: Antineoplastic agents, other antineoplastic agents; A
 
 ## Mechanism of action
 
-Nirogacestat is a reversible and non -competitive inhibitor of gamma secretase that blocks proteolytic activation of the Notch receptor.
+Nirogacestat is a reversible and non-competitive inhibitor of gamma secretase that blocks proteolytic activation of the Notch receptor.
 
 ## Cardiac electrophysiology
 
-The effects of nirogacestat concentration on QTc interval prolongation were predicted using a model -based analysis. The 90% confidence intervals for the predicted mean change in QTcF were below 10 msec at the expected Cmax at supratherapeutic doses. Therefore, no clinically significant prolongation in QTcF interval is associated with therapeutic dosing of Ogsiveo.
+The effects of nirogacestat concentration on QTc interval prolongation were predicted using a model-based analysis. The 90% confidence intervals for the predicted mean change in QTcF were below 10 msec at the expected Cmax at supratherapeutic doses. Therefore, no clinically significant prolongation in QTcF interval is associated with therapeutic dosing of Ogsiveo.
 
 ## Clinical efficacy and safety
 
-The DeFi study was an international, multicentre, randomised (1:1), double-blind, placebo -controlled Phase 3 study in adult patients with progressing desmoid tumours. Patients with histologically confirmed desmoid tumours that had progressed by ≥ 20% as measured by RECIST v1.1 within 12 months of screening and where continued progressive disease did not result in immediate significant risk to the patient were eligible. Randomisation was stratified by target tumour location(s) (intra -abdominal or extra -abdominal). Patients with multiple target tumours located both in the intra -and extra -abdominal location were classified as intra -abdominal. Patients received 150 mg nirogacestat or placebo orally twice daily in 28 -day cycles until disease progression, death, or unacceptable toxicity. The primary efficacy measure was progression-free survival (PFS). Progression was determined radiographically using RECIST v1.1 by a blinded, independent central imaging review, or as clinically assessed by the investigator and qualified via blinded, independent, central review, or by death due to any cause. Additional efficacy measures included objective response rate (ORR), change from baseline in pain at Cycle 10, change from baseline in desmoid tumour -specific symptom severity at Cycle 10, change from baseline in role functioning and physical functioning at Cycle 10, and change from baseline in overall quality of life at Cycle 10. Pain was measured by the 7 -day average of item #3 (i.e., worst pain) from the Brief Pain Inventory (BPI) Short Form. Desmoid tumour-specific symptom severity and physical functioning were measured using the GOunder/DTRF DEsmoid Symptom/Impact Scale (GODDESS).
+The DeFi study was an international, multicentre, randomised (1:1), double-blind, placebo-controlled Phase 3 study in adult patients with progressing desmoid tumours. Patients with histologically confirmed desmoid tumours that had progressed by ≥ 20% as measured by RECIST v1.1 within 12 months of screening and where continued progressive disease did not result in immediate significant risk to the patient were eligible. Randomisation was stratified by target tumour location(s) (intra-abdominal or extra-abdominal). Patients with multiple target tumours located both in the intra-and extra-abdominal location were classified as intra-abdominal. Patients received 150 mg nirogacestat or placebo orally twice daily in 28-day cycles until disease progression, death, or unacceptable toxicity. The primary efficacy measure was progression-free survival (PFS). Progression was determined radiographically using RECIST v1.1 by a blinded, independent central imaging review, or as clinically assessed by the investigator and qualified via blinded, independent, central review, or by death due to any cause. Additional efficacy measures included objective response rate (ORR), change from baseline in pain at Cycle 10, change from baseline in desmoid tumour-specific symptom severity at Cycle 10, change from baseline in role functioning and physical functioning at Cycle 10, and change from baseline in overall quality of life at Cycle 10. Pain was measured by the 7-day average of item #3 (i.e., worst pain) from the Brief Pain Inventory (BPI) Short Form. Desmoid tumour-specific symptom severity and physical functioning were measured using the GOunder/DTRF DEsmoid Symptom/Impact Scale (GODDESS).
 
 <div style=\"page-break-after: always\"></div>
 
-A total of 142 patients were randomised: 70 to nirogacestat and 72 to placebo. Overall, the median age was 34 years (range: 18 to 76); 4% were 65 of age or older; 65% were female; race was 83% White, 6% Black, 3% Asian, and 8% other; 73% had an ECOG performance status (PS) of 0, 27% had an ECOG PS of 1, and &lt; 1% had an ECOG PS of 2. Twenty -three percent of patients had intra-abdominal disease or both intra -and extra -abdominal disease, and 77% had only extra -abdominal disease. Forty-one percent of patients had multifocal disease and 59% had single focal disease. Of 105 patients with known somatic tumour mutation status, 81% had a CTNNB1 mutation and 21% had an APC mutation. Seventeen percent of patients had a family history of familial adenomatous polyposis (FAP). Twenty -three percent of the patients had received no prior therapy and 44% had received ≥ 3 prior lines of therapy. Prior therapy included systemic therapy (61%), surgery (53%), and radiotherapy (23%). Thirty -six percent of patients were previously treated with chemotherapy and 33% were previously treated with a tyrosine kinase inhibitor. Fifty percent had a BPI -SF item 3 (worst pain) score of ≥ 2 at baseline.
+A total of 142 patients were randomised: 70 to nirogacestat and 72 to placebo. Overall, the median age was 34 years (range: 18 to 76); 4% were 65 of age or older; 65% were female; race was 83% White, 6% Black, 3% Asian, and 8% other; 73% had an ECOG performance status (PS) of 0, 27% had an ECOG PS of 1, and &lt; 1% had an ECOG PS of 2. Twenty-three percent of patients had intra-abdominal disease or both intra- and extra-abdominal disease, and 77% had only extra-abdominal disease. Forty-one percent of patients had multifocal disease and 59% had single focal disease. Of 105 patients with known somatic tumour mutation status, 81% had a CTNNB1 mutation and 21% had an APC mutation. Seventeen percent of patients had a family history of familial adenomatous polyposis (FAP). Twenty-three percent of the patients had received no prior therapy and 44% had received ≥ 3 prior lines of therapy. Prior therapy included systemic therapy (61%), surgery (53%), and radiotherapy (23%). Thirty-six percent of patients were previously treated with chemotherapy and 33% were previously treated with a tyrosine kinase inhibitor. Fifty percent had a BPI-SF item 3 (worst pain) score of ≥ 2 at baseline.
 
 Efficacy results from the ITT population, which included all randomised patients, are presented below. PFS and ORR improvements were in favour of nirogacestat regardless of baseline characteristics including tumour location and type of prior therapies.
 
@@ -466,13 +461,13 @@ Table 3: Efficacy results in patients with RECIST 1.1 progressing desmoid tumour
 
 Abbreviations: CI: confidence interval; CR: complete response; ORR: objective response rate; PR: partial response; NR: Not Reached Note: Median and 95% confidence intervals were estimated from the Kaplan-Meier method. Due to the low number of events in the nirogacestat arm, the Kaplan-Meier estimate of median time to progression was unable to be estimated.
 
-a Assessed by blinded independent central review.
+a  Assessed by blinded independent central review.
 
 b  Obtained using Kaplan-Meier Methodology.
 
 c  p-value was from a one-sided stratified log-rank test.
 
-d Obtained using exact method based on binomial distribution.
+d  Obtained using exact method based on binomial distribution.
 
 e  p-value was from a two-sided Cochran-Mantel-Haenszel test.
 
@@ -484,7 +479,7 @@ Figure 1: Kaplan-Meier curve of PFS
 
 ## Patient-reported outcomes
 
-PFS results were supported by change from baseline in patient -reported worst pain favouring the nirogacestat arm at Cycle 10 ( -1.6 vs -0.2; LS mean difference: -1.3; 95% confidence interval: -2.1 to -0.6; p &lt; 0.001).
+PFS results were supported by change from baseline in patient-reported worst pain favouring the nirogacestat arm at Cycle 10 (-1.6 vs -0.2; LS mean difference: -1.3; 95% confidence interval: -2.1 to -0.6; p &lt; 0.001).
 
 ## Paediatric population
 
@@ -494,15 +489,15 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Absorption
 
-Peak concentrations of nirogacestat are reached approximately 1.5 hours after oral administration. Nirogacestat absolute bioavailability following oral administration is approximately 19.2% (Range: 16.2% -24.3%).
+Peak concentrations of nirogacestat are reached approximately 1.5 hours after oral administration. Nirogacestat absolute bioavailability following oral administration is approximately 19.2% (Range: 16.2%-24.3%).
 
 ## Distribution
 
-The blood -to -plasma ratio of nirogacestat is estimated to be approximately 0.5 in humans. The serum protein binding is approximately 99.6% in vitro . Nirogacestat is highly bound to both human serum albumin and to α1 acid glycoprotein but with a greater affinity for α1 acid glycoprotein . Based on the population pharmacokinetic analysis, the apparent oral volume of distribution of nirogacestat in desmoid tumour patients was estimated to be 1430 L.
+The blood-to-plasma ratio of nirogacestat is estimated to be approximately 0.5 in humans. The serum protein binding is approximately 99.6% in vitro . Nirogacestat is highly bound to both human serum albumin and to α-1 acid glycoprotein but with a greater affinity for α1 acid glycoprotein. Based on the population pharmacokinetic analysis, the apparent oral volume of distribution of nirogacestat in desmoid tumour patients was estimated to be 1430 L.
 
 ## Biotransformation
 
-Nirogacestat is extensively metabolized mainly by CYP3A4. There is incomplete knowledge of major or active metabolites in vivo due to limitations of detecting non -radiolabelled metabolites. Numerous minor metabolites have been detected in circulation and excreta.
+Nirogacestat is extensively metabolized mainly by CYP3A4. There is incomplete knowledge of major or active metabolites in vivo due to limitations of detecting non-radiolabelled metabolites. Numerous minor metabolites have been detected in circulation and excreta.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -512,17 +507,17 @@ After a single oral dose of radiolabelled nirogacestat in healthy subjects, appr
 
 The population pharmacokinetic analysis in the desmoid tumour population estimates an apparent terminal elimination half-life of about 23 hours. The apparent oral systemic clearance is approximately 45 L/hr.
 
-## Linearity/non -linearity
+## Linearity/non-linearity
 
-Nirogacestat exposure increases with escalating single and repeat doses, with proportional increases over the 50 -150 mg dose range.
+Nirogacestat exposure increases with escalating single and repeat doses, with proportional increases over the 50-150 mg dose range.
 
-Steady -state conditions are achieved by approximately 7 days following repeat administration. The population pharmacokinetic analysis estimates an accumulation ratio of approximately 1.5 in desmoid tumour patients.
+Steady-state conditions are achieved by approximately 7 days following repeat administration. The population pharmacokinetic analysis estimates an accumulation ratio of approximately 1.5 in desmoid tumour patients.
 
 ## Special populations
 
 ## Effects of hepatic impairment
 
-The pharmacokinetics of nirogacestat were evaluated in patients with moderate hepatic impairment (HI) based on Child -Pugh classification. Total nirogacestat exposure (AUC) was not affected by moderate hepatic impairment, but peak exposure (Cmax) was reduced by 28% with a higher volume of distribution and longer half -life.
+The pharmacokinetics of nirogacestat were evaluated in patients with moderate hepatic impairment (HI) based on Child-Pugh classification. Total nirogacestat exposure (AUC) was not affected by moderate hepatic impairment, but peak exposure (Cmax) was reduced by 28% with a higher volume of distribution and longer half-life.
 
 ## Effects of renal impairment
 
@@ -530,17 +525,17 @@ The effects of renal impairment on nirogacestat pharmacokinetics have not been e
 
 ## 5.3 Preclinical safety data
 
-In repeat dose toxicity studies in rats and dogs, most of the toxicities were associated with gamma secretase inhibition. The effects included ovarian atrophy, alterations in the estrous cycle, decreased cellularity in gut -associated lymphoid tissue, and decreased cellularity of mesenteric lymph nodes. In the rat study, growth plate thickening was observed. In addition, all dose levels evaluated in the rat study showed chronic progressive nephropathy, pulmonary phospholipidosis, and salivary gland necrosis in a dose -dependent manner. In the dog study, treatment -related effects were present within the intestines, spleen, gall bladder, liver, kidney, testes, and ovary. The intestinal and liver findings were associated with generalized inflammation and associated clinical pathology changes in most of the dogs. A NOAEL was not identified in the 3-month oral toxicity studies in rats or dogs. The lowest dose in the rat study was 5 mg/kg/day (human equivalent dose 50 mg/day) and in the dog the lowest dose was 2 mg/kg/day (human equivalent dose of 70 mg/day). Systemic exposures were also below the human systemic exposures (AUC) administered 150 mg BID of nirogacestat.
+In repeat dose toxicity studies in rats and dogs, most of the toxicities were associated with gamma secretase inhibition. The effects included ovarian atrophy, alterations in the estrous cycle, decreased cellularity in gut-associated lymphoid tissue, and decreased cellularity of mesenteric lymph nodes. In the rat study, growth plate thickening was observed. In addition, all dose levels evaluated in the rat study showed chronic progressive nephropathy, pulmonary phospholipidosis, and salivary gland necrosis in a dose-dependent manner. In the dog study, treatment-related effects were present within the intestines, spleen, gall bladder, liver, kidney, testes, and ovary. The intestinal and liver findings were associated with generalized inflammation and associated clinical pathology changes in most of the dogs. A NOAEL was not identified in the 3-month oral toxicity studies in rats or dogs. The lowest dose in the rat study was 5 mg/kg/day (human equivalent dose 50 mg/day) and in the dog the lowest dose was 2 mg/kg/day (human equivalent dose of 70 mg/day). Systemic exposures were also below the human systemic exposures (AUC) administered 150 mg BID of nirogacestat.
 
 ## Carcinogenicity
 
-Notch signalling appears to have both an oncogenic and tumour suppressor function. The carcinogenic potential of nirogacestat was evaluated in a 6 -month transgenic rasH2 mice study. At doses up to 100 mg/kg/day an increased incidence of hemangiosarcoma was observed. At 100 mg/kg/day, systemic exposures (AUC) were below (0.2 -fold) those in humans administered 150 mg BID nirogacestat. The carcinogenic potential in rats has not been assessed.
+Notch signalling appears to have both an oncogenic and tumour suppressor function. The carcinogenic potential of nirogacestat was evaluated in a 6-month transgenic rasH2 mice study. At doses up to 100 mg/kg/day an increased incidence of hemangiosarcoma was observed. At 100 mg/kg/day, systemic exposures (AUC) were below (0.2-fold) those in humans administered 150 mg BID nirogacestat. The carcinogenic potential in rats has not been assessed.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Reproductive and developmental toxicity
 
-Nirogacestat reduced fertility indices in both male and female rats, which correlated with ovarian atrophy, reduced testes weights, and decreased sperm motility and effects on sperm morphology. In addition, early embryonic loss occurred in fertility studies. In a preliminary embryo -foetal development study, nirogacestat induced significant and dose -related embryo loss, early resorptions and decreased foetal weights in surviving embryos. These effects occurred at 20 mg/kg/day resulting in systemic exposures below (approximately 0.45 -fold) human exposures after administration of nirogacestat at 150 mg BID (see section 4.4).
+Nirogacestat reduced fertility indices in both male and female rats, which correlated with ovarian atrophy, reduced testes weights, and decreased sperm motility and effects on sperm morphology. In addition, early embryonic loss occurred in fertility studies. In a preliminary embryo-foetal development study, nirogacestat induced significant and dose-related embryo loss, early resorptions and decreased foetal weights in surviving embryos. These effects occurred at 20 mg/kg/day resulting in systemic exposures below (approximately 0.45-fold) human exposures after administration of nirogacestat at 150 mg BID (see section 4.4).
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -552,7 +547,7 @@ Cellulose, microcrystalline Lactose monohydrate Sodium starch glycolate Magnesiu
 
 ## Tablet coating
 
-Macrogol polyvinyl alcohol graft copolymer (E 1209) Talc (E553b) Titanium dioxide (E171) Glycerol monocaprylocaprate type 1/mono/diglycerides (E471) Polyvinyl alcohol -partially hydrolyzed (E1203) FD&amp;C yellow #6/sunset yellow FCF aluminium lake (E110) Iron oxide yellow (E172)
+Macrogol polyvinyl alcohol graft copolymer (E 1209) Talc (E553b) Titanium dioxide (E171) Glycerol monocaprylocaprate type 1/mono/diglycerides (E471) Polyvinyl alcohol - partially hydrolyzed (E1203) FD&amp;C yellow #6/sunset yellow FCF aluminium lake (E110) Iron oxide yellow (E172)
 
 ## 6.2 Incompatibilities
 
@@ -568,11 +563,11 @@ Store below 25°C.
 
 ## 6.5 Nature and contents of container
 
-Ogsiveo 50 mg film -coated tablets
+Ogsiveo 50 mg film-coated tablets
 
 HDPE bottle with child resistant closure and induction seal containing 120 or 180 tablets.
 
-## Ogsiveo 100 mg film -coated tablets Ogsiveo 150 mg film -coated tablets
+## Ogsiveo 100 mg film-coated tablets Ogsiveo 150 mg film-coated tablets
 
 Clear PVC/PVDC blisters with aluminium lidding containing 14 tablets. One pack contains 56 tablets in 4 blisters.
 
@@ -586,7 +581,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam
+Merck Europe B.V.
+
+Gustav Mahlerplein 102
+
+1082 MA Amsterdam
 
 The Netherlands
 
@@ -627,6 +626,10 @@ Name and address of the manufacturer responsible for batch release
 
 MIAS Pharma Limited Suite 1 First Floor, Stafford House Strand Road, Portmarnock D13 WC83 Ireland
 
+Patheon France 40 Boulevard de Champaret 38300 Bourgoin Jallieu France
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to medical prescription.
@@ -652,14 +655,14 @@ An updated RMP should be submitted:
 
 Prior to the launch of Ogsiveo (nirogacestat) in each Member State the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
+<div style=\"page-break-after: always\"></div>
+
 The educational programme is aimed at minimising in utero exposure to Ogsiveo (nirogacestat) and the subsequent potential risk of embryo-foetal toxicity.
 
 The MAH shall ensure that in each Member State where Ogsiveo (nirogacestat) is marketed, all healthcare professionals who are expected to prescribe or patients who are expected to use Ogsiveo (nirogacestat) have access to/are provided with the following educational materials:
 
 - Physician educational material
 - Patient card
-
-<div style=\"page-break-after: always\"></div>
 
 ## Physician educational material:
 
@@ -717,7 +720,7 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ogsiveo 50 mg film -coated tablets
+Ogsiveo 50 mg film-coated tablets
 
 nirogacestat
 
@@ -733,9 +736,9 @@ Contains lactose and sunset yellow FCF (E110). See leaflet for further informati
 
 Film-coated tablet
 
-120 film -coated tablets
+120 film-coated tablets
 
-180 film -coated tablets
+180 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -769,16 +772,14 @@ Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1932/001 120 film - coated tablets EU/1/25/1932/002 180 film - coated tablets
+EU/1/25/1932/001 120 film-coated tablets EU/1/25/1932/002 180 film-coated tablets
 
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Ogsiveo 50 mg
@@ -789,9 +790,7 @@ Ogsiveo 50 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -845,7 +844,10 @@ EXP
 
 Store below 25°.C
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -853,23 +855,17 @@ Merck Europe B.V.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1932/001 120 film - coated tablets EU/1/25/1932/002 180 film - coated tablets
+EU/1/25/1932/001 120 film-coated tablets EU/1/25/1932/002 180 film-coated tablets
 
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -879,7 +875,7 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ogsiveo 100 mg film -coated tablets
+Ogsiveo 100 mg film-coated tablets
 
 nirogacestat
 
@@ -893,9 +889,9 @@ Contains lactose and sunset yellow FCF (E110). See leaflet for further informati
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film -coated tablet
+Film-coated tablet
 
-56 film -coated tablets
+56 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -934,7 +930,6 @@ EU/1/25/1932/003
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -957,7 +952,7 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ogsiveo 100 mg film - coated tablets nirogacestat
+Ogsiveo 100 mg film-coated tablets nirogacestat
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -983,7 +978,7 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ogsiveo 150 mg film -coated tablets
+Ogsiveo 150 mg film-coated tablets
 
 nirogacestat
 
@@ -997,9 +992,9 @@ Contains lactose and sunset yellow FCF (E110). See leaflet for further informati
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film -coated tablet
+Film-coated tablet
 
-56 film -coated tablets
+56 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1038,7 +1033,6 @@ EU/1/25/1932/004
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1053,8 +1047,6 @@ Ogsiveo 150 mg
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
@@ -1063,14 +1055,10 @@ NN
 |-------------------------------------------------------|
 | BLISTERS                                              |
 
-| 5.   | OTHER   |
-|------|---------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Ogsiveo 150 mg film - coated tablets nirogacestat
+Ogsiveo 150 mg film-coated tablets nirogacestat
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1084,7 +1072,10 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1096,7 +1087,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-Ogsiveo 50 mg film -coated tablets Ogsiveo 100 mg film -coated tablets Ogsiveo 150 mg film -coated tablets
+Ogsiveo 50 mg film-coated tablets Ogsiveo 100 mg film-coated tablets Ogsiveo 150 mg film-coated tablets
 
 nirogacestat
 
@@ -1104,10 +1095,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1120,7 +1111,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What Ogsiveo is and what it is used for
 
-Ogsiveo is a medicine that contains the active substance nirogacestat which inhibits a protein called gamma -secretase. Gamma -secretase inhibitors treat cancer by stopping the activity of certain proteins that are involved in the growth of cancer cells.
+Ogsiveo is a medicine that contains the active substance nirogacestat which inhibits a protein called gamma-secretase. Gamma-secretase inhibitors treat cancer by stopping the activity of certain proteins that are involved in the growth of cancer cells.
 
 Ogsiveo is used in adults to treat progressing desmoid tumours (soft tissue tumours that form in fibrous (connective) tissue, usually in the arms, legs or abdomen, that do not spread to other locations). It is used in adults who require treatment with a medicine given by mouth or injection (systemic therapy.
 
@@ -1131,7 +1122,7 @@ Ogsiveo is used in adults to treat progressing desmoid tumours (soft tissue tumo
 - If you are are allergic to nirogacestat or any of the other ingredients of this medicine (listed in section 6).
 - If you are pregnant (see Pregnancy section below)
 - If you are able to become pregnant and are not using highly effective contraception (birth control) (see Contraception in men and women section below).
-- If you are breast -feeding (see Breastfeeding section below).
+- If you are breast-feeding (see Breastfeeding section below).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1158,19 +1149,19 @@ Tell your doctor if you are taking, have recently taken or might take any other 
 
 Tell your doctor or pharmacist if you are taking any of the following medicines:
 
-- Clarithromycin, erythromycin -used to treat bacterial infections
-- Itraconazole, ketoconazole, fluconazole -used to treat serious fungal infections
-- Cyclosporine, tacrolimus -used to prevent transplant rejection
-- Fostamatinib -used to treat low blood platelet count
-- Ritonavir, atazanavir, efavirenz and etravirine -used to treat HIV infections/AIDS
-- Diltiazem -used to treat high blood pressure and chest pain
+- Clarithromycin, erythromycin - used to treat bacterial infections
+- Itraconazole, ketoconazole, fluconazole - used to treat serious fungal infections
+- Cyclosporine, tacrolimus - used to prevent transplant rejection
+- Fostamatinib - used to treat low blood platelet count
+- Ritonavir, atazanavir, efavirenz and etravirine - used to treat HIV infections/AIDS
+- Diltiazem - used to treat high blood pressure and chest pain
 - Hormonal contraceptives agents (birth control medicines) (see Contraception in men and women section below)
-- Rifampicin -used to treat tuberculosis (TB)
-- Carbamazepine, phenytoin, phenobarbital -used to treat epilepsy
-- St. John's wort ( Hypericum perforatum ) -a herbal medicine used for depression
+- Rifampicin - used to treat tuberculosis (TB)
+- Carbamazepine, phenytoin, phenobarbital - used to treat epilepsy
+- St. John's wort ( Hypericum perforatum ) - a herbal medicine used for depression
 - Midazolam used for anaesthesia, sedation or to decrease anxiety
-- Digitoxin, dofetilide -used to treat heart conditions or correct irregular heartbeats
-- Warfarin -used to thin your blood
+- Digitoxin, dofetilide - used to treat heart conditions or correct irregular heartbeats
+- Warfarin - used to thin your blood
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1189,9 +1180,9 @@ Do not take Ogsiveo if you are pregnant. If you can become pregnant, your doctor
 
 If you are a woman who can become pregnant or a man with a partner who can become pregnant, you must use at least one highly effective method of contraception (such as an intrauterine device) or two complementary forms of contraception including a barrier method (such as condoms in combination with spermicide) during treatment with Ogsiveo and for 1 week after the last dose. Talk to your healthcare provider about birth control methods that may be right for you.
 
-## Breast -feeding
+## Breast-feeding
 
-It is not known if Ogsiveo passes into breast milk. Do not breast -feed during treatment with Ogsiveo and for 1 week after the last dose.
+It is not known if Ogsiveo passes into breast milk. Do not breast-feed during treatment with Ogsiveo and for 1 week after the last dose.
 
 ## Fertility
 
@@ -1211,7 +1202,7 @@ Ogsiveo contains lactose. If you have been told by your doctor that you have an 
 
 ## Ogsiveo contains sodium
 
-Each film -coated tablet contains less than 1 mmol (23 mg) sodium (main component of cooking/table salt). This means Ogsiveo is essentially sodium-free.
+Each film-coated tablet contains less than 1 mmol (23 mg) sodium (main component of cooking/table salt). This means Ogsiveo is essentially sodium-free.
 
 ## Ogsiveo contains sunset yellow FCF (E 110)
 
@@ -1315,19 +1306,19 @@ Do not throw away your medicine via wastewater or household waste. Ask your phar
 
 The active substance is nirogacestat (as nirogacestat dihydrobromide).
 
-## Ogsiveo 50 mg film -coated tablets
+## Ogsiveo 50 mg film-coated tablets
 
-Each film -coated tablet contains 50 mg of nirogacestat (as nirogacestat dihydrobromide).
+Each film-coated tablet contains 50 mg of nirogacestat (as nirogacestat dihydrobromide).
 
-## Ogsiveo 100 mg film -coated tablets
+## Ogsiveo 100 mg film-coated tablets
 
-Each film -coated tablet contains 100 mg of nirogacestat (as nirogacestat dihydrobromide).
+Each film-coated tablet contains 100 mg of nirogacestat (as nirogacestat dihydrobromide).
 
 <div style=\"page-break-after: always\"></div>
 
-## Ogsiveo 150 mg film -coated tablets
+## Ogsiveo 150 mg film-coated tablets
 
-Each film -coated tablet contains 150 mg of nirogacestat, (as nirogacestat dihydrobromide).
+Each film-coated tablet contains 150 mg of nirogacestat, (as nirogacestat dihydrobromide).
 
 The other ingredients are:
 
@@ -1339,17 +1330,17 @@ See section 2 'Ogsiveo contains lactose, sodium and sunset yellow'.
 
 ## What Ogsiveo looks like and contents of the pack
 
-## Ogsiveo 50 mg film -coated tablets
+## Ogsiveo 50 mg film-coated tablets
 
 Ogsiveo 50 mg film-coated tablets are round and orange, debossed with '50' on one side, and are 8 mm in diameter. The tablets are supplied in an HDPE bottle with child resistant closure and induction seal containing 120 or 180 tablets.
 
-## Ogsiveo 100 mg film -coated tablets / Ogsiveo 150 mg film -coated tablets
+## Ogsiveo 100 mg film-coated tablets / Ogsiveo 150 mg film-coated tablets
 
-Ogsiveo 100 mg film -coated tablets are round and light orange, debossed with '100' on one side, and are 10 mm in diameter.
+Ogsiveo 100 mg film-coated tablets are round and light orange, debossed with '100' on one side, and are 10 mm in diameter.
 
-Ogsiveo 150 mg film -coated tablets are oval and yellow orange, debossed with '150' on one side, and are 8.5 x 17.5 mm in size.
+Ogsiveo 150 mg film-coated tablets are oval and yellow orange, debossed with '150' on one side, and are 8.5 x 17.5 mm in size.
 
-The tablets are supplied in cartons containing 56 film -coated tablets in clear PVC/PVDC blisters containing 14 tablets per blister.
+The tablets are supplied in cartons containing 56 film-coated tablets in clear PVC/PVDC blisters containing 14 tablets per blister.
 
 Not all pack sizes may be marketed.
 
@@ -1360,6 +1351,8 @@ Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 ## Manufacturer
 
 MIAS Pharma Limited Suite 1 First Floor, Stafford House Strand Road, Portmarnock D13 WC83 Ireland
+
+Patheon France 40 Boulevard de Champaret 38300 Bourgoin Jallieu France
 
 ## This leaflet was last revised in
 

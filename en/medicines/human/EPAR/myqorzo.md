@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-16 12:14:00
+document_datetime: 2026-09-01 16:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/myqorzo.html
 document_name: myqorzo.html
 version: success
-processing_time: 0.1100718
-conversion_datetime: 2026-04-17 15:34:52.20532
+processing_time: 0.1444273
+conversion_datetime: 2026-09-05 10:49:18.203325
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.0
-  docling: 2.89.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Myqorzo
 
@@ -55,7 +55,7 @@ Expand section
 
 Collapse section
 
-## How is Myqorzo used?
+### How is Myqorzo used?
 
 Myqorzo can only be obtained with a prescription and treatment should be started and supervised by a doctor with experience in treating cardiomyopathy.
 
@@ -63,13 +63,13 @@ The medicine is available as tablets to be taken by mouth once a day. Before sta
 
 For more information about using Myqorzo, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Myqorzo work?
+### How does Myqorzo work?
 
 In people with obstructive hypertrophic cardiomyopathy, the heart muscle contracts forcefully and becomes abnormally thick. This can narrow the space through which the blood leaves the heart and reduce blood flow.
 
 The active substance in Myqorzo, aficamten, partly blocks heart myosin, a protein that drives heart contraction. By limiting excessive contraction, the medicine allows the heart to relax more and improves the flow of blood out of the heart. This helps the heart pump blood more effectively and can relieve symptoms of obstructive hypertrophic cardiomyopathy.
 
-## What benefits of Myqorzo have been shown in studies?
+### What benefits of Myqorzo have been shown in studies?
 
 A main study showed that Myqorzo improves the ability to exercise and quality of life of patients with class II or III oHCM and reduces the likelihood that they will need a major heart procedure called septal reduction therapy. This procedure reduces the size of the thickened heart muscle through surgery or by using a catheter (a thin tube passed through an artery into the heart).
 
@@ -79,7 +79,7 @@ After 24 weeks of treatment, fewer patients treated with Myqorzo were considered
 
 Quality of life was measured using the KCCQ-CCS questionnaire that evaluates how heart disease affects a person's symptoms and daily physical activities, with higher scores meaning fewer symptoms and better physical function. After 24 weeks of treatment, about 49% of patients treated with Myqorzo reported an increase of at least 10 points, compared with 27% of patients on placebo. A 10-point increase is considered a meaningful improvement in symptoms and daily activities. Overall, quality-of-life scores improved on average by 11.6 points with Myqorzo, compared with 4.3 points with placebo.
 
-## What are the risks associated with Myqorzo?
+### What are the risks associated with Myqorzo?
 
 For the full list of side effects and restrictions with Myqorzo, see the package leaflet.
 
@@ -87,7 +87,7 @@ The most common side effects with Myqorzo (which may affect up to 1 in 10 people
 
 Myqorzo must not be used in people who are taking certain medicines that affect how Myqorzo is broken down in the body, such as adagrasib (a medicine used to treat certain cancers), more than a single dose of fluconazole (a medicine used to treat fungal infections), rifampicin (an antibiotic used to treat infections like tuberculosis) and St John's wort (an herbal supplement used for depression).
 
-## Why is Myqorzo authorised in the EU?
+### Why is Myqorzo authorised in the EU?
 
 A study showed that Myqorzo helps patients with class II or III obstructive hypertrophic cardiomyopathy exercise and improves their quality of life. Treatment with Myqorzo also reduced the likelihood that patients would need septal reduction therapy, a major heart procedure that carries significant risks. There are some uncertainties about how well Myqorzo works beyond 24 weeks of treatment, and the company will provide further data to confirm the long-term benefits of the medicine.
 
@@ -97,7 +97,7 @@ There are limited data on whether Myqorzo can cause harm to an unborn child or p
 
 The European Medicines Agency therefore decided that Myqorzo's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Myqorzo?
+### What measures are being taken to ensure the safe and effective use of Myqorzo?
 
 The company that markets Myqorzo will provide an information pack for doctors and a patient card for patients. This information pack includes information on the risk of harm to an unborn child and the need to use effective birth control during treatment. They will also highlight the risk of heart failure (when the heart does not pump blood as well as it should), the need for regular heart checks and the importance of seeking medical attention immediately if symptoms such as shortness of breath, chest pain, tiredness, leg swelling or a serious infection occur. Patients are also advised to inform their prescribing doctor before starting, stopping or changing any other medicine.
 
@@ -105,7 +105,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Myqorzo are continuously monitored. Suspected side effects reported with Myqorzo are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Myqorzo
+### Other information about Myqorzo
 
 Myqorzo received a marketing authorisation valid throughout the EU on 12 February 2026.
 
@@ -119,7 +119,7 @@ English (EN) (145.78 KB - PDF)
 
 [View](/en/documents/overview/myqorzo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-567)
+[Other languages (22)](#file-language-dropdown-283)
 
 български (BG) (160.85 KB - PDF)
 
@@ -151,7 +151,7 @@ Deutsch (DE) (151.95 KB - PDF)
 
 [View](/de/documents/overview/myqorzo-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (149.44 KB - PDF)
+eesti (ET) (149.44 KB - PDF)
 
 **First published:** 03/03/2026
 
@@ -181,13 +181,13 @@ italiano (IT) (148.89 KB - PDF)
 
 [View](/it/documents/overview/myqorzo-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (175.27 KB - PDF)
+latviešu (LV) (175.27 KB - PDF)
 
 **First published:** 03/03/2026
 
 [View](/lv/documents/overview/myqorzo-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (159.72 KB - PDF)
+lietuvių (LT) (159.72 KB - PDF)
 
 **First published:** 03/03/2026
 
@@ -241,7 +241,7 @@ slovenščina (SL) (158.7 KB - PDF)
 
 [View](/sl/documents/overview/myqorzo-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (144.86 KB - PDF)
+suomi (FI) (144.86 KB - PDF)
 
 **First published:** 03/03/2026
 
@@ -265,167 +265,168 @@ English (EN) (951.25 KB - PDF)
 
 Myqorzo : EPAR - Product information
 
-English (EN) (414.01 KB - PDF)
+English (EN) (407.74 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/en/documents/product-information/myqorzo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-599)
+[Other languages (24)](#file-language-dropdown-854)
 
-български (BG) (454.65 KB - PDF)
+български (BG) (464.15 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/bg/documents/product-information/myqorzo-epar-product-information_bg.pdf)
 
-español (ES) (441.15 KB - PDF)
+español (ES) (420.31 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/es/documents/product-information/myqorzo-epar-product-information_es.pdf)
 
-čeština (CS) (387.4 KB - PDF)
+čeština (CS) (518.38 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/cs/documents/product-information/myqorzo-epar-product-information_cs.pdf)
 
-dansk (DA) (303.96 KB - PDF)
+dansk (DA) (380.43 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/da/documents/product-information/myqorzo-epar-product-information_da.pdf)
 
-Deutsch (DE) (466.06 KB - PDF)
+Deutsch (DE) (446.59 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/de/documents/product-information/myqorzo-epar-product-information_de.pdf)
 
-eesti keel (ET) (428.27 KB - PDF)
+eesti (ET) (417.46 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/et/documents/product-information/myqorzo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (544.31 KB - PDF)
+ελληνικά (EL) (625.74 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/el/documents/product-information/myqorzo-epar-product-information_el.pdf)
 
-français (FR) (463.06 KB - PDF)
+français (FR) (432.38 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/fr/documents/product-information/myqorzo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (442.2 KB - PDF)
+hrvatski (HR) (440.57 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/hr/documents/product-information/myqorzo-epar-product-information_hr.pdf)
 
-íslenska (IS) (397.55 KB - PDF)
+italiano (IT) (433.02 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
-
-[View](/is/documents/product-information/myqorzo-epar-product-information_is.pdf)
-
-italiano (IT) (429.18 KB - PDF)
-
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/it/documents/product-information/myqorzo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (447.04 KB - PDF)
+latviešu (LV) (580.42 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/lv/documents/product-information/myqorzo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (445.78 KB - PDF)
+lietuvių (LT) (439.31 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/lt/documents/product-information/myqorzo-epar-product-information_lt.pdf)
 
-magyar (HU) (457.89 KB - PDF)
+magyar (HU) (438.6 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/hu/documents/product-information/myqorzo-epar-product-information_hu.pdf)
 
-Malti (MT) (485 KB - PDF)
+Malti (MT) (481.51 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/mt/documents/product-information/myqorzo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (467.84 KB - PDF)
+Nederlands (NL) (449.08 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/nl/documents/product-information/myqorzo-epar-product-information_nl.pdf)
 
-norsk (NO) (438.29 KB - PDF)
+polski (PL) (451.18 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
-
-[View](/no/documents/product-information/myqorzo-epar-product-information_no.pdf)
-
-polski (PL) (452.96 KB - PDF)
-
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/pl/documents/product-information/myqorzo-epar-product-information_pl.pdf)
 
-português (PT) (403.71 KB - PDF)
+português (PT) (372.52 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/pt/documents/product-information/myqorzo-epar-product-information_pt.pdf)
 
-română (RO) (450.85 KB - PDF)
+română (RO) (439.68 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/ro/documents/product-information/myqorzo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (500.17 KB - PDF)
+slovenčina (SK) (449.88 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/sk/documents/product-information/myqorzo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (438.6 KB - PDF)
+slovenščina (SL) (435.3 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/sl/documents/product-information/myqorzo-epar-product-information_sl.pdf)
 
-Suomi (FI) (447.1 KB - PDF)
+suomi (FI) (422.24 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/fi/documents/product-information/myqorzo-epar-product-information_fi.pdf)
 
-svenska (SV) (455.92 KB - PDF)
+svenska (SV) (438.23 KB - PDF)
 
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
 
 [View](/sv/documents/product-information/myqorzo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000335614
+Íslenska (IS) (368.88 KB - PDF)
 
-15/04/2026
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
+
+[View](/is/documents/product-information/myqorzo-epar-product-information_is.pdf)
+
+norsk (NO) (427.5 KB - PDF)
+
+**First published:** 03/03/2026 **Last updated:** 01/09/2026
+
+[View](/no/documents/product-information/myqorzo-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000355089
+
+01/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -443,7 +444,7 @@ English (EN) (43.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/myqorzo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-921)
+[Other languages (24)](#file-language-dropdown-960)
 
 български (BG) (48.87 KB - PDF)
 
@@ -475,7 +476,7 @@ Deutsch (DE) (43.67 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/myqorzo-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (42.4 KB - PDF)
+eesti (ET) (42.4 KB - PDF)
 
 **First published:** 03/03/2026 **Last updated:** 16/04/2026
 
@@ -499,25 +500,19 @@ hrvatski (HR) (43.58 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/myqorzo-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (44.56 KB - PDF)
-
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
-
-[View](/is/documents/all-authorised-presentations/myqorzo-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (43.48 KB - PDF)
 
 **First published:** 03/03/2026 **Last updated:** 16/04/2026
 
 [View](/it/documents/all-authorised-presentations/myqorzo-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (45.56 KB - PDF)
+latviešu (LV) (45.56 KB - PDF)
 
 **First published:** 03/03/2026 **Last updated:** 16/04/2026
 
 [View](/lv/documents/all-authorised-presentations/myqorzo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (45.68 KB - PDF)
+lietuvių (LT) (45.68 KB - PDF)
 
 **First published:** 03/03/2026 **Last updated:** 16/04/2026
 
@@ -540,12 +535,6 @@ Nederlands (NL) (42.13 KB - PDF)
 **First published:** 03/03/2026 **Last updated:** 16/04/2026
 
 [View](/nl/documents/all-authorised-presentations/myqorzo-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (44.35 KB - PDF)
-
-**First published:** 03/03/2026 **Last updated:** 16/04/2026
-
-[View](/no/documents/all-authorised-presentations/myqorzo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (44.96 KB - PDF)
 
@@ -577,7 +566,7 @@ slovenščina (SL) (44.27 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/myqorzo-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (42.39 KB - PDF)
+suomi (FI) (42.39 KB - PDF)
 
 **First published:** 03/03/2026 **Last updated:** 16/04/2026
 
@@ -589,23 +578,28 @@ svenska (SV) (42.02 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/myqorzo-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (44.56 KB - PDF)
+
+**First published:** 03/03/2026 **Last updated:** 16/04/2026
+
+[View](/is/documents/all-authorised-presentations/myqorzo-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (44.35 KB - PDF)
+
+**First published:** 03/03/2026 **Last updated:** 16/04/2026
+
+[View](/no/documents/all-authorised-presentations/myqorzo-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Myqorzo
-
-Active substance
-
-aficamten
-
-International non-proprietary name (INN) or common name
-
-aficamten
-
-Therapeutic area (MeSH)
-
-Cardiomyopathy, Hypertrophic
+- **Name of medicine**
+    - Myqorzo
+- **Active substance**
+    - aficamten
+- **International non-proprietary name (INN) or common name**
+    - aficamten
+- **Therapeutic area (MeSH)**
+    - Cardiomyopathy, Hypertrophic
 
 ### Therapeutic indication
 
@@ -613,31 +607,18 @@ Myqorzo is indicated for the treatment of symptomatic (New York Heart Associatio
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006228
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Cytokinetics (Ireland) Limited
-
-2nd Floor Palmerston House Denzille Lane Dublin 2 D02 WD37 Ireland
-
-Opinion adopted
-
-11/12/2025
-
-Marketing authorisation issued
-
-12/02/2026
-
-Revision
-
-1
+- **EMA product number**
+    - EMEA/H/C/006228
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Cytokinetics (Ireland) Limited 2nd Floor  Palmerston House  Denzille Lane  Dublin 2  D02 WD37  Ireland
+- **Opinion adopted**
+    - 11/12/2025
+- **Marketing authorisation issued**
+    - 12/02/2026
+- **Revision**
+    - 2
 
 ## Assessment history
 
@@ -645,17 +626,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Myqorzo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.6 KB - PDF)
+English (EN) (141.81 KB - PDF)
 
-**First published:** 16/04/2026
+**First published:** 16/04/2026 **Last updated:** 01/09/2026
 
 [View](/en/documents/procedural-steps-after/myqorzo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Myqorzo : EPAR - Public assessment report
 
@@ -685,6 +666,6 @@ English (EN) (153.95 KB - PDF)
 
 **This page was last updated on**
 
-16/04/2026
+01/09/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-03 15:33:08
-document_pages: 33
+document_datetime: 2026-09-02 10:38:16
+document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lokelma-epar-product-information_en.pdf
 document_name: lokelma-epar-product-information_en.pdf
 version: success
-processing_time: 8.5204348
-conversion_datetime: 2025-12-28 08:59:10.662793
+processing_time: 7.1084657
+conversion_datetime: 2026-09-05 10:37:39.113383
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -132,9 +132,7 @@ The risk for intestinal perforation with the use of Lokelma is currently unknown
 
 ## Sodium content
 
-This medicinal product contains approximately 400 mg sodium per 5 g dose, equivalent to 20% of the
-
-WHO recommended maximum daily intake of 2 g sodium for an adult.
+This medicinal product contains approximately 400 mg sodium per 5 g dose, equivalent to 20% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 Lokelma is considered high in sodium. This should be particularly taken into account for those on a low salt diet.
 
@@ -148,11 +146,9 @@ As sodium zirconium cyclosilicate is not absorbed or metabolised by the body, th
 
 As sodium zirconium cyclosilicate is not absorbed or metabolised by the body, and does not meaningfully bind other medicinal products, there are limited effects on other medicinal products. Sodium zirconium cyclosilicate can transiently increase gastric pH by absorbing hydrogen ions and can lead to changes in solubility and absorption kinetics for co-administered medicinal products with pH-dependent bioavailability. In a clinical drug-drug interaction study conducted in healthy subjects co-administration of sodium zirconium cyclosilicate with amlodipine, clopidogrel, atorvastatin, furosemide, glipizide, warfarin, losartan or levothyroxine did not result in clinically meaningful drugdrug interactions. Consistent with co-administration of dabigatran with other gastric acid modifiers, dabigatran Cmax and AUC values were approximately 40% lower when co-administered with sodium zirconium cyclosilicate. No dose adjustments or separation of time of dosing are required for any of these medicinal products. However, sodium zirconium cyclosilicate should be administered at least 2 hours before or 2 hours after oral medicinal products with clinically meaningful gastric pH dependent bioavailability.
 
-Examples of medicinal products that should be administered 2 hours before or after sodium zirconium cyclosilicate to avoid possible raised gastric pH drug interaction are azole antifungals (ketoconazole, itraconazole and posaconazole), anti-HIV agents (atazanavir, nelfinavir, indinavir, ritonavir,
+Examples of medicinal products that should be administered 2 hours before or after sodium zirconium cyclosilicate to avoid possible raised gastric pH drug interaction are azole antifungals (ketoconazole, itraconazole and posaconazole), anti-HIV agents (atazanavir, nelfinavir, indinavir, ritonavir, saquinavir, raltegravir, ledipasvir and rilpivirine) and tyrosine kinase inhibitors (erlotinib, dasatinib and nilotinib).
 
 <div style=\"page-break-after: always\"></div>
-
-saquinavir, raltegravir, ledipasvir and rilpivirine) and tyrosine kinase inhibitors (erlotinib, dasatinib and nilotinib).
 
 Sodium zirconium cyclosilicate can be co-administered without spacing of dosing times with oral medicinal products that do not exhibit pH-dependent bioavailability.
 
@@ -186,17 +182,15 @@ In 2 clinical trials with open label exposure of Lokelma up to 1 year in 874 sub
 
 In clinical studies conducted in countries with a predominantly Asian population, constipation with an estimated frequency of 8.9% occurred in non-dialysis patients receiving Lokelma; and was resolved with dose adjustment or treatment discontinuation.
 
-In a pooled analysis of three placebo-controlled clinical studies of Lokelma in non-dialysis patients, some patients with pre-existing heart failure experienced worsening of heart failure, which occurred at
+In a pooled analysis of three placebo-controlled clinical studies of Lokelma in non-dialysis patients, some patients with pre-existing heart failure experienced worsening of heart failure, which occurred at a frequency of 13.6% (30/220) on Lokelma and 5.7% (12/209) on placebo. Most cases resolved with appropriate clinical management without withdrawing Lokelma (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-a frequency of 13.6% (30/220) on Lokelma and 5.7% (12/209) on placebo. Most cases resolved with appropriate clinical management without withdrawing Lokelma (see section 4.4).
 
 ## Tabulated list of adverse reactions
 
 The safety profile of Lokelma was evaluated in clinical trials involving 1 760 patients with 507 patients exposed for one year.
 
-The adverse reactions identified from controlled trials and post-marketing reports are shown in Table 1. Adverse reactions listed below are classified according to frequency and system organ class (SOC). The following convention was used for frequency of adver se reactions: Very common (≥ 1/10); Common (≥ 1/100  to  &lt; 1/10);  Uncommon  (≥ 1/1 000  to  &lt; 1/100);  Rare  (≥ 1/10 000  to  &lt; 1/1 000);  Very  rare (&lt; 1/10 000); not known (cannot be estimated from the available data).
+The adverse reactions identified from controlled trials and post-marketing reports are shown in Table 1. Adverse reactions listed below are classified according to frequency and system organ class (SOC). The following convention was used for frequency of adverse reactions: Very common (≥ 1/10); Common (≥ 1/100  to  &lt; 1/10);  Uncommon  (≥ 1/1 000  to  &lt; 1/100);  Rare  (≥ 1/10 000  to  &lt; 1/1 000);  Very  rare (&lt; 1/10 000); not known (cannot be estimated from the available data).
 
 Table 1. List of adverse reactions in clinical trials and post-marketing reports
 
@@ -267,7 +261,7 @@ Table 2. Correction phase (Study 1): Percentage of normokalaemic subjects after 
 |                                  | Placebo                            | 1.25 g                             | 2.5 g                              | 5 g                                | 10 g                               |
 | N                                | 158                                | 154                                | 141                                | 157                                | 143                                |
 | Baseline serum potassium, mmol/L | 5.3                                | 5.4                                | 5.4                                | 5.3                                | 5.3                                |
-| Normokalaemic at 48 hours,%      | 48                                 | 51                                 | 68                                 | 78                                 | 86                                 |
+| Normokalaemic at 48 hours, %     | 48                                 | 51                                 | 68                                 | 78                                 | 86                                 |
 | p-value vs. placebo              |                                    | NS                                 | < 0.001                            | < 0.001                            | < 0.001                            |
 
 NS: not significant
@@ -293,11 +287,9 @@ At the end of the maintenance period, when Lokelma was no longer administered, a
 
 ## Study 2
 
-A multi-phase, placebo-controlled maintenance study with an additional open-label phase In the correction phase of the study, 258 patients with hyperkalaemia (baseline average 5.6, range 4.1 - 7.2 mmol/L) received 10 g of Lokelma administered three times daily for 48 hours. Reductions in
+A multi-phase, placebo-controlled maintenance study with an additional open-label phase In the correction phase of the study, 258 patients with hyperkalaemia (baseline average 5.6, range 4.1 - 7.2 mmol/L) received 10 g of Lokelma administered three times daily for 48 hours. Reductions in potassium were observed 1 hour after the first 10 g dose of Lokelma. Median time to normokalaemia was 2.2 hours with 66% of patients achieving normokalaemia at 24 hours and 88% at 48 hours. Responses were larger in patients with more severe hyperkalaemia; serum potassium fell 0.8, 1.2 and 1.5 mmol/L in patients with baseline serum potassium &lt; 5.5, 5.5-5.9 and ≥ 6 mmol/L, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-potassium were observed 1 hour after the first 10 g dose of Lokelma. Median time to normokalaemia was 2.2 hours with 66% of patients achieving normokalaemia at 24 hours and 88% at 48 hours. Responses were larger in patients with more severe hyperkalaemia; serum potassium fell 0.8, 1.2 and 1.5 mmol/L in patients with baseline serum potassium &lt; 5.5, 5.55.9 and ≥ 6 mmol/L, respectively.
 
 Patients who achieved normokalaemia (potassium levels between 3.5 and 5 mmol/L) were randomised in a double-blind fashion to one of three doses of Lokelma [5 g (n=45), 10 g (n=51), or 15 g (n=56)] or placebo (n=85) administered once daily for 28 days (the double-blind randomised withdrawal phase).
 
@@ -329,15 +321,15 @@ This study was a double-blind placebo-controlled dose-escalating study in 90 pat
 
 ## A two-phase, multicenter, multi-dose, open-label safety and efficacy study
 
-The long term (up to 12 months) effects of Lokelma were assessed in this study in 751 subjects with hyperkalaemia (baseline average 5.59 mmol/L; range 4.3-7.6 mmol/L). Comorbid conditions included chronic kidney disease (65%), diabetes mellitus (64%), heart failure (15%) and hypertension (83%). Use of diuretics and RAAS inhibitors was reported by 51 and 70% of subjects, respectively. During the correction phase, 10 g of Lokelma was administered three times daily for at least 24 hours and up to 72 hours. Subjects who achieved normokalaemia (3.5-5.0 mmol/L, inclusive) within 72 hours entered the maintenance phase of the study. All subjects in the maintenance phase received Lokelma at a starting dose of 5 g once daily which could be increased in increments of 5 g once daily (to a
+The long term (up to 12 months) effects of Lokelma were assessed in this study in 751 subjects with hyperkalaemia (baseline average 5.59 mmol/L; range 4.3-7.6 mmol/L). Comorbid conditions included chronic kidney disease (65%), diabetes mellitus (64%), heart failure (15%) and hypertension (83%). Use of diuretics and RAAS inhibitors was reported by 51 and 70% of subjects, respectively. During the correction phase, 10 g of Lokelma was administered three times daily for at least 24 hours and up to 72 hours. Subjects who achieved normokalaemia (3.5-5.0 mmol/L, inclusive) within 72 hours entered the maintenance phase of the study. All subjects in the maintenance phase received Lokelma at a starting dose of 5 g once daily which could be increased in increments of 5 g once daily (to a maximum of 15 g once daily) or decreased (to a minimum of 5 g once every other day) based upon the titration regimen.
 
 <div style=\"page-break-after: always\"></div>
 
-maximum of 15 g once daily) or decreased (to a minimum of 5 g once every other day) based upon the titration regimen.
-
 Normokalaemia was achieved in 494/748 (66%), 563/748 (75%) and 583/748 (78%) of subjects after 24, 48 and 72 hours of correction phase dosing with an average reduction in serum potassium of 0.81 mmol/L, 1.02 mmol/L and 1.10 mmol/L at 24 (n=748), 48 (n=104) and 72 (n=28) hours, respectively. Normokalaemia was dependent on baseline potassium concentration, with subjects with the highest baseline serum potassium concentrations having the most prominent decrease after starting the study drug but with the lowest proportion of subjects achieving normokalaemia. One hundred and twenty-six patients had a baseline serum potassium ≥ 6.0 mmol/L (mean baseline potassium 6.28 mmol/L). These subjects had a mean reduction of 1.37 mmol/L at the end of the correction phase.
 
-Table 4. Correction phase (Study 4): proportion of subjects with serum potassium concentrations between 3.5 and 5.0 mmol/L, inclusive, or between 3.5 and 5.5 mmol/L, inclusive, by correction phase study day ITT population
+Table 4. Correction phase (Study 4): proportion of subjects with serum potassium concentrations between 3.5 and 5.0 mmol/L, inclusive, or between 3.5 and 5.5 mmol/L, inclusive, by correction phase study day -
+
+ITT population
 
 |                        | Lokelma 10 g three times daily (N=749)       | Lokelma 10 g three times daily (N=749)       | Lokelma 10 g three times daily (N=749)       | Lokelma 10 g three times daily (N=749)       | Lokelma 10 g three times daily (N=749)       | Lokelma 10 g three times daily (N=749)       |
 |------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
@@ -359,9 +351,7 @@ Figure 2: Correction and maintenance phases in 12-month open-label study (Study 
 
 <!-- image -->
 
-CPBL=Correction Phase Baseline, MPBL=Maintenance Phase Baseline
-
-Exit=Last Visit within 1 day of Last Dose, EOS=End of Study (7 days +/- 1 day after Last Dose)
+CPBL=Correction Phase Baseline, MPBL=Maintenance Phase Baseline Exit=Last Visit within 1 day of Last Dose, EOS=End of Study (7 days +/- 1 day after Last Dose)
 
 ## Study 5
 
@@ -393,21 +383,21 @@ The study was terminated prematurely during the Covid-19 pandemic due to recruit
 
 ## Study 7 - REALIZE-K
 
-This was a Phase 4, prospective, double-blind, randomised-withdrawal trial aimed to determine the efficacy and safety of Lokelma in optimising MRA therapy in patients with heart failure with reduced ejection fraction. The primary endpoint was the occurrence of optimal response, defined as the composite of serum potassium in the normal range (3.5-5.0 mmol/L ), on a spironolactone dose of ≥25 mg/daily, without the need of rescue therapy for hyperkalaemia.
+This was a Phase 4, prospective, double-blind, randomised-withdrawal trial aimed to determine the efficacy and safety of Lokelma in optimising MRA therapy in patients with heart failure with reduced ejection fraction. The primary endpoint was the occurrence of optimal response, defined as the composite of serum potassium in the normal range (3.5-5.0 mmol/L), on a spironolactone dose of ≥25 mg/daily, without the need of rescue therapy for hyperkalaemia.
 
 <div style=\"page-break-after: always\"></div>
 
-This study enrolled adults with established heart failure diagnosis ≥ 3 months duration, LVEF ≤40% with NYHA Class II-IV symptoms who were receiving treatment with an ACEi/ARB/ARNI and a betaadrenergic receptor blocker (unless contraindicated) at stable dose for ≥4 weeks. Participation was permitted for those untreated with a MRA and those receiving spironolactone or eplerenone &lt;25 mg once daily.
+This study enrolled adults with established heart failure diagnosis ≥ 3 months duration, LVEF ≤40% with NYHA Class II-IV symptoms who were receiving treatment with an ACEi/ARB/ARNI and a beta-adrenergic receptor blocker (unless contraindicated) at stable dose for ≥4 weeks. Participation was permitted for those untreated with a MRA and those receiving spironolactone or eplerenone &lt;25 mg once daily.
 
-Patients were screened and entered an open label run in phase with two cohorts. Cohort 1 included patients who had evidence of prevalent hyperkalaemia (defined as serum potassium 5.1-5.9 mmol/L) and eGFR ≥30 mL/min/1.73 m 2 . Patients in this cohort received Lokelma to correct potassium to normal range, after which spironolactone was initiated or up-titrated per protocol. Cohort 2 included patients who were at high risk for hyperkalaemia (defined as either a history of serum potassium &gt;5.0 mmol/L within the prior 36 month and eGFR ≥ 30 mL/min/1.73 m 2  OR serum potassium 4.5-5.0 mmol/L with eGFR 30-60 mL/min/1.73m 2  OR serum potassium 4.5-5.0 mmol/L and age &gt;75 years. These patients had spironolactone initiated or up-titrated towards the target dose; those developing hyperkalaemia received Lokelma to correct potassium to normal range, while those who failed to become hyperkalaemic within 4 weeks were discontinued from the study.
+Patients were screened and entered an open label run in phase with two cohorts. Cohort 1 included patients who had evidence of prevalent hyperkalaemia (defined as serum potassium 5.1-5.9 mmol/L) and eGFR ≥30 mL/min/1.73 m 2 . Patients in this cohort received Lokelma to correct potassium to normal range, after which spironolactone was initiated or up-titrated per protocol. Cohort 2 included patients who were at high risk for hyperkalaemia (defined as either a history of serum potassium &gt;5.0 mmol/L within the prior 36 month and eGFR  ≥30 mL/min/1.73 m 2  OR serum potassium 4.5-5.0 mmol/L with eGFR 30-60 mL/min/1.73m 2  OR serum potassium 4.5-5.0 mmol/L and age &gt;75 years. These patients had spironolactone initiated or up-titrated towards the target dose; those developing hyperkalaemia received Lokelma to correct potassium to normal range, while those who failed to become hyperkalaemic within 4 weeks were discontinued from the study.
 
-In this trial, use of Lokelma led to a greater occurrence of optimal response for the primary endpoint compared with placebo (OR 4.45 [95% CI 2.89-6.86], p&lt;0.001, estimated percentages 71% vs 36%). These results were consistent when patients receiving 15 g of Lokelma at randomisation were excluded from the analysis. Lokelma also improved  secondary endpoints vs placebo: the occurrence of normokalaemia on the randomised dose of spironolactone and without rescue therapy for hyperkalaemia (HK) (OR 4.58 [95% CI 2.78-7.55], p&lt;0.001; estimated percentages 58% vs 23%); the occurrence of spironolactone ≥ 25 mg/daily dose (OR 4.33 [95% CI 2.50-7.52], p&lt;0.001; estimated percentages 81% vs 50%); time to first HK episode (serum K +  &gt;5.0 mmol/L) (HR 0.51 [95% CI 0.370.71], p&lt;0.001); and time to first decrease or discontinuation of spironolactone dose due to HK (HR 0.37 [95% CI 0.17-0.73], p=0.006).
+In this trial, use of Lokelma led to a greater occurrence of optimal response for the primary endpoint compared with placebo (OR 4.45 [95% CI 2.89-6.86], p&lt;0.001, estimated percentages 71% vs 36%). These results were consistent when patients receiving 15 g of Lokelma at randomisation were excluded from the analysis. Lokelma also improved  secondary endpoints vs placebo: the occurrence of normokalaemia on the randomised dose of spironolactone and without rescue therapy for hyperkalaemia (HK) (OR 4.58 [95% CI 2.78-7.55], p&lt;0.001; estimated percentages 58% vs 23%); the occurrence of spironolactone ≥25 mg/daily dose (OR 4.33 [95% CI 2.50-7.52], p&lt;0.001; estimated percentages 81% vs 50%); time to first HK episode (serum K +  &gt;5.0 mmol/L) (HR 0.51 [95% CI 0.370.71], p&lt;0.001); and time to first decrease or discontinuation of spironolactone dose due to HK (HR 0.37 [95% CI 0.17-0.73], p=0.006).
 
 ## Study 8 - STABILIZE-CKD
 
 This was a Phase 3, randomised withdrawal, double-blind, parallel-group, placebo-controlled study aimed to assess whether Lokelma, as an adjunct to ACEi/ARB therapy, is superior to placebo in slowing Chronic kidney disease (CKD) progression over time in patients with hyperkalaemia or at risk of hyperkalaemia. Co-primary endpoints were eGFR total slope (from randomisation to end of treatment) and eGFR chronic slope (from 12 weeks after randomisation to end of treatment).
 
-The study enrolled patients with eGFR 25-59 mL/min/1.73 m 2 , urine albumin-to-creatinine ratio (uACR) 2005000 mg/g, and hyperkalaemia (serum potassium [sK+] &gt;5.0 to ≤6.5 mmol/L) on adequate/limited ACEi/ARB therapy or normokalaemia on limited ACEi/ARB therapy. Patients with NYHA class III to IV congestive heart failure at the time of screening or previous history of severe or symptomatic heart failure were excluded from the study.
+The study enrolled patients with eGFR 25-59 mL/min/1.73 m 2 , urine albumin-to-creatinine ratio (uACR) 200-5000 mg/g, and hyperkalaemia (serum potassium [sK+] &gt;5.0 to ≤6.5 mmol/L) on adequate/limited ACEi/ARB therapy or normokalaemia on limited ACEi/ARB therapy. Patients with NYHA class III to IV congestive heart failure at the time of screening or previous history of severe or symptomatic heart failure were excluded from the study.
 
 The study included a screening period, an initiation phase (with up to 72 hr open-label Lokelma for the participants to maintain or achieve normokalaemia), a 3-month run-in phase (where lisinopril or valsartan were expected to be up-titrated to maximal tolerated doses under open-label Lokelma potassium management), an originally planned 24-month randomised blinded maintenance phase (1:1 blinded Lokelma or matching placebo, and both lisinopril or valsartan and Lokelma/placebo were titrated and monitored for efficacy and safety assessments), and a follow-up visit.
 
@@ -457,7 +447,7 @@ This medicinal product does not require any special storage conditions.
 
 5 or 10 g of powder in sachets made of a PET/alu/LLDPE or PET/LDPE/alu/EAA/LLDPE laminate
 
-Pack sizes: 3 or 30 sachets
+Pack sizes: 3, 30, or Multipack containing 90 (3 packs of 30) sachets
 
 Not all pack sizes may be marketed.
 
@@ -473,9 +463,9 @@ AstraZeneca AB SE-151 85 Södertälje Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/17/1173/001 EU/1/17/1173/002 EU/1/17/1173/003 EU/1/17/1173/004 EU/1/17/1173/007 EU/1/17/1173/009 EU/1/17/1173/010
+EU/1/17/1173/001 EU/1/17/1173/002 EU/1/17/1173/003 EU/1/17/1173/004 EU/1/17/1173/007 EU/1/17/1173/009 EU/1/17/1173/010 EU/1/17/1173/012
 
-EU/1/17/1173/012
+EU/1/17/1173/013
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -485,7 +475,7 @@ Date of latest renewal: 15 February 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -503,9 +493,13 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer responsible for batch release SE-152 57 Södertälje
+Name and address of the manufacturer responsible for batch release
 
-AstraZeneca AB Gärtunavägen Sweden
+AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
+
+AstraZeneca AB Karlebyhusentren Astraallen, SE-152 57 Södertälje Sweden
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -515,7 +509,7 @@ Medicinal product subject to medical prescription.
 
 - Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c (7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -550,9 +544,7 @@ Lokelma 5 g powder for oral suspension sodium zirconium cyclosilicate
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each sachet contains 5 g of sodium zirconium cyclosilicate.
-
-High in sodium - see leaflet for further information.
+Each sachet contains 5 g of sodium zirconium cyclosilicate. High in sodium - see leaflet for further information.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -588,15 +580,13 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB
-
 SE-151 85 Södertälje
 
-Sweden
+AstraZeneca AB Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-## PET/alu/LLDPE sachets
+PET/alu/LLDPE sachets
 
 EU/1/17/1173/001    3 sachets EU/1/17/1173/002   30 sachets
 
@@ -628,9 +618,151 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-SACHET
+## OUTER CARTON FOR SACHETS MULTIPACK - WITH BLUE BOX
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lokelma 5 g powder for oral suspension sodium zirconium cyclosilicate
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each sachet contains 5 g of sodium zirconium cyclosilicate.
+
+High in sodium - see leaflet for further information.
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder for oral suspension.
+
+Multipack: 90 (3 packs of 30) sachets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
+8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+AstraZeneca AB SE-151 85 Södertälje Sweden
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/17/1173/013    Multipack: 90 (3 packs of 30) sachets
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+lokelma 5 g
+
+## 17.UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18.UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## INNER CARTON FOR SACHETS MULTIPACK - WITHOUT BLUE BOX
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lokelma 5 g powder for oral suspension sodium zirconium cyclosilicate
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each sachet contains 5 g of sodium zirconium cyclosilicate. High in sodium - see leaflet for further information.
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder for oral suspension.
+
+30 sachets. Component of a multipack, can't be sold separately.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+AstraZeneca AB SE-151 85 Södertälje Sweden
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/17/1173/013    Multipack: 90 (3 packs of 30) sachets
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+lokelma 5 g
+
+## 17.UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18.UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SACHET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -653,6 +785,8 @@ Lot
 Each sachet contains 5 g.
 
 ## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 AstraZeneca
 
@@ -704,15 +838,13 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB
-
 SE-151 85 Södertälje
 
-Sweden
+AstraZeneca AB Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-PET/alu/LLDPE sachets
+## PET/alu/LLDPE sachets
 
 EU/1/17/1173/003    3 sachets EU/1/17/1173/004   30 sachets
 
@@ -730,11 +862,11 @@ Lot
 
 lokelma 10 g
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -774,9 +906,9 @@ AstraZeneca
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package Leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Lokelma 5 g powder for oral suspension Lokelma 10 g powder for oral suspension
 
@@ -784,10 +916,10 @@ sodium zirconium cyclosilicate
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -975,27 +1107,23 @@ The powder for oral suspension is a white to grey powder. It comes in a sachet.
 
 Lokelma 5 g powder for oral suspension Each sachet contains 5 g of powder.
 
-Lokelma 10 g powder for oral suspension
+Lokelma 10 g powder for oral suspension Each sachet contains 10 g of powder.
 
-Each sachet contains 10 g of powder.
-
-The sachets are supplied in a carton containing 3 or 30 sachets.
+The sachets are supplied in a carton containing 3, 30, or Multipack containing 90 (3 packs of 30) sachets.
 
 Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-AstraZeneca AB
-
 <div style=\"page-break-after: always\"></div>
 
-## SE-151 85 Södertälje
-
-Sweden
+AstraZeneca AB SE-151 85 Södertälje Sweden
 
 ## Manufacturer
 
 AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
+
+AstraZeneca AB Karlebyhusentren Astraallen, SE-152 57 Södertälje Sweden
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1005,39 +1133,21 @@ AstraZeneca S.A./N.V.
 
 Tel: +32 2 370 48 11
 
-## Lietuva
-
-UAB AstraZeneca Lietuva
-
-Tel: +370 5 2660550
-
 ## България
 
 АстраЗенека България ЕООД
 
 Тел.: +359 24455000
 
-## Luxembourg/Luxemburg
-
-AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
-
 ## Česká republika
 
-AstraZeneca Czech Republic s.r.o. Tel: +420 222 807 111
+AstraZeneca Czech Republic s.r.o.
 
-## Magyarország
-
-AstraZeneca Kft. Tel.: +36 1 883 6500
+Tel: +420 222 807 111
 
 ## Danmark
 
-AstraZeneca A/S
-
-Tlf.: +45 43 66 64 62
-
-## Malta
-
-Associated Drug Co. Ltd Tel: +356 2277 8000
+AstraZeneca A/S Tlf.: +45 43 66 64 62
 
 ## Deutschland
 
@@ -1045,17 +1155,57 @@ AstraZeneca GmbH
 
 Tel: +49 40 809034100
 
-## Nederland
-
-AstraZeneca BV
-
-Tel: +31 85 808 9900
-
 ## Eesti
 
 AstraZeneca
 
 Tel: +372 6549 600
+
+## Ελλάδα
+
+AstraZeneca A.E.
+
+Τηλ: +30 210 6871500
+
+## España
+
+AstraZeneca Farmacéutica Spain, S.A.
+
+Tel: +34 91 301 91 00
+
+## France
+
+AstraZeneca
+
+Tél: +33 1 41 29 40 00
+
+## Hrvatska
+
+AstraZeneca d.o.o.
+
+## Lietuva
+
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
+
+## Luxembourg/Luxemburg
+
+AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
+
+## Magyarország
+
+AstraZeneca Kft. Tel.: +36 1 883 6500
+
+## Malta
+
+Associated Drug Co. Ltd
+
+Tel: +356 2277 8000
+
+## Nederland
+
+AstraZeneca BV
+
+Tel: +31 85 808 9900
 
 ## Norge
 
@@ -1063,51 +1213,33 @@ AstraZeneca AS
 
 Tlf: +47 21 00 64 00
 
-## Ελλάδα
-
-AstraZeneca A.E.
-
-Τηλ:
-
-+30 210 6871500
-
 ## Österreich
 
-AstraZeneca Österreich GmbH Tel: +43 1 711 31 0
+AstraZeneca Österreich GmbH
 
-## España
-
-AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
+Tel: +43 1 711 31 0
 
 ## Polska
 
 AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
 
-## France
-
-AstraZeneca Tél: +33 1 41 29 40 00
-
 ## Portugal
 
 AstraZeneca Produtos Farmacêuticos, Lda. Tel: +351 21 434 61 00
 
-## Hrvatska
-
-AstraZeneca d.o.o. Tel: +385 1 4628 000
-
 ## România
 
-AstraZeneca Pharma SRL Tel: +40 21 317 60 41
+AstraZeneca Pharma SRL
+
+<div style=\"page-break-after: always\"></div>
+
+Tel: +385 1 4628 000
+
+Tel: +40 21 317 60 41
 
 ## Ireland
 
 AstraZeneca Pharmaceuticals (Ireland) Ltd Tel: +353 1609 7100
-
-## Slovenija
-
-AstraZeneca UK Limited
-
-Tel: +386 1 51 35 600
 
 ## Ísland
 
@@ -1115,33 +1247,17 @@ Vistor
 
 Sími: +354 535 7000
 
-## Slovenská republika
-
-AstraZeneca AB, o.z.
-
-Tel: +421 2 5737 7777
-
 ## Italia
 
 AstraZeneca S.p.A.
 
 Tel: +39 02 00704500
 
-## Suomi/Finland
-
-AstraZeneca Oy
-
-Puh/Tel: +358 10 23 010
-
 ## Κύπρος
 
-Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
+Αλέκτωρ Φαρµακευτική Λτδ
 
-## Sverige
-
-AstraZeneca AB
-
-Tel: +46 8 553 26 000
+Τηλ: +357 22490305
 
 ## Latvija
 
@@ -1149,10 +1265,30 @@ SIA AstraZeneca Latvija
 
 Tel: +371 67377100
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is also available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is also available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Slovenija
+
+AstraZeneca UK Limited Tel: +386 1 51 35 600
+
+## Slovenská republika
+
+AstraZeneca AB, o.z.
+
+Tel: +421 2 5737 7777
+
+## Suomi/Finland
+
+AstraZeneca Oy
+
+Puh/Tel: +358 10 23 010
+
+## Sverige
+
+AstraZeneca AB
+
+Tel: +46 8 553 26 000

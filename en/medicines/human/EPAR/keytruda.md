@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-01 10:35:00
+document_datetime: 2026-09-03 13:53:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/keytruda.html
 document_name: keytruda.html
 version: success
-processing_time: 0.5283763
-conversion_datetime: 2026-07-04 13:07:02.880452
+processing_time: 0.318927
+conversion_datetime: 2026-09-05 10:48:27.733592
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Keytruda
 
@@ -51,29 +51,46 @@ Page contents
 Keytruda is a cancer medicine used to treat:
 
 - melanoma, a skin cancer;
+
 - non-small cell lung cancer (NSCLC), a type of lung cancer;
+
 - non-epithelioid malignant pleural mesothelioma, a cancer of the lining of the lungs;
+
 - classical Hodgkin lymphoma, a cancer of the white blood cells;
+
 - urothelial cancer, a cancer of the bladder and urinary tract;
+
 - head and neck squamous cell carcinoma (HNSCC), a cancer affecting the head and neck;
+
 - renal cell carcinoma, a type of kidney cancer;
+
 - oesophageal cancer, a cancer of the oesophagus (gullet or food pipe);
+
 - gastric and gastro-oesophageal junction adenocarcinoma, types of cancer of the stomach and junction between the oesophagus and the stomach, respectively;
+
 - triple-negative breast cancer, a type of breast cancer;
+
 - endometrial carcinoma, a cancer of the lining of the womb;
+
 - cervical cancer, a cancer of the cervix;
+
 - epithelial ovarian cancer (cancer that forms in the tissue covering the ovaries), fallopian tube cancer (cancer of the tubes that connect the ovaries to the womb), and primary peritoneal cancer (cancer that forms in the tissue that lines the belly wall and covers organs in the belly);
+
 - biliary tract cancer, a cancer of the bile ducts (the tubes that carry bile from the liver and gallbladder to the gut or the gallbladder);
+
 - the following cancers when described as microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR):
-    - colorectal cancer, a cancer of the colon or rectum (the lower part of the gut);
-    - endometrial carcinoma;
-    - gastric cancer, small intestine cancer or biliary cancer.
+
+- colorectal cancer, a cancer of the colon or rectum (the lower part of the gut);
+
+- endometrial carcinoma;
+
+- gastric cancer, small intestine cancer or biliary cancer.
 
 Keytruda is mainly used in adults for cancers that are advanced, have spread or returned, are not responding to other treatments or cannot be removed by surgery. Keytruda is also used in children aged 3 years and older with classical Hodgkin lymphoma and in adolescents aged 12 years and older with melanoma.
 
 In some cancers, it is only given to patients whose tumours produce certain levels of a protein known as PD-L1 or are determined to be MSI-H or dMMR.
 
-Keytruda is also used to help prevent the cancer from coming back after patients had surgery (adjuvant treatment) to remove melanoma, NSCLC or renal cell carcinoma. In some patients with triple-negative breast cancer, NSCLC or HNSCC, Keytruda can be given before (neoadjuvant treatment) and after (adjuvant treatment) surgery.
+Keytruda is also used to help prevent the cancer from coming back after patients had surgery (adjuvant treatment) to remove melanoma, NSCLC or renal cell carcinoma. In some patients with triple-negative breast cancer, NSCLC, HNSCC and urothelial cancer, Keytruda can be given before (neoadjuvant treatment) and after (adjuvant treatment) surgery.
 
 Depending on the cancer being treated, Keytruda can be used on its own or in combination with other cancer medicines such as lenvatinib, axitinib or enfortumab vedotin, chemotherapy alone or combined with the cancer medicines trastuzumab or bevacizumab, or chemotherapy combined with radiotherapy.
 
@@ -87,7 +104,7 @@ Collapse section
 
 Keytruda can only be obtained with a prescription and treatment must be started and supervised by a doctor experienced in the treatment of cancer.
 
-Keytruda is given as an infusion (drip) into a vein over 30 minutes, every three or six weeks. When used in adults, it is also available as an injection under the skin in the abdomen (belly) or thigh; it is given by a healthcare professional as a 1-minute injection every 3 weeks or as a 2-minute injection every 6 weeks. Patients can switch between formulations (infusion or injection under the skin) at their next scheduled dose.
+Keytruda is given as an infusion (drip) into a vein over 30 minutes, every three or six weeks. It is also available as an injection under the skin in the abdomen (belly) or thigh; it is given by a healthcare professional as a 1-minute injection every 3 weeks or as a 2-minute injection every 6 weeks. Patients can switch between formulations (infusion or injection under the skin) at their next scheduled dose.
 
 The doctor may delay doses if certain side effects occur or stop treatment altogether if side effects are severe. In some cases, tests to check levels of PD-L1 or MSI-H/dMMR tumour status are needed before starting treatment.
 
@@ -137,7 +154,9 @@ Keytruda partially or completely clears cancer cells in classical Hodgkin lympho
 
 In a main study of 210 adults, Keytruda produced a complete or partial remission (clearing) of the cancer in 71% of the patients; a complete remission occurred in 28% of them, meaning they no longer had any signs of cancer. The average time that patients lived without their disease getting worse again was around 14 months.
 
-Another main study of 304 adults showed that Keytruda was also effective in patients who had tried a stem cell transplant and those who had had two other treatments and were unable to have a stem cell transplant. In this study, patients who received Keytruda lived on average for 13 months without their disease getting worse compared with around 8 months for those treated with brentuximab vedotin. Data from a study in children indicate that the medicine could also be effective in that age group.
+Another main study of 304 adults showed that Keytruda was also effective in patients who had tried a stem cell transplant and those who had had two other treatments and were unable to have a stem cell transplant. In this study, patients who received Keytruda lived on average for 13 months without their disease getting worse compared with around 8 months for those treated with brentuximab vedotin.
+
+Data from a study in children indicate that the medicine could also be effective in that age group.
 
 **Urothelial cancer**
 
@@ -145,7 +164,9 @@ Keytruda improves survival of patients with urothelial cancer. A study looked at
 
 In a second study involving 370 patients who could not be treated with cisplatin-containing medicines, Keytruda produced a complete or partial remission (clearing) of the cancer in 108 patients (29%); a complete remission occurred in 30 (8%) of them, meaning they no longer had any signs of cancer.
 
-A further study involving 886 patients with advanced or metastatic urothelial cancer that had not yet been treated with systemic (affecting the whole body) therapy compared the benefits of Keytruda in combination with enfortumab vedotin with those of platinum-based chemotherapy and gemcitabine (other cancer medicines). Patients treated with Keytruda plus enfortumab vedotin lived on average for around 13 months without the disease getting worse and for an average of 32 months overall. Patients treated with platinum-based chemotherapy and gemcitabine lived for an average of around 6 months without the disease getting worse and for an average of around 16 months overall.
+A third study involving 886 patients with advanced or metastatic urothelial cancer that had not yet been treated with systemic (affecting the whole body) therapy compared the benefits of Keytruda in combination with enfortumab vedotin with those of platinum-based chemotherapy and gemcitabine (other cancer medicines). Patients treated with Keytruda plus enfortumab vedotin lived on average for around 13 months without the disease getting worse and for an average of 32 months overall. Patients treated with platinum-based chemotherapy and gemcitabine lived for an average of around 6 months without the disease getting worse and for an average of around 16 months overall.
+
+A fourth study involved 344 patients with urothelial cancer that has grown into the muscle layer of the bladder and can be removed by surgery and who could not be treated with cisplatin-containing medicines. Patients were either given Keytruda and enfortumab vedotin before and after surgery or only had surgery. After around 20 months, 72% of patients who took Keytruda with enfortumab vedotin were alive without the disease getting worse, coming back or causing death, compared with 45% of those who only had surgery. In addition, after around 24 months, 80% of patients who received Keytruda plus enfortumab vedotin were alive, compared with 63% of patients who received only surgery.
 
 **Head and neck cancer**
 
@@ -235,7 +256,7 @@ Additional side effects may occur when Keytruda is used with other cancer medici
 
 Keytruda is effective at improving the survival or delaying the worsening of disease in patients with advanced cancers or cancers that have spread or come back or cannot be removed by surgery. In some patients, tumours have to produce a certain level of PD-L1 or have to be determined as being MSI-H or dMMR for the medicine to be effective.
 
-Keytruda is also effective in preventing melanoma, NSCLC or kidney cancer from coming back in patients who have had surgery, and improves the outcome in patients with triple-negative breast cancer, NSCLC or HNSCC when given before and after surgery.
+Keytruda is also effective in preventing melanoma, NSCLC or kidney cancer from coming back in patients who have had surgery and improves the outcome in patients with triple-negative breast cancer, NSCLC, HNSCC and urothelial cancer when given before and after surgery.
 
 The benefits of Keytruda when added to chemotherapy were also shown to outweigh the risks in adults with non-epithelioid malignant pleural mesothelioma as well as certain forms of ovarian cancer.
 
@@ -259,145 +280,145 @@ Keytruda received a marketing authorisation valid throughout the EU on 17 July 2
 
 Keytruda : EPAR - Medicine overview
 
-Reference Number: EMA/99022/2025
+Reference Number: EMADOC-1829012207-59128
 
-English (EN) (200 KB - PDF)
+English (EN) (208.67 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/en/documents/overview/keytruda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-602)
+[Other languages (22)](#file-language-dropdown-488)
 
-български (BG) (225.58 KB - PDF)
+български (BG) (231.65 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/bg/documents/overview/keytruda-epar-medicine-overview_bg.pdf)
 
-español (ES) (192.11 KB - PDF)
+español (ES) (200.54 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/es/documents/overview/keytruda-epar-medicine-overview_es.pdf)
 
-čeština (CS) (228.88 KB - PDF)
+čeština (CS) (234.89 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/cs/documents/overview/keytruda-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (193.42 KB - PDF)
+dansk (DA) (197.03 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/da/documents/overview/keytruda-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (200.25 KB - PDF)
+Deutsch (DE) (206.34 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/de/documents/overview/keytruda-epar-medicine-overview_de.pdf)
 
-eesti (ET) (209.62 KB - PDF)
+eesti (ET) (214.25 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/et/documents/overview/keytruda-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (230.16 KB - PDF)
+ελληνικά (EL) (237.59 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/el/documents/overview/keytruda-epar-medicine-overview_el.pdf)
 
-français (FR) (196.43 KB - PDF)
+français (FR) (201.27 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/fr/documents/overview/keytruda-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (218.31 KB - PDF)
+hrvatski (HR) (222.6 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/hr/documents/overview/keytruda-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (188.69 KB - PDF)
+italiano (IT) (191.85 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/it/documents/overview/keytruda-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (208.99 KB - PDF)
+latviešu (LV) (214.1 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/lv/documents/overview/keytruda-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (216.21 KB - PDF)
+lietuvių (LT) (220.17 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/lt/documents/overview/keytruda-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (222.54 KB - PDF)
+magyar (HU) (227.17 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/hu/documents/overview/keytruda-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (224.44 KB - PDF)
+Malti (MT) (228.48 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/mt/documents/overview/keytruda-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (200.83 KB - PDF)
+Nederlands (NL) (203.85 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/nl/documents/overview/keytruda-epar-medicine-overview_nl.pdf)
 
-polski (PL) (233.86 KB - PDF)
+polski (PL) (234.37 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/pl/documents/overview/keytruda-epar-medicine-overview_pl.pdf)
 
-português (PT) (191.14 KB - PDF)
+português (PT) (194.37 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/pt/documents/overview/keytruda-epar-medicine-overview_pt.pdf)
 
-română (RO) (211.06 KB - PDF)
+română (RO) (215.36 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/ro/documents/overview/keytruda-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (222.25 KB - PDF)
+slovenčina (SK) (227.19 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/sk/documents/overview/keytruda-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (219.87 KB - PDF)
+slovenščina (SL) (224.18 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/sl/documents/overview/keytruda-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (183.82 KB - PDF)
+suomi (FI) (187.69 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/fi/documents/overview/keytruda-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (188.01 KB - PDF)
+svenska (SV) (192.01 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 03/09/2026
 
 [View](/sv/documents/overview/keytruda-epar-medicine-overview_sv.pdf)
 
@@ -419,7 +440,7 @@ English (EN) (6.55 MB - PDF)
 
 [View](/en/documents/product-information/keytruda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-264)
+[Other languages (24)](#file-language-dropdown-917)
 
 български (BG) (13.41 MB - PDF)
 
@@ -573,7 +594,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -592,7 +613,7 @@ English (EN) (17.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-617)
+[Other languages (24)](#file-language-dropdown-479)
 
 български (BG) (24.69 KB - PDF)
 
@@ -1863,7 +1884,7 @@ English (EN) (129.42 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-916)
+[Other languages (22)](#file-language-dropdown-422)
 
 български (BG) (145.05 KB - PDF)
 
@@ -2010,17 +2031,17 @@ svenska (SV) (122.23 KB - PDF)
 - [Keytruda - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/keytruda-0)
 - [EMEA-001474-PIP03-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001474-pip03-22)
 - [PSUSA/00002540/202509 - periodic safety update report single assessment](/en/node/279051)
-- [Keytruda - opinion on variation to marketing authorisation](/en/medicines/human/variation/keytruda-2)
-- [Real-life Enfortumab Vedotin Outcomes as First-line Urothelial Carcinoma Treatment in the Non-interventional Observational and Nationwide French Study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000763)
+- [Keytruda - opinion on variation to marketing authorisation](/en/medicines/human/variation/keytruda-1)
 - [DARWIN EU® Overall survival in patients with locally advanced or metastatic non-small cell lung cancer treated with selected immunotherapies as first line of treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000112)
-- [Real-world post-authorization effectiveness study (PAES) of pembrolizumab for the treatment of NSCLC across races, ethnicities, and age groups (MK-3475-G18) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000576)
 - [A Non-interventional Real-World Study on Dose Modifications of Enfortumab Vedotin (EV) in Combination with Pembrolizumab (P) in Previously Untreated Patients with Advanced Urothelial Carcinoma in Germany - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000467)
+- [Real-life Enfortumab Vedotin Outcomes as First-line Urothelial Carcinoma Treatment in the Non-interventional Observational and Nationwide French Study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000763)
+- [Real-world post-authorization effectiveness study (PAES) of pembrolizumab for the treatment of NSCLC across races, ethnicities, and age groups (MK-3475-G18) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000576)
 - [Real-world effectiveness of pembrolizumab among patients with TMB-H advanced solid tumors (MK-3475-G34) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000542)
 - [A post-licensure prospective observational registry study in real-world Taiwanese cancer patients with microsatellite instability-high (MSI-H) or deficient mismatch repair (dMMR) genes - post-authorisation study](https://catalogues.ema.europa.eu/study/47306)
 - [Non-interventional post-marketing safety study (PMSS) to collect information on hepatic function disorders among Japanese patients with radically unresectable or metastatic renal cell carcinoma treated with pembrolizumab in combination with axitinib (MK-3475-A97) - post-authorisation study](https://catalogues.ema.europa.eu/study/48486)
 
 **This page was last updated on**
 
-01/07/2026
+03/09/2026
 
 ## Share this page

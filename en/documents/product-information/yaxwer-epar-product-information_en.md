@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-08 16:38:55
+document_datetime: 2026-09-02 09:05:03
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yaxwer-epar-product-information_en.pdf
 document_name: yaxwer-epar-product-information_en.pdf
 version: success
-processing_time: 9.911155
-conversion_datetime: 2025-12-26 19:37:08.834772
+processing_time: 11.2897349
+conversion_datetime: 2026-09-05 10:43:03.127871
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -68,11 +68,9 @@ Prevention of skeletal related events in adults with advanced malignancies invol
 
 ## Giant cell tumour of bone
 
-The recommended dose of Yaxwer is 120 mg administered as a single subcutaneous injection once every 4 weeks into the thigh, abdomen or upper arm with additional 120 mg doses on days 8 and 15 of
+The recommended dose of Yaxwer is 120 mg administered as a single subcutaneous injection once every 4 weeks into the thigh, abdomen or upper arm with additional 120 mg doses on days 8 and 15 of treatment of the first month of therapy.
 
 <div style=\"page-break-after: always\"></div>
-
-treatment of the first month of therapy.
 
 Patients in the phase II study who underwent complete resection of giant cell tumour of bone did receive an additional 6 months of treatment following the surgery as per study protocol.
 
@@ -112,9 +110,9 @@ For instructions for use, handling, and disposal, see section 6.6.
 
 ## 4.3 Contraindications
 
-- -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-- -Severe, untreated hypocalcaemia (see section 4.4).
-- -Unhealed lesions from dental or oral surgery.
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Severe, untreated hypocalcaemia (see section 4.4).
+- Unhealed lesions from dental or oral surgery.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -223,11 +221,9 @@ Yaxwer has no or negligible influence on the ability to drive and use machines.
 
 Overall safety profile is consistent in all approved indications for Yaxwer.
 
-Hypocalcaemia has very commonly been reported following denosumab administration, mostly within the first 2 weeks. Hypocalcaemia can be severe and symptomatic (see section 4.8 - description of selected adverse reactions). The decreases in serum calcium were generally appropriately managed by calcium and vitamin D supplementation. The most common adverse reactions with denosumab are
+Hypocalcaemia has very commonly been reported following denosumab administration, mostly within the first 2 weeks. Hypocalcaemia can be severe and symptomatic (see section 4.8 - description of selected adverse reactions). The decreases in serum calcium were generally appropriately managed by calcium and vitamin D supplementation. The most common adverse reactions with denosumab are musculoskeletal pain. Cases of osteonecrosis of the jaw (see section 4.4 and section 4.8 - description of selected adverse reactions) have been commonly observed in patients taking denosumab.
 
 <div style=\"page-break-after: always\"></div>
-
-musculoskeletal pain. Cases of osteonecrosis of the jaw (see section 4.4 and section 4.8 - description of selected adverse reactions) have been commonly observed in patients taking denosumab.
 
 ## Tabulated list of adverse reactions
 
@@ -275,11 +271,9 @@ The trials in patients with breast or prostate cancer included a denosumab exten
 
 The patient-year adjusted overall incidence of confirmed ONJ was 1.1 per 100 patient-years during the first year of treatment, 3.7 in the second year and 4.6 thereafter. The median time to ONJ was 20.6 months (range: 4-53).
 
-A non-randomised, retrospective, observational study in 2,877 patients with cancer treated with denosumab or zoledronic acid in Sweden, Denmark, and Norway showed that 5-year incidence proportions of medically confirmed ONJ were 5.7% (95% CI: 4.4, 7.3; median follow up time of 20 months [range 0.2-60]) in a cohort of patients receiving denosumab and 1.4% (95% CI: 0.8, 2.3; median follow up time of 13 months [range 0.1-60]) in a separate cohort of patients receiving zoledronic acid. Five-year incidence proportion of ONJ in patients switching from zoledronic acid to
+A non-randomised, retrospective, observational study in 2,877 patients with cancer treated with denosumab or zoledronic acid in Sweden, Denmark, and Norway showed that 5-year incidence proportions of medically confirmed ONJ were 5.7% (95% CI: 4.4, 7.3; median follow up time of 20 months [range 0.2-60]) in a cohort of patients receiving denosumab and 1.4% (95% CI: 0.8, 2.3; median follow up time of 13 months [range 0.1-60]) in a separate cohort of patients receiving zoledronic acid. Five-year incidence proportion of ONJ in patients switching from zoledronic acid to denosumab was 6.6% (95% CI: 4.2, 10.0; median follow up time of 13 months [range 0.2-60]).
 
 <div style=\"page-break-after: always\"></div>
-
-denosumab was 6.6% (95% CI: 4.2, 10.0; median follow up time of 13 months [range 0.2-60]).
 
 In a phase III trial in patients with non-metastatic prostate cancer (a patient population for which denosumab is not indicated), with longer treatment exposure of up to 7 years, the patient-year adjusted incidence of confirmed ONJ was 1.1 per 100 patient-years during the first year of treatment, 3.0 in the second year, and 7.1 thereafter.
 
@@ -345,11 +339,9 @@ Yaxwer is a biosimilar medicinal product. Detailed information is available on t
 
 ## Mechanism of action
 
-RANKL exists as a transmembrane or soluble protein. RANKL is essential for the formation, function and survival of osteoclasts, the sole cell type responsible for bone resorption. Increased osteoclast activity, stimulated by RANKL, is a key mediator of bone destruction in metastatic bone disease and multiple myeloma. Denosumab is a human monoclonal antibody (IgG2) that targets and binds with high affinity and specificity to RANKL, preventing the RANKL/RANK interaction from occurring and resulting in reduced osteoclast numbers and function, thereby decreasing bone resorption and
+RANKL exists as a transmembrane or soluble protein. RANKL is essential for the formation, function and survival of osteoclasts, the sole cell type responsible for bone resorption. Increased osteoclast activity, stimulated by RANKL, is a key mediator of bone destruction in metastatic bone disease and multiple myeloma. Denosumab is a human monoclonal antibody (IgG2) that targets and binds with high affinity and specificity to RANKL, preventing the RANKL/RANK interaction from occurring and resulting in reduced osteoclast numbers and function, thereby decreasing bone resorption and cancer-induced bone destruction.
 
 <div style=\"page-break-after: always\"></div>
-
-cancer-induced bone destruction.
 
 Giant cell tumours of bone are characterised by neoplastic stromal cells expressing RANK ligand and osteoclast-like giant cells expressing RANK. In patients with giant cell tumour of bone, denosumab binds to RANK ligand, significantly reducing or eliminating osteoclast-like giant cells. Consequently, osteolysis is reduced and proliferative tumour stroma is replaced with non-proliferative, differentiated, densely woven new bone.
 
@@ -388,7 +380,7 @@ Table 2. Efficacy results in patients with advanced malignancies involving bone
 | Rate ratio (95% CI) / RRR (%)          | 0.77 (0.66, 0.89) / 23    | 0.77 (0.66, 0.89) / 23    | 0.90 (0.77, 1.04) / 10                              | 0.90 (0.77, 1.04) / 10                              | 0.82 (0.71, 0.94) / 18    | 0.82 (0.71, 0.94) / 18    | 0.82 (0.75, 0.89) / 18     | 0.82 (0.75, 0.89) / 18     |
 | Superiority p-value                    | 0.0012†                   | 0.0012†                   | 0.1447†                                             | 0.1447†                                             | 0.0085†                   | 0.0085†                   | < 0.0001                   | < 0.0001                   |
 | SMR per Year                           | 0.45                      | 0.58                      | 0.86                                                | 1.04                                                | 0.79                      | 0.83                      | 0.69                       | 0.81                       |
-| First SRE orHCM                        | First SRE orHCM           | First SRE orHCM           | First SRE orHCM                                     | First SRE orHCM                                     | First SRE orHCM           | First SRE orHCM           | First SRE orHCM            | First SRE orHCM            |
+| First SRE or HCM                       | First SRE or HCM          | First SRE or HCM          | First SRE or HCM                                    | First SRE or HCM                                    | First SRE or HCM          | First SRE or HCM          | First SRE or HCM           | First SRE or HCM           |
 | Median time (months)                   | NR                        | 25.2                      | 19.0                                                | 14.4                                                | 20.3                      | 17.1                      | 26.6                       | 19.4                       |
 | HR (95% CI) / RRR (%)                  | 0.82 (0.70, 0.95) / 18    | 0.82 (0.70, 0.95) / 18    | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.72, 0.96) / 17    | 0.83 (0.72, 0.96) / 17    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
 | Superiority p-value                    | 0.0074                    | 0.0074                    | 0.0215                                              | 0.0215                                              | 0.0134                    | 0.0134                    | < 0.0001                   | < 0.0001                   |
@@ -429,11 +421,9 @@ The time to pain improvement (i.e. ≥ 2-point decrease from baseline in BPI-SF 
 
 Denosumab was evaluated in an international, randomised (1:1), double-blind, active-controlled study comparing denosumab with zoledronic acid in patients with newly diagnosed multiple myeloma, study 4.
 
-In this study, 1 718 multiple myeloma patients with at least one bone lesion were randomised to receive 120 mg denosumab subcutaneously every 4 weeks (Q4W) or 4 mg zoledronic acid intravenously (IV) every 4 weeks (dose-adjusted for renal function). The primary outcome measure was demonstration of non-inferiority of time to first on study skeletal related event (SRE) as compared
+In this study, 1 718 multiple myeloma patients with at least one bone lesion were randomised to receive 120 mg denosumab subcutaneously every 4 weeks (Q4W) or 4 mg zoledronic acid intravenously (IV) every 4 weeks (dose-adjusted for renal function). The primary outcome measure was demonstration of non-inferiority of time to first on study skeletal related event (SRE) as compared to zoledronic acid. Secondary outcome measures included superiority of time to first SRE, superiority of time to first and subsequent SRE, and overall survival. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
 <div style=\"page-break-after: always\"></div>
-
-to zoledronic acid. Secondary outcome measures included superiority of time to first SRE, superiority of time to first and subsequent SRE, and overall survival. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
 Across both study arms, 54.5% of patients intended to undergo autologous PBSC transplantation, 95.8% patients utilised/planned to utilise a novel anti-myeloma agent (novel therapies include bortezomib, lenalidomide, or thalidomide) in first-line therapy, and 60.7% of patients had a previous SRE. The number of patients across both study arms with ISS stage I, stage II, and stage III at diagnosis were 32.4%, 38.2%, and 29.3%, respectively.
 
@@ -455,7 +445,7 @@ Table 3. Efficacy results for denosumab compared to zoledronic acid in patients 
 | Mean number of events/patient       | 0.66                  | 0.66                        |
 | Rate ratio (95% CI)                 | 1.01 (0.89, 1.15)     | 1.01 (0.89, 1.15)           |
 | Skeletal morbidity rate per year    | 0.61                  | 0.62                        |
-| First SRE orHCM                     |                       |                             |
+| First SRE or HCM                    |                       |                             |
 | Median time (months)                | 22.14 (14.26, NE)     | 21.32 (13.86, 29.7)         |
 | Hazard ratio (95% CI)               | 0.98 (0.85, 1.12)     | 0.98 (0.85, 1.12)           |
 | First radiation to bone             |                       |                             |
@@ -574,7 +564,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-3 years.
+4 years.
 
 Once removed from the refrigerator, Yaxwer may be stored at room temperature (up to 25 °C) for up to 30 days in the original container and outer packaging in order to protect from light. It must be used within this 30-days period.
 
@@ -758,9 +748,9 @@ Hungary
 
 EU/1/25/1934/001
 
-1 single use vial
-
 EU/1/25/1934/002
+
+1 single use vial
 
 3 single use vial
 
@@ -794,17 +784,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Yaxwer 120 mg injection denosumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -816,8 +806,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.7 mL
 
@@ -842,11 +832,11 @@ You can help by reporting any side effects you may get. See the end of section 4
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-- -Your doctor will give you a patient card, which contains important safety information you need to be aware of before and during your treatment with Yaxwer.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Your doctor will give you a patient card, which contains important safety information you need to be aware of before and during your treatment with Yaxwer.
 
 ## What is in this leaflet
 
@@ -869,7 +859,7 @@ Yaxwer is also used to treat giant cell tumour of bone, which cannot be treated 
 
 ## Do not use Yaxwer
 
-- -if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
 
 Your healthcare professional will not administer Yaxwer to you if you have a very low level of calcium in your blood which has not been treated.
 
@@ -1032,8 +1022,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Yaxwer contains
 
-- -The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 mL of solution (corresponding to 70 mg/mL).
-- -The other ingredients are acetic acid, glacial, sodium hydroxide, sorbitol (E420), polysorbate 20 (E432) and water for injections.
+- The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 mL of solution (corresponding to 70 mg/mL).
+- The other ingredients are acetic acid, glacial, sodium hydroxide, sorbitol (E420), polysorbate 20 (E432) and water for injections.
 
 ## What Yaxwer looks like and contents of the pack
 
@@ -1055,27 +1045,43 @@ Chemical Works of Gedeon Richter Plc. (Gedeon Richter Plc.) Richter Gedeon utca 
 
 Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
-## This leaflet was last revised in
-
-## Other sources of information
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
+
+België/Belgique/Belgien/България/Česká republika/Danmark/Eesti/Ελλάδα/España/ France/Hrvatska/Ireland/Ísland/Italia/ Κύπρος/Latvija/Lietuva/Luxembourg/ Luxemburg/Magyarország/Malta/ Nederland/Norge/Österreich/Polska/ Portugal/România/Slovenija/Slovenská republika/Suomi/Finland/Sverige
+
+Richter Gedeon Nyrt.
+
+Tél/Tel/Te л /Tlf/ Τηλ
+
+/Sími/Puh: +36 1 505 7032
+
+## Deutschland
+
+Sun Pharmaceuticals Germany GmbH
+
+Tel: +49 214 403 99 0
+
+This leaflet was last revised in
+
+## Other sources of information
 
 Detailed information on this product is also available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: www.yaxwerinfo.com
 
 ## QR code to be included
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu, and on the website of {name of Member State Agency (link)}.
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## The following information is intended for healthcare professionals only:
 
-- -Before administration, Yaxwer solution should be inspected visually. Do not inject the solution if it contains visible particles, is cloudy or discoloured.
-- -Do not shake.
-- -To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25 ºC) before injecting and inject slowly.
-- -The entire contents of the vial should be injected.
-- -A 27-gauge needle is recommended for the administration of denosumab.
-- -The vial should not be re-entered.
+- Before administration, Yaxwer solution should be inspected visually. Do not inject the solution if it contains visible particles, is cloudy or discoloured.
+- Do not shake.
+- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25 ºC) before injecting and inject slowly.
+- The entire contents of the vial should be injected.
+- A 27-gauge needle is recommended for the administration of denosumab.
+- The vial should not be re-entered.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.

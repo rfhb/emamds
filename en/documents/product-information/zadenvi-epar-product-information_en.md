@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-09 14:02:23
-document_pages: 42
+document_datetime: 2026-09-01 13:59:55
+document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zadenvi-epar-product-information_en.pdf
 document_name: zadenvi-epar-product-information_en.pdf
 version: success
-processing_time: 8.262253
-conversion_datetime: 2025-12-20 07:29:56.280016
+processing_time: 10.1569953
+conversion_datetime: 2026-09-05 10:43:29.819866
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -118,11 +118,9 @@ Adequate intake of calcium and vitamin D is important in all patients.
 
 ## Hypocalcaemia
 
-It is important to identify patients at risk for hypocalcaemia. Hypocalcaemia must be corrected by adequate intake of calcium and vitamin D before initiating therapy. Clinical monitoring of calcium levels is recommended before each dose and, in patients predisposed to hypocalcaemia within two
+It is important to identify patients at risk for hypocalcaemia. Hypocalcaemia must be corrected by adequate intake of calcium and vitamin D before initiating therapy. Clinical monitoring of calcium levels is recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks after the initial dose. If any patient presents with suspected symptoms of hypocalcaemia during treatment (see section 4.8 for symptoms) calcium levels should be measured. Patients should be encouraged to report symptoms indicative of hypocalcaemia.
 
 <div style=\"page-break-after: always\"></div>
-
-weeks after the initial dose. If any patient presents with suspected symptoms of hypocalcaemia during treatment (see section 4.8 for symptoms) calcium levels should be measured. Patients should be encouraged to report symptoms indicative of hypocalcaemia.
 
 In the post-marketing setting, severe symptomatic hypocalcaemia (resulting in hospitalisation, lifethreatening events, and fatal cases) have been reported. While most cases occurred in the first few weeks of initiating therapy, it has also occurred later.
 
@@ -227,11 +225,9 @@ The most common side effects with denosumab (seen in more than one patient in te
 
 The data in table 1 below describe adverse reactions reported from phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
 
-The following convention has been used for the classification of the adverse reactions (see table 1): very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the
+The following convention has been used for the classification of the adverse reactions (see table 1): very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
-
-available data). Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1. Adverse reactions reported in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation
 
@@ -244,10 +240,6 @@ Table 1. Adverse reactions reported in patients with osteoporosis and breast or 
 | Gastrointestinal disorders                      | Common Common                               | Constipation Abdominal discomfort                                                                                                               |
 | Skin and subcutaneous tissue disorders          | Common Common Common Uncommon Very rare     | Rash Eczema Alopecia Lichenoid drug eruptions 1 Hypersensitivity vasculitis                                                                     |
 | Musculoskeletal and connective tissue disorders | Very common Very common Rare Rare Not known | Pain in extremity Musculoskeletal pain 1 Osteonecrosis of the jaw 1 Atypical femoral fractures 1 Osteonecrosis of the external auditory canal 2 |
-
-1 See section Description of selected adverse reactions.
-
-2 See section 4.4.
 
 In a pooled analysis of data from all phase II and phase III placebo-controlled studies, influenza-like illness was reported with a crude incidence rate of 1.2% for denosumab and 0.7% for placebo. Although this imbalance was identified via a pooled analysis, it was not identified via a stratified analysis.
 
@@ -333,11 +325,9 @@ Anti-denosumab antibodies may develop during denosumab treatment. No apparent co
 
 ## Clinical efficacy and safety in postmenopausal women with osteoporosis
 
-Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7,808 women aged 60-91 years, of which 23.6% had prevalent vertebral
+Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7,808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between -2.5 and -4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture. Women with other diseases or on therapies that may affect bone were excluded from this study. Women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 <div style=\"page-break-after: always\"></div>
-
-fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between -2.5 and -4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture. Women with other diseases or on therapies that may affect bone were excluded from this study. Women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 ## Effect on vertebral fractures
 
@@ -417,11 +407,9 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 
 ## Bone histology in postmenopausal women and men with osteoporosis
 
-Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in
+Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
 
 <div style=\"page-break-after: always\"></div>
-
-the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
 
 ## Clinical efficacy and safety in patients with bone loss associated with androgen deprivation
 
@@ -433,7 +421,7 @@ Denosumab demonstrated a significant relative risk reduction of new vertebral fr
 
 ## Clinical efficacy and safety in patients with bone loss associated with adjuvant aromatase inhibitor therapy
 
-Efficacy and safety of denosumab once every 6 months for 2 years were investigated in women with non-metastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between 1.0 to -2.5 at the lumbar spine, total hip or femoral neck. All women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
+Efficacy and safety of denosumab once every 6 months for 2 years were investigated in women with non-metastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between - 1.0 to -2.5 at the lumbar spine, total hip or femoral neck. All women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated. Denosumab significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 2 years: 7.6% at lumbar spine, 4.7% at total hip, 3.6% at femoral neck, 5.9% at hip trochanter, 6.1% at distal 1/3 radius and 4.2% at total body (all p &lt; 0.0001).
 
@@ -515,11 +503,9 @@ Standard tests to investigate the genotoxicity potential of denosumab have not b
 
 The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
 
-In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus. An absence of lactation due to inhibition of mammary
+In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus. An absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
 
 <div style=\"page-break-after: always\"></div>
-
-gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
 
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester at AUC exposures up to 99-fold higher than the human dose (60 mg every 6 months), there was no evidence of maternal or foetal harm. In this study, foetal lymph nodes were not examined.
 
@@ -545,7 +531,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-2 years.
+3 years.
 
 Once removed from the refrigerator, ZADENVI may be stored at room temperature (up to 25 °C) for up to 30 days in the original container. It must be used within this 30-day period.
 
@@ -650,7 +636,9 @@ The MAH shall ensure that a patient reminder card regarding osteonecrosis of the
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ZADENVI 60 mg solution for injection in pre-filled syringe denosumab
+ZADENVI 60 mg solution for injection in pre-filled syringe
+
+denosumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -696,8 +684,8 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Zentiva k.s. U Kabelovny 130 102 37 Prague 10
 
@@ -716,8 +704,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -729,39 +717,41 @@ ZADENVI
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE WITH NEEDLE GUARD                             |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE WITH NEEDLE GUARD                               |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 ZADENVI 60 mg , injection denosumab s.c.
 
-2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Zentiva logo
 
@@ -792,17 +782,19 @@ Zentiva logo
 
 ## Package leaflet: Information for the user
 
-## ZADENVI 60 mg solution for injection in pre-filled syringe denosumab
+## ZADENVI 60 mg solution for injection in pre-filled syringe
+
+denosumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-- -Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with ZADENVI.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with ZADENVI.
 
 ## What is in this leaflet
 
@@ -1013,8 +1005,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What ZADENVI contains
 
-- -The active substance is denosumab. Each 1 mL pre-filled syringe contains 60 mg of denosumab (60 mg/mL).
-- -The other ingredients are acetic acid, glacial; sodium hydroxide; sorbitol (E420); polysorbate 20 (E432) and water for injections
+- The active substance is denosumab. Each 1 mL pre-filled syringe contains 60 mg of denosumab (60 mg/mL).
+- The other ingredients are acetic acid, glacial; sodium hydroxide; sorbitol (E420); polysorbate 20 (E432) and water for injections
 
 ## What ZADENVI looks like and contents of the pack
 
@@ -1040,14 +1032,6 @@ Tél/Tel: +32 (78) 700 112
 
 PV-Belgium@zentiva.com
 
-## Lietuva
-
-Zentiva, k.s.
-
-Tel: +370 52152025
-
-PV-Lithuania@zentiva.com
-
 ## България
 
 Zentiva, k.s.
@@ -1058,14 +1042,6 @@ Zentiva, k.s.
 
 PV-Bulgaria@zentiva.com
 
-## Luxembourg/Luxemburg
-
-Zentiva, k.s.
-
-Tél/Tel: +352 208 82330
-
-PV-Luxembourg@zentiva.com
-
 ## Česká republika
 
 Zentiva, k.s.
@@ -1074,14 +1050,6 @@ Tel: +420 267 241 111
 
 PV-Czech-Republic@zentiva.com
 
-## Magyarország
-
-Zentiva Pharma Kft.
-
-Tel.: +36 1 299 1058
-
-PV-Hungary@zentiva.com
-
 ## Danmark
 
 Zentiva Denmark ApS
@@ -1089,6 +1057,30 @@ Zentiva Denmark ApS
 Tlf.: +45 787 68 400
 
 PV-Denmark@zentiva.com
+
+## Lietuva
+
+Zentiva, k.s.
+
+Tel: +370 52152025
+
+PV-Lithuania@zentiva.com
+
+## Luxembourg/Luxemburg
+
+Zentiva, k.s.
+
+Tél/Tel: +352 208 82330
+
+PV-Luxembourg@zentiva.com
+
+## Magyarország
+
+Zentiva Pharma Kft.
+
+Tel.: +36 1 299 1058
+
+PV-Hungary@zentiva.com
 
 ## Malta
 
@@ -1132,13 +1124,13 @@ PV-Croatia@zentiva.com
 
 ## Ireland
 
-Zentiva, k.s. Tel: +353 818 882 243
-
-PV-Ireland@zentiva.com
+Zentiva, k.s. Tel: +353 818 882 243 PV-Ireland@zentiva.com
 
 ## Ísland
 
-Zentiva Denmark ApS Sími: +354 539 5025 PV-Iceland@zentiva.com
+Zentiva Denmark ApS Sími: +354 539 5025
+
+PV-Iceland@zentiva.com
 
 ## Italia
 
@@ -1146,7 +1138,7 @@ Zentiva Italia S.r.l. Tel: +39 800081631 PV-Italy@zentiva.com
 
 ## Κύπρος
 
-Zentiva, k.s. Τηλ: +30 211 198 7510 PV-Cyprus@zentiva.com
+Zentiva, k.s. Τηλ : +30 211 198 7510 PV-Cyprus@zentiva.com
 
 Latvija Zentiva, k.s. Tel: +371 67893939 PV-Latvia@zentiva.com
 
@@ -1158,9 +1150,7 @@ PV-Netherlands@zentiva.com
 
 ## Norge
 
-Zentiva Denmark ApS Tlf: +45 787 68 400
-
-PV-Norway@zentiva.com
+Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Norway@zentiva.com
 
 ## Österreich
 
@@ -1172,7 +1162,9 @@ Zentiva Polska Sp. z o.o. Tel: +48 22 375 92 00 PV-Poland@zentiva.com
 
 ## Portugal
 
-Zentiva Portugal, Lda Tel: +351210601360 PV-Portugal@zentiva.com
+Zentiva Portugal, Lda Tel: +351210601360
+
+PV-Portugal@zentiva.com
 
 ## România
 
@@ -1414,25 +1406,3 @@ Figure N
 Figure M
 
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for denosumab (indicated for osteoporosis and for bone loss associated with hormone ablation in prostate cancer), the scientific conclusions of PRAC are as follows:
-
-In view of available data on a reduction in bone mineral density following denosumab discontinuation from clinical trial(s) and also described in recent published literature, the PRAC Rapporteur concluded that the product information of products containing denosumab (indicated for osteoporosis and for bone loss associated with hormone ablation in prostate cancer) should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for denosumab (indicated for osteoporosis and for bone loss associated with hormone ablation in prostate cancer) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing denosumab (indicated for osteoporosis and for bone loss associated with hormone ablation in prostate cancer) is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-18 10:29:31
+document_datetime: 2026-09-01 08:55:38
 document_pages: 173
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/usrenty-epar-product-information_en.pdf
 document_name: usrenty-epar-product-information_en.pdf
 version: success
-processing_time: 88.0745608
-conversion_datetime: 2026-05-22 23:15:42.537274
+processing_time: 60.9884167
+conversion_datetime: 2026-09-05 10:42:03.530736
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,11 +64,11 @@ Usrenty treatment is to be initiated with a single intravenous dose based on bod
 
 Table 1:  Initial intravenous dosing of Usrenty
 
-| Body weight of patient at the time of dosing   | Recommended dose a   |   Number of 130mg Usrenty Vials |
-|------------------------------------------------|----------------------|---------------------------------|
-| ≤ 55 kg                                        | 260 mg               |                               2 |
-| > 55 kg to ≤ 85 kg                             | 390 mg               |                               3 |
-| > 85 kg                                        | 520 mg               |                               4 |
+| Body weight of patient at the time of dosing   | Recommended dose a   |   Number of 130 mg Usrenty Vials |
+|------------------------------------------------|----------------------|----------------------------------|
+| ≤ 55 kg                                        | 260 mg               |                                2 |
+| > 55 kg to ≤ 85 kg                             | 390 mg               |                                3 |
+| > 85 kg                                        | 520 mg               |                                4 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -402,7 +402,7 @@ No new safety concerns were identified in this study extension with up to 5 year
 
 ## Endoscopy
 
-Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = 0.7, p = 0.012).
+Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = - 0.7, p = 0.012).
 
 ## Fistula Response
 
@@ -872,7 +872,7 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 ## Tabulated list of adverse reactions
 
-The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non- controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients)  or at least 1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis for at least 4 years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and noncontrolled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients)  or at least 1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis for at least 4 years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1006,19 +1006,19 @@ b PGA = Physician Global Assessment
 
 Table 5:  Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 
-|                                 | Psoriasis Study 3               | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|---------------------------------|---------------------------------|-----------------------------------------|-----------------------------------------|
-|                                 | Etanercept 24 doses (50 mgtwice | ustekinumab 2 doses (week 0 and week 4) | ustekinumab 2 doses (week 0 and week 4) |
-|                                 | a week)                         | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised   | 347                             | 209                                     | 347                                     |
-| PASI 50 response n (%)          | 286 (82%)                       | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response n (%)          | 197 (57%)                       | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response n (%)          | 80 (23%)                        | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal n (%) | 170 (49%)                       | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg     | 251                             | 151                                     | 244                                     |
-| PASI 75 response n (%)          | 154 (61%)                       | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg     | 96                              | 58                                      | 103                                     |
-| PASI 75 response n (%)          | 43 (45%)                        | 32 (55%)                                | 67 (65%)                                |
+|                                 | Psoriasis Study 3                | Psoriasis Study 3                       | Psoriasis Study 3                       |
+|---------------------------------|----------------------------------|-----------------------------------------|-----------------------------------------|
+|                                 | Etanercept 24 doses (50 mg twice | ustekinumab 2 doses (week 0 and week 4) | ustekinumab 2 doses (week 0 and week 4) |
+|                                 | a week)                          | 45 mg                                   | 90 mg                                   |
+| Number of patients randomised   | 347                              | 209                                     | 347                                     |
+| PASI 50 response n (%)          | 286 (82%)                        | 181 (87%)                               | 320 (92%) a                             |
+| PASI 75 response n (%)          | 197 (57%)                        | 141 (67%) b                             | 256 (74%) a                             |
+| PASI 90 response n (%)          | 80 (23%)                         | 76 (36%) a                              | 155 (45%) a                             |
+| PGA of cleared or minimal n (%) | 170 (49%)                        | 136 (65%) a                             | 245 (71%) a                             |
+| Number of patients ≤ 100 kg     | 251                              | 151                                     | 244                                     |
+| PASI 75 response n (%)          | 154 (61%)                        | 109 (72%)                               | 189 (77%)                               |
+| Number of patients > 100 kg     | 96                               | 58                                      | 103                                     |
+| PASI 75 response n (%)          | 43 (45%)                         | 32 (55%)                                | 67 (65%)                                |
 
 In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re -randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
 
@@ -1048,25 +1048,25 @@ Table 6:  Number of patients who achieved clinical response in Psoriatic arthrit
 |-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
 |                               | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
 | Number of patients randomised | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
-| ACR20response, n (%)          | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
+| ACR 20 response, n (%)        | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| ACR50response, n (%)                       | 18 (9%)   | 51 (25%) a   | 57 (28%) a   | 7 (7%)   | 18 (17%) b   | 24 (23%) a   |
-|--------------------------------------------|-----------|--------------|--------------|----------|--------------|--------------|
-| ACR70response, n (%)                       | 5 (2%)    | 25 (12%) a   | 29 (14%) a   | 3 (3%)   | 7 (7%) c     | 9 (9%) c     |
-| Number of patients with ≥ 3% BSA d         | 146       | 145          | 149          | 80       | 80           | 81           |
-| PASI 75 response, n (%)                    | 16 (11%)  | 83 (57%) a   | 93 (62%) a   | 4 (5%)   | 41 (51%) a   | 45 (56%) a   |
-| PASI 90 response, n (%)                    | 4 (3%)    | 60 (41%) a   | 65 (44%) a   | 3 (4%)   | 24 (30%) a   | 36 (44%) a   |
-| Combined PASI 75 and ACR20 response, n (%) | 8 (5%)    | 40 (28%) a   | 62 (42%) a   | 2 (3%)   | 24 (30%) a   | 31 (38%) a   |
-| Number of patients ≤ 100 kg                | 154       | 153          | 154          | 74       | 74           | 73           |
-| ACR20response, n (%)                       | 39 (25%)  | 67 (44%)     | 78 (51%)     | 17 (23%) | 32 (43%)     | 34 (47%)     |
-| Number of patients with ≥ 3% BSA d         | 105       | 105          | 111          | 54       | 58           | 57           |
-| PASI 75 response, n (%)                    | 14 (13%)  | 64 (61%)     | 73 (66%)     | 4 (7%)   | 31 (53%)     | 32 (56%)     |
-| Number of patients> 100 kg                 | 52        | 52           | 50           | 30       | 29           | 31           |
-| ACR20response, n (%)                       | 8 (15%)   | 20 (38%)     | 23 (46%)     | 4 (13%)  | 13 (45%)     | 12 (39%)     |
-| Number of patients with ≥ 3% BSA d         | 41        | 40           | 38           | 26       | 22           | 24           |
-| PASI 75 response, n (%)                    | 2 (5%)    | 19 (48%)     | 20 (53%)     | 0        | 10 (45%)     | 13 (54%)     |
+| ACR 50 response, n (%)                      | 18 (9%)   | 51 (25%) a   | 57 (28%) a   | 7 (7%)   | 18 (17%) b   | 24 (23%) a   |
+|---------------------------------------------|-----------|--------------|--------------|----------|--------------|--------------|
+| ACR 70 response, n (%)                      | 5 (2%)    | 25 (12%) a   | 29 (14%) a   | 3 (3%)   | 7 (7%) c     | 9 (9%) c     |
+| Number of patients with ≥ 3% BSA d          | 146       | 145          | 149          | 80       | 80           | 81           |
+| PASI 75 response, n (%)                     | 16 (11%)  | 83 (57%) a   | 93 (62%) a   | 4 (5%)   | 41 (51%) a   | 45 (56%) a   |
+| PASI 90 response, n (%)                     | 4 (3%)    | 60 (41%) a   | 65 (44%) a   | 3 (4%)   | 24 (30%) a   | 36 (44%) a   |
+| Combined PASI 75 and ACR 20 response, n (%) | 8 (5%)    | 40 (28%) a   | 62 (42%) a   | 2 (3%)   | 24 (30%) a   | 31 (38%) a   |
+| Number of patients ≤ 100 kg                 | 154       | 153          | 154          | 74       | 74           | 73           |
+| ACR 20 response, n (%)                      | 39 (25%)  | 67 (44%)     | 78 (51%)     | 17 (23%) | 32 (43%)     | 34 (47%)     |
+| Number of patients with ≥ 3% BSA d          | 105       | 105          | 111          | 54       | 58           | 57           |
+| PASI 75 response, n (%)                     | 14 (13%)  | 64 (61%)     | 73 (66%)     | 4 (7%)   | 31 (53%)     | 32 (56%)     |
+| Number of patients > 100 kg                 | 52        | 52           | 50           | 30       | 29           | 31           |
+| ACR 20 response, n (%)                      | 8 (15%)   | 20 (38%)     | 23 (46%)     | 4 (13%)  | 13 (45%)     | 12 (39%)     |
+| Number of patients with ≥ 3% BSA d          | 41        | 40           | 38           | 26       | 22           | 24           |
+| PASI 75 response, n (%)                     | 2 (5%)    | 19 (48%)     | 20 (53%)     | 0        | 10 (45%)     | 13 (54%)     |
 
 a
 
@@ -1122,23 +1122,23 @@ All patients were followed for efficacy for up to 52 weeks following first admin
 
 Table 7:  Summary of primary and secondary endpoints at week 12 and week 52
 
-| Paediatric psoriasis study(CADMUS) (Age 12-17)   | Paediatric psoriasis study(CADMUS) (Age 12-17)   | Paediatric psoriasis study(CADMUS) (Age 12-17)   | Paediatric psoriasis study(CADMUS) (Age 12-17)   |
-|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
-|                                                  | Week 12                                          | Week 12                                          | Week 52                                          |
-|                                                  | Placebo                                          | Recommended dose of ustekinumab                  | Recommended dose of ustekinumab                  |
-|                                                  | n (%)                                            | n (%)                                            | n (%)                                            |
-| Patients randomised                              | 37                                               | 36                                               | 35                                               |
-| PGA                                              |                                                  |                                                  |                                                  |
-| PGAof cleared (0) or minimal (1)                 | 2 (5.4%)                                         | 25 (69.4%) a                                     | 20 (57.1%)                                       |
-| PGA of Cleared (0)                               | 1 (2.7%)                                         | 17 (47.2%) a                                     | 13 (37.1%)                                       |
-| PASI                                             |                                                  |                                                  |                                                  |
-| PASI 75 responders                               | 4 (10.8%)                                        | 29 (80.6%) a                                     | 28 (80.0%)                                       |
-| PASI 90 responders                               | 2 (5.4%)                                         | 22 (61.1%) a                                     | 23 (65.7%)                                       |
-| PASI 100 responders                              | 1 (2.7%)                                         | 14 (38.9%) a                                     | 13 (37.1%)                                       |
-| CDLQI                                            |                                                  |                                                  |                                                  |
-| CDLQI of 0 or 1 b                                | 6 (16.2%)                                        | 18 (50.0%) c                                     | 20 (57.1%)                                       |
-| PedsQL                                           |                                                  |                                                  |                                                  |
-| Change from baseline Mean (SD) d                 | 3.35 (10.04)                                     | 8.03 (10.44) e                                   | 7.26 (10.92)                                     |
+| Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   |
+|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+|                                                   | Week 12                                           | Week 12                                           | Week 52                                           |
+|                                                   | Placebo                                           | Recommended dose of ustekinumab                   | Recommended dose of ustekinumab                   |
+|                                                   | n (%)                                             | n (%)                                             | n (%)                                             |
+| Patients randomised                               | 37                                                | 36                                                | 35                                                |
+| PGA                                               |                                                   |                                                   |                                                   |
+| PGA of cleared (0) or minimal (1)                 | 2 (5.4%)                                          | 25 (69.4%) a                                      | 20 (57.1%)                                        |
+| PGA of Cleared (0)                                | 1 (2.7%)                                          | 17 (47.2%) a                                      | 13 (37.1%)                                        |
+| PASI                                              |                                                   |                                                   |                                                   |
+| PASI 75 responders                                | 4 (10.8%)                                         | 29 (80.6%) a                                      | 28 (80.0%)                                        |
+| PASI 90 responders                                | 2 (5.4%)                                          | 22 (61.1%) a                                      | 23 (65.7%)                                        |
+| PASI 100 responders                               | 1 (2.7%)                                          | 14 (38.9%) a                                      | 13 (37.1%)                                        |
+| CDLQI                                             |                                                   |                                                   |                                                   |
+| CDLQI of 0 or 1 b                                 | 6 (16.2%)                                         | 18 (50.0%) c                                      | 20 (57.1%)                                        |
+| PedsQL                                            |                                                   |                                                   |                                                   |
+| Change from baseline Mean (SD) d                  | 3.35 (10.04)                                      | 8.03 (10.44) e                                    | 7.26 (10.92)                                      |
 
 a p &lt; 0.001
 
@@ -1166,22 +1166,22 @@ All patients were followed for efficacy for up to 52 weeks following first admin
 
 Table 8:  Summary of primary and secondary endpoints at week 12 and week 52
 
-| Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   |
-|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                                                     | Week 12                                             | Week 52                                             |
-|                                                     | Recommended dose of ustekinumab                     | Recommended dose of ustekinumab                     |
-|                                                     | n (%)                                               | n (%)                                               |
-| Patients enrolled                                   | 44                                                  | 41                                                  |
-| PGA                                                 |                                                     |                                                     |
-| PGAof cleared (0) or minimal (1)                    | 34 (77.3%)                                          | 31 (75.6%)                                          |
-| PGA of cleared (0)                                  | 17 (38.6%)                                          | 23 (56.1%)                                          |
-| PASI                                                |                                                     |                                                     |
-| PASI 75 responders                                  | 37 (84.1%)                                          | 36 (87.8%)                                          |
-| PASI 90 responders                                  | 28 (63.6%)                                          | 29 (70.7%)                                          |
-| PASI 100 responders                                 | 15 (34.1%)                                          | 22 (53.7%)                                          |
-| CDLQI a                                             |                                                     |                                                     |
-| Patients with a CDLQI > 1 at baseline               | (N=39)                                              | (N=36)                                              |
-| CDLQI of 0 or 1                                     | 24 (61.5%)                                          | 21 (58.3%)                                          |
+| Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   |
+|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+|                                                      | Week 12                                              | Week 52                                              |
+|                                                      | Recommended dose of ustekinumab                      | Recommended dose of ustekinumab                      |
+|                                                      | n (%)                                                | n (%)                                                |
+| Patients enrolled                                    | 44                                                   | 41                                                   |
+| PGA                                                  |                                                      |                                                      |
+| PGA of cleared (0) or minimal (1)                    | 34 (77.3%)                                           | 31 (75.6%)                                           |
+| PGA of cleared (0)                                   | 17 (38.6%)                                           | 23 (56.1%)                                           |
+| PASI                                                 |                                                      |                                                      |
+| PASI 75 responders                                   | 37 (84.1%)                                           | 36 (87.8%)                                           |
+| PASI 90 responders                                   | 28 (63.6%)                                           | 29 (70.7%)                                           |
+| PASI 100 responders                                  | 15 (34.1%)                                           | 22 (53.7%)                                           |
+| CDLQI a                                              |                                                      |                                                      |
+| Patients with a CDLQI > 1 at baseline                | (N=39)                                               | (N=36)                                               |
+| CDLQI of 0 or 1                                      | 24 (61.5%)                                           | 21 (58.3%)                                           |
 
 a CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
 
@@ -1269,7 +1269,7 @@ Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible 
 
 <div style=\"page-break-after: always\"></div>
 
-At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = 0.7, p = 0.012).
+At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = - 0.7, p = 0.012).
 
 ## Fistula Response
 
@@ -1793,45 +1793,45 @@ The primary endpoint in these studies was the proportion of patients who achieve
 
 Table 2: Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
 
-|                                  | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4 and week 16)   | Week 28 3 doses (week 0, week 4 and week 16)   |
-|----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|
-|                                  | PBO                                   | 45 mg                                 | 90 mg                                 | 45 mg                                          | 90 mg                                          |
-| Psoriasis Study 1                |                                       |                                       |                                       |                                                |                                                |
-| Number of patients randomised    | 255                                   | 255                                   | 256                                   | 250                                            | 243                                            |
-| PASI 50 response N(%)            | 26 (10%)                              | 213 (84%) a                           | 220 (86%) a                           | 228 (91%)                                      | 234 (96%)                                      |
-| PASI 75 response N(%)            | 8 (3%)                                | 171 (67%) a                           | 170 (66%) a                           | 178 (71%)                                      | 191 (79%)                                      |
-| PASI 90 response N(%)            | 5 (2%)                                | 106 (42%) a                           | 94 (37%) a                            | 123 (49%)                                      | 135 (56%)                                      |
-| PGA b of cleared or minimalN (%) | 10 (4%)                               | 151 (59%) a                           | 156 (61%) a                           | 146 (58%)                                      | 160 (66%)                                      |
-| Number of patients ≤ 100 kg      | 166                                   | 168                                   | 164                                   | 164                                            | 153                                            |
-| PASI 75 response N(%)            | 6 (4%)                                | 124 (74%)                             | 107 (65%)                             | 130 (79%)                                      | 124 (81%)                                      |
-| Number of patients > 100 kg      | 89                                    | 87                                    | 92                                    | 86                                             | 90                                             |
-| PASI 75 response N(%)            | 2 (2%)                                | 47 (54%)                              | 63 (68%)                              | 48 (56%)                                       | 67 (74%)                                       |
-| Psoriasis Study 2                |                                       |                                       |                                       |                                                |                                                |
-| Number of patients randomised    | 410                                   | 409                                   | 411                                   | 397                                            | 400                                            |
-| PASI 50 response N(%)            | 41 (10%)                              | 342 (84%) a                           | 367 (89%) a                           | 369 (93%)                                      | 380 (95%)                                      |
-| PASI 75 response N(%)            | 15 (4%)                               | 273 (67%) a                           | 311 (76%) a                           | 276 (70%)                                      | 314 (79%)                                      |
-| PASI 90 response N(%)            | 3 (1%)                                | 173 (42%) a                           | 209 (51%) a                           | 178 (45%)                                      | 217 (54%)                                      |
-| PGA b of cleared or minimalN (%) | 18 (4%)                               | 277 (68%) a                           | 300 (73%) a                           | 241 (61%)                                      | 279 (70%)                                      |
-| Number of patients ≤ 100 kg      | 290                                   | 297                                   | 289                                   | 287                                            | 280                                            |
-| PASI 75 response N(%)            | 12 (4%)                               | 218 (73%)                             | 225 (78%)                             | 217 (76%)                                      | 226 (81%)                                      |
-| Number of patients > 100 kg      | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
-| PASI 75 response N(%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
+|                                   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4 and week 16)   | Week 28 3 doses (week 0, week 4 and week 16)   |
+|-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|
+|                                   | PBO                                   | 45 mg                                 | 90 mg                                 | 45 mg                                          | 90 mg                                          |
+| Psoriasis Study 1                 |                                       |                                       |                                       |                                                |                                                |
+| Number of patients randomised     | 255                                   | 255                                   | 256                                   | 250                                            | 243                                            |
+| PASI 50 response N (%)            | 26 (10%)                              | 213 (84%) a                           | 220 (86%) a                           | 228 (91%)                                      | 234 (96%)                                      |
+| PASI 75 response N (%)            | 8 (3%)                                | 171 (67%) a                           | 170 (66%) a                           | 178 (71%)                                      | 191 (79%)                                      |
+| PASI 90 response N (%)            | 5 (2%)                                | 106 (42%) a                           | 94 (37%) a                            | 123 (49%)                                      | 135 (56%)                                      |
+| PGA b of cleared or minimal N (%) | 10 (4%)                               | 151 (59%) a                           | 156 (61%) a                           | 146 (58%)                                      | 160 (66%)                                      |
+| Number of patients ≤ 100 kg       | 166                                   | 168                                   | 164                                   | 164                                            | 153                                            |
+| PASI 75 response N (%)            | 6 (4%)                                | 124 (74%)                             | 107 (65%)                             | 130 (79%)                                      | 124 (81%)                                      |
+| Number of patients > 100 kg       | 89                                    | 87                                    | 92                                    | 86                                             | 90                                             |
+| PASI 75 response N (%)            | 2 (2%)                                | 47 (54%)                              | 63 (68%)                              | 48 (56%)                                       | 67 (74%)                                       |
+| Psoriasis Study 2                 |                                       |                                       |                                       |                                                |                                                |
+| Number of patients randomised     | 410                                   | 409                                   | 411                                   | 397                                            | 400                                            |
+| PASI 50 response N (%)            | 41 (10%)                              | 342 (84%) a                           | 367 (89%) a                           | 369 (93%)                                      | 380 (95%)                                      |
+| PASI 75 response N (%)            | 15 (4%)                               | 273 (67%) a                           | 311 (76%) a                           | 276 (70%)                                      | 314 (79%)                                      |
+| PASI 90 response N (%)            | 3 (1%)                                | 173 (42%) a                           | 209 (51%) a                           | 178 (45%)                                      | 217 (54%)                                      |
+| PGA b of cleared or minimal N (%) | 18 (4%)                               | 277 (68%) a                           | 300 (73%) a                           | 241 (61%)                                      | 279 (70%)                                      |
+| Number of patients ≤ 100 kg       | 290                                   | 297                                   | 289                                   | 287                                            | 280                                            |
+| PASI 75 response N (%)            | 12 (4%)                               | 218 (73%)                             | 225 (78%)                             | 217 (76%)                                      | 226 (81%)                                      |
+| Number of patients > 100 kg       | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
+| PASI 75 response N (%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
 
 Table 3: Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 
-|                                | Psoriasis Study 3                       | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|--------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                | Etanercept 24 doses (50 mgtwice a week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                                |                                         | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised  | 347                                     | 209                                     | 347                                     |
-| PASI 50 response N(%)          | 286 (82%)                               | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N(%)          | 197 (57%)                               | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N(%)          | 80 (23%)                                | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal N(%) | 170 (49%)                               | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg    | 251                                     | 151                                     | 244                                     |
-| PASI 75 response N(%)          | 154 (61%)                               | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg    | 96                                      | 58                                      | 103                                     |
-| PASI 75 response N(%)          | 43 (45%)                                | 32 (55%)                                | 67 (65%)                                |
+|                                 | Psoriasis Study 3                        | Psoriasis Study 3                       | Psoriasis Study 3                       |
+|---------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
+|                                 | Etanercept 24 doses (50 mg twice a week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
+|                                 |                                          | 45 mg                                   | 90 mg                                   |
+| Number of patients randomised   | 347                                      | 209                                     | 347                                     |
+| PASI 50 response N (%)          | 286 (82%)                                | 181 (87%)                               | 320 (92%) a                             |
+| PASI 75 response N (%)          | 197 (57%)                                | 141 (67%) b                             | 256 (74%) a                             |
+| PASI 90 response N (%)          | 80 (23%)                                 | 76 (36%) a                              | 155 (45%) a                             |
+| PGA of cleared or minimal N (%) | 170 (49%)                                | 136 (65%) a                             | 245 (71%) a                             |
+| Number of patients ≤ 100 kg     | 251                                      | 151                                     | 244                                     |
+| PASI 75 response N (%)          | 154 (61%)                                | 109 (72%)                               | 189 (77%)                               |
+| Number of patients > 100 kg     | 96                                       | 58                                      | 103                                     |
+| PASI 75 response N (%)          | 43 (45%)                                 | 32 (55%)                                | 67 (65%)                                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1857,25 +1857,25 @@ Treatment with ustekinumab resulted in significant improvements in the measures 
 
 Table 4: Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
 
-|                                           | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
-|-------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|                                           | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
-| Number of patients randomised             | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
-| ACR20response,N (%)                       | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
-| ACR50response,N (%)                       | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
-| ACR70response,N (%)                       | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
-| Number of patients with ≥ 3% BSA d        | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
-| PASI 75 response,N (%)                    | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
-| PASI 90 response,N (%)                    | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
-| Combined PASI 75 and ACR20 response, N(%) | 8 (5%)                        | 40 (28%) a                    | 62 (42%) a                    | 2 (3%)                        | 24 (30%) a                    | 31 (38%) a                    |
-| Number of patients ≤ 100 kg               | 154                           | 153                           | 154                           | 74                            | 74                            | 73                            |
-| ACR20response,N (%)                       | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
-| Number of patients with ≥ 3% BSA d        | 105                           | 105                           | 111                           | 54                            | 58                            | 57                            |
-| PASI 75 response,N (%)                    | 14 (13%)                      | 64 (61%)                      | 73 (66%)                      | 4 (7%)                        | 31 (53%)                      | 32 (56%)                      |
-| Number of patients > 100 kg               | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
-| ACR20response,N (%)                       | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
-| Number of patients with ≥ 3% BSA d        | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
-| PASI 75 response,N (%)                    | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
+|                                             | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
+|---------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|                                             | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
+| Number of patients randomised               | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
+| ACR 20 response, N (%)                      | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
+| ACR 50 response, N (%)                      | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
+| ACR 70 response, N (%)                      | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
+| Number of patients with ≥ 3% BSA d          | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
+| PASI 75 response, N (%)                     | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
+| PASI 90 response, N (%)                     | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
+| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)                        | 40 (28%) a                    | 62 (42%) a                    | 2 (3%)                        | 24 (30%) a                    | 31 (38%) a                    |
+| Number of patients ≤ 100 kg                 | 154                           | 153                           | 154                           | 74                            | 74                            | 73                            |
+| ACR 20 response, N (%)                      | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
+| Number of patients with ≥ 3% BSA d          | 105                           | 105                           | 111                           | 54                            | 58                            | 57                            |
+| PASI 75 response, N (%)                     | 14 (13%)                      | 64 (61%)                      | 73 (66%)                      | 4 (7%)                        | 31 (53%)                      | 32 (56%)                      |
+| Number of patients > 100 kg                 | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
+| ACR 20 response, N (%)                      | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
+| Number of patients with ≥ 3% BSA d          | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
+| PASI 75 response, N (%)                     | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
 
 ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1 and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
 
@@ -1917,14 +1917,14 @@ In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were
 
 Table 5: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 
-|                                       | UNITI-1 *      | UNITI-1 *                              | UNITI-2 **     | UNITI-2 **                             |
-|---------------------------------------|----------------|----------------------------------------|----------------|----------------------------------------|
-|                                       | PlaceboN = 247 | Recommended dose of ustekinumabN = 249 | PlaceboN = 209 | Recommended dose of ustekinumabN = 209 |
-| Clinical Remission, week 8            | 18 (7.3%)      | 52 (20.9%) a                           | 41 (19.6%)     | 84 (40.2%) a                           |
-| Clinical Response (100 point), week 6 | 53 (21.5%)     | 84 (33.7%) b                           | 60 (28.7%)     | 116 (55.5%) a                          |
-| Clinical Response (100 point), week 8 | 50 (20.2%)     | 94 (37.8%) a                           | 67 (32.1%)     | 121 (57.9%) a                          |
-| 70 Point Response, week 3             | 67 (27.1%)     | 101 (40.6%) b                          | 66 (31.6%)     | 106 (50.7%) a                          |
-| 70 Point Response, week 6             | 75 (30.4%)     | 109 (43.8%) b                          | 81 (38.8%)     | 135 (64.6%) a                          |
+|                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
+|---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
+|                                       | Placebo N = 247 | Recommended dose of ustekinumab N = 249 | Placebo N = 209 | Recommended dose of ustekinumab N = 209 |
+| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                            | 41 (19.6%)      | 84 (40.2%) a                            |
+| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                            | 60 (28.7%)      | 116 (55.5%) a                           |
+| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                            | 67 (32.1%)      | 121 (57.9%) a                           |
+| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
+| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission 70 point response is defined as reduction in CDAI score by at least 70 points
 
@@ -1978,7 +1978,7 @@ No new safety concerns were identified in this study extension with up to 5 year
 
 ## Endoscopy
 
-Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = 0.7, p = 0.012).
+Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = - 0.7, p = 0.012).
 
 ## Fistula Response
 
@@ -2250,6 +2250,8 @@ Keep the vial in the outer carton in order to protect from light.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
 ## Biosimilar Collaborations Ireland Limited
 
 Unit 35/36 Grange Parade,
@@ -2258,64 +2260,60 @@ Baldoyle Industrial Estate, Dublin 13, DUBLIN
 
 Ireland, D13 R20R
 
+## 12. MARKETING AUTHORISATION NUMBER
+
 EU/1/25/1973/004
+
+## 13. BATCH NUMBER
 
 Lot
 
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
 Justification for not including in Braille accepted.
 
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
 2D barcode carrying the unique identifier included.
+
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
 SN
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-## 12. MARKETING AUTHORISATION NUMBER
-
-## 13. BATCH NUMBER
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| VIAL LABEL TEXT (130 mg)                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL TEXT (130 mg)                                           |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
-|------|-----------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Usrenty 130 mg concentrate for solution for infusion ustekinumab
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 For IV use after dilution. Do not shake.
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 130 mg/26 mL
 
@@ -2376,6 +2374,10 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
 ## Biosimilar Collaborations Ireland Limited
 
 Unit 35/36  Grange Parade,
@@ -2386,73 +2388,79 @@ Dublin 13, DUBLIN
 
 Ireland, D13 R20R
 
-EU/1/25/1973/001
-
-Lot
-
-Usrenty 45 mg
-
-2D barcode carrying the unique identifier included.
-
-PC SN
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
 ## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/25/1973/001
 
 13. BATCH NUMBER
 
+Lot
+
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
+
+Usrenty 45 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+2D barcode carrying the unique identifier included.
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| VIAL LABEL TEXT (45 mg)                                    |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL TEXT (45 mg)                                            |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
-|------|-----------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Usrenty 45 mg solution for injection ustekinumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 45 mg/0.5 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+PRE-FILLED SYRINGE CARTON TEXT (45 mg)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
 Usrenty 45 mg solution for injection in pre-filled syringe ustekinumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 Each pre-filled syringe contains 45 mg of ustekinumab in 0.5 mL.
 
+## 3. LIST OF EXCIPIENTS
+
 Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80, sodium hydroxide, hydrochloric acid, water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Solution for injection in pre-filled syringe
 
@@ -2460,39 +2468,27 @@ Solution for injection in pre-filled syringe
 
 1 pre-filled syringe
 
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
 Do not shake.
 
 Subcutaneous use
 
 Read the package leaflet before use.
 
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
 Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
 
 EXP
 
 Discard date, if stored at room temperature:
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-PRE-FILLED SYRINGE CARTON TEXT (45 mg)
-
 ## 9. SPECIAL STORAGE CONDITIONS
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE
-
-## 3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-## 5. METHOD AND ROUTE OF ADMINISTRATION
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2508,6 +2504,8 @@ Can be stored at room temperature (up to 30 °C) for a single period up to 30 da
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
 ## Biosimilar Collaborations Ireland Limited
 
 Unit 35/36 Grange Parade,
@@ -2516,31 +2514,28 @@ Baldoyle Industrial Estate, Dublin 13, DUBLIN
 
 Ireland, D13 R20R
 
-EU/1/25/1973/002
-
-Lot
-
-Usrenty 45 mg
-
-2D barcode carrying the unique identifier included.
-
-PC SN
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
 ## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/25/1973/002
 
 ## 13. BATCH NUMBER
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+Lot
 
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
+Usrenty 45 mg
+
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
 
 NN
 
@@ -2576,39 +2571,51 @@ Subcutaneous use Usrenty 45 mg Solution for injection ustekinumab SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| PRE-FILLEDSYRINGELABEL TEXT (45 mg)                        |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL TEXT (45 mg)                              |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
-|------|-----------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 45 mg/0.5 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+PRE-FILLED SYRINGE CARTON TEXT (90 mg)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
 Usrenty 90 mg solution for injection in pre-filled syringe ustekinumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each pre-filled syringe contains 90 mg of ustekinumab in 1 mL.
 
+## 3. LIST OF EXCIPIENTS
+
 Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80, sodium hydroxide, hydrochloric acid, water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Solution for injection in pre-filled syringe
 
@@ -2616,39 +2623,27 @@ Solution for injection in pre-filled syringe
 
 1 pre-filled syringe
 
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
 Do not shake.
 
 Subcutaneous use
 
 Read the package leaflet before use.
 
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
 Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING, IF NECESSARY
+
+## 8. EXPIRY DATE
 
 EXP
 
 Discard date, if stored at room temperature:
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-PRE-FILLED SYRINGE CARTON TEXT (90 mg)
-
 ## 9. SPECIAL STORAGE CONDITIONS
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-## 3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-## 5. METHOD AND ROUTE OF ADMINISTRATION
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-## 7. OTHER SPECIAL WARNING, IF NECESSARY
-
-## 8. EXPIRY DATE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2733,39 +2728,51 @@ Subcutaneous use Usrenty 90 mg injection ustekinumab SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| PRE-FILLEDSYRINGELABEL TEXT (90 mg)                        |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL TEXT (90 mg)                              |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
-|------|-----------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 90 mg/ 1 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+PRE-FILLED PEN CARTON TEXT (45 mg)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
 Usrenty 45 mg solution for injection in pre-filled pen ustekinumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each pre-filled pen contains 45 mg of ustekinumab in 0.5 mL.
 
+## 3. LIST OF EXCIPIENTS
+
 Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E 433) sodium hydroxide and hydrochloric acid (for pH adjustment), water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Solution for injection in pre-filled pen
 
@@ -2773,39 +2780,27 @@ Solution for injection in pre-filled pen
 
 1 pre-filled single dose pen
 
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
 Do not shake.
 
 Subcutaneous use
 
 Read the package leaflet before use.
 
+## 6 SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
 Keep out of the sight and reach of children.
-
-EXP
-
-Discard date, if stored at room temperature:
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-PRE-FILLED PEN CARTON TEXT (45 mg)
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-## 3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
 
-## 6 SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+EXP
+
+Discard date, if stored at room temperature:
+
+## 9. SPECIAL STORAGE CONDITIONS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2850,43 +2845,55 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| PRE-FILLEDPEN LABEL TEXT (45 mg)                           |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL TEXT (45 mg)                                  |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
-|------|--------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Usrenty 45 mg solution for injection ustekinumab
 
 SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 45 mg/0.5 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+PRE-FILLED PEN CARTON TEXT (90 mg)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
 Usrenty 90 mg solution for injection in pre-filled pen ustekinumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each pre-filled pen contains 90 mg of ustekinumab in 1 mL.
 
+## 3. LIST OF EXCIPIENTS
+
 Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E 433) sodium hydroxide and hydrochloric acid (for pH adjustment), water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Solution for injection in pre-filled pen
 
@@ -2894,39 +2901,27 @@ Solution for injection in pre-filled pen
 
 1 pre-filled single dose pen
 
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
 Do not shake.
 
 Subcutaneous use
 
 Read the package leaflet before use.
 
+## 7 SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
 Keep out of the sight and reach of children.
-
-EXP
-
-Discard date, if stored at room temperature:
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-PRE-FILLED PEN CARTON TEXT (90 mg)
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-## 3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
 
-## 7 SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+EXP
+
+Discard date, if stored at room temperature:
+
+## 9. SPECIAL STORAGE CONDITIONS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2974,30 +2969,30 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| PRE-FILLEDPEN LABEL TEXT (90 mg)                           |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL TEXT (90 mg)                                  |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
-|------|--------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Usrenty 90 mg solution for injection ustekinumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 90 mg/1 mL
 
@@ -3022,9 +3017,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## This leaflet has been written for the person taking the medicine.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3331,20 +3326,6 @@ Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε Τηλ.: 00800082509
 
 ## España
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
-
-## France
-
-Laboratories Biogaran Tél: +33 (0) 800 970 109
-
-## Hrvatska
-
-Biocon Biologics Germany GmbH Tel: 0080008250910
-
-## Ireland
-
-Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
-
 ## Lietuva
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
@@ -3375,6 +3356,14 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Polska
 
+Biocon Biologics Spain S.L. Tel: 0080008250910
+
+## France
+
+Laboratories Biogaran Tél: +33 (0) 800 970 109
+
+## Hrvatska
+
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Portugal
@@ -3382,6 +3371,12 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 Biocon Biologics Spain S.L. Tel: 0080008250910
 
 ## România
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Ireland
+
+Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
@@ -3395,21 +3390,11 @@ Biocon Biologics Finland OY
 
 Sími: +345 800 4316
 
-## Slovenská republika
-
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
-
 ## Italia
 
 Biocon Biologics Spain S.L .
 
 Tel: 0080008250910
-
-## Suomi/Finland Biocon Biologics Finland OY
-
-Puh/Tel: 99980008250910
 
 ## Κύπρος
 
@@ -3419,15 +3404,25 @@ Biosimilar Collaborations Ireland Limited
 
 0080008250910
 
-## Sverige
-
-Biocon Biologics Finland OY
-
-Tel: 0080008250910
-
 ## Latvija
 
 Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## Slovenská republika
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Suomi/Finland Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
+
+## Sverige
+
+Biocon Biologics Finland OY
 
 Tel: 0080008250910
 
@@ -3477,10 +3472,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Usrenty to a child, please read this information carefully.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4040,10 +4035,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Usrenty to a child, please read this information carefully.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4569,7 +4564,7 @@ Figure 2
 - Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist
 - lnject the dose promptly after removing the needle cover.
 
-Figure5
+Figure 5
 
 <!-- image -->
 
@@ -4584,13 +4579,13 @@ Figure5
 
 ## 5. After the injection:
 
-FIGURE6
+FIGURE 6
 
 <!-- image -->
 
 Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 7)
 
-FIGURE7
+FIGURE 7
 
 <!-- image -->
 
@@ -4616,7 +4611,7 @@ FIGURE 9
 - Used syringes should be placed in a puncture-resistant container, like a sharps container (see Figure 10). Never re-use a syringe, for your safety and health and for the safety of others. Dispose of your sharps container according to your local regulations.
 - Antiseptic wipes and other supplies can be disposed of in your garbage.
 
-FIGURE10
+FIGURE 10
 
 <!-- image -->
 
@@ -4646,10 +4641,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Usrenty to a child, please read this information carefully.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5182,7 +5177,7 @@ Figure 3
 - Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist
 - lnject the dose promptly after removing the needle cover.
 
-Figure5
+Figure 5
 
 <!-- image -->
 
@@ -5204,7 +5199,7 @@ Figure5
 
 Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 7)
 
-FIGURE7
+FIGURE 7
 
 <!-- image -->
 
@@ -5225,7 +5220,7 @@ Slowly take your thumb off the plunger head to allow the empty syringe to move u
 - Used syringes should be placed in a puncture-resistant container, like a sharps container (see Figure 10). Never re-use a syringe, for your safety and health and for the safety of others. Dispose of your sharps container according to your local regulations.
 - Antiseptic wipes and other supplies can be disposed of in your garbage.
 
-FIGURE10
+FIGURE 10
 
 <!-- image -->
 
@@ -5549,29 +5544,13 @@ For any information about this medicine, please contact the local representative
 
 Biocon Biologics Belgium BV Tél/Tel: 0080008250910
 
-## Lietuva
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
 ## България
 
 Biosimilar Collaborations Ireland Limited Тел: 0080008250910
 
-## Luxembourg/Luxemburg
-
-Biosimilar Collaborations Ireland Limited
-
-Tél/Tel: 0080008250910
-
 ## Česká republika
 
 Biocon Biologics Germany GmbH Tel: 0080008250910
-
-## Magyarország
-
-Biosimilar Collaborations Ireland Limited
-
-Tel.: 0080008250910
 
 ## Danmark
 
@@ -5579,25 +5558,41 @@ Biocon Biologics Finland OY
 
 Tlf: 0080008250910
 
-## Malta
-
-Biosimilar Collaborations Ireland Limited
-
-Tel.: 0080008250910
-
 ## Deutschland
 
 Biocon Biologics Germany GmbH
 
 Tel: 0080008250910
 
-## Nederland
+## Eesti
 
 Biosimilar Collaborations Ireland Limited
 
 Tel: 0080008250910
 
-## Eesti
+## Lietuva
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Luxembourg/Luxemburg
+
+Biosimilar Collaborations Ireland Limited
+
+Tél/Tel: 0080008250910
+
+## Magyarország
+
+Biosimilar Collaborations Ireland Limited
+
+Tel.: 0080008250910
+
+## Malta
+
+Biosimilar Collaborations Ireland Limited
+
+Tel.: 0080008250910
+
+## Nederland
 
 Biosimilar Collaborations Ireland Limited
 
@@ -6292,37 +6287,17 @@ For any information about this medicine, please contact the local representative
 
 Biocon Biologics Belgium BV Tél/Tel: 0080008250910
 
-## Lietuva
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
 ## България
 
 Biosimilar Collaborations Ireland Limited Тел: 0080008250910
-
-## Luxembourg/Luxemburg
-
-Biosimilar Collaborations Ireland Limited
-
-Tél/Tel: 0080008250910
 
 ## Česká republika
 
 Biocon Biologics Germany GmbH Tel: 0080008250910
 
-## Magyarország
-
-Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
-
 ## Danmark
 
 Biocon Biologics Finland OY Tlf: 0080008250910
-
-## Malta
-
-Biosimilar Collaborations Ireland Limited
-
-Tel.: 0080008250910
 
 ## Deutschland
 
@@ -6330,15 +6305,35 @@ Biocon Biologics Germany GmbH
 
 Tel: 0080008250910
 
-## Nederland
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
 ## Eesti
 
 Biosimilar Collaborations Ireland Limited
 
 Tel: 0080008250910
+
+## Lietuva
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Luxembourg/Luxemburg
+
+Biosimilar Collaborations Ireland Limited
+
+Tél/Tel: 0080008250910
+
+## Magyarország
+
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+
+## Malta
+
+Biosimilar Collaborations Ireland Limited
+
+Tel.: 0080008250910
+
+## Nederland
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 

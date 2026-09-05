@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-12 11:05:02
+document_datetime: 2026-09-03 10:39:45
 document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/velsipity-epar-product-information_en.pdf
 document_name: velsipity-epar-product-information_en.pdf
 version: success
-processing_time: 14.0949512
-conversion_datetime: 2025-12-30 09:25:20.141805
+processing_time: 16.0678772
+conversion_datetime: 2026-09-05 10:42:36.500938
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -102,14 +102,14 @@ Tablets should be swallowed whole with water and not be split, crushed or chewed
 
 ## 4.3 Contraindications
 
--  Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
--  Immunodeficient state (see section 4.4).
--  Patients who in the last 6 months experienced myocardial infarction, unstable angina pectoris, stroke, transient ischaemic attack (TIA), decompensated heart failure requiring hospitalisation, or New York Heart Association (NYHA) Class III/IV heart failure.
--  Patients with history or presence of Mobitz type II second-degree or third-degree atrioventricular (AV) block, sick sinus syndrome, or sino-atrial block, unless patient has a functioning pacemaker.
--  Severe active infections, active chronic infections such as hepatitis or tuberculosis (see section 4.4).
--  Active malignancies.
--  Severe hepatic impairment.
--  During pregnancy and in women of childbearing potential not using effective contraception (see sections 4.4 and 4.6).
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Immunodeficient state (see section 4.4).
+- Patients who in the last 6 months experienced myocardial infarction, unstable angina pectoris, stroke, transient ischaemic attack (TIA), decompensated heart failure requiring hospitalisation, or New York Heart Association (NYHA) Class III/IV heart failure.
+- Patients with history or presence of Mobitz type II second-degree or third-degree atrioventricular (AV) block, sick sinus syndrome, or sino-atrial block, unless patient has a functioning pacemaker.
+- Severe active infections, active chronic infections such as hepatitis or tuberculosis (see section 4.4).
+- Active malignancies.
+- Severe hepatic impairment.
+- During pregnancy and in women of childbearing potential not using effective contraception (see sections 4.4 and 4.6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -129,10 +129,10 @@ Temporary interruption of beta-blocker treatment may be needed prior to initiati
 
 Cardiologist advice should be obtained before initiation of etrasimod to determine overall benefit risk and the most appropriate monitoring strategy in patients with the following conditions:
 
--  Significant QT prolongation (QTcF ≥ 450 msec in males, ≥ 470 msec in females).
--  Arrhythmias requiring treatment with Class Ia or Class III anti-arrhythmic medicinal products.
--  Unstable ischaemic heart disease, history of cardiac arrest, cerebrovascular disease (occurring more than 6 months prior to treatment initiation), or uncontrolled hypertension.
--  History of symptomatic bradycardia, recurrent cardiogenic syncope, or severe untreated sleep apnoea.
+- Significant QT prolongation (QTcF ≥ 450 msec in males, ≥ 470 msec in females).
+- Arrhythmias requiring treatment with Class Ia or Class III anti-arrhythmic medicinal products.
+- Unstable ischaemic heart disease, history of cardiac arrest, cerebrovascular disease (occurring more than 6 months prior to treatment initiation), or uncontrolled hypertension.
+- History of symptomatic bradycardia, recurrent cardiogenic syncope, or severe untreated sleep apnoea.
 
 ## First dose monitoring in patients with certain pre-existing cardiac conditions
 
@@ -142,10 +142,10 @@ Patients should be monitored with hourly pulse and blood pressure measurement du
 
 Additional monitoring is recommended in patients, if at the end of 4-hour period:
 
--  Heart rate is &lt; 45 bpm.
--  Heart rate is the lowest value post dose, suggesting that the maximum decrease in heart rate may not have occurred yet.
--  ECG shows evidence of a new onset second-degree or higher AV block.
--  QTc interval is ≥ 500 msec.
+- Heart rate is &lt; 45 bpm.
+- Heart rate is the lowest value post dose, suggesting that the maximum decrease in heart rate may not have occurred yet.
+- ECG shows evidence of a new onset second-degree or higher AV block.
+- QTc interval is ≥ 500 msec.
 
 In these cases, appropriate management should be initiated, and observation should continue until the symptoms/findings have resolved. If medical treatment is required, monitoring should be continued overnight, and a 4-hour monitoring period should be repeated after the second dose of etrasimod.
 
@@ -239,11 +239,9 @@ Etrasimod should not be co-administered with a therapeutic agent or a combinatio
 
 The use of etrasimod is not recommended when co-administered with a therapeutic agent or a combination of agents that are moderate to strong inducers of two or more of the following CYP enzymes (CYP2C8, CYP2C9, and CYP3A4) due to the risk of decreased exposure to etrasimod (see section 4.5).
 
-The use of etrasimod is not recommended in patients who are known or suspected to be CYP2C9 poor metabolisers (&lt; 5% of the population) and who take medicinal products that are moderate or strong
+The use of etrasimod is not recommended in patients who are known or suspected to be CYP2C9 poor metabolisers (&lt; 5% of the population) and who take medicinal products that are moderate or strong inhibitors of CYP2C8 and/or CYP3A4 due to the risk of increased exposure of etrasimod (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-inhibitors of CYP2C8 and/or CYP3A4 due to the risk of increased exposure of etrasimod (see section 4.5).
 
 ## Respiratory effects
 
@@ -257,7 +255,7 @@ This medicinal product contains tartrazine (E102) which may cause allergic react
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium - free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -277,7 +275,7 @@ Due to the potential for increased exposure of etrasimod, co-administration of e
 
 The initiation of a beta blocker with stable treatment of etrasimod has not been studied.
 
-The effect of co-administration of etrasimod and a calcium channel blocker has not been studied.
+## The effect of co-administration of etrasimod and a calcium channel blocker has not been studied.
 
 Caution is recommended for patients receiving medicinal products that slow heart rate or atrioventricular conduction because of the potential additive effects on lowering heart rate (see section 4.4).
 
@@ -339,7 +337,7 @@ However, patients who experience dizziness after taking etrasimod should refrain
 
 ## 4.8 Undesirable effects
 
-Summary of the safety profile
+## Summary of the safety profile
 
 The most common adverse reactions are lymphopenia (11%) and headache (7%).
 
@@ -351,10 +349,10 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/
 
 Table 1: Adverse reactions
 
-| System organ class (SOC)             | Very common   | Common                                                        | Uncommon   |
-|--------------------------------------|---------------|---------------------------------------------------------------|------------|
-| Infections and infestations          |               | Urinary tract infection a lower respiratory tract infection b |            |
-| Blood and lymphatic system disorders | Lymphopenia c | Neutropenia                                                   |            |
+| System organ class (SOC)             | Very common   | Common                                                          | Uncommon   |
+|--------------------------------------|---------------|-----------------------------------------------------------------|------------|
+| Infections and infestations          |               | Urinary tract infection a , lower respiratory tract infection b |            |
+| Blood and lymphatic system disorders | Lymphopenia c | Neutropenia                                                     |            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -366,17 +364,9 @@ Table 1: Adverse reactions
 | Vascular disorders                   | Hypertension              |                          |
 | Hepatobiliary disorders              | Hepatic enzyme increased  |                          |
 
-- a  Urinary tract infection includes urinary tract infection and cystitis.
+- e  Bradycardia includes bradycardia and sinus bradycardia . See 'Description of selected adverse reactions' below.
 
-b Lower respiratory tract infection includes bronchitis and pneumonia.
-
-- c  Lymphopenia includes lymphopenia, lymphocyte count decreased, and lymphocyte percentage decreased.
-
-d Hypercholesterolaemia includes hypercholesterolaemia and blood cholesterol increased.
-
-- e Bradycardia includes bradycardia and sinus bradycardia. See 'Description of selected adverse reactions' below.
-
-f Atrioventricular block includes first- or second-degree Mobitz type I. See 'Description of selected adverse reactions' below.
+f Atrioventricular block includes first- or second-degree Mobitz type I . See 'Description of selected adverse reactions' below.
 
 ## Description of selected adverse reactions
 
@@ -430,7 +420,7 @@ Pharmacotherapeutic group: Immunosuppressants, sphingosine 1-phosphate (S1P) rec
 
 ## Mechanism of action
 
-Etrasimod is a sphingosine-1-phosphate (S1P) receptor modulator that binds to S1P receptors 1, 4 and 5 (S1P1,4,5 ) and is a balanced G-protein and beta-arrestin agonist at S1P 1 . Etrasimod has minimal activity on S1P3 and no activity on S1P2. Etrasimod partially and reversibly blocks the capacity of lymphocytes to egress from lymphoid organs, reducing the number of lymphocytes in peripheral blood thereby lowering the number of activated lymphocytes in the tissue.
+Etrasimod is a sphingosine-1-phosphate (S1P) receptor modulator that binds to S1P receptors 1, 4 and 5 (S1P1,4,5) and is a balanced G-protein and beta-arrestin agonist at S1P1. Etrasimod has minimal activity on S1P3 and no activity on S1P2. Etrasimod partially and reversibly blocks the capacity of lymphocytes to egress from lymphoid organs, reducing the number of lymphocytes in peripheral blood thereby lowering the number of activated lymphocytes in the tissue.
 
 The mechanism by which etrasimod exerts therapeutic effects in UC is unknown but may involve the reduction of lymphocyte migration into sites of inflammation. The etrasimod-induced reduction of lymphocytes in the peripheral circulation has differential effects on leucocyte subpopulations, with greater decreases in cells involved in the adaptive immune response known to be involved in driving UC pathology. Etrasimod has minimal impact on cells involved in innate immune response, which contribute to immunosurveillance.
 
@@ -462,13 +452,13 @@ Patients in these studies may have received the following concomitant UC therapi
 
 ## ELEVATE UC 52
 
-ELEVATE UC 52 was a 'treat-through' study, with a total of 433 patients randomised to receive etrasimod 2 mg or placebo at a 2:1 ratio administered orally once daily. Patients remained on their assigned treatment for the duration of the study.
+ELEVATE UC 52 was a ' treat-through ' study, with a total of 433 patients randomised to receive etrasimod 2 mg or placebo at a 2:1 ratio administered orally once daily. Patients remained on their assigned treatment for the duration of the study.
 
 <div style=\"page-break-after: always\"></div>
 
 At baseline, enrolled patients had a median mMS of 7, 8% of enrolled patients presented with isolated proctitis. A total of 30% of patients had prior exposure to biologic/JAK inhibitors; a total of 14% of patients had exposure to &gt; 1 biologic/JAK inhibitor and 11% of patients had prior exposure to anti-integrins. At baseline, 77% of patients were receiving oral aminosalicylates and 31% of patients were receiving oral corticosteroids.
 
-The co-primary endpoints were the proportion of patients achieving clinical remission at Week 12 and at Week 52, with clinical remission defined as stool frequency (SF) subscore of 0 (or 1 with a ≥ 1-point decrease from baseline), RB subscore of 0, and ES ≤ 1 (excluding friability). The secondary endpoints included the proportion of patients achieving endoscopic improvement, symptomatic remission, mucosal healing, clinical response, corticosteroid-free clinical remission, and sustained clinical remission. The primary analysis was conducted at Week 12 and at Week 52 in patients with moderately to severely active disease, defined as mMS 5 to 9 (see Table 2).
+The co-primary endpoints were the proportion of patients achieving clinical remission at Week 12 and at Week 52, with clinical remission defined as stool frequency (SF) subscore of 0 (or 1 with a ≥ 1point decrease from baseline), RB subscore of 0, and ES ≤ 1 (excluding friability). The secondary endpoints included the proportion of patients achieving endoscopic improvement, symptomatic remission, mucosal healing, clinical response, corticosteroid-free clinical remission, and sustained clinical remission. The primary analysis was conducted at Week 12 and at Week 52 in patients with moderately to severely active disease, defined as mMS 5 to 9 (see Table 2).
 
 Of the 433 patients randomised, 91.7% and 86.1% of the patients completed Week 12 in the etrasimod and placebo group, respectively. Beginning with Week 12, patients with no improvement from baseline or who met disease worsening criteria could discontinue per the discretion of the investigator and could continue in the open label extension study. In this treatthrough study 55.7% and 31.9% completed Week 52 treatment in the etrasimod and placebo group, respectively.
 
@@ -476,92 +466,68 @@ A significantly greater proportion of patients treated with etrasimod achieved c
 
 Table 2: Proportion of patients meeting efficacy endpoints at Week 12 and at Week 52 in ELEVATE UC 52
 
-|                                           | Placebo N = 135   | Placebo N = 135   | Etrasimod 2 mg N = 274   | Etrasimod 2 mg N = 274   | Treatment difference (95% CI) a   |
-|-------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|-----------------------------------|
-|                                           | n                 | %                 | n                        | %                        |                                   |
-| Week 12 endpoints                         | Week 12 endpoints | Week 12 endpoints | Week 12 endpoints        | Week 12 endpoints        | Week 12 endpoints                 |
-| Clinical remission b                      | 10                | 7%                | 74                       | 27%                      | 20% (13%, 27%) l                  |
-| No prior biologic/ JAK inhibitor exposure | 9/93              | 10%               | 60/194                   | 31%                      |                                   |
-| Prior biologic/ JAK inhibitor exposure    | 1/42              | 2%                | 14/80                    | 18%                      |                                   |
-| Endoscopic improvement c                  | 19                | 14%               | 96                       | 35%                      | 21% (13%, 29%) l                  |
-| No prior biologic/ JAK inhibitor exposure | 17/93             | 18%               | 76/194                   | 39%                      |                                   |
-| Prior biologic/ JAK inhibitor exposure    | 2/42              | 5%                | 20/80                    | 25%                      |                                   |
-| Symptomatic remission d                   | 29                | 22%               | 126                      | 46%                      | 25% (15%, 34%) l                  |
-| No prior biologic/ JAK inhibitor exposure | 22/93             | 24%               | 101/194                  | 52%                      |                                   |
-| Prior biologic/ JAK inhibitor exposure    | 7/42              | 17%               | 25/80                    | 31%                      |                                   |
-| Mucosal healing e                         | 6                 | 4%                | 58                       | 21%                      | 17% (11%, 23%) l                  |
+|                                           | Placebo N = 135   | Placebo N = 135   | Etrasimod 2 mg N = 274   | Etrasimod 2 mg N = 274   | Treatment difference a   |
+|-------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|--------------------------|
+|                                           | n                 | %                 | n                        | %                        | (95% CI)                 |
+| Week 12 endpoints                         |                   |                   |                          |                          |                          |
+| Clinical remission b                      | 10                | 7%                | 74                       | 27%                      | 20% (13%, 27%) l         |
+| No prior biologic/ JAK inhibitor exposure | 9/93              | 10%               | 60/194                   | 31%                      |                          |
+| Prior biologic/ JAK inhibitor exposure    | 1/42              | 2%                | 14/80                    | 18%                      |                          |
+| Endoscopic improvement c                  | 19                | 14%               | 96                       | 35%                      | 21% (13%, 29%) l         |
+| No prior biologic/ JAK inhibitor exposure | 17/93             | 18%               | 76/194                   | 39%                      |                          |
+| Prior biologic/ JAK inhibitor exposure    | 2/42              | 5%                | 20/80                    | 25%                      |                          |
+| Symptomatic remission d                   | 29                | 22%               | 126                      | 46%                      | 25% (15%, 34%) l         |
+| No prior biologic/ JAK inhibitor exposure | 22/93             | 24%               | 101/194                  | 52%                      |                          |
+| Prior biologic/ JAK inhibitor exposure    | 7/42              | 17%               | 25/80                    | 31%                      |                          |
+| Mucosal healing e                         | 6                 | 4%                | 58                       | 21%                      | 17% (11%, 23%) l         |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                           | Placebo N = 135   | Placebo N = 135   | Etrasimod 2 mg N   | 274   | Treatment difference a   |
-|-------------------------------------------|-------------------|-------------------|--------------------|-------|--------------------------|
-|                                           | n                 | %                 | n                  | %     | (95% CI)                 |
-| No prior biologic/ JAK inhibitor exposure | 6/93              | 7%                | 47/194             | 24%   |                          |
-| Prior biologic/ JAK inhibitor exposure    | 0/42              | 0%                | 11/80              | 14%   |                          |
-| Clinical response f                       | 46                | 34%               | 171                | 62%   | 28% (19%, 38%) l         |
-| No prior biologic/ JAK inhibitor exposure | 35/93             | 38%               | 132/194            | 68%   |                          |
-| Prior biologic/ JAK inhibitor exposure    | 11/42             | 26%               | 39/80              | 49%   |                          |
-| Week 52 endpoints                         |                   |                   |                    |       |                          |
-| Clinical remission b                      | 9                 | 7%                | 88                 | 32%   | 25% (18%, 32%) l         |
-| No prior biologic/ JAK inhibitor exposure | 7/93              | 8%                | 71/194             | 37%   |                          |
-| Prior biologic/ JAK inhibitor exposure    | 2/42              | 5%                | 17/80              | 21%   |                          |
-| Endoscopic improvement c                  | 14                | 10%               | 102                | 37%   | 27% (19%, 34%) l         |
-| No prior biologic/ JAK inhibitor exposure | 12/93             | 13%               | 78/194             | 40%   |                          |
-| Prior biologic/ JAK inhibitor exposure    | 2/42              | 5%                | 24/80              | 30%   |                          |
-| Symptomatic remission d                   | 25                | 19%               | 119                | 43%   | 25% (16%, 34%) l         |
-| No prior biologic/ JAK inhibitor exposure | 19/93             | 20%               | 97/194             | 50%   |                          |
-| Prior biologic/ JAK inhibitor exposure    | 6/42              | 14%               | 22/80              | 28%   |                          |
-| Mucosal healing e                         | 11                | 8%                | 73                 | 27%   | 18% (11%, 25%) l         |
-| No prior biologic/ JAK inhibitor exposure | 10/93             | 11%               | 55/194             | 28%   |                          |
-| Prior biologic/ JAK inhibitor exposure    | 1/42              | 2%                | 18/80              | 23%   |                          |
-| Clinical response f                       | 31                | 23%               | 132                | 48%   | 25% (16%, 34%) l         |
-| No prior biologic/ JAK inhibitor exposure | 25/93             | 27%               | 103/194            | 53%   |                          |
-| Prior biologic/ JAK inhibitor exposure    | 6/42              | 14%               | 29/80              | 36%   |                          |
-| Sustained clinical remission g            | 3                 | 2%                | 49                 | 18%   | 16% (11%, 21%) l         |
-| No prior biologic/ JAK inhibitor exposure | 2/93              | 2%                | 41/194             | 21%   |                          |
+|                                           | Placebo N = 135   | Placebo N = 135   | Etrasimod 2 mg N = 274   | Etrasimod 2 mg N = 274   | Treatment difference a   |
+|-------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|--------------------------|
+|                                           | n                 | %                 | n                        | %                        | (95% CI)                 |
+| No prior biologic/ JAK inhibitor exposure | 6/93              | 7%                | 47/194                   | 24%                      |                          |
+| Prior biologic/ JAK inhibitor exposure    | 0/42              | 0%                | 11/80                    | 14%                      |                          |
+| Clinical response f                       | 46                | 34%               | 171                      | 62%                      | 28% (19%, 38%) l         |
+| No prior biologic/ JAK inhibitor exposure | 35/93             | 38%               | 132/194                  | 68%                      |                          |
+| Prior biologic/ JAK inhibitor exposure    | 11/42             | 26%               | 39/80                    | 49%                      |                          |
+| Week 52 endpoints                         |                   |                   |                          |                          |                          |
+| Clinical remission b                      | 9                 | 7%                | 88                       | 32%                      | 25% (18%, 32%) l         |
+| No prior biologic/ JAK inhibitor exposure | 7/93              | 8%                | 71/194                   | 37%                      |                          |
+| Prior biologic/ JAK inhibitor exposure    | 2/42              | 5%                | 17/80                    | 21%                      |                          |
+| Endoscopic improvement c                  | 14                | 10%               | 102                      | 37%                      | 27% (19%, 34%) l         |
+| No prior biologic/ JAK inhibitor exposure | 12/93             | 13%               | 78/194                   | 40%                      |                          |
+| Prior biologic/ JAK inhibitor exposure    | 2/42              | 5%                | 24/80                    | 30%                      |                          |
+| Symptomatic remission d                   | 25                | 19%               | 119                      | 43%                      | 25% (16%, 34%) l         |
+| No prior biologic/ JAK inhibitor exposure | 19/93             | 20%               | 97/194                   | 50%                      |                          |
+| Prior biologic/ JAK inhibitor exposure    | 6/42              | 14%               | 22/80                    | 28%                      |                          |
+| Mucosal healing e                         | 11                | 8%                | 73                       | 27%                      | 18% (11%, 25%) l         |
+| No prior biologic/ JAK inhibitor exposure | 10/93             | 11%               | 55/194                   | 28%                      |                          |
+| Prior biologic/ JAK inhibitor exposure    | 1/42              | 2%                | 18/80                    | 23%                      |                          |
+| Clinical response f                       | 31                | 23%               | 132                      | 48%                      | 25% (16%, 34%) l         |
+| No prior biologic/ JAK inhibitor exposure | 25/93             | 27%               | 103/194                  | 53%                      |                          |
+| Prior biologic/ JAK inhibitor exposure    | 6/42              | 14%               | 29/80                    | 36%                      |                          |
+| Sustained clinical remission g            | 3                 | 2%                | 49                       | 18%                      | 16% (11%, 21%) l         |
+| No prior biologic/ JAK inhibitor exposure | 2/93              | 2%                | 41/194                   | 21%                      |                          |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                                  | Placebo N = 135   | Placebo N = 135   | Etrasimod 2 mg N = 274   | Etrasimod 2 mg N = 274   | Treatment difference (95% CI) a   |
-|--------------------------------------------------------------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|-----------------------------------|
-|                                                                                                  | n                 | %                 | n                        | %                        |                                   |
-| Prior biologic/ JAK inhibitor exposure                                                           | 1/42              | 2%                | 8/80                     | 10%                      |                                   |
-| Corticosteroid-free clinical remission h                                                         | 9                 | 7%                | 88                       | 32%                      | 25% (18%, 32%) l                  |
-| No prior biologic/ JAK inhibitor exposure                                                        | 7/93              | 8%                | 71/194                   | 37%                      |                                   |
-| Prior biologic/ JAK inhibitor exposure                                                           | 2/42              | 5%                | 17/80                    | 21%                      |                                   |
-| Corticosteroid-free clinical remission among patients treated with corticosteroids at baseline i | 3/40              | 8%                | 27/87                    | 31%                      | 23% (10%, 36%) l                  |
-| No prior biologic/ JAK inhibitor exposure                                                        | 2/26              | 8%                | 22/59                    | 37%                      |                                   |
-| Prior biologic/ JAK inhibitor exposure                                                           | 1/14              | 7%                | 5/28                     | 18%                      |                                   |
-| Corticosteroid-free symptomatic remission j                                                      | 25                | 19%               | 119                      | 43%                      | 25% (16%, 34%) l                  |
-| No prior biologic/ JAK inhibitor exposure                                                        | 19/93             | 20%               | 97/194                   | 50%                      |                                   |
-| Prior biologic/ JAK inhibitor exposure                                                           | 6/42              | 14%               | 22/80                    | 28%                      |                                   |
-| Corticosteroid-free endoscopic improvement k                                                     | 14                | 10%               | 101                      | 37%                      | 26% (19%, 34%) l                  |
-| No prior biologic/ JAK inhibitor exposure                                                        | 12/93             | 13%               | 78/194                   | 40%                      |                                   |
-| Prior biologic/ JAK inhibitor exposure                                                           | 2/42              | 5%                | 23/80                    | 29%                      |                                   |
-
-a Treatment difference (adjusted for stratification factors of prior biologic/JAK inhibitor exposure, corticosteroid use at baseline, and baseline mMS group).
-
-b Clinical remission was defined as SF subscore of 0 (or 1 with a ≥ 1-point decrease from baseline), RB subscore of 0, and ES ≤ 1 (excluding friability).
-
-c Endoscopic improvement was defined as ES ≤ 1 (excluding friability).
-
-d Symptomatic remission was defined as SF subscore of 0 (or 1 with a ≥ 1-point decrease from baseline) and RB subscore of 0.
-
-e Mucosal healing was defined as ES ≤ 1 (excluding friability) with histologic remission (Geboes Index score
-
-&lt; 2.0, indicating no neutrophils in the epithelial crypts or lamina propria, no increase in eosinophils, and no crypt destruction, erosions, ulcerations, or granulation tissue).
-
-f Clinical response was defined as a ≥ 2-point and ≥ 30% decrease from baseline in mMS, and a ≥ 1-point decrease from baseline in RB subscore or an absolute RB subscore ≤ 1.
-
-g Sustained clinical remission was defined as clinical remission at both Week 12 and Week 52.
-
-h Corticosteroid-free clinical remission was defined as clinical remission at Week 52 without receiving corticosteroids for at least 12 weeks immediately prior to Week 52.
-
-i Corticosteroid-free clinical remission among patients treated with corticosteroids at baseline was defined as clinical remission at Week 52 without receiving corticosteroids for at least 12 weeks immediately prior to Week 52 among patients treated with corticosteroids at baseline.
-
-j Corticosteroid-free symptomatic remission was defined as SF subscore of 0 (or 1 with a ≥ 1-point decrease from baseline) and RB subscore of 0 for at least 12 weeks immediately prior to Week 52.
-
-k Corticosteroid-free endoscopic improvement was defined as ES ≤ 1 (excluding friability) for at least 12 weeks immediately prior to Week 52.
+|                                                                                                  | Placebo N = 135   | Placebo N = 135   | Etrasimod 2 mg N = 274   | Etrasimod 2 mg N = 274   | Treatment difference a   |
+|--------------------------------------------------------------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|--------------------------|
+|                                                                                                  | n                 | %                 | n                        | %                        | (95% CI)                 |
+| Prior biologic/ JAK inhibitor exposure                                                           | 1/42              | 2%                | 8/80                     | 10%                      |                          |
+| Corticosteroid-free clinical remission h                                                         | 9                 | 7%                | 88                       | 32%                      | 25% (18%, 32%) l         |
+| No prior biologic/ JAK inhibitor exposure                                                        | 7/93              | 8%                | 71/194                   | 37%                      |                          |
+| Prior biologic/ JAK inhibitor exposure                                                           | 2/42              | 5%                | 17/80                    | 21%                      |                          |
+| Corticosteroid-free clinical remission among patients treated with corticosteroids at baseline i | 3/40              | 8%                | 27/87                    | 31%                      | 23% (10%, 36%) l         |
+| No prior biologic/ JAK inhibitor exposure                                                        | 2/26              | 8%                | 22/59                    | 37%                      |                          |
+| Prior biologic/ JAK inhibitor exposure                                                           | 1/14              | 7%                | 5/28                     | 18%                      |                          |
+| Corticosteroid-free symptomatic remission j                                                      | 25                | 19%               | 119                      | 43%                      | 25% (16%, 34%) l         |
+| No prior biologic/ JAK inhibitor exposure                                                        | 19/93             | 20%               | 97/194                   | 50%                      |                          |
+| Prior biologic/ JAK inhibitor exposure                                                           | 6/42              | 14%               | 22/80                    | 28%                      |                          |
+| Corticosteroid-free endoscopic improvement k                                                     | 14                | 10%               | 101                      | 37%                      | 26% (19%, 34%) l         |
+| No prior biologic/ JAK inhibitor exposure                                                        | 12/93             | 13%               | 78/194                   | 40%                      |                          |
+| Prior biologic/ JAK inhibitor exposure                                                           | 2/42              | 5%                | 23/80                    | 29%                      |                          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -601,34 +567,32 @@ At baseline, enrolled patients had a median mMS of 7, with 5.6% of patients havi
 
 Of the 354 patients randomised, 89.5% and 88.8% of the patients completed Week 12 in the etrasimod and placebo group, respectively.
 
-The primary endpoint was the proportion of patients achieving clinical remission at Week 12. The secondary endpoints included the proportion of patients achieving endoscopic improvement, symptomatic remission, mucosal healing, and clinical response at Week 12. The primary analysis was
+The primary endpoint was the proportion of patients achieving clinical remission at Week 12. The secondary endpoints included the proportion of patients achieving endoscopic improvement, symptomatic remission, mucosal healing, and clinical response at Week 12. The primary analysis was conducted at Week 12 in patients with moderately to severely active disease, defined as mMS 5 to 9 (see Table 3).
 
 <div style=\"page-break-after: always\"></div>
-
-conducted at Week 12 in patients with moderately to severely active disease, defined as mMS 5 to 9 (see Table 3).
 
 A significantly greater proportion of patients treated with etrasimod achieved clinical remission, endoscopic improvement, symptomatic remission, and mucosal healing at Week 12, compared to placebo (see Table 3).
 
 Table 3: Proportion of patients meeting efficacy endpoints at Week 12 in ELEVATE UC 12
 
-| Endpoints                                | Placebo N = 112   | Placebo N = 112   | Etrasimod 2 mg N = 222   | Etrasimod 2 mg N = 222   | Treatment difference (95% CI) a   |
-|------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|-----------------------------------|
-|                                          | n                 | %                 | n                        | %                        | Treatment difference (95% CI) a   |
-| Clinical remission b                     | 17                | 15%               | 55                       | 25%                      | 10% (1%, 18%) g                   |
-| No prior biologic/JAK inhibitor exposure | 12/74             | 16%               | 41/148                   | 28%                      |                                   |
-| Prior biologic/JAK inhibitor exposure    | 5/38              | 13%               | 14/74                    | 19%                      |                                   |
-| Endoscopic improvement c                 | 21                | 19%               | 68                       | 31%                      | 12% (3%, 21%) g                   |
-| No prior biologic/JAK inhibitor exposure | 14/74             | 19%               | 51/148                   | 35%                      |                                   |
-| Prior biologic/JAK inhibitor exposure    | 7/38              | 18%               | 17/74                    | 23%                      |                                   |
-| Symptomatic remission d                  | 33                | 30%               | 104                      | 47%                      | 17% (7%, 28%) g                   |
-| No prior biologic/JAK inhibitor exposure | 23/74             | 31%               | 73/148                   | 49%                      |                                   |
-| Prior biologic/JAK inhibitor exposure    | 10/38             | 26%               | 31/74                    | 42%                      |                                   |
-| Mucosal healing e                        | 10                | 9%                | 36                       | 16%                      | 7% (1%, 14%) g                    |
-| No prior biologic/JAK inhibitor exposure | 8/74              | 11%               | 28/148                   | 19%                      |                                   |
-| Prior biologic/JAK inhibitor exposure    | 2/38              | 5%                | 8/74                     | 11%                      |                                   |
-| Clinical response f                      | 46                | 41%               | 138                      | 62%                      | 21% (10%, 32%) h                  |
-| No prior biologic/JAK inhibitor exposure | 32/74             | 43%               | 97/148                   | 66%                      |                                   |
-| Prior biologic/JAK inhibitor exposure    | 14/38             | 37%               | 41/74                    | 55%                      |                                   |
+| Endpoints                                | Placebo N = 112   | Placebo N = 112   | Etrasimod 2 mg N = 222   | Etrasimod 2 mg N = 222   | Treatment difference a   |
+|------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|--------------------------|
+|                                          | n                 | %                 | n                        | %                        | (95% CI)                 |
+| Clinical remission b                     | 17                | 15%               | 55                       | 25%                      | 10% (1%, 18%) g          |
+| No prior biologic/JAK inhibitor exposure | 12/74             | 16%               | 41/148                   | 28%                      |                          |
+| Prior biologic/JAK inhibitor exposure    | 5/38              | 13%               | 14/74                    | 19%                      |                          |
+| Endoscopic improvement c                 | 21                | 19%               | 68                       | 31%                      | 12% (3%, 21%) g          |
+| No prior biologic/JAK inhibitor exposure | 14/74             | 19%               | 51/148                   | 35%                      |                          |
+| Prior biologic/JAK inhibitor exposure    | 7/38              | 18%               | 17/74                    | 23%                      |                          |
+| Symptomatic remission d                  | 33                | 30%               | 104                      | 47%                      | 17% (7%, 28%) g          |
+| No prior biologic/JAK inhibitor exposure | 23/74             | 31%               | 73/148                   | 49%                      |                          |
+| Prior biologic/JAK inhibitor exposure    | 10/38             | 26%               | 31/74                    | 42%                      |                          |
+| Mucosal healing e                        | 10                | 9%                | 36                       | 16%                      | 7% (1%, 14%) g           |
+| No prior biologic/JAK inhibitor exposure | 8/74              | 11%               | 28/148                   | 19%                      |                          |
+| Prior biologic/JAK inhibitor exposure    | 2/38              | 5%                | 8/74                     | 11%                      |                          |
+| Clinical response f                      | 46                | 41%               | 138                      | 62%                      | 21% (10%, 32%) h         |
+| No prior biologic/JAK inhibitor exposure | 32/74             | 43%               | 97/148                   | 66%                      |                          |
+| Prior biologic/JAK inhibitor exposure    | 14/38             | 37%               | 41/74                    | 55%                      |                          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -664,17 +628,17 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## 5.2 Pharmacokinetic properties
 
-Following etrasimod single oral dosing, Cmax and AUC increased approximately dose-proportionally in the dose-range studied (0.1 mg to 5 mg). Following multiple dosing, mean Cmax and AUC increased slightly more than dose proportional from 0.7 mg to 2 mg. Steady state plasma concentrations are reached within 7 days following 2 mg once daily dosing, with a mean Cmax of 113 ng/mL and AUCtau of 2163 h*ng/mL. Estimated steady state etrasimod accumulation ratio ranges from about 2- to 3-fold. The pharmacokinetics of etrasimod is similar in healthy subjects and subjects with UC.
+Following etrasimod single oral dosing, Cmax and AUC increased approximately dose-proportionally in the dose-range studied (0.1 mg to 5 mg). Following multiple dosing, mean Cmax and AUC increased slightly more than dose proportional from 0.7 mg to 2 mg. Steady state plasma concentrations are reached within 7 days following 2 mg once daily dosing, with a mean Cmax of 113 ng/mL and AUCtau of 2163 h*ng/mL. Estimated steady state etrasimod accumulation ratio ranges from about 2- to 3 - fold. The pharmacokinetics of etrasimod is similar in healthy subjects and subjects with UC.
 
 ## Absorption
 
-The time (Tmax) to reach maximum plasma concentrations (Cmax) after oral administration of immediate release oral pharmaceutical forms of etrasimod is approximately 4 hours (range 2-8 hours). Etrasimod absorption is extensive, based on high permeability and observation of relatively little intact etrasimod eliminated in the faeces (11.2% of administered radioactive dose).
+The time (Tmax) to reach maximum plasma concentrations (Cmax) after oral administration of immediate release oral pharmaceutical forms of etrasimod is approximately 4 hours (range 2 - 8 hours). Etrasimod absorption is extensive, based on high permeability and observation of relatively little intact etrasimod eliminated in the faeces (11.2% of administered radioactive dose).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Effect of food
 
-Food intake can result in slightly delayed absorption (the median T max increased by 2 hours). Food does not have an effect on etrasimod exposure measures (Cmax and AUC); therefore, etrasimod can be administered without regard to meals.
+Food intake can result in slightly delayed absorption (the median Tmax increased by 2 hours). Food does not have an effect on etrasimod exposure measures (Cmax and AUC); therefore, etrasimod can be administered without regard to meals.
 
 ## Distribution
 
@@ -688,7 +652,7 @@ Etrasimod is not a substrate of P-gp, BCRP, OATP1B1/3, OAT1/3, or OCT1/2 transpo
 
 ## Elimination
 
-After oral administration, the apparent steady state oral clearance (CL/F) was approximately 1 L/h. The mean plasma effective elimination half-life (t 1/2 ) of etrasimod is approximately 30 hours.
+After oral administration, the apparent steady state oral clearance (CL/F) was approximately 1 L/h. The mean plasma effective elimination half-life (t1/2) of etrasimod is approximately 30 hours.
 
 ## Excretion
 
@@ -815,6 +779,8 @@ Almac Pharma Services (lreland) Limited Finnabair Industrial Estate Dundalk, A91
 
 Almac Pharma Services Limited Seagoe Industrial Estate Portadown, Craigavon, BT63 5UA United Kingdom
 
+Pfizer Service Company BV Hermeslaan 11 1932 Zaventem Belgium
+
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
@@ -823,7 +789,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -831,28 +797,28 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-##  Additional risk minimisation measures
-
-Prior to the launch of etrasimod in each Member State, the MAH must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
+
+## · Additional risk minimisation measures
+
+Prior to the launch of etrasimod in each Member State, the MAH must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
 The main objective of the programme is to increase awareness about the important identified and potential risks of the medicinal product, specifically in regard to macular oedema, symptomatic bradycardia (including conduction disorders), serious opportunistic infections, malignancy, embryofoetal toxicity, serious liver injury, and neurological events of PRES or convulsion.
 
 The MAH shall ensure that in each Member State where etrasimod is marketed, all healthcare professionals who are expected to prescribe have access to/are provided with the following educational package:
 
--  Healthcare Professional Checklist
--  Patient/Caregiver Guide
--  Pregnancy-Specific Patient Card.
+- Healthcare Professional Checklist
+- Patient/Caregiver Guide
+- Pregnancy-Specific Patient Card.
 
 ## Healthcare Professional Checklist
 
@@ -862,77 +828,76 @@ The Healthcare Professional Checklist shall contain the following key messages:
 
 Lists of tests and checks to be conducted prior to treatment initiation with etrasimod:
 
--  An electrocardiogram (ECG) should be obtained in all patients to assess for pre-existing cardiac abnormalities.
--  Etrasimod should not be used in patients:
-- -who in the last 6 months experienced myocardial infarction, unstable angina pectoris, stroke, transient ischaemic attack (TIA), decompensated heart failure requiring hospitalisation, or New York Heart Association (NYHA) Class III/IV heart failure.
-- -with history or presence of Mobitz type II second-degree or third-degree atrioventricular (AV) block, sick sinus syndrome, or sino-atrial block, unless patient has a functioning pacemaker.
--  Cardiologist advice should be obtained in patients with symptomatic bradycardia and other preexisting cardiac conditions, to determine overall benefit risk and the most appropriate monitoring strategy.
--  Caution should be taken when initiating etrasimod in patients taking medicines known to decrease heart rate.
--  Etrasimod should not be used in patients with any active infection or live attenuated vaccine immunisations within the last 4 weeks.
--  A recent complete blood count (CBC), including lymphocyte count, should be obtained.
-- -Etrasimod should not be used in patients with an absolute lymphocyte counts &lt; 0.2 x 10 9 /L.
--  Recent transaminase and bilirubin levels should be available.
-- -Etrasimod must not be used in patients with severe hepatic impairment.
--  In women of childbearing potential, a pregnancy test must be negative and patients must be counselled on risk for the foetus. Provide a pregnancy-specific patient card to all female patients of childbearing potential.
-- -Etrasimod must not be used during pregnancy or in women of childbearing potential not using effective contraception.
--  It is recommended that patients with history of diabetes mellitus, uveitis, and/or underlying/co-existing retinal disease, who are at increased risk of developing macular oedema, undergo an ophthalmic evaluation prior to treatment initiation.
-- -Patients with macular oedema should not use etrasimod.
-
-## Monitoring activities during and after treatment
-
--  In patients with resting heart rate &lt; 50 bpm, second-degree AV block [Mobitz type I], or a history of myocardial infarction or heart failure, monitoring is recommended after the first dose:
-- -4-hour monitoring for signs and symptoms of symptomatic bradycardia (including dizziness), and hourly pulse and blood pressure. An ECG prior to and at the end of this 4-hour period is recommended.
+- An electrocardiogram (ECG) should be obtained in all patients to assess for pre-existing cardiac abnormalities.
+- Etrasimod should not be used in patients:
+- who in the last 6 months experienced myocardial infarction, unstable angina pectoris, stroke, transient ischaemic attack (TIA), decompensated heart failure requiring hospitalisation, or New York Heart Association (NYHA) Class III/IV heart failure.
+- with history or presence of Mobitz type II second-degree or third-degree atrioventricular (AV) block, sick sinus syndrome, or sino-atrial block, unless patient has a functioning pacemaker.
+- Cardiologist advice should be obtained in patients with symptomatic bradycardia and other preexisting cardiac conditions, to determine overall benefit risk and the most appropriate monitoring strategy.
+- Caution should be taken when initiating etrasimod in patients taking medicines known to decrease heart rate.
+- Etrasimod should not be used in patients with any active infection or live attenuated vaccine immunisations within the last 4 weeks.
+- A recent complete blood count (CBC), including lymphocyte count, should be obtained.
+- Etrasimod should not be used in patients with an absolute lymphocyte counts &lt; 0.2 x 10 9 /L.
+- Recent transaminase and bilirubin levels should be available.
+- Etrasimod must not be used in patients with severe hepatic impairment.
+- In women of childbearing potential, a pregnancy test must be negative and patients must be counselled on risk for the foetus. Provide a pregnancy-specific patient card to all female patients of childbearing potential.
+- Etrasimod must not be used during pregnancy or in women of childbearing potential not using effective contraception.
+- It is recommended that patients with history of diabetes mellitus, uveitis, and/or underlying/co-existing retinal disease, who are at increased risk of developing macular oedema, undergo an ophthalmic evaluation prior to treatment initiation.
+- Patients with macular oedema should not use etrasimod.
 
 <div style=\"page-break-after: always\"></div>
 
--  Additional monitoring is recommended in patients, if at the end of 4-hour period:
-- -Heart rate is &lt; 45 bpm.
-- -Heart rate is the lowest value post dose, suggesting that the maximum decrease in heart rate may not have occurred yet.
-- -ECG shows evidence of a new onset second-degree or higher AV block.
-- -QTc interval is ≥ 500 msec.
--  Recommendation for measuring blood pressure regularly while on treatment.
--  When reinitiating treatment after an interruption of 7 or more consecutive days, consideration may be given to repeating the baseline ECG and/or monitoring depending on the results of the first evaluation, change in patient characteristics, and duration of interruption.
--  Recommendation for assessments of CBC periodically during treatment.
--  Treatment interruption if a patient develops a serious infection.
--  Physicians should be vigilant for clinical symptoms or unexplained neurologic findings that may be suggestive of PML. If PML is suspected, treatment with etrasimod should be suspended until PML has been excluded by an appropriate diagnostic evaluation.
--  Caution should be used when co-administering etrasimod and anti-neoplastic, immune-modulating, or immunosuppressive (including corticosteroid) therapies to patients, because of the risk of additive immune system effects during such therapy.
--  The use of live attenuated vaccine should be avoided for at least 2 weeks after discontinuation of treatment with etrasimod.
--  Hepatic enzymes should be monitored at months 1, 3, 6, 9, and 12 on therapy and periodically thereafter. Etrasimod should be discontinued if significant liver injury is confirmed.
--  Women of childbearing potential should use effective contraception to avoid pregnancy during treatment and for at least 14 days after stopping etrasimod. Pregnancy testing should be repeated regularly. If a woman becomes pregnant during treatment, etrasimod must be immediately discontinued.
--  Patients with a history of diabetes mellitus, uveitis, and/or an underlying/co-existing retinal disease should undergo an ophthalmic evaluation regularly . An ophthalmic evaluation should be made in patients developing a change in vision.
--  In patients without risk factors for macular oedema (such as history of diabetes mellitus, uveitis, and/or retinal disease), an ophthalmic evaluation of the fundus, including the macula, is recommended within 3-4 months after starting etrasimod treatment (cases reported with etrasimod occurred within this timeframe) and at any time while on treatment if there is a change in vision.
--  Patients should be cautioned against exposure to sunlight without protection to prevent the development of cutaneous malignancies. Patients should not receive concomitant phototherapy with UV-B-radiation or PUVA-photochemotherapy.
--  Patients should be counselled for symptoms of PRES. A complete physical and neurological examination should be done and an MRI considered for patients who develop unexpected neurological or psychiatric symptoms/signs or any symptoms suggestive of an increase of intracranial pressure, or accelerated neurological deterioration. Treatment with etrasimod should be discontinued if PRES is suspected.
+## Monitoring activities during and after treatment
+
+- In patients with resting heart rate &lt; 50 bpm, second-degree AV block [Mobitz type I], or a history of myocardial infarction or heart failure, monitoring is recommended after the first dose:
+- 4-hour monitoring for signs and symptoms of symptomatic bradycardia (including dizziness), and hourly pulse and blood pressure. An ECG prior to and at the end of this 4-hour period is recommended.
+- Additional monitoring is recommended in patients, if at the end of 4-hour period:
+- Heart rate is &lt; 45 bpm.
+- Heart rate is the lowest value post dose, suggesting that the maximum decrease in heart rate may not have occurred yet.
+- ECG shows evidence of a new onset second-degree or higher AV block.
+- QTc interval is ≥ 500 msec.
+- Recommendation for measuring blood pressure regularly while on treatment.
+- When reinitiating treatment after an interruption of 7 or more consecutive days, consideration may be given to repeating the baseline ECG and/or monitoring depending on the results of the first evaluation, change in patient characteristics, and duration of interruption.
+- Recommendation for assessments of CBC periodically during treatment.
+- Treatment interruption if a patient develops a serious infection.
+- Physicians should be vigilant for clinical symptoms or unexplained neurologic findings that may be suggestive of PML. If PML is suspected, treatment with etrasimod should be suspended until PML has been excluded by an appropriate diagnostic evaluation.
+- Caution should be used when co-administering etrasimod and anti-neoplastic, immune-modulating, or immunosuppressive (including corticosteroid) therapies to patients, because of the risk of additive immune system effects during such therapy.
+- The use of live attenuated vaccine should be avoided for at least 2 weeks after discontinuation of treatment with etrasimod.
+- Hepatic enzymes should be monitored at months 1, 3, 6, 9, and 12 on therapy and periodically thereafter. Etrasimod should be discontinued if significant liver injury is confirmed.
+- Women of childbearing potential should use effective contraception to avoid pregnancy during treatment and for at least 14 days after stopping etrasimod. Pregnancy testing should be repeated regularly. If a woman becomes pregnant during treatment, etrasimod must be immediately discontinued.
+- Patients with a history of diabetes mellitus, uveitis, and/or an underlying/co-existing retinal disease should undergo an ophthalmic evaluation regularly . An ophthalmic evaluation should be made in patients developing a change in vision.
+- In patients without risk factors for macular oedema (such as history of diabetes mellitus, uveitis, and/or retinal disease), an ophthalmic evaluation of the fundus, including the macula, is recommended within 3-4 months after starting etrasimod treatment (cases reported with etrasimod occurred within this timeframe) and at any time while on treatment if there is a change in vision.
+- Patients should be cautioned against exposure to sunlight without protection to prevent the development of cutaneous malignancies. Patients should not receive concomitant phototherapy with UV-B-radiation or PUVA-photochemotherapy.
+- Patients should be counselled for symptoms of PRES. A complete physical and neurological examination should be done and an MRI considered for patients who develop unexpected neurological or psychiatric symptoms/signs or any symptoms suggestive of an increase of intracranial pressure, or accelerated neurological deterioration. Treatment with etrasimod should be discontinued if PRES is suspected.
 
 ## Patient/Caregiver Guide
 
 The Patient/Caregiver Guide shall contain the following key messages:
 
--  Etrasimod should not be used in patients with myocardial infarction, unstable angina pectoris, stroke, TIA, decompensated heart failure requiring hospitalisation, or NYHA Class III/IV heart failure in the last 6 months or with a history or presence of Mobitz type II second-degree or third-degree AV block, sick sinus syndrome, or sino-atrial block, unless the patient has a functioning pacemaker.
--  Patients should have a baseline ECG prior to receiving the first dose.
--  For patients with certain heart conditions, heart rate should be monitored for 4 hours after the first dose of etrasimod, for signs and symptoms of symptomatic bradycardia (including dizziness), including hourly pulse and blood pressure checks. An ECG before and after the 4 hours should also be performed for these patients.
+- Etrasimod should not be used in patients with myocardial infarction, unstable angina pectoris, stroke, TIA, decompensated heart failure requiring hospitalisation, or NYHA Class III/IV heart failure in the last 6 months or with a history or presence of Mobitz type II second-degree or third-degree AV block, sick sinus syndrome, or sino-atrial block, unless the patient has a functioning pacemaker.
 
 <div style=\"page-break-after: always\"></div>
 
--  Patients should inform their prescriber if etrasimod treatment is interrupted for 7 or more consecutive days, since a new examination of the heart may be necessary before starting the treatment again.
--  Information to report immediately: symptoms indicating low heart rate (such as dizziness, vertigo, nausea, or palpitations) when starting etrasimod. Caution should be taken with concomitant use of medicines that slow the heart rate. Patients should tell any doctor they see that they are being treated with etrasimod.
--  Description of signs/symptoms of infections the patient needs to be aware of, during and after treatment, so that they can seek attention from their HCP.
--  Description of signs/symptoms of serious liver injury that the patient needs to be aware of, including unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
--  Etrasimod must not be used during pregnancy or in women of childbearing potential not using effective contraception.
-- -Women of childbearing potential must use effective contraception during and for at least 14 days after discontinuation of treatment.
-- -Women of childbearing potential must have a negative pregnancy test before treatment initiation with etrasimod. Patients should tell their doctors straight away if they become pregnant while taking etrasimod. Pregnancy testing should be repeated regularly.
--  Description of risk factors and signs/symptoms of macular oedema and the need to seek medical attention if symptoms develop.
--  Be informed to notify their doctor if suspicious skin lesions are observed and to limit their exposure to sun light and UV (ultraviolet) light, by wearing protective clothing and applying regular sunscreen (with high sun protection factor).
--  Description of signs/symptoms of PRES and PML the patient needs to be aware of, including developing severe headache, feel confused, or have seizures and loss of vision.
+- Patients should have a baseline ECG prior to receiving the first dose.
+- For patients with certain heart conditions, heart rate should be monitored for 4 hours after the first dose of etrasimod, for signs and symptoms of symptomatic bradycardia (including dizziness), including hourly pulse and blood pressure checks. An ECG before and after the 4 hours should also be performed for these patients.
+- Patients should inform their prescriber if etrasimod treatment is interrupted for 7 or more consecutive days, since a new examination of the heart may be necessary before starting the treatment again.
+- Information to report immediately: symptoms indicating low heart rate (such as dizziness, vertigo, nausea, or palpitations) when starting etrasimod. Caution should be taken with concomitant use of medicines that slow the heart rate. Patients should tell any doctor they see that they are being treated with etrasimod.
+- Description of signs/symptoms of infections the patient needs to be aware of, during and after treatment, so that they can seek attention from their HCP.
+- Description of signs/symptoms of serious liver injury that the patient needs to be aware of, including unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
+- Etrasimod must not be used during pregnancy or in women of childbearing potential not using effective contraception.
+- Women of childbearing potential must use effective contraception during and for at least 14 days after discontinuation of treatment.
+- Women of childbearing potential must have a negative pregnancy test before treatment initiation with etrasimod. Patients should tell their doctors straight away if they become pregnant while taking etrasimod. Pregnancy testing should be repeated regularly.
+- Description of risk factors and signs/symptoms of macular oedema and the need to seek medical attention if symptoms develop.
+- Be informed to notify their doctor if suspicious skin lesions are observed and to limit their exposure to sun light and UV (ultraviolet) light, by wearing protective clothing and applying regular sunscreen (with high sun protection factor).
+- Description of signs/symptoms of PRES and PML the patient needs to be aware of, including developing severe headache, feel confused, or have seizures and loss of vision.
 
 ## Pregnancy-Specific Patient Card
 
 The pregnancy-specific patient card (for women of childbearing potential) shall contain the following key messages:
 
--  Etrasimod is contraindicated during pregnancy and in women of childbearing potential not using effective contraception due to its embryotoxic potential.
--  Women of childbearing potential must have a negative pregnancy test before treatment initiation, use effective contraception during treatment and for at least 14 days after treatment discontinuation.
--  Pregnancy testing should be repeated regularly.
--  If a woman becomes pregnant while on treatment, etrasimod must be immediately discontinued and follow-up examinations should be performed.
+- Etrasimod is contraindicated during pregnancy and in women of childbearing potential not using effective contraception due to its embryotoxic potential.
+- Women of childbearing potential must have a negative pregnancy test before treatment initiation, use effective contraception during treatment and for at least 14 days after treatment discontinuation.
+- Pregnancy testing should be repeated regularly.
+- If a woman becomes pregnant while on treatment, etrasimod must be immediately discontinued and follow-up examinations should be performed.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -965,9 +930,7 @@ Contains tartrazine.
 ## Film-coated tablet
 
 - 30 film-coated tablets
-
 - 28 film-coated tablets
-
 - 98 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -994,11 +957,11 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Brussels Belgium
 
@@ -1007,7 +970,9 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Brussels Belgium
 
 EU/1/23/1790/001 (28 tablets)
 
-EU/1/23/1790/002 (98 tablets) EU/1/23/1790/003 (30 tablets)
+EU/1/23/1790/002 (98 tablets)
+
+EU/1/23/1790/003 (30 tablets)
 
 ## 13. BATCH NUMBER
 
@@ -1016,8 +981,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1029,8 +994,8 @@ Velsipity 2 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -1082,11 +1047,16 @@ Store in the original container.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10.
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Brussels Belgium
 
@@ -1098,13 +1068,13 @@ EU/1/23/1790/003 (30 tablets)
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
 
-Lot
+Lot Velsipity 2 mg film-coated tablets etrasimod MAH logo EXP
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1112,29 +1082,23 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Velsipity 2 mg film-coated tablets etrasimod
-
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
-
-MAH logo
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -1162,10 +1126,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 In addition to this leaflet, your doctor will give you a patient card, which contains important safety information that you need to be aware of. Keep this patient card with you.
 
@@ -1190,37 +1154,37 @@ The active substance in Velsipity, etrasimod, prevents lymphocytes (a type of wh
 
 ## Do not take Velsipity
 
--  if you are allergic to etrasimod or any of the other ingredients of this medicine (listed in section 6);
--  if your healthcare professional has told you that you have a severely weakened immune system;
+- if you are allergic to etrasimod or any of the other ingredients of this medicine (listed in section 6);
+- if your healthcare professional has told you that you have a severely weakened immune system;
 
 <div style=\"page-break-after: always\"></div>
 
--  if you have had a heart attack, unstable angina pectoris (chest pain caused by interruptions in the heart's blood supply that occurs at rest or without an obvious trigger), stroke, transient ischaemic attack (TIA, also known as a mini-stroke) or certain types of severe heart failure in the last 6 months;
--  if you have certain types of arrhythmia (irregular or abnormal heartbeat) - your doctor will check your heart before starting treatment;
--  if you have a severe active infection or active chronic infection, such as hepatitis (inflammation of the liver) or tuberculosis;
--  if you have cancer;
--  if you have severe liver problems;
--  if you are pregnant or a woman of childbearing potential not using effective contraception.
+- if you have had a heart attack, unstable angina pectoris (chest pain caused by interruptions in the heart's blood supply that occurs at rest or without an obvious trigger), stroke, transient ischaemic attack (TIA, also known as a mini-stroke) or certain types of severe heart failure in the last 6 months;
+- if you have certain types of arrhythmia (irregular or abnormal heartbeat) - your doctor will check your heart before starting treatment;
+- if you have a severe active infection or active chronic infection, such as hepatitis (inflammation of the liver) or tuberculosis;
+- if you have cancer;
+- if you have severe liver problems;
+- if you are pregnant or a woman of childbearing potential not using effective contraception.
 
 ## Warnings and precautions
 
 Talk to your doctor or, pharmacist before taking Velsipity if:
 
--  you have a slow heart rate or you are taking or have recently taken medicines that slow your heart rate (such as beta blockers or calcium channel blockers);
--  you have ever had a stroke or other diseases related to blood vessels in the brain;
--  you have problems with your liver;
--  you have an infection;
--  you have low levels of lymphocytes (a type of white blood cell);
--  you have recently had or are planning to have a vaccination;
--  you have ever had problems with your vision or other symptoms of build-up of fluid in the back of the eye;
--  you have inflammation of the eye;
--  you have diabetes (which can cause problems with your eyes);
--  you have high blood pressure;
--  you have severe lung disease, such as pulmonary fibrosis (lung damage with tissue scarring and thickening), asthma or chronic obstructive pulmonary disease (a type of lung disease marked by permanent damage to lung tissues).
+- you have a slow heart rate or you are taking or have recently taken medicines that slow your heart rate (such as beta blockers or calcium channel blockers);
+- you have ever had a stroke or other diseases related to blood vessels in the brain;
+- you have problems with your liver;
+- you have an infection;
+- you have low levels of lymphocytes (a type of white blood cell);
+- you have recently had or are planning to have a vaccination;
+- you have ever had problems with your vision or other symptoms of build-up of fluid in the back of the eye;
+- you have inflammation of the eye;
+- you have diabetes (which can cause problems with your eyes);
+- you have high blood pressure;
+- you have severe lung disease, such as pulmonary fibrosis (lung damage with tissue scarring and thickening), asthma or chronic obstructive pulmonary disease (a type of lung disease marked by permanent damage to lung tissues).
 
 ## Slow heart rate and irregular heart rhythm
 
-Before you start taking Velsipity, your doctor will check your heart using an electrocardiogram (ECG; a test of the heart's electrical activity). This is because Velsipity can cause a temporary decrease in heart rate and other heart rhythm disorders when starting treatment. When this happens, you may feel dizzy or tired or be consciously aware of your heartbeat, or your blood pressure may drop. If these effects are severe, tell your doctor, because you may need treatment right away. If you restart treatment again after stopping for 7 or more days in a row, your doctor may re-check your heart using an ECG.
+Before you start taking Velsipity, your doctor will check your heart using an electrocardiogram (ECG; a test of the heart's electrical activity ). This is because Velsipity can cause a temporary decrease in heart rate and other heart rhythm disorders when starting treatment. When this happens, you may feel dizzy or tired or be consciously aware of your heartbeat, or your blood pressure may drop. If these effects are severe, tell your doctor, because you may need treatment right away. If you restart treatment again after stopping for 7 or more days in a row, your doctor may re-check your heart using an ECG.
 
 If you have certain heart conditions, your doctor will also monitor you for at least the first 4 hours after your first dose. Your doctor will ask you to stay at the hospital or clinic for 4 hours and will measure your pulse and blood pressure every hour after taking the first dose of Velsipity. You should have an ECG performed before the first dose of Velsipity and after the 4-hour monitoring period. If after the 4-hour period you have a very slow or decreasing heart rate, or if your ECG shows abnormalities, you may need to be monitored for a longer period until these have resolved.
 
@@ -1230,11 +1194,9 @@ As Velsipity can increase your blood pressure, your doctor may want to check you
 
 ## Infections
 
-Velsipity lowers the levels of white blood cell in your blood (particularly the lymphocyte count). White blood cells fight infection. While you are taking Velsipity (and for up to about 2 weeks after you stop taking it), you may be more likely to get infections, and any infection that you already have may get worse. Talk to your doctor if you develop an infection. If you think you have an infection,
+Velsipity lowers the levels of white blood cell in your blood (particularly the lymphocyte count). White blood cells fight infection. While you are taking Velsipity (and for up to about 2 weeks after you stop taking it), you may be more likely to get infections, and any infection that you already have may get worse. Talk to your doctor if you develop an infection. If you think you have an infection, have a fever, feel like you have the flu, have shingles or have a headache accompanied by a stiff neck, with sensitivity to light, nausea, rash, and/or confusion or seizures (fits) (these may be symptoms of meningitis and/or encephalitis caused by a fungal or herpes viral infection), contact your doctor straight away, because it could be serious and life-threatening.
 
 <div style=\"page-break-after: always\"></div>
-
-have a fever, feel like you have the flu, have shingles or have a headache accompanied by a stiff neck, with sensitivity to light, nausea, rash, and/or confusion or seizures (fits) (these may be symptoms of meningitis and/or encephalitis caused by a fungal or herpes viral infection), contact your doctor straight away, because it could be serious and life-threatening.
 
 Cases of progressive multifocal leukoencephalopathy (PML) have been reported with medicines similar to Velsipity. PML is a rare viral brain infection that may lead to severe disability or death. PML symptoms include disturbance of vision, progressive weakness, clumsiness, memory loss or confusion. If you develop any of these symptoms, speak to your doctor straight away. Your doctor will consider performing further tests to evaluate this condition and will stop your treatment with Velsipity if PML is confirmed.
 
@@ -1244,10 +1206,10 @@ Velsipity can cause a problem with your vision called macular oedema (swelling o
 
 Call your doctor straight away if you have any of the following:
 
--  blurriness or shadows in the centre of your vision;
--  a blind spot in the centre of your vision;
--  sensitivity to light;
--  unusually coloured (tinted) vision.
+- blurriness or shadows in the centre of your vision;
+- a blind spot in the centre of your vision;
+- sensitivity to light;
+- unusually coloured (tinted) vision.
 
 ## Cancer
 
@@ -1279,7 +1241,7 @@ Your doctor will usually advise that you stop other treatments for ulcerative co
 
 ## Women of childbearing potential
 
-If used during pregnancy, Velsipity can harm the unborn baby. Before you start treatment with Velsipity, your doctor will explain the risk to you and ask you to do a pregnancy test in order to ensure that you are not pregnant. Your doctor will give you a patient card which explains why you should not become pregnant while taking Velsipity. It also explains what you should do to avoid becoming pregnant while you are taking Velsipity. You must use effective contraception during treatment and for at least 14 days after stopping treatment (see 'Pregnancy, contraception, and breast-feeding' in section 2).
+If used during pregnancy, Velsipity can harm the unborn baby. Before you start treatment with Velsipity, your doctor will explain the risk to you and ask you to do a pregnancy test in order to ensure that you are not pregnant. Your doctor will give you a patient card which explains why you should not become pregnant while taking Velsipity. It also explains what you should do to avoid becoming pregnant while you are taking Velsipity. You must use effective contraception during treatment and for at least 14 days after stopping treatment (see 'Pregnancy , contraception, and breastfeeding' in section 2).
 
 If any of these apply to you, tell your doctor or pharmacist before taking Velsipity.
 
@@ -1293,12 +1255,12 @@ Tell your doctor or pharmacist if you are taking, have recently taken, or might 
 
 In particular, before taking Velsipity, tell your doctor or pharmacist if you are taking or have recently taken any of the following medicines:
 
--  Medicines to control your heart rate and blood pressure (beta blocker medicines and calcium channel blocker medicines); use of these medicines could strengthen the effect of Velsipity on irregular heartbeat.
--  Medicines to control your heart rhythm (antiarrhythmics), or heartbeat.
--  Medicines that affect your immune system; use of these medicines with Velsipity could weaken the immune system.
--  Vaccines; if you need to receive a vaccine, talk to your doctor. You should not take Velsipity for at least 2 weeks before a vaccination. You should not take Velsipity for at least 4 weeks after receiving a live vaccine.
--  Fluconazole (an anti-fungal treatment) and certain other medicines can increase the levels of Velsipity in the blood, which increases the risk of side effects with Velsipity. It is recommended that you do not take these while also taking Velsipity and your doctor will advise you on this.
--  Rifampicin, enzalutamide, and certain other medicines can decrease the levels of Velsipity in the blood, reducing its effectiveness. It is recommended that you do not take these while also taking Velsipity and your doctor will advise you on this.
+- Medicines to control your heart rate and blood pressure (beta blocker medicines and calcium channel blocker medicines); use of these medicines could strengthen the effect of Velsipity on irregular heartbeat.
+- Medicines to control your heart rhythm (antiarrhythmics), or heartbeat.
+- Medicines that affect your immune system; use of these medicines with Velsipity could weaken the immune system.
+- Vaccines; if you need to receive a vaccine, talk to your doctor. You should not take Velsipity for at least 2 weeks before a vaccination. You should not take Velsipity for at least 4 weeks after receiving a live vaccine.
+- Fluconazole (an anti-fungal treatment) and certain other medicines can increase the levels of Velsipity in the blood, which increases the risk of side effects with Velsipity. It is recommended that you do not take these while also taking Velsipity and your doctor will advise you on this.
+- Rifampicin, enzalutamide, and certain other medicines can decrease the levels of Velsipity in the blood, reducing its effectiveness. It is recommended that you do not take these while also taking Velsipity and your doctor will advise you on this.
 
 Velsipity may slightly increase the levels of hormones released from some contraceptive pills. You will still be protected from pregnancy, but your chances of side effects from contraceptive pills may be higher. If you have any side effects, talk to your doctor or pharmacist.
 
@@ -1314,7 +1276,7 @@ Do not use Velsipity during pregnancy, if you are trying to become pregnant, or 
 
 Your doctor will give you a patient card which explains why you should not become pregnant while taking Velsipity.
 
-If you do become pregnant while taking Velsipity, tell your doctor straight away. Your doctor will likely stop treatment (see 'If you stop taking Velsipity' in section 3) and pre-natal checks will be performed to monitor the health of the unborn baby.
+If you do become pregnant while taking Velsipity, tell your doctor straight away. Your doctor will likely stop treatment (see 'If you stop taking Velsipity ' in section 3) and pre-natal checks will be performed to monitor the health of the unborn baby.
 
 ## Breast-feeding
 
@@ -1330,7 +1292,7 @@ The colouring agent in Velsipity contains tartrazine (E102), which may cause all
 
 ## Velsipity contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium - free'.
 
 ## 3. How to take Velsipity
 
@@ -1338,9 +1300,9 @@ Velsipity will be started under the supervision of a doctor who is experienced i
 
 ## How to take
 
--  The recommended dose of Velsipity is one 2 mg tablet taken once daily.
--  Take Velsipity with food for the first 3 days. After this, you can take Velsipity each day with or without food.
--  Swallow the tablet whole with water. Do not split, crush, or chew the tablet before swallowing as it may change how much medicine gets into your body.
+- The recommended dose of Velsipity is one 2 mg tablet taken once daily.
+- Take Velsipity with food for the first 3 days. After this, you can take Velsipity each day with or without food.
+- Swallow the tablet whole with water. Do not split, crush, or chew the tablet before swallowing as it may change how much medicine gets into your body.
 
 ## If you take more Velsipity than you should
 
@@ -1372,56 +1334,54 @@ Tell your doctor or pharmacist immediately if you notice any of the side effects
 
 ## Common (may affect up to 1 in 10 people)
 
--  bradycardia (slow heart rate)
--  hypertension (high blood pressure)
--  urinary tract infection (infection of the parts of the body that collect and pass out urine)
--  lower respiratory tract infection (infection of the lower airways or lungs)
+- bradycardia (slow heart rate)
+- hypertension (high blood pressure)
+- urinary tract infection (infection of the parts of the body that collect and pass out urine)
+- lower respiratory tract infection (infection of the lower airways or lungs)
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
--  atrioventricular block (a type of heart rhythm disorder)
--  macular oedema (swelling in the macula, the central part of the retina at the back of the eye)
+- atrioventricular block (a type of heart rhythm disorder)
+- macular oedema (swelling in the macula, the central part of the retina at the back of the eye)
 
 ## Other side effects
 
 Tell your doctor or pharmacist immediately if you notice any of the following side effects:
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
--  lymphopenia (low levels of lymphocytes, a type of white blood cell)
+- lymphopenia (low levels of lymphocytes, a type of white blood cell)
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
--  hypercholesterolaemia (high blood cholesterol levels)
--  headache
--  feeling dizzy
--  increased liver enzyme levels in blood tests, which can be a sign of problems with your liver function
--  neutropenia (low levels of neutrophils, a type of white blood cell)
--  visual impairment
+- hypercholesterolaemia (high blood cholesterol levels)
+- headache
+- feeling dizzy
+- increased liver enzyme levels in blood tests, which can be a sign of problems with your liver function
+- neutropenia (low levels of neutrophils, a type of white blood cell)
+- visual impairment
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
 
-listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
 ## 5. How to store Velsipity
 
--  Keep this medicine out of the sight and reach of children.
--  Do not use this medicine after the expiry date which is stated on the bottle, blister, and carton after EXP. The expiry date refers to the last day of that month.
--  This medicine does not require any special temperature storage conditions.
--  Store in the original package in order to protect from moisture.
--  Do not use this medicine if you notice any damage or signs of tampering with the pack.
--  Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the bottle, blister, and carton after EXP. The expiry date refers to the last day of that month.
+- This medicine does not require any special temperature storage conditions.
+- Store in the original package in order to protect from moisture.
+- Do not use this medicine if you notice any damage or signs of tampering with the pack.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Velsipity contains
 
--  The active substance is etrasimod. Each film-coated tablet contains etrasimod arginine equivalent to 2 mg etrasimod.
--  The other excipients are:
+- The active substance is etrasimod. Each film-coated tablet contains etrasimod arginine equivalent to 2 mg etrasimod.
+- The other excipients are:
 
 ## Tablet core
 
@@ -1437,9 +1397,9 @@ Velsipity 2 mg is a green, round, film-coated tablet of approximately 6 mm diame
 
 ## Pack sizes:
 
--  Bottle of 30 film-coated tablets
--  Blisters of 28 film-coated tablets
--  Blisters of 98 film-coated tablets
+- Bottle of 30 film-coated tablets
+- Blisters of 28 film-coated tablets
+- Blisters of 98 film-coated tablets
 
 Not all pack sizes may be marketed.
 
@@ -1449,13 +1409,9 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Brussels Belgium
 
 ## Manufacturers
 
-Almac Pharma Services (lreland) Limited Finnabair Industrial Estate Dundalk, A91 P9KD Ireland
+Almac Pharma Services (lreland) Limited Finnabair Industrial Estate Dundalk, A91 P9KD Ireland Almac Pharma Services Limited Seagoe Industrial Estate Portadown, Craigavon, BT63 5UA United Kingdom Pfizer Service Company BV Hermeslaan 11 1932 Zaventem Belgium For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-Almac Pharma Services Limited Seagoe Industrial Estate Portadown, Craigavon, BT63 5UA United Kingdom
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien Luxembourg/Luxemburg
 
@@ -1463,23 +1419,9 @@ Pfizer NV/SA
 
 Tél/Tel: +32 (0)2 554 62 11
 
-## Lietuva
-
-Pfizer Luxembourg SARL filialas Lietuvoje
-
-Tel: +370 5 251 4000
-
 ## България
 
-Пфайзер Люксембург САРЛ, Клон България
-
-Тел.: +359 2 970 4333
-
-## Magyarország
-
-Pfizer Kft.
-
-Tel.: +36 1 488 37 00
+Пфайзер Люксембург САРЛ , Клон България Тел .: +359 2 970 4333
 
 ## Česká republika
 
@@ -1487,23 +1429,11 @@ Pfizer, spol. s r.o.
 
 Tel: +420 283 004 111
 
-## Malta
-
-Vivian Corporation Ltd.
-
-Tel: +356 21344610
-
-Danmark
+## Danmark
 
 Pfizer ApS
 
 Tlf.: +45 44 20 11 00
-
-## Nederland
-
-Pfizer bv
-
-Tel: +31 (0)800 63 34 636
 
 ## Deutschland
 
@@ -1511,37 +1441,19 @@ PFIZER PHARMA GmbH
 
 Tel: +49 (0)30 550055-51000
 
-## Norge
-
-Pfizer AS
-
-Tlf: +47 67 52 61 00
-
 ## Eesti
 
 Pfizer Luxembourg SARL Eesti filiaal
 
 Tel: +372 666 7500
 
-## Österreich
-
-Pfizer Corporation Austria Ges.m.b.H.
-
-Tel: +43 (0)1 521 15-0
-
 ## Ελλάδα
 
 Pfizer Ελλάς A.E.
 
-Τ 
+Τ  λ
 
-λ: +30 210 6785800
-
-## Polska
-
-Pfizer Polska Sp. z o.o.
-
-Tel.: +48 22 335 61 00
+: +30 210 6785800
 
 ## España
 
@@ -1549,17 +1461,57 @@ Pfizer, S.L.
 
 Tel: +34 91 490 99 00
 
-## Portugal
-
-Laboratórios Pfizer, Lda.
-
-Tel: +351 21 423 5500
-
 ## France
 
 Pfizer
 
 Tél: +33 (0)1 58 07 34 40
+
+## Lietuva
+
+Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
+
+## Magyarország
+
+Pfizer Kft.
+
+Tel.: +36 1 488 37 00
+
+## Malta
+
+Vivian Corporation Ltd.
+
+Tel: +356 21344610
+
+## Nederland
+
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
+
+## Norge
+
+Pfizer AS
+
+Tlf: +47 67 52 61 00
+
+## Österreich
+
+Pfizer Corporation Austria Ges.m.b.H.
+
+Tel: +43 (0)1 521 15-0
+
+## Polska
+
+Pfizer Polska Sp. z o.o.
+
+Tel.: +48 22 335 61 00
+
+## Portugal
+
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
 
 ## România
 
@@ -1573,15 +1525,11 @@ Pfizer Croatia d.o.o.
 
 Tel: +385 1 3908 777
 
-## Slovenija
-
-Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: +386 (0)1 52 11 400
-
-<div style=\"page-break-after: always\"></div>
-
 ## Ireland
 
-Pfizer Healthcare Ireland Unlimited Company Tel: 1800 633 363 (toll free) +44 (0)1304 616161
+Pfizer Healthcare Ireland Unlimited Company Tel: 1800 633 363 (toll free)
+
++44 (0)1304 616161
 
 ## Ísland
 
@@ -1595,11 +1543,13 @@ Pfizer S.r.l.
 
 Tel: +39 06 33 18 21
 
-## Kύπρος
+## K ύπρος
 
-Pfizer Ελλάς Α.Ε. (Cyprus Branch)
+Pfizer Ελλάς Α . Ε . (Cyprus Branch)
 
-Tηλ: +357 22817690
+T
+
+ηλ: +357 22817690
 
 ## Latvija
 
@@ -1607,11 +1557,9 @@ Pfizer Luxembourg SARL filiāle Latvijā
 
 Tel: +371 670 35 775
 
-## This leaflet was last revised in
+## Slovenija
 
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: +386 (0)1 52 11 400
 
 ## Slovenská republika
 
@@ -1630,3 +1578,11 @@ Puh/Tel: +358 (0)9 430 040
 Pfizer AB
 
 Tel: +46 (0)8 550 520 00
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

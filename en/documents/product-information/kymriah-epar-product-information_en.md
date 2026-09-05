@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-06 14:03:38
+document_datetime: 2026-09-01 11:23:48
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kymriah-epar-product-information_en.pdf
 document_name: kymriah-epar-product-information_en.pdf
 version: success
-processing_time: 17.4388758
-conversion_datetime: 2025-12-15 22:00:51.354362
+processing_time: 14.9120828
+conversion_datetime: 2026-09-05 10:37:16.287421
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kymriah 1.2 × 10 6 -6 × 10 8 cells dispersion for infusion
+Kymriah 1.2 × 10 6 - 6 × 10 8 cells dispersion for infusion
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -88,12 +88,12 @@ Treatment consists of a single dose for infusion containing a dispersion for inf
 
 The concentration of CAR-positive viable T cells is dependent on indication and patient body weight.
 
-- -For patients 50 kg and below: The dose is within a range of 0.2 to 5 × 10 6 CAR-positive viable T cells per kg body weight.
-- -For patients above 50 kg: The dose is within a range of 0.1 to 2.5 × 10 8 CAR-positive viable T cells (non-weight based).
+- For patients 50 kg and below: The dose is within a range of 0.2 to 5 × 10 6 CAR-positive viable T cells per kg body weight.
+- For patients above 50 kg: The dose is within a range of 0.1 to 2.5 × 10 8 CAR-positive viable T cells (non-weight based).
 
 ## Dose in adult DLBCL and FL patients
 
-- -The dose is within a range of 0.6 to 6 × 10 8 CAR-positive viable T cells (non-weight based).
+- The dose is within a range of 0.6 to 6 × 10 8 CAR-positive viable T cells (non-weight based).
 
 See the accompanying batch specific documentation for additional information pertaining to dose.
 
@@ -111,21 +111,21 @@ If there is a delay of more than 4 weeks between completing lymphodepleting chem
 
 The recommended lymphodepleting chemotherapy regimen is:
 
-- -Fludarabine (30 mg/m 2 intravenous daily for 4 days) and cyclophosphamide (500 mg/m 2 intravenous daily for 2 days starting with the first dose of fludarabine).
+- Fludarabine (30 mg/m 2 intravenous daily for 4 days) and cyclophosphamide (500 mg/m 2 intravenous daily for 2 days starting with the first dose of fludarabine).
 
 If the patient experienced a previous Grade 4 haemorrhagic cystitis with cyclophosphamide, or demonstrated a chemorefractory state to a cyclophosphamide-containing regimen administered shortly before lymphodepleting chemotherapy, then the following should be used:
 
-- -Cytarabine (500 mg/m 2  intravenous daily for 2 days) and etoposide (150 mg/m 2 intravenous daily for 3 days starting with the first dose of cytarabine).
+- Cytarabine (500 mg/m 2  intravenous daily for 2 days) and etoposide (150 mg/m 2 intravenous daily for 3 days starting with the first dose of cytarabine).
 
 ## DLBCL and FL
 
 The recommended lymphodepleting chemotherapy regimen is:
 
-- -Fludarabine (25 mg/m 2 intravenous daily for 3 days) and cyclophosphamide (250 mg/m 2 intravenous daily for 3 days starting with the first dose of fludarabine).
+- Fludarabine (25 mg/m 2 intravenous daily for 3 days) and cyclophosphamide (250 mg/m 2 intravenous daily for 3 days starting with the first dose of fludarabine).
 
 If the patient experienced a previous Grade 4 haemorrhagic cystitis with cyclophosphamide, or demonstrated a chemorefractory state to a cyclophosphamide-containing regimen administered shortly before lymphodepleting chemotherapy, then the following should be used:
 
-- -Bendamustine (90 mg/m 2  intravenous daily for 2 days).
+- Bendamustine (90 mg/m 2  intravenous daily for 2 days).
 
 ## Pre-medication
 
@@ -137,10 +137,10 @@ Kymriah treatment should be delayed in some patient groups at risk (see section 
 
 ## Monitoring after infusion
 
-- -In the first week following infusion, patients should be monitored 2 to 3 times, or more frequently at the physician's discretion , for signs and symptoms of potential cytokine release syndrome, neurological events and other toxicities.
-- -After the first week following the infusion, the patient should be monitored at the physician's discretion.
-- -Physicians should consider hospitalisation at the first signs/symptoms of cytokine release syndrome and/or neurological events.
-- -Patients should be instructed to remain within proximity (within 2 hours of travel) of a qualified clinical facility for at least 4 weeks following infusion.
+- In the first week following infusion, patients should be monitored 2 to 3 times, or more frequently at the physician's discretion , for signs and symptoms of potential cytokine release syndrome, neurological events and other toxicities.
+- After the first week following the infusion, the patient should be monitored at the physician's discretion.
+- Physicians should consider hospitalisation at the first signs/symptoms of cytokine release syndrome and/or neurological events.
+- Patients should be instructed to remain within proximity (within 2 hours of travel) of a qualified clinical facility for at least 4 weeks following infusion.
 
 ## Special populations
 
@@ -212,10 +212,10 @@ Kymriah is intended solely for autologous use and must not, under any circumstan
 
 Due to the risks associated with tisagenlecleucel treatment, infusion should be delayed if a patient has any of the following conditions:
 
-- -Unresolved serious adverse reactions (especially pulmonary reactions, cardiac reactions or hypotension) from preceding chemotherapies.
-- -Active uncontrolled infection.
-- -Active graft-versus-host disease (GVHD).
-- -Significant clinical worsening of leukaemia burden or rapid progression of lymphoma following lymphodepleting chemotherapy.
+- Unresolved serious adverse reactions (especially pulmonary reactions, cardiac reactions or hypotension) from preceding chemotherapies.
+- Active uncontrolled infection.
+- Active graft-versus-host disease (GVHD).
+- Significant clinical worsening of leukaemia burden or rapid progression of lymphoma following lymphodepleting chemotherapy.
 
 ## Transmission of an infectious agent
 
@@ -235,11 +235,9 @@ Cytokine release syndrome (CRS), including fatal or life-threatening events, has
 
 Patients should be closely monitored for signs or symptoms of CRS and patients and caregivers should be informed about potential late onset of signs or symptoms and instructed accordingly. Symptoms of CRS may include high fever, rigors, myalgia, arthralgia, nausea, vomiting, diarrhoea, diaphoresis, rash, anorexia, fatigue, headache, hypotension, dyspnoea, tachypnoea, hypoxia, and tachycardia. Organ dysfunction, including cardiac insufficiency, renal insufficiency and liver injury with accompanying elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT) or elevated total bilirubin may also be observed. In some cases, disseminated intravascular coagulation (DIC) with low fibrinogen levels, capillary leak syndrome (CLS), macrophage activation syndrome (MAS) and haemophagocytic lymphohistiocytosis (HLH) may occur in the setting of CRS.
 
-Risk factors for severe CRS in paediatric and young adult B-cell ALL patients are: high pre-infusion tumour burden, uncontrolled or accelerating tumour burden following lymphodepleting chemotherapy,
+Risk factors for severe CRS in paediatric and young adult B-cell ALL patients are: high pre-infusion tumour burden, uncontrolled or accelerating tumour burden following lymphodepleting chemotherapy, active infection and early onset of fever or CRS following Kymriah infusion. High tumour burden prior to Kymriah infusion was identified as a risk factor for developing severe cytokine release syndrome in adult DLBCL patients.
 
 <div style=\"page-break-after: always\"></div>
-
-active infection and early onset of fever or CRS following Kymriah infusion. High tumour burden prior to Kymriah infusion was identified as a risk factor for developing severe cytokine release syndrome in adult DLBCL patients.
 
 Prior to administration of Kymriah in paediatric and young adult B-cell ALL patients, efforts should be made to lower and control the patient's tumour burden.
 
@@ -263,11 +261,9 @@ Patients should be monitored for neurological events and patients and caregivers
 
 Patients with active, uncontrolled infection should not start Kymriah treatment until the infection is resolved. Prior to Kymriah infusion, infection prophylaxis should follow standard guidelines based on the degree of preceding immunosuppression.
 
-Serious infections, including life-threatening or fatal infections, in some cases with late onset, occurred frequently in patients after Kymriah infusion (see section 4.8). Patients should be monitored for signs and symptoms of infection and treated appropriately. As appropriate, prophylactic antibiotics should be administered and surveillance testing should be employed prior to and during treatment with
+Serious infections, including life-threatening or fatal infections, in some cases with late onset, occurred frequently in patients after Kymriah infusion (see section 4.8). Patients should be monitored for signs and symptoms of infection and treated appropriately. As appropriate, prophylactic antibiotics should be administered and surveillance testing should be employed prior to and during treatment with Kymriah. Infections are known to complicate the course and management of concurrent cytokine release syndrome. The possibility of opportunistic infections of the central nervous system should be considered in patients with neurological adverse events and appropriate diagnostic evaluations should be performed.
 
 <div style=\"page-break-after: always\"></div>
-
-Kymriah. Infections are known to complicate the course and management of concurrent cytokine release syndrome. The possibility of opportunistic infections of the central nervous system should be considered in patients with neurological adverse events and appropriate diagnostic evaluations should be performed.
 
 Febrile neutropenia was frequently observed in patients after Kymriah infusion (see section 4.8) and may be concurrent with cytokine release syndrome. In the event of febrile neutropenia, infection should be evaluated and managed appropriately with broad-spectrum antibiotics, fluids and other supportive care, as medically indicated.
 
@@ -337,7 +333,7 @@ This medicinal product contains 24.3 to 121.5 mg sodium per dose, equivalent to 
 
 <div style=\"page-break-after: always\"></div>
 
-This medicinal product contains potassium, less than 1 mmol (39 mg) per dose, i.e. essentially 'potassium -free'.
+This medicinal product contains potassium, less than 1 mmol (39 mg) per dose, i.e. essentially 'potassium - free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -369,11 +365,11 @@ It is unknown whether tisagenlecleucel cells are excreted in human milk. A risk 
 
 Following administration of Kymriah, breast-feeding should be discussed with the treating physician.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fertility
 
 There are no data on the effect of Kymriah on fertility. Effects of Kymriah on male and female fertility have not been evaluated in animal studies.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -409,11 +405,11 @@ The most common non-haematological adverse reactions were cytokine release syndr
 
 The most common haematological laboratory abnormalities were decreased lymphocytes (100%), decreased white blood cells (99%), decreased haemoglobin (99%), decreased neutrophils (97%), and decreased platelets (95%).
 
-<div style=\"page-break-after: always\"></div>
-
 Grade 3 and 4 adverse reactions were reported in 88% of patients. The most common Grade 3 and 4 non-haematological adverse reactions were infections (34%) and cytokine release syndrome (23%).
 
 The most common (&gt;25%) Grade 3 and 4 haematological laboratory abnormalities were lymphocyte count decreased (95%), neutrophil count decreased (82%), white blood cell count decreased (78%), haemoglobin decreased (59%) and platelet count decreased (56%).
+
+<div style=\"page-break-after: always\"></div>
 
 Grade 3 and 4 adverse reactions were more often observed within the initial 8 weeks post infusion (82%) compared to after 8 weeks post infusion (48%).
 
@@ -437,113 +433,112 @@ The adverse reactions described in this section were identified in 79, 115 and 9
 
 ## Table 1 Adverse drug reactions
 
-| Infections and infestations 1)                                      | Infections and infestations 1)                                            |
-|---------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Very common:                                                        | Infections - pathogen unspecified, viral infections, bacterial infections |
-| Common:                                                             | Fungal infections                                                         |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps)       |
-| Rare:                                                               | Secondary malignancy of T-cell origin                                     |
-| Blood and lymphatic system disorders                                | Blood and lymphatic system disorders                                      |
-| Very common:                                                        | Anaemia, febrile neutropenia, neutropenia, thrombocytopenia               |
-| Common:                                                             | Leukopenia, pancytopenia, coagulopathy, lymphopenia                       |
-| Uncommon:                                                           | B-cell aplasia                                                            |
+| Infections and infestations 1)                                      | Infections and infestations 1)                                                                |
+|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Very common:                                                        | Infections - pathogen unspecified, viral infections, bacterial infections                     |
+| Common:                                                             | Fungal infections                                                                             |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps)                           |
+| Rare:                                                               | Secondary malignancy of T-cell origin                                                         |
+| Blood and lymphatic system disorders                                | Blood and lymphatic system disorders                                                          |
+| Very common:                                                        | Anaemia, febrile neutropenia, neutropenia, thrombocytopenia                                   |
+| Common:                                                             | Leukopenia, pancytopenia, coagulopathy, lymphopenia                                           |
+| Uncommon:                                                           | B-cell aplasia                                                                                |
+| Immune system disorders                                             | Immune system disorders                                                                       |
+| Very common:                                                        | Cytokine release syndrome, hypogammaglobulinaemia 2)                                          |
+| Common:                                                             | Infusion-related reaction, graft-versus-host disease 3) , haemophagocytic lymphohistiocytosis |
+| Not known:                                                          | Anaphylactic reaction                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Immune system disorders                         | Immune system disorders                                                                                                                                                                                                       |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Very common:                                    | Cytokine release syndrome, hypogammaglobulinaemia 2)                                                                                                                                                                          |
-| Common:                                         | Infusion-related reaction, graft-versus-host disease 3) , haemophagocytic lymphohistiocytosis                                                                                                                                 |
-| Not known:                                      | Anaphylactic reaction                                                                                                                                                                                                         |
-| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                                                                                                                            |
-| Very common:                                    | Decreased appetite, hypokalaemia, hypophosphataemia                                                                                                                                                                           |
-| Common:                                         | Hypomagnesaemia, hypoalbuminaemia 4) , hyperglycaemia, hyponatraemia, hyperuricaemia 5) , hypercalcaemia, tumour lysis syndrome, hyperkalaemia, hyperphosphataemia 6) , hypernatraemia, hyperferritinaemia 7) , hypocalcaemia |
-| Uncommon:                                       | Hypermagnesaemia                                                                                                                                                                                                              |
-| Psychiatric disorders                           | Psychiatric disorders                                                                                                                                                                                                         |
-| Common:                                         | Anxiety, delirium 8) , sleep disorder 9)                                                                                                                                                                                      |
-| Nervous system disorders                        | Nervous system disorders                                                                                                                                                                                                      |
-| Very common:                                    | Headache 10) , encephalopathy 11)                                                                                                                                                                                             |
-| Common:                                         | Dizziness 12) , peripheral neuropathy 13) , tremor 14) , motor dysfunction 15) , seizure 16) , immune effector cell-associated neurotoxicity syndrome**, speech disorders 17) , neuralgia 18)                                 |
-| Uncommon:                                       | Ischaemic cerebral infarction, ataxia 19)                                                                                                                                                                                     |
-| Not known:                                      | Neurotoxicity                                                                                                                                                                                                                 |
-| Eye disorders                                   | Eye disorders                                                                                                                                                                                                                 |
-| Common:                                         | Visual impairment 20)                                                                                                                                                                                                         |
-| Cardiac disorders                               | Cardiac disorders                                                                                                                                                                                                             |
-| Very common:                                    | Tachycardia 21)                                                                                                                                                                                                               |
-| Common:                                         | Cardiac failure 22) , cardiac arrest, atrial fibrillation                                                                                                                                                                     |
-| Uncommon:                                       | Ventricular extrasystoles                                                                                                                                                                                                     |
-| Vascular disorders                              | Vascular disorders                                                                                                                                                                                                            |
-| Very common:                                    | Haemorrhage 23) , hypotension 24) , hypertension                                                                                                                                                                              |
-| Common:                                         | Thrombosis 25) , capillary leak syndrome                                                                                                                                                                                      |
-| Uncommon:                                       | Flushing                                                                                                                                                                                                                      |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                               |
-| Very common:                                    | Cough 26) , dyspnoea 27) , hypoxia                                                                                                                                                                                            |
-| Common:                                         | Oropharyngeal pain 28) , pulmonary oedema 29) , nasal congestion, pleural effusion, tachypnoea                                                                                                                                |
-| Uncommon:                                       | Acute respiratory distress syndrome, lung infiltration                                                                                                                                                                        |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                                                                                                    |
-| Very common:                                    | Diarrhoea, nausea, vomiting, constipation, abdominal pain 30)                                                                                                                                                                 |
-| Common:                                         | Stomatitis, abdominal distension, dry mouth, ascites                                                                                                                                                                          |
-| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                                                                                                                                       |
-| Common:                                         | Hyperbilirubinaemia                                                                                                                                                                                                           |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                                                        |
-| Very common:                                    | Rash 31)                                                                                                                                                                                                                      |
-| Common:                                         | Pruritus, erythema, hyperhidrosis, night sweats                                                                                                                                                                               |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                                               |
-| Very common:                                    | Arthralgia, musculoskeletal pain 32)                                                                                                                                                                                          |
-| Common:                                         | Myalgia                                                                                                                                                                                                                       |
-| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                                                                                                                   |
-| Very common:                                    | Acute kidney injury 33)                                                                                                                                                                                                       |
-| General disorders                               | and administration site conditions                                                                                                                                                                                            |
-| Very common:                                    | Pyrexia, fatigue 34) , oedema 35) , pain 36)                                                                                                                                                                                  |
-| Common:                                         | Influenza-like illness, asthenia, multiple organ dysfunction syndrome, chills                                                                                                                                                 |
+| Metabolism and nutrition disorders                                       | Metabolism and nutrition disorders                                                                                                                                                                                            |
+|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Very common:                                                             | Decreased appetite, hypokalaemia, hypophosphataemia                                                                                                                                                                           |
+| Common:                                                                  | Hypomagnesaemia, hypoalbuminaemia 4) , hyperglycaemia, hyponatraemia, hyperuricaemia 5) , hypercalcaemia, tumour lysis syndrome, hyperkalaemia, hyperphosphataemia 6) , hypernatraemia, hyperferritinaemia 7) , hypocalcaemia |
+| Uncommon:                                                                | Hypermagnesaemia                                                                                                                                                                                                              |
+| Psychiatric disorders                                                    | Psychiatric disorders                                                                                                                                                                                                         |
+| Common:                                                                  | Anxiety, delirium 8) , sleep disorder 9)                                                                                                                                                                                      |
+| Nervous system disorders                                                 | Nervous system disorders                                                                                                                                                                                                      |
+| Very common:                                                             | Headache 10) , encephalopathy 11)                                                                                                                                                                                             |
+| Common:                                                                  | Dizziness 12) , peripheral neuropathy 13) , tremor 14) , motor dysfunction 15) , seizure 16) , immune effector cell-associated neurotoxicity syndrome**, speech disorders 17) , neuralgia 18)                                 |
+| Uncommon:                                                                | Ischaemic cerebral infarction, ataxia 19)                                                                                                                                                                                     |
+| Not known:                                                               | Neurotoxicity                                                                                                                                                                                                                 |
+| Eye disorders                                                            | Eye disorders                                                                                                                                                                                                                 |
+| Common:                                                                  | Visual impairment 20)                                                                                                                                                                                                         |
+| Cardiac disorders                                                        | Cardiac disorders                                                                                                                                                                                                             |
+| Very common:                                                             | Tachycardia 21)                                                                                                                                                                                                               |
+| Common:                                                                  | Cardiac failure 22) , cardiac arrest, atrial fibrillation                                                                                                                                                                     |
+| Uncommon:                                                                | Ventricular extrasystoles                                                                                                                                                                                                     |
+| Vascular disorders                                                       | Vascular disorders                                                                                                                                                                                                            |
+| Very common:                                                             | Haemorrhage 23) , hypotension 24) , hypertension                                                                                                                                                                              |
+| Common:                                                                  | Thrombosis 25) , capillary leak syndrome                                                                                                                                                                                      |
+| Uncommon:                                                                | Flushing                                                                                                                                                                                                                      |
+| Respiratory, thoracic and mediastinal disorders                          | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                               |
+| Very common:                                                             | Cough 26) , dyspnoea 27) , hypoxia                                                                                                                                                                                            |
+| Common:                                                                  | Oropharyngeal pain 28) , pulmonary oedema 29) , nasal congestion, pleural effusion, tachypnoea                                                                                                                                |
+| Uncommon:                                                                | Acute respiratory distress syndrome, lung infiltration                                                                                                                                                                        |
+| Gastrointestinal disorders                                               | Gastrointestinal disorders                                                                                                                                                                                                    |
+| Very common:                                                             | Diarrhoea, nausea, vomiting, constipation, abdominal pain 30)                                                                                                                                                                 |
+| Common:                                                                  | Stomatitis, abdominal distension, dry mouth, ascites                                                                                                                                                                          |
+| Hepatobiliary disorders                                                  | Hepatobiliary disorders                                                                                                                                                                                                       |
+| Common:                                                                  | Hyperbilirubinaemia                                                                                                                                                                                                           |
+| Skin and subcutaneous tissue disorders                                   | Skin and subcutaneous tissue disorders                                                                                                                                                                                        |
+| Very common:                                                             | Rash 31)                                                                                                                                                                                                                      |
+| Common:                                                                  | Pruritus, erythema, hyperhidrosis, night sweats                                                                                                                                                                               |
+| Musculoskeletal and connective tissue disorders                          | Musculoskeletal and connective tissue disorders                                                                                                                                                                               |
+| Very common:                                                             | Arthralgia, musculoskeletal pain 32)                                                                                                                                                                                          |
+| Common:                                                                  | Myalgia                                                                                                                                                                                                                       |
+| Renal and urinary disorders                                              | Renal and urinary disorders                                                                                                                                                                                                   |
+| Very common:                                                             | Acute kidney injury 33)                                                                                                                                                                                                       |
+| General disorders Very common:                                           | and administration site conditions Pyrexia, fatigue 34) , oedema 35) , pain 36)                                                                                                                                               |
+| Investigations                                                           | Investigations                                                                                                                                                                                                                |
+| Common:                                                                  |                                                                                                                                                                                                                               |
+|                                                                          | Influenza-like illness, asthenia, multiple organ dysfunction syndrome, chills                                                                                                                                                 |
+| Very common:                                                             | Lymphocyte count decreased*, white blood cell count decreased*, haemoglobin decreased*, neutrophil count decreased*, platelet count decreased*, hepatic enzyme increased 37)                                                  |
+| Common:                                                                  | Blood bilirubin increased, weight decreased, blood fibrinogen decreased, international normalised ratio increased, fibrin D dimer increased, activated partial thromboplastin time prolonged, prothrombin time prolonged      |
+| 1) Infections and infestations presented reflect high-level group terms. | 1) Infections and infestations presented reflect high-level group terms.                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| Investigations   | Investigations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Investigations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Very common:     | Very common:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Lymphocyte count decreased*, white blood cell count decreased*, haemoglobin decreased*, neutrophil count decreased*, platelet count decreased*, hepatic enzyme increased 37)                                                                                                                                                                                                                                                                                                                                               |
-| Common:          | Common:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Blood bilirubin increased, weight decreased, blood fibrinogen decreased, international normalised ratio increased, fibrin D dimer increased, activated partial thromboplastin time prolonged, prothrombin time prolonged                                                                                                                                                                                                                                                                                                   |
-| 1)               | Infections and infestations presented reflect high-level group terms.                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Infections and infestations presented reflect high-level group terms.                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 2)               | Hypogammaglobulinaemia includes blood immunoglobulin A decreased, blood immunoglobulin G decreased, blood immunoglobulin Mdecreased, hypogammaglobulinaemia, immunodeficiency, immunodeficiency common variable and immunoglobulins decreased.                                                                                                                                                                                                                                                                             | Hypogammaglobulinaemia includes blood immunoglobulin A decreased, blood immunoglobulin G decreased, blood immunoglobulin Mdecreased, hypogammaglobulinaemia, immunodeficiency, immunodeficiency common variable and immunoglobulins decreased.                                                                                                                                                                                                                                                                             |
-| 3)               | Graft-versus-host disease (GvHD) includes GvHD, GvHD in gastrointestinal tract, GvHD in skin                                                                                                                                                                                                                                                                                                                                                                                                                               | Graft-versus-host disease (GvHD) includes GvHD, GvHD in gastrointestinal tract, GvHD in skin                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 4)               | Hypoalbuminaemia includes blood albumin decreased, hypoalbuminaemia                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Hypoalbuminaemia includes blood albumin decreased, hypoalbuminaemia                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 5)               | Hyperuricaemia includes blood uric acid increased, hyperuricaemia                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Hyperuricaemia includes blood uric acid increased, hyperuricaemia                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 6)               | Hyperphosphataemia includes blood phosphorus increased, hyperphosphataemia                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Hyperphosphataemia includes blood phosphorus increased, hyperphosphataemia                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 7)               | Hyperferritinaemia includes hyperferritinaemia, serum ferritin increased                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Hyperferritinaemia includes hyperferritinaemia, serum ferritin increased                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 8)               | Delirium includes agitation, delirium, hallucination, hallucination visual, irritability and restlessness.                                                                                                                                                                                                                                                                                                                                                                                                                 | Delirium includes agitation, delirium, hallucination, hallucination visual, irritability and restlessness.                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 9)               | Sleep disorder includes insomnia, nightmare and sleep disorder.                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Sleep disorder includes insomnia, nightmare and sleep disorder.                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 10)              | Headache includes headache and migraine.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Headache includes headache and migraine.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 11)              | Encephalopathy includes automatism, cognitive disorder, confusional state, depressed level of consciousness, disturbance in attention, encephalopathy, lethargy, memory impairment, mental status changes, metabolic encephalopathy, somnolence and thinking abnormal. Encephalopathy is a dominant feature of immune effector cell-associated neurotoxicity syndrome (ICANS), along with other symptoms.                                                                                                                  | Encephalopathy includes automatism, cognitive disorder, confusional state, depressed level of consciousness, disturbance in attention, encephalopathy, lethargy, memory impairment, mental status changes, metabolic encephalopathy, somnolence and thinking abnormal. Encephalopathy is a dominant feature of immune effector cell-associated neurotoxicity syndrome (ICANS), along with other symptoms.                                                                                                                  |
-| 12)              | Dizziness includes dizziness, presyncope and syncope.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Dizziness includes dizziness, presyncope and syncope.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|                  | Peripheral neuropathy includes dysaesthesia, hyperaesthesia, hypoaesthesia, neuropathy peripheral, paraesthesia and peripheral sensory neuropathy.                                                                                                                                                                                                                                                                                                                                                                         | Peripheral neuropathy includes dysaesthesia, hyperaesthesia, hypoaesthesia, neuropathy peripheral, paraesthesia and peripheral sensory neuropathy.                                                                                                                                                                                                                                                                                                                                                                         |
-| 15)              | Tremor includes dyskinesia and tremor. Motor dysfunction includes muscle spasms, muscle twitching, myoclonus and myopathy.                                                                                                                                                                                                                                                                                                                                                                                                 | Tremor includes dyskinesia and tremor. Motor dysfunction includes muscle spasms, muscle twitching, myoclonus and myopathy.                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 17)              | Speech disorders includes aphasia, dysarthria and speech disorders.                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Speech disorders includes aphasia, dysarthria and speech disorders.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 16)              | Seizure includes generalised tonic-clonic seizures, seizure and status epilepticus.                                                                                                                                                                                                                                                                                                                                                                                                                                        | Seizure includes generalised tonic-clonic seizures, seizure and status epilepticus.                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 18)              | Neuralgia includes neuralgia and sciatica.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Neuralgia includes neuralgia and sciatica.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 19)              | Ataxia includes ataxia and dysmetria.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Ataxia includes ataxia and dysmetria.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 21)              | Tachycardia includes sinus tachycardia, supraventricular tachycardia, tachycardia                                                                                                                                                                                                                                                                                                                                                                                                                                          | Tachycardia includes sinus tachycardia, supraventricular tachycardia, tachycardia                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|                  | Visual impairment includes vision blurred and visual impairment.                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Visual impairment includes vision blurred and visual impairment.                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 22)              | Cardiac failure includes cardiac failure, cardiac failure congestive, left ventricular dysfunction and right ventricular dysfunction.                                                                                                                                                                                                                                                                                                                                                                                      | Cardiac failure includes cardiac failure, cardiac failure congestive, left ventricular dysfunction and right ventricular dysfunction.                                                                                                                                                                                                                                                                                                                                                                                      |
-| 23)              | Haemorrhage includes anal haemorrhage, blood blister, blood urine present, catheter site haemorrhage, cerebral haemorrhage, conjunctival haemorrhage, contusion, cystitis haemorrhagic, disseminated intravascular coagulation, duodenal ulcer haemorrhage, ecchymosis, epistaxis, eye contusion, gastrointestinal haemorrhage, gingival bleeding, haemarthrosis, haematemesis, haematochezia, haematoma, haematuria, haemoptysis, menstrual bleeding, injection site haematoma, intermenstrual bleeding, large intestinal | Haemorrhage includes anal haemorrhage, blood blister, blood urine present, catheter site haemorrhage, cerebral haemorrhage, conjunctival haemorrhage, contusion, cystitis haemorrhagic, disseminated intravascular coagulation, duodenal ulcer haemorrhage, ecchymosis, epistaxis, eye contusion, gastrointestinal haemorrhage, gingival bleeding, haemarthrosis, haematemesis, haematochezia, haematoma, haematuria, haemoptysis, menstrual bleeding, injection site haematoma, intermenstrual bleeding, large intestinal |
-| 26)              | heavy haemorrhage, lip haemorrhage, melaena, mouth haemorrhage, mucosal haemorrhage, oral blood blister, periorbital haematoma, peritoneal haematoma, petechiae, pharyngeal haemorrhage, post-procedural haemorrhage, pulmonary haemorrhage, purpura, rectal haemorrhage, retinal haemorrhage, stoma site haemorrhage, subcutaneous haematoma,                                                                                                                                                                             | thrombosis and venous thrombosis.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 25)              | haemorrhage and vaginal haemorrhage. Hypotension includes hypotension and orthostatic hypotension.                                                                                                                                                                                                                                                                                                                                                                                                                         | includes deep vein thrombosis, embolism, pulmonary embolism, thrombosis,                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 2)      | Hypogammaglobulinaemia includes blood immunoglobulin A decreased, blood immunoglobulin G decreased, blood immunoglobulin M decreased, hypogammaglobulinaemia, immunodeficiency, immunodeficiency common variable and immunoglobulins decreased.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3)      | Graft-versus-host disease (GvHD) includes GvHD, GvHD in gastrointestinal tract, GvHD in skin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 4)      | Hypoalbuminaemia includes blood albumin decreased, hypoalbuminaemia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 5)      | Hyperuricaemia includes blood uric acid increased, hyperuricaemia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 6)      | Hyperphosphataemia includes blood phosphorus increased, hyperphosphataemia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 7)      | Hyperferritinaemia includes hyperferritinaemia, serum ferritin increased                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 8)      | Delirium includes agitation, delirium, hallucination, hallucination visual, irritability and restlessness.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 9)      | Sleep disorder includes insomnia, nightmare and sleep disorder.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 10)     | Headache includes headache and migraine.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 11)     | Encephalopathy includes automatism, cognitive disorder, confusional state, depressed level of consciousness, disturbance in attention, encephalopathy, lethargy, memory impairment, mental status changes, metabolic encephalopathy, somnolence and thinking abnormal. Encephalopathy is a dominant feature of immune effector cell-associated neurotoxicity syndrome (ICANS), along with other symptoms.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 12)     | Dizziness includes dizziness, presyncope and syncope.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 13)     | Peripheral neuropathy includes dysaesthesia, hyperaesthesia, hypoaesthesia, neuropathy peripheral, paraesthesia and peripheral sensory neuropathy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 14)     | Tremor includes dyskinesia and tremor.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 15)     | Motor dysfunction includes muscle spasms, muscle twitching, myoclonus and myopathy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 16)     | Seizure includes generalised tonic-clonic seizures, seizure and status epilepticus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 17)     | Speech disorders includes aphasia, dysarthria and speech disorders.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 18)     | Neuralgia includes neuralgia and sciatica.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 19) 20) | Ataxia includes ataxia and dysmetria. Visual impairment includes vision blurred and visual impairment.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 21)     | Tachycardia includes sinus tachycardia, supraventricular tachycardia, tachycardia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 22)     | Cardiac failure includes cardiac failure, cardiac failure congestive, left ventricular dysfunction and right ventricular dysfunction.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 23)     | Haemorrhage includes anal haemorrhage, blood blister, blood urine present, catheter site haemorrhage, cerebral haemorrhage, conjunctival haemorrhage, contusion, cystitis haemorrhagic, disseminated intravascular coagulation, duodenal ulcer haemorrhage, ecchymosis, epistaxis, eye contusion, gastrointestinal haemorrhage, gingival bleeding,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 24)     | haemarthrosis, haematemesis, haematochezia, haematoma, haematuria, haemoptysis, heavy menstrual bleeding, injection site haematoma, intermenstrual bleeding, large intestinal haemorrhage, lip haemorrhage, melaena, mouth haemorrhage, mucosal haemorrhage, oral blood blister, periorbital haematoma, peritoneal haematoma, petechiae, pharyngeal haemorrhage, post-procedural haemorrhage, pulmonary haemorrhage, purpura, rectal haemorrhage, retinal haemorrhage, stoma site haemorrhage, subcutaneous haematoma, subdural haematoma, subdural haemorrhage, tooth socket haemorrhage, tracheal haemorrhage, traumatic haematoma, tumour haemorrhage, upper gastrointestinal haemorrhage and vaginal haemorrhage. Hypotension includes hypotension and orthostatic hypotension. includes deep vein thrombosis, embolism, pulmonary embolism, thrombosis, cava thrombosis and venous thrombosis. includes cough, productive cough and upper-airway cough syndrome. includes acute respiratory failure, dyspnoea, dyspnoea exertional, respiratory |
+| 25)     | Thrombosis vena                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 27)     | Dyspnoea distress and respiratory failure.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 26)     | Cough                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 28)     | Oropharyngeal pain includes oral pain and oropharyngeal pain.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 29) 30) | Pulmonary oedema includes acute pulmonary oedema and pulmonary oedema. Abdominal pain includes abdominal discomfort, abdominal pain, abdominal pain lower,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 31)     | abdominal pain upper and gastrointestinal pain. Rash includes dermatitis, dermatitis acneiform, dermatitis contact, rash, rash maculo-papular, rash papular and rash pruritic.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| 27)   | Dyspnoea includes acute respiratory failure, dyspnoea, dyspnoea exertional, respiratory distress and respiratory failure.                                                                                              |
-|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 28)   | Oropharyngeal pain includes oral pain and oropharyngeal pain.                                                                                                                                                          |
-| 29)   | Pulmonary oedema includes acute pulmonary oedema and pulmonary oedema.                                                                                                                                                 |
-| 30)   | Abdominal pain includes abdominal discomfort, abdominal pain, abdominal pain lower, abdominal pain upper and gastrointestinal pain.                                                                                    |
-| 31)   | Rash includes dermatitis, dermatitis acneiform, dermatitis contact, rash, rash maculo-papular, rash papular and rash pruritic.                                                                                         |
-| 32)   | Musculoskeletal pain includes back pain, bone pain, flank pain, musculoskeletal chest pain, musculoskeletal pain, neck pain, non-cardiac chest pain.                                                                   |
-| 33)   | Acute kidney injury includes acute kidney injury, anuria, azotaemia, blood creatinine abnormal, blood creatinine increased, blood urea increased, renal failure, renal tubular dysfunction and renal tubular necrosis. |
-| 34)   | Fatigue includes fatigue and malaise.                                                                                                                                                                                  |
-| 35)   | Oedema includes face oedema, fluid retention, generalised oedema, hypervolaemia, localised oedema, oedema peripheral, periorbital oedema and peripheral swelling.                                                      |
-| 36)   | Pain includes pain and pain in extremity.                                                                                                                                                                              |
-| 37)   | Hepatic enzyme increased includes alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, hepatic enzyme increased, transaminases increased.                   |
-| *     | Frequency is based on laboratory values. Patients are counted only for the worst grade observed post baseline.                                                                                                         |
-| **    | Abbreviated as ICANS. Symptoms or signs can be progressive and may include aphasia, altered level of consciousness, impairment of cognitive skills, motor weakness, seizures, and cerebral oedema.                     |
+- 32) Musculoskeletal pain includes back pain, bone pain, flank pain, musculoskeletal chest pain, musculoskeletal pain, neck pain, non-cardiac chest pain.
+- 33) Acute kidney injury includes acute kidney injury, anuria, azotaemia, blood creatinine abnormal, blood creatinine increased, blood urea increased, renal failure, renal tubular dysfunction and renal tubular necrosis.
+- 34) Fatigue includes fatigue and malaise.
+- 35) Oedema includes face oedema, fluid retention, generalised oedema, hypervolaemia, localised oedema, oedema peripheral, periorbital oedema and peripheral swelling.
+- 36) Pain includes pain and pain in extremity.
+- 37) Hepatic enzyme increased includes alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, hepatic enzyme increased, transaminases increased.
+* Frequency is based on laboratory values. Patients are counted only for the worst grade observed post baseline.
+8. ** Abbreviated as ICANS. Symptoms or signs can be progressive and may include aphasia, altered level of consciousness, impairment of cognitive skills, motor weakness, seizures, and cerebral oedema.
 
 ## Description of selected adverse drug reactions
 
@@ -565,11 +560,11 @@ For clinical management of cytokine release syndrome, see section 4.4.
 
 In B-cell ALL patients severe infections (Grade 3 and higher), which can be life-threatening or fatal, occurred in 36% of patients after Kymriah infusion. The overall incidence (all grades) was 70% (unspecified 55%, viral 31%, bacterial 24% and fungal 12%) (see section 4.4). 41% of the patients experienced an infection of any type within 8 weeks after Kymriah infusion.
 
-<div style=\"page-break-after: always\"></div>
-
 In DLBCL patients severe infections (Grade 3 and higher), which can be life-threatening or fatal, occurred in 34% of patients. The overall incidence (all grades) was 58% (unspecified 48%, bacterial 15%, fungal 11% and viral 11%) (see section 4.4). 37% of the patients experienced an infection of any type within 8 weeks.
 
 In FL patients severe infections (Grade 3 or 4), occurred in 16% of patients. The overall incidence (all grades) was 50% (unspecified 36%, viral 17%, bacterial 6%, and fungal 2%) (see section 4.4). 19% of the patients experienced an infection of any type within 8 weeks.
+
+<div style=\"page-break-after: always\"></div>
 
 Severe febrile neutropenia (Grade 3 or 4) was observed in 26% of paediatric and young adult B-cell ALL patients, 17% of DLBCL patients and 12% of FL patients. See section 4.4 for the management of febrile neutropenia before and after Kymriah infusion.
 
@@ -599,13 +594,11 @@ Pregnant women who have received Kymriah may have hypogammaglobulinaemia. Immuno
 
 ## Immunogenicity
 
-In clinical studies, humoral immunogenicity of tisagenlecleucel was measured by determination of anti-murine CAR19 antibodies (anti-mCAR19) in serum pre- and post-administration. The majority of patients tested positive for pre-dose anti-mCAR19 antibodies in paediatric and young adult ALL
-
-<div style=\"page-break-after: always\"></div>
-
-(B2202, B2205J, B2001X, 84.0%), adult DLBCL (C2201, 93.9%) and adult FL (E2202, 66.0%) patients.
+In clinical studies, humoral immunogenicity of tisagenlecleucel was measured by determination of anti-murine CAR19 antibodies (anti-mCAR19) in serum pre- and post-administration. The majority of patients tested positive for pre-dose anti-mCAR19 antibodies in paediatric and young adult ALL (B2202, B2205J, B2001X, 84.0%), adult DLBCL (C2201, 93.9%) and adult FL (E2202, 66.0%) patients.
 
 Treatment-induced anti-mCAR19 antibodies were found in 40.5% of paediatric and young adult ALL (B2202), 8.7% of adult DLBCL and 28.7% of adult FL patients. Pre-existing and treatment-induced antibodies were not associated with an impact on clinical response nor did they have an impact on the expansion and persistence of tisagenlecleucel. There is no evidence that the presence of pre-existing and treatment-induced anti-mCAR19 antibodies impacts the safety or effectiveness of Kymriah.
+
+<div style=\"page-break-after: always\"></div>
 
 T-cell immunogenicity responses were not observed in paediatric and young adult B-cell ALL, adult r/r DLBCL and adult FL patients.
 
@@ -635,8 +628,6 @@ Pharmacotherapeutic group: Antineoplastic agents, other antineoplastic agents, A
 
 Tisagenlecleucel is an autologous, immunocellular cancer therapy which involves reprogramming a patient's own T cells with a transgene encoding a chimeric antigen receptor (CAR) to identify and eliminate CD19 expressing cells. The CAR is comprised of a murine single chain antibody fragment which recognises CD19 and is fused to intracellular signalling domains from 4-1BB (CD137) and CD3 zeta. The CD3 zeta component is critical for initiating T-cell activation and anti-tumour activity, while 4-1BB enhances the expansion and persistence of tisagenlecleucel. Upon binding to CD19expressing cells, the CAR transmits a signal promoting T-cell expansion and persistence of tisagenlecleucel.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety
 
 ## Acute lymphoblastic leukaemia (ALL)
@@ -645,37 +636,36 @@ The safety and efficacy of Kymriah treatment in paediatric and young adult patie
 
 The pivotal study B2202 (ELIANA) is a multicentre, single-arm phase II study in paediatric and young adult patients with r/r B-cell ALL. Of 97 patients enrolled in the main cohort, 79 received infusion with Kymriah; for 8 patients (8%) Kymriah could not be manufactured; reasons for discontinuation prior to Kymriah infusion included death (n=7; 7%) or adverse events (n=3; 3%) while awaiting Kymriah manufacturing in the clinical study. The median duration of study follow-up defined as the time from Kymriah infusion to the date of completion or discontinuation from follow-up prior to the data cut-off date was 28.5 months (range: 0.4-65.5). The median time from Kymriah infusion to the data cut-off date was 79.4 months (range: 59.7-90.3).
 
+<div style=\"page-break-after: always\"></div>
+
 Key baseline information for enrolled and infused patients is presented in Table 2. The majority of patients (69/79, 87%) received bridging therapy while waiting for Kymriah. A total of 76 out of 79 patients (96%) who received Kymriah infusion also received lymphodepleting chemotherapy after enrolment and prior to infusion of a single dose of Kymriah (see section 4.2 for condition of lymphodepleting chemotherapy).
 
 Table 2 Study B2202: Baseline information across the enrolled and the infused patient population
 
-|                                         | Enrolled N=97 n (%)   | Infused N=79 n (%)   |
-|-----------------------------------------|-----------------------|----------------------|
-| Age (years)                             |                       |                      |
-| Mean (standard deviation)               | 12 (5.48)             | 12 (5.38)            |
-| Median (minimum - maximum)              | 11 (3 - 27)           | 11 (3 - 24)          |
-| Age category (years) - n (%)            |                       |                      |
-| <10 years                               | 40 (41.2)             | 32 (40.5)            |
-| ≥10 years and <18 years                 | 40 (41.2)             | 33 (41.8)            |
-| ≥18 years                               | 17 (17.5)             | 14 (17.7)            |
-| Sex - n (%)                             |                       |                      |
-| Male                                    | 54 (55.7)             | 45 (57.0)            |
-| Female                                  | 43 (44.3)             | 34 (43)              |
-| Disease status - n (%)                  |                       |                      |
-| Primary refractory 1                    | 8 (8.2)               | 6 (7.6)              |
-| Relapsed disease 2                      | 89 (91.8)             | 73 (92.4)            |
-| Prior stem-cell transplantation - n (%) |                       |                      |
-| 0                                       | 39 (40.2)             | 31 (39.2)            |
-| 1                                       | 50 (51.5)             | 42 (53.2)            |
-| 2                                       | 8 (8.2)               | 6 (7.6)              |
+|                                                                                                                                                           | Enrolled N=97 n (%)                                                                                                                                       | Infused N=79 n (%)                                                                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Age (years)                                                                                                                                               |                                                                                                                                                           |                                                                                                                                                           |
+| Mean (standard deviation)                                                                                                                                 | 12 (5.48)                                                                                                                                                 | 12 (5.38)                                                                                                                                                 |
+| Median (minimum - maximum)                                                                                                                                | 11 (3 - 27)                                                                                                                                               | 11 (3 - 24)                                                                                                                                               |
+| Age category (years) - n (%)                                                                                                                              |                                                                                                                                                           |                                                                                                                                                           |
+| <10 years                                                                                                                                                 | 40 (41.2)                                                                                                                                                 | 32 (40.5)                                                                                                                                                 |
+| ≥10 years and <18 years                                                                                                                                   | 40 (41.2)                                                                                                                                                 | 33 (41.8)                                                                                                                                                 |
+| ≥18 years                                                                                                                                                 | 17 (17.5)                                                                                                                                                 | 14 (17.7)                                                                                                                                                 |
+| Sex - n (%)                                                                                                                                               |                                                                                                                                                           |                                                                                                                                                           |
+| Male                                                                                                                                                      | 54 (55.7)                                                                                                                                                 | 45 (57.0)                                                                                                                                                 |
+| Female                                                                                                                                                    | 43 (44.3)                                                                                                                                                 | 34 (43)                                                                                                                                                   |
+| Disease status - n (%)                                                                                                                                    |                                                                                                                                                           |                                                                                                                                                           |
+| Primary refractory 1                                                                                                                                      | 8 (8.2)                                                                                                                                                   | 6 (7.6)                                                                                                                                                   |
+| Relapsed disease 2                                                                                                                                        | 89 (91.8)                                                                                                                                                 | 73 (92.4)                                                                                                                                                 |
+| Prior stem-cell transplantation - n (%)                                                                                                                   |                                                                                                                                                           |                                                                                                                                                           |
+| 0                                                                                                                                                         | 39 (40.2)                                                                                                                                                 | 31 (39.2)                                                                                                                                                 |
+| 1                                                                                                                                                         | 50 (51.5)                                                                                                                                                 | 42 (53.2)                                                                                                                                                 |
+| 2                                                                                                                                                         | 8 (8.2)                                                                                                                                                   | 6 (7.6)                                                                                                                                                   |
+| 1 Primary refractory: Never had a morphologic complete remission (CR) prior to the study; 2 Relapsed disease: Had at least one relapse prior to the study | 1 Primary refractory: Never had a morphologic complete remission (CR) prior to the study; 2 Relapsed disease: Had at least one relapse prior to the study | 1 Primary refractory: Never had a morphologic complete remission (CR) prior to the study; 2 Relapsed disease: Had at least one relapse prior to the study |
 
-1 Primary refractory: Never had a morphologic complete remission (CR) prior to the study; 2 Relapsed disease: Had at least one relapse prior to the study
-
-Efficacy was established through the primary endpoint of overall remission rate (ORR), which includes best overall response as complete remission (CR) or complete remission with incomplete blood count recovery (CRi) within 3 months post infusion, as determined by Independent Review Committee (IRC) assessment, as well as secondary endpoints including duration of remission (DOR) and the proportion of patients who achieved CR or CRi with minimal residual disease (MRD) &lt;0.01% by flow cytometry (MRD-negative). See Table 3 for efficacy results from this study. ORR was
+Efficacy was established through the primary endpoint of overall remission rate (ORR), which includes best overall response as complete remission (CR) or complete remission with incomplete blood count recovery (CRi) within 3 months post infusion, as determined by Independent Review Committee (IRC) assessment, as well as secondary endpoints including duration of remission (DOR) and the proportion of patients who achieved CR or CRi with minimal residual disease (MRD) &lt;0.01% by flow cytometry (MRD-negative). See Table 3 for efficacy results from this study. ORR was consistent across all subgroups. Eight patients (10.1%) who achieved CR/CRi after Kymriah infusion went to haematopoietic stem cell transplant while in remission of which 6 of the patients (7.6%) proceeded to transplant within the first 6 months post infusion while in remission. Kymriah was administered in a qualified Kymriah treatment centre in an inpatient and outpatient setting.
 
 <div style=\"page-break-after: always\"></div>
-
-consistent across all subgroups. Eight patients (10.1%) who achieved CR/CRi after Kymriah infusion went to haematopoietic stem cell transplant while in remission of which 6 of the patients (7.6%) proceeded to transplant within the first 6 months post infusion while in remission. Kymriah was administered in a qualified Kymriah treatment centre in an inpatient and outpatient setting.
 
 Table 3 Study B2202: Efficacy results in paediatric and young adult patients with relapsed/refractory B-cell acute lymphoblastic leukaemia (ALL)
 
@@ -685,17 +675,18 @@ Table 3 Study B2202: Efficacy results in paediatric and young adult patients wit
 | CR 3 , n (%)                                                    | 49 (50.5)                       | 49 (62.0)                       |
 | CRi 4 , n (%)                                                   | 16 (16.5)                       | 16 (20.3)                       |
 | Key secondary endpoint                                          | N=97                            | N=79                            |
-| CR or CRi with MRDnegative bone marrow 5,6 , n (%) 95% CI       | 64 (66.0) (55.7, 75.3) p<0.0001 | 64 (81.0) (70.6, 89.0) p<0.0001 |
+| CR or CRi with MRD negative bone marrow 5,6 , n (%) 95% CI      | 64 (66.0) (55.7, 75.3) p<0.0001 | 64 (81.0) (70.6, 89.0) p<0.0001 |
 | Duration of remission (DOR) 7                                   | N=66                            | N=66                            |
-| %event-free probability at 12 months                            | 67.4                            | 67.4                            |
-| %event-free probability at 30 months                            | 56.2                            | 56.2                            |
+| % event-free probability at 12 months                           | 67.4                            | 67.4                            |
+| % event-free probability at 30 months                           | 56.2                            | 56.2                            |
 | Median (months) (95% CI)                                        | 46.8 (17.8, NE 9 )              | 46.8 (17.8, NE)                 |
 | Other secondary endpoint                                        | N=97                            | N=79                            |
 | Overall survival (OS) 8                                         |                                 |                                 |
-| %survival probability at 36 months                              | 52.8                            | 63.5                            |
+| % survival probability at 36 months                             | 52.8                            | 63.5                            |
 | Median (months) (95% CI)                                        | 47.9 (19.4, NE)                 | Not reached (45.6, NE)          |
 
-- 1 Requires remission status to be maintained for at least 28 days without clinical evidence of relapse.
+1 Requires remission status to be maintained for at least 28 days without clinical evidence of relapse.
+
 - 2 Nominal one-sided exact pvalue based on H0: ORR ≤20% vs. Ha: ORR &gt;20%
 - 3 CR (complete remission) was defined as &lt;5% of blasts in the bone marrow, circulating blasts in blood should be &lt;1%, no evidence of extramedullary disease, and full recovery of peripheral blood counts (platelets &gt;100 000/μL and absolute neutrophil counts [ANC] &gt;1 000/μL) without blood transfusion.
 - 4 CRi (complete remission with incomplete blood count recovery) was defined as &lt;5% of blasts in the bone marrow, circulating blasts in blood should be &lt;1%, no evidence of extramedullary disease, and without full recovery of peripheral blood counts with or without blood transfusion.
@@ -705,11 +696,9 @@ Table 3 Study B2202: Efficacy results in paediatric and young adult patients wit
 - 8 OS was defined as time from date of Kymriah infusion to the date of death due to any cause for infused patients and from time of date of enrolment to the date of death due to any cause for enrolled patients.
 - 9 Not estimable
 
-The supportive study B2205J (ENSIGN) was a multicentre single-arm phase II study in paediatric and young adult patients with r/r B-cell ALL. The study had similar study design and enrolled comparable patient populations as the pivotal study B2202. The main difference between the two studies was the definition of the primary efficacy endpoint ORR, which was measured within 6 months after Kymriah infusion in study B2205J compared to 3 months in the pivotal study. Of 75 patients enrolled, 64 received infusion of Kymriah; for 5 patients (6.7%), Kymriah could not be manufactured and 6 patients (8.0%) died while awaiting Kymriah manufacturing in the clinical study. The median
+The supportive study B2205J (ENSIGN) was a multicentre single-arm phase II study in paediatric and young adult patients with r/r B-cell ALL. The study had similar study design and enrolled comparable patient populations as the pivotal study B2202. The main difference between the two studies was the definition of the primary efficacy endpoint ORR, which was measured within 6 months after Kymriah infusion in study B2205J compared to 3 months in the pivotal study. Of 75 patients enrolled, 64 received infusion of Kymriah; for 5 patients (6.7%), Kymriah could not be manufactured and 6 patients (8.0%) died while awaiting Kymriah manufacturing in the clinical study. The median duration of study follow-up defined as the time from Kymriah infusion to the date of completion or discontinuation from follow-up prior to the data cut-off date in the final analyses was 12.2 months (range: 0.4-49.3). The median time from Kymriah infusion to the data cut-off date was 31.7 months (range: 17.6-56.0).
 
 <div style=\"page-break-after: always\"></div>
-
-duration of study follow-up defined as the time from Kymriah infusion to the date of completion or discontinuation from follow-up prior to the data cut-off date in the final analyses was 12.2 months (range: 0.4-49.3). The median time from Kymriah infusion to the data cut-off date was 31.7 months (range: 17.6-56.0).
 
 Among the patients infused, the median age was 12.5 years (range: 3 to 25), 34 (53.1%) were female and 30 (46.9%) were male, 10.9% had primary refractory disease, 89.1% had relapsed disease, and 43.8% of patients had at least one prior haematopoietic stem cell transplant. Baseline disease characteristics were similar in the enrolled patients with regard to age (median age 13.0 years, range: 3 to 25), gender (46.7% female and 53.3% male), primary refractoriness (10.7%), and prior transplant history (42.7%). The majority of infused patients (57/64, 89.1%) received bridging chemotherapy while waiting for Kymriah. A total of 60 out of 64 patients (93.8%) who received Kymriah infusion also received lymphodepleting chemotherapy after enrolment and prior to infusion of a single dose of Kymriah.
 
@@ -727,13 +716,11 @@ Of four patients with active CNS leukaemia (i.e. CNS-3) included in study B2101J
 
 The safety and efficacy of Kymriah treatment in adult patients with relapsed or refractory (r/r) diffuse large Bcell lymphoma (DLBCL) who received ≥2 lines of chemotherapy, including rituximab and anthracycline, or relapsed following autologous haematopoietic stem cell transplantation (HSCT), was evaluated in the multicentre, open-label, pivotal, single-arm phase II study C2201 (JULIET). Patients with T-cell rich/histiocyte-rich large B-cell lymphoma (THRBCL), primary cutaneous large B-cell lymphoma, primary mediastinal B-cell lymphoma (PMBCL), EBV-positive DLBCL of the elderly, Richter's transformation, and Burkitt lymphoma were not enrolled in study C2201.
 
-Of 167 patients enrolled in study C2201, 115 patients received infusion with Kymriah. Approximately 31% of patients discontinued the study prior to Kymriah infusion. For 13 patients (8%) Kymriah could not be manufactured. Other reasons for discontinuation prior to Kymriah infusion included death (n=16; 10%), physician decision/primary disease progression (n=16; 10%), patient decision (n=2; 1%), protocol deviation (n=1; 1%) or adverse events (n=4; 2%) while awaiting Kymriah manufacturing in the clinical study. The median duration of study follow-up defined as the time from Kymriah infusion to date of completion or discontinuation from follow-up prior to the data cut-off
-
-<div style=\"page-break-after: always\"></div>
-
-date in the final analysis was 7.7 months (range: 0.4-61.0). The median time from Kymriah infusion to the data cut-off date in the final analysis was 74.3 months (range: 58.1-86.6).
+Of 167 patients enrolled in study C2201, 115 patients received infusion with Kymriah. Approximately 31% of patients discontinued the study prior to Kymriah infusion. For 13 patients (8%) Kymriah could not be manufactured. Other reasons for discontinuation prior to Kymriah infusion included death (n=16; 10%), physician decision/primary disease progression (n=16; 10%), patient decision (n=2; 1%), protocol deviation (n=1; 1%) or adverse events (n=4; 2%) while awaiting Kymriah manufacturing in the clinical study. The median duration of study follow-up defined as the time from Kymriah infusion to date of completion or discontinuation from follow-up prior to the data cut-off date in the final analysis was 7.7 months (range: 0.4-61.0). The median time from Kymriah infusion to the data cut-off date in the final analysis was 74.3 months (range: 58.1-86.6).
 
 Key baseline information for enrolled and infused patients is presented in Table 4. All patients had leukapheresis starting material collected and cryopreserved prior to or during study entry. The majority of patients (103/115, 90%) received bridging therapy for disease stabilisation. The type and duration of bridging therapy was left to the discretion of the physician. 107/115 patients (93%) received lymphodepleting chemotherapy prior to Kymriah infusion. Kymriah was given as a singledose (0.6-6.0 × 10 8 CAR-positive viable T cells) intravenous infusion in a qualified Kymriah treatment centre in an inpatient and outpatient setting.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4 Study C2201: Baseline information across the enrolled and the infused patient populations
 
@@ -783,15 +770,15 @@ Table 5 Study C2201: Efficacy results in adult patients with relapsed or refract
 | CR (%)                                               | 31 (21.1)                 | 31 (31.3)                 |
 | Duration of response (DOR) 3                         | N=54                      | N=54                      |
 | Median (months) (95% CI)                             | Not reached (10.0, NE 5 ) | Not reached (10.0, NE 5 ) |
-| %relapse-free probability at 12 months               | 63.4                      | 63.4                      |
-| %relapse-free probability at 24 months               | 60.8                      | 60.8                      |
-| %relapse-free probability at 36 months               | 60.8                      | 60.8                      |
-| %relapse-free probability at 54 months               | 60.8                      | 60.8                      |
+| % relapse-free probability at 12 months              | 63.4                      | 63.4                      |
+| % relapse-free probability at 24 months              | 60.8                      | 60.8                      |
+| % relapse-free probability at 36 months              | 60.8                      | 60.8                      |
+| % relapse-free probability at 54 months              | 60.8                      | 60.8                      |
 | Other secondary endpoints                            | N=167                     | N=115                     |
 | Overall survival (OS) 4                              |                           |                           |
-| %survival probability at 12 months                   | 41.0                      | 48.2                      |
-| %survival probability at 36 months                   | 29.4                      | 36.6                      |
-| %survival probability at 60 months                   | 25.5                      | 31.7                      |
+| % survival probability at 12 months                  | 41.0                      | 48.2                      |
+| % survival probability at 36 months                  | 29.4                      | 36.6                      |
+| % survival probability at 60 months                  | 25.5                      | 31.7                      |
 | Median (months) (95% CI)                             | 8.2 (5.8, 11.7)           | 11.1 (6.6, 23.9)          |
 
 - 1 The primary endpoint was analysed on all patients whose Kymriah was manufactured at the Novartis US facility.
@@ -865,7 +852,7 @@ Table 7 Study E2202: Efficacy results in adult patients with relapsed or refract
 | Overall response rate (ORR) 2 , per IRC n (%)         | 84 (85.7)                | 81 (86.2)              |
 | Duration of response (DOR) 3 , per IRC                | N=84                     | N=81                   |
 | Median (months) (95% CI)                              | NE (20.9, NE)            | NE (15.6, NE)          |
-| %event-free probability at 9 months (95% CI)          | 75.9 (64.8, 83.9)        | 76.2 (64.9, 84.3)      |
+| % event-free probability at 9 months (95% CI)         | 75.9 (64.8, 83.9)        | 76.2 (64.9, 84.3)      |
 
 CI=Confidence interval, NE=Not estimable
 
@@ -1044,7 +1031,7 @@ For storage conditions after thawing of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container and special equipment for use, administration or implantation
 
-Ethylene vinyl acetate (EVA) infusion bag with polyvinyl chloride (PVC) tubing and a luer spike interconnector closed by a luer-lock cap containing either 10 -30 mL (50 mL bags) or 30 -50 mL (250 mL bags) cell dispersion.
+Ethylene vinyl acetate (EVA) infusion bag with polyvinyl chloride (PVC) tubing and a luer spike interconnector closed by a luer-lock cap containing either 10 - 30 mL (50 mL bags) or 30 - 50 mL (250 mL bags) cell dispersion.
 
 Each infusion bag is placed into a protective layer.
 
@@ -1068,11 +1055,9 @@ The timing of thaw of Kymriah and infusion should be coordinated. The infusion s
 
 Do not thaw the product until it is ready to be used.
 
-The infusion bag should be placed inside a second sterile bag during thawing to protect ports from contamination and avoid spills in the unlikely event of the bag leaking. Kymriah should be thawed at 37°C using either a water bath or dry thaw method until there is no visible ice in the infusion bag. The
+The infusion bag should be placed inside a second sterile bag during thawing to protect ports from contamination and avoid spills in the unlikely event of the bag leaking. Kymriah should be thawed at 37°C using either a water bath or dry thaw method until there is no visible ice in the infusion bag. The bag should be removed immediately from the thawing device and kept at room temperature (20°C25°C) until infusion. If more than one infusion bag has been received for the treatment dose (refer to the batch certificate for number of bags constituting one dose), the next bag should only be thawed after the contents of the preceding bag have been infused.
 
 <div style=\"page-break-after: always\"></div>
-
-bag should be removed immediately from the thawing device and kept at room temperature (20°C25°C) until infusion. If more than one infusion bag has been received for the treatment dose (refer to the batch certificate for number of bags constituting one dose), the next bag should only be thawed after the contents of the preceding bag have been infused.
 
 Kymriah should not be manipulated. For example, Kymriah should not be washed (spun down and resuspended in new media) prior to infusion.
 
@@ -1193,25 +1178,25 @@ Prior to the launch of KYMRIAH in each Member State, the MAH must agree about th
 
 The MAH shall ensure that in each Member State where KYMRIAH is marketed, all HCPs who are expected to prescribe, dispense and administer KYMRIAH shall be provided with a guidance document to:
 
-- -facilitate identification of CRS and serious neurological adverse reactions
-- -facilitate management of the CRS and serious neurological adverse reactions
-- -ensure adequate monitoring of CRS and serious neurological adverse reactions
-- -ensure awareness of risk of secondary malignancy of T-cell origin
-- -facilitate provision of all relevant information to patients
-- -ensure that adverse reactions are adequately and appropriately reported
-- -ensure that detailed instructions about the thawing procedure are provided
-- -before treating a patient, ensure that tocilizumab for each patient is available on site; in the exceptional case where tocilizumab is not available due to a shortage that is listed in the European Medicines Agency shortage catalogue, ensure that suitable alternative measures to treat CRS are available on site
-
-<div style=\"page-break-after: always\"></div>
+- facilitate identification of CRS and serious neurological adverse reactions
+- facilitate management of the CRS and serious neurological adverse reactions
+- ensure adequate monitoring of CRS and serious neurological adverse reactions
+- ensure awareness of risk of secondary malignancy of T-cell origin
+- facilitate provision of all relevant information to patients
+- ensure that adverse reactions are adequately and appropriately reported
+- before treating a patient, ensure that tocilizumab for each patient is available on site; in the exceptional case where tocilizumab is not available due to a shortage that is listed in the European Medicines Agency shortage catalogue, ensure that suitable alternative measures to treat CRS are available on site
 
 ## Patient educational programme
 
 To inform and explain to patients:
 
-- -the risks of CRS and serious neurological adverse reactions associated with KYMRIAH
-- -the need to report the symptoms to their treating doctor immediately
-- -the need to remain in the proximity of the location where KYMRIAH was received for at least 4 weeks following KYMRIAH infusion
-- -the need to carry the patient alert card at all times
+- the risks of CRS and serious neurological adverse reactions associated with KYMRIAH
+
+<div style=\"page-break-after: always\"></div>
+
+- the need to report the symptoms to their treating doctor immediately
+- the need to remain in the proximity of the location where KYMRIAH was received for at least 4 weeks following KYMRIAH infusion
+- the need to carry the patient alert card at all times
 
 ## · Obligation to conduct post-authorisation measures
 
@@ -1239,7 +1224,7 @@ INFUSION BAG LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kymriah 1.2 × 10 6 -6 × 10 8 cells dispersion for infusion tisagenlecleucel (CAR+ viable T cells)
+Kymriah 1.2 × 10 6 - 6 × 10 8 cells dispersion for infusion tisagenlecleucel (CAR+ viable T cells)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1273,11 +1258,11 @@ Keep out of the sight and reach of children.
 
 For autologous use only.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1289,7 +1274,17 @@ This medicine contains human blood cells. Unused medicine or waste material must
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1317,17 +1312,14 @@ Bag x
 
 Justification for not including Braille accepted.
 
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+Not applicable Not applicable
+
 <div style=\"page-break-after: always\"></div>
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
-Not applicable
-
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
-
-Not applicable
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 41
 
@@ -1341,7 +1333,7 @@ Not applicable
 
 ## Package leaflet: Information for the patient or carer
 
-## Kymriah 1.2 × 10 6 -6 × 10 8 cells dispersion for infusion
+## Kymriah 1.2 × 10 6 - 6 × 10 8 cells dispersion for infusion
 
 tisagenlecleucel (CAR+ viable T cells)
 
@@ -1349,12 +1341,12 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you (or your child) are given this medicine because it contains important information.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -Your doctor will give you a Patient Alert Card. Read it carefully and follow the instructions on it.
-- -Always show the Patient Alert Card to the doctor or nurse when you see them or if you go to hospital.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
-- -The information in this leaflet is for you or your child -but in the leaflet it will just say 'you'.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- Your doctor will give you a Patient Alert Card. Read it carefully and follow the instructions on it.
+- Always show the Patient Alert Card to the doctor or nurse when you see them or if you go to hospital.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- The information in this leaflet is for you or your child - but in the leaflet it will just say 'you'.
 
 ## What is in this leaflet
 
@@ -1383,11 +1375,9 @@ Kymriah is used to treat:
 - Diffuse large B-cell lymphoma (DLBCL) - a form of cancer that affects some types of white blood cells, mostly in the lymph nodes. The medicine can be used in adults (18 years of age or older) with this cancer when it has come back or did not respond after two or more previous treatments.
 - Follicular lymphoma (FL) - a form of cancer that affects some types of white blood cells, called lymphocytes, mostly in the lymph nodes. The medicine can be used in adults (18 years of age or older) with this cancer when it has come back or did not respond after two or more previous treatments.
 
-If you have any questions about how Kymriah works or why this medicine has been prescribed for
+If you have any questions about how Kymriah works or why this medicine has been prescribed for you, ask your doctor.
 
 <div style=\"page-break-after: always\"></div>
-
-you, ask your doctor.
 
 ## 2. What you need to know before you are given Kymriah
 
@@ -1427,19 +1417,22 @@ If any of the above apply to you (or you are not sure), talk to your doctor befo
 - Check your blood for uric acid and for how many cancer cells there are in your blood. This will show if you are likely to develop a condition called tumour lysis syndrome. You may be given medicines to help prevent the condition.
 - Check for hepatitis B, hepatitis C or HIV infection.
 
-<div style=\"page-break-after: always\"></div>
-
 ## After you have been given Kymriah
 
 ## Tell your doctor or nurse immediately if you have any of the following:
 
 - Fever, which may be a symptom of an infection. Your doctor will regularly check your blood counts as the number of blood cells and other blood components may decrease.
 - Take your temperature twice a day for 3-4 weeks after treatment with Kymriah. If your temperature is high, see your doctor immediately.
-- Altered or decreased consciousness, delirium, anxiety, dizziness, tremor, headache, confusion, agitation, seizures, difficulty speaking and understanding, and/or loss of balance. This is usually within the first 8 weeks after the infusion, but it can be after too. These may be symptoms of a condition called immune effector cell-associated neurotoxicity syndrome (ICANS).
+- Altered or decreased consciousness, delirium, anxiety, dizziness, tremor, headache, confusion,
+
+<div style=\"page-break-after: always\"></div>
+
+agitation, seizures, difficulty speaking and understanding, and/or loss of balance. This is usually within the first 8 weeks after the infusion, but it can be after too. These may be symptoms of a condition called immune effector cell-associated neurotoxicity syndrome (ICANS).
+
 - Extreme tiredness, weakness and shortness of breath, which may be symptoms of a lack of red blood cells.
 - Bleeding or bruising more easily, which may be symptoms of low levels of cells in the blood known as platelets.
 
-There may be an effect on the results of some types of HIV test -ask your doctor about this.
+There may be an effect on the results of some types of HIV test - ask your doctor about this.
 
 Your doctor will regularly monitor your blood counts after you receive Kymriah as you may experience a reduction in the number of blood cells and other blood components.
 
@@ -1465,8 +1458,6 @@ Talk to your doctor if you need to have any vaccinations.
 
 Before you are given Kymriah tell your doctor or nurse if you are taking any medicines that weaken your immune system such as corticosteroids, since these medicines may interfere with the effect of Kymriah.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy and breast-feeding
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before being given this medicine. This is because the effects of Kymriah in pregnant or breast-feeding women are not known, and it may harm your unborn baby or your newborn/infant.
@@ -1482,11 +1473,13 @@ Discuss pregnancy with your doctor if you have received Kymriah.
 
 Some people may feel confused, have problems such as altered or decreased consciousness, confusion and seizures (fits) after being given Kymriah. Therefore, do not drive, use machines, or take part in activities that need you to be alert for in the 8 weeks following infusion.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Kymriah contains sodium, dimethyl sulfoxide (DMSO), dextran 40 and potassium
 
 This medicine contains 24.3 to 121.5 mg sodium (main component of cooking/table salt) in each dose. This is equivalent to 1 to 6% of the recommended maximum daily dietary intake of sodium for an adult.
 
-This medicine contains dextran 40 and DMSO (substances used to preserve frozen cells), both of which can sometimes cause difficulty breathing and/or dizziness (possible symptoms of serious allergic or hypersensitivity reactions). You should be observed closely during the infusion period. This medicine contains potassium, less than 1 mmol (39 mg) per dose, i.e. essentially 'potassium -free'.
+This medicine contains dextran 40 and DMSO (substances used to preserve frozen cells), both of which can sometimes cause difficulty breathing and/or dizziness (possible symptoms of serious allergic or hypersensitivity reactions). You should be observed closely during the infusion period. This medicine contains potassium, less than 1 mmol (39 mg) per dose, i.e. essentially 'potassium - free'.
 
 ## 3. How Kymriah is given
 
@@ -1512,8 +1505,6 @@ During the 30 to 60 minutes before you are given Kymriah you may be given other 
 - Paracetamol
 - An antihistamine such as diphenhydramine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## How Kymriah is given
 
 - Your doctor will check that the individual patient identifiers on the Kymriah infusion bag match up to you.
@@ -1527,6 +1518,8 @@ During the 30 to 60 minutes before you are given Kymriah you may be given other 
 ## If you miss an appointment
 
 If you miss an appointment, call your doctor or the hospital as soon as possible to reschedule.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -1555,9 +1548,6 @@ Very common (may affect more than 1 in 10 people)
 - Fever with dangerously low white blood cell count
 - Increased risk of infection due to abnormally low number of white blood cells
 - Frequent and persistent infections due to decreased antibodies in your blood
-
-<div style=\"page-break-after: always\"></div>
-
 - Weakness, abnormal heart rhythms, due to abnormally low level of blood salts including phosphorus, potassium
 - High levels of liver enzymes or creatinine in the blood that show that your liver or kidneys are not working normally
 - Raised blood pressure
@@ -1567,6 +1557,8 @@ Very common (may affect more than 1 in 10 people)
 - Bone and back pain
 - Skin rash
 - Swollen ankles, limbs and face
+
+<div style=\"page-break-after: always\"></div>
 
 ## Common (may affect up to 1 in 10 people)
 
@@ -1601,9 +1593,7 @@ Very common (may affect more than 1 in 10 people)
 - Stuffy nose
 - Defect in blood clotting (coagulopathy, increased international normalised ratio, prolonged prothrombin time, decreased blood fibrinogen, prolonged activated partial thromboplastin time)
 
-<div style=\"page-break-after: always\"></div>
-
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 - Abnormal blood test results (high level of magnesium)
 - Weakness or paralysis of limbs or face, difficulty speaking (possible symptoms of stroke as a result of reduced blood supply)
@@ -1614,6 +1604,8 @@ Uncommon (may affect up to 1 in 100 people)
 ## Rare (may affect up to 1 in 1 000 people)
 
 - A new type of cancer beginning in a type of white blood cells called T-cells (secondary malignancy of T-cell origin)
+
+<div style=\"page-break-after: always\"></div>
 
 Not known (frequency cannot be estimated from the available data)
 
@@ -1640,7 +1632,7 @@ Do not use this medicine if the infusion bag is damaged or leaking.
 
 ## What Kymriah contains
 
-- The active substance is tisagenlecleucel. Each infusion bag of Kymriah contains tisagenlecleucel cell dispersion at a batch-dependent concentration of autologous T cells genetically modified to express an anti-CD19 chimeric antigen receptor (CAR-positive viable T cells). 1 or more bags contain a total of 1.2 × 10 6 -6 × 10 8 CAR+ viable T cells.
+- The active substance is tisagenlecleucel. Each infusion bag of Kymriah contains tisagenlecleucel cell dispersion at a batch-dependent concentration of autologous T cells genetically modified to express an anti-CD19 chimeric antigen receptor (CAR-positive viable T cells). 1 or more bags contain a total of 1.2 × 10 6 - 6 × 10 8 CAR+ viable T cells.
 - The other ingredients are glucose, sodium chloride, human albumin solution, dextran 40 for injection, dimethyl sulfoxide, sodium gluconate, sodium acetate, potassium chloride, magnesium chloride, sodium-N-acetyltryptophanate, sodium caprylate, aluminium, and water for injections. See section 2 , 'Kymriah contains sodium, dimethyl sulfoxide (DMSO), dextran 40 and potassium ' .
 
 This medicine contains cells of human origin.
@@ -1649,17 +1641,15 @@ This medicine contains cells of human origin.
 
 Kymriah is a cell dispersion for infusion. It is supplied as an infusion bag containing a cloudy to clear, colourless to slightly yellow dispersion of cells. Each bag contains 10 mL to 50 mL of dispersion.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing Authorisation Holder
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## Manufacturer
 
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
@@ -1667,35 +1657,23 @@ Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## България
 
-Novartis Bulgaria EOOD
-
-Тел
-
-: +359 2 489 98 28
+Novartis Bulgaria EOOD Тел : +359 2 489 98 28
 
 ## Česká republika
 
-Novartis s.r.o.
-
-Tel: +420 225 775 111
+Novartis s.r.o. Tel: +420 225 775 111
 
 ## Danmark
 
-Novartis Healthcare A/S
-
-Tlf.: +45 39 16 84 00
+Novartis Healthcare A/S Tlf.: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH
-
-Tel: +49 911 273 0
+Novartis Pharma GmbH Tel: +49 911 273 0
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal
-
-Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
 ## Ελλάδα
 
@@ -1703,19 +1681,29 @@ Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
 
 ## España
 
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
+Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
 
 ## France
 
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
 
 ## Hrvatska
 
 Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+
+## Ireland
+
+Novartis Ireland Limited Tel: +353 1 260 12 55
+
+## Ísland
+
+Vistor hf.
+
+Sími: +354 535 7000
+
+## Italia
+
+Novartis Farma S.p.A. Tel: +39 02 96 54 1
 
 ## Lietuva
 
@@ -1735,27 +1723,19 @@ Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 ## Nederland
 
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
+Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Norge
 
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
+Novartis Norge AS Tlf: +47 23 05 20 00
 
 ## Österreich
 
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
+Novartis Pharma GmbH Tel: +43 1 86 6570
 
 ## Polska
 
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
 
 ## Portugal
 
@@ -1765,39 +1745,13 @@ Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
 Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
-<div style=\"page-break-after: always\"></div>
-
-## Ireland
-
-Novartis Ireland Limited
-
-Tel: +353 1 260 12 55
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Italia
-
-Novartis Farma S.p.A.
-
-Tel: +39 02 96 54 1
-
-## Κύπρος
-
 ## Slovenija
 
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
 ## Slovenská republika
 
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
 ## Suomi/Finland
 
@@ -1805,15 +1759,13 @@ Novartis Finland Oy
 
 Puh/Tel: +358 (0)10 6133 200
 
-## Sverige
+## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
 
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1826,6 +1778,12 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1859,9 +1817,9 @@ Kymriah intravenous infusion should be administered by a healthcare professional
 
 The p atient's identity should be matched with the patient identifiers on the infusion bag. Kymriah is intended solely for autologous use and must not, under any circumstances, be administered to other patients.
 
-<div style=\"page-break-after: always\"></div>
-
 Kymriah should be administered as an intravenous infusion using latex-free intravenous tubing without a leukocyte depleting filter, at approximately 10 to 20 mL per minute by gravity flow. All contents of the infusion bag(s) should be infused. Sterile sodium chloride 9 mg/mL (0.9%) solution for injection should be used to prime the tubing prior to infusion and rinse it after infusion. When the full volume of Kymriah has been infused, the infusion bag should be rinsed with 10 to 30 mL sodium chloride 9 mg/mL (0.9%) solution for injection by back priming to ensure as many cells as possible are infused into the patient.
+
+<div style=\"page-break-after: always\"></div>
 
 If the volume of Kymriah to be administered is ≤20 mL, intravenous push may be used as an alternative method of administration
 

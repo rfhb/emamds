@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-31 13:01:47
-document_pages: 52
+document_datetime: 2026-09-02 12:17:57
+document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cinacalcet-accordpharma-epar-product-information_en.pdf
 document_name: cinacalcet-accordpharma-epar-product-information_en.pdf
 version: success
-processing_time: 10.3650722
-conversion_datetime: 2026-04-01 12:33:44.440815
+processing_time: 10.2752185
+conversion_datetime: 2026-09-05 10:35:42.816066
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -30,7 +30,7 @@ Each tablet contains 30 mg, 60 mg or 90 mg cinacalcet (as hydrochloride). For th
 
 ## 3. PHARMACEUTICAL FORM
 
-Film-coated tablet (tablet).
+Film-coated tablet (tablets).
 
 ## Cinacalcet Accordpharma 30 mg film-coated tablets
 
@@ -107,12 +107,12 @@ Table 1. Cinacalcet daily dose in paediatric patients
 
 | Patient dry weight (kg)   |   Starting dose (mg) | Available sequential dose levels (mg)   |
 |---------------------------|----------------------|-----------------------------------------|
-| 10 to < 12.5              |                  1   | 1, 2.5, 5, 7.5, 10 and 15               |
+| 10 to < 12.5              |                    1 | 1, 2.5, 5, 7.5, 10 and 15               |
 | ≥ 12.5 to < 25            |                  2.5 | 2.5, 5, 7.5, 10, 15, and 30             |
 | ≥ 25 to < 36              |                      | 5, 10, 15, 30, and 60                   |
-| ≥ 36 to < 50              |                  5   | 5, 10, 15, 30, 60, and 90               |
-| ≥ 50 to < 75              |                 10   | 10, 15, 30, 60, 90, and 120             |
-| ≥ 75                      |                 15   | 15, 30, 60, 90, 120, and 180            |
+| ≥ 36 to < 50              |                    5 | 5, 10, 15, 30, 60, and 90               |
+| ≥ 50 to < 75              |                   10 | 10, 15, 30, 60, 90, and 120             |
+| ≥ 75                      |                   15 | 15, 30, 60, 90, 120, and 180            |
 
 Cinacalcet Accordpharma is only available as film-coated tablet. Thus, it is not possible to administer cinacalcet Accordpharma to paediatric patients that require less than a full 30 mg dose. If an alternate dose is required, other cinacalcet products offering such an option should be used.
 
@@ -202,11 +202,9 @@ Inform paediatric patients and/or their caregivers about the symptoms of hypocal
 
 ## CKD patients not on dialysis
 
-Cinacalcet is not indicated for CKD patients not on dialysis. Investigational studies have shown that adult CKD patients not on dialysis treated with cinacalcet have an increased risk for hypocalcaemia (serum calcium levels &lt; 8.4 mg/dL [2.1 mmol/L]) compared with cinacalcet-treated CKD patients on
+Cinacalcet is not indicated for CKD patients not on dialysis. Investigational studies have shown that adult CKD patients not on dialysis treated with cinacalcet have an increased risk for hypocalcaemia (serum calcium levels &lt; 8.4 mg/dL [2.1 mmol/L]) compared with cinacalcet-treated CKD patients on dialysis, which may be due to lower baseline calcium levels and/or the presence of residual kidney function.
 
 <div style=\"page-break-after: always\"></div>
-
-dialysis, which may be due to lower baseline calcium levels and/or the presence of residual kidney function.
 
 ## Seizures
 
@@ -300,7 +298,7 @@ Based on available data from patients receiving cinacalcet in placebo-controlled
 
 ## b) Tabulated list of adverse reactions
 
-Adverse reactions, considered at least possibly attributable to cinacalcet treatment in the placebocontrolled studies and single-arm studies based on best-evidence assessment of causality are listed below using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,0 00); very rare (&lt; 1/10,000).
+Adverse reactions, considered at least possibly attributable to cinacalcet treatment in the placebocontrolled studies and single-arm studies based on best-evidence assessment of causality are listed below using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000).
 
 Incidence of adverse reactions from controlled clinical studies and post-marketing experience are:
 
@@ -378,7 +376,7 @@ After steady state is reached, serum calcium concentrations remain constant over
 
 ## Adults
 
-Three, 6-month, double-blind, placebo-controlled clinical studies were conducted in ESRD patients with uncontrolled secondary HPT receiving dialysis (n = 1,136). Demographic and baseline characteristics were representative of the dialysis patient population with secondary HPT. Mean baseline iPTH concentrations across the 3 studies were 733 and 683 pg/mL (77.8 and 72.4 pmol/L) for the cinacalcet and placebo groups, respectively. 66% of patients were receiving vitamin D sterols at study entry, and &gt; 90% were receiving phosphate binders. Significant reductions in iPTH, serum calcium-phosphorus product (Ca x P), calcium, and phosphorus were observed in the cinacalcettreated patients compared with placebo-treated patients receiving standard of care, and the results were consistent across the 3 studies. In each of the studies, the primary endpoint (proportion of patients with an iPTH ≤ 250 pg/mL (≤ 26.5 pmol/L)) was achieved by 41%, 46%, and 35% of patients receiving cinacalcet, compared with 4%, 7%, and 6% of patients receiving placebo. Approximately 60% of cinacalcettreated patients achieved a ≥ 30% reduction in iPTH levels, and this effect was consistent across the spectrum of baseline iPTH levels. The mean reductions in serum Ca x P, calcium, and phosphorus were 14%, 7% and 8%, respectively.
+Three, 6-month, double-blind, placebo-controlled clinical studies were conducted in ESRD patients with uncontrolled secondary HPT receiving dialysis (n = 1,136). Demographic and baseline characteristics were representative of the dialysis patient population with secondary HPT. Mean baseline iPTH concentrations across the 3 studies were 733 and 683 pg/mL (77.8 and 72.4 pmol/L) for the cinacalcet and placebo groups, respectively. 66% of patients were receiving vitamin D sterols at study entry, and &gt; 90% were receiving phosphate binders. Significant reductions in iPTH, serum calcium-phosphorus product (Ca x P), calcium, and phosphorus were observed in the cinacalcettreated patients compared with placebo-treated patients receiving standard of care, and the results were consistent across the 3 studies. In each of the studies, the primary endpoint (proportion of patients with an iPTH ≤ 250 pg/mL (≤ 26.5 pmol/L)) was achieved by 41%, 46%, and 35% of patients receiving cinacalcet, compared with 4%, 7%, and 6% of patients receiving placebo. Approximately 60% of cinacalcet-treated patients achieved a ≥ 30% reduction in iPTH levels, and this effect was consistent across the spectrum of baseline iPTH levels. The mean reductions in serum Ca x P, calcium, and phosphorus were 14%, 7% and 8%, respectively.
 
 Reductions in iPTH and Ca x P were maintained for up to 12 months of treatment. Cinacalcet decreased iPTH and Ca x P, calcium and phosphorus levels regardless of baseline iPTH or Ca x P level, dialysis modality (PD versus HD), duration of dialysis, and whether or not vitamin D sterols were administered.
 
@@ -412,7 +410,7 @@ Seventeen patients received at least one dose of cinacalcet and 11 completed at 
 
 In one study, 46 adult patients (29 with parathyroid carcinoma and 17 with primary HPT and severe hypercalcaemia who had failed or had contraindications to parathyroidectomy) received cinacalcet for up to 3 years (mean of 328 days for patients with parathyroid carcinoma and mean of 347 days for patients with primary HPT). Cinacalcet was administered at doses ranging from 30 mg twice daily to 90 mg four times daily. The primary endpoint of the study was a reduction of serum calcium of ≥ 1 mg/dL (≥ 0.25 mmol/L). In patients with parathyroid carcinoma, mean serum calcium declined from 14.1 mg/dL to 12.4 mg/dL (3.5 mmol/L to 3.1 mmol/L), while in patients with primary HPT, serum calcium levels declined from 12.7 mg/dL to 10.4 mg/dL (3.2 mmol/L to 2.6 mmol/L). Eighteen (18) of 29 patients (62%) with parathyroid carcinoma and 15 of 17 subjects (88%) with primary HPT achieved a reduction in serum calcium of ≥ 1 mg/dL (≥ 0.25 mmol/L).
 
-In a 28 week placebo-controlled study, 67 adult patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (&gt; 11.3 mg/dL (2.82 mmol/L) but ≤ 12.5 mg/dL (3.12 mmol/L), but who were unable to undergo parathyroidectomy were included. Cinacalcet was initiated at a dose of 30 mg twice daily and titrated to maintain a corrected total serum calcium concentration within the normal range. A significantly higher percentage of cinacalcet-treated patients achieved mea n corrected total serum calcium concentration ≤ 10.3 mg/dL (2.57 mmol/L) and ≥ 1 mg/dL (0.25 mmol/L) decrease from baseline in mean corrected total serum calcium concentration, when compared with the placebo-treated patients (75.8% versus 0% and 84.8% versus 5.9% respectively).
+In a 28 week placebo-controlled study, 67 adult patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (&gt; 11.3 mg/dL (2.82 mmol/L) but ≤ 12.5 mg/dL (3.12 mmol/L), but who were unable to undergo parathyroidectomy were included. Cinacalcet was initiated at a dose of 30 mg twice daily and titrated to maintain a corrected total serum calcium concentration within the normal range. A significantly higher percentage of cinacalcet-treated patients achieved mean corrected total serum calcium concentration ≤ 10.3 mg/dL (2.57 mmol/L) and ≥ 1 mg/dL (0.25 mmol/L) decrease from baseline in mean corrected total serum calcium concentration, when compared with the placebo-treated patients (75.8% versus 0% and 84.8% versus 5.9% respectively).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -494,7 +492,7 @@ In toxicity studies in juvenile dogs, tremors secondary to decreased serum calci
 
 ## Tablet core
 
-Cellulose, microcrystalline Crospovidone Magnesium stearate
+Cellulose, microcrystalline Crospovidone Magnesium stearate Cysteine hydrochloride
 
 ## Tablet coat
 
@@ -506,9 +504,9 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-## Blister
-
 <div style=\"page-break-after: always\"></div>
+
+Blister
 
 36 months.
 
@@ -524,7 +522,7 @@ This medicinal product does not require any special storage conditions.
 
 ## Blister
 
-Clear PVC/ Aluminium blister. Pack sizes of 14, 28 or 84 tablets and unit dose blister containing 14 x 1, 28 x 1 or 84 x 1 tablet.
+Clear PVC/Aluminium blister or OPA/alu/PVC/desiccant PE/alu/PE blister pack. Pack sizes of 14, 28 or 84 tablets and unit dose blister containing 14 x 1, 28 x 1 or 84 x 1 tablet.
 
 ## Bottle
 
@@ -538,39 +536,21 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a planta,
-
-08039 Barcelona, Spain
+Accord Healthcare S.L.U World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona Spain
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-- EU/1/20/1429/001 - 30 mg carton with 14 tablets
-- EU/1/20/1429/002 - 30 mg carton with 28 tablets
-- EU/1/20/1429/003 - 30 mg carton with 84 tablets
-- EU/1/20/1429/004 - 30 mg bottle with 30 tablets
-- EU/1/20/1429/005 - 60 mg carton with 14 tablets
-- EU/1/20/1429/006 - 60 mg carton with 28 tablets
-- EU/1/20/1429/007 - 60 mg carton with 84 tablets
-- EU/1/20/1429/008 - 60 mg bottle with 30 tablets
-- EU/1/20/1429/009 - 90 mg carton with 14 tablets
-- EU/1/20/1429/010 - 90 mg carton with 28 tablets
-- EU/1/20/1429/011 - 90 mg carton with 84 tablets
-- EU/1/20/1429/012 - 90 mg bottle with 30 tablets
-- EU/1/20/1429/013 - 30 mg carton with 14 x 1 tablet
-- EU/1/20/1429/014 - 30 mg carton with 28 x 1 tablet
-- EU/1/20/1429/015 - 30 mg carton with 84 x 1 tablet
-- EU/1/20/1429/016 - 60 mg carton with 14 x 1 tablet
-- EU/1/20/1429/017 - 60 mg carton with 28 x 1 tablet
+```
+EU/1/20/1429/001 - 30 mg carton with 14 tablets (PVC/Aluminium blister) EU/1/20/1429/002 - 30 mg carton with 28 tablets (PVC/Aluminium blister) EU/1/20/1429/003 - 30 mg carton with 84 tablets (PVC/Aluminium blister) EU/1/20/1429/004 - 30 mg bottle with 30 tablets EU/1/20/1429/005 - 60 mg carton with 14 tablets (PVC/Aluminium blister) EU/1/20/1429/006 - 60 mg carton with 28 tablets (PVC/Aluminium blister) EU/1/20/1429/007 - 60 mg carton with 84 tablets (PVC/Aluminium blister) EU/1/20/1429/008 - 60 mg bottle with 30 tablets EU/1/20/1429/009 - 90 mg carton with 14 tablets (PVC/Aluminium blister) EU/1/20/1429/010 - 90 mg carton with 28 tablets (PVC/Aluminium blister) EU/1/20/1429/011 - 90 mg carton with 84 tablets (PVC/Aluminium blister) EU/1/20/1429/012 - 90 mg bottle with 30 tablets EU/1/20/1429/013 - 30 mg carton with 14 x 1 tablet (PVC/Aluminium blister) EU/1/20/1429/014 - 30 mg carton with 28 x 1 tablet (PVC/Aluminium blister)
+```
+
+EU/1/20/1429/015 - 30 mg carton with 84 x 1 tablet (PVC/Aluminium blister)
 
 <div style=\"page-break-after: always\"></div>
 
-EU/1/20/1429/018- 60 mg carton with 84 x 1 tablet
-
-EU/1/20/1429/019 - 90 mg carton with 14 x 1 tablet
-
-EU/1/20/1429/020 - 90 mg carton with 28 x 1 tablet
-
-EU/1/20/1429/021 - 90 mg carton with 84 x 1 tablet
+```
+EU/1/20/1429/016 - 60 mg carton with 14 x 1 tablet (PVC/Aluminium blister) EU/1/20/1429/017 - 60 mg carton with 28 x 1 tablet (PVC/Aluminium blister) EU/1/20/1429/018- 60 mg carton with 84 x 1 tablet (PVC/Aluminium blister) EU/1/20/1429/019 - 90 mg carton with 14 x 1 tablet (PVC/Aluminium blister) EU/1/20/1429/020 - 90 mg carton with 28 x 1 tablet (PVC/Aluminium blister) EU/1/20/1429/021 - 90 mg carton with 84 x 1 tablet (PVC/Aluminium blister) EU/1/20/1429/022 - 30 mg carton with 14 tablets (OPA/alu/PVC/desiccant PE/alu/PEblister) EU/1/20/1429/023 - 30 mg carton with 28 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/024 - 30 mg carton with 84 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/025 - 30 mg carton with 14 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/026 - 30 mg carton with 28 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/027 - 30 mg carton with 84 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/028 - 60 mg carton with 14 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/029 - 60 mg carton with 28 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/030 - 60 mg carton with 84 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/031 - 60 mg carton with 14 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/032 - 60 mg carton with 28 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/033 - 60 mg carton with 84 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/034 - 90 mg carton with 14 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/035 - 90 mg carton with 28 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/036 - 90 mg carton with 84 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/037 - 90 mg carton with 14 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/038 - 90 mg carton with 28 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister) EU/1/20/1429/039 - 90 mg carton with 84 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister)
+```
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -580,20 +560,19 @@ rd April 2020
 
 Date of latest renewal: 12
 
-th December 2024
+th  December 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
-- A.
-- B.
-- C.
+## ANNEX II
 
-## ANNEX II MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
+- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -647,7 +626,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON FOR BLISTER
+## OUTER CARTON FOR BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -661,7 +640,7 @@ Each tablet contains 30 mg of cinacalcet (as hydrochloride)
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 - 14 film-coated tablets
 - 28 film-coated tablets
@@ -694,27 +673,33 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U
-
-World Trade Center, Moll de Barcelona s/n,
-
-Edifici Est, 6 a planta,
-
-08039 Barcelona, Spain
+Accord Healthcare S.L.U World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1429/001 - 30 mg carton with 14 tablets
+EU/1/20/1429/001 - 30 mg carton with 14 tablets (PVC/Aluminium blister)
 
-EU/1/20/1429/002 - 30 mg carton with 28 tablets
+EU/1/20/1429/002 - 30 mg carton with 28 tablets (PVC/Aluminium blister)
 
-EU/1/20/1429/003 - 30 mg carton with 84 tablets
+EU/1/20/1429/003 - 30 mg carton with 84 tablets (PVC/Aluminium blister)
 
-EU/1/20/1429/013 - 30 mg carton with 14 x 1 tablet
+EU/1/20/1429/013 - 30 mg carton with 14 x 1 tablet (PVC/Aluminium blister)
 
-EU/1/20/1429/014 - 30 mg carton with 28 x 1 tablet
+EU/1/20/1429/014 - 30 mg carton with 28 x 1 tablet (PVC/Aluminium blister)
 
-EU/1/20/1429/015 - 30 mg carton with 84 x 1 tablet
+EU/1/20/1429/015 - 30 mg carton with 84 x 1 tablet (PVC/Aluminium blister)
+
+EU/1/20/1429/022 - 30 mg carton with 14 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+- EU/1/20/1429/023 - 30 mg carton with 28 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/024 - 30 mg carton with 84 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/025 - 30 mg carton with 14 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/026 - 30 mg carton with 28 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/027 - 30 mg carton with 84 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister)
 
 ## 13. BATCH NUMBER
 
@@ -728,57 +713,31 @@ Lot
 
 Cinacalcet Accordpharma 30 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+<div style=\"page-break-after: always\"></div>
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC:
+PC: SN: NN:
 
-SN:
-
-NN:
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Cinacalcet Accordpharma 30 mg film-coated tablets cinacalcet
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Accord Healthcare S.L.U.
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## UNIT DOSE BLISTER
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Cinacalcet Accordpharma 30 mg Tablets cinacalcet
+Cinacalcet Accordpharma 30 mg tablets cinacalcet
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Accord Healthcare S.L.U.
+Accord
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -792,6 +751,41 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
+
+Oral use
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| UNIT DOSE BLISTER                                     |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Cinacalcet Accordpharma 30 mg tablets cinacalcet
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Accord
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+Oral use
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -811,7 +805,7 @@ Each tablet contains 30 mg of cinacalcet (as hydrochloride)
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 30 film-coated tablets
 
@@ -837,7 +831,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a planta, 08039 Barcelona, Spain
+Accord Healthcare S.L.U World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -847,8 +841,7 @@ EU/1/20/1429/004
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -898,20 +891,20 @@ Read the package leaflet before use.
 Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
 8. EXPIRY DATE
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
+9. SPECIAL STORAGE CONDITIONS
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a planta, 08039 Barcelona, Spain
+Accord Healthcare S.L.U World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -922,22 +915,16 @@ EU/1/20/1429/004
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON FOR BLISTER
+## OUTER CARTON FOR BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -951,7 +938,7 @@ Each tablet contains 60 mg of cinacalcet (as hydrochloride)
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 - 14 film-coated tablets
 - 28 film-coated tablets
@@ -984,27 +971,33 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U
-
-World Trade Center, Moll de Barcelona s/n,
-
-Edifici Est, 6a planta,
-
-08039 Barcelona, Spain
+Accord Healthcare S.L.U World Trade Center, Moll de Barcelona, s/n Edifici Est, 6a planta 08039 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1429/005 - 60 mg carton with 14 tablets
+EU/1/20/1429/005 - 60 mg carton with 14 tablets (PVC/Aluminium blister)
 
-EU/1/20/1429/006 - 60 mg carton with 28 tablets
+EU/1/20/1429/006 - 60 mg carton with 28 tablets (PVC/Aluminium blister)
 
-EU/1/20/1429/007 - 60 mg carton with 84 tablets
+EU/1/20/1429/007 - 60 mg carton with 84 tablets (PVC/Aluminium blister)
 
-EU/1/20/1429/016 - 60 mg carton with 14 x 1 tablet
+EU/1/20/1429/016 - 60 mg carton with 14 x 1 tablet (PVC/Aluminium blister)
 
-EU/1/20/1429/017 - 60 mg carton with 28 x 1 tablet
+EU/1/20/1429/017 - 60 mg carton with 28 x 1 tablet (PVC/Aluminium blister)
 
-EU/1/20/1429/018- 60 mg carton with 84 x 1 tablet
+EU/1/20/1429/018- 60 mg carton with 84 x 1 tablet (PVC/Aluminium blister)
+
+EU/1/20/1429/028 - 60 mg carton with 14 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/029 - 60 mg carton with 28 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/030 - 60 mg carton with 84 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/031 - 60 mg carton with 14 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/032 - 60 mg carton with 28 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/033 - 60 mg carton with 84 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister)
 
 ## 13. BATCH NUMBER
 
@@ -1018,31 +1011,31 @@ Lot
 
 Cinacalcet Accordpharma 60 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+<div style=\"page-break-after: always\"></div>
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC:
-
-SN:
-
-NN:
+PC: SN: NN:
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-## BLISTER
+BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Cinacalcet Accordpharma 60 mg film-coated tablets cinacalcet
+Cinacalcet Accordpharma 60 mg tablets cinacalcet
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U.
+Accord
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -1052,21 +1045,19 @@ Lot
 
 ## 5. OTHER
 
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
+Oral use
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-## UNIT DOSE BLISTER
+UNIT DOSE BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Cinacalcet Accordpharma 60 mg Tablets cinacalcet
+Cinacalcet Accordpharma 60 mg tablets cinacalcet
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U.
+Accord
 
 ## 3. EXPIRY DATE
 
@@ -1074,9 +1065,11 @@ EXP
 
 ## 4. BATCH NUMBER
 
-Lot
+<div style=\"page-break-after: always\"></div>
 
 ## 5. OTHER
+
+Oral use
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1110,19 +1103,21 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a planta, 08039 Barcelona, Spain
+Accord Healthcare S.L.U World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1132,9 +1127,8 @@ EU/1/20/1429/008
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1151,8 +1145,6 @@ PC:
 SN:
 
 NN:
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1183,20 +1175,20 @@ Read the package leaflet before use.
 Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
 8. EXPIRY DATE
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
+9. SPECIAL STORAGE CONDITIONS
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a planta, 08039 Barcelona, Spain
+Accord Healthcare S.L.U World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1207,22 +1199,16 @@ EU/1/20/1429/008
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON FOR BLISTER
+## OUTER CARTON FOR BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1236,7 +1222,7 @@ Each tablet contains 90 mg of cinacalcet (as hydrochloride)
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 - 14 film-coated tablets
 - 28 film-coated tablets
@@ -1269,27 +1255,33 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U
-
-World Trade Center, Moll de Barcelona s/n,
-
-Edifici Est, 6a planta,
-
-08039 Barcelona, Spain
+Accord Healthcare S.L.U World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1429/009 - 90 mg carton with 14 tablets
+EU/1/20/1429/009 - 90 mg carton with 14 tablets (PVC/Aluminium blister)
 
-EU/1/20/1429/010 - 90 mg carton with 28 tablets
+EU/1/20/1429/010 - 90 mg carton with 28 tablets (PVC/Aluminium blister)
 
-EU/1/20/1429/011 - 90 mg carton with 84 tablets
+EU/1/20/1429/011 - 90 mg carton with 84 tablets (PVC/Aluminium blister)
 
-EU/1/20/1429/019 - 90 mg carton with 14 x 1 tablet
+EU/1/20/1429/019 - 90 mg carton with 14 x 1 tablet (PVC/Aluminium blister)
 
-EU/1/20/1429/020 - 90 mg carton with 28 x 1 tablet
+EU/1/20/1429/020 - 90 mg carton with 28 x 1 tablet (PVC/Aluminium blister)
 
-EU/1/20/1429/021 - 90 mg carton with 84 x 1 tablet
+EU/1/20/1429/021 - 90 mg carton with 84 x 1 tablet (PVC/Aluminium blister)
+
+EU/1/20/1429/034 - 90 mg carton with 14 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/035 - 90 mg carton with 28 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/036 - 90 mg carton with 84 tablets (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/037 - 90 mg carton with 14 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/038 - 90 mg carton with 28 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister)
+
+EU/1/20/1429/039 - 90 mg carton with 84 x 1 tablet (OPA/alu/PVC/desiccant PE/alu/PE blister)
 
 ## 13. BATCH NUMBER
 
@@ -1303,57 +1295,33 @@ Lot
 
 Cinacalcet Accordpharma 90 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+<div style=\"page-break-after: always\"></div>
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC:
+PC: SN: NN:
 
-SN:
-
-NN:
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Cinacalcet Accordpharma 90 mg film-coated tablets cinacalcet
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Accord Healthcare S.L.U.
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## UNIT DOSE BLISTER
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Cinacalcet Accordpharma 90 mg Tablets cinacalcet
+Cinacalcet Accordpharma 90 mg tablets
+
+cinacalcet
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Accord Healthcare S.L.U.
+Accord
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1368,6 +1336,41 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+Oral use
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| UNIT DOSE BLISTER                                     |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Cinacalcet Accordpharma 90 mg tablets cinacalcet
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Accord
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+Oral use
+
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON FOR BOTTLE
@@ -1380,11 +1383,11 @@ Cinacalcet Accordpharma 90 mg film-coated tablets cinacalcet
 
 Each tablet contains 90 mg of cinacalcet (as hydrochloride)
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 30 film-coated tablets
 
@@ -1394,25 +1397,23 @@ For oral use.
 
 Read the package leaflet before use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 8. EXPIRY DATE
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
+9. SPECIAL STORAGE CONDITIONS
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a planta, 08039 Barcelona, Spain
+Accord Healthcare S.L.U World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1422,9 +1423,8 @@ EU/1/20/1429/012
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1468,25 +1468,25 @@ For oral use.
 
 Read the package leaflet before use.
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
 8. EXPIRY DATE
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
+9. SPECIAL STORAGE CONDITIONS
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a planta, 08039 Barcelona, Spain
+Accord Healthcare S.L.U World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1497,16 +1497,10 @@ EU/1/20/1429/012
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1516,7 +1510,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-Cinacalcet Accordpharma 30 mg film-coated tablets Cinacalcet Accordpharma 60 mg film-coated tablets Cinacalcet Accordpharma 90 mg film-coated tablets cinacalcet
+Cinacalcet Accordpharma 30 mg film-coated tablets Cinacalcet Accordpharma 60 mg film-coated tablets Cinacalcet Accordpharma 90 mg film-coated tablets
+
+cinacalcet
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1538,26 +1534,26 @@ Cinacalcet Accordpharma 30 mg film-coated tablets Cinacalcet Accordpharma 60 mg 
 
 Cinacalcet Accordpharma contains the active ingredient cinacalcet, which works by controlling the levels of parathyroid hormone (PTH), calcium and phosphorous in your body. It is used to treat problems with organs called parathyroid glands. The parathyroids are four small glands in the neck, near the thyroid gland, that produce parathyroid hormone (PTH).
 
-## Cinacalcet Accordpharma is used in adults:
+Cinacalcet Accordpharma is used in adults:
 
-- -to treat secondary hyperparathyroidism in adults with serious kidney disease who need dialysis to clear their blood of waste products.
-- -to reduce high levels of calcium in the blood (hypercalcaemia) in adult patients with parathyroid cancer.
-- -to reduce high levels of calcium in the blood (hypercalcaemia) in adult patients with primary hyperparathyroidism when removal of the gland is not possible.
+- to treat secondary hyperparathyroidism in adults with serious kidney disease who need dialysis to clear their blood of waste products.
+- to reduce high levels of calcium in the blood (hypercalcaemia) in adult patients with parathyroid cancer.
+- to reduce high levels of calcium in the blood (hypercalcaemia) in adult patients with primary hyperparathyroidism when removal of the gland is not possible.
 
 Cinacalcet Accordpharma is used in children aged 3 years to less than 18 years of age:
 
-- -to treat secondary hyperparathyroidism in patients with serious kidney disease who need dialysis to clear their blood of waste products, whose condition is not controlled with other treatments.
+- to treat secondary hyperparathyroidism in patients with serious kidney disease who need dialysis to clear their blood of waste products, whose condition is not controlled with other treatments.
 
 In primary and secondary hyperparathyroidism too much PTH is produced by the parathyroid glands. 'Primary' means that the hyperparathyroidism is not caused by any other condition and 'secondary' means that the hyperparathyroidism is caused by another condition, e.g. kidney disease. Both primary and secondary hyperparathyroidism can cause the loss of calcium in the bones, which can lead to bone pain and fractures, problems with blood and heart vessels, kidney stones, mental illness and coma.
 
 ## 2. What you need to know before you take Cinacalcet Accordpharma
 
-## Do not take Cinacalcet Accordpharma:
+Do not take Cinacalcet Accordpharma:
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you are allergic to cinacalcet or any of the other ingredients of this medicine (listed in section 6).
-- -if you have low levels of calcium in your blood. Your doctor will monitor your blood calcium levels.
+- if you are allergic to cinacalcet or any of the other ingredients of this medicine (listed in section 6).
+- if you have low levels of calcium in your blood. Your doctor will monitor your blood calcium levels.
 
 ## Warnings and precautions
 
@@ -1565,9 +1561,9 @@ Talk to your doctor, pharmacist or nurse before taking Cinacalcet Accordpharma.
 
 Before you start taking Cinacalcet Accordpharma, tell your doctor if you have or have ever had:
 
-- -seizures (fits or convulsions). The risk of having seizures is higher if you have had them before;
-- -liver problems;
-- -heart failure.
+- seizures (fits or convulsions). The risk of having seizures is higher if you have had them before;
+- liver problems;
+- heart failure.
 
 Cinacalcet Accordpharma reduces calcium levels. Life threatening events and fatal outcomes associated with low calcium levels (hypocalcaemia) have been reported in adults and children treated with Cinacalcet Accordpharma.
 
@@ -1579,7 +1575,7 @@ For additional information see section 4.
 
 During treatment with Cinacalcet Accordpharma, tell your doctor:
 
-- -if you start or stop smoking, as this may affect the way Cinacalcet Accordpharma works.
+- if you start or stop smoking, as this may affect the way Cinacalcet Accordpharma works.
 
 ## Children and adolescents
 
@@ -1603,17 +1599,17 @@ Medicines such as these can affect how Cinacalcet Accordpharma works:
 
 <div style=\"page-break-after: always\"></div>
 
-- -medicines used to treat skin and fungal infections (ketoconazole, itraconazole and voriconazole);
-- -medicines used to treat bacterial infections (telithromycin, rifampicin and ciprofloxacin);
-- -a medicine used to treat HIV infection and AIDS (ritonavir);
-- -a medicine used to treat depression (fluvoxamine).
+- medicines used to treat skin and fungal infections (ketoconazole, itraconazole and voriconazole);
+- medicines used to treat bacterial infections (telithromycin, rifampicin and ciprofloxacin);
+- a medicine used to treat HIV infection and AIDS (ritonavir);
+- a medicine used to treat depression (fluvoxamine).
 
 Cinacalcet Accordpharma may affect how medicines such as the following work:
 
-- -medicines used to treat depression (amitriptyline, desipramine, nortriptyline and clomipramine);
-- -a medicine used to relieve cough (dextromethorphan);
-- -medicines used to treat changes in heart rate (flecainide and propafenone);
-- -a medicine used to treat high blood pressure (metoprolol).
+- medicines used to treat depression (amitriptyline, desipramine, nortriptyline and clomipramine);
+- a medicine used to relieve cough (dextromethorphan);
+- medicines used to treat changes in heart rate (flecainide and propafenone);
+- a medicine used to treat high blood pressure (metoprolol).
 
 ## Cinacalcet Accordpharma with food and drink
 
@@ -1671,43 +1667,43 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Please tell your doctor immediately:
 
-- -If you start to get numbness or tingling around the mouth, muscle aches or cramps and seizures These may be signs that your calcium levels are too low (hypocalcaemia).
-- -If you experience swelling of the face, lips, mouth, tongue or throat which may cause difficulty in swallowing or breathing (angioedema).
+- If you start to get numbness or tingling around the mouth, muscle aches or cramps and seizures These may be signs that your calcium levels are too low (hypocalcaemia).
+- If you experience swelling of the face, lips, mouth, tongue or throat which may cause difficulty in swallowing or breathing (angioedema).
 
 ## Very common: may affect more than 1 in 10 people
 
-- -nausea and vomiting, these side effects are normally quite mild and do not last for long.
+- nausea and vomiting, these side effects are normally quite mild and do not last for long.
 
 ## Common: may affect up to 1 in 10 people
 
-- -dizziness
-- -numbness or tingling sensation (paraesthesia)
-- -loss (anorexia) or decrease of appetite
-- -muscle pain (myalgia)
-- -weakness (asthenia)
-- -rash
-- -reduced testosterone levels
-- -high potassium levels in the blood (hyperkalaemia)
-- -allergic reactions (hypersensitivity)
-- -headache
-- -seizures (convulsions or fits)
-- -low blood pressure (hypotension)
-- -upper respiratory infection
-- -breathing difficulties (dyspnoea)
-- -cough
-- -indigestion (dyspepsia)
-- -diarrhoea
-- -abdominal pain, abdominal pain - upper
-- -constipation
-- -muscle spasms
-- -back pain
-- -low calcium levels in the blood (hypocalcaemia).
+- dizziness
+- numbness or tingling sensation (paraesthesia)
+- loss (anorexia) or decrease of appetite
+- muscle pain (myalgia)
+- weakness (asthenia)
+- rash
+- reduced testosterone levels
+- high potassium levels in the blood (hyperkalaemia)
+- allergic reactions (hypersensitivity)
+- headache
+- seizures (convulsions or fits)
+- low blood pressure (hypotension)
+- upper respiratory infection
+- breathing difficulties (dyspnoea)
+- cough
+- indigestion (dyspepsia)
+- diarrhoea
+- abdominal pain, abdominal pain - upper
+- constipation
+- muscle spasms
+- back pain
+- low calcium levels in the blood (hypocalcaemia).
 
 ## Not known: frequency cannot be estimated from available data
 
-- -Hives (urticaria)
-- -Swelling of the face, lips, mouth, tongue or throat which may cause difficulty in swallowing or breathing (angioedema)
-- -Unusually fast or pounding heart beat which may be associated with low levels of calcium in your blood (QT prolongation and ventricular arrhythmia secondary to hypocalcaemia).
+- Hives (urticaria)
+- Swelling of the face, lips, mouth, tongue or throat which may cause difficulty in swallowing or breathing (angioedema)
+- Unusually fast or pounding heart beat which may be associated with low levels of calcium in your blood (QT prolongation and ventricular arrhythmia secondary to hypocalcaemia).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1715,7 +1711,7 @@ After taking Cinacalcet Accordpharma a very small number of patients with heart 
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist or. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist or. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Cinacalcet Accordpharma
 
@@ -1727,49 +1723,50 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 This medicinal product does not require any special storage conditions.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to
+
+throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Cinacalcet Accordpharma contains
 
-- -The active substance is cinacalcet. Each film-coated tablet contains 30 mg, 60 mg or 90 mg of cinacalcet (as hydrochloride).
-- -The other ingredients are:
-- -Cellulose, microcrystalline
-- -Crospovidone
-- -Magnesium stearate
-- -The tablets are coated with:
-- -Hypromellose (E464),
-- -Titanium dioxide (E171),
-- -Triacetin,
-- -Indigo carmine aluminum lake (E132),
-- -Iron oxide yellow (E172)
+- The active substance is cinacalcet. Each film-coated tablet contains 30 mg, 60 mg or 90 mg of cinacalcet (as hydrochloride).
+- The other ingredients are:
+- Cellulose, microcrystalline
+- Crospovidone
+- Magnesium stearate
+- Cysteine hydrochloride
+- The tablets are coated with:
+- Hypromellose (E464),
+- Titanium dioxide (E171),
+- Triacetin,
+- Indigo carmine aluminum lake (E132),
+- Iron oxide yellow (E172)
 
 ## What Cinacalcet Accordpharma looks like and contents of the pack
 
-## Cinacalcet Accordpharma 30 mg film-coated tablets (tablet)
+Cinacalcet Accordpharma 30 mg film-coated tablets (tablet)
 
 Light green colored, oval shaped (approximately 9.65 mm long and 6.00 mm wide), biconvex, filmcoated tablets debossed with \"HB1\" on one side and plain on other side.
 
-## Cinacalcet Accordpharma 60 mg film-coated tablets (tablet)
+Cinacalcet Accordpharma 60 mg film-coated tablets (tablet)
 
 Light green colored, oval shaped (approximately 12.20 mm long and 7.60 mm wide), biconvex, filmcoated tablets debossed with \"HB2\" on one side and plain on other side.
 
-## Cinacalcet Accordpharma 90 mg film-coated tablets (tablet)
-
-Light green colored, oval shaped (approximately 14.00 mm long and 8.70 mm wide), biconvex, filmcoated tablets debossed with \"HB3\" on one side and plain on other side.
+Cinacalcet Accordpharma 90 mg film-coated tablets (tablet)
 
 <div style=\"page-break-after: always\"></div>
 
-Cinacalcet Accordpharma is available in blisters of 30 mg, 60 mg or 90 mg film-coated tablets. Cinacalcet Accordpharma is provided in PVC/Alu blister packs containing 14, 28 or 84 tablets and unit dose blister containing 14 x 1, 28 x 1 or 84 x 1 tablet.
+Light green colored, oval shaped (approximately 14.00 mm long and 8.70 mm wide), biconvex, filmcoated tablets debossed with \"HB3\" on one side and plain on other side.
 
-Cinacalcet Accordpharma is available in bottles of 30 mg, 60 mg or 90 mg film-coated tablets. Each bottle holds 30 film-coated tablets.
+Cinacalcet Accordpharma is available in blisters of 30 mg, 60 mg or 90 mg film-coated tablets. Cinacalcet Accordpharma is provided in PVC/alu blister or OPA/alu/PVC/desiccant PE/alu/PE blister packs containing 14, 28 or 84 tablets and unit dose blister containing 14 x 1, 28 x 1 or 84 x 1 tablet. Cinacalcet Accordpharma is available in bottles of 30 mg, 60 mg or 90 mg film-coated tablets. Each bottle holds 30 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Accord Healthcare S.L.U World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a planta, 08039 Barcelona, Spain
+Accord Healthcare S.L.U World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a planta 08039 Barcelona Spain
 
 ## Manufacturer
 
@@ -1785,4 +1782,4 @@ Accord Healthcare single member S.A. 64th Km National Road Athens, Lamia, Schima
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu

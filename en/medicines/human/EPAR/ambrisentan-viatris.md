@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 16:34:00
+document_datetime: 2026-09-03 14:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ambrisentan-viatris.html
 document_name: ambrisentan-viatris.html
 version: success
-processing_time: 0.1313773
-conversion_datetime: 2026-05-10 12:36:36.553703
+processing_time: 0.1702671
+conversion_datetime: 2026-09-05 10:46:17.605096
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Ambrisentan Viatris (previously Ambrisentan Mylan)
 
@@ -38,8 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Ambrisentan Viatris (previously Ambrisentan Mylan)](#news-on)
-- [Related content](#related-content-1560)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -51,13 +49,13 @@ Ambrisentan Viatris is a medicine that is used alone or combined with other medi
 
 PAH is abnormally high blood pressure in the arteries of the lungs. Ambrisentan Viatris is used in patients with class II or III disease. The 'class' reflects the severity of the disease: 'class II' involves slight limitation of physical activity and 'class III' involves marked limitation of physical activity. Ambrisentan Viatris is effective in PAH with no identified cause and in PAH caused by connective tissue disease.
 
-Ambrisentan Viatris contains the active substance ambrisentan and is a 'generic medicine'. This means that Ambrisentan Viatris contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU called Volibris. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/medicine-qa/questions-answers-generic-medicines_en.pdf) .
+Ambrisentan Viatris contains the active substance ambrisentan and is a 'generic medicine'. This means that Ambrisentan Viatris contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU called Volibris.
 
 Expand section
 
 Collapse section
 
-## How is Ambrisentan Viatris used?
+### How is Ambrisentan Viatris used?
 
 Ambrisentan Viatris can only be obtained with a prescription and treatment must be started by a doctor who has experience in the treatment of PAH.
 
@@ -65,31 +63,31 @@ Ambrisentan Viatris is available as tablets. It is taken once a day and the dose
 
 For more information about using Ambrisentan Viatris, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Ambrisentan Viatris work?
+### How does Ambrisentan Viatris work?
 
 PAH is a debilitating disease where there is severe narrowing of the blood vessels of the lungs. It causes high blood pressure in the vessels taking blood from the heart to the lungs and reduces the flow of blood to the lungs. As a result, the amount of oxygen that can get into the blood in the lungs is reduced, making physical activity more difficult. The active substance in Ambrisentan Viatris, ambrisentan, blocks the receptors (targets) for a hormone called endothelin, which causes blood vessels to become narrow. By blocking the effect of endothelin, Ambrisentan Viatris prevents the vessels becoming too narrow helping to lower the blood pressure and improving symptoms.
 
-## How has Ambrisentan Viatris been studied?
+### How has Ambrisentan Viatris been studied?
 
 Studies on the benefits and risks of the active substance in the authorised use have already been carried out with the reference medicine, Volibris, and do not need to be repeated for Ambrisentan Viatris.
 
 As for every medicine, the company provided studies on the quality of Ambrisentan Viatris. The company also carried out a study that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Ambrisentan Viatris?
+### What are the benefits and risks of Ambrisentan Viatris?
 
 Because Ambrisentan Viatris is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Ambrisentan Viatris authorised in the EU?
+### Why is Ambrisentan Viatris authorised in the EU?
 
 The European Medicines Agency concluded that, in accordance with EU requirements, Ambrisentan Viatris has been shown to have comparable quality and to be bioequivalent to Volibris. Therefore, the Agency's view was that, as for Volibris, the benefits of Ambrisentan Viatris outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Ambrisentan Viatris?
+### What measures are being taken to ensure the safe and effective use of Ambrisentan Viatris?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ambrisentan Viatris have been included in the summary of product characteristics and the package leaflet. Any additional measures in place for Volibris, such as a patient card with key safety information, also apply to Ambrisentan Viatris where appropriate.
 
 As for all medicines, data on the use of Ambrisentan Viatris are continuously monitored. Side effects reported with Ambrisentan Viatris are carefully evaluated and any necessary action is taken to protect patients.
 
-## Other information about Ambrisentan Viatris
+### Other information about Ambrisentan Viatris
 
 Ambrisentan Mylan received a marketing authorisation valid throughout the EU on 20 June 2019.
 
@@ -105,7 +103,7 @@ English (EN) (109.63 KB - PDF)
 
 [View](/en/documents/overview/ambrisentan-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-599)
+[Other languages (22)](#file-language-dropdown-623)
 
 български (BG) (159.86 KB - PDF)
 
@@ -137,7 +135,7 @@ Deutsch (DE) (138.45 KB - PDF)
 
 [View](/de/documents/overview/ambrisentan-mylan-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (131.77 KB - PDF)
+eesti (ET) (131.77 KB - PDF)
 
 **First published:** 15/07/2019 **Last updated:** 27/01/2025
 
@@ -167,13 +165,13 @@ italiano (IT) (132.81 KB - PDF)
 
 [View](/it/documents/overview/ambrisentan-mylan-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (164.22 KB - PDF)
+latviešu (LV) (164.22 KB - PDF)
 
 **First published:** 15/07/2019 **Last updated:** 27/01/2025
 
 [View](/lv/documents/overview/ambrisentan-mylan-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (154.73 KB - PDF)
+lietuvių (LT) (154.73 KB - PDF)
 
 **First published:** 15/07/2019 **Last updated:** 27/01/2025
 
@@ -227,7 +225,7 @@ slovenščina (SL) (152.53 KB - PDF)
 
 [View](/sl/documents/overview/ambrisentan-mylan-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (131.75 KB - PDF)
+suomi (FI) (131.75 KB - PDF)
 
 **First published:** 15/07/2019 **Last updated:** 27/01/2025
 
@@ -251,167 +249,168 @@ English (EN) (42.69 KB - PDF)
 
 Ambrisentan Viatris : EPAR - Product Information
 
-English (EN) (311.7 KB - PDF)
+English (EN) (311.04 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/en/documents/product-information/ambrisentan-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-653)
+[Other languages (24)](#file-language-dropdown-306)
 
-български (BG) (612.77 KB - PDF)
+български (BG) (633.82 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/bg/documents/product-information/ambrisentan-viatris-epar-product-information_bg.pdf)
 
-español (ES) (407.03 KB - PDF)
+español (ES) (352.85 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/es/documents/product-information/ambrisentan-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (458.05 KB - PDF)
+čeština (CS) (518.92 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/cs/documents/product-information/ambrisentan-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (464.04 KB - PDF)
+dansk (DA) (553.87 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/da/documents/product-information/ambrisentan-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (399.73 KB - PDF)
+Deutsch (DE) (458.81 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/de/documents/product-information/ambrisentan-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (411.36 KB - PDF)
+eesti (ET) (361.42 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/et/documents/product-information/ambrisentan-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (572.65 KB - PDF)
+ελληνικά (EL) (572.98 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/el/documents/product-information/ambrisentan-viatris-epar-product-information_el.pdf)
 
-français (FR) (423.66 KB - PDF)
+français (FR) (624.28 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/fr/documents/product-information/ambrisentan-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (436.92 KB - PDF)
+hrvatski (HR) (587.93 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/hr/documents/product-information/ambrisentan-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (437.43 KB - PDF)
+italiano (IT) (541.17 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/ambrisentan-viatris-epar-product-information_is.pdf)
-
-italiano (IT) (403.55 KB - PDF)
-
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/it/documents/product-information/ambrisentan-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (497.61 KB - PDF)
+latviešu (LV) (429.23 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/lv/documents/product-information/ambrisentan-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (498.1 KB - PDF)
+lietuvių (LT) (505 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/lt/documents/product-information/ambrisentan-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (467.35 KB - PDF)
+magyar (HU) (468.86 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/hu/documents/product-information/ambrisentan-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (470.79 KB - PDF)
+Malti (MT) (628.58 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/mt/documents/product-information/ambrisentan-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (449.22 KB - PDF)
+Nederlands (NL) (597.56 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/nl/documents/product-information/ambrisentan-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (564.76 KB - PDF)
+polski (PL) (349.32 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/ambrisentan-viatris-epar-product-information_no.pdf)
-
-polski (PL) (501.66 KB - PDF)
-
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/pl/documents/product-information/ambrisentan-viatris-epar-product-information_pl.pdf)
 
-português (PT) (406.61 KB - PDF)
+português (PT) (348.4 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/pt/documents/product-information/ambrisentan-viatris-epar-product-information_pt.pdf)
 
-română (RO) (494.14 KB - PDF)
+română (RO) (578.16 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/ro/documents/product-information/ambrisentan-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (471.87 KB - PDF)
+slovenčina (SK) (615.43 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/sk/documents/product-information/ambrisentan-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (439.95 KB - PDF)
+slovenščina (SL) (400.58 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/sl/documents/product-information/ambrisentan-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (489.39 KB - PDF)
+suomi (FI) (598.16 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/fi/documents/product-information/ambrisentan-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (642.52 KB - PDF)
+svenska (SV) (653.04 KB - PDF)
 
-**First published:** 15/07/2019 **Last updated:** 07/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
 
 [View](/sv/documents/product-information/ambrisentan-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000325156
+Íslenska (IS) (552.46 KB - PDF)
 
-05/05/2026
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
+
+[View](/is/documents/product-information/ambrisentan-viatris-epar-product-information_is.pdf)
+
+norsk (NO) (541.59 KB - PDF)
+
+**First published:** 15/07/2019 **Last updated:** 03/09/2026
+
+[View](/no/documents/product-information/ambrisentan-viatris-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000367958
+
+02/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -429,7 +428,7 @@ English (EN) (12.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-244)
+[Other languages (24)](#file-language-dropdown-753)
 
 български (BG) (65.67 KB - PDF)
 
@@ -461,7 +460,7 @@ Deutsch (DE) (47.28 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (36.34 KB - PDF)
+eesti (ET) (36.34 KB - PDF)
 
 **First published:** 15/07/2019 **Last updated:** 17/10/2024
 
@@ -485,25 +484,19 @@ hrvatski (HR) (102.83 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (67.52 KB - PDF)
-
-**First published:** 15/07/2019 **Last updated:** 17/10/2024
-
-[View](/is/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (49.76 KB - PDF)
 
 **First published:** 15/07/2019 **Last updated:** 17/10/2024
 
 [View](/it/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (48.51 KB - PDF)
+latviešu (LV) (48.51 KB - PDF)
 
 **First published:** 15/07/2019 **Last updated:** 17/10/2024
 
 [View](/lv/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (66.24 KB - PDF)
+lietuvių (LT) (66.24 KB - PDF)
 
 **First published:** 15/07/2019 **Last updated:** 17/10/2024
 
@@ -526,12 +519,6 @@ Nederlands (NL) (15.1 KB - PDF)
 **First published:** 15/07/2019 **Last updated:** 17/10/2024
 
 [View](/nl/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (32.88 KB - PDF)
-
-**First published:** 15/07/2019 **Last updated:** 17/10/2024
-
-[View](/no/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (49.54 KB - PDF)
 
@@ -563,7 +550,7 @@ slovenščina (SL) (35.86 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (64.14 KB - PDF)
+suomi (FI) (64.14 KB - PDF)
 
 **First published:** 15/07/2019 **Last updated:** 17/10/2024
 
@@ -575,27 +562,30 @@ svenska (SV) (30.85 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (67.52 KB - PDF)
+
+**First published:** 15/07/2019 **Last updated:** 17/10/2024
+
+[View](/is/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (32.88 KB - PDF)
+
+**First published:** 15/07/2019 **Last updated:** 17/10/2024
+
+[View](/no/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Ambrisentan Viatris (previously Ambrisentan Mylan)
-
-Active substance
-
-ambrisentan
-
-International non-proprietary name (INN) or common name
-
-ambrisentan
-
-Therapeutic area (MeSH)
-
-Hypertension, Pulmonary
-
-Anatomical therapeutic chemical (ATC) code
-
-C02KX02
+- **Name of medicine**
+    - Ambrisentan Viatris (previously Ambrisentan Mylan)
+- **Active substance**
+    - ambrisentan
+- **International non-proprietary name (INN) or common name**
+    - ambrisentan
+- **Therapeutic area (MeSH)**
+    - Hypertension, Pulmonary
+- **Anatomical therapeutic chemical (ATC) code**
+    - C02KX02
 
 ### Pharmacotherapeutic group
 
@@ -609,27 +599,16 @@ Ambrisentan Mylan is indicated for the treatment of pulmonary arterial hypertens
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004985
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Viatris Limited
-
-Damastown Industrial Park Dublin 15 Ireland
-
-Marketing authorisation issued
-
-20/06/2019
-
-Revision
-
-9
+- **EMA product number**
+    - EMEA/H/C/004985
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Viatris Limited Damastown Industrial Park  Dublin 15  Ireland
+- **Marketing authorisation issued**
+    - 20/06/2019
+- **Revision**
+    - 10
 
 ## Assessment history
 
@@ -637,13 +616,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ambrisentan Viatris : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (143.54 KB - PDF)
+English (EN) (160.28 KB - PDF)
 
-**First published:** 16/12/2025 **Last updated:** 07/05/2026
+**First published:** 16/12/2025 **Last updated:** 03/09/2026
 
 [View](/en/documents/procedural-steps-after/ambrisentan-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -655,7 +634,7 @@ English (EN) (140.88 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/ambrisentan-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ambrisentan Mylan : EPAR - Public assessment report
 
@@ -683,159 +662,8 @@ English (EN) (62.59 KB - PDF)
 
 26/04/2019
 
-## Related content
-
-Questions and answers on generic medicines
-
-Reference Number: EMA/393905/2006 Rev. 2
-
-English (EN) (66.45 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-111)
-
-български (BG) (93.16 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
-
-español (ES) (68.3 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
-
-čeština (CS) (87.71 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
-
-dansk (DA) (66.79 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
-
-Deutsch (DE) (67.55 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
-
-eesti keel (ET) (65.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
-
-ελληνικά (EL) (91.29 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
-
-français (FR) (68.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
-
-hrvatski (HR) (87.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
-
-italiano (IT) (67.62 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
-
-latviešu valoda (LV) (111.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
-
-lietuvių kalba (LT) (86.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
-
-magyar (HU) (85.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
-
-Malti (MT) (89.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
-
-Nederlands (NL) (66.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
-
-polski (PL) (88.51 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
-
-português (PT) (68.32 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
-
-română (RO) (86.9 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
-
-slovenčina (SK) (87.73 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
-
-slovenščina (SL) (84.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
-
-Suomi (FI) (66.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
-
-svenska (SV) (67.11 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
-
-## Topics
-
-- [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-07/05/2026
+03/09/2026
 
 ## Share this page

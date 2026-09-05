@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-18 14:38:00
+document_datetime: 2026-09-02 11:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yaxwer.html
 document_name: yaxwer.html
 version: success
-processing_time: 0.0998841
-conversion_datetime: 2026-08-22 23:16:00.564352
+processing_time: 0.1375601
+conversion_datetime: 2026-09-05 10:52:06.3552
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -117,7 +117,7 @@ English (EN) (129.07 KB - PDF)
 
 [View](/en/documents/overview/yaxwer-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-240)
+[Other languages (22)](#file-language-dropdown-596)
 
 български (BG) (154.29 KB - PDF)
 
@@ -263,161 +263,161 @@ English (EN) (1.02 MB - PDF)
 
 Yaxwer : EPAR - Product information
 
-English (EN) (471.85 KB - PDF)
+English (EN) (481.96 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/en/documents/product-information/yaxwer-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-528)
+[Other languages (24)](#file-language-dropdown-345)
 
-български (BG) (788.8 KB - PDF)
+български (BG) (801.41 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/bg/documents/product-information/yaxwer-epar-product-information_bg.pdf)
 
-español (ES) (779.98 KB - PDF)
+español (ES) (816.37 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/es/documents/product-information/yaxwer-epar-product-information_es.pdf)
 
-čeština (CS) (715.21 KB - PDF)
+čeština (CS) (726.87 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/cs/documents/product-information/yaxwer-epar-product-information_cs.pdf)
 
-dansk (DA) (612.27 KB - PDF)
+dansk (DA) (651.59 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/da/documents/product-information/yaxwer-epar-product-information_da.pdf)
 
-Deutsch (DE) (781.12 KB - PDF)
+Deutsch (DE) (788.85 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/de/documents/product-information/yaxwer-epar-product-information_de.pdf)
 
-eesti (ET) (789.06 KB - PDF)
+eesti (ET) (829.04 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/et/documents/product-information/yaxwer-epar-product-information_et.pdf)
 
-ελληνικά (EL) (954.01 KB - PDF)
+ελληνικά (EL) (994.78 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/el/documents/product-information/yaxwer-epar-product-information_el.pdf)
 
-français (FR) (613.77 KB - PDF)
+français (FR) (656.9 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/fr/documents/product-information/yaxwer-epar-product-information_fr.pdf)
 
-hrvatski (HR) (600.39 KB - PDF)
+hrvatski (HR) (608.71 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/hr/documents/product-information/yaxwer-epar-product-information_hr.pdf)
 
-italiano (IT) (658.79 KB - PDF)
+italiano (IT) (697.24 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/it/documents/product-information/yaxwer-epar-product-information_it.pdf)
 
-latviešu (LV) (595.37 KB - PDF)
+latviešu (LV) (603.56 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/lv/documents/product-information/yaxwer-epar-product-information_lv.pdf)
 
-lietuvių (LT) (631 KB - PDF)
+lietuvių (LT) (646.55 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/lt/documents/product-information/yaxwer-epar-product-information_lt.pdf)
 
-magyar (HU) (609.23 KB - PDF)
+magyar (HU) (620.78 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/hu/documents/product-information/yaxwer-epar-product-information_hu.pdf)
 
-Malti (MT) (1020.94 KB - PDF)
+Malti (MT) (1.01 MB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/mt/documents/product-information/yaxwer-epar-product-information_mt.pdf)
 
-Nederlands (NL) (653.94 KB - PDF)
+Nederlands (NL) (692.93 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/nl/documents/product-information/yaxwer-epar-product-information_nl.pdf)
 
-polski (PL) (655.42 KB - PDF)
+polski (PL) (638.61 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/pl/documents/product-information/yaxwer-epar-product-information_pl.pdf)
 
-português (PT) (646.33 KB - PDF)
+português (PT) (658.51 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/pt/documents/product-information/yaxwer-epar-product-information_pt.pdf)
 
-română (RO) (766.79 KB - PDF)
+română (RO) (781.89 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/ro/documents/product-information/yaxwer-epar-product-information_ro.pdf)
 
-slovenčina (SK) (539.66 KB - PDF)
+slovenčina (SK) (553.26 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/sk/documents/product-information/yaxwer-epar-product-information_sk.pdf)
 
-slovenščina (SL) (607.03 KB - PDF)
+slovenščina (SL) (619.49 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/sl/documents/product-information/yaxwer-epar-product-information_sl.pdf)
 
-suomi (FI) (671.94 KB - PDF)
+suomi (FI) (706.66 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/fi/documents/product-information/yaxwer-epar-product-information_fi.pdf)
 
-svenska (SV) (626.31 KB - PDF)
+svenska (SV) (701.7 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/sv/documents/product-information/yaxwer-epar-product-information_sv.pdf)
 
-Íslenska (IS) (690.1 KB - PDF)
+Íslenska (IS) (697.84 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/is/documents/product-information/yaxwer-epar-product-information_is.pdf)
 
-norsk (NO) (626.17 KB - PDF)
+norsk (NO) (636.98 KB - PDF)
 
-**First published:** 08/09/2025
+**First published:** 08/09/2025 **Last updated:** 02/09/2026
 
 [View](/no/documents/product-information/yaxwer-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000358701
+**Latest procedure affecting product information:** VR/0000363063
 
-13/08/2026
+01/09/2026
 
 icon globe
 
@@ -442,7 +442,7 @@ English (EN) (62.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yaxwer-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-251)
+[Other languages (21)](#file-language-dropdown-31)
 
 български (BG) (81.42 KB - PDF)
 
@@ -609,7 +609,7 @@ Treatment of adults and skeletally mature adolescents with giant cell tumour of 
 - **Marketing authorisation issued**
     - 23/06/2025
 - **Revision**
-    - 1
+    - 2
 
 ## Assessment history
 
@@ -621,9 +621,9 @@ Collapse section
 
 Yaxwer : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.67 KB - PDF)
+English (EN) (159.4 KB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 02/09/2026
 
 [View](/en/documents/procedural-steps-after/yaxwer-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -657,6 +657,6 @@ English (EN) (144.95 KB - PDF)
 
 **This page was last updated on**
 
-18/08/2026
+02/09/2026
 
 ## Share this page

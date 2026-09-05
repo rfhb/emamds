@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-03 13:15:00
+document_datetime: 2026-08-25 14:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/svariya.html
 document_name: svariya.html
 version: success
-processing_time: 0.1438299
-conversion_datetime: 2026-08-07 13:48:12.00055
+processing_time: 0.149944
+conversion_datetime: 2026-09-05 10:51:32.62732
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Svariya (previously Rivaroxaban Koanaa)
 
@@ -45,196 +45,197 @@ Page contents
 
 ## Overview
 
-Rivaroxaban Koanaa is an anticoagulant medicine (a medicine that prevents blood clotting) used:
+Svariya is an anticoagulant medicine (a medicine that prevents blood clotting) used:
 
 - to treat deep vein thrombosis (DVT, a blood clot in a deep vein, usually in the leg) and pulmonary embolism (a clot in a blood vessel supplying the lungs), and to prevent DVT and pulmonary embolism from recurring in adults;
+
 - to prevent venous thromboembolism (VTE, the formation of blood clots in the veins) in adults who are undergoing surgery to replace a hip or knee;
+
 - to treat VTE and prevent VTE from recurring in children and adolescents aged less than 18 years;
+
 - to prevent stroke (caused by a blood clot in the brain) and systemic embolism (a blood clot in another organ) in adults with non-valvular atrial fibrillation (irregular rapid contractions of the upper chambers of the heart).
 
-Rivaroxaban Koanaa contains the active substance rivaroxaban and is a 'generic medicine'. This means that Rivaroxaban Koanaa contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Rivaroxaban Koanaa is Xarelto.
+Svariya contains the active substance rivaroxaban and is a 'generic medicine'. This means that Svariya contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Svariya is Xarelto. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/other/questions-and-answers-generic-medicines_en.pdf) .
 
 Expand section
 
 Collapse section
 
-### How is Rivaroxaban Koanaa used?
+### How is Svariya used?
 
-Rivaroxaban Koanaa is available as a film to be placed on the tongue, where it will disperse rapidly. The dose and duration of treatment with Rivaroxaban Koanaa depend on what it is being used for and the patient's risk of bleeding. For children, the dose and duration of treatment also depend on the patient's age and weight.
+Svariya is available as a film to be placed on the tongue, where it will disperse rapidly. The dose and duration of treatment with Svariya depend on what it is being used for and the patient's risk of bleeding. For children, the dose and duration of treatment also depend on the patient's age and weight.
 
-The medicine can only be obtained with a prescription. For more information about using Rivaroxaban Koanaa, see the package leaflet or contact your doctor or pharmacist.
+The medicine can only be obtained with a prescription. For more information about using Svariya, see the package leaflet or contact your doctor or pharmacist.
 
-### How does Rivaroxaban Koanaa work?
+### How does Svariya work?
 
-The active substance in Rivaroxaban Koanaa, rivaroxaban, is a factor Xa inhibitor. This means that it blocks factor Xa, an enzyme that is involved in the production of thrombin. Thrombin is central to the process of blood clotting. By blocking factor Xa, the levels of thrombin decrease, which reduces the risk of blood clots forming in the veins and arteries, and also treats existing clots.
+The active substance in Svariya, rivaroxaban, is a factor Xa inhibitor. This means that it blocks factor Xa, an enzyme that is involved in the production of thrombin. Thrombin is central to the process of blood clotting. By blocking factor Xa, the levels of thrombin decrease, which reduces the risk of blood clots forming in the veins and arteries and also treats existing clots.
 
-### How has Rivaroxaban Koanaa been studied?
+### How has Svariya been studied?
 
-Studies on the benefits and risks of the active substance in the authorised uses have already been carried out with the reference medicine, Xarelto, and do not need to be repeated for Rivaroxaban Koanaa.
+Studies on the benefits and risks of the active substance in the authorised uses have already been carried out with the reference medicine, Xarelto, and do not need to be repeated for R Svariya.
 
-As for every medicine, the company provided studies on the quality of Rivaroxaban Koanaa. The company also carried out studies that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
+As for every medicine, the company provided studies on the quality of Svariya. The company also carried out studies that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-### What are the benefits and risks of Rivaroxaban Koanaa?
+### What are the benefits and risks of Svariya?
 
-Because Rivaroxaban Koanaa is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
+Because Svariya is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-### Why is Rivaroxaban Koanaa authorised in the EU?
+### Why is Svariya authorised in the EU?
 
-The European Medicines Agency concluded that, in accordance with EU requirements, Rivaroxaban Koanaa has been shown to have comparable quality and to be bioequivalent to Xarelto. Therefore, the Agency's view was that, as for Xarelto, the benefits of Rivaroxaban Koanaa outweigh the identified risks and it can be authorised for use in the EU.
+The European Medicines Agency concluded that, in accordance with EU requirements, Svariya has been shown to have comparable quality and to be bioequivalent to Xarelto. Therefore, the Agency's view was that, as for Xarelto, the benefits of Svariya outweigh the identified risks and it can be authorised for use in the EU.
 
-### What measures are being taken to ensure the safe and effective use of Rivaroxaban Koanaa?
+### What measures are being taken to ensure the safe and effective use of Svariya?
 
-Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Rivaroxaban Koanaa have been included in the summary of product characteristics and the package leaflet. Any additional measures in place for Xarelto also apply to Rivaroxaban Koanaa where appropriate.
+Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Svariya have been included in the summary of product characteristics and the package leaflet. Any additional measures in place for Xarelto also apply to Svariya where appropriate.
 
-As for all medicines, data on the use of Rivaroxaban Koanaa are continuously monitored. Suspected side effects reported with Rivaroxaban Koanaa are carefully evaluated and any necessary action taken to protect patients.
+As for all medicines, data on the use of Svariya are continuously monitored. Suspected side effects reported with Svariya are carefully evaluated and any necessary action taken to protect patients.
 
-### Other information about Rivaroxaban Koanaa
+### Other information about Svariya
 
-Rivaroxaban Koanaa received a marketing authorisation valid throughout the EU on 21 November 2025.
+Svariya received a marketing authorisation valid throughout the EU on 21 November 2025.
 
-Rivaroxaban Koanaa : EPAR - Medicine overview
+Svariya : EPAR - Medicine overview
 
-Reference Number: EMA/319706/2025
+English (EN) (166.32 KB - PDF)
 
-English (EN) (167.38 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/en/documents/overview/svariya-epar-medicine-overview_en.pdf)
 
-[View](/en/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_en.pdf)
+[Other languages (22)](#file-language-dropdown-587)
 
-[Other languages (22)](#file-language-dropdown-663)
+български (BG) (190.43 KB - PDF)
 
-български (BG) (189.54 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/bg/documents/overview/svariya-epar-medicine-overview_bg.pdf)
 
-[View](/bg/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_bg.pdf)
+español (ES) (166.49 KB - PDF)
 
-español (ES) (167.56 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/es/documents/overview/svariya-epar-medicine-overview_es.pdf)
 
-[View](/es/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_es.pdf)
+čeština (CS) (187.09 KB - PDF)
 
-čeština (CS) (187.27 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/cs/documents/overview/svariya-epar-medicine-overview_cs.pdf)
 
-[View](/cs/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_cs.pdf)
+dansk (DA) (165.98 KB - PDF)
 
-dansk (DA) (166.64 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/da/documents/overview/svariya-epar-medicine-overview_da.pdf)
 
-[View](/da/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_da.pdf)
+Deutsch (DE) (170.32 KB - PDF)
 
-Deutsch (DE) (170.41 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/de/documents/overview/svariya-epar-medicine-overview_de.pdf)
 
-[View](/de/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_de.pdf)
+eesti (ET) (163.76 KB - PDF)
 
-eesti (ET) (164.87 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/et/documents/overview/svariya-epar-medicine-overview_et.pdf)
 
-[View](/et/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_et.pdf)
+ελληνικά (EL) (189.93 KB - PDF)
 
-ελληνικά (EL) (179.34 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/el/documents/overview/svariya-epar-medicine-overview_el.pdf)
 
-[View](/el/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_el.pdf)
+français (FR) (168.27 KB - PDF)
 
-français (FR) (169.73 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/fr/documents/overview/svariya-epar-medicine-overview_fr.pdf)
 
-[View](/fr/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_fr.pdf)
+hrvatski (HR) (186.33 KB - PDF)
 
-hrvatski (HR) (187.71 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/hr/documents/overview/svariya-epar-medicine-overview_hr.pdf)
 
-[View](/hr/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_hr.pdf)
+italiano (IT) (165.85 KB - PDF)
 
-italiano (IT) (166.72 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/it/documents/overview/svariya-epar-medicine-overview_it.pdf)
 
-[View](/it/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_it.pdf)
+latviešu (LV) (201.75 KB - PDF)
 
-latviešu (LV) (203.77 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/lv/documents/overview/svariya-epar-medicine-overview_lv.pdf)
 
-[View](/lv/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_lv.pdf)
+lietuvių (LT) (176.01 KB - PDF)
 
-lietuvių (LT) (187.99 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/lt/documents/overview/svariya-epar-medicine-overview_lt.pdf)
 
-[View](/lt/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_lt.pdf)
+magyar (HU) (187.6 KB - PDF)
 
-magyar (HU) (188.76 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/hu/documents/overview/svariya-epar-medicine-overview_hu.pdf)
 
-[View](/hu/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_hu.pdf)
+Malti (MT) (188.85 KB - PDF)
 
-Malti (MT) (188.88 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/mt/documents/overview/svariya-epar-medicine-overview_mt.pdf)
 
-[View](/mt/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_mt.pdf)
+Nederlands (NL) (168.2 KB - PDF)
 
-Nederlands (NL) (158.31 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/nl/documents/overview/svariya-epar-medicine-overview_nl.pdf)
 
-[View](/nl/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_nl.pdf)
+polski (PL) (190.64 KB - PDF)
 
-polski (PL) (192.11 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/pl/documents/overview/svariya-epar-medicine-overview_pl.pdf)
 
-[View](/pl/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_pl.pdf)
+português (PT) (167.28 KB - PDF)
 
-português (PT) (168.26 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/pt/documents/overview/svariya-epar-medicine-overview_pt.pdf)
 
-[View](/pt/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_pt.pdf)
+română (RO) (185.15 KB - PDF)
 
-română (RO) (187.19 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/ro/documents/overview/svariya-epar-medicine-overview_ro.pdf)
 
-[View](/ro/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_ro.pdf)
+slovenčina (SK) (186.86 KB - PDF)
 
-slovenčina (SK) (187.57 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/sk/documents/overview/svariya-epar-medicine-overview_sk.pdf)
 
-[View](/sk/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_sk.pdf)
+slovenščina (SL) (185.74 KB - PDF)
 
-slovenščina (SL) (185.22 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/sl/documents/overview/svariya-epar-medicine-overview_sl.pdf)
 
-[View](/sl/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_sl.pdf)
+suomi (FI) (163.61 KB - PDF)
 
-suomi (FI) (165.08 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
+[View](/fi/documents/overview/svariya-epar-medicine-overview_fi.pdf)
 
-[View](/fi/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_fi.pdf)
+svenska (SV) (164.78 KB - PDF)
 
-svenska (SV) (166.12 KB - PDF)
+**First published:** 17/12/2025 **Last updated:** 25/08/2026
 
-**First published:** 17/12/2025
-
-[View](/sv/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_sv.pdf)
+[View](/sv/documents/overview/svariya-epar-medicine-overview_sv.pdf)
 
 Rivaroxaban Koanaa : EPAR - Risk management plan
 
@@ -254,7 +255,7 @@ English (EN) (1.28 MB - PDF)
 
 [View](/en/documents/product-information/svariya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-915)
+[Other languages (24)](#file-language-dropdown-27)
 
 български (BG) (1.58 MB - PDF)
 
@@ -408,7 +409,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -427,7 +428,7 @@ English (EN) (58.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/svariya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-341)
+[Other languages (23)](#file-language-dropdown-604)
 
 български (BG) (68.79 KB - PDF)
 
@@ -659,6 +660,6 @@ English (EN) (166.03 KB - PDF)
 
 **This page was last updated on**
 
-03/08/2026
+25/08/2026
 
 ## Share this page

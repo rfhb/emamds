@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-01-28 09:33:24
-document_pages: 180
+document_datetime: 2026-09-01 11:14:34
+document_pages: 181
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/omvoh-epar-product-information_en.pdf
 document_name: omvoh-epar-product-information_en.pdf
 version: success
-processing_time: 39.0010063
-conversion_datetime: 2026-01-29 11:38:13.056026
+processing_time: 57.0199737
+conversion_datetime: 2026-09-05 10:39:45.270892
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.95.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.17.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -153,11 +151,9 @@ In clinical studies, hypersensitivity reactions have been reported. Most were mi
 
 ## Infections
 
-Mirikizumab may increase the risk of severe infection (see section 4.8). Treatment with mirikizumab should not be initiated in patients with a clinically important active infection until the infection resolves or is adequately treated (see section 4.3). The risks and benefits of treatment should be considered prior to initiating use of mirikizumab in patients with a chronic infection or a history of recurrent infection. Patients should be instructed to seek medical advice if signs or symptoms of
+Mirikizumab may increase the risk of severe infection (see section 4.8). Treatment with mirikizumab should not be initiated in patients with a clinically important active infection until the infection resolves or is adequately treated (see section 4.3). The risks and benefits of treatment should be considered prior to initiating use of mirikizumab in patients with a chronic infection or a history of recurrent infection. Patients should be instructed to seek medical advice if signs or symptoms of clinically important acute or chronic infection occur. If a serious infection develops, discontinuation of mirikizumab should be considered until the infection resolves.
 
 <div style=\"page-break-after: always\"></div>
-
-clinically important acute or chronic infection occur. If a serious infection develops, discontinuation of mirikizumab should be considered until the infection resolves.
 
 ## Pre-treatment evaluation for tuberculosis
 
@@ -270,11 +266,9 @@ Overall mirikizumab treatment periods in the ulcerative colitis and Crohn's dise
 
 ## Immunogenicity
 
-In the ulcerative colitis studies, up to 23 % of mirikizumab-treated patients with 12 months of treatment developed anti-drug antibodies, most of which were of low titer and tested positive for neutralising activity. Higher antibody titers in approximately 2 % of subjects treated with
+In the ulcerative colitis studies, up to 23 % of mirikizumab-treated patients with 12 months of treatment developed anti-drug antibodies, most of which were of low titer and tested positive for neutralising activity. Higher antibody titers in approximately 2 % of subjects treated with mirikizumab were associated with lower serum mirikizumab concentrations and reduced clinical response.
 
 <div style=\"page-break-after: always\"></div>
-
-mirikizumab were associated with lower serum mirikizumab concentrations and reduced clinical response.
 
 In the Crohn's disease study, 12.7% of mirikizumab-treated patients with 12 months of treatment developed anti-drug antibodies, most of which were of low titer and tested positive for neutralising activity. There was no identified clinically significant effect of anti-drug antibodies on pharmacokinetics or effectiveness of mirikizumab.
 
@@ -332,37 +326,37 @@ Table 2: Summary of key efficacy outcomes in LUCENT-1 (week 12 unless indicated 
 
 |                                                                | Placebo n = 294   | Placebo n = 294   | Mirikizumab IV n = 868   | Mirikizumab IV n = 868   | Treatment difference     |
 |----------------------------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|--------------------------|
-|                                                                | n                 | %                 | n                        | %                        | and 99.875%CI            |
-| Clinical remission* 1                                          | 39                | 13.3%             | 210                      | 24.2%                    | 11.1 % (3.2 %, 19.1 %) c |
-| Patients who were biologic and JAK-inhibitor naïve a           | 27/171            | 15.8%             | 152/492                  | 30.9%                    | - - -                    |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 10/118            | 8.5%              | 55/361                   | 15.2%                    | - - -                    |
-| Alternate clinical remission* 2                                | 43                | 14.6%             | 222                      | 25.6%                    | 11.1 % (3.0 %, 19.3 %) c |
+|                                                                | n                 | %                 | n                        | %                        | and 99.875 % CI          |
+| Clinical remission* 1                                          | 39                | 13.3 %            | 210                      | 24.2 %                   | 11.1 % (3.2 %, 19.1 %) c |
+| Patients who were biologic and JAK-inhibitor naïve a           | 27/171            | 15.8 %            | 152/492                  | 30.9 %                   | - - -                    |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 10/118            | 8.5 %             | 55/361                   | 15.2 %                   | - - -                    |
+| Alternate clinical remission* 2                                | 43                | 14.6 %            | 222                      | 25.6 %                   | 11.1 % (3.0 %, 19.3 %) c |
 
 <div style=\"page-break-after: always\"></div>
 
-| Patients who were biologic and JAK-inhibitor naïve a           | 31/171          | 18.1%           | 160/492                | 32.5%                  | - - -                              |
-|----------------------------------------------------------------|-----------------|-----------------|------------------------|------------------------|------------------------------------|
-| Patients who failed b at least one biologic or JAK-inhibitor d | 10/118          | 8.5%            | 59/361                 | 16.3%                  | - - -                              |
-| Clinical response* 3                                           | 124             | 42.2%           | 551                    | 63.5%                  | 21.4 % (10.8 %, 32.0 %) c          |
-| Patients who were biologic and JAK-inhibitor naïve a           | 86/171          | 50.3%           | 345/492                | 70.1%                  | - - -                              |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 35/118          | 29.7%           | 197/361                | 54.6%                  | - - -                              |
-| Endoscopic improvement* 4                                      | 62              | 21.1%           | 315                    | 36.3%                  | 15.4 % (6.3 %, 24.5 %) c           |
-| Patients who were biologic and JAK-inhibitor naïve a           | 48/171          | 28.1%           | 226/492                | 45.9%                  | - - -                              |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 12/118          | 10.2%           | 85/361                 | 23.5%                  | - - -                              |
-| Symptomatic remission (week 4)* 5                              | 38              | 12.9%           | 189                    | 21.8%                  | 9.2 % (1.4 %, 16.9 %) c            |
-| Patients who were biologic and JAK-inhibitor naïve a           | 26/171          | 15.2%           | 120/492                | 24.4%                  | - - -                              |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 10/118          | 8.5%            | 67/361                 | 18.6%                  | - - -                              |
-| Symptomatic remission* 5                                       | 82              | 27.9%           | 395                    | 45.5%                  | 17.5 % (7.5 %, 27.6 %) c           |
-| Patients who were biologic and JAK-inhibitor naïve a           | 57/171          | 33.3%           | 248/492                | 50.4%                  | - - -                              |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 22/118          | 18.6%           | 139/361                | 38.5%                  | - - -                              |
-| Histo-endoscopic mucosal improvement* 6                        | 41              | 13.9%           | 235                    | 27.1%                  | 13.4 % (5.5 %, 21.4 %) c           |
-| Patients who were biologic and JAK-inhibitor naïve a           | 32/171          | 18.7%           | 176/492                | 35.8%                  | - - -                              |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 8/118           | 6.8%            | 56/361                 | 15.5%                  | - - -                              |
-|                                                                | Placebo n = 294 | Placebo n = 294 | Mirikizumab IV n = 868 | Mirikizumab IV n = 868 | Treatment difference and 99.875%CI |
-|                                                                | LS mean         | Standard error  | LS mean                | Standard error         | Treatment difference and 99.875%CI |
-| Bowel urgency severity* 7                                      | -1.63           | 0.141           | -2.59                  | 0.083                  | -0.95 (-1.47, -0.44) c             |
-| Patients who were biologic and JAK-inhibitor naïve a           | -2.08           | 0.174           | -2.72                  | 0.101                  | - - -                              |
-| Patients who failed b at least one biologic or JAK-inhibitor d | -0.95           | 0.227           | -2.46                  | 0.126                  | - - -                              |
+| Patients who were biologic and JAK-inhibitor naïve a           | 31/171          | 18.1 %          | 160/492                | 32.5 %                 | - - -                                |
+|----------------------------------------------------------------|-----------------|-----------------|------------------------|------------------------|--------------------------------------|
+| Patients who failed b at least one biologic or JAK-inhibitor d | 10/118          | 8.5 %           | 59/361                 | 16.3 %                 | - - -                                |
+| Clinical response* 3                                           | 124             | 42.2 %          | 551                    | 63.5 %                 | 21.4 % (10.8 %, 32.0 %) c            |
+| Patients who were biologic and JAK-inhibitor naïve a           | 86/171          | 50.3 %          | 345/492                | 70.1 %                 | - - -                                |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 35/118          | 29.7 %          | 197/361                | 54.6 %                 | - - -                                |
+| Endoscopic improvement* 4                                      | 62              | 21.1 %          | 315                    | 36.3 %                 | 15.4 % (6.3 %, 24.5 %) c             |
+| Patients who were biologic and JAK-inhibitor naïve a           | 48/171          | 28.1 %          | 226/492                | 45.9 %                 | - - -                                |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 12/118          | 10.2 %          | 85/361                 | 23.5 %                 | - - -                                |
+| Symptomatic remission (week 4)* 5                              | 38              | 12.9 %          | 189                    | 21.8 %                 | 9.2 % (1.4 %, 16.9 %) c              |
+| Patients who were biologic and JAK-inhibitor naïve a           | 26/171          | 15.2 %          | 120/492                | 24.4 %                 | - - -                                |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 10/118          | 8.5 %           | 67/361                 | 18.6 %                 | - - -                                |
+| Symptomatic remission* 5                                       | 82              | 27.9 %          | 395                    | 45.5 %                 | 17.5 % (7.5 %, 27.6 %) c             |
+| Patients who were biologic and JAK-inhibitor naïve a           | 57/171          | 33.3 %          | 248/492                | 50.4 %                 | - - -                                |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 22/118          | 18.6 %          | 139/361                | 38.5 %                 | - - -                                |
+| Histo-endoscopic mucosal improvement* 6                        | 41              | 13.9 %          | 235                    | 27.1 %                 | 13.4 % (5.5 %, 21.4 %) c             |
+| Patients who were biologic and JAK-inhibitor naïve a           | 32/171          | 18.7 %          | 176/492                | 35.8 %                 | - - -                                |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 8/118           | 6.8 %           | 56/361                 | 15.5 %                 | - - -                                |
+|                                                                | Placebo n = 294 | Placebo n = 294 | Mirikizumab IV n = 868 | Mirikizumab IV n = 868 | Treatment difference and 99.875 % CI |
+|                                                                | LS mean         | Standard error  | LS mean                | Standard error         | Treatment difference and 99.875 % CI |
+| Bowel urgency severity* 7                                      | -1.63           | 0.141           | -2.59                  | 0.083                  | -0.95 (-1.47, -0.44) c               |
+| Patients who were biologic and JAK-inhibitor naïve a           | -2.08           | 0.174           | -2.72                  | 0.101                  | - - -                                |
+| Patients who failed b at least one biologic or JAK-inhibitor d | -0.95           | 0.227           | -2.46                  | 0.126                  | - - -                                |
 
 Abbreviations:  CI = confidence interval; IV = intravenous; LS = least square
 
@@ -388,39 +382,39 @@ LUCENT-2 evaluated 544 patients out of the 551 patients who achieved clinical re
 
 Table 3: Summary of key efficacy measures in LUCENT-2 (week 40; 52 weeks from initiation of the induction dose)
 
-|                                                                | Placebo n = 179   | Placebo n = 179   | Mirikizumab SC n = 365   | Mirikizumab SC n = 365   | Treatment difference and 95%CI   |
-|----------------------------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|----------------------------------|
-|                                                                | n                 | %                 | n                        | %                        |                                  |
-| Clinical remission* 1                                          | 45                | 25.1%             | 182                      | 49.9%                    | 23.2 % (15.2 %, 31.2 %) c        |
-| Patients who were biologic and JAK-inhibitor naïve a           | 35/114            | 30.7%             | 118/229                  | 51.5%                    | - - -                            |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 10/64             | 15.6%             | 59/128                   | 46.1%                    | - - -                            |
-| Alternate clinical remission* 2                                | 47                | 26.3%             | 189                      | 51.8%                    | 24.1 % (16.0 %, 32.2 %) c        |
-| Patients who were biologic and JAK-inhibitor naïve a           | 37/114            | 32.5%             | 124/229                  | 54.1%                    | - - -                            |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 10/64             | 15.6%             | 60/128                   | 46.9%                    | - - -                            |
-| Maintenance of clinical remission through week 40* 3           | 24/65             | 36.9%             | 91/143                   | 63.6%                    | 24.8 % (10.4 %, 39.2 %) c        |
-| Patients who were biologic and JAK-inhibitor naïve a           | 22/47             | 46.8%             | 65/104                   | 62.5%                    | - - -                            |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 2/18              | 11.1%             | 24/36                    | 66.7%                    | - - -                            |
+|                                                                | Placebo n = 179   | Placebo n = 179   | Mirikizumab SC n = 365   | Mirikizumab SC n = 365   | Treatment difference and 95 % CI   |
+|----------------------------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|------------------------------------|
+|                                                                | n                 | %                 | n                        | %                        |                                    |
+| Clinical remission* 1                                          | 45                | 25.1 %            | 182                      | 49.9 %                   | 23.2 % (15.2 %, 31.2 %) c          |
+| Patients who were biologic and JAK-inhibitor naïve a           | 35/114            | 30.7 %            | 118/229                  | 51.5 %                   | - - -                              |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 10/64             | 15.6 %            | 59/128                   | 46.1 %                   | - - -                              |
+| Alternate clinical remission* 2                                | 47                | 26.3 %            | 189                      | 51.8 %                   | 24.1 % (16.0 %, 32.2 %) c          |
+| Patients who were biologic and JAK-inhibitor naïve a           | 37/114            | 32.5 %            | 124/229                  | 54.1 %                   | - - -                              |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 10/64             | 15.6 %            | 60/128                   | 46.9 %                   | - - -                              |
+| Maintenance of clinical remission through week 40* 3           | 24/65             | 36.9 %            | 91/143                   | 63.6 %                   | 24.8 % (10.4 %, 39.2 %) c          |
+| Patients who were biologic and JAK-inhibitor naïve a           | 22/47             | 46.8 %            | 65/104                   | 62.5 %                   | - - -                              |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 2/18              | 11.1 %            | 24/36                    | 66.7 %                   | - - -                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Corticosteroid-free remission* 4                               | 39              | 21.8%           | 164                    | 44.9%                  | 21.3 % (13.5 %, 29.1 %) c      |
-|----------------------------------------------------------------|-----------------|-----------------|------------------------|------------------------|--------------------------------|
-| Patients who were biologic and JAK-inhibitor naïve a           | 30/114          | 26.3%           | 107/229                | 46.7%                  | - - -                          |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 9/64            | 14.1%           | 52/128                 | 40.6%                  | - - -                          |
-| Endoscopic improvement* 5                                      | 52              | 29.1%           | 214                    | 58.6%                  | 28.5 % (20.2 %, 36.8 %) c      |
-| Patients who were biologic and JAK-inhibitor naïve a           | 39/114          | 34.2%           | 143/229                | 62.4%                  | - - -                          |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 13/64           | 20.3%           | 65/128                 | 50.8%                  | - - -                          |
-| Histo-endoscopic mucosal remission* 6                          | 39              | 21.8%           | 158                    | 43.3%                  | 19.9 % (12.1 %, 27.6 %) c      |
-| Patients who were biologic and JAK-inhibitor naïve a           | 30/114          | 26.3%           | 108/229                | 47.2%                  | - - -                          |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 9/64            | 14.1%           | 46/128                 | 35.9%                  | - - -                          |
-| Bowel urgency remission *7                                     | 43/172          | 25.0%           | 144/336                | 42.9%                  | 18.1% (9.8 %, 26.4 %) c        |
-| Patients who were biologic and JAK-inhibitor naïve a           | 31/108          | 28.7%           | 96/206                 | 46.6%                  | - - -                          |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 12/63           | 19.0%           | 43/122                 | 35.2%                  | - - -                          |
-|                                                                | Placebo n = 179 | Placebo n = 179 | Mirikizumab SC n = 365 | Mirikizumab SC n = 365 | Treatment difference and 95%CI |
-|                                                                | LS mean         | Standard error  | LS mean                | Standard error         |                                |
-| Bowel urgency severity *8                                      | -2.74           | 0.202           | -3.80                  | 0.139                  | -1.06 (-1.51, -0.61) c         |
-| Patients who were biologic and JAK-inhibitor naïve a           | -2.69           | 0.233           | -3.82                  | 0.153                  | - - -                          |
-| Patients who failed b at least one biologic or JAK-inhibitor d | -2.66           | 0.346           | -3.60                  | 0.228                  | - - -                          |
+| Corticosteroid-free remission* 4                               | 39              | 21.8 %          | 164                    | 44.9 %                 | 21.3 % (13.5 %, 29.1 %) c        |
+|----------------------------------------------------------------|-----------------|-----------------|------------------------|------------------------|----------------------------------|
+| Patients who were biologic and JAK-inhibitor naïve a           | 30/114          | 26.3 %          | 107/229                | 46.7 %                 | - - -                            |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 9/64            | 14.1 %          | 52/128                 | 40.6 %                 | - - -                            |
+| Endoscopic improvement* 5                                      | 52              | 29.1 %          | 214                    | 58.6 %                 | 28.5 % (20.2 %, 36.8 %) c        |
+| Patients who were biologic and JAK-inhibitor naïve a           | 39/114          | 34.2 %          | 143/229                | 62.4 %                 | - - -                            |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 13/64           | 20.3 %          | 65/128                 | 50.8 %                 | - - -                            |
+| Histo-endoscopic mucosal remission* 6                          | 39              | 21.8 %          | 158                    | 43.3 %                 | 19.9 % (12.1 %, 27.6 %) c        |
+| Patients who were biologic and JAK-inhibitor naïve a           | 30/114          | 26.3 %          | 108/229                | 47.2 %                 | - - -                            |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 9/64            | 14.1 %          | 46/128                 | 35.9 %                 | - - -                            |
+| Bowel urgency remission *7                                     | 43/172          | 25.0 %          | 144/336                | 42.9 %                 | 18.1 % (9.8 %, 26.4 %) c         |
+| Patients who were biologic and JAK-inhibitor naïve a           | 31/108          | 28.7 %          | 96/206                 | 46.6 %                 | - - -                            |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 12/63           | 19.0 %          | 43/122                 | 35.2 %                 | - - -                            |
+|                                                                | Placebo n = 179 | Placebo n = 179 | Mirikizumab SC n = 365 | Mirikizumab SC n = 365 | Treatment difference and 95 % CI |
+|                                                                | LS mean         | Standard error  | LS mean                | Standard error         |                                  |
+| Bowel urgency severity *8                                      | -2.74           | 0.202           | -3.80                  | 0.139                  | -1.06 (-1.51, -0.61) c           |
+| Patients who were biologic and JAK-inhibitor naïve a           | -2.69           | 0.233           | -3.82                  | 0.153                  | - - -                            |
+| Patients who failed b at least one biologic or JAK-inhibitor d | -2.66           | 0.346           | -3.60                  | 0.228                  | - - -                            |
 
 Abbreviations:  CI = confidence interval; SC = subcutaneous; LS = least square
 
@@ -464,13 +458,15 @@ At week 12 greater proportions of patients in the mirikizumab group achieved his
 
 Stable maintenance of symptomatic remission was defined as the proportion of patients in symptomatic remission for at least 7 out of 9 visits from week 4 to week 36 and in symptomatic remission at week 40 among patients in symptomatic remission and clinical response at week 12 of LUCENT-1. At week 40 of LUCENT-2, the proportion of patients achieving stable maintenance of symptomatic remission was greater in patients treated with mirikizumab (69.7 %) versus placebo (38.4 %).
 
-## Health-related quality of life
+## Study extension
 
-At week 12 of LUCENT-1, patients receiving mirikizumab showed significantly greater clinically relevant improvements on the Inflammatory Bowel Disease Questionnaire (IBDQ) total score (p ≤ 0.001) when compared to placebo. IBDQ response was defined as at least a 16-point improvement from baseline in IBDQ score and IBDQ remission was defined as a score of at least 170. At week 12 of LUCENT-1, 57.5 % of mirikizumab-treated patients achieved IBDQ remission versus 39.8 % with placebo (p &lt; 0.001) and 72.7 % of mirikizumab-treated patients achieved IBDQ response versus 55.8 % in placebo. In LUCENT-2 at week 40, 72.3 % of
+Patients who responded to mirikizumab induction treatment in LUCENT-1, who were then re-randomized to mirikizumab maintenance therapy during LUCENT-2 and completed 52 weeks of continuous mirikizumab treatment entered the long-term extension study LUCENT-3 (n = 316). Of the patients in clinical remission at week 52 (n = 179), 62.2 % maintained clinical remission, 65.5 % achieved endoscopic improvement (i.e. endoscopic remission) and 52.8 % achieved histo-endoscopic mucosal remission (HEMR) at week 212.
 
 <div style=\"page-break-after: always\"></div>
 
-mirikizumab-treated patients achieved maintenance of IBDQ remission versus 43.0 % placebo treated patients and 79.2 % mirikizumab treated patients achieved IBDQ response versus 49.2 % of placebo treated patients.
+## Health-related quality of life
+
+At week 12 of LUCENT-1, patients receiving mirikizumab showed significantly greater clinically relevant improvements on the Inflammatory Bowel Disease Questionnaire (IBDQ) total score (p ≤ 0.001) when compared to placebo. IBDQ response was defined as at least a 16-point improvement from baseline in IBDQ score and IBDQ remission was defined as a score of at least 170. At week 12 of LUCENT-1, 57.5 % of mirikizumab-treated patients achieved IBDQ remission versus 39.8 % with placebo (p &lt; 0.001) and 72.7 % of mirikizumab-treated patients achieved IBDQ response versus 55.8 % in placebo. In LUCENT-2 at week 40, 72.3 % of mirikizumab-treated patients achieved maintenance of IBDQ remission versus 43.0 % placebo treated patients and 79.2 % mirikizumab treated patients achieved IBDQ response versus 49.2 % of placebo treated patients.
 
 ## Patient reported outcomes
 
@@ -490,13 +486,11 @@ In VIVID-1, efficacy was evaluated in 1065 patients who were randomized 6:3:2 to
 
 Disease activity at baseline was assessed by (1) the unweighted daily average of SF (2), the unweighted daily average AP (ranging from 0 to 3) and (3) Simple Endoscopic Score for Crohn's disease (SES-CD) (ranging from 0 to 56).
 
-Moderately to severely active CD was defined by SF ≥ 4 and/or AP ≥ 2 and SES-CD ≥ 7 (centrally read) for patients with ileal-colonic and isolated colonic disease or ≥4 for patients with isolated ileal disease. At baseline patients had a median SF of 6, AP of 2 and SES-CD of 12.
-
-Patients had a mean age of 36 years (range 18 to 76 years); 45 % were female; and 72 % identified as White, 25 % as Asian, 2 % as Black, and 1 % as another racial group. Patients were permitted to use stable doses of corticosteroids, immunomodulators (e.g., 6-mercatopurine, azathioprine or
-
 <div style=\"page-break-after: always\"></div>
 
-methotrexate) and/or aminosalicylates. At baseline, 31 % of patients were receiving oral corticosteroids, 27 % were receiving immunomodulators, and 44 % were receiving aminosalicylates.
+Moderately to severely active CD was defined by SF ≥ 4 and/or AP ≥ 2 and SES-CD ≥ 7 (centrally read) for patients with ileal-colonic and isolated colonic disease or ≥4 for patients with isolated ileal disease. At baseline patients had a median SF of 6, AP of 2 and SES-CD of 12.
+
+Patients had a mean age of 36 years (range 18 to 76 years); 45 % were female; and 72 % identified as White, 25 % as Asian, 2 % as Black, and 1 % as another racial group. Patients were permitted to use stable doses of corticosteroids, immunomodulators (e.g., 6-mercatopurine, azathioprine or methotrexate) and/or aminosalicylates. At baseline, 31 % of patients were receiving oral corticosteroids, 27 % were receiving immunomodulators, and 44 % were receiving aminosalicylates.
 
 At baseline, 49 % had a loss of response, inadequate response, or intolerance to one or more biologic therapy (prior biologic failure); 46 % of patients had failed TNFα inhibitors and 11 % had failed vedolizumab therapy.
 
@@ -510,22 +504,22 @@ Table 4. Proportion of patients with Crohn's disease meeting efficacy endpoints 
 |----------------------------------------------------------------------------------------------------------|----------------------|----------------------|-------------------------------------------|-------------------------------------------|--------------------------------------------------|
 |                                                                                                          | n                    | %                    | n                                         | %                                         |                                                  |
 | Co-primary endpoints                                                                                     | Co-primary endpoints | Co-primary endpoints | Co-primary endpoints                      | Co-primary endpoints                      | Co-primary endpoints                             |
-| Clinical response by PRO c at week 12 and endoscopic response d at week 52                               | 18/199               | 9%                   | 220/579                                   | 38%                                       | 29% e (21 %, 37 %)                               |
-| Without prior biologic failure                                                                           | 12/102               | 12%                  | 117/298                                   | 39%                                       |                                                  |
-| Prior biologic failure f                                                                                 | 6/97                 | 6%                   | 103/281                                   | 37%                                       |                                                  |
-| Clinical response by PRO c at week 12 and clinical remission by CDAI g at week 52                        | 39/199               | 20%                  | 263/579                                   | 45%                                       | 26% e (16 %, 36 %)                               |
-| Without prior biologic failure                                                                           | 27/102               | 27%                  | 141/298                                   | 47%                                       |                                                  |
-| Prior biologic failure f                                                                                 | 12/97                | 12%                  | 122/281                                   | 43%                                       |                                                  |
+| Clinical response by PRO c at week 12 and endoscopic response d at week 52                               | 18/199               | 9 %                  | 220/579                                   | 38 %                                      | 29% e (21 %, 37 %)                               |
+| Without prior biologic failure                                                                           | 12/102               | 12 %                 | 117/298                                   | 39 %                                      |                                                  |
+| Prior biologic failure f                                                                                 | 6/97                 | 6 %                  | 103/281                                   | 37 %                                      |                                                  |
+| Clinical response by PRO c at week 12 and clinical remission by CDAI g at week 52                        | 39/199               | 20 %                 | 263/579                                   | 45 %                                      | 26 % e (16 %, 36 %)                              |
+| Without prior biologic failure                                                                           | 27/102               | 27 %                 | 141/298                                   | 47 %                                      |                                                  |
+| Prior biologic failure f                                                                                 | 12/97                | 12 %                 | 122/281                                   | 43 %                                      |                                                  |
 | Additional endpoints                                                                                     | Additional endpoints | Additional endpoints | Additional endpoints                      | Additional endpoints                      | Additional endpoints                             |
-| Endoscopic response d at week 52                                                                         | 18/199 h             | 9%                   | 280/579                                   | 48%                                       | 39% e (31 %, 47 %)                               |
-| Without prior biologic failure                                                                           | 12/102 h             | 12%                  | 154/298                                   | 52%                                       |                                                  |
-| Prior biologic failure f                                                                                 | 6/97 h               | 6%                   | 126/281                                   | 45%                                       |                                                  |
-| Clinical remission by CDAI h at week 52                                                                  | 39/199 h             | 20%                  | 313/579                                   | 54%                                       | 35% e (25 %, 44 %)                               |
-| Without prior biologic failure                                                                           | 27/102 h             | 27%                  | 169/298                                   | 57%                                       |                                                  |
-| Prior biologic failure f                                                                                 | 12/97 h              | 12%                  | 144/281                                   | 51%                                       |                                                  |
-| Clinical response by PRO c at week 12 and clinical remission by PRO i at week 52                         | 39/199               | 20%                  | 263/579                                   | 45%                                       | 26% e (16 %, 36 %)                               |
-| Clinical response by PRO c at week 12 and endoscopic remission j at week 52                              | 8/199                | 4%                   | 136/579                                   | 24%                                       | 19% e (13 %, 26 %)                               |
-| Clinical response by PRO c at week 12 and corticosteroid-free clinical remission by CDAI g, k at Week 52 | 37/199               | 19%                  | 253/579                                   | 44%                                       | 25% e (15 %, 35 %)                               |
+| Endoscopic response d at week 52                                                                         | 18/199 h             | 9 %                  | 280/579                                   | 48 %                                      | 39 % e (31 %, 47 %)                              |
+| Without prior biologic failure                                                                           | 12/102 h             | 12 %                 | 154/298                                   | 52 %                                      |                                                  |
+| Prior biologic failure f                                                                                 | 6/97 h               | 6 %                  | 126/281                                   | 45 %                                      |                                                  |
+| Clinical remission by CDAI h at week 52                                                                  | 39/199 h             | 20 %                 | 313/579                                   | 54 %                                      | 35 % e (25 %, 44 %)                              |
+| Without prior biologic failure                                                                           | 27/102 h             | 27 %                 | 169/298                                   | 57 %                                      |                                                  |
+| Prior biologic failure f                                                                                 | 12/97 h              | 12 %                 | 144/281                                   | 51 %                                      |                                                  |
+| Clinical response by PRO c at week 12 and clinical remission by PRO i at week 52                         | 39/199               | 20 %                 | 263/579                                   | 45 %                                      | 26 % e (16 %, 36 %)                              |
+| Clinical response by PRO c at week 12 and endoscopic remission j at week 52                              | 8/199                | 4 %                  | 136/579                                   | 24 %                                      | 19 % e (13 %, 26 %)                              |
+| Clinical response by PRO c at week 12 and corticosteroid-free clinical remission by CDAI g, k at Week 52 | 37/199               | 19 %                 | 253/579                                   | 44 %                                      | 25 % e (15 %, 35 %)                              |
 
 Abbreviations:  AP = abdominal pain; CDAI = Crohn's Disease Activity Index; CI = confidence interval; PRO = 2 of the patient-reported items of the CDAI (SF and AP); SES-CD = Simple Endoscopic Score for Crohn's Disease; SF = stool frequency.
 
@@ -552,10 +546,10 @@ Table 5. Proportion of patients with Crohn's disease meeting efficacy endpoints 
 | Endpoint                                | Placebo n=199   | Placebo n=199   | Mirikizumab 900 mg IV infusion a n=579   | Mirikizumab 900 mg IV infusion a n=579   | Treatment Difference from Placebo b (99.5% CI)   |
 |-----------------------------------------|-----------------|-----------------|------------------------------------------|------------------------------------------|--------------------------------------------------|
 |                                         | n               | %               | n                                        | %                                        |                                                  |
-| Clinical response by PRO c              | 103/199         | 52%             | 409/579                                  | 71%                                      | 19% e (8 %, 30 %)                                |
-| Clinical remission by CDAI g            | 50/199          | 25%             | 218/579                                  | 38%                                      | 12% f (2 %, 23 %)                                |
-| Endoscopic response d                   | 25/199          | 13%             | 188/579                                  | 32%                                      | 20% e (11 %, 28 %)                               |
-| Endoscopic remission j                  | 14/199          | 7%              | 102/579                                  | 18%                                      | 11% f (4 %, 17 %)                                |
+| Clinical response by PRO c              | 103/199         | 52 %            | 409/579                                  | 71 %                                     | 19 % e (8 %, 30 %)                               |
+| Clinical remission by CDAI g            | 50/199          | 25 %            | 218/579                                  | 38 %                                     | 12 % f (2 %, 23 %)                               |
+| Endoscopic response d                   | 25/199          | 13 %            | 188/579                                  | 32 %                                     | 20 % e (11 %, 28 %)                              |
+| Endoscopic remission j                  | 14/199          | 7 %             | 102/579                                  | 18 %                                     | 11 % f (4 %, 17 %)                               |
 | Change from baseline in FACIT-fatigue h | LS Mean         | SE              | LS Mean                                  | SE                                       |                                                  |
 | Change from baseline in FACIT-fatigue h | 2.6             | 0.61            | 5.9                                      | 0.36                                     | 3.2 f (1.2, 5.2)                                 |
 
@@ -581,13 +575,15 @@ At week 52, mirikizumab demonstrated non-inferiority (pre-specified margin of -1
 
 Across all five intestinal segments 44 % of patients on mirikizumab achieved the composite endpoint of clinical response by PRO at week 12 and histologic response at week 52 compared to 16 % of patients on placebo. Histologic response at week 52 was achieved by 58 % of patients compared to 49% on ustekinumab.
 
-## Health-related quality of life
+## Study extension
 
-At week 12, change in the Inflammatory Bowel Disease Questionnaire (IBDQ) score was 36.9 for mirikizumab and 17.4 for placebo; IBDQ response and remission were achieved in 69 % and 52 %
+Patients who completed VIVID-1 through week 52 were eligible to continue treatment in the long-term extension study VIVID-2. Among VIVID-1 endoscopic responders who also achieved clinical remission by CDAI at week 52 and entered VIVID-2 (n = 191), 78.1 % maintained combined endoscopic response and clinical remission by CDAI at week 104 with continued mirikizumab treatment.
 
 <div style=\"page-break-after: always\"></div>
 
-of mirikizumab-treated patients versus 45 % and 28 % in placebo patients respectively. These improvements were maintained at week 52.
+## Health-related quality of life
+
+At week 12, change in the Inflammatory Bowel Disease Questionnaire (IBDQ) score was 36.9 for mirikizumab and 17.4 for placebo; IBDQ response and remission were achieved in 69 % and 52 % of mirikizumab-treated patients versus 45 % and 28 % in placebo patients respectively. These improvements were maintained at week 52.
 
 ## Paediatric population
 
@@ -621,13 +617,11 @@ The geometric mean total volume of distribution was 4.83 L (21 %) in patients wi
 
 Mirikizumab is a humanised IgG4 monoclonal antibody and is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgGs.
 
-## Elimination
-
-In the population PK analysis, geometric mean (CV %) clearance was 0.0229 L/hr (34 %) and the geometric mean half-life is approximately 9.3 days (40 %) in patients with ulcerative colitis. The geometric mean (CV%) clearance was 0.0202 L/hr (38 %) and the geometric mean (CV %) half-life
-
 <div style=\"page-break-after: always\"></div>
 
-is also approximately 9.3 days (26 %) in patients with Crohn's disease. Clearance is independent of dose.
+## Elimination
+
+In the population PK analysis, geometric mean (CV %) clearance was 0.0229 L/hr (34 %) and the geometric mean half-life is approximately 9.3 days (40 %) in patients with ulcerative colitis. The geometric mean (CV%) clearance was 0.0202 L/hr (38 %) and the geometric mean (CV %) half-life is also approximately 9.3 days (26 %) in patients with Crohn's disease. Clearance is independent of dose.
 
 ## Dose proportionality
 
@@ -661,9 +655,11 @@ No reproductive organ weight or histopathology effects were observed in sexually
 
 ## 6.1 List of excipients
 
-Histidine Histidine hydrochloride monohydrate Mannitol (E421) Sodium citrate dihydrate (E 331) Citric acid, anhydrous (E 330) Sodium chloride
+## Histidine
 
 <div style=\"page-break-after: always\"></div>
+
+Histidine hydrochloride monohydrate Mannitol (E421) Sodium citrate dihydrate (E 331) Citric acid, anhydrous (E 330) Sodium chloride Polysorbate 80 (E 433) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -701,9 +697,9 @@ Pack sizes of 1 vial and 3 vials. Not all pack sizes may be marketed.
 
 Do not use Omvoh that has been frozen.
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
 <div style=\"page-break-after: always\"></div>
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## Dilution prior to intravenous infusion
 
@@ -737,6 +733,8 @@ EU/1/23/1736/001 EU/1/23/1736/011
 Date of first authorisation: 26 May 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
+
+<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -878,11 +876,9 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## Hypersensitivity reactions
 
-In clinical studies, hypersensitivity reactions have been reported. Most were mild or moderate, severe reactions were uncommon (see section 4.8). If a serious hypersensitivity reaction, including
+In clinical studies, hypersensitivity reactions have been reported. Most were mild or moderate, severe reactions were uncommon (see section 4.8). If a serious hypersensitivity reaction, including anaphylaxis, occurs, mirikizumab must be discontinued immediately and appropriate therapy must be initiated.
 
 <div style=\"page-break-after: always\"></div>
-
-anaphylaxis, occurs, mirikizumab must be discontinued immediately and appropriate therapy must be initiated.
 
 ## Infections
 
@@ -987,17 +983,17 @@ Injection site reactions were reported in 10.8 % of mirikizumab -treated patient
 
 The results described above were obtained with the original formulation of Omvoh. In a double blind, 2-arm, randomised, single-dose, parallel design study in 60 healthy subjects comparing 200 mg mirikizumab (2 injections of 100 mg in a pre-filled syringe) of the original formulation with the revised formulation statistically significantly lower VAS pain scores were obtained with the revised (12.6) vs. the original formulation (26.1) 1 minute after injection.
 
-Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) increased In the first 12 weeks, ALT increased was reported in 0.6 % mirikizumab-treated patients. AST increased was reported by 0.4 % mirikizumab-treated patients. All adverse reactions were reported as mild to moderate in severity and non-serious.
+## Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) increased
+
+In the first 12 weeks, ALT increased was reported in 0.6 % mirikizumab-treated patients. AST increased was reported by 0.4 % mirikizumab-treated patients. All adverse reactions were reported as mild to moderate in severity and non-serious.
 
 Over all mirikizumab treatment periods in the ulcerative colitis and Crohn's disease clinical development program (including the placebo-controlled and open label induction and maintenance periods), there have been elevations of ALT to ≥ 3 x upper limit of normal (ULN) (2.3 %), ≥ 5 x ULN (0.7 %) and ≥ 10 x ULN (0.2 %) and AST to ≥ 3 x ULN (2.2 %), ≥ 5 x ULN (0.8 %) and ≥ 10 x ULN (0.1 %) in patients receiving mirikizumab (see section 4.4). These elevations have been noted with and without concomitant elevations in total bilirubin.
 
 ## Immunogenicity
 
-In the ulcerative colitis studies, up to 23 % of mirikizumab-treated patients with 12 months of treatment developed anti-drug antibodies, most of which were of low titer and tested positive for neutralising activity. Higher antibody titers in approximately 2 % of subjects treated with
+In the ulcerative colitis studies, up to 23 % of mirikizumab-treated patients with 12 months of treatment developed anti-drug antibodies, most of which were of low titer and tested positive for neutralising activity. Higher antibody titers in approximately 2 % of subjects treated with mirikizumab were associated with lower serum mirikizumab concentrations and reduced clinical response.
 
 <div style=\"page-break-after: always\"></div>
-
-mirikizumab were associated with lower serum mirikizumab concentrations and reduced clinical response.
 
 In the Crohn's disease study, 12.7% of mirikizumab-treated patients with 12 months of treatment developed anti-drug antibodies, most of which were of low titer and tested positive for neutralising activity. There was no identified clinically significant effect of anti-drug antibodies on pharmacokinetics or effectiveness of mirikizumab.
 
@@ -1031,11 +1027,9 @@ Inflammatory biomarkers were measured in the phase 3 ulcerative colitis and Croh
 
 ## Ulcerative colitis
 
-The efficacy and safety of mirikizumab was evaluated in adult patients with moderately to severely active ulcerative colitis in two randomised, double-blind, placebo-controlled, multicentre studies. Enrolled patients had a confirmed diagnosis of ulcerative colitis for at least 3 months and moderately
+The efficacy and safety of mirikizumab was evaluated in adult patients with moderately to severely active ulcerative colitis in two randomised, double-blind, placebo-controlled, multicentre studies. Enrolled patients had a confirmed diagnosis of ulcerative colitis for at least 3 months and moderately to severely active disease, defined as a modified Mayo score of 4 to 9, including a Mayo endoscopy subscore ≥ 2. Patients had to have failed (defined as loss of response, inadequate response or intolerance) corticosteroids or immunomodulators (6-mercaptopurine, azathioprine) or at least one biologic (a TNFα antagonist and/or vedolizumab) or tofacitinib.
 
 <div style=\"page-break-after: always\"></div>
-
-to severely active disease, defined as a modified Mayo score of 4 to 9, including a Mayo endoscopy subscore ≥ 2. Patients had to have failed (defined as loss of response, inadequate response or intolerance) corticosteroids or immunomodulators (6-mercaptopurine, azathioprine) or at least one biologic (a TNFα antagonist and/or vedolizumab) or tofacitinib.
 
 LUCENT-1 was an intravenous induction study with treatment of up to 12 weeks, followed by a 40 week subcutaneous randomised withdrawal maintenance study (LUCENT-2), representing at least 52 weeks of therapy. Mean age was 42.5 years. 7.8 % of patients were ≥ 65 of age and 1.0 % of patients ≥ 75 of age. 59.8 % were men; 40.2 % were women. 53.2 % had severely active disease with a modified Mayo score 7 to 9.
 
@@ -1055,41 +1049,42 @@ Table 2: Summary of key efficacy outcomes in LUCENT-1 (week 12 unless indicated 
 
 |                                                                | Placebo n = 294   | Placebo n = 294   | Mirikizumab IV n = 868   | Mirikizumab IV n = 868   | Treatment difference     |
 |----------------------------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|--------------------------|
-|                                                                | n                 | %                 | n                        | %                        | and 99.875%CI            |
-| Clinical remission* 1                                          | 39                | 13.3%             | 210                      | 24.2%                    | 11.1 % (3.2 %, 19.1 %) c |
-| Patients who were biologic and JAK-inhibitor naïve a           | 27/171            | 15.8%             | 152/492                  | 30.9%                    | - - -                    |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 10/118            | 8.5%              | 55/361                   | 15.2%                    | - - -                    |
-| Alternate clinical remission* 2                                | 43                | 14.6%             | 222                      | 25.6%                    | 11.1 % (3.0 %, 19.3 %) c |
-| Patients who were biologic and JAK-inhibitor naïve a           | 31/171            | 18.1%             | 160/492                  | 32.5%                    | - - -                    |
+|                                                                | n                 | %                 | n                        | %                        | and 99.875 % CI          |
+| Clinical remission* 1                                          | 39                | 13.3 %            | 210                      | 24.2 %                   | 11.1 % (3.2 %, 19.1 %) c |
+| Patients who were biologic and JAK-inhibitor naïve a           | 27/171            | 15.8 %            | 152/492                  | 30.9 %                   | - - -                    |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 10/118            | 8.5 %             | 55/361                   | 15.2 %                   | - - -                    |
+| Alternate clinical remission* 2                                | 43                | 14.6 %            | 222                      | 25.6 %                   | 11.1 % (3.0 %, 19.3 %) c |
+| Patients who were biologic and JAK-inhibitor naïve a           | 31/171            | 18.1 %            | 160/492                  | 32.5 %                   | - - -                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| Patients who failed b at least one biologic or JAK-inhibitor d   | 10/118          | 8.5%            | 59/361                 | 16.3%                  | - - -                              |
-|------------------------------------------------------------------|-----------------|-----------------|------------------------|------------------------|------------------------------------|
-| Clinical response* 3                                             | 124             | 42.2%           | 551                    | 63.5%                  | 21.4 % (10.8 %, 32.0 %) c          |
-| Patients who were biologic and JAK-inhibitor naïve a             | 86/171          | 50.3%           | 345/492                | 70.1%                  | - - -                              |
-| Patients who failed b at least one biologic or JAK-inhibitor d   | 35/118          | 29.7%           | 197/361                | 54.6%                  | - - -                              |
-| Endoscopic improvement* 4                                        | 62              | 21.1%           | 315                    | 36.3%                  | 15.4 % (6.3 %, 24.5 %) c           |
-| Patients who were biologic and JAK-inhibitor naïve a             | 48/171          | 28.1%           | 226/492                | 45.9%                  | - - -                              |
-| Patients who failed b at least one biologic or JAK-inhibitor d   | 12/118          | 10.2%           | 85/361                 | 23.5%                  | - - -                              |
-| Symptomatic remission (week 4)* 5                                | 38              | 12.9%           | 189                    | 21.8%                  | 9.2 % (1.4 %, 16.9 %) c            |
-| Patients who were biologic and JAK-inhibitor naïve a             | 26/171          | 15.2%           | 120/492                | 24.4%                  | - - -                              |
-| Patients who failed b at least one biologic or JAK-inhibitor d   | 10/118          | 8.5%            | 67/361                 | 18.6%                  | - - -                              |
-| Symptomatic remission* 5                                         | 82              | 27.9%           | 395                    | 45.5%                  | 17.5 % (7.5 %, 27.6 %) c           |
-| Patients who were biologic and JAK-inhibitor naïve a             | 57/171          | 33.3%           | 248/492                | 50.4%                  | - - -                              |
-| Patients who failed b at least one biologic or JAK-inhibitor d   | 22/118          | 18.6%           | 139/361                | 38.5%                  | - - -                              |
-| Histo-endoscopic mucosal improvement* 6                          | 41              | 13.9%           | 235                    | 27.1%                  | 13.4 % (5.5 %, 21.4 %) c           |
-| Patients who were biologic and JAK-inhibitor naïve a             | 32/171          | 18.7%           | 176/492                | 35.8%                  | - - -                              |
-| Patients who failed b at least one biologic or JAK-inhibitor d   | 8/118           | 6.8%            | 56/361                 | 15.5%                  | - - -                              |
-|                                                                  | Placebo n = 294 | Placebo n = 294 | Mirikizumab IV n = 868 | Mirikizumab IV n = 868 | Treatment difference and 99.875%CI |
-|                                                                  | LS mean         | Standard error  | LS mean                | Standard error         | Treatment difference and 99.875%CI |
-| Bowel urgency severity* 7                                        | -1.63           | 0.141           | -2.59                  | 0.083                  | -0.95 (-1.47, -0.44) c             |
-| Patients who were biologic and JAK-inhibitor naïve a             | -2.08           | 0.174           | -2.72                  | 0.101                  | - - -                              |
-| Patients who failed b at least one biologic or JAK-inhibitor d   | -0.95           | 0.227           | -2.46                  | 0.126                  | - - -                              |
+| Patients who failed b at least one biologic or JAK-inhibitor d   | 10/118          | 8.5 %           | 59/361                 | 16.3 %                 | - - -                                |
+|------------------------------------------------------------------|-----------------|-----------------|------------------------|------------------------|--------------------------------------|
+| Clinical response* 3                                             | 124             | 42.2 %          | 551                    | 63.5 %                 | 21.4 % (10.8 %, 32.0 %) c            |
+| Patients who were biologic and JAK-inhibitor naïve a             | 86/171          | 50.3 %          | 345/492                | 70.1 %                 | - - -                                |
+| Patients who failed b at least one biologic or JAK-inhibitor d   | 35/118          | 29.7 %          | 197/361                | 54.6 %                 | - - -                                |
+| Endoscopic improvement* 4                                        | 62              | 21.1 %          | 315                    | 36.3 %                 | 15.4 % (6.3 %, 24.5 %) c             |
+| Patients who were biologic and JAK-inhibitor naïve a             | 48/171          | 28.1 %          | 226/492                | 45.9 %                 | - - -                                |
+| Patients who failed b at least one biologic or JAK-inhibitor d   | 12/118          | 10.2 %          | 85/361                 | 23.5 %                 | - - -                                |
+| Symptomatic remission (week 4)* 5                                | 38              | 12.9 %          | 189                    | 21.8 %                 | 9.2 % (1.4 %, 16.9 %) c              |
+| Patients who were biologic and JAK-inhibitor naïve a             | 26/171          | 15.2 %          | 120/492                | 24.4 %                 | - - -                                |
+| Patients who failed b at least one biologic or JAK-inhibitor d   | 10/118          | 8.5 %           | 67/361                 | 18.6 %                 | - - -                                |
+| Symptomatic remission* 5                                         | 82              | 27.9 %          | 395                    | 45.5 %                 | 17.5 % (7.5 %, 27.6 %) c             |
+| Patients who were biologic and JAK-inhibitor naïve a             | 57/171          | 33.3 %          | 248/492                | 50.4 %                 | - - -                                |
+| Patients who failed b at least one biologic or JAK-inhibitor d   | 22/118          | 18.6 %          | 139/361                | 38.5 %                 | - - -                                |
+| Histo-endoscopic mucosal improvement* 6                          | 41              | 13.9 %          | 235                    | 27.1 %                 | 13.4 % (5.5 %, 21.4 %) c             |
+| Patients who were biologic and JAK-inhibitor naïve a             | 32/171          | 18.7 %          | 176/492                | 35.8 %                 | - - -                                |
+| Patients who failed b at least one biologic or JAK-inhibitor d   | 8/118           | 6.8 %           | 56/361                 | 15.5 %                 | - - -                                |
+|                                                                  | Placebo n = 294 | Placebo n = 294 | Mirikizumab IV n = 868 | Mirikizumab IV n = 868 | Treatment difference and 99.875 % CI |
+|                                                                  | LS mean         | Standard error  | LS mean                | Standard error         | Treatment difference and 99.875 % CI |
+| Bowel urgency severity* 7                                        | -1.63           | 0.141           | -2.59                  | 0.083                  | -0.95 (-1.47, -0.44) c               |
+| Patients who were biologic and JAK-inhibitor naïve a             | -2.08           | 0.174           | -2.72                  | 0.101                  | - - -                                |
+| Patients who failed b at least one biologic or JAK-inhibitor d   | -0.95           | 0.227           | -2.46                  | 0.126                  | - - -                                |
 
 Abbreviations: CI = confidence interval; IV = intravenous; LS = least square
 
 * 1   Clinical remission is based on the modified Mayo score (MMS) and is defined as: Stool frequency (SF) subscore = 0 or 1 with a ≥ 1-point decrease from baseline, and Rectal bleeding (RB) subscore = 0, and Endoscopic subscore (ES) = 0 or 1 (excluding friability)
+
 * 2 Alternate clinical remission is based on the modified Mayo score (MMS) and is defined as: Stool frequency (SF) subscore = 0 or 1, and Rectal bleeding (RB) subscore = 0, and Endoscopic subscore (ES) = 0 or 1 (excluding friability)
 * 3 Clinical response based on the MMS and is defined as: A decrease in the MMS of ≥ 2 points and ≥ 30 % decrease from baseline, and a decrease of ≥ 1 point in the RB subscore from baseline or a RB score of 0 or 1
 * 4 Endoscopic improvement defined as: ES = 0 or 1 (excluding friability)
@@ -1110,39 +1105,39 @@ LUCENT-2 evaluated 544 patients out of the 551 patients who achieved clinical re
 
 Table 3: Summary of key efficacy measures in LUCENT-2 (week 40; 52 weeks from initiation of the induction dose)
 
-|                                                                | Placebo n = 179   | Placebo n = 179   | Mirikizumab SC n = 365   | Mirikizumab SC n = 365   | Treatment difference and 95%CI   |
-|----------------------------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|----------------------------------|
-|                                                                | n                 | %                 | n                        | %                        |                                  |
-| Clinical remission* 1                                          | 45                | 25.1%             | 182                      | 49.9%                    | 23.2 % (15.2 %, 31.2 %) c        |
-| Patients who were biologic and JAK-inhibitor naïve a           | 35/114            | 30.7%             | 118/229                  | 51.5%                    | - - -                            |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 10/64             | 15.6%             | 59/128                   | 46.1%                    | - - -                            |
-| Alternate clinical remission* 2                                | 47                | 26.3%             | 189                      | 51.8%                    | 24.1 % (16.0 %, 32.2 %) c        |
-| Patients who were biologic and JAK-inhibitor naïve a           | 37/114            | 32.5%             | 124/229                  | 54.1%                    | - - -                            |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 10/64             | 15.6%             | 60/128                   | 46.9%                    | - - -                            |
-| Maintenance of clinical remission through week 40* 3           | 24/65             | 36.9%             | 91/143                   | 63.6%                    | 24.8 % (10.4 %, 39.2 %) c        |
-| Patients who were biologic and JAK-inhibitor naïve a           | 22/47             | 46.8%             | 65/104                   | 62.5%                    | - - -                            |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 2/18              | 11.1%             | 24/36                    | 66.7%                    | - - -                            |
-| Corticosteroid-free remission* 4                               | 39                | 21.8%             | 164                      | 44.9%                    | 21.3 % (13.5 %, 29.1 %) c        |
+|                                                                | Placebo n = 179   | Placebo n = 179   | Mirikizumab SC n = 365   | Mirikizumab SC n = 365   | Treatment difference and 95 % CI   |
+|----------------------------------------------------------------|-------------------|-------------------|--------------------------|--------------------------|------------------------------------|
+|                                                                | n                 | %                 | n                        | %                        |                                    |
+| Clinical remission* 1                                          | 45                | 25.1 %            | 182                      | 49.9 %                   | 23.2 % (15.2 %, 31.2 %) c          |
+| Patients who were biologic and JAK-inhibitor naïve a           | 35/114            | 30.7 %            | 118/229                  | 51.5 %                   | - - -                              |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 10/64             | 15.6 %            | 59/128                   | 46.1 %                   | - - -                              |
+| Alternate clinical remission* 2                                | 47                | 26.3 %            | 189                      | 51.8 %                   | 24.1 % (16.0 %, 32.2 %) c          |
+| Patients who were biologic and JAK-inhibitor naïve a           | 37/114            | 32.5 %            | 124/229                  | 54.1 %                   | - - -                              |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 10/64             | 15.6 %            | 60/128                   | 46.9 %                   | - - -                              |
+| Maintenance of clinical remission through week 40* 3           | 24/65             | 36.9 %            | 91/143                   | 63.6 %                   | 24.8 % (10.4 %, 39.2 %) c          |
+| Patients who were biologic and JAK-inhibitor naïve a           | 22/47             | 46.8 %            | 65/104                   | 62.5 %                   | - - -                              |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 2/18              | 11.1 %            | 24/36                    | 66.7 %                   | - - -                              |
+| Corticosteroid-free remission* 4                               | 39                | 21.8 %            | 164                      | 44.9 %                   | 21.3 % (13.5 %, 29.1 %) c          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Patients who were biologic and JAK-inhibitor naïve a           | 30/114          | 26.3%           | 107/229                | 46.7%                  | - - -                          |
-|----------------------------------------------------------------|-----------------|-----------------|------------------------|------------------------|--------------------------------|
-| Patients who failed b at least one biologic or JAK-inhibitor d | 9/64            | 14.1%           | 52/128                 | 40.6%                  | - - -                          |
-| Endoscopic improvement* 5                                      | 52              | 29.1%           | 214                    | 58.6%                  | 28.5 % (20.2 %, 36.8 %) c      |
-| Patients who were biologic and JAK-inhibitor naïve a           | 39/114          | 34.2%           | 143/229                | 62.4%                  | - - -                          |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 13/64           | 20.3%           | 65/128                 | 50.8%                  | - - -                          |
-| Histo-endoscopic mucosal remission* 6                          | 39              | 21.8%           | 158                    | 43.3%                  | 19.9 % (12.1 %, 27.6 %) c      |
-| Patients who were biologic and JAK-inhibitor naïve a           | 30/114          | 26.3%           | 108/229                | 47.2%                  | - - -                          |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 9/64            | 14.1%           | 46/128                 | 35.9%                  | - - -                          |
-| Bowel urgency remission *7                                     | 43/172          | 25.0%           | 144/336                | 42.9%                  | 18.1% (9.8 %, 26.4 %) c        |
-| Patients who were biologic and JAK-inhibitor naïve a           | 31/108          | 28.7%           | 96/206                 | 46.6%                  | - - -                          |
-| Patients who failed b at least one biologic or JAK-inhibitor d | 12/63           | 19.0%           | 43/122                 | 35.2%                  | - - -                          |
-|                                                                | Placebo n = 179 | Placebo n = 179 | Mirikizumab SC n = 365 | Mirikizumab SC n = 365 | Treatment difference and 95%CI |
-|                                                                | LS mean         | Standard error  | LS mean                | Standard error         | Treatment difference and 95%CI |
-| Bowel urgency severity *8                                      | -2.74           | 0.202           | -3.80                  | 0.139                  | -1.06 (-1.51, -0.61) c         |
-| Patients who were biologic and JAK-inhibitor naïve a           | -2.69           | 0.233           | -3.82                  | 0.153                  | - - -                          |
-| Patients who failed b at least one biologic or JAK-inhibitor d | -2.66           | 0.346           | -3.60                  | 0.228                  | - - -                          |
+| Patients who were biologic and JAK-inhibitor naïve a           | 30/114          | 26.3 %          | 107/229                | 46.7 %                 | - - -                            |
+|----------------------------------------------------------------|-----------------|-----------------|------------------------|------------------------|----------------------------------|
+| Patients who failed b at least one biologic or JAK-inhibitor d | 9/64            | 14.1 %          | 52/128                 | 40.6 %                 | - - -                            |
+| Endoscopic improvement* 5                                      | 52              | 29.1 %          | 214                    | 58.6 %                 | 28.5 % (20.2 %, 36.8 %) c        |
+| Patients who were biologic and JAK-inhibitor naïve a           | 39/114          | 34.2 %          | 143/229                | 62.4 %                 | - - -                            |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 13/64           | 20.3 %          | 65/128                 | 50.8 %                 | - - -                            |
+| Histo-endoscopic mucosal remission* 6                          | 39              | 21.8 %          | 158                    | 43.3 %                 | 19.9 % (12.1 %, 27.6 %) c        |
+| Patients who were biologic and JAK-inhibitor naïve a           | 30/114          | 26.3 %          | 108/229                | 47.2 %                 | - - -                            |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 9/64            | 14.1 %          | 46/128                 | 35.9 %                 | - - -                            |
+| Bowel urgency remission *7                                     | 43/172          | 25.0 %          | 144/336                | 42.9 %                 | 18.1 % (9.8 %, 26.4 %) c         |
+| Patients who were biologic and JAK-inhibitor naïve a           | 31/108          | 28.7 %          | 96/206                 | 46.6 %                 | - - -                            |
+| Patients who failed b at least one biologic or JAK-inhibitor d | 12/63           | 19.0 %          | 43/122                 | 35.2 %                 | - - -                            |
+|                                                                | Placebo n = 179 | Placebo n = 179 | Mirikizumab SC n = 365 | Mirikizumab SC n = 365 | Treatment difference and 95 % CI |
+|                                                                | LS mean         | Standard error  | LS mean                | Standard error         | Treatment difference and 95 % CI |
+| Bowel urgency severity *8                                      | -2.74           | 0.202           | -3.80                  | 0.139                  | -1.06 (-1.51, -0.61) c           |
+| Patients who were biologic and JAK-inhibitor naïve a           | -2.69           | 0.233           | -3.82                  | 0.153                  | - - -                            |
+| Patients who failed b at least one biologic or JAK-inhibitor d | -2.66           | 0.346           | -3.60                  | 0.228                  | - - -                            |
 
 Abbreviations:  CI = confidence interval; SC = subcutaneous; LS = least square
 
@@ -1186,11 +1181,17 @@ At week 12 greater proportions of patients in the mirikizumab group achieved his
 
 Stable maintenance of symptomatic remission was defined as the proportion of patients in symptomatic remission for at least 7 out of 9 visits from week 4 to week 36 and in symptomatic remission at week 40 among patients in symptomatic remission and clinical response at week 12 of LUCENT-1. At week 40 of LUCENT-2, the proportion of patients achieving stable maintenance of symptomatic remission was greater in patients treated with mirikizumab (69.7 %) versus placebo (38.4 %).
 
+## Study extension
+
+Patients who responded to mirikizumab induction treatment in LUCENT-1, who were then re-randomized to mirikizumab maintenance therapy during LUCENT-2 and completed 52 weeks of continuous mirikizumab treatment entered the long-term extension study LUCENT-3 (n = 316). Of the patients in clinical remission at week 52 (n = 179), 62.2 % maintained clinical remission, 65.5% achieved endoscopic improvement (i.e. endoscopic remission) and 52.8 % achieved histo-endoscopic mucosal remission (HEMR) at week 212.
+
 ## Health-related quality of life
 
-At week 12 of LUCENT-1, patients receiving mirikizumab showed significantly greater clinically relevant improvements on the Inflammatory Bowel Disease Questionnaire (IBDQ) total score (p ≤ 0.001) when compared to placebo. IBDQ response was defined as at least a 16-point improvement from baseline in IBDQ score and IBDQ remission was defined as a score of at least 170. At week 12 of LUCENT-1, 57.5 % of mirikizumab-treated patients achieved IBDQ remission versus 39.8 % with placebo (p &lt; 0.001) and 72.7 % of mirikizumab-treated patients achieved IBDQ response versus 55.8 % in placebo. In LUCENT-2 at week 40, 72.3 % of mirikizumab-treated patients achieved maintenance of IBDQ remission versus 43.0 % placebo treated patients and 79.2 % mirikizumab treated patients achieved IBDQ response versus 49.2 % of placebo treated patients.
+At week 12 of LUCENT-1, patients receiving mirikizumab showed significantly greater clinically relevant improvements on the Inflammatory Bowel Disease Questionnaire (IBDQ) total score
 
 <div style=\"page-break-after: always\"></div>
+
+(p ≤ 0.001) when compared to placebo. IBDQ response was defined as at least a 16-point improvement from baseline in IBDQ score and IBDQ remission was defined as a score of at least 170. At week 12 of LUCENT-1, 57.5 % of mirikizumab-treated patients achieved IBDQ remission versus 39.8 % with placebo (p &lt; 0.001) and 72.7 % of mirikizumab-treated patients achieved IBDQ response versus 55.8 % in placebo. In LUCENT-2 at week 40, 72.3 % of mirikizumab-treated patients achieved maintenance of IBDQ remission versus 43.0 % placebo treated patients and 79.2 % mirikizumab treated patients achieved IBDQ response versus 49.2 % of placebo treated patients.
 
 ## Patient reported outcomes
 
@@ -1210,11 +1211,11 @@ In VIVID-1, efficacy was evaluated in 1065 patients who were randomized 6:3:2 to
 
 Disease activity at baseline was assessed by (1) the unweighted daily average of SF (2), the unweighted daily average AP (ranging from 0 to 3) and (3) Simple Endoscopic Score for Crohn's disease (SES-CD) (ranging from 0 to 56).
 
-Moderately to severely active CD was defined by SF ≥4 and/or AP ≥2 and SES -CD ≥7 (centrally read) for patients with ilealcolonic and isolated colonic disease or ≥4 for patients with isolated ileal disease. At baseline patients had a median SF of 6, AP of 2 and SES-CD of 12.
+<div style=\"page-break-after: always\"></div>
+
+Moderately to severely active CD was defined by SF ≥4 and/or AP ≥2 and SES - CD ≥7 (centrally read) for patients with ilealcolonic and isolated colonic disease or ≥4 for patients with isolated ileal disease. At baseline patients had a median SF of 6, AP of 2 and SES-CD of 12.
 
 Patients had a mean age of 36 years (range 18 to 76 years); 45 % were female; and 72 % identified as White, 25 % as Asian, 2 % as Black, and 1 % as another racial group. Patients were permitted to use stable doses of corticosteroids, immunomodulators (e.g., 6-mercatopurine, azathioprine or methotrexate) and/or aminosalicylates. At baseline, 31 % of patients were receiving oral corticosteroids, 27 % were receiving immunomodulators, and 44 % were receiving aminosalicylates.
-
-<div style=\"page-break-after: always\"></div>
 
 At baseline, 49 % had a loss of response, inadequate response, or intolerance to one or more biologic therapy (prior biologic failure); 46 % of patients had failed TNFα inhibitors and 11 % had failed vedolizumab therapy.
 
@@ -1228,22 +1229,22 @@ Table 4. Proportion of patients with Crohn's disease meeting efficacy endpoints 
 |----------------------------------------------------------------------------------------------------------|----------------------|----------------------|-------------------------------------------|-------------------------------------------|--------------------------------------------------|
 |                                                                                                          | n                    | %                    | n                                         | %                                         |                                                  |
 | Co-primary endpoints                                                                                     | Co-primary endpoints | Co-primary endpoints | Co-primary endpoints                      | Co-primary endpoints                      | Co-primary endpoints                             |
-| Clinical response by PRO c at week 12 and endoscopic response d at week 52                               | 18/199               | 9%                   | 220/579                                   | 38%                                       | 29% e (21 %, 37 %)                               |
-| Without prior biologic failure                                                                           | 12/102               | 12%                  | 117/298                                   | 39%                                       |                                                  |
-| Prior biologic failure f                                                                                 | 6/97                 | 6%                   | 103/281                                   | 37%                                       |                                                  |
-| Clinical response by PRO c at week 12 and clinical remission by CDAI g at week 52                        | 39/199               | 20%                  | 263/579                                   | 45%                                       | 26% e (16 %, 36 %)                               |
-| Without prior biologic failure                                                                           | 27/102               | 27%                  | 141/298                                   | 47%                                       |                                                  |
-| Prior biologic failure f                                                                                 | 12/97                | 12%                  | 122/281                                   | 43%                                       |                                                  |
+| Clinical response by PRO c at week 12 and endoscopic response d at week 52                               | 18/199               | 9 %                  | 220/579                                   | 38 %                                      | 29% e (21 %, 37 %)                               |
+| Without prior biologic failure                                                                           | 12/102               | 12 %                 | 117/298                                   | 39 %                                      |                                                  |
+| Prior biologic failure f                                                                                 | 6/97                 | 6 %                  | 103/281                                   | 37 %                                      |                                                  |
+| Clinical response by PRO c at week 12 and clinical remission by CDAI g at week 52                        | 39/199               | 20 %                 | 263/579                                   | 45 %                                      | 26 % e (16 %, 36 %)                              |
+| Without prior biologic failure                                                                           | 27/102               | 27 %                 | 141/298                                   | 47 %                                      |                                                  |
+| Prior biologic failure f                                                                                 | 12/97                | 12 %                 | 122/281                                   | 43 %                                      |                                                  |
 | Additional endpoints                                                                                     | Additional endpoints | Additional endpoints | Additional endpoints                      | Additional endpoints                      | Additional endpoints                             |
-| Endoscopic response d at week 52                                                                         | 18/199 h             | 9%                   | 280/579                                   | 48%                                       | 39% e (31 %, 47 %)                               |
-| Without prior biologic failure                                                                           | 12/102 h             | 12%                  | 154/298                                   | 52%                                       |                                                  |
-| Prior biologic failure f                                                                                 | 6/97 h               | 6%                   | 126/281                                   | 45%                                       |                                                  |
-| Clinical remission by CDAI h at week 52                                                                  | 39/199 h             | 20%                  | 313/579                                   | 54%                                       | 35% e (25 %, 44 %)                               |
-| Without prior biologic failure                                                                           | 27/102 h             | 27%                  | 169/298                                   | 57%                                       |                                                  |
-| Prior biologic failure f                                                                                 | 12/97 h              | 12%                  | 144/281                                   | 51%                                       |                                                  |
-| Clinical response by PRO c at week 12 and clinical remission by PRO i at week 52                         | 39/199               | 20%                  | 263/579                                   | 45%                                       | 26% e (16 %, 36 %)                               |
-| Clinical response by PRO c at week 12 and endoscopic remission j at week 52                              | 8/199                | 4%                   | 136/579                                   | 24%                                       | 19% e (13 %, 26 %)                               |
-| Clinical response by PRO c at week 12 and corticosteroid-free clinical remission by CDAI g, k at Week 52 | 37/199               | 19%                  | 253/579                                   | 44%                                       | 25% e (15 %, 35 %)                               |
+| Endoscopic response d at week 52                                                                         | 18/199 h             | 9 %                  | 280/579                                   | 48 %                                      | 39 % e (31 %, 47 %)                              |
+| Without prior biologic failure                                                                           | 12/102 h             | 12 %                 | 154/298                                   | 52 %                                      |                                                  |
+| Prior biologic failure f                                                                                 | 6/97 h               | 6 %                  | 126/281                                   | 45 %                                      |                                                  |
+| Clinical remission by CDAI h at week 52                                                                  | 39/199 h             | 20 %                 | 313/579                                   | 54 %                                      | 35 % e (25 %, 44 %)                              |
+| Without prior biologic failure                                                                           | 27/102 h             | 27 %                 | 169/298                                   | 57 %                                      |                                                  |
+| Prior biologic failure f                                                                                 | 12/97 h              | 12 %                 | 144/281                                   | 51 %                                      |                                                  |
+| Clinical response by PRO c at week 12 and clinical remission by PRO i at week 52                         | 39/199               | 20 %                 | 263/579                                   | 45 %                                      | 26 % e (16 %, 36 %)                              |
+| Clinical response by PRO c at week 12 and endoscopic remission j at week 52                              | 8/199                | 4 %                  | 136/579                                   | 24 %                                      | 19 % e (13 %, 26 %)                              |
+| Clinical response by PRO c at week 12 and corticosteroid-free clinical remission by CDAI g, k at Week 52 | 37/199               | 19 %                 | 253/579                                   | 44 %                                      | 25 % e (15 %, 35 %)                              |
 
 Abbreviations:  AP = abdominal pain; CDAI = Crohn's Disease Activity Index; CI = confidence interval; PRO = 2 of the patient-reported items of the CDAI (SF and AP); SES-CD = Simple Endoscopic Score for Crohn's Disease; SF = stool frequency.
 
@@ -1270,10 +1271,10 @@ Table 5. Proportion of patients with Crohn's disease meeting efficacy endpoints 
 | Endpoint                                | Placebo n=199   | Placebo n=199   | Mirikizumab 900 mg IV infusion a n=579   | Mirikizumab 900 mg IV infusion a n=579   | Treatment Difference from Placebo b (99.5% CI)   |
 |-----------------------------------------|-----------------|-----------------|------------------------------------------|------------------------------------------|--------------------------------------------------|
 |                                         | n               | %               | n                                        | %                                        |                                                  |
-| Clinical response by PRO c              | 103/199         | 52%             | 409/579                                  | 71%                                      | 19% e (8 %, 30 %)                                |
-| Clinical remission by CDAI g            | 50/199          | 25%             | 218/579                                  | 38%                                      | 12% f (2 %, 23 %)                                |
-| Endoscopic response d                   | 25/199          | 13%             | 188/579                                  | 32%                                      | 20% e (11 %, 28 %)                               |
-| Endoscopic remission j                  | 14/199          | 7%              | 102/579                                  | 18%                                      | 11% f (4 %, 17 %)                                |
+| Clinical response by PRO c              | 103/199         | 52 %            | 409/579                                  | 71 %                                     | 19 % e (8 %, 30 %)                               |
+| Clinical remission by CDAI g            | 50/199          | 25 %            | 218/579                                  | 38 %                                     | 12 % f (2 %, 23 %)                               |
+| Endoscopic response d                   | 25/199          | 13 %            | 188/579                                  | 32 %                                     | 20 % e (11 %, 28 %)                              |
+| Endoscopic remission j                  | 14/199          | 7 %             | 102/579                                  | 18 %                                     | 11 % f (4 %, 17 %)                               |
 | Change from baseline in FACIT-fatigue h | LS Mean         | SE              | LS Mean                                  | SE                                       |                                                  |
 | Change from baseline in FACIT-fatigue h | 2.6             | 0.61            | 5.9                                      | 0.36                                     | 3.2 f (1.2, 5.2)                                 |
 
@@ -1299,13 +1300,15 @@ At week 52, mirikizumab demonstrated non-inferiority (pre-specified margin of -1
 
 Across all five intestinal segments 44 % of patients on mirikizumab achieved the composite endpoint of clinical response by PRO at week 12 and histologic response at week 52 compared to 16 % of patients on placebo. Histologic response at week 52 was achieved by 58 % of patients compared to 49% on ustekinumab.
 
-## Health-related quality of life
+## Study extension
 
-At week 12, change in the Inflammatory Bowel Disease Questionnaire (IBDQ) score was 36.9 for mirikizumab and 17.4 for placebo; IBDQ response and remission were achieved in 69 % and 52 %
+Patients who completed VIVID-1 through week 52 were eligible to continue treatment in the long-term extension study VIVID-2. Among VIVID-1 endoscopic responders who also achieved clinical remission by CDAI at week 52 and entered VIVID-2 (n = 191), 78.1 % maintained combined endoscopic response and clinical remission by CDAI at week 104 with continued mirikizumab treatment.
 
 <div style=\"page-break-after: always\"></div>
 
-of mirikizumab-treated patients versus 45 % and 28 % in placebo patients respectively. These improvements were maintained at week 52.
+## Health-related quality of life
+
+At week 12, change in the Inflammatory Bowel Disease Questionnaire (IBDQ) score was 36.9 for mirikizumab and 17.4 for placebo; IBDQ response and remission were achieved in 69 % and 52 % of mirikizumab-treated patients versus 45 % and 28 % in placebo patients respectively. These improvements were maintained at week 52.
 
 ## Paediatric population
 
@@ -1339,13 +1342,11 @@ The geometric mean total volume of distribution was 4.83 L (21%) in patients wit
 
 Mirikizumab is a humanised IgG4 monoclonal antibody and is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgGs.
 
-## Elimination
-
-In the population PK analysis, geometric mean (CV %) clearance was 0.0229 L/hr  (34 %) and the geometric mean half-life is approximately 9.3 days (40 %) in patients with ulcerative colitis. The geometric mean (CV%) clearance was 0.0202 L/hr (38 %) and the geometric mean (CV %) half-life
-
 <div style=\"page-break-after: always\"></div>
 
-is also approximately 9.3 days (26 %) in patients with Crohn's disease. Clearance is independent of dose.
+## Elimination
+
+In the population PK analysis, geometric mean (CV %) clearance was 0.0229 L/hr  (34 %) and the geometric mean half-life is approximately 9.3 days (40 %) in patients with ulcerative colitis. The geometric mean (CV%) clearance was 0.0202 L/hr (38 %) and the geometric mean (CV %) half-life is also approximately 9.3 days (26 %) in patients with Crohn's disease. Clearance is independent of dose.
 
 ## Dose proportionality
 
@@ -1379,9 +1380,11 @@ No reproductive organ weight or histopathology effects were observed in sexually
 
 ## 6.1 List of excipients
 
-Histidine Histidine monohydrochloride Sodium chloride Mannitol (E 421) Polysorbate 80 (E 433) Water for injections
+## Histidine
 
 <div style=\"page-break-after: always\"></div>
+
+Histidine monohydrochloride Sodium chloride Mannitol (E 421) Polysorbate 80 (E 433) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1403,9 +1406,9 @@ Omvoh may be stored unrefrigerated for up to 2 weeks at a temperature not above 
 
 ## 6.5 Nature and contents of container
 
-## Packs for the treatment of ulcerative colitis
+Packs for the treatment of ulcerative colitis
 
-## Omvoh 100 mg solution for injection in pre-filled syringe
+Omvoh 100 mg solution for injection in pre-filled syringe
 
 1 mL solution in a type I clear glass syringe.
 
@@ -1418,7 +1421,7 @@ The syringe is encased in a disposable, single-dose syringe with bromobutyl rubb
 
 Not all pack sizes may be marketed.
 
-## Omvoh 100 mg solution for injection in pre-filled pen
+Omvoh 100 mg solution for injection in pre-filled pen
 
 1 mL solution in a type I clear glass syringe.
 
@@ -1438,33 +1441,35 @@ Not all pack sizes may be marketed.
 
 The syringe is encased in a disposable, single-dose syringe with bromobutyl rubber plunger.
 
-## Pack sizes:
+<div style=\"page-break-after: always\"></div>
+
+Pack sizes:
 
 - packs of 1 pre-filled syringe
 - multipacks containing 3 (3 packs of 1) pre-filled syringes.
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Omvoh 200 mg solution for injection in pre-filled pen
 
-2 mL solution in a type I clear glass syringe. The syringe is encased in a disposable, single-dose pen with bromobutyl rubber plunger.
+2 mL solution in a type I clear glass syringe.
 
-## Pack sizes:
+The syringe is encased in a disposable, single-dose pen with bromobutyl rubber plunger.
+
+Pack sizes:
 
 - packs of 1pre-filled pen
 - multipacks containing 3 (3 packs of 1) pre-filled pens.
 
 Not all pack sizes may be marketed.
 
-Packs for the treatment of Crohn's disease:
+## Packs for the treatment of Crohn's disease:
 
 ## Omvoh 100 mg solution for injection in pre-filled syringe and Omvoh 200 mg solution for injection in pre-filled syringe
 
 Pre-filled syringes with 1 mL and 2 mL solution in a type I clear glass syringe. Each syringe is encased in a disposable, single-dose syringe with bromobutyl rubber plunger.
 
-Pack sizes:
+## Pack sizes:
 
 - Packs of 2 pre-filled syringes (1 pre-filled syringe of 100 mg and 1 pre-filled syringe of 200 mg)
 - Multipacks containing 6 pre-filled syringes (3 packs of 1 pre-filled syringe of 100 mg and 1 pre-filled syringe of 200 mg each).
@@ -1490,11 +1495,11 @@ Do not use Omvoh that has been frozen.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -1554,7 +1559,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND
+
+## EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1678,11 +1685,8 @@ EU/1/23/1736/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
@@ -1693,9 +1697,9 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1766,11 +1770,8 @@ EU/1/23/1736/011
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
@@ -1831,8 +1832,6 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1860,6 +1859,8 @@ Lot
 16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2035,11 +2036,7 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2047,18 +2044,18 @@ Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/23/1736/003
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Omvoh 100 mg
@@ -2067,7 +2064,8 @@ Omvoh 100 mg
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -2154,34 +2152,40 @@ Lot
 Omvoh 100 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL 100 mg
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL 100 mg                                    |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Omvoh 100 mg injection mirikizumab SC
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2257,7 +2261,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2333,36 +2337,34 @@ Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
-
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/23/1736/013
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Omvoh 200 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
+- 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -2455,16 +2457,14 @@ Omvoh 200 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL 200 mg                                  |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL 200 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Omvoh 200 mg injection mirikizumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2476,8 +2476,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2 mL
 
@@ -2494,7 +2494,9 @@ OUTER CARTON - PRE-FILLED SYRINGE (pack of 2)
 
 Omvoh 100 mg
 
-Omvoh 200 mg solution for injection in pre-filled syringe
+Omvoh 200 mg
+
+solution for injection in pre-filled syringe
 
 mirikizumab
 
@@ -2559,7 +2561,6 @@ EU/1/23/1736/007
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2570,14 +2571,14 @@ Omvoh 200 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+<div style=\"page-break-after: always\"></div>
+
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2656,7 +2657,6 @@ EU/1/23/1736/008
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2689,7 +2689,9 @@ NN
 
 Omvoh 100 mg
 
-Omvoh 200 mg solution for injection in pre-filled syringe
+Omvoh 200 mg
+
+solution for injection in pre-filled syringe
 
 mirikizumab
 
@@ -2745,7 +2747,11 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
+Eli Lilly Nederland B.V.,
+
+Orteliuslaan 1000, 3528 BD Utrecht,
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2766,21 +2772,22 @@ Omvoh 100 mg
 Omvoh 200 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL 100 mg
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL 100 mg                                    |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Omvoh 100 mg injection mirikizumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2792,8 +2799,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -2802,15 +2809,17 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL 200 mg                                  |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL 200 mg                                    |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Omvoh 200 mg injection mirikizumab SC
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2822,8 +2831,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2 mL
 
@@ -3089,16 +3098,14 @@ EU/1/23/1736/006 (6 pre-filled pens)
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Omvoh 100 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3126,7 +3133,8 @@ Lot
 
 1 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3278,9 +3286,6 @@ Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
-
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht,
@@ -3291,14 +3296,13 @@ The Netherlands
 
 EU/1/23/1736/015
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Omvoh 200 mg
@@ -3355,6 +3359,8 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
@@ -3394,36 +3400,38 @@ Lot
 Omvoh 200 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## PRE-FILLED PEN LABEL 200 mg
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL 200 mg                                        |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Omvoh 200 mg solution for injection mirikizumab Subcutaneous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3519,8 +3527,8 @@ Omvoh 200 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3528,7 +3536,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON OF MULTIPACK (with Blue Box)
+OUTER CARTON OF MULTIPACK (with Blue Box)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3599,7 +3607,6 @@ EU/1/23/1736/010
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -3632,15 +3639,15 @@ NN
 
 Omvoh 100 mg
 
-Omvoh 200 mg solution for injection in pre-filled pen
+Omvoh 200 mg
+
+solution for injection in pre-filled pen
 
 mirikizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each pre-filled pen of 1 mL solution contains 100 mg of mirikizumab.
-
-Each pre-filled pen of 2 mL solution contains 200 mg of mirikizumab.
+Each pre-filled pen of 1 mL solution contains 100 mg of mirikizumab. Each pre-filled pen of 2 mL solution contains 200 mg of mirikizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -3699,7 +3706,6 @@ EU/1/23/1736/010
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -3709,7 +3715,6 @@ Omvoh 100 mg
 Omvoh 200 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -3742,7 +3747,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN LABEL 200 mg
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## PRE-FILLED PEN LABEL 200 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -3778,10 +3785,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3815,8 +3822,8 @@ Crohn's disease is a chronic inflammatory disease of the digestive tract. If you
 
 ## Do not use Omvoh
 
-- -if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
-- -If you have important active infections (active tuberculosis).
+- if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
+- If you have important active infections (active tuberculosis).
 
 ## Warnings and precautions
 
@@ -3834,19 +3841,12 @@ Crohn's disease is a chronic inflammatory disease of the digestive tract. If you
 - If your doctor thinks you are at risk of an active tuberculosis, you may be given medicines to treat it.
 
 - o fever
-
-- o shortness of breath
-
 - o chills
-
+- o shortness of breath
 - o runny nose
-
 - o muscle aches
-
 - o sore throat
-
 - o cough
-
 - o pain during urination
 
 ## Vaccinations
@@ -3859,15 +3859,10 @@ Your doctor will check to see if you need any vaccinations before starting treat
 - Stop using Omvoh and get emergency medical help right away if you develop any of the following symptoms of a serious allergic reaction:
 
 - o rash
-
-- o low blood pressure
-
 - o fainting
-
-- o swelling of the face, lips, mouth, tongue or throat, trouble breathing
-
 - o dizziness
-
+- o low blood pressure
+- o swelling of the face, lips, mouth, tongue or throat, trouble breathing
 - o sensation of throat tightening or chest tightness.
 
 ## Liver blood test
@@ -3884,8 +3879,8 @@ Omvoh is not recommended for children and adolescents under 18 years of age beca
 
 Tell your doctor, pharmacist or nurse
 
-- -if you are using, have recently used or might use any other medicines.
-- -if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
+- if you are using, have recently used or might use any other medicines.
+- if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
 
 ## Pregnancy and breast-feeding
 
@@ -3960,23 +3955,23 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Very common (may affect more than 1 in 10 people)
 
-- -Injection site reactions (e.g. red skin, pain)
+- Injection site reactions (e.g. red skin, pain)
 
 ## Common (may affect up to 1 in 10 people)
 
-- -Upper respiratory tract infections (nose and throat infections)
-- -Joint pain
-- -Headache
-- -Rash
+- Upper respiratory tract infections (nose and throat infections)
+- Joint pain
+- Headache
+- Rash
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- -Shingles
+- Shingles
 
 <div style=\"page-break-after: always\"></div>
 
-- -Infusion-related allergic reaction (e.g. itch, hives)
-- -Increase in the level of liver enzymes in your blood
+- Infusion-related allergic reaction (e.g. itch, hives)
+- Increase in the level of liver enzymes in your blood
 
 ## Reporting of side effects
 
@@ -4012,11 +4007,11 @@ Keep the diluted solution away from direct heat or light. Do not freeze the dilu
 
 ## What Omvoh contains
 
-- -The active substance is mirikizumab.
+- The active substance is mirikizumab.
 
 Each vial contains 300 mg mirikizumab in 15 mL (20 mg/mL).
 
-- -The other ingredients are histidine; histidine hydrochloride monohydrate; mannitol (E421); sodium citrate dihydrate (E 331); citric acid, anhydrous (E 330); sodium chloride; polysorbate 80 (E 433); water for injections.
+- The other ingredients are histidine; histidine hydrochloride monohydrate; mannitol (E421); sodium citrate dihydrate (E 331); citric acid, anhydrous (E 330); sodium chloride; polysorbate 80 (E 433); water for injections.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4044,19 +4039,9 @@ For any information about this medicine, please contact the local representative
 
 Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
-## Lietuva
-
-Eli Lilly Lietuva Tel. +370 (5) 2649600
-
 ## България
 
 ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
@@ -4064,23 +4049,11 @@ ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
 
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
-
 ## Danmark
 
 Eli Lilly Danmark A/S
 
 Tlf.: +45 45 26 60 00
-
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
 
 ## Deutschland
 
@@ -4088,23 +4061,11 @@ Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
 
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
-
 ## Eesti
 
 Eli Lilly Nederland B.V.
 
 Tel: +372 6 817 280
-
-## Norge
-
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
 
 ## Ελλάδα
 
@@ -4112,17 +4073,51 @@ Tlf: + 47 22 88 18 00
 
 Τηλ: +30 210 629 4600
 
-## Österreich
-
-Eli Lilly Ges.m.b.H.
-
-Tel: + 43-(0) 1 711 780
-
 ## España
 
 Lilly S.A.
 
 Tel: + 34-91 663 50 00
+
+## Lietuva
+
+Eli Lilly Lietuva Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
+
+## Magyarország
+
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
+
+## Malta
+
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
+
+## Nederland
+
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
+
+## Norge
+
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
+
+## Österreich
+
+Eli Lilly Ges.m.b.H.
+
+Tel: + 43-(0) 1 711 780
 
 ## Polska
 
@@ -4130,15 +4125,13 @@ Eli Lilly Polska Sp. z o.o.
 
 Tel: +48 22 440 33 00
 
+<div style=\"page-break-after: always\"></div>
+
 ## France
 
 Lilly France
 
 Tél: +33-(0) 1 55 49 34 34
-
-## Portugal
-
-Lilly Portugal Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
 
 ## Hrvatska
 
@@ -4146,23 +4139,11 @@ Eli Lilly Hrvatska d.o.o.
 
 Tel: +385 1 2350 999
 
-## România
-
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
-
 ## Ireland
 
 Eli Lilly and Company (Ireland) Limited
 
 Tel: + 353-(0) 1 661 4377
-
-## Slovenija
-
-Eli Lilly farmacevtska družba, d.o.o.
-
-Tel: +386 (0)1 580 00 10
 
 ## Ísland
 
@@ -4170,35 +4151,17 @@ Icepharma hf.
 
 Sími + 354 540 8000
 
-## Slovenská republika
-
-Eli Lilly Slovakia, s.r.o.
-
-Tel: + 421 220 663 111
-
 ## Italia
 
 Eli Lilly Italia S.p.A.
 
 Tel: + 39- 055 42571
 
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
-
 ## Κύπρος
 
 Phadisco Ltd
 
 Τηλ: +357 22 715000
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
 
 ## Latvija
 
@@ -4208,8 +4171,6 @@ Tel:
 
 + 371 67364000
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
@@ -4218,9 +4179,9 @@ Detailed information on this medicine is available on the European Medicines Age
 
 
 
--------------------------------------------------------------
-
 ---------------------------------------------------------
+
+-------------------------------------------------------------
 
 ## Omvoh 300 mg concentrate for solution for infusion mirikizumab
 
@@ -4237,6 +4198,40 @@ In order to improve the traceability of biological medicinal products, the name 
 ## Dilution prior to intravenous infusion
 
 1. Each vial is for single use only.
+
+## Portugal
+
+Lilly Portugal Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
+
+## România
+
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
+
+## Slovenija
+
+Eli Lilly farmacevtska družba, d.o.o.
+
+Tel: +386 (0)1 580 00 10
+
+## Slovenská republika
+
+Eli Lilly Slovakia, s.r.o.
+
+Tel: + 421 220 663 111
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
+
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4264,9 +4259,9 @@ For ulcerative colitis, the infusion should be administered for at least 30 minu
 
 7. At the end of the infusion, to ensure a full dose is administered, the infusion line should be flushed with sodium chloride 9 mg/mL (0.9 %) solution or 5 % glucose solution for injection. The flush should be administered at the same rate as used for Omvoh administration. The time required to flush Omvoh solution from the infusion line is in addition to the minimum 30 minutes (ulcerative colitis) or 90 minutes (Crohn's disease) infusion time.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Omvoh 100 mg solution for injection in pre-filled syringe
 
@@ -4276,10 +4271,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4302,8 +4297,8 @@ Ulcerative colitis is a chronic inflammatory disease of the large bowel. If you 
 
 ## Do not use Omvoh
 
-- -if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
-- -If you have important active infections (active tuberculosis).
+- if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
+- If you have important active infections (active tuberculosis).
 
 ## Warnings and precautions
 
@@ -4322,19 +4317,12 @@ Ulcerative colitis is a chronic inflammatory disease of the large bowel. If you 
 - If your doctor thinks you are at risk of an active tuberculosis, you may be given medicines to treat it.
 
 - o fever
-
-- o shortness of breath
-
 - o chills
-
+- o shortness of breath
 - o runny nose
-
 - o muscle aches
-
 - o sore throat
-
 - o cough
-
 - o pain during urination
 
 ## Vaccinations
@@ -4346,9 +4334,9 @@ Your doctor will check to see if you need any vaccinations before starting treat
 - Omvoh can potentially cause serious allergic reactions.
 - Stop using Omvoh and get emergency medical help right away if you develop any of the following symptoms of a serious allergic reaction:
 - o rash
+- o low blood pressure
 - o fainting
 - o dizziness
-- o low blood pressure
 - o swelling of the face, lips, mouth, tongue or throat, trouble breathing
 - o sensation of throat tightening or chest tightness.
 
@@ -4364,8 +4352,8 @@ Omvoh is not recommended for children and adolescents under 18 years of age beca
 
 Tell your doctor, pharmacist or nurse
 
-- -if you are using, have recently used or might use any other medicines.
-- -if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
+- if you are using, have recently used or might use any other medicines.
+- if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
 
 ## Pregnancy and breast-feeding
 
@@ -4429,20 +4417,20 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Very common (may affect more than 1 in 10 people)
 
-- -Injection site reactions (e.g. red skin, pain)
+- Injection site reactions (e.g. red skin, pain)
 
 Common (may affect up to 1 in 10 people):
 
-- -Upper respiratory tract infections (nose and throat infections)
-- -Joint pain
-- -Headache
-- -Rash
+- Upper respiratory tract infections (nose and throat infections)
+- Joint pain
+- Headache
+- Rash
 
 Uncommon (may affect up to 1 in 100 people):
 
-- -Shingles
-- -Infusion-related allergic reaction (e.g. itch, hives)
-- -Increase in the level of liver enzymes in your blood.
+- Shingles
+- Infusion-related allergic reaction (e.g. itch, hives)
+- Increase in the level of liver enzymes in your blood.
 
 ## Reporting of side effects
 
@@ -4474,8 +4462,8 @@ Do not throw away any medicines via wastewater. Ask your doctor, nurse or pharma
 
 ## What Omvoh contains
 
-- -The active substance is mirikizumab. Each pre-filled syringe contains 100 mg of mirikizumab in 1 mL solution.
-- -The other ingredients are histidine; histidine monohydrochloride; sodium chloride; mannitol (E 421); polysorbate 80 (E 433); water for injections.
+- The active substance is mirikizumab. Each pre-filled syringe contains 100 mg of mirikizumab in 1 mL solution.
+- The other ingredients are histidine; histidine monohydrochloride; sodium chloride; mannitol (E 421); polysorbate 80 (E 433); water for injections.
 
 ## What Omvoh looks like and contents of the pack
 
@@ -4497,11 +4485,9 @@ For any information about this medicine, please contact the local representative
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
 
-## Lietuva
-
-Eli Lilly Lietuva Tel. +370 (5) 2649600
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
@@ -4509,21 +4495,11 @@ Eli Lilly Lietuva Tel. +370 (5) 2649600
 
 тел. + 359 2 491 41 40
 
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
-
 ## Česká republika
 
 ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
-
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
 
 ## Danmark
 
@@ -4531,23 +4507,11 @@ Eli Lilly Danmark A/S
 
 Tlf.: +45 45 26 60 00
 
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
-
 ## Deutschland
 
 Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
-
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
 
 ## Eesti
 
@@ -4555,17 +4519,41 @@ Eli Lilly Nederland B.V.
 
 Tel: +372 6 817 280
 
+## Lietuva
+
+Eli Lilly Lietuva Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+
+## Magyarország
+
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
+
+## Malta
+
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
+
+## Nederland
+
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
+
 ## Norge
 
 Eli Lilly Norge A.S.
 
 Tlf: + 47 22 88 18 00
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -4675,6 +4663,8 @@ Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## Instructions for use
 
 ## Omvoh 100 mg solution for injection in pre-filled syringe
@@ -4719,7 +4709,25 @@ Bottom
 
 ## Take the syringes from the refrigerator
 
+Take 2  syringes from the refrigerator.
+
 ## Gather supplies
+
+Leave the needle caps on until you are ready to inject. Leave the syringes at room temperature for 30 minutes
+
+before injecting.
+
+Do not microwave the syringe, run hot water over them, or leave them in direct sunlight.
+
+Do not use the syringes if the medicine is frozen.
+
+Do not shake the syringes.
+
+## Supplies:
+
+- 2 alcohol wipes
+- 2 cotton balls or pieces of gauze
+- 1 sharps container (see 'Disposing of Omvoh syringe')
 
 ## Inspect the syringes and the medicine
 
@@ -4730,24 +4738,6 @@ Bottom
 ## Choose your injection site
 
 <!-- image -->
-
-Take 2  syringes from the refrigerator.
-
-Leave the needle caps on until you are ready to inject. Leave the syringes at room temperature for 30 minutes before injecting.
-
-Do not microwave the syringe, run hot water over them, or leave them in direct sunlight.
-
-Do not use the syringes if the medicine is frozen.
-
-Do not
-
-shake the syringes.
-
-## Supplies:
-
-- 2 alcohol wipes
-- 2 cotton balls or pieces of gauze
-- 1 sharps container (see 'Disposing of Omvoh syringe')
 
 Make sure you have the right medicine. The medicine inside should be clear. It may be colourless to slightly yellow.
 
@@ -4852,8 +4842,7 @@ A. This is normal. Press a cotton ball or gauze over the injection site. Do not 
 
 ## Q. How can I tell if my injection is complete?
 
-A. When your injection is complete:
-
+- A. When your injection is complete:
 - The blue plunger rod should show through the body of the syringe.
 - The grey syringe plunger should be pushed all the way to the needle end of the syringe.
 
@@ -4861,9 +4850,9 @@ A. When your injection is complete:
 
 ## Read the full package leaflet for Omvoh inside this box to learn more about your medicine. Last revised in
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Omvoh 200 mg solution for injection in pre-filled syringe
 
@@ -4873,10 +4862,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4899,8 +4888,8 @@ Ulcerative colitis is a chronic inflammatory disease of the large bowel. If you 
 
 ## Do not use Omvoh
 
-- -if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
-- -If you have important active infections (active tuberculosis).
+- if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
+- If you have important active infections (active tuberculosis).
 
 ## Warnings and precautions
 
@@ -4919,19 +4908,12 @@ Ulcerative colitis is a chronic inflammatory disease of the large bowel. If you 
 - If your doctor thinks you are at risk of an active tuberculosis, you may be given medicines to treat it.
 
 - o Fever
-
-- o shortness of breath
-
 - o chills
-
+- o shortness of breath
 - o runny nose
-
 - o muscle aches
-
 - o sore throat
-
 - o cough
-
 - o pain during urination
 
 ## Vaccinations
@@ -4943,9 +4925,9 @@ Your doctor will check to see if you need any vaccinations before starting treat
 - Omvoh can potentially cause serious allergic reactions.
 - Stop using Omvoh and get emergency medical help right away if you develop any of the following symptoms of a serious allergic reaction:
 - o Rash
+- o low blood pressure
 - o fainting
 - o dizziness
-- o low blood pressure
 - o swelling of the face, lips, mouth, tongue or throat, trouble breathing
 - o sensation of throat tightening or chest tightness.
 
@@ -4961,8 +4943,8 @@ Omvoh is not recommended for children and adolescents under 18 years of age beca
 
 Tell your doctor, pharmacist or nurse
 
-- -if you are using, have recently used or might use any other medicines.
-- -if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
+- if you are using, have recently used or might use any other medicines.
+- if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
 
 ## Pregnancy and breast-feeding
 
@@ -5002,9 +4984,7 @@ If you do not have adequate therapeutic response after these 3 infusions, your d
 
 Your doctor or nurse will tell you when to switch to subcutaneous injections. During maintenance therapy you and your doctor or nurse should decide if you important not to try to inject yourself until you have been trained by your doctor or nurse. Your doctor or nurse will offer the necessary training.
 
-should inject Omvoh yourself after training in subcutaneous injection technique. It is A caregiver may also give you your Omvoh injection after proper training.
-
-Use a reminder method such as notes in a calendar or diary to help you remember when to take your next dose so that you avoid missing or repeating doses.
+should inject Omvoh yourself after training in subcutaneous injection technique. It is A caregiver may also give you your Omvoh injection after proper training. Use a reminder method such as notes in a calendar or diary to help you remember when to take your next dose so that you avoid missing or repeating doses.
 
 ## If you receive more Omvoh than you should
 
@@ -5028,20 +5008,20 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Very common (may affect more than 1 in 10 people)
 
-- -Injection site reactions (e.g. red skin, pain)
+- Injection site reactions (e.g. red skin, pain)
 
 Common (may affect up to 1 in 10 people):
 
-- -Upper respiratory tract infections (nose and throat infections)
-- -Joint pain
-- -Headache
-- -Rash
+- Upper respiratory tract infections (nose and throat infections)
+- Joint pain
+- Headache
+- Rash
 
 Uncommon (may affect up to 1 in 100 people):
 
-- -Shingles
-- -Infusion-related allergic reaction (e.g. itch, hives)
-- -Increase in the level of liver enzymes in your blood.
+- Shingles
+- Infusion-related allergic reaction (e.g. itch, hives)
+- Increase in the level of liver enzymes in your blood.
 
 ## Reporting of side effects
 
@@ -5073,8 +5053,8 @@ Do not throw away any medicines via wastewater. Ask your doctor, nurse or pharma
 
 ## What Omvoh contains
 
-- -The active substance is mirikizumab. Each pre-filled syringe contains 200 mg of mirikizumab in 2 mL solution.
-- -The other ingredients are histidine; histidine monohydrochloride; sodium chloride; mannitol (E 421); polysorbate 80 (E 433); water for injections.
+- The active substance is mirikizumab. Each pre-filled syringe contains 200 mg of mirikizumab in 2 mL solution.
+- The other ingredients are histidine; histidine monohydrochloride; sodium chloride; mannitol (E 421); polysorbate 80 (E 433); water for injections.
 
 ## What Omvoh looks like and contents of the pack
 
@@ -5098,19 +5078,9 @@ For any information about this medicine, please contact the local representative
 
 Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
-## Lietuva
-
-Eli Lilly Lietuva Tel. +370 (5) 2649600
-
 ## България
 
 ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
@@ -5118,23 +5088,11 @@ ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
 
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
-
 ## Danmark
 
 Eli Lilly Danmark A/S
 
 Tlf.: +45 45 26 60 00
-
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
 
 ## Deutschland
 
@@ -5142,17 +5100,39 @@ Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
 
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
-
 ## Eesti
 
 Eli Lilly Nederland B.V.
 
 Tel: +372 6 817 280
+
+## Lietuva
+
+Eli Lilly Lietuva Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
+
+## Magyarország
+
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
+
+## Malta
+
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
+
+## Nederland
+
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
@@ -5160,11 +5140,9 @@ Eli Lilly Norge A.S.
 
 Tlf: + 47 22 88 18 00
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -5274,6 +5252,8 @@ Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## Instructions for use
 
 ## Omvoh 200 mg solution for injection in pre-filled syringe
@@ -5300,9 +5280,9 @@ Before you use the Omvoh syringe, read and carefully follow all the step-by-step
 
 Top
 
-Bottom
-
 <!-- image -->
+
+Bottom
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5310,7 +5290,23 @@ Bottom
 
 ## Take the syringe from the refrigerator
 
+## Leave the needle cap on until you are ready to inject.
+
 ## Gather supplies
+
+Leave the syringe at room temperature for 45 minutes before injecting.
+
+Do not microwave the syringe, run hot water over it, or leave it in direct sunlight.
+
+Do not use the syringe if the medicine is frozen.
+
+Do not shake the syringe.
+
+## Supplies:
+
+- 1 alcohol wipe
+- 1 cotton ball or piece of gauze
+- 1 sharps container (see 'Disposing of Omvoh syringe')
 
 ## Inspect the syringe and the medicine
 
@@ -5327,26 +5323,6 @@ You or another person may inject into these areas.
 <!-- image -->
 
 Another person should inject into this area.
-
-## Leave the needle cap on until you are ready to inject.
-
-Leave the syringe at room temperature for 45 minutes before injecting.
-
-Do not microwave the syringe, run hot water over it, or leave it in direct sunlight.
-
-Do not
-
-use the syringe if the medicine is frozen.
-
-Do not
-
-shake the syringe.
-
-## Supplies:
-
-- 1 alcohol wipe
-- 1 cotton ball or piece of gauze
-- 1 sharps container (see 'Disposing of Omvoh syringe')
 
 Make sure you have the right medicine. The medicine inside should be clear. It may be colourless to slightly yellow.
 
@@ -5471,10 +5447,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5499,8 +5475,8 @@ Crohn's disease is a chronic inflammatory disease of the digestive tract. If you
 
 ## Do not use Omvoh
 
-- -if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
-- -If you have important active infections (active tuberculosis).
+- if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
+- If you have important active infections (active tuberculosis).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5519,19 +5495,12 @@ Crohn's disease is a chronic inflammatory disease of the digestive tract. If you
 - If your doctor thinks you are at risk of an active tuberculosis, you may be given medicines to treat it.
 
 - o fever
-
-- o shortness of breath
-
 - o chills
-
+- o shortness of breath
 - o runny nose
-
 - o muscle aches
-
 - o sore throat
-
 - o cough
-
 - o pain during urination
 
 ## Vaccinations
@@ -5543,9 +5512,9 @@ Your doctor will check to see if you need any vaccinations before starting treat
 - Omvoh can potentially cause serious allergic reactions.
 - Stop using Omvoh and get emergency medical help right away if you develop any of the following symptoms of a serious allergic reaction:
 - o rash
+- o low blood pressure
 - o fainting
 - o dizziness
-- o low blood pressure
 - o swelling of the face, lips, mouth, tongue or throat, trouble breathing
 - o sensation of throat tightening or chest tightness.
 
@@ -5561,16 +5530,14 @@ Omvoh is not recommended for children and adolescents under 18 years of age beca
 
 Tell your doctor, pharmacist or nurse
 
-- -if you are using, have recently used or might use any other medicines.
-- -if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
+- if you are using, have recently used or might use any other medicines.
+- if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
 
 ## Pregnancy and breast-feeding
 
-If you are pregnant, think you may be pregnant, or are planning to have a baby, ask your doctor for advice before using this medicine. It is preferable to avoid the use of Omvoh in pregnancy. The effects of Omvoh in pregnant women are not known. If you are a woman of childbearing potential,
+If you are pregnant, think you may be pregnant, or are planning to have a baby, ask your doctor for advice before using this medicine. It is preferable to avoid the use of Omvoh in pregnancy. The effects of Omvoh in pregnant women are not known. If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and should use effective contraception while using Omvoh and for at least 10 weeks after the last Omvoh dose.
 
 <div style=\"page-break-after: always\"></div>
-
-you are advised to avoid becoming pregnant and should use effective contraception while using Omvoh and for at least 10 weeks after the last Omvoh dose.
 
 If you are breast-feeding or are planning to breast-feed, talk to your doctor before using this medicine.
 
@@ -5625,20 +5592,20 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Very common (may affect more than 1 in 10 people)
 
-- -Injection site reactions (e.g. red skin, pain)
+- Injection site reactions (e.g. red skin, pain)
 
 Common (may affect up to 1 in 10 people):
 
-- -Upper respiratory tract infections (nose and throat infections)
-- -Joint pain
-- -Headache
-- -Rash
+- Upper respiratory tract infections (nose and throat infections)
+- Joint pain
+- Headache
+- Rash
 
 Uncommon (may affect up to 1 in 100 people):
 
-- -Shingles
-- -Infusion-related allergic reaction (e.g. itch, hives)
-- -Increase in the level of liver enzymes in your blood.
+- Shingles
+- Infusion-related allergic reaction (e.g. itch, hives)
+- Increase in the level of liver enzymes in your blood.
 
 ## Reporting of side effects
 
@@ -5668,9 +5635,9 @@ Do not throw away any medicines via wastewater. Ask your doctor, nurse or pharma
 
 ## What Omvoh contains
 
-- -The active substance is mirikizumab.
+- The active substance is mirikizumab.
 - One pre-filled syringe contains 100 mg of mirikizumab in 1 mL solution and one pre-filled syringe contains 200 mg of mirikizumab in 2 mL solution.
-- -The other ingredients are histidine; histidine monohydrochloride; sodium chloride; mannitol (E 421); polysorbate 80 (E 433); water for injections.
+- The other ingredients are histidine; histidine monohydrochloride; sodium chloride; mannitol (E 421); polysorbate 80 (E 433); water for injections.
 
 ## What Omvoh looks like and contents of the pack
 
@@ -5694,7 +5661,7 @@ Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. -България тел. + 359 2 491 41 40
+ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
 
 ## Česká republika
 
@@ -5752,7 +5719,7 @@ Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -5920,7 +5887,25 @@ Inject both syringes in any order for a full 300 mg dose. The 200 mg syringe is 
 
 ## Take the syringes from the refrigerator
 
+Take 2 syringes from the refrigerator.
+
 ## Gather supplies
+
+Leave the needle caps on until you are ready to inject. Leave the syringes at room temperature for 45 minutes
+
+before injecting.
+
+Do not microwave the syringe, run hot water over them, or leave them in direct sunlight.
+
+Do not use the syringes if the medicine is frozen.
+
+Do not shake the syringes.
+
+Supplies:
+
+- 2 alcohol wipes
+- 2 cotton balls or pieces of gauze
+- 1 sharps container (see 'Disposing of Omvoh syringe')
 
 ## Inspect the syringes and the medicine
 
@@ -5933,26 +5918,6 @@ Inject both syringes in any order for a full 300 mg dose. The 200 mg syringe is 
 <!-- image -->
 
 <!-- image -->
-
-Take 2 syringes from the refrigerator.
-
-Leave the needle caps on until you are ready to inject. Leave the syringes at room temperature for 45 minutes before injecting.
-
-Do not microwave the syringe, run hot water over them, or leave them in direct sunlight.
-
-Do not
-
-use the syringes if the medicine is frozen.
-
-Do not
-
-shake the syringes.
-
-Supplies:
-
-- 2 alcohol wipes
-- 2 cotton balls or pieces of gauze
-- 1 sharps container (see 'Disposing of Omvoh syringe')
 
 Make sure you have the right medicine. The medicine inside should be clear. It may be colourless to slightly yellow.
 
@@ -6075,10 +6040,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -6101,8 +6066,8 @@ Ulcerative colitis is a chronic inflammatory disease of the large bowel. If you 
 
 ## Do not use Omvoh
 
-- -if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
-- -If you have important active infections (active tuberculosis).
+- if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
+- If you have important active infections (active tuberculosis).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6121,19 +6086,12 @@ Ulcerative colitis is a chronic inflammatory disease of the large bowel. If you 
 - If your doctor thinks you are at risk of an active tuberculosis, you may be given medicines to treat it.
 
 - o fever
-
-- o shortness of breath
-
 - o chills
-
+- o shortness of breath
 - o runny nose
-
 - o muscle aches
-
 - o sore throat
-
 - o cough
-
 - o pain during urination
 
 ## Vaccinations
@@ -6145,9 +6103,9 @@ Your doctor will check to see if you need any vaccinations before starting treat
 - Omvoh can potentially cause serious allergic reactions.
 - Stop using Omvoh and get emergency medical help right away if you develop any of the following symptoms of a serious allergic reaction:
 - o rash
+- o low blood pressure
 - o fainting
 - o dizziness
-- o low blood pressure
 - o swelling of the face, lips, mouth, tongue or throat, trouble breathing
 - o sensation of throat tightening or chest tightness.
 
@@ -6163,16 +6121,14 @@ Omvoh is not recommended for children and adolescents under 18 years of age beca
 
 Tell your doctor, pharmacist or nurse
 
-- -if you are using, have recently used or might use any other medicines.
-- -if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
+- if you are using, have recently used or might use any other medicines.
+- if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
 
 ## Pregnancy and breast-feeding
 
-If you are pregnant, think you may be pregnant, or are planning to have a baby, ask your doctor for advice before using this medicine. It is preferable to avoid the use of Omvoh in pregnancy. The effects of Omvoh in pregnant women are not known. If you are a woman of childbearing potential,
+If you are pregnant, think you may be pregnant, or are planning to have a baby, ask your doctor for advice before using this medicine. It is preferable to avoid the use of Omvoh in pregnancy. The effects of Omvoh in pregnant women are not known. If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and should use effective contraception while using Omvoh and for at least 10 weeks after the last Omvoh dose.
 
 <div style=\"page-break-after: always\"></div>
-
-you are advised to avoid becoming pregnant and should use effective contraception while using Omvoh and for at least 10 weeks after the last Omvoh dose.
 
 If you are breast-feeding or are planning to breast-feed, talk to your doctor before using this medicine.
 
@@ -6228,20 +6184,20 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Very common (may affect more than 1 in 10 people)
 
-- -Injection site reactions (e.g. red skin, pain)
+- Injection site reactions (e.g. red skin, pain)
 
 Common (may affect up to 1 in 10 people):
 
-- -Upper respiratory tract infections (nose and throat infections)
-- -Joint pain
-- -Headache
-- -Rash
+- Upper respiratory tract infections (nose and throat infections)
+- Joint pain
+- Headache
+- Rash
 
 Uncommon (may affect up to 1 in 100 people):
 
-- -Shingles
-- -Infusion-related allergic reaction (e.g. itch, hives)
-- -Increase in the level of liver enzymes in your blood.
+- Shingles
+- Infusion-related allergic reaction (e.g. itch, hives)
+- Increase in the level of liver enzymes in your blood.
 
 ## Reporting of side effects
 
@@ -6271,8 +6227,8 @@ Do not throw away any medicines via wastewater. Ask your doctor, nurse or pharma
 
 ## What Omvoh contains
 
-- -The active substance is mirikizumab. Each pre-filled pen contains 100 mg of mirikizumab in 1 mL solution.
-- -The other ingredients are histidine; histidine monohydrochloride; sodium chloride; mannitol (E 421); polysorbate 80 (E 433); water for injections.
+- The active substance is mirikizumab. Each pre-filled pen contains 100 mg of mirikizumab in 1 mL solution.
+- The other ingredients are histidine; histidine monohydrochloride; sodium chloride; mannitol (E 421); polysorbate 80 (E 433); water for injections.
 
 ## What Omvoh looks like and contents of the pack
 
@@ -6294,19 +6250,9 @@ For any information about this medicine, please contact the local representative
 
 Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
-## Lietuva
-
-Eli Lilly Lietuva Tel. +370 (5) 2649600
-
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+ТП \"Ели Лили Недерланд\" Б.В. - България тел . + 359 2 491 41 40
 
 ## Česká republika
 
@@ -6314,17 +6260,27 @@ ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
 
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
-
 ## Danmark
 
 Eli Lilly Danmark A/S
 
 Tlf.: +45 45 26 60 00
+
+## Lietuva
+
+Eli Lilly Lietuva Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
+
+## Magyarország
+
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
 
 ## Malta
 
@@ -6512,19 +6468,9 @@ Read this before you inject Omvoh. Follow all the step-by-step instructions.
 
 ## Take the pens from the refrigerator
 
-## Gather supplies
-
-## Inspect the pens and the medicine
-
-<!-- image -->
-
-## Prepare for injection
-
-## Choose your injection site
-
-<!-- image -->
-
 Take 2 Omvoh pens from the refrigerator.
+
+## Gather supplies
 
 Leave the grey base caps on until you are ready to inject.
 
@@ -6535,6 +6481,16 @@ Do not microwave the pens, run hot water over them, or leave them in direct sunl
 Do not use the pens if the medicine is frozen. Do not shake.
 
 ## Supplies:
+
+## Inspect the pens and the medicine
+
+<!-- image -->
+
+## Prepare for injection
+
+## Choose your injection site
+
+<!-- image -->
 
 - 2  alcohol wipes
 - 2 cotton balls or pieces of gauze
@@ -6574,7 +6530,7 @@ Make sure the pen is locked.
 Leave the grey base cap on until you are ready to inject.
 
 - Twist off the grey base cap and throw it away in your household waste.
-- Do not put the grey base cap back on this could damage the needle.
+- Do not put the grey base cap back on - this could damage the needle.
 - Do not touch the needle.
 
 ## 2 Place and Unlock
@@ -6665,7 +6621,7 @@ A. Do not remove the grey base cap. Do not use the pen. Talk to your doctor or p
 
 Read the full package leaflet for Omvoh inside this box to learn more about your medicine.
 
-## Last revised in
+Last revised in
 
 ## Package leaflet: Information for the patient
 
@@ -6679,10 +6635,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -6705,8 +6661,8 @@ Ulcerative colitis is a chronic inflammatory disease of the large bowel. If you 
 
 ## Do not use Omvoh
 
-- -if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
-- -If you have important active infections (active tuberculosis).
+- if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
+- If you have important active infections (active tuberculosis).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6725,19 +6681,12 @@ Ulcerative colitis is a chronic inflammatory disease of the large bowel. If you 
 - If your doctor thinks you are at risk of an active tuberculosis, you may be given medicines to treat it.
 
 - o fever
-
-- o shortness of breath
-
 - o chills
-
+- o shortness of breath
 - o runny nose
-
 - o muscle aches
-
 - o sore throat
-
 - o cough
-
 - o pain during urination
 
 ## Vaccinations
@@ -6749,9 +6698,9 @@ Your doctor will check to see if you need any vaccinations before starting treat
 - Omvoh can potentially cause serious allergic reactions.
 - Stop using Omvoh and get emergency medical help right away if you develop any of the following symptoms of a serious allergic reaction:
 - o rash
+- o low blood pressure
 - o fainting
 - o dizziness
-- o low blood pressure
 - o swelling of the face, lips, mouth, tongue or throat, trouble breathing
 - o sensation of throat tightening or chest tightness.
 
@@ -6767,16 +6716,14 @@ Omvoh is not recommended for children and adolescents under 18 years of age beca
 
 Tell your doctor, pharmacist or nurse
 
-- -if you are using, have recently used or might use any other medicines.
-- -if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
+- if you are using, have recently used or might use any other medicines.
+- if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
 
 ## Pregnancy and breast-feeding
 
-If you are pregnant, think you may be pregnant, or are planning to have a baby, ask your doctor for advice before using this medicine. It is preferable to avoid the use of Omvoh in pregnancy. The effects of Omvoh in pregnant women are not known. If you are a woman of childbearing potential,
+If you are pregnant, think you may be pregnant, or are planning to have a baby, ask your doctor for advice before using this medicine. It is preferable to avoid the use of Omvoh in pregnancy. The effects of Omvoh in pregnant women are not known. If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and should use effective contraception while using Omvoh and for at least 10 weeks after the last Omvoh dose.
 
 <div style=\"page-break-after: always\"></div>
-
-you are advised to avoid becoming pregnant and should use effective contraception while using Omvoh and for at least 10 weeks after the last Omvoh dose.
 
 If you are breast-feeding or are planning to breast-feed, talk to your doctor before using this medicine.
 
@@ -6832,20 +6779,20 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Very common (may affect more than 1 in 10 people)
 
-- -Injection site reactions (e.g. red skin, pain)
+- Injection site reactions (e.g. red skin, pain)
 
 Common (may affect up to 1 in 10 people):
 
-- -Upper respiratory tract infections (nose and throat infections)
-- -Joint pain
-- -Headache
-- -Rash
+- Upper respiratory tract infections (nose and throat infections)
+- Joint pain
+- Headache
+- Rash
 
 Uncommon (may affect up to 1 in 100 people):
 
-- -Shingles
-- -Infusion-related allergic reaction (e.g. itch, hives)
-- -Increase in the level of liver enzymes in your blood.
+- Shingles
+- Infusion-related allergic reaction (e.g. itch, hives)
+- Increase in the level of liver enzymes in your blood.
 
 ## Reporting of side effects
 
@@ -6875,8 +6822,8 @@ Do not throw away any medicines via wastewater. Ask your doctor, nurse or pharma
 
 ## What Omvoh contains
 
-- -The active substance is mirikizumab. Each pre-filled pen contains 200 mg of mirikizumab in 2 mL solution.
-- -The other ingredients are histidine; histidine monohydrochloride; sodium chloride; mannitol (E 421); polysorbate 80 (E 433); water for injections.
+- The active substance is mirikizumab. Each pre-filled pen contains 200 mg of mirikizumab in 2 mL solution.
+- The other ingredients are histidine; histidine monohydrochloride; sodium chloride; mannitol (E 421); polysorbate 80 (E 433); water for injections.
 
 ## What Omvoh looks like and contents of the pack
 
@@ -6900,19 +6847,9 @@ For any information about this medicine, please contact the local representative
 
 Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
-## Lietuva
-
-Eli Lilly Lietuva Tel. +370 (5) 2649600
-
 ## България
 
 ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
@@ -6920,17 +6857,27 @@ ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
 
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
-
 ## Danmark
 
 Eli Lilly Danmark A/S
 
 Tlf.: +45 45 26 60 00
+
+## Lietuva
+
+Eli Lilly Lietuva Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
+
+## Magyarország
+
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
 
 ## Malta
 
@@ -6954,7 +6901,7 @@ Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -7100,7 +7047,19 @@ Before you use the Omvoh pens, read and carefully follow all the step-by-step in
 
 ## Take the pen from the refrigerator
 
+## Leave the grey base cap on until you are ready to inject.
+
 ## Gather supplies
+
+Leave the pen at room temperature for 45 minutes before injecting.
+
+Do not microwave the pen, run hot water over it, or leave it in direct sunlight.
+
+Do not use the pen if the medicine is frozen.
+
+Do not shake.
+
+Supplies:
 
 ## Inspect the pen and the medicine
 
@@ -7117,18 +7076,6 @@ Before you use the Omvoh pens, read and carefully follow all the step-by-step in
 You or another person may inject into these areas.
 
 Another person should inject into this area.
-
-## Leave the grey base cap on until you are ready to inject.
-
-Leave the pen at room temperature for 45 minutes before injecting.
-
-Do not microwave the pen, run hot water over it, or leave it in direct sunlight.
-
-Do not use the pen if the medicine is frozen.
-
-Do not shake.
-
-Supplies:
 
 - 1alcohol wipe
 - 1 cotton ball or piece of gauze
@@ -7167,7 +7114,7 @@ Make sure the pen is locked.
 Leave the grey base cap on until you are ready to inject.
 
 - Twist off the grey base cap and throw it away in your household waste.
-- Do not put the grey base cap back on this could damage the needle.
+- Do not put the grey base cap back on - this could damage the needle.
 - Do not touch the needle.
 
 <!-- image -->
@@ -7272,10 +7219,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -7300,8 +7247,8 @@ Crohn's disease is a chronic inflammatory disease of the digestive tract. If you
 
 ## Do not use Omvoh
 
-- -if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
-- -If you have important active infections (active tuberculosis).
+- if you are allergic to mirikizumab or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice before using Omvoh.
+- If you have important active infections (active tuberculosis).
 
 ## Warnings and precautions
 
@@ -7320,19 +7267,12 @@ Crohn's disease is a chronic inflammatory disease of the digestive tract. If you
 - If your doctor thinks you are at risk of an active tuberculosis, you may be given medicines to treat it.
 
 - o fever
-
-- o shortness of breath
-
 - o chills
-
+- o shortness of breath
 - o runny nose
-
 - o muscle aches
-
 - o sore throat
-
 - o cough
-
 - o pain during urination
 
 ## Vaccinations
@@ -7344,9 +7284,9 @@ Your doctor will check to see if you need any vaccinations before starting treat
 - Omvoh can potentially cause serious allergic reactions.
 - Stop using Omvoh and get emergency medical help right away if you develop any of the following symptoms of a serious allergic reaction:
 - o rash
+- o low blood pressure
 - o fainting
 - o dizziness
-- o low blood pressure
 - o swelling of the face, lips, mouth, tongue or throat, trouble breathing
 - o sensation of throat tightening or chest tightness.
 
@@ -7362,8 +7302,8 @@ Omvoh is not recommended for children and adolescents under 18 years of age beca
 
 Tell your doctor, pharmacist or nurse
 
-- -if you are using, have recently used or might use any other medicines.
-- -if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
+- if you are using, have recently used or might use any other medicines.
+- if you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Omvoh.
 
 ## Pregnancy and breast-feeding
 
@@ -7400,7 +7340,9 @@ Your doctor will decide how much Omvoh you need and for how long. Omvoh is for l
 
 Your doctor or nurse will tell you when to switch to subcutaneous injections. During maintenance therapy you and your doctor or nurse should decide if you should inject Omvoh yourself after training in subcutaneous injection technique. It is important not to try to inject yourself until you have been trained by your doctor or nurse. Your doctor or nurse will offer the necessary training.
 
-A caregiver may also give you your Omvoh injection after proper training. Use a reminder method such as notes in a calendar or diary to help you remember when to take your next dose so that you avoid missing or repeating doses.
+A caregiver may also give you your Omvoh injection after proper training. Use a reminder method such as notes in a calendar or diary to help you remember when to
+
+take your next dose so that you avoid missing or repeating doses.
 
 ## If you receive more Omvoh than you should
 
@@ -7424,20 +7366,20 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Very common (may affect more than 1 in 10 people)
 
-- -Injection site reactions (e.g. red skin, pain)
+- Injection site reactions (e.g. red skin, pain)
 
 Common (may affect up to 1 in 10 people):
 
-- -Upper respiratory tract infections (nose and throat infections)
-- -Joint pain
-- -Headache
-- -Rash
+- Upper respiratory tract infections (nose and throat infections)
+- Joint pain
+- Headache
+- Rash
 
 Uncommon (may affect up to 1 in 100 people):
 
-- -Shingles
-- -Infusion-related allergic reaction (e.g. itch, hives)
-- -Increase in the level of liver enzymes in your blood.
+- Shingles
+- Infusion-related allergic reaction (e.g. itch, hives)
+- Increase in the level of liver enzymes in your blood.
 
 ## Reporting of side effects
 
@@ -7467,9 +7409,9 @@ Do not throw away any medicines via wastewater. Ask your doctor, nurse or pharma
 
 ## What Omvoh contains
 
-- -The active substance is mirikizumab.
+- The active substance is mirikizumab.
 - One pre-filled pen contains 100 mg of mirikizumab in 1 mL solution and one pre-filled pen contains 200 mg of mirikizumab in 2 mL solution.
-- -The other ingredients are histidine; histidine monohydrochloride; sodium chloride; mannitol (E 421); polysorbate 80 (E 433); water for injections.
+- The other ingredients are histidine; histidine monohydrochloride; sodium chloride; mannitol (E 421); polysorbate 80 (E 433); water for injections.
 
 ## What Omvoh looks like and contents of the pack
 
@@ -7497,19 +7439,9 @@ Eli Lilly Benelux S.A./N.V.
 
 Tél/Tel: + 32-(0)2 548 84 84
 
-## Lietuva
-
-Eli Lilly Lietuva
-
-Tel. +370 (5) 2649600
-
 ## България
 
 ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
@@ -7517,23 +7449,11 @@ ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
 
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
-
 ## Danmark
 
 Eli Lilly Danmark A/S
 
 Tlf.: +45 45 26 60 00
-
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
 
 ## Deutschland
 
@@ -7541,15 +7461,37 @@ Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
 
+## Eesti
+
+Eli Lilly Nederland B.V.
+
+## Lietuva
+
+Eli Lilly Lietuva
+
+Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+
+## Magyarország
+
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
+
+## Malta
+
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
+
 ## Nederland
 
 Eli Lilly Nederland B.V.
 
 Tel: + 31-(0) 30 60 25 800
-
-## Eesti
-
-Eli Lilly Nederland B.V.
 
 ## Norge
 
@@ -7558,6 +7500,8 @@ Eli Lilly Norge A.S.
 <div style=\"page-break-after: always\"></div>
 
 Tel: +372 6 817 280
+
+Tlf: + 47 22 88 18 00
 
 ## Ελλάδα
 
@@ -7620,8 +7564,6 @@ Tel:
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
-
-Tlf: + 47 22 88 18 00
 
 ## Österreich
 
@@ -7719,19 +7661,9 @@ Bottom
 
 ## Take the pens from the refrigerator
 
-## Gather supplies
-
-## Inspect the pens and the medicine
-
-<!-- image -->
-
-## Prepare for injection
-
-## Choose your injection site
-
-<!-- image -->
-
 Take 2 Omvoh pens from the refrigerator.
+
+## Gather supplies
 
 Leave the grey base caps on until you are ready to inject.
 
@@ -7742,6 +7674,16 @@ Do not microwave the pens, run hot water over them, or leave them in direct sunl
 Do not use the pens if the medicine is frozen. Do not shake.
 
 ## Supplies:
+
+## Inspect the pens and the medicine
+
+<!-- image -->
+
+## Prepare for injection
+
+## Choose your injection site
+
+<!-- image -->
 
 - 2 alcohol wipes
 - 2 cotton balls or pieces of gauze
@@ -7781,16 +7723,17 @@ Make sure the pen is locked.
 Leave the grey base cap on until you are ready to inject.
 
 - Twist off the grey base cap and throw it away in your household waste.
-- Do not put the grey base cap back on this could damage the needle.
+- Do not put the grey base cap back on - this could damage the needle.
 - Do not touch the needle.
 
 ## 2 Place and Unlock
 
 - Place and hold the clear base flat and firmly against your skin.
+- Keep the base on your skin and turn the
 
 <!-- image -->
 
-Keep the base on your skin and turn the lock ring to the unlock position. 了
+lock ring to the unlock position.
 
 ## 3 Press and Hold for up to 15 Seconds
 

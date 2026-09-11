@@ -1,30 +1,26 @@
 ---
-document_datetime: 2025-10-07 15:08:12
-document_pages: 138
+document_datetime: 2026-09-08 16:36:40
+document_pages: 140
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/benlysta-epar-product-information_en.pdf
 document_name: benlysta-epar-product-information_en.pdf
 version: success
-processing_time: 46.8125305
-conversion_datetime: 2025-12-26 09:43:44.032007
+processing_time: 60.0820901
+conversion_datetime: 2026-09-11 17:26:11.000592
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -46,7 +42,7 @@ For the full list of excipients, see section 6.1.
 
 Solution for injection in pre-filled pen (injection)
 
-A clear to opalescent, colourless to pale yellow solution, with a pH of 6 and an osmolality of 270 -320 mOsm/kg.
+A clear to opalescent, colourless to pale yellow solution, with a pH of 6 and an osmolality of 270 - 320 mOsm/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -62,13 +58,13 @@ Benlysta treatment should be initiated and supervised by a qualified physician e
 
 For patients under 10 years of age, Benlysta pre-filled pen must be administered by a healthcare professional or trained caregiver.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Posology
 
 ## SLE
 
 The patient's condition should be evaluated continuously. Discontinuation of treatment with Benlysta is to be considered if there is no improvement in disease control after 6 months of treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Adults
 
@@ -108,13 +104,13 @@ If a patient with SLE is being transitioned from Benlysta intravenous administra
 
 If a patient with lupus nephritis is being transitioned from Benlysta intravenous administration to subcutaneous administration, it is recommended that the first dose of 200 mg subcutaneous injection be administered 1 to 2 weeks after the last intravenous dose. This transition can occur any time after the patient completes the first 2 intravenous doses (see section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
 ## Elderly
 
 Data on patients ≥ 65 years are limited (see section 5.1). Benlysta should be used with caution in the elderly. Dose adjustment is not required (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -154,12 +150,11 @@ Benlysta has not been studied in the following patient groups and is not recomme
 
 - severe active central nervous system lupus
 - HIV
-
-<div style=\"page-break-after: always\"></div>
-
 - a history of, or current, hepatitis B or C
 - hypogammaglobulinaemia (IgG &lt; 400 mg/dL) or IgA deficiency (IgA &lt; 10 mg/dL)
 - a history of major organ transplant or hematopoietic stem cell/marrow transplant or renal transplant.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Concomitant use with B cell targeted therapy
 
@@ -181,11 +176,11 @@ The mechanism of action of belimumab could increase the risk for the development
 
 In controlled clinical intravenous and subcutaneous studies, psychiatric disorders (depression, suicidal ideation and behaviour including suicides) have been reported more frequently in patients receiving Benlysta (see section 4.8) . Physicians should assess the risk of depression and suicide considering the patient's medical history and current psychiatric status before treatment with Benlysta and continue to monitor patients during treatment. Physicians must advise patients (and caregivers where appropriate) to contact their health care provider about new or worsening psychiatric symptoms. In patients who experience such symptoms, treatment discontinuation is to be considered.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Severe cutaneous adverse reactions
 
 Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), which can be life-threatening or fatal, have been reported in association with Benlysta treatment. Patients should be advised of the signs and symptoms of SJS and TEN and monitored closely for skin reactions. If signs and symptoms suggestive of these reactions appear, Benlysta should be withdrawn immediately, and an alternative treatment should be considered. If the patient has developed SJS or TEN with the use of Benlysta, treatment with Benlysta must not be restarted in this patient at any time.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Progressive multifocal leukoencephalopathy
 
@@ -209,15 +204,13 @@ This medicinal product contains polysorbate 80 (see section 2), which may cause 
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium - free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-No in vivo interaction studies have been performed. The formation of some CYP450 enzymes is suppressed by increased levels of certain cytokines during chronic inflammation. It is not known if belimumab could be
+No in vivo interaction studies have been performed. The formation of some CYP450 enzymes is suppressed by increased levels of certain cytokines during chronic inflammation. It is not known if belimumab could be an indirect modulator of such cytokines. A risk for indirect reduction of CYP activity by belimumab cannot be excluded. On initiation or discontinuation of belimumab, therapeutic monitoring is to be considered for patients being treated with CYP substrates with a narrow therapeutic index, where the dose is individually adjusted (e.g. warfarin).
 
 <div style=\"page-break-after: always\"></div>
-
-an indirect modulator of such cytokines. A risk for indirect reduction of CYP activity by belimumab cannot be excluded. On initiation or discontinuation of belimumab, therapeutic monitoring is to be considered for patients being treated with CYP substrates with a narrow therapeutic index, where the dose is individually adjusted (e.g. warfarin).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -249,11 +242,9 @@ No studies on the effects on the ability to drive and use machines have been per
 
 The safety of belimumab in patients with SLE has been evaluated in three pre-registration placebo-controlled intravenous studies and one subsequent regional placebo-controlled intravenous study, one placebocontrolled subcutaneous study, and two post-marketing placebo-controlled intravenous studies; the safety in patients with active lupus nephritis has been evaluated in one placebo-controlled intravenous study.
 
-The data presented in the table below reflect exposure in 674 patients with SLE from the three preregistration clinical studies and 470 patients in the subsequent placebo-controlled study administered Benlysta intravenously (10 mg/kg body weight over a 1-hour period on Days 0, 14, 28, and then every 28 days for up to 52 weeks), and 556 patients with SLE exposed to Benlysta subcutaneously (200 mg once weekly up to 52 weeks). The safety data presented include data beyond Week 52 in some patients with SLE. The data reflect additional exposure in 224 patients with active lupus nephritis who received Benlysta
+The data presented in the table below reflect exposure in 674 patients with SLE from the three preregistration clinical studies and 470 patients in the subsequent placebo-controlled study administered Benlysta intravenously (10 mg/kg body weight over a 1-hour period on Days 0, 14, 28, and then every 28 days for up to 52 weeks), and 556 patients with SLE exposed to Benlysta subcutaneously (200 mg once weekly up to 52 weeks). The safety data presented include data beyond Week 52 in some patients with SLE. The data reflect additional exposure in 224 patients with active lupus nephritis who received Benlysta intravenously (10 mg/kg body weight for up to 104 weeks). Data from post-marketing reports are also included.
 
 <div style=\"page-break-after: always\"></div>
-
-intravenously (10 mg/kg body weight for up to 104 weeks). Data from post-marketing reports are also included.
 
 The majority of patients were also receiving one or more of the following concomitant treatments for SLE: corticosteroids, immunomodulatory medicinal products, anti-malarials, non-steroidal anti-inflammatory medicinal products.
 
@@ -269,9 +260,9 @@ Adverse reactions are listed below by MedDRA system organ class and by frequency
 
 Very common
 
- 1/10
-
 Common
+
+ 1/10
 
  1/100 to &lt; 1/10
 
@@ -283,9 +274,7 @@ Rare
 
  1/10 000 to &lt; 1/1000
 
-Not known
-
-cannot be estimated from the available data.
+Not known cannot be estimated from the available data.
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. The frequency given is the highest seen with either formulation.
 
@@ -437,13 +426,13 @@ The SLE Responder Index measures improvement in SLE disease activity, without wo
 
 Table 1. Response rate at Week 52
 
-| Response 1                                                                          | Placebo 2 (n = 279)   | Benlysta 2 200 mg weekly (n = 554)   |
-|-------------------------------------------------------------------------------------|-----------------------|--------------------------------------|
-| SLE responder index Observed difference vs. placebo Odds ratio (95 %CI) vs. placebo | 48.4%                 | 61.4% (p = 0.0006) 12.98% 1.68       |
-| Components of SLE responder index                                                   |                       |                                      |
-| Percent of patients with reduction in SELENA-SLEDAI  4                             | 49.1%                 | 62.3% (p = 0.0005)                   |
-| Percent of patients with no worsening by BILAG index                                | 74.2%                 | 80.9% (p = 0.0305)                   |
-| Percent of patients with no worsening by PGA                                        | 72.8%                 | 81.2% (p = 0.0061)                   |
+| Response 1                                                                           | Placebo 2 (n = 279)   | Benlysta 2 200 mg weekly (n = 554)   |
+|--------------------------------------------------------------------------------------|-----------------------|--------------------------------------|
+| SLE responder index Observed difference vs. placebo Odds ratio (95 % CI) vs. placebo | 48.4 %                | 61.4 % (p = 0.0006) 12.98 % 1.68     |
+| Components of SLE responder index                                                    |                       | (1.25, 2.25)                         |
+| Percent of patients with reduction in SELENA-SLEDAI  4                              | 49.1 %                | 62.3 % (p = 0.0005)                  |
+| Percent of patients with no worsening by BILAG index                                 | 74.2 %                | 80.9 % (p = 0.0305)                  |
+| Percent of patients with no worsening by PGA                                         | 72.8 %                | 81.2 % (p = 0.0061)                  |
 
 1 Analyses excluded any subject missing a baseline assessment for any of the components (1 for placebo; 2 for Benlysta).
 
@@ -469,19 +458,16 @@ An additional, previously identified serologically active group, those patients 
 
 Table 2. Patients with low complement and positive anti-dsDNA at baseline
 
-|                                                                                                                                                                  | Anti-dsDNA positive AND low complement   | Anti-dsDNA positive AND low complement             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------|
-| Subgroup                                                                                                                                                         | Placebo                                  | Benlysta 200 mg weekly                             |
-| SRI response rate at Week 52 1 (%) Observed treatment difference vs. placebo (%)                                                                                 | (n = 108) 47.2                           | (n = 246) 64.6 (p = 0.0014) 17.41                  |
-| Severe flares over 52 weeks: Patients experiencing a severe flare (%) Observed treatment difference vs. placebo (%) Time to severe flare [Hazard ratio (95 %CI)] | (n = 108) 31.5                           | (n = 248) 14.1 17.4 0.38 (0.24, 0.61) (p < 0.0001) |
-| Prednisone reduction by ≥ 25 %from baseline to ≤ 7.5 mg/day during weeks 24 through 52 2 (%) Observed treatment difference vs. placebo (%)                       | (n = 70) 11.4                            | (n = 164) 20.7 (p = 0.0844) 9.3                    |
-| FACIT-fatigue score improvement from baseline at Week 52 (mean): Observed treatment difference vs. placebo (median difference)                                   | (n = 108) 2.4                            | (n = 248) 4.6 (p = 0.0324) 2.1                     |
+| Subgroup                                                                                                                                                          | Anti-dsDNA positive AND low complement - Placebo   | Anti-dsDNA positive AND low complement - Benlysta 200 mg weekly   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------|
+| SRI response rate at Week 52 1 (%) Observed treatment difference vs. placebo (%)                                                                                  | (n = 108) 47.2                                     | (n = 246) 64.6 (p = 0.0014) 17.41                                 |
+| Severe flares over 52 weeks: Patients experiencing a severe flare (%) Observed treatment difference vs. placebo (%) Time to severe flare [Hazard ratio (95 % CI)] | (n = 108) 31.5                                     | (n = 248) 14.1 17.4 0.38 (0.24, 0.61) (p < 0.0001)                |
+| Prednisone reduction by ≥ 25 % from baseline to ≤ 7.5 mg/day during weeks 24 through 52 2 (%) Observed treatment difference vs. placebo (%)                       | (n = 70) 11.4                                      | (n = 164) 20.7 (p = 0.0844) 9.3                                   |
+| FACIT-fatigue score improvement from baseline at Week 52 (mean): Observed treatment difference vs. placebo (median difference)                                    | (n = 108) 2.4                                      | (n = 248) 4.6 (p = 0.0324) 2.1                                    |
 
-The efficacy and safety of Benlysta in combination with a single cycle of rituximab have been studied in a Phase III, randomised, double-blind, placebo-controlled 104-week study including 292 patients (BLISSBELIEVE). The primary endpoint was the proportion of subjects with a state of disease control defined as a
+The efficacy and safety of Benlysta in combination with a single cycle of rituximab have been studied in a Phase III, randomised, double-blind, placebo-controlled 104-week study including 292 patients (BLISSBELIEVE). The primary endpoint was the proportion of subjects with a state of disease control defined as a SLEDAI2K score ≤ 2, achieved without immunosuppressants and with corticosteroids at a prednisone equivalent dose of ≤ 5 mg/day at Week 52. This was achieved in 19.4 % (n = 28/144) of the patients treated with Benlysta in combination with rituximab and in 16.7 % (n = 12/72) of the patients treated with Benlysta in combination with placebo (odds ratio 1.27; 95 % CI: 0.60, 2.71; p = 0.5342). A higher frequency of adverse events (91.7 % vs. 87.5 %), serious adverse events (22.2 % vs. 13.9 %) and serious infections (9.0 % vs. 2.8 %) were observed in patients treated with Benlysta in combination with rituximab as compared to Benlysta in combination with placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-SLEDAI2K score ≤ 2, achieved without immunosuppressants and with corticosteroids at a prednisone equivalent dose of ≤ 5 mg/day at Week 52. This was achieved in 19.4 % (n = 28/144) of the patients treated with Benlysta in combination with rituximab and in 16.7 % (n = 12/72) of the patients treated with Benlysta in combination with placebo (odds ratio 1.27; 95 % CI: 0.60, 2.71; p = 0.5342). A higher frequency of adverse events (91.7 % vs. 87.5 %), serious adverse events (22.2 % vs. 13.9 %) and serious infections (9.0 % vs. 2.8 %) were observed in patients treated with Benlysta in combination with rituximab as compared to Benlysta in combination with placebo.
 
 ## Lupus nephritis
 
@@ -516,20 +502,20 @@ The proportion of patients achieving PERR at Week 104 was significantly higher i
 
 Table 3. Efficacy results in adult patients with lupus nephritis
 
-| Efficacy endpoint                                                                                                | Placebo (n = 223)   | Benlysta 10 mg/kg (n = 223)   | Observed difference vs. placebo   | Odds/Hazard ratio vs. placebo (95 %CI)   | P- value   |
-|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------------------|-----------------------------------|------------------------------------------|------------|
-| PERR at Week 104 1 Responders                                                                                    | 32.3%               | 43.0%                         | 10.8%                             | OR 1.55 (1.04, 2.32)                     | 0.0311     |
-| Components of PERR                                                                                               |                     |                               |                                   |                                          |            |
-| Urine protein:creatinine ratio ≤ 700 mg/g (79.5 mg/mmol)                                                         | 33.6%               | 44.4%                         | 10.8%                             | OR 1.54 (1.04, 2.29)                     | 0.0320     |
-| eGFR≥ 60 mL/min/1.73m 2 or no decrease in eGFR from pre-flare value of > 20%                                     | 50.2%               | 57.4%                         | 7.2%                              | OR 1.32 (0.90, 1.94)                     | 0.1599     |
-| Not treatment failure³                                                                                           | 74.4%               | 83.0%                         | 8.5%                              | OR 1.65 (1.03, 2.63)                     | 0.0364     |
-| CRR at Week 104 1 Responders                                                                                     | 19.7%               | 30.0%                         | 10.3%                             | OR 1.74 (1.11, 2.74)                     | 0.0167     |
-| Components of CRR                                                                                                |                     |                               |                                   |                                          |            |
-| Urine protein:creatinine ratio < 500 mg/g (56.8 mg/mmol)                                                         | 28.7%               | 39.5%                         | 10.8%                             | OR 1.58 (1.05, 2.38)                     | 0.0268     |
-| eGFR≥ 90 mL/min/1.73m 2 or no decrease in eGFR from pre-flare value of > 10%                                     | 39.9%               | 46.6%                         | 6.7%                              | OR 1.33 (0.90, 1.96)                     | 0.1539     |
-| Not treatment failure³                                                                                           | 74.4%               | 83.0%                         | 8.5%                              | OR 1.65 (1.03, 2.63)                     | 0.0364     |
-| PERR at Week 52 1 Responders                                                                                     | 35.4%               | 46.6%                         | 11.2%                             | OR 1.59 (1.06, 2.38)                     | 0.0245     |
-| Time to renal-related event or death 1 Percentage of patients with event 2 Time to event [Hazard ratio (95 %CI)] | 28.3%               | 15.7%                         | - -                               | HR 0.51 (0.34, 0.77)                     | 0.0014     |
+| Efficacy endpoint                                                                                                 | Placebo (n = 223)   | Benlysta 10 mg/kg (n = 223)   | Observed difference vs. placebo   | Odds/Hazard ratio vs. placebo (95 % CI)   |   P- value |
+|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------------------|-----------------------------------|-------------------------------------------|------------|
+| PERR at Week 104 1 Responders                                                                                     | 32.3 %              | 43.0 %                        | 10.8 %                            | OR 1.55 (1.04, 2.32)                      |     0.0311 |
+| Components of PERR                                                                                                |                     |                               |                                   |                                           |            |
+| Urine protein:creatinine ratio ≤ 700 mg/g (79.5 mg/mmol)                                                          | 33.6 %              | 44.4 %                        | 10.8 %                            | OR 1.54 (1.04, 2.29)                      |     0.0320 |
+| eGFR≥ 60 mL/min/1.73 m 2 or no decrease in eGFR from pre-flare value of > 20 %                                    | 50.2 %              | 57.4 %                        | 7.2 %                             | OR 1.32 (0.90, 1.94)                      |     0.1599 |
+| Not treatment failure³                                                                                            | 74.4 %              | 83.0 %                        | 8.5 %                             | OR 1.65 (1.03, 2.63)                      |     0.0364 |
+| CRR at Week 104 1 Responders                                                                                      | 19.7 %              | 30.0 %                        | 10.3 %                            | OR 1.74 (1.11, 2.74)                      |     0.0167 |
+| Components of CRR                                                                                                 |                     |                               |                                   |                                           |            |
+| Urine protein:creatinine ratio < 500 mg/g (56.8 mg/mmol)                                                          | 28.7 %              | 39.5 %                        | 10.8 %                            | OR 1.58 (1.05, 2.38)                      |     0.0268 |
+| eGFR≥ 90 mL/min/1.73 m 2 or no decrease in eGFR from pre-flare value of > 10 %                                    | 39.9 %              | 46.6 %                        | 6.7 %                             | OR 1.33 (0.90, 1.96)                      |     0.1539 |
+| Not treatment failure³                                                                                            | 74.4 %              | 83.0 %                        | 8.5 %                             | OR 1.65 (1.03, 2.63)                      |     0.0364 |
+| PERR at Week 52 1 Responders                                                                                      | 35.4 %              | 46.6 %                        | 11.2 %                            | OR 1.59 (1.06, 2.38)                      |     0.0245 |
+| Time to renal-related event or death 1 Percentage of patients with event 2 Time to event [Hazard ratio (95 % CI)] | 28.3 %              | 15.7 %                        | - -                               | HR 0.51 (0.34, 0.77)                      |     0.0014 |
 
 A numerically greater percentage of patients receiving Benlysta achieved PERR beginning at Week 24 compared with placebo, and this treatment difference was maintained through to Week 104. Beginning at Week 12, a numerically greater percentage of patients receiving Benlysta achieved CRR compared with placebo and the numerical difference was maintained through to Week 104 (Figure 2).
 
@@ -539,13 +525,63 @@ Figure 2. Response rates in adults with lupus nephritis by visit
 
 Primary Efficacy Renal Response (PERR)
 
+I
+
+工I
+
+100
+
+90
+
+Responders (%) +/- SE
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+8
+
+12
+
+16
+
+20
+
+24
+
+28
+
+32
+
+H
+
+T
+
+工H
+
+36
+
 Benlysta + Standard therapy (n = 223)
 
 Placebo + Standard therapy (n = 223)
 
-48
-
 40
+
+48
 
 52
 
@@ -557,6 +593,30 @@ Placebo + Standard therapy (n = 223)
 
 68
 
+72
+
+76
+
+80
+
+工I
+
+84
+
+88
+
+工I
+
+92
+
+工I
+
+IH
+
+96
+
+100 104
+
 Time (weeks)
 
 Complete Renal Response (CRR)
@@ -565,59 +625,25 @@ Complete Renal Response (CRR)
 
 In descriptive subgroup analyses, key efficacy endpoints (PERR and CRR) were examined by induction regimen (mycophenolate or cyclophosphamide) and biopsy class (Class III or IV, Class III + V or Class IV + V, or Class V) (Figure 3).
 
-72
-
-76
-
-Responders (%) +/- SE
-
-9
-
-8
-
-7
-
-6
-
-5
-
-4
-
-3
-
-2
-
-1
-
-80
-
-84
-
-88
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 3. Odds ratio of PERR and CRR at Week 104 across subgroups
 
-<!-- image -->
-
-| Subgroup                                  |                  | Response rate   | Response rate   |                     |
-|-------------------------------------------|------------------|-----------------|-----------------|---------------------|
-| Benlysta (n) versus Placebo (n)           |                  | Placebo (%)     | Benlysta (%)    | Odds ratio (95 %CI) |
-| Induction regimen Favours Placebo         | Favours Benlysta |                 |                 |                     |
-| Mycophenolate (164 vs. 164)               |                  | 34              | 46              | 1.6 (1.0, 2.5)      |
-|                                           |                  | 20              | 34              | 2.0 (1.2, 3.4)      |
-| Cyclophosphamide (59 vs. 59)              |                  | 27              | 34              | 1.5 (0.7, 3.5)      |
-|                                           |                  | 19              | 19              | 1.1 (0.4, 2.8)      |
-| Biopsy class                              |                  |                 |                 |                     |
-| Class III or Class IV (126 vs. 132)       |                  | 32              | 48              | 1.8 (1.1, 3.1)      |
-|                                           |                  | 19              | 31              | 1.8 (1.0, 3.2)      |
-| Class III + V or Class IV + V (61 vs. 55) |                  | 27              | 38              | 1.8 (0.8, 4.0)      |
-|                                           |                  | 15              | 26              | 2.8 (1.0, 7.7)      |
-| Class V (36 vs. 36)                       |                  |                 |                 |                     |
-|                                           |                  | 42              | 36              | 0.6 (0.2, 1.9)      |
-|                                           |                  | 31              | 33              | 0.8 (0.3, 2.6)      |
-| Odds ratio 0.1 0.2 0.5 1                  | 2 4 8            |                 |                 |                     |
+| Subgroup - Benlysta (n) versus Placebo (n) - Induction regimen Favours Placebo   | Favours Benlysta   |   Response rate - Placebo (%) |   Response rate - Benlysta (%) | Odds ratio (95 % CI)   |
+|----------------------------------------------------------------------------------|--------------------|-------------------------------|--------------------------------|------------------------|
+| Mycophenolate (164 vs. 164)                                                      |                    |                            34 |                             46 | 1.6 (1.0, 2.5)         |
+|                                                                                  |                    |                            20 |                             34 | 2.0 (1.2, 3.4)         |
+| Cyclophosphamide (59 vs. 59)                                                     |                    |                            27 |                             34 | 1.5 (0.7, 3.5)         |
+|                                                                                  |                    |                            19 |                             19 | 1.1 (0.4, 2.8)         |
+| Biopsy class                                                                     |                    |                               |                                |                        |
+| Class III or Class IV (126 vs. 132)                                              |                    |                            32 |                             48 | 1.8 (1.1, 3.1)         |
+|                                                                                  |                    |                            19 |                             31 | 1.8 (1.0, 3.2)         |
+| Class III + V or Class IV + V (61 vs. 55)                                        |                    |                            27 |                             38 | 1.8 (0.8, 4.0)         |
+|                                                                                  |                    |                            15 |                             26 | 2.8 (1.0, 7.7)         |
+| Class V (36 vs. 36)                                                              |                    |                               |                                |                        |
+|                                                                                  |                    |                            42 |                             36 | 0.6 (0.2, 1.9)         |
+|                                                                                  |                    |                            31 |                             33 | 0.8 (0.3, 2.6)         |
+| Odds ratio 0.1 0.2 0.5 1                                                         | 2 4 8              |                               |                                |                        |
 
 Primary Efficacy Renal Response (PERR)
 
@@ -653,13 +679,13 @@ The primary efficacy endpoint was the SLE Responder Index (SRI) at Week 52 as de
 
 Table 4. Paediatric response rate at Week 52
 
-| Response 1                                                                                  | Placebo (n = 40)   | Benlysta 10 mg/kg (n = 53)     |
-|---------------------------------------------------------------------------------------------|--------------------|--------------------------------|
-| SLE Responder Index (%) Odds ratio (95 %CI) vs. placebo                                     | 43.6 (17/39)       | 52.8 (28/53) 1.49 (0.64, 3.46) |
-| Components of SLE Responder Index                                                           |                    |                                |
-| Percent of patients with reduction in SELENA-SLEDAI  4 (%) Odds ratio (95 %CI) vs. placebo | 43.6 (17/39)       | 54.7 (29/53) 1.62 (0.69, 3.78) |
-| Percent of patients with no worsening by BILAG index (%) Odds ratio (95 %CI) vs. placebo    | 61.5 (24/39)       | 73.6 (39/53) 1.96 (0.77, 4.97) |
-| Percent of patients with no worsening by PGA (%) Odds ratio (95 %CI) vs. placebo            | 66.7 (26/39)       | 75.5 (40/53) 1.70 (0.66, 4.39) |
+| Response 1                                                                                   | Placebo (n = 40)   | Benlysta 10 mg/kg (n = 53)     |
+|----------------------------------------------------------------------------------------------|--------------------|--------------------------------|
+| SLE Responder Index (%) Odds ratio (95 % CI) vs. placebo                                     | 43.6 (17/39)       | 52.8 (28/53) 1.49 (0.64, 3.46) |
+| Components of SLE Responder Index                                                            |                    |                                |
+| Percent of patients with reduction in SELENA-SLEDAI  4 (%) Odds ratio (95 % CI) vs. placebo | 43.6 (17/39)       | 54.7 (29/53) 1.62 (0.69, 3.78) |
+| Percent of patients with no worsening by BILAG index (%) Odds ratio (95 % CI) vs. placebo    | 61.5 (24/39)       | 73.6 (39/53) 1.96 (0.77, 4.97) |
+| Percent of patients with no worsening by PGA (%) Odds ratio (95 % CI) vs. placebo            | 66.7 (26/39)       | 75.5 (40/53) 1.70 (0.66, 4.39) |
 
 1 Analyses excluded any subject missing a baseline assessment for any of the components (1 for placebo).
 
@@ -671,12 +697,11 @@ Using the Paediatric Rheumatology International Trials Organisation/American Col
 
 ## Table 5. PRINTO/ACR response rate at Week 52
 
-|                                 | Proportion of patients with at least 50 %improvement in any 2 of 5 components 1 and no more than one of the remaining worsening by more than30%   | Proportion of patients with at least 50 %improvement in any 2 of 5 components 1 and no more than one of the remaining worsening by more than30%   | Proportion of patients with at least 30 %improvement in 3 of 5 components 1 and no more than one of the remaining worsening more than30%   | Proportion of patients with at least 30 %improvement in 3 of 5 components 1 and no more than one of the remaining worsening more than30%   |
-|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-|                                 | Placebo n = 40                                                                                                                                    | Benlysta 10 mg/kg n = 53                                                                                                                          | Placebo n = 40                                                                                                                             | Benlysta 10 mg/kg n = 53                                                                                                                   |
-| Response, n (%)                 | 14/40 (35.0)                                                                                                                                      | 32/53 (60.4)                                                                                                                                      | 11/40 (27.5)                                                                                                                               | 28/53 (52.8)                                                                                                                               |
-| Observed difference vs. Placebo |                                                                                                                                                   | 25.38                                                                                                                                             |                                                                                                                                            | 25.33                                                                                                                                      |
-| Odds ratio (95 %CI) vs. Placebo |                                                                                                                                                   | 2.74 (1.15, 6.54)                                                                                                                                 |                                                                                                                                            | 2.92 (1.19, 7.17)                                                                                                                          |
+|                                  | Proportion of patients with at least 50 % improvement in any 2 of 5 components 1 and no more than one of the remaining worsening by more than 30 % - Placebo n = 40   | Proportion of patients with at least 50 % improvement in any 2 of 5 components 1 and no more than one of the remaining worsening by more than 30 % - Benlysta 10 mg/kg n = 53   | Proportion of patients with at least 30 % improvement in 3 of 5 components 1 and no more than one of the remaining worsening more than 30 % - Placebo n = 40   | Proportion of patients with at least 30 % improvement in 3 of 5 components 1 and no more than one of the remaining worsening more than 30 % - Benlysta 10 mg/kg n = 53   |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Response, n (%)                  | 14/40 (35.0)                                                                                                                                                          | 32/53 (60.4)                                                                                                                                                                    | 11/40 (27.5)                                                                                                                                                   | 28/53 (52.8)                                                                                                                                                             |
+| Observed difference vs. Placebo  |                                                                                                                                                                       | 25.38                                                                                                                                                                           |                                                                                                                                                                | 25.33                                                                                                                                                                    |
+| Odds ratio (95 % CI) vs. Placebo |                                                                                                                                                                       | 2.74 (1.15, 6.54)                                                                                                                                                               |                                                                                                                                                                | 2.92 (1.19, 7.17)                                                                                                                                                        |
 
 ## 5.2 Pharmacokinetic properties
 
@@ -702,11 +727,9 @@ Following subcutaneous administration, belimumab had a terminal half-life of 18.
 
 ## Lupus nephritis study
 
-A population pharmacokinetic analysis was conducted in 224 adult patients with lupus nephritis who received Benlysta 10 mg/kg body weight intravenously (Days 0, 14, 28, and then every 28 days up to 104 weeks). In patients with lupus nephritis, due to renal disease activity, belimumab clearance was initially
+A population pharmacokinetic analysis was conducted in 224 adult patients with lupus nephritis who received Benlysta 10 mg/kg body weight intravenously (Days 0, 14, 28, and then every 28 days up to 104 weeks). In patients with lupus nephritis, due to renal disease activity, belimumab clearance was initially higher than observed in SLE studies; however, after 24 weeks of treatment and throughout the remainder of the study, belimumab clearance and exposure were similar to that observed in adult patients with SLE who received belimumab 10 mg/kg body weight intravenously.
 
 <div style=\"page-break-after: always\"></div>
-
-higher than observed in SLE studies; however, after 24 weeks of treatment and throughout the remainder of the study, belimumab clearance and exposure were similar to that observed in adult patients with SLE who received belimumab 10 mg/kg body weight intravenously.
 
 Based on population pharmacokinetic modelling and simulation, the steady-state average concentrations of subcutaneous administration of belimumab 200 mg once weekly in adults with lupus nephritis are predicted to be similar to those observed in adults with lupus nephritis receiving belimumab 10 mg/kg body weight intravenously every 4 weeks.
 
@@ -726,11 +749,9 @@ Hepatic impairment: No specific studies have been conducted to examine the effec
 
 The effects of body weight and BMI on belimumab exposure after subcutaneous administration in adults were not considered clinically meaningful. There was no significant impact on efficacy and safety based on weight. Therefore, no dose adjustment in adults is recommended.
 
-The effects of body weight on belimumab exposure after subcutaneous administration in paediatric patients have been determined using a population pharmacokinetic model. Paediatric patients with lower body weight have lower belimumab clearance and volume of distribution resulting in increased exposure. To ensure
+The effects of body weight on belimumab exposure after subcutaneous administration in paediatric patients have been determined using a population pharmacokinetic model. Paediatric patients with lower body weight have lower belimumab clearance and volume of distribution resulting in increased exposure. To ensure belimumab exposures remain within acceptable limits and are consistent across the paediatric weight range, patients with lower body weight are dosed belimumab less frequently (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-belimumab exposures remain within acceptable limits and are consistent across the paediatric weight range, patients with lower body weight are dosed belimumab less frequently (see section 4.2).
 
 ## Transitioning from intravenous to subcutaneous administration
 
@@ -760,11 +781,9 @@ As belimumab is a monoclonal antibody no genotoxicity studies have been conducte
 
 ## 6.1 List of excipients
 
-Arginine hydrochloride Histidine Histidine monohydrochloride Polysorbate 80 (E 433) Sodium chloride
+Arginine hydrochloride Histidine Histidine monohydrochloride Polysorbate 80 (E 433) Sodium chloride Water for injection
 
 <div style=\"page-break-after: always\"></div>
-
-Water for injection
 
 ## 6.2 Incompatibilities
 
@@ -824,10 +843,6 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Benlysta 200 mg solution for injection in pre-filled syringe.
@@ -848,7 +863,7 @@ For the full list of excipients, see section 6.1.
 
 Solution for injection in pre-filled syringe (injection)
 
-A clear to opalescent, colourless to pale yellow solution, with a pH of 6 and an osmolality of 270 -320 mOsm/kg.
+A clear to opalescent, colourless to pale yellow solution, with a pH of 6 and an osmolality of 270 - 320 mOsm/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -862,13 +877,13 @@ Benlysta is indicated in combination with background immunosuppressive therapies
 
 Benlysta treatment should be initiated and supervised by a qualified physician experienced in the diagnosis and treatment of SLE. It is recommended that the first subcutaneous injection of Benlysta is given under the supervision of a healthcare professional in a setting that is sufficiently qualified to manage hypersensitivity reactions, if necessary. The healthcare professional must provide proper training in subcutaneous technique and education about signs and symptoms of hypersensitivity reactions (see section 4.4). A patient may selfinject, or the patient caregiver may administer Benlysta after the healthcare professional determines that it is appropriate.
 
-<div style=\"page-break-after: always\"></div>
-
-## Posology
+Posology
 
 ## SLE
 
 The recommended dose is 200 mg once weekly, administered subcutaneously. Dosing is not based on weight (see section 5.2). The patient's condition should be evaluated continuously. Discontinuation of treatment with Benlysta is to be considered if there is no improvement in disease control after 6 months of treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Lupus nephritis
 
@@ -902,11 +917,11 @@ Data on patients ≥ 65 years are limited (see section 5.1). Benlysta should be 
 
 Belimumab has been studied in a limited number of SLE patients with renal impairment. On the basis of the available information, dose adjustment is not required in patients with mild, moderate or severe renal impairment. Caution is however recommended in patients with severe renal impairment due to the lack of data (see section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic impairment
 
 No specific studies with Benlysta have been conducted in patients with hepatic impairment. Patients with hepatic impairment are unlikely to require dose adjustment (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -944,11 +959,11 @@ Benlysta has not been studied in the following patient groups and is not recomme
 - hypogammaglobulinaemia (IgG &lt; 400 mg/dL) or IgA deficiency (IgA &lt; 10 mg/dL)
 - a history of major organ transplant or hematopoietic stem cell/marrow transplant or renal transplant.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Concomitant use with B cell targeted therapy
 
 Available data do not support the co-administration of rituximab with Benlysta in patients with SLE (see section 5.1). Caution needs to be exercised if Benlysta is co-administered with other B cell targeted therapy.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hypersensitivity
 
@@ -968,11 +983,9 @@ In controlled clinical intravenous and subcutaneous studies, psychiatric disorde
 
 ## Severe cutaneous adverse reactions
 
-Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), which can be life-threatening or fatal, have been reported in association with Benlysta treatment. Patients should be advised of the signs and symptoms of SJS and TEN and monitored closely for skin reactions. If signs and symptoms suggestive of
+Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), which can be life-threatening or fatal, have been reported in association with Benlysta treatment. Patients should be advised of the signs and symptoms of SJS and TEN and monitored closely for skin reactions. If signs and symptoms suggestive of these reactions appear, Benlysta should be withdrawn immediately, and an alternative treatment should be considered. If the patient has developed SJS or TEN with the use of Benlysta, treatment with Benlysta must not be restarted in this patient at any time.
 
 <div style=\"page-break-after: always\"></div>
-
-these reactions appear, Benlysta should be withdrawn immediately, and an alternative treatment should be considered. If the patient has developed SJS or TEN with the use of Benlysta, treatment with Benlysta must not be restarted in this patient at any time.
 
 ## Progressive multifocal leukoencephalopathy
 
@@ -996,7 +1009,7 @@ This medicinal product contains polysorbate 80 (see section 2), which may cause 
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium - free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -1050,25 +1063,12 @@ Severe cutaneous adverse reactions : Stevens-Johnson syndrome (SJS) and toxic ep
 
 Adverse reactions are listed below by MedDRA system organ class and by frequency. The frequency categories used are:
 
-Very common
-
- 1/10
-
-Common
-
- 1/100 to &lt; 1/10
-
-Uncommon
-
- 1/1000 to &lt; 1/100
-
-Rare
-
- 1/10 000 to &lt; 1/1000
-
-Not known
-
-cannot be estimated from the available data.
+| Very common   |  1/10                                       |
+|---------------|----------------------------------------------|
+| Common        |  1/100 to < 1/10                            |
+| Uncommon      |  1/1000 to < 1/100                          |
+| Rare          |  1/10 000 to < 1/1000                       |
+| Not known     | cannot be estimated from the available data. |
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. The frequency given is the highest seen with either formulation.
 
@@ -1220,13 +1220,13 @@ The SLE Responder Index measures improvement in SLE disease activity, without wo
 
 Table 1. Response rate at Week 52
 
-| Response 1                                                                          | Placebo 2 (n = 279)   | Benlysta 2 200 mg weekly (n = 554)   |
-|-------------------------------------------------------------------------------------|-----------------------|--------------------------------------|
-| SLE responder index Observed difference vs. placebo Odds ratio (95 %CI) vs. placebo | 48.4%                 | 61.4% (p = 0.0006) 12.98% 1.68       |
-| Components of SLE responder index                                                   |                       |                                      |
-| Percent of patients with reduction in SELENA-SLEDAI  4                             | 49.1%                 | 62.3% (p = 0.0005)                   |
-| Percent of patients with no worsening by BILAG index                                | 74.2%                 | 80.9% (p = 0.0305)                   |
-| Percent of patients with no worsening by PGA                                        | 72.8%                 | 81.2% (p = 0.0061)                   |
+| Response 1                                                                           | Placebo 2 (n = 279)   | Benlysta 2 200 mg weekly (n = 554)   |
+|--------------------------------------------------------------------------------------|-----------------------|--------------------------------------|
+| SLE responder index Observed difference vs. placebo Odds ratio (95 % CI) vs. placebo | 48.4 %                | 61.4 % (p = 0.0006) 12.98 % 1.68     |
+| Components of SLE responder index                                                    |                       | (1.25, 2.25)                         |
+| Percent of patients with reduction in SELENA-SLEDAI  4                              | 49.1 %                | 62.3 % (p = 0.0005)                  |
+| Percent of patients with no worsening by BILAG index                                 | 74.2 %                | 80.9 % (p = 0.0305)                  |
+| Percent of patients with no worsening by PGA                                         | 72.8 %                | 81.2 % (p = 0.0061)                  |
 
 1 Analyses excluded any subject missing a baseline assessment for any of the components (1 for placebo; 2 for Benlysta).
 
@@ -1252,19 +1252,16 @@ An additional, previously identified serologically active group, those patients 
 
 Table 2. Patients with low complement and positive anti-dsDNA at baseline
 
-|                                                                                                                                                                  | Anti-dsDNA positive AND low complement   | Anti-dsDNA positive AND low complement             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------|
-| Subgroup                                                                                                                                                         | Placebo                                  | Benlysta 200 mg weekly                             |
-| SRI response rate at Week 52 1 (%) Observed treatment difference vs. placebo (%)                                                                                 | (n = 108) 47.2                           | (n = 246) 64.6 (p = 0.0014) 17.41                  |
-| Severe flares over 52 weeks: Patients experiencing a severe flare (%) Observed treatment difference vs. placebo (%) Time to severe flare [Hazard ratio (95 %CI)] | (n = 108) 31.5                           | (n = 248) 14.1 17.4 0.38 (0.24, 0.61) (p < 0.0001) |
-| Prednisone reduction by ≥ 25 %from baseline to ≤ 7.5 mg/day during weeks 24 through 52 2 (%) Observed treatment difference vs. placebo (%)                       | (n = 70) 11.4                            | (n = 164) 20.7 (p = 0.0844) 9.3                    |
-| FACIT-fatigue score improvement from baseline at Week 52 (mean): Observed treatment difference vs. placebo (median difference)                                   | (n = 108) 2.4                            | (n = 248) 4.6 (p = 0.0324) 2.1                     |
+| Subgroup                                                                                                                                                          | Anti-dsDNA positive AND low complement - Placebo   | Anti-dsDNA positive AND low complement - Benlysta 200 mg weekly   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------|
+| SRI response rate at Week 52 1 (%) Observed treatment difference vs. placebo (%)                                                                                  | (n = 108) 47.2                                     | (n = 246) 64.6 (p = 0.0014) 17.41                                 |
+| Severe flares over 52 weeks: Patients experiencing a severe flare (%) Observed treatment difference vs. placebo (%) Time to severe flare [Hazard ratio (95 % CI)] | (n = 108) 31.5                                     | (n = 248) 14.1 17.4 0.38 (0.24, 0.61) (p < 0.0001)                |
+| Prednisone reduction by ≥ 25 % from baseline to ≤ 7.5 mg/day during weeks 24 through 52 2 (%) Observed treatment difference vs. placebo (%)                       | (n = 70) 11.4                                      | (n = 164) 20.7 (p = 0.0844) 9.3                                   |
+| FACIT-fatigue score improvement from baseline at Week 52 (mean): Observed treatment difference vs. placebo (median difference)                                    | (n = 108) 2.4                                      | (n = 248) 4.6 (p = 0.0324) 2.1                                    |
 
-The efficacy and safety of Benlysta in combination with a single cycle of rituximab have been studied in a Phase III, randomised, double-blind, placebo-controlled 104-week study including 292 patients (BLISSBELIEVE). The primary endpoint was the proportion of subjects with a state of disease control defined as a
+The efficacy and safety of Benlysta in combination with a single cycle of rituximab have been studied in a Phase III, randomised, double-blind, placebo-controlled 104-week study including 292 patients (BLISSBELIEVE). The primary endpoint was the proportion of subjects with a state of disease control defined as a SLEDAI2K score ≤ 2, achieved without immunosuppressants and with corticosteroids at a prednisone equivalent dose of ≤ 5 mg/day at Week 52. This was achieved in 19.4 % (n = 28/144) of the patients treated with Benlysta in combination with rituximab and in 16.7 % (n = 12/72) of the patients treated with Benlysta in combination with placebo (odds ratio 1.27; 95 % CI: 0.60, 2.71; p = 0.5342). A higher frequency of adverse events (91.7 % vs. 87.5 %), serious adverse events (22.2 % vs. 13.9 %) and serious infections (9.0 % vs. 2.8 %) were observed in patients treated with Benlysta in combination with rituximab as compared to Benlysta in combination with placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-SLEDAI2K score ≤ 2, achieved without immunosuppressants and with corticosteroids at a prednisone equivalent dose of ≤ 5 mg/day at Week 52. This was achieved in 19.4 % (n = 28/144) of the patients treated with Benlysta in combination with rituximab and in 16.7 % (n = 12/72) of the patients treated with Benlysta in combination with placebo (odds ratio 1.27; 95 % CI: 0.60, 2.71; p = 0.5342). A higher frequency of adverse events (91.7 % vs. 87.5 %), serious adverse events (22.2 % vs. 13.9 %) and serious infections (9.0 % vs. 2.8 %) were observed in patients treated with Benlysta in combination with rituximab as compared to Benlysta in combination with placebo.
 
 ## Lupus nephritis
 
@@ -1299,20 +1296,20 @@ The proportion of patients achieving PERR at Week 104 was significantly higher i
 
 Table 3. Efficacy results in adult patients with lupus nephritis
 
-| Efficacy endpoint                                                                                                | Placebo (n = 223)   | Benlysta 10 mg/kg (n = 223)   | Observed difference vs. placebo   | Odds/Hazard ratio vs. placebo (95 %CI)   | P- value   |
-|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------------------|-----------------------------------|------------------------------------------|------------|
-| PERR at Week 104 1 Responders                                                                                    | 32.3%               | 43.0%                         | 10.8%                             | OR 1.55 (1.04, 2.32)                     | 0.0311     |
-| Components of PERR                                                                                               |                     |                               |                                   |                                          |            |
-| Urine protein:creatinine ratio ≤ 700 mg/g (79.5 mg/mmol)                                                         | 33.6%               | 44.4%                         | 10.8%                             | OR 1.54 (1.04, 2.29)                     | 0.0320     |
-| eGFR≥ 60 mL/min/1.73m 2 or no decrease in eGFR from pre-flare value of > 20%                                     | 50.2%               | 57.4%                         | 7.2%                              | OR 1.32 (0.90, 1.94)                     | 0.1599     |
-| Not treatment failure³                                                                                           | 74.4%               | 83.0%                         | 8.5%                              | OR 1.65 (1.03, 2.63)                     | 0.0364     |
-| CRR at Week 104 1 Responders                                                                                     | 19.7%               | 30.0%                         | 10.3%                             | OR 1.74 (1.11, 2.74)                     | 0.0167     |
-| Components of CRR                                                                                                |                     |                               |                                   |                                          |            |
-| Urine protein:creatinine ratio < 500 mg/g (56.8 mg/mmol)                                                         | 28.7%               | 39.5%                         | 10.8%                             | OR 1.58 (1.05, 2.38)                     | 0.0268     |
-| eGFR≥ 90 mL/min/1.73m 2 or no decrease in eGFR from pre-flare value of > 10%                                     | 39.9%               | 46.6%                         | 6.7%                              | OR 1.33 (0.90, 1.96)                     | 0.1539     |
-| Not treatment failure³                                                                                           | 74.4%               | 83.0%                         | 8.5%                              | OR 1.65 (1.03, 2.63)                     | 0.0364     |
-| PERR at Week 52 1 Responders                                                                                     | 35.4%               | 46.6%                         | 11.2%                             | OR 1.59 (1.06, 2.38)                     | 0.0245     |
-| Time to renal-related event or death 1 Percentage of patients with event 2 Time to event [Hazard ratio (95 %CI)] | 28.3%               | 15.7%                         | - -                               | HR 0.51 (0.34, 0.77)                     | 0.0014     |
+| Efficacy endpoint                                                                                                 | Placebo (n = 223)   | Benlysta 10 mg/kg (n = 223)   | Observed difference vs. placebo   | Odds/Hazard ratio vs. placebo (95 % CI)   |   P- value |
+|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------------------|-----------------------------------|-------------------------------------------|------------|
+| PERR at Week 104 1 Responders                                                                                     | 32.3 %              | 43.0 %                        | 10.8 %                            | OR 1.55 (1.04, 2.32)                      |     0.0311 |
+| Components of PERR                                                                                                |                     |                               |                                   |                                           |            |
+| Urine protein:creatinine ratio ≤ 700 mg/g (79.5 mg/mmol)                                                          | 33.6 %              | 44.4 %                        | 10.8 %                            | OR 1.54 (1.04, 2.29)                      |     0.0320 |
+| eGFR≥ 60 mL/min/1.73 m 2 or no decrease in eGFR from pre-flare value of > 20 %                                    | 50.2 %              | 57.4 %                        | 7.2 %                             | OR 1.32 (0.90, 1.94)                      |     0.1599 |
+| Not treatment failure³                                                                                            | 74.4 %              | 83.0 %                        | 8.5 %                             | OR 1.65 (1.03, 2.63)                      |     0.0364 |
+| CRR at Week 104 1 Responders                                                                                      | 19.7 %              | 30.0 %                        | 10.3 %                            | OR 1.74 (1.11, 2.74)                      |     0.0167 |
+| Components of CRR                                                                                                 |                     |                               |                                   |                                           |            |
+| Urine protein:creatinine ratio < 500 mg/g (56.8 mg/mmol)                                                          | 28.7 %              | 39.5 %                        | 10.8 %                            | OR 1.58 (1.05, 2.38)                      |     0.0268 |
+| eGFR≥ 90 mL/min/1.73 m 2 or no decrease in eGFR from pre-flare value of > 10 %                                    | 39.9 %              | 46.6 %                        | 6.7 %                             | OR 1.33 (0.90, 1.96)                      |     0.1539 |
+| Not treatment failure³                                                                                            | 74.4 %              | 83.0 %                        | 8.5 %                             | OR 1.65 (1.03, 2.63)                      |     0.0364 |
+| PERR at Week 52 1 Responders                                                                                      | 35.4 %              | 46.6 %                        | 11.2 %                            | OR 1.59 (1.06, 2.38)                      |     0.0245 |
+| Time to renal-related event or death 1 Percentage of patients with event 2 Time to event [Hazard ratio (95 % CI)] | 28.3 %              | 15.7 %                        | - -                               | HR 0.51 (0.34, 0.77)                      |     0.0014 |
 
 A numerically greater percentage of patients receiving Benlysta achieved PERR beginning at Week 24 compared with placebo, and this treatment difference was maintained through to Week 104. Beginning at Week 12, a numerically greater percentage of patients receiving Benlysta achieved CRR compared with placebo and the numerical difference was maintained through to Week 104 (Figure 2).
 
@@ -1322,13 +1319,63 @@ Figure 2. Response rates in adults with lupus nephritis by visit
 
 Primary Efficacy Renal Response (PERR)
 
+I
+
+工I
+
+100
+
+90
+
+Responders (%) +/- SE
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+8
+
+12
+
+16
+
+20
+
+24
+
+28
+
+32
+
+H
+
+T
+
+工H
+
+36
+
 Benlysta + Standard therapy (n = 223)
 
 Placebo + Standard therapy (n = 223)
 
-48
-
 40
+
+48
 
 52
 
@@ -1340,6 +1387,30 @@ Placebo + Standard therapy (n = 223)
 
 68
 
+72
+
+76
+
+80
+
+工I
+
+84
+
+88
+
+工I
+
+92
+
+工I
+
+IH
+
+96
+
+100 104
+
 Time (weeks)
 
 Complete Renal Response (CRR)
@@ -1348,59 +1419,25 @@ Complete Renal Response (CRR)
 
 In descriptive subgroup analyses, key efficacy endpoints (PERR and CRR) were examined by induction regimen (mycophenolate or cyclophosphamide) and biopsy class (Class III or IV, Class III + V or Class IV + V, or Class V) (Figure 3).
 
-72
-
-76
-
-Responders (%) +/- SE
-
-9
-
-8
-
-7
-
-6
-
-5
-
-4
-
-3
-
-2
-
-1
-
-80
-
-84
-
-88
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 3. Odds ratio of PERR and CRR at Week 104 across subgroups
 
-<!-- image -->
-
-| Subgroup                                  |                          | Response rate   |              |                               |
-|-------------------------------------------|--------------------------|-----------------|--------------|-------------------------------|
-| Benlysta (n) versus Placebo (n)           |                          | Placebo (%)     | Benlysta (%) | Odds ratio (95 %CI)           |
-| Induction regimen Favours                 | Placebo Favours Benlysta |                 |              |                               |
-| Mycophenolate (164 vs. 164)               |                          | 34              | 46           | 1.6 (1.0, 2.5)                |
-| Cyclophosphamide (59 vs. 59)              |                          | 20              | 34           | 2.0 (1.2, 3.4)                |
-|                                           |                          | 27              | 34           | 1.5 (0.7, 3.5)                |
-| Biopsy class                              |                          | 19              | 19           | 1.1 (0.4, 2.8)                |
-| Class III or Class IV (126 vs. 132)       |                          | 32 19           | 48 31        | 1.8 (1.1, 3.1) 1.8 (1.0, 3.2) |
-| Class III + V or Class IV + V (61 vs. 55) |                          | 27              | 38           | 1.8 (0.8, 4.0)                |
-| Class V (36 vs. 36)                       |                          | 15              | 26           | 2.8 (1.0, 7.7)                |
-|                                           |                          | 42              | 36           | 0.6 (0.2, 1.9)                |
-|                                           |                          | 31              |              | 0.8 (0.3, 2.6)                |
-|                                           |                          |                 | 33           |                               |
-| 0.1 0.2                                   | 0.5 1 2 4                |                 |              |                               |
-|                                           | 8                        |                 |              |                               |
-|                                           | Odds ratio               |                 |              |                               |
+| Subgroup - Benlysta (n) versus Placebo (n) - Induction regimen Favours   | Placebo Favours Benlysta   | Response rate - Placebo (%)   | Benlysta (%)   | Odds ratio (95 % CI)          |
+|--------------------------------------------------------------------------|----------------------------|-------------------------------|----------------|-------------------------------|
+| Mycophenolate (164 vs. 164)                                              |                            | 34                            | 46             | 1.6 (1.0, 2.5)                |
+| Cyclophosphamide (59 vs. 59)                                             |                            | 20                            | 34             | 2.0 (1.2, 3.4)                |
+|                                                                          |                            | 27                            | 34             | 1.5 (0.7, 3.5)                |
+| Biopsy class                                                             |                            | 19                            | 19             | 1.1 (0.4, 2.8)                |
+| Class III or Class IV (126 vs. 132)                                      |                            | 32 19                         | 48 31          | 1.8 (1.1, 3.1) 1.8 (1.0, 3.2) |
+| Class III + V or Class IV + V (61 vs. 55)                                |                            | 27                            | 38             | 1.8 (0.8, 4.0)                |
+| Class V (36 vs. 36)                                                      |                            | 15                            | 26             | 2.8 (1.0, 7.7)                |
+|                                                                          |                            | 42                            | 36             | 0.6 (0.2, 1.9)                |
+|                                                                          |                            | 31                            |                | 0.8 (0.3, 2.6)                |
+|                                                                          |                            |                               | 33             |                               |
+| 0.1 0.2                                                                  | 0.5 1 2 4                  |                               |                |                               |
+|                                                                          | 8                          |                               |                |                               |
+|                                                                          | Odds ratio                 |                               |                |                               |
 
 - Primary Efficacy Renal Response (PERR)
 - Complete Renal Response (CRR)
@@ -1437,13 +1474,13 @@ The primary efficacy endpoint was the SLE Responder Index (SRI) at Week 52 as de
 
 Table 4. Paediatric response rate at Week 52
 
-| Response 1                                                                                  | Placebo (n = 40)   | Benlysta 10 mg/kg (n = 53)     |
-|---------------------------------------------------------------------------------------------|--------------------|--------------------------------|
-| SLE Responder Index (%) Odds ratio (95 %CI) vs. placebo                                     | 43.6 (17/39)       | 52.8 (28/53) 1.49 (0.64, 3.46) |
-| Components of SLE Responder Index                                                           |                    |                                |
-| Percent of patients with reduction in SELENA-SLEDAI  4 (%) Odds ratio (95 %CI) vs. placebo | 43.6 (17/39)       | 54.7 (29/53) 1.62 (0.69, 3.78) |
-| Percent of patients with no worsening by BILAG index (%) Odds ratio (95 %CI) vs. placebo    | 61.5 (24/39)       | 73.6 (39/53) 1.96 (0.77, 4.97) |
-| Percent of patients with no worsening by PGA (%) Odds ratio (95 %CI) vs. placebo            | 66.7 (26/39)       | 75.5 (40/53) 1.70 (0.66, 4.39) |
+| Response 1                                                                                   | Placebo (n = 40)   | Benlysta 10 mg/kg (n = 53)     |
+|----------------------------------------------------------------------------------------------|--------------------|--------------------------------|
+| SLE Responder Index (%) Odds ratio (95 % CI) vs. placebo                                     | 43.6 (17/39)       | 52.8 (28/53) 1.49 (0.64, 3.46) |
+| Components of SLE Responder Index                                                            |                    |                                |
+| Percent of patients with reduction in SELENA-SLEDAI  4 (%) Odds ratio (95 % CI) vs. placebo | 43.6 (17/39)       | 54.7 (29/53) 1.62 (0.69, 3.78) |
+| Percent of patients with no worsening by BILAG index (%) Odds ratio (95 % CI) vs. placebo    | 61.5 (24/39)       | 73.6 (39/53) 1.96 (0.77, 4.97) |
+| Percent of patients with no worsening by PGA (%) Odds ratio (95 % CI) vs. placebo            | 66.7 (26/39)       | 75.5 (40/53) 1.70 (0.66, 4.39) |
 
 1 Analyses excluded any subject missing a baseline assessment for any of the components (1 for placebo).
 
@@ -1455,12 +1492,11 @@ Using the Paediatric Rheumatology International Trials Organisation/American Col
 
 Table 5. PRINTO/ACR response rate at Week 52
 
-|                                 | Proportion of patients with at least 50 %improvement in any 2 of 5 components 1 and no more than one of the remaining worsening by more than30%   | Proportion of patients with at least 50 %improvement in any 2 of 5 components 1 and no more than one of the remaining worsening by more than30%   | Proportion of patients with at least 30 %improvement in 3 of 5 components 1 and no more than one of the remaining worsening more than30%   | Proportion of patients with at least 30 %improvement in 3 of 5 components 1 and no more than one of the remaining worsening more than30%   |
-|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-|                                 | Placebo n = 40                                                                                                                                    | Benlysta 10 mg/kg n = 53                                                                                                                          | Placebo n = 40                                                                                                                             | Benlysta 10 mg/kg n = 53                                                                                                                   |
-| Response, n (%)                 | 14/40 (35.0)                                                                                                                                      | 32/53 (60.4)                                                                                                                                      | 11/40 (27.5)                                                                                                                               | 28/53 (52.8)                                                                                                                               |
-| Observed difference vs. Placebo |                                                                                                                                                   | 25.38                                                                                                                                             |                                                                                                                                            | 25.33                                                                                                                                      |
-| Odds ratio (95 %CI) vs. Placebo |                                                                                                                                                   | 2.74 (1.15, 6.54)                                                                                                                                 |                                                                                                                                            | 2.92 (1.19, 7.17)                                                                                                                          |
+|                                  | Proportion of patients with at least 50 % improvement in any 2 of 5 components 1 and no more than one of the remaining worsening by more than 30 % - Placebo n = 40   | Proportion of patients with at least 50 % improvement in any 2 of 5 components 1 and no more than one of the remaining worsening by more than 30 % - Benlysta 10 mg/kg n = 53   | Proportion of patients with at least 30 % improvement in 3 of 5 components 1 and no more than one of the remaining worsening more than 30 % - Placebo n = 40   | Proportion of patients with at least 30 % improvement in 3 of 5 components 1 and no more than one of the remaining worsening more than 30 % - Benlysta 10 mg/kg n = 53   |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Response, n (%)                  | 14/40 (35.0)                                                                                                                                                          | 32/53 (60.4)                                                                                                                                                                    | 11/40 (27.5)                                                                                                                                                   | 28/53 (52.8)                                                                                                                                                             |
+| Observed difference vs. Placebo  |                                                                                                                                                                       | 25.38                                                                                                                                                                           |                                                                                                                                                                | 25.33                                                                                                                                                                    |
+| Odds ratio (95 % CI) vs. Placebo |                                                                                                                                                                       | 2.74 (1.15, 6.54)                                                                                                                                                               |                                                                                                                                                                | 2.92 (1.19, 7.17)                                                                                                                                                        |
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1486,11 +1522,9 @@ Following subcutaneous administration, belimumab had a terminal half-life of 18.
 
 ## Lupus nephritis study
 
-A population pharmacokinetic analysis was conducted in 224 adult patients with lupus nephritis who received Benlysta 10 mg/kg body weight intravenously (Days 0, 14, 28, and then every 28 days up to 104 weeks). In patients with lupus nephritis, due to renal disease activity, belimumab clearance was initially
+A population pharmacokinetic analysis was conducted in 224 adult patients with lupus nephritis who received Benlysta 10 mg/kg body weight intravenously (Days 0, 14, 28, and then every 28 days up to 104 weeks). In patients with lupus nephritis, due to renal disease activity, belimumab clearance was initially higher than observed in SLE studies; however, after 24 weeks of treatment and throughout the remainder of the study, belimumab clearance and exposure were similar to that observed in adult patients with SLE who received belimumab 10 mg/kg body weight intravenously.
 
 <div style=\"page-break-after: always\"></div>
-
-higher than observed in SLE studies; however, after 24 weeks of treatment and throughout the remainder of the study, belimumab clearance and exposure were similar to that observed in adult patients with SLE who received belimumab 10 mg/kg body weight intravenously.
 
 Based on population pharmacokinetic modelling and simulation, the steady-state average concentrations of subcutaneous administration of belimumab 200 mg once weekly in adults with lupus nephritis are predicted to be similar to those observed in adults with lupus nephritis receiving belimumab 10 mg/kg body weight intravenously every 4 weeks.
 
@@ -1510,11 +1544,9 @@ Hepatic impairment: No specific studies have been conducted to examine the effec
 
 The effects of body weight and BMI on belimumab exposure after subcutaneous administration in adults were not considered clinically meaningful. There was no significant impact on efficacy and safety based on weight. Therefore, no dose adjustment in adults is recommended.
 
-The effects of body weight on belimumab exposure after subcutaneous administration in paediatric patients have been determined using a population pharmacokinetic model. Paediatric patients with lower body weight
+The effects of body weight on belimumab exposure after subcutaneous administration in paediatric patients have been determined using a population pharmacokinetic model. Paediatric patients with lower body weight have lower belimumab clearance and volume of distribution resulting in increased exposure. To ensure belimumab exposures remain within acceptable limits and are consistent across the paediatric weight range, patients with lower body weight are dosed belimumab less frequently (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-have lower belimumab clearance and volume of distribution resulting in increased exposure. To ensure belimumab exposures remain within acceptable limits and are consistent across the paediatric weight range, patients with lower body weight are dosed belimumab less frequently (see section 4.2).
 
 ## Transitioning from intravenous to subcutaneous administration
 
@@ -1580,7 +1612,9 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Comprehensive instructions for subcutaneous administration of Benlysta in a pre-filled syringe are provided at the end of the package leaflet (see Step-by-step instructions).
+Comprehensive instructions for subcutaneous administration of Benlysta in a pre-filled syringe are provided
+
+at the end of the package leaflet (see Step-by-step instructions).
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -1612,10 +1646,6 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Benlysta 120 mg powder for concentrate for solution for infusion. Benlysta 400 mg powder for concentrate for solution for infusion.
@@ -1626,7 +1656,7 @@ Benlysta 120 mg powder for concentrate for solution for infusion.
 
 Each vial contains 120 mg of belimumab. After reconstitution, the solution contains 80 mg belimumab per mL.
 
-Benlysta 400 mg powder for concentrate for solution for infusion.
+## Benlysta 400 mg powder for concentrate for solution for infusion.
 
 Each vial contains 400 mg of belimumab. After reconstitution, the solution contains 80 mg belimumab per mL.
 
@@ -1656,11 +1686,11 @@ Benlysta is indicated as add-on therapy in patients aged 5 years and older with 
 
 Benlysta is indicated in combination with background immunosuppressive therapies for the treatment of adult patients with active lupus nephritis (see sections 4.2 and 5.1).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.2 Posology and method of administration
 
 Benlysta treatment should be initiated and supervised by a qualified physician experienced in the diagnosis and treatment of SLE. Benlysta infusions must be administered by a qualified healthcare professional trained to give infusion therapy.
+
+<div style=\"page-break-after: always\"></div>
 
 Administration of Benlysta may result in severe or life-threatening hypersensitivity reactions and infusion reactions. Patients have been reported to develop symptoms of acute hypersensitivity several hours after the infusion has been administered. Recurrence of clinically significant reactions after initial appropriate treatment of symptoms has also been observed (see sections 4.4 and 4.8). Therefore, Benlysta must be administered in an environment where resources for managing such reactions are immediately available. It is recommended that patients remain under clinical supervision for a prolonged period of time (for several hours), following at least the first 2 infusions, taking into account the possibility of a late onset reaction.
 
@@ -1694,11 +1724,9 @@ Data on patients ≥ 65 years are limited (see section 5.1). Benlysta should be 
 
 ## Renal impairment
 
-Belimumab has been studied in a limited number of SLE patients with renal impairment.
+Belimumab has been studied in a limited number of SLE patients with renal impairment. On the basis of the available information, dose adjustment is not required in patients with mild, moderate or severe renal impairment. Caution is however recommended in patients with severe renal impairment due to the lack of data (see section 5.2).
 
 <div style=\"page-break-after: always\"></div>
-
-On the basis of the available information, dose adjustment is not required in patients with mild, moderate or severe renal impairment. Caution is however recommended in patients with severe renal impairment due to the lack of data (see section 5.2).
 
 ## Hepatic impairment
 
@@ -1742,10 +1770,9 @@ Benlysta has not been studied in the following adult and paediatric patient grou
 - HIV
 - a history of, or current, hepatitis B or C
 - hypogammaglobulinaemia (IgG &lt; 400 mg/dL) or IgA deficiency (IgA &lt; 10 mg/dL)
+- a history of major organ transplant or hematopoietic stem cell /marrow transplant or renal transplant.
 
 <div style=\"page-break-after: always\"></div>
-
-- a history of major organ transplant or hematopoietic stem cell /marrow transplant or renal transplant.
 
 ## Concomitant use with B cell targeted therapy
 
@@ -1765,11 +1792,11 @@ Delayed-type, non-acute hypersensitivity reactions have also been observed and i
 
 The mechanism of action of belimumab could increase the risk for the development of infections in adults and children with lupus, including opportunistic infections, and younger children may be at increased risk. In controlled clinical studies, the incidence of serious infections was similar across the Benlysta and placebo groups; however, fatal infections (e.g. pneumonia and sepsis) occurred more frequently in patients receiving Benlysta compared with placebo (see section 4.8). Pneumococcal vaccination should be considered before initiating Benlysta treatment. Benlysta must not be initiated in patients with active serious infections (including serious chronic infections). Physicians need to exercise caution and carefully assess if the benefits are expected to outweigh the risks when considering the use of Benlysta in patients with a history of recurrent infection. Physicians need to advise patients to contact their health care provider if they develop symptoms of an infection. Patients who develop an infection while undergoing treatment with Benlysta must be monitored closely and careful consideration given to interrupting immunosuppressant therapy including Benlysta until the infection is resolved. The risk of using Benlysta in patients with active or latent tuberculosis is unknown.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Depression and suicidality
 
 In controlled clinical intravenous and subcutaneous studies, psychiatric disorders (depression, suicidal ideation and behaviour including suicides) have been reported more frequently in patients receiving Benlysta (see section 4.8). Physicians should assess the risk of depression and suicide considering the patient's medical history and current psychiatric status before treatment with Benlysta and continue to monitor patients during treatment. Physicians must advise patients (and caregivers where appropriate) to contact their health care provider about new or worsening psychiatric symptoms. In patients who experience such symptoms, treatment discontinuation is to be considered.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Severe cutaneous adverse reactions
 
@@ -1791,15 +1818,15 @@ Limited data suggest that Benlysta does not significantly affect the ability to 
 
 Immunomodulatory medicinal products, including Benlysta, may increase the risk of malignancy. Caution is advised when considering Benlysta therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop malignancy. Patients with malignant neoplasm within the last 5 years have not been studied, with the exception of those with basal or squamous cell cancers of the skin, or cancer of the uterine cervix, that has been fully excised or adequately treated.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Polysorbate 80 content
 
 This medicinal product contains polysorbate 80 (see section 2), which may cause allergic reactions.
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium -free'. However, as Benlysta powder for concentrate is diluted in a solution for infusion that contains sodium, this is to be taken into consideration for patients on a controlled sodium diet (see section 6.6).
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium - free'. However, as Benlysta powder for concentrate is diluted in a solution for infusion that contains sodium, this is to be taken into consideration for patients on a controlled sodium diet (see section 6.6).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -1829,13 +1856,13 @@ There are no data on the effects of belimumab on human fertility. Effects on mal
 
 No studies on the effects on the ability to drive and use machines have been performed. No detrimental effects on such activities are predicted from the pharmacology of belimumab. It is recommended that the clinical status of the subject and the adverse reaction profile of Benlysta be borne in mind when considering the patient's ability to perform tasks that require judgement, motor or cognitive skills.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile in adults
 
 The safety of belimumab in patients with SLE has been evaluated in three pre-registration placebo-controlled intravenous studies and one subsequent regional placebo-controlled intravenous study, one placebo-controlled subcutaneous study, and two post-marketing placebo-controlled intravenous studies; the safety in patients with active lupus nephritis has been evaluated in one placebo-controlled intravenous study.
+
+<div style=\"page-break-after: always\"></div>
 
 The data presented in the table below reflect exposure in 674 patients from the three pre-registration clinical studies and 470 patients in the subsequent placebo-controlled study with SLE administered Benlysta intravenously (10 mg/kg body weight over a 1-hour period on Days 0, 14, 28, and then every 28 days for up to 52 weeks), and 556 patients with SLE exposed to Benlysta subcutaneously (200 mg once weekly up to 52 weeks). The safety data presented include data beyond Week 52 in some patients with SLE. The data reflect additional exposure in 224 patients with active lupus nephritis who received Benlysta intravenously (10 mg/kg body weight for up to 104 weeks). Data from post-marketing reports are also included.
 
@@ -1851,25 +1878,12 @@ Severe cutaneous adverse reactions : Stevens-Johnson syndrome (SJS) and toxic ep
 
 Adverse reactions are listed below by MedDRA system organ class and by frequency. The frequency categories used are:
 
-Very common
-
-≥ 1/10
-
-Common
-
- 1/100 to &lt; 1/10
-
-Uncommon
-
- 1/1000 to &lt; 1/100
-
-Rare
-
-≥ 1/10 000 to &lt; 1/1000
-
-Not known
-
-cannot be estimated from the available data.
+| Very common   | ≥ 1/10                                       |
+|---------------|----------------------------------------------|
+| Common        |  1/100 to < 1/10                            |
+| Uncommon      |  1/1000 to < 1/100                          |
+| Rare          | ≥ 1/10 000 to < 1/1000                       |
+| Not known     | cannot be estimated from the available data. |
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. The frequency given is the highest seen with either formulation.
 
@@ -1989,11 +2003,9 @@ In one intravenous study in paediatric patients with SLE (6 to 17 years of age) 
 
 ## Immunogenicity
 
-Assay sensitivity for neutralising antibodies and non-specific anti-drug antibody (ADA) is limited by the presence of active drug in the collected samples. The true occurrence of neutralising antibodies and non-specific anti-drug antibody in the study population is therefore not known. In the two Phase III SLE studies in adults, 4 of the 563 (0.7 %) patients in the 10 mg/kg body weight group and 27 out of 559 (4.8 %) patients in the 1 mg/kg body weight group tested positive for persistent presence of anti-belimumab
+Assay sensitivity for neutralising antibodies and non-specific anti-drug antibody (ADA) is limited by the presence of active drug in the collected samples. The true occurrence of neutralising antibodies and non-specific anti-drug antibody in the study population is therefore not known. In the two Phase III SLE studies in adults, 4 of the 563 (0.7 %) patients in the 10 mg/kg body weight group and 27 out of 559 (4.8 %) patients in the 1 mg/kg body weight group tested positive for persistent presence of anti-belimumab antibodies. Among persistent-positive subjects in the Phase III SLE studies, 1/10 (10 %), 2/27 (7 %) and 1/4 (25 %) subjects in the placebo, 1 mg/kg body weight and 10 mg/kg body weight groups, respectively, experienced infusion reactions on a dosing day; these infusion reactions were all non-serious and mild to moderate in severity. Few patients with ADA reported serious/severe AEs. The rates of infusion reactions among persistent-positive subjects were comparable to the rates for ADA negative patients of 75/552 (14 %), 78/523 (15 %), and 83/559 (15 %) in the placebo, 1 mg/kg body weight and 10 mg/kg body weight groups, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-antibodies. Among persistent-positive subjects in the Phase III SLE studies, 1/10 (10 %), 2/27 (7 %) and 1/4 (25 %) subjects in the placebo, 1 mg/kg body weight and 10 mg/kg body weight groups, respectively, experienced infusion reactions on a dosing day; these infusion reactions were all non-serious and mild to moderate in severity. Few patients with ADA reported serious/severe AEs. The rates of infusion reactions among persistent-positive subjects were comparable to the rates for ADA negative patients of 75/552 (14 %), 78/523 (15 %), and 83/559 (15 %) in the placebo, 1 mg/kg body weight and 10 mg/kg body weight groups, respectively.
 
 In the lupus nephritis study where 224 adult patients received Benlysta 10 mg/kg body weight intravenously, no anti-belimumab antibodies were detected.
 
@@ -2027,14 +2039,13 @@ The SLE Responder Index measures improvement in SLE disease activity, without wo
 
 Table 1. Response rate at Week 52
 
-|                                                                                     | BLISS-76                          | BLISS-76                                 | BLISS-52                          | BLISS-52                                   | BLISS-76 and BLISS-52 pooled      | BLISS-76 and BLISS-52 pooled              |
-|-------------------------------------------------------------------------------------|-----------------------------------|------------------------------------------|-----------------------------------|--------------------------------------------|-----------------------------------|-------------------------------------------|
-| Response                                                                            | Placebo 1 (n = 275)               | Benlysta 10 mg/kg 1 (n = 273)            | Placebo 1 (n = 287)               | Benlysta 10 mg/kg 1 (n = 290)              | Placebo 1 (n = 562)               | Benlysta 10 mg/kg 1 (n = 563)             |
-| SLE responder index Observed difference vs. placebo Odds ratio (95 %CI) vs. placebo | 33.8%                             | 43.2% (p = 0.021) 9.4% 1.52 (1.07, 2.15) | 43.6%                             | 57.6% (p = 0.0006) 14.0% 1.83 (1.30, 2.59) | 38.8%                             | 50.6% (p< 0.0001) 11.8% 1.68 (1.32, 2.15) |
-| Components of SLE responder index                                                   | Components of SLE responder index | Components of SLE responder index        | Components of SLE responder index | Components of SLE responder index          | Components of SLE responder index | Components of SLE responder index         |
-| Percent of patients with reduction in SELENA- SLEDAI  4                            | 35.6%                             | 46.9% (p = 0.006)                        | 46.0%                             | 58.3% (p = 0.0024)                         | 40.9%                             | 52.8% (p < 0.0001)                        |
-| Percent of patients with no worsening by BILAG index                                | 65.1%                             | 69.2% (p = 0.32)                         | 73.2%                             | 81.4% (p = 0.018)                          | 69.2%                             | 75.5% (p = 0.019)                         |
-| Percent of patients with no worsening by PGA                                        | 62.9%                             | 69.2% (p = 0.13)                         | 69.3%                             | 79.7% (p = 0.0048)                         | 66.2%                             | 74.6% (p = 0.0017)                        |
+| Response                                                                             | BLISS-76 - Placebo 1 (n = 275)    | BLISS-76 - Benlysta 10 mg/kg 1 (n = 273)   | BLISS-52 - Placebo 1 (n = 287)    | BLISS-52 - Benlysta 10 mg/kg 1 (n = 290)     | BLISS-76 and BLISS-52 pooled - Placebo 1 (n = 562)   | BLISS-76 and BLISS-52 pooled - Benlysta 10 mg/kg 1 (n = 563)   |
+|--------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------|-----------------------------------|----------------------------------------------|------------------------------------------------------|----------------------------------------------------------------|
+| SLE responder index Observed difference vs. placebo Odds ratio (95 % CI) vs. placebo | 33.8 %                            | 43.2 % (p = 0.021) 9.4 % 1.52 (1.07, 2.15) | 43.6 %                            | 57.6 % (p = 0.0006) 14.0 % 1.83 (1.30, 2.59) | 38.8 %                                               | 50.6 % (p< 0.0001) 11.8 % 1.68 (1.32, 2.15)                    |
+| Components of SLE responder index                                                    | Components of SLE responder index | Components of SLE responder index          | Components of SLE responder index | Components of SLE responder index            | Components of SLE responder index                    | Components of SLE responder index                              |
+| Percent of patients with reduction in SELENA- SLEDAI  4                             | 35.6 %                            | 46.9 % (p = 0.006)                         | 46.0 %                            | 58.3 % (p = 0.0024)                          | 40.9 %                                               | 52.8 % (p < 0.0001)                                            |
+| Percent of patients with no worsening by BILAG index                                 | 65.1 %                            | 69.2 % (p = 0.32)                          | 73.2 %                            | 81.4 % (p = 0.018)                           | 69.2 %                                               | 75.5 % (p = 0.019)                                             |
+| Percent of patients with no worsening by PGA                                         | 62.9 %                            | 69.2 % (p = 0.13)                          | 69.3 %                            | 79.7 % (p = 0.0048)                          | 66.2 %                                               | 74.6 % (p = 0.0017)                                            |
 
 1 All patients received standard therapy
 
@@ -2052,16 +2063,16 @@ Post-hoc analysis has identified high responding subgroups such as those patient
 
 Table 2. Patients with low complement and positive anti-dsDNA at baseline
 
-| Subgroup                                                                                                                                                        | Anti-dsDNA positive AND low complement   | Anti-dsDNA positive AND low complement   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
-| BLISS-76 and BLISS-52 pooled data                                                                                                                               | Placebo (n = 287)                        | Benlysta 10 mg/kg (n = 305)              |
-| SRI response rate at Week 52 (%) Observed treatment difference vs. placebo (%)                                                                                  | 31.7                                     | 51.5 (p < 0.0001) 19.8                   |
-| SRI response rate (excluding complement and anti- dsDNA changes) at Week 52 (%) Observed treatment difference vs. placebo (%)                                   | 28.9                                     | 46.2 (p < 0.0001) 17.3                   |
-| Severe flares over 52 weeks Patients experiencing a severe flare (%) Observed treatment difference vs. placebo (%) Time to severe flare [Hazard ratio (95 %CI)] | 29.6                                     | 19.0 10.6 0.61 (0.44, 0.85) (p = 0.0038) |
-| Prednisone reduction by ≥ 25 %from baseline to ≤ 7.5 mg/day during weeks 40 through 52 1 (%) Observed treatment difference vs. placebo (%)                      | (n = 173) 12.1                           | (n = 195) 18.5 (p = 0.0964) 6.3          |
-| FACIT-fatigue score improvement from baseline at Week 52 (mean) Observed treatment difference vs. placebo (mean difference)                                     | 1.99                                     | 4.21 (p = 0.0048) 2.21                   |
-| BLISS-76 study only                                                                                                                                             | Placebo (n = 131)                        | Benlysta 10 mg/kg (n = 134)              |
-| SRI response rate at Week 76 (%) Observed treatment difference vs. placebo (%)                                                                                  | 27.5                                     | 39.6 (p = 0.0160) 12.1                   |
+| Subgroup                                                                                                                                                         | Anti-dsDNA positive AND low complement   | Anti-dsDNA positive AND low complement   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------------------------|
+| BLISS-76 and BLISS-52 pooled data                                                                                                                                | Placebo (n = 287)                        | Benlysta 10 mg/kg (n = 305)              |
+| SRI response rate at Week 52 (%) Observed treatment difference vs. placebo (%)                                                                                   | 31.7                                     | 51.5 (p < 0.0001) 19.8                   |
+| SRI response rate (excluding complement and anti- dsDNA changes) at Week 52 (%) Observed treatment difference vs. placebo (%)                                    | 28.9                                     | 46.2 (p < 0.0001) 17.3                   |
+| Severe flares over 52 weeks Patients experiencing a severe flare (%) Observed treatment difference vs. placebo (%) Time to severe flare [Hazard ratio (95 % CI)] | 29.6                                     | 19.0 10.6 0.61 (0.44, 0.85) (p = 0.0038) |
+| Prednisone reduction by ≥ 25 % from baseline to ≤ 7.5 mg/day during weeks 40 through 52 1 (%) Observed treatment difference vs. placebo (%)                      | (n = 173) 12.1                           | (n = 195) 18.5 (p = 0.0964) 6.3          |
+| FACIT-fatigue score improvement from baseline at Week 52 (mean) Observed treatment difference vs. placebo (mean difference)                                      | 1.99                                     | 4.21 (p = 0.0048) 2.21                   |
+| BLISS-76 study only                                                                                                                                              | Placebo (n = 131)                        | Benlysta 10 mg/kg (n = 134)              |
+| SRI response rate at Week 76 (%) Observed treatment difference vs. placebo (%)                                                                                   | 27.5                                     | 39.6 (p = 0.0160) 12.1                   |
 
 1 Among patients with baseline prednisone dose &gt; 7.5 mg/day.
 
@@ -2096,20 +2107,20 @@ The proportion of patients achieving PERR at Week 104 was significantly higher i
 
 Table 3. Efficacy results in adult patients with lupus nephritis
 
-| Efficacy endpoint                                                                                                | Placebo (n = 223)   | Benlysta 10 mg/kg (n = 223)   | Observed difference vs. placebo   | Odds/Hazard ratio vs. placebo (95 %CI)   | P- value   |
-|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------------------|-----------------------------------|------------------------------------------|------------|
-| PERR at Week 104 1 Responders                                                                                    | 32.3%               | 43.0%                         | 10.8%                             | OR 1.55 (1.04, 2.32)                     | 0.0311     |
-| Components of PERR                                                                                               |                     |                               |                                   |                                          |            |
-| Urine protein:creatinine ratio ≤ 700 mg/g (79.5 mg/mmol)                                                         | 33.6%               | 44.4%                         | 10.8%                             | OR 1.54 (1.04, 2.29)                     | 0.0320     |
-| eGFR≥ 60 mL/min/1.73m 2 or no decrease in eGFR from pre-flare value of > 20%                                     | 50.2%               | 57.4%                         | 7.2%                              | OR 1.32 (0.90, 1.94)                     | 0.1599     |
-| Not treatment failure³                                                                                           | 74.4%               | 83.0%                         | 8.5%                              | OR 1.65 (1.03, 2.63)                     | 0.0364     |
-| CRR at Week 104 1 Responders                                                                                     | 19.7%               | 30.0%                         | 10.3%                             | OR 1.74 (1.11, 2.74)                     | 0.0167     |
-| Components of CRR                                                                                                |                     |                               |                                   |                                          |            |
-| Urine protein:creatinine ratio < 500 mg/g (56.8 mg/mmol)                                                         | 28.7%               | 39.5%                         | 10.8%                             | OR 1.58 (1.05, 2.38)                     | 0.0268     |
-| eGFR≥ 90 mL/min/1.73m 2 or no decrease in eGFR from pre-flare value of > 10%                                     | 39.9%               | 46.6%                         | 6.7%                              | OR 1.33 (0.90, 1.96)                     | 0.1539     |
-| Not treatment failure³                                                                                           | 74.4%               | 83.0%                         | 8.5%                              | OR 1.65 (1.03, 2.63)                     | 0.0364     |
-| PERR at Week 52 1 Responders                                                                                     | 35.4%               | 46.6%                         | 11.2%                             | OR 1.59 (1.06, 2.38)                     | 0.0245     |
-| Time to renal-related event or death 1 Percentage of patients with event 2 Time to event [Hazard ratio (95 %CI)] | 28.3%               | 15.7%                         | - -                               | HR 0.51 (0.34, 0.77)                     | 0.0014     |
+| Efficacy endpoint                                                                                                 | Placebo (n = 223)   | Benlysta 10 mg/kg (n = 223)   | Observed difference vs. placebo   | Odds/Hazard ratio vs. placebo (95 % CI)   |   P- value |
+|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------------------|-----------------------------------|-------------------------------------------|------------|
+| PERR at Week 104 1 Responders                                                                                     | 32.3 %              | 43.0 %                        | 10.8 %                            | OR 1.55 (1.04, 2.32)                      |     0.0311 |
+| Components of PERR                                                                                                |                     |                               |                                   |                                           |            |
+| Urine protein:creatinine ratio ≤ 700 mg/g (79.5 mg/mmol)                                                          | 33.6 %              | 44.4 %                        | 10.8 %                            | OR 1.54 (1.04, 2.29)                      |     0.0320 |
+| eGFR≥ 60 mL/min/1.73 m 2 or no decrease in eGFR from pre-flare value of > 20 %                                    | 50.2 %              | 57.4 %                        | 7.2 %                             | OR 1.32 (0.90, 1.94)                      |     0.1599 |
+| Not treatment failure³                                                                                            | 74.4 %              | 83.0 %                        | 8.5 %                             | OR 1.65 (1.03, 2.63)                      |     0.0364 |
+| CRR at Week 104 1 Responders                                                                                      | 19.7 %              | 30.0 %                        | 10.3 %                            | OR 1.74 (1.11, 2.74)                      |     0.0167 |
+| Components of CRR                                                                                                 |                     |                               |                                   |                                           |            |
+| Urine protein:creatinine ratio < 500 mg/g (56.8 mg/mmol)                                                          | 28.7 %              | 39.5 %                        | 10.8 %                            | OR 1.58 (1.05, 2.38)                      |     0.0268 |
+| eGFR≥ 90 mL/min/1.73 m 2 or no decrease in eGFR from pre-flare value of > 10 %                                    | 39.9 %              | 46.6 %                        | 6.7 %                             | OR 1.33 (0.90, 1.96)                      |     0.1539 |
+| Not treatment failure³                                                                                            | 74.4 %              | 83.0 %                        | 8.5 %                             | OR 1.65 (1.03, 2.63)                      |     0.0364 |
+| PERR at Week 52 1 Responders                                                                                      | 35.4 %              | 46.6 %                        | 11.2 %                            | OR 1.59 (1.06, 2.38)                      |     0.0245 |
+| Time to renal-related event or death 1 Percentage of patients with event 2 Time to event [Hazard ratio (95 % CI)] | 28.3 %              | 15.7 %                        | - -                               | HR 0.51 (0.34, 0.77)                      |     0.0014 |
 
 1 PERR at Week 104 was the primary efficacy analysis; CRR at Week 104, PERR at Week 52 and time to renal-related event or death were included in the pre-specified testing hierarchy.
 
@@ -2135,24 +2146,21 @@ In descriptive subgroup analyses, key efficacy endpoints (PERR and CRR) were exa
 
 Figure 2. Odds ratio of PERR and CRR at Week 104 across subgroups
 
-<!-- image -->
-
-| Subgroup                                  |                  | Response rate   | Response rate   |                     |
-|-------------------------------------------|------------------|-----------------|-----------------|---------------------|
-| Benlysta (n) versus Placebo (n)           |                  | Placebo (%)     | Benlysta (%)    | Odds ratio (95 %CI) |
-| Induction regimen Favours                 | Favours Benlysta |                 |                 |                     |
-| Mycophenolate (164 vs. 164)               |                  | 34              | 46              | 1.6 (1.0, 2.5)      |
-|                                           |                  | 20              | 34              | 2.0 (1.2, 3.4)      |
-| Cyclophosphamide (59 vs. 59)              |                  | 27              | 34              | 1.5 (0.7, 3.5)      |
-|                                           |                  | 19              | 19              | 1.1 (0.4, 2.8)      |
-| Biopsy class                              |                  |                 |                 |                     |
-| Class III or Class IV (126 vs. 132)       |                  | 32              | 48              | 1.8 (1.1, 3.1)      |
-|                                           |                  | 19              | 31              | 1.8 (1.0, 3.2)      |
-| Class III + V or Class IV + V (61 vs. 55) |                  | 27              | 38              | 1.8 (0.8, 4.0)      |
-|                                           |                  | 15              | 26              | 2.8 (1.0, 7.7)      |
-| Class V (36 vs. 36)                       |                  | 42              | 36              | 0.6 (0.2, 1.9)      |
-|                                           |                  | 31              | 33              | 0.8 (0.3, 2.6)      |
-| Odds ratio                                | Odds ratio       | Odds ratio      | Odds ratio      | Odds ratio          |
+| Subgroup - Benlysta (n) versus Placebo (n)   |                          | Response rate - Placebo (%)   | Response rate - Benlysta (%)   | Odds ratio (95 % CI)   |
+|----------------------------------------------|--------------------------|-------------------------------|--------------------------------|------------------------|
+| Induction regimen Favours                    | Placebo Favours Benlysta |                               |                                |                        |
+| Mycophenolate (164 vs. 164)                  |                          | 34                            | 46                             | 1.6 (1.0, 2.5)         |
+|                                              |                          | 20                            | 34                             | 2.0 (1.2, 3.4)         |
+| Cyclophosphamide (59 vs. 59)                 |                          | 27                            | 34                             | 1.5 (0.7, 3.5)         |
+|                                              |                          | 19                            | 19                             | 1.1 (0.4, 2.8)         |
+| Biopsy class                                 |                          |                               |                                |                        |
+| Class III or Class IV (126 vs. 132)          |                          | 32                            | 48                             | 1.8 (1.1, 3.1)         |
+|                                              |                          | 19                            | 31                             | 1.8 (1.0, 3.2)         |
+| Class III + V or Class IV + V (61 vs. 55)    |                          | 27                            | 38                             | 1.8 (0.8, 4.0)         |
+|                                              |                          | 15                            | 26                             | 2.8 (1.0, 7.7)         |
+| Class V (36 vs. 36)                          |                          | 42                            | 36                             | 0.6 (0.2, 1.9)         |
+|                                              | 2 4 8                    | 31                            | 33                             | 0.8 (0.3, 2.6)         |
+| Odds ratio                                   | Odds ratio               | Odds ratio                    | Odds ratio                     | Odds ratio             |
 
 Primary Efficacy Renal Response (PERR)
 
@@ -2172,23 +2180,21 @@ Benlysta was administered intravenously to black patients with SLE in a randomis
 
 ## SLE
 
-The safety and efficacy of Benlysta was evaluated in a randomised, double-blind, placebo-controlled, 52-week study (PLUTO) in 93 paediatric patients with a clinical diagnosis of SLE according to the ACR classification criteria. Patients had active SLE disease, defined as a SELENASLEDAI score ≥ 6 and positive autoantibodies at screening as described in the adult trials. Patients were on a stable SLE treatment regimen (standard of care) and had similar inclusion criteria as the adult studies. Patients who had severe active lupus nephritis, severe active CNS lupus, primary immunodeficiency, IgA deficiency or acute or chronic infections requiring management were excluded from the study. The study was conducted in the US, South America,
+The safety and efficacy of Benlysta was evaluated in a randomised, double-blind, placebo-controlled, 52-week study (PLUTO) in 93 paediatric patients with a clinical diagnosis of SLE according to the ACR classification criteria. Patients had active SLE disease, defined as a SELENASLEDAI score ≥ 6 and positive autoantibodies at screening as described in the adult trials. Patients were on a stable SLE treatment regimen (standard of care) and had similar inclusion criteria as the adult studies. Patients who had severe active lupus nephritis, severe active CNS lupus, primary immunodeficiency, IgA deficiency or acute or chronic infections requiring management were excluded from the study. The study was conducted in the US, South America, Europe, and Asia. Patient median age was 15 years (range 6 to 17 years). In the 5- to 11-year-old-group (n = 13) the SELENA-SLEDAI score ranged from 4 to 13, and in 12- to 17-year-old-group (n = 79) the SELENA-SLEDAI score ranged from 4 to 20. The majority (94.6 %) of patients were female. The study was not powered for any statistical comparisons and all data are descriptive.
 
 <div style=\"page-break-after: always\"></div>
-
-Europe, and Asia. Patient median age was 15 years (range 6 to 17 years). In the 5- to 11-year-old-group (n = 13) the SELENA-SLEDAI score ranged from 4 to 13, and in 12- to 17-year-old-group (n = 79) the SELENA-SLEDAI score ranged from 4 to 20. The majority (94.6 %) of patients were female. The study was not powered for any statistical comparisons and all data are descriptive.
 
 The primary efficacy endpoint was the SLE Responder Index (SRI) at Week 52 as described in the adult intravenous trials. There was a higher proportion of paediatric patients achieving an SRI response in patients receiving Benlysta compared with placebo. The response for the individual components of the endpoint were consistent with that of the SRI (Table 4).
 
 Table 4. Paediatric response rate at Week 52
 
-| Response 1                                                                                  | Placebo (n = 40)   | Benlysta 10 mg/kg (n = 53)     |
-|---------------------------------------------------------------------------------------------|--------------------|--------------------------------|
-| SLE Responder Index (%) Odds ratio (95 %CI) vs. placebo                                     | 43.6 (17/39)       | 52.8 (28/53) 1.49 (0.64, 3.46) |
-| Components of SLE Responder Index                                                           |                    |                                |
-| Percent of patients with reduction in SELENA-SLEDAI  4 (%) Odds ratio (95 %CI) vs. placebo | 43.6 (17/39)       | 54.7 (29/53) 1.62 (0.69, 3.78) |
-| Percent of patients with no worsening by BILAG index (%) Odds ratio (95 %CI) vs. placebo    | 61.5 (24/39)       | 73.6 (39/53) 1.96 (0.77, 4.97) |
-| Percent of patients with no worsening by PGA (%) Odds ratio (95 %CI) vs. placebo            | 66.7 (26/39)       | 75.5 (40/53) 1.70 (0.66, 4.39) |
+| Response 1                                                                                   | Placebo (n = 40)   | Benlysta 10 mg/kg (n = 53)     |
+|----------------------------------------------------------------------------------------------|--------------------|--------------------------------|
+| SLE Responder Index (%) Odds ratio (95 % CI) vs. placebo                                     | 43.6 (17/39)       | 52.8 (28/53) 1.49 (0.64, 3.46) |
+| Components of SLE Responder Index                                                            |                    |                                |
+| Percent of patients with reduction in SELENA-SLEDAI  4 (%) Odds ratio (95 % CI) vs. placebo | 43.6 (17/39)       | 54.7 (29/53) 1.62 (0.69, 3.78) |
+| Percent of patients with no worsening by BILAG index (%) Odds ratio (95 % CI) vs. placebo    | 61.5 (24/39)       | 73.6 (39/53) 1.96 (0.77, 4.97) |
+| Percent of patients with no worsening by PGA (%) Odds ratio (95 % CI) vs. placebo            | 66.7 (26/39)       | 75.5 (40/53) 1.70 (0.66, 4.39) |
 
 1 Analyses excluded any subject missing a baseline assessment for any of the components (1 for placebo).
 
@@ -2200,12 +2206,11 @@ Using the Paediatric Rheumatology International Trials Organisation/American Col
 
 Table 5. PRINTO/ACR response rate at Week 52
 
-|                                 | Proportion of patients with at least 50 %improvement in any 2 of 5 components 1 and no more than one of the remaining worsening by more than30%   | Proportion of patients with at least 50 %improvement in any 2 of 5 components 1 and no more than one of the remaining worsening by more than30%   | Proportion of patients with at least 30 %improvement in 3 of 5 components 1 and no more than one of the remaining worsening more than30%   | Proportion of patients with at least 30 %improvement in 3 of 5 components 1 and no more than one of the remaining worsening more than30%   |
-|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-|                                 | Placebo n = 40                                                                                                                                    | Benlysta 10 mg/kg n = 53                                                                                                                          | Placebo n = 40                                                                                                                             | Benlysta 10 mg/kg n = 53                                                                                                                   |
-| Response, n (%)                 | 14/40 (35.0)                                                                                                                                      | 32/53 (60.4)                                                                                                                                      | 11/40 (27.5)                                                                                                                               | 28/53 (52.8)                                                                                                                               |
-| Observed difference vs. Placebo |                                                                                                                                                   | 25.38                                                                                                                                             |                                                                                                                                            | 25.33                                                                                                                                      |
-| Odds ratio (95 %CI) vs. Placebo |                                                                                                                                                   | 2.74 (1.15, 6.54)                                                                                                                                 |                                                                                                                                            | 2.92 (1.19, 7.17)                                                                                                                          |
+|                                  | Proportion of patients with at least 50 % improvement in any 2 of 5 components 1 and no more than one of the remaining worsening by more than 30 % - Placebo n = 40   | Proportion of patients with at least 50 % improvement in any 2 of 5 components 1 and no more than one of the remaining worsening by more than 30 % - Benlysta 10 mg/kg n = 53   | Proportion of patients with at least 30 % improvement in 3 of 5 components 1 and no more than one of the remaining worsening more than 30 % - Placebo n = 40   | Proportion of patients with at least 30 % improvement in 3 of 5 components 1 and no more than one of the remaining worsening more than 30 % - Benlysta 10 mg/kg n = 53   |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Response, n (%)                  | 14/40 (35.0)                                                                                                                                                          | 32/53 (60.4)                                                                                                                                                                    | 11/40 (27.5)                                                                                                                                                   | 28/53 (52.8)                                                                                                                                                             |
+| Observed difference vs. Placebo  |                                                                                                                                                                       | 25.38                                                                                                                                                                           |                                                                                                                                                                | 25.33                                                                                                                                                                    |
+| Odds ratio (95 % CI) vs. Placebo |                                                                                                                                                                       | 2.74 (1.15, 6.54)                                                                                                                                                               |                                                                                                                                                                | 2.92 (1.19, 7.17)                                                                                                                                                        |
 
 ## 5.2 Pharmacokinetic properties
 
@@ -2229,11 +2234,9 @@ Serum belimumab concentrations declined in a bi-exponential manner, with a distr
 
 ## Lupus nephritis study
 
-A population pharmacokinetic analysis was conducted in 224 adult patients with lupus nephritis who received Benlysta 10 mg/kg body weight intravenously (Days 0, 14, 28, and then every 28 days up to 104 weeks). In patients with lupus nephritis, due to renal disease activity, belimumab clearance was initially higher than observed in SLE studies; however, after 24 weeks of treatment and throughout the remainder of
+A population pharmacokinetic analysis was conducted in 224 adult patients with lupus nephritis who received Benlysta 10 mg/kg body weight intravenously (Days 0, 14, 28, and then every 28 days up to 104 weeks). In patients with lupus nephritis, due to renal disease activity, belimumab clearance was initially higher than observed in SLE studies; however, after 24 weeks of treatment and throughout the remainder of the study, belimumab clearance and exposure were similar to that observed in adult patients with SLE who received Benlysta 10 mg/kg body weight intravenously.
 
 <div style=\"page-break-after: always\"></div>
-
-the study, belimumab clearance and exposure were similar to that observed in adult patients with SLE who received Benlysta 10 mg/kg body weight intravenously.
 
 ## Special patient populations
 
@@ -2437,10 +2440,8 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -2482,18 +2483,10 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 <div style=\"page-break-after: always\"></div>
 
-An updated RMP should be submitted:
+## An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-## · Obligation to complete post-authorisation measures
-
-The MAH shall complete, within the stated timeframe, the below measures:
-
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Due date         |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| The MAHshall also provide a data report on a long-term controlled safety registry where all patients are followed for a minimum of 5 years, based on a protocol agreed with CHMP. The safety registry will evaluate the incidence of all-cause mortality and adverse events of special interest in patients with systemic lupus erythematosus. These adverse events of special interest include serious infections (including opportunistic infections and PML), selected serious psychiatric events, and malignancies (including non-melanoma skin cancer). | 28 February 2026 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2509,11 +2502,13 @@ The MAH shall complete, within the stated timeframe, the below measures:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON -PRE-FILLED PEN(S)
+CARTON - PRE-FILLED PEN(S)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Benlysta 200 mg solution for injection in pre-filled pen belimumab
+Benlysta 200 mg solution for injection in pre-filled pen
+
+belimumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -2585,11 +2580,11 @@ Lot
 
 benlysta pen
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -2601,11 +2596,13 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON -Multipack containing 12 pre-filled pens (3 packs of 4 pre-filled pens )-with blue box
+OUTER CARTON - Multipack containing 12 pre-filled pens (3 packs of 4 pre-filled pens )-with blue box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Benlysta 200 mg solution for injection in pre-filled pen belimumab
+Benlysta 200 mg solution for injection in pre-filled pen
+
+belimumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -2697,11 +2694,13 @@ NN
 
 ## PARTICULARS TO APPEAR ON INTERMEDIATE PACKAGING
 
-CARTON -- PRE-FILLED PEN- Multipack containing 12 pre-filled pens (3 packs of 4 pre-filled pens )-with out blue box
+CARTON - - PRE-FILLED PEN- Multipack containing 12 pre-filled pens (3 packs of 4 pre-filled pens )- with out blue box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Benlysta 200 mg solution for injection in pre-filled pen belimumab
+Benlysta 200 mg solution for injection in pre-filled pen
+
+belimumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -2736,8 +2735,6 @@ Keep out of the sight and reach of children.
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2775,25 +2772,24 @@ Lot
 
 benlysta pen
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
-
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR   |
-|---------------------------------|
-| PRE-FILLED PEN LABEL            |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                               |
 
-Benlysta 200 mg injection belimumab SC
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
-Subcutaneous
+Benlysta 200 mg injection belimumab SC Subcutaneous
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2805,8 +2801,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -2821,7 +2817,9 @@ CARTON - PRE-FILLED SYRINGE(S)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Benlysta 200 mg solution for injection in pre-filled syringe belimumab
+Benlysta 200 mg solution for injection in pre-filled syringe
+
+belimumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -2858,6 +2856,8 @@ PRESS HERE TO OPEN
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2899,8 +2899,6 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
@@ -2911,7 +2909,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Benlysta 200 mg belimumab SC
+Benlysta 200 mg
+
+belimumab SC
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -2927,7 +2927,8 @@ Lot
 
 1 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2937,7 +2938,9 @@ CARTON-VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Benlysta 120 mg powder for concentrate for solution for infusion belimumab
+Benlysta 120 mg powder for concentrate for solution for infusion
+
+belimumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -3000,7 +3003,6 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
@@ -3021,7 +3023,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Benlysta 120 mg powder for concentrate for solution for infusion belimumab IV
+Benlysta 120 mg powder for concentrate for solution for infusion
+
+belimumab IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -3047,7 +3051,9 @@ CARTON-VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Benlysta 400 mg powder for concentrate for solution for infusion belimumab
+Benlysta 400 mg powder for concentrate for solution for infusion
+
+belimumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -3114,11 +3120,11 @@ Lot
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -3130,7 +3136,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Benlysta 400 mg powder for concentrate for solution for infusion belimumab IV
+Benlysta 400 mg powder for concentrate for solution for infusion
+
+belimumab IV
 
 ## 2. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -3154,20 +3162,16 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the user
 
 ## Benlysta 200 mg solution for injection in pre-filled pen belimumab
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3192,10 +3196,9 @@ You will be given Benlysta as well as your usual treatment for lupus.
 
 ## Do not use Benlysta
 
-- if you are allergic to belimumab or any of the other ingredients of this medicine (listed in section 6).
-- ➔ Check with your doctor if this may apply to you.
-
-<div style=\"page-break-after: always\"></div>
+- if you are allergic
+- ➔ Check with your doctor
+- to belimumab or any of the other ingredients of this medicine (listed in section 6). if this may apply to you.
 
 ## Warnings and precautions
 
@@ -3203,6 +3206,9 @@ Talk to your doctor before you use Benlysta:
 
 - if you have a current or long-term infection or if you often get infections. Your doctor will decide if you can be given Benlysta
 - if you are planning to have a vaccination or have had a vaccination within the last 30 days. Some vaccines should not be given just before or during treatment with Benlysta
+
+<div style=\"page-break-after: always\"></div>
+
 - if your lupus affects your nervous system
 - if you are HIV positive or have low immunoglobulin levels
 - if you have, or have had, hepatitis B or C
@@ -3245,9 +3251,9 @@ Tell your doctor if you are taking any other medicines, if you have recently tak
 
 In particular tell your doctor if you are being treated with medicines that affect your immune system, including any medicine that affects your B cells (to treat cancer or inflammatory diseases).
 
-<div style=\"page-break-after: always\"></div>
-
 Using such medicines in combination with Benlysta may make your immune system less effective. This could increase your risk of a serious infection.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy and breast-feeding
 
@@ -3276,7 +3282,7 @@ This medicine contains 0.1 mg of polysorbate 80 in each pre-filled pen. Polysorb
 
 ## Benlysta contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, so it is essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, so it is essentially 'sodium - free'.
 
 ## 3. How Benlysta is used
 
@@ -3288,7 +3294,7 @@ Benlysta must be injected under your skin following the schedule prescribed to y
 
 ## Systemic lupus erythematosus
 
-## Adults
+Adults
 
 The recommended dose is 200 mg (complete contents of one pen) once a week.
 
@@ -3296,13 +3302,13 @@ The recommended dose is 200 mg (complete contents of one pen) once a week.
 
 The recommended dose for children and adolescents 5 years and older is based on weight as shown below:
 
-<div style=\"page-break-after: always\"></div>
-
 | Body weight              | Recommended dose                                         |
 |--------------------------|----------------------------------------------------------|
 | 50 kg or more            | 200 mg (complete contents of one pen) once a week        |
 | 30 kg to less than 50 kg | 200 mg (complete contents of one pen) once every 10 days |
 | 15 kg to less than 30 kg | 200 mg (complete contents of one pen) once every 2 weeks |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Lupus nephritis
 
@@ -3349,13 +3355,13 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Stop using Benlysta and seek medical attention immediately if you notice any of the following symptoms of a severe skin reaction:
 
-<div style=\"page-break-after: always\"></div>
-
 - reddish patches on the trunk, the patches are target-like macules or circular, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These severe skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome and toxic epidermal necrolysis). These side effects have been reported with unknown frequency (cannot be estimated from the available data).
 
-## Allergic reactions -get medical help immediately
+## Allergic reactions - get medical help immediately
 
 Benlysta can cause a reaction to the injection, or an allergic (hypersensitivity) reaction.
+
+<div style=\"page-break-after: always\"></div>
 
 These are common side effects (may affect up to 1 in 10 people). They can occasionally be severe (uncommon, affecting up to 1 in 100 people), and could be life-threatening. These severe reactions are more likely to happen on the day of your first or second treatment with Benlysta, but can be delayed and occur several days afterwards.
 
@@ -3366,9 +3372,9 @@ These are common side effects (may affect up to 1 in 10 people). They can occasi
 - rash
 - itchy raised bumps or hives.
 
-Rarely, less severe delayed reactions to Benlysta can also occur, usually 5 to 10 days after an injection.
+Rarely, less severe delayed reactions to Benlysta can also occur, usually 5 to 10 days after an injection. They include symptoms such as rash, feeling sick, tiredness, muscle aches, headache, or facial swelling.
 
-They include symptoms such as rash, feeling sick, tiredness, muscle aches, headache, or facial swelling. If you experience these symptoms, particularly if you get two or more of them together:
+If you experience these symptoms, particularly if you get two or more of them together:
 
 - ➔ Tell your doctor or nurse.
 
@@ -3403,8 +3409,6 @@ Medicines that weaken your immune system, such as Benlysta, may put you at highe
 - loss of vision.
 - ➔ Tell your doctor immediately if you have any of these symptoms, or similar problems that have lasted over several days.
 
-<div style=\"page-break-after: always\"></div>
-
 If you already had these symptoms before you started treatment with Benlysta:
 
 - ➔ Tell your doctor immediately if you notice any changes in these symptoms.
@@ -3414,6 +3418,8 @@ If you already had these symptoms before you started treatment with Benlysta:
 ## Very common side effects
 
 These may affect more than 1 in 10 people:
+
+<div style=\"page-break-after: always\"></div>
 
 - bacterial infections (see 'Infections' above) .
 
@@ -3446,7 +3452,7 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-A single Benlysta pre-filled pen can be stored at room temperature (up to 25 °C) for a maximum of 12 hours -as long as it is protected from light. Once removed from the refrigerator, the pen must be used within 12 hours or discarded .
+A single Benlysta pre-filled pen can be stored at room temperature (up to 25 °C) for a maximum of 12 hours - as long as it is protected from light. Once removed from the refrigerator, the pen must be used within 12 hours or discarded .
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -3458,13 +3464,13 @@ The active ingredient is belimumab.
 
 Each 1 mL pre-filled pen contains 200 mg belimumab.
 
-<div style=\"page-break-after: always\"></div>
-
 The other ingredients are arginine hydrochloride, histidine, histidine monohydrochloride, polysorbate 80 (E 433), sodium chloride, water for injection. See section 2 for further information on polysorbate 80 and sodium content.
 
 ## What Benlysta looks like and contents of the pack
 
 Benlysta is supplied as a 1 mL colourless to slightly yellow solution in a single use pre-filled pen.
+
+<div style=\"page-break-after: always\"></div>
 
 Available in packs of 1 or 4 pre-filled pens in each pack and multipacks comprising 12 pre-filled pens (3 packs of 4 pre-filled pens).
 
@@ -3472,7 +3478,9 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-GlaxoSmithKline (Ireland) Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline (Ireland) Limited 12 Riverwalk Citywest Business Campus Dublin 24
+
+Ireland
 
 ## Manufacturer
 
@@ -3484,55 +3492,67 @@ For any information about this medicine, please contact the local representative
 
 GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0)10 85 52 00
 
-## Lietuva
-
-GlaxoSmithKline Trading Services Limited Tel: + 370 80000334
-
 ## България
 
 GlaxoSmithKline Trading Services Limited Teл.: + 359 80018205
+
+## Česká republika
+
+GlaxoSmithKline s.r.o.
+
+Tel: + 420 222 001 111
+
+cz.info@gsk.com
+
+## Danmark
+
+GlaxoSmithKline Pharma A/S
+
+Tlf.: + 45 36 35 91 00
+
+dk-info@gsk.com
+
+## Deutschland
+
+GlaxoSmithKline GmbH &amp; Co. KG
+
+Tel.: + 49 (0)89 36044 8701
+
+produkt.info@gsk.com
+
+## Eesti
+
+GlaxoSmithKline Trading Services Limited Tel: + 372 8002640
+
+## Ελλάδα
+
+GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
+
+## Lietuva
+
+GlaxoSmithKline Trading Services Limited Tel: + 370 80000334
 
 ## Luxembourg/Luxemburg
 
 GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
 
-## Česká republika
-
-GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
-
 ## Magyarország
 
 GlaxoSmithKline Trading Services Limited Tel.: + 36 80088309
-
-## Danmark
-
-GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Malta
 
 GlaxoSmithKline Trading Services Limited Tel: + 356 80065004
 
-## Deutschland
-
-GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701 produkt.info@gsk.com
-
 ## Nederland
 
 GlaxoSmithKline BV Tel: + 31 (0)33 2081100
 
-<div style=\"page-break-after: always\"></div>
-
-## Eesti
-
 ## Norge
 
-GlaxoSmithKline Trading Services Limited Tel: + 372 8002640
+GlaxoSmithKline AS
 
-GlaxoSmithKline AS Tlf: + 47 22 70 20 00
-
-## Ελλάδα
-
-GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
+Tlf: + 47 22 70 20 00
 
 ## Österreich
 
@@ -3546,33 +3566,25 @@ Tel: + 34 900 202 700
 
 es-ci@gsk.com
 
-## Polska
-
-GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
-
 ## France
 
-Laboratoire GlaxoSmithKline Tél.: + 33 (0)1 39 17 84 44 diam@gsk.com
+Laboratoire GlaxoSmithKline
 
-## Portugal
+Tél.: + 33 (0)1 39 17 84 44
 
-GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+diam@gsk.com
 
 ## Hrvatska
 
-GlaxoSmithKline Trading Services Limited Tel:+ 385 800787089
+GlaxoSmithKline Trading Services Limited
 
-## România
-
-GlaxoSmithKline Trading Services Limited Tel: + 40 800672524
+Tel:+ 385 800787089
 
 ## Ireland
 
-GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
+GlaxoSmithKline (Ireland) Limited
 
-## Slovenija
-
-GlaxoSmithKline Trading Services Limited Tel: + 386 80688869
+Tel: + 353 (0)1 4955000
 
 ## Ísland
 
@@ -3580,29 +3592,19 @@ Vistor ehf.
 
 Sími: +354 535 7000
 
-## Slovenská republika
-
-GlaxoSmithKline Trading Services Limited Tel: + 421 800500589
-
 ## Italia
 
 GlaxoSmithKline S.p.A.
 
 Tel: + 39 (0)45 7741111
 
-## Suomi/Finland
-
-GlaxoSmithKline Oy
-
-Puh/Tel: + 358 (0)10 30 30 30
-
 ## Κύπρος
 
-GlaxoSmithKline Trading Services Limited Τηλ: + 357 80070017
+GlaxoSmithKline Trading Services Limited
 
-## Sverige
+Τηλ:
 
-GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
++ 357 80070017
 
 ## Latvija
 
@@ -3614,7 +3616,49 @@ Tel: + 371 80205045
 
 Detailed information on this medicine is available on the European Medicines Agency web site:
 
-https://www.ema.europa.eu.
+[https://www.ema.europa.eu.](https://www.ema.europa.eu/)
+
+## Polska
+
+GSK Services Sp. z o.o.
+
+Tel.: + 48 (0)22 576 9000
+
+## Portugal
+
+GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00
+
+FI.PT@gsk.com
+
+## România
+
+GlaxoSmithKline Trading Services Limited Tel: + 40 800672524
+
+## Slovenija
+
+GlaxoSmithKline Trading Services Limited
+
+Tel: + 386 80688869
+
+## Slovenská republika
+
+GlaxoSmithKline Trading Services Limited Tel: + 421 800500589
+
+## Suomi/Finland
+
+GlaxoSmithKline Oy
+
+Puh/Tel: + 358 (0)10 30 30 30
+
+## Sverige
+
+GlaxoSmithKline AB
+
+Tel: + 46 (0)8 638 93 00
+
+info.produkt@gsk.com
+
+<div style=\"page-break-after: always\"></div>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -3657,9 +3701,7 @@ To improve the traceability of this medicine, you and your healthcare provider s
 
 ## Benlysta pre-filled pen parts
 
-Ring cap
-
-Inspection window
+Ring cap Inspection window
 
 Gold needle guard (needle inside) Grey stopper Expiry date
 
@@ -3783,6 +3825,8 @@ Figure 5
 - If needed, firm the injection site by pulling or stretching the skin.
 - Position the pen straight over the injection site (at a 90 o angle). Make sure the gold needle guard is flat on the skin.
 
+Figure 9
+
 <!-- image -->
 
 ## 5. Inject Benlysta and inspect
@@ -3837,16 +3881,16 @@ There may be a small amount of blood at the injection site.
 
 <div style=\"page-break-after: always\"></div>
 
-## Benlysta 200 mg solution for injection in pre-filled syringe belimumab
+## Benlysta 200 mg solution for injection in pre-filled syringe
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## belimumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3871,10 +3915,7 @@ You will be given Benlysta as well as your usual treatment for lupus.
 
 ## Do not use Benlysta
 
-- if you are allergic to belimumab or any of the other ingredients of this medicine (listed in section 6).
-- ➔ Check with your doctor if this may apply to you.
-
-<div style=\"page-break-after: always\"></div>
+- if you are allergic to belimumab or any of the other ingredients of this medicine (listed in section 6). ➔ Check with your doctor if this may apply to you.
 
 ## Warnings and precautions
 
@@ -3882,6 +3923,9 @@ Talk to your doctor before you use Benlysta:
 
 - if you have a current or long-term infection or if you often get infections. Your doctor will decide if you can be given Benlysta
 - if you are planning to have a vaccination or have had a vaccination within the last 30 days. Some vaccines should not be given just before or during treatment with Benlysta
+
+<div style=\"page-break-after: always\"></div>
+
 - if your lupus affects your nervous system
 - if you are HIV positive or have low immunoglobulin levels
 - if you have, or have had, hepatitis B or C
@@ -3924,13 +3968,13 @@ In particular tell your doctor if you are being treated with medicines that affe
 
 Using such medicines in combination with Benlysta may make your immune system less effective. This could increase your risk of a serious infection.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy and breast-feeding
 
 ## Contraception for women who could become pregnant
 
 - Use an effective method of contraception while you are being treated with Benlysta and for at least 4 months after the last dose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -3953,7 +3997,7 @@ This medicine contains 0.1 mg of polysorbate 80 in each pre-filled syringe. Poly
 
 ## Benlysta contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, so it is essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, so it is essentially 'sodium - free'.
 
 ## 3. How Benlysta is used
 
@@ -3965,7 +4009,7 @@ Benlysta must be injected under your skin on the same day each week.
 
 ## Adults (18 years of age and older)
 
-Systemic lupus erythematosus
+## Systemic lupus erythematosus
 
 The recommended dose is 200 mg (complete contents of one syringe) once a week.
 
@@ -3980,11 +4024,11 @@ The recommended dose may vary. Your doctor will prescribe the right dose for you
 
 Take a dose on the new day (even if it is less than a week since your last dose). Continue with the new weekly schedule from that day.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Injecting Benlysta
 
 Your doctor or nurse will show you or your caregiver how to inject Benlysta. Your first injection with the Benlysta pre-filled syringe will be supervised by your doctor or nurse. After you have been trained on how to use the syringe, your doctor or nurse may decide that you can give yourself the injection, or your caregiver can give it to you. Your doctor or nurse will also tell you what signs and symptoms to look out for when using Benlysta, because serious allergic reactions can occur (see 'Allergic reactions' in section 4).
+
+<div style=\"page-break-after: always\"></div>
 
 You inject Benlysta under your skin in your stomach area (abdomen) or upper leg (thigh).
 
@@ -4014,11 +4058,9 @@ Stop using Benlysta and seek medical attention immediately if you notice any of 
 
 - reddish patches on the trunk, the patches are target-like macules or circular, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These severe skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome and toxic epidermal necrolysis). These side effects have been reported with unknown frequency (cannot be estimated from the available data).
 
-## Allergic reactions -get medical help immediately
+## Allergic reactions - get medical help immediately
 
-Benlysta can cause a reaction to the injection, or an allergic (hypersensitivity) reaction.
-
-These are common side effects (may affect up to 1 in 10 people). They can occasionally be severe (uncommon, affecting up to 1 in 100 people), and could be life-threatening. These severe reactions are more likely to happen on the day of your first or second treatment with Benlysta, but can be delayed and occur several days afterwards.
+Benlysta can cause a reaction to the injection, or an allergic (hypersensitivity) reaction. These are common side effects (may affect up to 1 in 10 people). They can occasionally be severe (uncommon, affecting up to 1 in 100 people), and could be life-threatening. These severe reactions are more likely to happen on the day of your first or second treatment with Benlysta, but can be delayed and occur several days afterwards.
 
 Tell your doctor or nurse immediately, or go to the Emergency department of your nearest hospital , if you get any of the following symptoms of an allergic or injection-related reaction:
 
@@ -4027,19 +4069,17 @@ Tell your doctor or nurse immediately, or go to the Emergency department of your
 - rash
 - itchy raised bumps or hives.
 
-Rarely, less severe delayed reactions to Benlysta can also occur, usually 5 to 10 days after an injection.
-
-They include symptoms such as rash, feeling sick, tiredness, muscle aches, headache, or facial swelling.
+Rarely, less severe delayed reactions to Benlysta can also occur, usually 5 to 10 days after an injection. They include symptoms such as rash, feeling sick, tiredness, muscle aches, headache, or facial swelling.
 
 If you experience these symptoms, particularly if you get two or more of them together:
 
 - ➔ Tell your doctor or nurse.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Infections
 
 Benlysta can make you more likely to get infections, including infection of the urinary tract and airways. These are very common and may affect more than 1 in 10 people. Some infections can be severe and can uncommonly cause death.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you get any of the following symptoms of an infection:
 
@@ -4082,7 +4122,7 @@ These may affect more than 1 in 10 people:
 
 ## Common side effects
 
-## These may affect up to 1 in 10 people:
+These may affect up to 1 in 10 people:
 
 - high temperature or fever
 - injection site reactions, for example: rash, redness, itching or swelling of the skin where you have injected Benlysta
@@ -4093,11 +4133,11 @@ These may affect more than 1 in 10 people:
 - migraine
 - feeling sick, diarrhoea.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Benlysta
 
@@ -4111,7 +4151,7 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-A single Benlysta pre-filled syringe can be stored at room temperature (up to 25 °C) for a maximum of 12 hours -as long as it is protected from light. Once removed from the refrigerator, the syringe must be used within 12 hours or discarded .
+A single Benlysta pre-filled syringe can be stored at room temperature (up to 25 °C) for a maximum of 12 hours - as long as it is protected from light. Once removed from the refrigerator, the syringe must be used within 12 hours or discarded .
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -4135,13 +4175,13 @@ Not all pack sizes may be marketed.
 
 Marketing Authorisation Holder GlaxoSmithKline (Ireland) Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
 GlaxoSmithKline Manufacturing S.P.A Strada Provinciale Asolana, 90 43056 San Polo di Torrile Parma Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
@@ -4183,6 +4223,14 @@ Laboratoire GlaxoSmithKline Tél.: + 33 (0)1 39 17 84 44 diam@gsk.com
 
 GlaxoSmithKline Trading Services Limited Tel:+ 385 800787089
 
+## Ireland
+
+GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
+
+## Ísland
+
+Vistor ehf. Sími: +354 535 7000
+
 ## Lietuva
 
 GlaxoSmithKline Trading Services Limited Tel: + 370 80000334
@@ -4219,31 +4267,21 @@ Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-GlaxoSmithKline -Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
 
 ## România
 
 GlaxoSmithKline Trading Services Limited Tel: + 40 800672524
 
-## Ireland
-
-GlaxoSmithKline (Ireland) Limited
-
-Tel: + 353 (0)1 4955000
-
 ## Slovenija
 
 GlaxoSmithKline Trading Services Limited Tel: + 386 80688869
 
-## Ísland
-
-Vistor ehf.
-
-Sími: +354 535 7000
-
 ## Slovenská republika
 
 GlaxoSmithKline Trading Services Limited Tel: + 421 800500589
+
+<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
@@ -4251,31 +4289,33 @@ GlaxoSmithKline S.p.A.
 
 Tel: + 39 (0)45 7741111
 
+## Κύπρος
+
+GlaxoSmithKline Trading Services Limited Τηλ: + 357 80070017
+
+## Latvija
+
+GlaxoSmithKline Trading Services Limited
+
+Tel: + 371 80205045
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+[https://www.ema.europa.eu.](https://www.ema.europa.eu/)
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 ## Suomi/Finland
 
 GlaxoSmithKline Oy
 
 Puh/Tel: + 358 (0)10 30 30 30
 
-## Κύπρος
-
-GlaxoSmithKline Trading Services Limited Τηλ: + 357 80070017
-
 ## Sverige
 
 GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
-
-## Latvija
-
-GlaxoSmithKline Trading Services Limited Tel: + 371 80205045
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
-
------------------------------------------------------------------------------------------------------------------------------
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4318,15 +4358,15 @@ To improve the traceability of this medicine, you and your healthcare provider s
 
 <!-- image -->
 
-After use -needle is covered by needle guard
+After use - needle is covered by needle guard
 
 <!-- image -->
 
 ## Supplies you need for the injection
 
-<!-- image -->
-
 Benlysta pre-filled syringe
+
+<!-- image -->
 
 Alcohol swab (not included)
 
@@ -4468,12 +4508,16 @@ Figure 10
 
 <!-- image -->
 
-Push the plunger all the way down
+Push the plunger all
+
+the way down
 
 - Keeping hold of the syringe, slowly move your thumb back, allowing the plunger to rise up ( Figure 11 ).
 - The needle will automatically rise up into the needle guard.
 
 Figure 11
+
+<!-- image -->
 
 <!-- image -->
 
@@ -4494,21 +4538,19 @@ There may be a small amount of blood at the injection site.
 - Ask your doctor or pharmacist for instructions on how to properly dispose of a used syringe or container of used syringes.
 - Do not recycle or throw the used syringe, or the container of used syringes in household waste.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Benlysta 120 mg powder for concentrate for solution for infusion Benlysta 400 mg powder for concentrate for solution for infusion
 
 belimumab
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4536,8 +4578,6 @@ You will be given Benlysta as well as your usual treatment for lupus.
 - if you are allergic to belimumab or any of the other ingredients of this medicine (listed in section 6).
 - ➔ Check with your doctor if this may apply to you.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor before you are given Benlysta
@@ -4546,6 +4586,9 @@ Talk to your doctor before you are given Benlysta
 - if you are planning to have a vaccination or have had a vaccination within the last 30 days. Some vaccines should not be given just before or during treatment with Benlysta
 - if your lupus affects your nervous system
 - if you are HIV positive or have low immunoglobulin levels
+
+<div style=\"page-break-after: always\"></div>
+
 - if you have, or have had, hepatitis B or C
 - if you have had an organ transplant or a bone marrow or stem cell transplant
 - if you have had cancer .
@@ -4587,8 +4630,6 @@ Tell your doctor if you are taking any other medicines, if you have recently tak
 
 In particular tell your doctor if you are being treated with medicines that affect your immune system, including any medicine that affects your B cells (to treat cancer or inflammatory diseases).
 
-<div style=\"page-break-after: always\"></div>
-
 Using such medicines in combination with Benlysta may make your immune system less effective. This could increase your risk of a serious infection.
 
 ## Pregnancy and breast-feeding
@@ -4597,9 +4638,11 @@ Using such medicines in combination with Benlysta may make your immune system le
 
 - Use an effective method of contraception while you are being treated with Benlysta and for at least 4 months after the last dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy
 
-## Benlysta is not usually recommended if you are pregnant.
+Benlysta is not usually recommended if you are pregnant.
 
 - Tell your doctor if you are pregnant, think you may be pregnant, or are planning to have a baby. Your doctor will decide if you can be given Benlysta.
 - If you become pregnant while being treated with Benlysta, tell your doctor.
@@ -4634,8 +4677,6 @@ Your doctor will decide on the correct dose depending on your body weight. The r
 
 You are usually given Benlysta on the first day of treatment then again 14 and 28 days later. After this, Benlysta is usually given once every 4 weeks.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Medicine given before an infusion
 
 Your doctor may decide to give you medicines which help to reduce any infusion reactions before you are given Benlysta. These may include a type of medicine called an anti-histamine and a medicine to prevent a high temperature. You will be checked closely and if you do have any reactions these will be treated.
@@ -4648,11 +4689,13 @@ Your doctor will decide if you need to stop being given Benlysta.
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
+<div style=\"page-break-after: always\"></div>
+
 Stop using Benlysta and seek medical attention immediately if you notice any of the following symptoms of a severe skin reaction:
 
 - reddish patches on the trunk, the patches are target-like macules or circular, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These severe skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome and toxic epidermal necrolysis). These side effects have been reported with unknown frequency (cannot be estimated from the available data).
 
-## Allergic reactions -get medical help immediately
+## Allergic reactions - get medical help immediately
 
 Benlysta can cause a reaction to the infusion, or an allergic ( hypersensitivity ) reaction.
 
@@ -4665,7 +4708,9 @@ Tell your doctor or nurse immediately, or go to the Emergency department of your
 - rash
 - itchy raised bumps or hives.
 
-Rarely, less severe delayed reactions to Benlysta can also occur, usually 5 to 10 days after an infusion. They include symptoms such as rash, feeling sick, tiredness, muscle aches, headache, or facial swelling.
+Rarely, less severe delayed reactions to Benlysta can also occur, usually 5 to 10 days after an infusion.
+
+They include symptoms such as rash, feeling sick, tiredness, muscle aches, headache, or facial swelling.
 
 If you experience these symptoms, particularly if you get two or more of them together:
 
@@ -4688,9 +4733,7 @@ Benlysta can make you more likely to get infections, including infection of the 
 
 There have been reports of depression, suicidal thoughts, and suicide attempts during treatment with Benlysta. Depression can affect up to 1 in 10 people, suicidal thoughts and suicide attempts can affect up to 1 in 100 people. If you feel depressed, have thoughts about harming yourself or other distressing thoughts, or if you are depressed and notice that you feel worse or develop new symptoms:
 
-<div style=\"page-break-after: always\"></div>
-
-## ➔ Contact your doctor or go to a hospital straight away.
+- ➔ Contact your doctor or go to a hospital straight away.
 
 ## Increased risk of brain infection
 
@@ -4702,6 +4745,9 @@ Medicines that weaken your immune system, such as Benlysta, may put you at highe
 - trouble in thinking
 - difficulty with talking or walking
 - loss of vision.
+
+<div style=\"page-break-after: always\"></div>
+
 - ➔ Tell your doctor immediately if you have any of these symptoms, or similar problems that have lasted over several days.
 
 If you already had these symptoms before you started treatment with Benlysta:
@@ -4746,17 +4792,18 @@ Store in the original package in order to protect from light.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Benlysta contains
 
+- ·
 - The active ingredient is belimumab. Each 5 mL vial contains 120 mg belimumab. Each 20 mL vial contains 400 mg belimumab.
 
 After reconstitution, the solution contains 80 mg belimumab per mL.
 
 - The other ingredients are citric acid monohydrate (E 330), sodium citrate (E 331), sucrose and polysorbate 80 (E 433). See section 2 for further information on polysorbate 80 and sodium content.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What Benlysta looks like and contents of the pack
 
@@ -4766,7 +4813,9 @@ There is 1 vial in each pack.
 
 ## Marketing Authorisation Holder
 
-GlaxoSmithKline (Ireland) Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline (Ireland) Limited 12 Riverwalk Citywest Business Campus Dublin 24
+
+Ireland
 
 ## Manufacturer
 
@@ -4776,19 +4825,19 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-GlaxoSmithKline Pharmaceuticals s.a./n.v.
-
-Tél/Tel: + 32 (0)10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0)10 85 52 00
 
 ## България
 
-GlaxoSmithKline Trading Services Limited
-
-Teл.: + 359 80018205
+GlaxoSmithKline Trading Services Limited Teл .: + 359 80018205
 
 ## Česká republika
 
-GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
+GlaxoSmithKline s.r.o.
+
+Tel: + 420 222 001 111
+
+cz.info@gsk.com
 
 ## Danmark
 
@@ -4797,6 +4846,14 @@ GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 ## Deutschland
 
 GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701 produkt.info@gsk.com
+
+## Eesti
+
+GlaxoSmithKline Trading Services Limited Tel: + 372 8002640
+
+## Ελλάδα
+
+GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
 
 ## Lietuva
 
@@ -4814,29 +4871,17 @@ Tel.: + 36 80088309
 
 ## Malta
 
-GlaxoSmithKline Trading Services Limited
-
-Tel: + 356 80065004
+GlaxoSmithKline Trading Services Limited Tel: + 356 80065004
 
 ## Nederland
 
-GlaxoSmithKline BV
-
-Tel: + 31 (0)33 2081100
-
-## Eesti
-
-GlaxoSmithKline Trading Services Limited Tel: + 372 8002640
+GlaxoSmithKline BV Tel: + 31 (0)33 2081100
 
 ## Norge
 
 GlaxoSmithKline AS
 
 Tlf: + 47 22 70 20 00
-
-## Ελλάδα
-
-GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
 
 ## Österreich
 
@@ -4850,35 +4895,25 @@ Tel: + 34 900 202 700
 
 es-ci@gsk.com
 
-## Polska
-
-GSK Services Sp. z o.o.
-
-Tel.: + 48 (0)22 576 9000
-
 ## France
 
-Laboratoire GlaxoSmithKline Tél.: + 33 (0)1 39 17 84 44 diam@gsk.com
+Laboratoire GlaxoSmithKline
 
-## Portugal
+Tél.: + 33 (0)1 39 17 84 44
 
-GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+diam@gsk.com
 
 ## Hrvatska
 
-GlaxoSmithKline Trading Services Limited Tel:+ 385 800787089
+GlaxoSmithKline Trading Services Limited
 
-## România
-
-GlaxoSmithKline Trading Services Limited Tel: + 40 800672524
+Tel:+ 385 800787089
 
 ## Ireland
 
-GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
+GlaxoSmithKline (Ireland) Limited
 
-## Slovenija
-
-GlaxoSmithKline Trading Services Limited Tel: + 386 80688869
+Tel: + 353 (0)1 4955000
 
 ## Ísland
 
@@ -4886,29 +4921,19 @@ Vistor ehf.
 
 Sími: +354 535 7000
 
-## Slovenská republika
-
-GlaxoSmithKline Trading Services Limited Tel: + 421 800500589
-
 ## Italia
 
 GlaxoSmithKline S.p.A.
 
 Tel: + 39 (0)45 7741111
 
-## Suomi/Finland
-
-GlaxoSmithKline Oy
-
-Puh/Tel: + 358 (0)10 30 30 30
-
 ## Κύπρος
 
-GlaxoSmithKline Trading Services Limited Τηλ: + 357 80070017
+GlaxoSmithKline Trading Services Limited
 
-## Sverige
+Τηλ:
 
-GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
++ 357 80070017
 
 ## Latvija
 
@@ -4920,15 +4945,51 @@ Tel: + 371 80205045
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Polska
+
+GSK Services Sp. z o.o.
+
+Tel.: + 48 (0)22 576 9000
+
+## Portugal
+
+GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00
+
+FI.PT@gsk.com
+
+## România
+
+GlaxoSmithKline Trading Services Limited Tel: + 40 800672524
+
+## Slovenija
+
+GlaxoSmithKline Trading Services Limited Tel: + 386 80688869
+
+## Slovenská republika
+
+GlaxoSmithKline Trading Services Limited Tel: + 421 800500589
+
+## Suomi/Finland
+
+GlaxoSmithKline Oy
+
+Puh/Tel: + 358 (0)10 30 30 30
+
+## Sverige
+
+GlaxoSmithKline AB
+
+Tel: + 46 (0)8 638 93 00
+
+info.produkt@gsk.com
+
 <div style=\"page-break-after: always\"></div>
 
-------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------ The following information is intended for healthcare professionals only:
 
 <div style=\"page-break-after: always\"></div>
 
-The following information is intended for healthcare professionals only:
-
-## Instructions for use and handling -reconstitution, dilution and administration
+## Instructions for use and handling - reconstitution, dilution and administration
 
 In order to improve traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
 
@@ -4994,3 +5055,25 @@ Benlysta is infused over a 1 hour period.
 Benlysta must not be infused concomitantly in the same intravenous line with other agents. No incompatibilities between Benlysta and polyvinylchloride or polyolefin bags have been observed.
 
 -----------------------------------------------------------------------------------------------------------------------------
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATIONS
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report for the non-interventional imposed PASS final study report for the medicinal products mentioned above, the scientific conclusions of CHMP are as follows:
+
+In view of available data regarding the PASS final study report, the PRAC considered that changes to the Product Information and conditions of the marketing authorisation were warranted, including the removal of the additional monitoring statement and the black triangle from the Product Information, and information on the PASS from Annex II.
+
+The CHMP agrees with the scientific conclusions made by the PRAC.
+
+## Grounds for the variation to the terms of the marketing authorisations
+
+On the basis of the scientific conclusions for the results of the study for the medicinal products mentioned above, the CHMP is of the opinion that the benefit-risk balance of these medicinal products is unchanged, subject to the proposed changes to the product information.
+
+The CHMP is of the opinion that the terms of the marketing authorisations of the medicinal products mentioned above should be varied.

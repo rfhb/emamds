@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-07 13:04:17
+document_datetime: 2026-09-08 10:57:24
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kavigale-epar-product-information_en.pdf
 document_name: kavigale-epar-product-information_en.pdf
 version: success
-processing_time: 6.2723081
-conversion_datetime: 2026-04-09 12:26:01.610899
+processing_time: 6.0075849
+conversion_datetime: 2026-09-11 17:27:40.454717
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -239,11 +239,9 @@ There are limited safety data available for paediatric patients ≥ 12 years to 
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -273,53 +271,47 @@ Neutralisation activity of sipavibart against pseudovirus SARS-CoV-2 variants ar
 
 Table 2 Sipavibart pseudovirus neutralisation data against SARS-CoV-2 variants
 
-| Lineage with spike protein substitutions   | Lineage with spike protein substitutions   | Characteristic RBD substitutions tested                                                                                                                                               | Fold reduction in susceptibility a   | IC 50 (ng/ml)   |
-|--------------------------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----------------|
-| Pango lineage (origin)                     | WHO label                                  | Characteristic RBD substitutions tested                                                                                                                                               | Pseudovirus b                        | Pseudovirus b   |
-| BA.2 (Multiple countries)                  | Omicron BA.2                               | T19I:del24-26:A27S:G142D: V213G:G339D:S371F:S373P: S375F:T376A:D405N:R408S: K417N:N440K:S477N:T478K: E484A:Q493R:Q498R:N501Y: Y505H:D614G:H655Y:N679K: P681H:N764K:D796Y:Q954H: N969K | 0.8                                  | 10.7            |
+| Lineage with spike protein substitutions - Pango lineage (origin)   | Lineage with spike protein substitutions - WHO label   | Characteristic RBD substitutions tested                                                                                                                                               |   Fold reduction in susceptibility a - Pseudovirus b |   IC 50 (ng/ml) - Pseudovirus b |
+|---------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|---------------------------------|
+| BA.2 (Multiple countries)                                           | Omicron BA.2                                           | T19I:del24-26:A27S:G142D: V213G:G339D:S371F:S373P: S375F:T376A:D405N:R408S: K417N:N440K:S477N:T478K: E484A:Q493R:Q498R:N501Y: Y505H:D614G:H655Y:N679K: P681H:N764K:D796Y:Q954H: N969K |                                                  0.8 |                            10.7 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Lineage with spike protein substitutions   | Lineage with spike protein substitutions   | Characteristic RBD substitutions tested                                                                                                                                                                                                                   | Fold reduction in susceptibility a   | IC 50 (ng/ml)   |
-|--------------------------------------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----------------|
-| Pango lineage (origin)                     | WHO label                                  | Characteristic RBD substitutions tested                                                                                                                                                                                                                   | Pseudovirus b                        | Pseudovirus b   |
-| BA.4/5 (Multiple countries)                | Omicron BA.4/5                             | T19I:del24-26:A27S:del69- 70:G142D:V213G:G339D: S371F:S373P:S375F:T376A: D405N:R408S:K417N:N440K: L452R:S477N:T478K:E484A:F 486V:Q498R:N501Y:Y505H: D614G:H655Y:N679K:P681H: N764K:D796Y:Q954H:N969K                                                      | 0.4                                  | 4.7             |
-| BQ.1 (Nigeria)                             | Omicron BQ.1                               | T19I:del24-26:A27S:del69- 70:G142D:V213G:G339D: S371F:S373P:S375F:T376A: D405N:R408S:K417N:N440K: K444T:L452R:N460K:S477N: T478K:E484A:F486V:Q498R: N501Y:Y505H:D614G:H655Y: N679K:P681H:N764K:D796Y: Q954H:N969K                                         | 0.9                                  | 11.6            |
-| BQ.1.1 (Multiple countries)                | Omicron BQ.1.1                             | T19I:del24-26:A27S:del69- 70:G142D:V213G:G339D: R346T:S371F:S373P:S375F: T376A:D405N:R408S:K417N: N440K:K444T:L452R:N460K: S477N:T478K:E484A:F486V: Q498R:N501Y:Y505H:D614G: H655Y:N679K:P681H:N764K: D796Y:Q954H:N969K                                   | 0.7                                  | 9.2             |
-| XBB (Multiple countries)                   | Omicron XBB                                | T19I:del24-26:A27S:V83A: G142D: Y144-:H146Q:Q183E: V213E:G339H:R346T:L368I: S371F:S373P:S375F:T376A: D405N:R408S:K417N:N440K: V445P:G446S:N460K:S477N: T478K:E484A:F486S:F490S: Q498R:N501Y:Y505H:D614G: H655Y:N679K:P681H:N764K: D796Y:Q954H:N969K       | 0.3                                  | 3.8             |
-| XBB.1 (Multiple countries)                 | Omicron XBB.1                              | T19I:del24-26:A27S:V83A: G142D: Y144-:H146Q:Q183E: V213E:G252V:G339H:R346T: L368I:S371F:S373P:S375F: T376A:D405N:R408S:K417N: N440K:V445P:G446S:N460K: S477N:T478K:E484A:F486S: F490S:Q498R:N501Y:Y505H: D614G:H655Y:N679K:P681H: N764K:D796Y:Q954H:N969K | 0.3                                  | 3.6             |
+| Lineage with spike protein substitutions - Pango lineage (origin)   | Lineage with spike protein substitutions - WHO label   | Characteristic RBD substitutions tested                                                                                                                                                                                                                   |   Fold reduction in susceptibility a - Pseudovirus b |   IC 50 (ng/ml) - Pseudovirus b |
+|---------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|---------------------------------|
+| BA.4/5 (Multiple countries)                                         | Omicron BA.4/5                                         | T19I:del24-26:A27S:del69- 70:G142D:V213G:G339D: S371F:S373P:S375F:T376A: D405N:R408S:K417N:N440K: L452R:S477N:T478K:E484A:F 486V:Q498R:N501Y:Y505H: D614G:H655Y:N679K:P681H: N764K:D796Y:Q954H:N969K                                                      |                                                  0.4 |                             4.7 |
+| BQ.1 (Nigeria)                                                      | Omicron BQ.1                                           | T19I:del24-26:A27S:del69- 70:G142D:V213G:G339D: S371F:S373P:S375F:T376A: D405N:R408S:K417N:N440K: K444T:L452R:N460K:S477N: T478K:E484A:F486V:Q498R: N501Y:Y505H:D614G:H655Y: N679K:P681H:N764K:D796Y: Q954H:N969K                                         |                                                  0.9 |                            11.6 |
+| BQ.1.1 (Multiple countries)                                         | Omicron BQ.1.1                                         | T19I:del24-26:A27S:del69- 70:G142D:V213G:G339D: R346T:S371F:S373P:S375F: T376A:D405N:R408S:K417N: N440K:K444T:L452R:N460K: S477N:T478K:E484A:F486V: Q498R:N501Y:Y505H:D614G: H655Y:N679K:P681H:N764K: D796Y:Q954H:N969K                                   |                                                  0.7 |                             9.2 |
+| XBB (Multiple countries)                                            | Omicron XBB                                            | T19I:del24-26:A27S:V83A: G142D: Y144-:H146Q:Q183E: V213E:G339H:R346T:L368I: S371F:S373P:S375F:T376A: D405N:R408S:K417N:N440K: V445P:G446S:N460K:S477N: T478K:E484A:F486S:F490S: Q498R:N501Y:Y505H:D614G: H655Y:N679K:P681H:N764K: D796Y:Q954H:N969K       |                                                  0.3 |                             3.8 |
+| XBB.1 (Multiple countries)                                          | Omicron XBB.1                                          | T19I:del24-26:A27S:V83A: G142D: Y144-:H146Q:Q183E: V213E:G252V:G339H:R346T: L368I:S371F:S373P:S375F: T376A:D405N:R408S:K417N: N440K:V445P:G446S:N460K: S477N:T478K:E484A:F486S: F490S:Q498R:N501Y:Y505H: D614G:H655Y:N679K:P681H: N764K:D796Y:Q954H:N969K |                                                  0.3 |                             3.6 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Lineage with spike protein substitutions   | Lineage with spike protein substitutions   | Characteristic RBD substitutions tested                                                                                                                                                                                                                               | Fold reduction in susceptibility a   | IC 50 (ng/ml)   |
-|--------------------------------------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----------------|
-| Pango lineage (origin)                     | WHO label                                  | Characteristic RBD substitutions tested                                                                                                                                                                                                                               | Pseudovirus b                        | Pseudovirus b   |
-| XBB.1.5/XBB. 1.9 (Multiple countries)      | Omicron XBB.1.5/ XBB.1.9                   | T19I:L24S:del25-27:V83A: G142D:del144:H146Q:Q183E: V213E:G252V:G339H:R346T: L368I:S371F:S373P:S375F: T376A:D405N:R408S:K417N: N440K:V445P:G446S:N460K: S477N:T478K:E484A:S486P: F490S:Q498R:N501Y:Y505H: D614G:H655Y:N679K:P681H: N764K:D796Y:Q954H:N969K             | 0.4                                  | 5.8             |
-| XBB.1.16 (India)                           | Omicron XBB.1.16                           | T19I:del24-26:A27S:V83A: G142D: Y144-:H146Q:E180V: Q183E:V213E:G252V:G339H: R346T:L368I:S371F:S373P: S375F:T376A:D405N:R408S: K417N:N440K:V445P:G446S: N460K:S477N:T478R,E484A: F486P:F490S:Q498R:N501Y :Y505H:D614G:H655Y:N679K :P681H:N764K:D796Y:Q954H :N969       | 0.1                                  | 1.3             |
-| XBB.2.3 (Multiple countries)               | Omicron XBB.2.3                            | T19I:L24-:P25-:P26-:A27S: V83A:G142D:Y144-:H146Q: Q183E:V213E:D253G:G339H: R346T:L368I:S371F:S373P: S375F:T376A:D405N:R408S: K417N:N440K:V445P:G446S: N460K:S477N:T478K:E484A: F486P:F490S:Q498R:N501Y: Y505H:P521S:D614G:H655Y: N679K:P681H:N764K:D796Y: Q954H:N969K | 0.3                                  | 3.4             |
-| XBB.1.5.10/E G.5 (Multiple countries)      | Omicron XBB.1.5. 10/EG.5                   | XBB.1.5 + F456L                                                                                                                                                                                                                                                       | > 50-fold                            | > 1 000 c       |
-| EG.5.1 (Multiple countries)                | Omicron EG.5.1                             | XBB.1.5 + Q52H + F456L                                                                                                                                                                                                                                                | > 50-fold                            | > 1 000 c       |
+| Lineage with spike protein substitutions - Pango lineage (origin)   | Lineage with spike protein substitutions - WHO label   | Characteristic RBD substitutions tested                                                                                                                                                                                                                               | Fold reduction in susceptibility a - Pseudovirus b   | IC 50 (ng/ml) - Pseudovirus b   |
+|---------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|---------------------------------|
+| XBB.1.5/XBB. 1.9 (Multiple countries)                               | Omicron XBB.1.5/ XBB.1.9                               | T19I:L24S:del25-27:V83A: G142D:del144:H146Q:Q183E: V213E:G252V:G339H:R346T: L368I:S371F:S373P:S375F: T376A:D405N:R408S:K417N: N440K:V445P:G446S:N460K: S477N:T478K:E484A:S486P: F490S:Q498R:N501Y:Y505H: D614G:H655Y:N679K:P681H: N764K:D796Y:Q954H:N969K             | 0.4                                                  | 5.8                             |
+| XBB.1.16 (India)                                                    | Omicron XBB.1.16                                       | T19I:del24-26:A27S:V83A: G142D: Y144-:H146Q:E180V: Q183E:V213E:G252V:G339H: R346T:L368I:S371F:S373P: S375F:T376A:D405N:R408S: K417N:N440K:V445P:G446S: N460K:S477N:T478R,E484A: F486P:F490S:Q498R:N501Y :Y505H:D614G:H655Y:N679K :P681H:N764K:D796Y:Q954H :N969       | 0.1                                                  | 1.3                             |
+| XBB.2.3 (Multiple countries)                                        | Omicron XBB.2.3                                        | T19I:L24-:P25-:P26-:A27S: V83A:G142D:Y144-:H146Q: Q183E:V213E:D253G:G339H: R346T:L368I:S371F:S373P: S375F:T376A:D405N:R408S: K417N:N440K:V445P:G446S: N460K:S477N:T478K:E484A: F486P:F490S:Q498R:N501Y: Y505H:P521S:D614G:H655Y: N679K:P681H:N764K:D796Y: Q954H:N969K | 0.3                                                  | 3.4                             |
+| XBB.1.5.10/E G.5 (Multiple countries)                               | Omicron XBB.1.5. 10/EG.5                               | XBB.1.5 + F456L                                                                                                                                                                                                                                                       | > 50-fold                                            | > 1 000 c                       |
+| EG.5.1 (Multiple countries)                                         | Omicron EG.5.1                                         | XBB.1.5 + Q52H + F456L                                                                                                                                                                                                                                                | > 50-fold                                            | > 1 000 c                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| Lineage with spike protein substitutions        | Lineage with spike protein substitutions   | Characteristic RBD substitutions tested                                                                                                                                                                                                                                                                                                                                              | Fold reduction in susceptibility a   | IC 50 (ng/ml)   |
-|-------------------------------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----------------|
-| Pango lineage (origin)                          | WHO label                                  | Characteristic RBD substitutions tested                                                                                                                                                                                                                                                                                                                                              | Pseudovirus b                        | Pseudovirus b   |
-| BA.2.86 d (Multiple countries)                  | Omicron BA.2.86                            | T19I:R21T:L24-:P25-:P26-: A27S:S50L:H69-:V70-: V127F:G142D:Y144-:F157S: R158G:N211-:L212I:V213G: L216F:H245N:A264D:I332V: G339H: K356T:S371F:S373P: S375F:T376A:R403K:D405N: R408S:K417N:N440K:V445H: G446S:N450D:L452W:N460K: S477N:T478K:N481K:V483- :E484K:F486P:Q498R:N501Y: Y505H:E554K:A570V:D614G: P621S:H655Y:I670V:N679K: P681R:N764K:D796Y:S939F: Q954H:N969K:P1143L       | 0.3                                  | 3.8             |
-| JN.1 (Multiple countries)                       | Omicron JN.1                               | T19I:R21T:L24-:P25-:P26-: A27S:S50L:H69-:V70-:V127F: G142D:Y144-:F157S:R158G: N211-:L212I:V213G: L216F: H245N:A264D:I332V:G339H: K356T:S371F:S373P:S375F: T376A:R403K:D405N:R408S: K417N:N440K:V445H:G446S: N450D:L452W:L455S:N460K: S477N:T478K:N481K:V483- :E484K:F486P:Q498R: N501Y:Y505H:E554K:A570V: D614G:P621S:H655Y:I670V: N679K:P681R:N764K:D796Y: S939F:Q954H:N969K:P1143L | 6.2                                  | 83.1            |
-| KP.2, KP.3, LB.1, KP.3.1.1 (Multiple countries) | Multiple                                   | Defining mutation: F456L                                                                                                                                                                                                                                                                                                                                                             | > 50-fold c                          | > 1 000 c,e     |
-
-a Range of reduced in vitro potency across multiple sets of co-occurring substitutions and/or testing labs using research-grade assays; mean fold change in half maximal inhibitory concentration (IC50) of monoclonal antibody required for a 50% reduction in infection compared to ancestral reference strain (Wuhan D614G).
-
-b Pseudoviruses expressing the entire SARS-CoV-2 spike variant protein and individual characteristic spike substitutions.
-
-c Sipavibart is not deemed active against this variant.
-
-d BA.2.86 includes BA.2.86, BA.2.86.1, JN.2, and JN.3, which have the same SARS-CoV-2 spike protein sequence.
-
-e Presumed IC50 based on presence of F456L mutation in the variant.
+| Lineage with spike protein substitutions - Pango lineage (origin)   | Lineage with spike protein substitutions - WHO label   | Characteristic RBD substitutions tested                                                                                                                                                                                                                                                                                                                                                                 | Fold reduction in susceptibility a - Pseudovirus b   | IC 50 (ng/ml) - Pseudovirus b   |
+|---------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|---------------------------------|
+| BA.2.86 d (Multiple countries)                                      | Omicron BA.2.86                                        | T19I:R21T:L24-:P25-:P26-: A27S:S50L:H69-:V70-: V127F:G142D:Y144-:F157S: R158G:N211-:L212I:V213G: L216F:H245N:A264D:I332V: G339H: K356T:S371F:S373P: S375F:T376A:R403K:D405N: R408S:K417N:N440K:V445H: G446S:N450D:L452W:N460K: S477N:T478K:N481K:V483- :E484K:F486P:Q498R:N501Y: Y505H:E554K:A570V:D614G: P621S:H655Y:I670V:N679K: P681R:N764K:D796Y:S939F:                                             | 0.3                                                  | 3.8                             |
+| JN.1 (Multiple countries)                                           | Omicron JN.1                                           | Q954H:N969K:P1143L T19I:R21T:L24-:P25-:P26-: A27S:S50L:H69-:V70-:V127F: G142D:Y144-:F157S:R158G: N211-:L212I:V213G: L216F: H245N:A264D:I332V:G339H: K356T:S371F:S373P:S375F: T376A:R403K:D405N:R408S: K417N:N440K:V445H:G446S: N450D:L452W:L455S:N460K: S477N:T478K:N481K:V483- :E484K:F486P:Q498R: N501Y:Y505H:E554K:A570V: D614G:P621S:H655Y:I670V: N679K:P681R:N764K:D796Y: S939F:Q954H:N969K:P1143L | 6.2                                                  | 83.1                            |
+| KP.2, KP.3, LB.1, KP.3.1.1 (Multiple countries)                     | Multiple                                               | Defining mutation: F456L                                                                                                                                                                                                                                                                                                                                                                                | > 50-fold c                                          | > 1 000 c,e                     |
+| BA.3.2 f (Multiple countries)                                       | Omicron BA.3                                           | G339Y:A348P:K356T:S371F: S373P:S375F:R403K:D405N: R408S:K417N: A435S:N440R: V445A:G446D:L452W:N460K :S477N:T478N:E484K:G496S: Q498R:N501Y:K529N                                                                                                                                                                                                                                                         | 6.9                                                  | 93.2                            |
 
 <div style=\"page-break-after: always\"></div>
+
+- a Range of reduced in vitro potency across multiple sets of co-occurring substitutions and/or testing labs using research-grade assays; mean fold change in half maximal inhibitory concentration (IC50) of monoclonal antibody required for a 50% reduction in infection compared to ancestral reference strain (Wuhan D614G).
+- b Pseudoviruses expressing the entire SARS-CoV-2 spike variant protein and individual characteristic spike substitutions.
+- c Sipavibart is not deemed active against this variant.
+- d BA.2.86 includes BA.2.86, BA.2.86.1, JN.2, and JN.3, which have the same SARS-CoV-2 spike protein sequence.
+- e Presumed IC50 based on presence of F456L mutation in the variant.
+- f BA.3.2 includes a family of variants which have the same SARS-CoV-2 spike protein sequence.
 
 ## Immunogenicity
 
@@ -348,20 +340,20 @@ The baseline demographics were balanced across the sipavibart and comparator tre
 
 The study included dual primary efficacy endpoints, comparing the efficacy of sipavibart to a comparator in the prevention of symptomatic COVID-19 (1) caused by any SARS-CoV-2 variant up to 181 days post last dose confirmed by RT-PCR and (2) attributable to matched variants (variants that do not contain the F456L mutation based on viral sequencing data and are expected to be susceptible to sipavibart) up to 181 days post last dose confirmed by RT-PCR. For each of the dual primary endpoints, a superiority test was performed to compare the relative risk of symptomatic COVID-19 between treatment arms.
 
-Relative risk reduction where events were counted regardless of receipt of COVID-19 vaccinations / medicinal products or unblinding is presented in Table 3.
-
 <div style=\"page-break-after: always\"></div>
+
+Relative risk reduction where events were counted regardless of receipt of COVID-19 vaccinations / medicinal products or unblinding is presented in Table 3.
 
 Table 3 Relative risk reduction of symptomatic COVID-19 based on primary analysis
 
-|                                                                   | N                                                                 | Number of events, n (%)                                           | Relative risk reduction, %(CI) b   |
-|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------|
-| Overall primary efficacy endpoint over 6 months post-dose         | Overall primary efficacy endpoint over 6 months post-dose         | Overall primary efficacy endpoint over 6 months post-dose         |                                    |
-| Sipavibart                                                        | 1 649                                                             | 151 (9.2%)                                                        | 29.9% (95% CI: 13.4, 43.3)         |
-| Comparator a                                                      | 1 631                                                             | 207 (12.7%)                                                       |                                    |
-| Matched variant primary efficacy endpoint over 6 months post-dose | Matched variant primary efficacy endpoint over 6 months post-dose | Matched variant primary efficacy endpoint over 6 months post-dose | 35.3% (95% CI: 12.7, 52.0)         |
-| Sipavibart                                                        | 1 649                                                             | 72 (4.4%)                                                         | 35.3% (95% CI: 12.7, 52.0)         |
-| Comparator a                                                      | 1 631                                                             | 108 (6.6%)                                                        | 35.3% (95% CI: 12.7, 52.0)         |
+|                                                                   | N                                                                 | Number of events, n (%)                                           | Relative risk reduction, % (CI) b   |
+|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------|
+| Overall primary efficacy endpoint over 6 months post-dose         | Overall primary efficacy endpoint over 6 months post-dose         | Overall primary efficacy endpoint over 6 months post-dose         |                                     |
+| Sipavibart                                                        | 1 649                                                             | 151 (9.2%)                                                        | 29.9% (95% CI: 13.4, 43.3)          |
+| Comparator a                                                      | 1 631                                                             | 207 (12.7%)                                                       |                                     |
+| Matched variant primary efficacy endpoint over 6 months post-dose | Matched variant primary efficacy endpoint over 6 months post-dose | Matched variant primary efficacy endpoint over 6 months post-dose | 35.3% (95% CI: 12.7, 52.0)          |
+| Sipavibart                                                        | 1 649                                                             | 72 (4.4%)                                                         | 35.3% (95% CI: 12.7, 52.0)          |
+| Comparator a                                                      | 1 631                                                             | 108 (6.6%)                                                        | 35.3% (95% CI: 12.7, 52.0)          |
 
 At final analysis, sipavibart demonstrated an overall risk reduction of 22.1% (95% CI: 7.1, 34.7) in the six-month period following an intramuscular dose of 300 mg for all variants (229/1649 [13.9%] events in the sipavibart arm versus 281/1631 [17.2%] in the comparator arm). For the matched non-F456L analysis, sipavibart demonstrated an overall risk reduction of 32.4% (95% CI: 9.4, 49.5) in the six-month period following an intramuscular dose of 300 mg (78/1649 [4.7%] events in the sipavibart arm versus 112/1631 [6.9%] in the comparator arm). The median follow-up time post-second dose was 267 days (range 5 to 358 days).
 
@@ -381,9 +373,9 @@ The absolute bioavailability of sipavibart following 300 mg intramuscular admini
 
 Following the first and second dose of 300 mg sipavibart administered intramuscularly in the anterolateral thigh, the geometric mean serum sipavibart concentrations (CV%) at one-month post-dose were 30.1 (35.9%) μg/ml and 33.0 (50.8%) μg/ml, respectively. Doses were administered 6 months apart.
 
-Following a single infusion of 300 mg and 1 200 mg sipavibart (infusion rate: 50 mg/min), the geometric mean (CV%) serum concentration of sipavibart at 20 minutes post-infusion was 101.6 (11.5%) μg/ml and 452.1 (40.0%) μg/ml, respectively.
-
 <div style=\"page-break-after: always\"></div>
+
+Following a single infusion of 300 mg and 1 200 mg sipavibart (infusion rate: 50 mg/min), the geometric mean (CV%) serum concentration of sipavibart at 20 minutes post-infusion was 101.6 (11.5%) μg/ml and 452.1 (40.0%) μg/ml, respectively.
 
 ## Distribution
 
@@ -423,11 +415,11 @@ Exposure to sipavibart in older adults ≥ 65 years of age (n=225) was comparabl
 
 The recommended dose regimen is expected to result in comparable serum exposures of sipavibart in adolescents 12 years of age or older who weigh at least 40 kg as observed in adults, since adults with similar body weight have been included in the clinical studies with sipavibart.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other special populations
 
 There were no clinically meaningful differences in serum exposures to sipavibart based on sex, age (12 to 85 years of age), race, or ethnicity.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -469,11 +461,11 @@ Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions of prepared syringes and prepared infusion bags, see section 6.3.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 2 ml of solution for injection/infusion in a clear glass vial closed by a chlorobutyl elastomeric stopper sealed with a light green aluminium flip-off top.
-
-<div style=\"page-break-after: always\"></div>
 
 Pack size of 1 vial.
 
@@ -509,9 +501,10 @@ For storage conditions of the prepared syringe or prepared infusion bag, see sec
 ## Administration - syringe pump
 
 1. Administer 2 ml (300 mg) as an undiluted intravenous infusion using a syringe pump over at least 6 minutes.
-2. After the entire contents of the syringe have been administered, flush the administration set with a sufficient volume of sodium chloride 9 mg/ml (0.9%) solution for injection or dextrose 50 mg/ml (5%) solution for injection to ensure that the full dose has been administered.
 
 <div style=\"page-break-after: always\"></div>
+
+2. After the entire contents of the syringe have been administered, flush the administration set with a sufficient volume of sodium chloride 9 mg/ml (0.9%) solution for injection or dextrose 50 mg/ml (5%) solution for injection to ensure that the full dose has been administered.
 
 Disposal
 
@@ -532,8 +525,6 @@ Date of first authorisation: 20 January 2025
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-16
 
 <div style=\"page-break-after: always\"></div>
 
@@ -611,7 +602,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection/infusion
+Solution for injection/infusion
 
 1 vial
 

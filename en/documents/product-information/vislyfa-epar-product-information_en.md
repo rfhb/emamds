@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-18 10:14:46
-document_pages: 79
+document_datetime: 2026-09-08 12:21:41
+document_pages: 77
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vislyfa-epar-product-information_en.pdf
 document_name: vislyfa-epar-product-information_en.pdf
 version: success
-processing_time: 37.5751052
-conversion_datetime: 2026-08-23 00:56:28.255586
+processing_time: 35.9583912
+conversion_datetime: 2026-09-11 17:36:27.243072
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -82,9 +82,7 @@ The treatment of visual impairment due to CNV should be determined individually 
 
 Ranibizumab and laser photocoagulation in DME and in macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation (see section 5.1). When given on the same day, ranibizumab should be administered at least 30 minutes after laser photocoagulation. Ranibizumab can be administered in patients who have received previous laser photocoagulation.
 
-Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM
-
-There is no experience of concomitant administration of ranibizumab and verteporfin.
+Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM There is no experience of concomitant administration of ranibizumab and verteporfin.
 
 ## Special populations
 
@@ -244,7 +242,7 @@ The adverse reactions experienced following administration of ranibizumab in cli
 
 The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Infections and infestations Uncommon haemorrhage, conjunctivitis, conjunctivitis allergic, eye discharge, photopsia, photophobia, ocular discomfort, eyelid oedema, eyelid pain, conjunctival hyperaemia.
+Infections and infestations
 
 | Very common                          | Nasopharyngitis                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -263,37 +261,29 @@ Infections and infestations Uncommon haemorrhage, conjunctivitis, conjunctivitis
 
 <div style=\"page-break-after: always\"></div>
 
+Uncommon haemorrhage, conjunctivitis, conjunctivitis allergic, eye discharge, photopsia, photophobia, ocular discomfort, eyelid oedema, eyelid pain, conjunctival hyperaemia.
+
 Blindness, endophthalmitis, hypopyon, hyphaema, keratopathy, iris adhesion, corneal deposits, corneal oedema, corneal striae, injection site pain, injection site irritation, abnormal sensation in eye, eyelid irritation.
 
 Respiratory, thoracic and mediastinal disorders
 
-Common
-
-Cough
+Common Cough
 
 Gastrointestinal disorders
 
-Common
-
-Nausea
+Common Nausea
 
 Skin and subcutaneous tissue disorders
 
-Common
-
-Allergic reactions (rash, urticaria, pruritus, erythema)
+Common Allergic reactions (rash, urticaria, pruritus, erythema)
 
 Musculoskeletal and connective tissue disorders
 
-Very common
-
-Arthralgia
+Very common Arthralgia
 
 Investigations
 
-Very common
-
-Intraocular pressure increased
+Very common Intraocular pressure increased
 
 # Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with ranibizumab 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
 
@@ -311,11 +301,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Cases of accidental overdose have been reported from the clinical studies in wet AMD and postmarketing data. Adverse reactions associated with these reported cases were intraocular pressure increased, transient blindness, reduced visual acuity, corneal oedema, corneal pain, and eye pain. If an overdose occurs, intraocular pressure should be monitored and treated, if deemed necessary by the attending physician.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
+
+<div style=\"page-break-after: always\"></div>
 
 Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC code: S01LA04
 
@@ -339,19 +329,19 @@ Key outcome measures are summarised in Table 1 and Figure 1.
 
 Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
 
-|                                                                             |          | FVF2598g (MARINA)   | FVF2598g (MARINA)            | FVF2587g (ANCHOR)         | FVF2587g (ANCHOR)            |
-|-----------------------------------------------------------------------------|----------|---------------------|------------------------------|---------------------------|------------------------------|
-| Outcome measure                                                             | Month    | Sham (n = 238)      | Ranibizumab 0.5 mg (n = 240) | Verteporfin PDT (n = 143) | Ranibizumab 0.5 mg (n = 140) |
-| Loss of < 15 letters in visual acuity (%) a (maintenance of vision, primary | Month 12 | 62%                 | 95%                          | 64%                       | 96%                          |
-| Loss of < 15 letters in visual acuity (%) a (maintenance of vision, primary | Month 24 | 53%                 | 90%                          | 66%                       | 90%                          |
-| Gain of ≥ 15 letters in visual acuity (%) a                                 | Month 12 | 5%                  | 34%                          | 6%                        | 40%                          |
-|                                                                             | Month 24 | 4%                  | 33%                          | 6%                        | 41%                          |
-| Mean change in visual acuity (letters) (SD) a                               | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                  | -9.5 (16.4)               | +11.3 (14.6)                 |
-| Mean change in visual acuity (letters) (SD) a                               | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                  | -9.8 (17.6)               | +10.7 (16.5)                 |
-
-<div style=\"page-break-after: always\"></div>
+|                                                             |          | FVF2598g (MARINA)   | FVF2598g (MARINA)            | FVF2587g (ANCHOR)         | FVF2587g (ANCHOR)            |
+|-------------------------------------------------------------|----------|---------------------|------------------------------|---------------------------|------------------------------|
+| Outcome measure                                             | Month    | Sham (n = 238)      | Ranibizumab 0.5 mg (n = 240) | Verteporfin PDT (n = 143) | Ranibizumab 0.5 mg (n = 140) |
+| Loss of < 15 letters in visual acuity (%) a (maintenance of | Month 12 | 62%                 | 95%                          | 64%                       | 96%                          |
+| vision, primary                                             | Month 24 | 53%                 | 90%                          | 66%                       | 90%                          |
+| endpoint) Gain of ≥ 15 letters in a                         | Month 12 | 5%                  | 34%                          | 6%                        | 40%                          |
+| visual acuity (%)                                           | Month 24 | 4%                  | 33%                          | 6%                        | 41%                          |
+| Mean change in visual acuity (letters) (SD) a               | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                  | -9.5 (16.4)               | +11.3 (14.6)                 |
+| Mean change in visual acuity (letters) (SD) a               | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                  | -9.8 (17.6)               | +10.7 (16.5)                 |
 
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
+
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -381,16 +371,16 @@ The key outcomes from RADIANCE are summarised in Table 2 and Figure 2.
 
 Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 
-|                                                                                                                     | Group I Ranibizumab 0.5 mg 'Vision stability' (n = 105)   | Group II Ranibizumab 0.5 mg 'Disease activity' (n = 116)   | Group III vPDT b (n = 55)   |
-|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|-----------------------------|
-| Month 3                                                                                                             |                                                           |                                                            |                             |
-| Mean average BCVA change from Month 1 to                                                                            | +10.5                                                     | +10.6                                                      | +2.2                        |
-| Proportion of patients who gained: ≥ 15 letters, or reached ≥ 84 letters in BCVA                                    | 38.1%                                                     | 43.1%                                                      | 14.5%                       |
-| Month 12                                                                                                            |                                                           |                                                            |                             |
-| Mean                                                                                                                | 4.6                                                       | 3.5                                                        | N/A                         |
-| Median                                                                                                              | 4.0                                                       | 2.5                                                        | N/A                         |
-| Mean average BCVA change from Month 1 to Month 12 compared to baseline (letters) Proportion of patients who gained: | +12.8                                                     | +12.5                                                      | N/A                         |
-| ≥ 15 letters, or reached ≥ 84 letters in BCVA                                                                       | 53.3%                                                     | 51.7%                                                      | N/A                         |
+|                                                                                   | Group I Ranibizumab 0.5 mg 'Vision stability' (n = 105)   | Group II Ranibizumab 0.5 mg 'Disease activity' (n = 116)   | Group III vPDT b (n = 55)   |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|-----------------------------|
+| Month 3                                                                           |                                                           |                                                            |                             |
+| Mean average BCVA change from Month 1 to Month 3 compared to baseline a (letters) | +10.5                                                     | +10.6                                                      | +2.2                        |
+| Proportion of patients who gained: ≥ 15 letters, or reached ≥ 84 letters in BCVA  | 38.1%                                                     | 43.1%                                                      | 14.5%                       |
+| Month 12 Number of injections up to Month 12:                                     |                                                           |                                                            |                             |
+| Mean                                                                              | 4.6                                                       | 3.5                                                        | N/A                         |
+| Median                                                                            | 4.0                                                       | 2.5                                                        | N/A                         |
+| Mean average BCVA change from Month 1 to Month 12 compared to baseline (letters)  | +12.8                                                     | +12.5                                                      | N/A                         |
+| Proportion of patients who gained: ≥ 15 letters, or reached ≥ 84 letters in BCVA  | 53.3%                                                     | 51.7%                                                      | N/A                         |
 
 a p&lt; 0.00001 comparison with vPDT control
 
@@ -537,13 +527,12 @@ In this study, the mean visual acuity change at year 2 was +2.7 letters in the r
 
 At year 1, 41.8% of eyes experienced a ≥ 2-step improvement in the DRSS when treated with ranibizumab (n = 189) compared to 14.6% of eyes treated with PRP (n = 199). The estimated difference between ranibizumab and laser was 27.4% (95% CI: [18.9, 35.9]).
 
+## Table 7 DRSS improvement or worsening of ≥ 2 or ≥ 3 steps at year 1 in Protocol S (LOCF Method)
+
 <div style=\"page-break-after: always\"></div>
 
-Table 7 DRSS improvement or worsening of ≥ 2 or ≥ 3 steps at year 1 in Protocol S (LOCF Method)
-
-| Categorised change from baseline                                                                                                             | Protocol S                                                                                                                                   | Protocol S                                                                                                                                   | Protocol S                                                                                                                                   |
+| Categorised change from baseline                                                                                                             | Protocol S - Ranibizumab 0.5 mg (N = 189)                                                                                                    | Protocol S - PRP (N = 199)                                                                                                                   | Protocol S - Difference in proportion (%), CI                                                                                                |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Categorised change from baseline                                                                                                             | Ranibizumab 0.5 mg (N = 189)                                                                                                                 | PRP (N = 199)                                                                                                                                | Difference in proportion (%), CI                                                                                                             |
 | ≥ 2 -step improvement                                                                                                                        | ≥ 2 -step improvement                                                                                                                        | ≥ 2 -step improvement                                                                                                                        | ≥ 2 -step improvement                                                                                                                        |
 | n (%)                                                                                                                                        | 79 (41.8%)                                                                                                                                   | 29 (14.6%)                                                                                                                                   | 27.4 (18.9, 35.9)                                                                                                                            |
 | ≥ 3-step improvement                                                                                                                         | ≥ 3-step improvement                                                                                                                         | ≥ 3-step improvement                                                                                                                         | ≥ 3-step improvement                                                                                                                         |
@@ -566,36 +555,34 @@ The clinical safety and efficacy of ranibizumab in patients with visual impairme
 
 Key outcome measures from BRAVO and CRUISE are summarised in Table 8 and Figures 5 and 6.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 
-|                                                                             | BRAVO                              | BRAVO                        | CRUISE                             | CRUISE                       |
-|-----------------------------------------------------------------------------|------------------------------------|------------------------------|------------------------------------|------------------------------|
-|                                                                             | Sham/ Ranibizumab 0.5 mg (n = 132) | Ranibizumab 0.5 mg (n = 131) | Sham/ Ranibizumab 0.5 mg (n = 130) | Ranibizumab 0.5 mg (n = 130) |
-| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                         | 18.3 (13.2)                  | 0.8 (16.2)                         | 14.9 (13.2)                  |
-| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                        | 18.3 (14.6)                  | 7.3 (15.9)                         | 13.9 (14.2)                  |
-| Gain of ≥ 15 letters in visual acuity at Month 6 a (%)                      | 28.8                               | 61.1                         | 16.9                               | 47.7                         |
-| Gain of ≥ 15 letters in visual acuity at Month 12 (%)                       | 43.9                               | 60.3                         | 33.1                               | 50.8                         |
-| Proportion (%) receiving laser rescue over 12 months                        | 61.4                               | 34.4                         | NA                                 | NA                           |
+|                                 | BRAVO - Sham/ Ranibizumab 0.5 mg (n = 132)   | BRAVO - Ranibizumab 0.5 mg (n = 131)   | CRUISE - Sham/ Ranibizumab 0.5 mg (n = 130)   | CRUISE - Ranibizumab 0.5 mg (n = 130)   |
+|---------------------------------|----------------------------------------------|----------------------------------------|-----------------------------------------------|-----------------------------------------|
+| Mean change in visual acuity at | 7.3 (13.0)                                   | 18.3 (13.2)                            | 0.8 (16.2)                                    | 14.9 (13.2)                             |
 
-a p&lt; 0.0001 for both studies
+<div style=\"page-break-after: always\"></div>
+
+| Month 6 a (letters) (SD) (primary endpoint)            |             |             |            |             |
+|--------------------------------------------------------|-------------|-------------|------------|-------------|
+| Mean change in BCVA at Month 12 (letters) (SD)         | 12.1 (14.4) | 18.3 (14.6) | 7.3 (15.9) | 13.9 (14.2) |
+| Gain of ≥ 15 letters in visual acuity at Month 6 a (%) | 28.8        | 61.1        | 16.9       | 47.7        |
+| Gain of ≥ 15 letters in visual acuity at Month 12 (%)  | 43.9        | 60.3        | 33.1       | 50.8        |
+| Proportion (%) receiving laser rescue over 12 months   | 61.4        | 34.4        | NA         | NA          |
 
 Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO)
 
 <!-- image -->
 
-BL=baseline; SE=standard error of mean
-
-<div style=\"page-break-after: always\"></div>
+BL=baseline; SE=standard error of mean In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
 Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
 BL=baseline; SE=standard error of mean
 
-In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
+<!-- image -->
 
 In patients with CRVO (CRUISE and extension study HORIZON): Subjects treated with sham in the first 6 months who subsequently received ranibizumab did not achieve comparable gains in visual acuity by Month 24 (~6 letters) compared to subjects treated with ranibizumab from study start (~12 letters).
 
@@ -605,17 +592,21 @@ The long-term (24 months) clinical safety and efficacy of ranibizumab in patient
 
 Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 9.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 
-|                                                  | BRIGHTER                   | BRIGHTER                           | BRIGHTER      | CRYSTAL                    |
-|--------------------------------------------------|----------------------------|------------------------------------|---------------|----------------------------|
-|                                                  | Ranibizumab 0.5 mg N = 180 | Ranibizumab 0.5 mg + Laser N = 178 | Laser* N = 90 | Ranibizumab 0.5 mg N = 356 |
-| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)               | +14.8 (11.13)                      | +6.0 (14.27)  | +12.0 (13.95)              |
-| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)              | +17.3 (12.61)                      | +11.6 (16.09) | +12.1 (18.60)              |
-| Gain of ≥ 15 letters in BCVA at Month 24 (%)     | 52.8                       | 59.6                               | 43.3          | 49.2                       |
-| Mean number of injections (SD) (Months 0-23)     | 11.4 (5.81)                | 11.3 (6.02)                        | NA            | 13.1 (6.39)                |
+|                | BRIGHTER                   | BRIGHTER                           | BRIGHTER      | CRYSTAL                    |
+|----------------|----------------------------|------------------------------------|---------------|----------------------------|
+|                | Ranibizumab 0.5 mg N = 180 | Ranibizumab 0.5 mg + Laser N = 178 | Laser* N = 90 | Ranibizumab 0.5 mg N = 356 |
+| Mean change in | +14.8                      | +14.8                              | +6.0          | +12.0                      |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                  | BRIGHTER - Ranibizumab 0.5 mg N = 180   | BRIGHTER - Ranibizumab 0.5 mg + Laser N = 178   | BRIGHTER - Laser* N = 90   | CRYSTAL - Ranibizumab 0.5 mg N = 356   |
+|--------------------------------------------------|-----------------------------------------|-------------------------------------------------|----------------------------|----------------------------------------|
+| BCVA at Month 6 a (letters) (SD)                 | (10.7)                                  | (11.13)                                         | (14.27)                    | (13.95)                                |
+| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)                           | +17.3 (12.61)                                   | +11.6 (16.09)              | +12.1 (18.60)                          |
+| Gain of ≥ 15 letters in BCVA at Month 24 (%)     | 52.8                                    | 59.6                                            | 43.3                       | 49.2                                   |
+| Mean number of injections (SD) (Months 0-23)     | 11.4 (5.81)                             | 11.3 (6.02)                                     | NA                         | 13.1 (6.39)                            |
 
 a p&lt; 0.0001for both comparisons in BRIGHTER at Month 6: Ranibizumab 0.5 mg vs Laser and Ranibizumab 0.5 mg + Laser vs Laser.
 
@@ -637,11 +628,11 @@ The long-term safety profile of ranibizumab observed in the 24-month studies is 
 
 The European Medicines Agency has waived the obligation to submit the results of studies with the reference medicinal product containing ranibizumab in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO, visual impairment due to CNV and diabetic retinopathy (see section 4.2 for information on paediatric use).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.2  Pharmacokinetic properties
 
 Following monthly intravitreal administration of ranibizumab to patients with neovascular AMD, serum concentrations of ranibizumab were generally low, with maximum levels (Cmax) generally below the ranibizumab concentration necessary to inhibit the biological activity of VEGF by 50% (1127 ng/mL, as assessed in an in vitro cellular proliferation assay). Cmax was dose proportional over the dose range of 0.05 to 1.0 mg/eye. Serum concentrations in a limited number of DME patients indicate that a slightly higher systemic exposure cannot be excluded compared to those observed in neovascular AMD patients. Serum ranibizumab concentrations in RVO patients were similar or slightly higher compared to those observed in neovascular AMD patients.
+
+<div style=\"page-break-after: always\"></div>
 
 Based on analysis of population pharmacokinetics and disappearance of ranibizumab from serum for patients with neovascular AMD treated with the 0.5 mg dose, the average vitreous elimination half-life of ranibizumab is approximately 9 days. Upon monthly intravitreal administration of ranibizumab 0.5 mg/eye, serum ranibizumab Cmax, attained approximately 1 day after dosing, is predicted to generally range between 0.79 and 2.90 ng/mL, and Cmin is predicted to generally range between 0.07 and 0.49 ng/mL. Serum ranibizumab concentrations are predicted to be approximately 90,000-fold lower than vitreal ranibizumab concentrations.
 
@@ -661,11 +652,9 @@ Following intravitreal administration, no signs of systemic toxicity were detect
 
 No carcinogenicity or mutagenicity data are available.
 
-In pregnant monkeys, intravitreal ranibizumab treatment resulting in maximal systemic exposures 0.9-
+In pregnant monkeys, intravitreal ranibizumab treatment resulting in maximal systemic exposures 0.97-fold a worst case clinical exposure did not elicit developmental toxicity or teratogenicity, and had no effect on weight or structure of the placenta, although, based on its pharmacological effect ranibizumab should be regarded as potentially teratogenic and embryo-/foetotoxic.
 
 <div style=\"page-break-after: always\"></div>
-
-7-fold a worst case clinical exposure did not elicit developmental toxicity or teratogenicity, and had no effect on weight or structure of the placenta, although, based on its pharmacological effect ranibizumab should be regarded as potentially teratogenic and embryo-/foetotoxic.
 
 The absence of ranibizumab-mediated effects on embryo-foetal development is plausibly related mainly to the inability of the Fab fragment to cross the placenta. Nevertheless, a case was described with high maternal ranibizumab serum levels and presence of ranibizumab in foetal serum, suggesting that the anti-ranibizumab antibody acted as (Fc region containing) carrier protein for ranibizumab, thereby decreasing its maternal serum clearance and enabling its placental transfer. As the embryofoetal development investigations were performed in healthy pregnant animals and disease (such as diabetes) may modify the permeability of the placenta towards a Fab fragment, the study should be interpreted with caution.
 
@@ -685,11 +674,13 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light. Prior to use, the unopened vial may be kept at room temperature (25 °C) for up to 24 hours.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+
+Prior to use, the unopened vial may be kept at room temperature (25 °C) for up to 24 hours.
 
 ## 6.5 Nature and contents of container
 
-## Vial pack
+Vial pack
 
 One vial (type I glass) with a stopper (chlorobutyl rubber) containing 0.23 mL sterile solution. Not all pack sizes may be marketed.
 
@@ -701,7 +692,9 @@ The vial is for single use only. After injection any unused product must be disc
 
 For preparation and intravitreal injection the following medical devices for single use are needed: a 5 µm filter needle (18G)
 
-a 1 mL sterile syringe (including a 0.05 mL mark) and an injection needle (30G x ½'), for adult patients These medical devices are not included within this pack.
+a 1 mL sterile syringe (including a 0.05 mL mark) and an injection needle (30G x ½'), for adult patients
+
+These medical devices are not included within this pack.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -739,9 +732,7 @@ EU/1/26/2047/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: Date of latest renewal:
-
-<div style=\"page-break-after: always\"></div>
+Date of first authorisation: 15.7.2026 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -749,7 +740,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+▼This m edicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -789,7 +780,7 @@ Vislyfa is indicated in adults for:
 
 Vislyfa must be administered by a qualified ophthalmologist experienced in intravitreal injections.
 
-Posology
+## Posology
 
 The recommended dose for ranibizumab is 0.5 mg given as a single intravitreal injection. This corresponds to an injection volume of 0.05 mL. The interval between two doses injected into the same eye should be at least four weeks.
 
@@ -992,33 +983,23 @@ Blindness, endophthalmitis, hypopyon, hyphaema, keratopathy, iris adhesion, corn
 
 Respiratory, thoracic and mediastinal disorders
 
-Common
-
-Cough
+Common Cough
 
 Gastrointestinal disorders
 
-Common
-
-Nausea
+Common Nausea
 
 Skin and subcutaneous tissue disorders
 
-Common
-
-Allergic reactions (rash, urticaria, pruritus, erythema)
+Common Allergic reactions (rash, urticaria, pruritus, erythema)
 
 Musculoskeletal and connective tissue disorders
 
-Very common
-
-Arthralgia
+Very common Arthralgia
 
 Investigations
 
-Very common
-
-Intraocular pressure increased
+Very common Intraocular pressure increased
 
 # Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with ranibizumab 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
 
@@ -1036,11 +1017,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Cases of accidental overdose have been reported from the clinical studies in wet AMD and postmarketing data. Adverse reactions associated with these reported cases were intraocular pressure increased, transient blindness, reduced visual acuity, corneal oedema, corneal pain, and eye pain. If an overdose occurs, intraocular pressure should be monitored and treated, if deemed necessary by the attending physician.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
+
+<div style=\"page-break-after: always\"></div>
 
 Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC code: S01LA04
 
@@ -1064,21 +1045,19 @@ Key outcome measures are summarised in Table 1 and Figure 1.
 
 Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
 
-|                                                                             |          | FVF2598g (MARINA)   | FVF2598g (MARINA)            | FVF2587g (ANCHOR)         | FVF2587g (ANCHOR)            |
-|-----------------------------------------------------------------------------|----------|---------------------|------------------------------|---------------------------|------------------------------|
-| Outcome measure                                                             | Month    | Sham (n = 238)      | Ranibizumab 0.5 mg (n = 240) | Verteporfin PDT (n = 143) | Ranibizumab 0.5 mg (n = 140) |
-| Loss of < 15 letters in visual acuity (%) a (maintenance of vision, primary | Month 12 | 62%                 | 95%                          | 64%                       | 96%                          |
-| Loss of < 15 letters in visual acuity (%) a (maintenance of vision, primary | Month 24 | 53%                 | 90%                          | 66%                       | 90%                          |
-| Gain of ≥ 15 letters in visual acuity (%) a                                 | Month 12 | 5%                  | 34%                          | 6%                        | 40%                          |
-|                                                                             | Month 24 | 4%                  | 33%                          | 6%                        | 41%                          |
-| Mean change in visual acuity (letters) (SD) a                               | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                  | -9.5 (16.4)               | +11.3 (14.6)                 |
-| Mean change in visual acuity (letters) (SD) a                               | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                  | -9.8 (17.6)               | +10.7 (16.5)                 |
-
-a p&lt; 0.01
-
-<div style=\"page-break-after: always\"></div>
+|                                                             |          | FVF2598g (MARINA)   | FVF2598g (MARINA)            | FVF2587g (ANCHOR)         | FVF2587g (ANCHOR)            |
+|-------------------------------------------------------------|----------|---------------------|------------------------------|---------------------------|------------------------------|
+| Outcome measure                                             | Month    | Sham (n = 238)      | Ranibizumab 0.5 mg (n = 240) | Verteporfin PDT (n = 143) | Ranibizumab 0.5 mg (n = 140) |
+| Loss of < 15 letters in visual acuity (%) a (maintenance of | Month 12 | 62%                 | 95%                          | 64%                       | 96%                          |
+| vision, primary                                             | Month 24 | 53%                 | 90%                          | 66%                       | 90%                          |
+| endpoint) Gain of ≥ 15 letters in a                         | Month 12 | 5%                  | 34%                          | 6%                        | 40%                          |
+| visual acuity (%)                                           | Month 24 | 4%                  | 33%                          | 6%                        | 41%                          |
+| Mean change in visual acuity (letters) (SD) a               | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                  | -9.5 (16.4)               | +11.3 (14.6)                 |
+| Mean change in visual acuity (letters) (SD) a               | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                  | -9.8 (17.6)               | +10.7 (16.5)                 |
 
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
+
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -1108,16 +1087,16 @@ The key outcomes from RADIANCE are summarised in Table 2 and Figure 2.
 
 Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 
-|                                                                                                                     | Group I Ranibizumab 0.5 mg 'Vision stability' (n = 105)   | Group II Ranibizumab 0.5 mg 'Disease activity' (n = 116)   | Group III vPDT b (n = 55)   |
-|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|-----------------------------|
-| Month 3                                                                                                             |                                                           |                                                            |                             |
-| Mean average BCVA change from Month 1 to                                                                            | +10.5                                                     | +10.6                                                      | +2.2                        |
-| Proportion of patients who gained: ≥ 15 letters, or reached ≥ 84 letters in BCVA                                    | 38.1%                                                     | 43.1%                                                      | 14.5%                       |
-| Month 12                                                                                                            |                                                           |                                                            |                             |
-| Mean                                                                                                                | 4.6                                                       | 3.5                                                        | N/A                         |
-| Median                                                                                                              | 4.0                                                       | 2.5                                                        | N/A                         |
-| Mean average BCVA change from Month 1 to Month 12 compared to baseline (letters) Proportion of patients who gained: | +12.8                                                     | +12.5                                                      | N/A                         |
-| ≥ 15 letters, or reached ≥ 84 letters in BCVA                                                                       | 53.3%                                                     | 51.7%                                                      | N/A                         |
+|                                                                                   | Group I Ranibizumab 0.5 mg 'Vision stability' (n = 105)   | Group II Ranibizumab 0.5 mg 'Disease activity' (n = 116)   | Group III vPDT b (n = 55)   |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|-----------------------------|
+| Month 3                                                                           |                                                           |                                                            |                             |
+| Mean average BCVA change from Month 1 to Month 3 compared to baseline a (letters) | +10.5                                                     | +10.6                                                      | +2.2                        |
+| Proportion of patients who gained: ≥ 15 letters, or reached ≥ 84 letters in BCVA  | 38.1%                                                     | 43.1%                                                      | 14.5%                       |
+| Month 12 Number of injections up to Month 12:                                     |                                                           |                                                            |                             |
+| Mean                                                                              | 4.6                                                       | 3.5                                                        | N/A                         |
+| Median                                                                            | 4.0                                                       | 2.5                                                        | N/A                         |
+| Mean average BCVA change from Month 1 to Month 12 compared to baseline (letters)  | +12.8                                                     | +12.5                                                      | N/A                         |
+| Proportion of patients who gained: ≥ 15 letters, or reached ≥ 84 letters in BCVA  | 53.3%                                                     | 51.7%                                                      | N/A                         |
 
 a p&lt; 0.00001 comparison with vPDT control
 
@@ -1196,9 +1175,9 @@ In the phase III study D2301 (RESTORE), 345 patients were randomised in a 1:1:1 
 
 Key outcome measures are summarised in Table 5 (RESTORE and Extension) and Figure 4 (RESTORE).
 
-<div style=\"page-break-after: always\"></div>
+## Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
 
-Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -1222,13 +1201,11 @@ Table 5 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D
 | Gain of ≥ 15 letters or BCVA ≥ 84 letters at Month 36 (%)                                               | 27.7                            | 30.1                                    | 21.6               |
 | Mean number of injections (Months 12-35)*                                                               | 6.8                             | 6.0                                     | 6.5                |
 
-<div style=\"page-break-after: always\"></div>
-
-a
-
 n in D2301-E1 (RESTORE Extension) is the number of patients with a value at both D2301
 
-p&lt; 0.0001 for comparisons of ranibizumab arms vs. laser arm. (RESTORE) baseline (Month 0) and at the Month 36 visit.
+<div style=\"page-break-after: always\"></div>
+
+(RESTORE) baseline (Month 0) and at the Month 36 visit.
 
 * The proportion of patients who did not require any ranibizumab treatment during the extension phase was 19%, 25% and 20% in the prior ranibizumab, prior ranibizumab + laser and prior laser groups, respectively.
 
@@ -1264,11 +1241,11 @@ In DME studies, the improvement in BCVA was accompanied by a reduction over time
 
 ## Treatment of PDR
 
-The clinical safety and efficacy of ranibizumab in patients with PDR have been assessed in Protocol S
+The clinical safety and efficacy of ranibizumab in patients with PDR have been assessed in Protocol S which evaluated the treatment with ranibizumab 0.5 mg intravitreal injections compared with panretinal photocoagulation (PRP). The primary endpoint was the mean visual acuity change at year 2.
 
 <div style=\"page-break-after: always\"></div>
 
-which evaluated the treatment with ranibizumab 0.5 mg intravitreal injections compared with panretinal photocoagulation (PRP). The primary endpoint was the mean visual acuity change at year 2. Additionally, change in diabetic retinopathy (DR) severity was assessed based on fundus photographs using the DR severity score (DRSS).
+Additionally, change in diabetic retinopathy (DR) severity was assessed based on fundus photographs using the DR severity score (DRSS).
 
 Protocol S was a multicentre, randomised, active-controlled, parallel-assignment, non-inferiority phase III study in which 305 patients (394 study eyes) with PDR with or without DME at baseline were enrolled. The study compared ranibizumab 0.5 mg intravitreal injections to standard treatment with PRP. A total of 191 eyes (48.5%) were randomised to ranibizumab 0.5 mg and 203 eyes (51.5%) eyes were randomised to PRP. A total of 88 eyes (22.3%) had baseline DME: 42 (22.0%) and 46 (22.7%) eyes in the ranibizumab and PRP groups, respectively.
 
@@ -1278,9 +1255,8 @@ At year 1, 41.8% of eyes experienced a ≥ 2-step improvement in the DRSS when t
 
 Table 7 DRSS improvement or worsening of ≥ 2 or ≥ 3 steps at year 1 in Protocol S (LOCF Method)
 
-| Categorised change from baseline                                                                                                             | Protocol S                                                                                                                                   | Protocol S                                                                                                                                   | Protocol S                                                                                                                                   |
+| Categorised change from baseline                                                                                                             | Protocol S - Ranibizumab 0.5 mg (N = 189)                                                                                                    | Protocol S - PRP (N = 199)                                                                                                                   | Protocol S - Difference in proportion (%), CI                                                                                                |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Categorised change from baseline                                                                                                             | Ranibizumab 0.5 mg (N = 189)                                                                                                                 | PRP (N = 199)                                                                                                                                | Difference in proportion (%), CI                                                                                                             |
 | ≥ 2 -step improvement                                                                                                                        | ≥ 2 -step improvement                                                                                                                        | ≥ 2 -step improvement                                                                                                                        | ≥ 2 -step improvement                                                                                                                        |
 | n (%)                                                                                                                                        | 79 (41.8%)                                                                                                                                   | 29 (14.6%)                                                                                                                                   | 27.4 (18.9, 35.9)                                                                                                                            |
 | ≥ 3-step improvement                                                                                                                         | ≥ 3-step improvement                                                                                                                         | ≥ 3-step improvement                                                                                                                         | ≥ 3-step improvement                                                                                                                         |
@@ -1295,11 +1271,9 @@ At year 1 in the ranibizumab-treated group in Protocol S, ≥ 2-step improvement
 
 An analysis of year 2 data from Protocol S demonstrated that 42.3% (n = 80) of eyes in the ranibizumab-treated group had ≥ 2-step improvement in DRSS from baseline compared with 23.1% (n = 46) of eyes in the PRP group. In the ranibizumab-treated group, ≥ 2-step improvement in DRSS from baseline was observed in 58.5% (n = 24) of eyes with baseline DME and 37.8% (n = 56) of eyes without DME.
 
-DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin. In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥ 2-step improvement in the DRSS at Month 12 when treated with ranibizumab
+DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin. In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥ 2-step improvement in the DRSS at Month 12 when treated with ranibizumab (n = 192) vs 14.6% of patients treated with laser (n = 123). The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]). In the 405 DRSS gradable patients with moderate NPDR or a ≥ 2- step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-(n = 192) vs 14.6% of patients treated with laser (n = 123). The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]). In the 405 DRSS gradable patients with moderate NPDR or a ≥ 2- step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
 
 ## Treatment of visual impairment due to macular oedema secondary to RVO
 
@@ -1309,20 +1283,19 @@ Key outcome measures from BRAVO and CRUISE are summarised in Table 8 and Figures
 
 Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 
-|                                                                             | BRAVO                              | BRAVO                        | CRUISE                             | CRUISE                       |
-|-----------------------------------------------------------------------------|------------------------------------|------------------------------|------------------------------------|------------------------------|
-|                                                                             | Sham/ Ranibizumab 0.5 mg (n = 132) | Ranibizumab 0.5 mg (n = 131) | Sham/ Ranibizumab 0.5 mg (n = 130) | Ranibizumab 0.5 mg (n = 130) |
-| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                         | 18.3 (13.2)                  | 0.8 (16.2)                         | 14.9 (13.2)                  |
-| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                        | 18.3 (14.6)                  | 7.3 (15.9)                         | 13.9 (14.2)                  |
-| Gain of ≥ 15 letters in visual acuity at Month 6 a (%)                      | 28.8                               | 61.1                         | 16.9                               | 47.7                         |
-| Gain of ≥ 15 letters in visual acuity at Month 12 (%)                       | 43.9                               | 60.3                         | 33.1                               | 50.8                         |
-| Proportion (%) receiving laser rescue over 12 months                        | 61.4                               | 34.4                         | NA                                 | NA                           |
+|                                                                             | BRAVO - Sham/ Ranibizumab 0.5 mg (n = 132)   | BRAVO - Ranibizumab 0.5 mg (n = 131)   | CRUISE - Sham/ Ranibizumab 0.5 mg (n = 130)   | CRUISE - Ranibizumab 0.5 mg (n = 130)   |
+|-----------------------------------------------------------------------------|----------------------------------------------|----------------------------------------|-----------------------------------------------|-----------------------------------------|
+| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                                   | 18.3 (13.2)                            | 0.8 (16.2)                                    | 14.9 (13.2)                             |
+| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                                  | 18.3 (14.6)                            | 7.3 (15.9)                                    | 13.9 (14.2)                             |
+| Gain of ≥ 15 letters in visual acuity at Month 6 a (%)                      | 28.8                                         | 61.1                                   | 16.9                                          | 47.7                                    |
+| Gain of ≥ 15 letters in visual acuity at Month 12 (%)                       | 43.9                                         | 60.3                                   | 33.1                                          | 50.8                                    |
+| Proportion (%) receiving laser rescue over 12 months                        | 61.4                                         | 34.4                                   | NA                                            | NA                                      |
 
 a p&lt; 0.0001 for both studies
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO)
+
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -1332,7 +1305,9 @@ Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUIS
 
 <!-- image -->
 
-BL=baseline; SE=standard error of mean In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
+BL=baseline; SE=standard error of mean
+
+In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1346,15 +1321,16 @@ Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 9.
 
 Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 
-|                                                  | BRIGHTER                   | BRIGHTER                           | BRIGHTER      | CRYSTAL                    |
-|--------------------------------------------------|----------------------------|------------------------------------|---------------|----------------------------|
-|                                                  | Ranibizumab 0.5 mg N = 180 | Ranibizumab 0.5 mg + Laser N = 178 | Laser* N = 90 | Ranibizumab 0.5 mg N = 356 |
-| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)               | +14.8 (11.13)                      | +6.0 (14.27)  | +12.0 (13.95)              |
-| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)              | +17.3 (12.61)                      | +11.6 (16.09) | +12.1 (18.60)              |
-| Gain of ≥ 15 letters in BCVA at Month 24 (%)     | 52.8                       | 59.6                               | 43.3          | 49.2                       |
-| Mean number of injections (SD) (Months 0-23)     | 11.4 (5.81)                | 11.3 (6.02)                        | NA            | 13.1 (6.39)                |
+|                                                  | BRIGHTER - Ranibizumab 0.5 mg N = 180   | BRIGHTER - Ranibizumab 0.5 mg + Laser N = 178   | BRIGHTER - Laser* N = 90   | CRYSTAL - Ranibizumab 0.5 mg N = 356   |
+|--------------------------------------------------|-----------------------------------------|-------------------------------------------------|----------------------------|----------------------------------------|
+| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)                            | +14.8 (11.13)                                   | +6.0 (14.27)               | +12.0 (13.95)                          |
+| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)                           | +17.3 (12.61)                                   | +11.6 (16.09)              | +12.1 (18.60)                          |
+| Gain of ≥ 15 letters in BCVA at Month 24 (%)     | 52.8                                    | 59.6                                            | 43.3                       | 49.2                                   |
+| Mean number of injections (SD) (Months 0-23)     | 11.4 (5.81)                             | 11.3 (6.02)                                     | NA                         | 13.1 (6.39)                            |
 
-a p&lt; 0.0001for both comparisons in BRIGHTER at Month 6: Ranibizumab 0.5 mg vs Laser and Ranibizumab 0.5 mg + Laser vs Laser.
+a
+
+p&lt; 0.0001for both comparisons in BRIGHTER at Month 6: Ranibizumab 0.5 mg vs Laser and Ranibizumab 0.5 mg + Laser vs Laser.
 
 b p&lt; 0.0001for null hypothesis in CRYSTAL that the mean change at Month 24 from baseline is zero.
 
@@ -1388,11 +1364,11 @@ Patients with renal impairment: No formal studies have been conducted to examine
 
 Hepatic impairment: No formal studies have been conducted to examine the pharmacokinetics of ranibizumab in patients with hepatic impairment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.3 Preclinical safety data
 
 Bilateral intravitreal administration of ranibizumab to cynomolgus monkeys at doses between 0.25 mg/eye and 2.0 mg/eye once every 2 weeks for up to 26 weeks resulted in dose-dependent ocular effects.
+
+<div style=\"page-break-after: always\"></div>
 
 Intraocularly, there were dose-dependent increases in anterior chamber flare and cells with a peak 2 days after injection. The severity of the inflammatory response generally diminished with subsequent injections or during recovery. In the posterior segment, there were vitreal cell infiltration and floaters, which also tended to be dose-dependent and generally persisted to the end of the treatment period. In the 26-week study, the severity of the vitreous inflammation increased with the number of injections. However, evidence of reversibility was observed after recovery. The nature and timing of the posterior segment inflammation is suggestive of an immune-mediated antibody response, which may be clinically irrelevant. Cataract formation was observed in some animals after a relatively long period of intense inflammation, suggesting that the lens changes were secondary to severe inflammation. A transient increase in post-dose intraocular pressure was observed following intravitreal injections, irrespective of dose.
 
@@ -1416,15 +1392,17 @@ The absence of ranibizumab-mediated effects on embryo-foetal development is plau
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.3 Shelf life
 
-1 year
+18 months
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled syringe in its sealed tray in the carton in order to protect from light. Prior to use, the unopened tray may be kept at room temperature (25 °C) for up to 24 hours.
+<div style=\"page-break-after: always\"></div>
+
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+
+Keep the pre-filled syringe in its sealed tray in the carton in order to protect from light. Prior to use, the unopened tray may be kept at room temperature (25 °C) for up to 24 hours.
 
 ## 6.5 Nature and contents of container
 
@@ -1442,32 +1420,30 @@ For the intravitreal injection, a 30G × ½' sterile injection needle should be 
 
 To prepare Vislyfa for intravitreal administration, please adhere to the instructions for use.
 
-| Introduction   | 1. The prefilled syringe is sterile and is for single dose only. Do not use the product if the packaging is damaged or has been tampered with. 2. To prepare Vislyfa for intravitreal administration, please adhere to these instructions for use. Read all the instructions carefully before using the prefilled syringe. 3. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. 4. For the intravitreal injection, a 30-gauge × ½ inch sterile injection needle should be used. (Not provided). Note: The dose must be set to 0.05 mL.   |
-|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Introduction                   | 1. The prefilled syringe is sterile and is for single dose only. Do not use the product if the packaging is damaged or has been tampered with. 2. To prepare Vislyfa for intravitreal administration, please adhere to these instructions for use. Read all the instructions carefully before using the prefilled syringe. 3. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. 4. For the intravitreal injection, a 30-gauge × ½ inch sterile injection needle should be used. (Not provided). Note: The dose must be set to 0.05 mL.   |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Pre-filled syringe description | Figure 1 Vislyfa pre-filled syringe illustration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Step 1                         | PREPARATION: Make sure that your pack contains a sterile prefilled syringe in a sealed tray. Peel the lid off the syringe tray and using aseptic technique, remove the syringe.                                                                                                                                                                                                                                                                                                                                                                                                         |
+
+<div style=\"page-break-after: always\"></div>
+
+| Step 2   | INSPECT SYRINGE: 1. RANIBIZUMAB should be clear to slightly opalescent, colorless to pale brownish. 2. Do not use the prefilled syringe if: -The syringe cap is detached from the Luer lock. - The syringe is damaged. - Particulates, cloudiness, or discoloration are visible. 3. If any of the above is not true, discard the pre-filled syringe and use a new one. Note: To avoid compromising the sterility of the product, do not pull back the plunger   | Figure 2 Vislyfa 0.5 mg prefilled syringe with a White finger grip.   |
+|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Step 3   | REMOVE SYRINGE CAP: Remove the syringe cap by rotating anti-clockwise movement. (See Figure 3). Note: Syringe cap to be opened once user is ready for the injection. Once syringe cap opened, Do Not recap, Syringe should be disposed if user is not ready for injection.                                                                                                                                                                                      | Figure 3 Removal of treaded closure cap                               |
+| Step 4   | ATTACH NEEDLE: 1. Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (See Figure 4) 2. Carefully remove the needle cap by pulling it straight off. Note: Do not wipe the needle at any time.                                                                                                                                                                                                      | Figure 4 Needle attachment                                            |
+| Step 5   | DISLODGE AIR BUBBLES 1. Hold the syringe with the needle pointing up. 2. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (See Figure 5).                                                                                                                                                                                                                                                                | Figure 5 Removal of air bubble                                        |
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-| Step 4   | ATTACH NEEDLE: 1. Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (See Figure 4) 2. Carefully remove the needle cap by pulling it straight off. Note: Do not wipe the needle at any time.                                                                                                                                                                                                                    | Figure 4 Needle attachment                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 5   | DISLODGE AIR BUBBLES 1. Hold the syringe with the needle pointing up. 2. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (See Figure 5).                                                                                                                                                                                                                                                                              | Figure 5 Removal of air bubble                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Step 6   | EXPEL AIR AND ADJUST DRUG DOSE. 1. Hold the syringe at eye level, and carefully push the plunger rod until the edge below the dome of the rubber stopper is aligned with the 0.05 mL dose mark (See Figure 6). Note: The plunger rod is attached to the rubber stopper, to avoid air entrapment do not pull back the plunger rod.                                                                                                                                             | Figure 6 Dose adjustment                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Step 7   | INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used | INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used |
+| Step 6   | EXPEL AIR AND ADJUST DRUG DOSE. 1. Hold the syringe at eye level, and carefully push the plunger rod until the edge below the dome of the rubber stopper is aligned with the 0.05 mL dose mark (See Figure 6). Note: The plunger rod is attached to the rubber stopper, to avoid air entrapment do not pull Figure 6 Dose adjustment                                                                                                                                                                                                                                                                         |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 7   | back the plunger rod. INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used syringe together with the needle in a sharp disposal container or in accordance with local requirements. |
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Lupin Europe GmbH Hanauer Landstraße 139-143 60314 Frankfurt Germany
-
-<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1475,7 +1451,7 @@ EU/1/26/2047/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: Date of latest renewal:
+Date of first authorisation: 15.7.2026 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1620,14 +1596,12 @@ EU/1/26/2047/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1726,7 +1700,7 @@ Do not freeze.
 
 Keep the pre-filled syringe in its sealed tray in the carton to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1776,9 +1750,9 @@ Lot
 
 ## 5. OTHER
 
-0.165 mL
-
 <div style=\"page-break-after: always\"></div>
+
+0.165 mL
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1824,9 +1798,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1849,8 +1823,8 @@ Vislyfa is used in adults to treat several eye diseases causing vision impairmen
 
 These diseases result from damage to the retina (light-sensitive layer at the back of the eye) caused by:
 
-- -Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
-- -Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
+- Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
+- Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
 
 ## How Vislyfa works
 
@@ -1862,22 +1836,22 @@ In these diseases, Vislyfa can help to stabilise and in many cases improve your 
 
 ## You must not receive Vislyfa
 
-- -If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in
+- If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in
 
 <div style=\"page-break-after: always\"></div>
 
 section 6).
 
-- -If you have an infection in or around your eye.
-- -If you have pain or redness (severe intraocular inflammation) in your eye.
+- If you have an infection in or around your eye.
+- If you have pain or redness (severe intraocular inflammation) in your eye.
 
 ## Warnings and precautions
 
 Talk to your doctor before you are given Vislyfa.
 
-- -Vislyfa is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Vislyfa treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
-- -In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
-- -Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Vislyfa is the appropriate treatment for you.
+- Vislyfa is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Vislyfa treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
+- In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
+- Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Vislyfa is the appropriate treatment for you.
 
 Please see section 4 ('Possible side effects') for more detailed information on side effects that could occur during Vislyfa therapy.
 
@@ -1891,9 +1865,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Vislyfa.
-- -There is no experience of using Vislyfa in pregnant women. Vislyfa should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Vislyfa.
-- -Small amounts of Vislyfa may pass into breast milk, therefore Vislyfa is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Vislyfa treatment.
+- Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Vislyfa.
+- There is no experience of using Vislyfa in pregnant women. Vislyfa should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Vislyfa.
+- Small amounts of Vislyfa may pass into breast milk, therefore Vislyfa is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Vislyfa treatment.
 
 ## Driving and using machines
 
@@ -1941,7 +1915,7 @@ The symptoms you might experience are pain or increased discomfort in your eye, 
 
 ## The most frequently reported side effects are described below:
 
-## Very common side effects (may affect more than 1 in 10 people)
+Very common side effects (may affect more than 1 in 10 people)
 
 Visual side effects include: Inflammation of the eye, bleeding in the back of the eye (retinal bleeding), visual disturbances, eye pain, small particles or spots in your vision (floaters), bloodshot eye, eye irritation, a feeling of having something in the eye, increased tear production, inflammation or infection of the eyelid margins, dry eye, redness or itching of the eye and increased eye pressure. Non-visual side effects include: Sore throat, nasal congestion, runny nose, headache and joint pain.
 
@@ -1965,19 +1939,19 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## 5. How to store Vislyfa
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-- -Prior to use, the unopened vial may be kept at room temperature (25 °C) for up to 24 hours.
-- -Keep the vial in the outer carton in order to protect from light.
-- -Do not use any pack that is damaged.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+- Prior to use, the unopened vial may be kept at room temperature (25 °C) for up to 24 hours.
+- Keep the vial in the outer carton in order to protect from light.
+- Do not use any pack that is damaged.
 
 ## 6. Contents of the pack and other information
 
 ## What Vislyfa contains
 
-- -The active substance is ranibizumab. Each mL contains 10 mg ranibizumab. Each vial contains 2.3 mg ranibizumab in 0.23 mL solution. This provides a suitable amount to deliver a single dose of 0.05 mL containing 0.5 mg ranibizumab.
-- -The other ingredients are α,α -trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20; water for injections.
+- The active substance is ranibizumab. Each mL contains 10 mg ranibizumab. Each vial contains 2.3 mg ranibizumab in 0.23 mL solution. This provides a suitable amount to deliver a single dose of 0.05 mL containing 0.5 mg ranibizumab.
+- The other ingredients are α,α -trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20; water for injections.
 
 ## What Vislyfa looks like and contents of the pack
 
@@ -1991,11 +1965,15 @@ Lupin Europe GmbH Hanauer Landstraße 139-143 60314 Frankfurt Germany
 
 ## Manufacturer
 
-Hormosan Pharma GmbH Hanauer Landstraße 139-143 60314 Frankfurt Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Hormosan Pharma GmbH Hanauer Landstraße 139-143 60314 Frankfurt Germany
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+AT, BE, BG, CZ, CY, DE, DK, EE, EL, ES, FI, HR, IE, IS, IT, LV, LT, LU, HU, MT, NL, NO, FR
 
 <div style=\"page-break-after: always\"></div>
 
-AT, BE, BG, CZ, CY, DE, DK, EE, EL, ES, FI, HR, IE, IS, IT, LV, LT, LU, HU, MT, NL, NO, PL, PT, RO, SI, SK, SE FR
+## PL, PT, RO, SI, SK, SE
 
 Lupin Europe GmbH
 
@@ -2049,9 +2027,9 @@ The injection procedure should be carried out under aseptic conditions, which in
 
 The vial is for single use only. After injection any unused product must be discarded. Any vial showing signs of damage or tampering must not be used. The sterility cannot be guaranteed unless the packaging seal remains intact. For preparation and intravitreal injection the following medical devices for single use are needed:
 
-- -a 5 µm filter needle (18G × 1½″, 1.2 mm x 40 mm)
-- -a 1 mL sterile syringe (including a 0.05 mL mark)
-- -an injection needle (30G × ½″).
+- a 5 µm filter needle (18G × 1½″, 1.2 mm x 40 mm)
+- a 1 mL sterile syringe (including a 0.05 mL mark)
+- an injection needle (30G × ½″).
 
 These medical devices are not included within the Vislyfa pack.
 
@@ -2088,9 +2066,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2113,8 +2091,8 @@ Vislyfa is used in adults to treat several eye diseases causing vision impairmen
 
 These diseases result from damage to the retina (light-sensitive layer at the back of the eye) caused by:
 
-- -Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
-- -Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
+- Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
+- Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
 
 ## How Vislyfa works
 
@@ -2126,22 +2104,22 @@ In these diseases, Vislyfa can help to stabilise and in many cases improve your 
 
 ## You must not receive Vislyfa
 
-- -If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in
+- If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in
 
 <div style=\"page-break-after: always\"></div>
 
 section 6).
 
-- -If you have an infection in or around your eye.
-- -If you have pain or redness (severe intraocular inflammation) in your eye.
+- If you have an infection in or around your eye.
+- If you have pain or redness (severe intraocular inflammation) in your eye.
 
 ## Warnings and precautions
 
 Talk to your doctor before you are given Vislyfa.
 
-- -Vislyfa is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Vislyfa treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
-- -In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
-- -Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Vislyfa is the appropriate treatment for you.
+- Vislyfa is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Vislyfa treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
+- In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
+- Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Vislyfa is the appropriate treatment for you.
 
 Please see section 4 ('Possible side effects') for more detailed information on side effects that could occur during Vislyfa therapy.
 
@@ -2155,9 +2133,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Vislyfa.
-- -There is no experience of using Vislyfa in pregnant women. Vislyfa should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Vislyfa.
-- -Small amounts of Vislyfa may pass into breast milk, therefore Vislyfa is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Vislyfa treatment.
+- Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Vislyfa.
+- There is no experience of using Vislyfa in pregnant women. Vislyfa should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Vislyfa.
+- Small amounts of Vislyfa may pass into breast milk, therefore Vislyfa is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Vislyfa treatment.
 
 ## Driving and using machines
 
@@ -2231,19 +2209,19 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## 5. How to store Vislyfa
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-- -Prior to use, the sealed tray may be kept at room temperature (25 °C) for up to 24 hours.
-- -Keep the pre-filled syringe in its unopened tray in the carton in order to protect from light.
-- -Do not use any pack that is damaged.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+- Prior to use, the sealed tray may be kept at room temperature (25 °C) for up to 24 hours.
+- Keep the pre-filled syringe in its unopened tray in the carton in order to protect from light.
+- Do not use any pack that is damaged.
 
 ## 6. Contents of the pack and other information
 
 ## What Vislyfa contains
 
-- -The active substance is ranibizumab. Each mL contains 10 mg ranibizumab. One pre-filled syringe contains 0.165 mL, equivalent to 1.65 mg ranibizumab. This provides a usable amount to deliver a single dose of 0.05 mL containing 0.5 mg ranibizumab.
-- -The other ingredients are α,α -trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20; water for injections.
+- The active substance is ranibizumab. Each mL contains 10 mg ranibizumab. One pre-filled syringe contains 0.165 mL, equivalent to 1.65 mg ranibizumab. This provides a usable amount to deliver a single dose of 0.05 mL containing 0.5 mg ranibizumab.
+- The other ingredients are α,α -trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20; water for injections.
 
 ## What Vislyfa looks like and contents of the pack
 
@@ -2255,11 +2233,13 @@ Pack size of one pre-filled syringe, packed in a sealed tray. The pre-filled syr
 
 Lupin Europe GmbH Hanauer Landstraße 139-143 60314 Frankfurt Germany
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
-Hormosan Pharma GmbH Hanauer Landstraße 139-143 60314 Frankfurt Germany
+Hormosan Pharma GmbH Hanauer Landstraße 139-143
+
+<div style=\"page-break-after: always\"></div>
+
+60314 Frankfurt Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2323,19 +2303,15 @@ The pre-filled syringe is for single use only. The pre-filled syringe is sterile
 
 The pre-filled syringe contains more than the recommended dose of 0.5 mg. The extractable volume of the pre-filled syringe (0.1 mL) is not to be used in total. The excess volume should be expelled prior to injection. Injecting the entire volume of the pre-filled syringe could result in overdose. To expel the air bubble along with the excess medicinal product, slowly push the plunger until the edge below the dome of the rubber stopper is aligned with the black dosing line on the syringe (equivalent to 0.05 mL, i.e., 0.5 mg ranibizumab).
 
-For the intravitreal injection, a 30G x ½″ sterile injection needle should be used.
+For th e intravitreal injection, a 30G x ½″ sterile injection needle should be used.
 
 To prepare Vislyfa for intravitreal administration, please adhere to the instructions for use:
 
-<!-- image -->
-
-<!-- image -->
-
-| Introduction                   | 1. The prefilled syringe is sterile and is for single dose only. Do not use the product if the packaging is damaged or has been tampered with. 2. To prepare Vislyfa for intravitreal administration, please adhere to these instructions for use. Read all the instructions carefully before using the prefilled syringe. 3. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. 4. For the intravitreal injection, a 30-gauge × ½ inch sterile injection needle should be   | 1. The prefilled syringe is sterile and is for single dose only. Do not use the product if the packaging is damaged or has been tampered with. 2. To prepare Vislyfa for intravitreal administration, please adhere to these instructions for use. Read all the instructions carefully before using the prefilled syringe. 3. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. 4. For the intravitreal injection, a 30-gauge × ½ inch sterile injection needle should be   |
-|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pre-filled syringe description |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Step 1                         | PREPARATION: Make sure that your pack contains a sterile prefilled syringe in a sealed tray.                                                                                                                                                                                                                                                                                                                                                                                                                               | PREPARATION: Make sure that your pack contains a sterile prefilled syringe in a sealed tray.                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Step 2                         | Peel the lid off the syringe INSPECT SYRINGE: 1. RANIBIZUMAB should be clear to slightly opalescent. 2. Do not use the prefilled syringe if: -The syringe cap is detached from the Luer lock. - The syringe is damaged. - Particulates, cloudiness, or Figure grip.                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Introduction                   | 1. The prefilled syringe is sterile and is for single dose only. Do not use the product if the packaging is damaged or has been tampered with. 2. To prepare Vislyfa for intravitreal administration, please adhere to these instructions for use. Read all the instructions carefully before using the prefilled syringe. 3. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. 4. For the intravitreal injection, a 30-gauge × ½ inch sterile injection needle should be used. (Not provided).   | 1. The prefilled syringe is sterile and is for single dose only. Do not use the product if the packaging is damaged or has been tampered with. 2. To prepare Vislyfa for intravitreal administration, please adhere to these instructions for use. Read all the instructions carefully before using the prefilled syringe. 3. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. 4. For the intravitreal injection, a 30-gauge × ½ inch sterile injection needle should be used. (Not provided).   |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Pre-filled syringe description | Note: The dose must be set                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | to 0.05 mL.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Step 1                         | Figure 1 Vislyfa pre-filled PREPARATION: Make sure that your pack contains a sterile prefilled syringe in a sealed tray. tray and using aseptic technique, remove the syringe.                                                                                                                                                                                                                                                                                                                                                                   | syringe illustration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Step 2                         | Peel the lid off the syringe INSPECT SYRINGE: 1. RANIBIZUMAB should be clear to slightly opalescent. 2. Do not use the prefilled syringe if: -The syringe cap is detached from the Luer lock. - The syringe is damaged. - Particulates, cloudiness, or grip.                                                                                                                                                                                                                                                                                     | Figure 2 Vislyfa 0.5 mg prefilled syringe with a White finger                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2343,18 +2319,16 @@ To prepare Vislyfa for intravitreal administration, please adhere to the instruc
 
 <!-- image -->
 
-<!-- image -->
-
-|        | discoloration are visible. 3. If any of the above is not true, discard the pre-filled syringe and use a new one. Note: To avoid compromising the sterility of the product, do not pull back the plunger                                                                     |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 3 | REMOVE SYRINGE CAP: Remove the syringe cap by rotating anti- clockwise movement. (See Figure 3). Note: Syringe cap to be opened once user is ready for the injection. Once syringe cap opened, Do Not recap, Syringe should be disposed if user is not ready for injection. |
-| Step 4 | ATTACH NEEDLE: 1. Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (See Figure 4) 2. Carefully remove the needle cap by pulling it straight off. Note: Do not wipe the needle at any                        |
-| Step 5 | DISLODGE AIR BUBBLES 1. Hold the syringe with the needle pointing up. 2. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (See Figure 5).                                                                            |
+|        | discoloration are visible. 3. If any of the above is not true, discard the pre-filled syringe and use a new one. Note: To avoid compromising the sterility of the product, do not pull back the plunger                                                                                                                             |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 3 | REMOVE SYRINGE CAP: Remove the syringe cap by rotating anti- clockwise movement. (See Figure 3). Note: Syringe cap to be opened once user is ready for the injection. Once syringe cap opened, Do Not recap, Syringe should be disposed if user is not ready for injection. Figure 3 Removal of treaded closure cap  <!-- image --> |
+| Step 4 | ATTACH NEEDLE: 1. Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (See Figure 4) 2. Carefully remove the needle cap by pulling it straight off. Note: Do not wipe the needle at any Figure 4 Needle attachment                                                     |
+| Step 5 | time. DISLODGE AIR BUBBLES 1. Hold the syringe with the needle pointing up. 2. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (See Figure 5).                                                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-| Step 6   | EXPEL AIR AND ADJUST DRUG DOSE. 1. Hold the syringe at eye level, and carefully push the plunger rod until the edge below the dome of the rubber stopper is aligned with the 0.05 mL dose mark (See Figure 6). Note: The plunger rod is attached to the rubber stopper, to avoid air entrapment do not pull back the                                                                                                                                             | Figure                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Step 6   | EXPEL AIR AND ADJUST DRUG DOSE. 1. Hold the syringe at eye level, and carefully push the plunger rod until the edge below the dome of the rubber stopper is aligned with the 0.05 mL dose mark (See Figure 6). Note: The plunger rod is attached to the rubber stopper, to avoid air entrapment do not pull back the 6 Dose adjustment                                                                                                                           | Figure                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Step 7   | plunger rod. INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. Insert the needle into the injection site. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used syringe together with the needle in a sharp disposal container or in accordance with local requirements. | plunger rod. INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. Insert the needle into the injection site. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used syringe together with the needle in a sharp disposal container or in accordance with local requirements. |

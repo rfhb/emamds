@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-05-08 15:04:00
+document_datetime: 2026-09-08 10:19:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gardasil-9.html
 document_name: gardasil-9.html
 version: success
-processing_time: 0.125296
-conversion_datetime: 2026-05-10 13:01:28.595257
+processing_time: 0.1681196
+conversion_datetime: 2026-09-11 17:55:22.174189
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Gardasil 9
-
 # Gardasil 9
 
 [RSS](/en/individual-human-medicine.xml/66064)
@@ -115,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Gardasil 9](#news-on)
 - [More information on Gardasil 9](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -131,7 +54,7 @@ Expand section
 
 Collapse section
 
-## What is Gardasil 9 and what is it used for?
+### What is Gardasil 9 and what is it used for?
 
 Gardasil 9 is a vaccine used in males and females from the age of nine years to protect against the following conditions caused by nine types of the human papillomavirus (HPV types 6, 11, 16, 18, 31, 33, 45, 52 and 58):
 
@@ -140,7 +63,7 @@ Gardasil 9 is a vaccine used in males and females from the age of nine years to 
 
 Gardasil 9 is given according to official recommendations. It contains purified proteins from the nine types of HPV listed above.
 
-## How is Gardasil 9 used?
+### How is Gardasil 9 used?
 
 Gardasil 9 is a suspension for injection available in vials or prefilled syringes. Gardasil 9 is normally given according to a either a two-dose schedule or a three-dose schedule for males and females from 9 to 14 years old and a three-dose schedule for males and females 15 years old and over. For a two-dose schedule, the second dose should be given between five and thirteen months after the first dose. For a three-dose schedule, the second dose should be given two months after the first and the third given four months after the second. There should always be at least one month between the first and the second doses, and at least three months between the second and the third, and all doses should be given within a year.
 
@@ -148,7 +71,7 @@ It is recommended that individuals who receive the first dose of Gardasil 9 shou
 
 The vaccine can only be obtained with a prescription.
 
-## How does Gardasil 9 work?
+### How does Gardasil 9 work?
 
 Human papillomaviruses are viruses that cause warts and abnormal tissue growth. There are more than 100 types of papillomavirus, some of which are associated with anogenital cancers in both men and women. Nearly 100% of cervical cancers are caused by HPV infection. In Europe, approximately 90% of anal cancers, 15% of vulvar cancers, 70% of vaginal cancers, and 30 to 40% of penile cancers are estimated to be caused by HPV infection. HPV types 16 and 18 cause a large majority of cervical and anal cancers, while HPV types 6 and 11 cause most of genital warts. A further 5 HPV types (31, 33, 45, 52, and 58) also carry a high risk for developing cancer (they cause around 20% of cervical cancers).
 
@@ -158,7 +81,7 @@ When a patient is given the vaccine, the immune system makes antibodies against 
 
 The vaccine also contains an 'adjuvant', a compound containing aluminium to stimulate a better response.
 
-## What benefits of Gardasil 9 have been shown in studies?
+### What benefits of Gardasil 9 have been shown in studies?
 
 Gardasil 9 can provide protection against all nine types of HPV infection, as seen in five main studies.
 
@@ -172,23 +95,23 @@ The fourth main study compared the levels of antibodies against all nine HPV typ
 
 The fifth main study involving 1,518 subjects compared the effect of a two-dose schedule of Gardasil 9 with a three-dose schedule. This study looked at the development of antibodies one month after the last dose, and it showed that boys and girls given two doses of Gardasil 9 have similar levels of protection against all nine virus types to girls and women given three doses of Gardasil 9.
 
-## What are the risks associated with Gardasil 9?
+### What are the risks associated with Gardasil 9?
 
 In studies, the most common side effects with Gardasil 9 (seen in more than 1 patient in 10) were reactions at the site of the injection (redness, pain and swelling) and headache. These side effects were normally mild or moderate. For the full list of all side effects reported with Gardasil 9, see the package leaflet.
 
 Patients who show signs of an allergy after a dose of Gardasil 9 (or of its precursor vaccines Gardasil or Silgard) should stop the vaccination course or should not receive Gardasil 9 at all. For the full list of all restrictions, see the package leaflet.
 
-## Why is Gardasil 9 approved?
+### Why is Gardasil 9 approved?
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) decided that Gardasil 9's benefits are greater than its risks and recommended that it be approved for use in the EU. The CHMP considered that Gardasil 9 offers a broader protection against cancer than its precursor Gardasil, since it protects against additional 5 new types of HPV (31, 33, 45, 52 and 58), which although less common than types 16 and 18, are also considered high-risk HPV types. Thus Gardasil 9 is expected to prevent the majority of cervical, vaginal and vulvar cancers and premalignant lesions, as well as genital warts associated with HPV. Regarding side effects, although a large proportion of subjects develop injection site reactions, these are only slightly more than for Gardasil.
 
-## What measures are being taken to ensure the safe and effective use of Gardasil 9?
+### What measures are being taken to ensure the safe and effective use of Gardasil 9?
 
 A risk management plan has been developed to ensure that Gardasil 9 is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Gardasil 9, including the appropriate precautions to be followed by healthcare professionals and patients.
 
 Further information can be found in the
 
-## Other information about Gardasil 9
+### Other information about Gardasil 9
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Gardasil 9 on 10 June 2015.
 
@@ -202,7 +125,7 @@ English (EN) (88.67 KB - PDF)
 
 [View](/en/documents/overview/gardasil-9-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-587)
+[Other languages (22)](#file-language-dropdown-0)
 
 български (BG) (117.42 KB - PDF)
 
@@ -234,7 +157,7 @@ Deutsch (DE) (92.37 KB - PDF)
 
 [View](/de/documents/overview/gardasil-9-epar-summary-public_de.pdf)
 
-eesti keel (ET) (85.55 KB - PDF)
+eesti (ET) (85.55 KB - PDF)
 
 **First published:** 03/07/2015 **Last updated:** 17/05/2016
 
@@ -264,13 +187,13 @@ italiano (IT) (88.04 KB - PDF)
 
 [View](/it/documents/overview/gardasil-9-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (111.77 KB - PDF)
+latviešu (LV) (111.77 KB - PDF)
 
 **First published:** 03/07/2015 **Last updated:** 17/05/2016
 
 [View](/lv/documents/overview/gardasil-9-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (114.67 KB - PDF)
+lietuvių (LT) (114.67 KB - PDF)
 
 **First published:** 03/07/2015 **Last updated:** 17/05/2016
 
@@ -324,7 +247,7 @@ slovenščina (SL) (111.03 KB - PDF)
 
 [View](/sl/documents/overview/gardasil-9-epar-summary-public_sl.pdf)
 
-Suomi (FI) (87.14 KB - PDF)
+suomi (FI) (87.14 KB - PDF)
 
 **First published:** 03/07/2015 **Last updated:** 17/05/2016
 
@@ -340,167 +263,168 @@ svenska (SV) (86.84 KB - PDF)
 
 Gardasil 9 : EPAR - Product information
 
-English (EN) (426.03 KB - PDF)
+English (EN) (457.82 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/en/documents/product-information/gardasil-9-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-184)
+[Other languages (24)](#file-language-dropdown-485)
 
-български (BG) (400.35 KB - PDF)
+български (BG) (1.14 MB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/bg/documents/product-information/gardasil-9-epar-product-information_bg.pdf)
 
-español (ES) (465.26 KB - PDF)
+español (ES) (410.14 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/es/documents/product-information/gardasil-9-epar-product-information_es.pdf)
 
-čeština (CS) (440.36 KB - PDF)
+čeština (CS) (849.91 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/cs/documents/product-information/gardasil-9-epar-product-information_cs.pdf)
 
-dansk (DA) (444.19 KB - PDF)
+dansk (DA) (433.97 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/da/documents/product-information/gardasil-9-epar-product-information_da.pdf)
 
-Deutsch (DE) (507.92 KB - PDF)
+Deutsch (DE) (560.89 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/de/documents/product-information/gardasil-9-epar-product-information_de.pdf)
 
-eesti keel (ET) (442.33 KB - PDF)
+eesti (ET) (435.89 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/et/documents/product-information/gardasil-9-epar-product-information_et.pdf)
 
-ελληνικά (EL) (413.22 KB - PDF)
+ελληνικά (EL) (1.13 MB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/el/documents/product-information/gardasil-9-epar-product-information_el.pdf)
 
-français (FR) (486.71 KB - PDF)
+français (FR) (663.5 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/fr/documents/product-information/gardasil-9-epar-product-information_fr.pdf)
 
-hrvatski (HR) (445.66 KB - PDF)
+hrvatski (HR) (856.69 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/hr/documents/product-information/gardasil-9-epar-product-information_hr.pdf)
 
-íslenska (IS) (433.13 KB - PDF)
+italiano (IT) (558.7 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
-
-[View](/is/documents/product-information/gardasil-9-epar-product-information_is.pdf)
-
-italiano (IT) (492.5 KB - PDF)
-
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/it/documents/product-information/gardasil-9-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (401.45 KB - PDF)
+latviešu (LV) (1000.4 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/lv/documents/product-information/gardasil-9-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (430.91 KB - PDF)
+lietuvių (LT) (873.55 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/lt/documents/product-information/gardasil-9-epar-product-information_lt.pdf)
 
-magyar (HU) (495.25 KB - PDF)
+magyar (HU) (901.22 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/hu/documents/product-information/gardasil-9-epar-product-information_hu.pdf)
 
-Malti (MT) (470.38 KB - PDF)
+Malti (MT) (1.01 MB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/mt/documents/product-information/gardasil-9-epar-product-information_mt.pdf)
 
-Nederlands (NL) (470.97 KB - PDF)
+Nederlands (NL) (480.7 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/nl/documents/product-information/gardasil-9-epar-product-information_nl.pdf)
 
-norsk (NO) (423.71 KB - PDF)
+polski (PL) (1017.67 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
-
-[View](/no/documents/product-information/gardasil-9-epar-product-information_no.pdf)
-
-polski (PL) (473.79 KB - PDF)
-
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/pl/documents/product-information/gardasil-9-epar-product-information_pl.pdf)
 
-português (PT) (465.33 KB - PDF)
+português (PT) (476.45 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/pt/documents/product-information/gardasil-9-epar-product-information_pt.pdf)
 
-română (RO) (447.93 KB - PDF)
+română (RO) (890.34 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/ro/documents/product-information/gardasil-9-epar-product-information_ro.pdf)
 
-slovenčina (SK) (442.55 KB - PDF)
+slovenčina (SK) (884.72 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/sk/documents/product-information/gardasil-9-epar-product-information_sk.pdf)
 
-slovenščina (SL) (430.04 KB - PDF)
+slovenščina (SL) (759 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/sl/documents/product-information/gardasil-9-epar-product-information_sl.pdf)
 
-Suomi (FI) (463.95 KB - PDF)
+suomi (FI) (460.76 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/fi/documents/product-information/gardasil-9-epar-product-information_fi.pdf)
 
-svenska (SV) (434.63 KB - PDF)
+svenska (SV) (435.77 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/sv/documents/product-information/gardasil-9-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000303460
+Íslenska (IS) (425.44 KB - PDF)
 
-09/10/2025
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
+
+[View](/is/documents/product-information/gardasil-9-epar-product-information_is.pdf)
+
+norsk (NO) (404.24 KB - PDF)
+
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
+
+[View](/no/documents/product-information/gardasil-9-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** X/0000310883
+
+19/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -512,182 +436,173 @@ Product information documents contain:
 
 Gardasil 9 : EPAR - All Authorised presentations
 
-English (EN) (68.77 KB - PDF)
+English (EN) (26.89 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/en/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-465)
+[Other languages (24)](#file-language-dropdown-688)
 
-български (BG) (78.21 KB - PDF)
+български (BG) (40.95 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/bg/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (62.05 KB - PDF)
+español (ES) (24.29 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/es/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (69.4 KB - PDF)
+čeština (CS) (38.99 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/cs/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (64.39 KB - PDF)
+dansk (DA) (25.95 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/da/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (127.95 KB - PDF)
+Deutsch (DE) (33.67 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/de/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (74.37 KB - PDF)
+eesti (ET) (27.66 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/et/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (90.11 KB - PDF)
+ελληνικά (EL) (37.53 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/el/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (62.29 KB - PDF)
+français (FR) (27.28 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/fr/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (68.21 KB - PDF)
+hrvatski (HR) (35.59 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/hr/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (63.46 KB - PDF)
+italiano (IT) (25.95 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
-
-[View](/is/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (67.42 KB - PDF)
-
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/it/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (56.65 KB - PDF)
+latviešu (LV) (34.41 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/lv/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (63.78 KB - PDF)
+lietuvių (LT) (34.66 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/lt/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (69.53 KB - PDF)
+magyar (HU) (37.39 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/hu/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (71.49 KB - PDF)
+Malti (MT) (39.22 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/mt/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (61.73 KB - PDF)
+Nederlands (NL) (24.03 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/nl/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (62.58 KB - PDF)
+polski (PL) (40.68 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
-
-[View](/no/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (73.66 KB - PDF)
-
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/pl/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (122.92 KB - PDF)
+português (PT) (32.47 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/pt/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (68.17 KB - PDF)
+română (RO) (36.28 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/ro/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (75.38 KB - PDF)
+slovenčina (SK) (38.5 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/sk/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (61.26 KB - PDF)
+slovenščina (SL) (32.21 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/sl/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (60.66 KB - PDF)
+suomi (FI) (23.33 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/fi/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (61.6 KB - PDF)
+svenska (SV) (24.87 KB - PDF)
 
-**First published:** 03/07/2015 **Last updated:** 03/07/2015
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
 
 [View](/sv/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (27.04 KB - PDF)
+
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
+
+[View](/is/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (24.54 KB - PDF)
+
+**First published:** 03/07/2015 **Last updated:** 08/09/2026
+
+[View](/no/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Gardasil 9
-
-Active substance
-
-human papillomavirus vaccine [types 6, 11, 16, 18, 31, 33, 45, 52, 58] (recombinant, adsorbed)
-
-International non-proprietary name (INN) or common name
-
-human papillomavirus 9-valent vaccine (recombinant, adsorbed)
-
-Therapeutic area (MeSH)
-
-- Condylomata Acuminata
-- Papillomavirus Infections
-- Immunization
-- Uterine Cervical Dysplasia
-
-Anatomical therapeutic chemical (ATC) code
-
-J07BM03
+- **Name of medicine**
+    - Gardasil 9
+- **Active substance**
+    - human papillomavirus vaccine [types 6, 11, 16, 18, 31, 33, 45, 52, 58] (recombinant, adsorbed)
+- **International non-proprietary name (INN) or common name**
+    - human papillomavirus 9-valent vaccine (recombinant, adsorbed)
+- **Therapeutic area (MeSH)**
+        - Condylomata Acuminata
+        - Papillomavirus Infections
+        - Immunization
+        - Uterine Cervical Dysplasia
+- **Anatomical therapeutic chemical (ATC) code**
+    - J07BM03
 
 ### Pharmacotherapeutic group
 
@@ -706,27 +621,16 @@ The use of Gardasil 9 should be in accordance with official recommendations.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/003852
-
-Marketing authorisation holder
-
-Merck Sharp &amp; Dohme B.V.
-
-Waarderweg 39
-
-Opinion adopted
-
-25/03/2015
-
-Marketing authorisation issued
-
-10/06/2015
-
-Revision
-
-29
+- **EMA product number**
+    - EMEA/H/C/003852
+- **Marketing authorisation holder**
+    - Merck Sharp &amp; Dohme B.V. Waarderweg 39  2031 BN Haarlem  The Netherlands
+- **Opinion adopted**
+    - 25/03/2015
+- **Marketing authorisation issued**
+    - 10/06/2015
+- **Revision**
+    - 30
 
 ## Assessment history
 
@@ -734,13 +638,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Gardasil 9 : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (275.43 KB - PDF)
+English (EN) (140.23 KB - PDF)
 
-**First published:** 17/07/2025 **Last updated:** 09/10/2025
+**First published:** 17/07/2025 **Last updated:** 08/09/2026
 
 [View](/en/documents/procedural-steps-after/gardasil-9-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -800,7 +704,7 @@ English (EN) (132.44 KB - PDF)
 
 **First published:** 21/04/2023
 
-[View](/en/documents/scientific-conclusion/gardasil-9-h-c-psusa-00010389-202206-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/gardasil-9-h-c-psusa-00010389-202206-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Gardasil 9-H-C-003852-II-0053: EPAR - Assessment Report - Variation
 
@@ -832,7 +736,7 @@ English (EN) (164.76 KB - PDF)
 
 [View](/en/documents/variation-report/gardasil-9-h-c-3852-p46-0002-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Gardasil 9 : EPAR - Public assessment report
 
@@ -881,19 +785,14 @@ English (EN) (121.2 KB - PDF)
 ## More information on Gardasil 9
 
 - [Human papillomavirus vaccines - Cervarix, Gardasil, Gardasil 9, Silgard - referral](/en/medicines/human/referrals/human-papillomavirus-vaccines-cervarix-gardasil-gardasil-9-silgard)
+- [DARWIN EU® Effectiveness of Human Papillomavirus Vaccines (HPV) to prevent cervical cancer - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000080)
 - [Nested case-control study evaluating effectiveness of immunization of girls and women of childbearing potential with GARDASIL(TM)/GARDASIL(TM) 9 against juvenile-onset recurrent respiratory papillomatosis (JoRRP) in Sweden, Denmark, and Norway (V503-095) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000286)
 - [Population-based retrospective nested case-control study evaluating effectiveness of GARDASIL™ /GARDASIL™9 against adult-onset recurrent respiratory papillomatosis (AoRRP) in Sweden, Denmark, and Norway (V503-088) - post-authorisation study](https://catalogues.ema.europa.eu/study/50312)
-- [DARWIN EU® Effectiveness of Human Papillomavirus Vaccines (HPV) to prevent cervical cancer - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000080)
 - [Retrospective cohort study evaluating effectiveness of GARDASIL™ against adult-onset recurrent respiratory papillomatosis in Norway - post-authorisation study](https://catalogues.ema.europa.eu/study/50697)
 - [Post-Marketing surveillance for the safety of GARDASIL® and GARDASIL®9 in a cohort of Chinese women - post-authorisation study](https://catalogues.ema.europa.eu/study/47294)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-- [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
-
 **This page was last updated on**
 
-08/05/2026
+08/09/2026
 
 ## Share this page

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-18 10:25:00
+document_datetime: 2026-09-08 15:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vislyfa.html
 document_name: vislyfa.html
 version: success
-processing_time: 0.1382563
-conversion_datetime: 2026-08-22 23:16:51.937641
+processing_time: 0.1430282
+conversion_datetime: 2026-09-11 18:00:40.647678
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -130,7 +130,7 @@ English (EN) (151.2 KB - PDF)
 
 [View](/en/documents/overview/vislyfa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-570)
+[Other languages (22)](#file-language-dropdown-745)
 
 български (BG) (164.24 KB - PDF)
 
@@ -276,159 +276,161 @@ English (EN) (2.16 MB - PDF)
 
 Vislyfa : EPAR - Product information
 
-English (EN) (1.15 MB - PDF)
+English (EN) (1.38 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/en/documents/product-information/vislyfa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-654)
+[Other languages (24)](#file-language-dropdown-665)
 
-български (BG) (1.31 MB - PDF)
+български (BG) (1.5 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/bg/documents/product-information/vislyfa-epar-product-information_bg.pdf)
 
-español (ES) (1.14 MB - PDF)
+español (ES) (1.27 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/es/documents/product-information/vislyfa-epar-product-information_es.pdf)
 
-čeština (CS) (1.2 MB - PDF)
+čeština (CS) (1.27 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/cs/documents/product-information/vislyfa-epar-product-information_cs.pdf)
 
-dansk (DA) (1.15 MB - PDF)
+dansk (DA) (1.36 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/da/documents/product-information/vislyfa-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.01 MB - PDF)
+Deutsch (DE) (1.16 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/de/documents/product-information/vislyfa-epar-product-information_de.pdf)
 
-eesti (ET) (1.08 MB - PDF)
+eesti (ET) (1.23 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/et/documents/product-information/vislyfa-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.38 MB - PDF)
+ελληνικά (EL) (1.51 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/el/documents/product-information/vislyfa-epar-product-information_el.pdf)
 
-français (FR) (1.27 MB - PDF)
+français (FR) (1.46 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/fr/documents/product-information/vislyfa-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.28 MB - PDF)
+hrvatski (HR) (1.38 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/hr/documents/product-information/vislyfa-epar-product-information_hr.pdf)
 
-italiano (IT) (1.07 MB - PDF)
+italiano (IT) (1.24 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/it/documents/product-information/vislyfa-epar-product-information_it.pdf)
 
-latviešu (LV) (1.39 MB - PDF)
+latviešu (LV) (1.5 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/lv/documents/product-information/vislyfa-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.25 MB - PDF)
+lietuvių (LT) (1.46 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/lt/documents/product-information/vislyfa-epar-product-information_lt.pdf)
 
-magyar (HU) (1.57 MB - PDF)
+magyar (HU) (1.67 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/hu/documents/product-information/vislyfa-epar-product-information_hu.pdf)
 
-Malti (MT) (1.3 MB - PDF)
+Malti (MT) (1.46 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/mt/documents/product-information/vislyfa-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.11 MB - PDF)
+Nederlands (NL) (1.25 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/nl/documents/product-information/vislyfa-epar-product-information_nl.pdf)
 
-polski (PL) (1.34 MB - PDF)
+polski (PL) (1.4 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/pl/documents/product-information/vislyfa-epar-product-information_pl.pdf)
 
-português (PT) (1.25 MB - PDF)
+português (PT) (1.37 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/pt/documents/product-information/vislyfa-epar-product-information_pt.pdf)
 
-română (RO) (1.24 MB - PDF)
+română (RO) (1.29 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/ro/documents/product-information/vislyfa-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.15 MB - PDF)
+slovenčina (SK) (1.25 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/sk/documents/product-information/vislyfa-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.16 MB - PDF)
+slovenščina (SL) (1.28 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/sl/documents/product-information/vislyfa-epar-product-information_sl.pdf)
 
-suomi (FI) (1.07 MB - PDF)
+suomi (FI) (1.21 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/fi/documents/product-information/vislyfa-epar-product-information_fi.pdf)
 
-svenska (SV) (1.02 MB - PDF)
+svenska (SV) (1.18 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/sv/documents/product-information/vislyfa-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.04 MB - PDF)
+Íslenska (IS) (1.19 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/is/documents/product-information/vislyfa-epar-product-information_is.pdf)
 
-norsk (NO) (1.02 MB - PDF)
+norsk (NO) (1.17 MB - PDF)
 
-**First published:** 18/08/2026
+**First published:** 18/08/2026 **Last updated:** 08/09/2026
 
 [View](/no/documents/product-information/vislyfa-epar-product-information_no.pdf)
 
-15/07/2026
+**Latest procedure affecting product information:** VR/0000363167
+
+02/09/2026
 
 icon globe
 
@@ -453,7 +455,7 @@ English (EN) (74.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vislyfa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-269)
+[Other languages (24)](#file-language-dropdown-68)
 
 български (BG) (77.51 KB - PDF)
 
@@ -644,8 +646,24 @@ Vislyfa is indicated in adults for:
     - 21/05/2026
 - **Marketing authorisation issued**
     - 15/07/2026
+- **Revision**
+    - 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Vislyfa : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (125.82 KB - PDF)
+
+**First published:** 08/09/2026
+
+[View](/en/documents/procedural-steps-after/vislyfa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -677,6 +695,6 @@ English (EN) (148 KB - PDF)
 
 **This page was last updated on**
 
-18/08/2026
+08/09/2026
 
 ## Share this page

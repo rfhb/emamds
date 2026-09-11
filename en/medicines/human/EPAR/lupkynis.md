@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-13 09:03:00
+document_datetime: 2026-09-08 15:28:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lupkynis.html
 document_name: lupkynis.html
 version: success
-processing_time: 0.1535119
-conversion_datetime: 2026-08-17 13:28:53.021509
+processing_time: 0.1522123
+conversion_datetime: 2026-09-11 17:56:25.040461
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.120.2
-  docling-core: 2.91.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.13.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Lupkynis
 
@@ -108,7 +108,7 @@ English (EN) (118.99 KB - PDF)
 
 [View](/en/documents/overview/lupkynis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-582)
+[Other languages (22)](#file-language-dropdown-121)
 
 български (BG) (135.58 KB - PDF)
 
@@ -260,7 +260,7 @@ English (EN) (575.4 KB - PDF)
 
 [View](/en/documents/product-information/lupkynis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-528)
+[Other languages (24)](#file-language-dropdown-5)
 
 български (BG) (632.94 KB - PDF)
 
@@ -414,7 +414,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -433,7 +433,7 @@ English (EN) (12.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lupkynis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-856)
+[Other languages (24)](#file-language-dropdown-816)
 
 български (BG) (35.07 KB - PDF)
 
@@ -613,7 +613,7 @@ Lupkynis is indicated in combination with mycophenolate mofetil for the treatmen
 - **Marketing authorisation issued**
     - 15/09/2022
 - **Revision**
-    - 7
+    - 8
 
 ## Assessment history
 
@@ -638,6 +638,16 @@ English (EN) (104.7 KB - PDF)
 **First published:** 07/02/2023 **Last updated:** 19/06/2025
 
 [View](/en/documents/procedural-steps-after/lupkynis-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Lupkynis-PAM-0000348692 &amp; PAM-0000348696 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3391811
+
+English (EN) (1.13 MB - PDF)
+
+**First published:** 08/09/2026
+
+[View](/en/documents/variation-report/lupkynis-pam-0000348692-pam-0000348696-epar-assessment-report_en.pdf)
 
 Lupkynis-PSUSA-00011020-202501 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -694,6 +704,6 @@ English (EN) (116.26 KB - PDF)
 
 **This page was last updated on**
 
-13/08/2026
+08/09/2026
 
 ## Share this page

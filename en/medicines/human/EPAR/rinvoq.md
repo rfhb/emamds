@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-17 18:00:00
+document_datetime: 2026-09-08 17:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rinvoq.html
 document_name: rinvoq.html
 version: success
-processing_time: 0.2412512
-conversion_datetime: 2026-08-22 23:21:59.79887
+processing_time: 0.2387008
+conversion_datetime: 2026-09-11 17:59:02.969611
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -185,7 +185,7 @@ English (EN) (174.54 KB - PDF)
 
 [View](/en/documents/overview/rinvoq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-958)
+[Other languages (22)](#file-language-dropdown-120)
 
 български (BG) (196.97 KB - PDF)
 
@@ -337,7 +337,7 @@ English (EN) (1.01 MB - PDF)
 
 [View](/en/documents/product-information/rinvoq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-821)
+[Other languages (24)](#file-language-dropdown-425)
 
 български (BG) (1.22 MB - PDF)
 
@@ -510,7 +510,7 @@ English (EN) (38.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rinvoq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-977)
+[Other languages (24)](#file-language-dropdown-201)
 
 български (BG) (39.44 KB - PDF)
 
@@ -737,7 +737,7 @@ Crohn's disease
 - **Marketing authorisation issued**
     - 16/12/2019
 - **Revision**
-    - 34
+    - 35
 
 ## Assessment history
 
@@ -762,6 +762,16 @@ English (EN) (169.28 KB - PDF)
 **First published:** 29/04/2020 **Last updated:** 24/09/2025
 
 [View](/en/documents/procedural-steps-after/rinvoq-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Rinvoq-PAM-0000355418 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3433696
+
+English (EN) (357.7 KB - PDF)
+
+**First published:** 08/09/2026
+
+[View](/en/documents/variation-report/rinvoq-pam-0000355418-epar-assessment-report_en.pdf)
 
 Rinvoq-VR-0000312506 : EPAR - Assessment report - Variation
 
@@ -929,7 +939,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/rinvoq-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-612)
+[Other languages (24)](#file-language-dropdown-93)
 
 български (BG) (203.66 KB - PDF)
 
@@ -1346,6 +1356,6 @@ English (EN) (69.42 KB - PDF)
 
 **This page was last updated on**
 
-17/08/2026
+08/09/2026
 
 ## Share this page

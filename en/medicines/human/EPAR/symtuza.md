@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:07:11
+document_datetime: 2026-09-04 16:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/symtuza.html
 document_name: symtuza.html
 version: success
-processing_time: 0.1161819
-conversion_datetime: 2025-12-30 10:45:01.528318
+processing_time: 0.154307
+conversion_datetime: 2026-09-11 18:00:23.713244
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Symtuza
 
 [RSS](/en/individual-human-medicine.xml/67049)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-darunavir / cobicistat / emtricitabine / tenofovir alafenamide Medicine Human Authorised
+darunavir / cobicistat / emtricitabine / tenofovir alafenamide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Symtuza](#news-on)
 - [More information on Symtuza](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -55,7 +54,7 @@ Expand section
 
 Collapse section
 
-## How is Symtuza used?
+### How is Symtuza used?
 
 Symtuza can only be obtained with a prescription and treatment should be started by a doctor who is experienced in managing HIV infection.
 
@@ -63,7 +62,7 @@ Symtuza is available as tablets, each containing 800 mg darunavir, 150 mg cobici
 
 For more information about using Symtuza, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Symtuza work?
+### How does Symtuza work?
 
 Symtuza contains four active substances which work in different ways against HIV:
 
@@ -74,31 +73,31 @@ Symtuza contains four active substances which work in different ways against HIV
 
 Symtuza does not cure HIV-1 infection or AIDS, but it may hold off the damage to the immune system and the development of infections and diseases associated with AIDS.
 
-## What benefits of Symtuza have been shown in studies?
+### What benefits of Symtuza have been shown in studies?
 
 Because the individual active substances of Symtuza have previously been shown to be effective and are authorised for use in the treatment of HIV infection, studies were mainly carried out to show that Symtuza produced similar levels of active substances in the blood as the active substances given separately.
 
 In addition, one main study compared Symtuza with another antiviral medicine containing darunavir, cobicistat, emtricitabine and tenofovir disoproxil in 153 adult patients with HIV who had not been previously treated. Effectiveness was measured by a reduction in viral load (the amount of HIV-1 in the blood) to less than 50 copies/ml. Overall, 75% of patients taking Symtuza (77 patients out of 103) achieved this reduction after 24 weeks of treatment, which was similar to the 74% (37 of 50) of patients who achieved it with the comparator.
 
-## What are the risks associated with Symtuza?
+### What are the risks associated with Symtuza?
 
 The most common side effects with Symtuza (which may affect more than 1 in 10 people) are diarrhoea, headache and rash. For the full list of side effects reported with Symtuza, see the package leaflet.
 
 Symtuza must not be taken by patients with severely reduced liver function. It must also not be taken with certain medicines that can reduce the effectiveness of Symtuza, as well as medicines that can increase the risk of serious side effects. For more information on the medicines that should not be taken with Symtuza, see the package leaflet.
 
-## Why is Symtuza authorised in the EU?
+### Why is Symtuza authorised in the EU?
 
 The active substances in Symtuza have already been shown to be effective when used individually, and combining them in a single tablet simplifies treatment. Symtuza was also as effective as a similar combination medicine containing tenofovir disoproxil in place of tenofovir alafenamide. Because tenofovir alafenamide is effective at a lower dose than tenofovir disoproxil, Symtuza offers the possibility of reduced side effects.
 
 The European Medicines Agency decided that Symtuza's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Symtuza?
+### What measures are being taken to ensure the safe and effective use of Symtuza?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Symtuza have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Symtuza are continuously monitored. Side effects reported with Symtuza are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Symtuza
+### Other information about Symtuza
 
 Symtuza received a marketing authorisation valid throughout the EU on 21 September 2017.
 
@@ -106,275 +105,141 @@ Symtuza : EPAR - Medicine overview
 
 English (EN) (82.2 KB - PDF)
 
-**First published:** 26/09/2017
-
-**Last updated:** 11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/en/documents/overview/symtuza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-450)
+[Other languages (22)](#file-language-dropdown-492)
 
 български (BG) (110.25 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/bg/documents/overview/symtuza-epar-medicine-overview_bg.pdf)
 
 español (ES) (81.91 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/es/documents/overview/symtuza-epar-medicine-overview_es.pdf)
 
 čeština (CS) (107.37 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/cs/documents/overview/symtuza-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (81.02 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/da/documents/overview/symtuza-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (82.93 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/de/documents/overview/symtuza-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (79.39 KB - PDF)
+eesti (ET) (79.39 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/et/documents/overview/symtuza-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (117.49 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/el/documents/overview/symtuza-epar-medicine-overview_el.pdf)
 
 français (FR) (82.57 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/fr/documents/overview/symtuza-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (170.34 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/hr/documents/overview/symtuza-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (81.47 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/it/documents/overview/symtuza-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (112.71 KB - PDF)
+latviešu (LV) (112.71 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/lv/documents/overview/symtuza-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (104.78 KB - PDF)
+lietuvių (LT) (104.78 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/lt/documents/overview/symtuza-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (102.06 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/hu/documents/overview/symtuza-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (114.19 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/mt/documents/overview/symtuza-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (81.84 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/nl/documents/overview/symtuza-epar-medicine-overview_nl.pdf)
 
 polski (PL) (106.41 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/pl/documents/overview/symtuza-epar-medicine-overview_pl.pdf)
 
 português (PT) (81.96 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/pt/documents/overview/symtuza-epar-medicine-overview_pt.pdf)
 
 română (RO) (112.37 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/ro/documents/overview/symtuza-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (105.83 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/sk/documents/overview/symtuza-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (99.75 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/sl/documents/overview/symtuza-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (81.21 KB - PDF)
+suomi (FI) (81.21 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/fi/documents/overview/symtuza-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (81.57 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-11/10/2019
+**First published:** 26/09/2017 **Last updated:** 11/10/2019
 
 [View](/sv/documents/overview/symtuza-epar-medicine-overview_sv.pdf)
 
@@ -382,9 +247,7 @@ Symtuza : EPAR - Risk management plan summary
 
 English (EN) (120.91 KB - PDF)
 
-**First published:** 28/03/2022
-
-**Last updated:** 14/09/2022
+**First published:** 28/03/2022 **Last updated:** 14/09/2022
 
 [View](/en/documents/rmp-summary/symtuza-epar-risk-management-plan-summary_en.pdf)
 
@@ -392,311 +255,168 @@ English (EN) (120.91 KB - PDF)
 
 Symtuza : EPAR - Product Information
 
-English (EN) (366.43 KB - PDF)
+English (EN) (366.1 KB - PDF)
 
-**First published:** 26/09/2017
-
-**Last updated:** 25/07/2024
+**First published:** 26/09/2017 **Last updated:** 04/09/2026
 
 [View](/en/documents/product-information/symtuza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-35)
+[Other languages (24)](#file-language-dropdown-465)
 
-български (BG) (387.82 KB - PDF)
+български (BG) (387.83 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/bg/documents/product-information/symtuza-epar-product-information_bg.pdf)
 
-español (ES) (365.49 KB - PDF)
+español (ES) (366 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/es/documents/product-information/symtuza-epar-product-information_es.pdf)
 
-čeština (CS) (410.66 KB - PDF)
+čeština (CS) (410.47 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/cs/documents/product-information/symtuza-epar-product-information_cs.pdf)
 
-dansk (DA) (374.02 KB - PDF)
+dansk (DA) (373.31 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/da/documents/product-information/symtuza-epar-product-information_da.pdf)
 
-Deutsch (DE) (399.17 KB - PDF)
+Deutsch (DE) (399.02 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/de/documents/product-information/symtuza-epar-product-information_de.pdf)
 
-eesti keel (ET) (365.64 KB - PDF)
+eesti (ET) (364.64 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/et/documents/product-information/symtuza-epar-product-information_et.pdf)
 
-ελληνικά (EL) (394.91 KB - PDF)
+ελληνικά (EL) (394.84 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/el/documents/product-information/symtuza-epar-product-information_el.pdf)
 
-français (FR) (377.89 KB - PDF)
+français (FR) (378.43 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/fr/documents/product-information/symtuza-epar-product-information_fr.pdf)
 
-hrvatski (HR) (379.03 KB - PDF)
+hrvatski (HR) (378.84 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/hr/documents/product-information/symtuza-epar-product-information_hr.pdf)
 
-íslenska (IS) (377.19 KB - PDF)
+italiano (IT) (359.82 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
-
-[View](/is/documents/product-information/symtuza-epar-product-information_is.pdf)
-
-italiano (IT) (359.9 KB - PDF)
-
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/it/documents/product-information/symtuza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (376.46 KB - PDF)
+latviešu (LV) (376.42 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/lv/documents/product-information/symtuza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (354.15 KB - PDF)
+lietuvių (LT) (356.67 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/lt/documents/product-information/symtuza-epar-product-information_lt.pdf)
 
-magyar (HU) (383.88 KB - PDF)
+magyar (HU) (383.75 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/hu/documents/product-information/symtuza-epar-product-information_hu.pdf)
 
-Malti (MT) (459.95 KB - PDF)
+Malti (MT) (459.39 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/mt/documents/product-information/symtuza-epar-product-information_mt.pdf)
 
-Nederlands (NL) (379.74 KB - PDF)
+Nederlands (NL) (379.65 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/nl/documents/product-information/symtuza-epar-product-information_nl.pdf)
 
-norsk (NO) (360.64 KB - PDF)
+polski (PL) (398.72 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
-
-[View](/no/documents/product-information/symtuza-epar-product-information_no.pdf)
-
-polski (PL) (398.8 KB - PDF)
-
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/pl/documents/product-information/symtuza-epar-product-information_pl.pdf)
 
-português (PT) (381.38 KB - PDF)
+português (PT) (380.88 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/pt/documents/product-information/symtuza-epar-product-information_pt.pdf)
 
-română (RO) (419.81 KB - PDF)
+română (RO) (419.4 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/ro/documents/product-information/symtuza-epar-product-information_ro.pdf)
 
-slovenčina (SK) (391.81 KB - PDF)
+slovenčina (SK) (391.57 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 04/09/2026
 
 [View](/sk/documents/product-information/symtuza-epar-product-information_sk.pdf)
 
-slovenščina (SL) (402.09 KB - PDF)
+slovenščina (SL) (401.62 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 04/09/2026
 
 [View](/sl/documents/product-information/symtuza-epar-product-information_sl.pdf)
 
-Suomi (FI) (365.5 KB - PDF)
+suomi (FI) (371.37 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
 
 [View](/fi/documents/product-information/symtuza-epar-product-information_fi.pdf)
 
-svenska (SV) (357.76 KB - PDF)
+svenska (SV) (353.99 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-25/07/2024
+**First published:** 26/09/2017 **Last updated:** 04/09/2026
 
 [View](/sv/documents/product-information/symtuza-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0052 24/07/2024
+Íslenska (IS) (371.79 KB - PDF)
+
+**First published:** 26/09/2017 **Last updated:** 04/09/2026
+
+[View](/is/documents/product-information/symtuza-epar-product-information_is.pdf)
+
+norsk (NO) (355.83 KB - PDF)
+
+**First published:** 26/09/2017 **Last updated:** 25/07/2024
+
+[View](/no/documents/product-information/symtuza-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000350596
+
+04/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -710,319 +430,174 @@ Symtuza : EPAR - All Authorised presentations
 
 English (EN) (21.51 KB - PDF)
 
-**First published:** 26/09/2017
-
-**Last updated:** 06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/en/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-660)
+[Other languages (24)](#file-language-dropdown-138)
 
 български (BG) (22.9 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/bg/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (21.45 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/es/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (21.69 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/cs/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (21.89 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/da/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (21.4 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/de/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (21.24 KB - PDF)
+eesti (ET) (21.24 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/et/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (23.24 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/el/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (21.22 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/fr/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (21.07 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/hr/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (21.33 KB - PDF)
-
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
-
-[View](/is/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (21.34 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/it/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (21.74 KB - PDF)
+latviešu (LV) (21.74 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/lv/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (22.64 KB - PDF)
+lietuvių (LT) (22.64 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/lt/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (21.43 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/hu/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (21.88 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/mt/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (20.75 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/nl/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (21.82 KB - PDF)
-
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
-
-[View](/no/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (21.71 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/pl/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (21.5 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/pt/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (21.57 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/ro/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (21.79 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/sk/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (20.99 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/sl/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (20.57 KB - PDF)
+suomi (FI) (20.57 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/fi/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (20.34 KB - PDF)
 
-**First published:**
-
-26/09/2017
-
-**Last updated:**
-
-06/12/2017
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
 
 [View](/sv/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (21.33 KB - PDF)
+
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
+
+[View](/is/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (21.82 KB - PDF)
+
+**First published:** 26/09/2017 **Last updated:** 06/12/2017
+
+[View](/no/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Symtuza Active substance
-
-- darunavir
-- cobicistat
-- emtricitabine
-- tenofovir alafenamide
-
-International non-proprietary name (INN) or common name
-
-- darunavir
-- cobicistat
-- emtricitabine
-- tenofovir alafenamide
-
-Therapeutic area (MeSH) HIV Infections Anatomical therapeutic chemical (ATC) code J05AR22
+- **Name of medicine**
+    - Symtuza
+- **Active substance**
+        - darunavir
+        - cobicistat
+        - emtricitabine
+        - tenofovir alafenamide
+- **International non-proprietary name (INN) or common name**
+        - darunavir
+        - cobicistat
+        - emtricitabine
+        - tenofovir alafenamide
+- **Therapeutic area (MeSH)**
+    - HIV Infections
+- **Anatomical therapeutic chemical (ATC) code**
+    - J05AR22
 
 ### Pharmacotherapeutic group
 
@@ -1037,13 +612,16 @@ Genotypic testing should guide the use of Symtuza.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004391 Marketing authorisation holder
-
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-Opinion adopted 19/07/2017 Marketing authorisation issued 21/09/2017 Revision 18
+- **EMA product number**
+    - EMEA/H/C/004391
+- **Marketing authorisation holder**
+    - Janssen-Cilag International NV Turnhoutseweg 30  B-2340 Beerse  Belgium
+- **Opinion adopted**
+    - 19/07/2017
+- **Marketing authorisation issued**
+    - 21/09/2017
+- **Revision**
+    - 19
 
 ## Assessment history
 
@@ -1051,23 +629,27 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Symtuza : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (246.14 KB - PDF)
+English (EN) (164.84 KB - PDF)
 
-**First published:** 06/12/2017
-
-**Last updated:** 25/07/2024
+**First published:** 04/09/2026
 
 [View](/en/documents/procedural-steps-after/symtuza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
+Symtuza : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (246.14 KB - PDF)
+
+**First published:** 06/12/2017 **Last updated:** 04/09/2026
+
+[View](/en/documents/procedural-steps-after/symtuza-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
 Symtuza-H-C-4391-WS-1544 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/256624/2019
+Adopted Reference Number: EMA/256624/2019
 
 English (EN) (273.52 KB - PDF)
 
@@ -1075,7 +657,7 @@ English (EN) (273.52 KB - PDF)
 
 [View](/en/documents/variation-report/symtuza-h-c-4391-ws-1544-epar-assessment-report-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Symtuza : EPAR - Public assessment report
 
@@ -1083,9 +665,7 @@ Reference Number: EMA/496527/2017
 
 English (EN) (2.42 MB - PDF)
 
-**First published:** 26/09/2017
-
-**Last updated:** 26/09/2017
+**First published:** 26/09/2017 **Last updated:** 26/09/2017
 
 [View](/en/documents/assessment-report/symtuza-epar-public-assessment-report_en.pdf)
 
@@ -1095,26 +675,27 @@ Reference Number: EMA/411074/2017
 
 English (EN) (68.79 KB - PDF)
 
-**First published:** 21/07/2017
-
-**Last updated:** 21/07/2017
+**First published:** 21/07/2017 **Last updated:** 21/07/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-symtuza_en.pdf)
 
-#### News on Symtuza
+## News on Symtuza
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017) 21/07/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2026)
 
-#### More information on Symtuza
+26/06/2026
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017)
+
+21/07/2017
+
+## More information on Symtuza
 
 - [EMEA-001825-PIP01-15-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001825-pip01-15-m05)
+- [Symtuza - opinion on variation to marketing authorisation](/en/medicines/human/variation/symtuza)
 
-#### Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 25/07/2024
+04/09/2026
 
 ## Share this page
-
-[Back to top](#main-content)

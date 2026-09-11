@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-04 10:53:31
-document_pages: 67
+document_datetime: 2026-09-08 14:40:29
+document_pages: 114
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rezolsta-epar-product-information_en.pdf
 document_name: rezolsta-epar-product-information_en.pdf
 version: success
-processing_time: 20.6242711
-conversion_datetime: 2025-12-19 06:41:09.354994
+processing_time: 36.8619055
+conversion_datetime: 2026-09-11 17:32:15.916499
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,7 @@ The score line is only to facilitate breaking for ease of swallowing and not to 
 
 ## 4.1 Therapeutic indications
 
-REZOLSTA is indicated, in combination with other antiretroviral medicinal products, for the treatment of human immunodeficiency virus-1 (HIV-1) infection in adults and  paediatric patients (aged 6 years and older, weighing at least 25 kg).
+REZOLSTA is indicated, in combination with other antiretroviral medicinal products, for the treatment of human immunodeficiency virus-1 (HIV-1) infection in adults and paediatric patients aged 6 years and older, weighing at least 25 kg.
 
 Genotypic testing should guide the use of REZOLSTA (see sections 4.2, 4.4 and 5.1).
 
@@ -92,6 +92,10 @@ One 675 mg darunavir/150 mg cobicistat tablet once daily taken with food may be 
 
 In all other ART-experienced patients or if HIV-1 genotype testing is not available, the use of REZOLSTA is not appropriate and another antiretroviral regimen should be used. Refer to the Summary of Product Characteristics of other antiretroviral medicinal products for dosing information.
 
+## Dispersible tablets
+
+REZOLSTA is also available as a 600 mg darunavir/90 mg cobicistat dispersible tablet for paediatric patients aged 3 years and older weighing at least 15 kg and less than 25 kg.
+
 ## Advice on missed doses
 
 If REZOLSTA is missed within 12 hours of the time it is usually taken, patients should be instructed to take the prescribed dose with food as soon as possible. If this is noticed later than 12 hours of the time it is usually taken, the missed dose should not be taken and the patient should resume the usual dosing schedule.
@@ -112,13 +116,11 @@ Darunavir and cobicistat are metabolised by the hepatic system. Separate trials 
 
 There are no data regarding the use of darunavir or cobicistat in patients with severe hepatic impairment. Severe hepatic impairment could result in an increase of darunavir and/or cobicistat exposure and a worsening of its safety profile. Therefore, REZOLSTA must not be used in patients with severe hepatic impairment (Child-Pugh Class C) (see sections 4.3, 4.4 and 5.2).
 
-## Renal impairment
-
-Cobicistat has been shown to decrease estimated creatinine clearance due to inhibition of tubular secretion of creatinine. REZOLSTA should not be initiated in patients with creatinine clearance less than 70 mL/min, if any co-administered medicinal product (e.g. emtricitabine, lamivudine, tenofovir
-
 <div style=\"page-break-after: always\"></div>
 
-disoproxil (as fumarate, phosphate or succinate), or adefovir dipivoxil) requires dose adjustment based on creatinine clearance (see sections 4.4, 4.8 and 5.2).
+## Renal impairment
+
+Cobicistat has been shown to decrease estimated creatinine clearance due to inhibition of tubular secretion of creatinine. REZOLSTA should not be initiated in patients with creatinine clearance less than 70 mL/min, if any co-administered medicinal product (e.g. emtricitabine, lamivudine, tenofovir disoproxil (as fumarate, phosphate or succinate), or adefovir dipivoxil) requires dose adjustment based on creatinine clearance (see sections 4.4, 4.8 and 5.2).
 
 Based on the very limited renal elimination of cobicistat and darunavir, no special precautions or dose adjustments of REZOLSTAare required for patients with renal impairment. Darunavir, cobicistat, or the combination of both have not been studied in patients receiving dialysis, and therefore no recommendation can be made for these patients (see section 5.2).
 
@@ -126,7 +128,7 @@ For more information consult the cobicistat Summary of Product Characteristics.
 
 ## Paediatric population
 
-The safety and efficacy of darunavir in combination with cobicistat in paediatric patients aged 3 to &lt; 6 years, or weighing &lt; 25 kg, have not been established. No data are available yet. Darunavir in combination with cobicistat should not be used in paediatric patients below 3 years of age because of safety concerns related to toxicity and mortality observed in juvenile rats dosed with darunavir up to days 23 to 26 of age (see section 5.3).
+Darunavir in combination with cobicistat should not be used in paediatric patients below 3 years of age because of safety concerns related to toxicity and mortality observed in juvenile rats dosed with darunavir up to days 23 to 26 of age (see section 5.3).
 
 ## Pregnancy and postpartum
 
@@ -156,31 +158,31 @@ Patients with severe (Child-Pugh Class C) hepatic impairment.
 
 Co-administration with strong CYP3A inducers such as the medicinal products listed below due to the potential for loss of therapeutic effect (see section 4.5):
 
-- -carbamazepine, phenobarbital, phenytoin
-- -rifampicin
-- -lopinavir/ritonavir
-- -St John's Wort ( Hypericum perforatum ).
+- carbamazepine, phenobarbital, phenytoin
+- rifampicin
+- lopinavir/ritonavir
+- St John's Wort ( Hypericum perforatum ).
 
 <div style=\"page-break-after: always\"></div>
 
 Co-administration with medicinal products such as those products listed below due to the potential for serious and/or life-threatening adverse reactions (see section 4.5):
 
-- -alfuzosin
-- -amiodarone, bepridil, dronedarone, ivabradine, quinidine, ranolazine
-- -astemizole, terfenadine
-- -colchicine, when used in patients with renal and/or hepatic impairment (see section 4.5)
-- -rifampicin
-- -ergot derivatives (e.g. dihydroergotamine, ergometrine, ergotamine, methylergonovine)
-- -cisapride
-- -dapoxetine
-- -domperidone
-- -naloxegol
-- -lurasidone, pimozide, quetiapine, sertindole (see section 4.5)
-- -elbasvir/grazoprevir
-- -triazolam, midazolam administered orally (for caution on parenterally administered midazolam, see section 4.5)
-- -sildenafil - when used for the treatment of pulmonary arterial hypertension, avanafil
-- -simvastatin, lovastatin and lomitapide (see section 4.5)
-- -ticagrelor.
+- alfuzosin
+- amiodarone, bepridil, dronedarone, ivabradine, quinidine, ranolazine
+- astemizole, terfenadine
+- colchicine, when used in patients with renal and/or hepatic impairment (see section 4.5)
+- rifampicin
+- ergot derivatives (e.g. dihydroergotamine, ergometrine, ergotamine, methylergonovine)
+- cisapride
+- dapoxetine
+- domperidone
+- naloxegol
+- lurasidone, pimozide, quetiapine, sertindole (see section 4.5)
+- elbasvir/grazoprevir
+- triazolam, midazolam administered orally (for caution on parenterally administered midazolam, see section 4.5)
+- sildenafil - when used for the treatment of pulmonary arterial hypertension, avanafil
+- simvastatin, lovastatin and lomitapide (see section 4.5)
+- ticagrelor.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -220,7 +222,7 @@ Drug-induced hepatitis (e.g. acute hepatitis, cytolytic hepatitis) has been repo
 
 Appropriate laboratory testing should be conducted prior to initiating therapy with REZOLSTA and patients should be monitored during treatment. Increased AST/ALT monitoring should be considered in patients with underlying chronic hepatitis, cirrhosis, or in patients who have pre-treatment elevations of transaminases, especially during the first several months of treatment.
 
-If there is evidence of new or worsening liver dysfunction (including clinically significant elevation of liver enzymes and/or symptoms such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness, hepatomegaly)  interruption or discontinuation of treatment should be considered promptly.
+If there is evidence of new or worsening liver dysfunction (including clinically significant elevation of liver enzymes and/or symptoms such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness, hepatomegaly) interruption or discontinuation of treatment should be considered promptly.
 
 ## Patients with coexisting conditions
 
@@ -304,9 +306,8 @@ The interaction profile of darunavir depends on whether ritonavir or cobicistat 
 
 The below list of examples of drug-drug interactions in Table 1 is not comprehensive and therefore the label of each drug that is co-administered with REZOLSTA should be consulted for information related to the route of metabolism, interaction pathways, potential risks, and specific actions to be taken with regards to co-administration.
 
-| Table 1:                                                    | Interactions and dose recommendations with other medicinal products                                          | Interactions and dose recommendations with other medicinal products                                                                                                                                                                              |
+| Table 1 - Medicinal product examples by therapeutic area    | Interactions and dose recommendations with other medicinal products - Interaction                            | Interactions and dose recommendations with other medicinal products - Recommendations concerning co-administration                                                                                                                               |
 |-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Medicinal product examples by therapeutic area              | Interaction                                                                                                  | Recommendations concerning co-administration                                                                                                                                                                                                     |
 | HIV ANTIRETROVIRALS                                         | HIV ANTIRETROVIRALS                                                                                          | HIV ANTIRETROVIRALS                                                                                                                                                                                                                              |
 | Integrase strand transfer inhibitors                        | Integrase strand transfer inhibitors                                                                         | Integrase strand transfer inhibitors                                                                                                                                                                                                             |
 | Dolutegravir                                                | Based on theoretical considerations dolutegravir is not expected to affect the pharmacokinetics of REZOLSTA. | REZOLSTA and dolutegravir can be used without dose adjustments.                                                                                                                                                                                  |
@@ -318,7 +319,7 @@ The below list of examples of drug-drug interactions in Table 1 is not comprehen
 
 | Tenofovir disoproxil * *study was done with tenofovir disoproxil fumarate   | Based on theoretical considerations REZOLSTA is expected to increase tenofovir plasma concentrations. (P-glycoprotein inhibition)                                                                                                                                                                 | REZOLSTA and tenofovir disoproxil can be used without dose adjustments. Monitoring of renal function may be indicated when REZOLSTA is given in combination with tenofovir disoproxil, particularly in patients with underlying systemic or renal disease, or in patients taking nephrotoxic agents.   |
 |-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Emtricitabine/tenofovir alafenamide                                         | Tenofovir alafenamide↔ Tenofovir ↑                                                                                                                                                                                                                                                                | The recommended dose of emtricitabine/tenofovir alafenamide is 200/10 mg once daily when used with REZOLSTA.                                                                                                                                                                                           |
+| Emtricitabine/tenofovir alafenamide (F/TAF)                                 | Tenofovir alafenamide ↔ Tenofovir ↑                                                                                                                                                                                                                                                               | The recommended dose of F/TAF is 200/10 mg once daily when used with REZOLSTA.                                                                                                                                                                                                                         |
 | Abacavir Emtricitabine Lamivudine Stavudine Zidovudine                      | Based on the different elimination pathways of the other NRTIs (i.e. emtricitabine, lamivudine, stavudine and zidovudine) that are primarily renally excreted, and abacavir for which metabolism is not mediated by CYP, no interactions are expected for these medicinal compounds and REZOLSTA. | REZOLSTA can be used with these NRTIs without dose adjustment.                                                                                                                                                                                                                                         |
 | HIV Non-nucleo(s/t)ide reverse transcriptase inhibitors (NNRTIs)            | HIV Non-nucleo(s/t)ide reverse transcriptase inhibitors (NNRTIs)                                                                                                                                                                                                                                  | HIV Non-nucleo(s/t)ide reverse transcriptase inhibitors (NNRTIs)                                                                                                                                                                                                                                       |
 | Efavirenz                                                                   | Based on theoretical considerations efavirenz is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction)                                                                                                                                                        | Co-administration of REZOLSTA and efavirenz is not recommended. This recommendation is different from ritonavir-boosted darunavir. Consult the Summary of Product Characteristics for darunavir for further details.                                                                                   |
@@ -328,20 +329,20 @@ The below list of examples of drug-drug interactions in Table 1 is not comprehen
 
 <div style=\"page-break-after: always\"></div>
 
-| CCR5 ANTAGONIST                                                                         | CCR5 ANTAGONIST                                                                                                                                                                                                                                             | CCR5 ANTAGONIST                                                                                                                                                                                                                                              |
-|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Maraviroc 150 mg twice daily                                                            | Based on theoretical considerations REZOLSTA is expected to increase maraviroc plasma concentrations. (CYP3A inhibition)                                                                                                                                    | The recommended dose of maraviroc is 150 mg twice daily when co-administered with REZOLSTA. For further details, consult the maraviroc Summary of Product Characteristics.                                                                                   |
-| α1-ADRENORECEPTOR ANTAGONIST                                                            | α1-ADRENORECEPTOR ANTAGONIST                                                                                                                                                                                                                                | α1-ADRENORECEPTOR ANTAGONIST                                                                                                                                                                                                                                 |
-| Alfuzosin                                                                               | Based on theoretical considerations REZOLSTA is expected to increase alfuzosin plasma concentrations.                                                                                                                                                       | Co-administration of REZOLSTA with alfuzosin is contraindicated (see section 4.3).                                                                                                                                                                           |
-| ANAESTHETIC                                                                             | ANAESTHETIC                                                                                                                                                                                                                                                 | ANAESTHETIC                                                                                                                                                                                                                                                  |
-| Alfentanil                                                                              | Based on theoretical considerations REZOLSTA is expected to increase alfentanil plasma concentrations.                                                                                                                                                      | The concomitant use with REZOLSTA may require to lower the dose of alfentanil and requires monitoring for risks of prolonged or delayed respiratory depression.                                                                                              |
-| ANTACIDS                                                                                | ANTACIDS                                                                                                                                                                                                                                                    | ANTACIDS                                                                                                                                                                                                                                                     |
-| Aluminium/magnesium hydroxide Calcium carbonate                                         | No mechanistic interaction expected based on theoretical consideration.                                                                                                                                                                                     | REZOLSTA and antacids can be used concomitantly without dose adjustment.                                                                                                                                                                                     |
-| ANTIANGINA/ANTIARRHYTHMIC                                                               | ANTIANGINA/ANTIARRHYTHMIC                                                                                                                                                                                                                                   | ANTIANGINA/ANTIARRHYTHMIC                                                                                                                                                                                                                                    |
-| Disopyramide Flecainide Lidocaine (systemic) Mexiletine Propafenone Amiodarone Bepridil | Based on theoretical considerations REZOLSTA is expected to increase these antiarrhythmic plasma concentrations. (CYP3A and/or CYP2D6 inhibition)                                                                                                           | Caution is warranted and therapeutic concentration monitoring, if available, is recommended for these antiarrhythmics when co-administered with REZOLSTA. Co-administration of amiodarone, bepridil, dronedarone, ivabradine,                                |
-| Digoxin                                                                                 | Based on theoretical considerations REZOLSTA is expected to increase digoxin plasma concentrations. (P-glycoprotein inhibition)                                                                                                                             | It is recommended that the lowest possible dose of digoxin should initially be given to patients on REZOLSTA. The digoxin dose should be carefully titrated to obtain the desired clinical effect while assessing the overall clinical state of the subject. |
-| ANTIBIOTIC                                                                              | ANTIBIOTIC                                                                                                                                                                                                                                                  | ANTIBIOTIC                                                                                                                                                                                                                                                   |
-| Clarithromycin                                                                          | Based on theoretical considerations clarithromycin is expected to increase darunavir and/or cobicistat plasma concentrations. (CYP3A inhibition) Concentrations of clarithromycin may be increased upon co-administration with REZOLSTA. (CYP3A inhibition) | Caution should be exercised when clarithromycin is combined with REZOLSTA. For patients with renal impairment the Summary of Product Characteristics for clarithromycin should be consulted for the recommended dose.                                        |
+| CCR5 ANTAGONIST                                                                                     | CCR5 ANTAGONIST                                                                                                                                                                                                                                             | CCR5 ANTAGONIST                                                                                                                                                                                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Maraviroc 150 mg twice daily                                                                        | Based on theoretical considerations REZOLSTA is expected to increase maraviroc plasma concentrations. (CYP3A inhibition)                                                                                                                                    | The recommended dose of maraviroc is 150 mg twice daily when co-administered with REZOLSTA. For further details, consult the maraviroc Summary of Product Characteristics.                                                                                                                                  |
+| α1-ADRENORECEPTOR ANTAGONIST                                                                        | α1-ADRENORECEPTOR ANTAGONIST                                                                                                                                                                                                                                | α1-ADRENORECEPTOR ANTAGONIST                                                                                                                                                                                                                                                                                |
+| Alfuzosin                                                                                           | Based on theoretical considerations REZOLSTA is expected to increase alfuzosin plasma concentrations. (CYP3A inhibition)                                                                                                                                    | Co-administration of REZOLSTA with alfuzosin is contraindicated (see section 4.3).                                                                                                                                                                                                                          |
+| ANAESTHETIC                                                                                         | ANAESTHETIC                                                                                                                                                                                                                                                 | ANAESTHETIC                                                                                                                                                                                                                                                                                                 |
+| Alfentanil                                                                                          | Based on theoretical considerations REZOLSTA is expected to increase alfentanil plasma concentrations.                                                                                                                                                      | The concomitant use with REZOLSTA may require to lower the dose of alfentanil and requires monitoring for risks of prolonged or delayed respiratory depression.                                                                                                                                             |
+| ANTACIDS                                                                                            | ANTACIDS                                                                                                                                                                                                                                                    | ANTACIDS                                                                                                                                                                                                                                                                                                    |
+| Aluminium/magnesium hydroxide Calcium carbonate                                                     | No mechanistic interaction expected based on theoretical consideration.                                                                                                                                                                                     | REZOLSTA and antacids can be used concomitantly without dose adjustment.                                                                                                                                                                                                                                    |
+| ANTIANGINA/ANTIARRHYTHMIC                                                                           | ANTIANGINA/ANTIARRHYTHMIC                                                                                                                                                                                                                                   | ANTIANGINA/ANTIARRHYTHMIC                                                                                                                                                                                                                                                                                   |
+| Disopyramide Flecainide Lidocaine (systemic) Mexiletine Propafenone Amiodarone Bepridil Dronedarone | Based on theoretical considerations REZOLSTA is expected to increase these antiarrhythmic plasma concentrations. (CYP3A and/or CYP2D6 inhibition)                                                                                                           | Caution is warranted and therapeutic concentration monitoring, if available, is recommended for these antiarrhythmics when co-administered with REZOLSTA. Co-administration of amiodarone, bepridil, dronedarone, ivabradine, quinidine, or ranolazine and                                                  |
+| Ivabradine Quinidine Ranolazine Digoxin                                                             | Based on theoretical considerations REZOLSTA is expected to increase digoxin plasma concentrations. (P-glycoprotein inhibition)                                                                                                                             | REZOLSTA is contraindicated (see section 4.3). It is recommended that the lowest possible dose of digoxin should initially be given to patients on REZOLSTA. The digoxin dose should be carefully titrated to obtain the desired clinical effect while assessing the overall clinical state of the subject. |
+| ANTIBIOTIC                                                                                          | ANTIBIOTIC                                                                                                                                                                                                                                                  | ANTIBIOTIC                                                                                                                                                                                                                                                                                                  |
+| Clarithromycin                                                                                      | Based on theoretical considerations clarithromycin is expected to increase darunavir and/or cobicistat plasma concentrations. (CYP3A inhibition) Concentrations of clarithromycin may be increased upon co-administration with REZOLSTA. (CYP3A inhibition) | Caution should be exercised when clarithromycin is combined with REZOLSTA. For patients with renal impairment the Summary of Product Characteristics for clarithromycin should be consulted for the recommended dose.                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -349,9 +350,9 @@ The below list of examples of drug-drug interactions in Table 1 is not comprehen
 |------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Apixaban Rivaroxaban                           | Based on theoretical considerations co-administration of REZOLSTA with these anticoagulants may increase concentrations of the anticoagulant. (CYP3A and/or P-glycoprotein                                   | Co-administration of REZOLSTA with a direct oral anticoagulant (DOAC) that is metabolised by CYP3A4 and transported by P-gp is not recommended as this may lead to an increased bleeding risk.   |
 | Dabigatran etexilate Edoxaban                  | inhibition) dabigatran etexilate (150 mg): darunavir/cobicistat 800/150 mg single dose: dabigatran AUC ↑ 164% dabigatran C max ↑ 164% darunavir/cobicistat 800/150 mg once daily: dabigatran AUC ↑ 88%       | Clinical monitoring and dose reduction is required when a DOAC transported by P-gp but not metabolised by CYP3A4, including dabigatran etexilate and edoxaban, is co-administered with REZOLSTA. |
-| Ticagrelor                                     | Based on theoretical considerations co-administration of REZOLSTA with ticagrelor may increase concentrations of ticagrelor. (CYP3A and/or P-glycoprotein inhibition).                                       | Concomitant administration of REZOLSTA with ticagrelor is contraindicated (see section 4.3).                                                                                                     |
+| Ticagrelor                                     | dabigatran C max ↑ 99% Based on theoretical considerations co-administration of REZOLSTA with ticagrelor may increase concentrations of ticagrelor. (CYP3A and/or P-glycoprotein inhibition).                | Concomitant administration of REZOLSTA with ticagrelor is contraindicated (see section 4.3).                                                                                                     |
 | Clopidogrel                                    | Based on theoretical considerations co-administration of REZOLSTA with clopidogrel is expected to decrease clopidogrel active metabolite plasma concentration, which may reduce the antiplatelet activity of | Co-administration of REZOLSTA with clopidogrel is not recommended. Use of other antiplatelets not affected by CYP inhibition or induction (e.g. prasugrel) is recommended (see section 4.3).     |
-| Warfarin                                       | Based on theoretical considerations REZOLSTA may alter warfarin plasma concentrations.                                                                                                                       | It is recommended that the international normalised ratio (INR) be monitored when warfarin is co-administered with REZOLSTA.                                                                     |
+| Warfarin                                       | clopidogrel. Based on theoretical considerations REZOLSTA may alter warfarin plasma concentrations.                                                                                                          | It is recommended that the international normalised ratio (INR) be monitored when warfarin is co-administered with REZOLSTA.                                                                     |
 | ANTICONVULSANTS                                | ANTICONVULSANTS                                                                                                                                                                                              | ANTICONVULSANTS                                                                                                                                                                                  |
 | Carbamazepine Phenobarbital Phenytoin          | Based on theoretical considerations these anticonvulsants are expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction)                                                      | Co-administration of REZOLSTA and these anticonvulsants is contraindicated (see section 4.3).                                                                                                    |
 | Clonazepam                                     | Based on theoretical considerations REZOLSTA is expected to increase concentrations of clonazepam. (inhibition of CYP3A)                                                                                     | Clinical monitoring is recommended when co-administering REZOLSTA with clonazepam.                                                                                                               |
@@ -360,18 +361,17 @@ The below list of examples of drug-drug interactions in Table 1 is not comprehen
 
 <div style=\"page-break-after: always\"></div>
 
-| Paroxetine Sertraline                                            | Based on theoretical considerations REZOLSTA is expected to increase these anti-depressant plasma concentrations. (CYP2D6 and/or CYP3A inhibition) Prior data with ritonavir-boosted darunavir however showed a decrease in these anti-depressant   | If these anti-depressants are to be used with REZOLSTA clinical monitoring is recommended and a dose adjustment of the anti-depressant may be needed.                                                                                                                                                              |
-|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Amitriptyline Desipramine Imipramine Nortriptyline Trazodone     | Based on theoretical considerations REZOLSTA is expected to increase these anti-depressant plasma concentrations. (CYP2D6 and/or CYP3A inhibition)                                                                                                  |                                                                                                                                                                                                                                                                                                                    |
-| ANTI-DIABETICS                                                   |                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                    |
-| Metformin                                                        | Based on theoretical considerations REZOLSTA is expected to increase metformin plasma concentrations. (MATE1 inhibition)                                                                                                                            | Careful patient monitoring and dose adjustment of metformin is recommended in patients who are taking REZOLSTA.                                                                                                                                                                                                    |
-| ANTIEMETICS                                                      |                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                    |
-| Domperidone                                                      | Not studied.                                                                                                                                                                                                                                        | Co-administration of domperidone with REZOLSTA is contraindicated.                                                                                                                                                                                                                                                 |
-| ANTIFUNGALS                                                      |                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                    |
-| Clotrimazole Fluconazole Itraconazole Isavuconazole Posaconazole | Based on theoretical considerations REZOLSTA is expected to increase these antifungal plasma concentrations, and darunavir and/or cobicistat plasma concentrations may be increased by the antifungals. (CYP3A inhibition and/or P-gp inhibition)   | Caution is warranted and clinical monitoring is recommended. When co-administration is required, the daily dose of itraconazole should not exceed 200 mg.                                                                                                                                                          |
-| Voriconazole                                                     | Concentrations of voriconazole may increase or decrease when co-administered with REZOLSTA.                                                                                                                                                         | Voriconazole should not be combined with REZOLSTA unless an assessment of the benefit/risk ratio justifies the use of voriconazole.                                                                                                                                                                                |
-| ANTIGOUT MEDICINES                                               |                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                    |
-| Colchicine                                                       | Based on theoretical considerations REZOLSTA is expected to increase colchicine plasma concentrations. (CYP3A and/or P-glycoprotein inhibition)                                                                                                     | A reduction in colchicine dosage or an interruption of colchicine treatment is recommended in patients with normal renal or hepatic function if treatment with REZOLSTA is required. The combination of colchicine and REZOLSTA is contraindicated in patients with renal or hepatic impairment (see section 4.3). |
+| Paroxetine Sertraline                                                       | Based on theoretical considerations REZOLSTA is expected to increase these anti-depressant plasma concentrations. (CYP2D6 and/or CYP3A inhibition) Prior data with ritonavir-boosted darunavir however showed a decrease in these anti-depressant plasma concentrations (unknown mechanism); the latter may be specific to ritonavir.   | If these anti-depressants are to be used with REZOLSTA clinical monitoring is recommended and a dose adjustment of the anti-depressant may be needed.                                                                                                                                                              |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Amitriptyline Desipramine Imipramine Nortriptyline Trazodone ANTI-DIABETICS | Based on theoretical considerations REZOLSTA is expected to increase these anti-depressant plasma concentrations. (CYP2D6 and/or CYP3A inhibition)                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                    |
+| Metformin                                                                   | Based on theoretical considerations REZOLSTA is expected to increase metformin plasma concentrations. (MATE1 inhibition)                                                                                                                                                                                                                | Careful patient monitoring and dose adjustment of metformin is recommended in patients who are taking REZOLSTA.                                                                                                                                                                                                    |
+| ANTIEMETICS                                                                 |                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                    |
+| Domperidone                                                                 | Not studied.                                                                                                                                                                                                                                                                                                                            | Co-administration of domperidone with REZOLSTA is contraindicated.                                                                                                                                                                                                                                                 |
+| ANTIFUNGALS                                                                 |                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                    |
+| Clotrimazole Fluconazole Itraconazole Isavuconazole Posaconazole            | Based on theoretical considerations REZOLSTA is expected to increase these antifungal plasma concentrations, and darunavir and/or cobicistat plasma concentrations may be increased by the antifungals. (CYP3A inhibition and/or P-gp inhibition)                                                                                       | Caution is warranted and clinical monitoring is recommended. When co-administration is required, the daily dose of itraconazole should not exceed 200 mg.                                                                                                                                                          |
+| Voriconazole                                                                | Concentrations of voriconazole may increase or decrease when co-administered with REZOLSTA.                                                                                                                                                                                                                                             | Voriconazole should not be combined with REZOLSTA unless an assessment of the benefit/risk ratio justifies the use of voriconazole.                                                                                                                                                                                |
+| ANTIGOUT MEDICINES                                                          |                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                    |
+| Colchicine                                                                  | Based on theoretical considerations REZOLSTA is expected to increase colchicine plasma concentrations. (CYP3A and/or P-glycoprotein inhibition)                                                                                                                                                                                         | A reduction in colchicine dosage or an interruption of colchicine treatment is recommended in patients with normal renal or hepatic function if treatment with REZOLSTA is required. The combination of colchicine and REZOLSTA is contraindicated in patients with renal or hepatic impairment (see section 4.3). |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -382,67 +382,66 @@ The below list of examples of drug-drug interactions in Table 1 is not comprehen
 | Rifampicin                                  | Based on theoretical considerations rifampin is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction)                  | The combination of rifampicin and REZOLSTA is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Rifabutin Rifapentine                       | Based on theoretical considerations these antimycobacterials are expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction) | Co-administration of REZOLSTA with rifabutin and rifapentine is not recommended. If the combination is needed, the recommended dose of rifabutin is 150 mg 3 times per week on set days (for example Monday-Wednesday-Friday). Increased monitoring for rifabutin associated adverse reactions including neutropenia and uveitis is warranted due to an expected increase in exposure to rifabutin. Further dosage reduction of rifabutin has not been studied. It should be kept in mind that the twice weekly dosage of 150 mg may not provide an optimal exposure to rifabutin thus leading to a risk of rifamycin resistance and a treatment failure. Consideration should be given to official guidance on the appropriate treatment of tuberculosis in HIV infected patients. This recommendation is different from ritonavir-boosted darunavir. Consult the Summary of Product Characteristics for darunavir for |
 | ANTI-NEOPLASTICS                            | ANTI-NEOPLASTICS                                                                                                                                           | ANTI-NEOPLASTICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Dasatinib Nilotinib Vinblastine Vincristine | Based on theoretical considerations REZOLSTA is expected to increase these anti-neoplastic plasma concentrations. (CYP3A inhibition)                       | Concentrations of these medicinal products may be increased when co-administered with REZOLSTA resulting in the potential for increased adverse events usually associated with these medicinal products. Caution should be exercised when combining one of these anti-neoplastic agents with REZOLSTA. Concomitant use of everolimus or irinotecan and REZOLSTA is not recommended.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Dasatinib Nilotinib Vinblastine Vincristine | Based on theoretical considerations REZOLSTA is expected to increase these anti-neoplastic plasma concentrations. (CYP3A inhibition)                       | further details. Concentrations of these medicinal products may be increased when co-administered with REZOLSTA resulting in the potential for increased adverse events usually associated with these medicinal products. Caution should be exercised when combining one of these anti-neoplastic agents with REZOLSTA. Concomitant use of everolimus or irinotecan and REZOLSTA is not recommended.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Everolimus Irinotecan                       |                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                                                 | ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                                                                                                                                                                    | ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Perphenazine Risperidone Thioridazine Lurasidone Pimozide Sertindole Quetiapine                                                                                             | Based on theoretical considerations REZOLSTA is expected to increase these neuroleptic plasma concentrations. (CYP3A, CYP2D6 and/or P-gp inhibition)                                                                                                                                           | Clinical monitoring is recommended when co-administering REZOLSTA perphenazine, risperidone or thioridazine. For these neuroleptics, consider reducing the dose of the neuroleptic upon co-administration with REZOLSTA. The combination of lurasidone, pimozide, quetiapine or sertindole and REZOLSTA is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                               |
-| β-BLOCKERS                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Carvedilol Metoprolol Timolol                                                                                                                                               | Based on theoretical considerations REZOLSTA is expected to increase these beta blocker plasma concentrations. (CYP3A inhibition)                                                                                                                                                              | Clinical monitoring is recommended when co-administering REZOLSTA with beta-blockers and a lower dose of the beta-blocker should be considered.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| CALCIUM CHANNEL BLOCKERS                                                                                                                                                    | CALCIUM CHANNEL BLOCKERS                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Amlodipine Diltiazem Felodipine Nicardipine Nifedipine Verapamil Corticosteroids primarily metabolised by CYP3A (including budesonide, fluticasone, mometasone, prednisone, | Based on theoretical considerations REZOLSTA is expected to increase these calcium channel blocker plasma concentrations. (CYP3A and/or CYP2D6 inhibition) Based on theoretical considerations REZOLSTA is expected to increase these corticosteroid plasma concentrations. (CYP3A inhibition) | Clinical monitoring of therapeutic and adverse effects is recommended when these medicines are co-administered with REZOLSTA.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| CORTICOSTEROIDS                                                                                                                                                             | CORTICOSTEROIDS                                                                                                                                                                                                                                                                                | CORTICOSTEROIDS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| betamethasone, triamcinolone).                                                                                                                                              |                                                                                                                                                                                                                                                                                                | Concomitant use of REZOLSTA and corticosteroids (all routes of administration) that are metabolised by CYP3A may increase the risk of development of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression. Co-administration with CYP3A- metabolised corticosteroids is not recommended unless the potential benefit to the patient outweighs the risk, in which case patients should be monitored for systemic corticosteroid effects. Alternative corticosteroids which are less dependent on CYP3A metabolism e.g. beclomethasone should be considered, particularly for long term use. |
-| Dexamethasone (systemic)                                                                                                                                                    | Based on theoretical considerations (systemic) dexamethasone is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction)                                                                                                                                      | Systemic dexamethasone should be used with caution when combined with REZOLSTA.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                                                 | ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                                                                                                                                                        | ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Perphenazine Risperidone Thioridazine Lurasidone Pimozide Sertindole Quetiapine                                                                                             | Based on theoretical considerations REZOLSTA is expected to increase these neuroleptic plasma concentrations. (CYP3A, CYP2D6 and/or P-gp inhibition)                                                                                                                               | Clinical monitoring is recommended when co-administering REZOLSTA perphenazine, risperidone or thioridazine. For these neuroleptics, consider reducing the dose of the neuroleptic upon co-administration with REZOLSTA. The combination of lurasidone, pimozide, quetiapine or sertindole and REZOLSTA is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                               |
+| β-BLOCKERS                                                                                                                                                                  |                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Carvedilol Metoprolol Timolol                                                                                                                                               | Based on theoretical considerations REZOLSTA is expected to increase these beta blocker plasma concentrations. (CYP3A inhibition)                                                                                                                                                  | Clinical monitoring is recommended when co-administering REZOLSTA with beta-blockers and a lower dose of the beta-blocker should be considered.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| CALCIUM CHANNEL BLOCKERS                                                                                                                                                    | CALCIUM CHANNEL BLOCKERS                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Amlodipine Diltiazem Felodipine Nicardipine Nifedipine Verapamil Corticosteroids primarily metabolised by CYP3A (including budesonide, fluticasone, mometasone, prednisone, | Based on theoretical considerations REZOLSTA is expected to increase these calcium channel blocker plasma concentrations. (CYP3A and/or CYP2D6 inhibition) Based on theoretical considerations REZOLSTA is expected to increase these corticosteroid plasma concentrations. (CYP3A | Clinical monitoring of therapeutic and adverse effects is recommended when these medicines are co-administered with REZOLSTA.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| CORTICOSTEROIDS                                                                                                                                                             | CORTICOSTEROIDS                                                                                                                                                                                                                                                                    | CORTICOSTEROIDS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| betamethasone, triamcinolone).                                                                                                                                              | inhibition)                                                                                                                                                                                                                                                                        | Concomitant use of REZOLSTA and corticosteroids (all routes of administration) that are metabolised by CYP3A may increase the risk of development of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression. Co-administration with CYP3A- metabolised corticosteroids is not recommended unless the potential benefit to the patient outweighs the risk, in which case patients should be monitored for systemic corticosteroid effects. Alternative corticosteroids which are less dependent on CYP3A metabolism e.g. beclomethasone should be considered, particularly for long term use. |
+| Dexamethasone (systemic)                                                                                                                                                    | Based on theoretical considerations (systemic) dexamethasone is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction)                                                                                                                          | Systemic dexamethasone should be used with caution when combined with REZOLSTA.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| ENDOTHELIN RECEPTOR ANTAGONISTS                                | ENDOTHELIN RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                        | ENDOTHELIN RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                        |
-|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bosentan                                                       | Based on theoretical considerations bosentan is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction) REZOLSTA is expected to increase bosentan plasma concentrations.                                                                                                                                                                             | Co-administration of REZOLSTA and bosentan is not recommended.                                                                                                                                                                                                                                                                                                                         |
-| HEPATITIS C VIRUS (HCV) DIRECT-ACTING ANTIVIRALS               | HEPATITIS C VIRUS (HCV) DIRECT-ACTING ANTIVIRALS                                                                                                                                                                                                                                                                                                                                       | HEPATITIS C VIRUS (HCV) DIRECT-ACTING ANTIVIRALS                                                                                                                                                                                                                                                                                                                                       |
-| NS3-4A inhibitors                                              | NS3-4A inhibitors                                                                                                                                                                                                                                                                                                                                                                      | NS3-4A inhibitors                                                                                                                                                                                                                                                                                                                                                                      |
-| Elbasvir/grazoprevir                                           | Based on theoretical considerations REZOLSTA may increase the exposure to grazoprevir. (OATP1B and CYP3A inhibition)                                                                                                                                                                                                                                                                   | Concomitant use of REZOLSTA with elbasvir/grazoprevir is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                            |
-| Glecaprevir/pibrentasvir                                       | Based on theoretical considerations REZOLSTA may increase the exposure to glecaprevir and pibrentasvir. (P-gp, BCRP and/or OATP1B1/3 inhibition)                                                                                                                                                                                                                                       | It is not recommended to co-administer REZOLSTA with glecaprevir/pibrentasvir.                                                                                                                                                                                                                                                                                                         |
-| HMGCO-A REDUCTASE INHIBITORS                                   | HMGCO-A REDUCTASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                           | HMGCO-A REDUCTASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                           |
-| Atorvastatin Fluvastatin Pitavastatin Pravastatin Rosuvastatin | Atorvastatin (10 mg once daily): atorvastatin AUC ↑ 290% atorvastatin C max ↑ 319% atorvastatin C min ND Rosuvastatin (10 mg once daily): rosuvastatin AUC ↑ 93% rosuvastatin C max ↑ 277% rosuvastatin C min ND Based on theoretical considerations REZOLSTA is expected to increase the plasma concentrations of fluvastatin, pitavastatin, pravastatin, lovastatin and simvastatin. | Concomitant use of a HMGCoA reductase inhibitor and REZOLSTA may increase plasma concentrations of the lipid lowering agent, which may lead to adverse events such as myopathy. When administration of HMGCoA reductase inhibitors and REZOLSTA is desired, it is recommended to start with the lowest dose and titrate up to the desired clinical effect while monitoring for safety. |
-| Lovastatin Simvastatin                                         | transport)                                                                                                                                                                                                                                                                                                                                                                             | Concomitant use of REZOLSTA with lovastatin and simvastatin is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                      |
-| OTHER LIPID MODIFYING AGENTS                                   | OTHER LIPID MODIFYING AGENTS                                                                                                                                                                                                                                                                                                                                                           | OTHER LIPID MODIFYING AGENTS                                                                                                                                                                                                                                                                                                                                                           |
-| Lomitapide                                                     | Based on theoretical considerations, REZOLSTA is expected to increase the exposure of lomitapide when co-administered. (CYP3A inhibition)                                                                                                                                                                                                                                              | Co-administration is contraindicated (see section 4.3)                                                                                                                                                                                                                                                                                                                                 |
-| H2 -RECEPTOR ANTAGONISTS                                       | H2 -RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                               | H2 -RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                               |
-| Cimetidine Famotidine Nizatidine Ranitidine                    | Based on theoretical considerations, no mechanistic interaction is expected.                                                                                                                                                                                                                                                                                                           | REZOLSTA can be co-administered with H 2 -receptor antagonists without dose adjustments.                                                                                                                                                                                                                                                                                               |
+| ENDOTHELIN RECEPTOR ANTAGONISTS                                | ENDOTHELIN RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                                                 | ENDOTHELIN RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                        |
+|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bosentan                                                       | Based on theoretical considerations bosentan is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction) REZOLSTA is expected to increase bosentan plasma concentrations. (CYP3A inhibition)                                                                                                                                                                                   | Co-administration of REZOLSTA and bosentan is not recommended.                                                                                                                                                                                                                                                                                                                         |
+| HEPATITIS C VIRUS (HCV) DIRECT-ACTING ANTIVIRALS               | HEPATITIS C VIRUS (HCV) DIRECT-ACTING ANTIVIRALS                                                                                                                                                                                                                                                                                                                                                                | HEPATITIS C VIRUS (HCV) DIRECT-ACTING ANTIVIRALS                                                                                                                                                                                                                                                                                                                                       |
+| NS3-4A inhibitors                                              | NS3-4A inhibitors                                                                                                                                                                                                                                                                                                                                                                                               | NS3-4A inhibitors                                                                                                                                                                                                                                                                                                                                                                      |
+| Elbasvir/grazoprevir                                           | Based on theoretical considerations REZOLSTA may increase the exposure to grazoprevir. (OATP1B and CYP3A inhibition)                                                                                                                                                                                                                                                                                            | Concomitant use of REZOLSTA with elbasvir/grazoprevir is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                            |
+| Glecaprevir/pibrentasvir                                       | Based on theoretical considerations REZOLSTA may increase the exposure to glecaprevir and pibrentasvir. (P-gp, BCRP and/or OATP1B1/3 inhibition)                                                                                                                                                                                                                                                                | It is not recommended to co-administer REZOLSTA with glecaprevir/pibrentasvir.                                                                                                                                                                                                                                                                                                         |
+| HMGCO-A REDUCTASE INHIBITORS                                   | HMGCO-A REDUCTASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                    | HMGCO-A REDUCTASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                           |
+| Atorvastatin Fluvastatin Pitavastatin Pravastatin Rosuvastatin | Atorvastatin (10 mg once daily): atorvastatin AUC ↑ 290% atorvastatin C max ↑ 319% atorvastatin C min ND Rosuvastatin (10 mg once daily): rosuvastatin AUC ↑ 93% rosuvastatin C max ↑ 277% rosuvastatin C min ND Based on theoretical considerations REZOLSTA is expected to increase the plasma concentrations of fluvastatin, pitavastatin, pravastatin, lovastatin and simvastatin. (CYP3A inhibition and/or | Concomitant use of a HMGCoA reductase inhibitor and REZOLSTA may increase plasma concentrations of the lipid lowering agent, which may lead to adverse events such as myopathy. When administration of HMGCoA reductase inhibitors and REZOLSTA is desired, it is recommended to start with the lowest dose and titrate up to the desired clinical effect while monitoring for safety. |
+| Lovastatin Simvastatin                                         | transport)                                                                                                                                                                                                                                                                                                                                                                                                      | Concomitant use of REZOLSTA with lovastatin and simvastatin is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                      |
+| OTHER LIPID MODIFYING AGENTS                                   | OTHER LIPID MODIFYING AGENTS                                                                                                                                                                                                                                                                                                                                                                                    | OTHER LIPID MODIFYING AGENTS                                                                                                                                                                                                                                                                                                                                                           |
+| Lomitapide                                                     | Based on theoretical considerations, REZOLSTA is expected to increase the exposure of lomitapide when co-administered. (CYP3A inhibition)                                                                                                                                                                                                                                                                       | Co-administration is contraindicated (see section 4.3)                                                                                                                                                                                                                                                                                                                                 |
+| H2 -RECEPTOR ANTAGONISTS                                       | H2 -RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                                                        | H2 -RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                               |
+| Cimetidine Famotidine Nizatidine Ranitidine                    | Based on theoretical considerations, no mechanistic interaction is expected.                                                                                                                                                                                                                                                                                                                                    | REZOLSTA can be co-administered with H 2 -receptor antagonists without dose adjustments.                                                                                                                                                                                                                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| IMMUNOSUPPRESSANTS                                 | IMMUNOSUPPRESSANTS                                                                                                                                                                                                                                                               | IMMUNOSUPPRESSANTS                                                                                                                                                                                                                                                                  |
-|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ciclosporin Sirolimus Tacrolimus                   | Based on theoretical considerations REZOLSTA is expected to increase these immunosuppressant plasma concentrations. (CYP3A inhibition)                                                                                                                                           | Therapeutic drug monitoring of the immunosuppressive agent must be done when co-administration occurs.                                                                                                                                                                              |
-| Everolimus                                         |                                                                                                                                                                                                                                                                                  | Concomitant use of everolimus and REZOLSTA is not recommended.                                                                                                                                                                                                                      |
-| INHALED BETA AGONISTS                              | INHALED BETA AGONISTS                                                                                                                                                                                                                                                            | INHALED BETA AGONISTS                                                                                                                                                                                                                                                               |
-| Salmeterol                                         | Based on theoretical considerations REZOLSTA is expected to increase salmeterol plasma concentrations. (CYP3A inhibition)                                                                                                                                                        | Concomitant use of salmeterol and REZOLSTA is not recommended. The combination may result in increased risk of cardiovascular adverse event with salmeterol, including QT prolongation, palpitations and sinus tachycardia.                                                         |
-| NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE | NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE                                                                                                                                                                                                                               | NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE                                                                                                                                                                                                                                  |
-| Buprenorphine/naloxone                             | Based on theoretical considerations REZOLSTA may increase buprenorphine and/or norbuprenorphine plasma concentrations.                                                                                                                                                           | Dose adjustment for buprenorphine may not be necessary when co-administered with REZOLSTA but a careful clinical monitoring for signs of opiate toxicity is recommended.                                                                                                            |
-| Methadone                                          | Based on theoretical considerations REZOLSTA may increase methadone plasma concentrations. With ritonavir-boosted darunavir, a small decrease in methadone plasma concentrations was observed. Consult the Summary of Product Characteristics for darunavir for further details. | No adjustment of methadone dosage is expected when initiating co-administration with REZOLSTA. Clinical monitoring is recommended, as maintenance therapy may need to be adjusted in some patients.                                                                                 |
-| Fentanyl Oxycodone Tramadol                        | Based on theoretical considerations REZOLSTA may increase plasma concentrations of these analgesics. (CYP2D6 and/or CYP3A inhibition)                                                                                                                                            | Clinical monitoring is recommended when co-administering REZOLSTA with these analgesics.                                                                                                                                                                                            |
-| OESTROGEN-BASED CONTRACEPTIVES                     | OESTROGEN-BASED CONTRACEPTIVES                                                                                                                                                                                                                                                   | OESTROGEN-BASED CONTRACEPTIVES                                                                                                                                                                                                                                                      |
-| Drospirenone (3 mg once daily)                     | drospirenone AUC ↑ 58% drospirenone C max ↑ 15% drospirenone C min ND ethinylestradiol AUC ↓ 30%                                                                                                                                                                                 | Alternative or additional contraceptive measures are recommended when oestrogen based contraceptives are co administered with REZOLSTA. Patients using oestrogens as hormone replacement therapy should be clinically monitored for signs of oestrogen deficiency. When REZOLSTA is |
-| Ethinylestradiol (0.02 mg once daily)              | ethinylestradiol C max ↓ 14% ethinylestradiol C min ND                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                     |
-| Norethindrone                                      | Based on theoretical considerations REZOLSTA may alter norethindrone plasma concentrations. (CYP3A inhibition, UGT/SULT induction)                                                                                                                                               | co-administered with a drospirenone-containing product, clinical monitoring is recommended due to the potential for hyperkalaemia.                                                                                                                                                  |
+| IMMUNOSUPPRESSANTS                                 | IMMUNOSUPPRESSANTS                                                                                                                                                                                                                                                               | IMMUNOSUPPRESSANTS                                                                                                                                                                                                          |
+|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ciclosporin Sirolimus Tacrolimus                   | Based on theoretical considerations REZOLSTA is expected to increase these immunosuppressant plasma concentrations. (CYP3A inhibition)                                                                                                                                           | Therapeutic drug monitoring of the immunosuppressive agent must be done when co-administration occurs.                                                                                                                      |
+| Everolimus                                         |                                                                                                                                                                                                                                                                                  | Concomitant use of everolimus and REZOLSTA is not recommended.                                                                                                                                                              |
+| INHALED BETA AGONISTS                              | INHALED BETA AGONISTS                                                                                                                                                                                                                                                            | INHALED BETA AGONISTS                                                                                                                                                                                                       |
+| Salmeterol                                         | Based on theoretical considerations REZOLSTA is expected to increase salmeterol plasma concentrations. (CYP3A inhibition)                                                                                                                                                        | Concomitant use of salmeterol and REZOLSTA is not recommended. The combination may result in increased risk of cardiovascular adverse event with salmeterol, including QT prolongation, palpitations and sinus tachycardia. |
+| NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE | NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE                                                                                                                                                                                                                               | NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE                                                                                                                                                                          |
+| Buprenorphine/naloxone                             | Based on theoretical considerations REZOLSTA may increase buprenorphine and/or norbuprenorphine plasma concentrations.                                                                                                                                                           | Dose adjustment for buprenorphine may not be necessary when co-administered with REZOLSTA but a careful clinical monitoring for signs of opiate toxicity is recommended.                                                    |
+| Methadone                                          | Based on theoretical considerations REZOLSTA may increase methadone plasma concentrations. With ritonavir-boosted darunavir, a small decrease in methadone plasma concentrations was observed. Consult the Summary of Product Characteristics for darunavir for further details. | No adjustment of methadone dosage is expected when initiating co-administration with REZOLSTA. Clinical monitoring is recommended, as maintenance therapy may need to be adjusted in some patients.                         |
+| Fentanyl Oxycodone Tramadol                        | Based on theoretical considerations REZOLSTA may increase plasma concentrations of these analgesics. (CYP2D6 and/or CYP3A inhibition)                                                                                                                                            | Clinical monitoring is recommended when co-administering REZOLSTA with these analgesics.                                                                                                                                    |
+| OESTROGEN-BASED CONTRACEPTIVES                     | OESTROGEN-BASED CONTRACEPTIVES                                                                                                                                                                                                                                                   | OESTROGEN-BASED CONTRACEPTIVES                                                                                                                                                                                              |
+| Drospirenone (3 mg once daily)                     | drospirenone AUC ↑ 58% drospirenone C max ↑ 15% drospirenone C min ND                                                                                                                                                                                                            | Alternative or additional contraceptive measures are recommended when oestrogen based contraceptives are co administered with REZOLSTA. Patients using oestrogens as                                                        |
+| Ethinylestradiol (0.02 mg once daily)              | ethinylestradiol AUC ↓ 30% ethinylestradiol C max ↓ 14% ethinylestradiol C min ND                                                                                                                                                                                                | hormone replacement therapy should be clinically monitored for                                                                                                                                                              |
+| Norethindrone                                      | Based on theoretical considerations REZOLSTA may alter norethindrone plasma concentrations. (CYP3A inhibition, UGT/SULT induction)                                                                                                                                               | signs of oestrogen deficiency. When REZOLSTA is co-administered with a drospirenone-containing product, clinical monitoring is recommended due to the potential for hyperkalaemia.                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| OPIOID ANTAGONIST                                                         | OPIOID ANTAGONIST                                                                                                                    | OPIOID ANTAGONIST                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Naloxegol                                                                 | Not studied.                                                                                                                         | Co-administration of REZOLSTA and naloxegol is contraindicated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                              | PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                                                                         | PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| For the treatment of erectile dysfunction Sildenafil Tadalafil Vardenafil | Based on theoretical considerations REZOLSTA is expected to increase these PDE-5 inhibitor plasma concentrations. (CYP3A inhibition) | Concomitant use of PDE-5 inhibitors for the treatment of erectile dysfunction with REZOLSTA should be done with caution. If concomitant use of REZOLSTA with sildenafil, vardenafil or tadalafil is indicated, sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg in 72 hours or tadalafil at a single dose not exceeding 10 mg in 72 hours is recommended. The combination of avanafil and                                                                                                                            |
-| Avanafil                                                                  |                                                                                                                                      | REZOLSTA is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| For the treatment of pulmonary arterial hypertension Sildenafil Tadalafil | Based on theoretical considerations REZOLSTA is expected to increase these PDE-5 inhibitor plasma concentrations. (CYP3A inhibition) | A safe and effective dose of sildenafil for the treatment of pulmonary arterial hypertension co-administered with REZOLSTA has not been established. There is an increased potential for sildenafil-associated adverse events (including visual disturbances, hypotension, prolonged erection and syncope). Therefore, co-administration of REZOLSTA and sildenafil when used for the treatment of pulmonary arterial hypertension is contraindicated (see section 4.3). Co-administration of tadalafil for the treatment of pulmonary arterial hypertension with REZOLSTA is not |
-| PROTON PUMP INHIBITORS                                                    | PROTON PUMP INHIBITORS                                                                                                               | PROTON PUMP INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Dexlansoprazole Esomeprazole Lansoprazole Omeprazole Pantoprazole         | Based on theoretical considerations, no mechanistic interaction is expected.                                                         | REZOLSTA can be co-administered with proton pump inhibitors without dose adjustments.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| OPIOID ANTAGONIST - Naloxegol                                                 | OPIOID ANTAGONIST - Not studied.                                                                                                     | OPIOID ANTAGONIST - Co-administration of REZOLSTA and naloxegol is contraindicated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                  | PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                                                                         | PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| For the treatment of erectile dysfunction Sildenafil Tadalafil Vardenafil     | Based on theoretical considerations REZOLSTA is expected to increase these PDE-5 inhibitor plasma concentrations. (CYP3A inhibition) | Concomitant use of PDE-5 inhibitors for the treatment of erectile dysfunction with REZOLSTA should be done with caution. If concomitant use of REZOLSTA with sildenafil, vardenafil or tadalafil is indicated, sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg in 72 hours or tadalafil at a single dose not exceeding 10 mg in 72 hours is recommended. The combination of avanafil and                                                                                                                            |
+| Avanafil                                                                      |                                                                                                                                      | REZOLSTA is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| For the treatment of pulmonary arterial hypertension Sildenafil Tadalafil     | Based on theoretical considerations REZOLSTA is expected to increase these PDE-5 inhibitor plasma concentrations. (CYP3A inhibition) | A safe and effective dose of sildenafil for the treatment of pulmonary arterial hypertension co-administered with REZOLSTA has not been established. There is an increased potential for sildenafil-associated adverse events (including visual disturbances, hypotension, prolonged erection and syncope). Therefore, co-administration of REZOLSTA and sildenafil when used for the treatment of pulmonary arterial hypertension is contraindicated (see section 4.3). Co-administration of tadalafil for the treatment of pulmonary arterial hypertension with REZOLSTA is not |
+| PROTON PUMP INHIBITORS                                                        | PROTON PUMP INHIBITORS                                                                                                               | PROTON PUMP INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Dexlansoprazole Esomeprazole Lansoprazole Omeprazole Pantoprazole Rabeprazole | Based on theoretical considerations, no mechanistic interaction is expected.                                                         | recommended. REZOLSTA can be co-administered with proton pump inhibitors without dose adjustments.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -450,7 +449,7 @@ The below list of examples of drug-drug interactions in Table 1 is not comprehen
 |------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Buspirone Clorazepate Diazepam Estazolam Flurazepam Midazolam (parenteral) Zolpidem Midazolam (oral) | Based on theoretical considerations REZOLSTA is expected to increase these sedative/hypnotic plasma concentrations. (CYP3A inhibition) | Clinical monitoring is recommended when co-administering REZOLSTA with these sedatives/hypnotics and a lower dose of the sedatives/hypnotics should be considered. Caution should be used with co-administration of REZOLSTA and parenteral midazolam. If REZOLSTA is co-administered with parenteral midazolam, it should be done in an intensive care unit or similar setting, which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dose adjustment for midazolam should be considered, especially if more than a single dose of midazolam is administered. Co-administration of oral midazolam or triazolam and REZOLSTA is contraindicated |
 | TREATMENT FOR PREMATURE EJACULATION                                                                  | TREATMENT FOR PREMATURE EJACULATION                                                                                                    | TREATMENT FOR PREMATURE EJACULATION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Dapoxetine                                                                                           | Not studied.                                                                                                                           | Co-administration of REZOLSTA with dapoxetine is contraindicated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Triazolam Dapoxetine                                                                                 | Not studied.                                                                                                                           | (see section 4.3). Co-administration of REZOLSTA with dapoxetine is contraindicated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | UROLOGICAL DRUGS                                                                                     | UROLOGICAL DRUGS                                                                                                                       | UROLOGICAL DRUGS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Fesoterodine Solifenacin                                                                             | Not studied.                                                                                                                           | Use with caution. Monitor for fesoterodine or solifenacin adverse reactions, dose reduction of fesoterodine or solifenacin may be necessary.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
@@ -500,42 +499,40 @@ Adverse reactions are listed by system organ class (SOC) and frequency category 
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 2 Adverse reactions with darunavir/cobicistat in adult patients   | Table 2 Adverse reactions with darunavir/cobicistat in adult patients                                                    |
-|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| MedDRA system organ class Frequency category                            | Adverse reaction                                                                                                         |
-| Immune system disorders                                                 | Immune system disorders                                                                                                  |
-| Common                                                                  | (drug) hypersensitivity                                                                                                  |
-| Uncommon                                                                | immune reconstitution inflammatory syndrome                                                                              |
-| Metabolism and nutrition disorders                                      | Metabolism and nutrition disorders                                                                                       |
-| Common                                                                  | anorexia, hypercholesterolaemia, hypertriglyceridaemia                                                                   |
-| Psychiatric disorders                                                   |                                                                                                                          |
-| Common                                                                  | abnormal dreams                                                                                                          |
-| Nervous system disorders                                                |                                                                                                                          |
-| Very common                                                             | headache                                                                                                                 |
-| Gastrointestinal disorders                                              |                                                                                                                          |
-|                                                                         | diarrhoea,                                                                                                               |
-|                                                                         | nausea                                                                                                                   |
-| Very common                                                             |                                                                                                                          |
-| Common                                                                  | vomiting, abdominal pain, abdominal distension, dyspepsia, flatulence                                                    |
-| Uncommon                                                                | pancreatitis acute, pancreatic enzymes increased                                                                         |
-| Hepatobiliary disorders                                                 |                                                                                                                          |
-| Common                                                                  | hepatic enzyme increased                                                                                                 |
-| Uncommon                                                                | hepatitis*, cytolytic hepatitis*                                                                                         |
-| Skin and subcutaneous tissue disorders                                  |                                                                                                                          |
-| Very common                                                             | rash (including macular, maculopapular, papular, erythematous, pruritic rash, generalised rash, and allergic dermatitis) |
-| Common                                                                  | pruritus                                                                                                                 |
-| Uncommon                                                                | Stevens-Johnson syndrome # , angioedema, urticaria                                                                       |
-| Rare                                                                    | drug reaction with eosinophilia and systemic symptoms*                                                                   |
-| Not known                                                               | toxic epidermal necrolysis*, acute generalised exanthematous pustulosis*                                                 |
-| Musculoskeletal and connective tissue disorders                         |                                                                                                                          |
-| Common                                                                  | myalgia                                                                                                                  |
-| Uncommon                                                                | osteonecrosis*                                                                                                           |
-| Renal and urinary disorders                                             |                                                                                                                          |
-| Rare                                                                    | crystal nephropathy* §                                                                                                   |
-| Reproductive system and breast disorders                                |                                                                                                                          |
-| Uncommon                                                                | gynaecomastia*                                                                                                           |
-| General disorders and administration site                               | conditions                                                                                                               |
-| Common                                                                  | fatigue, asthenia                                                                                                        |
+| Table 2 Adverse reactions with darunavir/cobicistat in adult - MedDRA system organ class Frequency category   | patients - Adverse reaction                                                                                              |
+|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                                                                                       |                                                                                                                          |
+| Common                                                                                                        | (drug) hypersensitivity                                                                                                  |
+| Uncommon                                                                                                      | immune reconstitution inflammatory syndrome                                                                              |
+| Metabolism and nutrition disorders                                                                            |                                                                                                                          |
+| Common                                                                                                        | anorexia, hypercholesterolaemia, hypertriglyceridaemia                                                                   |
+| Uncommon                                                                                                      | diabetes mellitus, dyslipidaemia, hyperglycaemia, hyperlipidaemia                                                        |
+| Psychiatric disorders                                                                                         |                                                                                                                          |
+| Common                                                                                                        | abnormal dreams                                                                                                          |
+| Nervous system disorders                                                                                      |                                                                                                                          |
+| Very common                                                                                                   | headache                                                                                                                 |
+| Gastrointestinal disorders                                                                                    |                                                                                                                          |
+| Very common                                                                                                   | diarrhoea, nausea                                                                                                        |
+| Common                                                                                                        | vomiting, abdominal pain, abdominal distension, dyspepsia, flatulence                                                    |
+| Uncommon                                                                                                      | pancreatitis acute, pancreatic enzymes increased                                                                         |
+| Hepatobiliary disorders                                                                                       |                                                                                                                          |
+| Common                                                                                                        | hepatic enzyme increased                                                                                                 |
+| Uncommon                                                                                                      | hepatitis*, cytolytic hepatitis*                                                                                         |
+| Skin and subcutaneous tissue disorders                                                                        |                                                                                                                          |
+| Very common                                                                                                   | rash (including macular, maculopapular, papular, erythematous, pruritic rash, generalised rash, and allergic dermatitis) |
+| Common                                                                                                        | pruritus                                                                                                                 |
+| Uncommon                                                                                                      | Stevens-Johnson syndrome # , angioedema, urticaria                                                                       |
+| Rare                                                                                                          | drug reaction with eosinophilia and systemic symptoms*                                                                   |
+| Not known                                                                                                     | toxic epidermal necrolysis*, acute generalised exanthematous pustulosis*                                                 |
+| Musculoskeletal and connective tissue disorders                                                               |                                                                                                                          |
+| Common                                                                                                        | myalgia                                                                                                                  |
+| Uncommon                                                                                                      | osteonecrosis*                                                                                                           |
+| Renal and urinary disorders                                                                                   |                                                                                                                          |
+| Rare                                                                                                          | crystal nephropathy* §                                                                                                   |
+| Reproductive system and breast disorders                                                                      |                                                                                                                          |
+| Uncommon                                                                                                      | gynaecomastia*                                                                                                           |
+| General disorders and administration site                                                                     | conditions                                                                                                               |
+| Common                                                                                                        | fatigue, asthenia                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -585,7 +582,7 @@ For more information consult the cobicistat Summary of Product Characteristics.
 
 ## Paediatric population
 
-The safety of darunavir in combination with cobicistat was evaluated through clinical study GS-US216-0128 in virologically suppressed adolescents aged 12 to less than 18 years, weighing at least 40 kg (cohort 1; N = 7) and in children aged 6 to less than 12 years, weighing at least 25 kg (cohort 2; N = 8). Safety analyses of this study in a limited number of adolescent and paediatric subjects aged at least 6 years did not identify new safety concerns compared to the known safety profile in adult subjects.
+The safety of darunavir in combination with cobicistat was evaluated through clinical study GS-US216-0128 in virologically suppressed adolescents aged 12 to less than 18 years, weighing at least 40 kg (cohort 1; N = 7), children aged 6 to less than 12 years, weighing at least 25 kg to less than 40 kg (cohort 2; N = 8) and children aged ≥ 3 years, weighing at least 15 kg to less than 25 kg (cohort 3; N = 11). Safety analyses of this study in a limited number of adolescent and paediatric subjects aged at least 3 years did not identify new safety concerns compared to the known safety profile in adult subjects.
 
 ## Other special populations
 
@@ -631,30 +628,31 @@ The resistance profile of REZOLSTA is driven by darunavir. Cobicistat does not s
 
 Low rates of developing resistant HIV-1 virus were observed in ART-naïve patients who are treated for the first time with REZOLSTA or darunavir/ritonavir 800/100 mg once daily in combination with other ART, and in ART-experienced patients with no darunavir RAMs receiving REZOLSTA or darunavir/ritonavir 800/100 mg once daily in combination with other ART. Table 3 below shows the development of HIV-1 protease mutations and loss of susceptibility to HIV PIs in virologic failures at endpoint in the GS-US-216-130, ARTEMIS and ODIN trials.
 
-| Table 3                                                                                               | Table 3                                                                                               | Table 3                                                                                               | Table 3                                                                                               | Table 3                                                                                               | Table 3                                                                                               |
-|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-|                                                                                                       | GS-US-216-130 a                                                                                       | GS-US-216-130 a                                                                                       | ARTEMIS b                                                                                             | ODIN b                                                                                                | ODIN b                                                                                                |
-|                                                                                                       | Treatment-naïve darunavir/ cobicistat 800/150 mg once daily N = 295                                   | Treatment-experienced darunavir/ cobicistat 800/150 mg once daily N = 18                              | Treatment-naïve darunavir/ ritonavir 800/100 mg once daily N = 343                                    | Treatment-experienced darunavir/ ritonavir 800/100 mg once daily N = 294                              | Treatment-experienced darunavir/ ritonavir 600/100 mg twice daily N = 296                             |
-| Number of subjects with virologic failure and genotype data that develop mutations c at endpoint, n/N | Number of subjects with virologic failure and genotype data that develop mutations c at endpoint, n/N | Number of subjects with virologic failure and genotype data that develop mutations c at endpoint, n/N | Number of subjects with virologic failure and genotype data that develop mutations c at endpoint, n/N | Number of subjects with virologic failure and genotype data that develop mutations c at endpoint, n/N | Number of subjects with virologic failure and genotype data that develop mutations c at endpoint, n/N |
-| Primary (major) PI mutations                                                                          | 0/8                                                                                                   | 1/7                                                                                                   | 0/43                                                                                                  | 1/60                                                                                                  | 0/42                                                                                                  |
-| PI RAMs                                                                                               | 2/8                                                                                                   | 1/7                                                                                                   | 4/43                                                                                                  | 7/60                                                                                                  | 4/42                                                                                                  |
+| Table 3 - Number of subjects with virologic failure and genotype data that develop mutations c at endpoint, n/N   | Table 3 - GS-US-216-130 a - Treatment-naïve darunavir/ cobicistat 800/150 mg once daily N = 295 - Number of subjects with virologic failure and genotype data that develop mutations c at endpoint, n/N   | Table 3 - GS-US-216-130 a - Treatment-experienced darunavir/ cobicistat 800/150 mg once daily N = 18 - Number of subjects with virologic failure and genotype data that develop mutations c at endpoint, n/N   | Table 3 - ARTEMIS b - Treatment-naïve darunavir/ ritonavir 800/100 mg once daily N = 343 - Number of subjects with virologic failure and genotype data that develop mutations c at endpoint, n/N   | Table 3 - ODIN b - Treatment-experienced darunavir/ ritonavir 800/100 mg once daily N = 294 - Number of subjects with virologic failure and genotype data that develop mutations c at endpoint, n/N   | Table 3 - ODIN b - Treatment-experienced darunavir/ ritonavir 600/100 mg twice daily N = 296 - Number of subjects with virologic failure and genotype data that develop mutations c at endpoint, n/N   |
+|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Primary (major) PI mutations                                                                                      | 0/8                                                                                                                                                                                                       | 1/7                                                                                                                                                                                                            | 0/43                                                                                                                                                                                               | 1/60                                                                                                                                                                                                  | 0/42                                                                                                                                                                                                   |
+| PI RAMs                                                                                                           | 2/8                                                                                                                                                                                                       | 1/7                                                                                                                                                                                                            | 4/43                                                                                                                                                                                               | 7/60                                                                                                                                                                                                  | 4/42                                                                                                                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| HIV PI                                                                                                                                            |                                                                                                                                                   |                                                                                                                                                   |                                                                                                                                                   |                                                                                                                                                   |                                                                                                                                                   |
-| darunavir                                                                                                                                         | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 1/58                                                                                                                                              | 0/41                                                                                                                                              |
-| amprenavir                                                                                                                                        | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 1/58                                                                                                                                              | 0/40 0/40                                                                                                                                         |
-| atazanavir                                                                                                                                        | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 2/56                                                                                                                                              |                                                                                                                                                   |
-| indinavir                                                                                                                                         | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 2/57                                                                                                                                              | 0/40                                                                                                                                              |
-| lopinavir                                                                                                                                         | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 1/58                                                                                                                                              | 0/40                                                                                                                                              |
-| saquinavir                                                                                                                                        | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 0/56                                                                                                                                              | 0/40                                                                                                                                              |
-| tipranavir                                                                                                                                        | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 0/58                                                                                                                                              | 0/41                                                                                                                                              |
+| Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N - HIV PI   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N - 0/8   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| darunavir amprenavi                                                                                                                                        | 0/8                                                                                                                                                     | 0/7 0/7                                                                                                                                           | 0/39 0/39                                                                                                                                         | 1/58 1/58                                                                                                                                         | 0/41 0/40                                                                                                                                         |
+| r atazanavir                                                                                                                                               | 0/8                                                                                                                                                     | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 2/56                                                                                                                                              | 0/40                                                                                                                                              |
+| indinavir                                                                                                                                                  | 0/8                                                                                                                                                     | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 2/57                                                                                                                                              | 0/40                                                                                                                                              |
+| lopinavir                                                                                                                                                  | 0/8                                                                                                                                                     | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 1/58                                                                                                                                              | 0/40                                                                                                                                              |
+|                                                                                                                                                            |                                                                                                                                                         |                                                                                                                                                   |                                                                                                                                                   | 0/56                                                                                                                                              | 0/40                                                                                                                                              |
+| saquinavir tipranavir                                                                                                                                      | 0/8 0/8                                                                                                                                                 | 0/7 0/7                                                                                                                                           | 0/39 0/39                                                                                                                                         | 0/58                                                                                                                                              | 0/41                                                                                                                                              |
 
-a Virologic failures selected for resistance testing were defined as: never suppressed: HIV-1 RNA &lt; 1 log 10 reduction from baseline and ≥ 50 copies/mL at week 8, confirmed at the following visit; rebound: HIV-1 RNA &lt; 50 copies/mL followed by confirmed HIV-1 RNA to ≥ 400 copies/mL or confirmed &gt; 1 log 10 HIV-1 RNA increase from the nadir; discontinuations with HIV-1 RNA ≥ 400 copies/mL at last visit b Virologic failures based on TLOVR non-VF censored algorithm (HIV-1 RNA &gt; 50 copies/mL)
+a Virologic failures selected for resistance testing were defined as: never suppressed: HIV-1 RNA &lt; 1 log 10 reduction from baseline and ≥ 50 copies/mL at week 8, confirmed at the following visit; rebound: HIV-1 RNA &lt; 50 copies/mL followed by confirmed HIV-1 RNA to
 
-c IAS-USA lists d In GS-US-216-130 baseline phenotype was not available
+≥ 400 copies/mL or confirmed &gt; 1 log 10 HIV-1 RNA increase from the nadir; discontinuations with HIV-1 RNA ≥ 400 copies/mL at last visit
+
+b Virologic failures based on TLOVR non-VF censored algorithm (HIV-1 RNA &gt; 50 copies/mL)
+
+c IAS-USA lists
+
+d In GS-US-216-130 baseline phenotype was not available
 
 ## Cross-resistance
 
@@ -676,28 +674,26 @@ HIV-1 infected patients who were eligible for this trial had a screening genotyp
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 4                                                    | Table 4                                                                  | Table 4                                                                       | Table 4                                                               |
-|------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-|                                                            | GS-US-216-130                                                            | GS-US-216-130                                                                 | GS-US-216-130                                                         |
-| Outcomes at week 48                                        | Treatment-naïve darunavir/cobicistat 800/150 mg once daily + OBR N = 295 | Treatment-experienced darunavir/cobicistat 800/150 mg once daily + OBR N = 18 | All subjects darunavir/cobicistat 800/150 mg once daily + OBR N = 313 |
-| HIV-1 RNA < 50 copies/mL a                                 | 245 (83.1%)                                                              | 8 (44.4%)                                                                     | 253 (80.8%)                                                           |
-| mean HIV-1 RNA log change from baseline (log 10 copies/mL) | -3.01                                                                    | -2.39                                                                         | -2.97                                                                 |
-| CD4+ cell count mean change from baseline b                | +174                                                                     | +102                                                                          | +170                                                                  |
+| Table 4 - Outcomes at week 48                              | Table 4 - GS-US-216-130 - Treatment-naïve darunavir/cobicistat 800/150 mg once daily + OBR N = 295   | Table 4 - GS-US-216-130 - Treatment-experienced darunavir/cobicistat 800/150 mg once daily + OBR N = 18   | Table 4 - GS-US-216-130 - All subjects darunavir/cobicistat 800/150 mg once daily + OBR N = 313   |
+|------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| HIV-1 RNA < 50 copies/mL a                                 | 245 (83.1%)                                                                                          | 8 (44.4%)                                                                                                 | 253 (80.8%)                                                                                       |
+| mean HIV-1 RNA log change from baseline (log 10 copies/mL) | -3.01                                                                                                | -2.39                                                                                                     | -2.97                                                                                             |
+| CD4+ cell count mean change from baseline b                | +174                                                                                                 | +102                                                                                                      | +170                                                                                              |
 
-a Imputations according to the TLOVR algorithm b Last Observation Carried Forward imputation
+a Imputations according to the TLOVR algorithm
+
+b Last Observation Carried Forward imputation
 
 Efficacy of darunavir/cobicistat fixed-dose combination 800/150 mg once daily in ART-naïve patients TMC114FD2HTX3001 is a randomised, active-controlled, double blind, Phase III trial to evaluate the efficacy and safety of darunavir/cobicistat/emtricitabine/tenofovir alafenamide versus darunavir/cobicistat fixed-dose combination + emtricitabine/tenofovir disoproxil fumarate. In the darunavir/cobicistat fixed-dose combination treatment arm, 363 HIV-1 infected, adult, treatment-naïve patients were treated.
 
 HIV-1 infected patients who were eligible for this trial had a plasma HIV-1 RNA ≥ 1,000 copies/mL. Table 5 below shows the 48-week efficacy data of the darunavir/cobicistat arm of the TMC114FD2HTX3001 trial:
 
-| Table 5                                     | Table 5                                                                                                          |
-|---------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-|                                             | TMC114FD2HTX3001 (darunavir/cobicistat arm)                                                                      |
-| Outcomes at week 48                         | Treatment-naïve darunavir/cobicistat 800/150 mg once daily + emtricitabine/tenofovir disoproxil fumarate N = 363 |
-| HIV-1 RNA < 50 copies/mL a                  | 321 (88.4%)                                                                                                      |
-| Virologic failure a                         | 12 (3.3%)                                                                                                        |
-| No virologic data in 48-week window a       | 30 (8.3%)                                                                                                        |
-| CD4+ cell count mean change from baseline b | +173.8                                                                                                           |
+| Table 5 - Outcomes at week 48               | Table 5 - TMC114FD2HTX3001 (darunavir/cobicistat arm) - Treatment-naïve darunavir/cobicistat 800/150 mg once daily + emtricitabine/tenofovir disoproxil fumarate N = 363   |
+|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HIV-1 RNA < 50 copies/mL a                  | 321 (88.4%)                                                                                                                                                                |
+| Virologic failure a                         | 12 (3.3%)                                                                                                                                                                  |
+| No virologic data in 48-week window a       | 30 (8.3%)                                                                                                                                                                  |
+| CD4+ cell count mean change from baseline b | +173.8                                                                                                                                                                     |
 
 a Imputations according to the Snapshot algorithm.
 
@@ -713,13 +709,11 @@ The evidence of efficacy of darunavir/ritonavir 800/100 mg once daily is based o
 
 Table 6 below shows the efficacy data of the 48 week and 96 week analyses from the ARTEMIS trial:
 
-| Table 6                                                                                                                                     | Table 6                                                    | Table 6                                                    | Table 6                                                                        | Table 6                                                    | Table 6                                                   | Table 6                                                                        |
-|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------------|
-|                                                                                                                                             | ARTEMIS a                                                  | ARTEMIS a                                                  | ARTEMIS a                                                                      | Week 96 b                                                  | Week 96 b                                                 | Week 96 b                                                                      |
-| Outcomes                                                                                                                                    | darunavir/ ritonavir 800/100 mg once daily N = 343         | lopinavir/ ritonavir 800/200 mg per day N = 346            | Treatment difference (95% CI of difference)                                    | darunavir/ ritonavir 800/100 mg once daily N = 343         | lopinavir/ ritonavir 800/200 mg per day N = 346           | Treatment difference (95% CI of difference)                                    |
-| HIV-1 RNA < 50 copies/mL c All patients With baseline HIV-RNA < 100,000 With baseline HIV-RNA ≥ 100,000 With baseline CD4+ cell count < 200 | 83.7% (287) 85.8% (194/226) 79.5% (93/117) 79.4% (112/141) | 78.3% (271) 84.5% (191/226) 66.7% (80/120) 70.3% (104/148) | 5.3% (-0.5; 11.2) d 1.3% (-5.2; 7.9) d 12.8% (1.6; 24.1) d 9.2% (-0.8; 19.2) d | 79.0% (271) 80.5% (182/226) 76.1% (89/117) 78.7% (111/141) | 70.8% (245) 75.2% (170/226) 62.5% (75/120) 64.9% (96/148) | 8.2% (1.7; 14.7) d 5.3% (-2.3; 13.0) d 13.6% (1.9; 25.3) d 13.9% (3.5; 24.2) d |
-| With baseline CD4+ cell count ≥ 200                                                                                                         | 86.6% (175/202)                                            | 84.3% (167/198)                                            | 2.3% (-4.6; 9.2) d                                                             | 79.2% (160/202)                                            | 75.3% (149/198)                                           | 4.0% (-4.3; 12.2) d                                                            |
-| median CD4+ cell count change from baseline (x 10 6 /L) e                                                                                   | +137                                                       | +141                                                       |                                                                                | +171                                                       | +188                                                      |                                                                                |
+| Table 6 - Outcomes                                                                                                                          | Table 6 - ARTEMIS a - darunavir/ ritonavir 800/100 mg once daily N = 343   | Table 6 - ARTEMIS a - Week 48 lopinavir/ ritonavir 800/200 mg per day N = 346   | Table 6 - ARTEMIS a - Treatment difference (95% CI of difference)              | Table 6 - Week 96 b - darunavir/ ritonavir 800/100 mg once daily N = 343   | Table 6 - Week 96 b - lopinavir/ ritonavir 800/200 mg per day N = 346   | Table 6 - Week 96 b - Treatment difference (95% CI of difference)              |
+|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| HIV-1 RNA < 50 copies/mL c All patients With baseline HIV-RNA < 100,000 With baseline HIV-RNA ≥ 100,000 With baseline CD4+ cell count < 200 | 83.7% (287) 85.8% (194/226) 79.5% (93/117) 79.4% (112/141)                 | 78.3% (271) 84.5% (191/226) 66.7% (80/120) 70.3% (104/148)                      | 5.3% (-0.5; 11.2) d 1.3% (-5.2; 7.9) d 12.8% (1.6; 24.1) d 9.2% (-0.8; 19.2) d | 79.0% (271) 80.5% (182/226) 76.1% (89/117) 78.7% (111/141)                 | 70.8% (245) 75.2% (170/226) 62.5% (75/120) 64.9% (96/148)               | 8.2% (1.7; 14.7) d 5.3% (-2.3; 13.0) d 13.6% (1.9; 25.3) d 13.9% (3.5; 24.2) d |
+| With baseline CD4+ cell count ≥ 200                                                                                                         | 86.6% (175/202)                                                            | 84.3% (167/198)                                                                 | 2.3% (-4.6; 9.2) d                                                             | 79.2% (160/202)                                                            | 75.3% (149/198)                                                         | 4.0% (-4.3; 12.2) d                                                            |
+| median CD4+ cell count change from baseline (x 10 6 /L) e                                                                                   | +137                                                                       | +141                                                                            |                                                                                | +171                                                                       | +188                                                                    |                                                                                |
 
 a Data based on analyses at week 48
 
@@ -731,33 +725,39 @@ e Non-completer is failure imputation: patients who discontinued prematurely are
 
 Non-inferiority in virologic response to the darunavir/ritonavir treatment, defined as the percentage of patients with plasma HIV-1 RNA level &lt; 50 copies/mL, was demonstrated (at the pre-defined 12% non-inferiority margin) for both Intent-To-Treat (ITT) and On Protocol (OP) populations in the 48 week analysis. These results were confirmed in the analyses of data at 96 weeks of treatment in the ARTEMIS trial. These results were sustained up to 192 weeks of treatment in the ARTEMIS trial.
 
-## Efficacy of darunavir 800 mg once daily co -administered with 100 mg ritonavir once daily in ART-experienced patients
+## Efficacy of darunavir 800 mg once daily co - administered with 100 mg ritonavir once daily in ART-experienced patients
 
 ODIN is a Phase III, randomised, open-label trial comparing darunavir/ritonavir 800/100 mg once daily versus darunavir/ritonavir 600/100 mg twice daily in ART-experienced HIV-1 infected patients with screening genotype resistance testing showing no darunavir RAMs (i.e. V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V, L89V) and a screening HIV-1 RNA &gt; 1,000 copies/mL. Efficacy analysis is based on 48 weeks of treatment (see Table 7 below). Both arms used an optimised background regimen (OBR) of ≥ 2 NRTIs.
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 7                                                        | Table 7                                                | Table 7                                                 | Table 7                                     |
-|----------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|---------------------------------------------|
-| ODIN                                                           | ODIN                                                   | ODIN                                                    | ODIN                                        |
-|                                                                | Week 48                                                | Week 48                                                 | Week 48                                     |
-| Outcomes                                                       | darunvir/ritonavir 800/100 mg once daily + OBR N = 294 | darunvir/ritonavir 600/100 mg twice daily + OBR N = 296 | Treatment difference (95% CI of difference) |
-| HIV-1 RNA < 50 copies/mL a With Baseline HIV-1 RNA (copies/mL) | 72.1% (212)                                            | 70.9% (210)                                             | 1.2% (-6.1; 8.5) b                          |
-| < 100,000                                                      | 77.6% (198/255)                                        | 73.2% (194/265)                                         | 4.4% (-3.0; 11.9)                           |
-| ≥ 100,000                                                      | 35.9% (14/39)                                          | 51.6% (16/31)                                           | -15.7% (-39.2; 7.7)                         |
-| count (x 10 6 /L) ≥ 100                                        | 75.1% (184/245)                                        | 72.5% (187/258)                                         | 2.6% (-5.1; 10.3)                           |
-| < 100                                                          | 57.1% (28/49)                                          | 60.5% (23/38)                                           | -3.4% (-24.5; 17.8)                         |
-| With HIV-1 clade Type B                                        | 70.4% (126/179)                                        | 64.3% (128/199)                                         | 6.1% (-3.4; 15.6)                           |
-| Type AE                                                        | 90.5% (38/42)                                          | 91.2% (31/34)                                           | -0.7% (-14.0; 12.6)                         |
-| Type C                                                         | 72.7% (32/44)                                          | 78.8% (26/33)                                           | -6.1% (-2.6; 13.7)                          |
-| Other c                                                        | 55.2% (16/29)                                          | 83.3% (25/30)                                           | -28.2% (-51.0; -5.3)                        |
-| mean CD4+ cell count change from baseline (x 10 6 /L) e        | +108                                                   | +112                                                    | -5 d (-25; 16)                              |
+|                                                                |                                                         |                                                          |                                             |
+|----------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|---------------------------------------------|
+| Table 7                                                        | Table 7                                                 | Table 7                                                  | Table 7                                     |
+| ODIN                                                           | ODIN                                                    | ODIN                                                     | ODIN                                        |
+|                                                                | Week 48                                                 | Week 48                                                  | Week 48                                     |
+| Outcomes                                                       | darunavir/ritonavir 800/100 mg once daily + OBR N = 294 | darunavir/ritonavir 600/100 mg twice daily + OBR N = 296 | Treatment difference (95% CI of difference) |
+| HIV-1 RNA < 50 copies/mL a With Baseline HIV-1 RNA (copies/mL) | 72.1% (212)                                             | 70.9% (210)                                              | 1.2% (-6.1; 8.5) b                          |
+| < 100,000                                                      | 77.6% (198/255)                                         | 73.2% (194/265)                                          | 4.4% (-3.0; 11.9)                           |
+| ≥ 100,000 With Baseline CD4+ cell                              | 35.9% (14/39)                                           | 51.6% (16/31)                                            | -15.7% (-39.2; 7.7)                         |
+| count (x 10 6 /L) ≥ 100                                        | 75.1% (184/245)                                         | 72.5% (187/258)                                          | 2.6% (-5.1; 10.3)                           |
+| < 100                                                          | 57.1% (28/49)                                           | 60.5% (23/38)                                            | -3.4% (-24.5; 17.8)                         |
+| With HIV-1 clade                                               |                                                         |                                                          |                                             |
+| Type B                                                         | 70.4% (126/179)                                         | 64.3% (128/199)                                          | 6.1% (-3.4; 15.6)                           |
+| Type AE                                                        | 90.5% (38/42)                                           | 91.2% (31/34)                                            | -0.7% (-14.0; 12.6)                         |
+| Type C                                                         | 72.7% (32/44)                                           | 78.8% (26/33)                                            | -6.1% (-2.6; 13.7)                          |
+| Other c                                                        | 55.2% (16/29)                                           | 83.3% (25/30)                                            | -28.2% (-51.0; -5.3)                        |
+| mean CD4+ cell count change from baseline (x 10 6 /L) e        | +108                                                    | +112                                                     | -5 d (-25; 16)                              |
 
-a Imputations according to the TLOVR algorithm b Based on a normal approximation of the difference in % response
+a Imputations according to the TLOVR algorithm
+
+b Based on a normal approximation of the difference in % response
 
 c Clades A1, D, F1, G, K, CRF02\\_AG, CRF12\\_BF, and CRF06\\_CPX
 
-d Difference in means e Last Observation Carried Forward imputation
+d Difference in means
+
+e Last Observation Carried Forward imputation
 
 At 48 weeks, virologic response, defined as the percentage of patients with plasma HIV-1 RNA level &lt; 50 copies/mL, with darunavir/ritonavir 800/100 mg once daily treatment was demonstrated to be non-inferior (at the pre-defined 12% non-inferiority margin) compared to darunavir/ritonavir 600/100 mg twice daily for both ITT and OP populations.
 
@@ -765,33 +765,33 @@ REZOLSTA should not be used in patients with one or more darunavir resistance as
 
 ## Paediatric population
 
-The pharmacokinetics, safety, and antiviral activity of darunavir and cobicistat, at the doses and formulations approved as single agents, and in combination with other antiretroviral agents was assessed in an open label study (GS-US-216-0128) in HIV-1 virologically suppressed adolescents (cohort 1, n = 7) and children (cohort 2, n = 8) from the age of 6 years to less than 18 years and weighing at least 25 kg.
+## Description of a clinical study of darunavir/cobicistat in adolescents and children
 
-Adolescent participants aged 12 to less than 18 years old received darunavir 800 mg and cobicistat 150 mg (administered as separate tablets) and at least 2 NRTIs once daily. Children aged 6 to less than 12 years old and weighing at least 25 kg received darunavir (600, 675, or 800 mg, depending on body weight) and 150 mg cobicistat (administered as separate tablets) and at least 2 NRTIs once daily.
+The pharmacokinetics, safety, and antiviral activity of darunavir and cobicistat, at the doses and formulations approved as single agents, and in combination with other antiretroviral agents was assessed in an open-label study (GS-US-216-0128) in HIV-1 virologically suppressed paediatric patients. Adolescent participants aged 12 to less than 18 years old, weighing at least 40 kg (cohort 1, N = 7), received darunavir 800 mg and cobicistat 150 mg (administered as separate tablets) and at least 2 NRTIs once daily. Children aged 6 to less than 12 years old and weighing at least 25 kg (cohort 2, N = 8) received darunavir (600, 675, or 800 mg, depending on body weight) and 150 mg cobicistat (administered as separate tablets) and at least 2 NRTIs once daily. Children aged 3 years and older, weighing 15 kg to &lt; 25 kg (cohort 3, N = 11), received 600 mg darunavir and 90 mg cobicistat (administered as separate formulations) and the combination of F/TAF at the dose of 120/15 mg once daily.
 
-Table 8 below shows the main endpoints related to antiviral activity for these two cohorts.
+Table 8 below shows the main endpoints related to antiviral activity for these cohorts.
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 8 Virologic outcomes in ART-experienced, virologically suppressed children and adolescents at week 48   | Table 8 Virologic outcomes in ART-experienced, virologically suppressed children and adolescents at week 48   | Table 8 Virologic outcomes in ART-experienced, virologically suppressed children and adolescents at week 48   |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| GS-US-216-0128                                                                                                | GS-US-216-0128                                                                                                | GS-US-216-0128                                                                                                |
-| Outcomes at week 48                                                                                           | Cohort 1 b Darunavir/cobicistat + at least 2 NRTIs (N = 7)                                                    | Cohort 2 c Darunavir/cobicistat + at least 2 NRTIs (N = 8)                                                    |
-| HIV-1 RNA < 50 copies/mL per FDA Snapshot Approach                                                            | 85.7% (6)                                                                                                     | 100% (8)                                                                                                      |
-| CD4+ percent median change from baseline a                                                                    | -6.1%                                                                                                         | 0.75%                                                                                                         |
-| CD4+ cell count median change from baseline a                                                                 | -342 cells/mm³                                                                                                | -20 cells/mm³                                                                                                 |
+| Table 8 Virologic outcomes in ART-experienced, virologically suppressed children and adolescents at week 48 - GS-US-216-0128 - Outcomes at week 48   | Table 8 Virologic outcomes in ART-experienced, virologically suppressed children and adolescents at week 48 - GS-US-216-0128 - Cohort 1Darunavir/cobicistat + at least 2 NRTIs (N = 7)   | Table 8 Virologic outcomes in ART-experienced, virologically suppressed children and adolescents at week 48 - GS-US-216-0128 - Cohort 2Darunavir/cobicistat + at least 2 NRTIs (N = 8)   | Table 8 Virologic outcomes in ART-experienced, virologically suppressed children and adolescents at week 48 - GS-US-216-0128 - Cohort 3 Darunavir/cobicistat + F/TAF (N = 11)   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HIV-1 RNA < 50 copies/mL per FDA Snapshot Approach                                                                                                   | 85.7% (6)                                                                                                                                                                                | 100% (8)                                                                                                                                                                                 | 90.9% (10)                                                                                                                                                                      |
+| CD4+ percent median change from baseline a                                                                                                           | -6.1%                                                                                                                                                                                    | 0.75%                                                                                                                                                                                    | 1.5%                                                                                                                                                                            |
+| CD4+ cell count median change from baseline a                                                                                                        | -342 cells/mm³                                                                                                                                                                           | -20 cells/mm³                                                                                                                                                                            | 34 cells/mm³                                                                                                                                                                    |
 
 a No imputation (observed data).
 
-b Cohort 1 = adolescents aged 12 to less than 18 years, weighing at least 40 kg
+## Description of clinical studies of darunavir/ritonavir in adolescents and children
 
-- c Cohort 2 = children aged 6 to less 12 years, weighing at least 25 kg
+Once-daily darunavir boosted with ritonavir, used with other antiretroviral agents for the treatment of HIV-1 in adolescents and children aged ≥ 3 years and weighing ≥ 15 kg, was approved based on data from Studies TMC114-C230 (DIONE) and TMC114-C228 (ARIEL), supported by model-based pharmacokinetic simulations, extrapolated adult efficacy data, and the established safety profile of twice-daily darunavir/ritonavir in paediatric patients.
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with REZOLSTA in one or more subsets of the paediatric population in the condition of treatment of HIV-1 infection.
+In Study TMC114-C230 (DIONE), ART-naïve adolescents weighing ≥ 40 kg (N = 12) received darunavir 800 mg once daily with ritonavir and other antiretroviral agents. Study TMC114-C228 (ARIEL) evaluated ART-experienced children aged 3 to &lt; 6 years and weighing 10 to &lt; 20 kg (N = 21) on a weight-based twice-daily regimen. A pharmacokinetic sub-study of ARIEL assessed DRV/ritonavir exposure in 10 children who received either 40 mg/kg (body weight &lt; 15 kg) or 600 mg (body weight ≥ 15 kg) of darunavir with ritonavir and other antiretrovirals.
+
+Detailed study results are provided in the PREZISTA product information.
 
 ## 5.2 Pharmacokinetic properties
 
-Darunavir exposure was shown to be comparable in a bioavailability trial between REZOLSTA and darunavir/ritonavir 800/100 mg q.d. at steady-state and fed conditions in healthy subjects. The bioequivalence between REZOLSTA and darunavir/cobicistat co-administered as single agents was established for 800/150 mg under fed and fasted conditions and for 675/150 mg under fed conditions in healthy subjects.
+Darunavir exposure was shown to be comparable in a bioavailability trial between REZOLSTA and darunavir/ritonavir 800/100 mg q.d. at steady-state and fed conditions in healthy subjects. The bioequivalence between REZOLSTA and darunavir/cobicistat co-administered as single agents was established for 800/150 mg under fed and fasted conditions and for 675/150 mg under fed conditions in healthy subjects. Bioequivalence for darunavir was demonstrated between REZOLSTA 600/90 mg darunavir/cobicistat dispersible tablet and darunavir suspension (100 mg/mL) at a dose of 600 mg co-administered with cobicistat 90 mg as single entities under fed conditions in healthy adults.
 
 ## Absorption
 
@@ -800,6 +800,8 @@ Darunavir exposure was shown to be comparable in a bioavailability trial between
 The absolute oral bioavailability of a single 600 mg dose of darunavir alone is approximately 37%.
 
 Darunavir was rapidly absorbed following oral administration of REZOLSTA in healthy volunteers. Maximum plasma concentration of darunavir in the presence of cobicistat is generally achieved within 3 to 4.5 hours. Following oral administration of REZOLSTA in healthy volunteers, maximum plasma concentrations of cobicistat were observed 2 to 5 hours post-dose.
+
+<div style=\"page-break-after: always\"></div>
 
 When administered with food, the relative exposure of darunavir is 1.7-fold higher as compared to intake without food. Therefore, REZOLSTA tablets should be taken with food. The type of food does not affect exposure to REZOLSTA.
 
@@ -814,8 +816,6 @@ Following intravenous administration, the volume of distribution of darunavir al
 ## Cobicistat
 
 Cobicistat is 97 to 98% bound to human plasma proteins and the mean plasma to blood-drug concentration ratio was approximately 2.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -843,24 +843,1052 @@ Following oral administration of  14 C-cobicistat, 86% and 8.2% of the dose were
 
 ## Paediatric population
 
-Available pharmacokinetic data for the different components of REZOLSTA indicate there were no clinically relevant differences in darunavir or cobicistat exposures between adults and adolescents or children weighing at least 25 kg after single administration of DRV/COBI as separate agents in HIV-1 patients (see Table 9 below).
-
-| Table 9 Summary of darunavir (DRV) and cobicistat (COBI) pharmacokinetic parameters after single administration of DRV/COBI in studies GS-US-216-0130 (adults) and GS-US-216-0128 (paediatrics)   | Table 9 Summary of darunavir (DRV) and cobicistat (COBI) pharmacokinetic parameters after single administration of DRV/COBI in studies GS-US-216-0130 (adults) and GS-US-216-0128 (paediatrics)   | Table 9 Summary of darunavir (DRV) and cobicistat (COBI) pharmacokinetic parameters after single administration of DRV/COBI in studies GS-US-216-0130 (adults) and GS-US-216-0128 (paediatrics)   | Table 9 Summary of darunavir (DRV) and cobicistat (COBI) pharmacokinetic parameters after single administration of DRV/COBI in studies GS-US-216-0130 (adults) and GS-US-216-0128 (paediatrics)   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                   | GS-US-216-0130                                                                                                                                                                                    | GS-US-216-0128                                                                                                                                                                                    | GS-US-216-0128                                                                                                                                                                                    |
-| Study/Population                                                                                                                                                                                  | Adults with HIV-1 DRV 800 mg/ COBI 150 mg single agents Mean (%CV)                                                                                                                                | Cohort 1 Part A adolescents with HIV-1 aged ≥ 12 to < 18 years weighing ≥ 40 kg DRV 800 mg/ COBI 150 mg single agents Mean (%CV)                                                                  | Cohort 2 children aged ≥ 6 to < 12 years weighing ≥ 25 to < 40 kg DRV 675 mg / COBI 150 mg single agents Mean (%CV)                                                                               |
-| DRV                                                                                                                                                                                               |                                                                                                                                                                                                   |                                                                                                                                                                                                   |                                                                                                                                                                                                   |
-| N AUC0-24h (ng.h/mL) Cmax (ng/mL) C0h (ng/mL)                                                                                                                                                     | 60 81,646 (32.2) a, b 7,663 (25.1) 1,311 (74.0) b                                                                                                                                                 | 7 80,877 (29.5) a 7,506 (21.7) 1,087 (91.6)                                                                                                                                                       | 8 92,052 (18.7) c - 1,345 (42.3) c                                                                                                                                                                |
-| COBI                                                                                                                                                                                              |                                                                                                                                                                                                   |                                                                                                                                                                                                   |                                                                                                                                                                                                   |
+Pharmacokinetic data at steady-state after once daily dosing of DRV/COBI as separate tablets from adult study GS-US-216-0130 and paediatric study GS-US-216-0128 indicate that darunavir and cobicistat exposures were similar between adults (N = 60) and adolescents weighing ≥ 40 kg (N = 7). In children weighing at least 25 kg (N = 8), mean darunavir exposures were similar to those in adults and adolescents, and mean cobicistat exposures were generally higher (approximately 2-fold). Also, mean darunavir and cobicistat exposures in children weighing 15 kg to &lt; 25 kg (N = 11) were generally higher (approximately 2-fold) than the mean exposures achieved in adults and adolescents (see Table 9).
 
 <div style=\"page-break-after: always\"></div>
 
-| N                                                                                                                                                                                                                                                                              | 60                                                                                                                                                                                                                                                                             | 7                                                                                                                                                                                                                                                                              | 7                                                                                                                                                                                                                                                                              |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AUC0-24h (ng.h/mL) a                                                                                                                                                                                                                                                           | 7,596 (48.1) b                                                                                                                                                                                                                                                                 | 8,741 (34.9)                                                                                                                                                                                                                                                                   | 16,103 (35.0) d                                                                                                                                                                                                                                                                |
-| Cmax (ng/mL) c                                                                                                                                                                                                                                                                 | 991 (33.4)                                                                                                                                                                                                                                                                     | 1,116 (20.0)                                                                                                                                                                                                                                                                   | 1,510 (21.9)                                                                                                                                                                                                                                                                   |
-| C0h (ng/mL)                                                                                                                                                                                                                                                                    | 33 (289.4) b                                                                                                                                                                                                                                                                   | 28 (157.2)                                                                                                                                                                                                                                                                     | 86 (95.9) d                                                                                                                                                                                                                                                                    |
-| %CV=coefficient of variation; N=number of participants; AUC0-24h =area under the concentration-time curve over a 24- hours; Cmax =maximum plasma concentration; C0h =pre-dose plasma concentration; COBI=cobicistat; DRV=darunavir; HIV-1=human immunodeficiency virus type 1. | %CV=coefficient of variation; N=number of participants; AUC0-24h =area under the concentration-time curve over a 24- hours; Cmax =maximum plasma concentration; C0h =pre-dose plasma concentration; COBI=cobicistat; DRV=darunavir; HIV-1=human immunodeficiency virus type 1. | %CV=coefficient of variation; N=number of participants; AUC0-24h =area under the concentration-time curve over a 24- hours; Cmax =maximum plasma concentration; C0h =pre-dose plasma concentration; COBI=cobicistat; DRV=darunavir; HIV-1=human immunodeficiency virus type 1. | %CV=coefficient of variation; N=number of participants; AUC0-24h =area under the concentration-time curve over a 24- hours; Cmax =maximum plasma concentration; C0h =pre-dose plasma concentration; COBI=cobicistat; DRV=darunavir; HIV-1=human immunodeficiency virus type 1. |
+| Table 9 - Study/Population                      | Summary of darunavir (DRV) and cobicistat (COBI) pharmacokinetic parameters at steady- state after once daily dosing in studies GS-US-216-0130 (adults) and GS-US-216-0128 (paediatrics) - GS-US-216-0130 - Adults with HIV-1 DRV 800 mg/ COBI 150 mg single agents Mean (%CV)   | Summary of darunavir (DRV) and cobicistat (COBI) pharmacokinetic parameters at steady- state after once daily dosing in studies GS-US-216-0130 (adults) and GS-US-216-0128 (paediatrics) - GS-US-216-0128 - Cohort 1 Part A adolescents with HIV-1 aged ≥ 12 to < 18 years weighing ≥ 40 kg DRV 800 mg/ COBI 150 mg single agents Mean (%CV)   | Summary of darunavir (DRV) and cobicistat (COBI) pharmacokinetic parameters at steady- state after once daily dosing in studies GS-US-216-0130 (adults) and GS-US-216-0128 (paediatrics) - GS-US-216-0128 - Cohort 2 children with HIV-1 aged ≥ 6 to < 12 years weighing ≥ 25 to < 40 kg DRV 675 mg / COBI 150 mg single agents Mean (%CV)   | Summary of darunavir (DRV) and cobicistat (COBI) pharmacokinetic parameters at steady- state after once daily dosing in studies GS-US-216-0130 (adults) and GS-US-216-0128 (paediatrics) - GS-US-216-0128 - Cohort 3 children with HIV-1 aged ≥ 3 years weighing ≥ 15 kg to < 25 kg DRV 600 mg / COBI 90 mg single agents   |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| DRV                                             |                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                              | Mean (%CV)                                                                                                                                                                                                                                                                                                                  |
+| N AUC0-24h (ng.h/mL) Cmax (ng/mL) C0h (ng/mL)   | 60 81,646 (32.2) a, b 7,663 (25.1) 1,311 (74.0) b                                                                                                                                                                                                                                | 7 80,877 (29.5) a 7,506 (21.7) 1,087 (91.6)                                                                                                                                                                                                                                                                                                    | 8 92,052 (18.7) c - 1,345 (42.3) c                                                                                                                                                                                                                                                                                                           | 11 160,534 (54.0) 15,025 (38.4) 3,772 (92.1)                                                                                                                                                                                                                                                                                |
+| COBI                                            |                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                             |
+| N AUC0-24h (ng.h/mL) a Cmax (ng/mL) C0h (ng/mL) | 60 7,596 (48.1) b 991 (33.4) 33 (289.4) b                                                                                                                                                                                                                                        | 7 8,741 (34.9) 1,116 (20.0) 28 (157.2)                                                                                                                                                                                                                                                                                                         | 7 16,103 (35.0) d 1,510 (21.9) 86 (95.9) d                                                                                                                                                                                                                                                                                                   | 11 16,071 (46.9) 2,077 (36.0) 63.8 (138.6)                                                                                                                                                                                                                                                                                  |
+
+- %CV=coefficient of variation; N=number of participants; AUC0-24h=area under the concentration-time curve over a 24-hour dosing interval at steady state; Cmax=maximum plasma concentration; C0h=pre-dose plasma concentration; COBI=cobicistat; DRV=darunavir; HIV-1=human immunodeficiency virus type 1.
+- a Collected as AUC0h: concentration at predose (0 hour) was used as surrogate for concentration at 24 hours for the purposes of estimating AUC0-24h
+- b N=59
+- c Derived from population pharmacokinetic modelling
+- d N=5
+
+## Elderly
+
+## Darunavir
+
+Limited information is available in this population. Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (n = 12, age  65 years) (see section 4.4). However, only limited data were available in patients above the age of 65 years.
+
+## Cobicistat
+
+Pharmacokinetics of cobicistat have not been fully evaluated in older people (65 years of age and older).
+
+## Gender
+
+## Darunavir
+
+Population pharmacokinetic analysis showed a slightly higher darunavir exposure (16.8%) in HIV infected females compared to males. This difference is not clinically relevant.
+
+## Cobicistat
+
+No clinically relevant pharmacokinetic differences due to gender have been identified for cobicistat.
+
+## Renal impairment
+
+REZOLSTA has not been investigated in patients with renal impairment.
+
+<div style=\"page-break-after: always\"></div>
+
+## Darunavir
+
+Results from a mass balance study with  14 C-darunavir with ritonavir showed that approximately 7.7% of the administered dose of darunavir is excreted in the urine unchanged.
+
+Although darunavir has not been studied in patients with renal impairment, population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV infected patients with moderate renal impairment (CrCl between 30-60 mL/min, n = 20) (see sections 4.2 and 4.4).
+
+## Cobicistat
+
+A trial of the pharmacokinetics of cobicistat was performed in non-HIV-1 infected subjects with severe renal impairment (estimated creatinine clearance below 30 mL/min). No meaningful differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment and healthy subjects, consistent with low renal clearance of cobicistat.
+
+## Hepatic impairment
+
+REZOLSTA has not been investigated in patients with hepatic impairment.
+
+## Darunavir
+
+Darunavir is primarily metabolised and eliminated by the liver. In a multiple dose trial with darunavir/ritonavir (600/100 mg) twice daily, it was demonstrated that the total plasma concentrations of darunavir in subjects with mild (Child-Pugh Class A, n = 8) and moderate (Child-Pugh Class B, n = 8) hepatic impairment were comparable with those in healthy subjects. However, unbound darunavir concentrations were approximately 55% (Child-Pugh Class A) and 100% (Child-Pugh Class B) higher, respectively. The clinical relevance of this increase is unknown, therefore, darunavir/ritonavir should be used with caution. The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been studied (see sections 4.2, 4.3 and 4.4).
+
+## Cobicistat
+
+Cobicistat is primarily metabolised and eliminated by the liver. A trial of the pharmacokinetics of cobicistat was performed in non-HIV-1 infected subjects with moderate hepatic impairment (Child-Pugh Class B). No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate impairment and healthy subjects. No dosage adjustment of REZOLSTA is necessary for patients with mild to moderate hepatic impairment. The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of cobicistat has not been studied.
+
+## Hepatitis B and/or hepatitis C virus co-infection
+
+There were insufficient pharmacokinetic data in the clinical trials to determine the effect of hepatitis B and/or C virus infection on the pharmacokinetics of darunavir and cobicistat (refer to sections 4.4 and 4.8).
+
+## Pregnancy and postpartum
+
+Treatment with darunavir/cobicistat 800/150 mg once daily during pregnancy results in low darunavir exposure. In women receiving REZOLSTA during the second trimester of pregnancy, mean intraindividual values for total darunavir C max , AUC 24h and C min were 49%, 56% and 92% lower, respectively, as compared with postpartum; during the third trimester of pregnancy, total darunavir Cmax, AUC24h and Cmin values were 37%, 50% and 89% lower, respectively, as compared with postpartum. The unbound fraction was also substantially reduced, including around 90% reductions of Cmin levels. The main cause of these low exposures is a marked reduction in cobicistat exposure as a consequence of pregnancy-associated enzyme induction (see Table 10).
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Table 10 Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum | Table 10 Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum | Table 10 Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum | Table 10 Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum |
+| Pharmacokinetics of total darunavir (mean ± SD)                                                                                                                                                                                                         | Second trimester of pregnancy N = 7                                                                                                                                                                                                                     | Third trimester of pregnancy N = 6                                                                                                                                                                                                                      | Postpartum (6-12 weeks) N = 6                                                                                                                                                                                                                           |
+| C max , ng/mL                                                                                                                                                                                                                                           | 4,340 ± 1,616                                                                                                                                                                                                                                           | 4,910 ± 970                                                                                                                                                                                                                                             | 7,918 ± 2,199                                                                                                                                                                                                                                           |
+| AUC 24h , ng.h/mL                                                                                                                                                                                                                                       | 47,293 ± 19,058                                                                                                                                                                                                                                         | 47,991 ± 9,879                                                                                                                                                                                                                                          | 99,613 ± 34,862                                                                                                                                                                                                                                         |
+| C min , ng/mL                                                                                                                                                                                                                                           | 168 ± 149                                                                                                                                                                                                                                               | 184 ± 99                                                                                                                                                                                                                                                | 1,538 ± 1,344                                                                                                                                                                                                                                           |
+
+The exposure to cobicistat was lower during pregnancy, potentially leading to suboptimal boosting of darunavir. During the second trimester of pregnancy, cobicistat Cmax , AUC24h , and C min were 50%, 63%, and 83% lower, respectively, as compared with postpartum. During the third trimester of pregnancy, cobicistat Cmax, AUC24h, and Cmin, were 27%, 49%, and 83% lower, respectively, as compared with postpartum.
+
+## 5.3 Preclinical safety data
+
+## Darunavir
+
+Animal toxicology studies have been conducted at exposures up to clinical exposure levels with darunavir alone, in mice, rats and dogs and in combination with ritonavir in rats and dogs.
+
+In repeated-dose toxicology studies in mice, rats and dogs, there were only limited effects of treatment with darunavir. In rodents the target organs identified were the haematopoietic system, the blood coagulation system, liver and thyroid. A variable but limited decrease in red blood cell-related parameters was observed, together with increases in activated partial thromboplastin time.
+
+Changes were observed in liver (hepatocyte hypertrophy, vacuolation, increased liver enzymes) and thyroid (follicular hypertrophy). In the rat, the combination of darunavir with ritonavir lead to a small increase in effect on RBC parameters, liver and thyroid and increased incidence of islet fibrosis in the pancreas (in male rats only) compared to treatment with darunavir alone. In the dog, no major toxicity findings or target organs were identified up to exposures equivalent to clinical exposure at the recommended dose.
+
+In a study conducted in rats, the number of corpora lutea and implantations were decreased in the presence of maternal toxicity. Otherwise, there were no effects on mating or fertility with darunavir treatment up to 1,000 mg/kg/day and exposure levels below (AUC-0.5 fold) of that in human at the clinically recommended dose. Up to same dose levels, there was no teratogenicity with darunavir in rats and rabbits when treated alone nor in mice when treated in combination with ritonavir. The exposure levels were lower than those with the recommended clinical dose in humans. In a pre- and postnatal development assessment in rats, darunavir with and without ritonavir, caused a transient reduction in body weight gain of the offspring pre-weaning and there was a slight delay in the opening of eyes and ears. Darunavir in combination with ritonavir caused a reduction in the number of pups that exhibited the startle response on day 15 of lactation and a reduced pup survival during lactation. These effects may be secondary to pup exposure to the active substance via the milk and/or maternal toxicity. No post weaning functions were affected with darunavir alone or in combination with ritonavir. In juvenile rats receiving darunavir up to days 23-26, increased mortality was observed with convulsions in some animals. Exposure in plasma, liver and brain was considerably higher than in adult rats after comparable doses in mg/kg between days 5 and 11 of age. After day 23 of life, the exposure was comparable to that in adult rats. The increased exposure was likely at least partly due to immaturity of the drug-metabolising enzymes in juvenile animals. No treatment related mortalities were noted in juvenile rats dosed at 1,000 mg/kg darunavir (single dose) on day 26 of age or at 500 mg/kg (repeated dose) from day 23 to 50 of age, and the exposures and toxicity profile were comparable to those observed in adult rats.
+
+<div style=\"page-break-after: always\"></div>
+
+Due to uncertainties regarding the rate of development of the human blood brain barrier and liver enzymes REZOLSTA should not be used in paediatric patients below 3 years of age.
+
+Darunavir was evaluated for carcinogenic potential by oral gavage administration to mice and rats up to 104 weeks. Daily doses of 150, 450 and 1,000 mg/kg were administered to mice and doses of 50, 150 and 500 mg/kg were administered to rats. Dose-related increases in the incidences of hepatocellular adenomas and carcinomas were observed in males and females of both species. Thyroid follicular cell adenomas were noted in male rats. Administration of darunavir did not cause a statistically significant increase in the incidence of any other benign or malignant neoplasm in mice or rats. The observed hepatocellular and thyroid tumours in rodents are considered to be of limited relevance to humans. Repeated administration of darunavir to rats caused hepatic microsomal enzyme induction and increased thyroid hormone elimination, which predispose rats, but not humans, to thyroid neoplasms. At the highest tested doses, the systemic exposures (based on AUC) to darunavir when co-administered with ritonavir were between 0.4- and 0.7-fold (mice) and 0.7- and 1-fold (rats), relative to those observed in humans at the recommended therapeutic doses.
+
+After 2 years administration of darunavir at exposures at or below the human exposure, kidney changes were observed in mice (nephrosis) and rats (chronic progressive nephropathy).
+
+Darunavir was not mutagenic or genotoxic in a battery of in vitro and in vivo assays including bacterial reverse mutation (Ames), chromosomal aberration in human lymphocytes and in vivo micronucleus test in mice.
+
+## Cobicistat
+
+Non-clinical data reveal no special hazard for humans based on conventional studies of repeated dose toxicity, genotoxicity, and toxicity to reproduction and development. No teratogenic effects were observed in rats and rabbit developmental toxicity studies. In rats, ossification changes in the spinal column and sternebrae of foetuses occurred at a dose that produced significant maternal toxicity.
+
+Ex vivo rabbit studies and in vivo dog studies suggest that cobicistat has a low potential for QT prolongation, and may slightly prolong the PR interval and decrease left ventricular function at mean concentrations at least 10-fold higher than the human exposure at the recommended 150 mg daily dose.
+
+A long term carcinogenicity study of cobicistat in rats revealed tumourigenic potential specific for this species, that is regarded as of no relevance for humans. A long term carcinogenicity study in mice did not show any carcinogenic potential.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+## REZOLSTA 800 mg/150 mg tablets Tablet core
+
+Anhydrous colloidal silica (E551) Cellulose, microcrystalline (E460(i)) Crospovidone Hypromellose Magnesium stearate (E572)
+
+## Tablet film-coat
+
+Macrogol/polyethylene glycol (E1209) Polyvinyl alcohol - partially hydrolysed (E1203)
+
+<div style=\"page-break-after: always\"></div>
+
+Talc (E553b) Titanium dioxide (E171) Iron oxide red (E172) Iron oxide black (E172)
+
+## REZOLSTA 675 mg/150 mg tablets Tablet core
+
+Anhydrous colloidal silica (E551) Cellulose, microcrystalline (E460(i)) Croscarmellose sodium (E468) Magnesium stearate (E572)
+
+## Tablet film-coat
+
+Macrogol/polyethylene glycol (E1209)
+
+Polyvinyl alcohol - partially hydrolysed (E1203)
+
+Talc (E553b) Titanium dioxide (E171) Iron oxide yellow (E172) Iron oxide black (E172)
+
+## 6.2 Incompatibilities
+
+Not applicable
+
+## 6.3 Shelf life
+
+## REZOLSTA 800 mg/150 mg film-coated tablets
+
+3 years
+
+6 weeks after opening the bottle.
+
+## REZOLSTA 675 mg/150 mg film-coated tablets
+
+3 years
+
+8 weeks after opening the bottle.
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require any special storage conditions.
+
+## 6.5 Nature and contents of container
+
+## REZOLSTA 800 mg/150 mg film-coated tablets
+
+White, high density polyethylene (HDPE) bottle containing 30 tablets, fitted with polypropylene (PP) child resistant closure with induction seal.
+
+Pack size of one bottle.
+
+## REZOLSTA 675 mg/150 mg film-coated tablets
+
+White, high density polyethylene (HDPE) bottle containing 30 tablets, fitted with polypropylene (PP) child resistant closure with induction seal.
+
+Pack size of one bottle.
+
+<div style=\"page-break-after: always\"></div>
+
+6.6
+
+Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
+
+7.
+
+MARKETING AUTHORISATION HOLDER
+
+Janssen-Cilag International NV
+
+Turnhoutseweg 30
+
+B-2340 Beerse
+
+Belgium
+
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
+
+800 mg/150 mg REZOLSTA: EU/1/14/967/001
+
+675 mg/150 mg REZOLSTA: EU/1/14/967/002
+
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 19 November 2014
+
+Date of latest renewal: 31 July 2019
+
+10.
+
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency https://www.ema.europa.eu.
+
+36
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+REZOLSTA 600 mg/90 mg dispersible tablets
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Each dispersible tablet contains 600 mg of darunavir (as ethanolate) and 90 mg of cobicistat.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+## Dispersible tablets.
+
+Reddish purple, oval-shaped film-coated tablet of 21 mm x 10 mm, debossed with '690' on one side and 'TG' on the other side
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+REZOLSTA is indicated, in combination with other antiretroviral medicinal products, for the treatment of human immunodeficiency virus-1 (HIV-1) infection in adults and paediatric patients aged 3 years and older, weighing at least 15 kg.
+
+Genotypic testing should guide the use of REZOLSTA (see sections 4.2, 4.4 and 5.1).
+
+## 4.2 Posology and method of administration
+
+Therapy should be initiated by a healthcare provider experienced in the management of HIV infection.
+
+REZOLSTA 600 mg darunavir/90 mg cobicistat dispersible tablet must be dispersed in water.
+
+## Posology
+
+Paediatric patients aged 3 years and older weighing at least 15 kg to less than 25 kg
+
+## ART-naïve paediatric patients
+
+The recommended dose regimen is one 600 mg darunavir/90 mg cobicistat dispersible tablet once daily taken with food.
+
+## ART-experienced paediatric patients
+
+One 600 mg darunavir/90 mg cobicistat tablet once daily taken with food may be used in patients with prior exposure to antiretroviral medicinal products, but without DRV-RAMs* and who have plasma HIV-1 RNA &lt; 100,000 copies/mL and CD4+ cell count ≥ 100 cells x 10 6 /L (see section 4.1). * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V, L89V.
+
+In all other ART-experienced patients or if HIV-1 genotype testing is not available, the use of REZOLSTA is not appropriate and another antiretroviral regimen should be used. Refer to the Summary of Product Characteristics of other antiretroviral medicinal products for dosing information.
+
+## Film-Coated tablets
+
+REZOLSTA is also available as a 800 mg darunavir/150 mg cobicistat film-coated tablet for adults and adolescents weighing at least 40 kg.
+
+<div style=\"page-break-after: always\"></div>
+
+REZOLSTA is also available as a 675 mg/150 mg scored tablet for children 6 years and older weighing at least 25 kg and less than 40 kg.
+
+## Advice on missed doses
+
+If REZOLSTA is missed within 12 hours of the time it is usually taken, patients should be instructed to take the prescribed dose with food as soon as possible. If this is noticed later than 12 hours of the time it is usually taken, the missed dose should not be taken and the patient should resume the usual dosing schedule.
+
+If a patient vomits within 4 hours of taking the medicine, another dose of REZOLSTA should be taken with food as soon as possible. If a patient vomits more than 4 hours after taking the medicine, the patient does not need to take another dose until the next regularly scheduled time.
+
+## Special populations
+
+## Elderly
+
+Limited information is available in this population, and therefore, REZOLSTA should be used with caution in patients above 65 years of age (see sections 4.4 and 5.2).
+
+## Hepatic impairment
+
+There are no pharmacokinetic data regarding the use of REZOLSTA in patients with hepatic impairment.
+
+Darunavir and cobicistat are metabolised by the hepatic system. Separate trials of darunavir/ritonavir and cobicistat suggest no dose adjustment is recommended in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment, however, REZOLSTA should be used with caution in these patients.
+
+There are no data regarding the use of darunavir or cobicistat in patients with severe hepatic impairment. Severe hepatic impairment could result in an increase of darunavir and/or cobicistat exposure and a worsening of its safety profile. Therefore, REZOLSTA must not be used in patients with severe hepatic impairment (Child-Pugh Class C) (see sections 4.3, 4.4 and 5.2).
+
+## Renal impairment
+
+Cobicistat has been shown to decrease estimated creatinine clearance due to inhibition of tubular secretion of creatinine. REZOLSTA should not be initiated in patients with creatinine clearance less than 70 mL/min, if any co-administered medicinal product (e.g. emtricitabine, lamivudine, tenofovir disoproxil (as fumarate, phosphate or succinate), or adefovir dipivoxil) requires dose adjustment based on creatinine clearance (see sections 4.4, 4.8 and 5.2).
+
+Based on the very limited renal elimination of cobicistat and darunavir, no special precautions or dose adjustments of REZOLSTAare required for patients with renal impairment. Darunavir, cobicistat, or the combination of both have not been studied in patients receiving dialysis, and therefore no recommendation can be made for these patients (see section 5.2).
+
+For more information consult the cobicistat Summary of Product Characteristics.
+
+## Paediatric population
+
+Darunavir in combination with cobicistat should not be used in paediatric patients below 3 years of age because of safety concerns related to toxicity and mortality observed in juvenile rats dosed with darunavir up to days 23 to 26 of age (see section 5.3).
+
+## Pregnancy and postpartum
+
+Treatment with darunavir/cobicistat 800/150 mg during pregnancy results in low darunavir exposure (see sections 4.4 and 5.2). Therefore, this combination should not be initiated during pregnancy, and women who become pregnant during therapy with REZOLSTA should be switched to an alternative regimen (see sections 4.4 and 4.6). Darunavir/ritonavir may be considered as an alternative.
+
+<div style=\"page-break-after: always\"></div>
+
+## Method of administration
+
+Patients should be instructed to take REZOLSTA within 30 minutes after completion of a meal (see sections 4.5 and 5.2).
+
+REZOLSTA dispersible tablets must be dispersed in water . The patient should not chew or swallow the tablet. The following instructions should be followed:
+
+- Place the tablet in a cup, in 30 mL (2 tablespoons) of non-carbonated water.
+- Stir well until the tablet is completely dispersed.
+- Take all the prepared medicine immediately.
+- If needed, to aid administration, add additional water (10 mL or 2 teaspoons) or any of the following to the dispersed mixture: orange juice (10 mL or 2 teaspoons), applesauce (1 teaspoon), or yogurt (1 teaspoon), to the cup. Mix and take all the medicine immediately.
+- The cup should be rinsed with 5 mL (1 teaspoon) of liquid or ½ teaspoon of soft food and the rinse completely swallowed to ensure the entire dose is consumed. This step may be repeated as needed.
+- The patient must take the dose of medicine immediately. If not taken immediately, then the mixture should be discarded and a new dose of medicine should be prepared.
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substances or to any of the excipients listed in section 6.1.
+
+Patients with severe (Child-Pugh Class C) hepatic impairment.
+
+Co-administration with strong CYP3A inducers such as the medicinal products listed below due to the potential for loss of therapeutic effect (see section 4.5):
+
+- carbamazepine, phenobarbital, phenytoin
+- rifampicin
+- lopinavir/ritonavir
+- St John's Wort ( Hypericum perforatum ).
+
+Co-administration with medicinal products such as those products listed below due to the potential for serious and/or life-threatening adverse reactions (see section 4.5):
+
+- alfuzosin
+- amiodarone, bepridil, dronedarone, ivabradine, quinidine, ranolazine
+- astemizole, terfenadine
+- colchicine, when used in patients with renal and/or hepatic impairment (see section 4.5)
+- rifampicin
+- ergot derivatives (e.g. dihydroergotamine, ergometrine, ergotamine, methylergonovine)
+- cisapride
+- dapoxetine
+- domperidone
+- naloxegol
+- lurasidone, pimozide, quetiapine, sertindole (see section 4.5)
+- elbasvir/grazoprevir
+- triazolam, midazolam administered orally (for caution on parenterally administered midazolam, see section 4.5)
+- sildenafil - when used for the treatment of pulmonary arterial hypertension, avanafil
+- simvastatin, lovastatin and lomitapide (see section 4.5)
+- ticagrelor.
+
+## 4.4 Special warnings and precautions for use
+
+Regular assessment of virological response is advised. In the setting of lack or loss of virological response, resistance testing should be performed.
+
+<div style=\"page-break-after: always\"></div>
+
+Darunavir binds predominantly to α1-acid glycoprotein. This protein binding is concentration dependent indicative for saturation of binding. Therefore, protein displacement of medicinal products highly bound to α1-acid glycoprotein cannot be ruled out (see section 4.5).
+
+## ART-experienced patients
+
+REZOLSTA should not be used in treatment-experienced patients with one or more DRV-RAMs or HIV-1 RNA ≥ 100,000 copies/mL or CD4+ cell count &lt; 100 cells x 10 6 /L (see section 4.2).
+
+Combinations with optimised background regimens (OBRs) other than ≥ 2 NRTIs have not been studied in this population. Limited data is available in patients with HIV-1 clades other than B (see section 5.1).
+
+## Pregnancy
+
+Treatment with darunavir/cobicistat 800/150 mg during the second and third trimester has been shown to result in low darunavir exposure, with a reduction of around 90% in Cmin levels (see section 5.2). Cobicistat levels decrease and may not provide sufficient boosting. The substantial reduction in darunavir exposure may result in virological failure and an increased risk of mother to child transmission of HIV infection. Therefore, this combination should not be initiated during pregnancy, and women who become pregnant during therapy with REZOLSTA should be switched to an alternative regimen (see sections 4.2 and 4.6). Darunavir given with low dose ritonavir may be considered as an alternative.
+
+## Elderly
+
+As limited information is available on the use of REZOLSTA in patients aged 65 and over, caution should be exercised, reflecting the greater frequency of decreased hepatic function and of concomitant disease or other therapy (see sections 4.2 and 5.2).
+
+## Severe skin reactions
+
+During the darunavir/ritonavir clinical development program (N = 3,063), severe skin reactions, which may be accompanied with fever and/or elevations of transaminases, have been reported in 0.4% of patients. DRESS (Drug Rash with Eosinophilia and Systemic Symptoms) and Stevens-Johnson syndrome has been rarely (&lt; 0.1%) reported, and during post-marketing experience toxic epidermal necrolysis and acute generalised exanthematous pustulosis have been reported. REZOLSTA should be discontinued immediately if signs or symptoms of severe skin reactions develop. These can include, but are not limited to, severe rash or rash accompanied with fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, hepatitis and/or eosinophilia.
+
+Rash occurred more commonly in treatment-experienced patients receiving regimens containing darunavir/ritonavir + raltegravir compared to patients receiving darunavir/ritonavir without raltegravir or raltegravir without darunavir/ritonavir (see section 4.8).
+
+## Sulphonamide allergy
+
+Darunavir contains a sulphonamide moiety. REZOLSTA should be used with caution in patients with a known sulphonamide allergy.
+
+## Hepatotoxicity
+
+Drug-induced hepatitis (e.g. acute hepatitis, cytolytic hepatitis) has been reported with darunavir/ritonavir. During the clinical development program (N = 3,063), hepatitis was reported in 0.5% of patients receiving combination antiretroviral therapy with darunavir/ritonavir. Patients with pre-existing liver dysfunction, including chronic active hepatitis B or C, have an increased risk for liver function abnormalities including severe and potentially fatal hepatic adverse reactions. In case of concomitant antiviral therapy for hepatitis B or C, please refer to the relevant product information for these medicinal products.
+
+<div style=\"page-break-after: always\"></div>
+
+Appropriate laboratory testing should be conducted prior to initiating therapy with REZOLSTA and patients should be monitored during treatment. Increased AST/ALT monitoring should be considered in patients with underlying chronic hepatitis, cirrhosis, or in patients who have pre-treatment elevations of transaminases, especially during the first several months of treatment.
+
+If there is evidence of new or worsening liver dysfunction (including clinically significant elevation of liver enzymes and/or symptoms such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness, hepatomegaly) interruption or discontinuation of treatment should be considered promptly.
+
+## Patients with coexisting conditions
+
+## Hepatic impairment
+
+The safety and efficacy of darunavir, and/or cobicistat have not been established in patients with severe underlying liver disorders. REZOLSTA is, therefore, contraindicated in patients with severe hepatic impairment. Due to an increase in the unbound darunavir plasma concentrations, REZOLSTA should be used with caution in patients with mild or moderate hepatic impairment (see sections 4.2, 4.3 and 5.2).
+
+## Renal impairment
+
+Cobicistat has been shown to decrease estimated creatinine clearance due to inhibition of tubular secretion of creatinine. This effect on serum creatinine, leading to a decrease in the estimated creatinine clearance, should be taken into consideration when REZOLSTA is administered to patients, in whom the estimated creatinine clearance is used to guide aspects of their clinical management, including adjusting doses of co-administered medicinal products. For more information consult the cobicistat Summary of Product Characteristics.
+
+REZOLSTA should not be initiated in patients with creatinine clearance less than 70 mL/min when co-administered with one or more agent requiring dose adjustment based on creatinine clearance (e.g. emtricitabine, lamivudine, tenofovir disoproxil (as fumarate, phosphate or succinate) or adefovir dipivoxil) (see sections 4.2, 4.8 and 5.2).
+
+No special precautions or dose adjustments are required in patients with renal impairment. As darunavir and cobicistat are highly bound to plasma proteins, it is unlikely that they will be significantly removed by haemodialysis or peritoneal dialysis (see sections 4.2 and 5.2).
+
+There are currently inadequate data to determine whether co-administration of tenofovir disoproxil and cobicistat is associated with a greater risk of renal adverse reactions compared with regimens that include tenofovir disoproxil without cobicistat.
+
+## Haemophiliac patients
+
+There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthrosis in patients with haemophilia type A and B treated with HIV PIs. In some patients additional factor VIII was given. In more than half of the reported cases, treatment with HIV PIs was continued or reintroduced if treatment had been discontinued. A causal relationship has been suggested, although the mechanism of action has not been elucidated. Haemophiliac patients should, therefore, be made aware of the possibility of increased bleeding.
+
+## Weight and metabolic parameters
+
+An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy. Such changes may in part be linked to disease control and life style. For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment. For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines. Lipid disorders should be managed as clinically appropriate.
+
+<div style=\"page-break-after: always\"></div>
+
+## Osteonecrosis
+
+Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART). Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+
+## Immune reconstitution inflammatory syndrome (IRIS)
+
+In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such reactions have been observed within the first weeks or months of initiation of CART. Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections and pneumonia caused by Pneumocystis jirovecii (formerly known as Pneumocystis carinii ). Any inflammatory symptoms should be evaluated and treatment instituted when necessary. In addition, reactivation of herpes simplex and herpes zoster has been observed in clinical trials with darunavir co-administered with low dose ritonavir.
+
+Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.8).
+
+## Interactions with medicinal products
+
+Life-threatening and fatal drug interactions have been reported in patients treated with colchicine and strong inhibitors of CYP3A and P-glycoprotein (see section 4.5).
+
+REZOLSTA should not be used in combination with another antiretroviral that requires pharmacoenhancement since dosing recommendations for such combination have not been established. REZOLSTA should not be used concurrently with products containing ritonavir or regimens containing ritonavir or cobicistat.
+
+Unlike ritonavir, cobicistat is not an inducer of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 or UGT1A1. If switching from ritonavir as a pharmacoenhancer to cobicistat, caution is required during the first two weeks of treatment with REZOLSTA, particularly if doses of any concomitantly administered medicinal products have been titrated or adjusted during use of ritonavir as a pharmacoenhancer.
+
+## Excipients
+
+REZOLSTA contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+As REZOLSTA contains darunavir and cobicistat, interactions that have been identified with darunavir (in combination with cobicistat or with low dose ritonavir) or with cobicistat determine the interactions that may occur with REZOLSTA. Interaction trials with darunavir/cobicistat, darunavir/ritonavir and with cobicistat have only been performed in adults.
+
+<div style=\"page-break-after: always\"></div>
+
+## Medicinal products that may be affected by darunavir/cobicistat
+
+Darunavir is an inhibitor of CYP3A, a weak inhibitor of CYP2D6 and an inhibitor of P-gp. Cobicistat is a mechanism based inhibitor of CYP3A, and a weak CYP2D6 inhibitor. Cobicistat inhibits the transporters p-glycoprotein (P-gp), BCRP, MATE1, OATP1B1 and OATP1B3. Cobicistat is not expected to inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9 or CYP2C19. Cobicistat is not expected to induce CYP1A2, CYP3A4, CYP2C9, CYP2C19, UGT1A1, or P-gp (MDR1).
+
+Co-administration of darunavir/cobicistat and medicinal products primarily metabolised by CYP3A or transported by P-gp, BCRP, MATE1, OATP1B1 and OATP1B3 may result in increased systemic exposure to such medicinal products, which could increase or prolong their therapeutic effect and adverse reactions (see section 4.3 or table below).
+
+REZOLSTA must not be combined with medicinal products that are highly dependent on CYP3A for clearance and for which increased systemic exposure is associated with serious and/or life-threatening events (narrow therapeutic index).
+
+Co-administration of REZOLSTA with medicinal products that have active metabolite(s) formed by CYP3A may result in reduced plasma concentrations of these active metabolite(s) potentially leading to loss of their therapeutic effect. These interactions are described in the interaction table below.
+
+## Medicinal products that affect darunavir/cobicistat exposure
+
+Darunavir and cobicistat are metabolised by CYP3A. Medicinal products that induce CYP3A activity would be expected to increase the clearance of darunavir and cobicistat, resulting in lowered plasma concentrations of darunavir and cobicistat (e.g. efavirenz, carbamazepine, phenytoin, phenobarbital, rifampicin, rifapentine, rifabutin, St John's Wort) (see section 4.3 and interaction table below).
+
+Co-administration of REZOLSTA and other medicinal products that inhibit CYP3A may decrease the clearance of darunavir and cobicistat and may result in increased plasma concentrations of darunavir and cobicistat (e.g. azole antifungals such as clotrimazole). These interactions are described in the interaction table below.
+
+REZOLSTA should not be used concurrently with products or regimens containing ritonavir or cobicistat. REZOLSTA should not be used in combination with the individual components of REZOLSTA (darunavir or cobicistat). REZOLSTA should not be used in combination with another antiretroviral that requires pharmacoenhancement since dosing recommendations for such combination have not been established.
+
+## Interaction table
+
+Expected interactions between REZOLSTA and antiretroviral and non-antiretroviral medicinal products are listed in the table below and are based on the identified interactions with darunavir/ritonavir, darunavir/cobicistat and with cobicistat.
+
+The interaction profile of darunavir depends on whether ritonavir or cobicistat is used as pharmacokinetic enhancer, therefore there may be different recommendations for the use of darunavir with concomitant medicine. In the table below it is specified when recommendations for REZOLSTA differ from those for darunavir boosted with low dose ritonavir. Refer to the Summary of Product Characteristics for PREZISTA for further information.
+
+The below list of examples of drug-drug interactions in Table 1 is not comprehensive and therefore the label of each drug that is co-administered with REZOLSTA should be consulted for information related to the route of metabolism, interaction pathways, potential risks, and specific actions to be taken with regards to co-administration.
+
+<div style=\"page-break-after: always\"></div>
+
+| Table 1 Interactions and dose recommendations with other medicinal products - Medicinal product examples by therapeutic area   | Table 1 Interactions and dose recommendations with other medicinal products - Interaction                                                                                                                                                                                                         | Table 1 Interactions and dose recommendations with other medicinal products - Recommendations concerning co-administration                                                                                                                                                                           |
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HIV ANTIRETROVIRALS                                                                                                            | HIV ANTIRETROVIRALS                                                                                                                                                                                                                                                                               | HIV ANTIRETROVIRALS                                                                                                                                                                                                                                                                                  |
+| Integrase strand transfer inhibitors                                                                                           | Integrase strand transfer inhibitors                                                                                                                                                                                                                                                              | Integrase strand transfer inhibitors                                                                                                                                                                                                                                                                 |
+| Dolutegravir                                                                                                                   | Based on theoretical considerations dolutegravir is not expected to affect the pharmacokinetics of REZOLSTA.                                                                                                                                                                                      | REZOLSTA and dolutegravir can be used without dose adjustments.                                                                                                                                                                                                                                      |
+| Raltegravir                                                                                                                    | Some clinical trials suggest raltegravir may cause a modest decrease in darunavir plasma concentrations.                                                                                                                                                                                          | At present the effect of raltegravir on darunavir plasma concentrations does not appear to be clinically relevant; REZOLSTA and raltegravir can be used without dose adjustments.                                                                                                                    |
+| HIV Nucleo(s/t)ide reverse transcriptase inhibitors (NRTIs)                                                                    | HIV Nucleo(s/t)ide reverse transcriptase inhibitors (NRTIs)                                                                                                                                                                                                                                       | HIV Nucleo(s/t)ide reverse transcriptase inhibitors (NRTIs)                                                                                                                                                                                                                                          |
+| Didanosine 400 mg once daily                                                                                                   | No mechanistic interaction expected based on theoretical consideration.                                                                                                                                                                                                                           | REZOLSTA and didanosine can be used without dose adjustments. When didanosine is co-administered with REZOLSTA, didanosine should be administered on an empty stomach 1 hour before or 2 hours after REZOLSTA (which is administered with food).                                                     |
+| Tenofovir disoproxil * *study was done with tenofovir disoproxil fumarate                                                      | Based on theoretical considerations REZOLSTA is expected to increase tenofovir plasma concentrations. (P-glycoprotein inhibition)                                                                                                                                                                 | REZOLSTA and tenofovir disoproxil can be used without dose adjustments. Monitoring of renal function may be indicated when REZOLSTA is given in combination with tenofovir disoproxil, particularly in patients with underlying systemic or renal disease, or in patients taking nephrotoxic agents. |
+| Emtricitabine/tenofovir alafenamide (F/TAF)                                                                                    | Tenofovir alafenamide ↔ Tenofovir ↑                                                                                                                                                                                                                                                               | The recommended dose of F/TAF is 200/10 mg once daily when used with REZOLSTA.                                                                                                                                                                                                                       |
+| Abacavir Emtricitabine Lamivudine Stavudine Zidovudine                                                                         | Based on the different elimination pathways of the other NRTIs (i.e. emtricitabine, lamivudine, stavudine and zidovudine) that are primarily renally excreted, and abacavir for which metabolism is not mediated by CYP, no interactions are expected for these medicinal compounds and REZOLSTA. | REZOLSTA can be used with these NRTIs without dose adjustment.                                                                                                                                                                                                                                       |
+
+<div style=\"page-break-after: always\"></div>
+
+| HIV Non-nucleo(s/t)ide reverse transcriptase inhibitors (NNRTIs)   | HIV Non-nucleo(s/t)ide reverse transcriptase inhibitors (NNRTIs)                                                                                                                                                                   | HIV Non-nucleo(s/t)ide reverse transcriptase inhibitors (NNRTIs)                                                                                                                                                      |
+|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Efavirenz                                                          | Based on theoretical considerations efavirenz is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction)                                                                                         | Co-administration of REZOLSTA and efavirenz is not recommended. This recommendation is different from ritonavir-boosted darunavir. Consult the Summary of Product Characteristics for darunavir for further details.  |
+| Etravirine                                                         | Based on theoretical considerations etravirine is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction)                                                                                        | Co-administration of REZOLSTA and etravirine is not recommended. This recommendation is different from ritonavir-boosted darunavir. Consult the Summary of Product Characteristics for darunavir for further details. |
+| Nevirapine                                                         | Based on theoretical considerations nevirapine is expected to decrease darunavir and/or cobicistat plasma concentrations, (CYP3A induction). REZOLSTA is expected to increase nevirapine plasma concentrations. (CYP3A inhibition) | Co-administration of REZOLSTA and nevirapine is not recommended. This recommendation is different from ritonavir-boosted darunavir. Consult the Summary of Product Characteristics for darunavir for further details. |
+| Rilpivirine                                                        | Based on theoretical considerations REZOLSTA is expected to increase rilpivirine plasma concentrations. (CYP3A inhibition)                                                                                                         | Co-administration of REZOLSTA and rilpivirine can be used without dose adjustments, as the expected increase in rilpivirine concentrations is not considered clinically relevant.                                     |
+| CCR5 ANTAGONIST                                                    | CCR5 ANTAGONIST                                                                                                                                                                                                                    | CCR5 ANTAGONIST                                                                                                                                                                                                       |
+| Maraviroc 150 mg twice daily                                       | Based on theoretical considerations REZOLSTA is expected to increase maraviroc plasma concentrations. (CYP3A inhibition)                                                                                                           | The recommended dose of maraviroc is 150 mg twice daily when co-administered with REZOLSTA. For further details, consult the maraviroc Summary of Product Characteristics.                                            |
+| α1-ADRENORECEPTOR ANTAGONIST                                       | α1-ADRENORECEPTOR ANTAGONIST                                                                                                                                                                                                       | α1-ADRENORECEPTOR ANTAGONIST                                                                                                                                                                                          |
+| Alfuzosin                                                          | Based on theoretical considerations REZOLSTA is expected to increase alfuzosin plasma concentrations. (CYP3A inhibition)                                                                                                           | Co-administration of REZOLSTA with alfuzosin is contraindicated (see section 4.3).                                                                                                                                    |
+| ANAESTHETIC                                                        | ANAESTHETIC                                                                                                                                                                                                                        | ANAESTHETIC                                                                                                                                                                                                           |
+| Alfentanil                                                         | Based on theoretical considerations REZOLSTA is expected to increase alfentanil plasma concentrations.                                                                                                                             | The concomitant use with REZOLSTA may require to lower the dose of alfentanil and requires monitoring for risks of prolonged or delayed respiratory depression.                                                       |
+| ANTACIDS                                                           | ANTACIDS                                                                                                                                                                                                                           | ANTACIDS                                                                                                                                                                                                              |
+| Aluminium/magnesium hydroxide Calcium carbonate                    | No mechanistic interaction expected based on theoretical consideration.                                                                                                                                                            | REZOLSTA and antacids can be used concomitantly without dose adjustment.                                                                                                                                              |
+
+<div style=\"page-break-after: always\"></div>
+
+| ANTIANGINA/ANTIARRHYTHMIC                                                                                                | ANTIANGINA/ANTIARRHYTHMIC                                                                                                                                                                                                                                   | ANTIANGINA/ANTIARRHYTHMIC                                                                                                                                                                                                                                                                                 |
+|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Disopyramide Flecainide Lidocaine (systemic) Mexiletine Propafenone Amiodarone Bepridil Dronedarone Ivabradine Quinidine | Based on theoretical considerations REZOLSTA is expected to increase these antiarrhythmic plasma concentrations. (CYP3A and/or CYP2D6 inhibition)                                                                                                           | Caution is warranted and therapeutic concentration monitoring, if available, is recommended for these antiarrhythmics when co-administered with REZOLSTA. Co-administration of amiodarone, bepridil, dronedarone, ivabradine, quinidine, or ranolazine and REZOLSTA is contraindicated (see section 4.3). |
+| Ranolazine Digoxin                                                                                                       | Based on theoretical considerations REZOLSTA is expected to increase digoxin plasma concentrations. (P-glycoprotein inhibition)                                                                                                                             | It is recommended that the lowest possible dose of digoxin should initially be given to patients on REZOLSTA. The digoxin dose should be carefully titrated to obtain the desired clinical effect while assessing the overall clinical state of the subject.                                              |
+| ANTIBIOTIC                                                                                                               |                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                           |
+| Clarithromycin                                                                                                           | Based on theoretical considerations clarithromycin is expected to increase darunavir and/or cobicistat plasma concentrations. (CYP3A inhibition) Concentrations of clarithromycin may be increased upon co-administration with REZOLSTA. (CYP3A inhibition) | Caution should be exercised when clarithromycin is combined with REZOLSTA. For patients with renal impairment the Summary of Product Characteristics for clarithromycin should be consulted for the recommended dose.                                                                                     |
+| ANTICOAGULANT/PLATELET AGGREGATION INHIBITOR                                                                             | ANTICOAGULANT/PLATELET AGGREGATION INHIBITOR                                                                                                                                                                                                                | ANTICOAGULANT/PLATELET AGGREGATION INHIBITOR                                                                                                                                                                                                                                                              |
+| Apixaban Rivaroxaban                                                                                                     | Based on theoretical considerations co-administration of REZOLSTA with these anticoagulants may increase concentrations of the anticoagulant. (CYP3A and/or P-glycoprotein inhibition)                                                                      | Co-administration of REZOLSTA with a direct oral anticoagulant (DOAC) that is metabolised by CYP3A4 and transported by P-gp is not recommended as this may lead to an increased bleeding risk.                                                                                                            |
+
+<div style=\"page-break-after: always\"></div>
+
+| Dabigatran etexilate Edoxaban         | dabigatran etexilate (150 mg): darunavir/cobicistat 800/150 mg single dose: dabigatran AUC ↑ 164% dabigatran C max ↑ 164% darunavir/cobicistat 800/150 mg once daily: dabigatran AUC ↑ 88% dabigatran C max ↑ 99% Based on theoretical considerations co-administration of REZOLSTA with ticagrelor may increase concentrations of ticagrelor. (CYP3A and/or P-glycoprotein inhibition). Based on theoretical considerations co-administration of REZOLSTA with clopidogrel is expected to decrease clopidogrel active metabolite plasma concentration, which may reduce the antiplatelet activity of clopidogrel. Based on theoretical   | Clinical monitoring and dose reduction is required when a DOAC transported by P-gp but not metabolised by CYP3A4, including dabigatran etexilate and edoxaban, is co-administered with REZOLSTA. Concomitant administration of REZOLSTA with ticagrelor is contraindicated (see section 4.3). Co-administration of REZOLSTA with clopidogrel is   |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ticagrelor                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                   |
+| Clopidogrel                           | considerations REZOLSTA may alter warfarin plasma concentrations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | not recommended. Use of other antiplatelets not affected by CYP inhibition or induction (e.g. prasugrel) is recommended (see section 4.3). It is recommended that the international normalised ratio (INR) be monitored when warfarin is co-administered with                                                                                     |
+| Warfarin                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | REZOLSTA.                                                                                                                                                                                                                                                                                                                                         |
+| ANTICONVULSANTS                       | ANTICONVULSANTS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | ANTICONVULSANTS                                                                                                                                                                                                                                                                                                                                   |
+| Carbamazepine Phenobarbital Phenytoin | Based on theoretical considerations these anticonvulsants are expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Co-administration of REZOLSTA and these anticonvulsants is contraindicated (see section 4.3).                                                                                                                                                                                                                                                     |
+| Clonazepam                            | Based on theoretical considerations REZOLSTA is expected to increase concentrations of clonazepam. (inhibition of CYP3A)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Clinical monitoring is recommended when co-administering REZOLSTA with clonazepam.                                                                                                                                                                                                                                                                |
+| ANTI-DEPRESSANTS                      | ANTI-DEPRESSANTS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | ANTI-DEPRESSANTS                                                                                                                                                                                                                                                                                                                                  |
+| Herbal supplements St John's Wort     | Based on theoretical considerations St John's Wort is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Co-administration of St John's Wort and REZOLSTA is contraindicated (see section 4.3).                                                                                                                                                                                                                                                            |
+
+<div style=\"page-break-after: always\"></div>
+
+| Paroxetine Sertraline                                                       | Based on theoretical considerations REZOLSTA is expected to increase these anti-depressant plasma concentrations. (CYP2D6 and/or CYP3A inhibition) Prior data with ritonavir-boosted darunavir however showed a decrease in these anti-depressant plasma concentrations (unknown mechanism); the latter may be specific to ritonavir.   | If these anti-depressants are to be used with REZOLSTA clinical monitoring is recommended and a dose adjustment of the anti-depressant may be needed.                                                                                                                                                              |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Amitriptyline Desipramine Imipramine Nortriptyline Trazodone ANTI-DIABETICS | Based on theoretical considerations REZOLSTA is expected to increase these anti-depressant plasma concentrations. (CYP2D6 and/or CYP3A inhibition)                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                    |
+| Metformin                                                                   | Based on theoretical considerations REZOLSTA is expected to increase metformin plasma concentrations. (MATE1 inhibition)                                                                                                                                                                                                                | Careful patient monitoring and dose adjustment of metformin is recommended in patients who are taking REZOLSTA.                                                                                                                                                                                                    |
+| ANTIEMETICS                                                                 |                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                    |
+| Domperidone                                                                 | Not studied.                                                                                                                                                                                                                                                                                                                            | Co-administration of domperidone with REZOLSTA is contraindicated.                                                                                                                                                                                                                                                 |
+| ANTIFUNGALS                                                                 |                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                    |
+| Clotrimazole Fluconazole Itraconazole Isavuconazole Posaconazole            | Based on theoretical considerations REZOLSTA is expected to increase these antifungal plasma concentrations, and darunavir and/or cobicistat plasma concentrations may be increased by the antifungals. (CYP3A inhibition and/or P-gp inhibition)                                                                                       | Caution is warranted and clinical monitoring is recommended. When co-administration is required, the daily dose of itraconazole should not exceed 200 mg.                                                                                                                                                          |
+| Voriconazole                                                                | Concentrations of voriconazole may increase or decrease when co-administered with REZOLSTA.                                                                                                                                                                                                                                             | Voriconazole should not be combined with REZOLSTA unless an assessment of the benefit/risk ratio justifies the use of voriconazole.                                                                                                                                                                                |
+| ANTIGOUT MEDICINES                                                          |                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                    |
+| Colchicine                                                                  | Based on theoretical considerations REZOLSTA is expected to increase colchicine plasma concentrations. (CYP3A and/or P-glycoprotein inhibition)                                                                                                                                                                                         | A reduction in colchicine dosage or an interruption of colchicine treatment is recommended in patients with normal renal or hepatic function if treatment with REZOLSTA is required. The combination of colchicine and REZOLSTA is contraindicated in patients with renal or hepatic impairment (see section 4.3). |
+
+<div style=\"page-break-after: always\"></div>
+
+| ANTIMALARIALS                               | ANTIMALARIALS                                                                                                                                              | ANTIMALARIALS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Artemether/Lumefantrine                     | Based on theoretical considerations REZOLSTA is expected to increase lumefantrine plasma concentrations. (CYP3A inhibition)                                | REZOLSTA and artemether/lumefantrine can be used without dose adjustments; however, due to the increase in lumefantrine exposure, the combination should be used with caution.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ANTIMYCOBACTERIALS                          | ANTIMYCOBACTERIALS                                                                                                                                         | ANTIMYCOBACTERIALS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Rifampicin                                  | Based on theoretical considerations rifampin is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction)                  | The combination of rifampicin and REZOLSTA is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Rifabutin Rifapentine                       | Based on theoretical considerations these antimycobacterials are expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction) | Co-administration of REZOLSTA with rifabutin and rifapentine is not recommended. If the combination is needed, the recommended dose of rifabutin is 150 mg 3 times per week on set days (for example Monday-Wednesday-Friday). Increased monitoring for rifabutin associated adverse reactions including neutropenia and uveitis is warranted due to an expected increase in exposure to rifabutin. Further dosage reduction of rifabutin has not been studied. It should be kept in mind that the twice weekly dosage of 150 mg may not provide an optimal exposure to rifabutin thus leading to a risk of rifamycin resistance and a treatment failure. Consideration should be given to official guidance on the appropriate treatment of tuberculosis in HIV infected patients. This recommendation is different from ritonavir-boosted darunavir. Consult the Summary of Product Characteristics for darunavir for |
+| ANTI-NEOPLASTICS                            | ANTI-NEOPLASTICS                                                                                                                                           | ANTI-NEOPLASTICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Dasatinib Nilotinib Vinblastine Vincristine | Based on theoretical considerations REZOLSTA is expected to increase these anti-neoplastic plasma concentrations. (CYP3A inhibition)                       | further details. Concentrations of these medicinal products may be increased when co-administered with REZOLSTA resulting in the potential for increased adverse events usually associated with these medicinal products. Caution should be exercised when combining one of these anti-neoplastic agents with REZOLSTA. Concomitant use of everolimus or irinotecan and REZOLSTA is not recommended.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Everolimus Irinotecan                       |                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+
+<div style=\"page-break-after: always\"></div>
+
+| ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                                                 | ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                                                                                                                                                        | ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Perphenazine Risperidone Thioridazine Lurasidone Pimozide Sertindole Quetiapine                                                                                             | Based on theoretical considerations REZOLSTA is expected to increase these neuroleptic plasma concentrations. (CYP3A, CYP2D6 and/or P-gp inhibition)                                                                                                                               | Clinical monitoring is recommended when co-administering REZOLSTA perphenazine, risperidone or thioridazine. For these neuroleptics, consider reducing the dose of the neuroleptic upon co-administration with REZOLSTA. The combination of lurasidone, pimozide, quetiapine or sertindole and REZOLSTA is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                               |
+| β-BLOCKERS                                                                                                                                                                  |                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Carvedilol Metoprolol Timolol                                                                                                                                               | Based on theoretical considerations REZOLSTA is expected to increase these beta blocker plasma concentrations. (CYP3A inhibition)                                                                                                                                                  | Clinical monitoring is recommended when co-administering REZOLSTA with beta-blockers and a lower dose of the beta-blocker should be considered.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| CALCIUM CHANNEL BLOCKERS                                                                                                                                                    | CALCIUM CHANNEL BLOCKERS                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Amlodipine Diltiazem Felodipine Nicardipine Nifedipine Verapamil Corticosteroids primarily metabolised by CYP3A (including budesonide, fluticasone, mometasone, prednisone, | Based on theoretical considerations REZOLSTA is expected to increase these calcium channel blocker plasma concentrations. (CYP3A and/or CYP2D6 inhibition) Based on theoretical considerations REZOLSTA is expected to increase these corticosteroid plasma concentrations. (CYP3A | Clinical monitoring of therapeutic and adverse effects is recommended when these medicines are co-administered with REZOLSTA.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| CORTICOSTEROIDS                                                                                                                                                             | CORTICOSTEROIDS                                                                                                                                                                                                                                                                    | CORTICOSTEROIDS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| betamethasone, triamcinolone).                                                                                                                                              | inhibition)                                                                                                                                                                                                                                                                        | Concomitant use of REZOLSTA and corticosteroids (all routes of administration) that are metabolised by CYP3A may increase the risk of development of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression. Co-administration with CYP3A- metabolised corticosteroids is not recommended unless the potential benefit to the patient outweighs the risk, in which case patients should be monitored for systemic corticosteroid effects. Alternative corticosteroids which are less dependent on CYP3A metabolism e.g. beclomethasone should be considered, particularly for long term use. |
+| Dexamethasone (systemic)                                                                                                                                                    | Based on theoretical considerations (systemic) dexamethasone is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction)                                                                                                                          | Systemic dexamethasone should be used with caution when combined with REZOLSTA.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+<div style=\"page-break-after: always\"></div>
+
+| ENDOTHELIN RECEPTOR ANTAGONISTS                                | ENDOTHELIN RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                                                 | ENDOTHELIN RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                        |
+|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bosentan                                                       | Based on theoretical considerations bosentan is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction) REZOLSTA is expected to increase bosentan plasma concentrations. (CYP3A inhibition)                                                                                                                                                                                   | Co-administration of REZOLSTA and bosentan is not recommended.                                                                                                                                                                                                                                                                                                                         |
+| HEPATITIS C VIRUS (HCV) DIRECT-ACTING ANTIVIRALS               | HEPATITIS C VIRUS (HCV) DIRECT-ACTING ANTIVIRALS                                                                                                                                                                                                                                                                                                                                                                | HEPATITIS C VIRUS (HCV) DIRECT-ACTING ANTIVIRALS                                                                                                                                                                                                                                                                                                                                       |
+| NS3-4A inhibitors                                              | NS3-4A inhibitors                                                                                                                                                                                                                                                                                                                                                                                               | NS3-4A inhibitors                                                                                                                                                                                                                                                                                                                                                                      |
+| Elbasvir/grazoprevir                                           | Based on theoretical considerations REZOLSTA may increase the exposure to grazoprevir. (OATP1B and CYP3A inhibition)                                                                                                                                                                                                                                                                                            | Concomitant use of REZOLSTA with elbasvir/grazoprevir is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                            |
+| Glecaprevir/pibrentasvir                                       | Based on theoretical considerations REZOLSTA may increase the exposure to glecaprevir and pibrentasvir. (P-gp, BCRP and/or OATP1B1/3 inhibition)                                                                                                                                                                                                                                                                | It is not recommended to co-administer REZOLSTA with glecaprevir/pibrentasvir.                                                                                                                                                                                                                                                                                                         |
+| HMGCO-A REDUCTASE INHIBITORS                                   | HMGCO-A REDUCTASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                    | HMGCO-A REDUCTASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                           |
+| Atorvastatin Fluvastatin Pitavastatin Pravastatin Rosuvastatin | Atorvastatin (10 mg once daily): atorvastatin AUC ↑ 290% atorvastatin C max ↑ 319% atorvastatin C min ND Rosuvastatin (10 mg once daily): rosuvastatin AUC ↑ 93% rosuvastatin C max ↑ 277% rosuvastatin C min ND Based on theoretical considerations REZOLSTA is expected to increase the plasma concentrations of fluvastatin, pitavastatin, pravastatin, lovastatin and simvastatin. (CYP3A inhibition and/or | Concomitant use of a HMGCoA reductase inhibitor and REZOLSTA may increase plasma concentrations of the lipid lowering agent, which may lead to adverse events such as myopathy. When administration of HMGCoA reductase inhibitors and REZOLSTA is desired, it is recommended to start with the lowest dose and titrate up to the desired clinical effect while monitoring for safety. |
+| Lovastatin Simvastatin                                         | transport)                                                                                                                                                                                                                                                                                                                                                                                                      | Concomitant use of REZOLSTA with lovastatin and simvastatin is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                      |
+| OTHER LIPID MODIFYING AGENTS                                   | OTHER LIPID MODIFYING AGENTS                                                                                                                                                                                                                                                                                                                                                                                    | OTHER LIPID MODIFYING AGENTS                                                                                                                                                                                                                                                                                                                                                           |
+| Lomitapide                                                     | Based on theoretical considerations, REZOLSTA is expected to increase the exposure of lomitapide when co-administered. (CYP3A inhibition)                                                                                                                                                                                                                                                                       | Co-administration is contraindicated (see section 4.3)                                                                                                                                                                                                                                                                                                                                 |
+| H2 -RECEPTOR ANTAGONISTS                                       | H2 -RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                                                        | H2 -RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                               |
+| Cimetidine Famotidine Nizatidine Ranitidine                    | Based on theoretical considerations, no mechanistic interaction is expected.                                                                                                                                                                                                                                                                                                                                    | REZOLSTA can be co-administered with H 2 -receptor antagonists without dose adjustments.                                                                                                                                                                                                                                                                                               |
+
+<div style=\"page-break-after: always\"></div>
+
+| IMMUNOSUPPRESSANTS                                 | IMMUNOSUPPRESSANTS                                                                                                                                                                                                                                                               | IMMUNOSUPPRESSANTS                                                                                                                                                                                                          |
+|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ciclosporin Sirolimus Tacrolimus                   | Based on theoretical considerations REZOLSTA is expected to increase these immunosuppressant plasma concentrations. (CYP3A inhibition)                                                                                                                                           | Therapeutic drug monitoring of the immunosuppressive agent must be done when co-administration occurs.                                                                                                                      |
+| Everolimus                                         |                                                                                                                                                                                                                                                                                  | Concomitant use of everolimus and REZOLSTA is not recommended.                                                                                                                                                              |
+| INHALED BETA AGONISTS                              | INHALED BETA AGONISTS                                                                                                                                                                                                                                                            | INHALED BETA AGONISTS                                                                                                                                                                                                       |
+| Salmeterol                                         | Based on theoretical considerations REZOLSTA is expected to increase salmeterol plasma concentrations. (CYP3A inhibition)                                                                                                                                                        | Concomitant use of salmeterol and REZOLSTA is not recommended. The combination may result in increased risk of cardiovascular adverse event with salmeterol, including QT prolongation, palpitations and sinus tachycardia. |
+| NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE | NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE                                                                                                                                                                                                                               | NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE                                                                                                                                                                          |
+| Buprenorphine/naloxone                             | Based on theoretical considerations REZOLSTA may increase buprenorphine and/or norbuprenorphine plasma concentrations.                                                                                                                                                           | Dose adjustment for buprenorphine may not be necessary when co-administered with REZOLSTA but a careful clinical monitoring for signs of opiate toxicity is recommended.                                                    |
+| Methadone                                          | Based on theoretical considerations REZOLSTA may increase methadone plasma concentrations. With ritonavir-boosted darunavir, a small decrease in methadone plasma concentrations was observed. Consult the Summary of Product Characteristics for darunavir for further details. | No adjustment of methadone dosage is expected when initiating co-administration with REZOLSTA. Clinical monitoring is recommended, as maintenance therapy may need to be adjusted in some patients.                         |
+| Fentanyl Oxycodone Tramadol                        | Based on theoretical considerations REZOLSTA may increase plasma concentrations of these analgesics. (CYP2D6 and/or CYP3A inhibition)                                                                                                                                            | Clinical monitoring is recommended when co-administering REZOLSTA with these analgesics.                                                                                                                                    |
+| OESTROGEN-BASED CONTRACEPTIVES                     | OESTROGEN-BASED CONTRACEPTIVES                                                                                                                                                                                                                                                   | OESTROGEN-BASED CONTRACEPTIVES                                                                                                                                                                                              |
+| Drospirenone (3 mg once daily)                     | drospirenone AUC ↑ 58% drospirenone C max ↑ 15% drospirenone C min ND                                                                                                                                                                                                            | Alternative or additional contraceptive measures are recommended when oestrogen based contraceptives are co administered with REZOLSTA. Patients using oestrogens as                                                        |
+| Ethinylestradiol (0.02 mg once daily)              | ethinylestradiol AUC ↓ 30% ethinylestradiol C max ↓ 14% ethinylestradiol C min ND                                                                                                                                                                                                | hormone replacement therapy should be clinically monitored for                                                                                                                                                              |
+| Norethindrone                                      | Based on theoretical considerations REZOLSTA may alter norethindrone plasma concentrations. (CYP3A inhibition, UGT/SULT induction)                                                                                                                                               | signs of oestrogen deficiency. When REZOLSTA is co-administered with a drospirenone-containing product, clinical monitoring is recommended due to the potential for hyperkalaemia.                                          |
+
+<div style=\"page-break-after: always\"></div>
+
+| OPIOID ANTAGONIST - Naloxegol                                                 | OPIOID ANTAGONIST - Not studied.                                                                                                     | OPIOID ANTAGONIST - Co-administration of REZOLSTA and naloxegol is contraindicated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                  | PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                                                                         | PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| For the treatment of erectile dysfunction Sildenafil Tadalafil Vardenafil     | Based on theoretical considerations REZOLSTA is expected to increase these PDE-5 inhibitor plasma concentrations. (CYP3A inhibition) | Concomitant use of PDE-5 inhibitors for the treatment of erectile dysfunction with REZOLSTA should be done with caution. If concomitant use of REZOLSTA with sildenafil, vardenafil or tadalafil is indicated, sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg in 72 hours or tadalafil at a single dose not exceeding 10 mg in 72 hours is recommended. The combination of avanafil and                                                                                                                                         |
+| Avanafil                                                                      |                                                                                                                                      | REZOLSTA is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| For the treatment of pulmonary arterial hypertension Sildenafil Tadalafil     | Based on theoretical considerations REZOLSTA is expected to increase these PDE-5 inhibitor plasma concentrations. (CYP3A inhibition) | A safe and effective dose of sildenafil for the treatment of pulmonary arterial hypertension co-administered with REZOLSTA has not been established. There is an increased potential for sildenafil-associated adverse events (including visual disturbances, hypotension, prolonged erection and syncope). Therefore, co-administration of REZOLSTA and sildenafil when used for the treatment of pulmonary arterial hypertension is contraindicated (see section 4.3). Co-administration of tadalafil for the treatment of pulmonary arterial hypertension with REZOLSTA is not recommended. |
+| PROTON PUMP INHIBITORS                                                        | PROTON PUMP INHIBITORS                                                                                                               | PROTON PUMP INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Dexlansoprazole Esomeprazole Lansoprazole Omeprazole Pantoprazole Rabeprazole | Based on theoretical considerations, no mechanistic interaction is expected.                                                         | REZOLSTA can be co-administered with proton pump inhibitors without dose adjustments.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+<div style=\"page-break-after: always\"></div>
+
+| SEDATIVES/HYPNOTICS                                                                                  | SEDATIVES/HYPNOTICS                                                                                                                    | SEDATIVES/HYPNOTICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Buspirone Clorazepate Diazepam Estazolam Flurazepam Midazolam (parenteral) Zolpidem Midazolam (oral) | Based on theoretical considerations REZOLSTA is expected to increase these sedative/hypnotic plasma concentrations. (CYP3A inhibition) | Clinical monitoring is recommended when co-administering REZOLSTA with these sedatives/hypnotics and a lower dose of the sedatives/hypnotics should be considered. Caution should be used with co-administration of REZOLSTA and parenteral midazolam. If REZOLSTA is co-administered with parenteral midazolam, it should be done in an intensive care unit or similar setting, which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dose adjustment for midazolam should be considered, especially if more than a single dose of midazolam is administered. Co-administration of oral midazolam or triazolam and REZOLSTA is contraindicated |
+| TREATMENT FOR PREMATURE EJACULATION                                                                  | TREATMENT FOR PREMATURE EJACULATION                                                                                                    | TREATMENT FOR PREMATURE EJACULATION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Triazolam Dapoxetine                                                                                 | Not studied.                                                                                                                           | (see section 4.3). Co-administration of REZOLSTA with dapoxetine is contraindicated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| UROLOGICAL DRUGS                                                                                     | UROLOGICAL DRUGS                                                                                                                       | UROLOGICAL DRUGS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Fesoterodine Solifenacin                                                                             | Not studied.                                                                                                                           | Use with caution. Monitor for fesoterodine or solifenacin adverse reactions, dose reduction of fesoterodine or solifenacin may be necessary.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Pregnancy
+
+There are no adequate and well controlled trials with darunavir, or cobicistat, in pregnant women. Studies in animals do not indicate direct harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development (see section 5.3).
+
+Treatment with darunavir/cobicistat 800/150 mg during pregnancy results in low darunavir exposure (see section 5.2), which may be associated with an increased risk of treatment failure and an increased risk of HIV transmission to the child. Therefore, this combination should not be initiated during pregnancy, and women who become pregnant during therapy with REZOLSTA should be switched to an alternative regimen (see sections 4.2 and 4.4).
+
+## Breast-feeding
+
+It is not known whether darunavir or cobicistat are excreted in human milk. Studies in rats have demonstrated that darunavir is excreted in milk and at high levels (1,000 mg/kg/day) resulted in toxicity of the offspring. Studies in animals have demonstrated that cobicistat is excreted in milk.
+
+<div style=\"page-break-after: always\"></div>
+
+Because of the potential for adverse reactions in breast-fed infants, women should be instructed not to breast-feed if they are receiving REZOLSTA.
+
+In order to avoid transmission of HIV to the infant it is recommended that women living with HIV do not breast-feed.
+
+## Fertility
+
+No human data on the effect of darunavir or cobicistat on fertility are available. There was no effect on mating or fertility in animals (see section 5.3). Based on animal studies, no effect on mating or fertility is expected with REZOLSTA.
+
+## 4.7 Effects on ability to drive and use machines
+
+REZOLSTA may have a minor influence on the ability to drive and use machines. Dizziness has been reported in some patients during treatment with regimens containing darunavir administered with cobicistat and should be borne in mind when considering a patient's ability to drive or operate machinery.
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+The overall safety profile of REZOLSTA is based on available clinical trial data from darunavir boosted with either cobicistat or ritonavir, from cobicistat and from post-marketing data from darunavir/ritonavir.
+
+As REZOLSTA contains darunavir and cobicistat, the adverse reactions associated with each of the individual compounds may be expected.
+
+The most frequent adverse reactions reported in the pooled data of the Phase III study GS-US-216-130 and the REZOLSTA arm of Phase III study TMC114FD2HTX3001 were diarrhoea (23%), nausea (17%), rash (13%), and headache (10%). Serious adverse reactions were diabetes mellitus, (drug) hypersensitivity, immune reconstitution inflammatory syndrome, rash, Stevens-Johnson syndrome, and vomiting. All of these serious ADRs occurred in one (0.1%) subject except for rash in 4 (0.6%) subjects.
+
+The most frequent adverse reactions reported during the darunavir/ritonavir clinical development program and as spontaneous reports are diarrhoea, nausea, rash, headache, and vomiting. The most frequent serious reactions are acute renal failure, myocardial infarction, immune reconstitution inflammatory syndrome, thrombocytopenia, osteonecrosis, diarrhoea, hepatitis, and pyrexia.
+
+In the 96 week analysis, the safety profile of darunavir/ritonavir 800/100 mg once daily in treatment-naïve subjects was similar to that seen with darunavir/ritonavir 600/100 mg twice daily in treatment-experienced subjects except for nausea which was observed more frequently in treatment-naïve subjects. This was driven by mild intensity nausea.
+
+## Tabulated list of adverse reactions
+
+Adverse reactions are listed by system organ class (SOC) and frequency category in Table 2. Within each frequency category, adverse reactions are presented in order of decreasing seriousness. Frequency categories are defined as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000) and not known (frequency cannot be estimated from the available data).
+
+<div style=\"page-break-after: always\"></div>
+
+| Table 2 Adverse reactions with darunavir/cobicistat in adult - MedDRA system organ class Frequency category   | patients - Adverse reaction                                                                                              |
+|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                                                                                       |                                                                                                                          |
+| Common                                                                                                        | (drug) hypersensitivity                                                                                                  |
+| Uncommon                                                                                                      | immune reconstitution inflammatory syndrome                                                                              |
+| Metabolism and nutrition disorders                                                                            |                                                                                                                          |
+| Common                                                                                                        | anorexia, hypercholesterolaemia, hypertriglyceridaemia                                                                   |
+| Uncommon                                                                                                      | diabetes mellitus, dyslipidaemia, hyperglycaemia, hyperlipidaemia                                                        |
+| Psychiatric disorders                                                                                         |                                                                                                                          |
+| Common                                                                                                        | abnormal dreams                                                                                                          |
+| Nervous system disorders                                                                                      |                                                                                                                          |
+| Very common                                                                                                   | headache                                                                                                                 |
+| Gastrointestinal disorders                                                                                    |                                                                                                                          |
+| Very common                                                                                                   | diarrhoea, nausea                                                                                                        |
+| Common                                                                                                        | vomiting, abdominal pain, abdominal distension, dyspepsia, flatulence                                                    |
+| Uncommon                                                                                                      | pancreatitis acute, pancreatic enzymes increased                                                                         |
+| Hepatobiliary disorders                                                                                       |                                                                                                                          |
+| Common                                                                                                        | hepatic enzyme increased                                                                                                 |
+| Uncommon                                                                                                      | hepatitis*, cytolytic hepatitis*                                                                                         |
+| Skin and subcutaneous tissue disorders                                                                        |                                                                                                                          |
+| Very common                                                                                                   | rash (including macular, maculopapular, papular, erythematous, pruritic rash, generalised rash, and allergic dermatitis) |
+| Common                                                                                                        | pruritus                                                                                                                 |
+| Uncommon                                                                                                      | Stevens-Johnson syndrome # , angioedema, urticaria                                                                       |
+| Rare                                                                                                          | drug reaction with eosinophilia and systemic symptoms*                                                                   |
+| Not known                                                                                                     | toxic epidermal necrolysis*, acute generalised exanthematous pustulosis*                                                 |
+| Musculoskeletal and connective tissue disorders                                                               |                                                                                                                          |
+| Common                                                                                                        | myalgia                                                                                                                  |
+| Uncommon                                                                                                      | osteonecrosis*                                                                                                           |
+| Renal and urinary disorders                                                                                   |                                                                                                                          |
+| Rare                                                                                                          | crystal nephropathy* §                                                                                                   |
+| Reproductive system and breast disorders                                                                      |                                                                                                                          |
+| Uncommon                                                                                                      | gynaecomastia*                                                                                                           |
+| General disorders and administration site                                                                     | conditions                                                                                                               |
+| Common                                                                                                        | fatigue, asthenia                                                                                                        |
+
+<div style=\"page-break-after: always\"></div>
+
+| Investigations   | Investigations             |
+|------------------|----------------------------|
+| Common           | increased blood creatinine |
+
+* These adverse drug reactions have not been reported in clinical trial experience with darunavir/cobicistat but have been noted with darunavir/ritonavir treatment and could be expected with darunavir/cobicistat too.
+- # When also taking into account the clinical trial data of DRV/COBI/emtricitabine/tenofovir alafenamide, StevensJohnson syndrome occurred rarely (in 1 out of 2,551 subjects) consistent with the DRV/rtv clinical trial program (see Severe skin reactions in section 4.4).
+- § Adverse reaction identified in the post-marketing setting. Per the guideline on Summary of Product Characteristics (Revision 2, September 2009), the frequency of this adverse reaction in the post-marketing setting was determined using the \"Rule of 3\".
+
+## Description of selected adverse reactions
+
+## Rash
+
+In clinical trials with darunavir/ritonavir and darunavir/cobicistat, rash was mostly mild to moderate, often occurring within the first four weeks of treatment and resolving with continued dosing (see section 4.4). The pooled data of a single-arm trial investigating darunavir 800 mg once daily in combination with cobicistat 150 mg once daily and other antiretrovirals and one arm of a trial in which REZOLSTA 800/150 mg once daily and other antiretrovirals were administered, showed that 1.9% of patients discontinued treatment due to rash.
+
+## Metabolic parameters
+
+Weight and levels of blood lipids and glucose may increase during antiretroviral therapy (see section 4.4).
+
+## Musculoskeletal abnormalities
+
+Increased CPK, myalgia, myositis and, rarely, rhabdomyolysis have been reported with the use of HIV protease inhibitors, particularly in combination with NRTIs.
+
+Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART). The frequency of this is unknown (see section 4.4).
+
+## Immune reconstitution inflammatory syndrome
+
+In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
+
+## Bleeding in haemophiliac patients
+
+There have been reports of increased spontaneous bleeding in haemophiliac patients receiving antiretroviral protease inhibitors (see section 4.4).
+
+## Decrease estimated creatinine clearance
+
+Cobicistat has been shown to decrease estimated creatinine clearance due to inhibition of renal tubular secretion of creatinine. An increase in serum creatinine due to the inhibitory effect of cobicistat generally does not exceed 0.4 mg/dL.
+
+The effect of cobicistat on serum creatinine was investigated in a Phase I trial in subjects with normal renal function (eGFR ≥ 80 mL/min, n = 12) and mild to moderate renal impairment (eGFR: 50-79 mL/min, n = 18). Change of estimated glomerular filtration rate calculated by Cockcroft-Gault method (eGFRCG) from baseline was observed within 7 days after start of treatment with cobicistat 150 mg among subjects with normal renal function (-9.9 ± 13.1 mL/min) and mild to moderate renal impairment (-11.9 ± 7.0 mL/min). These decreases in eGFRCG were reversible after cobicistat was discontinued and did not affect the actual glomerular filtration rate, as determined by the clearance of probe drug iohexol.
+
+<div style=\"page-break-after: always\"></div>
+
+In the Phase III single-arm trial (GS-US-216-130), a decrease in eGFRCG was noted at week 2, which remained stable through week 48. The mean eGFRCG change from baseline was -9.6 mL/min at week 2, and -9.6 mL/min at week 48. In the REZOLSTA arm of Phase III trial TMC114FD2HTX3001, mean eGFRCG change from baseline was -11.1 mL/min at week 48 and mean eGFRcystatin C change from baseline was +2.9 mL/min/1.73 m² at week 48.
+
+For more information consult the cobicistat Summary of Product Characteristics.
+
+## Paediatric population
+
+The safety of darunavir in combination with cobicistat was evaluated through clinical study GS-US216-0128 in virologically suppressed adolescents aged 12 to less than 18 years, weighing at least 40 kg (cohort 1; N = 7), children aged 6 to less than 12 years, weighing at least 25 kg to less than 40 kg (cohort 2; N = 8) and children aged ≥ 3 years weighing at least 15 kg to less than 25 kg (cohort 3, N = 11). Safety analyses of this study in a limited number of adolescent and paediatric subjects aged at least 3 years did not identify new safety concerns compared to the known safety profile in adult subjects.
+
+## Other special populations
+
+## Patients co-infected with hepatitis B and/or hepatitis C virus
+
+Limited information is available on the use of REZOLSTA in patients co-infected with hepatitis B and/or C virus. Among 1,968 treatment-experienced patients receiving darunavir co-administered with ritonavir 600/100 mg twice daily, 236 patients were co-infected with hepatitis B or C. Co-infected patients were more likely to have baseline and treatment emergent hepatic transaminase elevations than those without chronic viral hepatitis (see section 4.4).
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+Human experience of acute overdose with REZOLSTA or darunavir in combination with cobicistat is limited. Single doses up to 3,200 mg of darunavir as oral solution alone and up to 1,600 mg of the tablet formulation of darunavir in combination with ritonavir have been administered to healthy volunteers without untoward symptomatic effects.
+
+There is no specific antidote for overdose with REZOLSTA. Treatment of overdose consists of general supportive measures including monitoring of vital signs and observation of the clinical status of the patient. Since darunavir and cobicistat are highly protein bound, dialysis is unlikely to be beneficial in significant removal of the active substances.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Antivirals for systemic use, antivirals for treatment of HIV infection, combinations ATC code: J05AR14
+
+<div style=\"page-break-after: always\"></div>
+
+## Mechanism of action
+
+Darunavir is an inhibitor of the dimerisation and of the catalytic activity of the HIV-1 protease (KD of 4.5 x 10 -12 M). It selectively inhibits the cleavage of HIV encoded Gag-Pol polyproteins in virus infected cells, thereby preventing the formation of mature infectious virus particles.
+
+Cobicistat is a mechanism-based inhibitor of cytochromes P450 of the CYP3A subfamily. Inhibition of CYP3A-mediated metabolism by cobicistat enhances the systemic exposure of CYP3A substrates, such as darunavir, where bioavailability is limited and half-life is shortened due to CYP3A-dependent metabolism.
+
+## Antiviral activity in vitro
+
+Darunavir exhibits activity against laboratory strains and clinical isolates of HIV-1 and laboratory strains of HIV-2 in acutely infected T-cell lines, human peripheral blood mononuclear cells and human monocytes/macrophages with median EC50 values ranging from 1.2 to 8.5 nM (0.7 to 5.0 ng/mL). Darunavir demonstrates antiviral activity in vitro against a broad panel of HIV-1 group M (A, B, C, D, E, F, G) and group O primary isolates with EC50 values ranging from &lt; 0.1 to 4.3 nM. These EC50 values are well below the 50% cellular toxicity concentration range of 87 µM to &gt; 100 µM.
+
+Cobicistat has no detectable antiviral activity against HIV-1 and does not antagonise the antiviral effect of darunavir.
+
+## Resistance
+
+In vitro selection of darunavir-resistant virus from wild type HIV-1 was lengthy (&gt; 3 years). The selected viruses were unable to grow in the presence of darunavir concentrations above 400 nM. Viruses selected in these conditions and showing decreased susceptibility to darunavir (range: 23-50-fold) harboured 2 to 4 amino acid substitutions in the protease gene. The decreased susceptibility to darunavir of the emerging viruses in the selection experiment could not be explained by the emergence of these protease mutations.
+
+The resistance profile of REZOLSTA is driven by darunavir. Cobicistat does not select any HIV resistance mutations, due to its lack of antiviral activity. The resistance profile of REZOLSTA is supported by two Phase III trials conducted with darunavir/ritonavir in treatment-naïve (ARTEMIS) and treatment-experienced (ODIN) patients and the analysis of 48 week data from trial GS-US-216-130 in treatment-naïve and treatment-experienced patients.
+
+Low rates of developing resistant HIV-1 virus were observed in ART-naïve patients who are treated for the first time with REZOLSTA or darunavir/ritonavir 800/100 mg once daily in combination with other ART, and in ART-experienced patients with no darunavir RAMs receiving REZOLSTA or darunavir/ritonavir 800/100 mg once daily in combination with other ART. Table 3 below shows the development of HIV-1 protease mutations and loss of susceptibility to HIV PIs in virologic failures at endpoint in the GS-US-216-130, ARTEMIS and ODIN trials.
+
+| Table 3 - Number of subjects with                                             | Table 3 - GS-US-216-130 a - Treatment-naïve Treatment-experienced Treatment-naïve Treatment-experienced Treatment-experienced - darunavir/ cobicistat 800/150 mg once daily N = 295   | Table 3 - GS-US-216-130 a - Treatment-naïve Treatment-experienced Treatment-naïve Treatment-experienced Treatment-experienced - darunavir/ cobicistat 800/150 mg once daily N = 18   | Table 3 - ARTEMIS b - Treatment-naïve Treatment-experienced Treatment-naïve Treatment-experienced Treatment-experienced - darunavir/ ritonavir 800/100 mg once daily N = 343   | Table 3 - ODIN b - Treatment-naïve Treatment-experienced Treatment-naïve Treatment-experienced Treatment-experienced - darunavir/ ritonavir 800/100 mg once daily N = 294   | Table 3 - ODIN b - Treatment-naïve Treatment-experienced Treatment-naïve Treatment-experienced Treatment-experienced - darunavir/ ritonavir 600/100 mg twice daily N = 296   |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| virologic failure and genotype data that develop mutations c at endpoint, n/N | virologic failure and genotype data that develop mutations c at endpoint, n/N                                                                                                         | virologic failure and genotype data that develop mutations c at endpoint, n/N                                                                                                        | virologic failure and genotype data that develop mutations c at endpoint, n/N                                                                                                  | virologic failure and genotype data that develop mutations c at endpoint, n/N                                                                                               | virologic failure and genotype data that develop mutations c at endpoint, n/N                                                                                                |
+| Primary (major) PI                                                            | 0/8                                                                                                                                                                                   | 1/7                                                                                                                                                                                  | 0/43                                                                                                                                                                           | 1/60                                                                                                                                                                        | 0/42                                                                                                                                                                         |
+| mutations PI RAMs                                                             | 2/8                                                                                                                                                                                   | 1/7                                                                                                                                                                                  | 4/43                                                                                                                                                                           | 7/60                                                                                                                                                                        | 4/42                                                                                                                                                                         |
+
+<div style=\"page-break-after: always\"></div>
+
+| Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N - HIV PI   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   | Number of subjects with virologic failure and phenotype data that show a loss of susceptibility to PIs at endpoint compared to baseline d , n/N   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| darunavir                                                                                                                                                  | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 1/58                                                                                                                                              | 0/41                                                                                                                                              |
+| amprenavir                                                                                                                                                 | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 1/58                                                                                                                                              | 0/40                                                                                                                                              |
+| atazanavir                                                                                                                                                 | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 2/56                                                                                                                                              | 0/40                                                                                                                                              |
+| indinavir                                                                                                                                                  | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 2/57                                                                                                                                              | 0/40                                                                                                                                              |
+| lopinavir                                                                                                                                                  | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 1/58                                                                                                                                              | 0/40                                                                                                                                              |
+| saquinavir                                                                                                                                                 | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 0/56                                                                                                                                              | 0/40                                                                                                                                              |
+| tipranavir                                                                                                                                                 | 0/8                                                                                                                                               | 0/7                                                                                                                                               | 0/39                                                                                                                                              | 0/58                                                                                                                                              | 0/41                                                                                                                                              |
+
+a Virologic failures selected for resistance testing were defined as: never suppressed: HIV-1 RNA &lt; 1 log 10 reduction from baseline and ≥ 50 copies/mL at week 8, confirmed at the following visit; rebound: HIV-1 RNA &lt; 50 copies/mL followed by confirmed HIV-1 RNA to ≥ 400 copies/mL or confirmed &gt; 1 log 10 HIV-1 RNA increase from the nadir; discontinuations with HIV-1 RNA ≥ 400 copies/mL at last visit
+
+b Virologic failures based on TLOVR non-VF censored algorithm (HIV-1 RNA &gt; 50 copies/mL)
+
+c IAS-USA lists
+
+d In GS-US-216-130 baseline phenotype was not available
+
+## Cross-resistance
+
+In the virologic failures of the GS-US-216-130 trial no cross-resistance with other HIV PIs was observed. Refer to the table above for information on ARTEMIS and ODIN.
+
+## Clinical results
+
+The antiretroviral effect of REZOLSTA is due to the darunavir component. The activity of cobicistat as a pharmacokinetic enhancer to darunavir has been demonstrated in pharmacokinetic trials. In these pharmacokinetic trials, the exposure of darunavir 800 mg boosted with cobicistat 150 mg was consistent with that observed when boosted with ritonavir 100 mg. Darunavir as a component of REZOLSTA is bioequivalent to darunavir 800 mg once daily in combination with cobicistat 150 mg once daily co-administered as single medicinal products (see section 5.2).
+
+The evidence of efficacy of REZOLSTA once daily is based on the analysis of 48 week data from trial GS-US-216-130 in ART-naïve and ART-experienced patients, trial TMC114FD2HTX3001 in ART-naïve patients, and two Phase III trials ARTEMIS and ODIN conducted with darunavir/ritonavir 800/100 mg q.d. in ART-naïve and ART-experienced patients, respectively.
+
+## Description of clinical studies of REZOLSTA in adults
+
+## Efficacy of darunavir 800 mg once daily co-administered with 150 mg cobicistat once daily in ART-naïve and ART-experienced patients
+
+GS-US-216-130 is a single-arm, open-label, Phase III trial evaluating the pharmacokinetics, safety, tolerability, and efficacy of darunavir with cobicistat in 313 HIV-1 infected adult patients (295 treatment-naïve and 18 treatment-experienced). These patients received darunavir 800 mg once daily in combination with cobicistat 150 mg once daily with an investigator selected optimised background regimen (OBR) consisting of 2 active NRTIs.
+
+HIV-1 infected patients who were eligible for this trial had a screening genotype showing no darunavir RAMs and plasma HIV-1 RNA ≥ 1,000 copies/mL. Table 4 below shows the efficacy data of the 48 week analyses from the GS-US-216-130 trial:
+
+<div style=\"page-break-after: always\"></div>
+
+| Table 4 - Outcomes at week 48                              | Table 4 - GS-US-216-130 - Treatment-naïve darunavir/cobicistat 800/150 mg once daily + OBR N = 295   | Table 4 - GS-US-216-130 - Treatment-experienced darunavir/cobicistat 800/150 mg once daily + OBR N = 18   | Table 4 - GS-US-216-130 - All subjects darunavir/cobicistat 800/150 mg once daily + OBR N = 313   |
+|------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| HIV-1 RNA < 50 copies/mL a                                 | 245 (83.1%)                                                                                          | 8 (44.4%)                                                                                                 | 253 (80.8%)                                                                                       |
+| mean HIV-1 RNA log change from baseline (log 10 copies/mL) | -3.01                                                                                                | -2.39                                                                                                     | -2.97                                                                                             |
+| CD4+ cell count mean change from baseline b                | +174                                                                                                 | +102                                                                                                      | +170                                                                                              |
+
+a Imputations according to the TLOVR algorithm
+
+b Last Observation Carried Forward imputation
+
+Efficacy of darunavir/cobicistat fixed-dose combination 800/150 mg once daily in ART-naïve patients TMC114FD2HTX3001 is a randomised, active-controlled, double blind, Phase III trial to evaluate the efficacy and safety of darunavir/cobicistat/emtricitabine/tenofovir alafenamide versus darunavir/cobicistat fixed-dose combination + emtricitabine/tenofovir disoproxil fumarate. In the darunavir/cobicistat fixed-dose combination treatment arm, 363 HIV-1 infected, adult, treatment-naïve patients were treated.
+
+HIV-1 infected patients who were eligible for this trial had a plasma HIV-1 RNA ≥ 1,000 copies/mL. Table 5 below shows the 48-week efficacy data of the darunavir/cobicistat arm of the TMC114FD2HTX3001 trial:
+
+| Table 5 - Outcomes at week 48               | Table 5 - TMC114FD2HTX3001 (darunavir/cobicistat arm) - Treatment-naïve darunavir/cobicistat 800/150 mg once daily + emtricitabine/tenofovir disoproxil fumarate N = 363   |
+|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HIV-1 RNA < 50 copies/mL a                  | 321 (88.4%)                                                                                                                                                                |
+| Virologic failure a                         | 12 (3.3%)                                                                                                                                                                  |
+| No virologic data in 48-week window a       | 30 (8.3%)                                                                                                                                                                  |
+| CD4+ cell count mean change from baseline b | +173.8                                                                                                                                                                     |
+
+a Imputations according to the Snapshot algorithm.
+
+b Non completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0
+
+## Description of clinical studies of darunavir/ritonavir in adults
+
+## Efficacy of darunavir 800 mg once daily co-administered with 100 mg ritonavir once daily in ART-naïve patients
+
+The evidence of efficacy of darunavir/ritonavir 800/100 mg once daily is based on the analyses of 192 week data from the randomised, controlled, open-label Phase III trial ARTEMIS in antiretroviral treatment-naïve HIV-1 infected patients comparing darunavir/ritonavir 800/100 mg once daily with lopinavir/ritonavir 800/200 mg per day (given as a twice-daily or as a once-daily regimen). Both arms used a fixed background regimen consisting of tenofovir disoproxil fumarate 300 mg once daily and emtricitabine 200 mg once daily.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 6 below shows the efficacy data of the 48 week and 96 week analyses from the ARTEMIS trial:
+
+| Table 6 - Outcomes                                                                                                                          | Table 6 - ARTEMIS a - darunavir/ ritonavir 800/100 mg once daily N = 343   | Table 6 - ARTEMIS a - Week 48 lopinavir/ ritonavir 800/200 mg per day N = 346   | Table 6 - ARTEMIS a - Treatment difference (95% CI of difference)              | Table 6 - Week 96 b - darunavir/ ritonavir 800/100 mg once daily N = 343   | Table 6 - Week 96 b - lopinavir/ ritonavir 800/200 mg per day N = 346   | Table 6 - Week 96 b - Treatment difference (95% CI of difference)              |
+|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| HIV-1 RNA < 50 copies/mL c All patients With baseline HIV-RNA < 100,000 With baseline HIV-RNA ≥ 100,000 With baseline CD4+ cell count < 200 | 83.7% (287) 85.8% (194/226) 79.5% (93/117) 79.4% (112/141)                 | 78.3% (271) 84.5% (191/226) 66.7% (80/120) 70.3% (104/148)                      | 5.3% (-0.5; 11.2) d 1.3% (-5.2; 7.9) d 12.8% (1.6; 24.1) d 9.2% (-0.8; 19.2) d | 79.0% (271) 80.5% (182/226) 76.1% (89/117) 78.7% (111/141)                 | 70.8% (245) 75.2% (170/226) 62.5% (75/120) 64.9% (96/148)               | 8.2% (1.7; 14.7) d 5.3% (-2.3; 13.0) d 13.6% (1.9; 25.3) d 13.9% (3.5; 24.2) d |
+| With baseline CD4+ cell count ≥ 200                                                                                                         | 86.6% (175/202)                                                            | 84.3% (167/198)                                                                 | 2.3% (-4.6; 9.2) d                                                             | 79.2% (160/202)                                                            | 75.3% (149/198)                                                         | 4.0% (-4.3; 12.2) d                                                            |
+| median CD4+ cell count change from baseline (x 10 6 /L) e                                                                                   | +137                                                                       | +141                                                                            |                                                                                | +171                                                                       | +188                                                                    |                                                                                |
+
+a Data based on analyses at week 48
+
+b Data based on analyses at week 96
+
+- c Imputations according to the TLOVR algorithm
+
+d Based on normal approximation to the difference in % response
+
+e Non-completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0
+
+Non-inferiority in virologic response to the darunavir/ritonavir treatment, defined as the percentage of patients with plasma HIV-1 RNA level &lt; 50 copies/mL, was demonstrated (at the pre-defined 12% non-inferiority margin) for both Intent-To-Treat (ITT) and On Protocol (OP) populations in the 48 week analysis. These results were confirmed in the analyses of data at 96 weeks of treatment in the ARTEMIS trial. These results were sustained up to 192 weeks of treatment in the ARTEMIS trial.
+
+## Efficacy of darunavir 800 mg once daily co - administered with 100 mg ritonavir once daily in ART-experienced patients
+
+ODIN is a Phase III, randomised, open-label trial comparing darunavir/ritonavir 800/100 mg once daily versus darunavir/ritonavir 600/100 mg twice daily in ART-experienced HIV-1 infected patients with screening genotype resistance testing showing no darunavir RAMs (i.e. V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V, L89V) and a screening HIV-1 RNA &gt; 1,000 copies/mL. Efficacy analysis is based on 48 weeks of treatment (see Table 7 below). Both arms used an optimised background regimen (OBR) of ≥ 2 NRTIs.
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                                |                                                         |                                                          |                                             |
+|----------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|---------------------------------------------|
+| Table 7                                                        | Table 7                                                 | Table 7                                                  | Table 7                                     |
+| ODIN                                                           | ODIN                                                    | ODIN                                                     | ODIN                                        |
+|                                                                | Week 48                                                 | Week 48                                                  | Week 48                                     |
+| Outcomes                                                       | darunavir/ritonavir 800/100 mg once daily + OBR N = 294 | darunavir/ritonavir 600/100 mg twice daily + OBR N = 296 | Treatment difference (95% CI of difference) |
+| HIV-1 RNA < 50 copies/mL a With Baseline HIV-1 RNA (copies/mL) | 72.1% (212)                                             | 70.9% (210)                                              | 1.2% (-6.1; 8.5) b                          |
+| < 100,000                                                      | 77.6% (198/255)                                         | 73.2% (194/265)                                          | 4.4% (-3.0; 11.9)                           |
+| ≥ 100,000 With Baseline CD4+ cell                              | 35.9% (14/39)                                           | 51.6% (16/31)                                            | -15.7% (-39.2; 7.7)                         |
+| count (x 10 6 /L) ≥ 100                                        | 75.1% (184/245)                                         | 72.5% (187/258)                                          | 2.6% (-5.1; 10.3)                           |
+| < 100                                                          | 57.1% (28/49)                                           | 60.5% (23/38)                                            | -3.4% (-24.5; 17.8)                         |
+| With HIV-1 clade                                               |                                                         |                                                          |                                             |
+| Type B                                                         | 70.4% (126/179)                                         | 64.3% (128/199)                                          | 6.1% (-3.4; 15.6)                           |
+| Type AE                                                        | 90.5% (38/42)                                           | 91.2% (31/34)                                            | -0.7% (-14.0; 12.6)                         |
+| Type C                                                         | 72.7% (32/44)                                           | 78.8% (26/33)                                            | -6.1% (-2.6; 13.7)                          |
+| Other c                                                        | 55.2% (16/29)                                           | 83.3% (25/30)                                            | -28.2% (-51.0; -5.3)                        |
+| mean CD4+ cell count change from baseline (x 10 6 /L) e        | +108                                                    | +112                                                     | -5 d (-25; 16)                              |
+
+a Imputations according to the TLOVR algorithm
+
+b Based on a normal approximation of the difference in % response
+
+c Clades A1, D, F1, G, K, CRF02\\_AG, CRF12\\_BF, and CRF06\\_CPX
+
+d Difference in means
+
+e Last Observation Carried Forward imputation
+
+At 48 weeks, virologic response, defined as the percentage of patients with plasma HIV-1 RNA level &lt; 50 copies/mL, with darunavir/ritonavir 800/100 mg once daily treatment was demonstrated to be non-inferior (at the pre-defined 12% non-inferiority margin) compared to darunavir/ritonavir 600/100 mg twice daily for both ITT and OP populations.
+
+REZOLSTA should not be used in patients with one or more darunavir resistance associated mutations (DRV-RAMs) or HIV-1 RNA ≥ 100,000 copies/mL or CD4+ cell count &lt; 100 cells x 10 6 /L (see sections 4.2 and 4.4). Limited data is available in patients with HIV-1 clades other than B.
+
+## Paediatric population
+
+## Description of a clinical study of darunavir/cobicistat in adolescents and children
+
+The pharmacokinetics, safety, and antiviral activity of darunavir and cobicistat, at the doses and formulations approved as single agents, and in combination with other antiretroviral agents was assessed in an open label study (GS-US-216-0128) in HIV-1 virologically suppressed paediatric patients. Adolescent participants aged 12 to less than 18 years old, weighing at least 40 kg (cohort 1, N = 7), received darunavir 800 mg and cobicistat 150 mg (administered as separate tablets) and at least 2 NRTIs once daily. Children aged 6 to less than 12 years old and weighing at least 25 kg (cohort 2, N = 8) received darunavir (600, 675, or 800 mg, depending on body weight) and 150 mg cobicistat (administered as separate tablets) and at least 2 NRTIs once daily. Children aged 3 years and older, weighing 15 kg to &lt; 25 kg (cohort 3, N = 11), received 600 mg darunavir and 90 mg cobicistat (administered as separate formulations) and the combination of F/TAF at the dose of 120/15 mg once daily.
+
+Table 8 below shows the main endpoints related to antiviral activity for these cohorts.
+
+<div style=\"page-break-after: always\"></div>
+
+| Table 8 Virologic outcomes in ART-experienced, virologically suppressed children and adolescents at week 48 - GS-US-216-0128 - Outcomes at week 48   | Table 8 Virologic outcomes in ART-experienced, virologically suppressed children and adolescents at week 48 - GS-US-216-0128 - Cohort 1 Darunavir/cobicistat + at least 2 NRTIs (N = 7)   | Table 8 Virologic outcomes in ART-experienced, virologically suppressed children and adolescents at week 48 - GS-US-216-0128 - Cohort 2 Darunavir/cobicistat + at least 2 NRTIs (N = 8)   | Table 8 Virologic outcomes in ART-experienced, virologically suppressed children and adolescents at week 48 - GS-US-216-0128 - Cohort 3 Darunavir/cobicistat + F/TAF (N = 11)   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HIV-1 RNA < 50 copies/mL per FDA Snapshot Approach                                                                                                   | 85.7% (6)                                                                                                                                                                                 | 100% (8)                                                                                                                                                                                  | 90.9% (10)                                                                                                                                                                      |
+| CD4+ percent median change from baseline a                                                                                                           | -6.1%                                                                                                                                                                                     | 0.75%                                                                                                                                                                                     | 1.5%                                                                                                                                                                            |
+| CD4+ cell count median change from baseline a                                                                                                        | -342 cells/mm³                                                                                                                                                                            | -20 cells/mm³                                                                                                                                                                             | 34 cells/mm³                                                                                                                                                                    |
+
+a No imputation (observed data).
+
+## Description of clinical studies of darunavir/ritonavir in adolescents and children
+
+Once-daily darunavir boosted with ritonavir, used with other antiretroviral agents for the treatment of HIV-1 in adolescents and children aged ≥ 3 years and weighing ≥ 15 kg, was approved based on data from Studies TMC114-C230 (DIONE) and TMC114-C228 (ARIEL), supported by model-based pharmacokinetic simulations, extrapolated adult efficacy data, and the established safety profile of twice-daily darunavir/ritonavir in paediatric patients.
+
+In Study TMC114-C230 (DIONE), ART-naïve adolescents weighing ≥ 40 kg (N = 12) received darunavir 800 mg once daily with ritonavir and other antiretroviral agents. Study TMC114-C228 (ARIEL) evaluated ART-experienced children aged 3 to &lt; 6 years and weighing 10 to &lt; 20 kg (N = 21) on a weight-based twice-daily regimen. A pharmacokinetic sub-study of ARIEL assessed DRV/ritonavir exposure in 10 children who received either 40 mg/kg (body weight &lt; 15 kg) or 600 mg (body weight ≥ 15 kg) of darunavir with ritonavir and other antiretrovirals.
+
+Detailed study results are provided in the PREZISTA product information.
+
+## 5.2 Pharmacokinetic properties
+
+Darunavir exposure was shown to be comparable in a bioavailability trial between REZOLSTA and darunavir/ritonavir 800/100 mg q.d. at steady-state and fed conditions in healthy subjects. The bioequivalence between REZOLSTA and darunavir/cobicistat co-administered as single agents was established for 800/150 mg under fed and fasted conditions and for 675/150 mg under fed conditions in healthy subjects. Bioequivalence for darunavir was demonstrated between REZOLSTA 600/90 mg darunavir/cobicistat dispersible tablet and darunavir suspension (100 mg/mL) at a dose of 600 mg co-administered with cobicistat 90 mg as single entities under fed conditions in healthy adults.
+
+## Absorption
+
+## Darunavir
+
+The absolute oral bioavailability of a single 600 mg dose of darunavir alone is approximately 37%.
+
+Darunavir was rapidly absorbed following oral administration of REZOLSTA in healthy volunteers. Maximum plasma concentration of darunavir in the presence of cobicistat is generally achieved within 3 to 4.5 hours. Following oral administration of REZOLSTA in healthy volunteers, maximum plasma concentrations of cobicistat were observed 2 to 5 hours post-dose.
+
+When administered with food, the relative exposure of darunavir is 1.7-fold higher as compared to intake without food. Therefore, REZOLSTA tablets should be taken with food. The type of food does not affect exposure to REZOLSTA.
+
+<div style=\"page-break-after: always\"></div>
+
+## Distribution
+
+## Darunavir
+
+Darunavir is approximately 95% bound to plasma protein. Darunavir binds primarily to plasma α1-acid glycoprotein.
+
+Following intravenous administration, the volume of distribution of darunavir alone was 88.1 ± 59.0 L (Mean ± SD) and increased to 131 ± 49.9 L (Mean ± SD) in the presence of 100 mg twice-daily ritonavir.
+
+## Cobicistat
+
+Cobicistat is 97 to 98% bound to human plasma proteins and the mean plasma to blood-drug concentration ratio was approximately 2.
+
+## Biotransformation
+
+## Darunavir
+
+In vitro experiments with human liver microsomes (HLMs) indicate that darunavir primarily undergoes oxidative metabolism. Darunavir is extensively metabolised by the hepatic CYP system and almost exclusively by isozyme CYP3A4. A  14 C-darunavir trial in healthy volunteers showed that a majority of the radioactivity in plasma after a single 400/100 mg darunavir with ritonavir dose was due to the parent active substance. At least 3 oxidative metabolites of darunavir have been identified in humans; all showed activity that was at least 10-fold less than the activity of darunavir against wild type HIV.
+
+## Cobicistat
+
+Cobicistat is metabolised via CYP3A (major)- and CYP2D6 (minor)-mediated oxidation and does not undergo glucuronidation. Following oral administration of  14 C-cobicistat, 99% of circulating radioactivity in plasma was unchanged cobicistat. Low levels of metabolites are observed in urine and faeces and do not contribute to the CYP3A inhibitory activity of cobicistat.
+
+## Elimination
+
+## Darunavir
+
+After a 400/100 mg 14 C-darunavir with ritonavir dose, approximately 79.5% and 13.9% of the administered dose of  14 C-darunavir could be retrieved in faeces and urine, respectively. Unchanged darunavir accounted for approximately 41.2% and 7.7% of the administered dose in faeces and urine, respectively. The terminal elimination half-life of darunavir was approximately 15 hours when combined with ritonavir.
+
+The intravenous clearance of darunavir alone (150 mg) and in the presence of low dose ritonavir was 32.8 L/h and 5.9 L/h, respectively.
+
+## Cobicistat
+
+Following oral administration of  14 C-cobicistat, 86% and 8.2% of the dose were recovered in faeces and urine, respectively. The median terminal plasma half-life of cobicistat following administration of REZOLSTA is approximately 3-4 hours.
+
+## Special populations
+
+## Paediatric population
+
+Pharmacokinetic data at steady-state after once daily dosing of DRV/COBI as separate tablets from adult study GS-US-216-0130 and paediatric study GS-US-216-0128 indicate that darunavir and cobicistat exposures were similar between adults (N = 60) and adolescents weighing ≥ 40 kg (N = 7). In children weighing at least 25 kg (N = 8), mean darunavir exposures were similar to those in adults and adolescents, and mean cobicistat exposures were generally higher (approximately 2-fold). Also, mean darunavir and cobicistat exposures in children weighing 15 kg to &lt; 25 kg (N = 11) were generally higher (approximately 2-fold) than the mean exposures achieved in adults and adolescents (see Table 9).
+
+<div style=\"page-break-after: always\"></div>
+
+| Table 9 - Study/Population                      | Summary of darunavir (DRV) and cobicistat (COBI) pharmacokinetic parameters at steady- state after once daily dosing in studies GS-US-216-0130 (adults) and GS-US-216-0128 (paediatrics) - GS-US-216-0130 - Adults with HIV-1 DRV 800 mg/ COBI 150 mg single agents Mean (%CV)   | Summary of darunavir (DRV) and cobicistat (COBI) pharmacokinetic parameters at steady- state after once daily dosing in studies GS-US-216-0130 (adults) and GS-US-216-0128 (paediatrics) - GS-US-216-0128 - Cohort 1 Part A adolescents with HIV-1 aged ≥ 12 to < 18 years weighing ≥ 40 kg DRV 800 mg/ COBI 150 mg single agents Mean (%CV)   | Summary of darunavir (DRV) and cobicistat (COBI) pharmacokinetic parameters at steady- state after once daily dosing in studies GS-US-216-0130 (adults) and GS-US-216-0128 (paediatrics) - GS-US-216-0128 - Cohort 2 children with HIV-1 aged ≥ 6 to < 12 years weighing ≥ 25 to < 40 kg DRV 675 mg / COBI 150 mg single agents Mean (%CV)   | Summary of darunavir (DRV) and cobicistat (COBI) pharmacokinetic parameters at steady- state after once daily dosing in studies GS-US-216-0130 (adults) and GS-US-216-0128 (paediatrics) - GS-US-216-0128 - Cohort 3 children with HIV-1 aged ≥ 3 years weighing ≥ 15 kg to < 25 kg DRV 600 mg / COBI 90 mg single agents Mean (%CV)   |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| DRV                                             |                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                        |
+| N AUC0-24h (ng.h/mL) Cmax (ng/mL) C0h (ng/mL)   | 60 81,646 (32.2) a, b 7,663 (25.1) 1,311 (74.0) b                                                                                                                                                                                                                                | 7 80,877 (29.5) a 7,506 (21.7) 1,087 (91.6)                                                                                                                                                                                                                                                                                                    | 8 92,052 (18.7) c - 1,345 (42.3) c                                                                                                                                                                                                                                                                                                           | 11 160,534 (54.0) 15,025 (38.4) 3,772 (92.1)                                                                                                                                                                                                                                                                                           |
+| COBI                                            |                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                        |
+| N AUC0-24h (ng.h/mL) a Cmax (ng/mL) C0h (ng/mL) | 60 7,596 (48.1) b 991 (33.4) 33 (289.4) b                                                                                                                                                                                                                                        | 7 8,741 (34.9) 1,116 (20.0) 28 (157.2)                                                                                                                                                                                                                                                                                                         | 7 16,103 (35.0) d 1,510 (21.9) 86 (95.9) d                                                                                                                                                                                                                                                                                                   | 11 16,071 (46.9) 2,077 (36.0) 63.8 (138.6)                                                                                                                                                                                                                                                                                             |
+
+%CV=coefficient of variation; N=number of participants; AUC0-24h=area under the concentration-time curve over a 24-hour dosing interval at steady state; Cmax=maximum plasma concentration; C0h=pre-dose plasma concentration;
+
+COBI=cobicistat; DRV=darunavir; HIV-1=human immunodeficiency virus type 1.
+
+- a Collected as AUC0h: concentration at predose (0 hour) was used as surrogate for concentration at 24 hours for the purposes of estimating AUC0-24h
+- b N=59
+- c Derived from population pharmacokinetic modelling
+- d N=5
 
 ## Elderly
 
@@ -890,6 +1918,8 @@ REZOLSTA has not been investigated in patients with renal impairment.
 
 Results from a mass balance study with  14 C-darunavir with ritonavir showed that approximately 7.7% of the administered dose of darunavir is excreted in the urine unchanged.
 
+<div style=\"page-break-after: always\"></div>
+
 Although darunavir has not been studied in patients with renal impairment, population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV infected patients with moderate renal impairment (CrCl between 30-60 mL/min, n = 20) (see sections 4.2 and 4.4).
 
 ## Cobicistat
@@ -902,11 +1932,7 @@ REZOLSTA has not been investigated in patients with hepatic impairment.
 
 ## Darunavir
 
-Darunavir is primarily metabolised and eliminated by the liver. In a multiple dose trial with darunavir/ritonavir (600/100 mg) twice daily, it was demonstrated that the total plasma concentrations of darunavir in subjects with mild (Child-Pugh Class A, n = 8) and moderate (Child-Pugh Class B, n = 8) hepatic impairment were comparable with those in healthy subjects. However, unbound darunavir concentrations were approximately 55% (Child-Pugh Class A) and 100% (Child-Pugh
-
-<div style=\"page-break-after: always\"></div>
-
-Class B) higher, respectively. The clinical relevance of this increase is unknown, therefore, darunavir/ritonavir should be used with caution. The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been studied (see sections 4.2, 4.3 and 4.4).
+Darunavir is primarily metabolised and eliminated by the liver. In a multiple dose trial with darunavir/ritonavir (600/100 mg) twice daily, it was demonstrated that the total plasma concentrations of darunavir in subjects with mild (Child-Pugh Class A, n = 8) and moderate (Child-Pugh Class B, n = 8) hepatic impairment were comparable with those in healthy subjects. However, unbound darunavir concentrations were approximately 55% (Child-Pugh Class A) and 100% (Child-Pugh Class B) higher, respectively. The clinical relevance of this increase is unknown, therefore, darunavir/ritonavir should be used with caution. The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been studied (see sections 4.2, 4.3 and 4.4).
 
 ## Cobicistat
 
@@ -920,12 +1946,15 @@ There were insufficient pharmacokinetic data in the clinical trials to determine
 
 Treatment with darunavir/cobicistat 800/150 mg once daily during pregnancy results in low darunavir exposure. In women receiving REZOLSTA during the second trimester of pregnancy, mean intraindividual values for total darunavir C max , AUC 24h and C min were 49%, 56% and 92% lower, respectively, as compared with postpartum; during the third trimester of pregnancy, total darunavir Cmax, AUC24h and Cmin values were 37%, 50% and 89% lower, respectively, as compared with postpartum. The unbound fraction was also substantially reduced, including around 90% reductions of Cmin levels. The main cause of these low exposures is a marked reduction in cobicistat exposure as a consequence of pregnancy-associated enzyme induction (see Table 10).
 
-| Table 10 Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum   | Table 10 Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum   | Table 10 Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum   | Table 10 Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pharmacokinetics of total darunavir (mean ± SD)                                                                                                                                                                                                           | Second trimester of pregnancy N = 7                                                                                                                                                                                                                       | Third trimester of pregnancy N = 6                                                                                                                                                                                                                        | Postpartum (6-12 weeks) N = 6                                                                                                                                                                                                                             |
-| C max , ng/mL                                                                                                                                                                                                                                             | 4,340 ± 1,616                                                                                                                                                                                                                                             | 4,910 ± 970                                                                                                                                                                                                                                               | 7,918 ± 2,199                                                                                                                                                                                                                                             |
-| AUC 24h , ng.h/mL                                                                                                                                                                                                                                         | 47,293 ± 19,058                                                                                                                                                                                                                                           | 47,991 ± 9,879                                                                                                                                                                                                                                            | 99,613 ± 34,862                                                                                                                                                                                                                                           |
-| C min , ng/mL                                                                                                                                                                                                                                             | 168 ± 149                                                                                                                                                                                                                                                 | 184 ± 99                                                                                                                                                                                                                                                  | 1,538 ± 1,344                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Table 10 Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum | Table 10 Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum | Table 10 Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum | Table 10 Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum |
+| Pharmacokinetics of total darunavir (mean ± SD)                                                                                                                                                                                                         | Second trimester of pregnancy N = 7                                                                                                                                                                                                                     | Third trimester of pregnancy N = 6                                                                                                                                                                                                                      | Postpartum (6-12 weeks) N = 6                                                                                                                                                                                                                           |
+| C max , ng/mL                                                                                                                                                                                                                                           | 4,340 ± 1,616                                                                                                                                                                                                                                           | 4,910 ± 970                                                                                                                                                                                                                                             | 7,918 ± 2,199                                                                                                                                                                                                                                           |
+| AUC 24h , ng.h/mL                                                                                                                                                                                                                                       | 47,293 ± 19,058                                                                                                                                                                                                                                         | 47,991 ± 9,879                                                                                                                                                                                                                                          | 99,613 ± 34,862                                                                                                                                                                                                                                         |
+| C min , ng/mL                                                                                                                                                                                                                                           | 168 ± 149                                                                                                                                                                                                                                               | 184 ± 99                                                                                                                                                                                                                                                | 1,538 ± 1,344                                                                                                                                                                                                                                           |
+
+<div style=\"page-break-after: always\"></div>
 
 The exposure to cobicistat was lower during pregnancy, potentially leading to suboptimal boosting of darunavir. During the second trimester of pregnancy, cobicistat Cmax , AUC24h , and C min were 50%, 63%, and 83% lower, respectively, as compared with postpartum. During the third trimester of pregnancy, cobicistat Cmax, AUC24h, and Cmin, were 27%, 49%, and 83% lower, respectively, as compared with postpartum.
 
@@ -937,8 +1966,6 @@ Animal toxicology studies have been conducted at exposures up to clinical exposu
 
 In repeated-dose toxicology studies in mice, rats and dogs, there were only limited effects of treatment with darunavir. In rodents the target organs identified were the haematopoietic system, the blood coagulation system, liver and thyroid. A variable but limited decrease in red blood cell-related parameters was observed, together with increases in activated partial thromboplastin time.
 
-<div style=\"page-break-after: always\"></div>
-
 Changes were observed in liver (hepatocyte hypertrophy, vacuolation, increased liver enzymes) and thyroid (follicular hypertrophy). In the rat, the combination of darunavir with ritonavir lead to a small increase in effect on RBC parameters, liver and thyroid and increased incidence of islet fibrosis in the pancreas (in male rats only) compared to treatment with darunavir alone. In the dog, no major toxicity findings or target organs were identified up to exposures equivalent to clinical exposure at the recommended dose.
 
 In a study conducted in rats, the number of corpora lutea and implantations were decreased in the presence of maternal toxicity. Otherwise, there were no effects on mating or fertility with darunavir treatment up to 1,000 mg/kg/day and exposure levels below (AUC-0.5 fold) of that in human at the clinically recommended dose. Up to same dose levels, there was no teratogenicity with darunavir in rats and rabbits when treated alone nor in mice when treated in combination with ritonavir. The exposure levels were lower than those with the recommended clinical dose in humans. In a pre- and postnatal development assessment in rats, darunavir with and without ritonavir, caused a transient reduction in body weight gain of the offspring pre-weaning and there was a slight delay in the opening of eyes and ears. Darunavir in combination with ritonavir caused a reduction in the number of pups that exhibited the startle response on day 15 of lactation and a reduced pup survival during lactation. These effects may be secondary to pup exposure to the active substance via the milk and/or maternal toxicity. No post weaning functions were affected with darunavir alone or in combination with ritonavir. In juvenile rats receiving darunavir up to days 23-26, increased mortality was observed with convulsions in some animals. Exposure in plasma, liver and brain was considerably higher than in adult rats after comparable doses in mg/kg between days 5 and 11 of age. After day 23 of life, the exposure was comparable to that in adult rats. The increased exposure was likely at least partly due to immaturity of the drug-metabolising enzymes in juvenile animals. No treatment related mortalities were noted in juvenile rats dosed at 1,000 mg/kg darunavir (single dose) on day 26 of age or at 500 mg/kg (repeated dose) from day 23 to 50 of age, and the exposures and toxicity profile were comparable to those observed in adult rats.
@@ -946,6 +1973,8 @@ In a study conducted in rats, the number of corpora lutea and implantations were
 Due to uncertainties regarding the rate of development of the human blood brain barrier and liver enzymes REZOLSTA should not be used in paediatric patients below 3 years of age.
 
 Darunavir was evaluated for carcinogenic potential by oral gavage administration to mice and rats up to 104 weeks. Daily doses of 150, 450 and 1,000 mg/kg were administered to mice and doses of 50, 150 and 500 mg/kg were administered to rats. Dose-related increases in the incidences of hepatocellular adenomas and carcinomas were observed in males and females of both species. Thyroid follicular cell adenomas were noted in male rats. Administration of darunavir did not cause a statistically significant increase in the incidence of any other benign or malignant neoplasm in mice or rats. The observed hepatocellular and thyroid tumours in rodents are considered to be of limited relevance to humans. Repeated administration of darunavir to rats caused hepatic microsomal enzyme induction and increased thyroid hormone elimination, which predispose rats, but not humans, to thyroid neoplasms. At the highest tested doses, the systemic exposures (based on AUC) to darunavir when co-administered with ritonavir were between 0.4- and 0.7-fold (mice) and 0.7- and 1-fold (rats), relative to those observed in humans at the recommended therapeutic doses.
+
+<div style=\"page-break-after: always\"></div>
 
 After 2 years administration of darunavir at exposures at or below the human exposure, kidney changes were observed in mice (nephrosis) and rats (chronic progressive nephropathy).
 
@@ -955,8 +1984,6 @@ Darunavir was not mutagenic or genotoxic in a battery of in vitro and in vivo as
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of repeated dose toxicity, genotoxicity, and toxicity to reproduction and development. No teratogenic effects were observed in rats and rabbit developmental toxicity studies. In rats, ossification changes in the spinal column and sternebrae of foetuses occurred at a dose that produced significant maternal toxicity.
 
-<div style=\"page-break-after: always\"></div>
-
 Ex vivo rabbit studies and in vivo dog studies suggest that cobicistat has a low potential for QT prolongation, and may slightly prolong the PR interval and decrease left ventricular function at mean concentrations at least 10-fold higher than the human exposure at the recommended 150 mg daily dose.
 
 A long term carcinogenicity study of cobicistat in rats revealed tumourigenic potential specific for this species, that is regarded as of no relevance for humans. A long term carcinogenicity study in mice did not show any carcinogenic potential.
@@ -965,21 +1992,15 @@ A long term carcinogenicity study of cobicistat in rats revealed tumourigenic po
 
 ## 6.1 List of excipients
 
-## REZOLSTA 800 mg/150 mg tablets Tablet core
+## Tablet core
 
-Hypromellose Colloidal silicon dioxide Silicified microcrystalline cellulose Crospovidone Magnesium stearate
-
-## Tablet film-coat
-
-Polyvinyl alcohol- partially hydrolysed Macrogol/polyethylene glycol Titanium dioxide (E 171) Talc Iron oxide red (E 172) Iron oxide black (E 172)
-
-## REZOLSTA 675 mg/150 mg tablets Tablet core
-
-Colloidal silicon dioxide Cellulose, microcrystalline Croscarmellose sodium Magnesium stearate
+Anhydrous colloidal silica (E551) Cellulose, microcrystalline (E460(i)) Cellulose, silicified microcrystalline (E460(i)) Croscarmellose sodium (E468) Magnesium stearate (E572) Mannitol (E421) Strawberry flavour (containing natural flavour components, maltodextrin (E1400), modified corn starch (E1450) and medium chain triglyceride) Sucralose (E955)
 
 ## Tablet film-coat
 
-Iron oxide yellow (E 172) Iron oxide black (E 172) Macrogol/polyethylene glycol Polyvinyl alcohol- partially hydrolysed Talc Titanium dioxide (E 171)
+Glycerol monocaprylocaprate type 1 (E471) Macrogol polyvinyl alcohol graft copolymer (E1209) Polyvinyl alcohol - partially hydrolysed (E1203) Talc (E553b) Titanium dioxide (E171) Iron oxide red (E172) Iron oxide black (E172)
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -987,35 +2008,23 @@ Not applicable
 
 ## 6.3 Shelf life
 
-## REZOLSTA 800 mg/150 mg film-coated tablets
+2 years
 
-<div style=\"page-break-after: always\"></div>
-
-3 years
-
-6 weeks after opening the bottle.
-
-## REZOLSTA 675 mg/150 mg film-coated tablets
-
-3 years
-
-8 weeks after opening the bottle.
+8 weeks after opening the bottle
 
 ## 6.4 Special precautions for storage
 
-This medicinal product does not require any special storage conditions.
+Do not store above 30 °C.
+
+Store in the original package in order to protect from light.
+
+The oxygen absorber canister may be removed after opening.
 
 ## 6.5 Nature and contents of container
 
-## REZOLSTA 800 mg/150 mg film-coated tablets
-
-White, high density polyethylene (HDPE) bottle containing 30 tablets, fitted with polypropylene (PP) child resistant closure with induction seal.
+White, high density polyethylene - ethylene vinyl alcohol copolymer - high-density polyethylene (HDPE-EVOH-HDPE) multilayer bottle containing 30 tablets, fitted with an oxygen absorber canister with a child resistant closure.
 
 Pack size of one bottle.
-
-## REZOLSTA 675 mg/150 mg film-coated tablets
-
-White, high density polyethylene (HDPE) bottle containing 30 tablets, fitted with polypropylene (PP) child resistant closure with induction seal. Pack size of one bottle.
 
 ## 6.6 Special precautions for disposal
 
@@ -1023,13 +2032,17 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV
+
+Turnhoutseweg 30
+
+B-2340 Beerse
+
+Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-800 mg/150 mg REZOLSTA: EU/1/14/967/001
-
-675 mg/150 mg REZOLSTA: EU/1/14/967/002
+EU/1/14/967/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1039,9 +2052,9 @@ Date of latest renewal: 31 July 2019
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-<div style=\"page-break-after: always\"></div>
-
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+70
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1049,9 +2062,7 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -1062,7 +2073,9 @@ Name and address of the manufacturer(s) responsible for batch release
 
 REZOLSTA 800 mg/150 mg: Janssen-Cilag SpA Via C. Janssen Borgo San Michele 04100 Latina Italy
 
-REZOLSTA 675 mg/150 mg: Janssen Pharmaceutica, NV Turnhoutseweg 30 B-2340 Beerse Belgium
+REZOLSTA 675 mg/150 mg: Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium
+
+REZOLSTA 600 mg/90 mg: Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1135,6 +2148,8 @@ Do not use after 6 weeks of first opening the bottle.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1150,9 +2165,7 @@ EU/1/14/967/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 rezolsta 800 mg / 150 mg
@@ -1168,8 +2181,6 @@ PC
 SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1215,7 +2226,7 @@ EXP
 
 Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/14/967/001
 
@@ -1224,13 +2235,9 @@ EU/1/14/967/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -1292,9 +2299,7 @@ EU/1/14/967/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 rezolsta 675 mg / 150 mg
@@ -1366,14 +2371,174 @@ EU/1/14/967/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+REZOLSTA 600 mg / 90 mg dispersible tablets
+
+darunavir/cobicistat
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each dispersible tablet contains 600 mg darunavir (as ethanolate) and 90 mg cobicistat.
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+30 dispersible tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+Disperse in liquid.
+
+Do not chew.
+
+Do not swallow whole.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+Do not use after 8 weeks of first opening the bottle.
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 30 °C.
+
+Store in the original package in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Janssen-Cilag International NV
+
+Turnhoutseweg 30 B-2340 Beerse Belgium
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/14/967/003
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
+rezolsta 600 mg / 90 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+BOTTLE LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+REZOLSTA 600 mg / 90 mg dispersible tablets
+
+darunavir/cobicistat
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each dispersible tablet contains 600 mg darunavir (as ethanolate) and 90 mg cobicistat.
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+30 dispersible tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+Disperse in liquid.
+
+Do not chew.
+
+Do not swallow whole.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 30 °C.
+
+Store in the original package in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/14/967/003
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1385,14 +2550,16 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## REZOLSTA 800 mg/150 mg - film-coated tablets darunavir/cobicistat
+## REZOLSTA 800 mg/150 mg - film-coated tablets
+
+darunavir/cobicistat
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1415,7 +2582,7 @@ Treatment with REZOLSTA will improve your immune system (your body's natural def
 
 ## What it is used for?
 
-REZOLSTA 800 mg/150 mg (darunavir/cobicistat) is used to treat adults and paediatric patients  who weigh at least 40 kilograms and who are infected by HIV (see How to take REZOLSTA in this leaflet).
+REZOLSTA 800 mg/150 mg (darunavir/cobicistat) is used to treat adults and children who weigh at least 40 kilograms and who are infected by HIV (see How to take REZOLSTA in this leaflet).
 
 REZOLSTA must be taken in combination with other HIV medicines. Your doctor will discuss with you which combination of medicines is best for you.
 
@@ -1423,8 +2590,8 @@ REZOLSTA must be taken in combination with other HIV medicines. Your doctor will
 
 ## Do not take REZOLSTA
 
-- -if you are allergic to darunavir, cobicistat or any of the other ingredients of this medicine (listed in section 6).
-- -if you have severe liver problems . Ask your doctor if you are unsure about the severity of your liver disease. Some additional tests might be necessary.
+- if you are allergic to darunavir, cobicistat or any of the other ingredients of this medicine (listed in section 6).
+- if you have severe liver problems . Ask your doctor if you are unsure about the severity of your liver disease. Some additional tests might be necessary.
 
 Tell your doctor about all medicines you take including medicines taken orally, inhaled, injected or applied to the skin.
 
@@ -1471,25 +2638,27 @@ REZOLSTA has only been used in limited numbers of patients 65 years or older. If
 
 Make sure that you check the following points and tell your doctor if any of these apply to you.
 
-- -Tell your doctor if you have had problems with your liver before, including hepatitis B or C infection. Your doctor may evaluate how severe your liver disease is before deciding if you can take REZOLSTA.
-- -Tell your doctor if you have had problems with your kidneys . Your doctor will carefully consider whether to treat you with REZOLSTA.
-- -Tell your doctor if you have diabetes . REZOLSTA might increase sugar levels in the blood.
-- -Tell your doctor immediately if you notice any symptoms of infection (for example enlarged lymph nodes and fever). In some patients with advanced HIV infection and a history of unusual infections due to a weakened immune system (opportunistic infection), signs and symptoms of inflammation from previous infections may occur soon after HIV treatment is started. It is
+- Tell your doctor if you have had problems with your liver before, including hepatitis B or C infection. Your doctor may evaluate how severe your liver disease is before deciding if you can take REZOLSTA.
+- Tell your doctor if you have had problems with your kidneys . Your doctor will carefully consider whether to treat you with REZOLSTA.
+- Tell your doctor if you have diabetes . REZOLSTA might increase sugar levels in the blood.
+- Tell your doctor immediately if you notice any symptoms of infection (for example enlarged lymph nodes and fever). In some patients with advanced HIV infection and a history of unusual infections due to a weakened immune system (opportunistic infection), signs and symptoms of inflammation from previous infections may occur soon after HIV treatment is started. It is
 
 <div style=\"page-break-after: always\"></div>
 
 believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
 
-- -In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment. If you notice any symptoms of infection or other symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, please inform your doctor immediately so you can be given the necessary treatment.
-- -Tell your doctor if you have haemophilia . REZOLSTA might increase the risk of bleeding.
-- -Tell your doctor if you are allergic to sulphonamides (e.g. used to treat certain infections).
-- -Tell your doctor if you notice any musculoskeletal problems . Some patients taking combination antiretroviral therapy may develop a bone disease called osteonecrosis (death of bone tissue caused by loss of blood supply to the bone). This may be more likely with long-term HIV treatment, more severe damage to the immune system, overweight, or the use of alcohol or other medicines called corticosteroids. Signs of osteonecrosis are joint stiffness, aches and pains (especially of the hip, knee and shoulder) and difficulty in movement. If you notice any of these symptoms please inform your doctor.
+- In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment. If you notice any symptoms of infection or other symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, please inform your doctor immediately so you can be given the necessary treatment.
+- Tell your doctor if you have haemophilia . REZOLSTA might increase the risk of bleeding.
+- Tell your doctor if you are allergic to sulphonamides (e.g. used to treat certain infections).
+- Tell your doctor if you notice any musculoskeletal problems . Some patients taking combination antiretroviral therapy may develop a bone disease called osteonecrosis (death of bone tissue caused by loss of blood supply to the bone). This may be more likely with long-term HIV treatment, more severe damage to the immune system, overweight, or the use of alcohol or other medicines called corticosteroids. Signs of osteonecrosis are joint stiffness, aches and pains (especially of the hip, knee and shoulder) and difficulty in movement. If you notice any of these symptoms please inform your doctor.
 
-## Children and adolescents
+## REZOLSTA 800 mg/150 mg (darunavir/cobicistat) is not for use in children weighing less than
 
-REZOLSTA 800 mg/150 mg (darunavir/cobicistat) is not for use in children weighing less than 40 kilograms .
+## Children and adolescents 40 kilograms .
 
 REZOLSTA is also available as a 675 mg/150 mg scored tablet for children 6 years and older weighing at least 25 kg and less than 40 kg (see separate Package Leaflet for REZOLSTA 675 mg/150 mg film-coated tablets).
+
+REZOLSTA is also available as a 600 mg/90 mg dispersible tablet for children 3 years and older weighing at least 15 kg and less than 25 kg (see separate Package Leaflet for REZOLSTA 600 mg/90 mg dispersible tablets).
 
 ## Other medicines and REZOLSTA
 
@@ -1501,50 +2670,50 @@ REZOLSTA must not be used with another antiviral medicine that contains a booste
 
 The effects of REZOLSTA might be reduced if you take any of the following products. Tell your doctor if you take:
 
-- -Bosentan (to treat heart disease)
-- -Dexamethasone (injectable) (corticosteroid)
-- -Efavirenz, etravirine, nevirapine (to treat HIV infection)
-- -Rifapentine, rifabutin (to treat bacterial infections).
+- Bosentan (to treat heart disease)
+- Dexamethasone (injectable) (corticosteroid)
+- Efavirenz, etravirine, nevirapine (to treat HIV infection)
+- Rifapentine, rifabutin (to treat bacterial infections).
 
 The effects of other medicines might be influenced if you take REZOLSTA and your doctor might want to do some additional blood tests. Tell your doctor if you take:
 
-- -Amlodipine, carvedilol, diltiazem, disopyramide, felodipine, flecainide, lidocaine, metoprolol, mexiletine, nicardipine , nifedipine, propafenone , timolol, verapamil (for heart disease) as the therapeutic effect or side effects of these medicines may be increased.
-- -Apixaban, dabigatran etexilate, edoxaban, rivaroxaban, warfarin, clopidogrel (to reduce clotting of the blood) as their therapeutic effect or side effects may be altered.
-- -Clonazepam (to prevent seizures).
-- -Oestrogen-based hormonal contraceptives and hormone replacement therapy. REZOLSTA might reduce its effectiveness. When used for birth control, alternative methods of non-hormonal contraception are recommended.
+- Amlodipine, carvedilol, diltiazem, disopyramide, felodipine, flecainide, lidocaine, metoprolol, mexiletine, nicardipine , nifedipine, propafenone , timolol, verapamil (for heart disease) as the therapeutic effect or side effects of these medicines may be increased.
+- Apixaban, dabigatran etexilate, edoxaban, rivaroxaban, warfarin, clopidogrel (to reduce clotting of the blood) as their therapeutic effect or side effects may be altered.
+- Clonazepam (to prevent seizures).
 
 <div style=\"page-break-after: always\"></div>
 
-- -Ethinylestradiol/drospirenone . REZOLSTA might increase the risk for elevated potassium levels by drospirenone.
-- -Atorvastatin, fluvastatin, pitavastatin, pravastatin, rosuvastatin (to lower cholesterol levels). The risk of muscle damage might be increased. Your doctor will evaluate which cholesterol lowering regimen is best for your specific situation.
-- -Ciclosporin, everolimus, tacrolimus, sirolimus (for dampening down your immune system) as the therapeutic effect or side effects of these medicines might be increased.
-- -Corticosteroids including betamethasone, budesonide, fluticasone, mometasone, prednisone, triamcinolone . These medicines are used to treat allergies, asthma, inflammatory bowel diseases, inflammatory conditions of the skin, eyes, joints and muscles and other inflammatory conditions. These medicines are generally taken orally, inhaled, injected or applied to the skin. If alternatives cannot be used, its use should only take place after medical evaluation and under close monitoring by your doctor for corticosteroid side effects.
-- -Buprenorphine/naloxone , methadone (medicines to treat opioid dependence)
-- -Salmeterol (medicine to treat asthma)
-- -Artemether/lumefantrine (a combination medicine to treat malaria)
-- -Dasatinib, irinotecan, nilotinib, vinblastine, vincristine (medicines to treat cancer)
-- -Perphenazine, risperidone, thioridazine (psychiatric medicines)
-- -Clorazepate, diazepam, estazolam, flurazepam (medicines to treat sleeping disorders or anxiety)
-- -Sildenafil, tadalafil, vardenafil (for erectile dysfunction or to treat a heart and lung disorder called pulmonary arterial hypertension)
-- -Glecaprevir/pibrentasvir (to treat hepatitis C infection)
-- -Fesoterodine, solifenacin (to treat urologic disorders).
+- Oestrogen-based hormonal contraceptives and hormone replacement therapy. REZOLSTA might reduce its effectiveness. When used for birth control, alternative methods of non-hormonal contraception are recommended.
+- Ethinylestradiol/drospirenone . REZOLSTA might increase the risk for elevated potassium levels by drospirenone.
+- Atorvastatin, fluvastatin, pitavastatin, pravastatin, rosuvastatin (to lower cholesterol levels). The risk of muscle damage might be increased. Your doctor will evaluate which cholesterol lowering regimen is best for your specific situation.
+- Ciclosporin, everolimus, tacrolimus, sirolimus (for dampening down your immune system) as the therapeutic effect or side effects of these medicines might be increased.
+- Corticosteroids including betamethasone, budesonide, fluticasone, mometasone, prednisone, triamcinolone . These medicines are used to treat allergies, asthma, inflammatory bowel diseases, inflammatory conditions of the skin, eyes, joints and muscles and other inflammatory conditions. These medicines are generally taken orally, inhaled, injected or applied to the skin. If alternatives cannot be used, its use should only take place after medical evaluation and under close monitoring by your doctor for corticosteroid side effects.
+- Buprenorphine/naloxone , methadone (medicines to treat opioid dependence)
+- Salmeterol (medicine to treat asthma)
+- Artemether/lumefantrine (a combination medicine to treat malaria)
+- Dasatinib, irinotecan, nilotinib, vinblastine, vincristine (medicines to treat cancer)
+- Perphenazine, risperidone, thioridazine (psychiatric medicines)
+- Clorazepate, diazepam, estazolam, flurazepam (medicines to treat sleeping disorders or anxiety)
+- Sildenafil, tadalafil, vardenafil (for erectile dysfunction or to treat a heart and lung disorder called pulmonary arterial hypertension)
+- Glecaprevir/pibrentasvir (to treat hepatitis C infection)
+- Fesoterodine, solifenacin (to treat urologic disorders).
 
 Your doctor might want to do some additional blood tests and the dosage of other medicines might need to be changed since either their own or REZOLSTA's therapeutic effect or side effects may be influenced when combined. Tell your doctor if you take:
 
-- -Dabigatran etexilate, edoxaban, warfarin (to reduce clotting of the blood)
-- -Alfentanil (injectable, strong and short-acting, painkiller that is used for surgical procedures)
-- -Digoxin (to treat certain heart disorders)
-- -Clarithromycin (antibiotic)
-- -Clotrimazole, fluconazole, itraconazole, isavuconazole, posaconazole (against fungal infections). Voriconazole should only be taken after medical evaluation.
-- -Rifabutin (against bacterial infections)
-- -Tadalafil, sildenafil, vardenafil (for erectile dysfunction or high blood pressure in the pulmonary circulation)
-- -Amitriptyline, desipramine, imipramine, nortriptyline, paroxetine, sertraline, trazodone (to treat depression and anxiety)
-- -Maraviroc (to treat HIV infection)
-- -Colchicine (to treat gout or familial Mediterranean fever). If you have renal and/or hepatic impairment see section ' Do not combine REZOLSTA with any of the following medicines '.
-- -Bosentan (to treat high blood pressure in the pulmonary circulation)
-- -Buspirone, clorazepate, diazepam, estazolam, flurazepam, zolpidem, midazolam when used as injection (medicines to treat trouble with sleeping and/or anxiety)
-- -Metformin (to treat type 2 diabetes)
-- -Fentanyl, oxycodone, tramadol (to treat pain).
+- Dabigatran etexilate, edoxaban, warfarin (to reduce clotting of the blood)
+- Alfentanil (injectable, strong and short-acting, painkiller that is used for surgical procedures)
+- Digoxin (to treat certain heart disorders)
+- Clarithromycin (antibiotic)
+- Clotrimazole, fluconazole, itraconazole, isavuconazole, posaconazole (against fungal infections). Voriconazole should only be taken after medical evaluation.
+- Rifabutin (against bacterial infections)
+- Tadalafil, sildenafil, vardenafil (for erectile dysfunction or high blood pressure in the pulmonary circulation)
+- Amitriptyline, desipramine, imipramine, nortriptyline, paroxetine, sertraline, trazodone (to treat depression and anxiety)
+- Maraviroc (to treat HIV infection)
+- Colchicine (to treat gout or familial Mediterranean fever). If you have renal and/or hepatic impairment see section ' Do not combine REZOLSTA with any of the following medicines '.
+- Bosentan (to treat high blood pressure in the pulmonary circulation)
+- Buspirone, clorazepate, diazepam, estazolam, flurazepam, zolpidem, midazolam when used as injection (medicines to treat trouble with sleeping and/or anxiety)
+- Metformin (to treat type 2 diabetes)
+- Fentanyl, oxycodone, tramadol (to treat pain).
 
 This is not a complete list of medicines. Tell your healthcare provider about all medicines that you are taking.
 
@@ -1552,9 +2721,9 @@ This is not a complete list of medicines. Tell your healthcare provider about al
 
 Tell your doctor immediately if you are pregnant or planning to become pregnant. Pregnant women should not take REZOLSTA.
 
-Because of the potential for side effects in breast-fed infants, women should not breast-feed if they are receiving REZOLSTA.
-
 <div style=\"page-break-after: always\"></div>
+
+Because of the potential for side effects in breast-fed infants, women should not breast-feed if they are receiving REZOLSTA.
 
 Breast-feeding is not recommended in women living with HIV because HIV infection can be passed on to the baby in breast milk. If you are breast-feeding, or thinking about breast-feeding, you should discuss it with your doctor as soon as possible.
 
@@ -1572,8 +2741,8 @@ Always use this medicine exactly as your doctor, pharmacist or nurse has told yo
 
 You must take REZOLSTA every day and always with food. REZOLSTA cannot work properly without food. You must eat a meal or a snack within 30 minutes prior to taking your REZOLSTA. The type of food is not important.
 
-- -Swallow the tablet whole with a drink such as water or milk. If you have difficulty swallowing REZOLSTA, tell your doctor. The tablet may be split using a tablet-cutter. After splitting the tablet, the entire dose (both halves) should then be taken right away with a drink such as water or milk.
-- -Take your other HIV medicines used in combination with REZOLSTA as recommended by your doctor.
+- Swallow the tablet whole with a drink such as water or milk. If you have difficulty swallowing REZOLSTA, tell your doctor. The tablet may be split using a tablet-cutter. After splitting the tablet, the entire dose (both halves) should then be taken right away with a drink such as water or milk.
+- Take your other HIV medicines used in combination with REZOLSTA as recommended by your doctor.
 
 ## Removing the child resistant cap
 
@@ -1581,8 +2750,8 @@ You must take REZOLSTA every day and always with food. REZOLSTA cannot work prop
 
 The plastic bottle comes with a child resistant cap and must be opened as follows:
 
-- -Push the plastic screw cap down while turning it counter clockwise.
-- -Remove the unscrewed cap.
+- Push the plastic screw cap down while turning it counter clockwise.
+- Remove the unscrewed cap.
 
 ## If you take more REZOLSTA than you should
 
@@ -1602,9 +2771,9 @@ Contact your doctor if you are uncertain about what to do if you miss a dose or 
 
 After therapy has started, it must not be stopped without instruction of the doctor.
 
-Anti-HIV medicines may make you feel better. Even when you feel better, do not stop taking REZOLSTA. Talk to your doctor first.
-
 <div style=\"page-break-after: always\"></div>
+
+Anti-HIV medicines may make you feel better. Even when you feel better, do not stop taking REZOLSTA. Talk to your doctor first.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -1624,44 +2793,49 @@ Other severe side effects, seen up to 1 patient in 10, were diabetes. Inflammati
 
 Very common side effects (may affect more than 1 in 10 people)
 
-- -headache
-- -diarrhoea, nausea.
+- headache
+- diarrhoea, nausea.
 
 Common side effects (may affect up to 1 in 10 people)
 
-- -allergic reactions such as itching
-- -decreased appetite
-- -abnormal dreams
-- -vomiting, pain or swelling of the belly, indigestion, flatulence
-- -muscle pain
-- -tiredness
-- -abnormal blood test results such as some tests for your liver or kidney. Your doctor will explain these to you.
-- -weakness.
+- allergic reactions such as itching
+- decreased appetite
+- abnormal dreams
+- vomiting, pain or swelling of the belly, indigestion, flatulence
+- muscle pain
+- tiredness
+- abnormal blood test results such as some tests for your liver or kidney. Your doctor will explain these to you.
+- weakness.
 
 Uncommon side effects (may affect up to 1 in 100 people)
 
-- -symptoms of infection or of autoimmune disorders (immune reconstitution inflammatory syndrome)
-- -osteonecrosis (death of bone tissue caused by loss of blood supply to the bone)
-- -enlargement of breasts
-- -abnormal blood test results such as some tests for your pancreas, high level of sugar, abnormal levels of 'lipids' (fats). Your doctor will explain these to you.
-- -allergic reactions such as nettle rash (urticaria), severe swelling of the skin and other tissues (most often the lips or the eyes)
-- -severe rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals.
+- symptoms of infection or of autoimmune disorders (immune reconstitution inflammatory syndrome)
+- osteonecrosis (death of bone tissue caused by loss of blood supply to the bone)
+- enlargement of breasts
+- abnormal blood test results such as some tests for your pancreas, high level of sugar, abnormal levels of 'lipids' (fats). Your doctor will explain these to you.
+- allergic reactions such as nettle rash (urticaria), severe swelling of the skin and other tissues (most often the lips or the eyes)
 
 <div style=\"page-break-after: always\"></div>
 
+- severe rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals.
+
 Rare side effects (may affect up to 1 in 1,000 people)
 
-- -a reaction called DRESS [severe rash, which may be accompanied by fever, fatigue, swelling of the face or lymph glands, increase of eosinophils (type of white blood cells), effects on liver, kidney or lung]
-- -darunavir crystals in the kidney causing kidney disease.
+- a reaction called DRESS [severe rash, which may be accompanied by fever, fatigue, swelling of the face or lymph glands, increase of eosinophils (type of white blood cells), effects on liver, kidney or lung]
+- darunavir crystals in the kidney causing kidney disease.
 
 Side effects with unknown frequency: a rash may become severe or potentially life-threatening:
 
-- -rash with blisters and peeling skin over much of the body
-- -red rash covered with small pus-filled bumps that can spread over the body, sometimes with a fever.
+- rash with blisters and peeling skin over much of the body
+- red rash covered with small pus-filled bumps that can spread over the body, sometimes with a fever.
 
 Some side effects are typical for HIV medicines in the same family as REZOLSTA. These are:
 
-- -muscle pain, tenderness or weakness. On rare occasions, these muscle disorders have been serious.
+-
+
+muscle pain, tenderness or weakness. On rare occasions, these muscle disorders have been
+
+serious.
 
 ## Reporting of side effects
 
@@ -1683,8 +2857,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What REZOLSTA contains
 
-- -The active substances are darunavir and cobicistat. Each tablet contains 800 mg of darunavir (as ethanolate) and 150 mg cobicistat.
-- -The other ingredients are hypromellose, silicified microcrystalline cellulose, colloidal silicon dioxide, crospovidone and magnesium stearate. The film-coating contains polyvinyl alcohol - partially hydrolysed, titanium dioxide (E 171), polyethylene glycol (macrogol), talc, iron oxide red (E 172), and iron oxide black (E 172).
+- The active substances are darunavir and cobicistat. Each tablet contains 800 mg of darunavir (as ethanolate) and 150 mg cobicistat.
+- The other ingredients are anhydrous colloidal silica (E551), cellulose microcrystalline (E460(i)), crospovidone, hypromellose, and magnesium stearate (E572). The film-coating contains polyethylene glycol (macrogol) (E1209), polyvinyl alcohol - partially hydrolysed (E1203), talc (E553b), titanium dioxide (E171), iron oxide red (E172), and iron oxide black (E172).
 
 ## What REZOLSTA looks like and contents of the pack
 
@@ -1694,21 +2868,17 @@ Film-coated, pink, oval-shaped tablet, mentioning TG on one side, 800 on the oth
 
 Janssen-Cilag International NV, Turnhoutseweg 30, B-2340 Beerse, Belgium
 
+<div style=\"page-break-after: always\"></div>
+
 ## Manufacturer
 
 Janssen-Cilag SpA, Via C. Janssen, Borgo San Michele, 04100 Latina, Italy
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV
-
-Tel/Tél: +32 14 64 94 11
-
-janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## България
 
@@ -1722,17 +2892,17 @@ Tel: +420 227 012 227
 
 ## Danmark
 
-Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
+Janssen-Cilag A/S Tlf.: +45 4594 8282
+
+jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410
-
-ee@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
 
 ## Ελλάδα
 
@@ -1740,9 +2910,7 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00
 
 contacto@its.jnj.com
 
@@ -1756,13 +2924,11 @@ Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
 ## Lietuva
 
-UAB \"JOHNSON &amp; JOHNSON\"
-
-Tel: +370 5 278 68 88 lt@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
@@ -1776,7 +2942,7 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
@@ -1792,17 +2958,11 @@ Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
 
 ## Portugal
 
-Janssen-Cilag Farmacêutica, Lda.
-
-Tel: +351 214 368 600
+Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson Rom â nia SRL
-
-Tel: +40 21 207 1800
-
-<div style=\"page-break-after: always\"></div>
+Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
 
 ## Ireland
 
@@ -1842,8 +3002,6 @@ lv@its.jnj.com
 
 This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicinal product is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
 ## Slovenija
 
 Johnson &amp; Johnson d.o.o.
@@ -1874,6 +3032,10 @@ Tfn: +46 8 626 50 00
 
 jacse@its.jnj.com
 
+<div style=\"page-break-after: always\"></div>
+
+Detailed information on this medicinal product is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
 ## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
@@ -1884,11 +3046,11 @@ darunavir/cobicistat
 
 ## Read all of this leaflet carefully before you (or your child) start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You or your child may need to read it again.
-- -If you or your child have any further questions, ask your or your child's doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you or your child only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours (or your child's).
-- -If you or your child get any side effects, talk to your (or your child's) doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -The information in this leaflet is for you or your child - but in this leaflet we usually just say you.
+- Keep this leaflet. You or your child may need to read it again.
+- If you or your child have any further questions, ask your or your child's doctor, pharmacist or nurse.
+- This medicine has been prescribed for you or your child only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours (or your child's).
+- If you or your child get any side effects, talk to your (or your child's) doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- The information in this leaflet is for you or your child - but in this leaflet we usually just say you.
 
 ## What is in this leaflet
 
@@ -1919,8 +3081,8 @@ REZOLSTA must be taken in combination with other HIV medicines. Your doctor will
 
 ## Do not take REZOLSTA
 
-- -if you are allergic to darunavir, cobicistat or any of the other ingredients of this medicine (listed in section 6).
-- -if you have severe liver problems . Ask your doctor if you are unsure about the severity of your liver disease. Some additional tests might be necessary.
+- if you are allergic to darunavir, cobicistat or any of the other ingredients of this medicine (listed in section 6).
+- if you have severe liver problems . Ask your doctor if you are unsure about the severity of your liver disease. Some additional tests might be necessary.
 
 Tell your doctor about all medicines you take including medicines taken orally, inhaled, injected or applied to the skin.
 
@@ -1965,25 +3127,27 @@ In patients taking REZOLSTA and raltegravir (for HIV infection), rashes (general
 
 Make sure that you check the following points and tell your doctor if any of these apply to you.
 
-- -Tell your doctor if you have had problems with your liver before, including hepatitis B or C infection. Your doctor may evaluate how severe your liver disease is before deciding if you can take REZOLSTA.
-- -Tell your doctor if you have had problems with your kidneys . Your doctor will carefully consider whether to treat you with REZOLSTA.
-- -Tell your doctor if you have diabetes . REZOLSTA might increase sugar levels in the blood.
-- -Tell your doctor immediately if you notice any symptoms of infection (for example enlarged lymph nodes and fever). In some patients with advanced HIV infection and a history of unusual infections due to a weakened immune system (opportunistic infection), signs and symptoms of inflammation from previous infections may occur soon after HIV treatment is started. It is
+- Tell your doctor if you have had problems with your liver before, including hepatitis B or C infection. Your doctor may evaluate how severe your liver disease is before deciding if you can take REZOLSTA.
+- Tell your doctor if you have had problems with your kidneys . Your doctor will carefully consider whether to treat you with REZOLSTA.
+- Tell your doctor if you have diabetes . REZOLSTA might increase sugar levels in the blood.
+- Tell your doctor immediately if you notice any symptoms of infection (for example enlarged lymph nodes and fever). In some patients with advanced HIV infection and a history of unusual infections due to a weakened immune system (opportunistic infection), signs and symptoms of inflammation from previous infections may occur soon after HIV treatment is started. It is
 
 <div style=\"page-break-after: always\"></div>
 
 believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
 
-- -In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment. If you notice any symptoms of infection or other symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, please inform your doctor immediately so you can be given the necessary treatment.
-- -Tell your doctor if you have haemophilia . REZOLSTA might increase the risk of bleeding.
-- -Tell your doctor if you are allergic to sulphonamides (e.g. used to treat certain infections).
-- -Tell your doctor if you notice any musculoskeletal problems . Some patients taking combination antiretroviral therapy may develop a bone disease called osteonecrosis (death of bone tissue caused by loss of blood supply to the bone). This may be more likely with long-term HIV treatment, more severe damage to the immune system, overweight, or the use of alcohol or other medicines called corticosteroids. Signs of osteonecrosis are joint stiffness, aches and pains (especially of the hip, knee and shoulder) and difficulty in movement. If you notice any of these symptoms please inform your doctor.
+- In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment. If you notice any symptoms of infection or other symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, please inform your doctor immediately so you can be given the necessary treatment.
+- Tell your doctor if you have haemophilia . REZOLSTA might increase the risk of bleeding.
+- Tell your doctor if you are allergic to sulphonamides (e.g. used to treat certain infections).
+- Tell your doctor if you notice any musculoskeletal problems . Some patients taking combination antiretroviral therapy may develop a bone disease called osteonecrosis (death of bone tissue caused by loss of blood supply to the bone). This may be more likely with long-term HIV treatment, more severe damage to the immune system, overweight, or the use of alcohol or other medicines called corticosteroids. Signs of osteonecrosis are joint stiffness, aches and pains (especially of the hip, knee and shoulder) and difficulty in movement. If you notice any of these symptoms please inform your doctor.
 
 ## Children and adolescents
 
 ## This medicine is not for use in children younger than 6 years of age, or weighing less than 25 kilograms .
 
-REZOLSTA is also available as a 800 mg/150 mg tablet for adolescents weighing at least 40 kg (see separate Package Leaflet for REZOLSTA 800 mg/150 mg film-coated tablets).
+REZOLSTA is also available as an 800 mg/150 mg tablet for children weighing at least 40 kg (see separate Package Leaflet for REZOLSTA 800 mg/150 mg film-coated tablets).
+
+REZOLSTA is also available as a 600 mg/90 mg dispersible tablet for children 3 years and older weighing at least 15 kg and less than 25 kg (see separate Package Leaflet for REZOLSTA 600 mg/90 mg dispersible tablets).
 
 ## Other medicines and REZOLSTA
 
@@ -1995,50 +3159,50 @@ REZOLSTA must not be used with another antiviral medicine that contains a booste
 
 The effects of REZOLSTA might be reduced if you take any of the following products. Tell your doctor if you take:
 
-- -Bosentan (to treat heart disease)
-- -Dexamethasone (injectable) (corticosteroid)
-- -Efavirenz, etravirine, nevirapine (to treat HIV infection)
-- -Rifapentine, rifabutin (to treat bacterial infections).
+- Bosentan (to treat heart disease)
+- Dexamethasone (injectable) (corticosteroid)
+- Efavirenz, etravirine, nevirapine (to treat HIV infection)
+- Rifapentine, rifabutin (to treat bacterial infections).
 
 The effects of other medicines might be influenced if you take REZOLSTA and your doctor might want to do some additional blood tests. Tell your doctor if you take:
 
-- -Amlodipine, carvedilol, diltiazem, disopyramide, felodipine, flecainide, lidocaine, metoprolol, mexiletine, nicardipine , nifedipine, propafenone , timolol, verapamil (for heart disease) as the therapeutic effect or side effects of these medicines may be increased.
-- -Apixaban, dabigatran etexilate, edoxaban, rivaroxaban, warfarin, clopidogrel (to reduce clotting of the blood) as their therapeutic effect or side effects may be altered.
-- -Clonazepam (to prevent seizures).
-- -Oestrogen-based hormonal contraceptives and hormone replacement therapy. REZOLSTA might reduce its effectiveness. When used for birth control, alternative methods of non-hormonal contraception are recommended.
-- -Ethinylestradiol/drospirenone . REZOLSTA might increase the risk for elevated potassium levels by drospirenone.
+- Amlodipine, carvedilol, diltiazem, disopyramide, felodipine, flecainide, lidocaine, metoprolol, mexiletine, nicardipine , nifedipine, propafenone , timolol, verapamil (for heart disease) as the therapeutic effect or side effects of these medicines may be increased.
+- Apixaban, dabigatran etexilate, edoxaban, rivaroxaban, warfarin, clopidogrel (to reduce clotting of the blood) as their therapeutic effect or side effects may be altered.
+- Clonazepam (to prevent seizures).
 
 <div style=\"page-break-after: always\"></div>
 
-- -Atorvastatin, fluvastatin, pitavastatin, pravastatin, rosuvastatin (to lower cholesterol levels). The risk of muscle damage might be increased. Your doctor will evaluate which cholesterol lowering regimen is best for your specific situation.
-- -Ciclosporin, everolimus, tacrolimus, sirolimus (for dampening down your immune system) as the therapeutic effect or side effects of these medicines might be increased.
-- -Corticosteroids including betamethasone, budesonide, fluticasone, mometasone, prednisone, triamcinolone . These medicines are used to treat allergies, asthma, inflammatory bowel diseases, inflammatory conditions of the skin, eyes, joints and muscles and other inflammatory conditions. These medicines are generally taken orally, inhaled, injected or applied to the skin. If alternatives cannot be used, its use should only take place after medical evaluation and under close monitoring by your doctor for corticosteroid side effects.
-- -Buprenorphine/naloxone , methadone (medicines to treat opioid dependence)
-- -Salmeterol (medicine to treat asthma)
-- -Artemether/lumefantrine (a combination medicine to treat malaria)
-- -Dasatinib, irinotecan, nilotinib, vinblastine, vincristine (medicines to treat cancer)
-- -Perphenazine, risperidone, thioridazine (psychiatric medicines)
-- -Clorazepate, diazepam, estazolam, flurazepam (medicines to treat sleeping disorders or anxiety)
-- -Sildenafil, tadalafil, vardenafil (for erectile dysfunction or to treat a heart and lung disorder called pulmonary arterial hypertension)
-- -Glecaprevir/pibrentasvir (to treat hepatitis C infection)
-- -Fesoterodine, solifenacin (to treat urologic disorders).
+- Oestrogen-based hormonal contraceptives and hormone replacement therapy. REZOLSTA might reduce its effectiveness. When used for birth control, alternative methods of non-hormonal contraception are recommended.
+- Ethinylestradiol/drospirenone . REZOLSTA might increase the risk for elevated potassium levels by drospirenone.
+- Atorvastatin, fluvastatin, pitavastatin, pravastatin, rosuvastatin (to lower cholesterol levels). The risk of muscle damage might be increased. Your doctor will evaluate which cholesterol lowering regimen is best for your specific situation.
+- Ciclosporin, everolimus, tacrolimus, sirolimus (for dampening down your immune system) as the therapeutic effect or side effects of these medicines might be increased.
+- Corticosteroids including betamethasone, budesonide, fluticasone, mometasone, prednisone, triamcinolone . These medicines are used to treat allergies, asthma, inflammatory bowel diseases, inflammatory conditions of the skin, eyes, joints and muscles and other inflammatory conditions. These medicines are generally taken orally, inhaled, injected or applied to the skin. If alternatives cannot be used, its use should only take place after medical evaluation and under close monitoring by your doctor for corticosteroid side effects.
+- Buprenorphine/naloxone , methadone (medicines to treat opioid dependence)
+- Salmeterol (medicine to treat asthma)
+- Artemether/lumefantrine (a combination medicine to treat malaria)
+- Dasatinib, irinotecan, nilotinib, vinblastine, vincristine (medicines to treat cancer)
+- Perphenazine, risperidone, thioridazine (psychiatric medicines)
+- Clorazepate, diazepam, estazolam, flurazepam (medicines to treat sleeping disorders or anxiety)
+- Sildenafil, tadalafil, vardenafil (for erectile dysfunction or to treat a heart and lung disorder called pulmonary arterial hypertension)
+- Glecaprevir/pibrentasvir (to treat hepatitis C infection)
+- Fesoterodine, solifenacin (to treat urologic disorders).
 
 Your doctor might want to do some additional blood tests and the dosage of other medicines might need to be changed since either their own or REZOLSTA's therapeutic effect or side effects may be influenced when combined. Tell your doctor if you take:
 
-- -Dabigatran etexilate, edoxaban, warfarin (to reduce clotting of the blood)
-- -Alfentanil (injectable, strong and short-acting, painkiller that is used for surgical procedures)
-- -Digoxin (to treat certain heart disorders)
-- -Clarithromycin (antibiotic)
-- -Clotrimazole, fluconazole, itraconazole, isavuconazole, posaconazole (against fungal infections). Voriconazole should only be taken after medical evaluation.
-- -Rifabutin (against bacterial infections)
-- -Tadalafil, sildenafil, vardenafil (for erectile dysfunction or high blood pressure in the pulmonary circulation)
-- -Amitriptyline, desipramine, imipramine, nortriptyline, paroxetine, sertraline, trazodone (to treat depression and anxiety)
-- -Maraviroc (to treat HIV infection)
-- -Colchicine (to treat gout or familial Mediterranean fever). If you have renal and/or hepatic impairment see section ' Do not combine REZOLSTA with any of the following medicines '.
-- -Bosentan (to treat high blood pressure in the pulmonary circulation)
-- -Buspirone, clorazepate, diazepam, estazolam, flurazepam, zolpidem, midazolam when used as injection (medicines to treat trouble with sleeping and/or anxiety)
-- -Metformin (to treat type 2 diabetes)
-- -Fentanyl, oxycodone, tramadol (to treat pain).
+- Dabigatran etexilate, edoxaban, warfarin (to reduce clotting of the blood)
+- Alfentanil (injectable, strong and short-acting, painkiller that is used for surgical procedures)
+- Digoxin (to treat certain heart disorders)
+- Clarithromycin (antibiotic)
+- Clotrimazole, fluconazole, itraconazole, isavuconazole, posaconazole (against fungal infections). Voriconazole should only be taken after medical evaluation.
+- Rifabutin (against bacterial infections)
+- Tadalafil, sildenafil, vardenafil (for erectile dysfunction or high blood pressure in the pulmonary circulation)
+- Amitriptyline, desipramine, imipramine, nortriptyline, paroxetine, sertraline, trazodone (to treat depression and anxiety)
+- Maraviroc (to treat HIV infection)
+- Colchicine (to treat gout or familial Mediterranean fever). If you have renal and/or hepatic impairment see section ' Do not combine REZOLSTA with any of the following medicines '.
+- Bosentan (to treat high blood pressure in the pulmonary circulation)
+- Buspirone, clorazepate, diazepam, estazolam, flurazepam, zolpidem, midazolam when used as injection (medicines to treat trouble with sleeping and/or anxiety)
+- Metformin (to treat type 2 diabetes)
+- Fentanyl, oxycodone, tramadol (to treat pain).
 
 This is not a complete list of medicines. Tell your healthcare provider about all medicines that you are taking.
 
@@ -2046,15 +3210,15 @@ This is not a complete list of medicines. Tell your healthcare provider about al
 
 Tell your doctor immediately if you are pregnant or planning to become pregnant. Pregnant women should not take REZOLSTA.
 
-Because of the potential for side effects in breast-fed infants, women should not breast-feed if they are receiving REZOLSTA.
-
 <div style=\"page-break-after: always\"></div>
+
+Because of the potential for side effects in breast-fed infants, women should not breast-feed if they are receiving REZOLSTA.
 
 Breast-feeding is not recommended in women living with HIV because HIV infection can be passed on to the baby in breast milk. If you are breast-feeding, or thinking about breast-feeding, you should discuss it with your doctor as soon as possible.
 
 ## Driving and using machines
 
-- -Do not operate machines or drive if you feel dizzy after taking REZOLSTA.
+Do not operate machines or drive if you feel dizzy after taking REZOLSTA.
 
 ## REZOLSTA contains sodium
 
@@ -2066,8 +3230,8 @@ Always use this medicine exactly as your doctor, pharmacist or nurse has told yo
 
 You must take REZOLSTA every day and always with food. REZOLSTA cannot work properly without food. You must eat a meal or a snack within 30 minutes prior to taking your REZOLSTA. The type of food is not important.
 
-- -Swallow the tablet whole with a drink such as water or milk. If you have difficulty swallowing REZOLSTA, tell your doctor. The scored tablet can be split by hand into 2 pieces. The score line is only there to help you break the tablet. After splitting the tablet, the entire dose (both pieces) should be swallowed right away to get the full dose.
-- -Take your other HIV medicines used in combination with REZOLSTA as recommended by your doctor.
+- Swallow the tablet whole with a drink such as water or milk. If you have difficulty swallowing REZOLSTA, tell your doctor. The scored tablet can be split by hand into 2 pieces. The score line is only there to help you break the tablet. After splitting the tablet, the entire dose (both pieces) should be swallowed right away to get the full dose.
+- Take your other HIV medicines used in combination with REZOLSTA as recommended by your doctor.
 
 ## Removing the child resistant cap
 
@@ -2075,8 +3239,8 @@ You must take REZOLSTA every day and always with food. REZOLSTA cannot work prop
 
 The plastic bottle comes with a child resistant cap and must be opened as follows:
 
-- -Push the plastic screw cap down while turning it counter clockwise.
-- -Remove the unscrewed cap.
+- Push the plastic screw cap down while turning it counter clockwise.
+- Remove the unscrewed cap.
 
 ## If you take more REZOLSTA than you should
 
@@ -2096,9 +3260,9 @@ Contact your doctor if you are uncertain about what to do if you miss a dose or 
 
 After therapy has started, it must not be stopped without instruction of the doctor.
 
-Anti-HIV medicines may make you feel better. Even when you feel better, do not stop taking REZOLSTA. Talk to your doctor first.
-
 <div style=\"page-break-after: always\"></div>
+
+Anti-HIV medicines may make you feel better. Even when you feel better, do not stop taking REZOLSTA. Talk to your doctor first.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -2118,44 +3282,49 @@ Other severe side effects, seen up to 1 patient in 10, were diabetes. Inflammati
 
 Very common side effects (may affect more than 1 in 10 people)
 
-- -headache
-- -diarrhoea, nausea.
+- headache
+- diarrhoea, nausea.
 
 Common side effects (may affect up to 1 in 10 people)
 
-- -allergic reactions such as itching
-- -decreased appetite
-- -abnormal dreams
-- -vomiting, pain or swelling of the belly, indigestion, flatulence
-- -muscle pain
-- -tiredness
-- -abnormal blood test results such as some tests for your liver or kidney. Your doctor will explain these to you.
-- -weakness.
+- allergic reactions such as itching
+- decreased appetite
+- abnormal dreams
+- vomiting, pain or swelling of the belly, indigestion, flatulence
+- muscle pain
+- tiredness
+- abnormal blood test results such as some tests for your liver or kidney. Your doctor will explain these to you.
+- weakness.
 
 Uncommon side effects (may affect up to 1 in 100 people)
 
-- -symptoms of infection or of autoimmune disorders (immune reconstitution inflammatory syndrome)
-- -osteonecrosis (death of bone tissue caused by loss of blood supply to the bone)
-- -enlargement of breasts
-- -abnormal blood test results such as some tests for your pancreas, high level of sugar, abnormal levels of 'lipids' (fats). Your doctor will explain these to you.
-- -allergic reactions such as nettle rash (urticaria), severe swelling of the skin and other tissues (most often the lips or the eyes)
-- -severe rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals.
+- symptoms of infection or of autoimmune disorders (immune reconstitution inflammatory syndrome)
+- osteonecrosis (death of bone tissue caused by loss of blood supply to the bone)
+- enlargement of breasts
+- abnormal blood test results such as some tests for your pancreas, high level of sugar, abnormal levels of 'lipids' (fats). Your doctor will explain these to you.
+- allergic reactions such as nettle rash (urticaria), severe swelling of the skin and other tissues (most often the lips or the eyes)
 
 <div style=\"page-break-after: always\"></div>
 
+- severe rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals.
+
 Rare side effects (may affect up to 1 in 1,000 people)
 
-- -a reaction called DRESS [severe rash, which may be accompanied by fever, fatigue, swelling of the face or lymph glands, increase of eosinophils (type of white blood cells), effects on liver, kidney or lung]
-- -darunavir crystals in the kidney causing kidney disease.
+- a reaction called DRESS [severe rash, which may be accompanied by fever, fatigue, swelling of the face or lymph glands, increase of eosinophils (type of white blood cells), effects on liver, kidney or lung]
+- darunavir crystals in the kidney causing kidney disease.
 
 Side effects with unknown frequency: a rash may become severe or potentially life-threatening:
 
-- -rash with blisters and peeling skin over much of the body
-- -red rash covered with small pus-filled bumps that can spread over the body, sometimes with a fever.
+- rash with blisters and peeling skin over much of the body
+- red rash covered with small pus-filled bumps that can spread over the body, sometimes with a fever.
 
 Some side effects are typical for HIV medicines in the same family as REZOLSTA. These are:
 
-- -muscle pain, tenderness or weakness. On rare occasions, these muscle disorders have been serious.
+-
+
+muscle pain, tenderness or weakness. On rare occasions, these muscle disorders have been
+
+serious.
 
 ## Reporting of side effects
 
@@ -2177,8 +3346,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What REZOLSTA contains
 
-- -The active substances are darunavir and cobicistat. Each tablet contains 675 mg of darunavir (as ethanolate) and 150 mg cobicistat.
-- -The other ingredients are colloidal silicon dioxide, cellulose, (microcrystalline), croscarmellose sodium and magnesium stearate. The film-coating contains iron oxide yellow (E 172), iron oxide black (E 172), polyethylene glycol (macrogol), polyvinyl alcohol (partially hydrolysed), talc, and titanium dioxide (E 171).
+- The active substances are darunavir and cobicistat. Each tablet contains 675 mg of darunavir (as ethanolate) and 150 mg cobicistat.
+- The other ingredients are anhydrous colloidal silica (E551), cellulose microcrystalline (E460(i)), croscarmellose sodium (E468) and magnesium stearate (E572). The film-coating contains polyethylene glycol (macrogol) (E1209), polyvinyl alcohol - partially hydrolysed (E1203), talc (E553b), titanium dioxide (E171), iron oxide yellow (E172), and iron oxide black (E172).
 
 ## What REZOLSTA looks like and contents of the pack
 
@@ -2190,19 +3359,17 @@ Green to dark green, oval-shaped scored film-coated tablet, mentioning 675 on on
 
 Janssen-Cilag International NV, Turnhoutseweg 30, B-2340 Beerse, Belgium
 
+<div style=\"page-break-after: always\"></div>
+
 ## Manufacturer
 
 Janssen Pharmaceutica NV, Turnhoutseweg 30, B-2340 Beerse, Belgium
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11
-
-janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## България
 
@@ -2220,7 +3387,7 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
@@ -2232,7 +3399,9 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
 
 ## France
 
@@ -2248,7 +3417,7 @@ UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
@@ -2264,11 +3433,13 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+Janssen-Cilag AS
+
+Tlf: +47 24 12 65 00 jacno@its.jnj.com
 
 ## Österreich
 
@@ -2284,9 +3455,7 @@ Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson Rom â nia SRL Tel: +40 21 207 1800
-
-<div style=\"page-break-after: always\"></div>
+Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
 
 ## Ireland
 
@@ -2298,7 +3467,9 @@ medinfo@its.jnj.com
 
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000
+Janssen-Cilag AB c/o Vistor ehf.
+
+Sími: +354 535 7000
 
 janssen@vistor.is
 
@@ -2326,8 +3497,6 @@ lv@its.jnj.com
 
 This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicinal product is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
 ## Slovenija
 
 Johnson &amp; Johnson d.o.o.
@@ -2352,4 +3521,525 @@ jacfi@its.jnj.com
 
 ## Sverige
 
+Janssen-Cilag AB
+
+Tfn: +46 8 626 50 00
+
+jacse@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
+
+Detailed information on this medicinal product is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## REZOLSTA 600 mg/90 mg - dispersible tablets
+
+darunavir/cobicistat
+
+## Read all of this leaflet carefully before you (or your child) start taking this medicine because it contains important information for you.
+
+- Keep this leaflet. You or your child may need to read it again.
+- If you or your child have any further questions, ask your or your child's doctor, pharmacist or nurse.
+- This medicine has been prescribed for you or your child only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours (or your child's).
+- If you or your child get any side effects, talk to your (or your child's) doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- The information in this leaflet is for you or your child - but in this leaflet we usually just say you.
+
+## What is in this leaflet
+
+1. What REZOLSTA is and what it is used for
+2. What you need to know before you take REZOLSTA
+3. How to take REZOLSTA
+4. Possible side effects
+5. How to store REZOLSTA
+6. Contents of the pack and other information
+
+## 1. What REZOLSTA is and what it is used for
+
+## What is REZOLSTA?
+
+REZOLSTA contains the active substances darunavir and cobicistat.
+
+Darunavir belongs to a group of HIV medicines called 'protease inhibitors' which work by reducing the amount of HIV in your body to a very low level. It is given with cobicistat, which increases the amount of darunavir in your blood.
+
+Treatment with REZOLSTA will improve your immune system (your body's natural defences) and reduce the risk of developing illnesses linked to HIV infection, but REZOLSTA is not a cure for HIV infection.
+
+## What it is used for?
+
+REZOLSTA 600 mg/90 mg (darunavir/cobicistat) is used to treat children aged 3 years and older who weigh at least 15 kilograms to less than 25 kilograms and who are infected by HIV (see How to take REZOLSTA in this leaflet).
+
+REZOLSTA must be taken in combination with other HIV medicines. Your doctor will discuss with you which combination of medicines is best for you.
+
+## 2. What you need to know before you take REZOLSTA
+
+## Do not take REZOLSTA
+
+- if you are allergic to darunavir, cobicistat or any of the other ingredients of this medicine (listed in section 6).
+- if you have severe liver problems . Ask your doctor if you are unsure about the severity of your liver disease. Some additional tests might be necessary.
+
+Tell your doctor about all medicines you take including medicines taken orally, inhaled, injected or applied to the skin.
+
+<div style=\"page-break-after: always\"></div>
+
+## Do not combine REZOLSTA with any of the following medicines
+
+If you are taking any of these, ask your doctor about switching to another medicine.
+
+| Medicine                                                                               | Purpose of the medicine                                                                                                                                            |
+|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Alfuzosin                                                                              | to treat enlarged prostate                                                                                                                                         |
+| Amiodarone, bepridil, dronedarone, ivabradine, quinidine, ranolazine                   | to treat certain heart disorders e.g. abnormal heart beat                                                                                                          |
+| Carbamazepine, phenobarbital and phenytoin                                             | to prevent seizures                                                                                                                                                |
+| Astemizole or terfenadine                                                              | to treat allergy symptoms                                                                                                                                          |
+| Colchicine (if you have kidney/liver problems)                                         | to treat gout or familial Mediterranean fever                                                                                                                      |
+| The combination product lopinavir/ritonavir                                            | anti-HIV medicine                                                                                                                                                  |
+| Rifampicin                                                                             | to treat some infections such as tuberculosis                                                                                                                      |
+| Lurasidone, pimozide , quetiapine or sertindole                                        | to treat psychiatric conditions                                                                                                                                    |
+| Ergot alkaloids like ergotamine , dihydroergotamine , ergometrine and methylergonovine | to treat migraine headaches                                                                                                                                        |
+| Cisapride                                                                              | to treat some stomach conditions                                                                                                                                   |
+| St John's Wort (Hypericum perforatum)                                                  | a herbal product used for depression                                                                                                                               |
+| Elbasvir/grazoprevir                                                                   | to treat hepatitis C infection                                                                                                                                     |
+| Lovastatin, simvastatin, and lomitapide                                                | to lower cholesterol levels                                                                                                                                        |
+| Triazolam or oral (taken by mouth) midazolam                                           | to help you sleep and/or relieve anxiety                                                                                                                           |
+| Sildenafil                                                                             | to treat a heart and lung disorder called pulmonary arterial hypertension. There are other uses for sildenafil. Please see section 'Other medicines and REZOLSTA'. |
+| Avanafil                                                                               | to treat erectile dysfunction                                                                                                                                      |
+| Ticagrelor                                                                             | to help stop the clumping of platelets in the treatment of patients with a history of a heart attack                                                               |
+| Naloxegol                                                                              | to treat opioid induced constipation                                                                                                                               |
+| Dapoxetine                                                                             | to treat premature ejaculation                                                                                                                                     |
+| Domperidone                                                                            | to treat nausea and vomiting                                                                                                                                       |
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before taking REZOLSTA.
+
+People taking REZOLSTA may still develop infections or other illnesses associated with HIV infection. You must keep in regular contact with your doctor.
+
+People taking REZOLSTA may develop a skin rash. Infrequently a rash may become severe or potentially life-threatening. Please contact your doctor whenever you develop a rash.
+
+In patients taking REZOLSTA and raltegravir (for HIV infection), rashes (generally mild or moderate) may occur more frequently than in patients taking either medicine separately.
+
+Make sure that you check the following points and tell your doctor if any of these apply to you.
+
+- Tell your doctor if you have had problems with your liver before, including hepatitis B or C infection. Your doctor may evaluate how severe your liver disease is before deciding if you can take REZOLSTA.
+- Tell your doctor if you have had problems with your kidneys . Your doctor will carefully consider whether to treat you with REZOLSTA.
+- Tell your doctor if you have diabetes . REZOLSTA might increase sugar levels in the blood.
+- Tell your doctor immediately if you notice any symptoms of infection (for example enlarged lymph nodes and fever). In some patients with advanced HIV infection and a history of unusual infections due to a weakened immune system (opportunistic infection), signs and symptoms of inflammation from previous infections may occur soon after HIV treatment is started. It is
+
+<div style=\"page-break-after: always\"></div>
+
+believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
+
+- In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment. If you notice any symptoms of infection or other symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, please inform your doctor immediately so you can be given the necessary treatment.
+- Tell your doctor if you have haemophilia . REZOLSTA might increase the risk of bleeding.
+- Tell your doctor if you are allergic to sulphonamides (e.g. used to treat certain infections).
+- Tell your doctor if you notice any musculoskeletal problems . Some patients taking combination antiretroviral therapy may develop a bone disease called osteonecrosis (death of bone tissue caused by loss of blood supply to the bone). This may be more likely with long-term HIV treatment, more severe damage to the immune system, overweight, or the use of alcohol or other medicines called corticosteroids. Signs of osteonecrosis are joint stiffness, aches and pains (especially of the hip, knee and shoulder) and difficulty in movement. If you notice any of these symptoms please inform your doctor.
+
+## Children and adolescents
+
+## This medicine is not for use in children younger than 3 years of age, or weighing less than 15 kilograms .
+
+REZOLSTA is also available as an 800 mg/150 mg tablet for children weighing at least 40 kg (see separate Package Leaflet for REZOLSTA 800 mg/150 mg film-coated tablets).
+
+REZOLSTA is also available as a 675 mg/150 mg scored tablet for children 6 years and older weighing at least 25 kg and less than 40 kg (see separate Package Leaflet for REZOLSTA 675 mg/150 mg film-coated tablets).
+
+## Other medicines and REZOLSTA
+
+Tell your doctor or pharmacist if you are taking or have recently taken any other medicines.
+
+There are some medicines that you must not combine with REZOLSTA. These are mentioned above under the heading ' Do not combine REZOLSTA with any of the following medicines: '
+
+REZOLSTA must not be used with another antiviral medicine that contains a booster or another antiviral that requires boosting. In some cases dosage of other medicines might need to be changed. Therefore, always tell your doctor if you take other anti-HIV medicines and follow your doctor's instruction carefully on which medicines can be combined.
+
+The effects of REZOLSTA might be reduced if you take any of the following products. Tell your doctor if you take:
+
+- Bosentan (to treat heart disease)
+- Dexamethasone (injectable) (corticosteroid)
+- Efavirenz, etravirine, nevirapine (to treat HIV infection)
+- Rifapentine, rifabutin (to treat bacterial infections).
+
+The effects of other medicines might be influenced if you take REZOLSTA and your doctor might want to do some additional blood tests. Tell your doctor if you take:
+
+- Amlodipine, carvedilol, diltiazem, disopyramide, felodipine, flecainide, lidocaine, metoprolol, mexiletine, nicardipine , nifedipine, propafenone , timolol, verapamil (for heart disease) as the therapeutic effect or side effects of these medicines may be increased.
+- Apixaban, dabigatran etexilate, edoxaban, rivaroxaban, warfarin, clopidogrel (to reduce clotting of the blood) as their therapeutic effect or side effects may be altered.
+- Clonazepam (to prevent seizures).
+
+<div style=\"page-break-after: always\"></div>
+
+- Oestrogen-based hormonal contraceptives and hormone replacement therapy. REZOLSTA might reduce its effectiveness. When used for birth control, alternative methods of non-hormonal contraception are recommended.
+- Ethinylestradiol/drospirenone . REZOLSTA might increase the risk for elevated potassium levels by drospirenone.
+- Atorvastatin, fluvastatin, pitavastatin, pravastatin, rosuvastatin (to lower cholesterol levels). The risk of muscle damage might be increased. Your doctor will evaluate which cholesterol lowering regimen is best for your specific situation.
+- Ciclosporin, everolimus, tacrolimus, sirolimus (for dampening down your immune system) as the therapeutic effect or side effects of these medicines might be increased.
+- Corticosteroids including betamethasone, budesonide, fluticasone, mometasone, prednisone, triamcinolone . These medicines are used to treat allergies, asthma, inflammatory bowel diseases, inflammatory conditions of the skin, eyes, joints and muscles and other inflammatory conditions. These medicines are generally taken orally, inhaled, injected or applied to the skin. If alternatives cannot be used, its use should only take place after medical evaluation and under close monitoring by your doctor for corticosteroid side effects.
+- Buprenorphine/naloxone , methadone (medicines to treat opioid dependence)
+- Salmeterol (medicine to treat asthma)
+- Artemether/lumefantrine (a combination medicine to treat malaria)
+- Dasatinib, irinotecan, nilotinib, vinblastine, vincristine (medicines to treat cancer)
+- Perphenazine, risperidone, thioridazine (psychiatric medicines)
+- Clorazepate, diazepam, estazolam, flurazepam (medicines to treat sleeping disorders or anxiety)
+- Sildenafil, tadalafil, vardenafil (for erectile dysfunction or to treat a heart and lung disorder called pulmonary arterial hypertension)
+- Glecaprevir/pibrentasvir (to treat hepatitis C infection)
+- Fesoterodine, solifenacin (to treat urologic disorders).
+
+Your doctor might want to do some additional blood tests and the dosage of other medicines might need to be changed since either their own or REZOLSTA's therapeutic effect or side effects may be influenced when combined. Tell your doctor if you take:
+
+- Dabigatran etexilate, edoxaban, warfarin (to reduce clotting of the blood)
+- Alfentanil (injectable, strong and short-acting, painkiller that is used for surgical procedures)
+- Digoxin (to treat certain heart disorders)
+- Clarithromycin (antibiotic)
+- Clotrimazole, fluconazole, itraconazole, isavuconazole, posaconazole (against fungal infections). Voriconazole should only be taken after medical evaluation.
+- Rifabutin (against bacterial infections)
+- Tadalafil, sildenafil, vardenafil (for erectile dysfunction or high blood pressure in the pulmonary circulation)
+- Amitriptyline, desipramine, imipramine, nortriptyline, paroxetine, sertraline, trazodone (to treat depression and anxiety)
+- Maraviroc (to treat HIV infection)
+- Colchicine (to treat gout or familial Mediterranean fever). If you have renal and/or hepatic impairment see section ' Do not combine REZOLSTA with any of the following medicines '.
+- Bosentan (to treat high blood pressure in the pulmonary circulation)
+- Buspirone, clorazepate, diazepam, estazolam, flurazepam, zolpidem, midazolam when used as injection (medicines to treat trouble with sleeping and/or anxiety)
+- Metformin (to treat type 2 diabetes)
+- Fentanyl, oxycodone, tramadol (to treat pain).
+
+This is not a complete list of medicines. Tell your healthcare provider about all medicines that you are taking.
+
+## Pregnancy and breast-feeding
+
+Tell your doctor immediately if you are pregnant or planning to become pregnant. Pregnant women should not take REZOLSTA.
+
+<div style=\"page-break-after: always\"></div>
+
+Because of the potential for side effects in breast-fed infants, women should not breast-feed if they are receiving REZOLSTA.
+
+Breast-feeding is not recommended in women living with HIV because HIV infection can be passed on to the baby in breast milk. If you are breast-feeding, or thinking about breast-feeding, you should discuss it with your doctor as soon as possible.
+
+## Driving and using machines
+
+Do not operate machines or drive if you feel dizzy after taking REZOLSTA.
+
+## REZOLSTA contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+
+## 3. How to take REZOLSTA
+
+Always use this medicine exactly as your doctor, pharmacist or nurse has told you. Check with your doctor, pharmacist or nurse if you are not sure.
+
+You must take REZOLSTA every day and always with food. REZOLSTA cannot work properly without food. You must eat a meal or a snack within 30 minutes prior to taking your REZOLSTA. The type of food is not important. REZOLSTA dispersible tablets must be dispersed in water.
+
+- Take your other HIV medicines used in combination with REZOLSTA as recommended by your doctor.
+
+## Instructions for Use
+
+## Step 1: Removing the child resistant cap
+
+<!-- image -->
+
+The plastic bottle comes with a child resistant cap and must be opened as follows:
+
+- Push the plastic screw cap down while turning it counter clockwise.
+- Remove the unscrewed cap.
+- Remove one tablet. Do not break or crush the tablet.
+
+## Step 2: Place the tablet in a cup
+
+-  Place the tablet in a cup in 30 mL (2 tablespoons) of non-carbonated water.
+-  Stir well until the tablet is completely dispersed.
+
+If you spill any medicine, clean up the spill. Throw away the rest of the prepared medicine and make a new dose.
+
+The dose of medicine must be taken right away. If you do not take the prepared medicine right away, throw away the mixture, and prepare a new dose of medicine.
+
+## Step 3: Taking the medicine
+
+-  Take all the prepared medicine right away. If needed, to aid administration, add additional water (10 mL or 2 teaspoons) or any of the following to the dispersed mixture: orange juice (10 mL or 2 teaspoons), applesauce (1 teaspoon), or yogurt (1 teaspoon). Mix and take all the medicine right away.
+-  The cup should be rinsed with 5 mL (1 teaspoon) of liquid or ½ teaspoon of soft food and the rinse completely swallowed to ensure the entire dose is consumed. This step may be repeated as needed.
+
+## If you take more REZOLSTA than you should
+
+Contact your doctor, pharmacist or nurse immediately.
+
+<div style=\"page-break-after: always\"></div>
+
+## If you forget to take REZOLSTA
+
+If you notice within 12 hours , you must take the tablet immediately. Always take with food. If you notice after 12 hours , then skip the intake and take the next doses as usual. Do not take a double dose to make up for a forgotten dose.
+
+## If you vomit after taking REZOLSTA
+
+If you vomit within 4 hours of taking the medicine, another dose of REZOLSTA should be taken with food as soon as possible. If you vomit more than 4 hours after taking the medicine, then you do not need to take another dose of REZOLSTA until the next regularly scheduled time.
+
+Contact your doctor if you are uncertain about what to do if you miss a dose or vomit.
+
+## Do not stop taking REZOLSTA without talking to your doctor first
+
+After therapy has started, it must not be stopped without instruction of the doctor.
+
+Anti-HIV medicines may make you feel better. Even when you feel better, do not stop taking REZOLSTA. Talk to your doctor first.
+
+If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+During HIV therapy there may be an increase in weight and in levels of blood lipids and glucose. This is partly linked to restored health and life style, and in the case of blood lipids sometimes to the HIV medicines themselves. Your doctor will test for these changes.
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Tell your doctor if you develop any of the following side effects
+
+Liver problems that may occasionally be severe have been reported. Your doctor should do blood tests before you start REZOLSTA. If you have chronic hepatitis B or C infection, your doctor should check your blood tests more often because you have an increased chance of developing liver problems. Talk to your doctor about the signs and symptoms of liver problems. These may include yellowing of your skin or whites of your eyes, dark (tea coloured) urine, pale coloured stools (bowel movements), nausea, vomiting, loss of appetite, or pain, aching, or pain and discomfort on your right side below your ribs.
+
+A common side effect of REZOLSTA is skin rash (more often when used in combination with raltegravir), itching. The rash is usually mild to moderate. A skin rash might also be a symptom of a rare severe situation. It is, therefore, important to talk to your doctor if you develop a rash. Your doctor will advise you how to deal with your symptoms or whether REZOLSTA must be stopped.
+
+Other severe side effects, seen up to 1 patient in 10, were diabetes. Inflammation of the pancreas (pancreatitis) has been reported in up to 1 patient in 100.
+
+Very common side effects (may affect more than 1 in 10 people)
+
+- headache
+- diarrhoea, nausea.
+
+Common side effects (may affect up to 1 in 10 people)
+
+- allergic reactions such as itching
+- decreased appetite
+- abnormal dreams
+- vomiting, pain or swelling of the belly, indigestion, flatulence
+- muscle pain
+
+<div style=\"page-break-after: always\"></div>
+
+- tiredness
+- abnormal blood test results such as some tests for your liver or kidney. Your doctor will explain these to you.
+- weakness.
+
+Uncommon side effects (may affect up to 1 in 100 people)
+
+- symptoms of infection or of autoimmune disorders (immune reconstitution inflammatory syndrome)
+- osteonecrosis (death of bone tissue caused by loss of blood supply to the bone)
+- enlargement of breasts
+- abnormal blood test results such as some tests for your pancreas, high level of sugar, abnormal levels of 'lipids' (fats). Your doctor will explain these to you.
+- allergic reactions such as nettle rash (urticaria), severe swelling of the skin and other tissues (most often the lips or the eyes)
+- severe rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals.
+
+Rare side effects (may affect up to 1 in 1,000 people)
+
+- a reaction called DRESS [severe rash, which may be accompanied by fever, fatigue, swelling of the face or lymph glands, increase of eosinophils (type of white blood cells), effects on liver, kidney or lung]
+- darunavir crystals in the kidney causing kidney disease.
+
+Side effects with unknown frequency: a rash may become severe or potentially life-threatening:
+
+- rash with blisters and peeling skin over much of the body
+- red rash covered with small pus-filled bumps that can spread over the body, sometimes with a fever.
+
+Some side effects are typical for HIV medicines in the same family as REZOLSTA. These are:
+
+- muscle pain, tenderness or weakness. On rare occasions, these muscle disorders have been serious.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store REZOLSTA
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the carton and on the bottle after EXP. The expiry date refers to the last day of that month.
+
+Do not use this medicine after 8 weeks of first opening the bottle.
+
+Do not store above 30 °C.
+
+Store in the original package in order to protect from light. The oxygen absorber canister may be removed after opening.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6. Contents of the pack and other information
+
+## What REZOLSTA contains
+
+- The active substances are darunavir and cobicistat. Each tablet contains 600 mg of darunavir (as ethanolate) and 90 mg cobicistat.
+- The other ingredients are anhydrous colloidal silica (E551), cellulose microcrystalline (E460(i)), cellulose silicified microcrystalline (E460(i)), croscarmellose sodium (E468), magnesium stearate (E572), mannitol (E421), strawberry flavour (containing natural flavour components, maltodextrin (E1400), modified corn starch (E1450) and medium chain triglyceride), sucralose (E955). The film-coating contains glycerol monocaprylocaprate type 1 (E471), macrogol polyvinyl alcohol graft copolymer (E1209), polyvinyl alcohol - partially hydrolysed (E1203), talc (E553b), titanium dioxide (E171), iron oxide red (E172) and iron oxide black (E172).
+
+## What REZOLSTA looks like and contents of the pack
+
+Reddish purple, oval-shaped film-coated tablet, mentioning 690 on one side, TG on the other side. 30 tablets in a plastic bottle (with an oxygen absorber canister that may be removed after opening). The oxygen absorber is contained in a separate canister and should not be swallowed.
+
+## Marketing Authorisation Holder
+
+Janssen-Cilag International NV, Turnhoutseweg 30, B-2340 Beerse, Belgium
+
+## Manufacturer
+
+Janssen Pharmaceutica NV, Turnhoutseweg 30, B-2340 Beerse, Belgium
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
+
+## България
+
+'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+
+## Česká republika
+
+Janssen-Cilag s.r.o.
+
+Tel: +420 227 012 227
+
+## Danmark
+
+Janssen-Cilag A/S Tlf.: +45 4594 8282
+
+jacdk@its.jnj.com
+
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+
+## Eesti
+
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
+
+## Lietuva
+
+UAB \"JOHNSON &amp; JOHNSON\"
+
+Tel: +370 5 278 68 88 lt@its.jnj.com
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
+
+## Magyarország
+
+Janssen-Cilag Kft. Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
+
+## Malta
+
+AM MANGION LTD
+
+Tel: +356 2397 6000
+
+## Nederland
+
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
+
+## Norge
+
+Janssen-Cilag AS
+
+Tlf: +47 24 12 65 00 jacno@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
+
+## Österreich
+
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη
+
+Α.Ε.Β.Ε.
+
+Tηλ: +30 210 80 90 000
+
+## España
+
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
+
+## France
+
+Janssen-Cilag
+
+Tél: 0 800 25 50 75 / +33 1 55 00 40 03
+
+medisource@its.jnj.com
+
+## Hrvatska
+
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
+
+jjsafety@JNJCR.JNJ.com
+
+## Ireland
+
+Janssen Sciences Ireland UC Tel: 1 800 709 122
+
+medinfo@its.jnj.com
+
+## Ísland
+
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
+
+## Italia
+
+Janssen-Cilag SpA
+
+Tel: 800.688.777 / +39 02 2510 1
+
+janssenita@its.jnj.com
+
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ
+
+Τηλ: +357 22 207 700
+
+## Latvija
+
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+
+Tel: +371 678 93561
+
+lv@its.jnj.com
+
+## This leaflet was last revised in {MM/YYYY}.
+
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
+
+## Polska
+
+Janssen-Cilag Polska Sp. z o.o.
+
+Tel.: +48 22 237 60 00
+
+## Portugal
+
+Janssen-Cilag Farmacêutica, Lda.
+
+Tel: +351 214 368 600
+
+## România
+
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
+
+## Slovenija
+
+Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
+
+## Slovenská republika
+
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
+
+## Suomi/Finland
+
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+
+## Sverige
+
 Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+
+Detailed information on this medicinal product is available on the European Medicines Agency web site: https://www.ema.europa.eu.

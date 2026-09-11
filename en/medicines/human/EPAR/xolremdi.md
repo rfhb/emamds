@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-20 17:20:00
+document_datetime: 2026-09-07 17:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xolremdi.html
 document_name: xolremdi.html
 version: success
-processing_time: 0.1450936
-conversion_datetime: 2026-08-22 23:16:18.881281
+processing_time: 0.141282
+conversion_datetime: 2026-09-11 18:00:56.916605
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -122,7 +122,7 @@ English (EN) (125.92 KB - PDF)
 
 [View](/en/documents/overview/xolremdi-epar-medicine-overview_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-273)
+[Other languages (24)](#file-language-dropdown-80)
 
 български (BG) (139.51 KB - PDF)
 
@@ -280,161 +280,161 @@ English (EN) (558.59 KB - PDF)
 
 Xolremdi : EPAR - Product information
 
-English (EN) (346.78 KB - PDF)
+English (EN) (292.72 KB - PDF)
 
-**First published:** 12/05/2026 **Last updated:** 20/08/2026
+**First published:** 12/05/2026 **Last updated:** 07/09/2026
 
 [View](/en/documents/product-information/xolremdi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-791)
+[Other languages (24)](#file-language-dropdown-482)
 
-български (BG) (769.1 KB - PDF)
+български (BG) (717.95 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/bg/documents/product-information/xolremdi-epar-product-information_bg.pdf)
 
-español (ES) (357.56 KB - PDF)
+español (ES) (303.6 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/es/documents/product-information/xolremdi-epar-product-information_es.pdf)
 
-čeština (CS) (636.86 KB - PDF)
+čeština (CS) (584.09 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/cs/documents/product-information/xolremdi-epar-product-information_cs.pdf)
 
-dansk (DA) (378.26 KB - PDF)
+dansk (DA) (324.39 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/da/documents/product-information/xolremdi-epar-product-information_da.pdf)
 
-Deutsch (DE) (381.87 KB - PDF)
+Deutsch (DE) (328.27 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/de/documents/product-information/xolremdi-epar-product-information_de.pdf)
 
-eesti (ET) (465.43 KB - PDF)
+eesti (ET) (411.06 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/et/documents/product-information/xolremdi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (772.82 KB - PDF)
+ελληνικά (EL) (720.76 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/el/documents/product-information/xolremdi-epar-product-information_el.pdf)
 
-français (FR) (368.33 KB - PDF)
+français (FR) (314.03 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/fr/documents/product-information/xolremdi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (555.93 KB - PDF)
+hrvatski (HR) (502.95 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/hr/documents/product-information/xolremdi-epar-product-information_hr.pdf)
 
-italiano (IT) (439.76 KB - PDF)
+italiano (IT) (384.98 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/it/documents/product-information/xolremdi-epar-product-information_it.pdf)
 
-latviešu (LV) (676.45 KB - PDF)
+latviešu (LV) (624.02 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/lv/documents/product-information/xolremdi-epar-product-information_lv.pdf)
 
-lietuvių (LT) (650.77 KB - PDF)
+lietuvių (LT) (600.73 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/lt/documents/product-information/xolremdi-epar-product-information_lt.pdf)
 
-magyar (HU) (579.09 KB - PDF)
+magyar (HU) (523.89 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/hu/documents/product-information/xolremdi-epar-product-information_hu.pdf)
 
-Malti (MT) (670.7 KB - PDF)
+Malti (MT) (619.11 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/mt/documents/product-information/xolremdi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (362.16 KB - PDF)
+Nederlands (NL) (307.19 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/nl/documents/product-information/xolremdi-epar-product-information_nl.pdf)
 
-polski (PL) (660.33 KB - PDF)
+polski (PL) (609.29 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/pl/documents/product-information/xolremdi-epar-product-information_pl.pdf)
 
-português (PT) (356.71 KB - PDF)
+português (PT) (302.76 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/pt/documents/product-information/xolremdi-epar-product-information_pt.pdf)
 
-română (RO) (691.38 KB - PDF)
+română (RO) (638.95 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/ro/documents/product-information/xolremdi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (613 KB - PDF)
+slovenčina (SK) (559.86 KB - PDF)
 
-**First published:** 12/05/2026 **Last updated:** 20/08/2026
+**First published:** 12/05/2026 **Last updated:** 07/09/2026
 
 [View](/sk/documents/product-information/xolremdi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (579.77 KB - PDF)
+slovenščina (SL) (528.44 KB - PDF)
 
-**First published:** 12/05/2026 **Last updated:** 20/08/2026
+**First published:** 12/05/2026 **Last updated:** 07/09/2026
 
 [View](/sl/documents/product-information/xolremdi-epar-product-information_sl.pdf)
 
-suomi (FI) (351.98 KB - PDF)
+suomi (FI) (298.38 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/fi/documents/product-information/xolremdi-epar-product-information_fi.pdf)
 
-svenska (SV) (449 KB - PDF)
+svenska (SV) (392.43 KB - PDF)
 
-**First published:** 12/05/2026 **Last updated:** 20/08/2026
+**First published:** 12/05/2026 **Last updated:** 07/09/2026
 
 [View](/sv/documents/product-information/xolremdi-epar-product-information_sv.pdf)
 
-Íslenska (IS) (369.99 KB - PDF)
+Íslenska (IS) (318.82 KB - PDF)
 
-**First published:** 12/05/2026 **Last updated:** 20/08/2026
+**First published:** 12/05/2026 **Last updated:** 07/09/2026
 
 [View](/is/documents/product-information/xolremdi-epar-product-information_is.pdf)
 
-norsk (NO) (343.59 KB - PDF)
+norsk (NO) (289.9 KB - PDF)
 
 **First published:** 12/05/2026 **Last updated:** 20/08/2026
 
 [View](/no/documents/product-information/xolremdi-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000368489
+**Latest procedure affecting product information:** N/0000370065
 
-19/08/2026
+07/09/2026
 
 icon globe
 
@@ -459,7 +459,7 @@ English (EN) (66.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-611)
+[Other languages (24)](#file-language-dropdown-233)
 
 български (BG) (82.58 KB - PDF)
 
@@ -645,7 +645,7 @@ Xolremdi is indicated in patients 12 years of age and older for the treatment of
 - **Marketing authorisation issued**
     - 27/04/2026
 - **Revision**
-    - 2
+    - 3
 
 ## Assessment history
 
@@ -657,9 +657,9 @@ Collapse section
 
 Xolremdi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.53 KB - PDF)
+English (EN) (153.47 KB - PDF)
 
-**First published:** 07/07/2026 **Last updated:** 20/08/2026
+**First published:** 07/07/2026 **Last updated:** 07/09/2026
 
 [View](/en/documents/procedural-steps-after/xolremdi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -707,6 +707,6 @@ English (EN) (163.47 KB - PDF)
 
 **This page was last updated on**
 
-20/08/2026
+07/09/2026
 
 ## Share this page

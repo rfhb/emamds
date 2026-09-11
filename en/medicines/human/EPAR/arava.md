@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-19 17:52:00
+document_datetime: 2026-09-07 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arava.html
 document_name: arava.html
 version: success
-processing_time: 0.1244996
-conversion_datetime: 2026-05-22 22:39:40.134531
+processing_time: 0.1882212
+conversion_datetime: 2026-09-11 17:54:02.234917
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Arava
 
@@ -52,27 +52,27 @@ Expand section
 
 Collapse section
 
-## What is Arava?
+### What is Arava?
 
 Arava is a medicine that contains the active substance leflunomide. It is available as tablets (white and round: 10 and 100 mg; yellow and triangular: 20 mg).
 
-## What is Arava used for?
+### What is Arava used for?
 
 Arava is used to treat adults with active rheumatoid arthritis (an immune-system disease causing inflammation of the joints) or active psoriatic arthritis (a disease causing red, scaly patches on the skin and inflammation of the joints).
 
 The medicine can only be obtained with a prescription.
 
-## How is Arava used?
+### How is Arava used?
 
 Arava treatment should be started and supervised by a specialist who has experience in the treatment of rheumatoid arthritis and psoriatic arthritis. The doctor should carry out blood tests to check the patient's liver, white-blood-cell counts and platelet counts before prescribing Arava, and regularly during treatment.
 
 Arava treatment usually starts with a 'loading dose' of 100 mg once a day for three days, followed by a maintenance dose. The recommended maintenance dose is 10 to 20 mg once a day in patients with rheumatoid arthritis, and 20 mg once a day in patients with psoriatic arthritis. The medicine usually starts to have an effect after four to six weeks. Its effect may improve further for up to six months.
 
-## How does Arava work?
+### How does Arava work?
 
 The active substance in Arava, leflunomide, is an immunosuppressant. It reduces inflammation by reducing the production of immune cells called 'lymphocytes', which are responsible for inflammation. Leflunomide does this by blocking an enzyme called 'dihydroorotate dehydrogenase', which is necessary for the lymphocytes to multiply. With fewer lymphocytes, there is less inflammation, helping to control the symptoms of arthritis.
 
-## How has Arava been studied?
+### How has Arava been studied?
 
 In rheumatoid arthritis, Arava has been studied in four main studies involving over 2,000 patients, in which it was compared with placebo (a dummy treatment), or with methotrexate or sulphasalazine (other medicines used to treat rheumatoid arthritis). Two of the studies lasted six months, and two lasted a year. The two longer studies were then extended, with patients remaining on the medicines for at least one more year.
 
@@ -80,13 +80,13 @@ In psoriatic arthritis, Arava has been compared with placebo in 186 patients ove
 
 In all of the studies, the main measure of effectiveness was the number of patients who responded to treatment, as defined by disease-specific criteria (American College of Rheumatology response rates for rheumatoid arthritis, and the Psoriatic Arthritis treatment Response Criteria for psoriatic arthritis).
 
-## What benefit has Arava shown during the studies?
+### What benefit has Arava shown during the studies?
 
 In rheumatoid arthritis, Arava was more effective than placebo and as effective as sulphasalazine. Between 49 and 55% of the patients taking Arava responded to treatment, compared with 26 to 28% of those taking placebo, and 54% of those taking sulphasalazine. These results were maintained in the extension studies. Over the first year of treatment, Arava was as effective as methotrexate, but only when it was taken with folate (a type of vitamin B). Arava was not as effective as methotrexate in the extension study.
 
 In psoriatic arthritis, Arava was more effective than placebo, with 59% of the patients taking Arava responding to treatment, compared with 30% of those taking placebo.
 
-## What is the risk associated with Arava?
+### What is the risk associated with Arava?
 
 The most common side effects with Arava (seen in between 1 and 10 patients in 100) are leucopenia (low white-blood-cell counts), mild allergic reactions, increased creatine-phosphokinase levels (a marker of muscle damage), paraesthesia (abnormal sensations like pins and needles), headache, dizziness, mild increases in blood pressure, diarrhoea, nausea (feeling sick), vomiting, inflammation of the mouth such as mouth ulcers, abdominal pain (stomach ache), increased liver enzyme levels, hair loss, eczema, rash, pruritus (itching), dry skin, tenosynovitis (inflammation of the sheath surrounding the tendons), loss of appetite, weight loss and asthenia (weakness). For the full list of all side effects reported with Arava, see the package leaflet.
 
@@ -103,11 +103,11 @@ Arava must not be used in pregnant women, in women who may become pregnant, or d
 
 Doctors prescribing Arava need to be aware of the risk of liver problems associated with the medicine. They also need to take special care when switching a patient to Arava, or when switching a patient who is receiving Arava to another treatment.
 
-## Why has Arava been approved?
+### Why has Arava been approved?
 
 The CHMP decided that Arava's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## Other information about Arava
+### Other information about Arava
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Arava to Sanofi-Aventis Deutschland GmbH on 2 September 1999. The marketing authorisation is valid for an unlimited period.
 
@@ -123,7 +123,7 @@ English (EN) (76.34 KB - PDF)
 
 [View](/en/documents/overview/arava-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-662)
+[Other languages (22)](#file-language-dropdown-712)
 
 български (BG) (104.75 KB - PDF)
 
@@ -155,7 +155,7 @@ Deutsch (DE) (78.18 KB - PDF)
 
 [View](/de/documents/overview/arava-epar-summary-public_de.pdf)
 
-eesti keel (ET) (75.96 KB - PDF)
+eesti (ET) (75.96 KB - PDF)
 
 **First published:** 20/07/2009 **Last updated:** 29/06/2015
 
@@ -185,13 +185,13 @@ italiano (IT) (76.42 KB - PDF)
 
 [View](/it/documents/overview/arava-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (100.87 KB - PDF)
+latviešu (LV) (100.87 KB - PDF)
 
 **First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/lv/documents/overview/arava-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (100.53 KB - PDF)
+lietuvių (LT) (100.53 KB - PDF)
 
 **First published:** 20/07/2009 **Last updated:** 29/06/2015
 
@@ -245,7 +245,7 @@ slovenščina (SL) (93.25 KB - PDF)
 
 [View](/sl/documents/overview/arava-epar-summary-public_sl.pdf)
 
-Suomi (FI) (96.97 KB - PDF)
+suomi (FI) (96.97 KB - PDF)
 
 **First published:** 20/07/2009 **Last updated:** 29/06/2015
 
@@ -269,167 +269,168 @@ English (EN) (1.03 MB - PDF)
 
 Arava : EPAR - Product Information
 
-English (EN) (787.41 KB - PDF)
+English (EN) (792.51 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/en/documents/product-information/arava-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-884)
+[Other languages (24)](#file-language-dropdown-956)
 
-български (BG) (970.11 KB - PDF)
+български (BG) (929.22 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/bg/documents/product-information/arava-epar-product-information_bg.pdf)
 
-español (ES) (707.84 KB - PDF)
+español (ES) (937.93 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/es/documents/product-information/arava-epar-product-information_es.pdf)
 
-čeština (CS) (949.02 KB - PDF)
+čeština (CS) (967.14 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/cs/documents/product-information/arava-epar-product-information_cs.pdf)
 
-dansk (DA) (760.03 KB - PDF)
+dansk (DA) (801.19 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/da/documents/product-information/arava-epar-product-information_da.pdf)
 
-Deutsch (DE) (767.43 KB - PDF)
+Deutsch (DE) (768.96 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/de/documents/product-information/arava-epar-product-information_de.pdf)
 
-eesti keel (ET) (769.1 KB - PDF)
+eesti (ET) (714.62 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/et/documents/product-information/arava-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.07 MB - PDF)
+ελληνικά (EL) (1.08 MB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/el/documents/product-information/arava-epar-product-information_el.pdf)
 
-français (FR) (938.01 KB - PDF)
+français (FR) (993.12 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/fr/documents/product-information/arava-epar-product-information_fr.pdf)
 
-hrvatski (HR) (746.47 KB - PDF)
+hrvatski (HR) (983.82 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/hr/documents/product-information/arava-epar-product-information_hr.pdf)
 
-íslenska (IS) (972.66 KB - PDF)
+italiano (IT) (863.58 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
-
-[View](/is/documents/product-information/arava-epar-product-information_is.pdf)
-
-italiano (IT) (903.38 KB - PDF)
-
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/it/documents/product-information/arava-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (901.27 KB - PDF)
+latviešu (LV) (880.79 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/lv/documents/product-information/arava-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (872.14 KB - PDF)
+lietuvių (LT) (844.45 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/lt/documents/product-information/arava-epar-product-information_lt.pdf)
 
-magyar (HU) (557.76 KB - PDF)
+magyar (HU) (1012.72 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/hu/documents/product-information/arava-epar-product-information_hu.pdf)
 
-Malti (MT) (1.07 MB - PDF)
+Malti (MT) (1.03 MB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/mt/documents/product-information/arava-epar-product-information_mt.pdf)
 
-Nederlands (NL) (827.28 KB - PDF)
+Nederlands (NL) (846.28 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/nl/documents/product-information/arava-epar-product-information_nl.pdf)
 
-norsk (NO) (728.4 KB - PDF)
+polski (PL) (1014.16 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
-
-[View](/no/documents/product-information/arava-epar-product-information_no.pdf)
-
-polski (PL) (1.03 MB - PDF)
-
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/pl/documents/product-information/arava-epar-product-information_pl.pdf)
 
-português (PT) (854.21 KB - PDF)
+português (PT) (878.94 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/pt/documents/product-information/arava-epar-product-information_pt.pdf)
 
-română (RO) (773.09 KB - PDF)
+română (RO) (844.74 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/ro/documents/product-information/arava-epar-product-information_ro.pdf)
 
-slovenčina (SK) (892.66 KB - PDF)
+slovenčina (SK) (922.64 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/sk/documents/product-information/arava-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.17 MB - PDF)
+slovenščina (SL) (1.18 MB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/sl/documents/product-information/arava-epar-product-information_sl.pdf)
 
-Suomi (FI) (788.07 KB - PDF)
+suomi (FI) (1.01 MB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/fi/documents/product-information/arava-epar-product-information_fi.pdf)
 
-svenska (SV) (805.64 KB - PDF)
+svenska (SV) (756.88 KB - PDF)
 
-**First published:** 13/11/2009 **Last updated:** 19/05/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
 
 [View](/sv/documents/product-information/arava-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000309158
+Íslenska (IS) (1007.69 KB - PDF)
 
-10/04/2026
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
+
+[View](/is/documents/product-information/arava-epar-product-information_is.pdf)
+
+norsk (NO) (732.12 KB - PDF)
+
+**First published:** 13/11/2009 **Last updated:** 07/09/2026
+
+[View](/no/documents/product-information/arava-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000327001
+
+23/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -447,7 +448,7 @@ English (EN) (25.68 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-219)
+[Other languages (24)](#file-language-dropdown-240)
 
 български (BG) (58.86 KB - PDF)
 
@@ -479,7 +480,7 @@ Deutsch (DE) (20.18 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (23.12 KB - PDF)
+eesti (ET) (23.12 KB - PDF)
 
 **First published:** 15/12/2005 **Last updated:** 22/01/2013
 
@@ -503,25 +504,19 @@ hrvatski (HR) (44.16 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (15.88 KB - PDF)
-
-**First published:** 15/12/2005 **Last updated:** 22/01/2013
-
-[View](/is/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (16 KB - PDF)
 
 **First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/it/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (46.93 KB - PDF)
+latviešu (LV) (46.93 KB - PDF)
 
 **First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/lv/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (53.39 KB - PDF)
+lietuvių (LT) (53.39 KB - PDF)
 
 **First published:** 15/12/2005 **Last updated:** 22/01/2013
 
@@ -544,12 +539,6 @@ Nederlands (NL) (15.83 KB - PDF)
 **First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/nl/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (15.89 KB - PDF)
-
-**First published:** 15/12/2005 **Last updated:** 22/01/2013
-
-[View](/no/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (39.44 KB - PDF)
 
@@ -581,7 +570,7 @@ slovenščina (SL) (30.82 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (20.17 KB - PDF)
+suomi (FI) (20.17 KB - PDF)
 
 **First published:** 15/12/2005 **Last updated:** 22/01/2013
 
@@ -593,28 +582,31 @@ svenska (SV) (15.97 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (15.88 KB - PDF)
+
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
+
+[View](/is/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (15.89 KB - PDF)
+
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
+
+[View](/no/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Arava
-
-Active substance
-
-leflunomide
-
-International non-proprietary name (INN) or common name
-
-leflunomide
-
-Therapeutic area (MeSH)
-
-- Arthritis, Rheumatoid
-- Arthritis, Psoriatic
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AK01
+- **Name of medicine**
+    - Arava
+- **Active substance**
+    - leflunomide
+- **International non-proprietary name (INN) or common name**
+    - leflunomide
+- **Therapeutic area (MeSH)**
+        - Arthritis, Rheumatoid
+        - Arthritis, Psoriatic
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AK01
 
 ### Pharmacotherapeutic group
 
@@ -633,27 +625,16 @@ Moreover, switching from leflunomide to another DMARD without following the wash
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000235
-
-Marketing authorisation holder
-
-Sanofi-aventis Deutschland GmbH
-
-D-65926 Frankfurt am Main
-
-Opinion adopted
-
-20/05/1999
-
-Marketing authorisation issued
-
-02/09/1999
-
-Revision
-
-45
+- **EMA product number**
+    - EMEA/H/C/000235
+- **Marketing authorisation holder**
+    - Sanofi-aventis Deutschland GmbH D-65926 Frankfurt am Main  Germany
+- **Opinion adopted**
+    - 20/05/1999
+- **Marketing authorisation issued**
+    - 02/09/1999
+- **Revision**
+    - 46
 
 ## Assessment history
 
@@ -661,13 +642,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Arava : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (134.16 KB - PDF)
+English (EN) (138.83 KB - PDF)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/en/documents/procedural-steps-after/arava-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -707,7 +688,7 @@ English (EN) (105.12 KB - PDF)
 
 [View](/en/documents/steps-after-cutoff/arava-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Arava : EPAR - Scientific Discussion
 
@@ -731,157 +712,157 @@ The approved product information for this medicine is available below showing th
 
 Arava : EPAR - Product information - tracked changes
 
-English (EN) (245.54 KB - DOCX)
+English (EN) (235.69 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/en/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-28)
+[Other languages (24)](#file-language-dropdown-743)
 
-български (BG) (827 KB - DOC)
+български (BG) (273.98 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
-[View](/bg/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_bg.doc)
+[View](/bg/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (291.21 KB - DOCX)
+español (ES) (307.08 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/es/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (856 KB - DOC)
+čeština (CS) (265.21 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
-[View](/cs/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_cs.doc)
+[View](/cs/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (257.18 KB - DOCX)
+dansk (DA) (254.62 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/da/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (286.51 KB - DOCX)
+Deutsch (DE) (287.84 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/de/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (232.65 KB - DOCX)
+eesti (ET) (232.94 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/et/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (358.14 KB - DOCX)
+ελληνικά (EL) (360.22 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/el/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (263.81 KB - DOCX)
+français (FR) (259.53 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/fr/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (953.5 KB - DOC)
+hrvatski (HR) (286.21 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
-[View](/hr/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_hr.doc)
+[View](/hr/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (231.13 KB - DOCX)
+italiano (IT) (308.69 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
-
-[View](/is/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (304.51 KB - DOCX)
-
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/it/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (230.39 KB - DOCX)
+latviešu (LV) (231.89 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/lv/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (750 KB - DOC)
+lietuvių (LT) (213.83 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
-[View](/lt/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_lt.doc)
+[View](/lt/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (282.94 KB - DOCX)
+magyar (HU) (309.43 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/hu/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (258.99 KB - DOCX)
+Malti (MT) (260.99 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/mt/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (253.29 KB - DOCX)
+Nederlands (NL) (253.08 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/nl/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (253.84 KB - DOCX)
+polski (PL) (283.9 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
-
-[View](/no/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_no.docx)
-
-polski (PL) (282.84 KB - DOCX)
-
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/pl/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (243.92 KB - DOCX)
+português (PT) (249.83 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/pt/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (270.22 KB - DOCX)
+română (RO) (276.38 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/ro/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (911.5 KB - DOC)
+slovenčina (SK) (281.93 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
-[View](/sk/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_sk.doc)
+[View](/sk/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (280.58 KB - DOCX)
+slovenščina (SL) (279.65 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/sl/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (259.65 KB - DOCX)
+suomi (FI) (260 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/fi/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (249.88 KB - DOCX)
+svenska (SV) (252.16 KB - DOCX)
 
-**First published:** 17/10/2025 **Last updated:** 19/05/2026
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
 
 [View](/sv/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (229.73 KB - DOCX)
+
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
+
+[View](/is/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (257.58 KB - DOCX)
+
+**First published:** 17/10/2025 **Last updated:** 07/09/2026
+
+[View](/no/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_no.docx)
 
 ## Topics
 
@@ -889,6 +870,6 @@ svenska (SV) (249.88 KB - DOCX)
 
 **This page was last updated on**
 
-19/05/2026
+07/09/2026
 
 ## Share this page

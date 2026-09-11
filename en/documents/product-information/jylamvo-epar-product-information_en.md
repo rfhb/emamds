@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-10-24 11:42:44
-document_pages: 43
+document_datetime: 2026-09-07 09:36:17
+document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jylamvo-epar-product-information_en.pdf
 document_name: jylamvo-epar-product-information_en.pdf
 version: success
-processing_time: 8.3550104
-conversion_datetime: 2025-12-20 18:04:19.932427
+processing_time: 7.8264405
+conversion_datetime: 2026-09-11 17:27:18.713789
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -128,7 +128,7 @@ Methotrexate should be used with caution in patients with impaired renal functio
 
 The dose should be adjusted as follows for patients with rheumatoid arthritis, juvenile arthritis, psoriasis and psoriatic arthritis. For the oncology indication recommendations in published protocols should also apply.
 
-| Creatinine clearance (ml/min)   | %of dose to be administered       |
+| Creatinine clearance (ml/min)   | % of dose to be administered      |
 |---------------------------------|-----------------------------------|
 | >60                             | 100                               |
 | 30- 59                          | 50                                |
@@ -148,11 +148,9 @@ Dose reduction should be considered in elderly patients (65 years and over) due 
 
 ## Patients with pathological fluid accumulations (pleural effusion, ascites)
 
-As the half-life of methotrexate can be prolonged four-fold in patients with pathological fluid accumulations, it may be necessary to reduce the dose and in some cases even to discontinue
+As the half-life of methotrexate can be prolonged four-fold in patients with pathological fluid accumulations, it may be necessary to reduce the dose and in some cases even to discontinue methotrexate (see sections 4.4 and 5.2). The amount of dose reduction should be decided on a case by case basis.
 
 <div style=\"page-break-after: always\"></div>
-
-methotrexate (see sections 4.4 and 5.2). The amount of dose reduction should be decided on a case by case basis.
 
 ## Method of administration
 
@@ -185,7 +183,9 @@ Additionally for non-oncological indications
 
 ## 4.4 Special warnings and precautions for use
 
-The oral solution contains 2 mg of methotrexate in each ml of solution; the scaling of the dosing syringe is in ml and not mg; care should be taken that the correct dosing volume is prescribed.
+The oral solution contains 2 mg of methotrexate in each ml of solution; the scaling of the dosing
+
+syringe is in ml and not mg; care should be taken that the correct dosing volume is prescribed.
 
 Patients with rheumatological or dermatological diseases must be informed unequivocally that treatment is to be taken just once a week and not daily. Incorrect use of methotrexate can result in severe and even fatal adverse reactions. Medical staff and patients must be clearly instructed.
 
@@ -199,11 +199,9 @@ Patients must be appropriately monitored during treatment so that signs of possi
 
 Therefore, methotrexate should only be administered by, or under the supervision of, doctors whose knowledge and experience includes treatment with antimetabolites.
 
-Especially strict monitoring of the patient is indicated following prior radiotherapy (especially of the pelvis), functional impairment of the haematopoietic system (e.g., following prior radio- or chemotherapy), impaired general condition as well as advanced age and in very young children. Because of the possibility of severe or even fatal toxic reactions, patients should be extensively
+Especially strict monitoring of the patient is indicated following prior radiotherapy (especially of the pelvis), functional impairment of the haematopoietic system (e.g., following prior radio- or chemotherapy), impaired general condition as well as advanced age and in very young children. Because of the possibility of severe or even fatal toxic reactions, patients should be extensively informed by the treating doctor of the risks involved (including early signs and symptoms of toxicity) and the recommended safety measures. Patients should be informed that they must notify the doctor immediately if any symptoms of an overdose occur and that the symptoms of the overdose need to be monitored (including regular laboratory tests).
 
 <div style=\"page-break-after: always\"></div>
-
-informed by the treating doctor of the risks involved (including early signs and symptoms of toxicity) and the recommended safety measures. Patients should be informed that they must notify the doctor immediately if any symptoms of an overdose occur and that the symptoms of the overdose need to be monitored (including regular laboratory tests).
 
 Doses exceeding 20 mg (10 ml)/week can be associated with a substantial increase in toxicity, especially bone marrow depression.
 
@@ -235,16 +233,14 @@ The tests below must be conducted weekly in the first two weeks, then every two 
 
 An increased monitoring frequency should be considered when the dose is increased. In particular, elderly patients should be monitored at short intervals for early signs of toxicity (see section 4.2).
 
-- -Examination of the mouth and throat for mucosal changes.
-- -Complete blood count with differential blood count and platelets. Methotrexate-induced haematopoietic suppression may occur abruptly and with apparently safe dosages. Any serious decrease in leucocyte or platelet counts indicates the immediate discontinuation of treatment and appropriate supportive therapy. Patients should be encouraged to report all signs and symptoms suggestive of infection to their doctor. In patients simultaneously taking haematotoxic medicinal products (e.g. leflunomide), blood count and platelets should be closely monitored.
+- Examination of the mouth and throat for mucosal changes.
+- Complete blood count with differential blood count and platelets. Methotrexate-induced haematopoietic suppression may occur abruptly and with apparently safe dosages. Any serious decrease in leucocyte or platelet counts indicates the immediate discontinuation of treatment and appropriate supportive therapy. Patients should be encouraged to report all signs and symptoms suggestive of infection to their doctor. In patients simultaneously taking haematotoxic medicinal products (e.g. leflunomide), blood count and platelets should be closely monitored.
 
-## -Liver function tests
+## - Liver function tests
 
-Treatment should not be initiated or should be discontinued if there are persistent or significant abnormalities in liver function tests, other non-invasive investigations of hepatic fibrosis, or
+Treatment should not be initiated or should be discontinued if there are persistent or significant abnormalities in liver function tests, other non-invasive investigations of hepatic fibrosis, or liver biopsies.
 
 <div style=\"page-break-after: always\"></div>
-
-liver biopsies.
 
 Temporary increases in transaminases to two or three times the upper limit of normal have been reported in patients at a frequency of 13-20 %. Persistent elevation of liver enzymes and/or decrease in serum albumin may be indicative for severe hepatotoxicity. In the event of a persistent increase in liver enzymes, consideration should be given to reducing the dose or discontinuing therapy.
 
@@ -254,11 +250,11 @@ Additional hepatotoxic medicinal products should not be given during treatment w
 
 Increased caution should be exercised in patients with insulin-dependent diabetes mellitus, as during methotrexate therapy, liver cirrhosis developed in isolated cases without any elevation of transaminases.
 
-- -Renal function should be monitored by renal function tests and urinalyses. If serum creatinine levels are increased, the dose should be reduced. If creatinine clearance is less than 30 ml/min, treatment with methotrexate should not be given (see sections 4.2 and 4.3).
+- Renal function should be monitored by renal function tests and urinalyses. If serum creatinine levels are increased, the dose should be reduced. If creatinine clearance is less than 30 ml/min, treatment with methotrexate should not be given (see sections 4.2 and 4.3).
 
 Treatment with moderately high and high doses of methotrexate should not be initiated at urinary pH values of less than 7.0. Alkalinisation of the urine must be tested by repeated pH monitoring (value greater than or equal to 6.8) for at least the first 24 hours after the administration of methotrexate is started.
 
-- -Respiratory tract examination patients must be monitored for symptoms of a lung function disorder and lung function tests performed if necessary. Lung-related symptoms (particularly a dry, non-productive cough) or non-specific pneumonitis that occurs during treatment with methotrexate can be a sign of potentially dangerous damage and require the discontinuation of treatment and careful monitoring. Although the clinical presentation is variable, patients with methotrexate-induced lung diseases typically suffer from fever, cough, dyspnoea or hypoxaemia. A chest X-ray must be taken in order to be able to exclude an infection. Acute or chronic interstitial pneumonia, often in association with blood eosinophilia, may occur and deaths have been reported. Patients should be informed of the risks of pneumonia and advised to contact their doctor immediately if they develop a persistent cough or persistent dyspnoea.
+- Respiratory tract examination - patients must be monitored for symptoms of a lung function disorder and lung function tests performed if necessary. Lung-related symptoms (particularly a dry, non-productive cough) or non-specific pneumonitis that occurs during treatment with methotrexate can be a sign of potentially dangerous damage and require the discontinuation of treatment and careful monitoring. Although the clinical presentation is variable, patients with methotrexate-induced lung diseases typically suffer from fever, cough, dyspnoea or hypoxaemia. A chest X-ray must be taken in order to be able to exclude an infection. Acute or chronic interstitial pneumonia, often in association with blood eosinophilia, may occur and deaths have been reported. Patients should be informed of the risks of pneumonia and advised to contact their doctor immediately if they develop a persistent cough or persistent dyspnoea.
 
 In addition, pulmonary alveolar haemorrhage has been reported with methotrexate used in rheumatologic and related indications. This event may also be associated with vasculitis and other comorbidities. Prompt investigations should be considered when pulmonary alveolar haemorrhage is suspected to confirm the diagnosis.
 
@@ -306,11 +302,9 @@ Diarrhoea and ulcerative stomatitis may be signs of toxic effects and require th
 
 ## Folic acid supplementation
 
-If acute methotrexate toxicity occurs, patients may require treatment with folinic acid. In patients with rheumatoid arthritis or psoriasis, folic acid or folinic acid supplementation may reduce methotrexate
+If acute methotrexate toxicity occurs, patients may require treatment with folinic acid. In patients with rheumatoid arthritis or psoriasis, folic acid or folinic acid supplementation may reduce methotrexate toxicity, such as gastrointestinal symptoms, stomatitis, alopecia and elevated liver enzymes.
 
 <div style=\"page-break-after: always\"></div>
-
-toxicity, such as gastrointestinal symptoms, stomatitis, alopecia and elevated liver enzymes.
 
 It is recommended to check levels of vitamin B12 prior to initiating folic acid supplementation, particularly in adults aged over 50 years, as folic acid intake may mask a vitamin B12 deficiency.
 
@@ -328,6 +322,8 @@ Radiation-induced dermatitis and sunburn can reappear during methotrexate therap
 
 Severe, occasionally fatal, dermatologic reactions, including toxic epidermal necrolysis (Lyell's syndrome) or Stevens-Johnson syndrome have been reported after single or multiple doses of methotrexate.
 
+Epidermal necrosis, mostly accompanied by leukopenia, thrombocytopenia and mucosal lesions, has been reported with methotrexate treatment (see section 4.8). This cutaneous reaction may clinically mimic Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN). Patients should be advised of the signs and symptoms of the severe cutaneous adverse reactions and should seek medical advice from their physician immediately when observing any indicative signs or symptoms. If signs and symptoms suggestive of these reactions appear, methotrexate should be withdrawn immediately, and appropriate treatment should be initiated. Intervention with folinic acid has been described for epidermal necrosis. Methotrexate should not be reintroduced unless SJS and TEN have been excluded.
+
 ## Encephalopathy/leukoencephalopathy
 
 Since cases of encephalopathy/leukoencephalopathy have occurred in cancer patients treated with methotrexate, this cannot be ruled out either for patients with non-cancer indications.
@@ -344,11 +340,9 @@ This medicinal product contains sodium methyl parahydroxybenzoate (E219) and eth
 
 The risk of an interaction between NSAIDs and methotrexate should be considered in patients with a low methotrexate dose, particularly in the case of impaired kidney function. If combined treatment is required, the blood count and renal function should be monitored. Caution should be exercised if NSAIDs and methotrexate are administered within 24 hours, since in this case methotrexate plasma levels can rise and toxicity be increased as a result. Animal studies showed that the administration of NSAIDs including salicylic acid resulted in reduced tubular methotrexate secretion and accordingly potentiated its toxic effects. However, in clinical trials in which NSAIDs and salicylic acid were administered adjuvantly to patients with rheumatoid arthritis, no increase in adverse reactions was observed. Treatment of rheumatoid arthritis with such medicinal products can be continued during therapy with low-dose methotrexate, but only under close medical supervision.
 
-Patients taking potentially hepatotoxic medicinal products during treatment with methotrexate (e.g. leflunomide, azathioprine, sulfasalazine and retinoids) should be monitored closely for increased hepatotoxicity. The consumption of alcohol should be avoided during treatment with methotrexate (see section 4.4). Regular alcohol consumption and administration of additional hepatotoxic medicinal products increase the likelihood of hepatotoxic adverse reactions to methotrexate. Administration of additional haematotoxic medicinal products increases the likelihood of severe haematotoxic adverse reactions to methotrexate. Concurrent administration of metamizole and
-
 <div style=\"page-break-after: always\"></div>
 
-methotrexate can increase the haematotoxic effect of methotrexate, especially in elderly patients. Therefore, coadministration should be avoided.
+Patients taking potentially hepatotoxic medicinal products during treatment with methotrexate (e.g. leflunomide, azathioprine, sulfasalazine and retinoids) should be monitored closely for increased hepatotoxicity. The consumption of alcohol should be avoided during treatment with methotrexate (see section 4.4). Regular alcohol consumption and administration of additional hepatotoxic medicinal products increase the likelihood of hepatotoxic adverse reactions to methotrexate. Administration of additional haematotoxic medicinal products increases the likelihood of severe haematotoxic adverse reactions to methotrexate. Concurrent administration of metamizole and methotrexate can increase the haematotoxic effect of methotrexate, especially in elderly patients. Therefore, coadministration should be avoided.
 
 Pharmacokinetic interactions between methotrexate, anticonvulsants (reduced serum methotrexate levels) and 5-fluoruracil (increased half-life of 5-fluoruracil) must be borne in mind.
 
@@ -372,13 +366,11 @@ The use of nitrous oxide potentiates the effect of methotrexate on folate metabo
 
 Co-administration of proton pump inhibitors such as omeprazole or pantoprazole can result in interactions: co-administration of methotrexate and omeprazole has resulted in delayed renal elimination of methotrexate. In one case in which methotrexate was combined with pantoprazole, renal elimination of the metabolite 7-hydroxymethotrexate was inhibited and myalgia and shivering occurred.
 
-The application of procarbazine during high-dose methotrexate therapy increases the risk of impairment or renal function
-
-Excessive consumption of caffeine- or theophylline-containing beverages (coffee, caffeinated beverages, black tea) should be avoided during methotrexate therapy as the effect of methotrexate may be reduced by the possible interaction between methotrexate and methylxanthines at the adenosine
-
 <div style=\"page-break-after: always\"></div>
 
-receptors.
+The application of procarbazine during high-dose methotrexate therapy increases the risk of impairment or renal function
+
+Excessive consumption of caffeine- or theophylline-containing beverages (coffee, caffeinated beverages, black tea) should be avoided during methotrexate therapy as the effect of methotrexate may be reduced by the possible interaction between methotrexate and methylxanthines at the adenosine receptors.
 
 Combination therapy with methotrexate and leflunomide may increase the risk for pancytopenia.
 
@@ -408,13 +400,11 @@ It is not known if methotrexate is present in semen. Methotrexate has been shown
 
 As precautionary measures, sexually active male patients or their female partners are recommended to use reliable contraception during treatment of the male patient and for at least 3 months after cessation of methotrexate. Men should not donate semen during therapy or for 3 months following discontinuation of methotrexate.
 
-## Pregnancy
-
-Methotrexate is contraindicated during pregnancy in non-oncological indications (see section 4.3). If pregnancy occurs during treatment with methotrexate and up to six months thereafter, medical advice should be given regarding the risk of harmful effects on the child associated with treatment and ultrasonography examinations should be performed to confirm normal foetal development. In animal studies, methotrexate has shown reproductive toxicity, especially during the first trimester (see section 5.3). Methotrexate has been shown to be teratogenic to humans; it has been reported to cause foetal death, miscarriages and/or congenital abnormalities (e.g. craniofacial, cardiovascular, central nervous
-
 <div style=\"page-break-after: always\"></div>
 
-system and extremity-related).
+## Pregnancy
+
+Methotrexate is contraindicated during pregnancy in non-oncological indications (see section 4.3). If pregnancy occurs during treatment with methotrexate and up to six months thereafter, medical advice should be given regarding the risk of harmful effects on the child associated with treatment and ultrasonography examinations should be performed to confirm normal foetal development. In animal studies, methotrexate has shown reproductive toxicity, especially during the first trimester (see section 5.3). Methotrexate has been shown to be teratogenic to humans; it has been reported to cause foetal death, miscarriages and/or congenital abnormalities (e.g. craniofacial, cardiovascular, central nervous system and extremity-related).
 
 Methotrexate is a powerful human teratogen, with an increased risk of spontaneous abortions, intrauterine growth restriction and congenital malformations in case of exposure during pregnancy.
 
@@ -446,13 +436,11 @@ Methotrexate has moderate influence on the ability to drive and use machines, si
 
 In general, the incidence and severity of side effects are considered to be dose-related.
 
-In the antineoplastic treatment, myelosuppression and mucositis are the predominant dose-limiting toxic effects of methotrexate. The severity of these reactions depends on the dose, mode and duration of application of methotrexate. Mucositis generally appears about 3 to 7 days after methotrexate application, leucopenia and thrombocytopenia follow a few days later. In patients with unimpaired elimination mechanisms, myelosuppression and mucositis are generally reversible within 14 to 28 days.
-
-Most serious adverse reactions of methotrexate include bone marrow suppression, pulmonary toxicity, hepatotoxicity, renal toxicity, neurotoxicity, thromboembolic events, anaphylactic shock and Stevens-
-
 <div style=\"page-break-after: always\"></div>
 
-Johnson syndrome.
+In the antineoplastic treatment, myelosuppression and mucositis are the predominant dose-limiting toxic effects of methotrexate. The severity of these reactions depends on the dose, mode and duration of application of methotrexate. Mucositis generally appears about 3 to 7 days after methotrexate application, leucopenia and thrombocytopenia follow a few days later. In patients with unimpaired elimination mechanisms, myelosuppression and mucositis are generally reversible within 14 to 28 days.
+
+Most serious adverse reactions of methotrexate include bone marrow suppression, pulmonary toxicity, hepatotoxicity, renal toxicity, neurotoxicity, thromboembolic events, anaphylactic shock and StevensJohnson syndrome.
 
 Most frequently (very common) observed adverse reactions of methotrexate include gastrointestinal disorders (e.g. stomatitis, dyspepsia, abdominal pain, nausea, loss of appetite) and abnormal liver function tests (e.g. increased alanine aminotransferase (ALAT), aspartate aminotransferase (ASAT), bilirubin, alkaline phosphatase). Other frequently (common) occurring adverse reactions are leukopenia, anaemia, thrombopenia, headache, tiredness, drowsiness, pneumonia, interstitial alveolitis/pneumonitis often associated with eosinophilia, oral ulcers, diarrhoea, exanthema, erythema and pruritus.
 
@@ -470,48 +458,41 @@ Not known (cannot be estimated from the available data)
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| System organ class                                                       | Very common   | Common                                      | Uncommon                                                | Rare                  | Very rare                                                                                                                              | Not known                                                                      |
-|--------------------------------------------------------------------------|---------------|---------------------------------------------|---------------------------------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Infections and infestations                                              |               | Infections                                  | Opportunistic infections (sometimes fatal)              | Herpes zoster         | Sepsis Cytomegalovirus- induced infections.                                                                                            | Nocardiosis, Histoplasma and cryptococcus mycosis, Disseminated herpes simplex |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |               |                                             | Lymphoma 1                                              |                       |                                                                                                                                        |                                                                                |
-| Blood and lymphatic system disorders                                     |               | Leucocytopenia, Thrombo- cytopenia, Anaemia | Pancytopenia, Agranulocytosis, Haematopoietic disorders | Megaloblastic anaemia | Bone marrow depression (severe courses), Aplastic anaemia, Lymphoproliferative disorder 2 , Eosinophilia, Neutropenia, Lymphadenopathy | Haemorrhages                                                                   |
-| Immune system disorders                                                  |               |                                             | Allergic reactions, Anaphylactic shock, Fever, Chills   |                       | Immuno- suppression, Allergic vasculitis (severe toxic symptom),                                                                       |                                                                                |
+| System organ class                                                       | Very common   | Common                              | Uncommon                                      | Rare                  | Very rare                                   | Not known                                                                      |
+|--------------------------------------------------------------------------|---------------|-------------------------------------|-----------------------------------------------|-----------------------|---------------------------------------------|--------------------------------------------------------------------------------|
+| Infections and infestations                                              |               | Infections                          | Opportunistic infections (sometimes fatal)    | Herpes zoster         | Sepsis Cytomegalovirus- induced infections. | Nocardiosis, Histoplasma and cryptococcus mycosis, Disseminated herpes simplex |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |               |                                     | Lymphoma 1                                    |                       |                                             |                                                                                |
+| Blood and lymphatic system                                               |               | Leucocytopenia, Thrombo- cytopenia, | Pancytopenia, Agranulocytosis, Haematopoietic | Megaloblastic anaemia | Bone marrow depression (severe courses),    | Haemorrhages                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-|                                                 |                                                                  |                                                   |                                                   |                                                                                                                                                                             | Hypogamma- globulinaemia                                                                                                                                                                                                                                                                                 |                                         |
-|-------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| Metabolism and nutrition disorders              |                                                                  |                                                   | Diabetes mellitus                                 |                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                          |                                         |
-| Psychiatric disorders                           |                                                                  |                                                   | Depression                                        | Mood swings                                                                                                                                                                 | Insomnia                                                                                                                                                                                                                                                                                                 |                                         |
-| Nervous system disorders                        |                                                                  | Headache, Fatigue, Drowsiness                     | Convulsions, Vertigo, Confusion                   | Hemiparesis, Paresis                                                                                                                                                        | Cerebral oedema, Acute aseptic meningitis with meningism (paralysis, vomiting), Lethargy, Transient subtle cognitive dysfunction, Psychoses, Aphasia, Pain, Muscular asthenia,Paraesthesia / hypoaesthesia, Taste changes (metallic taste), Irritation, Dysarthria, Unusual cranial sensations, Tinnitus | Encephalop- athy/ Leukoenceph- alopathy |
-| Eye disorders                                   |                                                                  |                                                   |                                                   | Severe visual disturbances                                                                                                                                                  | Retinopathy, Conjunctivitis                                                                                                                                                                                                                                                                              |                                         |
-| Cardiac disorders                               |                                                                  |                                                   |                                                   | Pericarditis, Pericardial effusion, Pericardial tamponade                                                                                                                   |                                                                                                                                                                                                                                                                                                          |                                         |
-| Vascular disorders                              |                                                                  |                                                   |                                                   | Thromboembolic reactions (including arterial and cerebral thrombosis, thrombophlebitis, deep leg vein thrombosis, retinal vein thrombosis, pulmonary embolism), Hypotension |                                                                                                                                                                                                                                                                                                          |                                         |
-| Respiratory, thoracic and mediastinal disorders |                                                                  | Interstitial alveolitis/ pneumonia (can be fatal) | Pulmonary fibrosis                                | Respiratory paralysis, Bronchial asthma-like reactions such as cough, dyspnoea and pathological changes in lung function tests, Pharyngitis                                 | Pneumocystis jiroveci pneumonia and other lung infections, Chronic obstructive pulmonary disease, Pleural effusion                                                                                                                                                                                       | Pulmonary alveolar haemorrhage 3        |
-| Gastrointestinal disorders                      | Loss of appetite, Nausea, Vomiting, Abdominal pain, Inflammation | Diarrhoea                                         | Ulceration and bleeding of gastrointestinal tract | Pancreatitis, Enteritis, Malabsorption, Melaena, Gingivitis                                                                                                                 | Toxic megacolon, Haematemesis                                                                                                                                                                                                                                                                            |                                         |
+| disorders                                       | Anaemia                                           | disorders                                             |                                                                                                                                                                             | Aplastic anaemia, Lymphoproliferative disorder 2 , Eosinophilia, Neutropenia, Lymphadenopathy                                                                                                                                                                                                            |                                         |
+|-------------------------------------------------|---------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Immune system disorders                         |                                                   | Allergic reactions, Anaphylactic shock, Fever, Chills |                                                                                                                                                                             | Immuno- suppression, Allergic vasculitis (severe toxic symptom), Hypogamma- globulinaemia                                                                                                                                                                                                                |                                         |
+| Metabolism and nutrition disorders              |                                                   | Diabetes mellitus                                     |                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                          |                                         |
+| Psychiatric disorders                           |                                                   | Depression                                            | Mood swings                                                                                                                                                                 | Insomnia                                                                                                                                                                                                                                                                                                 |                                         |
+| Nervous system disorders                        | Headache, Fatigue, Drowsiness                     | Convulsions, Vertigo, Confusion                       | Hemiparesis, Paresis                                                                                                                                                        | Cerebral oedema, Acute aseptic meningitis with meningism (paralysis, vomiting), Lethargy, Transient subtle cognitive dysfunction, Psychoses, Aphasia, Pain, Muscular asthenia,Paraesthesia / hypoaesthesia, Taste changes (metallic taste), Irritation, Dysarthria, Unusual cranial sensations, Tinnitus | Encephalop- athy/ Leukoenceph- alopathy |
+| Eye disorders                                   |                                                   |                                                       | Severe visual disturbances                                                                                                                                                  | Retinopathy, Conjunctivitis                                                                                                                                                                                                                                                                              |                                         |
+| Cardiac disorders                               |                                                   |                                                       | Pericarditis, Pericardial effusion, Pericardial tamponade                                                                                                                   |                                                                                                                                                                                                                                                                                                          |                                         |
+| Vascular disorders                              |                                                   |                                                       | Thromboembolic reactions (including arterial and cerebral thrombosis, thrombophlebitis, deep leg vein thrombosis, retinal vein thrombosis, pulmonary embolism), Hypotension |                                                                                                                                                                                                                                                                                                          |                                         |
+| Respiratory, thoracic and mediastinal disorders | Interstitial alveolitis/ pneumonia (can be fatal) | Pulmonary fibrosis                                    | Respiratory paralysis, Bronchial asthma-like reactions such as cough, dyspnoea                                                                                              | Pneumocystis jiroveci pneumonia and other lung infections, Chronic obstructive pulmonary disease,                                                                                                                                                                                                        | Pulmonary alveolar haemorrhage 3        |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      | and ulceration of mucosa of mouth and throat, Stomatitis, Dyspepsia                            |                               |                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                |                                                                             |                                                                     |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------|
-| Hepatobiliary disorders                              | Increase in liver-related enzymes (ALAT [GPT], ASAT [GOT], alkaline phosphatase and bilirubin) |                               | Hepatic steatosis, fibrosis and cirrhosis, Decrease in serum albumin                                                                                                                                                                                                                                         | Acute hepatitis and hepatotoxicity                                                                                                                                                                                                             | Acute liver degeneration, Liver failure, Reactivation of chronic hepatitis, | Hepatitis and liver failure 4                                       |
-| Skin and subcutaneous tissue disorders               |                                                                                                | Erythema, Exanthema, Pruritus | Severe toxic manifestations: vasculitis, herpetiform skin eruptions, Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell's syndrome), Increased rheumatic nodules, Painful erosions of psoriatic plaque, Photosensitivity reactions, Increased skin pigmentation, Hair loss, Impaired wound healing, | Increased nail pigment changes, Onycholysis, Acne, Petechiae, Bruising, Erythema multiforme, Cutaneous erythematous eruptions, Lesions of psoriasis may worsen with concomitant UV therapy, Radiation dermatitis and sunburn may be 'recalled' | Acute paronychia, Furunculosis, Telangiectasis, Hidradenitis                | Skin exfoliation/ dermatitis exfoliative                            |
-| Musculoskeletal and connective tissue disorders      |                                                                                                |                               | Osteoporosis, Arthralgia, Myalgia,                                                                                                                                                                                                                                                                           | Stress fracture                                                                                                                                                                                                                                |                                                                             | Osteonecrosis of jaw (secondary to lymphoprolifer -ative disorders) |
-| Renal and urinary disorders                          |                                                                                                |                               | Nephropathy Inflammation and ulceration of urinary bladder (possibly with haematuria), Dysuria                                                                                                                                                                                                               | Renal failure, Oliguria, Anuria, Azotaemia                                                                                                                                                                                                     | Proteinuria                                                                 |                                                                     |
-| Reproductive system and breast disorders             |                                                                                                |                               | Vaginal Inflammation and ulceration                                                                                                                                                                                                                                                                          | Oligospermia, Menstrual dysfunction                                                                                                                                                                                                            | Infertility, Loss of libido, Impotence, Vaginal discharge, Gynaecomastia    |                                                                     |
-| General disorders and administration site conditions |                                                                                                |                               |                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                | Fever                                                                       | Oedema                                                              |
-
-1 can be reversible - see 4.4
+|                                                 |                                                                                                                                      |                               |                                                                                                                                                                                                                                                                                                                                      | and pathological changes in lung function tests, Pharyngitis                                                                                                                                                                                   | Pleural effusion                                                            |                                                                     |
+|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Gastrointestinal disorders                      | Loss of appetite, Nausea, Vomiting, Abdominal pain, Inflammation and ulceration of mucosa of mouth and throat, Stomatitis, Dyspepsia | Diarrhoea                     | Ulceration and bleeding of gastrointestinal tract                                                                                                                                                                                                                                                                                    | Pancreatitis, Enteritis, Malabsorption, Melaena, Gingivitis                                                                                                                                                                                    | Toxic megacolon, Haematemesis                                               |                                                                     |
+| Hepatobiliary disorders                         | Increase in liver-related enzymes (ALAT [GPT], ASAT [GOT], alkaline phosphatase and bilirubin)                                       |                               | Hepatic steatosis, fibrosis and cirrhosis, Decrease in serum albumin                                                                                                                                                                                                                                                                 | Acute hepatitis and hepatotoxicity                                                                                                                                                                                                             | Acute liver degeneration, Liver failure, Reactivation of chronic hepatitis, | Hepatitis and liver failure 4                                       |
+| Skin and subcutaneous tissue disorders          |                                                                                                                                      | Erythema, Exanthema, Pruritus | Severe toxic manifestations: vasculitis, herpetiform skin eruptions, Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell's syndrome), Increased rheumatic nodules, Painful erosions of psoriatic plaque, Photosensitivity reactions, Increased skin pigmentation, Hair loss, Impaired wound healing, Urticaria Osteoporosis, | Increased nail pigment changes, Onycholysis, Acne, Petechiae, Bruising, Erythema multiforme, Cutaneous erythematous eruptions, Lesions of psoriasis may worsen with concomitant UV therapy, Radiation dermatitis and sunburn may be 'recalled' | Acute paronychia, Furunculosis, Telangiectasis, Hidradenitis                | Skin exfoliation/ dermatitis exfoliative, epidermal necrosis        |
+| Musculoskeletal and connective tissue disorders |                                                                                                                                      |                               | Arthralgia, Myalgia,                                                                                                                                                                                                                                                                                                                 | Stress fracture                                                                                                                                                                                                                                |                                                                             | Osteonecrosis of jaw (secondary to lymphoprolifer -ative disorders) |
+| Renal and urinary disorders                     |                                                                                                                                      |                               | Nephropathy Inflammation and ulceration of urinary bladder (possibly with haematuria), Dysuria                                                                                                                                                                                                                                       | Renal failure, Oliguria, Anuria, Azotaemia                                                                                                                                                                                                     | Proteinuria                                                                 |                                                                     |
+| Reproductive                                    |                                                                                                                                      |                               | Vaginal                                                                                                                                                                                                                                                                                                                              | Oligospermia,                                                                                                                                                                                                                                  | Infertility,                                                                |                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
-2  Lymphoma/Lymphoproliferative disorders: there have been reports of individual cases of lymphoma and other lymphoproliferative disorders which subsided in a number of cases once treatment with methotrexate had been discontinued.
-
-3  has been reported for methotrexate used in rheumatologic and related indications
-
-4 see remarks on liver biopsy in section 4.4
+| system and breast disorders                          | Inflammation and ulceration   | Menstrual dysfunction   | Loss of libido, Impotence, Vaginal discharge, Gynaecomastia   |        |
+|------------------------------------------------------|-------------------------------|-------------------------|---------------------------------------------------------------|--------|
+| General disorders and administration site conditions |                               |                         | Fever                                                         | Oedema |
 
 ## Paediatric population
 
@@ -545,13 +526,13 @@ In the event of a massive overdose, hydration and alkalinisation of the urine ma
 
 Pharmacotherapeutic group: Antineoplastic and immunomodulating agents, immunosuppressants, other immunosuppressants, ATC code: L04AX03
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 Methotrexate is a folic acid antagonist that, as an antimetabolite, belongs to the class of cytotoxic active substances. It acts by competitive inhibition of the enzyme dihydrofolate reductase and thus inhibits DNA synthesis.
 
 It has not yet been possible to date to clarify whether the efficacy of methotrexate in the management of psoriasis, psoriatic arthritis and chronic polyarthritis is due either to an anti-inflammatory or immunosuppressive effect, or to what extent a methotrexate-induced increase in extracellular adenosine concentration at inflamed sites contributes to this effect.
-
-<div style=\"page-break-after: always\"></div>
 
 Highly proliferating tissue such as malignant cells, bone marrow, foetal cells, skin epithelium and mucosa is generally more sensitive to this effect of methotrexate. Cell proliferation is usually greater in malignant tumours than in normal tissue and methotrexate can therefore exert a sustained effect on malignant growth without causing irreversible damage to normal tissue.
 
@@ -585,6 +566,8 @@ Elimination in patients with impaired renal function is markedly delayed. Impair
 
 Methotrexate crosses the placental barrier in rats and monkeys.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 ## Chronic toxicity
@@ -593,11 +576,7 @@ In chronic toxicity studies in mice, rats and dogs, toxic effects were seen in t
 
 ## Mutagenic and carcinogenic potential
 
-Long-term studies in rats, mice and hamsters revealed no evidence of a tumorigenic potential of methotrexate. Methotrexate induces gene and chromosomal mutations in vitro and in vivo . There is a
-
-<div style=\"page-break-after: always\"></div>
-
-suspected mutagenic effect in humans.
+Long-term studies in rats, mice and hamsters revealed no evidence of a tumorigenic potential of methotrexate. Methotrexate induces gene and chromosomal mutations in vitro and in vivo . There is a suspected mutagenic effect in humans.
 
 ## Reproductive toxicology
 
@@ -607,7 +586,9 @@ Teratogenic effects have been observed in four species (rats, mice, rabbits, cat
 
 ## 6.1 List of excipients
 
-Macrogol 400 Glycerol Orange flavour Sucralose Ethyl parahydroxybenzoate (E214) Sodium methyl parahydroxybenzoate (E219) Citric acid monohydrate Tri-sodium citrate Purified water
+Macrogol 400 Glycerol Orange flavour Sucralose Ethyl parahydroxybenzoate (E214) Sodium methyl parahydroxybenzoate (E219) Citric acid monohydrate Tri-sodium citrate
+
+Purified water
 
 ## 6.2 Incompatibilities
 
@@ -617,7 +598,7 @@ Not applicable.
 
 Unopened bottle 18 months.
 
-After first opening
+## After first opening
 
 3 months.
 
@@ -635,13 +616,13 @@ Each pack contains one bottle, an LDPE bottle adaptor and a 10 ml white polyprop
 
 ## 6.6 Special precautions for disposal and other handling
 
+<div style=\"page-break-after: always\"></div>
+
 ## Safe handling
 
 Anyone handling methotrexate should wash their hands before and after administering a dose. To decrease the risk of exposure, parents and care givers should wear disposable gloves when handling methotrexate.
 
 Contact with the skin or mucous membrane must be avoided. If methotrexate comes into contact with skin or mucosa, it should be washed immediately and thoroughly with soap and water.
-
-<div style=\"page-break-after: always\"></div>
 
 Spillages must be wiped immediately.
 
@@ -675,11 +656,11 @@ Instructions for use of the syringe provided in the pack
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements for cytotoxic products.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Oresund Pharma ApS Orient Plads 1 2150 Nordhavn Denmark
-
-<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -768,11 +749,9 @@ The patient card shall contain the following key elements:
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                           | Due date                                                  |
-|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| The MAHshould implement the agreed targeted follow-up questionnaires for all medication errors resulting in overdose. | From the date of notification of the Commission Decision* |
-
-*Referral EMEA/H/A-31/1463
+| Description                                                                                                            | Due date                                                  |
+|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| The MAH should implement the agreed targeted follow-up questionnaires for all medication errors resulting in overdose. | From the date of notification of the Commission Decision* |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -792,7 +771,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Jylamvo 2 mg/ml oral solution methotrexate
+Jylamvo 2 mg/ml oral solution
+
+methotrexate
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -876,14 +857,12 @@ Jylamvo 2 mg/ml
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
-
-PC: SN: NN:
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -893,7 +872,9 @@ BOTTLE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Jylamvo 2 mg/ml oral solution methotrexate
+Jylamvo 2 mg/ml oral solution
+
+methotrexate
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -962,11 +943,8 @@ EU/1/17/1172/001
 Lot:
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 Not applicable
@@ -1007,10 +985,10 @@ For more information, please read the patient leaflet inserted in the package.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1025,17 +1003,17 @@ For more information, please read the patient leaflet inserted in the package.
 
 ## Jylamvo is a medicine that:
 
-- -suppresses the growth of certain cells in the body that multiply rapidly (an anticancer medicine)
-- -reduces unwanted reactions by the body's own defense mechanisms (an immunosuppressive agent)
-- -has an anti-inflammatory effect
+- suppresses the growth of certain cells in the body that multiply rapidly (an anticancer medicine)
+- reduces unwanted reactions by the body's own defense mechanisms (an immunosuppressive agent)
+- has an anti-inflammatory effect
 
 ## Jylamvo is used in patients with:
 
-- -the following rheumatic and skin diseases:
+- the following rheumatic and skin diseases:
 - o active rheumatoid arthritis (RA) in adults
 - o polyarthritic forms (when five or more joints are affected) of active, severe juvenile idiopathic arthritis (JIA) in adolescents and children aged 3 years and over when the response to non-steroidal anti-inflammatory drugs (NSAIDs) has been inadequate
 - o severe, treatment-resistant, disabling psoriasis that does not respond sufficiently to other forms of treatment such as phototherapy, psoralen and ultraviolet A radiation (PUVA) therapy and retinoids, as well as in severe psoriasis that also affects the joints (psoriatic arthritis) in adult patients
-- -acute lymphoblastic leukaemia (ALL) in adults, adolescents and children aged 3 years and over
+- acute lymphoblastic leukaemia (ALL) in adults, adolescents and children aged 3 years and over
 
 You must talk to a doctor if you do not feel better or if you feel worse
 
@@ -1043,20 +1021,20 @@ You must talk to a doctor if you do not feel better or if you feel worse
 
 ## Do not take Jylamvo
 
-- -if you are allergic to methotrexate or any of the other ingredients of this medicine (listed in section 6)
-- -if you have a severe kidney impairment (or your doctor classes the impairment as severe)
-- -if you have a liver impairment
-- -if you have blood disorders such as bone marrow hypoplasia, leukopenia, thrombocytopenia or significant anaemia
-- -if you drink alcohol excessively
+- if you are allergic to methotrexate or any of the other ingredients of this medicine (listed in section 6)
+- if you have a severe kidney impairment (or your doctor classes the impairment as severe)
+- if you have a liver impairment
+- if you have blood disorders such as bone marrow hypoplasia, leukopenia, thrombocytopenia or significant anaemia
+- if you drink alcohol excessively
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you have a weakened immune system
-- -if you are suffering from a serious infection such as tuberculosis or HIV
-- -if you have ulcers in the stomach or in the intestines
-- -if you have an inflammation of the mucous membrane of the mouth or mouth ulcers
-- -if you are breast-feeding and additionally, for non-oncologic indications (for non-cancer treatment) if you are pregnant (see section 'Pregnancy, breast-feeding and fertility')
-- -if you have had a live vaccine recently or are about to have one
+- if you have a weakened immune system
+- if you are suffering from a serious infection such as tuberculosis or HIV
+- if you have ulcers in the stomach or in the intestines
+- if you have an inflammation of the mucous membrane of the mouth or mouth ulcers
+- if you are breast-feeding and additionally, for non-oncologic indications (for non-cancer treatment) if you are pregnant (see section 'Pregnancy, breast-feeding and fertility')
+- if you have had a live vaccine recently or are about to have one
 
 ## Warnings and precautions
 
@@ -1074,13 +1052,15 @@ If you have any questions, please talk to your doctor or pharmacist before you t
 
 Talk to your doctor or pharmacist before taking Jylamvo:
 
-- -if you have diabetes mellitus treated with insulin
-- -if you are suffering from inactive, chronic infections (e.g. tuberculosis, hepatitis B or C, shingles [herpes zoster]) as they may flare up
-- -if you have ever had any liver or kidney disease
-- -if you have problems with your lung function
-- -if you are particularly overweight
-- -if you have an abnormal build-up of fluid in the abdomen (ascites) or around the lungs (pleural effusions)
-- -if you are dried out (dehydrated) or suffer from conditions that result in dehydration (vomiting, diarrhoea, constipation, inflammation of the mucous membrane of the mouth)
+- if you have diabetes mellitus treated with insulin
+- if you are suffering from inactive, chronic infections (e.g. tuberculosis, hepatitis B or C, shingles [herpes zoster]) as they may flare up
+- if you have ever had any liver or kidney disease
+- if you have problems with your lung function
+- if you are particularly overweight
+- if you have an abnormal build-up of fluid in the abdomen (ascites) or around the lungs (pleural effusions)
+- if you are dried out (dehydrated) or suffer from conditions that result in dehydration (vomiting, diarrhoea, constipation, inflammation of the mucous membrane of the mouth)
+
+This medicine can cause serious skin reactions. Stop using Jylamvo and seek medical attention immediately if you notice any of the symptoms related to these serious skin reactions described in section 4.
 
 If you had skin problems after radiotherapy (radiation dermatitis) or sunburn, these reactions can recur after methotrexate therapy (recall reaction).
 
@@ -1092,9 +1072,9 @@ Diarrhoea can be a possible side effect of Jylamvo and requires an interruption 
 
 Certain brain disorders (encephalopathy/leukoencephalopathy) have been reported in cancer patients receiving methotrexate. Such side effects cannot be excluded when methotrexate is used to treat other diseases.
 
-If you, your partner or your caregiver notice new onset or worsening of neurological symptoms including general muscle weakness, disturbance of vision, changes in thinking, memory and orientation leading to confusion and personality changes contact your doctor immediately because these may be symptoms of a very rare, serious brain infection called progressive multifocal leukoencephalopathy (PML).
-
 <div style=\"page-break-after: always\"></div>
+
+If you, your partner or your caregiver notice new onset or worsening of neurological symptoms including general muscle weakness, disturbance of vision, changes in thinking, memory and orientation leading to confusion and personality changes contact your doctor immediately because these may be symptoms of a very rare, serious brain infection called progressive multifocal leukoencephalopathy (PML).
 
 Methotrexate may make your skin more sensitive to sunlight. Avoid intense sun and do not use sunbeds or a sun-lamp without medical advice. To protect your skin from intense sun, wear adequate clothing or use a sunscreen with a high protection factor.
 
@@ -1114,13 +1094,13 @@ Before you start treatment, your blood will be checked to see if you have enough
 
 Your doctor may perform the following examinations:
 
-- -examination of the oral cavity and the pharynx for changes in the mucous membrane such as inflammation or ulceration
-- -blood tests/ blood count with number of blood cells and measurement of serum methotrexate levels
-- -blood test to monitor liver function
-- -Imaging tests to monitor liver condition
-- -small sample of tissue taken from the liver in order to examine it more closely
-- -blood test to monitor kidney function
-- -respiratory tract monitoring and, if necessary, lung function test
+- examination of the oral cavity and the pharynx for changes in the mucous membrane such as inflammation or ulceration
+- blood tests/ blood count with number of blood cells and measurement of serum methotrexate levels
+- blood test to monitor liver function
+- Imaging tests to monitor liver condition
+- small sample of tissue taken from the liver in order to examine it more closely
+- blood test to monitor kidney function
+- respiratory tract monitoring and, if necessary, lung function test
 
 It is very important that you appear for these scheduled examinations.
 
@@ -1130,40 +1110,38 @@ If the results of any of these tests are conspicuous, your doctor will adjust yo
 
 Children, adolescents and the elderly treated with methotrexate should have particularly careful medical monitoring in order to detect important side effects quickly.
 
+<div style=\"page-break-after: always\"></div>
+
 This medicine is not recommended in children under 3 years of age as there is insufficient experience in this age group
 
 ## Other medicines and Jylamvo
 
-Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, including medicines obtained without a prescription and herbal or natural medicinal
-
-<div style=\"page-break-after: always\"></div>
-
-## products.
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, including medicines obtained without a prescription and herbal or natural medicinal products.
 
 Remember to inform your doctor about the treatment with Jylamvo if you are prescribed another medicine during treatment.
 
 It is especially important to tell your doctor if you are using:
 
-- -other medicines for rheumatoid arthritis or psoriasis, such as leflunomide, azathioprine (also used to prevent rejection after an organ transplant), sulfasalazine (also used for ulcerative colitis)
-- -ciclosporin (for supressing the immune system)
-- -non-steroidal anti-inflammatory drugs or salicylates (medicines against pain and/or inflammation such as acetylsalicylic acid, diclofenac and ibuprofen or pyrazole)
-- -live vaccines
-- -diuretics, that reduce fluid retention
-- -medicines for lowering blood sugar levels such as metformin
-- -retinoids (for the treatment of psoriasis and other skin diseases)
-- -antiepileptic medicines (prevention of seizures)
-- -barbiturates (sleeping medicines)
-- -sedatives
-- -oral contraceptives
-- -probenecid (for gout)
-- -antibiotics
-- -pyrimethamine (for the prevention and treatment of malaria)
-- -vitamin preparations containing folic acid
-- -proton pump inhibitors (for the treatment of heartburn, ulcers and some other stomach complaints)
-- -theophylline (for breathing problems)
-- -mercaptopurine (for the treatment of certain types of leukaemia)
-- -cancer treatments (such as doxorubicin and procarbazine during high-dose methotrexate therapy)
-- -metamizole (synonyms novaminsulfon and dipyrone) (medicine against severe pain and /or fever)
+- other medicines for rheumatoid arthritis or psoriasis, such as leflunomide, azathioprine (also used to prevent rejection after an organ transplant), sulfasalazine (also used for ulcerative colitis)
+- ciclosporin (for supressing the immune system)
+- non-steroidal anti-inflammatory drugs or salicylates (medicines against pain and/or inflammation such as acetylsalicylic acid, diclofenac and ibuprofen or pyrazole)
+- live vaccines
+- diuretics, that reduce fluid retention
+- medicines for lowering blood sugar levels such as metformin
+- retinoids (for the treatment of psoriasis and other skin diseases)
+- antiepileptic medicines (prevention of seizures)
+- barbiturates (sleeping medicines)
+- sedatives
+- oral contraceptives
+- probenecid (for gout)
+- antibiotics
+- pyrimethamine (for the prevention and treatment of malaria)
+- vitamin preparations containing folic acid
+- proton pump inhibitors (for the treatment of heartburn, ulcers and some other stomach complaints)
+- theophylline (for breathing problems)
+- mercaptopurine (for the treatment of certain types of leukaemia)
+- cancer treatments (such as doxorubicin and procarbazine during high-dose methotrexate therapy)
+- metamizole (synonyms novaminsulfon and dipyrone) (medicine against severe pain and /or fever)
 
 ## Jylamvo with food, drink and alcohol
 
@@ -1177,11 +1155,9 @@ For non-oncological indications, in women of child-bearing age the possibility o
 
 Do not use Jylamvo if you are trying to become pregnant. You must avoid becoming pregnant during treatment with methotrexate and for at least 6 months after the end of treatment. Therefore you must ensure that you are taking effective contraception for the whole of this period (see also section \"Warnings and precautions\").
 
-If you become pregnant during treatment or suspect you might be pregnant, speak to your doctor as soon as possible. If you do become pregnant during treatment, you should be offered advice regarding
-
 <div style=\"page-break-after: always\"></div>
 
-the risk of harmful effects on the child through treatment.
+If you become pregnant during treatment or suspect you might be pregnant, speak to your doctor as soon as possible. If you do become pregnant during treatment, you should be offered advice regarding the risk of harmful effects on the child through treatment.
 
 If you want to become pregnant, you should speak with your doctor, who may refer you for specialist advice before the planned start of treatment.
 
@@ -1221,21 +1197,25 @@ The duration of the treatment is determined by the treating physician. Treatment
 
 Your doctor will decide what dose of Jylamvo you should take according to the condition you are being treated for, how severe it is and your general health. Keep to the dose exactly and follow your doctor's instructions exactly on when to take the medicine.
 
-## Dose in rheumatic and skin diseases (RA, JIA and psoriasis or psoriatic arthritis)
-
-Take Jylamvo only once a week . Decide with your doctor the most suitable day of the week to take the medicine.
-
 <div style=\"page-break-after: always\"></div>
 
-Dosage in adult rheumatoid arthritis:
+## Dose in rheumatic and skin diseases (RA, JIA and psoriasis or psoriatic arthritis)
+
+Take Jylamvo
+
+the medicine.
+
+## Dosage in adult rheumatoid arthritis:
 
 The usual initial dose is 7.5 mg (3.75 ml), once a week.
 
-Dosage for psoriasis and psoriatic arthritis:
+## Dosage for psoriasis and psoriatic arthritis:
 
 The usual initial dose is 7.5 mg (3.75 ml), once a week.
 
-The doctor may increase the dose if the used dose is not effective but tolerated well. Your doctor may adjust the dose to suit you according to your response to treatment and side effects.
+The doctor may increase the dose if the used dose is not effective but tolerated well.
+
+Your doctor may adjust the dose to suit you according to your response to treatment and side effects.
 
 ## Dose in acute lymphoblastic leukaemia (ALL)
 
@@ -1272,14 +1252,18 @@ Methotrexate can be taken with or without food. When you have taken your dose, d
 3. Remove the bottle cap and push the adaptor firmly into the top of the bottle.
 4. Push the tip of the dosing syringe into the hole in the adaptor.
 5. Turn the bottle upside down.
-6. Pull the syringe plunger back SLOWLY so that the medicine is drawn from the bottle into the syringe until the WIDEST part of the white syringe plunger is lined up to the black syringe marking of the dose required.  DO NOT measure to the narrow tip of the plunger.  If there are air bubbles in the syringe, repeat until bubbles are eliminated.
-7. Turn the bottle back the right way up and carefully remove the syringe from the adaptor, holding the syringe by the barrel rather than the plunger.
-8. Confirm that the dose in the syringe is correct.
+6. Pull the syringe plunger back SLOWLY so that the medicine is drawn from the bottle into the
+
+. Decide with your doctor the most suitable day of the week to take
+
+only once a week syringe until the WIDEST part of the white syringe plunger is lined up to the black syringe marking of the dose required.  DO NOT measure to the narrow tip of the plunger.  If there are air bubbles in the syringe, repeat until bubbles are eliminated.
 
 <div style=\"page-break-after: always\"></div>
 
+7. Turn the bottle back the right way up and carefully remove the syringe from the adaptor, holding the syringe by the barrel rather than the plunger.
+8. Confirm that the dose in the syringe is correct.
 9. Ensure that the patient is sitting up or standing before giving the medicine.
-2. 10 Gently place the tip of the syringe into the patient's mouth and direct it to the inside of the cheek.
+4. 10 Gently place the tip of the syringe into the patient's mouth and direct it to the inside of the cheek.
 11. Slowly and gently push the plunger down to gently squirt the medicine into the inside of the cheek. DO NOT push down the plunger too hard or squirt the medicine to the back of the mouth or throat as this may cause choking. The plunger should be pushed back gently to the seated position until it clicks into place.
 12. Remove the syringe from the patient's mouth.
 13. Ask the patient to swallow the medicine and then to drink some water, making sure no medicine is left in the mouth.
@@ -1296,7 +1280,9 @@ If you suspect that you (or someone else) have (has) taken too much Jylamvo, tel
 
 An overdose of methotrexate can cause serious reactions. The symptoms of an overdose can include bleeding, an unusual feeling of weakness, ulcers in the mouth, feeling sick, vomiting, black or bloody stools, coughing up blood or vomiting blood with a coffee grounds appearance and a reduced urine. See also section 4 'Possible side effects'.
 
-Take the medicine pack with you when you visit your doctor or the hospital. The antidote in the event of an overdose is calcium folinate.
+Take the medicine pack with you when you visit your doctor or the hospital.
+
+The antidote in the event of an overdose is calcium folinate.
 
 ## If you forget to take Jylamvo
 
@@ -1312,29 +1298,33 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
+<div style=\"page-break-after: always\"></div>
+
+Stop using Jylamvo and seek medical attention immediately if you notice any of the following symptoms of serious skin reactions:
+
+- severe skin erosions and skin peeling, often with painful sores affecting the mouth or mucous membrane (epidermal necrosis)
+
 Tell your doctor immediately if you suddenly get wheeziness, difficulty in breathing, swelling of the eyelids, face or lips, rash or itching (especially affecting your whole body).
 
 Contact your doctor immediately if you develop any of the side effects listed below:
 
-<div style=\"page-break-after: always\"></div>
-
-- -breathing problems (these include a general feeling of illness, dry, irritating cough, shortness of breath, difficulty in breathing, chest pain or fever)
-- -spitting or coughing blood*
-- -serious peeling or blistering of the skin
-- -unusual bleeding (including vomiting blood), bruising or nose bleeds
-- -nausea, vomiting, abdominal discomfort or severe diarrhoea
-- -mouth ulcers
-- -black or tarry stools
-- -blood in the urine or stool
-- -small red spots on the skin
-- -fever, sore throat, flu-like symptoms
-- -yellow colouring of the skin (jaundice) or dark urine
-- -pain or difficulties in passing urine
-- -thirst and/or frequent urination
-- -seizures (convulsions)
-- -unconsciousness
-- -blurred or restricted vision
-- -severe fatigue.
+- breathing problems (these include a general feeling of illness, dry, irritating cough, shortness of breath, difficulty in breathing, chest pain or fever)
+- spitting or coughing blood*
+- serious peeling or blistering of the skin
+- unusual bleeding (including vomiting blood), bruising or nose bleeds
+- nausea, vomiting, abdominal discomfort or severe diarrhoea
+- mouth ulcers
+- black or tarry stools
+- blood in the urine or stool
+- small red spots on the skin
+- fever, sore throat, flu-like symptoms
+- yellow colouring of the skin (jaundice) or dark urine
+- pain or difficulties in passing urine
+- thirst and/or frequent urination
+- seizures (convulsions)
+- unconsciousness
+- blurred or restricted vision
+- severe fatigue.
 
 *has been reported for methotrexate used in patients with underlying rheumatologic disease.
 
@@ -1342,84 +1332,86 @@ The following side effects have also been reported:
 
 Very common (may affect more than 1 in 10 people):
 
-- -loss of appetite, feeling sick (nausea), vomiting, abdominal pain, indigestion, inflammation and ulcers of the mouth and throat
-- -blood test showing raised liver enzymes.
+- loss of appetite, feeling sick (nausea), vomiting, abdominal pain, indigestion, inflammation and ulcers of the mouth and throat
+- blood test showing raised liver enzymes.
 
 Common (may affect up to 1 in 10 people):
 
-- -infections
-- -reduced blood cell formation with a decrease in white and/or red blood cells and/or platelets (leucocytopenia, anaemia, thrombocytopenia)
-- -headache, tiredness, lightheadedness
-- -inflammation of the lungs (pneumonia) with dry cough, shortness of breath and fever
-- -diarrhoea
-- -skin rash, skin redness and itching.
+- infections
+- reduced blood cell formation with a decrease in white and/or red blood cells and/or platelets (leucocytopenia, anaemia, thrombocytopenia)
+- headache, tiredness, lightheadedness
+- inflammation of the lungs (pneumonia) with dry cough, shortness of breath and fever
+- diarrhoea
+- skin rash, skin redness and itching.
 
 Uncommon (may affect up to 1 in 100 people):
 
-- -lymphoma (lump in neck, groin or armpits with associated backache, weight loss or night sweats)
-- -severe allergic reactions
-- -diabetes
-- -depression
-- -dizziness, confusion, seizures
-- -lung damage
-- -ulcers and bleeding in the digestive tract
-- -liver diseases, reduced content of blood proteins
-- -nettle rash, sunburn-like reactions due to increased sensitivity of the skin to sunlight, brown discoloration of the skin, hair loss, increased number of rheumatic nodules, shingles, painful psoriasis, slow wound healing
-- -joint or muscle pain, osteoporosis (reduction in bone strength)
-- -kidney disease, inflammation or ulcers of the bladder (possibly also with blood in the urine), painful urination
-- -inflammation and ulcers of the vagina.
-
-Rare (may affect up to 1 in 1,000 people):
+- lymphoma (lump in neck, groin or armpits with associated backache, weight loss or night sweats)
+- severe allergic reactions
+- diabetes
+- depression
+- dizziness, confusion, seizures
+- lung damage
 
 <div style=\"page-break-after: always\"></div>
 
-- -a blood disorder characterised by the appearance of very large red blood cells (megaloblastic anaemia)
-- -mood swings
-- -weakness in movements, also only limited to the left or right side of the body
-- -severe visual disorders
-- -inflammation of the heart sac, accumulation of fluid in the heart sac
-- -low blood pressure, blood clots
-- -tonsillitis, stopping breathing, asthma
-- -inflammation of the pancreas, inflammation of the digestive tract, bloody stools, inflamed gums, indigestion
-- -acute hepatitis (inflammation of the liver)
-- -discoloration of the nails,acne, red or purple spots due to bleeding from blood vessels
-- -worsening of psoriasis during treatment with UV therapy
-- -skin lesions resembling sunburn or dermatitis after radiotherapy
-- -bone fractures
-- -kidney failure, reduction or lack of urine production, abnormal levels of electrolytes in blood
-- -impaired sperm formation, menstrual disorders.
+- ulcers and bleeding in the digestive tract
+- liver diseases, reduced content of blood proteins
+- nettle rash, sunburn-like reactions due to increased sensitivity of the skin to sunlight, brown discoloration of the skin, hair loss, increased number of rheumatic nodules, shingles, painful psoriasis, slow wound healing
+- joint or muscle pain, osteoporosis (reduction in bone strength)
+- kidney disease, inflammation or ulcers of the bladder (possibly also with blood in the urine), painful urination
+- inflammation and ulcers of the vagina.
 
-Very rare (may affect up to 1 in 10,000 people):
+## Rare (may affect up to 1 in 1,000 people):
 
-- -viral, fungal or bacterial systemic infections,
-- -serious disorder of bone marrow (anaemia), swollen glands
-- -lymphoproliferative disorders (excessive growth of white blood cells)
-- -insomnia
-- -pain, muscle weakness, changes in the sense of taste (metallic taste), inflammation of the membrane lining the brain resulting in paralysis or vomiting, sensation of numbness or tingling/having less sensitivity to stimulation than normal
-- -impaired movement of the muscles used for speech production, difficulty in speaking, impairment of language, feeling sleepy or tired, feeling confused, having unusual sensations in the head, brain swelling, ringing in ears
-- -red eyes, damage to the retina of the eye
-- -accumulation of fluid in the lung, lung infections
-- -vomiting blood, severe complications in the digestive tract
-- -liver failure
-- -fingernail infections, detachment of the nail from the nail bed, boils, widening of small blood vessels, damage to the blood vessels of the skin, allergic inflammation of blood vessels
-- -protein in the urine
-- -loss of sex drive, erection problems, vaginal discharge, infertility, enlargement of the breasts in men (gynaecomastia)
-- -fever.
+- a blood disorder characterised by the appearance of very large red blood cells (megaloblastic anaemia)
+- mood swings
+- weakness in movements, also only limited to the left or right side of the body
+- severe visual disorders
+- inflammation of the heart sac, accumulation of fluid in the heart sac
+- low blood pressure, blood clots
+- tonsillitis, stopping breathing, asthma
+- inflammation of the pancreas, inflammation of the digestive tract, bloody stools, inflamed gums, indigestion
+- acute hepatitis (inflammation of the liver)
+- discoloration of the nails,acne, red or purple spots due to bleeding from blood vessels
+- worsening of psoriasis during treatment with UV therapy
+- skin lesions resembling sunburn or dermatitis after radiotherapy
+- bone fractures
+- kidney failure, reduction or lack of urine production, abnormal levels of electrolytes in blood
+- impaired sperm formation, menstrual disorders.
 
-Not known (frequency cannot be estimated from the available data)
+## Very rare (may affect up to 1 in 10,000 people):
 
-- -pathological change of the white matter of the brain (leukoencephalopathy)
-- -haemorrhages
-- -bleeding from the lungs*
-- -redness and shedding of skin
-- -bone damage in the jaw (secondary to excessive growth of white blood cells)
-- -swelling.
+- viral, fungal or bacterial systemic infections,
+- serious disorder of bone marrow (anaemia), swollen glands
+- lymphoproliferative disorders (excessive growth of white blood cells)
+- insomnia
+- pain, muscle weakness, changes in the sense of taste (metallic taste), inflammation of the membrane lining the brain resulting in paralysis or vomiting, sensation of numbness or tingling/having less sensitivity to stimulation than normal
+- impaired movement of the muscles used for speech production, difficulty in speaking, impairment of language, feeling sleepy or tired, feeling confused, having unusual sensations in the head, brain swelling, ringing in ears
+- red eyes, damage to the retina of the eye
+- accumulation of fluid in the lung, lung infections
+- vomiting blood, severe complications in the digestive tract
+- liver failure
+- fingernail infections, detachment of the nail from the nail bed, boils, widening of small blood vessels, damage to the blood vessels of the skin, allergic inflammation of blood vessels
+- protein in the urine
+- loss of sex drive, erection problems, vaginal discharge, infertility, enlargement of the breasts in men (gynaecomastia)
+- fever.
+
+## Not known (frequency cannot be estimated from the available data)
+
+- pathological change of the white matter of the brain (leukoencephalopathy)
+- haemorrhages
+- bleeding from the lungs*
+
+<div style=\"page-break-after: always\"></div>
+
+- redness and shedding of skin
+- bone damage in the jaw (secondary to excessive growth of white blood cells)
+- swelling.
 
 *has been reported for methotrexate used in patients with underlying rheumatologic disease.
 
 Methotrexate can reduce the number of white blood cells and therefore weaken your immune defences. If you notice any symptoms of an infection such as fever or a marked worsening in your general state of health or fever with local signs of an infection such as sore throat/inflammation of the throat or mouth or problems passing water, see your doctor immediately. A blood test will be done to check for reduction in the white blood cells (agranulocytosis). It is important to tell your doctor about all the medicines you take.
-
-<div style=\"page-break-after: always\"></div>
 
 Methotrexate can cause serious (sometimes life-threatening) side effects. Your doctor will therefore do tests to check for any changes in your blood (such as a low white blood cell count, a low blood platelet count, lymphomas), kidneys or liver.
 
@@ -1457,14 +1449,36 @@ Jylamvo is a clear yellow solution. It is presented in a brown glass bottle cont
 
 ## Marketing Authorisation Holder
 
+<div style=\"page-break-after: always\"></div>
+
 Oresund Pharma ApS Orient Plads 1 2150 Nordhavn Denmark
 
 ## Manufacturer
 
 a Fine House S.A. Metaxa Ioanni 84, Kropia, 194 41 Greece
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for methotrexate, the scientific conclusions of PRAC are as follows:
+
+In view of available data on epidermal necrosis from the literature and spontaneous reports including in some cases a close temporal relationship, a positive de-challenge and in view of a plausible mechanism of action, the PRAC considers that a causal relationship between methotrexate and epidermal necrosis is at least a reasonable possibility. The PRAC concluded that the product information of products containing methotrexate should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the Marketing Authorisation(s)
+
+On the basis of the scientific conclusions for methotrexate the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing methotrexate is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the Marketing Authorisation(s) should be varied.

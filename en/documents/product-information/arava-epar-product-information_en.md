@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-19 17:06:29
-document_pages: 99
+document_datetime: 2026-09-07 09:58:52
+document_pages: 101
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arava-epar-product-information_en.pdf
 document_name: arava-epar-product-information_en.pdf
 version: success
-processing_time: 37.858495
-conversion_datetime: 2026-05-22 23:34:38.345321
+processing_time: 18.4354744
+conversion_datetime: 2026-09-11 17:24:54.927532
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -167,11 +167,15 @@ If patients develop any of these conditions, stop leflunomide treatment and perf
 
 Pustular psoriasis and worsening of psoriasis have been reported after the use of leflunomide. Treatment withdrawal may be considered taking into account patient's disease and past history.
 
-Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is  suspected  or  if  skin  ulcers  persist  despite  appropriate  therapy,  leflunomide  discontinuation  and  a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
-
-Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the peri-surgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
+Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is suspected or if skin ulcers persist despite appropriate therapy, leflunomide discontinuation and a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
 
 <div style=\"page-break-after: always\"></div>
+
+Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the perisurgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
+
+## Musculoskeletal disorders
+
+Myositis and /or rhabdomyolysis have been reported in patients treated with leflunomide, frequently in combination with other immunosuppressive drugs. Clinical symptoms may include unexplained muscle pain, tenderness or muscle weakness. Patients should be informed about the signs and symptoms associated with myositis and rhabdomyolysis and advised to seek medical attention immediately if such symptoms occur during leflunomide treatment. Monitor the patients for elevation of CK levels if clinically indicated. If patients develop any of these conditions, leflunomide must be discontinued and a washout procedure initiated (see section 4.4).
 
 ## Infections
 
@@ -191,6 +195,8 @@ Cases of peripheral neuropathy have been reported in patients receiving Arava. M
 
 ## Colitis
 
+<div style=\"page-break-after: always\"></div>
+
 Colitis, including microscopic colitis has been reported in patients treated with leflunomide. In patients on leflunomide treatment presenting unexplained chronic diarrhoea appropriate diagnostic procedures should be performed.
 
 ## Blood pressure
@@ -200,8 +206,6 @@ Blood pressure must be checked before the start of leflunomide treatment and per
 ## Procreation (recommendations for men)
 
 Male patients should be aware of the possible male-mediated foetal toxicity. Reliable contraception during treatment with leflunomide should also be guaranteed.
-
-<div style=\"page-break-after: always\"></div>
 
 There are no specific data on the risk of male-mediated foetal toxicity. However, animal studies to evaluate this specific risk have not been conducted. To minimise any possible risk, men wishing to father a child should consider discontinuing use of leflunomide and taking colestyramine 8 g 3 times daily for 11 days or 50 g of activated powdered charcoal 4 times daily for 11 days.
 
@@ -227,15 +231,15 @@ Increased side effects may occur in case of recent or concomitant use of hepatot
 
 ## Methotrexate
 
+<div style=\"page-break-after: always\"></div>
+
 In a small (n=30) study with co-administration of leflunomide (10 to 20 mg per day) with methotrexate (10 to 25 mg per week) a 2- to 3-fold elevation in liver enzymes was seen on 5 of 30 patients. All elevations resolved, 2 with continuation of both medicinal products and 3 after discontinuation of leflunomide. A more than 3-fold increase was seen in another 5 patients. All of these also resolved, 2 with continuation of both medicinal products and 3 after discontinuation of leflunomide.
 
 In patients with rheumatoid arthritis, no pharmacokinetic interaction between the leflunomide (10 to 20 mg per day) and methotrexate (10 to 25 mg per week) was demonstrated.
 
 ## Vaccinations
 
-<div style=\"page-break-after: always\"></div>
-
-No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long half-life of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Arava.
+No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long halflife of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Arava.
 
 ## Warfarin and other coumarin anticoagulants
 
@@ -243,7 +247,9 @@ There have been case reports of increased prothrombin time, when leflunomide and
 
 ## NSAIDS/Corticosteroids
 
-If the patient is already receiving nonsteroidal anti-inflammatory drugs (NSAIDs) and/or corticosteroids, these may be continued after starting leflunomide. Effect of other medicinal products on leflunomide:
+If the patient is already receiving nonsteroidal anti-inflammatory drugs (NSAIDs) and/or corticosteroids, these may be continued after starting leflunomide.
+
+## Effect of other medicinal products on leflunomide:
 
 ## Cholestyramine or activated charcoal
 
@@ -259,13 +265,13 @@ In vitro inhibition studies in human liver microsomes suggest that cytochrome P4
 
 In a study in which leflunomide was given concomitantly with a triphasic oral contraceptive pill containing 30 µg ethinyloestradiol to healthy female volunteers, there was no reduction in contraceptive activity of the pill, and A771726 pharmacokinetics were within predicted ranges. A pharmacokinetic interaction with oral contraceptives was observed with A771726 (see below).
 
+<div style=\"page-break-after: always\"></div>
+
 The following pharmacokinetic and pharmacodynamic interaction studies were conducted with A771726 (principal active metabolite of leflunomide). As similar drug-drug interactions cannot be excluded for leflunomide at recommended doses, the following study results and recommendations should be considered in patients treated with leflunomide:
 
 ## Effect on repaglinide (CYP2C8 substrate)
 
 There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo . Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect on caffeine (CYP1A2 substrate)
 
@@ -287,6 +293,8 @@ Repeated doses of A771726 had no effect on the pharmacokinetics of S-warfarin, i
 
 ## 4.6 Fertility, pregnancy and lactation
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy
 
 The active metabolite of leflunomide, A771726 is suspected to cause serious birth defects when administered during pregnancy. Arava is contraindicated in pregnancy (see section 4.3).
@@ -294,8 +302,6 @@ The active metabolite of leflunomide, A771726 is suspected to cause serious birt
 Women of childbearing potential have to use effective contraception during and up to 2 years after treatment (see 'waiting period' below) or up to 11 days after treatment (see abbreviated 'washout period' below).
 
 The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of the active metabolite, by instituting the drug elimination procedure described below, at the first delay of menses may decrease the risk to the foetus from leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 In a small prospective study in women (n=64) who became inadvertently pregnant while taking leflunomide for no more than three weeks after conception and followed by a drug elimination procedure, no significant differences (p=0.13) were observed in the overall rate of major structural defects (5.4%) compared to either of the comparison groups (4.2% in the disease matched group [n=108] and 4.2% in healthy pregnant women [n=78]).
 
@@ -320,6 +326,8 @@ However, also following either of the washout procedures, verification by 2 sepa
 
 Women of childbearing potential should be told that a waiting period of 2 years after treatment discontinuation is required before they may become pregnant. If a waiting period of up to approximately 2 years under reliable contraception is considered unpractical, prophylactic institution of a washout procedure may be advisable.
 
+<div style=\"page-break-after: always\"></div>
+
 Both colestyramine and activated powdered charcoal may influence the absorption of oestrogens and progestogens such that reliable contraception with oral contraceptives may not be guaranteed during the washout procedure with colestyramine or activated powdered charcoal. Use of alternative contraceptive methods is recommended.
 
 ## Breast-feeding
@@ -329,8 +337,6 @@ Animal studies indicate that leflunomide or its metabolites pass into breast mil
 ## Fertility
 
 Results of animal fertility studies have shown no effect on male and female fertility, but adverse effects on male reproductive organs were observed in repeated dose toxicity studies (see section 5.3).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -348,7 +354,7 @@ Very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Infections and infestations
+## Infections and infestations
 
 Rare:
 
@@ -360,23 +366,25 @@ Neoplasms benign, malignant and unspecified (incl. cysts and polyps)
 
 The risk of malignancy, particularly lymphoproliferative disorders, is increased with use of some immunosuppressive agents.
 
-## Blood and lymphatic system disorders
+Blood and lymphatic system disorders
 
 Common:
 
-leucopenia (leucocytes &gt;2 G/L)
-
 Uncommon:
+
+leucopenia (leucocytes &gt;2 G/L)
 
 anaemia, mild thrombocytopenia (platelets &lt;100 G/L)
 
 Rare:
 
-pancytopenia (probably by antiproliferative mechanism), leucopenia (leucocytes &lt;2 G/L), eosinophilia
-
 Very rare:
 
+pancytopenia (probably by antiproliferative mechanism), leucopenia (leucocytes &lt;2 G/L), eosinophilia
+
 agranulocytosis
+
+<div style=\"page-break-after: always\"></div>
 
 Recent, concomitant or consecutive use of potentially myelotoxic agents may be associated with a higher risk of haematological effects.
 
@@ -386,11 +394,11 @@ Common:
 
 Very rare:
 
-mild allergic reactions severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous
+mild allergic reactions
 
-necrotizing vasculitis
+severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous necrotizing vasculitis
 
-Metabolism and nutrition disorders
+## Metabolism and nutrition disorders
 
 Common:
 
@@ -408,15 +416,13 @@ Not known:
 
 hypouricemia
 
-Psychiatric disorders
+## Psychiatric disorders
 
 Uncommon:
 
 anxiety
 
-<div style=\"page-break-after: always\"></div>
-
-## Nervous system disorders
+Nervous system disorders
 
 Common:
 
@@ -426,13 +432,13 @@ paraesthesia, headache, dizziness, peripheral neuropathy
 
 Common:
 
-mild increase in blood pressure
-
 Rare:
+
+mild increase in blood pressure
 
 severe increase in blood pressure
 
-Respiratory, thoracic and mediastinal disorders
+## Respiratory, thoracic and mediastinal disorders
 
 Rare:
 
@@ -444,9 +450,11 @@ interstitial lung disease (including interstitial pneumonitis), which may be fat
 
 Common:
 
-colitis including microscopic colitis such as lymphocytic colitis, collagenous colitis, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g., aphthous stomatitis, mouth ulceration), abdominal pain
-
 Uncommon:
+
+colitis including microscopic colitis such as lymphocytic colitis, collagenous colitis, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g., aphthous stomatitis,
+
+mouth ulceration), abdominal pain
 
 taste disturbances
 
@@ -458,13 +466,15 @@ pancreatitis
 
 Common:
 
-elevation of liver parameters (transaminases [especially ALT], less often gamma-GT, alkaline phosphatase, bilirubin)
+elevation of liver parameters (transaminases [especially ALT], less often gamma-
 
 Rare:
 
-Very rare:
+GT, alkaline phosphatase, bilirubin)
 
 hepatitis, jaundice/cholestasis
+
+Very rare:
 
 severe liver injury such as hepatic failure and acute hepatic necrosis that may be fatal
 
@@ -472,21 +482,17 @@ severe liver injury such as hepatic failure and acute hepatic necrosis that may 
 
 Common:
 
-increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin
-
 Uncommon:
 
 Very rare:
 
 Not known:
 
-urticaria
+increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
 
-toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug
+toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
 
-Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
-
-Musculoskeletal and connective tissue disorders
+## Musculoskeletal and connective tissue disorders
 
 Common:
 
@@ -502,13 +508,15 @@ Not known:
 
 renal failure
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reproductive system and breast disorders
 
 Not known:
 
 marginal (reversible) decreases in sperm concentration, total sperm count and rapid progressive motility
 
-General disorders and administration site conditions
+## General disorders and administration site conditions
 
 Common:
 
@@ -520,9 +528,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Symptoms There have been reports of chronic overdose in patients taking Arava at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
+## Symptoms
 
-<div style=\"page-break-after: always\"></div>
+There have been reports of chronic overdose in patients taking Arava at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
 
 ## Management
 
@@ -536,7 +544,7 @@ Studies with both haemodialysis and CAPD (chronic ambulatory peritoneal dialysis
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: selective immunosuppressants, ATC code: L04AK01.
+Pharmacotherapeutic group: selective immunosuppressants, ATC code: L04AK01 .
 
 ## Human pharmacology
 
@@ -544,9 +552,11 @@ Leflunomide is a disease-modifying anti-rheumatic agent with antiproliferative p
 
 ## Animal pharmacology
 
-Leflunomide is effective in animal models of arthritis and of other autoimmune diseases and transplantation, mainly if administered during the sensitisation phase. It has immunomodulating/ immunosuppressive characteristics, acts as an antiproliferative agent, and displays anti-inflammatory properties. Leflunomide exhibits the best protective effects on animal models of autoimmune diseases when administered in the early phase of the disease progression.
+Leflunomide is effective in animal models of arthritis and of other autoimmune diseases and transplantation, mainly if administered during the sensitisation phase. It has immunomodulating/
 
-In vivo , it is rapidly and almost completely metabolised to A771726 which is active in vitro , and is presumed to be responsible for the therapeutic effect.
+<div style=\"page-break-after: always\"></div>
+
+immunosuppressive characteristics, acts as an antiproliferative agent, and displays antiinflammatory properties. Leflunomide exhibits the best protective effects on animal models of autoimmune diseases when administered in the early phase of the disease progression. In vivo , it is rapidly and almost completely metabolised to A771726 which is active in vitro , and is presumed to be responsible for the therapeutic effect.
 
 ## Mechanism of action
 
@@ -558,13 +568,11 @@ A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydro
 
 The efficacy of Arava in the treatment of rheumatoid arthritis was demonstrated in 4 controlled trials (1 in phase II and 3 in phase III). The phase II trial, study YU203, randomised 402 subjects with active rheumatoid arthritis to placebo (n=102), leflunomide 5 mg (n=95), 10 mg (n=101) or 25 mg/day (n=104). The treatment duration was 6 months.
 
-All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days.
+All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
 
-<div style=\"page-break-after: always\"></div>
+Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months.
 
-Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
-
-Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months. Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
+Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
 
 Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
@@ -573,6 +581,8 @@ A randomised, double-blind, parallel-group non-inferiority study compared the re
 ## Paediatric population
 
 Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3-17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI) ≥ 30% (p=0.02). In responders, this response was maintained during 48 weeks (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 The pattern of adverse events of leflunomide and methotrexate seems to be similar, but the dose used in lighter subjects resulted in a relatively low exposure (see section 5.2). These data do not allow an effective and safe dose recommendation.
 
@@ -583,8 +593,6 @@ The efficacy of Arava was demonstrated in one controlled, randomised, double bli
 Leflunomide 20 mg/day was significantly superior to placebo in reducing the symptoms of arthritis in patients with psoriatic arthritis: the PsARC (Psoriatic Arthritis treatment Response Criteria) responders were 59% in the leflunomide group and 29.7% in the placebo group by 6 months (p&lt;0.0001). The effect of leflunomide on improvement of function and on reduction of skin lesions was modest.
 
 ## Postmarketing studies
-
-<div style=\"page-break-after: always\"></div>
 
 A randomised study assessed the clinical efficacy response rate in DMARD-naïve patients (n=121) with early RA, who received either 20 mg or 100 mg of leflunomide in two parallel groups during the initial three day double blind period. The initial period was followed by an open label maintenance period of three months, during which both groups received leflunomide 20 mg daily. No incremental overall benefit was observed in the studied population with the use of a loading dose regimen. The safety data obtained from both treatment groups were consistent with the known safety profile of leflunomide, however, the incidence of gastrointestinal adverse events and of elevated liver enzymes tended to be higher in the patients receiving the loading dose of 100 mg leflunomide.
 
@@ -598,13 +606,13 @@ Excretion data from the 14 C study indicated that at least about 82 to 95% of th
 
 ## Distribution
 
+<div style=\"page-break-after: always\"></div>
+
 In human plasma, A771726 is extensively bound to protein (albumin). The unbound fraction of A771726 is about 0.62%. Binding of A771726 is linear in the therapeutic concentration range. Binding of A771726 appeared slightly reduced and more variable in plasma from patients with rheumatoid arthritis or chronic renal insufficiency. The extensive protein binding of A771726 could lead to displacement of other highly-bound drugs. In vitro plasma protein binding interaction studies with warfarin at clinically relevant concentrations, however, showed no interaction. Similar studies showed that ibuprofen and diclofenac did not displace A771726, whereas the unbound fraction of A771726 is increased 2- to 3-fold in the presence of tolbutamide. A771726 displaced ibuprofen, diclofenac and tolbutamide but the unbound fraction of these medicinal products is only increased by 10% to 50%. There is no indication that these effects are of clinical relevance. Consistent with extensive protein binding A771726 has a low apparent volume of distribution (approximately 11 litres). There is no preferential uptake in erythrocytes.
 
 ## Biotransformation
 
-Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (non-specific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
-
-<div style=\"page-break-after: always\"></div>
+Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (nonspecific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
 
 ## Elimination
 
@@ -622,7 +630,11 @@ No data are available regarding treatment of patients with hepatic impairment. T
 
 ## Paediatric population
 
-The pharmacokinetics of A771726 following oral administration of leflunomide have been investigated in 73 paediatric patients with polyarticular course Juvenile Rheumatoid Arthritis (JRA) who ranged in age from 3 to 17 years. The results of a population pharmacokinetic analysis of these trials have demonstrated that paediatric patients with body weights ≤ 40 kg have a reduced systemic exposure (measured by Css) of A771726 relative to adult rheumatoid arthritis patients (see section 4.2).
+The pharmacokinetics of A771726 following oral administration of leflunomide have been investigated in 73 paediatric patients with polyarticular course Juvenile Rheumatoid Arthritis (JRA)
+
+<div style=\"page-break-after: always\"></div>
+
+who ranged in age from 3 to 17 years. The results of a population pharmacokinetic analysis of these trials have demonstrated that paediatric patients with body weights ≤ 40 kg have a reduced systemic exposure (measured by Css) of A771726 relative to adult rheumatoid arthritis patients (see section 4.2).
 
 ## Elderly
 
@@ -631,8 +643,6 @@ Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with p
 ## 5.3 Preclinical safety data
 
 Leflunomide, administered orally and intraperitoneally, has been studied in acute toxicity studies in mice and rats. Repeated oral administration of leflunomide to mice for up to 3 months, to rats and dogs for up to 6 months and to monkeys for up to 1 month's duration revealed that the major target organs for toxicity were bone marrow, blood, gastrointestinal tract, skin, spleen, thymus and lymph nodes. The main effects were anaemia, leucopenia, decreased platelet counts and panmyelopathy and reflect the basic mode of action of the compound (inhibition of DNA synthesis). In rats and dogs, Heinz bodies and/or Howell-Jolly bodies were found. Other effects found on heart, liver, cornea and respiratory tract could be explained as infections due to immunosuppression. Toxicity in animals was found at doses equivalent to human therapeutic doses.
-
-<div style=\"page-break-after: always\"></div>
 
 Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro , whilst insufficient information was available on its potential to exert this effect in vivo .
 
@@ -650,6 +660,8 @@ Tablet core: Maize starch Povidone (E1201) Crospovidone (E1202) Silica colloidal
 
 Film-coating: Talc (E553b) Hypromellose (E464) Titanium dioxide (E171) Macrogol 8000
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 Not applicable.
@@ -662,9 +674,9 @@ Not applicable.
 
 Blister:
 
-Store in the original package.
-
 Bottle:
+
+Store in the original package.
 
 Keep the bottle tightly closed.
 
@@ -672,23 +684,19 @@ Keep the bottle tightly closed.
 
 Blister:
 
-Aluminium / Aluminium blister. Pack sizes: 30 and 100 film-coated tablets.
-
 Bottle:
+
+Aluminium / Aluminium blister. Pack sizes: 30 and 100 film-coated tablets.
 
 100 ml HDPE-wide-necked bottle, with screw cap with integrated desiccant container, containing either 30 or 100 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal
 
 No special requirements for disposal.
 
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
@@ -718,7 +726,9 @@ Arava 20 mg film-coated tablets
 
 Each tablet contains 20 mg of leflunomide.
 
-Excipients with known effect Each tablet contains 72 mg of lactose monohydrate.
+## Excipients with known effect
+
+Each tablet contains 72 mg of lactose monohydrate.
 
 For the full list of excipients, see section 6.1.
 
@@ -853,11 +863,15 @@ If patients develop any of these conditions, stop leflunomide treatment and perf
 
 Pustular psoriasis and worsening of psoriasis have been reported after the use of leflunomide. Treatment withdrawal may be considered taking into account patient's disease and past history.
 
-Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is  suspected  or  if  skin  ulcers  persist  despite  appropriate  therapy,  leflunomide  discontinuation  and  a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
+Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is suspected or if skin ulcers persist despite appropriate therapy, leflunomide discontinuation and a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
 
-Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the peri-surgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
+Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the perisurgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
 
 <div style=\"page-break-after: always\"></div>
+
+## Musculoskeletal disorders
+
+Myositis and /or rhabdomyolysis have been reported in patients treated with leflunomide, frequently in combination with other immunosuppressive drugs. Clinical symptoms may include unexplained muscle pain, tenderness or muscle weakness. Patients should be informed about the signs and symptoms associated with myositis and rhabdomyolysis and advised to seek medical attention immediately if such symptoms occur during leflunomide treatment. Monitor the patients for elevation of CK levels if clinically indicated. If patients develop any of these conditions, leflunomide must be discontinued and a washout procedure initiated (see section 4.4).
 
 ## Infections
 
@@ -879,6 +893,8 @@ Cases of peripheral neuropathy have been reported in patients receiving Arava. M
 
 Colitis, including microscopic colitis has been reported in patients treated with leflunomide. In patients on leflunomide treatment presenting unexplained chronic diarrhoea appropriate diagnostic procedures should be performed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Blood pressure
 
 Blood pressure must be checked before the start of leflunomide treatment and periodically thereafter.
@@ -886,8 +902,6 @@ Blood pressure must be checked before the start of leflunomide treatment and per
 ## Procreation (recommendations for men)
 
 Male patients should be aware of the possible male-mediated foetal toxicity. Reliable contraception during treatment with leflunomide should also be guaranteed.
-
-<div style=\"page-break-after: always\"></div>
 
 There are no specific data on the risk of male-mediated foetal toxicity. However, animal studies to evaluate this specific risk have not been conducted. To minimise any possible risk, men wishing to father a child should consider discontinuing use of leflunomide and taking colestyramine 8 g 3 times daily for 11 days or 50 g of activated powdered charcoal 4 times daily for 11 days.
 
@@ -915,13 +929,13 @@ Increased side effects may occur in case of recent or concomitant use of hepatot
 
 In a small (n=30) study with co-administration of leflunomide (10 to 20 mg per day) with methotrexate (10 to 25 mg per week) a 2- to 3-fold elevation in liver enzymes was seen on 5 of 30 patients. All elevations resolved, 2 with continuation of both medicinal products and 3 after discontinuation of leflunomide. A more than 3-fold increase was seen in another 5 patients. All of these also resolved, 2 with continuation of both medicinal products and 3 after discontinuation of leflunomide.
 
+<div style=\"page-break-after: always\"></div>
+
 In patients with rheumatoid arthritis, no pharmacokinetic interaction between the leflunomide (10 to 20 mg per day) and methotrexate (10 to 25 mg per week) was demonstrated.
 
 ## Vaccinations
 
-No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long half-life of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Arava.
-
-<div style=\"page-break-after: always\"></div>
+No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long halflife of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Arava.
 
 ## Warfarin and other coumarin anticoagulants
 
@@ -947,13 +961,13 @@ In vitro inhibition studies in human liver microsomes suggest that cytochrome P4
 
 In a study in which leflunomide was given concomitantly with a triphasic oral contraceptive pill containing 30 µg ethinyloestradiol to healthy female volunteers, there was no reduction in contraceptive activity of the pill, and A771726 pharmacokinetics were within predicted ranges. A pharmacokinetic interaction with oral contraceptives was observed with A771726 (see below).
 
+<div style=\"page-break-after: always\"></div>
+
 The following pharmacokinetic and pharmacodynamic interaction studies were conducted with A771726 (principal active metabolite of leflunomide). As similar drug-drug interactions cannot be excluded for leflunomide at recommended doses, the following study results and recommendations should be considered in patients treated with leflunomide:
 
 ## Effect on repaglinide (CYP2C8 substrate)
 
 There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo . Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect on caffeine (CYP1A2 substrate)
 
@@ -977,13 +991,13 @@ Repeated doses of A771726 had no effect on the pharmacokinetics of S-warfarin, i
 
 ## Pregnancy
 
+<div style=\"page-break-after: always\"></div>
+
 The active metabolite of leflunomide, A771726 is suspected to cause serious birth defects when administered during pregnancy. Arava is contraindicated in pregnancy (see section 4.3).
 
 Women of childbearing potential have to use effective contraception during and up to 2 years after treatment (see 'waiting period' below) or up to 11 days after treatment (see abbreviated 'washout period' below).
 
 The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of the active metabolite, by instituting the drug elimination procedure described below, at the first delay of menses may decrease the risk to the foetus from leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 In a small prospective study in women (n=64) who became inadvertently pregnant while taking leflunomide for no more than three weeks after conception and followed by a drug elimination procedure, no significant differences (p=0.13) were observed in the overall rate of major structural defects (5.4%) compared to either of the comparison groups (4.2% in the disease matched group [n=108] and 4.2% in healthy pregnant women [n=78]).
 
@@ -1010,6 +1024,8 @@ Women of childbearing potential should be told that a waiting period of 2 years 
 
 Both colestyramine and activated powdered charcoal may influence the absorption of oestrogens and progestogens such that reliable contraception with oral contraceptives may not be guaranteed during the washout procedure with colestyramine or activated powdered charcoal. Use of alternative contraceptive methods is recommended.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 Animal studies indicate that leflunomide or its metabolites pass into breast milk. Breast-feeding women must, therefore, not receive leflunomide.
@@ -1017,8 +1033,6 @@ Animal studies indicate that leflunomide or its metabolites pass into breast mil
 ## Fertility
 
 Results of animal fertility studies have shown no effect on male and female fertility, but adverse effects on male reproductive organs were observed in repeated dose toxicity studies (see section 5.3).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -1030,7 +1044,7 @@ In the case of side effects such as dizziness the patient's ability to concentra
 
 The most frequently reported adverse effects with leflunomide are: mild increase in blood pressure, leucopenia, paraesthesia, headache, dizziness, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g. aphthous stomatitis, mouth ulceration), abdominal pain, increased hair loss, eczema, rash (including maculo-papular rash), pruritus, dry skin, tenosynovitis, CPK increased, anorexia, weight loss (usually insignificant), asthenia, mild allergic reactions and elevation of liver parameters (transaminases (especially ALT), less often gamma-GT, alkaline phosphatise, bilirubin)).
 
-## Classification of expected frequencies:
+Classification of expected frequencies:
 
 Very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
@@ -1044,7 +1058,7 @@ severe infections, including sepsis which may be fatal.
 
 Like other agents with immunosuppressive potential, leflunomide may increase susceptibility to infections, including opportunistic infections (see also section 4.4). Thus, the overall incidence of infections can increase (in particular of rhinitis, bronchitis and pneumonia).
 
-Neoplasms benign, malignant and unspecified (incl. cysts and polyps)
+## Neoplasms benign, malignant and unspecified (incl. cysts and polyps)
 
 The risk of malignancy, particularly lymphoproliferative disorders, is increased with use of some immunosuppressive agents.
 
@@ -1052,9 +1066,9 @@ Blood and lymphatic system disorders
 
 Common:
 
-leucopenia (leucocytes &gt;2 G/L)
-
 Uncommon:
+
+leucopenia (leucocytes &gt;2 G/L)
 
 anaemia, mild thrombocytopenia (platelets &lt;100 G/L)
 
@@ -1065,6 +1079,8 @@ pancytopenia (probably by antiproliferative mechanism), leucopenia (leucocytes &
 Very rare:
 
 agranulocytosis
+
+<div style=\"page-break-after: always\"></div>
 
 Recent, concomitant or consecutive use of potentially myelotoxic agents may be associated with a higher risk of haematological effects.
 
@@ -1096,9 +1112,9 @@ Not known:
 
 hypouricemia
 
-Psychiatric disorders Uncommon:
+## Psychiatric disorders
 
-<div style=\"page-break-after: always\"></div>
+Uncommon:
 
 anxiety
 
@@ -1108,15 +1124,17 @@ Common:
 
 paraesthesia, headache, dizziness, peripheral neuropathy
 
-Cardiac disorders
+## Cardiac disorders
 
 Common:
 
+mild increase in blood pressure
+
 Rare:
 
-mild increase in blood pressure severe increase in blood pressure
+severe increase in blood pressure
 
-Respiratory, thoracic and mediastinal disorders
+## Respiratory, thoracic and mediastinal disorders
 
 Rare:
 
@@ -1142,13 +1160,13 @@ pancreatitis
 
 Common:
 
-elevation of liver parameters (transaminases [especially ALT], less often gamma-GT, alkaline phosphatase, bilirubin)
+elevation of liver parameters (transaminases [especially ALT], less often gammaGT, alkaline phosphatase, bilirubin)
 
 Rare:
 
-Very rare:
-
 hepatitis, jaundice/cholestasis
+
+Very rare:
 
 severe liver injury such as hepatic failure and acute hepatic necrosis that may be fatal
 
@@ -1158,11 +1176,11 @@ Common:
 
 Uncommon:
 
-increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
-
 Very rare:
 
 Not known:
+
+increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
 
 toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
 
@@ -1176,13 +1194,15 @@ Uncommon:
 
 tendon rupture
 
-Renal and urinary disorders
+## Renal and urinary disorders
 
 Not known:
 
 renal failure
 
-Reproductive system and breast disorders
+<div style=\"page-break-after: always\"></div>
+
+## Reproductive system and breast disorders
 
 Not known:
 
@@ -1190,9 +1210,7 @@ marginal (reversible) decreases in sperm concentration, total sperm count and ra
 
 General disorders and administration site conditions
 
-Common:
-
-anorexia, weight loss (usually insignificant), asthenia
+Common: anorexia, weight loss (usually insignificant), asthenia
 
 ## Reporting of suspected adverse reactions
 
@@ -1200,9 +1218,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Symptoms There have been reports of chronic overdose in patients taking Arava at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
+## Symptoms
 
-<div style=\"page-break-after: always\"></div>
+There have been reports of chronic overdose in patients taking Arava at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
 
 ## Management
 
@@ -1224,9 +1242,9 @@ Leflunomide is a disease-modifying anti-rheumatic agent with antiproliferative p
 
 ## Animal pharmacology
 
-Leflunomide is effective in animal models of arthritis and of other autoimmune diseases and transplantation, mainly if administered during the sensitisation phase. It has immunomodulating/ immunosuppressive characteristics, acts as an antiproliferative agent, and displays anti-inflammatory properties. Leflunomide exhibits the best protective effects on animal models of autoimmune diseases when administered in the early phase of the disease progression.
+Leflunomide is effective in animal models of arthritis and of other autoimmune diseases and transplantation, mainly if administered during the sensitisation phase. It has immunomodulating/ immunosuppressive characteristics, acts as an antiproliferative agent, and displays antiinflammatory properties. Leflunomide exhibits the best protective effects on animal models of autoimmune diseases when administered in the early phase of the disease progression. In vivo , it is rapidly and almost completely metabolised to A771726 which is active in vitro , and is presumed to be responsible for the therapeutic effect.
 
-In vivo , it is rapidly and almost completely metabolised to A771726 which is active in vitro , and is presumed to be responsible for the therapeutic effect.
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -1238,13 +1256,11 @@ A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydro
 
 The efficacy of Arava in the treatment of rheumatoid arthritis was demonstrated in 4 controlled trials (1 in phase II and 3 in phase III). The phase II trial, study YU203, randomised 402 subjects with active rheumatoid arthritis to placebo (n=102), leflunomide 5 mg (n=95), 10 mg (n=101) or 25 mg/day (n=104). The treatment duration was 6 months.
 
-All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days.
+All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
 
-<div style=\"page-break-after: always\"></div>
+Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months.
 
-Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
-
-Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months. Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
+Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
 
 Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
@@ -1252,7 +1268,11 @@ A randomised, double-blind, parallel-group non-inferiority study compared the re
 
 ## Paediatric population
 
-Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3-17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI) ≥ 30% (p=0.02). In responders, this response was maintained during 48 weeks (see section 4.2).
+Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3-17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA
+
+<div style=\"page-break-after: always\"></div>
+
+Definition of Improvement (DOI) ≥ 30% (p=0.02). In responders, this response was maintained during 48 weeks (see section 4.2).
 
 The pattern of adverse events of leflunomide and methotrexate seems to be similar, but the dose used in lighter subjects resulted in a relatively low exposure (see section 5.2). These data do not allow an effective and safe dose recommendation.
 
@@ -1263,8 +1283,6 @@ The efficacy of Arava was demonstrated in one controlled, randomised, double bli
 Leflunomide 20 mg/day was significantly superior to placebo in reducing the symptoms of arthritis in patients with psoriatic arthritis: the PsARC (Psoriatic Arthritis treatment Response Criteria) responders were 59% in the leflunomide group and 29.7% in the placebo group by 6 months (p&lt;0.0001). The effect of leflunomide on improvement of function and on reduction of skin lesions was modest.
 
 ## Postmarketing studies
-
-<div style=\"page-break-after: always\"></div>
 
 A randomised study assessed the clinical efficacy response rate in DMARD-naïve patients (n=121) with early RA, who received either 20 mg or 100 mg of leflunomide in two parallel groups during the initial three day double blind period. The initial period was followed by an open label maintenance period of three months, during which both groups received leflunomide 20 mg daily. No incremental overall benefit was observed in the studied population with the use of a loading dose regimen. The safety data obtained from both treatment groups were consistent with the known safety profile of leflunomide, however, the incidence of gastrointestinal adverse events and of elevated liver enzymes tended to be higher in the patients receiving the loading dose of 100 mg leflunomide.
 
@@ -1278,13 +1296,15 @@ Excretion data from the 14 C study indicated that at least about 82 to 95% of th
 
 ## Distribution
 
-In human plasma, A771726 is extensively bound to protein (albumin). The unbound fraction of A771726 is about 0.62%. Binding of A771726 is linear in the therapeutic concentration range. Binding of A771726 appeared slightly reduced and more variable in plasma from patients with rheumatoid arthritis or chronic renal insufficiency. The extensive protein binding of A771726 could lead to displacement of other highly-bound drugs. In vitro plasma protein binding interaction studies with warfarin at clinically relevant concentrations, however, showed no interaction. Similar studies showed that ibuprofen and diclofenac did not displace A771726, whereas the unbound fraction of A771726 is increased 2- to 3-fold in the presence of tolbutamide. A771726 displaced ibuprofen, diclofenac and tolbutamide but the unbound fraction of these medicinal products is only increased by 10% to 50%. There is no indication that these effects are of clinical relevance. Consistent with extensive protein binding A771726 has a low apparent volume of distribution (approximately 11 litres). There is no preferential uptake in erythrocytes.
+In human plasma, A771726 is extensively bound to protein (albumin). The unbound fraction of A771726 is about 0.62%. Binding of A771726 is linear in the therapeutic concentration range.
+
+<div style=\"page-break-after: always\"></div>
+
+Binding of A771726 appeared slightly reduced and more variable in plasma from patients with rheumatoid arthritis or chronic renal insufficiency. The extensive protein binding of A771726 could lead to displacement of other highly-bound drugs. In vitro plasma protein binding interaction studies with warfarin at clinically relevant concentrations, however, showed no interaction. Similar studies showed that ibuprofen and diclofenac did not displace A771726, whereas the unbound fraction of A771726 is increased 2- to 3-fold in the presence of tolbutamide. A771726 displaced ibuprofen, diclofenac and tolbutamide but the unbound fraction of these medicinal products is only increased by 10% to 50%. There is no indication that these effects are of clinical relevance. Consistent with extensive protein binding A771726 has a low apparent volume of distribution (approximately 11 litres). There is no preferential uptake in erythrocytes.
 
 ## Biotransformation
 
-Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (non-specific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
-
-<div style=\"page-break-after: always\"></div>
+Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (nonspecific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
 
 ## Elimination
 
@@ -1304,6 +1324,8 @@ No data are available regarding treatment of patients with hepatic impairment. T
 
 The pharmacokinetics of A771726 following oral administration of leflunomide have been investigated in 73 paediatric patients with polyarticular course Juvenile Rheumatoid Arthritis (JRA) who ranged in age from 3 to 17 years. The results of a population pharmacokinetic analysis of these trials have demonstrated that paediatric patients with body weights ≤ 40 kg have a reduced systemic exposure (measured by Css) of A771726 relative to adult rheumatoid arthritis patients (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elderly
 
 Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with pharmacokinetics in younger adults.
@@ -1311,8 +1333,6 @@ Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with p
 ## 5.3 Preclinical safety data
 
 Leflunomide, administered orally and intraperitoneally, has been studied in acute toxicity studies in mice and rats. Repeated oral administration of leflunomide to mice for up to 3 months, to rats and dogs for up to 6 months and to monkeys for up to 1 month's duration revealed that the major target organs for toxicity were bone marrow, blood, gastrointestinal tract, skin, spleen, thymus and lymph nodes. The main effects were anaemia, leucopenia, decreased platelet counts and panmyelopathy and reflect the basic mode of action of the compound (inhibition of DNA synthesis). In rats and dogs, Heinz bodies and/or Howell-Jolly bodies were found. Other effects found on heart, liver, cornea and respiratory tract could be explained as infections due to immunosuppression. Toxicity in animals was found at doses equivalent to human therapeutic doses.
-
-<div style=\"page-break-after: always\"></div>
 
 Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro , whilst insufficient information was available on its potential to exert this effect in vivo .
 
@@ -1330,6 +1350,8 @@ Tablet core: Maize starch Povidone (E1201) Crospovidone (E1202) Silica colloidal
 
 Film-coating: Talc(E553b) Hypromellose (E464) Titanium dioxide (E171) Macrogol 8000 Yellow ferric oxide (E172)
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 Not applicable.
@@ -1342,9 +1364,9 @@ Not applicable.
 
 Blister:
 
-Store in the original package.
-
 Bottle:
+
+Store in the original package.
 
 Keep the bottle tightly closed.
 
@@ -1352,13 +1374,11 @@ Keep the bottle tightly closed.
 
 Blister:
 
-Aluminium / Aluminium blister. Pack sizes: 30 and 100 film-coated tablets.
-
 Bottle:
 
-100 ml HDPE-wide-necked bottle, with screw cap with integrated desiccant container, containing either 30, 50 or 100 film-coated tablets.
+Aluminium / Aluminium blister. Pack sizes: 30 and 100 film-coated tablets.
 
-<div style=\"page-break-after: always\"></div>
+100 ml HDPE-wide-necked bottle, with screw cap with integrated desiccant container, containing either 30, 50 or 100 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -1366,15 +1386,15 @@ Not all pack sizes may be marketed.
 
 No special requirements for disposal.
 
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/99/118/005-008 EU/1/99/118/010
+EU/1/99/118/005-008
+
+EU/1/99/118/010
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -1535,11 +1555,15 @@ If patients develop any of these conditions, stop leflunomide treatment and perf
 
 Pustular psoriasis and worsening of psoriasis have been reported after the use of leflunomide. Treatment withdrawal may be considered taking into account patient's disease and past history.
 
-Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is  suspected  or  if  skin  ulcers  persist  despite  appropriate  therapy,  leflunomide  discontinuation  and  a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
+Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is suspected or if skin ulcers persist despite appropriate therapy, leflunomide discontinuation and a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
 
-Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the peri-surgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
+Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the perisurgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
 
 <div style=\"page-break-after: always\"></div>
+
+## Musculoskeletal disorders
+
+Myositis and /or rhabdomyolysis have been reported in patients treated with leflunomide, frequently in combination with other immunosuppressive drugs. Clinical symptoms may include unexplained muscle pain, tenderness or muscle weakness. Patients should be informed about the signs and symptoms associated with myositis and rhabdomyolysis and advised to seek medical attention immediately if such symptoms occur during leflunomide treatment. Monitor the patients for elevation of CK levels if clinically indicated. If patients develop any of these conditions, leflunomide must be discontinued and a washout procedure initiated (see section 4.4).
 
 ## Infections
 
@@ -1561,6 +1585,8 @@ Cases of peripheral neuropathy have been reported in patients receiving Arava. M
 
 Colitis, including microscopic colitis has been reported in patients treated with leflunomide. In patients on leflunomide treatment presenting unexplained chronic diarrhoea appropriate diagnostic procedures should be performed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Blood pressure
 
 Blood pressure must be checked before the start of leflunomide treatment and periodically thereafter.
@@ -1568,8 +1594,6 @@ Blood pressure must be checked before the start of leflunomide treatment and per
 ## Procreation (recommendations for men)
 
 Male patients should be aware of the possible male-mediated foetal toxicity. Reliable contraception during treatment with leflunomide should also be guaranteed.
-
-<div style=\"page-break-after: always\"></div>
 
 There are no specific data on the risk of male-mediated foetal toxicity. However, animal studies to evaluate this specific risk have not been conducted. To minimise any possible risk, men wishing to father a child should consider discontinuing use of leflunomide and taking colestyramine 8 g 3 times daily for 11 days or 50 g of activated powdered charcoal 4 times daily for 11 days.
 
@@ -1597,13 +1621,13 @@ Increased side effects may occur in case of recent or concomitant use of hepatot
 
 In a small (n=30) study with co-administration of leflunomide (10 to 20 mg per day) with methotrexate (10 to 25 mg per week) a 2- to 3-fold elevation in liver enzymes was seen on 5 of 30 patients. All elevations resolved 2 with continuation of both medicinal products and 3 after discontinuation of leflunomide. A more than 3-fold increase was seen in another 5 patients. All of these also resolved, 2 with continuation of both medicinal products and 3 after discontinuation of leflunomide.
 
+<div style=\"page-break-after: always\"></div>
+
 In patients with rheumatoid arthritis, no pharmacokinetic interaction between the leflunomide (10 to 20 mg per day) and methotrexate (10 to 25 mg per week) was demonstrated.
 
 ## Vaccinations
 
-No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long half-life of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Arava.
-
-<div style=\"page-break-after: always\"></div>
+No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long halflife of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Arava.
 
 ## Warfarin and other coumarin anticoagulants
 
@@ -1631,11 +1655,11 @@ In a study in which leflunomide was given concomitantly with a triphasic oral co
 
 The following pharmacokinetic and pharmacodynamic interaction studies were conducted with A771726 (principal active metabolite of leflunomide). As similar drug-drug interactions cannot be excluded for leflunomide at recommended doses, the following study results and recommendations should be considered in patients treated with leflunomide:
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect on repaglinide (CYP2C8 substrate)
 
 There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo . Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect on caffeine (CYP1A2 substrate)
 
@@ -1661,11 +1685,11 @@ Repeated doses of A771726 had no effect on the pharmacokinetics of S-warfarin, i
 
 The active metabolite of leflunomide, A771726 is suspected to cause serious birth defects when administered during pregnancy. Arava is contraindicated in pregnancy (see section 4.3).
 
+<div style=\"page-break-after: always\"></div>
+
 Women of childbearing potential have to use effective contraception during and up to 2 years after treatment (see 'waiting period' below) or up to 11 days after treatment (see abbreviated 'washout period' below).
 
 The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of the active metabolite, by instituting the drug elimination procedure described below, at the first delay of menses may decrease the risk to the foetus from leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 In a small prospective study in women (n=64) who became inadvertently pregnant while taking leflunomide for no more than three weeks after conception and followed by a drug elimination procedure, no significant differences (p=0.13) were observed in the overall rate of major structural defects (5.4%) compared to either of the comparison groups (4.2% in the disease matched group [n=108] and 4.2% in healthy pregnant women [n=78]).
 
@@ -1692,6 +1716,8 @@ Women of childbearing potential should be told that a waiting period of 2 years 
 
 Both colestyramine and activated powdered charcoal may influence the absorption of oestrogens and progestogens such that reliable contraception with oral contraceptives may not be guaranteed during the washout procedure with colestyramine or activated powdered charcoal. Use of alternative contraceptive methods is recommended.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 Animal studies indicate that leflunomide or its metabolites pass into breast milk. Breast-feeding women must, therefore, not receive leflunomide.
@@ -1699,8 +1725,6 @@ Animal studies indicate that leflunomide or its metabolites pass into breast mil
 ## Fertility
 
 Results of animal fertility studies have shown no effect on male and female fertility, but adverse effects on male reproductive organs were observed in repeated dose toxicity studies (see section 5.3).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -1718,7 +1742,7 @@ Very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Infections and infestations
+## Infections and infestations
 
 Rare:
 
@@ -1734,23 +1758,25 @@ Blood and lymphatic system disorders
 
 Common:
 
-leucopenia (leucocytes &gt;2 G/L)
-
 Uncommon:
+
+leucopenia (leucocytes &gt;2 G/L)
 
 anaemia, mild thrombocytopenia (platelets &lt;100 G/L)
 
 Rare:
 
-pancytopenia (probably by antiproliferative mechanism), leucopenia (leucocytes &lt;2 G/L), eosinophilia
-
 Very rare:
+
+pancytopenia (probably by antiproliferative mechanism), leucopenia (leucocytes &lt;2 G/L), eosinophilia
 
 agranulocytosis
 
 Recent, concomitant or consecutive use of potentially myelotoxic agents may be associated with a higher risk of haematological effects.
 
-Immune system disorders
+<div style=\"page-break-after: always\"></div>
+
+## Immune system disorders
 
 Common:
 
@@ -1760,7 +1786,7 @@ Very rare:
 
 severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous necrotizing vasculitis
 
-Metabolism and nutrition disorders
+## Metabolism and nutrition disorders
 
 Common:
 
@@ -1778,7 +1804,7 @@ Not known:
 
 hypouricemia
 
-Psychiatric disorders
+## Psychiatric disorders
 
 Uncommon:
 
@@ -1790,31 +1816,31 @@ Common:
 
 paraesthesia, headache, dizziness, peripheral neuropathy
 
-Cardiac disorders
+## Cardiac disorders
 
 Common:
 
-mild increase in blood pressure severe increase in blood pressure
+mild increase in blood pressure
 
 Rare:
+
+severe increase in blood pressure
 
 Respiratory, thoracic and mediastinal disorders
 
 Rare:
 
-interstitial lung disease (including interstitial pneumonitis), which may be fatal pulmonary hypertension, pulmonary nodule
-
 Not known:
 
-<div style=\"page-break-after: always\"></div>
+interstitial lung disease (including interstitial pneumonitis), which may be fatal pulmonary hypertension, pulmonary nodule
 
 ## Gastrointestinal disorders
 
 Common:
 
-colitis including microscopic colitis such as lymphocytic colitis, collagenous colitis, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g., aphthous stomatitis, mouth ulceration), abdominal pain
-
 Uncommon:
+
+colitis including microscopic colitis such as lymphocytic colitis, collagenous colitis, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g., aphthous stomatitis, mouth ulceration), abdominal pain
 
 taste disturbances
 
@@ -1826,7 +1852,7 @@ pancreatitis
 
 Common:
 
-elevation of liver parameters (transaminases [especially ALT], less often gamma-GT, alkaline phosphatase, bilirubin)
+elevation of liver parameters (transaminases [especially ALT], less often gammaGT, alkaline phosphatase, bilirubin)
 
 Rare:
 
@@ -1840,15 +1866,15 @@ severe liver injury such as hepatic failure and acute hepatic necrosis that may 
 
 Common:
 
-increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
-
 Uncommon:
+
+increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
 
 Very rare:
 
-toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
-
 Not known:
+
+toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
 
 ## Musculoskeletal and connective tissue disorders
 
@@ -1860,7 +1886,7 @@ Uncommon:
 
 tendon rupture
 
-Renal and urinary disorders
+## Renal and urinary disorders
 
 Not known:
 
@@ -1870,9 +1896,13 @@ Reproductive system and breast disorders
 
 Not known:
 
-marginal (reversible) decreases in sperm concentration, total sperm count and rapid progressive motility
+marginal (reversible) decreases in sperm concentration, total sperm count and rapid
 
-General disorders and administration site conditions
+progressive motility
+
+<div style=\"page-break-after: always\"></div>
+
+## General disorders and administration site conditions
 
 Common:
 
@@ -1884,9 +1914,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Symptoms There have been reports of chronic overdose in patients taking Arava at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
+## Symptoms
 
-<div style=\"page-break-after: always\"></div>
+There have been reports of chronic overdose in patients taking Arava at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
 
 ## Management
 
@@ -1908,7 +1938,9 @@ Leflunomide is a disease-modifying anti-rheumatic agent with antiproliferative p
 
 ## Animal pharmacology
 
-Leflunomide is effective in animal models of arthritis and of other autoimmune diseases and transplantation, mainly if administered during the sensitisation phase. It has immunomodulating/ immunosuppressive characteristics, acts as an antiproliferative agent, and displays anti-inflammatory properties. Leflunomide exhibits the best protective effects on animal models of autoimmune diseases when administered in the early phase of the disease progression.
+Leflunomide is effective in animal models of arthritis and of other autoimmune diseases and transplantation, mainly if administered during the sensitisation phase. It has immunomodulating/ immunosuppressive characteristics, acts as an antiproliferative agent, and displays antiinflammatory properties. Leflunomide exhibits the best protective effects on animal models of autoimmune diseases when administered in the early phase of the disease progression.
+
+<div style=\"page-break-after: always\"></div>
 
 In vivo , it is rapidly and almost completely metabolised to A771726 which is active in vitro , and is presumed to be responsible for the therapeutic effect.
 
@@ -1922,11 +1954,7 @@ A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydro
 
 The efficacy of Arava in the treatment of rheumatoid arthritis was demonstrated in 4 controlled trials (1 in phase II and 3 in phase III). The phase II trial, study YU203, randomised 402 subjects with active rheumatoid arthritis to placebo (n=102), leflunomide 5 mg (n=95), 10 mg (n=101) or 25 mg/day (n=104). The treatment duration was 6 months.
 
-All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days.
-
-<div style=\"page-break-after: always\"></div>
-
-Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
+All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
 
 Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months. Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
 
@@ -1936,7 +1964,11 @@ A randomised, double-blind, parallel-group non-inferiority study compared the re
 
 ## Paediatric population
 
-Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3-17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI) ≥ 30% (p=0.02). In responders, this response was maintained during 48 weeks (see section 4.2).
+Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3-17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI) ≥ 30% (p=0.02). In responders, this response was maintained
+
+<div style=\"page-break-after: always\"></div>
+
+## during 48 weeks (see section 4.2).
 
 The pattern of adverse events of leflunomide and methotrexate seems to be similar, but the dose used in lighter subjects resulted in a relatively low exposure (see section 5.2). These data do not allow an effective and safe dose recommendation.
 
@@ -1947,8 +1979,6 @@ The efficacy of Arava was demonstrated in one controlled, randomised, double bli
 Leflunomide 20 mg/day was significantly superior to placebo in reducing the symptoms of arthritis in patients with psoriatic arthritis: the PsARC (Psoriatic Arthritis treatment Response Criteria) responders were 59% in the leflunomide group and 29.7% in the placebo group by 6 months (p&lt;0.0001). The effect of leflunomide on improvement of function and on reduction of skin lesions was modest.
 
 ## Postmarketing studies
-
-<div style=\"page-break-after: always\"></div>
 
 A randomised study assessed the clinical efficacy response rate in DMARD-naïve patients (n=121) with early RA, who received either 20 mg or 100 mg of leflunomide in two parallel groups during the initial three day double blind period. The initial period was followed by an open label maintenance period of three months, during which both groups received leflunomide 20 mg daily. No incremental overall benefit was observed in the studied population with the use of a loading dose regimen. The safety data obtained from both treatment groups were consistent with the known safety profile of leflunomide, however, the incidence of gastrointestinal adverse events and of elevated liver enzymes tended to be higher in the patients receiving the loading dose of 100 mg leflunomide.
 
@@ -1962,13 +1992,13 @@ Excretion data from the 14 C study indicated that at least about 82 to 95% of th
 
 ## Distribution
 
-In human plasma, A771726 is extensively bound to protein (albumin). The unbound fraction of A771726 is about 0.62%. Binding of A771726 is linear in the therapeutic concentration range. Binding of A771726 appeared slightly reduced and more variable in plasma from patients with rheumatoid arthritis or chronic renal insufficiency. The extensive protein binding of A771726 could lead to displacement of other highly-bound drugs. In vitro plasma protein binding interaction studies with warfarin at clinically relevant concentrations, however, showed no interaction. Similar studies showed that ibuprofen and diclofenac did not displace A771726, whereas the unbound fraction of A771726 is increased 2- to 3-fold in the presence of tolbutamide. A771726 displaced ibuprofen, diclofenac and tolbutamide but the unbound fraction of these medicinal products is only increased by 10% to 50%. There is no indication that these effects are of clinical relevance. Consistent with extensive protein binding A771726 has a low apparent volume of distribution (approximately 11 litres). There is no preferential uptake in erythrocytes.
+In human plasma, A771726 is extensively bound to protein (albumin). The unbound fraction of A771726 is about 0.62%. Binding of A771726 is linear in the therapeutic concentration range. Binding of A771726 appeared slightly reduced and more variable in plasma from patients with rheumatoid arthritis or chronic renal insufficiency. The extensive protein binding of A771726 could lead to displacement of other highly-bound drugs. In vitro plasma protein binding interaction studies with warfarin at clinically relevant concentrations, however, showed no interaction. Similar studies showed that ibuprofen and diclofenac did not displace A771726, whereas the unbound fraction of A771726 is increased 2- to 3-fold in the wpresence of tolbutamide. A771726 displaced ibuprofen, diclofenac and tolbutamide but the unbound fraction of these medicinal products is only increased by 10% to 50%. There is no indication that these effects are of clinical relevance. Consistent with extensive protein binding A771726 has a low apparent volume of distribution (approximately 11 litres). There is no preferential uptake in erythrocytes.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
-Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (non-specific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
-
-<div style=\"page-break-after: always\"></div>
+Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (nonspecific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
 
 ## Elimination
 
@@ -1988,6 +2018,8 @@ No data are available regarding treatment of patients with hepatic impairment. T
 
 The pharmacokinetics of A771726 following oral administration of leflunomide have been investigated in 73 paediatric patients with polyarticular course Juvenile Rheumatoid Arthritis (JRA) who ranged in age from 3 to 17 years. The results of a population pharmacokinetic analysis of these trials have demonstrated that paediatric patients with body weights ≤ 40 kg have a reduced systemic exposure (measured by Css) of A771726 relative to adult rheumatoid arthritis patients (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elderly
 
 Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with pharmacokinetics in younger adults.
@@ -1995,8 +2027,6 @@ Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with p
 ## 5.3 Preclinical safety data
 
 Leflunomide, administered orally and intraperitoneally, has been studied in acute toxicity studies in mice and rats. Repeated oral administration of leflunomide to mice for up to 3 months, to rats and dogs for up to 6 months and to monkeys for up to 1 month's duration revealed that the major target organs for toxicity were bone marrow, blood, gastrointestinal tract, skin, spleen, thymus and lymph nodes. The main effects were anaemia, leucopenia, decreased platelet counts and panmyelopathy and reflect the basic mode of action of the compound (inhibition of DNA synthesis). In rats and dogs, Heinz bodies and/or Howell-Jolly bodies were found. Other effects found on heart, liver, cornea and respiratory tract could be explained as infections due to immunosuppression. Toxicity in animals was found at doses equivalent to human therapeutic doses.
-
-<div style=\"page-break-after: always\"></div>
 
 Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro , whilst insufficient information was available on its potential to exert this effect in vivo .
 
@@ -2016,6 +2046,8 @@ Film-coating: Talc (E553b) Hypromellose (E464) Titanium dioxide (E171) Macrogol 
 
 ## 6.2 Incompatibilities
 
+<div style=\"page-break-after: always\"></div>
+
 Not applicable.
 
 ## 6.3 Shelf life
@@ -2034,11 +2066,7 @@ Aluminium / Aluminium blister. Pack size: 3 film-coated tablets.
 
 No special requirements for disposal.
 
-<div style=\"page-break-after: always\"></div>
-
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
@@ -2063,9 +2091,14 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE
+
+## MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2132,7 +2165,7 @@ The Physician Leaflet should contain the following key messages:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER PACKAGING/BLISTER PACK
+## OUTER PACKAGING/BLISTER PACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2176,8 +2209,6 @@ Store in the original package.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -2212,20 +2243,22 @@ PC:
 
 SN:
 
+<div style=\"page-break-after: always\"></div>
+
 NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Arava 10 mg film-coated tablets leflunomide
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Sanofi-Aventis
 
@@ -2278,15 +2311,13 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Keep the bottle tightly closed.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2323,6 +2354,8 @@ Arava 10 mg
 PC:
 
 SN:
+
+<div style=\"page-break-after: always\"></div>
 
 NN:
 
@@ -2372,8 +2405,8 @@ Keep the bottle tightly closed.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2391,13 +2424,14 @@ Batch
 
 Medicinal product subject to medical prescription.
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 ## 16. INFORMATION IN BRAILLE
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER PACKAGING/BLISTER PACK
+## OUTER PACKAGING/BLISTER PACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2441,8 +2475,6 @@ Store in the original package.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -2477,19 +2509,22 @@ PC:
 
 SN:
 
+<div style=\"page-break-after: always\"></div>
+
 NN:
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Arava 20 mg film-coated tablets leflunomide
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Sanofi-Aventis
 
@@ -2602,7 +2637,9 @@ BOTTLE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Arava 20 mg film-coated tablets leflunomide
+Arava 20 mg film-coated tablets
+
+leflunomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2622,7 +2659,9 @@ Also contains lactose.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use.
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2650,11 +2689,7 @@ Sanofi-Aventis Deutschland GmbH
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/99/118/007 30 tablets
-
-EU/1/99/118/010 50 tablets
-
-EU/1/99/118/008 100 tablets
+EU/1/99/118/007 30 tablets EU/1/99/118/010 50 tablets EU/1/99/118/008 100 tablets
 
 ## 13. BATCH NUMBER
 
@@ -2692,9 +2727,7 @@ This medicinal product contains lactose (see leaflet for further information).
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use.
+Read the package leaflet before use. Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2716,8 +2749,8 @@ Store in the original package.
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
@@ -2736,38 +2769,36 @@ Batch
 
 Medicinal product subject to medical prescription.
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Arava 100 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC: SN:
-
-NN:
+PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Arava 100 mg film-coated tablets leflunomide
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Sanofi-Aventis
 
@@ -2786,7 +2817,7 @@ Batch
 
 <div style=\"page-break-after: always\"></div>
 
-- B. PACKAGE LEAFLET
+## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2798,10 +2829,10 @@ Batch
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2826,26 +2857,32 @@ Symptoms of active psoriatic arthritis include inflammation of joints, swelling,
 
 ## Do not take Arava
 
-- -if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome) or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
-- -if you have any liver problems ,
-- -if you have moderate to severe kidney problems ,
-- -if you have severely low numbers of proteins in your blood (hypoproteinaemia),
-- -if you suffer from any problem which affects your immune system (e.g. AIDS),
-- -if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
-- -if you are suffering from a serious infection ,
-- -if you are pregnant , think you may be pregnant, or are breast-feeding.
-
-<div style=\"page-break-after: always\"></div>
+- if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome) or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
+- if you have any liver problems ,
+- if you have moderate to severe kidney problems ,
+- if you have severely low numbers of proteins in your blood (hypoproteinaemia),
+- if you suffer from any problem which affects your immune system (e.g. AIDS),
+- if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
+- if you are suffering from a serious infection ,
+- if you are pregnant , think you may be pregnant, or are breast-feeding.
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before taking Arava
 
-- -if you have ever suffered from inflammation of the lung (interstitial lung disease).
-- -if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis.
-- -if you are male and wish to father a child. As it can not be excluded that Arava passes into semen, reliable contraception should be used during treatment with Arava. Men wishing to father a child should contact their doctor who may advise them to stop taking Arava and take certain medicines to remove Arava rapidly and sufficiently from their body. You will then need a blood test to make sure that Arava has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
-- -if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
-- -if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. ARAVA may impair wound healing.
+<div style=\"page-break-after: always\"></div>
+
+- if you have ever suffered from inflammation of the lung (interstitial lung disease).
+- if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis.
+- if you are male and wish to father a child. As it can not be excluded that Arava passes into semen, reliable contraception should be used during treatment with Arava. Men wishing to father a child should contact their doctor who may advise them to stop taking Arava and take certain medicines to remove Arava rapidly and sufficiently from their body. You will then need a blood test to make sure that Arava has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
+- if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
+- if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. ARAVA may impair wound healing.
+
+## Musculoskeletal disorders
+
+There have been reports of inflammatory muscle disease and muscle breakdown (myositis and rhabdomyolysis), in patients taking Arava.
+
+- Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking Arava: unexplained muscle pain, tenderness (soreness when the muscle is pressed) or muscle weakness.
 
 Arava can occasionally cause some problems with your blood, liver, lungs, or nerves in your arms or legs. It may also cause some serious allergic reactions (including Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), or increase the chance of a severe infection. For more information on these, please read section 4 (Possible side effects).
 
@@ -2855,7 +2892,7 @@ DRESS appears initially as flu-like symptoms and a rash on the face then an exte
 
 There have been reports of a rare but very serious immune system reaction, in patients taking ARAVA.
 
-- -Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking ARAVA: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
+- Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking ARAVA: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
 
 Your doctor will carry out blood tests at regular intervals, before and during treatment with Arava, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Arava can cause an increase in blood pressure.
 
@@ -2873,26 +2910,25 @@ Please tell your doctor or pharmacist if you are taking, have recently taken or 
 
 This is especially important if you are taking:
 
-- -other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
-- -warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
-- -teriflunomide for multiple sclerosis
-
 <div style=\"page-break-after: always\"></div>
 
-- -repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
-- -daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
-- -duloxetine for depression, urinary incontinence or in kidney disease in diabetics
-- -alosetron for the management of severe diarrhoea
-- -theophylline for asthma
-- -tizanidine, a muscle relaxant
-- -oral contraceptives (containing ethinylestradiol and levonorgestrel)
-- -cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
-- -indomethacin, ketoprofen for pain or inflammation
-- -furosemide for heart disease (diuretic, water pill)
-- -zidovudine for HIV infection
-- -rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
-- -sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
-- -a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Arava which is absorbed by the body.
+- other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
+- warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
+- teriflunomide for multiple sclerosis
+- repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
+- daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
+- duloxetine for depression, urinary incontinence or in kidney disease in diabetics
+- alosetron for the management of severe diarrhoea
+- theophylline for asthma
+- tizanidine, a muscle relaxant
+- oral contraceptives (containing ethinylestradiol and levonorgestrel)
+- cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
+- indomethacin, ketoprofen for pain or inflammation
+- furosemide for heart disease (diuretic, water pill)
+- zidovudine for HIV infection
+- rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
+- sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
+- a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Arava which is absorbed by the body.
 
 If you are already taking a nonsteroidal anti-inflammatory drug (NSAID) and/or corticosteroids , you may continue to take them after starting Arava.
 
@@ -2920,6 +2956,8 @@ If you suspect that you are pregnant while taking Arava or in the two years afte
 
 Do not take Arava when you are breast-feeding , as leflunomide passes into the breast milk.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Arava can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive, or use machines.
@@ -2927,8 +2965,6 @@ Arava can make you feel dizzy which may impair your ability to concentrate and r
 ## Arava contains lactose
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. How to take Arava
 
@@ -2959,73 +2995,73 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor immediately and stop taking Arava:
 
-- -if you experience weakness , feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
-- -if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
+- if you experience weakness , feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
+- if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
 
 Tell your doctor immediately if you experience:
 
-- -pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
-- -tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
-- -any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
-- -cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
-- -unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
+- pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
+- tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
+- any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
+
+<div style=\"page-break-after: always\"></div>
+
+- cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
+- unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-- -a slight decrease in the number of white blood cells (leucopenia),
-- -mild allergic reactions,
-
-<div style=\"page-break-after: always\"></div>
-
-- -loss of appetite, weight loss (usually insignificant),
-- -tiredness (asthenia),
-- -headache, dizziness,
-- -abnormal skin sensations like tingling (paraesthesia),
-- -mild increase in blood pressure,
-- -colitis,
-- -diarrhoea,
-- -nausea, vomiting,
-- -inflammation of the mouth or mouth ulcers,
-- -abdominal pain,
-- -an increase in some liver test results,
-- -increased hair loss,
-- -eczema, dry skin, rash, itching,
-- -tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
-- -an increase of certain enzymes in the blood (creatine phosphokinase),
-- -problems in the nerves of the arms or legs (peripheral neuropathy).
+- a slight decrease in the number of white blood cells (leucopenia),
+- mild allergic reactions,
+- loss of appetite, weight loss (usually insignificant),
+- tiredness (asthenia),
+- headache, dizziness,
+- abnormal skin sensations like tingling (paraesthesia),
+- mild increase in blood pressure,
+- colitis,
+- diarrhoea,
+- nausea, vomiting,
+- inflammation of the mouth or mouth ulcers,
+- abdominal pain,
+- an increase in some liver test results,
+- increased hair loss,
+- eczema, dry skin, rash, itching,
+- tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
+- an increase of certain enzymes in the blood (creatine phosphokinase),
+- problems in the nerves of the arms or legs (peripheral neuropathy).
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
-- -a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
-- -a decrease in the levels of potassium in the blood,
-- -anxiety,
-- -taste disturbances,
-- -urticaria (nettle rash),
-- -tendon rupture,
-- -an increase in the levels of fat in the blood (cholesterol and triglycerides),
-- -a decrease in the levels of phosphate in the blood.
+- a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
+- a decrease in the levels of potassium in the blood,
+- anxiety,
+- taste disturbances,
+- urticaria (nettle rash),
+- tendon rupture,
+- an increase in the levels of fat in the blood (cholesterol and triglycerides),
+- a decrease in the levels of phosphate in the blood.
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
-- -an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
-- -severe increase in blood pressure,
-- -inflammation of the lung (interstitial lung disease),
-- -an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
-- -severe infections called sepsis which may be fatal,
-- -an increase of certain enzymes in the blood (lactate dehydrogenase).
+- an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
+- severe increase in blood pressure,
+- inflammation of the lung (interstitial lung disease),
+- an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
+- severe infections called sepsis which may be fatal,
+- an increase of certain enzymes in the blood (lactate dehydrogenase).
 
 ## Very rare side effects (may affect up to 1 in 10,000 people)
 
-- -a marked decrease of some white blood cells (agranulocytosis),
-- -severe and potentially severe allergic reactions,
-- -inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
-- -inflammation of the pancreas (pancreatitis),
-- -severe liver injury such as liver failure or necrosis which may be fatal,
-- -severe, sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
-
-Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
+- a marked decrease of some white blood cells (agranulocytosis),
+- severe and potentially severe allergic reactions,
+- inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
+- inflammation of the pancreas (pancreatitis),
+- severe liver injury such as liver failure or necrosis which may be fatal,
+- severe, sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
 
 <div style=\"page-break-after: always\"></div>
+
+Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
 
 ## Reporting of side effects
 
@@ -3039,9 +3075,9 @@ Do not use this medicine after the expiry date which is stated on the packaging.
 
 Blister:
 
-Store in the original package.
-
 Bottle:
+
+Store in the original package.
 
 Keep the bottle tightly closed.
 
@@ -3051,8 +3087,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Arava contains
 
-- -The active substance is leflunomide. One film-coated tablet contains 10 mg of leflunomide.
-- -The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), and macrogol 8000 in the filmcoating.
+- The active substance is leflunomide. One film-coated tablet contains 10 mg of leflunomide.
+
+- The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), and macrogol 8000 in the film-
+
+- coating.
 
 ## What Arava looks like and contents of the pack
 
@@ -3068,7 +3107,11 @@ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
 ## Manufacturer
 
-Opella Healthcare International SAS 56, Route de Choisy 60200 Compiègne France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
+Opella Healthcare International SAS 56, Route de Choisy
+
+<div style=\"page-break-after: always\"></div>
+
+60200 Compiègne France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3086,9 +3129,7 @@ Sanofi s.r.o. Tel: +420 233 086 111
 
 ## Danmark
 
-Sanofi A/S
-
-Tlf: +45 45 16 70 00
+Sanofi A/S Tlf: +45 45 16 70 00
 
 ## Deutschland
 
@@ -3096,7 +3137,9 @@ Sanofi-Aventis Deutschland GmbH Tel.: 0800 52 52 010 Tel. aus dem Ausland: +49 6
 
 ## Eesti
 
-Swixx Biopharma OÜ Tel: +372 640 10 30
+Swixx Biopharma OÜ
+
+Tel: +372 640 10 30
 
 ## Ελλάδα
 
@@ -3130,7 +3173,9 @@ Tel: +370 5 236 91 40
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Magyarország
 
@@ -3174,17 +3219,13 @@ Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
 
 Swixx Biopharma s.r.o. Tel: +421 2 208 33 600
 
+<div style=\"page-break-after: always\"></div>
+
 ## Italia
 
 Sanofi S.r.l.
 
 Tel: 800 536389
-
-## Suomi/Finland
-
-Sanofi Oy
-
-Puh/Tel: +358 (0) 201 200 300
 
 ## Κύπρος
 
@@ -3194,19 +3235,11 @@ C.A. Papaellinas Ltd.
 
 : +357 22 741741
 
-## Sverige
-
-Sanofi AB
-
-Tel: +46 (0)8 634 50 00
-
 ## Latvija
 
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in {MM/YYYY}
 
@@ -3214,20 +3247,32 @@ Tel: +371 6 616 47 50
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
 
+## Suomi/Finland
+
+Sanofi Oy
+
+Puh/Tel: +358 (0) 201 200 300
+
+## Sverige
+
+Sanofi AB
+
+Tel: +46 (0)8 634 50 00
+
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the user
 
 ## Arava 20 mg film-coated tablets
 
-leflunomide
+## leflunomide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3252,26 +3297,32 @@ Symptoms of active psoriatic arthritis include inflammation of joints, swelling,
 
 ## Do not take Arava
 
-- -if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome) or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
-- -if you have any liver problems ,
-- -if you have moderate to severe kidney problems ,
-- -if you have severely low numbers of proteins in your blood (hypoproteinaemia),
-- -if you suffer from any problem which affects your immune system (e.g. AIDS),
-- -if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
-- -if you are suffering from a serious infection ,
-- -if you are pregnant , think you may be pregnant, or are breast-feeding.
-
-<div style=\"page-break-after: always\"></div>
+- if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome) or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
+- if you have any liver problems ,
+- if you have moderate to severe kidney problems ,
+- if you have severely low numbers of proteins in your blood (hypoproteinaemia),
+- if you suffer from any problem which affects your immune system (e.g. AIDS),
+- if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
+- if you are suffering from a serious infection ,
+- if you are pregnant , think you may be pregnant, or are breast-feeding.
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before taking Arava
 
-- -if you have ever suffered from inflammation of the lung (interstitial lung disease).
-- -if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis.
-- -if you are male and wish to father a child. As it can not be excluded that Arava passes into semen, reliable contraception should be used during treatment with Arava. Men wishing to father a child should contact their doctor who may advise them to stop taking Arava and take certain medicines to remove Arava rapidly and sufficiently from their body. You will then need a blood test to make sure that Arava has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
-- -if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
-- -if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. ARAVA may impair wound healing.
+<div style=\"page-break-after: always\"></div>
+
+- if you have ever suffered from inflammation of the lung (interstitial lung disease).
+- if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis.
+- if you are male and wish to father a child. As it can not be excluded that Arava passes into semen, reliable contraception should be used during treatment with Arava. Men wishing to father a child should contact their doctor who may advise them to stop taking Arava and take certain medicines to remove Arava rapidly and sufficiently from their body. You will then need a blood test to make sure that Arava has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
+- if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
+- if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. ARAVA may impair wound healing.
+
+## Musculoskeletal disorders
+
+There have been reports of inflammatory muscle disease and muscle breakdown (myositis and rhabdomyolysis), in patients taking Arava.
+
+- Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking Arava: unexplained muscle pain, tenderness (soreness when the muscle is pressed) or muscle weakness.
 
 Arava can occasionally cause some problems with your blood, liver, lungs, or nerves in your arms or legs. It may also cause some serious allergic reactions (including Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), or increase the chance of a severe infection. For more information on these, please read section 4 (Possible side effects).
 
@@ -3281,7 +3332,7 @@ DRESS appears initially as flu-like symptoms and a rash on the face then an exte
 
 There have been reports of a rare but very serious immune system reaction, in patients taking ARAVA.
 
-- -Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking ARAVA: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
+- Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking ARAVA: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
 
 Your doctor will carry out blood tests at regular intervals, before and during treatment with Arava, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Arava can cause an increase in blood pressure.
 
@@ -3291,34 +3342,33 @@ Tell your doctor if you develop skin ulcer during treatment with Arava (see also
 
 ## Children and adolescents
 
-Arava is not recommended for use in children and adolescents below 18 years of age.
+## Arava is not recommended for use in children and adolescents below 18 years of age.
 
 ## Other medicines and Arava
 
 Please tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription.
 
-This is especially important if you are taking:
-
-- -other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
-
 <div style=\"page-break-after: always\"></div>
 
-- -warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
-- -teriflunomide for multiple sclerosis
-- -repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
-- -daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
-- -duloxetine for depression, urinary incontinence or in kidney disease in diabetics
-- -alosetron for the management of severe diarrhoea
-- -theophylline for asthma
-- -tizanidine, a muscle relaxant
-- -oral contraceptives (containing ethinylestradiol and levonorgestrel)
-- -cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
-- -indomethacin, ketoprofen for pain or inflammation
-- -furosemide for heart disease (diuretic, water pill)
-- -zidovudine for HIV infection
-- -rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
-- -sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
-- -a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Arava which is absorbed by the body.
+This is especially important if you are taking:
+
+- other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
+- warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
+- teriflunomide for multiple sclerosis
+- repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
+- daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
+- duloxetine for depression, urinary incontinence or in kidney disease in diabetics
+- alosetron for the management of severe diarrhoea
+- theophylline for asthma
+- tizanidine, a muscle relaxant
+- oral contraceptives (containing ethinylestradiol and levonorgestrel)
+- cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
+- indomethacin, ketoprofen for pain or inflammation
+- furosemide for heart disease (diuretic, water pill)
+- zidovudine for HIV infection
+- rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
+- sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
+- a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Arava which is absorbed by the body.
 
 If you are already taking a nonsteroidal anti-inflammatory drug (NSAID) and/or corticosteroids , you may continue to take them after starting Arava.
 
@@ -3344,13 +3394,13 @@ For further information on the laboratory testing please contact your doctor.
 
 If you suspect that you are pregnant while taking Arava or in the two years after you have stopped treatment, you must contact your doctor immediately for a pregnancy test. If the test confirms that you are pregnant, your doctor may suggest treatment with certain medicines to remove Arava rapidly and sufficiently from your body, as this may decrease the risk to your baby.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not take Arava when you are breast-feeding , as leflunomide passes into the breast milk.
 
 ## Driving and using machines
 
 Arava can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive, or use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Arava contains lactose
 
@@ -3385,74 +3435,72 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor immediately and stop taking Arava:
 
-- -if you experience weakness , feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
-- -if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
+- if you experience weakness , feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
+- if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
 
 Tell your doctor immediately if you experience:
 
-- -pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
-- -tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
-- -any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
-- -cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
-- -unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
-
 <div style=\"page-break-after: always\"></div>
+
+- pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
+- tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
+- any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
+- cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
+- unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-- -a slight decrease in the number of white blood cells (leucopenia),
-- -mild allergic reactions,
-- -loss of appetite, weight loss (usually insignificant),
-- -tiredness (asthenia),
-- -headache, dizziness,
-- -abnormal skin sensations like tingling (paraesthesia),
-- -mild increase in blood pressure,
-- -colitis,
-- -diarrhoea,
-- -nausea, vomiting,
-- -inflammation of the mouth or mouth ulcers,
-- -abdominal pain,
-- -an increase in some liver test results,
-- -increased hair loss,
-- -eczema, dry skin, rash, itching,
-- -tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
-- -an increase of certain enzymes in the blood (creatine phosphokinase),
-- -problems in the nerves of the arms or legs (peripheral neuropathy).
+- a slight decrease in the number of white blood cells (leucopenia),
+- mild allergic reactions,
+- loss of appetite, weight loss (usually insignificant),
+- tiredness (asthenia),
+- headache, dizziness,
+- abnormal skin sensations like tingling (paraesthesia),
+- mild increase in blood pressure,
+- colitis,
+- diarrhoea,
+- nausea, vomiting,
+- inflammation of the mouth or mouth ulcers,
+- abdominal pain,
+- an increase in some liver test results,
+- increased hair loss,
+- eczema, dry skin, rash, itching,
+- tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
+- an increase of certain enzymes in the blood (creatine phosphokinase),
+- problems in the nerves of the arms or legs (peripheral neuropathy).
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
-- -a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
-- -a decrease in the levels of potassium in the blood,
-- -anxiety,
-- -taste disturbances,
-- -urticaria (nettle rash),
-- -tendon rupture,
-- -an increase in the levels of fat in the blood (cholesterol and triglycerides),
-- -a decrease in the levels of phosphate in the blood.
+- a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
+- a decrease in the levels of potassium in the blood,
+- anxiety,
+- taste disturbances,
+- urticaria (nettle rash),
+- tendon rupture,
+- an increase in the levels of fat in the blood (cholesterol and triglycerides),
+- a decrease in the levels of phosphate in the blood.
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
-- -an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
-- -severe increase in blood pressure,
-- -inflammation of the lung (interstitial lung disease),
-- -an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
-- -severe infections called sepsis which may be fatal,
-- -an increase of certain enzymes in the blood (lactate dehydrogenase).
+- an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
+- severe increase in blood pressure,
+- inflammation of the lung (interstitial lung disease),
+- an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
+- severe infections called sepsis which may be fatal,
+- an increase of certain enzymes in the blood (lactate dehydrogenase).
 
 ## Very rare side effects (may affect up to 1 in 10,000 people)
 
-- -a marked decrease of some white blood cells (agranulocytosis),
-- -severe and potentially severe allergic reactions,
-- -inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
-- -inflammation of the pancreas (pancreatitis),
-- -severe liver injury such as liver failure or necrosis which may be fatal,
-- -severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
-
-Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis
-
 <div style=\"page-break-after: always\"></div>
 
-(new or worsening), DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
+- a marked decrease of some white blood cells (agranulocytosis),
+- severe and potentially severe allergic reactions,
+- inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
+- inflammation of the pancreas (pancreatitis),
+- severe liver injury such as liver failure or necrosis which may be fatal,
+- severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
+
+Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
 
 ## Reporting of side effects
 
@@ -3466,9 +3514,9 @@ Do not use this medicine after the expiry date which is stated on the packaging.
 
 Blister:
 
-Store in the original package.
-
 Bottle:
+
+Store in the original package.
 
 Keep the bottle tightly closed.
 
@@ -3478,9 +3526,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Arava contains
 
-- -
-- -The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), silica well as talc (E553b), hypromellose (E464), titanium dioxide (E171), macrogol 8000 and yellow ferric oxide (E172) in the film-coating.
-- The active substance is leflunomide. One film-coated tablet contains 20 mg of leflunomide colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as
+- The active substance is leflunomide. One film-coated tablet contains 20 mg of leflunomide - The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), macrogol 8000 and yellow ferric oxide (E172) in the film-coating.
 
 ## What Arava looks like and contents of the pack
 
@@ -3491,6 +3537,8 @@ The tablets are packed in blisters or bottles. Packs of 30, 50 and 100 tablets a
 Not all pack size may be marketed.
 
 ## Marketing Authorisation Holder
+
+<div style=\"page-break-after: always\"></div>
 
 Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
@@ -3522,7 +3570,9 @@ Sanofi-Aventis Deutschland GmbH Tel.: 0800 52 52 010 Tel. aus dem Ausland: +49 6
 
 ## Eesti
 
-Swixx Biopharma OÜ Tel: +372 640 10 30
+Swixx Biopharma OÜ
+
+Tel: +372 640 10 30
 
 ## Ελλάδα
 
@@ -3556,7 +3606,9 @@ Tel: +370 5 236 91 40
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Magyarország
 
@@ -3590,7 +3642,9 @@ Sanofi - Produtos Farmacêuticos, Lda Tel: +351 21 35 89 400
 
 ## România
 
-Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
@@ -3606,12 +3660,6 @@ Sanofi S.r.l.
 
 Tel: 800 536389
 
-## Suomi/Finland
-
-Sanofi Oy
-
-Puh/Tel: +358 (0) 201 200 300
-
 ## Κύπρος
 
 C.A. Papaellinas Ltd.
@@ -3620,17 +3668,23 @@ C.A. Papaellinas Ltd.
 
 : +357 22 741741
 
-## Sverige
-
-Sanofi AB
-
-Tel: +46 (0)8 634 50 00
-
 ## Latvija
 
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
+
+## Suomi/Finland
+
+Sanofi Oy
+
+Puh/Tel: +358 (0) 201 200 300
+
+## Sverige
+
+Sanofi AB
+
+Tel: +46 (0)8 634 50 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3646,14 +3700,14 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Arava 100 mg film-coated tablets
 
-leflunomide
+## leflunomide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3678,26 +3732,32 @@ Symptoms of active psoriatic arthritis include inflammation of joints, swelling,
 
 ## Do not take Arava
 
-- -if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome) or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
-- -if you have any liver problems,
-- -if you have moderate to severe kidney problems ,
-- -if you have severely low numbers of proteins in your blood (hypoproteinaemia),
-- -if you suffer from any problem which affects your immune system (e.g. AIDS),
-- -if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
-- -if you are suffering from a serious infection ,
-- -if you are pregnant , think you may be pregnant, or are breast-feeding.
-
-<div style=\"page-break-after: always\"></div>
+- if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome) or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
+- if you have any liver problems,
+- if you have moderate to severe kidney problems ,
+- if you have severely low numbers of proteins in your blood (hypoproteinaemia),
+- if you suffer from any problem which affects your immune system (e.g. AIDS),
+- if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
+- if you are suffering from a serious infection ,
+- if you are pregnant , think you may be pregnant, or are breast-feeding.
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before taking Arava
 
-- -if you have ever suffered from inflammation of the lung (interstitial lung disease).
-- -if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis.
-- -if you are male and wish to father a child. As it can not be excluded that Arava passes into semen, reliable contraception should be used during treatment with Arava. Men wishing to father a child should contact their doctor who may advise them to stop taking Arava and take certain medicines to remove Arava rapidly and sufficiently from their body. You will then need a blood test to make sure that Arava has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
-- -if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
-- -if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. ARAVA may impair wound healing.
+<div style=\"page-break-after: always\"></div>
+
+- if you have ever suffered from inflammation of the lung (interstitial lung disease).
+- if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis.
+- if you are male and wish to father a child. As it can not be excluded that Arava passes into semen, reliable contraception should be used during treatment with Arava. Men wishing to father a child should contact their doctor who may advise them to stop taking Arava and take certain medicines to remove Arava rapidly and sufficiently from their body. You will then need a blood test to make sure that Arava has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
+- if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
+- if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. ARAVA may impair wound healing.
+
+## Musculoskeletal disorders
+
+There have been reports of inflammatory muscle disease and muscle breakdown (myositis and rhabdomyolysis), in patients taking Arava.
+
+- Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking Arava: unexplained muscle pain, tenderness (soreness when the muscle is pressed) or muscle weakness.
 
 Arava can occasionally cause some problems with your blood, liver, lungs, or nerves in your arms or legs. It may also cause some serious allergic reactions (including Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), or increase the chance of a severe infection. For more information on these, please read section 4 (Possible side effects).
 
@@ -3707,7 +3767,7 @@ DRESS appears initially as flu-like symptoms and a rash on the face then an exte
 
 There have been reports of a rare but very serious immune system reaction, in patients taking ARAVA.
 
-- -Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking ARAVA: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
+- Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking ARAVA: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
 
 Your doctor will carry out blood tests at regular intervals, before and during treatment with Arava, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Arava can cause an increase in blood pressure.
 
@@ -3725,26 +3785,25 @@ Please tell your doctor or pharmacist if you are taking, have recently taken or 
 
 This is especially important if you are taking:
 
-- -other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
-- -warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
-- -teriflunomide for multiple sclerosis
-
 <div style=\"page-break-after: always\"></div>
 
-- -repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
-- -daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
-- -duloxetine for depression, urinary incontinence or in kidney disease in diabetics
-- -alosetron for the management of severe diarrhoea
-- -theophylline for asthma
-- -tizanidine, a muscle relaxant
-- -oral contraceptives (containing ethinylestradiol and levonorgestrel)
-- -cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
-- -indomethacin, ketoprofen for pain or inflammation
-- -furosemide for heart disease (diuretic, water pill)
-- -zidovudine for HIV infection
-- -rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
-- -sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
-- -a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Arava which is absorbed by the body.
+- other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
+- warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
+- teriflunomide for multiple sclerosis
+- repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
+- daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
+- duloxetine for depression, urinary incontinence or in kidney disease in diabetics
+- alosetron for the management of severe diarrhoea
+- theophylline for asthma
+- tizanidine, a muscle relaxant
+- oral contraceptives (containing ethinylestradiol and levonorgestrel)
+- cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
+- indomethacin, ketoprofen for pain or inflammation
+- furosemide for heart disease (diuretic, water pill)
+- zidovudine for HIV infection
+- rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
+- sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
+- a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Arava which is absorbed by the body.
 
 If you are already taking a nonsteroidal anti-inflammatory drug (NSAID) and/or corticosteroids , you may continue to take them after starting Arava.
 
@@ -3772,6 +3831,8 @@ If you suspect that you are pregnant while taking Arava or in the two years afte
 
 Do not take Arava when you are breast-feeding , as leflunomide passes into the breast milk.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Arava can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive, or use machines.
@@ -3779,8 +3840,6 @@ Arava can make you feel dizzy which may impair your ability to concentrate and r
 ## Arava contains lactose
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. How to take Arava
 
@@ -3811,73 +3870,73 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor immediately and stop taking Arava:
 
-- -if you experience weakness , feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
-- -if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
+- if you experience weakness , feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
+- if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
 
-Tell your doctor immediately if you experience:
+## Tell your doctor immediately if you experience:
 
-- -pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
-- -tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
-- -any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
-- -cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
-- -unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
+- pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
+- tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
+- any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
+
+<div style=\"page-break-after: always\"></div>
+
+- cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
+- unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-- -a slight decrease in the number of white blood cells (leucopenia),
-- -mild allergic reactions,
-
-<div style=\"page-break-after: always\"></div>
-
-- -loss of appetite, weight loss (usually insignificant),
-- -tiredness (asthenia),
-- -headache, dizziness,
-- -abnormal skin sensations like tingling (paraesthesia),
-- -mild increase in blood pressure,
-- -colitis,
-- -diarrhoea,
-- -nausea, vomiting,
-- -inflammation of the mouth or mouth ulcers,
-- -abdominal pain,
-- -an increase in some liver test results,
-- -increased hair loss,
-- -eczema, dry skin, rash, itching,
-- -tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
-- -an increase of certain enzymes in the blood (creatine phosphokinase),
-- -problems in the nerves of the arms or legs (peripheral neuropathy).
+- a slight decrease in the number of white blood cells (leucopenia),
+- mild allergic reactions,
+- loss of appetite, weight loss (usually insignificant),
+- tiredness (asthenia),
+- headache, dizziness,
+- abnormal skin sensations like tingling (paraesthesia),
+- mild increase in blood pressure,
+- colitis,
+- diarrhoea,
+- nausea, vomiting,
+- inflammation of the mouth or mouth ulcers,
+- abdominal pain,
+- an increase in some liver test results,
+- increased hair loss,
+- eczema, dry skin, rash, itching,
+- tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
+- an increase of certain enzymes in the blood (creatine phosphokinase),
+- problems in the nerves of the arms or legs (peripheral neuropathy).
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
-- -a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
-- -a decrease in the levels of potassium in the blood,
-- -anxiety,
-- -taste disturbances,
-- -urticaria (nettle rash),
-- -tendon rupture,
-- -an increase in the levels of fat in the blood (cholesterol and triglycerides),
-- -a decrease in the levels of phosphate in the blood.
+- a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
+- a decrease in the levels of potassium in the blood,
+- anxiety,
+- taste disturbances,
+- urticaria (nettle rash),
+- tendon rupture,
+- an increase in the levels of fat in the blood (cholesterol and triglycerides),
+- a decrease in the levels of phosphate in the blood.
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
-- -an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
-- -severe increase in blood pressure,
-- -inflammation of the lung (interstitial lung disease),
-- -an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
-- -severe infections called sepsis which may be fatal,
-- -an increase of certain enzymes in the blood (lactate dehydrogenase).
+- an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
+- severe increase in blood pressure,
+- inflammation of the lung (interstitial lung disease),
+- an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
+- severe infections called sepsis which may be fatal,
+- an increase of certain enzymes in the blood (lactate dehydrogenase).
 
 ## Very rare side effects (may affect up to 1 in 10,000 people)
 
-- -a marked decrease of some white blood cells (agranulocytosis),
-- -severe and potentially severe allergic reactions,
-- -inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
-- -inflammation of the pancreas (pancreatitis),
-- -severe liver injury such as liver failure or necrosis which may be fatal,
-- -severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
-
-Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
+- a marked decrease of some white blood cells (agranulocytosis),
+- severe and potentially severe allergic reactions,
+- inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
+- inflammation of the pancreas (pancreatitis),
+- severe liver injury such as liver failure or necrosis which may be fatal,
+- severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
 
 <div style=\"page-break-after: always\"></div>
+
+Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
 
 ## Reporting of side effects
 
@@ -3897,8 +3956,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Arava contains
 
-- -The active substance is leflunomide. One film-coated tablet contains 100 mg of leflunomide.
-- -The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), talc (E553b), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), and macrogol 8000 in the film-coating.
+- The active substance is leflunomide. One film-coated tablet contains 100 mg of leflunomide.
+- The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), talc (E553b), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), and macrogol 8000 in the film-coating.
 
 ## What Arava looks like and contents of the pack
 
@@ -3926,7 +3985,9 @@ Swixx Biopharma EOOD Тел .: +359 (0)2 4942 480
 
 ## Česká republika
 
-Sanofi s.r.o. Tel: +420 233 086 111
+Sanofi s.r.o.
+
+Tel: +420 233 086 111
 
 ## Danmark
 
@@ -3934,7 +3995,9 @@ Sanofi A/S Tlf: +45 45 16 70 00
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel.: 0800 52 52 010 Tel. aus dem Ausland: +49 69 305 21 131
+Sanofi-Aventis Deutschland GmbH Tel.: 0800 52 52 010
+
+Tel. aus dem Ausland: +49 69 305 21 131
 
 ## Eesti
 
@@ -3966,13 +4029,13 @@ Vistor ehf. Sími: +354 535 7000
 
 ## Lietuva
 
-Swixx Biopharma UAB
-
-Tel: +370 5 236 91 40
+Swixx Biopharma UAB Tel: +370 5 236 91 40
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Magyarország
 
@@ -4016,17 +4079,13 @@ Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
 
 Swixx Biopharma s.r.o. Tel: +421 2 208 33 600
 
+<div style=\"page-break-after: always\"></div>
+
 ## Italia
 
 Sanofi S.r.l.
 
 Tel: 800 536389
-
-## Suomi/Finland
-
-Sanofi Oy
-
-Puh/Tel: +358 (0) 201 200 300
 
 ## Κύπρος
 
@@ -4036,22 +4095,26 @@ C.A. Papaellinas Ltd.
 
 : +357 22 741741
 
-## Sverige
-
-Sanofi AB
-
-Tel: +46 (0)8 634 50 00
-
 ## Latvija
 
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in {MM/YYYY}
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+
+## Suomi/Finland
+
+Sanofi Oy
+
+Puh/Tel: +358 (0) 201 200 300
+
+## Sverige
+
+Sanofi AB
+
+Tel: +46 (0)8 634 50 00

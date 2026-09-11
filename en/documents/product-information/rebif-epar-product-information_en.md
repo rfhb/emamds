@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-08 13:43:13
+document_datetime: 2026-09-03 14:47:54
 document_pages: 149
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rebif-epar-product-information_en.pdf
 document_name: rebif-epar-product-information_en.pdf
 version: success
-processing_time: 33.6982354
-conversion_datetime: 2026-04-09 12:36:37.703964
+processing_time: 28.5409075
+conversion_datetime: 2026-09-11 17:30:32.773452
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -54,7 +54,7 @@ Treatment should be initiated under supervision of a physician experienced in th
 
 Rebif is available in two strengths: 22 micrograms and 44 micrograms.
 
-For patients initiating treatment with Rebif, Rebif 22 micrograms and Rebif 44 micrograms solution for injection in cartridge packs are available for use with the RebiSmart electronic injection device, allowing automatic dose titration tailored to the patient's needs for the first month of therapy.
+For patients initiating treatment with Rebif, Rebif 44 micrograms solution for injection in cartridge packs are available for use with the RebiSmart electronic injection device, allowing automatic dose titration tailored to the patient's needs for the first month of therapy. Dose titration and dose adjustment can only be performed using Rebif 44 micrograms solution for injection in cartridge packs which are compatible for use with the RebiSmart electronic injection device.
 
 ## Posology
 
@@ -216,19 +216,19 @@ The majority of adverse reactions observed with interferon beta-1a are usually m
 
 ## List of adverse reactions
 
-The adverse reactions presented have been identified from clinical studies as well as from postmarketing reports (an asterisk [*] indicates adverse reactions identified during post-marketing surveillance) . The following definitions apply to the frequency terminology used hereafter: very common (≥1/10) , c ommon (≥1/100 to &lt;1/10) , u ncommon (≥1/1,000 to &lt;1/100) , r are (≥1/10,000 to &lt;1/1,000) , v ery rare (&lt;1/10,000) , frequency not known (cannot be estimated from the available data).
+The adverse reactions presented have been identified from clinical studies as well as from postmarketing reports (an asterisk [*] indicates adverse reactions identified during post-marketing surveillance) . The following definitions apply to the frequency terminology used hereafter: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), frequency not known (cannot be estimated from the available data).
 
 ## Blood and the lymphatic system disorders
 
 Very common:
-
-Neutropenia, lymphopenia, leukopenia, thrombocytopenia, anaemia Thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome* (class label for interferon beta products, see section 4.4), pancytopenia *
 
 Rare:
 
 ## Endocrine disorders
 
 Uncommon:
+
+Neutropenia, lymphopenia, leukopenia, thrombocytopenia, anaemia Thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome* (class label for interferon beta products, see section 4.4), pancytopenia *
 
 Thyroid dysfunction, most often presenting as hypothyroidism or hyperthyroidism
 
@@ -242,8 +242,6 @@ Anaphylactic reactions*
 
 Very common:
 
-Asymptomatic transaminase increase Severe elevations in transaminases Hepatitis with or without icterus* Hepatic failure* (see section 4.4), autoimmune hepatitis*
-
 Common:
 
 Uncommon:
@@ -254,9 +252,11 @@ Rare:
 
 Common:
 
-Depression, insomnia Suicide attempt*
-
 Rare:
+
+Asymptomatic transaminase increase Severe elevations in transaminases Hepatitis with or without icterus* Hepatic failure* (see section 4.4), autoimmune hepatitis*
+
+Depression, insomnia Suicide attempt*
 
 <div style=\"page-break-after: always\"></div>
 
@@ -264,25 +264,25 @@ Rare:
 
 Very common:
 
-Headache
-
 Uncommon:
+
+Headache
 
 Seizures*
 
 Frequency not known:
 
-Transient neurological symptoms (i.e. hypoesthesia, muscle spasm, paraesthesia, difficulty in walking, musculoskeletal stiffness) that may mimic multiple sclerosis exacerbations*
-
 ## Eye disorders
 
 Uncommon:
 
-Retinal vascular disorders (i.e. retinopathy, cotton wool spots, obstruction of retinal artery or vein)*
-
 ## Vascular disorders
 
 Uncommon:
+
+Transient neurological symptoms (i.e. hypoesthesia, muscle spasm, paraesthesia, difficulty in walking, musculoskeletal stiffness) that may mimic multiple sclerosis exacerbations*
+
+Retinal vascular disorders (i.e. retinopathy, cotton wool spots, obstruction of retinal artery or vein)*
 
 Thromboembolic events*
 
@@ -306,11 +306,11 @@ Diarrhoea, vomiting, nausea
 
 Common:
 
-Pruritus, rash, erythematous rash, maculo-papular rash, alopecia* Urticaria*
-
 Uncommon:
 
 Rare:
+
+Pruritus, rash, erythematous rash, maculo-papular rash, alopecia* Urticaria*
 
 Quincke's oedema (angio-oedema)*, erythema multiforme*, erythema multiforme-like skin reactions*, Stevens Johnson syndrome*
 
@@ -334,15 +334,15 @@ Nephrotic syndrome*, glomerulosclerosis* (see section 4.4)
 
 Very common:
 
-Injection site inflammation, injection site reaction, influenza-like symptoms Injection site pain, fatigue, rigors, fever
-
 Common:
 
 Uncommon:
 
-Injection site necrosis, injection site mass, injection site abscess, injection site infections*, increased sweating*
-
 Rare:
+
+Injection site inflammation, injection site reaction, influenza-like symptoms Injection site pain, fatigue, rigors, fever
+
+Injection site necrosis, injection site mass, injection site abscess, injection site infections*, increased sweating*
 
 Injection site cellulitis*
 
@@ -392,11 +392,9 @@ The precise mechanism of action of Rebif in multiple sclerosis is still under in
 
 ## Relapsing-remitting multiple sclerosis
 
-The safety and efficacy of Rebif has been evaluated in patients with relapsing-remitting multiple sclerosis at doses ranging from 11 to 44 micrograms (3-12 million IU), administered subcutaneously three times per week. At licensed posology, Rebif 22 micrograms has been demonstrated to decrease the incidence (approximately 30% over 2 years) and severity of clinical relapses in patients with at least 2 exacerbations in the previous 2 years and with an EDSS of 0-5.0 at entry. The proportion of patients with disability progression, as defined by at least one point increase in EDSS confirmed three months later, was reduced from 39% (placebo) to 30% (Rebif 22 micrograms). Over 4 years, the
+The safety and efficacy of Rebif has been evaluated in patients with relapsing-remitting multiple sclerosis at doses ranging from 11 to 44 micrograms (3-12 million IU), administered subcutaneously three times per week. At licensed posology, Rebif 22 micrograms has been demonstrated to decrease the incidence (approximately 30% over 2 years) and severity of clinical relapses in patients with at least 2 exacerbations in the previous 2 years and with an EDSS of 0-5.0 at entry. The proportion of patients with disability progression, as defined by at least one point increase in EDSS confirmed three months later, was reduced from 39% (placebo) to 30% (Rebif 22 micrograms). Over 4 years, the reduction in the mean exacerbation rate was 22% in patients treated with Rebif 22 micrograms, and 29% in patients treated with Rebif 44 micrograms group compared with a group of patients treated with placebo for 2 years and then either Rebif 22 or Rebif 44 micrograms for 2 years.
 
 <div style=\"page-break-after: always\"></div>
-
-reduction in the mean exacerbation rate was 22% in patients treated with Rebif 22 micrograms, and 29% in patients treated with Rebif 44 micrograms group compared with a group of patients treated with placebo for 2 years and then either Rebif 22 or Rebif 44 micrograms for 2 years.
 
 ## Secondary progressive multiple sclerosis
 
@@ -533,13 +531,15 @@ Treatment should be initiated under supervision of a physician experienced in th
 
 Rebif is available in two strengths:22 micrograms and 44 micrograms.
 
-For patients initiating treatment with Rebif, Rebif 22 micrograms and Rebif 44 micrograms solution for injection in cartridge packs are available for use with the RebiSmart electronic injection device, allowing automatic dose titration tailored to the patient's needs for the first month of therapy.
+For patients initiating treatment with Rebif, Rebif 44 micrograms solution for injection in cartridge packs are available for use with the RebiSmart electronic injection device, allowing automatic dose titration tailored to the patient's needs for the first month of therapy.
 
 ## Posology
 
 When first starting treatment with Rebif, in order to allow tachyphylaxis to develop thus reducing adverse reactions it is recommended that patients be started at 8.8 micrograms dose subcutaneously and the dose be increased over a 4 week period to the targeted dose, according to the following schedule:
 
 <div style=\"page-break-after: always\"></div>
+
+The below table describes the dose titration steps which are followed automatically by the RebiSmart electronic injection device.
 
 |           | Recommended Titration (% of final dose)   | Titration dose for Rebif 44 micrograms three times per week (tiw)   |
 |-----------|-------------------------------------------|---------------------------------------------------------------------|
@@ -715,13 +715,13 @@ The adverse reactions presented have been identified from clinical studies as we
 
 Very common:
 
-Neutropenia, lymphopenia, leukopenia, thrombocytopenia, anaemia Thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome* (class label for interferon beta products, see section 4.4), pancytopenia *
-
 Rare:
 
 ## Endocrine disorders
 
 Uncommon:
+
+Neutropenia, lymphopenia, leukopenia, thrombocytopenia, anaemia Thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome* (class label for interferon beta products, see section 4.4), pancytopenia *
 
 Thyroid dysfunction, most often presenting as hypothyroidism or hyperthyroidism
 
@@ -735,8 +735,6 @@ Anaphylactic reactions*
 
 Very common:
 
-Asymptomatic transaminase increase Severe elevations in transaminases Hepatitis with or without icterus* Hepatic failure* (see section 4.4), autoimmune hepatitis*
-
 Common:
 
 Uncommon:
@@ -747,9 +745,11 @@ Rare:
 
 Common:
 
-Depression, insomnia Suicide attempt*
-
 Rare:
+
+Asymptomatic transaminase increase Severe elevations in transaminases Hepatitis with or without icterus* Hepatic failure* (see section 4.4), autoimmune hepatitis*
+
+Depression, insomnia Suicide attempt*
 
 ## Nervous system disorders
 
@@ -763,17 +763,17 @@ Seizures*
 
 Frequency not known:
 
-Transient neurological symptoms (i.e. hypoesthesia, muscle spasm, paraesthesia, difficulty in walking, musculoskeletal stiffness) that may mimic multiple sclerosis exacerbations*
-
 ## Eye disorders
 
 Uncommon:
 
-Retinal vascular disorders (i.e. retinopathy, cotton wool spots, obstruction of retinal artery or vein)*
-
 ## Vascular disorders
 
 Uncommon:
+
+Transient neurological symptoms (i.e. hypoesthesia, muscle spasm, paraesthesia, difficulty in walking, musculoskeletal stiffness) that may mimic multiple sclerosis exacerbations*
+
+Retinal vascular disorders (i.e. retinopathy, cotton wool spots, obstruction of retinal artery or vein)*
 
 Thromboembolic events*
 
@@ -799,13 +799,11 @@ Diarrhoea, vomiting, nausea
 
 Common:
 
-Pruritus, rash, erythematous rash, maculo-papular rash, alopecia*
-
 Uncommon:
 
-Urticaria*
-
 Rare:
+
+Pruritus, rash, erythematous rash, maculo-papular rash, alopecia* Urticaria*
 
 Quincke's oedema (angio-oedema)*, erythema multiforme*, erythema multiforme-like skin reactions*, Stevens Johnson syndrome*
 
@@ -813,9 +811,9 @@ Quincke's oedema (angio-oedema)*, erythema multiforme*, erythema multiforme-like
 
 Common:
 
-Myalgia, arthralgia Drug-induced lupus erythematosus*
-
 Rare:
+
+Myalgia, arthralgia Drug-induced lupus erythematosus*
 
 ## Renal and urinary disorders
 
@@ -827,17 +825,17 @@ Nephrotic syndrome*, glomerulosclerosis* (see section 4.4)
 
 Very common:
 
-Injection site inflammation, injection site reaction, influenza-like symptoms
-
 Common:
+
+Injection site inflammation, injection site reaction, influenza-like symptoms
 
 Injection site pain, fatigue, rigors, fever
 
 Uncommon:
 
-Injection site necrosis, injection site mass, injection site abscess, injection site infections*, increased sweating*
-
 Rare:
+
+Injection site necrosis, injection site mass, injection site abscess, injection site infections*, increased sweating*
 
 Injection site cellulitis*
 
@@ -895,17 +893,16 @@ Patients were randomised in a double-blind manner to either Rebif 44 micrograms 
 
 Efficacy results of Rebif 44 micrograms given three times per week compared to placebo from this study are as follows:
 
-| Parameter Statistics                                                 | Treatment                                                            | Treatment                                                            | Treatment Comparison Rebif 44 mcg tiw versus Placebo                 | Treatment Comparison Rebif 44 mcg tiw versus Placebo                 | Treatment Comparison Rebif 44 mcg tiw versus Placebo                 |
-|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-|                                                                      | Placebo (n=171)                                                      | Rebif 44 mcg tiw (n=171)                                             | Risk Reduction                                                       | Cox's Proportional Hazard Ratio [95% CI]                             | Log-Rank p-value                                                     |
-| McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           |
-| Number of events                                                     | 144                                                                  | 106                                                                  |                                                                      |                                                                      |                                                                      |
-| KMEstimate                                                           | 85.8%                                                                | 62.5%                                                                | 51%                                                                  | 0.49 [0.38;0.64]                                                     | <0.001                                                               |
-| CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      |
-| Number of events                                                     | 60                                                                   | 33                                                                   |                                                                      |                                                                      |                                                                      |
-| KMEstimate                                                           | 37.5%                                                                | 20.6%                                                                | 52%                                                                  | 0.48 [0.31;0.73]                                                     | <0.001                                                               |
-| Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period |
-| Least Square Means (SE)                                              | 2.59 (0.30)                                                          | 0.50 (0.06)                                                          | 81%                                                                  | 0.19 [0.14;0.26]*                                                    | <0.001                                                               |
+| Parameter Statistics                                                 | Treatment - Placebo (n=171)                                          | Treatment - Rebif 44 mcg tiw (n=171)                                 | Treatment Comparison Rebif 44 mcg tiw versus Placebo - Risk Reduction   | Treatment Comparison Rebif 44 mcg tiw versus Placebo - Cox's Proportional Hazard Ratio [95% CI]   | Treatment Comparison Rebif 44 mcg tiw versus Placebo - Log-Rank p-value   |
+|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                              | McDonald (2005) Conversion                                                                        | McDonald (2005) Conversion                                                |
+| Number of events                                                     | 144                                                                  | 106                                                                  |                                                                         |                                                                                                   |                                                                           |
+| KM Estimate                                                          | 85.8%                                                                | 62.5%                                                                | 51%                                                                     | 0.49 [0.38;0.64]                                                                                  | <0.001                                                                    |
+| CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                         | CDMS Conversion                                                                                   | CDMS Conversion                                                           |
+| Number of events                                                     | 60                                                                   | 33                                                                   |                                                                         |                                                                                                   |                                                                           |
+| KM Estimate                                                          | 37.5%                                                                | 20.6%                                                                | 52%                                                                     | 0.48 [0.31;0.73]                                                                                  | <0.001                                                                    |
+| Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period    | Mean CUA Lesions per Subject per Scan During the Double Blind Period                              | Mean CUA Lesions per Subject per Scan During the Double Blind Period      |
+| Least Square Means (SE)                                              | 2.59 (0.30)                                                          | 0.50 (0.06)                                                          | 81%                                                                     | 0.19 [0.14;0.26]*                                                                                 | <0.001                                                                    |
 
 tiw: three times per week, CI: confidence interval, CUA: combined unique active
 
@@ -973,7 +970,11 @@ Store in a refrigerator (2°C - 8°C) away from the cooling element. Do not free
 
 <div style=\"page-break-after: always\"></div>
 
-For the purpose of ambulatory use, the patient may remove Rebif from the refrigerator and store it not above 25°C for one single period of up to 14 days. Rebif must then be returned to the refrigerator and used before the expiry date.
+For the purpose of ambulatory use, the patient may remove Rebif from the refrigerator and store it not
+
+above 25°C for one single period of up to 14 days. Rebif must then be returned to the refrigerator and
+
+used before the expiry date.
 
 ## 6.5 Nature and contents of container
 
@@ -991,7 +992,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
+Merck Europe B.V.
+
+Gustav Mahlerplein 102
+
+1082 MA Amsterdam
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1051,7 +1058,9 @@ Treatment should be initiated under supervision of a physician experienced in th
 
 The recommended posology of Rebif is 44 micrograms given three times per week by subcutaneous injection. A lower dose of 22 micrograms, also given three times per week by subcutaneous injection, is recommended for patients who cannot tolerate the higher dose in view of the treating specialist.
 
-When first starting treatment with Rebif, the dose should be gradually escalated in order to allow tachyphylaxis to develop thus reducing adverse reactions. Rebif 22 micrograms and Rebif 44 micrograms solution for injection in cartridge packs are available for use with the RebiSmart electronic device, allowing automatic dose titration tailored to the patient's needs for the first month of treatment.
+When first starting treatment with Rebif, the dose should be gradually escalated in order to allow tachyphylaxis to develop thus reducing adverse reactions.
+
+Rebif 44 micrograms solution for injection in cartridge packs are available for use with the RebiSmart electronic device, allowing automatic dose titration tailored to the patient's needs for the first month of treatment. Dose titration and dose adjustment can only be performed using Rebif 44 micrograms solution for injection in cartridge packs which are compatible for use with the RebiSmart electronic injection device.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1088,11 +1097,9 @@ Patients should be informed of the most frequent adverse reactions associated wi
 
 ## Thrombotic microangiopathy (TMA)
 
-Cases of thrombotic microangiopathy, manifested as thrombotic thrombocytopenic purpura (TTP) or haemolytic uraemic syndrome (HUS), including fatal cases, have been reported with interferon beta products. Events were reported at various time points during treatment and may occur several weeks to several years after starting treatment with interferon beta. Early clinical features include thrombocytopenia, new onset hypertension, fever, central nervous system symptoms (e.g. confusion, paresis) and impaired renal function. Laboratory findings suggestive of TMA include decreased platelet counts, increased serum lactate dehydrogenase (LDH) due to haemolysis and schistocytes (erythrocyte fragmentation) on a blood film. Therefore if clinical features of TMA are observed,
+Cases of thrombotic microangiopathy, manifested as thrombotic thrombocytopenic purpura (TTP) or haemolytic uraemic syndrome (HUS), including fatal cases, have been reported with interferon beta products. Events were reported at various time points during treatment and may occur several weeks to several years after starting treatment with interferon beta. Early clinical features include thrombocytopenia, new onset hypertension, fever, central nervous system symptoms (e.g. confusion, paresis) and impaired renal function. Laboratory findings suggestive of TMA include decreased platelet counts, increased serum lactate dehydrogenase (LDH) due to haemolysis and schistocytes (erythrocyte fragmentation) on a blood film. Therefore if clinical features of TMA are observed, further testing of blood platelet levels, serum LDH, blood films and renal function is recommended. If TMA is diagnosed, prompt treatment is required (considering plasma exchange) and immediate discontinuation of Rebif is recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-further testing of blood platelet levels, serum LDH, blood films and renal function is recommended. If TMA is diagnosed, prompt treatment is required (considering plasma exchange) and immediate discontinuation of Rebif is recommended.
 
 ## Depression and suicidal ideation
 
@@ -1231,21 +1238,21 @@ Very common:
 
 Common:
 
-Uncommon:
-
-Rare:
-
-## Psychiatric disorders
-
-Common:
-
 Asymptomatic transaminase increase
 
 Severe elevations in transaminases
 
+Uncommon:
+
 Hepatitis with or without icterus*
 
+Rare:
+
 Hepatic failure* (see section 4.4), autoimmune hepatitis*
+
+## Psychiatric disorders
+
+Common:
 
 Depression, insomnia
 
@@ -1257,7 +1264,11 @@ Suicide attempt*
 
 Very common:
 
+Headache
+
 Uncommon:
+
+Seizures*
 
 Frequency not known:
 
@@ -1268,10 +1279,6 @@ Uncommon:
 ## Vascular disorders
 
 Uncommon:
-
-Headache
-
-Seizures*
 
 Transient neurological symptoms (i.e. hypoesthesia, muscle spasm, paraesthesia, difficulty in walking, musculoskeletal stiffness) that may mimic multiple sclerosis exacerbations*
 
@@ -1327,17 +1334,17 @@ Nephrotic syndrome*, glomerulosclerosis* (see section 4.4)
 
 Very common:
 
-Injection site inflammation, injection site reaction, influenza-like symptoms Injection site pain, fatigue, rigors, fever
-
 Common:
 
 Uncommon:
 
+Injection site inflammation, injection site reaction, influenza-like symptoms Injection site pain, fatigue, rigors, fever
+
 Injection site necrosis, injection site mass, injection site abscess, injection
 
-site infections*, increased sweating*
-
 Rare:
+
+site infections*, increased sweating*
 
 Injection site cellulitis*
 
@@ -1465,7 +1472,9 @@ For multidose use. Only clear to opalescent solution without particles and witho
 
 <div style=\"page-break-after: always\"></div>
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 7.
 
@@ -1501,7 +1510,7 @@ DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines
 
-Agency http://www.ema.europa.eu.
+[Agency http://www.ema.europa.eu.](http://www.ema.europa.eu/)
 
 35
 
@@ -1540,13 +1549,15 @@ Efficacy has not been demonstrated in patients with secondary progressive multip
 
 Treatment should be initiated under supervision of a physician experienced in the treatment of the disease.
 
-For patients initiating treatment with Rebif, Rebif 22 micrograms and Rebif 44 micrograms solution for injection in cartridge packs are available for use with the RebiSmart electronic injection device, allowing automatic dose titration tailored to the patient's needs for the first month of therapy.
+For patients initiating treatment with Rebif, Rebif 44 micrograms solution for injection in cartridge packs are available for use with the RebiSmart electronic injection device, allowing automatic dose titration tailored to the patient's needs for the first month of therapy.
 
 ## Posology
 
 When first starting treatment with Rebif, in order to allow tachyphylaxis to develop thus reducing adverse reactions it is recommended that patients be started at 8.8 micrograms dose subcutaneously and the dose be increased over a 4 week period to the targeted dose, according to the following schedule:
 
 <div style=\"page-break-after: always\"></div>
+
+The below table describes the dose titration steps which are followed automatically by the RebiSmart electronic injection device.
 
 |           | Recommended Titration (% of final dose)   | Titration dose for Rebif 44 micrograms three times per week (tiw)   |
 |-----------|-------------------------------------------|---------------------------------------------------------------------|
@@ -1583,13 +1594,13 @@ At the present time, it is not known for how long patients should be treated. Sa
 - Hypersensitivity to natural or recombinant interferon beta or to any of the excipients listed in section 6.1.
 - Current severe depression and/or suicidal ideation (see sections 4.4 and 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.4 Special warnings and precautions for use
 
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
-<div style=\"page-break-after: always\"></div>
 
 ## General recommendations
 
@@ -1618,13 +1629,11 @@ Injection site necrosis (ISN) has been reported in patients using Rebif (see sec
 - use an aseptic injection technique,
 - rotate the injection sites with each dose.
 
-The procedure for the self-administration by the patient should be reviewed periodically especially if injection site reactions have occurred.
-
-If the patient experiences any break in the skin, which may be associated with swelling or drainage of fluid from the injection site, the patient should be advised to consult with their physician before continuing injections with Rebif. If the patient has multiple lesions, Rebif should be discontinued until
-
 <div style=\"page-break-after: always\"></div>
 
-healing has occurred. Patients with single lesions may continue provided that the necrosis is not too extensive.
+The procedure for the self-administration by the patient should be reviewed periodically especially if injection site reactions have occurred.
+
+If the patient experiences any break in the skin, which may be associated with swelling or drainage of fluid from the injection site, the patient should be advised to consult with their physician before continuing injections with Rebif. If the patient has multiple lesions, Rebif should be discontinued until healing has occurred. Patients with single lesions may continue provided that the necrosis is not too extensive.
 
 ## Hepatic dysfunction
 
@@ -1646,11 +1655,11 @@ Laboratory abnormalities are associated with the use of interferons.  The overal
 
 Patients being treated with Rebif may occasionally develop new or worsening thyroid abnormalities. Thyroid function testing is recommended at baseline and if abnormal, every 6-12 months following initiation of therapy. If tests are normal at baseline, routine testing is not needed but should be performed if clinical findings of thyroid dysfunction appear (see section 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Severe renal or hepatic failure and severe myelosuppression
 
 Caution should be used, and close monitoring considered when administering interferon beta-1a to patients with severe renal and hepatic failure and to patients with severe myelosuppression.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Neutralising antibodies
 
@@ -1728,13 +1737,13 @@ The adverse reactions presented have been identified from clinical studies as we
 
 Very common:
 
-Neutropenia, lymphopenia, leukopenia, thrombocytopenia, anaemia Thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome* (class label for interferon beta products, see section 4.4), pancytopenia *
-
 Rare:
 
 ## Endocrine disorders
 
 Uncommon:
+
+Neutropenia, lymphopenia, leukopenia, thrombocytopenia, anaemia Thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome* (class label for interferon beta products, see section 4.4), pancytopenia *
 
 Thyroid dysfunction, most often presenting as hypothyroidism or hyperthyroidism
 
@@ -1748,8 +1757,6 @@ Anaphylactic reactions*
 
 Very common:
 
-Asymptomatic transaminase increase Severe elevations in transaminases Hepatitis with or without icterus* Hepatic failure* (see section 4.4), autoimmune hepatitis*
-
 Common:
 
 Uncommon:
@@ -1760,9 +1767,11 @@ Rare:
 
 Common:
 
-Depression, insomnia Suicide attempt*
-
 Rare:
+
+Asymptomatic transaminase increase Severe elevations in transaminases Hepatitis with or without icterus* Hepatic failure* (see section 4.4), autoimmune hepatitis*
+
+Depression, insomnia Suicide attempt*
 
 ## Nervous system disorders
 
@@ -1776,17 +1785,17 @@ Seizures*
 
 Frequency not known:
 
-Transient neurological symptoms (i.e. hypoesthesia, muscle spasm, paraesthesia, difficulty in walking, musculoskeletal stiffness) that may mimic multiple sclerosis exacerbations*
-
 ## Eye disorders
 
 Uncommon:
 
-Retinal vascular disorders (i.e. retinopathy, cotton wool spots, obstruction of retinal artery or vein)*
-
 ## Vascular disorders
 
 Uncommon:
+
+Transient neurological symptoms (i.e. hypoesthesia, muscle spasm, paraesthesia, difficulty in walking, musculoskeletal stiffness) that may mimic multiple sclerosis exacerbations*
+
+Retinal vascular disorders (i.e. retinopathy, cotton wool spots, obstruction of retinal artery or vein)*
 
 Thromboembolic events*
 
@@ -1812,13 +1821,11 @@ Diarrhoea, vomiting, nausea
 
 Common:
 
-Pruritus, rash, erythematous rash, maculo-papular rash, alopecia*
-
 Uncommon:
 
-Urticaria*
-
 Rare:
+
+Pruritus, rash, erythematous rash, maculo-papular rash, alopecia* Urticaria*
 
 Quincke's oedema (angio-oedema)*, erythema multiforme*, erythema multiforme-like skin reactions*, Stevens Johnson syndrome*
 
@@ -1826,9 +1833,9 @@ Quincke's oedema (angio-oedema)*, erythema multiforme*, erythema multiforme-like
 
 Common:
 
-Myalgia, arthralgia Drug-induced lupus erythematosus*
-
 Rare:
+
+Myalgia, arthralgia Drug-induced lupus erythematosus*
 
 ## Renal and urinary disorders
 
@@ -1840,17 +1847,17 @@ Nephrotic syndrome*, glomerulosclerosis* (see section 4.4)
 
 Very common:
 
-Injection site inflammation, injection site reaction, influenza-like symptoms
-
 Common:
+
+Injection site inflammation, injection site reaction, influenza-like symptoms
 
 Injection site pain, fatigue, rigors, fever
 
 Uncommon:
 
-Injection site necrosis, injection site mass, injection site abscess, injection site infections*, increased sweating*
-
 Rare:
+
+Injection site necrosis, injection site mass, injection site abscess, injection site infections*, increased sweating*
 
 Injection site cellulitis*
 
@@ -1908,17 +1915,16 @@ Patients were randomised in a double-blind manner to either Rebif 44 micrograms 
 
 Efficacy results of Rebif 44 micrograms given three times per week compared to placebo from this study are as follows:
 
-| Parameter Statistics                                                 | Treatment                                                            | Treatment                                                            | Treatment Comparison Rebif 44 mcg tiw versus Placebo                 | Treatment Comparison Rebif 44 mcg tiw versus Placebo                 | Treatment Comparison Rebif 44 mcg tiw versus Placebo                 |
-|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-|                                                                      | Placebo (n=171)                                                      | Rebif 44 mcg tiw (n=171)                                             | Risk Reduction                                                       | Cox's Proportional Hazard Ratio [95% CI]                             | Log-Rank p-value                                                     |
-| McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           |
-| Number of events                                                     | 144                                                                  | 106                                                                  |                                                                      |                                                                      |                                                                      |
-| KMEstimate                                                           | 85.8%                                                                | 62.5%                                                                | 51%                                                                  | 0.49 [0.38;0.64]                                                     | <0.001                                                               |
-| CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      |
-| Number of events                                                     | 60                                                                   | 33                                                                   |                                                                      |                                                                      |                                                                      |
-| KMEstimate                                                           | 37.5%                                                                | 20.6%                                                                | 52%                                                                  | 0.48 [0.31;0.73]                                                     | <0.001                                                               |
-| Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period |
-| Least Square Means (SE)                                              | 2.59 (0.30)                                                          | 0.50 (0.06)                                                          | 81%                                                                  | 0.19 [0.14;0.26]*                                                    | <0.001                                                               |
+| Parameter Statistics                                                 | Treatment - Placebo (n=171)                                          | Treatment - Rebif 44 mcg tiw (n=171)                                 | Treatment Comparison Rebif 44 mcg tiw versus Placebo - Risk Reduction   | Treatment Comparison Rebif 44 mcg tiw versus Placebo - Cox's Proportional Hazard Ratio [95% CI]   | Treatment Comparison Rebif 44 mcg tiw versus Placebo - Log-Rank p-value   |
+|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                              | McDonald (2005) Conversion                                                                        | McDonald (2005) Conversion                                                |
+| Number of events                                                     | 144                                                                  | 106                                                                  |                                                                         |                                                                                                   |                                                                           |
+| KM Estimate                                                          | 85.8%                                                                | 62.5%                                                                | 51%                                                                     | 0.49 [0.38;0.64]                                                                                  | <0.001                                                                    |
+| CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                         | CDMS Conversion                                                                                   | CDMS Conversion                                                           |
+| Number of events                                                     | 60                                                                   | 33                                                                   |                                                                         |                                                                                                   |                                                                           |
+| KM Estimate                                                          | 37.5%                                                                | 20.6%                                                                | 52%                                                                     | 0.48 [0.31;0.73]                                                                                  | <0.001                                                                    |
+| Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period    | Mean CUA Lesions per Subject per Scan During the Double Blind Period                              | Mean CUA Lesions per Subject per Scan During the Double Blind Period      |
+| Least Square Means (SE)                                              | 2.59 (0.30)                                                          | 0.50 (0.06)                                                          | 81%                                                                     | 0.19 [0.14;0.26]*                                                                                 | <0.001                                                                    |
 
 tiw: three times per week, CI: confidence interval, CUA: combined unique active
 
@@ -2054,7 +2060,7 @@ Treatment should be initiated under supervision of a physician experienced in th
 
 Rebif is available in two strengths:  22 micrograms and 44 micrograms.
 
-For patients initiating treatment with Rebif, Rebif 22 micrograms and Rebif 44 micrograms solution for injection in cartridge packs are available for use with the RebiSmart electronic injection device, allowing automatic dose titration tailored to the patient's needs for the first month of therapy.
+For patients initiating treatment with Rebif, Rebif 44 micrograms solution for injection in cartridge packs are available for use with the RebiSmart electronic injection device, allowing automatic dose titration tailored to the patient's needs for the first month of therapy. Dose titration and dose adjustment can only be performed using Rebif 44 micrograms solution for injection in cartridge packs which are compatible for use with the RebiSmart electronic injection device.
 
 ## Posology
 
@@ -2097,11 +2103,9 @@ Patients should be informed of the most frequent adverse reactions associated wi
 
 ## Thrombotic microangiopathy (TMA)
 
-Cases of thrombotic microangiopathy, manifested as thrombotic thrombocytopenic purpura (TTP) or haemolytic uraemic syndrome (HUS), including fatal cases, have been reported with interferon beta products. Events were reported at various time points during treatment and may occur several weeks to several years after starting treatment with interferon beta. Early clinical features include thrombocytopenia, new onset hypertension, fever, central nervous system symptoms (e.g. confusion, paresis) and impaired renal function. Laboratory findings suggestive of TMA include decreased platelet counts, increased serum lactate dehydrogenase (LDH) due to haemolysis and schistocytes (erythrocyte fragmentation) on a blood film. Therefore if clinical features of TMA are observed,
+Cases of thrombotic microangiopathy, manifested as thrombotic thrombocytopenic purpura (TTP) or haemolytic uraemic syndrome (HUS), including fatal cases, have been reported with interferon beta products. Events were reported at various time points during treatment and may occur several weeks to several years after starting treatment with interferon beta. Early clinical features include thrombocytopenia, new onset hypertension, fever, central nervous system symptoms (e.g. confusion, paresis) and impaired renal function. Laboratory findings suggestive of TMA include decreased platelet counts, increased serum lactate dehydrogenase (LDH) due to haemolysis and schistocytes (erythrocyte fragmentation) on a blood film. Therefore if clinical features of TMA are observed, further testing of blood platelet levels, serum LDH, blood films and renal function is recommended. If TMA is diagnosed, prompt treatment is required (considering plasma exchange) and immediate discontinuation of Rebif is recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-further testing of blood platelet levels, serum LDH, blood films and renal function is recommended. If TMA is diagnosed, prompt treatment is required (considering plasma exchange) and immediate discontinuation of Rebif is recommended.
 
 ## Depression and suicidal ideation
 
@@ -2238,23 +2242,23 @@ The adverse reactions presented have been identified from clinical studies as we
 
 Very common:
 
+Asymptomatic transaminase increase
+
 Common:
+
+Severe elevations in transaminases
 
 Uncommon:
 
+Hepatitis with or without icterus*
+
 Rare:
+
+Hepatic failure* (see section 4.4), autoimmune hepatitis*
 
 ## Psychiatric disorders
 
 Common:
-
-Asymptomatic transaminase increase
-
-Severe elevations in transaminases
-
-Hepatitis with or without icterus*
-
-Hepatic failure* (see section 4.4), autoimmune hepatitis*
 
 Depression, insomnia
 
@@ -2266,7 +2270,11 @@ Suicide attempt*
 
 Very common:
 
+Headache
+
 Uncommon:
+
+Seizures*
 
 Frequency not known:
 
@@ -2277,10 +2285,6 @@ Uncommon:
 ## Vascular disorders
 
 Uncommon:
-
-Headache
-
-Seizures*
 
 Transient neurological symptoms (i.e. hypoesthesia, muscle spasm, paraesthesia, difficulty in walking, musculoskeletal stiffness) that may mimic multiple sclerosis exacerbations*
 
@@ -2336,17 +2340,17 @@ Nephrotic syndrome*, glomerulosclerosis* (see section 4.4)
 
 Very common:
 
-Injection site inflammation, injection site reaction, influenza-like symptoms Injection site pain, fatigue, rigors, fever
-
 Common:
 
 Uncommon:
 
+Injection site inflammation, injection site reaction, influenza-like symptoms Injection site pain, fatigue, rigors, fever
+
 Injection site necrosis, injection site mass, injection site abscess, injection
 
-site infections*, increased sweating*
-
 Rare:
+
+site infections*, increased sweating*
 
 Injection site cellulitis*
 
@@ -2527,13 +2531,15 @@ Treatment should be initiated under supervision of a physician experienced in th
 
 Rebif is available in two strengths: 22 micrograms and 44 micrograms.
 
-For patients initiating treatment with Rebif, Rebif 22 micrograms and Rebif 44 micrograms solution for injection in cartridge packs are available for use with the RebiSmart electronic injection device, allowing automatic dose titration tailored to the patient's needs for the first month of therapy.
+For patients initiating treatment with Rebif, Rebif 44 micrograms solution for injection in cartridge packs are available for use with the RebiSmart electronic injection device, allowing automatic dose titration tailored to the patient's needs for the first month of therapy.
 
 ## Posology
 
 When first starting treatment with Rebif, in order to allow tachyphylaxis to develop thus reducing adverse reactions it is recommended that patients be started at 8.8 micrograms dose subcutaneously and the dose be increased over a 4 week period to the targeted dose, according to the following schedule:
 
 <div style=\"page-break-after: always\"></div>
+
+The below table describes the dose titration steps which are followed automatically by the RebiSmart electronic injection device.
 
 |           | Recommended Titration (% of final dose)   | Titration dose for Rebif 44 micrograms three times per week (tiw)   |
 |-----------|-------------------------------------------|---------------------------------------------------------------------|
@@ -2570,13 +2576,13 @@ At the present time, it is not known for how long patients should be treated. Sa
 - Hypersensitivity to natural or recombinant interferon beta or to any of the excipients listed in section 6.1.
 - Current severe depression and/or suicidal ideation (see sections 4.4 and 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.4 Special warnings and precautions for use
 
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
-<div style=\"page-break-after: always\"></div>
 
 ## General recommendations
 
@@ -2605,13 +2611,11 @@ Injection site necrosis (ISN) has been reported in patients using Rebif (see sec
 - use an aseptic injection technique,
 - rotate the injection sites with each dose.
 
-The procedure for the self-administration by the patient should be reviewed periodically especially if injection site reactions have occurred.
-
-If the patient experiences any break in the skin, which may be associated with swelling or drainage of fluid from the injection site, the patient should be advised to consult with their physician before continuing injections with Rebif. If the patient has multiple lesions, Rebif should be discontinued until
-
 <div style=\"page-break-after: always\"></div>
 
-healing has occurred. Patients with single lesions may continue provided that the necrosis is not too extensive.
+The procedure for the self-administration by the patient should be reviewed periodically especially if injection site reactions have occurred.
+
+If the patient experiences any break in the skin, which may be associated with swelling or drainage of fluid from the injection site, the patient should be advised to consult with their physician before continuing injections with Rebif. If the patient has multiple lesions, Rebif should be discontinued until healing has occurred. Patients with single lesions may continue provided that the necrosis is not too extensive.
 
 ## Hepatic dysfunction
 
@@ -2633,11 +2637,11 @@ Laboratory abnormalities are associated with the use of interferons. The overall
 
 Patients being treated with Rebif may occasionally develop new or worsening thyroid abnormalities. Thyroid function testing is recommended at baseline and if abnormal, every 6-12 months following initiation of therapy. If tests are normal at baseline, routine testing is not needed but should be performed if clinical findings of thyroid dysfunction appear (see section 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Severe renal or hepatic failure and severe myelosuppression
 
 Caution should be used, and close monitoring considered when administering interferon beta-1a to patients with severe renal and hepatic failure and to patients with severe myelosuppression.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Neutralising antibodies
 
@@ -2715,13 +2719,13 @@ The adverse reactions presented have been identified from clinical studies as we
 
 Very common:
 
-Neutropenia, lymphopenia, leukopenia, thrombocytopenia, anaemia Thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome* (class label for interferon beta products, see section 4.4), pancytopenia *
-
 Rare:
 
 ## Endocrine disorders
 
 Uncommon:
+
+Neutropenia, lymphopenia, leukopenia, thrombocytopenia, anaemia Thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome* (class label for interferon beta products, see section 4.4), pancytopenia *
 
 Thyroid dysfunction, most often presenting as hypothyroidism or hyperthyroidism
 
@@ -2735,8 +2739,6 @@ Anaphylactic reactions*
 
 Very common:
 
-Asymptomatic transaminase increase Severe elevations in transaminases Hepatitis with or without icterus* Hepatic failure* (see section 4.4), autoimmune hepatitis*
-
 Common:
 
 Uncommon:
@@ -2747,9 +2749,11 @@ Rare:
 
 Common:
 
-Depression, insomnia Suicide attempt*
-
 Rare:
+
+Asymptomatic transaminase increase Severe elevations in transaminases Hepatitis with or without icterus* Hepatic failure* (see section 4.4), autoimmune hepatitis*
+
+Depression, insomnia Suicide attempt*
 
 ## Nervous system disorders
 
@@ -2763,17 +2767,17 @@ Seizures*
 
 Frequency not known:
 
-Transient neurological symptoms (i.e. hypoesthesia, muscle spasm, paraesthesia, difficulty in walking, musculoskeletal stiffness) that may mimic multiple sclerosis exacerbations*
-
 ## Eye disorders
 
 Uncommon:
 
-Retinal vascular disorders (i.e. retinopathy, cotton wool spots, obstruction of retinal artery or vein)*
-
 ## Vascular disorders
 
 Uncommon:
+
+Transient neurological symptoms (i.e. hypoesthesia, muscle spasm, paraesthesia, difficulty in walking, musculoskeletal stiffness) that may mimic multiple sclerosis exacerbations*
+
+Retinal vascular disorders (i.e. retinopathy, cotton wool spots, obstruction of retinal artery or vein)*
 
 Thromboembolic events*
 
@@ -2799,13 +2803,11 @@ Diarrhoea, vomiting, nausea
 
 Common:
 
-Pruritus, rash, erythematous rash, maculo-papular rash, alopecia*
-
 Uncommon:
 
-Urticaria*
-
 Rare:
+
+Pruritus, rash, erythematous rash, maculo-papular rash, alopecia* Urticaria*
 
 Quincke's oedema (angio-oedema)*, erythema multiforme*, erythema multiforme-like skin reactions*, Stevens Johnson syndrome*
 
@@ -2813,11 +2815,9 @@ Quincke's oedema (angio-oedema)*, erythema multiforme*, erythema multiforme-like
 
 Common:
 
-Myalgia, arthralgia
-
 Rare:
 
-Drug-induced lupus erythematosus*
+Myalgia, arthralgia Drug-induced lupus erythematosus*
 
 ## Renal and urinary disorders
 
@@ -2829,17 +2829,17 @@ Nephrotic syndrome*, glomerulosclerosis* (see section 4.4)
 
 Very common:
 
-Injection site inflammation, injection site reaction, influenza-like symptoms
-
 Common:
+
+Injection site inflammation, injection site reaction, influenza-like symptoms
 
 Injection site pain, fatigue, rigors, fever
 
 Uncommon:
 
-Injection site necrosis, injection site mass, injection site abscess, injection site infections*, increased sweating*
-
 Rare:
+
+Injection site necrosis, injection site mass, injection site abscess, injection site infections*, increased sweating*
 
 Injection site cellulitis*
 
@@ -2897,17 +2897,16 @@ Patients were randomised in a double-blind manner to either Rebif 44 micrograms 
 
 Efficacy results of Rebif 44 micrograms given three times per week compared to placebo from this study are as follows:
 
-| Parameter Statistics                                                 | Treatment                                                            | Treatment                                                            | Treatment Comparison Rebif 44 mcg tiw versus Placebo                 | Treatment Comparison Rebif 44 mcg tiw versus Placebo                 | Treatment Comparison Rebif 44 mcg tiw versus Placebo                 |
-|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-|                                                                      | Placebo (n=171)                                                      | Rebif 44 mcg tiw (n=171)                                             | Risk Reduction                                                       | Cox's Proportional Hazard Ratio [95% CI]                             | Log-Rank p-value                                                     |
-| McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           |
-| Number of events                                                     | 144                                                                  | 106                                                                  |                                                                      |                                                                      |                                                                      |
-| KMEstimate                                                           | 85.8%                                                                | 62.5%                                                                | 51%                                                                  | 0.49 [0.38;0.64]                                                     | <0.001                                                               |
-| CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      |
-| Number of events                                                     | 60                                                                   | 33                                                                   |                                                                      |                                                                      |                                                                      |
-| KMEstimate                                                           | 37.5%                                                                | 20.6%                                                                | 52%                                                                  | 0.48 [0.31;0.73]                                                     | <0.001                                                               |
-| Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period |
-| Least Square Means (SE)                                              | 2.59 (0.30)                                                          | 0.50 (0.06)                                                          | 81%                                                                  | 0.19 [0.14;0.26]*                                                    | <0.001                                                               |
+| Parameter Statistics                                                 | Treatment - Placebo (n=171)                                          | Treatment - Rebif 44 mcg tiw (n=171)                                 | Treatment Comparison Rebif 44 mcg tiw versus Placebo - Risk Reduction   | Treatment Comparison Rebif 44 mcg tiw versus Placebo - Cox's Proportional Hazard Ratio [95% CI]   | Treatment Comparison Rebif 44 mcg tiw versus Placebo - Log-Rank p-value   |
+|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                           | McDonald (2005) Conversion                                              | McDonald (2005) Conversion                                                                        | McDonald (2005) Conversion                                                |
+| Number of events                                                     | 144                                                                  | 106                                                                  |                                                                         |                                                                                                   |                                                                           |
+| KM Estimate                                                          | 85.8%                                                                | 62.5%                                                                | 51%                                                                     | 0.49 [0.38;0.64]                                                                                  | <0.001                                                                    |
+| CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                      | CDMS Conversion                                                         | CDMS Conversion                                                                                   | CDMS Conversion                                                           |
+| Number of events                                                     | 60                                                                   | 33                                                                   |                                                                         |                                                                                                   |                                                                           |
+| KM Estimate                                                          | 37.5%                                                                | 20.6%                                                                | 52%                                                                     | 0.48 [0.31;0.73]                                                                                  | <0.001                                                                    |
+| Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period | Mean CUA Lesions per Subject per Scan During the Double Blind Period    | Mean CUA Lesions per Subject per Scan During the Double Blind Period                              | Mean CUA Lesions per Subject per Scan During the Double Blind Period      |
+| Least Square Means (SE)                                              | 2.59 (0.30)                                                          | 0.50 (0.06)                                                          | 81%                                                                     | 0.19 [0.14;0.26]*                                                                                 | <0.001                                                                    |
 
 tiw: three times per week, CI: confidence interval, CUA: combined unique active
 
@@ -2975,7 +2974,9 @@ Store in a refrigerator (2°C - 8°C) away from the cooling element. Do not free
 
 <div style=\"page-break-after: always\"></div>
 
-For the purpose of ambulatory use, the patient may remove Rebif from the refrigerator and store it not above 25°C for one single period of up to 14 days. Rebif must then be returned to the refrigerator and
+For the purpose of ambulatory use, the patient may remove Rebif from the refrigerator and store it not
+
+above 25°C for one single period of up to 14 days. Rebif must then be returned to the refrigerator and
 
 used before the expiry date.
 
@@ -2993,7 +2994,9 @@ Not all pack sizes may be marketed.
 
 The solution for injection in a pre-filled pen is ready for use. The carton contains a package leaflet with full instructions for use and handling.
 
-For single use only. Only clear to opalescent solution without particles and without visible signs of deterioration should be used.
+For single use only. Only clear to opalescent solution without particles and without visible signs of
+
+deterioration should be used.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -3054,7 +3057,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -3085,7 +3088,9 @@ An updated RMP should be submitted:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rebif 22 micrograms solution for injection in pre-filled syringe interferon beta-1a
+Rebif 22 micrograms solution for injection in pre-filled syringe
+
+interferon beta-1a
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3141,7 +3146,11 @@ Store the syringe in the original package in order to protect from light. The pa
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam
+Merck Europe B.V.
+
+Gustav Mahlerplein 102
+
+1082 MA Amsterdam
 
 The Netherlands
 
@@ -3175,40 +3184,43 @@ rebif 22
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE   |
-|-------------------------------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE   |
+|---------------------------------------------------------------------------------------|
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+Rebif 22 mcg solution for injection
 
-Rebif 22 mcg solution for injection interferon beta-1a
+interferon beta-1a SC use
 
-SC use
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 2. METHOD OF ADMINISTRATION
-
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 22 micrograms (6 million IU)/0.5 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Merck Europe B.V.
 
@@ -3218,7 +3230,9 @@ Merck Europe B.V.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rebif 44 micrograms solution for injection in pre-filled syringe interferon beta-1a
+Rebif 44 micrograms solution for injection in pre-filled syringe
+
+interferon beta-1a
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3274,7 +3288,13 @@ Store the syringe in the original package in order to protect from light. The pa
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
+Merck Europe B.V.
+
+Gustav Mahlerplein 102
+
+1082 MA Amsterdam
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3306,8 +3326,8 @@ rebif 44
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3315,10 +3335,8 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Rebif 44 mcg solution for injection
 
@@ -3330,15 +3348,18 @@ interferon beta-1a SC use
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 44 micrograms (12 million IU)/0.5 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Merck Europe B.V.
 
@@ -3348,7 +3369,9 @@ Merck Europe B.V.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rebif 22 micrograms/0.5 mL solution for injection in cartridge interferon beta-1a
+Rebif 22 micrograms/0.5 mL solution for injection in cartridge
+
+interferon beta-1a
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3434,8 +3457,8 @@ rebif 22/0.5
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3451,7 +3474,7 @@ interferon beta-1a SC use
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -3473,7 +3496,9 @@ Merck Europe B.V.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rebif 44 micrograms/0.5 mL solution for injection in cartridge interferon beta-1a
+Rebif 44 micrograms/0.5 mL solution for injection in cartridge
+
+interferon beta-1a
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3559,8 +3584,8 @@ rebif 44/0.5
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3598,7 +3623,9 @@ Merck Europe B.V.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rebif 22 micrograms solution for injection in pre-filled pen interferon beta-1a
+Rebif 22 micrograms solution for injection in pre-filled pen
+
+interferon beta-1a
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3652,7 +3679,13 @@ Store the pre-filled pen in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
+Merck Europe B.V.
+
+Gustav Mahlerplein 102
+
+1082 MA Amsterdam
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3682,40 +3715,41 @@ rebif 22
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS PRE-FILLED PEN   |
-|---------------------------------------------------------------------------------|
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Rebif 22 micrograms solution for injection
 
 interferon beta-1a SC use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 22 micrograms (6 million IU)/0.5 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Merck Europe B.V.
 
@@ -3725,7 +3759,9 @@ Merck Europe B.V.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rebif 44 micrograms solution for injection in pre-filled pen interferon beta-1a
+Rebif 44 micrograms solution for injection in pre-filled pen
+
+interferon beta-1a
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3779,7 +3815,13 @@ Store the pre-filled pen in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
+Merck Europe B.V.
+
+Gustav Mahlerplein 102
+
+1082 MA Amsterdam
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3809,8 +3851,8 @@ rebif 44
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3854,10 +3896,10 @@ Merck Europe B.V.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3937,7 +3979,7 @@ Ask your doctor or pharmacist for advice if you are pregnant or breast-feeding, 
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
 
-When you start using Rebif, it is recommended to initiate the treatment by a gradual increase of the dose (a so-called 'dose titration') over the first 4 weeks to help reduce side effects. Rebif is available in 22 micrograms and 44 micrograms cartridges for use with the RebiSmart electronic injection device, which automatically adjusts your dose during the first month of treatment.
+When you start using Rebif, it is recommended to initiate the treatment by a gradual increase of the dose (a so-called 'dose titration') over the first 4 weeks to help reduce side effects. Rebif 44 micrograms cartridge packs are available for use with the RebiSmart electronic injection device, which automatically adjusts your dose during the first month of treatment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4077,9 +4119,9 @@ Rare (may affect up to 1 in 1,000 people):
 - Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness. Your doctor may find changes in your blood and the function of your kidneys.
 - Drug-induced lupus erythematosus: a side-effect of long-term use of Rebif. Symptoms may include muscle pain, joint pain and swelling, and rash. You may also experience other signs such as fever, weight loss, and fatigue. Usually symptoms disappear within one or two weeks after treatment is stopped.
 - Kidney problems including scarring that may reduce your kidney function. If you get some or all of these symptoms:
-- -foamy urine
-- -fatigue
-- -swelling, particularly in the ankles and eyelids, and weight gain.
+- foamy urine
+- fatigue
+- swelling, particularly in the ankles and eyelids, and weight gain.
 
 Tell your doctor as they may be signs of a possible kidney problem.
 
@@ -4160,10 +4202,10 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4243,7 +4285,7 @@ Ask your doctor or pharmacist for advice if you are pregnant or breast-feeding, 
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
 
-When you start using Rebif, it is recommended to initiate the treatment by a gradual increase of the dose (a so-called 'dose titration') over the first 4 weeks to help reduce side effects. Rebif is available in 22 micrograms and 44 micrograms cartridges for use with the RebiSmart electronic injection device, which automatically adjusts your dose during the first month of treatment.
+When you start using Rebif, it is recommended to initiate the treatment by a gradual increase of the dose (a so-called 'dose titration') over the first 4 weeks to help reduce side effects. Rebif 44 micrograms cartridge packs are available for use with the RebiSmart electronic injection device, which automatically adjusts your dose during the first month of treatment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4392,13 +4434,11 @@ Rare (may affect up to 1 in 1,000 people):
 - Serious skin reactions - some with mucosal lesions
 - Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness. Your doctor may find changes in your blood and the function of your kidneys.
 - Drug-induced lupus erythematosus: a side-effect of long-term use of Rebif. Symptoms may include muscle pain, joint pain and swelling, and rash. You may also experience other signs such as fever, weight loss, and fatigue. Usually symptoms disappear within one or two weeks after treatment is stopped.
-- Kidney problems including scarring that may reduce your kidney function.
-
-If you get some or all of these symptoms:
-
-- -foamy urine
-- -fatigue
-- -swelling, particularly in the ankles and eyelids, and weight gain.
+- ·
+- Kidney problems including scarring that may reduce your kidney function. If you get some or all of these symptoms:
+- foamy urine
+- fatigue
+- swelling, particularly in the ankles and eyelids, and weight gain.
 
 Tell your doctor as they may be signs of a possible kidney problem.
 
@@ -4479,10 +4519,10 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4564,22 +4604,11 @@ This medicine is for multidose use.
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
 
+## Dose
+
+The usual dose is 44 micrograms (12 million IU) given three times per week. Your doctor has prescribed you a lower dose of 22 micrograms (6 million IU) given three times per week. This lower dose is recommended for patients who cannot tolerate the higher dose Rebif should be administered three times per week, and if possible:
+
 <div style=\"page-break-after: always\"></div>
-
-## Initial titration dosage:
-
-When you start using Rebif, it is recommended to initiate the treatment by a gradual increase of the dose (a so-called 'dose titration') over a period of 4 weeks in order to reduce some of the side effects, it is recommended that:
-
-- During weeks one and two, Rebif 8.8 micrograms should be injected three times per week.
-- During weeks three and four, Rebif 22 micrograms should be injected three times per week.
-
-From the fifth week onwards, after you have completed your initiation period, you will follow the usual dose regimen prescribed by your doctor.
-
-## Usual Dose
-
-The usual dose is 44 micrograms (12 million IU) given three times per week. Your doctor has prescribed you a lower dose of 22 micrograms (6 million IU) given three times per week. This lower dose is recommended for patients who cannot tolerate the higher dose
-
-Rebif should be administered three times per week, and if possible:
 
 - on the same three days every week (at least 48 hours apart, e.g., Monday, Wednesday, Friday)
 - at the same time of day (preferably in the evening).
@@ -4611,18 +4640,19 @@ Rebif is not recommended for use in children below 2 years of age.
 
 <!-- image -->
 
+## How to inject Rebif
+
+- Your doctor will tell you how to choose the correct dose of 22 micrograms. Please read also the instructions in the manual provided with your device (RebiSmart).
 - Choose an injection site. Your doctor will advise you on the possible injection sites (good sites include the upper thighs and the lower abdomen). It is recommended that you keep track of and rotate your injection sites, so that one area is not injected too frequently in order to minimise the risk of injection site necrosis.
 
 NOTE: do not use any areas in which you feel lumps, firm knots, or pain; talk to your doctor or healthcare professional about anything you find.
 
+- Before the injection, use an alcohol wipe to clean the skin at the injection site. Let the skin dry. If a bit of alcohol is left on the skin, you may get a stinging sensation.
+
 <div style=\"page-break-after: always\"></div>
 
-## How to inject Rebif
-
-- Your doctor will tell you how to choose the correct dose. Please read also the instructions in the manual provided with your device (RebiSmart).
-
-| RebiSmart   | • RebiSmart is programmed to guide you through the entire initiation process and automatically increases the dose during the initiation period. It will also instruct you when you need to change the cartridge. • You or your doctor will need to select the dose prescribed via the RebiSmart menu to ensure the correct recording of your dose. • To activate the 'initiation/titration' menu you or your doctor need to first select 44 micrograms, then 'initiation/titration', select 'on' and confirm 'initiation/titration on' by pressing 'ok'. • The device will ensure that: o During weeks one and two, Rebif 8.8 micrograms are injected three times per week. o During weeks three and four, Rebif 22 micrograms are injected three times per week. • From the fifth week onwards, RebiSmart will automatically switch to the usual dose regimen. Please ensure that the dose displayed on the screen of the device corresponds to the prescribed dose of 22 micrograms before the injection. • Place RebiSmart at a right angle (90°) to the skin. • Press the injection button. During the injection, the button will flash. • Wait until the light switches off. This tells you that the injection is completed. • Remove RebiSmart from the injection site.   |
-|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| RebiSmart   | • Please ensure that the dose displayed on the screen of the device corresponds to the prescribed dose of 22 micrograms before the injection. • Place RebiSmart at a right angle (90°) to the skin. • Press the injection button. During the injection, the button will flash. • Wait until the light switches off. This tells you that the injection is completed. • Remove RebiSmart from the injection site.   |
+|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## After the injection of Rebif with RebiSmart
 
@@ -4648,10 +4678,6 @@ You should not discontinue the treatment without first contacting your doctor.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
-- Before the injection, use an alcohol wipe to clean the skin at the injection site. Let the skin dry. If a bit of alcohol is left on the skin, you may get a stinging sensation.
-
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -4661,6 +4687,8 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Serious allergic (hypersensitivity) reactions . If, immediately following Rebif administration you experience a sudden difficulty breathing, which may appear in association with swelling of face, lips, tongue or throat, nettle rash, itching all over the body, and a feeling of weakness or faintness, contact your doctor immediately or seek urgent medical attention. These reactions are rare (may affect up to 1 in 1,000 people).
 - Inform your doctor immediately if you experience any of the following possible symptoms of a liver problem : jaundice (yellowing of the skin or of the whites of the eyes), widespread itching, loss of appetite accompanied by nausea and vomiting and easy bruising of the skin. Severe liver problems can be associated with additional signs, e.g. difficulty concentrating, sleepiness and confusion.
 - Depression is common (may affect up to 1 in 10 people) in treated patients with multiple sclerosis. If you feel depressed or develop thoughts of suicide , report it immediately to your doctor.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Talk to your doctor if you experience any of the following side effects:
 
@@ -4685,9 +4713,6 @@ The injection site can become infected ( uncommon ); the skin may become swollen
 The number of red blood cells, white blood cells or platelets may decrease either individually (very common) or all at one time (rare) . Possible symptoms resulting from these changes could include tiredness, reduced ability to fight infection, bruising or unexplained bleeding. Liver function tests may be disturbed (very common) . Inflammation of the liver has also been reported (uncommon) . If you experience symptoms suggesting a liver disorder, such as loss of appetite accompanied by other symptoms such as nausea, vomiting, jaundice, please contact your doctor immediately (see above 'Tell your doctor immediately...').
 
 - Thyroid dysfunction is uncommon. The thyroid gland may function either excessively, or insufficiently. These changes in the thyroid activity are almost always not felt by the patient as symptoms; however your doctor may recommend testing as appropriate.
-
-<div style=\"page-break-after: always\"></div>
-
 - MS pseudo-relapse ( frequency not known ): There is a possibility that at the beginning of your treatment with Rebif you may experience symptoms that resemble those of a multiple sclerosis relapse. For example, your muscles may feel very tense or very weak, preventing you from moving as you want. In some cases such symptoms are associated with fever or flu-like symptoms described above. If you notice any of these side effects talk to your doctor.
 
 ## Other possible side effects include:
@@ -4705,6 +4730,8 @@ Common (may affect up to 1 in 10 people):
 - Fatigue, fever, chills
 - Hair loss
 
+<div style=\"page-break-after: always\"></div>
+
 Uncommon (may affect up to 1 in 100 people):
 
 - Hives
@@ -4721,11 +4748,10 @@ Rare (may affect up to 1 in 1,000 people):
 - Serious skin reactions - some with mucosal lesions
 - Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness. Your doctor may find changes in your blood and the function of your kidneys.
 - Drug-induced lupus erythematosus: a side-effect of long-term use of Rebif. Symptoms may include muscle pain, joint pain and swelling, and rash. You may also experience other signs such as fever, weight loss, and fatigue. Usually symptoms disappear within one or two weeks after treatment is stopped.
-- ·
 - Kidney problems including scarring that may reduce your kidney function. If you get some or all of these symptoms:
-- -foamy urine
-- -fatigue
-- -swelling, particularly in the ankles and eyelids, and weight gain.
+- foamy urine
+- fatigue
+- swelling, particularly in the ankles and eyelids, and weight gain.
 
 Tell your doctor as they may be signs of a possible kidney problem.
 
@@ -4736,9 +4762,6 @@ The following side effects were reported for interferon beta (frequency not know
 - Loss of appetite
 - Dilatation of the blood vessels and palpitation
 - Irregularities and/or changes in menstrual flow
-
-<div style=\"page-break-after: always\"></div>
-
 - Pulmonary arterial hypertension - a disease of severe narrowing of the blood vessels in the lungs resulting in high blood pressure in the blood vessels that carry blood from the heart to the lungs. Pulmonary arterial hypertension has been seen at various time points during treatment, including several years after starting treatment with Rebif.
 - Inflammation of the fatty tissue under the skin (panniculitis), which can make the skin feel hard and possibly develop painful red lumps or patches.
 
@@ -4751,6 +4774,8 @@ Side effects in children and teenagers are similar to those observed in adults.
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Rebif
 
@@ -4783,8 +4808,6 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Pre-filled cartridge (type 1 glass) with a plunger stopper (rubber) and a crimp cap (aluminium and halobutyl rubber), containing 1.5 mL solution for injection. Pack size of 4 or 12 cartridges. Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 The cartridge is to be used with the RebiSmart electronic injection device. The device is provided separately.
 
 ## Marketing Authorisation Holder
@@ -4796,6 +4819,8 @@ Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 Merck Serono S.p.A. Via delle Magnolie 15 I-70026 Modugno (Bari) Italy
 
 ## This leaflet was last revised in
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other sources of information
 
@@ -4809,10 +4834,10 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5006,13 +5031,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 These symptoms are usually mild, are more common at the start of the treatment and decrease with continued use.
 
-To help reduce these symptoms your doctor may advise you to take a fever reducing painkiller before a dose of Rebif and then for 24 hours after each injection.
-
+- To help reduce these symptoms your doctor may advise you to take a fever reducing painkiller before a dose of Rebif and then for 24 hours after each injection.
 - Injection site reactions including redness, swelling, discoloration, inflammation, pain and skin breakdown are very common .
 
 The occurrence of injection site reactions usually decreases over time.
 
-Tissue destruction (necrosis), abscess and mass at injection site are uncommon (may affect up to 1 in 100 people).
+- Tissue destruction (necrosis), abscess and mass at injection site are uncommon (may affect up to 1 in 100 people).
 
 See recommendations in section 'Warnings and precautions' to minimise the risk of injection site reactions.
 
@@ -5062,9 +5086,9 @@ Rare (may affect up to 1 in 1,000 people):
 <div style=\"page-break-after: always\"></div>
 
 - Kidney problems including scarring that may reduce your kidney function. If you get some or all of these symptoms:
-- -foamy urine
-- -fatigue
-- -swelling, particularly in the ankles and eyelids, and weight gain.
+- foamy urine
+- fatigue
+- swelling, particularly in the ankles and eyelids, and weight gain.
 
 Tell your doctor as they may be signs of a possible kidney problem.
 
@@ -5145,10 +5169,10 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5228,7 +5252,7 @@ Ask your doctor or pharmacist for advice if you are pregnant or breast-feeding, 
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
 
-When you start using Rebif, it is recommended to initiate the treatment by a gradual increase of the dose (a so-called 'dose titration') over the first 4 weeks to help reduce side effects. Rebif is available in 22 micrograms and 44 micrograms cartridges for use with the RebiSmart electronic injection device, which automatically adjusts your dose during the first month of treatment.
+When you start using Rebif, it is recommended to initiate the treatment by a gradual increase of the dose (a so-called 'dose titration') over the first 4 weeks to help reduce side effects. Rebif 44 micrograms cartridge packs are available for use with the RebiSmart electronic injection device, which automatically adjusts your dose during the first month of treatment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5346,9 +5370,9 @@ Rare (may affect up to 1 in 1,000 people):
 - Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness. Your doctor may find changes in your blood and the function of your kidneys.
 - Drug-induced lupus erythematosus: a side-effect of long-term use of Rebif. Symptoms may include muscle pain, joint pain and swelling, and rash. You may also experience other signs such as fever, weight loss, and fatigue. Usually symptoms disappear within one or two weeks after treatment is stopped.
 - Kidney problems including scarring that may reduce your kidney function. If you get some or all of these symptoms:
-- -foamy urine
-- -fatigue
-- -swelling, particularly in the ankles and eyelids, and weight gain.
+- foamy urine
+- fatigue
+- swelling, particularly in the ankles and eyelids, and weight gain.
 
 Tell your doctor as they may be signs of a possible kidney problem.
 
@@ -5517,10 +5541,10 @@ If you have any further questions, please ask your doctor, nurse or pharmacist.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5600,7 +5624,7 @@ Ask your doctor or pharmacist for advice if you are pregnant or breast-feeding, 
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
 
-When you start using Rebif, it is recommended to initiate the treatment by a gradual increase of the dose (a so-called 'dose titration') over the first 4 weeks to help reduce side effects. Rebif is available in 22 micrograms and 44 micrograms cartridges for use with the RebiSmart electronic injection device, which automatically adjusts your dose during the first month of treatment.
+When you start using Rebif, it is recommended to initiate the treatment by a gradual increase of the dose (a so-called 'dose titration') over the first 4 weeks to help reduce side effects. Rebif 44 micrograms cartridge packs are available for use with the RebiSmart electronic injection device, which automatically adjusts your dose during the first month of treatment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5684,10 +5708,7 @@ See recommendations in section 'Warnings and precautions' to minimise the risk o
 
 The injection site can become infected (uncommon) ; the skin may become swollen tender and hard and the whole area could be very painful. If you experience any of these symptoms, contact your doctor for advice.
 
-- Certain laboratory tests may change. These changes are generally not noticed by the patient (no symptoms), are usually reversible and mild, and most often do not require particular treatment.
-
-The number of red blood cells, white blood cells or platelets may decrease either individually (very common) or all at one time (rare) . Possible symptoms resulting from these changes could include tiredness, reduced ability to fight infection, bruising or unexplained bleeding. Liver function tests may be disturbed (very common) . Inflammation of the liver has also been reported (uncommon) . If you experience symptoms suggesting a liver disorder, such as loss of appetite accompanied by other symptoms such as nausea, vomiting, jaundice, please contact your doctor immediately (see above 'Tell your doctor immediately...').
-
+- Certain laboratory tests may change. These changes are generally not noticed by the patient (no symptoms), are usually reversible and mild, and most often do not require particular treatment. The number of red blood cells, white blood cells or platelets may decrease either individually (very common) or all at one time (rare) . Possible symptoms resulting from these changes could include tiredness, reduced ability to fight infection, bruising or unexplained bleeding. Liver function tests may be disturbed (very common) . Inflammation of the liver has also been reported (uncommon) . If you experience symptoms suggesting a liver disorder, such as loss of appetite accompanied by other symptoms such as nausea, vomiting, jaundice, please contact your doctor immediately (see above 'Tell your doctor immediately...').
 - Thyroid dysfunction is uncommon . The thyroid gland may function either excessively, or insufficiently. These changes in the thyroid activity are almost always not felt by the patient as symptoms; however your doctor may recommend testing as appropriate.
 
 <div style=\"page-break-after: always\"></div>
@@ -5726,9 +5747,9 @@ Rare (may affect up to 1 in 1,000 people):
 - Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness. Your doctor may find changes in your blood and the function of your kidneys.
 - Drug-induced lupus erythematosus: a side-effect of long-term use of Rebif. Symptoms may include muscle pain, joint pain and swelling, and rash. You may also experience other signs such as fever, weight loss, and fatigue. Usually symptoms disappear within one or two weeks after treatment is stopped.
 - Kidney problems including scarring that may reduce your kidney function. If you get some or all of these symptoms:
-- -foamy urine
-- -fatigue
-- -swelling, particularly in the ankles and eyelids, and weight gain.
+- foamy urine
+- fatigue
+- swelling, particularly in the ankles and eyelids, and weight gain.
 
 Tell your doctor as they may be signs of a possible kidney problem.
 

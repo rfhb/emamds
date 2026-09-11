@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-08 15:42:00
+document_datetime: 2026-09-02 16:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rebif.html
 document_name: rebif.html
 version: success
-processing_time: 0.1002802
-conversion_datetime: 2026-04-09 12:37:24.079326
+processing_time: 0.346893
+conversion_datetime: 2026-09-11 17:58:15.757053
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Rebif
 
@@ -57,7 +57,7 @@ Expand section
 
 Collapse section
 
-## How is Rebif used?
+### How is Rebif used?
 
 Rebif can only be obtained with a prescription and treatment should be started by a doctor who has experience in the management of MS.
 
@@ -71,11 +71,11 @@ The patients can inject Rebif themselves once they have been trained. The doctor
 
 For more information about using Rebif, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Rebif work?
+### How does Rebif work?
 
 The active substance in Rebif is the protein interferon beta-1a, one of a group of interferons that can be naturally produced by the body to help it fight against viruses and other attacks. In MS, the immune system (the body's natural defences) malfunctions and attacks parts of the central nervous system (the brain, spinal cord and optic nerve [nerve that sends signals from the eye to the brain]), causing inflammation that damages the nerves and the insulation around them. The exact way that Rebif works in MS is not yet known but the active substance, interferon beta-1a, seems to calm down the immune system, and prevents relapses of MS.
 
-## What benefits of Rebif have been shown in studies?
+### What benefits of Rebif have been shown in studies?
 
 Rebif has been studied in 560 patients with relapsing MS. The patients had experienced at least two relapses in the previous two years. Patients received either Rebif (22 or 44 micrograms) or placebo (a dummy treatment) for two years. The study was then extended to four years. Rebif was more effective than placebo in reducing the number of relapses in relapsing MS. Relapses were reduced by about 30% over two years for both Rebif 22 and 44 micrograms compared with placebo, and by 22% (Rebif 22 micrograms) and 29% (Rebif 44 micrograms) over four years.
 
@@ -83,7 +83,7 @@ Rebif has also been studied in patients with secondary progressive MS. Rebif had
 
 Rebif (44 micrograms given once or three times a week) has also been compared with placebo in 515 patients who had experienced a single attack of demyelination. The probability of developing MS over 24 months was 62.5% for patients given Rebif three times a week and 75.5% for patients given Rebif once a week compared with 85.8% for patients given placebo.
 
-## What are the risks associated with Rebif?
+### What are the risks associated with Rebif?
 
 The most common side effects with Rebif (which may affect more than 1 in 10 people) are flu-like symptoms, neutropenia, lymphopenia and leucopenia (low white blood cell counts), thrombocytopenia (low blood platelet counts), anaemia (low red blood cell counts), headache, inflammation and other reactions at the injection site, and increases in transaminases (liver enzymes).
 
@@ -91,17 +91,17 @@ Rebif must not be used in patients who have severe depression or have thoughts o
 
 For the full list of side effects and restrictions with Rebif, see the package leaflet.
 
-## Why is Rebif authorised in the EU?
+### Why is Rebif authorised in the EU?
 
 The European Medicines Agency decided that Rebif's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Rebif?
+### What measures are being taken to ensure the safe and effective use of Rebif?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Rebif have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Rebif are continuously monitored. Side effects reported with Rebif are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Rebif
+### Other information about Rebif
 
 Rebif received a marketing authorisation valid throughout the EU on 4 May 1998.
 
@@ -113,7 +113,7 @@ English (EN) (125.17 KB - PDF)
 
 [View](/en/documents/overview/rebif-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-555)
+[Other languages (22)](#file-language-dropdown-457)
 
 български (BG) (152.53 KB - PDF)
 
@@ -145,7 +145,7 @@ Deutsch (DE) (126.44 KB - PDF)
 
 [View](/de/documents/overview/rebif-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (120.47 KB - PDF)
+eesti (ET) (120.47 KB - PDF)
 
 **First published:** 26/02/2009 **Last updated:** 20/12/2019
 
@@ -175,13 +175,13 @@ italiano (IT) (122.53 KB - PDF)
 
 [View](/it/documents/overview/rebif-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (162.64 KB - PDF)
+latviešu (LV) (162.64 KB - PDF)
 
 **First published:** 26/02/2009 **Last updated:** 20/12/2019
 
 [View](/lv/documents/overview/rebif-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (147.76 KB - PDF)
+lietuvių (LT) (147.76 KB - PDF)
 
 **First published:** 26/02/2009 **Last updated:** 20/12/2019
 
@@ -235,7 +235,7 @@ slovenščina (SL) (144.01 KB - PDF)
 
 [View](/sl/documents/overview/rebif-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (123.22 KB - PDF)
+suomi (FI) (123.22 KB - PDF)
 
 **First published:** 26/02/2009 **Last updated:** 20/12/2019
 
@@ -257,169 +257,170 @@ English (EN) (239.52 KB - PDF)
 
 ## Product information
 
-Rebif : EPAR - Product Information
+Rebif : EPAR - Product information
 
-English (EN) (935.18 KB - PDF)
+English (EN) (1.11 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/en/documents/product-information/rebif-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-515)
+[Other languages (24)](#file-language-dropdown-881)
 
-български (BG) (1.28 MB - PDF)
+български (BG) (1.59 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/bg/documents/product-information/rebif-epar-product-information_bg.pdf)
 
-español (ES) (1000.89 KB - PDF)
+español (ES) (1.38 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/es/documents/product-information/rebif-epar-product-information_es.pdf)
 
-čeština (CS) (1.16 MB - PDF)
+čeština (CS) (1.67 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/cs/documents/product-information/rebif-epar-product-information_cs.pdf)
 
-dansk (DA) (1010.32 KB - PDF)
+dansk (DA) (1.46 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/da/documents/product-information/rebif-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.04 MB - PDF)
+Deutsch (DE) (1.44 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/de/documents/product-information/rebif-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.03 MB - PDF)
+eesti (ET) (1.57 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/et/documents/product-information/rebif-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.32 MB - PDF)
+ελληνικά (EL) (1.56 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/el/documents/product-information/rebif-epar-product-information_el.pdf)
 
-français (FR) (1.45 MB - PDF)
+français (FR) (1.69 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/fr/documents/product-information/rebif-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.08 MB - PDF)
+hrvatski (HR) (1.5 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/hr/documents/product-information/rebif-epar-product-information_hr.pdf)
 
-íslenska (IS) (979.6 KB - PDF)
+italiano (IT) (1.48 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
-
-[View](/is/documents/product-information/rebif-epar-product-information_is.pdf)
-
-italiano (IT) (1 MB - PDF)
-
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/it/documents/product-information/rebif-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.49 MB - PDF)
+latviešu (LV) (1.56 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/lv/documents/product-information/rebif-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.47 MB - PDF)
+lietuvių (LT) (1.62 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/lt/documents/product-information/rebif-epar-product-information_lt.pdf)
 
-magyar (HU) (1.24 MB - PDF)
+magyar (HU) (1.59 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/hu/documents/product-information/rebif-epar-product-information_hu.pdf)
 
-Malti (MT) (1.32 MB - PDF)
+Malti (MT) (2.19 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/mt/documents/product-information/rebif-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1 MB - PDF)
+Nederlands (NL) (1.46 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/nl/documents/product-information/rebif-epar-product-information_nl.pdf)
 
-norsk (NO) (969.02 KB - PDF)
+polski (PL) (1.86 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
-
-[View](/no/documents/product-information/rebif-epar-product-information_no.pdf)
-
-polski (PL) (1.26 MB - PDF)
-
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/pl/documents/product-information/rebif-epar-product-information_pl.pdf)
 
-português (PT) (1.03 MB - PDF)
+português (PT) (1.38 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/pt/documents/product-information/rebif-epar-product-information_pt.pdf)
 
-română (RO) (1.25 MB - PDF)
+română (RO) (1.76 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/ro/documents/product-information/rebif-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.17 MB - PDF)
+slovenčina (SK) (1.71 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/sk/documents/product-information/rebif-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.16 MB - PDF)
+slovenščina (SL) (1.52 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/sl/documents/product-information/rebif-epar-product-information_sl.pdf)
 
-Suomi (FI) (997.38 KB - PDF)
+suomi (FI) (1.52 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/fi/documents/product-information/rebif-epar-product-information_fi.pdf)
 
-svenska (SV) (996.35 KB - PDF)
+svenska (SV) (1.41 MB - PDF)
 
-**First published:** 23/10/2009 **Last updated:** 08/04/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
 
 [View](/sv/documents/product-information/rebif-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000313648
+Íslenska (IS) (1.36 MB - PDF)
 
-13/02/2026
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
+
+[View](/is/documents/product-information/rebif-epar-product-information_is.pdf)
+
+norsk (NO) (1.43 MB - PDF)
+
+**First published:** 23/10/2009 **Last updated:** 02/09/2026
+
+[View](/no/documents/product-information/rebif-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000356900
+
+02/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -437,7 +438,7 @@ English (EN) (80.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rebif-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-90)
+[Other languages (24)](#file-language-dropdown-833)
 
 български (BG) (154.35 KB - PDF)
 
@@ -469,7 +470,7 @@ Deutsch (DE) (128.14 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/rebif-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (122.52 KB - PDF)
+eesti (ET) (122.52 KB - PDF)
 
 **First published:** 24/06/2009 **Last updated:** 08/04/2026
 
@@ -493,25 +494,19 @@ hrvatski (HR) (126.54 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/rebif-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (127.39 KB - PDF)
-
-**First published:** 24/06/2009 **Last updated:** 08/04/2026
-
-[View](/is/documents/all-authorised-presentations/rebif-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (135.85 KB - PDF)
 
 **First published:** 24/06/2009 **Last updated:** 08/04/2026
 
 [View](/it/documents/all-authorised-presentations/rebif-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (128.86 KB - PDF)
+latviešu (LV) (128.86 KB - PDF)
 
 **First published:** 24/06/2009 **Last updated:** 08/04/2026
 
 [View](/lv/documents/all-authorised-presentations/rebif-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (130.67 KB - PDF)
+lietuvių (LT) (130.67 KB - PDF)
 
 **First published:** 24/06/2009 **Last updated:** 08/04/2026
 
@@ -534,12 +529,6 @@ Nederlands (NL) (129.51 KB - PDF)
 **First published:** 24/06/2009 **Last updated:** 08/04/2026
 
 [View](/nl/documents/all-authorised-presentations/rebif-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (126.09 KB - PDF)
-
-**First published:** 24/06/2009 **Last updated:** 08/04/2026
-
-[View](/no/documents/all-authorised-presentations/rebif-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (137.78 KB - PDF)
 
@@ -571,7 +560,7 @@ slovenščina (SL) (130.91 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/rebif-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (125.67 KB - PDF)
+suomi (FI) (125.67 KB - PDF)
 
 **First published:** 24/06/2009 **Last updated:** 08/04/2026
 
@@ -583,27 +572,30 @@ svenska (SV) (127.39 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/rebif-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (127.39 KB - PDF)
+
+**First published:** 24/06/2009 **Last updated:** 08/04/2026
+
+[View](/is/documents/all-authorised-presentations/rebif-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (126.09 KB - PDF)
+
+**First published:** 24/06/2009 **Last updated:** 08/04/2026
+
+[View](/no/documents/all-authorised-presentations/rebif-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Rebif
-
-Active substance
-
-interferon beta-1a
-
-International non-proprietary name (INN) or common name
-
-interferon beta-1a
-
-Therapeutic area (MeSH)
-
-Multiple Sclerosis
-
-Anatomical therapeutic chemical (ATC) code
-
-L03AB07
+- **Name of medicine**
+    - Rebif
+- **Active substance**
+    - interferon beta-1a
+- **International non-proprietary name (INN) or common name**
+    - interferon beta-1a
+- **Therapeutic area (MeSH)**
+    - Multiple Sclerosis
+- **Anatomical therapeutic chemical (ATC) code**
+    - L03AB07
 
 ### Pharmacotherapeutic group
 
@@ -620,23 +612,14 @@ Efficacy has not been demonstrated in patients with secondary progressive multip
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000136
-
-Marketing authorisation holder
-
-Merck Europe B.V.
-
-Gustav Mahlerplein 102
-
-Marketing authorisation issued
-
-03/05/1998
-
-Revision
-
-42
+- **EMA product number**
+    - EMEA/H/C/000136
+- **Marketing authorisation holder**
+    - Merck Europe B.V. Gustav Mahlerplein 102  Ito Toren  1082 MA Amsterdam  The Netherlands
+- **Marketing authorisation issued**
+    - 03/05/1998
+- **Revision**
+    - 43
 
 ## Assessment history
 
@@ -644,13 +627,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Rebif : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (154.77 KB - PDF)
+English (EN) (162.95 KB - PDF)
 
-**First published:** 08/04/2026
+**First published:** 08/04/2026 **Last updated:** 02/09/2026
 
 [View](/en/documents/procedural-steps-after/rebif-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -710,7 +693,7 @@ English (EN) (66.78 KB - PDF)
 
 [View](/en/documents/scientific-discussion-variation/rebif-h-c-136-x-0051-epar-scientific-discussion-extension_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Rebif : EPAR - Procedural steps taken before authorisation
 
@@ -746,6 +729,6 @@ English (EN) (251.46 KB - PDF)
 
 **This page was last updated on**
 
-08/04/2026
+02/09/2026
 
 ## Share this page

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-19 11:11:00
+document_datetime: 2026-09-04 16:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qdenga.html
 document_name: qdenga.html
 version: success
-processing_time: 0.1692132
-conversion_datetime: 2026-08-22 23:22:16.556054
+processing_time: 0.1731816
+conversion_datetime: 2026-09-11 17:57:44.175558
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -110,7 +110,7 @@ English (EN) (105.37 KB - PDF)
 
 [View](/en/documents/overview/qdenga-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-107)
+[Other languages (22)](#file-language-dropdown-700)
 
 български (BG) (144.04 KB - PDF)
 
@@ -256,161 +256,161 @@ English (EN) (730.58 KB - PDF)
 
 Qdenga : EPAR - Product Information
 
-English (EN) (611.93 KB - PDF)
+English (EN) (527.02 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/en/documents/product-information/qdenga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-196)
+[Other languages (24)](#file-language-dropdown-578)
 
-български (BG) (1014.95 KB - PDF)
+български (BG) (599.77 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/bg/documents/product-information/qdenga-epar-product-information_bg.pdf)
 
-español (ES) (633.11 KB - PDF)
+español (ES) (539.4 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/es/documents/product-information/qdenga-epar-product-information_es.pdf)
 
-čeština (CS) (993.12 KB - PDF)
+čeština (CS) (619.41 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/cs/documents/product-information/qdenga-epar-product-information_cs.pdf)
 
-dansk (DA) (619.21 KB - PDF)
+dansk (DA) (537.17 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/da/documents/product-information/qdenga-epar-product-information_da.pdf)
 
-Deutsch (DE) (648.62 KB - PDF)
+Deutsch (DE) (604.62 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/de/documents/product-information/qdenga-epar-product-information_de.pdf)
 
-eesti (ET) (608.28 KB - PDF)
+eesti (ET) (573.14 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/et/documents/product-information/qdenga-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.06 MB - PDF)
+ελληνικά (EL) (624.35 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/el/documents/product-information/qdenga-epar-product-information_el.pdf)
 
-français (FR) (648.15 KB - PDF)
+français (FR) (619.35 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/fr/documents/product-information/qdenga-epar-product-information_fr.pdf)
 
-hrvatski (HR) (920.65 KB - PDF)
+hrvatski (HR) (608.31 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/hr/documents/product-information/qdenga-epar-product-information_hr.pdf)
 
-italiano (IT) (632.37 KB - PDF)
+italiano (IT) (589.59 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/it/documents/product-information/qdenga-epar-product-information_it.pdf)
 
-latviešu (LV) (1 MB - PDF)
+latviešu (LV) (598.28 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/lv/documents/product-information/qdenga-epar-product-information_lv.pdf)
 
-lietuvių (LT) (969.7 KB - PDF)
+lietuvių (LT) (591.15 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/lt/documents/product-information/qdenga-epar-product-information_lt.pdf)
 
-magyar (HU) (902.36 KB - PDF)
+magyar (HU) (635.71 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/hu/documents/product-information/qdenga-epar-product-information_hu.pdf)
 
-Malti (MT) (967.06 KB - PDF)
+Malti (MT) (626.83 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/mt/documents/product-information/qdenga-epar-product-information_mt.pdf)
 
-Nederlands (NL) (655.89 KB - PDF)
+Nederlands (NL) (553.67 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/nl/documents/product-information/qdenga-epar-product-information_nl.pdf)
 
-polski (PL) (1018.65 KB - PDF)
+polski (PL) (618.98 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/pl/documents/product-information/qdenga-epar-product-information_pl.pdf)
 
-português (PT) (632.55 KB - PDF)
+português (PT) (585.87 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/pt/documents/product-information/qdenga-epar-product-information_pt.pdf)
 
-română (RO) (982.95 KB - PDF)
+română (RO) (594.68 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/ro/documents/product-information/qdenga-epar-product-information_ro.pdf)
 
-slovenčina (SK) (995.8 KB - PDF)
+slovenčina (SK) (625.49 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/sk/documents/product-information/qdenga-epar-product-information_sk.pdf)
 
-slovenščina (SL) (914.03 KB - PDF)
+slovenščina (SL) (600.16 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/sl/documents/product-information/qdenga-epar-product-information_sl.pdf)
 
-suomi (FI) (994.88 KB - PDF)
+suomi (FI) (576.53 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/fi/documents/product-information/qdenga-epar-product-information_fi.pdf)
 
-svenska (SV) (623.32 KB - PDF)
+svenska (SV) (603.89 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/sv/documents/product-information/qdenga-epar-product-information_sv.pdf)
 
-Íslenska (IS) (980.05 KB - PDF)
+Íslenska (IS) (589.76 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/is/documents/product-information/qdenga-epar-product-information_is.pdf)
 
-norsk (NO) (558.51 KB - PDF)
+norsk (NO) (472.42 KB - PDF)
 
-**First published:** 16/12/2022 **Last updated:** 27/05/2026
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/no/documents/product-information/qdenga-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000266281
+**Latest procedure affecting product information:** VR/0000343169
 
-23/07/2026
+03/09/2026
 
 icon globe
 
@@ -429,155 +429,155 @@ Product information documents contain:
 
 Qdenga : EPAR - All authorised presentations
 
-English (EN) (83.07 KB - PDF)
+English (EN) (46.88 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/en/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-822)
+[Other languages (24)](#file-language-dropdown-101)
 
-български (BG) (101.11 KB - PDF)
+български (BG) (49.42 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/bg/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (81.71 KB - PDF)
+español (ES) (41.58 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/es/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (65.61 KB - PDF)
+čeština (CS) (45.62 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/cs/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (84.14 KB - PDF)
+dansk (DA) (44.15 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/da/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (86.74 KB - PDF)
+Deutsch (DE) (45.82 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/de/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_de.pdf)
 
-eesti (ET) (81.99 KB - PDF)
+eesti (ET) (40.63 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/et/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (100.95 KB - PDF)
+ελληνικά (EL) (46.02 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/el/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (82.49 KB - PDF)
+français (FR) (42.48 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/fr/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (142.58 KB - PDF)
+hrvatski (HR) (52.31 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/hr/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_hr.pdf)
 
-italiano (IT) (93.3 KB - PDF)
+italiano (IT) (50.84 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/it/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_it.pdf)
 
-latviešu (LV) (126.59 KB - PDF)
+latviešu (LV) (44.25 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/lv/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių (LT) (131.07 KB - PDF)
+lietuvių (LT) (54.9 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/lt/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (101.01 KB - PDF)
+magyar (HU) (44.24 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/hu/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (104.32 KB - PDF)
+Malti (MT) (45.4 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/mt/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (82.46 KB - PDF)
+Nederlands (NL) (41.29 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/nl/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_nl.pdf)
 
-polski (PL) (131.53 KB - PDF)
+polski (PL) (45.62 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/pl/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (82.2 KB - PDF)
+português (PT) (42.54 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/pt/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (124.74 KB - PDF)
+română (RO) (42.35 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/ro/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (118.13 KB - PDF)
+slovenčina (SK) (45.23 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/sk/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (124.83 KB - PDF)
+slovenščina (SL) (42.01 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/sl/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_sl.pdf)
 
-suomi (FI) (108.25 KB - PDF)
+suomi (FI) (40.08 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/fi/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (82.57 KB - PDF)
+svenska (SV) (42.27 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/sv/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_sv.pdf)
 
-Íslenska (IS) (83.05 KB - PDF)
+Íslenska (IS) (43.8 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/is/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_is.pdf)
 
-norsk (NO) (122.22 KB - PDF)
+norsk (NO) (43.4 KB - PDF)
 
-**First published:** 16/12/2022
+**First published:** 16/12/2022 **Last updated:** 04/09/2026
 
 [View](/no/documents/all-authorised-presentations/qdenga-epar-all-authorised-presentations_no.pdf)
 
@@ -620,7 +620,7 @@ The use of Qdenga should be in accordance with official recommendations.
 - **Marketing authorisation issued**
     - 05/12/2022
 - **Revision**
-    - 8
+    - 9
 
 ## Assessment history
 
@@ -632,9 +632,9 @@ Collapse section
 
 Qdenga : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (179.69 KB - PDF)
+English (EN) (164.67 KB - PDF)
 
-**First published:** 30/01/2026 **Last updated:** 19/08/2026
+**First published:** 30/01/2026 **Last updated:** 04/09/2026
 
 [View](/en/documents/procedural-steps-after/qdenga-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -716,7 +716,7 @@ English (EN) (388.8 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/qdenga-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-337)
+[Other languages (24)](#file-language-dropdown-967)
 
 български (BG) (354.36 KB - DOCX)
 
@@ -869,6 +869,6 @@ norsk (NO) (445.3 KB - DOCX)
 
 **This page was last updated on**
 
-19/08/2026
+04/09/2026
 
 ## Share this page

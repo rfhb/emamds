@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-02 13:02:30
-document_pages: 81
+document_datetime: 2026-09-08 15:06:09
+document_pages: 80
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/suliqua-epar-product-information_en.pdf
 document_name: suliqua-epar-product-information_en.pdf
 version: success
-processing_time: 39.9972648
-conversion_datetime: 2026-07-04 14:39:12.169188
+processing_time: 22.059468
+conversion_datetime: 2026-09-11 17:34:53.404149
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -60,7 +60,7 @@ Clear colourless solution.
 
 ## 4.1 Therapeutic indications
 
-Suliqua is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus to improve glycaemic control as an adjunct to diet and exercise in addition to metformin with or without sodium-glucose co-transporter-2 (SGLT-2) inhibitors.
+Suliqua is indicated for the treatment of adults with insufficiently controlled type 2 diabetes to improve glycaemic control as an adjunct to diet and exercise in addition to metformin with or without sodium-glucose co-transporter-2 (SGLT-2) inhibitors.
 
 For study results with respect to effect on glycaemic control, and the populations studied, see section 4.4 and 5.1.
 
@@ -81,15 +81,14 @@ The dose must be individualised based on clinical response and is titrated based
 
 ## Starting dose
 
-Therapy with basal insulin or glucagon-like peptide-1 (GLP-1) receptor agonist or oral glucose lowering medicinal product other than metformin and SGLT-2 inhibitors should be discontinued prior to initiation of Suliqua.
+Therapy with basal insulin, premixed insulin or glucagon-like peptide-1 (GLP-1) receptor agonist or oral glucose lowering medicinal product other than metformin and SGLT-2 inhibitors should be discontinued prior to initiation of Suliqua.
 
 The starting dose of Suliqua is based on previous anti-diabetic treatment, and in order not to exceed the recommended lixisenatide starting dose of 10 mcg:
 
-|                       |                     | Previous therapy                                                                | Previous therapy                                   | Previous therapy                                   |
-|-----------------------|---------------------|---------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-|                       |                     | Insulin naïve patients (oral anti-diabetic treatment or GLP-1 receptor agonist) | Insulin glargine (100 units/ml)** ≥20 to <30 units | Insulin glargine (100 units/ml)** ≥30 to ≤60 units |
-| Starting dose and pen | Suliqua (10-40) pen | 10 dose steps (10 units/5 mcg)*                                                 | 20 dose steps (20 units/10 mcg)*                   |                                                    |
-|                       | Suliqua (30-60) pen |                                                                                 |                                                    | 30 dose steps (30 units/10 mcg)*                   |
+|                       |                     | Previous therapy - Insulin naïve patients (oral anti-diabetic treatment or GLP-1 receptor agonist)   | Previous therapy - Insulin glargine (100 units/ml)** ≥ 20 to <30 units   | Previous therapy - Insulin glargine (100 units/ml)** ≥ 30 to ≤ 60 units   |
+|-----------------------|---------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Starting dose and pen | Suliqua (10-40) pen | 10 dose steps (10 units/5 mcg)*                                                                      | 20 dose steps (20 units/10 mcg)*                                         |                                                                           |
+|                       | Suliqua (30-60) pen |                                                                                                      |                                                                          | 30 dose steps (30 units/10 mcg)*                                          |
 
 Patients on less than 20 units of insulin glargine may be considered similar to insulin naive patients.
 
@@ -98,6 +97,19 @@ Patients on less than 20 units of insulin glargine may be considered similar to 
 - For twice daily basal insulin or insulin glargine (300 units/ml), the total daily dose previously used should be reduced by 20% to choose the Suliqua starting dose.
 - For any other basal insulin, the same rule as for insulin glargine (100 units/ml) should be applied
 
+## If premixed insulin (30/70 or 25/75 ratios) was used:
+
+For once or twice daily premixed insulin dose, the previous full premixed insulin dose should be reduced by 20 % to choose the Suliqua starting dose while also adhering to the maximum allowed starting dose of lixisenatide (10 mcg) as follows.
+
+- Patients on less than 12 units of premixed insulin may be considered similar to insulin naive patients as per above table.
+- If previous full premixed insulin dose was 12 to &lt; 25 units/day, initiate Suliqua using a Suliqua (10-40) pen, at a 20% reduction of the previous full premixed insulin dose
+- If previous full premixed insulin dose was ≥25 to &lt;38 units/day, initiate Suliqua at 20 dose steps using a Suliqua (10-40) pen
+- If previous full premixed insulin dose was ≥38 units/day, initiate Suliqua at 30 dose steps using a Suliqua (30-60) pen
+
+<div style=\"page-break-after: always\"></div>
+
+Close glucose monitoring is recommended during the switch and in the initial weeks thereafter to reduce the risk of hypoglycaemia (see section 4.4).
+
 The maximum daily dose is 60 units insulin glargine and 20 mcg lixisenatide corresponding to 60 dose steps.
 
 Suliqua should be injected once a day within one hour prior to a meal. It is preferable that the prandial injection is performed before the same meal every day, when the most convenient meal has been chosen.
@@ -105,8 +117,6 @@ Suliqua should be injected once a day within one hour prior to a meal. It is pre
 ## Dose titration
 
 Suliqua is to be dosed in accordance with the individual patient's need for insulin. It is recommended to optimise glycaemic control via dose adjustment based on fasting plasma glucose (see section 5.1). Close glucose monitoring is recommended during the transfer and in the following weeks.
-
-<div style=\"page-break-after: always\"></div>
 
 - If the patient starts with the Suliqua (10-40) pen, the dose may be titrated up to 40 dose steps with this pen.
 - For doses &gt;40 dose steps/day titration must be continued with Suliqua (30-60) pen.
@@ -143,15 +153,15 @@ There is no relevant use of Suliqua in the paediatric population.
 
 ## Method of administration
 
+<div style=\"page-break-after: always\"></div>
+
 Suliqua is to be injected subcutaneously in the abdomen, deltoid, or thigh.
 
-The injection sites should be rotated within the same region (abdomen, deltoid, or thigh) from one injection to the next in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see section 4.4 and 4.8).
+The injection sites should be rotated within the same region (abdomen, deltoid, or thigh) from one injection to the next in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see section 4.4 and 4.8 ).
 
 Patients should be instructed to always use a new needle. The re-use of insulin pen needles increases the risk of blocked needles, which may cause under- or overdosing. In the event of blocked needles, patients must follow the instructions described in the Instructions for Use accompanying the package leaflet (see section 6.6).
 
 Suliqua must not be drawn from the cartridge of the pre-filled pen into a syringe to avoid dosing errors and potential overdose (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
@@ -163,9 +173,9 @@ Hypersensitivity to the active substances or to any of the excipients listed in 
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-## Type 1 diabetes mellitus
+## Type 1 diabetes
 
-Suliqua should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis.
+Suliqua should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis.
 
 ## Rotation of the injection site
 
@@ -173,20 +183,24 @@ Patients must be instructed to perform continuous rotation of the injection site
 
 ## Hypoglycaemia
 
-Hypoglycaemia was the most frequently reported observed adverse reaction during treatment with Suliqua (see section 4.8). Hypoglycaemia may occur if the dose of Suliqua is higher than required.
+Hypoglycaemia was the most frequently reported observed adverse reaction during treatment with Suliqua (see section 4.8) . Hypoglycaemia may occur if the dose of Suliqua is higher than required.
 
 Factors increasing the susceptibility to hypoglycaemia require particularly close monitoring and may necessitate dose adjustment. These factors include:
 
-- -change in the injection area
-- -improved insulin sensitivity (e.g., by removal of stress factors)
-- -unaccustomed, increased or prolonged physical activity
-- -intercurrent illness (e.g., vomiting, diarrhoea)
-- -inadequate food intake
-- -missed meals
-- -alcohol consumption
-- -certain uncompensated endocrine disorders, (e.g., in hypothyroidism and in anterior pituitary or adrenocortical insufficiency)
-- -concomitant treatment with certain other medicinal products (see section 4.5).
-- -lixisenatide and/or insulin in combination with a sulfonylurea may result in an increased risk of hypoglycaemia. Therefore, Suliqua should not be given in combination with a sulfonylurea.
+- change in the injection area
+- improved insulin sensitivity (e.g., by removal of stress factors)
+- unaccustomed, increased or prolonged physical activity
+- intercurrent illness (e.g., vomiting, diarrhoea)
+- inadequate food intake
+- missed meals
+- alcohol consumption
+- certain uncompensated endocrine disorders, (e.g., in hypothyroidism and in anterior pituitary or adrenocortical insufficiency)
+- concomitant treatment with certain other medicinal products (see section 4.5).
+
+<div style=\"page-break-after: always\"></div>
+
+- Suliqua dose increase in patients with already adequate or tight glucose control
+- lixisenatide and/or insulin in combination with a sulfonylurea may result in an increased risk of hypoglycaemia. Therefore, Suliqua should not be given in combination with a sulfonylurea.
 
 The dose of Suliqua must be individualised based on clinical response and is titrated based on the patient's need for insulin (see section 4.2).
 
@@ -194,11 +208,9 @@ The dose of Suliqua must be individualised based on clinical response and is tit
 
 Use of GLP-1 receptor agonists has been associated with a risk of developing acute pancreatitis. There have been few reported events of acute pancreatitis with lixisenatide although a causal relationship has not been established. Patients should be informed of the characteristic symptoms of acute pancreatitis: persistent, severe abdominal pain. If pancreatitis is suspected, Suliqua should be discontinued; if acute pancreatitis is confirmed, lixisenatide should not be restarted. Caution should be exercised in patients with a history of pancreatitis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Severe gastrointestinal disease
 
-Use of GLP-1 receptor agonists may be associated with gastrointestinal adverse reactions (see section 4.8). Suliqua has not been studied in patients with severe gastrointestinal disease, including severe gastroparesis and therefore, the use of Suliqua is not recommended in these patients.
+Use of GLP-1 receptor agonists may be associated with gastrointestinal adverse reactions (see section 4.8) . Suliqua has not been studied in patients with severe gastrointestinal disease, including severe gastroparesis and therefore, the use of Suliqua is not recommended in these patients.
 
 ## Severe renal impairment
 
@@ -208,7 +220,7 @@ There is no therapeutic experience in patients with severe renal impairment (cre
 
 The delay of gastric emptying with lixisenatide may reduce the rate of absorption of orally administered medicinal products. Suliqua should be used with caution in patients receiving oral medicinal products that require rapid gastrointestinal absorption, require careful clinical monitoring or have a narrow therapeutic ratio. Specific recommendations regarding intake of such medicinal products are given in section 4.5.
 
-## Aspiration in association with general anaesthesia or deep sedation
+Aspiration in association with general anaesthesia or deep sedation
 
 Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation. Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
 
@@ -219,6 +231,8 @@ Patients treated with Suliqua should be advised of the potential risk of dehydra
 ## Antibody formation
 
 Administration of Suliqua may cause formation of antibodies against insulin glargine and/or lixisenatide. In rare cases, the presence of such antibodies may necessitate adjustment of the Suliqua dose in order to correct a tendency for hyperglycaemia or hypoglycaemia.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Avoidance of medication errors
 
@@ -233,8 +247,6 @@ Suliqua has not been studied in combination with dipeptidyl peptidase-4 (DPP-4) 
 ## Travel
 
 To avoid dosing errors and potential overdoses with changing to different time zones, the patient should seek the doctor's advice before travelling.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Excipients
 
@@ -262,6 +274,8 @@ In addition, under the influence of sympatholytic medicinal products such as bet
 
 Lixisenatide is a peptide and is not metabolised by cytochrome P450. In in vitro studies, lixisenatide did not affect the activity of cytochrome P450 isozymes or human transporters tested. No pharmacokinetic interactions are known for insulin glargine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect of gastric emptying on oral medicinal products
 
 The delay of gastric emptying with lixisenatide may reduce the rate of absorption of orally administered medicinal products. Patients receiving medicinal products of either a narrow therapeutic ratio or medicinal products that require careful clinical monitoring should be followed closely, especially at the time of initiation of lixisenatide treatment. These medicinal products should be taken in a standardised way in relation to lixisenatide. If such medicinal products are to be administered with food, patients should be advised to, if possible, take them with a meal when lixisenatide is not administered.
@@ -269,8 +283,6 @@ The delay of gastric emptying with lixisenatide may reduce the rate of absorptio
 For oral medicinal products that are particularly dependent on threshold concentrations for efficacy, such as antibiotics, patients should be advised to take those medicinal products at least 1 hour before or 4 hours after lixisenatide injection.
 
 Gastro-resistant formulations containing substances sensitive to stomach degradation, should be administered 1 hour before or 4 hours after lixisenatide injection.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paracetamol
 
@@ -296,6 +308,8 @@ No such increase for tmax was observed when atorvastatin was administered in the
 
 These changes are not clinically relevant and, therefore, no dose adjustment for atorvastatin is required when co-administered with lixisenatide.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warfarin and other coumarin derivatives
 
 After concomitant administration of warfarin 25 mg with repeated dosing of lixisenatide 20 mcg, there were no effects on AUC or INR (International Normalised Ratio) while Cmax was reduced by 19% and tmax was delayed by 7 hours.
@@ -307,8 +321,6 @@ Based on these results, no dose adjustment for warfarin is required when co-admi
 After concomitant administration of lixisenatide 20 mcg and digoxin 0.25 mg at steady state, the AUC of digoxin was not affected. The tmax of digoxin was delayed by 1.5 hour and the Cmax was reduced by 26%.
 
 Based on these results, no dose adjustment for digoxin is required when co-administered with lixisenatide.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ramipril
 
@@ -326,7 +338,7 @@ Suliqua is not recommended in women of childbearing potential not using contrace
 
 There is no clinical data on exposed pregnancies from controlled clinical studies with use of Suliqua, insulin glargine, or lixisenatide.
 
-A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) with insulin glargine indicate no malformative nor feto/neonatal toxicity of insulin glargine. Animal data do not indicate reproductive toxicity with insulin glargine.
+A large amount of data on pregnant women (more than 1 000 pregnancy outcomes) with insulin glargine indicate no malformative nor feto/neonatal toxicity of insulin glargine. Animal data do not indicate reproductive toxicity with insulin glargine.
 
 There are no or limited amount of data from the use of lixisenatide in pregnant women. Studies with lixisenatide in animals have shown reproductive toxicity (see section 5.3).
 
@@ -340,6 +352,8 @@ It is unknown whether insulin glargine or lixisenatide are excreted in human mil
 
 Animal studies with lixisenatide or insulin glargine do not indicate direct harmful effects with respect to fertility.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 Suliqua has no or negligible influence on the ability to drive or use machines. However, the patient's ability to concentrate and react may be impaired as a result of hypoglycaemia or hyperglycaemia or, for example, as a result of visual impairment. This may constitute a risk in situations where these abilities are of special importance (e.g., driving a car or using machines).
@@ -352,25 +366,24 @@ Patients should be advised to take precautions to avoid hypoglycaemia while driv
 
 The most frequently reported adverse reactions during treatment with Suliqua were hypoglycaemia and gastrointestinal adverse reactions (see section 'Description of selected adverse reactions' below).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
 The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing frequency (very common: ≥1/10; common: ≥1/100 to &lt;1/10; uncommon: ≥1/1 000 to &lt;1/100; rare: ≥1/10 000 to &lt;1/1 000; very rare: &lt;1/10 000; not known: cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: Adverse drug reactions reported
 
-| System organ class                                   | Frequency     | Frequency                 | Frequency                                         | Frequency                | Frequency                           |
-|------------------------------------------------------|---------------|---------------------------|---------------------------------------------------|--------------------------|-------------------------------------|
-|                                                      | Very common   | Common                    | Uncommon                                          | Rare                     | Not Known                           |
-| Infections and infestations                          |               |                           | Nasopharyngitis Upper respiratory tract infection |                          |                                     |
-| Immune system disorders                              |               |                           | Urticaria                                         |                          |                                     |
-| Metabolism and nutrition disorders                   | Hypoglycaemia |                           |                                                   |                          |                                     |
-| Nervous system disorders                             |               | Dizziness                 | Headache Dysgeusia                                |                          |                                     |
-| Gastrointestinal disorders                           |               | Nausea Diarrhoea Vomiting | Dyspepsia Abdominal pain                          | Delayed gastric emptying |                                     |
-| Hepatobiliary disorders                              |               |                           | Cholelithiasis Cholecystitis                      |                          |                                     |
-| Skin and subcutaneous tissue disorders               |               |                           |                                                   |                          | Cutaneous amyloidosis Lipodystrophy |
-| General disorders and administration site conditions |               | Injection site reactions  | Fatigue                                           |                          |                                     |
+| System organ class                                   | Frequency - Very common   | Frequency - Common        | Frequency - Uncommon                              | Frequency - Rare         | Frequency - Not Known               |
+|------------------------------------------------------|---------------------------|---------------------------|---------------------------------------------------|--------------------------|-------------------------------------|
+| Infections and infestations                          |                           |                           | Nasopharyngitis Upper respiratory tract infection |                          |                                     |
+| Immune system disorders                              |                           |                           | Urticaria                                         |                          |                                     |
+| Metabolism and nutrition disorders                   | Hypoglycaemia             |                           |                                                   |                          |                                     |
+| Nervous system disorders                             |                           | Dizziness                 | Headache Dysgeusia                                |                          |                                     |
+| Gastrointestinal disorders                           |                           | Nausea Diarrhoea Vomiting | Dyspepsia Abdominal pain                          | Delayed gastric emptying |                                     |
+| Hepatobiliary disorders                              |                           |                           | Cholelithiasis Cholecystitis                      |                          |                                     |
+| Skin and subcutaneous tissue disorders               |                           |                           |                                                   |                          | Cutaneous amyloidosis Lipodystrophy |
+| General disorders and administration site conditions |                           | Injection site reactions  | Fatigue                                           |                          |                                     |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
@@ -378,28 +391,26 @@ Table 1: Adverse drug reactions reported
 
 The following table describes the rate of documented symptomatic hypoglycaemia (≤ 3.9 mmol/L) and severe hypoglycaemia for both Suliqua and the comparator***.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 2: Documented symptomatic or severe hypoglycaemic adverse reactions
 
-|                                       | Insulin naïve patients   | Insulin naïve patients   | Insulin naïve patients   | Switch from basal insulin   | Switch from basal insulin   | Switch from GLP-1 receptor agonist***   | Switch from GLP-1 receptor agonist***   |
-|---------------------------------------|--------------------------|--------------------------|--------------------------|-----------------------------|-----------------------------|-----------------------------------------|-----------------------------------------|
-|                                       | Suliqua                  | Insulin glargine         | Lixisenatide             | Suliqua                     | Insulin glargine            | Suliqua                                 | GLP-1 receptor agonist***               |
-| N                                     | 469                      | 467                      | 233                      | 365                         | 365                         | 255                                     | 256                                     |
-| Documented symptomatic hypoglycaemia* |                          |                          |                          |                             |                             |                                         |                                         |
-| Patients with event,                  | 120                      | 110                      | 15                       | 146                         | 155                         | 71                                      | 6                                       |
-| n (%)                                 | (25.6%)                  | (23.6%)                  | (6.4%)                   | (40.0%)                     | (42.5%)                     | (27.8%)                                 | (2.3%)                                  |
-| Events per patient- year, n           | 1.44                     | 1.22                     | 0.34                     | 3.03                        | 4.22                        | 1.54                                    | 0.08                                    |
-| Severe hypoglycaemia**                |                          |                          |                          |                             |                             |                                         |                                         |
-| Events per patient- year, n           | 0                        | <0.01                    | 0                        | 0.02                        | <0.01                       | <0.01                                   | 0                                       |
+|                                       | Insulin naïve patients - Suliqua   | Insulin naïve patients - Insulin glargine   | Insulin naïve patients - Lixisenatide   | Switch from basal insulin - Suliqua   | Switch from basal insulin - Insulin glargine   | Switch from GLP-1 receptor agonist*** - Suliqua   | Switch from GLP-1 receptor agonist*** - GLP-1 receptor agonist***   |
+|---------------------------------------|------------------------------------|---------------------------------------------|-----------------------------------------|---------------------------------------|------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------------|
+| N                                     | 469                                | 467                                         | 233                                     | 365                                   | 365                                            | 255                                               | 256                                                                 |
+| Documented symptomatic hypoglycaemia* |                                    |                                             |                                         |                                       |                                                |                                                   |                                                                     |
+| Patients with event,                  | 120 (25.6%)                        | 110 (23.6%)                                 | 15                                      | 146 (40.0%)                           | 155 (42.5%)                                    | 71 (27.8%)                                        | 6 (2.3%)                                                            |
+| n (%) Events per patient- year,       | 1.44                               | 1.22                                        | (6.4%) 0.34                             | 3.03                                  | 4.22                                           | 1.54                                              | 0.08                                                                |
+| n Severe hypoglycaemia**              |                                    |                                             |                                         |                                       |                                                |                                                   |                                                                     |
+| Events per patient- year, n           | 0                                  | <0.01                                       | 0                                       | 0.02                                  | <0.01                                          | <0.01                                             | 0                                                                   |
 
-* Documented symptomatic hypoglycaemia was an event during which typical symptoms of hypoglycaemia were accompanied by a measured plasma glucose concentration of ≤3.9 mmol/L. ** Severe symptomatic hypoglycaemia was an event requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions.
+* Documented symptomatic hypoglycaemia was an event during which typical symptoms of hypoglyca emia were accompanied by a measured plasma glucose concentration of ≤3. 9 mmol/L.
+
+** Severe symptomatic hypoglycaemia was an event requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions.
 
 *** Liraglutide, exenatide BID (twice in a day) or extended release, dulaglutide or albiglutide
 
 ## Gastrointestinal disorders
 
-Gastrointestinal adverse reactions (nausea, vomiting and diarrhoea) were frequently reported adverse reactions during the treatment period. In patients treated with Suliqua, the incidence of related nausea, diarrhoea and vomiting was 8.4%, 2.2% and 2.2%, respectively. Gastrointestinal adverse reactions were mostly mild and transient in nature.
+Gastrointestinal adverse reactions (nausea, vomiting and diarrhoea) were frequently reported adverse reactions during the treatment period. In patients treated with Suliqua, the incidence of related nausea, diarrhoea and vomiting was 8.4%, 2.2 % and 2.2%, respectively. Gastrointestinal adverse reactions were mostly mild and transient in nature.
 
 ## Immune system disorders
 
@@ -411,11 +422,11 @@ Administration of Suliqua may cause formation of antibodies against insulin glar
 
 The incidence of formation of anti-insulin glargine antibodies was 21% and 26.2%. In approximately 93% of the patients, anti-insulin glargine antibodies showed cross-reactivity to human insulin. The incidence of formation of anti-lixisenatide antibodies was approximately 43%. Neither status for antiinsulin glargine antibodies nor for anti-lixisenatide antibodies had a clinically relevant impact on safety or efficacy.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Skin and subcutaneous tissue disorders
 
 Lipodystrophy and cutaneous amyloidosis may occur at the injection site of insulins and delay local insulin absorption. Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Injection site reactions
 
@@ -451,13 +462,13 @@ Suliqua combines two active substances with complementary mechanisms of action t
 
 The primary activity of insulin, including insulin glargine, is regulation of glucose metabolism. Insulin and its analogues lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production. Insulin inhibits lipolysis and proteolysis and enhances protein synthesis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Lixisenatide
 
 Lixisenatide is a GLP-1 receptor agonist. The GLP-1 receptor is the target for native GLP-1, an endogenous incretin hormone that potentiates glucose-dependent insulin secretion from beta cells and suppresses glucagon from alpha cells in the pancreas.
 
-Lixisenatide stimulates insulin secretion when blood glucose is increased but not at normoglycaemia, which limits the risk of hypoglycaemia. In parallel, glucagon secretion is suppressed. In case of hypoglycaemia, the rescue mechanism of glucagon secretion is preserved. A preprandial injection of Lixisenatide also slows gastric emptying thereby reducing the rate at which meal-derived glucose is absorbed and appears in the circulation.
-
-<div style=\"page-break-after: always\"></div>
+Lixisenatide stimulates insulin secretion when blood glucose is increased but not at normoglycaemia, which limits the risk of hypoglycaemia. In parallel, glucagon secretion is suppressed. In case of hypoglycaemia, the rescue mechanism of glucagon secretion is preserved. A pre-prandial injection of Lixisenatide also slows gastric emptying thereby reducing the rate at which meal-derived glucose is absorbed and appears in the circulation.
 
 ## Pharmacodynamic effects
 
@@ -475,7 +486,7 @@ In clinical studies with insulin glargine (100 units/ml) the glucose-lowering ef
 
 ## Lixisenatide
 
-In a 28-day placebo-controlled study in patients with type 2 diabetes 5 to 20 mcg lixisenatide resulted in a statistically significant decreases in postprandial blood glucose after breakfast, lunch and dinner.
+In a 28 -day placebo-controlled study in patients with type 2 diabetes 5 to 20 mcg lixisenatide resulted in a statistically significant decreases in postprandial blood glucose after breakfast, lunch and dinner.
 
 ## Gastric emptying
 
@@ -483,7 +494,7 @@ Following a standardised labelled test meal, in the study referred to above, it 
 
 ## Clinical efficacy and safety
 
-The safety and effectiveness of Suliqua on glycaemic control were evaluated in three randomised clinical studies in patients with type 2 diabetes mellitus:
+The safety and effectiveness of Suliqua on glycaemic control were evaluated in three randomised clinical studies in patients with type 2 diabetes:
 
 - Add-on to metformin [insulin naïve]
 - Switch from basal insulin
@@ -491,75 +502,75 @@ The safety and effectiveness of Suliqua on glycaemic control were evaluated in t
 
 In each of the active-controlled clinical studies, treatment with Suliqua produced clinically and statistically significant improvements in haemoglobin A1c (HbA1c).
 
-Reaching lower HbA1c levels and achieving greater HbA1c reduction did not increase rates of hypoglycaemia with combination treatment versus insulin glargine alone (see section 4.8).
+Reaching lower HbA1c levels and achieving greater HbA1c reduction did not increase rates of hypoglycaemia with combination treatment versus insulin glargine alone (see section 4.8 ).
 
 In the Add-on to metformin clinical study the treatment was started at 10 dose steps (10 units insulin glargine and 5 mcg lixisenatide). In the switch from basal insulin clinical study the starting dose was 20 dose steps (20 units insulin glargine and 10 mcg lixisenatide) or 30 dose steps, (30 units insulin glargine and 10 mcg lixisenatide), see section 4.2, depending on the previous insulin dose. In both studies the dose was titrated once weekly, based on fasting self-measured plasma glucose values.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Add-on to metformin [insulin naïve]
 
-## Clinical study in patients with Type 2 diabetes insufficiently controlled on an oral anti-diabetic (OAD) treatment
+Clinical study in patients with Type 2 diabetes insufficiently controlled on an oral anti-diabetic (OAD) treatment
 
 A total of 1170 patients with type 2 diabetes were randomised in an open label, 30-week, activecontrolled study to evaluate the efficacy and safety of Suliqua compared to the individual components, insulin glargine (100 units/ml) and lixisenatide (20 mcg).
 
-<div style=\"page-break-after: always\"></div>
+Patients with type 2 diabetes, treated with metformin alone or metformin and a second OAD treatment that could be a sulfonylurea or a glinide or a SGLT-2 inhibitor or a dipeptidyl peptidase-4 (DPP-4) inhibitor, and who were not adequately controlled with this treatment (HbA1c range 7.5% to 10% for patients previously treated with metformin alone and 7% to 9% for patients previously treated with metformin and a second oral anti-diabetic treatment) entered a run-in period for 4 weeks. During this run-in phase metformin treatment was optimised and any other OADs were discontinued. At the end of the run-in period, patients who remained inadequately controlled (HbA1c between 7% and 10%) were randomised to either Suliqua, insulin glargine or lixisenatide. Of the 1479 patients who started the run-in phase, 1170 were randomised. The main reasons for not entering the randomised phase were FPG value &gt;13.9 mmol/L and HbA1c value &lt;7% or &gt;10% at the end of the run -in phase
 
-Patients with type 2 diabetes, treated with metformin alone or metformin and a second OAD treatment that could be a sulfonylurea or a glinide or a SGLT-2 inhibitor or a dipeptidyl peptidase-4 (DPP-4) inhibitor, and who were not adequately controlled with this treatment (HbA1c range 7.5% to 10% for patients previously treated with metformin alone and 7% to 9% for patients previously treated with metformin and a second oral anti-diabetic treatment) entered a run-in period for 4 weeks. During this run-in phase metformin treatment was optimised and any other OADs were discontinued. At the end of the run-in period, patients who remained inadequately controlled (HbA1c between 7% and 10%) were randomised to either Suliqua, insulin glargine or lixisenatide. Of the 1479 patients who started the run-in phase, 1170 were randomised. The main reasons for not entering the randomised phase were FPG value &gt;13.9 mmol/L and HbA1c value &lt;7% or &gt;10% at the end of the run-in phase
+The randomised type 2 diabetes population had the following characteristics: Mean age was 58. 4 years with the majority (57.1%) being aged of 50 to 64 years, and 50.6 percent were male. The mean BMI at baseline was 31.7 kg/m 2 with 63.4% of patients having a BMI ≥30 kg/m 2 . The mean duration of diabetes was approximately 9 years. Metformin was a mandatory background therapy and 58% of patients received a second OAD at screening, being a sulfonylurea in 54% of patients.
 
-The randomised type 2 diabetes population had the following characteristics: Mean age was 58.4 years with the majority (57.1%) being aged of 50 to 64 years, and 50.6 percent were male. The mean BMI at baseline was 31.7 kg/m 2 with 63.4% of patients having a BMI ≥30 kg/m 2 . The mean duration of diabetes was approximately 9 years. Metformin was a mandatory background therapy and 58% of patients received a second OAD at screening, being a sulfonylurea in 54% of patients.
-
-At week 30, Suliqua provided statistically significant improvement in HbA1c (p-value &lt;0.0001) compared to the individual components. In a pre-specified analysis of this primary endpoint, the differences observed were consistent with regard to baseline HbA1c (&lt;8% or ≥8%) or baseline OAD use (metformin alone or metformin plus second OAD).
+At week 30, Suliqua provided statistically significant improvement in HbA1c (pvalue &lt;0.0001) compared to the individual components. In a pre-specified analysis of this primary endpoint, the differences observed were consistent with regard to baseline HbA1c (&lt;8% or ≥8%) or baseline OAD use (metformin alone or metformin plus second OAD).
 
 See table and figure below for the other endpoints in the study.
 
 Table 3: Results at 30 weeks - Add-on to metformin clinical study (mITT population)
 
-|                                                                              | Suliqua   | Insulin glargine                 | Lixisenatide                       |
-|------------------------------------------------------------------------------|-----------|----------------------------------|------------------------------------|
-| Number of subjects (mITT)                                                    | 468       | 466                              | 233                                |
-| HbA1c (%)                                                                    |           |                                  |                                    |
-| Baseline (mean; post run-in phase)                                           | 8.1       | 8.1                              | 8.1                                |
-| End of study (mean)                                                          | 6.5       | 6.8                              | 7.3                                |
-| LS change from baseline (mean)                                               | -1.6      | -1.3                             | -0.9                               |
-| Difference vs. insulin glargine [95% confidence interval] (p-value)          |           | -0.3 [-0.4, -0.2] (<0.0001)      |                                    |
-| Difference vs. lixisenatide [95% confidence interval] (p-value)              |           |                                  | -0.8 [-0.9, -0.7] (<0.0001)        |
-| Number of patients (%) reaching HbA1c <7% at week 30*                        | 345 (74%) | 277 (59%)                        | 77 (33%)                           |
-| Fasting plasma glucose (mmol/L)                                              |           |                                  |                                    |
-| Baseline (mean)                                                              | 9.88      | 9.75                             | 9.79                               |
-| End of study (mean)                                                          | 6.32      | 6.53                             | 8.27                               |
-| LS change from baseline (mean)                                               | -3.46     | -3.27                            | -1.50                              |
-| LS difference versus glargine (mean) [95% confidence interval] (p-value)     |           | -0.19 [-0.420 to 0.038] (0.1017) |                                    |
-| LS difference versus lixisenatide (mean) [95% confidence interval] (p-value) |           |                                  | -1.96 [-2.246 to -1.682] (<0.0001) |
-| 2 hour PPG (mmol/L)**                                                        |           |                                  |                                    |
+|                                                                     | Suliqua   | Insulin glargine            | Lixisenatide                  |
+|---------------------------------------------------------------------|-----------|-----------------------------|-------------------------------|
+| Number of subjects (mITT)                                           | 468       | 466                         | 233                           |
+| HbA1c (%)                                                           |           |                             |                               |
+| Baseline (mean; post run-in phase)                                  | 8.1       | 8.1                         | 8.1                           |
+| End of study (mean)                                                 | 6.5       | 6.8                         | 7.3                           |
+| LS change from baseline (mean)                                      | -1.6      | -1.3                        | -0.9                          |
+| Difference vs. insulin glargine [95% confidence interval] (p-value) |           | -0.3 [-0.4, -0.2] (<0.0001) |                               |
+| Difference vs. lixisenatide [95% confidence interval] (p-value)     |           |                             | - 0.8 [-0.9, -0.7] (<0.00 01) |
+| Number of patients (%) reaching HbA1c <7% at week 30 *              | 345 (74%) | 277 (59%)                   | 77 (33%)                      |
+| Fasting plasma glucose (mmol/L)                                     |           |                             |                               |
+| Baseline (mean)                                                     | 9.88      | 9.75                        | 9.79                          |
+| End of study (mean)                                                 | 6.32      | 6.53                        | 8.27                          |
+| LS change from baseline (mean)                                      | -3.46     | -3.27                       | -1.50                         |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                | Suliqua     | Insulin glargine              | Lixisenatide           |
-|--------------------------------------------------------------------------------|-------------|-------------------------------|------------------------|
-| Baseline (mean)                                                                | 15.19       | 14.61                         | 14.72                  |
-| End of study (mean)                                                            | 9.15        | 11.35                         | 9.99                   |
-| LS change from baseline                                                        | -5.68       | -3.31                         | -4.58                  |
-| LS difference versus glargine (mean) [95% confidence interval]                 |             | -2.38 (-2.79 to -1.96)        |                        |
-| LS difference versus lixisenatide (mean) [95% confidence interval]             |             |                               | -1.10 (-1.63 to -0.57) |
-| Mean body weight (kg)                                                          |             |                               |                        |
-| Baseline (mean)                                                                | 89.4        | 89.8                          | 90.8                   |
-| LS change from baseline (mean)                                                 | -0.3        | 1.1                           | -2.3                   |
-| Comparison versus insulin glargine [95% confidence interval] (p-value)         |             | -1.4 [-1.9 to -0.9] (<0.0001) |                        |
-| Comparison versus lixisenatide [95% confidence interval]*                      |             |                               | 2.01 [1.4 to 2.6]      |
-| Number (%) of patients achieving HbA1c <7% with no body weight gain at week 30 | 202 (43.2%) | 117 (25.1%)                   | 65 (27.9%)             |
-| Proportion difference vs. insulin glargine [95% confidence interval] (p-value) |             | 18.1 [12.2 to 24.0] (<0.0001) |                        |
-| Proportion difference vs. lixisenatide [95% confidence interval]*              |             |                               | 15.2 [8.1 to 22.4]     |
-| Insulin glargine daily dose                                                    |             |                               |                        |
-| LS insulin dose at week 30 (mean)                                              | 39.8        | 40.5                          | NA                     |
+|                                                                                | Suliqua     | Insulin glargine                  | Lixisenatide                        |
+|--------------------------------------------------------------------------------|-------------|-----------------------------------|-------------------------------------|
+| LS difference versus glargine (mean) [95% confidence interval] (p-value)       |             | -0.19 [- 0.420 to 0.038] (0.1017) |                                     |
+| LS difference versus lixisenatide (mean) [95% confidence interval] (p-value)   |             |                                   | -1.96 [-2.246 to - 1.682] (<0.0001) |
+| 2 hour PPG (mmol/L)**                                                          |             |                                   |                                     |
+| Baseline (mean)                                                                | 15.19       | 14.61                             | 14.72                               |
+| End of study (mean)                                                            | 9.15        | 11.35                             | 9.99                                |
+| LS change from baseline                                                        | - 5.68      | -3.31                             | - 4.58                              |
+| LS difference versus glargine (mean) [95% confidence interval]                 |             | - 2.38 (-2.79 to -1.96)           |                                     |
+| LS difference versus lixisenatide (mean) [95% confidence interval]             |             |                                   | -1.10 (-1.63 to -0.57)              |
+| Mean body weight (kg)                                                          |             |                                   |                                     |
+| Baseline (mean)                                                                | 89.4        | 89.8                              | 90.8                                |
+| LS change from baseline (mean)                                                 | -0.3        | 1.1                               | -2.3                                |
+| Comparison versus insulin glargine [95% confidence interval] (p-value)         |             | -1.4 [-1.9 to -0.9] (<0.0001)     |                                     |
+| Comparison versus lixisenatide [95% confidence interval]*                      |             |                                   | 2.01 [1.4 to 2.6]                   |
+| Number (%) of patients achieving HbA1c <7% with no body weight gain at week 30 | 202 (43.2%) | 117 (25.1%)                       | 65 (27.9%)                          |
+| Proportion difference vs. insulin glargine [95% confidence interval] (p-value) |             | 18.1 [12.2 to 24.0] (<0.0001)     |                                     |
+| Proportion difference vs. lixisenatide [95% confidence interval]*              |             |                                   | 15.2 [8.1 to 22.4]                  |
+| Insulin glargine daily dose                                                    |             |                                   |                                     |
+| LS insulin dose at week 30 (mean)                                              | 39.8        | 40.5                              | NA                                  |
+
+*Not included in the pre-specified step-down testing procedure
+
+**2 hour PPG minus the pre-meal glucose value Patients in the Suliqua group reported a statistically significantly greater decrease in the average 7-point self-monitored plasma glucose (SMPG) profile from baseline to Week 30 (-3.35 mmol/L) compared to patients in the insulin glargine group (-2.66 mmol/L; difference -0.69 mmol/L) and patients in the lixisenatide group (-1.95 mmol/L; difference -1.40 mmol/L ) (p&lt;0.0001 for both comparisons). At all time points, 30-week mean plasma glucose values were lower in the Suliqua group than in both the insulin glargine group and the lixisenatide group, with the only exception of the pre-breakfast value which was similar between the Suliqua group and the insulin glargine group.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 1: Mean HbA1c (%) by visit during 30-week randomised treatment period - mITT population
 
 <!-- image -->
-
-Patients in the Suliqua group reported a statistically significantly greater decrease in the average 7-point self-monitored plasma glucose (SMPG) profile from baseline to Week 30 (-3.35 mmol/L)
-
-<div style=\"page-break-after: always\"></div>
-
-compared to patients in the insulin glargine group (-2.66 mmol/L; difference -0.69 mmol/L) and patients in the lixisenatide group (-1.95 mmol/L; difference -1.40 mmol/L) (p&lt;0.0001 for both comparisons). At all time points, 30-week mean plasma glucose values were lower in the Suliqua group than in both the insulin glargine group and the lixisenatide group, with the only exception of the pre-breakfast value which was similar between the Suliqua group and the insulin glargine group.
 
 ## Switch from basal insulin
 
@@ -569,11 +580,11 @@ Patients screened had type 2 diabetes were treated with basal insulin for at lea
 
 After screening, eligible patients (n=1018) entered a 6 week run-in phase where patients remained on or switched to insulin glargine, in case they took another basal insulin, and had their insulin dose titrated/stabilised while continuing metformin (if previously taken). Any other OADs were discontinued.
 
-At the end of the run-in period, patients with an HbA1c between 7 and 10%, FPG ≤7.77 mmol/L and insulin glargine daily dose of 20 to 50 units, were randomised to either Suliqua (n=367) or insulin glargine (n=369).
+At the end of the run-in period, patients with an HbA1c between 7 and 10%, FPG ≤ 7.77 mmol/L and insulin glargine daily dose of 20 to 50 units, were randomised to either Suliqua (n=367) or insulin glargine (n=369).
 
 This type 2 diabetes population had the following characteristics: mean age was 60.0 years with the majority (56.3%) being aged of 50 to 64 years, and 53.3 percent were female. The mean BMI at baseline was 31.1 kg/m 2 with 57.3% of patients having a BMI ≥30 kg/m 2 . The mean diabetes duration was approximately 12 years and the mean duration of previous basal insulin treatment was approximately 3 years. At screening 64.4% of patients were receiving insulin glargine as basal insulin and 95% received at least 1 concomitant OAD.
 
-At week 30, Suliqua provided statistically significant improvement in HbA1c (p-value &lt;0.0001) compared to insulin glargine.
+At week 30, Suliqua provided statistically significant improvement in HbA1c (pvalue &lt;0.0001) compared to insulin glargine.
 
 See table and figure below for the other endpoints in the study.
 
@@ -581,35 +592,35 @@ See table and figure below for the other endpoints in the study.
 
 Table 4: Results at 30 weeks - Study Type 2 diabetes uncontrolled on basal insulin mITT population
 
-|                                                                                   | Suliqua                       | Insulin glargine              |
-|-----------------------------------------------------------------------------------|-------------------------------|-------------------------------|
-| Number of subjects (mITT)                                                         | 366                           | 365                           |
-| HbA1c (%)                                                                         |                               |                               |
-| Baseline (mean; post run-in phase)                                                | 8.1                           | 8.1                           |
-| End of treatment (mean)                                                           | 6.9                           | 7.5                           |
-| LS change from baseline (mean)                                                    | -1.1                          | -0.6                          |
-| Difference versus insulin glargine [95% confidence interval] (p-value)            | -0.5 [-0.6, -0.4] (<0.0001)   | -0.5 [-0.6, -0.4] (<0.0001)   |
-| Patients [n (%)] reaching HbA1c <7% at week 30*                                   | 201 (54.9%)                   | 108 (29.6%)                   |
-| Fasting plasma glucose (mmol/L)                                                   |                               |                               |
-| Baseline (mean)                                                                   | 7.33                          | 7.32                          |
-| End of study (mean)                                                               | 6.78                          | 6.69                          |
-| LS change from baseline (mean)                                                    | -0.35                         | -0.46                         |
-| Difference versus insulin glargine [95% confidence interval]                      | 0.11 (-0.21 to 0.43)          | 0.11 (-0.21 to 0.43)          |
-| 2 hour PPG (mmol/L)**                                                             |                               |                               |
-| Baseline (mean)                                                                   | 14.85                         | 14.97                         |
-| End of study (mean)                                                               | 9.91                          | 13.41                         |
-| LS change from baseline (mean)                                                    | -4.72                         | -1.39                         |
-| LS difference versus glargine (mean) [95% confidence interval]                    | -3.33 (-3.89 to -2.77)        | -3.33 (-3.89 to -2.77)        |
-| Mean body weight (kg)                                                             |                               |                               |
-| Baseline (mean)                                                                   | 87.8                          | 87.1                          |
-| LS change from baseline (mean)                                                    | -0.7                          | 0.7                           |
-| Comparison versus insulin glargine [95% confidence interval] (p-value)            | -1.4 [-1.8 to -0.9] (<0.0001) | -1.4 [-1.8 to -0.9] (<0.0001) |
-| Number (%) of patients achieving HbA1c< 7% with no body weight gain at week 30    | 125 (34.2%)                   | 49 (13.4%)                    |
-| Proportion difference versus insulin glargine [95% confidence interval] (p-value) | 20.8 [15.0 to 26.7] (<0.0001) | 20.8 [15.0 to 26.7] (<0.0001) |
-| Insulin glargine daily dose                                                       |                               |                               |
-| Baseline (mean)                                                                   | 35.0                          | 35.2                          |
-| Endpoint (mean)                                                                   | 46.7                          | 46.7                          |
-| LS insulin dose change at week 30 (mean)                                          | 10.6                          | 10.9                          |
+|                                                                                   | Suliqua                        | Insulin glargine               |
+|-----------------------------------------------------------------------------------|--------------------------------|--------------------------------|
+| Number of subjects (mITT)                                                         | 366                            | 365                            |
+| HbA1c (%)                                                                         |                                |                                |
+| Baseline (mean; post run-in phase)                                                | 8.1                            | 8.1                            |
+| End of treatment (mean)                                                           | 6.9                            | 7.5                            |
+| LS change from baseline (mean)                                                    | -1.1                           | -0.6                           |
+| Difference versus insulin glargine [95% confidence interval] (p-value)            | -0.5 [-0.6, -0.4] (<0.0001)    | -0.5 [-0.6, -0.4] (<0.0001)    |
+| Patients [n (%)] reaching HbA1c <7% at week 30*                                   | 201 (54.9%)                    | 108 (29.6%)                    |
+| Fasting plasma glucose (mmol/L)                                                   |                                |                                |
+| Baseline (mean)                                                                   | 7.33                           | 7.32                           |
+| End of study (mean)                                                               | 6.78                           | 6.69                           |
+| LS change from baseline (mean)                                                    | -0.35                          | -0.46                          |
+| Difference versus insulin glargine [95% confidence interval]                      | 0.11 (-0.21                    | to 0.43)                       |
+| 2 hour PPG (mmol/L)**                                                             |                                |                                |
+| Baseline (mean)                                                                   | 14.85                          | 14.97                          |
+| End of study (mean)                                                               | 9.91                           | 13.41                          |
+| LS change from baseline (mean)                                                    | -4.72                          | -1.39                          |
+| LS difference versus glargine (mean) [95% confidence interval]                    | -3.33 (- 3.89 to -2.77)        | -3.33 (- 3.89 to -2.77)        |
+| Mean body weight (kg)                                                             |                                |                                |
+| Baseline (mean)                                                                   | 87.8                           | 87.1                           |
+| LS change from baseline (mean)                                                    | -0.7                           | 0.7                            |
+| Comparison versus insulin glargine [95% confidence interval] (p-value)            | -1.4 [- 1.8 to -0.9] (<0.0001) | -1.4 [- 1.8 to -0.9] (<0.0001) |
+| Number (%) of patients achieving HbA1c< 7% with no body weight gain at week 30    | 125 (34.2%)                    | 49 (13.4%)                     |
+| Proportion difference versus insulin glargine [95% confidence interval] (p-value) | 20.8 [15.0 to 26.7] (<0.0001)  | 20.8 [15.0 to 26.7] (<0.0001)  |
+| Insulin glargine daily dose                                                       |                                |                                |
+| Baseline (mean)                                                                   | 35.0                           | 35.2                           |
+| Endpoint (mean)                                                                   | 46.7                           | 46.7                           |
+| LS insulin dose change at week 30 (mean)                                          | 10.6                           | 10.9                           |
 
 *Not included in the pre-specified step-down testing procedure
 
@@ -623,11 +634,11 @@ Figure 2: Mean HbA1c (%) by visit during 30-week randomised treatment period - m
 
 ## Switch from GLP-1 receptor agonist
 
-Clinical study in patients with Type 2 diabetes insufficiently controlled on GLP-1 receptor agonist The efficacy and safety of Suliqua compared to unchanged pre-trial GLP-1 receptor agonist treatment were studied in a 26-week, randomised, open-label trial. The trial included 514 patients with type 2 diabetes mellitus inadequately controlled (HbA1c level of 7% to 9% both inclusive) while treated for at least 4 months with liraglutide or exenatide or for at least 6 months with dulaglutide, albiglutide or exenatide extended release, all at maximal tolerated dose, and metformin alone or in combination with pioglitazone, a SGLT-2 inhibitor or both. Eligible patients were randomised to either receive Suliqua or to continue their previous GLP-1 receptor agonist both on top of their previous oral anti-diabetic treatment.
+Clinical study in patients with Type 2 diabetes insufficiently controlled on GLP-1 receptor agonist The efficacy and safety of Suliqua compared to unchanged pre-trial GLP-1 receptor agonist treatment were studied in a 26-week, randomised, open-label trial. The trial included 514 patients with type 2 diabetes inadequately controlled (HbA1c level of 7% to 9% both inclusive) while treated for at least 4 months with liraglutide or exenatide or for at least 6 months with dulaglutide, albiglutide or exenatide extended release, all at maximal tolerated dose, and metformin alone or in combination with pioglitazone, a SGLT-2 inhibitor or both. Eligible patients were randomised to either receive Suliqua or to continue their previous GLP-1 receptor agonist both on top of their previous oral anti-diabetic treatment.
 
-At screening, 59.7% of the subjects received a once or twice-daily GLP-1 receptor agonist and 40.3% received a once weekly GLP-1 receptor agonist. At screening, 6.6% of the subjects received pioglitazone, and 10.1% a SGLT-2 inhibitor in combination with metformin. The study population had the following characteristics: mean age was 59.6 years, 52.5% of the subjects were male. The mean duration of diabetes was 11 years, the mean duration of previous GLP-1 receptor agonist treatment was 1.9 years, the mean BMI was approximately 32.9 kg/m 2 , mean eGFR was 87.3 ml/min/1.73 m 2 and 90.7% of patients had an eGFR ≥60 ml/min.
+At screening, 59.7% of the subjects received a once or twice-daily GLP-1 receptor agonist and 40.3% received a once weekly GLP-1 receptor agonist. At screening, 6.6% of the subjects received pioglitazone, and 10.1% a SGLT-2 inhibitor in combination with metformin. The study population had the following characteristics: mean age was 59.6 years, 52.5% of the subjects were male. The mean duration of diabetes was 11 years, the mean duration of previous GLP-1 receptor agonist treatment was 1.9 years, the mean BMI was approximately 32.9 kg/m 2 , mean eGFR was 87.3 m l/min/1.73 m 2 and 90.7% of patients had an eGFR ≥60 m l/min.
 
-At week 26, Suliqua provided statistically significant improvement in HbA1c (p &lt;0.0001). A prespecified analysis by GLP-1 receptor agonist subtype (once/twice daily or weekly formulation) used at screening showed that HbA1c change at week 26 was similar for each subgroup and consistent with the primary analysis for the overall population. The mean daily dose of Suliqua at Week 26 was 43.5 dose steps.
+At week 26, Suliqua provided statistically significant improvement in HbA1c (p &lt;0.0001) . A prespecified analysis by GLP-1 receptor agonist subtype (once/twice daily or weekly formulation) used at screening showed that HbA1c change at week 26 was similar for each subgroup and consistent with the primary analysis for the overall population. The mean daily dose of Suliqua at Week 26 was 43.5 dose steps.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -642,20 +653,20 @@ Table 5: Results at 26 weeks - Study Type 2 diabetes uncontrolled on GLP-1 recep
 | Baseline (mean; post run-in phase)                                                     | 7.8                              | 7.8                              |
 | End of treatment (mean)                                                                | 6.7                              | 7.4                              |
 | LS change from baseline (mean)                                                         | -1.0                             | -0.4                             |
-| Difference versus GLP-1 receptor agonist [95% confidence interval] (p-value)           | -0.6 [-0.8, -0.5] (<0.0001)      | -0.6 [-0.8, -0.5] (<0.0001)      |
+| Difference versus GLP-1 receptor agonist [95% confidence interval] (p-value)           | -0.6 [- 0.8, -0.5] (<0.0001)     | -0.6 [- 0.8, -0.5] (<0.0001)     |
 | Patients [n (%)] reaching HbA1c <7% at week 26                                         | 156 (61.9%)                      | 65 (25.7%)                       |
-| Proportion difference (95% confidence interval) vs GLP-1 receptor agonist              | 36.1% (28.1% to 44%)             | 36.1% (28.1% to 44%)             |
+| Proportion difference (95% confidence interval) vs GLP-1 receptor agonist              | 36.1 % (28.1% to 4 4%)           | 36.1 % (28.1% to 4 4%)           |
 | p-value                                                                                | <.0001                           | <.0001                           |
 | Fasting plasma glucose (mmol/L)                                                        |                                  |                                  |
 | Baseline (mean)                                                                        | 9.06                             | 9.45                             |
 | End of study (mean)                                                                    | 6.86                             | 8.66                             |
-| LS change from baseline (mean)                                                         | -2.28                            | -0.60                            |
+| LS change from baseline (mean)                                                         | - 2.28                           | -0.60                            |
 | Difference versus GLP-1 receptor agonist [95% confidence interval] (p-value)           | -1.67 (-2.00 to -1.34) (<0.0001) | -1.67 (-2.00 to -1.34) (<0.0001) |
 | 2 hour PPG (mmol/L)**                                                                  |                                  |                                  |
 | Baseline (mean)                                                                        | 13.60                            | 13.78                            |
 | End of study (mean)                                                                    | 9.68                             | 12.59                            |
 | LS change from baseline (mean)                                                         | -4.0                             | -1.11                            |
-| LS difference versus GLP-1 receptor agonist (mean) [95% confidence interval] (p-value) | -2.9 (-3.42 to -2.28) (<0.0001)  | -2.9 (-3.42 to -2.28) (<0.0001)  |
+| LS difference versus GLP-1 receptor agonist (mean) [95% confidence interval] (p-value) | -2.9 (-3.42 to - 2.28) (<0.0001) | -2.9 (-3.42 to - 2.28) (<0.0001) |
 | Mean body weight (kg)                                                                  |                                  |                                  |
 | Baseline (mean)                                                                        | 93.01                            | 95.49                            |
 | LS change from baseline (mean)                                                         | 1.89                             | -1.14                            |
@@ -687,13 +698,13 @@ The Outcome Reduction with Initial Glargine Intervention trial (i.e., ORIGIN) wa
 
 ## Lixisenatide
 
-The ELIXA study was a randomised, double-blind, placebo-controlled, multinational study that evaluated CV outcomes during treatment with lixisenatide in patients (n=6068) with type 2 diabetes mellitus after a recent Acute Coronary Syndrome. The primary composite efficacy endpoint was the time to the first occurrence of any of the following events: CV death, non-fatal myocardial infarction, non-fatal stroke, or hospitalisation for unstable angina. The median duration of study follow-up was 25.8 and 25.7 months in the lixisenatide group and the placebo group, respectively.
+The ELIXA study was a randomised, double-blind, placebo-controlled, multinational study that evaluated CV outcomes during treatment with lixisenatide in patients (n=6068) with type 2 diabetes after a recent Acute Coronary Syndrome. The primary composite efficacy endpoint was the time to the first occurrence of any of the following events: CV death, non-fatal myocardial infarction, non-fatal stroke, or hospitalisation for unstable angina. The median duration of study followup was 25.8 and 25.7 months in the lixisenatide group and the placebo group, respectively.
 
 The incidence of the primary endpoint was similar in the lixisenatide (13.4%) and placebo (13.2%) groups: the hazard ratio (HR) for lixisenatide versus placebo was 1.017, with an associated 2-sided 95% confidence interval (CI) of 0.886 to 1.168.
 
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Suliqua in all subsets of the paediatric population in the treatment of type 2 diabetes mellitus (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Suliqua in all subsets of the paediatric population in the treatment of type 2 diabetes (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -701,7 +712,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 The insulin glargine/lixisenatide ratio has no relevant impact on the PK of insulin glargine and lixisenatide in Suliqua.
 
-After subcutaneous administration of insulin glargine/lixisenatide combinations to patients with type 1 diabetes, insulin glargine showed no pronounced peak. Exposure to insulin glargine following administration of the insulin glargine/lixisenatide combination was 86-88 % compared to administration of separate simultaneous injections of insulin glargine and lixisenatide. This difference is not considered clinically relevant.
+After subcutaneous administration of insulin glargine/lixisenatide combinations to patients with type 1 diabetes, insulin glargine showed no pronounced peak. Exposure to insulin glargine following administration of the insulin glargine/lixisenatide combination was 8 688 % compared to administration of separate simultaneous injections of insulin glargine and lixisenatide. This difference is not considered clinically relevant.
 
 After subcutaneous administration of insulin glargine/lixisenatide combinations to patients with type 1 diabetes, the median tmax of lixisenatide was in the range of 2.5 to 3.0 hours. AUC was comparable while there was a small decrease in Cmax of lixisenatide of 22-34% compared with separate simultaneous administration of insulin glargine and lixisenatide, which is not likely to be clinically significant.
 
@@ -934,15 +945,15 @@ The MAH shall ensure that, in each Member State where Suliqua is marketed, all h
 - Ensure that your patients and their caretakers are adequately informed on how to use insulin glargine/lixisenatide.
 - Suliqua is supplied in pre-filled pen and must only be used with this device; healthcare professionals must never use a syringe to withdraw insulin glargine/lixisenatide from prefilled pen or dosing errors and serious harm can result.
 - Suliqua is available in two pre-filled pens containing different strengths of lixisenatide, and different dose ranges:
-- Both pre-filled pens contain insulin glargine in a strength of 100 units/ml
-- Suliqua 10-40 pen allows daily doses between 10 and 40 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 50 mcg/ml; dose range: 10 to 40 units of insulin glargine in combination with 5 to 20 mcg lixisenatide)
-- Suliqua 30-60 pen allows daily doses between 30 and 60 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 33 mcg/ml; dose range: 30 to 60 units insulin glargine in combination with 10 to 20 mcg lixisenatide)
+-  Both pre-filled pens contain insulin glargine in a strength of 100 units/ml
+-  Suliqua 10-40 pen allows daily doses between 10 and 40 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 50 mcg/ml; dose range: 10 to 40 units of insulin glargine in combination with 5 to 20 mcg lixisenatide)
+-  Suliqua 30-60 pen allows daily doses between 30 and 60 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 33 mcg/ml; dose range: 30 to 60 units insulin glargine in combination with 10 to 20 mcg lixisenatide)
 - The prescription must state the dose range and strength of the Suliqua pre-filled pen and the number of dose steps to be administered.
 - The pharmacist should clarify with the prescriber any incomplete prescription.
 - Explain to your patient that:
-- You are prescribing a number of dose steps which corresponds to a set number of units of insulin plus a fixed amount lixisenatide
-- For Suliqua, one dose step always contains one unit of insulin, regardless of the Suliqua pre-filled pen being used (10-40 pen or 30-60 pen)
-- The dose counter of the pen device shows the number of dose steps to be injected,
+-  You are prescribing a number of dose steps which corresponds to a set number of units of insulin plus a fixed amount lixisenatide
+-  For Suliqua, one dose step always contains one unit of insulin, regardless of the Suliqua pre-filled pen being used (10-40 pen or 30-60 pen)
+-  The dose counter of the pen device shows the number of dose steps to be injected,
 - If the patient has been transferred from a different pre-filled pen device, highlight the differences in design between the two devices (focus on colour differentiation, warning statements on carton/label and other safety design features such as tactile elements on the prefilled pen).
 - Explain what the patient should anticipate regarding dysglycaemia and potential adverse reactions.
 - Pharmacists are encouraged to check that patients and caretakers are able to read the strength of Suliqua, the dose range of the pre-filled pen and the dose counter of the pre-filled pen before dispensing insulin glargine/lixisenatide. Pharmacists should also check that patients have been trained on how to use the pen.
@@ -957,9 +968,9 @@ The MAH shall ensure that, in each Member State where Suliqua is marketed, all h
 - Read the instructions in your package leaflet carefully before using Suliqua.
 - Suliqua is supplied in pre-filled pen and must only be used with this device; patients, carers and healthcare professionals must never use a syringe to withdraw insulin glargine/lixisenatide from pre-filled pen or dosing errors and serious harm can result.
 - Suliqua is available in two pre-filled pens containing two different strengths of lixisenatide, and different dose ranges:
-- Both pre-filled pens contain insulin glargine in a strength of 100 units/ml
-- Suliqua 10-40 pen allows daily doses between 10 and 40 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 50 mcg/ml; dose range: 10 to 40 units of insulin glargine in combination with 5 to 20 mcg lixisenatide)
-- Suliqua 30-60 pen allows daily doses between 30 and 60 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 33 mcg/ml; dose range: 30 to 60 units insulin glargine in combination with 10 to 20 mcg lixisenatide)
+-  Both pre-filled pens contain insulin glargine in a strength of 100 units/ml
+-  Suliqua 10-40 pen allows daily doses between 10 and 40 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 50 mcg/ml; dose range: 10 to 40 units of insulin glargine in combination with 5 to 20 mcg lixisenatide)
+-  Suliqua 30-60 pen allows daily doses between 30 and 60 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 33 mcg/ml; dose range: 30 to 60 units insulin glargine in combination with 10 to 20 mcg lixisenatide)
 - The prescription should mention the pre-filled pen type you need (Suliqua 10-40 pen or 30-60 pen) and the number of dose steps to be injected.
 - The Pharmacist should clarify with the prescriber any incomplete prescription.
 - One dose step contains one unit of insulin glargine plus a fixed amount of lixisenatide. Before you use insulin glargine/lixisenatide, be clear on how many dose steps you require. Your healthcare professional will give you this information.
@@ -999,7 +1010,7 @@ Each dose step contains 1 unit of insulin glargine and 0.5 micrograms of lixisen
 
 ## 3. LIST OF EXCIPIENTS
 
-glycerol 85%, methionine, metacresol, zinc chloride, concentrated hydrochloric acid and sodium hydroxide (for pH adjustment), water for injections. See leaflet for further information.
+glycerol 85%, methionine, metacresol , zinc chloride, concentrated hydrochloric acid and sodium hydroxide (for pH adjustment), water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1041,7 +1052,9 @@ Always use a new needle.
 
 EXP
 
-After first use: use within 28 days
+After first use: use within
+
+28 days
 
 First use on:    /    /    /
 
@@ -1099,21 +1112,21 @@ Lot
 
 Suliqua 10 - 40
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
-34
-
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PEN LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+PEN LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1147,13 +1160,15 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Suliqua 100 units/ml + 33 micrograms/ml solution for injection in pre-filled pen
-
-insulin glargine + lixisenatide
+Suliqua 100 units/ml + 33 micrograms/ml solution for injection in pre-filled pen insulin glargine + lixisenatide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each pen contains 300 units of insulin glargine and 100 micrograms lixisenatide in 3 ml solution. Each ml contains 100 units of insulin glargine and 33 micrograms lixisenatide. Each dose step contains 1 unit of insulin glargine and 0.33 micrograms of lixisenatide.
+Each pen contains 300 units of insulin glargine and 100 micrograms lixisenatide in 3 ml solution.
+
+Each ml contains 100 units of insulin glargine and 33 micrograms lixisenatide.
+
+Each dose step contains 1 unit of insulin glargine and 0.33 micrograms of lixisenatide.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1260,45 +1275,36 @@ Suliqua 30-60
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PEN LABEL                                                        |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PEN LABEL
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Suliqua 100 units/ml +33 mcg/ml solution for injection insulin glargine + lixisenatide
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Subcutaneous use
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 3 ml
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 30-60 dose steps SoloStar Always use a new needle
 
@@ -1516,7 +1522,7 @@ Suliqua 100 units/ml + 50 micrograms/ml in pre-filled pen (10-40):
 
 - If a dose greater than 40 dose steps is needed, your doctor will prescribe a different strength. For dose steps from 30-60 units, Suliqua 100 units/ml + 33 micrograms/ml solution for injection in pre-filled pen (30-60) is available.
 
-Make sure you have the correct pen:
+## Make sure you have the correct pen:
 
 - always check the medicine label before each injection to avoid mistakes, especially if you inject more than one medicine.
 
@@ -1582,7 +1588,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor, pharmacist or nurse straight away if you notice any of the following serious side effects - you may need urgent medical treatment:
 
-## Low blood sugar (hypoglycaemia) very common: may affect more than 1 in 10 people
+## Low blood sugar (hypoglycaemia) - very common: may affect more than 1 in 10 people
 
 - If your blood sugar falls too much, you may pass out.
 - Serious low blood sugar may cause brain damage and may be life-threatening.
@@ -1609,7 +1615,7 @@ Change the area where the injection is given regularly to prevent skin changes.
 - feeling sick (nausea)
 - vomiting
 - diarrhoea
-- skin and allergic reactions  where the injection  is given, the signs may include reddening, unusually intense pain when injecting, itching, hives, swelling or inflammation. This can spread around the injection site. Most minor reactions to insulins usually disappear within a few days to a few weeks.
+- skin and allergic reactions where the injection is given, the signs may include reddening, unusually intense pain when injecting, itching, hives, swelling or inflammation. This can spread around the injection site. Most minor reactions to insulins usually disappear within a few days to a few weeks.
 
 ## Uncommon ( may affect up to 1 in 100 people)
 
@@ -1625,7 +1631,7 @@ Change the area where the injection is given regularly to prevent skin changes.
 
 <div style=\"page-break-after: always\"></div>
 
-## Rare (may affect up to 1 in 1,000 people)
+## Rare (may affect up to 1 in 1 000 people)
 
 - delay in the emptying of the stomach
 
@@ -1660,11 +1666,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Suliqua contains
 
 - ·
-- The active substances are insulin glargine and lixisenatide. Each pen contains 300 units insulin glargine and 150 micrograms lixisenatide in 3 ml of solution. Each ml contains 100 units insulin glargine and 50 micrograms lixisenatide.
+- The active substances are insulin glargine and lixisenatide.
 
-Each dose step of Suliqua contains 1 unit of insulin glargine and 0.5 micrograms of lixisenatide.
+Each pen contains 300 units insulin glargine and 150 micrograms lixisenatide in 3 ml of solution. Each ml contains 100 units insulin glargine and 50 micrograms lixisenatide. Each dose step of Suliqua contains 1 unit of insulin glargine and 0.5 micrograms of lixisenatide.
 
-- The other ingredients are: glycerol 85%, methionine, metacresol, zinc chloride, concentrated hydrochloric acid and sodium hydroxide (for pH adjustment) and water for injections. See also section 2 ' Suliqua contains sodium and metacresol'.
+- The other ingredients are: glycerol 85% , methionine, metacresol, zinc chloride, concentrated hydrochloric acid and sodium hydroxide (for pH adjustment) and water for injections. See also section 2 ' Suliqua contains sodium and metacresol'.
 
 ## What Suliqua looks like and contents of the pack
 
@@ -1698,7 +1704,9 @@ Tél/Tel: +32 (0)2 710 54 00
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел .:
+
++359 (0)2 4942 480
 
 ## Česká republika
 
@@ -1728,7 +1736,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
+SanofiAventis Μονοπρόσωπη ΑΕΒΕ
 
 Τηλ: +30 210 900 16 00
 
@@ -1804,13 +1812,9 @@ Tel: +351 21 35 89 400
 
 Swixx Biopharma d.o.o.
 
-Tel: +385 1 2078 500
+Tel:
 
-## România
-
-Sanofi Romania SRL
-
-Tel: +40 (0) 21 317 31 36
++385 1 2078 500
 
 ## Ireland
 
@@ -1818,23 +1822,11 @@ sanofi-aventis Ireland Ltd. T/A SANOFI
 
 Tel: +353 (0) 1 403 56 00
 
-## Slovenija
-
-Swixx Biopharma d.o.o.
-
-Tel: +386 1 235 51 00
-
 ## Ísland
 
 Vistor ehf.
 
 Sími: +354 535 7000
-
-## Slovenská republika
-
-Swixx Biopharma s.r.o.
-
-Tel: +421 2 208 33 600
 
 ## Italia
 
@@ -1842,29 +1834,47 @@ Sanofi S.r.l.
 
 Tel: +39 800 536389
 
-## Suomi/Finland
-
-Sanofi Oy
-
-Puh/Tel: +358 (0) 201 200 300
-
 ## Κύπρος
 
 C.A. Papaellinas Ltd.
 
 Τηλ: +357 22 741741
 
-## Sverige
-
-Sanofi AB
-
-Tel: +46 (0)8 634 50 00
-
 ## Latvija
 
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
+
+## România
+
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
+
+## Slovenija
+
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 235 51 00
+
+## Slovenská republika
+
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 208 33 600
+
+## Suomi/Finland
+
+Sanofi Oy
+
+Puh/Tel: +358 (0) 201 200 300
+
+## Sverige
+
+Sanofi AB
+
+Tel: +46 (0)8 634 50 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1991,8 +2001,8 @@ In such cases, you may get very low blood sugar and even pass out before you kno
 
 Suliqua (10-40) SoloStar pen contains insulin glargine and lixisenatide. The combination of medicinal products in this pen is for the daily injection of 10 to 40 dose steps of Suliqua.
 
-- -Never re-use needles. If you do, you might not get your full dose (underdosing) or get too much (overdosing) as the needle could block.
-- -Never use a syringe to remove medicine from your pen. If you do, you may not get the correct amount of medicine.
+- Never re-use needles. If you do, you might not get your full dose (underdosing) or get too much (overdosing) as the needle could block.
+- Never use a syringe to remove medicine from your pen. If you do, you may not get the correct amount of medicine.
 
 Keep these Instructions For Use for future reference.
 
@@ -2026,8 +2036,6 @@ If you have any questions about Suliqua, the pen or about diabetes, ask your doc
 <!-- image -->
 
 ## Get to know your pen
-
-*You will not see the plunger until you have injected a few doses
 
 <!-- image -->
 
@@ -2090,7 +2098,8 @@ Always do a safety test before each injection to:
 
 - Check your pen and the needle to make sure they are working properly
 - Make sure that you get the correct dose.
-- A. Select 2 dose steps by turning the dose selector until the dose pointer is at the 2 mark.
+
+## A. Select 2 dose steps by turning the dose selector until the dose pointer is at the 2 mark.
 
 <!-- image -->
 
@@ -2134,11 +2143,12 @@ Always do a safety test before each injection to:
 ## How to read the dose window
 
 - Even numbers are presented in line with the dose pointer and odd numbers are presented as a line between even numbers.
-- Do not use the pen if your single daily dose is less than 10 dose steps, shown as white numbers on a black background.
-
-29 units selected
 
 <!-- image -->
+
+## 29 units selected
+
+- Do not use the pen if your single daily dose is less than 10 dose steps, shown as white numbers on a black background.
 
 <!-- image -->
 
@@ -2156,19 +2166,23 @@ Always do a safety test before each injection to:
 - Do not use a syringe to remove medicine from your pen.
 - A. Choose a place to inject as shown in the picture above.
 - B. Push the needle into your skin as shown by your doctor or pharmacist or nurse.
+- ·
 - Do not touch the injection button yet.
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
+## C. Place your thumb on the injection button. Then press all the way in and hold.
+
+- Do not press at an angle. Your thumb could block the dose selector from turning.
+
 <!-- image -->
 
-- C. Place your thumb on the injection button. Then press all the way in and hold.
-- Do not press at an angle. Your thumb could block the dose selector from turning.
-- D. Keep the injection button held in and when you see \"0\" in the dose window, slowly count to 10.
+## D. Keep the injection button held in and when you see \"0\" in the dose window, slowly count to 10.
+
 - This will make sure you get your full dose.
 - E. After holding and slowly counting to 10, release the injection button. Then remove the needle from your skin.
-
-<!-- image -->
 
 <!-- image -->
 
@@ -2178,16 +2192,16 @@ Always do a safety test before each injection to:
 - Do not put the inner needle cap back on.
 - A. Grip the widest part of the outer needle cap. Keep the needle straight and guide it into the outer needle cap back. Then push firmly on.
 - The needle can puncture the cap if it is recapped at an angle.
+- B. Grip and squeeze the widest part of the outer needle cap. Turn your pen several times with your other hand to remove the needle.
+- Try again if the needle does not come off the first time.
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-- B. Grip and squeeze the widest part of the outer needle cap. Turn your pen several times with your other hand to remove the needle.
-- Try again if the needle does not come off the first time.
 - C. Throw away the used needle in a puncture resistant container (see ' Throwing your pen away ' at the end of these Instructions for Use).
-
-<!-- image -->
 
 <!-- image -->
 
@@ -2211,8 +2225,6 @@ Always do a safety test before each injection to:
 - Do not store your pen with the needle attached.
 - Store the pen with your pen cap on.
 - Only use your pen for up to 28 days after its first use.
-
-<div style=\"page-break-after: always\"></div>
 
 ## How to care for your pen
 
@@ -2369,7 +2381,7 @@ Listed below are the most common medicines which may affect your insulin treatme
 
 ## Beta-blockers
 
-- Beta-blockers like other 'Sympatholytic medicines' (such as clonidine, guanethidine, reserpine - for high blood pressure) can hide or stop the first signs that your blood sugar  being too low (hypoglycaemia) or may make it harder to recognise warning signs.
+- Beta-blockers like other 'Sympatholytic medicines' (such as clonidine, guanethidine, reserpine - for high blood pressure) can hide or stop the first signs that your blood sugar being too low (hypoglycaemia) or may make it harder to recognise warning signs.
 
 ## Warfarin or other blood thinners
 
@@ -2506,7 +2518,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor, pharmacist or nurse straight away if you notice any of the following serious side effects - you may need urgent medical treatment:
 
-## Low blood sugar (hypoglycaemia) very common: may affect more than 1 in 10 people
+## Low blood sugar (hypoglycaemia) - very common: may affect more than 1 in 10 people
 
 - If your blood sugar falls too much, you may pass out
 - Serious low blood sugar may cause brain damage and may be life-threatening.
@@ -2549,7 +2561,7 @@ Change the area where the injection is given regularly to prevent skin changes.
 
 <div style=\"page-break-after: always\"></div>
 
-## Rare (may affect up to 1 in 1,000 people)
+## Rare (may affect up to 1 in 1 000 people)
 
 - delay in the emptying of the stomach
 
@@ -2587,7 +2599,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 lixisenatide.
 
-- The other ingredients are: glycerol 85%, methionine, metacresol, zinc chloride, concentrated hydrochloric acid and sodium hydroxide (for pH adjustment) and water for injections. See also section 2 'Suliqua contains sodium and 'metacresol'.
+- The other ingredients are: glycerol 85% , methionine, metacresol, zinc chloride, concentrated hydrochloric acid and sodium hydroxide (for pH adjustment) and water for injections. See also section 2 'Suliqua contains sodium and 'metacresol'.
 
 ## What Suliqua looks like and contents of the pack
 
@@ -2613,13 +2625,17 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00
 
 ## България
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел .:
+
++359 (0)2 4942 480
 
 ## Česká republika
 
@@ -2649,7 +2665,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
+SanofiAventis Μονοπρόσωπη ΑΕΒΕ
 
 Τηλ: +30 210 900 16 00
 
@@ -2725,13 +2741,9 @@ Tel: +351 21 35 89 400
 
 Swixx Biopharma d.o.o.
 
-Tel: +385 1 2078 500
+Tel:
 
-## România
-
-Sanofi Romania SRL
-
-Tel: +40 (0) 21 317 31 36
++385 1 2078 500
 
 ## Ireland
 
@@ -2739,23 +2751,11 @@ sanofi-aventis Ireland Ltd. T/A SANOFI
 
 Tel: +353 (0) 1 403 56 00
 
-## Slovenija
-
-Swixx Biopharma d.o.o.
-
-Tel: +386 1 235 51 00
-
 ## Ísland
 
 Vistor ehf.
 
 Sími: +354 535 7000
-
-## Slovenská republika
-
-Swixx Biopharma s.r.o.
-
-Tel: +421 2 208 33 600
 
 ## Italia
 
@@ -2763,29 +2763,47 @@ Sanofi S.r.l.
 
 Tel: +39 800 536389
 
-## Suomi/Finland
-
-Sanofi Oy
-
-Puh/Tel: +358 (0) 201 200 300
-
 ## Κύπρος
 
 C.A. Papaellinas Ltd.
 
 Τηλ: +357 22 741741
 
-## Sverige
-
-Sanofi AB
-
-Tel: +46 (0)8 634 50 00
-
 ## Latvija
 
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
+
+## România
+
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
+
+## Slovenija
+
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 235 51 00
+
+## Slovenská republika
+
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 208 33 600
+
+## Suomi/Finland
+
+Sanofi Oy
+
+Puh/Tel: +358 (0) 201 200 300
+
+## Sverige
+
+Sanofi AB
+
+Tel: +46 (0)8 634 50 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2946,8 +2964,6 @@ If you have any questions about Suliqua, the pen or about diabetes, ask your doc
 
 ## Get to know your pen
 
-*You will not see the plunger until you have injected a few doses
-
 <!-- image -->
 
 ## STEP 1: Check your pen
@@ -2969,6 +2985,8 @@ For first use of a new pen take it out of the refrigerator at least 1 hour befor
 <div style=\"page-break-after: always\"></div>
 
 ## C. Check that the medicine is clear.
+
+·
 
 - Look at the transparent cartridge holder. Do not use the pen if the medicine looks cloudy, coloured or contains particles.
 
@@ -3009,7 +3027,8 @@ Always do a safety test before each injection to:
 
 - Check your pen and the needle to make sure they are working properly
 - Make sure that you get the correct dose.
-- A. Select 2 dose steps by turning the dose selector until the dose pointer is at the 2 mark.
+
+## A. Select 2 dose steps by turning the dose selector until the dose pointer is at the 2 mark.
 
 <!-- image -->
 
@@ -3026,10 +3045,9 @@ Always do a safety test before each injection to:
 - change the needle ( see STEP 6 and STEP 2 ),
 - then repeat the safety test ( STEP 3 ).
 - Do not use your pen if there is still no medicine coming out of the needle tip. Use a new pen.
+- Do not use a syringe to remove medicine from your pen.
 
 <div style=\"page-break-after: always\"></div>
-
-- Do not use a syringe to remove medicine from your pen.
 
 ## If you see air bubbles
 
@@ -3040,29 +3058,26 @@ Always do a safety test before each injection to:
 - Use this pen only to inject single daily doses from 30 to 60 dose steps.
 - Do not select a dose or press the injection button without a needle attached. This may damage your pen.
 - A. Make sure a needle is attached and the dose is set to '0'.
-
-<!-- image -->
-
-## B. Turn the dose selector until the dose pointer lines up with your dose.
-
+- B. Turn the dose selector until the dose pointer lines up with your dose.
 - If you turn past your dose, you can turn back down.
 - If there are not enough dose steps left in your pen for your dose, the dose selector will stop at the number of dose steps left.
 - If you cannot select your full prescribed dose, use a new pen or inject the remaining dose steps and use a new pen to complete your dose. Only in this case, it is okay to inject a partial dose of less than 30 dose steps . Always use another Suliqua (30- 60) Solostar pen to complete your dose and no other pen.
 
+<!-- image -->
+
 ## How to read the dose window
 
 - Even numbers are presented in line with the dose pointer and odd numbers are presented as a line between even numbers.
-- Do not use the pen if your single daily dose is less than 30 dose steps, shown as white numbers on a black background.
-
-39 units selected
 
 <!-- image -->
+
+## 39 units selected
+
+- Do not use the pen if your single daily dose is less than 30 dose steps, shown as white numbers on a black background.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 ## Units of medicine in your pen
 
@@ -3078,19 +3093,21 @@ Always do a safety test before each injection to:
 - Do not use a syringe to remove medicine from your pen.
 - A. Choose a place to inject as shown in the picture above.
 - B. Push the needle into your skin as shown by your doctor or pharmacist or nurse.
-- Do not touch the injection button yet.
-- C. Place your thumb on the injection button. Then press all the way in and hold.
-- Do not press at an angle. Your thumb could block the dose selector from turning.
+- ·
+
+Do not touch the injection button yet.
 
 <!-- image -->
+
+## C. Place your thumb on the injection button. Then press all the way in and hold.
+
+- Do not press at an angle. Your thumb could block the dose selector from turning.
+- D. Keep the injection button held in and when you see \"0\" in the dose window, slowly count to 10.
+- This will make sure you get your full dose.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-## D. Keep the injection button held in and when you see \"0\" in the dose window, slowly count to 10.
-
-- This will make sure you get your full dose.
 
 <!-- image -->
 
@@ -3100,9 +3117,7 @@ Always do a safety test before each injection to:
 
 - Take care when handling needles to prevent needle injury and cross-infection.
 - Do not put the inner needle cap back on.
-
-## A. Grip the widest part of the outer needle cap. Keep the needle straight and guide it into the outer needle cap back. Then push firmly on.
-
+- A. Grip the widest part of the outer needle cap. Keep the needle straight and guide it into the outer needle cap back. Then push firmly on.
 - The needle can puncture the cap if it is recapped at an angle.
 - B. Grip and squeeze the widest part of the outer needle cap. Turn your pen several times with your other hand to remove the needle.
 - Try again if the needle does not come off the first time.

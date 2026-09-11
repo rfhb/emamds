@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-21 10:00:00
+document_datetime: 2026-09-09 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zilbrysq.html
 document_name: zilbrysq.html
 version: success
-processing_time: 0.141654
-conversion_datetime: 2026-08-26 10:58:35.639288
+processing_time: 0.1470212
+conversion_datetime: 2026-09-11 18:01:29.078102
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.122.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.16.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -113,7 +113,7 @@ English (EN) (122.64 KB - PDF)
 
 [View](/en/documents/overview/zilbrysq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-221)
+[Other languages (22)](#file-language-dropdown-841)
 
 български (BG) (139.02 KB - PDF)
 
@@ -265,7 +265,7 @@ English (EN) (922.98 KB - PDF)
 
 [View](/en/documents/product-information/zilbrysq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-420)
+[Other languages (24)](#file-language-dropdown-523)
 
 български (BG) (1.21 MB - PDF)
 
@@ -438,7 +438,7 @@ English (EN) (97.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zilbrysq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-110)
+[Other languages (24)](#file-language-dropdown-102)
 
 български (BG) (58.61 KB - PDF)
 
@@ -618,7 +618,7 @@ Zilbrysq is indicated as an add-on to standard therapy for the treatment of gene
 - **Marketing authorisation issued**
     - 01/12/2023
 - **Revision**
-    - 5
+    - 6
 
 ## Assessment history
 
@@ -643,6 +643,16 @@ English (EN) (107.01 KB - PDF)
 **First published:** 03/06/2024 **Last updated:** 29/04/2025
 
 [View](/en/documents/procedural-steps-after/zilbrysq-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Zilbrysq-PAM-0000341514 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3439308
+
+English (EN) (430.68 KB - PDF)
+
+**First published:** 09/09/2026
+
+[View](/en/documents/variation-report/zilbrysq-pam-0000341514-epar-assessment-report_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -692,6 +702,6 @@ This product is no longer an orphan medicine. It was originally designated an or
 
 **This page was last updated on**
 
-21/08/2026
+09/09/2026
 
 ## Share this page

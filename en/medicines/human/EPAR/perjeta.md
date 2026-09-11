@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-28 13:45:00
+document_datetime: 2026-09-09 17:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/perjeta.html
 document_name: perjeta.html
 version: success
-processing_time: 0.1419039
-conversion_datetime: 2026-05-05 19:40:47.082923
+processing_time: 0.1866375
+conversion_datetime: 2026-09-11 17:57:28.60978
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Perjeta
 
@@ -60,7 +60,7 @@ Expand section
 
 Collapse section
 
-## How is Perjeta used?
+### How is Perjeta used?
 
 Perjeta can only be obtained with a prescription and treatment should be started under the supervision of a doctor who is experienced in using cancer medicines and in a hospital setting where resuscitation equipment is available.
 
@@ -68,11 +68,11 @@ Perjeta is given by infusion (drip) into a vein. The recommended first dose is 8
 
 For more information about using Perjeta, see the package leaflet or contact a doctor or pharmacist.
 
-## How does Perjeta work?
+### How does Perjeta work?
 
 The active substance in Perjeta, pertuzumab, is a monoclonal antibody, a type of protein that has been designed to attach to HER2, a protein found on HER2-positive cancer cells. By attaching to HER2, pertuzumab stops HER2 producing signals that cause the cancer cells to grow. It also activates cells of the immune system (the body's natural defences), which then kill the cancer cells.
 
-## What benefits of Perjeta have been shown in studies?
+### What benefits of Perjeta have been shown in studies?
 
 Perjeta has been studied in one main study involving 808 adults with previously untreated HER2-positive metastatic breast cancer. The effects of Perjeta were compared with placebo (a dummy treatment) when given together with other cancer medicines (trastuzumab and docetaxel). Patients were treated until their disease got worse or the side effects of treatment became unmanageable. The main measure of effectiveness was progression-free survival (how long the patients lived without their disease getting worse). Patients treated with Perjeta lived for 18.5 months without their disease getting worse, compared with 12.4 months for patients given placebo.
 
@@ -80,17 +80,17 @@ Perjeta has also been studied in two main studies involving a total of 642 patie
 
 A fourth ongoing study compared Perjeta with placebo (both given with trastuzumab and chemotherapy) in 4,805 women with early breast cancer who had had surgery to remove the cancer. Perjeta was shown to be of benefit in patients whose cancer was at a high risk of coming back: after 4 years, the disease had not spread in 90% of patients with 'node-positive' cancer treated with Perjeta compared with 87% of those receiving placebo; for those with 'hormone-receptor negative' cancer, this figure was 91% of patients treated with Perjeta, and 89% of patients given placebo.
 
-## What are the risks associated with Perjeta?
+### What are the risks associated with Perjeta?
 
 The most common side effects (affecting more than 3 in 10 people) with Perjeta when given with trastuzumab and chemotherapy are neutropenia (low levels of neutrophils, a type of white blood cell important for fighting infections), diarrhoea, nausea (feeling sick), vomiting, hair loss and tiredness. The most common severe side effect (affecting more than 1 in 10 people) is neutropenia, with or without fever.
 
 For the full list of all side effects and restrictions with Perjeta, see the package leaflet.
 
-## Why is Perjeta authorised in the EU?
+### Why is Perjeta authorised in the EU?
 
 HER2-positive breast cancer is an aggressive form of breast cancer which occurs in around one in five cases. The European Medicines Agency considered that Perjeta has been shown to benefit patients with metastatic cancer by extending the amount of time patients lived without their disease getting worse as well as how long they lived. It considered that this would provide an additional benefit when added to other medicines for HER2-positive cancer, notably trastuzumab. Perjeta has also been shown to improve the outcome of patients with earlier stages of breast cancer, when used with trastuzumab and chemotherapy. The Agency considered that, despite the side effects of Perjeta, the overall safety profile was acceptable.
 
-## What measures are being taken to ensure the safe and effective use of Perjeta?
+### What measures are being taken to ensure the safe and effective use of Perjeta?
 
 The company that markets Perjeta will carry out a study to assess the effects of using Perjeta and trastuzumab together with a type of cancer medicines called taxanes, in previously untreated patients with HER2-positive metastatic or locally advanced breast cancer.
 
@@ -98,7 +98,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Perjeta are continuously monitored. Side effects reported with Perjeta are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Perjeta
+### Other information about Perjeta
 
 Perjeta received a marketing authorisation valid throughout the European Union on 4 March 2013.
 
@@ -112,7 +112,7 @@ English (EN) (84.02 KB - PDF)
 
 [View](/en/documents/overview/perjeta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-350)
+[Other languages (22)](#file-language-dropdown-790)
 
 български (BG) (111.21 KB - PDF)
 
@@ -144,7 +144,7 @@ Deutsch (DE) (84.41 KB - PDF)
 
 [View](/de/documents/overview/perjeta-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (81.15 KB - PDF)
+eesti (ET) (81.15 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/06/2018
 
@@ -174,13 +174,13 @@ italiano (IT) (82.74 KB - PDF)
 
 [View](/it/documents/overview/perjeta-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (108.01 KB - PDF)
+latviešu (LV) (108.01 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/lv/documents/overview/perjeta-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (107.71 KB - PDF)
+lietuvių (LT) (107.71 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/06/2018
 
@@ -234,7 +234,7 @@ slovenščina (SL) (102.65 KB - PDF)
 
 [View](/sl/documents/overview/perjeta-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (82.37 KB - PDF)
+suomi (FI) (82.37 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/06/2018
 
@@ -248,9 +248,9 @@ svenska (SV) (82.77 KB - PDF)
 
 Perjeta : EPAR - Risk management plan
 
-English (EN) (1.63 MB - PDF)
+English (EN) (1.77 MB - PDF)
 
-**First published:** 29/07/2020 **Last updated:** 05/04/2024
+**First published:** 29/07/2020 **Last updated:** 09/09/2026
 
 [View](/en/documents/rmp/perjeta-epar-risk-management-plan_en.pdf)
 
@@ -264,7 +264,7 @@ English (EN) (762.07 KB - PDF)
 
 [View](/en/documents/product-information/perjeta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-293)
+[Other languages (24)](#file-language-dropdown-278)
 
 български (BG) (640.71 KB - PDF)
 
@@ -296,7 +296,7 @@ Deutsch (DE) (775.09 KB - PDF)
 
 [View](/de/documents/product-information/perjeta-epar-product-information_de.pdf)
 
-eesti keel (ET) (497.65 KB - PDF)
+eesti (ET) (497.65 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/04/2026
 
@@ -320,25 +320,19 @@ hrvatski (HR) (749.07 KB - PDF)
 
 [View](/hr/documents/product-information/perjeta-epar-product-information_hr.pdf)
 
-íslenska (IS) (486.8 KB - PDF)
-
-**First published:** 02/04/2013 **Last updated:** 28/04/2026
-
-[View](/is/documents/product-information/perjeta-epar-product-information_is.pdf)
-
 italiano (IT) (449.46 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/it/documents/product-information/perjeta-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (884.4 KB - PDF)
+latviešu (LV) (884.4 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/lv/documents/product-information/perjeta-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (668.73 KB - PDF)
+lietuvių (LT) (668.73 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/04/2026
 
@@ -361,12 +355,6 @@ Nederlands (NL) (415.44 KB - PDF)
 **First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/nl/documents/product-information/perjeta-epar-product-information_nl.pdf)
-
-norsk (NO) (537.23 KB - PDF)
-
-**First published:** 02/04/2013 **Last updated:** 28/04/2026
-
-[View](/no/documents/product-information/perjeta-epar-product-information_no.pdf)
 
 polski (PL) (590.36 KB - PDF)
 
@@ -398,7 +386,7 @@ slovenščina (SL) (544.98 KB - PDF)
 
 [View](/sl/documents/product-information/perjeta-epar-product-information_sl.pdf)
 
-Suomi (FI) (641.58 KB - PDF)
+suomi (FI) (641.58 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/04/2026
 
@@ -410,6 +398,18 @@ svenska (SV) (455.84 KB - PDF)
 
 [View](/sv/documents/product-information/perjeta-epar-product-information_sv.pdf)
 
+Íslenska (IS) (486.8 KB - PDF)
+
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
+
+[View](/is/documents/product-information/perjeta-epar-product-information_is.pdf)
+
+norsk (NO) (537.23 KB - PDF)
+
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
+
+[View](/no/documents/product-information/perjeta-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000307073
 
 12/03/2026
@@ -418,7 +418,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -436,7 +437,7 @@ English (EN) (40.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-735)
+[Other languages (24)](#file-language-dropdown-719)
 
 български (BG) (41.29 KB - PDF)
 
@@ -468,7 +469,7 @@ Deutsch (DE) (11.18 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (11.79 KB - PDF)
+eesti (ET) (11.79 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/04/2026
 
@@ -492,25 +493,19 @@ hrvatski (HR) (30.95 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (17.03 KB - PDF)
-
-**First published:** 02/04/2013 **Last updated:** 28/04/2026
-
-[View](/is/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (15.95 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/it/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (32.1 KB - PDF)
+latviešu (LV) (32.1 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/lv/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (27.21 KB - PDF)
+lietuvių (LT) (27.21 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/04/2026
 
@@ -533,12 +528,6 @@ Nederlands (NL) (17.13 KB - PDF)
 **First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/nl/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (16.62 KB - PDF)
-
-**First published:** 02/04/2013 **Last updated:** 28/04/2026
-
-[View](/no/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (37.46 KB - PDF)
 
@@ -570,7 +559,7 @@ slovenščina (SL) (18.32 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (17.35 KB - PDF)
+suomi (FI) (17.35 KB - PDF)
 
 **First published:** 02/04/2013 **Last updated:** 28/04/2026
 
@@ -582,27 +571,30 @@ svenska (SV) (16.91 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (17.03 KB - PDF)
+
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
+
+[View](/is/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (16.62 KB - PDF)
+
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
+
+[View](/no/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Perjeta
-
-Active substance
-
-pertuzumab
-
-International non-proprietary name (INN) or common name
-
-pertuzumab
-
-Therapeutic area (MeSH)
-
-Breast Neoplasms
-
-Anatomical therapeutic chemical (ATC) code
-
-L01FD02
+- **Name of medicine**
+    - Perjeta
+- **Active substance**
+    - pertuzumab
+- **International non-proprietary name (INN) or common name**
+    - pertuzumab
+- **Therapeutic area (MeSH)**
+    - Breast Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FD02
 
 ### Pharmacotherapeutic group
 
@@ -621,23 +613,14 @@ Perjeta is indicated for use in combination with trastuzumab and chemotherapy fo
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/002547
-
-Marketing authorisation holder
-
-Roche Registration GmbH
-
-Emil-Barell-Strasse 1
-
-Marketing authorisation issued
-
-04/03/2013
-
-Revision
-
-27
+- **EMA product number**
+    - EMEA/H/C/002547
+- **Marketing authorisation holder**
+    - Roche Registration GmbH Emil-Barell-Strasse 1  79639 Grenzach-Wyhlen  Germany
+- **Marketing authorisation issued**
+    - 04/03/2013
+- **Revision**
+    - 27
 
 ## Assessment history
 
@@ -645,7 +628,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Perjeta : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -671,7 +654,7 @@ English (EN) (104.95 KB - PDF)
 
 **First published:** 15/04/2019
 
-[View](/en/documents/scientific-conclusion/perjeta-h-c-psusa-00010125-201806-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/perjeta-h-c-psusa-00010125-201806-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Perjeta-H-C-002547-II-0034 : EPAR - Assessment Report - Variation
 
@@ -701,7 +684,7 @@ English (EN) (65.28 KB - PDF)
 
 **First published:** 08/10/2015 **Last updated:** 08/10/2015
 
-[View](/en/documents/scientific-conclusion/perjeta-h-c-psusa-00010125-201412-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/perjeta-h-c-psusa-00010125-201412-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Perjeta-H-C-2547-II-0010 : EPAR - Assessment Report - Variation
 
@@ -723,7 +706,7 @@ English (EN) (67.89 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-perjeta_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Perjeta : EPAR - Public assessment report
 
@@ -767,7 +750,7 @@ English (EN) (531.81 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-625)
+[Other languages (24)](#file-language-dropdown-897)
 
 български (BG) (352.76 KB - DOCX)
 
@@ -799,7 +782,7 @@ Deutsch (DE) (1.7 MB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (319.38 KB - DOCX)
+eesti (ET) (319.38 KB - DOCX)
 
 **First published:** 30/10/2025 **Last updated:** 28/04/2026
 
@@ -823,25 +806,19 @@ hrvatski (HR) (652.11 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (389.39 KB - DOCX)
-
-**First published:** 30/10/2025 **Last updated:** 28/04/2026
-
-[View](/is/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (275 KB - DOCX)
 
 **First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/it/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (569.22 KB - DOCX)
+latviešu (LV) (569.22 KB - DOCX)
 
 **First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/lv/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (381.04 KB - DOCX)
+lietuvių (LT) (381.04 KB - DOCX)
 
 **First published:** 30/10/2025 **Last updated:** 28/04/2026
 
@@ -864,12 +841,6 @@ Nederlands (NL) (270.89 KB - DOCX)
 **First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/nl/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (416.73 KB - DOCX)
-
-**First published:** 30/10/2025 **Last updated:** 28/04/2026
-
-[View](/no/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (361.4 KB - DOCX)
 
@@ -901,7 +872,7 @@ slovenščina (SL) (283.13 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (426.48 KB - DOCX)
+suomi (FI) (426.48 KB - DOCX)
 
 **First published:** 30/10/2025 **Last updated:** 28/04/2026
 
@@ -913,6 +884,18 @@ svenska (SV) (291.84 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_sv.docx)
 
+Íslenska (IS) (389.39 KB - DOCX)
+
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
+
+[View](/is/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (416.73 KB - DOCX)
+
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
+
+[View](/no/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_no.docx)
+
 ## More information on Perjeta
 
 - [UK - A DISEASE REGISTRY STUDY TO PROSPECTIVELY OBSERVE TREATMENT PATTERNS AND OUTCOMES IN PATIENTS WITH HER2-POSITIVE UNRESECTABLE LOCALLY ADVANCED OR METASTATIC BREAST CANCER (ESTHER) - post-authorisation study](https://catalogues.ema.europa.eu/study/26411)
@@ -923,6 +906,6 @@ svenska (SV) (291.84 KB - DOCX)
 
 **This page was last updated on**
 
-28/04/2026
+09/09/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-18 16:08:00
+document_datetime: 2026-09-09 16:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zercepac.html
 document_name: zercepac.html
 version: success
-processing_time: 0.1215467
-conversion_datetime: 2026-05-22 22:31:21.564267
+processing_time: 0.3253543
+conversion_datetime: 2026-09-11 18:01:13.237874
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Zercepac
 
@@ -38,7 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Zercepac](#news-on)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -62,7 +61,7 @@ Expand section
 
 Collapse section
 
-## How is Zercepac used?
+### How is Zercepac used?
 
 Zercepac can only be obtained with a prescription and treatment should be started by a doctor who has experience in the use of cancer medicines.
 
@@ -72,11 +71,11 @@ The infusion may cause allergic reactions, so the patient should be monitored du
 
 For more information about using Zercepac, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Zercepac work?
+### How does Zercepac work?
 
 The active substance in Zercepac, trastuzumab, is a monoclonal antibody (a type of protein) designed to recognise and attach to the HER2 protein. By attaching to HER2, trastuzumab activates cells of the immune system, which then kill the tumour cells. Trastuzumab also stops HER2 from producing signals that cause the tumour cells to grow.
 
-## What benefits of Zercepac have been shown in studies?
+### What benefits of Zercepac have been shown in studies?
 
 Laboratory studies comparing Zercepac with Herceptin have shown that the active substance in Zercepac is highly similar to that in Herceptin in terms of structure, purity and biological activity. Studies have also shown that giving Zercepac produces similar levels of the active substance in the body to giving Herceptin.
 
@@ -84,7 +83,7 @@ In addition, one study involving 649 patients with previously untreated metastat
 
 Because Zercepac is a biosimilar medicine, the studies on effectiveness and safety of trastuzumab carried out with Herceptin do not all need to be repeated for Zercepac.
 
-## What are the risks associated with Zercepac?
+### What are the risks associated with Zercepac?
 
 The safety of Zercepac has been evaluated and on the basis of all the studies carried out the side effects of the medicine are considered to be comparable to those of the reference medicine Herceptin. The most common or serious side effects with Zercepac are heart problems, reactions related to the infusion, reduced levels of blood cells (especially white blood cells), infections and lung problems.
 
@@ -94,19 +93,19 @@ Zercepac must not be used in people who are hypersensitive (allergic) to trastuz
 
 For the full list of side effects and restrictions, see the package leaflet.
 
-## Why is Zercepac authorised in the EU?
+### Why is Zercepac authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Zercepac has a highly similar structure, purity and biological activity to Herceptin and is distributed in the body in the same way. In addition, studies in metastatic breast cancer that overexpressed HER2 have shown that the effectiveness of Zercepac infusion is equivalent to that of Herceptin infusion.
 
 All these data were considered sufficient to conclude that Zercepac will behave in the same way as Herceptin in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Herceptin, the benefits of Zercepac outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Zercepac?
+### What measures are being taken to ensure the safe and effective use of Zercepac?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Zercepac have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Zercepac are continuously monitored. Side effects reported with Zercepac are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Zercepac
+### Other information about Zercepac
 
 Zercepac received a marketing authorisation valid throughout the EU on 27 July 2020.
 
@@ -120,7 +119,7 @@ English (EN) (116.74 KB - PDF)
 
 [View](/en/documents/overview/zercepac-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-147)
+[Other languages (21)](#file-language-dropdown-672)
 
 български (BG) (173.4 KB - PDF)
 
@@ -146,7 +145,7 @@ dansk (DA) (146.82 KB - PDF)
 
 [View](/da/documents/overview/zercepac-epar-medicine-overview_da.pdf)
 
-eesti keel (ET) (135.76 KB - PDF)
+eesti (ET) (135.76 KB - PDF)
 
 **First published:** 28/07/2020
 
@@ -176,13 +175,13 @@ italiano (IT) (147.06 KB - PDF)
 
 [View](/it/documents/overview/zercepac-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (177.94 KB - PDF)
+latviešu (LV) (177.94 KB - PDF)
 
 **First published:** 28/07/2020
 
 [View](/lv/documents/overview/zercepac-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (170.5 KB - PDF)
+lietuvių (LT) (170.5 KB - PDF)
 
 **First published:** 28/07/2020
 
@@ -236,7 +235,7 @@ slovenščina (SL) (167.95 KB - PDF)
 
 [View](/sl/documents/overview/zercepac-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (145.38 KB - PDF)
+suomi (FI) (145.38 KB - PDF)
 
 **First published:** 28/07/2020
 
@@ -260,167 +259,168 @@ English (EN) (484.43 KB - PDF)
 
 Zercepac : EPAR - Product information
 
-English (EN) (717.42 KB - PDF)
+English (EN) (541.97 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/en/documents/product-information/zercepac-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-356)
+[Other languages (24)](#file-language-dropdown-160)
 
-български (BG) (823.45 KB - PDF)
+български (BG) (858.3 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/bg/documents/product-information/zercepac-epar-product-information_bg.pdf)
 
-español (ES) (546.13 KB - PDF)
+español (ES) (474.77 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/es/documents/product-information/zercepac-epar-product-information_es.pdf)
 
-čeština (CS) (596.29 KB - PDF)
+čeština (CS) (581.47 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/cs/documents/product-information/zercepac-epar-product-information_cs.pdf)
 
-dansk (DA) (605.42 KB - PDF)
+dansk (DA) (501.18 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/da/documents/product-information/zercepac-epar-product-information_da.pdf)
 
-Deutsch (DE) (590.09 KB - PDF)
+Deutsch (DE) (507.86 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/de/documents/product-information/zercepac-epar-product-information_de.pdf)
 
-eesti keel (ET) (624.31 KB - PDF)
+eesti (ET) (481.27 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/et/documents/product-information/zercepac-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.21 MB - PDF)
+ελληνικά (EL) (1.93 MB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/el/documents/product-information/zercepac-epar-product-information_el.pdf)
 
-français (FR) (699.19 KB - PDF)
+français (FR) (721.46 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/fr/documents/product-information/zercepac-epar-product-information_fr.pdf)
 
-hrvatski (HR) (726 KB - PDF)
+hrvatski (HR) (594.19 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/hr/documents/product-information/zercepac-epar-product-information_hr.pdf)
 
-íslenska (IS) (564.37 KB - PDF)
+italiano (IT) (550.69 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
-
-[View](/is/documents/product-information/zercepac-epar-product-information_is.pdf)
-
-italiano (IT) (623.63 KB - PDF)
-
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/it/documents/product-information/zercepac-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (668.67 KB - PDF)
+latviešu (LV) (566.21 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/lv/documents/product-information/zercepac-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (648.34 KB - PDF)
+lietuvių (LT) (677.78 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/lt/documents/product-information/zercepac-epar-product-information_lt.pdf)
 
-magyar (HU) (696.44 KB - PDF)
+magyar (HU) (721.67 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/hu/documents/product-information/zercepac-epar-product-information_hu.pdf)
 
-Malti (MT) (935.21 KB - PDF)
+Malti (MT) (659.83 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/mt/documents/product-information/zercepac-epar-product-information_mt.pdf)
 
 Nederlands (NL) (437.99 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/nl/documents/product-information/zercepac-epar-product-information_nl.pdf)
 
-norsk (NO) (562.41 KB - PDF)
+polski (PL) (647.07 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
-
-[View](/no/documents/product-information/zercepac-epar-product-information_no.pdf)
-
-polski (PL) (720.61 KB - PDF)
-
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/pl/documents/product-information/zercepac-epar-product-information_pl.pdf)
 
-português (PT) (594.93 KB - PDF)
+português (PT) (610.72 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/pt/documents/product-information/zercepac-epar-product-information_pt.pdf)
 
-română (RO) (716.88 KB - PDF)
+română (RO) (753.32 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/ro/documents/product-information/zercepac-epar-product-information_ro.pdf)
 
-slovenčina (SK) (690.17 KB - PDF)
+slovenčina (SK) (561.19 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/sk/documents/product-information/zercepac-epar-product-information_sk.pdf)
 
-slovenščina (SL) (694.93 KB - PDF)
+slovenščina (SL) (571.83 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/sl/documents/product-information/zercepac-epar-product-information_sl.pdf)
 
-Suomi (FI) (559.53 KB - PDF)
+suomi (FI) (476.45 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/fi/documents/product-information/zercepac-epar-product-information_fi.pdf)
 
-svenska (SV) (562.03 KB - PDF)
+svenska (SV) (476.87 KB - PDF)
 
-**First published:** 28/07/2020 **Last updated:** 18/05/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
 
 [View](/sv/documents/product-information/zercepac-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000316200
+Íslenska (IS) (478.81 KB - PDF)
 
-10/04/2026
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
+
+[View](/is/documents/product-information/zercepac-epar-product-information_is.pdf)
+
+norsk (NO) (476.65 KB - PDF)
+
+**First published:** 28/07/2020 **Last updated:** 09/09/2026
+
+[View](/no/documents/product-information/zercepac-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000361383
+
+09/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -438,7 +438,7 @@ English (EN) (50.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-227)
+[Other languages (24)](#file-language-dropdown-874)
 
 български (BG) (59.28 KB - PDF)
 
@@ -470,7 +470,7 @@ Deutsch (DE) (53.47 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (50.47 KB - PDF)
+eesti (ET) (50.47 KB - PDF)
 
 **First published:** 28/07/2020 **Last updated:** 09/07/2021
 
@@ -494,25 +494,19 @@ hrvatski (HR) (66.65 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (60.06 KB - PDF)
-
-**First published:** 28/07/2020 **Last updated:** 09/07/2021
-
-[View](/is/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (58.28 KB - PDF)
 
 **First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/it/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (76.91 KB - PDF)
+latviešu (LV) (76.91 KB - PDF)
 
 **First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/lv/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (67.5 KB - PDF)
+lietuvių (LT) (67.5 KB - PDF)
 
 **First published:** 28/07/2020 **Last updated:** 09/07/2021
 
@@ -535,12 +529,6 @@ Nederlands (NL) (59.32 KB - PDF)
 **First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/nl/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (60.37 KB - PDF)
-
-**First published:** 28/07/2020 **Last updated:** 09/07/2021
-
-[View](/no/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (78.09 KB - PDF)
 
@@ -572,7 +560,7 @@ slovenščina (SL) (66.49 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (50.29 KB - PDF)
+suomi (FI) (50.29 KB - PDF)
 
 **First published:** 28/07/2020 **Last updated:** 09/07/2021
 
@@ -584,28 +572,31 @@ svenska (SV) (58.88 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (60.06 KB - PDF)
+
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
+
+[View](/is/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (60.37 KB - PDF)
+
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
+
+[View](/no/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Zercepac
-
-Active substance
-
-trastuzumab
-
-International non-proprietary name (INN) or common name
-
-trastuzumab
-
-Therapeutic area (MeSH)
-
-- Breast Neoplasms
-- Stomach Neoplasms
-
-Anatomical therapeutic chemical (ATC) code
-
-L01FD01
+- **Name of medicine**
+    - Zercepac
+- **Active substance**
+    - trastuzumab
+- **International non-proprietary name (INN) or common name**
+    - trastuzumab
+- **Therapeutic area (MeSH)**
+        - Breast Neoplasms
+        - Stomach Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FD01
 
 ### Pharmacotherapeutic group
 
@@ -643,35 +634,20 @@ Zercepac should only be used in patients with metastatic gastric cancer (MGC) wh
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005209
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Accord Healthcare S.L.U.
-
-Edificio Este Planta 6a
-
-Opinion adopted
-
-28/05/2020
-
-Marketing authorisation issued
-
-27/07/2020
-
-Revision
-
-15
+- **EMA product number**
+    - EMEA/H/C/005209
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Accord Healthcare S.L.U. Edificio Este Planta 6a  World Trade Center  Moll De Barcelona S/n  08039 Barcelona  SPAIN
+- **Opinion adopted**
+    - 28/05/2020
+- **Marketing authorisation issued**
+    - 27/07/2020
+- **Revision**
+    - 16
 
 ## Assessment history
 
@@ -679,13 +655,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Zercepac : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (138.63 KB - PDF)
+English (EN) (167.88 KB - PDF)
 
-**First published:** 19/01/2026 **Last updated:** 18/05/2026
+**First published:** 19/01/2026 **Last updated:** 09/09/2026
 
 [View](/en/documents/procedural-steps-after/zercepac-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -697,7 +673,7 @@ English (EN) (193.61 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/zercepac-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Zercepac : EPAR - Public assessment report
 
@@ -725,13 +701,8 @@ English (EN) (178.71 KB - PDF)
 
 29/05/2020
 
-## Topics
-
-- [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-18/05/2026
+09/09/2026
 
 ## Share this page

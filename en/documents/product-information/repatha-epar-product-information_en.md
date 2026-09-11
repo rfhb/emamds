@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-15 09:27:55
-document_pages: 90
+document_datetime: 2026-09-04 09:47:06
+document_pages: 94
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/repatha-epar-product-information_en.pdf
 document_name: repatha-epar-product-information_en.pdf
 version: success
-processing_time: 28.7290268
-conversion_datetime: 2026-01-03 13:20:05.875695
+processing_time: 35.0834418
+conversion_datetime: 2026-09-11 17:31:23.356059
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -71,9 +71,9 @@ Repatha is indicated in adults and paediatric patients aged 10 years and over wi
 
 <div style=\"page-break-after: always\"></div>
 
-## Established atherosclerotic cardiovascular disease
+## Atherosclerotic cardiovascular disease
 
-Repatha is indicated in adults with established atherosclerotic cardiovascular disease (myocardial infarction, stroke or peripheral arterial disease) to reduce cardiovascular risk by lowering LDL-C levels, as an adjunct to correction of other risk factors:
+Repatha is indicated in adults with established or at high risk for atherosclerotic cardiovascular disease to reduce cardiovascular risk by lowering LDL-C levels, as an adjunct to correction of other risk factors:
 
 - in combination with the maximum tolerated dose of a statin with or without other lipid-lowering therapies or,
 - alone or in combination with other lipid-lowering therapies in patients who are statin-intolerant, or for whom a statin is contraindicated.
@@ -94,7 +94,7 @@ The recommended dose of evolocumab is either 140 mg every two weeks or 420 mg on
 
 Homozygous familial hypercholesterolaemia in adults and paediatric patients aged 10 years and over The initial recommended dose is 420 mg once monthly. After 12 weeks of treatment, dose frequency can be up-titrated to 420 mg once every 2 weeks if a clinically meaningful response is not achieved. Patients on apheresis may initiate treatment with 420 mg every two weeks to correspond with their apheresis schedule.
 
-## Established atherosclerotic cardiovascular disease in adults
+## Atherosclerotic cardiovascular disease in adults
 
 The recommended dose of evolocumab is either 140 mg every two weeks or 420 mg once monthly; both doses are clinically equivalent.
 
@@ -134,9 +134,7 @@ The 420 mg dose should be delivered using three pre-filled syringes administered
 
 ## Repatha 140 mg solution for injection in pre-filled pen
 
-The 140 mg dose should be delivered using a single pre-filled pen.
-
-The 420 mg dose should be delivered using three pre-filled pens administered consecutively within 30 minutes.
+The 140 mg dose should be delivered using a single pre-filled pen. The 420 mg dose should be delivered using three pre-filled pens administered consecutively within 30 minutes.
 
 ## Repatha 420 mg solution for injection in cartridge
 
@@ -172,7 +170,7 @@ The needle cover of the glass pre-filled syringe is made from dry natural rubber
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium - free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -212,15 +210,13 @@ Repatha has no or negligible influence on the ability to drive and use machines.
 
 ## Summary of the safety profile
 
-The most commonly reported adverse reactions at the recommended doses are nasopharyngitis (7.4%), upper respiratory tract infection (4.6%), back pain (4.4%), arthralgia (3.9%), influenza (3.2%), and
+The most commonly reported adverse reactions at the recommended doses are nasopharyngitis (7.4%), upper respiratory tract infection (4.6%), back pain (4.4%), arthralgia (3.9%), influenza (3.2%), and injection site reactions (2.2%). The safety profile in the homozygous familial hypercholesterolaemia population was consistent with that demonstrated in the primary hypercholesterolaemia and mixed dyslipidaemia population.
 
 <div style=\"page-break-after: always\"></div>
 
-injection site reactions (2.2%). The safety profile in the homozygous familial hypercholesterolaemia population was consistent with that demonstrated in the primary hypercholesterolaemia and mixed dyslipidaemia population.
-
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in pivotal, controlled clinical studies, and spontaneous reporting, are displayed by system organ class and frequency in table 1 below using the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000) and very rare (&lt; 1/10,000).
+Adverse reactions reported in pivotal, controlled clinical studies, and spontaneous reporting, are displayed by system organ class and frequency in table 1 below using the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000) and very rare (&lt; 1/10 000).
 
 Table 1. Adverse reactions
 
@@ -241,7 +237,7 @@ Table 1. Adverse reactions
 | General disorders and administration site conditions | Injection site reactions 1        | Common               |
 | General disorders and administration site conditions | Influenza-like illness            | Uncommon             |
 
-The safety profile was consistent between subjects with post-baseline LDL-C &lt; 25 mg/dL (0.65 mmol/L) or &lt; 40 mg/dL(1.03 mmol/L) compared to subjects with higher post-baseline LDL-C (≥ 40 mg/dL[1.03 mmol/L]), with median (Q1, Q3) Repatha exposure of 84.2 (78.1, 89.8) months in subjects who continued on Repatha and 59.8 (52.8, 60.3) months in subjects on placebo who switched to Repatha in an open-label extension study.
+The safety profile was consistent between subjects with post-baseline LDL-C &lt; 25 mg/dL (0.65 mmol/L) or &lt; 40 mg/dL (1.03 mmol/L) compared to subjects with higher post-baseline LDL-C (≥ 40 mg/dL [1.03 mmol/L]), with median (Q1, Q3) Repatha exposure of 84.2 (78.1, 89.8) months in subjects who continued on Repatha and 59.8 (52.8, 60.3) months in subjects on placebo who switched to Repatha in an open-label extension study.
 
 ## Description of selected adverse reactions
 
@@ -257,11 +253,11 @@ The safety and effectiveness of Repatha have been established in paediatric pati
 
 ## Elderly population
 
-Of the 18,546 patients treated with evolocumab in double-blind clinical studies 7,656 (41.3%) were ≥ 65 years old, while 1,500 (8.1%) were ≥ 75 years old. No overall differences in safety or efficacy were observed between these patients and younger patients.
+Of the 24 671 patients treated with evolocumab in double-blind clinical studies 11 126 (45.1%) were ≥ 65 years old, while 2 132 (8.6%) were ≥ 75 years old. No overall differences in safety or efficacy were observed between these patients and younger patients.
 
 ## Immunogenicity
 
-In clinical studies, 0.3% of patients (48 out of 17,992 patients) treated with at least one dose of evolocumab tested positive for binding antibody development. The patients whose sera tested positive for binding antibodies were further evaluated for neutralising antibodies and none of the patients tested positive for neutralising antibodies. The presence of anti-evolocumab binding antibodies did not impact the pharmacokinetic profile, clinical response, or safety of evolocumab.
+In clinical studies, 0.3% of patients (48 out of 17 992 patients) treated with at least one dose of evolocumab tested positive for binding antibody development. The patients whose sera tested positive for binding antibodies were further evaluated for neutralising antibodies and none of the patients tested positive for neutralising antibodies. The presence of anti-evolocumab binding antibodies did not impact the pharmacokinetic profile, clinical response, or safety of evolocumab.
 
 The development of anti-evolocumab antibodies was not detected in clinical trials of paediatric patients treated with Repatha.
 
@@ -289,11 +285,9 @@ Evolocumab binds selectively to PCSK9 and prevents circulating PCSK9 from bindin
 
 In clinical trials, evolocumab reduced unbound PCSK9, LDL-C, TC, ApoB, non-HDL-C, TC/HDL-C, ApoB/ApoA1, VLDL-C, TG and Lp(a), and increased HDL-C and ApoA1 in patients with primary hypercholesterolaemia and mixed dyslipidaemia.
 
-A single subcutaneous administration of 140 mg or 420 mg evolocumab resulted in maximum suppression of circulating unbound PCSK9 by 4 hours followed by a reduction in LDL-C reaching a mean nadir in response by 14 and 21 days, respectively. Changes in unbound PCSK9 and serum lipoproteins were reversible upon discontinuation of evolocumab. No increase in unbound PCSK9 or
+A single subcutaneous administration of 140 mg or 420 mg evolocumab resulted in maximum suppression of circulating unbound PCSK9 by 4 hours followed by a reduction in LDL-C reaching a mean nadir in response by 14 and 21 days, respectively. Changes in unbound PCSK9 and serum lipoproteins were reversible upon discontinuation of evolocumab. No increase in unbound PCSK9 or LDL-C above baseline was observed during the washout of evolocumab suggesting that compensatory mechanisms to increase production of PCSK9 and LDL-C do not occur during treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-LDL-C above baseline was observed during the washout of evolocumab suggesting that compensatory mechanisms to increase production of PCSK9 and LDL-C do not occur during treatment.
 
 Subcutaneous regimens of 140 mg every 2 weeks and 420 mg once monthly were equivalent in average LDL-C lowering (mean of weeks 10 and 12) resulting in -72% to -57% from baseline compared with placebo. Treatment with evolocumab resulted in a similar reduction of LDL-C when used alone or in combination with other lipid-lowering therapies.
 
@@ -305,7 +299,7 @@ In 80-85% of all primary hyperlipidaemia patients treated with either dose, evol
 
 ## Combination with a statin and statin with other lipid-lowering therapies
 
-LAPLACE-2 was an international, multicentre, double-blind, randomised, 12-week study in 1,896 patients with primary hypercholesterolaemia or mixed dyslipidaemia who were randomised to receive evolocumab in combination with statins (rosuvastatin, simvastatin or atorvastatin). Evolocumab was compared to placebo for the rosuvastatin and simvastatin groups and compared with placebo and ezetimibe for the atorvastatin group.
+LAPLACE-2 was an international, multicentre, double-blind, randomised, 12-week study in 1 896 patients with primary hypercholesterolaemia or mixed dyslipidaemia who were randomised to receive evolocumab in combination with statins (rosuvastatin, simvastatin or atorvastatin). Evolocumab was compared to placebo for the rosuvastatin and simvastatin groups and compared with placebo and ezetimibe for the atorvastatin group.
 
 Repatha significantly reduced LDL-C from baseline to mean of weeks 10 and 12 compared with placebo for the rosuvastatin and simvastatin groups and compared with placebo and ezetimibe for the atorvastatin group (p &lt; 0.001). Repatha significantly reduced TC, ApoB, non-HDL-C, TC/HDL-C, ApoB/ApoA1, VLDL-C, TG and Lp(a) and increased HDL-C from baseline to mean of weeks 10 and 12 as compared to placebo for the rosuvastatin and simvastatin groups (p &lt; 0.05) and significantly reduced TC, ApoB, non-HDL-C, TC/HDL-C, ApoB/ApoA1 and Lp(a), compared with placebo and ezetimibe for the atorvastatin group (p &lt; 0.001) (see tables 2 and 3).
 
@@ -315,16 +309,16 @@ RUTHERFORD-2 was an international, multicentre, double-blind, randomised, placeb
 
 Table 2. Treatment effects of evolocumab compared with placebo in patients with primary hypercholesterolaemia and mixed dyslipidaemia - mean percent change from baseline to average of weeks 10 and 12 (%, 95% CI)
 
-| Study                                                                      | Dose regimen         | LDL-C (%)        | Non- HDL-C (%)   | ApoB (%)        | TC (%)          | Lp(a) (%)       | VLDL -C (%)     | HDL -C (%)   | TG (%)          | ApoA1 (%)   | TC/ HDL-C ratio %   | ApoB/ ApoA1 ratio %   |
-|----------------------------------------------------------------------------|----------------------|------------------|------------------|-----------------|-----------------|-----------------|-----------------|--------------|-----------------|-------------|---------------------|-----------------------|
-| LAPLACE-2 (HMD) (combined rosuvastatin, simvastatin,& atorvastatin groups) | 140 mg Q2W (N = 555) | -72 b (-75,-69)  | -60 b (-63,-58)  | -56 b (-58,-53) | -41 b (-43,-39) | -30 b (-35,-25) | -18 b (-23,-14) | 6 b (4,8)    | -17 b (-22,-13) | 3 b (1,5)   | -45 b (-47,-42)     | -56 b (-59,-53)       |
-| LAPLACE-2 (HMD) (combined rosuvastatin, simvastatin,& atorvastatin groups) | 420 mg QM (N = 562)  | -69 b (-73,-65)  | -60 b (-63,-57)  | -56 b (-58,-53) | -40 b (-42,-37) | -27 b (-31,-24) | -22 b (-28,-17) | 8 b (6,10)   | -23 b (-28,-17) | 5 b (3,7)   | -46 b (-48,-43)     | -58 b (-60,-55)       |
-| RUTHERFO RD-2 (HeFH)                                                       | 140 mg Q2W (N = 110) | -61 b (-67,-55)  | -56 b (-61,-51)  | -49 b (-54,-44) | -42 b (-46,-38) | -31 b (-38,-24) | -22 b (-29,-16) | 8 b (4,12)   | -22 b (-29,-15) | 7 a (3,12)  | -47 b (-51,-42)     | -53 (-58,-48)         |
-| RUTHERFO RD-2 (HeFH)                                                       | 420 mg QM (N = 110)  | -66 b (-72,-61 ) | -60 b (-65,-55)  | -55 b (-60,-50) | -44 b (-48,-40) | -31 b (-38,-24) | -16 b (-23,-8)  | 9 b (5,14)   | -17 b (-24,-9)  | 5 a (1,9)   | -49 b (-54,-44)     | -56 b (-61,-50)       |
+| Study                                                                       | Dose regimen         | LDL-C (%)        | Non- HDL-C (%)   | ApoB (%)        | TC (%)          | Lp(a) (%)       | VLDL -C (%)     | HDL -C (%)   | TG (%)          | ApoA1 (%)   | TC/ HDL-C ratio %   | ApoB/ ApoA1 ratio %   |
+|-----------------------------------------------------------------------------|----------------------|------------------|------------------|-----------------|-----------------|-----------------|-----------------|--------------|-----------------|-------------|---------------------|-----------------------|
+| LAPLACE-2 (HMD) (combined rosuvastatin, simvastatin, & atorvastatin groups) | 140 mg Q2W (N = 555) | -72 b (-75,-69)  | -60 b (-63,-58)  | -56 b (-58,-53) | -41 b (-43,-39) | -30 b (-35,-25) | -18 b (-23,-14) | 6 b (4,8)    | -17 b (-22,-13) | 3 b (1,5)   | -45 b (-47,-42)     | -56 b (-59,-53)       |
+| LAPLACE-2 (HMD) (combined rosuvastatin, simvastatin, & atorvastatin groups) | 420 mg QM (N = 562)  | -69 b (-73,-65)  | -60 b (-63,-57)  | -56 b (-58,-53) | -40 b (-42,-37) | -27 b (-31,-24) | -22 b (-28,-17) | 8 b (6,10)   | -23 b (-28,-17) | 5 b (3,7)   | -46 b (-48,-43)     | -58 b (-60,-55)       |
+| RUTHERFO RD-2 (HeFH)                                                        | 140 mg Q2W (N = 110) | -61 b (-67,-55)  | -56 b (-61,-51)  | -49 b (-54,-44) | -42 b (-46,-38) | -31 b (-38,-24) | -22 b (-29,-16) | 8 b (4,12)   | -22 b (-29,-15) | 7 a (3,12)  | -47 b (-51,-42)     | -53 (-58,-48)         |
+| RUTHERFO RD-2 (HeFH)                                                        | 420 mg QM (N = 110)  | -66 b (-72,-61 ) | -60 b (-65,-55)  | -55 b (-60,-50) | -44 b (-48,-40) | -31 b (-38,-24) | -16 b (-23,-8)  | 9 b (5,14)   | -17 b (-24,-9)  | 5 a (1,9)   | -49 b (-54,-44)     | -56 b (-61,-50)       |
 
 Key: Q2W = once every 2 weeks, QM = once monthly, HMD = Primary hypercholesterolaemia and mixed dyslipidaemia, HeFH = Heterozygous familial hypercholesterolaemia,  a  p value &lt; 0.05 when compared with placebo,  b  p value &lt; 0.001 when compared with placebo.
 
-## Statin intolerant patients
+## Statin-intolerant patients
 
 GAUSS-2 was an international, multicentre, double-blind, randomised, ezetimibe-controlled, 12-week study in 307 patients who were statin-intolerant or unable to tolerate an effective dose of a statin. Repatha significantly reduced LDL-C compared with ezetimibe (p &lt; 0.001). Repatha significantly reduced TC, ApoB, non-HDL-C, TC/HDL-C, ApoB/ApoA1 and Lp(a), from baseline to mean of weeks 10 and 12 compared to ezetimibe (p &lt; 0.001) (see table 3).
 
@@ -332,22 +326,25 @@ GAUSS-2 was an international, multicentre, double-blind, randomised, ezetimibe-c
 
 MENDEL-2 was an international, multicentre, double-blind, randomised, placebo and ezetimibecontrolled, 12-week study of Repatha in 614 patients with primary hypercholesterolaemia and mixed dyslipidaemia. Repatha significantly reduced LDL-C from baseline to mean of weeks 10 and 12 compared with both placebo and ezetimibe (p &lt; 0.001). Repatha significantly reduced TC, ApoB, non-HDL-C, TC/HDL-C, ApoB/ApoA1 and Lp(a), from baseline to mean of weeks 10 and 12 compared with both placebo and ezetimibe (p &lt; 0.001) (see table 3).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 3. Treatment effects of evolocumab compared with ezetimibe in patients with primary hypercholesterolaemia and mixed dyslipidaemia - mean percent change from baseline to average of weeks 10 and 12 (%, 95% CI)
 
-| Study                                          | Dose regimen         | LDL-C (%)        | Non- HDL- C (%)   | ApoB (%)         | TC (%)           | Lp(a) (%)        | VLDL -C (%)   | HDL- C (%)   | TG (%)       | ApoA1 (%)   | TC/ HDL- C ratio %   | ApoB/ ApoA1 ratio %   |
-|------------------------------------------------|----------------------|------------------|-------------------|------------------|------------------|------------------|---------------|--------------|--------------|-------------|----------------------|-----------------------|
-| LAPLACE-2 (HMD) (combined atorvastatin groups) | 140 mg Q2W (N = 219) | -43 c (-50, -37) | -34 c (-39, -30)  | -34 c (-38, -30) | -23 c (-26, -19) | -30 c (-35, -25) | -1 (-7, 5)    | 7 c (4, 10)  | -2 (-9, 5)   | 7 c (4, 9)  | -27 c (-30, -23)     | -38 c (-42, -34)      |
-| LAPLACE-2 (HMD) (combined atorvastatin groups) | 420 mg QM (N = 220)  | -46 c (-51, -40) | -39 c (-43, -34)  | -40 c (-44, -36) | -25 c (-29, -22) | -33 c (-41, -26) | -7 (-20, 6)   | 8 c (5, 12)  | -8 (-21, 5)  | 7 c (2, 11) | -30 c (-34, -26)     | -42 c (-47, -38)      |
-| GAUSS-2 (statin-intolerant)                    | 140 mg Q2W (N = 103) | -38 b (-44, -33) | -32 b (-36, -27)  | -32 b (-37, -27) | -24 b (-28, -20) | -24 b (-31, -17) | -2 (-10, 7)   | 5 (1, 10)    | -3 (-11, 6)  | 5 a (2, 9)  | -27 b (-32, -23)     | -35 b (-40, -30)      |
-| GAUSS-2 (statin-intolerant)                    | 420 mg QM (N = 102)  | -39 b (-44, -35) | -35 b (-39, -31)  | -35 b (-40, -30) | -26 b (-30, -23) | -25 b (-34, -17) | -4 (-13, 6)   | 6 (1, 10)    | -6 (-17, 4)  | 3 (-1, 7)   | -30 b (-35, -25)     | -36 b (-42, -31)      |
-| MENDEL-2 (treatment in the absence of a        | 140 mg Q2W (N = 153) | -40 b (-44, -37) | -36 b (-39, -32)  | -34 b (-37, -30) | -25 b (-28, -22) | -22 b (-29, -16) | -7 (-14, 1)   | 6 a (3, 9)   | -9 (-16, -1) | 3 (0, 6)    | -29 b (-32, -26)     | -35 b (-39, -31)      |
-| statin)                                        | 420 mg QM (N = 153)  | -41 b (-44, -37) | -35 b (-38, -33)  | -35 b (-38, -31) | -25 b (-28, -23) | -20 b (-27, -13) | -10 (-19, -1) | 4 (1, 7)     | -9 (-18, 0)  | 4 a (1, 7)  | -28 b (-31, -24)     | -37 b (-41, -32)      |
+| Study                                          | Dose regimen         | LDL-C (%)        | Non- HDL- C (%)   | ApoB (%)         | TC (%)           | Lp(a) (%)        | VLDL -C (%)   | HDL- C (%)   | TG (%)      | ApoA1 (%)   | TC/ HDL- C ratio %   | ApoB/ ApoA1 ratio %   |
+|------------------------------------------------|----------------------|------------------|-------------------|------------------|------------------|------------------|---------------|--------------|-------------|-------------|----------------------|-----------------------|
+| LAPLACE-2 (HMD) (combined atorvastatin groups) | 140 mg Q2W (N = 219) | -43 c (-50, -37) | -34 c (-39, -30)  | -34 c (-38, -30) | -23 c (-26, -19) | -30 c (-35, -25) | -1 (-7, 5)    | 7 c (4, 10)  | -2 (-9, 5)  | 7 c (4, 9)  | -27 c (-30, -23)     | -38 c (-42, -34)      |
+| LAPLACE-2 (HMD) (combined atorvastatin groups) | 420 mg QM (N = 220)  | -46 c (-51, -40) | -39 c (-43, -34)  | -40 c (-44, -36) | -25 c (-29, -22) | -33 c (-41, -26) | -7 (-20, 6)   | 8 c (5, 12)  | -8 (-21, 5) | 7 c (2, 11) | -30 c (-34, -26)     | -42 c (-47, -38)      |
+| GAUSS-2 (statin-intolerant)                    | 140 mg Q2W (N = 103) | -38 b (-44, -33) | -32 b (-36, -27)  | -32 b (-37, -27) | -24 b (-28, -20) | -24 b (-31, -17) | -2 (-10, 7)   | 5 (1, 10)    | -3 (-11, 6) | 5 a (2, 9)  | -27 b (-32, -23)     | -35 b (-40, -30)      |
+| GAUSS-2 (statin-intolerant)                    | 420 mg QM (N = 102)  | -39 b (-44, -35) | -35 b (-39, -31)  | -35 b (-40, -30) | -26 b (-30, -23) | -25 b (-34, -17) | -4 (-13, 6)   | 6 (1, 10)    | -6 (-17, 4) | 3 (-1, 7)   | -30 b (-35, -25)     | -36 b (-42, -31)      |
 
-Key: Q2W = once every 2 weeks, QM = once monthly, HMD = Primary hypercholesterolaemia and mixed dyslipidaemia,  a  p value &lt; 0.05 when compared with ezetimibe,  b  p value &lt; 0.001 when compared with ezetimibe,  c  nominal p value &lt; 0.001 when compared with ezetimibe.
+<div style=\"page-break-after: always\"></div>
 
-Long-term efficacy in primary hypercholesterolaemia and mixed dyslipidaemia
+| Study                      | Dose regimen         | LDL-C (%)        | Non- HDL- C (%)   | ApoB (%)         | TC (%)           | Lp(a) (%)        | VLDL -C (%)   | HDL- C (%)   | TG (%)       | ApoA1 (%)   | TC/ HDL- C ratio %   | ApoB/ ApoA1 ratio %   |
+|----------------------------|----------------------|------------------|-------------------|------------------|------------------|------------------|---------------|--------------|--------------|-------------|----------------------|-----------------------|
+| MENDEL-2 (treatment in the | 140 mg Q2W (N = 153) | -40 b (-44, -37) | -36 b (-39, -32)  | -34 b (-37, -30) | -25 b (-28, -22) | -22 b (-29, -16) | -7 (-14, 1)   | 6 a (3, 9)   | -9 (-16, -1) | 3 (0, 6)    | -29 b (-32, -26)     | -35 b (-39, -31)      |
+| absence of a statin)       | 420 mg QM (N = 153)  | -41 b (-44, -37) | -35 b (-38, -33)  | -35 b (-38, -31) | -25 b (-28, -23) | -20 b (-27, -13) | -10 (-19, -1) | 4 (1, 7)     | -9 (-18, 0)  | 4 a (1, 7)  | -28 b (-31, -24)     | -37 b (-41, -32)      |
+
+Key: Q2W = once every 2 weeks, QM = once monthly, HMD = Primary hypercholesterolaemia and mixed dyslipidaemia, a  p value &lt; 0.05 when compared with ezetimibe,  b  p value &lt; 0.001 when compared with ezetimibe,  c  nominal p value &lt; 0.001 when compared with ezetimibe.
+
+## Long-term efficacy in primary hypercholesterolaemia and mixed dyslipidaemia
 
 DESCARTES was an international, multicentre, double-blind, randomised, placebo-controlled, 52-week study in 901 patients with hyperlipidaemia who received diet alone, atorvastatin, or a combination of atorvastatin and ezetimibe. Repatha 420 mg once monthly significantly reduced LDL-C from baseline at 52 weeks compared with placebo (p &lt; 0.001). Treatment effects were sustained over 1 year as demonstrated by reduction in LDL-C from week 12 to week 52. Reduction in LDL-C from baseline at week 52 compared with placebo was consistent across background lipidlowering therapies optimised for LDL-C and cardiovascular risk.
 
@@ -355,25 +352,23 @@ Repatha significantly reduced TC, ApoB, non-HDL-C, TC/HDL-C, ApoB/ApoA1, VLDL-C,
 
 Table 4. Treatment effects of evolocumab compared with placebo in patients with primary hypercholesterolaemia and mixed dyslipidaemia - mean percent change from baseline to week 52 (%, 95% CI)
 
-| Study     | Dose regimen        | LDL-C (%)        | Non- HDL- C (%)   | ApoB (%)         | TC (%)            | Lp(a) (%)         | VLDL -C (%)      | HDL- C (%)   | TG (%)          | ApoA1 (%)   | TC/ HDL- C ratio %   | ApoB/ ApoA1 ratio %   |
-|-----------|---------------------|------------------|-------------------|------------------|-------------------|-------------------|------------------|--------------|-----------------|-------------|----------------------|-----------------------|
-| DESCARTES | 420 mg QM (N = 599) | -59 b (-64, -55) | -50 b (-54, -46)  | -44 b (-48, -41) | -33 b (-36, -31 ) | -22 b (-26, -19 ) | -29 b (-40, -18) | 5 b (3, 8)   | -12 b (-17, -6) | 3 a (1, 5)  | -37 b (-40, -34)     | -46 b (-50, -43)      |
+| Study     | Dose regimen        | LDL-C (%)        | Non- HDL- C (%)   | ApoB (%)         | TC (%)           | Lp(a) (%)        | VLDL -C (%)      | HDL- C (%)   | TG (%)          | ApoA1 (%)   | TC/ HDL- C ratio %   | ApoB/ ApoA1 ratio %   |
+|-----------|---------------------|------------------|-------------------|------------------|------------------|------------------|------------------|--------------|-----------------|-------------|----------------------|-----------------------|
+| DESCARTES | 420 mg QM (N = 599) | -59 b (-64, -55) | -50 b (-54, -46)  | -44 b (-48, -41) | -33 b (-36, -31) | -22 b (-26, -19) | -29 b (-40, -18) | 5 b (3, 8)   | -12 b (-17, -6) | 3 a (1, 5)  | -37 b (-40, -34)     | -46 b (-50, -43)      |
 
 Key: QM = once monthly,  a  nominal p value &lt; 0.001 when compared with placebo,  b  p value &lt; 0.001 when compared with placebo.
 
-OSLER and OSLER-2 were two randomised, controlled, open-label extension studies to assess the longterm safety and efficacy of Repatha in patients who completed treatment in a 'parent' study. In each extension study, patients were randomised 2:1 to receive either Repatha plus standard of care
+OSLER and OSLER-2 were two randomised, controlled, open-label extension studies to assess the longterm safety and efficacy of Repatha in patients who completed treatment in a 'parent' study. In each extension study, patients were randomised 2:1 to receive either Repatha plus standard of care (evolocumab group) or standard of care alone (control group) for the first year of the study. At the end of the first year (week 52 in OSLER and week 48 in OSLER-2), patients entered the all Repatha period in which all patients received open-label Repatha for either another 4 years (OSLER) or 2 years (OSLER-2).
+
+A total of 1 324 patients enrolled in OSLER. Repatha 420 mg once monthly significantly reduced LDL-C from baseline at week 12 and week 52 compared with control (nominal p &lt; 0.001). Treatment effects were maintained over 272 weeks as demonstrated by reduction in LDL-C from week 12 in the parent study to week 260 in the open-label extension. A total of 3 681 patients enrolled in OSLER-2. Repatha significantly reduced LDL-C from baseline at week 12 and week 48 compared with control (nominal p &lt; 0.001). Treatment effects were maintained as demonstrated by reduction in LDL-C from week 12 to week 104 in the open-label extension. Repatha significantly reduced TC, ApoB, non-HDL-C, TC/HDL-C, ApoB/ApoA1, VLDL-C, TG and Lp(a), and increased HDL-C and ApoA1 from baseline to week 52 in OSLER and to week 48 in OSLER-2 compared with control (nominal p &lt; 0.001). LDL-C and other lipid parameters returned to baseline within 12 weeks after discontinuation of Repatha at the beginning of OSLER or OSLER-2 without evidence of rebound.
 
 <div style=\"page-break-after: always\"></div>
-
-(evolocumab group) or standard of care alone (control group) for the first year of the study. At the end of the first year (week 52 in OSLER and week 48 in OSLER-2), patients entered the all Repatha period in which all patients received open-label Repatha for either another 4 years (OSLER) or 2 years (OSLER-2).
-
-A total of 1,324 patients enrolled in OSLER. Repatha 420 mg once monthly significantly reduced LDL-C from baseline at week 12 and week 52 compared with control (nominal p &lt; 0.001). Treatment effects were maintained over 272 weeks as demonstrated by reduction in LDL-C from week 12 in the parent study to week 260 in the open-label extension. A total of 3,681 patients enrolled in OSLER-2. Repatha significantly reduced LDL-C from baseline at week 12 and week 48 compared with control (nominal p &lt; 0.001). Treatment effects were maintained as demonstrated by reduction in LDL-C from week 12 to week 104 in the open-label extension. Repatha significantly reduced TC, ApoB, non-HDL-C, TC/HDL-C, ApoB/ApoA1, VLDL-C, TG and Lp(a), and increased HDL-C and ApoA1 from baseline to week 52 in OSLER and to week 48 in OSLER-2 compared with control (nominal p &lt; 0.001). LDL-C and other lipid parameters returned to baseline within 12 weeks after discontinuation of Repatha at the beginning of OSLER or OSLER-2 without evidence of rebound.
 
 TAUSSIG was a multicentre, open-label, 5-year extension study to assess the long-term safety and efficacy of Repatha, as an adjunct to other lipid-lowering therapies, in patients with severe familial hypercholesterolaemia (FH), including homozygous familial hypercholesterolaemia. A total of 194 severe familial hypercholesterolaemia (non-HoFH) patients and 106 homozygous familial hypercholesterolaemia patients enrolled in TAUSSIG. All patients in the study were initially treated with Repatha 420 mg once monthly, except for those receiving lipid apheresis at enrolment who began with Repatha 420 mg once every 2 weeks. Dose frequency in non-apheresis patients could be titrated up to 420 mg once every 2 weeks based on LDL-C response and PCSK9 levels. Long-term use of Repatha demonstrated a sustained treatment effect as evidenced by reduction of LDL-C in patients with severe familial hypercholesterolaemia (non-HoFH) (see table 5).
 
 Changes in other lipid parameters (TC, ApoB, non-HDL-C, TC/HDL-C, and ApoB/ApoA1) also demonstrated a sustained effect of long-term Repatha administration in patients with severe familial hypercholesterolaemia (non-HoFH).
 
-Table 5. Effect of evolocumab on LDL-C in patients with severe familial hypercholesterolaemia (non-HoFH) -mean percent change from baseline to OLE week 216 (and associated 95% CI)
+Table 5. Effect of evolocumab on LDL-C in patients with severe familial hypercholesterolaemia (non-HoFH) - mean percent change from baseline to OLE week 216 (and associated 95% CI)
 
 | Patient Population (N)   | OLE Week 12 (n = 191)   | OLE Week 24 (n = 191)   | OLE Week 36 (n = 187)   | OLE Week 48 (n = 187)   | OLE Week 96 (n = 180)   | OLE Week 144 (n = 180)   | OLE Week 192 (n = 147)   | OLE Week 216 (n = 96)   |
 |--------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|--------------------------|--------------------------|-------------------------|
@@ -384,29 +379,25 @@ Key: OLE = open-label extension, N (n) = Number of evaluable patients (N) and pa
 
 ## Treatment of heterozygous familial hypercholesterolaemia in paediatric patients
 
-HAUSER-RCT was a randomized, multicentre, placebo-controlled, double-blind, parallel-group, 24-week trial in 158 paediatric patients aged 10 to &lt; 18 years with heterozygous familial hypercholesterolaemia. Patients were required to be on a low-fat diet and must have been receiving optimized background lipid-lowering therapy (statin at optimal dose, not requiring up titration). Enrolled patients were randomized in a 2:1 ratio to receive 24 weeks of subcutaneous once monthly 420 mg Repatha or placebo.
+HAUSER-RCT was a randomised, multicentre, placebo-controlled, double-blind, parallel-group, 24-week trial in 158 paediatric patients aged 10 to &lt; 18 years with heterozygous familial hypercholesterolaemia. Patients were required to be on a low-fat diet and must have been receiving optimized background lipid-lowering therapy (statin at optimal dose, not requiring up titration). Enrolled patients were randomised in a 2:1 ratio to receive 24 weeks of subcutaneous once monthly 420 mg Repatha or placebo.
 
-The primary efficacy endpoint in this trial was percent change from baseline to week 24 in LDL-C. The difference between Repatha and placebo in mean percent change in LDL-C from baseline to week 24 was 38% (95% CI: 45%, 31%; p &lt; 0.0001). The least squares mean Standard Error (SE) reduction (p &lt; 0.0001) in LDL-C from baseline at week 24 was 44% (2%) in the Repatha group and
-
-<div style=\"page-break-after: always\"></div>
-
-6% (3%) in the placebo group. Mean absolute LDL-C values at week 24 were 104 mg/dL in the Repatha group and 172 mg/dL in the placebo group. Reductions in LDL-C were observed by the first post-baseline assessment at the week 12 time point and were maintained throughout the trial.
+The primary efficacy endpoint in this trial was percent change from baseline to week 24 in LDL-C. The difference between Repatha and placebo in mean percent change in LDL-C from baseline to week 24 was 38% (95% CI: 45%, 31%; p &lt; 0.0001). The least squares mean Standard Error (SE) reduction (p &lt; 0.0001) in LDL-C from baseline at week 24 was 44% (2%) in the Repatha group and 6% (3%) in the placebo group. Mean absolute LDL-C values at week 24 were 2.69 mmol/L (104 mg/dL) in the Repatha group and 4.45 mmol/L (172 mg/dL) in the placebo group. Reductions in LDL-C were observed by the first post-baseline assessment at the week 12 time point and were maintained throughout the trial.
 
 The secondary endpoint of this trial was mean percent change from baseline to weeks 22 and 24 in LDL-C, where week 22 reflects the peak and week 24 the trough of the subcutaneous once monthly dosing interval, and provides information about the time-averaged effect of Repatha therapy over the entire dosing interval. The least squares mean treatment difference between Repatha and placebo in mean percent change in LDL-C from baseline to the mean of week 22 and week 24 was 42% (95% CI: 48%, 36%; p &lt; 0.0001). For additional results, see table 6.
 
-Table 6. Treatment effects of Repatha compared with placebo in paediatric patients with heterozygous familial hypercholesterolaemia -mean percent change from baseline to week 24 (%, 95% CI)
+<div style=\"page-break-after: always\"></div>
 
-| Study                                 | Dose regimen       | LDL-C (%)            | Non-HDL-C (%)        | ApoB (%)             | TC/ HDL-C Ratio (%)   | ApoB/ ApoA1 Ratio (%)   |
-|---------------------------------------|--------------------|----------------------|----------------------|----------------------|-----------------------|-------------------------|
-| HAUSER-RCT (HeFH Paediatric Patients) | 420 mgQM (N = 104) | -38.3 (-45.5, -31.1) | -35.0 (-41.8, -28.3) | -32.5 (-38.8, -26.1) | -30.3 (-36.4, -24.2)  | -36.4 (-43.0, -29.8)    |
+Table 6. Treatment effects of Repatha compared with placebo in paediatric patients with heterozygous familial hypercholesterolaemia - mean percent change from baseline to week 24 (%, 95% CI)
 
-QM = monthly (subcutaneous); CI = Confidence Interval; LDL-C = low density lipoprotein cholesterol; HDL-C = high density lipoprotein cholesterol; ApoB = apolipoprotein B; ApoA1 = apolipoprotein A1, TC = total
+| Study                                 | Dose regimen        | LDL-C (%)            | Non-HDL-C (%)        | ApoB (%)             | TC/ HDL-C Ratio (%)   | ApoB/ ApoA1 Ratio (%)   |
+|---------------------------------------|---------------------|----------------------|----------------------|----------------------|-----------------------|-------------------------|
+| HAUSER-RCT (HeFH Paediatric Patients) | 420 mg QM (N = 104) | -38.3 (-45.5, -31.1) | -35.0 (-41.8, -28.3) | -32.5 (-38.8, -26.1) | -30.3 (-36.4, -24.2)  | -36.4 (-43.0, -29.8)    |
 
-cholesterol
+QM = monthly (subcutaneous), CI = Confidence Interval, LDL-C = low density lipoprotein cholesterol, HDL-C = high density lipoprotein cholesterol, ApoB = apolipoprotein B, ApoA1 = apolipoprotein A1, TC = total cholesterol
 
-All adjusted p-values &lt;0.0001
+All adjusted p-values &lt; 0.0001
 
-N = number of patients randomized and dosed in the full analysis set.
+N = number of patients randomised and dosed in the full analysis set.
 
 HAUSER-OLE was an open-label, single-arm, multicentre, 80 week study of Repatha in 150 paediatric patients aged 10 to 17 years with HeFH that rolled-over from HAUSER-RCT and enrolled 13 de novo paediatric HoFH patients. Patients had to be on a low-fat diet and receiving background lipid-lowering therapy. All HeFH patients in this study received 420 mg Repatha subcutaneously once monthly (median exposure duration: 18.4 months). The mean (SE) percent changes in calculated LDL-C from baseline were: -44.4% (1.7%) at week 12, -41.0% (2.1%) at week 48, and -35.2% (2.5%) at week 80.
 
@@ -415,8 +406,6 @@ The mean (SE) percent change from baseline to week 80 in other lipid endpoints w
 ## Treatment of homozygous familial hypercholesterolaemia
 
 TESLA was an international, multicentre, double-blind, randomised, placebo-controlled 12-week study in 49 homozygous familial hypercholesterolaemia patients aged 12 to 65 years. Repatha 420 mg once monthly, as an adjunct to other lipid-lowering therapies (e.g., statins, bile-acid sequestrants), significantly reduced LDL-C and ApoB at week 12 compared with placebo (p &lt; 0.001) (see table 7). Changes in other lipid parameters (TC, non-HDL-C, TC/HDL-C, and ApoB/ApoA1) also demonstrated a treatment effect of Repatha administration in patients with homozygous familial hypercholesterolaemia.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 7. Treatment effects of evolocumab compared with placebo in patients with homozygous familial hypercholesterolaemia - mean percent change from baseline to week 12 (%, 95% CI)
 
@@ -430,47 +419,51 @@ Key: HoFH = homozygous familial hypercholesterolaemia, QM = once monthly,  a  no
 
 In TAUSSIG, long-term use of Repatha demonstrated a sustained treatment effect as evidenced by reduction of LDL-C of approximately 20% to 30% in patients with homozygous familial hypercholesterolaemia not on apheresis and approximately 10% to 30% in patients with homozygous familial hypercholesterolaemia on apheresis (see table 8). Changes in other lipid parameters (TC, ApoB, non-HDL-C, TC/HDL-C, and ApoB/ApoA1) also demonstrated a sustained effect of long-term Repatha administration in patients with homozygous familial hypercholesterolaemia. Reductions in LDL-C and changes in other lipid parameters in 14 adolescent patients (aged ≥ 12 to &lt; 18 years) with homozygous familial hypercholesterolaemia are comparable to those in the overall population of patients with homozygous familial hypercholesterolaemia.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 8. Effect of evolocumab on LDL-C in patients with homozygous familial hypercholesterolaemia - mean percent change from baseline to OLE week 216 (and associated 95% CI)
 
-| Patient Population (N)   | OLE Week 12                    | OLE Week 24                   | OLE Week 36                   | OLE Week 48                   | OLE Week 96                   | OLE Week 144                  | OLE Week 192                  | OLE Week 216                  |
-|--------------------------|--------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-| HoFH (N = 106)           | -21.2 (-26.0, -16.3) (n = 104) | -21.4 (-27.8, -15.0) (n = 99) | -27.0 (-32.1, -21.9) (n = 94) | -24.8 (-31.4, -18.3) (n = 93) | -25.0 (-31.2, -18.8) (n = 82) | -27.7 (-34.9, -20.5) (n = 79) | -27.4 (-36.9, -17.8) (n = 74) | -24.0 (-34.0, -14.0) (n = 68) |
-| Non-apheresis (N = 72)   | -22.7 (-28.1, -17.2) (n = 70)  | -25.8 (-33.1, -18.5) (n = 69) | -30.5 (-36.4, -24.7) (n = 65) | -27.6 (-35.8, -19.4) (n = 64) | -23.5 (-31.0, -16.0) (n = 62) | -27.1 (-35.9, -18.3) (n = 60) | -30.1 (-37.9, -22.2) (n = 55) | -23.4 (-32.5, -14.2) (n = 50) |
-| Apheresis (N = 34)       | -18.1 (-28.1, -8.1) (n = 34)   | -11.2 (-24.0, 1.7) (n = 30)   | -19.1 (-28.9, -9.3) (n = 29)  | -18.7 (-29.5, -7.9) (n = 29)  | -29.7 (-40.6, -18.8) (n = 20) | -29.6 (-42.1, -17.1) (n = 19) | -19.6 (-51.2, 12.1) (n = 19)  | -25.9 (-56.4, 4.6) (n = 18)   |
+| Patient Population (N)   | OLE Week 12          | OLE Week 24                   | OLE Week 36          | OLE Week 48                   | OLE Week 96          | OLE Week 144         | OLE Week 192                  | OLE Week 216         |
+|--------------------------|----------------------|-------------------------------|----------------------|-------------------------------|----------------------|----------------------|-------------------------------|----------------------|
+| HoFH (N = 106)           | -21.2 (-26.0, -16.3) | -21.4 (-27.8, -15.0) (n = 99) | -27.0 (-32.1, -21.9) | -24.8 (-31.4, -18.3) (n = 93) | -25.0 (-31.2,        | -27.7 (-34.9, -20.5) | -27.4 (-36.9, -17.8)          | -24.0 (-34.0, -14.0) |
+|                          | -22.7                | -25.8                         | -30.5                |                               | -18.8)               |                      |                               |                      |
+|                          | (n = 104)            |                               | (n = 94)             |                               | (n = 82)             | (n = 79)             | (n = 74)                      | (n = 68)             |
+| Non-apheresis            | (-28.1, -17.2)       | (-33.1, -18.5)                | (-36.4, -24.7)       | -27.6 (-35.8, -19.4)          | -23.5 (-31.0, -16.0) | -27.1 (-35.9, -18.3) | -30.1 (-37.9, -22.2) (n = 55) | -23.4 (-32.5, -14.2) |
+| (N = 72)                 | (n = 70)             | (n = 69)                      | (n = 65)             | (n = 64)                      | (n = 62)             | (n = 60)             |                               | (n = 50)             |
+|                          | -18.1                | -11.2                         | -19.1                | -18.7                         | -29.7                | -29.6                | -19.6                         |                      |
+| Apheresis                |                      |                               |                      |                               |                      |                      |                               | -25.9                |
+| (N = 34)                 | (-28.1, -8.1)        | (-24.0, 1.7)                  | (-28.9, -9.3)        | (-29.5, -7.9)                 | (-40.6, -18.8)       | (-42.1, -17.1)       | (-51.2, 12.1)                 | (-56.4, 4.6)         |
+| (N = 34)                 | (n = 34)             | (n = 30)                      | (n = 29)             | (n = 29)                      | (n = 20)             | (n = 19)             | (n = 19)                      | (n = 18)             |
 
 Key: OLE = open-label extension. N (n) = Number of evaluable patients (N) and patients with observed LDL values at specific schedule visit (n) in the HoFH final analysis set.
 
-HAUSER-OLE was an open-label, single-arm, multicentre, 80-week trial in 12 HofH subjects to evaluate the safety, tolerability and efficacy of Repatha for LDL-C reduction in paediatric patients from aged ≥ 10 to &lt; 18 years of age with homozygous familial hypercholesterolaemia. Patients had to be on a low-fat diet and receiving background lipid-lowering therapy. All patients in the study received 420 mg Repatha subcutaneously once monthly. Median (Q1, Q3) LDL-C at baseline was 398 (343, 475) mg/dL. The median (Q1, Q3) percent change in LDL-C from baseline to week 80 was -14% (-41, 4). Reductions in LDL-C were observed by the first assessment at week 12 and was maintained throughout the trial, median (Q1, Q3) reductions ranging between 12% (-3, 32) and 15% (-4, 39). For additional results, please see table 9.
+HAUSER-OLE was an open-label, single-arm, multicentre, 80-week trial in 12 HoFH subjects to evaluate the safety, tolerability and efficacy of Repatha for LDL-C reduction in paediatric patients from aged ≥ 10 to &lt; 18 years of age with homozygous familial hypercholesterolaemia. Patients had to be on a low-fat diet and receiving background lipid-lowering therapy. All patients in the study received 420 mg Repatha subcutaneously once monthly. Median (Q1, Q3) LDL-C at baseline was 10.29 mmol/L (8.87; 12.28 mmol/L) ( 398 mg/dL (343, 475 mg/dL). The median (Q1, Q3) percent change in LDL-C from baseline to week 80 was -14% (-41, 4). Reductions in LDL-C were observed by the first assessment at week 12 and was maintained throughout the trial, median (Q1, Q3) reductions ranging between 12% (-3, 32) and 15% (-4, 39). For additional results, please see table 9.
 
-<div style=\"page-break-after: always\"></div>
+Table 9. Treatment effects of evolocumab compared with placebo in patients with homozygous familial hypercholesterolaemia - median (Q1, Q3) percent change from baseline to week 80
 
-Table 9. Treatment effects of evolocumab compared with placebo in patients with homozygous familial hypercholesterolaemia -median (Q1, Q3) percent change from baseline to week 80
+| Study                                  | Dose regimen       | LDL-C (%)          | Non-HDL-C (%)    | ApoB (%)            | TC/ HDL-C Ratio (%)   | ApoB/ ApoA1 Ratio (%)   |
+|----------------------------------------|--------------------|--------------------|------------------|---------------------|-----------------------|-------------------------|
+| HAUSER- OLE (HoFH Paediatric Patients) | 420 mg QM (N = 12) | -14.3 (-40.6, 3.5) | -13 (-40.7, 2.7) | -19.1 (-33.3, 11.6) | -3.7 (-41.6, 7.6)     | -3 (-35.7, 9.3)         |
 
-| Study                                  | Dose regimen      | LDL-C (%)          | Non-HDL-C (%)    | ApoB (%)            | TC/ HDL-C Ratio (%)   | ApoB/ ApoA1 Ratio (%)   |
-|----------------------------------------|-------------------|--------------------|------------------|---------------------|-----------------------|-------------------------|
-| HAUSER- OLE (HoFH Paediatric Patients) | 420 mgQM (N = 12) | -14.3 (-40.6, 3.5) | -13 (-40.7, 2.7) | -19.1 (-33.3, 11.6) | -3.7 (-41.6, 7.6)     | -3 (-35.7, 9.3)         |
-
-QM = monthly (subcutaneous); LDL-C = low density lipoprotein cholesterol; HDL-C = high density lipoprotein cholesterol; ApoB = apolipoprotein B; ApoA1 = apolipoprotein A1, TC = total cholesterol
-
-N = number of patients randomized and dosed in the interim analysis set.
+QM = monthly (subcutaneous); LDL-C = low density lipoprotein cholesterol; HDL-C = high density lipoprotein cholesterol; ApoB = apolipoprotein B; ApoA1 = apolipoprotein A1, TC = total cholesterol N = number of patients randomised and dosed in the interim analysis set.
 
 ## Effect on atherosclerotic disease burden
 
-The effects of Repatha 420 mg once monthly on atherosclerotic disease burden, as measured by intravascular ultrasound (IVUS), were evaluated in a 78-week double-blind, randomised, placebo controlled study in 968 patients with coronary artery disease on a stable background of optimal statin therapy. Repatha reduced both percent atheroma volume (PAV; 1.01% [95% CI 0.64, 1.38], p &lt; 0.0001) and total atheroma volume (TAV; 4.89 mm 3  [95% CI 2.53, 7.25], p &lt; 0.0001) compared with placebo. Atherosclerotic regression was observed in 64.3% (95% CI 59.6, 68.7) and 47.3% (95% CI 42.6, 52.0) of patients who received Repatha or placebo respectively, when measured by PAV. When measured by TAV, atherosclerotic regression was observed in 61.5% (95% CI 56.7, 66.0) and 48.9% (95% CI 44.2, 53.7) of patients who received Repatha or placebo respectively. The study did not investigate the correlation between atherosclerotic disease regression and cardiovascular events.
-
-## Effect on coronary atherosclerotic plaque morphology
-
-The effects of Repatha 420 mg once monthly on coronary atherosclerotic plaques as assessed by optical coherence tomography (OCT), were evaluated in a 52-week double-blind, randomised, placebo controlled study including adult patients initiated within 7 days of a non-ST-segment elevation acute coronary syndrome (NSTEACS) on maximally tolerated statin therapy. For the primary endpoint of absolute change in minimum FCT (fibrous cap thickness) in a matched segment of artery from baseline, least squares (LS) mean (95% CI) increased from baseline by 42.7 μm (32.4, 53.1) in the Repatha group and 21.5 μm (10.9, 32.1) in the placebo group, an additional 21.2 μm (4.7, 37.7) compared to placebo (p = 0.015; 38% difference (p = 0.041)). The reported secondary findings show treatment differences including change in mean minimum FCT (increase 32.5 µm (12.7, 52.4); p = 0.016) and absolute change in maximum lipid arc (-26° (-49.6, -2.4); p = 0.041).
-
-## Cardiovascular risk reduction in adults with established atherosclerotic cardiovascular disease
-
-The Repatha Outcomes Study (FOURIER) was a randomised, event-driven, double-blind study of 27,564 subjects, aged between 40 and 86 years (mean age 62.5 years), with established atherosclerotic CV disease; 81% had a prior MI event, 19% had a prior stroke event and 13% had peripheral arterial disease. Over 99% of patients were on moderate to high intensity statin and at least one other cardiovascular medicine such as anti-platelet agents, beta blockers, Angiotensin-Converting Enzyme (ACE) inhibitors, or angiotensin receptor blockers; median (Q1, Q3) baseline LDL-C was 2.4 mmol/L (2.1, 2.8). Absolute CV risk was balanced between treatment groups, in addition to the index event all patients had at least 1 major or 2 minor CV risk factors; 80% had hypertension, 36% had diabetes mellitus, and 28% were daily smokers. Patients were randomised 1:1 to either Repatha (140 mg every two weeks or 420 mg once every month) or matching placebo; the mean duration of patient follow-up was 26 months.
-
-A substantial reduction of LDL-C was observed throughout the study, with achieved median LDL-C ranges of 0.8 to 0.9 mmol/L at each assessment; 25% of patients achieved a LDL-C concentration less
+The effects of Repatha 420 mg once monthly on atherosclerotic disease burden, as measured by intravascular ultrasound (IVUS), were evaluated in a 78-week double-blind, randomised, placebocontrolled study in 968 patients with coronary artery disease on a stable background of optimal statin therapy. Repatha reduced both percent atheroma volume (PAV; 1.01% [95% CI 0.64, 1.38], p &lt; 0.0001) and total atheroma volume (TAV; 4.89 mm 3 [95% CI 2.53, 7.25], p &lt; 0.0001) compared with placebo. Atherosclerotic regression was observed in 64.3% (95% CI 59.6, 68.7) and 47.3%
 
 <div style=\"page-break-after: always\"></div>
 
-than 0.5 mmol/L. Despite the very low levels of LDL-C achieved, no new safety issues were observed (see section 4.8); the frequencies of new onset diabetes and cognitive events were comparable in patients who achieved LDL-C levels &lt; 0.65 mmol/L and those with higher LDL-C.
+(95% CI 42.6, 52.0) of patients who received Repatha or placebo respectively, when measured by PAV. When measured by TAV, atherosclerotic regression was observed in 61.5% (95% CI 56.7, 66.0) and 48.9% (95% CI 44.2, 53.7) of patients who received Repatha or placebo respectively. The study did not investigate the correlation between atherosclerotic disease regression and cardiovascular events.
+
+## Effect on coronary atherosclerotic plaque morphology
+
+The effects of Repatha 420 mg once monthly on coronary atherosclerotic plaques as assessed by optical coherence tomography (OCT), were evaluated in a 52-week double-blind, randomised, placebo-controlled study including adult patients initiated within 7 days of a non-ST-segment elevation acute coronary syndrome (NSTEACS) on maximally tolerated statin therapy. For the primary endpoint of absolute change in minimum FCT (fibrous cap thickness) in a matched segment of artery from baseline, least squares (LS) mean (95% CI) increased from baseline by 42.7 µm (32.4, 53.1) in the Repatha group and 21.5 µm (10.9, 32.1) in the placebo group, an additional 21.2 µm (4.7, 37.7) compared to placebo (p = 0.015; 38% difference (p = 0.041)). The reported secondary findings show treatment differences including change in mean minimum FCT (increase 32.5 µm (12.7, 52.4); p = 0.016) and absolute change in maximum lipid arc (-26° (-49.6, -2.4); p = 0.041).
+
+## Cardiovascular risk reduction in adults with established atherosclerotic cardiovascular disease
+
+The Repatha Outcomes Study (FOURIER) was a randomised, event-driven, double-blind study of 27,564 subjects, aged between 40 and 86 years (mean age 62.5 years), with established atherosclerotic CV disease; 81% had a prior MI event, 19% had a prior stroke event and 13% had peripheral arterial disease. Over 99% of patients were on moderate to high-intensity statin and at least one other cardiovascular medicine such as anti-platelet agents, beta blockers, Angiotensin-Converting Enzyme (ACE) inhibitors, or angiotensin receptor blockers; median (Q1, Q3) baseline LDL-C was 2.4 mmol/L (2.1, 2.8). Absolute CV risk was balanced between treatment groups, in addition to the index event all patients had at least 1 major or 2 minor CV risk factors; 80% had hypertension, 36% had diabetes mellitus, and 28% were daily smokers. Patients were randomised 1:1 to either Repatha (140 mg every two weeks or 420 mg once every month) or matching placebo; the mean duration of patient follow-up was 26 months.
+
+A substantial reduction of LDL-C was observed throughout the study, with achieved median LDL-C ranges of 0.8 to 0.9 mmol/L at each assessment; 25% of patients achieved a LDL-C concentration less than 0.5 mmol/L. Despite the very low levels of LDL-C achieved, no new safety issues were observed (see section 4.8); the frequencies of new onset diabetes and cognitive events were comparable in patients who achieved LDL-C levels &lt; 0.65 mmol/L and those with higher LDL-C.
 
 Repatha significantly reduced the risk of cardiovascular events defined as the composite of time to first CV death, MI, stroke, coronary revascularisation, or hospitalisation for unstable angina (see table 10); the Kaplan-Meier curves for the primary and key secondary composite endpoints separated at approximately 5 months (see figure 1 for the MACE three year Kaplan-Meier curve). The relative risk of the MACE composite (CV death, MI, or stroke) was significantly reduced by 20%. The treatment effect was consistent across all subgroups (including age, type of disease, baseline LDL-C, baseline statin intensity, ezetimibe use, and diabetes) and was driven by a reduction in the risk of myocardial infarction, stroke and coronary revascularisation; no significant difference was seen on cardiovascular or all-cause mortality however the study was not designed to detect such a difference.
 
@@ -479,37 +472,84 @@ Table 10. Effect of evolocumab on major cardiovascular events
 |                                                                                               | Placebo (N = 13,780) n (%)   | Evolocumab (N = 13,784) n (%)   | Hazard ratio a (95% CI)   | p value b   |
 |-----------------------------------------------------------------------------------------------|------------------------------|---------------------------------|---------------------------|-------------|
 | MACE+ (composite of MACE, coronary revascularisation, or hospitalisation for unstable angina) | 1,563 (11.34)                | 1,344 (9.75)                    | 0.85 (0.79, 0.92)         | < 0.0001    |
-| MACE (composite of CV death, MI, or stroke)                                                   | 1,013 (7.35)                 | 816 (5.92)                      | 0.80 (0.73, 0.88)         | < 0.0001    |
-| Cardiovascular death                                                                          | 240 (1.74)                   | 251 (1.82)                      | 1.05 (0.88, 1.25)         | 0.62        |
-| All-cause mortality                                                                           | 426 (3.09)                   | 444 (3.22)                      | 1.04 (0.91, 1.19)         | 0.54        |
-| Myocardial infarction (fatal/non-fatal)                                                       | 639 (4.64)                   | 468 (3.40)                      | 0.73 (0.65, 0.82)         | < 0.0001 c  |
-| Stroke (fatal/non-fatal) d                                                                    | 262 (1.90)                   | 207 (1.50)                      | 0.79 (0.66, 0.95)         | 0.0101 c    |
-| Coronary revascularisation                                                                    | 965 (7.00)                   | 759 (5.51)                      | 0.78 (0.71, 0.86)         | < 0.0001 c  |
-| Hospitalisation for unstable angina e                                                         | 239 (1.7)                    | 236 (1.7)                       | 0.99 (0.82, 1.18)         | 0.89        |
 
 <div style=\"page-break-after: always\"></div>
+
+|                                             | Placebo (N = 13,780) n (%)   | Evolocumab (N = 13,784) n (%)   | Hazard ratio a (95% CI)   | p value b   |
+|---------------------------------------------|------------------------------|---------------------------------|---------------------------|-------------|
+| MACE (composite of CV death, MI, or stroke) | 1,013 (7.35)                 | 816 (5.92)                      | 0.80 (0.73, 0.88)         | < 0.0001    |
+| Cardiovascular death                        | 240 (1.74)                   | 251 (1.82)                      | 1.05 (0.88, 1.25)         | 0.62        |
+| All-cause mortality                         | 426 (3.09)                   | 444 (3.22)                      | 1.04 (0.91, 1.19)         | 0.54        |
+| Myocardial infarction (fatal/non-fatal)     | 639 (4.64)                   | 468 (3.40)                      | 0.73 (0.65, 0.82)         | < 0.0001 c  |
+| Stroke (fatal/non-fatal) d                  | 262 (1.90)                   | 207 (1.50)                      | 0.79 (0.66, 0.95)         | 0.0101 c    |
+| Coronary revascularisation                  | 965 (7.00)                   | 759 (5.51)                      | 0.78 (0.71, 0.86)         | < 0.0001 c  |
+| Hospitalisation for unstable angina e       | 239 (1.7)                    | 236 (1.7)                       | 0.99 (0.82, 1.18)         | 0.89        |
 
 Figure 1. Time to a MACE event (composite of CV death, MI, or stroke); 3-year Kaplan-Meier
 
 <!-- image -->
 
-FOURIER-OLE (study 1 and study 2) consisted of two open-label, single-arm, multicenter, extension studies to evaluate the long-term safety, tolerability, and efficacy of Repatha in patients with established cardiovascular disease who completed the FOURIER study. Enrolled patients received Repatha 140 mg every 2 weeks or 420 mg once monthly for approximately 5 years and continued moderate- (22.2%) or high-intensity (74.8%) background statin therapy. Of the 5 031 patients who received at least one dose of Repatha in study 1, 2 499 patients received Repatha and 2 532 patients received placebo in the FOURIER study. Of the 1 599 patients who received at least one dose of Repatha in study 2 854 patients received Repatha and 745 patients received placebo in the FOURIER study. Upon completion of study 1 and study 2, patients randomized to Repatha in the FOURIER study had up to 8.4 years (median 85.4 months) and 8.0 years of total Repatha exposure median 80.2 months) and patients randomized to placebo had up to 5.25 years (median 60.0 months) and 4.9 years of total Repatha exposure (median 55.1 months), respectively.
+FOURIER-OLE (study 1 and study 2) consisted of two open-label, single-arm, multicentre, extension studies to evaluate the long-term safety, tolerability, and efficacy of Repatha in patients with established cardiovascular disease who completed the FOURIER study. Enrolled patients received Repatha 140 mg every 2 weeks or 420 mg once monthly for approximately 5 years and continued moderate- (22.2%) or high-intensity (74.8%) background statin therapy. Of the 5 031 patients who received at least one dose of Repatha in study 1, 2 499 patients received Repatha and 2 532 patients received placebo in the FOURIER study. Of the 1 599 patients who received at least one dose of Repatha in study 2 854 patients received Repatha and 745 patients received placebo in the FOURIER study. Upon completion of study 1 and study 2, patients randomised to Repatha in the FOURIER study had up to 8.4 years (median 85.4 months) and 8.0 years of total Repatha exposure median 80.2 months) and patients randomised to placebo had up to 5.25 years (median 60.0 months) and 4.9 years of total Repatha exposure (median 55.1 months), respectively.
 
-In study 1 and 2 combined, 72.4% (n = 4 802) of patients achieved a lowest post-baseline LDL-C &lt; 25 mg/dL (0.65 mmol/L), 87.0% (n = 5 765) of patients achieved an LDL-C &lt; 40 mg/dL (1.03 mmol/L), and 11.9% (n = 792) of patients had an all post-baseline LDL-C ≥ 40 mg/dL (1.03 mmol/L).  Of the patients who achieved post-baseline low LDL-C (&lt; 25 mg/dL or &lt; 40 mg/dL), the overall subject incidences of treatment emergent adverse events were 80.0% patients who achieved LDL-C &lt; 25 mg/dL and 82.7% in patients who achieved LDL-C &lt; 40 mg/dL compared to 85.0% in patients with LDLC ≥ 40 mg/dL.  The overall subject incidences of serious treatment emergent adverse events were 37.7% in patients who achieved LDL-C &lt; 25 mg/dL and 40.0% in patients who achieved LDL-C &lt; 40 mg/dL compared to 41.5% in patients with LDLC ≥ 40 mg/dL.
+In study 1 and 2 combined, 72.4% (n = 4 802) of patients achieved a lowest post-baseline LDL-C &lt; 25 mg/dL (0.65 mmol/L), 87.0% (n = 5 765) of patients achieved an LDL-C &lt; 40 mg/dL (1.03 mmol/L), and 11.9% (n = 792) of patients had an all post-baseline LDL-C ≥ 40 mg/dL (1.03 mmol/L). Of the patients who achieved post-baseline low LDL-C (&lt; 25 mg/dL or &lt; 40 mg/dL), the overall subject incidences of treatment emergent adverse events were 80.0% patients who achieved LDL-C &lt; 25 mg/dL and 82.7% in patients who achieved LDL-C &lt; 40 mg/dL compared to 85.0% in patients with LDLC ≥ 40 mg/dL. The overall subject incidences of serious treatment emergent adverse events were 37.7% in patients who achieved LDL-C &lt; 25 mg/dL and 40.0% in patients who achieved LDL-C &lt; 40 mg/dL compared to 41.5% in patients with LDLC ≥ 40 mg/dL.
+
+<div style=\"page-break-after: always\"></div>
 
 The mean percent reduction from baseline in LDL-C was stable during the OLE study period and ranged from 53.4% to 59.1% for study 1 and 62.5% to 67.2% for study 2, regardless of the patient's original randomised treatment group in the FOURIER study. This appears to translate into a numerically lower subject incidence rate of adjudicated exploratory CV endpoints of the composite of CV death, MI and stroke for patients who had received Repatha in both the FOURIER and FOURIER OLE studies compared with patients who had received placebo in the FOURIER study and Repatha in the FOURIER OLE studies.
 
 Overall, no new safety findings were identified in these studies.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Effect on LDL-C during acute phase of Acute Coronary Syndromes (ACS)
 
-EVOPACS was a single country, multicentre, double-blind, randomized, placebo-controlled, 8-week study on 308 ACS patients with evolocumab initiated in-hospital within 24 to 72 hours of presentation.
+EVOPACS was a single country, multicentre, double-blind, randomised, placebo-controlled, 8-week study on 308 ACS patients with evolocumab initiated in-hospital within 24 to 72 hours of presentation.
 
 If patients were not on a statin or were on statin treatment other than atorvastatin 40 mg prior to screening, this was stopped and atorvastatin 40 mg once daily was initiated. Randomisation was stratified by study centre and presence of stable statin treatment within ≥ 4 weeks prior to enrolment. Most subjects (241 [78%]) were not on stable statin treatment for ≥ 4 weeks prior to screening and most (235 [76%]) were not taking a statin at baseline. By week 4, 281 (97%) subjects were receiving high-intensity statins. Evolocumab 420 mg once monthly significantly reduced LDL-C from baseline to week 8 compared with placebo (p &lt; 0.001). The mean (SD) reduction in calculated LDL-C from baseline at week 8 was 77.1% (15.8%) in the evolocumab group and 35.4% (26.6%) in the placebo group with a least squares (LS) mean difference (95% CI) of 40.7% (36.2%, 45.2%). Baseline LDL-C values were 3.61 mmol/L (139.5 mg/dL) in the evolocumab group and 3.42 mmol/L (132.2 mg/dL) in the placebo group. LDL-C reductions in this study were consistent with previous studies where evolocumab was added to stable lipid-lowering therapy as demonstrated by on-treatment LDL-C levels at week 8 in this study (reflecting steady-state effect of high-intensity statin in both treatment arms) of 0.79 mmol/L (30.5 mg/dL) and 2.06 mmol/L (79.7 mg/dL) in the evolocumab plus atorvastatin and the placebo plus atorvastatin groups, respectively.
 
 The effects of evolocumab in this patient population were consistent with those observed in previous studies in evolocumab clinical development program and no new safety concerns were noted.
+
+## Cardiovascular risk reduction in adults with high risk for CV events without prior MI or stroke
+
+VESALIUS-CV was a multicentre, double-blind, randomised, placebo-controlled, parallel-group, cardiovascular outcomes study for evolocumab in 12 257 adult patients (6 129 evolocumab, 6 128 placebo) with increased cardiovascular risk who have not yet had a myocardial infarction or stroke. Eligible patients had established atherosclerotic cardiovascular disease (ASCVD), including coronary, cerebrovascular or peripheral arterial disease, or, in the absence of known established ASCVD at baseline, were required to have diabetes mellitus.
+
+Patients had to have an LDL-C ≥ 2.3 mmol/L ( ≥ 90 mg/dL) or non-HDL-C ≥ 3.1 mmol/L ( ≥ 120 mg/dL) or ApoB ≥ 1.56  mol/L ( ≥ 80 mg/dL) on stable, lipid-lowering background therapy. Patients were randomly assigned 1:1 to receive either subcutaneous injections of evolocumab (140 mg every 2 weeks) or placebo every 2 weeks. The median follow-up duration was 55.1 months. Overall, 97.8% of patients completed the study.
+
+The mean (SD) age at baseline was 65.4 (6.9) years, with 56.0% being at least 65 years old; 42.5% were female. Regarding prior diagnoses of cardiovascular disease, 45.1% had significant coronary artery disease, 9.9% had significant atherosclerotic cerebrovascular disease, 17.4% had significant peripheral arterial disease, and 58.1% had diabetes mellitus (1.4% type 1; 56.8% type 2) with 32.1% having high risk diabetes mellitus without evidence of atherosclerotic cardiovascular disease.
+
+<div style=\"page-break-after: always\"></div>
+
+Selected additional baseline increased risk factors included any diabetes or metabolic syndrome in a patient with coronary, cerebral or peripheral arterial disease (30.2%), and LDL-C ≥ 3.36 mmol/L ( ≥ 130 mg/dL), non-HDLC ≥ 4.14 mmol/L ( ≥ 160 mg/dL), or ApoB ≥ 2.3  mol/L ( ≥ 120 mg/dL) (50.8%). At baseline, the majority of patients were on a high-intensity lipid-lowering regimen (72.2%) with 67.9% on high-intensity statin therapy. Any statin use was reported for 86.8% of patients and ezetimibe use was present for 19.9% of patients. Most patients were taking at least one other cardiovascular medication, including anti-platelet agents (66.8%), anticoagulants (11.6%), beta blockers (55.1%), angiotensin -converting enzyme (ACE) inhibitors, ARNi or angiotensin receptor blockers (74.9%), SGLT2 inhibitors (9.7%), or GLP-1 receptor agonists (5.6%). The median (Q1, Q3) LDL-C at baseline was 3.2 ( 2.7, 3.9 ) mmol/L (122.0 [104.0, 149.0] mg/dL).
+
+Evolocumab significantly reduced the risk for the triple composite endpoint (time to CV death, myocardial infarction, or ischemic stroke, whichever occurred first). The results of the triple composite endpoint and other cardiovascular endpoints are shown in table 11 below. The KaplanMeier estimates of cumulative incidence of the triple composite endpoint are shown in figure 2. The reduction in risk to the triple composite endpoint was consistent across sex, age, prior revascularisation, diabetes status and in patients with diabetes but without ASCVD at baseline.
+
+Table 11 Treatment Effects of Evolocumab Compared with Placebo in Patients with high risk for CV events without prior MI or Stroke
+
+| (N =                                                                                                                                   | Placebo 6,128) n (%)   | Evolocumab (N = 6,129) n (%)   | Hazard Ratio (95% CI)   | p value   |
+|----------------------------------------------------------------------------------------------------------------------------------------|------------------------|--------------------------------|-------------------------|-----------|
+| Triple composite endpoint                                                                                                              |                        |                                |                         |           |
+| Time to CV death, myocardial infarction, or ischemic stroke, whichever occurred first                                                  | 503 (8.21)             | 374 (6.10)                     | 0.73 (0.64, 0.84)       | < 0.001 a |
+| Other cardiovascular endpoints                                                                                                         |                        |                                |                         |           |
+| Time to CHD death, myocardial infarction, ischemic stroke, or any ischemia-driven arterial revascularisation, whichever occurred first | 907 (14.80)            | 747 (12.19)                    | 0.81 (0.73, 0.89)       | < 0.001 a |
+| Time to CHD death, myocardial infarction, or ischemic stroke, whichever occurred first                                                 | 443 (7.23)             | 336 (5.48)                     | 0.75 (0.65, 0.86)       | < 0.001 a |
+| Time to MI, ischemic stroke, or any ischemia driven arterial revascularisation                                                         | 834 (13.61)            | 674 (11.00)                    | 0.79 (0.72, 0.88)       | < 0.001 a |
+| Time to CHD death, MI, or any ischemia driven arterial revascularisation                                                               | 819 (13.36)            | 664 (10.83)                    | 0.79 (0.72, 0.88)       | < 0.001 a |
+| Time to CHD death or MI                                                                                                                | 313 (5.11)             | 232 (3.79)                     | 0.73 (0.62, 0.87)       | < 0.001 a |
+| Time to MI                                                                                                                             | 229 (3.74)             | 149 (2.43)                     | 0.64 (0.52, 0.79)       | < 0.001 a |
+| Time to any ischemia-driven                                                                                                            | 699 (11.41)            | 561 (9.15)                     | 0.79 (0.70, 0.88)       | < 0.001 a |
+
+<div style=\"page-break-after: always\"></div>
+
+| arterial revascularisation   |            |            |                   |         |
+|------------------------------|------------|------------|-------------------|---------|
+| Time to CHD death            | 117 (1.91) | 105 (1.71) | 0.89 (0.68, 1.16) | 0.39    |
+| Time to cardiovascular death | 195 (3.18) | 156 (2.55) | 0.79 (0.64, 0.98) | 0.031   |
+| Time to all-cause of death   | 539 (8.80) | 434 (7.08) | 0.80 (0.70, 0.91) | < 0.001 |
+| Time to ischemic stroke      | 144 (2.35) | 115 (1.88) | 0.79 (0.62, 1.01) | 0.062   |
+
+Figure 2. Time to a MACE Event (composite of CV death, Myocardial Infarction, or Ischemic Stroke); 5.5-year Kaplan-Meier
+
+<!-- image -->
+
+Serial assessment of lipid panels was conducted for a subset of patients (n = 2 014) from randomly selected sites and patients. The difference between evolocumab and placebo in mean percent change in LDL-C from baseline to Week 48 was 55.3% (95% CI: 51.9%, 58.8%) and from baseline to Week 96 was 50.9% (95% CI: 47.1%, 54.7%). The resultant LDL-C values achieved at Week 48 were a median (Q1, Q3) of 1.2 (0.7, 1.9) mmol/L (44.5 [26.0, 73.0] mg/dL) and 2.8 (2.2, 3.7) mmol/L (109.0 [ 86.0, 144.0] mg/dL) in the evolocumab and placebo arms, respectively.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -518,6 +558,8 @@ The effects of evolocumab in this patient population were consistent with those 
 Following a single subcutaneous dose of 140 mg or 420 mg evolocumab administered to healthy adults, median peak serum concentrations were attained in 3 to 4 days. Administration of single subcutaneous dose of 140 mg resulted in a Cmax mean (SD) of 13.0 (10.4) μg/mL and AUC last mean (SD) of 96.5 (78.7) day·μg/mL . Administration of single subcutaneous dose 420 mg resulted in a Cmax mean (SD) of 46.0 (17.2) μg/mL and AUC last mean (SD) of 842 (333) day·μg/mL . Three subcutaneous 140 mg doses were bioequivalent to a single subcutaneous 420 mg dose. The absolute bioavailability after SC dosing was determined to be 72% from pharmacokinetic models.
 
 Following a single 420 mg evolocumab intravenous dose, the mean (SD) steady-state volume of distribution was estimated to be 3.3 (0.5) L, suggesting evolocumab has limited tissue distribution.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -528,8 +570,6 @@ Evolocumab is composed solely of amino acids and carbohydrates as native immunog
 Evolocumab was estimated to have an effective half-life of 11 to 17 days.
 
 In patients with primary hypercholesterolaemia or mixed dyslipidaemia on high dose statin, the systemic exposure of evolocumab was slightly lower than in subjects on low-to-moderate dose statin (the ratio of AUClast 0.74 [90% CI 0.29; 1.9]). An approximately 20% increase in the clearance is in part mediated by statins increasing the concentration of PCSK9 which did not adversely impact the pharmacodynamic effect of evolocumab on lipids. Population pharmacokinetic analysis indicated no appreciable differences in evolocumab serum concentrations in hypercholesterolaemic patients (nonfamilial hypercholesterolaemia or familial hypercholesterolaemia) taking concomitant statins.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Linearity/non-linearity
 
@@ -547,6 +587,8 @@ In a clinical trial of 18 patients with either normal renal function (estimated 
 
 No dose adjustment is necessary in patients with mild hepatic impairment (Child-Pugh class A). Single 140 mg subcutaneous doses of evolocumab were studied in 8 patients with mild hepatic impairment, 8 patients with moderate hepatic impairment and 8 healthy subjects. The exposure to evolocumab was found to be approximately 40-50% lower compared to healthy subjects. However, baseline PCSK9 levels and the degree and time course of PCSK9 neutralisation were found to be similar between patients with mild or moderate hepatic impairment and healthy volunteers. This resulted in similar time course and extent of absolute LDL-C lowering. Evolocumab has not been studied in patients with severe hepatic impairment (Child-Pugh class C) (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Body weight
 
 Body weight was a significant covariate in population PK analysis impacting evolocumab trough concentrations, however there was no impact on LDL-C reduction. Following repeat subcutaneous administration of 140 mg every 2 weeks, the 12-week trough concentrations were 147% higher and 70% lower in patients of 69 kg and 93 kg respectively, than that of the typical 81 kg subject. Less impact from body weight was seen with repeated subcutaneous evolocumab 420 mg monthly doses.
@@ -554,8 +596,6 @@ Body weight was a significant covariate in population PK analysis impacting evol
 ## Other special populations
 
 Population pharmacokinetic analyses suggest that no dose adjustments are necessary for age, race or gender. The pharmacokinetics of evolocumab were influenced by body weight without having any notable effect on LDL-C lowering. Therefore, no dose adjustments are necessary based on body weight.
-
-<div style=\"page-break-after: always\"></div>
 
 The pharmacokinetics of Repatha were evaluated in 103 paediatric patients aged ≥ 10 to &lt; 18 years with heterozygous familial hypercholesterolaemia (HAUSER-RCT). Following subcutaneous administration of 420 mg Repatha once monthly, mean (SD) trough serum concentrations were 22.4 (14.7) mcg/mL, 64.9 (34.4) mcg/mL and 25.8 (19.2) mcg/mL over the Week 12, Week 22 and Week 24 time points, respectively. The pharmacokinetics of Repatha were evaluated in 12 paediatric patients aged ≥ 10 to &lt; 18 years with homozygous familial hypercholesterolaemia (HAUSER-OLE). Following subcutaneous administration of 420 mg Repatha once monthly, mean (SD) serum trough concentrations were 20.3 (14.6) mcg/mL and 17.6 (28.6) mcg/mL at Week 12 and Week 80, respectively.
 
@@ -570,6 +610,8 @@ In cynomolgus monkeys at exposures much higher than patients receiving 420 mg ev
 Apart from a reduced T-cell Dependent Antibody Response in cynomolgus monkeys immunised with keyhole limpet haemocyanin (KLH) after 3 months of treatment with evolocumab, no adverse effects were observed in hamsters (up to 3 months) and cynomolgus monkeys (up to 6 months) at exposures much higher than patients receiving evolocumab at 420 mg once monthly. The intended pharmacological effect of decreased serum LDL-C and total cholesterol were observed in these studies and was reversible upon cessation of treatment.
 
 In combination with rosuvastatin for 3 months, no adverse effects were observed in cynomolgus monkeys at exposures much higher than patients receiving 420 mg evolocumab once monthly. Reductions in serum LDL-C and total cholesterol were more pronounced than observed previously with evolocumab alone, and were reversible upon cessation of treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -587,13 +629,11 @@ Repatha 140 mg solution for injection in pre-filled syringe
 
 3 years.
 
-<div style=\"page-break-after: always\"></div>
-
-## Repatha 140 mg solution for injection in pre-filled pen
+Repatha 140 mg solution for injection in pre-filled pen
 
 3 years.
 
-## Repatha 420 mg solution for injection in cartridge
+Repatha 420 mg solution for injection in cartridge
 
 2 years.
 
@@ -601,7 +641,7 @@ If removed from the refrigerator, Repatha may be stored at room temperature (up 
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C -8°C). Do not freeze.
+Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Repatha 140 mg solution for injection in pre-filled syringe
 
@@ -621,6 +661,8 @@ Repatha 140 mg solution for injection in pre-filled syringe
 
 One mL solution in a single use pre-filled syringe made from type I glass with stainless steel 27 gauge needle.
 
+<div style=\"page-break-after: always\"></div>
+
 The needle cover of the pre-filled syringe is made from dry natural rubber (a derivative of latex, see section 4.4).
 
 Pack size of one pre-filled syringe.
@@ -635,9 +677,7 @@ Pack sizes of one, two, three pre-filled pens or multipacks containing 6 (3 pack
 
 A 3.5 mL solution in a single use cartridge made from cyclic olefin polymer with elastomer septum and piston as product-contact materials, and a resin cap. The pre-filled cartridge is assembled with a telescopic screw device component. The cartridge assembly is co-packed with an administration device. The fluid path within the administration device is made from stainless steel and non-DEHP polyvinyl chloride, with a stainless steel 29 gauge needle. The administration device contains silver oxide-zinc batteries and includes an adhesive patch made from polyester tape with an acrylate adhesive. The administration device is designed for use only with the provided 3.5 mL pre-filled cartridge assembly.
 
-<div style=\"page-break-after: always\"></div>
-
-Pack sizes of one cartridge/automated mini-doser or multipack of three (3x1) cartridges/automated mini-dosers.
+Pack sizes of one cartridge/automated mini-doser or multipack of three (3×1) cartridges/automated mini-dosers.
 
 Not all pack sizes may be marketed.
 
@@ -657,17 +697,23 @@ Repatha 140 mg solution for injection in pre-filled syringe
 
 EU/1/15/1016/001 - 1 pre-filled syringe
 
-Repatha 140 mg solution for injection in pre-filled pen
+<div style=\"page-break-after: always\"></div>
+
+## Repatha 140 mg solution for injection in pre-filled pen
 
 ```
 EU/1/15/1016/002 - 1 pre-filled pen EU/1/15/1016/003 - 2 pre-filled pens EU/1/15/1016/004 - 3 pre-filled pens
 ```
 
-EU/1/15/1016/005 - 6 (3x2) pre-filled pens (multipack)
+EU/1/15/1016/005 - 6 (3×2) pre-filled pens (multipack)
 
-Repatha 420 mg solution for injection in cartridge
+## Repatha 420 mg solution for injection in cartridge
 
-EU/1/15/1016/006 - 1 cartridge with co-packed automated mini-doser EU/1/15/1016/007 - 3 (3x1) cartridges with co-packed automated mini-dosers (multipack)
+```
+EU/1/15/1016/006 - 1 cartridge with co-packed automated mini-doser
+```
+
+EU/1/15/1016/007 - 3 (3×1) cartridges with co-packed automated mini-dosers (multipack)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -677,7 +723,7 @@ Date of latest renewal: 14 April 2020
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -793,8 +839,7 @@ Store in the original carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -811,14 +856,12 @@ EU/1/15/1016/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Repatha 140 mg syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included
 
@@ -834,27 +877,23 @@ NN
 
 ## PRE-FILLED SYRINGE BLISTER
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Repatha 140 mg solution for injection evolocumab
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Amgen Europe B.V.
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -862,12 +901,13 @@ MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 ## LABEL PRE-FILLED SYRINGE
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Repatha 140 mg injection evolocumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -879,8 +919,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 ml
 
@@ -907,7 +947,7 @@ Proline, glacial acetic acid, polysorbate 80, sodium hydroxide, water for inject
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection.
+## Solution for injection.
 
 - 1 SureClick pre-filled pen.
 - 2 SureClick pre-filled pens.
@@ -937,35 +977,28 @@ Do not freeze.
 
 Store in the original carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Amgen Europe B.V.
-
-Minervum 7061,
-
-4817 ZK Breda,
+Amgen Europe B.V. Minervum 7061, 4817 ZK Breda,
 
 The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/15/1016/002
-
-EU/1/15/1016/003
-
-EU/1/15/1016/004
+EU/1/15/1016/002 EU/1/15/1016/003 EU/1/15/1016/004
 
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Repatha 140 mg pen
 
@@ -975,11 +1008,7 @@ Repatha 140 mg pen
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-<div style=\"page-break-after: always\"></div>
+PC SN
 
 NN
 
@@ -1029,8 +1058,6 @@ Do not freeze.
 
 Store in the original carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1048,7 +1075,6 @@ EU/1/15/1016/005
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1061,15 +1087,19 @@ Repatha 140 mg pen
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-INTERMEDIATE CARTON OF MULTIPACK (without blue box)
+## INTERMEDIATE CARTON OF MULTIPACK (without blue box)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1085,9 +1115,9 @@ Proline, glacial acetic acid, polysorbate 80, sodium hydroxide, water for inject
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection.
+## Solution for injection.
 
-2 SureClick pre-filled pens. Component of a multipack, can't be sold separately.
+2 SureClick pre-filled pens. Component of a multi-pack, can't be sold separately.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1113,7 +1143,9 @@ Do not freeze.
 
 Store in the original carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1139,18 +1171,16 @@ Repatha 140 mg pen
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL PRE-FILLED PEN                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL PRE-FILLED PEN                                               |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Repatha 140 mg injection evolocumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1162,8 +1192,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -1235,7 +1265,6 @@ EU/1/15/1016/006
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1274,7 +1303,7 @@ Proline, glacial acetic acid, polysorbate 80, sodium hydroxide, water for inject
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection.
+## Solution for injection.
 
 Multipack: 3 (3 packs of 1) cartridges and automated mini-dosers.
 
@@ -1302,8 +1331,6 @@ Do not freeze.
 
 Store in the original carton in order to protect from light and moisture.
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1321,7 +1348,6 @@ EU/1/15/1016/007
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1340,9 +1366,11 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-INTERMEDIATE CARTON OF MULTIPACK (without blue box)
+## INTERMEDIATE CARTON OF MULTIPACK (without blue box)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1358,7 +1386,7 @@ Proline, glacial acetic acid, polysorbate 80, sodium hydroxide, water for inject
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection.
+## Solution for injection.
 
 1 cartridge and automated mini-doser. Component of a multipack, can't be sold separately.
 
@@ -1403,38 +1431,29 @@ EU/1/15/1016/007
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Repatha 420 mg cartridge
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN
-
-NN
+17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL CARTRIDGE                                                  |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL CARTRIDGE                                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Repatha 420 mg injection evolocumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1446,8 +1465,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3.5 ml
 
@@ -1468,11 +1487,11 @@ Lot
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -The warnings and instructions in this document are intended for the person taking the medicine. If you are a parent or carer responsible for giving the medicine to someone else, such as a child, you will need to apply the information accordingly
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- The warnings and instructions in this document are intended for the person taking the medicine. If you are a parent or carer responsible for giving the medicine to someone else, such as a child, you will need to apply the information accordingly.
 
 ## What is in this leaflet
 
@@ -1495,19 +1514,19 @@ Repatha contains the active substance evolocumab, a monoclonal antibody (a type 
 
 Repatha is used in addition to your cholesterol lowering diet if you are:
 
-- an adult with a high cholesterol level in your blood (primary hypercholesterolaemia [heterozygous familial and non-familial] or mixed dyslipidaemia). It is given:
-- -together with a statin or other cholesterol lowering medication, if the maximum dose of a statin does not lower levels of cholesterol sufficiently.
-- -alone or together with other cholesterol lowering medications when statins do not work well or cannot be used.
+- an adult with a high cholesterol level in your blood (pr imary hypercholesterolaemia [heterozygous familial and non-familial] or mixed dyslipidaemia). It is given:
+- together with a statin or other cholesterol lowering medication, if the maximum dose of a statin does not lower levels of cholesterol sufficiently.
+- alone or together with other cholesterol lowering medications when statins do not work well or cannot be used.
 - a child aged 10 years and older with a high cholesterol level in your blood because of a condition that runs in your family (heterozygous familial hypercholesterolaemia or HeFH). It is given alone or together with other cholesterol lowering treatments
 
 <div style=\"page-break-after: always\"></div>
 
 - an adult or a child aged 10 years and older with a high cholesterol level in your blood because of a condition that runs in your family (homozygous familial hypercholesterolaemia or HoFH). It is given together with other cholesterol lowering treatments
-- an adult with a high cholesterol level in your blood and established atherosclerotic cardiovascular disease (a history of heart attack, stroke or blood vessel problems). It is given:
-- -together with a statin or other cholesterol lowering medication, if the maximum dose of a statin does not lower levels of cholesterol sufficiently.
-- -alone or together with other cholesterol lowering medications when statins do not work well or cannot be used.
+- an adult with a high cholesterol level in your blood, who already has atherosclerotic cardiovascular disease or at high risk for developing a cardiovascular event. It is given:
+- together with a statin or other cholesterol lowering medication, if the maximum dose of a statin does not lower levels of cholesterol sufficiently.
+- alone or together with other cholesterol lowering medications when statins do not work well or cannot be used.
 
-Repatha is used in patients who cannot control their cholesterol levels with a cholesterol lowering diet alone. You should stay on your cholesterol lowering diet while taking this medicine. Repatha can help prevent heart attack, stroke, and certain heart procedures to restore blood flow to the heart due to a build-up of fatty deposits in your arteries (also known as atherosclerotic cardiovascular disease).
+Repatha is used in patients who cannot control their cholesterol levels with a cholesterol lowering diet alone. You should stay on your cholesterol lowering diet while taking this medicine. In patients who are at high risk of a cardiovascular event, Repatha can help prevent heart attack, stroke, and certain heart procedures to restore blood flow to the heart due to a build-up of fatty deposits in your arteries (also known as atherosclerotic cardiovascular disease).
 
 ## 2. What you need to know before you use Repatha
 
@@ -1539,9 +1558,9 @@ Repatha has not been tested in pregnant women. It is not known if Repatha will h
 
 It is not known whether Repatha is found in breast milk.
 
-It is important to tell your doctor if you are breast-feeding or plan to do so. Your doctor will then help you decide whether to stop breast-feeding, or whether to stop taking Repatha, considering the benefit of breast-feeding to the baby and the benefit of Repatha to the mother.
-
 <div style=\"page-break-after: always\"></div>
+
+It is important to tell your doctor if you are breast-feeding or plan to do so. Your doctor will then help you decide whether to stop breast-feeding, or whether to stop taking Repatha, considering the benefit of breast-feeding to the baby and the benefit of Repatha to the mother.
 
 ## Driving and using machines
 
@@ -1549,7 +1568,11 @@ Repatha has no or negligible influence on the ability to drive and use machines.
 
 ## Repatha contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium - free'.
+
+## Repatha contains proline
+
+This medicine contains 25 mg of proline in each 1.0 mL of 140 mg/mL evolocumab. Proline may be harmful for patients with hyperprolinaemia, a rare genetic disorder in which proline builds up in the body. If you (or your child) have hyperprolinaemia, do not use this medicine unless your doctor has recommended it.
 
 ## 3. How to use Repatha
 
@@ -1560,7 +1583,7 @@ The recommended dose depends on the underlying condition:
 - for adults with primary hypercholesterolaemia and mixed dyslipidaemia the dose is either 140 mg every two weeks or 420 mg once monthly.
 - for children aged 10 years or older with heterozygous familial hypercholesterolaemia the dose is either 140 mg every two weeks or 420 mg once monthly.
 - for adults or children aged 10 years or older with homozygous familial hypercholesterolaemia the recommended starting dose is 420 mg once monthly. After 12 weeks your doctor may decide to increase the dose to 420 mg every two weeks. If you also receive apheresis, a procedure similar to dialysis where cholesterol and other fats are removed from the blood, your doctor may decide to start you on a dose of 420 mg every two weeks to coincide with your apheresis treatment.
-- for adults with established atherosclerotic cardiovascular disease (a history of heart attack, stroke or blood vessel problems) the dose is either 140 mg every two weeks or 420 mg once monthly.
+- for adults with established atherosclerotic cardiovascular disease or at high risk for developing a cardiovascular event, the dose is either 140 mg every two weeks or 420 mg once monthly.
 
 Repatha is given as an injection under the skin (subcutaneous).
 
@@ -1572,13 +1595,13 @@ See the detailed 'Instructions for Use' at the end of this leaflet for instructi
 
 Before starting Repatha, you should be on a diet to lower your cholesterol. You should keep on this cholesterol lowering diet while taking Repatha.
 
+<div style=\"page-break-after: always\"></div>
+
 If your doctor has prescribed Repatha along with another cholesterol lowering medicine, follow your doctor's instructions on how to take these medicines together. In this case, please read the dosage instructions in the package leaflet of that particular medicine as well.
 
 ## If you use more Repatha than you should
 
 Contact your doctor or pharmacist immediately.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you forget to take Repatha
 
@@ -1605,7 +1628,7 @@ Uncommon (may affect up to 1 in 100 people)
 - Hives, red itchy bumps on your skin (urticaria)
 - Flu-like symptoms
 
-Rare (may affect up to 1 in 1,000 people)
+Rare (may affect up to 1 in 1 000 people)
 
 - Swelling of the face, mouth, tongue, or throat (angioedema)
 
@@ -1619,13 +1642,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C -8°C). Do not freeze. Store in the original carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Store in the original carton in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
 
 Your pre-filled syringe may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. After removal from the refrigerator, Repatha may be stored at room temperature (up to 25°C) in the original carton and must be used within 1 month.
 
 Do not use this medicine if you notice it is discoloured or contains large lumps, flakes or coloured particles.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater or household waste.
 
@@ -1635,8 +1658,8 @@ Ask your pharmacist how to throw away medicines you no longer use. These measure
 
 ## What Repatha contains
 
-- -The active substance is evolocumab. Each pre-filled syringe contains 140 mg of evolocumab in 1 mL of solution.
-- -The other ingredients are proline, glacial acetic acid, polysorbate 80, sodium hydroxide, water for injections.
+- The active substance is evolocumab. Each pre-filled syringe contains 140 mg of evolocumab in 1 mL of solution.
+- The other ingredients are proline, glacial acetic acid, polysorbate 80, sodium hydroxide, water for injections.
 
 ## What Repatha looks like and contents of the pack
 
@@ -1654,29 +1677,23 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## Manufacturer
 
-Amgen Technology (Ireland) Unlimited Company
-
-Pottery Road Dun Laoghaire Co Dublin Ireland
+Amgen Technology (Ireland) Unlimited Company Pottery Road Dun Laoghaire Co Dublin Ireland
 
 ## Manufacturer
 
-Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-België/Belgique/Belgien s.a. Amgen n.v. Tel/Tél: +32 (0)2 7752711
-
-Lietuva
-
-Amgen Switzerland AG Vilniaus filialas
-
-Tel: +370 5 219 7474
+Amgen NV Telecomlaan 5-7 1831 Diegem Belgium For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
+## België/Belgique/Belgien
+
+s.a. Amgen n.v. Tel/Tél: +32 (0)2 7752711
+
 ## България
 
-Амджен България ЕООД Тел.: +359 (0)2 424 7440
+Амджен България ЕООД
+
+Тел.: +359 (0)2 424 7440
 
 ## Česká republika
 
@@ -1684,11 +1701,11 @@ Amgen s.r.o. Tel: +420 221 773 500
 
 ## Danmark
 
-Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
+Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
 
 ## Deutschland
 
-AMGEN GmbH Tel.: +49 89 1490960
+Amgen GmbH Tel.: +49 89 1490960
 
 ## Eesti
 
@@ -1696,21 +1713,23 @@ Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
 
 ## Ελλάδα
 
-Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ.: +30 210 3447000
+Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ : +30 210 3447000
 
 ## España
 
-Amgen S.A. Tel: +34 93 600 18 60
+Amgen S.A.
+
+Tel: +34 93 600 18 60
 
 ## France
 
-Amgen S.A.S.
-
-Tél: +33 (0)9 69 363 363
+Amgen S.A.S. Tél: +33 (0)9 69 363 363
 
 ## Hrvatska
 
-Amgen d.o.o. Tel: +385 (0)1 562 57 20
+Amgen d.o.o.
+
+Tel: +385 (0)1 562 57 20
 
 ## Ireland
 
@@ -1718,15 +1737,19 @@ Amgen Ireland Limited Tel: +353 1 8527400
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor
 
-## Italia
+Sími: +354 535 7000
 
-Amgen S.r.l. Tel: +39 02 6241121
+## Lietuva
+
+Amgen Switzerland AG Vilniaus filialas Tel. +370 5 219 7474
 
 ## Luxembourg/Luxemburg
 
-s.a. Amgen Belgique/Belgien Tel/Tél: +32 (0)2 7752711
+s.a. Amgen
+
+Belgique/Belgien Tel/Tél: +32 (0)2 7752711
 
 ## Magyarország
 
@@ -1736,7 +1759,9 @@ Tel.: +36 1 35 44 700
 
 ## Malta
 
-Amgen B.V. The Netherlands Tel: +31 (0)76 5732500
+Amgen S.r.l. Italy
+
+Tel: +39 02 6241121
 
 ## Nederland
 
@@ -1744,7 +1769,7 @@ Amgen B.V. Tel: +31 (0)76 5732500
 
 ## Norge
 
-Amgen AB Tel: +47 23308000
+Amgen AB Tlf: +47 23308000
 
 ## Österreich
 
@@ -1756,7 +1781,7 @@ Amgen Biotechnologia Sp. z o.o. Tel.: +48 22 581 3000
 
 ## Portugal
 
-Amgen Biofarmacêutica, Lda. Tel: +351 21 422 06 06
+Amgen Biofarmacêutica, Lda. Tel: +351 21 4220606
 
 ## România
 
@@ -1764,23 +1789,29 @@ Amgen România SRL Tel: +4021 527 3000
 
 ## Slovenija
 
-AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
+AMGEN zdravila d.o.o.
+
+Tel: +386 (0)1 585 1767
 
 ## Slovenská republika
 
 Amgen Slovakia s.r.o. Tel: +421 2 321 114 49
 
-## Suomi/Finland
+<div style=\"page-break-after: always\"></div>
 
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
+## Italia
+
+Amgen S.r.l.
+
+Tel: +39 02 6241121
 
 ## Kύπρος
 
 C.A. Papaellinas Ltd
 
-Τηλ.: +357 22741 741
+Τηλ
 
-<div style=\"page-break-after: always\"></div>
+: +357 22741 741
 
 ## Latvija
 
@@ -1792,21 +1823,19 @@ Tel: +371 257 25888
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+## Suomi/Finland
+
+Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
 
 ## Sverige
 
 Amgen AB
 
 Tel: +46 (0)8 6951100
-
-## United Kingdom (Northern Ireland)
-
-Amgen Limited
-
-Tel: +44 (0)1223 420305
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1822,28 +1851,24 @@ Tel: +44 (0)1223 420305
 
 ## Before you use a single use Repatha pre-filled syringe, read this important information:
 
+- Do not try to give the injection until you have fully read and understood these instructions for use.
 - Do not freeze or use the Repatha pre-filled syringe if it has been frozen.
 - Do not use the Repatha pre-filled syringe if the packaging is open or damaged.
 - Do not use the Repatha pre-filled syringe if it has been dropped onto a hard surface. Part of the syringe may be broken even if you cannot see the break. Use a new Repatha pre-filled syringe.
 - Do not remove the grey needle cap from the Repatha pre-filled syringe until you are ready to inject.
 
-## Step 1: Prepare
-
-## A Remove the Repatha pre-filled syringe carton from the refrigerator and wait 30 minutes.
-
-Wait at least 30 minutes for the pre-filled syringe in the carton to naturally reach room temperature before injecting.
-
-Check that the name Repatha appears on the carton label.
-
-- Do not try to warm the Repatha pre-filled syringe by using a heat source such as hot water or microwave.
-- Do not leave the Repatha pre-filled syringe exposed to direct sunlight.
-- Do not shake the Repatha pre-filled syringe.
+| Step 1: Prepare - A                                                                                                                                                              | Step 1: Prepare - Remove the Repatha pre-filled syringe carton from the refrigerator and wait 30 minutes.                                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wait at least 30 minutes for the pre-filled syringe in the carton to naturally reach room temperature before injecting. Check that the name Repatha appears on the carton label. | Wait at least 30 minutes for the pre-filled syringe in the carton to naturally reach room temperature before injecting. Check that the name Repatha appears on the carton label. |
+| •                                                                                                                                                                                | Do not try to warm the Repatha pre-filled syringe by using a heat source such as hot water or microwave.                                                                         |
+| •                                                                                                                                                                                | Do not leave the Repatha pre-filled syringe exposed to direct sunlight.                                                                                                          |
+| •                                                                                                                                                                                | Do not shake the Repatha pre-filled syringe.                                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
 ## B Gather all materials needed for your injection.
 
-Wash your hands thoroughly with soap and water.
+## Wash your hands thoroughly with soap and water.
 
 ## On a clean, well-lit, flat work surface, place:
 
@@ -1854,20 +1879,20 @@ Wash your hands thoroughly with soap and water.
 - Sharps disposal container.
 - Do not use if expiry date on the Repatha pre-filled syringe carton has passed.
 
-## C Choose your injection site.
-
 <!-- image -->
 
 ## You can use:
 
 - Thigh.
-- Belly, except for the 2 inches (5 centimetres) around the belly button.
+- Stomach area (abdomen), except for the 2 inches (5 centimetres) around the belly button.
 - Outer area of upper arm (only if someone else is giving you the injections).
 - Do not choose an area where the skin is tender, bruised, red, or hard. Avoid injecting into areas with scars or stretch marks.
 
 <!-- image -->
 
 Choose a different site each time you give yourself an injection. If you need to use the same injection site, just make sure it is not the same spot on that site you used last time.
+
+<div style=\"page-break-after: always\"></div>
 
 ## D Clean your injection site.
 
@@ -1877,13 +1902,11 @@ Clean your injection site with an alcohol wipe. Let your skin dry before injecti
 
 - Do not touch this area of skin again before injecting.
 
-<div style=\"page-break-after: always\"></div>
-
 ## E Remove the pre-filled syringe from the tray.
 
-## Turn tray over
+Turn tray over Gently Press
 
-## Gently Press
+<!-- image -->
 
 <!-- image -->
 
@@ -1900,7 +1923,11 @@ Clean your injection site with an alcohol wipe. Let your skin dry before injecti
 
 Always hold the pre-filled syringe by the syringe barrel.
 
-## F Inspect medicine and syringe.
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -1921,6 +1948,8 @@ Always hold the pre-filled syringe by the syringe barrel.
 
 1.
 
+2.
+
 <!-- image -->
 
 It is normal to see a drop of medicine at the end of the needle.
@@ -1932,7 +1961,7 @@ Immediately place the cap in the sharps disposal container.
 - Do not twist or bend the grey needle cap. This can damage the needle.
 - Do not put the grey needle cap back onto the pre-filled syringe.
 
-## B Remove the air bubble / gap.
+## B Remove the air bubble/gap.
 
 You may notice an air bubble/gap in the Repatha pre-filled syringe.
 
@@ -1951,11 +1980,9 @@ You may notice an air bubble/gap in the Repatha pre-filled syringe.
 
 Pinch skin firmly between your thumb and fingers, creating an area about 2 inches (5 centimetres) wide.
 
-<!-- image -->
-
 It is important to keep the skin pinched while injecting.
 
-2.
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1983,11 +2010,11 @@ If there is blood, press a cotton ball or gauze pad on your injection site. Appl
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -The warnings and instructions in this document are intended for the person taking the medicine. If you are a parent or carer responsible for giving the medicine to someone else, such as a child, you will need to apply the information accordingly.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- The warnings and instructions in this document are intended for the person taking the medicine. If you are a parent or carer responsible for giving the medicine to someone else, such as a child, you will need to apply the information accordingly.
 
 ## What is in this leaflet
 
@@ -2004,25 +2031,25 @@ If there is blood, press a cotton ball or gauze pad on your injection site. Appl
 
 Repatha is a medicine that lowers levels of 'bad' cholesterol, a type of fat, in the blood.
 
-Repatha contains the active substance evolocumab, a monoclonal antibody (a type of specialised protein designed to attach to a target substance in the body). Evolocumab is designed to attach to a substance called PCSK9 that affects the liver's ability to t ake in cholesterol. By attaching to, and mopping up PCSK9, the medicine increases the amount of cholesterol entering the liver and so lowers the level of cholesterol in the blood.
+Repatha contains the active substance evolocumab, a monoclonal antibody (a type of specialised protein designed to attach to a target substance in the body). Evolocumab is designed to attach to a substance called PCSK9 that affects the liver's ability to take in cholesterol. By attaching to, and mopping up PCSK9, the medicine increases the amount of cholesterol entering the liver and so lowers the level of cholesterol in the blood.
 
 ## What Repatha is used for
 
 Repatha is used in addition to your cholesterol lowering diet if you are:
 
 - an adult with a high cholesterol level in your blood (primary hypercholesterolaemia [heterozygous familial and non-familial] or mixed dyslipidaemia). It is given:
-- -together with a statin or other cholesterol lowering medication, if the maximum dose of a statin does not lower levels of cholesterol sufficiently.
-- -alone or together with other cholesterol lowering medications when statins do not work well or cannot be used.
+- together with a statin or other cholesterol lowering medication, if the maximum dose of a statin does not lower levels of cholesterol sufficiently.
+- alone or together with other cholesterol lowering medications when statins do not work well or cannot be used.
 - a child aged 10 years and older with a high cholesterol level in your blood because of a condition that runs in your family (heterozygous familial hypercholesterolaemia or HeFH). It is given alone or together with other cholesterol lowering treatments.
 
 <div style=\"page-break-after: always\"></div>
 
 - an adult or a child aged 10 years and older with a high cholesterol level in your blood because of a condition that runs in your family (homozygous familial hypercholesterolaemia or HoFH). It is given together with other cholesterol lowering treatments.
-- an adult with a high cholesterol level in your blood and established atherosclerotic cardiovascular disease (a history of heart attack, stroke or blood vessel problems). It is given:
-- -together with a statin or other cholesterol lowering medication, if the maximum dose of a statin does not lower levels of cholesterol sufficiently.
-- -alone or together with other cholesterol lowering medications when statins do not work well or cannot be used.
+- an adult with a high cholesterol level in your blood, who already has atherosclerotic cardiovascular disease or at high risk for developing a cardiovascular event. It is given:
+- together with a statin or other cholesterol lowering medication, if the maximum dose of a statin does not lower levels of cholesterol sufficiently.
+- alone or together with other cholesterol lowering medications when statins do not work well or cannot be used.
 
-Repatha is used in patients who cannot control their cholesterol levels with a cholesterol lowering diet alone. You should stay on your cholesterol lowering diet while taking this medicine. Repatha can help prevent heart attack, stroke, and certain heart procedures to restore blood flow to the heart due to a build-up of fatty deposits in your arteries (also known as atherosclerotic cardiovascular disease).
+Repatha is used in patients who cannot control their cholesterol levels with a cholesterol lowering diet alone. You should stay on your cholesterol lowering diet while taking this medicine. In patients who are at high risk for developing a cardiovascular event, Repatha can help prevent heart attack, stroke, and certain heart procedures to restore blood flow to the heart due to a build-up of fatty deposits in your arteries (also known as atherosclerotic cardiovascular disease).
 
 ## 2. What you need to know before you use Repatha
 
@@ -2062,7 +2089,11 @@ Repatha has no or negligible influence on the ability to drive and use machines.
 
 ## Repatha contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium - free'.
+
+## Repatha contains proline
+
+This medicine contains 25 mg of proline in each 1.0 mL of 140 mg/mL evolocumab. Proline may be harmful for patients with hyperprolinaemia, a rare genetic disorder in which proline builds up in the body. If you (or your child) have hyperprolinaemia, do not use this medicine unless your doctor has recommended it.
 
 ## 3. How to use Repatha
 
@@ -2073,7 +2104,7 @@ The recommended dose depends on the underlying condition:
 - for adults with primary hypercholesterolaemia and mixed dyslipidaemia the dose is either 140 mg every two weeks or 420 mg once monthly.
 - for children aged 10 years or older with heterozygous familial hypercholesterolaemia the dose is either 140 mg every two weeks or 420 mg once monthly.
 - for adults or children aged 10 years or older with homozygous familial hypercholesterolaemia the recommended starting dose is 420 mg once monthly. After 12 weeks your doctor may decide to increase the dose to 420 mg every two weeks. If you also receive apheresis, a procedure similar to dialysis where cholesterol and other fats are removed from the blood, your doctor may decide to start you on a dose of 420 mg every two weeks to coincide with your apheresis treatment.
-- for adults with established atherosclerotic cardiovascular disease (a history of heart attack, stroke or blood vessel problems) the dose is either 140 mg every two weeks or 420 mg once monthly.
+- for adults with established atherosclerotic cardiovascular disease or at high risk for developing a cardiovascular event, the dose is either 140 mg every two weeks or 420 mg once monthly.
 
 Repatha is given as an injection under the skin (subcutaneous).
 
@@ -2087,11 +2118,11 @@ Before starting Repatha, you should be on a diet to lower your cholesterol. You 
 
 If your doctor has prescribed Repatha along with another cholesterol lowering medicine, follow your doctor's instructions on how to take these medicines together. In this case, please read the dosage instructions in the package leaflet of that particular medicine as well.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you use more Repatha than you should
 
 Contact your doctor or pharmacist immediately.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you forget to take Repatha
 
@@ -2118,7 +2149,7 @@ Uncommon (may affect up to 1 in 100 people)
 - Hives, red itchy bumps on your skin (urticaria)
 - Flu-like symptoms
 
-Rare (may affect up to 1 in 1,000 people)
+Rare (may affect up to 1 in 1 000 people)
 
 - Swelling of the face, mouth, tongue, or throat (angioedema)
 
@@ -2132,15 +2163,15 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C -8°C). Do not freeze.
+Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Store in the original carton in order to protect from light.
 
 Your pre-filled pen may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. After removal from the refrigerator, Repatha may be stored at room temperature (up to 25°C) in the original carton and must be used within 1 month.
 
-Do not use this medicine if you notice it is discoloured or contains large lumps, flakes or coloured particles.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not use this medicine if you notice it is discoloured or contains large lumps, flakes or coloured particles.
 
 Do not throw away any medicines via wastewater or household waste.
 
@@ -2150,8 +2181,8 @@ Ask your pharmacist how to throw away medicines you no longer use. These measure
 
 ## What Repatha contains
 
-- -The active substance is evolocumab. Each SureClick pre-filled pen contains 140 mg of evolocumab in 1 mL of solution.
-- -The other ingredients are proline, glacial acetic acid, polysorbate 80, sodium hydroxide, water for injections.
+- The active substance is evolocumab. Each SureClick pre-filled pen contains 140 mg of evolocumab in 1 mL of solution.
+- The other ingredients are proline, glacial acetic acid, polysorbate 80, sodium hydroxide, water for injections.
 
 ## What Repatha looks like and contents of the pack
 
@@ -2161,7 +2192,9 @@ Each pack contains one, two, three or six single use SureClick pre-filled pens.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
+Amgen Europe B.V.
+
+Minervum 7061 4817 ZK Breda The Netherlands
 
 ## Marketing Authorisation Holder
 
@@ -2171,7 +2204,13 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 Amgen Technology (Ireland) Unlimited Company
 
-Pottery Road Dun Laoghaire Co Dublin Ireland
+Pottery Road
+
+Dun Laoghaire
+
+Co Dublin
+
+Ireland
 
 ## Manufacturer
 
@@ -2179,19 +2218,23 @@ Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien s.a. Amgen n.v. Tel/Tél: +32 (0)2 7752711
+## België/Belgique/Belgien
+
+s.a. Amgen n.v.
+
+Tel/Tél: +32 (0)2 7752711
 
 Lietuva
 
-Amgen Switzerland AG Vilniaus filialas
-
-Tel: +370 5 219 7474
+Amgen Switzerland AG Vilniaus filialas Tel. +370 5 219 7474
 
 <div style=\"page-break-after: always\"></div>
 
 ## България
 
-Амджен България ЕООД Тел.: +359 (0)2 424 7440
+Амджен България ЕООД
+
+Тел.: +359 (0)2 424 7440
 
 ## Česká republika
 
@@ -2199,11 +2242,11 @@ Amgen s.r.o. Tel: +420 221 773 500
 
 ## Danmark
 
-Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
+Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
 
 ## Deutschland
 
-AMGEN GmbH Tel.: +49 89 1490960
+Amgen GmbH Tel.: +49 89 1490960
 
 ## Eesti
 
@@ -2211,7 +2254,7 @@ Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
 
 ## Ελλάδα
 
-Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ.: +30 210 3447000
+Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ : +30 210 3447000
 
 ## España
 
@@ -2223,9 +2266,7 @@ Amgen S.A.S. Tél: +33 (0)9 69 363 363
 
 ## Hrvatska
 
-Amgen d.o.o.
-
-Tel: +385 (0)1 562 57 20
+Amgen d.o.o. Tel: +385 (0)1 562 57 20
 
 ## Ireland
 
@@ -2233,11 +2274,13 @@ Amgen Ireland Limited Tel: +353 1 8527400
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
-Amgen S.r.l. Tel: +39 02 6241121
+Amgen S.r.l.
+
+Tel: +39 02 6241121
 
 ## Luxembourg/Luxemburg
 
@@ -2245,13 +2288,11 @@ s.a. Amgen Belgique/Belgien Tel/Tél: +32 (0)2 7752711
 
 ## Magyarország
 
-Amgen Kft.
-
-Tel.: +36 1 35 44 700
+Amgen Kft. Tel.: +36 1 35 44 700
 
 ## Malta
 
-Amgen B.V. The Netherlands Tel: +31 (0)76 5732500
+Amgen S.r.l. Italy Tel: +39 02 6241121
 
 ## Nederland
 
@@ -2259,7 +2300,7 @@ Amgen B.V. Tel: +31 (0)76 5732500
 
 ## Norge
 
-Amgen AB Tel: +47 23308000
+Amgen AB Tlf: +47 23308000
 
 ## Österreich
 
@@ -2271,7 +2312,7 @@ Amgen Biotechnologia Sp. z o.o. Tel.: +48 22 581 3000
 
 ## Portugal
 
-Amgen Biofarmacêutica, Lda. Tel: +351 21 422 06 06
+Amgen Biofarmacêutica, Lda. Tel: +351 21 4220606
 
 ## România
 
@@ -2287,15 +2328,19 @@ Amgen Slovakia s.r.o. Tel: +421 2 321 114 49
 
 ## Suomi/Finland
 
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
+Amgen AB, sivuliike Suomessa/Amgen AB, filial
+
+i Finland Puh/Tel: +358 (0)9 54900500
+
+<div style=\"page-break-after: always\"></div>
 
 ## Kύπρος
 
 C.A. Papaellinas Ltd
 
-Τηλ.: +357 22741 741
+Τηλ
 
-<div style=\"page-break-after: always\"></div>
+: +357 22741 741
 
 ## Latvija
 
@@ -2307,21 +2352,11 @@ Tel: +371 257 25888
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
-## Sverige
-
-Amgen AB
-
-Tel: +46 (0)8 6951100
-
-## United Kingdom (Northern Ireland)
-
-Amgen Limited
-
-Tel: +44 (0)1223 420305
+Sverige Amgen AB Tel: +46 (0)8 6951100
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2337,6 +2372,7 @@ Repatha single use SureClick pre-filled pen
 
 ## Before you use the Repatha pre-filled pen, read this important information:
 
+- Do not try to give the injection until you have fully read and understood these instructions for use.
 - Do not freeze or use the Repatha pre-filled pen if it has been frozen.
 - Do not remove the orange cap from the Repatha pre-filled pen until you are ready to inject.
 - Do not use the Repatha pre-filled pen if it has been dropped on a hard surface. Part of the Repatha pre-filled pen may be broken even if you cannot see the break.
@@ -2355,13 +2391,11 @@ Repatha single use SureClick pre-filled pen
 
 ## B Inspect the Repatha pre-filled pen.
 
-Yellow safety guard (needle inside)
-
 <!-- image -->
 
 Make sure the medicine in the window is clear and colourless to slightly yellow.
 
-## Check the expiration date.
+Check the expiration date.
 
 - Do not use the pre-filled pen if medicine is cloudy or discoloured or contains large lumps, flakes, or particles.
 - Do not use the pre-filled pen if any part appears cracked or broken.
@@ -2387,12 +2421,6 @@ On a clean, well-lit work surface, place the:
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
 ## D Prepare and clean your injection site.
 
 <!-- image -->
@@ -2400,7 +2428,7 @@ On a clean, well-lit work surface, place the:
 ## Only use these injection sites:
 
 - Thigh.
-- Stomach area (abdomen), except for a 2 inch (5 centimetres) area around your belly button.
+- Stomach area (abdomen), except for a 2 inches (5 centimetres) area around your belly button.
 - Outer area of upper arm (only if someone else is giving you the injection).
 
 Clean the injection site with an alcohol wipe. Let your skin dry.
@@ -2409,27 +2437,9 @@ Clean the injection site with an alcohol wipe. Let your skin dry.
 - Choose a different site each time you give yourself an injection. If you need to use the same injection site, just make sure it is not the same spot on that site you used last time.
 - Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid injecting into areas with scars or stretch marks.
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
-## Step 2: Get ready
-
-- A Pull the orange cap straight off, only when you are ready to inject. Do not leave the orange cap off for more than 5 minutes . This can dry out the medicine.
-
-Orange cap
-
 <!-- image -->
-
-It is normal to see a drop of liquid at the end of the needle or yellow safety guard.
-
-- Do not twist, bend or wiggle the orange cap.
-- Do not put the orange cap back onto the pre-filled pen.
-- Do not put fingers into the yellow safety guard.
-
-Important: Do not remove the orange cap from the pre-filled pen until you are ready to inject.
-
-If you are unable to inject, please contact your healthcare provider.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2449,7 +2459,9 @@ OR
 
 Pinch the skin firmly between your thumb and fingers, creating an area about 2 inches (5 centimetres) wide.
 
-Important: It is important to keep skin stretched or pinched while injecting.
+Important:
+
+It is important to keep skin stretched or pinched while injecting.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2463,17 +2475,7 @@ Important: It is important to keep skin stretched or pinched while injecting.
 
 <!-- image -->
 
-## Step 4: Finish
-
-## A Discard the used pre-filled pen and orange needle cap.
-
 <!-- image -->
-
-Discard the used pre-filled pen and the orange cap in a sharps disposal container.
-
-Talk with your healthcare provider about proper disposal. There may be local guidelines for disposal.
-
-Keep the pre-filled pen and the sharps disposal container out of the sight and reach of children.
 
 - Do not reuse the pre-filled pen.
 - Do not recap the pre-filled pen or put fingers into the yellow safety guard.
@@ -2491,11 +2493,11 @@ If there is blood, press a cotton ball or gauze pad on your injection site. Do n
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -The warnings and instructions in this document are intended for the person taking the medicine. If you are a parent or carer responsible for giving the medicine to someone else, such as a child, you will need to apply the information accordingly.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- The warnings and instructions in this document are intended for the person taking the medicine. If you are a parent or carer responsible for giving the medicine to someone else, such as a child, you will need to apply the information accordingly.
 
 ## What is in this leaflet
 
@@ -2512,25 +2514,25 @@ If there is blood, press a cotton ball or gauze pad on your injection site. Do n
 
 Repatha is a medicine that lowers levels of 'bad' cholesterol, a type of fat, in the blood.
 
-Repatha contains the active substance evolocumab, a monoclonal antibody (a type of specialised protein designed to attach to a target substance in the body). Evolocumab is designed to attach to a substance called PCSK9 that affects the liver's ability to t ake in cholesterol. By attaching to, and mopping up PCSK9, the medicine increases the amount of cholesterol entering the liver and so lowers the level of cholesterol in the blood.
+Repatha contains the active substance evolocumab, a monoclonal antibody (a type of specialised protein designed to attach to a target substance in the body). Evolocumab is designed to attach to a substance called PCSK9 that affects the liver's ability to take in cholesterol. By attaching to, and mopping up PCSK9, the medicine increases the amount of cholesterol entering the liver and so lowers the level of cholesterol in the blood.
 
 ## What Repatha is used for
 
 Repatha is used in addition to your cholesterol lowering diet if you are:
 
 - an adult with a high cholesterol level in your blood (primary hypercholesterolaemia [heterozygous familial and non-familial] or mixed dyslipidaemia). It is given:
-- -together with a statin or other cholesterol lowering medication, if the maximum dose of a statin does not lower levels of cholesterol sufficiently.
-- -alone or together with other cholesterol lowering medications when statins do not work well or cannot be used.
+- together with a statin or other cholesterol lowering medication, if the maximum dose of a statin does not lower levels of cholesterol sufficiently.
+- alone or together with other cholesterol lowering medications when statins do not work well or cannot be used.
 - a child aged 10 years and older with a high cholesterol level in your blood because of a condition that runs in your family (heterozygous familial hypercholesterolaemia or HeFH). It is given alone or together with other cholesterol lowering treatments
 
 <div style=\"page-break-after: always\"></div>
 
-- an adult or a child aged 10 years and older with a high cholesterol level in your blood because of a condition that runs in your family (homozygous familial hypercholesterolaemia or HoFH). It is given together with the other cholesterol lowering treatments.
-- an adult with a high cholesterol level in your blood and established atherosclerotic cardiovascular disease (a history of heart attack, stroke or blood vessel problems). It is given:
-- -together with a statin or other cholesterol lowering medication, if the maximum dose of a statin does not lower levels of cholesterol sufficiently.
-- -alone or together with other cholesterol lowering medications when statins do not work well or cannot be used.
+- an adult or a child aged 10 years and older with a high cholesterol level in your blood because of a condition that runs in your family (homozygous familial hypercholesterolaemia or HoFH). It is given together with other cholesterol lowering treatments.
+- an adult with a high cholesterol level in your blood, who already has atherosclerotic cardiovascular disease or at high risk of developing a cardiovascular event. It is given:
+- together with a statin or other cholesterol lowering medication, if the maximum dose of a statin does not lower levels of cholesterol sufficiently.
+- alone or together with other cholesterol lowering medications when statins do not work well or cannot be used.
 
-Repatha is used in patients who cannot control their cholesterol levels with a cholesterol lowering diet alone. You should stay on your cholesterol lowering diet while taking this medicine. Repatha can help prevent heart attack, stroke, and certain heart procedures to restore blood flow to the heart due to a build-up of fatty deposits in your arteries (also known as atherosclerotic cardiovascular disease).
+Repatha is used in patients who cannot control their cholesterol levels with a cholesterol lowering diet alone. You should stay on your cholesterol lowering diet while taking this medicine. In patients who are at high risk of developing a cardiovascular event, Repatha can help prevent heart attack, stroke, and certain heart procedures to restore blood flow to the heart due to a build-up of fatty deposits in your arteries (also known as atherosclerotic cardiovascular disease).
 
 ## 2. What you need to know before you use Repatha
 
@@ -2570,7 +2572,11 @@ Repatha has no or negligible influence on the ability to drive and use machines.
 
 ## Repatha contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium - free'.
+
+## Repatha contains proline
+
+This medicine contains 25 mg of proline in each 1.0 mL of 140 mg/mL evolocumab. Proline may be harmful for patients with hyperprolinaemia, a rare genetic disorder in which proline builds up in the body. If you (or your child) have hyperprolinaemia, do not use this medicine unless your doctor has recommended it.
 
 ## 3. How to use Repatha
 
@@ -2581,11 +2587,11 @@ The recommended dose depends on the underlying condition:
 - for adults with primary hypercholesterolaemia and mixed dyslipidaemia the dose is either 140 mg every two weeks or 420 mg once monthly.
 - for children aged 10 years or older with heterozygous familial hypercholesterolaemia the dose is either 140 mg every two weeks or 420 mg once monthly.
 - for adults or children aged 10 years or older with homozygous familial hypercholesterolaemia the recommended starting dose is 420 mg once monthly. After 12 weeks your doctor may decide to increase the dose to 420 mg every two weeks. If you also receive apheresis, a procedure similar to dialysis where cholesterol and other fats are removed from the blood, your doctor may decide to start you on a dose of 420 mg every two weeks to coincide with your apheresis treatment.
-- for adults with established atherosclerotic cardiovascular disease (a history of heart attack, stroke or blood vessel problems) the dose is either 140 mg every two weeks or 420 mg once monthly.
+- for adults with established atherosclerotic cardiovascular disease or at high risk for developing a cardiovascular event, the dose is either 140 mg every two weeks or 420 mg once monthly.
 
 Repatha is given as an injection under the skin (subcutaneous).
 
-If your doctor decides that you or a caregiver can give the injections of Repatha using the automated mini-doser, you or your caregiver should receive training on how to prepare and inject Repatha correctly. Do not try to use the automated mini-doser until you have been shown how to do it by your doctor or nurse. It is recommended that 10 to 13 years olds are supervised by an adult when they are using the automated mini-doser.
+If your doctor decides that you or a caregiver can give the injections of Repatha using the automated mini-doser, you or your caregiver should receive training on how to prepare and inject Repatha correctly. Do not try to use the automated mini-doser until you have been shown how to do it by your doctor or nurse. It is recommended that 10 to 13 years old are supervised by an adult when they are using the automated mini-doser.
 
 See the detailed 'Instructions for Use' at the end of this leaflet for instructions about how to store, prepare, and use your Repatha automated mini-doser at home.
 
@@ -2597,11 +2603,11 @@ If your doctor has prescribed Repatha along with another cholesterol lowering me
 
 Contact your doctor or pharmacist immediately.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you forget to take Repatha
 
 Take Repatha as soon as you can after the missed dose. Then, contact your doctor who will tell you when you should schedule your next dose, and follow the new schedule exactly as your doctor has told you.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -2624,7 +2630,7 @@ Uncommon (may affect up to 1 in 100 people)
 - Hives, red itchy bumps on your skin (urticaria)
 - Flu-like symptoms
 
-Rare (may affect up to 1 in 1,000 people)
+Rare (may affect up to 1 in 1 000 people)
 
 - Swelling of the face, mouth, tongue, or throat (angioedema)
 
@@ -2638,7 +2644,9 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C -8°C). Do not freeze.
+Store in a refrigerator (2°C -
+
+8°C). Do not freeze.
 
 Store in the original carton in order to protect from light and moisture.
 
@@ -2646,18 +2654,18 @@ Your medicine (cartridge and automated mini-doser) may be left outside the refri
 
 Do not use this medicine if you notice it is discoloured or contains large lumps, flakes or coloured particles.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not throw away any medicines via wastewater or household waste.
 
 Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
 ## What Repatha contains
 
-- -The active substance is evolocumab. Each cartridge contains 420 mg of evolocumab in 3.5 mL of solution (120 mg/mL).
-- -The other ingredients are proline, glacial acetic acid, polysorbate 80, sodium hydroxide, water for injections.
+- The active substance is evolocumab. Each cartridge contains 420 mg of evolocumab in 3.5 mL of solution (120 mg/mL).
+- The other ingredients are proline, glacial acetic acid, polysorbate 80, sodium hydroxide, water for injections.
 
 ## What Repatha looks like and contents of the pack
 
@@ -2677,7 +2685,13 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 Amgen Technology (Ireland) Unlimited Company
 
-Pottery Road Dun Laoghaire Co Dublin Ireland
+Pottery Road
+
+Dun Laoghaire
+
+Co Dublin
+
+Ireland
 
 ## Manufacturer
 
@@ -2691,9 +2705,11 @@ s.a. Amgen n.v.
 
 Tel/Tél: +32 (0)2 7752711
 
-## Lietuva
+Lietuva
 
-Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
+Amgen Switzerland AG Vilniaus filialas Tel. +370 5 219 7474
+
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
@@ -2701,121 +2717,69 @@ Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
 
 Тел.: +359 (0)2 424 7440
 
+## Česká republika
+
+Amgen s.r.o. Tel: +420 221 773 500
+
+## Danmark
+
+Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
+
+## Deutschland
+
+Amgen GmbH Tel.: +49 89 1490960
+
+## Eesti
+
+Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
+
+## Ελλάδα
+
+Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ : +30 210 3447000
+
+## España
+
+Amgen S.A. Tel: +34 93 600 18 60
+
+## France
+
+Amgen S.A.S. Tél: +33 (0)9 69 363 363
+
+## Hrvatska
+
+Amgen d.o.o. Tel: +385 (0)1 562 57 20
+
+## Ireland
+
+Amgen Ireland Limited Tel: +353 1 8527400
+
+## Ísland
+
+Vistor Sími: +354 535 7000
+
+## Italia
+
+Amgen S.r.l. Tel: +39 02 6241121
+
 ## Luxembourg/Luxemburg
 
 s.a. Amgen Belgique/Belgien Tel/Tél: +32 (0)2 7752711
 
-## Česká republika
-
-Amgen s.r.o.
-
-Tel: +420 221 773 500
-
 ## Magyarország
 
-Amgen Kft.
-
-Tel.: +36 1 35 44 700
-
-<div style=\"page-break-after: always\"></div>
-
-## Danmark
-
-Amgen, filial af Amgen AB, Sverige
-
-Tlf: +45 39617500
-
-## Deutschland
-
-AMGEN GmbH
-
-Tel.: +49 89 1490960
-
-## Eesti
-
-Amgen Switzerland AG Vilniaus filialas
-
-Tel: +372 586 09553
-
-## Ελλάδα
-
-Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε.
-
-Τηλ.: +30 210 3447000
-
-## España
-
-Amgen S.A.
-
-Tel: +34 93 600 18 60
-
-## France
-
-Amgen S.A.S.
-
-Tél: +33 (0)9 69 363 363
-
-## Hrvatska
-
-Amgen d.o.o.
-
-Tel: +385 (0)1 562 57 20
-
-## Ireland
-
-Amgen Ireland Limited
-
-Tel: +353 1 8527400
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Italia
-
-Amgen S.r.l.
-
-Tel: +39 02 6241121
-
-## Kύπρος
-
-C.A. Papaellinas Ltd
-
-Τηλ.: +357 22741 741
-
-## Latvija
-
-Amgen Switzerland AG Rīgas filiāle
-
-Tel: +371 257 25888
-
-## This leaflet was last revised in.
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Amgen Kft. Tel.: +36 1 35 44 700
 
 ## Malta
 
-Amgen B.V.
-
-The Netherlands
-
-Tel: +31 (0)76 5732500
+Amgen S.r.l. Italy Tel: +39 02 6241121
 
 ## Nederland
 
-Amgen B.V.
-
-Tel: +31 (0)76 5732500
+Amgen B.V. Tel: +31 (0)76 5732500
 
 ## Norge
 
-Amgen AB
-
-Tel: +47 23308000
+Amgen AB Tlf: +47 23308000
 
 ## Österreich
 
@@ -2829,55 +2793,55 @@ Amgen Biotechnologia Sp. z o.o. Tel.: +48 22 581 3000
 
 ## Portugal
 
-Amgen Biofarmacêutica, Lda.
-
-Tel: +351 21 422 06 06
+Amgen Biofarmacêutica, Lda. Tel: +351 21 4220606
 
 ## România
 
-Amgen România SRL
-
-Tel: +4021 527 3000
+Amgen România SRL Tel: +4021 527 3000
 
 ## Slovenija
 
-AMGEN zdravila d.o.o.
-
-Tel: +386 (0)1 585 1767
+AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
 
 ## Slovenská republika
 
-Amgen Slovakia s.r.o.
-
-Tel: +421 2 321 114 49
+Amgen Slovakia s.r.o. Tel: +421 2 321 114 49
 
 ## Suomi/Finland
 
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
+Amgen AB, sivuliike Suomessa/Amgen AB, filial
 
-Puh/Tel: +358 (0)9 54900500
+i Finland Puh/Tel: +358 (0)9 54900500
 
-## Sverige
+<div style=\"page-break-after: always\"></div>
 
-Amgen AB
+## Kύπρος
 
-Tel: +46 (0)8 6951100
+C.A. Papaellinas Ltd
 
-## United Kingdom (Northern Ireland)
+Τηλ
 
-Amgen Limited
+: +357 22741 741
 
-Tel: +44 (0)1223 420305
+## Latvija
+
+Amgen Switzerland AG Rīgas filiāle
+
+Tel: +371 257 25888
+
+## This leaflet was last revised in.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+Sverige Amgen AB Tel: +46 (0)8 6951100
 
 Instructions for use:
 
 Repatha single use automated mini-doser and cartridge
 
 <div style=\"page-break-after: always\"></div>
-
-Important:
-
-Needle is inside.
 
 <!-- image -->
 
@@ -2910,7 +2874,7 @@ In any above cases, use a new automated mini-doser and cartridge. A healthcare p
 
 Step 1: Prepare
 
-- A Remove the automated mini-doser and cartridge carton from the refrigerator. Wait 45 minutes.
+## A Remove the automated mini-doser and cartridge carton from the refrigerator. Wait 45 minutes.
 
 Important: Wait at least 45 minutes for the automated mini-doser and cartridge to naturally reach room temperature in the carton, before you inject.
 
@@ -2921,7 +2885,7 @@ Important: Wait at least 45 minutes for the automated mini-doser and cartridge t
 
 In any above cases, use a new automated mini-doser and cartridge.
 
-- B Open the carton and peel away the white paper cover. Remove the automated mini-doser cover from the clear tray.
+## B Open the carton and peel away the white paper cover. Remove the automated mini-doser cover from the clear tray.
 
 <!-- image -->
 
@@ -2948,7 +2912,7 @@ On a clean, well-lit work surface, place the:
 ## You can use:
 
 - Your thigh
-- Belly, except for a 2 -inch ( 5 centimetre) area around your belly button
+- Stomach area (abdomen), except for a 2 inches ( 5 centimetres) area around your belly button
 - Outer area of upper arm (only if someone else is giving the injection)
 
 <!-- image -->
@@ -2987,7 +2951,18 @@ In any above cases, use a new automated mini-doser and cartridge.
 
 <div style=\"page-break-after: always\"></div>
 
+## H Load the cleaned cartridge into the automated mini-doser and firmly press on the top until it is secured in place.
+
+Load the cartridge straight Press down firmly
+
 <!-- image -->
+
+Insert the cartridge bottom first.
+
+- Do not insert the cartridge more than 5 minutes before injection. This can dry out the medicine.
+- Do not touch the start button until you have placed the loaded automated mini-doser on your skin.
+
+## I Swing the door to the left. Then, squeeze firmly until it snaps shut.
 
 <!-- image -->
 
@@ -2997,6 +2972,8 @@ Make sure the cartridge fits securely in the automated mini-doser before you clo
 - Do not touch the start button until you have placed the loaded automated mini-doser on your skin.
 
 Important: After you load the automated mini-doser, proceed to the next step without delay.
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3013,15 +2990,9 @@ You must remove both green pull tabs to turn the loaded automated mini-doser on.
 
 <!-- image -->
 
-Do not
-
-stretch for thigh
-
-Important: Adjust your body posture to avoid skin folds and bulges.
-
 <div style=\"page-break-after: always\"></div>
 
-- L When the blue light flashes, the automated mini-doser is ready. Keep the stretch (belly area method only). Hold the loaded automated mini-doser with the blue light visible, and place it on your skin. You may hear beeps.
+- L When the blue light flashes, the automated mini-doser is ready. Keep the stretch (stomach area method only). Hold the loaded automated mini-doser with the blue light visible, and place it on your skin. You may hear beeps.
 
 <!-- image -->
 
@@ -3067,7 +3038,11 @@ What to do if the loaded automated mini-doser status light continuously flashes 
 
 <!-- image -->
 
+Flashing Warning Light
+
 <!-- image -->
+
+beep-beep-beep-beep-beep
 
 <!-- image -->
 
@@ -3077,7 +3052,7 @@ Stop using the loaded automated mini-doser. If the automated mini-doser is attac
 
 Relative humidity range is 15% to 85%.
 
-Altitude range is -300 metres to 3,500 metres (-984 feet to 11,483 feet).
+Altitude range is -300 metres to 3 500 metres (-984 feet to 11 483 feet).
 
 During injection, keep the automated mini-doser a minimum of 30 cm (12 inches) away from other electronics such as mobile phones.
 

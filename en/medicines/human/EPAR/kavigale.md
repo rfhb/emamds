@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-07 16:00:00
+document_datetime: 2026-09-08 15:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kavigale.html
 document_name: kavigale.html
 version: success
-processing_time: 0.1050512
-conversion_datetime: 2026-04-09 12:24:07.325495
+processing_time: 0.1386446
+conversion_datetime: 2026-09-11 17:55:53.407645
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Kavigale
 
@@ -39,6 +39,7 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Kavigale](#news-on)
 - [Related content](#related-content-72338)
+- [More information on Kavigale](#related-medicines)
 
 - Application under evaluation
 - CHMP opinion
@@ -56,7 +57,7 @@ Expand section
 
 Collapse section
 
-## How is Kavigale used?
+### How is Kavigale used?
 
 Kavigale can only be obtained with a prescription and must be given by a healthcare professional in a healthcare facility where patients can be adequately monitored and managed in case they develop severe allergic reactions, including anaphylaxis.
 
@@ -64,13 +65,13 @@ Kavigale is given as a single injection into the thigh muscle or infusion (drip)
 
 For more information about using Kavigale, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Kavigale work?
+### How does Kavigale work?
 
 Kavigale contains sipavibart, a monoclonal antibody (a type of protein) that has been designed to recognise and attach to the spike protein of SARS-CoV-2, the virus that causes COVID-19. SARS-CoV-2 uses this protein to enter the body's cells. When sipavibart attaches to the spike protein, it prevents the virus from entering the cell and multiplying.
 
 Sipavibart may not be active against all circulating virus variants.
 
-## What benefits of Kavigale have been shown in studies?
+### What benefits of Kavigale have been shown in studies?
 
 A main study involved over 3,300 adults and adolescents over 12 who were immunocompromised. The results showed that 2 doses of Kavigale given 6 months apart reduced the risk of symptomatic COVID-19 infection in the 6 months after the last dose by around 30%. People received Kavigale or either placebo (a dummy injection) or another COVID-19 monoclonal antibody (Evusheld) that was no longer active against the virus variants circulating at the time of the study. Of the people given Kavigale, 9.2% (151 out of 1,649) got COVID-19 symptoms, compared with 12.7% (207 out of 1,631) of people who received either placebo or the comparator monoclonal antibody.
 
@@ -78,25 +79,25 @@ After the main study data were collected, new variants of the virus emerged, inc
 
 Further analyses of the data from the main study showed that Kavigale reduces the risk of symptomatic COVID-19 caused by viruses that do not carry the F456L mutation by around 35%.
 
-## What are the risks associated with Kavigale?
+### What are the risks associated with Kavigale?
 
 For the full list of side effects and restrictions with Kavigale, see the package leaflet.
 
 When Kavigale is given as an injection into the muscle, the most common side effects (which may affect up to 1 in 10 people) include reactions at the site of injection, such as pain, bruising, redness or swelling. When given as an infusion into a vein, the most common side effects include reactions at the site of infusion (such as bruising, pain, itching or redness) and reactions related to the infusion (such as nausea, joint pain, headache or fever).
 
-## Why is Kavigale authorised in the EU?
+### Why is Kavigale authorised in the EU?
 
 At the time of approval, there was an unmet need for medicines to prevent COVID-19 in people who are immunocompromised and may therefore have a lower response to vaccination. In these people, Kavigale was shown to be effective at preventing symptomatic COVID-19 caused by SARS-CoV-2 variants circulating at the time of the study. The safety profile of Kavigale is favourable and side effects are generally mild.
 
 The European Medicines Agency therefore decided that Kavigale's benefits are greater than its risks when used against susceptible virus variants and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Kavigale?
+### What measures are being taken to ensure the safe and effective use of Kavigale?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Kavigale have been included in the summary of product characteristics and the package leaflet. These include information for healthcare professionals to inform them that Kavigale is not effective against virus variants with the F456L mutation and to remind them to check their national recommendations before using the medicine.
 
 As for all medicines, data on the use of Kavigale are continuously monitored. Suspected side effects reported with Kavigale are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Kavigale
+### Other information about Kavigale
 
 Kavigale received a marketing authorisation valid throughout the EU on 20 January 2025.
 
@@ -110,7 +111,7 @@ English (EN) (121.6 KB - PDF)
 
 [View](/en/documents/overview/kavigale-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-321)
+[Other languages (22)](#file-language-dropdown-313)
 
 български (BG) (137.49 KB - PDF)
 
@@ -142,7 +143,7 @@ Deutsch (DE) (115.04 KB - PDF)
 
 [View](/de/documents/overview/kavigale-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (108.54 KB - PDF)
+eesti (ET) (108.54 KB - PDF)
 
 **First published:** 24/02/2025
 
@@ -172,13 +173,13 @@ italiano (IT) (110.72 KB - PDF)
 
 [View](/it/documents/overview/kavigale-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (141.13 KB - PDF)
+latviešu (LV) (141.13 KB - PDF)
 
 **First published:** 24/02/2025
 
 [View](/lv/documents/overview/kavigale-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (131.96 KB - PDF)
+lietuvių (LT) (131.96 KB - PDF)
 
 **First published:** 24/02/2025
 
@@ -232,7 +233,7 @@ slovenščina (SL) (131.33 KB - PDF)
 
 [View](/sl/documents/overview/kavigale-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (108.66 KB - PDF)
+suomi (FI) (108.66 KB - PDF)
 
 **First published:** 24/02/2025
 
@@ -256,167 +257,168 @@ English (EN) (352.99 KB - PDF)
 
 Kavigale : EPAR - Product information
 
-English (EN) (302.2 KB - PDF)
+English (EN) (293.49 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/en/documents/product-information/kavigale-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-843)
+[Other languages (24)](#file-language-dropdown-403)
 
-български (BG) (342.75 KB - PDF)
+български (BG) (332.08 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/bg/documents/product-information/kavigale-epar-product-information_bg.pdf)
 
-español (ES) (272.43 KB - PDF)
+español (ES) (261.76 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/es/documents/product-information/kavigale-epar-product-information_es.pdf)
 
-čeština (CS) (362.25 KB - PDF)
+čeština (CS) (352.5 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/cs/documents/product-information/kavigale-epar-product-information_cs.pdf)
 
-dansk (DA) (313.2 KB - PDF)
+dansk (DA) (304.2 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/da/documents/product-information/kavigale-epar-product-information_da.pdf)
 
-Deutsch (DE) (341.36 KB - PDF)
+Deutsch (DE) (331.04 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/de/documents/product-information/kavigale-epar-product-information_de.pdf)
 
-eesti keel (ET) (304.63 KB - PDF)
+eesti (ET) (295.03 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/et/documents/product-information/kavigale-epar-product-information_et.pdf)
 
-ελληνικά (EL) (346.74 KB - PDF)
+ελληνικά (EL) (336.24 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/el/documents/product-information/kavigale-epar-product-information_el.pdf)
 
-français (FR) (327.95 KB - PDF)
+français (FR) (318.73 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/fr/documents/product-information/kavigale-epar-product-information_fr.pdf)
 
-hrvatski (HR) (322.48 KB - PDF)
+hrvatski (HR) (312.42 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/hr/documents/product-information/kavigale-epar-product-information_hr.pdf)
 
-íslenska (IS) (265.73 KB - PDF)
+italiano (IT) (302.78 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
-
-[View](/is/documents/product-information/kavigale-epar-product-information_is.pdf)
-
-italiano (IT) (313.62 KB - PDF)
-
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/it/documents/product-information/kavigale-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (320.5 KB - PDF)
+latviešu (LV) (310.22 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/lv/documents/product-information/kavigale-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (344.83 KB - PDF)
+lietuvių (LT) (333.39 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/lt/documents/product-information/kavigale-epar-product-information_lt.pdf)
 
-magyar (HU) (342.61 KB - PDF)
+magyar (HU) (332.39 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/hu/documents/product-information/kavigale-epar-product-information_hu.pdf)
 
-Malti (MT) (340.72 KB - PDF)
+Malti (MT) (329.75 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/mt/documents/product-information/kavigale-epar-product-information_mt.pdf)
 
-Nederlands (NL) (316.46 KB - PDF)
+Nederlands (NL) (308.26 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/nl/documents/product-information/kavigale-epar-product-information_nl.pdf)
 
-norsk (NO) (304.96 KB - PDF)
+polski (PL) (335.97 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
-
-[View](/no/documents/product-information/kavigale-epar-product-information_no.pdf)
-
-polski (PL) (346.69 KB - PDF)
-
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/pl/documents/product-information/kavigale-epar-product-information_pl.pdf)
 
-português (PT) (329.38 KB - PDF)
+português (PT) (319.18 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/pt/documents/product-information/kavigale-epar-product-information_pt.pdf)
 
-română (RO) (344.88 KB - PDF)
+română (RO) (333.34 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/ro/documents/product-information/kavigale-epar-product-information_ro.pdf)
 
-slovenčina (SK) (333.55 KB - PDF)
+slovenčina (SK) (322.16 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/sk/documents/product-information/kavigale-epar-product-information_sk.pdf)
 
-slovenščina (SL) (312.85 KB - PDF)
+slovenščina (SL) (302.99 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/sl/documents/product-information/kavigale-epar-product-information_sl.pdf)
 
-Suomi (FI) (306.91 KB - PDF)
+suomi (FI) (298.45 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/fi/documents/product-information/kavigale-epar-product-information_fi.pdf)
 
-svenska (SV) (302.09 KB - PDF)
+svenska (SV) (292.97 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
 
 [View](/sv/documents/product-information/kavigale-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000337215
+Íslenska (IS) (256.96 KB - PDF)
 
-07/04/2026
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
+
+[View](/is/documents/product-information/kavigale-epar-product-information_is.pdf)
+
+norsk (NO) (295.71 KB - PDF)
+
+**First published:** 24/02/2025 **Last updated:** 08/09/2026
+
+[View](/no/documents/product-information/kavigale-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000339380
+
+11/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -434,7 +436,7 @@ English (EN) (54.82 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-721)
+[Other languages (24)](#file-language-dropdown-617)
 
 български (BG) (68 KB - PDF)
 
@@ -466,7 +468,7 @@ Deutsch (DE) (52.06 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (55.56 KB - PDF)
+eesti (ET) (55.56 KB - PDF)
 
 **First published:** 24/02/2025
 
@@ -490,25 +492,19 @@ hrvatski (HR) (48.26 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (62.74 KB - PDF)
-
-**First published:** 24/02/2025
-
-[View](/is/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (60.27 KB - PDF)
 
 **First published:** 24/02/2025
 
 [View](/it/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (64.71 KB - PDF)
+latviešu (LV) (64.71 KB - PDF)
 
 **First published:** 24/02/2025
 
 [View](/lv/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (58.06 KB - PDF)
+lietuvių (LT) (58.06 KB - PDF)
 
 **First published:** 24/02/2025
 
@@ -531,12 +527,6 @@ Nederlands (NL) (60.1 KB - PDF)
 **First published:** 24/02/2025
 
 [View](/nl/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (62.72 KB - PDF)
-
-**First published:** 24/02/2025
-
-[View](/no/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (51.11 KB - PDF)
 
@@ -568,7 +558,7 @@ slovenščina (SL) (42.97 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (53.29 KB - PDF)
+suomi (FI) (53.29 KB - PDF)
 
 **First published:** 24/02/2025
 
@@ -580,27 +570,30 @@ svenska (SV) (54.84 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (62.74 KB - PDF)
+
+**First published:** 24/02/2025
+
+[View](/is/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (62.72 KB - PDF)
+
+**First published:** 24/02/2025
+
+[View](/no/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Kavigale
-
-Active substance
-
-sipavibart
-
-International non-proprietary name (INN) or common name
-
-sipavibart
-
-Therapeutic area (MeSH)
-
-COVID-19 virus infection
-
-Anatomical therapeutic chemical (ATC) code
-
-J06BD09
+- **Name of medicine**
+    - Kavigale
+- **Active substance**
+    - sipavibart
+- **International non-proprietary name (INN) or common name**
+    - sipavibart
+- **Therapeutic area (MeSH)**
+    - COVID-19 virus infection
+- **Anatomical therapeutic chemical (ATC) code**
+    - J06BD09
 
 ### Pharmacotherapeutic group
 
@@ -608,31 +601,22 @@ Immune sera and immunoglobulins
 
 ### Therapeutic indication
 
-Kavigale is indicated for the pre-exposure prophylaxis of COVID-19 in adults and adolescents 12 years of age and older weighing at least 40 kg and who are immunocompromised due to a medical condition or receipt of immunosuppressive treatments. Kavigale should be used in accordance with official recommendations where available and based on information on the activity of sipavibart against presently circulating viral variants (see sections 4.4 and 5.1).
+Kavigale is indicated for the pre-exposure prophylaxis of COVID-19 in adults and adolescents 12 years of age and older weighing at least 40 kg and who are immunocompromised due to a medical condition or receipt of immunosuppressive treatments.
+
+Kavigale should be used in accordance with official recommendations where available and based on information on the activity of sipavibart against presently circulating viral variants (see sections 4.4 and 5.1).
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006291
-
-Marketing authorisation holder
-
-AstraZeneca AB
-
-151 85 Sodertalje
-
-Opinion adopted
-
-12/12/2024
-
-Marketing authorisation issued
-
-20/01/2025
-
-Revision
-
-4
+- **EMA product number**
+    - EMEA/H/C/006291
+- **Marketing authorisation holder**
+    - AstraZeneca AB 151 85 Sodertalje  Sweden
+- **Opinion adopted**
+    - 12/12/2024
+- **Marketing authorisation issued**
+    - 20/01/2025
+- **Revision**
+    - 5
 
 ## Assessment history
 
@@ -640,17 +624,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Kavigale : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (159.91 KB - PDF)
+English (EN) (164.67 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 07/04/2026
+**First published:** 05/05/2025 **Last updated:** 08/09/2026
 
 [View](/en/documents/procedural-steps-after/kavigale-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Kavigale : EPAR - Public assessment report
 
@@ -682,8 +666,12 @@ English (EN) (155.05 KB - PDF)
 
 - [Emergency Task Force (ETF) documents: COVID-19](https://www.ema.europa.eu/en/committees/working-parties-other-groups/emergency-task-force-etf/emergency-task-force-etf-documents#covid-19-66890)
 
+## More information on Kavigale
+
+- [EMA/PE/0000225778 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000225778)
+
 **This page was last updated on**
 
-07/04/2026
+08/09/2026
 
 ## Share this page

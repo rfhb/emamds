@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-13 16:51:14
-document_pages: 38
+document_datetime: 2026-09-09 16:19:05
+document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/amvuttra-epar-product-information_en.pdf
 document_name: amvuttra-epar-product-information_en.pdf
 version: success
-processing_time: 9.579516
-conversion_datetime: 2025-12-29 21:24:35.818102
+processing_time: 11.1553348
+conversion_datetime: 2026-09-11 17:24:20.880471
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -137,11 +137,9 @@ No clinical interaction studies have been performed. Vutrisiran is not expected 
 
 ## Women of childbearing potential
 
-Treatment with Amvuttra reduces serum levels of vitamin A. Both too high or too low vitamin A levels may be associated with an increased risk of foetal malformation. Therefore, pregnancy should be excluded before initiation of treatment and women of childbearing potential should use effective
+Treatment with Amvuttra reduces serum levels of vitamin A. Both too high or too low vitamin A levels may be associated with an increased risk of foetal malformation. Therefore, pregnancy should be excluded before initiation of treatment and women of childbearing potential should use effective contraception. If a woman intends to become pregnant, Amvuttra and vitamin A supplementation should be discontinued and serum vitamin A levels should be monitored and have returned to normal before conception is attempted (see section 4.4.). Serum vitamin A levels may remain reduced for more than 12 months after the last dose of treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-contraception. If a woman intends to become pregnant, Amvuttra and vitamin A supplementation should be discontinued and serum vitamin A levels should be monitored and have returned to normal before conception is attempted (see section 4.4.). Serum vitamin A levels may remain reduced for more than 12 months after the last dose of treatment.
 
 ## Pregnancy
 
@@ -244,19 +242,18 @@ The time-averaged trough TTR percent reduction through Month 18 was 84.7% for vu
 
 Table 2: Summary of clinical efficacy results from the HELIOS-A study
 
-| Endpoint a                   | Baseline, Mean (SD)   | Baseline, Mean (SD)   | Change from Baseline, LS Mean (SEM)   | Change from Baseline, LS Mean (SEM)   | Amvuttra -Placebo b Treatment Difference,   | p -value   |
-|------------------------------|-----------------------|-----------------------|---------------------------------------|---------------------------------------|---------------------------------------------|------------|
-| Endpoint a                   | Amvuttra N=122        | Placebo b N=77        | Amvuttra                              | Placebo b                             | LS Mean (95% CI)                            |            |
-| Month 9                      |                       |                       |                                       |                                       |                                             |            |
-| mNIS+7 c                     | 60.6 (36.0)           | 74.6 (37.0)           | -2.2 (1.4)                            | 14.8 (2.0)                            | -17.0 (-21.8, -12.2)                        | p <0.0001  |
-| Norfolk QoL-DN c             | 47.1 (26.3)           | 55.5 (24.3)           | -3.3 (1.7)                            | 12.9 (2.2)                            | -16.2 (-21.7, -10.8)                        | p <0.0001  |
-| 10-meter walk test (m/sec) d | 1.01 (0.39)           | 0.79 (0.32)           | 0 (0.02)                              | -0.13 (0.03)                          | 0.13 (0.07, 0.19)                           | p <0.0001  |
-| Month 18                     |                       |                       |                                       |                                       |                                             |            |
-| mNIS+7 c                     | 60.6 (36.0)           | 74.6 (37.0)           | -0.5 (1.6)                            | 28.1 (2.3)                            | -28.5 (-34.0, -23.1)                        | p <0.0001  |
-| Norfolk QoL-DN c             | 47.1 (26.3)           | 55.5 (24.3)           | -1.2 (1.8)                            | 19.8 (2.6)                            | -21.0 (-27.1, -14.9)                        | p <0.0001  |
-| 10-meter walk test (m/sec) d | 1.01 (0.39)           | 0.79 (0.32)           | -0.02 (0.03)                          | -0.26 (0.04)                          | 0.24 (0.15, 0.33)                           | p <0.0001  |
-| mBMI e                       | 1057.5 (233.8)        | 989.9 (214.2)         | 25.0 (9.5)                            | -115.7 (13.4)                         | 140.7 (108.4, 172.9)                        | p <0.0001  |
-| R-ODS f                      | 34.1 (11.0)           | 29.8 (10.8)           | -1.5 (0.6)                            | -9.9 (0.8)                            | 8.4 (6.5, 10.4)                             | p <0.0001  |
+| Endpoint a                   | Baseline, Mean (SD) - Amvuttra N=122   | Baseline, Mean (SD) - Placebo b N=77   | Change from Baseline, LS Mean (SEM) - Amvuttra   | Change from Baseline, LS Mean (SEM) - Placebo b   | Amvuttra -Placebo b Treatment Difference, - LS Mean (95% CI)   | p -value   |
+|------------------------------|----------------------------------------|----------------------------------------|--------------------------------------------------|---------------------------------------------------|----------------------------------------------------------------|------------|
+| Month 9                      |                                        |                                        |                                                  |                                                   |                                                                |            |
+| mNIS+7 c                     | 60.6 (36.0)                            | 74.6 (37.0)                            | -2.2 (1.4)                                       | 14.8 (2.0)                                        | -17.0 (-21.8, -12.2)                                           | p <0.0001  |
+| Norfolk QoL-DN c             | 47.1 (26.3)                            | 55.5 (24.3)                            | -3.3 (1.7)                                       | 12.9 (2.2)                                        | -16.2 (-21.7, -10.8)                                           | p <0.0001  |
+| 10-meter walk test (m/sec) d | 1.01 (0.39)                            | 0.79 (0.32)                            | 0 (0.02)                                         | -0.13 (0.03)                                      | 0.13 (0.07, 0.19)                                              | p <0.0001  |
+| Month 18                     |                                        |                                        |                                                  |                                                   |                                                                |            |
+| mNIS+7 c                     | 60.6 (36.0)                            | 74.6 (37.0)                            | -0.5 (1.6)                                       | 28.1 (2.3)                                        | -28.5 (-34.0, -23.1)                                           | p <0.0001  |
+| Norfolk QoL-DN c             | 47.1 (26.3)                            | 55.5 (24.3)                            | -1.2 (1.8)                                       | 19.8 (2.6)                                        | -21.0 (-27.1, -14.9)                                           | p <0.0001  |
+| 10-meter walk test (m/sec) d | 1.01 (0.39)                            | 0.79 (0.32)                            | -0.02 (0.03)                                     | -0.26 (0.04)                                      | 0.24 (0.15, 0.33)                                              | p <0.0001  |
+| mBMI e                       | 1057.5 (233.8)                         | 989.9 (214.2)                          | 25.0 (9.5)                                       | -115.7 (13.4)                                     | 140.7 (108.4, 172.9)                                           | p <0.0001  |
+| R-ODS f                      | 34.1 (11.0)                            | 29.8 (10.8)                            | -1.5 (0.6)                                       | -9.9 (0.8)                                        | 8.4 (6.5, 10.4)                                                | p <0.0001  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -266,7 +263,7 @@ Figure 1: Change from Baseline in mNIS+7 (Month 9 and Month 18)
 
 A decrease in mNIS+7 indicates improvement
 
-∆ indicates between-group treatment difference, shown as the LS mean difference (95% CI) for AMVUTTRA -external placebo
+ indicates between-group treatment difference, shown as the LS mean difference (95% CI) for AMVUTTRA -external placebo
 
 All Month 9 endpoints analysed using the analysis of covariance (ANCOVA) with multiple imputation (MI) method and all Month 18 analysed using the mixed-effects model for repeated measures (MMRM)
 
@@ -298,13 +295,12 @@ In the secondary endpoint analysis of all-cause mortality including data up to M
 
 Table 3: Primary composite endpoint and its individual components in HELIOS-B
 
-| Endpoint                                     | Endpoint                                     | Overall population                           | Overall population                           | Monotherapy population                       | Monotherapy population                       |
+| Endpoint                                     | Endpoint                                     | Overall population - Amvuttra (N=326)        | Overall population - Placebo (N=328)         | Monotherapy population - Amvuttra (N=196)    | Monotherapy population - Placebo (N=199)     |
 |----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
-|                                              |                                              | Amvuttra (N=326)                             | Placebo (N=328)                              | Amvuttra (N=196)                             | Placebo (N=199)                              |
 | Primary composite endpoint a                 | Hazard Ratio (95% CI) b p -value b           | 0.718 (0.555, 0.929) 0.0118                  | 0.718 (0.555, 0.929) 0.0118                  | 0.672 (0.487, 0.929) 0.0162                  | 0.672 (0.487, 0.929) 0.0162                  |
 | Components of the Primary Composite Endpoint | Components of the Primary Composite Endpoint | Components of the Primary Composite Endpoint | Components of the Primary Composite Endpoint | Components of the Primary Composite Endpoint | Components of the Primary Composite Endpoint |
 | All-cause mortality                          | Hazard Ratio (95% CI) c                      | 0.694 (0.490, 0.982)                         | 0.694 (0.490, 0.982)                         | 0.705 (0.467, 1.064)                         | 0.705 (0.467, 1.064)                         |
-| CVhospitalisations and UHFvisits             | Relative Rate Ratio (95% CI) d               | 0.733 (0.610, 0.882)                         | 0.733 (0.610, 0.882)                         | 0.676 (0.533, 0.857)                         | 0.676 (0.533, 0.857)                         |
+| CV hospitalisations and UHF visits           | Relative Rate Ratio (95% CI) d               | 0.733 (0.610, 0.882)                         | 0.733 (0.610, 0.882)                         | 0.676 (0.533, 0.857)                         | 0.676 (0.533, 0.857)                         |
 
 Abbreviations: CI=confidence interval; CV=cardiovascular; UHF=urgent heart failure
 
@@ -316,7 +312,7 @@ b  Hazard Ratio (95% CI) and p -value are based on a modified Andersen-Gill mode
 
 c  Hazard Ratio (95% CI) is based on a Cox proportional hazard model.
 
-d Relative rate ratio (95% CI) is based on a Poisson regression model.
+d  Relative rate ratio (95% CI) is based on a Poisson regression model.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -324,7 +320,9 @@ Figure 2: Time to First CV Event or All-Cause Mortality (Overall population)
 
 <!-- image -->
 
-Abbreviation: CI=confidence interval; CV=cardiovascular; HR = hazard ratio. Heart transplantation and left ventricular assist device placement are treated as death. Kaplan-Meier curves are adjusted for baseline disease characteristics using the inverse probability of treatment weighting method. HR and 95% CI are based on a Cox proportional hazard model, and p -value is based on log-rank test.
+Abbreviation: CI=confidence interval; CV=cardiovascular; HR = hazard ratio.
+
+Heart transplantation and left ventricular assist device placement are treated as death. Kaplan-Meier curves are adjusted for baseline disease characteristics using the inverse probability of treatment weighting method. HR and 95% CI are based on a Cox proportional hazard model, and p -value is based on log-rank test.
 
 Results from the subgroup analysis for the primary composite endpoint favoured Amvuttra across all prespecified subgroups in the overall population and the monotherapy population. In the subgroup of patients on background tafamidis, Amvuttra led to a 21.5% numerical reduction in the risk of all-cause mortality and recurrent CV events relative to placebo (hazard ratio: 0.785; 95% CI: 0.511, 1.207) (Figure 3).
 
@@ -340,30 +338,31 @@ HR and 95% CI are based on modified Andersen-Gill model analyses.
 
 The treatment effects of Amvuttra on functional capacity, patient-reported health status and quality of life, and heart failure symptom severity were assessed by the change from baseline to Month 30 in 6-Minute Walk Test (6-MWT), the Kansas City Cardiomyopathy Questionnaire-Overall Summary (KCCQ-OS) score and NYHA class, respectively. The KCCQ-OS is composed of four domains including Total Symptoms (Symptom Frequency and Symptom Burden), Physical Limitation, Quality of Life, and Social Limitation. The Overall Summary score and domain scores range from 0 to 100, with higher scores representing better health status.
 
-A statistically significant treatment effect favouring Amvuttra was observed for 6-MWT distance, KCCQ-OS score, and stable or improved NYHA class, in both the overall population and monotherapy population (Table 4), with consistent results across all subgroups studied. The treatment effect on KCCQ-OS score was consistent across all four domain scores.
+A statistically significant treatment effect favouring Amvuttra was observed for 6- W  distance, KCCQ-OS score, and stable or improved NYHA class, in both the overall population and monotherapy population ( able 4), with consistent results across all subgroups studied.  he treatment effect on KCCQ-OS score was consistent across all four domain scores.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 4. Change from Baseline in 6-MWT distance, KCCQ-OS score and NYHA class at Month 30
 
-|                                                                  | Overall population   | Overall population   | Monotherapy population   | Monotherapy population   |
-|------------------------------------------------------------------|----------------------|----------------------|--------------------------|--------------------------|
-|                                                                  | Amvuttra (N=326)     | Placebo (N=328)      | Amvuttra (N=196)         | Placebo (N=199)          |
-| 6-MWT (metres)                                                   |                      |                      |                          |                          |
-| Baseline Mean (SD)                                               | 372 (104)            | 377 (96)             | 363 (103)                | 373 (98)                 |
-| Change from baseline to Month 30, LS Mean (SE) a                 | -45 (5)              | -72 (5)              | -60 (7)                  | -92 (6)                  |
-| Treatment Difference from Placebo, LS Mean (95% CI) p- value a,b | 26 (13, 40)          | 26 (13, 40)          | 32 (14, 50)              | 32 (14, 50)              |
-| KCCQ-OS (points)                                                 |                      |                      |                          |                          |
-| Baseline Mean (SD)                                               | 73 (19)              | 72 (20)              | 70 (20)                  | 70 (21)                  |
-| Change from baseline to Month 30, LS Mean (SE) a                 | -10 (1)              | -15 (1)              | -11 (2)                  | -19 (2)                  |
-| Treatment Difference from Placebo, LS Mean (95% CI) p -value a,b | 6 (2, 9)             | 6 (2, 9)             | 9 (4, 13)                | 9 (4, 13)                |
-| NYHA Class                                                       |                      |                      |                          |                          |
-| %of patients with stable or improved NYHA class at Month 30      | 68                   | 61                   | 66                       | 56                       |
-| Difference from Placebo, (%) (95% CI) c p -value c               | 9 (1, 16)            | 9 (1, 16)            | 13 (3, 22)               | 13 (3, 22)               |
+|                                                                  | Overall population - Amvuttra (N=326)   | Overall population - Placebo (N=328)   | Monotherapy population - Amvuttra (N=196)   | Monotherapy population - Placebo (N=199)   |
+|------------------------------------------------------------------|-----------------------------------------|----------------------------------------|---------------------------------------------|--------------------------------------------|
+| 6-MWT (metres)                                                   |                                         |                                        |                                             |                                            |
+| Baseline Mean (SD)                                               | 372 (104)                               | 377 (96)                               | 363 (103)                                   | 373 (98)                                   |
+| Change from baseline to Month 30, LS Mean (SE) a                 | -45 (5)                                 | -72 (5)                                | -60 (7)                                     | -92 (6)                                    |
+| Treatment Difference from Placebo, LS Mean (95% CI) p- value a,b | 26 (13, 40)                             | <0.0001                                | 32 (14, 50)                                 | 0.0005                                     |
+| KCCQ-OS (points)                                                 |                                         |                                        |                                             |                                            |
+| Baseline Mean (SD)                                               | 73 (19)                                 | 72 (20)                                | 70 (20)                                     | 70 (21)                                    |
+| Change from baseline to Month 30, LS Mean (SE) a                 | -10 (1)                                 | -15 (1)                                | -11 (2)                                     | -19 (2)                                    |
+| Treatment Difference from Placebo, LS Mean (95% CI) p -value a,b | 6 (2, 9) 0.0008                         | 6 (2, 9) 0.0008                        | 9 (4, 13)                                   | 0.0003                                     |
+| NYHA Class                                                       |                                         |                                        |                                             |                                            |
+| % of patients with stable or improved NYHA class at Month 30     | 68                                      | 61                                     | 66                                          | 56                                         |
+| Difference from Placebo, (%) (95% CI) c p -value c               | 9 (1, 16) 0.0217                        | 9 (1, 16) 0.0217                       | 13 (3, 22)                                  | 0.0121                                     |
 
 Abbreviations: 6-MWT = 6-minute walk test; KCCQ-OS = Kansas City Cardiomyopathy Questionnaire, LS = least squares;
 
-CI = confidence interval; SD = Standard deviation; SE = Standard Error; NYHA = New York Heart Association a For assessment missing because of death (including heart transplantation and left ventricular assist device placement), and inability to walk as the result of ATTR disease progression (applicable to 6-MWT only), data were imputed from resampling of the worst 10% of observed changes.
+CI = confidence interval; SD = Standard deviation; SE = Standard Error; NYHA = New York Heart Association
+
+a  For assessment missing because of death (including heart transplantation and left ventricular assist device placement), and inability to walk as the result of ATTR disease progression (applicable to 6-MWT only), data were imputed from resampling of the worst 10% of observed changes.
 
 b  Estimated from the MMRM (mixed-effect model repeated measures) model.
 
@@ -379,11 +378,13 @@ The pharmacokinetic properties of Amvuttra were characterised by measuring the p
 
 ## Absorption
 
-Following subcutaneous administration, vutrisiran is rapidly absorbed with a time to maximum plasma concentration (tmax) of 3.0 (range: 2.0 to 6.5) hours. At the recommended dosing regimen of 25 mg once every 3 months subcutaneously, the mean (% coefficient of variation [%CV]) steady state peak concentrations (Cmax), and area under the concentration time curve from 0 to 24 hours (AUC0-24) were 0.12 μg/mL (64.3%), and 0.80 μg·h/mL (35.0%), respectively. There was no accumulation of vutrisiran in plasma after repeated quarterly dosing.
-
-## Distribution
+Following subcutaneous administration, vutrisiran is rapidly absorbed with a time to maximum plasma concentration (tmax) of 3.0 (range: 2.0 to 6.5) hours. At the recommended dosing regimen of 25 mg once every 3 months subcutaneously, the mean (% coefficient of variation [%CV]) steady state peak concentrations (Cmax), and area under the concentration time curve from 0 to 24 hours (AUC0-24) were
 
 <div style=\"page-break-after: always\"></div>
+
+0.12 μg/mL (64.3%), and 0.80 μg·h/mL (35.0%), respectively.  here was no accumulation of vutrisiran in plasma after repeated quarterly dosing.
+
+## Distribution
 
 Vutrisiran is greater than 80% bound to plasma proteins over the concentration range observed in humans at the dose of 25 mg once every 3 months subcutaneously. Vutrisiran plasma protein binding was concentration-dependent and decreased with increasing vutrisiran concentrations (from 78% at 0.5 µg/mL to 19% at 50 µg/mL). The population estimate for the apparent central compartment volume of distribution (Vd/F) of vutrisiran in humans was 10.2 L (% Relative standard error [RSE]=5.71%). Vutrisiran distributes primarily to the liver after subcutaneous dosing.
 
@@ -413,11 +414,11 @@ Clinical studies did not identify significant differences in steady state pharma
 
 In the HELIOS-A study, 46 (38%) patients treated with vutrisiran were ≥ 65 years old and of these 7 (5.7%) patients were ≥ 75 years old. In the HELIOS-B study, 299 (91.7%) patients treated with vutrisiran were ≥ 65 years old, with a median age of 77.0 years, and of these 203 (62.3%) were ≥75 years old. There were no significant differences in steady state pharmacokinetic parameters or TTR reduction.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 Clinical studies indicated no impact of mild (total bilirubin ≤ 1 x ULN and AST &gt; 1 x ULN, or total bilirubin &gt; 1.0 to 1.5 x ULN and any AST) or moderate (total bilirubin &gt; 1.5 to 3 × ULN and any AST) hepatic impairment on vutrisiran exposure or TTR reduction compared to patients with normal hepatic function. Vutrisiran has not been studied in patients with severe hepatic impairment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -427,7 +428,7 @@ Clinical studies indicated no impact of mild or moderate renal impairment (eGFR 
 
 ## General toxicology
 
-Repeated oncemonthly subcutaneous administration of vutrisiran at ≥ 30 mg/kg in monkeys produced the expected sustained reductions of circulating TTR (up to 99%) and vitamin A (up to 89%) without any apparent toxicological findings.
+Repeated once-monthly subcutaneous administration of vutrisiran at ≥ 30 mg/kg in monkeys produced the expected sustained reductions of circulating TTR (up to 99%) and vitamin A (up to 89%) without any apparent toxicological findings.
 
 Following once monthly repeated dosing for up to 6 months in rats and 9 months in monkeys, the mild and consistent non-adverse histological changes in liver (hepatocytes, Kupffer cells), kidneys (renal tubules), lymph nodes and injection sites (macrophages) reflected the principal distribution and accumulation of vutrisiran. However, no toxicities were identified at up to more than 1 000- and 3 000-fold higher plasma AUC, when normalised to quarterly dosing and compared to the anticipated exposure at the maximum recommended human dose [MRHD].
 
@@ -445,9 +446,9 @@ In an embryo-foetal development study in pregnant rabbits, no adverse effects on
 
 In a prenatal-postnatal development study, subcutaneous vutrisiran administration on every 6 th day had no effect on growth and development of the offspring with a NOAEL of 20 mg/kg, which was more than 90-times the normalised MRHD.
 
-## 6. PHARMACEUTICAL PARTICULARS
-
 <div style=\"page-break-after: always\"></div>
+
+## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
@@ -477,7 +478,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Alnylam Netherlands B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands
+Alnylam Netherlands B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam
+
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -487,11 +490,9 @@ EU/1/22/1681/001
 
 Date of first authorisation: 15 September 2022
 
-## 10. DATE OF REVISION OF THE TEXT
-
-16
-
 <div style=\"page-break-after: always\"></div>
+
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
@@ -553,7 +554,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Amvuttra 25 mg solution for injection in pre-filled syringe vutrisiran
+Amvuttra 25 mg solution for injection in pre-filled syringe
+
+vutrisiran
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -591,46 +594,54 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-## 9. SPECIAL STORAGE CONDITIONS
+Do not store above 30 °C.
 
-Do not store above 30 °C. Do not freeze.
+Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Alnylam Netherlands B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam
 
 Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/22/1681/001
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Amvuttra
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -669,12 +680,11 @@ Subcutaneous use 25 mg/0.5 mL For single use only
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-PRE-FILLED SYRINGE LABEL
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Amvuttra 25 mg injection vutrisiran SC
 
@@ -704,6 +714,8 @@ Lot
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 ## Package leaflet: Information for the patient
 
@@ -735,7 +747,7 @@ The active substance in Amvuttra is vutrisiran.
 
 ## What Amvuttra is used for
 
-Amvuttra is used for the treatment of an illness called 'ATTR amyloidosis'. This illness can run in families and may also be caused by aging. ATTR amyloidosis is caused by problems with a protein in the body called 'transthyretin' (TTR). This protein is made mostly in the liver and carries vitamin A and other substances around the body.
+Amvuttra is used for the treatment of an illness called 'A  R amyloidosis'.  his illness can run in families and may also be caused by aging. ATTR amyloidosis is caused by problems with a protein in the body called 'transthyretin' (  R).  his protein is made mostly in the liver and carries vitamin A and other substances around the body.
 
 In people with this illness, small fibres of TTR protein clump together to make deposits called 'amyloid'. Amyloid can build up around or within the nerves, heart, and other places in the body, stopping them from working normally. This causes the symptoms of the illness.
 
@@ -863,7 +875,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the label, tray lid and carton after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the label, tray lid and carton after ' XP'.  he expiry date refers to the last day of that month.
 
 Do not store above 30 °C. Do not freeze.
 
@@ -873,10 +885,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Amvuttra contains
 
-- The active substance is vutrisiran.
-
-Each pre-filled syringe contains vutrisiran sodium equivalent to 25 mg vutrisiran in 0.5 mL solution.
-
+- ·
+- The active substance is vutrisiran. Each pre-filled syringe contains vutrisiran sodium equivalent to 25 mg vutrisiran in 0.5 mL solution.
 - The other ingredients are: sodium dihydrogen phosphate dihydrate, disodium phosphate dihydrate, sodium chloride and water for injections. Sodium hydroxide and phosphoric acid may be used to adjust the pH (see 'Amvuttra contains sodium' in section 2).
 
 ## What Amvuttra looks like and contents of the pack
@@ -891,13 +901,11 @@ Alnylam Netherlands B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-<div style=\"page-break-after: always\"></div>
-
 België/Belgique/Belgien Alnylam Netherlands B.V. Tél/Tel: 0800 81 443 (+32 234 208 71) medinfo@alnylam.com
 
 ## България
 
-Genesis Pharma Bulgaria EOOD Te л .: +359 2 969 3227 medinfo@genesispharmagroup.com
+Genesis Pharma Bulgaria EOOD Teл.: +359 2 969 3227 medinfo@genesispharmagroup.com
 
 ## Česká republika
 
@@ -905,7 +913,7 @@ Medison Pharma s.r.o. Tel: +420 221 343 336 medinfo.czechia@medisonpharma.com
 
 ## Danmark
 
-Alnylam Sweden AB Tlf.: 433 105 15 (+45 787 453 01) medinfo@alnylam.com
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 ## Deutschland
 
@@ -926,14 +934,6 @@ Alnylam Pharmaceuticals Spain SL Tel: 900810212 (+34 910603753) medinfo@alnylam.
 ## France
 
 Alnylam France SAS Tél: 0805 542 656 (+33 187650921) medinfo@alnylam.com
-
-## Hrvatska
-
-Genesis Pharma Adriatic d.o.o Tel: +385 1 5530 011 medinfo@genesispharmagroup.com
-
-## Ireland
-
-Alnylam Netherlands B.V. Tel: 1800 924260 (+353 818 882213) medinfo@alnylam.com
 
 ## Luxembourg/Luxemburg
 
@@ -957,7 +957,7 @@ Alnylam Netherlands B.V. Tel: 0800 282 0025 (+31 20 369 7861) medinfo@alnylam.co
 
 ## Norge
 
-Alnylam Sweden AB Tlf: 800 544 00 (+472 1405 657) medinfo@alnylam.com
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 ## Österreich
 
@@ -971,13 +971,17 @@ Medison Pharma Sp. z o.o. Tel.: +48 22 152 49 42 medinfo.poland@medisonpharma.co
 
 Alnylam Portugal Tel: 707201512 (+351 21 269 8539) medinfo@alnylam.com
 
-## România
+<div style=\"page-break-after: always\"></div>
 
-Genesis Biopharma Romania SRL Tel: +40 21 403 4074 medinfo@genesispharmagroup.com
+## Hrvatska
 
-## Slovenija
+Genesis Pharma Adriatic d.o.o Tel: +385 1 5530 011
 
-Genesis Biopharma SL d.o.o Tel: +386 1 292 70 90 medinfo@genesispharmagroup.com
+medinfo@genesispharmagroup.com
+
+## Ireland
+
+Alnylam Netherlands B.V. Tel: 1800 924260 (+353 818 882213) medinfo@alnylam.com
 
 ## Ísland
 
@@ -987,25 +991,9 @@ Sími: +31 20 369 7861
 
 medinfo@alnylam.com
 
-## Slovenská republika
-
-Medison Pharma s.r.o.
-
-Tel: +421 2 201 109 65
-
-medinfo.slovakia@medisonpharma.com
-
 ## Italia
 
-Alnylam Italy S.r.l. Tel: 800 90 25 37 (+39 02 89 73 22 91)
-
-medinfo@alnylam.com
-
-## Suomi/Finland
-
-Alnylam Sweden AB Puh/Tel: 0800 417 452 (+358 942 727 020)
-
-medinfo@alnylam.com
+Alnylam Italy S.r.l. Tel: 800 90 25 37 (+39 02 89 73 22 91) medinfo@alnylam.com
 
 ## Κύπρος
 
@@ -1015,15 +1003,9 @@ Genesis Pharma (Cyprus) Ltd
 
 medinfo@genesispharmagroup.com
 
-## Sverige
-
-Alnylam Sweden AB Tel: 020109162 (+46 842002641) medinfo@alnylam.com
-
 ## Latvija
 
 Medison Pharma Latvia SIA Tel: +371 67 717 847 medinfo.latvia@medisonpharma.com
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1032,6 +1014,26 @@ Medison Pharma Latvia SIA Tel: +371 67 717 847 medinfo.latvia@medisonpharma.com
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+## România
+
+Genesis Biopharma Romania SRL Tel: +40 21 403 4074 medinfo@genesispharmagroup.com
+
+## Slovenija
+
+Genesis Biopharma SL d.o.o Tel: +386 1 292 70 90 medinfo@genesispharmagroup.com
+
+## Slovenská republika
+
+Medison Pharma s.r.o. Tel: +421 2 201 109 65 medinfo.slovakia@medisonpharma.com
+
+## Suomi/Finland
+
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
+
+## Sverige
+
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1053,13 +1055,9 @@ Keep these instructions until the syringe has been used.
 
 ## How to Store Amvuttra
 
-Do not
+Do not store above 30°C.
 
-store above 30°C.
-
-Do not
-
-freeze.
+Do not freeze.
 
 Keep this medicine out of the sight and reach of children.
 
@@ -1079,9 +1077,9 @@ Do not recap the syringe at any time.
 
 ## How the syringe looks before and after use: Before Use
 
-<!-- image -->
+Step 1: Gather Supplies
 
-## Step 1: Gather Supplies
+<!-- image -->
 
 Gather and place the following supplies (not supplied) on a clean flat surface:
 
@@ -1090,7 +1088,7 @@ Gather and place the following supplies (not supplied) on a clean flat surface:
 - Adhesive bandage
 - Sharps container
 
-## Step 2: Prepare the Syringe
+Step 2: Prepare the Syringe
 
 If stored cold, allow the syringe to warm to room temperature for at least 30 minutes before use.
 
@@ -1118,11 +1116,11 @@ Do not remove the needle cap until just before injection.
 
 ## Check:
 
--  Syringe is not damaged, such as cracked or leaking.
--  Needle cap is intact and attached to the syringe.
--  The drug solution in the syringe is clear, and colourless-to-yellow.
--  'Amvuttra 25 mg' appears on the syringe label.
--  Expiration date on syringe label.
+- Syringe is not damaged, such as cracked or leaking.
+- Needle cap is intact and attached to the syringe.
+- The drug solution in the syringe is clear, and colourless-to-yellow.
+- 'Amvuttra 25 mg' appears on the syringe label.
+- Expiration date on syringe label.
 
 It is normal to see air bubbles inside the syringe.
 

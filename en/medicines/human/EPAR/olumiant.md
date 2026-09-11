@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 13:21:00
+document_datetime: 2026-09-08 10:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/olumiant.html
 document_name: olumiant.html
 version: success
-processing_time: 0.1555369
-conversion_datetime: 2026-05-10 13:06:18.032626
+processing_time: 0.2264989
+conversion_datetime: 2026-09-11 17:57:12.794795
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Olumiant
 
@@ -65,7 +65,7 @@ Expand section
 
 Collapse section
 
-## How is Olumiant used?
+### How is Olumiant used?
 
 Olumiant can only be obtained with a prescription, and treatment must be started by a doctor who has experience in the diagnosis and treatment of the conditions for which it is used.
 
@@ -75,11 +75,11 @@ Treatment may be temporarily stopped in patients who develop an infection, which
 
 For more information about using Olumiant, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Olumiant work?
+### How does Olumiant work?
 
 The active substance in Olumiant, baricitinib, is an immunosuppressant (a medicine that reduces the activity of the immune system). It works by blocking the action of enzymes known as Janus kinases. These enzymes play an important role in the processes of inflammation and damage that occur in rheumatoid arthritis, atopic dermatitis, alopecia areata and juvenile idiopathic arthritis. By blocking these enzymes, baricitinib reduces joint, skin and hair follicle inflammation and other symptoms of these diseases.
 
-## What benefits of Olumiant have been shown in studies?
+### What benefits of Olumiant have been shown in studies?
 
 **Rheumatoid arthritis**
 
@@ -109,7 +109,7 @@ One main study in 257 adolescents from 12 years of age weighing at least 30 kg s
 
 A main study looked at the effect of Olumiant in 220 children and adolescents between 2 and 18 years of age who had juvenile idiopathic arthritis and had an insufficient response to at least one DMARD. In this study, all patients were first given Olumiant for 12 weeks, with 76% (167) of the patients showing an improvement in their symptoms after this period. In the second part of the study, 163 of these patients then either continued taking Olumiant or were given a placebo for up to 32 weeks. When patients continued on Olumiant, they were less likely to have a flare up (a sudden worsening of symptoms); 17% (14 out of 82) of patients on Olumiant had a flare up, compared with 51% (41 out of 81) of those given placebo.
 
-## What are the risks associated with Olumiant?
+### What are the risks associated with Olumiant?
 
 For the complete list of side effects and restrictions with Olumiant, see the package leaflet.
 
@@ -125,13 +125,13 @@ Olumiant must not be used during pregnancy.
 
 Olumiant should only be used if no suitable treatment alternatives are available in patients aged 65 years or above, in patients with a history of cardiovascular disease (such as heart attack or stroke) or with risk factors for such a disease (such as current or previous long-term smokers), or in patients at increased risk of cancer.
 
-## Why is Olumiant approved?
+### Why is Olumiant approved?
 
 The European Medicines Agency decided that Olumiant's benefits are greater than its risks and it can be authorised for use in the EU.
 
 The Agency considered that Olumiant was shown to be effective at improving symptoms of rheumatoid arthritis in patients when previous treatment with disease-modifying drugs has not worked well enough or if patients cannot tolerate them. The Agency also took into account the lack of treatment options for these patients, and the fact that Olumiant can be given by mouth, which is convenient for patients. Similarly, for patients with atopic dermatitis and alopecia areata whose other treatment options are limited, its benefits were clinically relevant, particularly in patients with atopic dermatitis when combined with corticosteroid treatment of the skin. In children and adolescents between 2 and 18 years of age, the medicine was effective at treating juvenile idiopathic arthritis and atopic dermatitis; it was also found to be effective at treating alopecia areata in adolescents from 12 years of age. Overall, its side effects are considered manageable, and several measures have been put in place to minimise the risks with this medicine, particularly infection.
 
-## What measures are being taken to ensure the safe and effective use of Olumiant?
+### What measures are being taken to ensure the safe and effective use of Olumiant?
 
 The company that markets Olumiant will provide educational materials to healthcare professionals and patients with information about the risks with the medicine, particularly the risk of serious infections, blood clots, major cardiovascular events and cancer in certain patients. They will also include a reminder that Olumiant should not be taken during pregnancy and that women taking Olumiant must use contraception (birth control) during treatment and for at least one week after stopping treatment.
 
@@ -139,7 +139,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Olumiant are continuously monitored. Side effects reported with Olumiant are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Olumiant
+### Other information about Olumiant
 
 Olumiant received a marketing authorisation valid throughout the EU on 13 February 2017.
 
@@ -151,9 +151,143 @@ Reference Number: EMADOC-1829012207-45460
 
 English (EN) (153.8 KB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
 
 [View](/en/documents/overview/olumiant-epar-medicine-overview_en.pdf)
+
+[Other languages (22)](#file-language-dropdown-424)
+
+български (BG) (184.49 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/bg/documents/overview/olumiant-epar-medicine-overview_bg.pdf)
+
+español (ES) (154.49 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/es/documents/overview/olumiant-epar-medicine-overview_es.pdf)
+
+čeština (CS) (182.04 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/cs/documents/overview/olumiant-epar-medicine-overview_cs.pdf)
+
+dansk (DA) (154.13 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/da/documents/overview/olumiant-epar-medicine-overview_da.pdf)
+
+Deutsch (DE) (160.43 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/de/documents/overview/olumiant-epar-medicine-overview_de.pdf)
+
+eesti (ET) (149.84 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/et/documents/overview/olumiant-epar-medicine-overview_et.pdf)
+
+ελληνικά (EL) (185.84 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/el/documents/overview/olumiant-epar-medicine-overview_el.pdf)
+
+français (FR) (158.04 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/fr/documents/overview/olumiant-epar-medicine-overview_fr.pdf)
+
+hrvatski (HR) (178.95 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/hr/documents/overview/olumiant-epar-medicine-overview_hr.pdf)
+
+italiano (IT) (154.57 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/it/documents/overview/olumiant-epar-medicine-overview_it.pdf)
+
+latviešu (LV) (167.1 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/lv/documents/overview/olumiant-epar-medicine-overview_lv.pdf)
+
+lietuvių (LT) (179.34 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/lt/documents/overview/olumiant-epar-medicine-overview_lt.pdf)
+
+magyar (HU) (182.13 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/hu/documents/overview/olumiant-epar-medicine-overview_hu.pdf)
+
+Malti (MT) (183.69 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/mt/documents/overview/olumiant-epar-medicine-overview_mt.pdf)
+
+Nederlands (NL) (158.06 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/nl/documents/overview/olumiant-epar-medicine-overview_nl.pdf)
+
+polski (PL) (191.61 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/pl/documents/overview/olumiant-epar-medicine-overview_pl.pdf)
+
+português (PT) (156.18 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/pt/documents/overview/olumiant-epar-medicine-overview_pt.pdf)
+
+română (RO) (175.41 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/ro/documents/overview/olumiant-epar-medicine-overview_ro.pdf)
+
+slovenčina (SK) (181.65 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/sk/documents/overview/olumiant-epar-medicine-overview_sk.pdf)
+
+slovenščina (SL) (178.13 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/sl/documents/overview/olumiant-epar-medicine-overview_sl.pdf)
+
+suomi (FI) (151.1 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/fi/documents/overview/olumiant-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (152.03 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 28/05/2026
+
+[View](/sv/documents/overview/olumiant-epar-medicine-overview_sv.pdf)
 
 Olumiant : EPAR - Risk management plan
 
@@ -173,7 +307,7 @@ English (EN) (2.02 MB - PDF)
 
 [View](/en/documents/product-information/olumiant-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-901)
+[Other languages (24)](#file-language-dropdown-799)
 
 български (BG) (2.22 MB - PDF)
 
@@ -205,7 +339,7 @@ Deutsch (DE) (2.03 MB - PDF)
 
 [View](/de/documents/product-information/olumiant-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.71 MB - PDF)
+eesti (ET) (1.71 MB - PDF)
 
 **First published:** 16/03/2017 **Last updated:** 07/05/2026
 
@@ -229,25 +363,19 @@ hrvatski (HR) (2.23 MB - PDF)
 
 [View](/hr/documents/product-information/olumiant-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.84 MB - PDF)
-
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/olumiant-epar-product-information_is.pdf)
-
 italiano (IT) (2.02 MB - PDF)
 
 **First published:** 16/03/2017 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/olumiant-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.39 MB - PDF)
+latviešu (LV) (2.39 MB - PDF)
 
 **First published:** 16/03/2017 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/olumiant-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.11 MB - PDF)
+lietuvių (LT) (2.11 MB - PDF)
 
 **First published:** 16/03/2017 **Last updated:** 07/05/2026
 
@@ -270,12 +398,6 @@ Nederlands (NL) (1.69 MB - PDF)
 **First published:** 16/03/2017 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/olumiant-epar-product-information_nl.pdf)
-
-norsk (NO) (1.69 MB - PDF)
-
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/olumiant-epar-product-information_no.pdf)
 
 polski (PL) (2.22 MB - PDF)
 
@@ -307,7 +429,7 @@ slovenščina (SL) (2.18 MB - PDF)
 
 [View](/sl/documents/product-information/olumiant-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.4 MB - PDF)
+suomi (FI) (2.4 MB - PDF)
 
 **First published:** 16/03/2017 **Last updated:** 07/05/2026
 
@@ -319,6 +441,18 @@ svenska (SV) (1.6 MB - PDF)
 
 [View](/sv/documents/product-information/olumiant-epar-product-information_sv.pdf)
 
+Íslenska (IS) (1.84 MB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 07/05/2026
+
+[View](/is/documents/product-information/olumiant-epar-product-information_is.pdf)
+
+norsk (NO) (1.69 MB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 07/05/2026
+
+[View](/no/documents/product-information/olumiant-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** X/0000257923
 
 27/04/2026
@@ -327,7 +461,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -345,7 +480,7 @@ English (EN) (81.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-411)
+[Other languages (24)](#file-language-dropdown-899)
 
 български (BG) (106.95 KB - PDF)
 
@@ -377,7 +512,7 @@ Deutsch (DE) (83.48 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (83.79 KB - PDF)
+eesti (ET) (83.79 KB - PDF)
 
 **First published:** 16/03/2017 **Last updated:** 07/05/2026
 
@@ -401,25 +536,19 @@ hrvatski (HR) (105.9 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (81.4 KB - PDF)
-
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
-
-[View](/is/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (98.03 KB - PDF)
 
 **First published:** 16/03/2017 **Last updated:** 07/05/2026
 
 [View](/it/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (103.74 KB - PDF)
+latviešu (LV) (103.74 KB - PDF)
 
 **First published:** 16/03/2017 **Last updated:** 07/05/2026
 
 [View](/lv/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (108.94 KB - PDF)
+lietuvių (LT) (108.94 KB - PDF)
 
 **First published:** 16/03/2017 **Last updated:** 07/05/2026
 
@@ -442,12 +571,6 @@ Nederlands (NL) (81.86 KB - PDF)
 **First published:** 16/03/2017 **Last updated:** 07/05/2026
 
 [View](/nl/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (71.72 KB - PDF)
-
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
-
-[View](/no/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (87.84 KB - PDF)
 
@@ -479,7 +602,7 @@ slovenščina (SL) (118.46 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (77.63 KB - PDF)
+suomi (FI) (77.63 KB - PDF)
 
 **First published:** 16/03/2017 **Last updated:** 07/05/2026
 
@@ -491,27 +614,30 @@ svenska (SV) (84.05 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (81.4 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 07/05/2026
+
+[View](/is/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (71.72 KB - PDF)
+
+**First published:** 16/03/2017 **Last updated:** 07/05/2026
+
+[View](/no/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Olumiant
-
-Active substance
-
-baricitinib
-
-International non-proprietary name (INN) or common name
-
-baricitinib
-
-Therapeutic area (MeSH)
-
-Arthritis, Rheumatoid
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AA37
+- **Name of medicine**
+    - Olumiant
+- **Active substance**
+    - baricitinib
+- **International non-proprietary name (INN) or common name**
+    - baricitinib
+- **Therapeutic area (MeSH)**
+    - Arthritis, Rheumatoid
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AA37
 
 ### Pharmacotherapeutic group
 
@@ -542,27 +668,16 @@ Baricitinib may be used as monotherapy or in combination with methotrexate.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004085
-
-Marketing authorisation holder
-
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000 3528 BD Utrecht Netherlands
-
-Opinion adopted
-
-14/12/2016
-
-Marketing authorisation issued
-
-13/02/2017
-
-Revision
-
-26
+- **EMA product number**
+    - EMEA/H/C/004085
+- **Marketing authorisation holder**
+    - Eli Lilly Nederland B.V. Orteliuslaan 1000  3528 BD Utrecht  Netherlands
+- **Opinion adopted**
+    - 14/12/2016
+- **Marketing authorisation issued**
+    - 13/02/2017
+- **Revision**
+    - 27
 
 ## Assessment history
 
@@ -570,7 +685,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Olumiant : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -587,6 +702,16 @@ English (EN) (140.89 KB - PDF)
 **First published:** 20/10/2017 **Last updated:** 25/07/2025
 
 [View](/en/documents/procedural-steps-after/olumiant-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Olumiant-PAM-0000338022 : EPAR - Assessment report for paediatric studies submitted according to Article 46 of the Regulation (EC) No 1901/2006
+
+Adopted Reference Number: EMADOC-1700519818-3329933
+
+English (EN) (424.7 KB - PDF)
+
+**First published:** 08/09/2026
+
+[View](/en/documents/variation-report/olumiant-pam-0000338022-epar-assessment-report-paediatric-studies-submitted-according-article-46-regulation-ec-no-1901-2006_en.pdf)
 
 Olumiant-VR-0000288098 : EPAR - Assessment report - Variation
 
@@ -674,7 +799,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-698)
+[Other languages (24)](#file-language-dropdown-354)
 
 български (BG) (203.66 KB - PDF)
 
@@ -706,7 +831,7 @@ Deutsch (DE) (192.42 KB - PDF)
 
 [View](/de/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_de.pdf)
 
-eesti keel (ET) (172.43 KB - PDF)
+eesti (ET) (172.43 KB - PDF)
 
 **First published:** 15/06/2023
 
@@ -730,25 +855,19 @@ hrvatski (HR) (208.34 KB - PDF)
 
 [View](/hr/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_hr.pdf)
 
-íslenska (IS) (189.22 KB - PDF)
-
-**First published:** 15/06/2023
-
-[View](/is/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_is.pdf)
-
 italiano (IT) (180.64 KB - PDF)
 
 **First published:** 15/06/2023
 
 [View](/it/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_it.pdf)
 
-latviešu valoda (LV) (202.23 KB - PDF)
+latviešu (LV) (202.23 KB - PDF)
 
 **First published:** 15/06/2023
 
 [View](/lv/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_lv.pdf)
 
-lietuvių kalba (LT) (225.26 KB - PDF)
+lietuvių (LT) (225.26 KB - PDF)
 
 **First published:** 15/06/2023
 
@@ -771,12 +890,6 @@ Nederlands (NL) (185.49 KB - PDF)
 **First published:** 15/06/2023
 
 [View](/nl/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_nl.pdf)
-
-norsk (NO) (180 KB - PDF)
-
-**First published:** 15/06/2023
-
-[View](/no/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_no.pdf)
 
 polski (PL) (211.18 KB - PDF)
 
@@ -808,7 +921,7 @@ slovenščina (SL) (222.12 KB - PDF)
 
 [View](/sl/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_sl.pdf)
 
-Suomi (FI) (169.26 KB - PDF)
+suomi (FI) (169.26 KB - PDF)
 
 **First published:** 15/06/2023
 
@@ -819,6 +932,18 @@ svenska (SV) (182.3 KB - PDF)
 **First published:** 15/06/2023
 
 [View](/sv/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_sv.pdf)
+
+Íslenska (IS) (189.22 KB - PDF)
+
+**First published:** 15/06/2023
+
+[View](/is/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_is.pdf)
+
+norsk (NO) (180 KB - PDF)
+
+**First published:** 15/06/2023
+
+[View](/no/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_no.pdf)
 
 Olumiant-H-C-4085-A20-0032 : EPAR - Assessment Report - Article 20
 
@@ -868,7 +993,7 @@ English (EN) (157.08 KB - PDF)
 
 **First published:** 15/12/2020
 
-[View](/en/documents/scientific-conclusion/olumiant-psusa-000010578202002-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/olumiant-psusa-000010578-202002-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Olumiant-H-C-4085-II-0016 : EPAR - Assessment report - Variation
 
@@ -898,9 +1023,9 @@ English (EN) (130.98 KB - PDF)
 
 **First published:** 03/12/2019
 
-[View](/en/documents/scientific-conclusion/olumiant-psusa-00010578-201902-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/olumiant-psusa-00010578-201902-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Olumiant : EPAR - Public assessment report
 
@@ -982,7 +1107,7 @@ English (EN) (633.99 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (23)](#file-language-dropdown-186)
+[Other languages (23)](#file-language-dropdown-911)
 
 български (BG) (683.33 KB - DOCX)
 
@@ -1014,7 +1139,7 @@ Deutsch (DE) (674.03 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (653.7 KB - DOCX)
+eesti (ET) (653.7 KB - DOCX)
 
 **First published:** 19/12/2025
 
@@ -1038,19 +1163,13 @@ hrvatski (HR) (693.47 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (1011.5 KB - DOC)
-
-**First published:** 19/12/2025
-
-[View](/is/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_is.doc)
-
-latviešu valoda (LV) (687.73 KB - DOCX)
+latviešu (LV) (687.73 KB - DOCX)
 
 **First published:** 19/12/2025
 
 [View](/lv/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (607.2 KB - DOCX)
+lietuvių (LT) (607.2 KB - DOCX)
 
 **First published:** 19/12/2025
 
@@ -1073,12 +1192,6 @@ Nederlands (NL) (560.67 KB - DOCX)
 **First published:** 19/12/2025
 
 [View](/nl/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (702.99 KB - DOCX)
-
-**First published:** 19/12/2025
-
-[View](/no/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (676.21 KB - DOCX)
 
@@ -1110,7 +1223,7 @@ slovenščina (SL) (549.54 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (754.78 KB - DOCX)
+suomi (FI) (754.78 KB - DOCX)
 
 **First published:** 19/12/2025
 
@@ -1121,6 +1234,18 @@ svenska (SV) (492.49 KB - DOCX)
 **First published:** 19/12/2025
 
 [View](/sv/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (1011.5 KB - DOC)
+
+**First published:** 19/12/2025
+
+[View](/is/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_is.doc)
+
+norsk (NO) (702.99 KB - DOCX)
+
+**First published:** 19/12/2025
+
+[View](/no/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_no.docx)
 
 ## Related content
 
@@ -1160,6 +1285,6 @@ svenska (SV) (492.49 KB - DOCX)
 
 **This page was last updated on**
 
-07/05/2026
+08/09/2026
 
 ## Share this page

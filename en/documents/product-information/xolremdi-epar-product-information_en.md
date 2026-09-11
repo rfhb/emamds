@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-20 15:10:59
+document_datetime: 2026-09-07 15:32:14
 document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xolremdi-epar-product-information_en.pdf
 document_name: xolremdi-epar-product-information_en.pdf
 version: success
-processing_time: 10.3944477
-conversion_datetime: 2026-08-23 00:58:32.392617
+processing_time: 10.0372725
+conversion_datetime: 2026-09-11 17:36:52.992564
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -56,8 +56,8 @@ Treatment should only be initiated by specialist physicians with experience in t
 
 The recommended dose is:
 
-- -Weight more than 50 kg: 400 mg (four 100 mg capsules) orally once daily on an empty stomach after an overnight fast, and at least 30 minutes before food.
-- -Weight less than or equal to 50 kg: 300 mg (three 100 mg capsules) orally once daily on an empty stomach after an overnight fast, and at least 30 minutes before food.
+- Weight more than 50 kg: 400 mg (four 100 mg capsules) orally once daily on an empty stomach after an overnight fast, and at least 30 minutes before food.
+- Weight less than or equal to 50 kg: 300 mg (three 100 mg capsules) orally once daily on an empty stomach after an overnight fast, and at least 30 minutes before food.
 
 ## Missed dose
 
@@ -903,11 +903,11 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-- -Inside the pack you will find a patient card which you should read carefully.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Inside the pack you will find a patient card which you should read carefully.
 
 ## What is in this leaflet
 
@@ -934,12 +934,12 @@ The active substance in Xolremdi, mavorixafor, works by increasing the movement 
 
 ## Do not take Xolremdi
 
-- -if you are allergic to mavorixafor or any of the other ingredients of this medicine (listed in section 6).
-- -if you are pregnant.
+- if you are allergic to mavorixafor or any of the other ingredients of this medicine (listed in section 6).
+- if you are pregnant.
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you are taking any medicines which are broken down in the body by a liver enzyme (protein) known as CYP2D6, such as medicines to:
+- if you are taking any medicines which are broken down in the body by a liver enzyme (protein) known as CYP2D6, such as medicines to:
 - o relieve cough (such as codeine, dextromethorphan);
 - o treat pain (such as codeine, tramadol).
 
@@ -947,8 +947,8 @@ The active substance in Xolremdi, mavorixafor, works by increasing the movement 
 
 Talk to your doctor or pharmacist before taking Xolremdi, if
 
-- -you are pregnant, think you may be pregnant or are planning to have a baby.
-- -you have risk factors for QTc prolongation (abnormal electrical activity of the heart that affects its rhythm) such as:
+- you are pregnant, think you may be pregnant or are planning to have a baby.
+- you have risk factors for QTc prolongation (abnormal electrical activity of the heart that affects its rhythm) such as:
 - o hypokalaemia (low blood potassium levels),
 - o congestive heart failure (when the heart does not pump blood as well as it should)
 - o long QT syndrome (a heart rhythm that causes fast, chaotic heartbeats), or take medicines that can cause QTc prolongation or that increase the levels of Xolremdi in the blood (see 'Other medicines and Xolremdi').
@@ -967,40 +967,40 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Some medicines and supplements should not be taken together with Xolremdi as they may reduce the effectiveness of Xolremdi by decreasing the amount of Xolremdi in the blood. Tell your doctor or pharmacist before you take Xolremdi if you are taking any of the following medicines to:
 
-- -treat anxiety and depression ( St. John's wort );
-- -treat cancer (such as apalutamine, enzalutamide, mitotane );
-- -treat seizures and other conditions (such as carbamazepine, phenytoin, phenobarbital );
-- -treat infections ( rifampicin , only when used for ≥ 5 days).
+- treat anxiety and depression ( St. John's wort );
+- treat cancer (such as apalutamine, enzalutamide, mitotane );
+- treat seizures and other conditions (such as carbamazepine, phenytoin, phenobarbital );
+- treat infections ( rifampicin , only when used for ≥ 5 days).
 
 The following medicines may increase the risk of side effects with Xolremdi by increasing the amount of Xolremdi in the blood:
 
-- -medicines used to treat fungal infections (such as fluconazole, itraconazole, ketoconazole );
-- -antibiotics used to treat bacterial infections (such as clarithromycin, erythromycin );
-- -medicines used to treat depression (such as nefazodone );
-- -medicines used to treat heart conditions (such as amiodarone, diltiazem, verapamil ).
+- medicines used to treat fungal infections (such as fluconazole, itraconazole, ketoconazole );
+- antibiotics used to treat bacterial infections (such as clarithromycin, erythromycin );
+- medicines used to treat depression (such as nefazodone );
+- medicines used to treat heart conditions (such as amiodarone, diltiazem, verapamil ).
 
 Xolremdi may increase the side effects of the following medicines by increasing the amount of these medicines in the blood:
 
-- -medicines used to relieve allergies (such as fexofenadine );
-- -medicines used to treat blood conditions (such as dabigatran etexilate , edoxaban );
-- -medicines to treat viral infections (such as telaprevir );
-- -medicines used to treat HIV infection and AIDS (such as atazanavir );
-- -medicines to treat cancer (such as ribociclib, ceritinib, everolimus );
+- medicines used to relieve allergies (such as fexofenadine );
+- medicines used to treat blood conditions (such as dabigatran etexilate , edoxaban );
+- medicines to treat viral infections (such as telaprevir );
+- medicines used to treat HIV infection and AIDS (such as atazanavir );
+- medicines to treat cancer (such as ribociclib, ceritinib, everolimus );
 
 <div style=\"page-break-after: always\"></div>
 
-- -antibiotics used to treat bacterial infections (such as telithromycin );
-- -medicines to treat anxiety or sleep disorders (such as midazolam, alprazolam );
-- -a medicine used to treat a heart condition ( digoxin ).
+- antibiotics used to treat bacterial infections (such as telithromycin );
+- medicines to treat anxiety or sleep disorders (such as midazolam, alprazolam );
+- a medicine used to treat a heart condition ( digoxin ).
 
 Xolremdi may reduce the effectiveness of the following medicine by decreasing the amount of this in the blood:
 
-- -metformin , a medicine used to treat diabetes.
+- metformin , a medicine used to treat diabetes.
 
 The following medicines can increase the risk of serious side effects affecting the electrical activity of the heart when taken with Xolremdi:
 
-- -medicines used to treat irregular heartbeat (such as amiodarone, disopyramide, procainamide ).
-- -other medicines that affect the electrical activity of the heart (such as chloroquine, halofantrine, clarithromycin, ciprofloxacin, levofloxacin, azithromycin, haloperidol, methadone, moxifloxacin, bepridil, pimozide and intravenous ondansetron ).
+- medicines used to treat irregular heartbeat (such as amiodarone, disopyramide, procainamide ).
+- other medicines that affect the electrical activity of the heart (such as chloroquine, halofantrine, clarithromycin, ciprofloxacin, levofloxacin, azithromycin, haloperidol, methadone, moxifloxacin, bepridil, pimozide and intravenous ondansetron ).
 
 If you are taking any of the medicines listed above, inform your doctor or pharmacist before taking Xolremdi.
 
@@ -1052,8 +1052,8 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 The recommended dose of Xolremdi is:
 
-- -For patients weighing more than 50 kg : 400 mg (four 100 mg capsules) taken by mouth, at least 30 minutes before breakfast on an empty stomach after an overnight fast.
-- -For patients weighing less than or equal to 50 kg : 300 mg (three 100 mg capsules) taken by mouth, at least 30 minutes before breakfast on an empty stomach after an overnight fast.
+- For patients weighing more than 50 kg : 400 mg (four 100 mg capsules) once daily, taken by mouth, at least 30 minutes before breakfast on an empty stomach after an overnight fast.
+- For patients weighing less than or equal to 50 kg : 300 mg (three 100 mg capsules) once daily, taken by mouth, at least 30 minutes before breakfast on an empty stomach after an overnight fast.
 
 Your doctor may tell you to take a lower dose if you are taking other medicines which may cause serious side effects when taken together with Xolremdi.
 
@@ -1089,21 +1089,21 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Very common (may affect more than 1 in 10 people)
 
-- -Feeling sick (nausea)
-- -Belly (abdominal) pain
-- -Indigestion (dyspepsia)
-- -Diarrhoea
-- -Vomiting
-- -Headache
-- -Rash, including a rash with small, flat, discolored patches (rash macular), itchy rash (rash pruritic) and a rash with small, raised bumps (rash papular)
+- Feeling sick (nausea)
+- Belly (abdominal) pain
+- Indigestion (dyspepsia)
+- Diarrhoea
+- Vomiting
+- Headache
+- Rash, including a rash with small, flat, discolored patches (rash macular), itchy rash (rash pruritic) and a rash with small, raised bumps (rash papular)
 
 ## Common (may affect up to 1 in 10 people)
 
-- -Dizziness
-- -Fainting (syncope)
-- -Nose bleeding (epistaxis)
-- -Dry skin
-- -Red, scaly patches on the skin, accompanied by itching and discomfort (psoriasiform dermatitis)
+- Dizziness
+- Fainting (syncope)
+- Nose bleeding (epistaxis)
+- Dry skin
+- Red, scaly patches on the skin, accompanied by itching and discomfort (psoriasiform dermatitis)
 
 ## Reporting of side effects
 
@@ -1127,12 +1127,14 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Xolremdi contains
 
-- -The active substance is mavorixafor. Each hard capsule contains 100 mg of mavorixafor.
-- -The other ingredients are:
+- The active substance is mavorixafor. Each hard capsule contains 100 mg of mavorixafor.
+- The other ingredients are:
 
 Capsule content: silica, colloidal anhydrous (E551), croscarmellose sodium (E468), calcium sulfate, and sodium stearyl fumarate. See section 2 'Xolremdi contains sodium'.
 
-hydrogen phosphate dihydrate (E3431 (ii)), cellulose, microcrystalline (E460(i)), sodium lauril Capsule shell: indigotine (E132), gelatine (E441) and titanium dioxide (E171). Printing ink: ammonia solution, concentrated (E527), black iron oxide (E172), isopropyl alcohol, n-butyl alcohol, propylene glycol (E1520) and shellac glaze in ethanol (E904).
+hydrogen phosphate dihydrate (E3431 (ii)), cellulose, microcrystalline (E460(i)), sodium lauril Capsule shell: indigotine (E132), gelatine (E441) and titanium dioxide (E171). Printing ink: ammonia solution, concentrated (E527), black iron oxide (E172), isopropyl
+
+alcohol, n-butyl alcohol, propylene glycol (E1520) and shellac glaze in ethanol (E904).
 
 ## What Xolremdi looks like and contents of the pack
 

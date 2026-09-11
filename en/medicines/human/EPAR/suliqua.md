@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-02 16:55:00
+document_datetime: 2026-09-08 16:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/suliqua.html
 document_name: suliqua.html
 version: success
-processing_time: 0.1773688
-conversion_datetime: 2026-07-04 13:00:59.465172
+processing_time: 0.1823845
+conversion_datetime: 2026-09-11 18:00:06.942819
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Suliqua
 
@@ -115,7 +115,7 @@ English (EN) (145.65 KB - PDF)
 
 [View](/en/documents/overview/suliqua-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-999)
+[Other languages (22)](#file-language-dropdown-845)
 
 български (BG) (151.21 KB - PDF)
 
@@ -253,167 +253,167 @@ svenska (SV) (123.8 KB - PDF)
 
 Suliqua : EPAR - Product Information
 
-English (EN) (1.35 MB - PDF)
+English (EN) (2.22 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/en/documents/product-information/suliqua-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-879)
+[Other languages (24)](#file-language-dropdown-131)
 
-български (BG) (1.87 MB - PDF)
+български (BG) (1.88 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/bg/documents/product-information/suliqua-epar-product-information_bg.pdf)
 
-español (ES) (2.2 MB - PDF)
+español (ES) (2.04 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/es/documents/product-information/suliqua-epar-product-information_es.pdf)
 
-čeština (CS) (2.28 MB - PDF)
+čeština (CS) (2.2 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/cs/documents/product-information/suliqua-epar-product-information_cs.pdf)
 
-dansk (DA) (2.6 MB - PDF)
+dansk (DA) (2.57 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/da/documents/product-information/suliqua-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.39 MB - PDF)
+Deutsch (DE) (2.36 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/de/documents/product-information/suliqua-epar-product-information_de.pdf)
 
-eesti (ET) (1.65 MB - PDF)
+eesti (ET) (1.62 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/et/documents/product-information/suliqua-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.85 MB - PDF)
+ελληνικά (EL) (2.02 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/el/documents/product-information/suliqua-epar-product-information_el.pdf)
 
 français (FR) (1.78 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/fr/documents/product-information/suliqua-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.4 MB - PDF)
+hrvatski (HR) (1.68 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/hr/documents/product-information/suliqua-epar-product-information_hr.pdf)
 
-italiano (IT) (2.24 MB - PDF)
+italiano (IT) (2.22 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/it/documents/product-information/suliqua-epar-product-information_it.pdf)
 
 latviešu (LV) (2.12 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/lv/documents/product-information/suliqua-epar-product-information_lv.pdf)
 
-lietuvių (LT) (2.17 MB - PDF)
+lietuvių (LT) (2.07 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/lt/documents/product-information/suliqua-epar-product-information_lt.pdf)
 
-magyar (HU) (2.47 MB - PDF)
+magyar (HU) (2.36 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/hu/documents/product-information/suliqua-epar-product-information_hu.pdf)
 
-Malti (MT) (2.48 MB - PDF)
+Malti (MT) (2.41 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/mt/documents/product-information/suliqua-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.22 MB - PDF)
+Nederlands (NL) (2.03 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/nl/documents/product-information/suliqua-epar-product-information_nl.pdf)
 
-polski (PL) (1.66 MB - PDF)
+polski (PL) (1.68 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/pl/documents/product-information/suliqua-epar-product-information_pl.pdf)
 
-português (PT) (1.95 MB - PDF)
+português (PT) (2.1 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/pt/documents/product-information/suliqua-epar-product-information_pt.pdf)
 
 română (RO) (2.5 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/ro/documents/product-information/suliqua-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.97 MB - PDF)
+slovenčina (SK) (2.06 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/sk/documents/product-information/suliqua-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.76 MB - PDF)
+slovenščina (SL) (1.85 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/sl/documents/product-information/suliqua-epar-product-information_sl.pdf)
 
 suomi (FI) (1.65 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/fi/documents/product-information/suliqua-epar-product-information_fi.pdf)
 
-svenska (SV) (1.74 MB - PDF)
+svenska (SV) (1.75 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/sv/documents/product-information/suliqua-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.69 MB - PDF)
+Íslenska (IS) (1.68 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/is/documents/product-information/suliqua-epar-product-information_is.pdf)
 
-norsk (NO) (2.21 MB - PDF)
+norsk (NO) (2.17 MB - PDF)
 
-**First published:** 30/03/2017 **Last updated:** 02/07/2026
+**First published:** 30/03/2017 **Last updated:** 08/09/2026
 
 [View](/no/documents/product-information/suliqua-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000334815
+**Latest procedure affecting product information:** VR/0000320187
 
-01/07/2026
+27/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -432,7 +432,7 @@ English (EN) (25.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/suliqua-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-492)
+[Other languages (24)](#file-language-dropdown-407)
 
 български (BG) (60.15 KB - PDF)
 
@@ -612,7 +612,7 @@ Suliqua is indicated for the treatment of adults with insufficiently controlled 
 - **Marketing authorisation issued**
     - 11/01/2017
 - **Revision**
-    - 15
+    - 16
 
 ## Assessment history
 
@@ -624,9 +624,9 @@ Collapse section
 
 Suliqua : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (146.71 KB - PDF)
+English (EN) (145.76 KB - PDF)
 
-**First published:** 02/07/2026
+**First published:** 02/07/2026 **Last updated:** 08/09/2026
 
 [View](/en/documents/procedural-steps-after/suliqua-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -730,7 +730,7 @@ English (EN) (130.45 KB - PDF)
 
 [View](/en/documents/medication-error/suliqua-educational-materials-healthcare-professionals-and-patients-using-diabetes-medicine-suliqua_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-28)
+[Other languages (22)](#file-language-dropdown-590)
 
 български (BG) (184.64 KB - PDF)
 
@@ -870,6 +870,6 @@ svenska (SV) (164.51 KB - PDF)
 
 **This page was last updated on**
 
-02/07/2026
+08/09/2026
 
 ## Share this page

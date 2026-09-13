@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-27 16:22:03
+document_datetime: 2026-09-11 09:05:06
 document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/emgality-epar-product-information_en.pdf
 document_name: emgality-epar-product-information_en.pdf
 version: success
-processing_time: 23.6412459
-conversion_datetime: 2026-02-01 20:51:22.390771
+processing_time: 22.7248863
+conversion_datetime: 2026-09-13 12:22:54.673733
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -206,72 +206,66 @@ Compared with placebo-treated patients, patients treated with galcanezumab 120 m
 
 Figure 1 Reduction in monthly migraine headache days over time in studies EVOLVE-1 and EVOLVE-2
 
-StudyEVOLVE-1(EpisodicMigraine)
+Study EVOLVE-1 (Episodic Migraine)
 
 <!-- image -->
 
-p&lt;.001 at all months for both galcanezumab 120 mg and 240 mg compared with placebo
-
-StudyEVOLVE-2(EpisodicMigraine)
+Study EVOLVE-2 (Episodic Migraine)
 
 <!-- image -->
 
-p&lt;.001 at all months for both galcanezumab 120 mg and 240 mg compared with placebo
+p&lt;.001 at all months for both galcanezumab 120 mg and 240 mg compared with placebo p&lt;.001 at all months for both galcanezumab 120 mg and 240 mg compared with placebo N = number of patients; CI 95 % = 95 % confidence interval.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 2. Efficacy and patient reported outcome measures
 
-|                                   | EVOLVE-1 - Episodic Migraine      | EVOLVE-1 - Episodic Migraine   | EVOLVE-1 - Episodic Migraine   | EVOLVE-2 - Episodic Migraine   | EVOLVE-2 - Episodic Migraine   | EVOLVE-2 - Episodic Migraine   |
-|-----------------------------------|-----------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
-|                                   | Emgality                          | Emgality                       | Placebo                        | Emgality                       | Emgality                       | Placebo                        |
-|                                   | 120 mg N = 210                    | 240 mg N = 208                 | N = 425                        | 120 mg N = 226                 | 240 mg N = 220                 | N = 450                        |
-| Efficacy Outcomes a               |                                   |                                |                                |                                |                                |                                |
-| MHD                               |                                   |                                |                                |                                |                                |                                |
-| Baseline                          | 9.21                              | 9.14                           | 9.08                           | 9.07                           | 9.06                           | 9.19                           |
-| Mean Change                       | -4.73                             | - 4.57                         | -2.81                          | -4.29                          | -4.18                          | -2.28                          |
-| Treatment Difference              | -1.92                             | -1.76                          |                                | -2.02                          | -1.90                          |                                |
-| CI 95 %                           | (-2.48, -1.37)                    | (-2.31, -1.20)                 |                                | (- 2.55, -1.48)                | (-2.44, -1.36)                 |                                |
-| P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
-| ≥ 50 %MHDResponders               |                                   |                                |                                |                                |                                |                                |
-| Percentage,%                      | 62.3                              | 60.9                           | 38.6                           | 59.3                           | 56.5                           | 36.0                           |
-| P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
-| ≥ 75 %MHDResponders               |                                   |                                |                                |                                |                                |                                |
-| Percentage,%                      | 38.8                              | 38.5                           | 19.3                           | 33.5                           | 34.3                           | 17.8                           |
-| P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
-| 100 %MHDResponders                |                                   |                                |                                |                                |                                |                                |
-| Percentage,%                      | 15.6                              | 14.6                           | 6.2                            | 11.5                           | 13.8                           | 5.7                            |
-| P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
-| MHDwith Acute                     |                                   |                                |                                |                                |                                |                                |
-| Medication Use                    |                                   |                                |                                |                                |                                |                                |
-| Baseline                          | 7.42                              | 7.34                           | 7.38                           | 7.47                           | 7.47                           | 7.62                           |
-| Mean Change                       | -3.96                             | -3.76                          | - 2.15                         | -3.67                          | -3.63                          | - 1.85                         |
-| Treatment Difference              | -1.81                             | -1.61                          |                                | -1.82                          | -1.78                          |                                |
-| CI 95 %                           | (-2.28, -1.33)                    | (-2.09, -1.14)                 |                                | (-2.29, -1.36)                 | (- 2.25, -1.31)                |                                |
-| P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
-| Patient-reported Outcome Measures | Patient-reported Outcome Measures |                                |                                |                                |                                |                                |
-| MSQ Role Function-                |                                   |                                |                                |                                |                                |                                |
-| Restrictive Domain b              |                                   |                                |                                |                                |                                |                                |
-| N                                 | 189                               | 184                            | 377                            | 213                            | 210                            | 396                            |
-| Baseline                          | 51.39                             | 48.76                          | 52.92                          | 52.47                          | 51.71                          | 51.35                          |
-| Mean Change                       | 32.43                             | 32.09                          | 24.69                          | 28.47                          | 27.04                          | 19.65                          |
-| Treatment Difference              | 7.74                              | 7.40                           |                                | 8.82                           | 7.39                           |                                |
-| CI 95 %                           | (5.20, 10.28)                     | (4.83, 9.97)                   |                                | (6.33, 11.31)                  | (4.88, 9.90)                   |                                |
-| P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
-| MSQ Role Function                 |                                   |                                |                                |                                |                                |                                |
-| Restrictive Domain Responders c   |                                   |                                |                                |                                |                                |                                |
-| N                                 | 189                               | 184                            | 377                            | 213                            | 210                            | 396                            |
-| Percentage,%                      | 63.5                              | 69.6                           | 47.2                           | 58.2                           | 60.0                           | 43.4                           |
-| P-value                           | < .001 f                          | < .001 f                       |                                | < .001 f                       | < .001 f                       |                                |
-| MIDAS Total Score e               |                                   |                                |                                |                                |                                |                                |
-| N                                 | 177                               | 170                            | 345                            | 202                            | 194                            | 374                            |
-| Baseline                          | 32.93                             | 36.09                          | 31.84                          | 30.87                          | 32.75                          | 34.25                          |
-| Mean Change                       | -21.16                            | -20.06                         | -14.87                         | -21.17                         | -20.24                         | -12.02                         |
-| Treatment Difference              | -6.29                             | - 5.19                         |                                | - 9.15                         | -8.22                          |                                |
-| CI 95%                            | (- 9.45, -3.13)                   | (-8.39, -1.98)                 |                                | (-12.61, - 5.69)               | (-11.71, -4.72)                |                                |
-| P-value                           | < .001 f                          | .002 f                         |                                | < .001 f                       | < .001 f                       |                                |
-
-N = number of patients; CI 95 % = 95 % confidence interval.
+|                                   | EVOLVE-1 - Episodic Migraine - Emgality - 120 mg N = 210   | EVOLVE-1 - Episodic Migraine - Emgality - 240 mg N = 208   | EVOLVE-1 - Episodic Migraine - Placebo - N = 425   | EVOLVE-2 - Episodic Migraine - Emgality - 120 mg N = 226   | EVOLVE-2 - Episodic Migraine - Emgality - 240 mg N = 220   | EVOLVE-2 - Episodic Migraine - Placebo - N = 450   |
+|-----------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|
+| Efficacy Outcomes a               |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| MHD                               |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Baseline                          | 9.21                                                       | 9.14                                                       | 9.08                                               | 9.07                                                       | 9.06                                                       | 9.19                                               |
+| Mean Change                       | -4.73                                                      | - 4.57                                                     | -2.81                                              | -4.29                                                      | -4.18                                                      | -2.28                                              |
+| Treatment Difference              | -1.92                                                      | -1.76                                                      |                                                    | -2.02                                                      | -1.90                                                      |                                                    |
+| CI 95 %                           | (-2.48, -1.37)                                             | (-2.31, -1.20)                                             |                                                    | (- 2.55, -1.48)                                            | (-2.44, -1.36)                                             |                                                    |
+| P-value                           | < .001 d                                                   | < .001 d                                                   |                                                    | < .001 d                                                   | < .001 d                                                   |                                                    |
+| ≥ 50 % MHD Responders             |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Percentage, %                     | 62.3                                                       | 60.9                                                       | 38.6                                               | 59.3                                                       | 56.5                                                       | 36.0                                               |
+| P-value                           | < .001 d                                                   | < .001 d                                                   |                                                    | < .001 d                                                   | < .001 d                                                   |                                                    |
+| ≥ 75 % MHD Responders             |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Percentage, %                     | 38.8                                                       | 38.5                                                       | 19.3                                               | 33.5                                                       | 34.3                                                       | 17.8                                               |
+| P-value                           | < .001 d                                                   | < .001 d                                                   |                                                    | < .001 d                                                   | < .001 d                                                   |                                                    |
+| 100 % MHD Responders              |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Percentage, %                     | 15.6                                                       | 14.6                                                       | 6.2                                                | 11.5                                                       | 13.8                                                       | 5.7                                                |
+| P-value                           | < .001 d                                                   | < .001 d                                                   |                                                    | < .001 d                                                   | < .001 d                                                   |                                                    |
+| MHD with Acute                    |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Medication Use                    |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Baseline                          | 7.42                                                       | 7.34                                                       | 7.38                                               | 7.47                                                       | 7.47                                                       | 7.62                                               |
+| Mean Change                       | -3.96                                                      | -3.76                                                      | - 2.15                                             | -3.67                                                      | -3.63                                                      | - 1.85                                             |
+| Treatment Difference              | -1.81                                                      | -1.61                                                      |                                                    | -1.82                                                      | -1.78                                                      |                                                    |
+| CI 95 %                           | (-2.28, -1.33)                                             | (-2.09, -1.14)                                             |                                                    | (-2.29, -1.36)                                             | (- 2.25, -1.31)                                            |                                                    |
+| P-value                           | < .001 d                                                   | < .001 d                                                   |                                                    | < .001 d                                                   | < .001 d                                                   |                                                    |
+| Patient-reported Outcome Measures | Patient-reported Outcome Measures                          |                                                            |                                                    |                                                            |                                                            |                                                    |
+| MSQ Role Function-                |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Restrictive Domain b              |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| N                                 | 189                                                        | 184                                                        | 377                                                | 213                                                        | 210                                                        | 396                                                |
+| Baseline                          | 51.39                                                      | 48.76                                                      | 52.92                                              | 52.47                                                      | 51.71                                                      | 51.35                                              |
+| Mean Change                       | 32.43                                                      | 32.09                                                      | 24.69                                              | 28.47                                                      | 27.04                                                      | 19.65                                              |
+| Treatment Difference              | 7.74                                                       | 7.40                                                       |                                                    | 8.82                                                       | 7.39                                                       |                                                    |
+| CI 95 %                           | (5.20, 10.28)                                              | (4.83, 9.97)                                               |                                                    | (6.33, 11.31)                                              | (4.88, 9.90)                                               |                                                    |
+| P-value                           | < .001 d                                                   | < .001 d                                                   |                                                    | < .001 d                                                   | < .001 d                                                   |                                                    |
+| MSQ Role Function                 |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Restrictive Domain Responders c   |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| N                                 | 189                                                        | 184                                                        | 377                                                | 213                                                        | 210                                                        | 396                                                |
+| Percentage, %                     | 63.5                                                       | 69.6                                                       | 47.2                                               | 58.2                                                       | 60.0                                                       | 43.4                                               |
+| P-value                           | < .001 f                                                   | < .001 f                                                   |                                                    | < .001 f                                                   | < .001 f                                                   |                                                    |
+| MIDAS Total Score e               |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| N                                 | 177                                                        | 170                                                        | 345                                                | 202                                                        | 194                                                        | 374                                                |
+| Baseline                          | 32.93                                                      | 36.09                                                      | 31.84                                              | 30.87                                                      | 32.75                                                      | 34.25                                              |
+| Mean Change                       | -21.16                                                     | -20.06                                                     | -14.87                                             | -21.17                                                     | -20.24                                                     | -12.02                                             |
+| Treatment Difference              | -6.29                                                      | - 5.19                                                     |                                                    | - 9.15                                                     | -8.22                                                      |                                                    |
+| CI 95%                            | (- 9.45, -3.13)                                            | (-8.39, -1.98)                                             |                                                    | (-12.61, - 5.69)                                           | (-11.71, -4.72)                                            |                                                    |
+| P-value                           | < .001 f                                                   | .002 f                                                     |                                                    | < .001 f                                                   | < .001 f                                                   |                                                    |
 
 a Efficacy outcomes were evaluated across Months 1-6.
 
@@ -298,63 +292,59 @@ Compared with placebo-treated patients, patients treated with galcanezumab 120 m
 
 Figure 2 Reduction in monthly migraine headache days over time in study REGAIN
 
-## StudyREGAIN(ChronicMigraine)
+## Study REGAIN (Chronic Migraine)
 
 <!-- image -->
 
-p&lt;.001 at all monthsforbothgalcanezumab120mg and 240mg comparedwith placebo exceptp=.002atmonth2forgalcanezumab240mgcomparedwithplacebo
+p&lt;.001 at all months for both galcanezumab 120 mg and 240 mg compared with placebo except p=.002 at month 2 for galcanezumab 240 mg compared with placebo N = number of patients; CI 95 % = 95 % confidence interval.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 3. Efficacy and patient reported outcome measures
 
-|                                      | REGAIN - Chronic Migraine   | REGAIN - Chronic Migraine   | REGAIN - Chronic Migraine   |
-|--------------------------------------|-----------------------------|-----------------------------|-----------------------------|
-|                                      | 120 mg                      | Emgality 240 mg             | Placebo                     |
-|                                      | N = 273                     | N = 274                     | N = 538                     |
-| Efficacy Outcomes a                  |                             |                             |                             |
-| MHD                                  |                             |                             |                             |
-| Baseline                             | 19.36                       | 19.17                       | 19.55                       |
-| Mean Change                          | -4.83                       | -4.62                       | -2.74                       |
-| Treatment Difference                 | -2.09                       | -1.88                       |                             |
-| CI 95 %                              | (-2.92, -1.26)              | (-2.71, - 1.05)             |                             |
-| P-value                              | < .001 c                    | < .001 c                    |                             |
-| ≥ 50 %MHDResponders                  |                             |                             |                             |
-| Percentage,%                         | 27.6                        | 27.5                        | 15.4                        |
-| P-value                              | < .001 c                    | < .001 c                    |                             |
-| ≥ 75 %MHDResponders                  |                             |                             |                             |
-| Percentage,%                         | 7.0                         | 8.8                         | 4.5                         |
-| P-value                              | .031 d                      | < .001 c                    |                             |
-| 100 %MHDResponders                   |                             |                             |                             |
-| Percentage,%                         | 0.7                         | 1.3                         | 0.5                         |
-| P-value                              | > .05 d                     | > .05 d                     |                             |
-| MHDwith Acute Medication Use         |                             |                             |                             |
-| Baseline                             | 15.12                       | 14.49                       | 15.51                       |
-| Mean Change                          | -4.74                       | - 4.25                      | -2.23                       |
-| Treatment Difference                 | - 2.51                      | -2.01                       |                             |
-| CI 95 %                              | (-3.27, -1.76)              | (-2.77, -1.26)              |                             |
-| P-value                              | < .001 d                    | < .001 c                    |                             |
-| Patient-reported Outcome Measures b  |                             |                             |                             |
-| MSQ Role Function-Restrictive Domain |                             |                             |                             |
-| N                                    | 252                         | 253                         | 494                         |
-| Baseline                             | 39.29                       | 38.93                       | 38.37                       |
-| Mean Change                          | 21.81                       | 23.05                       | 16.76                       |
-| Treatment Difference                 | 5.06                        | 6.29                        |                             |
-| CI 95 %                              | (2.12, 7.99)                | (3.03, 9.55)                |                             |
-| P-value                              | < .001 d                    | < .001 c                    |                             |
-| MSQ Role Function Restrictive Domain |                             |                             |                             |
-| N                                    | 252                         | 253                         | 494                         |
-| Percentage,%                         | 64.3                        | 64.8                        | 54.1                        |
-| P-value                              | .003 e                      | .002 e                      |                             |
-| MIDAS Total Score                    |                             |                             |                             |
-| N                                    | 254                         | 258                         | 504                         |
-| Baseline                             | 62.46                       | 69.17                       | 68.66                       |
-| Mean Change                          | -20.27                      | -17.02                      | - 11.53                     |
-| Treatment Difference                 | -8.74                       | - 5.49                      |                             |
-| CI 95 %                              | (-16.39, -1.08)             | (-13.10, 2.12)              |                             |
-| P-value                              | .025 e                      | > .05 e                     |                             |
-
-N = number of patients; CI 95 % = 95 % confidence interval.
+|                                                 | REGAIN - Chronic Migraine - 120 mg - N = 273   | REGAIN - Chronic Migraine - Emgality 240 mg - N = 274   | REGAIN - Chronic Migraine - Placebo - N = 538   |
+|-------------------------------------------------|------------------------------------------------|---------------------------------------------------------|-------------------------------------------------|
+| Efficacy Outcomes a                             |                                                |                                                         |                                                 |
+| MHD                                             |                                                |                                                         |                                                 |
+| Baseline                                        | 19.36                                          | 19.17                                                   | 19.55                                           |
+| Mean Change                                     | -4.83                                          | -4.62                                                   | -2.74                                           |
+| Treatment Difference                            | -2.09                                          | -1.88                                                   |                                                 |
+| CI 95 %                                         | (-2.92, -1.26)                                 | (-2.71, - 1.05)                                         |                                                 |
+| P-value                                         | < .001 c                                       | < .001 c                                                |                                                 |
+| ≥ 50 % MHD Responders                           |                                                |                                                         |                                                 |
+| Percentage, %                                   | 27.6                                           | 27.5                                                    | 15.4                                            |
+| P-value                                         | < .001 c                                       | < .001 c                                                |                                                 |
+| ≥ 75 % MHD Responders                           |                                                |                                                         |                                                 |
+| Percentage, %                                   | 7.0                                            | 8.8                                                     | 4.5                                             |
+| P-value                                         | .031 d                                         | < .001 c                                                |                                                 |
+| 100 % MHD Responders                            |                                                |                                                         |                                                 |
+| Percentage, %                                   | 0.7                                            | 1.3                                                     | 0.5                                             |
+| P-value                                         | > .05 d                                        | > .05 d                                                 |                                                 |
+| MHD with Acute Medication Use                   |                                                |                                                         |                                                 |
+| Baseline                                        | 15.12                                          | 14.49                                                   | 15.51                                           |
+| Mean Change                                     | -4.74                                          | - 4.25                                                  | -2.23                                           |
+| Treatment Difference                            | - 2.51                                         | -2.01                                                   |                                                 |
+| CI 95 %                                         | (-3.27, -1.76)                                 | (-2.77, -1.26)                                          |                                                 |
+| P-value                                         | < .001 d                                       | < .001 c                                                |                                                 |
+| Patient-reported Outcome Measures b             |                                                |                                                         |                                                 |
+| MSQ Role Function-Restrictive Domain            |                                                |                                                         |                                                 |
+| N                                               | 252                                            | 253                                                     | 494                                             |
+| Baseline                                        | 39.29                                          | 38.93                                                   | 38.37                                           |
+| Mean Change                                     | 21.81                                          | 23.05                                                   | 16.76                                           |
+| Treatment Difference                            | 5.06                                           | 6.29                                                    |                                                 |
+| CI 95 %                                         | (2.12, 7.99)                                   | (3.03, 9.55)                                            |                                                 |
+| P-value                                         | < .001 d                                       | < .001 c                                                |                                                 |
+| MSQ Role Function Restrictive Domain Responders |                                                |                                                         |                                                 |
+| N                                               | 252                                            | 253                                                     | 494                                             |
+| Percentage, %                                   | 64.3                                           | 64.8                                                    | 54.1                                            |
+| P-value                                         | .003 e                                         | .002 e                                                  |                                                 |
+| MIDAS Total Score                               |                                                |                                                         |                                                 |
+| N                                               | 254                                            | 258                                                     | 504                                             |
+| Baseline                                        | 62.46                                          | 69.17                                                   | 68.66                                           |
+| Mean Change                                     | -20.27                                         | -17.02                                                  | - 11.53                                         |
+| Treatment Difference                            | -8.74                                          | - 5.49                                                  |                                                 |
+| CI 95 %                                         | (-16.39, -1.08)                                | (-13.10, 2.12)                                          |                                                 |
+| P-value                                         | .025 e                                         | > .05 e                                                 |                                                 |
 
 a Efficacy outcomes were evaluated across Months 1-3.
 
@@ -368,9 +358,9 @@ e Not adjusted for multiple comparisons.
 
 <div style=\"page-break-after: always\"></div>
 
-In patients who failed one or more prophylactic treatments for efficacy reasons, the treatment difference for the reduction of mean monthly MHDs observed between galcanezumab 120 mg and placebo was 3.54 days (p &lt; 0.001) and between galcanezumab 240 mg and placebo -1.37 days (p &lt; 0.05). In patients failing two or more prophylactic treatments, the treatment difference was -4.48 days (p &lt; 0.001) between 120 mg and placebo and -1.86 days (p &lt; 0.01) between 240 mg and placebo.
+In patients who failed one or more prophylactic treatments for efficacy reasons, the treatment difference for the reduction of mean monthly MHDs observed between galcanezumab 120 mg and placebo was - 3.54 days (p &lt; 0.001) and between galcanezumab 240 mg and placebo -1.37 days (p &lt; 0.05). In patients failing two or more prophylactic treatments, the treatment difference was -4.48 days (p &lt; 0.001) between 120 mg and placebo and -1.86 days (p &lt; 0.01) between 240 mg and placebo.
 
-Sixty-four percent of the patients had acute headache medication overuse at baseline. In these patients, the treatment difference observed between galcanezumab 120 mg and placebo and between galcanezumab 240 mg and placebo for the reduction of MHDs in these patients was respectively 2.53 days (p &lt; 0.001) and -2.26 days (p &lt; 0.001).
+Sixty-four percent of the patients had acute headache medication overuse at baseline. In these patients, the treatment difference observed between galcanezumab 120 mg and placebo and between galcanezumab 240 mg and placebo for the reduction of MHDs in these patients was respectively - 2.53 days (p &lt; 0.001) and -2.26 days (p &lt; 0.001).
 
 ## Long term efficacy
 
@@ -430,11 +420,9 @@ Nonclinical studies have not been conducted to evaluate the carcinogenic or muta
 
 No effects on fertility parameters such as oestrous cycle, sperm analysis, or mating and reproductive performance were observed in rats that were administered galcanezumab (exposures approximately 4 to 20 times the human exposure at 240 mg). In male fertility study, right testis weight was significantly reduced at exposures to 4 times the human exposure at 240 mg.
 
-At Gestational Day 20, an increase in the number of foetuses and litters with short ribs and a decrease in the mean number of ossified caudal vertebrae occurred in the rat embryo-foetal toxicity development study at an exposure approximately 20 times the human exposure at 240 mg. These
+At Gestational Day 20, an increase in the number of foetuses and litters with short ribs and a decrease in the mean number of ossified caudal vertebrae occurred in the rat embryo-foetal toxicity development study at an exposure approximately 20 times the human exposure at 240 mg. These findings were noted at no maternal toxicity and were considered to be related to galcanezumab but non-adverse.
 
 <div style=\"page-break-after: always\"></div>
-
-findings were noted at no maternal toxicity and were considered to be related to galcanezumab but non-adverse.
 
 At Gestational Day 29, in rabbit embryo-foetal development toxicity study skull anomaly was found in one male foetus from mother treated with galcanezumab at an exposure approximately 33 times the human exposure at 240 mg.
 
@@ -476,7 +464,9 @@ Do not shake.
 
 <div style=\"page-break-after: always\"></div>
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 7.
 
@@ -690,72 +680,66 @@ Compared with placebo-treated patients, patients treated with galcanezumab 120 m
 
 Figure 1 Reduction in monthly migraine headache days over time in studies EVOLVE-1 and EVOLVE-2
 
-StudyEVOLVE-1(EpisodicMigraine)
+Study EVOLVE-1 (Episodic Migraine)
+
+Study EVOLVE-2 (Episodic Migraine)
 
 <!-- image -->
 
-p&lt;.001 at all months for both galcanezumab 120 mg and 240 mg compared with placebo
-
-StudyEVOLVE-2(EpisodicMigraine)
-
 <!-- image -->
 
-p&lt;.001 at all months for both galcanezumab 120 mg and 240 mg compared with placebo
+p&lt;.001 at all months for both galcanezumab 120 mg and 240 mg compared with placebo p&lt;.001 at all months for both galcanezumab 120 mg and 240 mg compared with placebo N = number of patients; CI 95 % = 95 % confidence interval.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 2. Efficacy and patient reported outcome measures
 
-|                                   | EVOLVE-1 - Episodic Migraine      | EVOLVE-1 - Episodic Migraine   | EVOLVE-1 - Episodic Migraine   | EVOLVE-2 - Episodic Migraine   | EVOLVE-2 - Episodic Migraine   | EVOLVE-2 - Episodic Migraine   |
-|-----------------------------------|-----------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
-|                                   | Emgality                          | Emgality                       | Placebo                        | Emgality                       | Emgality                       | Placebo                        |
-|                                   | 120 mg N = 210                    | 240 mg N = 208                 | N = 425                        | 120 mg N = 226                 | 240 mg N = 220                 | N = 450                        |
-| Efficacy Outcomes a               |                                   |                                |                                |                                |                                |                                |
-| MHD                               |                                   |                                |                                |                                |                                |                                |
-| Baseline                          | 9.21                              | 9.14                           | 9.08                           | 9.07                           | 9.06                           | 9.19                           |
-| Mean Change                       | -4.73                             | - 4.57                         | -2.81                          | -4.29                          | -4.18                          | -2.28                          |
-| Treatment Difference              | -1.92                             | -1.76                          |                                | -2.02                          | -1.90                          |                                |
-| CI 95 %                           | (-2.48, -1.37)                    | (-2.31, -1.20)                 |                                | (- 2.55, -1.48)                | (-2.44, -1.36)                 |                                |
-| P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
-| ≥ 50 %MHDResponders               |                                   |                                |                                |                                |                                |                                |
-| Percentage,%                      | 62.3                              | 60.9                           | 38.6                           | 59.3                           | 56.5                           | 36.0                           |
-| P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
-| ≥ 75 %MHDResponders               |                                   |                                |                                |                                |                                |                                |
-| Percentage,%                      | 38.8                              | 38.5                           | 19.3                           | 33.5                           | 34.3                           | 17.8                           |
-| P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
-| 100 %MHDResponders                |                                   |                                |                                |                                |                                |                                |
-| Percentage,%                      | 15.6                              | 14.6                           | 6.2                            | 11.5                           | 13.8                           | 5.7                            |
-| P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
-| MHDwith Acute                     |                                   |                                |                                |                                |                                |                                |
-| Medication Use                    |                                   |                                |                                |                                |                                |                                |
-| Baseline                          | 7.42                              | 7.34                           | 7.38                           | 7.47                           | 7.47                           | 7.62                           |
-| Mean Change                       | -3.96                             | -3.76                          | - 2.15                         | -3.67                          | -3.63                          | - 1.85                         |
-| Treatment Difference              | -1.81                             | -1.61                          |                                | -1.82                          | -1.78                          |                                |
-| CI 95 %                           | (-2.28, -1.33)                    | (-2.09, -1.14)                 |                                | (-2.29, -1.36)                 | (- 2.25, -1.31)                |                                |
-| P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
-| Patient-reported Outcome Measures | Patient-reported Outcome Measures |                                |                                |                                |                                |                                |
-| MSQ Role Function-                |                                   |                                |                                |                                |                                |                                |
-| Restrictive Domain b              |                                   |                                |                                |                                |                                |                                |
-| N                                 | 189                               | 184                            | 377                            | 213                            | 210                            | 396                            |
-| Baseline                          | 51.39                             | 48.76                          | 52.92                          | 52.47                          | 51.71                          | 51.35                          |
-| Mean Change                       | 32.43                             | 32.09                          | 24.69                          | 28.47                          | 27.04                          | 19.65                          |
-| Treatment Difference              | 7.74                              | 7.40                           |                                | 8.82                           | 7.39                           |                                |
-| CI 95 %                           | (5.20, 10.28)                     | (4.83, 9.97)                   |                                | (6.33, 11.31)                  | (4.88, 9.90)                   |                                |
-| P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
-| MSQ Role Function                 |                                   |                                |                                |                                |                                |                                |
-| Restrictive Domain Responders c   |                                   |                                |                                |                                |                                |                                |
-| N                                 | 189                               | 184                            | 377                            | 213                            | 210                            | 396                            |
-| Percentage,%                      | 63.5                              | 69.6                           | 47.2                           | 58.2                           | 60.0                           | 43.4                           |
-| P-value                           | < .001 f                          | < .001 f                       |                                | < .001 f                       | < .001 f                       |                                |
-| MIDAS Total Score e               |                                   |                                |                                |                                |                                |                                |
-| N                                 | 177                               | 170                            | 345                            | 202                            | 194                            | 374                            |
-| Baseline                          | 32.93                             | 36.09                          | 31.84                          | 30.87                          | 32.75                          | 34.25                          |
-| Mean Change                       | -21.16                            | -20.06                         | -14.87                         | -21.17                         | -20.24                         | -12.02                         |
-| Treatment Difference              | -6.29                             | - 5.19                         |                                | - 9.15                         | -8.22                          |                                |
-| CI 95%                            | (- 9.45, -3.13)                   | (-8.39, -1.98)                 |                                | (-12.61, - 5.69)               | (-11.71, -4.72)                |                                |
-| P-value                           | < .001 f                          | .002 f                         |                                | < .001 f                       | < .001 f                       |                                |
-
-N = number of patients; CI 95 % = 95 % confidence interval.
+|                                   | EVOLVE-1 - Episodic Migraine - Emgality - 120 mg N = 210   | EVOLVE-1 - Episodic Migraine - Emgality - 240 mg N = 208   | EVOLVE-1 - Episodic Migraine - Placebo - N = 425   | EVOLVE-2 - Episodic Migraine - Emgality - 120 mg N = 226   | EVOLVE-2 - Episodic Migraine - Emgality - 240 mg N = 220   | EVOLVE-2 - Episodic Migraine - Placebo - N = 450   |
+|-----------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|
+| Efficacy Outcomes a               |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| MHD                               |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Baseline                          | 9.21                                                       | 9.14                                                       | 9.08                                               | 9.07                                                       | 9.06                                                       | 9.19                                               |
+| Mean Change                       | -4.73                                                      | - 4.57                                                     | -2.81                                              | -4.29                                                      | -4.18                                                      | -2.28                                              |
+| Treatment Difference              | -1.92                                                      | -1.76                                                      |                                                    | -2.02                                                      | -1.90                                                      |                                                    |
+| CI 95 %                           | (-2.48, -1.37)                                             | (-2.31, -1.20)                                             |                                                    | (- 2.55, -1.48)                                            | (-2.44, -1.36)                                             |                                                    |
+| P-value                           | < .001 d                                                   | < .001 d                                                   |                                                    | < .001 d                                                   | < .001 d                                                   |                                                    |
+| ≥ 50 % MHD Responders             |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Percentage, %                     | 62.3                                                       | 60.9                                                       | 38.6                                               | 59.3                                                       | 56.5                                                       | 36.0                                               |
+| P-value                           | < .001 d                                                   | < .001 d                                                   |                                                    | < .001 d                                                   | < .001 d                                                   |                                                    |
+| ≥ 75 % MHD Responders             |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Percentage, %                     | 38.8                                                       | 38.5                                                       | 19.3                                               | 33.5                                                       | 34.3                                                       | 17.8                                               |
+| P-value                           | < .001 d                                                   | < .001 d                                                   |                                                    | < .001 d                                                   | < .001 d                                                   |                                                    |
+| 100 % MHD Responders              |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Percentage, %                     | 15.6                                                       | 14.6                                                       | 6.2                                                | 11.5                                                       | 13.8                                                       | 5.7                                                |
+| P-value                           | < .001 d                                                   | < .001 d                                                   |                                                    | < .001 d                                                   | < .001 d                                                   |                                                    |
+| MHD with Acute                    |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Medication Use                    |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Baseline                          | 7.42                                                       | 7.34                                                       | 7.38                                               | 7.47                                                       | 7.47                                                       | 7.62                                               |
+| Mean Change                       | -3.96                                                      | -3.76                                                      | - 2.15                                             | -3.67                                                      | -3.63                                                      | - 1.85                                             |
+| Treatment Difference              | -1.81                                                      | -1.61                                                      |                                                    | -1.82                                                      | -1.78                                                      |                                                    |
+| CI 95 %                           | (-2.28, -1.33)                                             | (-2.09, -1.14)                                             |                                                    | (-2.29, -1.36)                                             | (- 2.25, -1.31)                                            |                                                    |
+| P-value                           | < .001 d                                                   | < .001 d                                                   |                                                    | < .001 d                                                   | < .001 d                                                   |                                                    |
+| Patient-reported Outcome Measures | Patient-reported Outcome Measures                          |                                                            |                                                    |                                                            |                                                            |                                                    |
+| MSQ Role Function-                |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Restrictive Domain b              |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| N                                 | 189                                                        | 184                                                        | 377                                                | 213                                                        | 210                                                        | 396                                                |
+| Baseline                          | 51.39                                                      | 48.76                                                      | 52.92                                              | 52.47                                                      | 51.71                                                      | 51.35                                              |
+| Mean Change                       | 32.43                                                      | 32.09                                                      | 24.69                                              | 28.47                                                      | 27.04                                                      | 19.65                                              |
+| Treatment Difference              | 7.74                                                       | 7.40                                                       |                                                    | 8.82                                                       | 7.39                                                       |                                                    |
+| CI 95 %                           | (5.20, 10.28)                                              | (4.83, 9.97)                                               |                                                    | (6.33, 11.31)                                              | (4.88, 9.90)                                               |                                                    |
+| P-value                           | < .001 d                                                   | < .001 d                                                   |                                                    | < .001 d                                                   | < .001 d                                                   |                                                    |
+| MSQ Role Function                 |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| Restrictive Domain Responders c   |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| N                                 | 189                                                        | 184                                                        | 377                                                | 213                                                        | 210                                                        | 396                                                |
+| Percentage, %                     | 63.5                                                       | 69.6                                                       | 47.2                                               | 58.2                                                       | 60.0                                                       | 43.4                                               |
+| P-value                           | < .001 f                                                   | < .001 f                                                   |                                                    | < .001 f                                                   | < .001 f                                                   |                                                    |
+| MIDAS Total Score e               |                                                            |                                                            |                                                    |                                                            |                                                            |                                                    |
+| N                                 | 177                                                        | 170                                                        | 345                                                | 202                                                        | 194                                                        | 374                                                |
+| Baseline                          | 32.93                                                      | 36.09                                                      | 31.84                                              | 30.87                                                      | 32.75                                                      | 34.25                                              |
+| Mean Change                       | -21.16                                                     | -20.06                                                     | -14.87                                             | -21.17                                                     | -20.24                                                     | -12.02                                             |
+| Treatment Difference              | -6.29                                                      | - 5.19                                                     |                                                    | - 9.15                                                     | -8.22                                                      |                                                    |
+| CI 95%                            | (- 9.45, -3.13)                                            | (-8.39, -1.98)                                             |                                                    | (-12.61, - 5.69)                                           | (-11.71, -4.72)                                            |                                                    |
+| P-value                           | < .001 f                                                   | .002 f                                                     |                                                    | < .001 f                                                   | < .001 f                                                   |                                                    |
 
 a Efficacy outcomes were evaluated across Months 1-6.
 
@@ -783,63 +767,59 @@ Compared with placebo-treated patients, patients treated with galcanezumab 120 m
 
 Figure 2 Reduction in monthly migraine headache days over time in study REGAIN
 
-## StudyREGAIN(ChronicMigraine)
+## Study REGAIN (Chronic Migraine)
 
 <!-- image -->
 
-p&lt;.001 at all monthsforboth galcanezumab120mg and 240mg compared with placebo except p=.002at month2forgalcanezumab240mg comparedwithplacebo
+p&lt;.001 at all months for both galcanezumab 120 mg and 240 mg compared with placebo except p=.002 at month 2 for galcanezumab 240 mg compared with placebo N = number of patients; CI 95 % = 95 % confidence interval.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 3. Efficacy and patient reported outcome measures
 
-|                                      | REGAIN - Chronic Migraine   | REGAIN - Chronic Migraine   | REGAIN - Chronic Migraine   |
-|--------------------------------------|-----------------------------|-----------------------------|-----------------------------|
-|                                      | 120 mg                      | Emgality 240 mg             | Placebo                     |
-|                                      | N = 273                     | N = 274                     | N = 538                     |
-| Efficacy Outcomes a                  |                             |                             |                             |
-| MHD                                  |                             |                             |                             |
-| Baseline                             | 19.36                       | 19.17                       | 19.55                       |
-| Mean Change                          | -4.83                       | -4.62                       | -2.74                       |
-| Treatment Difference                 | -2.09                       | -1.88                       |                             |
-| CI 95 %                              | (-2.92, -1.26)              | (-2.71, - 1.05)             |                             |
-| P-value                              | < .001 c                    | < .001 c                    |                             |
-| ≥ 50 %MHDResponders                  |                             |                             |                             |
-| Percentage,%                         | 27.6                        | 27.5                        | 15.4                        |
-| P-value                              | < .001 c                    | < .001 c                    |                             |
-| ≥ 75 %MHDResponders                  |                             |                             |                             |
-| Percentage,%                         | 7.0                         | 8.8                         | 4.5                         |
-| P-value                              | .031 d                      | < .001 c                    |                             |
-| 100 %MHDResponders                   |                             |                             |                             |
-| Percentage,%                         | 0.7                         | 1.3                         | 0.5                         |
-| P-value                              | > .05 d                     | > .05 d                     |                             |
-| MHDwith Acute Medication Use         |                             |                             |                             |
-| Baseline                             | 15.12                       | 14.49                       | 15.51                       |
-| Mean Change                          | -4.74                       | - 4.25                      | -2.23                       |
-| Treatment Difference                 | - 2.51                      | -2.01                       |                             |
-| CI 95 %                              | (-3.27, -1.76)              | (-2.77, -1.26)              |                             |
-| P-value                              | < .001 d                    | < .001 c                    |                             |
-| Patient-reported Outcome Measures b  |                             |                             |                             |
-| MSQ Role Function-Restrictive Domain |                             |                             |                             |
-| N                                    | 252                         | 253                         | 494                         |
-| Baseline                             | 39.29                       | 38.93                       | 38.37                       |
-| Mean Change                          | 21.81                       | 23.05                       | 16.76                       |
-| Treatment Difference                 | 5.06                        | 6.29                        |                             |
-| CI 95 %                              | (2.12, 7.99)                | (3.03, 9.55)                |                             |
-| P-value                              | < .001 d                    | < .001 c                    |                             |
-| MSQ Role Function Restrictive Domain |                             |                             |                             |
-| N                                    | 252                         | 253                         | 494                         |
-| Percentage,%                         | 64.3                        | 64.8                        | 54.1                        |
-| P-value                              | .003 e                      | .002 e                      |                             |
-| MIDAS Total Score                    |                             |                             |                             |
-| N                                    | 254                         | 258                         | 504                         |
-| Baseline                             | 62.46                       | 69.17                       | 68.66                       |
-| Mean Change                          | -20.27                      | -17.02                      | - 11.53                     |
-| Treatment Difference                 | -8.74                       | - 5.49                      |                             |
-| CI 95 %                              | (-16.39, -1.08)             | (-13.10, 2.12)              |                             |
-| P-value                              | .025 e                      | > .05 e                     |                             |
-
-N = number of patients; CI 95 % = 95 % confidence interval.
+|                                                 | REGAIN - Chronic Migraine - 120 mg - N = 273   | REGAIN - Chronic Migraine - Emgality 240 mg - N = 274   | REGAIN - Chronic Migraine - Placebo - N = 538   |
+|-------------------------------------------------|------------------------------------------------|---------------------------------------------------------|-------------------------------------------------|
+| Efficacy Outcomes a                             |                                                |                                                         |                                                 |
+| MHD                                             |                                                |                                                         |                                                 |
+| Baseline                                        | 19.36                                          | 19.17                                                   | 19.55                                           |
+| Mean Change                                     | -4.83                                          | -4.62                                                   | -2.74                                           |
+| Treatment Difference                            | -2.09                                          | -1.88                                                   |                                                 |
+| CI 95 %                                         | (-2.92, -1.26)                                 | (-2.71, - 1.05)                                         |                                                 |
+| P-value                                         | < .001 c                                       | < .001 c                                                |                                                 |
+| ≥ 50 % MHD Responders                           |                                                |                                                         |                                                 |
+| Percentage, %                                   | 27.6                                           | 27.5                                                    | 15.4                                            |
+| P-value                                         | < .001 c                                       | < .001 c                                                |                                                 |
+| ≥ 75 % MHD Responders                           |                                                |                                                         |                                                 |
+| Percentage, %                                   | 7.0                                            | 8.8                                                     | 4.5                                             |
+| P-value                                         | .031 d                                         | < .001 c                                                |                                                 |
+| 100 % MHD Responders                            |                                                |                                                         |                                                 |
+| Percentage, %                                   | 0.7                                            | 1.3                                                     | 0.5                                             |
+| P-value                                         | > .05 d                                        | > .05 d                                                 |                                                 |
+| MHD with Acute Medication Use                   |                                                |                                                         |                                                 |
+| Baseline                                        | 15.12                                          | 14.49                                                   | 15.51                                           |
+| Mean Change                                     | -4.74                                          | - 4.25                                                  | -2.23                                           |
+| Treatment Difference                            | - 2.51                                         | -2.01                                                   |                                                 |
+| CI 95 %                                         | (-3.27, -1.76)                                 | (-2.77, -1.26)                                          |                                                 |
+| P-value                                         | < .001 d                                       | < .001 c                                                |                                                 |
+| Patient-reported Outcome Measures b             |                                                |                                                         |                                                 |
+| MSQ Role Function-Restrictive Domain            |                                                |                                                         |                                                 |
+| N                                               | 252                                            | 253                                                     | 494                                             |
+| Baseline                                        | 39.29                                          | 38.93                                                   | 38.37                                           |
+| Mean Change                                     | 21.81                                          | 23.05                                                   | 16.76                                           |
+| Treatment Difference                            | 5.06                                           | 6.29                                                    |                                                 |
+| CI 95 %                                         | (2.12, 7.99)                                   | (3.03, 9.55)                                            |                                                 |
+| P-value                                         | < .001 d                                       | < .001 c                                                |                                                 |
+| MSQ Role Function Restrictive Domain Responders |                                                |                                                         |                                                 |
+| N                                               | 252                                            | 253                                                     | 494                                             |
+| Percentage, %                                   | 64.3                                           | 64.8                                                    | 54.1                                            |
+| P-value                                         | .003 e                                         | .002 e                                                  |                                                 |
+| MIDAS Total Score                               |                                                |                                                         |                                                 |
+| N                                               | 254                                            | 258                                                     | 504                                             |
+| Baseline                                        | 62.46                                          | 69.17                                                   | 68.66                                           |
+| Mean Change                                     | -20.27                                         | -17.02                                                  | - 11.53                                         |
+| Treatment Difference                            | -8.74                                          | - 5.49                                                  |                                                 |
+| CI 95 %                                         | (-16.39, -1.08)                                | (-13.10, 2.12)                                          |                                                 |
+| P-value                                         | .025 e                                         | > .05 e                                                 |                                                 |
 
 a Efficacy outcomes were evaluated across Months 1-3.
 
@@ -853,9 +833,9 @@ e Not adjusted for multiple comparisons.
 
 <div style=\"page-break-after: always\"></div>
 
-In patients who failed one or more prophylactic treatments for efficacy reasons, the treatment difference for the reduction of mean monthly MHDs observed between galcanezumab 120 mg and placebo was 3.54 days (p &lt; 0.001) and between galcanezumab 240 mg and placebo -1.37 days (p &lt; 0.05). In patients failing two or more prophylactic treatments, the treatment difference was -4.48 days (p &lt; 0.001) between 120 mg and placebo and -1.86 days (p &lt; 0.01) between 240 mg and placebo.
+In patients who failed one or more prophylactic treatments for efficacy reasons, the treatment difference for the reduction of mean monthly MHDs observed between galcanezumab 120 mg and placebo was - 3.54 days (p &lt; 0.001) and between galcanezumab 240 mg and placebo -1.37 days (p &lt; 0.05). In patients failing two or more prophylactic treatments, the treatment difference was -4.48 days (p &lt; 0.001) between 120 mg and placebo and -1.86 days (p &lt; 0.01) between 240 mg and placebo.
 
-Sixty-four percent of the patients had acute headache medication overuse at baseline. In these patients, the treatment difference observed between galcanezumab 120 mg and placebo and between galcanezumab 240 mg and placebo for the reduction of MHDs in these patients was respectively 2.53 days (p &lt; 0.001) and -2.26 days (p &lt; 0.001).
+Sixty-four percent of the patients had acute headache medication overuse at baseline. In these patients, the treatment difference observed between galcanezumab 120 mg and placebo and between galcanezumab 240 mg and placebo for the reduction of MHDs in these patients was respectively - 2.53 days (p &lt; 0.001) and -2.26 days (p &lt; 0.001).
 
 ## Long term efficacy
 
@@ -915,11 +895,9 @@ Nonclinical studies have not been conducted to evaluate the carcinogenic or muta
 
 No effects on fertility parameters such as oestrous cycle, sperm analysis, or mating and reproductive performance were observed in rats that were administered galcanezumab (exposures approximately 4 to 20 times the human exposure at 240 mg). In male fertility study, right testis weight was significantly reduced at exposures to 4 times the human exposure at 240 mg.
 
-At Gestational Day 20, an increase in the number of foetuses and litters with short ribs and a decrease in the mean number of ossified caudal vertebrae occurred in the rat embryo-foetal toxicity development study at an exposure approximately 20 times the human exposure at 240 mg. These
+At Gestational Day 20, an increase in the number of foetuses and litters with short ribs and a decrease in the mean number of ossified caudal vertebrae occurred in the rat embryo-foetal toxicity development study at an exposure approximately 20 times the human exposure at 240 mg. These findings were noted at no maternal toxicity and were considered to be related to galcanezumab but non-adverse.
 
 <div style=\"page-break-after: always\"></div>
-
-findings were noted at no maternal toxicity and were considered to be related to galcanezumab but non-adverse.
 
 At Gestational Day 29, in rabbit embryo-foetal development toxicity study skull anomaly was found in one male foetus from mother treated with galcanezumab at an exposure approximately 33 times the human exposure at 240 mg.
 
@@ -961,7 +939,9 @@ Do not shake.
 
 <div style=\"page-break-after: always\"></div>
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 7.
 
@@ -1006,7 +986,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) of the biological active substance(s)
 
-ImClone Systems LLC 33 ImClone Drive Branchburg New Jersey NJ 08876 United States
+Celltrion Branchburg, LLC 33 ImClone Drive Branchburg New Jersey NJ 08876 United States
 
 Names and addresses of the manufacturer(s) responsible for batch release
 
@@ -1317,10 +1297,10 @@ Lot
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1343,13 +1323,13 @@ Emgality can reduce the frequency of migraine headache and improve your quality 
 
 ## Do not use Emgality:
 
-- -if you are allergic to galcanezumab or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to galcanezumab or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before or during treatment with Emgality if:
 
-- -you have a serious cardiovascular disease. Emgality has not been studied in patients with serious cardiovascular diseases.
+- you have a serious cardiovascular disease. Emgality has not been studied in patients with serious cardiovascular diseases.
 
 ## Look out for allergic reactions
 
@@ -1359,11 +1339,9 @@ Emgality can potentially cause serious allergic reactions. Serious allergic reac
 
 ## Emgality 120 mg solution for injection in pre-filled pen
 
-galcanezumab
+galcanezumab your doctor or seek medical help immediately if you notice any signs of a serious allergic reaction. Such signs are listed under 'Serious side effects' in section 4.
 
 <div style=\"page-break-after: always\"></div>
-
-your doctor or seek medical help immediately if you notice any signs of a serious allergic reaction. Such signs are listed under 'Serious side effects' in section 4.
 
 ## Children and adolescents
 
@@ -1395,8 +1373,8 @@ Always use this medicine exactly as your doctor, pharmacist or nurse has told yo
 
 Emgality pre-filled pen is for single use only and contains one dose of Emgality (120 mg).
 
-- -The first time you receive Emgality your doctor or nurse will inject two pens (total 240 mg).
-- -After the first dose, you will use one pen (120 mg) every month.
+- The first time you receive Emgality your doctor or nurse will inject two pens (total 240 mg).
+- After the first dose, you will use one pen (120 mg) every month.
 
 Your doctor will decide for how long you should use Emgality.
 
@@ -1445,19 +1423,19 @@ Tell your doctor or get emergency medical help straight away if you notice any o
 
 Very common side effects (may affect more than 1 in 10 people):
 
-- -Injection site pain
-- -Injection site reactions (e.g. red skin, itching, bruising, swelling)
+- Injection site pain
+- Injection site reactions (e.g. red skin, itching, bruising, swelling)
 
 Common side effects (may affect up to 1 in 10 people):
 
-- -Vertigo (a feeling of dizziness or 'spinning')
-- -Constipation
-- -Itching
-- -Rash
+- Vertigo (a feeling of dizziness or 'spinning')
+- Constipation
+- Itching
+- Rash
 
 Uncommon side effects ( may affect up to 1 in 100 people):
 
-- -Hives (raised itchy areas of skin)
+- Hives (raised itchy areas of skin)
 
 ## Reporting of side effects
 
@@ -1513,19 +1491,31 @@ For any information about this medicine, please contact the local representative
 
 Eli Lilly Benelux S.A./N.V.
 
-Tél/Tel: + 32-
+Tél/Tel: + 32(0)2 548 84 84
 
-(0)2 548 84 84
+## България
+
+ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
+
+## Česká republika
+
+ELI LILLY ČR, s.r.o.
+
+Tel: + 420 234 664 111
+
+## Danmark
+
+Eli Lilly Danmark A/S
+
+Tlf.
+
+: +45 45 26 60 00
 
 ## Lietuva
 
 Eli Lilly Lietuva
 
 Tel. +370 (5) 2649600
-
-## България
-
-ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
 
 ## Luxembourg/Luxemburg
 
@@ -1535,25 +1525,11 @@ Tél/Tel: + 32-
 
 (0)2 548 84 84
 
-## Česká republika
-
-ELI LILLY ČR, s.r.o.
-
-Tel: + 420 234 664 111
-
 ## Magyarország
 
 Lilly Hungária Kft.
 
 Tel: + 36 1 328 5100
-
-## Danmark
-
-Eli Lilly Danmark A/S
-
-Tlf.
-
-: +45 45 26 60 00
 
 ## Malta
 
@@ -1593,7 +1569,7 @@ Tel: +34 91 591 12 79
 
 Organon France
 
-Tél: +33- (0) 1 57 77 32 00
+Tél: +33(0) 1 57 77 32 00
 
 ## Hrvatska
 
@@ -1617,7 +1593,7 @@ Sími + 354 540 8000
 
 Eli Lilly Italia S.p.A.
 
-Tel: + 39- 055 42571
+Tel: + 39055 42571
 
 ## Κύπρος
 
@@ -1641,7 +1617,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Eli Lilly Nederland B.V.
 
-Tel: + 31- (0) 30 60 25 800
+Tel: + 31(0) 30 60 25 800
 
 ## Norge
 
@@ -1740,9 +1716,9 @@ Bottom/ Needle end
 
 ## Take the pen from the refrigerator
 
-## Inspect the pen and the medicine
-
 Put the original package with any unused pens back in the refrigerator.
+
+## Inspect the pen and the medicine
 
 ## Leave the base cap on until you are ready to inject.
 
@@ -1786,7 +1762,10 @@ Your doctor, pharmacist or nurse can help you choose the injection site that is 
 
 <!-- image -->
 
-- Make sure the pen is locked. Leave the base cap on until you are ready to inject. D
+- Make sure the pen is locked. Leave the base
+
+cap on until you are ready to inject.
+
 - When you are ready to inject, twist off the base cap and throw it away in the bin.
 - Do not put the base cap back on - this could damage the needle.
 - Do not touch the needle.
@@ -1844,7 +1823,7 @@ DO NOT put the base cap back on. Dispose of the pen in a sharps disposal contain
 - A. Do not touch the needle or replace the base cap. Store in a safe place to avoid an accidental needlestick. Contact your doctor, pharmacist or nurse for instructions on how to return the pen.
 - Q. What if there is a drop of liquid or blood on my skin after my injection?
 - A. This is normal. Press a cotton ball or gauze over the injection site. Do not rub the injection site.
-- Q. What if I hear more than 2 clicks during my injection -2 loud clicks and a soft one. Did I get my complete injection?
+- Q. What if I hear more than 2 clicks during my injection - 2 loud clicks and a soft one. Did I get my complete injection?
 - A. Some patients may hear a soft click right before the second loud click. That is the normal operation of the pen. Do not remove the pen from your skin until you hear the second loud click.
 
 ## Q. How can I tell if my injection is complete?
@@ -1865,10 +1844,10 @@ galcanezumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1891,21 +1870,19 @@ Emgality can reduce the frequency of migraine headache and improve your quality 
 
 ## Do not use Emgality:
 
-- -if you are allergic to galcanezumab or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to galcanezumab or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before or during treatment with Emgality if:
 
-- -you have a serious cardiovascular disease. Emgality has not been studied in patients with serious cardiovascular diseases.
+- you have a serious cardiovascular disease. Emgality has not been studied in patients with serious cardiovascular diseases.
 
 ## Look out for allergic reactions
 
-Emgality can potentially cause serious allergic reactions. Serious allergic reactions happen mainly within 1 day after having taken Emgality, but some reactions can be delayed (happen more than 1 day to 4 weeks after having taken Emgality). Some allergic reactions can be prolonged in duration. You must look out for signs of these reactions while you are using Emgality. Stop using Emgality and tell
+Emgality can potentially cause serious allergic reactions. Serious allergic reactions happen mainly within 1 day after having taken Emgality, but some reactions can be delayed (happen more than 1 day to 4 weeks after having taken Emgality). Some allergic reactions can be prolonged in duration. You must look out for signs of these reactions while you are using Emgality. Stop using Emgality and tell your doctor or seek medical help immediately if you notice any signs of a serious allergic reaction. Such signs are listed under 'Serious side effects' in section 4.
 
 <div style=\"page-break-after: always\"></div>
-
-your doctor or seek medical help immediately if you notice any signs of a serious allergic reaction. Such signs are listed under 'Serious side effects' in section 4.
 
 ## Children and adolescents
 
@@ -1937,8 +1914,8 @@ Always use this medicine exactly as your doctor, pharmacist or nurse has told yo
 
 Emgality pre-filled syringe is for single use only and contains one dose of Emgality (120 mg).
 
-- -The first time you receive Emgality your doctor or nurse will inject two syringes (total 240 mg).
-- -After the first dose, you will use one syringe (120 mg) every month.
+- The first time you receive Emgality your doctor or nurse will inject two syringes (total 240 mg).
+- After the first dose, you will use one syringe (120 mg) every month.
 
 Your doctor will decide for how long you should use Emgality.
 
@@ -1976,10 +1953,10 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Allergic reactions with Emgality are usually mild to moderate (such as rash or itching). Serious allergic reaction may occur rarely (may affect up to 1 in 1 000 people) and the signs may include:
 
-- -difficulty breathing or swallowing,
-- -low blood pressure, which can cause dizziness or light-headedness,
-- -swelling of the neck, face, mouth, lips, tongue or throat which may develop rapidly,
-- -severe itching of the skin, with a red rash or raised bumps.
+- difficulty breathing or swallowing,
+- low blood pressure, which can cause dizziness or light-headedness,
+- swelling of the neck, face, mouth, lips, tongue or throat which may develop rapidly,
+- severe itching of the skin, with a red rash or raised bumps.
 
 Tell your doctor or get emergency medical help straight away if you notice any of those signs.
 
@@ -1987,19 +1964,19 @@ Tell your doctor or get emergency medical help straight away if you notice any o
 
 Very common side effects (may affect more than 1 in 10 people):
 
-- -Injection site pain
-- -Injection site reactions (e.g. red skin, itching, bruising, swelling)
+- Injection site pain
+- Injection site reactions (e.g. red skin, itching, bruising, swelling)
 
-Common side effects (may affect up to 1 in 10 people):
+## Common side effects (may affect up to 1 in 10 people):
 
-- -Vertigo (a feeling of dizziness or 'spinning')
-- -Constipation
-- -Itching
-- -Rash
+- Vertigo (a feeling of dizziness or 'spinning')
+- Constipation
+- Itching
+- Rash
 
 Uncommon side effects ( may affect up to 1 in 100 people):
 
-- -Hives (raised itchy areas of skin)
+- Hives (raised itchy areas of skin)
 
 ## Reporting of side effects
 
@@ -2055,15 +2032,29 @@ Tél/Tel: + 32-
 
 (0)2 548 84 84
 
+## България
+
+ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
+
+## Česká republika
+
+ELI LILLY ČR, s.r.o.
+
+Tel: + 420 234 664 111
+
+## Danmark
+
+Eli Lilly Danmark A/S
+
+Tlf.
+
+: +45 45 26 60 00
+
 ## Lietuva
 
 Eli Lilly Lietuva
 
 Tel. +370 (5) 2649600
-
-## България
-
-ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
 
 ## Luxembourg/Luxemburg
 
@@ -2073,25 +2064,11 @@ Tél/Tel: + 32-
 
 (0)2 548 84 84
 
-## Česká republika
-
-ELI LILLY ČR, s.r.o.
-
-Tel: + 420 234 664 111
-
 ## Magyarország
 
 Lilly Hungária Kft.
 
 Tel: + 36 1 328 5100
-
-## Danmark
-
-Eli Lilly Danmark A/S
-
-Tlf.
-
-: +45 45 26 60 00
 
 ## Malta
 
@@ -2131,7 +2108,7 @@ Tel: +34 91 591 12 79
 
 Organon France
 
-Tél: +33- (0) 1 57 77 32 00
+Tél: +33(0) 1 57 77 32 00
 
 ## Hrvatska
 
@@ -2155,9 +2132,7 @@ Sími + 354 540 8000
 
 Eli Lilly Italia S.p.A.
 
-Tel: + 39-
-
-055 42571
+Tel: + 39055 42571
 
 ## Κύπρος
 
@@ -2181,7 +2156,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Eli Lilly Nederland B.V.
 
-Tel: + 31- (0) 30 60 25 800
+Tel: + 31(0) 30 60 25 800
 
 ## Norge
 
@@ -2271,7 +2246,7 @@ Before you use the EMGALITY syringe, read and carefully follow all the step-by-s
 
 ## Before You Get Started
 
-Take the syringe from the refrigerator
+Take the syringe from the refrigerator Put the original package with any unused syringes back in the refrigerator.
 
 ## Inspect the syringe and the medicine
 
@@ -2280,8 +2255,6 @@ Take the syringe from the refrigerator
 ## Choose your injection site
 
 <!-- image -->
-
-Put the original package with any unused syringes back in the refrigerator.
 
 Leave the needle cap on until you are ready to inject.
 

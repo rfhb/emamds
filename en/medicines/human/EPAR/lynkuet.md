@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-23 17:25:00
+document_datetime: 2026-09-11 15:54:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lynkuet.html
 document_name: lynkuet.html
 version: success
-processing_time: 0.133472
-conversion_datetime: 2026-06-25 16:46:31.07578
+processing_time: 0.1373195
+conversion_datetime: 2026-09-13 12:28:45.925754
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Lynkuet
 
@@ -107,7 +107,7 @@ English (EN) (120.42 KB - PDF)
 
 [View](/en/documents/overview/lynkuet-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-627)
+[Other languages (22)](#file-language-dropdown-298)
 
 български (BG) (144.37 KB - PDF)
 
@@ -243,9 +243,9 @@ svenska (SV) (119.37 KB - PDF)
 
 Lynkuet : EPAR - Risk management plan
 
-English (EN) (945.81 KB - PDF)
+English (EN) (611.89 KB - PDF)
 
-**First published:** 27/11/2025
+**First published:** 27/11/2025 **Last updated:** 11/09/2026
 
 [View](/en/documents/rmp/lynkuet-epar-risk-management-plan_en.pdf)
 
@@ -259,7 +259,7 @@ English (EN) (343.99 KB - PDF)
 
 [View](/en/documents/product-information/lynkuet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-436)
+[Other languages (24)](#file-language-dropdown-599)
 
 български (BG) (498.62 KB - PDF)
 
@@ -405,15 +405,15 @@ norsk (NO) (446.22 KB - PDF)
 
 [View](/no/documents/product-information/lynkuet-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000348879
+**Latest procedure affecting product information:** VR/0000363770
 
-19/06/2026
+11/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -432,7 +432,7 @@ English (EN) (47.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lynkuet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-809)
+[Other languages (24)](#file-language-dropdown-222)
 
 български (BG) (66.49 KB - PDF)
 
@@ -590,6 +590,8 @@ norsk (NO) (48.7 KB - PDF)
         - Hot Flashes
         - Menopause
         - Breast Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - G02CX07
 
 ### Pharmacotherapeutic group
 
@@ -612,7 +614,7 @@ Treatment of moderate to severe vasomotor symptoms (VMS).
 - **Marketing authorisation issued**
     - 17/11/2025
 - **Revision**
-    - 1
+    - 2
 
 ## Assessment history
 
@@ -624,9 +626,9 @@ Collapse section
 
 Lynkuet : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (133.66 KB - PDF)
+English (EN) (153.03 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 11/09/2026
 
 [View](/en/documents/procedural-steps-after/lynkuet-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -660,6 +662,6 @@ English (EN) (128.24 KB - PDF)
 
 **This page was last updated on**
 
-23/06/2026
+11/09/2026
 
 ## Share this page

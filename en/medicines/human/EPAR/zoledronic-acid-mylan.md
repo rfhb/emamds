@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-31 16:25:00
+document_datetime: 2026-09-10 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-mylan.html
 document_name: zoledronic-acid-mylan.html
 version: success
-processing_time: 0.1172116
-conversion_datetime: 2026-04-01 12:24:32.471364
+processing_time: 0.3567871
+conversion_datetime: 2026-09-13 12:30:53.071193
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Zoledronic acid Mylan
 
@@ -38,8 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-84923)
-- [More information on Zoledronic acid Mylan](#more-information-on-zoledronic-acid-mylan-1360)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -53,43 +51,43 @@ Expand section
 
 Collapse section
 
-## What is Zoledronic acid Mylan?
+### What is Zoledronic acid Mylan?
 
 Zoledronic acid Mylan is a medicine that contains the active substance zoledronic acid. It is available as a 4-mg/5-ml concentrate for solution for infusion.
 
 Zoledronic acid Mylan is a 'generic medicine'. This means that Zoledronic acid Mylan is similar to a 'reference medicine' already authorised in the European Union (EU) called Zometa.
 
-## What is Zoledronic acid Mylan used for?
+### What is Zoledronic acid Mylan used for?
 
 Zoledronic acid Mylan can be used to prevent bone complications in adults with advanced cancer that is affecting the bone. This includes fractures (breaks in the bone), spinal compression (when the spinal cord is compressed by the bone), bone disorders needing radiotherapy (treatment with radiation) or surgery, and hypercalcaemia (high levels of calcium in the blood). Zoledronic acid Mylan can also be used to treat the hypercalcaemia caused by tumours.
 
 The medicine can only be obtained with a prescription.
 
-## How is Zoledronic acid Mylan used?
+### How is Zoledronic acid Mylan used?
 
 Zoledronic acid Mylan must only be used by a doctor who has experience in the use of this type of medicine given into a vein.
 
 The usual dose of Zoledronic acid Mylan is one infusion of 4 mg over at least 15 minutes. When used to prevent bone complications, the infusion can be repeated every three to four weeks, and patients should also take supplements of calcium and vitamin D. A lower dose is recommended for patients with bone metastases (when cancer has spread to the bone) if they have mild to moderate problems with their kidneys. It is not recommended for patients with severe kidney problems.
 
-## How does Zoledronic acid Mylan work?
+### How does Zoledronic acid Mylan work?
 
 The active substance in Zoledronic acid Mylan, zoledronic acid, is a bisphosphonate. It stops the action of the osteoclasts, the cells in the body that are involved in breaking down the bone tissue. This leads to less bone loss. The reduction of bone loss helps to make bones less likely to break, which is useful in preventing fractures in cancer patients with bone metastases.
 
 Patients with tumours can have high levels of calcium in their blood, released from the bones. By preventing the breakdown of bones, Zoledronic acid Mylan also helps to reduce the amount of calcium released into the blood.
 
-## How has Zoledronic acid Mylan been studied?
+### How has Zoledronic acid Mylan been studied?
 
 The company provided data from the published literature on zoledronic acid. No additional studies in patients were needed as Zoledronic acid Mylan is a generic medicine that is given by infusion and contains the same active substance as the reference medicine, Zometa.
 
-## What are the benefits and risks of Zoledronic acid Mylan?
+### What are the benefits and risks of Zoledronic acid Mylan?
 
 Because Zoledronic acid Mylan is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why has Zoledronic acid Mylan been approved?
+### Why has Zoledronic acid Mylan been approved?
 
 The CHMP concluded that, in accordance with EU requirements, Zoledronic acid Mylan has been shown to have comparable quality and to be bioequivalent to Zometa. Therefore, the CHMP's view was that, as for Zometa, the benefit outweighs the identified risk. The Committee recommended that Zoledronic acid Mylan be given marketing authorisation.
 
-## Other information about Zoledronic acid Mylan
+### Other information about Zoledronic acid Mylan
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Zoledronic acid Mylan on 23 August 2012.
 
@@ -105,7 +103,7 @@ English (EN) (56.78 KB - PDF)
 
 [View](/en/documents/overview/zoledronic-acid-mylan-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-393)
+[Other languages (21)](#file-language-dropdown-662)
 
 български (BG) (117.33 KB - PDF)
 
@@ -137,7 +135,7 @@ Deutsch (DE) (76.11 KB - PDF)
 
 [View](/de/documents/overview/zoledronic-acid-mylan-epar-summary-public_de.pdf)
 
-eesti keel (ET) (56.71 KB - PDF)
+eesti (ET) (56.71 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 10/09/2012
 
@@ -161,13 +159,13 @@ italiano (IT) (111.95 KB - PDF)
 
 [View](/it/documents/overview/zoledronic-acid-mylan-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (139.43 KB - PDF)
+latviešu (LV) (139.43 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 10/09/2012
 
 [View](/lv/documents/overview/zoledronic-acid-mylan-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (105.92 KB - PDF)
+lietuvių (LT) (105.92 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 10/09/2012
 
@@ -221,7 +219,7 @@ slovenščina (SL) (101.23 KB - PDF)
 
 [View](/sl/documents/overview/zoledronic-acid-mylan-epar-summary-public_sl.pdf)
 
-Suomi (FI) (78.27 KB - PDF)
+suomi (FI) (78.27 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 10/09/2012
 
@@ -237,13 +235,13 @@ svenska (SV) (55.86 KB - PDF)
 
 Zoledronic acid Mylan : EPAR - Product information
 
-English (EN) (235.96 KB - PDF)
+English (EN) (402.07 KB - PDF)
 
-**First published:** 10/09/2012 **Last updated:** 31/03/2026
+**First published:** 10/09/2012 **Last updated:** 10/09/2026
 
 [View](/en/documents/product-information/zoledronic-acid-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-425)
+[Other languages (24)](#file-language-dropdown-89)
 
 български (BG) (618.31 KB - PDF)
 
@@ -275,15 +273,15 @@ Deutsch (DE) (512.15 KB - PDF)
 
 [View](/de/documents/product-information/zoledronic-acid-mylan-epar-product-information_de.pdf)
 
-eesti keel (ET) (467.3 KB - PDF)
+eesti (ET) (467.3 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 31/03/2026
 
 [View](/et/documents/product-information/zoledronic-acid-mylan-epar-product-information_et.pdf)
 
-ελληνικά (EL) (599.61 KB - PDF)
+ελληνικά (EL) (695.79 KB - PDF)
 
-**First published:** 10/09/2012 **Last updated:** 31/03/2026
+**First published:** 10/09/2012 **Last updated:** 10/09/2026
 
 [View](/el/documents/product-information/zoledronic-acid-mylan-epar-product-information_el.pdf)
 
@@ -293,31 +291,25 @@ français (FR) (355.88 KB - PDF)
 
 [View](/fr/documents/product-information/zoledronic-acid-mylan-epar-product-information_fr.pdf)
 
-hrvatski (HR) (437.75 KB - PDF)
+hrvatski (HR) (684.06 KB - PDF)
 
-**First published:** 10/09/2012 **Last updated:** 31/03/2026
+**First published:** 10/09/2012 **Last updated:** 10/09/2026
 
 [View](/hr/documents/product-information/zoledronic-acid-mylan-epar-product-information_hr.pdf)
 
-íslenska (IS) (355.25 KB - PDF)
+italiano (IT) (494.33 KB - PDF)
 
-**First published:** 10/09/2012 **Last updated:** 31/03/2026
-
-[View](/is/documents/product-information/zoledronic-acid-mylan-epar-product-information_is.pdf)
-
-italiano (IT) (489.54 KB - PDF)
-
-**First published:** 10/09/2012 **Last updated:** 31/03/2026
+**First published:** 10/09/2012 **Last updated:** 10/09/2026
 
 [View](/it/documents/product-information/zoledronic-acid-mylan-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (498.96 KB - PDF)
+latviešu (LV) (498.96 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 31/03/2026
 
 [View](/lv/documents/product-information/zoledronic-acid-mylan-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (607.72 KB - PDF)
+lietuvių (LT) (607.72 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 31/03/2026
 
@@ -329,9 +321,9 @@ magyar (HU) (620.57 KB - PDF)
 
 [View](/hu/documents/product-information/zoledronic-acid-mylan-epar-product-information_hu.pdf)
 
-Malti (MT) (616.16 KB - PDF)
+Malti (MT) (647.01 KB - PDF)
 
-**First published:** 10/09/2012 **Last updated:** 31/03/2026
+**First published:** 10/09/2012 **Last updated:** 10/09/2026
 
 [View](/mt/documents/product-information/zoledronic-acid-mylan-epar-product-information_mt.pdf)
 
@@ -341,21 +333,15 @@ Nederlands (NL) (480.73 KB - PDF)
 
 [View](/nl/documents/product-information/zoledronic-acid-mylan-epar-product-information_nl.pdf)
 
-norsk (NO) (565.91 KB - PDF)
+polski (PL) (525.98 KB - PDF)
 
-**First published:** 10/09/2012 **Last updated:** 31/03/2026
-
-[View](/no/documents/product-information/zoledronic-acid-mylan-epar-product-information_no.pdf)
-
-polski (PL) (461.58 KB - PDF)
-
-**First published:** 10/09/2012 **Last updated:** 31/03/2026
+**First published:** 10/09/2012 **Last updated:** 10/09/2026
 
 [View](/pl/documents/product-information/zoledronic-acid-mylan-epar-product-information_pl.pdf)
 
-português (PT) (428.99 KB - PDF)
+português (PT) (597.28 KB - PDF)
 
-**First published:** 10/09/2012 **Last updated:** 31/03/2026
+**First published:** 10/09/2012 **Last updated:** 10/09/2026
 
 [View](/pt/documents/product-information/zoledronic-acid-mylan-epar-product-information_pt.pdf)
 
@@ -365,19 +351,19 @@ română (RO) (491.17 KB - PDF)
 
 [View](/ro/documents/product-information/zoledronic-acid-mylan-epar-product-information_ro.pdf)
 
-slovenčina (SK) (399.11 KB - PDF)
+slovenčina (SK) (621.59 KB - PDF)
 
-**First published:** 10/09/2012 **Last updated:** 31/03/2026
+**First published:** 10/09/2012 **Last updated:** 10/09/2026
 
 [View](/sk/documents/product-information/zoledronic-acid-mylan-epar-product-information_sk.pdf)
 
-slovenščina (SL) (369.06 KB - PDF)
+slovenščina (SL) (638.72 KB - PDF)
 
-**First published:** 10/09/2012 **Last updated:** 31/03/2026
+**First published:** 10/09/2012 **Last updated:** 10/09/2026
 
 [View](/sl/documents/product-information/zoledronic-acid-mylan-epar-product-information_sl.pdf)
 
-Suomi (FI) (450.41 KB - PDF)
+suomi (FI) (450.41 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 31/03/2026
 
@@ -389,6 +375,18 @@ svenska (SV) (461.64 KB - PDF)
 
 [View](/sv/documents/product-information/zoledronic-acid-mylan-epar-product-information_sv.pdf)
 
+Íslenska (IS) (355.25 KB - PDF)
+
+**First published:** 10/09/2012 **Last updated:** 31/03/2026
+
+[View](/is/documents/product-information/zoledronic-acid-mylan-epar-product-information_is.pdf)
+
+norsk (NO) (565.91 KB - PDF)
+
+**First published:** 10/09/2012 **Last updated:** 31/03/2026
+
+[View](/no/documents/product-information/zoledronic-acid-mylan-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** N/0000339225
 
 31/03/2026
@@ -397,7 +395,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -415,7 +414,7 @@ English (EN) (14.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zoledronic-acid-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-981)
+[Other languages (23)](#file-language-dropdown-911)
 
 български (BG) (45.39 KB - PDF)
 
@@ -447,7 +446,7 @@ Deutsch (DE) (16.48 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/zoledronic-acid-mylan-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (16.23 KB - PDF)
+eesti (ET) (16.23 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 28/08/2013
 
@@ -465,25 +464,19 @@ français (FR) (16.42 KB - PDF)
 
 [View](/fr/documents/all-authorised-presentations/zoledronic-acid-mylan-epar-all-authorised-presentations_fr.pdf)
 
-íslenska (IS) (16.38 KB - PDF)
-
-**First published:** 10/09/2012 **Last updated:** 28/08/2013
-
-[View](/is/documents/all-authorised-presentations/zoledronic-acid-mylan-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (16.64 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 28/08/2013
 
 [View](/it/documents/all-authorised-presentations/zoledronic-acid-mylan-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (41.05 KB - PDF)
+latviešu (LV) (41.05 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 28/08/2013
 
 [View](/lv/documents/all-authorised-presentations/zoledronic-acid-mylan-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (38.87 KB - PDF)
+lietuvių (LT) (38.87 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 28/08/2013
 
@@ -506,12 +499,6 @@ Nederlands (NL) (16.64 KB - PDF)
 **First published:** 10/09/2012 **Last updated:** 28/08/2013
 
 [View](/nl/documents/all-authorised-presentations/zoledronic-acid-mylan-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (16.39 KB - PDF)
-
-**First published:** 10/09/2012 **Last updated:** 28/08/2013
-
-[View](/no/documents/all-authorised-presentations/zoledronic-acid-mylan-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (44.49 KB - PDF)
 
@@ -543,7 +530,7 @@ slovenščina (SL) (26.16 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/zoledronic-acid-mylan-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (16.44 KB - PDF)
+suomi (FI) (16.44 KB - PDF)
 
 **First published:** 10/09/2012 **Last updated:** 28/08/2013
 
@@ -555,27 +542,30 @@ svenska (SV) (16.29 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/zoledronic-acid-mylan-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (16.38 KB - PDF)
+
+**First published:** 10/09/2012 **Last updated:** 28/08/2013
+
+[View](/is/documents/all-authorised-presentations/zoledronic-acid-mylan-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (16.39 KB - PDF)
+
+**First published:** 10/09/2012 **Last updated:** 28/08/2013
+
+[View](/no/documents/all-authorised-presentations/zoledronic-acid-mylan-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Zoledronic acid Mylan
-
-Active substance
-
-zoledronic acid
-
-International non-proprietary name (INN) or common name
-
-zoledronic acid
-
-Therapeutic area (MeSH)
-
-Fractures, Bone
-
-Anatomical therapeutic chemical (ATC) code
-
-M05BA08
+- **Name of medicine**
+    - Zoledronic acid Mylan
+- **Active substance**
+    - zoledronic acid
+- **International non-proprietary name (INN) or common name**
+    - zoledronic acid
+- **Therapeutic area (MeSH)**
+    - Fractures, Bone
+- **Anatomical therapeutic chemical (ATC) code**
+    - M05BA08
 
 ### Pharmacotherapeutic group
 
@@ -588,27 +578,16 @@ Drugs for treatment of bone diseases
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/002482
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Mylan Pharmaceuticals Limited
-
-Damastown Industrial Park
-
-Marketing authorisation issued
-
-23/08/2012
-
-Revision
-
-18
+- **EMA product number**
+    - EMEA/H/C/002482
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Mylan Pharmaceuticals Limited Damastown Industrial Park  Mulhuddart  Dublin 15  Ireland
+- **Marketing authorisation issued**
+    - 23/08/2012
+- **Revision**
+    - 18
 
 ## Assessment history
 
@@ -616,7 +595,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Zoledronic acid Mylan : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -634,7 +613,7 @@ English (EN) (129.79 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/zoledronic-acid-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Zoledronic acid Mylan : EPAR - Public assessment report
 
@@ -668,7 +647,7 @@ English (EN) (379.5 KB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/zoledronic-acid-mylan-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-587)
+[Other languages (24)](#file-language-dropdown-2)
 
 български (BG) (161.06 KB - DOCX)
 
@@ -700,7 +679,7 @@ Deutsch (DE) (143.08 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/zoledronic-acid-mylan-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (160.13 KB - DOCX)
+eesti (ET) (160.13 KB - DOCX)
 
 **First published:** 31/03/2026
 
@@ -724,25 +703,19 @@ hrvatski (HR) (184.65 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/zoledronic-acid-mylan-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (176.37 KB - DOCX)
-
-**First published:** 31/03/2026
-
-[View](/is/documents/product-information-tracked-changes/zoledronic-acid-mylan-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (167.99 KB - DOCX)
 
 **First published:** 31/03/2026
 
 [View](/it/documents/product-information-tracked-changes/zoledronic-acid-mylan-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (209.48 KB - DOCX)
+latviešu (LV) (209.48 KB - DOCX)
 
 **First published:** 31/03/2026
 
 [View](/lv/documents/product-information-tracked-changes/zoledronic-acid-mylan-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (160.56 KB - DOCX)
+lietuvių (LT) (160.56 KB - DOCX)
 
 **First published:** 31/03/2026
 
@@ -765,12 +738,6 @@ Nederlands (NL) (149.48 KB - DOCX)
 **First published:** 31/03/2026
 
 [View](/nl/documents/product-information-tracked-changes/zoledronic-acid-mylan-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (387 KB - DOC)
-
-**First published:** 31/03/2026
-
-[View](/no/documents/product-information-tracked-changes/zoledronic-acid-mylan-epar-product-information-tracked-changes_no.doc)
 
 polski (PL) (164.25 KB - DOCX)
 
@@ -802,7 +769,7 @@ slovenščina (SL) (188.27 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/zoledronic-acid-mylan-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (155.54 KB - DOCX)
+suomi (FI) (155.54 KB - DOCX)
 
 **First published:** 31/03/2026
 
@@ -814,159 +781,20 @@ svenska (SV) (170.07 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/zoledronic-acid-mylan-epar-product-information-tracked-changes_sv.docx)
 
-## More information on Zoledronic acid Mylan
+Íslenska (IS) (176.37 KB - DOCX)
 
-Questions and answers on generic medicines
+**First published:** 31/03/2026
 
-Reference Number: EMA/393905/2006 Rev. 2
+[View](/is/documents/product-information-tracked-changes/zoledronic-acid-mylan-epar-product-information-tracked-changes_is.docx)
 
-English (EN) (66.45 KB - PDF)
+norsk (NO) (387 KB - DOC)
 
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
+**First published:** 31/03/2026
 
-[View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-856)
-
-български (BG) (93.16 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
-
-español (ES) (68.3 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
-
-čeština (CS) (87.71 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
-
-dansk (DA) (66.79 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
-
-Deutsch (DE) (67.55 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
-
-eesti keel (ET) (65.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
-
-ελληνικά (EL) (91.29 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
-
-français (FR) (68.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
-
-hrvatski (HR) (87.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
-
-italiano (IT) (67.62 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
-
-latviešu valoda (LV) (111.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
-
-lietuvių kalba (LT) (86.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
-
-magyar (HU) (85.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
-
-Malti (MT) (89.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
-
-Nederlands (NL) (66.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
-
-polski (PL) (88.51 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
-
-português (PT) (68.32 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
-
-română (RO) (86.9 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
-
-slovenčina (SK) (87.73 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
-
-slovenščina (SL) (84.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
-
-Suomi (FI) (66.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
-
-svenska (SV) (67.11 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
-
-## Topics
-
-- [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+[View](/no/documents/product-information-tracked-changes/zoledronic-acid-mylan-epar-product-information-tracked-changes_no.doc)
 
 **This page was last updated on**
 
-31/03/2026
+10/09/2026
 
 ## Share this page

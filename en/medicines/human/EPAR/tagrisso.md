@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-18 17:49:00
+document_datetime: 2026-09-10 14:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tagrisso.html
 document_name: tagrisso.html
 version: success
-processing_time: 0.1747124
-conversion_datetime: 2026-08-22 23:19:27.770678
+processing_time: 0.1672519
+conversion_datetime: 2026-09-13 12:29:48.705505
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -126,7 +126,7 @@ English (EN) (143.36 KB - PDF)
 
 [View](/en/documents/overview/tagrisso-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-0)
+[Other languages (22)](#file-language-dropdown-550)
 
 български (BG) (170.13 KB - PDF)
 
@@ -262,9 +262,9 @@ svenska (SV) (141.54 KB - PDF)
 
 Tagrisso : EPAR - Risk management plan
 
-English (EN) (922.46 KB - PDF)
+English (EN) (736.43 KB - PDF)
 
-**First published:** 30/11/2018 **Last updated:** 09/01/2025
+**First published:** 30/11/2018 **Last updated:** 10/09/2026
 
 [View](/en/documents/rmp/tagrisso-epar-risk-management-plan_en.pdf)
 
@@ -278,7 +278,7 @@ English (EN) (1.05 MB - PDF)
 
 [View](/en/documents/product-information/tagrisso-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-508)
+[Other languages (24)](#file-language-dropdown-80)
 
 български (BG) (1.05 MB - PDF)
 
@@ -451,7 +451,7 @@ English (EN) (45.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-998)
+[Other languages (24)](#file-language-dropdown-518)
 
 български (BG) (40.25 KB - PDF)
 
@@ -840,6 +840,6 @@ English (EN) (68.78 KB - PDF)
 
 **This page was last updated on**
 
-18/08/2026
+10/09/2026
 
 ## Share this page

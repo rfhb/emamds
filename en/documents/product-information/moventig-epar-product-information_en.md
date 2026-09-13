@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-12-05 13:11:04
+document_datetime: 2026-09-10 16:31:11
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/moventig-epar-product-information_en.pdf
 document_name: moventig-epar-product-information_en.pdf
 version: success
-processing_time: 5.836455
-conversion_datetime: 2025-12-22 17:31:30.017396
+processing_time: 5.5978624
+conversion_datetime: 2026-09-13 12:23:14.171795
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -285,9 +285,7 @@ Table 1 Adverse reactions by System Organ Class (SOC) and frequency
 | System Organ Classification   | Very Common   | Common   | Uncommon   | Rare   | Not known   |
 |-------------------------------|---------------|----------|------------|--------|-------------|
 
-Skin and subcutaneous tissue disorders
-
-Hyperhidrosis
+Skin and subcutaneous tissue disorders Hyperhidrosis
 
 Note: Selection of ADRs and their frequencies based on the 25 mg dose
 
@@ -323,11 +321,9 @@ Pharmacotherapeutic group: Drugs for constipation, peripheral opioid receptor an
 
 ## Mechanism of action and pharmacodynamic effects
 
-Naloxegol is a PEGylated derivative of the mu-opioid receptor antagonist naloxone. PEGylation reduces naloxegol's passive permeability and also renders the compound a substrate for the
+Naloxegol is a PEGylated derivative of the mu-opioid receptor antagonist naloxone. PEGylation reduces naloxegol's passive permeability and also renders the compound a substrate for the P-glycoprotein transporter. Due to poorer permeability and increased efflux of naloxegol across the blood-brain barrier, related to P-gp substrate properties, the CNS penetration of naloxegol is minimal.
 
 <div style=\"page-break-after: always\"></div>
-
-P-glycoprotein transporter. Due to poorer permeability and increased efflux of naloxegol across the blood-brain barrier, related to P-gp substrate properties, the CNS penetration of naloxegol is minimal.
 
 In vitro studies demonstrate that naloxegol is a full neutral antagonist at the mu-opioid receptor. Naloxegol acts by binding to mu-opioid receptors in the gastrointestinal (GI) tract targeting the underlying causes of OIC (i.e. reduced GI motility, hypertonicity and increased fluid absorption resulting from long-term opioid treatment).
 
@@ -387,11 +383,9 @@ A 'symptom responder' was defined as meeting both the 12-week responder criteria
 
 ## Patient assessment of constipation symptoms (PAC-SYM) questionnaire
 
-Naloxegol 25 mg dose in the LIR subgroup resulted in a greater improvement (change from baseline) of patient assessment of constipation symptoms (PAC-SYM) total scores compared with placebo in both studies at 12 weeks (Kodiac 4 p=0.023, Kodiac 5 p=0.002). The 12.5 mg dose in the LIR subgroup also resulted in greater improvement in total PAC SYM at week 12 compared with placebo in both studies (p= 0.020 and p=0.001 respectively). Naloxegol 25 mg dose, compared with placebo, also resulted in greater improvement (change from baseline) of week 12 PAC-SYM rectal domain
+Naloxegol 25 mg dose in the LIR subgroup resulted in a greater improvement (change from baseline) of patient assessment of constipation symptoms (PAC-SYM) total scores compared with placebo in both studies at 12 weeks (Kodiac 4 p=0.023, Kodiac 5 p=0.002). The 12.5 mg dose in the LIR subgroup also resulted in greater improvement in total PAC SYM at week 12 compared with placebo in both studies (p= 0.020 and p=0.001 respectively). Naloxegol 25 mg dose, compared with placebo, also resulted in greater improvement (change from baseline) of week 12 PAC-SYM rectal domain scores in both studies (p=0.004 and p&lt;0.001, Kodiac 4 and 5, respectively) and for the stool domain scores in Kodiac 4 (p=0.031) and Kodiac 5 (p&lt;0.001). There was no relevant impact on abdominal symptoms in either study (p=0.256 and p=0.916, Kodiac 4 and 5, respectively).
 
 <div style=\"page-break-after: always\"></div>
-
-scores in both studies (p=0.004 and p&lt;0.001, Kodiac 4 and 5, respectively) and for the stool domain scores in Kodiac 4 (p=0.031) and Kodiac 5 (p&lt;0.001). There was no relevant impact on abdominal symptoms in either study (p=0.256 and p=0.916, Kodiac 4 and 5, respectively).
 
 ## Potential for interference with opioid-mediated analgesia
 
@@ -453,7 +447,9 @@ Across the range of doses evaluated peak plasma concentration and AUC increased 
 
 <div style=\"page-break-after: always\"></div>
 
-## Special populations Age and gender
+## Special populations
+
+## Age and gender
 
 There is a small effect of age on the pharmacokinetics of naloxegol (approximately 0.7% increase in AUC for every year increase in age). No dose adjustment is recommended for elderly patients. Patients over 65 years of age have been represented in the phase III Clincal Studies.
 
@@ -493,11 +489,9 @@ The pharmacokinetics of naloxegol in the paediatric population has not been stud
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity and fertility.
 
-Embryo-foetal development studies were conducted in rats and rabbits. A potentially treatment-related increased incidence of the skeletal variant bipartite vertebral centrum and a single foetus with anorchism was seen at the highest dose tested in the rat embryo-foetal development study. A possible
+Embryo-foetal development studies were conducted in rats and rabbits. A potentially treatment-related increased incidence of the skeletal variant bipartite vertebral centrum and a single foetus with anorchism was seen at the highest dose tested in the rat embryo-foetal development study. A possible treatment-related foetal skeletal malformation of fused arches was noted at highest dose tested in the rabbit embryo-foetal development study, in the absence of maternal toxicity. In a separate pre- and post-natal development study in rats, body weights were lower for male pups following maternal administration at the high dose. All these effects were observed only at exposures considered sufficiently in excess of the maximum human exposure indicating little relevance to clinical use.
 
 <div style=\"page-break-after: always\"></div>
-
-treatment-related foetal skeletal malformation of fused arches was noted at highest dose tested in the rabbit embryo-foetal development study, in the absence of maternal toxicity. In a separate pre- and post-natal development study in rats, body weights were lower for male pups following maternal administration at the high dose. All these effects were observed only at exposures considered sufficiently in excess of the maximum human exposure indicating little relevance to clinical use.
 
 Carcinogenicity studies of naloxegol were conducted in rats and mice. In male rats, a dose-related increase in Leydig cell adenomas and interstitial cell hyperplasia was observed at exposures considered sufficiently in excess of the maximum human exposure. The observed neoplastic changes are well known hormonal and centrally mediated effects in the rat which are not relevant for humans.
 
@@ -634,11 +628,8 @@ Each film-coated tablet contains 12.5 mg naloxegol (as naloxegol oxalate).
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 30 film-coated tablets
-
 - 90 film-coated tablets
-
 - 30 x 1 film-coated tablets
-
 - 90 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -721,17 +712,11 @@ Each film-coated tablet contains 25 mg naloxegol (as naloxegol oxalate).
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 10 film-coated tablets
-
 - 30 film-coated tablets
-
 - 90 film-coated tablets
-
 - 10 x 1 film-coated tablets
-
 - 30 x 1 film-coated tablets
-
 - 90 x 1 film-coated tablets
-
 - 100 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -872,10 +857,10 @@ naloxegol
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -919,7 +904,7 @@ Talk to your doctor, pharmacist or nurse before taking Moventig:
 
 - if you have stomach ulcers, Crohn's Disease (an illness where your gut is inflamed), diverticulitis (another illness where your gut is inflamed), cancer in your gut or 'peritoneum' (the lining of your stomach area), or any conditon that might damage the wall of your bowel
 - if you currently have unusually severe, persistent or worsening stomach pain
-- if the natural protective barrier between the blood vessels in the head and in the brain is damaged, for example if you have cancer in the brain or the central nervous system, or if you have a disease of the central nervous system like multiple sclerosis or Alzheimer's disease contact your doctor immediately if you experience lack of pain relief from your opioid medicine or symptoms of opioid withdrawal syndrome (see section 4).
+- if the natural protective barrier between the blood vessels in the head and in the brain is damaged, for example if you have cancer in the brain or the central nervous system, or if you have a disease of the central nervous system like multiple sclerosis or Alzheimer's disease - contact your doctor immediately if you experience lack of pain relief from your opioid medicine or symptoms of opioid withdrawal syndrome (see section 4).
 - if you are taking methadone (see section below 'Other medicines and Moventig')
 - if you have had a heart attack within the last 6 months, have heart failure with daily shortness of breath or other severe problems with your heart which cause daily symptoms
 - if you have kidney problems - your doctor may tell you to take a different dose (see section below 'How to take Moventig')
@@ -1035,7 +1020,6 @@ Stop taking the medicine and tell your doctor straight away if you develop opioi
 
 ## Common (may affect up to 1 in 10 people):
 
-- •
 - passing wind
 - nausea (feeling sick to the stomach)
 - vomiting
@@ -1069,11 +1053,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Moventig contains
 
 - The active substance is naloxegol.
-- -Each Moventig 12.5 mg film-coated tablet (tablet) contains 12.5 mg naloxegol as naloxegol oxalate.
-- -Each Moventig 25 mg film-coated tablet (tablet) contains 25 mg naloxegol as naloxegol oxalate.
+- Each Moventig 12.5 mg film-coated tablet (tablet) contains 12.5 mg naloxegol as naloxegol oxalate.
+- Each Moventig 25 mg film-coated tablet (tablet) contains 25 mg naloxegol as naloxegol oxalate.
 - The other ingredients are:
-- -tablet core: mannitol (E421), cellulose microcrystalline (E460), croscarmellose sodium (E468) - see section 2 under 'Moventig contains sodium', magnesium stearate (E470b), propyl gallate (E310)
-- -film-coating: hypromellose (E464), titanium dioxide (E171), macrogol (E1521), iron oxide red (E172) and iron oxide black (E172).
+- tablet core: mannitol (E421), cellulose microcrystalline (E460), croscarmellose sodium (E468) - see section 2 under 'Moventig contains sodium', magnesium stearate (E470b), propyl gallate (E310)
+- film-coating: hypromellose (E464), titanium dioxide (E171), macrogol (E1521), iron oxide red (E172) and iron oxide black (E172).
 
 ## What Moventig looks like and contents of the pack
 

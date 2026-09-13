@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-31 13:23:27
+document_datetime: 2026-09-10 10:12:34
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zoledronic-acid-mylan-epar-product-information_en.pdf
 document_name: zoledronic-acid-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 13.4615613
-conversion_datetime: 2026-04-01 12:30:34.78881
+processing_time: 24.7838622
+conversion_datetime: 2026-09-13 12:26:12.113768
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -42,8 +42,8 @@ Clear and colourless solution.
 
 ## 4.1. Therapeutic indications
 
-- -Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies involving bone.
-- -Treatment of adult patients with tumour-induced hypercalcaemia (TIH).
+- Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies involving bone.
+- Treatment of adult patients with tumour-induced hypercalcaemia (TIH).
 
 ## 4.2. Posology and method of administration
 
@@ -51,7 +51,7 @@ Zoledronic acid Mylan must only be prescribed and administered to patients by he
 
 ## Posology
 
-Prevention of skeletal related events in patients with advanced malignancies involving bone Adults and elderly people
+## Prevention of skeletal related events in patients with advanced malignancies involving bone Adults and elderly people
 
 The recommended dose in the prevention of skeletal related events in patients with advanced malignancies involving bone is 4 mg zoledronic acid every 3 to 4 weeks.
 
@@ -61,17 +61,17 @@ The decision to treat patients with bone metastases for the prevention of skelet
 
 Treatment of TIH Adults and elderly people
 
-The recommended dose in hypercalcaemia (albumin-corrected serum calcium ≥ 12.0 mg/dl or 3.0 mmol/l) is a single dose of 4 mg zoledronic acid.
+The recommended dose in hypercalcaemia (albumincorrected serum calcium ≥ 12.0 mg/dl or 3.0 mmol/l) is a single dose of 4 mg zoledronic acid.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Renal impairment TIH:
 
-Zoledronic acid treatment in TIH patients who also have severe renal impairment should be considered only after evaluating the risks and benefits of treatment. In the clinical studies, patients with serum creatinine &gt; 400 μ mol/l or &gt; 4.5 mg/dl were excluded. No dose adjustment is necessary in TIH patients with serum creatinine &lt; 400 μ mol/l or &lt; 4.5 mg/dl (see section 4.4).
+Zoledronic acid treatment in TIH patients who also have severe renal impairment should be considered only after evaluating the risks and benefits of treatment. In the clinical studies, patients with serum creatinine &gt; 400 μmol /l or &gt; 4.5 mg/dl were excluded. No dose adjustment is necessary in TIH patients with serum creatinine &lt; 400 μmol /l or &lt; 4.5 mg/dl (see section 4.4).
 
 ## Prevention of skeletal related events in patients with advanced malignancies involving bone:
 
-When initiating treatment with zoledronic acid in patients with multiple myeloma or metastatic bone lesions from solid tumours, serum creatinine and creatinine clearance (CLcr) should be determined. CLcr is calculated from serum creatinine using the Cockcroft-Gault formula. Zoledronic acid is not recommended for patients presenting with severe renal impairment prior to initiation of therapy, which is defined for this population as CLcr &lt; 30 ml/min. In clinical trials with zoledronic acid, patients with serum creatinine &gt; 265 μ mol/l or &gt; 3.0 mg/dl were excluded.
+When initiating treatment with zoledronic acid in patients with multiple myeloma or metastatic bone lesions from solid tumours, serum creatinine and creatinine clearance (CLcr) should be determined. CLcr is calculated from serum creatinine using the Cockcroft-Gault formula. Zoledronic acid is not recommended for patients presenting with severe renal impairment prior to initiation of therapy, which is defined for this population as CLcr &lt; 30 ml/min. In clinical trials with zoledronic acid, patients with serum creatinine &gt; 265 μmol /l or &gt; 3.0 mg/dl were excluded.
 
 In patients with bone metastases presenting with mild to moderate renal impairment prior to initiation of therapy, which is defined for this population as CLcr 30-60 ml/min, the following zoledronic acid dose is recommended (see also section 4.4):
 
@@ -86,8 +86,8 @@ In patients with bone metastases presenting with mild to moderate renal impairme
 
 Following initiation of therapy, serum creatinine should be measured prior to each dose of zoledronic acid and treatment should be withheld if renal function has deteriorated. In the clinical trials, renal deterioration was defined as follows:
 
-- -For patients with normal baseline serum creatinine (&lt; 1.4 mg/dl or &lt; 124 μ mol/l), an increase of 0.5 mg/dl or 44 μ mol/l;
-- -For patients with abnormal baseline creatinine (&gt; 1.4 mg/dl or &gt; 124 μ mol/l), an increase of 1.0 mg/dl or 88 μ mol/l.
+- For patients with normal baseline serum creatinine (&lt; 1.4 mg/dl or &lt; 124 μmol /l), an increase of 0.5 mg/dl or 44 μmol /l;
+- For patients with abnormal baseline creatinine (&gt; 1.4 mg/dl or &gt; 124 μmol /l), an increase of 1.0 mg/dl or 88 μmol /l.
 
 In the clinical studies, zoledronic acid treatment was resumed only when the creatinine level returned to within 10% of the baseline value (see section 4.4). Zoledronic acid treatment should be resumed at the same dose as that given prior to treatment interruption.
 
@@ -109,9 +109,9 @@ In patients with mild to moderate renal impairment, reduced zoledronic acid dose
 
 Withdraw an appropriate volume of the concentrate needed, as follows:
 
-- -4.4 ml for 3.5 mg dose
-- -4.1 ml for 3.3 mg dose
-- -3.8 ml for 3.0 mg dose
+- 4.4 ml for 3.5 mg dose
+- 4.1 ml for 3.3 mg dose
+- 3.8 ml for 3.0 mg dose
 
 For instructions on the dilution of the medicinal product before administration, see section 6.6. The withdrawn amount of concentrate must be further diluted in 100 ml of sterile sodium chloride 9 mg/ml (0.9%) solution for injection or 5% w/v glucose solution. The dose must be given as a single intravenous infusion over no less than 15 minutes.
 
@@ -148,7 +148,7 @@ Zoledronic acid has been associated with reports of renal dysfunction. Factors t
 
 Patients should have their serum creatinine levels assessed prior to each dose of zoledronic acid. Upon initiation of treatment in patients with bone metastases with mild to moderate renal impairment, lower doses of zoledronic acid are recommended. In patients who show evidence of renal deterioration during treatment, zoledronic acid should be withheld. Zoledronic acid should only be resumed when serum creatinine returns to within 10% of baseline. Zoledronic acid treatment should be resumed at the same dose as that given prior to treatment interruption.
 
-In view of the potential impact of zoledronic acid on renal function, the lack of clinical safety data in patients with severe renal impairment (in clinical trials defined as serum creatinine ≥ 400 μ mol/l or ≥ 4.5 mg/dl for patients with TIH and ≥ 265 μ mol/l or ≥ 3.0 mg/dl for patients with cancer and bone metastases, respectively) at baseline and only limited pharmacokinetic data in patients with severe renal impairment at baseline (creatinine clearance &lt; 30 ml/min), the use of zoledronic acid is not recommended in patients with severe renal impairment.
+In view of the potential impact of zoledronic acid on renal function, the lack of clinical safety data in patients with severe renal impairment (in clinical trials defined as serum creatinine ≥ 400 μmol /l or ≥ 4.5 mg /dl for patients with TIH and ≥ 265 μmol/l or ≥ 3.0 mg/dl for patients with cancer and bone metastases, respectively) at baseline and only limited pharmacokinetic data in patients with severe renal impairment at baseline (creatinine clearance &lt; 30 ml/min), the use of zoledronic acid is not recommended in patients with severe renal impairment.
 
 ## Hepatic insufficiency
 
@@ -164,10 +164,10 @@ The start of treatment or of a new course of treatment should be delayed in pati
 
 The following risk factors should be considered when evaluating an individual's risk of developing ONJ:
 
-- -Potency of the bisphosphonate (higher risk for highly potent compounds), route of administration (higher risk for parenteral administration) and cumulative dose of bisphosphonate.
-- -Cancer, co morbid conditions (e.g. anaemia, coagulopathies, infection), smoking.
-- -Concomitant therapies: chemotherapy, angiogenesis inhibitors (see section 4.5), radiotherapy to neck and head, corticosteroids.
-- -History of dental disease, poor oral hygiene, periodontal disease, invasive dental procedures (e.g. tooth extractions) and poorly fitting dentures.
+- Potency of the bisphosphonate (higher risk for highly potent compounds), route of administration (higher risk for parenteral administration) and cumulative dose of bisphosphonate.
+- Cancer, co morbid conditions (e.g. anaemia, coagulopathies, infection), smoking.
+- Concomitant therapies: chemotherapy, angiogenesis inhibitors (see section 4.5), radiotherapy to neck and head, corticosteroids.
+- History of dental disease, poor oral hygiene, periodontal disease, invasive dental procedures (e.g. tooth extractions) and poorly fitting dentures.
 
 All patients should be encouraged to maintain good oral hygiene, undergo routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling, or non-healing of sores or discharge during treatment with Zoledronic acid Mylan.
 
@@ -187,9 +187,9 @@ In post-marketing experience, severe and occasionally incapacitating bone, joint
 
 ## Atypical fractures of the femur
 
-Atypical subtrochanteric and diaphyseal femoral fractures have been reported with bisphosphonate therapy, primarily in patients receiving long-term treatment for osteoporosis. These transverse or short oblique fractures can occur anywhere along the femur from just below the lesser trochanter to just above the supracondylar flare. These fractures occur after minimal or no trauma and some patients experience thigh or groin pain, often associated with imaging features of stress fractures, weeks to months before presenting with a completed femoral fracture. Fractures are often bilateral; therefore the contralateral femur should be examined in bisphosphonate-treated patients who have sustained a femoral shaft fracture. Poor healing of these fractures has also been reported. Discontinuation of bisphosphonate therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient, based on an individual benefit risk assessment.
+Atypical subtrochanteric and diaphyseal femoral fractures have been reported with bisphosphonate therapy, primarily in patients receiving long-term treatment for osteoporosis. These transverse or short oblique fractures can occur anywhere along the femur from just below the lesser trochanter to just above the supracondylar flare. These fractures occur after minimal or no trauma and some patients experience thigh or groin pain, often associated with imaging features of stress fractures, weeks to months before presenting with a completed femoral fracture. Fractures are often bilateral; therefore the contralateral femur should be examined in bisphosphonate-treated patients who have sustained a femoral shaft fracture. Poor healing of these fractures has also been reported. Discontinuation of bisphosphonate therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient, based on an individual benefit risk assessment. During bisphosphonate treatment patients should be advised to report any thigh, hip or groin pain and
 
-During bisphosphonate treatment patients should be advised to report any thigh, hip or groin pain and any patient presenting with such symptoms should be evaluated for an incomplete femur fracture.
+any patient presenting with such symptoms should be evaluated for an incomplete femur fracture.
 
 ## Hypocalcaemia
 
@@ -249,59 +249,48 @@ The following adverse reactions, listed in Table 1, have been accumulated from c
 
 ## Table 1
 
-Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data).
+Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥ 1/10), c ommon (≥ 1/100 to &lt; 1/10), u ncommon (≥ 1/1,000 to &lt; 1/100), r are (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data).
 
-| Blood and lymphatic system disorders            | Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                                                                  |
-|-------------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|                                                 | Common:                                         | Anaemia                                                                                                                               |
-|                                                 | Uncommon:                                       | Thrombocytopenia, leukopenia                                                                                                          |
-|                                                 | Rare:                                           | Pancytopenia                                                                                                                          |
-| Immune system disorders                         | Immune system disorders                         | Immune system disorders                                                                                                               |
-|                                                 | Uncommon:                                       | Hypersensitivity reaction                                                                                                             |
-|                                                 | Rare:                                           | Angioneurotic oedema                                                                                                                  |
-| Psychiatric disorders                           | Psychiatric disorders                           |                                                                                                                                       |
-|                                                 | Uncommon:                                       | Anxiety, sleep disturbance                                                                                                            |
-|                                                 | Rare:                                           | Confusion                                                                                                                             |
-| Nervous system disorders                        | Nervous system disorders                        |                                                                                                                                       |
-|                                                 | Common:                                         | Headache                                                                                                                              |
-|                                                 | Uncommon:                                       | Dizziness, paraesthesia, dysgeusia, hypoaesthesia, hyperaesthesia, tremor, somnolence                                                 |
-|                                                 | Very rare:                                      | Convulsions, hypoaesthesia and tetany                                                                                                 |
-|                                                 |                                                 | (secondary to hypocalcaemia)                                                                                                          |
-| Eye disorders                                   |                                                 |                                                                                                                                       |
-|                                                 | Common:                                         | Conjunctivitis                                                                                                                        |
-|                                                 | Uncommon:                                       | Blurred vision, scleritis and orbital                                                                                                 |
-|                                                 | Rare:                                           | Uveitis                                                                                                                               |
-|                                                 | Very rare:                                      | Episcleritis                                                                                                                          |
-| Cardiac disorders                               | Cardiac disorders                               |                                                                                                                                       |
-|                                                 | Uncommon:                                       | Hypertension, hypotension, atrial fibrillation, hypotension leading to syncope or circulatory                                         |
-|                                                 | Rare:                                           | collapse                                                                                                                              |
-|                                                 |                                                 | Bradycardia, cardiac arrhythmia (secondary to hypocalcaemia)                                                                          |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |                                                                                                                                       |
-|                                                 | Uncommon:                                       | Dyspnoea, cough, bronchoconstriction                                                                                                  |
-|                                                 | Rare:                                           | Interstitial lung disease                                                                                                             |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                      |                                                                                                                                       |
-|                                                 | Common:                                         | Nausea, vomiting, decreased appetite                                                                                                  |
-|                                                 | Uncommon:                                       | Diarrhoea, constipation, abdominal pain,                                                                                              |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          |                                                                                                                                       |
-|                                                 | Uncommon:                                       | Pruritus, rash (including erythematous and                                                                                            |
-|                                                 |                                                 | macular rash), increased sweating                                                                                                     |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders |                                                                                                                                       |
-|                                                 | Common:                                         | Bone pain, myalgia, arthralgia, generalised pain Muscle spasms, osteonecrosis of the jaw Osteonecrosis of the external auditory canal |
-|                                                 | Uncommon: Very rare:                            | (bisphosphonate class adverse reaction) and other anatomical sites including femur and                                                |
+| Blood and lymphatic system disorders                  |                                                                                                                                                                                   |
+|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Common:                                               | Anaemia                                                                                                                                                                           |
+| Uncommon: Rare:                                       | Thrombocytopenia, leukopenia                                                                                                                                                      |
+| Pancytopenia Immune system disorders                  |                                                                                                                                                                                   |
+| Uncommon:                                             | Hypersensitivity reaction                                                                                                                                                         |
+| Rare:                                                 | Angioneurotic oedema                                                                                                                                                              |
+| Psychiatric disorders                                 |                                                                                                                                                                                   |
+| Uncommon:                                             | Anxiety, sleep disturbance                                                                                                                                                        |
+| Rare:                                                 | Confusion                                                                                                                                                                         |
+| Nervous system disorders                              |                                                                                                                                                                                   |
+| Common: Uncommon:                                     | Headache Dizziness, paraesthesia, dysgeusia, hypoaesthesia, hyperaesthesia, tremor, somnolence                                                                                    |
+| Very rare: Eye disorders Common: Uncommon:            | Convulsions, hypoaesthesia and tetany (secondary to hypocalcaemia) Conjunctivitis Blurred vision, scleritis and orbital inflammation                                              |
+| Cardiac disorders Uncommon:                           | Hypertension, hypotension, atrial fibrillation, hypotension leading to syncope or circulatory collapse Bradycardia, cardiac arrhythmia (secondary                                 |
+| Rare: Respiratory, thoracic and mediastinal disorders | to hypocalcaemia)                                                                                                                                                                 |
+| Rare: Very rare:                                      | Uveitis Episcleritis                                                                                                                                                              |
+| Uncommon: Rare: Uncommon:                             | Dyspnoea, cough, bronchoconstriction Interstitial lung disease Nausea, vomiting, decreased appetite Diarrhoea, constipation, abdominal pain, dyspepsia, stomatitis, dry mouth     |
+| Gastrointestinal disorders Common:                    |                                                                                                                                                                                   |
+| Skin and subcutaneous tissue disorders Uncommon:      | Pruritus, rash (including erythematous and macular rash), increased sweating                                                                                                      |
+| Musculoskeletal and connective tissue                 | Bone pain, myalgia, arthralgia, generalised pain Muscle spasms, osteonecrosis of the jaw Osteonecrosis of the external auditory canal (bisphosphonate class adverse reaction) and |
+|                                                       | other anatomical sites including femur and                                                                                                                                        |
+| Common:                                               |                                                                                                                                                                                   |
+| disorders                                             |                                                                                                                                                                                   |
+|                                                       | hip                                                                                                                                                                               |
+| Uncommon:                                             |                                                                                                                                                                                   |
+| Very rare:                                            |                                                                                                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| Renal and urinary disorders                          |                                                      | Renal impairment Acute renal failure, haematuria, proteinuria Acquired Fanconi syndrome                                                                                                                                    |
+| Renal and urinary disorders                          | Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                |
 |------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                      | Common:                                              |                                                                                                                                                                                                                            |
-|                                                      | Uncommon:                                            |                                                                                                                                                                                                                            |
-|                                                      | Rare:                                                |                                                                                                                                                                                                                            |
+|                                                      | Common:                                              | Renal impairment                                                                                                                                                                                                           |
+| Uncommon:                                            |                                                      | Acute renal failure, haematuria, proteinuria                                                                                                                                                                               |
+|                                                      | Rare:                                                | Acquired Fanconi syndrome                                                                                                                                                                                                  |
 |                                                      | Not known:                                           | Tubulointerstitial nephritis                                                                                                                                                                                               |
 | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                       |
 |                                                      | Common:                                              | Fever, flu-like syndrome (including fatigue, rigors, malaise and flushing)                                                                                                                                                 |
 |                                                      | Uncommon:                                            | Asthenia, peripheral oedema, injection site reactions (including pain, irritation, swelling, induration), chest pain, weight increase, anaphylactic reaction/shock, urticaria Arthritis and joint swelling as a symptom of |
 |                                                      | Rare:                                                | acute phase reaction                                                                                                                                                                                                       |
-| Investigations                                       | Investigations                                       | Investigations                                                                                                                                                                                                             |
+| Investigations                                       |                                                      |                                                                                                                                                                                                                            |
 |                                                      | Very common:                                         | Hypophosphataemia Blood creatinine and blood urea increased, hypocalcaemia                                                                                                                                                 |
 |                                                      | Common:                                              |                                                                                                                                                                                                                            |
 |                                                      | Uncommon:                                            | Hypomagnesaemia, hypokalaemia                                                                                                                                                                                              |
@@ -321,7 +310,7 @@ In one 3-year, randomised, double-blind controlled trial that evaluated the effi
 
 ## Acute phase reaction
 
-This adverse drug reaction consists of a constellation of symptoms that includes fever, myalgia, headache, extremity pain, nausea, vomiting, diarrhoea, arthralgia and arthritis with subsequent joint swelling. The onset time is ≤ 3 days post-zoledronic acid infusion, and the reaction is also referred to using the terms 'flu-like' or 'post-dose' symptoms.
+This adverse drug reaction consists of a constellation of symptoms that includes fever, myalgia, headache, extremity pain, nausea, vomiting, diarrhoea, arthralgia and arthritis with subsequent joint swelling . The onset time is ≤ 3 days post-zoledronic acid infusion, and the reaction is also referred to using the terms 'flu-like' or 'post-dose' symptoms.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -353,8 +342,8 @@ The selective action of bisphosphonates on bone is based on their high affinity 
 
 In addition to being a potent inhibitor of bone resorption, zoledronic acid also possesses several anti-tumour properties that could contribute to its overall efficacy in the treatment of metastatic bone disease. The following properties have been demonstrated in preclinical studies:
 
-- -In vivo : Inhibition of osteoclastic bone resorption, which alters the bone marrow microenvironment, making it less conducive to tumour cell growth, anti-angiogenic activity and anti-pain activity.
-- -In vitro : Inhibition of osteoblast proliferation, direct cytostatic and pro-apoptotic activity on tumour cells, synergistic cytostatic effect with other anti-cancer medicinal products, anti-adhesion/invasion activity.
+- In vivo : Inhibition of osteoclastic bone resorption, which alters the bone marrow microenvironment, making it less conducive to tumour cell growth, anti-angiogenic activity and anti-pain activity.
+- In vitro : Inhibition of osteoblast proliferation, direct cytostatic and pro-apoptotic activity on tumour cells, synergistic cytostatic effect with other anti-cancer medicinal products, anti-adhesion/invasion activity.
 
 ## Clinical trial results in the prevention of skeletal related events in patients with advanced malignancies involving bone
 
@@ -366,72 +355,61 @@ In a second study including solid tumours other than breast or prostate cancer, 
 
 Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 
-|                                                        | Any SRE (+TIH)       | Any SRE (+TIH)   | Fractures*           | Fractures*   | Radiation therapy to bone   | Radiation therapy to bone   |
-|--------------------------------------------------------|----------------------|------------------|----------------------|--------------|-----------------------------|-----------------------------|
-|                                                        | zoledronic acid 4 mg | Placebo          | zoledronic acid 4 mg | Placebo      | zoledronic acid 4 mg        | Placebo                     |
-| N                                                      | 214                  | 208              | 214                  | 208          | 214                         | 208                         |
-| Proportion of patients with SREs (%)                   | 38                   | 49               | 17                   | 25           | 26                          | 33                          |
-| p-value                                                | 0.028                | 0.028            | 0.052                | 0.052        | 0.119                       | 0.119                       |
-| Median time to SRE (days)                              | 488                  | 321              | NR                   | NR           | NR                          | 640                         |
-| p-value                                                | 0.009                | 0.009            | 0.020                | 0.020        | 0.055                       | 0.055                       |
-| Skeletal morbidity rate                                | 0.77                 | 1.47             | 0.20                 | 0.45         | 0.42                        | 0.89                        |
-| p-value                                                | 0.005                | 0.005            | 0.023                | 0.023        | 0.060                       | 0.060                       |
-| Risk reduction of suffering from multiple events** (%) | 36                   | -                | NA                   | NA           | NA                          | NA                          |
-| p-value                                                | 0.002                | 0.002            | NA                   | NA           | NA                          | NA                          |
+|                                                        |   Any SRE (+TIH) - zoledronic acid 4 mg | Any SRE (+TIH) - Placebo   | Fractures* - zoledronic acid 4 mg   | Fractures* - Placebo   | Radiation therapy to bone - zoledronic acid 4 mg   | Radiation therapy to bone - Placebo   |
+|--------------------------------------------------------|-----------------------------------------|----------------------------|-------------------------------------|------------------------|----------------------------------------------------|---------------------------------------|
+| N                                                      |                                     214 | 208                        | 214                                 | 208                    | 214                                                | 208                                   |
+| Proportion of patients with SREs (%)                   |                                      38 | 49                         | 17                                  | 25                     | 26                                                 | 33                                    |
+| p-value                                                |                                   0.028 | 0.028                      | 0.052                               | 0.052                  | 0.119                                              | 0.119                                 |
+| Median time to SRE (days)                              |                                     488 | 321                        | NR                                  | NR                     | NR                                                 | 640                                   |
+| p-value                                                |                                   0.009 | 0.009                      | 0.020                               | 0.020                  | 0.055                                              | 0.055                                 |
+| Skeletal morbidity rate                                |                                    0.77 | 1.47                       | 0.20                                | 0.45                   | 0.42                                               | 0.89                                  |
+| p-value                                                |                                   0.005 | 0.005                      | 0.023                               | 0.023                  | 0.060                                              | 0.060                                 |
+| Risk reduction of suffering from multiple events** (%) |                                      36 | -                          | NA                                  | NA                     | NA                                                 | NA                                    |
+| p-value                                                |                                   0.002 | 0.002                      | NA                                  | NA                     | NA                                                 | NA                                    |
 
-NA Not Applicable
+NA Not Applicable NA Not Applicable In a third phase III randomised, double-blind trial, zoledronic acid 4 mg or 90 mg pamidronate every 3 to 4 weeks were compared in patients with multiple myeloma or breast cancer with at least one bone lesion. The results demonstrated that zoledronic acid 4 mg showed comparable efficacy to 90 mg pamidronate in the prevention of SREs. The multiple event analysis revealed a significant risk reduction of 16% in patients treated with zoledronic acid 4 mg in comparison with patients receiving pamidronate. Efficacy results are provided in Table 4.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
 
-|                                                        | Any SRE (+TIH)       | Any SRE (+TIH)   | Fractures*           | Fractures*   | Radiation therapy to bone   | Radiation therapy to bone   |
-|--------------------------------------------------------|----------------------|------------------|----------------------|--------------|-----------------------------|-----------------------------|
-|                                                        | zoledronic acid 4 mg | Placebo          | zoledronic acid 4 mg | Placebo      | zoledronic acid 4 mg        | Placebo                     |
-| N                                                      | 257                  | 250              | 257                  | 250          | 257                         | 250                         |
-| Proportion of patients with SREs (%)                   | 39                   | 48               | 16                   | 22           | 29                          | 34                          |
-| p-value                                                | 0.039                | 0.039            | 0.064                | 0.064        | 0.173                       | 0.173                       |
-| Median time to SRE (days)                              | 236                  | 155              | NR                   | NR           | 424                         | 307                         |
-| p-value                                                | 0.009                | 0.009            | 0.020                | 0.020        | 0.079                       | 0.079                       |
-| Skeletal morbidity rate                                | 1.74                 | 2.71             | 0.39                 | 0.63         | 1.24                        | 1.89                        |
-| p-value                                                | 0.012                | 0.012            | 0.066                | 0.066        | 0.099                       | 0.099                       |
-| Risk reduction of suffering from multiple events** (%) | 30.7                 | -                | NA                   | NA           | NA                          | NA                          |
-| p-value                                                | 0.003                | 0.003            | NA                   | NA           | NA                          | NA                          |
-
-NA Not Applicable
-
-In a third phase III randomised, double-blind trial, zoledronic acid 4 mg or 90 mg pamidronate every 3 to 4 weeks were compared in patients with multiple myeloma or breast cancer with at least one bone lesion. The results demonstrated that zoledronic acid 4 mg showed comparable efficacy to 90 mg pamidronate in the prevention of SREs. The multiple event analysis revealed a significant risk reduction of 16% in patients treated with zoledronic acid 4 mg in comparison with patients receiving pamidronate. Efficacy results are provided in Table 4.
+|                                                        |   Any SRE (+TIH) - zoledronic acid 4 mg | Any SRE (+TIH) - Placebo   | Fractures* - zoledronic acid 4 mg   | Fractures* - Placebo   | Radiation therapy to bone - zoledronic acid 4 mg   | Radiation therapy to bone - Placebo   |
+|--------------------------------------------------------|-----------------------------------------|----------------------------|-------------------------------------|------------------------|----------------------------------------------------|---------------------------------------|
+| N                                                      |                                     257 | 250                        | 257                                 | 250                    | 257                                                | 250                                   |
+| Proportion of patients with SREs (%)                   |                                      39 | 48                         | 16                                  | 22                     | 29                                                 | 34                                    |
+| p-value                                                |                                   0.039 | 0.039                      | 0.064                               | 0.064                  | 0.173                                              | 0.173                                 |
+| Median time to SRE (days)                              |                                     236 | 155                        | NR                                  | NR                     | 424                                                | 307                                   |
+| p-value                                                |                                   0.009 | 0.009                      | 0.020                               | 0.020                  | 0.079                                              | 0.079                                 |
+| Skeletal morbidity rate                                |                                    1.74 | 2.71                       | 0.39                                | 0.63                   | 1.24                                               | 1.89                                  |
+| p-value                                                |                                   0.012 | 0.012                      | 0.066                               | 0.066                  | 0.099                                              | 0.099                                 |
+| Risk reduction of suffering from multiple events** (%) |                                    30.7 | -                          | NA                                  | NA                     | NA                                                 | NA                                    |
+| p-value                                                |                                   0.003 | 0.003                      | NA                                  | NA                     | NA                                                 | NA                                    |
 
 Table 4: Efficacy results (breast cancer and multiple myeloma patients)
 
-|                                                        | Any SRE (+TIH)       | Any SRE (+TIH)   | Fractures*           | Fractures*   | Radiation therapy to bone   | Radiation therapy to bone   |
-|--------------------------------------------------------|----------------------|------------------|----------------------|--------------|-----------------------------|-----------------------------|
-|                                                        | zoledronic acid 4 mg | Pam 90 mg        | zoledronic acid 4 mg | Pam 90 mg    | zoledronic acid 4 mg        | Pam 90 mg                   |
-| N                                                      | 561                  | 555              | 561                  | 555          | 561                         | 555                         |
-| Proportion of patients with SREs (%)                   | 48                   | 52               | 37                   | 39           | 19                          | 24                          |
-| p-value                                                | 0.198                | 0.198            | 0.653                | 0.653        | 0.037                       | 0.037                       |
-| Median time to SRE (days)                              | 376                  | 356              | NR                   | 714          | NR                          | NR                          |
-| p-value                                                | 0.151                | 0.151            | 0.672                | 0.672        | 0.026                       | 0.026                       |
-| Skeletal morbidity rate                                | 1.04                 | 1.39             | 0.53                 | 0.60         | 0.47                        | 0.71                        |
-| p-value                                                | 0.084                | 0.084            | 0.614                | 0.614        | 0.015                       | 0.015                       |
-| Risk reduction of suffering from multiple events** (%) | 16                   | -                | NA                   | NA           | NA                          | NA                          |
-| p-value                                                | 0.030                | 0.030            | NA                   | NA           | NA                          | NA                          |
+|                                                        |   Any SRE (+TIH) - zoledronic acid 4 mg | Any SRE (+TIH) - Pam 90 mg   | Fractures* - zoledronic acid 4 mg   | Fractures* - Pam 90 mg   | Radiation therapy to bone - zoledronic acid 4 mg   | Radiation therapy to bone - Pam 90 mg   |
+|--------------------------------------------------------|-----------------------------------------|------------------------------|-------------------------------------|--------------------------|----------------------------------------------------|-----------------------------------------|
+| N                                                      |                                     561 | 555                          | 561                                 | 555                      | 561                                                | 555                                     |
+| Proportion of patients with SREs (%)                   |                                      48 | 52                           | 37                                  | 39                       | 19                                                 | 24                                      |
+| p-value                                                |                                   0.198 | 0.198                        | 0.653                               | 0.653                    | 0.037                                              | 0.037                                   |
+| Median time to SRE (days)                              |                                     376 | 356                          | NR                                  | 714                      | NR                                                 | NR                                      |
+| p-value                                                |                                   0.151 | 0.151                        | 0.672                               | 0.672                    | 0.026                                              | 0.026                                   |
+| Skeletal morbidity rate                                |                                    1.04 | 1.39                         | 0.53                                | 0.60                     | 0.47                                               | 0.71                                    |
+| p-value                                                |                                   0.084 | 0.084                        | 0.614                               | 0.614                    | 0.015                                              | 0.015                                   |
+| Risk reduction of suffering from multiple events** (%) |                                      16 | -                            | NA                                  | NA                       | NA                                                 | NA                                      |
+| p-value                                                |                                   0.030 | 0.030                        | NA                                  | NA                       | NA                                                 | NA                                      |
 
 NR Not Reached
 
-NA Not Applicable
+NA Not Applicable Zoledronic acid 4 mg was also studied in a double-blind, randomised, placebo-controlled trial in 228 patients with documented bone metastases from breast cancer to evaluate the effect of 4 mg zoledronic acid on the skeletal related event (SRE) rate ratio, calculated as the total number of SRE events (excluding hypercalcaemia and adjusted for prior fracture), divided by the total risk period. Patients received either 4 mg zoledronic acid or placebo every four weeks for one year. Patients were evenly distributed between zoledronic acid-treated and placebo groups.
 
 <div style=\"page-break-after: always\"></div>
-
-Zoledronic acid 4 mg was also studied in a double-blind, randomised, placebo-controlled trial in 228 patients with documented bone metastases from breast cancer to evaluate the effect of 4 mg zoledronic acid on the skeletal related event (SRE) rate ratio, calculated as the total number of SRE events (excluding hypercalcaemia and adjusted for prior fracture), divided by the total risk period. Patients received either 4 mg zoledronic acid or placebo every four weeks for one year. Patients were evenly distributed between zoledronic acid-treated and placebo groups.
 
 The SRE rate (events/person year) was 0.628 for zoledronic acid and 1.096 for placebo. The proportion of patients with at least one SRE (excluding hypercalcaemia) was 29.8% in the zoledronic acid-treated group versus 49.6% in the placebo group (p=0.003). Median time to onset of the first SRE was not reached in the zoledronic acid-treated arm at the end of the study and was significantly prolonged compared to placebo (p=0.007). Zoledronic acid 4 mg reduced the risk of SREs by 41% in a multiple event analysis (risk ratio=0.59, p=0.019) compared with placebo.
 
 In the zoledronic acid-treated group, statistically significant improvement in pain scores (using the Brief Pain Inventory, BPI) was seen at 4 weeks and at every subsequent time point during the study, when compared to placebo (Figure 1). The pain score for zoledronic acid was consistently below baseline and pain reduction was accompanied by a trend in reduced analgesics score.
 
 Figure 1. Mean changes from baseline in BPI scores. Statistically significant differences are marked (*p&lt; 0.05) for between treatment comparisons (4 mg zoledronic acid vs. Placebo)
-
-Time on study (weeks)
 
 <!-- image -->
 
@@ -474,7 +452,7 @@ The primary endpoint of the study was the percent change from baseline in lumbar
 
 <div style=\"page-break-after: always\"></div>
 
-The type of adverse reactions observed in this population were similar to those previously seen in adults with advanced malignancies involving the bone (see section 4.8). The adverse reactions ranked under headings of frequency, are presented in Table 6. The following conventional classification is used: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data).
+The type of adverse reactions observed in this population were similar to those previously seen in adults with advanced malignancies involving the bone (see section 4.8). The adverse reactions ranked under headings of frequency, are presented in Table 6. The following conventional classification is used: v ery common (≥ 1/10), c ommon (≥ 1/100 to &lt; 1/10), u ncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data).
 
 Table 6: Adverse reactions observed in paediatric patients with severe osteogenesis imperfecta 1
 
@@ -507,7 +485,7 @@ Single and multiple 5- and 15-minute infusions of 2, 4, 8 and 16 mg zoledronic a
 
 After initiating the infusion of zoledronic acid, the plasma concentrations of zoledronic acid rapidly increased, achieving their peak at the end of the infusion period, followed by a rapid decline to &lt; 10% of peak after 4 hours and &lt; 1% of peak after 24 hours, with a subsequent prolonged period of very low concentrations not exceeding 0.1% of peak prior to the second infusion of zoledronic acid on day 28.
 
-Intravenously administered zoledronic acid is eliminated by a triphasic process: rapid biphasic disappearance from the systemic circulation, with half-lives of t½ α 0.24 and t½ β 1.87 hours, followed by a long elimination phase with a terminal elimination half-life of t½ γ 146 hours. There was no accumulation of zoledronic acid in plasma after multiple doses given every 28 days. Zoledronic acid is not metabolised and is excreted unchanged via the kidney. Over the first 24 hours, 39 ± 16% of the administered dose is recovered in the urine, while the remainder is principally bound to bone tissue. From the bone tissue it is released very slowly back into the systemic circulation and eliminated via the kidney. The total body clearance is 5.04 ± 2.5 l/h, independent of dose, and unaffected by gender, age, race, and body weight. Increasing the infusion time from 5 to 15 minutes caused a 30% decrease in zoledronic acid concentration at the end of the infusion, but had no effect on the area under the plasma concentration versus time curve.
+Intravenously administered zoledronic acid is eliminated by a triphasic process: rapid biphasic disappearance from the systemic circulation, with halflives of t½α 0.24 and t½β 1.87 hours, followed by a long elimination phase with a terminal elimination halflife of t½γ 146 hours. There was no accumulation of zoledronic acid in plasma after multiple doses given every 28 days. Zoledronic acid is not metabolised and is excreted unchanged via the kidney. Over the first 24 hours, 39 ± 16% of the administered dose is recovered in the urine, while the remainder is principally bound to bone tissue. From the bone tissue it is released very slowly back into the systemic circulation and eliminated via the kidney. The total body clearance is 5.04 ± 2.5 l/h, independent of dose, and unaffected by gender, age, race, and body weight. Increasing the infusion time from 5 to 15 minutes caused a 30% decrease in zoledronic acid concentration at the end of the infusion, but had no effect on the area under the plasma concentration versus time curve.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -587,23 +565,35 @@ Packs containing 1, 4 or 10 vials or multipacks containing 4 (4 cartons of 1) vi
 
 Not all pack sizes may be marketed.
 
-## 6.6. Special precautions for disposal and other handling
+6.6.
 
-Prior to administration, 5 ml concentrate from one vial or the volume of the concentrate withdrawn as required must be further diluted with 100 ml of calcium-free infusion solution (sodium chloride
+Special precautions for disposal and other handling
+
+Prior to administration, 5 ml concentrate from one vial or the volume of the concentrate withdrawn as
+
+required must be further diluted with 100 ml of calcium-free infusion solution (sodium chloride
 
 9 mg/ml (0.9%) solution for injection or 5% w/v glucose solution).
 
-Additional information on handling of Zoledronic acid Mylan, including guidance on preparation of reduced doses, is provided in section 4.2.
+Additional information on handling of Zoledronic acid Mylan, including guidance on preparation of
+
+reduced doses, is provided in section 4.2.
 
 Aseptic techniques must be followed during the preparation of the infusion. For single use only.
 
 Only clear solution free from particles and discolouration should be used.
 
-Healthcare professionals are advised not to dispose of unused Zoledronic acid Mylan via the domestic sewage system.
+Healthcare professionals are advised not to dispose of unused Zoledronic acid Mylan via the domestic
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+sewage system.
 
-## 7. MARKETING AUTHORISATION HOLDER
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
+
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
@@ -670,8 +660,8 @@ The MAH shall perform the required pharmacovigilance activities and intervention
 
 ## An updated RMP should be submitted:
 
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 - At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 ## Additional risk minimisation measures
 
@@ -725,7 +715,7 @@ Read the package leaflet before use.
 
 Intravenous use after dilution.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -739,16 +729,16 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/12/786/001 1 vial EU/1/12/786/002 4 vials EU/1/12/786/003 10 vials
 
@@ -760,8 +750,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -773,8 +763,8 @@ Zoledronic acid Mylan 4 mg/5 ml
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -823,8 +813,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
@@ -840,11 +830,10 @@ Multipack: 4 vials (4 packs of 1)
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -897,34 +886,42 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/12/786/004
+EU/1/12/786/004 Multipack: 4 vials (4 packs of 1)
 
-Multipack: 4 vials (4 packs of 1)
-
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Zoledronic acid Mylan 4 mg/5 ml
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN:
 
@@ -939,7 +936,6 @@ NN:
 Zoledronic acid Mylan 4 mg/5 ml concentrate for solution for infusion Zoledronic acid Intravenous use after dilution.
 
 2. METHOD OF ADMINISTRATION
-
 3. EXPIRY DATE
 
 EXP
@@ -949,7 +945,6 @@ EXP
 Lot
 
 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
-
 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
@@ -960,13 +955,15 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Zoledronic acid Mylan 4 mg/5 ml concentrate for solution for infusion Zoledronic acid
+## Zoledronic acid Mylan 4 mg/5 ml concentrate for solution for infusion
+
+## Zoledronic acid
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet:
 
@@ -981,8 +978,8 @@ Lot
 
 The active substance in Zoledronic acid Mylan is zoledronic acid, which belongs to a group of substances called bisphosphonates. Zoledronic acid works by attaching itself to the bone and slowing down the rate of bone change. It is used:
 
-- -To prevent bone complications , e.g. fractures, in adult patients with bone metastases (spread of cancer from primary site to the bone).
-- -To reduce the amount of calcium in the blood in adult patients where it is too high due to the presence of a tumour. Tumours can accelerate normal bone change in such a way that the release of calcium from bone is increased. This condition is known as tumour-induced hypercalcaemia (TIH).
+- To prevent bone complications , e.g. fractures, in adult patients with bone metastases (spread of cancer from primary site to the bone).
+- To reduce the amount of calcium in the blood in adult patients where it is too high due to the presence of a tumour. Tumours can accelerate normal bone change in such a way that the release of calcium from bone is increased. This condition is known as tumour-induced hypercalcaemia (TIH).
 
 ## 2. What you need to know before you are given Zoledronic acid Mylan
 
@@ -992,16 +989,16 @@ Your doctor will carry out blood tests before you start treatment with Zoledroni
 
 ## You must not be given Zoledronic acid Mylan:
 
-- -if you are breast-feeding.
-- -if you are allergic to zoledronic acid, another bisphosphonate (the group of substances to which zoledronic acid belongs), or any of the other ingredients of this medicine (listed in section 6).
+- if you are breast-feeding.
+- if you are allergic to zoledronic acid, another bisphosphonate (the group of substances to which zoledronic acid belongs), or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor before you are given Zoledronic acid Mylan:
 
-- -if you have or have had a kidney problem .
-- -if you have or have had pain, swelling or numbness of the jaw, a feeling of heaviness in the jaw or loosening of a tooth. Your doctor may recommend a dental examination before you start treatment with Zoledronic acid Mylan.
-- -if you are having dental treatment or are due to undergo dental surgery, tell your dentist that you are being treated with Zoledronic acid Mylan and inform your doctor about your dental treatment.
+- if you have or have had a kidney problem .
+- if you have or have had pain, swelling or numbness of the jaw, a feeling of heaviness in the jaw or loosening of a tooth. Your doctor may recommend a dental examination before you start treatment with Zoledronic acid Mylan.
+- if you are having dental treatment or are due to undergo dental surgery, tell your dentist that you are being treated with Zoledronic acid Mylan and inform your doctor about your dental treatment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1025,10 +1022,10 @@ Zoledronic acid Mylan is not recommended for use in adolescents and children bel
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines. It is especially important that you tell your doctor if you are also taking:
 
-- -Aminoglycosides (medicines used to treat severe infections), calcitonin (a type of medicine used to treat post-menopausal osteoporosis and hypercalcaemia), loop diuretics (a type of medicine to treat high blood pressure or oedema) or other calcium-lowering medicines, since the combination of these with bisphosphonates may cause the calcium level in the blood to become too low.
-- -Thalidomide (a medicine used to treat a certain type of blood cancer involving the bone) or any other medicines which may harm your kidneys.
-- -Other medicines that also contain zoledronic acid and which are used to treat osteoporosis and other non-cancer diseases of the bone, or any other bisphosphonate, since the combined effects of these medicines taken together with Zoledronic acid Mylan are unknown.
-- -Anti-angiogenic medicines (used to treat cancer), since the combination of these with zoledronic acid has been associated with an increased risk of osteonecrosis of the jaw (ONJ).
+- Aminoglycosides (medicines used to treat severe infections), calcitonin (a type of medicine used to treat post-menopausal osteoporosis and hypercalcaemia), loop diuretics (a type of medicine to treat high blood pressure or oedema) or other calcium-lowering medicines, since the combination of these with bisphosphonates may cause the calcium level in the blood to become too low.
+- Thalidomide (a medicine used to treat a certain type of blood cancer involving the bone) or any other medicines which may harm your kidneys.
+- Other medicines that also contain zoledronic acid and which are used to treat osteoporosis and other non-cancer diseases of the bone, or any other bisphosphonate, since the combined effects of these medicines taken together with Zoledronic acid Mylan are unknown.
+- Anti-angiogenic medicines (used to treat cancer), since the combination of these with zoledronic acid has been associated with an increased risk of osteonecrosis of the jaw (ONJ).
 
 ## Pregnancy and breast-feeding
 
@@ -1050,23 +1047,23 @@ This medicine contains less than 1 mmol sodium (23 mg) per vial, i.e. essentiall
 
 ## 3. How Zoledronic acid Mylan is used
 
-- -Zoledronic acid Mylan must only be given by healthcare professionals trained in administering bisphosphonates intravenously, i.e. through a vein.
-- -Your doctor will recommend that you drink enough water before each treatment to help prevent dehydration.
-- -Carefully follow all the other instructions given to you by your doctor, pharmacist or nurse.
+- Zoledronic acid Mylan must only be given by healthcare professionals trained in administering bisphosphonates intravenously, i.e. through a vein.
+- Your doctor will recommend that you drink enough water before each treatment to help prevent dehydration.
+- Carefully follow all the other instructions given to you by your doctor, pharmacist or nurse.
 
 ## How much Zoledronic acid Mylan is given
 
-- -The usual single dose given is 4 mg zoledronic acid.
-- -If you have a kidney problem, your doctor will give you a lower dose depending on the severity of your kidney problem.
+- The usual single dose given is 4 mg zoledronic acid.
+- If you have a kidney problem, your doctor will give you a lower dose depending on the severity of your kidney problem.
 
 ## How often you will be given Zoledronic acid Mylan
 
-- -If you are being treated for the prevention of bone complications due to bone metastases, you will be given one infusion of Zoledronic acid Mylan every three to four weeks.
-- -If you are being treated to reduce the amount of calcium in your blood, you will normally only be given one infusion of Zoledronic acid Mylan.
+- If you are being treated for the prevention of bone complications due to bone metastases, you will be given one infusion of Zoledronic acid Mylan every three to four weeks.
+- If you are being treated to reduce the amount of calcium in your blood, you will normally only be given one infusion of Zoledronic acid Mylan.
 
 ## How Zoledronic acid Mylan is given
 
-- -Zoledronic acid Mylan is given as a drip (infusion) into a vein which should take at least 15 minutes and should be administered as a single intravenous solution in a separate infusion line.
+- Zoledronic acid Mylan is given as a drip (infusion) into a vein which should take at least 15 minutes and should be administered as a single intravenous solution in a separate infusion line.
 
 Patients whose blood calcium levels are not too high will also be prescribed calcium and vitamin D supplements to be taken each day.
 
@@ -1082,77 +1079,77 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Common (may affect up to 1 in 10 people):
 
-- -Severe kidney impairment (will normally be determined by your doctor with certain specific blood tests).
-- -Low level of calcium in the blood.
+- Severe kidney impairment (will normally be determined by your doctor with certain specific blood tests).
+- Low level of calcium in the blood.
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- -Pain in the mouth, teeth and/or jaw, swelling or non-healing sores inside the mouth or jaw, discharge, numbness or a feeling of heaviness in the jaw, or loosening of a tooth. These could be signs of bone damage in the jaw (osteonecrosis). Tell your doctor and dentist immediately if you experience such symptoms while being treated with Zoledronic acid Mylan or after stopping treatment.
-- -Irregular heart rhythm (atrial fibrillation) has been seen in patients receiving zoledronic acid for postmenopausal osteoporosis. It is currently unclear whether zoledronic acid causes this irregular heart rhythm but you should report it to your doctor if you experience such symptoms after you have received zoledronic acid.
-- -Severe allergic reaction: shortness of breath, swelling mainly of the face and throat.
+- Pain in the mouth, teeth and/or jaw, swelling or non-healing sores inside the mouth or jaw, discharge, numbness or a feeling of heaviness in the jaw, or loosening of a tooth. These could be signs of bone damage in the jaw (osteonecrosis). Tell your doctor and dentist immediately if you experience such symptoms while being treated with Zoledronic acid Mylan or after stopping treatment.
+- Irregular heart rhythm (atrial fibrillation) has been seen in patients receiving zoledronic acid for postmenopausal osteoporosis. It is currently unclear whether zoledronic acid causes this irregular heart rhythm but you should report it to your doctor if you experience such symptoms after you have received zoledronic acid.
+- Severe allergic reaction: shortness of breath, swelling mainly of the face and throat.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Rare (may affect up to 1 in 1,000 people):
 
-- -As a consequence of low calcium values: irregular heart beat (cardiac arrhythmia; secondary to hypocalcaemia).
-- -A kidney function disorder called Fanconi syndrome (will normally be determined by your doctor with certain urine tests).
+- As a consequence of low calcium values: irregular heart beat (cardiac arrhythmia; secondary to hypocalcaemia).
+- A kidney function disorder called Fanconi syndrome (will normally be determined by your doctor with certain urine tests).
 
 ## Very rare (may affect up to 1 in 10,000 people):
 
-- -As a consequence of low calcium values: seizures, numbness and tetany (secondary to hypocalcaemia).
-- -Talk to your doctor if you have ear pain, discharge from the ear, and/or an ear infection. These could be signs of bone damage in the ear.
-- -Osteonecrosis has also very rarely been seen occurring with other bones than the jaw, especially the hip or thigh. Tell your doctor immediately if you experience symptoms such as new onset or worsening of aches, pain or stiffness while being treated with Zoledronic acid Mylan or after stopping treatment.
+- As a consequence of low calcium values: seizures, numbness and tetany (secondary to hypocalcaemia).
+- Talk to your doctor if you have ear pain, discharge from the ear, and/or an ear infection. These could be signs of bone damage in the ear.
+- Osteonecrosis has also very rarely been seen occurring with other bones than the jaw, especially the hip or thigh. Tell your doctor immediately if you experience symptoms such as new onset or worsening of aches, pain or stiffness while being treated with Zoledronic acid Mylan or after stopping treatment.
 
 ## Not known: frequency cannot be estimated from the available data
 
-- -Inflammation of the kidney (tubulointerstitial nephritis): signs and symptoms may include decreased volume of the urine, blood in the urine, nausea, feeling generally unwell.
+- Inflammation of the kidney (tubulointerstitial nephritis): signs and symptoms may include decreased volume of the urine, blood in the urine, nausea, feeling generally unwell.
 
 ## Tell your doctor about any of the following side effects as soon as possible:
 
 ## Very common (may affect more than 1 in 10 people):
 
-- -Low level of phosphate in the blood.
+- Low level of phosphate in the blood.
 
 ## Common (may affect up to 1 in 10 people):
 
-- -Headache and a flu-like syndrome consisting of fever, fatigue, weakness, drowsiness, chills and bone, joint and/or muscle ache. In most cases no specific treatment is required and the symptoms disappear after a short time (couple of hours or days).
-- -Gastrointestinal reactions such as nausea and vomiting as well as loss of appetite.
-- -Conjunctivitis.
-- -Low level of red blood cells (anaemia).
+- Headache and a flu-like syndrome consisting of fever, fatigue, weakness, drowsiness, chills and bone, joint and/or muscle ache. In most cases no specific treatment is required and the symptoms disappear after a short time (couple of hours or days).
+- Gastrointestinal reactions such as nausea and vomiting as well as loss of appetite.
+- Conjunctivitis.
+- Low level of red blood cells (anaemia).
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- -Hypersensitivity reactions.
-- -Low blood pressure.
-- -Chest pain.
-- -Skin reactions (redness and swelling) at the infusion site, rash, itching.
-- -High blood pressure, shortness of breath, dizziness, anxiety, sleep disturbances, taste disturbances, trembling, tingling or numbness of the hands or feet, diarrhoea, constipation, abdominal pain, dry mouth.
-- -Low counts of white blood cells and blood platelets.
-- -Low level of magnesium and potassium in the blood. Your doctor will monitor this and take any necessary measures.
-- -Weight increase.
-- -Increased sweating.
-- -Sleepiness.
-- -Blurred vision, tearing of the eye, eye sensitivity to light.
-- -Sudden coldness with fainting, limpness or collapse.
-- -Difficulty in breathing with wheezing or coughing.
-- -Urticaria.
+- Hypersensitivity reactions.
+- Low blood pressure.
+- Chest pain.
+- Skin reactions (redness and swelling) at the infusion site, rash, itching.
+- High blood pressure, shortness of breath, dizziness, anxiety, sleep disturbances, taste disturbances, trembling, tingling or numbness of the hands or feet, diarrhoea, constipation, abdominal pain, dry mouth.
+- Low counts of white blood cells and blood platelets.
+- Low level of magnesium and potassium in the blood. Your doctor will monitor this and take any necessary measures.
+- Weight increase.
+- Increased sweating.
+- Sleepiness.
+- Blurred vision, tearing of the eye, eye sensitivity to light.
+- Sudden coldness with fainting, limpness or collapse.
+- Difficulty in breathing with wheezing or coughing.
+- Urticaria.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Rare (may affect up to 1 in 1,000 people):
 
-- -Slow heart beat.
-- -Confusion.
-- -Unusual fracture of the thigh bone particularly in patients on long-term treatment for osteoporosis may occur rarely. Contact your doctor if you experience pain, weakness or discomfort in your thigh, hip or groin as this may be an early indication of a possible fracture of the thigh bone.
-- -Interstitial lung disease (inflammation of the tissue around the air sacks of the lungs).
-- -Flu-like symptoms including arthritis and joint swelling.
-- -Painful redness and/or swelling of the eye.
+- Slow heart beat.
+- Confusion.
+- Unusual fracture of the thigh bone particularly in patients on long-term treatment for osteoporosis may occur rarely. Contact your doctor if you experience pain, weakness or discomfort in your thigh, hip or groin as this may be an early indication of a possible fracture of the thigh bone.
+- Interstitial lung disease (inflammation of the tissue around the air sacks of the lungs).
+- Flu-like symptoms including arthritis and joint swelling.
+- Painful redness and/or swelling of the eye.
 
 ## Very rare (may affect up to 1 in 10,000 people):
 
-- -Fainting due to low blood pressure.
-- -Severe bone, joint and/or muscle pain, occasionally incapacitating.
+- Fainting due to low blood pressure.
+- Severe bone, joint and/or muscle pain, occasionally incapacitating.
 
 ## Reporting of side effects
 
@@ -1166,8 +1163,8 @@ Your doctor, pharmacist or nurse knows how to store Zoledronic acid Mylan proper
 
 ## What Zoledronic acid Mylan contains
 
-- -The active substance is zoledronic acid. One vial contains 4 mg zoledronic acid (as monohydrate).
-- -The other ingredients are: sodium citrate, sodium hydroxide, hydrochloric acid and water for injections.
+- The active substance is zoledronic acid. One vial contains 4 mg zoledronic acid (as monohydrate).
+- The other ingredients are: sodium citrate, sodium hydroxide, hydrochloric acid and water for injections.
 
 ## What Zoledronic acid Mylan looks like and contents of the pack
 
@@ -1181,27 +1178,21 @@ Not all pack sizes may be marketed.
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-Manufacturer HIKMA FARMACÊUTICA S.A. Estrada do Rio da Mó , nº 8, 8-A e 8-B Fervença, Terrugem SNT, 2705-906 Portugal
+Manufacturer HIKMA FARMACÊUTICA S.A. Estrada do Rio da Mó , nº 8, 8-A e 8-B Fervença, Terrugem SNT, 2705-906 Portugal VIATRIS SANTE 1 Rue de Turin, 69007 Lyon France STERISCIENCE Sp. z o.o. ul. Daniszewska 10 03-230 Warsawa Poland FALORNI S.r.l Via dei Frilli 25 50019 Sesto Fiorentino (FI) Italy KYMOS S.L. Ronda de Can Fatjó, 7B Parc Tecnologic Del Vallès Cerdanyola Del Vallès 08290 Barcelona Spain For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-VIATRIS SANTE 1 Rue de Turin, 69007 Lyon France
-
-STERISCIENCE Sp. z o.o. ul. Daniszewska 10 03-230 Warsawa Poland
-
-FALORNI S.r.l Via dei Frilli 25 50019 Sesto Fiorentino (FI) Italy
-
-KYMOS S.L. Ronda de Can Fatjó, 7B Parc Tecnologic Del Vallès Cerdanyola Del Vallès 08290 Barcelona Spain
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## België/Belgique/Belgien
 
-Viatris Tél/Tel: + 32 (0)2 658 61 00
+Viatris
+
+Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Виатрис ЕООД Te л : +359 2 44 55 400
+Виатрис ЕООД
+
+Teл: + 359 2 44 55 400
 
 ## Č eská republika
 
@@ -1243,13 +1234,13 @@ V.J. Salomone Pharma Ltd Tel: + 356 21 22 01 74
 
 ## Nederland
 
-Mylan BV
-
-Tel: +31 (0)20 426 3300
+Mylan BV Tel: +31 (0)20 426 3300
 
 ## Norge
 
-Viatris AS Tlf: + 47 66 75 33 00
+Viatris AS
+
+Tlf: + 47 66 75 33 00
 
 ## Österreich
 
@@ -1279,31 +1270,21 @@ Icepharma hf. Sími: +354 540 8000
 
 ## Italia
 
-Viatris Italia S.r.l.
-
-Tel: + 39 (0) 2 612 46921
+Viatris Italia S.r.l. Tel: + 39 (0) 2 612 46921
 
 ## Κύπρος
 
-CPO Pharmaceuticals Limited
-
-Τηλ
-
-: +357 22863100
+CPO Pharmaceuticals Limited Τηλ : +357 22863100
 
 ## Latvija
 
-Viatris SIA
-
-Tel: +371 676 055 80
+Viatris SIA Tel: +371 676 055 80
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
 ## Polska
 
@@ -1313,7 +1294,9 @@ Tel.: +48 22 546 64 00
 
 ## Portugal
 
-Mylan, Lda. Tel: + 351 214 127 200
+Mylan, Lda.
+
+Tel: + 351 214 127 200
 
 ## România
 
@@ -1321,9 +1304,7 @@ BGP Products SRL Tel: +40 372 579 000
 
 ## Slovenija
 
-Viatris d.o.o.
-
-Tel: + 386 1 23 63 180
+Viatris d.o.o. Tel: + 386 1 23 63 180
 
 ## Slovenská republika
 
@@ -1345,7 +1326,7 @@ Viatris AB Tel: +46 (0)8 630 19 00
 
 ## How to prepare and administer Zoledronic acid Mylan
 
-- -To prepare an infusion solution containing 4 mg zoledronic acid, further dilute the concentrate (5 ml) with 100 ml of calcium-free or other divalent cation-free infusion solution. If a lower dose of Zoledronic acid Mylan is required, first withdraw the appropriate volume as indicated below and then dilute it further with 100 ml of infusion solution. To avoid potential incompatibilities, the infusion solution used for dilution must be either sodium chloride 9 mg/ml (0.9%) solution for injection or 5% w/v glucose solution.
+- To prepare an infusion solution containing 4 mg zoledronic acid, further dilute the concentrate (5 ml) with 100 ml of calcium-free or other divalent cation-free infusion solution. If a lower dose of Zoledronic acid Mylan is required, first withdraw the appropriate volume as indicated below and then dilute it further with 100 ml of infusion solution. To avoid potential incompatibilities, the infusion solution used for dilution must be either sodium chloride 9 mg/ml (0.9%) solution for injection or 5% w/v glucose solution.
 
 ## Do not mix Zoledronic acid Mylan concentrate with calcium-containing or other divalent cation-containing solutions such as lactated Ringer's solution.
 
@@ -1353,18 +1334,18 @@ Instructions for preparing reduced doses of Zoledronic acid Mylan:
 
 Withdraw the appropriate volume of the liquid concentrate, as follows:
 
-- -4.4 ml for 3.5 mg dose
-- -4.1 ml for 3.3 mg dose
-- -3.8 ml for 3.0 mg dose
-- -For single use only. Any unused solution should be discarded. Only clear solution free from particles and discolouration should be used. Aseptic techniques must be followed during the preparation of the infusion.
-- -From a microbiological point of view, the diluted solution for infusion should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C-8°C. The refrigerated solution should then be equilibrated to room temperature prior to administration. Chemical and physical in-use stability has been demonstrated for 48 hours at 2°C-8°C and at 25°C after dilution in 100 ml sodium chloride 9 mg/ml (0.9%) solution for injection or 5% w/v glucose solution (minimal concentration: 3 mg/100 ml; maximal concentration: 4 mg/100 ml).
-- -The solution containing zoledronic acid is given as a single 15-minute intravenous infusion in a separate infusion line. The hydration status of patients must be assessed prior to and following administration of Zoledronic acid Mylan to ensure that they are adequately hydrated.
-- -Studies with polyolefin bags (prefilled with sodium chloride 9 mg/ml (0.9%) solution for injection or 5% w/v glucose solution), showed no incompatibility with Zoledronic acid Mylan.
-- -Since no data are available on the compatibility of Zoledronic acid Mylan with other intravenously administered substances, Zoledronic acid Mylan must not be mixed with other medicinal products/substances and should always be given through a separate infusion line.
+- 4.4 ml for 3.5 mg dose
+- 4.1 ml for 3.3 mg dose
+- 3.8 ml for 3.0 mg dose
+- For single use only. Any unused solution should be discarded. Only clear solution free from particles and discolouration should be used. Aseptic techniques must be followed during the preparation of the infusion.
+- From a microbiological point of view, the diluted solution for infusion should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C-8°C. The refrigerated solution should then be equilibrated to room temperature prior to administration. Chemical and physical in-use stability has been demonstrated for 48 hours at 2°C-8°C and at 25°C after dilution in 100 ml sodium chloride 9 mg/ml (0.9%) solution for injection or 5% w/v glucose solution (minimal concentration: 3 mg/100 ml; maximal concentration: 4 mg/100 ml).
+- The solution containing zoledronic acid is given as a single 15-minute intravenous infusion in a separate infusion line. The hydration status of patients must be assessed prior to and following administration of Zoledronic acid Mylan to ensure that they are adequately hydrated.
+- Studies with polyolefin bags (prefilled with sodium chloride 9 mg/ml (0.9%) solution for injection or 5% w/v glucose solution), showed no incompatibility with Zoledronic acid Mylan.
+- Since no data are available on the compatibility of Zoledronic acid Mylan with other intravenously administered substances, Zoledronic acid Mylan must not be mixed with other medicinal products/substances and should always be given through a separate infusion line.
 
 ## How to store Zoledronic acid Mylan
 
-- -Keep Zoledronic acid Mylan out of the sight and reach of children.
-- -Do not use Zoledronic acid Mylan after the expiry date stated on the vial and carton after EXP.
-- -The unopened vial does not require any specific storage conditions.
-- -Storage conditions of the diluted solution are described in the above paragraph (See 'How to prepare and administer Zoledronic acid Mylan').
+- Keep Zoledronic acid Mylan out of the sight and reach of children.
+- Do not use Zoledronic acid Mylan after the expiry date stated on the vial and carton after EXP.
+- The unopened vial does not require any specific storage conditions.
+- Storage conditions of the diluted solution are described in the above paragraph (See 'How to prepare and administer Zoledronic acid Mylan').

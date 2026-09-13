@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 15:18:00
+document_datetime: 2026-09-10 16:06:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/uzpruvo.html
 document_name: uzpruvo.html
 version: success
-processing_time: 0.113601
-conversion_datetime: 2026-05-10 12:47:11.301954
+processing_time: 0.1501703
+conversion_datetime: 2026-09-13 12:30:04.84426
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Uzpruvo
 
@@ -51,7 +51,7 @@ Uzpruvo is a medicine used to treat:
 - active psoriatic arthritis (inflammation of the joints associated with psoriasis) in adults, when the condition has not improved enough with other treatments called disease-modifying anti-rheumatic drugs (DMARDs). Uzpruvo may be used alone or combined with methotrexate (a DMARD);
 - moderately to severely active Crohn's disease (a disease-causing inflammation of the gut) in adults whose condition has not improved enough with other treatments for Crohn's disease or who cannot receive such treatments.
 
-Uzpruvo is a 'biosimilar medicine'. This means that Uzpruvo is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Uzpruvo is Stelara. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Uzpruvo is a 'biosimilar medicine'. This means that Uzpruvo is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Uzpruvo is Stelara.
 
 Uzpruvo contains the active substance ustekinumab.
 
@@ -59,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Uzpruvo used?
+### How is Uzpruvo used?
 
 Uzpruvo can only be obtained with a prescription and should be given under the supervision of a doctor who has experience in diagnosing and treating the diseases that Uzpruvo is used for.
 
@@ -71,11 +71,11 @@ Patients or their caregivers may inject Uzpruvo under the skin once they have be
 
 For more information about using Uzpruvo, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Uzpruvo work?
+### How does Uzpruvo work?
 
 The active substance in Uzpruvo, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to 2 messenger molecules in the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis and Crohn's disease. By blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the disease.
 
-## What benefits of Uzpruvo have been shown in studies?
+### What benefits of Uzpruvo have been shown in studies?
 
 Laboratory studies comparing Uzpruvo with Stelara have shown that the active substance in Uzpruvo is highly similar to that in Stelara in terms of structure, purity and biological activity. Studies have also shown that giving Uzpruvo produces similar levels of the active substance in the body to giving Stelara.
 
@@ -83,7 +83,7 @@ In addition, a study involving 581 people with moderate to severe chronic plaque
 
 Because Uzpruvo is a biosimilar medicine, the studies on effectiveness and safety of ustekinumab carried out with Stelara do not all need to be repeated for Uzpruvo.
 
-## What are the risks associated with Uzpruvo?
+### What are the risks associated with Uzpruvo?
 
 The safety of Uzpruvo has been evaluated, and on the basis of all the studies carried out the side effects of the medicine are considered to be comparable to those of the reference medicine Stelara.
 
@@ -93,19 +93,19 @@ The most common side effects with Uzpruvo (seen in more than 1 in 20 people) are
 
 Uzpruvo must not be used in patients who have an active infection that the doctor considers important.
 
-## Why is Uzpruvo authorised in the EU?
+### Why is Uzpruvo authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Uzpruvo has a highly similar structure, purity and biological activity to Stelara and is distributed in the body in the same way. In addition, a study in patients with moderate to severe plaque psoriasis has shown that the safety and effectiveness of Uzpruvo is equivalent to that of Stelara in this indication.
 
 All these data were considered sufficient to conclude that Uzpruvo will behave in the same way as Stelara in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Stelara, the benefits of Uzpruvo outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Uzpruvo?
+### What measures are being taken to ensure the safe and effective use of Uzpruvo?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Uzpruvo have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Uzpruvo are continuously monitored. Suspected side effects reported with Uzpruvo are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Uzpruvo
+### Other information about Uzpruvo
 
 Uzpruvo received a marketing authorisation valid throughout the EU on 5 January 2024.
 
@@ -119,7 +119,7 @@ English (EN) (136.19 KB - PDF)
 
 [View](/en/documents/overview/uzpruvo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-122)
+[Other languages (22)](#file-language-dropdown-926)
 
 български (BG) (162.23 KB - PDF)
 
@@ -151,7 +151,7 @@ Deutsch (DE) (140.2 KB - PDF)
 
 [View](/de/documents/overview/uzpruvo-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (133.66 KB - PDF)
+eesti (ET) (133.66 KB - PDF)
 
 **First published:** 07/02/2024 **Last updated:** 30/03/2026
 
@@ -181,13 +181,13 @@ italiano (IT) (135.23 KB - PDF)
 
 [View](/it/documents/overview/uzpruvo-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (154.37 KB - PDF)
+latviešu (LV) (154.37 KB - PDF)
 
 **First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/lv/documents/overview/uzpruvo-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (159.2 KB - PDF)
+lietuvių (LT) (159.2 KB - PDF)
 
 **First published:** 07/02/2024 **Last updated:** 30/03/2026
 
@@ -241,7 +241,7 @@ slovenščina (SL) (156.22 KB - PDF)
 
 [View](/sl/documents/overview/uzpruvo-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (133.01 KB - PDF)
+suomi (FI) (133.01 KB - PDF)
 
 **First published:** 07/02/2024 **Last updated:** 30/03/2026
 
@@ -265,167 +265,168 @@ English (EN) (894.47 KB - PDF)
 
 Uzpruvo : EPAR - Product information
 
-English (EN) (1.95 MB - PDF)
+English (EN) (2.3 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/en/documents/product-information/uzpruvo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-284)
+[Other languages (24)](#file-language-dropdown-856)
 
-български (BG) (1.99 MB - PDF)
+български (BG) (2.24 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/bg/documents/product-information/uzpruvo-epar-product-information_bg.pdf)
 
-español (ES) (2.16 MB - PDF)
+español (ES) (2.42 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/es/documents/product-information/uzpruvo-epar-product-information_es.pdf)
 
-čeština (CS) (2.02 MB - PDF)
+čeština (CS) (2.3 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/cs/documents/product-information/uzpruvo-epar-product-information_cs.pdf)
 
-dansk (DA) (2.03 MB - PDF)
+dansk (DA) (2.28 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/da/documents/product-information/uzpruvo-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.92 MB - PDF)
+Deutsch (DE) (2.27 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/de/documents/product-information/uzpruvo-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.21 MB - PDF)
+eesti (ET) (2.77 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/et/documents/product-information/uzpruvo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.08 MB - PDF)
+ελληνικά (EL) (2.38 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/el/documents/product-information/uzpruvo-epar-product-information_el.pdf)
 
-français (FR) (2 MB - PDF)
+français (FR) (2.27 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/fr/documents/product-information/uzpruvo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.01 MB - PDF)
+hrvatski (HR) (2.29 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/hr/documents/product-information/uzpruvo-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.88 MB - PDF)
+italiano (IT) (2.15 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/uzpruvo-epar-product-information_is.pdf)
-
-italiano (IT) (1.92 MB - PDF)
-
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/it/documents/product-information/uzpruvo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.02 MB - PDF)
+latviešu (LV) (2.27 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/lv/documents/product-information/uzpruvo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.11 MB - PDF)
+lietuvių (LT) (2.28 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/lt/documents/product-information/uzpruvo-epar-product-information_lt.pdf)
 
-magyar (HU) (2.05 MB - PDF)
+magyar (HU) (2.39 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/hu/documents/product-information/uzpruvo-epar-product-information_hu.pdf)
 
-Malti (MT) (2.19 MB - PDF)
+Malti (MT) (2.37 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/mt/documents/product-information/uzpruvo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.06 MB - PDF)
+Nederlands (NL) (2.34 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/nl/documents/product-information/uzpruvo-epar-product-information_nl.pdf)
 
-norsk (NO) (1.93 MB - PDF)
+polski (PL) (2.28 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/uzpruvo-epar-product-information_no.pdf)
-
-polski (PL) (2.05 MB - PDF)
-
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/pl/documents/product-information/uzpruvo-epar-product-information_pl.pdf)
 
-português (PT) (1.9 MB - PDF)
+português (PT) (2.2 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/pt/documents/product-information/uzpruvo-epar-product-information_pt.pdf)
 
-română (RO) (2.03 MB - PDF)
+română (RO) (2.36 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/ro/documents/product-information/uzpruvo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.02 MB - PDF)
+slovenčina (SK) (2.31 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/sk/documents/product-information/uzpruvo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.92 MB - PDF)
+slovenščina (SL) (2.2 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/sl/documents/product-information/uzpruvo-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.91 MB - PDF)
+suomi (FI) (2.18 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/fi/documents/product-information/uzpruvo-epar-product-information_fi.pdf)
 
-svenska (SV) (1.91 MB - PDF)
+svenska (SV) (2.22 MB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 07/05/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
 
 [View](/sv/documents/product-information/uzpruvo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000335760
+Íslenska (IS) (2.13 MB - PDF)
 
-10/04/2026
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
+
+[View](/is/documents/product-information/uzpruvo-epar-product-information_is.pdf)
+
+norsk (NO) (2.24 MB - PDF)
+
+**First published:** 07/02/2024 **Last updated:** 10/09/2026
+
+[View](/no/documents/product-information/uzpruvo-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000358156
+
+12/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -443,7 +444,7 @@ English (EN) (64.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-331)
+[Other languages (24)](#file-language-dropdown-85)
 
 български (BG) (57.37 KB - PDF)
 
@@ -475,7 +476,7 @@ Deutsch (DE) (49.17 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (45.54 KB - PDF)
+eesti (ET) (45.54 KB - PDF)
 
 **First published:** 07/02/2024 **Last updated:** 26/03/2025
 
@@ -499,25 +500,19 @@ hrvatski (HR) (63.62 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (47.63 KB - PDF)
-
-**First published:** 07/02/2024 **Last updated:** 26/03/2025
-
-[View](/is/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (46.42 KB - PDF)
 
 **First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/it/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (63.87 KB - PDF)
+latviešu (LV) (63.87 KB - PDF)
 
 **First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/lv/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (65.91 KB - PDF)
+lietuvių (LT) (65.91 KB - PDF)
 
 **First published:** 07/02/2024 **Last updated:** 26/03/2025
 
@@ -540,12 +535,6 @@ Nederlands (NL) (46.84 KB - PDF)
 **First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/nl/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (47.82 KB - PDF)
-
-**First published:** 07/02/2024 **Last updated:** 26/03/2025
-
-[View](/no/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (69.1 KB - PDF)
 
@@ -577,7 +566,7 @@ slovenščina (SL) (54.28 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (45.1 KB - PDF)
+suomi (FI) (45.1 KB - PDF)
 
 **First published:** 07/02/2024 **Last updated:** 26/03/2025
 
@@ -589,30 +578,33 @@ svenska (SV) (47.04 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (47.63 KB - PDF)
+
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
+
+[View](/is/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (47.82 KB - PDF)
+
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
+
+[View](/no/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Uzpruvo
-
-Active substance
-
-ustekinumab
-
-International non-proprietary name (INN) or common name
-
-ustekinumab
-
-Therapeutic area (MeSH)
-
-- Psoriasis
-- Arthritis, Psoriatic
-- Crohn Disease
-- Colitis, Ulcerative
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AC05
+- **Name of medicine**
+    - Uzpruvo
+- **Active substance**
+    - ustekinumab
+- **International non-proprietary name (INN) or common name**
+    - ustekinumab
+- **Therapeutic area (MeSH)**
+        - Psoriasis
+        - Arthritis, Psoriatic
+        - Crohn Disease
+        - Colitis, Ulcerative
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC05
 
 ### Pharmacotherapeutic group
 
@@ -620,37 +612,38 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Plaque psoriasis Uzpruvo is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A). Paediatric plaque psoriasis Uzpruvo is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies. Psoriatic arthritis (PsA) Uzpruvo, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate. Adult Crohn's Disease Uzpruvo is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+Plaque psoriasis  
+Uzpruvo is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A).
 
-Paediatric Crohn's Disease Uzpruvo is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
+Paediatric plaque psoriasis  
+Uzpruvo is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies.
+
+Psoriatic arthritis (PsA)  
+Uzpruvo, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate.
+
+Adult Crohn's Disease  
+Uzpruvo is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+
+Paediatric Crohn's Disease  
+Uzpruvo is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
+
+Ulcerative colitis  
+Uzpruvo is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006101
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Stada Arzneimittel AG
-
-Stadastrasse 2-18
-
-Opinion adopted
-
-09/11/2023
-
-Marketing authorisation issued
-
-05/01/2024
-
-Revision
-
-11
+- **EMA product number**
+    - EMEA/H/C/006101
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Stada Arzneimittel AG Stadastrasse 2-18  D-61118 Bad Vilbel  Germany
+- **Opinion adopted**
+    - 09/11/2023
+- **Marketing authorisation issued**
+    - 05/01/2024
+- **Revision**
+    - 12
 
 ## Assessment history
 
@@ -658,27 +651,27 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
-Uzprovo : EPAR - Procedural steps taken and scientific information after authorisation
+Uzpruvo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (174.98 KB - PDF)
+English (EN) (187.06 KB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 07/05/2026
+**First published:** 11/03/2025 **Last updated:** 10/09/2026
 
-[View](/en/documents/procedural-steps-after/uzprovo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/uzpruvo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-Uzprovo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+Uzpruvo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
 English (EN) (160.65 KB - PDF)
 
 **First published:** 27/06/2024 **Last updated:** 11/03/2025
 
-[View](/en/documents/procedural-steps-after/uzprovo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+[View](/en/documents/procedural-steps-after/uzpruvo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
-Uzprovo : EPAR - Public assessment report
+Uzpruvo : EPAR - Public assessment report
 
 Adopted Reference Number: EMA/549260/2023
 
@@ -686,7 +679,7 @@ English (EN) (4.32 MB - PDF)
 
 **First published:** 07/02/2024
 
-[View](/en/documents/assessment-report/uzprovo-epar-public-assessment-report_en.pdf)
+[View](/en/documents/assessment-report/uzpruvo-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Uzpruvo
 
@@ -706,6 +699,6 @@ English (EN) (151.71 KB - PDF)
 
 **This page was last updated on**
 
-07/05/2026
+10/09/2026
 
 ## Share this page

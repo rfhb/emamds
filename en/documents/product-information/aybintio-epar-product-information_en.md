@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-28 13:26:29
-document_pages: 76
+document_datetime: 2026-09-11 16:42:54
+document_pages: 72
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aybintio-epar-product-information_en.pdf
 document_name: aybintio-epar-product-information_en.pdf
 version: success
-processing_time: 42.2021866
-conversion_datetime: 2026-01-29 11:52:19.100996
+processing_time: 36.9244424
+conversion_datetime: 2026-09-13 12:21:53.381006
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -190,11 +190,9 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## Gastrointestinal (GI) perforations and fistulae (see section 4.8)
 
-Patients may be at an increased risk for the development of gastrointestinal perforation and gall bladder perforation when treated with bevacizumab. Intra-abdominal inflammatory process may be a risk factor for gastrointestinal perforations in patients with metastatic carcinoma of the colon or rectum, therefore, caution should be exercised when treating these patients. Prior radiation is a risk factor for GI perforation in
+Patients may be at an increased risk for the development of gastrointestinal perforation and gall bladder perforation when treated with bevacizumab. Intra-abdominal inflammatory process may be a risk factor for gastrointestinal perforations in patients with metastatic carcinoma of the colon or rectum, therefore, caution should be exercised when treating these patients. Prior radiation is a risk factor for GI perforation in patients treated for persistent, recurrent or metastatic cervical cancer with bevacizumab and all patients with GI perforation had a history of prior radiation. Therapy should be permanently discontinued in patients who develop gastrointestinal perforation.
 
 <div style=\"page-break-after: always\"></div>
-
-patients treated for persistent, recurrent or metastatic cervical cancer with bevacizumab and all patients with GI perforation had a history of prior radiation. Therapy should be permanently discontinued in patients who develop gastrointestinal perforation.
 
 ## GI-vaginal fistulae in study GOG-0240
 
@@ -224,11 +222,9 @@ There have been rare reports of bevacizumab-treated patients developing signs an
 
 ## Proteinuria (see section 4.8)
 
-Patients with a history of hypertension may be at increased risk for the development of proteinuria when treated with bevacizumab. There is evidence suggesting that all Grade (US National Cancer InstituteCommon Terminology Criteria for Adverse Events [NCI-CTCAE v.3]) proteinuria may be related to the
+Patients with a history of hypertension may be at increased risk for the development of proteinuria when treated with bevacizumab. There is evidence suggesting that all Grade (US National Cancer InstituteCommon Terminology Criteria for Adverse Events [NCI-CTCAE v.3]) proteinuria may be related to the dose. Monitoring of proteinuria by dipstick urinalysis is recommended prior to starting and during therapy. Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of patients treated with bevacizumab. Therapy should be permanently discontinued in patients who develop nephrotic syndrome (NCI-CTCAE v.3).
 
 <div style=\"page-break-after: always\"></div>
-
-dose. Monitoring of proteinuria by dipstick urinalysis is recommended prior to starting and during therapy. Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of patients treated with bevacizumab. Therapy should be permanently discontinued in patients who develop nephrotic syndrome (NCI-CTCAE v.3).
 
 ## Arterial thromboembolism (see section 4.8)
 
@@ -332,11 +328,9 @@ Increased rates of severe neutropenia, febrile neutropenia, or infection with or
 
 The safety and efficacy of concomitant administration of radiotherapy and bevacizumab has not been established.
 
-EGFR monoclonal antibodies in combination with bevacizumab chemotherapy regimens No interaction studies have been performed. EGFR monoclonal antibodies should not be administered for the treatment of mCRC in combination with bevacizumab-containing chemotherapy. Results from the randomised phase III studies, PACCE and CAIRO-2, in patients with mCRC suggest that the use of anti-EGFR monoclonal antibodies panitumumab and cetuximab, respectively, in combination with
+EGFR monoclonal antibodies in combination with bevacizumab chemotherapy regimens No interaction studies have been performed. EGFR monoclonal antibodies should not be administered for the treatment of mCRC in combination with bevacizumab-containing chemotherapy. Results from the randomised phase III studies, PACCE and CAIRO-2, in patients with mCRC suggest that the use of anti-EGFR monoclonal antibodies panitumumab and cetuximab, respectively, in combination with bevacizumab plus chemotherapy, is associated with decreased progression-free survival (PFS) and/or overall survival (OS), and with increased toxicity compared with bevacizumab plus chemotherapy alone.
 
 <div style=\"page-break-after: always\"></div>
-
-bevacizumab plus chemotherapy, is associated with decreased progression-free survival (PFS) and/or overall survival (OS), and with increased toxicity compared with bevacizumab plus chemotherapy alone.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -419,10 +413,10 @@ Table 1. Adverse reactions by frequency
 | Nervous system disorders                         | Peripheral sensory neuropathy b , Dysarthria, Headache, Dysguesia                         | Cerebrovascular accident, Syncope, Somnolence                                                                                                     |             | Posterior reversible encephalopath y syndrome a,b,d | Hypertensive encephalopathy a |                                                                                                                          |
 | Eye disorders                                    | Eye disorder, Lacrimation increased                                                       |                                                                                                                                                   |             |                                                     |                               |                                                                                                                          |
 | Cardiac disorders                                |                                                                                           | Congestive heart failure b,d , Supraventricular tachycardia                                                                                       |             |                                                     |                               |                                                                                                                          |
-| Vascular disorders                               | Hypertension b,d , Thromboembolis m(venous) b,d                                           | Thromboembolism (arterial) b,d , Haemorrhage b,d , Deep vein thrombosis                                                                           |             |                                                     |                               | Renal thrombotic microangiopathy a,b , Hyaline occlusive glomerular microangiopathy a , Aneurysms and artery dissections |
+| Vascular disorders                               | Hypertension b,d , Thromboembolis m (venous) b,d                                          | Thromboembolism (arterial) b,d , Haemorrhage b,d , Deep vein thrombosis                                                                           |             |                                                     |                               | Renal thrombotic microangiopathy a,b , Hyaline occlusive glomerular microangiopathy a , Aneurysms and artery dissections |
 | Respiratory, thoracic and mediastinal disorders  | Dyspnoea, Rhinitis Epistaxis Cough                                                        | Pulmonary haemorrhage/ Haemoptysis b,d , Pulmonary embolism, Hypoxia, Dysphonia a                                                                 |             |                                                     |                               | Pulmonary hypertension a , Nasal septum perforation a                                                                    |
 | Gastrointestinal disorders                       | Rectal haemorrhage, Stomatitis, Constipation, Diarrhoea, Nausea, Vomiting, Abdominal pain | Gastrointestinal perforation b,d , Intestinal perforation, Ileus, Intestinal obstruction, Recto-vaginal fistulae d,e , Gastrointestinal disorder, |             |                                                     |                               | Gastrointestinal ulcer a                                                                                                 |
-| Hepatobiliary disorders                          |                                                                                           |                                                                                                                                                   |             |                                                     |                               | Gallbladder perforation a,b                                                                                              |
+| Hepatobiliary disorders                          |                                                                                           | Proctalgia                                                                                                                                        |             |                                                     |                               | Gallbladder perforation a,b                                                                                              |
 | Skin and subcutaneous tissue disorders           | Wound healing complications b,d , Exfoliative dermatitis, Dry skin, Skin discoloration    | Palmar-plantar erythrodysaesthesi a syndrome                                                                                                      |             |                                                     |                               |                                                                                                                          |
 | Musculoskeleta l and connective tissue disorders | Arthralgia, Myalgia                                                                       | Fistula b,d , Muscular weakness, Back pain                                                                                                        |             |                                                     |                               | Osteonecrosis of the jaw a,b , Non-mandibular osteonecrosis a,f                                                          |
 | Renal and urinary disorders                      | Proteinuria b,d                                                                           |                                                                                                                                                   |             |                                                     |                               |                                                                                                                          |
@@ -612,11 +606,9 @@ Patients who have experienced a venous thromboembolic reaction may be at higher 
 
 ## Congestive heart failure (CHF)
 
-In clinical trials with bevacizumab, congestive heart failure (CHF) was observed in all cancer indications studied to date, but occurred predominantly in patients with metastatic breast cancer. In four phase III trials (AVF2119g, E2100, BO17708 and AVF3694g) in patients with metastatic breast cancer CHF Grade 3 (NCI-CTCAE v.3) or higher was reported in up to 3.5% of patients treated with bevacizumab in combination with chemotherapy compared with up to 0.9% in the control arms. For patients in study
+In clinical trials with bevacizumab, congestive heart failure (CHF) was observed in all cancer indications studied to date, but occurred predominantly in patients with metastatic breast cancer. In four phase III trials (AVF2119g, E2100, BO17708 and AVF3694g) in patients with metastatic breast cancer CHF Grade 3 (NCI-CTCAE v.3) or higher was reported in up to 3.5% of patients treated with bevacizumab in combination with chemotherapy compared with up to 0.9% in the control arms. For patients in study AVF3694g who received anthracyclines concomitantly with bevacizumab, the incidences of Grade 3 or higher CHF for the respective bevacizumab and control arms were similar to those in the other studies in metastatic breast cancer: 2.9% in the anthracycline + bevacizumab arm and 0% in the anthracycline + placebo arm. In addition, in study AVF3694g the incidences of all Grade CHF were similar between the anthracycline + bevacizumab (6.2%) and the anthracycline + placebo arms (6.0%).
 
 <div style=\"page-break-after: always\"></div>
-
-AVF3694g who received anthracyclines concomitantly with bevacizumab, the incidences of Grade 3 or higher CHF for the respective bevacizumab and control arms were similar to those in the other studies in metastatic breast cancer: 2.9% in the anthracycline + bevacizumab arm and 0% in the anthracycline + placebo arm. In addition, in study AVF3694g the incidences of all Grade CHF were similar between the anthracycline + bevacizumab (6.2%) and the anthracycline + placebo arms (6.0%).
 
 Most patients who developed CHF during mBC trials showed improved symptoms and/or left ventricular function following appropriate medical therapy.
 
@@ -644,11 +636,9 @@ Decreased neutrophil count, decreased white blood cell count and presence of uri
 
 Across clinical trials, the following Grade 3 and 4 (NCI-CTCAE v.3) laboratory abnormalities occurred in patients treated with bevacizumab with at least a 2% difference compared to the corresponding control groups: hyperglycaemia, decreased haemoglobin, hypokalaemia, hyponatraemia, decreased white blood cell count, increased international normalised ratio (INR).
 
-Clinical trials have shown that transient increases in serum creatinine (ranging between 1.5-1.9 times baseline level), both with and without proteinuria, are associated with the use of bevacizumab. The
+Clinical trials have shown that transient increases in serum creatinine (ranging between 1.5-1.9 times baseline level), both with and without proteinuria, are associated with the use of bevacizumab. The observed increase in serum creatinine was not associated with a higher incidence of clinical manifestations of renal impairment in patients treated with bevacizumab.
 
 <div style=\"page-break-after: always\"></div>
-
-observed increase in serum creatinine was not associated with a higher incidence of clinical manifestations of renal impairment in patients treated with bevacizumab.
 
 ## Other special populations
 
@@ -744,20 +734,19 @@ The efficacy results of bevacizumab in combination with IFL-chemotherapy are dis
 
 Table 4  . Efficacy results for trial AVF2107g
 
-|                           | AVF2107g                    | AVF2107g                    |
-|---------------------------|-----------------------------|-----------------------------|
-|                           | Arm 1 IFL + placebo         | Arm 2 IFL + bevacizumab a   |
-| Number of patients        | 411                         | 402                         |
-| Overall survival          |                             |                             |
-| Median time (months)      | 15.6                        | 20.3                        |
-| 95% CI                    | 14.29 - 16.99               | 18.46 - 24.18               |
-| Hazard ratio b            | 0.660 ( p -value = 0.00004) | 0.660 ( p -value = 0.00004) |
-| Progression-free survival |                             |                             |
-| Median time (months)      | 6.2                         | 10.6                        |
-| Hazard ratio              | 0.54 ( p -value < 0.0001)   | 0.54 ( p -value < 0.0001)   |
-| Overall response rate     |                             |                             |
-| Rate (%)                  | 34.8                        | 44.8                        |
-|                           | ( p -value = 0.0036)        | ( p -value = 0.0036)        |
+|                           | AVF2107g - Arm 1 IFL + placebo   | AVF2107g - Arm 2 IFL + bevacizumab a   |
+|---------------------------|----------------------------------|----------------------------------------|
+| Number of patients        | 411                              | 402                                    |
+| Overall survival          |                                  |                                        |
+| Median time (months)      | 15.6                             | 20.3                                   |
+| 95% CI                    | 14.29 - 16.99                    | 18.46 - 24.18                          |
+| Hazard ratio b            | 0.660 ( p -value = 0.00004)      | 0.660 ( p -value = 0.00004)            |
+| Progression-free survival |                                  |                                        |
+| Median time (months)      | 6.2                              | 10.6                                   |
+| Hazard ratio              | 0.54 ( p -value < 0.0001)        | 0.54 ( p -value < 0.0001)              |
+| Overall response rate     |                                  |                                        |
+| Rate (%)                  | 34.8                             | 44.8                                   |
+|                           | ( p -value = 0.0036)             | ( p -value = 0.0036)                   |
 
 a  5 mg/kg every 2 weeks.
 
@@ -779,26 +768,25 @@ The efficacy data from trials AVF0780g and AVF2192g investigating bevacizumab in
 
 Table 5. Efficacy results for trials AVF0780g and AVF2192g
 
-|                           | AVF0780g   | AVF0780g                | AVF0780g                | AVF2192g          | AVF2192g              |
-|---------------------------|------------|-------------------------|-------------------------|-------------------|-----------------------|
-|                           | 5-FU/FA    | 5-FU/FA + bevacizumab a | 5-FU/FA + bevacizumab b | 5-FU/FA + placebo | 5-FU/FA + bevacizumab |
-| Number of patients        | 36         | 35                      | 33                      | 105               | 104                   |
-| Overall survival          |            |                         |                         |                   |                       |
-| Median time (months)      | 13.6       | 17.7                    | 15.2                    | 12.9              | 16.6                  |
-| 95% CI                    |            |                         |                         | 10.35 - 16.95     | 13.63 - 19.32         |
-| Hazard ratio c            | -          | 0.52                    | 1.01                    |                   | 0.79                  |
-| p -value                  |            | 0.073                   | 0.978                   |                   | 0.16                  |
-| Progression-free survival |            |                         |                         |                   |                       |
-| Median time (months)      | 5.2        | 9.0                     | 7.2                     | 5.5               | 9.2                   |
-| Hazard ratio              |            | 0.44                    | 0.69                    |                   | 0.5                   |
-| p -value                  | -          | 0.0049                  | 0.217                   |                   | 0.0002                |
-| Overall response rate     |            |                         |                         |                   |                       |
-| Rate (percent)            | 16.7       | 40.0                    | 24.2                    | 15.2              | 26                    |
-| 95% CI                    | 7.0 - 33.5 | 24.4 - 57.8             | 11.7 - 42.6             | 9.2 - 23.9        | 18.1 - 35.6           |
-| p -value                  |            | 0.029                   | 0.43                    |                   | 0.055                 |
-| Duration of response      |            |                         |                         |                   |                       |
-| Median time (months)      | NR         | 9.3                     | 5.0                     | 6.8               | 9.2                   |
-| 25-75 percentile (months) | 5.5 - NR   | 6.1 - NR                | 3.8 - 7.8               | 5.59 - 9.17       | 5.88 - 13.01          |
+|                           | AVF0780g - 5-FU/FA   | AVF0780g - 5-FU/FA + bevacizumab a   | AVF0780g - 5-FU/FA + bevacizumab b   | AVF2192g - 5-FU/FA + placebo   | AVF2192g - 5-FU/FA + bevacizumab   |
+|---------------------------|----------------------|--------------------------------------|--------------------------------------|--------------------------------|------------------------------------|
+| Number of patients        | 36                   | 35                                   | 33                                   | 105                            | 104                                |
+| Overall survival          |                      |                                      |                                      |                                |                                    |
+| Median time (months)      | 13.6                 | 17.7                                 | 15.2                                 | 12.9                           | 16.6                               |
+| 95% CI                    |                      |                                      |                                      | 10.35 - 16.95                  | 13.63 - 19.32                      |
+| Hazard ratio c            | -                    | 0.52                                 | 1.01                                 |                                | 0.79                               |
+| p -value                  |                      | 0.073                                | 0.978                                |                                | 0.16                               |
+| Progression-free survival |                      |                                      |                                      |                                |                                    |
+| Median time (months)      | 5.2                  | 9.0                                  | 7.2                                  | 5.5                            | 9.2                                |
+| Hazard ratio              |                      | 0.44                                 | 0.69                                 |                                | 0.5                                |
+| p -value                  | -                    | 0.0049                               | 0.217                                |                                | 0.0002                             |
+| Overall response rate     |                      |                                      |                                      |                                |                                    |
+| Rate (percent)            | 16.7                 | 40.0                                 | 24.2                                 | 15.2                           | 26                                 |
+| 95% CI                    | 7.0 - 33.5           | 24.4 - 57.8                          | 11.7 - 42.6                          | 9.2 - 23.9                     | 18.1 - 35.6                        |
+| p -value                  |                      | 0.029                                | 0.43                                 |                                | 0.055                              |
+| Duration of response      |                      |                                      |                                      |                                |                                    |
+| Median time (months)      | NR                   | 9.3                                  | 5.0                                  | 6.8                            | 9.2                                |
+| 25-75 percentile (months) | 5.5 - NR             | 6.1 - NR                             | 3.8 - 7.8                            | 5.59 - 9.17                    | 5.88 - 13.01                       |
 
 a  5 mg/kg every 2 weeks.
 
@@ -845,7 +833,7 @@ Table 7. Key efficacy results for the superiority analysis (ITT population, tria
 | Secondary endpoints                          |                                       |                                           |           |
 | Median PFS (on treatment)**                  | 7.9                                   | 10.4                                      | < 0.0001  |
 | Hazard ratio (97.5% CI)                      | 0.63 (0.52-0.75)                      | 0.63 (0.52-0.75)                          |           |
-| Overall response rate (invest. assessment)** | 49.2%                                 | 46.5%                                     |           |
+| Overall response rate (invest. assessment)** | 49.2 %                                | 46.5 %                                    |           |
 | Median overall survival*                     | 19.9                                  | 21.2                                      | 0.0769    |
 | Hazard ratio (97.5% CI)                      | 0.89 (0.76-1.03)                      | 0.89 (0.76-1.03)                          |           |
 
@@ -869,20 +857,19 @@ The primary efficacy parameter of the trial was OS, defined as the time from ran
 
 Table 8. Efficacy results for trial E3200
 
-|                           | E3200                      | E3200                      |
-|---------------------------|----------------------------|----------------------------|
-|                           | FOLFOX-4                   | FOLFOX-4 + bevacizumab a   |
-| Number of patients        | 292                        | 293                        |
-| Overall survival          |                            |                            |
-| Median (months)           | 10.8                       | 13.0                       |
-| 95% CI                    | 10.12 - 11.86              | 12.09 - 14.03              |
-| Hazard ratio b            | 0.751 ( p -value = 0.0012) | 0.751 ( p -value = 0.0012) |
-| Progression-free survival |                            |                            |
-| Median (months)           | 4.5                        | 7.5                        |
-| Hazard ratio              | 0.518 ( p -value < 0.0001) | 0.518 ( p -value < 0.0001) |
-| Objective response rate   |                            |                            |
-| Rate                      | 8.6%                       | 22.2%                      |
-|                           | ( p -value < 0.0001)       | ( p -value < 0.0001)       |
+|                           | E3200 - FOLFOX-4           | E3200 - FOLFOX-4 + bevacizumab a   |
+|---------------------------|----------------------------|------------------------------------|
+| Number of patients        | 292                        | 293                                |
+| Overall survival          |                            |                                    |
+| Median (months)           | 10.8                       | 13.0                               |
+| 95% CI                    | 10.12 - 11.86              | 12.09 - 14.03                      |
+| Hazard ratio b            | 0.751 ( p -value = 0.0012) | 0.751 ( p -value = 0.0012)         |
+| Progression-free survival |                            |                                    |
+| Median (months)           | 4.5                        | 7.5                                |
+| Hazard ratio              | 0.518 ( p -value < 0.0001) | 0.518 ( p -value < 0.0001)         |
+| Objective response rate   |                            |                                    |
+| Rate                      | 8.6%                       | 22.2%                              |
+|                           | ( p -value < 0.0001)       | ( p -value < 0.0001)               |
 
 No significant difference was observed in the duration of OS between patients who received bevacizumab monotherapy compared to patients treated with FOLFOX-4. PFS and objective response rate were inferior in the bevacizumab monotherapy arm compared to the FOLFOX-4 arm.
 
@@ -898,20 +885,19 @@ A total of 820 patients were randomised. The addition of bevacizumab to fluoropy
 
 Table 9. Efficacy results for study ML18147 (ITT population)
 
-|                                        | ML18147                                                                        | ML18147                                                                                        |
-|----------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|                                        | fluoropyrimidine/irinotecan or fluoropyrimidine/oxaliplatin based chemotherapy | fluoropyrimidine/irinotecan or fluoropyrimidine/oxaliplatin based chemotherapy + bevacizumab a |
-| Number of patients                     | 410                                                                            | 409                                                                                            |
-| Overall survival                       |                                                                                |                                                                                                |
-| Median (months)                        | 9.8                                                                            | 11.2                                                                                           |
-| Hazard ratio (95% confidence interval) | 0.81 (0.69, 0.94) (p-value = 0.0062)                                           | 0.81 (0.69, 0.94) (p-value = 0.0062)                                                           |
-| Progression-free survival              |                                                                                |                                                                                                |
-| Median (months)                        | 4.1                                                                            | 5.7                                                                                            |
-| Hazard ratio (95% confidence interval) | 0.68 (0.59, 0.78) (p-value < 0.0001)                                           | 0.68 (0.59, 0.78) (p-value < 0.0001)                                                           |
-| Objective response rate (ORR)          |                                                                                |                                                                                                |
-| Patients included in analysis          | 406                                                                            | 404                                                                                            |
-| Rate                                   | 3.9%                                                                           | 5.4%                                                                                           |
-|                                        | (p-value = 0.3113)                                                             | (p-value = 0.3113)                                                                             |
+|                                        | ML18147 - fluoropyrimidine/irinotecan or fluoropyrimidine/oxaliplatin based chemotherapy   | ML18147 - fluoropyrimidine/irinotecan or fluoropyrimidine/oxaliplatin based chemotherapy + bevacizumab a   |
+|----------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Number of patients                     | 410                                                                                        | 409                                                                                                        |
+| Overall survival                       |                                                                                            |                                                                                                            |
+| Median (months)                        | 9.8                                                                                        | 11.2                                                                                                       |
+| Hazard ratio (95% confidence interval) | 0.81 (0.69, 0.94) (p-value = 0.0062)                                                       | 0.81 (0.69, 0.94) (p-value = 0.0062)                                                                       |
+| Progression-free survival              |                                                                                            |                                                                                                            |
+| Median (months)                        | 4.1                                                                                        | 5.7                                                                                                        |
+| Hazard ratio (95% confidence interval) | 0.68 (0.59, 0.78) (p-value < 0.0001)                                                       | 0.68 (0.59, 0.78) (p-value < 0.0001)                                                                       |
+| Objective response rate (ORR)          |                                                                                            |                                                                                                            |
+| Patients included in analysis          | 406                                                                                        | 404                                                                                                        |
+| Rate                                   | 3.9%                                                                                       | 5.4%                                                                                                       |
+|                                        | (p-value = 0.3113)                                                                         | (p-value = 0.3113)                                                                                         |
 
 Statistically significant improvements in PFS were also observed. Objective response rate was low in both treatment arms and the difference was not significant.
 
@@ -926,7 +912,7 @@ Summarised below are PFS results for the individual chemotherapy agents included
 - Study E2100 (paclitaxel)
 - Median PFS increase 5.6 months, HR 0.421 (p &lt; 0.0001, 95% CI 0.343; 0.516)
 
-•
+·
 
 - Study AVF3694g (capecitabine)
 - Median PFS increase 2.9 months, HR 0.69 (p = 0.0002, 95% CI 0.56; 0.84)
@@ -943,8 +929,9 @@ In trial E2100, patients were treated until disease progression. In situations w
 
 Table 10. Trial E2100 efficacy results
 
-| Progression-free survival                             | Progression-free survival                             | Progression-free survival                             | Progression-free survival                             | Progression-free survival                             |
+|                                                       |                                                       |                                                       |                                                       |                                                       |
 |-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| Progression-free survival                             | Progression-free survival                             | Progression-free survival                             | Progression-free survival                             | Progression-free survival                             |
 |                                                       | Investigator assessment*                              | Investigator assessment*                              | IRF assessment                                        | IRF assessment                                        |
 |                                                       | Paclitaxel (n=354)                                    | Paclitaxel/ bevacizumab (n=368)                       | Paclitaxel (n=354)                                    | Paclitaxel/ bevacizumab (n=368)                       |
 | Median PFS (months)                                   | 5.8                                                   | 11.4                                                  | 5.8                                                   | 11.3                                                  |
@@ -953,21 +940,18 @@ Table 10. Trial E2100 efficacy results
 | Response rates (for patients with measurable disease) | Response rates (for patients with measurable disease) | Response rates (for patients with measurable disease) | Response rates (for patients with measurable disease) | Response rates (for patients with measurable disease) |
 |                                                       | Investigator assessment                               | Investigator assessment                               | IRF assessment                                        | IRF assessment                                        |
 |                                                       | Paclitaxel (n=273)                                    | Paclitaxel/ bevacizumab (n=252)                       | Paclitaxel (n=243)                                    | Paclitaxel/ bevacizumab (n=229)                       |
-| %pts with objective response                          | 23.4                                                  | 48.0                                                  | 22.2                                                  | 49.8                                                  |
+| % pts with objective response                         | 23.4                                                  | 48.0                                                  | 22.2                                                  | 49.8                                                  |
 | p -value                                              | < 0.0001                                              | < 0.0001                                              | < 0.0001                                              | < 0.0001                                              |
 
-* primary analysis
+* primary analysis The clinical benefit of bevacizumab as measured by PFS was seen in all pre-specified subgroups tested (including disease-free interval, number of metastatic sites, prior receipt of adjuvant chemotherapy and oestrogen receptor (ER) status).
 
-| Overall survival   | Overall survival     | Overall survival                |
-|--------------------|----------------------|---------------------------------|
-|                    | Paclitaxel (n=354)   | Paclitaxel/ bevacizumab (n=368) |
-| Median OS (months) | 24.8                 | 26.5                            |
-| HR (95% CI)        | 0.869 (0.722; 1.046) | 0.869 (0.722; 1.046)            |
-| p -value           | 0.1374               | 0.1374                          |
+| Overall survival   | Overall survival - Paclitaxel (n=354)   | Overall survival - Paclitaxel/ bevacizumab (n=368)   |
+|--------------------|-----------------------------------------|------------------------------------------------------|
+| Median OS (months) | 24.8                                    | 26.5                                                 |
+| HR (95% CI)        | 0.869 (0.722; 1.046)                    | 0.869 (0.722; 1.046)                                 |
+| p -value           | 0.1374                                  | 0.1374                                               |
 
 <div style=\"page-break-after: always\"></div>
-
-The clinical benefit of bevacizumab as measured by PFS was seen in all pre-specified subgroups tested (including disease-free interval, number of metastatic sites, prior receipt of adjuvant chemotherapy and oestrogen receptor (ER) status).
 
 ## AVF3694g
 
@@ -985,8 +969,9 @@ The results of this study from the final protocol defined analyses for PFS and r
 
 Table 11. Efficacy results for study AVF3694g: - Capecitabine a  and bevacizumab/Placebo (Cap + bevacizumab/Pl)
 
-| Progression-free survival b                            | Progression-free survival b                            | Progression-free survival b                            | Progression-free survival b                            | Progression-free survival b                            |
+|                                                        |                                                        |                                                        |                                                        |                                                        |
 |--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| Progression-free survival b                            | Progression-free survival b                            | Progression-free survival b                            | Progression-free survival b                            | Progression-free survival b                            |
 |                                                        | Investigator assessment                                | Investigator assessment                                | IRC assessment                                         | IRC assessment                                         |
 |                                                        | Cap + Pl (n=206)                                       | Cap + bevacizumab (n=409)                              | Cap + Pl (n=206)                                       | Cap + bevacizumab (n=409)                              |
 | Median PFS (months)                                    | 5.7                                                    | 8.6                                                    | 6.2                                                    | 9.8                                                    |
@@ -994,7 +979,7 @@ Table 11. Efficacy results for study AVF3694g: - Capecitabine a  and bevacizumab
 | p-value                                                | 0.0002                                                 | 0.0002                                                 | 0.0011                                                 | 0.0011                                                 |
 | Response rate (for patients with measurable disease) b | Response rate (for patients with measurable disease) b | Response rate (for patients with measurable disease) b | Response rate (for patients with measurable disease) b | Response rate (for patients with measurable disease) b |
 |                                                        | Cap + Pl (n=161)                                       | Cap + Pl (n=161)                                       | Cap + bevacizumab (n=325)                              | Cap + bevacizumab (n=325)                              |
-| %pts with objective response                           | 23.6                                                   | 23.6                                                   | 35.4                                                   | 35.4                                                   |
+| % pts with objective response                          | 23.6                                                   | 23.6                                                   | 35.4                                                   | 35.4                                                   |
 | p-value                                                | 0.0097                                                 | 0.0097                                                 | 0.0097                                                 | 0.0097                                                 |
 | Overall survival b                                     | Overall survival b                                     | Overall survival b                                     | Overall survival b                                     | Overall survival b                                     |
 | HR (95% CI)                                            | 0.88 (0.69; 1.13)                                      | 0.88 (0.69; 1.13)                                      | 0.88 (0.69; 1.13)                                      | 0.88 (0.69; 1.13)                                      |
@@ -1056,9 +1041,9 @@ Table 13. Efficacy results for trial BO17704
 
 a Patients with measurable disease at baseline
 
-| Overall survival   | Overall survival   | Overall survival   | Overall survival   |
+| Overall survival   |   Overall survival | Overall survival   | Overall survival   |
 |--------------------|--------------------|--------------------|--------------------|
-| Median (months)    | 13.1               | 13.6 (p=0.4203)    | 13.4 (p=0.7613)    |
+| Median (months)    |               13.1 | 13.6 (p=0.4203)    | 13.4 (p=0.7613)    |
 | Hazard ratio       |                    | 0.93 [0.78; 1.11]  | 1.03 [0.86; 1.23]  |
 
 First-line treatment of non-squamous NSCLC with EGFR activating mutations in combination with erlotinib
@@ -1113,14 +1098,13 @@ The efficacy results are presented in Table 15.
 
 Table 15. Efficacy results for trial BO17705
 
-|                                                                                 | BO17705                                | BO17705              |
-|---------------------------------------------------------------------------------|----------------------------------------|----------------------|
-|                                                                                 | Placebo + IFN a                        | BV b + IFN a         |
-| Number of patients                                                              | 322                                    | 327                  |
-| Progression-free survival Median (months) Hazard ratio 95% CI                   | 5.4 0.63 0.52, 0.75 (p-value < 0.0001) | 10.2                 |
-| Objective response rate (%) in Patients with measurable disease N Response rate | 289 12.8%                              | 306 31.4%            |
-| a Interferon alfa-2a 9 MIU 3x/week b Bevacizumab 10 mg/kg q 2 wk                | ( p -value < 0.0001)                   | ( p -value < 0.0001) |
-| Overall survival Median (months)                                                | 21.3                                   | 23.3                 |
+|                                                                                 | BO17705 - Placebo + IFN a               | BO17705 - BV b + IFN a   |
+|---------------------------------------------------------------------------------|-----------------------------------------|--------------------------|
+| Number of patients                                                              | 322                                     | 327                      |
+| Progression-free survival Median (months) Hazard ratio 95% CI                   | 5.4 0.63 0.52, 0.75 (p-value < 0.0001)  | 10.2                     |
+| Objective response rate (%) in Patients with measurable disease N Response rate | 289 12.8%                               | 306 31.4%                |
+| a Interferon alfa-2a 9 MIU 3x/week b Bevacizumab 10 mg/kg q 2 wk                | ( p -value < 0.0001)                    | ( p -value < 0.0001)     |
+| Overall survival Median (months) Hazard ratio 95% CI                            | 21.3 0.91 0.76, 1.10 ( p -value 0.3360) | 23.3                     |
 
 An exploratory multivariate Cox regression model using backward selection indicated that the following baseline prognostic factors were strongly associated with survival independent of treatment: gender, white blood cell count, platelets, body weight loss in the 6 months prior to trial entry, number of metastatic sites, sum of longest diameter of target lesions, Motzer score. Adjustment for these baseline factors resulted in a treatment hazard ratio of 0.78 (95% CI [0.63; 0.96], p=0.0219), indicating a 22% reduction in the risk of death for patients in the bevacizumab + IFN alfa-2a arm compared to IFN alfa-2a arm.
 
@@ -1174,7 +1158,7 @@ Table 16. Efficacy results from study GOG-0218
 |----------------------------------------------------------|-------------------------------|-----------------------------------------------|--------------------------------------------------|
 | Median PFS (months) Hazard ratio (95% CI) 2 p-value 3, 4 | CPP (n = 625) 10.6            | CPB15 (n = 625) 11.6 0.89 (0.78, 1.02) 0.0437 | CPB15+ (n = 623) 14.7 0.70 (0.61, 0.81) < 0.0001 |
 | Objective response rate 5                                | Objective response rate 5     | Objective response rate 5                     | Objective response rate 5                        |
-| %pts with objective response p-value                     | CPP (n = 396) 63.4            | CPB15 (n = 393) 66.2 0.2341                   | CPB15 + (n = 403) 66.0 0.2041                    |
+| % pts with objective response p-value                    | CPP (n = 396) 63.4            | CPB15 (n = 393) 66.2 0.2341                   | CPB15 + (n = 403) 66.0 0.2041                    |
 | Overall survival 6                                       | Overall survival 6            | Overall survival 6                            | Overall survival 6                               |
 | Median OS (months) Hazard ratio (95% CI) 2 p -value 3    | CPP (n = 625) 40.6            | CPB15 (n = 625) 38.8 1.07 (0.91, 1.25) 0.2197 | CPB15 + (n = 623) 43.8 0.88 (0.75, 1.04) 0.0641  |
 
@@ -1190,13 +1174,12 @@ PFS subgroup analyses by disease stage and debulking status are summarised in Ta
 
 Table 17. PFS 1  results by disease stage and debulking status from study GOG-0218
 
-| Randomised patients stage III optimally debulked disease 2,3       | Randomised patients stage III optimally debulked disease 2,3       | Randomised patients stage III optimally debulked disease 2,3       | Randomised patients stage III optimally debulked disease 2,3       |
-|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
-| Median PFS (months) Hazard ratio (95% CI) 4                        | CPP (n = 219) 12.4                                                 | CPB15 (n = 204) 14.3 0.81 (0.62, 1.05)                             | CPB15+ (n = 216) 17.5 0.66 (0.50, 0.86)                            |
-| Randomised patients with stage III suboptimally debulked disease 3 | Randomised patients with stage III suboptimally debulked disease 3 | Randomised patients with stage III suboptimally debulked disease 3 | Randomised patients with stage III suboptimally debulked disease 3 |
-| Median PFS (months) Hazard ratio (95% CI) 4                        | CPP (n = 253) 10.1                                                 | CPB15 (n = 256) 10.9 0.93 (0.77, 1.14)                             | CPB15+ (n = 242) 13.9 0.78 (0.63, 0.96)                            |
-| Randomised patients with stage IV disease                          | Randomised patients with stage IV disease                          | Randomised patients with stage IV disease                          | Randomised patients with stage IV disease                          |
-| Median PFS (months) Hazard Ratio (95% CI) 4                        | CPP (n = 153) 9.5                                                  | CPB15 (n = 165) 10.4 0.90 (0.70, 1.16)                             | CPB15+ (n = 165) 12.8 0.64 (0.49, 0.82)                            |
+| Randomised patients stage III optimally debulked disease 2,3 - Median PFS (months) Hazard ratio (95% CI) 4   | Randomised patients stage III optimally debulked disease 2,3 - CPP (n = 219) 12.4   | Randomised patients stage III optimally debulked disease 2,3 - CPB15 (n = 204) 14.3 0.81 (0.62, 1.05)   | Randomised patients stage III optimally debulked disease 2,3 - CPB15+ (n = 216) 17.5 0.66 (0.50, 0.86)   |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Randomised patients with stage III suboptimally debulked disease 3                                           | Randomised patients with stage III suboptimally debulked disease 3                  | Randomised patients with stage III suboptimally debulked disease 3                                      | Randomised patients with stage III suboptimally debulked disease 3                                       |
+| Median PFS (months) Hazard ratio (95% CI) 4                                                                  | CPP (n = 253) 10.1                                                                  | CPB15 (n = 256) 10.9 0.93 (0.77, 1.14)                                                                  | CPB15+ (n = 242) 13.9 0.78 (0.63, 0.96)                                                                  |
+| Randomised patients with stage IV disease                                                                    | Randomised patients with stage IV disease                                           | Randomised patients with stage IV disease                                                               | Randomised patients with stage IV disease                                                                |
+| Median PFS (months) Hazard Ratio (95% CI) 4                                                                  | CPP (n = 153) 9.5                                                                   | CPB15 (n = 165) 10.4 0.90 (0.70, 1.16)                                                                  | CPB15+ (n = 165) 12.8 0.64 (0.49, 0.82)                                                                  |
 
 1  Investigator assessed GOG protocol-specified PFS analysis (neither censored for CA-125 progressions nor censored for NPT prior to disease progression) with data cut-off date of 25 February, 2010
 
@@ -1221,33 +1204,16 @@ The majority of patients included in the study were White (96%), the median age 
 
 The primary endpoint was PFS as assessed by the investigator using RECIST.
 
-The trial met its primary objective of PFS improvement. Compared to patients treated with chemotherapy (carboplatin and paclitaxel) alone in the front-line setting, patients who received
+The trial met its primary objective of PFS improvement. Compared to patients treated with chemotherapy (carboplatin and paclitaxel) alone in the front-line setting, patients who received bevacizumab at a dose of 7.5 mg/kg q3w in combination with chemotherapy and continued to receive bevacizumab for up to 18 cycles had a statistically significant improvement in PFS.
 
 <div style=\"page-break-after: always\"></div>
-
-bevacizumab at a dose of 7.5 mg/kg q3w in combination with chemotherapy and continued to receive bevacizumab for up to 18 cycles had a statistically significant improvement in PFS.
 
 The results of this study are summarised in Table 18.
 
 Table 18. Efficacy results from study BO17707 (ICON7)
 
-| Progression-free survival   | Progression-free survival            | Progression-free survival            |
-|-----------------------------|--------------------------------------|--------------------------------------|
-| Median PFS (months) 2 2     | CP (n = 764) 16.9                    | CPB7.5+ (n =764) 19.3                |
-| Objective response rate 1   | 0.86 [0.75; 0.98] (p-value = 0.0185) | 0.86 [0.75; 0.98] (p-value = 0.0185) |
-| Hazard ratio [95% CI]       |                                      |                                      |
-|                             |                                      | 64.7%                                |
-| Response rate               | 54.9%                                |                                      |
-|                             | (p-value = 0.0188)                   | (p-value = 0.0188)                   |
-| Overall survival 3          |                                      |                                      |
-|                             | CP                                   | CPB7.5+ (n = 764)                    |
-|                             | (n = 764)                            |                                      |
-|                             | 58.0                                 |                                      |
-| Hazard ratio [95% CI]       |                                      |                                      |
-|                             | (p-value = 0.8910)                   | (p-value = 0.8910)                   |
-|                             | 0.99 [0.85; 1.15]                    | 0.99 [0.85; 1.15]                    |
-|                             | 57.4                                 | 57.4                                 |
-| Median (months)             |                                      |                                      |
+| Progression-free survival - Median PFS (months) 2 2 - Objective response rate 1 - Hazard ratio [95% CI] - Response rate - Overall survival 3 - Hazard ratio [95% CI] - Median (months)   | Progression-free survival - CP (n = 764) 16.9 - 0.86 [0.75; 0.98] (p-value = 0.0185) CP - (n = 277) - 54.9% - (p-value = 0.0188) - CP - (n = 764) - 58.0 - (p-value = 0.8910) - 0.99 [0.85; 1.15] - 57.4   | Progression-free survival - CPB7.5+ (n =764) 19.3 - CPB7.5+ - (n =272) 64.7% - (p-value = 0.0188) - CPB7.5+ (n = 764) - (p-value = 0.8910) - 0.99 [0.85; 1.15] - 57.4   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 The primary analysis of investigator-assessed PFS with a data cut-off date of 28 February 2010 shows an unstratified hazard ratio of 0.79 (95% CI: 0.68-0.91, 2-sided log-rank p-value 0.0010) with a median PFS of 16.0 months in the CP arm and 18.3 months in the CPB7.5+ arm.
 
@@ -1257,13 +1223,12 @@ PFS subgroup analyses by disease stage and debulking status are summarised in Ta
 
 Table 19. PFS 1  results by disease stage and debulking status from study BO17707 (ICON7)
 
-| Randomised patients with stage III optimally debulked disease 2,3   | Randomised patients with stage III optimally debulked disease 2,3   | Randomised patients with stage III optimally debulked disease 2,3   |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| Median PFS (months) Hazard ratio (95% CI) 4                         | CP (n = 368) 17.7                                                   | CPB7.5+ (n = 383) 19.3 0.89 (0.74, 1.07)                            |
-| Randomised patients with stage III suboptimally debulked disease 3  | Randomised patients with stage III suboptimally debulked disease 3  | Randomised patients with stage III suboptimally debulked disease 3  |
-| Median PFS (months) Hazard ratio (95% CI) 4                         | CP (n = 154) 10.1                                                   | CPB7.5+ (n = 140) 16.9 0.67 (0.52, 0.87)                            |
-| Randomised patients with stage IV disease                           | Randomised patients with stage IV disease                           | Randomised patients with stage IV disease                           |
-| Median PFS (months) Hazard ratio (95% CI) 4                         | CP (n = 97) 10.1                                                    | CPB7.5+ (n = 104) 13.5 0.74 (0.55, 1.01)                            |
+| Randomised patients with stage III optimally debulked disease 2,3 - Median PFS (months) Hazard ratio (95% CI) 4   | Randomised patients with stage III optimally debulked disease 2,3 - CP (n = 368) 17.7   | Randomised patients with stage III optimally debulked disease 2,3 - CPB7.5+ (n = 383) 19.3 0.89 (0.74, 1.07)   |
+|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| Randomised patients with stage III suboptimally debulked disease 3                                                | Randomised patients with stage III suboptimally debulked disease 3                      | Randomised patients with stage III suboptimally debulked disease 3                                             |
+| Median PFS (months) Hazard ratio (95% CI) 4                                                                       | CP (n = 154) 10.1                                                                       | CPB7.5+ (n = 140) 16.9 0.67 (0.52, 0.87)                                                                       |
+| Randomised patients with stage IV disease                                                                         | Randomised patients with stage IV disease                                               | Randomised patients with stage IV disease                                                                      |
+| Median PFS (months) Hazard ratio (95% CI) 4                                                                       | CP (n = 97) 10.1                                                                        | CPB7.5+ (n = 104) 13.5 0.74 (0.55, 1.01)                                                                       |
 
 ## Recurrent ovarian cancer
 
@@ -1293,28 +1258,29 @@ The results of this study are summarised in Table 20.
 
 Table 20. Efficacy results from study AVF4095g
 
-| Progression-free survival    | Progression-free survival   | Progression-free survival   | Progression-free survival   | Progression-free survival   |
-|------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
-|                              | Investigator assessment     | Investigator assessment     | IRC assessment              | IRC assessment              |
-|                              | Placebo+ C/G (n=242)        | Bevacizumab + C/G (n=242)   | Placebo+ C/G (n=242)        | Bevacizumab + C/G (n=242)   |
-| Not censored for NPT         |                             |                             |                             |                             |
-| Median PFS (months)          | 8.4                         | 12.4                        | 8.6                         | 12.3                        |
-| Hazard ratio (95% CI)        | 0.524 [0.425, 0.645]        | 0.524 [0.425, 0.645]        | 0.480 [0.377, 0.613]        | 0.480 [0.377, 0.613]        |
-| p -value                     | < 0.0001                    | < 0.0001                    | < 0.0001                    | < 0.0001                    |
-| Censored for NPT             |                             |                             |                             |                             |
-| Median PFS (months)          | 8.4                         | 12.4                        | 8.6                         | 12.3                        |
-| Hazard ratio (95% CI)        | 0.484 [0.388, 0.605]        | 0.484 [0.388, 0.605]        | 0.451 [0.351, 0.580]        | 0.451 [0.351, 0.580]        |
-| p -value                     | < 0.0001                    | < 0.0001                    | < 0.0001                    | < 0.0001                    |
-| Objective response rate      | Objective response rate     | Objective response rate     | Objective response rate     | Objective response rate     |
-|                              | Investigator assessment     | Investigator assessment     | IRC assessment              | IRC assessment              |
-|                              | Placebo+ C/G (n = 242)      | Bevacizumab + C/G (n = 242) | Placebo+ C/G (n = 242)      | Bevacizumab + C/G (n = 242) |
-| %pts with objective response | 57.4%                       | 78.5%                       | 53.7%                       | 74.8%                       |
-| p -value                     | < 0.0001                    | < 0.0001                    | < 0.0001                    | < 0.0001                    |
-| Overall survival             | Overall survival            | Overall survival            | Overall survival            | Overall survival            |
-|                              | Placebo+ C/G (n = 242)      | Placebo+ C/G (n = 242)      | Bevacizumab + C/G (n = 242) | Bevacizumab + C/G (n = 242) |
-| Median OS (months)           | 32.9                        | 32.9                        | 33.6                        | 33.6                        |
-| Hazard ratio (95% CI)        | 0.952 [0.771, 1.176]        | 0.952 [0.771, 1.176]        | 0.952 [0.771, 1.176]        | 0.952 [0.771, 1.176]        |
-| p-value                      | 0.6479                      | 0.6479                      | 0.6479                      | 0.6479                      |
+|                               |                           |                             |                             |                             |
+|-------------------------------|---------------------------|-----------------------------|-----------------------------|-----------------------------|
+| Progression-free survival     | Progression-free survival | Progression-free survival   | Progression-free survival   | Progression-free survival   |
+|                               | Investigator assessment   | Investigator assessment     | IRC assessment              | IRC assessment              |
+|                               | Placebo+ C/G (n=242)      | Bevacizumab + C/G (n=242)   | Placebo+ C/G (n=242)        | Bevacizumab + C/G (n=242)   |
+| Not censored for NPT          |                           |                             |                             |                             |
+| Median PFS (months)           | 8.4                       | 12.4                        | 8.6                         | 12.3                        |
+| Hazard ratio (95% CI)         | 0.524 [0.425, 0.645]      | 0.524 [0.425, 0.645]        | 0.480 [0.377, 0.613]        | 0.480 [0.377, 0.613]        |
+| p -value                      | < 0.0001                  | < 0.0001                    | < 0.0001                    | < 0.0001                    |
+| Censored for NPT              |                           |                             |                             |                             |
+| Median PFS (months)           | 8.4                       | 12.4                        | 8.6                         | 12.3                        |
+| Hazard ratio (95% CI)         | 0.484 [0.388, 0.605]      | 0.484 [0.388, 0.605]        | 0.451 [0.351, 0.580]        | 0.451 [0.351, 0.580]        |
+| p -value                      | < 0.0001                  | < 0.0001                    | < 0.0001                    | < 0.0001                    |
+| Objective response rate       | Objective response rate   | Objective response rate     | Objective response rate     | Objective response rate     |
+|                               | Investigator assessment   | Investigator assessment     | IRC assessment              | IRC assessment              |
+|                               | Placebo+ C/G (n = 242)    | Bevacizumab + C/G (n = 242) | Placebo+ C/G (n = 242)      | Bevacizumab + C/G (n = 242) |
+| % pts with objective response | 57.4%                     | 78.5%                       | 53.7%                       | 74.8%                       |
+| p -value                      | < 0.0001                  | < 0.0001                    | < 0.0001                    | < 0.0001                    |
+| Overall survival              | Overall survival          | Overall survival            | Overall survival            | Overall survival            |
+|                               | Placebo+ C/G (n = 242)    | Placebo+ C/G (n = 242)      | Bevacizumab + C/G (n = 242) | Bevacizumab + C/G (n = 242) |
+| Median OS (months)            | 32.9                      | 32.9                        | 33.6                        | 33.6                        |
+| Hazard ratio (95% CI)         | 0.952 [0.771, 1.176]      | 0.952 [0.771, 1.176]        | 0.952 [0.771, 1.176]        | 0.952 [0.771, 1.176]        |
+| p-value                       | 0.6479                    | 0.6479                      | 0.6479                      | 0.6479                      |
 
 PFS subgroup analyses depending on recurrence since last platinum therapy are summarised in Table 21.
 
@@ -1390,8 +1356,9 @@ The primary endpoint was PFS, with secondary endpoints including objective respo
 
 Table 23. Efficacy results from study MO22224
 
-| Primary endpoint                     | Primary endpoint           | Primary endpoint           |
+|                                      |                            |                            |
 |--------------------------------------|----------------------------|----------------------------|
+| Primary endpoint                     | Primary endpoint           | Primary endpoint           |
 | Progression-free survival*           | Progression-free survival* | Progression-free survival* |
 |                                      | CT (n=182)                 | CT+BV (n=179)              |
 | Median (months)                      | 3.4                        | 6.7                        |
@@ -1400,7 +1367,7 @@ Table 23. Efficacy results from study MO22224
 | Secondary endpoints                  |                            |                            |
 | Objective response rate**            |                            |                            |
 |                                      | CT (n=144)                 | CT+BV (n=142)              |
-| %patients with objective response    | 18 (12.5%)                 | 40 (28.2%)                 |
+| % patients with objective response   | 18 (12.5%)                 | 40 (28.2%)                 |
 | p -value                             | 0.0007                     | 0.0007                     |
 | Overall survival (final analysis)*** |                            |                            |
 |                                      | CT (n=182)                 | CT+BV (n=179)              |
@@ -1457,7 +1424,7 @@ The primary efficacy endpoint was OS. Secondary efficacy endpoints included PFS 
 
 Table 25. Efficacy results from study GOG-0240 by bevacizumab treatment
 
-|                                                | Chemotherapy (n=225)                     | Chemotherapy+ bevacizumab (n=227)        |
+|                                                | Chemotherapy (n=225)                     | Chemotherapy + bevacizumab (n=227)       |
 |------------------------------------------------|------------------------------------------|------------------------------------------|
 | Primary endpoint                               | Primary endpoint                         | Primary endpoint                         |
 | Overall survival - primary analysis 6          |                                          |                                          |
@@ -1490,10 +1457,10 @@ Table 26. Overall survival results from study GOG-0240 by Trial Treatment
 
 | Treatment Comparison                              | Other Factor          | Overall survival - Primary analysis 1 Hazard ratio (95% CI)   | Overall survival - Follow-up analysis 2 Hazard ratio (95% CI)   |
 |---------------------------------------------------|-----------------------|---------------------------------------------------------------|-----------------------------------------------------------------|
-| Bevacizumab vs. No bevacizumab                    | Cisplatin+ Paclitaxel | 0.72 (0.51, 1.02) (17.5 vs.14.3 months; p= 0.0609)            | 0.75 (0.55, 1.01) (17.5 vs.15.0 months; p = 0.0584)             |
-| Bevacizumab vs. No bevacizumab                    | Topotecan+ Paclitaxel | 0.76 (0.55, 1.06) (14.9 vs. 11.9 months; p= 0.1061)           | 0.79 (0.59, 1.07) (16.2 vs. 12.0 months; p = 0.1342)            |
-| Topotecan + Paclitaxel vs. Cisplatin + Paclitaxel | Bevacizumab           | 1.15 (0.82, 1.61) (14.9 vs. 17.5 months; p= 0.4146)           | 1.15 (0.85, 1.56) (16.2 vs 17.5 months; p = 0.3769)             |
-| Topotecan + Paclitaxel vs. Cisplatin + Paclitaxel | No bevacizumab        | 1.13 (0.81, 1.57) (11.9 vs.14.3 months; p= 0.4825)            | 1.08 (0.80, 1.45) (12.0 vs 15.0 months; p = 0.6267)             |
+| Bevacizumab vs. No bevacizumab                    | Cisplatin+ Paclitaxel | 0.72 (0.51, 1.02) (17.5 vs.14.3 months; p = 0.0609)           | 0.75 (0.55, 1.01) (17.5 vs.15.0 months; p = 0.0584)             |
+| Bevacizumab vs. No bevacizumab                    | Topotecan+ Paclitaxel | 0.76 (0.55, 1.06) (14.9 vs. 11.9 months; p = 0.1061)          | 0.79 (0.59, 1.07) (16.2 vs. 12.0 months; p = 0.1342)            |
+| Topotecan + Paclitaxel vs. Cisplatin + Paclitaxel | Bevacizumab           | 1.15 (0.82, 1.61) (14.9 vs. 17.5 months; p = 0.4146)          | 1.15 (0.85, 1.56) (16.2 vs 17.5 months; p = 0.3769)             |
+| Topotecan + Paclitaxel vs. Cisplatin + Paclitaxel | No bevacizumab        | 1.13 (0.81, 1.57) (11.9 vs.14.3 months; p = 0.4825)           | 1.08 (0.80, 1.45) (12.0 vs 15.0 months; p = 0.6267)             |
 
 1 Primary analysis was performed with a data cut-off date of 12 December 2012 and is considered the final analysis
 
@@ -1509,11 +1476,9 @@ Anti-tumour activity was not observed in two earlier studies among a total of 30
 
 In a single-arm study (PBTC-022), 18 children with recurrent or progressive non-pontine high-grade glioma (including 8 with glioblastoma [WHO Grade IV], 9 with anaplastic astrocytoma [Grade III] and 1 with anaplastic oligodendroglioma [Grade III]) were treated with bevacizumab (10 mg/kg) two weeks apart and then with bevacizumab in combination with CPT-11 (125-350 mg/m² ) once every two weeks until progression. There were no objective (partial or complete) radiological responses (MacDonald criteria). Toxicity and adverse reactions included arterial hypertension and fatigue as well as CNS ischaemia with acute neurological deficit.
 
-In a retrospective single institution series, 12 consecutive (2005 to 2008) children with relapsed or progressive high-grade glioma (3 with WHO Grade IV, 9 with Grade III) were treated with
+In a retrospective single institution series, 12 consecutive (2005 to 2008) children with relapsed or progressive high-grade glioma (3 with WHO Grade IV, 9 with Grade III) were treated with bevacizumab (10 mg/kg) and irinotecan (125 mg/m² ) every 2 weeks. There were no complete responses and 2 partial responses (MacDonald criteria).
 
 <div style=\"page-break-after: always\"></div>
-
-bevacizumab (10 mg/kg) and irinotecan (125 mg/m² ) every 2 weeks. There were no complete responses and 2 partial responses (MacDonald criteria).
 
 In a randomised phase II study (BO25041) a total of 121 patients aged ≥ 3 years to &lt;18 years with newly diagnosed supratentorial or infratentorial cerebellar or peduncular high-grade glioma (HGG) were treated with post operative radiation therapy (RT) and adjuvant temozolomide (T) with and without bevacizumab: 10 mg/kg every 2 weeks intravenously.
 
@@ -1571,11 +1536,9 @@ The pharmacokinetics of bevacizumab was well characterised by the paediatric pop
 
 ## 5.3 Preclinical safety data
 
-In studies of up to 26 weeks duration in cynomolgus monkeys, physeal dysplasia was observed in young animals with open growth plates, at bevacizumab average serum concentrations below the
+In studies of up to 26 weeks duration in cynomolgus monkeys, physeal dysplasia was observed in young animals with open growth plates, at bevacizumab average serum concentrations below the expected human therapeutic average serum concentrations. In rabbits, bevacizumab was shown to inhibit wound healing at doses below the proposed clinical dose. Effects on wound healing were shown to be fully reversible.
 
 <div style=\"page-break-after: always\"></div>
-
-expected human therapeutic average serum concentrations. In rabbits, bevacizumab was shown to inhibit wound healing at doses below the proposed clinical dose. Effects on wound healing were shown to be fully reversible.
 
 Studies to evaluate the mutagenic and carcinogenic potential of bevacizumab have not been performed.
 
@@ -1912,16 +1875,14 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| VIAL                                                            |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aybintio 25 mg/ml sterile concentrate bevacizumab IV after dilution
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1933,8 +1894,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 400 mg/16 ml
 
@@ -1955,9 +1916,9 @@ Lot
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1984,11 +1945,9 @@ Aybintio will be administered in combination with erlotinib.
 
 Aybintio is also used for treatment of adult patients with advanced kidney cancer. When used for patients with kidney cancer, it will be administered with another type of medicine called interferon.
 
-Aybintio is also used for the treatment of adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer. When used for patients with epithelial ovarian, fallopian tube, or primary peritoneal cancer, it will be administered in combination with carboplatin and paclitaxel. When used for those adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer whose disease has come back at least 6 months after the last time they were treated
+Aybintio is also used for the treatment of adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer. When used for patients with epithelial ovarian, fallopian tube, or primary peritoneal cancer, it will be administered in combination with carboplatin and paclitaxel. When used for those adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer whose disease has come back at least 6 months after the last time they were treated with a chemotherapy regimen containing a platinum agent, Aybintio will be administered in combination with carboplatin and gemcitabine or with carboplatin and paclitaxel.
 
 <div style=\"page-break-after: always\"></div>
-
-with a chemotherapy regimen containing a platinum agent, Aybintio will be administered in combination with carboplatin and gemcitabine or with carboplatin and paclitaxel.
 
 When used for those adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer whose disease has come back before 6 months after the last time they were treated with a chemotherapy regimen containing a platinum agent, Aybintio will be administered in combination with paclitaxel, or topotecan, or pegylated liposomal doxorubicin.
 
@@ -1998,9 +1957,9 @@ Aybintio is also used for the treatment of adult patients with persistent, recur
 
 ## Do not use Aybintio if
 
-- -you are allergic (hypersensitive) to bevacizumab or to any of the other ingredients of this medicine (listed in section 6).
-- -you are allergic (hypersensitive) to Chinese hamster ovary (CHO) cell products or to other recombinant human or humanised antibodies.
-- -you are pregnant.
+- you are allergic (hypersensitive) to bevacizumab or to any of the other ingredients of this medicine (listed in section 6).
+- you are allergic (hypersensitive) to Chinese hamster ovary (CHO) cell products or to other recombinant human or humanised antibodies.
+- you are pregnant.
 
 ## Warnings and precautions
 
@@ -2083,11 +2042,9 @@ The dose of Aybintio needed depends on your body weight and the kind of cancer t
 
 ## Method and route of administration
 
-Do not shake the vial. Aybintio is a concentrate for solution for infusion. Depending on the dose prescribed for you, some or all of the contents of the Aybintio vial will be diluted with sodium chloride solution before use. A doctor or nurse will give you this diluted Aybintio solution by
+Do not shake the vial. Aybintio is a concentrate for solution for infusion. Depending on the dose prescribed for you, some or all of the contents of the Aybintio vial will be diluted with sodium chloride solution before use. A doctor or nurse will give you this diluted Aybintio solution by intravenous infusion (a drip into your vein). The first infusion will be given to you over 90 minutes. If this is well-tolerated the second infusion may be given over 60 minutes. Later infusions may be given to you over 30 minutes.
 
 <div style=\"page-break-after: always\"></div>
-
-intravenous infusion (a drip into your vein). The first infusion will be given to you over 90 minutes. If this is well-tolerated the second infusion may be given over 60 minutes. Later infusions may be given to you over 30 minutes.
 
 ## The administration of Aybintio should be temporarily discontinued
 
@@ -2255,9 +2212,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the outer carton and on the vial label after the abbreviation EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2  C-8 
-
-C). Do not freeze.
+Store in a refrigerator (2  C-8  C). Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
@@ -2273,13 +2228,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Aybintio contains
 
-- -The active substance is bevacizumab. Each ml of concentrate contains 25 mg of bevacizumab. Each 4 ml vial contains 100 mg of bevacizumab, corresponding to 1.4 mg/ml when diluted as recommended.
+- The active substance is bevacizumab. Each ml of concentrate contains 25 mg of bevacizumab. Each 4 ml vial contains 100 mg of bevacizumab, corresponding to 1.4 mg/ml when diluted as recommended.
 
 Each 16 ml vial contains 400 mg of bevacizumab, corresponding to 16.5 mg/ml when diluted as recommended
 
 <div style=\"page-break-after: always\"></div>
 
-- -The other ingredients are trehalose dihydrate, sodium acetate trihydrate, acetic acid, polysorbate 20 (E 432) (see section 2 'Aybintio contains sodium and polysorbate 20'), and water for injections.
+- The other ingredients are trehalose dihydrate, sodium acetate trihydrate, acetic acid, polysorbate 20 (E 432) (see section 2 'Aybintio contains sodium and polysorbate 20'), and water for injections.
 
 ## What Aybintio looks like and contents of the pack
 
@@ -2287,115 +2242,13 @@ Aybintio is a concentrate for solution for infusion. The concentrate is a clear,
 
 ## Marketing Authorisation Holder
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands bioepis.mi@medinformation.co.uk
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+
+[bioepis.mi@medinformation.co.uk](mailto:bioepis.mi@medinformation.co.uk)
 
 ## Manufacturer
 
 Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft The Netherlands
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Nederland/Pays-Bas/Niederlande bioepis.mi@medinformation.co.uk
-
-## България
-
-Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Нидерландия
-
-bioepis.mi@medinformation.co.uk
-
-Česká republika Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Nizozemsko bioepis.mi@medinformation.co.uk
-
-## Danmark
-
-Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Holland bioepis.mi@medinformation.co.uk
-
-Deutschland Organon Healthcare GmbH Tel: 0800 3384 726 (+49 (0) 89 2040022 10) dpoc.germany@organon.com
-
-## Lietuva
-
-Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Nyderlandai bioepis.mi@medinformation.co.uk
-
-## Luxembourg/Luxemburg
-
-Samsung Bioepis NL B.V. Holland/Niederlande
-
-Olof Palmestraat 10, 2616 LR Delft bioepis.mi@medinformation.co.uk
-
-Magyarország Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Hollandia bioepis.mi@medinformation.co.uk
-
-## Malta
-
-Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Olanda bioepis.mi@medinformation.co.uk
-
-Nederland Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Nederland bioepis.mi@medinformation.co.uk
-
-<div style=\"page-break-after: always\"></div>
-
-## Eesti
-
-Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Holland bioepis.mi@medinformation.co.uk
-
-Ελλάδα Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Ολλανδία
-
-bioepis.mi@medinformation.co.uk
-
-## España
-
-Organon Salud, S.L. Tel: +34 91 591 12 79
-
-## France
-
-Organon France
-
-Tél: + 33 (0) 1 57 77 32 00
-
-## Hrvatska
-
-Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Nizozemska bioepis.mi@medinformation.co.uk
-
-## Ireland
-
-Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Netherlands bioepis.mi@medinformation.co.uk
-
-## Ísland
-
-Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Holland bioepis.mi@medinformation.co.uk
-
-Italia Organon Italia S.r.l. Tel: +39 06 90259059
-
-Κύπρος Samsung Bioepis NL B.V.
-
-Olof Palmestraat 10, 2616 LR Delft Ολλανδία bioepis.mi@medinformation.co.uk
-
-Norge Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Nederland bioepis.mi@medinformation.co.uk
-
-Ö sterreich Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Niederlande bioepis.mi@medinformation.co.uk
-
-## Polska
-
-Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Holandia bioepis.mi@medinformation.co.uk
-
-## Portugal
-
-Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Paí ses Baixos bioepis.mi@medinformation.co.uk
-
-România Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Olanda bioepis.mi@medinformation.co.uk
-
-Slovenija Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Nizozemska bioepis.mi@medinformation.co.uk
-
-Slovenská republika Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Holandsko bioepis.mi@medinformation.co.uk
-
-Suomi/Finland Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Alankomaat/Nederländerna bioepis.mi@medinformation.co.uk
-
-Sverige Samsung Bioepis NL B.V.
-
-Olof Palmestraat 10, 2616 LR Delft Nederländerna bioepis.mi@medinformation.co.uk
-
-<div style=\"page-break-after: always\"></div>
-
-Latvija Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Nīderlande bioepis.mi@medinformation.co.uk
 
 ## This leaflet was last revised in
 
@@ -2404,25 +2257,3 @@ Latvija Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft Nīderlande b
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
-
-<div style=\"page-break-after: always\"></div>
-
-## Annex IV
-
-## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for bevacizumab, the scientific conclusions of PRAC are as follows:
-
-In view of available data on hyaline occlusive glomerular microangiopathy reported in the literature, including in some cases a positive de-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between bevacizumab and hyaline occlusive glomerular microangiopathy is at least a reasonable possibility. The PRAC concluded that the product information of products containing bevacizumab should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for bevacizumab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing bevacizumab is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

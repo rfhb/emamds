@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-08-27 16:00:00
+document_datetime: 2026-09-11 16:11:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bilprevda.html
 document_name: bilprevda.html
 version: success
-processing_time: 0.1419201
-conversion_datetime: 2026-09-02 22:25:06.032169
+processing_time: 0.1409702
+conversion_datetime: 2026-09-13 12:28:15.080064
 docling_version:
   docling-serve: 1.32.0
   docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
@@ -117,7 +117,7 @@ English (EN) (127.94 KB - PDF)
 
 [View](/en/documents/overview/bilprevda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-602)
+[Other languages (22)](#file-language-dropdown-657)
 
 български (BG) (155.42 KB - PDF)
 
@@ -263,161 +263,161 @@ English (EN) (1.93 MB - PDF)
 
 Bilprevda : EPAR - Product information
 
-English (EN) (554.22 KB - PDF)
+English (EN) (555.32 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/en/documents/product-information/bilprevda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-979)
+[Other languages (24)](#file-language-dropdown-5)
 
-български (BG) (580.82 KB - PDF)
+български (BG) (581.38 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/bg/documents/product-information/bilprevda-epar-product-information_bg.pdf)
 
-español (ES) (535.97 KB - PDF)
+español (ES) (537.64 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/es/documents/product-information/bilprevda-epar-product-information_es.pdf)
 
-čeština (CS) (547.01 KB - PDF)
+čeština (CS) (547.11 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/cs/documents/product-information/bilprevda-epar-product-information_cs.pdf)
 
-dansk (DA) (528.89 KB - PDF)
+dansk (DA) (529.42 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/da/documents/product-information/bilprevda-epar-product-information_da.pdf)
 
-Deutsch (DE) (546.62 KB - PDF)
+Deutsch (DE) (547.31 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/de/documents/product-information/bilprevda-epar-product-information_de.pdf)
 
-eesti (ET) (516.97 KB - PDF)
+eesti (ET) (517.37 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/et/documents/product-information/bilprevda-epar-product-information_et.pdf)
 
-ελληνικά (EL) (595.44 KB - PDF)
+ελληνικά (EL) (600.06 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/el/documents/product-information/bilprevda-epar-product-information_el.pdf)
 
-français (FR) (534.3 KB - PDF)
+français (FR) (534.86 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/fr/documents/product-information/bilprevda-epar-product-information_fr.pdf)
 
-hrvatski (HR) (546.89 KB - PDF)
+hrvatski (HR) (547.43 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/hr/documents/product-information/bilprevda-epar-product-information_hr.pdf)
 
-italiano (IT) (532.44 KB - PDF)
+italiano (IT) (532.77 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/it/documents/product-information/bilprevda-epar-product-information_it.pdf)
 
-latviešu (LV) (536.46 KB - PDF)
+latviešu (LV) (537.6 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/lv/documents/product-information/bilprevda-epar-product-information_lv.pdf)
 
-lietuvių (LT) (580.6 KB - PDF)
+lietuvių (LT) (581.59 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/lt/documents/product-information/bilprevda-epar-product-information_lt.pdf)
 
-magyar (HU) (557.06 KB - PDF)
+magyar (HU) (558.08 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/hu/documents/product-information/bilprevda-epar-product-information_hu.pdf)
 
-Malti (MT) (578.42 KB - PDF)
+Malti (MT) (578.47 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/mt/documents/product-information/bilprevda-epar-product-information_mt.pdf)
 
-Nederlands (NL) (533.32 KB - PDF)
+Nederlands (NL) (533.79 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/nl/documents/product-information/bilprevda-epar-product-information_nl.pdf)
 
-polski (PL) (576.61 KB - PDF)
+polski (PL) (577.81 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/pl/documents/product-information/bilprevda-epar-product-information_pl.pdf)
 
-português (PT) (525.15 KB - PDF)
+português (PT) (527.11 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/pt/documents/product-information/bilprevda-epar-product-information_pt.pdf)
 
-română (RO) (559.16 KB - PDF)
+română (RO) (558.78 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/ro/documents/product-information/bilprevda-epar-product-information_ro.pdf)
 
-slovenčina (SK) (574.63 KB - PDF)
+slovenčina (SK) (577.71 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/sk/documents/product-information/bilprevda-epar-product-information_sk.pdf)
 
-slovenščina (SL) (540.34 KB - PDF)
+slovenščina (SL) (544.48 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/sl/documents/product-information/bilprevda-epar-product-information_sl.pdf)
 
-suomi (FI) (525.64 KB - PDF)
+suomi (FI) (528.27 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/fi/documents/product-information/bilprevda-epar-product-information_fi.pdf)
 
-svenska (SV) (522.38 KB - PDF)
+svenska (SV) (523.37 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/sv/documents/product-information/bilprevda-epar-product-information_sv.pdf)
 
-Íslenska (IS) (674.06 KB - PDF)
+Íslenska (IS) (674.7 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/is/documents/product-information/bilprevda-epar-product-information_is.pdf)
 
-norsk (NO) (524.26 KB - PDF)
+norsk (NO) (525.07 KB - PDF)
 
-**First published:** 27/10/2025 **Last updated:** 14/07/2026
+**First published:** 27/10/2025 **Last updated:** 11/09/2026
 
 [View](/no/documents/product-information/bilprevda-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000361022
+**Latest procedure affecting product information:** VR/0000369515
 
-13/07/2026
+11/09/2026
 
 icon globe
 
@@ -442,7 +442,7 @@ English (EN) (44.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bilprevda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-157)
+[Other languages (24)](#file-language-dropdown-36)
 
 български (BG) (52.82 KB - PDF)
 
@@ -627,7 +627,7 @@ Treatment of adults and skeletally mature adolescents with giant cell tumour of 
 - **Marketing authorisation issued**
     - 17/09/2025
 - **Revision**
-    - 4
+    - 5
 
 ## Assessment history
 
@@ -639,9 +639,9 @@ Collapse section
 
 Bilprevda : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.34 KB - PDF)
+English (EN) (150.95 KB - PDF)
 
-**First published:** 28/11/2025 **Last updated:** 27/08/2026
+**First published:** 28/11/2025 **Last updated:** 11/09/2026
 
 [View](/en/documents/procedural-steps-after/bilprevda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -675,6 +675,6 @@ English (EN) (151.98 KB - PDF)
 
 **This page was last updated on**
 
-27/08/2026
+11/09/2026
 
 ## Share this page

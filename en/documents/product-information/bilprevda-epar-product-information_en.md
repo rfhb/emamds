@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-14 09:32:04
+document_datetime: 2026-09-11 16:04:58
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bilprevda-epar-product-information_en.pdf
 document_name: bilprevda-epar-product-information_en.pdf
 version: success
-processing_time: 8.7422975
-conversion_datetime: 2026-07-16 13:37:53.410114
+processing_time: 9.80648
+conversion_datetime: 2026-09-13 12:22:16.991115
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -187,6 +187,8 @@ This medicinal product contains sorbitol and polysorbate 20. The additive effect
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is to say essentially 'sodium-free'.
 
+This medicinal product contains 0.17 mg of polysorbate 20 in each 1.7 mL vial solution. Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed.
@@ -217,9 +219,9 @@ Bilprevda has no or negligible influence on the ability to drive and use machine
 
 ## Summary of the safety profile
 
-Overall safety profile is consistent in all approved indications for denosumab.
-
 <div style=\"page-break-after: always\"></div>
+
+Overall safety profile is consistent in all approved indications for denosumab.
 
 Hypocalcaemia has very commonly been reported following denosumab administration, mostly within the first 2 weeks. Hypocalcaemia can be severe and symptomatic (see section 4.8 - description of selected adverse reactions). The decreases in serum calcium were generally appropriately managed by calcium and vitamin D supplementation. The most common adverse reactions with denosumab are musculoskeletal pain. Cases of osteonecrosis of the jaw (see section 4.4 and section 4.8 - description of selected adverse reactions) have been commonly observed in patients taking denosumab.
 
@@ -246,8 +248,11 @@ Table 1 Adverse reactions reported in patients with advanced malignancies involv
 | Musculoskeletal and connective tissue disorders                          | Common               | Osteonecrosis of the jaw 1                                                                      |
 | Musculoskeletal and connective tissue disorders                          | Uncommon             | Atypical femoral fracture 1                                                                     |
 | Musculoskeletal and connective tissue disorders                          | Not known            | Osteonecrosis of the external auditory canal 3,4                                                |
+| General disorders and administration site conditions                     | Uncommon             | Injection site reactions 5                                                                      |
 
 <div style=\"page-break-after: always\"></div>
+
+5 Including injection site pain.
 
 ## Description of selected adverse reactions
 
@@ -301,13 +306,11 @@ In the clinical trial programme for GCTB, atypical femoral fractures have been r
 
 In the post-marketing setting, musculoskeletal pain, including severe cases, has been reported in patients receiving denosumab. In clinical trials, musculoskeletal pain was very common in both the denosumab and zoledronic acid treatment groups. Musculoskeletal pain leading to discontinuation of study treatment was uncommon.
 
-## New primary malignancy
-
-In the primary double-blind treatment phases of four phase III active-controlled clinical trials in patients with advanced malignancies involving bone, new primary malignancy was reported in 54/3691 (1.5%) of patients treated with denosumab (median exposure of 13.8 months; range:
-
 <div style=\"page-break-after: always\"></div>
 
-1.0 - 51.7) and 33/3688 (0.9%) of patients treated with zoledronic acid (median exposure of 12.9 months; range: 1.0 - 50.8).
+## New primary malignancy
+
+In the primary double-blind treatment phases of four phase III active-controlled clinical trials in patients with advanced malignancies involving bone, new primary malignancy was reported in 54/3691 (1.5%) of patients treated with denosumab (median exposure of 13.8 months; range: 1.0 - 51.7) and 33/3688 (0.9%) of patients treated with zoledronic acid (median exposure of 12.9 months; range: 1.0 - 50.8).
 
 The cumulative incidence at one year was 1.1% for denosumab and 0.6% for zoledronic acid, respectively.
 
@@ -341,9 +344,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no experience with overdose in clinical studies. Denosumab has been administered in clinical studies using doses up to 180 mg every 4 weeks and 120 mg weekly for 3 weeks.
 
-## 5. PHARMACOLOGICAL PROPERTIES
-
 <div style=\"page-break-after: always\"></div>
+
+## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
@@ -369,35 +372,34 @@ Anti-denosumab antibodies may develop during denosumab treatment. No apparent co
 
 Efficacy and safety of 120 mg denosumab SC every 4 weeks or 4 mg zoledronic acid (dose-adjusted for reduced renal function) IV every 4 weeks were compared in three randomised, double-blind, active-controlled studies, in IV-bisphosphonate naïve patients with advanced malignancies involving bone: adults with breast cancer (study 1), other solid tumours or multiple myeloma (study 2), and castrate-resistant prostate cancer (study 3). Within these active-controlled clinical trials, safety was evaluated in 5 931 patients. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure, were not eligible for inclusion in these studies. The primary and secondary endpoints evaluated the occurrence of one or more skeletal related events (SREs). In studies demonstrating superiority of denosumab to zoledronic acid, patients were offered open-label denosumab in a prespecified 2-year extension treatment phase. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
-Denosumab reduced the risk of developing a SRE and developing multiple SREs (first and subsequent) in patients with bone metastases from solid tumours (see table 2).
-
 <div style=\"page-break-after: always\"></div>
+
+Denosumab reduced the risk of developing a SRE and developing multiple SREs (first and subsequent) in patients with bone metastases from solid tumours (see table 2).
 
 Table 2 Efficacy results in patients with advanced malignancies involving bone
 
-|                                         | Study 1 breast cancer     | Study 1 breast cancer     | Study 2 other solid tumours** or multiple myeloma   | Study 2 other solid tumours** or multiple myeloma   | Study 3 prostate cancer   | Study 3 prostate cancer   | Combined advanced cancer   | Combined advanced cancer   |
-|-----------------------------------------|---------------------------|---------------------------|-----------------------------------------------------|-----------------------------------------------------|---------------------------|---------------------------|----------------------------|----------------------------|
-|                                         | Denosumab                 | zoledronic acid           | Denosumab                                           | zoledronic acid                                     | Denosumab                 | zoledronic acid           | Denosumab                  | zoledronic acid            |
-| N                                       | 1 026                     | 1 020                     | 886                                                 | 890                                                 | 950                       | 951                       | 2 862                      | 2 861                      |
-| First SRE                               |                           |                           |                                                     |                                                     |                           |                           |                            |                            |
-| Median time (months)                    | NR                        | 26.4                      | 20.6                                                | 16.3                                                | 20.7                      | 17.1                      | 27.6                       | 19.4                       |
-| Difference in median time (months)      | NA                        | NA                        | 4.2                                                 | 4.2                                                 | 3.5                       | 3.5                       | 8.2                        | 8.2                        |
-| HR (95% CI) / RRR (%)                   | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.84 (0.71, 0.98) / 16                              | 0.84 (0.71, 0.98) / 16                              | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
-| Non- inferiority / Superiority p-values | < 0.0001 † / 0.0101 †     | < 0.0001 † / 0.0101 †     | 0.0007 † / 0.0619 †                                 | 0.0007 † / 0.0619 †                                 | 0.0002 † / 0.0085 †       | 0.0002 † / 0.0085 †       | < 0.0001 / < 0.0001        | < 0.0001 / < 0.0001        |
-| Proportion of patients (%)              | 30.7                      | 36.5                      | 31.4                                                | 36.3                                                | 35.9                      | 40.6                      | 32.6                       | 37.8                       |
-| First and subsequent SRE*               | First and subsequent SRE* | First and subsequent SRE* | First and subsequent SRE*                           | First and subsequent SRE*                           | First and subsequent SRE* | First and subsequent SRE* | First and subsequent SRE*  | First and subsequent SRE*  |
-| Mean number/patient                     | 0.46                      | 0.60                      | 0.44                                                | 0.49                                                | 0.52                      | 0.61                      | 0.48                       | 0.57                       |
-| Rate ratio (95% CI) / RRR (%)           | 0.77 (0.66, 0.89) / 23    | 0.77 (0.66, 0.89) / 23    | 0.90 (0.77, 1.04) / 10                              | 0.90 (0.77, 1.04) / 10                              | 0.82 (0.71, 0.94) / 18    | 0.82 (0.71, 0.94) / 18    | 0.82 (0.75, 0.89) / 18     | 0.82 (0.75, 0.89) / 18     |
-| Superiority p-value                     | 0.0012 †                  | 0.0012 †                  | 0.1447 †                                            | 0.1447 †                                            | 0.0085 †                  | 0.0085 †                  | < 0.0001                   | < 0.0001                   |
-| SMR per Year                            | 0.45                      | 0.58                      | 0.86                                                | 1.04                                                | 0.79                      | 0.83                      | 0.69                       | 0.81                       |
-| First SRE or HCM                        | First SRE or HCM          | First SRE or HCM          | First SRE or HCM                                    | First SRE or HCM                                    | First SRE or HCM          | First SRE or HCM          | First SRE or HCM           | First SRE or HCM           |
-| Median time (months)                    | NR                        | 25.2                      | 19.0                                                | 14.4                                                | 20.3                      | 17.1                      | 26.6                       | 19.4                       |
-| HR (95% CI) / RRR (%)                   | 0.82 (0.70, 0.95) / 18    | 0.82 (0.70, 0.95) / 18    | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.72, 0.96) / 17    | 0.83 (0.72, 0.96) / 17    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
-| Superiority p-value                     | 0.0074                    | 0.0074                    | 0.0215                                              | 0.0215                                              | 0.0134                    | 0.0134                    | < 0.0001                   | < 0.0001                   |
-| First radiation to bone                 | First radiation to bone   | First radiation to bone   | First radiation to bone                             | First radiation to bone                             | First radiation to bone   | First radiation to bone   | First radiation to bone    | First radiation to bone    |
-| Median time (months)                    | NR                        | NR                        | NR                                                  | NR                                                  | NR                        | 28.6                      | NR                         | 33.2                       |
-| HR (95% CI) / RRR (%)                   | 0.74 (0.59, 0.94) / 26    | 0.74 (0.59, 0.94) / 26    | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.66, 0.94) / 22    | 0.78 (0.66, 0.94) / 22    | 0.77 (0.69, 0.87) / 23     | 0.77 (0.69, 0.87) / 23     |
-| Superiority p-value                     | 0.0121                    | 0.0121                    | 0.0256                                              | 0.0256                                              | 0.0071                    | 0.0071                    | < 0.0001                   | < 0.0001                   |
+|                                         | Study 1 breast cancer - Denosumab   | Study 1 breast cancer - zoledronic acid   | Study 2 other solid tumours** or multiple myeloma - Denosumab   | Study 2 other solid tumours** or multiple myeloma - zoledronic acid   | Study 3 prostate cancer - Denosumab   | Study 3 prostate cancer - zoledronic acid   | Combined advanced cancer - Denosumab   | Combined advanced cancer - zoledronic acid   |
+|-----------------------------------------|-------------------------------------|-------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------|---------------------------------------------|----------------------------------------|----------------------------------------------|
+| N                                       | 1 026                               | 1 020                                     | 886                                                             | 890                                                                   | 950                                   | 951                                         | 2 862                                  | 2 861                                        |
+| First SRE                               |                                     |                                           |                                                                 |                                                                       |                                       |                                             |                                        |                                              |
+| Median time (months)                    | NR                                  | 26.4                                      | 20.6                                                            | 16.3                                                                  | 20.7                                  | 17.1                                        | 27.6                                   | 19.4                                         |
+| Difference in median time (months)      | NA                                  | NA                                        | 4.2                                                             | 4.2                                                                   | 3.5                                   | 3.5                                         | 8.2                                    | 8.2                                          |
+| HR (95% CI) / RRR (%)                   | 0.82 (0.71, 0.95) / 18              | 0.82 (0.71, 0.95) / 18                    | 0.84 (0.71, 0.98) / 16                                          | 0.84 (0.71, 0.98) / 16                                                | 0.82 (0.71, 0.95) / 18                | 0.82 (0.71, 0.95) / 18                      | 0.83 (0.76, 0.90) / 17                 | 0.83 (0.76, 0.90) / 17                       |
+| Non- inferiority / Superiority p-values | < 0.0001 † / 0.0101 †               | < 0.0001 † / 0.0101 †                     | 0.0007 † / 0.0619 †                                             | 0.0007 † / 0.0619 †                                                   | 0.0002 † / 0.0085 †                   | 0.0002 † / 0.0085 †                         | < 0.0001 / < 0.0001                    | < 0.0001 / < 0.0001                          |
+| Proportion of patients (%)              | 30.7                                | 36.5                                      | 31.4                                                            | 36.3                                                                  | 35.9                                  | 40.6                                        | 32.6                                   | 37.8                                         |
+| First and subsequent SRE*               | First and subsequent SRE*           | First and subsequent SRE*                 | First and subsequent SRE*                                       | First and subsequent SRE*                                             | First and subsequent SRE*             | First and subsequent SRE*                   | First and subsequent SRE*              | First and subsequent SRE*                    |
+| Mean number/patient                     | 0.46                                | 0.60                                      | 0.44                                                            | 0.49                                                                  | 0.52                                  | 0.61                                        | 0.48                                   | 0.57                                         |
+| Rate ratio (95% CI) / RRR (%)           | 0.77 (0.66, 0.89) / 23              | 0.77 (0.66, 0.89) / 23                    | 0.90 (0.77, 1.04) / 10                                          | 0.90 (0.77, 1.04) / 10                                                | 0.82 (0.71, 0.94) / 18                | 0.82 (0.71, 0.94) / 18                      | 0.82 (0.75, 0.89) / 18                 | 0.82 (0.75, 0.89) / 18                       |
+| Superiority p-value                     | 0.0012 †                            | 0.0012 †                                  | 0.1447 †                                                        | 0.1447 †                                                              | 0.0085 †                              | 0.0085 †                                    | < 0.0001                               | < 0.0001                                     |
+| SMR per Year                            | 0.45                                | 0.58                                      | 0.86                                                            | 1.04                                                                  | 0.79                                  | 0.83                                        | 0.69                                   | 0.81                                         |
+| First SRE or HCM                        | First SRE or HCM                    | First SRE or HCM                          | First SRE or HCM                                                | First SRE or HCM                                                      | First SRE or HCM                      | First SRE or HCM                            | First SRE or HCM                       | First SRE or HCM                             |
+| Median time (months)                    | NR                                  | 25.2                                      | 19.0                                                            | 14.4                                                                  | 20.3                                  | 17.1                                        | 26.6                                   | 19.4                                         |
+| HR (95% CI) / RRR (%)                   | 0.82 (0.70, 0.95) / 18              | 0.82 (0.70, 0.95) / 18                    | 0.83 (0.71, 0.97) / 17                                          | 0.83 (0.71, 0.97) / 17                                                | 0.83 (0.72, 0.96) / 17                | 0.83 (0.72, 0.96) / 17                      | 0.83 (0.76, 0.90) / 17                 | 0.83 (0.76, 0.90) / 17                       |
+| Superiority p-value                     | 0.0074                              | 0.0074                                    | 0.0215                                                          | 0.0215                                                                | 0.0134                                | 0.0134                                      | < 0.0001                               | < 0.0001                                     |
+| First radiation to bone                 | First radiation to bone             | First radiation to bone                   | First radiation to bone                                         | First radiation to bone                                               | First radiation to bone               | First radiation to bone                     | First radiation to bone                | First radiation to bone                      |
+| Median time (months)                    | NR                                  | NR                                        | NR                                                              | NR                                                                    | NR                                    | 28.6                                        | NR                                     | 33.2                                         |
+| HR (95% CI) / RRR (%)                   | 0.74 (0.59, 0.94) / 26              | 0.74 (0.59, 0.94) / 26                    | 0.78 (0.63, 0.97) / 22                                          | 0.78 (0.63, 0.97) / 22                                                | 0.78 (0.66, 0.94) / 22                | 0.78 (0.66, 0.94) / 22                      | 0.77 (0.69, 0.87) / 23                 | 0.77 (0.69, 0.87) / 23                       |
+| Superiority p-value                     | 0.0121                              | 0.0121                                    | 0.0256                                                          | 0.0256                                                                | 0.0071                                | 0.0071                                      | < 0.0001                               | < 0.0001                                     |
 
 NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction †Adjusted p-values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpoints); *Accounts for all skeletal events over time; only events occurring ≥ 21 days after the previous event are counted.
 
@@ -720,6 +722,8 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -737,7 +741,6 @@ EU/1/25/1979/001
 LOT
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -753,8 +756,6 @@ Bilprevda
 PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -804,11 +805,11 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist, or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Bilprevda.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist, or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Bilprevda.
 
 ## What is in this leaflet
 
@@ -956,7 +957,8 @@ Uncommon side effects (may affect up to 1 in 100 people):
 
 - high calcium levels in the blood (hypercalcaemia) after stopping treatment in patients with giant cell tumour of the bone,
 - new or unusual pain in your hip, groin, or thigh (this may be an early indication of a possible fracture of the thigh bone),
-- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
+- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions),
+- injection site reactions including pain around the site where the injection was given.
 
 Rare side effects (may affect up to 1 in 1 000 people):
 
@@ -988,8 +990,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Bilprevda contains
 
-- -The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 mL solution (corresponding to 70 mg/mL).
-- -The other ingredients are acetic acid, glacial, sodium hydroxide, sorbitol (E420), polysorbate 20 (E432) and water for injections.
+- The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 mL solution (corresponding to 70 mg/mL).
+- The other ingredients are acetic acid, glacial, sodium hydroxide, sorbitol (E420), polysorbate 20 (E432) and water for injections.
 
 ## What Bilprevda looks like and contents of the pack
 
@@ -1009,17 +1011,17 @@ Cilatus Manufacturing Services Limited Pembroke House, 28-32 Pembroke Street Upp
 
 <div style=\"page-break-after: always\"></div>
 
-België/Belgique/Belgien SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+België/Belgique/Belgien SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-България SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+България SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Česká republika
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw
 
 Poland
 
@@ -1027,7 +1029,7 @@ Poland
 
 Danmark
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
@@ -1039,11 +1041,11 @@ dpoc.germany@organon.com
 
 ## Eesti
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
@@ -1051,43 +1053,43 @@ España
 
 Organon Salud, S.L. Tel: +34 91 591 12 79
 
-organon\\_info@organon.com Lietuva SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+organon\\_info@organon.com Lietuva SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Luxembourg/Luxemburg
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-Magyarország SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+Magyarország SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 Malta
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Nederland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Norge
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Österreich
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
@@ -1099,19 +1101,19 @@ Organon France Tél: +33 (0) 1 57 77 32 00
 
 ## Hrvatska
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Ireland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Ísland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
@@ -1123,11 +1125,11 @@ dpoc.italy@organon.com
 
 Κύπρος
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-Latvija SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+Latvija SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
@@ -1139,13 +1141,13 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Portugal
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## România
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
@@ -1153,7 +1155,9 @@ SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
 SciencePharma Sp. z o.o.
 
-Chełmska 30/34, 00-725 Warsaw
+Chełmska 30/34, 00
+
+-725 Warsaw
 
 Poland
 
@@ -1161,19 +1165,19 @@ Poland
 
 ## Slovenská republika
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Suomi/Finland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Sverige
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
 
 [denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 

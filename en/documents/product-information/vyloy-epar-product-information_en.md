@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-03 13:47:17
+document_datetime: 2026-09-11 16:07:37
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vyloy-epar-product-information_en.pdf
 document_name: vyloy-epar-product-information_en.pdf
 version: success
-processing_time: 11.648295
-conversion_datetime: 2026-03-05 12:18:55.311642
+processing_time: 11.3660592
+conversion_datetime: 2026-09-13 12:25:32.546914
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -88,9 +88,9 @@ The recommended dose should be calculated according to body surface area (BSA) f
 
 Table 1. Recommended zolbetuximab dose based on BSA
 
-| Single loading dose                                                                                                                  | Maintenance doses                                                                                                                                                                                             | Duration of therapy                                 |
-|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| On Cycle 1, Day 1 a , 800 mg/m 2 intravenously Administer zolbetuximab in combination with fluoropyrimidine- and platinum-containing | Beginning 3 weeks after the single loading dose, 600 mg/m 2 intravenously every 3 weeks or Beginning 2 weeks after the single loading dose, 400 mg/m 2 intravenously every 2 weeks Administer zolbetuximab in | Until disease progression or unacceptable toxicity. |
+| Single loading dose                                                                                                                                                    | Maintenance doses                                                                                                                                                                                                                                                                                        | Duration of therapy                                 |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| On Cycle 1, Day 1 a , 800 mg/m 2 intravenously Administer zolbetuximab in combination with fluoropyrimidine- and platinum-containing chemotherapy (see section 5.1). b | Beginning 3 weeks after the single loading dose, 600 mg/m 2 intravenously every 3 weeks or Beginning 2 weeks after the single loading dose, 400 mg/m 2 intravenously every 2 weeks Administer zolbetuximab in combination with fluoropyrimidine- and platinum-containing chemotherapy (see section 5.1). | Until disease progression or unacceptable toxicity. |
 
 - a. The cycle duration of zolbetuximab is determined based on the respective chemotherapy backbone (see section 5.1).
 - b. Refer to the fluoropyrimidine- or platinum-containing chemotherapy prescribing information regarding the dosing information for chemotherapy.
@@ -148,11 +148,12 @@ If the infusion time exceeds the recommended storage time at room temperature (�
 
 Table 3. Infusion rates recommended for each zolbetuximab infusion
 
-|                                        |                                                      | Infusion rate                  | Infusion rate                            |
-|----------------------------------------|------------------------------------------------------|--------------------------------|------------------------------------------|
-| Zolbetuximab dose                      | Zolbetuximab dose                                    | First 30-60 minutes            | Remaining infusion time b                |
-| Single loading dose (Cycle 1, Day 1) a | 800 mg/m 2                                           | 75 mg/m 2 /hr                  | 150-300 mg/m 2 /hr                       |
-| Maintenance doses                      | 600 mg/m 2 every 3 weeks Or 400 mg/m 2 every 2 weeks | 75 mg/m 2 /hr or 50 mg/m 2 /hr | 150-300 mg/m 2 /hr or 100-200 mg/m 2 /hr |
+| Zolbetuximab dose                      | Zolbetuximab dose                                    | Infusion rate - First 30-60 minutes   | Infusion rate - Remaining infusion time b   |
+|----------------------------------------|------------------------------------------------------|---------------------------------------|---------------------------------------------|
+| Single loading dose (Cycle 1, Day 1) a | 800 mg/m 2                                           | 75 mg/m 2 /hr                         | 150-300 mg/m 2 /hr                          |
+| Maintenance doses                      | 600 mg/m 2 every 3 weeks Or 400 mg/m 2 every 2 weeks | 75 mg/m 2 /hr or 50 mg/m 2 /hr        | 150-300 mg/m 2 /hr or 100-200 mg/m 2 /hr    |
+
+- b. In the absence of adverse reactions after 30-60 minutes, the infusion rate can be increased as tolerated.
 
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
@@ -260,26 +261,30 @@ Adverse reactions observed during clinical studies are listed in this section by
 
 ## Table 4. Adverse reactions
 
-| MedDRA System organ class                            | Adverse reaction           | Frequency category   |
-|------------------------------------------------------|----------------------------|----------------------|
-| Blood and lymphatic system disorders                 | Neutropenia                | Very common          |
-| Blood and lymphatic system disorders                 | Neutrophil count decreased | Very common          |
-| Immune system disorders                              | Drug hypersensitivity      | Common               |
-| Immune system disorders                              | Anaphylactic reaction      | Uncommon             |
-| Metabolism and nutrition disorders                   | Hypoalbuminaemia           | Very common          |
-| Metabolism and nutrition disorders                   | Decreased appetite         | Very common          |
-| Vascular disorders                                   | Hypertension               | Common               |
-| Gastrointestinal disorders                           | Vomiting                   | Very common          |
-| Gastrointestinal disorders                           | Nausea                     | Very common          |
-| Gastrointestinal disorders                           | Dyspepsia                  | Common               |
-| Gastrointestinal disorders                           | Salivary hypersecretion    | Common               |
-| General disorders and administration site conditions | Pyrexia                    | Very common          |
-| General disorders and administration site conditions | Oedema peripheral          | Very common          |
-| General disorders and administration site conditions | Chills                     | Common               |
-| Investigations                                       | Weight decreased           | Very common          |
-| Injury, poisoning and procedural complications       | Infusion related reaction  | Common               |
+| MedDRA System organ class                            | Adverse reaction                 | Frequency category   |
+|------------------------------------------------------|----------------------------------|----------------------|
+| Blood and lymphatic system disorders                 | Neutropenia                      | Very common          |
+| Blood and lymphatic system disorders                 | Neutrophil count decreased       | Very common          |
+| Immune system disorders                              | Drug hypersensitivity            | Common               |
+| Immune system disorders                              | Anaphylactic reaction            | Uncommon             |
+| Metabolism and nutrition disorders                   | Hypoalbuminaemia                 | Very common          |
+| Metabolism and nutrition disorders                   | Decreased appetite               | Very common          |
+| Vascular disorders                                   | Hypertension                     | Common               |
+| Gastrointestinal disorders                           | Vomiting                         | Very common          |
+| Gastrointestinal disorders                           | Nausea                           | Very common          |
+| Gastrointestinal disorders                           | Dyspepsia                        | Common               |
+| Gastrointestinal disorders                           | Salivary hypersecretion          | Common               |
+| Gastrointestinal disorders                           | Gastritis                        | Uncommon             |
+| Gastrointestinal disorders                           | Protein-losing gastroenteropathy | Not known            |
+| General disorders and administration site conditions | Pyrexia                          | Very common          |
+| General disorders and administration site conditions | Oedema peripheral                | Very common          |
+| General disorders and administration site conditions | Chills                           | Common               |
+| Investigations                                       | Weight decreased                 | Very common          |
 
 <div style=\"page-break-after: always\"></div>
+
+| Injury, poisoning and procedural complications   | Infusion related reaction   | Common   |
+|--------------------------------------------------|-----------------------------|----------|
 
 ## Description of selected adverse reactions
 
@@ -343,9 +348,11 @@ Based on a pooled analysis of data from two phase 3 studies, the overall immunog
 
 The safety and efficacy of zolbetuximab in combination with chemotherapy was evaluated in two phase 3, double-blind, randomised, multicentre studies that enrolled 1072 patients whose tumours were CLDN18.2 positive, HER2-negative, with locally advanced unresectable or metastatic gastric or GEJ adenocarcinoma. CLDN18.2 positivity (defined as ≥75% of tumour cells demonstrating moderate to strong membranous CLDN18 staining) was determined by immunohistochemistry on gastric or GEJ tumour tissue specimens from all patients with the VENTANA CLDN18 (43-14A) RxDx Assay performed in a central laboratory.
 
-Patients were randomised 1:1 to receive either zolbetuximab in combination with chemotherapy (n=283 in SPOTLIGHT, n=254 in GLOW) or placebo in combination with chemotherapy (n=282 in SPOTLIGHT, n=253 in GLOW). Zolbetuximab was administered intravenously at a loading dose of 800 mg/m 2  (Day 1 of cycle 1) followed by maintenance doses of 600 mg/m 2 every 3 weeks in combination with either mFOLFOX6 (oxaliplatin, folinic acid and fluorouracil), or CAPOX (oxaliplatin and capecitabine).
+Patients were randomised 1:1 to receive either zolbetuximab in combination with chemotherapy (n=283 in SPOTLIGHT, n=254 in GLOW) or placebo in combination with chemotherapy (n=282 in SPOTLIGHT, n=253 in GLOW). Zolbetuximab was administered intravenously at a loading dose of
 
 <div style=\"page-break-after: always\"></div>
+
+800 mg/m 2  (Day 1 of cycle 1) followed by maintenance doses of 600 mg/m 2 every 3 weeks in combination with either mFOLFOX6 (oxaliplatin, folinic acid and fluorouracil), or CAPOX (oxaliplatin and capecitabine).
 
 Patients in the SPOTLIGHT study received between 1-12 treatments of mFOLFOX6 [oxaliplatin 85 mg/m 2 , folinic acid (leucovorin or local equivalent) 400 mg/m 2 , fluorouracil 400 mg/m 2 given as a bolus and fluorouracil 2400 mg/m 2 given as a continuous infusion] administered on Days 1, 15 and 29 of a 42-day cycle. After 12 treatments, patients were allowed to continue treatment with zolbetuximab, 5-fluorouracil and folinic acid (leucovorin or local equivalent) at the discretion of the investigator, until progression of disease or unacceptable toxicity.
 
@@ -371,9 +378,8 @@ The updated PFS and final OS analysis for GLOW are presented in table 5 and Figu
 
 Table 5. Efficacy results in SPOTLIGHT and GLOW
 
-|                                                           | SPOTLIGHT a                                               | SPOTLIGHT a                                               | GLOW b                                                    | GLOW b                                                    |
+| Endpoint                                                  | SPOTLIGHT a - Zolbetuximab with mFOLFOX6 n=283            | SPOTLIGHT a - Placebo with mFOLFOX6 n=282                 | GLOW b - Zolbetuximab with CAPOX n=254                    | GLOW b - Placebo with CAPOX n=253                         |
 |-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
-| Endpoint                                                  | Zolbetuximab with mFOLFOX6 n=283                          | Placebo with mFOLFOX6 n=282                               | Zolbetuximab with CAPOX n=254                             | Placebo with CAPOX n=253                                  |
 | Progression-free survival                                 | Progression-free survival                                 | Progression-free survival                                 | Progression-free survival                                 | Progression-free survival                                 |
 | Number (%) of patients with events                        | 159 (56.2)                                                | 187 (66.3)                                                | 153 (60.2)                                                | 182 (71.9)                                                |
 | Median in months (95% CI) c                               | 11.0 (9.7, 12.5)                                          | 8.9 (8.2, 10.4)                                           | 8.2 (7.3, 8.8)                                            | 6.8 (6.1, 8.1)                                            |
@@ -405,9 +411,11 @@ Figure 2. Kaplan Meier plot of overall survival, SPOTLIGHT
 
 <!-- image -->
 
-Natrisk
+N at risk
 
-Placeb0+mFOLFOX62822772712662532432282192091981841741621561421361221161019181757167 6357 514536342928232019191514
+Zolbetuximab + mFOLFOX6 283 270 264 255 251 241 234 228 211 196 189 179 174 166 160 155 147 138 127 114 106 101 94 89 82 73 54 60 56 49 43 40 37 34 29 27 25 24 20 19 19 18 15 13
+
+11
 
 <div style=\"page-break-after: always\"></div>
 
@@ -418,6 +426,8 @@ Figure 3. Kaplan Meier plot of progression-free survival, GLOW
 Figure 4. Kaplan Meier plot of overall survival, GLOW
 
 <!-- image -->
+
+Placeb0+ CAPOX 253 243 235 220 210 197 181 168 153 143 133 125 116 106 97 89 82 77 68 60 54 52 48 43 39 36 34 31 27 24 21 19 15 12 9 7 6 4
 
 Exploratory subgroup analyses of efficacy for SPOTLIGHT and GLOW showed a difference in PFS and OS for Caucasian versus Asian patients.
 
@@ -461,11 +471,9 @@ Based on the population pharmacokinetic analysis using data from clinical studie
 
 ## Hepatic impairment
 
-Based on the population pharmacokinetic analysis using data from clinical studies in patients with gastric or GEJ adenocarcinoma, no clinically significant differences in the pharmacokinetics of
+Based on the population pharmacokinetic analysis using data from clinical studies in patients with gastric or GEJ adenocarcinoma, no clinically significant differences in the pharmacokinetics of zolbetuximab were identified in patients with mild hepatic impairment as measured by TB and AST (TB ≤ ULN and AST &gt; ULN, or TB &gt; 1 to 1.5 × ULN and any AST; n=108). Zolbetuximab has only been evaluated in a limited number of patients with moderate hepatic impairment (TB &gt; 1.5 to 3 × ULN and any AST; n=4) and has not been evaluated in patients with severe hepatic impairment (TB &gt; 3 to 10 × ULN and any AST). The effect of moderate or severe hepatic impairment on the pharmacokinetics of zolbetuximab is unknown.
 
 <div style=\"page-break-after: always\"></div>
-
-zolbetuximab were identified in patients with mild hepatic impairment as measured by TB and AST (TB ≤ ULN and AST &gt; ULN, or TB &gt; 1 to 1.5 × ULN and any AST; n=108). Zolbetuximab has only been evaluated in a limited number of patients with moderate hepatic impairment (TB &gt; 1.5 to 3 × ULN and any AST; n=4) and has not been evaluated in patients with severe hepatic impairment (TB &gt; 3 to 10 × ULN and any AST). The effect of moderate or severe hepatic impairment on the pharmacokinetics of zolbetuximab is unknown.
 
 ## 5.3 Preclinical safety data
 
@@ -740,9 +748,7 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -802,39 +808,41 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Astellas Pharma Europe B.V.
+Astellas Pharma Europe B.V. Sylviusweg 62 2333 BE Leiden The Netherlands
 
-Sylviusweg 62 2333 BE Leiden
-
-The Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBERS
+| 12.   | MARKETING AUTHORISATION NUMBERS   |
+|-------|-----------------------------------|
 
 EU/1/24/1856/001
 
 EU/1/24/1856/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -986,35 +994,42 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Astellas Pharma Europe B.V. Sylviusweg 62 2333 BE Leiden
 
 The Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBERS
+| 12. MARKETING AUTHORISATION NUMBERS   |
+|---------------------------------------|
 
 EU/1/24/1856/003
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1053,8 +1068,6 @@ This medicine is given to patients whose tumours are positive for the Claudin18.
 
 This medicine is given in combination with other anti-cancer medicines that contain fluoropyrimidine and/or platinum. It is important that you also read the package leaflets for these other medicines. If you have any questions about these medicines, ask your doctor.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 2. What you need to know before you are given Vyloy
 
 ## You must not be given Vyloy
@@ -1066,6 +1079,9 @@ This medicine is given in combination with other anti-cancer medicines that cont
 Talk to your doctor before you are given this medicine as it may cause:
 
 - Allergic (hypersensitivity) reactions , including anaphylaxis. Serious allergic reactions can happen during or after you receive your infusion. Tell your doctor or get medical help right away if you have any of the following symptoms of a serious allergic reaction:
+
+<div style=\"page-break-after: always\"></div>
+
 - itchy, swollen pink or red areas of the skin (hives),
 - coughing that doesn't go away,
 - breathing problems such as wheezing, or
@@ -1105,8 +1121,6 @@ Vyloy should not be used if you are pregnant unless your doctor specifically rec
 
 Breast-feeding is not recommended during treatment with Vyloy. It is not known if this medicine passes into your breast milk. Tell your doctor if you are breast-feeding or plan to breast-feed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Driving and using machines
 
 Vyloy is unlikely to affect your ability to drive or use machines.
@@ -1114,6 +1128,8 @@ Vyloy is unlikely to affect your ability to drive or use machines.
 ## Vyloy contains  polysorbate 80
 
 This medicine contains 1.05 mg and 3.15 mg of polysorbate 80 in each 100 mg and 300 mg dose of Vyloy, respectively. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Vyloy infusion contains sodium
 
@@ -1143,31 +1159,42 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Some possible side effects may be serious:
 
-- Hypersensitivity (allergic) reactions (including hypersensitivity and anaphylactic reaction) common (may affect up to 1 in 10 people). Tell your doctor or get medical help right away if you have any of these symptoms of a serious allergic reaction: itchy, swollen pink or red areas of the skin (hives), coughing that doesn't go away, breathing problems such as wheezing, or throat tightness/change in voice.
+- Hypersensitivity (allergic) reactions (including hypersensitivity and anaphylactic reaction) - common (may affect up to 1 in 10 people). Tell your doctor or get medical help right away if you have any of these symptoms of a serious allergic reaction: itchy, swollen pink or red areas of the skin (hives), coughing that doesn't go away, breathing problems such as wheezing, or throat tightness/change in voice.
 - Infusion related reaction - common (may affect up to 1 in 10 people). Tell your doctor or get medical help right away if you have any of these symptoms of an infusion related reaction: nausea, vomiting, stomach pain, increased saliva (salivary hypersecretion), fever, chest discomfort, chills or shaking, back pain, cough, or high blood pressure (hypertension).
 - Nausea and vomiting - very common (may affect more than 1 in 10 people). Tell your doctor if these symptoms do not go away or become worse.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Other possible side effects:
 
 If these side effects become severe, tell your doctor.
 
-Very common (may affect more than 1 in 10 people):
+## Very common (may affect more than 1 in 10 people):
 
 - decreased appetite
 - low white blood cell count
 - low levels of albumin in the blood (hypoalbuminaemia)
 - swelling of the lower legs or hands (peripheral oedema)
+
+<div style=\"page-break-after: always\"></div>
+
 - decreased weight
 - fever (pyrexia)
 
-Common (may affect up to 1 in 10 people):
+## Common (may affect up to 1 in 10 people):
 
 - indigestion (dyspepsia)
 - increased saliva (salivary hypersecretion)
 - increased blood pressure (hypertension)
 - chills
+
+Uncommon (may affect up to 1 in 100 people)
+
+- inflammation of the stomach lining (gastritis)
+
+## Other side effects that have been reported with frequency not known (cannot be estimated from
+
+the available data)
+
+- loss of protein from the digestive tract (protein-losing gastroenteropathy)
 
 ## Reporting of side effects
 
@@ -1199,17 +1226,13 @@ Do not store any unused portion of the single-dose vials for reuse. Any unused m
 
 Vyloy powder for concentrate for solution for infusion is a white to off-white lyophilised powder.
 
-Vyloy is supplied in a carton containing 1 or 3 glass vials.
+Vyloy is supplied in a carton containing 1 or 3 glass vials. Not all pack sizes may be marketed.
 
 <div style=\"page-break-after: always\"></div>
 
-Not all pack sizes may be marketed.
-
 ## Marketing Authorisation Holder
 
-Astellas Pharma Europe B.V. Sylviusweg 62 2333 BE Leiden
-
-The Netherlands
+Astellas Pharma Europe B.V. Sylviusweg 62 2333 BE Leiden The Netherlands
 
 ## Manufacturer
 
@@ -1219,11 +1242,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Astellas Pharma B.V. Branch Tél/Tel: +32 (0) 2 5580710
+Astellas Pharma B.V. Branch
 
-## Lietuva
-
-Astellas Pharma d.o.o. Tel: +370 37 408 681
+Tél/Tel: +32 (0) 2 5580710
 
 ## България
 
@@ -1231,27 +1252,15 @@ Astellas Pharma d.o.o. Tel: +370 37 408 681
 
 Teл.: +359 2 862 53 72
 
-## Luxembourg/Luxemburg
-
-Astellas Pharma B.V. Branch Belgique/Belgien Tél/Tel: +32 (0)2 5580710
-
 ## Česká republika
 
-Astellas Pharma s.r.o. Tel: +420 221 401 500
+Astellas Pharma s.r.o.
 
-## Magyarország
-
-Astellas Pharma Kft. Tel.: +36 1 577 8200
+Tel: +420 221 401 500
 
 ## Danmark
 
-Astellas Pharma a/s
-
-Tlf.: +45 43 430355
-
-## Malta
-
-Astellas Pharmaceuticals AEBE Tel: +30 210 8189900
+Astellas Pharma a/s Tlf.: +45 43 430355
 
 ## Deutschland
 
@@ -1259,27 +1268,15 @@ Astellas Pharma GmbH
 
 Tel: +49 (0)89 454401
 
-## Nederland
-
-Astellas Pharma B.V. Tel: +31 (0)71 5455745
-
 ## Eesti
 
 Astellas Pharma d.o.o.
 
 Tel: +372 6 056 014
 
-## Norge
-
-Astellas Pharma Tlf: +47 66 76 46 00
-
 ## Ελλάδα
 
 Astellas Pharmaceuticals AEBE Τηλ: +30 210 8189900
-
-## Österreich
-
-Astellas Pharma Ges.m.b.H. Tel: +43 (0)1 8772668
 
 ## España
 
@@ -1287,11 +1284,47 @@ Astellas Pharma S.A.
 
 Tel: +34 91 4952700
 
+## Lietuva
+
+Astellas Pharma d.o.o. Tel: +370 37 408 681
+
+## Luxembourg/Luxemburg
+
+Astellas Pharma B.V. Branch Belgique/Belgien Tél/Tel: +32 (0)2 5580710
+
+## Magyarország
+
+Astellas Pharma Kft.
+
+Tel.: +36 1 577 8200
+
+## Malta
+
+Vivian Corporation Ltd. Tel: +356 22588600
+
+## Nederland
+
+Astellas Pharma B.V.
+
+Tel: +31 (0)71 5455745
+
+## Norge
+
+Astellas Pharma
+
+Tlf: +47 66 76 46 00
+
+## Österreich
+
+Astellas Pharma Ges.m.b.H.
+
+Tel: +43 (0)1 8772668
+
 ## Polska
 
-Astellas Pharma Sp.z.o.o. Tel.: +48 225451 111
+Astellas Pharma Sp.z.o.o.
 
-<div style=\"page-break-after: always\"></div>
+Tel.: +48 225451 111
 
 ## France
 
@@ -1313,7 +1346,7 @@ Tel: +353 (0)1 4671555
 
 ## Ísland
 
-Vistor hf
+Vistor
 
 Sími: +354 535 7000
 
@@ -1325,40 +1358,15 @@ Tel: +39 (0)2 921381
 
 ## Κύπρος
 
-Ελλάδα
+Novagem Ltd
 
-Astellas Pharmaceuticals AEBE
-
-Τηλ: +30 210 8189900
+Τηλ: +357 22 483858
 
 ## Latvija
 
 Astellas Pharma d.o.o.
 
 Tel: +371 67 619365
-
-## This leaflet was last revised in MM/YYYY
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
------------------------------------------------------------------------------------------------------------------------
-
-The following information is intended for healthcare professionals only:
-
-## Traceability
-
-In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
-## Instructions for preparation and administration
-
-## Reconstitution in single-dose vial
-
-- Follow procedures for proper handling and disposal of anticancer medicinal products.
-- Use appropriate aseptic technique for reconstitution and preparation of solutions.
-- Calculate the recommended dose based on the patient's body surface area to determine the number of vials needed.
-- Reconstitute each vial as follows. If possible, direct the stream of sterile water for injections (SWFI) along the walls of the vial and not directly onto the lyophilised powder:
 
 ## Portugal
 
@@ -1398,7 +1406,32 @@ Tel: +46 (0)40-650 15 00
 
 <div style=\"page-break-after: always\"></div>
 
+## This leaflet was last revised in MM/YYYY
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+The following information is intended for healthcare professionals only:
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+## Instructions for preparation and administration
+
+## Reconstitution in single-dose vial
+
+- Follow procedures for proper handling and disposal of anticancer medicinal products.
+- Use appropriate aseptic technique for reconstitution and preparation of solutions.
+- Calculate the recommended dose based on the patient's body surface area to determine the number of vials needed.
+- Reconstitute each vial as follows. If possible, direct the stream of sterile water for injections (SWFI) along the walls of the vial and not directly onto the lyophilised powder:
 - a. 100 mg vial: Slowly add 5 mL of SWFI, resulting in 20 mg/mL zolbetuximab.
+
+<div style=\"page-break-after: always\"></div>
+
 - b. 300 mg vial: Slowly add 15 mL of SWFI, resulting in 20 mg/mL zolbetuximab.
 - Slowly swirl each vial until the contents are completely dissolved. Allow the reconstituted vial(s) to settle. Visually inspect the solution until the bubbles are gone. Do not shake the vial(s).
 - Visually inspect the solution for particulate matter and discolouration. The reconstituted solution should be clear to slightly opalescent, colourless to slight yellow and free of visible particles. Discard any vial with visible particles or discolouration.

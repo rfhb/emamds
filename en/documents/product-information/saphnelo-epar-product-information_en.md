@@ -1,30 +1,26 @@
 ---
-document_datetime: 2026-07-15 17:01:13
+document_datetime: 2026-09-11 16:11:59
 document_pages: 78
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/saphnelo-epar-product-information_en.pdf
 document_name: saphnelo-epar-product-information_en.pdf
 version: success
-processing_time: 16.2143507
-conversion_datetime: 2026-07-16 13:29:41.088909
+processing_time: 18.0999412
+conversion_datetime: 2026-09-13 12:24:13.024536
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.32.0
+  docling-jobkit: 3.5.0
+  docling: 2.126.0
+  docling-core: 2.96.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.19.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -70,13 +66,13 @@ In patients with a history of infusion-related reactions, premedication (e.g., a
 
 If a planned infusion is missed, treatment should be administered as soon as possible. A minimum interval of 14 days should be maintained between doses.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
 ## Elderly
 
 No dose adjustment is required. There is limited information in subjects aged ≥65 years (n=33); no data are available in patients over 75 years of age (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -122,11 +118,11 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Patient groups excluded from clinical studies
 
 Anifrolumab has not been studied in combination with other biologic therapies, including B-cell-targeted therapies. Therefore, treatment with anifrolumab is not recommended in combination with biologic therapies.
+
+<div style=\"page-break-after: always\"></div>
 
 Anifrolumab has not been studied in patients with severe active central nervous system lupus or severe active lupus nephritis (see section 5.1).
 
@@ -142,7 +138,7 @@ If a serious infusion-related or hypersensitivity reaction (e.g., anaphylaxis) o
 
 ## Infections
 
-Anifrolumab increases the risk of respiratory infections and herpes zoster (disseminated herpes zoster events have been observed), see section 4.8. SLE patients also taking immunosuppressants may be at higher risk of herpes zoster infections.
+Anifrolumab increases the risk of respiratory infections and herpes zoster; disseminated herpes zoster events have been observed (see section 4.8). SLE patients also taking immunosuppressants may be at higher risk of herpes zoster infections.
 
 In controlled-clinical trials serious and sometimes fatal infections (including pneumonia) occurred, including in patients receiving anifrolumab.
 
@@ -154,15 +150,15 @@ The placebo-controlled clinical trials excluded patients with a history of activ
 
 ## Immunisations
 
-Prior to initiating therapy, completion of all appropriate immunisations should be considered according to current immunisation guidelines. Concurrent use of live or attenuated vaccines should be avoided in patients treated with anifrolumab.
+Prior to initiating therapy, completion of all appropriate immunisations should be considered according to current immunisation guidelines. Concurrent use of live or live attenuated vaccines should be avoided in patients treated with anifrolumab.
 
 Immune responses to non-live vaccines have been assessed in a small number of patients (see section 4.5).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Malignancy
 
 The impact of treatment with anifrolumab on the potential development of malignancies is not known. Studies in patients with a history of malignancy have not been conducted; however, patients with squamous or basal cell skin cancers and uterine cervical cancer that had been fully excised or adequately treated were eligible for enrolment in the SLE clinical trials.
+
+<div style=\"page-break-after: always\"></div>
 
 In the intravenous and subcutaneous clinical trials of 52-week treatment duration, malignant neoplasm (including non-melanoma skin cancers) was reported for 0.9% of patients receiving anifrolumab compared to 0.6% patients receiving placebo (exposure-adjusted incidence rate [EAIR]: 0.95 and 0.64 events per 100 patient years [PY], respectively). Malignancies excluding non-melanoma skin cancers were observed in 0.5% and 0.6% of patients receiving anifrolumab and placebo, respectively. In patients receiving anifrolumab, breast and squamous cell carcinoma were the malignancies observed in more than one patient.
 
@@ -188,7 +184,7 @@ Immune response to non-live seasonal influenza vaccine was assessed in a small n
 
 ## Live vaccines
 
-The concurrent use of anifrolumab with live and live-attenuated vaccines has not been studied (see section 4.4).
+The concurrent use of anifrolumab with live and live attenuated vaccines has not been studied (see section 4.4).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -198,9 +194,9 @@ There are limited data (less than 300 pregnancy outcomes) from the use of Saphne
 
 Animal studies are inconclusive with respect to reproductive toxicity (see section 5.3).
 
-<div style=\"page-break-after: always\"></div>
-
 Saphnelo is not recommended during pregnancy and in women of childbearing potential not using contraception, unless the possible benefit justifies the potential risk.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -335,7 +331,7 @@ In Trial 1 the primary endpoint was SLE Responder Index (SRI-4) response, define
 - Reduction from baseline of ≥4 points in the SLEDAI-2K;
 - No new organ system affected as defined by 1 or more BILAG A or 2 or more BILAG B items compared to baseline;
 - No worsening from baseline in the lupus disease activity defined by an increase ≥0.30 points on a 3-point PGA visual analogue scale (VAS);
-- No use of restricted medication beyond the protocol-allowed thresholds;
+- No use of restricted medicinal products beyond the protocol-allowed thresholds;
 - No discontinuation of treatment.
 
 In Trial 2 the primary endpoint was British Isles Lupus Assessment Group based Composite Lupus Assessment (BICLA) response at Week 52, defined as improvement in all organ domains with moderate or severe activity at baseline:
@@ -343,7 +339,7 @@ In Trial 2 the primary endpoint was British Isles Lupus Assessment Group based C
 - Reduction of all baseline BILAG A to B/C/D and baseline BILAG B to C/D, and no BILAG worsening in other organ systems, as defined by ≥1 new BILAG A or ≥2 new BILAG B;
 - No worsening from baseline in SLEDAI-2K, where worsening is defined as an increase from baseline of &gt;0 points;
 - No worsening from baseline in lupus disease activity, where worsening is defined by an increase ≥0.30 points on a 3-point PGA VAS;
-- No use of restricted medication beyond the protocol-allowed thresholds;
+- No use of restricted medicinal products beyond the protocol-allowed thresholds;
 - No discontinuation of treatment.
 
 <div style=\"page-break-after: always\"></div>
@@ -354,45 +350,43 @@ Patient demographics were generally similar in both trials; the median age was 4
 
 In Trials 1 and 2, 90% of patients (both trials) were seropositive for anti-nuclear antibodies (ANA), and 45% and 44% for anti-double-stranded DNA (anti-dsDNA) antibodies; 34% and 40% of patients had low C3, and 21% and 26% had low C4.
 
-Baseline concomitant standard therapy medications included oral corticosteroids (Trial 1: 83%, Trial 2: 81%), antimalarials (Trial 1: 73%, Trial 2: 70%) and immunosuppressants (Trial 1: 47%, Trial 2: 48%; including azathioprine, methotrexate, mycophenolate and mizoribine). For those patients taking OCS (prednisone or equivalent) at baseline, the mean daily dose was 12.3 mg in Trial 1 and 10.7 mg in Trial 2. During Weeks 8-40, patients with a baseline OCS ≥10 mg/day were required to taper their OCS dose to ≤7.5 mg/day, unless there was worsening of disease activity.
+Baseline concomitant standard therapy included oral corticosteroids (Trial 1: 83%, Trial 2: 81%), antimalarials (Trial 1: 73%, Trial 2: 70%) and immunosuppressants (Trial 1: 47%, Trial 2: 48%; including azathioprine, methotrexate, mycophenolate and mizoribine). For those patients taking OCS (prednisone or equivalent) at baseline, the mean daily dose was 12.3 mg in Trial 1 and 10.7 mg in Trial 2. During Weeks 8-40, patients with a baseline OCS ≥10 mg/day were required to taper their OCS dose to ≤7.5 mg/day, unless there was worsening of disease activity.
 
 For BICLA and SRI-4 response, patients who withdrew from treatment prior to Week 52 were considered non-responders. In Trial 1 and 2 respectively, 35 (19%) and 27 (15%) patients receiving anifrolumab, and 38 (21%) and 52 (29%) patients receiving placebo withdrew from treatment prior to Week 52. The results are presented in Table 2.
 
 Table 2 Efficacy results in adults with SLE in Trial 1 and Trial 2
 
-|                                                                          | Trial 1            | Trial 1          | Trial 2            | Trial 2          |
-|--------------------------------------------------------------------------|--------------------|------------------|--------------------|------------------|
-|                                                                          | Anifrolumab 300 mg | Placebo          | Anifrolumab 300 mg | Placebo          |
-| BICLA response at Week 52*                                               |                    |                  |                    |                  |
-| Responder rate, % (n/N)                                                  | 47.1 (85/180)      | 30.2 (55/184)    | 47.8 (86/180)      | 31.5 (57/182)    |
-| Difference % (95% CI)                                                    | 17.0 (7.2, 26.8)   | 17.0 (7.2, 26.8) | 16.3 (6.3, 26.3)   | 16.3 (6.3, 26.3) |
-| Components of BICLA response: BILAG improvement, n (%) †                 | 85 (47.2)          | 58 (31.5)        | 88 (48.9)          | 59 (32.4)        |
-| No worsening of SLEDAI-2K, n (%) †                                       | 121 (67.2)         | 104 (56.5)       | 122 (67.8)         | 94 (51.6)        |
-| No worsening of PGA, n (%) †                                             | 117 (65.0)         | 105 (57.1)       | 122 (67.8)         | 95 (52.2)        |
-| No discontinuation of treatment, n (%)                                   | 145 (80.6)         | 146 (79.3)       | 153 (85.0)         | 130 (71.4)       |
-| No use of restricted medication beyond protocol allowed threshold, n (%) | 140 (77.8)         | 128 (69.6)       | 144 (80.0)         | 123 (67.6)       |
-| SRI-4 response at Week 52*                                               |                    |                  |                    |                  |
-| Responder rate, % (n/N) †                                                | 49.0 (88/180)      | 43.0 (79/184)    | 55.5 (100/180)     | 37.3 (68/182)    |
-| Difference % (95% CI)                                                    | 6.0 (-4.2, 16.2)   | 6.0 (-4.2, 16.2) | 18.2 (8.1, 28.3)   | 18.2 (8.1, 28.3) |
+|                                                                                  | Trial 1 - Anifrolumab 300 mg   | Trial 1 - Placebo   | Trial 2 - Anifrolumab 300 mg   | Trial 2 - Placebo   |
+|----------------------------------------------------------------------------------|--------------------------------|---------------------|--------------------------------|---------------------|
+| BICLA response at Week 52*                                                       |                                |                     |                                |                     |
+| Responder rate, % (n/N)                                                          | 47.1 (85/180)                  | 30.2 (55/184)       | 47.8 (86/180)                  | 31.5 (57/182)       |
+| Difference % (95% CI)                                                            | 17.0 (7.2, 26.8)               | 17.0 (7.2, 26.8)    | 16.3 (6.3, 26.3)               | 16.3 (6.3, 26.3)    |
+| Components of BICLA response: BILAG improvement, n (%) †                         | 85 (47.2)                      | 58 (31.5)           | 88 (48.9)                      | 59 (32.4)           |
+| No worsening of SLEDAI-2K, n (%) †                                               | 121 (67.2)                     | 104 (56.5)          | 122 (67.8)                     | 94 (51.6)           |
+| No worsening of PGA, n (%) †                                                     | 117 (65.0)                     | 105 (57.1)          | 122 (67.8)                     | 95 (52.2)           |
+| No discontinuation of treatment, n (%)                                           | 145 (80.6)                     | 146 (79.3)          | 153 (85.0)                     | 130 (71.4)          |
+| No use of restricted medicinal products beyond protocol allowed threshold, n (%) | 140 (77.8)                     | 128 (69.6)          | 144 (80.0)                     | 123 (67.6)          |
+| SRI-4 response at Week 52*                                                       |                                |                     |                                |                     |
+| Responder rate, % (n/N) †                                                        | 49.0 (88/180)                  | 43.0 (79/184)       | 55.5 (100/180)                 | 37.3 (68/182)       |
+| Difference % (95% CI)                                                            | 6.0 (-4.2, 16.2)               | 6.0 (-4.2, 16.2)    | 18.2 (8.1, 28.3)               | 18.2 (8.1, 28.3)    |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                          | Trial 1            | Trial 1           | Trial 2            | Trial 2           |
-|------------------------------------------|--------------------|-------------------|--------------------|-------------------|
-|                                          | Anifrolumab 300 mg | Placebo           | Anifrolumab 300 mg | Placebo           |
-| Sustained OCS reduction ‡                |                    |                   |                    |                   |
-| Responder rate, % (n/N) †                | 49.7 (51/103)      | 33.1 (34/102)     | 51.5 (45/87)       | 30.2 (25/83)      |
-| Difference % (95% CI)                    | 16.6 (3.4, 29.8)   | 16.6 (3.4, 29.8)  | 21.2 (6.8, 35.7)   | 21.2 (6.8, 35.7)  |
-| Flare rate                               |                    |                   |                    |                   |
-| Annualised flare rate estimate, (95% CI) | 0.57 (0.43, 0.76)  | 0.68 (0.52, 0.90) | 0.43 (0.31, 0.59)  | 0.64 (0.47, 0.86) |
-| Rate ratio estimate (95% CI)             | 0.83 (0.61, 1.15)  | 0.83 (0.61, 1.15) | 0.67 (0.48, 0.94)  | 0.67 (0.48, 0.94) |
+|                                          | Trial 1 - Anifrolumab 300 mg   | Trial 1 - Placebo   | Trial 2 - Anifrolumab 300 mg   | Trial 2 - Placebo   |
+|------------------------------------------|--------------------------------|---------------------|--------------------------------|---------------------|
+| Sustained OCS reduction ‡                |                                |                     |                                |                     |
+| Responder rate, % (n/N) †                | 49.7 (51/103)                  | 33.1 (34/102)       | 51.5 (45/87)                   | 30.2 (25/83)        |
+| Difference % (95% CI)                    | 16.6 (3.4, 29.8)               | 16.6 (3.4, 29.8)    | 21.2 (6.8, 35.7)               | 21.2 (6.8, 35.7)    |
+| Flare rate                               |                                |                     |                                |                     |
+| Annualised flare rate estimate, (95% CI) | 0.57 (0.43, 0.76)              | 0.68 (0.52, 0.90)   | 0.43 (0.31, 0.59)              | 0.64 (0.47, 0.86)   |
+| Rate ratio estimate (95% CI)             | 0.83 (0.61, 1.15)              | 0.83 (0.61, 1.15)   | 0.67 (0.48, 0.94)              | 0.67 (0.48, 0.94)   |
 
 BICLA: British Isles Lupus Assessment Group-based Composite Lupus Assessment; BILAG: British Isles Lupus Assessment Group, PGA: Physician's Global Assessment; SLEDAI-2K: Systemic Lupus Erythematosus Disease Activity Index 2000; SRI-4: SLE Responder Index.
 
 All patients received standard therapy.
 
-* BICLA and SRI-4 are based on the composite estimand where treatment discontinuation or restricted medication use are part of the response criteria.
-- † Patients who discontinued treatment or used restricted medications beyond protocol allowed threshold are considered non-responders.
+* BICLA and SRI-4 are based on the composite estimand where treatment discontinuation or restricted medicinal product use are part of the response criteria.
+- † Patients who discontinued treatment or used restricted medicinal products beyond protocol allowed threshold are considered non-responders.
 - ‡ Subgroup of patients with OCS ≥10 mg/day at baseline. Responders were defined as patients with OCS reduction to ≤7.5 mg/day at Week 40, maintained through Week 52.
 
 ## Long-term extension
@@ -552,17 +546,13 @@ EU/1/21/1623/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 14 February 2022
+Date of first authorisation: 14 February 2022 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -630,7 +620,7 @@ The safety and efficacy of Saphnelo in children and adolescents (aged &lt;18 yea
 
 ## Method of administration
 
-For subcutaneous use.
+## For subcutaneous use.
 
 Saphnelo is administered as a subcutaneous injection into the thigh or abdomen, except for the 5 cm around the navel. If a healthcare professional or caregiver administers the injection, the upper arm can also be used. It should not be injected into areas where the skin is tender, bruised, erythematous or hardened. When injecting in the same region, patients should be advised to use an injection site that is at least 3 cm away from the last injection site.
 
@@ -656,9 +646,9 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Anifrolumab has not been studied in combination with other biologic therapies, including B-cell-targeted therapies. Therefore, treatment with anifrolumab is not recommended in combination with biologic therapies.
 
-<div style=\"page-break-after: always\"></div>
-
 Anifrolumab has not been studied in patients with severe active central nervous system lupus or severe active lupus nephritis (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hypersensitivity
 
@@ -670,7 +660,7 @@ If a serious hypersensitivity reaction (e.g., anaphylaxis) occurs, administratio
 
 ## Infections
 
-Anifrolumab increases the risk of respiratory infections and herpes zoster (disseminated herpes zoster events have been observed), see section 4.8. SLE patients also taking immunosuppressants may be at higher risk of herpes zoster infections.
+Anifrolumab increases the risk of respiratory infections and herpes zoster; disseminated herpes zoster events have been observed (see section 4.8). SLE patients also taking immunosuppressants may be at higher risk of herpes zoster infections.
 
 In controlled-clinical trials serious and sometimes fatal infections (including pneumonia) occurred, including in patients receiving anifrolumab.
 
@@ -682,7 +672,7 @@ The placebo-controlled clinical trials excluded patients with a history of activ
 
 ## Immunisations
 
-Prior to initiating therapy, completion of all appropriate immunisations should be considered according to current immunisation guidelines. Concurrent use of live or attenuated vaccines should be avoided in patients treated with anifrolumab.
+Prior to initiating therapy, completion of all appropriate immunisations should be considered according to current immunisation guidelines. Concurrent use of live or live attenuated vaccines should be avoided in patients treated with anifrolumab.
 
 Immune responses to non-live vaccines have been assessed in a small number of patients (see section 4.5).
 
@@ -690,9 +680,9 @@ Immune responses to non-live vaccines have been assessed in a small number of pa
 
 The impact of treatment with anifrolumab on the potential development of malignancies is not known. Studies in patients with a history of malignancy have not been conducted; however, patients with squamous or basal cell skin cancers and uterine cervical cancer that had been fully excised or adequately treated were eligible for enrolment in the SLE clinical trials.
 
-<div style=\"page-break-after: always\"></div>
-
 In the intravenous and subcutaneous clinical trials of 52-week treatment duration, malignant neoplasm (including non-melanoma skin cancers) was reported for 0.9% of patients receiving anifrolumab compared to 0.6% patients receiving placebo (exposure-adjusted incidence rate [EAIR]: 0.95 and 0.64 events per 100 patient years [PY], respectively). Malignancies excluding non-melanoma skin cancers were observed in 0.5% and 0.6% of patients receiving anifrolumab and placebo, respectively. In patients receiving anifrolumab, breast and squamous cell carcinoma were the malignancies observed in more than one patient.
+
+<div style=\"page-break-after: always\"></div>
 
 Individual benefit-risk should be considered in patients with known risk factors for the development or reoccurrence of malignancy. Caution should be exercised when considering continuing therapy for patients who develop malignancy.
 
@@ -716,7 +706,7 @@ Immune response to non-live seasonal influenza vaccine was assessed in a small n
 
 ## Live vaccines
 
-The concurrent use of anifrolumab with live and live-attenuated vaccines has not been studied (see section 4.4).
+The concurrent use of anifrolumab with live and live attenuated vaccines has not been studied (see section 4.4).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -732,9 +722,9 @@ Saphnelo is not recommended during pregnancy and in women of childbearing potent
 
 It is not known whether anifrolumab is excreted in human milk. Anifrolumab was detected in the milk of female cynomolgus monkeys (see section 5.3).
 
-<div style=\"page-break-after: always\"></div>
-
 A risk to the suckling child cannot be excluded.
+
+<div style=\"page-break-after: always\"></div>
 
 A decision must be made whether to discontinue breast-feeding or to discontinue from Saphnelo therapy, taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
@@ -803,11 +793,11 @@ In the LTE (intravenous administration), incidence rates decreased over time.
 
 Herpes zoster infections were predominantly of localised cutaneous presentation, mild or moderate in intensity and resolved without discontinuation of anifrolumab therapy. Cases with multidermatomal involvement and cases of disseminated disease (including central nervous system involvement) have been reported (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Immunogenicity
 
 In the intravenous Phase III trials, treatment-emergent anti-drug antibodies were detected in 6 out of 352 patients (1.7%) treated with anifrolumab at the recommended dosing regimen during the 60-week study period.
+
+<div style=\"page-break-after: always\"></div>
 
 In the LTE (years 2 through 4 on treatment), treatment-emergent anti-drug antibodies were detected in an additional 5 patients treated with anifrolumab.
 
@@ -839,9 +829,9 @@ Anifrolumab is a human immunoglobulin G1 kappa monoclonal antibody that binds to
 
 In adult patients with SLE, administration of anifrolumab ≥300 mg intravenous every 4 weeks and 120 mg subcutaneous once weekly, demonstrated consistent neutralisation (≥80%) of a 21 gene type I interferon pharmacodynamic (PD) signature in blood. This suppression occurred as early as 4 weeks post-treatment and was either maintained or further suppressed over the 52-week treatment period. Following withdrawal of anifrolumab at the end of the 52-week treatment period in the SLE clinical trials, the type I IFN PD signature in blood samples returned to baseline levels within 8 to 12 weeks.
 
-<div style=\"page-break-after: always\"></div>
-
 Anifrolumab 150 mg (intravenous) showed &lt;20% suppression of the gene signature at early timepoints, that reached a maximum of &lt;60% by the end of the treatment period.
+
+<div style=\"page-break-after: always\"></div>
 
 In SLE patients with positive anti-dsDNA antibodies at baseline, treatment with anifrolumab 300 mg intravenously every 4 weeks and 120 mg subcutaneously once weekly led to numerical reductions in anti-dsDNA antibodies over time through Week 52.
 
@@ -862,7 +852,7 @@ In Trial 1 the primary endpoint was SLE Responder Index (SRI-4) response, define
 - Reduction from baseline of ≥4 points in the SLEDAI-2K;
 - No new organ system affected as defined by 1 or more BILAG A or 2 or more BILAG B items compared to baseline;
 - No worsening from baseline in the lupus disease activity defined by an increase ≥0.30 points on a 3-point PGA visual analogue scale (VAS);
-- No use of restricted medication beyond the protocol-allowed thresholds;
+- No use of restricted medicinal products beyond the protocol-allowed thresholds;
 - No discontinuation of treatment.
 
 In Trial 2 the primary endpoint was British Isles Lupus Assessment Group based Composite Lupus Assessment (BICLA) response at Week 52, defined as improvement in all organ domains with moderate or severe activity at baseline:
@@ -870,56 +860,54 @@ In Trial 2 the primary endpoint was British Isles Lupus Assessment Group based C
 - Reduction of all baseline BILAG A to B/C/D and baseline BILAG B to C/D, and no BILAG worsening in other organ systems, as defined by ≥1 new BILAG A or ≥2 new BILAG B;
 - No worsening from baseline in SLEDAI-2K, where worsening is defined as an increase from baseline of &gt;0 points;
 - No worsening from baseline in lupus disease activity, where worsening is defined by an increase ≥0.30 points on a 3-point PGA VAS;
-- No use of restricted medication beyond the protocol-allowed thresholds;
+- No use of restricted medicinal products beyond the protocol-allowed thresholds;
 - No discontinuation of treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 The secondary efficacy endpoints included in both studies included maintenance of OCS reduction and annual flare rate. Both studies evaluated the efficacy of anifrolumab 300 mg versus placebo.
+
+<div style=\"page-break-after: always\"></div>
 
 Patient demographics were generally similar in both trials; the median age was 41.3 and 42.1 years (range 18-69), 4.4% and 1.7% were ≥65 years of age, 92% and 93% were female, 71% and 60% were White, 14% and 12% were Black/African American, and 5% and 17% were Asian, in Trials 1 and 2 respectively. In both trials, 72% of patients had high disease activity (SLEDAI-2K score ≥10). In Trials 1 and 2 respectively, 48% and 49% had severe disease (BILAG A) in at least 1 organ system and 46% and 47% of patients had moderate disease (BILAG B) in at least 2 organ systems. The most commonly affected organ systems (BILAG A or B at baseline) were the mucocutaneous (Trial 1: 87%, Trial 2: 85%) and musculoskeletal (Trial 1: 89%, Trial 2: 88%) systems.
 
 In Trials 1 and 2, 90% of patients (both trials) were seropositive for anti-nuclear antibodies (ANA), and 45% and 44% for anti-double-stranded DNA (anti-dsDNA) antibodies; 34% and 40% of patients had low C3, and 21% and 26% had low C4.
 
-Baseline concomitant standard therapy medications included oral corticosteroids (Trial 1: 83%, Trial 2: 81%), antimalarials (Trial 1: 73%, Trial 2: 70%) and immunosuppressants (Trial 1: 47%, Trial 2: 48%; including azathioprine, methotrexate, mycophenolate and mizoribine). For those patients taking OCS (prednisone or equivalent) at baseline, the mean daily dose was 12.3 mg in Trial 1 and 10.7 mg in Trial 2. During Weeks 8-40, patients with a baseline OCS ≥10 mg/day were required to taper their OCS dose to ≤7.5 mg/day, unless there was worsening of disease activity.
+Baseline concomitant standard therapy included oral corticosteroids (Trial 1: 83%, Trial 2: 81%), antimalarials (Trial 1: 73%, Trial 2: 70%) and immunosuppressants (Trial 1: 47%, Trial 2: 48%; including azathioprine, methotrexate, mycophenolate and mizoribine). For those patients taking OCS (prednisone or equivalent) at baseline, the mean daily dose was 12.3 mg in Trial 1 and 10.7 mg in Trial 2. During Weeks 8-40, patients with a baseline OCS ≥10 mg/day were required to taper their OCS dose to ≤7.5 mg/day, unless there was worsening of disease activity.
 
 For BICLA and SRI-4 response, patients who withdrew from treatment prior to Week 52 were considered non-responders. In Trial 1 and 2 respectively, 35 (19%) and 27 (15%) patients receiving anifrolumab, and 38 (21%) and 52 (29%) patients receiving placebo withdrew from treatment prior to Week 52. The results are presented in Table 2.
 
 Table 2 Efficacy results in adults with SLE in Trial 1 and Trial 2
 
-|                                                                          | Trial 1            | Trial 1          | Trial 2            | Trial 2          |
-|--------------------------------------------------------------------------|--------------------|------------------|--------------------|------------------|
-|                                                                          | Anifrolumab 300 mg | Placebo          | Anifrolumab 300 mg | Placebo          |
-| BICLA response at Week 52*                                               |                    |                  |                    |                  |
-| Responder rate, % (n/N)                                                  | 47.1 (85/180)      | 30.2 (55/184)    | 47.8 (86/180)      | 31.5 (57/182)    |
-| Difference % (95% CI)                                                    | 17.0 (7.2, 26.8)   | 17.0 (7.2, 26.8) | 16.3 (6.3, 26.3)   | 16.3 (6.3, 26.3) |
-| Components of BICLA response: BILAG improvement, n (%) †                 | 85 (47.2)          | 58 (31.5)        | 88 (48.9)          | 59 (32.4)        |
-| No worsening of SLEDAI-2K, n (%) †                                       | 121 (67.2)         | 104 (56.5)       | 122 (67.8)         | 94 (51.6)        |
-| No worsening of PGA, n (%) †                                             | 117 (65.0)         | 105 (57.1)       | 122 (67.8)         | 95 (52.2)        |
-| No discontinuation of treatment, n (%)                                   | 145 (80.6)         | 146 (79.3)       | 153 (85.0)         | 130 (71.4)       |
-| No use of restricted medication beyond protocol allowed threshold, n (%) | 140 (77.8)         | 128 (69.6)       | 144 (80.0)         | 123 (67.6)       |
-| SRI-4 response at Week 52*                                               |                    |                  |                    |                  |
-| Responder rate, % (n/N) †                                                | 49.0 (88/180)      | 43.0 (79/184)    | 55.5 (100/180)     | 37.3 (68/182)    |
-| Difference % (95% CI)                                                    | 6.0 (-4.2, 16.2)   | 6.0 (-4.2, 16.2) | 18.2 (8.1, 28.3)   | 18.2 (8.1, 28.3) |
+|                                                                                  | Trial 1 - Anifrolumab 300 mg   | Trial 1 - Placebo   | Trial 2 - Anifrolumab 300 mg   | Trial 2 - Placebo   |
+|----------------------------------------------------------------------------------|--------------------------------|---------------------|--------------------------------|---------------------|
+| BICLA response at Week 52*                                                       |                                |                     |                                |                     |
+| Responder rate, % (n/N)                                                          | 47.1 (85/180)                  | 30.2 (55/184)       | 47.8 (86/180)                  | 31.5 (57/182)       |
+| Difference % (95% CI)                                                            | 17.0 (7.2, 26.8)               | 17.0 (7.2, 26.8)    | 16.3 (6.3, 26.3)               | 16.3 (6.3, 26.3)    |
+| Components of BICLA response: BILAG improvement, n (%) †                         | 85 (47.2)                      | 58 (31.5)           | 88 (48.9)                      | 59 (32.4)           |
+| No worsening of SLEDAI-2K, n (%) †                                               | 121 (67.2)                     | 104 (56.5)          | 122 (67.8)                     | 94 (51.6)           |
+| No worsening of PGA, n (%) †                                                     | 117 (65.0)                     | 105 (57.1)          | 122 (67.8)                     | 95 (52.2)           |
+| No discontinuation of treatment, n (%)                                           | 145 (80.6)                     | 146 (79.3)          | 153 (85.0)                     | 130 (71.4)          |
+| No use of restricted medicinal products beyond protocol allowed threshold, n (%) | 140 (77.8)                     | 128 (69.6)          | 144 (80.0)                     | 123 (67.6)          |
+| SRI-4 response at Week 52*                                                       |                                |                     |                                |                     |
+| Responder rate, % (n/N) †                                                        | 49.0 (88/180)                  | 43.0 (79/184)       | 55.5 (100/180)                 | 37.3 (68/182)       |
+| Difference % (95% CI)                                                            | 6.0 (-4.2, 16.2)               | 6.0 (-4.2, 16.2)    | 18.2 (8.1, 28.3)               | 18.2 (8.1, 28.3)    |
+| Sustained OCS reduction ‡                                                        |                                |                     |                                |                     |
+| Responder rate, % (n/N) †                                                        | 49.7 (51/103)                  | 33.1 (34/102)       | 51.5 (45/87)                   | 30.2 (25/83)        |
+| Difference % (95% CI)                                                            | 16.6 (3.4, 29.8)               | 16.6 (3.4, 29.8)    | 21.2 (6.8, 35.7)               | 21.2 (6.8, 35.7)    |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                          | Trial 1            | Trial 1           | Trial 2            | Trial 2           |
-|------------------------------------------|--------------------|-------------------|--------------------|-------------------|
-|                                          | Anifrolumab 300 mg | Placebo           | Anifrolumab 300 mg | Placebo           |
-| Sustained OCS reduction ‡                |                    |                   |                    |                   |
-| Responder rate, % (n/N) †                | 49.7 (51/103)      | 33.1 (34/102)     | 51.5 (45/87)       | 30.2 (25/83)      |
-| Difference % (95% CI)                    | 16.6 (3.4, 29.8)   | 16.6 (3.4, 29.8)  | 21.2 (6.8, 35.7)   | 21.2 (6.8, 35.7)  |
-| Flare rate                               |                    |                   |                    |                   |
-| Annualised flare rate estimate, (95% CI) | 0.57 (0.43, 0.76)  | 0.68 (0.52, 0.90) | 0.43 (0.31, 0.59)  | 0.64 (0.47, 0.86) |
-| Rate ratio estimate (95% CI)             | 0.83 (0.61, 1.15)  | 0.83 (0.61, 1.15) | 0.67 (0.48, 0.94)  | 0.67 (0.48, 0.94) |
+|                                          | Trial 1 - Anifrolumab 300 mg   | Trial 1 - Placebo   | Trial 2 - Anifrolumab 300 mg   | Trial 2 - Placebo   |
+|------------------------------------------|--------------------------------|---------------------|--------------------------------|---------------------|
+| Flare rate                               |                                |                     |                                |                     |
+| Annualised flare rate estimate, (95% CI) | 0.57 (0.43, 0.76)              | 0.68 (0.52, 0.90)   | 0.43 (0.31, 0.59)              | 0.64 (0.47, 0.86)   |
+| Rate ratio estimate (95% CI)             | 0.83 (0.61, 1.15)              | 0.83 (0.61, 1.15)   | 0.67 (0.48, 0.94)              | 0.67 (0.48, 0.94)   |
 
 BICLA: British Isles Lupus Assessment Group-based Composite Lupus Assessment; BILAG: British Isles Lupus Assessment Group, PGA: Physician's Global Assessment; SLEDAI-2K: Systemic Lupus Erythematosus Disease Activity Index 2000; SRI-4: SLE Responder Index.
 
 All patients received standard therapy.
 
-* BICLA and SRI(4) are based on the composite estimand where treatment discontinuation or restricted medication use are part of the response criteria.
-- † Patients who discontinued treatment or used restricted medications beyond protocol allowed threshold are considered non-responders.
+* BICLA and SRI(4) are based on the composite estimand where treatment discontinuation or restricted medicinal product use are part of the response criteria.
+- † Patients who discontinued treatment or used restricted medicinal products beyond protocol allowed threshold are considered non-responders.
 - ‡ Subgroup of patients with OCS ≥10 mg/day at baseline. Responders were defined as patients with OCS reduction to ≤7.5 mg/day at Week 40, maintained through Week 52.
 
 Long-term extension: Patients who completed Trials 1 and 2 (feeder trials) through Week 52 were eligible to continue on treatment in a randomised, double-blind, placebo-controlled, 3-year LTE. Patients who had received anifrolumab, either 150 mg or 300 mg, in Trials 1 and 2 received anifrolumab 300 mg in the LTE. Patients who had received placebo in Trials 1 and 2 were re-randomised 1:1 to receive either anifrolumab 300 mg or placebo, giving an approximate anifrolumab 300 mg: placebo ratio of 4:1 in the LTE.
@@ -930,9 +918,11 @@ Long-term efficacy was evaluated in patients who received anifrolumab 300 mg or 
 
 The safety and efficacy of anifrolumab administered subcutaneously were evaluated in a 52-week treatment period, multicentre, randomised, double-blind, placebo-controlled, Phase III study. All patients were ≥18 years of age, diagnosed with SLE according to the American College of Rheumatology (1997 revised) classification criteria, and had moderate to severe disease, with a SLEDAI-2K score ≥6 points, organ level involvement based on BILAG assessment, and a PGA score ≥1, despite receiving standard SLE therapy consisting of either one or any combination of OCS, antimalarials and/or immunosuppressants at baseline. Patients continued to receive their existing SLE therapy at stable doses during the trial, with the exception of OCS (prednisone or equivalent) where tapering was a component of the protocol. Patients who had severe active lupus nephritis or severe active central nervous system lupus were excluded. Patients were randomised (1:1) to receive 120 mg anifrolumab or placebo by subcutaneous injection once every week.
 
-A pre-specified interim analysis was conducted when 220 randomised patients completed Week 52 or had withdrawn from the trial. Of these, 89% were female, 78% White, 7% Asian and 4% Black/African American. The median age was 43 years (range: 19-70). At baseline, 67% had high disease activity (SLEDAI-2K score ≥10), 45% had severe disease (BILAG A) in at least 1 organ system and 50% had moderate disease (BILAG B) in at least 2 organ systems. The most commonly affected organ systems (BILAG A or B at baseline) were the musculoskeletal (95%) and mucocutaneous (92%) systems; 2% cardiorespiratory and 2% renal organ domain involvement. At baseline, 95% were seropositive for ANA antibodies and 40% for anti-dsDNA antibodies; 33% of patients had low C3, and 24% low C4. Background SLE standard therapy included OCS (82%; mean daily dose (prednisone or equivalent) 9.8 mg), immunosuppressants (56%), and antimalarials (80%). During Weeks 8-40, patients with a baseline OCS ≥10 mg/day were required to taper their OCS dose to ≤7.5 mg/day, unless there was worsening of disease activity.
+A pre-specified interim analysis was conducted when 220 randomised patients completed Week 52 or had withdrawn from the trial. Of these, 89% were female, 78% White, 7% Asian and 4% Black/African American. The median age was 43 years (range: 19-70). At baseline, 67% had high disease activity (SLEDAI-2K score ≥10), 45% had severe disease (BILAG A) in at least 1 organ system and 50% had moderate disease (BILAG B) in at least 2 organ systems. The most commonly affected organ systems (BILAG A or B at baseline) were the musculoskeletal (95%) and mucocutaneous (92%) systems; 2% cardiorespiratory and 2% renal organ domain involvement. At baseline, 95% were seropositive for ANA antibodies and 40% for anti-dsDNA antibodies; 33% of patients had low C3, and 24% low C4. Background SLE standard therapy included OCS (82%; mean daily dose (prednisone or equivalent) 9.8 mg), immunosuppressants (56%), and antimalarials (80%).
 
 <div style=\"page-break-after: always\"></div>
+
+During Weeks 8-40, patients with a baseline OCS ≥10 mg/day were required to taper their OCS dose to ≤7.5 mg/day, unless there was worsening of disease activity.
 
 Randomisation was stratified by SLEDAI-2K score at baseline (&lt;10 vs ≥10 points), OCS dose on Day 1 (&lt;10 mg/day vs ≥10 mg/day prednisone or equivalent) and interferon gene signature test results (high vs low).
 
@@ -954,7 +944,7 @@ BICLA: British Isles Lupus Assessment Group-based Composite Lupus Assessment; BI
 
 All patients received standard therapy.
 
-* Patients who discontinued treatment or used restricted medications, beyond protocol allowed thresholds, or died are considered non-responders.
+* Patients who discontinued treatment or used restricted medicinal products, beyond protocol allowed thresholds, or died are considered non-responders.
 
 ǂ Missing data were imputed using multiple imputation.
 
@@ -968,11 +958,11 @@ The pharmacokinetics (PK) of anifrolumab was studied in adult patients with SLE 
 
 Anifrolumab exhibits nonlinear PK in the dose range of 100 mg to 1 000 mg. PK exposure decreased more rapidly at doses lower than 300 mg every 4 weeks (the recommended intravenous dose).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Absorption
 
 Based on population PK analysis, following subcutaneous administration, the estimated bioavailability of anifrolumab was approximately 75%. Steady-state exposure was reached after approximately 16 weeks of subcutaneous administration.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -1010,9 +1000,9 @@ Patients with urine protein/creatinine ratio (UPCR) &gt;2 mg/mg were excluded fr
 
 No specific clinical studies have been conducted to investigate the effect of hepatic impairment on anifrolumab.
 
-<div style=\"page-break-after: always\"></div>
-
 As an IgG1 monoclonal antibody, anifrolumab is principally eliminated via catabolism and is not expected to undergo metabolism via hepatic enzymes, as such changes in hepatic function are unlikely to have any effect on the elimination of anifrolumab. Based on population PK analyses, baseline hepatic function biomarkers (ALT and AST ≤2.0 × ULN, and total bilirubin) had no clinically relevant effect on anifrolumab clearance.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Interactions
 
@@ -1046,17 +1036,17 @@ Effects on male and female fertility have not been directly evaluated in animal 
 
 Histidine Histidine hydrochloride monohydrate Lysine hydrochloride Trehalose dihydrate Polysorbate 80 (E 433) Water for injections
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
 4 years.
 
-If needed, Saphnelo pre-filled syringe/pre-filled pen may be stored at room temperature (20 °C 25 °C) for a maximum of 7 days protected from light. Once Saphnelo pre-filled syringe/pre-filled pen has reached room temperature, do not return to the refrigerator. Discard if not used within 7 days at room temperature storage.
+If needed, Saphnelo pre-filled syringe/pre-filled pen may be stored at room temperature (20 °C - 25 °C) for a maximum of 7 days protected from light. Once Saphnelo pre-filled syringe/pre-filled pen has reached room temperature, do not return to the refrigerator. Discard if not used within 7 days at room temperature storage.
 
 ## 6.4 Special precautions for storage
 
@@ -1090,11 +1080,11 @@ This medicinal product is for single-use only.
 2. Visually inspect the solution for injection for particulate matter and discolouration prior to administration. Discard the pre-filled syringe or pre-filled pen if the solution is cloudy, discoloured or visible particles are observed.
 3. Comprehensive instructions for the preparation and administration of Saphnelo using the pre-filled syringe or pre-filled pen are given in the 'Instructions for Use'.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1102,15 +1092,27 @@ AstraZeneca AB SE-151 85 Södertälje Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-| EU/1/21/1623/002   | 1 pre-filled syringe                   |
-|--------------------|----------------------------------------|
-| EU/1/21/1623/003   | 1 pre-filled pen                       |
-| EU/1/21/1623/004   | 4 pre-filled pens                      |
-| EU/1/21/1623/005   | 12 (3 x 4) pre-filled pens (multipack) |
+EU/1/21/1623/002
+
+EU/1/21/1623/003
+
+1 pre-filled syringe
+
+1 pre-filled pen
+
+EU/1/21/1623/004
+
+4 pre-filled pens
+
+EU/1/21/1623/005
+
+12 (3 x 4) pre-filled pens (multipack)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 14 February 2022
+
+Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1146,8 +1148,6 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1228,33 +1228,38 @@ Store in the original package in order to protect from light.
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
 AstraZeneca AB SE-151 85 Södertälje Sweden
 
-12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/21/1623/001
 
 1 vial
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -1347,38 +1352,46 @@ Do not freeze, shake or expose to heat.
 
 Store in the original package in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 AstraZeneca AB SE-151 85 Södertälje Sweden
 
-12.
-
-MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/21/1623/002 1 pre-filled syringe
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 saphnelo 120 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1492,9 +1505,7 @@ EU/1/21/1623/004
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 saphnelo 120 mg
@@ -1674,15 +1685,12 @@ EU/1/21/1623/005
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 saphnelo 120 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
@@ -1723,15 +1731,11 @@ AstraZeneca
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## Saphnelo 300 mg concentrate for solution for infusion
+## Saphnelo
 
-## anifrolumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## 300 mg concentrate for solution for infusion anifrolumab
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -1756,7 +1760,9 @@ Saphnelo contains the active substance anifrolumab, a 'monoclonal antibody' (a t
 
 ## What Saphnelo is used for
 
-Saphnelo is used to treat moderate to severe lupus (systemic lupus erythematosus, SLE) in adults whose disease is not well controlled by standard therapies ('oral corticosteroids', 'immunosuppressants' and/or 'antimalarials').
+Saphnelo is used to treat moderate to severe lupus (systemic lupus erythematosus, SLE) in adults whose disease is not well controlled by standard therapies ('oral corticosteroids',
+
+'immunosuppressants' and/or 'antimalarials').
 
 You will be given Saphnelo as well as your standard therapy for lupus.
 
@@ -1818,7 +1824,7 @@ Do not give this medicine to children and adolescents less than 18 years of age 
 - Tell your doctor if you are taking, have recently taken or might take any other medicines.
 - Tell your doctor if you have recently had or are going to have a vaccination. You should not be given certain types of vaccines while using this medicine. If you are not sure, talk to your doctor or nurse before and during treatment with Saphnelo.
 
-## Pregnancy and Breast-feeding
+## Pregnancy and breast-feeding
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
 
@@ -2094,10 +2100,6 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## Saphnelo 120 mg solution for injection in pre-filled syringe anifrolumab
 
-<!-- image -->
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 - Keep this leaflet. You may need to read it again.
@@ -2190,7 +2192,7 @@ Do not give this medicine to children and adolescents less than 18 years of age 
 
 <div style=\"page-break-after: always\"></div>
 
-## Pregnancy and Breast-feeding
+## Pregnancy and breast-feeding
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
 
@@ -2238,11 +2240,12 @@ If you have used more Saphnelo than you should talk to your doctor immediately.
 - If you miss your dose of Saphnelo, inject a dose as soon as you remember. Then continue once weekly dosing based on the new day Saphnelo was injected or at your regularly scheduled time as long as there are at least 3 days between the doses.
 - If you are not sure when to inject, ask your doctor, nurse or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Stopping treatment with Saphnelo
 
 - Do not stop using Saphnelo without talking to your doctor.
+
+<div style=\"page-break-after: always\"></div>
+
 - Your doctor will decide if you need to stop using this medicine.
 
 If you have any further questions on the use of this medicine, ask your doctor, nurse or pharmacist.
@@ -2267,7 +2270,7 @@ Very common (may affect more than 1 in 10 people)
 
 - infections of the nose or throat
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - chest infection ( bronchitis )
 - infections of the sinuses or lungs
@@ -2328,19 +2331,11 @@ AstraZeneca S.A./N.V.
 
 Tel: +32 2 370 48 11
 
-## Lietuva
-
-UAB AstraZeneca Lietuva Tel: +370 5 2660550
-
 ## България
 
-АстраЗенека България ЕООД Тел.: +359 24455000
+АстраЗенека България ЕООД
 
-## Luxembourg/Luxemburg
-
-AstraZeneca S.A./N.V.
-
-Tél/Tel: +32 2 370 48 11
+Тел.: +359 24455000
 
 ## Česká republika
 
@@ -2348,19 +2343,11 @@ AstraZeneca Czech Republic s.r.o.
 
 Tel: +420 222 807 111
 
-## Magyarország
-
-AstraZeneca Kft. Tel.: +36 1 883 6500
-
 ## Danmark
 
 AstraZeneca A/S
 
 Tlf.: +45 43 66 64 62
-
-## Malta
-
-Associated Drug Co. Ltd Tel: +356 2277 8000
 
 ## Deutschland
 
@@ -2368,23 +2355,11 @@ AstraZeneca GmbH
 
 Tel: +49 40 809034100
 
-## Nederland
-
-AstraZeneca BV
-
-Tel: +31 85 808 9900
-
 ## Eesti
 
 AstraZeneca
 
 Tel: +372 6549 600
-
-## Norge
-
-AstraZeneca AS
-
-Tlf: +47 21 00 64 00
 
 ## Ελλάδα
 
@@ -2392,23 +2367,65 @@ AstraZeneca A.E.
 
 Τηλ: +30 210 6871500
 
+## España
+
+AstraZeneca Farmacéutica Spain, S.A.
+
+Tel: +34 91 301 91 00
+
+## Lietuva
+
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
+
+## Luxembourg/Luxemburg
+
+AstraZeneca S.A./N.V.
+
+Tél/Tel: +32 2 370 48 11
+
+## Magyarország
+
+AstraZeneca Kft.
+
+Tel.: +36 1 883 6500
+
+## Malta
+
+Associated Drug Co. Ltd Tel: +356 2277 8000
+
+## Nederland
+
+AstraZeneca BV
+
+Tel: +31 85 808 9900
+
+## Norge
+
+AstraZeneca AS
+
+Tlf: +47 21 00 64 00
+
 ## Österreich
 
 AstraZeneca Österreich GmbH
 
 Tel: +43 1 711 31 0
 
-## España
-
 ## Polska
+
+AstraZeneca Pharma Poland Sp. z o.o.
+
+Tel.: +48 22 245 73 00
 
 <div style=\"page-break-after: always\"></div>
 
-AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
-
 ## France
 
-AstraZeneca Tél: +33 1 41 29 40 00
+## Portugal
+
+AstraZeneca
+
+Tél: +33 1 41 29 40 00
 
 ## Hrvatska
 
@@ -2424,9 +2441,7 @@ Vistor Sími: +354 535 7000
 
 ## Italia
 
-AstraZeneca S.p.A.
-
-Tel: +39 02 00704500
+AstraZeneca S.p.A. Tel: +39 02 00704500
 
 ## Κύπρος
 
@@ -2434,19 +2449,7 @@ Tel: +39 02 00704500
 
 ## Latvija
 
-SIA AstraZeneca Latvija
-
-Tel: +371 67377100
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
-
-## Portugal
+SIA AstraZeneca Latvija Tel: +371 67377100
 
 AstraZeneca Produtos Farmacêuticos, Lda. Tel: +351 21 434 61 00
 
@@ -2469,6 +2472,12 @@ AstraZeneca Oy Puh/Tel: +358 10 23 010
 ## Sverige
 
 AstraZeneca AB Tel: +46 8 553 26 000
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2523,6 +2532,8 @@ Do not remove the needle cover until right before injecting Saphnelo. soon.
 
 1 small bandage
 
+1 sharps disposal container
+
 Not included
 
 See Step 9 for instructions on how to throw away (dispose of) the used Saphnelo pre-filled syringe.
@@ -2562,8 +2573,6 @@ Open the carton and remove Saphnelo pre-filled syringe by holding the middle of 
 - It is normal to see small air bubbles in the liquid. Do not try to remove the air bubbles.
 
 <!-- image -->
-
-1 sharps disposal container
 
 <!-- image -->
 
@@ -2626,19 +2635,19 @@ Hold Saphnelo pre-filled syringe in 1 hand as shown. Use your other hand to gent
 
 <!-- image -->
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 Using a 45-degree angle, fully insert the needle into the pinched
 
 skin. Do not reposition the pre-filled syringe after you insert the needle into the skin.
 
-<!-- image -->
-
-<!-- image -->
-
 Use your thumb to push down on the plunger head. To make sure you inject all the medicine and activate the needle guard, keep pushing firmly on the plunger until it is fully down as far as it will go.
-
-<!-- image -->
-
-<!-- image -->
 
 Slowly let go of the plunger
 
@@ -2678,15 +2687,11 @@ Do not recycle your used sharps disposal container.
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## Saphnelo 120 mg solution for injection in pre-filled pen
+## Saphnelo
 
-## anifrolumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## 120 mg solution for injection in pre-filled pen anifrolumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2702,7 +2707,8 @@ This medicine is subject to additional monitoring. This will allow quick identif
 3. How to use Saphnelo
 4. Possible side effects
 5. How to store Saphnelo
-6. Contents of the pack and other information
+6. 6.
+7. Contents of the pack and other information
 
 ## 1. What Saphnelo is and what it is used for
 
@@ -2780,7 +2786,7 @@ Do not give this medicine to children and adolescents less than 18 years of age 
 
 <div style=\"page-break-after: always\"></div>
 
-## Pregnancy and Breast-feeding
+## Pregnancy and breast-feeding
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
 
@@ -2885,7 +2891,7 @@ Store in the original package to protect from light.
 
 Do not freeze, shake or expose to heat.
 
-If needed, Saphnelo pre-filled pen may be stored at room temperature (20 °C - 25 °C) for a maximum of 7 days protected from light. Once Saphnelo pre-filled pen has reached room temperature (20 ºC 25 ºC), do not return to the refrigerator. Discard if not used within 7 days at room temperature storage.
+If needed, Saphnelo pre-filled pen may be stored at room temperature (20 °C - 25 °C) for a maximum of 7 days protected from light. Once Saphnelo pre-filled pen has reached room temperature (20 ºC - 25 ºC), do not return to the refrigerator. Discard if not used within 7 days at room temperature storage.
 
 Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -2921,21 +2927,11 @@ AstraZeneca S.A./N.V.
 
 Tel: +32 2 370 48 11
 
-## Lietuva
-
-UAB AstraZeneca Lietuva Tel: +370 5 2660550
-
 ## България
 
 АстраЗенека България ЕООД
 
 Тел.: +359 24455000
-
-## Luxembourg/Luxemburg
-
-AstraZeneca S.A./N.V.
-
-Tél/Tel: +32 2 370 48 11
 
 ## Česká republika
 
@@ -2943,21 +2939,11 @@ AstraZeneca Czech Republic s.r.o.
 
 Tel: +420 222 807 111
 
-## Magyarország
-
-AstraZeneca Kft.
-
-Tel.: +36 1 883 6500
-
 ## Danmark
 
 AstraZeneca A/S
 
 Tlf.: +45 43 66 64 62
-
-## Malta
-
-Associated Drug Co. Ltd Tel: +356 2277 8000
 
 ## Deutschland
 
@@ -2965,29 +2951,49 @@ AstraZeneca GmbH
 
 Tel: +49 40 809034100
 
-## Nederland
-
-AstraZeneca BV
-
-Tel: +31 85 808 9900
-
 ## Eesti
 
 AstraZeneca
 
 Tel: +372 6549 600
 
-## Norge
-
-AstraZeneca AS
-
-Tlf: +47 21 00 64 00
-
 ## Ελλάδα
 
 AstraZeneca A.E.
 
 Τηλ: +30 210 6871500
+
+## Lietuva
+
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
+
+## Luxembourg/Luxemburg
+
+AstraZeneca S.A./N.V.
+
+Tél/Tel: +32 2 370 48 11
+
+## Magyarország
+
+AstraZeneca Kft.
+
+Tel.: +36 1 883 6500
+
+## Malta
+
+Associated Drug Co. Ltd Tel: +356 2277 8000
+
+## Nederland
+
+AstraZeneca BV
+
+Tel: +31 85 808 9900
+
+## Norge
+
+AstraZeneca AS
+
+Tlf: +47 21 00 64 00
 
 ## Österreich
 
@@ -3124,21 +3130,21 @@ Do not touch the green needle guard.
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
 - 1 Saphnelo pre-filled pen from the refrigerator
 
 1 alcohol wipe
+
+<!-- image -->
+
+<!-- image -->
 
 1 cotton ball or gauze
 
 1 small bandage
 
 1 sharps disposal container
+
+<!-- image -->
 
 Not included
 
@@ -3255,11 +3261,14 @@ Do not move or change the position of the pre-filled pen after the injection has
 
 <!-- image -->
 
+<!-- image -->
+
 ## Press down firmly and hold against skin.
+
+- You may hear the first 'click' right away. This tells you the injection has started.
 
 ## Hold down firmly for about 15 seconds.
 
-- You may hear the first 'click' right away. This tells you the injection has started.
 - The green plunger will fill the viewing window.
 - The green plunger will move down in the viewing window.
 - You may hear the second 'click' at the end of injection.
@@ -3281,8 +3290,6 @@ There may be a small amount of blood or liquid at the injection site. This is no
 If needed, press a cotton ball or gauze on the area and apply a small bandage.
 
 - Do not rub the injection site.
-
-<!-- image -->
 
 ## After you have completed your injection, lift Saphnelo pre-filled pen straight up.
 

@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-01-28 12:13:58
-document_pages: 35
+document_datetime: 2026-09-15 16:20:11
+document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jaypirca-epar-product-information_en.pdf
 document_name: jaypirca-epar-product-information_en.pdf
 version: success
-processing_time: 8.4207212
-conversion_datetime: 2026-01-29 12:00:23.781309
+processing_time: 43.2519287
+conversion_datetime: 2026-09-17 20:20:09.345021
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -68,7 +66,7 @@ Blue, 10 mm, round tablet debossed with 'Lilly 100' on one side and '7026' on th
 
 Jaypirca as monotherapy is indicated for the treatment of adult patients with relapsed or refractory mantle cell lymphoma (MCL) who have been previously treated with a Bruton's tyrosine kinase (BTK) inhibitor.
 
-Jaypirca as monotherapy is indicated for the treatment of adult patients with relapsed or refractory chronic lymphocytic leukaemia (CLL) who have been previously treated with a BTK inhibitor.
+Jaypirca as monotherapy is indicated for the treatment of adult patients with chronic lymphocytic leukaemia (CLL).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -182,13 +180,13 @@ In a clinical study, itraconazole, a strong CYP3A4 inhibitor, increased the AUC 
 
 ## CYP3A inducers
 
-In a clinical study, rifampin, a strong CYP3A inducer, decreased the AUC and Cmax of pirtobrutinib by 71 % and 42 %, respectively. Though this decrease in  pirtobrutinib  exposure is  not  expected  to  be clinically  meaningful,  if  possible  avoid  strong  CYP3A  inducers  (e.g.  rifampicin,  carbamazepine, phenytoin).
+In a clinical study, rifampin, a strong CYP3A inducer, decreased the AUC and Cmax of pirtobrutinib by 71 % and 42 %, respectively. Though this decrease in pirtobrutinib exposure is not expected to be clinically meaningful, if possible avoid strong CYP3A inducers (e.g. rifampicin, carbamazepine, phenytoin).
 
 ## Coadministration with medicinal products that are proton pump inhibitors
 
 No clinically significant differences in pirtobrutinib pharmacokinetics were observed when administered concomitantly with omeprazole, a proton pump inhibitor.
 
-## Effects of pirtobrutinib on the pharmacokinetics of other medicinal products (increase in plasma concentration)
+Effects of pirtobrutinib on the pharmacokinetics of other medicinal products (increase in plasma concentration)
 
 ## CYP2C8 substrates
 
@@ -216,7 +214,7 @@ Pirtobrutinib is a weak inhibitor of CYP3A. Pirtobrutinib increased the AUC and 
 
 ## Women of childbearing potential/Contraception in males and females
 
-Based on findings in animals and the genotoxicity of pirtobrutinib (see section 5.3), pirtobrutinib can cause foetal harm when administered to a pregnant woman. Women of childbearing potential should use an effective method of contraception during treatment and for 5 weeks after the last dose of Jaypirca. Men are advised to use an effective method of contraception and not father a child during treatment and for 3 months after the last dose of Jayprica (see section 4.4).
+Based on findings in animals and the genotoxicity of pirtobrutinib (see section 5.3), pirtobrutinib can cause foetal harm when administered to a pregnant woman. Women of childbearing potential should use an effective method of contraception during treatment and for 5 weeks after the last dose of Jaypirca. Men are advised to use an effective method of contraception and not father a child during treatment and for 3 months after the last dose of Jaypirca (see section 4.4).
 
 ## Pregnancy
 
@@ -240,55 +238,53 @@ Jaypirca has a minor influence on the ability to drive and use machines. Fatigue
 
 ## Summary of the safety profile
 
-The most common adverse reactions of any grade are: neutropenia (27.7 %), fatigue (26.2 %), diarrhoea (23.8 %), anaemia (20.7 %), rash (18.4 %) and contusion (17.8 %).
+Of the 1 153 patients treated with Jaypirca, the most common adverse reactions of any grade (in ≥ 20 % of patients) were neutropenia (27.4 %) and haemorrhage (20.4 %).
 
-The most common severe (Grade ≥ 3) adverse reactions are: neutropenia (23.9 %), anaemia (11.2 %), thrombocytopenia (9.7 %), and pneumonia (9.0 %).
+The most common severe (Grade ≥ 3) adverse reactions (in ≥ 5 % of patients) were neutropenia (22.8 %), anaemia (9.0 %), pneumonia (8.8 %), and thrombocytopenia (7.2 %).
 
-The frequency of treatment discontinuation due to adverse reactions is 4.2 % and the frequency of dose reductions due to adverse reactions is 4.8 %.
+The frequency of treatment discontinuations due to adverse reactions was 3.3 % and the most common adverse reaction leading to treatment discontinuation was pneumonia (0.8 %). The frequency of dose reductions due to adverse reactions was 4.3 % and the most common adverse reaction leading to dose reduction was neutropenia (2.4 %).
 
-The most common adverse reactions (reported in more than 2 patients) leading to dose reduction are neutropenia (2.5 %), rash (0.6 %), diarrhoea (0.4 %), fatigue (0.4 %) and thrombocytopenia (0.4 %). The most common adverse reactions (reported in more than 2 patients) leading to dose discontinuation are neutropenia (1.0 %), anaemia (1.0 %), pneumonia (0.9 %), thrombocytopenia (0.7 %) and rash (0.4 %).
+Serious adverse reactions associated with Jaypirca have occurred in 18.0 % of patients and the most common serious adverse reactions (in ≥1 % of patients) were pneumonia (8.2 %), haemorrhage (2.9 %), neutropenia (2.6 %), anaemia (2.4 %), atrial fibrillation/atrial flutter (1.1 %) and urinary tract infection (1.0 %).
 
-Serious adverse reactions associated with Jaypirca have occurred in 19.4 % of patients and the most common serious adverse reactions (occurring in ≥1 % of patients) were pneumonia (8.0 %), neutropenia (3.2 %), anaemia (2.6 %), atrial fibrillation/atrial flutter (1.3 %) and urinary tract infection (1.0 %).
-
-Fatal adverse reactions have been observed in 0.4 % of patients (3 patients) for pneumonia, in 0.3 % of patients (2 patients) for haemorrhage and in 0.1 % of patients (1 patient) for urinary tract infection.
+Fatal adverse reactions have been observed in 0.7 % of patients for pneumonia, in 0.3 % of patients for haemorrhage and in 0.1 % of patients for urinary tract infection.
 
 ## Tabulated list of adverse reactions
 
-Table 1 lists the adverse drug reactions (ADRs) associated with Jaypirca used as a monotherapy from clinical study data and post-marketing experience. The ADRs identified from clinical trials are based on pooled data from 690 patients treated with Jaypirca monotherapy 200 mg QD starting dose with no dose escalation in a phase 1/2 clinical study, and from patients treated with Jaypirca monotherapy 200 mg QD in a phase 3 study. Patients were treated for MCL, chronic lymphocytic leukaemia/small lymphocytic lymphoma (CLL/SLL) and other non-Hodgkin lymphoma (NHL). Patients were exposed to Jaypirca for a median duration of 12 months. ADRs are listed below by MedDRA body system organ class. Frequency groups are defined by the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1 000 to &lt; 1/100); rare ( ≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data). Within each frequency grouping, ADRs are presented in order of decreasing seriousness.
+Table 1 lists the adverse drug reactions (ADRs) associated with Jaypirca used as a monotherapy from clinical study data and post-marketing experience. The ADRs identified from clinical trials are based on pooled data from 1 153 patients treated with Jaypirca monotherapy 200 mg QD starting dose with no dose escalation in a phase 1/2 clinical study, and from patients treated with Jaypirca monotherapy 200 mg QD in phase 3 studies. Patients were treated for MCL, chronic lymphocytic leukaemia/small lymphocytic lymphoma (CLL/SLL) and other non-Hodgkin lymphoma (NHL). Patients were exposed to Jaypirca for a median duration of 18 months. ADRs are listed below by MedDRA body system organ class. Frequency groups are defined by the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1 000 to &lt; 1/100); rare ( ≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data). Within each frequency grouping, ADRs are presented in order of decreasing seriousness.
 
 Table 1: ADRs of patients treated with Jaypirca a
 
-| System organ class (MedDRA)          | ADR                               | Frequency category (%) (All grades)   |   Grade ≥ 3 c (%) |
-|--------------------------------------|-----------------------------------|---------------------------------------|-------------------|
-| Infections and infestations          | Pneumonia                         | Very common (13.8)                    |               9   |
-| Infections and infestations          | Upper respiratory tract infection | Very common (10.1)                    |               0.1 |
-| Infections and infestations          | Urinary tract infection           | Common (9.9)                          |               1.4 |
-| Blood and lymphatic system disorders | Neutropenia b                     | Very common (27.7)                    |              23.9 |
-|                                      | Anaemia b                         | Very common (20.7)                    |              11.2 |
-|                                      | Thrombocytopenia b                | Very common (16.8)                    |               9.7 |
-|                                      | Lymphocytosis b                   | Common (6.4)                          |               3.9 |
-| Nervous system disorders             | Headache                          | Very common (12.6)                    |               0.7 |
+| System organ class (MedDRA)          | ADR                                | Frequency category (%) (All grades)   |   Grade ≥ 3 c (%) |
+|--------------------------------------|------------------------------------|---------------------------------------|-------------------|
+| Infections and infestations          | Pneumonia                          | Very common (13.9)                    |               8.8 |
+| Infections and infestations          | Upper respiratory tract infection  | Very common (13.4)                    |               0.3 |
+| Infections and infestations          | Urinary tract infection            | Common (9.2)                          |               1.3 |
+| Blood and lymphatic system disorders | Neutropenia b                      | Very common (27.4)                    |              22.8 |
+| Blood and lymphatic system disorders | Anaemia b                          | Very common (18.4)                    |               9.0 |
+| Blood and lymphatic system disorders | Thrombocytopenia b                 | Very common (14.7)                    |               7.2 |
+| Blood and lymphatic system disorders | Lymphocytosis b                    | Common (5.0)                          |               3.2 |
+| Nervous system disorders             | Headache                           | Very common (10.7)                    |               0.5 |
+| Cardiac disorders                    | Atrial fibrillation/atrial flutter | Common (3.1)                          |               1.6 |
+| Vascular disorders                   | Haemorrhage b                      | Very common (20.4)                    |               2.9 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Cardiac disorders                                    | Atrial fibrillation/atrial flutter   | Common (3.8)       | 1.7       |
-|------------------------------------------------------|--------------------------------------|--------------------|-----------|
-| Vascular disorders                                   | Haemorrhage b                        | Very common (20.3) | 2.8       |
-| Vascular disorders                                   | Epistaxis                            | Common (5.2)       | 0         |
-| Vascular disorders                                   | Haematuria                           | Common (4.5)       | 0.1       |
-| Vascular disorders                                   | Haematoma                            | Common (1.7)       | 0.1       |
-| Vascular disorders                                   | Conjunctival haemorrhage             | Common (1.7)       | 0.1       |
-| Vascular disorders                                   | Bruising b                           | Very common (19.7) | 0.3       |
-| Vascular disorders                                   | Contusion                            | Very common (17.8) | 0.1       |
-| Vascular disorders                                   | Petechiae                            | Common (5.7)       | 0         |
-| Gastrointestinal disorders                           | Diarrhoea                            | Very common (23.8) | 1.0       |
-| Gastrointestinal disorders                           | Nausea                               | Very common (16.7) | 0.4       |
-| Gastrointestinal disorders                           | Abdominal pain                       | Very common (10.4) | 1.0       |
-| Hepatobiliary disorders                              | Hepatic enzyme increased             | Not known          | Not known |
-| Skin and subcutaneous tissue disorders               | Rash b                               | Very common (18.4) | 1.2       |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                           | Very common (14.6) | 1.2       |
-| General disorders and administration site conditions | Fatigue                              | Very common (26.2) | 1.9       |
-| General disorders and administration site conditions | Oedema peripheral                    | Very common (11.6) | 0.3       |
+|                                                      | Epistaxis                | Common (4.2)       | 0.1       |
+|------------------------------------------------------|--------------------------|--------------------|-----------|
+|                                                      | Haematuria               | Common (4.8)       | 0.2       |
+|                                                      | Haematoma                | Common (2.4)       | 0.3       |
+|                                                      | Conjunctival haemorrhage | Common (1.5)       | 0.1       |
+|                                                      | Bruising b               | Very common (17.0) | 0.2       |
+|                                                      | Contusion                | Very common (14.2) | 0.1       |
+|                                                      | Petechiae                | Common (5.1)       | 0         |
+| Gastrointestinal disorders                           | Diarrhoea                | Very common (19.5) | 0.7       |
+|                                                      | Nausea                   | Very common (13.0) | 0.3       |
+|                                                      | Abdominal pain           | Common (7.4)       | 0.7       |
+| Hepatobiliary disorders                              | Hepatic enzyme increased | Not known          | Not known |
+| Skin and subcutaneous tissue disorders               | Rash b                   | Very common (19.2) | 1.2       |
+| Musculoskeletal and connective tissue disorders      | Arthralgia               | Very common (12.5) | 0.8       |
+| General disorders and administration site conditions | Fatigue                  | Very common (17.9) | 1.4       |
+| General disorders and administration site conditions | Oedema peripheral        | Common (9.0)       | 0.3       |
 
 ## Reporting of suspected adverse reactions
 
@@ -296,9 +292,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-No maximum tolerated dose was reached in the phase 1 study in which patients received repeated doses up to 300 mg once daily. In healthy volunteer studies, no dose related toxicity was observed when a maximum single dose of 900 mg was administered. Signs and symptoms of pirtobrutinib overdose have not been established and there is no specific treatment for pirtobrutinib overdose.
-
-For patients who experience overdose, closely monitor and provide appropriate supportive treatment.
+No maximum tolerated dose was reached in the phase 1 study in which patients received repeated doses up to 300 mg once daily. In healthy volunteer studies, no dose related toxicity was observed when a maximum single dose of 900 mg was administered. Signs and symptoms of pirtobrutinib overdose have not been established and there is no specific treatment for pirtobrutinib overdose. For patients who experience overdose, closely monitor and provide appropriate supportive treatment.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -308,11 +302,9 @@ Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors, ATC
 
 ## Mechanism of action
 
-Pirtobrutinib is a reversible, noncovalent inhibitor of BTK. BTK is a signalling protein of the B-cell antigen receptor (BCR) and cytokine receptor pathways. In B-cells, BTK signalling results in activation of pathways necessary for B-cell proliferation, trafficking, chemotaxis, and adhesion.
+Pirtobrutinib is a reversible, noncovalent inhibitor of BTK. BTK is a signalling protein of the B-cell antigen receptor (BCR) and cytokine receptor pathways. In B-cells, BTK signalling results in activation of pathways necessary for B-cell proliferation, trafficking, chemotaxis, and adhesion. Pirtobrutinib binds to wild type BTK as well as BTK harboring C481 mutations leading to inhibition of BTK kinase activity.
 
 <div style=\"page-break-after: always\"></div>
-
-Pirtobrutinib binds to wild type BTK as well as BTK harboring C481 mutations leading to inhibition of BTK kinase activity.
 
 ## Pharmacodynamic effects
 
@@ -341,17 +333,116 @@ Table 2: Summary of efficacy data in Study 18001 for MCL patients who received a
 |                                                                | Pirtobrutinib N=90                                             |
 |----------------------------------------------------------------|----------------------------------------------------------------|
 | Objective response rate (Complete response + partial response) | Objective response rate (Complete response + partial response) |
-| Rate - percent (95 %CI)                                        | 56.7 (45.8, 67.1)                                              |
+| Rate - percent (95 % CI)                                       | 56.7 (45.8, 67.1)                                              |
 | CR - percent                                                   | 18.9                                                           |
 | PR - percent                                                   | 37.8                                                           |
 | Duration of response                                           | Duration of response                                           |
-| Median - months (95 %CI)                                       | 17.61 (7.29, 27.24)                                            |
+| Median - months (95 % CI)                                      | 17.61 (7.29, 27.24)                                            |
 
 Abbreviations: CI = confidence interval, NE= not estimable, CR = complete response, PR = partial response.
 
 Data cut-off date: 29 July 2022. The median follow-up time for duration of response was 12.68 months.
 
 ## Chronic Lymphocytic Leukaemia
+
+The efficacy of Jaypirca in adult patients with CLL was evaluated in three randomised controlled Phase 3 trials.
+
+## BRUIN-CLL-313 (Study 20023)
+
+The efficacy of Jaypirca was evaluated in a randomised, multicentre, open-label, actively-controlled trial in 282 patients with treatment naïve CLL/SLL without 17p deletion (BRUIN-CLL-313, Study 20023). Patients were randomised in a 1:1 ratio to receive either
+
+- Jaypirca given orally once daily at a dose of 200 mg until disease progression or unacceptable toxicity, or
+- Bendamustine plus a rituximab product (BR): Bendamustine 90 mg/m2 intravenously (Day 1 and 2 of each 28-day cycle), in combination with a rituximab product (375 mg/m2 intravenously on Day 1 of Cycle 1, then 500 mg/m2 on Day 1 of subsequent cycles), for up to 6 cycles.
+
+Randomisation was stratified by immunoglobulin variable region heavy chain (IGHV) mutation status (mutated versus unmutated) and by Rai stage (low/intermediate versus high risk). Of the 282 patients total, 141 were assigned to Jaypirca monotherapy and 141 to BR. After confirmed disease progression, patients randomised to BR had the option to cross over to Jaypirca monotherapy. Out of the 141 patients in the BR arm, 18 crossed over and received Jaypirca.
+
+Baseline characteristics were similar between treatment arms. Overall, the median age was 66 years (range: 29 to 88 years), 61 % were male and 73 % were White. Baseline ECOG performance status was 0 or 1 in 94% of patients and 34% of patients had Rai stage III or IV disease. Among those patients with central testing available, 9 % (22 of 244 patients) had TP53 mutation, 56 % (149 of 268 patients) had unmutated IGHV, and 16 % (27 of 174) had complex karyotype.
+
+The primary efficacy outcome measure was progression-free survival (PFS) as assessed by an Independent Review Committee (IRC). The estimated median time of follow-up was 28.1 months. Efficacy results in favour of pirtobrutinib were observed across subgroups, including those with or without IGHV mutation and irrespective of age. Efficacy results for the primary analysis are presented in Table 3. The Kaplan-Meier curve for PFS is shown in Figure 1.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 3: Efficacy Results per IRC in BRUIN-CLL-313 (ITT population)
+
+| Parameter a                      | Pirtobrutinib (N =141)   | Bendamustine plus Rituximab (N = 141)   |
+|----------------------------------|--------------------------|-----------------------------------------|
+| Progression-free Survival        |                          |                                         |
+| Number of Events, n              | 13 (9 %)                 | 48 (34 %)                               |
+| Disease Progression              | 13 (9 %)                 | 40 (28 %)                               |
+| Death                            | 0                        | 8 (6 %)                                 |
+| Median PFS (95 % CI), months b   | NE (NE, NE)              | 33.5 (32.7, NE)                         |
+| HR (95 % CI) c                   | 0.20 (0.11, 0.37)        | 0.20 (0.11, 0.37)                       |
+| P-value d                        | <0.0001                  | <0.0001                                 |
+| 24-month PFS rate (95 % CI, %) b | 93 % (88, 96)            | 71 % (61, 78)                           |
+| Overall Response Rate e          |                          |                                         |
+| ORR, n (95% CI, %)               | 133 (94 %) (89, 98)      | 114 (81 %) (73, 87)                     |
+| CR, n                            | 19 (13 %)                | 29 (21 %)                               |
+| PR, n                            | 114 (81 %)               | 85 (60 %)                               |
+
+- CI, confidence interval; CR, complete response; CRi, complete response with incomplete haematopoietic recovery; HR, hazard ratio; NE, not estimable; nPR, nodular partial response; ORR, overall response rate; PFS, progression-free survival; PR, partial response.
+- a  Efficacy was assessed using the 2018 International Workshop for Chronic Lymphocytic Leukemia (iwCLL) guidelines.
+
+b  Based on Kaplan-Meier estimation.
+
+- c  Based on stratified Cox proportional hazards model.
+- d  2-sided p-value based on stratified log-rank test.
+- e  Defined as CR + CRi + nPR + PR. No patients had CRi or nPR as best response.
+
+Figure 1: Kaplan-Meier Curve of IRC-Assessed PFS in BRUIN-CLL-313 (ITT Population)
+
+<!-- image -->
+
+At the time of analysis, overall survival (OS) data were immature. With an estimated median followup of 32.2 months, median OS was not reached in either arm, with fewer than 5 % of patients experiencing an event.
+
+<div style=\"page-break-after: always\"></div>
+
+## BRUIN-CLL-314 (Study 20030)
+
+The efficacy of Jaypirca was evaluated in a randomised, multicentre, open-label, actively-controlled trial in 662 patients with relapsed or refractory CLL/SLL who were not previously treated with a BTK inhibitor or with treatment naïve CLL/SLL (BRUIN-CLL-314, Study 20030). Patients were randomised in a 1:1 ratio to receive either
+
+- Jaypirca given orally once daily at a dose of 200 mg until disease progression or unacceptable toxicity, or
+- Ibrutinib given orally once daily at a dose of 420 mg until disease progression or unacceptable toxicity.
+
+Randomisation was stratified by 17p deletion status (presence versus absence) and number of prior lines of therapy (0 versus 1 versus ≥ 2). Of the 662 patients total, 331 were assigned to Jaypirca monotherapy and 331 to ibrutinib monotherapy.
+
+Baseline characteristics were similar between treatment arms. Overall, the median age was 67 years (range: 34 to 90 years), 65 % were male and 76 % were White. Baseline ECOG performance status was 0 or 1 in 97 % of patients and 38 % of patients had Rai stage III or IV disease. Among those patients with central testing available, 14 % (73 out of 538) had 17p deletion, 31% (170 out of 557) had TP53 mutation, 67 % (382 of 570 patients) had unmutated IGHV, and 37 % (182 of 486 patients) had complex karyotype.
+
+Patients received a median number of 1 prior line of therapy (range: 0 to 9) with 34 % of patients having been treatment naïve and 66 % having had at least 1 prior line of therapy. Overall, 62 % of patients had prior chemotherapy and 6 % had received prior BCL2-inhibitor therapy.
+
+Efficacy was established based on overall response rate (ORR) and duration of response by an Independent Review Committee (IRC) in the ITT population and the relapsed or refractory population. Pirtobrutinib demonstrated non-inferiority to ibrutinib in the primary endpoint of ORR in both the ITT and relapsed or refractory populations (p&lt; 0.0001). The median time to response in all responding patients was 3.8 months for pirtobrutinib and 3.9 months for ibrutinib. Consistent efficacy results were seen across important subgroups including those with presence of 17p deletion, treatment-naïve patients and irrespective of age. Efficacy results for the primary analysis in the ITT population are presented in Table 4.
+
+Table 4: Efficacy Results per IRC in BRUIN-CLL-314 (ITT Population)
+
+| Parameter a                     | Pirtobrutinib (N = 331)   | Ibrutinib (N = 331)   |
+|---------------------------------|---------------------------|-----------------------|
+| Overall Response Rate b         |                           |                       |
+| ORR, n (95% CI, %)              | 288 (87 %) (83, 90)       | 260 (79 %) (74, 83)   |
+| CR, n                           | 15 (5 %)                  | 8 (2 %)               |
+| CRi, n                          | 1 (0.3 %)                 | 0                     |
+| PR, n                           | 272 (82 %)                | 252 (76 %)            |
+| Response Rate Ratio (95% CI) c  | 1.11 (1.03, 1.19)         | 1.11 (1.03, 1.19)     |
+| P-value d                       | <0.0001                   | <0.0001               |
+| Duration of Response            |                           |                       |
+| Median DOR, months (95% CI) e   | 24.7 (24.4, NE)           | NE (NE, NE)           |
+| 12-month DOR rate, % (95% CI) e | 88 (83, 92)               | 85 (79, 89)           |
+
+CI, confidence interval; CR, complete response; CRi, complete response with incomplete haematopoietic recovery; DOR, duration of response; NE, not estimable; nPR, nodular partial response; ORR, overall response rate; PR, partial response.
+
+a  Efficacy was assessed using the 2018 International Workshop for Chronic Lymphocytic Leukemia (iwCLL) guidelines.
+
+b Defined as CR + CRi + nPR + PR. No patients had nPR as best response.
+
+c  Estimate stratified by randomisation stratification factors.
+
+<div style=\"page-break-after: always\"></div>
+
+d  2-sided p-value based on the stratified Wald test for non-inferiority with non-inferiority margin of 0.88. 2-sided significance level of 0.005 was initially allocated for the ORR non-inferiority testing in the ITT population.
+
+e  Based on Kaplan-Meier estimation. Estimated median follow-up for DOR was 14.8 months.
+
+At the time of analysis, overall survival (OS) data were immature. With an estimated median followup of 22.3 months, the median OS was not reached in either arm with 7% of patients having experienced an event.
+
+## BRUIN-CLL-321 (Study 20020)
 
 The efficacy of Jaypirca in patients with BTK-inhibitor pretreated CLL was evaluated in a randomised, multicentre, international, open-label, actively-controlled trial (BRUIN CLL-321, Study 20020). The trial enrolled 238 patients with CLL/SLL who were previously treated with a BTK inhibitor. Patients were randomised in a 1:1 ratio to receive either Jaypirca given orally once daily at a dose of 200 mg until disease progression or unacceptable toxicity, or Investigator's choice:
 
@@ -360,36 +451,35 @@ The efficacy of Jaypirca in patients with BTK-inhibitor pretreated CLL was evalu
 
 Randomisation was stratified by 17p deletion status (yes/no) and receipt of prior venetoclax treatment (yes/no). Of the 238 patients total, 119 were assigned to Jaypirca monotherapy, 82 to IR and 37 to BR. After confirmed disease progression, patients randomised to IR or BR had the option to cross over to Jaypirca monotherapy. Baseline characteristics were similar between treatment arms. Overall, the median age was 67 years (range: 42 to 90 years), 70 % were male and 81 % were White. Baseline ECOG performance status was 0 or 1 in 93% of patients and 44% of patients had Rai stage III or IV disease. Among those patients with central testing available, 57 % (101 of 176 patients) had 17p deletion and/or TP53 mutation, 86 % (164 of 190 patients) had unmutated IGHV, and 65 % (97 of 149) had complex karyotype.
 
-Patients received a median number of 3 prior lines of therapy (range: 1 to 13) with 57 % having at least 3 prior therapies and 51 % having had prior BCL2-inhibitor therapy. The most common prior BTK inhibitors received were ibrutinib (87 %), acalabrutinib (16 %), and zanubrutinib (7 %). 70 % of patients discontinued the most recent BTK inhibitor for refractory or progressive disease, 15 % discontinued for toxicity, and 15 % discontinued for other reasons.
+Patients received a median number of 3 prior lines of therapy (range: 1 to 13) with 57 % having at least 3 prior therapies and 51 % having had prior BCL2-inhibitor therapy. The most common prior BTK inhibitors received were ibrutinib (87 %), acalabrutinib (16 %), and zanubrutinib (7 %). 70 % of patients discontinued the most recent BTK inhibitor for refractory or progressive disease, 14 % discontinued for toxicity, and 15 % discontinued for other reasons.
 
-Efficacy was based on progression-free survival (PFS) of pirtobrutinib monotherapy versus investigator's choice arm as assessed by an Independent Review Committee (IRC). The study met its primary endpoint at the prespecified time of final analysis for IRC-assessed PFS (29 Aug 2023 cutoff). At an updated analysis (29 Aug 2024 cut-off) with a median follow-up of 19.4 months (range 0.03 to 33.3 months) for pirtobrutinib and 17.7 months (range 0.03 to 27.9 months) for the investigator's choice arm, improved IRC-assessed PFS was observed with pirtobrutinib compared to the investigator's choice arm, consistent with the primary analysis. Clinically meaningful efficacy results in favour of pirtobrutinib were observed across important subgroups, including patients who
+Efficacy was based on progression-free survival (PFS) of pirtobrutinib monotherapy versus investigator's choice arm as assessed by an Independent Review Committee (IRC). The study met its primary endpoint at the prespecified time of final analysis for IRC-assessed PFS (29 Aug 2023 cutoff). At an updated analysis (29 Aug 2024 cut-off) with a median follow-up of 19.4 months (range 0.03 to 33.3 months) for pirtobrutinib and 17.7 months (range 0.03 to 27.9 months) for the investigator's choice arm, improved IRC-assessed PFS was observed with pirtobrutinib compared to the investigator's choice arm, consistent with the primary analysis. Clinically meaningful efficacy results in favour of pirtobrutinib were observed across important subgroups, including patients who discontinued prior BTK inhibitor therapy due to intolerance or progression and irrespective of number and type of prior therapies. Efficacy results are presented in Table 5. The Kaplan-Meier curve for PFS is shown in Figure 2.
 
 <div style=\"page-break-after: always\"></div>
 
-discontinued prior BTK inhibitor therapy due to intolerance or progression and irrespective of number and type of prior therapies. Efficacy results are presented in Table 3. The Kaplan-Meier curve for PFS is shown in Figure 1.
+Table 5: Efficacy Results per IRC in Patients with CLL Previously Treated with a BTK Inhibitor - ITT Population (Study 20020)
 
-Table 3: Efficacy Results per IRC in Patients with CLL Previously Treated with a BTK Inhibitor - ITT Population (Study 20020)
-
-|                               | Pirtobrutinib 200 mg once daily (N = 119)   | Investigator's Choice of Idelalisib plus Rituximab or Bendamustine plus Rituximab (N = 119)   |
-|-------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Progression-free Survival a   |                                             |                                                                                               |
-| Number of Events, n           | 74 (62 %)                                   | 79 (66 %)                                                                                     |
-| Disease Progression           | 60 (50 %)                                   | 66 (55 %)                                                                                     |
-| Death                         | 14 (12 %)                                   | 13 (11 %)                                                                                     |
-| Median PFS (95 %CI), months b | 14.0 (11.2, 16.6)                           | 8.7 (8.1, 10.4)                                                                               |
-| HR (95 %CI) c                 | 0.54 (0.39, 0.75)                           | 0.54 (0.39, 0.75)                                                                             |
-| P-value d                     | 0.0002                                      | 0.0002                                                                                        |
-
-CI, confidence interval; HR, hazard ratio.
+|                                | Pirtobrutinib 200 mg once daily (N = 119)   | Investigator's Choice of Idelalisib plus Rituximab or Bendamustine plus Rituximab (N = 119)   |
+|--------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Progression-free Survival a    |                                             |                                                                                               |
+| Number of Events, n            | 74 (62 %)                                   | 79 (66 %)                                                                                     |
+| Disease Progression            | 60 (50 %)                                   | 66 (55 %)                                                                                     |
+| Death                          | 14 (12 %)                                   | 13 (11 %)                                                                                     |
+| Median PFS (95 % CI), months b | 14.0 (11.2, 16.6)                           | 8.7 (8.1, 10.4)                                                                               |
+| HR (95 % CI) c                 | 0.54 (0.39, 0.75)                           | 0.54 (0.39, 0.75)                                                                             |
+| P-value d                      | 0.0002                                      | 0.0002                                                                                        |
 
 Data cut-off date 29 Aug 2024
 
-- a  Efficacy was assessed using the 2018 International Workshop for Chronic Lymphocytic Leukemia (iwCLL) guidelines.
-- b  Based on Kaplan-Meier estimation.
-- c  Based on stratified Cox proportional hazards model.
-- d  2-sided nominal p-value based on stratified log-rank test.
+a  Efficacy was assessed using the 2018 International Workshop for Chronic Lymphocytic Leukemia (iwCLL) guidelines.
 
-Figure 1: Kaplan-Meier Curve of IRC-Assessed PFS in Patients with CLL Previously Treated with a BTK Inhibitor in Study 20020
+b  Based on Kaplan-Meier estimation.
+
+c  Based on stratified Cox proportional hazards model.
+
+d  2-sided nominal p-value based on stratified log-rank test.
+
+Figure 2: Kaplan-Meier Curve of IRC-Assessed PFS in Patients with CLL Previously Treated with a BTK Inhibitor in Study 20020
 
 <!-- image -->
 
@@ -411,7 +501,7 @@ The European Medicines Agency will review new information on this medicinal prod
 
 The pharmacokinetics of pirtobrutinib were characterized in healthy subjects and in patients with cancer. Doses ranged from 25 mg to 300 mg once daily (0.125 to 1.5 times the recommended dosage of 200 mg once daily), up to single doses of 900 mg. Increases in plasma exposure were approximately dose proportional. Steady state was achieved within 5 days of once daily dosing, and in cancer patients the mean [coefficient of variation (CV %)] accumulation ratio after administration of 200 mg once daily was 1.63 (26.7 %) based on AUC. Three patient factors were attributed to changes in pirtobrutinib PK: body weight, serum albumin, and absolute eGFR. An increase in body weight from 70 kg to 120 kg is predicted to increase pirtobrutinib clearance by 24 %; a decrease in absolute eGFR from 90 mL/min to 30 mL/min is predicted to reduce pirtobrutinib clearance by 16 %; and a decrease in serum albumin from 40 g/L to 30 g/L is predicted to increase pirtobrutinib clearance by 21 %. These factors alone are unlikely to result in meaningful changes to pirtobrutinib PK and no dose adjustments are recommended.
 
-The mean (CV %) steady-state AUC and Cmax were 92 600 h*ng/mL (39 %) and 6 500 ng/mL (25 %), respectively, at the recommended dosage of 200 mg once daily in cancer patients.
+The mean (CV %) steady-state AUC and Cmax were 97 100 h*ng/mL (35.5 %) and 6 690 ng/mL (24 %), respectively, at the recommended dosage of 200 mg once daily in cancer patients.
 
 At the recommended dosage, pirtobrutinib achieves pharmacokinetic exposures that can exceed the BTK IC96 at trough and thus deliver tonic BTK target inhibition throughout the once daily dosing period, regardless of the intrinsic rate of BTK turnover.
 
@@ -425,7 +515,7 @@ A high-fat, high-calorie meal administered to healthy subjects decreased the Cma
 
 ## Distribution
 
-The mean apparent central volume of distribution of pirtobrutinib is 34.2 L in cancer patients. The plasma protein binding is 96 % and was independent of concentration between 0.5 and 50 µM. In plasma from healthy subjects and subjects with severe renal impairment the protein binding was 96 %. Mean blood-to-plasma ratio is 0.79.
+The mean apparent central volume of distribution of pirtobrutinib is 35.4 L in cancer patients. The plasma protein binding is 96 % and was independent of concentration between 0.5 and 50 µM. In plasma from healthy subjects and subjects with severe renal impairment the protein binding was 96 %. Mean blood-to-plasma ratio is 0.79.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -445,13 +535,13 @@ Pirtobrutinib is an in vitro inhibitor of P-gp and BCRP. Pirtobrutinib affected 
 
 ## Elimination
 
-The mean apparent clearance of pirtobrutinib is 2.05 L/h with an effective half-life of approximately 19.9 hours. Following a single radiolabeled dose of pirtobrutinib 200 mg to healthy subjects, 37 % of the dose was recovered in faeces (18 % unchanged) and 57 % in urine (10 % unchanged).
+The mean apparent clearance of pirtobrutinib is 1.98 L/h with an effective half-life of approximately 19.9 hours. Following a single radiolabeled dose of pirtobrutinib 200 mg to healthy subjects, 37 % of the dose was recovered in faeces (18 % unchanged) and 57 % in urine (10 % unchanged).
 
 ## Special populations
 
 ## Age, gender, race and body weight
 
-Based on a population pharmacokinetic analysis in patients with cancer, age (range 22-95 years), race, gender, and body weight (range 35.7-152 kg) had no clinically meaningful effect on the exposure of pirtobrutinib.
+Based on a population pharmacokinetic analysis in patients with cancer, age (range 22-95 years), race, gender, and body weight (range 35.7-154 kg) had no clinically meaningful effect on the exposure of pirtobrutinib.
 
 ## Renal impairment
 
@@ -463,11 +553,9 @@ Patients with end-stage renal disease receiving dialysis were not studied (see s
 
 ## Hepatic impairment
 
-There were no clinically significant differences in the PK of pirtobrutinib for any degree of hepatic impairment (by Child-Pugh A, B, and C or any total bilirubin and any AST). In a dedicated hepatic impairment study mean AUC and Cmax of pirtobrutinib were similar between subjects with mild hepatic impairment (Child-Pugh A) and subjects with normal hepatic function. In subjects with moderate hepatic impairment (Child-Pugh B) the AUC was 15 % lower compared to normal hepatic function and the Cmax was similar. In subjects with severe hepatic impairment (Child-Pugh C) the AUC of pirtobrutinib was 21 % lower and mean Cmax was 24 % lower compared to subjects with normal hepatic function. The fraction unbound (fu) for pirtobrutinib in subjects generally increased as
+There were no clinically significant differences in the PK of pirtobrutinib for any degree of hepatic impairment (by Child-Pugh A, B, and C or any total bilirubin and any AST). In a dedicated hepatic impairment study mean AUC and Cmax of pirtobrutinib were similar between subjects with mild hepatic impairment (Child-Pugh A) and subjects with normal hepatic function. In subjects with moderate hepatic impairment (Child-Pugh B) the AUC was 15 % lower compared to normal hepatic function and the Cmax was similar. In subjects with severe hepatic impairment (Child-Pugh C) the AUC of pirtobrutinib was 21 % lower and mean Cmax was 24 % lower compared to subjects with normal hepatic function. The fraction unbound (fu) for pirtobrutinib in subjects generally increased as the severity of hepatic impairment increased. Therefore, after correcting pirtobrutinib PK exposure parameters with fu, there was no clinically significant difference observed in the unbound pirtobrutinib PK exposure parameters (AUCu and Cmax,u) between subjects with any degree of hepatic impairment and normal hepatic function.
 
 <div style=\"page-break-after: always\"></div>
-
-the severity of hepatic impairment increased. Therefore, after correcting pirtobrutinib PK exposure parameters with fu, there was no clinically significant difference observed in the unbound pirtobrutinib PK exposure parameters (AUCu and Cmax,u) between subjects with any degree of hepatic impairment and normal hepatic function.
 
 ## Paediatric population
 
@@ -497,11 +585,9 @@ No fertility studies have been conducted with pirtobrutinib. In repeat-dose toxi
 
 Tablet core Hypromellose acetate succinate Cellulose, microcrystalline Lactose monohydrate Croscarmellose sodium Magnesium stearate Silica, colloidal hydrated
 
-Film-coating Hypromellose Titanium dioxide Triacetin
+Film-coating Hypromellose Titanium dioxide Triacetin Indigo carmine (E132)
 
 <div style=\"page-break-after: always\"></div>
-
-Indigo carmine (E132)
 
 ## 6.2 Incompatibilities
 
@@ -517,11 +603,11 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-## Jaypirca 50 mg film-coated tablets
+Jaypirca 50 mg film-coated tablets
 
 Polyvinylchloride/polychlorotrifluoroethylene blisters sealed with an aluminium foil in packs of 28, 30 or 84 film-coated tablets.
 
-## Jaypirca 100 mg film-coated tablets
+Jaypirca 100 mg film-coated tablets
 
 Polyvinylchloride/polychlorotrifluoroethylene blisters sealed with an aluminium foil in packs of 28, 30, 56, 60, 84 or 168 film-coated tablets.
 
@@ -535,19 +621,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Eli Lilly Nederland B.V.
 
-Orteliuslaan 1000 3528 BD Utrecht The Netherlands
+Orteliuslaan 1000 3528 BD Utrecht
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-| EU/1/23/1738/001   |
-|--------------------|
-| EU/1/23/1738/002   |
-| EU/1/23/1738/003   |
-| EU/1/23/1738/004   |
-| EU/1/23/1738/005   |
-| EU/1/23/1738/006   |
-| EU/1/23/1738/007   |
-| EU/1/23/1738/008   |
+EU/1/23/1738/001 EU/1/23/1738/002 EU/1/23/1738/003 EU/1/23/1738/004 EU/1/23/1738/005 EU/1/23/1738/006 EU/1/23/1738/007 EU/1/23/1738/008 EU/1/23/1738/009
 
 <div style=\"page-break-after: always\"></div>
 
@@ -612,9 +692,9 @@ This being a conditional marketing authorisation and pursuant to Article 14-a of
 
 <div style=\"page-break-after: always\"></div>
 
-| Description                                                                                                               | Due date   |
-|---------------------------------------------------------------------------------------------------------------------------|------------|
-| to investigator choice of BTK inhibitor in patients with previously treated BTK inhibitor naïve MCLshould be submitted by |            |
+| Description                                                                                                                | Due date   |
+|----------------------------------------------------------------------------------------------------------------------------|------------|
+| to investigator choice of BTK inhibitor in patients with previously treated BTK inhibitor naïve MCL should be submitted by |            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -625,6 +705,8 @@ This being a conditional marketing authorisation and pursuant to Article 14-a of
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -649,9 +731,7 @@ See package leaflet for further information.
 ## Film-coated tablets
 
 - 28 film-coated tablets
-
 - 30 film-coated tablets
-
 - 84 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -674,15 +754,15 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -696,9 +776,9 @@ EU/1/23/1738/003 (84 film-coated tablets)
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -718,17 +798,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS FOR 50 MGFILM-COATED TABLETS               |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS FOR 50 MG FILM-COATED TABLETS                |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Jaypirca 50 mg tablets pirtobrutinib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Lilly
 
@@ -796,19 +876,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000
-
-3528 BD Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -850,17 +924,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS FOR 100 MGFILM-COATED TABLETS              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS FOR 100 MG FILM-COATED TABLETS               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Jaypirca 100 mg tablets pirtobrutinib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Lilly
 
@@ -893,10 +967,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -911,10 +985,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Jaypirca is a cancer medicine that contains the active substance pirtobrutinib. It belongs to a class of medicines called Bruton's tyrosine kinase (BTK) inhibitors.
 
-It is used on its own (monotherapy) to treat the following blood cancers in adult patients who have been previously treated with another BTK inhibitor:
+It is used on its own (monotherapy) to treat the following blood cancers in adult patients:
 
-- Mantle cell lymphoma (MCL) . MCL is an aggressive (fast growing) cancer of a type of white blood cell called B-cells. B-cells are part of the immune system (the body's natural defences). This medicine is used when the cancer has come back (relapsed), or treatment has not worked (refractory).
-- Chronic lymphocytic leukaemia (CLL): a type of cancer affecting white blood cells called lymphocytes. This medicine is used when the cancer has come back (relapsed), or treatment has not worked (refractory).
+- Mantle cell lymphoma (MCL) . MCL is an aggressive (fast growing) cancer of a type of white blood cell called B-cells. B-cells are part of the immune system (the body's natural defences). This medicine is used in patients who have been previously treated with another BTK inhibitor when the cancer has come back (relapsed), or previous treatment has not worked (refractory).
+- Chronic lymphocytic leukaemia (CLL): a type of cancer affecting white blood cells called lymphocytes. This medicine is used in patients who have not previously been treated for CLL or when the cancer has come back (relapsed), or previous treatment has not worked (refractory).
 
 ## How Jaypirca works
 
@@ -924,7 +998,7 @@ Jaypirca works by blocking BTK, a protein in the body that helps MCL and CLL cel
 
 ## Do not take Jaypirca
 
-- -If you are allergic to pirtobrutinib or any of the other ingredients of this medicine (listed in section 6).
+- If you are allergic to pirtobrutinib or any of the other ingredients of this medicine (listed in section 6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1043,35 +1117,35 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Contact your doctor immediately if you experience any of the following side effects:
 
-- fever, chills, feeling weak or confused, cough, cold or flu symptoms, shortness of breath, pain or burning feeling when passing urine; these could be signs of an infection. These could include the very common side effects (may affect more than  1 in 10 people) of infection of the lung (pneumonia), nose, sinus or throat (upper respiratory tract infection) or infection of the urinary tract (may affect up to 1 in 10 people).
-- bleeding, which may affect more than 1 in 10 people. Signs could include the common side effects (may affect up to 1 in 10 people) of nosebleeds, collection of blood under tissue (haematoma) and bleeding in the tissue lining the eye. Other signs of bleeding may include pink or brown urine, black stools or stools with blood, bleeding gums, vomiting or coughing up blood.
+- fever, chills, feeling weak or confused, cough, cold or flu symptoms, shortness of breath, pain or burning feeling when passing urine; these could be signs of an infection. These could include the very common side effects (may affect more than 1 in 10 people) of infection of the lung (pneumonia), nose, sinus or throat (upper respiratory tract infection) or infection of the urinary tract (may affect up to 1 in 10 people).
+- bleeding, which may affect more than 1 in 10 people. Signs could include the common side effects (may affect up to 1 in 10 people) of nosebleeds, collection of blood under tissue (haematoma), bleeding in the tissue lining the eye and pink or brown urine. Other signs of bleeding may include black stools or stools with blood, bleeding gums, vomiting or coughing up blood.
 - irregular heartbeats, weak or uneven pulse, light headedness, shortness of breath, chest discomfort as these are symptoms of heart rhythm problems (may affect up to 1 in 10 people).
 
 ## Tell your doctor, pharmacist, or nurse if you notice any of the following other side effects:
 
 ## Very common (may affect more than 1 in 10 people)
 
-- tiredness (fatigue)
 - low levels of neutrophils (a type of white blood cell that fights infection; neutropenia)
 - frequent or loose stools (diarrhoea)
-- bruising
-- contusion
+- rash
+- low red blood cell counts (anaemia), which can cause tiredness and pale skin
+- tiredness (fatigue)
 
 <div style=\"page-break-after: always\"></div>
 
-- feeling sick (nausea)
-- low red blood cell counts (anaemia), which can cause tiredness and pale skin
-- joint pain (arthralgia)
+- bruising
 - low blood platelet counts (cells that help blood to clot; thrombocytopenia)
-- rash
-- belly (abdominal) pain
-- swollen hands, ankles or feet
+- contusion
+- feeling sick (nausea)
+- joint pain (arthralgia)
 - headache
 
 Common (may affect up to 1 in 10 people)
 
-- lymphocytosis (a higher-than-normal amount of lymphocytes, a type of white blood cell, in the blood)
+- swollen hands, ankles or feet
+- belly (abdominal) pain
 - tiny blood spots under the skin (petechiae)
+- lymphocytosis (a higher-than-normal amount of lymphocytes, a type of white blood cell, in the blood)
 
 Not known (frequency cannot be estimated from the available data)
 
@@ -1097,8 +1171,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is pirtobrutinib. Each film-coated tablet contains 50 or 100 mg pirtobrutinib. The other ingredients are:
 
-- -Tablet core: hypromellose acetate succinate; cellulose, microcrystalline; lactose monohydrate (see section 2 'Jaypirca contains lactose'); croscarmellose sodium (see section 2 'Jaypirca contains sodium'); magnesium stearate; silica, colloidal hydrated.
-- -Tablet film-coat: hypromellose; titanium dioxide; triacetin; indigo carmine (E132).
+- Tablet core: hypromellose acetate succinate; cellulose, microcrystalline; lactose monohydrate (see section 2 'Jaypirca contains lactose'); croscarmellose sodium (see section 2 'Jaypirca contains sodium'); magnesium stearate; silica, colloidal hydrated.
+- Tablet film-coat: hypromellose; titanium dioxide; triacetin; indigo carmine (E132).
 
 ## What Jaypirca looks like and contents of the pack
 
@@ -1134,7 +1208,7 @@ ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
 
-## Danmark
+Danmark
 
 Eli Lilly Danmark A/S
 
@@ -1180,7 +1254,9 @@ Eli Lilly Lietuva Tel. +370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## Magyarország
 
@@ -1194,7 +1270,9 @@ Charles de Giorgio Ltd. Tel: + 356 25600 500
 
 ## Nederland
 
-Eli Lilly Nederland B.V. Tel: + 31-(0) 30 60 25 800
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
@@ -1210,7 +1288,9 @@ Tel: + 43-(0) 1 711 780
 
 ## Polska
 
-Eli Lilly Polska Sp. z o.o. Tel: +48 22 440 33 00
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
 
 ## Portugal
 
@@ -1218,7 +1298,9 @@ Lilly Portugal Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
 
 ## România
 
-Eli Lilly România S.R.L. Tel: + 40 21 4023000
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
 
 ## Slovenija
 

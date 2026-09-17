@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-06 17:02:31
-document_pages: 34
+document_datetime: 2026-09-14 15:06:49
+document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zynlonta-epar-product-information_en.pdf
 document_name: zynlonta-epar-product-information_en.pdf
 version: success
-processing_time: 5.8592095
-conversion_datetime: 2026-08-07 14:15:10.096684
+processing_time: 32.9602111
+conversion_datetime: 2026-09-17 20:24:56.233854
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -38,9 +38,7 @@ After reconstitution, each ml contains 5 mg of loncastuximab tesirine.
 
 Loncastuximab tesirine is a CD19-directed antibody and alkylating agent conjugate, consisting of a humanised IgG1 kappa monoclonal antibody, produced in Chinese Hamster Ovary cells by recombinant DNA technology, and conjugated to SG3199, a pyrrolobenzodiazepine (PBD) dimer cytotoxic alkylating agent, through a protease-cleavable valine-alanine linker. SG3199 attached to the linker is designated as SG3249, also known as tesirine.
 
-## Excipient with known effect
-
-Each vial of Zynlonta contains 0.4 mg (0.2 mg/mL) of polysorbate 20.
+Excipient with known effect Each vial of Zynlonta contains 0.4 mg (0.2 mg/mL) of polysorbate 20.
 
 For the full list of excipients, see section 6.1.
 
@@ -133,7 +131,9 @@ Zynlonta must be reconstituted and diluted using aseptic technique under the sup
 
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
-Precautions to be taken before handling or administering the medicinal product This medicinal product contains a cytotoxic component, which is covalently attached to the monoclonal antibody (see special handling and disposal procedures in section 6.6).
+## Precautions to be taken before handling or administering the medicinal product
+
+This medicinal product contains a cytotoxic component, which is covalently attached to the monoclonal antibody (see special handling and disposal procedures in section 6.6).
 
 ## 4.3 Contraindications
 
@@ -269,8 +269,6 @@ Table 2: Adverse reactions reported for Zynlonta in adult patients with relapsed
 | Musculoskeletal and connective tissue disorders      |                                                                                                                                               | Neck pain Pain in extremity Back pain Musculoskeletal pain Myalgia Musculoskeletal chest pain                      | Musculoskeletal discomfort Limb discomfort |                                                                          |
 | General disorders and administration site conditions | Oedema peripheral Fatigue                                                                                                                     | Face oedema Asthenia Peripheral swelling Swelling Non-cardiac chest pain                                           | Generalised oedema Oedema                  |                                                                          |
 | Investigations                                       | γ -glutamyltransferase increased Aspartate aminotransferase increased Alanine aminotransferase increased Blood alkaline phosphatase increased |                                                                                                                    |                                            |                                                                          |
-
-a Grade 5 associated adverse reactions
 
 b Dyspnoea includes dyspnoea, and dyspnoea exertional
 
@@ -484,7 +482,7 @@ This medicinal product must not be mixed with or administered as an infusion wit
 
 Unopened vial
 
-5 years
+6 years
 
 ## Reconstituted solution
 
@@ -573,7 +571,9 @@ MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1695/001
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 20 December 2022
 
@@ -693,9 +693,7 @@ List of excipients: L-histidine, L-histidine monohydrochloride, polysorbate 20 (
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder for concentrate for solution for infusion
-
-1 vial
+Powder for concentrate for solution for infusion 1 vial
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -718,6 +716,8 @@ Do not shake.
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -745,11 +745,11 @@ EU/1/22/1695/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -757,43 +757,47 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Zynlonta 10 mg powder for concentrate loncastuximab tesirine Intravenous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 IV after reconstitution and dilution
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 10 mg
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Cytotoxic
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -801,19 +805,21 @@ Cytotoxic
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the patient
 
-## Zynlonta 10 mg powder for concentrate for solution for infusion loncastuximab tesirine
+## Zynlonta 10 mg powder for concentrate for solution for infusion
 
-<!-- image -->
+loncastuximab tesirine
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -851,9 +857,10 @@ You must not be given Zynlonta if you are allergic to loncastuximab tesirine or 
 
 Talk to your doctor or nurse before you are given Zynlonta if you:
 
-- -have an active infection or have had one recently
-- -have liver problems; symptoms may include skin and eyes appearing yellowish (jaundice). Your doctor will monitor you for side effects during treatment.
-- -are pregnant or plan to become pregnant . Zynlonta can harm your unborn baby (see section 'Pregnancy and breast-feeding and fertility' for further information).
+- have an active infection or have had one recently
+- symptoms may include skin and eyes appearing yellowish (jaundice).
+- have liver problems; Your doctor will monitor you for side effects during treatment.
+- are pregnant or plan to become pregnant . Zynlonta can harm your unborn baby (see section 'Pregnancy and breast-feeding and fertility' for further information).
 
 Tell your doctor or nurse straight away if you have any of the following serious side effects.
 
@@ -885,7 +892,9 @@ Tell your doctor if you are taking, have recently taken or might take any other 
 
 Women of child-bearing potential must use effective contraception during treatment with Zynlonta, and for 10 months after the last dose.
 
-Men with partners of child-bearing potential must use effective contraception during treatment with Zynlonta, and for 7 months after the last dose. Talk to your doctor about effective contraception.
+Men with partners of child-bearing potential must use effective contraception during treatment with Zynlonta, and for 7 months after the last dose.
+
+Talk to your doctor about effective contraception.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -937,10 +946,10 @@ If you do not receive dexamethasone the day before your treatment, then it must 
 
 Zynlonta is usually given every 3 weeks (on day 1 of a 21-day cycle).
 
-- -Your doctor will give you medicines before each infusion to lower your chance of side effects.
-- -Your doctor may stop your treatment, delay your treatment, or change your dose of Zynlonta if you have severe side effects (see section 4 possible side effects).
-- -Your doctor will do regular blood tests to check for side effects of Zynlonta.
-- -Your doctor will decide how many treatment cycles you need.
+- Your doctor will give you medicines before each infusion to lower your chance of side effects.
+- Your doctor may stop your treatment, delay your treatment, or change your dose of Zynlonta if you have severe side effects (see section 4 possible side effects).
+- Your doctor will do regular blood tests to check for side effects of Zynlonta.
+- Your doctor will decide how many treatment cycles you need.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -996,11 +1005,11 @@ Skin reactions (common) have occurred in people treated with Zynlonta. Some of t
 
 <div style=\"page-break-after: always\"></div>
 
-- -sensitivity to sunlight including sunburn-like reactions such as skin peeling and irritation following exposure to light
-- -itchy rash
-- -blistering of skin
-- -darker skin patches
-- -irritation, swelling, pain, and/or skin damage at the injection site.
+- sensitivity to sunlight including sunburn-like reactions such as skin peeling and irritation following exposure to light
+- itchy rash
+- blistering of skin
+- darker skin patches
+- irritation, swelling, pain, and/or skin damage at the injection site.
 
 ## Other side effects
 
@@ -1008,45 +1017,45 @@ Tell your doctor or nurse if you notice any of the following side effects:
 
 ## Very common : may affect more than 1 in 10 people
 
-- -tiredness and pale skin
-- -abnormal blood tests showing:
+- tiredness and pale skin
+- abnormal blood tests showing:
 - o low levels of neutrophils, a type of white blood cell that fight infection, sometimes with fever
 - o low blood platelet count which can lead to bleeding and bruising
 - o liver problems
-- -loss of appetite
-- -feeling sick or vomiting
-- -diarrhoea
-- -stomach pain
-- -constipation
-- -reddening of the skin
-- -rash
-- -itching.
+- loss of appetite
+- feeling sick or vomiting
+- diarrhoea
+- stomach pain
+- constipation
+- reddening of the skin
+- rash
+- itching.
 
 ## Common : may affect up to 1 in 10 people
 
-- -infection of the lungs including bronchitis or pneumonia
-- -severe infection throughout the body (sepsis)
-- -nose and throat infection
-- -rash characterised by a flat, red area on the skin that is covered with small, raised bumps
-- -muscle pain
-- -joint pain
-- -back and neck pain
-- -pain in the arms and legs
-- -lack of energy.
+- infection of the lungs including bronchitis or pneumonia
+- severe infection throughout the body (sepsis)
+- nose and throat infection
+- rash characterised by a flat, red area on the skin that is covered with small, raised bumps
+- muscle pain
+- joint pain
+- back and neck pain
+- pain in the arms and legs
+- lack of energy.
 
 ## Uncommon : may affect less than 1 in 100 people
 
-- -pus filled raised bumps on the skin
-- -limb discomfort
-- -muscle and bone discomfort
-- -inflammation of the membrane around the heart.
+- pus filled raised bumps on the skin
+- limb discomfort
+- muscle and bone discomfort
+- inflammation of the membrane around the heart.
 
-## Not known: frequency cannot be estimated from the available data
+Not known: frequency cannot be estimated from the available data
 
-- -spider veins (broken blood vessels located near surface of skin)
-- -blisters
-- -rash consisting of tiny-to-small fluid-filled blisters
-- -small red or purple spots appearing on the skin, often starting on the legs that can slowly spread to other parts of the body with usually no associated pain, itching or swelling (cutaneous collagenous vasculopathy).
+- spider veins (broken blood vessels located near surface of skin)
+- blisters
+- rash consisting of tiny-to-small fluid-filled blisters
+- small red or purple spots appearing on the skin, often starting on the legs that can slowly spread to other parts of the body with usually no associated pain, itching or swelling (cutaneous collagenous vasculopathy).
 
 ## Reporting of side effects
 
@@ -1131,27 +1140,3 @@ From a microbiological point of view, the reconstituted solution should be used 
 ## Diluted solution
 
 From a microbiological point of view, the prepared solution for infusion should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 24 hours refrigerated (2 ℃ - 8 ℃ ) or 8 hours at room temperature (20 ℃ - 25 ℃ ), unless dilution has taken place in controlled and validated aseptic conditions. Chemical and physical in-use stability of the prepared solution for infusion has been demonstrated for up to 24 hours at room temperature (20 ℃ - 25 ℃ ).
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for loncastuximab tesirine, the scientific conclusions of PRAC are as follows:
-
-In view of available data on Cutaneous collagenous vasculopathy from clinical trials and the literature including in some cases a compatible temporal relationship, and in view of a plausible mechanism of action and similar adverse reactions caused by other antibody-drug conjugates, the PRAC considers a causal relationship between loncastuximab tesirine and Cutaneous collagenous vasculopathy is at least a reasonable possibility. The PRAC concluded that the product information of products containing loncastuximab tesirine should be amended accordingly.
-
-In view of available data on Capillary leak syndrome from toxicology studies and clinical trials, literature and spontaneous reporting including in some cases a compatible temporal relationship, and in view of a plausible mechanism of action, the PRAC considers a warning on possible Capillary leak syndrome should be included in loncastuximab tesirine product information in order to raise awareness of treating physicians and patients of this condition. The PRAC concluded that the product information of products containing loncastuximab tesirine should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for loncastuximab tesirine the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing loncastuximab tesirine is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

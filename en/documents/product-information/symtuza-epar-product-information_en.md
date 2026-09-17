@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-09-04 16:21:21
-document_pages: 52
+document_datetime: 2026-09-16 09:41:25
+document_pages: 69
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/symtuza-epar-product-information_en.pdf
 document_name: symtuza-epar-product-information_en.pdf
 version: success
-processing_time: 29.4551925
-conversion_datetime: 2026-09-11 17:35:37.330062
+processing_time: 89.200618
+conversion_datetime: 2026-09-17 20:21:53.845098
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.96.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
   docling-ibm-models: 4.0.2
-  docling-parse: 7.19.1
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,11 +24,17 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Symtuza 800 mg/150 mg/200 mg/10 mg film-coated tablets
+Symtuza 800 mg/150 mg/200 mg/10 mg film-coated tablets Symtuza 675 mg/150 mg/200 mg/10 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each film-coated tablet contains 800 mg of darunavir (as ethanolate), 150 mg of cobicistat, 200 mg of emtricitabine, and 10 mg of tenofovir alafenamide (as fumarate).
+## Symtuza 800 mg/150 mg/200 mg/10 mg film-coated tablets
+
+Each tablet contains 800 mg of darunavir (as ethanolate), 150 mg of cobicistat, 200 mg of emtricitabine, and 10 mg of tenofovir alafenamide (as fumarate).
+
+## Symtuza 675 mg/150 mg/200 mg/10 mg film-coated tablets
+
+Each tablet contains 675 mg of darunavir (as ethanolate), 150 mg of cobicistat, 200 mg of emtricitabine, and 10 mg of tenofovir alafenamide (as fumarate).
 
 For the full list of excipients, see section 6.1.
 
@@ -36,13 +42,21 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet (tablet).
 
+## Symtuza 800 mg/150 mg/200 mg/10 mg film-coated tablets
+
 Yellow to yellowish-brown capsule shaped tablet of 22 mm x 11 mm, debossed with '8121' on one side and 'JG' on the other side.
+
+## Symtuza 675 mg/150 mg/200 mg/10 mg film-coated tablets
+
+Bluish grey to grey, oval-shaped, scored tablet of 22 mm x 11mm, debossed with '6121' on one side and 'JG' on the other side.
+
+The score line is only to facilitate breaking for ease of swallowing and not to divide into equal doses.
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-Symtuza is indicated for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults and adolescents (aged 12 years and older with body weight at least 40 kg). Genotypic testing should guide the use of Symtuza (see sections 4.2, 4.4, and 5.1).
+Symtuza is indicated for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults and paediatric patients aged 6 years and older with body weight at least 25 kg. Genotypic testing should guide the use of Symtuza (see sections 4.2, 4.4, and 5.1).
 
 ## 4.2 Posology and method of administration
 
@@ -50,55 +64,81 @@ Therapy should be initiated by a physician experienced in the management of HIV-
 
 ## Posology
 
-The recommended dose regimen in adults and adolescents aged 12 years and older, weighing at least 40 kg, is one tablet taken once daily with food.
+Adults and paediatric patients weighing at least 40 kg
 
 ## Antiretroviral Therapy (ART)-naïve patients
 
-The recommended dose regimen is one film-coated tablet of Symtuza once daily taken with food.
+The recommended dose regimen is one 800 mg darunavir/150 mg cobicistat/200 mg emtricitabine/10 mg tenofovir alafenamide tablet once daily taken with food.
 
 ## ART-experienced patients
 
-One film-coated tablet of Symtuza once daily taken with food may be used in patients with prior exposure to antiretroviral medicinal products but without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA &lt; 100 000 copies/mL and CD4+ cell count ≥ 100 cells x 10 6 /L (see section 5.1).
+One 800 mg darunavir/150 mg cobicistat/200 mg emtricitabine/10 mg tenofovir alafenamide tablet once daily taken with food may be used in patients with prior exposure to antiretroviral medicinal products but without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA &lt; 100 000 copies/mL and CD4+ cell count ≥ 100 cells x 10 6 /L (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
+
+## * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V, L89V.
+
+## Paediatric patients aged 6 years and older weighing at least 25 kg to less than 40 kg
+
+## ART-naïve paediatric patients
+
+The recommended dose regimen is one 675 mg darunavir/150 mg cobicistat/200 mg emtricitabine/10 mg tenofovir alafenamide tablet once daily taken with food.
+
+## ART-experienced paediatric patients
+
+One 675 mg darunavir/150 mg cobicistat/200 mg emtricitabine/10 mg tenofovir alafenamide tablet once daily taken with food may be used in patients with prior exposure to antiretroviral medicinal products but without DRV-RAMs* and who have plasma HIV-1 RNA &lt; 100 000 copies/mL and CD4+ cell count ≥ 100 cells x 10 6 /L (see section 5.1).
 
 * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V, L89V.
 
 ## Advice on missed doses
 
-If a dose of Symtuza is missed within 12 hours of the time it is usually taken, patients should be instructed to take the prescribed dose of Symtuza with food as soon as possible. If a missed dose is noticed later than 12 hours of the time it is usually taken, it should not be taken and the patient should resume the usual dosing schedule.
+If a dose of Symtuza is missed within 12 hours of the time it is usually taken, patients should be instructed to take the prescribed dose with food as soon as possible. If a missed dose is noticed later than 12 hours of the time it is usually taken, it should not be taken and the patient should resume the usual dosing schedule.
 
-In case a patient vomits within 1 hour of taking the medicinal product, another dose of Symtuza should be taken with food as soon as possible. If a patient vomits more than 1 hour after taking the medicinal product, the patient does not need to take another dose of Symtuza until the next regularly scheduled time.
+In case a patient vomits within 1 hour of taking Symtuza, another dose should be taken with food as soon as possible. If a patient vomits more than 1 hour after taking the dose, the patient does not need to take another dose until the next regularly scheduled time.
 
-<div style=\"page-break-after: always\"></div>
+## Special populations
 
-## Special populations Elderly
+## Elderly
 
-Limited information is available in this population, and, therefore, Symtuza should be used with caution in patients above 65 years of age (see sections 4.4 and 5.2).
+This medicine should be used with caution in patients above 65 years of age (see sections 4.4 and 5.2).
 
 ## Hepatic impairment
 
-No dose adjustment of Symtuza is required in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment, however, Symtuza should be used with caution in these patients, as the darunavir and cobicistat components of Symtuza are metabolised by the hepatic system.
+No dose adjustment is required in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment, however, this medicine should be used with caution in these patients, as darunavir and cobicistat are metabolised by the hepatic system (see section 5.2).
 
-Symtuza has not been studied in patients with severe hepatic impairment (Child-Pugh Class C), therefore, Symtuza must not be used in patients with severe hepatic impairment (see sections 4.3, 4.4 and 5.2).
+This medicine must not be used in patients with severe hepatic impairment (see sections 4.3, 4.4 and 5.2).
 
 ## Renal impairment
 
-No dose adjustment of Symtuza is required in patients with estimated glomerular filtration rate (eGFR) according to the Cockcroft-Gault formula (eGFRCG) ≥ 30 mL/min.
+No dose adjustment is required in patients with estimated glomerular filtration rate (eGFR) ≥ 30 mL/min.
 
-Symtuza should not be initiated in patients with eGFRCG &lt; 30 mL/min, as there are no data available regarding the use of Symtuza in this population (see sections 5.1 and 5.2). Symtuza should be discontinued in patients with eGFRCG that declines below 30 mL/min during treatment (see sections 5.1 and 5.2).
+This medicine should not be initiated in patients with eGFR &lt; 30 mL/min, as there are no data available (see sections 5.1 and 5.2).
 
-## Paediatric population
-
-The safety and efficacy of Symtuza in children aged 3-11 years, or weighing &lt; 40 kg, have not yet been established. No data are available.
-
-Symtuza should not be used in paediatric patients below 3 years of age because of safety concerns (see sections 4.4 and 5.3).
+It should be discontinued in patients with eGFR that declines below 30 mL/min during treatment (see sections 5.1 and 5.2).
 
 ## Pregnancy and postpartum
 
-Treatment with darunavir/cobicistat (two of the components of Symtuza) during pregnancy results in low darunavir exposure (see sections 4.4 and 5.2). Therefore, therapy with Symtuza should not be initiated during pregnancy, and women who become pregnant during therapy with Symtuza should be switched to an alternative regimen (see sections 4.4 and 4.6).
+Treatment with darunavir/cobicistat (two of the components of Symtuza) during pregnancy results in low darunavir exposure (see sections 4.4 and 5.2). Therefore, therapy with Symtuza should not be initiated during pregnancy, and women who become pregnant during therapy with this fixed-dose combination (FDC) should be switched to an alternative regimen (see sections 4.4 and 4.6).
+
+## Paediatric population
+
+The safety and efficacy of darunavir/cobicistat/emtricitabine/tenofovir alafenamide FDC have not been established in children aged 3 to &lt; 6 years, or weighing &lt; 25 kg. No data are available.
+
+<div style=\"page-break-after: always\"></div>
+
+Darunavir/cobicistat/emtricitabine/tenofovir alafenamide FDC should not be used in paediatric patients below 3 years of age because of safety concerns related to toxicity and mortality observed in juvenile rats dosed with darunavir up to days 23 to 26 of age (see sections 4.4 and 5.3).
 
 ## Method of administration
 
 Symtuza should be taken orally, once daily with food (see section 5.2). The tablet should not be crushed.
+
+## Adults and paediatric patients weighing at least 40 kg
+
+For patients unable to swallow the 800 mg/150 mg/200 mg/10 mg tablet whole, the tablet may be split into two pieces using a tablet-cutter. Each piece should be consumed immediately after splitting to ensure the entire dose is administered.
+
+## Paediatric patients aged 6 years and older weighing at least 25 kg to less than 40 kg
+
+For patients unable to swallow the 675 mg/150 mg/200 mg/10 mg tablet whole, the scored tablet may be split by hand into two pieces. Each piece should be consumed immediately after splitting to ensure the entire dose is administered.
 
 ## 4.3 Contraindications
 
@@ -116,9 +156,6 @@ Co-administration with strong CYP3A inducers such as the medicinal products list
 Co-administration with medicinal products such as those products listed below due to the potential for serious and/or life-threatening adverse reactions (see section 4.5):
 
 - alfuzosin
-
-<div style=\"page-break-after: always\"></div>
-
 - amiodarone, dronedarone, ivabradine, quinidine, ranolazine
 - colchicine when used in patients with renal and/or hepatic impairment (see section 4.5)
 - rifampicin
@@ -138,6 +175,8 @@ Co-administration with medicinal products such as those products listed below du
 ## ART-experienced patients
 
 Symtuza should not be used in treatment-experienced patients with one or more DRV-RAMs (see section 5.1) or with HIV-1 RNA ≥ 100 000 copies/mL or CD4+ cell count &lt; 100 cells x 10 6 /L.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -159,8 +198,6 @@ Symtuza should not be administered concomitantly with medicinal products contain
 
 Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage. There have been reports of mitochondrial dysfunction in HIV negative infants exposed in utero and/or postnatally to nucleoside analogues. The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactataemia, hyperlipasaemia). These events are often transitory. Some late-onset neurological disorders have been reported (hypertonia, convulsion, abnormal behaviour). Whether the neurological disorders are transient or permanent is currently unknown. Any child exposed in utero to nucleoside and nucleotide analogues, even HIV negative children, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms. These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elderly
 
 As limited information is available on the use of Symtuza in patients aged 65 and over, caution should be exercised, reflecting the greater frequency of decreased hepatic function and of concomitant disease or other therapy (see sections 4.2 and 5.2).
@@ -168,6 +205,8 @@ As limited information is available on the use of Symtuza in patients aged 65 an
 ## Hepatotoxicity
 
 Hepatitis (e.g. acute hepatitis, cytolytic hepatitis) has been reported with darunavir/ritonavir. During the darunavir/ritonavir clinical development program (N = 3 063), hepatitis was reported in 0.5% of patients receiving combination antiretroviral therapy with darunavir/ritonavir. Patients with pre-existing liver dysfunction, including chronic hepatitis B or C, have an increased risk for liver function abnormalities including severe and potentially fatal hepatic adverse reactions. In case of concomitant antiviral therapy for hepatitis B or C, please refer to the relevant product information for these medicinal products.
+
+<div style=\"page-break-after: always\"></div>
 
 Appropriate laboratory testing should be conducted prior to initiating therapy with Symtuza and patients should be monitored during treatment. Increased AST/ALT monitoring should be considered in patients with underlying chronic hepatitis, cirrhosis, or in patients who have pre-treatment elevations of transaminases, especially during the first several months of Symtuza treatment.
 
@@ -185,9 +224,7 @@ Cobicistat has been shown to decrease estimated creatinine clearance due to inhi
 
 ## Hepatic impairment
 
-The safety and efficacy of Symtuza or its components have not been established in patients with severe underlying liver disorders. Symtuza is, therefore, contraindicated in patients with severe hepatic impairment. Due to an increase in the unbound darunavir plasma concentrations, Symtuza should be used with caution in patients with mild or moderate hepatic impairment (see sections 4.2, 4.3 and 5.2).
-
-<div style=\"page-break-after: always\"></div>
+The safety and efficacy of darunavir/cobicistat/emtricitabine/tenofovir alafenamide FDC or its components have not been established in patients with severe underlying liver disorders. Symtuza is, therefore, contraindicated in patients with severe hepatic impairment. Due to an increase in the unbound darunavir plasma concentrations, Symtuza should be used with caution in patients with mild or moderate hepatic impairment (see sections 4.2, 4.3 and 5.2).
 
 ## Haemophiliac patients
 
@@ -201,6 +238,8 @@ During the darunavir/ritonavir clinical development program (N = 3 063), severe 
 
 Darunavir contains a sulphonamide moiety. Symtuza should be used with caution in patients with a known sulphonamide allergy.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Weight and metabolic parameters
 
 An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy. Such changes may in part be linked to disease control and life style. For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment. For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines. Lipid disorders should be managed as clinically appropriate.
@@ -211,13 +250,13 @@ Although the aetiology is considered to be multifactorial (including corticoster
 
 ## Immune reconstitution inflammatory syndrome (IRIS)
 
-In HIV infected patients treated with CART, IRIS has been reported. In HIV infected patients with severe immune deficiency at the time of initiation of CART, an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such reactions have been observed within the first weeks or months of initiation of CART. Relevant examples include cytomegalovirus retinitis, generalised and/or focal mycobacterial infections and pneumonia caused by Pneumocystis jirovecii (formerly known as Pneumocystis carinii ). Any inflammatory symptoms should be evaluated and treatment instituted when necessary. In addition, reactivation of herpes simplex and herpes zoster has been observed in clinical trials with darunavir co-administered with low dose ritonavir. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of IRIS; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.8).
+In HIV infected patients treated with CART, IRIS has been reported. In HIV infected patients with severe immune deficiency at the time of initiation of CART, an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such reactions have been observed within the first weeks or months of initiation of CART. Relevant examples include cytomegalovirus retinitis, generalised and/or focal mycobacterial infections and pneumonia caused by Pneumocystis jirovecii (formerly known as Pneumocystis carinii ). Any inflammatory symptoms should be evaluated and treatment instituted when necessary. In addition, reactivation of herpes simplex and herpes zoster has been observed in clinical trials with darunavir co-administered with low dose ritonavir.
+
+Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of IRIS; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.8).
 
 ## Opportunistic infections
 
 Patients receiving Symtuza or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with HIV associated diseases.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Interactions with medicinal products
 
@@ -227,11 +266,13 @@ Symtuza is indicated for use as a complete regimen for the treatment of HIV-1 in
 
 ## Paediatric population
 
-Symtuza should not be used in paediatric patients below 3 years of age (see sections 4.2 and 5.3).
+Reductions in bone mineral density (BMD ≥4%) of the spine and total body less head (TBLH) have been reported in patients aged between 3 to &lt;12 years who received tenofovir alafenamide-containing products for 48 weeks (see section 4.8). The long-term effects of changes in BMD on the growing bone, including the risk of fracture, are uncertain. A multidisciplinary approach is recommended to decide the appropriate monitoring during treatment.
 
 ## Excipients
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -253,8 +294,6 @@ Co-administration of Symtuza and other medicinal products that inhibit CYP3A may
 
 Unlike ritonavir, cobicistat is not an inducer of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 or UGT1A1. If switching from ritonavir as a pharmacoenhancer to this regimen with cobicistat, caution is required during the first two weeks of treatment with Symtuza, particularly if doses of any concomitantly administered medicinal products have been titrated or adjusted during use of ritonavir.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Emtricitabine
 
 In vitro and clinical pharmacokinetic interaction studies have shown that the potential for CYP-mediated interactions involving emtricitabine with other medicinal products is low.
@@ -264,6 +303,8 @@ Emtricitabine did not inhibit the glucuronidation reaction of a non-specific UGT
 ## Tenofovir alafenamide
 
 Tenofovir alafenamide is transported by P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP). Medicinal products that strongly affect P-gp activity and BCRP may lead to changes in tenofovir alafenamide absorption. Medicinal products that induce P-gp activity (e.g., rifampicin, rifabutin, carbamazepine, phenobarbital) are expected to decrease the absorption of tenofovir alafenamide, resulting in decreased plasma concentration of tenofovir alafenamide, which may lead to loss of therapeutic effect of tenofovir alafenamide and development of resistance. Co-administration of tenofovir alafenamide with other medicinal products that inhibit P-gp (e.g., cobicistat, ritonavir, ciclosporin) are expected to increase the absorption and plasma concentration of tenofovir alafenamide. It is not known whether the co-administration of tenofovir alafenamide and xanthine oxidase inhibitors (e.g. febuxostat) would increase systemic exposure to tenofovir.
+
+<div style=\"page-break-after: always\"></div>
 
 Tenofovir alafenamide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2D6 in vitro . It is not an inhibitor of CYP3A4 in vivo . Tenofovir alafenamide is a substrate of OATP1B1 and OATP1B3 in vitro . The distribution of tenofovir alafenamide in the body may be affected by the activity of OATP1B1 and OATP1B3.
 
@@ -277,153 +318,153 @@ The interaction profile of darunavir depends on whether ritonavir or cobicistat 
 
 The below list of examples of interactions is not comprehensive and therefore the label of each medicinal product that is co-administered with Symtuza should be consulted for information related to the route of metabolism, interaction pathways, potential risks, and specific actions to be taken with regards to co-administration.
 
-| Table 1:                                                            | Interactions between the individual components of Symtuza and other medicinal products   | Interactions between the individual components of Symtuza and other medicinal products                            | Interactions between the individual components of Symtuza and other medicinal products   |
-|---------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| INTERACTIONS AND DOSE RECOMMENDATIONS WITH OTHER MEDICINAL PRODUCTS | INTERACTIONS AND DOSE RECOMMENDATIONS WITH OTHER MEDICINAL PRODUCTS                      | INTERACTIONS AND DOSE RECOMMENDATIONS WITH OTHER MEDICINAL PRODUCTS                                               | INTERACTIONS AND DOSE RECOMMENDATIONS WITH OTHER MEDICINAL PRODUCTS                      |
-| Medicinal product examples therapeutic area                         | Medicinal product examples therapeutic area                                              | by Interaction                                                                                                    | Recommendations concerning co-administration                                             |
-| ALPHA ADRENORECEPTOR ANTAGONISTS                                    | ALPHA ADRENORECEPTOR ANTAGONISTS                                                         | ALPHA ADRENORECEPTOR ANTAGONISTS                                                                                  | ALPHA ADRENORECEPTOR ANTAGONISTS                                                         |
-| Alfusozin                                                           | Alfusozin                                                                                | Based on theoretical considerations DRV/COBI is expected to increase alfusozin concentrations (CYP3A4 inhibition) | The concomitant use of Symtuza with alfusozin is contraindicated (see section 4.3).      |
+| Table 1: Interactions between the individual components of Symtuza and other medicinal products   | Table 1: Interactions between the individual components of Symtuza and other medicinal products                   | Table 1: Interactions between the individual components of Symtuza and other medicinal products                                                                |
+|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| INTERACTIONS AND DOSE RECOMMENDATIONS WITH OTHER MEDICINAL PRODUCTS                               | INTERACTIONS AND DOSE RECOMMENDATIONS WITH OTHER MEDICINAL PRODUCTS                                               | INTERACTIONS AND DOSE RECOMMENDATIONS WITH OTHER MEDICINAL PRODUCTS                                                                                            |
+| Medicinal product examples by therapeutic area                                                    | Interaction                                                                                                       | Recommendations concerning co-administration                                                                                                                   |
+| ALPHA ADRENORECEPTOR ANTAGONISTS                                                                  | ALPHA ADRENORECEPTOR ANTAGONISTS                                                                                  | ALPHA ADRENORECEPTOR ANTAGONISTS                                                                                                                               |
+| Alfusozin                                                                                         | Based on theoretical considerations DRV/COBI is expected to increase alfusozin concentrations (CYP3A4 inhibition) | The concomitant use of Symtuza with alfusozin is contraindicated (see section 4.3).                                                                            |
+| ANAESTHETIC                                                                                       | ANAESTHETIC                                                                                                       | ANAESTHETIC                                                                                                                                                    |
+| Alfentanil                                                                                        | Based on theoretical considerations DRV/COBI is expected to increase alfentanil plasma concentrations.            | The concomitant use with Symtuza may require to lower the dose of alfentanil and requires monitoring for risks of prolonged or delayed respiratory depression. |
+| ANTACIDS                                                                                          | ANTACIDS                                                                                                          | ANTACIDS                                                                                                                                                       |
+| Aluminium/magnesium hydroxide Calcium carbonate                                                   | No mechanistic interaction expected based on theoretical considerations.                                          | Symtuza and antacids can be used concomitantly without dose adjustment.                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| ANAESTHETIC - Alfentanil                                                                                        | ANAESTHETIC - Based on theoretical considerations DRV/COBI is expected to increase alfentanil plasma concentrations.                                                                                                                     | ANAESTHETIC - The concomitant use with Symtuza may require to lower the dose of alfentanil and requires monitoring for risks of prolonged or delayed respiratory depression.                                                                                                      |
-|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ANTACIDS                                                                                                        |                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                   |
-| Aluminium/magnesium hydroxide Calcium carbonate                                                                 | No mechanistic interaction expected based on theoretical considerations.                                                                                                                                                                 | Symtuza and antacids can be used concomitantly without dose adjustment.                                                                                                                                                                                                           |
-| ANTIANGINA/ANTIARRHYTHMIC                                                                                       | ANTIANGINA/ANTIARRHYTHMIC                                                                                                                                                                                                                | ANTIANGINA/ANTIARRHYTHMIC                                                                                                                                                                                                                                                         |
-| Disopyramide Flecainide Mexiletine Propafenone Lidocaine (systemic) Amiodarone Dronedarone Ivabradine Quinidine | Based on theoretical considerations DRV/COBI is expected to increase these antiarrhythmic plasma concentrations. (CYP3A inhibition)                                                                                                      | Caution is warranted and concentration monitoring, if available, is recommended for these antiarrhythmics when co-administered with Symtuza. Co-administration of amiodarone, dronedarone, ivabradine, quinidine, or ranolazine and Symtuza is contraindicated (see section 4.3). |
-| Ranolazine Digoxin                                                                                              | Based on theoretical considerations DRV/COBI is expected to increase digoxin plasma concentrations. (P-glycoprotein inhibition)                                                                                                          | It is recommended that the lowest possible dose of digoxin should initially be given to patients on Symtuza. The digoxin dose should be carefully titrated to obtain the desired clinical effect while assessing the overall clinical state of the subject.                       |
-| ANTIBIOTIC                                                                                                      |                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                   |
-| Clarithromycin                                                                                                  | Based on theoretical considerations clarithromycin is expected to increase darunavir and/or cobicistat plasma concentrations. (CYP3A inhibition) Concentrations of clarithromycin may be increased upon co-administration with DRV/COBI. | Caution should be exercised when clarithromycin is combined with Symtuza. For patients with renal impairment the Summary of Product Characteristics for clarithromycin should be consulted for the recommended dose.                                                              |
-| ANTICOAGULANT/PLATELET AGGREGATION INHIBITOR                                                                    | ANTICOAGULANT/PLATELET AGGREGATION INHIBITOR                                                                                                                                                                                             | ANTICOAGULANT/PLATELET AGGREGATION INHIBITOR                                                                                                                                                                                                                                      |
-| Apixaban Rivaroxaban                                                                                            | (CYP3A inhibition) Based on theoretical considerations co-administration of Symtuza with these anticoagulants may increase concentrations of the anticoagulant. (CYP3A and/or P-glycoprotein inhibition)                                 | Co-administration of Symtuza with a direct oral anticoagulant (DOAC) that is metabolised by CYP3A4 and transported by P-gp is not recommended as this may lead to an increased bleeding risk.                                                                                     |
+| ANTIANGINA/ANTIARRHYTHMIC                                                                                       | ANTIANGINA/ANTIARRHYTHMIC                                                                                                                                                                                                                                   | ANTIANGINA/ANTIARRHYTHMIC                                                                                                                                                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Disopyramide Flecainide Mexiletine Propafenone Lidocaine (systemic) Amiodarone Dronedarone Ivabradine Quinidine | Based on theoretical considerations DRV/COBI is expected to increase these antiarrhythmic plasma concentrations. (CYP3A inhibition)                                                                                                                         | Caution is warranted and concentration monitoring, if available, is recommended for these antiarrhythmics when co-administered with Symtuza. Co-administration of amiodarone, dronedarone, ivabradine, quinidine, or ranolazine and Symtuza is contraindicated (see section 4.3). |
+| Ranolazine Digoxin                                                                                              | Based on theoretical considerations DRV/COBI is expected to increase digoxin plasma concentrations. (P-glycoprotein inhibition)                                                                                                                             | It is recommended that the lowest possible dose of digoxin should initially be given to patients on Symtuza. The digoxin dose should be carefully titrated to obtain the desired clinical effect while assessing the overall clinical state of the subject.                       |
+| ANTIBIOTIC                                                                                                      | ANTIBIOTIC                                                                                                                                                                                                                                                  | ANTIBIOTIC                                                                                                                                                                                                                                                                        |
+| Clarithromycin                                                                                                  | Based on theoretical considerations clarithromycin is expected to increase darunavir and/or cobicistat plasma concentrations. (CYP3A inhibition) Concentrations of clarithromycin may be increased upon co-administration with DRV/COBI. (CYP3A inhibition) | Caution should be exercised when clarithromycin is combined with Symtuza. For patients with renal impairment the Summary of Product Characteristics for clarithromycin should be consulted for the recommended dose.                                                              |
+| ANTICOAGULANT/PLATELET AGGREGATION INHIBITOR                                                                    | ANTICOAGULANT/PLATELET AGGREGATION INHIBITOR                                                                                                                                                                                                                | ANTICOAGULANT/PLATELET AGGREGATION INHIBITOR                                                                                                                                                                                                                                      |
+| Apixaban Rivaroxaban                                                                                            | Based on theoretical considerations co-administration of Symtuza with these anticoagulants may increase concentrations of the anticoagulant. (CYP3A and/or P-glycoprotein inhibition)                                                                       | Co-administration of Symtuza with a direct oral anticoagulant (DOAC) that is metabolised by CYP3A4 and transported by P-gp is not recommended as this may lead to an increased bleeding risk.                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| Dabigatran etexilate Edoxaban         | dabigatran etexilate (150 mg): darunavir/cobicistat 800/150 mg single dose: dabigatran AUC ↑ 164% dabigatran C max ↑ 164% darunavir/cobicistat 800/150 mg once daily:                                                    | Clinical monitoring and dose reduction is required when a DOAC transported by P-gp but not metabolised by CYP3A4, including dabigatran etexilate and edoxaban, is co-administered with Symtuza.   |
+| Dabigatran etexilate Edoxaban         | dabigatran etexilate (150 mg): darunavir/cobicistat 800/150 mg single dose: dabigatran AUC ↑ 164% dabigatran C max ↑ 164% darunavir/cobicistat 800/150 mg once daily: dabigatran AUC ↑ 88%                               | Clinical monitoring and dose reduction is required when a DOAC transported by P-gp but not metabolised by CYP3A4, including dabigatran etexilate and edoxaban, is co-administered with Symtuza.   |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ticagrelor                            | dabigatran AUC ↑ 88% dabigatran C max ↑ 99% Based on theoretical considerations co-administration of DRV/COBI with ticagrelor may increase concentrations of ticagrelor. (CYP3A and/or P-glycoprotein inhibition).       | Concomitant administration of Symtuza with ticagrelor is contraindicated (see section 4.3).                                                                                                       |
+| Ticagrelor                            | dabigatran C max ↑ 99% Based on theoretical considerations co-administration of DRV/COBI with ticagrelor may increase concentrations of ticagrelor. (CYP3A and/or P-glycoprotein inhibition).                            | Concomitant administration of Symtuza with ticagrelor is contraindicated (see section 4.3).                                                                                                       |
 | Clopidogrel                           | Based on theoretical considerations co-administration of Symtuza with clopidogrel is expected to decrease clopidogrel active metabolite plasma concentration, which may reduce the antiplatelet activity of clopidogrel. | Co-administration of Symtuza with clopidogrel is not recommended. Use of other antiplatelets not affected by CYP inhibition or induction (e.g. prasugrel) is recommended (see section 4.3).       |
 | Warfarin                              | Based on theoretical considerations DRV/COBI may alter warfarin plasma concentrations.                                                                                                                                   | It is recommended that the international normalised ratio (INR) be monitored when warfarin is co-administered with Symtuza.                                                                       |
 | ANTICONVULSANTS                       | ANTICONVULSANTS                                                                                                                                                                                                          | ANTICONVULSANTS                                                                                                                                                                                   |
 | Carbamazepine Phenobarbital Phenytoin | Based on theoretical considerations these anticonvulsants are expected to decrease darunavir and/or cobicistat and/or tenofovir alafenamide plasma concentrations.                                                       | Co-administration of Symtuza and these anticonvulsants is contraindicated (see section 4.3).                                                                                                      |
-| Oxcarbazepine                         | (CYP3A and/or P-gp induction). Based on theoretical considerations                                                                                                                                                       | Co-administration of Symtuza with oxcarbazepine is not recommended. Alternative anticonvulsants should be considered.                                                                             |
-| Clonazepam                            | Symtuza is expected to increase concentrations of clonazepam (inhibition of CYP3A)                                                                                                                                       | Clinical monitoring is recommended when co-administering Symtuza with clonazepam.                                                                                                                 |
+| Oxcarbazepine                         | (CYP3A and/or P-gp induction).                                                                                                                                                                                           | Co-administration of Symtuza with oxcarbazepine is not recommended. Alternative anticonvulsants should be considered.                                                                             |
+| Clonazepam                            | Based on theoretical considerations Symtuza is expected to increase concentrations of clonazepam. (inhibition of CYP3A)                                                                                                  | Clinical monitoring is recommended when co-administering Symtuza with clonazepam.                                                                                                                 |
 | ANTI-DEPRESSANTS                      | ANTI-DEPRESSANTS                                                                                                                                                                                                         | ANTI-DEPRESSANTS                                                                                                                                                                                  |
 | Herbal supplements St. John's Wort    | Based on theoretical considerations St. John's Wort is expected to decrease darunavir and/or cobicistat and/or tenofovir alafenamide plasma concentrations. (CYP3A and/or P-gp induction)                                | Co-administration of St. John's Wort and Symtuza is contraindicated (see section 4.3).                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Paroxetine Sertraline                                                         | Based on theoretical considerations DRV/COBI is expected to increase these anti-depressant plasma concentrations. (CYP2D6 and/or CYP3A inhibition) Prior data with ritonavir-boosted darunavir however showed a decrease in these anti-depressant plasma concentrations (unknown mechanism); the latter may be specific to ritonavir.                     | If these anti-depressants are to be used with Symtuza clinical monitoring is recommended and a dose adjustment of the anti-depressant may be needed.                                                                                                                                                           |
-|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Amitriptyline Desipramine Imipramine Nortriptyline Trazodone ANTI-DIABETICS   | Based on theoretical considerations DRV/COBI is expected to increase these anti-depressant plasma concentrations. (CYP2D6 and/or CYP3A inhibition)                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                |
-| Metformin                                                                     | Based on theoretical considerations DRV/COBI is expected to increase metformin plasma concentrations. (MATE1 inhibition)                                                                                                                                                                                                                                  | Careful clinical monitoring and dose adjustment of metformin is recommended in patients who are taking Symtuza.                                                                                                                                                                                                |
-| ANTIEMETICS                                                                   |                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                |
-| Domperidone                                                                   | Not studied.                                                                                                                                                                                                                                                                                                                                              | Co-administration of domperidone with Symtuza is contraindicated.                                                                                                                                                                                                                                              |
-| ANTIFUNGALS                                                                   |                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                |
-| Clotrimazole Fluconazole Itraconazole Isavuconazole Posaconazole Voriconazole | Based on theoretical considerations DRV/COBI is expected to increase these antifungal plasma concentrations, and darunavir, cobicistat and/or tenofovir alafenamide plasma concentrations may be increased by the antifungals. (CYP3A and/or P-gp inhibition) Concentrations of voriconazole may increase or decrease when co-administered with DRV/COBI. | Caution is warranted and clinical monitoring is recommended. When co-administration is required, the daily dose of itraconazole should not exceed 200 mg. Voriconazole should not be combined with Symtuza unless an assessment of the benefit/risk ratio justifies the use of                                 |
-| ANTIGOUT MEDICINES                                                            |                                                                                                                                                                                                                                                                                                                                                           | voriconazole.                                                                                                                                                                                                                                                                                                  |
-| Colchicine                                                                    | Based on theoretical considerations DRV/COBI is expected to increase colchicine plasma concentrations. (CYP3A and/or P-glycoprotein inhibition)                                                                                                                                                                                                           | A reduction in colchicine dose or an interruption of colchicine treatment is recommended in patients with normal renal or hepatic function if treatment with Symtuza is required. The combination of colchicine and Symtuza is contraindicated in patients with renal or hepatic impairment (see section 4.3). |
+| Paroxetine Sertraline                                                       | Based on theoretical considerations DRV/COBI is expected to increase these anti-depressant plasma concentrations. (CYP2D6 and/or CYP3A inhibition) Prior data with ritonavir-boosted darunavir however showed a decrease in these anti-depressant plasma concentrations (unknown mechanism); the latter may be specific to ritonavir.   | If these anti-depressants are to be used with Symtuza clinical monitoring is recommended and a dose adjustment of the anti-depressant may be needed.                                                                                                                                                           |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Amitriptyline Desipramine Imipramine Nortriptyline Trazodone ANTI-DIABETICS | Based on theoretical considerations DRV/COBI is expected to increase these anti-depressant plasma concentrations. (CYP2D6 and/or CYP3A inhibition)                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                |
+| Metformin                                                                   | Based on theoretical considerations DRV/COBI is expected to increase metformin plasma concentrations. (MATE1 inhibition)                                                                                                                                                                                                                | Careful clinical monitoring and dose adjustment of metformin is recommended in patients who are taking Symtuza.                                                                                                                                                                                                |
+| ANTIEMETICS                                                                 |                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                |
+| Domperidone Clotrimazole Fluconazole Itraconazole                           | Not studied. Based on theoretical considerations DRV/COBI is expected to these antifungal plasma concentrations, and darunavir,                                                                                                                                                                                                         | Co-administration of domperidone with Symtuza is contraindicated. Caution is warranted and clinical                                                                                                                                                                                                            |
+| ANTIFUNGALS                                                                 |                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                |
+| Isavuconazole Posaconazole Voriconazole                                     | increase cobicistat and/or tenofovir alafenamide plasma concentrations may be increased by the antifungals. (CYP3A and/or P-gp inhibition) Concentrations of voriconazole may increase or decrease when co-administered with DRV/COBI.                                                                                                  | monitoring is recommended. When co-administration is required, the daily dose of itraconazole should not exceed 200 mg. Voriconazole should not be combined with Symtuza unless an assessment of the benefit/risk                                                                                              |
+| ANTIGOUT MEDICINES                                                          |                                                                                                                                                                                                                                                                                                                                         | ratio justifies the use of voriconazole.                                                                                                                                                                                                                                                                       |
+| Colchicine                                                                  | Based on theoretical considerations DRV/COBI is expected to increase colchicine plasma concentrations. (CYP3A and/or P-glycoprotein inhibition)                                                                                                                                                                                         | A reduction in colchicine dose or an interruption of colchicine treatment is recommended in patients with normal renal or hepatic function if treatment with Symtuza is required. The combination of colchicine and Symtuza is contraindicated in patients with renal or hepatic impairment (see section 4.3). |
 
 <div style=\"page-break-after: always\"></div>
 
-| ANTIMALARIALS                               | ANTIMALARIALS                                                                                                                                                                                       | ANTIMALARIALS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Artemether/Lumefantrine                     | Based on theoretical considerations DRV/COBI is expected to increase lumefantrine plasma concentrations. (CYP3A inhibition)                                                                         | Symtuza and artemether/lumefantrine can be used without dose adjustments; however, due to the increase in lumefantrine exposure, the combination should be used with caution.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ANTIMYCOBACTERIALS                          | ANTIMYCOBACTERIALS                                                                                                                                                                                  | ANTIMYCOBACTERIALS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Rifampicin                                  | Based on theoretical considerations rifampicin is expected to decrease darunavir and/or cobicistat and/or tenofovir alafenamide plasma concentrations. (CYP3A and/or P-gp induction)                | The combination of rifampicin and Symtuza is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Rifabutin Rifapentine                       | Based on theoretical considerations these antimycobacterials are expected to decrease darunavir and/or cobicistat and/or tenofovir alafenamide plasma concentrations. (CYP3A and/or P-gp induction) | Co-administration of Symtuza with rifabutin and rifapentine is not recommended. If the combination is needed, the recommended dose of rifabutin is 150 mg 3 times per week on set days (for example Monday-Wednesday-Friday). Increased monitoring for rifabutin associated adverse reactions including neutropenia and uveitis is warranted due to an expected increase in exposure to rifabutin. Further dose reduction of rifabutin has not been studied. It should be kept in mind that the twice weekly dose of 150 mg may not provide an optimal exposure to rifabutin thus leading to a risk of rifamycin resistance and a treatment failure. Consideration should be given to official guidance on the appropriate treatment of tuberculosis in HIV infected patients. This recommendation is different from ritonavir-boosted darunavir. Consult the Summary of Product Characteristics for darunavir for |
-| ANTI-NEOPLASTICS                            | ANTI-NEOPLASTICS                                                                                                                                                                                    | ANTI-NEOPLASTICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Dasatinib Nilotinib Vinblastine Vincristine | Based on theoretical considerations DRV/COBI is expected to increase these anti-neoplastic plasma concentrations. (CYP3A inhibition)                                                                | further details. Concentrations of these medicinal products may be increased when co-administered with Symtuza resulting in the potential for increased adverse events usually associated with these medicinal products. Caution should be exercised when combining one of these anti-neoplastic agents with Symtuza.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Everolimus Irinotecan                       |                                                                                                                                                                                                     | Concomitant use of everolimus or irinotecan and Symtuza is not recommended.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ANTIMALARIALS                               | ANTIMALARIALS                                                                                                                                                                                       | ANTIMALARIALS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Artemether/Lumefantrine                     | Based on theoretical considerations DRV/COBI is expected to increase lumefantrine plasma concentrations. (CYP3A inhibition)                                                                         | Symtuza and artemether/lumefantrine can be used without dose adjustments; however, due to the increase in lumefantrine exposure, the combination should be used with caution.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ANTIMYCOBACTERIALS                          | ANTIMYCOBACTERIALS                                                                                                                                                                                  | ANTIMYCOBACTERIALS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Rifampicin                                  | Based on theoretical considerations rifampicin is expected to decrease darunavir and/or cobicistat and/or tenofovir alafenamide plasma concentrations. (CYP3A and/or P-gp induction)                | The combination of rifampicin and Symtuza is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Rifabutin Rifapentine                       | Based on theoretical considerations these antimycobacterials are expected to decrease darunavir and/or cobicistat and/or tenofovir alafenamide plasma concentrations. (CYP3A and/or P-gp induction) | Co-administration of Symtuza with rifabutin and rifapentine is not recommended. If the combination is needed, the recommended dose of rifabutin is 150 mg 3 times per week on set days (for example Monday-Wednesday-Friday). Increased monitoring for rifabutin associated adverse reactions including neutropenia and uveitis is warranted due to an expected increase in exposure to rifabutin. Further dose reduction of rifabutin has not been studied. It should be kept in mind that the twice weekly dose of 150 mg may not provide an optimal exposure to rifabutin thus leading to a risk of rifamycin resistance and a treatment failure. Consideration should be given to official guidance on the appropriate treatment of tuberculosis in HIV infected patients. This recommendation is different from ritonavir-boosted darunavir. Consult the Summary of Product |
+| ANTI-NEOPLASTICS                            | ANTI-NEOPLASTICS                                                                                                                                                                                    | ANTI-NEOPLASTICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Dasatinib Nilotinib Vinblastine Vincristine | Based on theoretical considerations DRV/COBI is expected to increase these anti-neoplastic plasma concentrations. (CYP3A inhibition)                                                                | Characteristics for darunavir for further details. Concentrations of these medicinal products may be increased when co-administered with Symtuza resulting in the potential for increased adverse events usually associated with these medicinal products. Caution should be exercised when combining one of these anti-neoplastic agents with Symtuza. Concomitant use of everolimus or                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Everolimus Irinotecan                       |                                                                                                                                                                                                     | irinotecan and Symtuza is not recommended.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                        | ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                                                                                                                                                     | ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                                                                                                                                                                                                                                                                                     |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Perphenazine Risperidone Thioridazine Lurasidone Pimozide Quetiapine Sertindole                                                                    | Based on theoretical considerations DRV/COBI is expected to increase these neuroleptic plasma concentrations. (CYP3A, CYP2D6 and/or P-gp inhibition)                                                                                                                            | Clinical monitoring is recommended when co-administering Symtuza with perphenazine, risperidone or thioridazine. For these neuroleptics, consider reducing the dose of the neuroleptic upon co-administration with Symtuza. The combination of lurasidone, pimozide, quetiapine or sertindole and Symtuza is contraindicated (see section 4.3).                                                                 |
-| β-BLOCKERS                                                                                                                                         |                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Carvedilol Metoprolol Timolol Amlodipine Diltiazem Felodipine Nicardipine Nifedipine                                                               | Based on theoretical considerations DRV/COBI is expected to increase these beta-blocker plasma concentrations. (CYP2D6 inhibition) Based on theoretical considerations DRV/COBI is expected to increase these calcium channel blocker plasma concentrations. (CYP3A inhibition) | Clinical monitoring is recommended when co-administering Symtuza with beta-blockers and a lower dose of the beta-blocker should be considered. Clinical monitoring is recommended when these medicinal products are co-administered with Symtuza.                                                                                                                                                               |
-| CALCIUM CHANNEL BLOCKERS                                                                                                                           | CALCIUM CHANNEL BLOCKERS                                                                                                                                                                                                                                                        | CALCIUM CHANNEL BLOCKERS                                                                                                                                                                                                                                                                                                                                                                                        |
-| Verapamil Corticosteroids primarily metabolised by CYP3A (including betamethasone, budesonide, fluticasone, mometasone, prednisone, triamcinolone) | Based on theoretical considerations DRV/COBI is expected to increase these corticosteroid plasma concentrations. (CYP3A inhibition)                                                                                                                                             | Concomitant use of Symtuza and corticosteroids (all routes of administration) that are metabolised by CYP3A may increase the risk for development of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression. Co-administration with CYP3A- metabolised corticosteroids is not recommended unless the potential benefit to the patient outweighs the risk, in which case patients |
-| CORTICOSTEROIDS                                                                                                                                    | CORTICOSTEROIDS                                                                                                                                                                                                                                                                 | CORTICOSTEROIDS                                                                                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                    |                                                                                                                                                                                                                                                                                 | should be monitored for systemic corticosteroid effects. Alternative corticosteroids which are less dependent on CYP3A metabolism e.g. beclomethasone should be considered, particularly for long-term use.                                                                                                                                                                                                     |
-| Dexamethasone (systemic)                                                                                                                           | Based on theoretical considerations (systemic) dexamethasone is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction)                                                                                                                       | Systemic dexamethasone should be used with caution when combined with Symtuza.                                                                                                                                                                                                                                                                                                                                  |
+| ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                              | ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                               | ANTIPSYCHOTICS/NEUROLEPTICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Perphenazine Risperidone Thioridazine Lurasidone Pimozide Quetiapine                                                                     | Based on theoretical considerations DRV/COBI is expected to increase these neuroleptic plasma concentrations. (CYP3A, CYP2D6 and/or P-gp inhibition)      | Clinical monitoring is recommended when co-administering Symtuza with perphenazine, risperidone or thioridazine. For these neuroleptics, consider reducing the dose of the neuroleptic upon co-administration with Symtuza. The combination of lurasidone, pimozide, quetiapine or sertindole and Symtuza is contraindicated                                                                                                                                                                                                                                                                                                |
+| Sertindole β-BLOCKERS                                                                                                                    |                                                                                                                                                           | (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Carvedilol Metoprolol Timolol                                                                                                            | Based on theoretical considerations DRV/COBI is expected to increase these beta-blocker plasma concentrations. (CYP2D6 inhibition)                        | Clinical monitoring is recommended when co-administering Symtuza with beta-blockers and a lower dose of the beta-blocker should be considered.                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| CALCIUM CHANNEL BLOCKERS                                                                                                                 | CALCIUM CHANNEL BLOCKERS                                                                                                                                  | CALCIUM CHANNEL BLOCKERS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Amlodipine Diltiazem Felodipine Nicardipine Nifedipine Verapamil                                                                         | Based on theoretical considerations DRV/COBI is expected to increase these calcium channel blocker plasma concentrations. (CYP3A inhibition)              | Clinical monitoring is recommended when these medicinal products are co-administered with Symtuza.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| CORTICOSTEROIDS                                                                                                                          | CORTICOSTEROIDS                                                                                                                                           | CORTICOSTEROIDS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Corticosteroids primarily metabolised by CYP3A (including betamethasone, budesonide, fluticasone, mometasone, prednisone, triamcinolone) | Based on theoretical considerations DRV/COBI is expected to increase these corticosteroid plasma concentrations. (CYP3A inhibition)                       | Concomitant use of Symtuza and corticosteroids (all routes of administration) that are metabolised by CYP3A may increase the risk for development of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression. Co-administration with CYP3A- metabolised corticosteroids is not recommended unless the potential benefit to the patient outweighs the risk, in which case patients should be monitored for systemic corticosteroid effects. Alternative corticosteroids which are less dependent on CYP3A metabolism e.g. beclomethasone should be considered, particularly for long-term use. |
+| Dexamethasone (systemic)                                                                                                                 | Based on theoretical considerations (systemic) dexamethasone is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction) | Systemic dexamethasone should be used with caution when combined with Symtuza.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
 | ENDOTHELIN RECEPTOR ANTAGONISTS                                                       | ENDOTHELIN RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                                                            | ENDOTHELIN RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Bosentan                                                                              | Based on theoretical considerations bosentan is expected to decrease darunavir and/or cobicistat plasma concentrations. (CYP3A induction) Symtuza is expected to increase bosentan plasma concentrations. (CYP3A inhibition)                                                                                                                                                                                               | Co-administration of Symtuza and bosentan is not recommended.                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ERGOT DERIVATIVES                                                                     | ERGOT DERIVATIVES                                                                                                                                                                                                                                                                                                                                                                                                          | ERGOT DERIVATIVES                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ERGOT DERIVATIVES                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | e.g. Dihydroergotamine Ergometrine Ergotamine Methylergonovine                        | Based on theoretical considerations DRV/COBI may increase ergot derivative exposure.                                                                                                                                                                                                                                                                                                                                       | Co-administration of Symtuza and ergot derivatives is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                 |
-| HEPATITIS C VIRUS (HCV) DIRECT-ACTING ANTIVIRALS                                      | HEPATITIS C VIRUS (HCV) DIRECT-ACTING ANTIVIRALS                                                                                                                                                                                                                                                                                                                                                                           | HEPATITIS C VIRUS (HCV) DIRECT-ACTING ANTIVIRALS                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| NS3-4A inhibitors                                                                     | NS3-4A inhibitors                                                                                                                                                                                                                                                                                                                                                                                                          | NS3-4A inhibitors                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| HEPATITIS C VIRUS (HCV) NS3-4A inhibitors                                             | DIRECT-ACTING ANTIVIRALS                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Elbasvir/grazoprevir                                                                  | Based on theoretical considerations Symtuza may increase the exposure to grazoprevir. (OATP1B and CYP3A inhibition)                                                                                                                                                                                                                                                                                                        | Concomitant use of Symtuza with elbasvir/grazoprevir is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                               |
 | Glecaprevir/pibrentasvir                                                              | Based on theoretical considerations DRV/COBI may increase the exposure to glecaprevir and pibrentasvir. (P-gp, BCRP and/or OATP1B1/3 inhibition)                                                                                                                                                                                                                                                                           | It is not recommended to co-administer Symtuza with glecaprevir/pibrentasvir.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Daclatasvir Ledipasvir Sofosbuvir                                                     | Based on theoretical considerations, no clinically relevant interaction is expected.                                                                                                                                                                                                                                                                                                                                       | Symtuza and sofosbuvir, sofosbuvir/ledipasvir, or daclatasvir can be used concomitantly without dose adjustment                                                                                                                                                                                                                                                                                                                                                                          |
-| Herbal products                                                                       | Herbal products                                                                                                                                                                                                                                                                                                                                                                                                            | Herbal products                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Herbal products                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | St. John's Wort ( Hypericum perforatum )                                              | Based on theoretical consideration, St. John's Wort may substantially decrease DRV/COBI (CYP3A4 induction) and TAF exposures. (P-gp induction)                                                                                                                                                                                                                                                                             | The concomitant use of Symtuza with these medicinal products is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                       |
-| HMGCO-A REDUCTASE INHIBITORS                                                          | HMGCO-A REDUCTASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                               | HMGCO-A REDUCTASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| HMGCO-A REDUCTASE INHIBITORS                                                          | HMGCO-A REDUCTASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Atorvastatin Fluvastatin Pitavastatin Pravastatin Rosuvastatin Lovastatin Simvastatin | Atorvastatin (10 mg once daily): atorvastatin AUC ↑ 290% atorvastatin C max ↑ 319% atorvastatin C min ND Rosuvastatin (10 mg once daily): rosuvastatin AUC ↑ 93% rosuvastatin C max ↑ 277% rosuvastatin C min ND Based on theoretical considerations DRV/COBI is expected to increase the plasma concentrations of fluvastatin, pitavastatin, pravastatin, lovastatin and simvastatin. (CYP3A inhibition and/or transport) | Concomitant use of a HMGCoA reductase inhibitor and Symtuza may increase plasma concentrations of the lipid lowering agent, which may lead to adverse reactions such as myopathy. When administration of HMGCoA reductase inhibitors and Symtuza is desired, it is recommended to start with the lowest dose and titrate up to the desired clinical effect while monitoring for safety. Concomitant use of Symtuza with lovastatin and simvastatin is contraindicated (see section 4.3). |
 
 <div style=\"page-break-after: always\"></div>
 
-| OTHER LIPID MODIFYING AGENTS                       | OTHER LIPID MODIFYING AGENTS                                                                                                                                                                                                                                                     | OTHER LIPID MODIFYING AGENTS                                                                                                                                                                                                |
-|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Lomitapide                                         | Based on theoretical considerations, Symtuza is expected to increase the exposure of lomitapide when co- administered. (CYP3A inhibition)                                                                                                                                        | Co-administration is contraindicated (see section 4.3).                                                                                                                                                                     |
-| H2 -RECEPTOR ANTAGONISTS                           | H2 -RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                         | H2 -RECEPTOR ANTAGONISTS                                                                                                                                                                                                    |
-| Cimetidine Famotidine Nizatidine Ranitidine        | Based on theoretical considerations, no mechanistic interaction is expected.                                                                                                                                                                                                     | Symtuza can be co-administered with H 2 -receptor antagonists without dose adjustments.                                                                                                                                     |
-| IMMUNOSUPPRESSANTS                                 | IMMUNOSUPPRESSANTS                                                                                                                                                                                                                                                               | IMMUNOSUPPRESSANTS                                                                                                                                                                                                          |
-| Ciclosporin Sirolimus Tacrolimus                   | Based on theoretical considerations DRV/COBI is expected to increase these immunosuppressant plasma concentrations. (CYP3A inhibition) Co-administration of ciclosporin is expected to increase plasma concentrations of tenofovir alafenamide.                                  | Concentration monitoring of the immunosuppressive agent must be done when co-administration with Symtuza occurs.                                                                                                            |
-| Everolimus                                         | (P-gp inhibition)                                                                                                                                                                                                                                                                | Concomitant use of everolimus and Symtuza is not recommended.                                                                                                                                                               |
-| INHALED BETA AGONISTS                              | INHALED BETA AGONISTS                                                                                                                                                                                                                                                            | INHALED BETA AGONISTS                                                                                                                                                                                                       |
-| Salmeterol                                         | Based on theoretical considerations DRV/COBI is expected to increase salmeterol plasma concentrations. (CYP3A inhibition)                                                                                                                                                        | Concomitant use of salmeterol and Symtuza is not recommended. The combination may result in increased risk of cardiovascular adverse events with salmeterol, including QT prolongation, palpitations and sinus tachycardia. |
-| NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE | NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE                                                                                                                                                                                                                               | NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE                                                                                                                                                                          |
-| Buprenorphine/naloxone                             | Based on theoretical considerations DRV/COBI may increase buprenorphine and/or norbuprenorphine plasma concentrations.                                                                                                                                                           | Dose adjustment for buprenorphine may not be necessary when co-administered with Symtuza, but a careful clinical monitoring for signs of opiate toxicity is recommended.                                                    |
-| Methadone                                          | Based on theoretical considerations DRV/COBI may increase methadone plasma concentrations. With ritonavir-boosted darunavir, a small decrease in methadone plasma concentrations was observed. Consult the Summary of Product Characteristics for darunavir for further details. | No adjustment of methadone dose is expected when initiating co-administration with Symtuza. Clinical monitoring is recommended, as maintenance therapy may need to be adjusted in some patients.                            |
-| Fentanyl Oxycodone Tramadol                        | Based on theoretical considerations DRV/COBI may increase plasma concentrations of these analgesics. (CYP2D6 and/or CYP3A inhibition)                                                                                                                                            | Clinical monitoring is recommended when co-administering Symtuza with these analgesics.                                                                                                                                     |
+| OTHER LIPID MODIFYING AGENTS                       | OTHER LIPID MODIFYING AGENTS                                                                                                                                                                                                                                                     | OTHER LIPID MODIFYING AGENTS                                                                                                                                                                                                             |
+|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lomitapide                                         | Based on theoretical considerations, Symtuza is expected to increase the exposure of lomitapide when co- administered. (CYP3A inhibition)                                                                                                                                        | Co-administration is contraindicated (see section 4.3).                                                                                                                                                                                  |
+| H2 -RECEPTOR ANTAGONISTS                           | H2 -RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                         | H2 -RECEPTOR ANTAGONISTS                                                                                                                                                                                                                 |
+| Cimetidine Famotidine Nizatidine Ranitidine        | Based on theoretical considerations, no mechanistic interaction is expected.                                                                                                                                                                                                     | Symtuza can be co-administered with H 2 -receptor antagonists without dose adjustments.                                                                                                                                                  |
+| IMMUNOSUPPRESSANTS                                 | IMMUNOSUPPRESSANTS                                                                                                                                                                                                                                                               | IMMUNOSUPPRESSANTS                                                                                                                                                                                                                       |
+| Ciclosporin Sirolimus Tacrolimus Everolimus        | Based on theoretical considerations DRV/COBI is expected to increase these immunosuppressant plasma concentrations. (CYP3A inhibition) Co-administration of ciclosporin is expected to increase plasma concentrations of tenofovir alafenamide. (P-gp inhibition)                | Concentration monitoring of the immunosuppressive agent must be done when co-administration with Symtuza occurs. Concomitant use of everolimus and Symtuza is not                                                                        |
+| INHALED BETA AGONISTS                              | INHALED BETA AGONISTS                                                                                                                                                                                                                                                            | INHALED BETA AGONISTS                                                                                                                                                                                                                    |
+| Salmeterol                                         | Based on theoretical considerations DRV/COBI is expected to increase salmeterol plasma concentrations. (CYP3A inhibition)                                                                                                                                                        | recommended. Concomitant use of salmeterol and Symtuza is not recommended. The combination may result in increased risk of cardiovascular adverse events with salmeterol, including QT prolongation, palpitations and sinus tachycardia. |
+| NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE | NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE                                                                                                                                                                                                                               | NARCOTIC ANALGESICS/TREATMENT OF OPIOID DEPENDENCE                                                                                                                                                                                       |
+| Buprenorphine/naloxone                             | Based on theoretical considerations DRV/COBI may increase buprenorphine and/or norbuprenorphine plasma concentrations.                                                                                                                                                           | Dose adjustment for buprenorphine may not be necessary when co-administered with Symtuza, but a careful clinical monitoring for signs of opiate toxicity is recommended.                                                                 |
+| Methadone                                          | Based on theoretical considerations DRV/COBI may increase methadone plasma concentrations. With ritonavir-boosted darunavir, a small decrease in methadone plasma concentrations was observed. Consult the Summary of Product Characteristics for darunavir for further details. | No adjustment of methadone dose is expected when initiating co-administration with Symtuza. Clinical monitoring is recommended, as maintenance therapy may need to be adjusted in some patients.                                         |
+| Fentanyl Oxycodone Tramadol                        | Based on theoretical considerations DRV/COBI may increase plasma concentrations of these analgesics. (CYP2D6 and/or CYP3A inhibition)                                                                                                                                            | Clinical monitoring is recommended when co-administering Symtuza with these analgesics.                                                                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| OESTROGEN-BASED CONTRACEPTIVES                                                                                                                                                                   | OESTROGEN-BASED CONTRACEPTIVES                                                                                                                                                                   | OESTROGEN-BASED CONTRACEPTIVES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Drospirenone Ethinylestradiol (3 mg/0.02 mg once daily)                                                                                                                                          | drospirenone AUC ↑ 58% drospirenone C max ↑ 15% drospirenone C min ND ethinylestradiol AUC  30% ethinylestradiol C max  14% ethinylestradiol C min ND                                          | Alternative or additional contraceptive measures are recommended when oestrogen based contraceptives are co-administered with Symtuza. Patients using oestrogens as hormone replacement therapy should be clinically monitored for signs of oestrogen deficiency. When Symtuza is co-administered with a drospirenone-containing product, clinical monitoring is                                                                                                                                                                                                                            |
-| Ethinylestradiol Norethindrone Based on theoretical considerations DRV/COBI may alter norethindrone plasma concentrations. recommended due to the potential for hyperkalaemia. OPIOID ANTAGONIST | Ethinylestradiol Norethindrone Based on theoretical considerations DRV/COBI may alter norethindrone plasma concentrations. recommended due to the potential for hyperkalaemia. OPIOID ANTAGONIST | Ethinylestradiol Norethindrone Based on theoretical considerations DRV/COBI may alter norethindrone plasma concentrations. recommended due to the potential for hyperkalaemia. OPIOID ANTAGONIST                                                                                                                                                                                                                                                                                                                                                                                            |
-| Naloxegol                                                                                                                                                                                        | Not studied.                                                                                                                                                                                     | Co-administration of Symtuza and naloxegol is contraindicated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                                                                                                                                     | PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                                                                                                                                     | PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| For the treatment of erectile dysfunction Sildenafil Tadalafil Vardenafil                                                                                                                        | Based on theoretical considerations DRV/COBI is expected to increase these PDE-5 inhibitor plasma concentrations. (CYP3A inhibition)                                                             | Concomitant use of PDE-5 inhibitors for the treatment of erectile dysfunction with Symtuza should be done with caution. If concomitant use of Symtuza with sildenafil, vardenafil or tadalafil is indicated, sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg in 72 hours or tadalafil at a single dose not exceeding 10 mg in 72 hours is recommended.                                                                                                                                                                        |
-| Avanafil                                                                                                                                                                                         |                                                                                                                                                                                                  | The combination of avanafil and Symtuza is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| For the treatment of pulmonary arterial hypertension Sildenafil Tadalafil                                                                                                                        | Based on theoretical considerations DRV/COBI is expected to increase these PDE-5 inhibitor plasma concentrations. (CYP3A inhibition)                                                             | A safe and effective dose of sildenafil for the treatment of pulmonary arterial hypertension co-administered with Symtuza has not been established. There is an increased potential for sildenafil-associated adverse events (including visual disturbances, hypotension, prolonged erection and syncope). Therefore, co-administration of Symtuza and sildenafil when used for the treatment of pulmonary arterial hypertension is contraindicated (see section 4.3). Co-administration of tadalafil for the treatment of pulmonary arterial hypertension with Symtuza is not recommended. |
+| OESTROGEN-BASED CONTRACEPTIVES                                                         | OESTROGEN-BASED CONTRACEPTIVES                                                                                                                                                                                                                      | OESTROGEN-BASED CONTRACEPTIVES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Drospirenone Ethinylestradiol (3 mg/0.02 mg once daily) Ethinylestradiol Norethindrone | drospirenone AUC ↑ 58% drospirenone C max ↑ 15% drospirenone C min ND ethinylestradiol AUC  30% ethinylestradiol C max  14% ethinylestradiol C min ND Based on theoretical considerations DRV/COBI may alter norethindrone plasma concentrations. | Alternative or additional contraceptive measures are recommended when oestrogen based contraceptives are co-administered with Symtuza. Patients using oestrogens as hormone replacement therapy should be clinically monitored for signs of oestrogen deficiency. When Symtuza is co-administered with a drospirenone-containing product, clinical monitoring is recommended due to the potential for hyperkalaemia.                                                                                                                                                                        |
+| OPIOID ANTAGONIST                                                                      | OPIOID ANTAGONIST                                                                                                                                                                                                                                   | OPIOID ANTAGONIST                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Naloxegol                                                                              | Not studied.                                                                                                                                                                                                                                        | Co-administration of Symtuza and naloxegol is contraindicated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                           | PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                                                                                                                                                                                        | PHOSPHODIESTERASE, TYPE 5 (PDE-5) INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| For the treatment of erectile dysfunction Sildenafil Tadalafil Vardenafil              | Based on theoretical considerations DRV/COBI is expected to increase these PDE-5 inhibitor plasma concentrations. (CYP3A inhibition)                                                                                                                | Concomitant use of PDE-5 inhibitors for the treatment of erectile dysfunction with Symtuza should be done with caution. If concomitant use of Symtuza with sildenafil, vardenafil or tadalafil is indicated, sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg in 72 hours or tadalafil at a single dose not exceeding 10 mg in 72 hours is recommended.                                                                                                                                                                        |
+| Avanafil                                                                               |                                                                                                                                                                                                                                                     | The combination of avanafil and Symtuza is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| For the treatment of pulmonary arterial hypertension Sildenafil Tadalafil              | Based on theoretical considerations DRV/COBI is expected to increase these PDE-5 inhibitor plasma concentrations. (CYP3A inhibition)                                                                                                                | A safe and effective dose of sildenafil for the treatment of pulmonary arterial hypertension co-administered with Symtuza has not been established. There is an increased potential for sildenafil-associated adverse events (including visual disturbances, hypotension, prolonged erection and syncope). Therefore, co-administration of Symtuza and sildenafil when used for the treatment of pulmonary arterial hypertension is contraindicated (see section 4.3). Co-administration of tadalafil for the treatment of pulmonary arterial hypertension with Symtuza is not recommended. |
 
 <div style=\"page-break-after: always\"></div>
 
-| PROTON PUMP INHIBITORS                                                              |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dexlansoprazole Esomeprazole Lansoprazole Omeprazole Pantoprazole Rabeprazole       | Based on theoretical considerations, no mechanistic interaction is expected.                                                           | Symtuza can be co-administered with proton pump inhibitors without dose adjustments.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| SEDATIVES/HYPNOTICS                                                                 |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Buspirone Clorazepate Diazepam Estazolam Flurazepam Midazolam (parenteral) Zolpidem | Based on theoretical considerations DRV/COBI is expected to increase these sedative/hypnotic plasma concentrations. (CYP3A inhibition) | recommended when co-administering Symtuza with these sedatives/hypnotics and a lower dose of the sedative/hypnotic should be considered. Caution should be used with co-administration of Symtuza and parenteral midazolam. If Symtuza is co-administered with parenteral midazolam, it should be done in an intensive care unit or similar setting, which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dose adjustment for midazolam should be considered, especially if more than a single dose of midazolam is administered. Co-administration of oral midazolam or triazolam and Symtuza is contraindicated (see |
-| Midazolam (oral) Triazolam                                                          |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                     |                                                                                                                                        | Clinical monitoring is                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|                                                                                     |                                                                                                                                        | section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| FOR                                                                                 |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                     | EJACULATION                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Dapoxetine                                                                          | Not studied.                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                     |                                                                                                                                        | Co-administration of Symtuza                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                     |                                                                                                                                        | with dapoxetine is contraindicated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|                                                                                     | Not studied.                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                     |                                                                                                                                        | Use with caution. Monitor for                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|                                                                                     |                                                                                                                                        | fesoterodine or solifenacin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| UROLOGICAL                                                                          |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                     |                                                                                                                                        | adverse reactions, dose reduction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Fesoterodine                                                                        |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                     |                                                                                                                                        | of fesoterodine or solifenacin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Solifenacin                                                                         |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                     |                                                                                                                                        | may                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| TREATMENT                                                                           |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                     |                                                                                                                                        | be necessary.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|                                                                                     | MEDICINAL PRODUCTS                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| PREMATURE                                                                           |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| PROTON PUMP INHIBITORS                                                              |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dexlansoprazole Esomeprazole Lansoprazole Omeprazole Pantoprazole Rabeprazole       | Based on theoretical considerations, no mechanistic interaction is expected.                                                           | Symtuza can be co-administered with proton pump inhibitors without dose adjustments.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| SEDATIVES/HYPNOTICS                                                                 |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Buspirone Clorazepate Diazepam Estazolam Flurazepam Midazolam (parenteral) Zolpidem | Based on theoretical considerations DRV/COBI is expected to increase these sedative/hypnotic plasma concentrations. (CYP3A inhibition) | Clinical monitoring is recommended when co-administering Symtuza with these sedatives/hypnotics and a lower dose of the sedative/hypnotic should be considered. Caution should be used with co-administration of Symtuza and parenteral midazolam. If Symtuza is co-administered with parenteral midazolam, it should be done in an intensive care unit or similar setting, which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dose adjustment for midazolam should be considered, especially if more than a single dose of midazolam is administered. Co-administration of oral midazolam or triazolam and Symtuza is contraindicated (see |
+| Midazolam (oral) Triazolam                                                          |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                     |                                                                                                                                        | section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| TREATMENT FOR                                                                       |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                     | EJACULATION                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                     | Not studied.                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Dapoxetine                                                                          |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                     |                                                                                                                                        | Co-administration of Symtuza                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                     |                                                                                                                                        | with dapoxetine is contraindicated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                                                                                     | PRODUCTS Not studied.                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                     |                                                                                                                                        | Use with caution. Monitor for                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                                                     |                                                                                                                                        | fesoterodine or solifenacin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| UROLOGICAL                                                                          |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                     |                                                                                                                                        | adverse reactions, dose                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Fesoterodine                                                                        |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                     |                                                                                                                                        | of fesoterodine or solifenacin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Solifenacin                                                                         |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                     |                                                                                                                                        | reduction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                                                                                     |                                                                                                                                        | necessary.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                     |                                                                                                                                        | may                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| MEDICINAL                                                                           |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                     |                                                                                                                                        | be                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| PREMATURE                                                                           |                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -435,11 +476,11 @@ Animal studies do not indicate direct or indirect harmful effects of darunavir o
 
 <div style=\"page-break-after: always\"></div>
 
-Treatment with darunavir/cobicistat (two of the components of Symtuza) during pregnancy results in low darunavir exposure (see section 5.2), which may be associated with an increased risk of treatment failure and an increased risk of HIV transmission to the child. Therefore, therapy with Symtuza should not be initiated during pregnancy, and women who become pregnant during therapy with Symtuza should be switched to an alternative regimen (see sections 4.2 and 4.4).
+Treatment with darunavir/cobicistat (two of the components of Symtuza) during pregnancy results in low darunavir exposure (see section 5.2), which may be associated with an increased risk of treatment failure and an increased risk of HIV transmission to the child. Therefore, therapy with Symtuza should not be initiated during pregnancy, and women who become pregnant during therapy with this FDC should be switched to an alternative regimen (see sections 4.2 and 4.4).
 
 ## Breast-feeding
 
-Emtricitabine is excreted in human milk. It is unknown whether darunavir, cobicistat, or tenofovir alafenamide are excreted in human milk. Studies in animals have demonstrated that darunavir, cobicistat and tenofovir are excreted in milk. Studies in rats have demonstrated that darunavir is excreted in milk and at high levels (1 000 mg/kg/day) resulted in toxicity of the offspring.
+Emtricitabine is excreted in human milk. Based on published data, tenofovir alafenamide is excreted in human milk at low levels. The relative infant dose (RID) is estimated to be below 0.1% of the maternal weight-adjusted dose. It is unknown whether darunavir or cobicistat are excreted in human milk. Studies in animals have demonstrated that darunavir and cobicistat are excreted in milk. Studies in rats have demonstrated that darunavir is excreted in milk and at high levels (1 000 mg/kg/day) resulted in toxicity of the offspring.
 
 Because of the potential for adverse reactions in breast-fed infants, women should be instructed not to breast-feed if they are receiving Symtuza.
 
@@ -465,39 +506,43 @@ The most frequent (&gt; 5%) adverse reactions reported in suppressed treatment-e
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are listed by system organ class (SOC) and frequency category in Table 2. Frequency categories are defined as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000) and not known (frequency cannot be estimated from the available data)
+Adverse reactions are listed by system organ class (SOC) and frequency category in Table 2. Frequency categories are defined as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000) and not known (frequency cannot be estimated from the available data).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2
-
-| MedDRA system organ class Frequency category                                     | Adverse reaction                                                                                                                                                                                                                                                                                                         |
-|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders                                             |                                                                                                                                                                                                                                                                                                                          |
-| common                                                                           | anaemia                                                                                                                                                                                                                                                                                                                  |
-| Immune system disorders                                                          |                                                                                                                                                                                                                                                                                                                          |
-| common                                                                           | (drug) hypersensitivity                                                                                                                                                                                                                                                                                                  |
-| uncommon                                                                         | immune reconstitution inflammatory syndrome                                                                                                                                                                                                                                                                              |
-| Metabolism and nutrition disorders                                               |                                                                                                                                                                                                                                                                                                                          |
-| common                                                                           | diabetes mellitus, anorexia, hypercholesterolaemia, low density lipoprotein increased, hypertriglyceridaemia, hyperlipidaemia, dyslipidaemia                                                                                                                                                                             |
-| uncommon Psychiatric disorders                                                   | hyperglycaemia                                                                                                                                                                                                                                                                                                           |
-| common                                                                           | abnormal dreams                                                                                                                                                                                                                                                                                                          |
-| Nervous system disorders                                                         |                                                                                                                                                                                                                                                                                                                          |
-| very common                                                                      | headache                                                                                                                                                                                                                                                                                                                 |
-| common Gastrointestinal disorders                                                | dizziness                                                                                                                                                                                                                                                                                                                |
-| very common common                                                               | diarrhoea vomiting, nausea, abdominal pain, abdominal distension, dyspepsia, flatulence                                                                                                                                                                                                                                  |
-| uncommon Hepatobiliary disorders                                                 | pancreatitis acute, pancreatic enzymes increased                                                                                                                                                                                                                                                                         |
-| common                                                                           | hepatic enzyme increased                                                                                                                                                                                                                                                                                                 |
-| uncommon Skin and subcutaneous tissue                                            | acute hepatitis a , cytolytic hepatitis a                                                                                                                                                                                                                                                                                |
-| very common common uncommon rare not known Musculoskeletal and connective common | rash (including macular, maculopapular, papular, erythematous, pruritic rash, generalised rash, and allergic dermatitis) pruritus, urticaria angioedema drug reaction with eosinophilia and systemic symptoms a , Stevens-Johnson syndrome a toxic epidermal necrolysis a , acute generalised exanthematous pustulosis a |
-| disorders                                                                        |                                                                                                                                                                                                                                                                                                                          |
-| uncommon                                                                         | arthralgia, myalgia osteonecrosis                                                                                                                                                                                                                                                                                        |
-| tissue disorders                                                                 |                                                                                                                                                                                                                                                                                                                          |
-| Renal and urinary                                                                |                                                                                                                                                                                                                                                                                                                          |
-| rare                                                                             | crystal nephropathy a§                                                                                                                                                                                                                                                                                                   |
-| disorders                                                                        |                                                                                                                                                                                                                                                                                                                          |
-| Reproductive system and breast disorders                                         |                                                                                                                                                                                                                                                                                                                          |
-| uncommon General disorders and administration site conditions common             | gynaecomastia a asthenia, fatigue                                                                                                                                                                                                                                                                                        |
+| Table 2 MedDRA system organ class                       | Adverse reaction                                                                                                                             |
+|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Frequency category Blood and lymphatic system disorders |                                                                                                                                              |
+| common                                                  | anaemia                                                                                                                                      |
+| Immune system disorders                                 |                                                                                                                                              |
+|                                                         | (drug) hypersensitivity                                                                                                                      |
+| common                                                  |                                                                                                                                              |
+|                                                         | diabetes mellitus, anorexia, hypercholesterolaemia, low density                                                                              |
+| uncommon Metabolism and nutrition disorders             | immune reconstitution inflammatory syndrome                                                                                                  |
+| common                                                  | lipoprotein increased, hypertriglyceridaemia, hyperlipidaemia, dyslipidaemia                                                                 |
+| uncommon Psychiatric disorders                          | hyperglycaemia                                                                                                                               |
+| common                                                  | abnormal dreams                                                                                                                              |
+| Nervous system disorders very                           | headache                                                                                                                                     |
+| common                                                  |                                                                                                                                              |
+| common Gastrointestinal disorders                       | dizziness                                                                                                                                    |
+| very common common                                      | diarrhoea vomiting, nausea, abdominal pain, abdominal distension, dyspepsia, flatulence                                                      |
+| uncommon Hepatobiliary disorders                        | pancreatitis acute, pancreatic enzymes increased                                                                                             |
+| common                                                  | hepatic enzyme increased                                                                                                                     |
+| uncommon                                                | acute hepatitis a , cytolytic hepatitis a                                                                                                    |
+| Skin and subcutaneous tissue disorders                  |                                                                                                                                              |
+| very common common                                      | rash (including macular, maculopapular, papular, erythematous, pruritic rash, generalised rash, and allergic dermatitis) pruritus, urticaria |
+|                                                         | symptoms a , Stevens-Johnson syndrome a toxic epidermal necrolysis a , acute                                                                 |
+| uncommon rare                                           | angioedema drug reaction with eosinophilia and systemic                                                                                      |
+| not known                                               | generalised exanthematous pustulosis a                                                                                                       |
+| Musculoskeletal and connective tissue disorders         |                                                                                                                                              |
+| common                                                  | arthralgia, myalgia                                                                                                                          |
+| uncommon Renal and urinary disorders                    | osteonecrosis                                                                                                                                |
+| rare                                                    | crystal nephropathy a§                                                                                                                       |
+| Reproductive system and breast                          |                                                                                                                                              |
+| uncommon                                                | gynaecomastia a                                                                                                                              |
+| disorders                                               |                                                                                                                                              |
+| General disorders and administration site               | conditions                                                                                                                                   |
+| common                                                  | asthenia, fatigue                                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -518,16 +563,18 @@ Rash is a common adverse reaction in patients treated with darunavir. Rash was m
 
 Weight and levels of blood lipids and glucose may increase during antiretroviral therapy (see section 4.4).
 
-In the Phase 3 trial of Symtuza in treatment-naïve patients, increases from baseline were observed in the fasting lipid parameters total cholesterol, direct low density lipoprotein (LDL) and high density lipoprotein (HDL) cholesterol, and triglycerides at Week 48 and 96 (see Table 3). The median increases from baseline were greater in the D/C/F/TAF group compared with the DRV/ cobicistat (COBI)+F/ tenofovir disoproxil fumarate (TDF) group at Week 48.
+In the Phase 3 trial of Symtuza in treatment-naïve patients, increases from baseline were observed in the fasting lipid parameters total cholesterol, direct low density lipoprotein (LDL) and high density lipoprotein (HDL) cholesterol, and triglycerides at Week 48 and 96 (see Table 3). The median increases from baseline were greater in the D/C/F/TAF group compared with the DRV/cobicistat (COBI)+F/tenofovir disoproxil fumarate (TDF) group at Week 48.
 
-Table 3
+| Table 3 - Lipid parameter   |   Table 3 - Baseline median |   Table 3 - Median increase from baseline at - Week 48 D/C/F/TAF |   Table 3 - Median increase from baseline at - Week 48 D/C + F/TDF |   Table 3 - Median increase from baseline at - Week 96* D/C/F/TAF |
+|-----------------------------|-----------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------|
+| Total cholesterol (mmol/L)  |                        4.22 |                                                             0.74 |                                                               0.27 |                                                              0.88 |
+| LDL cholesterol (mmol/L)    |                        2.49 |                                                             0.45 |                                                               0.13 |                                                              0.56 |
+| HDL cholesterol (mmol/L)    |                        1.08 |                                                             0.12 |                                                               0.04 |                                                              0.13 |
+| Triglycerides (mmol/L)      |                        1.09 |                                                             0.28 |                                                               0.16 |                                                              0.33 |
 
-| Lipid parameter            |   Baseline median |   Median increase from baseline at - Week 48 D/C/F/TAF |   Median increase from baseline at - Week 48 D/C + F/TDF |   Median increase from baseline at - Week 96* D/C/F/TAF |
-|----------------------------|-------------------|--------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------|
-| Total cholesterol (mmol/L) |              4.22 |                                                   0.74 |                                                     0.27 |                                                    0.88 |
-| LDL cholesterol (mmol/L)   |              2.49 |                                                   0.45 |                                                     0.13 |                                                    0.56 |
-| HDL cholesterol (mmol/L)   |              1.08 |                                                   0.12 |                                                     0.04 |                                                    0.13 |
-| Triglycerides (mmol/L)     |              1.09 |                                                   0.28 |                                                     0.16 |                                                    0.33 |
+*
+
+No comparator data available beyond Week 48
 
 ## Musculoskeletal abnormalities
 
@@ -551,11 +598,15 @@ There have been reports of increased spontaneous bleeding in haemophiliac patien
 
 Cobicistat increases serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function as assessed, for instance, by using Cystatin C (Cyst C) as filtration marker.
 
-In the Phase 3 trial of Symtuza in treatment-naïve patients, increases in serum creatinine and decreases in eGFRCG occurred at the first on-treatment assessment (Week 2) and remained stable through 96 weeks. At Week 48 changes from baseline were smaller with D/C/F/TAF than D/C+F/TDF. The median change in eGFRCG was -5.5 mL/min with D/C/F/TAF and -12.0 mL/min with D/C+F/TDF (p &lt; 0.001). Using Cyst C as filtration marker, the median changes in estimated glomerular filtration rate calculated using the CKD-EPI (eGFRCKD-EPI CystC) formula were respectively 4.0 mL/min/1.73 m 2 and 1.6 mL/min/1.73 m 2 (p &lt;0.001). At Week 96, the median change in eGFRCG was -5.2 mL/min with D/C/F/TAF. Using Cyst C as filtration marker, the median change in estimated glomerular filtration rate calculated using the CKD-EPI (eGFRCKD-EPI Cyst C ) formula (N = 22) was +4.4 mL/min/1.73 m 2 with D/C/F/TAF.
+In the Phase 3 trial of Symtuza in treatment-naïve patients, increases in serum creatinine and decreases in eGFRCG occurred at the first on-treatment assessment (Week 2) and remained stable through 96 weeks. At Week 48 changes from baseline were smaller with D/C/F/TAF than D/C+F/TDF. The median change in eGFRCG was -5.5 mL/min with D/C/F/TAF and -12.0 mL/min with D/C+F/TDF (p &lt; 0.001). Using Cyst C as filtration marker, the median changes in estimated glomerular filtration rate calculated using the CKD-EPI (eGFRCKD-EPI CystC) formula were respectively 4.0 mL/min/1.73 m 2 and 1.6 mL/min/1.73 m 2 (p &lt; 0.001). At Week 96, the median change in eGFRCG was -5.2 mL/min with D/C/F/TAF. Using Cyst C as filtration marker, the median change in estimated glomerular filtration rate calculated using the CKD-EPI (eGFRCKD-EPI Cyst C ) formula (N = 22) was +4.4 mL/min/1.73 m 2 with D/C/F/TAF.
 
 ## Paediatric population
 
-The safety of Symtuza in paediatric patients has not been investigated. However,the safety of components of Symtuza was evaluated through the clinical trial TMC114-C230 (N = 12) for darunavir with ritonavir and GS-US-292-0106 (N = 50) for a fixed dose combination containing elvitegravir, cobicistat, emtricitabine and tenofovir alafenamide. The data from these studies showed that the overall safety profile of components of Symtuza in paediatric patients aged 12 to &lt; 18 years and weighing at least 40 kg was similar to that observed in the adult population (see section 5.1).
+The safety of Symtuza (as an FDC formulation) has not been investigated in paediatric patients. However, the safety of its components was evaluated in adolescents aged 12 to less than 18 years and weighing at least 40 kg through the clinical study TMC114-C230 (N = 12) for darunavir with ritonavir and clinical study GS-US-292-0106 (N = 50) for an FDC containing elvitegravir, cobicistat, emtricitabine and tenofovir alafenamide.
+
+The safety of the components of Symtuza was also evaluated in a limited number of children aged 6 to &lt; 12 years, weighing at least 25 kg to &lt; 40 kg through the clinical study GS-US-216-0128 (N = 9, with 24 weeks follow-up) for cobicistat-boosted darunavir (DRV/COBI) with emtricitabine/tenofovir alafenamide (F/TAF). The data from these studies showed that the overall safety profile of the components of Symtuza in paediatric patients aged 6 to &lt; 18 years weighing at least 25 kg was consistent with that observed in the adult population (see section 5.1).
+
+Reductions in BMD of the spine and of the TBLH ≥ 4% have been reported in paediatric patients receiving other tenofovir alafenamide containing products for 48 weeks (see section 4.4).
 
 ## Other special populations
 
@@ -565,19 +616,17 @@ Limited information is available on the use of Symtuza components in patients co
 
 Among 1 968 treatment-experienced patients receiving darunavir co-administered with ritonavir 600/100 mg twice daily, 236 patients were co-infected with hepatitis B or C. Co-infected patients were more likely to have baseline and treatment emergent hepatic transaminase elevations than those without chronic viral hepatitis. The safety of emtricitabine and tenofovir alafenamide in combination with elvitegravir and cobicistat as a fixed-dose combination tablet was evaluated in approximately 70 HIV/HBV co-infected patients currently receiving treatment for HIV in an open-label clinical trial (GS-US-292-1249). Based on this limited experience, the safety profile of emtricitabine/tenofovir alafenamide in patients with HIV/HBV co-infection appears to be similar to that in patients with HIV-1 monoinfection (see section 4.4).
 
-## Reporting of suspected adverse reactions
+<div style=\"page-break-after: always\"></div>
+
+Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
-## Human experience of acute overdose with Symtuza is limited.
+Human experience of acute overdose with Symtuza is limited. If overdose occurs the patient must be monitored for evidence of toxicity (see section 4.8).
 
-If overdose occurs the patient must be monitored for evidence of toxicity (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
-
-There is no specific antidote for overdose with Symtuza. Treatment of overdose with Symtuza consists of general supportive measures, including monitoring of vital signs as well as observation of the clinical status of the patient.
+There is no specific antidote for overdose with Symtuza. Treatment of overdose consists of general supportive measures, including monitoring of vital signs as well as observation of the clinical status of the patient.
 
 Since darunavir and cobicistat are highly bound to plasma proteins, it is unlikely that they will be significantly removed by haemodialysis or peritoneal dialysis. Emtricitabine can be removed by haemodialysis, which removes approximately 30% of the emtricitabine dose over a 3 hour dialysis period starting within 1.5 hours of emtricitabine dosing. Tenofovir is efficiently removed by haemodialysis with an extraction coefficient of approximately 54%. It is not known whether emtricitabine or tenofovir can be removed by peritoneal dialysis.
 
@@ -597,6 +646,8 @@ Emtricitabine is a nucleoside reverse transcriptase inhibitor (NRTI) and nucleos
 
 Tenofovir alafenamide is a nucleotide reverse transcriptase inhibitor (NtRTI) and phosphonoamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analogue). Tenofovir alafenamide is permeable into cells and due to increased plasma stability and intracellular activation through hydrolysis by cathepsin A, tenofovir alafenamide is more efficient than tenofovir disoproxil in concentrating tenofovir in peripheral blood mononuclear cells (PBMC) (including lymphocytes and other HIV target cells) and macrophages. Intracellular tenofovir is subsequently phosphorylated to the pharmacologically active metabolite tenofovir diphosphate. Tenofovir diphosphate inhibits HIV replication through incorporation into viral DNA by the HIV RT, which results in DNA chain-termination.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Antiviral activity in vitro
 
 Darunavir, emtricitabine and tenofovir alafenamide demonstrated additive to synergistic antiviral effects in two-drug combination studies in cell culture.
@@ -604,8 +655,6 @@ Darunavir, emtricitabine and tenofovir alafenamide demonstrated additive to syne
 Darunavir exhibits activity against laboratory strains and clinical isolates of HIV-1 and laboratory strains of HIV-2 in acutely infected T-cell lines, human PBMCs and human monocytes/macrophages with median EC50 values ranging from 1.2 to 8.5 nM (0.7 to 5.0 ng/mL). Darunavir demonstrates antiviral activity in vitro against a broad panel of HIV-1 group M (A, B, C, D, E, F, G) and group O primary isolates with EC50 values ranging from &lt; 0.1 to 4.3 nM. These EC50 values are well below the 50% cellular toxicity concentration range of 87 µM to &gt; 100 µM.
 
 Cobicistat has no detectable antiviral activity against HIV-1 and does not antagonise the antiviral effect of darunavir, emtricitabine, or tenofovir.
-
-<div style=\"page-break-after: always\"></div>
 
 The antiviral activity of emtricitabine against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, the MAGI CCR5 cell line, and PBMCs. The EC50 values for emtricitabine were in the range of 0.0013 to 0.64 μM. Emtricitabine displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 0.007 to 0.075 μM) and showed strain specific activity against HIV-2 (EC50 values ranged from 0.007 to 1.5 μM).
 
@@ -623,19 +672,22 @@ HIV-1 isolates with reduced susceptibility to tenofovir alafenamide express a K6
 
 Emerging resistance in HIV-1 infected, treatment-naïve and virologically suppressed patients Over 96 weeks of treatment in the Phase 3 studies TMC114FD2HTX3001 (AMBER) in treatmentnaïve patients and TMC114IFD3013 (EMERALD) in virologically suppressed treatment-experienced patients, resistance testing was performed on samples from patients experiencing protocol-defined virologic failure (PDVF) and who had HIV-1 RNA ≥400 copies/mL at failure or at later time points. Emerging resistance in the Symtuza groups is shown in Table 4. No DRV, primary PI, or TDF/TAF resistance-associated mutations were observed.
 
-## Table 4: Emerging resistance in AMBER and EMERALD trial (Week 96)
+<div style=\"page-break-after: always\"></div>
 
-| Study            | Treatment group   | Subjects, n   | Subjects with PDVF, - n (%)   | Subjects with PDVF for n (%) - evaluated resistance,   |   Subjects with ≥1 emergent RAM, n (%) - Protease Primary PI/DRV |   Subjects with ≥1 emergent RAM, n (%) - Reverse transcriptase - TDF/ TAF | Subjects with ≥1 emergent RAM, n (%) - Reverse transcriptase - FTC   |
-|------------------|-------------------|---------------|-------------------------------|--------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------|
-| TMC114FD2HTX3001 | Symtuza           | 362           | 15 (4.1)                      | 9 (2.5)                                                |                                                                0 |                                                                         0 | 1 (M184I/V) a                                                        |
-| TMC114IFD3013    | Symtuza           | 763           | 24 (3.1)                      | 4 (0.5)                                                |                                                                0 |                                                                         0 | 0                                                                    |
-| Total Phase 3    | Symtuza           | 1 125         | 39 (3.5)                      | 13 (1.2)                                               |                                                                0 |                                                                         0 | 1 (0.1)                                                              |
+| Table 4:         | Emerging resistance in AMBER and EMERALD trial (Week 96) - Treatment   | Emerging resistance in AMBER and EMERALD trial (Week 96)   | Emerging resistance in AMBER and EMERALD trial (Week 96) - Subjects with   | Emerging resistance in AMBER and EMERALD trial (Week 96) - Subjects with PDVF evaluated for resistance, n (%)   | Emerging resistance in AMBER and EMERALD trial (Week 96) - Subjects with ≥1 emergent RAM, n (%) - Protease   | Emerging resistance in AMBER and EMERALD trial (Week 96) - Subjects with ≥1 emergent RAM, n (%) - Reverse transcriptase   | Emerging resistance in AMBER and EMERALD trial (Week 96) - Subjects with ≥1 emergent RAM, n (%) - Reverse transcriptase   |
+|------------------|------------------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Study            | group                                                                  | Subjects, n                                                | PDVF, n (%)                                                                |                                                                                                                 | Primary PI/DRV                                                                                               | TDF/ TAF                                                                                                                  | FTC                                                                                                                       |
+| TMC114FD2HTX3001 | Symtuza                                                                | 362                                                        | 15 (4.1)                                                                   | 9 (2.5)                                                                                                         | 0                                                                                                            | 0                                                                                                                         | 1 (M184I/V) a                                                                                                             |
+| TMC114IFD3013    | Symtuza                                                                | 763                                                        | 24 (3.1)                                                                   | 4 (0.5)                                                                                                         | 0                                                                                                            | 0                                                                                                                         | 0                                                                                                                         |
+| Total Phase 3    | Symtuza                                                                | 1 125                                                      | 39 (3.5)                                                                   | 13 (1.2)                                                                                                        | 0                                                                                                            | 0                                                                                                                         | 1 (0.1)                                                                                                                   |
 
 a At Week 36 M184M/I/V observed, conferring resistance to FTC. This subject harbored a K103N mutation at screening, indicating transmitted NNRTI resistance.
 
-DRV = darunavir; FTC = emtricitabine; PDVF = protocol-defined virologic failure; PI = protease inhibitor; RAM = resistanceassociated mutation; TDF = tenofovir disoproxil fumarate; TAF = tenofovir alafenamide Cross-resistance in HIV-1 infected, treatment-naïve and virologically suppressed patients The emtricitabine-resistant virus with the M184M/I/V mutation was cross-resistant to lamivudine, but retained sensitivity to abacavir, stavudine, tenofovir, and zidovudine.
+DRV = darunavir; FTC = emtricitabine; PDVF = protocol-defined virologic failure; PI = protease inhibitor; RAM = resistanceassociated mutation; TDF = tenofovir disoproxil fumarate; TAF = tenofovir alafenamide
 
-<div style=\"page-break-after: always\"></div>
+## Cross-resistance in HIV-1 infected, treatment-naïve and virologically suppressed patients
+
+The emtricitabine-resistant virus with the M184M/I/V mutation was cross-resistant to lamivudine, but retained sensitivity to abacavir, stavudine, tenofovir, and zidovudine.
 
 ## Clinical data
 
@@ -645,42 +697,43 @@ In double-blind Phase 3 Trial TMC114FD2HTX3001 (AMBER), treatment-naïve patient
 
 The 725 patients in total had a median age of 34 years (range 18-71), 88.3% were male, 83.2% White, 11.1% Black, 1.5% Asian. The mean baseline plasma HIV-1 RNA and the median baseline CD4+ cell count were 4.48 log10 copies/mL (SD = 0.61) and 453 x 10 6 cells/L (range 38 - 1 456 x 10 6 cells/L), respectively.
 
-|                                                                                          |                                                                       |                                                                       |                                                                       |
-|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Table 5: Virologic outcomes in AMBER at Week 48 and 96 (FDA Snapshot)                    | Table 5: Virologic outcomes in AMBER at Week 48 and 96 (FDA Snapshot) | Table 5: Virologic outcomes in AMBER at Week 48 and 96 (FDA Snapshot) | Table 5: Virologic outcomes in AMBER at Week 48 and 96 (FDA Snapshot) |
-|                                                                                          | Week 48                                                               | Week 48                                                               | Week 96*                                                              |
-|                                                                                          | Symtuza N = 362                                                       | DRV/COBI +F/TDF N = 363                                               | Symtuza N = 362                                                       |
-| Virologic response, %                                                                    |                                                                       |                                                                       |                                                                       |
-| HIV-1 RNA < 50 copies/mL                                                                 | 91.4%                                                                 | 88.4%                                                                 | 85.1%                                                                 |
-| Treatment difference a                                                                   | 2.7 (95% CI: -1.6; 7.1)                                               | 2.7 (95% CI: -1.6; 7.1)                                               | -                                                                     |
-| Virologic failure b                                                                      | 4.4%                                                                  | 3.3%                                                                  | 5.5%                                                                  |
-| HIV-1 RNA ≥ 50 copies/mL                                                                 | 2.5%                                                                  | 2.5%                                                                  | 1.7%                                                                  |
-| Virologic failure leading to discontinuation                                             | 0.3%                                                                  | 0                                                                     | 1.4% d                                                                |
-| Discontinued study drug due to other reasons and last available HIV-1 RNA ≥ 50 copies/mL | 1.7%                                                                  | 0.8%                                                                  | 2.5%                                                                  |
-| No virologic data c                                                                      | 4.1%                                                                  | 8.3%                                                                  | 9.4%                                                                  |
-| Reasons                                                                                  |                                                                       |                                                                       |                                                                       |
-| Discontinued trial due to adverse event or death                                         | 2.2%                                                                  | 4.4%                                                                  | 2.2%                                                                  |
-| Discontinued study drug due to other reasons and last available HIV-1 RNA < 50 copies/mL | 1.1%                                                                  | 2.5%                                                                  | 5.8%                                                                  |
-| Missing data during window but on trial                                                  | 0.8%                                                                  | 1.4%                                                                  | 1.4%                                                                  |
-| Virologic response (HIV-1-RNA < 50 copies/mL; Snapshot analysis) by subgroup, n/N (%)    |                                                                       |                                                                       |                                                                       |
-| Age < 50 years ≥ 50 years                                                                | 299/326 (91.7%) 32/36 (88.9%)                                         | 293/331 (88.5%) 28/32 (87.5%)                                         | 276/326 (84.7%) 32/36 (88.9%)                                         |
-| Sex                                                                                      |                                                                       |                                                                       |                                                                       |
-| Male Female                                                                              | 292/318 (91.8%) 39/44 (88.6%)                                         | 289/322 (89.8%) 32/41 (78.0%)                                         | 270/318 (84.9%) 38/44 (86.4%)                                         |
-| Race                                                                                     |                                                                       |                                                                       |                                                                       |
-| Black Non-black                                                                          | 34/40 (85.0%) 281/305 (92.1%)                                         | 34/40 (85.0%) 275/309 (89.0%)                                         | 28/40 (70.0%) 266/305 (87.2%)                                         |
-| Baseline viral load                                                                      |                                                                       |                                                                       |                                                                       |
-| ≤ 100 000 copies/mL > 100 000 copies/mL                                                  | 278/303 (91.7%) 53/59 (89.8%)                                         | 265/293 (90.4%) 56/70 (80.0%)                                         | 260/303 (85.8%) 48/59 (81.4%)                                         |
-| Baseline CD4+ cell count                                                                 |                                                                       |                                                                       |                                                                       |
-| < 200 cells/mm 3                                                                         | 16/22 (72.7%)                                                         | 25/29 (86.2%)                                                         | 16/22 (72.7%)                                                         |
-| ≥ 200 cells/mm 3 CD4+ cell count mean change from baseline                               | 315/340 (92.6%) 188.7                                                 | 296/334 (88.6%) 173.8                                                 | 292/340 (85.9%) 228.8                                                 |
+| Table 5: Virologic outcomes in AMBER at Week 48                                          | and 96 (FDA Snapshot) - Week 48 - Symtuza N = 362   | and 96 (FDA Snapshot) - Week 48 - DRV/COBI +F/TDF N = 363   | and 96 (FDA Snapshot) - Week 96* - Symtuza N = 362   |
+|------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------|
+| Virologic response, %                                                                    |                                                     |                                                             |                                                      |
+| HIV-1 RNA < 50 copies/mL                                                                 | 91.4%                                               | 88.4%                                                       | 85.1%                                                |
+| Treatment difference a                                                                   | 2.7 (95% CI: -1.6; 7.1)                             | 2.7 (95% CI: -1.6; 7.1)                                     | -                                                    |
+| Virologic failure b                                                                      | 4.4%                                                | 3.3%                                                        | 5.5%                                                 |
+| HIV-1 RNA ≥ 50 copies/mL                                                                 | 2.5%                                                | 2.5%                                                        | 1.7%                                                 |
+| Virologic failure leading to discontinuation                                             | 0.3%                                                | 0                                                           | 1.4% d                                               |
+| Discontinued study drug due to other reasons and last available HIV-1 RNA ≥ 50 copies/mL | 1.7%                                                | 0.8%                                                        | 2.5%                                                 |
+| No virologic data c                                                                      | 4.1%                                                | 8.3%                                                        | 9.4%                                                 |
+| Reasons                                                                                  |                                                     |                                                             |                                                      |
+| Discontinued trial due to adverse event or death                                         | 2.2%                                                | 4.4%                                                        | 2.2%                                                 |
+| Discontinued study drug due to other reasons and last available HIV-1 RNA < 50 copies/mL | 1.1%                                                | 2.5%                                                        | 5.8%                                                 |
+| Missing data during window but on trial                                                  | 0.8%                                                | 1.4%                                                        | 1.4%                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
+| Virologic response (HIV-1-RNA < 50 copies/mL; Snapshot analysis) by subgroup, n/N (%)   |                               |                               |                               |
+|-----------------------------------------------------------------------------------------|-------------------------------|-------------------------------|-------------------------------|
+| Age                                                                                     |                               |                               |                               |
+| < 50 years ≥ 50 years                                                                   | 299/326 (91.7%) 32/36 (88.9%) | 293/331 (88.5%) 28/32 (87.5%) | 276/326 (84.7%) 32/36 (88.9%) |
+| Sex                                                                                     |                               |                               |                               |
+| Male Female                                                                             | 292/318 (91.8%) 39/44 (88.6%) | 289/322 (89.8%) 32/41 (78.0%) | 270/318 (84.9%) 38/44 (86.4%) |
+| Race                                                                                    |                               |                               |                               |
+| Black Non-black                                                                         | 34/40 (85.0%) 281/305 (92.1%) | 34/40 (85.0%) 275/309 (89.0%) | 28/40 (70.0%) 266/305 (87.2%) |
+| Baseline viral load                                                                     |                               |                               |                               |
+| ≤ 100 000 copies/mL > 100 000 copies/mL                                                 | 278/303 (91.7%) 53/59 (89.8%) | 265/293 (90.4%) 56/70 (80.0%) | 260/303 (85.8%) 48/59 (81.4%) |
+| Baseline CD4+ cell count                                                                |                               |                               |                               |
+| < 200 cells/mm 3 ≥ 200 cells/mm 3                                                       | 16/22 (72.7%) 315/340         | 25/29 (86.2%) 296/334 (88.6%) | 16/22 (72.7%) 292/340 (85.9%) |
+| CD4+ cell count mean change from                                                        | 188.7                         |                               |                               |
+| baseline                                                                                | (92.6%)                       | 173.8                         | 228.8                         |
+
 - a Based on stratum adjusted MH test where stratification factors are HIV-1 RNA level (≤ 100 000 or &gt; 100 000 copies/mL) and CD4+ cell count (&lt; 200 or ≥ 200 cells/µL).
 - b Included subjects who had HIV-1 RNA ≥ 50 copies/mL in the Week 48/96 window; subjects who discontinued early due to lack or loss of efficacy per investigator's assessment; subjects who discontinued for reasons other than an adverse event (AE), death or lack or loss of efficacy and at the time of discontinuation had a HIV-1 RNA ≥ 50 copies/mL.
-- c Week 48 window: Day 295 - Day 378; Week 96 window: Day 631 - Day 714
-- d Five subjects were discontinued from the study due to efficacy related reasons per investigator's assessment (physician decision), of which 3 had last on treatment HIV-1 RNA &lt;50 copies/mL.
-* No comparator data available beyond Week 48
+- c Week 48 window: Day 295 - Day 378; Week 96 window: Day 631 - Day 714.
+- d Five subjects were discontinued from the study due to efficacy related reasons per investigator's assessment (physician decision), of which 3 had last on treatment HIV-1 RNA &lt; 50 copies/mL.
+* No comparator data available beyond Week 48.
 
 ## Changes in measures of bone mineral density
 
@@ -692,88 +745,110 @@ In studies in treatment-naïve patients, Symtuza was associated with a lower imp
 
 ## HIV-1 Treatment-experienced patients
 
-Phase 3 trial TMC114IFD3013 (EMERALD) evaluated the efficacy of Symtuza in virologicallysuppressed (HIV-1 RNA less than 50 copies/mL) HIV-1 infected patients. Patients were virologically suppressed for at least 2 months and no more than once had a viral load elevation above 50 HIV-1 RNA copies/mL during the year prior to enrollment. Patients were allowed in the study if they had previous failure on any non-darunavir ARV regimen. Patients had no history of virologic failure on darunavir-based regimens, and if historical genotypes were available, absence of darunavir RAMs. Patients were on a stable ARV regimen (for at least 6 months), consisting of a boosted protease inhibitor [either darunavir once daily or atazanavir (both boosted with ritonavir or cobicistat), or lopinavir with ritonavir] combined with emtricitabine and TDF. They either switched to Symtuza (N = 763) or continued their treatment regimen (N = 378) (randomised 2:1).
-
-Patients had a median age of 46 years (range 19-78), 82% were male, 75.5% White, 20.9% Black, and 2.3% Asian. The median baseline CD4+ cell count was 628 x 10 6 cells/mm 3 (range 111-1 921 x 10 6 cells/mm 3 ). Week 48 and 96 virologic outcomes in the EMERALD trial are provided in Table 6.
-
-| Table 6:                                                                                         | Week 48 and 96 virologic outcomes in EMERALD trial - Week 48 - Symtuza N = 763   | Week 48 and 96 virologic outcomes in EMERALD trial - Week 48 - bPI+F/TDF N = 378   | Week 48 and 96 virologic outcomes in EMERALD trial - Week 96* - Symtuza N = 763   |
-|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Cumulative protocol-defined virologic rebound a , %                                              |                                                                                  |                                                                                    |                                                                                   |
-| Protocol defined rebound rate                                                                    | 2.5%                                                                             | 2.1%                                                                               | 3.1%                                                                              |
-| (95% CI) b                                                                                       | (1.5; 3.9)                                                                       | (0.9; 4.1)                                                                         | (2.0; 4.6)                                                                        |
-| Difference in proportions                                                                        | 0.4 (95% CI: -1.5; 2.2)                                                          | 0.4 (95% CI: -1.5; 2.2)                                                            | -                                                                                 |
-| FDA snapshot outcome                                                                             |                                                                                  |                                                                                    |                                                                                   |
-| HIV-1 RNA < 50 copies/mL                                                                         | 94.9%                                                                            | 93.7%                                                                              | 90.7%                                                                             |
-| Virologic failure c                                                                              | 0.8%                                                                             | 0.5%                                                                               | 1.2%                                                                              |
-| Treatment difference d                                                                           | 0.3 (95% CI: -0.7; 1.2)                                                          | 0.3 (95% CI: -0.7; 1.2)                                                            | -                                                                                 |
-| HIV-1 RNA ≥ 50 copies/mL                                                                         | 0.5%                                                                             | 0.5%                                                                               | 0.7% f                                                                            |
-| Virologic failure - leading to discontinuation                                                   | 0                                                                                | 0                                                                                  | 0                                                                                 |
-| Virologic failure - discontinued due to other reason and last available HIV-1 RNA ≥ 50 copies/mL | 0.3%                                                                             | 0                                                                                  | 0.5%                                                                              |
-| No virologic data e                                                                              | 4.3%                                                                             | 5.8%                                                                               | 8.1%                                                                              |
-| Reasons                                                                                          |                                                                                  |                                                                                    |                                                                                   |
+Phase 3 trial TMC114IFD3013 (EMERALD) evaluated the efficacy of Symtuza in virologicallysuppressed (HIV-1 RNA less than 50 copies/mL) HIV-1 infected patients. Patients were virologically suppressed for at least 2 months and no more than once had a viral load elevation above 50 HIV-1 RNA copies/mL during the year prior to enrolment. Patients were allowed in the study if they had previous failure on any non-darunavir ARV regimen. Patients had no history of virologic failure on darunavir-based regimens, and if historical genotypes were available, absence of darunavir RAMs. Patients were on a stable ARV regimen (for at least 6 months), consisting of a boosted protease inhibitor [either darunavir once daily or atazanavir (both boosted with ritonavir or cobicistat), or lopinavir with ritonavir] combined with emtricitabine and TDF. They either switched to Symtuza (N = 763) or continued their treatment regimen (N = 378) (randomised 2:1).
 
 <div style=\"page-break-after: always\"></div>
 
-| Discontinued trial due to adverse event or death             | 1.4%                                                         | 1.1%                                                         | 2.4%                                                         |
-|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-| Discontinued trial for other reasons                         | 2.5%                                                         | 4.2%                                                         | 5.0%                                                         |
-| Missing data during window but on trial                      | 0.4%                                                         | 0.5%                                                         | 0.8%                                                         |
-| Cumulative protocol-defined virologic rebound by subgroup, % | Cumulative protocol-defined virologic rebound by subgroup, % | Cumulative protocol-defined virologic rebound by subgroup, % | Cumulative protocol-defined virologic rebound by subgroup, % |
-| Age                                                          |                                                              |                                                              |                                                              |
-| < 50 years                                                   | 13/507 (2.6%)                                                | 7/252 (2.8%)                                                 | 18/507 (3.6%)                                                |
-| ≥ 50 years                                                   | 6/256 (2.3%)                                                 | 1/126 (0.8%)                                                 | 6/256 (2.3%)                                                 |
-| Sex                                                          |                                                              |                                                              |                                                              |
-| Male                                                         | 14/623 (2.2%)                                                | 7/313 (2.2%)                                                 | 20/623 (3.2%)                                                |
-| Female                                                       | 5/140 (3.6%)                                                 | 1/65 (1.5%)                                                  | 4/140 (2.9%)                                                 |
-| Race                                                         |                                                              |                                                              |                                                              |
-| Black                                                        | 6/155 (3.9%)                                                 | 1/82 (1.2%)                                                  | 7/155 (4.5%)                                                 |
-| Non-black                                                    | 13/597 (2.2%)                                                | 7/293 (2.4%)                                                 | 17/597 (2.8%)                                                |
-| Previous ARV failure                                         |                                                              |                                                              |                                                              |
-| 0                                                            | 16/647 (2.5%)                                                | 8/325 (2.5%)                                                 | 19/647 (2.9%)                                                |
-| ≥ 1                                                          | 3/116 (2.6%)                                                 | 0/53 (0%)                                                    | 5/116 (4.3%)                                                 |
+Patients had a median age of 46 years (range 19-78), 82% were male, 75.5% White, 20.9% Black, and 2.3% Asian. The median baseline CD4+ cell count was 628 x 10 6 cells/mm 3 (range
 
-- a 2 consecutive HIV-1 RNA ≥ 50 copies/mL, or in case of discontinuation or at Week 48/96 for any reason, (single) HIV-1 RNA ≥ 50 copies/mL as of baseline (included)
-- b Two-sided Exact Clopper-Pearson 95% CI
+111-1 921 x 10 6 cells/mm 3 ). Week 48 and 96 virologic outcomes in the EMERALD trial are provided in Table 6.
+
+|                                                                                                  |                                                              |                                                              |                                                              |
+|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| Table 6: Week 48 and 96 virologic outcomes in                                                    | EMERALD trial Week                                           | 48                                                           | Week 96*                                                     |
+|                                                                                                  | Symtuza N = 763                                              | bPI+F/TDF N = 378                                            | Symtuza N = 763                                              |
+| Cumulative protocol-defined virologic rebound a , %                                              | Cumulative protocol-defined virologic rebound a , %          | Cumulative protocol-defined virologic rebound a , %          | Cumulative protocol-defined virologic rebound a , %          |
+| Protocol defined rebound rate                                                                    | 2.5%                                                         | 2.1%                                                         | 3.1%                                                         |
+| (95% CI) b                                                                                       | (1.5; 3.9)                                                   | (0.9; 4.1)                                                   | (2.0; 4.6)                                                   |
+| Difference in proportions                                                                        | 0.4 (95% CI: -1.5; 2.2)                                      | 0.4 (95% CI: -1.5; 2.2)                                      | -                                                            |
+| FDA snapshot outcome                                                                             | FDA snapshot outcome                                         | FDA snapshot outcome                                         | FDA snapshot outcome                                         |
+| HIV-1 RNA < 50 copies/mL                                                                         | 94.9%                                                        | 93.7%                                                        | 90.7%                                                        |
+| Virologic failure c                                                                              | 0.8%                                                         | 0.5%                                                         | 1.2%                                                         |
+| Treatment difference d                                                                           | 0.3 (95% CI: -0.7; 1.2)                                      | 0.3 (95% CI: -0.7; 1.2)                                      | -                                                            |
+| HIV-1 RNA ≥ 50 copies/mL                                                                         | 0.5%                                                         | 0.5%                                                         | 0.7% f                                                       |
+| Virologic failure - leading to discontinuation                                                   | 0                                                            | 0                                                            | 0                                                            |
+| Virologic failure - discontinued due to other reason and last available HIV-1 RNA ≥ 50 copies/mL | 0.3%                                                         | 0                                                            | 0.5%                                                         |
+| No virologic data e                                                                              | 4.3%                                                         | 5.8%                                                         | 8.1%                                                         |
+| Reasons                                                                                          | Reasons                                                      | Reasons                                                      | Reasons                                                      |
+| Discontinued trial due to adverse event or death                                                 | 1.4%                                                         | 1.1%                                                         | 2.4%                                                         |
+| Discontinued trial for other reasons                                                             | 2.5%                                                         | 4.2%                                                         | 5.0%                                                         |
+| Missing data during window but on trial                                                          | 0.4%                                                         | 0.5%                                                         | 0.8%                                                         |
+| Cumulative protocol-defined virologic rebound by subgroup, %                                     | Cumulative protocol-defined virologic rebound by subgroup, % | Cumulative protocol-defined virologic rebound by subgroup, % | Cumulative protocol-defined virologic rebound by subgroup, % |
+| Age < 50 years                                                                                   | 13/507 (2.6%)                                                | 7/252 (2.8%) 1/126 (0.8%)                                    | 18/507 (3.6%) 6/256 (2.3%)                                   |
+| ≥ 50 years                                                                                       | 6/256 (2.3%)                                                 |                                                              |                                                              |
+| Sex                                                                                              | Sex                                                          | Sex                                                          | Sex                                                          |
+| Male                                                                                             | 14/623 (2.2%)                                                | 7/313 (2.2%)                                                 | 20/623 (3.2%)                                                |
+| Female                                                                                           | 5/140 (3.6%)                                                 | 1/65 (1.5%)                                                  | 4/140 (2.9%)                                                 |
+| Race Black Non-black                                                                             | 6/155 (3.9%) 13/597 (2.2%)                                   | 1/82 (1.2%) 7/293 (2.4%)                                     | 7/155 (4.5%) 17/597 (2.8%)                                   |
+| Previous ARV failure 0                                                                           | 16/647 (2.5%)                                                | 8/325 (2.5%)                                                 | 19/647 (2.9%)                                                |
+| ≥ 1                                                                                              | 3/116 (2.6%)                                                 | 0/53 (0%)                                                    | 5/116 (4.3%)                                                 |
+
+a 2 consecutive HIV-1 RNA ≥ 50 copies/mL, or in case of discontinuation or at Week 48/96 for any reason, (single) HIV-1 RNA ≥ 50 copies/mL as of baseline (included).
+
+b Two-sided Exact Clopper-Pearson 95% CI.
+
 - c Included subjects who had ≥ 50 copies/mL in the Week 48/96 window; subjects who discontinued early due to lack or loss of efficacy per investigator's assessment; subjects who discontinued for reasons other than an adverse event (AE), death or lack or loss of efficacy and at the time of discontinuation had a viral value ≥ 50 copies/mL.
-- d Based on MH test adjusting for bPI at screening (ATV with rtv or COBI, DRV with rtv or COBI, LPV with rtv)
-- e Week 48 window: Day 295 - Day 378; Week 96 window: Day 631 - Day 714
-- f The following viral load values were observed for these subjects at Week 96: 54 copies/mL, 78 copies/mL, 111 copies/mL, 152 copies/mL, and 210 copies/mL.
+- d Based on MH test adjusting for bPI at screening (ATV with rtv or COBI, DRV with rtv or COBI, LPV with rtv).
+- e Week 48 window: Day 295 - Day 378; Week 96 window: Day 631 - Day 714.
+
+f
+
+The following viral load values were observed for these subjects at Week 96: 54 copies/mL, 78 copies/mL,
+
+111 copies/mL, 152 copies/mL, and 210 copies/mL.
+
 * No comparator data available beyond Week 48.
 
 ## Paediatric population
 
-The use of Symtuza in ART-naïve adolescent patients from the age of 12 years to &lt; 18 years, and weighing at least 40 kg is supported by two trials in HIV-1 infected paediatric patients (TMC114-C230 and GS-US-292-0106). For more details, refer to the prescribing information of darunavir and emtricitabine/ tenofovir alafenamide.
+## Patients aged 12 years to &lt; 18 years weighing at least 40 kg
+
+The use of Symtuza in ART-naïve adolescent patients from the age of 12 years to &lt; 18 years and weighing at least 40 kg is supported by two trials in HIV-1 infected paediatric patients (TMC114-C230 and GS-US-292-0106). For more details, refer to the prescribing information of darunavir and emtricitabine/tenofovir alafenamide.
+
+<div style=\"page-break-after: always\"></div>
 
 An open-label, Phase 2 trial (TMC114-C230) was conducted for evaluating the pharmacokinetics, safety, tolerability, and efficacy of darunavir with low dose ritonavir in 12 ART-naïve HIV-1 infected paediatric patients aged 12 to less than 18 years and weighing at least 40 kg. These patients received darunavir/ritonavir 800/100 mg once daily in combination with other antiretroviral agents. Virologic response was defined as a decrease in plasma HIV-1 RNA viral load of at least 1.0 log10 versus baseline (see Table 7).
 
-| Table 7: Virologic outcome - TMC114-C230 - Outcomes at Week 48   | in ART- naïve adolescents at Week 48 (TLOVR algorithm) - TMC114-C230   | in ART- naïve adolescents at Week 48 (TLOVR algorithm) - TMC114-C230 - Darunavir/ritonavir (N = 12)   |
-|------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| HIV-1 RNA < 50 copies/mL a                                       | HIV-1 RNA < 50 copies/mL a                                             | 83.3% (10)                                                                                            |
-| CD4+ percent median change from baseline                         | CD4+ percent median change from baseline                               | 14                                                                                                    |
-| CD4+ cell count mean change from baseline b                      | CD4+ cell count mean change from baseline b                            | 221                                                                                                   |
-| ≥ 1.0 log 10 decrease from baseline in plasma viral load         | ≥ 1.0 log 10 decrease from baseline in plasma viral load               | 100%                                                                                                  |
+| Table 7:                                                 | Virologic outcome in ART- naïve adolescents at Week 48 (TLOVR algorithm)   |                              |
+|----------------------------------------------------------|----------------------------------------------------------------------------|------------------------------|
+| TMC114-C230                                              | TMC114-C230                                                                | TMC114-C230                  |
+| Outcomes at Week 48                                      | Outcomes at Week 48                                                        | Darunavir/ritonavir (N = 12) |
+| HIV-1 RNA < 50 copies/mL a                               | HIV-1 RNA < 50 copies/mL a                                                 | 83.3% (10)                   |
+| CD4+ percent median change from baseline                 | CD4+ percent median change from baseline                                   | 14                           |
+| CD4+ cell count mean change from baseline b              | CD4+ cell count mean change from baseline b                                | 221                          |
+| ≥ 1.0 log 10 decrease from baseline in plasma viral load | ≥ 1.0 log 10 decrease from baseline in plasma viral load                   | 100%                         |
 
 - a Imputations according to the TLOVR algorithm.
 
 b Non-completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0.
 
-In the study GS-US-292-0106, the efficacy, safety, and pharmacokinetics of emtricitabine and tenofovir alafenamide were evaluated in an open-label study in which 50 HIV-1 infected, treatment-naïve adolescents received emtricitabine and tenofovir alafenamide (10 mg) given with elvitegravir and cobicistat as a fixed-dose combination tablet. Patients had a median age of 15 years (range: 12-17), and 56% were female, 12% were Asian, and 88% were Black. At baseline, median plasma HIV-1 RNA was 4.7 log10 copies/mL, median CD4+ cell count was 456 cells/mm 3 (range:
+In the study GS-US-292-0106, the efficacy, safety, and pharmacokinetics of emtricitabine and tenofovir alafenamide were evaluated in an open-label study in which 50 HIV-1 infected, treatment-naïve adolescents received emtricitabine and tenofovir alafenamide (10 mg) given with elvitegravir and cobicistat as a fixed-dose combination tablet. Patients had a median age of 15 years (range: 12-17), and 56% were female, 12% were Asian, and 88% were Black. At baseline, median plasma HIV-1 RNA was 4.7 log10 copies/mL, median CD4+ cell count was 456 cells/mm 3 (range: 95-1 110), and median CD4+ % was 23% (range: 7-45%). Overall, 22% had baseline plasma HIV-1 RNA &gt; 100 000 copies/mL. At 48 weeks, 92% (46/50) achieved HIV-1 RNA &lt; 50 copies/mL, similar to response rates in studies of treatment-naïve HIV-1 infected adults. The mean increase from baseline in CD4+ cell count at Week 48 was 224 cells/mm 3 . No emergent resistance to E/C/F/TAF (elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide) was detected through Week 48.
 
-<div style=\"page-break-after: always\"></div>
+## Patients aged 6 years to &lt; 12 years weighing at least 25 kg to &lt; 40 kg
 
-95-1 110), and median CD4+ % was 23% (range: 7-45%). Overall, 22% had baseline plasma HIV-1 RNA &gt; 100 000 copies/mL. At 48 weeks, 92% (46/50) achieved HIV-1 RNA &lt; 50 copies/mL, similar to response rates in studies of treatment-naïve HIV-1 infected adults. The mean increase from baseline in CD4+ cell count at Week 48 was 224 cells/mm 3 . No emergent resistance to E/C/F/TAF (elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide) was detected through Week 48.
+The use of Symtuza in children aged 6 years to &lt; 12 years, weighing at least 25 kg to &lt; 40 kg is supported by open-label study GS-US-216-0128 in which the pharmacokinetics, safety, and antiviral activity of darunavir and cobicistat (administered as separate agents) in combination with emtricitabine/tenofovir alafenamide were evaluated in 9 HIV-1 infected treatment-experienced, virologically suppressed paediatric patients (Cohort 2 DRV/COBI+F/TAF FDC Subgroup). All patients had HIV-1 RNA &lt; 50 copies/mL at baseline and median baseline CD4+ cell count was 929 cells/mm 3 (range: 584 - 1232 cells/mm 3 ). Virological outcome for children in Cohort 2 is shown in Table 8.
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Symtuza in one or more subsets of the paediatric population in the treatment of HIV-1 infection (see section 4.2 for information on paediatric use).
+| Table 8: Virologic outcome in ART-experienced, virologically suppressed children (Cohort 2 DRV/COBI+F/TAF FDC a Subgroup) at Week 24 (FDA Snapshot)   | Table 8: Virologic outcome in ART-experienced, virologically suppressed children (Cohort 2 DRV/COBI+F/TAF FDC a Subgroup) at Week 24 (FDA Snapshot)   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| GS-US-216-0128                                                                                                                                        | GS-US-216-0128                                                                                                                                        |
+| Outcomes at Week 24                                                                                                                                   | Cohort 2 DRV/COBI+F/TAF FDC Subgroup (N = 9)                                                                                                          |
+| HIV-1 RNA < 50 copies/mL                                                                                                                              | 100% (9)                                                                                                                                              |
+| CD4+ percent median change from baseline                                                                                                              | 0.60%                                                                                                                                                 |
+| CD4+ cell count median change from baseline                                                                                                           | 72 cells/mm 3                                                                                                                                         |
 
 ## 5.2 Pharmacokinetic properties
 
-The bioavailability of all components of Symtuza was comparable to that when darunavir 800 mg, cobicistat 150 mg, and emtricitabine/tenofovir alafenamide 200/10 mg were co-administered as separate formulations; bioequivalence was established following single-dose administration under fed conditions in healthy subjects (N = 96).
+Following single-dose administration under fed conditions in healthy participants (N = 96), bioequivalence was established for all components of Symtuza 800 mg/150 mg/200 mg/10 mg as compared to darunavir 800 mg, cobicistat 150 mg, and emtricitabine/tenofovir alafenamide 200/10 mg co-administered as separate formulations. Bioequivalence was also observed between Symtuza
+
+<div style=\"page-break-after: always\"></div>
+
+675 mg/150 mg/200 mg/10 mg FDC and darunavir 675 mg, cobicistat 150 mg and emtricitabine/tenofovir alafenamide 200 mg/10 mg co-administered as separate formulations under fed conditions in healthy participants (N = 32).
 
 ## Absorption
 
 The absolute bioavailability of a single 600 mg dose of darunavir alone was approximately 37% and increased to approximately 82% in the presence of 100 mg twice daily ritonavir. The absolute bioavailability of the emtricitabine 200 mg capsule was 93%.
 
-All components were rapidly absorbed following oral administration of Symtuza in healthy subjects. Maximum plasma concentrations of darunavir, cobicistat, emtricitabine and tenofovir alafenamide were achieved at 4.00, 4.00, 2.00, and 1.50 hours after dosing, respectively. The bioavailability of the components of Symtuza was not affected when administered orally as a split tablet compared to administration as a tablet swallowed whole.
+All components were rapidly absorbed following oral administration of Symtuza in healthy participants. Maximum plasma concentrations of darunavir, cobicistat, emtricitabine and tenofovir alafenamide were achieved at 4.00, 4.00, 2.00, and 1.50 hours after dosing, respectively. The bioavailability of the components of Symtuza was not affected when administered orally as a split tablet compared to administration as a tablet swallowed whole.
 
 The exposure to darunavir and cobicistat administered as the Symtuza was 30-45% lower and 16-29% lower, respectively, in fasted compared to fed condition. For emtricitabine, the C max was 1.26-fold higher in a fasted condition, while the area under the curve (AUC) was comparable in fed and fasted condition. For tenofovir alafenamide, the Cmax was 1.82-fold higher in fasted condition, while the AUC was 20% lower to comparable in a fasted compared to fed condition. Symtuza tablets should be taken with food. The type of food does not affect exposure to Symtuza.
 
@@ -793,8 +868,6 @@ Cobicistat is 97% to 98% bound to human plasma proteins and the mean plasma to b
 
 In vitro binding of emtricitabine to human plasma proteins was &lt; 4% and independent of concentration over the range of 0.02-200 mcg/mL. At peak plasma concentration, the mean plasma to blood concentration ratio was approximately 1.0 and the mean semen to plasma concentration ratio was approximately 4.0.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tenofovir alafenamide
 
 In vitro binding of tenofovir to human plasma proteins is &lt; 0.7% and is independent of concentration over the range of 0.01-25 mcg/mL. Ex vivo binding of tenofovir alafenamide to human plasma proteins in samples collected during clinical trials was approximately 80%.
@@ -803,7 +876,9 @@ In vitro binding of tenofovir to human plasma proteins is &lt; 0.7% and is indep
 
 ## Darunavir
 
-In vitro experiments with human liver microsomes (HLMs) indicate that darunavir primarily undergoes oxidative metabolism. Darunavir is extensively metabolised by the hepatic CYP system and almost exclusively by isozyme CYP3A4. A [ 14 C]-darunavir trial in healthy volunteers showed that a majority of the radioactivity in plasma after a single 400/100 mg darunavir with ritonavir dose was due to the parent active substance. At least 3 oxidative metabolites of darunavir have been identified in humans; all showed activity that was at least 10-fold less than the activity of darunavir against wild type HIV.
+In vitro experiments with human liver microsomes (HLMs) indicate that darunavir primarily undergoes oxidative metabolism. Darunavir is extensively metabolised by the hepatic CYP system and almost exclusively by isozyme CYP3A4. A [ 14 C]-darunavir trial in healthy participants showed that a majority of the radioactivity in plasma after a single 400/100 mg darunavir with ritonavir dose was due to the parent active substance. At least 3 oxidative metabolites of darunavir have been identified in humans; all showed activity that was at least 10-fold less than the activity of darunavir against wild type HIV.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Cobicistat
 
@@ -819,15 +894,11 @@ Metabolism is a major elimination pathway for tenofovir alafenamide in humans, a
 
 In vitro , tenofovir alafenamide is not metabolised by CYP1A2, CYP2C8, CYP2C9, CYP2C19, or CYP2D6. Tenofovir alafenamide is minimally metabolised by CYP3A4. Upon co-administration with the moderate CYP3A inducer probe efavirenz, tenofovir alafenamide exposure was not significantly affected. Following administration of tenofovir alafenamide, plasma [ 14 C]-radioactivity showed a time-dependent profile with tenofovir alafenamide as the most abundant species in the initial few hours and uric acid in the remaining period.
 
-## Elimination
-
-## Darunavir
+## Elimination Darunavir
 
 After a 400/100 mg [ 14 C]-darunavir with ritonavir dose, approximately 79.5% and 13.9% of the administered dose of [ 14 C]-darunavir could be retrieved in faeces and urine, respectively. Unchanged darunavir accounted for approximately 41.2% and 7.7% of the administered dose in faeces and urine, respectively.
 
 The intravenous clearance of darunavir alone (150 mg) and in the presence of low dose (100 mg) ritonavir was 32.8 l/h and 5.9 l/h, respectively. The median terminal plasma half-life of darunavir following administration of Symtuza is 5.5 hours.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Cobicistat
 
@@ -841,11 +912,11 @@ Emtricitabine is primarily excreted by the kidneys with complete recovery of the
 
 Tenofovir alafenamide is mainly eliminated following metabolism to tenofovir. The median terminal elimination half-life of tenofovir alafenamide was 0.3 hours when administered as Symtuza. Tenofovir is eliminated from the body by the kidneys by both glomerular filtration and active tubular secretion. Tenofovir has a median plasma half-life of approximately 32 hours. Renal excretion of intact tenofovir alafenamide is a minor pathway with less than 1% of the dose eliminated in urine. The pharmacologically active metabolite, tenofovir diphosphate, has a half-life of 150-180 hours within PBMCs.
 
-## Special populations
+<div style=\"page-break-after: always\"></div>
 
-## Paediatric population
+## Special populations Paediatric population
 
-The pharmacokinetics of Symtuza have not been investigated in paediatric patients. However, there are pharmacokinetic data for the different components of Symtuza, indicating that doses of 800 mg darunavir, 150 mg cobicistat, 200 mg emtricitabine and 10 mg tenofovir alafenamide result in similar exposures in adults and adolescents aged 12 years and older, weighing at least 40 kg.
+Available pharmacokinetic data for the different components of Symtuza indicate that exposures between adults and paediatric patients aged 6 years and older, weighing at least 25 kg, were comparable.
 
 ## Elderly
 
@@ -871,8 +942,6 @@ Results from a mass balance study with [ 14 C]-darunavir with ritonavir showed t
 
 Although darunavir has not been studied in patients with renal impairment, population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV infected patients with moderate renal impairment (eGFRCG between 30-60 mL/min, N = 20) (see sections 4.2 and 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Cobicistat
 
 A trial of the pharmacokinetics of cobicistat was performed in non-HIV-1 infected subjects with severe renal impairment (eGFRCG below 30 mL/min). No meaningful differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment and healthy subjects, consistent with low renal clearance of cobicistat.
@@ -883,7 +952,11 @@ Mean systemic emtricitabine exposure was higher in patients with severe renal im
 
 ## Tenofovir alafenamide
 
-No clinically relevant differences in tenofovir alafenamide, or tenofovir pharmacokinetics were observed between healthy subjects and patients with severe renal impairment (eGFRCG &gt; 15 but &lt; 30 mL/min) in studies of tenofovir alafenamide. There are no pharmacokinetic data on tenofovir alafenamide in patients with eGFRCG &lt; 15 mL/min.
+No clinically relevant differences in tenofovir alafenamide, or tenofovir pharmacokinetics were observed between healthy subjects and patients with severe renal impairment (eGFRCG &gt; 15 but
+
+<div style=\"page-break-after: always\"></div>
+
+&lt; 30 mL/min) in studies of tenofovir alafenamide. There are no pharmacokinetic data on tenofovir alafenamide in patients with eGFRCG &lt; 15 mL/min.
 
 ## Hepatic impairment
 
@@ -907,21 +980,22 @@ Clinically relevant changes in tenofovir pharmacokinetics in patients with hepat
 
 ## Hepatitis B and/or hepatitis C virus co-infection
 
-There were insufficient pharmacokinetic data in the clinical trials to determine the effect of hepatitis B and/or C virus infection on the pharmacokinetics of darunavir,cobicistat, emtricitabine, or tenofovir alafenamide (refer to sections 4.4 and 4.8).
-
-<div style=\"page-break-after: always\"></div>
+There were insufficient pharmacokinetic data in the clinical trials to determine the effect of hepatitis B and/or C virus infection on the pharmacokinetics of darunavir, cobicistat, emtricitabine, or tenofovir alafenamide (refer to sections 4.4 and 4.8).
 
 ## Pregnancy and postpartum
 
-Treatment with darunavir/cobicistat 800/150 mg once daily during pregnancy results in low darunavir exposure (see Table 8). In women receiving darunavir/cobicistat during the second trimester of pregnancy, mean intra-individual values for total darunavir Cmax , AUC24h and Cmin were 49%, 56% and 92% lower, respectively, as compared with postpartum; during the third trimester of pregnancy, total darunavir Cmax, AUC24h and Cmin values were 37%, 50% and 89% lower, respectively, as compared with postpartum. The unbound fraction was also substantially reduced, including around 90% reductions of Cmin levels. The main cause of these low exposures is a marked reduction in cobicistat exposure as a consequence of pregnancy-associated enzyme induction (see below).
+Treatment with darunavir/cobicistat 800/150 mg once daily during pregnancy results in low darunavir exposure (see Table 9). In women receiving darunavir/cobicistat during the second trimester of pregnancy, mean intra-individual values for total darunavir Cmax , AUC24h and Cmin were 49%, 56% and 92% lower, respectively, as compared with postpartum; during the third trimester of pregnancy, total darunavir Cmax, AUC24h and Cmin values were 37%, 50% and 89% lower, respectively, as compared with postpartum. The unbound fraction was also substantially reduced, including around 90% reductions of Cmin levels. The main cause of these low exposures is a marked reduction in cobicistat exposure as a consequence of pregnancy-associated enzyme induction (see below).
 
-Table 8
+<div style=\"page-break-after: always\"></div>
 
-| Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum - Pharmacokinetics of total darunavir (mean ± SD)   | Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum - Second trimester of pregnancy N = 7   | Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum - Third trimester of pregnancy N = 6   | Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum - Postpartum (6-12 weeks) N = 6   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| C max , ng/mL                                                                                                                                                                                                                                                                                      | 4 340 ± 1 616                                                                                                                                                                                                                                                                          | 4 910 ± 970                                                                                                                                                                                                                                                                           | 7 918 ± 2 199                                                                                                                                                                                                                                                                    |
-| AUC 24h , ng.h/mL                                                                                                                                                                                                                                                                                  | 47 293 ± 19 058                                                                                                                                                                                                                                                                        | 47 991 ± 9 879                                                                                                                                                                                                                                                                        | 99 613 ± 34 862                                                                                                                                                                                                                                                                  |
-| C min , ng/mL                                                                                                                                                                                                                                                                                      | 168 ± 149                                                                                                                                                                                                                                                                              | 184 ± 99                                                                                                                                                                                                                                                                              | 1 538 ± 1 344                                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Table 9                                                                                                                                                                                                                                        | Table 9                                                                                                                                                                                                                                        | Table 9                                                                                                                                                                                                                                        | Table 9                                                                                                                                                                                                                                        |
+| Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum | Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum | Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum | Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum |
+| Pharmacokinetics of total darunavir (mean ± SD)                                                                                                                                                                                                | Second trimester of pregnancy N = 7                                                                                                                                                                                                            | Third trimester of pregnancy N = 6                                                                                                                                                                                                             | Postpartum (6-12 weeks) N = 6                                                                                                                                                                                                                  |
+| C max , ng/mL                                                                                                                                                                                                                                  | 4 340 ± 1 616                                                                                                                                                                                                                                  | 4 910 ± 970                                                                                                                                                                                                                                    | 7 918 ± 2 199                                                                                                                                                                                                                                  |
+| AUC 24h , ng.h/mL                                                                                                                                                                                                                              | 47 293 ± 19 058                                                                                                                                                                                                                                | 47 991 ± 9 879                                                                                                                                                                                                                                 | 99 613 ± 34 862                                                                                                                                                                                                                                |
+| C min , ng/mL                                                                                                                                                                                                                                  | 168 ± 149                                                                                                                                                                                                                                      | 184 ± 99                                                                                                                                                                                                                                       | 1 538 ± 1 344                                                                                                                                                                                                                                  |
 
 The exposure to cobicistat was lower during pregnancy, potentially leading to suboptimal boosting of darunavir. During the second trimester of pregnancy, cobicistat Cmax , AUC24h , and C min were 50%, 63%, and 83% lower, respectively, as compared with postpartum. During the third trimester of pregnancy, cobicistat Cmax, AUC24h, and Cmin, were 27%, 49%, and 83% lower, respectively, as compared with postpartum.
 
@@ -943,13 +1017,13 @@ Ex vivo rabbit studies and in vivo dog studies suggest that cobicistat has a low
 
 A long-term carcinogenicity study of cobicistat in rats revealed tumourigenic potential specific for this species, that is regarded as of no relevance for humans. A long-term carcinogenicity study in mice did not show any carcinogenic potential.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Emtricitabine
 
 Non-clinical data on emtricitabine reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, toxicity to reproduction and development.
 
 Emtricitabine had demonstrated low carcinogenic potential in mice and rats.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tenofovir alafenamide
 
@@ -963,33 +1037,71 @@ Because there is a lower tenofovir exposure in rats and mice after the administr
 
 ## 6.1 List of excipients
 
-Tablet core Croscarmellose sodium Magnesium stearate Cellulose, microcrystalline Silica, colloidal anhydrous
+Symtuza 800 mg/150 mg/200 mg/10 mg tablets
 
-Tablet coating Macrogol 4 000 Poly (vinyl alcohol)- partially hydrolysed Talc Titanium dioxide (E171) Iron oxide yellow (E172)
+Tablet core Cellulose, microcrystalline (E460(i)) Croscarmellose sodium (E468) Magnesium stearate (E572) Silica, colloidal anhydrous (E551)
+
+Tablet coating Macrogol 4 000 Polyvinyl alcohol (partially hydrolysed) Talc (E553b) Titanium dioxide (E171) Iron oxide yellow (E172)
+
+Symtuza 675 mg/150 mg/200 mg/10 mg tablets
+
+Tablet core Cellulose, microcrystalline (E460(i)) Croscarmellose sodium (E468) Magnesium stearate (E572) Silica, colloidal anhydrous (E551)
+
+Tablet coating Macrogol 3 350 (polyethylene glycol) Polyvinyl alcohol (partially hydrolysed) Talc (E553b) Titanium dioxide (E171) Iron oxide black (E172)
 
 ## 6.2 Incompatibilities
 
 Not applicable.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
-3 years After first opening: 6 weeks
+Symtuza 800 mg/150 mg/200 mg/10 mg film-coated tablets
+
+3 years
+
+After first opening: 6 weeks
+
+Symtuza 675 mg/150 mg/200 mg/10 mg film-coated tablets
+
+3 years
+
+After first opening: 6 weeks
 
 ## 6.4 Special precautions for storage
 
-Store below 30 °C.
+Symtuza 800 mg/150 mg/200 mg/10 mg film-coated tablets Store below 30 °C.
 
-<div style=\"page-break-after: always\"></div>
+Store in the original package with desiccant inside the bottle in order to protect the tablets from moisture. Keep the bottle tightly closed.
+
+## Symtuza 675 mg/150 mg/200 mg/10 mg film-coated tablets
+
+Store below 25 °C.
+
+After first opening of the bottle: Store below 25 °C.
 
 Store in the original package with desiccant inside the bottle in order to protect the tablets from moisture. Keep the bottle tightly closed.
 
 ## 6.5 Nature and contents of container
 
+Symtuza 800 mg/150 mg/200 mg/10 mg film-coated tablets
+
 White, high density polyethylene (HDPE) bottle with a silica gel desiccant (contained in a separate sachet or canister) fitted with polypropylene (PP) child resistant closure with induction seal.
 
-Each bottle contains 30 tablets. Pack size of one bottle or three bottles per carton.
+Each bottle contains 30 tablets.
+
+Pack size of one bottle or three bottles per carton.
 
 Not all pack sizes may be marketed.
+
+Symtuza 675 mg/150 mg/200 mg/10 mg film-coated tablets
+
+White, high density polyethylene (HDPE) bottle with a silica gel desiccant (contained in a separate sachet or canister) fitted with polypropylene (PP) child resistant closure with induction seal.
+
+Each bottle contains 30 tablets.
+
+Pack size of one bottle.
 
 ## 6.6 Special precautions for disposal
 
@@ -999,21 +1111,39 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+<div style=\"page-break-after: always\"></div>
+
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
+
+Symtuza 800 mg/150 mg/200 mg/10 mg film-coated tablets
 
 EU/1/17/1225/001 - 30 film-coated tablets
 
 EU/1/17/1225/002 - 90 film-coated tablets (3 x 30)
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+Symtuza 675 mg/150 mg/200 mg/10 mg film-coated tablets
+
+EU/1/17/1225/003 - 30 film-coated tablets
+
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 21 September 2017
 
 Date of latest renewal: 24 May 2022
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency https://www.ema.europa.eu.
+
+36
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1030,9 +1160,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Janssen-Cilag SpA Via C. Janssen, Borgo San Michele 04100 Latina
+Symtuza 800 mg/150 mg/200 mg/10 mg Janssen-Cilag SpA Via C. Janssen, Borgo San Michele 04100 Latina Italy
 
-Italy
+Symtuza 675 mg/150 mg/200 mg/10 mg Janssen Pharmaceutica, NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1077,7 +1207,8 @@ Symtuza 800 mg/150 mg/200 mg/10 mg film-coated tablets darunavir/cobicistat/emtr
 
 Each film-coated tablet contains 800 mg darunavir (as ethanolate), 150 mg cobicistat, 200 mg emtricitabine, and 10 mg tenofovir alafenamide (as fumarate).
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1089,19 +1220,21 @@ Each film-coated tablet contains 800 mg darunavir (as ethanolate), 150 mg cobici
 
 The bottles are not to be distributed individually.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
-Read the package leaflet before use.
+Read the package leaflet before use. Oral use
 
-Oral use
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1110,6 +1243,8 @@ Do not use after 6 weeks of first opening the bottle.
 Open date:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 Discard date:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1123,13 +1258,7 @@ Store in the original package in order to protect from moisture. Keep the bottle
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-B-2340 Beerse
-
-Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1141,12 +1270,13 @@ EU/1/17/1225/002 - 90 film-coated tablets (3 x 30)
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
-symtuza
+symtuza 800 mg/150 mg/200 mg/10 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -1159,8 +1289,6 @@ PC
 SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1212,23 +1340,176 @@ Store in the original package in order to protect from moisture. Keep the bottle
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-Turnhoutseweg 30 B-2340 Beerse
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/17/1225/001 - 30 film-coated tablets EU/1/17/1225/002 - 90 film-coated tablets (3 x 30)
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Symtuza 675 mg/150 mg/200 mg/10 mg film-coated tablets darunavir/cobicistat/emtricitabine/tenofovir alafenamide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains 675 mg darunavir (as ethanolate), 150 mg cobicistat, 200 mg emtricitabine, and 10 mg tenofovir alafenamide (as fumarate).
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Film-coated tablet
+
+30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+Do not use after 6 weeks of first opening the bottle.
+
+Open date:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Discard date:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store below 25 °C.
+
+After first opening of the bottle: Store below 25 °C.
+
+Store in the original package in order to protect from moisture. Keep the bottle tightly closed.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Janssen-Cilag International NV Turnhoutseweg 30
+
+B-2340 Beerse
 
 Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/17/1225/001 - 30 film-coated tablets
+EU/1/17/1225/003 - 30 film-coated tablets
 
-EU/1/17/1225/002 - 90 film-coated tablets (3 x 30)
+## 13. BATCH NUMBER
 
-13. BATCH NUMBER
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+symtuza 675 mg/150 mg/200 mg/10 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+BOTTLE LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Symtuza 675 mg/150 mg/200 mg/10 mg tablets
+
+darunavir/cobicistat/emtricitabine/tenofovir alafenamide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each tablet contains 675 mg darunavir (as ethanolate), 150 mg cobicistat, 200 mg emtricitabine, and 10 mg tenofovir alafenamide (as fumarate).
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+30 tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store below 25 °C.
+
+Store in the original package in order to protect from moisture. Keep the bottle tightly closed.
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/17/1225/003 - 30 film-coated tablets
+
+## 13. BATCH NUMBER
 
 Lot
 
@@ -1240,11 +1521,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
-
-## Package leaflet: Information for the user
+- B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Symtuza 800 mg/150 mg/200 mg/10 mg - film-coated tablets
 
@@ -1268,7 +1549,9 @@ darunavir/cobicistat/emtricitabine/tenofovir alafenamide
 
 ## 1. What Symtuza is and what it is used for
 
-Symtuza is an antiretroviral medicine used to treat infection with human immunodeficiency virus 1 (HIV-1). It is used in adults and adolescents aged 12 years and older who weigh at least 40 kg. Symtuza contains four active substances:
+Symtuza 800 mg darunavir/150 mg cobicistat/200 mg emtricitabine/10 mg tenofovir alafenamide is an antiretroviral medicine used to treat infection with human immunodeficiency virus 1 (HIV-1) in adults and children who weigh at least 40 kg.
+
+Symtuza contains four active substances:
 
 -  darunavir, an anti-HIV medicine known as a protease inhibitor
 -  cobicistat, a booster (enhancer) of darunavir
@@ -1290,15 +1573,13 @@ Tell your doctor about all medicines you take including medicines taken orally, 
 
 If you are taking any of these, ask your doctor about switching to another medicine.
 
-| Medicine                                                      | Purpose of the medicine                                         |
-|---------------------------------------------------------------|-----------------------------------------------------------------|
-| Alfuzosin                                                     | to treat enlarged prostate                                      |
-| Amiodarone, dronedarone, ivabradine, quinidine, or ranolazine | to treat certain heart disorders ( e.g . abnormal heart rhythm) |
-
 <div style=\"page-break-after: always\"></div>
 
-| Carbamazepine, phenobarbital and phenytoin                                             | to prevent seizures                                                                                                                                               |
+| Medicine                                                                               | Purpose of the medicine                                                                                                                                           |
 |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Alfuzosin                                                                              | to treat enlarged prostate                                                                                                                                        |
+| Amiodarone, dronedarone, ivabradine, quinidine, or ranolazine                          | to treat certain heart disorders ( e.g . abnormal heart rhythm)                                                                                                   |
+| Carbamazepine, phenobarbital and phenytoin                                             | to prevent seizures                                                                                                                                               |
 | Colchicine (if you have kidney/liver problems)                                         | to treat gout                                                                                                                                                     |
 | The combination product lopinavir/ritonavir                                            | anti-HIV medicine                                                                                                                                                 |
 | Rifampicin                                                                             | to treat some infections such as tuberculosis                                                                                                                     |
@@ -1332,12 +1613,10 @@ Talk to your doctor before taking Symtuza. Tell your doctor immediately, if any 
 -  if you have had kidney disease or if tests have shown problems with your kidneys , before or during treatment. Before starting treatment and during treatment with Symtuza, your doctor may order blood tests to monitor how your kidneys work. Your doctor will consider if Symtuza is the right medicine for you.
 -  if you have diabetes . Symtuza might increase sugar levels in the blood.
 -  if you notice any symptoms of infection (e.g . swollen lymph nodes and fever). In some patients with advanced HIV infection and who had unusual infections due to a weakened immune system (opportunistic infection), signs and symptoms of inflammation from previous infections may occur soon after you start HIV treatment. It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
--  if you notice symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, tell your doctor immediately. In addition to the opportunistic infections, autoimmune disorders (when the immune system attacks healthy body tissue) may also occur after you start taking medicines for
 
 <div style=\"page-break-after: always\"></div>
 
-the treatment of your HIV infection, due to an improvement in the body's immune response. Autoimmune disorders may occur many months after the start of treatment.
-
+-  if you notice symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, tell your doctor immediately. In addition to the opportunistic infections, autoimmune disorders (when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection, due to an improvement in the body's immune response. Autoimmune disorders may occur many months after the start of treatment.
 -  if you have haemophilia . Symtuza might increase the risk of bleeding.
 -  if you are allergic to sulphonamides (e.g. used to treat certain infections).
 -  if you notice any muscle or bone problems . Some patients taking anti-HIV medicines may develop a bone disease called osteonecrosis (bone damage caused by loss of blood supply to the bone). This may be more likely with long-term HIV treatment, more severe damage to the immune system, being overweight, or the use of alcohol or medicines called corticosteroids. Signs of osteonecrosis are joint stiffness, aches and pains (especially of the hip, knee and shoulder) and difficulty in movement. If you notice any of these symptoms tell your doctor.
@@ -1348,7 +1627,9 @@ Symtuza has only been used in limited numbers of patients 65 years or older. If 
 
 ## Children and adolescents
 
-Symtuza is not for use in children younger than 12 years, or weighing less than 40 kg , as it has not been studied in children under 12 years.
+Symtuza 800 mg darunavir/150 mg cobicistat/200 mg emtricitabine/10 mg tenofovir alafenamide is not for use in children weighing less than 40 kg.
+
+Symtuza is also available as a 675 mg darunavir/150 mg cobicistat/200 mg emtricitabine/10 mg tenofovir alafenamide scored tablet for children 6 years and older weighing at least 25 kg and less than 40 kg (see separate Package Leaflet for Symtuza 675 mg/150 mg/200 mg/10 mg film-coated tablets).
 
 ## Other medicines and Symtuza
 
@@ -1371,14 +1652,14 @@ The effects of other medicines might be influenced if you take Symtuza and your 
 
 - Amlodipine, diltiazem, disopyramide, felodipine, flecainide, mexiletine, nicardipine, nifedipine, propafenone, lidocaine, verapamil (for heart disease) as the therapeutic effect or side effects of these medicines may be increased.
 - Bosentan (to treat high blood pressure in the pulmonary circulation)
+
+<div style=\"page-break-after: always\"></div>
+
 - Apixaban, dabigatran etexilate, edoxaban, rivaroxaban, warfarin, clopidogrel (to reduce clotting of the blood) as their therapeutic effect or side effects may be altered.
 - Clonazepam (to prevent seizures).
 - Oestrogen -based hormonal contraceptives and hormone replacement therapy. Symtuza might reduce its effectiveness. When used for birth control, non-hormonal contraception methods are recommended.
 - Ethinylestradiol/drospirenone . Symtuza might increase the risk for elevated potassium levels by drospirenone.
-
-<div style=\"page-break-after: always\"></div>
-
-- Corticosteroids including betamethasone,budesonide, fluticasone, mometasone, prednisone, triamcinolone . These medicines are used to treat allergies, asthma, inflammatory bowel diseases, inflammatory conditions of the skin, eyes, joints and muscles and other inflammatory conditions. These medicines are generally taken orally, inhaled, injected or applied to the skin. If alternatives cannot be used, its use should only take place after medical evaluation and under close monitoring by your doctor for corticosteroid side effects.
+- Corticosteroids including betamethasone, budesonide, fluticasone, mometasone, prednisone, triamcinolone . These medicines are used to treat allergies, asthma, inflammatory bowel diseases, inflammatory conditions of the skin, eyes, joints and muscles and other inflammatory conditions. These medicines are generally taken orally, inhaled, injected or applied to the skin. If alternatives cannot be used, its use should only take place after medical evaluation and under close monitoring by your doctor for corticosteroid side effects.
 - Buprenorphine/naloxone, methadone (medicines to treat opioid dependence)
 - Salmeterol (medicine to treat asthma)
 - Artemether/lumefantrine (a combination medicine to treat malaria)
@@ -1412,11 +1693,11 @@ This is not a complete list of medicines. Tell your healthcare provider about al
 
 Tell your doctor immediately if you are pregnant or planning to become pregnant. Pregnant women should not take Symtuza.
 
+<div style=\"page-break-after: always\"></div>
+
 Because of the potential for side effects in breast-fed infants, women should not breast-feed if they are receiving Symtuza.
 
 Breast-feeding is not recommended in women living with HIV because HIV infection can be passed on to the baby in breast milk. If you are breast-feeding, or thinking about breast-feeding, you should discuss it with your doctor as soon as possible.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -1430,11 +1711,12 @@ This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to sa
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-The recommended dose for adults and adolescents 12 years of age and older, who weigh at least 40 kg is one tablet each day with food.
+The recommended dose for adults and children who weigh at least 40 kg is one tablet each day with food.
 
 You must take Symtuza every day and always with food . You must eat a meal or a snack within 30 minutes before taking your Symtuza. The type of food is not important.
 
 -  The tablet should not be crushed, but swallowed whole. The tablet can be taken with a drink such as water, milk or any nutritional drink. Take Symtuza at around the same time each day.
+-  If you have difficulty swallowing Symtuza, tell your doctor. The tablet may be split using a tablet-cutter. After splitting the tablet, the entire dose (both halves) should then be taken right away with a drink such as water or milk.
 
 ## Removing the child resistant cap
 
@@ -1453,10 +1735,12 @@ Contact your doctor or nearest emergency department immediately for advice. Keep
 
 It is important not to miss a dose of Symtuza.
 
-## If you do miss a dose:
+If you do miss a dose:
 
 -  If you notice within 12 hours of the time you usually take Symtuza, you must take the tablet immediately, with food. Then take the next dose at your usual time.
 -  If you notice 12 hours or more after the time you usually take Symtuza, then do not take the missed dose and take the next doses with food at your usual time. Do not take a double dose to make up for a forgotten dose.
+
+<div style=\"page-break-after: always\"></div>
 
 If you vomit within 1 hour of taking the medicine, another dose of Symtuza should be taken with food as soon as possible. If you vomit more than 1 hour after taking the medicine, then you do not need to take another dose of Symtuza until the next regularly scheduled time.
 
@@ -1467,8 +1751,6 @@ Contact your doctor if you are uncertain about what to do if you miss a dose or 
 Anti-HIV medicines may make you feel better. Even when you feel better, do not stop taking Symtuza. Talk to your doctor first.
 
 When your supply of Symtuza starts to run low, get more from your doctor or pharmacist. This is very important because the amount of virus may start to increase if the medicine is stopped for even a short time. The disease may then become harder to treat.
-
-<div style=\"page-break-after: always\"></div>
 
 If you have both HIV infection and hepatitis B, it is very important not to stop taking Symtuza without talking to your doctor first. You may require blood tests for several months after stopping treatment with Symtuza. In some patients with advanced liver disease or cirrhosis, stopping treatment may lead to worsening of hepatitis, which may be life-threatening.
 
@@ -1497,9 +1779,13 @@ Very common side effects (may affect more than 1 in 10 people)
 Common side effects (may affect up to 1 in 10 people)
 
 -  low red blood cell count (anaemia)
--  allergic reactions such as nettle rash (urticaria), itching, decreased appetite (anorexia)
+-  allergic reactions such as nettle rash (urticaria), itching
+-  decreased appetite (anorexia)
 -  abnormal dreams
 -  vomiting, pain or swelling of the belly, indigestion, flatulence (wind)
+
+<div style=\"page-break-after: always\"></div>
+
 -  abnormal blood test results such as some tests for your kidney. Your doctor will explain these to you.
 -  dizziness
 -  joint pain
@@ -1512,9 +1798,6 @@ Uncommon side effects (may affect up to 1 in 100 people)
 
 -  severe swelling of the skin and other tissues (most often the lips or the eyes)
 -  symptoms of infection or of autoimmune disorders (immune reconstitution inflammatory syndrome)
-
-<div style=\"page-break-after: always\"></div>
-
 -  enlargement of breasts
 -  osteonecrosis (bone damage caused by loss of blood supply to the bone)
 -  abnormal blood test results such as some tests for your pancreas. Your doctor will explain these to you.
@@ -1544,6 +1827,8 @@ During HIV therapy there may be an increase in weight and in levels of blood lip
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Symtuza
 
 Keep this medicine out of the sight and reach of children.
@@ -1556,8 +1841,6 @@ Do not use this medicine after 6 weeks of first opening the bottle. Store in the
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Symtuza contains
@@ -1568,11 +1851,11 @@ The active substances are darunavir, cobicistat, emtricitabine, and tenofovir al
 
 Tablet core:
 
-The tablet core contains croscarmellose sodium, magnesium stearate, microcrystalline cellulose and colloidal silicon dioxide (please refer to section 2 'Symtuza contains sodium').
+The tablet core contains colloidal silicon dioxide (E551), croscarmellose sodium (E468), magnesium stearate (E572), and microcrystalline cellulose (E460(i)) (please refer to section 2 'Symtuza contains sodium').
 
 ## Film coating:
 
-The film-coating contains polyethylene glycol (macrogol), polyvinyl alcohol (partially hydrolysed), talc, titanium dioxide (E171) and yellow ferric oxide (E172).
+The film-coating contains macrogol (polyethylene glycol), polyvinyl alcohol (partially hydrolysed), talc (E553b), titanium dioxide (E171) and yellow ferric oxide (E172).
 
 ## What Symtuza looks like and contents of the pack
 
@@ -1588,17 +1871,25 @@ Janssen-Cilag International NV, Turnhoutseweg 30, B-2340 Beerse, Belgium
 
 ## Manufacturer
 
-Janssen-Cilag SpA, Via C. Janssen, Borgo San Michele, 04100 Latina, Italy
+Janssen-Cilag SpA, Via C. Janssen, Borgo San Michele, 04100 Latina, Italy For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV
+
+Tel/Tél: 0800 93 377
+
+info\\_belux@its.jnj.com
 
 ## България
 
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+'Джонсън &amp; Джонсън България' ЕООД
+
+Тел.: +359 2 489 94 00
+
+jjsafety@its.jnj.com
 
 ## Česká republika
 
@@ -1606,25 +1897,79 @@ Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
 
-## Danmark
+Danmark
 
-Janssen-Cilag A/S Tlf.: +45 4594 8282
+Janssen-Cilag A/S
+
+Tlf.: +45 4594 8282
 
 jacdk@its.jnj.com
+
+## Deutschland
+
+Janssen-Cilag GmbH
+
+Tel: 0800 086 9247 / +49 2137 955 6955
+
+medinfo-de@its.jnj.com
+
+## Eesti
+
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
+
+Tel: +372 617 7410
+
+ee@its.jnj.com
+
+## Ελλάδα
+
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε.
+
+Tηλ: +30 210 80 90 000
+
+## España
+
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
+
+## France
+
+Janssen-Cilag
+
+Tél: 0 800 25 50 75 / +33 1 55 00 40 03
+
+medisource@its.jnj.com
+
+## Hrvatska
+
+Johnson &amp; Johnson S.E. d.o.o.
+
+Tel: +385 1 6610 700
+
+jjsafety@JNJCR.JNJ.com
 
 ## Lietuva
 
 UAB \"JOHNSON &amp; JOHNSON\"
 
-Tel: +370 5 278 68 88 lt@its.jnj.com
+Tel: +370 5 278 68 88
+
+lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV
+
+Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
+Janssen-Cilag Kft.
+
+Tel.: +36 1 884 2858
 
 janssenhu@its.jnj.com
 
@@ -1634,67 +1979,25 @@ AM MANGION LTD
 
 Tel: +356 2397 6000
 
-<div style=\"page-break-after: always\"></div>
-
-## Deutschland
-
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
-
-## Eesti
-
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
-
-## Ελλάδα
-
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
-
-## España
-
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
-
-## France
-
-Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
-
-## Hrvatska
-
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
-
-## Ireland
-
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
-
-## Ísland
-
-Janssen-Cilag AB c/o Vistor hf. Sími: +354 535 7000 janssen@vistor.is
-
-## Italia
-
-Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
-
-## Κύπρος
-
-Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
-
-## Latvija
-
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
-
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111
+Janssen-Cilag B.V. Tel: 0800 242 42 42
 
-janssen@jacnl.jnj.com
+info\\_nl@its.jnj.com
 
 ## Norge
 
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+Janssen-Cilag AS
+
+Tlf: +47 24 12 65 00
+
+jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
 
 ## Polska
 
@@ -1704,19 +2007,71 @@ Tel.: +48 22 237 60 00
 
 ## Portugal
 
-Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
+Janssen-Cilag Farmacêutica, Lda.
+
+Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
+
+<div style=\"page-break-after: always\"></div>
+
+## Ireland
+
+Janssen Sciences Ireland UC
+
+Tel: 1 800 709 122
+
+medinfo@its.jnj.com
+
+## Ísland
+
+Janssen-Cilag AB
+
+c/o Vistor ehf.
+
+Sími: +354 535 7000
+
+janssen@vistor.is
+
+## Italia
+
+Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
+
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ
+
+Τηλ: +357 22 207 700
+
+## Latvija
+
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+
+Tel: +371 678 93561
+
+lv@its.jnj.com
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Slovenija
 
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 Janssen\\_safety\\_slo@its.jnj.com
+Johnson &amp; Johnson d.o.o.
+
+Tel: +386 1 401 18 00
+
+JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
-Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
 
 ## Suomi/Finland
 
@@ -1724,14 +2079,567 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
 ## Sverige
 
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+Janssen-Cilag AB Tfn: +46 8 626 50 00
 
-## United Kingdom (Northern Ireland)
+jacse@its.jnj.com
 
-Janssen Sciences Ireland UC Tel: +44 1 494 567 444 medinfo@its.jnj.com
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
+
+## Symtuza 675 mg/150 mg/200 mg/10 mg - film-coated tablets
+
+darunavir/cobicistat/emtricitabine/tenofovir alafenamide
+
+## Read all of this leaflet carefully before you or your child start taking this medicine because it contains important information for you.
+
+- Keep this leaflet. You or your child may need to read it again.
+- If you or your child have any further questions, ask your or your child's doctor, pharmacist or nurse.
+- This medicine has been prescribed for you or your child only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours or your child's.
+- If you get any side effects, talk to your or your child's doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- The information in this leaflet is for you or your child - but in this leaflet we usually just say you.
+
+## What is in this leaflet
+
+1. What Symtuza is and what it is used for
+2. What you need to know before you take Symtuza
+3. How to take Symtuza
+4. Possible side effects
+5. How to store Symtuza
+6. Contents of the pack and other information
+
+## 1. What Symtuza is and what it is used for
+
+Symtuza 675 mg darunavir/150 mg cobicistat/200 mg emtricitabine/10 mg tenofovir alafenamide is an antiretroviral medicine used to treat infection with human immunodeficiency virus 1 (HIV-1) in children aged 6 years and older who weigh at least 25 kg to less than 40 kg.
+
+Symtuza contains four active substances:
+
+-  darunavir, an anti-HIV medicine known as a protease inhibitor
+-  cobicistat, a booster (enhancer) of darunavir
+-  emtricitabine, an anti-HIV medicine known as a nucleoside reverse transcriptase inhibitor
+-  tenofovir alafenamide, an anti-HIV medicine known as a nucleotide reverse transcriptase inhibitor
+
+Symtuza reduces HIV-1 in your body and this will improve your immune system (your body's natural defences) and reduce the risk of developing illnesses linked to HIV infection but Symtuza is not a cure for HIV infection.
+
+## 2. What you need to know before you take Symtuza
+
+## Do not take Symtuza
+
+- if you are allergic (hypersensitive) to darunavir, cobicistat, emtricitabine, tenofovir alafenamide, or any of the other ingredients of Symtuza (listed in section 6).
+- if you have severe liver problems . Ask your doctor if you are unsure about the severity of your liver disease. Some additional tests might be necessary.
+
+Tell your doctor about all medicines you take including medicines taken orally, inhaled, injected or applied to the skin.
+
+## Do not combine Symtuza with any of the following medicines
+
+If you are taking any of these, ask your doctor about switching to another medicine.
+
+<div style=\"page-break-after: always\"></div>
+
+| Medicine                                                                               | Purpose of the medicine                                                                                                                                           |
+|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Alfuzosin                                                                              | to treat enlarged prostate                                                                                                                                        |
+| Amiodarone, dronedarone, ivabradine, quinidine, or ranolazine                          | to treat certain heart disorders ( e.g . abnormal heart rhythm)                                                                                                   |
+| Carbamazepine, phenobarbital and phenytoin                                             | to prevent seizures                                                                                                                                               |
+| Colchicine (if you have kidney/liver problems)                                         | to treat gout                                                                                                                                                     |
+| The combination product lopinavir/ritonavir                                            | anti-HIV medicine                                                                                                                                                 |
+| Rifampicin                                                                             | to treat some infections such as tuberculosis                                                                                                                     |
+| Pimozide , lurasidone, quetiapine or sertindole                                        | to treat psychiatric conditions                                                                                                                                   |
+| Ergot alkaloids like ergotamine , dihydroergotamine , ergometrine and methylergonovine | to treat migraine headaches                                                                                                                                       |
+| St. John's Wort (Hypericum perforatum)                                                 | a herbal product used for depression                                                                                                                              |
+| Elbasvir/grazoprevir                                                                   | to treat hepatitis C infection                                                                                                                                    |
+| Lovastatin, simvastatin and lomitapide                                                 | to lower cholesterol levels                                                                                                                                       |
+| Triazolam or midazolam (taken by mouth)                                                | to help you sleep and/or relieve anxiety                                                                                                                          |
+| Sildenafil                                                                             | to treat a heart and lung disorder called pulmonary arterial hypertension. There are other uses for sildenafil. Please see section 'Other medicines and Symtuza'. |
+| Avanafil                                                                               | to treat erectile dysfunction                                                                                                                                     |
+| Ticagrelor                                                                             | to help stop the clumping of platelets in the treatment of patients with a history of a heart attack                                                              |
+| Naloxegol                                                                              | to treat opioid induced constipation                                                                                                                              |
+| Dapoxetine                                                                             | to treat premature ejaculation                                                                                                                                    |
+| Domperidone                                                                            | to treat nausea and vomiting                                                                                                                                      |
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before taking Symtuza.
+
+People taking Symtuza may still develop infections or other illnesses associated with HIV infection. You must keep in regular contact with your doctor.
+
+People taking Symtuza may develop a skin rash. Infrequently a rash may become severe or potentially life-threatening. Please contact your doctor whenever you develop a rash.
+
+There is a possibility that you may experience kidney problems when taking Symtuza over a long period of time.
+
+Talk to your doctor before taking Symtuza. Tell your doctor immediately, if any of these apply to you.
+
+-  if you have had problems with your liver , including hepatitis B or C infection. Your doctor may evaluate how severe your liver disease is before deciding if you can take Symtuza.
+-  if you have hepatitis B infection, your liver problems may become worse after you stop taking Symtuza. It is important not to stop taking Symtuza without talking to your doctor first.
+-  if you have had kidney disease or if tests have shown problems with your kidneys , before or during treatment. Before starting treatment and during treatment with Symtuza, your doctor may order blood tests to monitor how your kidneys work. Your doctor will consider if Symtuza is the right medicine for you.
+-  if you have diabetes . Symtuza might increase sugar levels in the blood.
+-  if you notice any symptoms of infection (e.g . swollen lymph nodes and fever). In some patients with advanced HIV infection and who had unusual infections due to a weakened immune system (opportunistic infection), signs and symptoms of inflammation from previous infections may occur soon after you start HIV treatment. It is believed that these symptoms are due to an
+
+<div style=\"page-break-after: always\"></div>
+
+improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
+
+-  if you notice symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, tell your doctor immediately. In addition to the opportunistic infections, autoimmune disorders (when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection, due to an improvement in the body's immune response. Autoimmune disorders may occur many months after the start of treatment.
+-  if you have haemophilia . Symtuza might increase the risk of bleeding.
+-  if you are allergic to sulphonamides (e.g. used to treat certain infections).
+-  if you notice any muscle or bone problems . Some patients taking anti-HIV medicines may develop a bone disease called osteonecrosis (bone damage caused by loss of blood supply to the bone). This may be more likely with long-term HIV treatment, more severe damage to the immune system, being overweight, or the use of alcohol or medicines called corticosteroids. Signs of osteonecrosis are joint stiffness, aches and pains (especially of the hip, knee and shoulder) and difficulty in movement. If you notice any of these symptoms tell your doctor.
+
+## Elderly
+
+Symtuza has only been used in limited numbers of patients 65 years or older. If you belong to this age group, please discuss with your doctor if you can use Symtuza.
+
+## Children and adolescents This medicine is not for use in children younger than 6 years, or weighing less than 25 kg.
+
+Symtuza is also available as a 800 mg/150 mg/200 mg/10 mg tablet for children weighing at least 40 kg (see separate Package Leaflet for Symtuza 800 mg/150 mg/200 mg/10 mg film-coated tablets).
+
+## Other medicines and Symtuza
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
+
+There are some medicines that you must not combine with Symtuza. These are mentioned above under the heading 'Do not combine Symtuza with any of the following medicines'.
+
+Symtuza must not be used with another antiviral medicine that contains a booster or another antiviral that requires boosting. In some cases the dose of other medicines might need to be changed. Therefore, always tell your doctor if you take other anti-HIV medicines and follow your doctor's instruction carefully on which medicines can be combined.
+
+You should also not take Symtuza with medicines that contain tenofovir disoproxil (e.g. as fumarate, phosphate, or succinate), lamivudine or adefovir dipivoxil, or medicines that require boosting with ritonavir or cobicistat.
+
+The effects of Symtuza might be reduced if you take any of the following products. Tell your doctor if you take:
+
+- Bosentan (to treat high blood pressure in the pulmonary circulation)
+- Dexamethasone (injection) (corticosteroid)
+- Rifapentine, rifabutin (to treat bacterial infections)
+- Oxcarbazepine (to prevent seizures).
+
+The effects of other medicines might be influenced if you take Symtuza and your doctor might want to do some additional blood tests. Tell your doctor if you take:
+
+- Amlodipine, diltiazem, disopyramide, felodipine, flecainide, mexiletine, nicardipine, nifedipine, propafenone, lidocaine, verapamil (for heart disease) as the therapeutic effect or side effects of these medicines may be increased.
+- Bosentan (to treat high blood pressure in the pulmonary circulation)
+
+<div style=\"page-break-after: always\"></div>
+
+- Apixaban, dabigatran etexilate, edoxaban, rivaroxaban, warfarin, clopidogrel (to reduce clotting of the blood) as their therapeutic effect or side effects may be altered.
+- Clonazepam (to prevent seizures).
+- Oestrogen -based hormonal contraceptives and hormone replacement therapy. Symtuza might reduce its effectiveness. When used for birth control, non-hormonal contraception methods are recommended.
+- Ethinylestradiol/drospirenone . Symtuza might increase the risk for elevated potassium levels by drospirenone.
+- Corticosteroids including betamethasone, budesonide, fluticasone, mometasone, prednisone, triamcinolone . These medicines are used to treat allergies, asthma, inflammatory bowel diseases, inflammatory conditions of the skin, eyes, joints and muscles and other inflammatory conditions. These medicines are generally taken orally, inhaled, injected or applied to the skin. If alternatives cannot be used, its use should only take place after medical evaluation and under close monitoring by your doctor for corticosteroid side effects.
+- Buprenorphine/naloxone, methadone (medicines to treat opioid dependence)
+- Salmeterol (medicine to treat asthma)
+- Artemether/lumefantrine (a combination medicine to treat malaria)
+- Dasatinib, irinotecan, nilotinib, vinblastine, vincristine (medicines to treat cancer)
+- Sildenafil, tadalafil, vardenafil (for erectile dysfunction or to treat a heart and lung disorder called pulmonary arterial hypertension)
+- Glecaprevir/pibrentasvir (to treat hepatitis C virus infection).
+- Fentanyl, oxycodone, tramadol (to treat pain).
+- Fesoterodine, solifenacin (to treat urologic disorders).
+
+Your doctor might want to do some additional blood tests and the dose of other medicines might need to be changed since either their own or Symtuza's therapeutic effect or side effects may be influenced when combined. Tell your doctor if you take:
+
+- Dabigatran etexilate, edoxaban, warfarin (to reduce clotting of the blood)
+- Alfentanil (injectable, strong and short-acting, painkiller that is used for surgical procedures)
+- Carvedilol, metoprolol, timolol (for heart disease)
+- Digoxin (to treat certain heart disorders)
+- Clarithromycin (antibiotic)
+- Clotrimazole, fluconazole, isavuconazole, itraconazole, posaconazole (for treating fungal infections). Voriconazole should only be taken after medical evaluation.
+- Atorvastatin, fluvastatin, pitavastatin, pravastatin, rosuvastatin (to lower cholesterol levels). The risk of muscle damage might be increased. Your doctor will evaluate which cholesterol lowering regimen is best for your specific situation.
+- Rifabutin (against bacterial infections)
+- Tadalafil, sildenafil, vardenafil (for erectile dysfunction or high blood pressure in the pulmonary circulation)
+- Amitriptyline, desipramine, imipramine, nortriptyline, paroxetine, sertraline, trazodone (to treat depression and anxiety)
+- Perphenazine, risperidone, thioridazine (psychiatric medicines)
+- Ciclosporin, everolimus, tacrolimus, sirolimus (for dampening down your immune system) as the therapeutic effect or side effects of these medicines might be increased.
+- Colchicine (antigout). If you have kidney or liver problems see section 'Do not combine Symtuza with any of the following medicines'.
+- Buspirone, clorazepate, diazepam, estazolam, flurazepam, zolpidem, midazolam when used as an injection (medicines to treat trouble with sleeping or anxiety)
+- Metformin (to treat type 2 diabetes)
+
+This is not a complete list of medicines. Tell your healthcare provider about all medicines that you are taking.
+
+## Pregnancy and breast-feeding
+
+Tell your doctor immediately if you are pregnant or planning to become pregnant. Pregnant women should not take Symtuza.
+
+<div style=\"page-break-after: always\"></div>
+
+Because of the potential for side effects in breast-fed infants, women should not breast-feed if they are receiving Symtuza.
+
+Breast-feeding is not recommended in women living with HIV because HIV infection can be passed on to the baby in breast milk. If you are breast-feeding, or thinking about breast-feeding, you should discuss it with your doctor as soon as possible.
+
+## Driving and using machines
+
+Symtuza can cause dizziness. Do not operate machines or drive if you feel dizzy after taking Symtuza.
+
+## Symtuza contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+
+## 3. How to take Symtuza
+
+Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
+
+The recommended dose for children 6 years of age and older, who weigh at least 25 kg to less than 40 kg is one tablet each day with food.
+
+You must take Symtuza every day and always with food . You must eat a meal or a snack within 30 minutes before taking your Symtuza. The type of food is not important.
+
+-  The tablet should not be crushed, but swallowed whole. The tablet can be taken with a drink such as water, milk or any nutritional drink. Take Symtuza at around the same time each day.
+-  If you have difficulty swallowing Symtuza, tell your doctor. The scored tablet can be split by hand into 2 pieces. The score line is only there to help you break the tablet. After splitting the tablet, the entire dose (both pieces) should be swallowed right away to get the full dose.
+
+## Removing the child resistant cap
+
+<!-- image -->
+
+The plastic bottle comes with a child resistant cap and must be opened as follows:
+
+-  Push the plastic screw cap down while turning it counter clockwise.
+-  Remove the unscrewed cap.
+
+## If you take more Symtuza than you should
+
+Contact your doctor or nearest emergency department immediately for advice. Keep the tablet bottle with you so that you can show what you have taken.
+
+## If you forget to take Symtuza
+
+It is important not to miss a dose of Symtuza.
+
+If you do miss a dose:
+
+-  If you notice within 12 hours of the time you usually take Symtuza, you must take the tablet immediately, with food. Then take the next dose at your usual time.
+-  If you notice 12 hours or more after the time you usually take Symtuza, then do not take the missed dose and take the next doses with food at your usual time. Do not take a double dose to make up for a forgotten dose.
+
+<div style=\"page-break-after: always\"></div>
+
+If you vomit within 1 hour of taking the medicine, another dose of Symtuza should be taken with food as soon as possible. If you vomit more than 1 hour after taking the medicine, then you do not need to take another dose of Symtuza until the next regularly scheduled time.
+
+Contact your doctor if you are uncertain about what to do if you miss a dose or vomit.
+
+## Do not stop taking Symtuza without talking to your doctor first
+
+Anti-HIV medicines may make you feel better. Even when you feel better, do not stop taking Symtuza. Talk to your doctor first.
+
+When your supply of Symtuza starts to run low, get more from your doctor or pharmacist. This is very important because the amount of virus may start to increase if the medicine is stopped for even a short time. The disease may then become harder to treat.
+
+If you have both HIV infection and hepatitis B, it is very important not to stop taking Symtuza without talking to your doctor first. You may require blood tests for several months after stopping treatment with Symtuza. In some patients with advanced liver disease or cirrhosis, stopping treatment may lead to worsening of hepatitis, which may be life-threatening.
+
+Tell your doctor immediately about new or unusual symptoms after you stop treatment, particularly symptoms you associate with hepatitis B infection.
+
+If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Tell your doctor if you develop any of the following side effects.
+
+Liver problems that may occasionally be severe have been reported. Your doctor should do blood tests before you start Symtuza. If you have chronic hepatitis B or C infection, your doctor should check your blood tests more often because you have an increased chance of developing liver problems. Talk to your doctor about the signs and symptoms of liver problems. These may include yellowing of your skin or whites of your eyes, dark (tea coloured) urine, pale-coloured stools (bowel movements), nausea, vomiting, loss of appetite, or pain, aching, or pain and discomfort on your right side below your ribs.
+
+Skin rash may affect more than 1 in 10 patients receiving Symtuza. Although most rashes are mild and disappear after a while as treatment is continued, a rash can occasionally be severe or potentially life-threatening. It is important to talk to your doctor if you develop a rash. Your doctor will advise you how to deal with your symptoms or whether Symtuza must be stopped.
+
+Other severe side effects, seen up to 1 patient in 10, were diabetes, increased blood fat levels and symptoms of infection. Inflammation of the pancreas (pancreatitis) has been reported in up to 1 patient in 100.
+
+Very common side effects (may affect more than 1 in 10 people)
+
+-  headache
+-  diarrhoea
+-  rash
+
+Common side effects (may affect up to 1 in 10 people)
+
+-  low red blood cell count (anaemia)
+-  allergic reactions such as nettle rash (urticaria), itching
+-  decreased appetite (anorexia)
+-  abnormal dreams
+-  vomiting, pain or swelling of the belly, indigestion, flatulence (wind)
+
+<div style=\"page-break-after: always\"></div>
+
+-  abnormal blood test results such as some tests for your kidney. Your doctor will explain these to you.
+-  dizziness
+-  joint pain
+-  muscle pain, muscle cramps or weakness
+-  weakness
+-  tiredness (fatigue)
+-  feeling sick (nausea)
+
+Uncommon side effects (may affect up to 1 in 100 people)
+
+-  severe swelling of the skin and other tissues (most often the lips or the eyes)
+-  symptoms of infection or of autoimmune disorders (immune reconstitution inflammatory syndrome)
+-  enlargement of breasts
+-  osteonecrosis (bone damage caused by loss of blood supply to the bone)
+-  abnormal blood test results such as some tests for your pancreas. Your doctor will explain these to you.
+
+Rare side effects (may affect up to 1 in 1 000 people)
+
+-  a reaction called DRESS [severe rash, which may be accompanied by fever, fatigue, swelling of the face or lymph glands, increase of eosinophils (type of white blood cells), effects on liver, kidney or lung]
+-  severe rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens-Johnson syndrome)
+-  darunavir crystals in the kidney causing kidney disease
+
+Side effects with unknown frequency: a rash may become severe or potentially life-threatening:
+
+-  rash with blisters and peeling skin over much of the body
+-  red rash covered with small pus-filled bumps that can spread over the body, sometimes with a fever
+
+Some side effects are typical for anti-HIV medicines similar to Symtuza. These are:
+
+- raised blood sugar and worsening of diabetes
+- muscle pain, tenderness or weakness. On rare occasions, these muscle disorders have been serious
+- immune reconstitution inflammatory syndrome. In some patients with advanced HIV infection (AIDS) and a history of opportunistic infection (unusual infections due to a weakened immune system), signs and symptoms of inflammation from previous infections may occur soon after HIV treatment is started, including Symtuza. In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment.
+
+## If you notice any of these symptoms tell your doctor.
+
+During HIV therapy there may be an increase in weight and in levels of blood lipids and glucose. This is partly linked to restored health and life style, and in the case of blood lipids sometimes to the HIV medicines themselves. Your doctor will test for these changes.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
+
+## 5. How to store Symtuza
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the carton and on the bottle after 'EXP'. The expiry date refers to the last day of that month.
+
+Store below 25 °C.
+
+After first opening of the bottle: Store below 25 °C.
+
+Do not use this medicine after 6 weeks of first opening the bottle.
+
+Store in the original package in order to protect from moisture. Keep the bottle tightly closed.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Symtuza contains
+
+The active substances are darunavir, cobicistat, emtricitabine, and tenofovir alafenamide. Each film-coated tablet (tablet) contains 675 mg darunavir (as ethanolate), 150 mg cobicistat, 200 mg emtricitabine, and 10 mg tenofovir alafenamide (as fumarate).
+
+## The other ingredients are
+
+Tablet core:
+
+The tablet core contains colloidal silicon dioxide (E551), croscarmellose sodium (E468), magnesium stearate (E572), and microcrystalline cellulose (E460(i)) (please refer to section 2 'Symtuza contains sodium').
+
+## Film coating:
+
+The film-coating contains macrogol (polyethylene glycol), polyvinyl alcohol (partially hydrolysed), talc (E553b), titanium dioxide (E171) and iron oxide black (E172).
+
+## What Symtuza looks like and contents of the pack
+
+Bluish grey to grey, oval-shaped, scored film-coated tablet, mentioning '6121' on one side and 'JG' on the other side.
+
+Symtuza comes in bottles of 30 tablets (with a silica gel desiccant that must be kept in the bottle to help protect your tablets). The silica gel desiccant is contained in a separate sachet or canister and should not be swallowed.
+
+The Symtuza tablets are available in packs containing one bottle.
+
+## Marketing Authorisation Holder
+
+Janssen-Cilag International NV, Turnhoutseweg 30, B-2340 Beerse, Belgium
+
+## Manufacturer
+
+Janssen Pharmaceutica, NV, Turnhoutseweg 30, B-2340 Beerse, Belgium For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+<div style=\"page-break-after: always\"></div>
+
+## België/Belgique/Belgien
+
+Janssen-Cilag NV
+
+Tel/Tél: 0800 93 377
+
+info\\_belux@its.jnj.com
+
+## България
+
+'Джонсън &amp; Джонсън България' ЕООД
+
+Тел.: +359 2 489 94 00
+
+jjsafety@its.jnj.com
+
+## Česká republika
+
+Janssen-Cilag s.r.o.
+
+Tel: +420 227 012 227
+
+## Danmark
+
+Janssen-Cilag A/S
+
+Tlf.: +45 4594 8282
+
+jacdk@its.jnj.com
+
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+
+## Eesti
+
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
+
+Tel: +372 617 7410
+
+ee@its.jnj.com
+
+## Ελλάδα
+
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε.
+
+Tηλ: +30 210 80 90 000
+
+## España
+
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
+
+## France
+
+Janssen-Cilag
+
+Tél: 0 800 25 50 75 / +33 1 55 00 40 03
+
+medisource@its.jnj.com
+
+## Hrvatska
+
+Johnson &amp; Johnson S.E. d.o.o.
+
+Tel: +385 1 6610 700
+
+jjsafety@JNJCR.JNJ.com
+
+## Lietuva
+
+UAB \"JOHNSON &amp; JOHNSON\"
+
+Tel: +370 5 278 68 88
+
+lt@its.jnj.com
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV
+
+Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
+
+## Magyarország
+
+Janssen-Cilag Kft.
+
+Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
+
+## Malta
+
+AM MANGION LTD
+
+Tel: +356 2397 6000
+
+## Nederland
+
+Janssen-Cilag B.V. Tel: 0800 242 42 42
+
+info\\_nl@its.jnj.com
+
+## Norge
+
+Janssen-Cilag AS
+
+Tlf: +47 24 12 65 00
+
+jacno@its.jnj.com
+
+## Österreich
+
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
+
+## Polska
+
+Janssen-Cilag Polska Sp. z o.o.
+
+Tel.: +48 22 237 60 00
+
+## Portugal
+
+Janssen-Cilag Farmacêutica, Lda.
+
+Tel: +351 214 368 600
+
+## România
+
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
+
+## Ireland
+
+Janssen Sciences Ireland UC
+
+Tel: 1 800 709 122
+
+medinfo@its.jnj.com
+
+## Ísland
+
+Janssen-Cilag AB
+
+c/o Vistor ehf.
+
+Sími: +354 535 7000
+
+janssen@vistor.is
+
+## Italia
+
+Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
+
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ
+
+Τηλ: +357 22 207 700
+
+## Latvija
+
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+
+Tel: +371 678 93561
+
+lv@its.jnj.com
+
+## Slovenija
+
+Johnson &amp; Johnson d.o.o.
+
+Tel: +386 1 401 18 00
+
+JNJ-SI-safety@its.jnj.com
+
+## Slovenská republika
+
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
+
+## Suomi/Finland
+
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+
+## Sverige
+
+Janssen-Cilag AB Tfn: +46 8 626 50 00
+
+jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-06 17:25:00
+document_datetime: 2026-09-14 15:47:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abrysvo.html
 document_name: abrysvo.html
 version: success
-processing_time: 0.1198076
-conversion_datetime: 2026-08-07 13:58:22.910671
+processing_time: 0.1722104
+conversion_datetime: 2026-09-17 20:48:57.389704
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Abrysvo
 
@@ -110,7 +110,7 @@ English (EN) (122.7 KB - PDF)
 
 [View](/en/documents/overview/abrysvo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-864)
+[Other languages (22)](#file-language-dropdown-769)
 
 български (BG) (156.07 KB - PDF)
 
@@ -256,167 +256,167 @@ English (EN) (1.71 MB - PDF)
 
 Abrysvo : EPAR - Product Information
 
-English (EN) (532.05 KB - PDF)
+English (EN) (550.02 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/en/documents/product-information/abrysvo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-742)
+[Other languages (24)](#file-language-dropdown-416)
 
-български (BG) (662.15 KB - PDF)
+български (BG) (579.53 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/bg/documents/product-information/abrysvo-epar-product-information_bg.pdf)
 
-español (ES) (539.31 KB - PDF)
+español (ES) (496.81 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/es/documents/product-information/abrysvo-epar-product-information_es.pdf)
 
-čeština (CS) (531.4 KB - PDF)
+čeština (CS) (605.5 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/cs/documents/product-information/abrysvo-epar-product-information_cs.pdf)
 
-dansk (DA) (475.74 KB - PDF)
+dansk (DA) (472.8 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/da/documents/product-information/abrysvo-epar-product-information_da.pdf)
 
-Deutsch (DE) (572.91 KB - PDF)
+Deutsch (DE) (494.02 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/de/documents/product-information/abrysvo-epar-product-information_de.pdf)
 
-eesti (ET) (503.51 KB - PDF)
+eesti (ET) (578.33 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/et/documents/product-information/abrysvo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (550.07 KB - PDF)
+ελληνικά (EL) (547.23 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/el/documents/product-information/abrysvo-epar-product-information_el.pdf)
 
-français (FR) (595.06 KB - PDF)
+français (FR) (522.11 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/fr/documents/product-information/abrysvo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (531.3 KB - PDF)
+hrvatski (HR) (639.44 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/hr/documents/product-information/abrysvo-epar-product-information_hr.pdf)
 
-italiano (IT) (540.6 KB - PDF)
+italiano (IT) (460.51 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/it/documents/product-information/abrysvo-epar-product-information_it.pdf)
 
-latviešu (LV) (538.4 KB - PDF)
+latviešu (LV) (618.76 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/lv/documents/product-information/abrysvo-epar-product-information_lv.pdf)
 
-lietuvių (LT) (521.67 KB - PDF)
+lietuvių (LT) (527.85 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/lt/documents/product-information/abrysvo-epar-product-information_lt.pdf)
 
-magyar (HU) (562.79 KB - PDF)
+magyar (HU) (591.68 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/hu/documents/product-information/abrysvo-epar-product-information_hu.pdf)
 
-Malti (MT) (676.8 KB - PDF)
+Malti (MT) (592.81 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/mt/documents/product-information/abrysvo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (552.07 KB - PDF)
+Nederlands (NL) (515.3 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/nl/documents/product-information/abrysvo-epar-product-information_nl.pdf)
 
-polski (PL) (623.21 KB - PDF)
+polski (PL) (575.94 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/pl/documents/product-information/abrysvo-epar-product-information_pl.pdf)
 
-português (PT) (464.74 KB - PDF)
+português (PT) (538.99 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/pt/documents/product-information/abrysvo-epar-product-information_pt.pdf)
 
-română (RO) (595.31 KB - PDF)
+română (RO) (592.05 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/ro/documents/product-information/abrysvo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (559.48 KB - PDF)
+slovenčina (SK) (632.84 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/sk/documents/product-information/abrysvo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (560.68 KB - PDF)
+slovenščina (SL) (720.89 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/sl/documents/product-information/abrysvo-epar-product-information_sl.pdf)
 
-suomi (FI) (476.25 KB - PDF)
+suomi (FI) (472.72 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/fi/documents/product-information/abrysvo-epar-product-information_fi.pdf)
 
-svenska (SV) (471.15 KB - PDF)
+svenska (SV) (544.21 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/sv/documents/product-information/abrysvo-epar-product-information_sv.pdf)
 
-Íslenska (IS) (542.79 KB - PDF)
+Íslenska (IS) (538.18 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/is/documents/product-information/abrysvo-epar-product-information_is.pdf)
 
-norsk (NO) (563.06 KB - PDF)
+norsk (NO) (506.87 KB - PDF)
 
-**First published:** 15/09/2023 **Last updated:** 06/08/2026
+**First published:** 15/09/2023 **Last updated:** 14/09/2026
 
 [View](/no/documents/product-information/abrysvo-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000343800
+**Latest procedure affecting product information:** VR/0000367564
 
-16/07/2026
+14/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -435,7 +435,7 @@ English (EN) (63.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abrysvo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-191)
+[Other languages (24)](#file-language-dropdown-399)
 
 български (BG) (66.87 KB - PDF)
 
@@ -622,7 +622,7 @@ The use of this vaccine should be in accordance with official recommendations.
 - **Marketing authorisation issued**
     - 23/08/2023
 - **Revision**
-    - 16
+    - 17
 
 ## Assessment history
 
@@ -634,9 +634,9 @@ Collapse section
 
 Abrysvo : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (210.55 KB - PDF)
+English (EN) (209.11 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 06/08/2026
+**First published:** 20/08/2025 **Last updated:** 14/09/2026
 
 [View](/en/documents/procedural-steps-after/abrysvo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -738,8 +738,10 @@ English (EN) (117.29 KB - PDF)
 
 - [EMA/PE/0000229144 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000229144)
 - [Maternal Outcomes following RSVpreF Vaccination during prEgnancy (MORE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000923)
-- [A Study to Evaluate the Vaccine Effectiveness of Abrysvo® for Preventing RSV Hospitalizations in Adults Aged 60 Years or Above (Complementary Study to DAN-RSV) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000480)
+- [A Post-Marketing Safety Study to Evaluate the Safety of Respiratory Syncytial Virus Vaccine (ABRYSVO™) Exposure During Pregnancy in an Integrated Healthcare System in the United States (C3671042) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001074)
 - [A Post-Authorisation Safety Study (PASS) of ABRYSVO (Respiratory Syncytial Virus Stabilised Prefusion Subunit Vaccine) in Pregnant Women and their Offspring in a Real World Setting in Europe and UK (C3671026) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000399)
+- [A Rapid Surveillance and Cohort Post-Marketing Safety Study to Evaluate the Safety of Respiratory Syncytial Virus Vaccine (ABRYSVO™) Exposure During Pregnancy in the United States (C3671027) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000115)
+- [A Study to Evaluate the Vaccine Effectiveness of Abrysvo® for Preventing RSV Hospitalizations in Adults Aged 60 Years or Above (Complementary Study to DAN-RSV) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000480)
 - [A Post-Marketing Near Real-Time Safety Surveillance of Respiratory Syncytial Virus Vaccine for Guillain-Barre Syndrome (GBS) among Older Adults in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000267)
 - [Observational Cohort Study Evaluating Real-World ABRYSVO Vaccine Effectiveness and Impact Against Medically-Attended RSV-related and All-Cause Outcomes Among Infants Born to Individuals Vaccinated During Pregnancy - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000295)
 - [A Post-Marketing Safety Study using a Pregnancy Registry to Evaluate the Safety of Respiratory Syncytial Virus Vaccine (ABRYSVO™) Exposure During Pregnancy (C3671041) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000179)
@@ -748,7 +750,6 @@ English (EN) (117.29 KB - PDF)
 - [id.DRIVE study of brand-specific respiratory syncytial virus (RSV) vaccine effectiveness in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000035)
 - [Effectiveness of ABRYSVO® maternal respiratory syncytial virus (RSV) vaccine against RSV in infants in Western Pennsylvania (CASSATT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000389)
 - [STudy of Real world vaccinE Effectiveness of maTernal RSVpreF vaccinatiON against respiratory syncytial virus (RSV) in hospitalised infants in Australia (STREETON) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000598)
-- [A Rapid Surveillance and Cohort Post-Marketing Safety Study to Evaluate the Safety of Respiratory Syncytial Virus Vaccine (ABRYSVO™) Exposure During Pregnancy in the United States (C3671027) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000115)
 - [A post-authorisation safety study of ABRYSVO in immunocompromised, or renally or hepatically impaired adults aged 60 years and older in a real world setting in Europe and UK (C3671038) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000400)
 - [Effectiveness and immunogenicity of respiratory syncytial virus vaccine (RSVpreF from Pfizer) for pregnant persons: A living systematic review and meta-analysis - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000713)
 - [A Post-Authorization Safety Study of Atrial Fibrillation Following Respiratory Syncytial Virus Vaccine (ABRYSVOTM) Among Older Adults in the Veterans Affairs Health System (C3671037) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000290)
@@ -758,6 +759,6 @@ English (EN) (117.29 KB - PDF)
 
 **This page was last updated on**
 
-06/08/2026
+14/09/2026
 
 ## Share this page

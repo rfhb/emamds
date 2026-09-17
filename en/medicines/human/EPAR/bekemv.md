@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-15 15:05:00
+document_datetime: 2026-09-15 15:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bekemv.html
 document_name: bekemv.html
 version: success
-processing_time: 0.1164752
-conversion_datetime: 2026-01-17 13:43:13.653033
+processing_time: 0.126408
+conversion_datetime: 2026-09-17 20:49:12.98441
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Bekemv
 
 [RSS](/en/individual-human-medicine.xml/67664)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-eculizumab Medicine Human Authorised
+eculizumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -45,7 +47,7 @@ Page contents
 
 Bekemv is a medicine used to treat adults and children with paroxysmal nocturnal haemoglobinuria (PNH), a disease in which excessive breakdown of blood cells results in anaemia (low levels of red blood cells), thrombosis (blood clots in blood vessels), pancytopenia (low levels of blood cells) and dark urine.
 
-Bekemv is a 'biosimilar medicine'. This means that Bekemv is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Bekemv is Soliris. For more information on biosimilar medicines, see [here](/en/biosimilar-medicines-overview) .
+Bekemv is a 'biosimilar medicine'. This means that Bekemv is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Bekemv is Soliris.
 
 Bekemv contains the active substance eculizumab.
 
@@ -53,7 +55,7 @@ Expand section
 
 Collapse section
 
-## How is Bekemv used?
+### How is Bekemv used?
 
 The medicine can only be obtained with a prescription and should be given by a healthcare professional and under the supervision of a doctor familiar with blood diseases.
 
@@ -65,13 +67,13 @@ Bekemv should be given for life unless the patient develops serious side effects
 
 For more information about using Bekemv, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Bekemv work?
+### How does Bekemv work?
 
 The complement system is a set of proteins that is part of the immune system (the body's natural defences). In patients with PNH, the complement system is over-active and damages the patients' own blood cells.
 
 The active substance in Bekemv, eculizumab, is an antibody (a type of protein) designed to attach to the C5 protein of the complement system. By blocking C5, eculizumab prevents the complement system from damaging cells, thereby helping to relieve the symptoms of the disease.
 
-## What benefits of Bekemv have been shown in studies?
+### What benefits of Bekemv have been shown in studies?
 
 Laboratory studies comparing Bekemv with Soliris have shown that the active substance in Bekemv is highly similar to that in Soliris in terms of structure, purity and biological activity. Studies have also shown that giving Bekemv produces similar levels of the active substance in the body to giving Soliris.
 
@@ -79,7 +81,7 @@ In addition, a study involving 42 patients with PNH showed that Bekemv and the r
 
 Because Bekemv is a biosimilar medicine, the studies on effectiveness and safety of eculizumab carried out with Soliris do not all need to be repeated for Bekemv.
 
-## What are the risks associated with Bekemv?
+### What are the risks associated with Bekemv?
 
 The safety of Bekemv has been evaluated, and based on all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Soliris.
 
@@ -89,13 +91,13 @@ The most common side effect with Bekemv (which may affect more than 1 in 10 peop
 
 Bekemv must not be given to children below 2 years of age, and to patients with a hereditary fructose intolerance (HFI, inherited inability to digest fructose (fruit sugar)). It must also not be given to patients who have an ongoing infection by the bacteria *Neisseria meningitidis,* or those who are not currently vaccinated against it unless they receive antibiotics to prevent infection until 2 weeks after vaccination.
 
-## Why is Bekemv authorised in the EU?
+### Why is Bekemv authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Bekemv has a highly similar structure, purity and biological activity to Soliris and is distributed in the body in the same way. In addition, studies in patients with PNH have shown that the safety and effectiveness of Bekemv is equivalent to that of Soliris.
 
 All these data were considered sufficient to conclude that Bekemv will behave in the same way as Soliris in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Soliris, the benefits of Bekemv outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Bekemv?
+### What measures are being taken to ensure the safe and effective use of Bekemv?
 
 The company that markets Bekemv will ensure that the distribution of the medicine occurs only after checking that the patient has been vaccinated appropriately and will send reminders to prescribers or pharmacists to check the vaccination status of patients.
 
@@ -105,7 +107,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Bekemv are continuously monitored. Suspected side effects reported with Bekemv are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Bekemv
+### Other information about Bekemv
 
 Bekemv received a marketing authorisation valid throughout the EU on 19 April 2023.
 
@@ -119,173 +121,131 @@ English (EN) (113.32 KB - PDF)
 
 [View](/en/documents/overview/bekemv-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-295)
+[Other languages (21)](#file-language-dropdown-713)
 
 български (BG) (138.02 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/bg/documents/overview/bekemv-epar-medicine-overview_bg.pdf)
 
 español (ES) (112.49 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/es/documents/overview/bekemv-epar-medicine-overview_es.pdf)
 
 čeština (CS) (136.16 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/cs/documents/overview/bekemv-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (112.32 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/da/documents/overview/bekemv-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (115.92 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/de/documents/overview/bekemv-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (109.76 KB - PDF)
+eesti (ET) (109.76 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/et/documents/overview/bekemv-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (136.95 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/el/documents/overview/bekemv-epar-medicine-overview_el.pdf)
 
 français (FR) (113.61 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/fr/documents/overview/bekemv-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (133.42 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/hr/documents/overview/bekemv-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (111.37 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/it/documents/overview/bekemv-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (141.85 KB - PDF)
+latviešu (LV) (141.85 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/lv/documents/overview/bekemv-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (133.08 KB - PDF)
+lietuvių (LT) (133.08 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/lt/documents/overview/bekemv-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (134.15 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/hu/documents/overview/bekemv-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (135.84 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/mt/documents/overview/bekemv-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (113.31 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/nl/documents/overview/bekemv-epar-medicine-overview_nl.pdf)
 
 português (PT) (113.17 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/pt/documents/overview/bekemv-epar-medicine-overview_pt.pdf)
 
 română (RO) (132.3 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/ro/documents/overview/bekemv-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (135.85 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/sk/documents/overview/bekemv-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (132.43 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/sl/documents/overview/bekemv-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (109.91 KB - PDF)
+suomi (FI) (109.91 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/fi/documents/overview/bekemv-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (111.55 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/sv/documents/overview/bekemv-epar-medicine-overview_sv.pdf)
 
@@ -293,9 +253,7 @@ Bekemv : EPAR - Risk management plan summary
 
 English (EN) (991.4 KB - PDF)
 
-**First published:** 15/05/2023
-
-**Last updated:** 22/10/2025
+**First published:** 15/05/2023 **Last updated:** 22/10/2025
 
 [View](/en/documents/rmp-summary/bekemv-epar-risk-management-plan-summary_en.pdf)
 
@@ -303,311 +261,168 @@ English (EN) (991.4 KB - PDF)
 
 Bekemv : EPAR - Product Information
 
-English (EN) (539.26 KB - PDF)
+English (EN) (523.14 KB - PDF)
 
-**First published:** 15/05/2023
-
-**Last updated:** 15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/09/2026
 
 [View](/en/documents/product-information/bekemv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-590)
+[Other languages (24)](#file-language-dropdown-32)
 
-български (BG) (711.45 KB - PDF)
+български (BG) (732.76 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/bg/documents/product-information/bekemv-epar-product-information_bg.pdf)
 
-español (ES) (649 KB - PDF)
+español (ES) (628.67 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/es/documents/product-information/bekemv-epar-product-information_es.pdf)
 
-čeština (CS) (651.89 KB - PDF)
+čeština (CS) (634.85 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/cs/documents/product-information/bekemv-epar-product-information_cs.pdf)
 
-dansk (DA) (673.47 KB - PDF)
+dansk (DA) (738.35 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/da/documents/product-information/bekemv-epar-product-information_da.pdf)
 
-Deutsch (DE) (705.4 KB - PDF)
+Deutsch (DE) (777.04 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/de/documents/product-information/bekemv-epar-product-information_de.pdf)
 
-eesti keel (ET) (634.05 KB - PDF)
+eesti (ET) (609.18 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/et/documents/product-information/bekemv-epar-product-information_et.pdf)
 
-ελληνικά (EL) (722.5 KB - PDF)
+ελληνικά (EL) (796.87 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/el/documents/product-information/bekemv-epar-product-information_el.pdf)
 
-français (FR) (684.61 KB - PDF)
+français (FR) (714.35 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/fr/documents/product-information/bekemv-epar-product-information_fr.pdf)
 
-hrvatski (HR) (667.17 KB - PDF)
+hrvatski (HR) (631.06 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/hr/documents/product-information/bekemv-epar-product-information_hr.pdf)
 
-íslenska (IS) (580.95 KB - PDF)
+italiano (IT) (610.21 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
-
-[View](/is/documents/product-information/bekemv-epar-product-information_is.pdf)
-
-italiano (IT) (628.03 KB - PDF)
-
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/it/documents/product-information/bekemv-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (691.17 KB - PDF)
+latviešu (LV) (714.94 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/lv/documents/product-information/bekemv-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (679.28 KB - PDF)
+lietuvių (LT) (701.21 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/lt/documents/product-information/bekemv-epar-product-information_lt.pdf)
 
-magyar (HU) (664.6 KB - PDF)
+magyar (HU) (647.78 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/hu/documents/product-information/bekemv-epar-product-information_hu.pdf)
 
-Malti (MT) (766.82 KB - PDF)
+Malti (MT) (829.43 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/mt/documents/product-information/bekemv-epar-product-information_mt.pdf)
 
-Nederlands (NL) (635.61 KB - PDF)
+Nederlands (NL) (658.37 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/nl/documents/product-information/bekemv-epar-product-information_nl.pdf)
 
-norsk (NO) (639.57 KB - PDF)
+polski (PL) (709.55 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
-
-[View](/no/documents/product-information/bekemv-epar-product-information_no.pdf)
-
-polski (PL) (686.58 KB - PDF)
-
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/pl/documents/product-information/bekemv-epar-product-information_pl.pdf)
 
-português (PT) (707.92 KB - PDF)
+português (PT) (715.3 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/pt/documents/product-information/bekemv-epar-product-information_pt.pdf)
 
-română (RO) (675.74 KB - PDF)
+română (RO) (674.78 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/ro/documents/product-information/bekemv-epar-product-information_ro.pdf)
 
-slovenčina (SK) (734.14 KB - PDF)
+slovenčina (SK) (717.35 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/09/2026
 
 [View](/sk/documents/product-information/bekemv-epar-product-information_sk.pdf)
 
-slovenščina (SL) (594.56 KB - PDF)
+slovenščina (SL) (642.44 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/09/2026
 
 [View](/sl/documents/product-information/bekemv-epar-product-information_sl.pdf)
 
-Suomi (FI) (642.91 KB - PDF)
+suomi (FI) (713.82 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
 
 [View](/fi/documents/product-information/bekemv-epar-product-information_fi.pdf)
 
-svenska (SV) (658.5 KB - PDF)
+svenska (SV) (662.86 KB - PDF)
 
-**First published:**
-
-15/05/2023
-
-**Last updated:**
-
-15/01/2026
+**First published:** 15/05/2023 **Last updated:** 15/09/2026
 
 [View](/sv/documents/product-information/bekemv-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000322712 15/01/2026
+Íslenska (IS) (571.38 KB - PDF)
+
+**First published:** 15/05/2023 **Last updated:** 15/09/2026
+
+[View](/is/documents/product-information/bekemv-epar-product-information_is.pdf)
+
+norsk (NO) (661.34 KB - PDF)
+
+**First published:** 15/05/2023 **Last updated:** 15/01/2026
+
+[View](/no/documents/product-information/bekemv-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** T/0000363352
+
+28/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -625,203 +440,164 @@ English (EN) (39.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-508)
+[Other languages (24)](#file-language-dropdown-312)
 
 български (BG) (50.39 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/bg/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (43.45 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/es/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (47.72 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/cs/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (42.2 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/da/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (46.51 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/de/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (37.13 KB - PDF)
+eesti (ET) (37.13 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/et/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (46.62 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/el/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (43.9 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/fr/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (41.22 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/hr/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (45.09 KB - PDF)
-
-**First published:**
-
-15/05/2023
-
-[View](/is/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (43.5 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/it/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (42.43 KB - PDF)
+latviešu (LV) (42.43 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/lv/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (41.85 KB - PDF)
+lietuvių (LT) (41.85 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/lt/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (45.6 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/hu/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (46.79 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/mt/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (43.37 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/nl/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (45.66 KB - PDF)
-
-**First published:**
-
-15/05/2023
-
-[View](/no/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (48.15 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/pl/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (44.82 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/pt/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (45.72 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/ro/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (43.65 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/sk/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (43.91 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/sl/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (42.12 KB - PDF)
+suomi (FI) (42.12 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/fi/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (44.14 KB - PDF)
 
-**First published:**
-
-15/05/2023
+**First published:** 15/05/2023
 
 [View](/sv/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (45.09 KB - PDF)
+
+**First published:** 15/05/2023
+
+[View](/is/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (45.66 KB - PDF)
+
+**First published:** 15/05/2023
+
+[View](/no/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Bekemv Active substance Eculizumab International non-proprietary name (INN) or common name eculizumab Therapeutic area (MeSH) Hemoglobinuria, Paroxysmal Anatomical therapeutic chemical (ATC) code L04AJ01
+- **Name of medicine**
+    - Bekemv
+- **Active substance**
+    - Eculizumab
+- **International non-proprietary name (INN) or common name**
+    - eculizumab
+- **Therapeutic area (MeSH)**
+    - Hemoglobinuria, Paroxysmal
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AJ01
 
 ### Pharmacotherapeutic group
 
@@ -833,19 +609,18 @@ Bekemv is indicated in adults and children for the treatment of paroxysmal noctu
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005652
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Amgen Technology (Ireland) UC
-
-Pottery Road
-
-Opinion adopted 23/02/2023 Marketing authorisation issued 19/04/2023 Revision 6
+- **EMA product number**
+    - EMEA/H/C/005652
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Amgen Europe B.V. Minervum 7061  NL-4817 ZK Breda  The Netherlands
+- **Opinion adopted**
+    - 23/02/2023
+- **Marketing authorisation issued**
+    - 19/04/2023
+- **Revision**
+    - 7
 
 ## Assessment history
 
@@ -853,15 +628,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Bekemv : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (156.18 KB - PDF)
+English (EN) (160.04 KB - PDF)
 
-**First published:** 02/05/2025
-
-**Last updated:** 15/01/2026
+**First published:** 02/05/2025 **Last updated:** 15/09/2026
 
 [View](/en/documents/procedural-steps-after/bekemv-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -869,19 +642,15 @@ Bekemv : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (136.4 KB - PDF)
 
-**First published:** 06/07/2023
-
-**Last updated:** 02/05/2025
+**First published:** 06/07/2023 **Last updated:** 02/05/2025
 
 [View](/en/documents/procedural-steps-after/bekemv-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Bekemv : EPAR - Public Assessment Report
 
-Adopted
-
-Reference Number: EMA/114622/2023
+Adopted Reference Number: EMA/114622/2023
 
 English (EN) (3.28 MB - PDF)
 
@@ -891,9 +660,7 @@ English (EN) (3.28 MB - PDF)
 
 CHMP summary of positive opinion for Bekemv
 
-Adopted
-
-Reference Number: EMA/CHMP/72305/2023
+Adopted Reference Number: EMA/CHMP/72305/2023
 
 English (EN) (142.5 KB - PDF)
 
@@ -901,12 +668,14 @@ English (EN) (142.5 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-bekemv_en.pdf)
 
-#### News on Bekemv
+## News on Bekemv
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20 - 23 February 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-february-2023) 24/02/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20 - 23 February 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-february-2023)
 
-**This page was last updated on** 15/01/2026
+24/02/2023
+
+**This page was last updated on**
+
+15/09/2026
 
 ## Share this page
-
-[Back to top](#main-content)

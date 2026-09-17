@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-02 09:55:43
+document_datetime: 2026-09-14 14:29:32
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/idefirix-epar-product-information_en.pdf
 document_name: idefirix-epar-product-information_en.pdf
 version: success
-processing_time: 5.2622151
-conversion_datetime: 2025-12-19 22:35:36.01054
+processing_time: 23.6319638
+conversion_datetime: 2026-09-17 20:19:10.169499
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -98,9 +98,9 @@ For instructions on reconstitution and dilution of the medicinal product before 
 
 ## 4.3 Contraindications
 
-- -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-- -Ongoing serious infection.
-- -Thrombotic thrombocytopenic purpura (TTP). Patients with this blood disorder may be at risk of developing serum sickness.
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Ongoing serious infection.
+- Thrombotic thrombocytopenic purpura (TTP). Patients with this blood disorder may be at risk of developing serum sickness.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -207,22 +207,21 @@ The adverse reactions described in this section were identified in the clinical 
 
 Table 2 Adverse reactions
 
-| MedDRA system organ class                            | Adverse reaction/ Frequency   | Adverse reaction/ Frequency                                                                                                                                                                                        |
-|------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                      | Very common                   | Common                                                                                                                                                                                                             |
-| Infections and infestations                          | Bacterial and viral infection | Abdominal infection Adenovirus infection Catheter site infection Infection Influenza Parvovirus infection Pneumonia Postoperative wound infection Sepsis Upper respiratory tract infection Urinary tract infection |
-| Blood and lymphatic system disorders                 |                               | Anaemia                                                                                                                                                                                                            |
-| Immune system disorders                              |                               | Transplant rejection                                                                                                                                                                                               |
-| Nervous system disorders                             |                               | Dizziness postural Headache                                                                                                                                                                                        |
-| Eye disorders                                        |                               | Scleral haemorrhage Visual impairment                                                                                                                                                                              |
-| Cardiac disorders                                    |                               | Sinus tachycardia                                                                                                                                                                                                  |
-| Vascular disorders                                   |                               | Flushing Hypertension Hypotension                                                                                                                                                                                  |
-| Respiratory, thoracic and mediastinal disorders      |                               | Dyspnoea                                                                                                                                                                                                           |
-| Skin and subcutanous tissue disorders                |                               | Rash                                                                                                                                                                                                               |
-| Musculoskeletal and connective tissue disorders      |                               | Myalgia                                                                                                                                                                                                            |
-| General disorders and administration site conditions |                               | Feeling hot Infusion site pain                                                                                                                                                                                     |
-| Investigations                                       |                               | Alanine aminotransferase (ALT) increased Aspartate aminotransferase (AST) increased                                                                                                                                |
-| Injury, poisoning and procedural complications       |                               | Infusion-related reactions                                                                                                                                                                                         |
+| MedDRA system organ class                            | Adverse reaction/ Frequency - Very common   | Adverse reaction/ Frequency - Common                                                                                                                                                                               |
+|------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                          | Bacterial and viral infection               | Abdominal infection Adenovirus infection Catheter site infection Infection Influenza Parvovirus infection Pneumonia Postoperative wound infection Sepsis Upper respiratory tract infection Urinary tract infection |
+| Blood and lymphatic system disorders                 |                                             | Wound infection Anaemia                                                                                                                                                                                            |
+| Immune system disorders                              |                                             | Transplant rejection                                                                                                                                                                                               |
+| Nervous system disorders                             |                                             | Dizziness postural Headache                                                                                                                                                                                        |
+| Eye disorders                                        |                                             | Scleral haemorrhage Visual impairment                                                                                                                                                                              |
+| Cardiac disorders                                    |                                             | Sinus tachycardia                                                                                                                                                                                                  |
+| Vascular disorders                                   |                                             | Flushing Hypertension Hypotension                                                                                                                                                                                  |
+| Respiratory, thoracic and mediastinal disorders      |                                             | Dyspnoea                                                                                                                                                                                                           |
+| Skin and subcutanous tissue disorders                |                                             | Rash                                                                                                                                                                                                               |
+| Musculoskeletal and connective tissue disorders      |                                             | Myalgia                                                                                                                                                                                                            |
+| General disorders and administration site conditions |                                             | Feeling hot Infusion site pain                                                                                                                                                                                     |
+| Investigations                                       |                                             | Alanine aminotransferase (ALT) increased Aspartate aminotransferase (AST) increased                                                                                                                                |
+| Injury, poisoning and procedural complications       |                                             | Infusion-related reactions                                                                                                                                                                                         |
 
 ## Description of selected adverse reactions
 
@@ -232,11 +231,9 @@ In the clinical studies, 16.7% of the patients experienced an infection. Nine in
 
 ## Infusion-related reactions
 
-Infusion-related reactions, including dyspnoea and flushing were reported in 5.6% of the patients, one resulting in interruption of the imlifidase infusion and the patient not being transplanted. Except for
+Infusion-related reactions, including dyspnoea and flushing were reported in 5.6% of the patients, one resulting in interruption of the imlifidase infusion and the patient not being transplanted. Except for one event of mild rash, all infusion-related reactions started on the day of imlifidase infusion and resolved within 90 minutes (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-one event of mild rash, all infusion-related reactions started on the day of imlifidase infusion and resolved within 90 minutes (see section 4.4).
 
 ## Myalgia
 
@@ -270,11 +267,9 @@ It should be noted that turbidimetry/nephelometry methods, commonly used at hosp
 
 ## Clinical efficacy and safety
 
-Three open-label, single-arm, 6-months, clinical studies evaluated the dosing regimen, efficacy, and safety of imlifidase as pre-transplant treatment to reduce donor-specific IgG and enable highly sensitised transplant candidates to be eligible for kidney transplantation. 46 patients between 20 and 73 years of age were transplanted, all diagnosed with end-stage renal disease (ESRD) and on dialysis, 21 (46%) women and 25 (54%) men. All patients were sensitised, 41 (89%) were highly sensitised (cPRA ≥ 80%), 33 (72%) of whom had a cPRA ≥ 95%. All patients that were crossmatch-positive before treatment with imlifidase were converted to negative within 24 hours. PKPD modelling showed
+Three open-label, single-arm, 6-months, clinical studies evaluated the dosing regimen, efficacy, and safety of imlifidase as pre-transplant treatment to reduce donor-specific IgG and enable highly sensitised transplant candidates to be eligible for kidney transplantation. 46 patients between 20 and 73 years of age were transplanted, all diagnosed with end-stage renal disease (ESRD) and on dialysis, 21 (46%) women and 25 (54%) men. All patients were sensitised, 41 (89%) were highly sensitised (cPRA ≥ 80%), 33 (72%) of whom had a cPRA ≥ 95%. All patients that were crossmatch-positive before treatment with imlifidase were converted to negative within 24 hours. PKPD modelling showed that at 2 hours after administration of 0.25 mg/kg imlifidase, a crossmatch test is likely to become negative in 96% of the patients, and after 6 hours at least 99.5% of the patients are likely to become crossmatch test negative. All 46 patients were alive at 6 months with a kidney graft survival of 93%. Kidney function was restored to the expected range for kidney-transplanted patients with 90% of the patients having an estimated glomerular filtration rate (eGFR) of &gt;30 mL/min/1.73 m 2 at 6 months.
 
 <div style=\"page-break-after: always\"></div>
-
-that at 2 hours after administration of 0.25 mg/kg imlifidase, a crossmatch test is likely to become negative in 96% of the patients, and after 6 hours at least 99.5% of the patients are likely to become crossmatch test negative. All 46 patients were alive at 6 months with a kidney graft survival of 93%. Kidney function was restored to the expected range for kidney-transplanted patients with 90% of the patients having an estimated glomerular filtration rate (eGFR) of &gt;30 mL/min/1.73 m 2 at 6 months.
 
 Study 03 evaluated safety and efficacy of imlifidase at different dosing regimens before kidney transplantation in patients with ESRD. Ten patients were treated with a single dose of 0.25 (n=5) or 0.5 (n=5) mg/kg imlifidase and transplanted. Seven patients were DSA-positive and 6 patients had a positive crossmatch before imlifidase treatment. DSA was reduced in all 7 patients and all positive crossmatches were converted to negative after treatment. All 10 patients were successfully transplanted and had a functioning kidney at 6 months. Eight of the 10 patients had an eGFR &gt;30 mL/min/1.73 m 2 . Patients received immunosuppressive treatment including corticosteroids, calcineurin inhibitor, mycophenolate mofetil, and IVIg. Three patients experienced AMR during the study, none leading to graft loss.
 
@@ -326,7 +321,7 @@ Unopened vial
 
 18 months
 
-## After reconstitution
+After reconstitution
 
 The reconstituted solution should be transferred from the vial to the infusion bag immediately.
 
@@ -374,17 +369,27 @@ Prior to use the solution for infusion should be inspected visually for particul
 
 <div style=\"page-break-after: always\"></div>
 
-## Disposal
+Disposal
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
 
-## 7. MARKETING AUTHORISATION HOLDER
+requirements.
 
-Hansa Biopharma AB P.O. Box 785 220 07 Lund
+7.
+
+MARKETING AUTHORISATION HOLDER
+
+Hansa Biopharma AB
+
+P.O. Box 785
+
+220 07 Lund
 
 Sweden
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1471/001
 
@@ -394,18 +399,25 @@ EU/1/20/1471/002
 
 Date of first authorisation: 25 August 2020
 
-Date of latest renewal: 24 July 2024
+Date of latest renewal: 3 July 2026
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+[Agency https://www.ema.europa.eu.](https://www.ema.europa.eu/)
+
+12
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
 - A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
@@ -423,7 +435,11 @@ Biotechnologines farmacijos centras Biotechpharma UAB Mokslinink ų g. 4 LT-0841
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Biotechnologines farmacijos centras Biotechpharma UAB Mokslinink ų g. 4 LT-08412 Vilnius Lithuania
+Biotechnologines farmacijos centras Biotechpharma UAB
+
+Mokslinink ų g. 4 LT-08412 Vilnius
+
+Lithuania
 
 Propharma Group The Netherlands B.V. Schipholweg 59 2316 ZL, Leiden Netherlands
 
@@ -460,17 +476,17 @@ An updated RMP should be submitted:
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                                      | Due date      |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| Post-authorisation efficacy study (PAES): to further investigate the long-term graft survival in patients who have undergone kidney transplantation after Idefirix administration. The MAHshould conduct and submit the results of a prospective 5-year-extension observational follow-up study. | February 2032 |
+| Description                                                                                                                                                                                                                                                                                       | Due date      |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| Post-authorisation efficacy study (PAES): to further investigate the long-term graft survival in patients who have undergone kidney transplantation after Idefirix administration. The MAH should conduct and submit the results of a prospective 5-year-extension observational follow-up study. | February 2032 |
 
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
 This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                | Due date      |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| To confirm the long-term efficacy and safety of Idefirix in highly sensitised adult kidney transplant patients with positive crossmatch against an available deceased donor, the MAHshould conduct and submit the results of a controlled, open-label, post-approval study investigating 1-year graft survival rate in kidney transplant patients with positive crossmatch against a deceased donor after desensitisation with imlifidase. | February 2027 |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                 | Due date      |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| To confirm the long-term efficacy and safety of Idefirix in highly sensitised adult kidney transplant patients with positive crossmatch against an available deceased donor, the MAH should conduct and submit the results of a controlled, open-label, post-approval study investigating 1-year graft survival rate in kidney transplant patients with positive crossmatch against a deceased donor after desensitisation with imlifidase. | February 2027 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -536,10 +552,11 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Hansa Biopharma AB 220 07 Lund, Sweden
 
@@ -556,7 +573,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -568,58 +586,66 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Idefirix 11 mg powder for concentrate imlifidase IV
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Intravenous use after reconstitution and dilution.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 11 mg
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
 
-## Idefirix 11 mg powder for concentrate for solution for infusion imlifidase
-
 <!-- image -->
+
+## Package leaflet: Information for the user
+
+## Idefirix 11 mg powder for concentrate for solution for infusion
+
+## imlifidase
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -642,9 +668,9 @@ Imlifidase is a protein from a bacterium called Streptococcus pyogenes.
 
 ## You must not be given Idefirix
 
-- -If you are allergic to imlifidase or any of the other ingredients of this medicine (listed in section 6).
-- -If you have a severe infection.
-- -If you have a blood disorder called thrombotic thrombocytopenic purpura (TTP), that results in blood clots forming in small blood vessels throughout the body.
+- If you are allergic to imlifidase or any of the other ingredients of this medicine (listed in section 6).
+- If you have a severe infection.
+- If you have a blood disorder called thrombotic thrombocytopenic purpura (TTP), that results in blood clots forming in small blood vessels throughout the body.
 
 ## Warnings and precautions
 
@@ -672,15 +698,15 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 As Idefirix breaks down IgG, IgG-based medicines may not work if given at the same time as Idefirix. This includes the following medicines:
 
-- -basiliximab (used to prevent rejection of kidney transplants)
-- -rituximab (used to treat cancers such as non-Hodgkin's lymphoma and chronic lymphocytic leukaemia and inflammatory diseases such as rheumatoid arthritis)
-- -alemtuzumab (used to treat a form of multiple sclerosis)
-- -adalimumab (used to treat inflammatory diseases such as rheumatoid arthritis, ankylosing spondylitis, psoriasis, Crohn's disease and ulcerative colitis)
-- -denosumab (used to treat osteoporosis)
-- -belatacept (used to prevent rejection of kidney transplants)
-- -etanercept (used to treat inflammatory diseases such as rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and psoriasis)
-- -rabbit anti-thymocyte globulin (rATG) (used to prevent rejection of kidney transplants)
-- -intravenous immunoglobulin (IVIg) (used to increase abnormally low immunoglobulin levels in the blood or to treat inflammatory diseases such as Guillain-Barré syndrome, Kawasaki disease and chronic inflammatory demyelinating polyneuropathy).
+- basiliximab (used to prevent rejection of kidney transplants)
+- rituximab (used to treat cancers such as non-Hodgkin's lymphoma and chronic lymphocytic leukaemia and inflammatory diseases such as rheumatoid arthritis)
+- alemtuzumab (used to treat a form of multiple sclerosis)
+- adalimumab (used to treat inflammatory diseases such as rheumatoid arthritis, ankylosing spondylitis, psoriasis, Crohn's disease and ulcerative colitis)
+- denosumab (used to treat osteoporosis)
+- belatacept (used to prevent rejection of kidney transplants)
+- etanercept (used to treat inflammatory diseases such as rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and psoriasis)
+- rabbit anti-thymocyte globulin (rATG) (used to prevent rejection of kidney transplants)
+- intravenous immunoglobulin (IVIg) (used to increase abnormally low immunoglobulin levels in the blood or to treat inflammatory diseases such as Guillain-Barré syndrome, Kawasaki disease and chronic inflammatory demyelinating polyneuropathy).
 
 ## Pregnancy and breast-feeding
 
@@ -716,25 +742,25 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Tell your doctor immediately if you notice any of the following:
 
-- -Signs of infection, such as fever, chills, cough, feeling weak or generally unwell (very common - may affect more than 1 in 10 people).
-- -Signs of an infusion reaction, such as severe rash, shortness of breath, feeling hot, flushing (common - may affect up to 1 in 10 people).
-- -Muscle pain or fatigue (symptoms of myalgia) (common - may affect up to 1 in 10 people).
+- Signs of infection, such as fever, chills, cough, feeling weak or generally unwell (very common - may affect more than 1 in 10 people).
+- Signs of an infusion reaction, such as severe rash, shortness of breath, feeling hot, flushing (common - may affect up to 1 in 10 people).
+- Muscle pain or fatigue (symptoms of myalgia) (common - may affect up to 1 in 10 people).
 
 ## Other side effects include:
 
 Common (may affect up to 1 in 10 people):
 
-- -Infections: lung infection (pneumonia), infections of the blood (sepsis), abdominal infection, upper respiratory tract infection, adenovirus infection, parvovirus infection, urinary tract infection, influenza, wound infection, post-operative wound infection, catheter site infection
-- -Transplant rejection (IgG antibodies will try to reject your donor kidney and you can feel general discomfort)
-- -High or low blood pressure (symptoms of low blood pressure can be dizziness and symptoms of high blood pressure can be headache)
-- -Low number of red blood cells (anaemia)
-- -Dizziness at change of body position, e.g. when standing up
-- -Headache
-- -Burst blood vessel in the eye
-- -Decreased vision
-- -Increased heart rate
-- -Infusion site pain
-- -Increased liver enzymes (seen in blood tests)
+- Infections: lung infection (pneumonia), infections of the blood (sepsis), abdominal infection, upper respiratory tract infection, adenovirus infection, parvovirus infection, urinary tract infection, influenza, wound infection, post-operative wound infection, catheter site infection
+- Transplant rejection (IgG antibodies will try to reject your donor kidney and you can feel general discomfort)
+- High or low blood pressure (symptoms of low blood pressure can be dizziness and symptoms of high blood pressure can be headache)
+- Low number of red blood cells (anaemia)
+- Dizziness at change of body position, e.g. when standing up
+- Headache
+- Burst blood vessel in the eye
+- Decreased vision
+- Increased heart rate
+- Infusion site pain
+- Increased liver enzymes (seen in blood tests)
 
 ## Reporting of side effects
 
@@ -760,23 +786,29 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 
 ## What Idefirix contains
 
-- -The active substance is imlifidase. Each vial contains 11 mg imlifidase. After reconstitution, each mL of concentrate contains 10 mg imlifidase.
-- -The other ingredients are mannitol, polysorbate 80, trometamol, disodium edetate dihydrate and hydrochloric acid (for pH adjustment). See section 2 'Idefirix contains sodium and polysorbate 80'.
+- The active substance is imlifidase. Each vial contains 11 mg imlifidase. After reconstitution, each mL of concentrate contains 10 mg imlifidase.
+- The other ingredients are mannitol, polysorbate 80, trometamol, disodium edetate dihydrate and hydrochloric acid (for pH adjustment). See section 2 'Idefirix contains sodium and polysorbate 80'.
 
 ## What Idefirix looks like and contents of the pack
 
-- -Idefirix is supplied as a glass vial containing a powder for concentrate for solution for infusion (powder for concentrate). The powder is a white freeze-dried cake.
-- -Packs contain 1 or 2 vials. Not all pack sizes may be marketed.
+- Idefirix is supplied as a glass vial containing a powder for concentrate for solution for infusion (powder for concentrate). The powder is a white freeze-dried cake.
+- Packs contain 1 or 2 vials. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Hansa Biopharma AB P.O. Box 785 220 07 Lund Sweden
+Hansa Biopharma AB
+
+P.O. Box 785 220 07 Lund Sweden
 
 ## Manufacturer
 
 Biotechnologines farmacijos centras Biotechpharma UAB
 
-Mokslinink ų g. 4 LT-08412 Vilnius Lithuania
+Mokslinink ų g. 4
+
+LT-08412 Vilnius
+
+Lithuania
 
 Propharma Group The Netherlands B.V. Schipholweg 59 2316 ZL, Leiden Netherlands
 

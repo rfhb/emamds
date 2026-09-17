@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-02-14 15:59:22
-document_pages: 54
+document_datetime: 2026-09-14 14:08:33
+document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fasenra-epar-product-information_en.pdf
 document_name: fasenra-epar-product-information_en.pdf
 version: success
-processing_time: 14.9348867
-conversion_datetime: 2025-12-27 09:06:26.337532
+processing_time: 60.2761119
+conversion_datetime: 2026-09-17 20:18:32.710273
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,7 @@ Fasenra 30 mg solution for injection in pre-filled syringe Fasenra 30 mg solutio
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Pre-filled syringe
+Pre-filled syringe
 
 Each pre-filled syringe contains 30 mg benralizumab* in 1 mL.
 
@@ -58,13 +58,17 @@ Eosinophilic granulomatosis with polyangiitis (EGPA)
 
 Fasenra is indicated as an add-on treatment for adult patients with relapsing or refractory eosinophilic granulomatosis with polyangiitis (see section 5.1).
 
+## Hypereosinophilic syndrome (HES)
+
+Fasenra is indicated as an add-on treatment for adult and adolescent patients aged 12 years and older weighing at least 35 kg with inadequately controlled hypereosinophilic syndrome without an identifiable non-haematologic secondary cause (see section 4.2 and 5.1).
+
 ## 4.2 Posology and method of administration
 
 Fasenra treatment should be initiated by a physician experienced in the diagnosis and treatment of conditions for which benralizumab is indicated (see section 4.1).
 
-After proper training in the subcutaneous injection technique and education about signs and symptoms of hypersensitivity reactions (see section 4.4), patients with no known history of anaphylaxis or their caregivers may administer Fasenra if their physician determines that it is appropriate, with medical follow-up as necessary. Self-administration should only be considered in patients already experienced with Fasenra treatment.
-
 <div style=\"page-break-after: always\"></div>
+
+After proper training in the subcutaneous injection technique and education about signs and symptoms of hypersensitivity reactions (see section 4.4), patients with no known history of anaphylaxis or their caregivers may administer Fasenra if their physician determines that it is appropriate, with medical follow-up as necessary. Self-administration should only be considered in patients already experienced with Fasenra treatment.
 
 ## Posology
 
@@ -80,6 +84,12 @@ The recommended dose of benralizumab is 30 mg by subcutaneous injection every 4 
 
 Patients who develop life-threatening manifestations of EGPA should be evaluated for the need for continued therapy, as Fasenra has not been studied in this population.
 
+## HES
+
+The recommended dose of benralizumab for adult and adolescent patients aged 12 years and older weighing at least 35 kg is 30 mg by subcutaneous injection every 4 weeks.
+
+Patients who develop life-threatening manifestations of HES should be evaluated for the need for continued therapy, as Fasenra has not been studied in this population.
+
 ## Missed Dose
 
 If an injection is missed on the planned date, dosing should resume as soon as possible on the indicated regimen; a double dose must not be administered.
@@ -94,25 +104,27 @@ No dose adjustment is required for patients with renal or hepatic impairment (se
 
 ## Paediatric population
 
-The safety and efficacy of Fasenra in children and adolescents aged 6 to 17 years with asthma has not been established. Currently limited data in children 6 to 11 years old and data in adolescents aged 12 to 17 are described in sections 4.8, 5.1 and 5.2, but no recommendation on a posology can be made.
+The safety and efficacy of Fasenra in children and adolescents aged 6 to 17 years with asthma has not been established. Currently limited data in children 6 to 11 years old and data in adolescents aged 12 to 17 years are described in sections 4.8, 5.1 and 5.2, but no recommendation on a posology can be made.
 
 The safety and efficacy of Fasenra in children less than 6 years with asthma have not been established. No data are available.
 
 The safety and efficacy of Fasenra in children and adolescents less than 18 years with EGPA have not been established.
 
+The safety and efficacy of Fasenra in children less than 12 years with HES have not been established. The safety of Fasenra in adolescent patients (12 to 17 years of age) weighing less than 35 kg has not been established. No recommendations on a posology can be made for this subgroup.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Method of administration
 
 This medicinal product is administered as a subcutaneous injection.
 
-It should be injected into the thigh or abdomen. If the healthcare professional or caregiver administers the injection, the upper arm can also be used. It should not be injected into areas where the skin is tender, bruised, erythematous, or hardened.
+Fasenra should be injected into the thigh or abdomen, except for the 5 cm area around the navel. If the healthcare professional or caregiver administers the injection, the upper arm can also be used. It should not be injected into areas where the skin is tender, bruised, erythematous, or hardened.
 
 Comprehensive instructions for administration using the pre-filled syringe/pre-filled pen are provided in the 'Instructions for Use'.
 
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.4 Special warnings and precautions for use
 
@@ -138,9 +150,11 @@ A history of anaphylaxis unrelated to benralizumab may be a risk factor for anap
 
 In the event of a hypersensitivity reaction, Fasenra should be discontinued permanently and appropriate therapy should be initiated.
 
-## Parasitic (Helminth) infection
+## Parasitic (Helminth) infections
 
 Eosinophils may be involved in the immunological response to some helminth infections. Patients with known helminth infections were excluded from participation in clinical trials. It is unknown if benralizumab may influence a patient's response against helminth infections.
+
+<div style=\"page-break-after: always\"></div>
 
 Patients with pre-existing helminth infections should be treated before initiating therapy with benralizumab. If patients become infected, while receiving treatment and do not respond to anti-helminth treatment, therapy with benralizumab should be discontinued until infection resolves.
 
@@ -148,13 +162,19 @@ Patients with pre-existing helminth infections should be treated before initiati
 
 Fasenra has not been studied in patients with active organ threatening or life-threatening manifestations of EGPA (see section 4.2).
 
+## Life-threatening HES
+
+Fasenra has not been studied in patients with active life-threatening manifestations of HES (see section 4.2).
+
+## Excipient with known effect
+
+This medicinal product contains 0.06 mg of polysorbate 20 in each 30 mg dose (1 mL). Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed. In a randomised, double-blind parallel-group study of 103 patients aged between 12 and 21 years with severe asthma, the humoral antibody responses induced by seasonal influenza virus vaccination do not appear to be affected by benralizumab treatment. An effect of benralizumab on the pharmacokinetics of co-administered medicinal products is not expected (see section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
-Cytochrome P450 enzymes, efflux pumps and protein-binding mechanisms are not involved in the clearance of benralizumab. There is no evidence of IL-5Rα expression on hepatocytes. Eosinophil depletion does not produce chronic systemic alterations of proinflammatory cytokines.
+Cytochrome P450 enzymes, efflux pumps and protein-binding mechanisms are not involved in the clearance of benralizumab. There is no evidence of IL-5Rα expression on hepatocytes. Eosinophil depletion does not result in chronic systemic alterations of proinflammatory cytokines.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -164,15 +184,17 @@ There is a limited amount of data (less than 300 pregnancy outcomes) from the us
 
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 
-Monoclonal antibodies, such as benralizumab, are transported across the placenta linearly as pregnancy progresses; therefore, potential exposure to the fetus is likely to be greater during the second and third trimester of pregnancy.
+Monoclonal antibodies, such as benralizumab, are transported across the placenta linearly as pregnancy progresses; therefore, potential exposure to the foetus is likely to be greater during the second and third trimester of pregnancy.
 
-As a precautionary measure, it is preferable to avoid the use of Fasenra during pregnancy. Its administration to pregnant women should only be considered if the expected benefit to the mother is greater than any possible risk to the fetus.
+As a precautionary measure, it is preferable to avoid the use of Fasenra during pregnancy. Its administration to pregnant women should only be considered if the expected benefit to the mother is greater than any possible risk to the foetus.
 
 ## Breast-feeding
 
 It is unknown whether benralizumab or its metabolites are excreted in human or animal milk. A risk to the breast-fed child cannot be excluded.
 
 A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from using Fasenra taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -186,17 +208,13 @@ Fasenra has no or negligible influence on the ability to drive and use machines.
 
 ## Summary of the safety profile
 
-The safety profile of benralizumab in asthma and EGPA are similar.
+The safety profile of benralizumab in asthma, EGPA and HES are similar.
 
-The most commonly reported adverse reactions during treatment in asthma are headache (8%) and pharyngitis (3%). The most commonly reported adverse reaction in EGPA is headache (17%). Cases of anaphylactic reaction of varied severity have been reported for benralizumab.
+The most commonly reported adverse reactions during treatment in asthma are headache (8%) and pharyngitis (3%). The most commonly reported adverse reaction in EGPA (17%) and HES (16%) is headache. Cases of anaphylactic reaction of varied severity have been reported for benralizumab.
 
 ## Tabulated list of adverse reactions
 
-The following adverse reactions have been reported with benralizumab during clinical studies in asthma and EGPA and from post-marketing experience. The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); and not known (cannot be
-
-<div style=\"page-break-after: always\"></div>
-
-estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The following adverse reactions have been reported with benralizumab during clinical studies in asthma, EGPA and HES, and from post-marketing experience. The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); and not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1. Tabulated list of adverse reactions
 
@@ -207,15 +225,13 @@ Table 1. Tabulated list of adverse reactions
 | Nervous system disorders                             | Headache c                                         | Common           |
 | General disorders and administration site conditions | Pyrexia Injection site reaction d                  | Common           |
 
-- c. Very common in EGPA study.
-
-d. See 'Description of selected adverse reaction'.
-
-## Description of selected adverse reaction
+## Description of selected adverse reactions
 
 ## Injection site reactions
 
 In placebo-controlled asthma studies, injection site reactions (e.g. pain, erythema, pruritus, papule) occurred at a rate of 2.2% in patients treated with the recommended benralizumab dose compared with 1.9% in patients treated with placebo. The events were transient in nature.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Long-term safety
 
@@ -223,17 +239,19 @@ In a 56-week extension trial (Trial 4) in patients with asthma from Trials 1, 2 
 
 ## Paediatric population
 
-There are limited data in paediatric patients. There were 108 adolescents aged 12 to 17 with asthma enrolled in the phase 3 trials (Trial 1: n=53, Trial 2: n=55). Of these, 46 received placebo, 40 received benralizumab every 4 weeks for 3 doses, followed by every 8 weeks thereafter, and 22 received benralizumab every 4 weeks. Adolescent patients aged 12 to 17 (n=86) from Trials 1 and 2 continued the treatment with benralizumab in Trial 4 for up to 108 weeks. The frequency, type and severity of adverse reactions in the adolescent population were observed to be similar to those seen in adults.
+## Asthma
+
+There are limited data in paediatric patients. There were 108 adolescents aged 12 to 17 years with asthma enrolled in the phase 3 trials (Trial 1: n=53, Trial 2: n=55). Of these, 46 received placebo, 40 received benralizumab every 4 weeks for 3 doses, followed by every 8 weeks thereafter, and 22 received benralizumab every 4 weeks. Adolescent patients aged 12 to 17 years (n=86) from Trials 1 and 2 continued the treatment with benralizumab in Trial 4 for up to 108 weeks. The frequency, type and severity of adverse reactions in the adolescent population were observed to be similar to those seen in adults.
 
 In an open-label, uncontrolled pharmacokinetic and pharmacodynamic study of 48 weeks duration in a limited number of paediatric patients (n=28) with uncontrolled severe asthma, the safety profile for patients aged 6 to 11 years old was similar to the adult and adolescent population (see section 4.2).
 
+## HES
+
+Four adolescents aged 12 to 17 years with HES were enrolled in the phase 3 trial. Of these, 3 received benralizumab and 1 received placebo every 4 weeks. No new adverse reactions were identified in the 3 adolescents treated with benralizumab in the HES study compared to the established safety profile.
+
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
-
-<div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -251,13 +269,17 @@ Pharmacotherapeutic group: Drugs for obstructive airway diseases, other systemic
 
 Benralizumab is an anti-eosinophil, humanised afucosylated, monoclonal antibody (IgG1, kappa). It specifically binds to the alpha subunit of the human interleukin-5 receptor (IL-5Rα). The IL-5 receptor is specifically expressed on the surface of eosinophils and basophils. The absence of fucose in the Fc domain of benralizumab results in high affinity for FcɣRIII receptors on immune effector cells such as natural killer (NK) cells. This leads to apoptosis of eosinophils and basophils through enhanced antibody-dependent cell-mediated cytotoxicity (ADCC), which reduces eosinophilic inflammation.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacodynamic effects
 
 ## Effect on blood eosinophils
 
 In patients with asthma, treatment with benralizumab results in near complete depletion of blood eosinophils within 24 hours following the first dose which is maintained throughout treatment. The depletion of blood eosinophils is accompanied by a reduction in serum eosinophil granule proteins (eosinophil derived neurotoxin [EDN] and eosinophil cationic protein [ECP]) and a reduction in blood basophils.
 
-In patients with EGPA, depletion of blood eosinophils was consistent with the effect observed in asthma trials. Blood eosinophil depletion was seen at the first observed time point, 1 week of treatment, and was maintained throughout the 52-week treatment period.
+In patients with EGPA, depletion of blood eosinophils was consistent with the effect observed in asthma trials. Blood eosinophil depletion was seen at the first observed timepoint, 1 week of treatment, and was maintained throughout the 52-week treatment period.
+
+In patients with HES, depletion of blood eosinophils was consistent with the effect observed in asthma and EGPA trials. Blood eosinophil depletion was seen at the first observed timepoint (Week 4) and was maintained over the 24-week treatment period.
 
 ## Effect on eosinophils in the airway mucosa
 
@@ -269,13 +291,13 @@ The effect of benralizumab on eosinophils in the airway mucosa in asthmatic pati
 
 The efficacy of benralizumab was evaluated in 3 randomised, double-blind, parallel-group, placebo-controlled clinical trials between 28 to 56 weeks duration, in patients aged 12 to 75 years.
 
-<div style=\"page-break-after: always\"></div>
-
 In these studies, benralizumab was administered at a dose of 30 mg once every 4 weeks for the first 3 doses, and then every 4 or 8 weeks thereafter as add-on to background treatment and was evaluated in comparison with placebo.
 
 The two exacerbation trials, SIROCCO (Trial 1) and CALIMA (Trial 2), enrolled a total of 2 510 patients with severe uncontrolled asthma, 64% females, with a mean age of 49 years. Patients had a history of 2 or more asthma exacerbations requiring oral or systemic corticosteroid treatment (mean of 3) in the past 12 months, Asthma Control Questionnaire-6 (ACQ-6) score of 1.5 or more at screening, and reduced lung function at baseline (mean predicted pre-bronchodilator forced expiratory volume in 1 second [FEV1] of 57.5%), despite regular treatment with high-dose inhaled corticosteroid (ICS) (Trial 1) or with medium or high-dose ICS (Trial 2) and a long-acting β-agonist (LABA); at least one additional controller was administered to 51% and 41% of these patients, respectively.
 
 For the oral corticosteroid (OCS) reduction trial ZONDA (Trial 3), a total of 220 asthma patients (61% female; mean age of 51 years) were enrolled; they were treated with daily OCS (8 to 40 mg per day; median of 10 mg) in addition to regular use of high-dose ICS and LABA with at least one additional controller to maintain asthma control in 53% of the cases. The trial included an 8-week run-in period during which the OCS was titrated to the minimum effective dose without losing asthma control. Patients had blood eosinophil counts ≥150 cells/μL and a history of at least one exacerbation in the past 12 months.
+
+<div style=\"page-break-after: always\"></div>
 
 While 2 dose regimens were studied in Trials 1, 2, and 3, the recommended dose regimen is benralizumab administered every 4 weeks for the first 3 doses, then every 8 weeks thereafter (see section 4.2) as no additional benefit was observed by more frequent dosing. The results summarised below are those for the recommended dose regimen.
 
@@ -289,18 +311,11 @@ Reductions in exacerbation rates were observed irrespective of baseline eosinoph
 
 Table 2. Results of annual exacerbation rate and lung function at end of treatment of Trial 1 and 2 by eosinophil count
 
-|                                        | Trial 1                              | Trial 1                              | Trial 2                              | Trial 2                              |
+|                                        | Trial 1 - Benralizumab               | Trial 1 - Placebo                    | Trial 2 - Benralizumab               | Trial 2 - Placebo                    |
 |----------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-|                                        | Benralizumab                         | Placebo                              | Benralizumab                         | Placebo                              |
 | Blood eosinophil count ≥300 cells/μL a | n=267                                | n=267                                | n=239                                | n=248                                |
 | Clinically significant exacerbations   | Clinically significant exacerbations | Clinically significant exacerbations | Clinically significant exacerbations | Clinically significant exacerbations |
 | Rate                                   | 0.74                                 | 1.52                                 | 0.73                                 | 1.01                                 |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                        | Trial 1                              | Trial 1                              | Trial 2                              | Trial 2                              |
-|----------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-|                                        | Benralizumab                         | Placebo                              | Benralizumab                         | Placebo                              |
 | Difference                             | -0.78                                | -0.78                                | -0.29                                | -0.29                                |
 | Rate ratio (95% CI)                    | 0.49 (0.37, 0.64)                    | 0.49 (0.37, 0.64)                    | 0.72 (0.54, 0.95)                    | 0.72 (0.54, 0.95)                    |
 | p-value                                | <0.001                               | <0.001                               | 0.019                                | 0.019                                |
@@ -314,13 +329,14 @@ Table 2. Results of annual exacerbation rate and lung function at end of treatme
 | Rate                                   | 1.11                                 | 1.34                                 | 0.83                                 | 1.38                                 |
 | Difference                             | -0.23                                | -0.23                                | -0.55                                | -0.55                                |
 | Rate ratio (95% CI)                    | 0.83 (0.59, 1.16)                    | 0.83 (0.59, 1.16)                    | 0.60 (0.42, 0.86)                    | 0.60 (0.42, 0.86)                    |
-| Pre-bronchodilator FEV 1 (L)           | Pre-bronchodilator FEV 1 (L)         | Pre-bronchodilator FEV 1 (L)         | Pre-bronchodilator FEV 1 (L)         | Pre-bronchodilator FEV 1 (L)         |
-| Mean change                            | 0.248                                | 0.145                                | 0.140                                | 0.156                                |
-| Difference (95% CI)                    | 0.102 (-0.003, 0.208)                | 0.102 (-0.003, 0.208)                | -0.015 (-0.127, 0.096)               | -0.015 (-0.127, 0.096)               |
 
-a. Intent-to-treat population (patients on high-dose ICS and blood eosinophils ≥300 cells/μL).
+<div style=\"page-break-after: always\"></div>
 
-b. Not powered to detect a treatment difference in patients with blood eosinophils &lt;300 cells/μL.
+|                              | Trial 1 - Benralizumab       | Trial 1 - Placebo            | Trial 2 - Benralizumab       | Trial 2 - Placebo            |
+|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+| Pre-bronchodilator FEV 1 (L) | Pre-bronchodilator FEV 1 (L) | Pre-bronchodilator FEV 1 (L) | Pre-bronchodilator FEV 1 (L) | Pre-bronchodilator FEV 1 (L) |
+| Mean change                  | 0.248                        | 0.145                        | 0.140                        | 0.156                        |
+| Difference (95% CI)          | 0.102 (-0.003, 0.208)        | 0.102 (-0.003, 0.208)        | -0.015 (-0.127, 0.096)       | -0.015 (-0.127, 0.096)       |
 
 Across Trials 1 and 2 combined, there was a numerically greater exacerbation rate reduction and greater improvements in FEV1 with increasing baseline blood eosinophils.
 
@@ -330,32 +346,25 @@ In both Trials 1 and 2, patients receiving benralizumab experienced statisticall
 
 Table 3. Treatment difference in mean change from baseline in total asthma symptom score, ACQ-6 and AQLQ(s)+12 at end of treatment - Patients on high-dose ICS and blood eosinophils ≥300 cells/μL
 
-|                              | Trial 1                      | Trial 1                      | Trial 2                      | Trial 2                      |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|                              | Benralizumab (n a =267)      | Placebo (n a =267)           | Benralizumab (n a =239)      | Placebo (n a =248)           |
-| Total asthma symptom score b | Total asthma symptom score b | Total asthma symptom score b | Total asthma symptom score b | Total asthma symptom score b |
-| Mean baseline                | 2.68                         | 2.74                         | 2.76                         | 2.71                         |
+|                              | Trial 1 - Benralizumab (n a =267)   | Trial 1 - Placebo (n a =267)   | Trial 2 - Benralizumab (n a =239)   | Trial 2 - Placebo (n a =248)   |
+|------------------------------|-------------------------------------|--------------------------------|-------------------------------------|--------------------------------|
+| Total asthma symptom score b | Total asthma symptom score b        | Total asthma symptom score b   | Total asthma symptom score b        | Total asthma symptom score b   |
+| Mean baseline                | 2.68                                | 2.74                           | 2.76                                | 2.71                           |
+| Improvement from baseline    | -1.30                               | -1.04                          | -1.40                               | -1.16                          |
+| Difference (95% CI)          | -0.25 (-0.45, -0.06)                | -0.25 (-0.45, -0.06)           | -0.23 (-0.43, -0.04)                | -0.23 (-0.43, -0.04)           |
+| p-value                      | 0.012                               | 0.012                          | 0.019                               | 0.019                          |
+| ACQ-6                        | ACQ-6                               | ACQ-6                          | ACQ-6                               | ACQ-6                          |
+| Mean baseline                | 2.81                                | 2.90                           | 2.80                                | 2.75                           |
+| Improvement from baseline    | -1.46                               | -1.17                          | -1.44                               | -1.19                          |
+| Difference (95% CI)          | -0.29 (-0.48, -0.10)                | -0.29 (-0.48, -0.10)           | -0.25 (-0.44, -0.07)                | -0.25 (-0.44, -0.07)           |
+| AQLQ(S)+12                   | AQLQ(S)+12                          | AQLQ(S)+12                     | AQLQ(S)+12                          | AQLQ(S)+12                     |
+| Mean baseline                | 3.93                                | 3.87                           | 3.87                                | 3.93                           |
+| Improvement from baseline    | 1.56                                | 1.26                           | 1.56                                | 1.31                           |
+| Difference (95% CI)          | 0.30 (0.10, 0.50)                   | 0.30 (0.10, 0.50)              | 0.24 (0.04, 0.45)                   | 0.24 (0.04, 0.45)              |
 
 <div style=\"page-break-after: always\"></div>
 
-|                           | Trial 1                 | Trial 1              | Trial 2                 | Trial 2              |
-|---------------------------|-------------------------|----------------------|-------------------------|----------------------|
-|                           | Benralizumab (n a =267) | Placebo (n a =267)   | Benralizumab (n a =239) | Placebo (n a =248)   |
-| Improvement from baseline | -1.30                   | -1.04                | -1.40                   | -1.16                |
-| Difference (95% CI)       | -0.25 (-0.45, -0.06)    | -0.25 (-0.45, -0.06) | -0.23 (-0.43, -0.04)    | -0.23 (-0.43, -0.04) |
-| p-value                   | 0.012                   | 0.012                | 0.019                   | 0.019                |
-| ACQ-6                     |                         |                      |                         |                      |
-| Mean baseline             | 2.81                    | 2.90                 | 2.80                    | 2.75                 |
-| Improvement from baseline | -1.46                   | -1.17                | -1.44                   | -1.19                |
-| Difference (95% CI)       | -0.29 (-0.48, -0.10)    | -0.29 (-0.48, -0.10) | -0.25 (-0.44, -0.07)    | -0.25 (-0.44, -0.07) |
-| AQLQ(S)+12                |                         |                      |                         |                      |
-| Mean baseline             | 3.93                    | 3.87                 | 3.87                    | 3.93                 |
-| Improvement from baseline | 1.56                    | 1.26                 | 1.56                    | 1.31                 |
-| Difference (95% CI)       | 0.30 (0.10, 0.50)       | 0.30 (0.10, 0.50)    | 0.24 (0.04, 0.45)       | 0.24 (0.04, 0.45)    |
-
-a. Number of patients (n) varies slightly due to the number of patients for whom data were available for each variable. Results shown based on last available data for each variable.
-
-b. Asthma symptom scale: total score from 0 (least) to 6 (most); day and night time asthma symptom scores from 0 (least) to 3 (most) symptoms. Individual day and night time scores were similar.
+- b. Asthma symptom scale: total score from 0 (least) to 6 (most); day and night time asthma symptom scores from 0 (least) to 3 (most) symptoms. Individual day and night time scores were similar.
 
 ## Subgroup analyses by prior exacerbation history
 
@@ -363,9 +372,8 @@ Subgroup analyses from Trials 1 and 2 identified patients with higher prior exac
 
 Table 4. Exacerbation rate and pulmonary function (FEV1) at end of treatment by number of exacerbations in the previous year - Patients on high-dose ICS and blood eosinophils ≥300 cells/μL
 
-|                                      | Trial 1                             | Trial 1                             | Trial 2                             | Trial 2                             |
+|                                      | Trial 1 - Benralizumab (N=267)      | Trial 1 - Placebo (N=267)           | Trial 2 - Benralizumab (N=239)      | Trial 2 - Placebo (N=248)           |
 |--------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
-|                                      | Benralizumab (N=267)                | Placebo (N=267)                     | Benralizumab (N=239)                | Placebo (N=248)                     |
 | Baseline of 2 exacerbations          | Baseline of 2 exacerbations         | Baseline of 2 exacerbations         | Baseline of 2 exacerbations         | Baseline of 2 exacerbations         |
 | n                                    | 164                                 | 149                                 | 144                                 | 151                                 |
 | Exacerbation rate                    | 0.57                                | 1.04                                | 0.63                                | 0.62                                |
@@ -378,14 +386,8 @@ Table 4. Exacerbation rate and pulmonary function (FEV1) at end of treatment by 
 | Exacerbation rate                    | 0.95                                | 2.23                                | 0.82                                | 1.65                                |
 | Difference                           | -1.28                               | -1.28                               | -0.84                               | -0.84                               |
 | Rate ratio (95% CI)                  | 0.43 (0.29, 0.63)                   | 0.43 (0.29, 0.63)                   | 0.49 (0.33, 0.74)                   | 0.49 (0.33, 0.74)                   |
-
-<div style=\"page-break-after: always\"></div>
-
-|                     | Trial 1              | Trial 1              | Trial 2              | Trial 2              |
-|---------------------|----------------------|----------------------|----------------------|----------------------|
-|                     | Benralizumab (N=267) | Placebo (N=267)      | Benralizumab (N=239) | Placebo (N=248)      |
-| Pre-bronchodilator  | 0.486                | 0.251                | 0.440                | 0.174                |
-| Difference (95% CI) | 0.235 (0.088, 0.382) | 0.235 (0.088, 0.382) | 0.265 (0.115, 0.415) | 0.265 (0.115, 0.415) |
+| Pre-bronchodilator FEV 1 mean change | 0.486                               | 0.251                               | 0.440                               | 0.174                               |
+| Difference (95% CI)                  | 0.235 (0.088, 0.382)                | 0.235 (0.088, 0.382)                | 0.265 (0.115, 0.415)                | 0.265 (0.115, 0.415)                |
 
 ## Oral corticosteroid dose reduction trials
 
@@ -395,20 +397,25 @@ In Trial 3, the primary endpoint was percent reduction from baseline of the fina
 
 Table 5. Effect of benralizumab on OCS dose reduction, Trial 3
 
-|                                                                  | Benralizumab (N=73)   | Placebo (N=75)     |
+|                                                             | Benralizumab (n=73)   | Placebo (n=75)   |
+|-------------------------------------------------------------|-----------------------|------------------|
+| Wilcoxon rank sum test (primary analysis method)            |                       |                  |
+| Median % reduction in daily OCS dose from baseline (95% CI) | 75 (60, 88)           | 25 (0, 33)       |
+| Wilcoxon rank sum test p-value                              | <0.001                | <0.001           |
+| Proportional odds model (sensitivity analysis)              |                       |                  |
+| Percent reduction in OCS from baseline at Week 28           |                       |                  |
+| ≥90% reduction                                              | 27 (37%)              | 9 (12%)          |
+| ≥75% reduction                                              | 37 (51%)              | 15 (20%)         |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                                  | Benralizumab (n=73)   | Placebo (n=75)     |
 |------------------------------------------------------------------|-----------------------|--------------------|
-| Wilcoxon rank sum test (primary analysis method)                 |                       |                    |
-| Median %reduction in daily OCS dose from baseline (95% CI)       | 75 (60, 88)           | 25 (0, 33)         |
-| Wilcoxon rank sum test p-value                                   | <0.001                | <0.001             |
-| Proportional odds model (sensitivity analysis)                   |                       |                    |
-| Percent reduction in OCS from baseline at Week 28                |                       |                    |
-| ≥90% reduction                                                   | 27 (37%)              | 9 (12%)            |
-| ≥75% reduction                                                   | 37 (51%)              | 15 (20%)           |
 | ≥50% reduction                                                   | 48 (66%)              | 28 (37%)           |
 | >0% reduction                                                    | 58 (79%)              | 40 (53%)           |
 | No change or no decrease in OCS                                  | 15 (21%)              | 35 (47%)           |
 | Odds ratio (95% CI)                                              | 4.12 (2.22, 7.63)     | 4.12 (2.22, 7.63)  |
-| Reduction in the daily OCS dose to 0 mg/day*                     | 22 (52%)              | 8 (19%)            |
+| Reduction in the daily OCS dose to 0 mg/day a                    | 22 (52%)              | 8 (19%)            |
 | Odds ratio (95% CI)                                              | 4.19 (1.58, 11.12)    | 4.19 (1.58, 11.12) |
 | Reduction in the daily OCS dose to ≤5 mg/day                     | 43 (59%)              | 25 (33%)           |
 | Odds ratio (95% CI)                                              | 2.74 (1.41, 5.31)     | 2.74 (1.41, 5.31)  |
@@ -417,13 +424,11 @@ Table 5. Effect of benralizumab on OCS dose reduction, Trial 3
 | Exacerbation rate requiring hospitalisation/emergency room visit | 0.02                  | 0.32               |
 | Rate ratio (95% CI)                                              | 0.07 (0.01, 0.63)     | 0.07 (0.01, 0.63)  |
 
+- a Only patients with an optimised baseline OCS dose of 12.5 mg or less were eligible to achieve a 100% reduction in OCS dose during the study.
+
 Lung function, asthma symptom score, ACQ-6 and AQLQ(S)+12 were also assessed in Trial 3 and showed results similar to those in Trials 1 and 2.
 
-Trial 6 enrolled 598 adult patients with severe asthma (blood eosinophil count ≥150 cells/μL at entry or ≥300 cells/μL in the past 12 months if study entry count was &lt;150 cells/μL) who were oral corticosteroid-dependent. The primary endpoints were proportion of patients who eliminated OCS
-
-<div style=\"page-break-after: always\"></div>
-
-while maintaining asthma control and proportion of patients who achieved a final OCS dose less than or equal to 5 mg while maintaining asthma control and taking into account adrenal function. The proportion of patients who eliminated maintenance OCS was 62.9%. The proportion of patients who achieved an OCS dose less than or equal to 5 mg (while maintaining asthma control and not limited by adrenal function) was 81.9%. Effects on OCS reduction were similar irrespective of blood eosinophil count at study entry (including patients with blood eosinophils &lt;150 cells/μL) and maintained over an additional period of 24 to 32 weeks. The annualised exacerbation rate in Trial 6 was comparable to that reported in previous trials.
+Trial 6 enrolled 598 adult patients with severe asthma (blood eosinophil count ≥150 cells/μL at entry or ≥300 cells/μL in the past 12 months if study entry count was &lt;150 cells/μL) who were oral corticosteroid-dependent. The primary endpoints were proportion of patients who eliminated OCS while maintaining asthma control and proportion of patients who achieved a final OCS dose less than or equal to 5 mg while maintaining asthma control and taking into account adrenal function. The proportion of patients who eliminated maintenance OCS was 62.9%. The proportion of patients who achieved an OCS dose less than or equal to 5 mg (while maintaining asthma control and not limited by adrenal function) was 81.9%. Effects on OCS reduction were similar irrespective of blood eosinophil count at study entry (including patients with blood eosinophils &lt;150 cells/μL) and maintained over an additional period of 24 to 32 weeks. The annualised exacerbation rate in Trial 6 was comparable to that reported in previous trials.
 
 ## Long-term extension trials
 
@@ -433,42 +438,42 @@ At the recommended dose regimen, the reduction in annual rate of exacerbations o
 
 Table 6. Exacerbations over an extended treatment period a
 
-|      | Placebo b (N=338)   | Benralizumab (N=318)   | Benralizumab (N=318)   | Benralizumab (N=318)   |
-|------|---------------------|------------------------|------------------------|------------------------|
-|      | Trial1&2            | Trial1&2               | Trial 4                | Trial 1,2&4 c          |
-| Rate | 1.23                | 0.65                   | 0.48                   | 0.56                   |
+| Placebo b (N=338)   | Benralizumab (N=318)   | Benralizumab (N=318)   | Benralizumab (N=318)   |
+|---------------------|------------------------|------------------------|------------------------|
+| Trial 1 & 2         | Trial 1 & 2            | Trial 4                | Trial 1, 2 & 4 c       |
 
-a. Patients that entered Trial 4 from predecessor Trials 1 and 2 with baseline blood eosinophil counts ≥300 cells/μL who were taking high-dose ICS.
+<div style=\"page-break-after: always\"></div>
 
-b. Placebo patients in Trials 1 and 2 are included up to the end of the predecessor trial (Week 48 in Trial 1, Week 56 in Trial 2).
+| Rate   | 1.23   | 0.65   | 0.48   | 0.56   |
+|--------|--------|--------|--------|--------|
 
 c. Total duration of treatment: 104 - 112 weeks.
 
 Similar maintenance of effect was observed throughout Trial 4 in lung function, ACQ-6 and AQLQ(S)+12 (Table 7).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 7. Change from baseline for lung function, ACQ-6, and AQLQ(S)+12 a
 
-|                              | Trial1&2 Baseline b          | Trial1&2EOT c                | Trial 4 EOT d                |
-|------------------------------|------------------------------|------------------------------|------------------------------|
-| Pre-bronchodilator FEV 1 (L) | Pre-bronchodilator FEV 1 (L) | Pre-bronchodilator FEV 1 (L) | Pre-bronchodilator FEV 1 (L) |
-| n                            | 318                          | 305                          | 290                          |
-| Mean baseline (SD)           | 1.741 (0.621)                | --                           | --                           |
-| Change from baseline (SD) e  | --                           | 0.343 (0.507)                | 0.404 (0.555)                |
-| ACQ-6                        | ACQ-6                        | ACQ-6                        | ACQ-6                        |
-| n                            | 318                          | 315                          | 296                          |
-| Mean baseline (SD)           | 2.74 (0.90)                  | --                           | --                           |
-| Change from baseline (SD) e  | --                           | -1.44 (1.13)                 | -1.47 (1.05)                 |
-| AQLQ(S)+12                   | AQLQ(S)+12                   | AQLQ(S)+12                   | AQLQ(S)+12                   |
-| n                            | 307                          | 306                          | 287                          |
-| Mean baseline (SD)           | 3.90 (0.99)                  | --                           | --                           |
-| Change from baseline (SD) e  | --                           | 1.58 (1.23)                  | 1.61 (1.21)                  |
+|                              | Trial 1 & 2 Baseline b   | Trial 1 & 2 EOT c   | Trial 4 EOT d   |
+|------------------------------|--------------------------|---------------------|-----------------|
+| Pre-bronchodilator FEV 1 (L) |                          |                     |                 |
+| n                            | 318                      | 305                 | 290             |
+| Mean baseline (SD)           | 1.741 (0.621)            | --                  | --              |
+| Change from baseline (SD) e  | --                       | 0.343 (0.507)       | 0.404 (0.555)   |
+| ACQ-6                        |                          |                     |                 |
+| n                            | 318                      | 315                 | 296             |
+| Mean baseline (SD)           | 2.74 (0.90)              | --                  | --              |
+| Change from baseline (SD) e  | --                       | -1.44 (1.13)        | -1.47 (1.05)    |
+| AQLQ(S)+12                   |                          |                     |                 |
+| n                            | 307                      | 306                 | 287             |
+| Mean baseline (SD)           | 3.90 (0.99)              | --                  | --              |
+| Change from baseline (SD) e  | --                       | 1.58 (1.23)         | 1.61 (1.21)     |
 
 n=number of patients with data at timepoint. SD=standard deviation.
 
-- a. Baseline blood eosinophil counts ≥300 cells/μL and taking high-dose ICS: benralizumab administered at the recommended dose regimen.
-- b. Integrated analysis of Trial 1 and 2 baseline includes adults and adolescents.
+a. Baseline blood eosinophil counts ≥300 cells/μL and taking high-dose ICS: benralizumab administered at the recommended dose regimen.
+
+b. Integrated analysis of Trial 1 and 2 baseline includes adults and adolescents.
+
 - c. Integrated analysis at End of Treatment (EOT) of Trial 1 (Week 48) and Trial 2 (Week 56).
 - d. EOT for Trial 4 was Week 48 (the last timepoint for adults and adolescent data).
 - e. Baseline is prior to benralizumab treatment in Trial 1 and 2.
@@ -477,11 +482,11 @@ Efficacy in Trial 4 was also evaluated in patients with baseline blood eosinophi
 
 Maintenance of the reduction in daily OCS dose was also observed over the extension trial in patients enrolled from Trial 3 (Figure 1).
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 1. Median percent reductions in daily OCS over time (Trial 3 and 4) a
 
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 - a. Predecessor Trial 3 patients who continued benralizumab treatment into Trial 4. Patients were permitted to enter a second extension trial after a minimum of 8 weeks in Trial 4 without completing the 56-week extension period.
 
@@ -497,19 +502,21 @@ The primary endpoint was the proportion of subjects in remission, defined as Bir
 
 Table 8. Remission and components of remission in EGPA
 
-|                                               | Remission (OCS≤4 mg/day + BVAS=0)             | Remission (OCS≤4 mg/day + BVAS=0)             | OCS≤4 mg/day                                  | OCS≤4 mg/day                                  | BVAS=0                                        | BVAS=0                                        |
-|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-|                                               | Benra a N=70                                  | Mepo b N=70                                   | Benra a N=70                                  | Mepo b N=70                                   | Benra a N=70                                  | Mepo b N=70                                   |
-| Patients in remission at both Weeks 36 and 48 | Patients in remission at both Weeks 36 and 48 | Patients in remission at both Weeks 36 and 48 | Patients in remission at both Weeks 36 and 48 | Patients in remission at both Weeks 36 and 48 | Patients in remission at both Weeks 36 and 48 | Patients in remission at both Weeks 36 and 48 |
-| Patients, n (%) c                             | 40 (58)                                       | 40 (57)                                       | 42 (61)                                       | 41 (58)                                       | 58 (83)                                       | 59 (84)                                       |
-| Differences in remission rate (%) c (95% CI)  | 1.21                                          | 1.21                                          | 2.64                                          | 2.64                                          | -1.17                                         | -1.17                                         |
-| (p-value)                                     | (-14.12, 16.53) (0.88) d                      | (-14.12, 16.53) (0.88) d                      | (-12.67, 17.95) (0.74) d e                    | (-12.67, 17.95) (0.74) d e                    | (-13.27, 10.94) (0.85) d e                    | (-13.27, 10.94) (0.85) d e                    |
-| Accrued duration over 52 weeks, n (%)         | Accrued duration over 52 weeks, n (%)         | Accrued duration over 52 weeks, n (%)         | Accrued duration over 52 weeks, n (%)         | Accrued duration over 52 weeks, n (%)         | Accrued duration over 52 weeks, n (%)         | Accrued duration over 52 weeks, n (%)         |
-| 0 weeks f                                     | 9 (13)                                        | 15 (21)                                       | 9 (13)                                        | 12 (17)                                       | 0                                             | 0                                             |
-| >0 to <12 weeks                               | 13 (19)                                       | 10 (14)                                       | 11 (16)                                       | 12 (17)                                       | 0                                             | 2 (3)                                         |
-| 12 to <24 weeks                               | 8 (11)                                        | 8 (11)                                        | 9 (13)                                        | 8 (11)                                        | 2 (3)                                         | 2 (3)                                         |
-| 24 to <36 weeks                               | 20 (29)                                       | 19 (27)                                       | 19 (27)                                       | 18 (26)                                       | 6 (9)                                         | 7 (10)                                        |
-| ≥36 weeks                                     | 20 (29)                                       | 18 (26)                                       | 22 (31)                                       | 20 (29)                                       | 62 (89)                                       | 59 (84)                                       |
+|                                               | Remission (OCS≤4 mg/day + BVAS=0) - Benra a N=70   | Remission (OCS≤4 mg/day + BVAS=0) - Mepo b N=70   | OCS≤4 mg/day - Benra a N=70                   | OCS≤4 mg/day - Mepo b N=70                    | BVAS=0 - Benra a N=70                         | BVAS=0 - Mepo b N=70                          |
+|-----------------------------------------------|----------------------------------------------------|---------------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| Patients in remission at both Weeks 36 and 48 | Patients in remission at both Weeks 36 and 48      | Patients in remission at both Weeks 36 and 48     | Patients in remission at both Weeks 36 and 48 | Patients in remission at both Weeks 36 and 48 | Patients in remission at both Weeks 36 and 48 | Patients in remission at both Weeks 36 and 48 |
+| Patients, n (%) c                             | 40 (58)                                            | 40 (57)                                           | 42 (61)                                       | 41 (58)                                       | 58 (83)                                       | 59 (84)                                       |
+
+<div style=\"page-break-after: always\"></div>
+
+| Differences in remission rate (%) c (95% CI) - (p-value)   | 1.21 - (-14.12, 16.53) (0.88) d       | 1.21 - (-14.12, 16.53) (0.88) d       | 2.64 - (-12.67, 17.95) (0.74) d, e    | 2.64 - (-12.67, 17.95) (0.74) d, e    | -1.17 - (-13.27, 10.94) (0.85) d, e   | -1.17 - (-13.27, 10.94) (0.85) d, e   |
+|------------------------------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
+| Accrued duration over 52 weeks, n (%)                      | Accrued duration over 52 weeks, n (%) | Accrued duration over 52 weeks, n (%) | Accrued duration over 52 weeks, n (%) | Accrued duration over 52 weeks, n (%) | Accrued duration over 52 weeks, n (%) | Accrued duration over 52 weeks, n (%) |
+| 0 weeks f                                                  | 9 (13)                                | 15 (21)                               | 9 (13)                                | 12 (17)                               | 0                                     | 0                                     |
+| >0 to <12 weeks                                            | 13 (19)                               | 10 (14)                               | 11 (16)                               | 12 (17)                               | 0                                     | 2 (3)                                 |
+| 12 to <24 weeks                                            | 8 (11)                                | 8 (11)                                | 9 (13)                                | 8 (11)                                | 2 (3)                                 | 2 (3)                                 |
+| 24 to <36 weeks                                            | 20 (29)                               | 19 (27)                               | 19 (27)                               | 18 (26)                               | 6 (9)                                 | 7 (10)                                |
+| ≥36 weeks                                                  | 20 (29)                               | 18 (26)                               | 22 (31)                               | 20 (29)                               | 62 (89)                               | 59 (84)                               |
 
 N=number of patients in analysis.
 
@@ -519,8 +526,6 @@ N=number of patients in analysis.
 - d. Used for superiority testing.
 - e. Not formally tested in a pre-specified multiplicity testing procedure.
 - f. Did not achieve remission at any point.
-
-<div style=\"page-break-after: always\"></div>
 
 The proportion of patients achieving remission within the first 24 weeks of treatment and remaining in remission through Week 52 was 42% for benralizumab and 37% for mepolizumab (difference in responder rate 5.54%, 95% CI: -9.30, 20.37, nominal p-value 0.46).
 
@@ -538,37 +543,81 @@ The average daily OCS dose during Weeks 48 to 52 is presented in Table 9. A 100%
 
 Table 9. Average daily oral corticosteroid dose during weeks 48 to 52 in EGPA
 
-|                 | Number (%) of Patients   | Number (%) of Patients   |
-|-----------------|--------------------------|--------------------------|
-|                 | Benralizumab a (N=70)    | Mepolizumab b (N=70)     |
-| 0 mg            | 29 (41)                  | 19 (27)                  |
-| >0 to ≤4.0 mg   | 19 (27)                  | 30 (43)                  |
-| >4.0 to ≤7.5 mg | 15 (21)                  | 13 (19)                  |
-| >7.5 mg         | 7 (10)                   | 8 (11)                   |
+|                 | Number (%) of Patients - Benralizumab a (N=70)   | Number (%) of Patients - Mepolizumab b (N=70)   |
+|-----------------|--------------------------------------------------|-------------------------------------------------|
+| 0 mg            | 29 (41)                                          | 19 (27)                                         |
+| >0 to ≤4.0 mg   | 19 (27)                                          | 30 (43)                                         |
+| >4.0 to ≤7.5 mg | 15 (21)                                          | 13 (19)                                         |
+| >7.5 mg         | 7 (10)                                           | 8 (11)                                          |
+
+N=number of patients in analysis.
+
+- a. Benralizumab 30 mg administered every 4 weeks.
+- b. Mepolizumab 300 mg administered every 4 weeks.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Asthma Control Questionnaire-6 (ACQ-6)
 
 The ACQ-6 mean change from baseline was -0.57 for benralizumab versus -0.61 for mepolizumab (difference 0.05, 95% CI: -0.18, 0.27, nominal p-value 0.67).
 
+## Hypereosinophilic syndrome (HES)
+
+The efficacy of benralizumab was evaluated in a randomised, double-blind, parallel-group, placebo-controlled clinical trial of 24-week treatment duration, in patients aged 12 years and older with HES (without an identifiable non-haematologic secondary cause). A total of 133 patients (129 adults and 4 adolescents) who had signs or symptoms of HES flare or had experienced at least two HES flares within the past 12 months received randomised treatment. At screening, patients had a blood eosinophil count ≥1 000 cells/µL and stable HES therapy for at least 4 weeks. HES therapy included OCS, immunosuppressive/cytotoxic therapy or other symptomatic therapies associated with HES. Patients with active life-threatening manifestations of HES, or who were FIP1L1-PDGFRA kinase-positive, were excluded from the study. Patients were randomised to benralizumab 30 mg or placebo administered subcutaneously every 4 weeks while continuing their stable HES therapy. All randomised patients demonstrated corticosteroid responsiveness (blood eosinophil count &lt;1 000 cells/µL) to a 2-day OCS treatment during screening. Three patients classified as having EGPA/HES overlap were included in the trial.
+
+The primary endpoint was time to first HES flare, defined as a HES clinical manifestation or laboratory abnormality that resulted in an increase or addition of OCS of 10 mg/day or more for at least 2 days or, an increase or addition of new cytotoxic and/or immunosuppressive therapy or hospitalisation. Treatment with benralizumab delayed the time to first HES flare (Figure 2) and resulted in a significant 65% reduction in the risk of first flare over the treatment period versus placebo (HR: 0.35; 95% CI: 0.18, 0.69; p=0.0024). In addition, a greater proportion of patients on benralizumab remained flare-free (81% vs 58% on placebo) and fewer patients experienced HES flares resulting in an increase of OCS with benralizumab (12 [18%]) compared to placebo (28 [42%]), over the 24-week treatment period.
+
+Figure 2. Kaplan Meier curve for time to first HES flare versus placebo
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Key secondary endpoints were proportion of patients who experienced a HES flare during the treatment period, rate of HES flares, time to first haematologic relapse, and change from baseline in fatigue severity (Table 10). All key secondary endpoints were statistically significant.
+
+Table 10. Key secondary efficacy endpoints, HES trial
+
+|                                                                                    | Benralizumab a (N=67)   | Placebo (N=66)          |
+|------------------------------------------------------------------------------------|-------------------------|-------------------------|
+| Proportion of patients who experienced a HES flare                                 |                         |                         |
+| Patients with ≥1 HES flare or who withdrew from study b , n (%)                    | 15 (22)                 | 30 (45)                 |
+| Odds ratio c (95% CI)                                                              | 0.31 (0.14, 0.69)       | 0.31 (0.14, 0.69)       |
+| p-value                                                                            | 0.003                   | 0.003                   |
+| % Relative reduction (Relative risk [95% CI])                                      | 52% (0.48 [0.29, 0.80]) | 52% (0.48 [0.29, 0.80]) |
+| Rate of HES flares                                                                 |                         |                         |
+| Rate/year                                                                          | 0.41                    | 1.23                    |
+| Rate ratio c (95% CI)                                                              | 0.34 (0.18, 0.63)       | 0.34 (0.18, 0.63)       |
+| p-value                                                                            | 0.0008                  | 0.0008                  |
+| Time to first haematologic relapse d                                               |                         |                         |
+| Patients with haematologic relapse, n (%)                                          | 5 (7)                   | 39 (59)                 |
+| Hazard ratio c (95% CI)                                                            | 0.08 (0.03, 0.20)       | 0.08 (0.03, 0.20)       |
+| p-value                                                                            | <0.0001                 | <0.0001                 |
+| Change from baseline in fatigue severity based on PROMIS Fatigue e                 |                         |                         |
+| Absolute change from baseline in standardised T-score at Week 24, LS mean (95% CI) | -8.6 (-10.6, -6.6)      | -3.9 (-6.0, -1.8)       |
+| Difference versus placebo (95% CI)                                                 | -4.7 (-7.6, -1.8)       | -4.7 (-7.6, -1.8)       |
+| p-value                                                                            | 0.0017                  | 0.0017                  |
+
 ## Immunogenicity
 
 Overall, treatment-emergent anti-drug antibody (ADA) response developed in 107 out of 809 (13%) patients with asthma treated with benralizumab at the recommended dose regimen during the 48 to 56 week treatment period of the phase 3 placebo-controlled exacerbation trials. Most antibodies were neutralising and persistent. Anti-benralizumab antibodies were associated with increased clearance of benralizumab and increased blood eosinophil levels in patients with high ADA titres compared to antibody negative patients; in rare cases, blood eosinophil levels returned to pre-treatment levels. Based on current patient follow-up, no evidence of an association of ADA with efficacy or safety was observed.
 
-Following a second year of treatment of these patients with asthma from the phase 3 placebo-controlled trials, an additional 18 out of 510 (4%) had newly developed treatment-emergent antibodies. Overall, in patients who were ADA positive in the predecessor trials, titres remained stable or declined in the second year of treatment. No evidence of an association of ADA with efficacy or safety was observed.
-
 <div style=\"page-break-after: always\"></div>
 
-In patients with EGPA, treatment-emergent ADA response developed in 6 out of 67 (9%) patients treated with benralizumab during the Phase 3 active-controlled 52-week treatment period. Neutralising antibody activity was detected in one of the ADA positive patients.
+Following a second year of treatment of these patients with asthma from the phase 3 placebo-controlled trials, an additional 18 out of 510 (4%) had newly developed treatment-emergent antibodies. Overall, in patients who were ADA positive in the predecessor trials, titres remained stable or declined in the second year of treatment. No evidence of an association of ADA with efficacy or safety was observed.
+
+In patients with EGPA, treatment-emergent ADA response developed in 6 out of 67 (9%) patients treated with benralizumab during the phase 3 active-controlled 52-week treatment period. Neutralising antibody activity was detected in one of the ADA positive patients.
+
+In patients with HES, treatment-emergent ADA response developed in 7 out of 66 (11%) patients treated with benralizumab during the phase 3 placebo-controlled 24-week treatment period. A total of 2 (3%) patients in the benralizumab group developed neutralising antibodies.
 
 ## Paediatric population
 
 ## Asthma
 
-There were 108 adolescents aged 12 to 17 with asthma enrolled in the phase 3 trials (Trial 1: n=53, Trial 2: n=55). Of these, 46 received placebo, 40 received benralizumab every 4 weeks for 3 doses, followed by every 8 weeks thereafter, and 22 received benralizumab every 4 weeks. In these trials, the asthma exacerbation rate in adolescent patients treated with benralizumab administered at the recommended dose regimen was 0.70 (n=40, 95% CI: 0.42, 1.18) compared to 0.41 for placebo (n=46, 95% CI: 0.23, 0.73) [rate ratio 1.70, 95% CI: 0.78, 3.69].
+There were 108 adolescents aged 12 to 17 years with asthma enrolled in the phase 3 trials (Trial 1: n=53, Trial 2: n=55). Of these, 46 received placebo, 40 received benralizumab every 4 weeks for 3 doses, followed by every 8 weeks thereafter, and 22 received benralizumab every 4 weeks. In these trials, the asthma exacerbation rate in adolescent patients treated with benralizumab administered at the recommended dose regimen was 0.70 (n=40, 95% CI: 0.42, 1.18) compared to 0.41 for placebo (n=46, 95% CI: 0.23, 0.73) [rate ratio 1.70, 95% CI: 0.78, 3.69].
 
-Adolescent patients aged 12 to 17 (n=86) from Trials 1 and 2 continued treatment with benralizumab in Trial 4 for up to 108 weeks. Efficacy and safety were consistent with the predecessor trials.
+Adolescent patients aged 12 to 17 years (n=86) from Trials 1 and 2 continued treatment with benralizumab in Trial 4 for up to 108 weeks. Efficacy and safety were consistent with the predecessor trials.
 
-In an open-label, uncontrolled pharmacokinetic and pharmacodynamic study of 48 weeks duration in a limited number of patients 6 to 11 years (n=28) with uncontrolled severe asthma, the magnitude of blood eosinophil depletion was similar to adults and adolescents.
+In an open-label, uncontrolled pharmacokinetic and pharmacodynamic study of 48 weeks duration in a limited number of patients aged 6 to 11 years (n=28) with uncontrolled severe asthma, the magnitude of blood eosinophil depletion was similar to adults and adolescents.
 
 No conclusion can be drawn regarding asthma efficacy in the paediatric population (see section 4.2).
 
@@ -578,9 +627,17 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with benralizumab in one or more subsets of the paediatric population in EGPA (see section 4.2 for information on paediatric use).
 
+## Hypereosinophilic syndrome (HES)
+
+There were 4 adolescents aged 12 to 17 years with HES enrolled in the phase 3 trial, 3 adolescents received benralizumab and 1 received placebo every 4 weeks for 24 weeks. One adolescent patient in each treatment group had a HES flare during the 24-week treatment period.
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with benralizumab in one or more subsets of the paediatric population in HES (see section 4.2 for information on paediatric use).
+
 ## 5.2 Pharmacokinetic properties
 
 The pharmacokinetic properties of benralizumab below are based on the population pharmacokinetics analyses from the asthma trials. The pharmacokinetics of benralizumab were dose-proportional in patients with asthma following subcutaneous administration over a dose range of 2 to 200 mg.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Absorption
 
@@ -594,11 +651,9 @@ Based on population pharmacokinetic analysis, central and peripheral volume of d
 
 Benralizumab is a humanised IgG1 monoclonal antibody that is degraded by proteolytic enzymes widely distributed in the body and not restricted to hepatic tissue.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elimination
 
-From population pharmacokinetic analysis, benralizumab exhibited linear pharmacokinetics and no evidence of target receptor-mediated clearance pathway. The estimated systemic clearance (CL) for benralizumab was at 0.29 L/d. In patients with EGPA, the model estimated systemic clearance was 0.22 L/d. Following subcutaneous administration, the elimination half-life was approximately 15.5 days.
+From population pharmacokinetic analysis, benralizumab exhibited linear pharmacokinetics and no evidence of target receptor-mediated clearance pathway. The estimated systemic clearance (CL) for benralizumab was at 0.29 L/d. In patients with EGPA and HES, the model estimated systemic clearance was approximately 0.22 L/d. Following subcutaneous administration, the elimination half-life was approximately 15.5 days.
 
 ## Special populations
 
@@ -609,6 +664,8 @@ Based on population pharmacokinetic analysis, age did not affect benralizumab cl
 ## Paediatric population
 
 Based on population pharmacokinetic analysis and clinical study data, the pharmacokinetics of benralizumab in children and adolescents aged 6 to 17 years with asthma were consistent with adults after accounting for bodyweight as applicable (see section 4.2).
+
+The pharmacokinetics of benralizumab in adolescents aged 12 to 17 years with HES (n=3), supplemented by modelling and simulation, were generally consistent with adults (see section 4.2).
 
 ## Gender, race
 
@@ -622,6 +679,8 @@ No formal clinical studies have been conducted to investigate the effect of rena
 
 No formal clinical studies have been conducted to investigate the effect of hepatic impairment on benralizumab. IgG monoclonal antibodies are not primarily cleared via hepatic pathway; change in hepatic function is not expected to influence benralizumab clearance. Based on population pharmacokinetic analysis, baseline hepatic function biomarkers (ALT, AST, and bilirubin) had no clinically relevant effect on benralizumab clearance.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Interaction
 
 Based on the population pharmacokinetic analysis, commonly co-administered medicinal products (montelukast, paracetamol, proton pump inhibitors, macrolides and theophylline/aminophylline) had no effect on benralizumab clearance in patients with asthma.
@@ -630,11 +689,9 @@ Based on the population pharmacokinetic analysis, commonly co-administered medic
 
 As benralizumab is a monoclonal antibody, no genotoxicity or carcinogenicity studies have been conducted.
 
-## Animal toxicology and/or pharmacology
+Animal toxicology and/or pharmacology
 
 Non-clinical data reveal no special hazards for humans based on conventional studies of safety pharmacology or repeated dose toxicity studies in monkeys. Intravenous and subcutaneous administration to cynomolgus monkeys was associated with reductions in peripheral blood and bone marrow eosinophil counts, with no toxicological findings.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -648,7 +705,7 @@ No dedicated animal studies have been conducted. No benralizumab-related impairm
 
 ## 6.1 List of excipients
 
-Histidine Histidine hydrochloride monohydrate Trehalose dihydrate Polysorbate 20 (E 432) Water for injections
+Histidine (for pH-adjustment) Histidine hydrochloride monohydrate (for pH-adjustment) Trehalose dihydrate Polysorbate 20 (E 432) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -660,25 +717,27 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C to 8°C).
+Store in a refrigerator (2 °C to 8 °C).
 
-Fasenra may be kept at room temperature up to 25°C for a maximum of 14 days. After removal from the refrigerator, Fasenra must be used within 14 days or discarded. Store in the original package in order to protect from light.
+Fasenra may be kept at room temperature up to 25 °C for a maximum of 14 days. After removal from the refrigerator, Fasenra must be used within 14 days or discarded.
+
+Store in the original package in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not freeze. Do not shake. Do not expose to heat.
 
 ## 6.5 Nature and contents of container
 
-## Pre-filled syringe
+Pre-filled syringe
 
-One mL solution in a single-use pre-filled syringe made from type I glass with a staked 29-gauge ½-inch (12.7 mm) stainless steel needle, rigid needle shield, and Fluorotec-coated plunger stopper in a passive safety device.
+One mL solution in a single-use type I glass syringe with a staked 29-gauge ½-inch (12.7 mm) stainless steel needle, rigid needle shield, and FluroTec-coated plunger stopper. The pre-filled syringe is assembled with a needle guard, a finger flange, and a plunger rod.
 
 Pack containing 1 pre-filled syringe.
 
-## Pre-filled pen
+Pre-filled pen
 
-One mL solution in a sterile, single use pre-filled pen made from type I glass with staked 29-gauge ½-inch (12.7 mm) stainless steel needle, rigid needle shield, and Fluorotec-coated stopper in a pre-filled pen.
-
-<div style=\"page-break-after: always\"></div>
+One mL solution in a single-use type I glass syringe with a staked 29-gauge ½-inch (12.7 mm) stainless steel needle, rigid needle shield, and FluroTec-coated plunger stopper. The pre-filled pen consists of the syringe and handheld, mechanical (spring-based) injection device.
 
 Pack containing 1 pre-filled pen.
 
@@ -686,7 +745,7 @@ Not all presentations may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Prior to administration, allow the pre-filled syringe or pre-filled pen to reach room temperature 20°C to 25°C by leaving the carton out of the refrigerator for around 30 minutes.
+Prior to administration, allow the pre-filled syringe or pre-filled pen to reach room temperature 20 °C to 25 °C by leaving the carton out of the refrigerator for around 30 minutes.
 
 Visually inspect Fasenra for particulate matter and discolouration prior to administration. Fasenra is clear to opalescent, colourless to yellow, and may contain translucent or white to off-white particles. Do not use Fasenra if liquid is cloudy, discoloured, or if it contains large particles or foreign particulate matter.
 
@@ -704,9 +763,9 @@ EU/1/17/1252/001 1 pre-filled syringe EU/1/17/1252/002 1 pre-filled pen
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 08 January 2018
+Date of first authorisation: 08 January 2018 Date of latest renewal: 15 September 2022
 
-Date of latest renewal: 15 September 2022
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -716,9 +775,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND
-
-## MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -789,7 +846,9 @@ An updated RMP should be submitted:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Fasenra 30 mg solution for injection in pre-filled syringe benralizumab
+Fasenra 30 mg solution for injection in pre-filled syringe
+
+benralizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -829,59 +888,67 @@ Store in a refrigerator.
 
 Do not freeze, shake or expose to heat.
 
-<div style=\"page-break-after: always\"></div>
-
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-AstraZeneca AB SE-151 85 Södertälje
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Sweden
+AstraZeneca AB SE-151 85 Södertälje Sweden
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/17/1252/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 fasenra 30 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERED PRE-FILLED SYRINGE                          |
 
-## BLISTERED PRE-FILLED SYRINGE
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Fasenra 30 mg solution for injection in pre-filled syringe benralizumab
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 AstraZeneca
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -890,27 +957,27 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
-Subcutaneous use
-
-Store in a refrigerator.
-
-Do not freeze, shake or expose to heat.
-
-Keep the pre-filled syringe in the outer carton in order to protect from light.
+Subcutaneous use Store in a refrigerator. Do not freeze, shake or expose to heat. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Fasenra 30 mg injection benralizumab SC
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -919,7 +986,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -974,9 +1042,9 @@ Discard date:
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Store in a refrigerator.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not freeze, shake or expose to heat.
 
@@ -986,11 +1054,9 @@ Keep the pre-filled pen in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB
-
 SE-151 85 Södertälje
 
-Sweden
+AstraZeneca AB Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1001,14 +1067,13 @@ EU/1/17/1252/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 fasenra 30 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1020,27 +1085,36 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+1.
+
+NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Fasenra 30 mg injection benralizumab Subcutaneous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 AstraZeneca
 
@@ -1056,10 +1130,10 @@ AstraZeneca
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1088,9 +1162,15 @@ Fasenra is used together with other medicines to treat asthma (high doses of 'co
 
 Fasenra is used to treat EGPA in adults. EGPA is a condition where people have too many eosinophils in the blood and tissues and also have a form of vasculitis. This means there is inflammation of the blood vessels. This condition most commonly affects the lungs and sinuses but often affects other organs such as the skin, heart and kidneys.
 
+## Hypereosinophilic syndrome (HES)
+
+Fasenra is used to treat HES in adults and adolescents 12 years and older weighing at least 35 kg. Patients with HES have a high number of eosinophils in the blood. These cells can damage organs in the body, particularly heart, lungs, nerves and skin.
+
 ## How Fasenra works
 
-Eosinophils are white blood cells involved in asthma and EGPA inflammation. By attaching to the eosinophils, Fasenra helps to reduce their numbers and inflammation.
+Eosinophils are white blood cells involved in asthma, EGPA and HES inflammation. By attaching to the eosinophils, Fasenra helps to reduce their numbers and inflammation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What are the benefits of using Fasenra
 
@@ -1098,11 +1178,13 @@ Eosinophils are white blood cells involved in asthma and EGPA inflammation. By a
 
 Fasenra may reduce the number of asthma attacks you are experiencing, help you breathe better and decrease your asthma symptoms. If you are taking medicines called 'oral corticosteroids', using Fasenra may also allow you to reduce the daily dose or stop the oral corticosteroids you need to control your asthma.
 
-<div style=\"page-break-after: always\"></div>
-
 ## EGPA
 
 Fasenra can reduce symptoms and prevent flare-ups of EGPA. This medicine may also allow you to reduce the daily dose of oral corticosteroids you need to control your symptoms.
+
+## HES
+
+Fasenra helps reduce your symptoms and prevent flares of HES.
 
 ## 2. What you need to know before you use Fasenra
 
@@ -1112,12 +1194,12 @@ Fasenra can reduce symptoms and prevent flare-ups of EGPA. This medicine may als
 
 ## Warnings and precautions
 
-Talk to your doctor, nurse or pharmacist before you are given Fasenra:
+Talk to your doctor, nurse or pharmacist before you use Fasenra:
 
 - if you have a parasitic infection or if you live in an area where parasitic infections are common or you are travelling to such a region. This medicine may weaken your ability to fight certain types of parasitic infections.
 - if you have had an allergic reaction to an injection or medicine in the past (see section 4 for symptoms of an allergic reaction).
 
-Also, talk to your doctor, nurse or pharmacist when you are given Fasenra:
+Also, talk to your doctor, nurse or pharmacist when you use Fasenra:
 
 - if your asthma remains uncontrolled or worsens during treatment with this medicine.
 - if you have any symptoms of an allergic reaction (see section 4). Allergic reactions have occurred in patients receiving this medicine.
@@ -1132,23 +1214,25 @@ It is important that you talk to your doctor about how to recognise early sympto
 
 In order to improve the traceability of biological medicinal products, record the name and the lot number, included on the outer carton and the label of the pre-filled syringe, every time you get a new package of Fasenra and provide this information when reporting any side effects.
 
-## Other medicines for asthma or EGPA
+## Other medicines for asthma, EGPA or HES
 
 Do not suddenly stop taking or change the dose of your other medicines for your condition once you have started Fasenra.
 
 If your response to the treatment allows it, your doctor may try to reduce the dose of some of these medicines, especially ones called 'corticosteroids'. This should be done gradually and under the direct supervision of your doctor.
 
+<div style=\"page-break-after: always\"></div>
+
 Tell your doctor if you are taking, have recently taken or might take any other medicines before using Fasenra.
 
 ## Children and adolescents
 
-Do not give this medicine to children below the age of 18 because the safety and benefits of this medicine are not known in this population.
+Do not give this medicine to children with asthma and EGPA below the age of 18 because the safety and benefits of this medicine are not known in this population.
+
+Do not give this medicine to children with HES below the age of 12 or adolescents 12 years of age and older weighing less than 35 kg. The safety and benefits of this medicine are not known in this population.
 
 ## Pregnancy and breast-feeding
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not use Fasenra if you are pregnant unless your doctor tells you otherwise. It is not known whether Fasenra could harm your unborn baby.
 
@@ -1174,6 +1258,10 @@ The recommended dose is an injection of 30 mg. The first 3 injections are every 
 
 The recommended dose is an injection of 30 mg every 4 weeks.
 
+## HES
+
+The recommended dose is an injection of 30 mg every 4 weeks.
+
 Fasenra is given as an injection just under the skin (subcutaneously). You and your doctor or nurse should decide if you should inject Fasenra yourself. You should not inject Fasenra yourself if you have not received Fasenra previously and if you had previous allergic reaction with Fasenra.
 
 You or your caregiver should receive training on the right way to inject Fasenra. Read the 'Instructions for Use' for the pre-filled syringe carefully before using Fasenra.
@@ -1181,6 +1269,8 @@ You or your caregiver should receive training on the right way to inject Fasenra
 ## If you forget to use Fasenra
 
 If you have forgotten to inject a dose of Fasenra, talk to your doctor, pharmacist or nurse as soon as possible.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Stopping treatment with Fasenra
 
@@ -1200,8 +1290,6 @@ Seek medical attention immediately if you think you may be having an allergic re
 
 Not known (the frequency cannot be estimated from the available data):
 
-<div style=\"page-break-after: always\"></div>
-
 - anaphylaxis
 
 symptoms usually include:
@@ -1216,9 +1304,9 @@ symptoms usually include:
 
 ## Other side effects
 
-## Common (these may affect up to 1 in 10 people )
+Common (these may affect up to 1 in 10 people )
 
-- headache
+- headache (in patients with EGPA or HES: very common [may affect more than 1 in 10 people ])
 - pharyngitis (sore throat)
 - fever (high temperature)
 - injection site reaction (for example pain, redness, itching, swelling near where the injection was given)
@@ -1239,11 +1327,13 @@ The expiry date refers to the last day of that month.
 
 Store in the original package in order to protect from light.
 
-Store in a refrigerator (2°C to 8°C).
+Store in a refrigerator (2 °C to 8 °C).
 
-The syringe may be kept at room temperature up to 25°C for a maximum of 14 days. After removal from the refrigerator, Fasenra must be used within 14 days or discarded, and the discard date should be written on the carton.
+The syringe may be kept at room temperature up to 25 °C for a maximum of 14 days. After removal from the refrigerator, Fasenra must be used within 14 days or discarded, and the discard date should be written on the carton.
 
 Do not shake, freeze or expose to heat.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1257,9 +1347,7 @@ The other ingredients are histidine, histidine hydrochloride monohydrate, trehal
 
 ## What Fasenra looks like and contents of the pack
 
-Fasenra is a solution in a clear glass syringe. Its colour may vary from colourless to yellow. It may contain particles.
-
-<div style=\"page-break-after: always\"></div>
+Fasenra is a clear solution in a clear glass syringe. Its colour may vary from colourless to yellow. It may contain particles.
 
 Fasenra is available in a pack containing 1 pre-filled syringe.
 
@@ -1273,7 +1361,9 @@ AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
 
 MedImmune UK Ltd 6 Renaissance Way Liverpool, L24 9JW United Kingdom
 
-AstraZeneca Nijmegen B.V., Nijmegen Lagelandseweg 78 Nijmegen, 6545CG Netherlands
+AstraZeneca Nijmegen B.V., Nijmegen
+
+Lagelandseweg 78 Nijmegen, 6545CG Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1283,65 +1373,45 @@ AstraZeneca S.A./N.V.
 
 Tel: +32 2 370 48 11
 
-## Lietuva
-
-UAB AstraZeneca Lietuva Tel: +370 5 2660550
-
 ## България
 
-АстраЗенека България ЕООД Тел.: +359 24455000
+АстраЗенека България ЕООД
 
-## Luxembourg/Luxemburg
+Тел.: +359 24455000
 
-AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
+Lietuva
+
+UAB AstraZeneca Lietuva
+
+Tel: +370 5 2660550
+
+Luxembourg/Luxemburg
+
+AstraZeneca S.A./N.V.
+
+Tél/Tel: +32 2 370 48 11
+
+<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
 AstraZeneca Czech Republic s.r.o. Tel: +420 222 807 111
 
-## Magyarország
-
-AstraZeneca Kft. Tel.: +36 1 883 6500
-
 ## Danmark
 
 AstraZeneca A/S Tlf.: +45 43 66 64 62
 
-## Malta
-
-Associated Drug Co. Ltd Tel: +356 2277 8000
-
 ## Deutschland
 
-AstraZeneca GmbH
-
-Tel: +49 40 809034100
-
-## Nederland
-
-AstraZeneca BV Tel: +31 85 808 9900
+AstraZeneca GmbH Tel: +49 40 809034100
 
 ## Eesti
 
-AstraZeneca
-
-Tel: +372 6549 600
-
-## Norge
-
-AstraZeneca AS
-
-Tlf: +47 21 00 64 00
+AstraZeneca Tel: +372 6549 600
 
 ## Ελλάδα
 
 AstraZeneca A.E. Τηλ: +30 210 6871500
-
-## Österreich
-
-AstraZeneca Österreich GmbH Tel: +43 1 711 31 0
-
-<div style=\"page-break-after: always\"></div>
 
 ## España
 
@@ -1349,29 +1419,57 @@ AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
 
 ## France
 
-AstraZeneca
-
-Tél: +33 1 41 29 40 00
+AstraZeneca Tél: +33 1 41 29 40 00
 
 ## Hrvatska
 
-AstraZeneca d.o.o.
-
-Tel: +385 1 4628 000
+AstraZeneca d.o.o. Tel: +385 1 4628 000
 
 ## Ireland
 
-AstraZeneca Pharmaceuticals (Ireland) DAC
-
-Tel: +353 1609 7100
+AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
+Vistor Sími: +354 535 7000
+
+## Italia
+
+AstraZeneca S.p.A. Tel: +39 02 00704500
+
+## Κύπρος
+
+Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
+
+## Latvija
+
+SIA AstraZeneca Latvija Tel: +371 67377100
+
+## This leaflet was last revised in
+
+## Magyarország
+
+AstraZeneca Kft. Tel.: +36 1 883 6500
+
+## Malta
+
+Associated Drug Co. Ltd Tel: +356 2277 8000
+
+## Nederland
+
+AstraZeneca BV Tel: +31 85 808 9900
+
+## Norge
+
+AstraZeneca AS Tlf: +47 21 00 64 00
+
+## Österreich
+
+AstraZeneca Österreich GmbH Tel: +43 1 711 31 0
+
 ## Polska
 
-AstraZeneca Pharma Poland Sp. z o.o.
-
-Tel.: +48 22 245 73 00
+AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
 
 ## Portugal
 
@@ -1379,9 +1477,7 @@ AstraZeneca Produtos Farmacêuticos, Lda. Tel: +351 21 434 61 00
 
 ## România
 
-AstraZeneca Pharma SRL
-
-Tel: +40 21 317 60 41
+AstraZeneca Pharma SRL Tel: +40 21 317 60 41
 
 ## Slovenija
 
@@ -1389,49 +1485,17 @@ AstraZeneca UK Limited Tel: +386 1 51 35 600
 
 ## Slovenská republika
 
-Vistor hf.
-
-Sími: +354 535 7000
-
-AstraZeneca AB, o.z.
-
-Tel: +421 2 5737 7777
-
-## Italia
+AstraZeneca AB, o.z. Tel: +421 2 5737 7777
 
 ## Suomi/Finland
 
-AstraZeneca S.p.A.
-
-Tel: +39 02 00704500
-
-AstraZeneca Oy
-
-Puh/Tel: +358 10 23 010
-
-## Κύπρος
+AstraZeneca Oy Puh/Tel: +358 10 23 010
 
 ## Sverige
 
-Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
+AstraZeneca AB Tel: +46 8 553 26 000
 
-AstraZeneca AB
-
-Tel: +46 8 553 26 000
-
-## Latvija
-
-## United Kingdom (Northern Ireland)
-
-SIA AstraZeneca Latvija
-
-Tel: +371 67377100
-
-AstraZeneca UK Ltd
-
-Tel: +44 1582 836 836
-
-## This leaflet was last revised in
+<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
@@ -1457,7 +1521,9 @@ If you or your caregiver have any questions, talk to your healthcare provider.
 
 ## Important information
 
-Store Fasenra in a refrigerator between 2 °C to 8 °C in its carton until you are ready to use it. Fasenra may be kept at room temperature up to 25 o C for a maximum of 14 days. After removal from the refrigerator, Fasenra must be used within 14 days or discarded.
+## Store Fasenra in a refrigerator between 2 °C to 8 °C in its carton until you are ready to use it.
+
+Fasenra may be kept at room temperature up to 25 °C for a maximum of 14 days. After removal from the refrigerator, Fasenra must be used within 14 days or discarded.
 
 Do not use your Fasenra pre-filled syringe if:
 
@@ -1465,11 +1531,6 @@ Do not use your Fasenra pre-filled syringe if:
 - it has been dropped or damaged
 - the security seal on the carton has been broken
 - the expiry date (EXP) has passed
-
-## Do not:
-
-- shake your pre-filled syringe
-- share or re-use your pre-filled syringe
 
 If any of the above happens, throw away the syringe in a puncture-resistant sharps container and use a new pre-filled syringe.
 
@@ -1485,6 +1546,11 @@ Do not touch the needle guard activation clips to keep from activating the safet
 
 <!-- image -->
 
+## Do not:
+
+- shake your pre-filled syringe
+- share or re-use your pre-filled syringe
+
 <div style=\"page-break-after: always\"></div>
 
 ## Step 1 - Gather supplies
@@ -1492,30 +1558,14 @@ Do not touch the needle guard activation clips to keep from activating the safet
 - 1 Fasenra pre-filled syringe from the refrigerator
 - 1 alcohol wipe
 - 1 cotton ball or gauze
-- •
+- ·
 - 1 puncture-resistant sharps container. (See Step 9 - Dispose of the used pre-filled syringe)
 
-Pre-filled syringe
+<!-- image -->
 
 <!-- image -->
 
-Alcohol wipe
-
-<!-- image -->
-
-Step 2 - Prepare to use your pre-filled syringe
-
-Check the expiry (EXP) date. Do not use if the expiry date has passed. Prior to administration, allow the pre-filled syringe to reach room temperature 20 °C to 25 °C by leaving the carton out of the refrigerator for about 30 minutes.
-
-Do not warm the pre-filled syringe in any other way. For example, do not warm it in a microwave or hot water, or put it near other heat sources. Use Fasenra within 14 days of removing from the refrigerator.
-
-## Step 3 - Check the liquid
-
-Grasp the syringe body ( not the plunger) to remove the pre-filled syringe.
-
-Look at the liquid through the viewing window. The liquid should be clear and colourless to yellow. It may contain small white particles. Do not inject Fasenra if the liquid is cloudy, discoloured, or contains large particles.
-
-You may see a small air bubble in the liquid. This is normal. You do not need to do anything about it.
+Pre-filled syringe Alcohol wipe
 
 <!-- image -->
 
@@ -1525,15 +1575,29 @@ Cotton ball or gauze
 
 Sharps container
 
-<!-- image -->
+Step 2 - Prepare to use your pre-filled syringe
 
-<!-- image -->
+Check the expiry (EXP) date. Do not use if the expiry date has passed. Prior to administration, allow the pre-filled syringe to reach room temperature 20 °C to 25 °C by leaving the carton out of the refrigerator for about 30 minutes.
 
-<div style=\"page-break-after: always\"></div>
+Do not warm the pre-filled syringe in any other way. For example, do not warm it in a microwave or hot water, or put it near other heat sources.
+
+Use Fasenra within 14 days of removing from the refrigerator.
+
+## Step 3 - Check the liquid
+
+Grasp the syringe body ( not the plunger) to remove the pre-filled syringe.
+
+Look at the liquid through the viewing window. The liquid should be clear and colourless to yellow. It may contain small white particles.
+
+Do not inject Fasenra if the liquid is cloudy, discoloured, or contains large particles.
+
+You may see a small air bubble in the liquid. This is normal. You do not need to do anything about it.
 
 ## Step 4 - Choose the injection site
 
-The recommended injection site is the front of your thigh. You may also use the lower part of your abdomen.
+The recommended injection site is the front of your thigh.
+
+You may also use the lower part of your abdomen.
 
 ## Do not inject:
 
@@ -1542,7 +1606,17 @@ The recommended injection site is the front of your thigh. You may also use the 
 - into scars or damaged skin
 - through clothing
 
-A caregiver may inject you in the upper-arm, thigh, or abdomen. Do not try to inject yourself in the arm. For each injection, choose a different site that is at least 3 cm away from where you last injected.
+A caregiver may inject you in the upper-arm, thigh, or abdomen. Do not try to inject yourself in the arm.
+
+For each injection, choose a different site that is at least 3 cm away from where you last injected.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 ## Step 5 - Clean the injection site
 
@@ -1562,21 +1636,11 @@ Do not hold the plunger or plunger head while removing the needle cover.
 
 Put the needle cover aside to throw away later.
 
-You may see a drop of liquid at the end of the needle. This is normal.
-
-Do not use the syringe if it is dropped without the needle cover in place or if the needle is damaged or dirty.
+You may see a drop of liquid at the end of the needle. This is normal. Do not use the syringe if it is dropped without the needle cover in place or if the needle is damaged or dirty.
 
 Do not touch the needle, or let it touch any surface.
 
 Go straight on to the next steps, without delay.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## Step 7 - Inject Fasenra
 
@@ -1592,7 +1656,21 @@ Inject Fasenra by following the steps in figures a , b and c .
 
 <!-- image -->
 
-Use a quick, dart-like motion to insert the needle into the pinched skin. Insert the needle at an angle of
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Use a quick, dart-like motion to insert the needle into the pinched
+
+skin. Insert the needle at an angle of
 
 45 degrees.
 
@@ -1605,22 +1683,6 @@ Gently hold pressure over your skin with a cotton ball or gauze until the bleedi
 Do not rub the injection site.
 
 If needed, cover the injection site with a small bandage.
-
-<!-- image -->
-
-Use your thumb to push down on the plunger head. Keep pushing until it is down as far as it will go. This is to make sure you inject all of the medication.
-
-<!-- image -->
-
-<!-- image -->
-
-Keep your thumb pressed down on the plunger head as you take the needle out of the skin. Slowly ease up on the plunger
-
-until the needle guard covers the needle.
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## Step 9 - Dispose of the used pre-filled syringe
 
@@ -1635,6 +1697,16 @@ Throw away the cap and other used supplies in your household waste.
 
 Dispose of the full container as instructed by your healthcare provider or pharmacist. Do not recycle your used sharps container.
 
+Use your thumb to push down on the plunger head.
+
+Keep pushing until it is down as far as it will go. This is to make sure you inject all of the medication.
+
+Keep your thumb pressed down on the plunger head as you take the needle out of the skin. until the needle guard covers the
+
+Slowly ease up on the plunger needle.
+
+<!-- image -->
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
@@ -1645,10 +1717,10 @@ Dispose of the full container as instructed by your healthcare provider or pharm
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1677,9 +1749,15 @@ Fasenra is used together with other medicines to treat asthma (high doses of 'co
 
 Fasenra is used to treat EGPA in adults. EGPA is a condition where people have too many eosinophils in the blood and tissues and also have a form of vasculitis. This means there is inflammation of the blood vessels. This condition most commonly affects the lungs and sinuses but often affects other organs such as the skin, heart and kidneys.
 
+## Hypereosinophilic syndrome (HES)
+
+Fasenra is used to treat HES in adults and adolescents 12 years and older weighing at least 35 kg. Patients with HES have a high number of eosinophils in the blood. These cells can damage organs in the body, particularly heart, lungs, nerves and skin.
+
 ## How Fasenra works
 
-Eosinophils are white blood cells involved in asthma and EGPA inflammation. By attaching to the eosinophils, Fasenra helps to reduce their numbers and inflammation.
+Eosinophils are white blood cells involved in asthma, EGPA and HES inflammation. By attaching to the eosinophils, Fasenra helps to reduce their numbers and inflammation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What are the benefits of using Fasenra
 
@@ -1687,11 +1765,13 @@ Eosinophils are white blood cells involved in asthma and EGPA inflammation. By a
 
 Fasenra may reduce the number of asthma attacks you are experiencing, help you breathe better and decrease your asthma symptoms. If you are taking medicines called 'oral corticosteroids', using Fasenra may also allow you to reduce the daily dose or stop the oral corticosteroids you need to control your asthma.
 
-<div style=\"page-break-after: always\"></div>
-
 ## EGPA
 
 Fasenra can reduce symptoms and prevent flare-ups of EGPA. This medicine may also allow you to reduce the daily dose of oral corticosteroids you need to control your symptoms.
+
+## HES
+
+Fasenra helps reduce your symptoms and prevent flares of HES.
 
 ## 2. What you need to know before you use Fasenra
 
@@ -1701,12 +1781,12 @@ Fasenra can reduce symptoms and prevent flare-ups of EGPA. This medicine may als
 
 ## Warnings and precautions
 
-Talk to your doctor, nurse or pharmacist before you are given Fasenra:
+Talk to your doctor, nurse or pharmacist before you use Fasenra:
 
 - if you have a parasitic infection or if you live in an area where parasitic infections are common or you are travelling to such a region. This medicine may weaken your ability to fight certain types of parasitic infections.
 - if you have had an allergic reaction to an injection or medicine in the past (see section 4 for symptoms of an allergic reaction).
 
-Also, talk to your doctor, nurse or pharmacist when you are given Fasenra:
+Also, talk to your doctor, nurse or pharmacist when you use Fasenra:
 
 - if your asthma remains uncontrolled or worsens during treatment with this medicine.
 - if you have any symptoms of an allergic reaction (see section 4). Allergic reactions have occurred in patients receiving this medicine.
@@ -1721,7 +1801,7 @@ It is important that you talk to your doctor about how to recognise early sympto
 
 In order to improve the traceability of biological medicinal products, record the name and the lot number, included on the outer carton and the label of the pre-filled pen, every time you get a new package of Fasenra and provide this information when reporting any side effects.
 
-## Other medicines for asthma or EGPA
+## Other medicines for asthma, EGPA and HES
 
 Do not suddenly stop taking or change the dose of your other medicines for your condition once you have started Fasenra.
 
@@ -1729,15 +1809,17 @@ If your response to the treatment allows it, your doctor may try to reduce the d
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines before using Fasenra.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Children and adolescents
 
-Do not give this medicine to children below the age of 18 because the safety and benefits of this medicine are not known in this population.
+Do not give this medicine to children with asthma and EGPA below the age of 18 because the safety and benefits of this medicine are not known in this population.
+
+Do not give this medicine to children with HES below the age of 12 or adolescents 12 years of age and older weighing less than 35 kg. The safety and benefits of this medicine are not known in this population.
 
 ## Pregnancy and breast-feeding
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not use Fasenra if you are pregnant unless your doctor tells you otherwise. It is not known whether Fasenra could harm your unborn baby.
 
@@ -1763,6 +1845,10 @@ The recommended dose is an injection of 30 mg. The first 3 injections are every 
 
 The recommended dose is an injection of 30 mg every 4 weeks.
 
+## HES
+
+The recommended dose is an injection of 30 mg every 4 weeks.
+
 Fasenra is given as an injection just under the skin (subcutaneously). You and your doctor or nurse should decide if you should inject Fasenra yourself. You should not inject Fasenra yourself if you have not received Fasenra previously and if you had previous allergic reaction with Fasenra.
 
 You or your caregiver should receive training on the right way to inject Fasenra. Read the 'Instructions for Use' for the Fasenra Pen carefully before using Fasenra.
@@ -1774,6 +1860,8 @@ If you have forgotten to inject a dose of Fasenra, talk to your doctor, pharmaci
 ## Stopping treatment with Fasenra
 
 Do not stop treatment with Fasenra unless your doctor advises you to. Interrupting or stopping the treatment with Fasenra may cause your asthma symptoms and attacks to come back.
+
+<div style=\"page-break-after: always\"></div>
 
 If your asthma symptoms get worse while receiving injections of Fasenra, call your doctor.
 
@@ -1789,25 +1877,21 @@ Seek medical attention immediately if you think you may be having an allergic re
 
 Not known (the frequency cannot be estimated from the available data):
 
-<div style=\"page-break-after: always\"></div>
-
-- anaphylaxis
-
-symptoms usually include:
-
+- ·
+- anaphylaxis symptoms usually include:
 - o swelling of your face, tongue, or mouth
 - o breathing problems
 - o fainting, dizziness, feeling lightheaded (due to a drop in blood pressure)
 
-## Common (these may affect up to 1 in 10 people ):
+Common (these may affect up to 1 in 10 people ):
 
 - hypersensitivity reactions (hives, rash)
 
 ## Other side effects
 
-## Common (these may affect up to 1 in 10 people )
+Common (these may affect up to 1 in 10 people )
 
-- headache
+- headache (in patients with EGPA or HES: very common [may affect more than 1 in 10 people ])
 - pharyngitis (sore throat)
 - fever (high temperature)
 - injection site reaction (for example pain, redness, itching, swelling near where the injection was given)
@@ -1828,13 +1912,15 @@ The expiry date refers to the last day of that month.
 
 Store in the original package in order to protect from light.
 
-Store in a refrigerator (2°C to 8°C).
+Store in a refrigerator (2 °C to 8 °C).
 
-The Fasenra Pen may be kept at room temperature up to 25°C for a maximum of 14 days. After removal from the refrigerator, Fasenra must be used within 14 days or discarded, and the discard date should be written on the carton.
+The Fasenra Pen may be kept at room temperature up to 25 °C for a maximum of 14 days. After removal from the refrigerator, Fasenra must be used within 14 days or discarded, and the discard date should be written on the carton.
 
 Do not shake, freeze or expose to heat.
 
 Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -1846,11 +1932,9 @@ The other ingredients are histidine, histidine hydrochloride monohydrate, trehal
 
 ## What Fasenra looks like and contents of the pack
 
-Fasenra is a solution which is colourless to yellow. It may contain particles.
+Fasenra is a clear solution which is colourless to yellow. It may contain particles.
 
 Fasenra is available in a pack containing 1 pre-filled pen.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -1874,17 +1958,11 @@ AstraZeneca S.A./N.V.
 
 Tel: +32 2 370 48 11
 
-## Lietuva
-
-UAB AstraZeneca Lietuva Tel: +370 5 2660550
-
 ## България
 
-АстраЗенека България ЕООД Тел.: +359 24455000
+АстраЗенека България ЕООД
 
-## Luxembourg/Luxemburg
-
-AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
+Тел.: +359 24455000
 
 ## Česká republika
 
@@ -1892,31 +1970,37 @@ AstraZeneca Czech Republic s.r.o.
 
 Tel: +420 222 807 111
 
-## Magyarország
-
-AstraZeneca Kft.
-
-Tel.: +36 1 883 6500
-
 ## Danmark
 
 AstraZeneca A/S
 
 Tlf.: +45 43 66 64 62
 
+## Lietuva
+
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
+
+## Luxembourg/Luxemburg
+
+AstraZeneca S.A./N.V.
+
+Tél/Tel: +32 2 370 48 11
+
+## Magyarország
+
+AstraZeneca Kft.
+
+Tel.: +36 1 883 6500
+
 ## Malta
 
 Associated Drug Co. Ltd Tel: +356 2277 8000
 
+<div style=\"page-break-after: always\"></div>
+
 ## Deutschland
 
-AstraZeneca GmbH
-
-Tel: +49 40 809034100
-
-## Nederland
-
-AstraZeneca BV Tel: +31 85 808 9900
+AstraZeneca GmbH Tel: +49 40 809034100
 
 ## Eesti
 
@@ -1924,31 +2008,35 @@ AstraZeneca
 
 Tel: +372 6549 600
 
+## Ελλάδα
+
+AstraZeneca A.E.
+
+Τηλ: +30 210 6871500
+
+## España
+
+## Nederland
+
+AstraZeneca BV Tel: +31 85 808 9900
+
 ## Norge
 
 AstraZeneca AS Tlf: +47 21 00 64 00
-
-## Ελλάδα
-
-AstraZeneca A.E. Τηλ: +30 210 6871500
 
 ## Österreich
 
 AstraZeneca Österreich GmbH Tel: +43 1 711 31 0
 
-## España
-
 ## Polska
 
-<div style=\"page-break-after: always\"></div>
+AstraZeneca Farmacéutica Spain, S.A. AstraZeneca Pharma Poland Sp. z o.o.
 
-AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
+Tel: +34 91 301 91 00
 
 ## France
 
-AstraZeneca
-
-Tél: +33 1 41 29 40 00
+AstraZeneca Tél: +33 1 41 29 40 00
 
 ## Hrvatska
 
@@ -1960,7 +2048,7 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
+Tel.: +48 22 245 73 00
 
 ## Portugal
 
@@ -1976,35 +2064,23 @@ AstraZeneca UK Limited Tel: +386 1 51 35 600
 
 ## Slovenská republika
 
-Vistor hf. Sími: +354 535 7000 AstraZeneca AB, o.z. Tel: +421 2 5737 7777
+Vistor Sími: +354 535 7000 AstraZeneca AB, o.z. Tel: +421 2 5737 7777
 
-## Italia
+## Italia Suomi/Finland
 
-## Suomi/Finland
-
-AstraZeneca S.p.A. Tel: +39 02 00704500 AstraZeneca Oy Puh/Tel: +358 10 23 010
+AstraZeneca S.p.A. Tel: +39 02 00704500 AstraZeneca Oy
 
 ## Κύπρος
 
+Puh/Tel: +358 10 23 010
+
 ## Sverige
 
-Αλέκτωρ Φαρµακευτική Λτδ
-
-Τηλ: +357 22490305
-
-AstraZeneca AB
-
-Tel: +46 8 553 26 000
+Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305 AstraZeneca AB Tel: +46 8 553 26 000
 
 ## Latvija
 
-## United Kingdom (Northern Ireland)
-
-SIA AstraZeneca Latvija
-
-Tel: +371 67377100
-
-AstraZeneca UK Ltd Tel: +44 1582 836 836
+SIA AstraZeneca Latvija Tel: +371 67377100
 
 This leaflet was last revised in
 
@@ -2034,7 +2110,7 @@ If you or your caregiver have any questions, talk to your healthcare provider.
 
 ## Store Fasenra in a refrigerator between 2 °C to 8 °C in its carton until you are ready to use it.
 
-Fasenra may be kept at room temperature up to 25 o C for a maximum of 14 days. After removal from the refrigerator, Fasenra must be used within 14 days or discarded.
+Fasenra may be kept at room temperature up to 25 ° C for a maximum of 14 days. After removal from the refrigerator, Fasenra must be used within 14 days or discarded.
 
 Do not use your Fasenra Pen if:
 
@@ -2051,7 +2127,9 @@ Keep Fasenra and all medicines out of the sight and reach of children.
 
 ## Your Fasenra Pen
 
-Do not remove the cap until you have reached Step 6 of these instructions and are ready to inject Fasenra.
+Do not remove the cap until you have reached Step 6 of these instructions and are ready to inject
+
+Fasenra.
 
 Step 1 - Gather supplies
 
@@ -2060,27 +2138,33 @@ Step 1 - Gather supplies
 - 1 Fasenra Pen from the refrigerator
 - 1 alcohol wipe
 - 1 cotton ball or gauze
-- •
-- 1 puncture-resistant sharps container. (See Step 10 - Dispose of the used Fasenra Pen safely)
+- ·
+- 1 puncture-resistant sharps container.
+
+(See Step 10 - Dispose of the used Fasenra Pen safely)
 
 ## Do not:
 
 - shake your Fasenra Pen
 - share or re-use your Fasenra Pen
 
+After Use Fasenra Pen Alcohol wipe Sharps container Check the expiry date (EXP). Do not use if the expiry date has passed. Prior to administration, allow the pre-filled pen to reach room temperature 20 °C to 25 °C by leaving the carton out of the refrigerator for about 30 minutes.
+
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-Fasenra Pen
+<!-- image -->
 
 <!-- image -->
 
-Alcohol wipe
+Cotton ball or gauze
+
+<!-- image -->
 
 Step 2 - Prepare to use your Fasenra Pen
-
-Check the expiry date (EXP). Do not use if the expiry date has passed. Prior to administration, allow the pre-filled pen to reach room temperature 20 °C to 25 °C by leaving the carton out of the refrigerator for about 30 minutes.
 
 Do not warm the Fasenra Pen in any other way. For example, do not warm it in a microwave or hot water, or put it near other heat sources.
 
@@ -2092,23 +2176,17 @@ Step 3 - Check the liquid
 
 <!-- image -->
 
-Look at the liquid in the Fasenra Pen through the viewing window. The liquid should be clear and colourless to yellow. It may contain small white particles.
+<!-- image -->
+
+## Look at the liquid in the Fasenra Pen through the viewing
+
+window. The liquid should be clear and colourless to yellow. It may contain small white particles.
 
 Do not inject Fasenra if the liquid is cloudy, discoloured, or contains large particles.
 
 You may see a small air bubble in the liquid. This is normal. You do not need to do anything about it.
 
 Step 4 - Choose the injection site
-
-<!-- image -->
-
-<!-- image -->
-
-Cotton ball or gauze
-
-<!-- image -->
-
-Sharps container
 
 <!-- image -->
 
@@ -2175,11 +2253,13 @@ Complete the following steps right away after removing the cap.
 
 <!-- image -->
 
+<!-- image -->
+
+<!-- image -->
+
 ## Press down firmly.
 
 You will hear a click. A 'click' tells you the injection has started. The green plunger will move down in the viewing window during the injection.
-
-<!-- image -->
 
 ## Hold down firmly for 15 seconds.
 
@@ -2207,15 +2287,11 @@ If the green plunger does not fill the viewing window, you may not have received
 
 <!-- image -->
 
-<!-- image -->
-
-## Lift the Fasenra Pen straight up.
-
-The needle guard will slide down and lock into place over the needle.
+Lift the Fasenra Pen straight up. The needle guard will slide down and lock into place over the needle.
 
 <div style=\"page-break-after: always\"></div>
 
-Step 10 - Dispose of the used Fasenra Pen safely
+## Step 10 - Dispose of the used Fasenra Pen safely
 
 <!-- image -->
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-11 16:02:00
+document_datetime: 2026-09-15 15:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/duoplavin.html
 document_name: duoplavin.html
 version: success
-processing_time: 0.1469175
-conversion_datetime: 2026-06-13 19:43:45.228204
+processing_time: 0.1506012
+conversion_datetime: 2026-09-17 20:49:43.810905
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # DuoPlavin
 
@@ -38,7 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on DuoPlavin](#news-on)
-- [Topics](#topics)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-89627)
 
 - Application under evaluation
 - CHMP opinion
@@ -117,7 +117,7 @@ English (EN) (117.78 KB - PDF)
 
 [View](/en/documents/overview/duoplavin-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-647)
+[Other languages (22)](#file-language-dropdown-633)
 
 български (BG) (129.59 KB - PDF)
 
@@ -269,7 +269,7 @@ English (EN) (435.95 KB - PDF)
 
 [View](/en/documents/product-information/duoplavin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-967)
+[Other languages (24)](#file-language-dropdown-392)
 
 български (BG) (757.19 KB - PDF)
 
@@ -423,7 +423,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -441,7 +442,7 @@ English (EN) (25.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-380)
+[Other languages (24)](#file-language-dropdown-444)
 
 български (BG) (101.53 KB - PDF)
 
@@ -589,28 +590,19 @@ norsk (NO) (102 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-DuoPlavin
-
-Active substance
-
-- clopidogrel
-- acetylsalicylic acid
-
-International non-proprietary name (INN) or common name
-
-- clopidogrel
-- acetylsalicylic acid
-
-Therapeutic area (MeSH)
-
-- Acute Coronary Syndrome
-- Myocardial Infarction
-
-Anatomical therapeutic chemical (ATC) code
-
-B01AC30
+- **Name of medicine**
+    - DuoPlavin
+- **Active substance**
+        - clopidogrel
+        - acetylsalicylic acid
+- **International non-proprietary name (INN) or common name**
+        - clopidogrel
+        - acetylsalicylic acid
+- **Therapeutic area (MeSH)**
+        - Acute Coronary Syndrome
+        - Myocardial Infarction
+- **Anatomical therapeutic chemical (ATC) code**
+    - B01AC30
 
 ### Pharmacotherapeutic group
 
@@ -627,27 +619,16 @@ For further information please refer to section 5.1.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/001143
-
-Marketing authorisation holder
-
-Sanofi Winthrop Industrie
-
-82 Avenue Raspail 94250 Gentilly FRANCE
-
-Opinion adopted
-
-17/12/2009
-
-Marketing authorisation issued
-
-14/03/2010
-
-Revision
-
-32
+- **EMA product number**
+    - EMEA/H/C/001143
+- **Marketing authorisation holder**
+    - Sanofi Winthrop Industrie 82 Avenue Raspail  94250 Gentilly  FRANCE
+- **Opinion adopted**
+    - 17/12/2009
+- **Marketing authorisation issued**
+    - 14/03/2010
+- **Revision**
+    - 32
 
 ## Assessment history
 
@@ -719,12 +700,20 @@ English (EN) (33.64 KB - PDF)
 
 11/11/2022
 
-## Topics
+## Product information - with tracked changes
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+DuoPlavin : EPAR - Product information - tracked changes
+
+English (EN) (177.98 KB - DOCX)
+
+**First published:** 15/09/2026
+
+[View](/en/documents/product-information-tracked-changes/duoplavin-epar-product-information-tracked-changes_en.docx)
 
 **This page was last updated on**
 
-11/06/2026
+15/09/2026
 
 ## Share this page

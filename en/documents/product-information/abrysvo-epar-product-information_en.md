@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-08-06 13:48:00
+document_datetime: 2026-09-14 14:25:40
 document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abrysvo-epar-product-information_en.pdf
 document_name: abrysvo-epar-product-information_en.pdf
 version: success
-processing_time: 14.6409776
-conversion_datetime: 2026-08-07 14:37:44.814327
+processing_time: 57.6846805
+conversion_datetime: 2026-09-17 20:13:59.269351
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -38,7 +36,7 @@ After reconstitution, one dose (0.5 mL) contains:
 
 RSV subgroup A stabilised prefusion F antigen 1,2 60 micrograms RSV subgroup B stabilised prefusion F antigen 1,2 60 micrograms (RSV antigens) 1 glycoprotein F stabilised in the prefusion conformation 2 produced in Chinese Hamster Ovary cells by recombinant DNA technology.
 
-## Excipient with known effect
+Excipient with known effect
 
 One dose contains 0.08 milligrams of polysorbate 80 (see section 4.4).
 
@@ -274,10 +272,6 @@ Table 2  Vaccine efficacy of Abrysvo against severe medically attended LRTD caus
 | 150 days      |                                16 |                                55 | 70.9 (44.5, 85.9) |
 | 180 days      |                                19 |                                62 | 69.4 (44.3, 84.1) |
 
-CI = confidence interval; VE = vaccine efficacy
-
-a 99.5% CI at 90 days; 97.58% CI at later intervals
-
 Table 3  Vaccine efficacy of Abrysvo against medically attended LRTD caused by RSV in infants from birth through 6 months of age by active immunisation of pregnant individuals - Study 1
 
 | Time period   |   Abrysvo Number of cases N=3 495 |   Placebo Number of cases N=3 480 | VE % (CI) a       |
@@ -286,10 +280,6 @@ Table 3  Vaccine efficacy of Abrysvo against medically attended LRTD caused by R
 | 120 days      |                                35 |                                81 | 56.8 (31.2, 73.5) |
 | 150 days      |                                47 |                                99 | 52.5 (28.7, 68.9) |
 | 180 days      |                                57 |                               117 | 51.3 (29.4, 66.8) |
-
-CI = confidence interval; VE = vaccine efficacy
-
-a 99.5% CI at 90 days; 97.58% CI at later intervals
 
 A post-hoc analysis of VE by maternal gestational age was conducted. For severe medically attended LRTD occurring within 180 days, VE was 57.2% (95% CI 10.4, 80.9) for women vaccinated early in pregnancy (24 to &lt;30 weeks) and 78.1% (95% CI 52.1, 91.2) for women vaccinated later in the pregnancy eligible window (30 to 36 weeks). For medically attended LRTD occurring within 180 days, VE was 30.9% (95% CI -14.4, 58.9) for women vaccinated early in pregnancy (24 to &lt;30 weeks) and 62.4% (95% CI 41.6, 76.4) for women vaccinated later in the pregnancy eligible window (30 to 36 weeks).
 
@@ -313,24 +303,16 @@ Vaccine efficacy information at the end of the first RSV season (median follow-u
 
 Table 4 Vaccine efficacy of Abrysvo against RSV disease - active immunisation of individuals 60 years of age and older - Study 2
 
-| Efficacy endpoint                          |                                           | Abrysvo   | Abrysvo   | Placebo   | Placebo   | VE (%) (95% CI)    |
-|--------------------------------------------|-------------------------------------------|-----------|-----------|-----------|-----------|--------------------|
-|                                            |                                           | N         | n         | N         | n         |                    |
-| First episode of RSV- associated LRTD with | Overall                                   | 18 058    | 15        | 18 076    | 43        | 65.1 (35.9, 82.0)  |
-|                                            | Age 60-69 years                           | 11 305    | 10        | 11 351    | 25        | 60.0 (13.8, 82.9)  |
-|                                            | Age 70-79 years                           | 5 750     | 4         | 5 742     | 12        | 66.7 (-10.0, 92.2) |
-| ≥ 2 symptoms a                             | With ≥ 1 significant underlying condition | 9 377     | 8         | 9 432     | 22        | 63.6 (15.2, 86.0)  |
-| First episode of RSV- associated LRTD with | Overall                                   | 18 058    | 2         | 18 076    | 18        | 88.9 (53.6, 98.7)  |
-|                                            | Age 60-69 years                           | 11 305    | 2         | 11 351    | 11        | 81.8 (16.7, 98.0)  |
-|                                            | Age 70-79 years                           | 5 750     | 0         | 5 742     | 4         | 100 (-51.5, 100.0) |
-| ≥ 3 symptoms b                             | With ≥ 1 significant underlying condition | 9 377     | 2         | 9 432     | 11        | 81.8 (16.7, 98.0)  |
-
-CI - confidence interval; RSV - respiratory syncytial virus; VE - vaccine efficacy
-
-N = number of participants; n = number of cases
-
-- a In an exploratory analysis in RSV subgroup A (Abrysvo n=3, placebo n=16) VE was 81.3% (CI 34.5, 96.5); and in RSV subgroup B (Abrysvo n=12, placebo n=26) VE was 53.8% (CI 5.2, 78.8).
-- b In an exploratory analysis in RSV subgroup A (Abrysvo n=1, placebo n=5) VE was 80.0% (CI -78.7, 99.6); and in RSV subgroup B (Abrysvo n=1, placebo n=12) VE was 91.7% (CI 43.7, 99.8).
+| Efficacy endpoint                          |                                           | Abrysvo - N   |   Abrysvo - n | Placebo - N   |   Placebo - n | VE (%) (95% CI)    |
+|--------------------------------------------|-------------------------------------------|---------------|---------------|---------------|---------------|--------------------|
+| First episode of RSV- associated LRTD with | Overall                                   | 18 058        |            15 | 18 076        |            43 | 65.1 (35.9, 82.0)  |
+|                                            | Age 60-69 years                           | 11 305        |            10 | 11 351        |            25 | 60.0 (13.8, 82.9)  |
+|                                            | Age 70-79 years                           | 5 750         |             4 | 5 742         |            12 | 66.7 (-10.0, 92.2) |
+| ≥ 2 symptoms a                             | With ≥ 1 significant underlying condition | 9 377         |             8 | 9 432         |            22 | 63.6 (15.2, 86.0)  |
+| First episode of RSV- associated LRTD with | Overall                                   | 18 058        |             2 | 18 076        |            18 | 88.9 (53.6, 98.7)  |
+|                                            | Age 60-69 years                           | 11 305        |             2 | 11 351        |            11 | 81.8 (16.7, 98.0)  |
+|                                            | Age 70-79 years                           | 5 750         |             0 | 5 742         |             4 | 100 (-51.5, 100.0) |
+| ≥ 3 symptoms b                             | With ≥ 1 significant underlying condition | 9 377         |             2 | 9 432         |            11 | 81.8 (16.7, 98.0)  |
 
 Vaccine efficacy in the subgroup of participants 80 years of age and older (995 and 981 participants in the Abrysvo and placebo groups, respectively) cannot be concluded due to the low number of total cases accrued (7 cases of RSV-associated LRTD with ≥ 2 symptoms and 3 cases of RSV-associated LRTD with ≥ 3 symptoms).
 
@@ -352,21 +334,19 @@ Vaccine efficacy in individuals 18 through 59 years of age is inferred by immuno
 
 Table 5 Comparison of model adjusted RSV neutralising titre GMTs at 1 month after vaccination with Abrysvo, 18 through 59 years at high risk (Study 3) versus 60 years and older (Study 2)
 
-|               | Study 3 18-59 years of age at high risk   | Study 3 18-59 years of age at high risk   | Study 2 ≥ 60 years   | Study 2 ≥ 60 years      | ANCOVA comparison     |
-|---------------|-------------------------------------------|-------------------------------------------|----------------------|-------------------------|-----------------------|
-| RSV subgroups | n                                         | Adjusted GMT (95% CI)                     | n                    | Adjusted GMT (95% CI)   | Adjusted GMR (95% CI) |
-| A             | 435                                       | 41 097 (37 986, 44 463)                   | 408                  | 26 225 (24 143, 28 486) | 1.57 (1.396, 1.759)   |
-| B             | 437                                       | 37 416 (34 278, 40 842)                   | 408                  | 24 680 (22 504, 27 065) | 1.52 (1.333, 1.725)   |
+| RSV subgroups   |   Study 3 18-59 years of age at high risk - n | Study 3 18-59 years of age at high risk - Adjusted GMT (95% CI)   |   Study 2 ≥ 60 years - n | Study 2 ≥ 60 years - Adjusted GMT (95% CI)   | ANCOVA comparison - Adjusted GMR (95% CI)   |
+|-----------------|-----------------------------------------------|-------------------------------------------------------------------|--------------------------|----------------------------------------------|---------------------------------------------|
+| A               |                                           435 | 41 097 (37 986, 44 463)                                           |                      408 | 26 225 (24 143, 28 486)                      | 1.57 (1.396, 1.759)                         |
+| B               |                                           437 | 37 416 (34 278, 40 842)                                           |                      408 | 24 680 (22 504, 27 065)                      | 1.52 (1.333, 1.725)                         |
 
 CI - confidence interval; GMR - geometric mean ratio; GMT - geometric mean titre
 
 Table 6 Comparison of RSV neutralising titre seroresponse rates 1 month after vaccination with Abrysvo, 18 through 59 years at high risk (Study 3) versus 60 years and older (Study 2)
 
-|               | Study 3 18-59 years of age at high risk   | Study 3 18-59 years of age at high risk   | Study 2 ≥ 60 years   | Study 2 ≥ 60 years   | Comparison          |
-|---------------|-------------------------------------------|-------------------------------------------|----------------------|----------------------|---------------------|
-| RSV subgroups | n/N (%)                                   | 95% CI                                    | n/N (%)              | 95% CI               | Difference (95% CI) |
-| A             | 405/435 (93)                              | 90.3, 95.3                                | 359/408 (88)         | 84.4, 91.0           | 5.1 (1.2, 9.2)      |
-| B             | 408/437 (93)                              | 90.6, 95.5                                | 347/408 (85)         | 81.2, 88.4           | 8.3 (4.2, 12.6)     |
+| RSV subgroups   | Study 3 18-59 years of age at high risk - n/N (%)   | Study 3 18-59 years of age at high risk - 95% CI   | Study 2 ≥ 60 years - n/N (%)   | Study 2 ≥ 60 years - 95% CI   | Comparison - Difference (95% CI)   |
+|-----------------|-----------------------------------------------------|----------------------------------------------------|--------------------------------|-------------------------------|------------------------------------|
+| A               | 405/435 (93)                                        | 90.3, 95.3                                         | 359/408 (88)                   | 84.4, 91.0                    | 5.1 (1.2, 9.2)                     |
+| B               | 408/437 (93)                                        | 90.6, 95.5                                         | 347/408 (85)                   | 81.2, 88.4                    | 8.3 (4.2, 12.6)                    |
 
 CI - confidence interval
 
@@ -394,7 +374,7 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## 6.1 List of excipients
 
-## Powder
+Powder
 
 Trometamol Trometamol hydrochloride Sucrose Mannitol (E421) Polysorbate 80 (E433) Sodium chloride Hydrochloric acid (for pH adjustment)
 
@@ -410,7 +390,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Abrysvo powder and solvent for solution for injection
 
-4 years
+5 years
 
 <div style=\"page-break-after: always\"></div>
 
@@ -442,7 +422,7 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 ## 6.5 Nature and contents of container
 
-## Abrysvo powder and solvent for solution for injection
+Abrysvo powder and solvent for solution for injection
 
 ## Pre-filled syringe
 
@@ -470,7 +450,9 @@ Solvent for 1 dose in a vial (type 1 glass or equivalent) with a stopper (synthe
 
 ## Pack sizes
 
-Pack containing 5 vials of powder (antigens) and 5 vials of solvent (5 dose pack). Pack containing 10 vials of powder (antigens) and 10 vials of solvent (10 dose pack).
+Pack containing 5 vials of powder (antigens) and 5 vials of solvent (5 dose pack).
+
+Pack containing 10 vials of powder (antigens) and 10 vials of solvent (10 dose pack).
 
 Abrysvo powder and solvent for solution for injection in multidose container
 
@@ -502,9 +484,13 @@ The vaccine must be reconstituted only with the solvent provided.
 
 ## Pre-filled syringe containing solvent for Abrysvo
 
+Syringe cap Luer lock adaptor
+
 <!-- image -->
 
-Syringe cap Luer lock adaptor
+Vial stopper (with flip off cap removed)
+
+<!-- image -->
 
 <!-- image -->
 
@@ -534,10 +520,6 @@ The prepared vaccine is a clear and colourless solution. Visually inspect the va
 ## Single dose vials
 
 The vial containing antigens for Abrysvo (powder) must be reconstituted only with the vial of solvent provided to form Abrysvo.
-
-Vial stopper (with flip off cap removed)
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -571,23 +553,16 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/23/1752/001 - 1 vial (antigens), 1 vial adaptor, 1 pre-filled syringe (solvent), 1 needle
-
-EU/1/23/1752/002 - 1 vial (antigens), 1 vial adaptor, 1 pre-filled syringe (solvent)
-
-EU/1/23/1752/003 - 5 vials (antigens), 5 vial adaptors, 5 pre-filled syringes (solvent), 5 needles
-
-EU/1/23/1752/004 - 5 vials (antigens), 5 vial adaptors, 5 pre-filled syringes (solvent)
-
-EU/1/23/1752/005 - 10 vials (antigens), 10 vial adaptors, 10 pre-filled syringes (solvent), 10 needles
-
-EU/1/23/1752/006 - 10 vials (antigens), 10 vial adaptors, 10 pre-filled syringes (solvent)
-
-EU/1/23/1752/007 - 5 vials (antigens), 5 vials (solvent)
-
-EU/1/23/1752/008 - 10 vials (antigens), 10 vials (solvent)
-
-EU/1/23/1752/009 - 10 multidose vials (antigens), 10 multidose vials (solvent)
+| EU/1/23/1752/001 - 1 vial (antigens), 1 vial adaptor, 1 pre-filled syringe (solvent), 1 needle         |
+|--------------------------------------------------------------------------------------------------------|
+| EU/1/23/1752/002 - 1 vial (antigens), 1 vial adaptor, 1 pre-filled syringe (solvent)                   |
+| EU/1/23/1752/003 - 5 vials (antigens), 5 vial adaptors, 5 pre-filled syringes (solvent), 5 needles     |
+| EU/1/23/1752/004 - 5 vials (antigens), 5 vial adaptors, 5 pre-filled syringes (solvent)                |
+| EU/1/23/1752/005 - 10 vials (antigens), 10 vial adaptors, 10 pre-filled syringes (solvent), 10 needles |
+| EU/1/23/1752/006 - 10 vials (antigens), 10 vial adaptors, 10 pre-filled syringes (solvent)             |
+| EU/1/23/1752/007 - 5 vials (antigens), 5 vials (solvent)                                               |
+| EU/1/23/1752/008 - 10 vials (antigens), 10 vials (solvent)                                             |
+| EU/1/23/1752/009 - 10 multidose vials (antigens), 10 multidose vials (solvent)                         |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -656,7 +631,9 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III LABELLING AND PACKAGE LEAFLET
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -720,10 +697,13 @@ Trometamol, trometamol hydrochloride, sucrose, mannitol, polysorbate 80, sodium 
 
 5 vial adaptors
 
-- 10 vials with powder (antigens)
-- 10 pre-filled syringes of solvent
+10 vials with powder (antigens)
+
+10 pre-filled syringes of solvent
+
 - 10 vial adaptors
-- 10 needles
+
+10 needles
 
 <div style=\"page-break-after: always\"></div>
 
@@ -763,10 +743,13 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-- EU/1/23/1752/001 - 1 vial (antigens), 1 vial adaptor, 1 pre-filled syringe (solvent), 1 needle
-- EU/1/23/1752/002 - 1 vial (antigens), 1 vial adaptor, 1 pre-filled syringe (solvent)
-- EU/1/23/1752/003 - 5 vials (antigens), 5 vial adaptors, 5 pre-filled syringes (solvent), 5 needles
-- EU/1/23/1752/004 - 5 vials (antigens), 5 vial adaptors, 5 pre-filled syringes (solvent)
+EU/1/23/1752/001 - 1 vial (antigens), 1 vial adaptor, 1 pre-filled syringe (solvent), 1 needle
+
+EU/1/23/1752/002 - 1 vial (antigens), 1 vial adaptor, 1 pre-filled syringe (solvent)
+
+EU/1/23/1752/003 - 5 vials (antigens), 5 vial adaptors, 5 pre-filled syringes (solvent), 5 needles
+
+EU/1/23/1752/004 - 5 vials (antigens), 5 vial adaptors, 5 pre-filled syringes (solvent)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -810,9 +793,7 @@ SINGLE DOSE VIALS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Abrysvo powder and solvent for solution for injection
-
-Respiratory syncytial virus vaccine (bivalent, recombinant)
+Abrysvo powder and solvent for solution for injection Respiratory syncytial virus vaccine (bivalent, recombinant)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCES
 
@@ -824,7 +805,9 @@ RSV subgroup B stabilised prefusion F antigen 60 micrograms
 
 ## 3. LIST OF EXCIPIENTS
 
-Trometamol, trometamol hydrochloride, sucrose, mannitol, polysorbate 80, sodium chloride, hydrochloric acid, water for injections. See leaflet for further information.
+Trometamol, trometamol hydrochloride, sucrose, mannitol, polysorbate 80, sodium chloride,
+
+hydrochloric acid, water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -880,7 +863,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1106,11 +1089,14 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+33
+
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
 |--------------------------------------------------------------------|
-| MULTIDOSE VIALS VIAL (SOLVENT)                                     |
+| MULTIDOSE VIALS                                                    |
+| VIAL (SOLVENT)                                                     |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -1138,6 +1124,8 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+34
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
@@ -1156,9 +1144,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1306,19 +1294,19 @@ After reconstitution Abrysvo should be administered immediately or within 4 hour
 
 The active substances are:
 
+RSV subgroup B stabilised prefusion F antigen 1,2
+
 RSV subgroup A stabilised prefusion F antigen 1,2
 
 60 micrograms
-
-RSV subgroup B stabilised prefusion F antigen 1,2
 
 60 micrograms
 
 (RSV antigens)
 
-1 glycoprotein F stabilised in the prefusion conformation
-
 2 produced in Chinese Hamster Ovary cells by recombinant DNA technology.
+
+1 glycoprotein F stabilised in the prefusion conformation
 
 ## The other ingredients are:
 
@@ -1361,19 +1349,17 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## Manufacturer
 
-Pfizer Manufacturing Belgium NV Rijksweg 12 2870 Puurs-Sint-Amands Belgium For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Pfizer Manufacturing Belgium NV
+
+Rijksweg 12 2870 Puurs-Sint-Amands Belgium For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien Luxembourg/Luxemburg
 
 Pfizer NV/SA
 
 Tél/Tel: + 32 (0)2 554 62 11
-
-## Latvija
-
-Pfizer Luxembourg SARL fili ā le Latvij ā
-
-Tel.: + 371 670 35 775
 
 ## България
 
@@ -1385,25 +1371,11 @@ Te л
 
 : +359 2 970 4333
 
-## Lietuva
-
-Pfizer Luxembourg SARL
-
-filialas Lietuvoje
-
-Tel: +370 5 251 4000
-
 ## Č eská republika
 
 Pfizer, spol. s r.o.
 
 Tel: +420 283 004 111
-
-## Magyarország
-
-Pfizer Kft
-
-Tel: + 36 1 488 37 00
 
 ## Danmark
 
@@ -1411,23 +1383,9 @@ Pfizer ApS
 
 Tlf.: + 45 44 20 11 00
 
-## Malta
-
-Vivian Corporation Ltd.
-
-Tel: + 356 21344610
-
 ## Deutschland
 
-PFIZER PHARMA GmbH
-
-Tel: +49 (0)30 550055-51000
-
-## Nederland
-
-Pfizer bv
-
-Tel: +31 (0)800 63 34 636
+PFIZER PHARMA GmbH Tel: +49 (0)30 550055-51000
 
 ## Eesti
 
@@ -1435,27 +1393,11 @@ Pfizer Luxembourg SARL Eesti filiaal
 
 Tel: +372 666 7500
 
-## Norge
-
-Pfizer AS
-
-Tlf: +47 67 52 61 00
-
 ## Ελλάδα
 
 Pfizer Ελλάς A.E.
 
-Τηλ
-
-.: +30 210 6785800
-
-## Österreich
-
-Pfizer Corporation Austria
-
-Ges.m.b.H
-
-Tel: +43 (0)1 521 15-0
+Τηλ .: +30 210 6785800
 
 ## España
 
@@ -1463,35 +1405,17 @@ Pfizer, S.L.
 
 Télf: +34 91 490 99 00
 
-## Polska
-
-Pfizer Polska Sp. z o.o.
-
-Tel.: +48 22 335 61 00
-
 ## France
 
 Pfizer
 
 Tél +33 (0)1 58 07 34 40
 
-## Portugal
-
-Laboratórios Pfizer, Lda.
-
-Tel: +351 21 423 5500
-
 ## Hrvatska
 
 Pfizer Croatia d.o.o.
 
 Tel: + 385 1 3908 777
-
-## România
-
-Pfizer Romania S.R.L
-
-Tel: +40 (0) 21 207 28 00
 
 ## Ireland
 
@@ -1501,37 +1425,97 @@ Tel: +1800 633 363 (toll free)
 
 Tel: +44 (0)1304 616161
 
+## Ísland
+
+## Latvija
+
+Pfizer Luxembourg SARL fili ā le Latvij ā
+
+Tel.: + 371 670 35 775
+
+## Lietuva
+
+Pfizer Luxembourg SARL
+
+filialas Lietuvoje
+
+Tel: +370 5 251 4000
+
+## Magyarország
+
+Pfizer Kft
+
+Tel: + 36 1 488 37 00
+
+## Malta
+
+Vivian Corporation Ltd.
+
+Tel: + 356 21344610
+
+## Nederland
+
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
+
+## Norge
+
+Pfizer AS
+
+Tlf: +47 67 52 61 00
+
+## Österreich
+
+Pfizer Corporation Austria
+
+Ges.m.b.H
+
+Tel: +43 (0)1 521 15-0
+
+## Polska
+
+Pfizer Polska Sp. z o.o.
+
+Tel.: +48 22 335 61 00
+
+## Portugal
+
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
+
+## România
+
+Pfizer Romania S.R.L
+
+Tel: +40 (0) 21 207 28 00
+
 ## Slovenija
 
 Pfizer Luxembourg SARL
 
-Pfizer, podružnica za svetovanje s podro č ja farmacevtske dejavnosti, Ljubljana Tel.: +386 (0)1 52 11 400
+Pfizer, podružnica za
 
-## Ísland
+svetovanje s podro č ja
+
+farmacevtske dejavnosti,
+
+Ljubljana
+
+Tel.: +386 (0)1 52 11 400
 
 ## Slovenská republika
-
-<div style=\"page-break-after: always\"></div>
 
 Icepharma hf.
 
 Simi: + 354 540 8000
-
-Pfizer Luxembourg SARL, organiza č ná zložka
-
-Tel: + 421 2 3355 5500
 
 ## Italia
 
 Pfizer S.r.l.
 
 Tel: +39 06 33 18 21
-
-## Suomi/Finland
-
-Pfizer Oy
-
-Puh/Tel: +358 (0)9 430 040
 
 ## K ύπρος
 
@@ -1540,6 +1524,16 @@ Pfizer Ελλάς Α . Ε . (Cyprus Branch)
 T ηλ
 
 : +357 22817690
+
+Pfizer Luxembourg SARL, organiza č ná zložka
+
+Tel: + 421 2 3355 5500
+
+## Suomi/Finland
+
+Pfizer Oy
+
+Puh/Tel: +358 (0)9 430 040
 
 ## Sverige
 
@@ -1585,9 +1579,15 @@ Chemical and physical in-use stability has been demonstrated for 4 hours between
 
 The powder must be reconstituted only with the solvent provided in the pre-filled syringe using the vial adaptor.
 
-<!-- image -->
+## Pre-filled syringe containing solvent for Abrysvo
 
 Syringe cap Luer lock adaptor
+
+<!-- image -->
+
+Vial stopper (with flip off cap removed)
+
+<!-- image -->
 
 <!-- image -->
 
@@ -1613,8 +1613,6 @@ Syringe cap Luer lock adaptor
 - Attach a sterile needle suitable for intramuscular injection.
 
 The prepared vaccine is a clear and colourless solution. Visually inspect the vaccine for large particulate matter and discolouration prior to administration. Do not use if large particulate matter or discolouration is found.
-
-Vial stopper (with flip off cap removed)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1646,9 +1644,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1796,21 +1794,21 @@ After reconstitution, store in a refrigerator (2 °C to 8 °C). Administer withi
 
 The active substances are:
 
+RSV subgroup B stabilised prefusion F antigen 1,2
+
 RSV subgroup A stabilised prefusion F antigen 1,2
 
 60 micrograms
-
-RSV subgroup B stabilised prefusion F antigen 1,2
 
 60 micrograms
 
 (RSV antigens)
 
-1 glycoprotein F stabilised in the prefusion conformation
-
 2 produced in Chinese Hamster Ovary cells by recombinant DNA technology.
 
-## The other ingredients are:
+1 glycoprotein F stabilised in the prefusion conformation
+
+The other ingredients are:
 
 ## Powder
 
@@ -1839,17 +1837,21 @@ Abrysvo is available in a carton containing 10 multidose vials of powder and 10 
 
 ## Marketing Authorisation Holder
 
-Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
+Pfizer Europe MA EEIG
+
+Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## Manufacturer
 
-Pfizer Manufacturing Belgium NV Rijksweg 12 2870 Puurs-Sint-Amands Belgium
+Pfizer Manufacturing Belgium NV
+
+Rijksweg 12 2870 Puurs-Sint-Amands Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 België/Belgique/Belgien Luxembourg/Luxemburg Pfizer NV/SA Tél/Tel: + 32 (0)2 554 62 11
 
-Latvija
+## Latvija
 
 Pfizer Luxembourg SARL fili ā le
 
@@ -1861,13 +1863,19 @@ Tel.: + 371 670 35 775
 
 ## България
 
-Пфайзер Люксембург САРЛ , Клон България Te л : +359 2 970 4333
+Пфайзер
+
+Люксембург САРЛ ,
+
+Клон България
+
+Te л
+
+: +359 2 970 4333
 
 ## Č eská republika
 
-Pfizer, spol. s r.o.
-
-Tel: +420 283 004 111
+Pfizer, spol. s r.o. Tel: +420 283 004 111
 
 ## Danmark
 
@@ -1877,9 +1885,7 @@ Tlf.: + 45 44 20 11 00
 
 ## Deutschland
 
-PFIZER PHARMA GmbH
-
-Tel: +49 (0)30 550055-51000
+PFIZER PHARMA GmbH Tel: +49 (0)30 550055-51000
 
 ## Eesti
 
@@ -1891,9 +1897,7 @@ Tel: +372 666 7500
 
 Pfizer Ελλάς A.E.
 
-Τηλ
-
-.: +30 210 6785800
+Τηλ .: +30 210 6785800
 
 ## España
 
@@ -1935,11 +1939,7 @@ Tel: +39 06 33 18 21
 
 ## Lietuva
 
-Pfizer Luxembourg SARL
-
-filialas Lietuvoje
-
-Tel: +370 5 251 4000
+Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
 
 ## Magyarország
 
@@ -1991,7 +1991,9 @@ Tel: +40 (0) 21 207 28 00
 
 ## Slovenija
 
-Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s podro č ja farmacevtske dejavnosti, Ljubljana Tel.: +386 (0)1 52 11 400
+Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s podro č ja farmacevtske dejavnosti, Ljubljana
+
+Tel.: +386 (0)1 52 11 400
 
 ## Slovenská republika
 
@@ -2003,17 +2005,11 @@ Pfizer Oy
 
 Puh/Tel: +358 (0)9 430 040
 
+<div style=\"page-break-after: always\"></div>
+
 ## K ύπρος
 
 Pfizer Ελλάς Α . Ε . (Cyprus Branch) T ηλ : +357 22817690
-
-## Sverige
-
-Pfizer AB
-
-Tel: +46 (0)8 550 520 00
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -2038,6 +2034,12 @@ The unopened vial is stable for 5 days when stored at temperatures from 8 °C to
 ## Storage of reconstituted vaccine
 
 After reconstitution, store in a refrigerator (2 °C to 8 °C). Abrysvo should be administered within 6 hours with no more than 4 hours stored at room temperature (up to 30 °C). Do not freeze.
+
+## Sverige
+
+Pfizer AB
+
+Tel: +46 (0)8 550 520 00
 
 <div style=\"page-break-after: always\"></div>
 

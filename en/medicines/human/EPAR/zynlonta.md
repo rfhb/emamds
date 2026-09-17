@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-06 17:38:00
+document_datetime: 2026-09-14 15:54:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zynlonta.html
 document_name: zynlonta.html
 version: success
-processing_time: 0.1226768
-conversion_datetime: 2026-08-07 13:44:54.980099
+processing_time: 0.1437447
+conversion_datetime: 2026-09-17 20:52:04.623871
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Zynlonta
 
@@ -124,7 +124,7 @@ English (EN) (160.19 KB - PDF)
 
 [View](/en/documents/overview/zynlonta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-905)
+[Other languages (22)](#file-language-dropdown-637)
 
 български (BG) (189.58 KB - PDF)
 
@@ -270,167 +270,167 @@ English (EN) (936.19 KB - PDF)
 
 Zynlonta : EPAR - Product Information
 
-English (EN) (396.88 KB - PDF)
+English (EN) (373.65 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/en/documents/product-information/zynlonta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-158)
+[Other languages (24)](#file-language-dropdown-489)
 
-български (BG) (492.04 KB - PDF)
+български (BG) (467.67 KB - PDF)
 
 **First published:** 26/01/2023 **Last updated:** 06/08/2026
 
 [View](/bg/documents/product-information/zynlonta-epar-product-information_bg.pdf)
 
-español (ES) (398.48 KB - PDF)
+español (ES) (376.37 KB - PDF)
 
 **First published:** 26/01/2023 **Last updated:** 06/08/2026
 
 [View](/es/documents/product-information/zynlonta-epar-product-information_es.pdf)
 
-čeština (CS) (465.36 KB - PDF)
+čeština (CS) (439.6 KB - PDF)
 
 **First published:** 26/01/2023 **Last updated:** 06/08/2026
 
 [View](/cs/documents/product-information/zynlonta-epar-product-information_cs.pdf)
 
-dansk (DA) (418.41 KB - PDF)
+dansk (DA) (397.31 KB - PDF)
 
 **First published:** 26/01/2023 **Last updated:** 06/08/2026
 
 [View](/da/documents/product-information/zynlonta-epar-product-information_da.pdf)
 
-Deutsch (DE) (431.54 KB - PDF)
+Deutsch (DE) (410 KB - PDF)
 
 **First published:** 26/01/2023 **Last updated:** 06/08/2026
 
 [View](/de/documents/product-information/zynlonta-epar-product-information_de.pdf)
 
-eesti (ET) (389.13 KB - PDF)
+eesti (ET) (368.06 KB - PDF)
 
 **First published:** 26/01/2023 **Last updated:** 06/08/2026
 
 [View](/et/documents/product-information/zynlonta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (486.56 KB - PDF)
+ελληνικά (EL) (461.74 KB - PDF)
 
 **First published:** 26/01/2023 **Last updated:** 06/08/2026
 
 [View](/el/documents/product-information/zynlonta-epar-product-information_el.pdf)
 
-français (FR) (417.3 KB - PDF)
+français (FR) (396.09 KB - PDF)
 
 **First published:** 26/01/2023 **Last updated:** 06/08/2026
 
 [View](/fr/documents/product-information/zynlonta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (488.37 KB - PDF)
+hrvatski (HR) (456.92 KB - PDF)
 
 **First published:** 26/01/2023 **Last updated:** 06/08/2026
 
 [View](/hr/documents/product-information/zynlonta-epar-product-information_hr.pdf)
 
-italiano (IT) (434.45 KB - PDF)
+italiano (IT) (412.45 KB - PDF)
 
 **First published:** 26/01/2023 **Last updated:** 06/08/2026
 
 [View](/it/documents/product-information/zynlonta-epar-product-information_it.pdf)
 
-latviešu (LV) (475.94 KB - PDF)
+latviešu (LV) (450.17 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/lv/documents/product-information/zynlonta-epar-product-information_lv.pdf)
 
-lietuvių (LT) (474.71 KB - PDF)
+lietuvių (LT) (449.13 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/lt/documents/product-information/zynlonta-epar-product-information_lt.pdf)
 
-magyar (HU) (498.99 KB - PDF)
+magyar (HU) (473.77 KB - PDF)
 
 **First published:** 26/01/2023 **Last updated:** 06/08/2026
 
 [View](/hu/documents/product-information/zynlonta-epar-product-information_hu.pdf)
 
-Malti (MT) (517.14 KB - PDF)
+Malti (MT) (492.02 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/mt/documents/product-information/zynlonta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (400.35 KB - PDF)
+Nederlands (NL) (379.28 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/nl/documents/product-information/zynlonta-epar-product-information_nl.pdf)
 
-polski (PL) (495.25 KB - PDF)
+polski (PL) (470.88 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/pl/documents/product-information/zynlonta-epar-product-information_pl.pdf)
 
-português (PT) (402.76 KB - PDF)
+português (PT) (380.34 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/pt/documents/product-information/zynlonta-epar-product-information_pt.pdf)
 
-română (RO) (494.26 KB - PDF)
+română (RO) (461.56 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/ro/documents/product-information/zynlonta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (497.85 KB - PDF)
+slovenčina (SK) (470.48 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/sk/documents/product-information/zynlonta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (480.01 KB - PDF)
+slovenščina (SL) (456.8 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/sl/documents/product-information/zynlonta-epar-product-information_sl.pdf)
 
-suomi (FI) (404.39 KB - PDF)
+suomi (FI) (379.42 KB - PDF)
 
 **First published:** 26/01/2023 **Last updated:** 06/08/2026
 
 [View](/fi/documents/product-information/zynlonta-epar-product-information_fi.pdf)
 
-svenska (SV) (389.55 KB - PDF)
+svenska (SV) (368.69 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/sv/documents/product-information/zynlonta-epar-product-information_sv.pdf)
 
-Íslenska (IS) (408.78 KB - PDF)
+Íslenska (IS) (387.73 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/is/documents/product-information/zynlonta-epar-product-information_is.pdf)
 
-norsk (NO) (398.81 KB - PDF)
+norsk (NO) (374.06 KB - PDF)
 
-**First published:** 26/01/2023 **Last updated:** 06/08/2026
+**First published:** 26/01/2023 **Last updated:** 14/09/2026
 
 [View](/no/documents/product-information/zynlonta-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000288255
+**Latest procedure affecting product information:** VR/0000366108
 
-12/02/2026
+10/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -449,7 +449,7 @@ English (EN) (43.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zynlonta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-53)
+[Other languages (24)](#file-language-dropdown-295)
 
 български (BG) (60.41 KB - PDF)
 
@@ -632,7 +632,7 @@ Zynlonta as monotherapy is indicated for the treatment of adult patients with re
 - **Marketing authorisation issued**
     - 20/12/2022
 - **Revision**
-    - 7
+    - 8
 
 ## Assessment history
 
@@ -644,9 +644,9 @@ Collapse section
 
 Zynlonta : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (167.46 KB - PDF)
+English (EN) (182.59 KB - PDF)
 
-**First published:** 25/11/2025 **Last updated:** 06/08/2026
+**First published:** 25/11/2025 **Last updated:** 14/09/2026
 
 [View](/en/documents/procedural-steps-after/zynlonta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -726,6 +726,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-06/08/2026
+14/09/2026
 
 ## Share this page

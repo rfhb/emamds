@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-09-07 17:32:00
+document_datetime: 2026-09-14 15:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xolremdi.html
 document_name: xolremdi.html
 version: success
-processing_time: 0.141282
-conversion_datetime: 2026-09-11 18:00:56.916605
+processing_time: 0.1394634
+conversion_datetime: 2026-09-17 20:51:18.208872
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.96.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
   docling-ibm-models: 4.0.2
-  docling-parse: 7.19.1
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Xolremdi
 
@@ -122,7 +122,7 @@ English (EN) (125.92 KB - PDF)
 
 [View](/en/documents/overview/xolremdi-epar-medicine-overview_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-80)
+[Other languages (24)](#file-language-dropdown-783)
 
 български (BG) (139.51 KB - PDF)
 
@@ -270,9 +270,9 @@ norsk (NO) (608.83 KB - PDF)
 
 Xolremdi : EPAR - Risk management plan
 
-English (EN) (558.59 KB - PDF)
+English (EN) (549.98 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 14/09/2026
 
 [View](/en/documents/rmp/xolremdi-epar-risk-management-plan_en.pdf)
 
@@ -286,7 +286,7 @@ English (EN) (292.72 KB - PDF)
 
 [View](/en/documents/product-information/xolremdi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-482)
+[Other languages (24)](#file-language-dropdown-753)
 
 български (BG) (717.95 KB - PDF)
 
@@ -459,7 +459,7 @@ English (EN) (66.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-233)
+[Other languages (24)](#file-language-dropdown-522)
 
 български (BG) (82.58 KB - PDF)
 
@@ -645,7 +645,7 @@ Xolremdi is indicated in patients 12 years of age and older for the treatment of
 - **Marketing authorisation issued**
     - 27/04/2026
 - **Revision**
-    - 3
+    - 4
 
 ## Assessment history
 
@@ -657,9 +657,9 @@ Collapse section
 
 Xolremdi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.47 KB - PDF)
+English (EN) (149.69 KB - PDF)
 
-**First published:** 07/07/2026 **Last updated:** 07/09/2026
+**First published:** 07/07/2026 **Last updated:** 14/09/2026
 
 [View](/en/documents/procedural-steps-after/xolremdi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -707,6 +707,6 @@ English (EN) (163.47 KB - PDF)
 
 **This page was last updated on**
 
-07/09/2026
+14/09/2026
 
 ## Share this page

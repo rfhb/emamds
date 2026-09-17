@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-22 10:37:21
+document_datetime: 2026-09-14 15:42:37
 document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zonisamide-viatris-epar-product-information_en.pdf
 document_name: zonisamide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 11.0027539
-conversion_datetime: 2025-12-25 01:28:35.506904
+processing_time: 54.2352552
+conversion_datetime: 2026-09-17 20:24:07.682623
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,19 +44,19 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Hard capsule.
+Hard capsule (capsule).
 
 ## Zonisamide Viatris 25 mg hard capsules
 
-A white opaque body and a white opaque cap, marked 'Z 25' in black containing white/almost white powder. Each hard capsule is approximately 14.4 mm in length.
+A white opaque body and a white opaque cap, marked ' Z 25 ' in black containing white/almost white powder. Each hard capsule is approximately 14.4 mm in length.
 
 ## Zonisamide Viatris 50 mg hard capsules
 
-A white opaque body and a white opaque cap, marked 'Z 50' in red containing white/almost white powder. Each hard capsule is approximately 15.8 mm in length.
+A white opaque body and a white opaque cap, marked ' Z 50 ' in red containing white/almost white powder. Each hard capsule is approximately 15.8 mm in length.
 
 ## Zonisamide Viatris 100 mg hard capsules
 
-A white opaque body and a white opaque cap, marked 'Z 100' in black containing white/almost white powder. Each hard capsule is approximately 19.3 mm in length.
+A white opaque body and a white opaque cap, marked ' Z 100 ' in black containing white/almost white powder. Each hard capsule is approximately 19.3 mm in length.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -106,12 +106,11 @@ Physicians should draw the attention of paediatric patients and their parents/ca
 
 Table 2. Paediatric population (aged 6 years and above) - recommended dosage escalation and maintenance regimen
 
-| Treatment Regimen                                                   | Titration Phase          | Titration Phase                                            | Usual Maintenance Dose           | Usual Maintenance Dose        |
-|---------------------------------------------------------------------|--------------------------|------------------------------------------------------------|----------------------------------|-------------------------------|
-| Adjunctive therapy - with CYP3A4- inducing agents (see section 4.5) | Week 1                   | Weeks 2 to 8                                               | Patients of weight 20 to 55 kg a | Patients of weight > 55 kg    |
-|                                                                     | 1 mg/kg/day (once a day) | Increase at weekly intervals in increments of 1 mg/kg      | 6 to 8 mg/kg/day (once a day)    | 300 - 500 mg/day (once a day) |
-| - without CYP3A4-inducing agents                                    | Week 1 + 2               | Weeks ≥ 3                                                  |                                  |                               |
-|                                                                     | 1 mg/kg/day (once a day) | Increase at two- weekly intervals in increments of 1 mg/kg | 6 to 8 mg/kg/day (once a day)    | 300 - 500 mg/day (once a day) |
+| Treatment Regimen - Adjunctive therapy - with CYP3A4- inducing agents (see section 4.5)   | Titration Phase - Week 1   | Titration Phase - Weeks 2 to 8                             | Usual Maintenance Dose - Patients of weight 20 to 55 kg a   | Usual Maintenance Dose - Patients of weight > 55 kg   |
+|-------------------------------------------------------------------------------------------|----------------------------|------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------|
+|                                                                                           | 1 mg/kg/day (once a day)   | Increase at weekly intervals in increments of 1 mg/kg      | 6 to 8 mg/kg/day (once a day)                               | 300 - 500 mg/day (once a day)                         |
+| - without CYP3A4-inducing agents                                                          | Week 1 + 2                 | Weeks ≥ 3                                                  |                                                             |                                                       |
+|                                                                                           | 1 mg/kg/day (once a day)   | Increase at two- weekly intervals in increments of 1 mg/kg | 6 to 8 mg/kg/day (once a day)                               | 300 - 500 mg/day (once a day)                         |
 
 ## Note:
 
@@ -186,11 +185,9 @@ Zonisamide is a benzisoxazole derivative, which contains a sulfonamide group. Se
 
 ## Acute myopia and secondary angle closure glaucoma
 
-A syndrome consisting of acute myopia associated with secondary angle closure glaucoma has been reported in adult and paediatric patients receiving zonisamide. Symptoms include acute onset of
+A syndrome consisting of acute myopia associated with secondary angle closure glaucoma has been reported in adult and paediatric patients receiving zonisamide. Symptoms include acute onset of decreased visual acuity and/or ocular pain. Ophthalmologic findings can include myopia, anterior chamber shallowing, and ocular hyperaemia (redness) and increased intraocular pressure. This syndrome may be associated with supraciliary effusion resulting in anterior displacement of the lens and iris, with secondary angle closure glaucoma. Symptoms may occur within hours to weeks of initiating therapy. Treatment includes discontinuation of zonisamide, as rapidly as possible in the judgment of the treating physician, and appropriate measures to reduce intraocular pressure. Elevated intraocular pressure of any aetiology, if left untreated, can lead to serious sequelae including permanent vision loss. Caution should be used when treating patients with history of eye disorders with zonisamide.
 
 <div style=\"page-break-after: always\"></div>
-
-decreased visual acuity and/or ocular pain. Ophthalmologic findings can include myopia, anterior chamber shallowing, and ocular hyperaemia (redness) and increased intraocular pressure. This syndrome may be associated with supraciliary effusion resulting in anterior displacement of the lens and iris, with secondary angle closure glaucoma. Symptoms may occur within hours to weeks of initiating therapy. Treatment includes discontinuation of zonisamide, as rapidly as possible in the judgment of the treating physician, and appropriate measures to reduce intraocular pressure. Elevated intraocular pressure of any aetiology, if left untreated, can lead to serious sequelae including permanent vision loss. Caution should be used when treating patients with history of eye disorders with zonisamide.
 
 ## Suicide ideation and behaviour
 
@@ -208,11 +205,9 @@ Hyperchloraemic, non-anion gap, metabolic acidosis (i.e. decreased serum bicarbo
 
 The risk of zonisamide induced metabolic acidosis appears to be more frequent and severe in younger patients. Appropriate evaluation and monitoring of serum bicarbonate levels should be carried out in patients taking zonisamide who have underlying conditions which might increase the risk of acidosis, in patients who are at an increased risk of adverse consequences of metabolic acidosis and in patients with symptoms suggestive of metabolic acidosis. If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing zonisamide (by gradual discontinuation or reduction of a therapeutic dose) as osteopenia may develop. If the decision is made to continue patients on zonisamide in the face of persistent acidosis, alkali treatment should be considered.
 
-Metabolic acidosis has the potential to lead to hyperammonaemia, which has been reported with or without encephalopathy during zonisamide treatment. The risk for hyperammonaemia may be increased in patients concomitantly taking other medications that can cause hyperammonaemia (e.g. valproate), or who have an underlying urea cycle disorder or reduced hepatic mitochondrial activity. In patients who develop unexplained lethargy or changes in mental status during treatment with zonisamide, it is
+Metabolic acidosis has the potential to lead to hyperammonaemia, which has been reported with or without encephalopathy during zonisamide treatment. The risk for hyperammonaemia may be increased in patients concomitantly taking other medications that can cause hyperammonaemia (e.g. valproate), or who have an underlying urea cycle disorder or reduced hepatic mitochondrial activity. In patients who develop unexplained lethargy or changes in mental status during treatment with zonisamide, it is recommended to consider hyperammonaemic encephalopathy and to measure ammonia levels.
 
 <div style=\"page-break-after: always\"></div>
-
-recommended to consider hyperammonaemic encephalopathy and to measure ammonia levels.
 
 Zonisamide should be used with caution in adult patients being treated concomitantly with carbonic anhydrase inhibitors such as topiramate or acetazolamide, as there are insufficient data to rule out a pharmacodynamic interaction (see also section 4.4 Paediatric Population and section 4.5).
 
@@ -230,7 +225,7 @@ In patients taking zonisamide, in whom severe muscle pain and/or weakness develo
 
 ## Women of childbearing potential
 
-Women of childbearing potential must use effective contraception during treatment with zonisamide and for one month after discontinuation (see section 4.6).  Zonisamide must not be used in women of childbearing potential not using effective contraception unless clearly necessary and only if the potential benefit is considered to justify the risk to the foetus. Specialist medical advice should be given to women treated with zonisamide who are of childbearing potential. The woman should be fully informed of and understand the possible effects of zonisamide on the foetus and these risks should be discussed with the patient in relation to the benefits before starting treatment. Before the initiation of treatment with Zonisamide Viatris in a woman of childbearing potential, pregnancy testing should be considered. Women planning a pregnancy should meet with their specialists to reassess treatment with zonisamide and to consider other therapeutic options prior to conception and before contraception is discontinued. Women of childbearing potential should be counselled to contact her doctor immediately if she becomes pregnant or thinks she may be pregnant and is taking Zonisamide Viatris. Physicians treating patients with zonisamide should ensure that patients are fully informed about the need to use appropriate effective contraception and should use clinical judgement when assessing whether oral contraceptives (OCs), or the doses of the OC components, are adequate based on the individual patient's clinical situation.
+Women of childbearing potential must use effective contraception during treatment with zonisamide and for one month after discontinuation (see section 4.6).  Zonisamide must not be used in women of childbearing potential not using effective contraception unless clearly necessary and only if the potential benefit is considered to justify the risk to the foetus. Specialist medical advice should be given to women treated with zonisamide who are of childbearing potential. The woman should be fully informed of and understand the possible effects of zonisamide on the foetus and these risks should be discussed with the patient in relation to the benefits before starting treatment. Before the initiation of treatment with Zonisamide Viatris in a woman of childbearing potential, pregnancy testing should be considered. Women planning a pregnancy should meet with their specialists to reassess treatment with zonisamide and to consider other therapeutic options prior to conception and before contraception is discontinued. Women of childbearing potential should be counselled to contact her doctor immediately if she becomes pregnant or thinks she may be pregnant and is taking Zonisamide Viatris. Physicians treating patients with zonisamide should ensure that patients are fully informed about the need to use appropriate effective contraception and should use clinical judgement when assessing whether oral contraceptives (OCs), or the doses of the OC components, are adequate based on the individual patient ' s clinical situation.
 
 ## Body weight
 
@@ -255,7 +250,7 @@ topiramate and acetazolamide), and anticholinergic agents (like clomipramine, hy
 
 ## IF ANY OF THE FOLLOWING OCCUR, THE CHILD NEEDS URGENT MEDICAL ATTENTION:
 
-The skin feels very hot with little or no sweating, or the child becomes confused or has muscle cramps, or the child's heartbeat or breathing become rapid.
+The skin feels very hot with little or no sweating, or the child becomes confused or has muscle cramps, or the child ' s heartbeat or breathing become rapid.
 
 - Take the child to a cool, shaded place
 - Keep the child's skin cool with water
@@ -293,7 +288,7 @@ Increased levels of hepatobiliary parameters such as alanine aminotransferase (A
 
 Cognitive impairment in patients affected by epilepsy has been associated with the underlying pathology and/or the administration of anti-epileptic treatment. In a zonisamide placebo-controlled study conducted in paediatric and adolescent patients, the proportion of patients with impaired cognition was numerically greater in the zonisamide group compared with the placebo group.
 
-This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium - free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -313,11 +308,9 @@ In clinical studies in healthy subjects, steady-state dosing with zonisamide did
 
 ## Carbonic anhydrase inhibitors
 
-Zonisamide should be used with caution in adult patients treated concomitantly with carbonic anhydrase inhibitors such as topiramate and acetazolamide, as there are insufficient data to rule out a
+Zonisamide should be used with caution in adult patients treated concomitantly with carbonic anhydrase inhibitors such as topiramate and acetazolamide, as there are insufficient data to rule out a possible pharmacodynamic interaction (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-possible pharmacodynamic interaction (see section 4.4).
 
 Zonisamide should not be used as co-medication in paediatric patients with other carbonic anhydrase inhibitors such as topiramate and acetazolamide (see section 4.4: Paediatric population).
 
@@ -331,8 +324,8 @@ In clinical studies co-administration of lamotrigine had no apparent effect on z
 
 Zonisamide is metabolised partly by CYP3A4 (reductive cleavage), and also by N-acetyl-transferases and conjugation with glucuronic acid; therefore, substances that can induce or inhibit these enzymes may affect the pharmacokinetics of zonisamide:
 
-- -Enzyme induction: Exposure to zonisamide is lower in epileptic patients receiving CYP3A4-inducing agents such as phenytoin, carbamazepine, and phenobarbitone.  These effects are unlikely to be of clinical significance when zonisamide is added to existing therapy; however, changes in zonisamide concentrations may occur if concomitant CYP3A4-inducing anti-epileptic or other medicinal products are withdrawn, dose adjusted or introduced, an adjustment of the zonisamide dose may be required. Rifampicin is a potent CYP3A4 inducer. If co-administration is necessary, the patient should be closely monitored and the dose of zonisamide and other CYP3A4 substrates adjusted as needed.
-- -CYP3A4 inhibition: Based upon clinical data, known specific and non-specific CYP3A4 inhibitors appear to have no clinically relevant effect on zonisamide pharmacokinetic exposure parameters. Steady-state dosing of either ketoconazole (400 mg/day) or cimetidine (1200 mg/day) had no clinically relevant effects on the single-dose pharmacokinetics of zonisamide given to healthy subjects. Therefore, modification of zonisamide dosing should not be necessary when co-administered with known CYP3A4 inhibitors.
+- Enzyme induction: Exposure to zonisamide is lower in epileptic patients receiving CYP3A4-inducing agents such as phenytoin, carbamazepine, and phenobarbitone.  These effects are unlikely to be of clinical significance when zonisamide is added to existing therapy; however, changes in zonisamide concentrations may occur if concomitant CYP3A4-inducing anti-epileptic or other medicinal products are withdrawn, dose adjusted or introduced, an adjustment of the zonisamide dose may be required. Rifampicin is a potent CYP3A4 inducer. If co-administration is necessary, the patient should be closely monitored and the dose of zonisamide and other CYP3A4 substrates adjusted as needed.
+- CYP3A4 inhibition: Based upon clinical data, known specific and non-specific CYP3A4 inhibitors appear to have no clinically relevant effect on zonisamide pharmacokinetic exposure parameters. Steady-state dosing of either ketoconazole (400 mg/day) or cimetidine (1200 mg/day) had no clinically relevant effects on the single-dose pharmacokinetics of zonisamide given to healthy subjects. Therefore, modification of zonisamide dosing should not be necessary when co-administered with known CYP3A4 inhibitors.
 
 ## Paediatric population
 
@@ -380,11 +373,9 @@ Zonisamide has been administered to over 1,200 patients in clinical studies, mor
 
 It should be noted that zonisamide is a benzisoxazole derivative, which contains a sulfonamide group. Serious immune based adverse reactions that are associated with medicinal products containing a sulfonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia, which very rarely can be fatal (see section 4.4).
 
-The most common adverse reactions in controlled adjunctive-therapy studies were somnolence, dizziness and anorexia.  The most common adverse reactions in a randomised, controlled monotherapy trial comparing zonisamide with carbamazepine prolonged release were decreased bicarbonate, decreased appetite, and decreased weight.  The incidence of markedly abnormally low serum bicarbonate (a decrease to less than 17 mEq/l and by more than 5 mEq/l) was 3.8%. The incidence of
+The most common adverse reactions in controlled adjunctive-therapy studies were somnolence, dizziness and anorexia.  The most common adverse reactions in a randomised, controlled monotherapy trial comparing zonisamide with carbamazepine prolonged release were decreased bicarbonate, decreased appetite, and decreased weight.  The incidence of markedly abnormally low serum bicarbonate (a decrease to less than 17 mEq/l and by more than 5 mEq/l) was 3.8%. The incidence of marked decreases in weight of 20% or more was 0.7%.
 
 <div style=\"page-break-after: always\"></div>
-
-marked decreases in weight of 20% or more was 0.7%.
 
 ## Tabulated list of adverse reactions
 
@@ -410,9 +401,7 @@ very rare
 
 &lt; 1/10,000
 
-not known
-
-cannot be estimated from the available data
+not known cannot be estimated from the available data
 
 ## Table 4. Adverse reactions associated with zonisamide obtained from adjunctive use clinical studies and post-marketing surveillance
 
@@ -448,7 +437,7 @@ In addition there have been isolated cases of Sudden Unexplained Death in Epilep
 
 ## zonisamide with carbamazepine prolonged release
 
-| System Organ Class (MedDRA terminology†)             | Very Common           | Common                                                                                                                            | Uncommon                                                                     |
+| System Organ Class (MedDRA terminology † )           | Very Common           | Common                                                                                                                            | Uncommon                                                                     |
 |------------------------------------------------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | Infections and infestation                           |                       |                                                                                                                                   | Urinary tract infection Pneumonia                                            |
 | Blood and lymphatic disorders                        |                       |                                                                                                                                   | Leucopenia Thrombocytopenia                                                  |
@@ -487,7 +476,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## Symptoms
 
-There have been cases of accidental and intentional overdose in adult and paediatric patients. In some cases, the overdoses were asymptomatic, particularly where emesis or lavage was prompt. In other cases, the overdose was followed by symptoms such as somnolence, nausea, gastritis, nystagmus, myoclonus, coma, bradycardia, reduced renal function, hypotension and respiratory depression. A very high plasma concentration of 100.1 μg/ml zonisamide was recorded approximately 31 hours after a patient took an overdose of zonisamide and clonazepam; the patient became comatose and had respiratory depression, but recovered consciousness five days later and had no sequelae.
+There have been cases of accidental and intentional overdose in adult and paediatric patients. In some cases, the overdoses were asymptomatic, particularly where emesis or lavage was prompt. In other cases, the overdose was followed by symptoms such as somnolence, nausea, gastritis, nystagmus, myoclonus, coma, bradycardia, reduced renal function, hypotension and respiratory depression. A very high plasma concentration of 100.1 μ g/ml zonisamide was recorded approximately 31 hours after a patient took an overdose of zonisamide and clonazepam; the patient became comatose and had respiratory depression, but recovered consciousness five days later and had no sequelae.
 
 ## Management
 
@@ -610,11 +599,9 @@ Limited data indicate that pharmacokinetics in children and adolescents dosed to
 
 ## 5.3 Preclinical safety data
 
-Findings not observed in clinical studies, but seen in the dog at exposure levels similar to clinical use,
+Findings not observed in clinical studies, but seen in the dog at exposure levels similar to clinical use, were liver changes (enlargement, dark-brown discolouration, mild hepatocyte enlargement with concentric lamellar bodies in the cytoplasm and cytoplasmic vacuolation) associated with increased metabolism.
 
 <div style=\"page-break-after: always\"></div>
-
-were liver changes (enlargement, dark-brown discolouration, mild hepatocyte enlargement with concentric lamellar bodies in the cytoplasm and cytoplasmic vacuolation) associated with increased metabolism.
 
 Zonisamide was not genotoxic and has no carcinogenic potential.
 
@@ -646,13 +633,19 @@ Capsule shells Titanium dioxide (E171)
 
 Gelatin
 
-Printing ink Shellac Iron oxide Red (E172)
+Printing ink
+
+Shellac
+
+Iron oxide Red (E172)
 
 ## 6.2 Incompatibilities
 
 Not applicable.
 
-## 6.3 Shelf life
+## 6.3
+
+Shelf life
 
 36 months
 
@@ -692,7 +685,9 @@ Ireland
 
 Zonisamide Viatris 25 mg hard capsules
 
-EU/1/16/1093/001 EU/1/16/1093/002 EU/1/16/1093/003 EU/1/16/1093/004
+EU/1/16/1093/001 EU/1/16/1093/002 EU/1/16/1093/003
+
+EU/1/16/1093/004
 
 <div style=\"page-break-after: always\"></div>
 
@@ -708,13 +703,7 @@ EU/1/16/1093/008
 
 ## Zonisamide Viatris 100 mg hard capsules
 
-EU/1/16/1093/009
-
-EU/1/16/1093/010
-
-EU/1/16/1093/011
-
-EU/1/16/1093/012
+EU/1/16/1093/009 EU/1/16/1093/010 EU/1/16/1093/011 EU/1/16/1093/012
 
 EU/1/16/1093/013
 
@@ -792,7 +781,7 @@ Each hard capsule contains 25 mg zonisamide.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Hard capsules
+## Hard capsules
 
 Blisters:
 
@@ -848,29 +837,28 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS FOR USE
+## 15. INSTRUCTIONS FOR USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Zonisamide Viatris 25 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER PACK                                         |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER PACK                                          |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -899,7 +887,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -931,9 +919,7 @@ Unit Dose Blisters:
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Read the package leaflet before use
-
-Oral use
+Read the package leaflet before use Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -949,11 +935,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1022,7 +1010,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1038,7 +1026,7 @@ Each hard capsule contains 100 mg zonisamide.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Hard capsules
+## Hard capsules
 
 Blisters:
 
@@ -1050,7 +1038,9 @@ Blisters:
 
 196 hard capsules
 
-Unit Dose Blisters: 56 x 1 hard capsules
+Unit Dose Blisters:
+
+56 x 1 hard capsules
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -1076,7 +1066,15 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited
+
+Damastown Industrial Park,
+
+Mulhuddart, Dublin 15,
+
+DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1096,7 +1094,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS FOR USE
+## 15. INSTRUCTIONS FOR USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1153,14 +1151,16 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-Zonisamide Viatris 25 mg hard capsules Zonisamide Viatris 50 mg hard capsules Zonisamide Viatris 100 mg hard capsules zonisamide
+Zonisamide Viatris 25 mg hard capsules Zonisamide Viatris 50 mg hard capsules Zonisamide Viatris 100 mg hard capsules
+
+zonisamide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only.  Do not pass it on to others.  It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only.  Do not pass it on to others.  It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1186,8 +1186,8 @@ Zonisamide Viatris is used to treat seizures that affect one part of the brain (
 
 ## Do not take Zonisamide Viatris
 
-- -if you are allergic to zonisamide or any of the other ingredients of this medicine (listed in section 6).
-- -if you are allergic to other sulfonamide medicines. Examples include: sulfonamide antibiotics, thiazide diuretics, and sulfonylurea antidiabetes medicines.
+- if you are allergic to zonisamide or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to other sulfonamide medicines. Examples include: sulfonamide antibiotics, thiazide diuretics, and sulfonylurea antidiabetes medicines.
 
 ## Warnings and precautions
 
@@ -1197,23 +1197,21 @@ A small number of people being treated with antiepileptics such as zonisamide ha
 
 ## Serious rashes occur in association with zonisamide therapy, including cases of Stevens-Johnson syndrome.
 
-The use of Zonisamide Viatris may lead to high levels of ammonia in the blood which could lead to a change in brain function, especially if you are also taking other medicines which can increase ammonia
+The use of Zonisamide Viatris may lead to high levels of ammonia in the blood which could lead to a change in brain function, especially if you are also taking other medicines which can increase ammonia levels (for example valproate), have a genetic disorder causing build-up of too much ammonia in the body (urea cycle disorder), or if you have liver problems. Tell your doctor immediately if you become unusually drowsy or confused.
 
 <div style=\"page-break-after: always\"></div>
 
-levels (for example valproate), have a genetic disorder causing build-up of too much ammonia in the body (urea cycle disorder), or if you have liver problems. Tell your doctor immediately if you become unusually drowsy or confused.
-
 Talk to your doctor or pharmacist before taking Zonisamide Viatris if you:
 
-- -are younger than 12 years old, as you may be at greater risk of decreased sweating, heat stroke, pneumonia and liver problems . If you are younger than 6 years old, Zonisamide Viatris is not recommended for you
-- -are elderly, as your dose of Zonisamide Viatris may need adjusting, and you may be more likely to develop an allergic reaction, severe skin rash, swelling of the feet and legs, and itchiness when taking Zonisamide Viatris (see section 4 Possible Side Effects)
-- -suffer from liver problems, as your dose of Zonisamide Viatris may need adjusting
-- -have eye problems such as glaucoma
-- -suffer from kidney problems as your dose of Zonisamide Viatris may need adjusting
-- -have previously suffered from kidney stones, as you may be at increased risk of developing more kidney stones. Reduce the risk of kidney stones by drinking sufficient water
-- -live in a place or are on holiday in a place where the weather is warm. Zonisamide Viatris can make you perspire less, which can cause your body temperature to increase. Reduce the risk of overheating by drinking sufficient water and keeping cool
-- -are underweight, or have lost a lot of weight as Zonisamide Viatris can cause you to lose more weight. Tell your doctor as this may need to be monitored.
-- -are pregnant or could become pregnant (see section 'pregnancy, breast-feeding and fertility' for further information).
+- are younger than 12 years old, as you may be at greater risk of decreased sweating, heat stroke, pneumonia and liver problems . If you are younger than 6 years old, Zonisamide Viatris is not recommended for you
+- are elderly, as your dose of Zonisamide Viatris may need adjusting, and you may be more likely to develop an allergic reaction, severe skin rash, swelling of the feet and legs, and itchiness when taking Zonisamide Viatris (see section 4 Possible Side Effects)
+- suffer from liver problems, as your dose of Zonisamide Viatris may need adjusting
+- have eye problems such as glaucoma
+- suffer from kidney problems as your dose of Zonisamide Viatris may need adjusting
+- have previously suffered from kidney stones, as you may be at increased risk of developing more kidney stones. Reduce the risk of kidney stones by drinking sufficient water
+- live in a place or are on holiday in a place where the weather is warm. Zonisamide Viatris can make you perspire less, which can cause your body temperature to increase. Reduce the risk of overheating by drinking sufficient water and keeping cool
+- are underweight, or have lost a lot of weight as Zonisamide Viatris can cause you to lose more weight. Tell your doctor as this may need to be monitored.
+- are pregnant or could become pregnant (see section 'pregnanc y, breast-feeding and fertility ' for further information).
 
 If any of these applies to you, tell your doctor before you take Zonisamide Viatris.
 
@@ -1227,21 +1225,21 @@ Zonisamide Viatris can cause your child to sweat less and overheat and if your c
 
 When your child is taking Zonisamide Viatris:
 
-- -keep your child cool especially in hot weather
-- -your child must avoid heavy exercise especially when the weather is hot
-- -give your child plenty of cold water to drink
-- -your child must not take these medicines:
+- keep your child cool especially in hot weather
+- your child must avoid heavy exercise especially when the weather is hot
+- give your child plenty of cold water to drink
+- your child must not take these medicines:
 
 carbonic anhydrase inhibitors (like topiramate and acetazolamide), and anticholinergic agents (like clomipramine, hydroxyzine, diphenhydramine, haloperidol, imipramine and oxybutynin).
 
-If your child's skin feels very hot with little or no sweating, becomes confused, has muscle cramps, or your child's heartbeat or breathing becomes rapid:
+If your child ' s skin feels very hot with little or no sweating, becomes confused, has muscle cramps, or your child ' s heartbeat or breathing becomes rapid:
 
-- -take your child to a cool, shaded place
-- -sponge your child's skin with cool (not cold) water
-- -give your child cold water to drink
-- -seek urgent medical assistance.
-- Body weight: You should monitor your child's weight every month and see your doctor as soon as possible if your child is not gaining enough weight.  Zonisamide Viatris is not recommended for children who are underweight or have a small appetite, and should be used with caution in those below 20 kg.
-- Increased acid level in the blood and kidney stones: Reduce these risks by ensuring that your child drinks enough water and is not taking any other medicine which could cause kidney stones (see Other medicines).  Your doctor will monitor your child's blood bicarbonate levels and kidneys
+- take your child to a cool, shaded place
+- sponge your child ' s skin with cool (not cold) water
+- give your child cold water to drink
+- seek urgent medical assistance.
+- Body weight: You should monitor your child ' s weight every month and see your doctor as soon as possible if your child is not gaining enough weight.  Zonisamide Viatris is not recommended for children who are underweight or have a small appetite, and should be used with caution in those below 20 kg.
+- Increased acid level in the blood and kidney stones: Reduce these risks by ensuring that your child drinks enough water and is not taking any other medicine which could cause kidney stones (see Other medicines).  Your doctor will monitor your child ' s blood bicarbonate levels and kidneys
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1253,9 +1251,9 @@ Do not give this medicine to children below the age of 6 years because it is not
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, including medicines obtained without a prescription.
 
-- -Zonisamide Viatris should be used carefully in adults when taken with medicines that can cause kidney stones, like topiramate or acetazolamide. In children, this combination is not recommended.
-- -Zonisamide Viatris could possibly increase your blood levels of medicines like digoxin and quinidine, and so a reduction in their dose may be required.
-- -Other medicines like phenytoin, carbamazepine, phenobarbitone and rifampicin can decrease your blood levels of Zonisamide Viatris, which may require an adjustment of your dose of Zonisamide Viatris.
+- Zonisamide Viatris should be used carefully in adults when taken with medicines that can cause kidney stones, like topiramate or acetazolamide. In children, this combination is not recommended.
+- Zonisamide Viatris could possibly increase your blood levels of medicines like digoxin and quinidine, and so a reduction in their dose may be required.
+- Other medicines like phenytoin, carbamazepine, phenobarbitone and rifampicin can decrease your blood levels of Zonisamide Viatris, which may require an adjustment of your dose of Zonisamide Viatris.
 
 ## Zonisamide Viatris with food and drink
 
@@ -1279,7 +1277,7 @@ Zonisamide Viatris may affect your concentration, ability to react/respond, and 
 
 ## Zonisamide Viatris contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per capsule , that is to say essentially 'sodium - free'.
 
 ## 3. How to take Zonisamide Viatris
 
@@ -1291,31 +1289,31 @@ Always take this medicine exactly as your doctor or pharmacist has told you.  Ch
 
 ## When you take Zonisamide Viatris on its own:
 
-- -The starting dose is 100 mg taken once a day.
-- -This may be increased by up to 100 mg at intervals of two weeks.
-- -The recommended dose is 300 mg once a day.
+- The starting dose is 100 mg taken once a day.
+- This may be increased by up to 100 mg at intervals of two weeks.
+- The recommended dose is 300 mg once a day.
 
 ## When you take Zonisamide Viatris with other antiepileptic medicines:
 
-- -The starting dose is 50 mg daily taken in two equal doses of 25 mg.
-- -This may be increased by up to 100 mg at intervals of one to two weeks.
-- -The recommended daily dose is between 300 mg and 500 mg.
-- -Some people respond to lower doses. The dose may be increased more slowly if you experience side effects, are elderly or if you suffer from kidney or liver problems.
+- The starting dose is 50 mg daily taken in two equal doses of 25 mg.
+- This may be increased by up to 100 mg at intervals of one to two weeks.
+- The recommended daily dose is between 300 mg and 500 mg.
+- Some people respond to lower doses. The dose may be increased more slowly if you experience side effects, are elderly or if you suffer from kidney or liver problems.
 
 ## Use in children (aged 6 to 11 years) and adolescents (aged 12 to 17 years) weighing at least 20 kg:
 
-- -The starting dose is 1 mg per kg of body weight taken once a day.
-- -This may be increased by 1 mg per kg of body weight at intervals of one to two weeks.
-- -The recommended daily dose is 6 to 8 mg per kg for a child with a body weight of up to 55 kg or 300 to 500 mg for a child with a body weight more than 55 kg (which ever dose is lower) taken once a day.
+- The starting dose is 1 mg per kg of body weight taken once a day.
+- This may be increased by 1 mg per kg of body weight at intervals of one to two weeks.
+- The recommended daily dose is 6 to 8 mg per kg for a child with a body weight of up to 55 kg or 300 to 500 mg for a child with a body weight more than 55 kg (which ever dose is lower) taken once a day.
 
 Example: A child who weighs 25 kg should take 25 mg once a day for the first week, and then increase the daily dose by 25 mg at the start of each week until a daily dose between 150 to 200 mg is reached.
 
 If you feel that the effect of Zonisamide Viatris is too strong or too weak, talk to your doctor or pharmacist.
 
-- -Zonisamide Viatris capsules must be swallowed whole with water.
-- -Do not chew the capsules.
-- -Zonisamide Viatris can be taken once or twice daily, as instructed by your doctor.
-- -If you take Zonisamide Viatris twice a day, take half the daily dose in the morning and half in the evening.
+- Zonisamide Viatris capsules must be swallowed whole with water.
+- Do not chew the capsules.
+- Zonisamide Viatris can be taken once or twice daily, as instructed by your doctor.
+- If you take Zonisamide Viatris twice a day, take half the daily dose in the morning and half in the evening.
 
 ## If you take more Zonisamide Viatris than you should
 
@@ -1323,13 +1321,13 @@ If you may have taken more Zonisamide Viatris than you should, tell a carer (rel
 
 ## If you forget to take Zonisamide Viatris
 
-- -If you forget to take a dose, don't worry: take the next dose when it is due.
-- -Do not take a double dose to make up for a forgotten dose.
+- If you forget to take a dose, don ' t worry: take the next dose when it is due.
+- Do not take a double dose to make up for a forgotten dose.
 
 ## If you stop taking Zonisamide Viatris
 
-- -Zonisamide Viatris is meant to be taken as a long-term medicine.  Do not reduce your dose or stop your medicine unless your doctor tells you to.
-- -If your doctor advises you to stop taking Zonisamide Viatris your dose will be reduced gradually to lower the risk of more seizures.
+- Zonisamide Viatris is meant to be taken as a long-term medicine.  Do not reduce your dose or stop your medicine unless your doctor tells you to.
+- If your doctor advises you to stop taking Zonisamide Viatris your dose will be reduced gradually to lower the risk of more seizures.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -1343,18 +1341,19 @@ Zonisamide Viatris belongs to a group of medicines (sulfonamides) that can cause
 
 ## Contact your doctor immediately if you:
 
-- -have difficulty breathing, a swollen face, lips or tongue, or a severe skin rash as these symptoms may indicate that you are having a severe allergic reaction
-- -have signs of overheating - high body temperature but little or no sweating, rapid heartbeat and breathing, muscle cramps, and confusion
-- -have thoughts of harming or killing yourself.  A small number of people being treated with antiepileptics such as Zonisamide Viatris have had thoughts of harming or killing themselves
-- -have pain in your muscles or a feeling of weakness, as this may be a sign of abnormal muscle breakdown which can lead to kidney problems
-- -get a sudden pain in your back or stomach, have pain on urinating (passing water) or notice blood in your urine, as this may be a sign of kidney stones
-- -develop visual problems such as eye pain or blurred vision while taken zonisamide.
+- have difficulty breathing, a swollen face, lips or tongue, or a severe skin rash as these symptoms may indicate that you are having a severe allergic reaction
+- have signs of overheating - high body temperature but little or no sweating, rapid heartbeat and breathing, muscle cramps, and confusion
+- have thoughts of harming or killing yourself.  A small number of people being treated with antiepileptics such as Zonisamide Viatris have had thoughts of harming or killing themselves
+- have pain in your muscles or a feeling of weakness, as this may be a sign of abnormal muscle breakdown which can lead to kidney problems
+- get a sudden pain in your back or stomach, have pain on urinating (passing water) or notice blood in your urine, as this may be a sign of kidney stones
+- develop visual problems such as eye pain or blurred vision while taken zonisamide.
 
 ## Contact your doctor as soon as possible if you:
 
-- -have an unexplained skin rash, as this could develop into a more severe skin rash or skin peeling
-- -feel unusually tired or feverish, have a sore throat, swollen glands, or find that you bruise more easily, as this may mean you have a blood disorder
-- -have signs of increased acid level in the blood- headaches, drowsiness, shortness of breath and loss of appetite. Your doctor may need to monitor or treat this.
+- have an unexplained skin rash, as this could develop into a more severe skin rash or skin peeling
+- feel unusually tired or feverish, have a sore throat, swollen glands, or find that you bruise more
+- easily, as this may mean you have a blood disorder
+- have signs of increased acid level in the blood- headaches, drowsiness, shortness of breath and loss of appetite. Your doctor may need to monitor or treat this.
 
 Your doctor may decide that you should stop using Zonisamide Viatris.
 
@@ -1362,52 +1361,52 @@ The most common side effects of Zonisamide Viatris are mild. They occur during t
 
 ## Very common (may affect more than 1 in 10 people):
 
-- -agitation, irritability, confusion, depression
-- -poor muscle coordination, dizziness, poor memory, sleepiness, double vision
-- -loss of appetite, decreased blood levels of bicarbonate (a substance that prevents your blood from becoming acidic).
+- agitation, irritability, confusion, depression
+- poor muscle coordination, dizziness, poor memory, sleepiness, double vision
+- loss of appetite, decreased blood levels of bicarbonate (a substance that prevents your blood from becoming acidic).
 
 ## Common (may affect up to 1 in 10 people):
 
-- -difficulty sleeping, strange or unusual thoughts, feeling anxious or emotional
-- -slowed thoughts, loss of concentration, speech abnormalities, abnormal skin sensation (pins and needles), tremor, involuntary movement of the eyes
-- -kidney stones
-- -skin rashes, itching, allergic reactions, fever, tiredness, flu-like symptoms, hair loss
-- -ecchymosis (a small bruise caused by blood leaking from broken blood vessels in the skin)
-- -loss of weight, nausea, indigestion, stomach pains, diarrhoea (loose stools), constipation
-- -swelling of the feet and legs
-- -vomiting
-- -mood swings
-- -increased blood levels of creatinine (a waste product that your kidneys should normally remove)
-- -increased levels of liver enzymes in the blood.
+- difficulty sleeping, strange or unusual thoughts, feeling anxious or emotional
+- slowed thoughts, loss of concentration, speech abnormalities, abnormal skin sensation (pins and needles), tremor, involuntary movement of the eyes
+- kidney stones
+- skin rashes, itching, allergic reactions, fever, tiredness, flu-like symptoms, hair loss
+- ecchymosis (a small bruise caused by blood leaking from broken blood vessels in the skin)
+- loss of weight, nausea, indigestion, stomach pains, diarrhoea (loose stools), constipation
+- swelling of the feet and legs
+- vomiting
+- mood swings
+- increased blood levels of creatinine (a waste product that your kidneys should normally remove)
+- increased levels of liver enzymes in the blood.
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- -anger, aggression, thoughts of suicide, suicide attempt
-- -gall bladder inflammation, gallstones
-- -urinary stones
-- -lung infection / inflammation, urinary tract infections
+- anger, aggression, thoughts of suicide, suicide attempt
+- gall bladder inflammation, gallstones
+- urinary stones
+- lung infection / inflammation, urinary tract infections
 
 <div style=\"page-break-after: always\"></div>
 
-- -low blood potassium levels, convulsions/seizures
-- -breathing disorders
-- -hallucinations
-- -abnormal urine tests.
+- low blood potassium levels, convulsions/seizures
+- breathing disorders
+- hallucinations
+- abnormal urine tests.
 
 ## Very rare (may affect up to 1 in 10,000 people):
 
-- -memory loss, coma, neuroleptic malignant syndrome (inability to move, sweating, fever, incontinence), status epilepticus (prolonged or repeated seizures)
-- -shortness of breath, inflammation of the lungs
-- -inflammations of the pancreas (severe pain in the stomach or back)
-- -liver problems, kidney failure
-- -severe rashes or skin peeling (at the same time you may feel unwell or develop a fever)
-- -abnormal muscle breakdown (you may feel pain or weakness in your muscles) which can lead to kidney problems
-- -swollen glands, blood disorders (reduction in the number of blood cells, which can make infection more likely and can make you look pale, feel tired and feverish, and bruise more easily)
-- -decreased sweating, overheating
-- -problems with your urine
-- -increased blood levels of creatine phosphokinase or urea which can be seen in a blood test
-- -abnormal results from liver function tests
-- -glaucoma, which is a blockage of fluid in the eye causing increased pressure in the eye. Eye pain, blurred vision or decreased vision may occur and can be signs of glaucoma.
+- memory loss, coma, neuroleptic malignant syndrome (inability to move, sweating, fever, incontinence), status epilepticus (prolonged or repeated seizures)
+- shortness of breath, inflammation of the lungs
+- inflammations of the pancreas (severe pain in the stomach or back)
+- liver problems, kidney failure
+- severe rashes or skin peeling (at the same time you may feel unwell or develop a fever)
+- abnormal muscle breakdown (you may feel pain or weakness in your muscles) which can lead to kidney problems
+- swollen glands, blood disorders (reduction in the number of blood cells, which can make infection more likely and can make you look pale, feel tired and feverish, and bruise more easily)
+- decreased sweating, overheating
+- problems with your urine
+- increased blood levels of creatine phosphokinase or urea which can be seen in a blood test
+- abnormal results from liver function tests
+- glaucoma, which is a blockage of fluid in the eye causing increased pressure in the eye. Eye pain, blurred vision or decreased vision may occur and can be signs of glaucoma.
 
 ## Reporting of side effects
 
@@ -1433,9 +1432,9 @@ The active substance is zonisamide. Each capsule contains 25 mg of zonisamide.
 
 The other ingredients are:
 
-- -capsule contents: microcrystalline cellulose, hydrogenated vegetable oil and sodium laurilsulfate
-- -capsule shell: gelatin and titanium dioxide (E171)
-- -printing ink: shellac, black iron oxide (E172) and potassium hydroxide.
+- capsule contents: microcrystalline cellulose, hydrogenated vegetable oil and sodium laurilsulfate
+- capsule shell: gelatin and titanium dioxide (E171)
+- printing ink: shellac, black iron oxide (E172) and potassium hydroxide.
 
 ## Zonisamide 50 mg hard capsules:
 
@@ -1445,27 +1444,27 @@ The active substance is zonisamide. Each capsule contains 50 mg of zonisamide.
 
 ## The other ingredients are:
 
-- -capsule contents: microcrystalline cellulose, hydrogenated vegetable oil and sodium laurilsulfate
-- -capsule shell: gelatin and titanium dioxide (E171)
-- -printing ink: shellac and iron oxide red (E172)
+- capsule contents: microcrystalline cellulose, hydrogenated vegetable oil and sodium laurilsulfate
+- capsule shell: gelatin and titanium dioxide (E171)
+- printing ink: shellac and iron oxide red (E172)
 
 ## Zonisamide 100 mg hard capsules:
 
 The active substance is zonisamide. Each capsule contains 100 mg of zonisamide.
 
-## The other ingredients are:
+The other ingredients are:
 
-- -capsule contents: microcrystalline cellulose, hydrogenated vegetable oil and sodium laurilsulfate
-- -capsule shell: gelatin and titanium dioxide (E171)
-- -printing ink: shellac, black iron oxide (E172) and potassium hydroxide.
+- capsule contents: microcrystalline cellulose, hydrogenated vegetable oil and sodium laurilsulfate
+- capsule shell: gelatin and titanium dioxide (E171)
+- printing ink: shellac, black iron oxide (E172) and potassium hydroxide.
 
 ## What Zonisamide Viatris looks like and contents of the pack
 
-Zonisamide Viatris 25 mg hard capsules have a white body and a white cap, marked 'Z 25' in black and contain a white/almost white powder.
+Zonisamide Viatris 25 mg hard capsules (capsules) have a white body and a white cap, marked ' Z 25 ' in black and contain a white/almost white powder.
 
-Zonisamide Viatris 50 mg hard capsules have a white body and white cap, marked 'Z 50' in red and contain a white/almost white powder.
+Zonisamide Viatris 50 mg hard capsules (capsules) have a white body and white cap, marked ' Z 50 ' in red and contain a white/almost white powder.
 
-Zonisamide Viatris 100 mg hard capsules have a white body and white cap, marked 'Z 100' in black and contain a white/almost white powder.
+Zonisamide Viatris 100 mg hard capsules (capsules) have a white body and white cap, marked ' Z 100 ' in black and contain a white/almost white powder.
 
 Zonisamide Viatris 25 mg and 50 mg are available in blister packs of 14, 28, 56 capsules and perforated unit dose blister packs of 14 x 1 capsules.
 
@@ -1475,7 +1474,9 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+
+Ireland
 
 ## Manufacturer
 
@@ -1493,11 +1494,17 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: + 359 2 44 55 400
+Тел: +
 
-Lietuva Viatris UAB Tel: + 370 5 205 1288
+359 2 44 55 400
+
+## Lietuva
+
+Viatris UAB
+
+Tel: + 370 5 205 1288
 
 ## Luxembourg/Luxemburg
 
@@ -1513,7 +1520,9 @@ Viatris CZ s.r.o. Tel: + 420 222 004 400
 
 ## Danmark
 
-Viatris ApS Tlf: + 45 28 11 69 32
+Viatris ApS
+
+Tlf: + 45 28 11 69 32
 
 ## Deutschland
 
@@ -1521,7 +1530,9 @@ Viatris Healthcare GmbH Tel: + 49 800 0700 800
 
 ## Eesti
 
-Viatris OÜ Tel: + 372 6363 052
+Viatris OÜ
+
+Tel: + 372 6363 052
 
 ## Ελλάδα
 
@@ -1533,7 +1544,9 @@ Viatris Pharmaceuticals S.L. Tel: + 34 900 102 712
 
 ## France
 
-Viatris Santé Tél: + 33 4 37 25 75 00
+Viatris Santé
+
+Tél: + 33 4 37 25 75 00
 
 ## Hrvatska
 
@@ -1551,15 +1564,11 @@ Icepharma hf. Sími: + 354 540 8000
 
 ## Italia
 
-Viatris Italia S.r.l.
-
-Tel: + 39 (0)2 612 46921
+Viatris Italia S.r.l. Tel: + 39 (0)2 612 46921
 
 ## Κύπρος
 
-CPO Pharmaceuticals Limited
-
-Τηλ: + 357 22863100
+CPO Pharmaceuticals Limited Τηλ : + 357 22863100
 
 ## Latvija
 
@@ -1567,7 +1576,7 @@ Viatris SIA Tel: + 371 676 055 80
 
 ## This leaflet was last revised in MM/YYYY
 
-## (Belgique/Belgien)
+(Belgique/Belgien)
 
 ## Magyarország
 
@@ -1585,7 +1594,9 @@ Tel: + 31 (0)20 426 3300
 
 ## Norge
 
-Viatris AS Tlf: + 47 66 75 33 00
+Viatris AS
+
+Tlf: + 47 66 75 33 00
 
 ## Österreich
 
@@ -1597,19 +1608,27 @@ Viatris Healthcare Sp. z o.o. Tel: + 48 22 546 64 00
 
 ## Portugal
 
-Mylan, Lda. Tel: + 351 214 127 200
+Mylan, Lda.
+
+Tel: + 351 214 127 200
 
 ## România
 
-BGP Products SRL Tel: + 40 372 579 000
+BGP Products SRL
+
+Tel: + 40 372 579 000
 
 ## Slovenija
 
-Viatris d.o.o. Tel: + 386 1 23 63 180
+Viatris d.o.o.
+
+Tel: + 386 1 23 63 180
 
 ## Slovenská republika
 
-Viatris Slovakia s.r.o. Tel: + 421 2 32 199 100
+Viatris Slovakia s.r.o.
+
+Tel: + 421 2 32 199 100
 
 ## Suomi/Finland
 

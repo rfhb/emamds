@@ -1,22 +1,24 @@
 ---
-document_datetime: 2026-04-16 08:35:34
+document_datetime: 2026-09-15 10:39:51
 document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/enwylma-epar-product-information_en.pdf
 document_name: enwylma-epar-product-information_en.pdf
 version: success
-processing_time: 8.8618606
-conversion_datetime: 2026-04-21 14:48:46.543872
+processing_time: 37.3648784
+conversion_datetime: 2026-09-17 20:17:16.36422
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -34,9 +36,9 @@ Each vial contains 120 mg of denosumab in 1.7 mL of solution (70 mg/mL).
 
 Denosumab is a human monoclonal IgG2 antibody produced in a mammalian cell line (Chinese hamster ovary cells) by recombinant DNA technology.
 
-## Excipient(s) with known effect
+## Excipients with known effect
 
-Each vial contains 78 mg sorbitol (E420) and 0.17 mg polysorbate 20 (E432).
+Each vial contains 78 mg of sorbitol (E420) and 0.17 mg of polysorbate 20 (E432).
 
 For the full list of excipients, see section 6.1.
 
@@ -153,11 +155,9 @@ The following risk factors should be considered when evaluating a patient's risk
 - concomitant therapies: corticosteroids, chemotherapy, angiogenesis inhibitors, radiotherapy to head and neck.
 - poor oral hygiene, periodontal disease, poorly fitting dentures, pre-existing dental disease, invasive dental procedures (e.g. tooth extractions).
 
-All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling, or non-healing of sores or discharge during treatment with denosumab. While on treatment, invasive dental procedures
+All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling, or non-healing of sores or discharge during treatment with denosumab. While on treatment, invasive dental procedures should be performed only after careful consideration and be avoided in close proximity to denosumab administration.
 
 <div style=\"page-break-after: always\"></div>
-
-should be performed only after careful consideration and be avoided in close proximity to denosumab administration.
 
 The management plan of the patients who develop ONJ should be set up in close collaboration between the treating physician and a dentist or oral surgeon with expertise in ONJ. Temporary interruption of denosumab treatment should be considered until the condition resolves and contributing risk factors are mitigated where possible.
 
@@ -183,19 +183,17 @@ Patients being treated with denosumab should not be treated concomitantly with o
 
 Patients being treated with denosumab should not be treated concomitantly with bisphosphonates.
 
-Malignancy in giant cell tumour of bone or progression to metastatic disease is an infrequent event and a known risk in patients with giant cell tumour of bone. Patients should be monitored for radiological
+Malignancy in giant cell tumour of bone or progression to metastatic disease is an infrequent event and a known risk in patients with giant cell tumour of bone. Patients should be monitored for radiological signs of malignancy, new radiolucency or osteolysis. Available clinical data does not suggest an increased risk of malignancy in giant cell tumour of bone patients treated with denosumab.
 
 <div style=\"page-break-after: always\"></div>
 
-signs of malignancy, new radiolucency or osteolysis. Available clinical data does not suggest an increased risk of malignancy in giant cell tumour of bone patients treated with denosumab.
-
 ## Excipients
 
-This medicinal product contains 0.17 mg of polysorbate 20 (E432) in each vial. Polysorbates may cause allergic reactions. In this context, patients with known allergies should be considered.
+This medicinal product contains 0.17 mg of polysorbate 20 (E432) in each vial, which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions. In this context, patients with known allergies should be considered.
 
 This medicinal product contains sorbitol (E420). The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol of sodium (23 mg) per 120 mg dose, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -219,11 +217,11 @@ It is unknown whether denosumab is excreted in human milk. A risk to the newborn
 
 No data are available on the effect of denosumab on human fertility. Animal studies do not indicate direct or indirect harmful effects with respect to fertility (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 Enwylma has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -239,19 +237,29 @@ The following convention has been used for the classification of the adverse rea
 
 Table 1. Adverse reactions reported in patients with advanced malignancies involving bone, multiple myeloma, or with giant cell tumour of bone
 
-| MedDRA system organ class                                                | Frequency category                    | Adverse reactions                                                                                                              |
-|--------------------------------------------------------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Common                                | New primary malignancy 1                                                                                                       |
-| Immune system disorders                                                  | Rare Rare                             | Drug hypersensitivity 1 Anaphylactic reaction 1                                                                                |
-| Metabolism and nutrition disorders                                       | Very common                           | Hypocalcaemia 1,2                                                                                                              |
-| Metabolism and nutrition disorders                                       | Common                                | Hypophosphataemia                                                                                                              |
-| Metabolism and nutrition disorders                                       | Uncommon                              | Hypercalcaemia following treatment discontinuation in patients with giant cell tumour of bone 3                                |
-| Respiratory, thoracic and mediastinal disorders                          | Very Common                           | Dyspnoea                                                                                                                       |
-| Gastrointestinal disorders                                               | Very Common Common                    | Diarrhoea Tooth extraction                                                                                                     |
-| Skin and subcutaneous tissue disorders                                   | Common Uncommon                       | Hyperhidrosis Lichenoid drug eruptions 1                                                                                       |
-| Musculoskeletal and connective tissue disorders                          | Very common Common Uncommon Not Known | Musculoskeletal pain 1 Osteonecrosis of the jaw 1 Atypical femoral fracture 1 Osteonecrosis of the external auditory canal 3,4 |
+| MedDRA system organ class                                                | Frequency category   | Adverse reactions                                                                               |
+|--------------------------------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------|
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Common               | New primary malignancy 1                                                                        |
+| Immune system disorders                                                  | Rare                 | Drug hypersensitivity 1                                                                         |
+| Immune system disorders                                                  | Rare                 | Anaphylactic reaction 1                                                                         |
+| Metabolism and nutrition disorders                                       | Very common          | Hypocalcaemia 1,2                                                                               |
+| Metabolism and nutrition disorders                                       | Common               | Hypophosphataemia                                                                               |
+| Metabolism and nutrition disorders                                       | Uncommon             | Hypercalcaemia following treatment discontinuation in patients with giant cell tumour of bone 3 |
+| Respiratory, thoracic and mediastinal disorders                          | Very Common          | Dyspnoea                                                                                        |
+| Gastrointestinal disorders                                               | Very Common          | Diarrhoea                                                                                       |
+| Gastrointestinal disorders                                               | Common               | Tooth extraction                                                                                |
+| Skin and subcutaneous tissue disorders                                   | Common               | Hyperhidrosis                                                                                   |
+| Skin and subcutaneous tissue disorders                                   | Uncommon             | Lichenoid drug eruptions 1                                                                      |
+| Musculoskeletal and connective tissue disorders                          | Very common          | Musculoskeletal pain 1                                                                          |
+| Musculoskeletal and connective tissue disorders                          | Common               | Osteonecrosis of the jaw 1                                                                      |
+| Musculoskeletal and connective tissue disorders                          | Uncommon             | Atypical femoral fracture 1                                                                     |
+| Musculoskeletal and connective tissue disorders                          | Not Known            | Osteonecrosis of the external auditory canal 3,4                                                |
+| General disorders and administration site conditions                     | Uncommon             | Injection site reactions 5                                                                      |
 
 <div style=\"page-break-after: always\"></div>
+
+- 4 Class effect
+- 5 Including injection site pain.
 
 ## Description of selected adverse reactions
 
@@ -305,13 +313,11 @@ In the clinical trial programme for GCTB, atypical femoral fractures have been r
 
 In the post-marketing setting, musculoskeletal pain, including severe cases, has been reported in patients receiving denosumab. In clinical trials, musculoskeletal pain was very common in both the denosumab and zoledronic acid treatment groups. Musculoskeletal pain leading to discontinuation of study treatment was uncommon.
 
-## New primary malignancy
-
-In the primary double-blind treatment phases of four phase III active-controlled clinical trials in patients with advanced malignancies involving bone, new primary malignancy was reported in 54/3691 (1.5%) of patients treated with denosumab (median exposure of 13.8 months; range: 1.0-
-
 <div style=\"page-break-after: always\"></div>
 
-51.7) and 33/3688 (0.9%) of patients treated with zoledronic acid (median exposure of 12.9 months; range: 1.0-50.8).
+## New primary malignancy
+
+In the primary double-blind treatment phases of four phase III active-controlled clinical trials in patients with advanced malignancies involving bone, new primary malignancy was reported in 54/3691 (1.5%) of patients treated with denosumab (median exposure of 13.8 months; range: 1.051.7) and 33/3688 (0.9%) of patients treated with zoledronic acid (median exposure of 12.9 months; range: 1.0-50.8).
 
 The cumulative incidence at one year was 1.1 % for denosumab and 0.6 % for zoledronic acid, respectively.
 
@@ -379,57 +385,33 @@ Denosumab reduced the risk of developing a SRE, and developing multiple SREs (fi
 
 Table 2. Efficacy results in patients with advanced malignancies involving bone
 
-|                                     | Study 1 breast cancer     | Study 1 breast cancer     | Study 2 other solid tumours** or multiple myeloma   | Study 2 other solid tumours** or multiple myeloma   | Study 3 prostate cancer   | Study 3 prostate cancer   | Combined advanced cancer   | Combined advanced cancer   |
-|-------------------------------------|---------------------------|---------------------------|-----------------------------------------------------|-----------------------------------------------------|---------------------------|---------------------------|----------------------------|----------------------------|
-|                                     | denosum ab                | zoledro nic acid          | denosum ab                                          | zoledro nic acid                                    | denosum ab                | zoledro nic acid          | denosum ab                 | zoledro nic acid           |
-| N                                   | 1,026                     | 1,020                     | 886                                                 | 890                                                 | 950                       | 951                       | 2,862                      | 2,861                      |
-| First SRE                           | First SRE                 | First SRE                 | First SRE                                           | First SRE                                           | First SRE                 | First SRE                 | First SRE                  | First SRE                  |
-| Median time (months)                | NR                        | 26.4                      | 20.6                                                | 16.3                                                | 20.7                      | 17.1                      | 27.6                       | 19.4                       |
-| Differen ce in median time (months) | NA                        | NA                        | 4.2                                                 | 4.2                                                 | 3.5                       | 3.5                       | 8.2                        | 8.2                        |
-| HR (95% CI) / RRR (%)               | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.84 (0.71, 0.98) / 16                              | 0.84 (0.71, 0.98) / 16                              | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
-| Non- inferiorit y / Superior ity p- | < 0.0001† / 0.0101†       | < 0.0001† / 0.0101†       | 0.0007† / 0.0619†                                   | 0.0007† / 0.0619†                                   | 0.0002† / 0.0085†         | 0.0002† / 0.0085†         | < 0.0001 / < 0.0001        | < 0.0001 / < 0.0001        |
-| Proporti on of patients (%)         | 30.7                      | 36.5                      | 31.4                                                | 36.3                                                | 35.9                      | 40.6                      | 32.6                       | 37.8                       |
-| First and subsequent SRE*           | First and subsequent SRE* | First and subsequent SRE* | First and subsequent SRE*                           | First and subsequent SRE*                           | First and subsequent SRE* | First and subsequent SRE* | First and subsequent SRE*  | First and subsequent SRE*  |
-| Mean number / patient               | 0.46                      | 0.60                      | 0.44                                                | 0.49                                                | 0.52                      | 0.61                      | 0.48                       | 0.57                       |
-| Rate ratio (95% CI) / RRR (%)       | 0.77 (0.66, 0.89) / 23    | 0.77 (0.66, 0.89) / 23    | 0.90 (0.77, 1.04) / 10                              | 0.90 (0.77, 1.04) / 10                              | 0.82 (0.71, 0.94) / 18    | 0.82 (0.71, 0.94) / 18    | 0.82 (0.75, 0.89) / 18     | 0.82 (0.75, 0.89) / 18     |
-| Superior ity p- value               | 0.0012†                   | 0.0012†                   | 0.1447†                                             | 0.1447†                                             | 0.0085†                   | 0.0085†                   | < 0.0001                   | < 0.0001                   |
-| SMR per Year                        | 0.45                      | 0.58                      | 0.86                                                | 1.04                                                | 0.79                      | 0.83                      | 0.69                       | 0.81                       |
+|                                            | Study 1 breast cancer - denosum ab   | Study 1 breast cancer - zoledro nic acid   | Study 2 other solid tumours** or multiple myeloma - denosum ab   | Study 2 other solid tumours** or multiple myeloma - zoledro nic acid   | Study 3 prostate cancer - denosum ab   | Study 3 prostate cancer - zoledro nic acid   | Combined advanced cancer - denosum ab   | Combined advanced cancer - zoledro nic acid   |
+|--------------------------------------------|--------------------------------------|--------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------|----------------------------------------------|-----------------------------------------|-----------------------------------------------|
+| N                                          | 1,026                                | 1,020                                      | 886                                                              | 890                                                                    | 950                                    | 951                                          | 2,862                                   | 2,861                                         |
+| First SRE                                  | First SRE                            | First SRE                                  | First SRE                                                        | First SRE                                                              | First SRE                              | First SRE                                    | First SRE                               | First SRE                                     |
+| Median time (months)                       | NR                                   | 26.4                                       | 20.6                                                             | 16.3                                                                   | 20.7                                   | 17.1                                         | 27.6                                    | 19.4                                          |
+| Differen ce in median time (months)        | NA                                   | NA                                         | 4.2                                                              | 4.2                                                                    | 3.5                                    | 3.5                                          | 8.2                                     | 8.2                                           |
+| HR (95% CI) / RRR (%)                      | 0.82 (0.71, 0.95) / 18               | 0.82 (0.71, 0.95) / 18                     | 0.84 (0.71, 0.98) / 16                                           | 0.84 (0.71, 0.98) / 16                                                 | 0.82 (0.71, 0.95) / 18                 | 0.82 (0.71, 0.95) / 18                       | 0.83 (0.76, 0.90) / 17                  | 0.83 (0.76, 0.90) / 17                        |
+| Non- inferiorit y / Superior ity p- values | < 0.0001† / 0.0101†                  | < 0.0001† / 0.0101†                        | 0.0007† / 0.0619†                                                | 0.0007† / 0.0619†                                                      | 0.0002† / 0.0085†                      | 0.0002† / 0.0085†                            | < 0.0001 / < 0.0001                     | < 0.0001 / < 0.0001                           |
+| Proporti on of patients (%)                | 30.7                                 | 36.5                                       | 31.4                                                             | 36.3                                                                   | 35.9                                   | 40.6                                         | 32.6                                    | 37.8                                          |
+| First and subsequent SRE*                  | First and subsequent SRE*            | First and subsequent SRE*                  | First and subsequent SRE*                                        | First and subsequent SRE*                                              | First and subsequent SRE*              | First and subsequent SRE*                    | First and subsequent SRE*               | First and subsequent SRE*                     |
+| Mean number / patient                      | 0.46                                 | 0.60                                       | 0.44                                                             | 0.49                                                                   | 0.52                                   | 0.61                                         | 0.48                                    | 0.57                                          |
+| Rate ratio (95% CI) / RRR (%)              | 0.77 (0.66, 0.89) / 23               | 0.77 (0.66, 0.89) / 23                     | 0.90 (0.77, 1.04) / 10                                           | 0.90 (0.77, 1.04) / 10                                                 | 0.82 (0.71, 0.94) / 18                 | 0.82 (0.71, 0.94) / 18                       | 0.82 (0.75, 0.89) / 18                  | 0.82 (0.75, 0.89) / 18                        |
+| Superior ity p- value                      | 0.0012†                              | 0.0012†                                    | 0.1447†                                                          | 0.1447†                                                                | 0.0085†                                | 0.0085†                                      | < 0.0001                                | < 0.0001                                      |
+| SMR per Year                               | 0.45                                 | 0.58                                       | 0.86                                                             | 1.04                                                                   | 0.79                                   | 0.83                                         | 0.69                                    | 0.81                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1. Kaplan-Meier plots of time to first on-study SRE
-
-Study 1*
-
-Dmab (N = 1026)
-
-ZA (N= 1020)
-
-Study 2**
-
-Dmab (N= 886)
-
-ZA (N = 890)
-
-Study 3*
-
-Dmab (N = 950)
-
-ZA (N = 951)
-
-|                         | Study 1 breast cancer   | Study 1 breast cancer   | Study 2 other solid tumours** or multiple myeloma   | Study 2 other solid tumours** or multiple myeloma   | Study 3 prostate cancer   | Study 3 prostate cancer   | Combined advanced cancer   | Combined advanced cancer   |
-|-------------------------|-------------------------|-------------------------|-----------------------------------------------------|-----------------------------------------------------|---------------------------|---------------------------|----------------------------|----------------------------|
-|                         | denosum ab              | zoledro nic acid        | denosum ab                                          | zoledro nic acid                                    | denosum ab                | zoledro nic acid          | denosum ab                 | zoledro nic acid           |
-| First SRE orHCM         | First SRE orHCM         | First SRE orHCM         | First SRE orHCM                                     | First SRE orHCM                                     | First SRE orHCM           | First SRE orHCM           | First SRE orHCM            | First SRE orHCM            |
-| Median time (months)    | NR                      | 25.2                    | 19.0                                                | 14.4                                                | 20.3                      | 17.1                      | 26.6                       | 19.4                       |
-| HR (95% CI) / RRR (%)   | 0.82 (0.70, 0.95) / 18  | 0.82 (0.70, 0.95) / 18  | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.72, 0.96) / 17    | 0.83 (0.72, 0.96) / 17    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
-| Superior ity p- value   | 0.0074                  | 0.0074                  | 0.0215                                              | 0.0215                                              | 0.0134                    | 0.0134                    | < 0.0001                   | < 0.0001                   |
-| First radiation to bone | First radiation to bone | First radiation to bone | First radiation to bone                             | First radiation to bone                             | First radiation to bone   | First radiation to bone   | First radiation to bone    | First radiation to bone    |
-| Median time (months)    | NR                      | NR                      | NR                                                  | NR                                                  | NR                        | 28.6                      | NR                         | 33.2                       |
-| HR (95% CI) / RRR (%)   | 0.74 (0.59, 0.94) / 26  | 0.74 (0.59, 0.94) / 26  | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.66, 0.94) / 22    | 0.78 (0.66, 0.94) / 22    | 0.77 (0.69, 0.87) / 23     | 0.77 (0.69, 0.87) / 23     |
-| Superior ity p- value   | 0.0121                  | 0.0121                  | 0.0256                                              | 0.0256                                              | 0.0071                    | 0.0071                    | < 0.0001                   | < 0.0001                   |
-
-0
+|                         | Study 1 breast cancer - denosum ab   | Study 1 breast cancer - zoledro nic acid   | Study 2 other solid tumours** or multiple myeloma - denosum ab   | Study 2 other solid tumours** or multiple myeloma - zoledro nic acid   | Study 3 prostate cancer - denosum ab   | Study 3 prostate cancer - zoledro nic acid   | Combined advanced cancer - denosum ab   | Combined advanced cancer - zoledro nic acid   |
+|-------------------------|--------------------------------------|--------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------|----------------------------------------------|-----------------------------------------|-----------------------------------------------|
+| First SRE or HCM        | First SRE or HCM                     | First SRE or HCM                           | First SRE or HCM                                                 | First SRE or HCM                                                       | First SRE or HCM                       | First SRE or HCM                             | First SRE or HCM                        | First SRE or HCM                              |
+| Median time (months)    | NR                                   | 25.2                                       | 19.0                                                             | 14.4                                                                   | 20.3                                   | 17.1                                         | 26.6                                    | 19.4                                          |
+| HR (95% CI) / RRR (%)   | 0.82 (0.70, 0.95) / 18               | 0.82 (0.70, 0.95) / 18                     | 0.83 (0.71, 0.97) / 17                                           | 0.83 (0.71, 0.97) / 17                                                 | 0.83 (0.72, 0.96) / 17                 | 0.83 (0.72, 0.96) / 17                       | 0.83 (0.76, 0.90) / 17                  | 0.83 (0.76, 0.90) / 17                        |
+| Superior ity p- value   | 0.0074                               | 0.0074                                     | 0.0215                                                           | 0.0215                                                                 | 0.0134                                 | 0.0134                                       | < 0.0001                                | < 0.0001                                      |
+| First radiation to bone | First radiation to bone              | First radiation to bone                    | First radiation to bone                                          | First radiation to bone                                                | First radiation to bone                | First radiation to bone                      | First radiation to bone                 | First radiation to bone                       |
+| Median time (months)    | NR                                   | NR                                         | NR                                                               | NR                                                                     | NR                                     | 28.6                                         | NR                                      | 33.2                                          |
+| HR (95% CI) / RRR (%)   | 0.74 (0.59, 0.94) / 26               | 0.74 (0.59, 0.94) / 26                     | 0.78 (0.63, 0.97) / 22                                           | 0.78 (0.63, 0.97) / 22                                                 | 0.78 (0.66, 0.94) / 22                 | 0.78 (0.66, 0.94) / 22                       | 0.77 (0.69, 0.87) / 23                  | 0.77 (0.69, 0.87) / 23                        |
+| Superior ity p- value   | 0.0121                               | 0.0121                                     | 0.0256                                                           | 0.0256                                                                 | 0.0071                                 | 0.0071                                       | < 0.0001                                | < 0.0001                                      |
 
 NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction †Adjusted p-values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpoints); *Accounts for all skeletal events over time; only events occurring ≥ 21 days after the previous event are counted.
 
@@ -446,22 +428,6 @@ ZA = Zoledronic Acid 4 mg Q4W
 N = Number of subjects randomised
 
 *= Statistically significant for superiority; **= Statistically significant for non-inferiority
-
-1.0
-
-0.8
-
-0.6
-
-0.4
-
-0.2
-
-0.0
-
-Dmab
-
-ZA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -489,21 +455,7 @@ Efficacy results from study 4 are presented in figure 2 and table 3.
 
 <div style=\"page-break-after: always\"></div>
 
-multiple myeloma
-
-- Denosumab 120 mg Q4W (N = 859)
-
-- Zoledronic Acid 4 mg Q4W (N = 859)
-
 Figure 2. Kaplan-Meier plot for time to first on-study SRE in patients with newly diagnosed multiple myeloma
-
-0.8
-
-Denosumab 120 mg Q4W 859
-
-Zoledronic Acid 4 mg Q4W 859 595 450 361 288 239 190
-
-N = number of subjects randomised
 
 <!-- image -->
 
@@ -519,7 +471,7 @@ Table 3. Efficacy results for denosumab compared to zoledronic acid in patients 
 | Mean number of events/patient       | 0.66                  | 0.66                        |
 | Rate ratio (95% CI)                 | 1.01 (0.89, 1.15)     | 1.01 (0.89, 1.15)           |
 | Skeletal morbidity rate per year    | 0.61                  | 0.62                        |
-| First SRE orHCM                     |                       |                             |
+| First SRE or HCM                    |                       |                             |
 | Median time (months)                | 22.14 (14.26, NE)     | 21.32 (13.86, 29.7)         |
 | Hazard ratio (95% CI)               | 0.98 (0.85, 1.12)     | 0.98 (0.85, 1.12)           |
 | First radiation to bone             |                       |                             |
@@ -549,11 +501,11 @@ Study 7 enrolled 85 adult patients who were previously enrolled and completed st
 
 In the final analysis cohorts 1 and 2 combined, a clinically meaningful reduction in worst pain (i.e. ≥ 2-point decrease from baseline) was reported for 30.8% of patients at risk (i.e. those who had a worst pain score of ≥ 2 at baseline) within 1 week of treatment, and ≥ 50% at week 5. These pain improvements were maintained at all subsequent evaluations.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with denosumab in all subsets of the paediatric population in the prevention of skeletal related events in patients with bone metastases and subsets of the paediatric population below the age of 12 in the treatment of giant cell tumour of bone (see section 4.2 for information on paediatric use).
-
-<div style=\"page-break-after: always\"></div>
 
 In study 6, denosumab has been evaluated in a subset of 28 adolescent patients (aged 13-17 years) with giant cell tumour of bone who had reached skeletal maturity defined by at least 1 mature long bone (e.g. closed epiphyseal growth plate of the humerus) and body weight ≥ 45 kg. One adolescent patient with surgically unsalvageable disease (N = 14) had disease recurrence during initial treatment. Thirteen of the 14 patients with surgically salvageable disease whose planned surgery was associated with severe morbidity had not undergone surgery by month 6.
 
@@ -609,11 +561,9 @@ In single and repeated dose toxicity studies in cynomolgus monkeys, denosumab do
 
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester of pregnancy, denosumab doses resulting in 9 times greater systemic exposure than the recommended human dose did not induce maternal toxicity or foetal harm during a period equivalent to the first trimester, although foetal lymph nodes were not examined.
 
-In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at systemic exposures 12-fold higher than the human dose, there were increased stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6 month period after birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of
+In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at systemic exposures 12-fold higher than the human dose, there were increased stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6 month period after birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
 
 <div style=\"page-break-after: always\"></div>
-
-maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
 
 In preclinical bone quality studies in monkeys on long-term denosumab treatment, decreases in bone turnover were associated with improvement in bone strength and normal bone histology.
 
@@ -651,11 +601,12 @@ Pack sizes: one or three vials.
 
 ## 6.6 Special precautions for disposal and other handling
 
-- Before administration, the solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
+- The carton contains a package leaflet with the full instructions for use and handling.
 - Do not shake.
+- Before administration, the solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
 - To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25 °C) before injecting and inject slowly.
-- The entire contents of the vial should be injected.
 - A 27 gauge needle is recommended for the administration of denosumab.
+- The entire contents of the vial should be injected.
 - The vial should not be re-entered.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -787,64 +738,77 @@ Keep the vial(s) in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Zentiva k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/25/1944/001
 
 EU/1/25/1944/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL full labelling text                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL full labelling text                                     |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+1.
+
+NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Enwylma 120 mg injection denosumab s.c.
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.7 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Zentiva logo
 
@@ -858,17 +822,19 @@ Zentiva logo
 
 ## Package leaflet: Information for the patient
 
-## Enwylma 120 mg solution for injection denosumab
+## Enwylma 120 mg solution for injection
+
+denosumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Enwylma.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Enwylma.
 
 ## What is in this leaflet
 
@@ -973,11 +939,11 @@ This medicine contains 78 mg of sorbitol (E420) in each vial.
 
 ## Enwylma contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 120 mg, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol of sodium (23 mg) per 120 mg, that is to say essentially 'sodium-free'.
 
 ## Enwylma contains polysorbate 20 (E432)
 
-This medicine contains 0.17 mg of polysorbate 20 (E432) in each vial which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+This medicine contains 0.17 mg of polysorbate 20 (E432) in each vial, which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use Enwylma
 
@@ -1022,7 +988,8 @@ Uncommon side effects (may affect up to 1 in 100 people):
 
 - high calcium levels in the blood (hypercalcaemia) after stopping treatment in patients with giant cell tumour of the bone,
 - new or unusual pain in your hip, groin or thigh (this may be an early indication of a possible fracture of the thigh bone),
-- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
+- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions),
+- injection site reactions including pain around the site where the injection was given.
 
 Rare side effects (may affect up to 1 in 1,000 people):
 
@@ -1044,7 +1011,9 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 C-8 C). Do not freeze. Keep the vial(s) in the outer carton in order to protect from light.
+Store in a refrigerator (2 C-8 C). Do not freeze.
+
+Keep the vial(s) in the outer carton in order to protect from light.
 
 The vial may be left outside the refrigerator to reach room temperature (up to 25 °C) before injection. This will make the injection more comfortable. Once your vial has been left to reach room temperature (up to 25 °C), it must be used within 30 days.
 
@@ -1054,8 +1023,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Enwylma contains
 
-- -The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 mL of solution (corresponding to 70 mg/mL).
-- -The other ingredients are acetic acid, glacial; sodium hydroxide; sorbitol (E420); polysorbate 20 (E432) and water for injections
+- The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 mL of solution (corresponding to 70 mg/mL).
+- The other ingredients are acetic acid, glacial; sodium hydroxide; sorbitol (E420); polysorbate 20 (E432) and water for injections
 
 ## What Enwylma looks like and contents of the pack
 
@@ -1069,21 +1038,13 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Zentiva k.s.
-
-U Kabelovny 130
-
-102 37 Prague 10
-
-Czech Republic
+Zentiva k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
 
 ## Manufacturer
 
-GH GENHELIX S.A. Parque Tecnológico de León Edifício GENHELIX C/Julia Morros, s/n Armunia, 24009 León Spain
+GH GENHELIX S.A. Parque Tecnológico de León Edifício GENHELIX C/Julia Morros, s/n Armunia, 24009 León Spain For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1095,39 +1056,69 @@ PV-Belgium@zentiva.com
 
 ## България
 
-Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
+Zentiva, k.s.
+
++35924417136
+
+Тел:
+
+PV-Bulgaria@zentiva.com
 
 ## Česká republika
 
-Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
+Zentiva, k.s.
+
+Tel: +420 267 241 111
+
+PV-Czech-Republic@zentiva.com
 
 ## Danmark
 
-Zentiva Denmark ApS Tlf.: +45 787 68 400 PV-Denmark@zentiva.com
+Zentiva Denmark ApS Tlf.: +45 787 68 400
+
+PV-Denmark@zentiva.com
 
 ## Deutschland
 
-Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010 PV-Germany@zentiva.com
+Zentiva Pharma GmbH
+
+Tel: +49 (0) 800 53 53 010
+
+PV-Germany@zentiva.com
 
 ## Eesti
 
-Zentiva, k.s. Tel: +372 52 70308 PV-Estonia@zentiva.com
+Zentiva, k.s.
+
+Tel: +372 530 107 59
+
+PV-Estonia@zentiva.com
 
 ## Ελλάδα
 
-Zentiva, k.s. Τηλ: +30 211 198 7510
+Zentiva, k.s.
+
++30 211 198 7510
+
+Τηλ:
 
 PV-Greece@zentiva.com
 
 ## España
 
-Zentiva Spain S.L.U. Tel: +34 671 365 828
+Zentiva Spain S.L.U.
+
+Tel: +34 671 365 828
 
 PV-Spain@zentiva.com
 
 ## France
 
-Zentiva France Tél: +33 (0) 800 089 219 PV-France@zentiva.com
+Zentiva France
+
+Tél: +33 (0) 800 089 219
+
+PV-France@zentiva.com
 
 ## Lietuva
 
@@ -1139,15 +1130,25 @@ PV-Lithuania@zentiva.com
 
 ## Luxembourg/Luxemburg
 
-Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
+Zentiva, k.s.
+
+Tél/Tel: +352 208 82330
+
+PV-Luxembourg@zentiva.com
 
 ## Magyarország
 
-Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
+Zentiva Pharma Kft.
+
+Tel.: +36 1 299 1058
+
+PV-Hungary@zentiva.com
 
 ## Malta
 
-Zentiva, k.s. Tel: +356 2034 1796
+Zentiva, k.s.
+
+Tel: +356 2034 1796
 
 PV-Malta@zentiva.com
 
@@ -1157,23 +1158,35 @@ Zentiva, k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
 
 ## Norge
 
-Zentiva Denmark ApS Tlf: +45 787 68 400
+Zentiva Denmark ApS
+
+Tlf: +45 787 68 400
 
 PV-Norway@zentiva.com
 
 ## Österreich
 
-Zentiva, k.s. Tel: +43 720 778 877
+Zentiva, k.s.
+
+Tel: +43 720 778 877
 
 PV-Austria@zentiva.com
 
 ## Polska
 
-Zentiva Polska Sp. z o.o. Tel: +48 22 375 92 00 PV-Poland@zentiva.com
+Zentiva Polska Sp. z o.o.
+
+Tel: +48 22 375 92 00
+
+PV-Poland@zentiva.com
 
 ## Portugal
 
-Zentiva Portugal, Lda Tel: +351210601360 PV-Portugal@zentiva.com
+Zentiva Portugal, Lda
+
+Tel: +351210601360
+
+PV-Portugal@zentiva.com
 
 ## Hrvatska
 
@@ -1183,14 +1196,6 @@ Tel: +385 1 6641 830
 
 PV-Croatia@zentiva.com
 
-## România
-
-ZENTIVA S.A.
-
-Tel: +4 021.304.7597
-
-PV-Romania@zentiva.com
-
 ## Ireland
 
 Zentiva, k.s.
@@ -1198,14 +1203,6 @@ Zentiva, k.s.
 Tel: +353 818 882 243
 
 PV-Ireland@zentiva.com
-
-## Slovenija
-
-Zentiva, k.s.
-
-Tel: +386 360 00 408
-
-PV-Slovenia@zentiva.com
 
 ## Ísland
 
@@ -1215,14 +1212,6 @@ Sími: +354 539 5025
 
 PV-Iceland@zentiva.com
 
-## Slovenská republika
-
-Zentiva, a.s.
-
-Tel: +421 2 3918 3010
-
-PV-Slovakia@zentiva.com
-
 ## Italia
 
 Zentiva Italia S.r.l.
@@ -1230,6 +1219,48 @@ Zentiva Italia S.r.l.
 Tel: +39 800081631
 
 PV-Italy@zentiva.com
+
+## Κύπρος
+
+Zentiva, k.s.
+
+211 198 7510
+
+Τηλ: +30
+
+PV-Cyprus@zentiva.com
+
+## Latvija
+
+Zentiva, k.s.
+
+Tel: +371 67893939
+
+PV-Latvia@zentiva.com
+
+## România
+
+ZENTIVA S.A.
+
+Tel: +4 021.304.7597
+
+PV-Romania@zentiva.com
+
+## Slovenija
+
+Zentiva, k.s.
+
+Tel: +386 360 00 408
+
+PV-Slovenia@zentiva.com
+
+## Slovenská republika
+
+Zentiva, a.s.
+
+Tel: +421 2 3918 3010
+
+PV-Slovakia@zentiva.com
 
 ## Suomi/Finland
 
@@ -1239,29 +1270,13 @@ Puh/Tel: +358 942 598 648
 
 PV-Finland@zentiva.com
 
-## Κύπρος
-
-Zentiva, k.s.
-
-Τηλ: +30
-
-211 198 7510
-
-PV-Cyprus@zentiva.com
-
 ## Sverige
 
-Zentiva Denmark ApS Tel: +46 840 838 822
+Zentiva Denmark ApS
+
+Tel: +46 840 838 822
 
 PV-Sweden@zentiva.com
-
-## Latvija
-
-Zentiva, k.s.
-
-Tel: +371 67893939
-
-PV-Latvia@zentiva.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1276,10 +1291,10 @@ Detailed information on this medicine is available on the European Medicines Age
 ## The following information is intended for healthcare professionals only:
 
 - Before administration, the Enwylma solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy, discoloured or if it contains many particles or foreign particulate matter.
-- Do not shake.
 - To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25 ºC) before injecting and inject slowly.
+- Do not shake.
 - The entire contents of the vial should be injected.
-- A 27 gauge needle is recommended for the administration of denosumab.
 - The vial should not be re-entered.
+- A 27 gauge needle is recommended for the administration of denosumab.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.

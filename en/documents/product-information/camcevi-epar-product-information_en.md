@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-11 15:20:39
+document_datetime: 2026-09-15 11:48:13
 document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/camcevi-epar-product-information_en.pdf
 document_name: camcevi-epar-product-information_en.pdf
 version: success
-processing_time: 17.6114046
-conversion_datetime: 2026-05-13 13:21:47.300448
+processing_time: 61.726743
+conversion_datetime: 2026-09-17 20:16:24.646825
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.128.0
+  docling-core: 2.97.0
+  docling-ibm-models: 4.0.2
+  docling-parse: 7.20.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,7 @@ CAMCEVI 21 mg prolonged-release suspension for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each pre-filled syringe with prolonged-release suspension for injection contains leuprorelin mesilate equivalent to 21 mg leuprorelin.
+Each pre-filled syringe with prolonged-release suspension for injection contains leuprorelin mesilate equivalent to 21 mg leuprorelin (in about 0.25 mL deliverable volume).
 
 For the full list of excipients, see section 6.1.
 
@@ -46,7 +46,7 @@ CAMCEVI is indicated for the treatment of hormone dependent advanced prostate ca
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 ## Adult prostate cancer patients
 
@@ -371,7 +371,11 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C).
+
+Store in the original package in order to protect from light.
+
+Once outside the refrigerator this product may be stored in its original packaging at room temperature (below 25°C) for up to eight weeks, discard if not used within eight weeks.
 
 ## 6.5 Nature and contents of container
 
@@ -390,7 +394,7 @@ Important: Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °
 - One blister containing one sterile pre-filled syringe;
 - One sterile safety needle.
 
-## Assembled pre-filled syringe:
+Assembled pre-filled syringe:
 
 <!-- image -->
 
@@ -400,14 +404,14 @@ Important: Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °
 
 <!-- image -->
 
-| Allow to reach room temperature and inspect contents  Remove CAMCEVI from refrigerator.  Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °C). This takes approximately 15 to 20 minutes.  On a flat, clean and dry surface open carton and remove the blister container and the sachet. Remove the pre-filled CAMCEVI syringe (A) from the blister container. Remove the safety needle (B) from the sachet. Examine all contents of the package. Do not use if any component is damaged.  Check the expiry date on the syringe. Do not use if the expiry date has passed.  Visually inspect the medicine prior to use. The pre-filled syringe should contain off- white to pale yellow viscous and opalescent suspension. Do not use if foreign particles are noticed inside the syringe barrel.   |
+| Allow to reach room temperature and inspect contents • Remove CAMCEVI from refrigerator. • Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °C). This takes approximately 15 to 20 minutes. • On a flat, clean and dry surface open carton and remove the blister container and the sachet. Remove the pre-filled CAMCEVI syringe (A) from the blister container. Remove the safety needle (B) from the sachet. Examine all contents of the package. Do not use if any component is damaged. • Check the expiry date on the syringe. Do not use if the expiry date has passed. • Visually inspect the medicine prior to use. The pre-filled syringe should contain off- white to pale yellow viscous and opalescent suspension. Do not use if foreign particles are noticed inside the syringe barrel.   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Step 2 - Syringe assembly:
 
 <!-- image -->
 
-| Attach the needle   |  Remove the grey cap from the syringe (A).  Attach the needle (B) to the end of the syringe (A) by pushing and turning clockwise with approximately a three- quarter turn until the needle is secure. Do not overtighten. Discard pre-filled CAMCEVI syringe if over-twist causes syringe or needle breakage.   |
+| Attach the needle   | • Remove the grey cap from the syringe (A). • Attach the needle (B) to the end of the syringe (A) by pushing and turning clockwise with approximately a three- quarter turn until the needle is secure. Do not overtighten. Discard pre-filled CAMCEVI syringe if over-twist causes syringe or needle breakage.   |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
@@ -422,10 +426,10 @@ Step 3 - Administration procedure:
 
 <!-- image -->
 
--  Choose an injection site on the upper- or mid-abdominal area with sufficient soft or loose subcutaneous tissue that has not recently been used. The injection site should be varied periodically.
--  Clean the injection site with an alcohol swab. Do NOT inject in areas with brawny or fibrous subcutaneous tissue or locations that can be rubbed or compressed (i.e., with a belt or clothing waistband).
--  Pull the needle cap from the needle (B). Grab and bunch the skin around the injection site with one hand. Insert the needle at a 90° angle, then release the bunched skin.
--  Inject the full contents of the syringe with a slow and steady push, then withdraw the needle at the same 90° angle used for insertion.
+- Choose an injection site on the upper- or mid-abdominal area with sufficient soft or loose subcutaneous tissue that has not recently been used. The injection site should be varied periodically.
+- Clean the injection site with an alcohol swab. Do NOT inject in areas with brawny or fibrous subcutaneous tissue or locations that can be rubbed or compressed (i.e., with a belt or clothing waistband).
+- Pull the needle cap from the needle (B). Grab and bunch the skin around the injection site with one hand. Insert the needle at a 90° angle, then release the bunched skin.
+- Inject the full contents of the syringe with a slow and steady push, then withdraw the needle at the same 90° angle used for insertion.
 
 Intra-arterial or intravenous injection have to be strictly avoided.
 
@@ -433,8 +437,8 @@ Step 4 - Discard needle and pre-filled syringe
 
 <!-- image -->
 
--  Immediately following the withdrawal of the needle, activate the safety shield using a finger/thumb or flat surface and push until it completely covers the needle tip and locks into place.
--  An audible and tactile 'click' verifies a locked position. Check to confirm the safety sheath is fully engaged. After use, place the used syringe with needle protected in a suitable sharps container.
+- Immediately following the withdrawal of the needle, activate the safety shield using a finger/thumb or flat surface and push until it completely covers the needle tip and locks into place.
+- An audible and tactile 'click' verifies a locked position. Check to confirm the safety sheath is fully engaged. After use, place the used syringe with needle protected in a suitable sharps container.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -464,7 +468,7 @@ CAMCEVI 42 mg prolonged-release suspension for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each pre-filled syringe with prolonged-release suspension for injection contains leuprorelin mesilate equivalent to 42 mg leuprorelin.
+Each pre-filled syringe with prolonged-release suspension for injection contains leuprorelin mesilate equivalent to 42 mg leuprorelin (in about 0.33 mL deliverable volume).
 
 For the full list of excipients, see section 6.1.
 
@@ -482,7 +486,7 @@ CAMCEVI is indicated for the treatment of hormone dependent advanced prostate ca
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 ## Adult prostate cancer patients
 
@@ -618,7 +622,8 @@ Table 1: Undesirable effects reported for leuprorelin-containing medicinal produ
 |--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | common                                           | nasopharyngitis                                                                                                         |
 | uncommon                                         | urinary tract infection, local skin infection                                                                           |
-| Blood and lymphatic system disorders common      | haematology changes, anaemia                                                                                            |
+| Blood and lymphatic system disorders             |                                                                                                                         |
+| common                                           | haematology changes, anaemia                                                                                            |
 | Metabolism and nutrition disorders               |                                                                                                                         |
 | uncommon                                         | aggravated diabetes mellitus                                                                                            |
 | Psychiatric disorders                            |                                                                                                                         |
@@ -684,11 +689,9 @@ Anaphylactic/anaphylactoid reactions have been reported rarely after GnRH agonis
 
 Decreased bone density has been reported in the medical literature in men who have had orchiectomy or who have been treated with a GnRH analogue. It can be anticipated that long periods of treatment with leuprorelin may show increasing signs of osteoporosis. Regarding the increased risk for fractures owing to osteoporosis (see section 4.4).
 
-## Exacerbation of signs and symptoms of the disease
+Exacerbation of signs and symptoms of the disease Treatment with leuprorelin can cause exacerbations of signs and symptoms of the disease during the first few weeks. If conditions such as vertebral metastases and/or urinary obstruction or haematuria are aggravated, neurological problems, such as weakness and/or paraesthesia of the lower limbs or worsening of urinary symptoms may occur.
 
 <div style=\"page-break-after: always\"></div>
-
-Treatment with leuprorelin can cause exacerbations of signs and symptoms of the disease during the first few weeks. If conditions such as vertebral metastases and/or urinary obstruction or haematuria are aggravated, neurological problems, such as weakness and/or paraesthesia of the lower limbs or worsening of urinary symptoms may occur.
 
 ## Clinical experience on local skin tolerability with CAMCEVI
 
@@ -730,17 +733,19 @@ Clinical data have shown that radiotherapy followed by 3 years of androgen depri
 
 ## Clinical experience on efficacy with CAMCEVI
 
-The multicentre, single-arm, open-label, 48-week phase 3 study of leuprorelin included 137 male patients with high-risk localised and locally advanced prostate cancer in need for androgen deprivation therapy. The efficacy of the medicinal product (two doses administered 24 weeks apart) was evaluated by the percentage of subjects with serum testosterone for testosterone level control, and the effect on serum PSA levels.
+The multicentre, single-arm, open-label, 48-week phase 3 study of leuprorelin included 137 male patients with high-risk localised and locally advanced prostate cancer in need for androgen deprivation therapy. The efficacy of the medicinal product (two doses administered 24 weeks apart) was evaluated by the percentage of subjects with serum testosterone concentrations suppressed to castrate threshold levels, the effect on serum LH levels as measure
 
-The percentage of patients with serum testosterone levels below the castrate threshold of 124 subjects; per protocol), respectively (Figure 1).
+for testosterone level control, and the effect on serum PSA levels.
 
-concentrations suppressed to castrate threshold levels, the effect on serum LH levels as measure (≤ 50 ng/dL) by day 28 was 98.5% (135 out of 137 patients; intent-to-treat) and 99.2% (123 out Dotted line indicates the castrate level (50 ng/dL) of serum testosterone.
+The percentage of patients with serum testosterone levels below the castrate threshold (≤ 50 ng/dL) by day 28 was 98.5% (135 out of 137 patients; intent-to-treat) and 99.2% (123 out of 124 subjects; per protocol), respectively (Figure 1).
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 3 : Mean serum testosterone concentration over time with CAMCEVI (n=124; per protocol population)
+Figure 1 : Mean serum testosterone concentration over time with CAMCEVI (n=124; per protocol population)
 
 <!-- image -->
+
+Dotted line indicates the castrate level (50 ng/dL) of serum testosterone.
 
 Mean serum LH levels were significantly reduced after the first injection, and this effect remained until the end of the study (decrease versus baseline by 98% [day 336]). Tumour size was not directly measured in this study, but an indirect beneficial tumour response can be presumed for leuprorelin as shown by a significant reduction in mean PSA levels over time after injection of the medicinal product (mean of 70 ng/mL at baseline decreased to a mean minimum of 2.6 ng/mL [per-protocol population] at Day 168.
 
@@ -760,7 +765,7 @@ The initial acute increase of leuprorelin concentrations after CAMCEVI are follo
 
 The pharmacokinetics/pharmacodynamics (as per serum testosterone level) profiles of leuprorelin versus serum testosterone level observed after initial injection of CAMCEVI (first dose) and at 24 weeks (second dose) is shown in Figure 2 (study FP01C-13-001; Part II).
 
-Figure 4 : Pharmacokinetic/pharmacodynamic response to CAMCEVI
+Figure 2 : Pharmacokinetic/pharmacodynamic response to CAMCEVI
 
 <!-- image -->
 
@@ -794,9 +799,7 @@ Leuprorelin was not mutagenic in a set of in-vitro and in-vivo assays.
 
 ## 6.1 List of excipients
 
-Poly(D,L-lactide)
-
-N-methylpyrrolidone
+Poly(D,L-lactide) N-methylpyrrolidone
 
 ## 6.2 Incompatibilities
 
@@ -808,7 +811,11 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C).
+
+Store in the original package in order to protect from light.
+
+Once outside the refrigerator this product may be stored in its original packaging at room temperature (below 25°C) for up to eight weeks, discard if not used within eight weeks.
 
 ## 6.5 Nature and contents of container
 
@@ -822,12 +829,12 @@ Follow the instructions as directed to ensure proper preparation of CAMCEVI prio
 
 Important: Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °C). The use of gloves is recommended during administration.
 
-## CAMCEVI contains:
+CAMCEVI contains:
 
 - One blister containing one sterile pre-filled syringe;
 - One sterile safety needle.
 
-## Assembled pre-filled syringe:
+Assembled pre-filled syringe:
 
 <!-- image -->
 
@@ -837,19 +844,19 @@ Important: Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °
 
 <!-- image -->
 
-| Allow to reach room temperature and inspect contents  Remove CAMCEVI from refrigerator.  Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °C). This takes approximately 15 to 20 minutes.  On a flat, clean and dry surface open carton and remove the blister container and the sachet. Remove the pre-filled CAMCEVI syringe (A) from the blister container. Remove the safety needle (B) from the sachet. Examine all contents of the package. Do not use if any component is damaged.  Check the expiry date on the syringe. Do not use if the expiry date has passed.  Visually inspect the medicine prior to use. The pre-filled syringe should contain off- white to pale yellow viscous and opalescent suspension. Do not use if foreign particles are noticed inside the syringe barrel.   |
+| Allow to reach room temperature and inspect contents • Remove CAMCEVI from refrigerator. • Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °C). This takes approximately 15 to 20 minutes. • On a flat, clean and dry surface open carton and remove the blister container and the sachet. Remove the pre-filled CAMCEVI syringe (A) from the blister container. Remove the safety needle (B) from the sachet. Examine all contents of the package. Do not use if any component is damaged. • Check the expiry date on the syringe. Do not use if the expiry date has passed. • Visually inspect the medicine prior to use. The pre-filled syringe should contain off- white to pale yellow viscous and opalescent suspension. Do not use if foreign particles are noticed inside the syringe barrel.   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Step 2 - Syringe assembly:
 
 <!-- image -->
 
-| Attach the needle   |  Remove the grey cap from the syringe (A).  Attach the needle (B) to the end of the syringe (A) by pushing and turning clockwise with approximately a three- quarter turn until the needle is secure. Do not overtighten. Discard pre-filled CAMCEVI syringe if over-twist causes syringe breakage.   |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Attach the needle   | • Remove the grey cap from the syringe (A). • Attach the needle (B) to the end of the syringe (A) by pushing and turning clockwise with approximately a three- quarter turn until the needle is secure. Do not overtighten. Discard pre-filled CAMCEVI syringe if over-twist causes syringe or needle breakage.   |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-## Step 3 - Administration procedure:
+Step 3 - Administration procedure:
 
 ## Prepare the injection site
 
@@ -859,10 +866,10 @@ Important: Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °
 
 <!-- image -->
 
--  Choose an injection site on the upper- or mid-abdominal area with sufficient soft or loose subcutaneous tissue that has not recently been used. The injection site should be varied periodically.
--  Clean the injection site with an alcohol swab. Do NOT inject in areas with brawny or fibrous subcutaneous tissue or locations that can be rubbed or compressed (i.e., with a belt or clothing waistband).
--  Pull the needle cap from the needle (B). Grab and bunch the skin around the injection site with one hand. Insert the needle at a 90° angle, then release the bunched skin.
--  Inject the full contents of the syringe with a slow and steady push, then withdraw the needle at the same 90° angle used for insertion.
+- Choose an injection site on the upper- or mid-abdominal area with sufficient soft or loose subcutaneous tissue that has not recently been used. The injection site should be varied periodically.
+- Clean the injection site with an alcohol swab. Do NOT inject in areas with brawny or fibrous subcutaneous tissue or locations that can be rubbed or compressed (i.e., with a belt or clothing waistband).
+- Pull the needle cap from the needle (B). Grab and bunch the skin around the injection site with one hand. Insert the needle at a 90° angle, then release the bunched skin.
+- Inject the full contents of the syringe with a slow and steady push, then withdraw the needle at the same 90° angle used for insertion.
 
 Intra-arterial or intravenous injection have to be strictly avoided.
 
@@ -870,14 +877,14 @@ Step 4 - Discard needle and pre-filled syringe
 
 <!-- image -->
 
--  Immediately following the withdrawal of the needle, activate the safety shield using a finger/thumb or flat surface and push until it completely covers the needle tip and locks into place.
--  An audible and tactile 'click' verifies a locked position. Check to confirm the safety sheath is fully engaged. After use, place the used syringe with needle protected in a suitable sharps container.
+- Immediately following the withdrawal of the needle, activate the safety shield using a finger/thumb or flat surface and push until it completely covers the needle tip and locks into place.
+- An audible and tactile 'click' verifies a locked position. Check to confirm the safety sheath is fully engaged. After use, place the used syringe with needle protected in a suitable sharps container.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est 6ª planta, 08039, Barcelona, Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6ª Planta 08039 Barcelona Spain
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -891,7 +898,7 @@ Date of first authorisation: 24 May 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -912,7 +919,9 @@ Accord Healthcare Polska Sp. z.o.o. Ul. Lutomierska 50 95-200, Pabianice Poland
 
 ## Or
 
-Accord Healthcare Single Member S.A. 64 th  Km National Road Athens, Lamia, Schimatari, 32009, Greece
+Accord Healthcare Single Member S.A. 64 th Km National Road Athens, Lamia, Schimatari, 32009,
+
+Greece
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -922,20 +931,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -991,17 +1000,27 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+Once outside the refrigerator this product may be stored in its original packaging at room temperature (below 25°C) for up to eight weeks, discard if not used within eight weeks.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona
+Accord Healthcare S.L.U.
+
+World Trade Center, Moll de Barcelona, s/n
+
+Edifici Est, 6 a Planta
+
+08039 Barcelona
 
 Spain
 
@@ -1013,11 +1032,11 @@ EU/1/22/1647/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Camcevi 21 mg
 
@@ -1031,23 +1050,21 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| SYRINGE BLISTER                                      |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| SYRINGE BLISTER                                       |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 CAMCEVI 21 mg prolonged-release suspension for injection leuprorelin SC
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord
 
@@ -1066,15 +1083,15 @@ Lot CAMCEVI 21 mg prolonged-release suspension for injection leuprorelin SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| SYRINGE LABEL                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABEL                                                      |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Subcutaneous use
 
@@ -1088,8 +1105,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -1138,17 +1155,29 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
 Store in the original package in order to protect from light.
 
+Once outside the refrigerator this product may be stored in its original packaging at room temperature (below 25°C) for up to eight weeks, discard if not used within eight weeks.
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est 6ª planta, 08039, Barcelona, Spain
+Accord Healthcare S.L.U.
+
+World Trade Center, Moll de Barcelona, s/n
+
+Edifici Est, 6ª Planta
+
+08039 Barcelona
+
+Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1164,7 +1193,7 @@ Lot
 
 ## 16. INFORMATION IN BRAILLE
 
-Camcevi
+Camcevi 42 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -1180,23 +1209,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| SYRINGE BLISTER                                       |
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| SYRINGE BLISTER                                      |
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+CAMCEVI 42 mg prolonged-release suspension for injection leuprorelin SC
 
-CAMCEVI 42 mg prolonged-release suspension for injection leuprorelin
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-SC
-
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
-
-accord
+Accord
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1213,15 +1238,15 @@ Lot CAMCEVI 42 mg prolonged-release suspension for injection leuprorelin SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| SYRINGE LABEL                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABEL                                                      |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Subcutaneous use
 
@@ -1235,8 +1260,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -1253,9 +1278,9 @@ Lot
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1272,34 +1297,34 @@ The active substance of CAMCEVI is leuprorelin which is a GnRH-agonist (a synthe
 
 Prostate cancer is sensitive to hormones such as testosterone, and reducing testosterone levels helps control the growth of the cancer.
 
-## CAMCEVI is used to treat adult men who have:
+CAMCEVI is used to treat adult men who have:
 
-- -hormone dependent metastatic prostate cancer and
-- -high-risk non-metastatic hormone dependent prostate cancer in combination with radiotherapy.
+- hormone dependent metastatic prostate cancer and
+- high-risk non-metastatic hormone dependent prostate cancer in combination with radiotherapy.
 
 ## 2. What you need to know before you are given CAMCEVI
 
 ## DO NOT use CAMCEVI:
 
-- -if you are a woman or a child under the age of 18 ;
-- -if you are allergic to leuprorelin, or to similar medicines that affect your sex hormones (GnRH agonists); your doctor will help you identify these, if necessary,
-- -if you are allergic to any of the other ingredients of this medicine (listed in section 6);
-- -following surgical removal of your testicles . This medicine cannot further help to lower your testosterone levels once you have no testicles;
-- -as the only treatment if you suffer from symptoms related to pressure on the spinal cord or a tumour in the spinal column. In this case, CAMCEVI may only be used in combination with other medicines for prostate cancer.
+- if you are a woman or a child under the age of 18 ;
+- if you are allergic to leuprorelin, or to similar medicines that affect your sex hormones (GnRH agonists); your doctor will help you identify these, if necessary,
+- if you are allergic to any of the other ingredients of this medicine (listed in section 6);
+- following surgical removal of your testicles . This medicine cannot further help to lower your testosterone levels once you have no testicles;
+- as the only treatment if you suffer from symptoms related to pressure on the spinal cord or a tumour in the spinal column. In this case, CAMCEVI may only be used in combination with other medicines for prostate cancer.
 
 ## Warnings and precautions
 
 ## Seek urgent medical attention if you develop:
 
-- -sudden headache;
-- -vomiting;
-- -loss of, or double vision;
-- -loss of the ability to move the muscles in, or around, your eye;
+- sudden headache;
+- vomiting;
+- loss of, or double vision;
+- loss of the ability to move the muscles in, or around, your eye;
 
 <div style=\"page-break-after: always\"></div>
 
-- -altered mental state;
-- -early symptoms of heart failure including
+- altered mental state;
+- early symptoms of heart failure including
 - o fatigue;
 - o swelling in your ankles;
 - o increased need to urinate at night;
@@ -1311,29 +1336,29 @@ Severe skin rashes including Stevens-Johnson syndrome, Toxic Epidermal Necrolysi
 
 Talk to your doctor, pharmacist or nurse before using CAMCEVI if you
 
-- -develop cardiovascular signs and symptoms such as fast chaotic heartbeats. These rapid heartbeats might cause you to faint or have fits (seizures);
-- -have heart or blood vessel conditions, including heart rhythm problems (arrhythmia), or are taking medicines for these conditions. The risk of these heart rhythm problems may get worse when using CAMCEVI. Your doctor may monitor your heart using an electrocardiogram (ECG);
-- -have prostate cancer which has spread into your spine or brain. Your doctor will monitor you more closely during first few weeks of treatment;
-- -suffer from diabetes mellitus (high blood sugar levels). CAMCEVI can make existing diabetes worse and therefore people with diabetes need more frequent testing of blood glucose levels.
-- -have a fatty liver disease (a condition where excess fat builds up in the liver).
+- develop cardiovascular signs and symptoms such as fast chaotic heartbeats. These rapid heartbeats might cause you to faint or have fits (seizures);
+- have heart or blood vessel conditions, including heart rhythm problems (arrhythmia), or are taking medicines for these conditions. The risk of these heart rhythm problems may get worse when using CAMCEVI. Your doctor may monitor your heart using an electrocardiogram (ECG);
+- have prostate cancer which has spread into your spine or brain. Your doctor will monitor you more closely during first few weeks of treatment;
+- suffer from diabetes mellitus (high blood sugar levels). CAMCEVI can make existing diabetes worse and therefore people with diabetes need more frequent testing of blood glucose levels.
+- have a fatty liver disease (a condition where excess fat builds up in the liver).
 
 Talk to your doctor, pharmacist or nurse during treatment with CAMCEVI if you
 
-- -experience a heart attack. Symptoms include chest pain, shortness of breath, dizziness and sweating;
-- -suffer from a stroke. Symptoms include your face dropping on one side, not being able to lift your arms and slurred speech;
-- -develop a bone fracture. Treatment with CAMCEVI can increase the risk for fractures due to osteoporosis (decrease in bone density);
-- -have a fit (convulsions);
-- -notice your blood sugar levels go up. Your doctor will monitor your blood glucose levels during treatment;
-- -have difficulty urinating. There could be a blockage in your urinary tube. Your doctor will closely monitor you during the first weeks of treatment;
-- -develop symptoms of spinal compression such as pain, numbness, or weakness in the arms, hands, legs, or feet. Your doctor will closely monitor you during your first few weeks of treatment.
+- experience a heart attack. Symptoms include chest pain, shortness of breath, dizziness and sweating;
+- suffer from a stroke. Symptoms include your face dropping on one side, not being able to lift your arms and slurred speech;
+- develop a bone fracture. Treatment with CAMCEVI can increase the risk for fractures due to osteoporosis (decrease in bone density);
+- have a fit (convulsions);
+- notice your blood sugar levels go up. Your doctor will monitor your blood glucose levels during treatment;
+- have difficulty urinating. There could be a blockage in your urinary tube. Your doctor will closely monitor you during the first weeks of treatment;
+- develop symptoms of spinal compression such as pain, numbness, or weakness in the arms, hands, legs, or feet. Your doctor will closely monitor you during your first few weeks of treatment.
 
 ## Problems you may experience during the first weeks of treatment
 
 During the first weeks of treatment, there is generally a brief increase in the male sex hormone testosterone in the blood. This can lead to a temporary worsening in disease-related symptoms and also to new symptoms that you may not have experienced before. These especially include:
 
-- -bone pain;
-- -problems with urinating, pain, numbness, or weakness in the arms, hands, legs, or feet, or loss of bladder or bowel control as a result of spinal compression;
-- -blood in your urine.
+- bone pain;
+- problems with urinating, pain, numbness, or weakness in the arms, hands, legs, or feet, or loss of bladder or bowel control as a result of spinal compression;
+- blood in your urine.
 
 These symptoms usually lessen with ongoing treatment. If not, you should contact your doctor.
 
@@ -1397,12 +1422,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Seek urgent medical attention if you develop:
 
-- -sudden headache;
-- -vomiting;
-- -loss of, or double vision;
-- -loss of the ability to move the muscles in, or around, your eye;
-- -altered mental state;
-- -early symptoms of heart failure including
+- sudden headache;
+- vomiting;
+- loss of, or double vision;
+- loss of the ability to move the muscles in, or around, your eye;
+- altered mental state;
+- early symptoms of heart failure including
 - o fatigue;
 - o swelling in your ankles;
 - o increased need to urinate at night;
@@ -1412,17 +1437,17 @@ These may be signs of a condition called pituitary apoplexy, involving bleeding 
 
 Not known (frequency cannot be estimated from available data):
 
-- -reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu- like symptoms (Stevens-Johnson syndrome/Toxic Epidermal Necrolysis).
-- -skin redness and itchy rash (Toxic skin eruption).
-- -a skin reaction that causes red spots or patches on the skin, that may look like a target or \"bullseye\" with a dark red centre surrounded by paler red rings (Erythema Multiforme).
+- reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu- like symptoms (Stevens-Johnson syndrome/Toxic Epidermal Necrolysis).
+- skin redness and itchy rash (Toxic skin eruption).
+- a skin reaction that causes red spots or patches on the skin, that may look like a target or \"bullseye\" with a dark red centre surrounded by paler red rings (Erythema Multiforme).
 
 ## Initial side effects
 
 During the first week of treatment, there is generally a brief increase in the male sex hormone testosterone in the blood. This can lead to a temporary worsening in the disease-related symptoms and also to new symptoms that you may not have experienced before. These especially include:
 
-- -bone pain;
-- -problems with urinating, pain, numbness, or weakness in the arms, hands, legs, or feet, or loss of bladder or bowel control, which may be symptoms of spinal compression;
-- -blood in your urine.
+- bone pain;
+- problems with urinating, pain, numbness, or weakness in the arms, hands, legs, or feet, or loss of bladder or bowel control, which may be symptoms of spinal compression;
+- blood in your urine.
 
 Your doctor may give you another medicine at the beginning of the treatment to reduce some of these initial side effects (See also section 2 Problems you may experience during first weeks of treatment).
 
@@ -1430,89 +1455,89 @@ Your doctor may give you another medicine at the beginning of the treatment to r
 
 You may experience the following side effects around the injection site, after your injection:
 
-- -mild burning and numbness immediately after the injection (very common: may affect more than 1 in 10 people);
-- -pain, bruising and stinging after the injection (common: may affect up to 1 in 10 people);
-- -itchiness and hardening of skin around injection site (uncommon: may affect up to 1 in 100 people);
-- -damage or sore on the skin at injection site (rare: may affect up to 1 in 1 000 people);
+- mild burning and numbness immediately after the injection (very common: may affect more than 1 in 10 people);
+- pain, bruising and stinging after the injection (common: may affect up to 1 in 10 people);
+- itchiness and hardening of skin around injection site (uncommon: may affect up to 1 in 100 people);
+- damage or sore on the skin at injection site (rare: may affect up to 1 in 1 000 people);
 
 <div style=\"page-break-after: always\"></div>
 
-- -dead tissue at injection site (very rare, may affect up to 1 in 10 000 people).
+- dead tissue at injection site (very rare, may affect up to 1 in 10 000 people).
 
 These side effects are mild and do not last very long. They only occur at the time of your injection. If you get any of these side effects, talk to your doctor.
 
 ## Very common side effects (may affect more than 1 in 10 people)
 
-- -hot flashes;
-- -bruising and/or redness of the skin;
-- -tiredness.
+- hot flashes;
+- bruising and/or redness of the skin;
+- tiredness.
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-- -symptoms of common cold (nasopharyngitis);
-- -feeling sick (nausea), diarrhoea, inflammation of the stomach and intestines (gastroenteritis/colitis);
-- -itching;
-- -night sweats;
-- -joint pain, pain in arms and legs, muscle aches and pains;
-- -needing to urinate more than normal, including during the night, difficulty in urinating, pain when urinating, not urinating enough or needing to urinate less frequently;
-- -tenderness and/or swelling of the breast, shrinking of testicles, pain in testicles, infertility, erectile dysfunction, reduced penis size;
-- -episodes of exaggerated shaking with high fever (rigors), weakness, generally feeling unwell (malaise);
-- -changes in blood laboratory results (prolonged bleeding time, changes in blood values, decreased red blood cells/low red blood cell count).
+- symptoms of common cold (nasopharyngitis);
+- feeling sick (nausea), diarrhoea, inflammation of the stomach and intestines (gastroenteritis/colitis);
+- itching;
+- night sweats;
+- joint pain, pain in arms and legs, muscle aches and pains;
+- needing to urinate more than normal, including during the night, difficulty in urinating, pain when urinating, not urinating enough or needing to urinate less frequently;
+- tenderness and/or swelling of the breast, shrinking of testicles, pain in testicles, infertility, erectile dysfunction, reduced penis size;
+- episodes of exaggerated shaking with high fever (rigors), weakness, generally feeling unwell (malaise);
+- changes in blood laboratory results (prolonged bleeding time, changes in blood values, decreased red blood cells/low red blood cell count).
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
-- -urinary tract infection (UTI), local skin infection;
-- -worsening of diabetes mellitus;
-- -abnormal dreams, depression, decreased libido (sexual desire);
-- -dizziness, headache, partial or total loss of sensation in a part of your body, insomnia, abnormal change in taste and/or smell;
-- -light-headedness and loss of balance (vertigo);
-- -changes in electrocardiogram (ECG) (QT prolongation;
-- -heart attack. Symptoms include chest pain, shortness of breath, dizziness and sweating;
-- -high or low blood pressure;
-- -runny nose shortness of breath;
-- -constipation, dry mouth, disturbed digestion, with symptoms as full stomach, pain in the stomach, belching, nausea, vomiting, burning feeling in the stomach (dyspepsia), being sick (vomiting);
-- -feeling clammy and sweaty;
-- -back pain, muscle cramps;
-- -bladder spasms, blood in urine, over-active bladder (need to urinate before your bladder is full), unable to urinate;
-- -enlarged breasts, impotence, problems with testicles (e.g., swollen, red or warm scrotum, pain or discomfort in pelvic area;
-- -sleepiness (lethargy), pain, fever;
-- -changes in blood laboratory tests weight gain.
+- urinary tract infection (UTI), local skin infection;
+- worsening of diabetes mellitus;
+- abnormal dreams, depression, decreased libido (sexual desire);
+- dizziness, headache, partial or total loss of sensation in a part of your body, insomnia, abnormal change in taste and/or smell;
+- light-headedness and loss of balance (vertigo);
+- changes in electrocardiogram (ECG) (QT prolongation);
+- heart attack. Symptoms include chest pain, shortness of breath, dizziness and sweating;
+- high or low blood pressure;
+- runny nose shortness of breath;
+- constipation, dry mouth, disturbed digestion, with symptoms as full stomach, pain in the stomach, belching, nausea, vomiting, burning feeling in the stomach (dyspepsia), being sick (vomiting);
+- feeling clammy and sweaty;
+- back pain, muscle cramps;
+- bladder spasms, blood in urine, over-active bladder (need to urinate before your bladder is full), unable to urinate;
+- enlarged breasts, impotence, problems with testicles (e.g., swollen, red or warm scrotum, pain or discomfort in pelvic area);
+- sleepiness (lethargy), pain, fever;
+- changes in blood laboratory tests weight gain.
 
 ## Rare side effects (may affect up to 1 in 1 000 people)
 
-- -body moves in an uncontrollable and unintended way;
-- -fainting, collapsing;
-- -passing wind and burping;
-- -hair loss, pimples on skin;
-- -breast pain.
+- body moves in an uncontrollable and unintended way;
+- fainting, collapsing;
+- passing wind and burping;
+- hair loss, pimples on skin;
+- breast pain.
 
 <div style=\"page-break-after: always\"></div>
 
 Not known (frequency cannot be estimated from the available data)
 
-- -inflammation of lungs (interstitial lung disease);
-- -idiopathic intracranial hypertension (increased intracranial pressure around the brain characterised by headache, double vision and other visual symptoms and ringing or buzzing in one or both ears).
+- inflammation of lungs (interstitial lung disease);
+- idiopathic intracranial hypertension (increased intracranial pressure around the brain characterised by headache, double vision and other visual symptoms and ringing or buzzing in one or both ears).
 
 ## The following serious allergic reactions have been reported with medicines in the same group of medicines as CAMCEVI
 
-- -difficulty in breathing or dizziness (rarely).
+- difficulty in breathing or dizziness (rarely).
 
 ## The following side effects have been reported with other medicines containing leuprorelin
 
-- -swelling of hands and feet (oedema);
-- -symptoms of a pulmonary embolism (a blood clot in the vessels supplying the lungs), including chest pain, breathlessness, difficulty breathing and coughing up blood;
-- -a noticeably rapid, strong, or irregular heartbeat;
-- -weak muscles;
-- -chills;
-- -rash;
-- -impaired memory;
-- -impaired vision;
-- -muscle wasting/loss of muscle tissue after prolonged use;
-- -medical condition in which the bones become brittle and fragile called osteoporosis, and therefore there is a higher risk of bone fractures.
+- swelling of hands and feet (oedema);
+- symptoms of a pulmonary embolism (a blood clot in the vessels supplying the lungs), including chest pain, breathlessness, difficulty breathing and coughing up blood;
+- a noticeably rapid, strong, or irregular heartbeat;
+- weak muscles;
+- chills;
+- rash;
+- impaired memory;
+- impaired vision;
+- muscle wasting/loss of muscle tissue after prolonged use;
+- medical condition in which the bones become brittle and fragile called osteoporosis, and therefore there is a higher risk of bone fractures.
 
 ## The following side effect has been reported with medicines in the same group of medicines as CAMCEVI
 
-- -seizures.
+- seizures.
 
 ## Reporting of side effects
 
@@ -1530,6 +1555,8 @@ Store in the original package in order to protect from light.
 
 Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °C). This takes approximately 15 to 20 minutes.
 
+Once outside the refrigerator this product may be stored in its original packaging at room temperature (below 25°C) for up to eight weeks, discard if not used within eight weeks.
+
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
@@ -1538,8 +1565,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What CAMCEVI 21 mg contains
 
-- -The active substance is leuprorelin. One pre-filled syringe with prolonged-release suspension for injection contains leuprorelin mesilate equivalent to 21 mg leuprorelin.
-- -The other ingredients are Poly(D,L-lactide-co-glycolide) and N-methylpyrrolidone.
+- The active substance is leuprorelin. One pre-filled syringe with prolonged-release suspension for injection contains leuprorelin mesilate equivalent to 21 mg leuprorelin.
+- The other ingredients are Poly(D,L-lactide-co-glycolide) and N-methylpyrrolidone.
 
 ## What CAMCEVI looks like and contents of the pack
 
@@ -1549,17 +1576,17 @@ CAMCEVI is available in a pack containing: 1 pre-filled syringe and 1 sterile sa
 
 ## Marketing Authorisation Holder
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona
+
+Spain
 
 ## Manufacturer
 
-Accord Healthcare Polska Sp. z.o.o.
+Accord Healthcare Polska Sp. z.o.o. Ul. Lutomierska 50 95-200, Pabianice Poland
 
-Ul. Lutomierska 50 95-200, Pabianice Poland
+## Or
 
-Or
-
-Accord Healthcare Single Member S.A. 64 th  Km National Road Athens, Lamia, Schimatari, 32009,
+Accord Healthcare Single Member S.A. 64 th Km National Road Athens, Lamia, Schimatari, 32009,
 
 Greece
 
@@ -1567,7 +1594,9 @@ For any information about this medicine, please contact the local representative
 
 AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
 
-Accord Healthcare S.L.U. Tel: +34 93 301 00 64
+Accord Healthcare S.L.U.
+
+Tel: +34 93 301 00 64
 
 EL
 
@@ -1594,25 +1623,26 @@ Important: Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °
 - One blister containing one sterile pre-filled syringe;
 - One sterile safety needle.
 
-## Assembled pre-filled syringe:
-
-<!-- image -->
+Assembled pre-filled syringe:
 
 Step 1 - Prepare the medicinal product:
 
 <!-- image -->
 
-| Allow to reach room temperature and inspect contents  Remove CAMCEVI from refrigerator.  Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °C). This takes approximately 15 to 20 minutes.  On a flat, clean and dry surface open carton and remove the blister container and the sachet. Remove the pre-filled CAMCEVI syringe (A) from the blister container. Remove the safety needle (B) from the sachet. Examine all contents of the package. Do not use if any component is damaged.  Check the expiry date on the syringe. Do not use if the expiry date has passed.  Visually inspect the medicine prior to use. The pre-filled syringe should contain off-white to pale yellow viscous and opalescent suspension. Do not use if foreign particle is noticed inside the syringe barrel.   |
+<!-- image -->
+
+| Allow to reach room temperature and inspect contents • Remove CAMCEVI from refrigerator. • Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °C). This takes approximately 15 to 20 minutes. • On a flat, clean and dry surface open carton and remove the blister container and the sachet. Remove the pre-filled CAMCEVI syringe (A) from the blister container. Remove the safety needle (B) from the sachet. Examine all contents of the package. Do not use if any component is damaged. • Check the expiry date on the syringe. Do not use if the expiry date has passed. • Visually inspect the medicine prior to use. The pre-filled syringe should contain off-white to pale yellow viscous and opalescent suspension. Do not use if foreign particle is noticed inside the syringe barrel.   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## Step 2 - Syringe assembly:
 
-<!-- image -->
+## Attach the needle
 
-| Attach the needle   |  Remove the grey cap from the syringe (A).  Attach the needle (B) to the end of the syringe (A) by pushing and turning clockwise with approximately a three- quarter turn until the needle is secure. Do not overtighten. Discard pre-filled CAMCEVI syringe if over-twist causes syringe or needle breakage.   |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+- Remove the grey cap from the syringe (A).
+
+<!-- image -->
 
 ## Step 3 - Administration procedure:
 
@@ -1624,10 +1654,11 @@ Step 1 - Prepare the medicinal product:
 
 <!-- image -->
 
--  Choose an injection site on the upper- or mid-abdominal area with sufficient soft or loose subcutaneous tissue that has not recently been used. The injection site should be varied periodically.
--  Clean the injection site with an alcohol swab. Do NOT inject in areas with brawny or fibrous subcutaneous tissue or locations that can be rubbed or compressed (i.e., with a belt or clothing waistband).
--  Pull the needle cap from the needle (B). Grab and bunch the skin around the injection site with one hand. Insert the needle at a 90° angle, then release the bunched skin.
--  Inject the full contents of the syringe with a slow and steady push, then withdraw the needle at the same 90° angle used for insertion.
+- Attach the needle (B) to the end of the syringe (A) by pushing and turning clockwise with approximately a threequarter turn until the needle is secure. Do not overtighten. Discard pre-filled CAMCEVI syringe if over-twist causes syringe or needle breakage.
+- Choose an injection site on the upper- or mid-abdominal area with sufficient soft or loose subcutaneous tissue that has not recently been used. The injection site should be varied periodically.
+- Clean the injection site with an alcohol swab. Do NOT inject in areas with brawny or fibrous subcutaneous tissue or locations that can be rubbed or compressed (i.e., with a belt or clothing waistband).
+- Pull the needle cap from the needle (B). Grab and bunch the skin around the injection site with one hand. Insert the needle at a 90° angle, then release the bunched skin.
+- Inject the full contents of the syringe with a slow and steady push, then withdraw the needle at the same 90° angle used for insertion.
 
 Intra-arterial or intravenous injection have to be strictly avoided.
 
@@ -1637,8 +1668,8 @@ Intra-arterial or intravenous injection have to be strictly avoided.
 
 <!-- image -->
 
--  Immediately following the withdrawal of the needle, activate the safety shield using a finger/thumb or flat surface and push until it completely covers the needle tip and locks into place.
--  An audible and tactile 'click' verifies a locked position. Check to confirm the safety sheath is fully engaged. After use, place the used syringe with needle protected in a suitable sharps container.
+- Immediately following the withdrawal of the needle, activate the safety shield using a finger/thumb or flat surface and push until it completely covers the needle tip and locks into place.
+- An audible and tactile 'click' verifies a locked position. Check to confirm the safety sheath is fully engaged. After use, place the used syringe with needle protected in a suitable sharps container.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -1650,9 +1681,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1671,32 +1702,32 @@ Prostate cancer is sensitive to hormones such as testosterone, and reducing test
 
 ## CAMCEVI is used to treat adult men who have:
 
-- -hormone dependent metastatic prostate cancer and
-- -high-risk non-metastatic hormone dependent prostate cancer in combination with radiotherapy.
+- hormone dependent metastatic prostate cancer and
+- high-risk non-metastatic hormone dependent prostate cancer in combination with radiotherapy.
 
 ## 2. What you need to know before you are given CAMCEVI
 
 ## DO NOT use CAMCEVI:
 
-- -if you are a woman or a child under the age of 18 ;
-- -if you are allergic to leuprorelin, or to similar medicines that affect your sex hormones (GnRH agonists); your doctor will help you identify these if necessary,
-- -if you are allergic to any of the other ingredients of this medicine (listed in section 6);
-- -following surgical removal of your testicles . This medicine cannot further help to lower your testosterone levels once you have no testicles;
-- -as the only treatment if you suffer from symptoms related to pressure on the spinal cord or a tumour in the spinal column. In this case, CAMCEVI may only be used in combination with other medicines for prostate cancer.
+- if you are a woman or a child under the age of 18 ;
+- if you are allergic to leuprorelin, or to similar medicines that affect your sex hormones (GnRH agonists); your doctor will help you identify these if necessary,
+- if you are allergic to any of the other ingredients of this medicine (listed in section 6);
+- following surgical removal of your testicles . This medicine cannot further help to lower your testosterone levels once you have no testicles;
+- as the only treatment if you suffer from symptoms related to pressure on the spinal cord or a tumour in the spinal column. In this case, CAMCEVI may only be used in combination with other medicines for prostate cancer.
 
 ## Warnings and precautions
 
 ## Seek urgent medical attention if you develop:
 
-- -sudden headache;
-- -vomiting;
-- -loss of, or double vision;
-- -loss of the ability to move the muscles in, or around, your eye;
+- sudden headache;
+- vomiting;
+- loss of, or double vision;
+- loss of the ability to move the muscles in, or around, your eye;
 
 <div style=\"page-break-after: always\"></div>
 
-- -altered mental state;
-- -early symptoms of heart failure including
+- altered mental state;
+- early symptoms of heart failure including
 - o fatigue;
 - o swelling in your ankles;
 - o increased need to urinate at night;
@@ -1706,31 +1737,31 @@ These may be signs of a condition called pituitary apoplexy, involving bleeding 
 
 Severe skin rashes including Stevens-Johnson syndrome, Toxic Epidermal Necrolysis (SJS/TEN) have been reported in association with leuprorelin. Stop using leuprorelin and seek medical attention immediately if you notice any of the symptoms related to these serious skin reactions described in section 4.
 
-## Talk to your doctor, pharmacist or nurse before using CAMCEVI if you
+Talk to your doctor, pharmacist or nurse before using CAMCEVI if you
 
-- -develop cardiovascular signs and symptoms such as fast chaotic heartbeats. These rapid heartbeats might cause you to faint or have fits (seizures);
-- -have heart or blood vessel conditions, including heart rhythm problems (arrhythmia), or are taking medicines for these conditions. The risk of these heart rhythm problems may get worse when using CAMCEVI. Your doctor may monitor your heart using an electrocardiogram (ECG);
-- -have prostate cancer which has spread into your spine or brain. Your doctor will monitor you more closely during first few weeks of treatment;
-- -suffer from diabetes mellitus (high blood sugar levels). CAMCEVI can make existing diabetes worse and therefore people with diabetes need more frequent testing of blood glucose levels;
-- -have a fatty liver disease (a condition where excess fat builds up in the liver).
+- develop cardiovascular signs and symptoms such as fast chaotic heartbeats. These rapid heartbeats might cause you to faint or have fits (seizures);
+- have heart or blood vessel conditions, including heart rhythm problems (arrhythmia), or are taking medicines for these conditions. The risk of these heart rhythm problems may get worse when using CAMCEVI. Your doctor may monitor your heart using an electrocardiogram (ECG);
+- have prostate cancer which has spread into your spine or brain. Your doctor will monitor you more closely during first few weeks of treatment;
+- suffer from diabetes mellitus (high blood sugar levels). CAMCEVI can make existing diabetes worse and therefore people with diabetes need more frequent testing of blood glucose levels;
+- have a fatty liver disease (a condition where excess fat builds up in the liver).
 
 Talk to your doctor, pharmacist or nurse during treatment with CAMCEVI if you
 
-- -experience a heart attack. Symptoms include chest pain, shortness of breath, dizziness and sweating;
-- -suffer from a stroke. Symptoms include your face dropping on one side, not being able to lift your arms and slurred speech;
-- -develop a bone fracture. Treatment with CAMCEVI can increase the risk for fractures due to osteoporosis (decrease in bone density);
-- -have a fit (convulsions);
-- -notice your blood sugar levels go up. Your doctor will monitor your blood glucose levels during treatment;
-- -have difficulty urinating. There could be a blockage in your urinary tube. Your doctor will closely monitor you during the first weeks of treatment;
-- -develop symptoms of spinal compression such as pain, numbness, or weakness in the arms, hands, legs, or feet. Your doctor will closely monitor you during your first few weeks of treatment.
+- experience a heart attack. Symptoms include chest pain, shortness of breath, dizziness and sweating;
+- suffer from a stroke. Symptoms include your face dropping on one side, not being able to lift your arms and slurred speech;
+- develop a bone fracture. Treatment with CAMCEVI can increase the risk for fractures due to osteoporosis (decrease in bone density);
+- have a fit (convulsions);
+- notice your blood sugar levels go up. Your doctor will monitor your blood glucose levels during treatment;
+- have difficulty urinating. There could be a blockage in your urinary tube. Your doctor will closely monitor you during the first weeks of treatment;
+- develop symptoms of spinal compression such as pain, numbness, or weakness in the arms, hands, legs, or feet. Your doctor will closely monitor you during your first few weeks of treatment.
 
 ## Problems you may experience during the first weeks of treatment
 
 During the first weeks of treatment, there is generally a brief increase in the male sex hormone testosterone in the blood. This can lead to a temporary worsening in disease-related symptoms and also to new symptoms that you may not have experienced before. These especially include:
 
-- -bone pain;
-- -problems with urinating, pain, numbness, or weakness in the arms, hands, legs, or feet, or loss of bladder or bowel control as a result of spinal compression;
-- -blood in your urine.
+- bone pain;
+- problems with urinating, pain, numbness, or weakness in the arms, hands, legs, or feet, or loss of bladder or bowel control as a result of spinal compression;
+- blood in your urine.
 
 These symptoms usually lessen with ongoing treatment. If not, you should contact your doctor.
 
@@ -1792,14 +1823,14 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Seek urgent medical attention if you develop:
+## Seek urgent medical attention if you develop:
 
-- -sudden headache;
-- -vomiting;
-- -loss of, or double vision;
-- -loss of the ability to move the muscles in, or around, your eye;
-- -altered mental state;
-- -early symptoms of heart failure including
+- sudden headache;
+- vomiting;
+- loss of, or double vision;
+- loss of the ability to move the muscles in, or around, your eye;
+- altered mental state;
+- early symptoms of heart failure including
 - o fatigue;
 - o swelling in your ankles;
 - o increased need to urinate at night;
@@ -1809,17 +1840,17 @@ These may be signs of a condition called pituitary apoplexy, involving bleeding 
 
 Not known (frequency cannot be estimated from available data):
 
-- -reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu- like symptoms (Stevens-Johnson syndrome/Toxic Epidermal Necrolysis).
-- -skin redness and itchy rash (Toxic skin eruption).
-- -a skin reaction that causes red spots or patches on the skin, that may look like a target or \"bullseye\" with a dark red centre surrounded by paler red rings (Erythema Multiforme).
+- reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu- like symptoms (Stevens-Johnson syndrome/Toxic Epidermal Necrolysis).
+- skin redness and itchy rash (Toxic skin eruption).
+- a skin reaction that causes red spots or patches on the skin, that may look like a target or \"bullseye\" with a dark red centre surrounded by paler red rings (Erythema Multiforme).
 
 ## Initial side effects
 
 During the first week of treatment, there is generally a brief increase in the male sex hormone testosterone in the blood. This can lead to a temporary worsening in the disease-related symptoms and also to new symptoms that you may not have experienced before. These especially include:
 
-- -bone pain;
-- -problems with urinating, pain, numbness, or weakness in the arms, hands, legs, or feet, or loss of bladder or bowel control, which may be symptoms of spinal compression;
-- -blood in your urine.
+- bone pain;
+- problems with urinating, pain, numbness, or weakness in the arms, hands, legs, or feet, or loss of bladder or bowel control, which may be symptoms of spinal compression;
+- blood in your urine.
 
 Your doctor may give you another medicine at the beginning of the treatment to reduce some of these initial side effects (See also section 2 Problems you may experience during first weeks of treatment).
 
@@ -1827,11 +1858,11 @@ Your doctor may give you another medicine at the beginning of the treatment to r
 
 You may experience the following side effects around the injection site, after your injection:
 
-- -mild burning and numbness immediately after the injection (very common: may affect more than 1 in 10 people);
-- -pain, bruising and stinging after the injection (common: may affect up to 1 in 10 people);
-- -itchiness and hardening of skin around injection site (uncommon: may affect up to 1 in 100 people);
-- -damage or sore on the skin at injection site (rare: may affect up to 1 in 1 000 people);
-- -dead tissue at injection site (very rare, may affect up to 1 in 10 000 people).
+- mild burning and numbness immediately after the injection (very common: may affect more than 1 in 10 people);
+- pain, bruising and stinging after the injection (common: may affect up to 1 in 10 people);
+- itchiness and hardening of skin around injection site (uncommon: may affect up to 1 in 100 people);
+- damage or sore on the skin at injection site (rare: may affect up to 1 in 1 000 people);
+- dead tissue at injection site (very rare, may affect up to 1 in 10 000 people).
 
 These side effects are mild and do not last very long. They only occur at the time of your injection. If you get any of these side effects, talk to your doctor.
 
@@ -1839,77 +1870,77 @@ These side effects are mild and do not last very long. They only occur at the ti
 
 ## Very common side effects (may affect more than 1 in 10 people)
 
-- -hot flashes;
-- -bruising and/or redness of the skin;
-- -tiredness.
+- hot flashes;
+- bruising and/or redness of the skin;
+- tiredness.
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-- -symptoms of common cold (nasopharyngitis);
-- -feeling sick (nausea), diarrhoea, inflammation of the stomach and intestines (gastroenteritis/colitis);
-- -itching;
-- -night sweats;
-- -joint pain, pain in arms and legs, muscle aches and pains;
-- -needing to urinate more than normal, including during the night, difficulty in urinating, pain when urinating, not urinating enough or needing to urinate less frequently;
-- -tenderness and/or swelling of the breast, shrinking of testicles, pain in testicles, infertility, erectile dysfunction, reduced penis size;
-- -episodes of exaggerated shaking with high fever (rigors), weakness, generally feeling unwell (malaise);
-- -changes in blood laboratory results (prolonged bleeding time, changes in blood values, decreased red blood cells/low red blood cell count).
+- symptoms of common cold (nasopharyngitis);
+- feeling sick (nausea), diarrhoea, inflammation of the stomach and intestines (gastroenteritis/colitis);
+- itching;
+- night sweats;
+- joint pain, pain in arms and legs, muscle aches and pains;
+- needing to urinate more than normal, including during the night, difficulty in urinating, pain when urinating, not urinating enough or needing to urinate less frequently;
+- tenderness and/or swelling of the breast, shrinking of testicles, pain in testicles, infertility, erectile dysfunction, reduced penis size;
+- episodes of exaggerated shaking with high fever (rigors), weakness, generally feeling unwell (malaise);
+- changes in blood laboratory results (prolonged bleeding time, changes in blood values, decreased red blood cells/low red blood cell count).
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
-- -urinary tract infection (UTI), local skin infection;
-- -worsening of diabetes mellitus;
-- -abnormal dreams, depression, decreased libido (sexual desire);
-- -dizziness, headache, partial or total loss of sensation in a part of your body, insomnia, abnormal change in taste and/or smell;
-- -light-headedness andloss of balance (vertigo);
-- -changes in electrocardiogram (ECG) (QT prolongation;
-- -heart attack. Symptoms include chest pain, shortness of breath, dizziness and sweating;
-- -high or low blood pressure;
-- -runny nose shortness of breath;
-- -constipation, dry mouth, disturbed digestion, with symptoms as full stomach, pain in the stomach, belching, nausea, vomiting, burning feeling in the stomach (dyspepsia),, being sick (vomiting);
-- -feeling clammy and sweaty;
-- -back pain, muscle cramps;
-- -bladder spasms, blood in urine, over-active bladder (need to urinate before your bladder is full), unable to urinate;
-- -enlarged breasts, impotence, problems with testicles (e.g. swollen, red or warm scrotum, pain or discomfort in pelvic area ;
-- -sleepiness (lethargy), pain, fever;
-- -changes in blood laboratory tests weight gain.
+- urinary tract infection (UTI), local skin infection;
+- worsening of diabetes mellitus;
+- abnormal dreams, depression, decreased libido (sexual desire);
+- dizziness, headache, partial or total loss of sensation in a part of your body, insomnia, abnormal change in taste and/or smell;
+- light-headedness andloss of balance (vertigo);
+- changes in electrocardiogram (ECG) (QT prolongation);
+- heart attack. Symptoms include chest pain, shortness of breath, dizziness and sweating;
+- high or low blood pressure;
+- runny nose shortness of breath;
+- constipation, dry mouth, disturbed digestion, with symptoms as full stomach, pain in the stomach, belching, nausea, vomiting, burning feeling in the stomach (dyspepsia),, being sick (vomiting);
+- feeling clammy and sweaty;
+- back pain, muscle cramps;
+- bladder spasms, blood in urine, over-active bladder (need to urinate before your bladder is full), unable to urinate;
+- enlarged breasts, impotence, problems with testicles (e.g. swollen, red or warm scrotum, pain or discomfort in pelvic area);
+- sleepiness (lethargy), pain, fever;
+- changes in blood laboratory tests weight gain.
 
 ## Rare side effects (may affect up to 1 in 1 000 people)
 
-- -body moves in an uncontrollable and unintended way;
-- -fainting, collapsing;
-- -passing wind and burping;
-- -hair loss, pimples on skin;
-- -breast pain.
+- body moves in an uncontrollable and unintended way;
+- fainting, collapsing;
+- passing wind and burping;
+- hair loss, pimples on skin;
+- breast pain.
 
 ## Not known (frequency cannot be estimated from the available data)
 
-- -inflammation of lungs(interstitial lung disease);
+- inflammation of lungs(interstitial lung disease);
 
 <div style=\"page-break-after: always\"></div>
 
-- -idiopathic intracranial hypertension (increased intracranial pressure around the brain characterised by headache, double vision and other visual symptoms and ringing or buzzing in one or both ears).
+- idiopathic intracranial hypertension (increased intracranial pressure around the brain characterised by headache, double vision and other visual symptoms and ringing or buzzing in one or both ears).
 
 ## The following serious allergic reactions have been reported with medicines in the same group of medicines as CAMCEVI
 
-- -difficulty in breathing or dizziness (rarely).
+- difficulty in breathing or dizziness (rarely).
 
 ## The following side effects have been reported with other medicines containing leuprorelin
 
-- -swelling of hands and feet (oedema);
-- -symptoms of a pulmonary embolism (a blood clot in the vessels supplying the lungs), including chest pain, breathlessness, difficulty breathing and coughing up blood;
-- -a noticeably rapid, strong, or irregular heartbeat;
-- -weak muscles;
-- -chills;
-- -rash;
-- -impaired memory;
-- -impaired vision;
-- -muscle wasting/loss of muscle tissue after prolonged use;
-- -medical condition in which the bones become brittle and fragile called osteoporosis, and therefore there is a higher risk of bone fractures.
+- swelling of hands and feet (oedema);
+- symptoms of a pulmonary embolism (a blood clot in the vessels supplying the lungs), including chest pain, breathlessness, difficulty breathing and coughing up blood;
+- a noticeably rapid, strong, or irregular heartbeat;
+- weak muscles;
+- chills;
+- rash;
+- impaired memory;
+- impaired vision;
+- muscle wasting/loss of muscle tissue after prolonged use;
+- medical condition in which the bones become brittle and fragile called osteoporosis, and therefore there is a higher risk of bone fractures.
 
 ## The following side effect has been reported with medicines in the same group of medicines as CAMCEVI
 
-- -seizures.
+- seizures.
 
 ## Reporting of side effects
 
@@ -1927,16 +1958,18 @@ Store in the original package in order to protect from light.
 
 Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °C). This takes approximately 15 to 20 minutes.
 
+Once outside the refrigerator this product may be stored in its original packaging at room temperature (below 25°C) for up to eight weeks, discard if not used within eight weeks.
+
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
 ## What CAMCEVI contains
 
-- -The active substance is leuprorelin. One pre-filled syringe with prolonged-release suspension for injection contains leuprorelin mesilate equivalent to 42 mg leuprorelin.
-- -The other ingredients are Poly(D,L-lactide) and N-methylpyrrolidone.
-
-<div style=\"page-break-after: always\"></div>
+- The active substance is leuprorelin. One pre-filled syringe with prolonged-release suspension for injection contains leuprorelin mesilate equivalent to 42 mg leuprorelin.
+- The other ingredients are Poly(D,L-lactide) and N-methylpyrrolidone.
 
 ## What CAMCEVI looks like and contents of the pack
 
@@ -1946,17 +1979,19 @@ CAMCEVI is available in a pack containing: 1 pre-filled syringe and 1 sterile sa
 
 ## Marketing Authorisation Holder
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est 6ª planta, 08039, Barcelona, Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6ª Planta 08039 Barcelona Spain
 
 ## Manufacturer
 
 Accord Healthcare Polska Sp. z.o.o. Ul. Lutomierska 50 95-200, Pabianice Poland
 
-Accord Healthcare Single Member S.A. 64 th  Km National Road Athens, Lamia, Schimatari, 32009, Greece
+Accord Healthcare Single Member S.A. 64 th Km National Road Athens, Lamia, Schimatari, 32009,
+
+Greece
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES
+AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
 
 Accord Healthcare S.L.U.
 
@@ -1964,13 +1999,13 @@ Tel: +34 93 301 00 64
 
 EL
 
-Win Medica Pharmaceutical S.A.
+Win Medica A.E.
 
-Tel: +30 210 7488 821
+Tel: +30 210 74 88 821
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1987,15 +2022,15 @@ Important: Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °
 - One blister containing one sterile pre-filled syringe;
 - One sterile safety needle.
 
-## Assembled pre-filled syringe:
-
-<!-- image -->
+Assembled pre-filled syringe:
 
 Step 1 - Prepare the medicinal product:
 
 <!-- image -->
 
-| Allow to reach room temperature and inspect contents  Remove CAMCEVI from refrigerator.  Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °C). This takes approximately 15 to 20 minutes.  On a flat, clean and dry surface open carton and remove the blister container and the sachet. Remove the pre-filled CAMCEVI syringe (A) from the blister container. Remove the safety needle (B) from the sachet. Examine all contents of the package. Do not use if any component is damaged.  Check the expiry date on the syringe. Do not use if the expiry date has passed.  Visually inspect the medicine prior to use. The pre-filled syringe should contain off-white to pale yellow viscous and opalescent suspension. Do not use if foreign particle is noticed inside the syringe barrel.   |
+<!-- image -->
+
+| Allow to reach room temperature and inspect contents • Remove CAMCEVI from refrigerator. • Prior to use allow CAMCEVI to reach room temperature (15 °C to 25 °C). This takes approximately 15 to 20 minutes. • On a flat, clean and dry surface open carton and remove the blister container and the sachet. Remove the pre-filled CAMCEVI syringe (A) from the blister container. Remove the safety needle (B) from the sachet. Examine all contents of the package. Do not use if any component is damaged. • Check the expiry date on the syringe. Do not use if the expiry date has passed. • Visually inspect the medicine prior to use. The pre-filled syringe should contain off-white to pale yellow viscous and opalescent suspension. Do not use if foreign particle is noticed inside the syringe barrel.   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
@@ -2003,6 +2038,8 @@ Step 1 - Prepare the medicinal product:
 ## Step 2 - Syringe assembly:
 
 ## Attach the needle
+
+- Remove the grey cap from the syringe (A).
 
 <!-- image -->
 
@@ -2016,12 +2053,11 @@ Step 1 - Prepare the medicinal product:
 
 <!-- image -->
 
--  Remove the grey cap from the syringe (A).
--  Attach the needle (B) to the end of the syringe (A) by pushing and turning clockwise with approximately a threequarter turn until the needle is secure. Do not overtighten. Discard pre-filled CAMCEVI syringe if over-twist causes syringe breakage.
--  Choose an injection site on the upper- or mid-abdominal area with sufficient soft or loose subcutaneous tissue that has not recently been used. The injection site should be varied periodically.
--  Clean the injection site with an alcohol swab. Do NOT inject in areas with brawny or fibrous subcutaneous tissue or locations that can be rubbed or compressed (i.e., with a belt or clothing waistband).
--  Pull the needle cap from the needle (B). Grab and bunch the skin around the injection site with one hand. Insert the needle at a 90° angle, then release the bunched skin.
--  Inject the full contents of the syringe with a slow and steady push, then withdraw the needle at the same 90° angle used for insertion.
+- Attach the needle (B) to the end of the syringe (A) by pushing and turning clockwise with approximately a threequarter turn until the needle is secure. Do not overtighten. Discard pre-filled CAMCEVI syringe if over-twist causes syringe or needle breakage.
+- Choose an injection site on the upper- or mid-abdominal area with sufficient soft or loose subcutaneous tissue that has not recently been used. The injection site should be varied periodically.
+- Clean the injection site with an alcohol swab. Do NOT inject in areas with brawny or fibrous subcutaneous tissue or locations that can be rubbed or compressed (i.e., with a belt or clothing waistband).
+- Pull the needle cap from the needle (B). Grab and bunch the skin around the injection site with one hand. Insert the needle at a 90° angle, then release the bunched skin.
+- Inject the full contents of the syringe with a slow and steady push, then withdraw the needle at the same 90° angle used for insertion.
 
 Intra-arterial or intravenous injection have to be strictly avoided.
 
@@ -2029,7 +2065,7 @@ Step 4 - Discard needle and pre-filled syringe
 
 <!-- image -->
 
--  Immediately following the withdrawal of the needle, activate the safety shield using a finger/thumb or flat surface and push until it completely covers the needle tip and locks into place.
--  An audible and tactile 'click' verifies a locked position. Check to confirm the safety sheath is fully engaged. After use, place the used syringe with needle protected in a suitable sharps container.
+- Immediately following the withdrawal of the needle, activate the safety shield using a finger/thumb or flat surface and push until it completely covers the needle tip and locks into place.
+- An audible and tactile 'click' verifies a locked position. Check to confirm the safety sheath is fully engaged. After use, place the used syringe with needle protected in a suitable sharps container.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

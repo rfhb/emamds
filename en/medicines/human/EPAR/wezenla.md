@@ -1,21 +1,98 @@
 ---
-document_datetime: 2026-07-01 12:05:00
+document_datetime: 2026-09-16 16:58:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/wezenla.html
 document_name: wezenla.html
 version: success
-processing_time: 0.1842818
-conversion_datetime: 2026-07-04 12:59:13.211298
+processing_time: 0.187287
+conversion_datetime: 2026-09-23 07:37:17.17835
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Campaigns](/en/news-events/ema-campaigns)
+    - [Speeches](/en/news-events/speeches)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health professionals](/en/partners-networks/animal-health-professionals)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Wezenla
+
 # Wezenla
 
 [RSS](/en/individual-human-medicine.xml/241792)
@@ -110,7 +187,7 @@ English (EN) (134.76 KB - PDF)
 
 [View](/en/documents/overview/wezenla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-248)
+[Other languages (22)](#file-language-dropdown-629)
 
 български (BG) (162.8 KB - PDF)
 
@@ -244,19 +321,11 @@ svenska (SV) (133.48 KB - PDF)
 
 [View](/sv/documents/overview/wezenla-epar-medicine-overview_sv.pdf)
 
-Wezenla : EPAR - Risk management plan (archive)
-
-English (EN) (2.24 MB - PDF)
-
-**First published:** 18/07/2024 **Last updated:** 24/04/2025
-
-[View](/en/documents/rmp-summary/wezenla-epar-risk-management-plan-archive_en.pdf)
-
 Wezenla : EPAR - Risk management plan
 
-English (EN) (2.92 MB - PDF)
+English (EN) (3.34 MB - PDF)
 
-**First published:** 11/08/2025
+**First published:** 11/08/2025 **Last updated:** 16/09/2026
 
 [View](/en/documents/rmp/wezenla-epar-risk-management-plan_en.pdf)
 
@@ -264,13 +333,13 @@ English (EN) (2.92 MB - PDF)
 
 Wezenla : EPAR - Product information
 
-English (EN) (1.66 MB - PDF)
+English (EN) (1.65 MB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 01/07/2026
+**First published:** 18/07/2024 **Last updated:** 16/09/2026
 
 [View](/en/documents/product-information/wezenla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-803)
+[Other languages (24)](#file-language-dropdown-531)
 
 български (BG) (2.35 MB - PDF)
 
@@ -278,153 +347,153 @@ English (EN) (1.66 MB - PDF)
 
 [View](/bg/documents/product-information/wezenla-epar-product-information_bg.pdf)
 
-español (ES) (2.25 MB - PDF)
+español (ES) (2.21 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/es/documents/product-information/wezenla-epar-product-information_es.pdf)
 
-čeština (CS) (2.3 MB - PDF)
+čeština (CS) (2.24 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/cs/documents/product-information/wezenla-epar-product-information_cs.pdf)
 
-dansk (DA) (1.84 MB - PDF)
+dansk (DA) (1.83 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/da/documents/product-information/wezenla-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.21 MB - PDF)
+Deutsch (DE) (2.17 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/de/documents/product-information/wezenla-epar-product-information_de.pdf)
 
-eesti (ET) (1.8 MB - PDF)
+eesti (ET) (1.75 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/et/documents/product-information/wezenla-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.36 MB - PDF)
+ελληνικά (EL) (2.45 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/el/documents/product-information/wezenla-epar-product-information_el.pdf)
 
-français (FR) (1.92 MB - PDF)
+français (FR) (1.94 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/fr/documents/product-information/wezenla-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.29 MB - PDF)
+hrvatski (HR) (2.31 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/hr/documents/product-information/wezenla-epar-product-information_hr.pdf)
 
-italiano (IT) (1.97 MB - PDF)
+italiano (IT) (1.89 MB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 01/07/2026
+**First published:** 18/07/2024 **Last updated:** 16/09/2026
 
 [View](/it/documents/product-information/wezenla-epar-product-information_it.pdf)
 
-latviešu (LV) (1.89 MB - PDF)
+latviešu (LV) (1.95 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/lv/documents/product-information/wezenla-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.97 MB - PDF)
+lietuvių (LT) (2.01 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/lt/documents/product-information/wezenla-epar-product-information_lt.pdf)
 
-magyar (HU) (2.3 MB - PDF)
+magyar (HU) (2.48 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/hu/documents/product-information/wezenla-epar-product-information_hu.pdf)
 
-Malti (MT) (2.4 MB - PDF)
+Malti (MT) (2.45 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/mt/documents/product-information/wezenla-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.17 MB - PDF)
+Nederlands (NL) (2.14 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/nl/documents/product-information/wezenla-epar-product-information_nl.pdf)
 
-polski (PL) (2.41 MB - PDF)
+polski (PL) (2.35 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/pl/documents/product-information/wezenla-epar-product-information_pl.pdf)
 
-português (PT) (1.9 MB - PDF)
+português (PT) (1.8 MB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 01/07/2026
+**First published:** 18/07/2024 **Last updated:** 16/09/2026
 
 [View](/pt/documents/product-information/wezenla-epar-product-information_pt.pdf)
 
-română (RO) (2.33 MB - PDF)
+română (RO) (2.29 MB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 01/07/2026
+**First published:** 18/07/2024 **Last updated:** 16/09/2026
 
 [View](/ro/documents/product-information/wezenla-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.91 MB - PDF)
+slovenčina (SK) (1.88 MB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 01/07/2026
+**First published:** 18/07/2024 **Last updated:** 16/09/2026
 
 [View](/sk/documents/product-information/wezenla-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.9 MB - PDF)
+slovenščina (SL) (1.89 MB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 01/07/2026
+**First published:** 18/07/2024 **Last updated:** 16/09/2026
 
 [View](/sl/documents/product-information/wezenla-epar-product-information_sl.pdf)
 
-suomi (FI) (1.87 MB - PDF)
+suomi (FI) (1.85 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/fi/documents/product-information/wezenla-epar-product-information_fi.pdf)
 
-svenska (SV) (1.83 MB - PDF)
+svenska (SV) (1.81 MB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 01/07/2026
+**First published:** 18/07/2024 **Last updated:** 16/09/2026
 
 [View](/sv/documents/product-information/wezenla-epar-product-information_sv.pdf)
 
-Íslenska (IS) (2.1 MB - PDF)
+Íslenska (IS) (2.06 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/is/documents/product-information/wezenla-epar-product-information_is.pdf)
 
-norsk (NO) (1.94 MB - PDF)
+norsk (NO) (1.82 MB - PDF)
 
 **First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/no/documents/product-information/wezenla-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000340455
+**Latest procedure affecting product information:** VR/0000357811
 
-25/06/2026
+11/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -443,7 +512,7 @@ English (EN) (48.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-487)
+[Other languages (24)](#file-language-dropdown-427)
 
 български (BG) (56.01 KB - PDF)
 
@@ -612,7 +681,7 @@ Immunosuppressants
 
 **Crohn's disease** Wezenla is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
 
-**Pediatric Crohn's disease** Wezenla is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy. **Plaque psoriasis** Wezenla is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1). **Paediatric plaque psoriasis** Wezenla is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1). **Psoriatic arthritis (PsA)** Wezenla, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
+**Pediatric Crohn's disease** Wezenla is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy. **Plaque psoriasis** Wezenla is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1). **Paediatric plaque psoriasis** Wezenla is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1). **Psoriatic arthritis (PsA)** Wezenla, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
 
 ## Authorisation details
 
@@ -629,7 +698,7 @@ Immunosuppressants
 - **Marketing authorisation issued**
     - 20/06/2024
 - **Revision**
-    - 9
+    - 10
 
 ## Assessment history
 
@@ -695,7 +764,7 @@ English (EN) (9.93 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-973)
+[Other languages (24)](#file-language-dropdown-333)
 
 български (BG) (8.66 MB - DOCX)
 
@@ -843,6 +912,6 @@ norsk (NO) (10.15 MB - DOCX)
 
 **This page was last updated on**
 
-01/07/2026
+16/09/2026
 
 ## Share this page

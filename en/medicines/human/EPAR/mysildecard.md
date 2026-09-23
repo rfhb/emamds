@@ -1,21 +1,98 @@
 ---
-document_datetime: 2026-05-07 17:55:00
+document_datetime: 2026-09-21 17:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mysildecard.html
 document_name: mysildecard.html
 version: success
-processing_time: 0.1330403
-conversion_datetime: 2026-05-10 12:16:53.492464
+processing_time: 0.1604846
+conversion_datetime: 2026-09-23 07:33:56.265185
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Campaigns](/en/news-events/ema-campaigns)
+    - [Speeches](/en/news-events/speeches)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health professionals](/en/partners-networks/animal-health-professionals)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Mysildecard
+
 # Mysildecard
 
 [RSS](/en/individual-human-medicine.xml/66387)
@@ -37,9 +114,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
-- [More information on Mysildecard](#more-information-on-mysildecard-1298)
 - [Related information](#related-information-687)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -55,13 +130,13 @@ Expand section
 
 Collapse section
 
-## What is Mysildecard and what is it used for?
+### What is Mysildecard and what is it used for?
 
 Mysildecard is a medicine used to treat adults and children from 1 year of age with pulmonary arterial hypertension (PAH, abnormally high blood pressure in the arteries of the lungs). In adults, it is used in patients with class II (slight limitation of physical activity) or class III (marked limitation of physical activity) PAH.
 
 Mysildecard contains the active substance sildenafil. It is a 'generic medicine'. This means that Mysildecard is similar to a 'reference medicine' already authorised in the European Union (EU) called Revatio.
 
-## How is Mysildecard used?
+### How is Mysildecard used?
 
 Mysildecard can only be obtained with a prescription and treatment should be started and monitored by a doctor who has experience in the treatment of PAH.
 
@@ -69,27 +144,27 @@ Mysildecard is available as tablets (20 mg). In adults, Mysildecard is taken at 
 
 In children aged one to 17, the recommended dose is 20 mg three times a day in those over 20 kg. Higher doses should not be used. In children weighing less than 20 kg the maximum recommended dose would be 10 mg three times a day but Mysildecard can only be used when a 20 mg dose is to be given. For lower doses, other medicines containing sildenafil should therefore be used.
 
-## How does Mysildecard work?
+### How does Mysildecard work?
 
 PAH is a debilitating disease where there is severe constriction (narrowing) of the blood vessels of the lungs. This leads to high blood pressure in the vessels taking blood from the heart to the lungs and reduces the amount of oxygen that can get into the blood in the lungs, making physical activity more difficult. The active substance in Mysildecard, sildenafil, belongs to a group of medicines called 'phosphodiesterase-type-5 (PDE5) inhibitors', which means that it blocks the PDE5 enzyme. This enzyme is found in the blood vessels of the lungs. When it is blocked, a substance called 'cyclic guanine monophosphate' (cGMP) cannot be broken down, so that it remains in the vessels where it causes relaxation and widening of the blood vessels. In patients with PAH, sildenafil widens the blood vessels of the lungs, which lowers the blood pressure and improves symptoms.
 
-## How has Mysildecard been studied?
+### How has Mysildecard been studied?
 
 Because the effectiveness and safety of sildenafil in PAH is already well established, studies in people have been limited to tests to determine that it is bioequivalent to another authorised sildenafil-containing tablet. Two medicines are bioequivalent when they produce the same levels of the active substance in the body. In this case Mysildecard was not compared with the reference product Revatio, but with Viagra. This was considered acceptable since Revatio and Viagra have the same qualitative composition and are made in the same way by the same manufacturer.
 
-## What are the benefits and risks of Mysildecard?
+### What are the benefits and risks of Mysildecard?
 
 Because Mysildecard is a generic medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Mysildecard approved?
+### Why is Mysildecard approved?
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) concluded that, in accordance with EU requirements, Mysildecard was considered to be comparable to Revatio. Therefore, the CHMP's view was that as for Revatio the benefit of Mysildecard outweighs the identified risks. The Committee recommended that Mysildecard be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Mysildecard?
+### What measures are being taken to ensure the safe and effective use of Mysildecard?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Mysildecard have been included in the summary of product characteristics and the package leaflet.
 
-## Other information about Mysildecard
+### Other information about Mysildecard
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Mysildecard on 15 September 2016.
 
@@ -105,7 +180,7 @@ English (EN) (86.18 KB - PDF)
 
 [View](/en/documents/overview/mysildecard-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-705)
+[Other languages (22)](#file-language-dropdown-879)
 
 български (BG) (119.77 KB - PDF)
 
@@ -137,7 +212,7 @@ Deutsch (DE) (92.52 KB - PDF)
 
 [View](/de/documents/overview/mysildecard-epar-summary-public_de.pdf)
 
-eesti keel (ET) (89.92 KB - PDF)
+eesti (ET) (89.92 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 08/12/2016
 
@@ -167,13 +242,13 @@ italiano (IT) (91.29 KB - PDF)
 
 [View](/it/documents/overview/mysildecard-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (112.46 KB - PDF)
+latviešu (LV) (112.46 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 08/12/2016
 
 [View](/lv/documents/overview/mysildecard-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (114.38 KB - PDF)
+lietuvių (LT) (114.38 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 08/12/2016
 
@@ -227,7 +302,7 @@ slovenščina (SL) (109.88 KB - PDF)
 
 [View](/sl/documents/overview/mysildecard-epar-summary-public_sl.pdf)
 
-Suomi (FI) (91.16 KB - PDF)
+suomi (FI) (91.16 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 08/12/2016
 
@@ -251,167 +326,168 @@ English (EN) (302.25 KB - PDF)
 
 Mysildecard : EPAR - Product Information
 
-English (EN) (297.03 KB - PDF)
+English (EN) (352.67 KB - PDF)
 
-**First published:** 08/12/2016 **Last updated:** 07/05/2026
+**First published:** 08/12/2016 **Last updated:** 21/09/2026
 
 [View](/en/documents/product-information/mysildecard-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-36)
+[Other languages (24)](#file-language-dropdown-459)
 
-български (BG) (513.27 KB - PDF)
+български (BG) (578.93 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/bg/documents/product-information/mysildecard-epar-product-information_bg.pdf)
 
-español (ES) (393.64 KB - PDF)
+español (ES) (443.41 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/es/documents/product-information/mysildecard-epar-product-information_es.pdf)
 
-čeština (CS) (408.11 KB - PDF)
+čeština (CS) (435.42 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/cs/documents/product-information/mysildecard-epar-product-information_cs.pdf)
 
-dansk (DA) (386.31 KB - PDF)
+dansk (DA) (523.06 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/da/documents/product-information/mysildecard-epar-product-information_da.pdf)
 
-Deutsch (DE) (401.75 KB - PDF)
+Deutsch (DE) (443.25 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/de/documents/product-information/mysildecard-epar-product-information_de.pdf)
 
-eesti keel (ET) (376.22 KB - PDF)
+eesti (ET) (405 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/et/documents/product-information/mysildecard-epar-product-information_et.pdf)
 
-ελληνικά (EL) (521.99 KB - PDF)
+ελληνικά (EL) (388.97 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/el/documents/product-information/mysildecard-epar-product-information_el.pdf)
 
-français (FR) (392.99 KB - PDF)
+français (FR) (437.38 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/fr/documents/product-information/mysildecard-epar-product-information_fr.pdf)
 
-hrvatski (HR) (382.92 KB - PDF)
+hrvatski (HR) (527.51 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/hr/documents/product-information/mysildecard-epar-product-information_hr.pdf)
 
-íslenska (IS) (402.36 KB - PDF)
-
-**First published:** 08/12/2016 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/mysildecard-epar-product-information_is.pdf)
-
-italiano (IT) (388.07 KB - PDF)
+italiano (IT) (510 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/mysildecard-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (520.46 KB - PDF)
+latviešu (LV) (485.01 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/mysildecard-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (408.17 KB - PDF)
+lietuvių (LT) (420.44 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/lt/documents/product-information/mysildecard-epar-product-information_lt.pdf)
 
-magyar (HU) (396.77 KB - PDF)
+magyar (HU) (564.56 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/hu/documents/product-information/mysildecard-epar-product-information_hu.pdf)
 
-Malti (MT) (454.06 KB - PDF)
+Malti (MT) (689.68 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/mt/documents/product-information/mysildecard-epar-product-information_mt.pdf)
 
-Nederlands (NL) (383.89 KB - PDF)
+Nederlands (NL) (503.88 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/mysildecard-epar-product-information_nl.pdf)
 
-norsk (NO) (353.47 KB - PDF)
+polski (PL) (429.52 KB - PDF)
 
-**First published:** 08/12/2016 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/mysildecard-epar-product-information_no.pdf)
-
-polski (PL) (459.08 KB - PDF)
-
-**First published:** 08/12/2016 **Last updated:** 07/05/2026
+**First published:** 08/12/2016 **Last updated:** 21/09/2026
 
 [View](/pl/documents/product-information/mysildecard-epar-product-information_pl.pdf)
 
-português (PT) (397.04 KB - PDF)
+português (PT) (395.82 KB - PDF)
 
-**First published:** 08/12/2016 **Last updated:** 07/05/2026
+**First published:** 08/12/2016 **Last updated:** 21/09/2026
 
 [View](/pt/documents/product-information/mysildecard-epar-product-information_pt.pdf)
 
-română (RO) (431.51 KB - PDF)
+română (RO) (611.49 KB - PDF)
 
-**First published:** 08/12/2016 **Last updated:** 07/05/2026
+**First published:** 08/12/2016 **Last updated:** 21/09/2026
 
 [View](/ro/documents/product-information/mysildecard-epar-product-information_ro.pdf)
 
-slovenčina (SK) (391.39 KB - PDF)
+slovenčina (SK) (546.92 KB - PDF)
 
-**First published:** 08/12/2016 **Last updated:** 07/05/2026
+**First published:** 08/12/2016 **Last updated:** 21/09/2026
 
 [View](/sk/documents/product-information/mysildecard-epar-product-information_sk.pdf)
 
-slovenščina (SL) (398.06 KB - PDF)
+slovenščina (SL) (357.16 KB - PDF)
 
-**First published:** 08/12/2016 **Last updated:** 07/05/2026
+**First published:** 08/12/2016 **Last updated:** 21/09/2026
 
 [View](/sl/documents/product-information/mysildecard-epar-product-information_sl.pdf)
 
-Suomi (FI) (378.91 KB - PDF)
+suomi (FI) (524.98 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 07/05/2026
 
 [View](/fi/documents/product-information/mysildecard-epar-product-information_fi.pdf)
 
-svenska (SV) (352.76 KB - PDF)
+svenska (SV) (355.14 KB - PDF)
 
-**First published:** 08/12/2016 **Last updated:** 07/05/2026
+**First published:** 08/12/2016 **Last updated:** 21/09/2026
 
 [View](/sv/documents/product-information/mysildecard-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000325156
+Íslenska (IS) (513.13 KB - PDF)
 
-05/05/2026
+**First published:** 08/12/2016 **Last updated:** 21/09/2026
+
+[View](/is/documents/product-information/mysildecard-epar-product-information_is.pdf)
+
+norsk (NO) (359.7 KB - PDF)
+
+**First published:** 08/12/2016 **Last updated:** 21/09/2026
+
+[View](/no/documents/product-information/mysildecard-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000366397
+
+21/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -429,7 +505,7 @@ English (EN) (42.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-301)
+[Other languages (24)](#file-language-dropdown-338)
 
 български (BG) (48.89 KB - PDF)
 
@@ -461,7 +537,7 @@ Deutsch (DE) (43.32 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (42.85 KB - PDF)
+eesti (ET) (42.85 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 08/12/2016
 
@@ -485,25 +561,19 @@ hrvatski (HR) (46.64 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (43.49 KB - PDF)
-
-**First published:** 08/12/2016 **Last updated:** 08/12/2016
-
-[View](/is/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (41.09 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 08/12/2016
 
 [View](/it/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (46.08 KB - PDF)
+latviešu (LV) (46.08 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 08/12/2016
 
 [View](/lv/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (46.66 KB - PDF)
+lietuvių (LT) (46.66 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 08/12/2016
 
@@ -526,12 +596,6 @@ Nederlands (NL) (41.28 KB - PDF)
 **First published:** 08/12/2016 **Last updated:** 08/12/2016
 
 [View](/nl/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (42.37 KB - PDF)
-
-**First published:** 08/12/2016 **Last updated:** 08/12/2016
-
-[View](/no/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (44.89 KB - PDF)
 
@@ -563,7 +627,7 @@ slovenščina (SL) (45.83 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (42.59 KB - PDF)
+suomi (FI) (42.59 KB - PDF)
 
 **First published:** 08/12/2016 **Last updated:** 08/12/2016
 
@@ -575,27 +639,30 @@ svenska (SV) (41.27 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (43.49 KB - PDF)
+
+**First published:** 08/12/2016 **Last updated:** 08/12/2016
+
+[View](/is/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (42.37 KB - PDF)
+
+**First published:** 08/12/2016 **Last updated:** 08/12/2016
+
+[View](/no/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Mysildecard
-
-Active substance
-
-sildenafil
-
-International non-proprietary name (INN) or common name
-
-sildenafil
-
-Therapeutic area (MeSH)
-
-Hypertension, Pulmonary
-
-Anatomical therapeutic chemical (ATC) code
-
-G04BE03
+- **Name of medicine**
+    - Mysildecard
+- **Active substance**
+    - sildenafil
+- **International non-proprietary name (INN) or common name**
+    - sildenafil
+- **Therapeutic area (MeSH)**
+    - Hypertension, Pulmonary
+- **Anatomical therapeutic chemical (ATC) code**
+    - G04BE03
 
 ### Pharmacotherapeutic group
 
@@ -603,37 +670,24 @@ Urologicals
 
 ### Therapeutic indication
 
-**Adults**
+**Adults** Treatment of adult patients with pulmonary arterial hypertension classified as WHO functional class II and III, to improve exercise capacity. Efficacy has been shown in primary pulmonary hypertension and pulmonary hypertension associated with connective tissue disease.
 
 **Paediatric population** Treatment of paediatric patients aged 1 year to 17 years old with pulmonary arterial hypertension. Efficacy in terms of improvement of exercise capacity or pulmonary haemodynamics has been shown in primary pulmonary hypertension and pulmonary hypertension associated with congenital heart disease (see section 5.1).
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004186
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Viatris Limited
-
-Damastown Industrial Park Dublin 15 Ireland
-
-Opinion adopted
-
-21/07/2016
-
-Marketing authorisation issued
-
-15/09/2016
-
-Revision
-
-11
+- **EMA product number**
+    - EMEA/H/C/004186
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Viatris Limited Damastown Industrial Park  Dublin 15  Ireland
+- **Opinion adopted**
+    - 21/07/2016
+- **Marketing authorisation issued**
+    - 15/09/2016
+- **Revision**
+    - 12
 
 ## Assessment history
 
@@ -641,13 +695,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Mysildecard : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (157.11 KB - PDF)
+English (EN) (160.93 KB - PDF)
 
-**First published:** 21/05/2024 **Last updated:** 07/05/2026
+**First published:** 21/05/2024 **Last updated:** 21/09/2026
 
 [View](/en/documents/procedural-steps-after/mysildecard-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -659,7 +713,7 @@ English (EN) (158.51 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/mysildecard-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Mysildecard : EPAR - Public assessment report
 
@@ -681,163 +735,12 @@ English (EN) (75.87 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-mysildecard_en.pdf)
 
-## More information on Mysildecard
-
-Questions and answers on generic medicines
-
-Reference Number: EMA/393905/2006 Rev. 2
-
-English (EN) (66.45 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-111)
-
-български (BG) (93.16 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
-
-español (ES) (68.3 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
-
-čeština (CS) (87.71 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
-
-dansk (DA) (66.79 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
-
-Deutsch (DE) (67.55 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
-
-eesti keel (ET) (65.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
-
-ελληνικά (EL) (91.29 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
-
-français (FR) (68.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
-
-hrvatski (HR) (87.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
-
-italiano (IT) (67.62 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
-
-latviešu valoda (LV) (111.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
-
-lietuvių kalba (LT) (86.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
-
-magyar (HU) (85.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
-
-Malti (MT) (89.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
-
-Nederlands (NL) (66.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
-
-polski (PL) (88.51 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
-
-português (PT) (68.32 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
-
-română (RO) (86.9 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
-
-slovenčina (SK) (87.73 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
-
-slovenščina (SL) (84.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
-
-Suomi (FI) (66.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
-
-svenska (SV) (67.11 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
-
 ## Related information
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC0041860000) (initial marketing authorisation)
 
-## Topics
-
-- [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-07/05/2026
+21/09/2026
 
 ## Share this page

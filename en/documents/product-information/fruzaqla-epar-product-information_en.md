@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-08 12:01:45
+document_datetime: 2026-09-21 16:16:42
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fruzaqla-epar-product-information_en.pdf
 document_name: fruzaqla-epar-product-information_en.pdf
 version: success
-processing_time: 9.074454
-conversion_datetime: 2026-07-13 12:48:26.527944
+processing_time: 44.7594536
+conversion_datetime: 2026-09-23 06:57:14.296999
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.112.0
-  docling-core: 2.87.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -116,10 +116,10 @@ Table 2: Recommended dose modification for FRUZAQLA for adverse reactions
 |----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Haemorrhagic events                                | Grade ≥ 3                                                                                                                                                                                                                                 | Permanently discontinue.                                                                                                                                                                                                                                                                 |
 | Proteinuria                                        | ≥ 2 g / 24 hours                                                                                                                                                                                                                          | • Withhold until proteinuria fully resolves or is < 1 g / 24 hours (Grade 1). • Resume at a reduced dose as per Table 1. If the patient still experiences ≥ 2 g / 24 hours proteinuria after taking 3 mg daily, permanently discontinue. Permanently discontinue for nephrotic syndrome. |
-| Liver function test abnormalities                  | Grade 2 or 3 liver function test abnormalities                                                                                                                                                                                            | • Withhold until liver function test abnormality recovers to Grade 1 or baseline. • Resume at a reduced dose as per Table 1. If the patient still experiences Grade 2 or Grade 3 liver function test abnormalities after taking 3 mg                                                     |
+| Liver function test abnormalities                  | Grade 2 or 3 liver function test abnormalities                                                                                                                                                                                            | • Withhold until liver function test abnormality recovers to Grade 1 or baseline. • Resume at a reduced dose as per Table 1. If the patient still experiences Grade 2 or Grade 3 liver function test abnormalities after taking 3 mg daily, permanently discontinue.                     |
 | Liver function test abnormalities                  | Grade ≥ 2 elevation (> 3 x ULN) of either alanine aminotransferase (ALT) or aspartate aminotransferase (AST) with concurrent total bilirubin elevation > 2 x ULN in the absence of cholestasis; Grade 4 liver function test abnormalities | Permanently discontinue.                                                                                                                                                                                                                                                                 |
 | Palmar-plantar erythrodysaesthesia syndrome (PPES) | Grade 2                                                                                                                                                                                                                                   | • Administer supportive treatment. • Withhold until PPES recovers to Grade 1 or baseline. • Resume at the same dose level.                                                                                                                                                               |
-| Palmar-plantar erythrodysaesthesia syndrome (PPES) | Grade 3                                                                                                                                                                                                                                   | • Administer supportive treatment. • Withhold until PPES recovers to Grade 1 or baseline. • Resume at a reduced dose as per Table 1 . If the patient still experiences Grade 3 PPES after taking 3 mg daily, permanently discontinue.                                                    |
+| Palmar-plantar erythrodysaesthesia syndrome (PPES) | Grade 3                                                                                                                                                                                                                                   | • Administer supportive treatment. • Withhold until PPES recovers to Grade 1 or baseline. • Resume at a reduced dose as per Table 1. If the patient still experiences Grade 3 PPES after taking 3 mg daily, permanently discontinue.                                                     |
 | Other adverse reactions                            | Grade 3                                                                                                                                                                                                                                   | • Withhold until the reaction recovers to Grade 1 or baseline. • Resume at a reduced dose as per Table 1.                                                                                                                                                                                |
 
 <div style=\"page-break-after: always\"></div>
@@ -222,7 +222,7 @@ Fruquintinib 5 mg capsules contain Allura red AC (E129), which may cause allergi
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Effects of other medicinal products on the pharmacokinetics of fruquintinib
+## Effects of other medicinal products on the pharmacokinetics of fruquintinib
 
 ## CYP3A inducers
 
@@ -308,7 +308,7 @@ Table 3: Adverse reactions reported in patients with mCRC treated with fruquinti
 | Endocrine disorders                             | Very common          | Hypothyroidism 6                                                                                             |
 | Metabolism and nutrition disorders              | Very common          | Anorexia 7                                                                                                   |
 | Metabolism and nutrition disorders              | Common               | Hypokalaemia                                                                                                 |
-| Nervous system disorders                        | Uncommon             | Posterior reversible encephalopathy syndrome *                                                               |
+| Nervous system disorders                        | Uncommon             | Posterior reversible encephalopathy syndrome*                                                                |
 | Vascular disorders                              | Very common          | Hypertension 8                                                                                               |
 | Vascular disorders                              | Not known            | Aortic dissection †                                                                                          |
 | Respiratory, thoracic and mediastinal disorders | Very common          | Dysphonia 9                                                                                                  |
@@ -439,7 +439,7 @@ The median OS and PFS were calculated using the Kaplan-Meier method.
 
 2 p-value (2-sided) was calculated using the stratified log-rank test to account for the stratification factors.
 
-- 3 Assessed by the investigator using RECIST, version 1.1.
+3 Assessed by the investigator using RECIST, version 1.1.
 
 Figure 1: Kaplan-Meier curve for overall survival in FRESCO-2 study
 
@@ -453,7 +453,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Absorption
 
-After oral administration of fruquintinib, the median time to achieve peak plasma fruquintinib concentration (Tmax) was approximately 2 hours. Fruquintinib showed a second absorption peak approximately 24 hours after drug administration. Following repeat once-daily dosing, fruquintinib exposure (Cmax and AUC0-24h) increased in a dose-proportional manner across the dose range of 1 to 6 mg (0.2 to 1.2 times the recommended dosage). Following administration of fruquintinib 5 mg once daily for 21 days with 7 days off of each 28-day cycle in patients with advanced solid tumours, steady state of fruquintinib was achieved after 14 days, and the mean accumulation based on AUC0-24h was 4-fold relative to a single dose. At the recommended dose of 5 mg of fruquintinib, the geometric mean (%CV) Cmax   and AUC0-24h for fruquintinib at steady state were 300 ng/mL (28%) and 5880 ng*h/mL (29%), respectively.
+After oral administration of fruquintinib, the median time to achieve peak plasma fruquintinib concentration (Tmax) was approximately 2 hours. Fruquintinib showed a second absorption peak approximately 24 hours after drug administration. Following repeat once-daily dosing, fruquintinib exposure (Cmax and AUC0-24h) increased in a dose-proportional manner across the dose range of 1 to 6 mg (0.2 to 1.2 times the recommended dosage). Following administration of fruquintinib 5 mg once daily for 21 days with 7 days off of each 28-day cycle in patients with advanced solid tumours, steady state of fruquintinib was achieved after 14 days, and the mean accumulation based on AUC0-24h was 4-fold relative to a single dose. At the recommended dose of 5 mg of fruquintinib, the geometric mean (%CV) Cmax and AUC0-24h for fruquintinib at steady state were 300 ng/mL (28%) and 5880 ng*h/mL (29%), respectively.
 
 ## Effect of food
 
@@ -547,11 +547,15 @@ Gelatin Titanium dioxide (E171) Tartrazine (E102) Sunset yellow FCF (E110)
 
 Capsule shell (5 mg hard capsules only)
 
-Gelatin Titanium dioxide (E171) Allura red AC (E129) Brilliant blue FCF (E133)
+Gelatin Titanium dioxide (E171) Allura red AC (E129)
+
+Brilliant blue FCF (E133)
 
 Printing ink
 
-Shellac (E904) Propylene glycol (E1520) Potassium hydroxide Iron oxide black (E172)
+Shellac (E904) Propylene glycol (E1520) Potassium hydroxide
+
+Iron oxide black (E172)
 
 ## 6.2 Incompatibilities
 
@@ -563,11 +567,13 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-This medicinal product does not require any special temperature storage conditions. Store in the original container in order to protect from moisture. Keep the bottle tightly closed.
+This medicinal product does not require any special temperature storage conditions. Store in the original container in order to protect from moisture.
+
+Keep the bottle tightly closed.
 
 ## 6.5 Nature and contents of container
 
-High-density polyethylene (HDPE) bottle (45 mL) with polypropylene (PP) child-resistant closure and a HDPE desiccant cartridge containing silica gel. The desiccant must be kept inside the bottle.
+High-density polyethylene (HDPE) bottle with polypropylene (PP) child-resistant closure and a HDPE desiccant cartridge containing silica gel. The desiccant must be kept inside the bottle.
 
 Each bottle contains 21 hard capsules. Each bottle is packaged in a carton.
 
@@ -581,13 +587,13 @@ Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-
 
 <div style=\"page-break-after: always\"></div>
 
-Ireland
-
-medinfoEMEA@takeda.com
+Ireland medinfoEMEA@takeda.com
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/24/1827/001 EU/1/24/1827/002
+EU/1/24/1827/001
+
+EU/1/24/1827/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -599,7 +605,13 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX II A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## ANNEX II
+
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -658,7 +670,9 @@ Each hard capsule contains 1 mg fruquintinib.
 
 ## 3. LIST OF EXCIPIENTS
 
-This product contains tartrazine (E102) and sunset yellow FCF (E110). See leaflet for further information.
+This product contains tartrazine (E102) and sunset yellow FCF (E110).
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -686,11 +700,14 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in the original container in order to protect from moisture. Keep the bottle tightly closed.
+Store in the original container in order to protect from moisture.
+
+Keep the bottle tightly closed.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -700,14 +717,13 @@ Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-
 
 EU/1/24/1827/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 FRUZAQLA 1 mg
@@ -716,7 +732,8 @@ FRUZAQLA 1 mg
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -738,7 +755,9 @@ Each hard capsule contains 1 mg fruquintinib.
 
 ## 3. LIST OF EXCIPIENTS
 
-This product contains tartrazine (E102) and sunset yellow FCF (E110). See leaflet for further information.
+This product contains tartrazine (E102) and sunset yellow FCF (E110).
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -809,7 +828,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON 5 MG HARD CAPSULES
+## CARTON 5 MG HARD CAPSULES
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -829,7 +848,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 21 hard capsules
+21 hard capsules
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -853,7 +872,11 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in the original container in order to protect from moisture. Keep the bottle tightly closed.
+Store in the original container in order to protect from moisture.
+
+Keep the bottle tightly closed.
+
+<div style=\"page-break-after: always\"></div>
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -869,10 +892,8 @@ EU/1/24/1827/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 FRUZAQLA 5 mg
@@ -883,13 +904,7 @@ FRUZAQLA 5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-<div style=\"page-break-after: always\"></div>
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -899,7 +914,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-FRUZAQLA 5 mg hard capsules fruquintinib
+FRUZAQLA 5 mg hard capsules
+
+fruquintinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -907,11 +924,13 @@ Each hard capsule contains 5 mg fruquintinib.
 
 ## 3. LIST OF EXCIPIENTS
 
-This product contains Allura red AC (E129). See leaflet for further information.
+This product contains Allura red AC (E129).
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 21 hard capsules
+21 hard capsules
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -984,16 +1003,18 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## FRUZAQLA 1 mg hard capsules FRUZAQLA 5 mg hard capsules fruquintinib
+## FRUZAQLA 1 mg hard capsules FRUZAQLA 5 mg hard capsules
+
+## fruquintinib
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1008,7 +1029,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 FRUZAQLA contains the active substance fruquintinib, a type of cancer medicine called a kinase inhibitor.
 
-FRUZAQLA is used to treat adult patients with cancer of the colon or rectum (colorectal cancer) that has spread to other parts of the body (metastatic). It is used when other treatments have not worked or when other treatments are not suitable for you.
+FRUZAQLA is used to treat adult patients with cancer of the colon or rectum (colorectal cancer) that has spread to other parts of the body (metastatic). It is used when other treatments have not worked - or when other treatments are not suitable for you.
 
 ## How FRUZAQLA works
 
@@ -1020,7 +1041,7 @@ If you have any questions about how this medicine works or why this medicine has
 
 ## Do not take FRUZAQLA
 
-- -if you are allergic to fruquintinib or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to fruquintinib or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -1028,13 +1049,13 @@ Talk to your doctor, pharmacist or nurse before taking FRUZAQLA or anytime durin
 
 <div style=\"page-break-after: always\"></div>
 
-- high blood pressure . Your doctor should make sure that your blood pressure is under control before starting and while taking this medicine.
-- any bleeding problems . Tell your doctor if you have or ever had bleeding problems or if you are taking warfarin, acenocoumarol or other medicines to thin the blood to prevent blood clots.
+- high blood pressure. Your doctor should make sure that your blood pressure is under control before starting and while taking this medicine.
+- any bleeding problems. Tell your doctor if you have or ever had bleeding problems or if you are taking warfarin, acenocoumarol or other medicines to thin the blood to prevent blood clots.
 - severe stomach and bowel problems caused by a hole in your gut wall (known as gastrointestinal perforation). If you get severe stomach and bowel problems, talk to your doctor immediately.
 - kidney problems (indicated by the presence of protein in your urine).
-- any skin problems , which may include redness, pain, swelling, or blisters on the palms of your hands or soles of your feet.
+- any skin problems, which may include redness, pain, swelling, or blisters on the palms of your hands or soles of your feet.
 - recent severe and persistent headache, visual disturbances, seizures or altered mental status (such as confusion, memory loss or loss of orientation). If you or those around you notice any of these changes, talk to your doctor immediately.
-- an unhealed wound or if you recently had or are going to have a surgical procedure. FRUZAQLA may affect the way your wounds heal .
+- an unhealed wound or if you recently had or are going to have a surgical procedure. FRUZAQLA may affect the way your wounds heal.
 - recent problems with blood clots in your veins and arteries (types of blood vessels), including stroke, heart attack, embolism, or thrombosis.
 
 Your doctor may give you other medicines to prevent more severe complications and reduce your symptoms. Your doctor may delay the next dose of FRUZAQLA or stop your treatment with FRUZAQLA.
@@ -1122,36 +1143,36 @@ Tell your doctor immediately if you notice any of the following serious side eff
 
 Tell your doctor if you experience the following symptoms:
 
-- -severe headache
-- -lightheadedness or dizziness
-- -confusion
-- -severe chest pain.
+- severe headache
+- lightheadedness or dizziness
+- confusion
+- severe chest pain.
 
 ## Bleeding
 
 FRUZAQLA can cause severe bleeding in the digestive system such as the stomach, throat, rectum or intestine. Get medical help immediately if you have the following symptoms:
 
-- -blood in your stools or black stools
-- -blood in your urine
-- -stomach pain
-- -coughing/vomiting up blood.
+- blood in your stools or black stools
+- blood in your urine
+- stomach pain
+- coughing/vomiting up blood.
 
 ## Severe stomach and bowel problems due to gatrointestinal perforation
 
 Treatment with FRUZAQLA may lead to gastrointestinal perforation. Get medical help immediately, if you have the following symptoms:
 
-- -coughing/vomiting up blood
-- -severe stomach (abdominal) pain or stomach pain that does not go away
-- -red or black stools.
+- coughing/vomiting up blood
+- severe stomach (abdominal) pain or stomach pain that does not go away
+- red or black stools.
 
 ## Reversible swelling of the brain (posterior reversible encephalopathy syndrome)
 
 Get emergency medical help immediately and call your doctor if you have the following symptoms:
 
-- -headache
-- -confusion
-- -seizures
-- -changes in vision.
+- headache
+- confusion
+- seizures
+- changes in vision.
 
 ## Other side effects
 
@@ -1229,17 +1250,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - The active substance is fruquintinib. Each hard capsule contains 1 mg fruquintinib.
 - The other ingredients are:
-- -Capsule fill: maize starch, microcrystalline cellulose (E460), talc (E553b)
-- -Capsule shell: gelatin, titanium dioxide (E171), tartrazine (E102), sunset yellow FCF (E110)
-- -Printing ink: shellac (E904), propylene glycol (E1520), potassium hydroxide, iron oxide black (E172).
+- Capsule fill: maize starch, microcrystalline cellulose (E460), talc (E553b)
+- Capsule shell: gelatin, titanium dioxide (E171), tartrazine (E102), sunset yellow FCF (E110)
+- Printing ink: shellac (E904), propylene glycol (E1520), potassium hydroxide, iron oxide black (E172).
 
 ## FRUZAQLA 5 mg hard capsules
 
 - The active substance is fruquintinib. Each hard capsule contains 5 mg fruquintinib.
 - The other ingredients are:
-- -Capsule fill: maize starch, microcrystalline cellulose (E460), talc (E553b)
-- -Capsule shell: gelatin, titanium dioxide (E171), Allura red AC (E129), brilliant blue FCF (E133)
-- -Printing ink: shellac (E904), propylene glycol (E1520), potassium hydroxide, iron oxide black (E172).
+- Capsule fill: maize starch, microcrystalline cellulose (E460), talc (E553b)
+- Capsule shell: gelatin, titanium dioxide (E171), Allura red AC (E129), brilliant blue FCF (E133)
+- Printing ink: shellac (E904), propylene glycol (E1520), potassium hydroxide, iron oxide black (E172).
 
 ## What FRUZAQLA looks like and contents of the pack
 
@@ -1259,31 +1280,37 @@ Ireland
 
 ## Manufacturer
 
-Takeda Ireland Limited Bray Business Park Kilruddery Co. Wicklow A98 CD36 Ireland
+Takeda Ireland Limited Bray Business Park Kilruddery Co. Wicklow A98 CD36
+
+Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 België/Belgique/Belgien Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com България
 
-Lietuva
+## Lietuva
 
 Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com Luxembourg/Luxemburg
 
 <div style=\"page-break-after: always\"></div>
 
-Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com Česká republika Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@takeda.com Danmark Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com Deutschland Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com Eesti Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com Ελλάδα Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com España Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com France Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com Hrvatska Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com Ireland Takeda Products Ireland Ltd Tel: 1800 937 970 medinfoEMEA@takeda.com
+Такеда България ЕООД Тел.: +359 2 958 27 36
 
-Ísland Vistor hf. Sími: +354 535 7000 medinfoEMEA@takeda.com
+medinfoEMEA@takeda.com Česká republika Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@takeda.com Danmark Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com Deutschland Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com Eesti Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com Ελλάδα Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com España Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com France Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com Hrvatska Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com Ireland Takeda Products Ireland Ltd Tel: 1800 937 970 medinfoEMEA@takeda.com
 
-Italia Takeda Italia S.p.A. Tel: +39 06 502601 medinfoEMEA@takeda.com
+Ísland Vistor hf. Sími: +354 535 7000 medinfoEMEA@takeda.com Italia Takeda Italia S.p.A. Tel: +39 06 502601 medinfoEMEA@takeda.com Κύπρος A.POTAMITIS MEDICARE LTD Τηλ: +357 22583333 Latvija
 
-Κύπρος A.POTAMITIS MEDICARE LTD Τηλ: +357 22583333 a.potamitismedicare@cytanet.com.cy Latvija Takeda Latvia SIA Tel: +371 67840082
+a.potamitismedicare@cytanet.com.cy Takeda Latvia SIA Tel: +371 67840082 medinfoEMEA@takeda.com Takeda Belgium NV Tél/Tel: +32 2 464 06 11
 
-medinfoEMEA@takeda.com Takeda Belgium NV Tél/Tel: +32 2 464 06 11
+medinfoEMEA@takeda.com Magyarország Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com Malta Drugsales Ltd Tel: +356 21419070
 
-medinfoEMEA@takeda.com Magyarország Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com Malta Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com Nederland Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com Norge Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com Österreich Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com Polska Takeda Pharma Sp. z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com Portugal Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com România Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com Slovenija Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com Slovenská republika Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com Suomi/Finland Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com Sverige Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com United Kingdom (Northern Ireland)
+safety@drugsalesltd.com Nederland Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com Norge Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com Österreich Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com Polska Takeda Pharma Sp. z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com Portugal Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com România Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com Slovenija Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com Slovenská republika Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com Suomi/Finland Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com Sverige Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com United Kingdom (Northern Ireland)
 
-Takeda UK Ltd Tel: +44 (0) 3333 000 181 medinfoEMEA@takeda.com
+Takeda UK Ltd Tel: +44 (0) 3333 000 181
+
+medinfoEMEA@takeda.com
+
+38
 
 <div style=\"page-break-after: always\"></div>
 

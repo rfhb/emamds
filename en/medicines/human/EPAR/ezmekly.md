@@ -1,21 +1,98 @@
 ---
-document_datetime: 2026-09-02 15:52:00
+document_datetime: 2026-09-16 16:03:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ezmekly.html
 document_name: ezmekly.html
 version: success
-processing_time: 0.1358062
-conversion_datetime: 2026-09-05 10:47:54.466056
+processing_time: 0.152249
+conversion_datetime: 2026-09-23 07:31:53.453253
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.95.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.17.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Campaigns](/en/news-events/ema-campaigns)
+    - [Speeches](/en/news-events/speeches)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health professionals](/en/partners-networks/animal-health-professionals)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Ezmekly
+
 # Ezmekly
 
 [RSS](/en/individual-human-medicine.xml/259693)
@@ -122,7 +199,7 @@ English (EN) (130.39 KB - PDF)
 
 [View](/en/documents/overview/ezmekly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-660)
+[Other languages (22)](#file-language-dropdown-106)
 
 български (BG) (148.96 KB - PDF)
 
@@ -268,161 +345,161 @@ English (EN) (5.67 MB - PDF)
 
 Ezmekly: EPAR - Product information
 
-English (EN) (495.69 KB - PDF)
+English (EN) (445.88 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 02/09/2026
+**First published:** 20/08/2025 **Last updated:** 16/09/2026
 
 [View](/en/documents/product-information/ezmekly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-617)
+[Other languages (24)](#file-language-dropdown-790)
 
-български (BG) (798.19 KB - PDF)
+български (BG) (594.38 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/bg/documents/product-information/ezmekly-epar-product-information_bg.pdf)
 
-español (ES) (653.94 KB - PDF)
+español (ES) (441.43 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/es/documents/product-information/ezmekly-epar-product-information_es.pdf)
 
-čeština (CS) (788.29 KB - PDF)
+čeština (CS) (527.01 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/cs/documents/product-information/ezmekly-epar-product-information_cs.pdf)
 
-dansk (DA) (687.3 KB - PDF)
+dansk (DA) (441.98 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/da/documents/product-information/ezmekly-epar-product-information_da.pdf)
 
-Deutsch (DE) (728.33 KB - PDF)
+Deutsch (DE) (458.17 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/de/documents/product-information/ezmekly-epar-product-information_de.pdf)
 
-eesti (ET) (707.55 KB - PDF)
+eesti (ET) (429.15 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/et/documents/product-information/ezmekly-epar-product-information_et.pdf)
 
-ελληνικά (EL) (754.3 KB - PDF)
+ελληνικά (EL) (609.14 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/el/documents/product-information/ezmekly-epar-product-information_el.pdf)
 
-français (FR) (804.85 KB - PDF)
+français (FR) (451.88 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/fr/documents/product-information/ezmekly-epar-product-information_fr.pdf)
 
-hrvatski (HR) (798.58 KB - PDF)
+hrvatski (HR) (544.59 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/hr/documents/product-information/ezmekly-epar-product-information_hr.pdf)
 
-italiano (IT) (1.52 MB - PDF)
+italiano (IT) (552.26 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/it/documents/product-information/ezmekly-epar-product-information_it.pdf)
 
-latviešu (LV) (781.16 KB - PDF)
+latviešu (LV) (558.51 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/lv/documents/product-information/ezmekly-epar-product-information_lv.pdf)
 
-lietuvių (LT) (751.33 KB - PDF)
+lietuvių (LT) (538.01 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/lt/documents/product-information/ezmekly-epar-product-information_lt.pdf)
 
-magyar (HU) (780.35 KB - PDF)
+magyar (HU) (570.72 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/hu/documents/product-information/ezmekly-epar-product-information_hu.pdf)
 
-Malti (MT) (952.97 KB - PDF)
+Malti (MT) (615.13 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/mt/documents/product-information/ezmekly-epar-product-information_mt.pdf)
 
-Nederlands (NL) (691.29 KB - PDF)
+Nederlands (NL) (445.11 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/nl/documents/product-information/ezmekly-epar-product-information_nl.pdf)
 
-polski (PL) (836.56 KB - PDF)
+polski (PL) (584.94 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/pl/documents/product-information/ezmekly-epar-product-information_pl.pdf)
 
-português (PT) (736.94 KB - PDF)
+português (PT) (432.73 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/pt/documents/product-information/ezmekly-epar-product-information_pt.pdf)
 
-română (RO) (753.81 KB - PDF)
+română (RO) (566.57 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/ro/documents/product-information/ezmekly-epar-product-information_ro.pdf)
 
-slovenčina (SK) (871.22 KB - PDF)
+slovenčina (SK) (556.29 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 02/09/2026
+**First published:** 20/08/2025 **Last updated:** 16/09/2026
 
 [View](/sk/documents/product-information/ezmekly-epar-product-information_sk.pdf)
 
-slovenščina (SL) (767.24 KB - PDF)
+slovenščina (SL) (545.61 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 02/09/2026
+**First published:** 20/08/2025 **Last updated:** 16/09/2026
 
 [View](/sl/documents/product-information/ezmekly-epar-product-information_sl.pdf)
 
-suomi (FI) (715.21 KB - PDF)
+suomi (FI) (444.07 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/fi/documents/product-information/ezmekly-epar-product-information_fi.pdf)
 
-svenska (SV) (678.48 KB - PDF)
+svenska (SV) (426.25 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 02/09/2026
+**First published:** 20/08/2025 **Last updated:** 16/09/2026
 
 [View](/sv/documents/product-information/ezmekly-epar-product-information_sv.pdf)
 
-Íslenska (IS) (689.54 KB - PDF)
+Íslenska (IS) (409.02 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 02/09/2026
+**First published:** 20/08/2025 **Last updated:** 16/09/2026
 
 [View](/is/documents/product-information/ezmekly-epar-product-information_is.pdf)
 
-norsk (NO) (683.69 KB - PDF)
+norsk (NO) (425.75 KB - PDF)
 
 **First published:** 20/08/2025 **Last updated:** 02/09/2026
 
 [View](/no/documents/product-information/ezmekly-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000371059
+**Latest procedure affecting product information:** VR/0000363326
 
-02/09/2026
+03/09/2026
 
 icon globe
 
@@ -447,7 +524,7 @@ English (EN) (50.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-682)
+[Other languages (22)](#file-language-dropdown-574)
 
 български (BG) (68.86 KB - PDF)
 
@@ -620,7 +697,7 @@ Ezmekly as monotherapy is indicated for the treatment of symptomatic, inoperable
 - **Marketing authorisation issued**
     - 17/07/2025
 - **Revision**
-    - 4
+    - 5
 
 ## Assessment history
 
@@ -632,9 +709,9 @@ Collapse section
 
 Ezmekly : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (158.3 KB - PDF)
+English (EN) (162.76 KB - PDF)
 
-**First published:** 21/04/2026 **Last updated:** 02/09/2026
+**First published:** 21/04/2026 **Last updated:** 16/09/2026
 
 [View](/en/documents/procedural-steps-after/ezmekly-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -682,6 +759,6 @@ English (EN) (185.45 KB - PDF)
 
 **This page was last updated on**
 
-02/09/2026
+16/09/2026
 
 ## Share this page

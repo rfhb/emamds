@@ -1,21 +1,98 @@
 ---
-document_datetime: 2026-08-13 13:24:00
+document_datetime: 2026-09-21 14:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/osenvelt.html
 document_name: osenvelt.html
 version: success
-processing_time: 0.1643572
-conversion_datetime: 2026-08-17 13:28:16.968554
+processing_time: 0.3524085
+conversion_datetime: 2026-09-23 07:35:13.108155
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.120.2
-  docling-core: 2.91.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.13.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Campaigns](/en/news-events/ema-campaigns)
+    - [Speeches](/en/news-events/speeches)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health professionals](/en/partners-networks/animal-health-professionals)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Osenvelt
+
 # Osenvelt
 
 [RSS](/en/individual-human-medicine.xml/253183)
@@ -118,7 +195,7 @@ English (EN) (122.81 KB - PDF)
 
 [View](/en/documents/overview/osenvelt-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-964)
+[Other languages (22)](#file-language-dropdown-45)
 
 български (BG) (148.9 KB - PDF)
 
@@ -264,167 +341,167 @@ English (EN) (2.54 MB - PDF)
 
 Osenvelt : EPAR - Product information
 
-English (EN) (753.24 KB - PDF)
+English (EN) (720.38 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/en/documents/product-information/osenvelt-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-794)
+[Other languages (24)](#file-language-dropdown-612)
 
-български (BG) (743.7 KB - PDF)
+български (BG) (709.13 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/bg/documents/product-information/osenvelt-epar-product-information_bg.pdf)
 
-español (ES) (674.8 KB - PDF)
+español (ES) (645.94 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/es/documents/product-information/osenvelt-epar-product-information_es.pdf)
 
-čeština (CS) (700.62 KB - PDF)
+čeština (CS) (682.69 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/cs/documents/product-information/osenvelt-epar-product-information_cs.pdf)
 
-dansk (DA) (684.75 KB - PDF)
+dansk (DA) (651.18 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/da/documents/product-information/osenvelt-epar-product-information_da.pdf)
 
-Deutsch (DE) (836.04 KB - PDF)
+Deutsch (DE) (669.88 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/de/documents/product-information/osenvelt-epar-product-information_de.pdf)
 
-eesti (ET) (676.59 KB - PDF)
+eesti (ET) (639.55 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/et/documents/product-information/osenvelt-epar-product-information_et.pdf)
 
-ελληνικά (EL) (751.8 KB - PDF)
+ελληνικά (EL) (716.13 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/el/documents/product-information/osenvelt-epar-product-information_el.pdf)
 
-français (FR) (697.59 KB - PDF)
+français (FR) (667.47 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/fr/documents/product-information/osenvelt-epar-product-information_fr.pdf)
 
-hrvatski (HR) (705.92 KB - PDF)
+hrvatski (HR) (674.82 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/hr/documents/product-information/osenvelt-epar-product-information_hr.pdf)
 
-italiano (IT) (698.77 KB - PDF)
+italiano (IT) (658.99 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/it/documents/product-information/osenvelt-epar-product-information_it.pdf)
 
-latviešu (LV) (696.62 KB - PDF)
+latviešu (LV) (665 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/lv/documents/product-information/osenvelt-epar-product-information_lv.pdf)
 
-lietuvių (LT) (715.88 KB - PDF)
+lietuvių (LT) (684.05 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/lt/documents/product-information/osenvelt-epar-product-information_lt.pdf)
 
-magyar (HU) (718.85 KB - PDF)
+magyar (HU) (689.54 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/hu/documents/product-information/osenvelt-epar-product-information_hu.pdf)
 
-Malti (MT) (796.55 KB - PDF)
+Malti (MT) (760.59 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/mt/documents/product-information/osenvelt-epar-product-information_mt.pdf)
 
-Nederlands (NL) (689.12 KB - PDF)
+Nederlands (NL) (656.61 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/nl/documents/product-information/osenvelt-epar-product-information_nl.pdf)
 
-polski (PL) (730.26 KB - PDF)
+polski (PL) (697.85 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/pl/documents/product-information/osenvelt-epar-product-information_pl.pdf)
 
-português (PT) (683.97 KB - PDF)
+português (PT) (650.44 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/pt/documents/product-information/osenvelt-epar-product-information_pt.pdf)
 
-română (RO) (796.47 KB - PDF)
+română (RO) (764.15 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/ro/documents/product-information/osenvelt-epar-product-information_ro.pdf)
 
-slovenčina (SK) (798.05 KB - PDF)
+slovenčina (SK) (765.46 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/sk/documents/product-information/osenvelt-epar-product-information_sk.pdf)
 
-slovenščina (SL) (712.78 KB - PDF)
+slovenščina (SL) (684.76 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/sl/documents/product-information/osenvelt-epar-product-information_sl.pdf)
 
-suomi (FI) (683.74 KB - PDF)
+suomi (FI) (651.08 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/fi/documents/product-information/osenvelt-epar-product-information_fi.pdf)
 
-svenska (SV) (681.63 KB - PDF)
+svenska (SV) (650.14 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/sv/documents/product-information/osenvelt-epar-product-information_sv.pdf)
 
-Íslenska (IS) (672.88 KB - PDF)
+Íslenska (IS) (644.64 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/is/documents/product-information/osenvelt-epar-product-information_is.pdf)
 
-norsk (NO) (678.98 KB - PDF)
+norsk (NO) (645.93 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 19/03/2026
+**First published:** 03/04/2025 **Last updated:** 21/09/2026
 
 [View](/no/documents/product-information/osenvelt-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000355158
+**Latest procedure affecting product information:** VR/0000370451
 
-11/08/2026
+21/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -443,7 +520,7 @@ English (EN) (55.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/osenvelt-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-308)
+[Other languages (24)](#file-language-dropdown-849)
 
 български (BG) (65.37 KB - PDF)
 
@@ -628,7 +705,7 @@ Treatment of adults and skeletally mature adolescents with giant cell tumour of 
 - **Marketing authorisation issued**
     - 14/02/2025
 - **Revision**
-    - 5
+    - 6
 
 ## Assessment history
 
@@ -640,9 +717,9 @@ Collapse section
 
 Osenvelt : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (165.03 KB - PDF)
+English (EN) (170.45 KB - PDF)
 
-**First published:** 25/04/2025 **Last updated:** 13/08/2026
+**First published:** 25/04/2025 **Last updated:** 21/09/2026
 
 [View](/en/documents/procedural-steps-after/osenvelt-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -686,7 +763,7 @@ English (EN) (420.34 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-159)
+[Other languages (24)](#file-language-dropdown-726)
 
 български (BG) (430.8 KB - DOCX)
 
@@ -834,6 +911,6 @@ norsk (NO) (416.46 KB - DOCX)
 
 **This page was last updated on**
 
-13/08/2026
+21/09/2026
 
 ## Share this page

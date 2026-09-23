@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-04 12:37:56
+document_datetime: 2026-09-16 08:39:49
 document_pages: 23
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/brinsupri-epar-product-information_en.pdf
 document_name: brinsupri-epar-product-information_en.pdf
 version: success
-processing_time: 4.9281417
-conversion_datetime: 2025-12-29 20:02:39.352666
+processing_time: 35.001048
+conversion_datetime: 2026-09-23 06:52:07.739753
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,7 +22,7 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-▼ This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -195,11 +195,9 @@ The efficacy of brensocatib was assessed in a Phase 3, randomised, double-blind,
 
 All patients were randomised to one of two doses of brensocatib (25 mg: n = 575; 10 mg: n = 583) or placebo (n = 563), administered once daily for 52 weeks.
 
-All adult patients enrolled had a history of confirmed NCFB by chest computed tomography with at least 2 documented pulmonary exacerbations prior screening in the past 12 months. Adolescent
+All adult patients enrolled had a history of confirmed NCFB by chest computed tomography with at least 2 documented pulmonary exacerbations prior screening in the past 12 months. Adolescent patients had at least one pulmonary exacerbation in the prior 12 months. A qualifying exacerbation was defined by the need for a physician-prescribed course of systemic antibiotics for signs and symptoms of respiratory infection.
 
 <div style=\"page-break-after: always\"></div>
-
-patients had at least one pulmonary exacerbation in the prior 12 months. A qualifying exacerbation was defined by the need for a physician-prescribed course of systemic antibiotics for signs and symptoms of respiratory infection.
 
 Demographics and baseline characteristics of ASPEN are provided in Table 2.
 
@@ -215,11 +213,9 @@ Table 2: Demographics and baseline characteristics of patients in ASPEN
 | Hispanic or Latino n (%)                         | 511 (30)            |
 | ≥ 3 PEx in prior 12 months n (%)                 | 502 (29)            |
 | Former smoker n (%)                              | 510 (30)            |
-| ppFEV 1 post-bronchodilator, mean (SD)           | 74 (23)             |
+| ppFEV1 post-bronchodilator, mean (SD)            | 74 (23)             |
 | Sputum positive for Pseudomonas aeruginosa n (%) | 607 (35)            |
 | Chronic macrolide therapy n (%)                  | 329 (19)            |
-
-N = number of patients in the intent-to-treat analysis set; n = number of patients; PEx = pulmonary exacerbations; pp = percent predicted; FEV1 = forced expiratory volume in 1 second; SD = standard deviation
 
 ## Exacerbations
 
@@ -235,7 +231,7 @@ Table 3: Exacerbations endpoints over 52 weeks in ASPEN
 |-------------------------------------------------------------------|-------------------------------|---------------------|------------------------------------------|
 | Annualised rate of PEx                                            |                          1.04 |                1.29 | Rate ratio (95% CI): 0.81 (0.69, 0.94)   |
 | Median time to first PEx (weeks)                                  |                         50.71 |               36.71 | Hazard ratio (95% CI): 0.83 (0.70, 0.97) |
-| Proportion of patients that were exacerbation free at week 52 (%) |                         48.5  |               40.3  | Odds ratio (95% CI): 1.40 (1.10, 1.79)   |
+| Proportion of patients that were exacerbation free at week 52 (%) |                          48.5 |                40.3 | Odds ratio (95% CI): 1.40 (1.10, 1.79)   |
 
 ## Lung function
 
@@ -305,11 +301,9 @@ Brensocatib exhibits linear and time-independent pharmacokinetics with low to mo
 
 ## Pharmacokinetic/pharmacodynamic relationships
 
-Exposure-response relationships were observed between brensocatib exposure (AUC) and clinical efficacy (i.e. decline of lung function measured as FEV1). At 25 mg, &gt; 99% NCFB patients in the ASPEN trial achieved an AUC threshold that was associated with clinically meaningful improvement in FEV1. No exposure-response relationships were detected for the occurrence of periodontal disease or pneumonia. A relationship between brensocatib exposure (AUC) and hyperkeratosis (mild and
+Exposure-response relationships were observed between brensocatib exposure (AUC) and clinical efficacy (i.e. decline of lung function measured as FEV1). At 25 mg, &gt; 99% NCFB patients in the ASPEN trial achieved an AUC threshold that was associated with clinically meaningful improvement in FEV1. No exposure-response relationships were detected for the occurrence of periodontal disease or pneumonia. A relationship between brensocatib exposure (AUC) and hyperkeratosis (mild and moderate) was observed. However, the predicted probability of mild or moderate hyperkeratosis was low at brensocatib 25 mg (3.01% in adults and 3.36% in adolescents).
 
 <div style=\"page-break-after: always\"></div>
-
-moderate) was observed. However, the predicted probability of mild or moderate hyperkeratosis was low at brensocatib 25 mg (3.01% in adults and 3.36% in adolescents).
 
 ## Special populations
 
@@ -339,11 +333,9 @@ In a 9-month dog study no adverse findings were observed at any dose (AUC 5 time
 
 ## Reproductive and developmental toxicity
 
-In a rat fertility and embryo-foetal development study, following treatment with brensocatib from 2 weeks prior to mating, during mating and up to the end of major embryonic organogenesis, recoverable minor malformations of bent scapula and wavy ribs were noted at plasma exposure (AUC) 128-times the human exposure at the MRHD. There was an increased incidence of skeletal variations (malpositioned pelvic girdle and vestigial supernumerary full and/or short ribs in both cervical and thoracolumbar regions) and differen ces in ossification at AUC ≥ 42-times the human exposure at the
+In a rat fertility and embryo-foetal development study, following treatment with brensocatib from 2 weeks prior to mating, during mating and up to the end of major embryonic organogenesis, recoverable minor malformations of bent scapula and wavy ribs were noted at plasma exposure (AUC) 128-times the human exposure at the MRHD. There was an increased incidence of skeletal variations (malpositioned pelvic girdle and vestigial supernumerary full and/or short ribs in both cervical and thoracolumbar regions) and differences in ossification at AUC ≥ 42-times the human exposure at the MRHD. The no effect dose for developmental toxicity was at AUC of 3-times the human exposure at the MRHD. In a rabbit embryo-foetal development study, treatment with brensocatib during implantation and major organogenesis induced maternal toxicity (reductions in body weight gain and food consumption) at AUC ≥ 5-times the human exposure at the MRHD. There were no adverse developmental effects at AUC 20-times the human exposure at the MRHD.
 
 <div style=\"page-break-after: always\"></div>
-
-MRHD. The no effect dose for developmental toxicity was at AUC of 3-times the human exposure at the MRHD. In a rabbit embryo-foetal development study, treatment with brensocatib during implantation and major organogenesis induced maternal toxicity (reductions in body weight gain and food consumption) at AUC ≥ 5-times the human exposure at the MRHD. There were no adverse developmental effects at AUC 20-times the human exposure at the MRHD.
 
 In a pre- and post-natal development study in rats treated from gestation day 6 through lactation day 20, no adverse findings were observed at any dose (up to AUC 17-times the human exposure at the MRHD). Brensocatib was detected in pups, suggesting that male and female pups were likely exposed via maternal milk during lactation.
 
@@ -351,7 +343,7 @@ In a pre- and post-natal development study in rats treated from gestation day 6 
 
 ## 6.1 List of excipients
 
-## Tablet core
+Tablet core
 
 Cellulose, microcrystalline Calcium hydrogen phosphate dihydrate Sodium starch glycolate Silica, colloidal hydrated Glycerol dibehenate
 
@@ -365,7 +357,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-18 months
+2 years
 
 ## 6.4 Special precautions for storage
 
@@ -391,7 +383,7 @@ EU/1/25/1995/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 18 November 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -407,7 +399,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -472,7 +464,7 @@ brensocatib
 
 Each film-coated tablet contains 25 mg of brensocatib (as monohydrate).
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -502,46 +494,59 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Insmed Netherlands B.V. Stadsplateau 7 3521 AZ Utrecht Netherlands
+Insmed Netherlands B.V. Stadsplateau 7 3521 AZ Utrecht
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Netherlands
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/25/1995/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Brinsupri
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER OF 14 TABLETS                                 |
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER OF 14 TABLETS
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+Brinsupri 25 mg tablets
 
-Brinsupri 25 mg tablets brensocatib
+brensocatib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Insmed Netherlands B.V.
 
@@ -560,6 +565,8 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
@@ -568,16 +575,18 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Brinsupri 25 mg film-coated tablets brensocatib
+## Brinsupri 25 mg film-coated tablets
+
+brensocatib
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -648,7 +657,7 @@ If you take more Brinsupri than you should, seek urgent medical attention, takin
 
 ## If you forget to take Brinsupri
 
-Take your next dose at the usual time the next day . Do not take a double dose to make up for a forgotten tablet.
+Take your next dose at the usual time the next day. Do not take a double dose to make up for a forgotten tablet.
 
 ## If you stop taking Brinsupri
 
@@ -697,8 +706,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Brinsupri contains
 
-- -The active substance is brensocatib. Each film-coated tablet contains 25 mg of brensocatib (as monohydrate).
-- -The other ingredients are:
+- The active substance is brensocatib. Each film-coated tablet contains 25 mg of brensocatib (as monohydrate).
+- The other ingredients are:
 
 Tablet core: cellulose, microcrystalline; calcium hydrogen phosphate dihydrate; sodium starch glycolate; silica, colloidal hydrated and glycerol dibehenate. See section 2 'Brinsupri contains sodium' for further information.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-18 09:53:32
+document_datetime: 2026-09-16 17:21:34
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mepact-epar-product-information_en.pdf
 document_name: mepact-epar-product-information_en.pdf
 version: success
-processing_time: 7.329682
-conversion_datetime: 2026-01-03 12:54:13.282487
+processing_time: 25.5751465
+conversion_datetime: 2026-09-23 06:58:53.388355
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -54,7 +54,7 @@ Mifamurtide treatment should be initiated and supervised by specialist physician
 
 ## Posology
 
-The recommended dose of mifamurtide for all patients is 2 mg/m 2 body surface area. It should be administered as adjuvant therapy following resection: twice weekly at least 3 days apart for 12 weeks, followed by once-weekly treatments for an additional 24 weeks for a total of 48 infusions in 36 weeks .
+The recommended dose of mifamurtide for all patients is 2 mg/m 2 body surface area. It should be administered as adjuvant therapy following resection: twice weekly at least 3 days apart for 12 weeks, followed by once-weekly treatments for an additional 24 weeks for a total of 48 infusions in 36 weeks.
 
 ## Special populations
 
@@ -174,7 +174,7 @@ Mifamurtide was studied as a single agent in 248 patients with mostly advanced m
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are classified according to system organ class and frequency. Frequency groupings are defined according to the following convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions are classified according to system organ class and frequency. Frequency groupings are defined according to the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 ## Table 1. Adverse reactions
 
@@ -222,7 +222,7 @@ Adverse reactions are classified according to system organ class and frequency. 
 | System organ class                                   | Frequency category   | Adverse reaction (preferred term)                                                                                                                   |
 |------------------------------------------------------|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | General disorders and administration site conditions | Very common          | Fever, Chills, Fatigue, Hypothermia, Pain, Malaise, Asthenia, Chest pain                                                                            |
-|                                                      | Common               | Peripheral oedema, Oedema, Mucosal inflammation, Infusion site erythema, Infusion site reaction, Catheter site pain, Chest discomfort, Feeling cold |
+| General disorders and administration site conditions | Common               | Peripheral oedema, Oedema, Mucosal inflammation, Infusion site erythema, Infusion site reaction, Catheter site pain, Chest discomfort, Feeling cold |
 | Investigations                                       | Common               | Weight decreased                                                                                                                                    |
 | Surgical and medical procedures                      | Common               | Post-procedural pain                                                                                                                                |
 
@@ -304,9 +304,9 @@ Pharmacotherapeutic group: Immunostimulants, Other immunostimulants, ATC code: L
 
 ## Mechanism of action
 
-Mifamurtide (muramyl tripeptide phosphatidyl ethanolamine, MTP-PE) is a fully synthetic derivative of muramyl dipeptide (MDP), the smallest naturally-occurring immune stimulatory component of cell walls from Mycobacterium sp . It has similar immunostimulatory effects as natural MDP. MEPACT is a liposomal formulation specifically designed for in vivo targeting to macrophages by intravenous infusion.
+Mifamurtide (muramyl tripeptide phosphatidyl ethanolamine, MTP-PE) is a fully synthetic derivative of muramyl dipeptide (MDP), the smallest naturally-occurring immune stimulatory component of cell walls from Mycobacterium sp. It has similar immunostimulatory effects as natural MDP. MEPACT is a liposomal formulation specifically designed for in vivo targeting to macrophages by intravenous infusion.
 
-MTP-PE is a specific ligand of NOD2, a receptor found primarily on monocytes, dendritic cells and macrophages. MTP-PE is a potent activator of monocytes and macrophages. Activation of human macrophages by mifamurtide is associated with production of cytokines, including tumour necrosis factor (TNFα ), interleukin-1 (IL-1 β ), IL-6, IL-8, and IL-12 and adhesion molecules, including lymphocyte function-associated antigen-1 (LFA-1) and intercellular adhesion molecule-1 (ICAM-1). In vitro -treated human monocytes killed allogeneic and autologous tumour cells (including melanoma, ovarian, colon, and renal carcinoma), but had no toxicity towards normal cells.
+MTP-PE is a specific ligand of NOD2, a receptor found primarily on monocytes, dendritic cells and macrophages. MTP-PE is a potent activator of monocytes and macrophages. Activation of human macrophages by mifamurtide is associated with production of cytokines, including tumour necrosis factor (TNF-α), interleukin-1 (IL-1β), IL-6, IL-8, and IL-12 and adhesion molecules, including lymphocyte function-associated antigen-1 (LFA-1) and intercellular adhesion molecule-1 (ICAM-1). In vitro-treated human monocytes killed allogeneic and autologous tumour cells (including melanoma, ovarian, colon, and renal carcinoma), but had no toxicity towards normal cells.
 
 In vivo administration of mifamurtide resulted in the inhibition of tumour growth in mouse and rat models of lung metastasis, skin and liver cancer, and fibrosarcoma. Significant enhancement of disease-free survival was also demonstrated in the treatment of dog osteosarcoma and hemangiosarcoma with mifamurtide as adjuvant therapy. The exact mechanism by which mifamurtide activation of monocytes and macrophages leads to anti-tumour activity in animals and humans is not yet known.
 
@@ -338,7 +338,7 @@ At 6 hours after injection of radiolabelled liposomes containing 1 mg mifamurtid
 
 Metabolism of liposomal MTP-PE has not been studied in humans.
 
-After injection of radiolabelled liposomes containing mifamurtide, mean half-life of radiolabelled material was biphasic with an α -phase of about 15 minutes and a terminal half-life of approximately 18 hours.
+After injection of radiolabelled liposomes containing mifamurtide, mean half-life of radiolabelled material was biphasic with an α-phase of about 15 minutes and a terminal half-life of approximately 18 hours.
 
 ## Special populations
 
@@ -388,7 +388,7 @@ From a microbiological point of view, immediate use is recommended. If not used 
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C-8 ° C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C-8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
@@ -412,7 +412,7 @@ The reconstituted, filtered and diluted suspension for infusion is a homogenous,
 
 ## Instructions for preparation of MEPACT for intravenous infusion
 
-Materials provided in each package :
+Materials provided in each package:
 
 - MEPACT powder for concentrate for dispersion for infusion (vial)
 - Filter for MEPACT
@@ -425,7 +425,7 @@ Materials required but not provided:
 
 It is recommended that the reconstitution of the liposomal suspension should be performed in a laminar flow cabinet utilising sterile gloves using aseptic technique.
 
-The lyophilised powder should be allowed to reach a temperature between approximately 20 ° C-25 °C prior to reconstitution, filtering using the filter provided and dilution. This should take approximately 30 minutes.
+The lyophilised powder should be allowed to reach a temperature between approximately 20 °C-25 °C prior to reconstitution, filtering using the filter provided and dilution. This should take approximately 30 minutes.
 
 1. The cap of the vial should be removed and the stopper cleaned using an alcohol pad.
 2. The filter should be removed from the blister pack, and the cap removed from the filter spike. The spike should then be inserted into the vial septum firmly until seated. The filter luer connector cap should not be removed at this time.
@@ -442,9 +442,9 @@ Figure 1
 
 <!-- image -->
 
-7. The sodium chloride 9 mg/mL (0.9%) solution for injection is added to the vial by slow, firm depression of the syringe plunger. The filter and syringe must not be removed from the vial .
+7. The sodium chloride 9 mg/mL (0.9%) solution for injection is added to the vial by slow, firm depression of the syringe plunger. The filter and syringe must not be removed from the vial.
 8. The vial should be allowed to stand undisturbed for 1 minute to ensure thorough hydration of the dry substance.
-9. The vial should then be shaken vigorously for 1 minute while keeping the filter and syringe attached . During this time the liposomes are formed spontaneously (figure 2).
+9. The vial should then be shaken vigorously for 1 minute while keeping the filter and syringe attached. During this time the liposomes are formed spontaneously (figure 2).
 10. The desired dose may be withdrawn from the vial by inverting the vial and slowly pulling back on the syringe plunger (figure 3). Each mL reconstituted suspension contains 0.08 mg mifamurtide. The volume of suspension to be withdrawn for dose quantities is calculated as follows:
 
 Figure 2
@@ -473,7 +473,7 @@ Figure 3
 11. The syringe should then be removed from the filter and a new needle placed on the suspension-filled syringe. The bag injection site should be wiped with an alcohol pad and the suspension in the syringe should be injected into the original bag containing the remaining 50 mL of sodium chloride 9 mg/mL (0.9%) solution for injection (figure 4).
 12. The bag should be gently swirled to mix the solution.
 13. Patient identification, time and date should be added to the label on the bag containing the reconstituted, filtered and diluted liposomal suspension.
-14. Chemical and physical in-use stability has been demonstrated for 6 hours at room temperature (between approximately 20 ° C-25 °C).
+14. Chemical and physical in-use stability has been demonstrated for 6 hours at room temperature (between approximately 20 °C-25 °C).
 15. From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 6 hours at room temperature.
 16. Based on the liposomal nature of the product, use of an infusion set with an in-line filter during administration is not recommended.
 17. The liposomal suspension is infused intravenously over about 1 hour.
@@ -488,13 +488,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Esteve Pharmaceuticals S.A.
+Esteve Pharmaceuticals S.A. Passeig de la Zona Franca 109 Planta 4
 
 © ESTEVE (2025) CONFIDENTIAL
 
 <div style=\"page-break-after: always\"></div>
 
-Passeig de la Zona Franca 109 Planta 4 08038 Barcelona Spain
+08038 Barcelona Spain
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -502,9 +502,7 @@ EU/1/08/502/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 6 March 2009
-
-Date of latest renewal: 20 February 2019
+Date of first authorisation: 6 March 2009 Date of latest renewal: 20 February 2019
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -529,7 +527,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers responsible for batch release
 
-Kymos S.L. Ronda de Can Fatjo 7b, Parc Tecnològic del Vallès 08290 Cerdanyola del Vallès Spain
+Tjoapack Netherlands B.V. Nieuwe Donk 9, 4879 AC, Etten Leur, The Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -576,7 +574,9 @@ OUTER PACKAGING
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-MEPACT 4 mg powder for concentrate for dispersion for infusion mifamurtide
+MEPACT 4 mg powder for concentrate for dispersion for infusion
+
+mifamurtide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -620,9 +620,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.                                                                          | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL                         |
-|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE | PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE |
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -633,28 +631,29 @@ Esteve Pharmaceuticals S.A. Passeig de la Zona Franca 109 Planta 4 08038 Barcelo
 
 EU/1/08/502/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 Justification for not including Braille accepted
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC:
 
@@ -672,7 +671,9 @@ VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-MEPACT 4 mg powder for concentrate for dispersion for infusion mifamurtide
+MEPACT 4 mg powder for concentrate for dispersion for infusion
+
+mifamurtide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -716,11 +717,11 @@ Keep the vial in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.                                                                          | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL                         |
-|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE | PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE |
+| 10.                                                                              | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL                             |
+|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Esteve Pharmaceuticals S.A.
 
@@ -729,20 +730,25 @@ Esteve Pharmaceuticals S.A.
 
 EU/1/08/502/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 © ESTEVE (2025) CONFIDENTIAL
 
@@ -756,15 +762,13 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## MEPACT 4 mg powder for concentrate for dispersion for infusion
-
-mifamurtide
+## MEPACT 4 mg powder for concentrate for dispersion for infusion mifamurtide
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -785,24 +789,24 @@ MEPACT is used to treat osteosarcoma (bone cancer) in children, adolescents and 
 
 ## Do not use MEPACT:
 
-- -if you are allergic to mifamurtide or any of the other ingredients of this medicine (listed in section 6).
-- -if you are taking medicines containing ciclosporin or other calcineurin inhibitors or high doses of non-steroidal-anti-inflammatory drugs (NSAIDs) (see 'Using other medicines' below).
+- if you are allergic to mifamurtide or any of the other ingredients of this medicine (listed in section 6).
+- if you are taking medicines containing ciclosporin or other calcineurin inhibitors or high doses of non-steroidal-anti-inflammatory drugs (NSAIDs) (see 'Using other medicines' below).
 
 ## Warnings and precautions
 
 Talk to your doctor before using MEPACT:
 
-- -if you have or have had problems with your heart or blood vessels, like blood clots (thrombosis), bleeding (haemorrhage) or inflammation of the veins (vasculitis). You should be more closely monitored while receiving MEPACT treatment. If you have long-lasting or worsening symptoms, you should contact your doctor, as MEPACT treatment may need to be delayed or discontinued.
-- -if you have a history of asthma or other breathing disorders. Before using MEPACT, you should discuss with your doctor whether you should take medicine for your asthma when using MEPACT.
-- -if you have a history of inflammatory or autoimmune disease or have been treated with corticosteroids or other medicines that may affect your immune system.
-- -if you have any allergic reactions to any medicines such as rash, breathlessness and high blood pressure. If you have worsening symptoms, you should contact your doctor, as these may have been caused by MEPACT.
+- if you have or have had problems with your heart or blood vessels, like blood clots (thrombosis), bleeding (haemorrhage) or inflammation of the veins (vasculitis). You should be more closely monitored while receiving MEPACT treatment. If you have long-lasting or worsening symptoms, you should contact your doctor, as MEPACT treatment may need to be delayed or discontinued.
+- if you have a history of asthma or other breathing disorders. Before using MEPACT, you should discuss with your doctor whether you should take medicine for your asthma when using MEPACT.
+- if you have a history of inflammatory or autoimmune disease or have been treated with corticosteroids or other medicines that may affect your immune system.
+- if you have any allergic reactions to any medicines such as rash, breathlessness and high blood pressure. If you have worsening symptoms, you should contact your doctor, as these may have been caused by MEPACT.
 
 © ESTEVE (2025) CONFIDENTIAL
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you have stomach problems such as nausea, vomiting and lack of appetite. If your problems increase, you should contact your doctor, as these may have been caused by MEPACT when used with chemotherapy.
-- -if you develop chills or shivering, or feel warm. You should take your temperature as you may have a fever. A fever with a low white blood cell count (neutropenia) may be a sign of serious infection.
+- if you have stomach problems such as nausea, vomiting and lack of appetite. If your problems increase, you should contact your doctor, as these may have been caused by MEPACT when used with chemotherapy.
+- if you develop chills or shivering, or feel warm. You should take your temperature as you may have a fever. A fever with a low white blood cell count (neutropenia) may be a sign of serious infection.
 
 Detailed information on warnings and precautions relating to side effects that could occur while you are taking the medicine is presented in section 4.
 
@@ -814,9 +818,9 @@ It is not recommended to give this medicine to children below the age of 2 years
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines. This includes medicines that may be obtained without a prescription. It is especially important to tell your doctor if you are taking medicines containing any of the following active substances:
 
-- -ciclosporin, tacrolimus, used after a transplant to prevent rejection of transplanted organs, or other immunosuppressants used e.g. to treat psoriasis (a skin disease).
-- -Non-steroidal-anti-inflammatory drugs (NSAIDs), such as acetylsalicylic acid, ibuprofen, or diclofenac, used for treatment of headaches, fever or pain. You must not use MEPACT with high doses of NSAIDs.
-- -corticosteroids, used to treat inflammations, allergies or asthma. Regular use of corticosteroids should be avoided when using MEPACT as this may affect the way the medicine works.
+- ciclosporin, tacrolimus, used after a transplant to prevent rejection of transplanted organs, or other immunosuppressants used e.g. to treat psoriasis (a skin disease).
+- Non-steroidal-anti-inflammatory drugs (NSAIDs), such as acetylsalicylic acid, ibuprofen, or diclofenac, used for treatment of headaches, fever or pain. You must not use MEPACT with high doses of NSAIDs.
+- corticosteroids, used to treat inflammations, allergies or asthma. Regular use of corticosteroids should be avoided when using MEPACT as this may affect the way the medicine works.
 
 It is recommended to separate the times of administration of MEPACT and doxorubicin or other medicines if used in the same chemotherapy treatment regimen.
 
@@ -824,7 +828,9 @@ It is recommended to separate the times of administration of MEPACT and doxorubi
 
 If you are pregnant or breast-feeding, think you may be pregnant or planning to have a baby, ask your doctor for advice before taking this medicine.
 
-MEPACT has not been tested in pregnant women. Therefore, MEPACT should not be used during pregnancy and in women of childbearing potential not using effective contraception. You should use effective contraception if you are being treated with MEPACT.
+MEPACT has not been tested in pregnant women. Therefore, MEPACT should not be used during pregnancy and in women of childbearing potential not using effective contraception.
+
+You should use effective contraception if you are being treated with MEPACT.
 
 It is not known whether MEPACT passes to human milk. If you are breast-feeding, you should discuss with your doctor.
 
@@ -846,7 +852,7 @@ MEPACT will be administered only under the supervision of a specialist physician
 
 <div style=\"page-break-after: always\"></div>
 
-The recommended dose of MEPACT is 2 mg mifamurtide/m 2  body surface area. It will be given to you twice a week (at least three days apart) for the first 12 weeks, then once a week for 24 more weeks.
+The recommended dose of MEPACT is 2 mg mifamurtide/m 2 body surface area. It will be given to you twice a week (at least three days apart) for the first 12 weeks, then once a week for 24 more weeks.
 
 The schedule of your MEPACT treatments can be adjusted to fit with your chemotherapy schedule. It is not necessary to interrupt your schedule of MEPACT if your chemotherapy is delayed; you should complete 36 weeks (9 months) of treatment with MEPACT without an interruption.
 
@@ -870,71 +876,71 @@ The majority of patients experience chills, fever and fatigue especially during 
 
 Treatment with MEPACT can often cause stomach problems such as nausea, vomiting and loss of appetite when used with chemotherapy.
 
-## Contact your doctor immediately :
+Contact your doctor immediately:
 
-- -if you have continuing fever or chills more than 8 hours after your dose of MEPACT, because this may be a sign of an infection, or
-- -if you experience rash or have any problems breathing (wheezing), or
-- -if you experience any stomach problems.
+- if you have continuing fever or chills more than 8 hours after your dose of MEPACT, because this may be a sign of an infection, or
+- if you experience rash or have any problems breathing (wheezing), or
+- if you experience any stomach problems.
 
-## Very common side effects (may affect more than 1 in 10 people):
+Very common side effects (may affect more than 1 in 10 people):
 
-- -fever, shaking/shivering, weakness, tiredness or general discomfort
-- -nausea and/or vomiting, diarrhoea or constipation
-- -headache or dizziness
-- -rapid beating of the heart
-- -high blood pressure or low blood pressure
-- -no appetite for food
-- -sweating
-- -pain,  including  general  pain,  pain  in  your  muscles  and/or  joints  and  pain  in  back,  chest, abdomen, arm or leg
-- -cough, trouble breathing or rapid breathing
-- -low body temperature
-- -low number of red blood cells
+- fever, shaking/shivering, weakness, tiredness or general discomfort
+- nausea and/or vomiting, diarrhoea or constipation
+- headache or dizziness
+- rapid beating of the heart
+- high blood pressure or low blood pressure
+- no appetite for food
+- sweating
+- pain, including general pain, pain in your muscles and/or joints and pain in back, chest, abdomen, arm or leg
+- cough, trouble breathing or rapid breathing
+- low body temperature
+- low number of red blood cells
 
 © ESTEVE (2025) CONFIDENTIAL
 
 <div style=\"page-break-after: always\"></div>
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people):
 
-- -blue colour of tissues such as the skin or gums caused by too little oxygen
-- -perceptible increase in frequency or force of heartbeat
-- -swelling in arms or legs or other swelling
-- -chest discomfort
-- -upset stomach, decreased appetite or weight loss
-- -injection site or catheter site redness, swelling, infection or other local reaction
-- -rash or redness, inflammation of the skin, itching, dry skin, pale or transient red appearance
-- -inflammation of skin, tendons, muscles or similar tissues that support body structure
-- -inflammation of a vein
-- -upper abdominal or chest wall pain; abdominal bloating or pain; indigestion or pain in your liver
-- -other pain, including neck, shoulder, groin, bone or throat pain; pain after an operation
-- -muscle spasms or stiffness
-- -feeling cold
-- -tired feeling, drowsiness or sleepiness
-- -burning, pricking/tingling sensation, diminished sensitivity to sensation or feeling a sensation without stimulus
-- -involuntary shaking movement
-- -dehydration
-- -low concentration of potassium in blood
-- -mucosal inflammation
-- -nose, throat, or sinus congestion or inflammation
-- -infections of the upper respiratory tract (such as a cold) or the urinary tract (such as a bladder infection)
-- -generalised infection
-- -Herpes simplex (virus) infection
-- -productive cough, wheezing or exertional or exacerbated shortness of breath
-- -spitting of blood or nosebleed
-- -fluid in the lung cavity
-- -blood in urine, difficulty or pain in urination or frequent urination
-- -difficulty sleeping, depression, anxiety or confusion
-- -dizziness
-- -ears ringing
-- -blurred vision
-- -hair loss
-- -difficult, painful menstruation
-- -hearing loss
-- -low number of white blood cells with or without fever, low number of platelets
+- blue colour of tissues such as the skin or gums caused by too little oxygen
+- perceptible increase in frequency or force of heartbeat
+- swelling in arms or legs or other swelling
+- chest discomfort
+- upset stomach, decreased appetite or weight loss
+- injection site or catheter site redness, swelling, infection or other local reaction
+- rash or redness, inflammation of the skin, itching, dry skin, pale or transient red appearance
+- inflammation of skin, tendons, muscles or similar tissues that support body structure
+- inflammation of a vein
+- upper abdominal or chest wall pain; abdominal bloating or pain; indigestion or pain in your liver
+- other pain, including neck, shoulder, groin, bone or throat pain; pain after an operation
+- muscle spasms or stiffness
+- feeling cold
+- tired feeling, drowsiness or sleepiness
+- burning, pricking/tingling sensation, diminished sensitivity to sensation or feeling a sensation without stimulus
+- involuntary shaking movement
+- dehydration
+- low concentration of potassium in blood
+- mucosal inflammation
+- nose, throat, or sinus congestion or inflammation
+- infections of the upper respiratory tract (such as a cold) or the urinary tract (such as a bladder infection)
+- generalised infection
+- Herpes simplex (virus) infection
+- productive cough, wheezing or exertional or exacerbated shortness of breath
+- spitting of blood or nosebleed
+- fluid in the lung cavity
+- blood in urine, difficulty or pain in urination or frequent urination
+- difficulty sleeping, depression, anxiety or confusion
+- dizziness
+- ears ringing
+- blurred vision
+- hair loss
+- difficult, painful menstruation
+- hearing loss
+- low number of white blood cells with or without fever, low number of platelets
 
 Not known (cannot be estimated from the available data):
 
-- -abnormal accumulation of fluid around the heart (pericardial effusion)
+- abnormal accumulation of fluid around the heart (pericardial effusion)
 
 ## Reporting of side effects
 
@@ -952,7 +958,7 @@ Do not use this medicine after the expiry date which is stated on the vial label
 
 ## Unopened vial
 
-Store in a refrigerator (2 ° C-8 °C). Do not freeze.
+Store in a refrigerator (2 °C-8 °C). Do not freeze.
 
 Keep the vial in outer carton in order to protect from light.
 
@@ -968,8 +974,8 @@ Do not throw away any medicines via wastewater. These measures will help protect
 
 ## What MEPACT contains
 
-- -The active substance is mifamurtide. Each vial contains 4 mg of mifamurtide. After reconstitution, each mL of suspension contains 0.08 mg of mifamurtide.
-- -The other ingredients are 1-Palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine (POPC) and 1,2-Dioleoyl-sn-glycero-3-phospho-L-serine monosodium salt (OOPS). See section 2 'MEPACT contains sodium'
+- The active substance is mifamurtide. Each vial contains 4 mg of mifamurtide. After reconstitution, each mL of suspension contains 0.08 mg of mifamurtide.
+- The other ingredients are 1-Palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine (POPC) and 1,2-Dioleoyl-sn-glycero-3-phospho-L-serine monosodium salt (OOPS). See section 2 'MEPACT contains sodium'
 
 ## What MEPACT looks like and contents of the pack
 
@@ -977,8 +983,8 @@ MEPACT is a white to off-white homogeneous cake or powder for concentrate for di
 
 ## MEPACT is supplied in a carton that contains
 
-- -One 50 mL vial with a grey butyl stopper, aluminium seal and plastic flip-off cap.
-- -One sterile filter for MEPACT supplied in a blister.
+- One 50 mL vial with a grey butyl stopper, aluminium seal and plastic flip-off cap.
+- One sterile filter for MEPACT supplied in a blister.
 
 ## Marketing Authorisation Holder
 
@@ -986,7 +992,7 @@ Esteve Pharmaceuticals S.A. Passeig de la Zona Franca 109 Planta 4 08038 Barcelo
 
 ## Manufacturer
 
-Kymos S.L. Ronda de Can Fatjo 7b, Parc Tecnològic del Vallès 08290 Cerdanyola del Vallès Spain
+Tjoapack Netherlands B.V. Nieuwe Donk 9, 4879 AC, Etten Leur, The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -996,33 +1002,45 @@ Esteve Pharmaceuticals BV/SRL België /Belgique/Belgien adgadegroote@external.es
 
 ## България
 
+Esteve Pharmaceuticals S.A.
+
+Τeл: +34 93 446 60 00
+
+## Česká republika
+
+Akacia Group, s.r.o.
+
+Tel: +420 220 610 491
+
+© ESTEVE (2025) CONFIDENTIAL
+
 ## Lietuva
 
 Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
 
 ## Luxembourg/Luxemburg
 
-Esteve Pharmaceuticals S.A.
-
-Τeл: +34 93 446 60 00
-
 Esteve Pharmaceuticals BV/SRL België /Belgique/Belgien adgadegroote@external.esteve.com
 
-© ESTEVE (2025) CONFIDENTIAL
+## Magyarország
+
+Esteve Pharmaceuticals S.A.
+
+Τel: +34 93 446 60 00
 
 <div style=\"page-break-after: always\"></div>
 
-## Česká republika
-
-Akacia Group, s.r.o. Tel: +420 220 610 491
-
 ## Danmark
 
-Esteve Pharmaceuticals S.A. Τ lf : +34 93 446 60 00
+Esteve Pharmaceuticals S.A.
+
+Τlf: +34 93 446 60 00
 
 ## Deutschland
 
-Esteve Pharmaceuticals GmbH Deutschland Tel.:  +49 30 338427 -100
+Esteve Pharmaceuticals GmbH Deutschland
+
+Tel.: +49 30 338427-100
 
 ## Eesti
 
@@ -1042,53 +1060,23 @@ Esteve Pharmaceuticals S.A.S Tél: +33 1 42 31 07 10
 
 ## Hrvatska
 
-Makpharm d.o.o. Tel: +385 1 4678 688
-
-## Ireland
+## Malta
 
 Esteve Pharmaceuticals S.A.
 
 Τel: +34 93 446 60 00
 
-## Ísland
-
-Esteve Pharmaceuticals S.A. Sími: +34 93 446 60 00
-
-## Italia
-
-Esteve Pharmaceuticals SRL
-
-Tel: +39 345 9214959
-
-## Κύπρος
-
-SPECIALTY THERAPEUTICS IKE Τηλ.: +30 2130233913
-
-## Latvija
-
-Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
-
-© ESTEVE (2025) CONFIDENTIAL
-
-## Magyarország
-
-Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
-
-## Malta
-
-Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
-
 ## Nederland
 
-Esteve Pharmaceuticals S.A. Τ el : +34 93 446 60 00
+Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
 
 ## Norge
 
-Esteve Pharmaceuticals S.A. Τ lf : +34 93 446 60 00
+Esteve Pharmaceuticals S.A. Τlf: +34 93 446 60 00
 
 ## Österreich
 
-Esteve Pharmaceuticals GmbH Deutschland Tel.:  +49 30 338427 -100
+Esteve Pharmaceuticals GmbH Deutschland Tel.: +49 30 338427-100
 
 ## Polska
 
@@ -1104,9 +1092,35 @@ Tel: +351 91 422 4766
 
 ## România
 
+Makpharm d.o.o. Tel: +385 1 4678 688
+
+## Ireland
+
 Esteve Pharmaceuticals S.A. Tel: +34 93 446 60 00
 
 ## Slovenija
+
+Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
+
+## Ísland
+
+Esteve Pharmaceuticals S.A. Sími: +34 93 446 60 00
+
+## Italia
+
+Esteve Pharmaceuticals SRL Tel: +39 345 9214959
+
+## Κύπρος
+
+SPECIALTY THERAPEUTICS IKE Τηλ.: +30 2130233913
+
+## Latvija
+
+Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
+
+## This leaflet was last revised in
+
+© ESTEVE (2025) CONFIDENTIAL
 
 Esteve Pharmaceuticals S.A. Tel: +34 93 446 60 00
 
@@ -1124,8 +1138,6 @@ Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in
-
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.
@@ -1134,14 +1146,14 @@ Detailed information on this medicine is available on the European Medicines Age
 
 The following information is intended for healthcare professionals only:
 
-## Instructions for preparation of MEPACT for intravenous infusion
+Instructions for preparation of MEPACT for intravenous infusion
 
-## Materials provided in each package -
+Materials provided in each package -
 
 - 1 vial of MEPACT (mifamurtide)
 - 1 Filter for MEPACT
 
-## Materials required but not provided -
+Materials required but not provided -
 
 - Sodium chloride 9 mg/mL (0.9%) solution for injection, 100 mL bag
 - 1 single use 60 or 100 mL sterile syringe with luer lock
@@ -1149,23 +1161,25 @@ The following information is intended for healthcare professionals only:
 
 It is recommended that the reconstitution of the liposomal suspension should be performed in a laminar flow cabinet utilising sterile gloves using aseptic technique.
 
-The lyophilised powder should be allowed to reach a temperature between approximately 20 ° C-25 °C prior to reconstitution, filtering using the filter provided and dilution. This should take approximately 30 minutes.
+The lyophilised powder should be allowed to reach a temperature between approximately 20 °C-25 °C prior to reconstitution, filtering using the filter provided and dilution. This should take approximately 30 minutes.
 
 1. The cap of the vial should be removed and the stopper cleaned using an alcohol pad.
 2. The filter should be removed from the blister pack, and the cap removed from the filter spike.
-3. The spike should then be inserted into the vial septum firmly until seated. The filter luer connector cap should not be removed at this time.
+
+The spike should then be inserted into the vial septum firmly until seated. The filter luer connector cap should not be removed at this time.
+
 3. The 100 mL sodium chloride 9 mg/mL (0.9%) solution for injection bag, needle and syringe should be unpacked (not provided in the pack).
 4. The site of the sodium chloride 9 mg/mL (0.9%) solution for injection bag where the needle is going to be inserted should be swabbed with an alcohol pad.
 5. Using the needle and syringe, 50 mL of sodium chloride 9 mg/mL (0.9%) solution for injection should be withdrawn from the bag.
 6. After removing the needle from the syringe, the syringe should be attached to the filter by opening the filter luer connector cap (figure 1).
 
-© ESTEVE (2025) CONFIDENTIAL
-
-<div style=\"page-break-after: always\"></div>
-
 Figure 1
 
 <!-- image -->
+
+© ESTEVE (2025) CONFIDENTIAL
+
+<div style=\"page-break-after: always\"></div>
 
 7. The sodium chloride 9 mg/mL (0.9%) solution for injection is added to the vial by slow, firm depression of the syringe plunger. The filter and syringe must not be removed from the vial.
 8. The vial should be allowed to stand undisturbed for 1 minute to ensure thorough hydration of the dry substance.
@@ -1187,18 +1201,18 @@ For convenience, the following table of concordance is provided:
 | 3.0 mg | 37.5 mL  |
 | 4.0 mg | 50 mL    |
 
+<!-- image -->
+
 © ESTEVE (2025) CONFIDENTIAL
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 3
-
-<!-- image -->
+## Figure 3
 
 11. The syringe should then be removed from the filter and a new needle placed on the suspension-filled syringe. The bag injection site should be wiped with an alcohol pad and the suspension in the syringe should be injected into the original bag containing the remaining 50 mL of sodium chloride 9 mg/mL (0.9%) solution for injection (figure 4).
 12. The bag should be gently swirled to mix the solution.
 13. Patient identification, time and date should be added to the label on the bag containing the reconstituted, filtered and diluted liposomal suspension.
-14. Chemical and physical in-use stability has been demonstrated for 6 hours at room temperature (between approximately 20 ° C-25 °C).
+14. Chemical and physical in-use stability has been demonstrated for 6 hours at room temperature (between approximately 20 °C-25 °C).
 15. From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 6 hours at room temperature.
 
 Figure 4

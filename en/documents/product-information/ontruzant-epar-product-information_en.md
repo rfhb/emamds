@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-23 10:35:12
-document_pages: 53
+document_datetime: 2026-09-16 12:57:59
+document_pages: 51
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ontruzant-epar-product-information_en.pdf
 document_name: ontruzant-epar-product-information_en.pdf
 version: success
-processing_time: 21.780112
-conversion_datetime: 2026-01-26 20:39:15.761189
+processing_time: 70.7948528
+conversion_datetime: 2026-09-23 07:07:26.756235
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.70.0
-  docling-core: 2.60.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,29 +52,33 @@ White to pale yellow lyophilised powder.
 
 ## 4.1 Therapeutic indications
 
-## Breast cancer
+Breast cancer
 
 ## Metastatic breast cancer
 
 Ontruzant is indicated for the treatment of adult patients with HER2 positive metastatic breast cancer (MBC):
 
--as monotherapy for the treatment of those patients who have received at least two chemotherapy regimens for their metastatic disease. Prior chemotherapy must have included at least an anthracycline and a taxane unless patients are unsuitable for these treatments. Hormone receptor positive patients must also have failed hormonal therapy, unless patients are unsuitable for these treatments.
+- as monotherapy for the treatment of those patients who have received at least two chemotherapy regimens for their metastatic disease. Prior chemotherapy must have included at least an anthracycline and a taxane unless patients are unsuitable for these treatments. Hormone receptor positive patients must also have failed hormonal therapy, unless patients are unsuitable for these treatments.
 
--in combination with paclitaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease and for whom an anthracycline is not suitable.
+- in combination with paclitaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease and for whom an anthracycline is not suitable.
 
 <div style=\"page-break-after: always\"></div>
 
-- -in combination with docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.
-- -in combination with an aromatase inhibitor for the treatment of postmenopausal patients with hormone-receptor positive MBC, not previously treated with trastuzumab.
+- in combination with docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.
+
+- in combination with an aromatase inhibitor for the treatment of postmenopausal patients with hormone-receptor positive MBC, not previously treated with trastuzumab.
 
 ## Early breast cancer
 
 Ontruzant is indicated for the treatment of adult patients with HER2 positive early breast cancer (EBC).
 
-- -following surgery, chemotherapy (neoadjuvant or adjuvant) and radiotherapy (if applicable) (see section 5.1).
-- -following adjuvant chemotherapy with doxorubicin and cyclophosphamide, in combination with paclitaxel or docetaxel.
-- -in combination with adjuvant chemotherapy consisting of docetaxel and carboplatin.
-- -in combination with neoadjuvant chemotherapy followed by adjuvant Ontruzant therapy, for locally advanced (including inflammatory) disease or tumours &gt;2 cm in diameter (see sections 4.4 and 5.1).
+- following surgery, chemotherapy (neoadjuvant or adjuvant) and radiotherapy (if applicable) (see section 5.1).
+
+- following adjuvant chemotherapy with doxorubicin and cyclophosphamide, in combination with paclitaxel or docetaxel.
+
+- in combination with adjuvant chemotherapy consisting of docetaxel and carboplatin.
+
+- in combination with neoadjuvant chemotherapy followed by adjuvant Ontruzant therapy, for locally advanced (including inflammatory) disease or tumours &gt;2 cm in diameter (see sections 4.4 and 5.1).
 
 Ontruzant should only be used in patients with metastatic or early breast cancer whose tumours have either HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay (see sections 4.4 and 5.1).
 
@@ -148,7 +152,7 @@ If left ventricular ejection fraction (LVEF) percentage drops ≥10 points from 
 
 ## Missed doses
 
-If the patient has missed a dose of Ontruzant by one week or less, then the usual maintenance dose (weekly regimen: 2 mg/kg; three-weekly regimen: 6 mg/kg) should be administered as soon as possible. Do not wait until the next planned cycle. Subsequent maintenance doses  should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
+If the patient has missed a dose of Ontruzant by one week or less, then the usual maintenance dose (weekly regimen: 2 mg/kg; three-weekly regimen: 6 mg/kg) should be administered as soon as possible. Do not wait until the next planned cycle. Subsequent maintenance doses should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
 
 If the patient has missed a dose of Ontruzant by more than one week, a re-loading dose of Ontruzant should be administered over approximately 90 minutes (weekly regimen: 4 mg/kg; three-weekly regimen: 8 mg/kg) as soon as possible. Subsequent Ontruzant maintenance doses (weekly regimen: 2 mg/kg; three-weekly regimen 6 mg/kg respectively) should be administered 7 days or 21 days later according to the weekly or three-weekly schedules respectively.
 
@@ -183,7 +187,7 @@ HER2 testing must be performed in a specialised laboratory which can ensure adeq
 
 <div style=\"page-break-after: always\"></div>
 
-Currently no data from clinical trials are available on re-treatment of patients with previous exposure to trastuzumab in the adjuvant setting .
+Currently no data from clinical trials are available on re-treatment of patients with previous exposure to trastuzumab in the adjuvant setting.
 
 ## Cardiac dysfunction
 
@@ -197,7 +201,7 @@ Trastuzumab may persist in the circulation for up to 7 months after stopping tra
 
 Formal cardiological assessment should be considered in patients in whom there are cardiovascular concerns following baseline screening. In all patients cardiac function should be monitored during treatment (e.g. every 12 weeks). Monitoring may help to identify patients who develop cardiac dysfunction. Patients who develop asymptomatic cardiac dysfunction may benefit from more frequent monitoring (e.g. every 6-8 weeks). If patients have a continued decrease in left ventricular function, but remain asymptomatic, the physician should consider discontinuing therapy if no clinical benefit of trastuzumab therapy has been seen.
 
-The safety of continuation or resumption of trastuzumab in patients who experience cardiac dysfunction has not been prospectively studied. If LVEF percentage drops ≥ 10 points from baseline AND to below 50%, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks. If LVEF has not improved, or declined further, or symptomatic CHF has developed, discontinuation of trastuzumab should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks. All such patients should be referred for assessment by a cardiologist and followed up.
+The safety of continuation or resumption of trastuzumab in patients who experience cardiac dysfunction has not been prospectively studied. If LVEF percentage drops ≥10 points from baseline AND to below 50%, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks. If LVEF has not improved, or declined further, or symptomatic CHF has developed, discontinuation of trastuzumab should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks. All such patients should be referred for assessment by a cardiologist and followed up.
 
 If symptomatic cardiac failure develops during trastuzumab therapy, it should be treated with standard medicinal products for CHF. Most patients who developed CHF or asymptomatic cardiac dysfunction in pivotal trials improved with standard CHF treatment consisting of an angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB) and a beta-blocker. The majority of patients with cardiac symptoms and evidence of a clinical benefit of trastuzumab treatment continued on therapy without additional clinical cardiac events.
 
@@ -247,7 +251,7 @@ Initial improvement followed by clinical deterioration and delayed reactions wit
 
 ## Pulmonary events
 
-Severe pulmonary events have been reported with the use of trastuzumab in the post-marketing setting (see section 4.8). These events have occasionally been fatal. In addition, cases of interstitial lung disease including lung infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency have been reported. Risk factors associated with interstitial lung disease include prior or concomitant therapy with other anti-neoplastic therapies known to be associated with it such as taxanes, gemcitabine, vinorelbine and radiation therapy. These events may occur as part of an infusion-related reaction or with a delayed onset. Patients experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of pulmonary events. Therefore, these patients should not be treated with trastuzumab (see section 4.3).  Caution should be exercised for pneumonitis, especially in patients being treated concomitantly with taxanes.
+Severe pulmonary events have been reported with the use of trastuzumab in the post-marketing setting (see section 4.8). These events have occasionally been fatal. In addition, cases of interstitial lung disease including lung infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency have been reported. Risk factors associated with interstitial lung disease include prior or concomitant therapy with other anti-neoplastic therapies known to be associated with it such as taxanes, gemcitabine, vinorelbine and radiation therapy. These events may occur as part of an infusion-related reaction or with a delayed onset. Patients experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of pulmonary events. Therefore, these patients should not be treated with trastuzumab (see section 4.3). Caution should be exercised for pneumonitis, especially in patients being treated concomitantly with taxanes.
 
 ## Excipient with known effect
 
@@ -267,7 +271,7 @@ No formal drug interaction studies have been performed. Clinically significant i
 
 ## Effect of trastuzumab on the pharmacokinetics of other antineoplastic agents
 
-Pharmacokinetic data from studies BO15935 and M77004 in women with HER2-positive MBC suggested that exposure to paclitaxel and doxorubicin (and their major metabolites 6α hydroxyl-paclitaxel, POH, and doxorubicinol, DOL) was not altered in the presence of trastuzumab (8 mg/kg or 4 mg/kg loading dose as an intravenous infusion followed by 6 mg/kg q3w or 2 mg/kg q1w infusion, respectively).
+Pharmacokinetic data from studies BO15935 and M77004 in women with HER2-positive MBC suggested that exposure to paclitaxel and doxorubicin (and their major metabolites 6-α hydroxyl-paclitaxel, POH, and doxorubicinol, DOL) was not altered in the presence of trastuzumab (8 mg/kg or 4 mg/kg loading dose as an intravenous infusion followed by 6 mg/kg q3w or 2 mg/kg q1w infusion, respectively).
 
 However, trastuzumab may elevate the overall exposure of one doxorubicin metabolite (7-deoxy-13 dihydro-doxorubicinone, D7D). The bioactivity of D7D and the clinical impact of the elevation of this metabolite was unclear.
 
@@ -301,7 +305,7 @@ In the post-marketing setting, cases of foetal renal growth and/or function impa
 
 ## Breast-feeding
 
-A study conducted in Cynomolgus monkeys at doses 25 times that of the weekly human maintenance dose of 2 mg/kg trastuzumab intravenous formulation from days 120 to 150 of pregnancy demonstrated that trastuzumab is secreted in the milk postpartum. The exposure to trastuzumab in utero and t he presence of trastuzumab in the serum of infant monkeys was not associated with any adverse effects on their growth or development from birth to 1 month of age. It is not known whether trastuzumab is secreted in human milk. As human IgG1 is secreted into human milk, and the potential for harm to the infant is unknown, women should not breast-feed during trastuzumab therapy and for 7 months after the last dose.
+A study conducted in Cynomolgus monkeys at doses 25 times that of the weekly human maintenance dose of 2 mg/kg trastuzumab intravenous formulation from days 120 to 150 of pregnancy demonstrated that trastuzumab is secreted in the milk postpartum. The exposure to trastuzumab in utero and the presence of trastuzumab in the serum of infant monkeys was not associated with any adverse effects on their growth or development from birth to 1 month of age. It is not known whether trastuzumab is secreted in human milk. As human IgG1 is secreted into human milk, and the potential for harm to the infant is unknown, women should not breast-feed during trastuzumab therapy and for 7 months after the last dose.
 
 ## Fertility
 
@@ -321,7 +325,7 @@ Amongst the most serious and/or common adverse reactions reported in Ontruzant u
 
 ## Tabulated list of adverse reactions
 
-In this section, the following categories of frequency have been used: very common ( ≥ 1/10), common (≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+In this section, the following categories of frequency have been used: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Presented in Table 1 are adverse reactions that have been reported in association with the use of intravenous trastuzumab alone or in combination with chemotherapy in pivotal clinical trials and in the post-marketing setting.
 
@@ -421,58 +425,58 @@ Table 1 Undesirable effects reported with intravenous trastuzumab monotherapy or
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ                                         | Adverse reaction                            | Frequency             |
-|------------------------------------------------------|---------------------------------------------|-----------------------|
-| class Gastrointestinal disorders                     | Diarrhoea                                   | Very common           |
-| class Gastrointestinal disorders                     | Vomiting                                    | Very common           |
-| class Gastrointestinal disorders                     | Nausea                                      | Very common           |
-| class Gastrointestinal disorders                     | 1 Lip swelling                              | Very common           |
-| class Gastrointestinal disorders                     | Abdominal pain                              | Very common           |
-| class Gastrointestinal disorders                     | Dyspepsia                                   | Very common           |
-| class Gastrointestinal disorders                     | Constipation                                | Very common           |
-| class Gastrointestinal disorders                     | Stomatitis                                  | Very common           |
-| class Gastrointestinal disorders                     | Haemorrhoids                                | Common                |
-| class Gastrointestinal disorders                     | Dry mouth                                   | Common                |
-| Hepatobiliary disorders                              | Hepatocellular injury                       | Common                |
-| Hepatobiliary disorders                              | Hepatitis                                   | Common                |
-| Hepatobiliary disorders                              | Liver tenderness                            | Common                |
-| Hepatobiliary disorders                              | Jaundice                                    | Rare                  |
-| Skin and subcutaneous tissue disorders               | Erythema                                    | Very common           |
-| Skin and subcutaneous tissue disorders               | Rash                                        | Very common           |
-| Skin and subcutaneous tissue disorders               | 1 Swelling face                             | Very common           |
-| Skin and subcutaneous tissue disorders               | Alopecia                                    | Very common           |
-| Skin and subcutaneous tissue disorders               | Nail disorder                               | Very common           |
-| Skin and subcutaneous tissue disorders               | Palmar-plantar erythrodysaesthesia syndrome | Very common           |
-| Skin and subcutaneous tissue disorders               | Acne                                        | Common                |
-| Skin and subcutaneous tissue disorders               | Dry skin                                    | Common                |
-| Skin and subcutaneous tissue disorders               | Ecchymosis                                  | Common                |
-| Skin and subcutaneous tissue disorders               | Hyperhydrosis                               | Common                |
-| Skin and subcutaneous tissue disorders               | Maculopapular rash                          | Common                |
-| Skin and subcutaneous tissue disorders               | Pruritus                                    | Common                |
-| Skin and subcutaneous tissue disorders               | Onychoclasis                                | Common                |
-| Skin and subcutaneous tissue disorders               | Dermatitis                                  | Common                |
-| Skin and subcutaneous tissue disorders               | Urticaria                                   | Uncommon              |
-| Musculoskeletal and connective tissue disorders      | Angioedema Arthralgia                       | Not known Very common |
-| Musculoskeletal and connective tissue disorders      | 1 Muscle tightness                          | Very common           |
-| Musculoskeletal and connective tissue disorders      | Myalgia                                     | Very common           |
-| Musculoskeletal and connective tissue disorders      | Arthritis                                   | Common                |
-| Musculoskeletal and connective tissue disorders      | Back pain                                   | Common                |
-| Musculoskeletal and connective tissue disorders      | Bone pain                                   | Common                |
-| Musculoskeletal and connective tissue disorders      | Muscle spasms                               | Common                |
-| Musculoskeletal and connective tissue disorders      | Neck Pain                                   | Common                |
-| Renal and urinary disorders                          | Renal disorder                              | Common                |
-| Renal and urinary disorders                          | Glomerulonephritis membranous               | Not known             |
-| Renal and urinary disorders                          | Glomerulonephropathy                        | Not known             |
-| Renal and urinary disorders                          | Renal failure                               | Not known             |
-| Pregnancy, puerperium and perinatal conditions       | Oligohydramnios                             | Not known             |
-| Pregnancy, puerperium and perinatal conditions       | Renal hypoplasia                            | Not known             |
-| Pregnancy, puerperium and perinatal conditions       | Pulmonary hypoplasia                        | Not known             |
-| Reproductive system and breast disorders             | Breast inflammation/mastitis                | Common                |
-| General disorders and administration site conditions | Asthenia                                    | Very common           |
-| General disorders and administration site conditions | Chest pain                                  | Very common           |
-| General disorders and administration site conditions | Chills                                      | Very common           |
-| General disorders and administration site conditions | Fatigue                                     | Very common           |
-| General disorders and administration site conditions | Influenza-like symptoms                     | Very common           |
+| System organ                                         | Adverse reaction                            | Frequency          |
+|------------------------------------------------------|---------------------------------------------|--------------------|
+| class Gastrointestinal disorders                     | Diarrhoea                                   | Very common        |
+| class Gastrointestinal disorders                     | Vomiting                                    | Very common        |
+| class Gastrointestinal disorders                     | Nausea                                      | Very common        |
+| class Gastrointestinal disorders                     | 1 Lip swelling                              | Very common        |
+| class Gastrointestinal disorders                     | Abdominal pain                              | Very common        |
+| class Gastrointestinal disorders                     | Dyspepsia                                   | Very common        |
+| class Gastrointestinal disorders                     | Constipation                                | Very common        |
+| class Gastrointestinal disorders                     | Stomatitis                                  | Very common        |
+| class Gastrointestinal disorders                     | Haemorrhoids                                | Common             |
+| class Gastrointestinal disorders                     | Dry mouth                                   | Common             |
+| Hepatobiliary disorders                              | Hepatocellular injury                       | Common             |
+| Hepatobiliary disorders                              | Hepatitis                                   | Common             |
+| Hepatobiliary disorders                              | Liver tenderness                            | Common             |
+| Hepatobiliary disorders                              | Jaundice                                    | Rare               |
+| Skin and subcutaneous tissue disorders               | Erythema                                    | Very common        |
+| Skin and subcutaneous tissue disorders               | Rash                                        | Very common        |
+| Skin and subcutaneous tissue disorders               | 1 Swelling face                             | Very common        |
+| Skin and subcutaneous tissue disorders               | Alopecia                                    | Very common        |
+| Skin and subcutaneous tissue disorders               | Nail disorder                               | Very common        |
+| Skin and subcutaneous tissue disorders               | Palmar-plantar erythrodysaesthesia syndrome | Very common        |
+| Skin and subcutaneous tissue disorders               | Acne                                        | Common             |
+| Skin and subcutaneous tissue disorders               | Dry skin                                    | Common             |
+| Skin and subcutaneous tissue disorders               | Ecchymosis                                  | Common             |
+| Skin and subcutaneous tissue disorders               | Hyperhydrosis                               | Common             |
+| Skin and subcutaneous tissue disorders               | Maculopapular rash                          | Common             |
+| Skin and subcutaneous tissue disorders               | Pruritus                                    | Common             |
+| Skin and subcutaneous tissue disorders               | Onychoclasis                                | Common             |
+| Skin and subcutaneous tissue disorders               | Dermatitis                                  | Common             |
+| Skin and subcutaneous tissue disorders               | Urticaria Angioedema                        | Uncommon Not known |
+| Musculoskeletal and connective tissue disorders      | Arthralgia                                  | Very common        |
+| Musculoskeletal and connective tissue disorders      | 1 Muscle tightness                          | Very common        |
+| Musculoskeletal and connective tissue disorders      | Myalgia                                     | Very common        |
+| Musculoskeletal and connective tissue disorders      | Arthritis                                   | Common             |
+| Musculoskeletal and connective tissue disorders      | Back pain                                   | Common             |
+| Musculoskeletal and connective tissue disorders      | Bone pain                                   | Common             |
+| Musculoskeletal and connective tissue disorders      | Muscle spasms                               | Common             |
+| Musculoskeletal and connective tissue disorders      | Neck Pain Pain in extremity                 | Common Common      |
+| Renal and urinary disorders                          | Renal disorder                              | Common             |
+| Renal and urinary disorders                          | Glomerulonephritis membranous               | Not known          |
+| Renal and urinary disorders                          | Glomerulonephropathy                        | Not known          |
+| Renal and urinary disorders                          | Renal failure                               | Not known          |
+| Pregnancy, puerperium and perinatal conditions       | Oligohydramnios                             | Not known          |
+| Pregnancy, puerperium and perinatal conditions       | Renal hypoplasia                            | Not known          |
+| Pregnancy, puerperium and perinatal conditions       | Pulmonary hypoplasia                        | Not known          |
+| Reproductive system and breast disorders             | Breast inflammation/mastitis                | Common             |
+| General disorders and administration site conditions | Asthenia                                    | Very common        |
+| General disorders and administration site conditions | Chest pain                                  | Very common        |
+| General disorders and administration site conditions | Chills                                      | Very common        |
+| General disorders and administration site conditions | Fatigue                                     | Very common        |
+| General disorders and administration site conditions | Influenza-like symptoms                     | Very common        |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -497,17 +501,15 @@ In 3 pivotal clinical trials of adjuvant trastuzumab given in combination with c
 
 When trastuzumab was administered after completion of adjuvant chemotherapy NYHA Class III-IV heart failure was observed in 0.6% of patients in the one-year arm after a median follow-up of 12 months. In study BO16348, after a median follow-up of 8 years the incidence of severe CHF (NYHA Class III &amp; IV) in the trastuzumab 1-year treatment arm was 0.8%, and the rate of mild symptomatic and asymptomatic left ventricular dysfunction was 4.6%.
 
-Reversibility of severe CHF (defined as a sequence of at least two consecutive LVEF values ≥ 50% after the event) was evident for 71.4% of trastuzumab-treated patients. Reversibility of mild symptomatic and asymptomatic left ventricular dysfunction was demonstrated for 79.5% of patients. Approximately 17% of cardiac dysfunction related events occurred after completion of trastuzumab.
+Reversibility of severe CHF (defined as a sequence of at least two consecutive LVEF values ≥50% after the event) was evident for 71.4% of trastuzumab-treated patients. Reversibility of mild symptomatic and asymptomatic left ventricular dysfunction was demonstrated for 79.5% of patients. Approximately 17% of cardiac dysfunction related events occurred after completion of trastuzumab.
 
 In the pivotal metastatic trials of intravenous trastuzumab, the incidence of cardiac dysfunction varied between 9% and 12% when it was combined with paclitaxel compared with 1%-4% for paclitaxel alone. For monotherapy, the rate was 6%-9%. The highest rate of cardiac dysfunction was seen in patients receiving trastuzumab concurrently with anthracycline/cyclophosphamide (27%), and was significantly higher than for anthracycline/cyclophosphamide alone (7%-10%). In a subsequent trial with prospective monitoring of cardiac function, the incidence of symptomatic CHF was 2.2% in patients receiving trastuzumab and docetaxel, compared with 0% in patients receiving docetaxel alone. Most of the patients (79%) who developed cardiac dysfunction in these trials experienced an improvement after receiving standard treatment for CHF.
 
 ## Infusion reactions, allergic-like reactions and hypersensitivity
 
-It is estimated that approximately 40% of patients who are treated with trastuzumab will experience some form of infusion-related reaction. However, the majority of infusion-related reactions are mild
+It is estimated that approximately 40% of patients who are treated with trastuzumab will experience some form of infusion-related reaction. However, the majority of infusion-related reactions are mild to moderate in intensity (NCI-CTC grading system) and tend to occur earlier in treatment, i.e. during infusions one, two and three and lessen in frequency in subsequent infusions. Reactions include chills, fever, dyspnoea, hypotension, wheezing, bronchospasm, tachycardia, reduced oxygen saturation, respiratory distress, rash, nausea, vomiting and headache (see section 4.4). The rate of infusion-related reactions of all grades varied between studies depending on the indication, the data collection methodology, and whether trastuzumab was given concurrently with chemotherapy or as monotherapy.
 
 <div style=\"page-break-after: always\"></div>
-
-to moderate in intensity (NCI-CTC grading system) and tend to occur earlier in treatment, i.e. during infusions one, two and three and lessen in frequency in subsequent infusions. Reactions include chills, fever, dyspnoea, hypotension, wheezing, bronchospasm, tachycardia, reduced oxygen saturation, respiratory distress, rash, nausea, vomiting and headache (see section 4.4). The rate of infusion-related reactions of all grades varied between studies depending on the indication, the data collection methodology, and whether trastuzumab was given concurrently with chemotherapy or as monotherapy.
 
 Severe anaphylactic reactions requiring immediate additional intervention can occur usually during either the first or second infusion of trastuzumab (see section 4.4) and have been associated with a fatal outcome.
 
@@ -553,7 +555,7 @@ Trastuzumab is a recombinant humanised IgG1 monoclonal antibody against the huma
 
 ## Mechanism of action
 
-Trastuzumab binds with high affinity and specificity to sub-domain IV, a juxta-membrane region of HER2's extracellular domain. Binding of trastuzumab to HER2 inhibits ligand-independent HER2 signalling and prevents the proteolytic cleavage of its extracellular domain, an activation mechanism of HER2. As a result, trastuzumab has been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumour cells that overexpress HER2. Additionally, trastuzumab is a potent mediator of antibody-dependent cell-mediated cytotoxicity (ADCC). In vitro , trastuzumab-mediated ADCC has been shown to be preferentially exerted on HER2 overexpressing cancer cells compared with cancer cells that do not overexpress HER2.
+Trastuzumab binds with high affinity and specificity to sub-domain IV, a juxta-membrane region of HER2's extracellular domain. Binding of trastuzumab to HER2 inhibits ligand-independent HER2 signalling and prevents the proteolytic cleavage of its extracellular domain, an activation mechanism of HER2. As a result, trastuzumab has been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumour cells that overexpress HER2. Additionally, trastuzumab is a potent mediator of antibody-dependent cell-mediated cytotoxicity (ADCC). In vitro, trastuzumab-mediated ADCC has been shown to be preferentially exerted on HER2 overexpressing cancer cells compared with cancer cells that do not overexpress HER2.
 
 ## Detection of HER2 overexpression or HER2 gene amplification
 
@@ -603,12 +605,12 @@ The recommended scoring system to evaluate the IHC staining patterns is as state
 
 Table 3 Recommended scoring system to evaluate the IHC staining patterns in gastric cancer
 
-| Score   | Surgical specimen - staining pattern                                                                                         | Biopsy specimen - staining pattern                                                                                                                    | HER2 overexpression assessment   |
-|---------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| 0       | No reactivity or membranous reactivity in <10% of tumour cells                                                               | No reactivity or membranous reactivity in any tumour cell                                                                                             | Negative                         |
-| 1+      | Faint ⁄ barely perceptible membranous reactivity in ≥ 10% of tumour cells; cells are reactive only in part of their membrane | Tumour cell cluster with a fain t⁄ barely perceptible membranous reactivity irrespective of percentage of tumour cells stained                        | Negative                         |
-| 2+      | Weak to moderate complete, basolateral or lateral membranous reactivity in ≥10 %of tumour cells                              | Tumour cell cluster with a weak to moderate complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained | Equivocal                        |
-| 3+      | Strong complete, basolateral or lateral membranous reactivity in ≥10 %of tumour cells                                        | Tumour cell cluster with a strong complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained           | Positive                         |
+| Score   | Surgical specimen - staining pattern                                                                                        | Biopsy specimen - staining pattern                                                                                                                    | HER2 overexpression assessment   |
+|---------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 0       | No reactivity or membranous reactivity in <10% of tumour cells                                                              | No reactivity or membranous reactivity in any tumour cell                                                                                             | Negative                         |
+| 1+      | Faint ⁄ barely perceptible membranous reactivity in ≥10% of tumour cells; cells are reactive only in part of their membrane | Tumour cell cluster with a faint⁄barely perceptible membranous reactivity irrespective of percentage of tumour cells stained                          | Negative                         |
+| 2+      | Weak to moderate complete, basolateral or lateral membranous reactivity in ≥10% of tumour cells                             | Tumour cell cluster with a weak to moderate complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained | Equivocal                        |
+| 3+      | Strong complete, basolateral or lateral membranous reactivity in ≥10% of tumour cells                                       | Tumour cell cluster with a strong complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained           | Positive                         |
 
 In general, SISH or FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2.
 
@@ -618,7 +620,7 @@ In general, SISH or FISH is considered positive if the ratio of the HER2 gene co
 
 Trastuzumab has been used in clinical trials as monotherapy for patients with MBC who have tumours that overexpress HER2 and who have failed one or more chemotherapy regimens for their metastatic disease (trastuzumab alone).
 
-Trastuzumab has also been used in combination with paclitaxel or docetaxel for the treatment of patients who have not received chemotherapy for their metastatic disease. Patients who had previously received anthracycline-based adjuvant chemotherapy were treated with paclitaxel (175 mg/m 2 infused over 3 hours) with or without trastuzumab. In the pivotal trial of docetaxel (100 mg/m 2  infused over 1 hour) with or without trastuzumab, 60% of the patients had received prior anthracycline-based adjuvant chemotherapy. Patients were treated with trastuzumab until progression of disease.
+Trastuzumab has also been used in combination with paclitaxel or docetaxel for the treatment of patients who have not received chemotherapy for their metastatic disease. Patients who had previously received anthracycline-based adjuvant chemotherapy were treated with paclitaxel (175 mg/m 2 infused over 3 hours) with or without trastuzumab. In the pivotal trial of docetaxel (100 mg/m 2 infused over 1 hour) with or without trastuzumab, 60% of the patients had received prior anthracycline-based adjuvant chemotherapy. Patients were treated with trastuzumab until progression of disease.
 
 The efficacy of trastuzumab in combination with paclitaxel in patients who did not receive prior adjuvant anthracyclines has not been studied. However, trastuzumab plus docetaxel was efficacious in patients whether or not they had received prior adjuvant anthracyclines.
 
@@ -634,13 +636,12 @@ The efficacy results from the monotherapy and combination therapy studies are su
 
 Table 4 Efficacy results from the monotherapy and combination therapy studies
 
-| Parameter                                    | Monotherapy         | Combination therapy                | Combination therapy   | Combination therapy               | Combination therapy   |
-|----------------------------------------------|---------------------|------------------------------------|-----------------------|-----------------------------------|-----------------------|
-|                                              | Trastuzumab 1 N=172 | Trastuzumab plus paclitaxel 2 N=68 | Paclitaxel 2 N=77     | Trastuzumab plus docetaxel 3 N=92 | Docetaxel 3 N=94      |
-| Response rate (95%CI)                        | 18% (13-25)         | 49% (36-61)                        | 17% (9-27)            | 61% (50-71)                       | 34% (25-45)           |
-| Median duration of response (months) (95%CI) | 9.1 (5.6-10.3)      | 8.3 (7.3-8.8)                      | 4.6 (3.7-7.4)         | 11.7 (9.3-15.0)                   | 5.7 (4.6-7.6)         |
-| Median TTP (months) (95%CI)                  | 3.2 (2.6-3.5)       | 7.1 (6.2-12.0)                     | 3.0 (2.0-4.4)         | 11.7 (9.2-13.5)                   | 6.1 (5.4-7.2)         |
-| Median survival (months) (95%CI)             | 16.4 (12.3-ne)      | 24.8 (18.6-33.7)                   | 17.9 (11.2-23.8)      | 31.2 (27.3-40.8)                  | 22.74 (19.1-30.8)     |
+| Parameter                                    | Monotherapy - Trastuzumab 1 N=172   | Combination therapy - Trastuzumab plus paclitaxel 2 N=68   | Combination therapy - Paclitaxel 2 N=77   | Combination therapy - Trastuzumab plus docetaxel 3 N=92   | Combination therapy - Docetaxel 3 N=94   |
+|----------------------------------------------|-------------------------------------|------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------|------------------------------------------|
+| Response rate (95%CI)                        | 18% (13-25)                         | 49% (36-61)                                                | 17% (9-27)                                | 61% (50-71)                                               | 34% (25-45)                              |
+| Median duration of response (months) (95%CI) | 9.1 (5.6-10.3)                      | 8.3 (7.3-8.8)                                              | 4.6 (3.7-7.4)                             | 11.7 (9.3-15.0)                                           | 5.7 (4.6-7.6)                            |
+| Median TTP (months) (95%CI)                  | 3.2 (2.6-3.5)                       | 7.1 (6.2-12.0)                                             | 3.0 (2.0-4.4)                             | 11.7 (9.2-13.5)                                           | 6.1 (5.4-7.2)                            |
+| Median survival (months) (95%CI)             | 16.4 (12.3-ne)                      | 24.8 (18.6-33.7)                                           | 17.9 (11.2-23.8)                          | 31.2 (27.3-40.8)                                          | 22.74 (19.1-30.8)                        |
 
 1. Study H0649g: IHC3+ patient subset
 2. Study H0648g: IHC3+ patient subset
@@ -656,19 +657,17 @@ The efficacy results from the non-comparative monotherapy and combination therap
 
 Table 5 Efficacy results from the non-comparative monotherapy and combination therapy studies
 
-| Parameter                                    | Monotherapy         | Monotherapy        | Combination therapy                | Combination therapy                |
-|----------------------------------------------|---------------------|--------------------|------------------------------------|------------------------------------|
-|                                              | Trastuzumab 1 N=105 | Trastuzumab 2 N=72 | Trastuzumab plus paclitaxel 3 N=32 | Trastuzumab plus docetaxel 4 N=110 |
-| Response rate (95%CI)                        | 24% (15-35)         | 27% (14-43)        | 59% (41-76)                        | 73% (63-81)                        |
-| Median duration of response (months) (range) | 10.1 (2.8-35.6)     | 7.9 (2.1-18.8)     | 10.5 (1.8-21)                      | 13.4 (2.1-55.1)                    |
-| Median TTP (months) (95%CI)                  | 3.4 (2.8-4.1)       | 7.7 (4.2-8.3)      | 12.2 (6.2-ne)                      | 13.6 (11-16)                       |
+| Parameter                                    | Monotherapy - Trastuzumab 1 N=105   | Monotherapy - Trastuzumab 2 N=72   | Combination therapy - Trastuzumab plus paclitaxel 3 N=32   | Combination therapy - Trastuzumab plus docetaxel 4 N=110   |
+|----------------------------------------------|-------------------------------------|------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
+| Response rate (95%CI)                        | 24% (15-35)                         | 27% (14-43)                        | 59% (41-76)                                                | 73% (63-81)                                                |
+| Median duration of response (months) (range) | 10.1 (2.8-35.6)                     | 7.9 (2.1-18.8)                     | 10.5 (1.8-21)                                              | 13.4 (2.1-55.1)                                            |
+| Median TTP (months) (95%CI)                  | 3.4 (2.8-4.1)                       | 7.7 (4.2-8.3)                      | 12.2 (6.2-ne)                                              | 13.6 (11-16)                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Parameter                        | Monotherapy         | Monotherapy        | Combination therapy                | Combination therapy                |
-|----------------------------------|---------------------|--------------------|------------------------------------|------------------------------------|
-|                                  | Trastuzumab 1 N=105 | Trastuzumab 2 N=72 | Trastuzumab plus paclitaxel 3 N=32 | Trastuzumab plus docetaxel 4 N=110 |
-| Median Survival (months) (95%CI) | ne                  | ne                 | ne                                 | 47.3 (32-ne)                       |
+| Parameter                        | Monotherapy - Trastuzumab 1 N=105   | Monotherapy - Trastuzumab 2 N=72   | Combination therapy - Trastuzumab plus paclitaxel 3 N=32   | Combination therapy - Trastuzumab plus docetaxel 4 N=110   |
+|----------------------------------|-------------------------------------|------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
+| Median Survival (months) (95%CI) | ne                                  | ne                                 | ne                                                         | 47.3 (32-ne)                                               |
 
 TTP = time to progression; \"ne\" indicates that it could not be estimated or it was not yet reached.
 
@@ -685,9 +684,9 @@ The frequency of progression in the liver was significantly reduced in patients 
 
 Early breast cancer is defined as non-metastatic primary invasive carcinoma of the breast. In the adjuvant treatment setting, trastuzumab was investigated in 4 large multicentre, randomised, trials.
 
-- -Study BO16348 was designed to compare one and two years of three-weekly trastuzumab treatment versus observation in patients with HER2 positive EBC following surgery, established chemotherapy and radiotherapy (if applicable). In addition, comparison of two years of trastuzumab treatment versus one year of trastuzumab treatment was performed. Patients assigned to receive trastuzumab were given an initial loading dose of 8 mg/kg, followed by 6 mg/kg every three weeks for either one or two years.
-- -The NSABP B-31 and NCCTG N9831 studies that comprise the joint analysis were designed to investigate the clinical utility of combining trastuzumab treatment with paclitaxel following AC chemotherapy, additionally the NCCTG N9831 study also investigated adding trastuzumab sequentially to AC →P c hemotherapy in patients with HER2 positive EBC following surgery.
-- -The BCIRG 006 study was designed to investigate combining trastuzumab treatment with docetaxel either following AC chemotherapy or in combination with docetaxel and carboplatin in patients with HER2 positive EBC following surgery.
+- Study BO16348 was designed to compare one and two years of three-weekly trastuzumab treatment versus observation in patients with HER2 positive EBC following surgery, established chemotherapy and radiotherapy (if applicable). In addition, comparison of two years of trastuzumab treatment versus one year of trastuzumab treatment was performed. Patients assigned to receive trastuzumab were given an initial loading dose of 8 mg/kg, followed by 6 mg/kg every three weeks for either one or two years.
+- The NSABP B-31 and NCCTG N9831 studies that comprise the joint analysis were designed to investigate the clinical utility of combining trastuzumab treatment with paclitaxel following AC chemotherapy, additionally the NCCTG N9831 study also investigated adding trastuzumab sequentially to AC→P chemotherapy in patients with HER2 positive EBC following surgery.
+- The BCIRG 006 study was designed to investigate combining trastuzumab treatment with docetaxel either following AC chemotherapy or in combination with docetaxel and carboplatin in patients with HER2 positive EBC following surgery.
 
 Early breast cancer in the HERA trial was limited to operable, primary, invasive adenocarcinoma of the breast, with axillary nodes positive or axillary nodes negative if tumours at least 1 cm in diameter.
 
@@ -701,29 +700,28 @@ The efficacy results from the BO16348 trial following 12 months* and 8 years** m
 
 Table 6 Efficacy results from Study BO16348
 
-|                                 | Median follow-up 12 months*   | Median follow-up 12 months*   | Median follow-up 8 years**   | Median follow-up 8 years**   |
-|---------------------------------|-------------------------------|-------------------------------|------------------------------|------------------------------|
-| Parameter                       | Observation N=1693            | Trastuzumab 1 Year N=1693     | Observation N=1697***        | Trastuzumab 1 Year N=1702*** |
-| Disease-free survival           |                               |                               |                              |                              |
-| - No. patients with event       | 219 (12.9%)                   | 127 (7.5%)                    | 570 (33.6%)                  | 471 (27.7%)                  |
-| - No. patients without event    | 1474 (87.1%)                  | 1566 (92.5%)                  | 1127 (66.4%)                 | 1231 (72.3%)                 |
-| P-value versus observation      | <0.0001                       | <0.0001                       | < 0.0001                     | < 0.0001                     |
-| Hazard ratio versus observation | 0.54                          | 0.54                          | 0.76                         | 0.76                         |
-| Recurrence-free survival        |                               |                               |                              |                              |
-| - No. patients with event       | 208 (12.3%)                   | 113 (6.7%)                    | 506 (29.8%)                  | 399 (23.4%)                  |
-| - No. patients without event    | 1485 (87.7%)                  | 1580 (93.3%)                  | 1191 (70.2%)                 | 1303 (76.6%)                 |
-| P-value versus observation      | <0.0001                       | <0.0001                       | <0.0001                      | <0.0001                      |
-| Hazard ratio versus observation | 0.51                          | 0.51                          | 0.73                         | 0.73                         |
-| Distant disease-free survival   |                               |                               |                              |                              |
-| - No. patients with event       | 184 (10.9%)                   | 99 (5.8%)                     | 488 (28.8%)                  | 399 (23.4%)                  |
-| - No. patients without event    | 1508 (89.1%)                  | 1594 (94.6%)                  | 1209 (71.2%)                 | 1303 (76.6%)                 |
-| P-value versus observation      | <0.0001                       | <0.0001                       | <0.0001                      | <0.0001                      |
-| Hazard ratio versus observation | 0.50                          | 0.50                          | 0.76                         | 0.76                         |
-| Overall survival (death)        |                               |                               |                              |                              |
-| - No. patients with event       | 40 (2.4%)                     | 31 (1.8%)                     | 350 (20.6%)                  | 278 (16.3%)                  |
-| - No. patients without event    | 1653 (97.6%)                  | 1662 (98.2%)                  | 1347 (79.4%)                 | 1424 (83.7%)                 |
-| P-value versus observation      | 0.24                          | 0.24                          | 0.0005                       | 0.0005                       |
-| Hazard ratio versus observation | 0.75                          | 0.75                          | 0.76                         | 0.76                         |
+| Parameter                       | Median follow-up 12 months* - Observation N=1693   | Median follow-up 12 months* - Trastuzumab 1 Year N=1693   | Median follow-up 8 years** - Observation N=1697***   | Median follow-up 8 years** - Trastuzumab 1 Year N=1702***   |
+|---------------------------------|----------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------|
+| Disease-free survival           |                                                    |                                                           |                                                      |                                                             |
+| - No. patients with event       | 219 (12.9%)                                        | 127 (7.5%)                                                | 570 (33.6%)                                          | 471 (27.7%)                                                 |
+| - No. patients without event    | 1474 (87.1%)                                       | 1566 (92.5%)                                              | 1127 (66.4%)                                         | 1231 (72.3%)                                                |
+| P-value versus observation      | <0.0001                                            | <0.0001                                                   | < 0.0001                                             | < 0.0001                                                    |
+| Hazard ratio versus observation | 0.54                                               | 0.54                                                      | 0.76                                                 | 0.76                                                        |
+| Recurrence-free survival        |                                                    |                                                           |                                                      |                                                             |
+| - No. patients with event       | 208 (12.3%)                                        | 113 (6.7%)                                                | 506 (29.8%)                                          | 399 (23.4%)                                                 |
+| - No. patients without event    | 1485 (87.7%)                                       | 1580 (93.3%)                                              | 1191 (70.2%)                                         | 1303 (76.6%)                                                |
+| P-value versus observation      | <0.0001                                            | <0.0001                                                   | <0.0001                                              | <0.0001                                                     |
+| Hazard ratio versus observation | 0.51                                               | 0.51                                                      | 0.73                                                 | 0.73                                                        |
+| Distant disease-free survival   |                                                    |                                                           |                                                      |                                                             |
+| - No. patients with event       | 184 (10.9%)                                        | 99 (5.8%)                                                 | 488 (28.8%)                                          | 399 (23.4%)                                                 |
+| - No. patients without event    | 1508 (89.1%)                                       | 1594 (94.6%)                                              | 1209 (71.2%)                                         | 1303 (76.6%)                                                |
+| P-value versus observation      | <0.0001                                            | <0.0001                                                   | <0.0001                                              | <0.0001                                                     |
+| Hazard ratio versus observation | 0.50                                               | 0.50                                                      | 0.76                                                 | 0.76                                                        |
+| Overall survival (death)        |                                                    |                                                           |                                                      |                                                             |
+| - No. patients with event       | 40 (2.4%)                                          | 31 (1.8%)                                                 | 350 (20.6%)                                          | 278 (16.3%)                                                 |
+| - No. patients without event    | 1653 (97.6%)                                       | 1662 (98.2%)                                              | 1347 (79.4%)                                         | 1424 (83.7%)                                                |
+| P-value versus observation      | 0.24                                               | 0.24                                                      | 0.0005                                               | 0.0005                                                      |
+| Hazard ratio versus observation | 0.75                                               | 0.75                                                      | 0.76                                                 | 0.76                                                        |
 
 *Co-primary endpoint of DFS of 1 year versus observation met the pre-defined statistical boundary
 
@@ -745,101 +743,104 @@ Doxorubicin and cyclophosphamide were administered concurrently as follows:
 
 or
 
-- -intravenous paclitaxel - 175 mg/m 2 as a continuous intravenous infusion, given every 3 weeks for 4 cycles (day 1 of each cycle).
+- intravenous paclitaxel - 175 mg/m 2 as a continuous intravenous infusion, given every 3 weeks for 4 cycles (day 1 of each cycle).
 
-The efficacy results from the joint analysis of the NSABP B-31 and NCCTG 9831 trials at the time of the definitive analysis of DFS* are summarized in Table 7. The median duration of follow-up was 1.8 years for the patients in the AC →P arm and 2.0 years for patients in the AC→PH ar m.
+The efficacy results from the joint analysis of the NSABP B-31 and NCCTG 9831 trials at the time of the definitive analysis of DFS* are summarized in Table 7. The median duration of follow-up was 1.8 years for the patients in the AC→P arm and 2.0 years for patients in the AC→PH arm.
 
 Table 7 Summary of efficacy results from the joint analysis of the NSABP B-31 and NCCTG N9831 trials at the time of the definitive DFS analysis*
 
-| Parameter                                         | AC →P (n=1679)   | AC → PH (n=1672)   | Hazard ratio vs AC →P(95% CI) p-value   |
-|---------------------------------------------------|------------------|--------------------|-----------------------------------------|
-| Disease-free survival No. patients with event (%) | 261 (15.5)       | 133 (8.0)          | 0.48 (0.39, 0.59)p<0.0001               |
-| Distant recurrence No. patients with event        | 193 (11.5)       | 96 (5.7)           | 0.47 (0.37, 0.60) p<0.0001              |
-| Death (OS event): No. patients with event         | 92 (5.5)         | 62 (3.7)           | 0.67 (0.48, 0.92) p=0.014**             |
+| Parameter                                         | AC→P (n=1679)   | AC→PH (n=1672)   | Hazard ratio vs AC→P (95% CI) p-value   |
+|---------------------------------------------------|-----------------|------------------|-----------------------------------------|
+| Disease-free survival No. patients with event (%) | 261 (15.5)      | 133 (8.0)        | 0.48 (0.39, 0.59)p<0.0001               |
+| Distant recurrence No. patients with event        | 193 (11.5)      | 96 (5.7)         | 0.47 (0.37, 0.60) p<0.0001              |
+| Death (OS event): No. patients with event         | 92 (5.5)        | 62 (3.7)         | 0.67 (0.48, 0.92) p=0.014**             |
 
-** p value for OS did not cross the pre-specified statistical boundary for comparison of AC →PH vs. AC →P
+** p value for OS did not cross the pre-specified statistical boundary for comparison of AC→PH vs. AC→P
 
-For the primary endpoint, DFS, the addition of trastuzumab to paclitaxel chemotherapy resulted in a 52% decrease in the risk of disease recurrence. The hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 11.8 percentage points (87.2% versus 75.4%) in favour of the AC →PH (trastuzumab) arm.
+For the primary endpoint, DFS, the addition of trastuzumab to paclitaxel chemotherapy resulted in a 52% decrease in the risk of disease recurrence. The hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 11.8 percentage points (87.2% versus 75.4%) in favour of the AC→PH (trastuzumab) arm.
 
 At the time of a safety update after a median of 3.5-3.8 years follow-up, an analysis of DFS reconfirms the magnitude of the benefit shown in the definitive analysis of DFS. Despite the cross-over to trastuzumab in the control arm, the addition of trastuzumab to paclitaxel chemotherapy resulted in a 52% decrease in the risk of disease recurrence. The addition of trastuzumab to paclitaxel chemotherapy also resulted in a 37% decrease in the risk of death.
 
-The pre-planned final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831 was performed when 707 deaths had occurred (median follow-up 8.3 years in the AC →PH group). Treatment with AC →PH resulted in a statistically significant improvement in OS compared with A C→P (stratified HR=0.64; 95% CI [0.55, 0.74]; log-rank p-value &lt;0.0001). At 8 years, the survival rate was estimated to be 86.9% in the A C→ PH arm and 79.4% in the A C→P arm, an absolute benefit of 7.4% (95% CI 4.9%, 10.0%).
+The pre-planned final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831 was performed when 707 deaths had occurred (median follow-up 8.3 years in the AC→PH group). Treatment with AC→PH resulted in a statistically significant improvement in OS compared with AC→P (stratified HR=0.64; 95% CI [0.55, 0.74]; log-rank p-value &lt;0.0001). At 8 years, the survival rate was estimated to be 86.9% in the AC→PH arm and 79.4% in the AC→P arm, an absolute benefit of 7.4% (95% CI 4.9%, 10.0%).
 
 The final OS results from the joint analysis of studies NSABP B-31 and NCCTG N9831 are summarized in Table 8 below:
 
-- -intravenous push doxorubicin, at 60 mg/m 2 , given every 3 weeks for 4 cycles.
-- -intravenous cyclophosphamide, at 600 mg/m 2 over 30 minutes, given every 3 weeks for 4 cycles.
+- intravenous push doxorubicin, at 60 mg/m 2 , given every 3 weeks for 4 cycles.
+- intravenous cyclophosphamide, at 600 mg/m 2 over 30 minutes, given every 3 weeks for 4 cycles.
 
 Paclitaxel, in combination with trastuzumab, was administered as follows:
 
-- -intravenous paclitaxel - 80 mg/m 2 as a continuous intravenous infusion, given every week for 12 weeks.
+- intravenous paclitaxel - 80 mg/m 2 as a continuous intravenous infusion, given every week for 12 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 8 Final overall survival analysis from the joint analysis of trials NSABP B-31 and NCCTG N9831
 
-| Parameter                                     | AC →P (N=2032)   | AC → PH (N=2031)   | p-value versus AC →P   | Hazard ratio versus AC →P(95% CI)   |
-|-----------------------------------------------|------------------|--------------------|------------------------|-------------------------------------|
-| Death (OS event): No. patients with event (%) | 418 (20.6%)      | 289 (14.2%)        | <0.0001                | 0.64 (0.55, 0.74)                   |
+| Parameter                                     | AC→P (N=2032)   | AC→PH (N=2031)   | p-value versus AC→P   | Hazard ratio versus AC→P (95% CI)   |
+|-----------------------------------------------|-----------------|------------------|-----------------------|-------------------------------------|
+| Death (OS event): No. patients with event (%) | 418 (20.6%)     | 289 (14.2%)      | <0.0001               | 0.64 (0.55, 0.74)                   |
 
 A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
 
-DFS analysis was also performed at the final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831. The updated DFS analysis results (stratified HR = 0.61; 95% CI [0.54, 0.69]) showed a similar DFS benefit compared to the definitive primary DFS analysis, despite the 24.8% patients in the AC → P arm who crossed over to receive trastuzumab. At 8 years, the disease-free survival rate was estimated to be 77.2% (95% CI: 75.4, 79.1) in the AC →PH arm, an absolute benefit of 11.8% compared with the A C→P a rm.
+DFS analysis was also performed at the final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831. The updated DFS analysis results (stratified HR = 0.61; 95% CI [0.54, 0.69]) showed a similar DFS benefit compared to the definitive primary DFS analysis, despite the 24.8% patients in the AC→P arm who crossed over to receive trastuzumab. At 8 years, the disease-free survival rate was estimated to be 77.2% (95% CI: 75.4, 79.1) in the AC→PH arm, an absolute benefit of 11.8% compared with the AC→P arm.
 
-In the BCIRG 006 study trastuzumab was administered either in combination with docetaxel, following AC chemotherapy (AC → DH) or in combination with docetaxel and carboplatin (DCarbH).
+In the BCIRG 006 study trastuzumab was administered either in combination with docetaxel, following AC chemotherapy (AC→DH) or in combination with docetaxel and carboplatin (DCarbH).
 
-## Docetaxel was administered as follows:
+Docetaxel was administered as follows:
 
-- -intravenous docetaxel - 100 mg/m 2 as an intravenous infusion over 1 hour, given every 3 weeks for 4 cycles (day 2 of first docetaxel cycle, then day 1 of each subsequent cycle)
+- intravenous docetaxel - 100 mg/m 2 as an intravenous infusion over 1 hour, given every 3 weeks for 4 cycles (day 2 of first docetaxel cycle, then day 1 of each subsequent cycle)
 
 or
 
-- -intravenous docetaxel - 75 mg/m 2 as an intravenous infusion over 1 hour, given every 3 weeks for 6 cycles (day 2 of cycle 1, then day 1 of each subsequent cycle) which was followed by:
-- -carboplatin - at target AUC=6 mg/mL/min administered by intravenous infusion over 30-60 minutes repeated every 3 weeks for a total of six cycles
+- intravenous docetaxel - 75 mg/m 2 as an intravenous infusion over 1 hour, given every 3 weeks for 6 cycles (day 2 of cycle 1, then day 1 of each subsequent cycle) which was followed by:
+- carboplatin - at target AUC=6 mg/mL/min administered by intravenous infusion over 30-60 minutes repeated every 3 weeks for a total of six cycles
 
 Trastuzumab was administered weekly with chemotherapy and 3 weekly thereafter for a total of 52 weeks.
 
-The efficacy results from the BCIRG 006 are summarized in Tables 9 and 10. The median duration of follow up was 2.9 years in the AC →D arm and 3.0 years in each of th e AC→ DH and DCarbH arms.
+The efficacy results from the BCIRG 006 are summarized in Tables 9 and 10. The median duration of follow up was 2.9 years in the AC→D arm and 3.0 years in each of the AC→DH and DCarbH arms.
 
-Table 9 Overview of efficacy analyses BCIRG 006 AC→D versus AC → DH
+Table 9 Overview of efficacy analyses BCIRG 006 AC→D versus AC→DH
 
-| Parameter                                     |   AC →D (n=1073) |   AC → DH (n=1074) | Hazard ratio vs AC →D(95 %CI) p-value   |
-|-----------------------------------------------|------------------|--------------------|-----------------------------------------|
-| Disease-free survival No. patients with event |              195 |                134 | 0.61 (0.49, 0.77) p<0.0001              |
-| Distant recurrence No. patients with event    |              144 |                 95 | 0.59 (0.46, 0.77) p<0.0001              |
-| Death (OS event) No. patients with event      |               80 |                 49 | 0.58 (0.40, 0.83) p=0.0024              |
+| Parameter                                     |   AC→D (n=1073) |   AC→DH (n=1074) | Hazard ratio vs AC→D (95% CI) p-value   |
+|-----------------------------------------------|-----------------|------------------|-----------------------------------------|
+| Disease-free survival No. patients with event |             195 |              134 | 0.61 (0.49, 0.77) p<0.0001              |
+| Distant recurrence No. patients with event    |             144 |               95 | 0.59 (0.46, 0.77) p<0.0001              |
+| Death (OS event) No. patients with event      |              80 |               49 | 0.58 (0.40, 0.83) p=0.0024              |
 
 <div style=\"page-break-after: always\"></div>
 
-Table 10 Overview of efficacy analyses BCI RG 006 AC→D versus DCarbH
+Table 10 Overview of efficacy analyses BCIRG 006 AC→D versus DCarbH
 
-| Parameter                                     |   AC →D (n=1073) |   DCarbH (n=1074) | Hazard ratio vs AC →D(95 %CI)   |
-|-----------------------------------------------|------------------|-------------------|---------------------------------|
-| Disease-free survival No. patients with event |              195 |               145 | 0.67 (0.54, 0.83) p=0.0003      |
-| Distant recurrence No. patients with event    |              144 |               103 | 0.65 (0.50, 0.84) p=0.0008      |
-| Death (OS event) No. patients with event      |               80 |                56 | 0.66 (0.47, 0.93) p=0.0182      |
+| Parameter                                     |   AC→D (n=1073) |   DCarbH (n=1074) | Hazard ratio vs AC→D (95% CI)   |
+|-----------------------------------------------|-----------------|-------------------|---------------------------------|
+| Disease-free survival No. patients with event |             195 |               145 | 0.67 (0.54, 0.83) p=0.0003      |
+| Distant recurrence No. patients with event    |             144 |               103 | 0.65 (0.50, 0.84) p=0.0008      |
+| Death (OS event) No. patients with event      |              80 |                56 | 0.66 (0.47, 0.93) p=0.0182      |
 
-AC →D = doxorubicin plus cyclophosphamide, followed by docetaxel; DCarbH = docetaxel, carboplatin and trastuzumab; CI = confidence interval
+AC→D = doxorubicin plus cyclophosphamide, followed by docetaxel; DCarbH = docetaxel, carboplatin and trastuzumab; CI = confidence interval
 
-In the BCIRG 006 study for the primary endpoint, DFS, the hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 5.8 percentage points (86.7%  versus 80.9%) in favour of the A C→DH ( trastuzumab) arm and 4.6 percentage points (85.5% versus 80.9% ) in favour of the DCarbH (trastuzumab) arm compared to A C→D.
+In the BCIRG 006 study for the primary endpoint, DFS, the hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 5.8 percentage points (86.7% versus 80.9%) in favour of the AC→DH (trastuzumab) arm and 4.6 percentage points (85.5% versus 80.9%) in favour of the DCarbH (trastuzumab) arm compared to AC→D.
 
-In study BCIRG 006, 213/1075 patients in the DCarbH (TCH) arm, 221/1074 patients in the AC → DH (AC → TH) arm, and 217/1073 in the AC→D (AC → T) arm had a Karnofsky performance status ≤ 90 (either 80 or 90). No disease-free survival (DFS) benefit was noticed in this subgroup of patients (hazard ratio=1.16, 95% CI [0.73, 1.83] for DCarbH (TCH) versus AC → D (AC → T); hazard ratio 0.97, 95% CI [0.60, 1.55] for AC → DH (AC → TH) versus AC → D).
+In study BCIRG 006, 213/1075 patients in the DCarbH (TCH) arm, 221/1074 patients in the AC→DH (AC→TH) arm, and 217/1073 in the AC→D (AC→T) arm had a Karnofsky performance status ≤90 (either 80 or 90). No disease-free survival (DFS) benefit was noticed in this subgroup of patients (hazard ratio=1.16, 95% CI [0.73, 1.83] for DCarbH (TCH) versus AC→D (AC→T); hazard ratio 0.97, 95% CI [0.60, 1.55] for AC→DH (AC→TH) versus AC→D).
 
 In addition, a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831* and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events and summarised in Table 11:
 
 Table 11 Post-hoc exploratory analysis results from the joint analysis NSABP B-31/NCCTG N9831* and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events
 
-|                                                                                                                    | AC → PH (vs. AC → P) (NSABP B-31 and NCCTG N9831)*   | AC → DH (vs. AC → D) (BCIRG 006)   | DCarbH (vs. AC → D) (BCIRG 006)   |
-|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|------------------------------------|-----------------------------------|
-| Primary efficacy analysis DFS hazard ratios (95% CI) p-value                                                       | 0.48 (0.39, 0.59) p<0.0001                           | 0.61 (0.49, 0.77) p<0.0001         | 0.67 (0.54, 0.83) p=0.0003        |
-| Long term follow-up efficacy analysis** DFS hazard ratios (95% CI) p-value                                         | 0.61 (0.54, 0.69) p<0.0001                           | 0.72 (0.61, 0.85) p<0.0001         | 0.77 (0.65, 0.90) p=0.0011        |
-| Post-hoc exploratory analysis with DFS and symptomatic cardiac events Long term follow-up** hazard ratios (95% CI) | 0.67 (0.60, 0.75)                                    | 0.77 (0.66, 0.90)                  | 0.77 (0.66, 0.90)                 |
+|                                                                                                                    | AC→PH (vs. AC→P) (NSABP B-31 and NCCTG N9831)*   | AC→DH (vs. AC→D) (BCIRG 006)   | DCarbH (vs. AC→D) (BCIRG 006)   |
+|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|--------------------------------|---------------------------------|
+| Primary efficacy analysis DFS hazard ratios (95% CI) p-value                                                       | 0.48 (0.39, 0.59) p<0.0001                       | 0.61 (0.49, 0.77) p<0.0001     | 0.67 (0.54, 0.83) p=0.0003      |
+| Long term follow-up efficacy analysis** DFS hazard ratios (95% CI) p-value                                         | 0.61 (0.54, 0.69)                                | 0.72 (0.61, 0.85) p<0.0001     | 0.77 (0.65, 0.90) p=0.0011      |
+| Post-hoc exploratory analysis with DFS and symptomatic cardiac events Long term follow-up** hazard ratios (95% CI) | 0.67 (0.60, 0.75)                                | 0.77                           | 0.77                            |
+|                                                                                                                    | p<0.0001                                         |                                |                                 |
+|                                                                                                                    |                                                  | (0.66, 0.90)                   |                                 |
+|                                                                                                                    |                                                  |                                | (0.66, 0.90)                    |
 
 A: doxorubicin; C: cyclophosphamide; P: paclitaxel; D: docetaxel; Carb: carboplatin; H: trastuzumab CI = confidence interval
 
-* At the time of the definitive analysis of DFS. Median duration of follow-up was 1.8 years in the AC →P arm and 2.0 years in the AC → PH arm
+* At the time of the definitive analysis of DFS. Median duration of follow-up was 1.8 years in the AC→P arm and 2.0 years in the AC→PH arm
 
-** Median duration of long term follow-up for the Joint Analysis clinical studies was 8.3 years (range: 0.1 to 12.1) for the AC→ PH arm and 7.9 years (range: 0.0 to 12.2) for the AC →P arm;  Median duration of long term follow-up for the BCIRG 006 study was 10.3 years in both the AC →D arm (range: 0.0 to 12.6) arm and the DCarbH arm (range: 0.0 to 13.1), and was 10.4 years (range: 0.0 to 12.7) in the AC → DH  arm
+** Median duration of long term follow-up for the Joint Analysis clinical studies was 8.3 years (range: 0.1 to 12.1) for the AC→PH arm and 7.9 years (range: 0.0 to 12.2) for the AC→P arm; Median duration of long term follow-up for the BCIRG 006 study was 10.3 years in both the AC→D arm (range: 0.0 to 12.6) arm and the DCarbH arm (range: 0.0 to 13.1), and was 10.4 years (range: 0.0 to 12.7) in the AC→DH arm
 
 <div style=\"page-break-after: always\"></div>
 
@@ -853,7 +854,7 @@ In study MO16432, trastuzumab (8 mg/kg loading dose, followed by 6 mg/kg mainten
 
 ## as follows:
 
-- Doxorubicin 60 mg/m 2  and paclitaxel 150 mg/m 2 , administered 3-weekly for 3 cycles, which was followed by
+- Doxorubicin 60 mg/m 2 and paclitaxel 150 mg/m 2 , administered 3-weekly for 3 cycles, which was followed by
 - Paclitaxel 175 mg/m 2 administered 3-weekly for 4 cycles,
 
 which was followed by
@@ -868,11 +869,13 @@ The efficacy results from Study MO16432 are summarized in Table 12. The median d
 
 Table 12 Efficacy results from MO16432
 
-| Parameter                                                       | Chemo + trastuzumab (n=115)   | Chemo only (n=116)   |                                                  |
-|-----------------------------------------------------------------|-------------------------------|----------------------|--------------------------------------------------|
-| Event-free survival No. patients with event                     | 46                            | 59                   | Hazard ratio (95% CI) 0.65 (0.44, 0.96) p=0.0275 |
-| Total pathological complete response* (95% CI) Overall survival | 40% (31.0, 49.6)              | 20.7% (13.7, 29.2)   | p=0.0014 Hazard ratio                            |
-| No. patients with event                                         | 22                            | 33                   | 0.59 (0.35, 1.02) p=0.0555                       |
+| Parameter                                      | Chemo + trastuzumab (n=115)   | Chemo only (n=116)   |                            |
+|------------------------------------------------|-------------------------------|----------------------|----------------------------|
+| Event-free survival                            |                               |                      | Hazard ratio (95% CI)      |
+| No. patients with event                        | 46                            | 59                   | 0.65 (0.44, 0.96) p=0.0275 |
+| Total pathological complete response* (95% CI) | 40% (31.0, 49.6)              | 20.7% (13.7, 29.2)   | p=0.0014                   |
+| Overall survival                               |                               |                      | Hazard ratio (95% CI)      |
+| No. patients with event                        | 22                            | 33                   | 0.59 (0.35, 1.02) p=0.0555 |
 
 An absolute benefit of 13 percentage points in favour of the trastuzumab arm was estimated in terms of 3-year event-free survival rate (65% versus 52%).
 
@@ -884,21 +887,21 @@ Trastuzumab has been investigated in one randomised, open-label phase III trial 
 
 Chemotherapy was administered as follows:
 
-- -capecitabine - 1000 mg/m 2 orally twice daily for 14 days every 3 weeks for 6 cycles (evening of day 1 to morning of day 15 of each cycle)
+- capecitabine - 1000 mg/m 2 orally twice daily for 14 days every 3 weeks for 6 cycles (evening of day 1 to morning of day 15 of each cycle)
 
 or
 
-- -intravenous 5-fluorouracil - 800 mg/m 2 /day as a continuous intravenous infusion over 5 days, given every 3 weeks for 6 cycles (days 1 to 5 of each cycle)
+- intravenous 5-fluorouracil - 800 mg/m 2 /day as a continuous intravenous infusion over 5 days, given every 3 weeks for 6 cycles (days 1 to 5 of each cycle)
 
 Either of which was administered with:
 
-- -cisplatin - 80 mg/m 2 every 3 weeks for 6 cycles on day 1 of each cycle.
+- cisplatin - 80 mg/m 2 every 3 weeks for 6 cycles on day 1 of each cycle.
 
 The efficacy results from study BO18225 are summarized in Table 13:
 
 Table 13 Efficacy results from BO18225
 
-| Parameter                                  | FP N=290   | FP +H N=294   | HR(95% CI)          | p-value   |
+| Parameter                                  | FP N=290   | FP +H N=294   | HR (95% CI)         | p-value   |
 |--------------------------------------------|------------|---------------|---------------------|-----------|
 | Overall survival, median months            | 11.1       | 13.8          | 0.74 (0.60-0.91)    | 0.0046    |
 | Progression-free survival, median months   | 5.5        | 6.7           | 0.71 (0.59-0.85)    | 0.0002    |
@@ -906,15 +909,9 @@ Table 13 Efficacy results from BO18225
 | Overall response rate,%                    | 34.5%      | 47.3%         | 1.70 a (1.22, 2.38) | 0.0017    |
 | Duration of response, median months        | 4.8        | 6.9           | 0.54 (0.40-0.73)    | <0.0001   |
 
-FP + H: fluoropyrimidine/cisplatin  + trastuzumab
-
-FP: fluoropyrimidine/cisplatin
-
-a Odds ratio
-
 Patients who were previously untreated for HER2-positive inoperable locally advanced or recurrent and/or metastatic adenocarcinoma of the stomach or gastro-oesophageal junction not amenable to curative therapy were recruited to the trial. The primary endpoint was overall survival which was defined as the time from the date of randomization to the date of death from any cause. At the time of the analysis a total of 349 randomized patients had died: 182 patients (62.8%) in the control arm and 167 patients (56.8%) in the treatment arm. The majority of the deaths were due to events related to the underlying cancer.
 
-Post-hoc  subgroup  analyses  indicate  that  positive  treatment  effects  are  limited  to  targeting tumours with higher levels of HER2 protein (IHC2+/FISH+ or IHC3+). The median overall survival for the high HER2-expressing group was 11.8 months versus 16 months, HR 0.65 (95% CI 0.51-0.83) and the median progression free survival was 5.5 months versus 7.6 months, HR 0.64 (95% CI 0.51-0.79) for FP versus FP + H, respectively. For overall survival, the HR was 0.75 (95% CI 0.51-1.11) in the IHC2+/FISH+ group and the HR was 0.58 (95% CI 0.41-0.81) in the IHC3+/FISH+ group.
+Post-hoc subgroup analyses indicate that positive treatment effects are limited to targeting tumours with higher levels of HER2 protein (IHC2+/FISH+ or IHC3+). The median overall survival for the high HER2-expressing group was 11.8 months versus 16 months, HR 0.65 (95% CI 0.51-0.83) and the median progression free survival was 5.5 months versus 7.6 months, HR 0.64 (95% CI 0.51-0.79) for FP versus FP + H, respectively. For overall survival, the HR was 0.75 (95% CI 0.51-1.11) in the IHC2+/FISH+ group and the HR was 0.58 (95% CI 0.41-0.81) in the IHC3+/FISH+ group.
 
 In an exploratory subgroup analysis performed in the TOGA (BO18255) trial there was no apparent benefit on overall survival with the addition of trastuzumab in patients with ECOG PS 2 at baseline [HR 0.96 (95% CI 0.51-1.79)], non-measurable [HR 1.78 (95% CI 0.87-3.66)] and locally advanced disease [HR 1.20 (95% CI 0.29-4.97)].
 
@@ -926,13 +923,13 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of trastuzumab were evaluated in a population pharmacokinetic model analysis using pooled data from 1,582 subjects, including patients with HER2-positive MBC, EBC, AGC or other tumour types, and healthy volunteers, in 18 Phase I, II and III trials receiving trastuzumab via an intravenous infusion. A two-compartment model with parallel linear and non-linear elimination from the central compartment described the trastuzumab concentration-time profile. Due to non-linear elimination, total clearance increased with decreasing concentration. Therefore, no constant value for half-life of trastuzumab can be deduced. The t1/2 decreases with decreasing concentrations within a dosing interval (see Table 16). MBC and EBC patients had similar PK parameters (e.g. clearance (CL), the central compartment volume (V c )) and population-predicted steady-state exposures (Cmin, Cmax  and AUC). Linear clearance was 0.136 L/day for MBC, 0.112 L/day for EBC and 0.176 L/day for AGC.  The non-linear elimination parameter values were 8.81 mg/day for the maximum elimination rate (Vmax) and 8.92 µg/mL for the Michaelis-Menten constant (Km) for the MBC, EBC, and AGC patients. The central compartment volume was 2.62 L for patients with MBC and EBC and 3.63 L for patients with AGC. In the final population PK model, in addition to primary tumour type, body-weight, serum aspartate aminotransferase and albumin were identified as statistically significant covariates affecting the exposure of trastuzumab. However, the magnitude of effect of these covariates on trastuzumab exposure suggests that these covariates are unlikely to have a clinically meaningful effect on trastuzumab concentrations.
+The pharmacokinetics of trastuzumab were evaluated in a population pharmacokinetic model analysis using pooled data from 1,582 subjects, including patients with HER2-positive MBC, EBC, AGC or other tumour types, and healthy volunteers, in 18 Phase I, II and III trials receiving trastuzumab via an intravenous infusion. A two-compartment model with parallel linear and non-linear elimination from the central compartment described the trastuzumab concentration-time profile. Due to non-linear elimination, total clearance increased with decreasing concentration. Therefore, no constant value for half-life of trastuzumab can be deduced. The t1/2 decreases with decreasing concentrations within a dosing interval (see Table 16). MBC and EBC patients had similar PK parameters (e.g. clearance (CL), the central compartment volume (Vc)) and population-predicted steady-state exposures (Cmin, Cmax and AUC). Linear clearance was 0.136 L/day for MBC, 0.112 L/day for EBC and 0.176 L/day for AGC. The non-linear elimination parameter values were 8.81 mg/day for the maximum elimination rate (Vmax) and 8.92 µg/mL for the Michaelis-Menten constant (Km) for the MBC, EBC, and AGC patients. The central compartment volume was 2.62 L for patients with MBC and EBC and 3.63 L for patients with AGC. In the final population PK model, in addition to primary tumour type, body-weight, serum aspartate aminotransferase and albumin were identified as statistically significant covariates affecting the exposure of trastuzumab. However, the magnitude of effect of these covariates on trastuzumab exposure suggests that these covariates are unlikely to have a clinically meaningful effect on trastuzumab concentrations.
 
-The population predicted PK exposure values (median with 5th-95th Percentiles) and PK parameter values at clinically relevant concentrations (Cmax  and Cmin) for MBC, EBC and AGC patients treated with the approved q1w and q3w dosing regimens are shown in Table 14 (Cycle 1), Table 15 (steady-state), and Table 16 (PK parameters).
+The population predicted PK exposure values (median with 5th-95th Percentiles) and PK parameter values at clinically relevant concentrations (Cmax and Cmin) for MBC, EBC and AGC patients treated with the approved q1w and q3w dosing regimens are shown in Table 14 (Cycle 1), Table 15 (steady-state), and Table 16 (PK parameters).
 
 Table 14 Population predicted cycle 1 PK exposure values (median with 5th - 95th percentiles) for trastuzumab intravenous infusion dosing regimens in MBC, EBC and AGC patients
 
-| Regimen             | Primary tumour type   |   N | C min (µg/mL)    | C max (µg/mL)   | AUC 0-21days (µg.day/mL)   |
+| Regimen             | Primary tumour type   |   N | Cmin (µg/mL)     | Cmax (µg/mL)    | AUC 0-21days (µg.day/mL)   |
 |---------------------|-----------------------|-----|------------------|-----------------|----------------------------|
 | 8mg/kg + 6mg/kg q3w | MBC                   | 805 | 28.7 (2.9-46.3)  | 182 (134-280)   | 1376 (728-1998)            |
 | 8mg/kg + 6mg/kg q3w | EBC                   | 390 | 30.9 (18.7-45.5) | 176 (127-227)   | 1390 (1039-1895)           |
@@ -942,28 +939,28 @@ Table 14 Population predicted cycle 1 PK exposure values (median with 5th - 95th
 
 Table 15 Population predicted steady state PK exposure values (median with 5th - 95th percentiles) for trastuzumab intravenous infusion dosing regimens in MBC, EBC and AGC patients
 
-| Regimen             | Primary tumour type   |   N | C min,ss * (µg/mL)   | C max,ss ** (µg/mL)   | AUC ss, 0-21 days (µg.day/mL)   |   Time to steady-state *** (week) |
-|---------------------|-----------------------|-----|----------------------|-----------------------|---------------------------------|-----------------------------------|
-| 8mg/kg + 6mg/kg q3w | MBC                   | 805 | 44.2 (1.8-85.4)      | 179 (123-266)         | 1736 (618-2756)                 |                                12 |
-| 8mg/kg + 6mg/kg q3w | EBC                   | 390 | 53.8 (28.7-85.8)     | 184 (134-247)         | 1927 (1332-2771)                |                                15 |
-| 8mg/kg + 6mg/kg q3w | AGC                   | 274 | 32.9 (6.1-88.9)      | 131 (72.5-251)        | 1338 (557-2875)                 |                                 9 |
+| Regimen             | Primary tumour type   |   N | Cmin,ss* (µg/mL)   | Cmax,ss** (µg/mL)   | AUCss, 0-21 days (µg.day/mL)   |   Time to steady-state *** (week) |
+|---------------------|-----------------------|-----|--------------------|---------------------|--------------------------------|-----------------------------------|
+| 8mg/kg + 6mg/kg q3w | MBC                   | 805 | 44.2 (1.8-85.4)    | 179 (123-266)       | 1736 (618-2756)                |                                12 |
+|                     | EBC                   | 390 | 53.8 (28.7-85.8)   | 184 (134-247)       | 1927 (1332-2771)               |                                15 |
+|                     | AGC                   | 274 | 32.9 (6.1-88.9)    | 131 (72.5-251)      | 1338 (557-2875)                |                                 9 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Regimen            | Primary tumour type   |   N | C min,ss * (µg/mL)   | C max,ss ** (µg/mL)   | AUC ss, 0-21 days (µg.day/mL)   |   Time to steady-state *** (week) |
-|--------------------|-----------------------|-----|----------------------|-----------------------|---------------------------------|-----------------------------------|
-| 4mg/kg + 2mg/kg qw | MBC                   | 805 | 63.1 (11.7-107)      | 107 (54.2-164)        | 1710 (581-2715)                 |                                12 |
-| 4mg/kg + 2mg/kg qw | EBC                   | 390 | 72.6 (46-109)        | 115 (82.6-160)        | 1893 (1309-2734)                |                                14 |
+| Regimen            | Primary tumour type   |   N | Cmin,ss* (µg/mL)   | Cmax,ss** (µg/mL)   | AUCss, 0-21 days (µg.day/mL)   |   Time to steady-state *** (week) |
+|--------------------|-----------------------|-----|--------------------|---------------------|--------------------------------|-----------------------------------|
+| 4mg/kg + 2mg/kg qw | MBC                   | 805 | 63.1 (11.7-107)    | 107 (54.2-164)      | 1710 (581-2715)                |                                12 |
+|                    | EBC                   | 390 | 72.6 (46-109)      | 115 (82.6-160)      | 1893 (1309-2734)               |                                14 |
 
 Table 16 Population predicted PK parameter values at steady state for trastuzumab intravenous infusion dosing regimens in MBC, EBC and AGC patients
 
-| Regimen             | Primary tumour type   |   N | Total CL range from C max,ss to C min,ss (L/day)   | t 1/2 range from C max,ss to C min,ss (day)   |
-|---------------------|-----------------------|-----|----------------------------------------------------|-----------------------------------------------|
-| 8mg/kg + 6mg/kg q3w | MBC                   | 805 | 0.183-0.302                                        | 15.1-23.3                                     |
-| 8mg/kg + 6mg/kg q3w | EBC                   | 390 | 0.158-0.253                                        | 17.5-26.6                                     |
-| 8mg/kg + 6mg/kg q3w | AGC                   | 274 | 0.189-0.337                                        | 12.6-20.6                                     |
-| 4mg/kg + 2mg/kg qw  | MBC                   | 805 | 0.213-0.259                                        | 17.2-20.4                                     |
-| 4mg/kg + 2mg/kg qw  | EBC                   | 390 | 0.184-0.221                                        | 19.7-23.2                                     |
+| Regimen             | Primary tumour type   |   N | Total CL range from Cmax,ss to Cmin,ss (L/day)   | t1/2 range from Cmax,ss to Cmin,ss (day)   |
+|---------------------|-----------------------|-----|--------------------------------------------------|--------------------------------------------|
+| 8mg/kg + 6mg/kg q3w | MBC                   | 805 | 0.183-0.302                                      | 15.1-23.3                                  |
+| 8mg/kg + 6mg/kg q3w | EBC                   | 390 | 0.158-0.253                                      | 17.5-26.6                                  |
+| 8mg/kg + 6mg/kg q3w | AGC                   | 274 | 0.189-0.337                                      | 12.6-20.6                                  |
+| 4mg/kg + 2mg/kg qw  | MBC                   | 805 | 0.213-0.259                                      | 17.2-20.4                                  |
+| 4mg/kg + 2mg/kg qw  | EBC                   | 390 | 0.184-0.221                                      | 19.7-23.2                                  |
 
 ## Trastuzumab washout
 
@@ -985,11 +982,9 @@ No long-term animal studies have been performed to establish the carcinogenic po
 
 ## 6.1 List of excipients
 
-Histidine hydrochloride monohydrate Histidine α , α -trehalose dihydrate
+Histidine hydrochloride monohydrate Histidine α,α-trehalose dihydrate polysorbate 20 (E432)
 
 <div style=\"page-break-after: always\"></div>
-
-polysorbate 20 (E432)
 
 ## 6.2 Incompatibilities
 
@@ -1027,7 +1022,7 @@ One 15 mL clear glass type I vial with butyl rubber stopper laminated with a flu
 
 Each carton contains one vial.
 
-## Ontruzant 420 mg powder for concentrate for solution for infusion
+Ontruzant 420 mg powder for concentrate for solution for infusion
 
 One 40 mL clear glass type I vial with butyl rubber stopper laminated with a fluoro-resin film containing 420 mg of trastuzumab
 
@@ -1055,11 +1050,17 @@ The reconstituted solution should not be frozen.
 
 ## Ontruzant 150 mg powder for concentrate for solution for infusion
 
-Each 150 mg vial of Ontruzant is reconstituted with 7.2 mL of sterile water for injection (not supplied). Use of other reconstitution solvents should be avoided. This yields a 7.4 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab, at a pH of approximately 6.0. A volume overage of 4% ensures that the labelled dose of 150 mg can be withdrawn from each vial.
+Each 150 mg vial of Ontruzant is reconstituted with 7.2 mL of sterile water for injection (not supplied). Use of other reconstitution solvents should be avoided.
+
+This yields a 7.4 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab, at a pH of approximately 6.0. A volume overage of 4% ensures that the labelled dose of 150 mg can be withdrawn from each vial.
 
 ## Ontruzant 420 mg powder for concentrate for solution for infusion
 
-Each 420 mg vial of Ontruzant is reconstituted with 20 mL of sterile water for injection (not supplied). Use of other reconstitution solvents should be avoided. This yields a 21 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab, at a pH of approximately 6.0. A volume overage of 5% ensures that the labelled dose of 420 mg can be withdrawn from each vial.
+Each 420 mg vial of Ontruzant is reconstituted with 20 mL of sterile water for injection (not supplied). Use of other reconstitution solvents should be avoided.
+
+This yields a 21 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab, at a pH of approximately 6.0. A volume overage of 5% ensures that the labelled dose of 420 mg can
+
+be withdrawn from each vial.
 
 | Ontruzant vial   |    | Volume of sterile water for injections   |    | Final concentration   |
 |------------------|----|------------------------------------------|----|-----------------------|
@@ -1083,11 +1084,9 @@ Determine the volume of the solution required:
 
 <!-- formula-not-decoded -->
 
-mg/kg for maintenance) 21 (mg/mL, concentration of reconstituted solution)
+Body weight (kg) x dose (4 mg/kg for loading or 2 mg/kg for maintenance) 21 (mg/mL, concentration of reconstituted solution)
 
 - based on a loading dose of 8 mg trastuzumab/kg body weight, or a subsequent 3-weekly dose of 6 mg trastuzumab/kg body weight:
-
-mg/kg for maintenance)
 
 <!-- formula-not-decoded -->
 
@@ -1136,15 +1135,15 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) of the biological active substance(s)
 
-FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 Hillerød, 3400 Denmark
+FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 Hillerød, 3400
+
+Denmark
 
 Samsung Biologics Co. Ltd 300, Songdo bio-daero, Yeonsu-gu, Incheon, 21987, Korea, Republic of
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Samsung Bioepis NL B.V.
-
-Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1193,7 +1192,7 @@ The vial contains 150 mg trastuzumab. After reconstitution 1 mL concentrate cont
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: histidine hydrochloride monohydrate, histidine, α,α -trehalose dihydrate, polysorbate 20.
+Also contains: histidine hydrochloride monohydrate, histidine, α,α-trehalose dihydrate, polysorbate 20.
 
 See leaflet for further information.
 
@@ -1221,7 +1220,10 @@ EXP
 
 Store in a refrigerator.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1235,10 +1237,10 @@ EU/1/17/1241/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1251,29 +1253,34 @@ Justification for not including Braille accepted.
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Ontruzant 150 mg powder for concentrate trastuzumab For intravenous use only
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -1296,7 +1303,9 @@ The vial contains 420 mg trastuzumab. After reconstitution 1 mL concentrate cont
 
 Also contains:
 
-histidine hydrochloride monohydrate, histidine, α,α -trehalose dihydrate, polysorbate 20. See leaflet for further information.
+histidine hydrochloride monohydrate, histidine, α,α-trehalose dihydrate, polysorbate 20.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1324,7 +1333,10 @@ EXP
 
 Store in a refrigerator.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1338,10 +1350,10 @@ EU/1/17/1241/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1354,29 +1366,34 @@ Justification for not including Braille accepted.
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Ontruzant 420 mg powder for concentrate for solution for infusion trastuzumab For intravenous use only
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -1389,13 +1406,15 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Ontruzant 150 mg powder for concentrate for solution for infusion Ontruzant 420 mg powder for concentrate for solution for infusion trastuzumab
+## Ontruzant 150 mg powder for concentrate for solution for infusion Ontruzant 420 mg powder for concentrate for solution for infusion
+
+trastuzumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1408,7 +1427,7 @@ Lot
 
 ## 1. What Ontruzant is and what it is used for
 
-Ontruzant contains the active substance trastuzumab, which is a monoclonal antibody. Monoclonal antibodies attach to specific proteins or antigens. Trastuzumab is designed to bind selectively to an antigen called human epidermal growth factor receptor 2 (HER2). HER2 is found in large amounts on the surface of some cancer cells where it stimulates their growth.  When Ontruzant binds to HER2 it stops the growth of such cells and causes them to die.
+Ontruzant contains the active substance trastuzumab, which is a monoclonal antibody. Monoclonal antibodies attach to specific proteins or antigens. Trastuzumab is designed to bind selectively to an antigen called human epidermal growth factor receptor 2 (HER2). HER2 is found in large amounts on the surface of some cancer cells where it stimulates their growth. When Ontruzant binds to HER2 it stops the growth of such cells and causes them to die.
 
 Your doctor may prescribe Ontruzant for the treatment of breast and gastric cancer when:
 
@@ -1438,7 +1457,7 @@ The effects may be moderate to severe and could cause death. Therefore, your hea
 Talk to your doctor, pharmacist or nurse before you are given Ontruzant if:
 
 - you have had heart failure, coronary artery disease, heart valve disease (heart murmurs), high blood pressure, taken any high blood pressure medicine or are currently taking any high blood pressure medicine.
-- you have ever had or are currently using a medicine called doxorubicin or epirubicin (medicines used to treat cancer).  These medicines (or any other anthracyclines) can damage heart muscle and increase the risk of heart problems with Ontruzant.
+- you have ever had or are currently using a medicine called doxorubicin or epirubicin (medicines used to treat cancer). These medicines (or any other anthracyclines) can damage heart muscle and increase the risk of heart problems with Ontruzant.
 - you suffer from breathlessness., especially if you are currently using a taxane. Ontruzant can cause breathing difficulties, especially when it is first given. This could be more serious if you are already breathless. Very rarely, patients with severe breathing difficulties before treatment have died when they were given Ontruzant.
 - you have ever had any other treatment for cancer.
 
@@ -1566,19 +1585,19 @@ Very common side effects of Ontruzant (may affect more than 1 in 10 people):
 - vomiting
 - nausea
 
-## Common side effects of Ontruzant ( may affect up to 1 in 10 people):
+## Common side effects of Ontruzant (may affect up to 1 in 10 people):
 
 | • allergic reactions • throat infections • bladder and skin infections • inflammation of the breast • inflammation of the liver • kidney disorders • hypertonia (increased muscle tone or tension) • pain in the arms and/or legs • itchy rash • somnolence (sleepiness) • haemorrhoids • itchiness • leg cramps   | • dry mouth and skin • dry eyes • sweating • feeling weak and unwell • anxiety • depression • asthma • infection of lungs • lung disorders • back pain • neck pain • bone pain • acne   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Uncommon side effects of Ontruzant ( may affect up to 1 in 100 people):
+## Uncommon side effects of Ontruzant (may affect up to 1 in 100 people):
 
 - deafness
 - bumpy rash
 - wheezing
 - inflammation or scarring of the lungs
 
-## Rare side effects of Ontruzant ( may affect up to 1 in 1000 people):
+## Rare side effects of Ontruzant (may affect up to 1 in 1000 people):
 
 - jaundice (yellowish discoloration of the skin or eyes)
 - anaphylactic reactions
@@ -1602,7 +1621,7 @@ Other side effects that have been reported with Ontruzant use (frequency cannot 
 - swelling of the face, lips and throat
 - kidney failure
 
-## During pregnancy:
+During pregnancy:
 
 - abnormally low levels of fluid around baby in womb
 - failure of the lungs of the baby to develop in the womb
@@ -1636,10 +1655,10 @@ Ontruzant will be stored by the healthcare professionals at the hospital or clin
 
 <div style=\"page-break-after: always\"></div>
 
-- -150 mg trastuzumab that has to be dissolved in 7.2 mL of water for injection, or
-- -420 mg trastuzumab that has to be dissolved in 20 mL of water for injection.
+- 150 mg trastuzumab that has to be dissolved in 7.2 mL of water for injection, or
+- 420 mg trastuzumab that has to be dissolved in 20 mL of water for injection.
 - The resulting solution contains approximately 21 mg/mL trastuzumab.
-- The other ingredient(s) are histidine hydrochloride monohydrate,histidine, α,α -trehalose dihydrate, polysorbate 20 (E432) (see section 2 'Ontruzant contains polysorbate').
+- The other ingredient(s) are histidine hydrochloride monohydrate,histidine, α,α-trehalose dihydrate, polysorbate 20 (E432) (see section 2 'Ontruzant contains polysorbate').
 
 ## What Ontruzant looks like and contents of the pack
 
@@ -1653,157 +1672,9 @@ Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
 
 Samsung Bioepis NL B.V. Olof Palmestraat 10, 2616 LR Delft The Netherlands
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Organon Belgium Tel/Tél:  0080066550123 (+32 2 2418100) dpoc.benelux@organon.com
-
-## България
-
-Органон (И.А.) Б.В. -клон България Тел.: +359 2 806 3030 dpoc.bulgaria@organon.com
-
-## Česká republika
-
-Organon Czech Republic s.r.o. Tel.: +420 233 010 300 dpoc.czech@organon.com
-
-## Danmark
-
-Organon Denmark ApS Tlf: + 45 44 84 68 00 info.denmark@organon.com
-
-## Deutschland
-
-Organon Healthcare GmbH Tel: 0800 3384 726 (+49 (0) 89 2040022 10) dpoc.germany@organon.com
-
-## Lietuva
-
-Organon Pharma B.V. Lithuania atstovybė Tel.: + 370 52041693 dpoc.lithuania@organon.com
-
-## Luxembourg/Luxemburg
-
-Organon Belgium Tel/Tél:  0080066550123 (+32 2 2418100) dpoc.benelux@organon.com
-
-## Magyarország
-
-Organon Hungary Kft. Tel.: +36 1 766 1963 dpoc.hungary@organon.com
-
-## Malta
-
-Organon Pharma B.V., Cyprus branch Tel.: +356 22778116 dpoc.cyprus@organon.com
-
-## Nederland
-
-N.V. Organon
-
-Tel.: 00800 66550123 (+32 2 2418100)
-
-dpoc.benelux@organon.com
-
-<div style=\"page-break-after: always\"></div>
-
-## Eesti
-
-Organon Pharma B.V. Estonian RO Tel: +372 66 61 300
-
-dpoc.estonia@organon.com
-
-Ελλάδα BIANE Ξ Α . Ε Τηλ: +30 210 80091 11
-
-Mailbox@vianex.gr
-
-## España
-
-Organon Salud, S.L. Tel: +34 91 591 12 79
-
-## France
-
-Organon France Tél: + 33 (0) 1 57 77 32 00
-
-## Hrvatska
-
-Organon Pharma d.o.o. Tel: + 385 1 638 4530
-
-dpoc.croatia@organon.com
-
-## Ireland
-
-Organon Pharma (Ireland) Limited Tel: +353 15828260
-
-medinfo.ROI@organon.com
-
-## Ísland
-
-Vistor hf. Sími: + 354 535 7000
-
-## Italia
-
-Organon Italia S.r.l. Tel: +39 06 90259059
-
-dpoc.italy@organon.com
-
-Κύπρος
-
-Organon Pharma B.V., Cyprus branch Τηλ.: +357 22866730
-
-dpoc.cyprus@organon.com
-
-Latvija Ārvalsts komersanta 'Organon Pharma B.V.' pārstāvniecība Tel: + 371 66968876 dpoc.latvia@organon.com
-
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Norge
-
-Organon Norway AS Tlf: +47 24 14 56 60
-
-info.norway@organon.com
-
-## Österreich
-
-Organon Healthcare GmbH Tel: +49 (0) 89 2040022 10 dpoc.austria@organon.com
-
-## Polska
-
-Organon Polska Sp. z o.o. Tel: +48 22 105 50 01
-
-organonpolska@organon.com
-
-## Portugal
-
-Organon Portugal, Sociedade Unipessoal Lda.
-
-Tel: +351 218705500 geral\\_pt@organon.com
-
-## România
-
-Organon Biosciences S.R.L. Tel: + 40 21 527 29 90
-
-dpoc.romania@organon.com
-
-## Slovenija
-
-Organon Pharma B.V., Oss, podružnica Ljubljana Tel: + 386 1 300 10 80
-
-dpoc.slovenia@organon.com
-
-## Slovenská republika
-
-Organon Slovakia s. r. o. Tel: +421 2 44 88 98 88
-
-dpoc.slovakia@organon.com
-
-## Suomi/Finland
-
-Organon Finland Oy Puh/Tel: +358 (0) 29 170 3520
-
-dpoc.finland@organon.com
-
-Sverige Organon Sweden AB Tel: +46 8 502 597 00
-
-dpoc.sweden@organon.com
-
-<div style=\"page-break-after: always\"></div>
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
 
@@ -1813,7 +1684,7 @@ This leaflet is available in all EU/EEA languages on the European Medicines Agen
 
 Ontruzant is provided in sterile, preservative-free, non-pyrogenic, single use vials.
 
-I n order to prevent medication errors it is important to check the vial labels to ensure that the medicine being prepared and given is Ontruzant (trastuzumab) and not another trastuzumab-containing product (e.g. trastuzumab emtansine or trastuzumab deruxtecan).
+In order to prevent medication errors it is important to check the vial labels to ensure that the medicine being prepared and given is Ontruzant (trastuzumab) and not another trastuzumab-containing product (e.g. trastuzumab emtansine or trastuzumab deruxtecan).
 
 Always keep this medicine in the closed original pack at a temperature of 2ºC - 8ºC in a refrigerator.
 
@@ -1821,7 +1692,7 @@ Appropriate aseptic technique should be used for reconstitution and dilution pro
 
 A vial of Ontruzant aseptically reconstituted with sterile water for injections (not supplied) is chemically and physically stable for 7 days at 2ºC - 8ºC after reconstitution and must not be frozen.
 
-After aseptic dilution in polyvinylchloride, polyethylene or polypropylene bags containing sodium chloride 9 mg/mL (0.9 %) solution for injection, chemical and physical stability of Ontruzant has been demonstrated for up to  30 days at 2ºC - 8ºC, and subsequently for 24 hours at temperatures not exceeding 30°C.
+After aseptic dilution in polyvinylchloride, polyethylene or polypropylene bags containing sodium chloride 9 mg/mL (0.9 %) solution for injection, chemical and physical stability of Ontruzant has been demonstrated for up to 30 days at 2ºC - 8ºC, and subsequently for 24 hours at temperatures not exceeding 30°C.
 
 From a microbiological point of view, the reconstituted solution and Ontruzant infusion solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user, and would not normally be longer than 24 hours at 2°C to 8°C, unless reconstitution and dilution have taken place under controlled and validated aseptic conditions.
 
@@ -1865,16 +1736,10 @@ Determine the volume of the solution required:
 
 <!-- formula-not-decoded -->
 
-Volume
-
-Body weight (kg) x dose ( 4 mg/kg for loading or 2 21 (mg/mL, concentration of reconstituted solution)
-
 - based on a loading dose of 8 mg trastuzumab/kg body weight, or a subsequent 3-weekly dose of 6 mg trastuzumab/kg body weight:
 
 <!-- formula-not-decoded -->
 
-Volume
-
-Body weight (kg) x dose ( 8 mg/kg for loading or 6 21 (mg/mL, concentration of reconstituted solution)
+Body weight (kg) x dose (8 mg/kg for loading or 6 mg/kg for maintenance) 21 (mg/mL, concentration of reconstituted solution)
 
 The appropriate amount of solution should be withdrawn from the vial using a sterile needle and syringe and added to a polyvinylchloride, polyethylene or polypropylene infusion bag containing 250 mL of 0.9% sodium chloride solution. Do not use with glucose-containing solutions. The bag should be gently inverted to mix the solution in order to avoid foaming. Parenteral solutions should be inspected visually for particulates and discoloration prior to administration.

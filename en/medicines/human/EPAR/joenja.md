@@ -1,21 +1,98 @@
 ---
-document_datetime: 2026-05-28 16:38:00
+document_datetime: 2026-09-15 14:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/joenja.html
 document_name: joenja.html
 version: success
-processing_time: 0.1139984
-conversion_datetime: 2026-06-01 16:58:29.887213
+processing_time: 0.1433055
+conversion_datetime: 2026-09-23 07:32:55.003407
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Campaigns](/en/news-events/ema-campaigns)
+    - [Speeches](/en/news-events/speeches)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health professionals](/en/partners-networks/animal-health-professionals)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Joenja
+
 # Joenja
 
 [RSS](/en/individual-human-medicine.xml/276066)
@@ -58,7 +135,7 @@ Expand section
 
 Collapse section
 
-## How is Joenja used?
+### How is Joenja used?
 
 The medicine can only be obtained with a prescription. Treatment must be started by a doctor with experience in the management of primary immune deficiencies (when the immune system does not function properly).
 
@@ -66,13 +143,13 @@ Joenja is available as tablets to be taken by mouth twice a day, approximately 1
 
 For more information about using Joenja, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Joenja work?
+### How does Joenja work?
 
 People with APDS have mutations (changes) in the genes that control the production of a protein called phosphoinositide 3-kinase delta. This protein is essential for the development and function of lymphocytes (B and T cells), which play a key role in the immune system. The mutations make the protein overactive, interfering with the normal development and function of lymphocytes. This leads to increased levels of immature B cells that build up in the lymph nodes (lymphadenopathy) and organs such as the spleen, liver or lungs, as well as reduced levels of naïve B cells (newly formed mature B cells involved in the initial immune response), affecting the patient's ability to fight infections.
 
 The active substance in Joenja, leniolisib, attaches to phosphoinositide 3-kinase delta and reduces its activity, leading to the normal development and function of B and T cells.
 
-## What benefits of Joenja have been shown in studies?
+### What benefits of Joenja have been shown in studies?
 
 One main study involved 31 people from 12 years of age with APDS, who received either Joenja or placebo (a dummy treatment) along with standard treatment to manage symptoms of the condition. The study looked at the change in the level of lymphadenopathy and in the proportion of naïve B cells after 12 weeks of treatment.
 
@@ -80,25 +157,25 @@ People taking Joenja had a greater reduction in lymphadenopathy than those takin
 
 Studies carried out with Joenja are described in more detail in the medicine's assessment report.
 
-## What are the side effects and restrictions with Joenja?
+### What are the side effects and restrictions with Joenja?
 
 For the full list of side effects and restrictions with Joenja, see the package leaflet.
 
 The most common side effects with Joenja (which may affect more than 1 in 10 people) include decreased levels of neutrophils (a type of white blood cell), headache, vomiting, increased weight and alopecia (hair loss).
 
-## Why is Joenja authorised in the EU?
+### Why is Joenja authorised in the EU?
 
 Joenja was shown to be effective at reducing lymphadenopathy and increasing the number of naïve B cells in people with APDS, which is expected to reduce the risk of infection and other complications associated with the condition. The safety profile was considered acceptable, with generally manageable side effects. The European Medicines Agency therefore decided that Joenja's benefits are greater than its risks and that it can be authorised for use in the EU.
 
 Joenja has been authorised under 'exceptional circumstances'. This is because it has not been possible to obtain complete information about Joenja due to the rarity of the disease. The company must provide further data on Joenja. It must submit the results from a registry-based study on the long-term safety and effectiveness of Joenja, and must provide yearly updates on any new information concerning the medicine's safety and effectiveness. Every year, the Agency will review any new information that becomes available.
 
-## What measures are being taken to ensure the safe and effective use of Joenja?
+### What measures are being taken to ensure the safe and effective use of Joenja?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Joenja have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Joenja are continuously monitored. Suspected side effects reported with Joenja are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Joenja
+### Other information about Joenja
 
 Joenja received a marketing authorisation under exceptional circumstances valid throughout the EU on 21 May 2026.
 
@@ -112,7 +189,7 @@ English (EN) (142.5 KB - PDF)
 
 [View](/en/documents/overview/joenja-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-528)
+[Other languages (22)](#file-language-dropdown-403)
 
 български (BG) (146.71 KB - PDF)
 
@@ -144,7 +221,7 @@ Deutsch (DE) (130.04 KB - PDF)
 
 [View](/de/documents/overview/joenja-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (123.79 KB - PDF)
+eesti (ET) (123.79 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -174,13 +251,13 @@ italiano (IT) (126.11 KB - PDF)
 
 [View](/it/documents/overview/joenja-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (150.36 KB - PDF)
+latviešu (LV) (150.36 KB - PDF)
 
 **First published:** 28/05/2026
 
 [View](/lv/documents/overview/joenja-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (141.22 KB - PDF)
+lietuvių (LT) (141.22 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -234,7 +311,7 @@ slovenščina (SL) (139.44 KB - PDF)
 
 [View](/sl/documents/overview/joenja-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (123.69 KB - PDF)
+suomi (FI) (123.69 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -248,9 +325,9 @@ svenska (SV) (124.72 KB - PDF)
 
 Joenja : EPAR - Risk management plan
 
-English (EN) (2.58 MB - PDF)
+English (EN) (3.08 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 15/09/2026
 
 [View](/en/documents/rmp/joenja-epar-risk-management-plan_en.pdf)
 
@@ -264,7 +341,7 @@ English (EN) (596.1 KB - PDF)
 
 [View](/en/documents/product-information/joenja-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-484)
+[Other languages (24)](#file-language-dropdown-320)
 
 български (BG) (536.21 KB - PDF)
 
@@ -296,7 +373,7 @@ Deutsch (DE) (573.42 KB - PDF)
 
 [View](/de/documents/product-information/joenja-epar-product-information_de.pdf)
 
-eesti keel (ET) (578 KB - PDF)
+eesti (ET) (578 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -320,25 +397,19 @@ hrvatski (HR) (610.78 KB - PDF)
 
 [View](/hr/documents/product-information/joenja-epar-product-information_hr.pdf)
 
-íslenska (IS) (562.61 KB - PDF)
-
-**First published:** 28/05/2026
-
-[View](/is/documents/product-information/joenja-epar-product-information_is.pdf)
-
 italiano (IT) (447.3 KB - PDF)
 
 **First published:** 28/05/2026
 
 [View](/it/documents/product-information/joenja-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (592.07 KB - PDF)
+latviešu (LV) (592.07 KB - PDF)
 
 **First published:** 28/05/2026
 
 [View](/lv/documents/product-information/joenja-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (534.8 KB - PDF)
+lietuvių (LT) (534.8 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -361,12 +432,6 @@ Nederlands (NL) (536.89 KB - PDF)
 **First published:** 28/05/2026
 
 [View](/nl/documents/product-information/joenja-epar-product-information_nl.pdf)
-
-norsk (NO) (541.59 KB - PDF)
-
-**First published:** 28/05/2026
-
-[View](/no/documents/product-information/joenja-epar-product-information_no.pdf)
 
 polski (PL) (617.53 KB - PDF)
 
@@ -398,7 +463,7 @@ slovenščina (SL) (595.18 KB - PDF)
 
 [View](/sl/documents/product-information/joenja-epar-product-information_sl.pdf)
 
-Suomi (FI) (538.59 KB - PDF)
+suomi (FI) (538.59 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -410,11 +475,24 @@ svenska (SV) (547.4 KB - PDF)
 
 [View](/sv/documents/product-information/joenja-epar-product-information_sv.pdf)
 
+Íslenska (IS) (562.61 KB - PDF)
+
+**First published:** 28/05/2026
+
+[View](/is/documents/product-information/joenja-epar-product-information_is.pdf)
+
+norsk (NO) (541.59 KB - PDF)
+
+**First published:** 28/05/2026
+
+[View](/no/documents/product-information/joenja-epar-product-information_no.pdf)
+
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -432,7 +510,7 @@ English (EN) (70.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-821)
+[Other languages (24)](#file-language-dropdown-964)
 
 български (BG) (90.69 KB - PDF)
 
@@ -464,7 +542,7 @@ Deutsch (DE) (72.82 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (73.09 KB - PDF)
+eesti (ET) (73.09 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -488,25 +566,19 @@ hrvatski (HR) (88.22 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (70.78 KB - PDF)
-
-**First published:** 28/05/2026
-
-[View](/is/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (72.22 KB - PDF)
 
 **First published:** 28/05/2026
 
 [View](/it/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (88.08 KB - PDF)
+latviešu (LV) (88.08 KB - PDF)
 
 **First published:** 28/05/2026
 
 [View](/lv/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (87.88 KB - PDF)
+lietuvių (LT) (87.88 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -529,12 +601,6 @@ Nederlands (NL) (70.45 KB - PDF)
 **First published:** 28/05/2026
 
 [View](/nl/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (71.1 KB - PDF)
-
-**First published:** 28/05/2026
-
-[View](/no/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (88.63 KB - PDF)
 
@@ -566,7 +632,7 @@ slovenščina (SL) (89.07 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (70.7 KB - PDF)
+suomi (FI) (70.7 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -578,27 +644,30 @@ svenska (SV) (71.04 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (70.78 KB - PDF)
+
+**First published:** 28/05/2026
+
+[View](/is/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (71.1 KB - PDF)
+
+**First published:** 28/05/2026
+
+[View](/no/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Joenja
-
-Active substance
-
-leniolisib phosphate
-
-International non-proprietary name (INN) or common name
-
-leniolisib
-
-Therapeutic area (MeSH)
-
-Primary Immunodeficiency Diseases
-
-Anatomical therapeutic chemical (ATC) code
-
-L03AX22
+- **Name of medicine**
+    - Joenja
+- **Active substance**
+    - leniolisib phosphate
+- **International non-proprietary name (INN) or common name**
+    - leniolisib
+- **Therapeutic area (MeSH)**
+    - Primary Immunodeficiency Diseases
+- **Anatomical therapeutic chemical (ATC) code**
+    - L03AX22
 
 ### Pharmacotherapeutic group
 
@@ -610,39 +679,40 @@ Joenja is indicated for the treatment of activated phosphoinositide 3-kinase del
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005927
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Exceptional circumstances
-
-This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Pharming Technologies B.V.
-
-Darwinweg 24 2333 CR Leiden Netherlands
-
-Opinion adopted
-
-26/03/2026
-
-Marketing authorisation issued
-
-21/05/2026
+- **EMA product number**
+    - EMEA/H/C/005927
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Exceptional circumstances**
+    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Pharming Technologies B.V. Darwinweg 24  2333 CR Leiden  Netherlands
+- **Opinion adopted**
+    - 26/03/2026
+- **Marketing authorisation issued**
+    - 21/05/2026
+- **Revision**
+    - 1
 
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Joenja : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (142.27 KB - PDF)
+
+**First published:** 15/09/2026
+
+[View](/en/documents/procedural-steps-after/joenja-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Joenja : Orphan maintenance assessment report (initial authorisation)
 
@@ -654,7 +724,7 @@ English (EN) (327.52 KB - PDF)
 
 [View](/en/documents/orphan-maintenance-report/joenja-orphan-maintenance-assessment-report-initial-authorisation_en.pdf)
 
-Joenja : EPAR - Public assessement report
+Joenja : EPAR - Public assessment report
 
 Adopted Reference Number: EMA/88598/2026
 
@@ -662,7 +732,7 @@ English (EN) (5.54 MB - PDF)
 
 **First published:** 28/05/2026
 
-[View](/en/documents/assessment-report/joenja-epar-public-assessement-report_en.pdf)
+[View](/en/documents/assessment-report/joenja-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Joenja
 
@@ -686,6 +756,6 @@ English (EN) (158.36 KB - PDF)
 
 **This page was last updated on**
 
-28/05/2026
+15/09/2026
 
 ## Share this page

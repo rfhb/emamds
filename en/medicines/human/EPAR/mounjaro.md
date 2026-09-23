@@ -1,21 +1,98 @@
 ---
-document_datetime: 2026-08-28 15:08:00
+document_datetime: 2026-09-21 16:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mounjaro.html
 document_name: mounjaro.html
 version: success
-processing_time: 0.1970268
-conversion_datetime: 2026-09-02 22:28:54.906966
+processing_time: 0.2043855
+conversion_datetime: 2026-09-23 07:33:40.918516
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Campaigns](/en/news-events/ema-campaigns)
+    - [Speeches](/en/news-events/speeches)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health professionals](/en/partners-networks/animal-health-professionals)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Mounjaro
+
 # Mounjaro
 
 [RSS](/en/individual-human-medicine.xml/67602)
@@ -120,7 +197,7 @@ English (EN) (125.37 KB - PDF)
 
 [View](/en/documents/overview/mounjaro-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-916)
+[Other languages (22)](#file-language-dropdown-798)
 
 български (BG) (141.96 KB - PDF)
 
@@ -258,45 +335,45 @@ svenska (SV) (115.83 KB - PDF)
 
 Mounjaro : EPAR - Product Information
 
-English (EN) (3.49 MB - PDF)
+English (EN) (3.5 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 28/08/2026
+**First published:** 17/06/2024 **Last updated:** 21/09/2026
 
 [View](/en/documents/product-information/mounjaro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-172)
+[Other languages (24)](#file-language-dropdown-413)
 
-български (BG) (4.38 MB - PDF)
+български (BG) (4.34 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/bg/documents/product-information/mounjaro-epar-product-information_bg.pdf)
 
-español (ES) (4.34 MB - PDF)
+español (ES) (4.41 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/es/documents/product-information/mounjaro-epar-product-information_es.pdf)
 
-čeština (CS) (3.92 MB - PDF)
+čeština (CS) (3.95 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 28/08/2026
+**First published:** 17/06/2024 **Last updated:** 21/09/2026
 
 [View](/cs/documents/product-information/mounjaro-epar-product-information_cs.pdf)
 
-dansk (DA) (4.06 MB - PDF)
+dansk (DA) (4.09 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 28/08/2026
+**First published:** 17/06/2024 **Last updated:** 21/09/2026
 
 [View](/da/documents/product-information/mounjaro-epar-product-information_da.pdf)
 
-Deutsch (DE) (4.04 MB - PDF)
+Deutsch (DE) (3.96 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 28/08/2026
+**First published:** 17/06/2024 **Last updated:** 21/09/2026
 
 [View](/de/documents/product-information/mounjaro-epar-product-information_de.pdf)
 
-eesti (ET) (3.67 MB - PDF)
+eesti (ET) (2.76 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
@@ -308,7 +385,7 @@ eesti (ET) (3.67 MB - PDF)
 
 [View](/el/documents/product-information/mounjaro-epar-product-information_el.pdf)
 
-français (FR) (4.62 MB - PDF)
+français (FR) (3.07 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
@@ -320,9 +397,9 @@ hrvatski (HR) (4.65 MB - PDF)
 
 [View](/hr/documents/product-information/mounjaro-epar-product-information_hr.pdf)
 
-italiano (IT) (3.83 MB - PDF)
+italiano (IT) (3.14 MB - PDF)
 
-**First published:** 17/06/2024 **Last updated:** 28/08/2026
+**First published:** 17/06/2024 **Last updated:** 21/09/2026
 
 [View](/it/documents/product-information/mounjaro-epar-product-information_it.pdf)
 
@@ -332,19 +409,19 @@ latviešu (LV) (3.73 MB - PDF)
 
 [View](/lv/documents/product-information/mounjaro-epar-product-information_lv.pdf)
 
-lietuvių (LT) (4.15 MB - PDF)
+lietuvių (LT) (4.19 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/lt/documents/product-information/mounjaro-epar-product-information_lt.pdf)
 
-magyar (HU) (3.84 MB - PDF)
+magyar (HU) (3.88 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/hu/documents/product-information/mounjaro-epar-product-information_hu.pdf)
 
-Malti (MT) (4.14 MB - PDF)
+Malti (MT) (3.32 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
@@ -356,31 +433,31 @@ Nederlands (NL) (3.89 MB - PDF)
 
 [View](/nl/documents/product-information/mounjaro-epar-product-information_nl.pdf)
 
-polski (PL) (4.26 MB - PDF)
+polski (PL) (4.58 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/pl/documents/product-information/mounjaro-epar-product-information_pl.pdf)
 
-português (PT) (4.21 MB - PDF)
+português (PT) (4.19 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/pt/documents/product-information/mounjaro-epar-product-information_pt.pdf)
 
-română (RO) (3.74 MB - PDF)
+română (RO) (3.27 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/ro/documents/product-information/mounjaro-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.15 MB - PDF)
+slovenčina (SK) (4.17 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/sk/documents/product-information/mounjaro-epar-product-information_sk.pdf)
 
-slovenščina (SL) (3.57 MB - PDF)
+slovenščina (SL) (3.11 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
@@ -392,27 +469,27 @@ suomi (FI) (4.12 MB - PDF)
 
 [View](/fi/documents/product-information/mounjaro-epar-product-information_fi.pdf)
 
-svenska (SV) (3.4 MB - PDF)
+svenska (SV) (3.42 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/sv/documents/product-information/mounjaro-epar-product-information_sv.pdf)
 
-Íslenska (IS) (3.81 MB - PDF)
+Íslenska (IS) (3.85 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/is/documents/product-information/mounjaro-epar-product-information_is.pdf)
 
-norsk (NO) (4 MB - PDF)
+norsk (NO) (3.63 MB - PDF)
 
 **First published:** 17/06/2024 **Last updated:** 28/08/2026
 
 [View](/no/documents/product-information/mounjaro-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000310637
+**Latest procedure affecting product information:** VR/0000369537
 
-25/06/2026
+21/09/2026
 
 icon globe
 
@@ -437,7 +514,7 @@ English (EN) (75.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mounjaro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-644)
+[Other languages (24)](#file-language-dropdown-303)
 
 български (BG) (104.49 KB - PDF)
 
@@ -633,7 +710,7 @@ For trial results with respect to obstructive sleep apnoea (OSA) and heart failu
 - **Marketing authorisation issued**
     - 15/09/2022
 - **Revision**
-    - 21
+    - 22
 
 ## Assessment history
 
@@ -645,9 +722,9 @@ Collapse section
 
 Mounjaro : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (227.54 KB - PDF)
+English (EN) (219.78 KB - PDF)
 
-**First published:** 15/04/2025 **Last updated:** 28/08/2026
+**First published:** 15/04/2025 **Last updated:** 21/09/2026
 
 [View](/en/documents/procedural-steps-after/mounjaro-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -799,7 +876,7 @@ English (EN) (4.61 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-779)
+[Other languages (24)](#file-language-dropdown-442)
 
 български (BG) (4.1 MB - DOCX)
 
@@ -989,6 +1066,6 @@ English (EN) (127.93 KB - PDF)
 
 **This page was last updated on**
 
-28/08/2026
+21/09/2026
 
 ## Share this page

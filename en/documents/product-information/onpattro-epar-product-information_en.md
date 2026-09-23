@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-07 12:32:33
+document_datetime: 2026-09-21 16:32:47
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/onpattro-epar-product-information_en.pdf
 document_name: onpattro-epar-product-information_en.pdf
 version: success
-processing_time: 6.2880158
-conversion_datetime: 2026-07-10 22:56:04.619426
+processing_time: 38.4096713
+conversion_datetime: 2026-09-23 07:06:00.83657
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.111.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -200,7 +200,7 @@ The adverse reactions are presented as MedDRA preferred terms under the MedDRA S
 
 - Very common (≥ 1/10)
 - Common (≥ 1/100 to &lt; 1/10)
-- Uncommon (  1/1 000 to &lt; 1/100)
+- Uncommon (³ 1/1 000 to &lt; 1/100)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -209,8 +209,8 @@ Table 1: Adverse reactions reported for Onpattro 300 micrograms per kg
 | System Organ Class                                   | Adverse Reaction          | Frequency   |
 |------------------------------------------------------|---------------------------|-------------|
 | Infections and infestations                          | Bronchitis                | Common      |
-| Infections and infestations                          | Sinusitis                 | Common      |
-| Infections and infestations                          | Rhinitis                  | Common      |
+|                                                      | Sinusitis                 | Common      |
+|                                                      | Rhinitis                  | Common      |
 | Immune system disorders                              | Infusion-related reaction | Very common |
 | Ear and labyrinth disorders                          | Vertigo                   | Common      |
 | Respiratory, thoracic and mediastinal disorders      | Dyspnoea                  | Common      |
@@ -293,18 +293,17 @@ The key secondary endpoint was the change from baseline to 18 months in Norfolk 
 
 Table 2: Clinical efficacy results from the placebo-controlled study
 
-| Endpoint a                   | Baseline, Mean (SD)   | Baseline, Mean (SD)   | Change from baseline at 18 months, LS mean (SEM)   | Change from baseline at 18 months, LS mean (SEM)   | (Onpattro - Placebo) treatment difference, LS mean   | p-value   |
-|------------------------------|-----------------------|-----------------------|----------------------------------------------------|----------------------------------------------------|------------------------------------------------------|-----------|
-|                              | Onpattro N=148        | Placebo N=77          | Onpattro                                           | Placebo                                            | (95% CI)                                             |           |
-| Primary                      |                       |                       |                                                    |                                                    |                                                      |           |
-| mNIS+7 b                     | 80.9 (41.5)           | 74.6 (37.0)           | -6.0 (1.7)                                         | 28.0 (2.6)                                         | -34.0 (-39.9, -28.1)                                 | p < 0.001 |
-| Secondary                    |                       |                       |                                                    |                                                    |                                                      |           |
-| Norfolk QoL-DN b             | 59.6 (28.2)           | 55.5 (24.3)           | -6.7 (1.8)                                         | 14.4 (2.7)                                         | -21.1 (-27.2, -15.0)                                 | p < 0.001 |
-| NIS-W b                      | 32.7 (25.2)           | 29.0 (23.0)           | 0.05 (1.3)                                         | 17.9 (2.0)                                         | -17.9 (-22.3, -13.4)                                 | p < 0.001 |
-| R-ODS c                      | 29.7 (11.5)           | 29.8 (10.8)           | 0.0 (0.6)                                          | -8.9 (0.9)                                         | 9.0 (7.0, 10.9)                                      | p < 0.001 |
-| 10-metre walk test (m/sec) c | 0.80 (0.40)           | 0.79 (0.32)           | 0.08 (0.02)                                        | -0.24 (0.04)                                       | 0.31 (0.23, 0.39)                                    | p < 0.001 |
-| mBMI d                       | 970 (210)             | 990 (214)             | -3.7 (9.6)                                         | -119 (14.5)                                        | 116 (82, 149)                                        | p < 0.001 |
-| COMPASS 31 b                 | 30.6 (17.6)           | 30.3 (16.4)           | -5.3 (1.3)                                         | 2.2 (1.9)                                          | -7.5 (-11.9, -3.2)                                   | p < 0.001 |
+| Endpoint a                   | Baseline, Mean (SD) - Onpattro N=148   | Baseline, Mean (SD) - Placebo N=77   | Change from baseline at 18 months, LS mean (SEM) - Onpattro   | Change from baseline at 18 months, LS mean (SEM) - Placebo   | (Onpattro - Placebo) treatment difference, - LS mean (95% CI)   | p-value   |
+|------------------------------|----------------------------------------|--------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------|-----------|
+| Primary                      |                                        |                                      |                                                               |                                                              |                                                                 |           |
+| mNIS+7 b                     | 80.9 (41.5)                            | 74.6 (37.0)                          | -6.0 (1.7)                                                    | 28.0 (2.6)                                                   | -34.0 (-39.9, -28.1)                                            | p < 0.001 |
+| Secondary                    |                                        |                                      |                                                               |                                                              |                                                                 |           |
+| Norfolk QoL-DN b             | 59.6 (28.2)                            | 55.5 (24.3)                          | -6.7 (1.8)                                                    | 14.4 (2.7)                                                   | -21.1 (-27.2, -15.0)                                            | p < 0.001 |
+| NIS-W b                      | 32.7 (25.2)                            | 29.0 (23.0)                          | 0.05 (1.3)                                                    | 17.9 (2.0)                                                   | -17.9 (-22.3, -13.4)                                            | p < 0.001 |
+| R-ODS c                      | 29.7 (11.5)                            | 29.8 (10.8)                          | 0.0 (0.6)                                                     | -8.9 (0.9)                                                   | 9.0 (7.0, 10.9)                                                 | p < 0.001 |
+| 10-metre walk test (m/sec) c | 0.80 (0.40)                            | 0.79 (0.32)                          | 0.08 (0.02)                                                   | -0.24 (0.04)                                                 | 0.31 (0.23, 0.39)                                               | p < 0.001 |
+| mBMI d                       | 970 (210)                              | 990 (214)                            | -3.7 (9.6)                                                    | -119 (14.5)                                                  | 116 (82, 149)                                                   | p < 0.001 |
+| COMPASS 31 b                 | 30.6 (17.6)                            | 30.3 (16.4)                          | -5.3 (1.3)                                                    | 2.2 (1.9)                                                    | -7.5 (-11.9, -3.2)                                              | p < 0.001 |
 
 SD, standard deviation; LS mean, least squares mean; SEM, standard error of the mean; CI, confidence interval, NIS-W, NIS-weakness (motor strength); R-ODS, Rasch-Built Overall Disability (patient reported ability to perform activities of daily living); 10-metre walk test (gait speed); mBMI, modified body mass index (nutritional status); COMPASS 31, Composite Autonomic Symptom Score 31 (patient reported symptom score)
 
@@ -342,11 +341,11 @@ The pharmacokinetic properties of Onpattro were characterised by measuring the p
 
 ## Absorption
 
-Greater than 95% of patisiran in the circulation is associated with lipid nanoparticles. At the dose regimen of 300 micrograms per kg every 3 weeks, steady state was reached by 24 weeks of treatment. The estimated patisiran mean ± SD steady-state peak concentration (Cmax), trough concentration (Ctrough), and area under the curve (AUC  ) were 7.15 ± 2.14 µg/mL, 0.021 ± 0.044 µg/mL, and 184 ± 159 µg·h/mL, respectively. The accumulation of AUC  was 3.2-fold at steady-state compared to the first dose.
+Greater than 95% of patisiran in the circulation is associated with lipid nanoparticles. At the dose regimen of 300 micrograms per kg every 3 weeks, steady state was reached by 24 weeks of treatment. The estimated patisiran mean ± SD steady-state peak concentration (Cmax), trough concentration (Ctrough), and area under the curve (AUCt) were 7.15 ± 2.14 µg/mL, 0.021 ± 0.044 µg/mL, and 184 ± 159 µg·h/mL, respectively. The accumulation of AUCt was 3.2-fold at steady-state compared to the first dose.
 
-The estimated DLin-MC3-DMA mean ± SD steady-state Cmax, Ctrough and AUC  were 40.2 ± 11.5 µg/mL, 1.75 ± 0.698 µg/mL, and 1403 ± 105 µg·h/mL, respectively. The accumulation of AUC  was 1.76-fold at steady-state compared to the first dose.
+The estimated DLin-MC3-DMA mean ± SD steady-state Cmax, Ctrough and AUCt were 40.2 ± 11.5 µg/mL, 1.75 ± 0.698 µg/mL, and 1403 ± 105 µg·h/mL, respectively. The accumulation of AUCt was 1.76-fold at steady-state compared to the first dose.
 
-The estimated PEG2000-C-DMG mean ± SD steady-state Cmax, Ctrough and AUC  were 4.22 ± 1.22 µg/mL, 0.0236 ± 0.0093 µg/mL, and 145 ± 64.7 µg·h/mL, respectively. There was no accumulation of AUC  at steady-state compared to the first dose.
+The estimated PEG2000-C-DMG mean ± SD steady-state Cmax, Ctrough and AUCt were 4.22 ± 1.22 µg/mL, 0.0236 ± 0.0093 µg/mL, and 145 ± 64.7 µg·h/mL, respectively. There was no accumulation of AUCt at steady-state compared to the first dose.
 
 ## Distribution
 
@@ -434,7 +433,7 @@ In lactating rats, patisiran was not present in milk, although small amounts of 
 
 ## 6.1 List of excipients
 
-DLin-MC3-DMA ((6Z,9Z,28Z,31Z)-heptatriaconta-6,9,28,31-tetraen-19-yl-4-(dimethylamino) butanoate) PEG2000-C-DMG (α-(3'-{[1,2-di(myristyloxy)propanoxy]carbonylamino}propyl)-ω-methoxy, polyoxyethylene) DSPC (1,2-distearoylsn -glycero-3-phosphocholine) Cholesterol Disodium hydrogen phosphate, heptahydrate Potassium dihydrogen phosphate, anhydrous Sodium chloride Water for injections
+DLin-MC3-DMA ((6Z,9Z,28Z,31Z)-heptatriaconta-6,9,28,31-tetraen-19-yl-4-(dimethylamino) butanoate) PEG2000-C-DMG (α-(3'-{[1,2-di(myristyloxy)propanoxy]carbonylamino}propyl)-ω-methoxy, polyoxyethylene) DSPC (1,2-distearoyl-sn-glycero-3-phosphocholine) Cholesterol Disodium hydrogen phosphate, heptahydrate Potassium dihydrogen phosphate, anhydrous Sodium chloride Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -446,7 +445,7 @@ Unopened vials
 
 4 years.
 
-## After dilution
+After dilution
 
 Chemical and physical in-use stability has been demonstrated for 16 hours at room temperature (up to 30°C). From a microbiological point of view, it is recommended that the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 16 hours at either 2°C to 8°C or room temperature (up to 30°C), including infusion time.
 
@@ -504,9 +503,17 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY
+
+## AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE
+
+## MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE
+
+## SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -588,7 +595,8 @@ Each mL contains patisiran sodium equivalent to 2 mg patisiran.
 
 Each vial contains patisiran sodium equivalent to 10 mg patisiran formulated as lipid nanoparticles.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 Excipients
 
@@ -612,7 +620,7 @@ See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Concentrate for solution for infusion
+## Concentrate for solution for infusion
 
 10 mg/5 mL
 
@@ -632,25 +640,33 @@ For single use only.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+<div style=\"page-break-after: always\"></div>
 
-## 8. EXPIRY DATE
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
+
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-Store in a refrigerator. Do not freeze.
+Store in a refrigerator.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+Do not freeze.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Alnylam Netherlands B.V.
+Alnylam Netherlands B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam
 
-Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands
+Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/18/1320/001
 
@@ -662,15 +678,15 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Onpattro
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -681,7 +697,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -719,7 +737,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Onpattro 2 mg/mL concentrate for solution for infusion patisiran
+## Onpattro 2 mg/mL concentrate for solution for infusion
+
+patisiran
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -937,7 +957,7 @@ Medicines should not be disposed of via wastewater or household waste. Your heal
 - The active substance is patisiran.
 - Each mL contains patisiran sodium equivalent to 2 mg patisiran.
 - Each vial contains patisiran sodium equivalent to 10 mg patisiran.
-- The other ingredients are DLin-MC3-DMA ((6Z,9Z,28Z,31Z)-heptatriaconta-6,9,28,31-tetraen-19-yl-4- (dimethylamino) butanoate), PEG2000-C-DMG (α- (3'-{[1,2-di(myristyloxy)propanoxy]carbonylamino}propyl)-ω-methoxy, polyoxyethylene), DSPC (1,2-distearoylsn -glycero-3-phosphocholine), cholesterol, disodium hydrogen phosphate, heptahydrate, potassium dihydrogen phosphate, anhydrous, sodium chloride, and water for injections (see 'Onpattro contains sodium' in section 2).
+- The other ingredients are DLin-MC3-DMA ((6Z,9Z,28Z,31Z)-heptatriaconta-6,9,28,31-tetraen-19-yl-4- (dimethylamino) butanoate), PEG2000-C-DMG (α- (3'-{[1,2-di(myristyloxy)propanoxy]carbonylamino}propyl)-ω-methoxy, polyoxyethylene), DSPC (1,2-distearoyl-sn-glycero-3-phosphocholine), cholesterol, disodium hydrogen phosphate, heptahydrate, potassium dihydrogen phosphate, anhydrous, sodium chloride, and water for injections (see 'Onpattro contains sodium' in section 2).
 
 ## What Onpattro looks like and contents of the pack
 
@@ -967,7 +987,7 @@ Medison Pharma s.r.o. Tel: +420 221 343 336 medinfo.czechia@medisonpharma.com
 
 ## Danmark
 
-Alnylam Sweden AB Tlf.: 433 105 15 (+45 787 453 01) medinfo@alnylam.com
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 ## Deutschland
 
@@ -1011,7 +1031,7 @@ Alnylam Netherlands B.V. Tel: 0800 282 0025 (+31 20 369 7861) medinfo@alnylam.co
 
 ## Norge
 
-Alnylam Sweden AB Tlf: 800 544 00 (+472 1405 657) medinfo@alnylam.com
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 ## Österreich
 
@@ -1029,55 +1049,35 @@ Alnylam Portugal Tel: 707201512 (+351 21 269 8539) medinfo@alnylam.com
 
 ## Hrvatska
 
-## România
-
 Genesis Pharma Adriatic d.o.o Tel: +385 1 5530 011 medinfo@genesispharmagroup.com
-
-Genesis Biopharma Romania SRL Tel: +40 21 403 4074 medinfo@genesispharmagroup.com
 
 ## Ireland
 
 Alnylam Netherlands B.V. Tel: 1800 924260 (+353 818 882213) medinfo@alnylam.com
 
-## Slovenija
-
-Genesis Biopharma SL d.o.o. Tel: +386 1 292 70 90
-
-medinfo@genesispharmagroup.com
-
 ## Ísland
 
-Alnylam Netherlands B.V. Sími: +31 20 369 7861 medinfo@alnylam.com
+Alnylam Netherlands B.V.
 
-## Slovenská republika
+Sími: +31 20 369 7861
 
-Medison Pharma s.r.o. Tel: +421 2 201 109 65 medinfo.slovakia@medisonpharma.com
+medinfo@alnylam.com
 
 ## Italia
 
-Alnylam Italy S.r.l. Tel: 800 90 25 37 (+39 02 89 73 22 91) medinfo@alnylam.com
+Alnylam Italy S.r.l.
 
-## Suomi/Finland
-
-Alnylam Sweden AB medinfo@alnylam.com
-
-Puh/Tel: 0800 417 452 (+358 942 727 020)
+Tel: 800 90 25 37 (+39 02 89 73 22 91) medinfo@alnylam.com
 
 ## Κύπρος
 
 Genesis Pharma (Cyprus) Ltd Τηλ: +357 22765715 medinfo@genesispharmagroup.com
-
-## Sverige
-
-Alnylam Sweden AB Tel: 020109162 (+46 842002641) medinfo@alnylam.com
 
 ## Latvija
 
 Medison Pharma Latvia SIA Tel: +371 67 717 847 medinfo.latvia@medisonpharma.com
 
 ## This leaflet was last revised in
-
-## 03/2025
 
 ## Other sources of information
 
@@ -1096,11 +1096,29 @@ All patients should receive premedication prior to Onpattro administration to re
 - Intravenous H1 blocker (diphenhydramine 50 mg, or equivalent)
 - Intravenous H2 blocker (famotidine 20 mg, or equivalent)
 
-<div style=\"page-break-after: always\"></div>
-
 For premedications not available or not tolerated intravenously, equivalents may be administered orally.
 
-If clinically indicated, the corticosteroid may be tapered in decrements no greater than 2.5 mg to a minimum dose of 5 mg of dexamethasone (intravenous, IV), or equivalent. The patient should receive at least 3 consecutive infusions of Onpattro without experiencing IRRs before each reduction in corticosteroid premedication.
+## România
+
+Genesis Biopharma Romania SRL Tel: +40 21 403 4074 medinfo@genesispharmagroup.com
+
+## Slovenija
+
+Genesis Biopharma SL d.o.o. Tel: +386 1 292 70 90 medinfo@genesispharmagroup.com
+
+## Slovenská republika
+
+Medison Pharma s.r.o. Tel: +421 2 201 109 65 medinfo.slovakia@medisonpharma.com
+
+## Suomi/Finland
+
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
+
+## Sverige
+
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com If clinically indicated, the corticosteroid may be tapered in decrements no greater than 2.5 mg to a minimum dose of 5 mg of dexamethasone (intravenous, IV), or equivalent. The patient should receive at least 3 consecutive infusions of Onpattro without experiencing IRRs before each reduction in corticosteroid premedication.
+
+<div style=\"page-break-after: always\"></div>
 
 Additional or higher doses of one or more of the premedications may be administered to reduce the risk of IRRs, if needed.
 
@@ -1129,9 +1147,9 @@ Onpattro is for intravenous use.
 - Onpattro must be diluted prior to intravenous infusion.
 - A dedicated line with an infusion set containing a 1.2 micron PES in-line infusion filter must be used. The infusion sets must be free of di(2-ethylhexyl)phthalate (DEHP).
 - The diluted solution of Onpattro should be infused intravenously over approximately 80 minutes at an initial infusion rate of approximately 1 mL/min for the first 15 minutes, followed by an increase to approximately 3 mL/min for the remainder of the infusion. The duration of infusion may be extended in the event of an IRR.
+- Onpattro must be administered through a secure and free-flowing venous access line. The infusion site should be monitored for possible infiltration during administration. Suspected extravasation should be managed according to local standard practice for non-vesicants.
+- The patient should be observed during the infusion and, if clinically indicated, following the infusion.
 
 <div style=\"page-break-after: always\"></div>
 
-- Onpattro must be administered through a secure and free-flowing venous access line. The infusion site should be monitored for possible infiltration during administration. Suspected extravasation should be managed according to local standard practice for non-vesicants.
-- The patient should be observed during the infusion and, if clinically indicated, following the infusion.
 - After completion of the infusion, the intravenous administration set should be flushed with sodium chloride 9 mg/mL (0.9%) solution to ensure that all medicinal product has been administered.

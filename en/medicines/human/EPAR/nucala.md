@@ -1,21 +1,98 @@
 ---
-document_datetime: 2026-08-19 15:23:00
+document_datetime: 2026-09-18 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nucala.html
 document_name: nucala.html
 version: success
-processing_time: 0.1854318
-conversion_datetime: 2026-08-22 23:24:11.969511
+processing_time: 0.1749761
+conversion_datetime: 2026-09-23 07:34:11.574517
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Campaigns](/en/news-events/ema-campaigns)
+    - [Speeches](/en/news-events/speeches)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health professionals](/en/partners-networks/animal-health-professionals)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Nucala
+
 # Nucala
 
 [RSS](/en/individual-human-medicine.xml/65966)
@@ -49,8 +126,13 @@ Page contents
 Nucala is used to treat:
 
 - a particular type of asthma called eosinophilic asthma in patients aged 6 years and above. It is used with other medicines in patients whose asthma is severe and not well controlled with previous treatments;
-- severe chronic rhinosinusitis with nasal polyps (inflamed lining of the nose and sinuses with swellings in the nose) in adults. Nucala is used with a corticosteroid given into the nose when corticosteroid given by mouth or injection with or without surgery does not work well enough;
-- eosinophilic granulomatosis with polyangiitis (EGPA), a disease that causes vasculitis (inflammation of blood vessels) in the lungs, heart, intestines, and nerves. This can lead to asthma, chronic sinusitis and elevated levels of a type of white blood cell called eosinophils. Nucala is used with other medicines in patients aged 6 years and above when EGPA is relapsing-remitting or not well controlled with previous treatments. 'Relapsing-remitting' means that the patient has flare-ups of symptoms (relapses) followed by periods of recovery (remissions);
+
+- severe chronic rhinosinusitis with nasal polyps (inflamed lining of the nose and sinuses with swellings in the nose) in adults. Nucala is used with a corticosteroid given into the nose when corticosteroids given by mouth or injection with or without surgery do not work well enough;
+
+- chronic (long-term) obstructive pulmonary disease (COPD), a disease that causes breathing difficulties due to airway obstruction and damage to the lungs. Nucala is used in adults who have increased levels of eosinophils (a type of white blood cell) and whose disease is not controlled well enough with a combination of a long-acting beta-2 agonist, a long-acting muscarinic agonist and an inhaled corticosteroid (other COPD medicines). It is used with other medicines as maintenance (regular) treatment;
+
+- eosinophilic granulomatosis with polyangiitis (EGPA), a disease that causes vasculitis (inflammation of blood vessels) in the lungs, heart, intestines and nerves. This can lead to asthma, chronic sinusitis and elevated levels of a type of white blood cell called eosinophils. Nucala is used with other medicines in patients aged 6 years and above when EGPA is relapsing-remitting or not well controlled with previous treatments. 'Relapsing-remitting' means that the patient has flare-ups of symptoms (relapses) followed by periods of recovery (remissions);
+
 - hypereosinophilic syndrome (HES), a disease in which eosinophils start growing out of control. It is used with other medicines in adults whose disease is not well controlled with previous treatments and when the disease is linked to a blood abnormality or has no obvious cause.
 
 Nucala contains the active substance mepolizumab.
@@ -61,15 +143,15 @@ Collapse section
 
 ### How is Nucala used?
 
-Nucala can only be obtained with a prescription and should be prescribed by a doctor experienced in identifying and treating severe eosinophilic asthma, chronic rhinosinusitis with nasal polyps, HES or EGPA.
+Nucala can only be obtained with a prescription and should be prescribed by a doctor experienced in identifying and treating severe eosinophilic asthma, chronic rhinosinusitis with nasal polyps, COPD, HES or EGPA.
 
-The medicine is given by injection under the skin of the upper arm, thigh or abdomen (belly) once every 4 weeks. The recommended dose depends on the use and on the age of the patient. Nucala is intended for long-term treatment. The doctor should assess the need for continued treatment on an annual basis.
+The medicine is given by injection under the skin of the upper arm, thigh or abdomen (belly) once every 4 weeks. The recommended dose depends on the use and on the age of the patient. Nucala is intended for long-term treatment. The doctor should assess the need for continued treatment every year.
 
 Nucala is available as a solution in a prefilled pen or syringe or as a powder that comes in a vial and is made up into an injection. The patient and carer can use the Nucala prefilled pen or syringe themselves once they have been trained, whereas the vial is only for use by a healthcare professional. For more information about using Nucala, see the package leaflet or contact your doctor or pharmacist.
 
 ### How does Nucala work?
 
-In eosinophilic asthma, chronic rhinosinusitis with nasal polyps, EGPA and HES, symptoms are associated with having too many eosinophils in the blood and in phlegm in the lungs, nose and sinuses. The active substance in Nucala, mepolizumab, is a type of protein called a monoclonal antibody, which attaches to a specific substance in the body. Mepolizumab attaches to a substance called interleukin-5 that encourages the production and survival of eosinophils. By attaching to interleukin-5, mepolizumab blocks its action and thereby reduces the numbers of eosinophils. This helps to reduce inflammation, resulting in an improvement of symptoms.
+In eosinophilic asthma, chronic rhinosinusitis with nasal polyps, certain types of COPD, EGPA and HES, symptoms are associated with having too many eosinophils in the blood and in phlegm in the lungs, nose and sinuses. The active substance in Nucala, mepolizumab, is a type of protein called a monoclonal antibody, which attaches to a specific substance in the body. Mepolizumab attaches to a substance called interleukin-5 that encourages the production and survival of eosinophils. By attaching to interleukin-5, mepolizumab blocks its action and thereby reduces the numbers of eosinophils. This helps to reduce symptoms of the conditions being treated.
 
 ### What benefits of Nucala have been shown in studies?
 
@@ -77,7 +159,7 @@ In eosinophilic asthma, chronic rhinosinusitis with nasal polyps, EGPA and HES, 
 
 The benefits of Nucala in severe eosinophilic asthma that is not well controlled by previous treatment have been shown in three main studies, in which it was compared with a placebo (dummy) injection. The first study involved 616 adults and adolescents given Nucala every 4 weeks for a year, in addition to their regular asthma medicines. The second study involved 576 adults and adolescents given Nucala every 4 weeks for 28 weeks. The main measure of effectiveness in these studies was the number of severe attacks (exacerbations) of asthma that occurred during treatment, which was reduced by about half in patients given Nucala.
 
-The third study involved 135 mostly adult patients with eosinophilic asthma severe enough to need regular treatment by mouth with corticosteroids, and the main measure of effectiveness was how much the corticosteroid dose could be reduced using Nucala for 24 weeks compared with placebo. Over half (37 of 69) of the patients given Nucala were able to reduce their daily corticosteroid dose by more than 50% to a dose of 5 mg or less, and 10 of them were able to stop corticosteroids altogether, compared with about a third of those given placebo (22 of 66, of whom 5 were able to stop corticosteroids).
+The third study involved 135 mostly adult patients with eosinophilic asthma severe enough to need regular treatment by mouth with corticosteroids. The main measure of effectiveness was how much the corticosteroid dose could be reduced using Nucala over 24 weeks compared with placebo. Over half (37 of 69) of the patients given Nucala were able to reduce their daily corticosteroid dose by more than 50% to 5 mg or less, and 10 of them were able to stop corticosteroids altogether, compared with about a third of those given placebo (22 of 66, of whom 5 were able to stop corticosteroids).
 
 An additional study was carried out in children aged 6 to 11 years which showed that a dose of 40 mg Nucala given under the skin produced comparable levels of active substance in the body to those seen with standard doses in adults. The reduction in eosinophil levels in the blood achieved in children was also comparable to that seen with standard doses in adults.
 
@@ -85,9 +167,15 @@ An additional study was carried out in children aged 6 to 11 years which showed 
 
 Nucala was studied in 407 patients with severe chronic rhinosinusitis with nasal polyps. The main measure of effectiveness was based on the size of the polyps measured by the nasal polyp score (score ranges from 0 to 8 (scored 0, no polyp to 4, large polyps)), as well as nasal obstruction measured by the symptom scoring system VAS (which ranges from 0 (no obstruction) to 10 (complete obstruction)). In patients treated with Nucala the nasal polyp score improved by 1.0 point after 52 weeks of treatment compared with 0 in those who received placebo. Nasal obstruction improved by 4.4 points with Nucala compared with 0.82 with placebo.
 
+**Chronic obstructive pulmonary disease (COPD)**
+
+A main study involving 806 people with COPD and too many eosinophils in the blood and lungs showed that Nucala was effective at reducing the number of moderate-to-severe exacerbations, when they have a sudden worsening of their symptoms, requiring treatment with systemic corticosteroids or antibiotics, or leading to hospitalisation or death.
+
+In this study, people who added Nucala to their treatments had around 0.8 moderate-to-severe exacerbations per year, while those who added a placebo to their treatments had around 1 moderate-to-severe exacerbation per year.
+
 **Eosinophilic granulomatosis with polyangiitis (EGPA)**
 
-Nucala was studied in 136 patients who received standard of care in addition to either Nucala or placebo. After 36 and 48 weeks of treatment 32% (22 out of 68) of patients treated with Nucala achieved remission (no signs and symptoms of vasculitis) compared with 3% (2 out of 68) of patients who received placebo.
+Nucala was studied in 136 adults who received either Nucala or placebo in addition to standard of care. After 36 and 48 weeks of treatment, 32% (22 out of 68) of patients treated with Nucala achieved remission (no signs and symptoms of vasculitis) compared with 3% (2 out of 68) of patients who received placebo.
 
 **Hypereosinophilic syndrome (HES)**
 
@@ -95,11 +183,17 @@ A study in 108 patients showed that treatment with Nucala led to fewer flare-ups
 
 ### What are the risks associated with Nucala?
 
-The most common side effect with Nucala (which may affect more than 1 in 10 people) is headache. For the full list of side effects and restrictions with Nucala, see the package leaflet.
+For the full list of side effects and restrictions with Nucala, see the package leaflet. The most common side effects with Nucala (which may affect more than 1 in 10 people) include headache.
 
 ### Why is Nucala authorised in the EU?
 
-The European Medicines Agency decided that Nucala's benefits are greater than its risks and it can be authorised for use in the EU. In adults the reduction seen in severe asthma attacks and consequent need for hospital treatment was considered important and outweighed the low risk of side effects. In addition, a reduction in corticosteroid dose was considered clinically relevant, given the potential complications of long-term corticosteroid treatment. In children, eosinophilic asthma is rare and the data available are therefore limited. The Agency concluded that the data available indicate that Nucala acts in a similar way in adults and children and the results in adults therefore also apply to children with eosinophilic asthma. Nucala was also shown to be beneficial with an acceptable safety profile in patients with chronic rhinosinusitis with nasal polyps, EGPA or HES and the Agency therefore recommended marketing authorisation.
+The European Medicines Agency decided that Nucala's benefits are greater than its risks and it can be authorised for use in the EU.
+
+In adults, the reduction seen in severe asthma attacks and consequent need for hospital treatment was considered important and outweighed the low risk of side effects. In addition, a reduction in corticosteroid dose was considered clinically relevant, given the potential complications of long-term corticosteroid treatment.
+
+In children, eosinophilic asthma is rare and the data available are therefore limited. For both eosinophilic asthma and EGPA, the Agency concluded that the data available indicate that Nucala acts in a similar way in adults and children and the results in adults therefore also apply to children.
+
+In adults with COPD and too many eosinophils in the blood and lungs, adding Nucala to their treatment reduced moderate-to-severe exacerbations. Nucala was also shown to be beneficial with an acceptable safety profile in patients with chronic rhinosinusitis with nasal polyps, EGPA or HES.
 
 ### What measures are being taken to ensure the safe and effective use of Nucala?
 
@@ -113,147 +207,13 @@ Nucala received a marketing authorisation valid throughout the EU on 2 December 
 
 Nucala : EPAR - Medicine overview
 
-Reference Number: EMA/466140/2019
+Reference Number: EMA/532586/2021
 
-English (EN) (157.41 KB - PDF)
+English (EN) (151.34 KB - PDF)
 
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
+**First published:** 03/12/2015 **Last updated:** 18/09/2026
 
 [View](/en/documents/overview/nucala-epar-medicine-overview_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-369)
-
-български (BG) (156.26 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/bg/documents/overview/nucala-epar-medicine-overview_bg.pdf)
-
-español (ES) (111.59 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/es/documents/overview/nucala-epar-medicine-overview_es.pdf)
-
-čeština (CS) (150.19 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/cs/documents/overview/nucala-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (110.74 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/da/documents/overview/nucala-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (112.16 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/de/documents/overview/nucala-epar-medicine-overview_de.pdf)
-
-eesti (ET) (108.45 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/et/documents/overview/nucala-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (162.34 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/el/documents/overview/nucala-epar-medicine-overview_el.pdf)
-
-français (FR) (112.36 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/fr/documents/overview/nucala-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (141.65 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/hr/documents/overview/nucala-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (111.28 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/it/documents/overview/nucala-epar-medicine-overview_it.pdf)
-
-latviešu (LV) (151.7 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/lv/documents/overview/nucala-epar-medicine-overview_lv.pdf)
-
-lietuvių (LT) (150.35 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/lt/documents/overview/nucala-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (141.04 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/hu/documents/overview/nucala-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (148.71 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/mt/documents/overview/nucala-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (111.75 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/nl/documents/overview/nucala-epar-medicine-overview_nl.pdf)
-
-polski (PL) (154.47 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/pl/documents/overview/nucala-epar-medicine-overview_pl.pdf)
-
-português (PT) (111.39 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/pt/documents/overview/nucala-epar-medicine-overview_pt.pdf)
-
-română (RO) (149.82 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/ro/documents/overview/nucala-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (145.49 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/sk/documents/overview/nucala-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (141.42 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/sl/documents/overview/nucala-epar-medicine-overview_sl.pdf)
-
-suomi (FI) (110.94 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/fi/documents/overview/nucala-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (109.94 KB - PDF)
-
-**First published:** 03/12/2015 **Last updated:** 13/12/2021
-
-[View](/sv/documents/overview/nucala-epar-medicine-overview_sv.pdf)
 
 Nucala : EPAR - Risk management plan
 
@@ -273,7 +233,7 @@ English (EN) (2.19 MB - PDF)
 
 [View](/en/documents/product-information/nucala-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-116)
+[Other languages (23)](#file-language-dropdown-838)
 
 español (ES) (2.14 MB - PDF)
 
@@ -440,7 +400,7 @@ English (EN) (78.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nucala-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-240)
+[Other languages (24)](#file-language-dropdown-630)
 
 български (BG) (84.03 KB - PDF)
 
@@ -929,6 +889,6 @@ English (EN) (67.37 KB - PDF)
 
 **This page was last updated on**
 
-19/08/2026
+18/09/2026
 
 ## Share this page

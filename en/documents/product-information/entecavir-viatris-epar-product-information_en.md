@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 16:44:22
+document_datetime: 2026-09-21 11:18:58
 document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/entecavir-viatris-epar-product-information_en.pdf
 document_name: entecavir-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 15.2813536
-conversion_datetime: 2026-05-10 12:54:13.969277
+processing_time: 65.9837707
+conversion_datetime: 2026-09-23 06:54:18.805655
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -38,15 +38,19 @@ Each film-coated tablet contains entecavir monohydrate equivalent to 1 mg enteca
 
 ## Excipient with known effect
 
-Entecavir Viatris 0.5 mg film-coated tablets Each film-coated tablet contains 62.5 mg lactose monohydrate.
+Entecavir Viatris 0.5 mg film-coated tablets
 
-Entecavir Viatris 1 mg film-coated tablets Each film-coated tablet contains 125 mg lactose monohydrate.
+Each film-coated tablet contains 62.5 mg lactose monohydrate.
+
+## Entecavir Viatris 1 mg film-coated tablets
+
+Each film-coated tablet contains 125 mg lactose monohydrate.
 
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Film-coated tablet.
+Film-coated tablet (tablet).
 
 ## Entecavir Viatris 0.5 mg film-coated tablets
 
@@ -97,8 +101,8 @@ The recommended dose for adult patients with decompensated liver disease is 1 mg
 
 The optimal duration of treatment is unknown. Treatment discontinuation may be considered as follows:
 
-- In HBeAg negative adult patients, treatment should be administered at least until HBs seroconversion or there is evidence of loss of efficacy. With prolonged treatment for more than 2 years, regular reassessment is recommended to confirm that continuing the selected therapy remains appropriate for the patient.
 - In HBeAg positive adult patients, treatment should be administered at least until 12 months after achieving HBe seroconversion (HBeAg loss and HBV DNA loss with anti-HBe detection on two consecutive serum samples at least 3-6 months apart) or until HBs seroconversion or there is loss of efficacy (see section 4.4).
+- In HBeAg negative adult patients, treatment should be administered at least until HBs seroconversion or there is evidence of loss of efficacy. With prolonged treatment for more than 2 years, regular reassessment is recommended to confirm that continuing the selected therapy remains appropriate for the patient.
 
 In patients with decompensated liver disease or cirrhosis, treatment cessation is not recommended.
 
@@ -118,8 +122,8 @@ Paediatric patients with body weight of at least 32.6 kg, should be administered
 
 The optimal duration of treatment is unknown. In accordance with current paediatric practice guidelines, treatment discontinuation may be considered as follows:
 
-- In HBeAg negative paediatric patients, treatment should be administered until HBs seroconversion or there is evidence of loss of efficacy.
 - In HBeAg positive paediatric patients, treatment should be administered for at least 12 months after achieving undetectable HBV DNA and HBeAg seroconversion (HBeAg loss and anti-HBe detection on two consecutive serum samples at least 3-6 months apart) or until HBs seroconversion or there is loss of efficacy. Serum ALT and HBV DNA levels should be followed regularly after treatment discontinuation (see section 4.4).
+- In HBeAg negative paediatric patients, treatment should be administered until HBs seroconversion or there is evidence of loss of efficacy.
 
 Pharmacokinetics in paediatric patients with renal or hepatic impairment have not been studied.
 
@@ -135,25 +139,19 @@ No dose adjustment based on gender or race is required.
 
 The clearance of entecavir decreases with decreasing creatinine clearance (see section 5.2). Dose adjustment is recommended for patients with creatinine clearance &lt;50 mL/min, including those on haemodialysis or continuous ambulatory peritoneal dialysis (CAPD). A reduction of the daily dose using an oral solution is recommended. As an alternative, in case the oral solution is not available, the dose can be adjusted by increasing the dose interval, as detailed in the table. The proposed dose modifications are based on extrapolation of limited data, and their safety and effectiveness have not been clinically evaluated. Therefore, virological response should be closely monitored.
 
-|                                | Entecavir dose*                              | Entecavir dose*                                      |
-|--------------------------------|----------------------------------------------|------------------------------------------------------|
-| Creatinine clearance (mL/min ) | Nucleoside naïve patients                    | Lamivudine-refractory or decompensated liver disease |
-| ≥ 50                           | 0.5 mg once daily                            | 1 mg once daily                                      |
-| 30 - 49                        | 0.25 mg once daily* OR 0.5 mg every 48 hours | 0.5 mg once daily                                    |
-| 10 - 29                        | 0.15 mg once daily* OR 0.5 mg every 72 hours | 0.3 mg once daily* OR 0.5 mg every 48 hours          |
+| Creatinine clearance (mL/min)   | Entecavir dose* - Nucleoside naïve patients   | Entecavir dose* - Lamivudine-refractory or decompensated liver disease   |
+|---------------------------------|-----------------------------------------------|--------------------------------------------------------------------------|
+| ≥50                             | 0.5 mg once daily                             | 1 mg once daily                                                          |
+| 30 - 49                         | 0.25 mg once daily* OR 0.5 mg every 48 hours  | 0.5 mg once daily                                                        |
+| 10 - 29                         | 0.15 mg once daily* OR 0.5 mg every 72 hours  | 0.3 mg once daily* OR 0.5 mg every 48 hours                              |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                | Entecavir dose*                              | Entecavir dose*                                      |
-|--------------------------------|----------------------------------------------|------------------------------------------------------|
-| Creatinine clearance (mL/min ) | Nucleoside naïve patients                    | Lamivudine-refractory or decompensated liver disease |
-| <10 Haemodialysis or CAPD**    | 0.05 mg once daily* OR 0.5 mg every 5-7 days | 0.1 mg once daily* OR 0.5 mg every 72 hours          |
+| Creatinine clearance (mL/min)   | Entecavir dose* - Nucleoside naïve patients   | Entecavir dose* - Lamivudine-refractory or decompensated liver disease   |
+|---------------------------------|-----------------------------------------------|--------------------------------------------------------------------------|
+| <10 Haemodialysis or CAPD**     | 0.05 mg once daily* OR 0.5 mg every 5-7 days  | 0.1 mg once daily* OR 0.5 mg every 72 hours                              |
 
-* for doses &lt;0.5 mg entecavir oral solution is recommended
-
-**  on haemodialysis days, administer entecavir after haemodialysis.
-
-## Hepatic impairment
+Hepatic impairment
 
 No dose adjustment is required in patients with hepatic impairment.
 
@@ -199,7 +197,7 @@ Pre-existing lamivudine-resistant HBV is associated with an increased risk for s
 
 ## Paediatric population
 
-A lower rate of virologic response (HBV DNA &lt;50 IU/mL) was observed in paediatric patients with baseline HBV DNA ≥ 8.0 log 10 IU/mL (see section 5.1). Entecavir should be used in these patients only if the potential benefit justifies the potential risk to the child (e.g. resistance). Since some paediatric patients may require long-term or even lifetime management of chronic active hepatitis B, consideration should be given to the impact of entecavir on future treatment options.
+A lower rate of virologic response (HBV DNA &lt;50 IU/mL) was observed in paediatric patients with baseline HBV DNA ≥8.0 log10 IU/mL (see section 5.1). Entecavir should be used in these patients only if the potential benefit justifies the potential risk to the child (e.g. resistance). Since some paediatric patients may require long-term or even lifetime management of chronic active hepatitis B, consideration should be given to the impact of entecavir on future treatment options.
 
 ## Liver transplant recipients
 
@@ -211,7 +209,7 @@ Renal function should be carefully evaluated before and during entecavir therapy
 
 There are no data on the efficacy of entecavir in patients co-infected with hepatitis C or D virus.
 
-Human immunodeficiency virus (HIV)/HBV co-infected patients not receiving concomitant antiretroviral therapy
+## Human immunodeficiency virus (HIV)/HBV co-infected patients not receiving concomitant antiretroviral therapy
 
 Entecavir has not been evaluated in HIV/HBV co-infected patients not concurrently receiving effective HIV treatment. Emergence of HIV resistance has been observed when entecavir was used to treat chronic hepatitis B infection in patients with HIV infection not receiving highly active antiretroviral therapy (HAART) (see section 5.1). Therefore, therapy with entecavir should not be used for HIV/HBV co-infected patients who are not receiving HAART. Entecavir has not been studied as a treatment for HIV infection and is not recommended for this use.
 
@@ -267,19 +265,19 @@ No studies on the effects on the ability to drive and use machines have been per
 
 ## Summary of the safety profile
 
-In clinical trials in patients with compensated liver disease, the most common adverse reactions of any severity with at least a possible relation to entecavir were headache (9%), fatigue (6%), dizziness (4%) and nausea (3%). Exacerbations of hepatitis during and after discontinuation of entecavir therapy have also been reported (see section 4.4 and Description of selected adverse reactions ).
+In clinical trials in patients with compensated liver disease, the most common adverse reactions of any severity with at least a possible relation to entecavir were headache (9%), fatigue (6%), dizziness (4%) and nausea (3%). Exacerbations of hepatitis during and after discontinuation of entecavir therapy have also been reported (see section 4.4 and Description of selected adverse reactions).
 
 ## Tabulated list of adverse reactions
 
 Assessment of adverse reactions is based on experience from postmarketing surveillance and four clinical trials in which 1,720 patients with chronic hepatitis B infection and compensated liver disease received double-blind treatment with entecavir (n = 862) or lamivudine (n = 858) for up to 107 weeks (see section 5.1). In these studies, the safety profiles, including laboratory abnormalities, were comparable for entecavir 0.5 mg daily (679 nucleoside-naive HBeAg positive or negative patients treated for a median of 53 weeks), entecavir 1 mg daily (183 lamivudine-refractory patients treated for a median of 69 weeks), and lamivudine.
 
-Adverse reactions considered at least possibly related to treatment with entecavir are listed by body system organ class. Frequency is defined as very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions considered at least possibly related to treatment with entecavir are listed by body system organ class. Frequency is defined as very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Immune system disorders:
 
-rare: anaphylactoid reaction
-
 Psychiatric disorders:
+
+rare: anaphylactoid reaction
 
 common: insomnia
 
@@ -291,9 +289,9 @@ Gastrointestinal disorders:
 
 common: vomiting, diarrhoea, nausea,
 
-dyspepsia
-
 Hepatobiliary disorders:
+
+dyspepsia
 
 common: increased transaminases
 
@@ -321,7 +319,7 @@ In clinical trials with lamivudine-refractory patients, 4% had ALT elevations &g
 
 ## Exacerbations during treatment
 
-In studies with nucleoside naive patients, on treatment ALT elevations &gt;10 times ULN and &gt;2 times baseline occurred in 2% of entecavir treated patients vs 4% of lamivudine treated patients. In studies with lamivudine-refractory patients, on treatment ALT elevations &gt;10 times ULN and &gt;2 times baseline occurred in 2% of entecavir treated patients vs 11% of lamivudine treated patients. Among entecavir-treated patients, on-treatment ALT elevations had a median time to onset of 4-5 weeks, generally resolved with continued treatment, and, in a majority of cases, were associated with a ≥ 2 log 10 /mL reduction in viral load that preceded or coincided with the ALT elevation. Periodic monitoring of hepatic function is recommended during treatment.
+In studies with nucleoside naive patients, on treatment ALT elevations &gt;10 times ULN and &gt;2 times baseline occurred in 2% of entecavir treated patients vs 4% of lamivudine treated patients. In studies with lamivudine-refractory patients, on treatment ALT elevations &gt;10 times ULN and &gt;2 times baseline occurred in 2% of entecavir treated patients vs 11% of lamivudine treated patients. Among entecavir-treated patients, on-treatment ALT elevations had a median time to onset of 4-5 weeks, generally resolved with continued treatment, and, in a majority of cases, were associated with a ≥2 log10/mL reduction in viral load that preceded or coincided with the ALT elevation. Periodic monitoring of hepatic function is recommended during treatment.
 
 ## Exacerbations after discontinuation of treatment
 
@@ -335,7 +333,7 @@ In the clinical trials entecavir treatment was discontinued if patients achieved
 
 The safety of entecavir in paediatric patients from 2 to &lt;18 years of age is based on two clinical trials in subjects with chronic HBV infection; one Phase 2 pharmacokinetic trial (study 028) and one Phase 3 trial (study 189). These trials provide experience in 195 HBeAg-positive nucleoside-treatment-naïve subjects treated with entecavir for a median duration of 99 weeks. The adverse reactions observed in paediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults (see Summary of the safety profile and section 5.1) with the following exception in the paediatric population:
 
-- very common adverse reactions:  neutropenia.
+- very common adverse reactions: neutropenia.
 
 ## Other special populations
 
@@ -349,7 +347,7 @@ The safety profile of entecavir in a limited number of HIV/HBV co-infected patie
 
 ## Gender/age
 
-There was no apparent difference in the safety profile of entecavir with respect to gender ( ≈ 25% women in the clinical trials) or age ( ≈ 5% of patients &gt;65 years of age).
+There was no apparent difference in the safety profile of entecavir with respect to gender (≈ 25% women in the clinical trials) or age (≈ 5% of patients &gt;65 years of age).
 
 ## Reporting of suspected adverse reactions
 
@@ -369,13 +367,13 @@ Pharmacotherapeutic group: antivirals for systemic use, nucleoside and nucleotid
 
 ## Mechanism of action
 
-Entecavir, a guanosine nucleoside analogue with activity against HBV polymerase, is efficiently phosphorylated to the active triphosphate (TP) form, which has an intracellular half-life of 15 hours. By competing with the natural substrate deoxyguanosine TP, entecavir-TP functionally inhibits the 3 activities of the viral polymerase: (1) priming of the HBV polymerase, (2) reverse transcription of the negative strand DNA from the pregenomic messenger RNA, and (3) synthesis of the positive strand HBV DNA. The entecavir-TP Ki for HBV DNA polymerase is 0.0012 μ M. Entecavir-TP is a weak inhibitor of cellular DNA polymerases α , β , and δ with Ki values of 18 to 40 µM. In addition, high exposures of entecavir had no relevant adverse reactions on γ polymerase or mitochondrial DNA synthesis in HepG2 cells (Ki &gt;160 µM).
+Entecavir, a guanosine nucleoside analogue with activity against HBV polymerase, is efficiently phosphorylated to the active triphosphate (TP) form, which has an intracellular half-life of 15 hours. By competing with the natural substrate deoxyguanosine TP, entecavir-TP functionally inhibits the 3 activities of the viral polymerase: (1) priming of the HBV polymerase, (2) reverse transcription of the negative strand DNA from the pregenomic messenger RNA, and (3) synthesis of the positive strand HBV DNA. The entecavir-TP Ki for HBV DNA polymerase is 0.0012 μM. Entecavir-TP is a weak inhibitor of cellular DNA polymerases α, β, and δ with Ki values of 18 to 40 µM. In addition, high exposures of entecavir had no relevant adverse reactions on γ polymerase or mitochondrial DNA synthesis in HepG2 cells (Ki &gt;160 µM).
 
 ## Antiviral activity
 
 Entecavir inhibited HBV DNA synthesis (50% reduction, EC50) at a concentration of 0.004 µM in human HepG2 cells transfected with wild-type HBV. The median EC50 value for entecavir against LVDr HBV (rtL180M and rtM204V) was 0.026 µM (range 0.010-0.059 µM). Recombinant viruses encoding adefovir-resistant substitutions at either rtN236T or rtA181V remained fully susceptible to entecavir.
 
-An analysis of the inhibitory activity of entecavir against a panel of laboratory and clinical HIV-1 isolates using a variety of cells and assay conditions yielded EC 50 values ranging from 0.026 to &gt;10 µM; the lower EC50 values were observed when decreased levels of virus were used in the assay. In cell culture, entecavir selected for an M184I substitution at micromolar concentrations, confirming inhibitory pressure at high entecavir concentrations. HIV variants containing the M184V substitution showed loss of susceptibility to entecavir (see section 4.4).
+An analysis of the inhibitory activity of entecavir against a panel of laboratory and clinical HIV-1 isolates using a variety of cells and assay conditions yielded EC50 values ranging from 0.026 to &gt;10 µM; the lower EC50 values were observed when decreased levels of virus were used in the assay. In cell culture, entecavir selected for an M184I substitution at micromolar concentrations, confirming inhibitory pressure at high entecavir concentrations. HIV variants containing the M184V substitution showed loss of susceptibility to entecavir (see section 4.4).
 
 In HBV combination assays in cell culture, abacavir, didanosine, lamivudine, stavudine, tenofovir or zidovudine were not antagonistic to the anti-HBV activity of entecavir over a wide range of concentrations. In HIV antiviral assays, entecavir at micromolar concentrations was not antagonistic to the anti-HIV activity in cell culture of these six NRTIs or emtricitabine.
 
@@ -389,33 +387,31 @@ Relative to wild-type HBV, LVDr viruses containing rtM204V and rtL180M substitut
 
 The demonstration of benefit is based on histological, virological, biochemical, and serological responses after 48 weeks of treatment in active-controlled clinical trials of 1,633 adults with chronic hepatitis B infection, evidence of viral replication and compensated liver disease. The safety and efficacy of entecavir were also evaluated in an active-controlled clinical trial of 191 HBV-infected patients with decompensated liver disease and in a clinical trial of 68 patients co-infected with HBV and HIV.
 
-In studies in patients with compensated liver disease, histological improvement was defined as a ≥ 2point decrease in Knodell necro-inflammatory score from baseline with no worsening of the Knodell fibrosis score. Responses for patients with baseline Knodell Fibrosis Scores of 4 (cirrhosis) were comparable to overall responses on all efficacy outcome measures (all patients had compensated liver disease). High baseline Knodell necroinflammatory scores (&gt;10) were associated with greater histological improvement in nucleoside-naive patients. Baseline ALT levels ≥ 2 times ULN and baseline HBV DNA ≤ 9.0 log 10 copies/mL were both associated with higher rates of virologic response (Week 48 HBV DNA &lt;400 copies/mL) in nucleoside-naive HBeAg-positive patients. Regardless of baseline characteristics, the majority of patients showed histological and virological responses to treatment.
+In studies in patients with compensated liver disease, histological improvement was defined as a ≥2point decrease in Knodell necro-inflammatory score from baseline with no worsening of the Knodell fibrosis score. Responses for patients with baseline Knodell Fibrosis Scores of 4 (cirrhosis) were comparable to overall responses on all efficacy outcome measures (all patients had compensated liver disease). High baseline Knodell necroinflammatory scores (&gt;10) were associated with greater histological improvement in nucleoside-naive patients. Baseline ALT levels ≥2 times ULN and baseline HBV DNA ≤9.0 log10 copies/mL were both associated with higher rates of virologic response (Week 48 HBV DNA &lt;400 copies/mL) in nucleoside-naive HBeAg-positive patients. Regardless of baseline characteristics, the majority of patients showed histological and virological responses to treatment.
 
 ## Experience in nucleoside-naive patients with compensated liver disease
 
 Results at 48 weeks of randomised, double blind studies comparing entecavir (ETV) to lamivudine (LVD) in HBeAg positive (022) and HBeAg negative (027) patients are presented in the table.
 
-|                                                | Nucleoside Naive           | Nucleoside Naive           | Nucleoside Naive           | Nucleoside Naive           |
-|------------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
-|                                                | HBeAg Positive (study 022) | HBeAg Positive (study 022) | HBeAg Negative (study 027) | HBeAg Negative (study 027) |
-|                                                | ETV 0.5 mg once daily      | LVD 100 mg once daily      | ETV 0.5 mg once daily      | LVD 100 mg once daily      |
-| n                                              | 314 a                      | 314 a                      | 296 a                      | 287 a                      |
-| Histological improvement b                     | 72%*                       | 62%                        | 70%*                       | 61%                        |
-| Ishak fibrosis score improvement               | 39%                        | 35%                        | 36%                        | 38%                        |
-| Ishak fibrosis score worsening                 | 8%                         | 10%                        | 12%                        | 15%                        |
-| n                                              | 354                        | 355                        | 325                        | 313                        |
-| Viral load reduction (log 10 copies/mL) c      | -6.86*                     | -5.39                      | -5.04*                     | -4.53                      |
-| HBV DNA undetectable (<300 copies/mL by PCR) c | 67%*                       | 36%                        | 90%*                       | 72%                        |
-| ALT normalisation ( ≤ 1 times ULN)             | 68%*                       | 60%                        | 78%*                       | 71%                        |
-| HBeAg Seroconversion                           | 21%                        | 18%                        |                            |                            |
+|                                                | Nucleoside Naive - HBeAg Positive (study 022) - ETV 0.5 mg once daily   | Nucleoside Naive - HBeAg Positive (study 022) - LVD 100 mg once daily   | Nucleoside Naive - HBeAg Negative (study 027) - ETV 0.5 mg once daily   | Nucleoside Naive - HBeAg Negative (study 027) - LVD 100 mg once daily   |
+|------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| n                                              | 314 a                                                                   | 314 a                                                                   | 296 a                                                                   | 287 a                                                                   |
+| Histological improvement b                     | 72%*                                                                    | 62%                                                                     | 70%*                                                                    | 61%                                                                     |
+| Ishak fibrosis score improvement               | 39%                                                                     | 35%                                                                     | 36%                                                                     | 38%                                                                     |
+| Ishak fibrosis score worsening                 | 8%                                                                      | 10%                                                                     | 12%                                                                     | 15%                                                                     |
+| n                                              | 354                                                                     | 355                                                                     | 325                                                                     | 313                                                                     |
+| Viral load reduction (log10 copies/mL) c       | -6.86*                                                                  | -5.39                                                                   | -5.04*                                                                  | -4.53                                                                   |
+| HBV DNA undetectable (<300 copies/mL by PCR) c | 67%*                                                                    | 36%                                                                     | 90%*                                                                    | 72%                                                                     |
+| ALT normalisation (≤1 times ULN)               | 68%*                                                                    | 60%                                                                     | 78%*                                                                    | 71%                                                                     |
+| HBeAg Seroconversion                           | 21%                                                                     | 18%                                                                     |                                                                         |                                                                         |
 
 *p value vs lamivudine &lt;0.05
 
-a  patients with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥ 2)
+a patients with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2)
 
 b a primary endpoint
 
-c  Roche Cobas Amplicor PCR assay (LLOQ = 300 copies/mL)
+c Roche Cobas Amplicor PCR assay (LLOQ = 300 copies/mL)
 
 ## Experience in lamivudine-refractory patients with compensated liver disease
 
@@ -423,18 +419,17 @@ In a randomised, double-blind study in HBeAg positive lamivudine-refractory pati
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                | Lamivudine-refractory HBeAg positive (study 026)   | Lamivudine-refractory HBeAg positive (study 026)   |
-|------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-|                                                | ETV 1.0 mg once daily                              | LVD 100 mg once daily                              |
-| n                                              | 124 a                                              | 116 a                                              |
-| Histological improvement b                     | 55%*                                               | 28%                                                |
-| Ishak fibrosis score improvement               | 34%*                                               | 16%                                                |
-| Ishak fibrosis score worsening                 | 11%                                                | 26%                                                |
-| n                                              | 141                                                | 145                                                |
-| Viral load reduction (log 10 copies/mL) c      | -5.11*                                             | -0.48                                              |
-| HBV DNA undetectable (<300 copies/mL by PCR) c | 19%*                                               | 1%                                                 |
-| ALT normalisation ( ≤ 1 times ULN)             | 61%*                                               | 15%                                                |
-| HBeAg Seroconversion                           | 8%                                                 | 3%                                                 |
+|                                                | Lamivudine-refractory HBeAg positive (study 026) - ETV 1.0 mg once daily   | Lamivudine-refractory HBeAg positive (study 026) - LVD 100 mg once daily   |
+|------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| n                                              | 124 a                                                                      | 116 a                                                                      |
+| Histological improvement b                     | 55%*                                                                       | 28%                                                                        |
+| Ishak fibrosis score improvement               | 34%*                                                                       | 16%                                                                        |
+| Ishak fibrosis score worsening                 | 11%                                                                        | 26%                                                                        |
+| n                                              | 141                                                                        | 145                                                                        |
+| Viral load reduction (log10 copies/mL) c       | -5.11*                                                                     | -0.48                                                                      |
+| HBV DNA undetectable (<300 copies/mL by PCR) c | 19%*                                                                       | 1%                                                                         |
+| ALT normalisation (≤1 times ULN)               | 61%*                                                                       | 15%                                                                        |
+| HBeAg Seroconversion                           | 8%                                                                         | 3%                                                                         |
 
 * p value vs lamivudine &lt;0.05
 
@@ -452,31 +447,31 @@ Treatment was discontinued when prespecified response criteria were met either a
 
 HBeAg positive (study 022): treatment with entecavir for up to 96 weeks (n = 354) resulted in cumulative response rates of 80% for HBV DNA &lt;300 copies/mL by PCR, 87% for ALT normalisation, 31% for HBeAg seroconversion and 2% for HBsAg seroconversion (5% for HBsAg loss). For lamivudine (n = 355), cumulative response rates were 39% for HBV DNA &lt;300 copies/mL by PCR, 79% for ALT normalisation, 26% for HBeAg seroconversion, and 2% for HBsAg seroconversion (3% for HBsAg loss).
 
-At end of dosing, among patients who continued treatment beyond 52 weeks (median of 96 weeks), 81% of 243 entecavir-treated and 39% of 164 lamivudine-treated patients had HBV DNA &lt;300 copies/mL by PCR while ALT normalisation ( ≤ 1 times ULN) occurred in 79% of entecavirtreated and 68% of lamivudine-treated patients.
+At end of dosing, among patients who continued treatment beyond 52 weeks (median of 96 weeks), 81% of 243 entecavir-treated and 39% of 164 lamivudine-treated patients had HBV DNA &lt;300 copies/mL by PCR while ALT normalisation (≤1 times ULN) occurred in 79% of entecavirtreated and 68% of lamivudine-treated patients.
 
 HBeAg negative (study 027): treatment with entecavir up to 96 weeks (n = 325) resulted in cumulative response rates of 94% for HBV DNA &lt;300 copies/mL by PCR and 89% for ALT normalisation versus 77% for HBV DNA &lt;300 copies/mL by PCR and 84% for ALT normalisation for lamivudine-treated patients (n = 313).
 
-For 26 entecavir-treated and 28 lamivudine-treated patients who continued treatment beyond 52 weeks (median 96 weeks), 96% of entecavir-treated and 64% of lamivudine-treated patients had HBV DNA &lt;300 copies/mL by PCR at end of dosing. ALT normalisation ( ≤ 1 times ULN) occurred in 27% of entecavir-treated and 21% of lamivudine-treated patients at end of dosing.
+For 26 entecavir-treated and 28 lamivudine-treated patients who continued treatment beyond 52 weeks (median 96 weeks), 96% of entecavir-treated and 64% of lamivudine-treated patients had HBV DNA &lt;300 copies/mL by PCR at end of dosing. ALT normalisation (≤1 times ULN) occurred in 27% of entecavir-treated and 21% of lamivudine-treated patients at end of dosing.
 
 For patients who met protocol-defined response criteria, response was sustained throughout the 24-week post-treatment follow-up in 75% (83/111) of entecavir responders vs 73% (68/93) for lamivudine responders in study 022 and 46% (131/286) of entecavir responders vs 31% (79/253) for lamivudine responders in study 027. By 48 weeks of post-treatment follow-up, a substantial number of HBeAg negative patients lost response.
 
 <div style=\"page-break-after: always\"></div>
 
-Liver biopsy results: 57 patients from the pivotal nucleoside-naive studies 022 (HBeAg positive) and 027 (HBeAg negative) who enrolled in a long-term rollover study were evaluated for long-term liver histology outcomes. The entecavir dose was 0.5 mg daily in the pivotal studies (mean exposure 85 weeks) and 1 mg daily in the rollover study (mean exposure 177 weeks), and 51 patients in the rollover study initially also received lamivudine (median duration 29 weeks). Of these patients, 55/57 (96%) had histological improvement as previously defined (see above), and 50/57 (88%) had a ≥ 1-point decrease in Ishak fibrosis score. For patients with baseline Ishak fibrosis score ≥ 2, 25/43 (58%) had a ≥ 2-point decrease. All (10/10) patients with advanced fibrosis or cirrhosis at baseline (Ishak fibrosis score of 4, 5 or 6) had a ≥ 1 point decrease (median decrease from baseline was 1.5 points). At the time of the long-term biopsy, all patients had HBV DNA &lt;300 copies/mL and 49/57 (86%) had serum ALT ≤ 1 times ULN. All 57 patients remained positive for HBsAg.
+Liver biopsy results: 57 patients from the pivotal nucleoside-naive studies 022 (HBeAg positive) and 027 (HBeAg negative) who enrolled in a long-term rollover study were evaluated for long-term liver histology outcomes. The entecavir dose was 0.5 mg daily in the pivotal studies (mean exposure 85 weeks) and 1 mg daily in the rollover study (mean exposure 177 weeks), and 51 patients in the rollover study initially also received lamivudine (median duration 29 weeks). Of these patients, 55/57 (96%) had histological improvement as previously defined (see above), and 50/57 (88%) had a ≥1-point decrease in Ishak fibrosis score. For patients with baseline Ishak fibrosis score ≥2, 25/43 (58%) had a ≥2-point decrease. All (10/10) patients with advanced fibrosis or cirrhosis at baseline (Ishak fibrosis score of 4, 5 or 6) had a ≥1 point decrease (median decrease from baseline was 1.5 points). At the time of the long-term biopsy, all patients had HBV DNA &lt;300 copies/mL and 49/57 (86%) had serum ALT ≤1 times ULN. All 57 patients remained positive for HBsAg.
 
 ## Lamivudine-refractory
 
 HBeAg positive (study 026): treatment with entecavir for up to 96 weeks (n = 141) resulted in cumulative response rates of 30% for HBV DNA &lt; 300 copies/mL by PCR, 85% for ALT normalisation and 17% for HBeAg seroconversion.
 
-For the 77 patients who continued entecavir treatment beyond 52 weeks (median 96 weeks), 40% of patients had HBV DNA &lt;300 copies/mL by PCR and 81% had ALT normalisation ( ≤ 1 times ULN) at end of dosing.
+For the 77 patients who continued entecavir treatment beyond 52 weeks (median 96 weeks), 40% of patients had HBV DNA &lt;300 copies/mL by PCR and 81% had ALT normalisation (≤1 times ULN) at end of dosing.
 
 ## Age/gender
 
-There was no apparent difference in efficacy for entecavir based on gender ( ≈ 25% women in the clinical trials) or age ( ≈ 5% of patients &gt;65 years of age).
+There was no apparent difference in efficacy for entecavir based on gender (≈ 25% women in the clinical trials) or age (≈ 5% of patients &gt;65 years of age).
 
 ## Long-Term Follow-Up Study
 
-Study 080 was a randomized, observational open-label Phase 4 study to assess long-term risks of entecavir treatment (ETV, n=6,216) or other standard of care HBV nucleoside (acid) treatment (nonETV) (n=6,162)  for up to 10 years in subjects with chronic HBV (CHB) infection. The principal clinical outcome events assessed in the study were overall malignant neoplasms (composite event of HCC and non-HCC malignant neoplasms), liver related HBV disease progression, non-HCC malignant neoplasms, HCC, and deaths, including liver related deaths. In this study, ETV was not associated with an increased risk of malignant neoplasms compared to use of non-ETV, as assessed by either the composite endpoint of overall malignant neoplasms (ETV n=331, non-ETV n=337; HR=0.93 [0.8-1.1]), or the individual endpoint of non-HCC malignant neoplasm (ETV n=95, nonETV n=81; HR=1.1 [0.82-1.5]). The reported events for liver-related HBV disease progression and HCC were comparable in both ETV and non-ETV groups. The most commonly reported malignancy in both ETV and non-ETV groups was HCC followed by gastrointestinal malignancies.
+Study 080 was a randomized, observational open-label Phase 4 study to assess long-term risks of entecavir treatment (ETV, n=6,216) or other standard of care HBV nucleoside (acid) treatment (nonETV) (n=6,162) for up to 10 years in subjects with chronic HBV (CHB) infection. The principal clinical outcome events assessed in the study were overall malignant neoplasms (composite event of HCC and non-HCC malignant neoplasms), liver related HBV disease progression, non-HCC malignant neoplasms, HCC, and deaths, including liver related deaths. In this study, ETV was not associated with an increased risk of malignant neoplasms compared to use of non-ETV, as assessed by either the composite endpoint of overall malignant neoplasms (ETV n=331, non-ETV n=337; HR=0.93 [0.8-1.1]), or the individual endpoint of non-HCC malignant neoplasm (ETV n=95, nonETV n=81; HR=1.1 [0.82-1.5]). The reported events for liver-related HBV disease progression and HCC were comparable in both ETV and non-ETV groups. The most commonly reported malignancy in both ETV and non-ETV groups was HCC followed by gastrointestinal malignancies.
 
 ## Special populations
 
@@ -486,21 +481,38 @@ In study 048, 191 patients with HBeAg positive or negative chronic HBV infection
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                | Week 24             | Week 24                             | Week 48             | Week 48                             |
-|------------------------------------------------|---------------------|-------------------------------------|---------------------|-------------------------------------|
-|                                                | ETV 1 mg once daily | Adefovir Dipivoxil 10 mg once daily | ETV 1 mg once daily | Adefovir Dipivoxil 10 mg once daily |
-| n                                              | 100                 | 91                                  | 100                 | 91                                  |
-| HBV DNA a                                      |                     |                                     |                     |                                     |
-| Proportion undetectable (<300 copies/mL) b     | 49%*                | 16%                                 | 57%*                | 20%                                 |
-| Mean change from baseline (log 10 copies/mL) c | -4.48*              | -3.40                               | -4.66               | -3.90                               |
-| Stable or improved CTP score b,d               | 66%                 | 71%                                 | 61%                 | 67%                                 |
-| MELD score Mean change from baseline c,e       | -2.0                | -0.9                                | -2.6                | -1.7                                |
-| HBsAg loss b                                   | 1%                  | 0                                   | 5%                  | 0                                   |
-| Normalization of: f                            |                     |                                     |                     |                                     |
-| ALT ( ≤ 1 X ULN) b                             | 46/78 (59%)*        | 28/71 (39%)                         | 49/78 (63%)*        | 33/71 (46%)                         |
-| Albumin ( ≥ 1 X LLN) b                         | 20/82 (24%)         | 14/69 (20%)                         | 32/82 (39%)         | 20/69 (29%)                         |
-| Bilirubin ( ≤ 1 X ULN) b                       | 12/75 (16%)         | 10/65 (15%)                         | 15/75 (20%)         | 18/65 (28%)                         |
-| Prothrombin time ( ≤ 1 X ULN) b                | 9/95 (9%)           | 6/82 (7%)                           | 8/95 (8%)           | 7/82 (9%)                           |
+|                                               | Week 24 - ETV 1 mg once daily   | Week 24 - Adefovir Dipivoxil 10 mg once daily   | Week 48 - ETV 1 mg once daily   | Week 48 - Adefovir Dipivoxil 10 mg once daily   |
+|-----------------------------------------------|---------------------------------|-------------------------------------------------|---------------------------------|-------------------------------------------------|
+| n                                             | 100                             | 91                                              | 100                             | 91                                              |
+| HBV DNA a                                     |                                 |                                                 |                                 |                                                 |
+| Proportion undetectable (<300 copies/mL) b    | 49%*                            | 16%                                             | 57%*                            | 20%                                             |
+| Mean change from baseline (log10 copies/mL) c | -4.48*                          | -3.40                                           | -4.66                           | -3.90                                           |
+| Stable or improved CTP score b,d              | 66%                             | 71%                                             | 61%                             | 67%                                             |
+| MELD score Mean change from baseline c,e      | -2.0                            | -0.9                                            | -2.6                            | -1.7                                            |
+| HBsAg loss b                                  | 1%                              | 0                                               | 5%                              | 0                                               |
+| Normalization of: f                           |                                 |                                                 |                                 |                                                 |
+| ALT (≤1 X ULN) b                              | 46/78 (59%)*                    | 28/71 (39%)                                     | 49/78 (63%)*                    | 33/71 (46%)                                     |
+| Albumin (≥1 X LLN) b                          | 20/82 (24%)                     | 14/69 (20%)                                     | 32/82 (39%)                     | 20/69 (29%)                                     |
+| Bilirubin (≤1 X ULN) b                        | 12/75 (16%)                     | 10/65 (15%)                                     | 15/75 (20%)                     | 18/65 (28%)                                     |
+| Prothrombin time (≤1 X ULN) b                 | 9/95 (9%)                       | 6/82 (7%)                                       | 8/95 (8%)                       | 7/82 (9%)                                       |
+
+a Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL).
+
+b NC=F (noncompleter=failure), meaning treatment discontinuations before the analysis week, including reasons such as death, lack of efficacy, adverse event, noncompliance/loss-to-follow-up, are counted as failures (e.g., HBV DNA
+
+≥300 copies/mL)
+
+c NC=M (noncompleters=missing)
+
+d Defined as decrease or no change from baseline in CTP score.
+
+e Baseline mean MELD score was 17.1 for ETV and 15.3 for adefovir dipivoxil.
+
+f Denominator is patients with abnormal values at baseline.
+
+*p&lt;0.05
+
+ULN=upper limit of normal, LLN=lower limit of normal.
 
 The time to onset of HCC or death (whichever occurred first) was comparable in the two treatment groups; on-study cumulative death rates were 23% (23/102) and 33% (29/89) for patients treated with entecavir and adefovir dipivoxil, respectively, and on-study cumulative rates of HCC were 12% (12/102) and 20% (18/89) for entecavir and adefovir dipivoxil, respectively.
 
@@ -508,7 +520,7 @@ For patients with LVDr substitutions at baseline, the percentage of patients wit
 
 ## HIV/HBV co-infected patients receiving concomitant HAART
 
-Study 038 included 67 HBeAg positive and 1 HBeAg negative patients co-infected with HIV. Patients had stable controlled HIV (HIV RNA &lt;400 copies/mL) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen. HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate. At baseline entecavir-treated patients had a median duration of prior lamivudine therapy of 4.8 years and median CD4 count of 494 cells/mm 3 (with only 5 subjects having CD4 count &lt;200 cells/mm 3 ). Patients continued their lamivudine-regimen and were assigned to add either entecavir 1 mg once daily (n = 51) or placebo (n = 17) for 24 weeks followed by an additional 24 weeks where all received entecavir. At 24 weeks the reduction in HBV viral load was significantly greater with entecavir (-3.65 vs an increase of 0.11 log 10 copies/mL). For patients originally assigned to entecavir treatment, the reduction in HBV DNA at 48 weeks was -4.20 log10 copies/mL, ALT normalisation had occurred in 37% of patients with abnormal baseline ALT and none achieved HBeAg seroconversion.
+Study 038 included 67 HBeAg positive and 1 HBeAg negative patients co-infected with HIV. Patients had stable controlled HIV (HIV RNA &lt;400 copies/mL) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen. HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate. At baseline entecavir-treated patients had a median duration of prior lamivudine therapy of 4.8 years and median CD4 count of 494 cells/mm 3 (with only 5 subjects having CD4 count &lt;200 cells/mm 3 ). Patients continued their lamivudine-regimen and were assigned to add either entecavir 1 mg once daily (n = 51) or placebo (n = 17) for 24 weeks followed by an additional 24 weeks where all received entecavir. At 24 weeks the reduction in HBV viral load was significantly greater with entecavir (-3.65 vs an increase of 0.11 log10 copies/mL). For patients originally assigned to entecavir treatment, the reduction in HBV DNA at 48 weeks was -4.20 log10 copies/mL, ALT normalisation had occurred in 37% of patients with abnormal baseline ALT and none achieved HBeAg seroconversion.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -518,22 +530,21 @@ Entecavir has not been evaluated in HIV/HBV co-infected patients not concurrentl
 
 ## Liver transplant recipients
 
-The safety and efficacy of entecavir 1 mg once daily were assessed in a single-arm study in 65 patients who received a liver transplant for complications of chronic HBV infection and had HBV DNA &lt;172 IU/mL (approximately 1000 copies/mL) at the time of transplant. The study population was 82% male, 39% Caucasian, and 37% Asian, with a mean age of 49 years; 89% of patients had HBeAgnegative disease at the time of transplant. Of the 61 patients who were evaluable for efficacy (received entecavir for at least 1 month), 60 also received hepatitis B immune globulin (HBIg) as part of the post-transplant prophylaxis regimen. Of these 60 patients, 49 received more than 6 months of HBIg therapy. At Week 72 post-transplant, none of 55 observed cases had virologic recurrence of HBV [defined as HBV DNA ≥ 50 IU/mL (approximately 300 copies/mL)], and there was no reported virologic recurrence at time of censoring for the remaining 6 patients. All 61 patients had HBsAg loss post-transplantation, and 2 of these later became HBsAg positive despite maintaining undetectable HBV DNA (&lt;6 IU/mL). The frequency and nature of adverse events in this study were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
+The safety and efficacy of entecavir 1 mg once daily were assessed in a single-arm study in 65 patients who received a liver transplant for complications of chronic HBV infection and had HBV DNA &lt;172 IU/mL (approximately 1000 copies/mL) at the time of transplant. The study population was 82% male, 39% Caucasian, and 37% Asian, with a mean age of 49 years; 89% of patients had HBeAgnegative disease at the time of transplant. Of the 61 patients who were evaluable for efficacy (received entecavir for at least 1 month), 60 also received hepatitis B immune globulin (HBIg) as part of the post-transplant prophylaxis regimen. Of these 60 patients, 49 received more than 6 months of HBIg therapy. At Week 72 post-transplant, none of 55 observed cases had virologic recurrence of HBV [defined as HBV DNA ≥50 IU/mL (approximately 300 copies/mL)], and there was no reported virologic recurrence at time of censoring for the remaining 6 patients. All 61 patients had HBsAg loss post-transplantation, and 2 of these later became HBsAg positive despite maintaining undetectable HBV DNA (&lt;6 IU/mL). The frequency and nature of adverse events in this study were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
 
 ## Paediatric population
 
 Study 189 is a study of the efficacy and safety of entecavir among 180 nucleoside-treatment-naïve children and adolescents from 2 to &lt;18 years of age with HBeAg positive chronic hepatitis B infection, compensated liver disease, and elevated ALT. Patients were randomized (2:1) to receive blinded treatment with entecavir 0.015 mg/kg up to 0.5 mg/day (N = 120) or placebo (N = 60). The randomization was stratified by age group (2 to 6 years; &gt;6 to 12 years; and &gt;12 to &lt;18 years). Baseline demographics and HBV disease characteristics were comparable between the 2 treatment arms and across age cohorts. At study entry, the mean HBV DNA was 8.1 log10 IU/mL and mean ALT was 103 U/l across the study population. Results for the main efficacy endpoints at Week 48 and Week 96 are presented in the table below.
 
-|                                                                       | Entecavir     | Entecavir     | Placebo*    |
-|-----------------------------------------------------------------------|---------------|---------------|-------------|
-|                                                                       | Week 48       | Week 96       | Week 48     |
-| n                                                                     | 120           | 120           | 60          |
-| HBV DNA <50 IU/mL and HBeAg seroconversion a                          | 24.2%         | 35.8%         | 3.3%        |
-| HBV DNA <50 IU/mL a                                                   | 49.2%         | 64.2%         | 3.3%        |
-| HBeAg seroconversion a                                                | 24.2%         | 36.7%         | 10.0%       |
-| ALT normalisation a                                                   | 67.5%         | 81.7%         | 23.3%       |
-| HBV DNA <50 IU/mL a Baseline HBV DNA <8 log 10 IU/mL Baseline HBV DNA | 82.6% (38/46) | 82.6% (38/46) | 6.5% (2/31) |
-| ≥ 8 log 10 IU/mL                                                      | 28.4% (21/74) | 52.7% (39/74) | 0% (0/29)   |
+|                                                                      | Entecavir - Week 48   | Entecavir - Week 96   | Placebo* - Week 48   |
+|----------------------------------------------------------------------|-----------------------|-----------------------|----------------------|
+| n                                                                    | 120                   | 120                   | 60                   |
+| HBV DNA <50 IU/mL and HBeAg seroconversion a                         | 24.2%                 | 35.8%                 | 3.3%                 |
+| HBV DNA <50 IU/mL a                                                  | 49.2%                 | 64.2%                 | 3.3%                 |
+| HBeAg seroconversion a                                               | 24.2%                 | 36.7%                 | 10.0%                |
+| ALT normalisation a                                                  | 67.5%                 | 81.7%                 | 23.3%                |
+| HBV DNA <50 IU/mL a Baseline HBV DNA <8 log10 IU/mL Baseline HBV DNA | 82.6% (38/46)         | 82.6% (38/46)         | 6.5% (2/31)          |
+| ≥8 log10 IU/mL                                                       | 28.4% (21/74)         | 52.7% (39/74)         | 0% (0/29)            |
 
 a NC=F (noncompleter = failure)
 
@@ -541,7 +552,7 @@ a NC=F (noncompleter = failure)
 
 <div style=\"page-break-after: always\"></div>
 
-The paediatric resistance assessment is based on data from nucleoside-treatment-naive paediatric patients with HBeAg-positive chronic HBV infection in two clinical trials (028 and 189). The two trials provide resistance data in 183 patients treated and monitored in Year 1 and 180 patients treated and monitored in Year 2. Genotypic evaluations were performed for all patients with available samples who had virologic breakthrough through Week 96 or HBV DNA ≥ 50 IU/mL at Week 48 or Week 96. During Year 2, genotypic resistance to ETV was detected in 2 patients (1.1% cumulative probability of resistance through Year 2).
+The paediatric resistance assessment is based on data from nucleoside-treatment-naive paediatric patients with HBeAg-positive chronic HBV infection in two clinical trials (028 and 189). The two trials provide resistance data in 183 patients treated and monitored in Year 1 and 180 patients treated and monitored in Year 2. Genotypic evaluations were performed for all patients with available samples who had virologic breakthrough through Week 96 or HBV DNA ≥50 IU/mL at Week 48 or Week 96. During Year 2, genotypic resistance to ETV was detected in 2 patients (1.1% cumulative probability of resistance through Year 2).
 
 ## Clinical resistance in adults
 
@@ -549,16 +560,17 @@ Patients in clinical trials initially treated with entecavir 0.5 mg (nucleoside-
 
 Through Week 240 in nucleoside-naive studies, genotypic evidence of ETVr substitutions at rtT184, rtS202, or rtM250 was identified in 3 patients treated with entecavir, 2 of whom experienced virologic breakthrough (see table). These substitutions were observed only in the presence of LVDr substitutions (rtM204V and rtL180M).
 
-| Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naïve Studies   | Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naïve Studies   | Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naïve Studies   | Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naïve Studies   | Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naïve Studies   | Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naïve Studies   |
-|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-|                                                                                    | Year 1                                                                             | Year 2                                                                             | Year 3 a                                                                           | Year 4 a                                                                           | Year 5 a                                                                           |
-| Patients treated and monitored for resistance b                                    | 663                                                                                | 278                                                                                | 149                                                                                | 121                                                                                | 108                                                                                |
-| Patients in specific year with:                                                    |                                                                                    |                                                                                    |                                                                                    |                                                                                    |                                                                                    |
-| - emerging genotypic ETVr c                                                        | 1                                                                                  | 1                                                                                  | 1                                                                                  | 0                                                                                  | 0                                                                                  |
-| - genotypic ETVr c with virologic breakthrough d                                   | 1                                                                                  | 0                                                                                  | 1                                                                                  | 0                                                                                  | 0                                                                                  |
-| Cumulative probability of:                                                         |                                                                                    |                                                                                    |                                                                                    |                                                                                    |                                                                                    |
-| - emerging genotypic ETVr c                                                        | 0.2%                                                                               | 0.5%                                                                               | 1.2%                                                                               | 1.2%                                                                               | 1.2%                                                                               |
-| - genotypic ETVr c with virologic breakthrough d                                   | 0.2%                                                                               | 0.2%                                                                               | 0.8%                                                                               | 0.8%                                                                               | 0.8%                                                                               |
+|                                                                                  |                                                                                  |                                                                                  |                                                                                  |                                                                                  |                                                                                  |
+|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naïve Studies | Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naïve Studies | Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naïve Studies | Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naïve Studies | Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naïve Studies | Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naïve Studies |
+|                                                                                  | Year 1                                                                           | Year 2                                                                           | Year 3 a                                                                         | Year 4 a                                                                         | Year 5 a                                                                         |
+| Patients treated and monitored for resistance b                                  | 663                                                                              | 278                                                                              | 149                                                                              | 121                                                                              | 108                                                                              |
+| Patients in specific year with:                                                  |                                                                                  |                                                                                  |                                                                                  |                                                                                  |                                                                                  |
+| - emerging genotypic ETVr c                                                      | 1                                                                                | 1                                                                                | 1                                                                                | 0                                                                                | 0                                                                                |
+| - genotypic ETVr c with virologic breakthrough d                                 | 1                                                                                | 0                                                                                | 1                                                                                | 0                                                                                | 0                                                                                |
+| Cumulative probability of:                                                       |                                                                                  |                                                                                  |                                                                                  |                                                                                  |                                                                                  |
+| - emerging genotypic ETVr c                                                      | 0.2%                                                                             | 0.5%                                                                             | 1.2%                                                                             | 1.2%                                                                             | 1.2%                                                                             |
+| - genotypic ETVr c with virologic breakthrough d                                 | 0.2%                                                                             | 0.2%                                                                             | 0.8%                                                                             | 0.8%                                                                             | 0.8%                                                                             |
 
 a Results reflect use of a 1 mg dose of entecavir for 147 of 149 patients in Year 3 and all patients in Years 4 and 5 and of combination entecavir-lamivudine therapy (followed by long-term entecavir therapy) for a median of 20 weeks for 130 of 149 patients in Year 3 and for 1 week for 1 of 121 patients in Year 4 in a rollover study.
 
@@ -566,34 +578,35 @@ b Includes patients with at least one on-therapy HBV DNA measurement by PCR at o
 
 c Patients also have LVDr substitutions.
 
-d ≥ 1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
+d ≥1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
 
-ETVr substitutions (in addition to LVDr substitutions rtM204V/I ± rtL180M) were observed at baseline in isolates from 10/187 (5%) lamivudine-refractory patients treated with entecavir and monitored for resistance, indicating that prior lamivudine treatment can select these resistance substitutions and that they can exist at a low frequency before entecavir treatment. Through Week 240, 3 of the 10 patients experienced virologic breakthrough ( ≥ 1 log 10 increase above nadir). Emerging entecavir resistance in lamivudine-refractory studies through Week 240 is summarized in the table.
+ETVr substitutions (in addition to LVDr substitutions rtM204V/I ± rtL180M) were observed at baseline in isolates from 10/187 (5%) lamivudine-refractory patients treated with entecavir and monitored for resistance, indicating that prior lamivudine treatment can select these resistance substitutions and that they can exist at a low frequency before entecavir treatment. Through Week 240, 3 of the 10 patients experienced virologic breakthrough (≥1 log10 increase above nadir). Emerging entecavir resistance in lamivudine-refractory studies through Week 240 is summarized in the table.
 
 <div style=\"page-break-after: always\"></div>
 
-| Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies   | Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies   | Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies   | Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies   | Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies   | Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies   |
-|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|                                                                                | Year 1                                                                         | Year 2                                                                         | Year 3 a                                                                       | Year 4 a                                                                       | Year 5 a                                                                       |
-| Patients treated and monitored for resistance b                                | 187                                                                            | 146                                                                            | 80                                                                             | 52                                                                             | 33                                                                             |
-| Patients in specific year with:                                                |                                                                                |                                                                                |                                                                                |                                                                                |                                                                                |
-| - emerging genotypic ETVr c                                                    | 11                                                                             | 12                                                                             | 16                                                                             | 6                                                                              | 2                                                                              |
-| - genotypic ETVr with virologic breakthrough d                                 | 2 e                                                                            | 14 e                                                                           | 13 e                                                                           | 9 e                                                                            | 1 e                                                                            |
-| Cumulative probability of:                                                     |                                                                                |                                                                                |                                                                                |                                                                                |                                                                                |
-| - emerging genotypic ETVr c                                                    | 6.2%                                                                           | 15%                                                                            | 36.3%                                                                          | 46.6%                                                                          | 51.45%                                                                         |
-| - genotypic ETVr c with virologic breakthrough d                               | 1.1% e                                                                         | 10.7% e                                                                        | 27% e                                                                          | 41.3% e                                                                        | 43.6% e                                                                        |
+|                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies | Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies | Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies | Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies | Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies | Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies |
+|                                                                              | Year 1                                                                       | Year 2                                                                       | Year 3 a                                                                     | Year 4 a                                                                     | Year 5 a                                                                     |
+| Patients treated and monitored for resistance b                              | 187                                                                          | 146                                                                          | 80                                                                           | 52                                                                           | 33                                                                           |
+| Patients in specific year with:                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |
+| - emerging genotypic ETVr c                                                  | 11                                                                           | 12                                                                           | 16                                                                           | 6                                                                            | 2                                                                            |
+| - genotypic ETVr with virologic breakthrough d                               | 2 e                                                                          | 14 e                                                                         | 13 e                                                                         | 9 e                                                                          | 1 e                                                                          |
+| Cumulative probability of:                                                   |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |
+| - emerging genotypic ETVr c                                                  | 6.2%                                                                         | 15%                                                                          | 36.3%                                                                        | 46.6%                                                                        | 51.45%                                                                       |
+| - genotypic ETVr c with virologic breakthrough d                             | 1.1% e                                                                       | 10.7% e                                                                      | 27% e                                                                        | 41.3% e                                                                      | 43.6% e                                                                      |
 
 a Results reflect use of combination entecavir-lamivudine therapy (followed by long-term entecavir therapy) for a median of 13 weeks for 48 of 80 patients in Year 3, a median of 38 weeks for 10 of 52 patients in Year 4, and for 16 weeks for 1 of 33 patients in Year 5 in a rollover study.
 
-b  Includes patients with at least one on-therapy HBV DNA measurement by PCR at or after week 24 through week 58 (Year 1), after week 58 through week 102 (Year 2), after week 102 through week 156 (Year 3), after week 156 through week 204 (Year 4), or after week 204 through week 252 (Year 5).
+b Includes patients with at least one on-therapy HBV DNA measurement by PCR at or after week 24 through week 58 (Year 1), after week 58 through week 102 (Year 2), after week 102 through week 156 (Year 3), after week 156 through week 204 (Year 4), or after week 204 through week 252 (Year 5).
 
 c Patients also have LVDr substitutions.
 
-d ≥ 1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
+d ≥1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
 
 e ETVr occurring in any year; virologic breakthrough in specified year.
 
-Among lamivudine-refractory patients with baseline HBV DNA &lt;10 7 log10 copies/mL, 64% (9/14) achieved HBV DNA &lt;300 copies/mL at Week 48. These 14 patients had a lower rate of genotypic entecavir resistance (cumulative probability 18.8% through 5 years of follow-up) than the overall study population (see table). Also, lamivudine-refractory patients who achieved HBV DNA &lt;10 4 log 10 copies/mL by PCR at Week 24 had a lower rate of resistance than those who did not (5-year cumulative probability 17.6% [n= 50] versus 60.5% [n= 135], respectively).
+Among lamivudine-refractory patients with baseline HBV DNA &lt;10 7 log10 copies/mL, 64% (9/14) achieved HBV DNA &lt;300 copies/mL at Week 48. These 14 patients had a lower rate of genotypic entecavir resistance (cumulative probability 18.8% through 5 years of follow-up) than the overall study population (see table). Also, lamivudine-refractory patients who achieved HBV DNA &lt;10 4 log10 copies/mL by PCR at Week 24 had a lower rate of resistance than those who did not (5-year cumulative probability 17.6% [n= 50] versus 60.5% [n= 135], respectively).
 
 Integrated Analysis of Phase 2 and 3 Clinical Trials: In a post-approval integrated analysis of entecavir resistance data from 17 Phase 2 and 3 clinical trials, an emergent entecavir resistanceassociated substitution rtA181C was detected in 5 out of 1461 subjects during treatment with entecavir. This substitution was detected only in the presence of lamivudine resistance-associated substitutions rtL180M plus rtM204V.
 
@@ -601,7 +614,7 @@ Integrated Analysis of Phase 2 and 3 Clinical Trials: In a post-approval integra
 
 ## Absorption
 
-Entecavir is rapidly absorbed with peak plasma concentrations occurring between 0.5-1.5 hours. The absolute bioavailability has not been determined. Based on urinary excretion of unchanged medicinal product, the bioavailability has been estimated to be at least 70%. There is a dose-proportionate increase in C max and AUC values following multiple doses ranging from 0.1-1 mg. Steady-state is achieved between 6-10 days after once daily dosing with ≈ 2 times accumulation. Cmax and Cmin at steady-state are 4.2 and 0.3 ng/mL, respectively, for a dose of 0.5 mg, and 8.2 and 0.5 ng/mL, respectively, for 1 mg. The tablet and oral solution were bioequivalent in healthy subjects; therefore, both forms may be used interchangeably.
+Entecavir is rapidly absorbed with peak plasma concentrations occurring between 0.5-1.5 hours. The absolute bioavailability has not been determined. Based on urinary excretion of unchanged medicinal product, the bioavailability has been estimated to be at least 70%. There is a dose-proportionate increase in Cmax and AUC values following multiple doses ranging from 0.1-1 mg. Steady-state is achieved between 6-10 days after once daily dosing with ≈ 2 times accumulation. Cmax and Cmin at steady-state are 4.2 and 0.3 ng/mL, respectively, for a dose of 0.5 mg, and 8.2 and 0.5 ng/mL, respectively, for 1 mg. The tablet and oral solution were bioequivalent in healthy subjects; therefore, both forms may be used interchangeably.
 
 Administration of 0.5 mg entecavir with a standard high-fat meal (945 kcal, 54.6 g fat) or a light meal (379 kcal, 8.2 g fat) resulted in a minimal delay in absorption (1-1.5 hour fed vs. 0.75 hour fasted), a decrease in Cmax of 44-46%, and a decrease in AUC of 18-20%. The lower Cmax and AUC when taken with food is not considered to be of clinical relevance in nucleoside-naive patients but could affect efficacy in lamivudine-refractory patients (see section 4.2).
 
@@ -621,21 +634,20 @@ Entecavir is predominantly eliminated by the kidney with urinary recovery of unc
 
 ## Hepatic impairment
 
-Pharmacokinetic parameters in patients with moderate or severe hepatic impairment were similar to those in patients with normal hepatic function .
+Pharmacokinetic parameters in patients with moderate or severe hepatic impairment were similar to those in patients with normal hepatic function.
 
 ## Renal impairment
 
 Entecavir clearance decreases with decreasing creatinine clearance. A 4-hour period of haemodialysis removed ≈ 13% of the dose, and 0.3% was removed by CAPD. The pharmacokinetics of entecavir following a single 1 mg dose in patients (without chronic hepatitis B infection) are shown in the table below:
 
-|                          | Baseline Creatinine Clearance (mL/min)   | Baseline Creatinine Clearance (mL/min)   | Baseline Creatinine Clearance (mL/min)   | Baseline Creatinine Clearance (mL/min)   | Baseline Creatinine Clearance (mL/min)    |                                  |
-|--------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|-------------------------------------------|----------------------------------|
-|                          | Unimpaired >80 (n = 6)                   | Mild >50; ≤ 80 (n = 6)                   | Moderate 30-50 (n = 6)                   | Severe 20- <30 (n = 6)                   | Severe Managed with Haemodialysis (n = 6) | Severe Managed with CAPD (n = 4) |
-| C max (ng/mL) (CV%)      | 8.1 (30.7)                               | 10.4 (37.2)                              | 10.5 (22.7)                              | 15.3 (33.8)                              | 15.4 (56.4)                               | 16.6 (29.7)                      |
-|                          | 27.9                                     | 51.5                                     | 69.5                                     | 145.7                                    | 233.9                                     | 221.8                            |
-| AUC(0-T) (ng·h /mL) (CV) | (25.6)                                   | (22.8)                                   | (22.7)                                   | (31.5)                                   | (28.4)                                    | (11.6)                           |
-| CLR (mL/min) (SD)        | 383.2 (101.8)                            | 197.9 (78.1)                             | 135.6 (31.6)                             | 40.3 (10.1)                              | NA                                        | NA                               |
-| CLT/F (mL/min)           | 588.1                                    | 309.2                                    | 226.3                                    | 100.6                                    | 50.6                                      | 35.7                             |
-| (SD)                     | (153.7)                                  | (62.6)                                   | (60.1)                                   | (29.1)                                   | (16.5)                                    | (19.6)                           |
+|                          | Baseline Creatinine Clearance (mL/min) - Unimpaired >80 (n = 6)   | Baseline Creatinine Clearance (mL/min) - Mild >50; ≤80 (n = 6)   | Baseline Creatinine Clearance (mL/min) - Moderate 30-50 (n = 6)   | Baseline Creatinine Clearance (mL/min) - Severe 20- <30 (n = 6)   | Baseline Creatinine Clearance (mL/min) - Severe Managed with Haemodialysis (n = 6)   | Severe Managed with CAPD (n = 4)   |
+|--------------------------|-------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------|
+| Cmax (ng/mL) (CV%)       | 8.1 (30.7)                                                        | 10.4 (37.2)                                                      | 10.5 (22.7)                                                       | 15.3 (33.8)                                                       | 15.4 (56.4)                                                                          | 16.6 (29.7)                        |
+|                          | 27.9                                                              | 51.5                                                             | 69.5                                                              | 145.7                                                             | 233.9                                                                                | 221.8                              |
+| AUC(0-T) (ng·h /mL) (CV) | (25.6)                                                            | (22.8)                                                           | (22.7)                                                            | (31.5)                                                            | (28.4)                                                                               | (11.6)                             |
+| CLR (mL/min) (SD)        | 383.2 (101.8)                                                     | 197.9 (78.1)                                                     | 135.6 (31.6)                                                      | 40.3 (10.1)                                                       | NA                                                                                   | NA                                 |
+| CLT/F (mL/min)           | 588.1                                                             | 309.2                                                            | 226.3                                                             | 100.6                                                             | 50.6                                                                                 | 35.7                               |
+| (SD)                     | (153.7)                                                           | (62.6)                                                           | (60.1)                                                            | (29.1)                                                            | (16.5)                                                                               | (19.6)                             |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -657,21 +669,21 @@ The population pharmacokinetic analysis did not identify race as significantly i
 
 ## Paediatric population
 
-The steady-state pharmacokinetics of entecavir were evaluated (study 028) in 24 nucleoside naïve HBeAg-positive paediatric subjects from 2 to &lt;18 years of age with compensated liver disease. Entecavir exposure among nucleoside naïve subjects receiving once daily doses of entecavir 0.015 mg/kg up to a maximum dose of 0.5 mg was similar to the exposure achieved in adults receiving once daily doses of 0.5 mg. The C max , AUC (0-24), and Cmin for these subjects was 6.31 ng/mL, 18.33 ng h/mL, and 0.28 ng/mL, respectively.
+The steady-state pharmacokinetics of entecavir were evaluated (study 028) in 24 nucleoside naïve HBeAg-positive paediatric subjects from 2 to &lt;18 years of age with compensated liver disease. Entecavir exposure among nucleoside naïve subjects receiving once daily doses of entecavir 0.015 mg/kg up to a maximum dose of 0.5 mg was similar to the exposure achieved in adults receiving once daily doses of 0.5 mg. The Cmax, AUC (0-24), and Cmin for these subjects was 6.31 ng/mL, 18.33 ng h/mL, and 0.28 ng/mL, respectively.
 
 ## 5.3 Preclinical safety data
 
-In repeat-dose toxicology studies in dogs, reversible perivascular inflammation was observed in the central nervous system, for which no-effect doses corresponded to exposures 19 and 10 times those in humans (at 0.5 and 1 mg respectively). This finding was not observed in repeat-dose studies in other species, including monkeys administered entecavir daily for 1 year at exposures ≥ 100 times those in humans.
+In repeat-dose toxicology studies in dogs, reversible perivascular inflammation was observed in the central nervous system, for which no-effect doses corresponded to exposures 19 and 10 times those in humans (at 0.5 and 1 mg respectively). This finding was not observed in repeat-dose studies in other species, including monkeys administered entecavir daily for 1 year at exposures ≥100 times those in humans.
 
-In reproductive toxicology studies in which animals were administered entecavir for up to 4 weeks, no evidence of impaired fertility was seen in male or female rats at high exposures. Testicular changes (seminiferous tubular degeneration) were evident in repeat-dose toxicology studies in rodents and dogs at exposures ≥ 26 times those in humans. No testicular changes were evident in a 1-year study in monkeys.
+In reproductive toxicology studies in which animals were administered entecavir for up to 4 weeks, no evidence of impaired fertility was seen in male or female rats at high exposures. Testicular changes (seminiferous tubular degeneration) were evident in repeat-dose toxicology studies in rodents and dogs at exposures ≥26 times those in humans. No testicular changes were evident in a 1-year study in monkeys.
 
-In pregnant rats and rabbits administered entecavir, no effect levels for embryotoxicity and maternal toxicity corresponded to exposures ≥ 21 times those in humans. In rats, maternal toxicity, embryo-foetal toxicity (resorptions), lower foetal body weights, tail and vertebral malformations, reduced ossification (vertebrae, sternebrae, and phalanges), and extra lumbar vertebrae and ribs were observed at high exposures. In rabbits, embryo-foetal toxicity (resorptions), reduced ossification (hyoid), and an increased incidence of 13 th rib were observed at high exposures. In a peri-postnatal study in rats, no adverse effects on offspring were observed. In a separate study wherein entecavir was administered to pregnant lactating rats at 10 mg/kg, both foetal exposure to entecavir and secretion of entecavir into milk were demonstrated. In juvenile rats administered entecavir from postnatal days 4 to 80, a moderately reduced acoustic startle response was noted during the recovery period (postnatal days 110 to 114) but not during the dosing period at AUC values ≥ 92 times those in humans at the 0.5 mg dose or paediatric equivalent dose. Given the exposure margin, this finding is considered of unlikely clinical significance.
+In pregnant rats and rabbits administered entecavir, no effect levels for embryotoxicity and maternal toxicity corresponded to exposures ≥21 times those in humans. In rats, maternal toxicity, embryo-foetal toxicity (resorptions), lower foetal body weights, tail and vertebral malformations, reduced ossification (vertebrae, sternebrae, and phalanges), and extra lumbar vertebrae and ribs were observed at high exposures. In rabbits, embryo-foetal toxicity (resorptions), reduced ossification (hyoid), and an increased incidence of 13 th rib were observed at high exposures. In a peri-postnatal study in rats, no adverse effects on offspring were observed. In a separate study wherein entecavir was administered to pregnant lactating rats at 10 mg/kg, both foetal exposure to entecavir and secretion of entecavir into milk were demonstrated. In juvenile rats administered entecavir from postnatal days 4 to 80, a moderately reduced acoustic startle response was noted during the recovery period (postnatal days 110 to 114) but not during the dosing period at AUC values ≥92 times those in humans at the 0.5 mg dose or paediatric equivalent dose. Given the exposure margin, this finding is considered of unlikely clinical significance.
 
 <div style=\"page-break-after: always\"></div>
 
 No evidence of genotoxicity was observed in an Ames microbial mutagenicity assay, a mammalian cell gene mutation assay, and a transformation assay with Syrian hamster embryo cells. A micronucleus study and a DNA repair study in rats were also negative. Entecavir was clastogenic to human lymphocyte cultures at concentrations substantially higher than those achieved clinically.
 
-Two-year carcinogenicity studies: in male mice, increases in the incidences of lung tumours were observed at exposures ≥ 4 and ≥ 2 times that in humans at 0.5 mg and 1 mg respectively. Tumour development was preceded by pneumocyte proliferation in the lung which was not observed in rats, dogs, or monkeys, indicating that a key event in lung tumour development observed in mice likely was species-specific. Increased incidences of other tumours including brain gliomas in male and female rats, liver carcinomas in male mice, benign vascular tumours in female mice, and liver adenomas and carcinomas in female rats were seen only at high lifetime exposures. However, the no effect levels could not be precisely established. The predictivity of the findings for humans is not known. For clinical data. See section 5.1.
+Two-year carcinogenicity studies: in male mice, increases in the incidences of lung tumours were observed at exposures ≥4 and ≥2 times that in humans at 0.5 mg and 1 mg respectively. Tumour development was preceded by pneumocyte proliferation in the lung which was not observed in rats, dogs, or monkeys, indicating that a key event in lung tumour development observed in mice likely was species-specific. Increased incidences of other tumours including brain gliomas in male and female rats, liver carcinomas in male mice, benign vascular tumours in female mice, and liver adenomas and carcinomas in female rats were seen only at high lifetime exposures. However, the no effect levels could not be precisely established. The predictivity of the findings for humans is not known. For clinical data. See section 5.1.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -699,25 +711,49 @@ OPA/Aluminium/PVC-Aluminium foil blister packs containing 30 film-coated tablets
 
 <div style=\"page-break-after: always\"></div>
 
-OPA/Aluminium/PVC-Aluminium perforated unit-dose foil blister packs containing 30 x 1 or 90 x 1 film-coated tablets.
+OPA/Aluminium/PVC-Aluminium perforated unit-dose foil blister packs containing 30 x 1 or 90 x 1
 
-High density polyethylene (HDPE) bottle with child-resistant polypropylene closure containing 30 or 90 film-coated tablets.
+film-coated tablets.
+
+High density polyethylene (HDPE) bottle with child-resistant polypropylene closure containing 30 or
+
+90 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-```
-EU/1/17/1227/001 EU/1/17/1227/002 EU/1/17/1227/003 EU/1/17/1227/004 EU/1/17/1227/005 EU/1/17/1227/006 EU/1/17/1227/007 EU/1/17/1227/008 EU/1/17/1227/009 EU/1/17/1227/010
-```
+EU/1/17/1227/001
+
+EU/1/17/1227/002
+
+EU/1/17/1227/003
+
+EU/1/17/1227/004
+
+EU/1/17/1227/005
+
+EU/1/17/1227/006
+
+EU/1/17/1227/007
+
+EU/1/17/1227/008
+
+EU/1/17/1227/009
+
+EU/1/17/1227/010
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -728,6 +764,8 @@ Date of latest renewal: 21 June 2022
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/.
+
+22
 
 <div style=\"page-break-after: always\"></div>
 
@@ -768,8 +806,8 @@ The marketing autorisation holder (MAH) shall perform the required pharmacovigil
 
 An updated RMP should be submitted:
 
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-- At the request of the European Medicines Agency;
+- ·At the request of the European Medicines Agency;
+- ·Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
@@ -805,11 +843,9 @@ Also contains lactose. See leaflet for further information
 
 ## Film-coated tablet
 
-30 film-coated tablets
-
-30 x 1 film-coated tablets
-
-90 x 1 film-coated tablets
+- 30 film-coated tablets
+- 30 x 1 film-coated tablets
+- 90 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -901,7 +937,7 @@ EXP
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot Entecavir Viatris 0.5 mg film-coated tablets entecavir Viatris Limited EXP
+Lot Entecavir Viatris 0.5 mg tablets entecavir Viatris Limited EXP
 
 | 5.   | OTHER   |
 |------|---------|
@@ -929,11 +965,13 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+30
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON FOR BOTTLE
+## CARTON FOR BOTTLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -951,7 +989,7 @@ Also contains lactose. See leaflet for further information
 
 ## Film-coated tablet
 
-30 film-coated tablets
+- 30 film-coated tablets
 
 90 film-coated tablets
 
@@ -979,13 +1017,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited
-
-Damastown Industrial Park,
-
-Mulhuddart, Dublin 15,
-
-DUBLIN
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
 
 Ireland
 
@@ -999,7 +1031,7 @@ EU/1/17/1227/004
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1041,7 +1073,7 @@ Also contains lactose. See leaflet for further information
 
 ## Film-coated tablet
 
-30 film-coated tablets
+- 30 film-coated tablets
 
 90 film-coated tablets
 
@@ -1065,26 +1097,31 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/17/1227/001 EU/1/17/1227/004
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1108,11 +1145,9 @@ Also contains lactose. See leaflet for further information
 
 ## Film-coated tablet
 
-30 film-coated tablets
-
-30 x 1 film-coated tablets
-
-90 x 1 film-coated tablets
+- 30 film-coated tablets
+- 30 x 1 film-coated tablets
+- 90 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1126,7 +1161,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1160,8 +1195,7 @@ EU/1/17/1227/010
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1204,7 +1238,7 @@ EXP
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot Entecavir Viatris 1 mg film-coated tablets entecavir Viatris Limited EXP
+Lot Entecavir Viatris 1 mg tablets entecavir Viatris Limited EXP
 
 | 5.   | OTHER   |
 |------|---------|
@@ -1232,11 +1266,13 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+38
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON FOR BOTTLE
+## CARTON FOR BOTTLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1254,7 +1290,7 @@ Also contains lactose. See leaflet for further information
 
 ## Film-coated tablet
 
-30 film-coated tablets
+- 30 film-coated tablets
 
 90 film-coated tablets
 
@@ -1282,13 +1318,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited
-
-Damastown Industrial Park,
-
-Mulhuddart, Dublin 15,
-
-DUBLIN
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
 
 Ireland
 
@@ -1344,7 +1374,7 @@ Also contains lactose. See leaflet for further information
 
 ## Film-coated tablet
 
-30 film-coated tablets
+- 30 film-coated tablets
 
 90 film-coated tablets
 
@@ -1368,34 +1398,40 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/17/1227/006 EU/1/17/1227/009
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Entecavir Viatris 0.5 mg film-coated tablets Entecavir Viatris 1 mg film-coated tablets
 
@@ -1403,9 +1439,9 @@ entecavir
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- If you have any further questions, ask your doctor or pharmacist.
 - Keep this leaflet. You may need to read it again.
 - This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you have any further questions, ask your doctor or pharmacist.
 - If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
@@ -1429,22 +1465,22 @@ Infection by the hepatitis B virus can lead to damage to the liver. Entecavir Vi
 
 ## Do not take Entecavir Viatris
 
--  if you are allergic (hypersensitive) to entecavir or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic (hypersensitive) to entecavir or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking Entecavir Viatris
 
--  if you have ever had problems with your kidneys , tell your doctor. This is important because Entecavir Viatris is eliminated from your body through the kidneys and your dose or dosing schedule may need to be adjusted.
--  do not stop taking Entecavir Viatris without your doctor's advice since your hepatitis may worsen after stopping treatment. When your treatment with Entecavir Viatris is stopped, your doctor will continue to monitor you and take blood tests for several months.
--  discuss with your doctor whether your liver functions properly and, if not, what the possible effects on your Entecavir Viatris treatment may be.
+- if you have ever had problems with your kidneys, tell your doctor. This is important because Entecavir Viatris is eliminated from your body through the kidneys and your dose or dosing schedule may need to be adjusted.
+- do not stop taking Entecavir Viatris without your doctor's advice since your hepatitis may worsen after stopping treatment. When your treatment with Entecavir Viatris is stopped, your doctor will continue to monitor you and take blood tests for several months.
+- discuss with your doctor whether your liver functions properly and, if not, what the possible effects on your Entecavir Viatris treatment may be.
 
 <div style=\"page-break-after: always\"></div>
 
--  if you are also infected with HIV (human immunodeficiency virus) be sure to tell your doctor. You should not take Entecavir Viatris to treat your hepatitis B infection unless you are taking medicines for HIV at the same time, as the effectiveness of future HIV treatment may be reduced. Entecavir Viatris will not control your HIV infection.
--  taking Entecavir Viatris will not stop you from infecting other people with hepatitis B virus (HBV) through sexual contact or body fluids (including blood contamination). So, it is important to take appropriate precautions to prevent others from becoming infected with HBV. A vaccine is available to protect those at risk from becoming infected with HBV.
--  Entecavir Viatris belongs to a class of medicines that can cause lactic acidosis (excess of lactic acid in your blood) and enlargement of the liver. Symptoms such as nausea, vomiting and stomach pain might indicate the development of lactic acidosis. This rare but serious side effect has occasionally been fatal. Lactic acidosis occurs more often in women, particularly if they are very overweight. Your doctor will monitor you regularly while you are receiving Entecavir Viatris.
--  if you have previously received treatment for chronic hepatitis B , please inform your doctor.
+- if you are also infected with HIV (human immunodeficiency virus) be sure to tell your doctor. You should not take Entecavir Viatris to treat your hepatitis B infection unless you are taking medicines for HIV at the same time, as the effectiveness of future HIV treatment may be reduced. Entecavir Viatris will not control your HIV infection.
+- taking Entecavir Viatris will not stop you from infecting other people with hepatitis B virus (HBV) through sexual contact or body fluids (including blood contamination). So, it is important to take appropriate precautions to prevent others from becoming infected with HBV. A vaccine is available to protect those at risk from becoming infected with HBV.
+- Entecavir Viatris belongs to a class of medicines that can cause lactic acidosis (excess of lactic acid in your blood) and enlargement of the liver. Symptoms such as nausea, vomiting and stomach pain might indicate the development of lactic acidosis. This rare but serious side effect has occasionally been fatal. Lactic acidosis occurs more often in women, particularly if they are very overweight. Your doctor will monitor you regularly while you are receiving Entecavir Viatris.
+- if you have previously received treatment for chronic hepatitis B, please inform your doctor.
 
 ## Children and adolescents
 
@@ -1486,9 +1522,9 @@ For adults the recommended dose is either 0.5 mg or 1 mg once daily orally (by m
 
 ## Your dose will depend on:
 
--  whether you have been treated for HBV infection before, and what medicine you received.
--  whether you have kidney problems. Your doctor may prescribe a lower dose for you or instruct you to take it less often than once a day.
--  the condition of your liver.
+- whether you have been treated for HBV infection before, and what medicine you received.
+- whether you have kidney problems. Your doctor may prescribe a lower dose for you or instruct you to take it less often than once a day.
+- the condition of your liver.
 
 For children and adolescents (from 2 to less than 18 years of age), your child's doctor will decide the right dose based on your child's weight. Children weighing at least 32.6 kg may take the 0.5 mg tablet or an entecavir oral solution may be available. For patients weighing from 10 kg to 32.5 kg, an entecavir oral solution is recommended. All doses should be taken once daily orally (by mouth). There are no recommendations for entecavir in children less than 2 years of age or weighing less than 10 kg.
 
@@ -1498,7 +1534,7 @@ Your doctor will advise you on the dose that is right for you.
 
 Always take the dose recommended by your doctor to ensure that your medicine is fully effective and to reduce the development of resistance to treatment. Take Entecavir Viatris as long as your doctor has told you. Your doctor will tell you if and when you should stop the treatment.
 
-Some patients must take Entecavir Viatris on an empty stomach (see Entecavir Viatris with food and drink in Section 2 ). If your doctor instructs you to take Entecavir Viatris on an empty stomach, empty stomach means at least 2 hours after a meal and at least 2 hours before your next meal.
+Some patients must take Entecavir Viatris on an empty stomach (see Entecavir Viatris with food and drink in Section 2). If your doctor instructs you to take Entecavir Viatris on an empty stomach, empty stomach means at least 2 hours after a meal and at least 2 hours before your next meal.
 
 ## If you take more Entecavir Viatris than you should
 
@@ -1554,11 +1590,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## Entecavir Viatris 0.5 mg film-coated tablets
 
-The active substance is entecavir. Each film-coated tablet contains entecavir monohydrate equivalent to 0.5 mg entecavir.
+The active substance is entecavir. Each film-coated tablet (tablet) contains entecavir monohydrate equivalent to 0.5 mg entecavir.
 
 ## Entecavir Viatris1 mg film-coated tablets
 
-The active substance is entecavir. Each film-coated tablet contains entecavir monohydrate equivalent to 1 mg entecavir.
+The active substance is entecavir. Each film-coated tablet (tablet) contains entecavir monohydrate equivalent to 1 mg entecavir.
 
 ## The other ingredients are:
 
@@ -1584,57 +1620,37 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+
+Ireland
 
 ## Manufacturer
 
 Mylan Hungary Kft. Mylan utca 1, Komárom - 2900 Hungary
 
-Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+## Viatris Germany GmbH
+
+Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
-
-Viatris UAB
-
-Tel: +370 5 205 1288
 
 ## България
 
-Виатрис
+Виатрис ЕООД
 
-ЕООД
+Teл.: +359 2 44 55 400
 
-Te л
-
-.: +359 2 44 55 400
-
-## Luxembourg/Luxemburg
-
-Viatris
-
-Tél/Tel: + 32 (0)2 658 61 00
-
-(Belgique/Belgien)
-
-## Č eská republika
+## Česká republika
 
 Viatris CZ s.r.o.
 
 Tel: + 420 222 004 400
-
-## Magyarország
-
-Viatris Healthcare Kft.
-
-Tel.: + 36 1 465 2100
 
 ## Danmark
 
@@ -1642,17 +1658,35 @@ Viatris ApS
 
 Tlf: +45 28 11 69 32
 
-## Malta
-
-V.J. Salomone Pharma Ltd
-
-Tel: + 356 21 22 01 74
-
 ## Deutschland
 
 Viatris Healthcare GmbH
 
 Tel: +49 800 0700 800
+
+## Lietuva
+
+Viatris UAB
+
+Tel: +370 5 205 1288
+
+## Luxembourg/Luxemburg
+
+Tél/Tel: + 32 (0)2 658 61 00
+
+Viatris (Belgique/Belgien)
+
+## Magyarország
+
+Viatris Healthcare Kft.
+
+Tel.: + 36 1 465 2100
+
+## Malta
+
+V.J. Salomone Pharma Ltd
+
+Tel: + 356 21 22 01 74
 
 ## Nederland
 
@@ -1660,27 +1694,19 @@ Mylan BV
 
 Tel: +31 (0)20 426 3300
 
+<div style=\"page-break-after: always\"></div>
+
 ## Eesti
 
 Viatris OÜ
 
 Tel: + 372 6363 052
 
-## Norge
-
-Viatris AS
-
-Tlf: + 47 66 75 33 00
-
-<div style=\"page-break-after: always\"></div>
-
 ## Ελλάδα
 
 Viatris Hellas Ltd
 
-Τηλ
-
-: +30 2100 100 02
+Τηλ: +30 2100 100 02
 
 ## España
 
@@ -1722,9 +1748,7 @@ Tel: + 39 (0) 2 612 46921
 
 CPO Pharmaceuticals Limited
 
-Τηλ
-
-: +357 22863100
+Τηλ: +357 22863100
 
 ## Latvija
 
@@ -1737,6 +1761,12 @@ Tel: +371 676 055 80
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Norge
+
+Viatris AS
+
+Tlf: + 47 66 75 33 00
 
 ## Österreich
 

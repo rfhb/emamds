@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-04 09:07:20
-document_pages: 61
+document_datetime: 2026-09-16 10:07:10
+document_pages: 65
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/piqray-epar-product-information_en.pdf
 document_name: piqray-epar-product-information_en.pdf
 version: success
-processing_time: 14.0665953
-conversion_datetime: 2025-12-21 20:16:18.20912
+processing_time: 104.9207824
+conversion_datetime: 2026-09-23 07:11:54.204774
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,11 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Piqray 50 mg film-coated tablets Piqray 150 mg film-coated tablets Piqray 200 mg film-coated tablets
+Piqray 50 mg film-coated tablets
+
+Piqray 150 mg film-coated tablets
+
+Piqray 200 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -48,21 +52,21 @@ Film-coated tablet (tablet).
 
 ## Piqray 50 mg film-coated tablets
 
-Light pink, round, curved film-coated tablet with bevelled edges , imprinted with 'L7' on one side and 'NVR' on the other side. Approximate diameter: 7.2 mm.
+Light pink, round, curved film-coated tablet with bevelled edges, imprinted with 'L7' on one side and 'NVR' on the other side. Approximate diameter: 7.2 mm.
 
 ## Piqray 150 mg film-coated tablets
 
-Pale red, ovaloid, curved film-coated tablet with bevelled edges , imprinted with 'UL7' on one side and 'NVR' on the other side. Approximate size: 14.2 mm (length); 5.7 mm (width).
+Pale red, ovaloid, curved film-coated tablet with bevelled edges, imprinted with 'UL7' on one side and 'NVR' on the other side. Approximate size: 14.2 mm (length); 5.7 mm (width).
 
 ## Piqray 200 mg film-coated tablets
 
-Light red, ovaloid, curved film-coated tablet with bevelled edges , imprinted with 'YL7' on one side and 'NVR' on the other side. Approximate size: 16.2 mm (length); 6.5 mm (width).
+Light red, ovaloid, curved film-coated tablet with bevelled edges, imprinted with 'YL7' on one side and 'NVR' on the other side. Approximate size: 16.2 mm (length); 6.5 mm (width).
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-Piqray is indicated in combination with fulvestrant for the treatment of postmenopausal women, and men, with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)negative, locally advanced or metastatic breast cancer with a PIK3CA mutation after disease progression following endocrine therapy as monotherapy (see section 5.1).
+Piqray is indicated in combination with fulvestrant for the treatment of postmenopausal women, and men, with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)- negative, locally advanced or metastatic breast cancer with a PIK3CA mutation after disease progression following an endocrine-based regimen (see section 5.1 and for biomarker-based patient selection see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -70,7 +74,7 @@ Piqray is indicated in combination with fulvestrant for the treatment of postmen
 
 Treatment with Piqray should be initiated by a physician experienced in the use of anticancer therapies.
 
-Patients with HR-positive, HER2-negative advanced breast cancer should be selected based on the presence of a PIK3CA mutation in tumour or plasma specimens, using a validated test. If a mutation is not detected in a plasma specimen, tumour tissue should be tested if available.
+Patients with HR-positive, HER2-negative advanced breast cancer should be selected based on the presence of a PIK3CA mutation in tumour or plasma specimens, assessed by a CE-marked in vitro diagnostic (IVD) medical device with the corresponding intended purpose. If no CE-marked IVD medical device is available, an alternative validated test should be used. If a mutation is not detected in a plasma specimen, tumour tissue should be tested if available.
 
 ## Posology
 
@@ -86,7 +90,7 @@ Treatment should continue as long as clinical benefit is observed or until unacc
 
 Management of severe or intolerable adverse drug reactions (ADRs) may require temporary dose interruption, reduction, and/or discontinuation of Piqray. If dose reduction is required, the dose reduction guidelines for ADRs are listed in Table 1. A maximum of 2 dose reductions are recommended, after which the patient should be permanently discontinued from treatment with Piqray. Dose reduction should be based on the worst preceding toxicity.
 
-Table 1 Recommended dose reduction guidelines for ADRs 1
+## Table 1 Recommended dose reduction guidelines for ADRs 1
 
 | Piqray dose level                                        | Dose and schedule                                        | Number and strength of tablets                           |
 |----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -107,18 +111,18 @@ Consultation with a diabetologist or a healthcare professional experienced in th
 
 Table 2 Dose modification and management for hyperglycaemia
 
-| Fasting glucose (FG) values 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Recommendation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dose modification and management should only be based on fasting glucose (plasma/blood) values.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Dose modification and management should only be based on fasting glucose (plasma/blood) values.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| >ULN-160 mg/dl or >ULN-8.9 mmol/l                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | No Piqray dose adjustment required. Initiate or intensify oral antidiabetic treatment 2 .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| >160-250 mg/dl or >8.9- 13.9 mmol/l                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No Piqray dose adjustment required. Initiate or intensify oral antidiabetic treatment 2 . If FG does not decrease to ≤160 mg/dl or 8.9 mmol/l within 21 days with appropriate oral antidiabetic treatment 2,3 , reduce Piqray dose by 1 dose level and follow FG-value-specific recommendations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| >250-500 mg/dl or >13.9-27.8 mmol/l                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Interrupt Piqray. Initiate or intensify oral antidiabetic treatment 2 and consider additional antidiabetic medicinal products such as insulin 3 for 1-2 days until hyperglycaemia resolves, as clinically indicated. Administer intravenous hydration and consider appropriate treatment (e.g. intervention for electrolyte / ketoacidosis / hyperosmolar disturbances). If FG decreases to ≤160 mg/dl or 8.9 mmol/l within 3 to 5 days under appropriate antidiabetic treatment, resume Piqray at next lower dose level. If FG does not decrease to ≤160 mg/dl or 8.9 mmol/l within 3 to 5 days under appropriate antidiabetic treatment, consultation with a healthcare professional with expertise in the treatment of hyperglycaemia is recommended. If FG does not decrease to ≤160 mg/dl or 8.9 mmol/l within 21 days following appropriate antidiabetic treatment 2,3 , permanently discontinue Piqray treatment. |
-| >500 mg/dl or >27.8 mmol/l                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Interrupt Piqray. Initiate or intensify appropriate antidiabetic treatment 2,3 (administer intravenous hydration and consider appropriate treatment [e.g. intervention for electrolyte / ketoacidosis / hyperosmolar disturbances]), re-check within 24 hours and as clinically indicated. If FG decreases to ≤ 500 mg/dl or ≤27.8 mmol/l, then follow FG-value- specific recommendations for <500 mg/dl. If FG is confirmed at >500 mg/dl or >27.8 mmol/l after 24 hours, permanently discontinue Piqray treatment.                                                                                                                                                                                                                                                                                                                                                                                                     |
-| 1 Fasting glucose levels reflect hyperglycaemia grading according to CTCAE Version 4.03 CTCAE = Common Terminology Criteria for Adverse Events. 2 Applicable antidiabetic medicinal products, such as metformin, SGLT2 inhibitors or insulin sensitisers (such as thiazolidinediones or dipeptidyl peptidase-4 inhibitors), should be initiated and the respective prescribing information should be reviewed for dosing and dose titration recommendations, including local diabetic treatment guidelines. Metformin was recommended in the phase III clinical study with the following guidance: Metformin should be initiated at 500 mg once daily. Based on tolerability, the metformin dose may be increased to 500 mg twice daily, followed by 500 mg with breakfast, and 1 000 mg with the evening meal, followed by further increase to 1 000 mg twice daily if needed (see | 1 Fasting glucose levels reflect hyperglycaemia grading according to CTCAE Version 4.03 CTCAE = Common Terminology Criteria for Adverse Events. 2 Applicable antidiabetic medicinal products, such as metformin, SGLT2 inhibitors or insulin sensitisers (such as thiazolidinediones or dipeptidyl peptidase-4 inhibitors), should be initiated and the respective prescribing information should be reviewed for dosing and dose titration recommendations, including local diabetic treatment guidelines. Metformin was recommended in the phase III clinical study with the following guidance: Metformin should be initiated at 500 mg once daily. Based on tolerability, the metformin dose may be increased to 500 mg twice daily, followed by 500 mg with breakfast, and 1 000 mg with the evening meal, followed by further increase to 1 000 mg twice daily if needed (see                                      |
+| Fasting glucose (FG) values 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Recommendation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dose modification and management should only be based on fasting glucose (plasma/blood) values.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Dose modification and management should only be based on fasting glucose (plasma/blood) values.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| >ULN-160 mg/dl or >ULN-8.9 mmol/l                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | No Piqray dose adjustment required. Initiate or intensify oral antidiabetic treatment 2 .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| >160-250 mg/dl or >8.9- 13.9 mmol/l                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | No Piqray dose adjustment required. Initiate or intensify oral antidiabetic treatment 2 . If FG does not decrease to ≤160 mg/dl or 8.9 mmol/l within 21 days with appropriate oral antidiabetic treatment 2,3 , reduce Piqray dose by 1 dose level and follow FG-value-specific recommendations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| >250-500 mg/dl or >13.9-27.8 mmol/l                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Interrupt Piqray. Initiate or intensify oral antidiabetic treatment 2 and consider additional antidiabetic medicinal products such as insulin 3 for 1-2 days until hyperglycaemia resolves, as clinically indicated. Administer intravenous hydration and consider appropriate treatment (e.g. intervention for electrolyte / ketoacidosis / hyperosmolar disturbances). If FG decreases to ≤160 mg/dl or 8.9 mmol/l within 3 to 5 days under appropriate antidiabetic treatment, resume Piqray at next lower dose level. If FG does not decrease to ≤160 mg/dl or 8.9 mmol/l within 3 to 5 days under appropriate antidiabetic treatment, consultation with a healthcare professional with expertise in the treatment of hyperglycaemia is recommended. If FG does not decrease to ≤160 mg/dl or 8.9 mmol/l within 21 days following appropriate antidiabetic treatment 2,3 , permanently discontinue Piqray treatment. |
+| >500 mg/dl or >27.8 mmol/l section 4.4). 3 As recommended in hyperglycaemia resolves. induced hyperglycaemia, will normalise following                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Interrupt Piqray. Initiate or intensify appropriate antidiabetic treatment 2,3 (administer intravenous hydration and consider appropriate treatment [e.g. intervention for electrolyte / ketoacidosis / hyperosmolar disturbances]), re-check within 24 hours and as clinically indicated. If FG decreases to ≤500 mg/dl or ≤27.8 mmol/l, then follow FG-value- specific recommendations for <500 mg/dl. If FG is confirmed at >500 mg/dl or >27.8 mmol/l after 24 hours, permanently discontinue Piqray treatment. the phase III clinical studies, insulin may be used for 1-2 days until However, this may not be necessary in the majority of cases of alpelisib- given the short half-life of alpelisib and the expectation that glucose levels interruption of Piqray.                                                                                                                                              |
+| 1 Fasting glucose levels reflect hyperglycaemia grading according to CTCAE Version 4.03 CTCAE = Common Terminology Criteria for Adverse Events. 2 Applicable antidiabetic medicinal products, such as metformin, SGLT2 inhibitors or insulin sensitisers (such as thiazolidinediones or dipeptidyl peptidase-4 inhibitors), should be initiated and the respective prescribing information should be reviewed for dosing and dose titration recommendations, including local diabetic treatment guidelines. Metformin was recommended in the phase III clinical studies with the following guidance: Metformin should be initiated at 500 mg once daily. Based on tolerability, the metformin dose may be increased to 500 mg twice daily, followed by 500 mg with breakfast, and 1 000 mg with the evening meal, followed by further increase to 1 000 mg twice daily if needed (see | 1 Fasting glucose levels reflect hyperglycaemia grading according to CTCAE Version 4.03 CTCAE = Common Terminology Criteria for Adverse Events. 2 Applicable antidiabetic medicinal products, such as metformin, SGLT2 inhibitors or insulin sensitisers (such as thiazolidinediones or dipeptidyl peptidase-4 inhibitors), should be initiated and the respective prescribing information should be reviewed for dosing and dose titration recommendations, including local diabetic treatment guidelines. Metformin was recommended in the phase III clinical studies with the following guidance: Metformin should be initiated at 500 mg once daily. Based on tolerability, the metformin dose may be increased to 500 mg twice daily, followed by 500 mg with breakfast, and 1 000 mg with the evening meal, followed by further increase to 1 000 mg twice daily if needed (see                                    |
+
+Baseline diabetic and pre-diabetic status, baseline BMI ≥30 and baseline age ≥75 years have been found to be risk factors for hyperglycaemia in patients treated with alpelisib. These risk factors were present in 72.9% of patients with any grade of hyperglycaemia and in 83% of patients with grade 3 or 4 hyperglycaemia (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-Baseline diabetic and prediabetic status, baseline BMI ≥30 and baseline age ≥75 years have been found to be risk factors for hyperglycaemia in patients treated with alpelisib. These risk factors were present in 74.9% of patients with any grade of hyperglycaemia and in 84.7% of patients with grade 3 or 4 hyperglycaemia (see section 4.4).
 
 ## Rash
 
@@ -128,42 +132,49 @@ Topical corticosteroid treatment should be initiated at the first signs of rash 
 
 Table 3 Dose modification and management for rash
 
-| Grade 1                                                                                                                                                                                                                                 | Recommendation                                                                                                                                                                                                                                                    |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| All grades                                                                                                                                                                                                                              | Consultation with a dermatologist should always be considered.                                                                                                                                                                                                    |
-| Grade 1 (<10% body surface area [BSA] with active skin toxicity)                                                                                                                                                                        | No Piqray dose adjustment required. Initiate topical corticosteroid treatment. Consider adding oral antihistamine treatment to manage symptoms. If active rash is not improved within 28 days of appropriate treatment, add a low dose systemic corticosteroid.   |
-| Grade 2 (10-30% BSA with active skin toxicity)                                                                                                                                                                                          | No Piqray dose adjustment required. Initiate or intensify topical corticosteroid and oral antihistamine treatment. Consider low-dose systemic corticosteroid treatment. If rash improves to grade ≤1 within 10 days, systemic corticosteroid may be discontinued. |
-| Grade 3 (e.g. severe rash not responsive to medical management) (>30% BSA with active skin toxicity)                                                                                                                                    | Interrupt Piqray until rash improves to grade ≤ 1. Initiate or intensify topical/systemic corticosteroid and antihistamine treatment. Once rash improves to grade ≤ 1, resume Piqray at next lower dose level.                                                    |
-| Grade 4 (e.g. severe bullous, blistering or exfoliating skin conditions) (any %BSAassociated with extensive superinfection, with intravenous antibiotics indicated; life-threatening consequences) 1 Grading according to CTCAE Version | Permanently discontinue Piqray. 5.0                                                                                                                                                                                                                               |
+| Grade 1                                                                                                                                                                                                                                   | Recommendation                                                                                                                                                                                                                                                    |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| All grades                                                                                                                                                                                                                                | Consultation with a dermatologist should always be considered.                                                                                                                                                                                                    |
+| Grade 1 (<10% body surface area [BSA] with active skin toxicity)                                                                                                                                                                          | No Piqray dose adjustment required. Initiate topical corticosteroid treatment. Consider adding oral antihistamine treatment to manage symptoms. If active rash is not improved within 28 days of appropriate treatment, add a low dose systemic corticosteroid.   |
+| Grade 2 (10-30% BSA with active skin toxicity)                                                                                                                                                                                            | No Piqray dose adjustment required. Initiate or intensify topical corticosteroid and oral antihistamine treatment. Consider low-dose systemic corticosteroid treatment. If rash improves to grade ≤1 within 10 days, systemic corticosteroid may be discontinued. |
+| Grade 3 (e.g. severe rash not responsive to medical management) (>30% BSA with active skin toxicity)                                                                                                                                      | Interrupt Piqray until rash improves to grade ≤1. Initiate or intensify topical/systemic corticosteroid and antihistamine treatment. Once rash improves to grade ≤1, resume Piqray at next lower dose level.                                                      |
+| Grade 4 (e.g. severe bullous, blistering or exfoliating skin conditions) (any % BSA associated with extensive superinfection, with intravenous antibiotics indicated; life-threatening consequences) 1 Grading according to CTCAE Version | Permanently discontinue Piqray. 5.0                                                                                                                                                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
 Table 4 Dose modification and management for diarrhoea or colitis
 
-| Grade 1     | Grade 1                                                                                                                                                                                                   | Recommendation                                                                                                                                                                                                                                                                                                                                         |
-|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 1     | Grade 1                                                                                                                                                                                                   | No Piqray dose adjustment is required. Initiate appropriate medical therapy and monitor as clinically indicated.                                                                                                                                                                                                                                       |
-| Grade 2 2   | Grade 2 2                                                                                                                                                                                                 | Interrupt Piqray dose. Initiate or intensify appropriate medical therapy and monitor as clinically indicated. If diarrhoea or colitis improves to grade ≤1, then resume P iqray at same dose level. For recurrent diarrhoea or colitis grade ≥2, interrupt Piqray dose until improvement to grade ≤1, then resume Piqray at the next lower dose level. |
-| Grade 3 2,3 | Grade 3 2,3                                                                                                                                                                                               | Interrupt Piqray dose. Initiate or intensify appropriate medical therapy and monitor as clinically indicated. If diarrhoea or colitis improves to grade ≤1, then resume P iqray at the next lower dose level.                                                                                                                                          |
-| Grade 4 2,3 | Grade 4 2,3                                                                                                                                                                                               | Permanently discontinue Piqray.                                                                                                                                                                                                                                                                                                                        |
-| 1 2 3       | Grading according to CTCAE Version 5.0. For grade ≥ 2 consider additional treatment, such as steroids. Patients should additionally be managed according to local standard of care, including electrolyte | Grading according to CTCAE Version 5.0. For grade ≥ 2 consider additional treatment, such as steroids. Patients should additionally be managed according to local standard of care, including electrolyte                                                                                                                                              |
+| Grade 1     | Recommendation                                                                                                                                                                                                                                                                                                                                        |
+|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 1     | No Piqray dose adjustment is required. Initiate appropriate medical therapy and monitor as clinically indicated.                                                                                                                                                                                                                                      |
+| Grade 2 2   | Interrupt Piqray dose. Initiate or intensify appropriate medical therapy and monitor as clinically indicated. If diarrhoea or colitis improves to grade ≤1, then resume Piqray at same dose level. For recurrent diarrhoea or colitis grade ≥2, interrupt Piqray dose until improvement to grade ≤1, then resume Piqray at the next lower dose level. |
+| Grade 3 2,3 | Interrupt Piqray dose. Initiate or intensify appropriate medical therapy and monitor as clinically indicated. If diarrhoea or colitis improves to grade ≤1, then resume Piqray at the next lower dose level.                                                                                                                                          |
+| 2,3         |                                                                                                                                                                                                                                                                                                                                                       |
+
+## Grade 4 2,3
+
+Permanently discontinue Piqray.
+
+- 1 Grading according to CTCAE Version 5.0.
+- 2 For grade ≥2 consider additional treatment, such as steroids.
+- 3 Patients should additionally be managed according to local standard of care, including electrolyte monitoring, administration of antiemetics and antidiarrhoeal medicinal products and/or fluid replacement and electrolyte supplements, as clinically indicated.
 
 Other toxicities
 
 ## Table 5 Dose modification and management for other toxicities (excluding hyperglycaemia, rash and diarrhoea or colitis)
 
-| Grade 1      | Grade 1                                | Recommendation                                                                                                     |
-|--------------|----------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Grade 1 or 2 | Grade 1 or 2                           | No Piqray dose adjustment required. Initiate appropriate medical therapy and monitor as clinically indicated 2,3 . |
-| Grade 3      | Grade 3                                | Interrupt Piqray dose until improvement to grade ≤1, then resume Piqray at the next lower dose level 2 .           |
-| Grade 4      | Grade 4                                | Permanently discontinue Piqray 3 .                                                                                 |
-| 1 2          | Grading according to CTCAE Version 5.0 | and 3 pancreatitis, interrupt Piqray dose until improvement to grade ≤1 and resume at next                         |
+| Grade 1           | Grade 1                                | Recommendation                                                                                                                                                                                                                                                                                                                                                                    |
+|-------------------|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 1 or 2      | Grade 1 or 2                           | No Piqray dose adjustment required. Initiate appropriate medical therapy and monitor as clinically indicated 2,3 .                                                                                                                                                                                                                                                                |
+| Grade 3           | Grade 3                                | Interrupt Piqray dose until improvement to grade ≤1, then resume Piqray at the next lower dose level 2 .                                                                                                                                                                                                                                                                          |
+| Grade 4           | Grade 4                                | Permanently discontinue Piqray 3 .                                                                                                                                                                                                                                                                                                                                                |
+| 1 2 For grade 2 3 | Grading according to CTCAE Version 5.0 | and 3 pancreatitis, interrupt Piqray dose until improvement to grade ≤1 and resume at next level. Only one dose reduction is permitted. If toxicity recurs, permanently discontinue treatment. total bilirubin elevation, interrupt Piqray dose until recovery to grade ≤1 and resume at the resolved in ≤14 days or resume at the next lower dose level if resolved in >14 days. |
 
 ## Special populations
 
 ## Elderly
 
-No dose regimen adjustment is required in patients aged 65 years or above (see section 5.2). There are limited data in patients aged ≥75 years, and especially for those ≥ 85 years.
+No dose regimen adjustment is required in patients aged 65 years or above (see section 5.2). There are limited data in patients aged ≥75 years, and especially for those ≥85 years.
 
 ## Renal impairment
 
@@ -201,7 +212,7 @@ Serious hypersensitivity reactions (including anaphylactic reaction, anaphylacti
 
 ## Severe cutaneous reactions
 
-Severe cutaneous reactions have been reported with alpelisib. In the phase III clinical study, StevensJohnson syndrome (SJS) and erythema multiforme (EM) were reported in 1 (0.4%) and 3 (1.1%) patients, respectively. Drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported in the post-marketing setting (see section 4.8).
+Severe cutaneous reactions have been reported with alpelisib. In the pooled safety dataset from phase III clinical studies, Stevens-Johnson syndrome (SJS) and erythema multiforme (EM) were reported in 2 (0.5%) and 3 (0.8%) patients, respectively. Drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported in the post-marketing setting (see section 4.8).
 
 Treatment should not be initiated in patients with a history of severe cutaneous reactions.
 
@@ -215,39 +226,39 @@ Severe hyperglycaemia, in some cases associated with hyperglycaemic hyperosmolar
 
 <div style=\"page-break-after: always\"></div>
 
-In the phase III clinical study, hyperglycaemia occurred more frequently in patients who were diabetic (0 out of 12 patients [0%] with grade 1-2, and 10 out of 12 patients [83.3%] with grade 3-4), prediabetic (43 out of 159 patients [27.0%] with grade 1-2, and 77 out of 159 patients [48.4%] with grade 3-4) , had BMI ≥ 30 at screening (14 out of 74 patients [18.9%] with grade 1-2, and 38 out of 74 patients [51.4%] with grade 3-4) or ≥ 75 years of age (6 out of 34 patients [17.6%] with grade 1-2, and 19 out of 34 patients [55.9%] with grade 3-4).
+In the pooled safety dataset from phase III clinical studies, hyperglycaemia occurred more frequently in patients who were diabetic (1 out of 18 patients [5.6%] with grade 1-2, and 15 out of 18 patients [83.3%] with grade 3-4), pre-diabetic (55 out of 192 patients [28.6%] with grade 1-2, and 91 out of 192 patients [47.4%] with grade 3-4), had BMI ≥30 at screening (21 out of 91 patients [23.1%] with grade 1-2, and 47 out of 91 patients [51.6%] with grade 3-4) or ≥75 years of age (10 out of 46 patients [21.7%] with grade 1-2, and 22 out of 46 patients [47.8%] with grade 3-4).
 
 As hyperglycaemia may occur with a rapid onset after starting treatment, it is recommended to selfmonitor frequently in the first 4 weeks and especially within the first 2 weeks of treatment, as clinically indicated. A specific schedule for fasting glucose monitoring is recommended in Table 6.
 
-In the phase III clinical study, patients with a history of diabetes mellitus intensified use of antidiabetic medicinal products while on treatment with Piqray.
+In the phase III clinical study CBYL719C2301, patients with a history of diabetes mellitus intensified use of antidiabetic medicinal products while on treatment with Piqray.
 
 All patients should be instructed on lifestyle changes that may reduce hyperglycaemia (e.g. dietary restrictions and physical activity).
 
 Table 6 Schedule of fasting glucose monitoring
 
-|                                                                                                     | Recommended schedule for the monitoring of fasting glucose and HbA1c levels in all patients treated with Piqray                                                                                                                                                                                | Recommended schedule of monitoring of fasting glucose and HbA1c levels in patients with diabetes, pre-diabetes, BMI ≥ 30 or age ≥ 75 years treated with Piqray                                                                                                                                 |
+|                                                                                                     | Recommended schedule for the monitoring of fasting glucose and HbA1c levels in all patients treated with Piqray                                                                                                                                                                                | Recommended schedule of monitoring of fasting glucose and HbA1c levels in patients with diabetes, pre-diabetes, BMI ≥30 or age ≥75 years treated with Piqray                                                                                                                                   |
 |-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| At screening, before initiating treatment with Piqray                                               | Test for fasting plasma glucose (FPG), HbA1c, and optimise the patient ' s level of blood glucose (see Table 2).                                                                                                                                                                               | Test for fasting plasma glucose (FPG), HbA1c, and optimise the patient ' s level of blood glucose (see Table 2).                                                                                                                                                                               |
+| At screening, before initiating treatment with Piqray                                               | Test for fasting plasma glucose (FPG), HbA1c, and optimise the patient's level of blood glucose (see Table 2).                                                                                                                                                                                 | Test for fasting plasma glucose (FPG), HbA1c, and optimise the patient's level of blood glucose (see Table 2).                                                                                                                                                                                 |
 | After initiating treatment with Piqray                                                              | Monitor fasting glucose at weeks 1, 2, 4, 6 and 8 after treatment start and monthly thereafter.                                                                                                                                                                                                | Monitor fasting glucose at weeks 1, 2, 4, 6 and 8 after treatment start and monthly thereafter.                                                                                                                                                                                                |
-| After initiating treatment with Piqray                                                              | Monitor/self-monitor fasting glucose regularly, more frequently in the first 4 weeks and especially within the first 2 weeks of treatment, according to the instructions of a healthcare professional*.                                                                                        | Monitor/self-monitor fasting glucose daily for the first 2 weeks of treatment. Then continue to monitor fasting glucose as frequently as needed to manage hyperglycaemia according to the instructions of a healthcare professional*.                                                          |
-| After initiating treatment with Piqray                                                              | HbA1c should be monitored after 4 weeks of treatment and every 3 months thereafter.                                                                                                                                                                                                            | HbA1c should be monitored after 4 weeks of treatment and every 3 months thereafter.                                                                                                                                                                                                            |
+|                                                                                                     | Monitor/self-monitor fasting glucose regularly, more frequently in the first 4 weeks and especially within the first 2 weeks of treatment, according to the instructions of a healthcare professional*.                                                                                        | Monitor/self-monitor fasting glucose daily for the first 2 weeks of treatment. Then continue to monitor fasting glucose as frequently as needed to manage hyperglycaemia according to the instructions of a healthcare professional*.                                                          |
+|                                                                                                     | HbA1c should be monitored after 4 weeks of treatment and every 3 months thereafter.                                                                                                                                                                                                            | HbA1c should be monitored after 4 weeks of treatment and every 3 months thereafter.                                                                                                                                                                                                            |
 | If hyperglycaemia develops after initiating treatment with Piqray                                   | Monitor fasting glucose regularly, as per local standard of care and at least until fasting glucose decreases to normal levels.                                                                                                                                                                | Monitor fasting glucose regularly, as per local standard of care and at least until fasting glucose decreases to normal levels.                                                                                                                                                                |
 | If hyperglycaemia develops after initiating treatment with Piqray                                   | During treatment with antidiabetic medication, continue monitoring fasting glucose at least once a week for 8 weeks, followed by once every 2 weeks, and monitor fasting glucose according to the instructions of a healthcare professional with expertise in the treatment of hyperglycaemia. | During treatment with antidiabetic medication, continue monitoring fasting glucose at least once a week for 8 weeks, followed by once every 2 weeks, and monitor fasting glucose according to the instructions of a healthcare professional with expertise in the treatment of hyperglycaemia. |
 | * All glucose monitoring should be performed at the physician's discretion as clinically indicated. | * All glucose monitoring should be performed at the physician's discretion as clinically indicated.                                                                                                                                                                                            | * All glucose monitoring should be performed at the physician's discretion as clinically indicated.                                                                                                                                                                                            |
 
 Patients should be advised of the signs and symptoms of hyperglycaemia (e.g. excessive thirst, urinating more often than usual or greater amount of urine than usual, increased appetite with weight loss).
 
-In the 191 patients with hyperglycaemia, 86.9% (166/191) were managed with antidiabetic medication, and 75.9% (145/191) reported use of metformin as single agent or in combination with other antidiabetic medication (e.g. insulin, dipeptidyl peptidase-4 (DPP-4) inhibitors, SGLT2 inhibitors and sulfonylureas).
+In the 258 patients with hyperglycaemia, 86% (222/258) were managed with antidiabetic medication, and 74.4% (192/258) reported use of metformin as single agent or in combination with other antidiabetic medication (e.g. insulin, dipeptidyl peptidase-4 (DPP-4) inhibitors, SGLT2 inhibitors and sulfonylureas).
 
 <div style=\"page-break-after: always\"></div>
 
-Oral antidiabetic medication was used in 154 patients. Out of these 154 patients, 17 (11.0%) discontinued study treatment due to hyperglycaemia. Concomitant insulin medication was used in 56 patients; of these 13 (23.2%) discontinued study treatment due to hyperglycaemia.
+Oral antidiabetic medication was used in 204 patients. Out of these 204 patients, 19 (9.3%) discontinued study treatment due to hyperglycaemia. Concomitant insulin medication was used in 76 patients; of these 15 (19.7%) discontinued study treatment due to hyperglycaemia.
 
-Out of 164 patients with grade ≥2 hyperglyc aemia, 157 had at least 1 grade improvement, median time to improvement from the first event was 8 days (95% CI: 8 to 10 days).
+Out of 206 patients with grade ≥2 hyperglycaemia, 195 had at least 1 grade improvement, median time to improvement from the first event was 8 days (95% CI: 8 to 10 days).
 
-Of the patients with elevated FPG who continued fulvestrant treatment after discontinuing Piqray (n=61), 93.4% (n=57) had FPG levels that returned to baseline.
+Of the patients with elevated FPG who continued fulvestrant treatment after discontinuing Piqray (n=80), 95.0% (n=76) had FPG levels that returned to baseline.
 
-The safety of Piqray in patients with Type 1 and uncontrolled Type 2 diabetes has not been established as these patients were excluded from the phase III clinical study. Patients with a medical history of Type 2 diabetes were included. Patients with a history of diabetes mellitus may require intensified diabetic treatment and should be closely monitored.
+The safety of Piqray in patients with Type 1 and uncontrolled Type 2 diabetes has not been established as these patients were excluded from the phase III clinical studies. Patients with a medical history of Type 2 diabetes were included. Patients with a history of diabetes mellitus may require intensified diabetic treatment and should be closely monitored.
 
 Based on the severity of the hyperglycaemia, Piqray may require dose interruption, reduction or discontinuation as described in Table 2 (see section 4.2).
 
@@ -259,21 +270,19 @@ Pneumonitis, including serious cases of pneumonitis/acute interstitial lung dise
 
 Patients should be monitored for diarrhoea and other symptoms of colitis, such as abdominal pain and mucus or blood in stools.
 
-Severe diarrhoea and clinical consequences, such as dehydration and acute kidney injury, have been reported during treatment with Piqray and resolved with appropriate intervention. 59.9% of patients (n=170) experienced diarrhoea during treatment with Piqray. Grade 3 diarrhoea occurred in 7.4% (n=21) of patients with no reported cases of grade 4. Among patients with grade 2 or 3 diarrhoea (n=79), the median time to onset was 54 days (range: 1 to 1 731 days).
+Severe diarrhoea and clinical consequences, such as dehydration and acute kidney injury, have been reported during treatment with Piqray and resolved with appropriate intervention. In the pooled safety dataset from phase III clinical studies, 57.7% of patients (n=217) experienced diarrhoea during treatment with Piqray. Grade 3 diarrhoea occurred in 6.1% (n=23) of patients with no reported cases of grade 4. Among patients with grade 2 or 3 diarrhoea (n=94), the median time to onset was 49.5 days (range: 1 to 1 731 days).
 
-Dose reductions of Piqray were required in 6.3% of patients and 2.8% of patients discontinued Piqray due to diarrhoea. In the 170 patients who experienced diarrhoea, antidiarrhoeal medications (e.g. loperamide) were required to manage symptoms in 65.3% (111/170).
+In the pooled safety dataset from phase III clinical studies, dose reductions of Piqray were required in 4.8% of patients and 2.7% of patients discontinued Piqray due to diarrhoea. In the 217 patients who experienced diarrhoea, antidiarrhoeal medications (e.g. loperamide) were required to manage symptoms in 62.2% (135/217).
 
 Based on the severity of the diarrhoea or colitis, Piqray may require dose interruption, reduction or discontinuation as described in Table 4 (see section 4.2).
 
 Patients should be advised to start antidiarrhoeal treatment, increase oral fluids and notify their physician if diarrhoea or other symptoms of colitis occur while taking Piqray. In case of colitis, additional treatment, such as steroids, may be considered as clinically indicated.
 
-## Osteonecrosis of the jaw
-
-Caution should be exercised when Piqray and bisphosphonates or RANK-ligand inhibitors (e.g. denosumab) are used either simultaneously or sequentially. Piqray treatment should not be initiated in
-
 <div style=\"page-break-after: always\"></div>
 
-patients with ongoing osteonecrosis of the jaw from previous or concurrent treatment with bisphosphonates/denosumab. Patients should be advised to promptly report any new or worsening oral symptoms (such as dental mobility, pain or swelling, non-healing of mouth sores, or discharge) during treatment with Piqray.
+## Osteonecrosis of the jaw
+
+Caution should be exercised when Piqray and bisphosphonates or RANK-ligand inhibitors (e.g. denosumab) are used either simultaneously or sequentially. Piqray treatment should not be initiated in patients with ongoing osteonecrosis of the jaw from previous or concurrent treatment with bisphosphonates/denosumab. Patients should be advised to promptly report any new or worsening oral symptoms (such as dental mobility, pain or swelling, non-healing of mouth sores, or discharge) during treatment with Piqray.
 
 In patients who develop osteonecrosis of the jaw, standard medical management should be initiated.
 
@@ -291,7 +300,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated 
 
 ## Breast cancer resistance protein (BCRP) inhibitors
 
-Alpelisib is a substrate for BCRP in vitro . BCRP is involved in the hepatobiliary export and intestinal secretion of alpelisib, therefore inhibition of BCRP in the liver and in the intestine during elimination may lead to an increase in systemic exposure of alpelisib. Therefore, caution and monitoring for toxicity are advised during concomitant treatment with inhibitors of BCRP (e.g. eltrombopag, lapatinib, pantoprazole).
+Alpelisib is a substrate for BCRP in vitro. BCRP is involved in the hepatobiliary export and intestinal secretion of alpelisib, therefore inhibition of BCRP in the liver and in the intestine during elimination may lead to an increase in systemic exposure of alpelisib. Therefore, caution and monitoring for toxicity are advised during concomitant treatment with inhibitors of BCRP (e.g. eltrombopag, lapatinib, pantoprazole).
 
 ## Medicinal products that may decrease alpelisib plasma concentrations
 
@@ -303,9 +312,9 @@ The co-administration of the H2-receptor antagonist ranitidine in combination wi
 
 Once-daily administration of 600 mg rifampin (a strong CYP3A4 inducer) for 7 days followed by coadministration with a single 300 mg oral dose of alpelisib on day 8, decreased alpelisib Cmax by 38% and AUC by 57% in healthy adults (N=25). Co-administration of rifampin 600 mg once daily for 15 days with alpelisib 300 mg once daily starting from day 8 to day 15 decreased the steady-state alpelisib Cmax by 59% and AUC by 74%.
 
-Co-administration with a strong CYP3A4 inducer decreases alpelisib AUC, which may reduce alpelisib efficacy. Co-administration of alpelisib with strong CYP3A4 inducers (e.g. apalutamide, carbamazepine, enzalutamide, mitotane, phenytoin, rifampin, St. John' s wort) should be avoided and selection of an alternative concomitant medicinal product, with no or minimal potential to induce CYP3A4, should be considered.
-
 <div style=\"page-break-after: always\"></div>
+
+Co-administration with a strong CYP3A4 inducer decreases alpelisib AUC, which may reduce alpelisib efficacy. Co-administration of alpelisib with strong CYP3A4 inducers (e.g. apalutamide, carbamazepine, enzalutamide, mitotane, phenytoin, rifampin, St. John's wort) should be avoided and selection of an alternative concomitant medicinal product, with no or minimal potential to induce CYP3A4, should be considered.
 
 ## Medicinal products whose plasma concentrations may be altered by alpelisib
 
@@ -339,13 +348,13 @@ Male patients with sexual partners who are pregnant, possibly pregnant or who co
 
 Please refer to section 4.6 of the prescribing information for fulvestrant.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy
 
 Piqray is not indicated and is not to be used in women who are, or may be, pregnant (see section 4.1).
 
 There are no data from the use of alpelisib in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Piqray is not recommended during pregnancy and in women of childbearing potential not using contraception.
-
-<div style=\"page-break-after: always\"></div>
 
 The pregnancy status of females of reproductive potential should be verified prior to starting treatment with Piqray.
 
@@ -367,163 +376,171 @@ Piqray has minor influence on the ability to drive and use machines. Patients sh
 
 ## Summary of the safety profile
 
-The safety profile is based on data from 284 patients in the Piqray plus fulvestrant arm of the doubleblind, placebo-controlled phase III study.
+The safety profile is based on pooled safety data from 376 patients in the Piqray plus fulvestrant arm of the double-blind, placebo-controlled phase III studies CBYL719C2301 (N=284) and CBYL719C2303 (N=92).
 
-The most common ADRs (reported at a frequency &gt;20% in the combined mutant and non-mutant study population) were plasma glucose increased (79.2%), creatinine increased (68.0%), diarrhoea (59.9%), lymphocyte count decreased (55.6%), gamma-glutamyltransferase increased (54.2%), rash (52.1%), nausea (46.8%), anaemia (45.4%), alanine aminotransferase increased (45.1%), fatigue (44.0%), lipase increased (43.3%), decreased appetite (37.0%), stomatitis (30.6%), vomiting (29.6%), weight decreased (28.2%), hypocalcaemia (27.8%), plasma glucose decreased (27.5%), activated partial thromboplastin time (aPTT) prolonged (23.9%) and alopecia (20.4%).
+The most common ADRs (reported at a frequency &gt;20% in the combined mutant and non-mutant study population) were plasma glucose increased (77.4%), creatinine increased (68.9%), diarrhoea (57.7%), lymphocyte count decreased (56.4%), gamma-glutamyltransferase increased (54.5%), rash (50.0%), alanine aminotransferase increased (47.6%), nausea (46.3%), anaemia (45.7%), fatigue (43.4%), lipase increased (40.2%), decreased appetite (35.4%), stomatitis (27.1%), plasma glucose decreased (26.9%), vomiting (26.9%), weight decreased (25.0%), activated partial thromboplastin time (aPTT) prolonged (24.5%), hypocalcaemia (23.7%) and mucosal inflammation (20.5%).
 
-The most common grade 3 or 4 ADRs (reported at a frequency ≥ 2%) were plasma glucose increased (39.4%), rash (19.4%), gamma-glutamyltransferase increased (12.3%), lymphocyte count decreased (9.9%), diarrhoea (7.4%), lipase increased (7.0%), hypokalaemia (6.7%), weight decreased (6.0%), fatigue (5.6%), anaemia (5.3%), hypertension (5.3%), alanine aminotransferase increased (4.6%), creatinine increased (3.2%), nausea (2.8%), osteonecrosis of jaw (2.8%), stomatitis (2.5%), hypocalcaemia (2.1%), acute kidney injury (2.1%) and mucosal inflammation (2.1%).
+The most common grade 3 or 4 ADRs (reported at a frequency ≥2%) were plasma glucose increased (35.6%), rash (20.2%), gamma-glutamyltransferase increased (13.3%), lymphocyte count decreased (8.8%), lipase increased (6.6%), diarrhoea (6.1%), weight decreased (5.9%), fatigue (5.3%), hypokalaemia (5.1%), alanine aminotransferase increased (4.5%), anaemia (4.0%), hypertension (4.0%), creatinine increased (2.9%), stomatitis (2.9%), nausea (2.4%), osteonecrosis of jaw (2.4%), mucosal inflammation (2.4%) and acute kidney injury (2.1%).
 
-The most common ADRs leading to treatment discontinuation were hyperglycaemia (6.3%), rash (4.2%), diarrhoea (2.8%) and fatigue (2.5%).
-
-## Tabulated list of adverse reactions
-
-ADRs from the phase III clinical study and post-marketing experience (Table 7) are listed by MedDRA system organ class. Within each system organ class, the ADRs are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, ADRs are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from the available data).
+The most common ADRs leading to treatment discontinuation were hyperglycaemia (5.6%), rash (5.1%), diarrhoea (2.7%) and fatigue (1.9%).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7 ADRs observed in phase III clinical study and during post-marketing experience
+## Tabulated list of adverse reactions
 
-| Adverse drug reaction                           | Any grade (%)                                   | Any grade (%)   | Grade 3 or 4 (%)   |
-|-------------------------------------------------|-------------------------------------------------|-----------------|--------------------|
-| Infections and infestations                     |                                                 |                 |                    |
-| Urinary tract infection 1                       | Very common                                     | 29 (10.2)       | 2 (0.7)*           |
-| Blood and lymphatic system disorders            |                                                 |                 |                    |
-| Anaemia                                         | Very common                                     | 129 (45.4)      | 15 (5.3)*          |
-| Lymphocyte count decreased                      | Very common                                     | 158 (55.6)      | 28 (9.9)           |
-| Platelet count decreased                        | Very common                                     | 42 (14.8)       | 3 (1.1)            |
-| Immune system disorders                         |                                                 |                 |                    |
-| Hypersensitivity 2                              | Common                                          | 12 (4.2)        | 2 (0.7)*           |
-| Metabolism and nutrition disorders              |                                                 |                 |                    |
-| Glucose plasma increased                        | Very common                                     | 225 (79.2)      | 112 (39.4)         |
-| Glucose plasma decreased                        | Very common                                     | 78 (27.5)       | 1 (0.4)            |
-| Decreased appetite                              | Very common                                     | 105 (37.0)      | 3 (1.1)*           |
-| Hypokalaemia                                    | Very common                                     | 43 (15.1)       | 19 (6.7)           |
-| Hypocalcaemia                                   | Very common                                     | 79 (27.8)       | 6 (2.1)            |
-| Magnesium decreased                             | Very common                                     | 36 (12.7)       | 1 (0.4)*           |
-| Dehydration                                     | Common                                          | 10 (3.5)        | 1 (0.4)*           |
-| Ketoacidosis 3                                  | Common                                          | 3 (1.1)         | 3 (1.1)            |
-| Hyperglycaemic hyperosmolar nonketotic syndrome | Not known                                       | Not known       | Not known          |
-| Psychiatric disorders                           |                                                 |                 |                    |
-| Insomnia                                        | Common                                          | 22 (7.7)        |                    |
-| Nervous system disorders                        |                                                 |                 |                    |
-| Headache                                        | Very common                                     | 55 (19.4)       | 2 (0.7)*           |
-| Dysgeusia 4                                     | Very common                                     | 44 (15.5)       | 1 (0.4)*           |
-| Eye disorders                                   |                                                 |                 |                    |
-| Vision blurred                                  | Common                                          | 15 (5.3)        | 1 (0.4)*           |
-| Dry eye                                         | Common                                          | 10 (3.5)        |                    |
-| Uveitis                                         | Not known                                       | Not known       | Not known          |
-| Vascular disorders                              |                                                 |                 |                    |
-| Hypertension                                    | Very common                                     | 30 (10.6)       | 15 (5.3)           |
-| Lymphoedema                                     | Common                                          | 17 (6.0)        |                    |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |                 |                    |
-| Pneumonitis 5                                   | Common                                          | 5 (1.8)         | 1 (0.4)*           |
-| Gastrointestinal disorders                      |                                                 |                 |                    |
-| Diarrhoea                                       | Very common                                     | 170 (59.9)      | 21 (7.4)*          |
-| Nausea                                          | Very common                                     | 133 (46.8)      | 8 (2.8)*           |
-| Stomatitis 6                                    | Very common                                     | 87 (30.6)       | 7 (2.5)*           |
-| Vomiting                                        | Very common                                     | 84 (29.6)       | 2 (0.7)*           |
-| Abdominal pain                                  | Very common                                     | 53 (18.7)       | 4 (1.4)*           |
-| Dyspepsia                                       | Very common                                     | 33 (11.6)       |                    |
-| Toothache                                       | Common                                          | 13 (4.6)        | 1 (0.4)*           |
-| Gingivitis                                      | Common                                          | 11 (3.9)        | 1 (0.4)*           |
-| Gingival pain                                   | Common                                          | 11 (3.9)        |                    |
-| Cheilitis                                       | Common                                          | 8 (2.8)         |                    |
-| Pancreatitis                                    | Uncommon                                        | 1 (0.4)         | 1 (0.4)            |
-| Colitis #                                       | Not known                                       | Not known       | Not known          |
+ADRs from the phase III clinical studies and post-marketing experience (Table 7) are listed by MedDRA system organ class. Within each system organ class, the ADRs are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, ADRs are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from the available data).
+
+Table 7 ADRs observed in phase III clinical studies and during post-marketing experience
+
+| Adverse drug reaction                                     | Any grade (%)                                   | Any grade (%)                                   | Grade 3 or 4 (%)                                |
+|-----------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| Infections and infestations                               |                                                 |                                                 |                                                 |
+| Urinary tract infection 1                                 | Common                                          | 35 (9.3)                                        | 2 (0.5)*                                        |
+| Blood and lymphatic system disorders                      | Blood and lymphatic system disorders            | Blood and lymphatic system disorders            | Blood and lymphatic system disorders            |
+| Anaemia                                                   | Very common                                     | 172 (45.7)                                      | 15 (4.0)*                                       |
+| Lymphocyte count decreased                                | Very common                                     | 212 (56.4)                                      | 33 (8.8)                                        |
+| Platelet count decreased                                  | Very common                                     | 53 (14.1)                                       | 3 (0.8)                                         |
+| Immune system disorders                                   |                                                 |                                                 |                                                 |
+| Hypersensitivity 2                                        | Common                                          | 13 (3.5)                                        | 2 (0.5)*                                        |
+| Metabolism and nutrition disorders                        | Metabolism and nutrition disorders              | Metabolism and nutrition disorders              | Metabolism and nutrition disorders              |
+| Glucose plasma increased                                  | Very common                                     | 291 (77.4)                                      | 134 (35.6)                                      |
+| Glucose plasma decreased                                  | Very common                                     | 101 (26.9)                                      | 1 (0.3)                                         |
+| Decreased appetite                                        | Very common                                     | 133 (35.4)                                      | 7 (1.9)*                                        |
+| Hypokalaemia                                              | Very common                                     | 48 (12.8)                                       | 19 (5.1)                                        |
+| Hypocalcaemia 3                                           | Very common                                     | 89 (23.7)                                       | 6 (1.6)                                         |
+| Magnesium decreased                                       | Very common                                     | 40 (10.6)                                       | 2 (0.5)*                                        |
+| Dehydration                                               | Common                                          | 10 (2.7)                                        | 1 (0.3)*                                        |
+| Ketoacidosis 4                                            | Uncommon                                        | 3 (0.8)                                         | 3 (0.8)                                         |
+| Hyperglycaemic hyperosmolar nonketotic syndrome (HHNKS) # | Not known                                       | Not known                                       | Not known                                       |
+| Psychiatric disorders                                     | Psychiatric disorders                           | Psychiatric disorders                           | Psychiatric disorders                           |
+| Insomnia                                                  | Common                                          | 28 (7.4)                                        |                                                 |
+| Nervous system disorders                                  | Nervous system disorders                        | Nervous system disorders                        | Nervous system disorders                        |
+| Headache 5                                                | Very common                                     | 60 (16.0)                                       | 2 (0.5)*                                        |
+| Dysgeusia 6                                               | Very common                                     | 52 (13.8)                                       | 1 (0.3)*                                        |
+| Eye disorders                                             | Eye disorders                                   | Eye disorders                                   | Eye disorders                                   |
+| Vision blurred                                            | Common                                          | 16 (4.3)                                        | 1 (0.3)*                                        |
+| Dry eye                                                   | Common                                          | 10 (2.7)                                        |                                                 |
+| Uveitis                                                   | Not known                                       | Not known                                       | Not known                                       |
+| Vascular disorders                                        | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              |
+| Hypertension                                              | Common                                          | 34 (9.0)                                        | 15 (4.0)                                        |
+| Lymphoedema                                               | Common                                          | 20 (5.3)                                        |                                                 |
+| Respiratory, thoracic and mediastinal disorders           | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |
+| Pneumonitis 7                                             | Common                                          | 6 (1.6)                                         | 2 (0.5)*                                        |
 
 <div style=\"page-break-after: always\"></div>
 
 | Adverse drug reaction                                           | Any grade (%)                                        | Any grade (%)                                        | Grade 3 or 4 (%)                                     |
 |-----------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| Skin and subcutaneous tissue disorders                          | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
-| Rash 7                                                          | Very common                                          | 148 (52.1)                                           | 55 (19.4)*                                           |
-| Alopecia                                                        | Very common                                          | 58 (20.4)                                            |                                                      |
-| Pruritus                                                        | Very common                                          | 54 (19.0)                                            | 2 (0.7)*                                             |
-| Dry skin 8                                                      | Very common                                          | 53 (18.7)                                            | 1 (0.4)*                                             |
-| Erythema 9                                                      | Common                                               | 19 (6.7)                                             | 2 (0.7)*                                             |
-| Dermatitis 10                                                   | Common                                               | 10 (3.5)                                             | 2 (0.7)*                                             |
-| Palmar-plantar erythrodysaesthesia syndrome                     | Common                                               | 5 (1.8)                                              |                                                      |
-| Erythema multiforme                                             | Common                                               | 3 (1.1)                                              | 2 (0.7)*                                             |
-| Stevens-Johnson syndrome                                        | Uncommon                                             | 1 (0.4)                                              | 1 (0.4)*                                             |
+| Gastrointestinal disorders                                      |                                                      |                                                      |                                                      |
+| Diarrhoea                                                       | Very common                                          | 217 (57.7)                                           | 23 (6.1)*                                            |
+| Nausea                                                          | Very common                                          | 174 (46.3)                                           | 9 (2.4)*                                             |
+| Stomatitis 8                                                    | Very common                                          | 102 (27.1)                                           | 11 (2.9)*                                            |
+| Vomiting                                                        | Very common                                          | 101 (26.9)                                           | 2 (0.5)*                                             |
+| Abdominal pain                                                  | Very common                                          | 63 (16.8)                                            | 5 (1.3)*                                             |
+| Dyspepsia                                                       | Very common                                          | 39 (10.4)                                            | 1 (0.3)                                              |
+| Toothache                                                       | Common                                               | 13 (3.5)                                             | 1 (0.3)*                                             |
+| Gingivitis                                                      | Common                                               | 11 (2.9)                                             | 1 (0.3)*                                             |
+| Gingival pain                                                   | Common                                               | 12 (3.2)                                             |                                                      |
+| Cheilitis                                                       | Common                                               | 8 (2.1)                                              |                                                      |
+| Pancreatitis                                                    | Uncommon                                             | 1 (0.3)                                              | 1 (0.3)                                              |
+| Colitis #                                                       | Not known                                            | Not known                                            | Not known                                            |
+| Skin and subcutaneous tissue disorders                          |                                                      |                                                      |                                                      |
+| Rash 9                                                          | Very common                                          | 188 (50.0)                                           | 76 (20.2)*                                           |
+| Alopecia                                                        | Very common                                          | 63 (16.8)                                            |                                                      |
+| Pruritus                                                        | Very common                                          | 61 (16.2)                                            | 3 (0.8)*                                             |
+| Dry skin 10                                                     | Very common                                          | 56 (14.9)                                            | 1 (0.3)*                                             |
+| Erythema 11                                                     | Common                                               | 22 (5.9)                                             | 3 (0.8)*                                             |
+| Dermatitis 12                                                   | Common                                               | 12 (3.2)                                             | 2 (0.5)*                                             |
+| Palmar-plantar erythrodysaesthesia syndrome                     | Common                                               | 7 (1.9)                                              |                                                      |
+| Erythema multiforme                                             | Uncommon                                             | 3 (0.8)                                              | 2 (0.5)*                                             |
+| Stevens-Johnson syndrome                                        | Uncommon                                             | 2 (0.5)                                              | 2 (0.5)*                                             |
 | Drug reaction with eosinophilia and systemic symptoms (DRESS) # | Not known                                            | Not known                                            | Not known                                            |
 | Angioedema #                                                    | Not known                                            | Not known                                            | Not known                                            |
-| Musculoskeletal and connective tissue disorders                 | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
-| Muscle spasms                                                   | Common                                               | 23 (8.1)                                             |                                                      |
-| Myalgia                                                         | Common                                               | 20 (7.0)                                             | 1 (0.4)*                                             |
-| Osteonecrosis of jaw                                            | Common                                               | 16 (5.6)                                             | 8 (2.8)*                                             |
-| Renal and urinary disorders                                     | Renal and urinary disorders                          | Renal and urinary disorders                          | Renal and urinary disorders                          |
-| Acute kidney injury                                             | Common                                               | 17 (6.0)                                             | 6 (2.1)                                              |
+| Musculoskeletal and connective tissue disorders                 | Musculoskeletal and connective tissue disorders      |                                                      |                                                      |
+| Muscle spasms 13                                                | Common                                               | 26 (6.9)                                             |                                                      |
+| Myalgia                                                         | Common                                               | 23 (6.1)                                             | 2 (0.5)*                                             |
+| Osteonecrosis of jaw 14                                         | Common                                               | 19 (5.1)                                             | 9 (2.4)*                                             |
+| Renal and urinary disorders                                     |                                                      |                                                      |                                                      |
+| Acute kidney injury                                             | Common                                               | 22 (5.9)                                             | 8 (2.1)                                              |
 | General disorders and administration site conditions            | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
-| Fatigue 11                                                      | Very common                                          | 125 (44.0)                                           | 16 (5.6)*                                            |
-| Mucosal inflammation                                            | Very common                                          | 56 (19.7)                                            | 6 (2.1)*                                             |
-| Oedema peripheral                                               | Very common                                          | 48 (16.9)                                            |                                                      |
-| Pyrexia                                                         | Very common                                          | 48 (16.9)                                            | 2 (0.7)                                              |
-| Mucosal dryness 12                                              | Very common                                          | 37 (13.0)                                            | 1 (0.4)                                              |
-| Oedema 13                                                       | Common                                               | 20 (7.0)                                             |                                                      |
-| Investigations                                                  | Investigations                                       | Investigations                                       | Investigations                                       |
-| Weight decreased                                                | Very common                                          | 80 (28.2)                                            | 17 (6.0)*                                            |
-| Blood creatinine increased                                      | Very common                                          | 193 (68.0)                                           | 9 (3.2)                                              |
-| Gamma-glutamyltransferase increased                             | Very common                                          | 154 (54.2)                                           | 35 (12.3)                                            |
-| Alanine aminotransferase increased                              | Very common                                          | 128 (45.1)                                           | 13 (4.6)                                             |
-| Lipase increased                                                | Very common                                          | 123 (43.3)                                           | 20 (7.0)                                             |
-| Activated partial thromboplastin time (aPTT) prolonged          | Very common                                          | 68 (23.9)                                            | 2 (0.7)*                                             |
-| Albumin decreased                                               | Very common                                          | 44 (15.5)                                            | 1 (0.4)*                                             |
-| Glycosylated haemoglobin increased                              | Common                                               | 9 (3.2)                                              |                                                      |
+| Fatigue 15                                                      | Very common                                          | 163 (43.4)                                           | 20 (5.3)*                                            |
+| Mucosal inflammation                                            | Very common                                          | 77 (20.5)                                            | 9 (2.4)*                                             |
+| Oedema peripheral                                               | Very common                                          | 56 (14.9)                                            |                                                      |
+| Pyrexia                                                         | Very common                                          | 61 (16.2)                                            | 3 (0.8)                                              |
+| Mucosal dryness 16                                              | Very common                                          | 46 (12.2)                                            | 1 (0.3)                                              |
+| Oedema 17                                                       | Common                                               | 23 (6.1)                                             |                                                      |
+
+<div style=\"page-break-after: always\"></div>
+
+| Adverse drug reaction                                  | Any grade (%)   | Any grade (%)   | Grade 3 or 4 (%)   |
+|--------------------------------------------------------|-----------------|-----------------|--------------------|
+| Investigations                                         |                 |                 |                    |
+| Weight decreased                                       | Very common     | 94 (25.0)       | 22 (5.9)*          |
+| Blood creatinine increased                             | Very common     | 259 (68.9)      | 11 (2.9)           |
+| Gamma-glutamyltransferase increased                    | Very common     | 205 (54.5)      | 50 (13.3)          |
+| Alanine aminotransferase increased                     | Very common     | 179 (47.6)      | 17 (4.5)           |
+| Lipase increased                                       | Very common     | 151 (40.2)      | 25 (6.6)           |
+| Activated partial thromboplastin time (aPTT) prolonged | Very common     | 92 (24.5)       | 3 (0.8)*           |
+| Albumin decreased                                      | Very common     | 50 (13.3)       | 1 (0.3)*           |
+| Glycosylated haemoglobin increased                     | Common          | 10 (2.7)        |                    |
 
 * No grade 4 ADRs were observed
-
 - # Adverse reactions reported during post-marketing experience. These are derived from spontaneous reports for which it is not always possible to reliably establish frequency or a causal relationship to exposure to the medicinal product.
 - 1 Urinary tract infection: also includes a single case of urosepsis
 - 2 Hypersensitivity: also includes allergic dermatitis
-- 3 Ketoacidosis: also includes diabetic ketoacidosis (see section 4.4)
-- 4 Dysgeusia: also includes ageusia, hypogeusia
-- 5 Pneumonitis: also includes interstitial lung disease
-- 6 Stomatitis: also includes aphthous ulcer and mouth ulceration
-- 7 Rash: also includes rash maculopapular, rash macular, rash generalised, rash papular, rash pruritic
-- 8 Dry skin: also includes skin fissures, xerosis, xeroderma
-- 9 Erythema: also includes erythema generalised
-- 10 Dermatitis: also includes dermatitis acneiform
-- 11 Fatigue: also includes asthenia
-- 12 Mucosal dryness: also includes dry mouth, vulvovaginal dryness
-- 13 Oedema: also includes face swelling, face oedema, eyelid oedema
-
-<div style=\"page-break-after: always\"></div>
+- 3 Hypocalcaemia: also includes adjusted calcium decreased
+- 4 Ketoacidosis: also includes diabetic ketoacidosis (see section 4.4)
+- 5 Headache: also includes head discomfort
+- 6 Dysgeusia: also includes ageusia, hypogeusia
+- 7 Pneumonitis: also includes interstitial lung disease
+- 8 Stomatitis: also includes aphthous ulcer and mouth ulceration
+- 9 Rash: also includes rash maculopapular, rash macular, rash generalised, rash papular, rash pruritic
+- 10 Dry skin: also includes skin fissures, xerosis, xeroderma
+- 11 Erythema: also includes erythema generalised
+- 12 Dermatitis: also includes dermatitis acneiform
+- 13 Muscle spasms: also includes muscle discomfort
+- 14 Osteonecrosis of jaw: also includes osteonecrosis
+- 15 Fatigue: also includes asthenia
+- 16 Mucosal dryness: also includes dry mouth, vulvovaginal dryness, dry lip
+- 17 Oedema: also includes face swelling, face oedema, eyelid oedema
 
 ## Description of selected ADRs
 
 ## Hyperglycaemia
 
-Hyperglycaemia was reported in 191 (67.3%) patients; grade 2 (FPG &gt;160-250 mg/dl), 3 (FPG &gt;250500 mg/dl) and 4 (FPG &gt;500 mg/dl) events were reported in 15.8%, 34.5% and 4.6% of patients, respectively.
+In the pooled safety dataset from phase III clinical studies, hyperglycaemia was reported in 258 (68.6%) patients; grade 2 (FPG &gt;160-250 mg/dl), 3 (FPG &gt;250-500 mg/dl) and 4 (FPG &gt;500 mg/dl) events were reported in 17.3%, 33.5% and 4.0% of patients, respectively.
 
-Based on baseline FPG and HbA1c values, 56% of patients were considered pre-diabetic (FPG &gt;100125 mg/dl [5.6 to 6.9 mmol/l] and/or HbA1c 5.7-6.4%) and 4.2% of patients were considered diabetic (FPG ≥126 mg/dl [≥7.0 mmol/l] and/or HbA1c ≥6.5%). 75.5% of patients who were pre-diabetic at baseline experienced hyperglycaemia (any grade) when treated with alpelisib. Among all patients with hyperglycaemia of grade ≥ 2 (FPG &gt;160 mg/dl), the median time to first occurrence was 15 days (range: 5 days to 1 458 days) (based on laboratory findings). The median duration of grade ≥ 2 hyperglycaemia was 10 days (95% CI: 8 to 13 days). In patients with grade ≥2 hyperglycaemia, median time to improvement (at least one grade from the first event) was 8 days (95% CI: 8 to 10 days). In 93.4% of patients who continued on fulvestrant after discontinuing Piqray, FPG levels returned to baseline (normal).
+Based on baseline FPG and HbA1c values, 51% of patients were considered pre-diabetic (FPG &gt;100125 mg/dl [5.6 to 6.9 mmol/l] and/or HbA1c 5.7-6.4%) and 4.8% of patients were considered diabetic (FPG ≥126 mg/dl [≥7.0 mmol/l] and/or HbA1c ≥6.5%). Overall, 76% of patients who were prediabetic at baseline experienced hyperglycaemia (any grade) when treated with alpelisib. Among all patients with hyperglycaemia of grade ≥2 (FPG &gt;160 mg/dl), the median time to first occurrence was 15 days (range: 5 days to 1 458 days) (based on laboratory findings). The median duration of grade ≥2 hyperglycaemia was 8 days (95% CI: 8 to 10 days). In patients with grade ≥2 hyperglycaemia, median time to improvement (at least one grade from the first event) was 8 days (95% CI: 8 to 10 days). In 95.0% of patients who continued on fulvestrant after discontinuing Piqray, FPG levels returned to baseline (normal).
 
 Hyperglycaemia was managed with antidiabetic medicinal products, see section 4.4.
 
 ## Rash
 
-Rash events (including rash maculopapular, macular, generalised, papular and pruritic, dermatitis and dermatitis acneiform) were reported in 154 (54.2%) patients. Rash was predominantly mild or moderate (grade 1 or 2) and responsive to therapy, and in some cases rash was accompanied by pruritus and dry skin. Grade 2 and 3 events were reported in 13.7% and 20.1% of patients, respectively, with a median time to first onset of 12 days (range: 2 days to 220 days).
+In the pooled safety dataset from phase III clinical studies, rash events (including rash maculopapular, macular, generalised, papular and pruritic, dermatitis and dermatitis acneiform, drug eruption and genital rash) were reported in 195 (51.9%) patients. Rash was predominantly mild or moderate
 
-Among patients who received prophylactic antirash treatment including antihistamines, rash was reported less frequently than in the overall population; 25.8% vs 54.2% for all grades, 11.2% vs 20.1% for grade 3, and 3.4% vs 4.2% for rash leading to the permanent discontinuation of Piqray. Accordingly, antihistamines may be initiated prophylactically, at the time of initiation of treatment with Piqray.
+<div style=\"page-break-after: always\"></div>
+
+(grade 1 or 2) and responsive to therapy, and in some cases rash was accompanied by pruritus and dry skin. Grade 2 and 3 events were reported in 13.0% and 20.7% of patients, respectively, with a median time to first onset of 12 days (range: 2 days to 220 days).
+
+Among patients who received prophylactic antirash treatment including antihistamines, rash was reported less frequently than in the overall population; 28.9% vs 51.9% for all grades, 14.1% vs 20.7% for grade 3, and 4.4% vs 5.1% for rash leading to the permanent discontinuation of Piqray. Accordingly, antihistamines may be initiated prophylactically, at the time of initiation of treatment with Piqray.
 
 ## Gastrointestinal toxicity (nausea, diarrhoea, vomiting)
 
-Diarrhoea, nausea and vomiting were reported in 59.9%, 46.8% and 29.6% of the patients, respectively (see Table 7).
+In the pooled safety dataset from phase III clinical studies, diarrhoea, nausea and vomiting were reported in 57.7%, 46.3% and 26.9% of the patients, respectively (see Table 7).
 
-Grade 2 and 3 diarrhoea events were reported in 20.4% and 7.4% of patients, respectively, with a median time to onset of grade ≥2 diarrh oea of 54 days (range: 1 day to 1 731 days).
+Grade 2 and 3 diarrhoea events were reported in 18.9% and 6.1% of patients, respectively, with a median time to onset of grade ≥2 diarrhoea of 49.5 days (range: 1 day to 1 731 days).
 
-Severe diarrhoea and clinical consequences, such as dehydration and acute kidney injury, have been reported during treatment with Piqray and resolved with appropriate intervention (see Table 4). Antiemetics (e.g. ondansetron) and antidiarrhoeal medicinal products (e.g. loperamide) were used in 29/153 (19.0%) and 111/170 (65.3%) patients, respectively, to manage symptoms.
+Severe diarrhoea and clinical consequences, such as dehydration and acute kidney injury, have been reported during treatment with Piqray and resolved with appropriate intervention (see Table 4). Antiemetics (e.g. ondansetron) and antidiarrhoeal medicinal products (e.g. loperamide) were used in 40/197 (20.3%) and 135/217 (62.2%) patients, respectively, to manage symptoms.
 
 ## Osteonecrosis of the jaw (ONJ)
 
-ONJ was reported in 6.0% patients (17/284) in the Piqray plus fulvestrant arm. All patients experiencing ONJ were exposed to prior or concomitant bisphosphonates (e.g. zoledronic acid) or RANK-ligand inhibitors (e.g. denosumab). Therefore, in patients receiving Piqray and bisphosphonates or RANK-ligand inhibitors, an increased risk of development of ONJ cannot be excluded.
-
-<div style=\"page-break-after: always\"></div>
+In the pooled safety dataset from phase III clinical studies, ONJ was reported in 5.1% patients (19/376) in the Piqray plus fulvestrant arm. All patients experiencing ONJ were exposed to prior or concomitant bisphosphonates (e.g. zoledronic acid) or RANK-ligand inhibitors (e.g. denosumab). Therefore, in patients receiving Piqray and bisphosphonates or RANK-ligand inhibitors, an increased risk of development of ONJ cannot be excluded.
 
 ## Special populations
 
 ## Elderly
 
-In patients ≥65 years of age treated with alpelisib plus fulvestrant, there was a higher incidence of grade 3-4 hyperglycaemia (45.3%) compared to patients &lt;65 years of age (34.7%), while in patients &lt;75 years of age, grade 3-4 hyperglycaemia was 36.8% compared to 55.9% in patients ≥ 75 years of age.
+In the pooled safety dataset from phase III clinical studies, in patients ≥65 years of age treated with alpelisib plus fulvestrant, there was a higher incidence of grade 3-4 hyperglycaemia (44.6%) compared to patients &lt;65 years of age (32.4%), while in patients &lt;75 years of age, grade 3-4 hyperglycaemia was 36.1% compared to 47.8% in patients ≥75 years of age.
 
 ## Reporting of suspected adverse reactions
 
@@ -539,6 +556,8 @@ The adverse reactions associated with overdose have been consistent with the saf
 
 General symptomatic and supportive measures should be initiated in all cases of overdose where necessary. There is no known antidote for Piqray.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -547,19 +566,19 @@ Pharmacotherapeutic group: Antineoplastic agents, Protein kinase inhibitors, Pho
 
 ## Mechanism of action
 
-Alpelisib is an α -specific class I phosphatidylinositol3kinase (PI3Kα) inhibitor. Gain-of-function mutations in the gene encoding the catalytic α -subunit of PI3K (PIK3CA) lead to activation of PI3K α and AKT-signalling, cellular transformation and the generation of tumours in in vitro and in vivo models.
+Alpelisib is an α-specific class I phosphatidylinositol3kinase (PI3Kα) inhibitor. Gain-of-function mutations in the gene encoding the catalytic α-subunit of PI3K (PIK3CA) lead to activation of PI3Kα and AKT-signalling, cellular transformation and the generation of tumours in in vitro and in vivo models.
 
 In breast cancer cell lines, alpelisib inhibited the phosphorylation of PI3K downstream targets including AKT, and showed activity in cell lines harbouring a PIK3CA mutation.
 
-In vivo , alpelisib inhibited the PI3K/AKT signalling pathway and reduced tumour growth in xenograft models, including models of breast cancer.
+In vivo, alpelisib inhibited the PI3K/AKT signalling pathway and reduced tumour growth in xenograft models, including models of breast cancer.
 
 PI3K inhibition by alpelisib treatment has been shown to induce an increase in oestrogen receptor (ER) transcription in breast cancer cells. The combination of alpelisib and fulvestrant demonstrated increased anti-tumour activity compared to either treatment alone in xenograft models derived from ER-positive, PIK3CA mutated breast cancer cell lines.
 
 The PI3K/AKT signalling pathway is responsible for glucose homeostasis, and hyperglycaemia is an expected on-target adverse reaction of PI3K inhibition.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety
+
+## Study CBYL719C2301
 
 Piqray was evaluated in a pivotal phase III, randomised, double-blind, placebo-controlled study of alpelisib in combination with fulvestrant in postmenopausal women, and men, with HR+, HER2advanced (locoregionally recurrent or metastatic) breast cancer whose disease had progressed or recurred on or after an aromatase-inhibitor-based treatment (with or without CDK4/6 combination).
 
@@ -569,7 +588,9 @@ In the cohort with PIK3CA mutation, 169 patients with one or more PIK3CA mutatio
 
 Patients had a median age of 63 years (range: 25 to 92 years). 44.9% patients were 65 years of age or older and ≤85 years. The patients included were White (66.3%), Asian (21.7%) and Black or African American (1.2%). The study population included one male subject enrolled in the PIK3CA mutant cohort and treated with alpelisib and fulvestrant. 66.0% and 33.4% of subjects had an ECOG performance status of 0 and 1, respectively.
 
-97.7% of patients had received prior endocrine therapy. In 67.7% of subjects, the last therapy prior to study enrollment was endocrine therapy. Letrozole and anastrozole were the most commonly used endocrine therapies. The setting of last endocrine therapy prior to study enrollment was therapeutic in 47.8% of subjects and adjuvant therapy in 51.9% of subjects. Overall, 85.6% of the patients were considered to have endocrine-resistant disease; primary endocrine resistance ( de novo resistance) was observed in 13.2% and secondary endocrine resistance (relapse/progression following an initial response) in 72.4% of patients.
+<div style=\"page-break-after: always\"></div>
+
+Overall, 97.7% of patients had received prior endocrine therapy. In 67.7% of subjects, the last therapy prior to study enrolment was endocrine therapy. Letrozole and anastrozole were the most commonly used endocrine therapies. The setting of last endocrine therapy prior to study enrolment was therapeutic in 47.8% of subjects and adjuvant therapy in 51.9% of subjects. Overall, 85.6% of the patients were considered to have endocrine-resistant disease; primary endocrine resistance (de novo resistance) was observed in 13.2% and secondary endocrine resistance (relapse/progression following an initial response) in 72.4% of patients.
 
 Demographics and baseline disease characteristics, ECOG performance status, tumour burden and prior antineoplastic therapy were well balanced between the study arms.
 
@@ -583,9 +604,7 @@ Other secondary endpoints included PFS for patients without a PIK3CA mutation, O
 
 ## Primary efficacy analysis
 
-The study met its primary objective at the final PFS analysis (cut-off date 12-Jun-2018), demonstrating a statistically significant improvement in PFS per investigator assessment in the PIK3CA mutant cohort for patients receiving alpelisib plus fulvestrant, compared to patients receiving placebo plus fulvestrant with an estimated 35% risk reduction of disease progression or death in favour of treatment with alpelisib plus fulvestrant (see Table 8).
-
-<div style=\"page-break-after: always\"></div>
+The study met its primary objective at the primary PFS analysis (cut-off date 12-Jun-2018), demonstrating a statistically significant improvement in PFS per investigator assessment in the PIK3CA mutant cohort for patients receiving alpelisib plus fulvestrant, compared to patients receiving placebo plus fulvestrant with an estimated 35% risk reduction of disease progression or death in favour of treatment with alpelisib plus fulvestrant (see Table 8).
 
 Table 8 Study C2301 primary efficacy analysis - Summary of efficacy results based on RECIST (FAS, cohort with PIK3CA mutation). Data cut-off date: 12-Jun-2018
 
@@ -602,6 +621,8 @@ Table 8 Study C2301 primary efficacy analysis - Summary of efficacy results base
 | p-value                                                                                                                                                                                                  | N/A                                                                                                                                                                                                      | N/A                                                                                                                                                                                                      |
 | CI = confidence interval; N = number of patients; N/A = is not applicable a p-value is obtained from the one-sided stratified log-rank test. # Per RECIST 1.1 * Based on 50% sample-based audit approach | CI = confidence interval; N = number of patients; N/A = is not applicable a p-value is obtained from the one-sided stratified log-rank test. # Per RECIST 1.1 * Based on 50% sample-based audit approach | CI = confidence interval; N = number of patients; N/A = is not applicable a p-value is obtained from the one-sided stratified log-rank test. # Per RECIST 1.1 * Based on 50% sample-based audit approach |
 
+<div style=\"page-break-after: always\"></div>
+
 In the cohort with PIK3CA mutation, PFS subgroup analyses per investigator assessment by randomisation stratification factors showed a generally consistent treatment effect in favour of the alpelisib arm, irrespective of presence or absence of lung/liver metastases.
 
 Among 20 patients with prior CDK4/6 inhibitor use the hazard ratio (HR) for PFS was 0.48 (95% CI: 0.17, 1.36); median PFS was 1.8 months (95% CI: 1.7, 3.6) in the placebo plus fulvestrant arm and 5.5 months (95% CI: 1.6, 16.8) in the alpelisib plus fulvestrant arm.
@@ -612,19 +633,17 @@ Using a data cut-off date of 12-Jun-2018, the overall response rate in patients 
 
 At the time when the final OS analysis was conducted (data cut-off date of 23-Apr-2020) a descriptive follow-up efficacy analysis for PFS data was performed. With a median duration from randomisation to data cut-off of approximately 42 months, the reported PFS results were consistent with those from the primary PFS analysis. There was an estimated 36% risk reduction of progression or death in favour of treatment with alpelisib plus fulvestrant (HR=0.64; 95% CI: 0.50, 0.81) (Figure 1).
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 1 Study C2301 - Kaplan-Meier plot of PFS per investigator assessment (FAS, PIK3CA mutant cohort): descriptive update with data cut-off date of 23-Apr-2020
 
 <!-- image -->
 
-## Final overall survival analysis
-
-At the final OS analysis, the study did not meet its key secondary objective. As of the data cut-off date of 23-Apr-2020, a total of 87 (51.5%) deaths were reported in the alpelisib plus fulvestrant arm and 94 (54.7%) in the placebo plus fulvestrant arm. The HR was 0.86 (95% CI: 0.64, 1.15; p=0.15, one-sided) and the prespecified O'Brien -Fleming efficacy boundary of p ≤0.0161 was not crossed. Median OS was 39.3 months (95% CI: 34.1, 44.9) in the alpelisib plus fulvestrant arm and 31.4 months (95% CI: 26.8, 41.3) in the placebo plus fulvestrant arm (Figure 2).
-
 <div style=\"page-break-after: always\"></div>
 
-Figure 2 Study C2301 key secondary analysis -Kaplan-Meier plot of OS (FAS, PIK3CA mutant cohort) with cut-off date of 23-Apr-2020
+## Final overall survival analysis
+
+At the final OS analysis, the study did not meet its key secondary objective. As of the data cut-off date of 23-Apr-2020, a total of 87 (51.5%) deaths were reported in the alpelisib plus fulvestrant arm and 94 (54.7%) in the placebo plus fulvestrant arm. The HR was 0.86 (95% CI: 0.64, 1.15; p=0.15, one-sided) and the pre-specified O'Brien-Fleming efficacy boundary of p ≤0.0161 was not crossed. Median OS was 39.3 months (95% CI: 34.1, 44.9) in the alpelisib plus fulvestrant arm and 31.4 months (95% CI: 26.8, 41.3) in the placebo plus fulvestrant arm (Figure 2).
+
+Figure 2 Study C2301 key secondary analysis - Kaplan-Meier plot of OS (FAS, PIK3CA mutant cohort) with cut-off date of 23-Apr-2020
 
 <!-- image -->
 
@@ -634,9 +653,74 @@ In patients with prior CDK4/6i treatment (n=20), the median OS in the alpelisib 
 
 No PFS benefit was observed in patients whose tumours did not have a PIK3CA tissue mutation.
 
-## Prior use of fulvestrant in study CBYL719X2102
+## Study CBYL719C2303
 
-Patients with prior fulvestrant use were not included in the pivotal study. In the phase I study CBYL719X2101, 39 subjects reported prior fulvestrant use. The best overall responses to treatment with alpelisib plus fulvestrant for the 21 subjects with PIK3CA mutations and measurable disease at baseline were partial response in 7 subjects, stable disease in 11 subjects, and progressive disease in 2 subjects. Hence, the evidence of efficacy of this treatment in patients previously treated with fulvestrant is not established due to the limited data at this time (see section 4.4).
+Piqray was also evaluated in a phase III, randomised, international, double-blind, placebo-controlled study of alpelisib in combination with fulvestrant in postmenopausal women, and men, with HR+, HER2- (defined as immunohistochemistry [IHC] 0 or 1+, or IHC 2+/negative in situ hybridisation [ISH-]) advanced breast cancer with a PIK3CA mutation whose disease had progressed or recurred on or after treatment with an aromatase inhibitor (AI) plus a CDK4/6 inhibitor.
+
+At the time of the primary efficacy analysis (cut-off date 15-Oct-2024), a total of 188 patients were randomised to receive either alpelisib 300 mg plus fulvestrant or placebo plus fulvestrant in a 1:1 ratio. Randomisation was stratified by the presence of lung and/or liver metastases and previous treatment with CDK4/6 inhibitor(s) (adjuvant vs. metastatic).
+
+Patients had median age of 62 years (range: 32 to 84 years). Overall, 41.0% of patients were 65 years of age or older. The majority of patients included were White (89.9%). The study population included two male subjects treated with placebo plus fulvestrant. Overall, 60.1% and 38.3% of subjects had an ECOG performance status of 0 and 1, respectively.
+
+<div style=\"page-break-after: always\"></div>
+
+All patients had advanced breast cancer with a PIK3CA mutation and had received prior treatment with an aromatase inhibitor and a CDK4/6 inhibitor. Ninety-three (98.9%) patients received their last prior CDK4/6 inhibitor therapy in the metastatic setting, while 1 (1.1%) patient received it in the adjuvant setting. Letrozole was the most commonly used aromatase inhibitor, and ribociclib and palbociclib the most commonly used CDK4/6 inhibitors. The setting of last endocrine therapy prior to study enrolment was metastatic in 97.3% of subjects and adjuvant therapy in 9.6% of subjects. Overall, 83.5% of the patients were considered to have endocrine-resistant disease; primary endocrine resistance (de novo resistance) was observed in 6.9% and secondary endocrine resistance (relapse/progression following an initial response) in 76.6% of patients. In the metastatic setting prior chemotherapy treatment had been received by 12.8% and 18.1% of patients in the alpelisib plus fulvestrant arm and in the placebo plus fulvestrant arm, respectively.
+
+Demographics and baseline disease characteristics, ECOG performance status, tumour burden and prior antineoplastic therapy were well balanced between the study arms.
+
+During the randomised treatment phase alpelisib 300 mg or placebo was administered orally once daily on a continuous basis. Fulvestrant 500 mg was administered intramuscularly on cycle 1 days 1 and 15 and then at day 1 of a 28-day cycle during treatment phase.
+
+Patients were allowed to crossover from placebo to alpelisib upon confirmation of progressive disease by Blinded Independent Review Committee (BIRC).
+
+The primary endpoint for the study was PFS using RECIST v1.1 criteria, based on BIRC assessments. The secondary endpoints were OS, overall response rate (ORR) and clinical benefit rate (CBR), based on BIRC assessments.
+
+## Primary efficacy analysis
+
+The study met its primary objective at the primary PFS analysis (cut-off date 15-Oct-2024), demonstrating a statistically significant improvement in PFS per BIRC assessment for patients receiving alpelisib plus fulvestrant, compared to patients receiving placebo plus fulvestrant (see Table 9 and Figure 3).
+
+The overall response rate in patients with measurable disease at baseline was 24.7% (95% CI: 16.0, 35.3) in the alpelisib plus fulvestrant arm and 4.4% (95% CI: 1.2, 11.0) in the placebo plus fulvestrant arm (cut-off date 15-Oct-2024).
+
+Table 9 Study C2303 primary efficacy analysis - Summary of efficacy results based on RECIST (FAS) with data cut-off date of 15-Oct-2024
+
+| Efficacy parameters                  | Piqray + fulvestrant (n=94)   | Placebo + fulvestrant (n=94)   |
+|--------------------------------------|-------------------------------|--------------------------------|
+| Primary efficacy endpoint            |                               |                                |
+| Progression-free survival a          |                               |                                |
+| Events (progression or death), n (%) | 62 (66.0)                     | 79 (84.0)                      |
+| Progressions                         | 56 (59.6)                     | 70 (74.5)                      |
+| Deaths                               | 6 (6.4)                       | 9 (9.6)                        |
+| Median (months) (95% CI)             | 7.4 (5.52, 9.10)              | 2.8 (1.94, 3.84)               |
+| Hazard ratio (95% CI) b              | 0.52 (0.37, 0.72)             | 0.52 (0.37, 0.72)              |
+| p-value c                            | <0.0001                       | <0.0001                        |
+
+CI = confidence interval; n = number of patients Stratified Log-rank test and stratified Cox model using strata per IRT defined by (i) Presence of lung and/or liver metastases.
+
+a Based on BIRC assessment
+
+b Stratified Cox model using the same stratification factors as for the log-rank test
+
+c p-value is obtained from a stratified log-rank test at an overall one-sided 2.5% level of significance.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 3 Study C2303 - Kaplan-Meier plot of PFS by BIRC assessment (FAS) with data cutoff date of 15-Oct-2024
+
+<!-- image -->
+
+## Final OS analysis
+
+The final OS analysis was conducted with 212 patients (105 in the alpelisib plus fulvestrant arm and 107 in the placebo plus fulvestrant arm), at a data cut-off date of 26-May-2025, with 24 additional patients randomised (11 in the alpelisib plus fulvestrant arm and 13 in the placebo plus fulvestrant arm) compared to the primary analysis. At the final analysis, a total of 34 (32.4%) deaths were reported in the alpelisib plus fulvestrant arm and 50 (46.7%) in the placebo plus fulvestrant arm. The HR was 0.64 (95% CI: 0.41, 0.99; nominal p=0.021, one-sided). Median OS was 29.5 months (95% CI: 20.17, NE) in the alpelisib plus fulvestrant arm and 23.8 months (95% CI: 17.28, 28.52) in the placebo plus fulvestrant arm (Figure 4). Forty-three placebo plus fulvestrant treated patients (40.2%) with disease progression confirmed by BIRC crossed over to the alpelisib plus fulvestrant arm.
+
+Figure 4 Study C2303 - Kaplan-Meier plot of OS (FAS) with data cut-off date of 26-May2025
+
+<!-- image -->
+
+Stratified Log-rank test and stratified Cox model using strata per IRT defined by (i) Presence of lung and/or liver metastases.
+
+<div style=\"page-break-after: always\"></div>
+
+## Prior use of fulvestrant in study CBYL719X2101
+
+Patients with prior fulvestrant use were not included in the pivotal studies. In the phase I study CBYL719X2101, 39 subjects reported prior fulvestrant use. The best overall responses to treatment with alpelisib plus fulvestrant for the 21 subjects with PIK3CA mutations and measurable disease at baseline were partial response in 7 subjects, stable disease in 11 subjects, and progressive disease in 2 subjects. Hence, the evidence of efficacy of this treatment in patients previously treated with fulvestrant is not established due to the limited data at this time (see section 4.4).
 
 ## Paediatric population
 
@@ -644,15 +728,11 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of alpelisib were investigated in patients under an oral dosing regimen ranging from 30 to 450 mg daily. Healthy subjects received single oral doses ranging from 300 to 400 mg. The pharmcokinetics were comparable in both oncology patients and healthy subjects.
+The pharmacokinetics of alpelisib were investigated in patients under an oral dosing regimen ranging from 30 to 450 mg daily. Healthy subjects received single oral doses ranging from 300 to 400 mg. The pharmacokinetics were comparable in both oncology patients and healthy subjects.
 
 ## Absorption
 
-Following oral administration of alpelisib, median time to reach peak plasma concentration (Tmax) ranged between 2.0 to 4.0 hours, independent of dose, time or regimen. Based on absorption modelling
-
-<div style=\"page-break-after: always\"></div>
-
-bioavailability was estimated to be very high (&gt;99%) under fed conditions but lower under fasted conditions (~68.7% at a 300 mg dose). Steady-state plasma levels of alpelisib after daily dosing can be expected to be reached on day 3 following onset of therapy in most patients.
+Following oral administration of alpelisib, median time to reach peak plasma concentration (Tmax) ranged between 2.0 to 4.0 hours, independent of dose, time or regimen. Based on absorption modelling bioavailability was estimated to be very high (&gt;99%) under fed conditions but lower under fasted conditions (~68.7% at a 300 mg dose). Steady-state plasma levels of alpelisib after daily dosing can be expected to be reached on day 3 following onset of therapy in most patients.
 
 ## Food effect
 
@@ -666,11 +746,13 @@ Alpelisib moderately binds to protein with a free fraction of 10.8% regardless o
 
 In vitro studies demonstrated that formation of the hydrolysis metabolite BZG791 by chemical and enzymatic amide hydrolysis was a major metabolic pathway, followed by CYP3A4-mediated hydroxylation. Alpelisib hydrolysis occurs systemically by both chemical decomposition and enzymatic hydrolysis via ubiquitously expressed, high-capacity enzymes (esterases, amidases, choline esterase) not limited to the liver. CYP3A4-mediated metabolites and glucuronides amounted to ~15% of the dose; BZG791 accounted for ~40-45% of the dose. The rest of the dose, which was found as unchanged alpelisib in urine and faeces, was either excreted as alpelisib or not absorbed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elimination
 
 Alpelisib exhibits low clearance with 9.2 l/h (CV% 21%) based on population pharmacokinetic analysis under fed conditions. The population-derived half-life, independent of dose and time, was 8 to 9 hours at steady state with 300 mg once daily.
 
-In a human mass-balance study, after oral administration, alpelisib and its metabolites were primarily found in the faeces (81.0%) as alpelisib, or metabolised as BZG791. Excretion in the urine is minor (13.5%), with unchanged alpelisib (2%). Following a single oral dose of [14C]-alpelisib, 94.5% of the total administered radioactive dose was recovered within 8 days.
+In a human mass-balance study, after oral administration, alpelisib and its metabolites were primarily found in the faeces (81.0%) as alpelisib, or metabolised as BZG791. Excretion in the urine is minor (13.5%), with unchanged alpelisib (2.0%). Following a single oral dose of [14C]-alpelisib, 94.5% of the total administered radioactive dose was recovered within 8 days.
 
 ## Linearity/non-linearity
 
@@ -680,11 +762,7 @@ The pharmacokinetics were found to be linear with respect to dose and time under
 
 ## CYP3A4, CYP2C8, CYP2C9, CYP2C19 and CYP2B6 substrates
 
-In a drug-drug interaction study, co-administration of repeated doses of alpelisib 300 mg with a single dose of sensitive substrates of CYP3A4 (midazolam), CYP2C8 (repaglinide), CYP2C9 (warfarin), CYP2C19 (omeprazole) and CYP2B6 (bupropion), administered as a cocktail, showed that there is no
-
-<div style=\"page-break-after: always\"></div>
-
-clinically signficant pharmacokinetic interaction. The data from CYP2B6 substrate (bupropion) should be interpreted with caution due to the small sample size.
+In a drug-drug interaction study, co-administration of repeated doses of alpelisib 300 mg with a single dose of sensitive substrates of CYP3A4 (midazolam), CYP2C8 (repaglinide), CYP2C9 (warfarin), CYP2C19 (omeprazole) and CYP2B6 (bupropion), administered as a cocktail, showed that there is no clinically signficant pharmacokinetic interaction. The data from CYP2B6 substrate (bupropion) should be interpreted with caution due to the small sample size.
 
 In healthy subjects, co-administration of a CYP2C9 substrate (S-warfarin) - with repeated doses of 300 mg alpelisib at steady state, increased S-warfarin exposure on average by 34% and 19% for AUCinf and Cmax respectively, compared to administration of S-warfarin alone. This indicates that alpelisib is a mild inhibitor of CYP2C9.
 
@@ -700,6 +778,8 @@ Based on in vitro data, inhibition of the renal organic anion transporter OAT3 b
 
 Alpelisib showed only weak in vitro inhibition towards the ubiquitously expressed efflux transporters (P-gp, BCRP, MRP2, BSEP), solute carrier transporters at the liver inlet (OATP1B1, OATP1B3, OCT1) and solute carrier transporters in the kidney (OAT1, OCT2, MATE1, MATE2K). As unbound systemic steady-state concentrations (or concentrations at the liver inlet) at both the therapeutic dose and maximum tolerated dose are significantly lower than the experimentally determined unbound inhibition constants or IC50, the inhibition will not translate into clinical significance. Due to high alpelisib concentrations in the intestinal lumen, an effect on intestinal P-gp and BCRP cannot be fully excluded.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Special populations
 
 ## Effect of age, weight and gender
@@ -712,15 +792,13 @@ The pharmacokinetics of Piqray in children aged 0-18 years have not been establi
 
 ## Elderly (age 65 years or above)
 
-Of 284 patients who received Piqray in the phase III study (in the alpelisib plus fulvestrant arm), 117 patients were ≥65 years of age and 34 patients were between 75 and 87 years of age. No overall differences in exposure of Piqray were observed between these patients and younger patients (see section 4.2).
+Of 376 patients who received Piqray in combination with fulvestrant in the phase III studies, 157 patients were ≥65 years of age and 46 patients were between 75 and 87 years of age. No overall differences in exposure of Piqray were observed between these patients and younger patients (see section 4.2).
 
 ## Race/Ethnicity
 
 Population pharmacokinetic analyses and pharmacokinetic analyses from a phase I study in Japanese cancer patients showed that there are no clinically relevant effects of ethnicity on the systemic exposure of Piqray.
 
 Non-compartmental pharmacokinetic parameters after single and multiple daily doses of Piqray for Japanese patients were very similar to those reported in the Caucasian population.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -736,7 +814,9 @@ Based on a population pharmacokinetic analysis that included 230 patients with n
 
 ## Safety pharmacology and repeated dose toxicity
 
-The majority of the observed alpelisib effects were related to the pharmacological activity of alpelisib as a p110α -specific inhibitor of the PI3K pathway, such as the influence on the glucose homeostasis resulting in hyperglycaemia and the risk of increased blood pressure. The bone marrow and lymphoid tissue, pancreas and some reproductive organs of both genders were the main target organs for adverse events. Effects on bone marrow and lymphoid tissue were generally reversible on cessation of treatment. Effects on the pancreas and reproductive organs did not fully reverse but showed a tendency towards reversion. In exploratory rat studies evidence of inflammatory changes of the skin was found.
+The majority of the observed alpelisib effects were related to the pharmacological activity of alpelisib as a p110α-specific inhibitor of the PI3K pathway, such as the influence on the glucose homeostasis resulting in hyperglycaemia and the risk of increased blood pressure. The bone marrow and lymphoid tissue, pancreas and some reproductive organs of both genders were the main target organs for adverse events. Effects on bone marrow and lymphoid tissue were generally reversible on cessation of treatment. Effects on the pancreas and reproductive organs did not fully reverse but showed a tendency towards reversion. In exploratory rat studies evidence of inflammatory changes of the skin was found.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Cardiovascular safety pharmacology
 
@@ -752,8 +832,6 @@ Alpelisib was not carcinogenic in a 2-year carcinogenicity study conducted in ra
 
 Embryo-foetal development studies in rats and rabbits have demonstrated that oral administration of alpelisib during organogenesis induced embryotoxicity, foetotoxicity and teratogenicity. In rats and rabbits, following prenatal exposure to alpelisib, increased incidences of pre- and post-implantation losses, reduced foetal weights and increased incidences of foetal abnormalities (enlarged brain ventricle, decreased bone ossification and skeletal malformations) were observed starting at exposures below those in humans at the highest recommended dose of 300 mg, indicating potential clinical relevance.
 
-<div style=\"page-break-after: always\"></div>
-
 In repeated dose toxicity studies, adverse events were observed in reproductive organs, such as vaginal or uterine atrophy and oestrus cycle variations in rats, decreases in prostate and testes weight in rats and dogs and prostate atrophy in dogs at clinically relevant doses based on AUC.
 
 In fertility studies conducted in male and female rats, similar effects on fertility were observed. In females, increased pre- and post-implantation losses, which led to reduced numbers of implantation sites and live embryos, were observed at exposure levels (AUC) approximately twice the recommended human dose of 300 mg. In males, fertility and reproductive performance, including sperm count and motility parameters, were unaffected at exposure levels approximately twice the estimated exposure (AUC) in humans at the recommended dose of 300 mg. However, at exposure levels (AUC) at or below the recommended human dose of 300 mg, accessory gland weights (seminal vesicles, prostate) were reduced and correlated microscopically with atrophy and/or reduced secretion in prostate and seminal vesicles, respectively.
@@ -761,6 +839,8 @@ In fertility studies conducted in male and female rats, similar effects on ferti
 ## Phototoxicity
 
 An in vitro phototoxicity test on the mouse Balb/c 3T3 fibroblast cell line did not identify a relevant phototoxicity potential for alpelisib.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -772,7 +852,9 @@ Cellulose microcrystalline Mannitol Sodium starch glycolate Hypromellose Magnesi
 
 ## Film coating
 
-Hypromellose Iron oxide, black (E172) Iron oxide, red (E172) Titanium dioxide (E171) Macrogol Talc
+Hypromellose Iron oxide, black (E172) Iron oxide, red (E172) Titanium dioxide (E171) Macrogol
+
+Talc
 
 ## 6.2 Incompatibilities
 
@@ -785,8 +867,6 @@ Not applicable.
 ## 6.4 Special precautions for storage
 
 This medical product does not require any special storage conditions.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -808,29 +888,43 @@ Packs containing 14 or 28 film-coated tablets. Multipacks containing 84 (3x 28) 
 
 Not all pack sizes may be marketed.
 
-## 6.6 Special precautions for disposal
+<div style=\"page-break-after: always\"></div>
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+6.6 Special precautions for disposal
 
-## 7. MARKETING AUTHORISATION HOLDER
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
+
+7. MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited
 
-Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Vista Building
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
+
+8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1455/001-009
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 27 July 2020
 
 Date of latest renewal: 07 February 2025
 
-## 10. DATE OF REVISION OF THE TEXT
+10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+[Agency https://www.ema.europa.eu.](https://www.ema.europa.eu/)
+
+28
 
 <div style=\"page-break-after: always\"></div>
 
@@ -851,7 +945,9 @@ Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 Lek Pharmaceuticals d.d. Verovskova ulica 57 1526 Ljubljana Slovenia
 
-Novartis Pharmaceutical Manufacturing LLC Verovskova ulica 57 1000 Ljubljana Slovenia
+Novartis Pharmaceutical Manufacturing LLC Verovskova ulica 57 1000 Ljubljana
+
+Slovenia
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -906,13 +1002,7 @@ Each film-coated tablet contains 150 mg alpelisib.
 
 ## Film-coated tablet
 
-28 tablets
-
-14-day supply for a 300 mg daily dose .
-
-56 tablets
-
-28-day supply for a 300 mg daily dose .
+28 tablets 14-day supply for a 300 mg daily dose. 56 tablets 28-day supply for a 300 mg daily dose.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -938,15 +1028,17 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1455/001
 
-28 film-coated tablets of 150 mg
-
 EU/1/20/1455/002
+
+28 film-coated tablets of 150 mg
 
 56 film-coated tablets of 150 mg
 
@@ -956,12 +1048,11 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Piqray 150 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -977,7 +1068,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON OF MULTIPACK CONTAINING 150 MG TABLETS (WITH BLUE BOX)
+## OUTER CARTON OF MULTIPACK CONTAINING 150 MG TABLETS (WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -991,11 +1082,11 @@ Each film-coated tablet contains 150 mg alpelisib.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 Multipack: 168 (3x 56) tablets
 
-3x 28-day supply for a 300 mg daily dose .
+3x 28-day supply for a 300 mg daily dose.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1015,11 +1106,15 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1031,10 +1126,8 @@ EU/1/20/1455/003
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Piqray 150 mg
@@ -1047,17 +1140,13 @@ Piqray 150 mg
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-INTERMEDIATE CARTON OF MULTIPACK CONTAINING 150 MG TABLETS
-
-(WITHOUT BLUE BOX)
+## INTERMEDIATE CARTON OF MULTIPACK CONTAINING 150 MG TABLETS (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1071,11 +1160,11 @@ Each film-coated tablet contains 150 mg alpelisib.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 56 tablets
 
-28-day supply for a 300 mg daily dose .
+28-day supply for a 300 mg daily dose.
 
 Component of a multipack. Not to be sold separately.
 
@@ -1099,70 +1188,70 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1455/003
+EU/1/20/1455/003 168 (3x 56) film-coated tablets of 150 mg
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Piqray 150 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
-
-168 (3x 56) film-coated tablets of 150 mg
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER CARD OF PACKS CONTAINING 150 MG TABLETS
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER CARD OF PACKS CONTAINING 150 MG TABLETS       |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Piqray 150 mg tablets alpelisib
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
-Mon.
-
-Tue.
-
-Wed.
-
-Thu.
-
-Fri.
-
-Sat.
-
-Sun.
+Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 Take both tablets in the coloured row immediately after food on the day indicated.
 
@@ -1174,7 +1263,9 @@ Take both tablets in the coloured row immediately after food on the day indicate
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Piqray 200 mg film-coated tablets alpelisib
+Piqray 200 mg film-coated tablets
+
+alpelisib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1188,11 +1279,11 @@ Each film-coated tablet contains 200 mg alpelisib.
 
 14 tablets
 
-14-day supply for a 200 mg daily dose .
+14-day supply for a 200 mg daily dose.
 
 28 tablets
 
-28-day supply for a 200 mg daily dose .
+28-day supply for a 200 mg daily dose.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1218,15 +1309,17 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1455/007
 
-14 film-coated tablets of 200 mg
-
 EU/1/20/1455/008
+
+14 film-coated tablets of 200 mg
 
 28 film-coated tablets of 200 mg
 
@@ -1241,15 +1334,13 @@ Lot
 
 Piqray 200 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1257,7 +1348,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON OF MULTIPACK CONTAINING 200 MG TABLETS (WITH BLUE BOX)
+## OUTER CARTON OF MULTIPACK CONTAINING 200 MG TABLETS (WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1271,11 +1362,11 @@ Each film-coated tablet contains 200 mg alpelisib.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 Multipack: 84 (3x 28) tablets
 
-3x 28-day supply for a 200 mg daily dose .
+3x 28-day supply for a 200 mg daily dose.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1295,11 +1386,16 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1311,10 +1407,8 @@ EU/1/20/1455/009
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Piqray 200 mg
@@ -1327,15 +1421,13 @@ Piqray 200 mg
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-INTERMEDIATE CARTON OF MULTIPACK CONTAINING 200 MG TABLETS
+## INTERMEDIATE CARTON OF MULTIPACK CONTAINING 200 MG TABLETS
 
 (WITHOUT BLUE BOX)
 
@@ -1355,7 +1447,7 @@ Each film-coated tablet contains 200 mg alpelisib.
 
 28 tablets
 
-28-day supply for a 200 mg daily dose .
+28-day supply for a 200 mg daily dose.
 
 Component of a multipack. Not to be sold separately.
 
@@ -1371,55 +1463,61 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1455/009
+EU/1/20/1455/009 84 (3x 28) film-coated tablets of 200 mg
 
-84 (3x 28) film-coated tablets of 200 mg
-
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Piqray 200 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER CARD OF PACKS CONTAINING 200 MG TABLETS       |
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER CARD OF PACKS CONTAINING 200 MGTABLETS       |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Piqray 200 mg tablets alpelisib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -1468,13 +1566,13 @@ Each film-coated tablet contains 50 mg or 200 mg alpelisib.
 
 14 tablets of 200 mg
 
-14-day supply for a 250 mg daily dose .
+14-day supply for a 250 mg daily dose.
 
 28 tablets of 50 mg
 
 28 tablets of 200 mg
 
-28-day supply for a 250 mg daily dose .
+28-day supply for a 250 mg daily dose.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1492,23 +1590,25 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1455/004
 
-14 film-coated tablets of 50 mg + 14 film-coated tablets of 200 mg
-
 EU/1/20/1455/005
+
+14 film-coated tablets of 50 mg + 14 film-coated tablets of 200 mg
 
 28 film-coated tablets of 50 mg + 28 film-coated tablets of 200 mg
 
@@ -1516,13 +1616,15 @@ EU/1/20/1455/005
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Piqray 50 mg + 200 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1564,7 +1666,7 @@ Multipack:
 
 84 (3x28) tablets of 200 mg
 
-3x 28-day supply for a 250 mg daily dose .
+3x 28-day supply for a 250 mg daily dose.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1590,7 +1692,9 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1607,15 +1711,13 @@ Lot
 
 Piqray 50 mg + 200 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1648,7 +1750,7 @@ Each film-coated tablet contains 50 mg or 200 mg alpelisib.
 - 28 tablets of 50 mg
 - 28 tablets of 200 mg
 
-28-day supply for a 250 mg daily dose .
+28-day supply for a 250 mg daily dose.
 
 Component of a multipack. Not to be sold separately.
 
@@ -1672,18 +1774,18 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1455/006 84 film-coated tablets of 50 mg + 84 film-coated tablets of 200 mg (3x
-
-28 + 28)
+EU/1/20/1455/006 84 film-coated tablets of 50 mg + 84 film-coated tablets of 200 mg (3x 28 + 28)
 
 ## 13. BATCH NUMBER
 
@@ -1691,54 +1793,44 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Piqray 50 mg + 200 mg
 
-17. UNIQUE IDENTIFIER -2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER CARD OF PACKS CONTAINING 50 MG AND 200 MG TABLETS
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+## BLISTER CARD OF PACKS CONTAINING 50 MG AND 200 MG TABLETS
 
-Piqray 50 mg tablets
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Piqray 200 mg tablets
+Piqray 50 mg tablets Piqray 200 mg tablets alpelisib
 
-alpelisib
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
-Mon.
-
-Tue.
-
-Wed.
-
-Thu.
-
-Fri.
-
-Sat.
-
-Sun.
+Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 Take both tablets in the coloured row immediately after food on the day indicated.
 
@@ -1750,14 +1842,16 @@ Take both tablets in the coloured row immediately after food on the day indicate
 
 ## Package leaflet: Information for the patient
 
-Piqray 50 mg film-coated tablets Piqray 150 mg film-coated tablets Piqray 200 mg film-coated tablets alpelisib
+Piqray 50 mg film-coated tablets Piqray 150 mg film-coated tablets Piqray 200 mg film-coated tablets
+
+alpelisib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, or pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, or pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1776,7 +1870,7 @@ Piqray contains the active substance alpelisib, which belongs to a group of medi
 
 ## What Piqray is used for
 
-Piqray is used for the treatment of postmenopausal women, and men, with a type of breast cancer called advanced hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)negative breast cancer. Piqray is used in combination with fulvestrant, a hormonal anticancer therapy, in patients whose cancer has not responded to other hormonal treatments and who have certain changes (mutations) in a gene called PIK3CA.
+Piqray is used for the treatment of postmenopausal women, and men, with a type of breast cancer called advanced hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)- negative breast cancer. Piqray is used in combination with fulvestrant, a hormonal anticancer therapy, in patients whose cancer has not responded to other hormonal treatments and who have certain changes (mutations) in a gene called PIK3CA.
 
 Your doctor will take a sample of your blood and/or tumour tissue, which will be tested for these PIK3CA mutations. If the result is positive your cancer is likely to respond to treatment with Piqray.
 
@@ -1786,15 +1880,15 @@ Piqray works by blocking the effects of enzymes called phosphatidylinositol-3-ki
 
 If you have any questions about how Piqray works or why this medicine has been prescribed for you, ask your doctor, pharmacist or nurse.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 2. What you need to know before you take Piqray
 
 Follow all of your doctor's instructions carefully, as they may differ from the general information in this leaflet. Check with your doctor if you are not sure.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Do not take Piqray
 
-- -if you are allergic to alpelisib or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice.
+- if you are allergic to alpelisib or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice.
 
 ## Warnings and precautions
 
@@ -1802,31 +1896,31 @@ Talk to your doctor or pharmacist before taking Piqray.
 
 If any of the following apply to you before taking Piqray, tell your doctor or pharmacist:
 
-- -if you have or have ever had high levels of sugar in your blood or diabetes (or signs of increased sugar levels, such as excessive thirst and dry mouth, needing to pass urine more often than usual, producing greater amounts of urine than usual, tiredness, nausea, increased appetite with weight loss).
-- -if you have ever had Stevens-Johnson syndrome (SJS, a highly serious reaction with flu-like symptoms and painful rash affecting the skin, mouth, eyes and genitals), erythema multiforme (EM, a skin reaction that causes red spots or patches on the skin, that may look like a target or 'bullseye' with a dark red centre surrounded by paler red rings ), drug reaction with eosinophilia and systemic symptoms (DRESS, a skin reaction combined with fever, facial swelling, enlarged lymph nodes and kidney or liver injury) or toxic epidermal necrolysis (TEN, a serious skin reaction with red skin, blistering of the lips, eyes or mouth, skin peeling, with or without fever, rash).
-- -if you have a severe bone disease that affects the jaw (osteonecrosis of the jaw, ONJ).
+- if you have or have ever had high levels of sugar in your blood or diabetes (or signs of increased sugar levels, such as excessive thirst and dry mouth, needing to pass urine more often than usual, producing greater amounts of urine than usual, tiredness, nausea, increased appetite with weight loss).
+- if you have ever had Stevens-Johnson syndrome (SJS, a highly serious reaction with flu-like symptoms and painful rash affecting the skin, mouth, eyes and genitals), erythema multiforme (EM, a skin reaction that causes red spots or patches on the skin, that may look like a target or 'bullseye' with a dark red centre surrounded by paler red rings), drug reaction with eosinophilia and systemic symptoms (DRESS, a skin reaction combined with fever, facial swelling, enlarged lymph nodes and kidney or liver injury) or toxic epidermal necrolysis (TEN, a serious skin reaction with red skin, blistering of the lips, eyes or mouth, skin peeling, with or without fever, rash).
+- if you have a severe bone disease that affects the jaw (osteonecrosis of the jaw, ONJ).
 
 If any of the following apply to you during your treatment with Piqray, tell your doctor or pharmacist immediately:
 
-- -Rash, itching, hives, breathlessness, difficulty breathing, wheezing, cough, light-headedness, dizziness, changes in levels of consciousness, low blood pressure, reddening of the skin, swelling of the face or throat, blue discoloration of the lips, tongue or skin (possible signs of severe allergic reactions).
-- -New or changing breathing problems such as difficult or painful breathing, cough, rapid breathing, blue discoloration of the lips, tongue or skin, hiccups (possible signs of noninfectious pneumonitis or pneumonia).
-- -Increased thirst and dry mouth, passing urine more often than usual, tiredness, increased appetite with weight loss, confusion, nausea, vomiting, fruity odour on breath, difficulty breathing and dry or flushed skin, which may be signs of increased blood sugar levels (hyperglycaemia) and its complications.
-- -Rash, reddening of the skin, blistering of the lips, eyes or mouth, skin peeling, sometimes with fever (possible signs of one of the following skin conditions: Stevens-Johnson syndrome (SJS), erythema multiforme (EM), drug reaction with eosinophilia and systemic symptoms (DRESS) or toxic epidermal necrolysis (TEN)).
-- -New or worsening symptoms affecting your mouth (such as loose teeth, pain or swelling, nonhealing of mouth sores, or discharge).
-- -Severe diarrhoea or severe abdominal pain or stools with mucus or blood, which may be signs of inflammation of your intestine (colitis).
+- Rash, itching, hives, breathlessness, difficulty breathing, wheezing, cough, light-headedness, dizziness, changes in levels of consciousness, low blood pressure, reddening of the skin, swelling of the face or throat, blue discoloration of the lips, tongue or skin (possible signs of severe allergic reactions).
+- New or changing breathing problems such as difficult or painful breathing, cough, rapid breathing, blue discoloration of the lips, tongue or skin, hiccups (possible signs of noninfectious pneumonitis or pneumonia).
+- Increased thirst and dry mouth, passing urine more often than usual, tiredness, increased appetite with weight loss, confusion, nausea, vomiting, fruity odour on breath, difficulty breathing and dry or flushed skin, which may be signs of increased blood sugar levels (hyperglycaemia) and its complications.
+- Rash, reddening of the skin, blistering of the lips, eyes or mouth, skin peeling, sometimes with fever (possible signs of one of the following skin conditions: Stevens-Johnson syndrome (SJS), erythema multiforme (EM), drug reaction with eosinophilia and systemic symptoms (DRESS) or toxic epidermal necrolysis (TEN)).
+- New or worsening symptoms affecting your mouth (such as loose teeth, pain or swelling, nonhealing of mouth sores, or discharge).
+- Severe diarrhoea or severe abdominal pain or stools with mucus or blood, which may be signs of inflammation of your intestine (colitis).
 
 Your doctor may need to treat these symptoms, temporarily interrupt your treatment, reduce your dose, or permanently stop your treatment with Piqray.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Blood tests before and during your treatment with Piqray
 
 Your doctor will carry out blood tests before and regularly during treatment with Piqray to monitor your blood sugar. Based on the results, your doctor will take any necessary actions, such as prescribing a medicine to lower blood sugar levels. If necessary, your doctor may decide to temporarily interrupt treatment with Piqray or reduce your Piqray dose to allow your blood sugar to decrease. Your doctor may also decide to stop Piqray treatment permanently.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Make sure that you regularly test your blood sugar before you start treatment, during treatment and after you stop treatment with Piqray.
 
-- -Your doctor will tell you exactly when and where to have the blood tests. Treatment with Piqray may only be started if tests show that you have the right levels of sugar in your blood. This is because Piqray can increase sugar in your blood (hyperglycaemia), which could be serious and need treatment. Only regular fasting blood tests can tell the doctor if you are developing hyperglycaemia.
-- -Your doctor will tell you exactly when and where to test your blood sugar. This will be required more frequently in the first 4 weeks of treatment and especially in the first 2 weeks of treatment with Piqray. Afterwards, blood tests will be needed at least once a month, depending on your blood sugar levels.
+- Your doctor will tell you exactly when and where to have the blood tests. Treatment with Piqray may only be started if tests show that you have the right levels of sugar in your blood. This is because Piqray can increase sugar in your blood (hyperglycaemia), which could be serious and need treatment. Only regular fasting blood tests can tell the doctor if you are developing hyperglycaemia.
+- Your doctor will tell you exactly when and where to test your blood sugar. This will be required more frequently in the first 4 weeks of treatment and especially in the first 2 weeks of treatment with Piqray. Afterwards, blood tests will be needed at least once a month, depending on your blood sugar levels.
 
 ## Children and adolescents
 
@@ -1836,16 +1930,16 @@ Piqray is not to be used in children and adolescents under 18 years of age.
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes in particular:
 
-- -eltrombopag, a medicine used to treat low platelet count
-- -medicines used to treat breast cancer (such as lapatinib, ribociclib)
-- -everolimus, apalutamide, enzalutamide and mitotane, medicines used to treat certain types of cancers
-- -pantoprazole, a medicine used to treat heartburn and reduce the amount of acid produced in your stomach
-- -midazolam, a medicine used to for sedation or sleep disturbances
-- -rifampicin, a medicine to treat tuberculosis and some other serious infections
-- -carbamazepine and phenytoin, medicines used to treat seizures or convulsions
-- -St. John's Wort, a herbal product used to treat depression and other conditions
-- -encorafenib, a medicine used to treat a certain type of skin cancer
-- -warfarin, a medicine used reduce the clotting ability of the blood
+- eltrombopag, a medicine used to treat low platelet count
+- medicines used to treat breast cancer (such as lapatinib, ribociclib)
+- everolimus, apalutamide, enzalutamide and mitotane, medicines used to treat certain types of cancers
+- pantoprazole, a medicine used to treat heartburn and reduce the amount of acid produced in your stomach
+- midazolam, a medicine used to for sedation or sleep disturbances
+- rifampicin, a medicine to treat tuberculosis and some other serious infections
+- carbamazepine and phenytoin, medicines used to treat seizures or convulsions
+- St. John's Wort, a herbal product used to treat depression and other conditions
+- encorafenib, a medicine used to treat a certain type of skin cancer
+- warfarin, a medicine used reduce the clotting ability of the blood
 
 Ask your doctor or pharmacist if you are not sure whether your medicine is one of the medicines listed above.
 
@@ -1857,17 +1951,17 @@ If you are a woman who could become pregnant, your doctor will rule out an exist
 
 Women who could become pregnant should use an effective method of birth control during treatment and for at least 1 week after stopping Piqray. Ask your doctor about suitable methods. If you think you may be pregnant after starting treatment with Piqray, tell your doctor immediately.
 
+<div style=\"page-break-after: always\"></div>
+
 During treatment and for at least 1 week after stopping treatment, male patients should use a condom for intercourse with female partners who could become pregnant. If the partner of a male patient suspects that she has become pregnant during this time, she should inform a doctor immediately.
 
 ## Driving and using machines
 
 Treatment with Piqray may lead to tiredness or blurred vision. You should therefore be cautious when driving or using machines during your treatment with Piqray.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Piqray contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially ' sodium-free ' .
+This medicine contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
 
 ## 3. How to take Piqray
 
@@ -1879,9 +1973,9 @@ The usual starting dose of Piqray is 300 mg once daily. Your doctor will decide 
 
 Depending on the dose prescribed, the number of tablets to take is as follows:
 
-- -300 mg dose: two 150 mg tablets
-- -250 mg dose: one 200 mg tablet and one 50 mg tablet
-- -200 mg dose: one 200 mg tablet
+- 300 mg dose: two 150 mg tablets
+- 250 mg dose: one 200 mg tablet and one 50 mg tablet
+- 200 mg dose: one 200 mg tablet
 
 Depending on how your body responds to the treatment with Piqray, your doctor may want to adjust your Piqray dose. It is very important to follow your doctor's instructions. If you have certain side effects, your doctor may ask you to change to a lower dose, to interrupt treatment for a time, or to stop treatment.
 
@@ -1907,11 +2001,11 @@ This is a long-term treatment, possibly lasting for months or years. Your doctor
 
 If you have questions about how long to take Piqray, talk to your doctor or to your pharmacist.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you take more Piqray than you should
 
 People who have taken too many Piqray tablets have experienced effects that are known side effects of Piqray, including high blood sugar levels, nausea, tiredness and rash. If you accidentally take too many tablets, or if someone else accidentally takes your medicine, contact a doctor or hospital for advice immediately. Medical treatment may be necessary.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you forget to take Piqray
 
@@ -1929,104 +2023,102 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Some side effects could be serious
 
-If you get any serious side effects, stop taking this medicine and tell your doctor immediately .
+If you get any serious side effects, stop taking this medicine and tell your doctor immediately.
 
-## Very common (may affect more than 1 in 10 people) :
+## Very common (may affect more than 1 in 10 people):
 
-- -Feeling very thirsty, passing urine more often than usual or passing greater amounts of urine than usual, increased appetite with weight loss (possible symptoms of high blood sugar levels, also called hyperglycaemia)
-- -Fever, cough, runny nose, enlarged lymph nodes, painful joints, rash, night sweats, weight loss (possible symptoms of a low level of lymphocytes, a type of white blood cells)
+- Feeling very thirsty, passing urine more often than usual or passing greater amounts of urine than usual, increased appetite with weight loss (possible symptoms of high blood sugar levels, also called hyperglycaemia)
+- Fever, cough, runny nose, enlarged lymph nodes, painful joints, rash, night sweats, weight loss (possible symptoms of a low level of lymphocytes, a type of white blood cells)
 
-## Common (may affect up to 1 in every 10 people) :
+## Common (may affect up to 1 in every 10 people):
 
-- -Rash, itching, hives, breathlessness, difficulty breathing, wheezing, cough, light-headedness, dizziness, changes in levels of consciousness, low blood pressure, reddening of the skin, swelling of the face and/or throat, blue discoloration of the lips, tongue or skin (possible signs of severe allergic reactions)
-- -Difficulty breathing, headache, nausea, vomiting (possible symptoms of a condition called ketoacidosis that involves a high level of acids in the blood)
-- -Breathing problems including difficult or painful breathing, cough, rapid breathing, blue discoloration of the lips, tongue or skin, hiccups (possible symptoms of pneumonitis)
-- -Passing urine less often than usual or passing smaller amounts of urine than usual, swelling in legs, ankles and around the eyes, tiredness, confusion, nausea, seizure, chest pain (possible symptoms of acute kidney failure)
-- -Pain, swelling or numbness of the jaw, a feeling of heaviness in the jaw or loosening of a tooth (possible symptoms of osteonecrosis of the jaw)
-- -Rash, skin reddening, blistering of lips, eyes or mouth, skin peeling (possible symptoms of erythema multiforme)
+- Rash, itching, hives, breathlessness, difficulty breathing, wheezing, cough, light-headedness, dizziness, changes in levels of consciousness, low blood pressure, reddening of the skin, swelling of the face and/or throat, blue discoloration of the lips, tongue or skin (possible signs of severe allergic reactions)
+- Breathing problems including difficult or painful breathing, cough, rapid breathing, blue discoloration of the lips, tongue or skin, hiccups (possible symptoms of pneumonitis)
+- Passing urine less often than usual or passing smaller amounts of urine than usual, swelling in legs, ankles and around the eyes, tiredness, confusion, nausea, seizure, chest pain (possible symptoms of acute kidney failure)
+- Pain, swelling or numbness of the jaw, a feeling of heaviness in the jaw or loosening of a tooth (possible symptoms of osteonecrosis of the jaw)
 
-## Uncommon (may affect up to 1 in every 100 people) :
+## Uncommon (may affect up to 1 in every 100 people):
 
-- -Severe upper stomach pain (possible symptoms of pancreatitis)
-- -Rash, red skin, blistering of the lips, eyes or mouth, skin peeling, fever (possible symptoms of Stevens-Johnson syndrome)
-
-## Not known (frequency cannot be estimated from the available data) :
-
-- -Diarrhoea, an increased number of bowel movements than usual, blood in your stools or darkercoloured stools, pain or tenderness in your stomach area (possible symptoms of colitis, inflammation of the intestines)
-- -Confusion, dry mouth, dry or flushed skin, nausea, vomiting, tiredness, need to pass urine frequently, thirst (possible symptoms of hyperglycaemic hyperosmolar nonketotic syndrome (HHNKS))
+- Difficulty breathing, headache, nausea, vomiting (possible symptoms of a condition called ketoacidosis that involves a high level of acids in the blood)
+- Rash, skin reddening, blistering of lips, eyes or mouth, skin peeling (possible symptoms of erythema multiforme)
+- Severe upper stomach pain (possible symptoms of pancreatitis)
+- Rash, red skin, blistering of the lips, eyes or mouth, skin peeling, fever (possible symptoms of Stevens-Johnson syndrome)
 
 <div style=\"page-break-after: always\"></div>
 
-- -Swelling of your face or throat and difficulty breathing (possible symptoms of angioedema, a type of severe allergic reaction)
-- -Rash, fever (possible symptoms of drug rash with eosinophilia and systemic symptoms (DRESS))
-- -Redness of the eye, eye pain, sensitivity to light, dark floaters in your field of vision, blurred vision, decrease in vision, small pupil (possible symptoms of uveitis)
+Not known (frequency cannot be estimated from the available data):
+
+- Diarrhoea, an increased number of bowel movements than usual, blood in your stools or darkercoloured stools, pain or tenderness in your stomach area (possible symptoms of colitis, inflammation of the intestines)
+- Confusion, dry mouth, dry or flushed skin, nausea, vomiting, tiredness, need to pass urine frequently, thirst (possible symptoms of hyperglycaemic hyperosmolar nonketotic syndrome (HHNKS))
+- Swelling of your face or throat and difficulty breathing (possible symptoms of angioedema, a type of severe allergic reaction)
+- Rash, fever (possible symptoms of drug rash with eosinophilia and systemic symptoms (DRESS))
+- Redness of the eye, eye pain, sensitivity to light, dark floaters in your field of vision, blurred vision, decrease in vision, small pupil (possible symptoms of uveitis)
 
 ## Other possible side effects
 
 Other side effects include the following listed below. If these side effects become severe, tell your doctor, pharmacist or nurse.
 
-## Very common (may affect more than 1 in 10 people) :
+Very common (may affect more than 1 in 10 people):
 
-- -Painful and frequent urination (possible symptoms of urinary tract infection)
-- -Tiredness, pale skin (possible symptoms of anaemia, a condition involving a low level of red blood cells)
-- -Spontaneous bleeding or bruising (signs of a low level of thrombocytes, also called platelets, in the blood)
-- -Loss of appetite
-- -Headache
-- -Strange taste in the mouth (dysgeusia)
-- -Diarrhoea
-- -Nausea
-- -Vomiting
-- -Mouth sores or ulcers with gum inflammation (stomatitis)
-- -Abdominal pain
-- -Upset stomach, indigestion (dyspepsia)
-- -Rash
-- -Hair loss or hair thinning (alopecia)
-- -Itching (pruritus)
-- -Dry skin
-- -Tiredness (fatigue)
-- -Pain, redness and swelling of airways or food pipe or genital mucosa (mucosal inflammation)
-- -Swollen hands, ankles or feet (peripheral oedema)
-- -Fever (pyrexia)
-- -Mucosal dryness
-- -Weight decreased
-- -Reduced level of calcium in the blood, which may sometimes lead to cramps (hypocalcaemia)
-- -Reduced level of potassium in the blood, associated with muscle weakness, muscle spasms and/or abnormal heart rhythm (hypokalaemia)
-- -Headache, dizziness (possible symptoms of high blood pressure)
-
-## Common (may affect up to 1 in every 10 people) :
-
-- -Dehydration
-- -Problems falling asleep (insomnia)
-- -Dry eye
-- -Blurred vision
-- -Swelling of part or all of your arm (including fingers) or leg (including toes), feeling of heaviness, restricted movement, discomfort, thickening of the skin and recurring infections (possible symptoms of lymphoedema)
-- -Toothache
-- -Bleeding, tender or enlarged gums (signs of inflammation of the gums)
-- -Cracked, chapped lips (cheilitis)
-- -Gingival pain
-- -Erythema
-- -Skin inflammation with rash (dermatitis)
+- Tiredness, pale skin (possible symptoms of anaemia, a condition involving a low level of red blood cells)
+- Spontaneous bleeding or bruising (signs of a low level of thrombocytes, also called platelets, in the blood)
+- Loss of appetite
+- Headache
+- Strange taste in the mouth (dysgeusia)
+- Diarrhoea
+- Nausea
+- Vomiting
+- Mouth sores or ulcers with gum inflammation (stomatitis)
+- Abdominal pain
+- Upset stomach, indigestion (dyspepsia)
+- Rash
+- Hair loss or hair thinning (alopecia)
+- Itching (pruritus)
+- Dry skin
+- Tiredness (fatigue)
+- Pain, redness and swelling of airways or food pipe or genital mucosa (mucosal inflammation)
+- Swollen hands, ankles or feet (peripheral oedema)
+- Fever (pyrexia)
+- Mucosal dryness
+- Weight decreased
+- Reduced level of calcium in the blood, which may sometimes lead to cramps (hypocalcaemia)
+- Reduced level of potassium in the blood, associated with muscle weakness, muscle spasms and/or abnormal heart rhythm (hypokalaemia)
 
 <div style=\"page-break-after: always\"></div>
 
-- -Reddening and/or swelling and possibly peeling on the palms of the hands and soles of the feet, which may be accompanied by a tingling sensation and burning pain (signs of hand-foot syndrome)
-- -Muscle spasms
-- -Muscle pain (myalgia)
-- -Generalised swelling (oedema)
+## Common (may affect up to 1 in every 10 people):
+
+- Painful and frequent urination (possible symptoms of urinary tract infection)
+- Dehydration
+- Problems falling asleep (insomnia)
+- Dry eye
+- Blurred vision
+- Swelling of part or all of your arm (including fingers) or leg (including toes), feeling of heaviness, restricted movement, discomfort, thickening of the skin and recurring infections (possible symptoms of lymphoedema)
+- Toothache
+- Bleeding, tender or enlarged gums (signs of inflammation of the gums)
+- Cracked, chapped lips (cheilitis)
+- Gingival pain
+- Erythema
+- Skin inflammation with rash (dermatitis)
+- Reddening and/or swelling and possibly peeling on the palms of the hands and soles of the feet, which may be accompanied by a tingling sensation and burning pain (signs of hand-foot syndrome)
+- Muscle spasms
+- Muscle pain (myalgia)
+- Generalised swelling (oedema)
+- Headache, dizziness (possible symptoms of high blood pressure)
 
 During Piqray treatment, the results of some blood tests may be abnormal, as follows:
 
-## Very common (may affect more than 1 in 10 people) :
+Very common (may affect more than 1 in 10 people):
 
-- -High blood levels of the following enzymes: gamma glutamyl transferase, alanine aminotransferase, lipase
-- -High blood level of sugar
-- -High blood level of creatinine and/or calcium
-- -Low blood level of lymphocytes, platelets, sugar, haemoglobin and/or albumin
-- -Increase in activated partial thromboplastin time (a measurement of blood clotting ability)
+- High blood levels of the following enzymes: gamma glutamyl transferase, alanine aminotransferase, lipase
+- High blood level of sugar
+- High blood level of creatinine and/or calcium
+- Low blood level of lymphocytes, platelets, sugar, haemoglobin and/or albumin
+- Increase in activated partial thromboplastin time (a measurement of blood clotting ability)
 
-## Common (may affect up to 1 in every 10 people) :
+## Common (may affect up to 1 in every 10 people):
 
-- -High blood level of glycosylated haemoglobin (a marker of blood sugar level over the last 8 to 12 weeks)
+- High blood level of glycosylated haemoglobin (a marker of blood sugar level over the last 8 to 12 weeks)
 
 ## Reporting of side effects
 
@@ -2042,46 +2134,48 @@ This medicine does not require any special storage conditions.
 
 Do not take this medicine if you notice any damage to the packaging or if there are any signs of tampering.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Piqray contains
 
-- -The active substance of Piqray is alpelisib.
-- -Each 50 mg Piqray film-coated tablet contains 50 mg alpelisib.
-- -Each 150 mg Piqray film-coated tablet contains 150 mg alpelisib.
-- -Each 200 mg Piqray film-coated tablet contains 200 mg alpelisib.
-- -The other ingredients are:
-- -Tablet core: cellulose microcristalline, mannitol, sodium starch glycolate (see section 2 'Piqray contains sodium') , hypromellose, magnesium stearate.
-- -Coating material: Hypromellose, iron oxide red and black (E172), titanium dioxide (E171), macrogol, talc.
-
-<div style=\"page-break-after: always\"></div>
+- The active substance of Piqray is alpelisib.
+- Each 50 mg Piqray film-coated tablet contains 50 mg alpelisib.
+- Each 150 mg Piqray film-coated tablet contains 150 mg alpelisib.
+- Each 200 mg Piqray film-coated tablet contains 200 mg alpelisib.
+- The other ingredients are:
+- Tablet core: cellulose microcristalline, mannitol, sodium starch glycolate (see section 2 'Piqray contains sodium'), hypromellose, magnesium stearate.
+- Coating material: Hypromellose, iron oxide red and black (E172), titanium dioxide (E171), macrogol, talc.
 
 ## What Piqray looks like and contents of the pack
 
-Piqray 50 mg filmcoated tablets are light pink, round tablets, imprinted with 'L7' on one side and 'NVR' on the other side. Approximate diameter: 7.2 mm.
+Piqray 50 mg film-coated tablets are light pink, round tablets, imprinted with 'L7' on one side and 'NVR' on the other side. Approximate diameter: 7.2 mm.
 
-Piqray 150 mg filmcoated tablets are pale red, ovaloid tablets, imprinted with 'UL7' on one side and 'NVR' on the other side. Approximate size: 14.2 mm (length); 5.7 mm (width).
+Piqray 150 mg film-coated tablets are pale red, ovaloid tablets, imprinted with 'UL7' on one side and 'NVR' on the other side. Approximate size: 14.2 mm (length); 5.7 mm (width).
 
 Piqray 200 mg film-coated tablets are light red, ovaloid tablets, imprinted with 'YL7' on one side and 'NVR' on the other side. Approximate size: 16.2 mm (length); 6.5 mm (width).
 
 Piqray is supplied as film-coated tablets in blisters. Piqray is available in the following pack sizes:
 
-- -Packs containing 50 mg and 200 mg film-coated tablets (for patients on 250 mg daily dose):
-- -Packs containing 14-day supply: 28 film-coated tablets (14 of 50 mg and 14 of 200 mg).
-- -Packs containing 28-day supply: 56 film-coated tablets (28 of 50 mg and 28 of 200 mg).
-- -Multipacks containing 168 film-coated tablets (3x 56, each comprising 28 tablets of 50 mg and 28 tablets of 200 mg).
-- -Packs containing 150 mg film-coated tablets (for patients on 300 mg daily dose):
-- -Packs containing 14-day supply: 28 film-coated tablets.
-- -Packs containing 28-day supply: 56 film-coated tablets.
-- -Multipacks containing 168 (3x 56) film-coated tablets.
-- -Packs containing 200 mg film-coated tablets (for patients on 200 mg daily dose):
-- -Packs containing 14-day supply: 14 film-coated tablets.
-- -Packs containing 28-day supply: 28 film-coated tablets.
-- -Multipacks containing 84 (3x 28) film-coated tablets.
+- Packs containing 50 mg and 200 mg film-coated tablets (for patients on 250 mg daily dose):
+- Packs containing 14-day supply: 28 film-coated tablets (14 of 50 mg and 14 of 200 mg).
+- Packs containing 28-day supply: 56 film-coated tablets (28 of 50 mg and 28 of 200 mg).
+- Multipacks containing 168 film-coated tablets (3x 56, each comprising 28 tablets of 50 mg and 28 tablets of 200 mg).
+- Packs containing 150 mg film-coated tablets (for patients on 300 mg daily dose):
+- Packs containing 14-day supply: 28 film-coated tablets.
+- Packs containing 28-day supply: 56 film-coated tablets.
+- Multipacks containing 168 (3x 56) film-coated tablets.
+- Packs containing 200 mg film-coated tablets (for patients on 200 mg daily dose):
+- Packs containing 14-day supply: 14 film-coated tablets.
+- Packs containing 28-day supply: 28 film-coated tablets.
+- Multipacks containing 84 (3x 28) film-coated tablets.
 
 Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -2093,19 +2187,21 @@ Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 Lek Pharmaceuticals d.d. Verovskova ulica 57 1526 Ljubljana Slovenia
 
-Novartis Pharmaceutical Manufacturing LLC Verovskova ulica 57 1000 Ljubljana Slovenia
+Novartis Pharmaceutical Manufacturing LLC Verovskova ulica 57 1000 Ljubljana Slovenia For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## България
 
-Novartis Bulgaria EOOD Тел : +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел: +359 2 489 98 28
 
 ## Česká republika
 
@@ -2117,7 +2213,9 @@ Novartis Healthcare A/S Tlf.: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
 
 ## Eesti
 
@@ -2145,15 +2243,11 @@ Novartis Ireland Limited Tel: +353 1 260 12 55
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 ## Italia
 
-Novartis Farma S.p.A.
-
-Tel: +39 02 96 54 1
+Novartis Farma S.p.A. Tel: +39 02 96 54 1
 
 ## Lietuva
 
@@ -2165,7 +2259,9 @@ Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Magyarország
 
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Malta
 
@@ -2177,7 +2273,9 @@ Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Norge
 
-Novartis Norge AS Tlf: +47 23 05 20 00
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
 
 ## Österreich
 
@@ -2211,13 +2309,13 @@ Novartis Finland Oy
 
 Puh/Tel: +358 (0)10 6133 200
 
+<div style=\"page-break-after: always\"></div>
+
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
-
-<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -2229,7 +2327,7 @@ Tel: +371 67 887 070
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Sverige
 

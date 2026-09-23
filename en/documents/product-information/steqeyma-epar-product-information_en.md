@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-16 19:26:53
-document_pages: 184
+document_datetime: 2026-09-18 14:49:49
+document_pages: 199
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/steqeyma-epar-product-information_en.pdf
 document_name: steqeyma-epar-product-information_en.pdf
 version: success
-processing_time: 46.0733848
-conversion_datetime: 2026-04-17 15:32:33.616243
+processing_time: 260.5641789
+conversion_datetime: 2026-09-23 07:18:24.571839
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.0
-  docling: 2.89.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,7 +34,7 @@ Steqeyma 130 mg concentrate for solution for infusion
 
 Each vial contains 130 mg ustekinumab in 26 mL (5 mg/mL).
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody to interleukin (IL) -12/23 produced in a Chinese Hamster Ovary (CHO) cell line using recombinant DNA technology.
+Ustekinumab is a fully human IgG1κ monoclonal antibody to interleukin (IL)-12/23 produced in a Chinese Hamster Ovary (CHO) cell line using recombinant DNA technology.
 
 ## Excipients with known effect
 
@@ -46,7 +46,7 @@ For the full list of excipients, see section 6.1.
 
 Concentrate for solution for infusion.
 
-The solution is clear to slightly opalescent, colourless to pale yellow.
+The solution is clear to slightly opalescent, colourless to pale yellow and formulated at pH 5.7 ± 0.2. The osmolality of the solution is 230 - 270 mmol/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -54,21 +54,27 @@ The solution is clear to slightly opalescent, colourless to pale yellow.
 
 ## Adult Crohn's Disease
 
-Steqeyma is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist .
+Steqeyma is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
 ## Paediatric Crohn's Disease
 
 Steqeyma is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
-## 4.2 Posology and method of administration
+## Ulcerative colitis
 
-Steqeyma concentrate for solution for infusion is intended for use under the guidance and supervision of physicians experienced in the diagnosis and treatment of Crohn's disease. Steqeyma concentrate for solution for infusion should only be used for the intravenous induction dose.
+Steqeyma is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
 
 <div style=\"page-break-after: always\"></div>
 
+## 4.2 Posology and method of administration
+
+Steqeyma concentrate for solution for infusion is intended for use under the guidance and supervision of physicians experienced in the diagnosis and treatment of Crohn's disease or ulcerative colitis. Steqeyma concentrate for solution for infusion should only be used for the intravenous induction dose.
+
 ## Posology
 
-## Adults Crohn's Disease
+## Adults
+
+## Crohn's Disease and Ulcerative Colitis
 
 Steqeyma treatment is to be initiated with a single intravenous dose based on body weight. The infusion solution is to be composed of the number of vials of Steqeyma 130 mg as specified in Table 1 (see section 6.6 for preparation).
 
@@ -80,11 +86,9 @@ Table 1 Initial intravenous dosing of Steqeyma
 | > 55 kg to ≤ 85 kg                             | 390 mg               |                                 3 |
 | > 85 kg                                        | 520 mg               |                                 4 |
 
-a Approximately 6 mg/kg
-
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Steqeyma solution for injection (vial) and solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC.
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -106,17 +110,15 @@ Table 2 Initial intravenous dosing of Steqeyma
 | > 55 kg to ≤ 85 kg                             | 390 mg               |                                 3 |
 | > 85 kg                                        | 520 mg               |                                 4 |
 
-a Approximately 6 mg/kg
-
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Steqeyma solution for injection (vial) and solution for injection in prefilled syringe SmPC.
 
-The safety and efficacy of ustekinumab for the treatment of Crohn's disease in paediatric patients weighing less than 40 kg have not yet been established. No data are available.
+The safety and efficacy of ustekinumab for the treatment of Crohn's disease in paediatric patients weighing less than 40 kg or ulcerative colitis in children less than 18 years have not yet been established. No data are available.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Method of administration
 
 Steqeyma 130 mg is for intravenous use only. It should be administered over at least one hour. For instructions on dilution of the medicinal product before administration, see section 6.6.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
@@ -146,11 +148,11 @@ Patients should be instructed to seek medical advice if signs or symptoms sugges
 
 Immunosuppressants like ustekinumab have the potential to increase the risk of malignancy. Some patients who received ustekinumab in clinical studies and in a post-marketing observational study in patients with psoriasis developed cutaneous and non-cutaneous malignancies (see section 4.8). The risk of malignancy may be higher in psoriasis patients who have been treated with other biologics during the course of their disease.
 
+<div style=\"page-break-after: always\"></div>
+
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving ustekinumab. Thus, caution should be exercised when considering the use of Steqeyma in these patients.
 
 All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Systemic and respiratory hypersensitivity reactions
 
@@ -180,13 +182,11 @@ Patients receiving Steqeyma may receive concurrent inactivated or non-live vacci
 
 Long term treatment with ustekinumab does not suppress the humoral immune response to pneumococcal polysaccharide or tetanus vaccines (see section 5.1).
 
-## Concomitant immunosuppressive therapy
-
-In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did
-
 <div style=\"page-break-after: always\"></div>
 
-not appear to influence the safety or efficacy of ustekinumab. Caution should be exercised when considering concomitant use of other immunosuppressants and Steqeyma or when transitioning from other immunosuppressive biologics (see section 4.5).
+## Concomitant immunosuppressive therapy
+
+In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab. Caution should be exercised when considering concomitant use of other immunosuppressants and Steqeyma or when transitioning from other immunosuppressive biologics (see section 4.5).
 
 ## Immunotherapy
 
@@ -202,7 +202,7 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -218,11 +218,11 @@ Steqeyma contains 10.37 mg of polysorbate 80 (E433) in each dosage unit which is
 
 Live vaccines should not be given concurrently with Steqeyma.
 
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
-
 <div style=\"page-break-after: always\"></div>
 
-In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. antiTNFα agents and/or vedolizumab) in patients with ulcerative colitis.
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+
+In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
 The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
@@ -244,13 +244,11 @@ However, the available clinical experience is limited. As a precautionary measur
 
 Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
-## Breast-feeding
-
-Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue
-
 <div style=\"page-break-after: always\"></div>
 
-therapy with Steqeyma must be made taking into account the benefit of breast-feeding to the child and the benefit of Steqeyma therapy to the woman.
+## Breast-feeding
+
+Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue therapy with Steqeyma must be made taking into account the benefit of breast-feeding to the child and the benefit of Steqeyma therapy to the woman.
 
 ## Fertility
 
@@ -270,20 +268,20 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6 710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients) or at least 1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
-Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common ( ≥ 1/10), Common ( ≥ 1/100 to &lt; 1/10), Uncommon ( ≥ 1/1 000 to &lt; 1/100), Rare ( ≥ 1/10 000 to &lt; 1/1 000), Very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1 000 to &lt; 1/100), Rare (≥ 1/10 000 to &lt; 1/1 000), Very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 3 List of adverse reactions
 
 | System Organ Class          | Frequency: Adverse reaction                                                                                                                                                                                                              |
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Infections and infestations | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
-| Immune system disorders     | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                            |
-| Psychiatric disorders       | Uncommon: Depression                                                                                                                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                   | Frequency: Adverse reaction                                                                                                                                                                  |
 |------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                              | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                |
+| Psychiatric disorders                                | Uncommon: Depression                                                                                                                                                                         |
 | Nervous system disorders                             | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                           |
 | Respiratory, thoracic and mediastinal disorders      | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia *                                                    |
 | Gastrointestinal disorders                           | Common: Diarrhoea, nausea, vomiting                                                                                                                                                          |
@@ -291,9 +289,7 @@ Table 3 List of adverse reactions
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                        |
 | General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia             |
 
-*
-
-See section 4.4, Systemic and respiratory hypersensitivity reactions.
+* See section 4.4, Systemic and respiratory hypersensitivity reactions.
 
 ## Description of selected adverse reactions
 
@@ -305,11 +301,11 @@ In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, 
 
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Malignancies
 
 In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of follow-up). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
-
-<div style=\"page-break-after: always\"></div>
 
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than nonmelanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of nonmelanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15 165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
@@ -331,11 +327,11 @@ The safety of ustekinumab has been studied in one phase 1 and one phase 3 study 
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.9 Overdose
 
-Single doses up to 6 mg/kg have been administered intravenously in clinical studies without doselimiting toxicity. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately .
-
-<div style=\"page-break-after: always\"></div>
+Single doses up to 6 mg/kg have been administered intravenously in clinical studies without doselimiting toxicity. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -347,15 +343,19 @@ Steqeyma is a biosimilar medicinal product. Detailed information is available on
 
 ## Mechanism of action
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL-12 and IL-23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis and Crohn's disease.
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL-12 and IL-23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
-By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis and Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
+By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
 In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
+
+In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and fecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
 
 ## Immunisation
 
 During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients treated with ustekinumab for at least 3.5 years mounted similar antibody responses to both pneumococcal polysaccharide and tetanus vaccines as a non-systemically treated psoriasis control group. Similar proportions of adult patients developed protective levels of anti-pneumococcal and anti-tetanus antibodies and antibody titres were similar among ustekinumab-treated and control patients.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy
 
@@ -363,46 +363,39 @@ During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
-The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one
+The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-<div style=\"page-break-after: always\"></div>
+Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
 
-of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
-
-Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior antiTNFα therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
-
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4%).
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 4). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
 Table 4 Induction of Clinical Response and Remission in UNITI-1 and UNITI-2
 
-|                                       | UNITI-1*        | UNITI-1*                                | UNITI-2**       | UNITI-2**                               |
-|---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
-|                                       | Placebo N = 247 | Recommended dose of ustekinumab N = 249 | Placebo N = 209 | Recommended dose of ustekinumab N = 209 |
-| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                            | 41 (19.6%)      | 84 (40.2%) a                            |
-| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                            | 60 (28.7%)      | 116 (55.5%) a                           |
-| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                            | 67 (32.1%)      | 121 (57.9%) a                           |
-| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
-| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
+|                                       | UNITI-1* - Placebo N = 247   | UNITI-1* - Recommended dose of ustekinumab N = 249   | UNITI-2** - Placebo N = 209   | UNITI-2** - Recommended dose of ustekinumab N = 209   |
+|---------------------------------------|------------------------------|------------------------------------------------------|-------------------------------|-------------------------------------------------------|
+| Clinical Remission, week 8            | 18 (7.3%)                    | 52 (20.9%) a                                         | 41 (19.6%)                    | 84 (40.2%) a                                          |
+| Clinical Response (100 point), week 6 | 53 (21.5%)                   | 84 (33.7%) b                                         | 60 (28.7%)                    | 116 (55.5%) a                                         |
+| Clinical Response (100 point), week 8 | 50 (20.2%)                   | 94 (37.8%) a                                         | 67 (32.1%)                    | 121 (57.9%) a                                         |
+| 70 Point Response, week 3             | 67 (27.1%)                   | 101 (40.6%) b                                        | 66 (31.6%)                    | 106 (50.7%) a                                         |
+| 70 Point Response, week 6             | 75 (30.4%)                   | 109 (43.8%) b                                        | 81 (38.8%)                    | 135 (64.6%) a                                         |
 
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the Steqeyma Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
 
 70 point response is defined as reduction in CDAI score by at least 70 points
 
-* AntiTNFα failures
+* Anti-TNFα failures
 
-**  Conventional therapy failures
+** Conventional therapy failures
 
 a p &lt; 0.001
 
 b p &lt; 0.01
 
-The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the Steqeyma Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
+<div style=\"page-break-after: always\"></div>
 
 Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 5).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 5 Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
 
@@ -414,15 +407,17 @@ Table 5 Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 
 | Clinical Remission in patients:                  |                      |                                             |                                              |
 | in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
 | who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
-| who are Anti- TNFα naïve                         | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
+| who are Anti-TNFα naïve                          | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
 | who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
 * The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
-- † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
-- ‡ Patients who failed conventional therapy but not antiTNFα therapy
-- § Patients who are antiTNFα refractory/intolerant
+
+† Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
+
+- ‡ Patients who failed conventional therapy but not anti-TNFα therapy
+- § Patients who are anti-TNFα refractory/intolerant
 - a p &lt; 0.01
 - b p &lt; 0.05
 - c nominally significant (p &lt; 0.05)
@@ -435,15 +430,13 @@ Of 131 patients who responded to ustekinumab induction, and were randomised to t
 
 In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
 
+<div style=\"page-break-after: always\"></div>
+
 No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's Disease.
 
 ## Endoscopy
 
-Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers,
-
-<div style=\"page-break-after: always\"></div>
-
-proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
+Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
 
 ## Fistula Response
 
@@ -453,13 +446,153 @@ In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/
 
 Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
 
+## Ulcerative colitis
+
+The safety and efficacy of ustekinumab was assessed in two randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2). The clinical development program consisted of one intravenous induction study (referred to as UNIFI-I) with treatment of up to 16 weeks followed by a 44 week subcutaneous randomised withdrawal maintenance study (referred to as UNIFI-M) representing at least 52 weeks of therapy.
+
+Efficacy results presented for UNIFI-I and UNIFI-M were based on central review of endoscopies.
+
+UNIFI-I included 961 patients. The primary endpoint for the induction study was the proportion of subjects in clinical remission at week 8. Patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+
+Concomitant doses of oral corticosteroids, immunomodulators, and aminosalicylates were permitted and 90% of patients continued to receive at least one of these medications. Enrolled patients had to have failed conventional therapy (corticosteroids or immunomodulators) or at least one biologic (a TNFα antagonist and/or vedolizumab). 49% of patients had failed conventional therapy, but not a biologic (of which 94% where biological-naïve). 51% of patients had failed or were intolerant to a biologic. Approximately 50% of the patients had failed at least 1 prior anti-TNFα therapy (of which 48% were primary non-responders) and 17% had failed at least 1 anti-TNFα therapy and vedolizumab.
+
+<div style=\"page-break-after: always\"></div>
+
+In UNIFI-I a significantly greater proportion of patients were in clinical remission in the ustekinumab treated group compared to placebo at week 8 (Table 6). As early as Week 2, the earliest scheduled study visit, and at each visit thereafter, a higher proportion of ustekinumab patients had no rectal bleeding or achieved normal stool frequency as compared with placebo patients. Significant differences in partial Mayo score and symptomatic remission were observed between ustekinumab and placebo as early as Week 2.
+
+Efficacy was higher in the tiered dose group (6 mg/kg) compared to the 130 mg dose group in select endpoints, and tiered dosing is therefore the recommended intravenous induction dose.
+
+Table 6 Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
+
+|                                                                 | Placebo N = 319   | Recommended dose of ustekinumab £ N = 322   |
+|-----------------------------------------------------------------|-------------------|---------------------------------------------|
+| Clinical Remission*                                             | 5%                | 16% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 9% (15/158)       | 19% (29/156) c                              |
+| In patients who failed biological therapy ¥                     | 1% (2/161)        | 13% (21/166) b                              |
+| In patients who failed both a TNF and vedolizumab               | 0% (0/47)         | 10% (6/58) c                                |
+| Clinical Response §                                             | 31%               | 62% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 35% (56/158)      | 67% (104/156) b                             |
+| In patients who failed biological therapy ¥                     | 27% (44/161)      | 57% (95/166) b                              |
+| In patients who failed both a TNF and vedolizumab               | 28% (13/47)       | 52% (30/58) c                               |
+| Mucosal Healing †                                               | 14%               | 27% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 21% (33/158)      | 33% (52/156) c                              |
+| In patients who failed biological therapy                       | 7% (11/161)       | 21% (35/166) b                              |
+| Symptomatic Remission ‡                                         | 23%               | 45% b                                       |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 8%                | 21% b                                       |
+
+£ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1.
+
+* Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+
+§ Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
+
+¥ A TNFα antagonist and/or vedolizumab.
+
+† Mucosal healing is defined as a Mayo endoscopic subscore of 0 or 1.
+
+‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
+
+⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+
+a p &lt; 0.001
+
+- b Nominally significant (p &lt; 0.001)
+- c Nominally significant (p &lt; 0.05)
+
+UNIFI-M, evaluated 523 patients who achieved clinical response with single IV administration of ustekinumab in UNIFI-I. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the Steqeyma Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
+
+Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 7).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 7 Summary of Key Efficacy Measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
+
+|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8 Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
+|-----------------------------------------------------------------|--------------------|-------------------------------------------|--------------------------------------------|
+| Clinical Remission**                                            | 24%                | 44% a                                     | 38% b                                      |
+| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                             | 49% (50/102) d                             |
+| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                             | 23% (16/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 15% (4/27)         | 33% (7/21) e                              | 23% (5/22) e                               |
+| Maintenance of Clinical Response through week 44 §              | 45%                | 71% a                                     | 68% a                                      |
+| In patients who failed conventional therapy, but not a biologic | 51% (44/87)        | 78% (66/85) c                             | 77% (78/102) c                             |
+| In patients who failed biological therapy ¥                     | 39% (34/88)        | 65% (59/91) c                             | 56% (39/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 41% (11/27)        | 67% (14/21) e                             | 50% (11/22) e                              |
+| Mucosal Healing †                                               | 29%                | 51% a                                     | 44% b                                      |
+| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)        | 58% (22/38)                               | 65% (26/40) c                              |
+| Corticosteroid Free Clinical Remission €                        | 23%                | 42% a                                     | 38% b                                      |
+| Durable Remission ‖                                             | 35%                | 57% c                                     | 48% d                                      |
+| Symptomatic Remission ‡                                         | 45%                | 68% c                                     | 62% d                                      |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%                | 48% c                                     | 41% d                                      |
+
+* Following response to IV ustekinumab.
+- ** Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+
+§ Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
+
+- ¥ A TNFα antagonist and/or vedolizumab.
+- † Mucosal healing is defined as a Mayo endoscopic sub-score of 0 or 1.
+- £ Maintenance of clinical remission through Week 44 is defined as patients in clinical remission through Week 44 among patients in clinical remission at maintenance baseline.
+- € Corticosteroid-free clinical remission is defined as patients in clinical remission and not receiving corticosteroids at Week 44.
+- ‖ Durable Remission is defined as partial Mayo remission at ≥80% of all visits prior to Week 44 and in partial Mayo remission at last visit (Week 44).
+- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
+- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+- a p &lt; 0.001
+- b p &lt; 0.05
+- c Nominally significant (p &lt; 0.001)
+- d Nominally significant (p &lt; 0.05)
+- e Not statistically significant
+
+The beneficial effect of ustekinumab on clinical response, mucosal healing and clinical remission was observed in induction and in maintenance both in patients who failed conventional therapy but not a biologic therapy, as well as in those who had failed at least one prior TNFα antagonist therapy including in patients with a primary non-response to TNFα antagonist therapy. A beneficial effect was also observed in induction in patients who failed at least one prior TNFα antagonist therapy and vedolizumab, however the number of patients in this subgroup was too small to draw definitive conclusions about the beneficial effect in this group during maintenance.
+
+<div style=\"page-break-after: always\"></div>
+
+## Week 16 Responders to Ustekinumab Induction
+
+Ustekinumab treated patients who were not in response at week 8 of UNIFI-I received an administration of 90 mg SC ustekinumab at week 8 (36% of patients). Of those patients, 9% of patients who were initially randomised to the recommended induction dose achieved clinical remission and 58% achieved clinical response at Week 16.
+
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNFI-I study but were in response at week 16 (157 patients) entered into the non-randomised portion of UNIFI-M and continued to receive maintenance dosing every 8 weeks; among these patients, a majority (62%) maintained response and 30% achieved remission at week 44.
+
+## Study Extension
+
+In UNIFI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 400 patients who entered on and were treated with ustekinumab every 12 or 8 weeks in the study extension, symptomatic remission was generally maintained through week 200 for patients who failed conventional therapy (but not a biologic therapy) and those who failed biologic therapy, including those who failed both anti-TNF and vedolizumab. Among patients who received 4 years of ustekinumab treatment and were assessed using the full Mayo score at maintenance week 200, 74.2% (69/93) and 68.3% (41/60) maintained mucosal healing and clinical remission, respectively.
+
+The safety analysis including 457 patients (1289.9 person-years) followed up to 220 weeks showed a safety profile between week 44 and 220 that was comparable with that observed up to week 44.
+
+No new safety concerns were identified in this study extension with up to 4 years of treatment in patients with ulcerative colitis.
+
+## Endoscopic Normalisation
+
+Endoscopic normalisation was defined as a Mayo endoscopic subscore of 0 and was observed as early as week 8 of UNIFI-I. At week 44 of UNIFI-M, it was achieved in 24% and 29% of patients treated with ustekinumab every 12 or 8 weeks, respectively, as compared to 18% of patients in the placebo group.
+
+## Histologic &amp; Histo-Endoscopic Mucosal Healing
+
+Histologic healing (defined as neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue) was assessed at week 8 of UNIFI-I and Week 44 of UNIFI-M. At week 8, after a single intravenous induction dose, significantly greater proportions of patients in the recommended dose group achieved histologic healing (36%) compared with patients in the placebo group (22%). At Week 44 maintenance of this effect was observed with significantly more patients in histologic healing in the every 12 week (54%) and every 8 week (59%) ustekinumab groups as compared to placebo (33%).
+
+A combined endpoint of histo-endoscopic mucosal healing defined as subjects having both mucosal healing and histologic healing was evaluated at week 8 of UNIFI-I and week 44 of UNIFI-M. Patients receiving ustekinumab at the recommended dose showed significant improvements on the histoendoscopic mucosal healing endpoint at week 8 in the ustekinumab group (18%) as compared to the placebo group (9%). At week 44, maintenance of this effect was observed with significantly more patients in histo-endoscopic mucosal healing in the every 12 week (39%) and every 8 week (46%) ustekinumab groups compared to placebo (24%).
+
+## Health-related quality of life
+
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), SF-36 and EuroQoL-5D (EQ-5D) questionnaires.
+
+At week 8 of UNIFI-I, patients receiving ustekinumab showed significantly greater and clinically meaningful improvements on IBDQ total score, EQ-5D and EQ-5D VAS, and SF-36 Mental Component Summary Score and SF-36 Physical Component Summary Score when compared to placebo. These improvements were maintained in ustekinumab-treated patients in UNIFI-M through week 44. Improvement in health-related quality of life as measured by IBDQ and SF-36 was generally maintained during the extension through week 200.
+
+<div style=\"page-break-after: always\"></div>
+
+Patients receiving ustekinumab experienced significantly more improvements in work productivity as assessed by greater reductions in overall work impairment and in activity impairment as assessed by the WPAI-GH questionnaire than patients receiving placebo.
+
+## Hospitalisations and ulcerative colits (UC) related surgeries
+
+Through week 8 of UNIFI-I, the proportions of subjects with UC disease related hospitalisations were significantly lower for subjects in the ustekinumab recommended dose group (1.6%, 5/322) compared with subjects in the placebo group (4.4%, 14/319) and no subjects underwent UC disease related surgeries in subjects receiving ustekinumab at the recommended induction dose compared to 0.6% (2/319) subjects in the placebo group.
+
+Through week 44 of UNIFI-M, a significantly lower number of UC-related hospitalisations was observed in subjects in the combined ustekinumab group (2.0%, 7/348) as compared with subjects in the placebo group (5.7%, 10/175). A numerically lower number of subjects in the ustekinumab group (0.6%, 2/348) underwent UC disease related surgeries compared with subjects in the placebo group (1.7%, 3/175) through week 44.
+
 ## Immunogenicity
 
-Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising. The formation of anti-ustekinumab antibodies is associated with increased clearance of ustekinumab in patients with Crohn's disease. No reduced efficacy was observed. There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
+Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising. The formation of anti-ustekinumab antibodies is associated with increased clearance of ustekinumab in patients with Crohn's disease or ulcerative colitis. No reduced efficacy was observed. There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's Disease (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's Disease and ulcerative colitis (see section 4.2 for information on paediatric use).
 
 ## Paediatric Crohn's disease
 
@@ -471,11 +604,11 @@ The primary endpoint of the study was clinical remission at induction week 8 (de
 
 Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
 
-Table 6 presents the analyses for the secondary endpoints through maintenance week 44.
+Table 8 presents the analyses for the secondary endpoints through maintenance week 44.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 6: Summary of Secondary endpoints through Maintenance week 44
+Table 8 Summary of Secondary endpoints through Maintenance week 44
 
 |                                                                                      | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
 |--------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
@@ -487,11 +620,11 @@ Table 6: Summary of Secondary endpoints through Maintenance week 44
 
 * Clinical remission is defined as PCDAI score ≤10 points.
 
-§ Corticosteroidfree remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
+§ Corticosteroid-free remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
 
 † Clinical response is defined as a reduction from baseline in the PCDAI score of ≥12.5 points with a total PCDAI score not more than 30.
 
-£ Endoscopic response is defined as a reduction in the SESCD score of ≥50% or SES -CD score ≤2, in patients with a baseline SESCD score of ≥3.
+- £ Endoscopic response is defined as a reduction in the SES-CD score of ≥50% or SES-CD score ≤2, in patients with a baseline SES-CD score of ≥3.
 
 ## Dosing frequency adjustment
 
@@ -509,7 +642,7 @@ The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related 
 
 ## 5.2 Pharmacokinetic properties
 
-Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 μg/mL in patients with Crohn's disease.
+Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 μg/mL in patients with Crohn's disease and 127.0 µg/mL in patients with ulcerative colitis.
 
 ## Distribution
 
@@ -523,7 +656,7 @@ The exact metabolic pathway for ustekinumab is unknown.
 
 ## Elimination
 
-Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with Crohn's disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with ulcerative colitis, Crohn's disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
 
 ## Dose linearity
 
@@ -533,7 +666,7 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 
 No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted with intravenous ustekinumab in elderly or paediatric patients weighing less than 40 kg.
 
-In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
+In patients with Crohn's disease and ulcerative colitis, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
 ## Regulation of CYP450 enzymes
 
@@ -567,15 +700,15 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-3 years Do not freeze.
+4 years Do not freeze.
 
-Individual vials may be stored at room temperature up to 30 °C for a maximum single period of up to 31 days in the original carton in order to protect from light. Record the date when the vial is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a vial has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the vial if not used within 31 days at room temperature storage or by the original expiry date, whichever is earlier.
+Individual vials may be stored at room temperature up to 25 °C for a maximum single period of up to 31 days in the original carton in order to protect from light. Record the date when the vial is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this 31-day period at room temperature, the product can be returned to the refrigerator once, and stored there until the original expiry date. Discard the vial if not used within 31 days at room temperature storage or by the original expiry date, whichever is earlier.
 
-Chemical and physical in-use stability has been demonstrated for 48 hours at refrigerated condition or room temperature up to 30 °C. From a microbiological point of view, unless the method of dilution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user.
+Chemical and physical in-use stability has been demonstrated for 48 hours at refrigerated condition or room temperature up to 25 °C. From a microbiological point of view, unless the method of dilution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light. If needed, individual vials may be stored at room temperature up to 30 °C (see section 6.3).
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light. If needed, individual vials may be stored at room temperature up to 25 °C (see section 6.3).
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
 
@@ -625,7 +758,11 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Steqeyma 45 mg solution for injection Steqeyma 45 mg solution for injection in pre-filled syringe Steqeyma 90 mg solution for injection in pre-filled syringe
+Steqeyma 45 mg solution for injection
+
+Steqeyma 45 mg solution for injection in pre-filled syringe
+
+Steqeyma 90 mg solution for injection in pre-filled syringe
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -641,7 +778,7 @@ Steqeyma 90 mg solution for injection in pre-filled syringe
 
 Each pre-filled syringe contains 90 mg ustekinumab in 1 mL.
 
-Ustekinumab is a fully human IgGlκ monoclonal antibody to interleukin (IL) -12/23 produced in a Chinese Hamster Ovary (CHO) cell line using recombinant DNA technology.
+Ustekinumab is a fully human IgG1κ monoclonal antibody to interleukin (IL)-12/23 produced in a Chinese Hamster Ovary (CHO) cell line using recombinant DNA technology.
 
 ## Excipients with known effect
 
@@ -663,7 +800,7 @@ Steqeyma 90 mg solution for injection in pre-filled syringe
 
 Solution for injection.
 
-The solution is clear to slightly opalescent, colourless to pale yellow.
+The solution is clear to slightly opalescent, colourless to pale yellow and formulated at pH 5.7 ± 0.2. The osmolality of the solution is 275 - 355 mmol/kg.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -685,11 +822,15 @@ Steqeyma, alone or in combination with MTX, is indicated for the treatment of ac
 
 ## Adult Crohn's Disease
 
-Steqeyma is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNF α antagonist.
+Steqeyma is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
 ## Paediatric Crohn's Disease
 
 Steqeyma is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
+
+## Ulcerative colitis
+
+Steqeyma is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
 
 ## 4.2 Posology and method of administration
 
@@ -703,11 +844,11 @@ The recommended posology of Steqeyma is an initial dose of 45 mg administered su
 
 Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Patients with body weight &gt; 100 kg
 
 For patients with a body weight &gt; 100 kg the initial dose is 90 mg administered subcutaneously, followed by a 90 mg dose 4 weeks later, and then every 12 weeks thereafter. In these patients, 45 mg was also shown to be efficacious. However, 90 mg resulted in greater efficacy (see section 5.1, Table 4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Psoriatic arthritis (PsA)
 
@@ -715,7 +856,7 @@ The recommended posology of Steqeyma is an initial dose of 45 mg administered su
 
 Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -746,51 +887,51 @@ Table 2 Injection volumes of Steqeyma for paediatric psoriasis patients &lt; 60 
 |   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
 |--------------------------------------|-------------|----------------------------|
 |                                   15 |        11.3 |                       0.12 |
-|                                   16 |        12   |                       0.13 |
+|                                   16 |        12.0 |                       0.13 |
 |                                   17 |        12.8 |                       0.14 |
 |                                   18 |        13.5 |                       0.15 |
 |                                   19 |        14.3 |                       0.16 |
-|                                   20 |        15   |                       0.17 |
+|                                   20 |        15.0 |                       0.17 |
 |                                   21 |        15.8 |                       0.17 |
 |                                   22 |        16.5 |                       0.18 |
 |                                   23 |        17.3 |                       0.19 |
-|                                   24 |        18   |                       0.2  |
+|                                   24 |        18.0 |                       0.20 |
 |                                   25 |        18.8 |                       0.21 |
 |                                   26 |        19.5 |                       0.22 |
-|                                   27 |        20.3 |                       0.22 |
-|                                   28 |        21   |                       0.23 |
-|                                   29 |        21.8 |                       0.24 |
-|                                   30 |        22.5 |                       0.25 |
-|                                   31 |        23.3 |                       0.26 |
-|                                   32 |        24   |                       0.27 |
 
 <div style=\"page-break-after: always\"></div>
 
-|   33 |   24.8 |   0.27 |
+|   27 |   20.3 |   0.22 |
 |------|--------|--------|
+|   28 |   21.0 |   0.23 |
+|   29 |   21.8 |   0.24 |
+|   30 |   22.5 |   0.25 |
+|   31 |   23.3 |   0.26 |
+|   32 |   24.0 |   0.27 |
+|   33 |   24.8 |   0.27 |
 |   34 |   25.5 |   0.28 |
 |   35 |   26.3 |   0.29 |
-|   36 |   27   |   0.3  |
+|   36 |   27.0 |   0.30 |
 |   37 |   27.8 |   0.31 |
 |   38 |   28.5 |   0.32 |
 |   39 |   29.3 |   0.32 |
-|   40 |   30   |   0.33 |
+|   40 |   30.0 |   0.33 |
 |   41 |   30.8 |   0.34 |
 |   42 |   31.5 |   0.35 |
 |   43 |   32.3 |   0.36 |
-|   44 |   33   |   0.37 |
+|   44 |   33.0 |   0.37 |
 |   45 |   33.8 |   0.37 |
 |   46 |   34.5 |   0.38 |
 |   47 |   35.3 |   0.39 |
-|   48 |   36   |   0.4  |
+|   48 |   36.0 |   0.40 |
 |   49 |   36.8 |   0.41 |
 |   50 |   37.5 |   0.42 |
 |   51 |   38.3 |   0.42 |
-|   52 |   39   |   0.43 |
+|   52 |   39.0 |   0.43 |
 |   53 |   39.8 |   0.44 |
 |   54 |   40.5 |   0.45 |
 |   55 |   41.3 |   0.46 |
-|   56 |   42   |   0.46 |
+|   56 |   42.0 |   0.46 |
 |   57 |   42.8 |   0.47 |
 |   58 |   43.5 |   0.48 |
 |   59 |   44.3 |   0.49 |
@@ -799,7 +940,7 @@ Consideration should be given to discontinuing treatment in patients who have sh
 
 ## Adults
 
-## Crohn's Disease
+## Crohn's Disease and Ulcerative Colitis
 
 In the treatment regimen, the first dose of Steqeyma is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the Steqeyma 130 mg Concentrate for solution for infusion SmPC.
 
@@ -811,15 +952,15 @@ Patients who lose response on dosing every 12 weeks may benefit from an increase
 
 Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
 
-Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to the 8-weekly maintenance dose.
-
 <div style=\"page-break-after: always\"></div>
+
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to the 8-weekly maintenance dose.
 
 Immunomodulators and/or corticosteroids may be continued during treatment with Steqeyma. In patients who have responded to treatment with Steqeyma, corticosteroids may be reduced or discontinued in accordance with standard of care.
 
-In Crohn's disease, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
+In Crohn's disease or Ulcerative Colitis, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -829,11 +970,11 @@ Ustekinumab has not been studied in these patient populations. No dose recommend
 
 ## Paediatric population
 
-## Paediatric Crohn's disease (patients weighing at least 40 kg)
+Paediatric Crohn's disease (patients weighing at least 40 kg)
 
 In the treatment regimen, the first dose of Steqeyma is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the Steqeyma 130 mg Concentrate for solution for infusion SmPC.
 
-The first subcutaneous administration of 90 mg Steqeyma should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
+The first subcutaneous administration of 90 mg Steqeyma should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
 
 Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
 
@@ -843,7 +984,7 @@ Consideration should be given to discontinuing treatment in patients who show no
 
 Immunomodulators, 5-aminosalicylate (5-ASA) compounds, antibiotics, and/or corticosteroids may be continued during treatment with Steqeyma. In patients who have responded to treatment with Steqeyma, these medications maybe reduced or discontinued in accordance with standard of care.
 
-The safety and efficacy of ustekinumab in treatment of Crohn's disease for paediatric patients weighing less than 40 kg have not yet been established. No data are available.
+The safety and efficacy of ustekinumab in treatment of Crohn's disease for paediatric patients weighing less than 40 kg or ulcerative colitis in children less than 18 years have not yet been established. No data are available.
 
 ## Method of administration
 
@@ -851,15 +992,13 @@ Steqeyma 45 mg vials or 45 mg and 90 mg pre-filled syringes are for subcutaneous
 
 After proper training in subcutaneous injection technique, patients or their caregivers may inject Steqeyma if a physician determines that it is appropriate. However, the physician should ensure appropriate follow-up of patients. Patients or their caregivers should be instructed to inject the prescribed amount of Steqeyma according to the directions provided in the package leaflet. Comprehensive instructions for administration are given in the package leaflet.
 
+<div style=\"page-break-after: always\"></div>
+
 For further instructions on preparation and special precautions for handling, see section 6.6.
 
 ## 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-<div style=\"page-break-after: always\"></div>
-
-Clinically important, active infection (e.g. active tuberculosis; see section 4.4).
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Clinically important, active infection (e.g. active tuberculosis; see section 4.4).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -885,9 +1024,9 @@ Immunosuppressants like ustekinumab have the potential to increase the risk of m
 
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving ustekinumab. Thus, caution should be exercised when considering the use of Steqeyma in these patients.
 
-All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
-
 <div style=\"page-break-after: always\"></div>
+
+All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
 
 ## Systemic and respiratory hypersensitivity reactions
 
@@ -933,7 +1072,7 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -947,7 +1086,7 @@ Live vaccines should not be given concurrently with Steqeyma.
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
-In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNF α agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNF α agents and/or vedolizumab) in patients with ulcerative colitis.
+In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -979,11 +1118,11 @@ Limited data from published literature suggests that ustekinumab is excreted in 
 
 The effect of ustekinumab on human fertility has not been evaluated (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 Steqeyma has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -993,7 +1132,7 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 ## Tabulated list of adverse reactions
 
-The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6 710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients) or at least 1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4  years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6 710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients) or at least 1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
 Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1 000 to &lt; 1/100), Rare (≥ 1/10 000 to &lt; 1/1 000), Very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -1007,17 +1146,15 @@ Table 3 List of adverse reactions
 | Nervous system disorders                        | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                       |
 | Respiratory, thoracic and mediastinal disorders | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia *                                                                                                |
 | Gastrointestinal disorders                      | Common: Diarrhoea, nausea, vomiting                                                                                                                                                                                                      |
-| Skin and subcutaneous tissue disorders          | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                            |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia |
+* See section 4.4, Systemic and respiratory hypersensitivity reactions.
 
-*
-
-See section 4.4, Systemic and respiratory hypersensitivity reactions.
+| Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus   |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                          |
+| General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia               |
 
 ## Description of selected adverse reactions
 
@@ -1069,15 +1206,15 @@ Steqeyma is a biosimilar medicinal product. Detailed information is available on
 
 ## Mechanism of action
 
-Ustekinumab is a fully human IgGl κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12R β 1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12R β 1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL-12 and IL-23 has
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL-12 and IL-23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
 <div style=\"page-break-after: always\"></div>
 
-been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis and Crohn's disease.
-
-By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis and Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
+By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
 In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
+
+In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and fecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
 
 ## Immunisation
 
@@ -1093,9 +1230,9 @@ Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were
 
 Psoriasis Study 2 (PHOENIX 2) evaluated 1 230 patients. 61% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
 
-Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at Weeks 0 and 4, or ustekinumab 90 mg at Weeks 0 and 4.
-
 <div style=\"page-break-after: always\"></div>
+
+Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at Weeks 0 and 4, or ustekinumab 90 mg at Weeks 0 and 4.
 
 Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥ 20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12. Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA). Similar disease severity was also seen in Psoriasis Study 3.
 
@@ -1103,51 +1240,52 @@ The primary endpoint in these studies was the proportion of patients who achieve
 
 Table 4 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
 
-|                                   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4 and week 16)   | Week 28 3 doses (week 0, week 4 and week 16)   |
-|-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|
-|                                   | PBO                                   | 45 mg                                 | 90 mg                                 | 45 mg                                          | 90 mg                                          |
-| Psoriasis Study 1                 |                                       |                                       |                                       |                                                |                                                |
-| Number of patients randomised     | 255                                   | 255                                   | 256                                   | 250                                            | 243                                            |
-| PASI 50 response N (%)            | 26 (10%)                              | 213 (84%) a                           | 220 (86%) a                           | 228 (91%)                                      | 234 (96%)                                      |
-| PASI 75 response N (%)            | 8 (3%)                                | 171 (67%) a                           | 170 (66%) a                           | 178 (71%)                                      | 191 (79%)                                      |
-| PASI 90 response N (%)            | 5 (2%)                                | 106 (42%) a                           | 94 (37%) a                            | 123 (49%)                                      | 135 (56%)                                      |
-| PGA b of cleared or minimal N (%) | 10 (4%)                               | 151 (59%) a                           | 156 (61%) a                           | 146 (58%)                                      | 160 (66%)                                      |
-| Number of patients ≤ 100 kg       | 166                                   | 168                                   | 164                                   | 164                                            | 153                                            |
-| PASI 75 response N (%)            | 6 (4%)                                | 124 (74%)                             | 107 (65%)                             | 130 (79%)                                      | 124 (81%)                                      |
-| Number of patients > 100 kg       | 89                                    | 87                                    | 92                                    | 86                                             | 90                                             |
-| PASI 75 response N (%)            | 2 (2%)                                | 47 (54%)                              | 63 (68%)                              | 48 (56%)                                       | 67 (74%)                                       |
-| Psoriasis Study 2                 |                                       |                                       |                                       |                                                |                                                |
-| Number of patients randomised     | 410                                   | 409                                   | 411                                   | 397                                            | 400                                            |
-| PASI 50 response N (%)            | 41 (10%)                              | 342 (84%) a                           | 367 (89%) a                           | 369 (93%)                                      | 380 (95%)                                      |
-| PASI 75 response N (%)            | 15 (4%)                               | 273 (67%) a                           | 311 (76%) a                           | 276 (70%)                                      | 314 (79%)                                      |
-| PASI 90 response N (%)            | 3 (1%)                                | 173 (42%) a                           | 209 (51%) a                           | 178 (45%)                                      | 217 (54%)                                      |
-| PGA b of cleared or minimal N (%) | 18 (4%)                               | 277 (68%) a                           | 300 (73%) a                           | 241 (61%)                                      | 279 (70%)                                      |
-| Number of patients ≤ 100 kg       | 290                                   | 297                                   | 289                                   | 287                                            | 280                                            |
-| PASI 75 response N (%)            | 12 (4%)                               | 218 (73%)                             | 225 (78%)                             | 217 (76%)                                      | 226 (81%)                                      |
-| Number of patients > 100 kg       | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
-| PASI 75 response N (%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
+|                                   | Week 12 2 doses (week 0 and week 4) - PBO   | Week 12 2 doses (week 0 and week 4) - 45 mg   | Week 12 2 doses (week 0 and week 4) - 90 mg   | Week 28 3 doses (week 0, week 4 and week 16) - 45 mg   | Week 28 3 doses (week 0, week 4 and week 16) - 90 mg   |
+|-----------------------------------|---------------------------------------------|-----------------------------------------------|-----------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| Psoriasis Study 1                 |                                             |                                               |                                               |                                                        |                                                        |
+| Number of patients randomised     | 255                                         | 255                                           | 256                                           | 250                                                    | 243                                                    |
+| PASI 50 response N (%)            | 26 (10%)                                    | 213 (84%) a                                   | 220 (86%) a                                   | 228 (91%)                                              | 234 (96%)                                              |
+| PASI 75 response N (%)            | 8 (3%)                                      | 171 (67%) a                                   | 170 (66%) a                                   | 178 (71%)                                              | 191 (79%)                                              |
+| PASI 90 response N (%)            | 5 (2%)                                      | 106 (42%) a                                   | 94 (37%) a                                    | 123 (49%)                                              | 135 (56%)                                              |
+| PGA b of cleared or minimal N (%) | 10 (4%)                                     | 151 (59%) a                                   | 156 (61%) a                                   | 146 (58%)                                              | 160 (66%)                                              |
+| Number of patients ≤ 100 kg       | 166                                         | 168                                           | 164                                           | 164                                                    | 153                                                    |
+| PASI 75 response N (%)            | 6 (4%)                                      | 124 (74%)                                     | 107 (65%)                                     | 130 (79%)                                              | 124 (81%)                                              |
+| Number of patients > 100 kg       | 89                                          | 87                                            | 92                                            | 86                                                     | 90                                                     |
+| PASI 75 response N (%)            | 2 (2%)                                      | 47 (54%)                                      | 63 (68%)                                      | 48 (56%)                                               | 67 (74%)                                               |
+| Psoriasis Study 2                 |                                             |                                               |                                               |                                                        |                                                        |
+| Number of patients randomised     | 410                                         | 409                                           | 411                                           | 397                                                    | 400                                                    |
+| PASI 50 response N (%)            | 41 (10%)                                    | 342 (84%) a                                   | 367 (89%) a                                   | 369 (93%)                                              | 380 (95%)                                              |
+| PASI 75 response N (%)            | 15 (4%)                                     | 273 (67%) a                                   | 311 (76%) a                                   | 276 (70%)                                              | 314 (79%)                                              |
+| PASI 90 response N (%)            | 3 (1%)                                      | 173 (42%) a                                   | 209 (51%) a                                   | 178 (45%)                                              | 217 (54%)                                              |
+| PGA b of cleared or minimal N (%) | 18 (4%)                                     | 277 (68%) a                                   | 300 (73%) a                                   | 241 (61%)                                              | 279 (70%)                                              |
+| Number of patients ≤ 100 kg       | 290                                         | 297                                           | 289                                           | 287                                                    | 280                                                    |
+| PASI 75 response N (%)            | 12 (4%)                                     | 218 (73%)                                     | 225 (78%)                                     | 217 (76%)                                              | 226 (81%)                                              |
+| Number of patients > 100 kg       | 120                                         | 112                                           | 121                                           | 110                                                    | 119                                                    |
+| PASI 75 response N (%)            | 3 (3%)                                      | 55 (49%)                                      | 86 (71%)                                      | 59 (54%)                                               | 88 (74%)                                               |
 
 Table 5 Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 
-|                                 | Psoriasis Study 3                        | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|---------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                 | Etanercept 24 doses (50 mg twice a week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                                 |                                          | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised   | 347                                      | 209                                     | 347                                     |
-| PASI 50 response N (%)          | 286 (82%)                                | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N (%)          | 197 (57%)                                | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N (%)          | 80 (23%)                                 | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal N (%) | 170 (49%)                                | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg     | 251                                      | 151                                     | 244                                     |
-| PASI 75 response N (%)          | 154 (61%)                                | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg     | 96                                       | 58                                      | 103                                     |
-| PASI 75 response N (%)          | 43 (45%)                                 | 32 (55%)                                | 67 (65%)                                |
-
-In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of
+|                                 | Psoriasis Study 3 - Etanercept 24 doses (50 mg twice a week)   | Psoriasis Study 3 - Ustekinumab 2 doses (week 0 and week 4) - 45 mg   | Psoriasis Study 3 - Ustekinumab 2 doses (week 0 and week 4) - 90 mg   |
+|---------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Number of patients randomised   | 347                                                            | 209                                                                   | 347                                                                   |
+| PASI 50 response N (%)          | 286 (82%)                                                      | 181 (87%)                                                             | 320 (92%) a                                                           |
+| PASI 75 response N (%)          | 197 (57%)                                                      | 141 (67%) b                                                           | 256 (74%) a                                                           |
+| PASI 90 response N (%)          | 80 (23%)                                                       | 76 (36%) a                                                            | 155 (45%) a                                                           |
+| PGA of cleared or minimal N (%) | 170 (49%)                                                      | 136 (65%) a                                                           | 245 (71%) a                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
+|                             | Psoriasis Study 3 - Etanercept 24 doses (50 mg twice a week)   | Psoriasis Study 3 - Ustekinumab 2 doses (week 0 and week 4) - 45 mg   | Psoriasis Study 3 - Ustekinumab 2 doses (week 0 and week 4) - 90 mg   |
+|-----------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Number of patients ≤ 100 kg | 251                                                            | 151                                                                   | 244                                                                   |
+| PASI 75 response N (%)      | 154 (61%)                                                      | 109 (72%)                                                             | 189 (77%)                                                             |
+| Number of patients > 100 kg | 96                                                             | 58                                                                    | 103                                                                   |
+| PASI 75 response N (%)      | 43 (45%)                                                       | 32 (55%)                                                              | 67 (65%)                                                              |
+
+- a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
+- b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
+
+In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
 
 In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥ 50% of PASI improvement 85% regained PASI 75 response within 12 weeks after re-initiating therapy.
 
@@ -1157,47 +1295,44 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebocontrolled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
-In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more antiTNFα agent(s), of whom over 70% had discontinued their anti-TNF α treatment for lack of efficacy or intolerance at any time.
+In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more anti-TNFα agent(s), of whom over 70% had discontinued their anti-TNFα treatment for lack of efficacy or intolerance at any time.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Signs and symptoms
 
 Treatment with ustekinumab resulted in significant improvements in the measures of disease activity compared to placebo at week 24. The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at week 24. The key efficacy results are shown in Table 6 below.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 6 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
 
-|                                             | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
-|---------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|                                             | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
-| Number of patients randomised               | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
-| ACR 20 response, N (%)                      | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
-| ACR 50 response, N (%)                      | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
-| ACR 70 response, N (%)                      | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
-| Number of patients with ≥ 3% BSA d          | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
-| PASI 75 response, N (%)                     | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
-| PASI 90 response, N (%)                     | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
-| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)                        | 40 (28%) a                    | 62 (42%) a                    | 2 (3%)                        | 24 (30%) a                    | 31 (38%) a                    |
-| Number of patients ≤ 100 kg                 | 154                           | 153                           | 154                           | 74                            | 74                            | 73                            |
-| ACR 20 response, N (%)                      | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
-| Number of patients with ≥ 3% BSA d          | 105                           | 105                           | 111                           | 54                            | 58                            | 57                            |
-| PASI 75 response, N (%)                     | 14 (13%)                      | 64 (61%)                      | 73 (66%)                      | 4 (7%)                        | 31 (53%)                      | 32 (56%)                      |
-| Number of patients > 100 kg                 | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
-| ACR 20 response, N (%)                      | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
-| Number of patients with ≥ 3% BSA d          | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
-| PASI 75 response, N (%)                     | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
+|                                             | Psoriatic arthritis Study 1 - PBO   | Psoriatic arthritis Study 1 - 45 mg   | Psoriatic arthritis Study 1 - 90 mg   | Psoriatic arthritis Study 2 - PBO   | Psoriatic arthritis Study 2 - 45 mg   | Psoriatic arthritis Study 2 - 90 mg   |
+|---------------------------------------------|-------------------------------------|---------------------------------------|---------------------------------------|-------------------------------------|---------------------------------------|---------------------------------------|
+| Number of patients randomised               | 206                                 | 205                                   | 204                                   | 104                                 | 103                                   | 105                                   |
+| ACR 20 response, N (%)                      | 47 (23%)                            | 87 (42%) a                            | 101 (50%) a                           | 21 (20%)                            | 45 (44%) a                            | 46 (44%) a                            |
+| ACR 50 response, N (%)                      | 18 (9%)                             | 51 (25%) a                            | 57 (28%) a                            | 7 (7%)                              | 18 (17%) b                            | 24 (23%) a                            |
+| ACR 70 response, N (%)                      | 5 (2%)                              | 25 (12%) a                            | 29 (14%) a                            | 3 (3%)                              | 7 (7%) c                              | 9 (9%) c                              |
+| Number of patients with ≥ 3% BSA d          | 146                                 | 145                                   | 149                                   | 80                                  | 80                                    | 81                                    |
+| PASI 75 response, N (%)                     | 16 (11%)                            | 83 (57%) a                            | 93 (62%) a                            | 4 (5%)                              | 41 (51%) a                            | 45 (56%) a                            |
+| PASI 90 response, N (%)                     | 4 (3%)                              | 60 (41%) a                            | 65 (44%) a                            | 3 (4%)                              | 24 (30%) a                            | 36 (44%) a                            |
+| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)                              | 40 (28%) a                            | 62 (42%) a                            | 2 (3%)                              | 24 (30%) a                            | 31 (38%) a                            |
+| Number of patients ≤ 100 kg                 | 154                                 | 153                                   | 154                                   | 74                                  | 74                                    | 73                                    |
+| ACR 20 response, N (%)                      | 39 (25%)                            | 67 (44%)                              | 78 (51%)                              | 17 (23%)                            | 32 (43%)                              | 34 (47%)                              |
+| Number of patients with ≥ 3% BSA d          | 105                                 | 105                                   | 111                                   | 54                                  | 58                                    | 57                                    |
+| PASI 75 response, N (%)                     | 14 (13%)                            | 64 (61%)                              | 73 (66%)                              | 4 (7%)                              | 31 (53%)                              | 32 (56%)                              |
+| Number of patients > 100 kg                 | 52                                  | 52                                    | 50                                    | 30                                  | 29                                    | 31                                    |
+| ACR 20 response, N (%)                      | 8 (15%)                             | 20 (38%)                              | 23 (46%)                              | 4 (13%)                             | 13 (45%)                              | 12 (39%)                              |
+| Number of patients with ≥ 3% BSA d          | 41                                  | 40                                    | 38                                    | 26                                  | 22                                    | 24                                    |
+| PASI 75 response, N (%)                     | 2 (5%)                              | 19 (48%)                              | 20 (53%)                              | 0                                   | 10 (45%)                              | 13 (54%)                              |
 
 ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1 and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
 
 The proportion of patients achieving a modified PsA response criteria (PsARC) response was also significantly greater in the ustekinumab groups compared to placebo at week 24. PsARC responses were maintained through weeks 52 and 100. A higher proportion of patients treated with ustekinumab who had spondylitis with peripheral arthritis as their primary presentation, demonstrated 50 and 70 percent improvement in Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scores compared with placebo at week 24.
 
-Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with anti-TNF α agents who received ustekinumab achieved a greater response at week 24 than
-
 <div style=\"page-break-after: always\"></div>
 
-patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
+Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with anti-TNFα agents who received ustekinumab achieved a greater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
 
 For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
@@ -1223,11 +1358,9 @@ Ustekinumab has been shown to improve signs and symptoms, and health-related qua
 
 The efficacy of ustekinumab was studied in 110 paediatric patients aged 12 to 17 years with moderate to severe plaque psoriasis in a multicentre, phase 3, randomised, double-blind, placebo-controlled study (CADMUS). Patients were randomised to receive either placebo (n = 37), or the recommended dose of ustekinumab (see section 4.2; n = 36) or half of the recommended dose of ustekinumab (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by every 12 week (q12w) dosing. At week 12, placebo-treated patients crossed over to receive ustekinumab.
 
-Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study. Approximately 60% of the patients had
-
 <div style=\"page-break-after: always\"></div>
 
-prior exposure to conventional systemic therapy or phototherapy. Approximately 11% of the patients had prior exposure to biologics.
+Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study. Approximately 60% of the patients had prior exposure to conventional systemic therapy or phototherapy. Approximately 11% of the patients had prior exposure to biologics.
 
 The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, change from baseline in Children's Dermatology Life Quality Index (CDLQI), change from baseline in the total scale score of PedsQL (Paediatric Quality of Life Inventory) at week 12. At week 12, subjects treated with ustekinumab showed significantly greater improvement in their psoriasis and health-related quality of life compared with placebo (Table 7).
 
@@ -1235,41 +1368,28 @@ All patients were followed for efficacy for up to 52 weeks following first admin
 
 Table 7 Summary of primary and secondary endpoints at week 12 and week 52
 
-| Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   |
-|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-|                                                   | Week 12                                           | Week 12                                           | Week 52                                           |
-|                                                   | Placebo                                           | Recommended dose of Ustekinumab                   | Recommended dose of Ustekinumab                   |
-|                                                   | N (%)                                             | N (%)                                             | N (%)                                             |
-| Patients randomised                               | 37                                                | 36                                                | 35                                                |
-| PGA                                               |                                                   |                                                   |                                                   |
-| PGA of cleared (0) or minimal (1)                 | 2 (5.4%)                                          | 25 (69.4%) a                                      | 20 (57.1%)                                        |
-| PGA of Cleared (0)                                | 1 (2.7%)                                          | 17 (47.2%) a                                      | 13 (37.1%)                                        |
-| PASI                                              |                                                   |                                                   |                                                   |
-| PASI 75 responders                                | 4 (10.8%)                                         | 29 (80.6%) a                                      | 28 (80.0%)                                        |
-| PASI 90 responders                                | 2 (5.4%)                                          | 22 (61.1%) a                                      | 23 (65.7%)                                        |
-| PASI 100 responders                               | 1 (2.7%)                                          | 14 (38.9%) a                                      | 13 (37.1%)                                        |
-| CDLQI                                             |                                                   |                                                   |                                                   |
-| CDLQI of 0 or 1 b                                 | 6 (16.2%)                                         | 18 (50.0%) c                                      | 20 (57.1%)                                        |
-| PedsQL                                            |                                                   |                                                   |                                                   |
-| Change from baseline Mean (SD) d                  | 3.35 (10.04)                                      | 8.03 (10.44) e                                    | 7.26 (10.92)                                      |
-
-a p &lt; 0.001
-
-b CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
-
-c p = 0.002
-
-d PedsQL: The PedsQL Total Scale Score is a general health-related quality of life measure developed for use in children and adolescent populations. For the placebo group at week 12, N = 36
-
-e p = 0.028
+| Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17) - Week 12 - Placebo - N (%)   | Paediatric psoriasis study (CADMUS) (Age 12-17) - Week 12 - Recommended dose of Ustekinumab - N (%)   | Paediatric psoriasis study (CADMUS) (Age 12-17) - Week 52 - Recommended dose of Ustekinumab - N (%)   |
+|---------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Patients randomised                               | 37                                                                            | 36                                                                                                    | 35                                                                                                    |
+| PGA                                               |                                                                               |                                                                                                       |                                                                                                       |
+| PGA of cleared (0) or minimal (1)                 | 2 (5.4%)                                                                      | 25 (69.4%) a                                                                                          | 20 (57.1%)                                                                                            |
+| PGA of Cleared (0)                                | 1 (2.7%)                                                                      | 17 (47.2%) a                                                                                          | 13 (37.1%)                                                                                            |
+| PASI                                              |                                                                               |                                                                                                       |                                                                                                       |
+| PASI 75 responders                                | 4 (10.8%)                                                                     | 29 (80.6%) a                                                                                          | 28 (80.0%)                                                                                            |
+| PASI 90 responders                                | 2 (5.4%)                                                                      | 22 (61.1%) a                                                                                          | 23 (65.7%)                                                                                            |
+| PASI 100 responders                               | 1 (2.7%)                                                                      | 14 (38.9%) a                                                                                          | 13 (37.1%)                                                                                            |
+| CDLQI                                             |                                                                               |                                                                                                       |                                                                                                       |
+| CDLQI of 0 or 1 b                                 | 6 (16.2%)                                                                     | 18 (50.0%) c                                                                                          | 20 (57.1%)                                                                                            |
+| PedsQL                                            |                                                                               |                                                                                                       |                                                                                                       |
+| Change from baseline Mean (SD) d                  | 3.35 (10.04)                                                                  | 8.03 (10.44) e                                                                                        | 7.26 (10.92)                                                                                          |
 
 During the placebo-controlled period through week 12, the efficacy of both the recommended and half of the recommended dose groups were generally comparable at the primary endpoint (69.4% and 67.6% respectively) although there was evidence of a dose response for higher level efficacy criteria (e.g. PGA of cleared (0), PASI 90). Beyond week 12, efficacy was generally higher and better sustained in the recommended dose group compared with half of the recommended dosage group in which a modest loss of efficacy was more frequently observed toward the end of each 12 week dosing interval. The safety profiles of the recommended dose and half of the recommended dose were comparable.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Children (6-11 years)
 
 The efficacy of ustekinumab was studied in 44 paediatric patients aged 6 to 11 years with moderate to severe plaque psoriasis in an open label, single-arm, multicentre, phase 3, study (CADMUS Jr.). Patients were treated with the recommended dose of ustekinumab (see section 4.2; n = 44) by subcutaneous injection at weeks 0 and 4 followed by every 12 week (q12w) dosing.
-
-<div style=\"page-break-after: always\"></div>
 
 Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study. Approximately 43% of the patients had prior exposure to conventional systemic therapy or phototherapy. Approximately 5% of the patients had prior exposure to biologics.
 
@@ -1279,23 +1399,18 @@ All patients were followed for efficacy for up to 52 weeks following first admin
 
 Table 8 Summary of primary and secondary endpoints at week 12 and week 52
 
-| Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   |
-|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-|                                                      | Week 12 Recommended dose of Ustekinumab              | Week 52 Recommended dose of Ustekinumab              |
-|                                                      | N                                                    | N                                                    |
-|                                                      | (%)                                                  |                                                      |
-| Patients enrolled                                    | 44                                                   | (%) 41                                               |
-| PGA of cleared (0) or minimal (1)                    | 34 (77.3%)                                           | 31 (75.6%)                                           |
-| PGA of cleared (0)                                   | 17 (38.6%)                                           | 23 (56.1%)                                           |
-| PASI                                                 |                                                      |                                                      |
-| PASI 75 responders                                   | 37 (84.1%)                                           | 36 (87.8%)                                           |
-| PASI 90 responders                                   | 28 (63.6%)                                           | 29 (70.7%)                                           |
-| PASI 100 responders                                  | 15 (34.1%)                                           | 22 (53.7%)                                           |
-| CDLQI a                                              |                                                      |                                                      |
-| Patients with a CDLQI >1 at baseline                 | (N = 39)                                             | (N = 36)                                             |
-| CDLQI of 0 or 1                                      | 24 (61.5%)                                           | 21 (58.3%)                                           |
-
-a CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
+| Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11) - Week 12 Recommended dose of Ustekinumab - N (%)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11) - Week 52 Recommended dose of Ustekinumab - N   |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Patients enrolled                                    | 44                                                                                                     | (%) 41                                                                                             |
+| PGA PGA of cleared (0) or minimal (1)                | 34 (77.3%)                                                                                             | 31 (75.6%)                                                                                         |
+| PGA of cleared (0)                                   | 17 (38.6%)                                                                                             | 23 (56.1%)                                                                                         |
+| PASI                                                 |                                                                                                        |                                                                                                    |
+| PASI 75 responders                                   | 37 (84.1%)                                                                                             | 36 (87.8%)                                                                                         |
+| PASI 90 responders                                   | 28 (63.6%)                                                                                             | 29 (70.7%)                                                                                         |
+| PASI 100 responders                                  | 15 (34.1%)                                                                                             | 22 (53.7%)                                                                                         |
+| CDLQI a                                              |                                                                                                        |                                                                                                    |
+| Patients with a CDLQI >1 at baseline                 | (N = 39)                                                                                               | (N = 36)                                                                                           |
+| CDLQI of 0 or 1                                      | 24 (61.5%)                                                                                             | 21 (58.3%)                                                                                         |
 
 ## Crohn's Disease
 
@@ -1305,57 +1420,59 @@ The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patient
 
 <div style=\"page-break-after: always\"></div>
 
-Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior antiTNFα therapy and 52% had failed 2 or 3 prior anti -TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
+Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to anti-TNFα therapies.
 
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4%).
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 9). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
 Table 9 Induction of Clinical Response and Remission in UNITI-1 and UNITI-2
 
-|                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
-|---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
-|                                       | Placebo N = 247 | Recommended dose of ustekinumab N = 249 | Placebo N = 209 | Recommended dose of ustekinumab N = 209 |
-| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                            | 41 (19.6%)      | 84 (40.2%) a                            |
-| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                            | 60 (28.7%)      | 116 (55.5%) a                           |
-| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                            | 67 (32.1%)      | 121 (57.9%) a                           |
-| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
-| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
+|                                       | UNITI-1 * - Placebo N = 247   | UNITI-1 * - Recommended dose of ustekinumab N = 249   | UNITI-2 ** - Placebo N = 209   | UNITI-2 ** - Recommended dose of ustekinumab N = 209   |
+|---------------------------------------|-------------------------------|-------------------------------------------------------|--------------------------------|--------------------------------------------------------|
+| Clinical Remission, week 8            | 18 (7.3%)                     | 52 (20.9%) a                                          | 41 (19.6%)                     | 84 (40.2%) a                                           |
+| Clinical Response (100 point), week 6 | 53 (21.5%)                    | 84 (33.7%) b                                          | 60 (28.7%)                     | 116 (55.5%) a                                          |
+| Clinical Response (100 point), week 8 | 50 (20.2%)                    | 94 (37.8%) a                                          | 67 (32.1%)                     | 121 (57.9%) a                                          |
+| 70 Point Response, week 3             | 67 (27.1%)                    | 101 (40.6%) b                                         | 66 (31.6%)                     | 106 (50.7%) a                                          |
+| 70 Point Response, week 6             | 75 (30.4%)                    | 109 (43.8%) b                                         | 81 (38.8%)                     | 135 (64.6%) a                                          |
+
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
 
 70 point response is defined as reduction in CDAI score by at least 70 points
 
-* AntiTNFα failures
-- ** Conventional therapy failures
-- a p &lt; 0.001
-- b p &lt; 0.01
+* Anti-TNFα failures
+
+** Conventional therapy failures
+
+a p &lt; 0.001
+
+b p &lt; 0.01
 
 The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
 
 Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 10).
 
-Table 10 Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
-
-|                                        | Placebo * N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
-|----------------------------------------|-----------------------|---------------------------------------------|----------------------------------------------|
-| Clinical Remission                     | 36%                   | 53% a                                       | 49% b                                        |
-| Clinical Response                      | 44%                   | 59% b                                       | 58% b                                        |
-| Corticosteroid-Free Clinical Remission | 30%                   | 47% a                                       | 43% c                                        |
-
 <div style=\"page-break-after: always\"></div>
 
-| Clinical Remission in patients:                  |             |               |             |
-|--------------------------------------------------|-------------|---------------|-------------|
-| in remission at the start of maintenance therapy | 46% (36/79) | 67% (52/78) a | 56% (44/78) |
-| who entered from study CRD3002 ‡                 | 44% (31/70) | 63% (45/72) c | 57% (41/72) |
-| who are Anti- TNFα naïve                         | 49% (25/51) | 65% (34/52) c | 57% (30/53) |
-| who entered from study CRD3001 §                 | 26% (16/61) | 41% (23/56)   | 39% (22/57) |
+Table 10 Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
+
+|                                                  | Placebo * N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
+|--------------------------------------------------|-----------------------|---------------------------------------------|----------------------------------------------|
+| Clinical Remission                               | 36%                   | 53% a                                       | 49% b                                        |
+| Clinical Response                                | 44%                   | 59% b                                       | 58% b                                        |
+| Corticosteroid-Free Clinical Remission           | 30%                   | 47% a                                       | 43% c                                        |
+| Clinical Remission in patients:                  |                       |                                             |                                              |
+| in remission at the start of maintenance therapy | 46% (36/79)           | 67% (52/78) a                               | 56% (44/78)                                  |
+| who entered from study CRD3002 ‡                 | 44% (31/70)           | 63% (45/72) c                               | 57% (41/72)                                  |
+| who are Anti-TNFα naïve                          | 49% (25/51)           | 65% (34/52) c                               | 57% (30/53)                                  |
+| who entered from study CRD3001 §                 | 26% (16/61)           | 41% (23/56)                                 | 39% (22/57)                                  |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
 * The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
 - † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
-- ‡ Patients who failed conventional therapy but not antiTNFα therapy
-- § Patients who are antiTNFα refractory/intolerant
+- ‡ Patients who failed conventional therapy but not anti-TNFα therapy
+- § Patients who are anti-TNFα refractory/intolerant
 - a p &lt; 0.01
 - b p &lt; 0.05
 - c nominally significant (p &lt; 0.05)
@@ -1374,25 +1491,161 @@ No new safety concerns were identified in this study extension with up to 5 year
 
 Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileo-colonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
 
-## Fistula Response
-
-In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction
-
 <div style=\"page-break-after: always\"></div>
 
-from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
+## Fistula Response
+
+In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
 ## Health-related quality of life
 
 Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
 
+## Ulcerative colitis
+
+The safety and efficacy of ustekinumab was assessed in two randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2). The clinical development program consisted of one intravenous induction study (referred to as UNIFI-I) with treatment of up to 16 weeks followed by a 44 week subcutaneous randomised withdrawal maintenance study (referred to as UNIFI-M) representing at least 52 weeks of therapy.
+
+Efficacy results presented for UNIFI-I and UNIFI-M were based on central review of endoscopies.
+
+UNIFI-I included 961 patients. The primary endpoint for the induction study was the proportion of subjects in clinical remission at week 8. Patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+
+Concomitant doses of oral corticosteroids, immunomodulators, and aminosalicylates were permitted and 90% of patients continued to receive at least one of these medications. Enrolled patients had to have failed conventional therapy (corticosteroids or immunomodulators) or at least one biologic (a TNFα antagonist and/or vedolizumab). 49% of patients had failed conventional therapy, but not a biologic (of which 94% where biological-naïve). 51% of patients had failed or were intolerant to a biologic. Approximately 50% of the patients had failed at least 1 prior anti-TNFα therapy (of which 48% were primary non-responders) and 17% had failed at least 1 anti-TNFα therapy and vedolizumab.
+
+In UNIFI-I a significantly greater proportion of patients were in clinical remission in the ustekinumab treated group compared to placebo at week 8 (Table 11). As early as Week 2, the earliest scheduled study visit, and at each visit thereafter, a higher proportion of ustekinumab patients had no rectal bleeding or achieved normal stool frequency as compared with placebo patients. Significant differences in partial Mayo score and symptomatic remission were observed between ustekinumab and placebo as early as Week 2.
+
+Efficacy was higher in the tiered dose group (6 mg/kg) compared to the 130 mg dose group in select endpoints, and tiered dosing is therefore the recommended intravenous induction dose.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 11 Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
+
+|                                                                 | Placebo N = 319   | Recommended dose of ustekinumab £ N = 322   |
+|-----------------------------------------------------------------|-------------------|---------------------------------------------|
+| Clinical Remission*                                             | 5%                | 16% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 9% (15/158)       | 19% (29/156) c                              |
+| In patients who failed biological therapy ¥                     | 1% (2/161)        | 13% (21/166) b                              |
+| In patients who failed both a TNF and vedolizumab               | 0% (0/47)         | 10% (6/58%) c                               |
+| Clinical Response §                                             | 31%               | 62% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 35% (56/158)      | 67% (104/156) b                             |
+| In patients who failed biological therapy ¥                     | 27% (44/161)      | 57% (95/166) b                              |
+| In patients who failed both a TNF and vedolizumab               | 28% (13/47)       | 52% (30/58) c                               |
+| Mucosal Healing †                                               | 14%               | 27% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 21% (33/158)      | 33% (52/156) c                              |
+| In patients who failed biological therapy                       | 7% (11/161)       | 21% (35/166) b                              |
+| Symptomatic Remission ‡                                         | 23%               | 45% b                                       |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 8%                | 21% b                                       |
+
+- £ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1.
+
+* Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+
+§ Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
+
+¥ A TNFα antagonist and/or vedolizumab.
+
+- † Mucosal healing is defined as a Mayo endoscopic subscore of 0 or 1.
+- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
+- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+- a p &lt; 0.001
+- b Nominally significant (p &lt; 0.001)
+- c Nominally significant (p &lt; 0.05)
+
+UNIFI-M, evaluated 523 patients who achieved clinical response with single IV administration of ustekinumab in UNIFI-I. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the Steqeyma Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
+
+Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 12).
+
+Table 12 Summary of Key Efficacy Measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
+
+|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8 Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
+|-----------------------------------------------------------------|--------------------|-------------------------------------------|--------------------------------------------|
+| Clinical Remission**                                            | 24%                | 44% a                                     | 38% b                                      |
+| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                             | 49% (50/102) d                             |
+| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                             | 23% (16/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 15% (4/27)         | 33% (7/21) e                              | 23% (5/22) e                               |
+
+<div style=\"page-break-after: always\"></div>
+
+| Maintenance of Clinical Response through week 44 §              | 45%         | 71% a         | 68% a          |
+|-----------------------------------------------------------------|-------------|---------------|----------------|
+| In patients who failed conventional therapy, but not a biologic | 51% (44/87) | 78% (66/85) c | 77% (78/102) c |
+| In patients who failed biological therapy ¥                     | 39% (34/88) | 65% (59/91) c | 56% (39/70) d  |
+| In patients who failed both a TNF and vedolizumab               | 41% (11/27) | 67% (14/21) e | 50% (11/22) e  |
+| Mucosal Healing †                                               | 29%         | 51% a         | 44% b          |
+| Maintenance of Clinical Remission through week 44 £             | 38% (17/45) | 58% (22/38)   | 65% (26/40) c  |
+| Corticosteroid Free Clinical Remission €                        | 23%         | 42% a         | 38% b          |
+| Durable Remission ‖                                             | 35%         | 57% c         | 48% d          |
+| Symptomatic Remission ‡                                         | 45%         | 68% c         | 62% d          |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%         | 48% c         | 41% d          |
+
+* Following response to IV ustekinumab.
+- ** Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+- § Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
+- ¥ A TNFα antagonist and/or vedolizumab.
+- † Mucosal healing is defined as a Mayo endoscopic sub-score of 0 or 1.
+- £ Maintenance of clinical remission through Week 44 is defined as patients in clinical remission through Week 44 among patients in clinical remission at maintenance baseline.
+- € Corticosteroid-free clinical remission is defined as patients in clinical remission and not receiving corticosteroids at Week 44.
+- ‖ Durable Remission is defined as partial Mayo remission at ≥80% of all visits prior to Week 44 and in partial Mayo remission at last visit (Week 44).
+- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
+- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+- a p &lt; 0.001
+- b p &lt; 0.05
+- c Nominally significant (p &lt; 0.001)
+- d Nominally significant (p &lt; 0.05)
+- e Not statistically significant
+
+The beneficial effect of ustekinumab on clinical response, mucosal healing and clinical remission was observed in induction and in maintenance both in patients who failed conventional therapy but not a biologic therapy, as well as in those who had failed at least one prior TNFα antagonist therapy including in patients with a primary non-response to TNFα antagonist therapy. A beneficial effect was also observed in induction in patients who failed at least one prior TNFα antagonist therapy and vedolizumab, however the number of patients in this subgroup was too small to draw definitive conclusions about the beneficial effect in this group during maintenance.
+
+## Week 16 Responders to Ustekinumab Induction
+
+Ustekinumab treated patients who were not in response at week 8 of UNIFI-I received an administration of 90 mg SC ustekinumab at week 8 (36% of patients). Of those patients, 9% of patients who were initially randomised to the recommended induction dose achieved clinical remission and 58% achieved clinical response at Week 16.
+
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNFI-I study but were in response at week 16 (157 patients) entered into the non-randomised portion of UNIFI-M and continued to receive maintenance dosing every 8 weeks; among these patients, a majority (62%) maintained response and 30% achieved remission at week 44.
+
+## Study Extension
+
+In UNIFI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 400 patients who entered on and were treated with ustekinumab every 12
+
+<div style=\"page-break-after: always\"></div>
+
+or 8 weeks in the study extension, symptomatic remission was generally maintained through week 200 for patients who failed conventional therapy (but not a biologic therapy) and those who failed biologic therapy, including those who failed both anti-TNF and vedolizumab. Among patients who received 4 years of ustekinumab treatment and were assessed using the full Mayo score at maintenance week 200, 74.2% (69/93) and 68.3% (41/60) maintained mucosal healing and clinical remission, respectively.
+
+The safety analysis including 457 patients (1289.9 person-years) followed up to 220 weeks showed a safety profile between week 44 and 220 that was comparable with that observed up to week 44.
+
+No new safety concerns were identified in this study extension with up to 4 years of treatment in patients with ulcerative colitis.
+
+## Endoscopic Normalisation
+
+Endoscopic normalisation was defined as a Mayo endoscopic subscore of 0 and was observed as early as week 8 of UNIFI-I. At week 44 of UNIFI-M, it was achieved in 24% and 29% of patients treated with ustekinumab every 12 or 8 weeks, respectively, as compared to 18% of patients in the placebo group.
+
+## Histologic &amp; Histo-Endoscopic Mucosal Healing
+
+Histologic healing (defined as neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue) was assessed at week 8 of UNIFI-I and Week 44 of UNIFI-M. At week 8, after a single intravenous induction dose, significantly greater proportions of patients in the recommended dose group achieved histologic healing (36%) compared with patients in the placebo group (22%). At Week 44 maintenance of this effect was observed with significantly more patients in histologic healing in the every 12 week (54%) and every 8 week (59%) ustekinumab groups as compared to placebo (33%).
+
+A combined endpoint of histo-endoscopic mucosal healing defined as subjects having both mucosal healing and histologic healing was evaluated at week 8 of UNIFI-I and week 44 of UNIFI-M. Patients receiving ustekinumab at the recommended dose showed significant improvements on the histoendoscopic mucosal healing endpoint at week 8 in the ustekinumab group (18%) as compared to the placebo group (9%). At week 44, maintenance of this effect was observed with significantly more patients in histo-endoscopic mucosal healing in the every 12 week (39%) and every 8 week (46%) ustekinumab groups as compared to placebo (24%).
+
+## Health-related quality of life
+
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), SF-36 and EuroQoL-5D (EQ-5D) questionnaires.
+
+At week 8 of UNIFI-I, patients receiving ustekinumab showed significantly greater and clinically meaningful improvements on IBDQ total score, EQ-5D and EQ-5D VAS, and SF-36 Mental Component Summary Score and SF-36 Physical Component Summary Score when compared to placebo. These improvements were maintained in ustekinumab-treated patients in UNIFI-M through week 44. Improvement in health-related quality of life as measured by IBDQ and SF-36 was generally maintained during the extension through week 200.
+
+Patients receiving ustekinumab experienced significantly more improvements in work productivity as assessed by greater reductions in overall work impairment and in activity impairment as assessed by the WPAI-GH questionnaire than patients receiving placebo.
+
+## Hospitalisations and ulcerative colitis (UC) related surgeries
+
+Through week 8 of UNIFI-I, the proportions of subjects with UC disease related hospitalisations were significantly lower for subjects in the ustekinumab recommended dose group (1.6%, 5/322) compared with subjects in the placebo group (4.4%, 14/319) and no subjects underwent UC disease related surgeries in subjects receiving ustekinumab at the recommended induction dose compared to 0.6% (2/319) subjects in the placebo group.
+
+<div style=\"page-break-after: always\"></div>
+
+Through week 44 of UNIFI-M, a significantly lower number of UC-related hospitalisations was observed in subjects in the combined ustekinumab group (2.0%, 7/348) as compared with subjects in the placebo group (5.7%, 10/175). A numerically lower number of subjects in the ustekinumab group (0.6%, 2/348) underwent UC disease related surgeries compared with subjects in the placebo group (1.7%, 3/175) through week 44.
+
 ## Immunogenicity
 
-Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising. The formation of anti-ustekinumab antibodies is associated with both increased clearance and reduced efficacy of ustekinumab, except in patients with Crohn's disease where no reduced efficacy was observed. There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
+Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising. The formation of anti-ustekinumab antibodies is associated with both increased clearance and reduced efficacy of ustekinumab, except in patients with Crohn's disease or ulcerative colitis where no reduced efficacy was observed. There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's Disease (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's Disease and ulcerative colitis (see section 4.2 for information on paediatric use).
 
 ## Paediatric Crohn's disease
 
@@ -1404,29 +1657,27 @@ The primary endpoint of the study was clinical remission at induction week 8 (de
 
 Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
 
-Table 11 presents the analyses for the secondary endpoints through maintenance week 44.
+Table 13 presents the analyses for the secondary endpoints through maintenance week 44.
 
-Table 11: Summary of Secondary endpoints through Maintenance week 44
+Table 13 Summary of Secondary endpoints through Maintenance week 44
 
-|                    | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
-|--------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
-| Clinical Remission | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+|                                                                                      | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
+|--------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
+| Clinical Remission *                                                                 | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+| Corticosteroid-free Clinical Remission §                                             | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+| Clinical remission for patients who were in clinical remission at induction week 8 * | 64.3% (9/14)                             | 54.5% (6/11)                              | 60.0% (15/25)                     |
+| Clinical Response †                                                                  | 52.2% (12/23)                            | 60.0% (15/25)                             | 56.3% (27/48)                     |
+| Endoscopic response £                                                                | 22.7% (5/22)                             | 28.0% (7/25)                              | 25.5% (12/47)                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| Corticosteroid-free Clinical Remission §                                             | 43.5% (10/23)   | 60.0% (15/25)   | 52.1% (25/48)   |
-|--------------------------------------------------------------------------------------|-----------------|-----------------|-----------------|
-| Clinical remission for patients who were in clinical remission at induction week 8 * | 64.3% (9/14)    | 54.5% (6/11)    | 60.0% (15/25)   |
-| Clinical Response †                                                                  | 52.2% (12/23)   | 60.0% (15/25)   | 56.3% (27/48)   |
-| Endoscopic response £                                                                | 22.7% (5/22)    | 28.0% (7/25)    | 25.5% (12/47)   |
-
 * Clinical remission is defined as PCDAI score ≤10 points.
 
-§ Corticosteroidfree remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
+§ Corticosteroid-free remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
 
 † Clinical response is defined as a reduction from baseline in the PCDAI score of ≥12.5 points with a total PCDAI score not more than 30.
 
-£ Endoscopic response is defined as a reduction in the SESCD score of ≥50% or SES -CD score ≤2, in patients with a baseline SESCD score of ≥3.
+- £ Endoscopic response is defined as a reduction in the SES-CD score of ≥50% or SES-CD score ≤2, in patients with a baseline SES-CD score of ≥3.
 
 ## Dosing frequency adjustment
 
@@ -1458,11 +1709,11 @@ Median volume of distribution during the terminal phase (Vz) following a single 
 
 The exact metabolic pathway for ustekinumab is unknown.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elimination
 
-Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis or Crohn's disease, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Dose linearity
 
@@ -1472,15 +1723,15 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 
 Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady-state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
-In patients with Crohn's disease, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
+In patients with Crohn's disease and ulcerative colitis, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively. In patients with ulcerative colitis, median steady-state trough concentrations ranged from 2.69 μg/mL to 3.09 μg/mL and from 0.92 μg/mL to 1.19 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
 
 ## Impact of weight on pharmacokinetics
 
-In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab. The median CL/F in patients with weight &gt; 100 kg was approximately 55% higher compared to patients with weight ≤ 100 kg. The median V/F in patients with weight &gt; 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg. The median trough serum concentrations of ustekinumab in patients with higher weight (&gt; 100 kg) in the 90 mg group were comparable to those in patients with lower weight ( ≤ 100 kg) in the 45 mg group. Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
+In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab. The median CL/F in patients with weight &gt; 100 kg was approximately 55% higher compared to patients with weight ≤ 100 kg. The median V/F in patients with weight &gt; 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg. The median trough serum concentrations of ustekinumab in patients with higher weight (&gt; 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤ 100 kg) in the 45 mg group. Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
 
 ## Dosing frequency adjustment
 
-In patients with Crohn's disease, based on observed data and population PK analyses, randomised subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared with subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy.
+In patients with Crohn's disease and ulcerative colitis, based on observed data and population PK analyses, randomised subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared with subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy. In ulcerative colitis, population PK model based simulations demonstrated that adjusting dosing from 90 mg every 12 weeks to every 8 weeks would be expected to result in a 3-fold increase in steady-state trough ustekinumab concentrations. Additionally on the basis of clinical trial data in patients with ulcerative colitis, a positive exposure-response relationship was established between trough concentrations, and clinical remission and mucosal healing.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1488,9 +1739,9 @@ In patients with Crohn's disease, based on observed data and population PK analy
 
 No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted in elderly patients.
 
-The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis.
+The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis and ulcerative colitis.
 
-In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
+In patients with Crohn's disease and ulcerative colitis, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
 
@@ -1542,7 +1793,7 @@ Steqeyma 90 mg solution for injection in pre-filled syringe
 
 4 years
 
-Individual pre-filled syringes may be stored at room temperature up to 25 °C for a maximum single period of up to 31 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this 31-day period at room temperature, the product can be returned to the refrigerator once, and stored there until the original expiry date.  Discard the syringe if not used within 31 days at room temperature storage or by the original expiry date, whichever is earlier.
+Individual pre-filled syringes may be stored at room temperature up to 25 °C for a maximum single period of up to 31 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this 31-day period at room temperature, the product can be returned to the refrigerator once, and stored there until the original expiry date. Discard the syringe if not used within 31 days at room temperature storage or by the original expiry date, whichever is earlier.
 
 ## 6.4 Special precautions for storage
 
@@ -1584,7 +1835,7 @@ Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Bu
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8. MARKETING AUTHORISATION NUMBER(S)
 
 Steqeyma 45 mg solution for injection
 
@@ -1598,13 +1849,15 @@ Steqeyma 90 mg solution for injection in pre-filled syringe
 
 EU/1/24/1844/002
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 22 Aug 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+54
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1626,7 +1879,7 @@ Steqeyma 90 mg solution for injection in pre-filled pen
 
 Each pre-filled pen contains 90 mg ustekinumab in 1 mL.
 
-Ustekinumab is a fully human IgGlκ monoclonal antibody to interleukin (IL) -12/23 produced in a Chinese Hamster Ovary (CHO) cell line using recombinant DNA technology.
+Ustekinumab is a fully human IgG1κ monoclonal antibody to interleukin (IL)-12/23 produced in a Chinese Hamster Ovary (CHO) cell line using recombinant DNA technology.
 
 ## Excipients with known effect
 
@@ -1644,7 +1897,7 @@ Steqeyma 90 mg solution for injection in pre-filled pen
 
 Solution for injection.
 
-The solution is clear to slightly opalescent, colourless to pale yellow.
+The solution is clear to slightly opalescent, colourless to pale yellow and formulated at pH 5.7 ± 0.2. The osmolality of the solution is 275 - 355 mmol/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -1662,7 +1915,11 @@ Steqeyma, alone or in combination with MTX, is indicated for the treatment of ac
 
 ## Crohn's Disease
 
-Steqeyma is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist .
+Steqeyma is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
+
+## Ulcerative colitis
+
+Steqeyma is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
 
 ## 4.2 Posology and method of administration
 
@@ -1700,7 +1957,7 @@ The safety and efficacy of ustekinumab in children with psoriasis less than 6 ye
 
 <div style=\"page-break-after: always\"></div>
 
-## Crohn's Disease
+## Crohn's Disease and Ulcerative Colitis
 
 In the treatment regimen, the first dose of Steqeyma is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the Steqeyma 130 mg Concentrate for solution for infusion SmPC.
 
@@ -1716,7 +1973,7 @@ Consideration should be given to discontinuing treatment in patients who show no
 
 Immunomodulators and/or corticosteroids may be continued during treatment with Steqeyma. In patients who have responded to treatment with Steqeyma, corticosteroids may be reduced or discontinued in accordance with standard of care.
 
-In Crohn's disease, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
+In Crohn's disease or Ulcerative Colitis, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
 ## Elderly (≥ 65 years)
 
@@ -1728,7 +1985,7 @@ Ustekinumab has not been studied in these patient populations. No dose recommend
 
 ## Paediatric population
 
-The safety and efficacy of ustekinumab for the treatment of Crohn's disease in paediatric patients weighing less than 40 kg have not yet been established. No data are available. The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients. See section 4.2 of the Concentrate for solution for infusion and pre-filled syringe SmPC for posology and method of administration in paediatric patients weighing at least 40 kg with Crohn's disease.
+The safety and efficacy of ustekinumab for the treatment of Crohn's disease in paediatric patients weighing less than 40 kg or ulcerative colitis in children less than 18 years have not yet been established. No data are available. The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients. See section 4.2 of the Concentrate for solution for infusion and pre-filled syringe SmPC for posology and method of administration in paediatric patients weighing at least 40 kg with Crohn's disease.
 
 ## Method of administration
 
@@ -1736,9 +1993,9 @@ Steqeyma 45 mg and 90 mg pre-filled pens are for subcutaneous injection only. If
 
 After proper training in subcutaneous injection technique, patients or their caregivers may inject Steqeyma if a physician determines that it is appropriate. However, the physician should ensure appropriate follow-up of patients. Patients or their caregivers should be instructed to inject the prescribed amount of Steqeyma according to the directions provided in the package leaflet. Comprehensive instructions for administration are given in the package leaflet.
 
-For further instructions on preparation and special precautions for handling, see section 6.6.
-
 <div style=\"page-break-after: always\"></div>
+
+For further instructions on preparation and special precautions for handling, see section 6.6.
 
 ## 4.3 Contraindications
 
@@ -1770,9 +2027,9 @@ Immunosuppressants like ustekinumab have the potential to increase the risk of m
 
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving ustekinumab. Thus, caution should be exercised when considering the use of Steqeyma in these patients.
 
-All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
-
 <div style=\"page-break-after: always\"></div>
+
+All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
 
 ## Systemic and respiratory hypersensitivity reactions
 
@@ -1818,7 +2075,7 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -1832,7 +2089,7 @@ Live vaccines should not be given concurrently with Steqeyma.
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
-In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. antiTNFα agents and/or vedolizumab) in patients with ulcerative colitis.
+In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1864,11 +2121,11 @@ Limited data from published literature suggests that ustekinumab is excreted in 
 
 The effect of ustekinumab on human fertility has not been evaluated (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 Steqeyma has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -1878,7 +2135,7 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 ## Tabulated list of adverse reactions
 
-The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6 710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients) or at least 1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4  years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6 710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients) or at least 1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
 Table 1 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1 000 to &lt; 1/100), Rare (≥ 1/10 000 to &lt; 1/1 000), Very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -1892,17 +2149,15 @@ Table 1 List of adverse reactions
 | Nervous system disorders                        | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                       |
 | Respiratory, thoracic and mediastinal disorders | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia *                                                                                                |
 | Gastrointestinal disorders                      | Common: Diarrhoea, nausea, vomiting                                                                                                                                                                                                      |
-| Skin and subcutaneous tissue disorders          | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                            |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia |
+* See section 4.4, Systemic and respiratory hypersensitivity reactions.
 
-*
-
-See section 4.4, Systemic and respiratory hypersensitivity reactions.
+| Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus   |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                          |
+| General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia               |
 
 ## Description of selected adverse reactions
 
@@ -1944,19 +2199,19 @@ Steqeyma is a biosimilar medicinal product. Detailed information is available on
 
 ## Mechanism of action
 
-Ustekinumab is a fully human IgGlκ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL-12 and IL-23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis and Crohn's disease.
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL-12 and IL-23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
-By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis and Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
+By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
 In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
 
-## Immunisation
-
-During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients treated with ustekinumab for at least 3.5 years mounted similar antibody responses to both pneumococcal
-
 <div style=\"page-break-after: always\"></div>
 
-polysaccharide and tetanus vaccines as a non-systemically treated psoriasis control group. Similar proportions of adult patients developed protective levels of anti-pneumococcal and anti-tetanus antibodies and antibody titres were similar among ustekinumab-treated and control patients.
+In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and fecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
+
+## Immunisation
+
+During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients treated with ustekinumab for at least 3.5 years mounted similar antibody responses to both pneumococcal polysaccharide and tetanus vaccines as a non-systemically treated psoriasis control group. Similar proportions of adult patients developed protective levels of anti-pneumococcal and anti-tetanus antibodies and antibody titres were similar among ustekinumab-treated and control patients.
 
 ## Clinical efficacy
 
@@ -1978,53 +2233,42 @@ The primary endpoint in these studies was the proportion of patients who achieve
 
 Table 2 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
 
-|                                   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4 and week 16)   | Week 28 3 doses (week 0, week 4 and week 16)   |
-|-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|
-|                                   | PBO                                   | 45 mg                                 | 90 mg                                 | 45 mg                                          | 90 mg                                          |
-| Psoriasis Study 1                 |                                       |                                       |                                       |                                                |                                                |
-| Number of patients randomised     | 255                                   | 255                                   | 256                                   | 250                                            | 243                                            |
-| PASI 50 response N (%)            | 26 (10%)                              | 213 (84%) a                           | 220 (86%) a                           | 228 (91%)                                      | 234 (96%)                                      |
-| PASI 75 response N (%)            | 8 (3%)                                | 171 (67%) a                           | 170 (66%) a                           | 178 (71%)                                      | 191 (79%)                                      |
-| PASI 90 response N (%)            | 5 (2%)                                | 106 (42%) a                           | 94 (37%) a                            | 123 (49%)                                      | 135 (56%)                                      |
-| PGA b of cleared or minimal N (%) | 10 (4%)                               | 151 (59%) a                           | 156 (61%) a                           | 146 (58%)                                      | 160 (66%)                                      |
-| Number of patients ≤ 100 kg       | 166                                   | 168                                   | 164                                   | 164                                            | 153                                            |
-| PASI 75 response N (%)            | 6 (4%)                                | 124 (74%)                             | 107 (65%)                             | 130 (79%)                                      | 124 (81%)                                      |
-| Number of patients > 100 kg       | 89                                    | 87                                    | 92                                    | 86                                             | 90                                             |
-| PASI 75 response N (%)            | 2 (2%)                                | 47 (54%)                              | 63 (68%)                              | 48 (56%)                                       | 67 (74%)                                       |
-| Psoriasis Study 2                 |                                       |                                       |                                       |                                                |                                                |
-| Number of patients randomised     | 410                                   | 409                                   | 411                                   | 397                                            | 400                                            |
-| PASI 50 response N (%)            | 41 (10%)                              | 342 (84%) a                           | 367 (89%) a                           | 369 (93%)                                      | 380 (95%)                                      |
-| PASI 75 response N (%)            | 15 (4%)                               | 273 (67%) a                           | 311 (76%) a                           | 276 (70%)                                      | 314 (79%)                                      |
-| PASI 90 response N (%)            | 3 (1%)                                | 173 (42%) a                           | 209 (51%) a                           | 178 (45%)                                      | 217 (54%)                                      |
-| PGA b of cleared or minimal N (%) | 18 (4%)                               | 277 (68%) a                           | 300 (73%) a                           | 241 (61%)                                      | 279 (70%)                                      |
-| Number of patients ≤ 100 kg       | 290                                   | 297                                   | 289                                   | 287                                            | 280                                            |
-| PASI 75 response N (%)            | 12 (4%)                               | 218 (73%)                             | 225 (78%)                             | 217 (76%)                                      | 226 (81%)                                      |
-| Number of patients > 100 kg       | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
-| PASI 75 response N (%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
-
-a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with placebo (PBO).
-
-b PGA = Physician Global Assessment
+|                                   | Week 12 2 doses (week 0 and week 4) - PBO   | Week 12 2 doses (week 0 and week 4) - 45 mg   | Week 12 2 doses (week 0 and week 4) - 90 mg   | Week 28 3 doses (week 0, week 4 and week 16) - 45 mg   | Week 28 3 doses (week 0, week 4 and week 16) - 90 mg   |
+|-----------------------------------|---------------------------------------------|-----------------------------------------------|-----------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| Psoriasis Study 1                 |                                             |                                               |                                               |                                                        |                                                        |
+| Number of patients randomised     | 255                                         | 255                                           | 256                                           | 250                                                    | 243                                                    |
+| PASI 50 response N (%)            | 26 (10%)                                    | 213 (84%) a                                   | 220 (86%) a                                   | 228 (91%)                                              | 234 (96%)                                              |
+| PASI 75 response N (%)            | 8 (3%)                                      | 171 (67%) a                                   | 170 (66%) a                                   | 178 (71%)                                              | 191 (79%)                                              |
+| PASI 90 response N (%)            | 5 (2%)                                      | 106 (42%) a                                   | 94 (37%) a                                    | 123 (49%)                                              | 135 (56%)                                              |
+| PGA b of cleared or minimal N (%) | 10 (4%)                                     | 151 (59%) a                                   | 156 (61%) a                                   | 146 (58%)                                              | 160 (66%)                                              |
+| Number of patients ≤ 100 kg       | 166                                         | 168                                           | 164                                           | 164                                                    | 153                                                    |
+| PASI 75 response N (%)            | 6 (4%)                                      | 124 (74%)                                     | 107 (65%)                                     | 130 (79%)                                              | 124 (81%)                                              |
+| Number of patients > 100 kg       | 89                                          | 87                                            | 92                                            | 86                                                     | 90                                                     |
+| PASI 75 response N (%)            | 2 (2%)                                      | 47 (54%)                                      | 63 (68%)                                      | 48 (56%)                                               | 67 (74%)                                               |
+| Psoriasis Study 2                 |                                             |                                               |                                               |                                                        |                                                        |
+| Number of patients randomised     | 410                                         | 409                                           | 411                                           | 397                                                    | 400                                                    |
+| PASI 50 response N (%)            | 41 (10%)                                    | 342 (84%) a                                   | 367 (89%) a                                   | 369 (93%)                                              | 380 (95%)                                              |
+| PASI 75 response N (%)            | 15 (4%)                                     | 273 (67%) a                                   | 311 (76%) a                                   | 276 (70%)                                              | 314 (79%)                                              |
+| PASI 90 response N (%)            | 3 (1%)                                      | 173 (42%) a                                   | 209 (51%) a                                   | 178 (45%)                                              | 217 (54%)                                              |
+| PGA b of cleared or minimal N (%) | 18 (4%)                                     | 277 (68%) a                                   | 300 (73%) a                                   | 241 (61%)                                              | 279 (70%)                                              |
+| Number of patients ≤ 100 kg       | 290                                         | 297                                           | 289                                           | 287                                                    | 280                                                    |
+| PASI 75 response N (%)            | 12 (4%)                                     | 218 (73%)                                     | 225 (78%)                                     | 217 (76%)                                              | 226 (81%)                                              |
+| Number of patients > 100 kg       | 120                                         | 112                                           | 121                                           | 110                                                    | 119                                                    |
+| PASI 75 response N (%)            | 3 (3%)                                      | 55 (49%)                                      | 86 (71%)                                      | 59 (54%)                                               | 88 (74%)                                               |
 
 Table 3 Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 
-|                                 | Psoriasis Study 3                        | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|---------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                 | Etanercept 24 doses (50 mg twice a week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                                 |                                          | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised   | 347                                      | 209                                     | 347                                     |
-| PASI 50 response N (%)          | 286 (82%)                                | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N (%)          | 197 (57%)                                | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N (%)          | 80 (23%)                                 | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal N (%) | 170 (49%)                                | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg     | 251                                      | 151                                     | 244                                     |
-| PASI 75 response N (%)          | 154 (61%)                                | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg     | 96                                       | 58                                      | 103                                     |
-| PASI 75 response N (%)          | 43 (45%)                                 | 32 (55%)                                | 67 (65%)                                |
-
-a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
-
-b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
+|                                 | Psoriasis Study 3 - Etanercept 24 doses (50 mg twice a week)   | Psoriasis Study 3 - Ustekinumab 2 doses (week 0 and week 4) - 45 mg   | Psoriasis Study 3 - Ustekinumab 2 doses (week 0 and week 4) - 90 mg   |
+|---------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Number of patients randomised   | 347                                                            | 209                                                                   | 347                                                                   |
+| PASI 50 response N (%)          | 286 (82%)                                                      | 181 (87%)                                                             | 320 (92%) a                                                           |
+| PASI 75 response N (%)          | 197 (57%)                                                      | 141 (67%) b                                                           | 256 (74%) a                                                           |
+| PASI 90 response N (%)          | 80 (23%)                                                       | 76 (36%) a                                                            | 155 (45%) a                                                           |
+| PGA of cleared or minimal N (%) | 170 (49%)                                                      | 136 (65%) a                                                           | 245 (71%) a                                                           |
+| Number of patients ≤ 100 kg     | 251                                                            | 151                                                                   | 244                                                                   |
+| PASI 75 response N (%)          | 154 (61%)                                                      | 109 (72%)                                                             | 189 (77%)                                                             |
+| Number of patients > 100 kg     | 96                                                             | 58                                                                    | 103                                                                   |
+| PASI 75 response N (%)          | 43 (45%)                                                       | 32 (55%)                                                              | 67 (65%)                                                              |
 
 In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
 
@@ -2038,9 +2282,9 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebocontrolled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
-In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more antiTNFα agent(s), of whom over 70% had discontinued their antiTNFα treatment for lack of efficacy or intolerance at any time.
+In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more anti-TNFα agent(s), of whom over 70% had discontinued their anti-TNFα treatment for lack of efficacy or intolerance at any time.
 
 ## Signs and symptoms
 
@@ -2048,33 +2292,29 @@ Treatment with ustekinumab resulted in significant improvements in the measures 
 
 Table 4 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
 
-|                               | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
-|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|                               | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
-| Number of patients randomised | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
-| ACR 20 response, N (%)        | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
-| ACR 50 response, N (%)        | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
-| ACR 70 response, N (%)        | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
+|                               | Psoriatic arthritis Study 1 - PBO   | Psoriatic arthritis Study 1 - 45 mg   | Psoriatic arthritis Study 1 - 90 mg   | Psoriatic arthritis Study 2 - PBO   | Psoriatic arthritis Study 2 - 45 mg   | Psoriatic arthritis Study 2 - 90 mg   |
+|-------------------------------|-------------------------------------|---------------------------------------|---------------------------------------|-------------------------------------|---------------------------------------|---------------------------------------|
+| Number of patients randomised | 206                                 | 205                                   | 204                                   | 104                                 | 103                                   | 105                                   |
+| ACR 20 response, N (%)        | 47 (23%)                            | 87 (42%) a                            | 101 (50%) a                           | 21 (20%)                            | 45 (44%) a                            | 46 (44%) a                            |
+| ACR 50 response, N (%)        | 18 (9%)                             | 51 (25%) a                            | 57 (28%) a                            | 7 (7%)                              | 18 (17%) b                            | 24 (23%) a                            |
+| ACR 70 response, N (%)        | 5 (2%)                              | 25 (12%) a                            | 29 (14%) a                            | 3 (3%)                              | 7 (7%) c                              | 9 (9%) c                              |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                             | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
-|---------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|                                             | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
-| Number of patients with ≥ 3% BSA d          | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
-| PASI 75 response, N (%)                     | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
-| PASI 90 response, N (%)                     | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
-| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)                        | 40 (28%) a                    | 62 (42%) a                    | 2 (3%)                        | 24 (30%) a                    | 31 (38%) a                    |
-| Number of patients ≤ 100 kg                 | 154                           | 153                           | 154                           | 74                            | 74                            | 73                            |
-| ACR 20 response, N (%)                      | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
-| Number of patients with ≥ 3% BSA d          | 105                           | 105                           | 111                           | 54                            | 58                            | 57                            |
-| PASI 75 response, N (%)                     | 14 (13%)                      | 64 (61%)                      | 73 (66%)                      | 4 (7%)                        | 31 (53%)                      | 32 (56%)                      |
-| Number of patients > 100 kg                 | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
-| ACR 20 response, N (%)                      | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
-| Number of patients with ≥ 3% BSA d          | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
-| PASI 75 response, N (%)                     | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
-
-a p &lt; 0.001
+|                                             | Psoriatic arthritis Study 1 - PBO   | Psoriatic arthritis Study 1 - 45 mg   | Psoriatic arthritis Study 1 - 90 mg   | Psoriatic arthritis Study 2 - PBO   | Psoriatic arthritis Study 2 - 45 mg   | Psoriatic arthritis Study 2 - 90 mg   |
+|---------------------------------------------|-------------------------------------|---------------------------------------|---------------------------------------|-------------------------------------|---------------------------------------|---------------------------------------|
+| Number of patients with ≥ 3% BSA d          | 146                                 | 145                                   | 149                                   | 80                                  | 80                                    | 81                                    |
+| PASI 75 response, N (%)                     | 16 (11%)                            | 83 (57%) a                            | 93 (62%) a                            | 4 (5%)                              | 41 (51%) a                            | 45 (56%) a                            |
+| PASI 90 response, N (%)                     | 4 (3%)                              | 60 (41%) a                            | 65 (44%) a                            | 3 (4%)                              | 24 (30%) a                            | 36 (44%) a                            |
+| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)                              | 40 (28%) a                            | 62 (42%) a                            | 2 (3%)                              | 24 (30%) a                            | 31 (38%) a                            |
+| Number of patients ≤ 100 kg                 | 154                                 | 153                                   | 154                                   | 74                                  | 74                                    | 73                                    |
+| ACR 20 response, N (%)                      | 39 (25%)                            | 67 (44%)                              | 78 (51%)                              | 17 (23%)                            | 32 (43%)                              | 34 (47%)                              |
+| Number of patients with ≥ 3% BSA d          | 105                                 | 105                                   | 111                                   | 54                                  | 58                                    | 57                                    |
+| PASI 75 response, N (%)                     | 14 (13%)                            | 64 (61%)                              | 73 (66%)                              | 4 (7%)                              | 31 (53%)                              | 32 (56%)                              |
+| Number of patients > 100 kg                 | 52                                  | 52                                    | 50                                    | 30                                  | 29                                    | 31                                    |
+| ACR 20 response, N (%)                      | 8 (15%)                             | 20 (38%)                              | 23 (46%)                              | 4 (13%)                             | 13 (45%)                              | 12 (39%)                              |
+| Number of patients with ≥ 3% BSA d          | 41                                  | 40                                    | 38                                    | 26                                  | 22                                    | 24                                    |
+| PASI 75 response, N (%)                     | 2 (5%)                              | 19 (48%)                              | 20 (53%)                              | 0                                   | 10 (45%)                              | 13 (54%)                              |
 
 b p &lt; 0.05
 
@@ -2086,7 +2326,7 @@ ACR 20, 50 and 70 responses continued to improve or were maintained through week
 
 The proportion of patients achieving a modified PsA response criteria (PsARC) response was also significantly greater in the ustekinumab groups compared to placebo at week 24. PsARC responses were maintained through weeks 52 and 100. A higher proportion of patients treated with ustekinumab who had spondylitis with peripheral arthritis as their primary presentation, demonstrated 50 and 70 percent improvement in Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scores compared with placebo at week 24.
 
-Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with antiTNFα agents who received ustekinumab achieved a greater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
+Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with anti-TNFα agents who received ustekinumab achieved a greater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
 
 For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
@@ -2112,32 +2352,31 @@ The safety and efficacy of ustekinumab was assessed in three randomised, double-
 
 The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the Steqeyma 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior antiTNFα therapy and 52% had failed 2 or 3 prior anti -TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders),
+Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders),
 
 <div style=\"page-break-after: always\"></div>
 
-69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
+69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to anti-TNFα therapies.
 
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4%).
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 5). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
 Table 5 Induction of Clinical Response and Remission in UNITI-1 and UNITI-2
 
-|                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
-|---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
-|                                       | Placebo N = 247 | Recommended dose of ustekinumab N = 249 | Placebo N = 209 | Recommended dose of ustekinumab N = 209 |
-| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                            | 41 (19.6%)      | 84 (40.2%) a                            |
-| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                            | 60 (28.7%)      | 116 (55.5%) a                           |
-| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                            | 67 (32.1%)      | 121 (57.9%) a                           |
-| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
-| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
+|                                       | UNITI-1 * - Placebo N = 247   | UNITI-1 * - Recommended dose of ustekinumab N = 249   | UNITI-2 ** - Placebo N = 209   | UNITI-2 ** - Recommended dose of ustekinumab N = 209   |
+|---------------------------------------|-------------------------------|-------------------------------------------------------|--------------------------------|--------------------------------------------------------|
+| Clinical Remission, week 8            | 18 (7.3%)                     | 52 (20.9%) a                                          | 41 (19.6%)                     | 84 (40.2%) a                                           |
+| Clinical Response (100 point), week 6 | 53 (21.5%)                    | 84 (33.7%) b                                          | 60 (28.7%)                     | 116 (55.5%) a                                          |
+| Clinical Response (100 point), week 8 | 50 (20.2%)                    | 94 (37.8%) a                                          | 67 (32.1%)                     | 121 (57.9%) a                                          |
+| 70 Point Response, week 3             | 67 (27.1%)                    | 101 (40.6%) b                                         | 66 (31.6%)                     | 106 (50.7%) a                                          |
+| 70 Point Response, week 6             | 75 (30.4%)                    | 109 (43.8%) b                                         | 81 (38.8%)                     | 135 (64.6%) a                                          |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
 
 70 point response is defined as reduction in CDAI score by at least 70 points
 
-* AntiTNFα failures
+* Anti-TNFα failures
 
 ** Conventional therapy failures
 
@@ -2163,15 +2402,15 @@ Table 6 Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 
 |--------------------------------------------------|-------------|---------------|-------------|
 | in remission at the start of maintenance therapy | 46% (36/79) | 67% (52/78) a | 56% (44/78) |
 | who entered from study CRD3002 ‡                 | 44% (31/70) | 63% (45/72) c | 57% (41/72) |
-| who are Anti- TNFα naïve                         | 49% (25/51) | 65% (34/52) c | 57% (30/53) |
+| who are Anti-TNFα naïve                          | 49% (25/51) | 65% (34/52) c | 57% (30/53) |
 | who entered from study CRD3001 §                 | 26% (16/61) | 41% (23/56)   | 39% (22/57) |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
 * The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
 - † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
-- ‡ Patients who failed conventional therapy but not antiTNFα therapy
-- § Patients who are antiTNFα refractory/intolerant
+- ‡ Patients who failed conventional therapy but not anti-TNFα therapy
+- § Patients who are anti-TNFα refractory/intolerant
 - a p &lt; 0.01
 - b p &lt; 0.05
 - c nominally significant (p &lt; 0.05)
@@ -2192,23 +2431,157 @@ Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible 
 
 ## Fistula Response
 
-In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction
+In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
 ## Health-related quality of life
 
 Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
 
+## Ulcerative colitis
+
+The safety and efficacy of ustekinumab was assessed in two randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2). The clinical development program consisted of one intravenous induction study (referred to as UNIFI-I) with treatment of up to 16 weeks followed by a 44 week subcutaneous randomised withdrawal maintenance study (referred to as UNIFI-M) representing at least 52 weeks of therapy.
+
+Efficacy results presented for UNIFI-I and UNIFI-M were based on central review of endoscopies.
+
+UNIFI-I included 961 patients. The primary endpoint for the induction study was the proportion of subjects in clinical remission at week 8. Patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+
+Concomitant doses of oral corticosteroids, immunomodulators, and aminosalicylates were permitted and 90% of patients continued to receive at least one of these medications. Enrolled patients had to have failed conventional therapy (corticosteroids or immunomodulators) or at least one biologic (a TNFα antagonist and/or vedolizumab). 49% of patients had failed conventional therapy, but not a biologic (of which 94% where biological-naïve). 51% of patients had failed or were intolerant to a biologic. Approximately 50% of the patients had failed at least 1 prior anti-TNFα therapy (of which 48% were primary non-responders) and 17% had failed at least 1 anti-TNFα therapy and vedolizumab.
+
+In UNIFI-I a significantly greater proportion of patients were in clinical remission in the ustekinumab treated group compared to placebo at week 8 (Table 7). As early as Week 2, the earliest scheduled study visit, and at each visit thereafter, a higher proportion of ustekinumab patients had no rectal bleeding or achieved normal stool frequency as compared with placebo patients. Significant differences in partial Mayo score and symptomatic remission were observed between ustekinumab and placebo as early as Week 2.
+
+Efficacy was higher in the tiered dose group (6 mg/kg) compared to the 130 mg dose group in select endpoints, and tiered dosing is therefore the recommended intravenous induction dose.
+
+Table 7 Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
+
+|                                                                 | Placebo N = 319   | Recommended dose of ustekinumab £ N = 322   |
+|-----------------------------------------------------------------|-------------------|---------------------------------------------|
+| Clinical Remission*                                             | 5%                | 16% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 9% (15/158)       | 19% (29/156) c                              |
+| In patients who failed biological therapy ¥                     | 1% (2/161)        | 13% (21/166) b                              |
+| In patients who failed both a TNF and vedolizumab               | 0% (0/47)         | 10% (6/58%) c                               |
+| Clinical Response §                                             | 31%               | 62% a                                       |
+
+<div style=\"page-break-after: always\"></div>
+
+| In patients who failed conventional therapy, but not a biologic   | 35% (56/158)   | 67% (104/156) b   |
+|-------------------------------------------------------------------|----------------|-------------------|
+| In patients who failed biological therapy ¥                       | 27% (44/161)   | 57% (95/166) b    |
+| In patients who failed both a TNF and vedolizumab                 | 28% (13/47)    | 52% (30/58) c     |
+| Mucosal Healing †                                                 | 14%            | 27% a             |
+| In patients who failed conventional therapy, but not a biologic   | 21% (33/158)   | 33% (52/156) c    |
+| In patients who failed biological therapy                         | 7% (11/161)    | 21% (35/166) b    |
+| Symptomatic Remission ‡                                           | 23%            | 45% b             |
+| Combined Symptomatic Remission and Mucosal Healing ⸸              | 8%             | 21% b             |
+
+- £ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1.
+* Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+
+§ Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
+
+- ¥ A TNFα antagonist and/or vedolizumab.
+- † Mucosal healing is defined as a Mayo endoscopic subscore of 0 or 1.
+- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
+- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+- a p &lt; 0.001
+- b Nominally significant (p &lt; 0.001)
+- c Nominally significant (p &lt; 0.05)
+
+UNIFI-M, evaluated 523 patients who achieved clinical response with single IV administration of ustekinumab in UNIFI-I. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the Steqeyma Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
+
+Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 8).
+
+Table 8 Summary of Key Efficacy Measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
+
+|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8 Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
+|-----------------------------------------------------------------|--------------------|-------------------------------------------|--------------------------------------------|
+| Clinical Remission**                                            | 24%                | 44% a                                     | 38% b                                      |
+| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                             | 49% (50/102) d                             |
+| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                             | 23% (16/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 15% (4/27)         | 33% (7/21) e                              | 23% (5/22) e                               |
+| Maintenance of Clinical Response through week 44 §              | 45%                | 71% a                                     | 68% a                                      |
+| In patients who failed conventional therapy, but not a biologic | 51% (44/87)        | 78% (66/85) c                             | 77% (78/102) c                             |
+| In patients who failed biological therapy ¥                     | 39% (34/88)        | 65% (59/91) c                             | 56% (39/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 41% (11/27)        | 67% (14/21) e                             | 50% (11/22) e                              |
+| Mucosal Healing †                                               | 29%                | 51% a                                     | 44% b                                      |
+| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)        | 58% (22/38)                               | 65% (26/40) c                              |
+| Corticosteroid Free Clinical Remission €                        | 23%                | 42% a                                     | 38% b                                      |
+
+<div style=\"page-break-after: always\"></div>
+
+| Durable Remission ‖                                  | 35%   | 57% c   | 48% d   |
+|------------------------------------------------------|-------|---------|---------|
+| Symptomatic Remission ‡                              | 45%   | 68% c   | 62% d   |
+| Combined Symptomatic Remission and Mucosal Healing ⸸ | 28%   | 48% c   | 41% d   |
+
+* Following response to IV ustekinumab.
+- ** Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+- § Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
+- ¥ A TNFα antagonist and/or vedolizumab.
+- † Mucosal healing is defined as a Mayo endoscopic sub-score of 0 or 1.
+- £ Maintenance of clinical remission through Week 44 is defined as patients in clinical remission through Week 44 among patients in clinical remission at maintenance baseline.
+- € Corticosteroid-free clinical remission is defined as patients in clinical remission and not receiving corticosteroids at Week 44.
+- ‖ Durable Remission is defined as partial Mayo remission at ≥80% of all visits prior to Week 44 and in partial Mayo remission at last visit (Week 44).
+- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
+- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+- a p &lt; 0.001
+- b p &lt; 0.05
+- c Nominally significant (p &lt; 0.001)
+- d Nominally significant (p &lt; 0.05)
+- e Not statistically significant
+
+The beneficial effect of ustekinumab on clinical response, mucosal healing and clinical remission was observed in induction and in maintenance both in patients who failed conventional therapy but not a biologic therapy, as well as in those who had failed at least one prior TNFα antagonist therapy including in patients with a primary non-response to TNFα antagonist therapy. A beneficial effect was also observed in induction in patients who failed at least one prior TNFα antagonist therapy and vedolizumab, however the number of patients in this subgroup was too small to draw definitive conclusions about the beneficial effect in this group during maintenance.
+
+## Week 16 Responders to Ustekinumab Induction
+
+Ustekinumab treated patients who were not in response at week 8 of UNIFI-I received an administration of 90 mg SC ustekinumab at week 8 (36% of patients). Of those patients, 9% of patients who were initially randomised to the recommended induction dose achieved clinical remission and 58% achieved clinical response at Week 16.
+
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNFI-I study but were in response at week 16 (157 patients) entered into the non-randomised portion of UNIFI-M and continued to receive maintenance dosing every 8 weeks; among these patients, a majority (62%) maintained response and 30% achieved remission at week 44.
+
+## Study Extension
+
+In UNIFI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 400 patients who entered on and were treated with ustekinumab every 12 or 8 weeks in the study extension, symptomatic remission was generally maintained through week 200 for patients who failed conventional therapy (but not a biologic therapy) and those who failed biologic therapy, including those who failed both anti-TNF and vedolizumab. Among patients who received 4 years of ustekinumab treatment and were assessed using the full Mayo score at maintenance week 200, 74.2% (69/93) and 68.3% (41/60) maintained mucosal healing and clinical remission, respectively.
+
+The safety analysis including 457 patients (1289.9 person-years) followed up to 220 weeks showed a safety profile between week 44 and 220 that was comparable with that observed up to week 44.
+
+<div style=\"page-break-after: always\"></div>
+
+No new safety concerns were identified in this study extension with up to 4 years of treatment in patients with ulcerative colitis.
+
+## Endoscopic Normalisation
+
+Endoscopic normalisation was defined as a Mayo endoscopic subscore of 0 and was observed as early as week 8 of UNIFI-I. At week 44 of UNIFI-M, it was achieved in 24% and 29% of patients treated with ustekinumab every 12 or 8 weeks, respectively, as compared to 18% of patients in the placebo group.
+
+## Histologic &amp; Histo-Endoscopic Mucosal Healing
+
+Histologic healing (defined as neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue) was assessed at week 8 of UNIFI-I and Week 44 of UNIFI-M. At week 8, after a single intravenous induction dose, significantly greater proportions of patients in the recommended dose group achieved histologic healing (36%) compared with patients in the placebo group (22%). At Week 44 maintenance of this effect was observed with significantly more patients in histologic healing in the every 12 week (54%) and every 8 week (59%) ustekinumab groups as compared to placebo (33%).
+
+A combined endpoint of histo-endoscopic mucosal healing defined as subjects having both mucosal healing and histologic healing was evaluated at week 8 of UNIFI-I and week 44 of UNIFI-M. Patients receiving ustekinumab at the recommended dose showed significant improvements on the histoendoscopic mucosal healing endpoint at week 8 in the ustekinumab group (18%) as compared to the placebo group (9%). At week 44, maintenance of this effect was observed with significantly more patients in histo-endoscopic mucosal healing in the every 12 week (39%) and every 8 week (46%) ustekinumab groups as compared to placebo (24%).
+
+## Health-related quality of life
+
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), SF-36 and EuroQoL-5D (EQ-5D) questionnaires.
+
+At week 8 of UNIFI-I, patients receiving ustekinumab showed significantly greater and clinically meaningful improvements on IBDQ total score, EQ-5D and EQ-5D VAS, and SF-36 Mental Component Summary Score and SF-36 Physical Component Summary Score when compared to placebo. These improvements were maintained in ustekinumab-treated patients in UNIFI-M through week 44. Improvement in health-related quality of life as measured by IBDQ and SF-36 was generally maintained during the extension through week 200.
+
+Patients receiving ustekinumab experienced significantly more improvements in work productivity as assessed by greater reductions in overall work impairment and in activity impairment as assessed by the WPAI-GH questionnaire than patients receiving placebo.
+
+## Hospitalisations and ulcerative colitis (UC) related surgeries
+
+Through week 8 of UNIFI-I, the proportions of subjects with UC disease related hospitalisations were significantly lower for subjects in the ustekinumab recommended dose group (1.6%, 5/322) compared with subjects in the placebo group (4.4%, 14/319) and no subjects underwent UC disease related surgeries in subjects receiving ustekinumab at the recommended induction dose compared to 0.6% (2/319) subjects in the placebo group.
+
+Through week 44 of UNIFI-M, a significantly lower number of UC-related hospitalisations was observed in subjects in the combined ustekinumab group (2.0%, 7/348) as compared with subjects in the placebo group (5.7%, 10/175). A numerically lower number of subjects in the ustekinumab group (0.6%, 2/348) underwent UC disease related surgeries compared with subjects in the placebo group (1.7%, 3/175) through week 44.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Immunogenicity
 
-Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising. The formation of anti-ustekinumab antibodies is associated with both increased clearance and reduced efficacy of ustekinumab, except in patients with Crohn's disease where no reduced efficacy was observed. There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
+Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising. The formation of anti-ustekinumab antibodies is associated with both increased clearance and reduced efficacy of ustekinumab, except in patients with Crohn's disease or ulcerative colitis where no reduced efficacy was observed. There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's Disease. The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's Disease and ulcerative colitis. The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -2228,21 +2601,19 @@ The exact metabolic pathway for ustekinumab is unknown.
 
 ## Elimination
 
-Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis or Crohn's disease, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by
-
-<div style=\"page-break-after: always\"></div>
-
-gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
 
 ## Dose linearity
 
 The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Single dose versus multiple doses
 
 Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady-state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
-In patients with Crohn's disease, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
+In patients with Crohn's disease and ulcerative colitis, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively. In patients with ulcerative colitis, median steady-state trough concentrations ranged from 2.69 μg/mL to 3.09 μg/mL and from 0.92 μg/mL to 1.19 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
 
 ## Impact of weight on pharmacokinetics
 
@@ -2250,17 +2621,17 @@ In a population pharmacokinetic analysis using data from patients with psoriasis
 
 ## Dosing frequency adjustment
 
-In patients with Crohn's disease, based on observed data and population PK analyses, randomised subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared with subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy.
+In patients with Crohn's disease and ulcerative colitis, based on observed data and population PK analyses, randomised subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared with subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy. In ulcerative colitis, population PK model based simulations demonstrated that adjusting dosing from 90 mg every 12 weeks to every 8 weeks would be expected to result in a 3-fold increase in steady-state trough ustekinumab concentrations. Additionally on the basis of clinical trial data in patients with ulcerative colitis, a positive exposure-response relationship was established between trough concentrations, and clinical remission and mucosal healing.
 
 ## Special populations
 
 No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted in elderly patients.
 
-The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis.
+The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis and ulcerative colitis.
+
+In patients with Crohn's disease and ulcerative colitis, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
 <div style=\"page-break-after: always\"></div>
-
-In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
 
@@ -2302,13 +2673,17 @@ Steqeyma 45 mg solution for injection in pre-filled pen
 
 Steqeyma 90 mg solution for injection in pre-filled pen
 
-## 4 years
+4 years
 
 Individual pre-filled pens may be stored at room temperature up to 25 °C for a maximum single period of up to 31 days in the original carton in order to protect from light. Record the date when the prefilled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this 31-day period at room temperature, the product can be returned to the refrigerator once, and stored there until the original expiry date. Discard the pen if not used within 31 days at room temperature storage or by the original expiry date, whichever is earlier.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light. If needed, individual pre-filled pens may be stored at room temperature up to 25 °C (see section 6.3).
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+
+Keep the pre-filled pen in the outer carton in order to protect from light.
+
+If needed, individual pre-filled pens may be stored at room temperature up to 25 °C (see section 6.3).
 
 ## 6.5 Nature and contents of container
 
@@ -2332,7 +2707,13 @@ Steqeyma does not contain preservatives; therefore any unused medicinal product 
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Hungary
+Celltrion Healthcare Hungary Kft.
+
+1062 Budapest
+
+Váci út 1-3. WestEnd Office Building B torony
+
+Hungary
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2351,6 +2732,8 @@ Date of first authorisation: 22 Aug 2024
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+80
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2412,13 +2795,17 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON (130 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Steqeyma 130 mg concentrate for solution for infusion ustekinumab
+Steqeyma 130 mg concentrate for solution for infusion
+
+ustekinumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2456,9 +2843,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-
-<div style=\"page-break-after: always\"></div>
+Write the date removed from the refrigerator:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2470,7 +2855,7 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-Can be stored at room temperature (up to 30 °C) for a single period up to 31 days, but not exceeding the original expiry date.
+Can be stored at room temperature (up to 25 °C) for a single period up to 31 days, but not exceeding the original expiry date.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2492,8 +2877,9 @@ EU/1/24/1844/003
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2505,21 +2891,19 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-VIAL LABEL TEXT (130 mg)
+## VIAL LABEL TEXT (130 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Steqeyma 130 mg Sterile concentrate ustekinumab
+Steqeyma 130 mg Sterile concentrate
+
+ustekinumab
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -2529,7 +2913,8 @@ For IV use after dilution. Do not shake.
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -2537,15 +2922,20 @@ Lot
 
 130 mg/26 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## VIAL OUTER CARTON TEXT (45 mg)
+VIAL OUTER CARTON TEXT (45 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Steqeyma 45 mg solution for injection ustekinumab
+Steqeyma 45 mg solution for injection
+
+ustekinumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2587,8 +2977,6 @@ Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -2619,9 +3007,9 @@ EU/1/24/1844/004
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2641,16 +3029,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL TEXT (45 mg)                                          |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL TEXT (45 mg)                                            |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Steqeyma 45 mg solution for injection ustekinumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2662,12 +3051,15 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 45 mg/0.5 mL
 
 | 6.   | OTHER   |
 |------|---------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2715,8 +3107,6 @@ Write the date removed from the refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -2747,9 +3137,9 @@ EU/1/24/1844/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2769,16 +3159,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL TEXT (45 mg)                              |
 
-## PRE-FILLED SYRINGE LABEL TEXT (45 mg)
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+Steqeyma 45 mg Injection ustekinumab
 
-Steqeyma 45 mg Injection ustekinumab SC
+SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2790,17 +3183,19 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 45 mg/0.5 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## PRE-FILLED SYRINGE CARTON TEXT (90 mg)
+PRE-FILLED SYRINGE CARTON TEXT (90 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2844,8 +3239,6 @@ Write the date removed from the refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -2876,9 +3269,9 @@ EU/1/24/1844/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2898,17 +3291,22 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL TEXT (90 mg)                              |
 
-## PRE-FILLED SYRINGE LABEL TEXT (90 mg)
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+Steqeyma 90 mg Injection ustekinumab
 
-Steqeyma 90 mg Injection ustekinumab SC
+SC
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -2917,13 +3315,15 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 90 mg/1 mL
 
 | 6.   | OTHER   |
 |------|---------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2971,8 +3371,6 @@ Write the date removed from the refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -3003,9 +3401,9 @@ EU/1/24/1844/005
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3025,17 +3423,22 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL TEXT (45 mg)                                  |
 
-## PRE-FILLED PEN LABEL TEXT (45 mg)
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+Steqeyma 45 mg Injection ustekinumab
 
-Steqeyma 45 mg Injection ustekinumab SC
+SC
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -3044,16 +3447,19 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 45 mg/0.5 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-PRE-FILLED PEN CARTON TEXT (90 mg)
+## PRE-FILLED PEN CARTON TEXT (90 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3097,8 +3503,6 @@ Write the date removed from the refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -3129,9 +3533,9 @@ EU/1/24/1844/006
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3151,17 +3555,18 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL TEXT (90 mg)                                  |
 
-## PRE-FILLED PEN LABEL TEXT (90 mg)
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+Steqeyma 90 mg Injection ustekinumab
 
-Steqeyma 90 mg Injection ustekinumab SC
+SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3173,8 +3578,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 90 mg/1 mL
 
@@ -3193,7 +3598,7 @@ Lot
 
 ## Steqeyma 130 mg concentrate for solution for infusion
 
-## ustekinumab
+ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -3201,9 +3606,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## This leaflet has been written for the person taking the medicine.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3227,10 +3632,17 @@ Steqeyma belongs to a group of medicines called 'immunosuppressants'. These medi
 Steqeyma is used to treat the following inflammatory diseases:
 
 -  Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
+-  Moderate to severe ulcerative colitis - in adults
 
 ## Crohn's disease
 
 Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Steqeyma to reduce the signs and symptoms of your disease.
+
+## Ulcerative colitis
+
+Ulcerative colitis is an inflammatory disease of the bowel. If you have ulcerative colitis you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Steqeyma to reduce the signs and symptoms of your disease.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 2. What you need to know before you use Steqeyma
 
@@ -3241,11 +3653,9 @@ Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's dis
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Steqeyma.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
-Talk to your doctor or pharmacist before using Steqeyma. Your doctor will check how well you are before each treatment. Make sure you tell your doctor about any illness you have before each treatment. Also tell your doctor if you have recently been near anyone who might have tuberculosis. Your doctor will examine you and do a test for tuberculosis, before you have Steqeyma. If your doctor thinks you are at risk of tuberculosis, you may be given medicines to treat it.
+Talk to your doctor or pharmacist before using Steqeyma. Your doctor will check how well you are before treatment. Make sure you tell your doctor about any illness you have before treatment. Also tell your doctor if you have recently been near anyone who might have tuberculosis. Your doctor will examine you and do a test for tuberculosis, before you have Steqeyma. If your doctor thinks you are at risk of tuberculosis, you may be given medicines to treat it.
 
 ## Look out for serious side effects
 
@@ -3270,9 +3680,11 @@ Some patients have experienced lupus-like reactions including skin lupus or lupu
 
 Heart attack and strokes have been observed in a study in patients with psoriasis treated with ustekinumab. Your doctor will regularly check your risk factors for heart disease and stroke in order to ensure that they are appropriately treated. Seek medical attention right away if you develop chest pain, weakness or abnormal sensation on one side of your body, facial droop, or speech or visual abnormalities.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Children and adolescents
 
-Steqeyma is not recommended for use in children who weigh less than 40 kg with Crohn's disease because it has not been studied in this age group.
+Steqeyma is not recommended for use in children who weigh less than 40 kg with Crohn's disease or children under 18 years of age with ulcerative colitis because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Steqeyma
 
@@ -3280,11 +3692,7 @@ Tell your doctor or pharmacist:
 
 -  If you are taking, have recently taken or might take any other medicines.
 -  If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Steqeyma.
--  If you received Steqeyma while pregnant, tell your baby's doctor about your Steqeyma treatment before the baby receives any vaccine, including live vaccines, such as the BCG
-
-<div style=\"page-break-after: always\"></div>
-
-vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Steqeyma during the pregnancy unless your baby's doctor recommends otherwise.
+-  If you received Steqeyma while pregnant, tell your baby's doctor about your Steqeyma treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Steqeyma during the pregnancy unless your baby's doctor recommends otherwise.
 
 ## Pregnancy and breast-feeding
 
@@ -3309,9 +3717,11 @@ Steqeyma contains 10.37 mg of polysorbate 80 (E433) in each dosage unit which is
 
 ## 3. How Steqeyma will be given
 
-Steqeyma is intended for use under the guidance and supervision of a doctor experienced in the diagnosis and treatment of Crohn's disease.
+Steqeyma is intended for use under the guidance and supervision of a doctor experienced in the diagnosis and treatment of Crohn's disease or ulcerative colitis.
 
 Steqeyma 130 mg concentrate for solution for infusion will be given to you by your doctor, through a drip in the vein of your arm (intravenous infusion) over at least one hour. Talk to your doctor about when you will have your injections and follow-up appointments.
+
+<div style=\"page-break-after: always\"></div>
 
 ## How much Steqeyma is given
 
@@ -3320,18 +3730,13 @@ Your doctor will decide how much Steqeyma you need to receive and for how long.
 ## Adults aged 18 years or older
 
 -  The doctor will work out the recommended intravenous infusion dose for you based on your body weight.
+-  After the starting intravenous dose, you will have the next dose of 90 mg Steqeyma by an injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks thereafter.
 
 | Your body weight   | Dose   |
 |--------------------|--------|
 | ≤ 55 kg            | 260 mg |
-
-<div style=\"page-break-after: always\"></div>
-
-| > 55 kg to ≤ 85 kg   | 390 mg   |
-|----------------------|----------|
-| > 85 kg              | 520 mg   |
-
--  After the starting intravenous dose, you will have the next dose of 90 mg Steqeyma by an injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks thereafter.
+| > 55 kg to ≤ 85 kg | 390 mg |
+| > 85 kg            | 520 mg |
 
 ## Children with Crohn's disease who weigh at least 40 kg
 
@@ -3346,7 +3751,7 @@ Your doctor will decide how much Steqeyma you need to receive and for how long.
 
 ## How Steqeyma is given
 
--  The first dose of Steqeyma for treatment of Crohn's disease is given by a doctor as a drip in the vein of an arm (intravenous infusion).
+-  The first dose of Steqeyma for treatment of Crohn's disease or ulcerative colitis is given by a doctor as a drip in the vein of an arm (intravenous infusion).
 
 Talk to your doctor if you have any questions about receiving Steqeyma.
 
@@ -3364,6 +3769,8 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Serious side effects
 
 Some patients may have serious side effects that may need urgent treatment.
@@ -3376,9 +3783,7 @@ Some patients may have serious side effects that may need urgent treatment.
 - swelling of the face, lips, mouth or throat.
 -  Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
 
-Infusion-related reactions - If you are being treated for Crohn's disease, the first dose of Steqeyma is given through a drip into a vein (intravenous infusion). Some patients have experienced serious allergic reactions during the infusion.
-
-<div style=\"page-break-after: always\"></div>
+Infusion-related reactions - If you are being treated for Crohn's disease or ulcerative colitis, the first dose of Steqeyma is given through a drip into a vein (intravenous infusion). Some patients have experienced serious allergic reactions during the infusion.
 
 In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
 
@@ -3405,11 +3810,13 @@ You must look out for signs of infection while you are using Steqeyma. These inc
 
 Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Steqeyma until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
 
+<div style=\"page-break-after: always\"></div>
+
 Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
 
 ## Other side effects
 
-Common side effects (may affect up to 1 in 10 people):
+## Common side effects (may affect up to 1 in 10 people):
 
 -  Diarrhoea
 -  Nausea
@@ -3422,8 +3829,6 @@ Common side effects (may affect up to 1 in 10 people):
 -  Sore throat
 -  Redness and pain where the injection is given
 -  Sinus infection
-
-<div style=\"page-break-after: always\"></div>
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
@@ -3457,8 +3862,11 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 -  Steqeyma 130 mg concentrate for solution for infusion is given in a hospital or clinic and patients should not need to store or handle it.
 -  Keep this medicine out of the sight and reach of children.
 -  Store in a refrigerator (2 °C-8 °C). Do not freeze.
+
+<div style=\"page-break-after: always\"></div>
+
 -  Keep the vial in the outer carton in order to protect from light.
--  If needed, individual Steqeyma vials may also be stored at room temperature up to 30 °C for a maximum single period of up to 31 days in the original carton in order to protect from light. Record the date when the vial is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a vial has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the vial if not used within 31 days at room temperature storage or by the original expiry date, whichever is earlier.
+-  If needed, individual Steqeyma vials may also be stored at room temperature up to 25 °C for a maximum single period of up to 31 days in the original carton in order to protect from light. Record the date when the vial is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this 31-day period at room temperature, the product can be returned to the refrigerator once, and stored there until the original expiry date. Discard the vial if not used within 31 days at room temperature storage or by the original expiry date, whichever is earlier.
 -  Do not shake the Steqeyma vials. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
@@ -3466,9 +3874,6 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 -  After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
 -  If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Steqeyma looks like and contents of the pack').
 -  If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
-
-<div style=\"page-break-after: always\"></div>
-
 -  If the product has been shaken vigorously.
 -  If the seal is broken.
 
@@ -3495,11 +3900,11 @@ Nuvisan France SARL 2400, Route des Colles 06410, Biot France
 
 MIDAS Pharma GmbH Rheinstrasse 49 55218 West Ingelheim Am Rhein Rhineland-Palatinate Germany
 
-Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles 08290 Cerdanyola Del Valles Barcelona Spain
+Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles 08290 Cerdanyola Del Valles Barcelona Spain For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
-België/Belgique/Belgien
+## België/Belgique/Belgien
 
 Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
@@ -3507,31 +3912,19 @@ Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.co
 
 Celltrion Healthcare Hungary Kft. Teл.: + 36 1 231 0493
 
-## Lietuva
-
-Celltrion Healthcare Hungary Kft.
-
-Tel.: +36 1 231 0493
-
-Luxembourg/Luxemburg Celltrion Healthcare Belgium BVBA
-
-Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
-
-<div style=\"page-break-after: always\"></div>
-
 ## Česká republika
 
 Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
 
 ## Danmark
 
-Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989 contact\\_dk@celltrionhc.com
+Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989
+
+contact\\_dk@celltrionhc.com
 
 ## Deutschland
 
-Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150
-
-infoDE@celltrionhc.com
+Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionhc.com
 
 ## Eesti
 
@@ -3545,7 +3938,9 @@ Kern Pharma, S.L. Tel: +34 93 700 2525
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α . Ε . Τηλ : +30 210 8009111
+ΒΙΑΝΕΞ Α.Ε.
+
+Τηλ: +30 210 8009111
 
 ## France
 
@@ -3555,23 +3950,13 @@ Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
 
 Oktal Pharma d.o.o. Tel: +385 1 6595 777
 
-## Ireland
+## Lietuva
 
-Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026 enquiry\\_ie@celltrionhc.com
+Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
-## Ísland
+## Luxembourg/Luxemburg
 
-Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493 contact\\_fi@celltrionhc.com
-
-## Italia
-
-Celltrion Healthcare Italy S.R.L. Tel: +39 0247927040
-
-celltrionhealthcare\\_italy@legalmail.it
-
-## Κύπρος
-
-C.A. Papaellinas Ltd Τηλ: +357 22741741
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 ## Magyarország
 
@@ -3583,9 +3968,7 @@ Mint Health Ltd Tel: +356 2093 9800
 
 ## Nederland
 
-Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300
-
-NLinfo@celltrionhc.com
+Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
 
 ## Norge
 
@@ -3593,7 +3976,9 @@ Celltrion Healthcare Norway AS contact\\_no@celltrionhc.com
 
 ## Österreich
 
-Astro-Pharma GmbH Tel: +43 1 97 99 860
+Astro-Pharma GmbH
+
+Tel: +43 1 97 99 860
 
 ## Polska
 
@@ -3601,29 +3986,53 @@ Celltrion Healthcare Hungary Kft.
 
 Tel.: + 36 1 231 0493
 
-Portugal CELLTRION PORTUGAL, UNIPESSOAL LDA Tel: +351 21 936 8542 contact\\_pt@celltrion.com
+## Portugal
+
+CELLTRION PORTUGAL, UNIPESSOAL LDA Tel: +351 21 936 8542 contact\\_pt@celltrion.com
 
 ## România
 
 Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
 
-## Slovenija
-
-OPH Oktal Pharma d.o.o. Tel.: +386 1 519 29 22
-
-## Slovenská republika
-
-Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
-
-Suomi/Finland Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
-
-Sverige Celltrion Sweden AB Tel: +46 8 80 11 77 Contact\\_se@celltrionhc.com
-
-Latvija Celltrion Healthcare Hungary Kft. Tālr.: +36 1 231 0493
-
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in &lt; { MM/YYYY }&gt;.
+## Ireland
+
+Celltrion Healthcare Ireland Limited
+
+Tel: +353 1 223 4026
+
+enquiry\\_ie@celltrionhc.com
+
+## Ísland
+
+Celltrion Healthcare Hungary Kft.
+
+Sími: +36 1 231 0493
+
+contact\\_fi@celltrionhc.com
+
+## Italia
+
+Celltrion Healthcare Italy S.R.L.
+
+Tel: +39 0247927040
+
+celltrionhealthcare\\_italy@legalmail.it
+
+## Κύπρος
+
+C.A. Papaellinas Ltd
+
+Τηλ: +357 22741741
+
+## Latvija
+
+Celltrion Healthcare Hungary Kft.
+
+Tālr.: +36 1 231 0493
+
+## This leaflet was last revised in &lt;{MM/YYYY}&gt;.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
@@ -3644,12 +4053,41 @@ Steqeyma concentrate for solution for infusion must be diluted, prepared and inf
 3. Withdraw 26 mL of Steqeyma from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently mix.
 4. Visually inspect the diluted solution before infusion. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
 5. Infuse the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within forty-eight hours of the dilution in the infusion bag.
+
+## Slovenija
+
+OPH Oktal Pharma d.o.o.
+
+Tel.: +386 1 519 29 22
+
+## Slovenská republika
+
+Celltrion Healthcare Hungary Kft.
+
+Tel: +36 1 231 0493
+
+## Suomi/Finland
+
+Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755
+
+contact\\_fi@celltrionhc.com
+
+## Sverige
+
+Celltrion Sweden AB
+
+Tel: +46 8 80 11 77
+
+Contact\\_se@celltrionhc.com
+
+<div style=\"page-break-after: always\"></div>
+
 6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
 7. Each vial is for single use only and any unused medicinal product should be disposed of in accordance with local requirements.
 
 ## Storage
 
-If necessary, the diluted infusion solution may be stored at room temperature up to 30 °C. The infusion should be completed within 48 hours of the dilution in the infusion bag. Do not freeze.
+If necessary, the diluted infusion solution may be stored at room temperature up to 25 °C. The infusion should be completed within 48 hours of the dilution in the infusion bag. Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3667,10 +4105,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Steqeyma to a child, please read this information carefully.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3696,6 +4134,7 @@ Steqeyma is used to treat the following inflammatory diseases:
 -  Plaque psoriasis - in adults and children aged 6 years and older
 -  Psoriatic arthritis - in adults
 -  Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
+-  Moderate to severe ulcerative colitis - in adults
 
 ## Plaque psoriasis
 
@@ -3703,9 +4142,9 @@ Plaque psoriasis is a skin condition that causes inflammation affecting the skin
 
 Steqeyma is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
 
-Steqeyma is used in children and adolescents aged 6 years and older with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
-
 <div style=\"page-break-after: always\"></div>
+
+Steqeyma is used in children and adolescents aged 6 years and older with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
 
 ## Psoriatic arthritis
 
@@ -3718,6 +4157,10 @@ Psoriatic arthritis is an inflammatory disease of the joints, usually accompanie
 ## Crohn's disease
 
 Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Steqeyma to reduce the signs and symptoms of your disease.
+
+## Ulcerative colitis
+
+Ulcerative colitis is an inflammatory disease of the bowel. If you have ulcerative colitis you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Steqeyma to reduce the signs and symptoms of your disease.
 
 ## 2. What you need to know before you use Steqeyma
 
@@ -3743,13 +4186,16 @@ Steqeyma can cause serious side effects, including allergic reactions and infect
 -  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
 -  If you have or have had a recent infection.
 -  If you have any new or changing lesions within psoriasis areas or on normal skin.
--  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies together with ustekinumab has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
+-  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using
+
+<div style=\"page-break-after: always\"></div>
+
+these therapies together with ustekinumab has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
+
 -  If you are having or have ever had injections to treat allergies - it is not known if ustekinumab may affect these.
 -  If you are 65 years of age or over - you may be more likely to get infections.
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Steqeyma.
-
-<div style=\"page-break-after: always\"></div>
 
 Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
@@ -3759,7 +4205,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Steqeyma is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis because it has not been studied in this age group.
+Steqeyma is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis, or ulcerative colitis because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Steqeyma
 
@@ -3778,6 +4224,8 @@ Tell your doctor or pharmacist:
 -  It is important that you tell your baby's doctors and other health care professionals if you received Steqeyma during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Steqeyma during the pregnancy unless your baby's doctor recommends otherwise.
 -  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Steqeyma - do not do both.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Steqeyma has no or negligible influence on the ability to drive and use machines.
@@ -3785,8 +4233,6 @@ Steqeyma has no or negligible influence on the ability to drive and use machines
 ## Steqeyma contains polysorbate 80
 
 Steqeyma contains 0.02 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use Steqeyma
 
@@ -3798,21 +4244,17 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Steqeyma you need to use and for how long.
 
-## Adults aged 18 years or older
-
-## Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
 
 -  The recommended starting dose is 45 mg Steqeyma. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
 
-## Crohn's disease
+## Crohn's disease or Ulcerative Colitis
 
 -  During treatment, the first dose of approximately 6 mg/kg Steqeyma will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Steqeyma after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 -  In some patients, after the first injection under the skin, 90 mg Steqeyma may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
 
-## Children and adolescents aged 6 years or older
-
-## Psoriasis
+## Children and adolescents aged 6 years or older Psoriasis
 
 -  The doctor will work out the right dose for you, including the amount (volume) of Steqeyma to be injected to give the right dose. The right dose for you will depend on your body weight at the time each dose is given.
 -  If you weigh less than 60 kg, the recommended dose is 0.75 mg of Steqeyma per kg body weight.
@@ -3820,10 +4262,14 @@ Your doctor will decide how much Steqeyma you need to use and for how long.
 -  If you weigh more than 100 kg, the recommended dose is 90 mg Steqeyma.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
-## Children who weigh at least 40 kg Crohn's disease
+## Children who weigh at least 40 kg
+
+## Crohn's disease
 
 -  During treatment, the first dose of approximately 6 mg/kg Steqeyma will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Steqeyma after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
--  In some patients, after the first injection under the skin, 90 mg Steqeyma may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+-  In some patients, after the first injection under the skin, 90 mg Steqeyma may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## How Steqeyma is given
 
@@ -3832,8 +4278,6 @@ Your doctor will decide how much Steqeyma you need to use and for how long.
 -  For instructions on how to inject Steqeyma, see 'Instructions for administration' at the end of this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you use more Steqeyma than you should
 
@@ -3876,6 +4320,8 @@ If you have a serious allergic reaction, your doctor may decide that you should 
 -  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
 -  Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
 
+<div style=\"page-break-after: always\"></div>
+
 Steqeyma may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
 
 You must look out for signs of infection while you are using Steqeyma. These include:
@@ -3883,9 +4329,6 @@ You must look out for signs of infection while you are using Steqeyma. These inc
 -  fever, flu-like symptoms, night sweats, weight loss
 -  feeling tired or short of breath; cough which will not go away
 -  warm, red and painful skin, or a painful skin rash with blisters
-
-<div style=\"page-break-after: always\"></div>
-
 -  burning when passing water
 -  diarrhoea
 -  visual disturbance or vision loss
@@ -3897,7 +4340,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 ## Other side effects
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people):
 
 -  Diarrhoea
 -  Nausea
@@ -3911,7 +4354,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-## Uncommon side effects (may affect up to 1 in 100 people):
+Uncommon side effects (may affect up to 1 in 100 people):
 
 -  Tooth infections
 -  Vaginal yeast infection
@@ -3924,6 +4367,8 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Peeling of the skin (skin exfoliation)
 -  Acne
 
+<div style=\"page-break-after: always\"></div>
+
 ## Rare side effects (may affect up to 1 in 1 000 people)
 
 -  Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
@@ -3933,8 +4378,6 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 -  Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
 -  Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -3965,15 +4408,15 @@ Steqeyma is for single use only. Any unused product remaining in the vial and th
 -  The active substance is ustekinumab. Each vial contains 45 mg ustekinumab in 0.5 mL.
 -  The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E433), sucrose and water for injections.
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Steqeyma looks like and contents of the pack
 
-Steqeyma is a clear to slightly opalescent (having a pearl-like shine), colourless to pale yellow solution for injection. It is supplied as a carton pack containing 1 single-dose, glass 3 mL vial. Each vial contains 45 mg ustekinumab in 0.5 mL of solution for injection.
+Steqeyma is a clear to slightly opalescent (having a pearl-like shine), colourless to pale yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 3 mL vial. Each vial contains 45 mg ustekinumab in 0.5 mL of solution for injection.
 
 ## Marketing Authorisation Holder
 
 Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Hungary
-
-<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -3999,21 +4442,9 @@ Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
 
 ## Danmark
 
-Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989 contact\\_dk@celltrionhc.com
+Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989
 
-## Deutschland
-
-Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionhc.com
-
-## Eesti
-
-Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
-
-contact\\_fi@celltrionhc.com
-
-## España
-
-Kern Pharma, S.L. Tel: +34 93 700 2525
+contact\\_dk@celltrionhc.com
 
 ## Lietuva
 
@@ -4031,127 +4462,111 @@ Celltrion Healthcare Hungary Kft. Tel.: + 36 1 231 0493
 
 Mint Health Ltd Tel: +356 2093 9800
 
-## Nederland
+<div style=\"page-break-after: always\"></div>
 
-Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300
+Deutschland Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionhc.com Nederland Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
 
-NLinfo@celltrionhc.com
-
-## Norge
-
-Celltrion Healthcare Norway AS
-
-contact\\_no@celltrionhc.com
-
-## Österreich
-
-Astro-Pharma GmbH Tel: +43 1 97 99 860
-
-## Ελλάδα
-
-ΒΙΑΝΕΞ Α . Ε .
-
-Τηλ
-
-: +30 210 8009111
-
-## Polska
-
-Celltrion Healthcare Hungary Kft.
-
-Tel.: + 36 1 231 0493
-
-## France
-
-Celltrion Healthcare France SAS
-
-Tél.: +33 (0)1 71 25 27 00
-
-## Portugal
-
-CELLTRION PORTUGAL, UNIPESSOAL LDA
-
-Tel: +351 21 936 8542
-
-contact\\_pt@celltrion.com
-
-## Hrvatska
-
-Oktal Pharma d.o.o.
-
-Tel: +385 1 6595 777
-
-## România
-
-Celltrion Healthcare Hungary Kft.
-
-Tel: + 36 1 231 0493
-
-## Ireland
-
-Celltrion Healthcare Ireland Limited
-
-Tel: +353 1 223 4026
-
-enquiry\\_ie@celltrionhc.com
-
-## Slovenija
-
-OPH Oktal Pharma d.o.o.
-
-Tel.: +386 1 519 29 22
-
-## Ísland
-
-Celltrion Healthcare Hungary Kft.
-
-Sími: +36 1 231 0493
-
-contact\\_fi@celltrionhc.com
-
-## Slovenská republika
+Eesti
 
 Celltrion Healthcare Hungary Kft.
 
 Tel: +36 1 231 0493
 
-## Italia
+contact\\_fi@celltrionhc.com
 
-Celltrion Healthcare Italy S.R.L.
+España
 
-Tel: +39 0247927040
+Kern Pharma, S.L. Tel: +34 93 700 2525
+
+Ελλάδα
+
+ΒΙΑΝΕΞ Α.Ε. Τηλ: +30 210 8009111
+
+France
+
+Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
+
+Hrvatska
+
+Oktal Pharma d.o.o. Tel: +385 1 6595 777
+
+Ireland
+
+Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026
+
+enquiry\\_ie@celltrionhc.com
+
+Ísland
+
+Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493
+
+contact\\_fi@celltrionhc.com
+
+Italia
+
+Celltrion Healthcare Italy S.R.L. Tel: +39 0247927040
 
 celltrionhealthcare\\_italy@legalmail.it
 
+Κύπρος
+
+C.A. Papaellinas Ltd Τηλ: +357 22741741
+
+Latvija
+
+Celltrion Healthcare Hungary Kft. Tālr.: +36 1 231 0493
+
+## This leaflet was last revised in &lt;{MM/YYYY}&gt;.
+
+123
+
+Norge
+
+Celltrion Healthcare Norway AS
+
+contact\\_no@celltrionhc.com
+
+Österreich
+
+Astro-Pharma GmbH Tel: +43 1 97 99 860
+
+Polska
+
+Celltrion Healthcare Hungary Kft. Tel.: + 36 1 231 0493
+
+Portugal
+
+CELLTRION PORTUGAL, UNIPESSOAL
+
+LDA
+
+Tel: +351 21 936 8542
+
+contact\\_pt@celltrion.com
+
+România
+
+Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
+
+Slovenija
+
+OPH Oktal Pharma d.o.o. Tel.: +386 1 519 29 22
+
+## Slovenská republika
+
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+
 ## Suomi/Finland
 
-Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
+Celltrion Healthcare Finland Oy.
 
-## Κύπρος
+Puh/Tel: +358 29 170 7755
 
-C.A. Papaellinas Ltd
+contact\\_fi@celltrionhc.com
 
-Τηλ:
-
-+357 22741741
-
-## Sverige
-
-Celltrion Sweden AB
-
-Tel: +46 8 80 11 77
+Sverige Celltrion Sweden AB Tel: +46 8 80 11 77
 
 Contact\\_se@celltrionhc.com
-
-## Latvija
-
-Celltrion Healthcare Hungary Kft.
-
-Tālr.:
-
-+36 1 231 0493
-
-## This leaflet was last revised in &lt; { MM/YYYY }&gt;.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
@@ -4176,9 +4591,9 @@ This Steqeyma vial is for single use only. It contains 45 mg of Steqeyma for inj
 - Read all of the instructions carefully before using Steqeyma.
 - Ask your healthcare provider how often you will need to inject the medicine.
 - Before you start, check the carton to make sure that it is the right dose.
-- -If your dose is 45 mg or less, you will receive one 45 mg vial.
-- -If your dose is 90 mg, you will receive two 45 mg vials, and you will need to give yourself two injections, one right after the other.
-- In children and adolescents (6 to 17 years of age) , it is recommended that Steqeyma be administered by or under supervision of an adult.
+- If your dose is 45 mg or less, you will receive one 45 mg vial.
+- If your dose is 90 mg, you will receive two 45 mg vials, and you will need to give yourself two injections, one right after the other.
+- In children and adolescents (6 to 17 years of age), it is recommended that Steqeyma be administered by or under supervision of an adult.
 - Children with paediatric psoriasis weighing less than 60 kg need a dose lower than 45 mg.
 - Always use the syringe provided by your pharmacist to make sure you measure the right amount of Steqeyma medication.
 - Check the expiration date on the vial and carton. If the expiration date has passed, do not use it. If the expiration date has passed, call your doctor or pharmacist for help.
@@ -4194,7 +4609,7 @@ This Steqeyma vial is for single use only. It contains 45 mg of Steqeyma for inj
 ## Storing Steqeyma
 
 - Store the unused Steqeyma vial in a refrigerator between 2 °C to 8 °C.
-- -If  needed,  individual  vials  may  be  stored  at  room  temperature  up  to  30 °C  for  a maximum single period of up to 15 days in the original carton to protect from light. Discard the vial if not used within 15 days at room temperature storage.
+- If needed, individual vials may be stored at room temperature up to 30 °C for a maximum single period of up to 15 days in the original carton to protect from light. Discard the vial if not used within 15 days at room temperature storage.
 - Store Steqeyma vial in the original carton to protect from light.
 - Do not remove the Steqeyma vial from its original carton during storage.
 - Do not shake the Steqeyma vial at any time.
@@ -4203,12 +4618,6 @@ This Steqeyma vial is for single use only. It contains 45 mg of Steqeyma for inj
 - Do not freeze the Steqeyma vial.
 
 <div style=\"page-break-after: always\"></div>
-
-Plunger rod
-
-Vial
-
-Protective cap
 
 - Do not put the Steqeyma vial into direct sunlight.
 - Keep Steqeyma vial and all medicines out of the sight and reach of children. Contains small parts.
@@ -4225,7 +4634,7 @@ Figure A
 
 - a. Prepare a clean, flat surface, such as a table or countertop, in a well-lit area.
 - b. Take the carton containing the Steqeyma vial that is needed to administer your prescribed dose out of the refrigerator.
-- c. Make sure you have the following supplies (see Figure B ):
+- c. Make sure you have the following supplies (see Figure B):
 4. ­ Carton containing the Steqeyma vial
 
 ## Not included in the carton:
@@ -4239,12 +4648,6 @@ Figure A
 Note: You may need a prescription from your healthcare provider to get syringes with the needles attached from your pharmacy.
 
 <div style=\"page-break-after: always\"></div>
-
-Carton containing
-
-STEQEYMA vial wipes
-
-EXP: MM/YYYY
 
 Figure B
 
@@ -4261,17 +4664,11 @@ Figure C
 ## 3. Wait 30 minutes.
 
 - a. Take the carton containing the Steqeyma vial out of the refrigerator.
-- b. Leave the carton at room temperature 20 °C to 25 °C for 30 minutes to allow it to warm up (see Figure D ).
+- b. Leave the carton at room temperature 20 °C to 25 °C for 30 minutes to allow it to warm up (see Figure D).
 - Do not warm the vial using heat sources such as hot water or a microwave.
 - If the vial does not reach room temperature, this could cause the injection to feel uncomfortable and make it hard to inject.
 
 <div style=\"page-break-after: always\"></div>
-
-30
-
-minutes
-
-EXP: MM/YYYY
 
 Figure D
 
@@ -4282,7 +4679,7 @@ Figure D
 - a. Look at the vial and make sure you have the correct medicine (Steqeyma) and dosage.
 - b. Look at the vial and make sure it is not cracked or damaged.
 - Do not use Steqeyma if the vial has been dropped or damaged.
-- c. Check the expiration date on the label of the vial (see Figure E ).
+- c. Check the expiration date on the label of the vial (see Figure E).
 - Do not use Steqeyma if the expiration date has passed.
 
 Figure E
@@ -4291,7 +4688,7 @@ Figure E
 
 ## 5. Inspect the medicine.
 
-- a. Look at the medicine in the vial and confirm that the liquid is clear to slightly opalescent and colourless to pale yellow. (see Figure F ).
+- a. Look at the medicine in the vial and confirm that the liquid is clear to slightly opalescent and colourless to pale yellow. (see Figure F).
 - Do not use Steqeyma if the liquid is discoloured or cloudy, or if it contains visible flakes or particles.
 
 Figure F
@@ -4299,10 +4696,6 @@ Figure F
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-= Caregiver ONLY
-
-= Self-injection and Caregiver
 
 ## 6. Choose an appropriate injection site (see Figure G).
 
@@ -4320,7 +4713,7 @@ Figure G
 
 ## 7. Wash your hands.
 
-- a. Wash your hands with soap and water and dry them thoroughly (see Figure H ).
+- a. Wash your hands with soap and water and dry them thoroughly (see Figure H).
 
 Figure H
 
@@ -4328,10 +4721,8 @@ Figure H
 
 ## 8. Clean the injection site.
 
-- a. Clean the skin with an alcohol swab where you plan to give your injection using a circular motion (see Figure I ).
+- a. Clean the skin with an alcohol swab where you plan to give your injection using a circular motion (see Figure I).
 - Let your skin dry before injecting. Do not blow on or touch the injection site again before giving the injection.
-
-Front
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4341,7 +4732,7 @@ Figure I
 
 ## 9. Remove the protective cap from the vial.
 
-- a. Remove the protective cap from the Steqeyma vial (see Figure J ).
+- a. Remove the protective cap from the Steqeyma vial (see Figure J).
 - Do not remove the rubber stopper.
 
 Figure J
@@ -4357,7 +4748,7 @@ Figure J
 ## 11. Remove the needle cap from the syringe.
 
 - a. Hold the syringe at the middle of the syringe body with the needle pointing away from yourself, and pull the needle cap straight off the syringe.
-- b. Dispose of the needle cap right away in a sharps disposal container (see Step 19. Dispose of Steqeyma ).
+- b. Dispose of the needle cap right away in a sharps disposal container (see Step 19. Dispose of Steqeyma).
 - Do not re-cap the syringe.
 - Do not touch the needle or let the needle touch anything. Doing so may result in a needle stick injury.
 - Do not use the syringe if it has been dropped without the needle cap in place. If this happens call your doctor, nurse or health professional for further instructions.
@@ -4368,12 +4759,10 @@ Figure J
 
 <div style=\"page-break-after: always\"></div>
 
-prescribed dose.
-
 - b. Leave the needle in the vial and turn both the syringe and vial upside down (vial on top).
 - c. Hold the syringe and vial firmly in one hand. Make sure the tip of the needle is in the liquid.
 - It is important that the needle tip is always in the liquid. This stops air bubbles from forming in the syringe.
-- d. With your other hand, pull on the plunger rod to fill the syringe with the amount of liquid prescribed by your doctor. (see Figure K ).
+- d. With your other hand, pull on the plunger rod to fill the syringe with the amount of liquid prescribed by your doctor. (see Figure K).
 - Fill the syringe until the black tip of the plunger lines up with the mark that matches your prescribed dose.
 
 Figure K
@@ -4384,7 +4773,7 @@ Figure K
 
 - Do not remove the needle from the vial.
 - a. Hold the syringe with the needle pointing up to see if it has any air bubbles inside.
-- b. If there are air bubbles, gently tap the side of the syringe until the air bubbles go to the top of the syringe (see Figure L ).
+- b. If there are air bubbles, gently tap the side of the syringe until the air bubbles go to the top of the syringe (see Figure L).
 - c. Press the plunger rod until all of the air bubbles (but none of the liquid) have been removed.
 - Do not lay the syringe down, or allow the needle to touch anything.
 
@@ -4396,18 +4785,14 @@ Figure L
 
 ## 14. Insert the needle into the injection site.
 
-- a. Hold the body of the syringe in one hand between the thumb and index finger (see Figure M ). Use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly. Note: Pinching the skin is important to make sure that you inject under the skin (into the fatty area) but not any deeper (into muscle).
+- a. Hold the body of the syringe in one hand between the thumb and index finger (see Figure M).
+
+Use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly. Note: Pinching the skin is important to make sure that you inject under the skin (into the fatty area) but not any deeper (into muscle).
 
 <div style=\"page-break-after: always\"></div>
 
-· Do not pull bac
-
-45°
-
-- b. With a quick and dart-like motion, insert the needle completely into the pinched skin at a 45degree angle (see Figure M ).
+- b. With a quick and dart-like motion, insert the needle completely into the pinched skin at a 45degree angle (see Figure M).
 - Do not pull back on the plunger rod at any time.
-
-OR
 
 Figure M
 
@@ -4416,7 +4801,7 @@ Figure M
 ## 15. Give the injection.
 
 - a. After the needle is inserted use your thumb to slowly and evenly push the plunger rod all the way to the bottom of the syringe body. Keep the skin gently pinched.
-- Make sure you have injected all of the Steqeyma liquid (see Figure N ).
+- Make sure you have injected all of the Steqeyma liquid (see Figure N).
 
 Figure N
 
@@ -4424,11 +4809,9 @@ Figure N
 
 ## 16. Remove the syringe from the injection site.
 
-- a. After the syringe is empty, release the pinched skin and slowly move the syringe away from the injection site. (see Figure O ).
+- a. After the syringe is empty, release the pinched skin and slowly move the syringe away from the injection site. (see Figure O).
 - Do not re-cap the used needle. Recapping the used needle can lead to a needle-stick injury.
 - Do not reuse the syringe.
-
-Rigure M
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4456,7 +4839,7 @@ You may cover the injection site with a small adhesive bandage, if necessary.
 
 ## 19. Dispose of Steqeyma.
 
-- a. Put the used syringe in a sharps container right away after use (see Figure P ).
+- a. Put the used syringe in a sharps container right away after use (see Figure P).
 - Do not throw away (dispose of) the syringe in your household trash. If you do not have a sharps disposal container, you may use a household container that is closable and puncture resistant.
 - For the safety and health of you and others, needles and used syringes must never be reused. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 - Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
@@ -4473,7 +4856,9 @@ Figure P
 
 ## Package leaflet: Information for the user
 
-## Steqeyma 45 mg solution for injection in pre-filled syringe ustekinumab
+## Steqeyma 45 mg solution for injection in pre-filled syringe
+
+## ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -4481,10 +4866,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Steqeyma to a child, please read this information carefully.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4510,6 +4895,7 @@ Steqeyma is used to treat the following inflammatory diseases:
 -  Plaque psoriasis - in adults and children aged 6 years and older
 -  Psoriatic arthritis - in adults
 -  Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
+-  Moderate to severe ulcerative colitis - in adults
 
 ## Plaque psoriasis
 
@@ -4517,9 +4903,9 @@ Plaque psoriasis is a skin condition that causes inflammation affecting the skin
 
 Steqeyma is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
 
-Steqeyma is used in children and adolescents aged 6 years and older with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
-
 <div style=\"page-break-after: always\"></div>
+
+Steqeyma is used in children and adolescents aged 6 years and older with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
 
 ## Psoriatic arthritis
 
@@ -4532,6 +4918,10 @@ Psoriatic arthritis is an inflammatory disease of the joints, usually accompanie
 ## Crohn's disease
 
 Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Steqeyma to reduce the signs and symptoms of your disease.
+
+## Ulcerative colitis
+
+Ulcerative colitis is an inflammatory disease of the bowel. If you have ulcerative colitis you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Steqeyma to reduce the signs and symptoms of your disease.
 
 ## 2. What you need to know before you use Steqeyma
 
@@ -4557,13 +4947,16 @@ Steqeyma can cause serious side effects, including allergic reactions and infect
 -  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
 -  If you have or have had a recent infection.
 -  If you have any new or changing lesions within psoriasis areas or on normal skin.
--  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies together with ustekinumab has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
+-  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using
+
+<div style=\"page-break-after: always\"></div>
+
+these therapies together with ustekinumab has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
+
 -  If you are having or have ever had injections to treat allergies - it is not known if ustekinumab may affect these.
 -  If you are 65 years of age or over - you may be more likely to get infections.
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Steqeyma.
-
-<div style=\"page-break-after: always\"></div>
 
 Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
@@ -4573,7 +4966,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Steqeyma is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis because it has not been studied in this age group.
+Steqeyma is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis, or ulcerative colitis because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Steqeyma
 
@@ -4592,6 +4985,8 @@ Tell your doctor or pharmacist:
 -  It is important that you tell your baby's doctors and other health care professionals if you received Steqeyma during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Steqeyma during the pregnancy unless your baby's doctor recommends otherwise.
 -  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Steqeyma - do not do both.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Steqeyma has no or negligible influence on the ability to drive and use machines.
@@ -4599,8 +4994,6 @@ Steqeyma has no or negligible influence on the ability to drive and use machines
 ## Steqeyma contains polysorbate 80
 
 Steqeyma contains 0.02 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use Steqeyma
 
@@ -4612,21 +5005,17 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Steqeyma you need to use and for how long.
 
-## Adults aged 18 years or older
-
-## Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
 
 -  The recommended starting dose is 45 mg Steqeyma. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
 
-## Crohn's disease
+## Crohn's disease or Ulcerative Colitis
 
 -  During treatment, the first dose of approximately 6 mg/kg Steqeyma will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Steqeyma after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 -  In some patients, after the first injection under the skin, 90 mg Steqeyma may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
 
-## Children and adolescents aged 6 years or older
-
-## Psoriasis
+## Children and adolescents aged 6 years or older Psoriasis
 
 -  The doctor will work out the right dose for you, including the amount (volume) of Steqeyma to be injected to give the right dose. The right dose for you will depend on your body weight at the time each dose is given.
 -  A 45 mg vial is available for children who need to receive less than the full 45 mg dose.
@@ -4640,7 +5029,9 @@ Your doctor will decide how much Steqeyma you need to use and for how long.
 ## Crohn's disease
 
 -  During treatment, the first dose of approximately 6 mg/kg Steqeyma will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Steqeyma after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
--  In some patients, after the first injection under the skin, 90 mg Steqeyma may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+-  In some patients, after the first injection under the skin, 90 mg Steqeyma may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## How Steqeyma is given
 
@@ -4649,8 +5040,6 @@ Your doctor will decide how much Steqeyma you need to use and for how long.
 -  For instructions on how to inject Steqeyma, see 'Instructions for administration' at the end of this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you use more Steqeyma than you should
 
@@ -4693,15 +5082,14 @@ If you have a serious allergic reaction, your doctor may decide that you should 
 -  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
 -  Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
 
+<div style=\"page-break-after: always\"></div>
+
 Steqeyma may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
 
 You must look out for signs of infection while you are using Steqeyma. These include:
 
 -  fever, flu-like symptoms, night sweats, weight loss
 -  feeling tired or short of breath; cough which will not go away
-
-<div style=\"page-break-after: always\"></div>
-
 -  warm, red and painful skin, or a painful skin rash with blisters
 -  burning when passing water
 -  diarrhoea
@@ -4714,7 +5102,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 ## Other side effects
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people):
 
 -  Diarrhoea
 -  Nausea
@@ -4728,7 +5116,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-## Uncommon side effects (may affect up to 1 in 100 people):
+Uncommon side effects (may affect up to 1 in 100 people):
 
 -  Tooth infections
 -  Vaginal yeast infection
@@ -4741,6 +5129,8 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Peeling of the skin (skin exfoliation)
 -  Acne
 
+<div style=\"page-break-after: always\"></div>
+
 ## Rare side effects (may affect up to 1 in 1 000 people)
 
 -  Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
@@ -4750,8 +5140,6 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 -  Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
 -  Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -4781,6 +5169,8 @@ Steqeyma is for single use only. Any unused product remaining in the syringe sho
 -  The active substance is ustekinumab. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL.
 -  The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E433), sucrose and water for injections.
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Steqeyma looks like and contents of the pack
 
 Steqeyma is a clear to slightly opalescent (having a pearl-like shine), colourless to pale yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL of solution for injection.
@@ -4788,8 +5178,6 @@ Steqeyma is a clear to slightly opalescent (having a pearl-like shine), colourle
 ## Marketing Authorisation Holder
 
 Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Hungary
-
-<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -4817,20 +5205,6 @@ Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
 
 Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989 contact\\_dk@celltrionhc.com
 
-## Deutschland
-
-Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionhc.com
-
-## Eesti
-
-Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
-
-contact\\_fi@celltrionhc.com
-
-## España
-
-Kern Pharma, S.L. Tel: +34 93 700 2525
-
 ## Lietuva
 
 Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
@@ -4841,137 +5215,119 @@ Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.co
 
 ## Magyarország
 
-Celltrion Healthcare Hungary Kft. Tel.: + 36 1 231 0493
+Celltrion Healthcare Hungary Kft.
+
+Tel.: + 36 1 231 0493
 
 ## Malta
 
 Mint Health Ltd Tel: +356 2093 9800
 
-## Nederland
-
-Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300
-
-NLinfo@celltrionhc.com
-
-## Norge
-
-Celltrion Healthcare Norway AS
-
-contact\\_no@celltrionhc.com
-
-## Österreich
-
-Astro-Pharma GmbH Tel: +43 1 97 99 860
-
 <div style=\"page-break-after: always\"></div>
 
-## Ελλάδα
+Deutschland Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionhc.com Nederland Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
 
-ΒΙΑΝΕΞ Α . Ε .
-
-Τηλ
-
-: +30 210 8009111
-
-## France
-
-Celltrion Healthcare France SAS
-
-Tél.: +33 (0)1 71 25 27 00
-
-## Hrvatska
-
-Oktal Pharma d.o.o.
-
-Tel: +385 1 6595 777
-
-## Ireland
-
-Celltrion Healthcare Ireland Limited
-
-Tel: +353 1 223 4026
-
-enquiry\\_ie@celltrionhc.com
-
-## Ísland
-
-Celltrion Healthcare Hungary Kft.
-
-Sími: +36 1 231 0493
-
-contact\\_fi@celltrionhc.com
-
-## Italia
-
-Celltrion Healthcare Italy S.R.L.
-
-Tel: +39 0247927040
-
-celltrionhealthcare\\_italy@legalmail.it
-
-## Κύπρος
-
-C.A. Papaellinas Ltd
-
-Τηλ:
-
-+357 22741741
-
-## Latvija
-
-Celltrion Healthcare Hungary Kft.
-
-Tālr.:
-
-+36 1 231 0493
-
-## This leaflet was last revised in &lt; { MM/YYYY }&gt;.
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Polska
-
-Celltrion Healthcare Hungary Kft.
-
-Tel.: + 36 1 231 0493
-
-## Portugal
-
-CELLTRION PORTUGAL, UNIPESSOAL LDA
-
-Tel: +351 21 936 8542
-
-contact\\_pt@celltrion.com
-
-## România
-
-Celltrion Healthcare Hungary Kft.
-
-Tel: + 36 1 231 0493
-
-## Slovenija
-
-OPH Oktal Pharma d.o.o.
-
-Tel.: +386 1 519 29 22
-
-## Slovenská republika
+Eesti
 
 Celltrion Healthcare Hungary Kft.
 
 Tel: +36 1 231 0493
 
+contact\\_fi@celltrionhc.com
+
+España
+
+Kern Pharma, S.L. Tel: +34 93 700 2525
+
+Ελλάδα
+
+ΒΙΑΝΕΞ Α.Ε. Τηλ: +30 210 8009111
+
+France
+
+Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
+
+Hrvatska
+
+Oktal Pharma d.o.o. Tel: +385 1 6595 777
+
+Ireland
+
+Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026
+
+enquiry\\_ie@celltrionhc.com
+
+Ísland
+
+Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493
+
+contact\\_fi@celltrionhc.com
+
+Italia
+
+Celltrion Healthcare Italy S.R.L. Tel: +39 0247927040
+
+celltrionhealthcare\\_italy@legalmail.it
+
+Κύπρος
+
+C.A. Papaellinas Ltd Τηλ: +357 22741741
+
+Latvija
+
+Celltrion Healthcare Hungary Kft. Tālr.: +36 1 231 0493
+
+## This leaflet was last revised in &lt;{MM/YYYY}&gt;.
+
+143
+
+Norge
+
+Celltrion Healthcare Norway AS
+
+contact\\_no@celltrionhc.com
+
+Österreich
+
+Astro-Pharma GmbH Tel: +43 1 97 99 860
+
+Polska
+
+Celltrion Healthcare Hungary Kft. Tel.: + 36 1 231 0493
+
+Portugal
+
+CELLTRION PORTUGAL, UNIPESSOAL
+
+LDA
+
+Tel: +351 21 936 8542
+
+contact\\_pt@celltrion.com
+
+România
+
+Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
+
+Slovenija
+
+OPH Oktal Pharma d.o.o. Tel.: +386 1 519 29 22
+
+## Slovenská republika
+
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+
 ## Suomi/Finland
 
-Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
+Celltrion Healthcare Finland Oy.
 
-## Sverige
+Puh/Tel: +358 29 170 7755
 
-Celltrion Sweden AB
+contact\\_fi@celltrionhc.com
 
-Tel: +46 8 80 11 77
+Sverige Celltrion Sweden AB Tel: +46 8 80 11 77
 
-Contact\\_se@celltrionhc.com
+Contact\\_se@celltrionhc.com Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4984,17 +5340,17 @@ At the start of treatment, your healthcare provider will assist you with your fi
 -  Do not open the sealed carton until you are ready to use the pre-filled syringe.
 -  Do not remove the cap until just before you give the injection.
 -  Do not mix Steqeyma with other liquids for injection.
--  The pre-filled syringe cannot be re-used. Dispose of the used pre-filled syringe immediately after use in a sharps disposal container (see Step 14. Dispose of Steqeyma ).
+-  The pre-filled syringe cannot be re-used. Dispose of the used pre-filled syringe immediately after use in a sharps disposal container (see Step 14. Dispose of Steqeyma).
 -  The syringe cap design may vary depending on the supplied materials and may be either flexible or rigid.
 
 ## Storing Steqeyma
 
--  Keep the pre-filled syringe out of the sight and reach of children . Contains small part.
+-  Keep the pre-filled syringe out of the sight and reach of children. Contains small part.
 -  Store the pre-filled syringe in a refrigerator between 2 °C and 8 ºC. Do not freeze.
 -  Store this medicine sealed inside its carton to protect it from light.
 -  If needed, individual Steqeyma pre-filled syringes may also be stored at room temperature up to 25 °C for a maximum single period of up to 31 days in the original carton in order to protect from light.
 -  Record the date when the pre-filled syringes are first removed from the refrigerator in the spaces provided on the outer carton.
--  At any time before the end of the storage period at room temperature, the product can be returned to the refrigerator once , and stored there until the original expiry date.
+-  At any time before the end of the storage period at room temperature, the product can be returned to the refrigerator once, and stored there until the original expiry date.
 -  Do not shake Steqeyma pre-filled syringes. Strong shaking may damage the medicine.
 -  Do not use the medicine if it has been shaken strongly.
 -  Do not use the pre-filled syringe if it has been dropped.
@@ -5007,19 +5363,23 @@ Figure A
 
 <div style=\"page-break-after: always\"></div>
 
-reparing tor the injection
-
-Figure B
-
-Carton containina
-
 ## Preparing for the Injection
 
-45 г
+Carton containing pre-filled syringe
 
 <!-- image -->
 
-Figure B
+<!-- image -->
+
+<!-- image -->
+
+Adhesive bandage Sharps disposal container
+
+Cotton ball or gauze and alcohol swab
+
+<!-- image -->
+
+## Figure B
 
 <!-- image -->
 
@@ -5031,21 +5391,21 @@ Figure D
 
 1. Gather the supplies for the injection.
 - a. Prepare a clean, flat surface, such as a table or counter top, in a well-lit area.
-- b. Take the carton(s) containing the pre-fi lled syringe(s) needed to administer your prescribed dose out of the refrigerator.
+- b. Take the carton(s) containing the pre-filled syringe(s) needed to administer your prescribed dose out of the refrigerator.
 - c. Make sure you have the following supplies (see Figure B):
-5. -Carton containing pre-filled syringe
+- Carton containing pre-filled syringe
 
 ## Not included in the carton:
 
-- -Cotton ball or gauze
-- -Adhesive bandage
-- -Sharps disposal container
-- -Alcohol swab
+- Cotton ball or gauze
+- Adhesive bandage
+- Sharps disposal container
+- Alcohol swab
 2. Check the expiration date on the carton (see Figure C).
 -  Do not use it if the expiration date has passed. If the expiration date has passed, return the entire pack to the pharmacy.
 3. Wait 30 minutes.
 - a. Open the carton. Gripping from the syringe body, lift the prefilled syringe from the carton.
-- b. Let the pre-filled syringe stand outside the box for about 30 minutes at room temperature (20 °C to 25 °C) to allow it to warm up (see Figure D ).
+- b. Let the pre-filled syringe stand outside the box for about 30 minutes at room temperature (20 °C to 25 °C) to allow it to warm up (see Figure D).
 -  This will let the liquid come to a comfortable temperature for injection (room temperature).
 -  Do not warm the pre-filled syringe using heat sources such as hot water or a microwave.
 -  Do not hold by the plunger rod or cap.
@@ -5053,13 +5413,9 @@ Figure D
 
 <div style=\"page-break-after: always\"></div>
 
-= Caregiver ONLY
-
-= Self-injection and Caregiver
+Figure E
 
 <!-- image -->
-
-Figure E
 
 Figure F
 
@@ -5075,35 +5431,31 @@ Figure G
 4.  If your dose is 45 mg you will get one 45 mg pre-filled syringe of Steqeyma.
 5.  If your dose is 90 mg you will get two 45 mg pre-filled syringes of Steqeyma and you will need to give yourself two injections. Choose two different sites for these injections (e.g. one injection in the right thigh and the other injection in the left thigh), and give the injections one right after the other.
 - c. Look at the pre-filled syringe and make sure it is not cracked or damaged.
-- d. Check the expiration date on the label of the pre-filled syringe (see Figure E ).
+- d. Check the expiration date on the label of the pre-filled syringe (see Figure E).
 8.  Do not use if the expiration date has passed.
 9.  Do not shake the pre-filled syringe.
 5. Inspect the medicine.
-- a. Look at the medicine and confirm that the liquid is clear to slightly opalescent and colourless to pale yellow. (see Figure F ).
+- a. Look at the medicine and confirm that the liquid is clear to slightly opalescent and colourless to pale yellow. (see Figure F).
 12.  Do not use the pre-filled syringe if the liquid is discoloured or cloudy.
 13.  You may see air bubbles in the liquid. This is normal.
 6. Choose an appropriate injection site (see Figure G).
 - a. You may inject into:
-16. -Your upper thighs.
-17. -Your lower abdomen except for the 5 cm around the belly button (navel).
-18. -The outer area of the upper arm if you are a caregiver.
+- Your upper thighs.
+- Your lower abdomen except for the 5 cm around the belly button (navel).
+- The outer area of the upper arm if you are a caregiver.
 19.  Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard, or if there are breaks in the skin. If possible, do not use areas of skin that show signs of psoriasis.
 20.  Do not inject through your clothes.
 - b. Choose a different injection site for each new injection at least 2.5 cm away from the area used for the last injection.
 
 <div style=\"page-break-after: always\"></div>
 
-Administering the Injection
-
-Rigura H
-
-Tinre
-
 Figure H
 
 <!-- image -->
 
 Figure I
+
+<!-- image -->
 
 ## Administering the Injection
 
@@ -5113,32 +5465,31 @@ Figure J
 
 ## 7. Wash your hands.
 
-- a. Wash your hands with soap and water and dry them thoroughly (see Figure H ).
+- a. Wash your hands with soap and water and dry them thoroughly (see Figure H).
 8. Clean the injection site.
-- a. Clean the injection site with an alcohol swab using a circular motion (see Figure I ).
+- a. Clean the injection site with an alcohol swab using a circular motion (see Figure I).
 - b. Let the skin dry before injecting.
 5.  Do not blow on or touch the injection site again before giving the injection.
-9. Remove the cap.
-- a. Remove the needle cover when you are ready to inject your Steqeyma by holding the body of the pre-filled syringe in one hand between the thumb and index finger (see Figure J ).
-8.  Do not hold the plunger rod while removing the cap.
-9.  You may notice an air bubble in the pre-filled syringe or a few drops of liquid at the tip of needle. This is normal.
-- b. Dispose of the cap right away in a sharps disposal container (see Step 14 and Figure J ).
-11.  Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist.
-12.  Inject the dose promptly after removing the needle cover.
-13.  Do not re-cap the pre-filled syringe.
-14.  Do not touch the needle. Doing so may result in a needle stick injury.
+
+## 9. Remove the cap.
+
+- a. Remove the needle cover when you are ready to inject your Steqeyma by holding the body of the pre-filled syringe in one hand between the thumb and index finger (see Figure J).
+2.  Do not hold the plunger rod while removing the cap.
+3.  You may notice an air bubble in the pre-filled syringe or a few drops of liquid at the tip of needle. This is normal.
+- b. Dispose of the cap right away in a sharps disposal container (see
+
+## Step 14 and Figure J).
+
+-  Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist.
+-  Inject the dose promptly after removing the needle cover.
+-  Do not re-cap the pre-filled syringe.
+-  Do not touch the needle. Doing so may result in a needle stick injury.
 
 <div style=\"page-break-after: always\"></div>
 
-45°
-
-45°
-
-OR
+Figure K
 
 <!-- image -->
-
-## Figure K
 
 Figure L
 
@@ -5158,14 +5509,14 @@ Figure M
 ## 11. Give the injection.
 
 - a. After the needle is inserted, release the pinch.
-- b. Slowly push the plunger rod all the way down until the full dose of medicine gets injected, and the syringe is empty (see Figure L ).
+- b. Slowly push the plunger rod all the way down until the full dose of medicine gets injected, and the syringe is empty (see Figure L).
 3.  Do not change the position of the pre-filled syringe after the injection has started.
 4.  If the plunger rod is not fully pressed, the needle guard will not extend to cover the needle when it is removed.
 
 ## 12. Remove the pre-filled syringe from the injection site.
 
-- a. After the pre-filled syringe is empty, as the needle is being taken out, slowly remove the needle by lifting your thumb from the plunger rod until the needle is completely covered by the needle guard (see Figure M ).
-2.  If the needle is not covered, proceed carefully to dispose of the syringe (see Step 14 . Dispose of Steqeyma ).
+- a. After the pre-filled syringe is empty, as the needle is being taken out, slowly remove the needle by lifting your thumb from the plunger rod until the needle is completely covered by the needle guard (see Figure M).
+2.  If the needle is not covered, proceed carefully to dispose of the syringe (see Step 14. Dispose of Steqeyma).
 3.  Do not reuse the pre-filled syringe.
 4.  Do not rub the injection site.
 
@@ -5183,7 +5534,7 @@ Figure N
 
 ## 14. Dispose of Steqeyma.
 
-- a. Put the used pre-filled syringe in a sharps disposal container right away after use (see Figure N ).
+- a. Put the used pre-filled syringe in a sharps disposal container right away after use (see Figure N).
 - b. Do not throw away (dispose of) the pre-filled syringe in your household trash.
 3.  If you do not have a sharps disposal container, you may use a household container that is closable and puncture resistant.
 4.  For the safety and health of you and others, needles and used syringes must never be reused. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -5195,7 +5546,9 @@ Figure N
 
 ## Package leaflet: Information for the user
 
-## Steqeyma 90 mg solution for injection in pre-filled syringe ustekinumab
+## Steqeyma 90 mg solution for injection in pre-filled syringe
+
+## ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -5203,10 +5556,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Steqeyma to a child, please read this information carefully.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5232,6 +5585,7 @@ Steqeyma is used to treat the following inflammatory diseases:
 -  Plaque psoriasis - in adults and children aged 6 years and older
 -  Psoriatic arthritis - in adults
 -  Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
+-  Moderate to severe ulcerative colitis - in adults
 
 ## Plaque psoriasis
 
@@ -5239,9 +5593,9 @@ Plaque psoriasis is a skin condition that causes inflammation affecting the skin
 
 Steqeyma is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
 
-Steqeyma is used in children and adolescents aged 6 years and older with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
-
 <div style=\"page-break-after: always\"></div>
+
+Steqeyma is used in children and adolescents aged 6 years and older with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
 
 ## Psoriatic arthritis
 
@@ -5254,6 +5608,10 @@ Psoriatic arthritis is an inflammatory disease of the joints, usually accompanie
 ## Crohn's disease
 
 Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Steqeyma to reduce the signs and symptoms of your disease.
+
+## Ulcerative colitis
+
+Ulcerative colitis is an inflammatory disease of the bowel. If you have ulcerative colitis you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Steqeyma to reduce the signs and symptoms of your disease.
 
 ## 2. What you need to know before you use Steqeyma
 
@@ -5279,13 +5637,16 @@ Steqeyma can cause serious side effects, including allergic reactions and infect
 -  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
 -  If you have or have had a recent infection.
 -  If you have any new or changing lesions within psoriasis areas or on normal skin.
--  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies together with ustekinumab has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
+-  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using
+
+<div style=\"page-break-after: always\"></div>
+
+these therapies together with ustekinumab has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
+
 -  If you are having or have ever had injections to treat allergies - it is not known if ustekinumab may affect these.
 -  If you are 65 years of age or over - you may be more likely to get infections.
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Steqeyma.
-
-<div style=\"page-break-after: always\"></div>
 
 Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
@@ -5295,7 +5656,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Steqeyma is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis because it has not been studied in this age group.
+Steqeyma is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis, or ulcerative colitis because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Steqeyma
 
@@ -5314,6 +5675,8 @@ Tell your doctor or pharmacist:
 -  It is important that you tell your baby's doctors and other health care professionals if you received Steqeyma during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Steqeyma during the pregnancy unless your baby's doctor recommends otherwise.
 -  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Steqeyma - do not do both.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Steqeyma has no or negligible influence on the ability to drive and use machines.
@@ -5321,8 +5684,6 @@ Steqeyma has no or negligible influence on the ability to drive and use machines
 ## Steqeyma contains polysorbate 80
 
 Steqeyma contains 0.04 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use Steqeyma
 
@@ -5334,21 +5695,17 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Steqeyma you need to use and for how long.
 
-## Adults aged 18 years or older
-
-## Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
 
 -  The recommended starting dose is 45 mg Steqeyma. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
 
-## Crohn's disease
+## Crohn's disease or Ulcerative Colitis
 
 -  During treatment, the first dose of approximately 6 mg/kg Steqeyma will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Steqeyma after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 -  In some patients, after the first injection under the skin, 90 mg Steqeyma may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
 
-## Children and adolescents aged 6 years or older
-
-## Psoriasis
+## Children and adolescents aged 6 years or older Psoriasis
 
 -  The doctor will work out the right dose for you, including the amount (volume) of Steqeyma to be injected to give the right dose. The right dose for you will depend on your body weight at the time each dose is given.
 -  A 45 mg vial is available for children who need to receive less than the full 45 mg dose.
@@ -5366,13 +5723,13 @@ Your doctor will decide how much Steqeyma you need to use and for how long.
 
 ## How Steqeyma is given
 
+<div style=\"page-break-after: always\"></div>
+
 -  Steqeyma is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Steqeyma.
 -  However, you and your doctor may decide that you may inject Steqeyma yourself. In this case you will get training on how to inject Steqeyma yourself.
 -  For instructions on how to inject Steqeyma, see 'Instructions for administration' at the end of this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you use more Steqeyma than you should
 
@@ -5415,15 +5772,14 @@ If you have a serious allergic reaction, your doctor may decide that you should 
 -  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
 -  Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
 
+<div style=\"page-break-after: always\"></div>
+
 Steqeyma may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
 
 You must look out for signs of infection while you are using Steqeyma. These include:
 
 -  fever, flu-like symptoms, night sweats, weight loss
 -  feeling tired or short of breath; cough which will not go away
-
-<div style=\"page-break-after: always\"></div>
-
 -  warm, red and painful skin, or a painful skin rash with blisters
 -  burning when passing water
 -  diarrhoea
@@ -5436,7 +5792,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 ## Other side effects
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people):
 
 -  Diarrhoea
 -  Nausea
@@ -5450,7 +5806,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-## Uncommon side effects (may affect up to 1 in 100 people):
+Uncommon side effects (may affect up to 1 in 100 people):
 
 -  Tooth infections
 -  Vaginal yeast infection
@@ -5463,6 +5819,8 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Peeling of the skin (skin exfoliation)
 -  Acne
 
+<div style=\"page-break-after: always\"></div>
+
 ## Rare side effects (may affect up to 1 in 1 000 people)
 
 -  Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
@@ -5472,8 +5830,6 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 -  Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
 -  Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -5503,6 +5859,8 @@ Steqeyma is for single use only. Any unused product remaining in the syringe sho
 -  The active substance is ustekinumab. Each pre-filled syringe contains 90 mg ustekinumab in 1 mL.
 -  The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E433), sucrose and water for injections.
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Steqeyma looks like and contents of the pack
 
 Steqeyma is a clear to slightly opalescent (having a pearl-like shine), colourless to pale yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 90 mg ustekinumab in 1 mL of solution for injection.
@@ -5510,8 +5868,6 @@ Steqeyma is a clear to slightly opalescent (having a pearl-like shine), colourle
 ## Marketing Authorisation Holder
 
 Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Hungary
-
-<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -5537,21 +5893,9 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Danmark
 
-Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989 contact\\_dk@celltrionhc.com
+Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989
 
-## Deutschland
-
-Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionhc.com
-
-## Eesti
-
-Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
-
-contact\\_fi@celltrionhc.com
-
-## España
-
-Kern Pharma, S.L. Tel: +34 93 700 2525
+contact\\_dk@celltrionhc.com
 
 ## Lietuva
 
@@ -5567,15 +5911,65 @@ Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Malta
 
-Mint Health Ltd
+Mint Health Ltd Tel: +356 2093 9800
 
-Tel: +356 2093 9800
+<div style=\"page-break-after: always\"></div>
 
-## Nederland
+## Deutschland
 
-Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300
+Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionhc.com
 
-NLinfo@celltrionhc.com
+## Eesti
+
+Celltrion Healthcare Hungary Kft.
+
+Tel: +36 1 231 0493
+
+contact\\_fi@celltrionhc.com
+
+## España
+
+Kern Pharma, S.L. Tel: +34 93 700 2525
+
+## Ελλάδα
+
+ΒΙΑΝΕΞ Α.Ε. Τηλ: +30 210 8009111
+
+## France
+
+Celltrion Healthcare France SAS
+
+Tél.: +33 (0)1 71 25 27 00
+
+## Hrvatska
+
+Oktal Pharma d.o.o. Tel: +385 1 6595 777
+
+## Ireland
+
+Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026 enquiry\\_ie@celltrionhc.com
+
+## Ísland
+
+Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493 contact\\_fi@celltrionhc.com
+
+## Italia
+
+Celltrion Healthcare Italy S.R.L. Tel: +39 0247927040 celltrionhealthcare\\_italy@legalmail.it
+
+## Κύπρος
+
+C.A. Papaellinas Ltd Τηλ: +357 22741741
+
+## Latvija
+
+Celltrion Healthcare Hungary Kft. Tālr.: +36 1 231 0493
+
+## This leaflet was last revised in &lt;{MM/YYYY}&gt;.
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+Nederland Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
 
 ## Norge
 
@@ -5587,91 +5981,17 @@ contact\\_no@celltrionhc.com
 
 Astro-Pharma GmbH Tel: +43 1 97 99 860
 
-<div style=\"page-break-after: always\"></div>
-
-## Ελλάδα
-
-ΒΙΑΝΕΞ Α . Ε .
-
-Τηλ
-
-: +30 210 8009111
-
-## France
-
-Celltrion Healthcare France SAS
-
-Tél.: +33 (0)1 71 25 27 00
-
-## Hrvatska
-
-Oktal Pharma d.o.o.
-
-Tel: +385 1 6595 777
-
-## Ireland
-
-Celltrion Healthcare Ireland Limited
-
-Tel: +353 1 223 4026
-
-enquiry\\_ie@celltrionhc.com
-
-## Ísland
-
-Celltrion Healthcare Hungary Kft.
-
-Sími: +36 1 231 0493
-
-contact\\_fi@celltrionhc.com
-
-## Italia
-
-Celltrion Healthcare Italy S.R.L.
-
-Tel: +39 0247927040
-
-celltrionhealthcare\\_italy@legalmail.it
-
-## Κύπρος
-
-C.A. Papaellinas Ltd
-
-Τηλ:
-
-+357 22741741
-
-## Latvija
-
-Celltrion Healthcare Hungary Kft.
-
-Tālr.:
-
-+36 1 231 0493
-
-This leaflet was last revised in &lt; { MM/YYYY }&gt;.
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
 ## Polska
 
-Celltrion Healthcare Hungary Kft.
-
-Tel.: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Portugal
 
-CELLTRION PORTUGAL, UNIPESSOAL LDA
-
-Tel: +351 21 936 8542
-
-contact\\_pt@celltrion.com
+CELLTRION PORTUGAL, UNIPESSOAL LDA Tel: +351 21 936 8542 contact\\_pt@celltrion.com
 
 ## România
 
-Celltrion Healthcare Hungary Kft.
-
-Tel: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Slovenija
 
@@ -5691,9 +6011,7 @@ Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrio
 
 ## Sverige
 
-Celltrion Sweden AB
-
-Tel: +46 8 80 11 77
+Celltrion Sweden AB Tel: +46 8 80 11 77
 
 Contact\\_se@celltrionhc.com
 
@@ -5708,7 +6026,7 @@ At the start of treatment, your healthcare provider will assist you with your fi
 -  Do not open the sealed carton until you are ready to use the pre-filled syringe.
 -  Do not remove the cap until just before you give the injection.
 -  Do not mix Steqeyma with other liquids for injection.
--  The pre-filled syringe cannot be re-used. Dispose of the used pre-filled syringe immediately after use in a sharps disposal container (see Step 14. Dispose of Steqeyma) .
+-  The pre-filled syringe cannot be re-used. Dispose of the used pre-filled syringe immediately after use in a sharps disposal container (see Step 14. Dispose of Steqeyma).
 -  The syringe cap design may vary depending on the supplied materials and may be either flexible or rigid.
 
 ## Storing Steqeyma
@@ -5718,30 +6036,14 @@ At the start of treatment, your healthcare provider will assist you with your fi
 -  Store this medicine sealed inside its carton to protect it from light.
 -  If needed, individual Steqeyma pre-filled syringes may also be stored at room temperature up to 25 °C for a maximum single period of up to 31 days in the original carton in order to protect from light.
 -  Record the date when the pre-filled syringes are first removed from the refrigerator in the spaces provided on the outer carton.
--  At any time berfore the end of the storage period at room temperature, the product can be returned to the refrigerator once , and stored there until the original expiry date.
+-  At any time berfore the end of the storage period at room temperature, the product can be returned to the refrigerator once, and stored there until the original expiry date.
 -  Do not shake Steqeyma pre-filled syringes. Strong shaking may damage the medicine.
 -  Do not use the medicine if it has been shaken strongly.
 -  Do not use the pre-filled syringe if it has been dropped.
 
 <div style=\"page-break-after: always\"></div>
 
-reparing for the Injection
-
-ALCOHOL
-
-## Parts of the Pre-filled Syringe (see Figure A) Cotton hall or
-
-EXP: MM YYYY
-
-## Preparing for the Injection
-
-<!-- image -->
-
-Figure B
-
-Figure C
-
-<!-- image -->
+## Parts of the Pre-filled Syringe (see Figure A)
 
 Figure A
 
@@ -5749,42 +6051,38 @@ Figure A
 
 1. Gather the supplies for the injection.
 - a. Prepare a clean, flat surface, such as a table or counter top, in a well-lit area.
-- b. Take the carton(s) containing the pre-fi lled syringe(s) needed to administer your prescribed dose out of the refrigerator.
-- c. Make sure you have the following supplies (see Figure B ):
-5. -Carton containing pre-filled syringe
+- b. Take the carton(s) containing the pre-filled syringe(s) needed to administer your prescribed dose out of the refrigerator.
+- c. Make sure you have the following supplies (see Figure B):
+- Carton containing pre-filled syringe
 
 ## Not included in the carton:
 
-- -Cotton ball or gauze
-- -Adhesive bandage
-- -Sharps disposal container
-- -Alcohol swab
+- Cotton ball or gauze
+- Adhesive bandage
+- Sharps disposal container
+- Alcohol swab
 2. Check the expiration date on the carton (see Figure C).
 -  Do not use it if the expiration date has passed. If the expiration date has passed, return the entire pack to the pharmacy.
 
-Carton
+## Preparing for the Injection
 
-90
-
-<div style=\"page-break-after: always\"></div>
-
-= Caregiver ONLY
-
-= Self-injection and Caregiver
-
-30
-
-minutes
+Figure B
 
 <!-- image -->
 
-Rigure C
+Figure C
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 Figure D
 
 <!-- image -->
 
 Figure E
+
+<!-- image -->
 
 Figure F
 
@@ -5794,44 +6092,37 @@ Figure G
 
 <!-- image -->
 
-## 3. Wait 30 minutes.
-
+3. Wait 30 minutes.
 - a. Open the carton. Gripping from the syringe body, lift the prefilled syringe from the carton.
-- b. Let the pre-filled syringe stand outside the box for about 30 minutes at room temperature (20 °C to 25 °C) to allow it to warm up (see Figure D ).
-3.  This will let the liquid come to a comfortable temperature for injection (room temperature).
-4.  Do not warm the pre-filled syringe using heat sources such as hot water or a microwave.
-5.  Do not hold by the plunger rod or cap.
-6.  Do not pull back on the plunger rod at any time.
-
-## 4. Inspect the pre-filled syringe.
-
+- b. Let the pre-filled syringe stand outside the box for about 30 minutes at room temperature (20 °C to 25 °C) to allow it to warm up (see Figure D).
+4.  This will let the liquid come to a comfortable temperature for injection (room temperature).
+5.  Do not warm the pre-filled syringe using heat sources such as hot water or a microwave.
+6.  Do not hold by the plunger rod or cap.
+7.  Do not pull back on the plunger rod at any time.
+4. Inspect the pre-filled syringe.
 - a. Look at the pre-filled syringe and make sure you have the correct medicine (Steqeyma) and dosage.
 - b. Check the pre-filled syringe(s) to make sure the number of pre-filled syringes and strength is correct:
-3.  If your dose is 90 mg you will get one 90 mg pre-filled syringe of Steqeyma.
+11.  If your dose is 90 mg you will get one 90 mg pre-filled syringe of Steqeyma.
 - c. Look at the pre-filled syringe and make sure it is not cracked or damaged.
-- d. Check the expiration date on the label of the pre-filled syringe (see Figure E ).
-6.  Do not use if the expiration date has passed.
-7.  Do not shake the pre-filled syringe.
+- d. Check the expiration date on the label of the pre-filled syringe (see Figure E).
+14.  Do not use if the expiration date has passed.
+15.  Do not shake the pre-filled syringe.
 
 ## 5. Inspect the medicine.
 
-- a. Look at the medicine and confirm that the liquid is clear to slightly opalescent and colourless to pale yellow. (see Figure F ).
+- a. Look at the medicine and confirm that the liquid is clear to slightly opalescent and colourless to pale yellow. (see Figure F).
 2.  Do not use the pre-filled syringe if the liquid is discoloured or cloudy.
 3.  You may see air bubbles in the liquid. This is normal.
-
-## 6. Choose an appropriate injection site (see Figure G).
-
+6. Choose an appropriate injection site (see Figure G).
 - a. You may inject into:
-2. -Your upper thighs.
-3. -Your lower abdomen except for the 5 cm around the belly button (navel).
-4. -The outer area of the upper arm if you are a caregiver.
-5.  Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard, or if there are breaks in the skin. If possible, do not use areas of skin that show signs of psoriasis.
-6.  Do not inject through your clothes.
+- Your upper thighs.
+- Your lower abdomen except for the 5 cm around the belly button (navel).
+- The outer area of the upper arm if you are a caregiver.
+9.  Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard, or if there are breaks in the skin. If possible, do not use areas of skin that show signs of psoriasis.
+10.  Do not inject through your clothes.
 - b. Choose a different injection site for each new injection at least 2.5 cm away from the area used for the last injection.
 
 <div style=\"page-break-after: always\"></div>
-
-Administering the Injection
 
 Figure H
 
@@ -5848,15 +6139,15 @@ Figure J
 <!-- image -->
 
 7. Wash your hands.
-- a. Wash your hands with soap and water and dry them thoroughly (see Figure H ).
+- a. Wash your hands with soap and water and dry them thoroughly (see Figure H).
 8. Clean the injection site.
-- a. Clean the injection site with an alcohol swab using a circular motion (see Figure I ).
+- a. Clean the injection site with an alcohol swab using a circular motion (see Figure I).
 - b. Let the skin dry before injecting.
 6.  Do not blow on or touch the injection site again before giving the injection.
 
 ## 9. Remove the cap.
 
-- a. Remove the needle cover when you are ready to inject your Steqeyma by holding the body of the pre-filled syringe in one hand between the thumb and index finger (see Figure J ).
+- a. Remove the needle cover when you are ready to inject your Steqeyma by holding the body of the pre-filled syringe in one hand between the thumb and index finger (see Figure J).
 2.  Do not hold the plunger rod while removing the cap.
 3.  You may notice an air bubble in the pre-filled syringe or a few drops of liquid at the tip of needle. This is normal.
 - b. Dispose of the cap right away in a sharps disposal container (see Step 14 and Figure J).
@@ -5866,12 +6157,6 @@ Figure J
 8.  Do not touch the needle. Doing so may result in a needle stick injury.
 
 <div style=\"page-break-after: always\"></div>
-
-45°
-
-45°
-
-OR
 
 <!-- image -->
 
@@ -5898,30 +6183,32 @@ Figure M
 
 Note: Pinching the skin is important to make sure that you inject under the skin (into the fatty area) but not any deeper (into muscle).
 
-- c. With a quick and dart-like motion, insert the needle completely into the fold of skin at a 45-degree angle (see Figure K ).
+- c. With a quick and dart-like motion, insert the needle completely into the fold of skin at a 45-degree angle (see Figure K).
 2.  Do not pull back on the plunger rod at any time.
 
 ## 11. Give the injection.
 
 - a. After the needle is inserted, release the pinch.
-- b. Slowly push the plunger rod all the way down until the full dose of medicine gets injected, and the syringe is empty (see Figure L ).
+- b. Slowly push the plunger rod all the way down until the full dose of medicine gets injected, and the syringe is empty (see Figure L).
 3.  Do not change the position of the pre-filled syringe after the injection has started.
 4.  If the plunger rod is not fully pressed, the needle guard will not extend to cover the needle when it is removed.
 
 ## 12. Remove the pre-filled syringe from the injection site.
 
-- a. After the pre-filled syringe is empty, as the needle is being taken out, slowly remove the needle by lifting your thumb from the plunger rod until the needle is completely covered by the needle guard (see Figure M ).
-2.  If the needle is not covered, proceed carefully to dispose of the syringe (see Step 14 . Dispose of Steqeyma ).
+- a. After the pre-filled syringe is empty, as the needle is being taken out, slowly remove the needle by lifting your thumb from the plunger rod until the needle is completely covered by the needle guard (see Figure M).
+2.  If the needle is not covered, proceed carefully to dispose of the syringe (see Step 14. Dispose of Steqeyma).
 3.  Do not reuse the pre-filled syringe.
 4.  Do not rub the injection site.
 
 <div style=\"page-break-after: always\"></div>
 
+Figure N
+
 <!-- image -->
 
 ## 14. Dispose of Steqeyma.
 
-- a. Put the used pre-filled syringe in a sharps disposal container right away after use (see Figure N ).
+- a. Put the used pre-filled syringe in a sharps disposal container right away after use (see Figure N).
 - b. Do not throw away (dispose of) the pre-filled syringe in your household trash.
 3.  If you do not have a sharps disposal container, you may use a household container that is closable and puncture resistant.
 4.  For the safety and health of you and others, needles and used syringes must never be reused. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -5943,10 +6230,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 ## This leaflet has been written for the person taking the medicine.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5972,6 +6259,7 @@ Steqeyma administered using the pre-filled pen is used to treat the following in
 -  Plaque psoriasis - in adults
 -  Psoriatic arthritis - in adults
 -  Moderate to severe Crohn's disease - in adults
+-  Moderate to severe ulcerative colitis - in adults
 
 ## Plaque psoriasis
 
@@ -5992,6 +6280,10 @@ Psoriatic arthritis is an inflammatory disease of the joints, usually accompanie
 ## Crohn's disease
 
 Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Steqeyma to reduce the signs and symptoms of your disease.
+
+## Ulcerative colitis
+
+Ulcerative colitis is an inflammatory disease of the bowel. If you have ulcerative colitis you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Steqeyma to reduce the signs and symptoms of your disease.
 
 ## 2. What you need to know before you use Steqeyma
 
@@ -6021,9 +6313,9 @@ Steqeyma can cause serious side effects, including allergic reactions and infect
 -  If you are having or have ever had injections to treat allergies - it is not known if ustekinumab may affect these.
 -  If you are 65 years of age or over - you may be more likely to get infections.
 
-If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Steqeyma.
-
 <div style=\"page-break-after: always\"></div>
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Steqeyma.
 
 Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
@@ -6035,7 +6327,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 The Steqeyma pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis or Crohn's disease because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, pre-filled syringe or vial should be used instead for children weighing at least 40 kg with Crohn's disease.
 
-Steqeyma is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis or children with Crohn's disease who weigh less than 40 kg because it has not been studied in this age group.
+Steqeyma is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, ulcerative colitis or children with Crohn's disease who weigh less than 40 kg because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Steqeyma
 
@@ -6054,11 +6346,11 @@ Tell your doctor or pharmacist:
 -  It is important that you tell your baby's doctors and other health care professionals if you received Steqeyma during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Steqeyma during the pregnancy unless your baby's doctor recommends otherwise.
 -  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Steqeyma - do not do both.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Steqeyma has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Steqeyma contains polysorbate 80
 
@@ -6074,12 +6366,14 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Steqeyma you need to use and for how long.
 
-## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older
+
+## Psoriasis or Psoriatic Arthritis
 
 -  The recommended starting dose is 45 mg Steqeyma. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
 
-## Crohn's disease
+## Crohn's disease or Ulcerative Colitis
 
 -  During treatment, the first dose of approximately 6 mg/kg Steqeyma will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Steqeyma after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 -  In some patients, after the first injection under the skin, 90 mg Steqeyma may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
@@ -6104,9 +6398,9 @@ If you forget a dose, contact your doctor or pharmacist. Do not take a double do
 
 It is not dangerous to stop using Steqeyma. However, if you stop, your symptoms may come back.
 
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
 <div style=\"page-break-after: always\"></div>
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
 ## 4. Possible side effects
 
@@ -6116,7 +6410,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Some patients may have serious side effects that may need urgent treatment.
 
-## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
+Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
 
 -  Serious allergic reactions ('anaphylaxis') are rare in people taking ustekinumab (may affect up to 1 in 1 000 people). Signs include:
 - difficulty breathing or swallowing
@@ -6169,7 +6463,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-## Uncommon side effects (may affect up to 1 in 100 people):
+Uncommon side effects (may affect up to 1 in 100 people):
 
 -  Tooth infections
 -  Vaginal yeast infection
@@ -6200,10 +6494,10 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 -  Keep this medicine out of the sight and reach of children.
 -  Store in a refrigerator (2 °C-8 °C). Do not freeze.
--  Keep the pre-filled pen in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
+-  Keep the pre-filled pen in the outer carton in order to protect from light.
 -  If needed, individual Steqeyma pre-filled pens may also be stored at room temperature up to 25 °C for a maximum single period of up to 31 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this 31-day period at room temperature, the product can be returned to the refrigerator once, and stored there until the original expiry date. Discard the pen if not used within 31 days at room temperature storage or by the original expiry date, whichever is earlier.
 -  Do not shake Steqeyma pre-filled pens. Prolonged vigorous shaking may damage the medicine.
 
@@ -6237,21 +6531,17 @@ Nuvisan France SARL 2400, Route des Colles 06410, Biot France
 
 MIDAS Pharma GmbH Rheinstrasse 49 55218 West Ingelheim Am Rhein Rhineland-Palatinate Germany
 
-Kymos S.L. Ronda De Can Fatjo 7b
+Kymos S.L.
 
 <div style=\"page-break-after: always\"></div>
 
-Parc Tecnologic Del Valles 08290 Cerdanyola Del Valles Barcelona Spain
+Ronda De Can Fatjo 7b Parc Tecnologic Del Valles 08290 Cerdanyola Del Valles Barcelona Spain
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Celltrion Healthcare Belgium BVBA
-
-Tél/Tel: + 32 1528 7418
-
-BEinfo@celltrionhc.com
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 ## България
 
@@ -6263,9 +6553,7 @@ Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
 
 ## Danmark
 
-Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989
-
-contact\\_dk@celltrionhc.com
+Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989 contact\\_dk@celltrionhc.com
 
 ## Deutschland
 
@@ -6277,13 +6565,13 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 contact\\_fi@celltrionhc.com
 
-## España
-
-Kern Pharma, S.L. Tel: +34 93 700 2525
+España Kern Pharma, S.L. Tel: +34 93 700 2525
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α . Ε . Τηλ : +30 210 8009111
+ΒΙΑΝΕΞ Α.Ε.
+
+Τηλ: +30 210 8009111
 
 ## France
 
@@ -6291,9 +6579,7 @@ Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
 
 ## Hrvatska
 
-Oktal Pharma d.o.o.
-
-Tel: +385 1 6595 777
+Oktal Pharma d.o.o. Tel: +385 1 6595 777
 
 ## Lietuva
 
@@ -6317,7 +6603,9 @@ Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.c
 
 ## Norge
 
-Celltrion Healthcare Norway AS contact\\_no@celltrionhc.com
+Celltrion Healthcare Norway AS
+
+contact\\_no@celltrionhc.com
 
 ## Österreich
 
@@ -6329,75 +6617,49 @@ Celltrion Healthcare Hungary Kft. Tel.: + 36 1 231 0493
 
 ## Portugal
 
-CELLTRION PORTUGAL, UNIPESSOAL LDA
-
-Tel: +351 21 936 8542
-
-contact\\_pt@celltrion.com
+CELLTRION PORTUGAL, UNIPESSOAL LDA Tel: +351 21 936 8542 contact\\_pt@celltrion.com
 
 ## România
 
-Celltrion Healthcare Hungary Kft.
-
-Tel: + 36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
 
 <div style=\"page-break-after: always\"></div>
 
 ## Ireland
 
-Celltrion Healthcare Ireland Limited
+## Slovenija
 
-Tel: +353 1 223 4026
+Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026
 
 enquiry\\_ie@celltrionhc.com
 
 ## Ísland
 
-Celltrion Healthcare Hungary Kft.
-
-Sími: +36 1 231 0493
-
-contact\\_fi@celltrionhc.com
+Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493 contact\\_fi@celltrionhc.com
 
 ## Italia
 
-Celltrion Healthcare Italy S.R.L.
-
-Tel: +39 0247927040
-
-celltrionhealthcare\\_italy@legalmail.it
+Celltrion Healthcare Italy S.R.L. Tel: +39 0247927040 celltrionhealthcare\\_italy@legalmail.it
 
 ## Κύπρος
 
 C.A. Papaellinas Ltd
 
-Τηλ:
-
-+357 22741741
+Τηλ: +357 22741741
 
 ## Latvija
 
-Celltrion Healthcare Hungary Kft.
+Celltrion Healthcare Hungary Kft. Tālr.: +36 1 231 0493
 
-Tālr.:
-
-+36 1 231 0493
-
-## This leaflet was last revised in &lt; { MM/YYYY }&gt;.
+## This leaflet was last revised in &lt;{MM/YYYY}&gt;.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-Slovenija
-
-OPH Oktal Pharma d.o.o.
-
-Tel.: +386 1 519 29 22
+OPH Oktal Pharma d.o.o. Tel.: +386 1 519 29 22
 
 ## Slovenská republika
 
-Celltrion Healthcare Hungary Kft.
-
-Tel: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Suomi/Finland
 
@@ -6405,11 +6667,7 @@ Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrio
 
 ## Sverige
 
-Celltrion Sweden AB
-
-Tel: +46 8 80 11 77
-
-Contact\\_se@celltrionhc.com
+Celltrion Sweden AB Tel: +46 8 80 11 77 Contact\\_se@celltrionhc.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6427,7 +6685,7 @@ At the start of treatment, your healthcare provider will assist you with your fi
 - Do not use if the pre-filled pen is cracked or damaged.
 - Do not use the medicine if the expiration date has passed.
 - Do not share the pre-filled pen with anyone.
-- The pre-filled pen cannot be re-used. Dispose of the used pre-filled pen immediately after use in a sharps disposal container (see Step 15. Dispose of the pre-filled pen ).
+- The pre-filled pen cannot be re-used. Dispose of the used pre-filled pen immediately after use in a sharps disposal container (see Step 15. Dispose of the pre-filled pen).
 
 ## Storing the pre-filled pen
 
@@ -6436,7 +6694,7 @@ At the start of treatment, your healthcare provider will assist you with your fi
 - Do not freeze the pre-filled pen.
 - If needed, individual Steqeyma pre-filled pens may also be stored at room temperature up to 25°C for a maximum single period of up to 31 days in the original carton in order to protect from light.
 - Record the date when the pre-filled pens are first removed from the refrigerator in the spaces provided on the outer carton.
-- At any time before the end of the storage period at room temperature, the product can be returned to the refrigerator once , and stored there until the original expiry date.
+- At any time before the end of the storage period at room temperature, the product can be returned to the refrigerator once, and stored there until the original expiry date.
 - Store this medicine sealed inside its carton to protect it from light.
 - Do not use the pre-filled pen if it has been left in direct sunlight.
 - Do not shake Steqeyma pre-filled pens. Strong shaking may damage the medicine.
@@ -6445,22 +6703,6 @@ At the start of treatment, your healthcare provider will assist you with your fi
 - Always keep the pre-filled pen dry.
 
 <div style=\"page-break-after: always\"></div>
-
-prefilled pen
-
-Medicine
-
-Adhesive bandage
-
-Before Use
-
-Needle
-
-Cover
-
-## Parts of the Steqeyma pre-filled pen (see Figure A)
-
-alcohol swab
 
 Figure A
 
@@ -6473,15 +6715,15 @@ Figure A
 - a. Prepare a clean, flat surface, such as a table or countertop, in a well-lit area.
 - b. Remove the carton(s) containing the pre-filled pen(s) from your refrigerator.
 - Depending on the dose prescribed to you by your healthcare provider you may need to prepare one or more pre-filled pens and inject the contents of them all.
-- c. Make sure you have the following supplies (see Figure B ):
-5. -Carton containing pre-filled pen
+- c. Make sure you have the following supplies (see Figure B):
+- Carton containing pre-filled pen
 
 ## Not included in the carton:
 
-- -Cotton ball or gauze
-- -Alcohol swab
-- -Adhesive bandage
-- -Sharps disposal container
+- Cotton ball or gauze
+- Alcohol swab
+- Adhesive bandage
+- Sharps disposal container
 2. Check the expiration date on the carton (see Figure C).
 - Do not use it if the expiration date has passed. If the expiration date has passed, return the entire pack to the pharmacy.
 
@@ -6489,19 +6731,7 @@ Figure B
 
 <!-- image -->
 
-Stopper
-
-ALCOHOL
-
-SWAB
-
 <div style=\"page-break-after: always\"></div>
-
-30
-
-minutes
-
-45 m
 
 Figure C
 
@@ -6510,7 +6740,7 @@ Figure C
 ## 3. Wait 30 minutes.
 
 - a. Open the carton and remove the pre-filled pen.
-- b. Leave the pre-filled pen at room temperature (20°C to 25°C) for about 30 minutes to allow it to warm up (see Figure D ).
+- b. Leave the pre-filled pen at room temperature (20°C to 25°C) for about 30 minutes to allow it to warm up (see Figure D).
 - This will let the liquid come to a comfortable temperature for injection (room temperature).
 - Do not warm the pre-filled pen using heat sources such as hot water or a microwave.
 
@@ -6522,19 +6752,17 @@ Figure D
 
 - a. Look at the pre-filled pen and make sure you have the correct medicine (Steqeyma) and dosage.
 - b. Check the pre-filled pen(s) to make sure the number of pre-filled pens is correct:
-3. -if your dose is 45 mg you will get one 45 mg pre-filled pen of Steqeyma.
-4. -if your dose is 90 mg you will get two 45 mg pre-filled pens of Steqeyma and you will need to give yourself two injections. Choose two different sites for these injections (e.g. one injection in the right thigh and the other injection in the left thigh), and give the injections one right after the other.
+- if your dose is 45 mg you will get one 45 mg pre-filled pen of Steqeyma.
+- if your dose is 90 mg you will get two 45 mg pre-filled pens of Steqeyma and you will need to give yourself two injections. Choose two different sites for these injections (e.g. one injection in the right thigh and the other injection in the left thigh), and give the injections one right after the other.
 - c. Look at the pre-filled pen and make sure it is not cracked or damaged.
-- d. Check the expiration date on the label of the pre-filled pen (see Figure E ).
+- d. Check the expiration date on the label of the pre-filled pen (see Figure E).
 - Do not shake the pre-filled pen.
 - Do not use the pre-filled pen if:
-9. -it has been dropped onto a hard surface.
-10. -it has been cracked or damaged.
-11. -the expiration date has passed.
+- it has been dropped onto a hard surface.
+- it has been cracked or damaged.
+- the expiration date has passed.
 
 <div style=\"page-break-after: always\"></div>
-
-· You may see air b
 
 Figure E
 
@@ -6542,7 +6770,7 @@ Figure E
 
 ## 5. Inspect the medicine.
 
-- a. Look at the medicine and confirm that the liquid is clear to slightly opalescent, colourless to pale yellow (see Figure F ).
+- a. Look at the medicine and confirm that the liquid is clear to slightly opalescent, colourless to pale yellow (see Figure F).
 - Do not use the pre-filled pen if the liquid is discoloured, cloudy, or has large particles.
 - You may see air bubbles in the liquid. This is normal.
 
@@ -6553,20 +6781,14 @@ Figure F
 ## 6. Choose an injection site (see Figure G):
 
 - a. You may inject into:
-2. -the front of your upper thighs.
-3. -your lower abdomen except for the 5 cm around the belly button (navel).
-4. -the outer area of the upper arm if you are a caregiver.
+- the front of your upper thighs.
+- your lower abdomen except for the 5 cm around the belly button (navel).
+- the outer area of the upper arm if you are a caregiver.
 - Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard, or if there are breaks in the skin. If possible, do not use areas of skin that show signs of psoriasis.
 - Do not inject through your clothes.
 - b. Choose a different injection site for each new injection at least 2.5 cm away from the area used for the last injection.
 
 <div style=\"page-break-after: always\"></div>
-
-· Do not blow on or tou
-
-= Caregiver ONLY
-
-] = Self-injection and Caregiver
 
 Figure G
 
@@ -6574,7 +6796,7 @@ Figure G
 
 ## 7. Wash your hands.
 
-- a. Wash your hands with soap and water and dry them thoroughly (see Figure H ).
+- a. Wash your hands with soap and water and dry them thoroughly (see Figure H).
 
 Figure H
 
@@ -6582,7 +6804,7 @@ Figure H
 
 ## 8. Clean the injection site.
 
-- a. Clean the injection site with an alcohol swab using a circular motion (see Figure I ).
+- a. Clean the injection site with an alcohol swab using a circular motion (see Figure I).
 - b. Let the skin dry before injecting.
 - Do not blow on or touch the injection site again before giving the injection.
 
@@ -6594,20 +6816,16 @@ Figure I
 
 ## 9. Remove the cap
 
-- a. Hold the pre-filled pen in one hand by the injector body with the cap on top. Gently pull the cap straight off with the other hand (see Figure J ).
+- a. Hold the pre-filled pen in one hand by the injector body with the cap on top. Gently pull the cap straight off with the other hand (see Figure J).
 
 <div style=\"page-break-after: always\"></div>
-
-90º|0
-
-OR
 
 - Do not remove the cap until you are ready to inject.
 - It is normal to see a few drops of liquid come out of the needle.
 - Do not touch the needle or needle cover. Doing so may result in a needle stick injury because the needle is inside the needle cover.
 - Inject STEQEYMA within 5 minutes of removing the cap.
 - Do not re-cap the pre-filled pen.
-- b. Dispose of the cap right away in a sharps disposal container (see Step 15 and Figure J ).
+- b. Dispose of the cap right away in a sharps disposal container (see Step 15 and Figure J).
 
 Figure J
 
@@ -6616,7 +6834,7 @@ Figure J
 ## 10. Place the pre-filled pen on the injection site.
 
 - a. Hold the pre-filled pen so that you can see the window.
-- b. Without pinching or stretching the skin, place the pre-filled pen over the injection site at a 90degree angle (see Figure K ).
+- b. Without pinching or stretching the skin, place the pre-filled pen over the injection site at a 90degree angle (see Figure K).
 
 Figure K
 
@@ -6624,28 +6842,12 @@ Figure K
 
 ## 11. Give the injection.
 
-- a. Press the pre-filled pen firmly against the skin. When the injection starts you will hear the 1 st 'click' and the light lila plunger rod will begin to fill the window (see Figure L ).
-- b. Keep holding the pre-filled pen firmly against the skin and listen for the 2 nd 'click' (see Figure L ).
+- a. Press the pre-filled pen firmly against the skin. When the injection starts you will hear the 1 st 'click' and the light lila plunger rod will begin to fill the window (see Figure L).
+- b. Keep holding the pre-filled pen firmly against the skin and listen for the 2 nd 'click' (see Figure L).
 - Do not change the position of the pre-filled pen after the injection has started.
 - c. After you hear the 2 nd 'click,' continue to hold the pre-filled pen firmly against the skin and count slowly to 5 to make sure you inject the full dose.
 
 <div style=\"page-break-after: always\"></div>
-
-· Do not rub the injectic
-
-Start of Injection
-
-1st click
-
-Injection is ongoing
-
-2nd click
-
-Count slowly
-
-to 5
-
-End of Injection
 
 Figure L
 
@@ -6656,8 +6858,8 @@ Figure L
 - a. Look at the pre-filled pen and make sure that the light lila plunger rod with the grey stopper is filling the window completely.
 - You may see the grey stopper in the window. This is normal.
 - If the window has not turned completely light lila or if the medicine is still injecting, this means you have not received a full dose. Call your healthcare provider immediately.
-- b. Remove the pre-filled pen from your skin (see Figure M ).
-- After you remove the pre-filled pen from the injection site, the needle will be automatically covered (see Figure N ). Do not re-cap the pen.
+- b. Remove the pre-filled pen from your skin (see Figure M).
+- After you remove the pre-filled pen from the injection site, the needle will be automatically covered (see Figure N). Do not re-cap the pen.
 - Do not reuse the pre-filled pen.
 - Do not rub the injection site.
 
@@ -6673,7 +6875,7 @@ Figure N
 
 ## 13. If your dose requires 2 injections, inject second dose.
 
-- a. If you receive two 45 mg pre-filled pens for a 90 mg dose, immediately repeat Steps 5-12 .
+- a. If you receive two 45 mg pre-filled pens for a 90 mg dose, immediately repeat Steps 5-12.
 - Give the injections one right after the other.
 - Choose a different site for the second injection.
 
@@ -6686,15 +6888,15 @@ Figure N
 ## 15. Dispose of the pre-filled pen.
 
 - Do not re-cap the pre-filled pen.
-- a. Throw away the used pre-filled pen in a sharps disposal container as instructed by your doctor, nurse or pharmacist (see Figure O ).
+- a. Throw away the used pre-filled pen in a sharps disposal container as instructed by your doctor, nurse or pharmacist (see Figure O).
 - b. The alcohol swab and packaging may be put in your household trash.
 - Do not throw away (dispose of) the pre-filled pen in your household trash.
 - If you do not have a sharps disposal container, you may use a household container that is:
-- -made of a heavy-duty plastic,
-- -can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-- -upright and stable during use,
-- -leak-resistant, and
-- -properly labeled to warn of hazardous waste inside the container.
+- made of a heavy-duty plastic,
+- can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+- upright and stable during use,
+- leak-resistant, and
+- properly labeled to warn of hazardous waste inside the container.
 
 Figure O
 
@@ -6716,10 +6918,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 ## This leaflet has been written for the person taking the medicine.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -6745,6 +6947,7 @@ Steqeyma administered using the pre-filled pen is used to treat the following in
 -  Plaque psoriasis - in adults
 -  Psoriatic arthritis - in adults
 -  Moderate to severe Crohn's disease - in adults
+-  Moderate to severe ulcerative colitis - in adults
 
 ## Plaque psoriasis
 
@@ -6765,6 +6968,10 @@ Psoriatic arthritis is an inflammatory disease of the joints, usually accompanie
 ## Crohn's disease
 
 Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Steqeyma to reduce the signs and symptoms of your disease.
+
+## Ulcerative colitis
+
+Ulcerative colitis is an inflammatory disease of the bowel. If you have ulcerative colitis you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Steqeyma to reduce the signs and symptoms of your disease.
 
 ## 2. What you need to know before you use Steqeyma
 
@@ -6794,9 +7001,9 @@ Steqeyma can cause serious side effects, including allergic reactions and infect
 -  If you are having or have ever had injections to treat allergies - it is not known if ustekinumab may affect these.
 -  If you are 65 years of age or over - you may be more likely to get infections.
 
-If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Steqeyma.
-
 <div style=\"page-break-after: always\"></div>
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Steqeyma.
 
 Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
@@ -6808,7 +7015,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 The Steqeyma pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis or Crohn's disease because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, pre-filled syringe or vial should be used instead for children weighing at least 40 kg with Crohn's disease.
 
-Steqeyma is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis or children with Crohn's disease who weigh less than 40 kg because it has not been studied in this age group.
+Steqeyma is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, ulcerative colitis or children with Crohn's disease who weigh less than 40 kg because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Steqeyma
 
@@ -6827,11 +7034,11 @@ Tell your doctor or pharmacist:
 -  It is important that you tell your baby's doctors and other health care professionals if you received Steqeyma during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Steqeyma during the pregnancy unless your baby's doctor recommends otherwise.
 -  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Steqeyma - do not do both.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Steqeyma has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Steqeyma contains polysorbate 80
 
@@ -6847,12 +7054,14 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Steqeyma you need to use and for how long.
 
-## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older
+
+## Psoriasis or Psoriatic Arthritis
 
 -  The recommended starting dose is 45 mg Steqeyma. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
 
-## Crohn's disease
+## Crohn's disease or Ulcerative Colitis
 
 -  During treatment, the first dose of approximately 6 mg/kg Steqeyma will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Steqeyma after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 -  In some patients, after the first injection under the skin, 90 mg Steqeyma may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
@@ -6942,7 +7151,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-## Uncommon side effects (may affect up to 1 in 100 people):
+Uncommon side effects (may affect up to 1 in 100 people):
 
 -  Tooth infections
 -  Vaginal yeast infection
@@ -6973,10 +7182,10 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 -  Keep this medicine out of the sight and reach of children.
 -  Store in a refrigerator (2 °C-8 °C). Do not freeze.
--  Keep the pre-filled pen in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
+-  Keep the pre-filled pen in the outer carton in order to protect from light.
 -  If needed, individual Steqeyma pre-filled pens may also be stored at room temperature up to 25 °C for a maximum single period of up to 31 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this 31-day period at room temperature, the product can be returned to the refrigerator once, and stored there until the original expiry date. Discard the pen if not used within 31 days at room temperature storage or by the original expiry date, whichever is earlier.
 -  Do not shake Steqeyma pre-filled pens. Prolonged vigorous shaking may damage the medicine.
 
@@ -7010,17 +7219,15 @@ Nuvisan France SARL 2400, Route des Colles 06410, Biot France
 
 MIDAS Pharma GmbH Rheinstrasse 49 55218 West Ingelheim Am Rhein Rhineland-Palatinate Germany
 
-Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles
+Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles 08290 Cerdanyola Del Valles Barcelona Spain For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-08290 Cerdanyola Del Valles Barcelona Spain
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## België/Belgique/Belgien
 
-Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
+Celltrion Healthcare Belgium BVBA
+
+Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 ## България
 
@@ -7054,9 +7261,9 @@ Kern Pharma, S.L. Tel: +34 93 700 2525
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α . Ε .
+ΒΙΑΝΕΞ Α.Ε.
 
-Τηλ : +30 210 8009111
+Τηλ: +30 210 8009111
 
 ## France
 
@@ -7066,15 +7273,11 @@ Tél.: +33 (0)1 71 25 27 00
 
 ## Hrvatska
 
-Oktal Pharma d.o.o.
-
-Tel: +385 1 6595 777
+Oktal Pharma d.o.o. Tel: +385 1 6595 777
 
 ## Lietuva
 
-Celltrion Healthcare Hungary Kft.
-
-Tel.: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Luxembourg/Luxemburg
 
@@ -7082,13 +7285,13 @@ Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.co
 
 ## Magyarország
 
-Celltrion Healthcare Hungary Kft.
-
-Tel.: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Malta
 
-Mint Health Ltd Tel: +356 2093 9800
+Mint Health Ltd
+
+Tel: +356 2093 9800
 
 ## Nederland
 
@@ -7096,13 +7299,13 @@ Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.c
 
 ## Norge
 
-Celltrion Healthcare Norway AS
-
-contact\\_no@celltrionhc.com
+Celltrion Healthcare Norway AS contact\\_no@celltrionhc.com
 
 ## Österreich
 
-Astro-Pharma GmbH Tel: +43 1 97 99 860
+Astro-Pharma GmbH
+
+Tel: +43 1 97 99 860
 
 ## Polska
 
@@ -7110,91 +7313,63 @@ Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Portugal
 
-CELLTRION PORTUGAL, UNIPESSOAL LDA
-
-Tel: +351 21 936 8542
-
-contact\\_pt@celltrion.com
+CELLTRION PORTUGAL, UNIPESSOAL LDA Tel: +351 21 936 8542 contact\\_pt@celltrion.com
 
 ## România
 
-Celltrion Healthcare Hungary Kft.
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
-Tel: +36 1 231 0493
+<div style=\"page-break-after: always\"></div>
 
 ## Ireland
 
-Celltrion Healthcare Ireland Limited
+## Slovenija
 
-Tel: +353 1 223 4026
+Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026
 
 enquiry\\_ie@celltrionhc.com
 
-## Slovenija
-
-OPH Oktal Pharma d.o.o.
-
-Tel.: +386 1 519 29 22
-
 ## Ísland
 
-Celltrion Healthcare Hungary Kft.
-
-Sími: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493
 
 contact\\_fi@celltrionhc.com
-
-## Slovenská republika
-
-Celltrion Healthcare Hungary Kft.
-
-Tel: +36 1 231 0493
 
 ## Italia
 
-Celltrion Healthcare Italy S.R.L.
-
-Tel: +39 0247927040
+Celltrion Healthcare Italy S.R.L. Tel: +39 0247927040
 
 celltrionhealthcare\\_italy@legalmail.it
-
-## Suomi/Finland
-
-Celltrion Healthcare Finland Oy.
-
-Puh/Tel: +358 29 170 7755
-
-contact\\_fi@celltrionhc.com
 
 ## Κύπρος
 
 C.A. Papaellinas Ltd
 
-Τηλ:
-
-+357 22741741
-
-## Sverige
-
-Celltrion Sweden AB
-
-Tel: +46 8 80 11 77
-
-Contact\\_se@celltrionhc.com
+Τηλ: +357 22741741
 
 ## Latvija
 
-Celltrion Healthcare Hungary Kft.
+Celltrion Healthcare Hungary Kft. Tālr.: +36 1 231 0493
 
-Tālr.:
+## This leaflet was last revised in &lt;{MM/YYYY}&gt;.
 
-+36 1 231 0493
+Detailed information on this medicine is available on the European Medicines Agency web site:
 
-## This leaflet was last revised in &lt; { MM/YYYY }&gt;.
+https://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
+OPH Oktal Pharma d.o.o. Tel.: +386 1 519 29 22
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+## Slovenská republika
+
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+
+## Suomi/Finland
+
+Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
+
+## Sverige
+
+Celltrion Sweden AB Tel: +46 8 80 11 77 Contact\\_se@celltrionhc.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7212,7 +7387,7 @@ At the start of treatment, your healthcare provider will assist you with your fi
 - Do not use if the pre-filled pen is cracked or damaged.
 - Do not use the medicine if the expiration date has passed.
 - Do not share the pre-filled pen with anyone.
-- The pre-filled pen cannot be re-used. Dispose of the used pre-filled pen immediately after use in a sharps disposal container (see Step 14. Dispose of the pre-filled pen ).
+- The pre-filled pen cannot be re-used. Dispose of the used pre-filled pen immediately after use in a sharps disposal container (see Step 14. Dispose of the pre-filled pen).
 
 ## Storing the pre-filled pen
 
@@ -7221,7 +7396,7 @@ At the start of treatment, your healthcare provider will assist you with your fi
 - Do not freeze the pre-filled pen.
 - If needed, individual Steqeyma pre-filled pens may also be stored at room temperature up to 25°C for a maximum single period of up to 31 days in the original carton in order to protect from light.
 - Record the date when the pre-filled pens are first removed from the refrigerator in the spaces provided on the outer carton.
-- At any time before the end of the storage period at room temperature, the product can be returned to the refrigerator once , and stored there until the original expiry date.
+- At any time before the end of the storage period at room temperature, the product can be returned to the refrigerator once, and stored there until the original expiry date.
 - Store this medicine sealed inside its carton to protect it from light.
 - Do not use the pre-filled pen if it has been left in direct sunlight.
 - Do not shake Steqeyma pre-filled pens. Strong shaking may damage the medicine.
@@ -7230,28 +7405,6 @@ At the start of treatment, your healthcare provider will assist you with your fi
 - Always keep the pre-filled pen dry.
 
 <div style=\"page-break-after: always\"></div>
-
--
-
-prefilled pen
-
-Medicine :
-
-Adhesive bandage
-
-Before Use
-
-Sharps dispo
-
-ALCOHOL
-
-SWAB
-
-Cap-
-
-## Parts of the Steqeyma pre-filled pen (see Figure A)
-
-alcohol swab
 
 Figure A
 
@@ -7263,15 +7416,15 @@ Figure A
 
 - a. Prepare a clean, flat surface, such as a table or countertop, in a well-lit area.
 - b. Remove 1 carton containing the pre-filled pen from your refrigerator.
-- c. Make sure you have the following supplies (see Figure B ):
-4. -Carton containing pre-filled pen
+- c. Make sure you have the following supplies (see Figure B):
+- Carton containing pre-filled pen
 
 ## Not included in the carton:
 
-- -Cotton ball or gauze
-- -Alcohol swab
-- -Adhesive bandage
-- -Sharps disposal container
+- Cotton ball or gauze
+- Alcohol swab
+- Adhesive bandage
+- Sharps disposal container
 
 Figure B
 
@@ -7281,17 +7434,7 @@ Figure B
 
 - Do not use it if the expiration date has passed. If the expiration date has passed, return the entire pack to the pharmacy.
 
-Stopper
-
-Needle
-
 <div style=\"page-break-after: always\"></div>
-
-30
-
-minutes
-
-90 m
 
 Figure C
 
@@ -7300,7 +7443,7 @@ Figure C
 ## 3. Wait 30 minutes.
 
 - a. Open the carton and remove the pre-filled pen.
-- b. Leave the pre-filled pen at room temperature (20°C to 25°C) for about 30 minutes to allow it to warm up (see Figure D ).
+- b. Leave the pre-filled pen at room temperature (20°C to 25°C) for about 30 minutes to allow it to warm up (see Figure D).
 - This will let the liquid come to a comfortable temperature for injection (room temperature).
 - Do not warm the pre-filled pen using heat sources such as hot water or a microwave.
 
@@ -7311,34 +7454,26 @@ Figure D
 ## 4. Inspect the pre-filled pen.
 
 - a. Look at the pre-filled pen and make sure you have the correct medicine (Steqeyma) and dosage:
-2. -if your dose is 90 mg you will get one 90 mg pre-filled pen of Steqeyma.
+- if your dose is 90 mg you will get one 90 mg pre-filled pen of Steqeyma.
 - b. Look at the pre-filled pen and make sure it is not cracked or damaged.
-- c. Check the expiration date on the label of the pre-filled pen (see Figure E ).
+- c. Check the expiration date on the label of the pre-filled pen (see Figure E).
 - Do not shake the pre-filled pen.
 - Do not use the pre-filled pen if:
-7. -it has been dropped onto a hard surface.
-8. -it has been cracked or damaged.
-9. -the expiration date has passed.
+- it has been dropped onto a hard surface.
+- it has been cracked or damaged.
+- the expiration date has passed.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-for the last injection.
-
-· You may see air b
-
 ## Figure E
 
 ## 5. Inspect the medicine.
 
-- a. Look at the medicine and confirm that the liquid is clear to slightly opalescent, colourless to pale yellow (see Figure F ).
+- a. Look at the medicine and confirm that the liquid is clear to slightly opalescent, colourless to pale yellow (see Figure F).
 - Do not use the pre-filled pen if the liquid is discoloured, cloudy, or has large particles.
 - You may see air bubbles in the liquid. This is normal.
-
-= Caregiver ONLY
-
-= Self-injection and Caregiver
 
 Figure F
 
@@ -7347,9 +7482,9 @@ Figure F
 ## 6. Choose an injection site (see Figure G):
 
 - a. You may inject into:
-2. -the front of your upper thighs.
-3. -your lower abdomen except for the 5 cm around the belly button (navel).
-4. -the outer area of the upper arm if you are a caregiver.
+- the front of your upper thighs.
+- your lower abdomen except for the 5 cm around the belly button (navel).
+- the outer area of the upper arm if you are a caregiver.
 - Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard, or if there are breaks in the skin. If possible, do not use areas of skin that show signs of psoriasis.
 - Do not inject through your clothes.
 - b. Choose a different injection site for each new injection at least 2.5 cm away from the area used for the last injection.
@@ -7360,11 +7495,9 @@ Figure G
 
 ## 7. Wash your hands.
 
-- a. Wash your hands with soap and water and dry them thoroughly (see Figure H ).
+- a. Wash your hands with soap and water and dry them thoroughly (see Figure H).
 
 <div style=\"page-break-after: always\"></div>
-
-· Do not blow on or tou
 
 Figure H
 
@@ -7372,7 +7505,7 @@ Figure H
 
 ## 8. Clean the injection site.
 
-- a. Clean the injection site with an alcohol swab using a circular motion (see Figure I ).
+- a. Clean the injection site with an alcohol swab using a circular motion (see Figure I).
 - b. Let the skin dry before injecting.
 - Do not blow on or touch the injection site again before giving the injection.
 
@@ -7384,13 +7517,13 @@ Figure I
 
 ## 9. Remove the cap
 
-- a. Hold the pre-filled pen in one hand by the injector body with the cap on top. Gently pull the cap straight off with the other hand (see Figure J ).
+- a. Hold the pre-filled pen in one hand by the injector body with the cap on top. Gently pull the cap straight off with the other hand (see Figure J).
 - Do not remove the cap until you are ready to inject.
 - It is normal to see a few drops of liquid come out of the needle.
 - Do not touch the needle or needle cover. Doing so may result in a needle stick injury because the needle is inside the needle cover.
 - Inject Steqeyma within 5 minutes of removing the cap.
 - Do not re-cap the pre-filled pen.
-- b. Dispose of the cap right away in a sharps disposal container (see Step 14 and Figure J ).
+- b. Dispose of the cap right away in a sharps disposal container (see Step 14 and Figure J).
 
 Figure J
 
@@ -7401,9 +7534,7 @@ Figure J
 ## 10. Place the pre-filled pen on the injection site.
 
 - a. Hold the pre-filled pen so that you can see the window.
-- b. Without pinching or stretching the skin, place the pre-filled pen over the injection site at a 90degree angle (see Figure K ).
-
-OR
+- b. Without pinching or stretching the skin, place the pre-filled pen over the injection site at a 90degree angle (see Figure K).
 
 Figure K
 
@@ -7411,28 +7542,12 @@ Figure K
 
 ## 11. Give the injection.
 
-- a. Press the pre-filled pen firmly against the skin. When the injection starts you will hear the 1 st 'click' and the light lila plunger rod will begin to fill the window (see Figure L ).
-- b. Keep holding the pre-filled pen firmly against the skin and listen for the 2 nd 'click' (see Figure L ).
+- a. Press the pre-filled pen firmly against the skin. When the injection starts you will hear the 1 st 'click' and the light lila plunger rod will begin to fill the window (see Figure L).
+- b. Keep holding the pre-filled pen firmly against the skin and listen for the 2 nd 'click' (see Figure L).
 - Do not change the position of the pre-filled pen after the injection has started.
 - c. After you hear the 2 nd 'click,' continue to hold the pre-filled pen firmly against the skin and count slowly to 5 to make sure you inject the full dose.
 
 <div style=\"page-break-after: always\"></div>
-
-· Do not rub the injectic
-
-Start of Injection
-
-1st click
-
-Injection is ongoing
-
-2nd click
-
-Count slowly
-
-to 5
-
-End of Injection
 
 Figure L
 
@@ -7443,8 +7558,8 @@ Figure L
 - a. Look at the pre-filled pen and make sure that the light lila plunger rod with the grey stopper is filling the window completely.
 - You may see the grey stopper in the window. This is normal.
 - If the window has not turned completely light lila or if the medicine is still injecting, this means you have not received a full dose. Call your healthcare provider immediately.
-- b. Remove the pre-filled pen from your skin (see Figure M ).
-- After you remove the pre-filled pen from the injection site, the needle will be automatically covered (see Figure N ). Do not re-cap the pen.
+- b. Remove the pre-filled pen from your skin (see Figure M).
+- After you remove the pre-filled pen from the injection site, the needle will be automatically covered (see Figure N). Do not re-cap the pen.
 - Do not reuse the pre-filled pen.
 - Do not rub the injection site.
 
@@ -7467,15 +7582,15 @@ Figure N
 ## 14. Dispose of the pre-filled pen.
 
 - Do not re-cap the pre-filled pen.
-- a. Throw away the used pre-filled pen in a sharps disposal container as instructed by your doctor, nurse or pharmacist (see Figure O ).
+- a. Throw away the used pre-filled pen in a sharps disposal container as instructed by your doctor, nurse or pharmacist (see Figure O).
 - b. The alcohol swab and packaging may be put in your household trash.
 - Do not throw away (dispose of) the pre-filled pen in your household trash.
 - If you do not have a sharps disposal container, you may use a household container that is:
-- -made of a heavy-duty plastic,
-- -can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-- -upright and stable during use,
-- -leak-resistant, and
-- -properly labeled to warn of hazardous waste inside the container.
+- made of a heavy-duty plastic,
+- can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+- upright and stable during use,
+- leak-resistant, and
+- properly labeled to warn of hazardous waste inside the container.
 
 Figure O
 

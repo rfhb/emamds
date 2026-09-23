@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 16:54:37
-document_pages: 37
+document_datetime: 2026-09-21 16:59:27
+document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mysildecard-epar-product-information_en.pdf
 document_name: mysildecard-epar-product-information_en.pdf
 version: success
-processing_time: 8.2435234
-conversion_datetime: 2026-05-10 12:19:47.766689
+processing_time: 48.7703528
+conversion_datetime: 2026-09-23 07:05:07.205032
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,7 +34,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Film-coated tablet.
+Film-coated tablet (tablet).
 
 A white, round, biconvex film-coated tablet (approximately 6.5 mm diameter), debossed with M on one side of the tablet and SL over 20 on the other side.
 
@@ -72,13 +72,13 @@ In general, any dose adjustment should be administered only after a careful bene
 
 ## Special populations
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 Dose adjustments are not required in elderly patients. Clinical efficacy as measured by 6-minute walk distance could be less in elderly patients.
 
 ## Renal impairment
 
-Initial dose adjustments are not required in patients with renal impairment, including severe renal impairment (creatinine clearance &lt; 30 ml/min ). A downward dose adjustment to 20 mg twice daily should be considered after a careful benefit-risk assessment only if therapy is not well-tolerated.
+Initial dose adjustments are not required in patients with renal impairment, including severe renal impairment (creatinine clearance &lt; 30 ml/min). A downward dose adjustment to 20 mg twice daily should be considered after a careful benefit-risk assessment only if therapy is not well-tolerated.
 
 ## Hepatic impairment
 
@@ -160,7 +160,7 @@ Caution is advised when sildenafil is administered to patients taking an alpha-b
 
 ## Bleeding disorders
 
-Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro . There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
+Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro. There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
 
 ## Vitamin K antagonists
 
@@ -210,11 +210,11 @@ Co-administration of bosentan (a moderate inducer of CYP3A4, CYP2C9 and possibly
 
 Efficacy of sildenafil should be closely monitored in patients using concomitant potent CYP3A4 inducers, such as carbamazepine, phenytoin, phenobarbital, St John's wort and rifampicine.
 
-Co-administration of the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg twice daily) with sildenafil (100 mg single dose) resulted in a 300% (4-fold)increase in sildenafil C max and a 1,000% (11-fold) increase in sildenafil plasma AUC. At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/ml, compared to approximately 5 ng/ml when sildenafil was administered alone. This is consistent with ritonavir's marked effects on a broad range of P450 substrates. Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is contraindicated in pulmonary arterial hypertension patients (see section 4.3).
+Co-administration of the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg twice daily) with sildenafil (100 mg single dose) resulted in a 300% (4-fold)increase in sildenafil Cmax and a 1,000% (11-fold) increase in sildenafil plasma AUC. At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/ml, compared to approximately 5 ng/ml when sildenafil was administered alone. This is consistent with ritonavir's marked effects on a broad range of P450 substrates. Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is contraindicated in pulmonary arterial hypertension patients (see section 4.3).
 
-Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil C max and a 210% increase in sildenafil AUC. Sildenafil had no effect on saquinavir pharmacokinetics. For dose recommendations, see section 4.2.
+Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC. Sildenafil had no effect on saquinavir pharmacokinetics. For dose recommendations, see section 4.2.
 
-When a single 100 mg dose of sildenafil was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC). For dose recommendations, see section 4.2. In healthy male volunteers, there was no evidence of an effect of azithromycin (500 mg daily for 3 days) on the AUC, C max , T max , elimination rate constant, or subsequent half-life of sildenafil or its principal circulating metabolite. No dose adjustment is required. Cimetidine (800 mg), a cytochrome P450 inhibitor and a non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with sildenafil (50 mg) to healthy volunteers. No dose adjustment is required.
+When a single 100 mg dose of sildenafil was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC). For dose recommendations, see section 4.2. In healthy male volunteers, there was no evidence of an effect of azithromycin (500 mg daily for 3 days) on the AUC, Cmax, Tmax, elimination rate constant, or subsequent half-life of sildenafil or its principal circulating metabolite. No dose adjustment is required. Cimetidine (800 mg), a cytochrome P450 inhibitor and a non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with sildenafil (50 mg) to healthy volunteers. No dose adjustment is required.
 
 The most potent of the CYP3A4 inhibitors such as ketoconazole and itraconazole would be expected to have effects similar to ritonavir (see section 4.3). CYP3A4 inhibitors like clarithromycin, telithromycin and nefazodone are expected to have an effect in between that of ritonavir and CYP3A4 inhibitors like saquinavir or erythromycin, a seven-fold increase in exposure is assumed. Therefore dose adjustments are recommended when using CYP3A4 inhibitors (see section 4.2).
 
@@ -401,7 +401,7 @@ Pharmacotherapeutic group: Urologicals, Drugs used in erectile dysfunction, ATC 
 
 ## Mechanism of action
 
-Sildenafil is a potent and selective inhibitor of cyclic guanosine monophosphate (cGMP) specific phosphodiesterase type 5 (PDE5), the enzyme that is responsible for degradation of cGMP. Apart from the presence of this enzyme in the corpus cavernosum of the penis, PDE5 is also present in the pulmonary vasculature . Sildenafil, therefore, increases cGMP within pulmonary vascular smooth muscle cells resulting in relaxation. In patients with pulmonary arterial hypertension this can lead to vasodilation of the pulmonary vascular bed and, to a lesser degree, vasodilatation in the systemic circulation.
+Sildenafil is a potent and selective inhibitor of cyclic guanosine monophosphate (cGMP) specific phosphodiesterase type 5 (PDE5), the enzyme that is responsible for degradation of cGMP. Apart from the presence of this enzyme in the corpus cavernosum of the penis, PDE5 is also present in the pulmonary vasculature. Sildenafil, therefore, increases cGMP within pulmonary vascular smooth muscle cells resulting in relaxation. In patients with pulmonary arterial hypertension this can lead to vasodilation of the pulmonary vascular bed and, to a lesser degree, vasodilatation in the systemic circulation.
 
 ## Pharmacodynamic effects
 
@@ -530,9 +530,9 @@ Treatment-emergent adverse events and serious adverse events were reported in 22
 
 ## Absorption
 
-Sildenafil is rapidly absorbed. Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state. The mean absolute oral bioavailability is 41% (range 25-63%). After oral three times a day dosing of sildenafil, AUC and C max increase in proportion with dose over the dose range of 20-40 mg. After oral doses of 80 mg three times a day a more than dose proportional increase in sildenafil plasma levels has been observed. In pulmonary arterial hypertension patients, the oral bioavailability of sildenafil after 80 mg three times a day was on average 43% (90% CI: 27% - 60%) higher compared to the lower doses.
+Sildenafil is rapidly absorbed. Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state. The mean absolute oral bioavailability is 41% (range 25-63%). After oral three times a day dosing of sildenafil, AUC and Cmax increase in proportion with dose over the dose range of 20-40 mg. After oral doses of 80 mg three times a day a more than dose proportional increase in sildenafil plasma levels has been observed. In pulmonary arterial hypertension patients, the oral bioavailability of sildenafil after 80 mg three times a day was on average 43% (90% CI: 27% - 60%) higher compared to the lower doses.
 
-When sildenafil is taken with food, the rate of absorption is reduced with a mean delay in T max of 60 minutes and a mean reduction in Cmax of 29% however, the extent of absorption was not significantly affected (AUC decreased by 11%).
+When sildenafil is taken with food, the rate of absorption is reduced with a mean delay in Tmax of 60 minutes and a mean reduction in Cmax of 29% however, the extent of absorption was not significantly affected (AUC decreased by 11%).
 
 ## Distribution
 
@@ -568,7 +568,7 @@ In patients with pulmonary arterial hypertension, the average steady state conce
 
 ## Paediatric population
 
-From the analysis of the pharmacokinetic profile of sildenafil in patients involved in the paediatric clinical trials, body weight was shown to be a good predictor of drug exposure in children. Sildenafil plasma concentration half-life values were estimated to range from 4.2 to 4.4 hours for a range of 10 to 70 kg of body weight and did not show any differences that would appear as clinically relevant. C max after a single 20 mg sildenafil dose administered PO was estimated at 49, 104 and 165 ng/ml for 70, 20 and 10 kg patients, respectively. C max after a single 10 mg sildenafil dose administered PO was estimated at 24, 53 and 85 ng/ml for 70, 20 and 10 kg patients, respectively. T max was estimated at approximately 1 hour and was almost independent from body weight.
+From the analysis of the pharmacokinetic profile of sildenafil in patients involved in the paediatric clinical trials, body weight was shown to be a good predictor of drug exposure in children. Sildenafil plasma concentration half-life values were estimated to range from 4.2 to 4.4 hours for a range of 10 to 70 kg of body weight and did not show any differences that would appear as clinically relevant. Cmax after a single 20 mg sildenafil dose administered PO was estimated at 49, 104 and 165 ng/ml for 70, 20 and 10 kg patients, respectively. Cmax after a single 10 mg sildenafil dose administered PO was estimated at 24, 53 and 85 ng/ml for 70, 20 and 10 kg patients, respectively. Tmax was estimated at approximately 1 hour and was almost independent from body weight.
 
 ## 5.3 Preclinical safety data
 
@@ -590,7 +590,9 @@ Microcrystalline cellulose (PH 102) Calcium hydrogen phosphate Croscarmellose so
 
 ## Film coat
 
-Hypromellose 6 mPas Titanium dioxide (E171) Triacetin
+Hypromellose 6 mPas
+
+Titanium dioxide (E171) Triacetin
 
 ## 6.2 Incompatibilities
 
@@ -622,10 +624,7 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-| EU/1/16/1134/001   |
-|--------------------|
-| EU/1/16/1134/002   |
-| EU/1/16/1134/003   |
+EU/1/16/1134/001 EU/1/16/1134/002 EU/1/16/1134/003
 
 <div style=\"page-break-after: always\"></div>
 
@@ -665,7 +664,7 @@ The printed package leaflet of the medicinal product must state the name and add
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
-Medicinal  product  subject  to  restricted  medical  prescription  (see  Annex  I:  Summary  of  Product Characteristics, section 4.2).
+Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
@@ -714,7 +713,7 @@ Each film-coated tablet contains 20 mg of sildenafil (as citrate).
 
 ## Film-coated tablet
 
-90 film-coated tablets
+- 90 film-coated tablets
 
 300 film-coated tablets
 
@@ -774,7 +773,7 @@ Medicinal product subject to medical prescription.
 
 ## 16. INFORMATION IN BRAILLE
 
-Mysildecard 20 mg  tablets
+Mysildecard 20 mg film-coated tablets
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -790,24 +789,43 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+BLISTER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Mysildecard 20 mg film-coated tablets sildenafil
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Viatris Limited
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot Mysildecard 20 mg film-coated tablets sildenafil Viatris Limited EXP
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
 | MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
 |-------------------------------------------------------|
-| BLISTER                                               |
+| UNIT-DOSE BLISTER                                     |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Mysildecard 20 mg film-coated tablets sildenafil
-
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Viatris Limited
-
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -829,10 +847,10 @@ Lot
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1005,15 +1023,16 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Mysildecard contains
 
-- -The active substance is sildenafil. Each tablet contains 20 mg of sildenafil (as the citrate).
-- -The other ingredients are:
-- Tablet core: microcrystalline cellulose (PH 102), calcium hydrogen phosphate, croscarmellose sodium (see section 2 'Mysildecard contains sodium') and magnesium stearate.
+- The active substance is sildenafil. Each tablet contains 20 mg of sildenafil (as the citrate).
+- The other ingredients are:
+
+Tablet core: microcrystalline cellulose (PH 102), calcium hydrogen phosphate, croscarmellose sodium (see section 2 'Mysildecard contains sodium') and magnesium stearate.
 
 Film coat: hypromellose (6mPas), titanium dioxide (E171) and triacetin.
 
 ## What Mysildecard looks like and contents of the pack
 
-Mysildecard film-coated tablets are white and round in shape. The tablets are marked with M on one side and SL over 20 on the other. The tablets are provided in blisters in packs containing 90, 300 and (90 x 1) tablets. Not all pack sizes may be marketed.
+Mysildecard film-coated tablets (tablets) are white and round in shape. The tablets are marked with M on one side and SL over 20 on the other. The tablets are provided in blisters in packs containing 90, 300 and (90 x 1) tablets. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -1023,9 +1042,7 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## Manufacturer:
 
-Mylan Hungary Kft.
-
-Mylan utca 1, Komárom, 2900, Hungary
+Mylan Hungary Kft. Mylan utca 1, Komárom, 2900, Hungary
 
 Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1095,7 +1112,7 @@ Tel: +385 1 23 50 599
 
 Viatris Limited
 
-Tel:  +353 1 8711600
+Tel: +353 1 8711600
 
 ## Ísland
 
@@ -1177,8 +1194,6 @@ Viatris Slovakia s.r.o.
 
 Tel: +421 2 32 199 100
 
-<div style=\"page-break-after: always\"></div>
-
 ## Italia
 
 Viatris Italia S.r.l.
@@ -1187,9 +1202,7 @@ Tel: + 39 (0) 2 612 46921
 
 ## Κύπρος
 
-CPO Pharmaceuticals Limited
-
-Τηλ: +357 22863100
+CPO Pharmaceuticals Limited Τηλ: +357 22863100
 
 ## Latvija
 
@@ -1197,18 +1210,22 @@ SIA G.L. Pharma Riga
 
 Tel: +371 67887140
 
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
-
 ## Suomi/Finland
 
 Viatris Oy
 
 Puh/Tel: +358 20 720 9555
 
-Sverige Viatris AB
+## Sverige
+
+Viatris AB
 
 Tel: + 46 (0)8 630 19 00
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.

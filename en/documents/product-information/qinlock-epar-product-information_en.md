@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-27 10:14:58
+document_datetime: 2026-09-17 08:42:28
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/qinlock-epar-product-information_en.pdf
 document_name: qinlock-epar-product-information_en.pdf
 version: success
-processing_time: 10.6815674
-conversion_datetime: 2026-09-02 22:05:09.785672
+processing_time: 36.9076733
+conversion_datetime: 2026-09-23 07:13:49.596769
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,7 +52,7 @@ QINLOCK is indicated for the treatment of adult patients with advanced gastroint
 
 QINLOCK should be prescribed by physicians experienced in the administration of anticancer agents.
 
-## Posology
+Posology
 
 The recommended dose is 150 mg ripretinib (three 50 mg tablets) taken once daily at the same time each day with or without food.
 
@@ -72,16 +72,16 @@ QINLOCK should be permanently discontinued in patients who are unable to tolerat
 
 Table 1: Recommended dose modifications for adverse reactions
 
-| Adverse reaction                                                              | Severity a   | QINLOCK dose modifications                                                                                                                                                                                                                                                                                                                                  |
-|-------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Palmar-Plantar Erythrodysaesthesia Syndrome (PPES) (see sections 4.4 and 4.8) | Grade 2      | • Withhold until Grade ≤1 or baseline. If recovered within 7 days, resume at same dose; otherwise resume at reduced dose. • Consider re- escalating if maintained at Grade ≤1 or baseline for at least 28 days. • If PPES recurs, withhold until Grade ≤1 or baseline and then resume at a reduced dose regardless of time to improvement.                  |
-| Palmar-Plantar Erythrodysaesthesia Syndrome (PPES) (see sections 4.4 and 4.8) | Grade 3      | • Withhold for at least 7 days or until Grade ≤1 or baseline (maximum 28 days). Resume at a reduced dose. • Consider re- escalating if maintained at Grade ≤1 or baseline for at least 28 days.                                                                                                                                                             |
-| Hypertension (see sections 4.4 and 4.8)                                       | Grade 3      | • If symptomatic, withhold until symptoms have resolved and blood pressure is controlled. • If blood pressure is controlled to Grade ≤1 or baseline, resume at the same dose; otherwise, resume at reduced dose. • If Grade 3 hypertension recurs, withhold until symptoms have resolved and blood pressure is controlled. Resume at a reduced dose.        |
-| Hypertension (see sections 4.4 and 4.8)                                       | Grade 4      | Permanently discontinue.                                                                                                                                                                                                                                                                                                                                    |
-| Left ventricular systolic dysfunction (see sections 4.4 and 4.8)              | Grade 3 or 4 | Permanently discontinue.                                                                                                                                                                                                                                                                                                                                    |
-| Arthralgia or myalgia (see section 4.8)                                       | Grade 2      | • Withhold until Grade ≤1 or baseline. If recovered within 7 days, resume at same dose; otherwise resume at reduced dose. • Consider re- escalating if maintained at Grade ≤1 or baseline for at least 28 days. • If arthralgia or myalgia recurs, withhold until Grade ≤1 or baseline and then resume at a reduced dose regardless of time to improvement. |
-| Arthralgia or myalgia (see section 4.8)                                       | Grade 3      | • Withhold for at least 7 days or until Grade ≤1 or baseline (maximum of 28 days). Resume at a reduced dose. • Consider re- escalating if maintained at Grade ≤1 or baseline for at least 28 days.                                                                                                                                                          |
-| Other adverse reactions (see section 4.8)                                     | Grade 3 or 4 | • Withhold until Grade ≤1 or baseline (maximum 28 days), and then resume at a reduced dose; otherwise permanently discontinue. • Consider re-escalating if no recurrence of the adverse reaction for at least 28 days. • If Grade 3 or 4 recurs, permanently discontinue.                                                                                   |
+| Adverse reaction                                                              | Severity a   | QINLOCK dose modifications                                                                                                                                                                                                                                                                                                                                 |
+|-------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Palmar-Plantar Erythrodysaesthesia Syndrome (PPES) (see sections 4.4 and 4.8) | Grade 2      | • Withhold until Grade ≤1 or baseline. If recovered within 7 days, resume at same dose; otherwise resume at reduced dose. • Consider re-escalating if maintained at Grade ≤1 or baseline for at least 28 days. • If PPES recurs, withhold until Grade ≤1 or baseline and then resume at a reduced dose regardless of time to improvement.                  |
+| Palmar-Plantar Erythrodysaesthesia Syndrome (PPES) (see sections 4.4 and 4.8) | Grade 3      | • Withhold for at least 7 days or until Grade ≤1 or baseline (maximum 28 days). Resume at a reduced dose. • Consider re-escalating if maintained at Grade ≤1 or baseline for at least 28 days.                                                                                                                                                             |
+| Hypertension (see sections 4.4 and 4.8)                                       | Grade 3      | • If symptomatic, withhold until symptoms have resolved and blood pressure is controlled. • If blood pressure is controlled to Grade ≤1 or baseline, resume at the same dose; otherwise, resume at reduced dose. • If Grade 3 hypertension recurs, withhold until symptoms have resolved and blood pressure is controlled. Resume at a reduced dose.       |
+| Hypertension (see sections 4.4 and 4.8)                                       | Grade 4      | Permanently discontinue.                                                                                                                                                                                                                                                                                                                                   |
+| Left ventricular systolic dysfunction (see sections 4.4 and 4.8)              | Grade 3 or 4 | Permanently discontinue.                                                                                                                                                                                                                                                                                                                                   |
+| Arthralgia or myalgia (see section 4.8)                                       | Grade 2      | • Withhold until Grade ≤1 or baseline. If recovered within 7 days, resume at same dose; otherwise resume at reduced dose. • Consider re-escalating if maintained at Grade ≤1 or baseline for at least 28 days. • If arthralgia or myalgia recurs, withhold until Grade ≤1 or baseline and then resume at a reduced dose regardless of time to improvement. |
+| Arthralgia or myalgia (see section 4.8)                                       | Grade 3      | • Withhold for at least 7 days or until Grade ≤1 or baseline (maximum of 28 days). Resume at a reduced dose. • Consider re-escalating if maintained at Grade ≤1 or baseline for at least 28 days.                                                                                                                                                          |
+| Other adverse reactions (see section 4.8)                                     | Grade 3 or 4 | • Withhold until Grade ≤1 or baseline (maximum 28 days), and then resume at a reduced dose; otherwise permanently discontinue. • Consider re-escalating if no recurrence of the adverse reaction for at least 28 days. • If Grade 3 or 4 recurs, permanently discontinue.                                                                                  |
 
 ## Concomitant medicinal products
 
@@ -123,7 +123,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Palmar-plantar erythrodysaesthesia syndrome (PPES)
 
-PPES occurred in patients treated with ripretinib (see section 4.8) . Based on severity, ripretinib should be withheld and then resumed at the same or reduced dose (see section 4.2).
+PPES occurred in patients treated with ripretinib (see section 4.8). Based on severity, ripretinib should be withheld and then resumed at the same or reduced dose (see section 4.2).
 
 ## Hypertension
 
@@ -195,7 +195,7 @@ Based on in vitro data, medicinal products that are inhibitors of BCRP (e.g. cyc
 
 Ripretinib is a weak inhibitor of CYP2C8. Co-administration of QINLOCK with repaglinide (a sensitive index substrate for CYP2C8) increased repaglinide AUC0-∞ by 26%. Repaglinide Cmax was unchanged; therefore, dose adjustment is not required.
 
-Co-administration of QINLOCK with midazolam (a sensitive probe substrate for CYP3A4 ) did not impact the pharmacokinetics of midazolam and 1-hydroxy midazolam; therefore, dose adjustment is not required when QINLOCK is co-administered with CYP3A4 substrates. Ripretinib and DP-5439 induced CYP2B6 in vitro . Co-administration of ripretinib with CYP2B6 substrates with narrow therapeutic index (e.g. efavirenz) may lead to loss of their efficacy. Ripretinib and DP-5439 down-regulated CYP1A2 in vitro . Co-administration of ripretinib with CYP1A2 substrates with narrow therapeutic index (e.g. tizanidine) may lead to increased concentrations and monitoring is recommended.
+Co-administration of QINLOCK with midazolam (a sensitive probe substrate for CYP3A4 ) did not impact the pharmacokinetics of midazolam and 1-hydroxy midazolam; therefore, dose adjustment is not required when QINLOCK is co-administered with CYP3A4 substrates. Ripretinib and DP-5439 induced CYP2B6 in vitro. Co-administration of ripretinib with CYP2B6 substrates with narrow therapeutic index (e.g. efavirenz) may lead to loss of their efficacy. Ripretinib and DP-5439 down-regulated CYP1A2 in vitro. Co-administration of ripretinib with CYP1A2 substrates with narrow therapeutic index (e.g. tizanidine) may lead to increased concentrations and monitoring is recommended.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -304,9 +304,9 @@ Table 2: Adverse drug reactions reported in INVICTUS and study DCC-2618-01-001
 
 ## Description of selected adverse drug reactions
 
-Palmar-plantar erythrodysaesthesia syndrome (PPES) In the double-blind period of the INVICTUS study, PPES was reported in 19 of 85 (22.4%) patients in
+Palmar-plantar erythrodysaesthesia syndrome (PPES)
 
-the QINLOCK arm and no patients in the placebo arm. PPES led to dose discontinuation in 1.2% of patients, dose interruption in 3.5% of patients, and dose reduction in 2.4% of patients. All events were mild or moderate in severity (58% Grade 1 and 42% Grade 2).
+In the double-blind period of the INVICTUS study, PPES was reported in 19 of 85 (22.4%) patients in the QINLOCK arm and no patients in the placebo arm. PPES led to dose discontinuation in 1.2% of patients, dose interruption in 3.5% of patients, and dose reduction in 2.4% of patients. All events were mild or moderate in severity (58% Grade 1 and 42% Grade 2).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -354,7 +354,7 @@ Pharmacotherapeutic group: Antineoplastic agents, other protein kinase inhibitor
 
 ## Mechanism of action
 
-Ripretinib is a novel tyrosine kinase inhibitor that inhibits KIT proto-oncogene receptor tyrosine kinase and PDGFRA kinase, including wild type, primary, and secondary mutations. Ripretinib also inhibits other kinases in vitro , such as PDGFRB, TIE2, VEGFR2, and BRAF.
+Ripretinib is a novel tyrosine kinase inhibitor that inhibits KIT proto-oncogene receptor tyrosine kinase and PDGFRA kinase, including wild type, primary, and secondary mutations. Ripretinib also inhibits other kinases in vitro, such as PDGFRB, TIE2, VEGFR2, and BRAF.
 
 ## Clinical efficacy and safety
 
@@ -392,9 +392,9 @@ Table 3: INVICTUS efficacy results (as of 10 August 2020)
 | Median OS (months) (95% CI)  | 18.2 (13.1, NE)    | 6.3 (4.1, 10.0)    |
 | HR (95% CI) b                | 0.42 (0.27, 0.67)  | 0.42 (0.27, 0.67)  |
 
-BICR = Blinded Independent Central Review; CI = Confidence Interval; HR = Hazard Ratio; ORR = Objective Response Rate; NE = not estimable; PFS = Progression Free Survival; OS = Overall Survival
+BICR = Blinded Independent Central Review; CI = Confidence Interval; HR = Hazard Ratio; ORR = Objective Response Rate; NE = not estimable; PFS = Progression Free Survival; OS = Overall Survival a Data cut off 10 August 2020
 
-a   Assessed per BICR.
+a Assessed per BICR.
 
 b Hazard ratio is based on Cox proportional regression model. This model includes treatment and randomisation stratification factors as fixed factors.
 
@@ -422,7 +422,7 @@ Administration with a high-fat meal increased ripretinib AUC0-24 and Cmax by 30%
 
 ## Distribution
 
-Both ripretinib and its active metabolite DP5439 bind to plasma proteins at ≥ 99%. The mean (CV%) apparent volume of distribution (Vss/F) is approximately 302 (35%) L for ripretinib and 491 (38%) L for DP-5439.
+Both ripretinib and its active metabolite DP-5439 bind to plasma proteins at ≥ 99%. The mean (CV%) apparent volume of distribution (Vss/F) is approximately 302 (35%) L for ripretinib and 491 (38%) L for DP-5439.
 
 ## Biotransformation
 
@@ -498,7 +498,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-4 years.
+5 years.
 
 ## 6.4 Special precautions for storage
 
@@ -522,13 +522,13 @@ Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1569/001 EU/1/21/1569/002
+EU/1/21/1569/001
+
+EU/1/21/1569/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 18 November 2021
-
-Date of latest renewal: 29 July 2026
+Date of first authorisation: 18 November 2021 Date of latest renewal: 29 July 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -549,7 +549,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Deciphera Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
+Deciphera Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077ZX, Amsterdam
+
+Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -582,31 +584,38 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 QINLOCK 50 mg tablets
 
 ripretinib
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each tablet contains 50 mg of ripretinib.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 Contains lactose, see leaflet for further information.
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
 30 tablets
 
 90 tablets
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
 Oral use.
 
@@ -616,17 +625,20 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store in the original package and keep bottle tightly closed in order to protect from light and moisture.
+
+<div style=\"page-break-after: always\"></div>
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -634,7 +646,9 @@ Store in the original package and keep bottle tightly closed in order to protect
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
+Strawinskylaan 3051 1077ZX, Amsterdam
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -666,9 +680,9 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -704,13 +718,12 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
 
 Store in the original package and keep bottle tightly closed in order to protect from light and moisture.
 
@@ -724,22 +737,30 @@ Store in the original package and keep bottle tightly closed in order to protect
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/21/1569/001 30 tablets
+EU/1/21/1569/001 30 tablets EU/1/21/1569/002 90 tablets
 
-EU/1/21/1569/002 90 tablets
-
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -749,9 +770,9 @@ Lot
 
 ## Package leaflet: Information for the user
 
-## QINLOCK 50
+## QINLOCK 50 mg tablets
 
-## mg tablets ripretinib
+ripretinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -773,7 +794,7 @@ Lot
 
 QINLOCK is a cancer medicine containing the active substance ripretinib, a protein kinase inhibitor. Protein kinase inhibitors are used to treat cancer by stopping the activity of certain proteins that are involved in the growth and spread of cancer cells.
 
-QINLOCK is used to treat adults with gastrointestinal stromal tumour (GIST), a rare type of cancer of the digestive system including the stomach and bowel , that has:
+QINLOCK is used to treat adults with gastrointestinal stromal tumour (GIST), a rare type of cancer of the digestive system including the stomach and bowel, that has:
 
 - spread to other parts of the body or cannot be removed by surgery
 - been treated with at least 3 previous cancer medicines, including imatinib.
@@ -786,7 +807,7 @@ Do not take QINLOCK if you are allergic to ripretinib or any of the other ingred
 
 ## Warnings and precautions
 
-## Before taking QINLOCK, talk to your doctor or pharmacist if you have or have a history of :
+## Before taking QINLOCK, talk to your doctor or pharmacist if you have or have a history of:
 
 - high blood pressure. Your doctor will monitor your blood pressure prior to and during treatment with QINLOCK and may give you a medicine to treat high blood pressure, if needed.
 - heart conditions. Your doctor may perform additional tests to assess how your heart functions prior to and during your treatment with QINLOCK.
@@ -834,7 +855,7 @@ In particular, tell your doctor if you are taking any of the following medicines
 - medicines used to prevent organ rejection (such as cyclosporine, tacrolimus)
 - medicines used to treat low platelet counts in the blood (such as eltrombopag)
 - medicines used to treat muscle spasms (such as tizanidine)
-- herbal preparations used to treat depression and anxiety containing St. John's Wort ( Hypericum perforatum ).
+- herbal preparations used to treat depression and anxiety containing St. John's Wort (Hypericum perforatum).
 
 ## QINLOCK with food and drink
 
@@ -848,7 +869,7 @@ Both women of childbearing potential and men should use effective contraception 
 
 If you are pregnant, think you may be pregnant or are planning to have a baby, you should not take this medicine, unless your doctor has decided that treatment with QINLOCK is clearly necessary. Ask your doctor or pharmacist for advice before taking this medicine.
 
-## Do not get pregnant while you are being treated with QINLOCK.
+Do not get pregnant while you are being treated with QINLOCK.
 
 If you are a male patient with a partner who is either pregnant or who could become pregnant, you must use a barrier method (such as condoms) during sexual intercourse, during treatment and for at least 1 week after completion of treatment. This medicine may harm your unborn baby. If you are a male and your female partner becomes pregnant during your treatment with QINLOCK, tell your doctor right away.
 
@@ -1024,9 +1045,9 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Deciphera Pharmaceuticals (Netherlands) B.V.
+Deciphera Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077ZX, Amsterdam
 
-Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
+Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1036,7 +1057,7 @@ Deciphera Pharmaceuticals (Netherlands) B.V. Tél/Tel: +31 8006333435 medicalinf
 
 ## България
 
-Genesis Pharma Bulgaria EOOD Te л .: +359 2 969 3227
+Genesis Pharma Bulgaria EOOD Teл.: +359 2 969 3227
 
 medinfo@genesispharmagroup.com Lietuva Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
@@ -1142,18 +1163,14 @@ Deciphera Pharmaceuticals (Netherlands) B.V. Puh/Tel: +31 8006333435 medicalinfo
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-Τηλ : +357 22765715
-
-medinfo@genesispharmagroup.com
-
 <div style=\"page-break-after: always\"></div>
 
-Latvija Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
+Τηλ: +357 22765715 medinfo@genesispharmagroup.com Tel: +31 8006333435 medicalinformation@deciphera.com
+
+## Latvija
+
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-Tel: +31 8006333435
-
-medicalinformation@deciphera.com

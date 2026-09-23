@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-08 14:08:00
+document_datetime: 2026-09-21 16:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fintepla.html
 document_name: fintepla.html
 version: success
-processing_time: 0.1760238
-conversion_datetime: 2026-06-10 13:36:20.288527
+processing_time: 0.5075664
+conversion_datetime: 2026-09-23 07:32:09.031445
 docling_version:
-  docling-serve: 1.22.0
-  docling-jobkit: 1.21.0
-  docling: 2.100.0
-  docling-core: 2.80.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Search
 
@@ -57,7 +57,8 @@ docling_version:
     - [Publications](/en/news-and-events/publications)
     - [Press and social media](/en/news-events/press-social-media)
     - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Campaigns](/en/news-events/ema-campaigns)
+    - [Speeches](/en/news-events/speeches)
     - [Open consultations](/en/news-events/open-consultations)
     - [RSS feeds](/en/news-events/rss-feeds)
 - [Partners &amp; networks](/en/partners-networks)
@@ -67,11 +68,11 @@ docling_version:
     - [Patients and consumers](/en/partners-networks/patients-consumers)
     - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
     - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Pharmaceutical industry](/en/pharmaceutical-industry)
     - [Networks](/en/partners-networks/networks)
     - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
     - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [Animal health professionals](/en/partners-networks/animal-health-professionals)
     - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
 - [About us](/en/about-us)
     - [Overview](/en/about-us)
@@ -200,7 +201,7 @@ English (EN) (159.43 KB - PDF)
 
 [View](/en/documents/overview/fintepla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-90)
+[Other languages (22)](#file-language-dropdown-925)
 
 български (BG) (186.5 KB - PDF)
 
@@ -352,7 +353,7 @@ English (EN) (775.79 KB - PDF)
 
 [View](/en/documents/product-information/fintepla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-541)
+[Other languages (24)](#file-language-dropdown-855)
 
 български (BG) (705.54 KB - PDF)
 
@@ -506,7 +507,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -516,7 +518,7 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Fintepla :  EPAR - All authorised presentations
+Fintepla : EPAR - All authorised presentations
 
 English (EN) (56.79 KB - PDF)
 
@@ -524,7 +526,7 @@ English (EN) (56.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-667)
+[Other languages (23)](#file-language-dropdown-625)
 
 български (BG) (70.56 KB - PDF)
 
@@ -670,9 +672,9 @@ English (EN) (74.17 KB - PDF)
 
 **First published:** 08/01/2021
 
-[View](/en/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
+[View](/en/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-effective-use_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-333)
+[Other languages (24)](#file-language-dropdown-893)
 
 български (BG) (67.67 KB - PDF)
 
@@ -820,25 +822,16 @@ norsk (NO) (50.75 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Fintepla
-
-Active substance
-
-fenfluramine hydrochloride
-
-International non-proprietary name (INN) or common name
-
-fenfluramine
-
-Therapeutic area (MeSH)
-
-Epilepsies, Myoclonic
-
-Anatomical therapeutic chemical (ATC) code
-
-N03
+- **Name of medicine**
+    - Fintepla
+- **Active substance**
+    - fenfluramine hydrochloride
+- **International non-proprietary name (INN) or common name**
+    - fenfluramine
+- **Therapeutic area (MeSH)**
+    - Epilepsies, Myoclonic
+- **Anatomical therapeutic chemical (ATC) code**
+    - N03
 
 ### Pharmacotherapeutic group
 
@@ -852,35 +845,20 @@ Fintepla is indicated for the treatment of seizures associated with Dravet syndr
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/003933
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-UCB Pharma S.A.
-
-Allée de la Recherche 60 B-1070 Bruxelles Belgium
-
-Opinion adopted
-
-15/10/2020
-
-Marketing authorisation issued
-
-18/12/2020
-
-Revision
-
-18
+- **EMA product number**
+    - EMEA/H/C/003933
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - UCB Pharma S.A. Allée de la Recherche 60  B-1070 Bruxelles  Belgium
+- **Opinion adopted**
+    - 15/10/2020
+- **Marketing authorisation issued**
+    - 18/12/2020
+- **Revision**
+    - 19
 
 ## Assessment history
 
@@ -905,6 +883,16 @@ English (EN) (196.46 KB - PDF)
 **First published:** 23/06/2021 **Last updated:** 02/05/2025
 
 [View](/en/documents/procedural-steps-after/fintepla-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Fintepla-PAM-0000327550 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3456277
+
+English (EN) (1.64 MB - PDF)
+
+**First published:** 21/09/2026
+
+[View](/en/documents/variation-report/fintepla-pam-0000327550-epar-assessment-report_en.pdf)
 
 Fintepla-PAM-0000326084 : EPAR - Assessment report
 
@@ -1032,13 +1020,13 @@ English (EN) (132.5 KB - PDF)
 
 - [EU/3/13/1219 - orphan designation for treatment of Dravet syndrome](/en/medicines/human/orphan-designations/eu-3-13-1219)
 - [EU/3/17/1836 - orphan designation for treatment of Lennox-Gastaut syndrome](/en/medicines/human/orphan-designations/eu-3-17-1836)
-- [EMEA-001990-PIP01-16-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001990-pip01-16-m05)
+- [EMA/PE/0000233398 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000233398)
 - [EU/3/23/2768 - orphan designation for treatment of CDKL5 deficiency disorder](/en/medicines/human/orphan-designations/eu-3-23-2768)
 - [Implementation of controlled access to and distribution of medicinal products in European Union (CONTROL-EU) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000313)
 - [A Registry of Patients Treated with Fintepla (TAPESTRY Registry) - post-authorisation study](https://catalogues.ema.europa.eu/study/105359)
 
 **This page was last updated on**
 
-08/06/2026
+21/09/2026
 
 ## Share this page

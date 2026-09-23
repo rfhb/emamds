@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-02-27 13:41:06
-document_pages: 36
+document_datetime: 2026-09-21 14:40:52
+document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/litfulo-epar-product-information_en.pdf
 document_name: litfulo-epar-product-information_en.pdf
 version: success
-processing_time: 8.0819039
-conversion_datetime: 2025-12-25 00:51:50.194532
+processing_time: 45.0160521
+conversion_datetime: 2026-09-23 06:58:13.952319
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,7 @@ Litfulo is indicated for the treatment of severe alopecia areata in adults and a
 
 Treatment should be initiated and supervised by a healthcare professional experienced in the diagnosis and treatment of alopecia areata.
 
-## Posology
+Posology
 
 The recommended dose is 50 mg once daily.
 
@@ -77,7 +77,7 @@ Abbreviation: ALC = absolute lymphocyte count
 
 ## Treatment initiation
 
-Treatment with ritlecitinib should not be initiated in patients with an absolute lymphocyte count (ALC) &lt; 0.5 × 10 3 /mm 3 or a platelet count &lt; 100 × 10 3 /mm 3  (see section 4.4).
+Treatment with ritlecitinib should not be initiated in patients with an absolute lymphocyte count (ALC) &lt; 0.5 × 10 3 /mm 3 or a platelet count &lt; 100 × 10 3 /mm 3 (see section 4.4).
 
 ## Treatment interruption or discontinuation
 
@@ -125,12 +125,20 @@ Capsules should be swallowed whole and should not be crushed, split or chewed, b
 
 ## 4.3 Contraindications
 
--  Hypersensitivity to the active substance(s) or to any of the excipients listed in section 6.1.
--  Active serious infections, including tuberculosis (TB) (see section 4.4).
--  Severe hepatic impairment (see section 4.2).
--  Pregnancy and breast-feeding (see section 4.6).
+- Hypersensitivity to the active substance(s) or to any of the excipients listed in section 6.1.
+- Active serious infections, including tuberculosis (TB) (see section 4.4).
+- Severe hepatic impairment (see section 4.2).
+- Pregnancy and breast-feeding (see section 4.6).
 
 ## 4.4 Special warnings and precautions for use
+
+Ritlecitinib should only be used if no suitable treatment alternatives are available in patients:
+
+- 65 years of age and older;
+
+- patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors (such as current or past long-time smokers);
+
+- patients with malignancy risk factors (e.g., current malignancy or history of malignancy)
 
 ## Serious infections
 
@@ -138,25 +146,25 @@ Serious infections have been reported in patients receiving ritlecitinib. The mo
 
 The risks and benefits of treatment should be considered in patients:
 
--  with chronic or recurrent infection
--  who have been exposed to tuberculosis (TB)
--  with a history of serious or an opportunistic infection
--  who have resided or traveled in areas of endemic TB or mycoses, or
--  with underlying conditions that may predispose them to infection
+- with chronic or recurrent infection
+- who have been exposed to tuberculosis (TB)
+- with a history of serious or an opportunistic infection
+- who have resided or traveled in areas of endemic TB or mycoses, or
+- with underlying conditions that may predispose them to infection
 
 Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with ritlecitinib. Treatment should be interrupted if a patient develops a serious or opportunistic infection. A patient who develops a new infection during treatment with ritlecitinib should undergo prompt and complete diagnostic testing appropriate for an immunocompromised patient, appropriate antimicrobial therapy should be initiated, and the patient should be closely monitored. If interrupted, ritlecitinib may be resumed once the infection is controlled.
 
-As there is a higher incidence of infections in elderly and in the diabetic population in general, caution should be exercised when treating the elderly and patients with diabetes, and particular attention paid with respect to occurrence of infections.
+As there is a higher incidence of infections in elderly and in the diabetic population in general, caution should be exercised when treating the elderly and patients with diabetes, and particular attention paid with respect to occurrence of infections. In patients 65 years of age and older, ritlecitinib should only be used if no suitable treatment alternatives are available (see section 4.2).
 
 ## Tuberculosis
 
 Patients should be screened for TB before starting therapy with ritlecitinib. Ritlecitinib must not be given to patients with active TB (see section 4.3). Anti-TB therapy should be started prior to initiating therapy with ritlecitinib in patients with a new diagnosis of latent TB or previously untreated latent TB. In patients with a negative latent TB test, anti-TB therapy should still be considered before initiating treatment with ritlecitinib in those at high risk and screening for patients at high risk for TB during treatment with ritlecitinib should be considered.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Viral reactivation
 
 Viral reactivations, including cases of herpes virus reactivation (e.g., herpes zoster), have been reported (see section 4.8). If a patient develops herpes zoster, temporary interruption of treatment may be considered until the episode resolves.
-
-<div style=\"page-break-after: always\"></div>
 
 Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with ritlecitinib. Patients with evidence of hepatitis B or C infection were excluded from studies with ritlecitinib. Monitoring for reactivation of viral hepatitis according to clinical guidelines is recommended during ritlecitinib treatment. If there is evidence of reactivation, a liver specialist should be consulted.
 
@@ -164,19 +172,35 @@ Screening for viral hepatitis should be performed in accordance with clinical gu
 
 Malignancies, including non-melanoma skin cancer (NMSC) have been reported in patients receiving ritlecitinib.
 
-It is not known whether selective JAK3 inhibition may be associated with adverse reactions of Janus Kinase (JAK) inhibition predominantly involving JAK1 and JAK2. In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis (RA) patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of malignancies, particularly lung cancer, lymphoma and NMSC, was observed with tofacitinib compared to tumour necrosis factor (TNF) inhibitors.
+In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis (RA) patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of malignancies, particularly lung cancer, lymphoma and NMSC, was observed with tofacitinib compared to tumour necrosis factor (TNF) inhibitors.
 
-Limited clinical data are available to assess the potential relationship of exposure to ritlecitinib and the development of malignancies. Long-term safety evaluations are ongoing. The risks and benefits of ritlecitinib treatment should be considered prior to initiating or continuing therapy in patients with a known malignancy other than a successfully treated NMSC or cervical cancer.
+In patients 65 years of age and older, patients who are current or past long-time smokers, or with other malignancy risk factors (e.g., current malignancy or history of malignancy), ritlecitinib should only be used if no suitable treatment alternatives are available.
 
-Periodic skin examination is recommended for patients who are at increased risk of skin cancer.
+Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
 
-Major adverse cardiovascular events (MACE), deep venous thrombosis (DVT) and pulmonary embolism (PE)
+## Major adverse cardiovascular events (MACE)
 
-Events of venous and arterial thromboembolism, including MACE, have been reported in patients receiving ritlecitinib.
+Events of MACE have been reported in patients receiving ritlecitinib.
 
-It is not known whether selective JAK3 inhibition may be associated with adverse reactions of JAK inhibition predominantly involving JAK1 and JAK2. In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in RA patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of MACE, defined as cardiovascular death, non-fatal myocardial infarction and non-fatal stroke, and a dose-dependent higher rate of venous thromboembolism including DVT and PE were observed with tofacitinib compared to TNF inhibitors.
+In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in RA patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of MACE, defined as cardiovascular death, non-fatal myocardial infarction and non-fatal stroke was observed with tofacitinib compared to TNF inhibitors.
 
-Long-term safety evaluations for ritlecitinib are ongoing. Ritlecitinib should be used with caution in patients with known risk factors for thromboembolism. In patients with a suspected thromboembolic event, discontinuation of ritlecitinib and prompt re-evaluation is recommended. The risks and benefits of ritlecitinib treatment should be considered prior to initiating therapy in patients.
+Therefore, in patients 65 years of age and older, patients who are current or past long-time smokers, and patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors, ritlecitinib should only be used if no suitable treatment alternatives are available.
+
+## Venous thromboembolism (VTE)
+
+Events of deep venous thrombosis (DVT) and pulmonary embolism (PE) have been reported in patients receiving ritlecitinib.
+
+In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in RA patients 50 years and older with at least one additional cardiovascular risk factor, a dose-dependent higher rate of VTE including DVT and PE was observed with tofacitinib compared to TNF inhibitors.
+
+In patients with cardiovascular or malignancy risk factors (see also section 4.4 'Major adverse cardiovascular events (MACE)' and 'Malignancy') ritlecitinib should only be used if no suitable treatment alternatives are available.
+
+In patients with known VTE risk factors other than cardiovascular or malignancy risk factors, ritlecitinib should be used with caution. VTE risk factors other than cardiovascular or malignancy risk factors include previous VTE, patients undergoing major surgery, immobilisation, use of combined hormonal contraceptives or hormone replacement therapy, inherited coagulation disorder.
+
+<div style=\"page-break-after: always\"></div>
+
+Patients should be re-evaluated periodically during ritlecitinib treatment to assess for changes in VTE risk.
+
+Promptly evaluate patients with signs and symptoms of VTE and discontinue ritlecitinib in patients with suspected VTE, regardless of dose.
 
 ## Neurological events
 
@@ -184,19 +208,17 @@ Ritlecitinib-related axonal dystrophy has been observed in chronic Beagle dog to
 
 ## Haematologic abnormalities
 
-Treatment with ritlecitinib was associated with decreases in lymphocytes and platelets (see section 4.8). Prior to initiating treatment with ritlecitinib, ALC and platelet counts should be performed. Treatment with ritlecitinib should not be initiated in patients with an ALC &lt; 0.5 × 10 3 /mm 3 or a platelet count &lt; 100 × 10 3 /mm 3 . After initiating treatment with ritlecitinib, treatment interruption or discontinuation are recommended based on ALC and platelet count abnormalities (see section 4.2).
-
-<div style=\"page-break-after: always\"></div>
-
-ALC and platelet counts are recommended at 4 weeks after initiation of therapy with ritlecitinib, and thereafter according to routine patient management.
+Treatment with ritlecitinib was associated with decreases in lymphocytes and platelets (see section 4.8). Prior to initiating treatment with ritlecitinib, ALC and platelet counts should be performed. Treatment with ritlecitinib should not be initiated in patients with an ALC &lt; 0.5 × 10 3 /mm 3 or a platelet count &lt; 100 × 10 3 /mm 3 . After initiating treatment with ritlecitinib, treatment interruption or discontinuation are recommended based on ALC and platelet count abnormalities (see section 4.2). ALC and platelet counts are recommended at 4 weeks after initiation of therapy with ritlecitinib, and thereafter according to routine patient management.
 
 ## Vaccinations
 
 No data are available on the response to vaccination in patients receiving ritlecitinib. Use of live attenuated vaccines should be avoided during or immediately prior to ritlecitinib treatment. Prior to initiating ritlecitinib, it is recommended that patients are brought up to date with all immunisations, including prophylactic herpes zoster vaccinations, in agreement with current immunisation guidelines.
 
-## Elderly
+## Use in patients 65 years of age and older
 
 There are limited data in patients ≥ 65 years of age. Age appeared to be a risk factor for lower ALC in patients ≥ 65 years of age.
+
+Considering the increased risk of MACE, malignancies, serious infections, and all-cause mortality in patients 65 years of age and older, as observed in a large randomised study of tofacitinib (another JAK inhibitor), ritlecitinib should only be used in these patients if no suitable treatment alternatives are available.
 
 ## Excipients with known effect
 
@@ -210,6 +232,8 @@ Patients with rare hereditary problems of galactose intolerance, total lactase d
 
 The coadministration of multiple 200 mg doses of itraconazole, a strong CYP3A inhibitor, increased the area under curve (AUC)inf of ritlecitinib by approximately 15%. This is not considered clinically significant and, therefore dose adjustment is not required when ritlecitinib is coadministered with CYP3A inhibitors.
 
+<div style=\"page-break-after: always\"></div>
+
 The coadministration of multiple 600 mg doses of rifampicin, a strong inducer of CYP enzymes, decreased the AUCinf of ritlecitinib by approximately 44%. This is not considered clinically significant and, therefore dose adjustment is not required when ritlecitinib is coadministered with inducers of CYP enzymes.
 
 ## Potential for ritlecitinib to affect the pharmacokinetics of other medicinal products
@@ -219,8 +243,6 @@ Multiple doses of 200 mg once daily ritlecitinib increased the AUCinf and Cmax o
 Multiple doses of 200 mg once daily ritlecitinib increased the AUCinf and Cmax of caffeine, a CYP1A2 substrate, by approximately 2.7-fold and 1.1-fold, respectively. Ritlecitinib is a moderate inhibitor of CYP1A2; caution should be exercised with concomitant use of ritlecitinib with other CYP1A2 substrates (e.g., tizanidine) where moderate concentration changes may lead to serious adverse reactions. Dose adjustment recommendations for the CYP1A2 substrate (e.g., theophylline, pirfenidone) should be considered.
 
 The coadministration of a single 400 mg dose of ritlecitinib increased the AUCinf of sumatriptan (an organic cation transporter [OCT]1 substrate) by approximately 1.3 to 1.5-fold relative to sumatriptan dose given alone. The increase in sumatriptan exposure is not considered clinically relevant. Caution should be exercised with concomitant use of ritlecitinib with OCT1 substrates where small concentration changes may lead to serious adverse reactions.
-
-<div style=\"page-break-after: always\"></div>
 
 Ritlecitinib did not produce clinically significant changes in the exposures of oral contraceptives (e.g., ethinyl oestradiol or levonorgestrel), CYP2B6 substrates (e.g., efavirenz), CYP2C substrates (e.g., tolbutamide), or substrates of organic anion transporter (OAT)P1B1, breast cancer resistant protein (BCRP), and OAT3 (e.g., rosuvastatin).
 
@@ -242,6 +264,8 @@ There are no or limited data from the use of ritlecitinib in pregnant women. Stu
 
 Available pharmacodynamic/toxicological data in animals have shown excretion of ritlecitinib in milk (see section 5.3). A risk to newborns/infants cannot be excluded. Litfulo is contraindicated during breast-feeding (see section 4.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 The effect of ritlecitinib on human fertility has not been evaluated. There were no effects on fertility in rats at clinically relevant exposures (see section 5.3).
@@ -262,8 +286,6 @@ A total of 1630 patients were treated with ritlecitinib representing 3751 patien
 
 Table 2 lists all adverse reactions observed in alopecia areata placebo-controlled studies presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 2. Adverse reactions
 
 | System organ class                     | Common                                                        | Uncommon                                                                                                                                            |
@@ -280,6 +302,8 @@ Table 2. Adverse reactions
 
 In the placebo-controlled studies, for up to 24 weeks, overall infections have been reported in 31% of patients (80.35 per 100 patient-years) treated with placebo and 33% of patients (74.53 per 100 patient-years) treated with ritlecitinib 50 mg. In study AA-I, for up to 48 weeks, overall infections were reported in 51% of patients (89.32 per 100 patient-years) treated with ritlecitinib 50 mg or higher.
 
+<div style=\"page-break-after: always\"></div>
+
 Among all patients treated with ritlecitinib in the integrated safety analysis, including the long-term study and a study in vitiligo, overall infections were reported in 56.3% of patients (45.3 per 100 patient-years) treated with ritlecitinib 50 mg or higher. Most infections were mild or moderate in severity.
 
 In the placebo-controlled studies the percentage of patients reporting infection-related adverse reaction of herpes zoster were 1.5% in the ritlecitinib 50 mg group compared to 0 in placebo. All herpes zoster events were non-serious; 1 patient receiving ritlecitinib 200/50 mg (200 mg once daily for 4 weeks followed by 50 mg once daily) experienced an event of varicella zoster virus infection that met criteria as an opportunistic infection (multi-dermatomal herpes zoster). In study AA-I, for up to 48 weeks, 2.3% of patients (2.61 per 100 patient-years) treated with ritlecitinib 50 mg or higher reported herpes zoster Among all patients treated with ritlecitinib in the integrated safety analysis, including the long-term study and a study in vitiligo, the rate of herpes zoster was 1.05 per 100 patient-years in patients treated with ritlecitinib 50 mg or higher.
@@ -288,11 +312,7 @@ In the placebo-controlled studies, for up to 24 weeks, no serious infections wer
 
 ## Opportunistic infections
 
-Opportunistic  infections  of  multi-dermatomal  herpes  zoster  were  reported  in  1  patient  (0.50  per 100 patient-years) treated with ritlecitinib 200/50 mg in the placebo-controlled studies, no patients in study AA-I, for up to 48 weeks, and 4 patients (0.12 per 100 patient-years) treated with ritlecitinib 50 mg
-
-<div style=\"page-break-after: always\"></div>
-
-or higher in the integrated safety analysis, including the long-term study and a study in vitiligo. Cases of opportunistic herpes zoster were mild or moderate in severity.
+Opportunistic infections of multi-dermatomal herpes zoster were reported in 1 patient (0.50 per 100 patient-years) treated with ritlecitinib 200/50 mg in the placebo-controlled studies, no patients in study AA-I, for up to 48 weeks, and 4 patients (0.12 per 100 patient-years) treated with ritlecitinib 50 mg or higher in the integrated safety analysis, including the long-term study and a study in vitiligo. Cases of opportunistic herpes zoster were mild or moderate in severity.
 
 ## Decreased lymphocyte count
 
@@ -304,7 +324,11 @@ In the placebo-controlled studies, for up to 24 weeks, and study AA-I, for up to
 
 ## Creatine phosphokinase (CPK) elevations
 
-In the placebo-controlled studies, for up to 24 weeks, events of blood CPK increased were reported in 2 patients (1.5%) treated with ritlecitinib 50 mg. In study AA-I, for up to 48 weeks, events of blood CPK increased were reported in 3.8% of patients treated with ritlecitinib 50 mg or higher. CPK elevations &gt;5x upper limit of normal (ULN) were reported in 2 (0.9%) of patients treated with placebo and 5 (3.9%) of patients treated with ritlecitinib 50 mg. In study AA-I, for up to 48 weeks, CPK elevations &gt;5x ULN were reported in 6.6% of patients treated with ritlecitinib 50 mg or higher. Most elevations were transient and none led to discontinuation.
+In the placebo-controlled studies, for up to 24 weeks, events of blood CPK increased were reported in 2 patients (1.5%) treated with ritlecitinib 50 mg. In study AA-I, for up to 48 weeks, events of blood CPK increased were reported in 3.8% of patients treated with ritlecitinib 50 mg or higher. CPK elevations &gt;5x upper limit of normal (ULN) were reported in 2 (0.9%) of patients treated with placebo and 5 (3.9%) of patients treated with ritlecitinib 50 mg. In study AA-I, for up to 48 weeks, CPK
+
+<div style=\"page-break-after: always\"></div>
+
+elevations &gt;5x ULN were reported in 6.6% of patients treated with ritlecitinib 50 mg or higher. Most elevations were transient and none led to discontinuation.
 
 ## Increased transaminases
 
@@ -326,8 +350,6 @@ Ritlecitinib was administered in placebo-controlled studies up to a single oral 
 
 Pharmacokinetics (PK) data up to and including a single oral dose of 800 mg in healthy adult volunteers indicate that more than 90% of the administered dose is expected to be eliminated within 48 hours.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -339,6 +361,8 @@ Pharmacotherapeutic group: Immunosuppressants, Janus-associated kinase (JAK) inh
 Ritlecitinib irreversibly and selectively inhibits Janus kinase (JAK) 3 and the tyrosine kinase expressed in hepatocellular carcinoma (TEC) family by blocking the adenosine triphosphate (ATP) binding site. In cellular settings, ritlecitinib specifically inhibits γ-common cytokines (IL-2, IL-4, IL-7, IL-15 and IL-21) signalling through JAK3-dependent common-γ chain receptors. Additionally, ritlecitinib inhibits TEC family of kinases, resulting in reduced cytolytic activity of NK cells and CD8+ T cells.
 
 JAK3 and TEC family mediated signalling pathways are both involved in alopecia areata pathogenesis, although complete pathophysiology is still not understood.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
@@ -358,8 +382,6 @@ This study assessed as primary outcome the proportion of subjects who achieved a
 
 ## Baseline characteristics
 
-<div style=\"page-break-after: always\"></div>
-
 Male or female patients 12 years of age and older, were assessed in study AA-I. All patients had alopecia areata with ≥ 50% scalp hair loss (SALT [Severity of Alopecia Tool] score ≥ 50) without evidence of terminal hair regrowth within the previous 6 months and with the current episode of scalp hair loss ≤ 10 years and no other known cause of hair loss (e.g., androgenetic alopecia).
 
 Across all treatment groups 62.1% were female, 68.0% were White, 25.9% were Asian, and 3.8% were Black or African American. The mean age of patients was 33.7 years and the majority (85.4%) were adults (≥ 18 years of age). A total of 105 (14.6%) patients 12 to &lt; 18 years of age and 20 (2.8%) patients 65 years of age and older were enrolled. The mean (SD) baseline absolute SALT score ranged from 88.3 (16.87) to 93.0 (11.50) across treatment groups; among patients without alopecia totalis/alopecia universalis at baseline, the mean SALT score ranged from 78.3 to 87.0. The majority of patients had abnormal eyebrows (83.0%) and eyelashes (74.7%) at baseline across treatment groups. The median duration since alopecia areata diagnosis was 6.9 years and the median duration of the current alopecia areata episode was 2.5 years. Randomisation was stratified by alopecia totalis/alopecia universalis status with 46% of patients classified as alopecia totalis/alopecia universalis based upon a baseline SALT score of 100.
@@ -367,6 +389,8 @@ Across all treatment groups 62.1% were female, 68.0% were White, 25.9% were Asia
 ## Clinical response
 
 A significantly greater proportion of patients achieved SALT ≤ 10 response with ritlecitinib 50 mg compared to placebo at Week 24 (Table 3). The SALT ≤ 10 response rate for ritlecitinib 50 mg increased further at Week 48 (Figure 1).
+
+<div style=\"page-break-after: always\"></div>
 
 A significantly greater proportion of patients achieved Patient's Global Impression of Change (PGI-C) response with ritlecitinib 50 mg compared to placebo at Week 24 (Table 3) with response rates continuing to increase through Week 48 (Figure 1).
 
@@ -378,15 +402,13 @@ Treatment effects at Week 24 in subgroups (age, gender, race, region, weight, du
 
 Table 3. Efficacy results of ritlecitinib at week 24
 
-| Endpoint               |   Ritlecitinib 50 mg once daily (N = 130) %Responders |   Placebo (N = 131) %Responders | Difference from placebo (95% CI)   |
-|------------------------|-------------------------------------------------------|---------------------------------|------------------------------------|
-| SALT ≤ 10 response a,b |                                                  13.4 |                             1.5 | 11.9 (5.4, 18.3)                   |
-| PGI-C response b,c     |                                                  49.2 |                             9.2 | 40.0 (28.9, 51.1)                  |
-| SALT ≤ 20 response d,e |                                                  23   |                             1.6 | 21.4 (13.4, 29.5)                  |
-| EBA response f         |                                                  29   |                             4.7 | 24.3 (14.8, 34.5)                  |
-| ELA response g         |                                                  28.9 |                             5.2 | 23.7 (13.6, 34.5)                  |
-
-<div style=\"page-break-after: always\"></div>
+| Endpoint               |   Ritlecitinib 50 mg once daily (N = 130) % Responders |   Placebo (N = 131) % Responders | Difference from placebo (95% CI)   |
+|------------------------|--------------------------------------------------------|----------------------------------|------------------------------------|
+| SALT ≤ 10 response a,b |                                                   13.4 |                              1.5 | 11.9 (5.4, 18.3)                   |
+| PGI-C response b,c     |                                                   49.2 |                              9.2 | 40.0 (28.9, 51.1)                  |
+| SALT ≤ 20 response d,e |                                                   23.0 |                              1.6 | 21.4 (13.4, 29.5)                  |
+| EBA response f         |                                                   29.0 |                              4.7 | 24.3 (14.8, 34.5)                  |
+| ELA response g         |                                                   28.9 |                              5.2 | 23.7 (13.6, 34.5)                  |
 
 Abbreviations: EBA = eyebrow assessment; ELA = eyelash assessment; CI = confidence interval; N = total number of patients; PGI-C = Patient's Global Impression of Change; SALT = Severity of Alopecia Tool
 
@@ -398,6 +420,8 @@ Abbreviations: EBA = eyebrow assessment; ELA = eyelash assessment; CI = confiden
 - f. EBA response is defined as at least a 2-grade improvement from baseline or normal EBA score on a 4-point scale in patients with abnormal eyebrows at baseline.
 - g. ELA response is defined as at least a 2-grade improvement from baseline or normal ELA score on a 4-point scale in patients with abnormal eyelashes at baseline.
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 1. SALT ≤ 10 and PGI-C response through Week 48
 
 <!-- image -->
@@ -408,15 +432,13 @@ Abbreviations: CI = confidence interval; N = total number of patients; PGI-C = P
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with ritlecitinib in one or more subsets of the paediatric population in the treatment of alopecia areata (see section 4.2 for information on paediatric use).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-The absolute oral bioavailability of ritlecitinib is about 64%. Based on oral and intravenous administration of the labelled active substance, the relative urinary recovery (oral/intravenous) of labelled compounds was about 89%, indicating a high fraction absorbed (fa). Peak plasma concentrations are reached within 1 hour following multiple oral doses. Food does not have a clinically significant impact on the extent of ritlecitinib absorption, as a high-fat meal decreased the ritlecitinib C max by ~ 32% and increased AUCinf by ~11%. In placebo-controlled studies, ritlecitinib was administered without regard to meals (see section 4.2).
+The absolute oral bioavailability of ritlecitinib is about 64%. Based on oral and intravenous administration of the labelled active substance, the relative urinary recovery (oral/intravenous) of labelled compounds was about 89%, indicating a high fraction absorbed (fa). Peak plasma concentrations are reached within 1 hour following multiple oral doses. Food does not have a clinically significant impact on the extent of ritlecitinib absorption, as a high-fat meal decreased the ritlecitinib Cmax by ~ 32% and increased AUCinf by ~11%. In placebo-controlled studies, ritlecitinib was administered without regard to meals (see section 4.2).
 
-In vitro , ritlecitinib is a substrate of P-glycoprotein (P-gp) and BCRP. However, as ritlecitinib has a high fraction absorbed (f a ) with both C max and AUC increases in a dose proportional manner (20 200 mg single dose range), P-gp and BCRP are not expected to have a meaningful impact on the absorption of ritlecitinib.
+In vitro, ritlecitinib is a substrate of P-glycoprotein (P-gp) and BCRP. However, as ritlecitinib has a high fraction absorbed (fa) with both Cmax and AUC increases in a dose proportional manner (20 - 200 mg single dose range), P-gp and BCRP are not expected to have a meaningful impact on the absorption of ritlecitinib.
 
 ## Distribution
 
@@ -426,6 +448,8 @@ After intravenous administration, the volume of distribution of ritlecitinib is 
 
 The metabolism of ritlecitinib is mediated by multiple isoforms of Glutathione S-transferase (GST: cytosolic GST A1/3, M1/3/5, P1, S1, T2, Z1, and microsomal Membrane Associated Proteins involved in Eicosanoid and Glutathione metabolism [MAPEG]1/2/3) and CYP enzymes (CYP3A, CYP2C8, CYP1A2, and CYP2C9), with no single clearance route contributing more than 25%. Hence, medicinal products inhibiting a selective metabolic pathway are unlikely to impact the systemic exposures of ritlecitinib. Specific inhibitors of transporters are unlikely to result in clinically relevant changes in the bioavailability of ritlecitinib.
 
+<div style=\"page-break-after: always\"></div>
+
 In a human radiolabeled study, ritlecitinib was the most prevalent circulating species (30.4% of circulating radioactivity) after oral administration, with a major cysteine conjugate metabolite M2 (16.5%), which is pharmacologically inactive.
 
 ## Elimination
@@ -434,11 +458,9 @@ Ritlecitinib is eliminated primarily by metabolic clearance mechanisms, with app
 
 ## Special populations
 
-Body weight, gender, genotype, race and age
+## Body weight, gender, genotype, race and age
 
 Body weight, gender, GST P1, M1, and T1 genotype, race and age did not have a clinically meaningful effect on ritlecitinib exposure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Adolescents (≥ 12 to &lt; 18 years)
 
@@ -458,6 +480,8 @@ Based on the above considerations, no dose adjustment is required in patients wi
 
 Patients with moderate (Child Pugh B) hepatic impairment had an 18.5% increase in ritlecitinib AUC24 compared to participants with normal hepatic function. Ritlecitinib was not studied in patients with mild (Child Pugh A) hepatic impairment. However, based on the results obtained in patients with moderate hepatic impairment, a clinically significant increase in ritlecitinib exposure is not expected in these patients. No dose adjustment is required in patients with mild or moderate hepatic impairment (see section 4.2). Ritlecitinib has not been studied in patients with severe (Child Pugh C) hepatic impairment (see section 4.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 ## General toxicity
@@ -469,8 +493,6 @@ Chronic administration of ritlecitinib to Beagle dogs led to the occurrence of a
 ## Genotoxicity
 
 Ritlecitinib was not mutagenic in the bacterial mutagenicity assay (Ames assay). Ritlecitinib is not aneugenic or clastogenic at exposures equal to 130 times the MRHD on an unbound AUC basis based on the results of the in vivo rat bone marrow micronucleus assay.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Carcinogenicity
 
@@ -486,23 +508,23 @@ In an embryo-foetal development study in pregnant rabbits, oral administration o
 
 In a rat pre- and postnatal development study, oral administration of ritlecitinib from gestation day 6 through lactation day 20 resulted in developmental toxicity that included lower postnatal survival, lower offspring body weights, and secondary developmental delays at exposure equal to 41 times the unbound AUC at the MRHD (see section 4.3). Bred females in the F1 generation exhibited lower mean numbers of corpora lutea at exposures equal to 41 times the unbound AUC at the MRHD. There were no effects on pre- and postnatal development at exposures equal to 14 times the unbound AUC at the MRHD.
 
+<div style=\"page-break-after: always\"></div>
+
 In a juvenile rat toxicity study, oral administration of ritlecitinib from postnatal day 10 to 60 (comparable to infant through adolescence human age) was not associated with effects on the nervous or skeletal systems.
 
 ## Lactation
 
 Following administration of ritlecitinib to lactating rats, concentrations of ritlecitinib in milk over time were higher than those in plasma, where the mean milk to plasma AUC ratio was determined to be 2.2 (see section 4.3).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-## Hard capsule content
+Hard capsule content
 
 Cellulose microcrystalline Lactose monohydrate Crospovidone Glycerol dibehenate
 
-## Hard capsule shell
+Hard capsule shell
 
 Hypromellose (E464) Titanium dioxide (E171) Yellow iron oxide (E172) Brilliant Blue FCF (E133)
 
@@ -522,6 +544,8 @@ Not applicable.
 
 This medicinal product does not require any special temperature storage conditions. Store in the original package in order to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 High-density polyethylene (HDPE) bottle with a silica gel desiccant and polypropylene closure containing 28 hard capsules.
@@ -534,15 +558,15 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/23/1755/001 EU/1/23/1755/002 EU/1/23/1755/003
+EU/1/23/1755/001 EU/1/23/1755/002
+
+EU/1/23/1755/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -552,14 +576,18 @@ Date of first authorisation: 15 September 2023
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
+17
+
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -575,7 +603,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -583,20 +611,20 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-##  Additional risk minimisation measures
+## · Additional risk minimisation measures
 
 Prior to the launch of ritlecitinib in each Member State, the MAH must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
-The educational programme is aimed at increasing awareness about the safety concerns of the product, specifically in regard to infections (including herpes zoster and serious infections and opportunistic infections), thromboembolic events including deep vein thrombosis, pulmonary embolism and arterial thrombosis, MACE, malignancy, neurotoxicity and embryo-foetal toxicity following exposure in utero .
+The educational programme is aimed at increasing awareness about the safety concerns of the product, specifically in regard to infections (including herpes zoster and serious infections and opportunistic infections), venous thromboembolism (VTE), major adverse cardiovascular event (MACE), malignancy, neurotoxicity and embryo-foetal toxicity following exposure in utero.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -604,30 +632,36 @@ The MAH shall ensure that in each Member State where ritlecitinib is marketed, a
 
 ## The physician educational material should contain:
 
--  The Summary of Product Characteristics
--  Package leaflet
--  Healthcare Professional Guide
--  Patient Card (PC)
+- The Summary of Product Characteristics
+- Package leaflet
+- Healthcare Professional Guide
+- Patient Card (PC)
 
 ## The healthcare professional guide shall contain the following key elements:
 
--  Language for healthcare providers (HCPs) to inform patients of the importance of the PC.
--  Potential risk of infections (including herpes zoster and serious infections or opportunistic infections)
+- Language for healthcare providers (HCPs) to inform patients of the importance of the PC.
+- Use in patients aged 65 years and older
+- o Language to reinforce risk in these patients.
+- Infections (including herpes zoster and serious infections or opportunistic infections)
 - o Describe that Litfulo must not be used in patients with an active, serious infection.
 - o Language on the risk of infections during treatment with Litfulo.
 - o Language recommending that risk factors for infections should be considered when prescribing ritlecitinib including elderly age and diabetes.
 - o Details on how to reduce the risk of infection with specific clinical measures (what laboratory parameters should be used to initiate Litfulo, screening for TB, and screening for viral hepatitis and temporary interruption of Litfulo if an infection is not responding to appropriate therapy until the infection is controlled).
 - o Language stating the use of live, attenuated vaccines should be avoided during or immediately prior to treatment along with examples of live, attenuated vaccines.
--  Potential risk of thromboembolic events including deep vein thrombosis, pulmonary embolism and arterial thrombosis
-- o Language describing that events of venous and arterial thromboembolism, including MACE, have been observed in studies in Litfulo.
-- o Details of how to reduce the potential risk: Litfulo should be used with caution in patients with known risk factors for thromboembolism. In patients with a suspected thromboembolic event, discontinuation of Litfulo and prompt re-evaluation is recommended. The risks and benefits of treatment should be considered prior to initiating Litfulo therapy in patients.
--  Potential risk of malignancy
-- o Language describing that malignancies, including non-melanoma skin cancer, have been observed in studies with Litfulo.
-- o Details of how to reduce the potential risk with specific clinical measures (that the risks and benefits of Litfulo treatment should be considered prior to initiating in patients with a known malignancy or when considering continuing Litfulo therapy in patients who develop a malignancy, and that periodic skin examination is recommended for patients who are at increased risk for skin cancer).
--  Potential risk of neurotoxicity
+- VTE
+- o Language describing risk of VTE during treatment with Litfulo.
+- o Examples of risk factors which may put a patient at higher risk for VTE and in whom caution is needed when using ritlecitinib.
+- o Language that patients should be periodically re-evaluated for changes in VTE risk.
+- o Language on the response if clinical features of VTE occur including prompt evaluation and the need for discontinuation of Litfulo.
+- MACE
+- o Language describing that in patients at high risk for MACE ritlecitinib should only be used if no suitable treatment alternatives are available, with examples of who may be at high risk.
+- Malignancy
+- o Language describing that in patients at high risk for malignancy ritlecitinib should only be used if no suitable treatment alternatives are available, with examples of who may be at high risk.
+- o Reminder about the need for periodic skin examination for patients.
+- Neurotoxicity
 - o Language describing that ritlecitinib-related axonal dystrophy has been observed in chronic Beagle dog toxicity studies at systemic exposures of at least 7.4-times the expected exposure in patients treated with 50 mg per day. At a systemic exposure that was 33-times above the expected exposure in patients treated with 50 mg per day, axonal dystrophy was associated with neurological hearing loss. While these findings proved to reverse after dosing cessation of ritlecitinib in dogs, a risk to patients at a chronic dosing regimen cannot be fully excluded. Available clinical data has not indicated an effect on neurological or audiological outcomes.
 - o Details on how to reduce the risk Neurotoxicity, treatment with Litfulo should be discontinued in case unexplained neurological symptoms occur.
--  Potential risk of embryo-foetal toxicity following exposure in utero
+- Embryo-foetal toxicity following exposure in utero
 - o Language describing there are no or limited data on the use of Litfulo in pregnant women.
 - o Details on how to reduce the risk of exposure during pregnancy for women of childbearing potential based on the following: Litfulo is contraindicated during pregnancy,
 
@@ -637,25 +671,31 @@ women of childbearing potential should be advised to use effective contraception
 
 ## The patient information pack should contain:
 
--  Package leaflet
--  Patient card
--  The patient card shall contain the following key messages:
-- o Language describing Litfulo (i.e. what it is and what it is used for).
+- Package leaflet
+- Patient card
+- The patient card shall contain the following key messages:
+- o Language describing Litfulo (i.e., what it is and what it is used for).
 - o Contact details of the Litfulo prescriber.
 - o Language that the PC should be carried by the patient at any time and to share it with HCPs involved in their care (i.e., non- Litfulo prescribers, emergency room HCPs, etc.).
-- o Description of signs/symptoms of infections the patient needs to be aware of, so that they can seek attention from their HCP:
--  Language to advise patients and their HCPs about the risk of live vaccinations when given immediately before and during Litfulo therapy with examples of live vaccines.
+- o Risk of infections:
+- Description of signs/symptoms of infections the patient needs to be aware of, so that they can seek attention from their HCP.
+- Language to advise patients and their HCPs about the risk of live vaccinations when given immediately before and during Litfulo therapy with examples of live vaccines.
 - o Reminder of the risk of cancer. Regarding skin cancer reminder to let their doctor know if they notice any new growth on the skin.
-- o Description of signs/symptoms of thromboembolic events including blood clots in the veins (deep vein thrombosis) or in the lungs (pulmonary embolism) and blood clots in an artery (arterial thrombosis), in the heart (heart attack), in the brain (stroke) or in the eye (profound vision loss in one eye) which the patient needs to be aware of, so that they can seek immediate attention from an HCP.
+- o Risk of blood clots in veins or lungs:
+- Description of signs/symptoms of blood clots in the veins (deep vein thrombosis) or in the lungs (pulmonary embolism) which the patient needs to be aware of, so that they can seek immediate attention from an HCP.
+- o Risk of heart disease:
+- Describe signs/symptoms of heart disease that the patient needs to be aware of, so that they can seek attention from their HCP.
 - o Language that treatment with Litfulo should be discontinued in case unexplained neurological symptoms occur.
 - o Language that there are no or limited data on the use of Litfulo in pregnant women.
 - o Language describing on how to reduce the risk of exposure during pregnancy for women of childbearing potential based on the following:
--  Litfulo is contraindicated during pregnancy, women of childbearing potential should be advised to use effective contraception both during treatment and for 1 month following cessation of Litfulo, and to advise patients to inform their HCP immediately if they think they could be pregnant or if pregnancy is confirmed.
--  A reminder to use contraception, that Litfulo is contraindicated during pregnancy, and to notify their HCPs if they become pregnant while taking Litfulo.
+- Litfulo is contraindicated during pregnancy, women of childbearing potential should be advised to use effective contraception both during treatment and for 1 month following cessation of Litfulo, and to advise patients to inform their HCP immediately if they think they could be pregnant or if pregnancy is confirmed.
+- A reminder to use contraception, that Litfulo is contraindicated during pregnancy, and to notify their HCPs if they become pregnant while taking Litfulo.
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III LABELLING AND PACKAGE LEAFLET
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -665,11 +705,13 @@ women of childbearing potential should be advised to use effective contraception
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON FOR BLISTER PACK FOR 50 MG
+## CARTON FOR BLISTER PACK FOR 50 MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Litfulo 50 mg hard capsules ritlecitinib
+Litfulo 50 mg hard capsules
+
+ritlecitinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -707,9 +749,13 @@ EXP
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
@@ -717,23 +763,28 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 EU/1/23/1755/002 30 hard capsules EU/1/23/1755/003 90 hard capsules
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Litfulo 50 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -743,11 +794,13 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-BOTTLE LABEL FOR 50 MG
+## BOTTLE LABEL FOR 50 MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Litfulo 50 mg hard capsules ritlecitinib
+Litfulo 50 mg hard capsules
+
+ritlecitinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -783,33 +836,33 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/23/1755/001 28 hard capsules
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -821,26 +874,24 @@ Litfulo 50 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS FOR 50 MGCAPSULES                           |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS FOR 50 MG CAPSULES                           |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Litfulo 50 mg hard capsules ritlecitinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Pfizer Europe MA EEIG (as MA holder logo)
 
@@ -857,6 +908,8 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+28
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
@@ -869,16 +922,16 @@ Lot
 
 ## Litfulo 50 mg hard capsules
 
-## ritlecitinib
+ritlecitinib
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 In addition to this leaflet, your doctor will give you a patient card, which contains important safety information that you need to be aware of. Keep this patient card with you.
 
@@ -901,27 +954,28 @@ Litfulo works by reducing the activity of enzymes called JAK3 and TEC kinases, w
 
 ## Do not take Litfulo
 
-- -if you are allergic to ritlecitinib or any of the other ingredients of this medicine (listed in section 6).
-- -if you have a serious infection ongoing, including tuberculosis.
-- -if you have severe liver problems.
-- -if you are pregnant or breast-feeding (see the 'pregnancy, contraception, breast-feeding and fertility' section).
+- if you are allergic to ritlecitinib or any of the other ingredients of this medicine (listed in section 6).
+- if you have a serious infection ongoing, including tuberculosis.
+- if you have severe liver problems.
+- if you are pregnant or breast-feeding (see the 'pregnancy, contraception, breast-feeding and fertility' section).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
-Talk to your doctor or pharmacist before and during treatment with Litfulo if you :
+Talk to your doctor or pharmacist before and during treatment with Litfulo if you:
 
-- -have an infection (possible signs may be fever, sweating, chills, muscle aches, cough, shortness of breath, blood in your phlegm, weight loss, diarrhoea, stomach pain, burning when you urinate, urinating more often than usual, feeling very tired). Litfulo can reduce your body's ability to fight infections and so worsen an existing infection or make it more likely for you to get a new infection.
-- -if you have diabetes or are older than 65 years of age, you may have an increased risk of getting infections.
-- -have, or have had, tuberculosis or have been in close contact with someone with tuberculosis, or if you reside or travel in regions where tuberculosis is very common. Your doctor will test you for tuberculosis before starting Litfulo and may retest you during treatment.
-- -have ever had a herpes infection (such as chickenpox or shingles), because Litfulo may allow it to come back. Tell your doctor if you get a painful skin rash with blisters as this can be a sign of shingles.
-- -have ever had hepatitis B or hepatitis C. Your doctor will test you for hepatitis before starting Litfulo and may retest you during treatment.
-- -have cancer or have had any cancer - it is not clear if Litfulo increases the risk of cancer, and your doctor will discuss with you if treatment with this medicine is appropriate and whether check-ups including regular skin checks will be necessary during treatment.
-- -have had blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism). Tell your doctor if you get a painful swollen leg, chest pain, or shortness of breath as these can be signs of blood clots in the veins.
-- -have had blood clots in an artery in the eye (retinal occlusion) or heart (heart attack). Tell your doctor if you experience acute changes to your eyesight (blurry vision, partial or complete loss of vision), chest pain, shortness of breath as these changes may be a sign of blood clots in the arteries.
-- -have recently had or plan to have a vaccination (immunisation) - this is because certain vaccines (live vaccines) are not recommended while using Litfulo. Check with your doctor to see if your vaccinations are up to date and if you require additional vaccinations, including vaccination for shingles, before treatment with Litfulo.
-- -have unexplained symptoms caused by a problem with the nervous system while taking Litfulo. Your doctor will discuss with you if treatment should be discontinued.
+- have an infection or if you often get infections. Tell your doctor if you get symptoms such as fever, wounds, feeling more tired than usual or dental problems as these can be signs of infection. Litfulo can reduce your body's ability to fight infections and may make an existing infection worse or increase the chance of you getting a new infection. If you have diabetes or are aged 65 years or older you may have an increased chance of getting infections.
+- have, or have had, tuberculosis or have been in close contact with someone with tuberculosis, or if you reside or travel in regions where tuberculosis is very common. Your doctor will test you for tuberculosis before starting Litfulo and may retest you during treatment.
+- have ever had a herpes infection (such as chickenpox or shingles), because Litfulo may allow it to come back. Tell your doctor if you get a painful skin rash with blisters as this can be a sign of shingles.
+- have ever had hepatitis B or hepatitis C. Your doctor will test you for hepatitis before starting Litfulo and may retest you during treatment.
+- have cancer or have had any cancer - it is not clear if Litfulo increases the risk of cancer, and your doctor will discuss with you if treatment with this medicine is appropriate and whether check-ups including regular skin checks will be necessary during treatment.
+- have previously had blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism) or have an increased risk for developing this (for example: if you had recent major surgery, if you use hormonal contraceptives\\hormonal replacement therapy, if a coagulation defect is identified in you or your close relatives). Your doctor will discuss with you if Litfulo is appropriate for you. Tell your doctor if you get sudden shortness of breath or difficulty breathing, chest pain or pain in upper back, swelling of the leg or arm, leg pain or tenderness, or redness or discoloration in the leg or arm as these can be signs of blood clots in the veins.
+- have, or had heart problems because your doctor will discuss with you if Litfulo is appropriate for you.
+- have or have had cancer, smoke or have smoked in the past, because your doctor will discuss with you if Litfulo is appropriate for you.
+- Non-melanoma skin cancer has been observed in patients taking Litfulo. Your doctor may recommend that you have regular skin examinations while taking Litfulo. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
+- have recently had or plan to have a vaccination (immunisation) - this is because certain vaccines (live vaccines) are not recommended while using Litfulo. Check with your doctor to see if your vaccinations are up to date and if you require additional vaccinations, including vaccination for shingles, before treatment with Litfulo.
+- have unexplained symptoms caused by a problem with the nervous system while taking Litfulo. Your doctor will discuss with you if treatment should be discontinued.
 
 ## Additional monitoring tests
 
@@ -935,20 +989,19 @@ This medicine is not approved for use in children below the age of 12 years beca
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
-In particular, tell your doctor or pharmacist before taking Litfulo if you are taking some of the medicines to treat:
-
-- -anxiety or sleep disorders (such as midazolam),
-- -heart rhythm problems (such as quinidine),
-- -gout (such as colchicine),
-- -rejection in organ transplantation (such as cyclosporine, everolimus, tacrolimus and sirolimus),
-- -migraine (such as dihydroergotamine and ergotamine),
-- -schizophrenia and chronic psychosis (such as pimozide),
-- -asthma (such as theophylline),
-
 <div style=\"page-break-after: always\"></div>
 
-- -muscle spasms (such as tizanidine),
-- -idiopathic pulmonary fibrosis (such as pirfenidone).
+In particular, tell your doctor or pharmacist before taking Litfulo if you are taking some of the medicines to treat:
+
+- anxiety or sleep disorders (such as midazolam),
+- heart rhythm problems (such as quinidine),
+- gout (such as colchicine),
+- rejection in organ transplantation (such as cyclosporine, everolimus, tacrolimus and sirolimus),
+- migraine (such as dihydroergotamine and ergotamine),
+- schizophrenia and chronic psychosis (such as pimozide),
+- asthma (such as theophylline),
+- muscle spasms (such as tizanidine),
+- idiopathic pulmonary fibrosis (such as pirfenidone).
 
 Litfulo may increase the amount of these medicines in your blood.
 
@@ -982,6 +1035,12 @@ Litfulo has no or limited effect on the ability to drive or use machines.
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
+## Elderly
+
+Patients aged 65 years and older may be at increased risk of infections, heart attack and some types of cancer. Your doctor may decide that Litfulo is not suitable for you.
+
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How to take Litfulo
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
@@ -996,13 +1055,11 @@ You can take the capsule either with or without food.
 
 If you take more Litfulo than you should, contact your doctor. You may get some of the side effects described in section 4.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you forget to take Litfulo
 
-- -If you miss a dose, take it as soon as you remember, unless your next dose is due in less than 8 hours.
-- -If there is less than 8 hours before your next dose, just skip the missed dose and take your next dose as usual when it is due.
-- -Do not take a double dose to make up for a forgotten capsule.
+- If you miss a dose, take it as soon as you remember, unless your next dose is due in less than 8 hours.
+- If there is less than 8 hours before your next dose, just skip the missed dose and take your next dose as usual when it is due.
+- Do not take a double dose to make up for a forgotten capsule.
 
 ## If you stop taking Litfulo
 
@@ -1020,26 +1077,28 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Talk to your doctor and get medical help straight away if you get any signs of:
 
-- -Shingles (herpes zoster), a painful skin rash with blisters with or without fever
-- -Hives (urticaria), an itching skin rash
+- Shingles (herpes zoster), a painful skin rash with blisters with or without fever
+- Hives (urticaria), an itching skin rash
 
 ## Other side effects
 
 Common (may affect up to 1 in 10 people)
 
-- -Infections of nose, throat or the windpipe
-- -Diarrhoea
-- -Dizziness
-- -Acne
-- -Rash (other than hives and shingles)
-- -Inflammation (swelling) of the hair follicles which may be itchy or painful (folliculitis)
-- -Increase in an enzyme called creatine phosphokinase, shown by blood test (blood creatine phosphokinase increased)
+- Infections of nose, throat or the windpipe
+- Diarrhoea
+- Dizziness
+- Acne
+- Rash (other than hives and shingles)
+- Inflammation (swelling) of the hair follicles which may be itchy or painful (folliculitis)
+- Increase in an enzyme called creatine phosphokinase, shown by blood test (blood creatine phosphokinase increased)
+
+<div style=\"page-break-after: always\"></div>
 
 Uncommon (may affect up to 1 in 100 people)
 
-- -Low platelet count shown by blood test (platelet count decreased)
-- -Low white blood cell count shown by blood test (lymphocyte count decreased)
-- -Increase of liver enzymes in the blood (ALT and AST increased)
+- Low platelet count shown by blood test (platelet count decreased)
+- Low white blood cell count shown by blood test (lymphocyte count decreased)
+- Increase of liver enzymes in the blood (ALT and AST increased)
 
 ## Reporting of side effects
 
@@ -1048,8 +1107,6 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 ## 5. How to store Litfulo
 
 Keep this medicine out of the sight and reach of children.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not use this medicine after the expiry date which is stated on the carton, bottle, or blister after EXP. The expiry date refers to the last day of that month.
 
@@ -1061,15 +1118,15 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Litfulo contains
 
-- -The active substance is ritlecitinib.
+- The active substance is ritlecitinib.
 
 Each hard capsule contains ritlecitinib tosylate equivalent to 50 mg ritlecitinib.
 
-- -The other ingredients are:
-
 Hard capsule content: cellulose microcrystalline, lactose monohydrate, crospovidone ), glycerol dibehenate (see section 2 'Litfulo contains lactose monohydrate').
 
-Hard capsule shell: hypromellose (E464), titanium dioxide (E171), yellow iron oxide (E172), brilliant blue FCF (E133).
+Hard capsule shell: hypromellose (E464), titanium dioxide (E171), yellow iron oxide (E172),
+
+- The other ingredients are: brilliant blue FCF (E133).
 
 Printing ink: shellac, propylene glycol, ammonia solution concentrated, black iron oxide (E172), potassium hydroxide.
 
@@ -1085,21 +1142,19 @@ Not all pack sizes may be marketed.
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
+<div style=\"page-break-after: always\"></div>
+
 ## Manufacturer
 
 Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Luxembourg/Luxemburg
+## België/Belgique/Belgien Luxembourg/Luxemburg
 
-Pfizer NV/SA Tél/Tel: +32 (0)2 554 62 11
+Pfizer NV/SA
 
-Lietuva
-
-Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
-
-<div style=\"page-break-after: always\"></div>
+Tél/Tel: +32 (0)2 554 62 11
 
 ## България
 
@@ -1113,49 +1168,49 @@ Tel: +420 283 004 111
 
 ## Danmark
 
-Pfizer ApS Tlf.: +45 44 20 11 00
+Pfizer ApS
+
+Tlf.: +45 44 20 11 00
 
 ## Deutschland
 
-PFIZER PHARMA GmbH Tel: +49 (0)30 550055-51000
+PFIZER PHARMA GmbH
+
+Tel: +49 (0)30 550055-51000
 
 ## Eesti
 
-Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
+Pfizer Luxembourg SARL Eesti filiaal
+
+Tel: +372 666 7500
 
 ## Ελλάδα
 
-Pfizer Ελλάς A.E. Τηλ: +30 210 6785800
+Pfizer Ελλάς A.E.
+
+Τηλ: +30 210 6785800
 
 ## España
 
-Pfizer, S.L. Tel: +34 91 490 99 00
+Pfizer, S.L.
+
+Tel: +34 91 490 99 00
 
 ## France
 
-Pfizer Tél: +33 (0)1 58 07 34 40
+Pfizer
+
+Tél: +33 (0)1 58 07 34 40
 
 ## Hrvatska
 
-Pfizer Croatia d.o.o. Tel: +385 1 3908 777
+Pfizer Croatia d.o.o.
 
-## Ireland
+Tel: +385 1 3908 777
 
-Pfizer Healthcare Ireland Unlimited Company Tel: +1800 633 363 (toll free) Tel: +44 (0)1304 616161
+## Lietuva
 
-## Ísland
-
-Icepharma hf. Sími: +354 540 8000
-
-## Italia
-
-Pfizer S.r.l. Tel: +39 06 33 18 21
-
-## Κύπρος
-
-Pfizer Ελλάς Α.Ε. (Cyprus Branch)
-
-Τηλ: +357 22817690
+Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
 
 ## Magyarország
 
@@ -1165,35 +1220,91 @@ Tel.: + 36 1 488 37 00
 
 ## Malta
 
-Vivian Corporation Ltd. Tel: +356 21344610
+Vivian Corporation Ltd.
+
+Tel: +356 21344610
 
 ## Nederland
 
-Pfizer bv Tel: +31 (0)800 63 34 636
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
 
 ## Norge
 
-Pfizer AS Tlf: +47 67 52 61 00
+Pfizer AS
+
+Tlf: +47 67 52 61 00
 
 ## Österreich
 
-Pfizer Corporation Austria Ges.m.b.H. Tel: +43 (0)1 521 15-0
+Pfizer Corporation Austria Ges.m.b.H.
+
+Tel: +43 (0)1 521 15-0
 
 ## Polska
 
-Pfizer Polska Sp. z o.o. Tel.: +48 22 335 61 00
+Pfizer Polska Sp. z o.o.
+
+Tel.: +48 22 335 61 00
 
 ## Portugal
 
-Laboratórios Pfizer, Lda. Tel: +351 21 423 5500
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
 
 ## România
 
-Pfizer Romania S.R.L. Tel: +40 (0) 21 207 28 00
+Pfizer Romania S.R.L.
+
+Tel: +40 (0) 21 207 28 00
 
 ## Slovenija
 
-Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: +386 (0)1 52 11 400
+Pfizer Luxembourg SARL
+
+Pfizer, podružnica za svetovanje s področja
+
+farmacevtske dejavnosti, Ljubljana
+
+Tel: +386 (0)1 52 11 400
+
+<div style=\"page-break-after: always\"></div>
+
+## Ireland
+
+Pfizer Healthcare Ireland Unlimited Company
+
+Tel: +1800 633 363 (toll free)
+
+Tel: +44 (0)1304 616161
+
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
+
+## Italia
+
+Pfizer S.r.l.
+
+Tel: +39 06 33 18 21
+
+## Κύπρος
+
+Pfizer Ελλάς Α.Ε. (Cyprus Branch) Τηλ: +357 22817690
+
+## Latvija
+
+Pfizer Luxembourg SARL filiāle Latvijā Tel: + 371 670 35 775
+
+## This leaflet was last revised in .
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Slovenská republika
 
@@ -1201,22 +1312,36 @@ Pfizer Luxembourg SARL, organizačná zložka Tel: + 421 2 3355 5500
 
 ## Suomi/Finland
 
-Pfizer Oy Puh/Tel: +358 (0)9 430 040
+Pfizer Oy
+
+Puh/Tel: +358 (0)9 430 040
 
 ## Sverige
 
-Pfizer AB Tel: +46 (0)8 550 520 00
+Pfizer AB
+
+Tel: +46 (0)8 550 520 00
 
 <div style=\"page-break-after: always\"></div>
 
-## Latvija
+## ANNEX IV
 
-Pfizer Luxembourg SARL filiāle Latvijā
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION
 
-Tel: + 371 670 35 775
+<div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in .
+## Scientific conclusions
 
-## Other sources of information
+Taking into account the PRAC Assessment Report on the PSUR(s) for ritlecitinib, the scientific conclusions of PRAC are as follows:
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+In view of available data on major adverse cardiovascular events, venous thromboembolism, serious infections and malignancies from clinical trials, the literature, spontaneous reports, including in some cases a close temporal relationship, and in view of a plausible mechanism of action, the PRAC concluded that the product information of products containing ritlecitinib should be amended to include the complete recommendations and warnings from the Article 20 JAK inhibitor referral.
+
+Following the adoption of the PRAC recommendation, the MAH did not agree with the adopted PRAC recommendation to amend the Litfulo product information to include the complete recommendations and warnings from the Article 20 JAKi inhibitor referral (procedure EMEA/HA20/1517).
+
+Having reviewed the PRAC recommendation, as well as the information provided by the MAH, in writing and at an oral explanation before the CHMP, the CHMP was of the view that based on available data and in particular considering the absence of definitive data establishing that JAK3/TEC selectivity abrogates the risks associated with JAKis used in chronic inflammatory disorders, the precautionary measures recommended in the Article 20 JAK inhibitor referral are also relevant for Litfulo. The CHMP therefore agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation
+
+On the basis of the scientific conclusions for ritlecitinib the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing ritlecitinib is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation should be varied.

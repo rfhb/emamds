@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-11 08:47:38
+document_datetime: 2026-09-17 10:34:28
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/denbrayce-epar-product-information_en.pdf
 document_name: denbrayce-epar-product-information_en.pdf
 version: success
-processing_time: 10.2452652
-conversion_datetime: 2026-05-13 13:17:05.055714
+processing_time: 36.3324985
+conversion_datetime: 2026-09-23 06:52:59.292747
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -46,7 +46,7 @@ For the full list of excipients, see section 6.1.
 
 Solution for injection (injection).
 
-Clear,  colourless  to  slightly  yellow  solution  and  may  contain  trace  amounts  of  translucent  to  white proteinaceous particles.
+Clear, colourless to slightly yellow solution and may contain trace amounts of translucent to white proteinaceous particles.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -72,7 +72,7 @@ Prevention of skeletal related events in adults with advanced malignancies invol
 
 ## Giant cell tumour of bone
 
-The recommended dose of Denbrayceis 120 mg administered as a single subcutaneous injection once every 4 weeks into the thigh, abdomen or upper arm with additional 120 mg doses on days 8 and 15 of treatment of the first month of therapy.
+The recommended dose of Denbrayce is 120 mg administered as a single subcutaneous injection once every 4 weeks into the thigh, abdomen or upper arm with additional 120 mg doses on days 8 and 15 of treatment of the first month of therapy.
 
 Patients in the phase II study who underwent complete resection of giant cell tumour of bone did receive an additional 6 months of treatment following the surgery as per study protocol.
 
@@ -173,7 +173,7 @@ Hypercalcaemia following treatment discontinuation in patients with giant cell t
 
 Clinically significant hypercalcaemia requiring hospitalisation and complicated by acute renal injury has been reported in denosumab-treated patients with giant cell tumour of bone weeks to months following treatment discontinuation.
 
-After treatment is discontinued, monitor patients for signs and symptoms of hypercalcaemia, consider periodic assessment of serum calcium and reevaluate the patient's calcium and vitamin D supplementation requirements (see section 4.8).
+After treatment is discontinued, monitor patients for signs and symptoms of hypercalcaemia, consider periodic assessment of serum calcium and re-evaluate the patient's calcium and vitamin D supplementation requirements (see section 4.8).
 
 Denosumab is not recommended in patients with growing skeletons (see section 4.2). Clinically significant hypercalcaemia has also been reported in this patient group weeks to months following treatment discontinuation.
 
@@ -193,7 +193,7 @@ This medicinal product contains 0.17 mg of polysorbate 20 (E432) in each vial. P
 
 This medicinal product contains sorbitol (E420). The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -235,7 +235,7 @@ Hypocalcaemia has very commonly been reported following denosumab administration
 
 The following convention has been used for the classification of the adverse reactions based on incidence rates in four phase III, two phase II clinical studies and post-marketing experience (see table 1): very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
-Table  1.  Adverse  reactions  reported  in  patients  with  advanced  malignancies  involving  bone, multiple myeloma, or with giant cell tumour of bone
+Table 1. Adverse reactions reported in patients with advanced malignancies involving bone, multiple myeloma, or with giant cell tumour of bone
 
 | MedDRA system organ class                                                | Frequency category                    | Adverse reactions                                                                                                              |
 |--------------------------------------------------------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -248,12 +248,11 @@ Table  1.  Adverse  reactions  reported  in  patients  with  advanced  malignanc
 | Gastrointestinal disorders                                               | Very Common Common                    | Diarrhoea Tooth extraction                                                                                                     |
 | Skin and subcutaneous tissue disorders                                   | Common Uncommon                       | Hyperhidrosis Lichenoid drug eruptions 1                                                                                       |
 | Musculoskeletal and connective tissue disorders                          | Very common Common Uncommon Not Known | Musculoskeletal pain 1 Osteonecrosis of the jaw 1 Atypical femoral fracture 1 Osteonecrosis of the external auditory canal 3,4 |
-
-3  See section 4.4
-
-4 Class effect
+| General disorders and administration site conditions                     | Uncommon                              | Injection site reactions 5                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
+
+5 Including injection site pain.
 
 ## Description of selected adverse reactions
 
@@ -277,11 +276,11 @@ In clinical trials, the incidence of ONJ was higher with longer duration of expo
 
 A higher incidence of ONJ among patients treated with denosumab compared to zoledronic acid has been observed in SRE prevention clinical trials. The highest incidence of ONJ was observed in a phase III trial in patients with multiple myeloma. In the double-blind treatment phase of this trial, ONJ was confirmed in 5.9% of patients treated with denosumab (median exposure of 19.4 months; range 1 - 52) and in 3.2% of patients treated with zoledronic acid. At the completion of the double-blind treatment phase of this trial, the patient-year adjusted incidence of confirmed ONJ in the denosumab group (median exposure of 19.4 months; range 1 - 52), was 2.0 per 100 patient-years during the first year of treatment, 5.0 in the second year, and 4.5 thereafter. The median time to ONJ was 18.7 months (range: 1 - 44).
 
-In the primary treatment phases of three phase III active-controlled clinical trials in patients with advanced malignancies involving bone, ONJ was confirmed in 1.8% of patients treated with denosumab (median exposure of 12.0 months; range: 0.1 -40.5) and 1.3% of patients treated with zoledronic acid. Clinical characteristics of these cases were similar between treatment groups. Among patients with confirmed ONJ, most (81% in both treatment groups) had a history of tooth extraction, poor oral hygiene, and/or use of a dental appliance. Most patients were receiving or had received chemotherapy.
+In the primary treatment phases of three phase III active-controlled clinical trials in patients with advanced malignancies involving bone, ONJ was confirmed in 1.8% of patients treated with denosumab (median exposure of 12.0 months; range: 0.1 - 40.5) and 1.3% of patients treated with zoledronic acid. Clinical characteristics of these cases were similar between treatment groups. Among patients with confirmed ONJ, most (81% in both treatment groups) had a history of tooth extraction, poor oral hygiene, and/or use of a dental appliance. Most patients were receiving or had received chemotherapy.
 
 <div style=\"page-break-after: always\"></div>
 
-The trials in patients with breast or prostate cancer included a denosumab extension treatment phase (median overall exposure of 14.9 months; range: 0.1 -67.2). ONJ was confirmed in 6.9% of patients with breast cancer and prostate cancer during the extension treatment phase.
+The trials in patients with breast or prostate cancer included a denosumab extension treatment phase (median overall exposure of 14.9 months; range: 0.1 - 67.2). ONJ was confirmed in 6.9% of patients with breast cancer and prostate cancer during the extension treatment phase.
 
 The patient-year adjusted overall incidence of confirmed ONJ was 1.1 per 100 patient-years during the first year of treatment, 3.7 in the second year and 4.6 thereafter. The median time to ONJ was 20.6 months (range: 4 - 53).
 
@@ -289,7 +288,7 @@ A non-randomised, retrospective, observational study in 2,877 patients with canc
 
 In a phase III trial in patients with non-metastatic prostate cancer (a patient population for which denosumab is not indicated), with longer treatment exposure of up to 7 years, the patient-year adjusted incidence of confirmed ONJ was 1.1 per 100 patient-years during the first year of treatment, 3.0 in the second year, and 7.1 thereafter.
 
-In a long-term phase II open-label clinical trial in patients with giant cell tumour of bone (study 6, see section 5.1), ONJ was confirmed in 6.8% of patients, including one adolescent (median number of 34 doses; range 4 -116). At the completion of the trial, median time on trial including safety follow-up phase was 60.9 months (range: 0 -112.6). The patient-year adjusted incidence of confirmed ONJ was 1.5 per 100 patient-years overall (0.2 per 100 patient-years during the first year of treatment, 1.5 in the second year, 1.8 in the third year, 2.1 in the fourth year, 1.4 in the fifth year, and 2.2 thereafter). The median time to ONJ was 41 months (range: 11 - 96).
+In a long-term phase II open-label clinical trial in patients with giant cell tumour of bone (study 6, see section 5.1), ONJ was confirmed in 6.8% of patients, including one adolescent (median number of 34 doses; range 4 - 116). At the completion of the trial, median time on trial including safety follow-up phase was 60.9 months (range: 0 - 112.6). The patient-year adjusted incidence of confirmed ONJ was 1.5 per 100 patient-years overall (0.2 per 100 patient-years during the first year of treatment, 1.5 in the second year, 1.8 in the third year, 2.1 in the fourth year, 1.4 in the fifth year, and 2.2 thereafter). The median time to ONJ was 41 months (range: 11 - 96).
 
 Study 7 was conducted to continue to follow subjects with GCTB who were treated in study 6 for an additional 5 or more years. ONJ was reported in 6 patients (11.8%) of the 51 exposed patients with median total 42 doses of denosumab. Three of these cases of ONJ were medically confirmed.
 
@@ -309,11 +308,9 @@ In the post-marketing setting, musculoskeletal pain, including severe cases, has
 
 ## New primary malignancy
 
-In the primary double blind treatment phases of four phase III active-controlled clinical trials in patients with advanced malignancies involving bone, new primary malignancy was reported in 54/3691 (1.5%) of patients treated with denosumab (median exposure of 13.8 months; range: 1.0 -
-
 <div style=\"page-break-after: always\"></div>
 
-51.7) and 33/3688 (0.9%) of patients treated with zoledronic acid (median exposure of 12.9 months; range: 1.0-50.8).
+In the primary double blind treatment phases of four phase III active-controlled clinical trials in patients with advanced malignancies involving bone, new primary malignancy was reported in 54/3691 (1.5%) of patients treated with denosumab (median exposure of 13.8 months; range: 1.051.7) and 33/3688 (0.9%) of patients treated with zoledronic acid (median exposure of 12.9 months; range: 1.0-50.8).
 
 The cumulative incidence at one year was 1.1 % for denosumab and 0.6 % for zoledronic acid, respectively.
 
@@ -329,7 +326,7 @@ Lichenoid drug eruptions (e.g. lichen planus-like reactions) have been reported 
 
 Denosumab was studied in an open-label trial that enrolled 28 skeletally mature adolescents with giant cell tumour of bone. Based on these limited data, the adverse event profile appeared to be similar to adults.
 
-Clinically  significant  hypercalcaemia  after  treatment  discontinuation  has  been  reported  in  the  postmarketing setting in paediatric patients (see section 4.4).
+Clinically significant hypercalcaemia after treatment discontinuation has been reported in the postmarketing setting in paediatric patients (see section 4.4).
 
 ## Other special populations
 
@@ -353,9 +350,9 @@ There is no experience with overdose in clinical studies. Denosumab has been adm
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs for treatment of bone diseases -Other drugs affecting bone structure and mineralisation, ATC code: M05BX04
+Pharmacotherapeutic group: Drugs for treatment of bone diseases - Other drugs affecting bone structure and mineralisation, ATC code: M05BX04
 
-Denbrayce is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Denbrayce is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 ## Mechanism of action
 
@@ -369,7 +366,7 @@ In phase II clinical studies of patients with advanced malignancies involving bo
 
 ## Immunogenicity
 
-Anti-denosumab  antibodies  may  develop  during  denosumab  treatment.  No  apparent  correlation  of antibody development with pharmacokinetics, clinical response or adverse event has been observed. Clinical efficacy and safety in patients with bone metastases from solid tumours
+Anti-denosumab antibodies may develop during denosumab treatment. No apparent correlation of antibody development with pharmacokinetics, clinical response or adverse event has been observed. Clinical efficacy and safety in patients with bone metastases from solid tumours
 
 Efficacy and safety of 120 mg denosumab SC every 4 weeks or 4 mg zoledronic acid (dose-adjusted for reduced renal function) IV every 4 weeks were compared in three randomised, double-blind, active-controlled studies, in IV-bisphosphonate naïve patients with advanced malignancies involving bone: adults with breast cancer (study 1), other solid tumours or multiple myeloma (study 2), and castrate-resistant prostate cancer (study 3). Within these active-controlled clinical trials, safety was evaluated in 5,931 patients. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure, were not eligible for inclusion in these studies. The primary and secondary endpoints evaluated the occurrence of one or more skeletal related events (SREs). In studies demonstrating superiority of denosumab to zoledronic acid, patients were offered open-label denosumab in a prespecified 2-year extension treatment phase. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
@@ -379,31 +376,30 @@ Denosumab reduced the risk of developing a SRE, and developing multiple SREs (fi
 
 Table 2. Efficacy results in patients with advanced malignancies involving bone
 
-|                                        | Study 1 breast cancer     | Study 1 breast cancer     | Study 2 other solid tumours** or multiple myeloma   | Study 2 other solid tumours** or multiple myeloma   | Study 3 prostate cancer   | Study 3 prostate cancer   | Combined advanced cancer   | Combined advanced cancer   |
-|----------------------------------------|---------------------------|---------------------------|-----------------------------------------------------|-----------------------------------------------------|---------------------------|---------------------------|----------------------------|----------------------------|
-|                                        | denosumab                 | zoledronic acid           | denosumab                                           | zoledronic acid                                     | denosumab                 | zoledronic acid           | denosumab                  | zoledronic acid            |
-| N                                      | 1,026                     | 1,020                     | 886                                                 | 890                                                 | 950                       | 951                       | 2,862                      | 2,861                      |
-| First SRE                              |                           |                           |                                                     |                                                     |                           |                           |                            |                            |
-| Median time (months)                   | NR                        | 26.4                      | 20.6                                                | 16.3                                                | 20.7                      | 17.1                      | 27.6                       | 19.4                       |
-| Difference in median time (months)     | NA                        | NA                        | 4.2                                                 | 4.2                                                 | 3.5                       | 3.5                       | 8.2                        | 8.2                        |
-| HR(95%CI)/ RRR (%)                     | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.84 (0.71, 0.98) / 16                              | 0.84 (0.71, 0.98) / 16                              | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
-| Non-inferiority / Superiority p-values | < 0.0001 † / 0.0101 †     | < 0.0001 † / 0.0101 †     | 0.0007 † / 0.0619 †                                 | 0.0007 † / 0.0619 †                                 | 0.0002 † / 0.0085 †       | 0.0002 † / 0.0085 †       | < 0.0001 / < 0.0001        | < 0.0001 / < 0.0001        |
-| Proportion of patients (%)             | 30.7                      | 36.5                      | 31.4                                                | 36.3                                                | 35.9                      | 40.6                      | 32.6                       | 37.8                       |
-| First and subsequent SRE*              | First and subsequent SRE* | First and subsequent SRE* |                                                     |                                                     |                           |                           |                            |                            |
-| Mean number/patient                    | 0.46                      | 0.60                      | 0.44                                                | 0.49                                                | 0.52                      | 0.61                      | 0.48                       | 0.57                       |
-| Rate ratio (95% CI) / RRR (%)          | 0.77 (0.66, 0.89) / 23    | 0.77 (0.66, 0.89) / 23    | 0.90 (0.77, 1.04) / 10                              | 0.90 (0.77, 1.04) / 10                              | 0.82 (0.71, 0.94) / 18    | 0.82 (0.71, 0.94) / 18    | 0.82 (0.75, 0.89) / 18     | 0.82 (0.75, 0.89) / 18     |
-| Superiority p-value                    | 0.0012 †                  | 0.0012 †                  | 0.1447 †                                            | 0.1447 †                                            | 0.0085 †                  | 0.0085 †                  | < 0.0001                   | < 0.0001                   |
-| SMRper Year                            | 0.45                      | 0.58                      | 0.86                                                | 1.04                                                | 0.79                      | 0.83                      | 0.69                       | 0.81                       |
-| FirstSREorHCM                          | FirstSREorHCM             | FirstSREorHCM             | FirstSREorHCM                                       | FirstSREorHCM                                       | FirstSREorHCM             | FirstSREorHCM             | FirstSREorHCM              | FirstSREorHCM              |
-| Median time (months)                   | NR                        | 25.2                      | 19.0                                                | 14.4                                                | 20.3                      | 17.1                      | 26.6                       | 19.4                       |
-| HR(95%CI)/ RRR (%)                     | 0.82 (0.70, 0.95) / 18    | 0.82 (0.70, 0.95) / 18    | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.72, 0.96) / 17    | 0.83 (0.72, 0.96) / 17    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
-| Superiority p-value                    | 0.0074                    | 0.0074                    | 0.0215                                              | 0.0215                                              | 0.0134                    | 0.0134                    | < 0.0001                   | < 0.0001                   |
-| First radiation to bone                | First radiation to bone   | First radiation to bone   | First radiation to bone                             | First radiation to bone                             | First radiation to bone   | First radiation to bone   | First radiation to bone    | First radiation to bone    |
-| Median time (months)                   | NR                        | NR                        | NR                                                  | NR                                                  | NR                        | 28.6                      | NR                         | 33.2                       |
-| HR(95%CI)/ RRR (%)                     | 0.74 (0.59, 0.94) / 26    | 0.74 (0.59, 0.94) / 26    | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.66, 0.94) / 22    | 0.78 (0.66, 0.94) / 22    | 0.77 (0.69, 0.87) / 23     | 0.77 (0.69, 0.87) / 23     |
-| Superiority p-value                    | 0.0121                    | 0.0121                    | 0.0256                                              | 0.0256                                              | 0.0071                    | 0.0071                    | < 0.0001                   | < 0.0001                   |
+|                                        | Study 1 breast cancer - denosumab   | Study 1 breast cancer - zoledronic acid   | Study 2 other solid tumours** or multiple myeloma - denosumab   | Study 2 other solid tumours** or multiple myeloma - zoledronic acid   | Study 3 prostate cancer - denosumab   | Study 3 prostate cancer - zoledronic acid   | Combined advanced cancer - denosumab   | Combined advanced cancer - zoledronic acid   |
+|----------------------------------------|-------------------------------------|-------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------|---------------------------------------------|----------------------------------------|----------------------------------------------|
+| N                                      | 1,026                               | 1,020                                     | 886                                                             | 890                                                                   | 950                                   | 951                                         | 2,862                                  | 2,861                                        |
+| First SRE                              |                                     |                                           |                                                                 |                                                                       |                                       |                                             |                                        |                                              |
+| Median time (months)                   | NR                                  | 26.4                                      | 20.6                                                            | 16.3                                                                  | 20.7                                  | 17.1                                        | 27.6                                   | 19.4                                         |
+| Difference in median time (months)     | NA                                  | NA                                        | 4.2                                                             | 4.2                                                                   | 3.5                                   | 3.5                                         | 8.2                                    | 8.2                                          |
+| HR (95% CI) / RRR (%)                  | 0.82 (0.71, 0.95) / 18              | 0.82 (0.71, 0.95) / 18                    | 0.84 (0.71, 0.98) / 16                                          | 0.84 (0.71, 0.98) / 16                                                | 0.82 (0.71, 0.95) / 18                | 0.82 (0.71, 0.95) / 18                      | 0.83 (0.76, 0.90) / 17                 | 0.83 (0.76, 0.90) / 17                       |
+| Non-inferiority / Superiority p-values | < 0.0001 † / 0.0101 †               | < 0.0001 † / 0.0101 †                     | 0.0007 † / 0.0619 †                                             | 0.0007 † / 0.0619 †                                                   | 0.0002 † / 0.0085 †                   | 0.0002 † / 0.0085 †                         | < 0.0001 / < 0.0001                    | < 0.0001 / < 0.0001                          |
+| Proportion of patients (%)             | 30.7                                | 36.5                                      | 31.4                                                            | 36.3                                                                  | 35.9                                  | 40.6                                        | 32.6                                   | 37.8                                         |
+| First and subsequent SRE*              | First and subsequent SRE*           | First and subsequent SRE*                 |                                                                 |                                                                       |                                       |                                             |                                        |                                              |
+| Mean number/patient                    | 0.46                                | 0.60                                      | 0.44                                                            | 0.49                                                                  | 0.52                                  | 0.61                                        | 0.48                                   | 0.57                                         |
+| Rate ratio (95% CI) / RRR (%)          | 0.77 (0.66, 0.89) / 23              | 0.77 (0.66, 0.89) / 23                    | 0.90 (0.77, 1.04) / 10                                          | 0.90 (0.77, 1.04) / 10                                                | 0.82 (0.71, 0.94) / 18                | 0.82 (0.71, 0.94) / 18                      | 0.82 (0.75, 0.89) / 18                 | 0.82 (0.75, 0.89) / 18                       |
+| Superiority p-value                    | 0.0012 †                            | 0.0012 †                                  | 0.1447 †                                                        | 0.1447 †                                                              | 0.0085 †                              | 0.0085 †                                    | < 0.0001                               | < 0.0001                                     |
+| SMR per Year                           | 0.45                                | 0.58                                      | 0.86                                                            | 1.04                                                                  | 0.79                                  | 0.83                                        | 0.69                                   | 0.81                                         |
+| First SRE or HCM                       | First SRE or HCM                    | First SRE or HCM                          | First SRE or HCM                                                | First SRE or HCM                                                      | First SRE or HCM                      | First SRE or HCM                            | First SRE or HCM                       | First SRE or HCM                             |
+| Median time (months)                   | NR                                  | 25.2                                      | 19.0                                                            | 14.4                                                                  | 20.3                                  | 17.1                                        | 26.6                                   | 19.4                                         |
+| HR (95% CI) / RRR (%)                  | 0.82 (0.70, 0.95) / 18              | 0.82 (0.70, 0.95) / 18                    | 0.83 (0.71, 0.97) / 17                                          | 0.83 (0.71, 0.97) / 17                                                | 0.83 (0.72, 0.96) / 17                | 0.83 (0.72, 0.96) / 17                      | 0.83 (0.76, 0.90) / 17                 | 0.83 (0.76, 0.90) / 17                       |
+| Superiority p-value                    | 0.0074                              | 0.0074                                    | 0.0215                                                          | 0.0215                                                                | 0.0134                                | 0.0134                                      | < 0.0001                               | < 0.0001                                     |
+| First radiation to bone                | First radiation to bone             | First radiation to bone                   | First radiation to bone                                         | First radiation to bone                                               | First radiation to bone               | First radiation to bone                     | First radiation to bone                | First radiation to bone                      |
+| Median time (months)                   | NR                                  | NR                                        | NR                                                              | NR                                                                    | NR                                    | 28.6                                        | NR                                     | 33.2                                         |
+| HR (95% CI) / RRR (%)                  | 0.74 (0.59, 0.94) / 26              | 0.74 (0.59, 0.94) / 26                    | 0.78 (0.63, 0.97) / 22                                          | 0.78 (0.63, 0.97) / 22                                                | 0.78 (0.66, 0.94) / 22                | 0.78 (0.66, 0.94) / 22                      | 0.77 (0.69, 0.87) / 23                 | 0.77 (0.69, 0.87) / 23                       |
+| Superiority p-value                    | 0.0121                              | 0.0121                                    | 0.0256                                                          | 0.0256                                                                | 0.0071                                | 0.0071                                      | < 0.0001                               | < 0.0001                                     |
 
-NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction †Adjusted p -values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpoi nts); *Accounts for all skeletal events over time; only events occurring ≥ 21 days after the previous event are counted.
+NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction †Adjusted p-values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpoints); *Accounts for all skeletal events over time; only events occurring ≥ 21 days after the previous event are counted.
 
 ** Including NSCLC, renal cell cancer, colorectal cancer, small cell lung cancer, bladder cancer, head and neck cancer, GI/genitourinary cancer and others, excluding breast and prostate cancer.
 
@@ -429,7 +425,7 @@ In studies 1, 2 and 3, overall survival was balanced between denosumab and zoled
 
 ## Effect on pain
 
-The time to pain improvement (i.e. ≥ 2 -point decrease from baseline in BPI-SF worst pain score) was similar for denosumab and zoledronic acid in each study and the integrated analyses. In a post-hoc analysis of the combined dataset, the median time to worsening pain (&gt; 4-point worst pain score) in patients with mild or no pain at baseline was delayed for denosumab compared to zoledronic acid (198 versus 143 days) (p = 0.0002).
+The time to pain improvement (i.e. ≥ 2-point decrease from baseline in BPI-SF worst pain score) was similar for denosumab and zoledronic acid in each study and the integrated analyses. In a post-hoc analysis of the combined dataset, the median time to worsening pain (&gt; 4-point worst pain score) in patients with mild or no pain at baseline was delayed for denosumab compared to zoledronic acid (198 versus 143 days) (p = 0.0002).
 
 ## Clinical efficacy in patients with multiple myeloma
 
@@ -447,6 +443,8 @@ Efficacy results from study 4 are presented in figure 2 and table 3.
 
 Figure 2. Kaplan-Meier plot for time to first on-study SRE in patients with newly diagnosed multiple myeloma
 
+DH
+
 <!-- image -->
 
 N = number of subjects randomised
@@ -463,7 +461,7 @@ Table 3. Efficacy results for denosumab compared to zoledronic acid in patients 
 | Mean number of events/patient       | 0.66                  | 0.66                        |
 | Rate ratio (95% CI)                 | 1.01 (0.89, 1.15)     | 1.01 (0.89, 1.15)           |
 | Skeletal morbidity rate per year    | 0.61                  | 0.62                        |
-| First SRE orHCM                     | First SRE orHCM       | First SRE orHCM             |
+| First SRE or HCM                    | First SRE or HCM      | First SRE or HCM            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -480,7 +478,7 @@ NE = not estimable
 
 HCM = hypercalcaemia of malignancy
 
-## Clinical efficacy and safety in adults and skeletally mature adolescents with giant cell tumour of bone
+Clinical efficacy and safety in adults and skeletally mature adolescents with giant cell tumour of bone
 
 The safety and efficacy of denosumab was studied in two phase II open-label, single-arm trials (studies 5 and 6) that enrolled 554 patients with giant cell tumour of bone that was either unresectable or for which surgery would be associated with severe morbidity and a prospective, multicentre, openlabel, phase IV study (study 7) that provided long-term safety follow-up for patients who completed study 6. Patients received 120 mg denosumab subcutaneously every 4 weeks with a loading dose of 120 mg on days 8 and 15. Patients who discontinued denosumab then entered the safety follow-up phase for a minimum of 60 months. Retreatment with denosumab while in safety follow-up was allowed for patients who initially demonstrated a response to denosumab (e.g. in the case of recurrent disease).
 
@@ -502,7 +500,7 @@ In the final analysis cohorts 1 and 2 combined, a clinically meaningful reductio
 
 The European Medicines Agency has waived the obligation to submit the results of studies with denosumab in all subsets of the paediatric population in the prevention of skeletal related events in patients with bone metastases and subsets of the paediatric population below the age of 12 in the treatment of giant cell tumour of bone (see section 4.2 for information on paediatric use).
 
-In study 6, denosumab has been evaluated in a subset of 28 adolescent patients (aged 13-17 years) with giant cell tumour of bone who had reached skeletal maturity defined by at least 1 mature long bone (e.g. closed epiphyseal growth plate of the humerus) and body weight ≥ 45 k g. One adolescent patients with surgically unsalvageable disease (N = 14) had disease recurrence during initial treatment. Thirteen of the 14 patients with surgically salvageable disease whose planned surgery was associated with severe morbidity had not undergone surgery by month 6.
+In study 6, denosumab has been evaluated in a subset of 28 adolescent patients (aged 13-17 years) with giant cell tumour of bone who had reached skeletal maturity defined by at least 1 mature long bone (e.g. closed epiphyseal growth plate of the humerus) and body weight ≥ 45 kg. One adolescent patients with surgically unsalvageable disease (N = 14) had disease recurrence during initial treatment. Thirteen of the 14 patients with surgically salvageable disease whose planned surgery was associated with severe morbidity had not undergone surgery by month 6.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -556,7 +554,7 @@ The carcinogenic potential of denosumab has not been evaluated in long-term anim
 
 In single and repeated dose toxicity studies in cynomolgus monkeys, denosumab doses resulting in 2.7 to 15 times greater systemic exposure than the recommended human dose had no impact on cardiovascular physiology, male or female fertility, or produced specific target organ toxicity.
 
-In  a  study  of  cynomolgus  monkeys dosed with denosumab during the period equivalent to the first trimester  of  pregnancy,  denosumab  doses  resulting  in  9  times  greater  systemic  exposure  than  the recommended human dose did not induce maternal toxicity or foetal harm during a period equivalent to the first trimester, although foetal lymph nodes were not examined.
+In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester of pregnancy, denosumab doses resulting in 9 times greater systemic exposure than the recommended human dose did not induce maternal toxicity or foetal harm during a period equivalent to the first trimester, although foetal lymph nodes were not examined.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -572,7 +570,7 @@ In preclinical studies knockout mice lacking RANK or RANKL had an absence of lac
 
 ## 6.1 List of excipients
 
-Acetic acid, glacial* Sodium hydroxide (for pH adjustment)* Sorbitol (E420) Polysorbate 20 (E432) Water for injections * Acetate buffer is formed by mixing acetic acid with sodium hydroxide Solution with pH between 5.0 -5.5.
+Acetic acid, glacial* Sodium hydroxide (for pH adjustment)* Sorbitol (E420) Polysorbate 20 (E432) Water for injections * Acetate buffer is formed by mixing acetic acid with sodium hydroxide Solution with pH between 5.0 - 5.5.
 
 ## 6.2 Incompatibilities
 
@@ -588,7 +586,11 @@ Once removed from the refrigerator, Denbrayce may be stored at room temperature 
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C -8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C).
+
+Do not freeze.
+
+Keep the vial in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
@@ -623,7 +625,7 @@ Date of first authorisation: 26 June 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -737,37 +739,46 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mabxience Research SL C/ Manuel Pombo Angulo 28, 28050 Madrid Spain
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/25/1936/001 1 single use vial EU/1/25/1936/002 3 single use vial
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -807,21 +818,23 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the patient
 
 ## Denbrayce 120 mg solution for injection
 
-## denosumab
+denosumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Denbrayce.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Denbrayce.
 
 ## What is in this leaflet
 
@@ -846,7 +859,7 @@ Denbrayce is also used to treat giant cell tumour of bone, which cannot be treat
 
 ## Do not use Denbrayce
 
-- if  you  are  allergic  to  desnosumab  or  any  of  the  other  ingredients  of  this  medicine  (listed  in section 6).
+- if you are allergic to desnosumab or any of the other ingredients of this medicine (listed in section 6).
 
 Your healthcare professional will not administer Denbrayce to you if you have a very low level of calcium in your blood which has not been treated.
 
@@ -928,7 +941,7 @@ This medicine contains 78 mg of sorbitol (E420) in each vial.
 
 ## Denbrayce contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 120 mg, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 120 mg, that is to say essentially 'sodium-free'.
 
 ## Denbrayce contains polysorbate 20 (E432)
 
@@ -978,6 +991,7 @@ Uncommon side effects (may affect up to 1 in 100 people):
 - high calcium levels in the blood (hypercalcaemia) after stopping treatment in patients with giant cell tumour of the bone,
 - new or unusual pain in your hip, groin or thigh (this may be an early indication of a possible fracture of the thigh bone),
 - rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
+- injection site reactions including pain around the site where the injection was given.
 
 Rare side effects (may affect up to 1 in 1,000 people):
 
@@ -987,9 +1001,9 @@ Not known (frequency cannot be estimated from the available data):
 
 - talk to your doctor if you have ear pain, discharge from the ear and/or an ear infection. These could be signs of bone damage in the ear.
 
-## Reporting of side effects
-
 <div style=\"page-break-after: always\"></div>
+
+## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
@@ -1009,8 +1023,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Denbrayce contains
 
-- -The  active  substance  is  denosumab.  Each  vial  contains  120  mg  of  denosumab  in  1.7  mL  of solution (corresponding to 70 mg/mL).
-- -The other ingredients are acetic acid, glacial, sodium hydroxide, sorbitol (E420), polysorbate 20 (E432) and water for injections
+- The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 mL of solution (corresponding to 70 mg/mL).
+- The other ingredients are acetic acid, glacial, sodium hydroxide, sorbitol (E420), polysorbate 20 (E432) and water for injections
 
 ## What Denbrayce looks like and contents of the pack
 
@@ -1022,9 +1036,9 @@ Each pack contains one single use vial or three single use vials.
 
 Not all pack sizes may be marketed.
 
-Marketing Authorisation Holder C/ Manuel Pombo Angulo 28,
+## Marketing Authorisation Holder
 
-Mabxience Research SL 28050 Madrid Spain
+Mabxience Research SL C/ Manuel Pombo Angulo 28, 28050 Madrid Spain
 
 ## Manufacturer
 
@@ -1038,9 +1052,7 @@ Mabxience Research SL Tél/Tel: + 34 917 711 500
 
 ## България
 
-EGIS Bulgaria
-
-Te л .: + 359 2 987 60 40
+EGIS Bulgaria Teл.: + 359 2 987 60 40
 
 ## Česká republika
 
@@ -1060,7 +1072,7 @@ Mabxience Research SL Tel: + 34 917 711 500
 
 ## Ελλάδα
 
-ELPEN Pharmaceutical Co. Inc Τηλ : + 30 210 6039326-9
+ELPEN Pharmaceutical Co. Inc Τηλ: + 30 210 6039326-9
 
 ## España
 
@@ -1134,9 +1146,7 @@ Tel: + 40 21 412 00 17
 
 ## Slovenija
 
-CORAPHARM d.o.o.
-
-Tel: +385 1 4870688
+CORAPHARM d.o.o. Tel: +385 1 4870688
 
 ## Slovenská republika
 
@@ -1150,23 +1160,15 @@ Medical Valley Invest AB Puh/Tel: + 46 40 122131
 
 Medical Valley Invest AB
 
-Τηλ
-
-: + 34 917 711 500
-
 <div style=\"page-break-after: always\"></div>
 
-## Latvija
-
-Egis Latvia SIA
-
-Tel: + 371 676 13859
+Latvija Egis Latvia SIA Tel: + 371 676 13859
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -1180,5 +1182,3 @@ Detailed information on this medicine is available on the European Medicines Age
 - The vial should not be re-entered.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
-
-Tel: + 46 40 122131

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-15 13:04:14
+document_datetime: 2026-09-17 09:46:40
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/paxneury-epar-product-information_en.pdf
 document_name: paxneury-epar-product-information_en.pdf
 version: success
-processing_time: 10.2727465
-conversion_datetime: 2026-07-16 13:30:56.933736
+processing_time: 77.6830861
+conversion_datetime: 2026-09-23 07:09:54.26404
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,61 +24,35 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Paxneury 1 mg prolonged-release tablets
-
-Paxneury 2 mg prolonged-release tablets
-
-Paxneury 3 mg prolonged-release tablets
-
-Paxneury 4 mg prolonged-release tablets
-
-Paxneury 5 mg prolonged-release tablets
-
-Paxneury 6 mg prolonged-release tablets
-
-Paxneury 7 mg prolonged-release tablets
+Paxneury 1 mg prolonged-release tablets Paxneury 2 mg prolonged-release tablets Paxneury 3 mg prolonged-release tablets Paxneury 4 mg prolonged-release tablets Paxneury 5 mg prolonged-release tablets Paxneury 6 mg prolonged-release tablets Paxneury 7 mg prolonged-release tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Paxneury 1 mg prolonged-release tablet
-
-Each tablet contains guanfacine hydrochloride equivalent to 1 mg of guanfacine.
+Paxneury 1 mg prolonged-release tablet Each tablet contains guanfacine hydrochloride equivalent to 1 mg of guanfacine.
 
 Excipient(s) with known effect: Each tablet contains 41.32 mg of lactose (as monohydrate).
 
-## Paxneury 2 mg prolonged-release tablet
-
-Each tablet contains guanfacine hydrochloride equivalent to 2 mg of guanfacine.
+Paxneury 2 mg prolonged-release tablet Each tablet contains guanfacine hydrochloride equivalent to 2 mg of guanfacine.
 
 Excipient(s) with known effect: Each tablet contains 82.63 mg of lactose (as monohydrate).
 
-## Paxneury 3 mg prolonged-release tablet
-
-Each tablet contains guanfacine hydrochloride equivalent to 3 mg of guanfacine.
+Paxneury 3 mg prolonged-release tablet Each tablet contains guanfacine hydrochloride equivalent to 3 mg of guanfacine.
 
 Excipient(s) with known effect: Each tablet contains 17.56 mg of lactose (as monohydrate).
 
-## Paxneury 4 mg prolonged-release tablet
-
-Each tablet contains guanfacine hydrochloride equivalent to 4 mg of guanfacine.
+Paxneury 4 mg prolonged-release tablet Each tablet contains guanfacine hydrochloride equivalent to 4 mg of guanfacine.
 
 Excipient(s) with known effect: Each 4 mg tablet contains 23.41 mg of lactose (as monohydrate).
 
-## Paxneury 5 mg prolonged-release tablet
-
-Each tablet contains guanfacine hydrochloride equivalent to 5 mg of guanfacine.
+Paxneury 5 mg prolonged-release tablet Each tablet contains guanfacine hydrochloride equivalent to 5 mg of guanfacine.
 
 Excipient(s) with known effect: Each 5 mg tablet contains 29.26 mg of lactose (as monohydrate).
 
-## Paxneury 6 mg prolonged-release tablet
-
-Each tablet contains guanfacine hydrochloride equivalent to 6 mg of guanfacine.
+Paxneury 6 mg prolonged-release tablet Each tablet contains guanfacine hydrochloride equivalent to 6 mg of guanfacine.
 
 Excipient(s) with known effect: Each 6 mg tablet contains 35.11 mg of lactose (as monohydrate).
 
-## Paxneury 7 mg prolonged-release tablet
-
-Each tablet contains guanfacine hydrochloride equivalent to 7 mg of guanfacine.
+Paxneury 7 mg prolonged-release tablet Each tablet contains guanfacine hydrochloride equivalent to 7 mg of guanfacine.
 
 Excipient(s) with known effect: Each 7 mg tablet contains 40.96 mg of lactose (as monohydrate).
 
@@ -86,11 +60,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Prolonged-release tablets
+Prolonged-release tablets
 
-## Paxneury 1 mg prolonged-release tablet
-
-Guanfacine 1 mg prolonged-release tablets are white, 8 mm diameter round, biconvex tablets with the inscription '1' on one side.
+Paxneury 1 mg prolonged-release tablet Guanfacine 1 mg prolonged-release tablets are white, 8 mm diameter round, biconvex tablets with the inscription '1' on one side.
 
 Paxneury 2 mg prolonged-release tablet Guanfacine 2 mg prolonged-release tablets are white, 14 x 6 mm oblong, biconvex tablets with the inscription 'II' on one side.
 
@@ -120,7 +92,7 @@ Guanfacine 7 mg prolonged-release tablets are white, 12.5 x 6.5 mm oblong, bicon
 
 ## 4.1 Therapeutic indications
 
-Paxneury is indicated for the treatment of attention deficit hyperactivity disorder (ADHD) in children and adolescents 6-17 years old for whom stimulants are not suitable, not tolerated or have been shown  to be ineffective.
+Paxneury is indicated for the treatment of attention deficit hyperactivity disorder (ADHD) in children and adolescents 6-17 years old for whom stimulants are not suitable, not tolerated or have been shown to be ineffective.
 
 Paxneury must be used as a part of a comprehensive ADHD treatment programme, typically including psychological, educational and social measures.
 
@@ -130,11 +102,11 @@ Treatment must be initiated under the supervision of an appropriate specialist i
 
 ## Pre-treatment screening
 
-Prior to prescribing, it is necessary to conduct a baseline evaluation to identify patients at increased risk  of somnolence and sedation, hypotension and bradycardia, QT-prolongation arrhythmia and weight  increase/risk of obesity. This evaluation should address a patient's cardiovascular status including blood pressure and heart rate, documenting comprehensive history of concomitant medications, past and present co-morbid medical and psychiatric disorders or symptoms, family history of sudden cardiac/unexplained death and accurate recording of pre-treatment height and weight on a growth chart (see section 4.4).
+Prior to prescribing, it is necessary to conduct a baseline evaluation to identify patients at increased risk of somnolence and sedation, hypotension and bradycardia, QT-prolongation arrhythmia and weight increase/risk of obesity. This evaluation should address a patient's cardiovascular status including blood pressure and heart rate, documenting comprehensive history of concomitant medications, past and present co-morbid medical and psychiatric disorders or symptoms, family history of sudden cardiac/unexplained death and accurate recording of pre-treatment height and weight on a growth chart (see section 4.4).
 
 ## Posology
 
-Careful dose titration and monitoring is necessary at the start of treatment since clinical improvement and risks for several clinically significant adverse reactions (syncope, hypotension, bradycardia, somnolence and sedation) are dose- and exposure-related. Patients should be advised that somnolence  and sedation can occur, particularly early in treatment or with dose increases. If somnolence and sedation are judged to be clinically concerning or persistent, a dose decrease or discontinuation should  be considered.
+Careful dose titration and monitoring is necessary at the start of treatment since clinical improvement and risks for several clinically significant adverse reactions (syncope, hypotension, bradycardia, somnolence and sedation) are dose- and exposure-related. Patients should be advised that somnolence and sedation can occur, particularly early in treatment or with dose increases. If somnolence and sedation are judged to be clinically concerning or persistent, a dose decrease or discontinuation should be considered.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -142,7 +114,7 @@ For all patients, the recommended starting dose is 1 mg of guanfacine, taken ora
 
 The dose may be adjusted in increments of not more than 1 mg per week. Dose should be individualised according to the patient's response and tolerability.
 
-Depending on the patient's response and tolerability for Paxneury the recommended maintenance dose range is 0.05-0.12 mg/kg/day. The recommended dose titration for children and adolescents is provided below (see tables 1 and 2). Dose adjustments (increase or decrease) to a maximum tolerated dose within the recommended optimal weight-adjusted dose range based upon clinical judgement of  response and tolerability may occur at any weekly interval after the initial dose.
+Depending on the patient's response and tolerability for Paxneury the recommended maintenance dose range is 0.05-0.12 mg/kg/day. The recommended dose titration for children and adolescents is provided below (see tables 1 and 2). Dose adjustments (increase or decrease) to a maximum tolerated dose within the recommended optimal weight-adjusted dose range based upon clinical judgement of response and tolerability may occur at any weekly interval after the initial dose.
 
 ## Monitoring during titration
 
@@ -156,51 +128,49 @@ During the first year of treatment, the patient should be assessed at least ever
 - o somnolence and sedation
 - o hypotension
 - o bradycardia
-- weight increase/risk of obesity should follow thereafter, with more frequent monitoring following any dose adjustments (see
+- weight increase/risk of obesity
 
-It is recommended clinical judgement be exercised during this period. 6 monthly monitoring section 4.4).
+It is recommended clinical judgement be exercised during this period. 6 monthly monitoring should follow thereafter, with more frequent monitoring following any dose adjustments (see section 4.4).
 
-## Table 1
+Table 1
 
-| Dose titration schedule for children aged 6-12 years   | Dose titration schedule for children aged 6-12 years   | Dose titration schedule for children aged 6-12 years   | Dose titration schedule for children aged 6-12 years   | Dose titration schedule for children aged 6-12 years   |
-|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-| Weight Group                                           | Week 1                                                 | Week 2                                                 | Week 3                                                 | Week 4                                                 |
-| 25 kg and up                                           | 1 mg                                                   | 2 mg                                                   | 3 mg                                                   | 4 mg                                                   |
-| Max Dose = 4 mg                                        |                                                        |                                                        |                                                        |                                                        |
+| Dose titration schedule for children aged 6-12 years - Weight Group   | Dose titration schedule for children aged 6-12 years - Week 1   | Dose titration schedule for children aged 6-12 years - Week 2   | Dose titration schedule for children aged 6-12 years - Week 3   | Dose titration schedule for children aged 6-12 years - Week 4   |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
+| 25 kg and up                                                          | 1 mg                                                            | 2 mg                                                            | 3 mg                                                            | 4 mg                                                            |
+| Max Dose = 4 mg                                                       |                                                                 |                                                                 |                                                                 |                                                                 |
 
 ## Table 2
 
-| Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   |
-|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-| Weight Group a                                               | Week 1                                                       | Week 2                                                       | Week 3                                                       | Week 4                                                       | Week 5                                                       | Week 6                                                       | Week 7                                                       |
-| 34-41.4 kg Max Dose = 4 mg                                   | 1 mg                                                         | 2 mg                                                         | 3 mg                                                         | 4 mg                                                         |                                                              |                                                              |                                                              |
-| 41.5-49.4 kg Max Dose = 5 mg                                 | 1 mg                                                         | 2 mg                                                         | 3 mg                                                         | 4 mg                                                         | 5 mg                                                         |                                                              |                                                              |
-| 49.5-58.4 kg Max Dose = 6 mg                                 | 1 mg                                                         | 2 mg                                                         | 3 mg                                                         | 4 mg                                                         | 5 mg                                                         | 6 mg                                                         |                                                              |
-| 58.5 kg and above Max Dose = 7 mg                            | 1 mg                                                         | 2 mg                                                         | 3 mg                                                         | 4 mg                                                         | 5 mg                                                         | 6 mg                                                         | 7 mg b                                                       |
+| Dose titration schedule for adolescents (aged 13-17 years) - Weight Group a   | Dose titration schedule for adolescents (aged 13-17 years) - Week 1   | Dose titration schedule for adolescents (aged 13-17 years) - Week 2   | Dose titration schedule for adolescents (aged 13-17 years) - Week 3   | Dose titration schedule for adolescents (aged 13-17 years) - Week 4   | Dose titration schedule for adolescents (aged 13-17 years) - Week 5   | Dose titration schedule for adolescents (aged 13-17 years) - Week 6   | Dose titration schedule for adolescents (aged 13-17 years) - Week 7   |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| 34-41.4 kg Max Dose = 4 mg                                                    | 1 mg                                                                  | 2 mg                                                                  | 3 mg                                                                  | 4 mg                                                                  |                                                                       |                                                                       |                                                                       |
+| 41.5-49.4 kg Max Dose = 5 mg                                                  | 1 mg                                                                  | 2 mg                                                                  | 3 mg                                                                  | 4 mg                                                                  | 5 mg                                                                  |                                                                       |                                                                       |
+| 49.5-58.4 kg Max Dose = 6 mg                                                  | 1 mg                                                                  | 2 mg                                                                  | 3 mg                                                                  | 4 mg                                                                  | 5 mg                                                                  | 6 mg                                                                  |                                                                       |
+| 58.5 kg and above Max Dose = 7 mg                                             | 1 mg                                                                  | 2 mg                                                                  | 3 mg                                                                  | 4 mg                                                                  | 5 mg                                                                  | 6 mg                                                                  | 7 mg b                                                                |
 
-The physician who elects to use guanfacine for extended periods (over 12 months) should reevaluate  the usefulness of guanfacine every 3 months for the first year and then at least yearly based on clinical  judgement (see section 4.4), and consider trial periods off medication to assess the patient's functioning without pharmacotherapy, preferably during times of school holidays.
+The physician who elects to use guanfacine for extended periods (over 12 months) should reevaluate the usefulness of guanfacine every 3 months for the first year and then at least yearly based on clinical judgement (see section 4.4), and consider trial periods off medication to assess the patient's functioning without pharmacotherapy, preferably during times of school holidays.
 
 <div style=\"page-break-after: always\"></div>
 
 Patients/caregivers should be instructed not to discontinue guanfacine without consulting their physician.
 
-When stopping treatment, the dose must be tapered with decrements of no more than 1 mg every 3 to  7 days, and blood pressure and pulse should be monitored in order to minimise potential withdrawal  effects, in particular increases in blood pressure and heart rate (see section 4.4).
+When stopping treatment, the dose must be tapered with decrements of no more than 1 mg every 3 to 7 days, and blood pressure and pulse should be monitored in order to minimise potential withdrawal effects, in particular increases in blood pressure and heart rate (see section 4.4).
 
-In  a  maintenance  of  efficacy  study,  upon  switching  from  guanfacine  to  placebo,  7/158  (4.4 %) subjects experienced  increases  in  blood  pressure  to  values  above  5 mmHg  and  also  above  the 95 th percentile for  age, sex and stature (see sections 4.8 and 5.1).
+In a maintenance of efficacy study, upon switching from guanfacine to placebo, 7/158 (4.4 %) subjects experienced increases in blood pressure to values above 5 mmHg and also above the 95 th percentile for age, sex and stature (see sections 4.8 and 5.1).
 
 ## Missed dose
 
-If a dose is missed, the prescribed dose can resume the next day. If two or more consecutive doses are  missed, re-titration is recommended based on the patient's tolerability to guanfacine.
+If a dose is missed, the prescribed dose can resume the next day. If two or more consecutive doses are missed, re-titration is recommended based on the patient's tolerability to guanfacine.
 
 ## Switching from other formulations of guanfacine
 
-Immediate-release guanfacine tablets should not be substituted on a mg/mg basis, because of differing  pharmacokinetic profiles.
+Immediate-release guanfacine tablets should not be substituted on a mg/mg basis, because of differing pharmacokinetic profiles.
 
 ## Special populations
 
 ## Adults and elderly
 
-The safety and efficacy of guanfacine in adult and the elderly with ADHD has not been established.  Therefore, guanfacine should not be used in this group.
+The safety and efficacy of guanfacine in adult and the elderly with ADHD has not been established. Therefore, guanfacine should not be used in this group.
 
 ## Hepatic impairment
 
@@ -210,17 +180,17 @@ The impact of hepatic impairment on the pharmacokinetics of guanfacine in paedia
 
 ## Renal impairment
 
-Dose reduction may be required in patients with severe renal impairment (GFR 29-15 ml/min) and an  end stage renal disease (GFR&lt;15 ml/min) or requiring dialysis. The impact of renal impairment on the  pharmacokinetics of guanfacine in paediatric patients (children and adolescents 6-17 years old) was  not assessed (see section 5.2).
+Dose reduction may be required in patients with severe renal impairment (GFR 29-15 ml/min) and an end stage renal disease (GFR&lt;15 ml/min) or requiring dialysis. The impact of renal impairment on the pharmacokinetics of guanfacine in paediatric patients (children and adolescents 6-17 years old) was not assessed (see section 5.2).
 
 ## Children under 6 years
 
-The safety and efficacy of guanfacine in children aged less than 6 years have not yet been established.  No data are available.
+The safety and efficacy of guanfacine in children aged less than 6 years have not yet been established. No data are available.
 
 ## Patients treated with CYP3A4 and CYP3A5 inhibitors/inducers
 
 CYP3A4/5 inhibitors have been shown to have a significant effect on the pharmacokinetics of guanfacine when co-administered. Dose adjustment is recommended with concomitant use of moderate/strong CYP3A4/5 inhibitors (e.g., ketoconazole, grapefruit juice), or strong CYP3A4 inducers (e.g., carbamazepine) (see section 4.5).
 
-In case of concomitant use of strong and moderate CYP3A inhibitors, a 50 % reduction of the guanfacine dose is recommended. Due to variability in interaction effect, further dose titration may be  needed (see above).
+In case of concomitant use of strong and moderate CYP3A inhibitors, a 50 % reduction of the guanfacine dose is recommended. Due to variability in interaction effect, further dose titration may be needed (see above).
 
 If guanfacine is combined with strong enzyme inducers, a retitration to increase the dose up to a maximum daily dose of 7 mg may be considered if needed. If the inducing treatment is ended, retitration to reduce the guanfacine dose is recommended during the following weeks (see section 4.5).
 
@@ -230,7 +200,7 @@ If guanfacine is combined with strong enzyme inducers, a retitration to increase
 
 Oral use.
 
-Guanfacine is taken once daily either morning or evening. Tablets should not be crushed, chewed or  broken before swallowing because this increases the rate of guanfacine release.
+Guanfacine is taken once daily either morning or evening. Tablets should not be crushed, chewed or broken before swallowing because this increases the rate of guanfacine release.
 
 Treatment is recommended only for children who are able to swallow the tablet whole without problems.
 
@@ -248,7 +218,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Guanfacine can cause syncope, hypotension and bradycardia. Syncope may involve risks of falls or accidents, which could result in serious harm (see sections 4.8 and 4.7).
 
-Prior  to  initiation  of  treatment,  patient's  cardiovascular  status  including  heart  rate  and  blood pressure  parameters, family history of sudden cardiac death/unexplained death, should be assessed to  identify  patients  at  increased  risk  of  hypotension,  bradycardia,  and  QT-prolongation/risk  of arrhythmia.
+Prior to initiation of treatment, patient's cardiovascular status including heart rate and blood pressure parameters, family history of sudden cardiac death/unexplained death, should be assessed to identify patients at increased risk of hypotension, bradycardia, and QT-prolongation/risk of arrhythmia.
 
 Monitoring of heart rate and blood pressure parameters should continue on a weekly basis during dose titration and stabilisation and at least every 3 months for the first year, taking into consideration clinical judgement. 6 monthly monitoring should follow thereafter, with more frequent monitoring following any dose adjustment.
 
@@ -256,7 +226,7 @@ Caution is advised when treating patients with guanfacine who have a history of 
 
 ## Blood pressure and heart rate increase upon discontinuation
 
-Blood pressure and pulse may increase following discontinuation of guanfacine. In post-marketing experience, hypertensive encephalopathy has been very rarely reported upon abrupt discontinuation of treatment (see section 4.8). To minimise the risk of an increase in blood pressure upon discontinuation,  the total daily dose should be tapered in decrements of no more than 1 mg every 3 to 7 days (see  section 4.2). Blood pressure and pulse should be monitored when reducing the dose or discontinuing treatment.
+Blood pressure and pulse may increase following discontinuation of guanfacine. In post-marketing experience, hypertensive encephalopathy has been very rarely reported upon abrupt discontinuation of treatment (see section 4.8). To minimise the risk of an increase in blood pressure upon discontinuation, the total daily dose should be tapered in decrements of no more than 1 mg every 3 to 7 days (see section 4.2). Blood pressure and pulse should be monitored when reducing the dose or discontinuing treatment.
 
 ## QTc interval
 
@@ -264,23 +234,23 @@ In phase II-III randomised double-blind monotherapy studies respective increases
 
 <div style=\"page-break-after: always\"></div>
 
-Guanfacine should be prescribed with caution in patients with a known history of QT prolongation, risk factors for torsade de pointes (e.g., heart block, bradycardia, hypokalaemia) or patients who are  taking medicinal products known to prolong the QT interval (see section 4.5). These patients should receive further cardiac evaluation based on clinical judgement (see section 4.8).
+Guanfacine should be prescribed with caution in patients with a known history of QT prolongation, risk factors for torsade de pointes (e.g., heart block, bradycardia, hypokalaemia) or patients who are taking medicinal products known to prolong the QT interval (see section 4.5). These patients should receive further cardiac evaluation based on clinical judgement (see section 4.8).
 
 ## Sedation and somnolence
 
-Guanfacine may cause somnolence and sedation predominantly at the start of treatment and could typically last for 2-3 weeks and longer in some cases. It is therefore recommended that patients will be closely monitored weekly during dose titration and stabilisation (see section 4.2), and every 3 months  during the first year, taking into consideration clinical judgement. Before guanfacine is used with any other centrally active depressants (such as alcohol, sedatives, phenothiazines, barbiturates, or benzodiazepines) the potential for additive sedative effects should be considered (see section 4.5).
+Guanfacine may cause somnolence and sedation predominantly at the start of treatment and could typically last for 2-3 weeks and longer in some cases. It is therefore recommended that patients will be closely monitored weekly during dose titration and stabilisation (see section 4.2), and every 3 months during the first year, taking into consideration clinical judgement. Before guanfacine is used with any other centrally active depressants (such as alcohol, sedatives, phenothiazines, barbiturates, or benzodiazepines) the potential for additive sedative effects should be considered (see section 4.5).
 
 Patients should not drink alcohol whilst taking guanfacine.
 
-Patients are advised against operating heavy equipment, driving or cycling until they know how they  respond to treatment with guanfacine (see section 4.7).
+Patients are advised against operating heavy equipment, driving or cycling until they know how they respond to treatment with guanfacine (see section 4.7).
 
 ## Suicidal ideation
 
-There  have  been  post-marketing  reports  of  suicide-related  events  (including  suicidal  ideation, attempts and  completed  suicide)  in  patients  treated  with  guanfacine.  In  most  cases,  patients had  underlying psychiatric disorders. Therefore, it is recommended that caregivers and physicians monitor  patients  for  signs  of  suicide-related  events,  including   at   dose   initiation/optimisation and  drug  discontinuation.  Patients and caregivers should be encouraged to report any distressing thoughts or feelings at any time to their healthcare professional.
+There have been post-marketing reports of suicide-related events (including suicidal ideation, attempts and completed suicide) in patients treated with guanfacine. In most cases, patients had underlying psychiatric disorders. Therefore, it is recommended that caregivers and physicians monitor patients for signs of suicide-related events, including at dose initiation/optimisation and drug discontinuation. Patients and caregivers should be encouraged to report any distressing thoughts or feelings at any time to their healthcare professional.
 
 ## Aggression
 
-Aggressive  behaviour  or  hostility  has  been  reported  in  clinical  trials  and  in  the  post-marketing experience of guanfacine. Patients treated with guanfacine should be monitored for the appearance of aggressive behaviour or hostility.
+Aggressive behaviour or hostility has been reported in clinical trials and in the post-marketing experience of guanfacine. Patients treated with guanfacine should be monitored for the appearance of aggressive behaviour or hostility.
 
 ## Effects on height, weight and Body Mass index (BMI)
 
@@ -294,11 +264,11 @@ This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to sa
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-When guanfacine is used concomitantly with CYP3A4/5 inhibitors or inducers, plasma concentrations of guanfacine may be elevated or lowered, potentially affecting the efficacy and safety of guanfacine.  Guanfacine can increase plasma concentrations of concomitantly administered medicinal products that  are metabolised via CYP3A4/5 (see sections 4.2, 4.4 and 5.2).
+When guanfacine is used concomitantly with CYP3A4/5 inhibitors or inducers, plasma concentrations of guanfacine may be elevated or lowered, potentially affecting the efficacy and safety of guanfacine. Guanfacine can increase plasma concentrations of concomitantly administered medicinal products that are metabolised via CYP3A4/5 (see sections 4.2, 4.4 and 5.2).
 
 <div style=\"page-break-after: always\"></div>
 
-Guanfacine is an in vitro inhibitor of MATE1 and the clinical relevance of MATE1 inhibition cannot  be excluded. Concomitant administration of guanfacine with MATE1 substrates may result in increases in the plasma concentrations of these medicinal products. Furthermore, based on in vitro studies, guanfacine may be an inhibitor of OCT1 at maximal portal vein concentrations. Concomitant  administration of guanfacine with OCT1 substrates with a similar Tmax (e.g., metformin) may result in increases in Cmax of these medicinal products.
+Guanfacine is an in vitro inhibitor of MATE1 and the clinical relevance of MATE1 inhibition cannot be excluded. Concomitant administration of guanfacine with MATE1 substrates may result in increases in the plasma concentrations of these medicinal products. Furthermore, based on in vitro studies, guanfacine may be an inhibitor of OCT1 at maximal portal vein concentrations. Concomitant administration of guanfacine with OCT1 substrates with a similar Tmax (e.g., metformin) may result in increases in Cmax of these medicinal products.
 
 The pharmacodynamic effect of guanfacine can have an additive effect when taken with other products known to cause sedation, hypotension or QT prolongation (see section 4.4).
 
@@ -310,11 +280,11 @@ Guanfacine causes a decrease in heart rate. Given the effect of guanfacine on he
 
 ## CYP3A4 and CYP3A5 inhibitors
 
-Caution should be used when guanfacine is administered to patients taking ketoconazole and other  moderate and strong CYP3A4/5 inhibitors, a decrease in the dose of guanfacine within the recommended dose range is proposed (see section 4.2). Co-administration of guanfacine with moderate and strong CYP3A4/5 inhibitors elevates plasma guanfacine concentrations and increases the risk of adverse reactions such as hypotension, bradycardia, and sedation. There was a substantial increase in the rate and extent of guanfacine exposure when administered with ketoconazole; the  guanfacine peak plasma concentrations (Cmax) and exposure (AUC) increased 2- and 3-fold,  respectively. Other CYP3A4/5 inhibitors may have a comparable effect, see table 3 for a list of  examples of moderate and strong CYP3A4/5 inhibitors, this list is not definitive.
+Caution should be used when guanfacine is administered to patients taking ketoconazole and other moderate and strong CYP3A4/5 inhibitors, a decrease in the dose of guanfacine within the recommended dose range is proposed (see section 4.2). Co-administration of guanfacine with moderate and strong CYP3A4/5 inhibitors elevates plasma guanfacine concentrations and increases the risk of adverse reactions such as hypotension, bradycardia, and sedation. There was a substantial increase in the rate and extent of guanfacine exposure when administered with ketoconazole; the guanfacine peak plasma concentrations (Cmax) and exposure (AUC) increased 2- and 3-fold, respectively. Other CYP3A4/5 inhibitors may have a comparable effect, see table 3 for a list of examples of moderate and strong CYP3A4/5 inhibitors, this list is not definitive.
 
 ## CYP3A4 inducers
 
-When patients are taking guanfacine concomitantly with a CYP3A4 inducer, an increase in the dose of guanfacine within the recommended dose range is proposed (see section 4.2). There was a significant  decrease in the rate and extent of guanfacine exposure when co-administered with rifampicin, a  CYP3A4 inducer. The peak plasma concentrations (Cmax) and exposure (AUC) of guanfacine decreased by 54 % and 70 % respectively. Other CYP3A4 inducers may have a comparable effect, see  table 3 for a list of examples of CYP3A4/5 inducers, this list is not definitive.
+When patients are taking guanfacine concomitantly with a CYP3A4 inducer, an increase in the dose of guanfacine within the recommended dose range is proposed (see section 4.2). There was a significant decrease in the rate and extent of guanfacine exposure when co-administered with rifampicin, a CYP3A4 inducer. The peak plasma concentrations (Cmax) and exposure (AUC) of guanfacine decreased by 54 % and 70 % respectively. Other CYP3A4 inducers may have a comparable effect, see table 3 for a list of examples of CYP3A4/5 inducers, this list is not definitive.
 
 Table 3
 
@@ -340,7 +310,7 @@ Table 3
 
 ## Valproic acid
 
-Co-administration of guanfacine and valproic acid can result in increased concentrations of valproic acid. The mechanism of this interaction is unknown, although both guanfacine and valproic acid are  metabolised by glucuronidation, possibly resulting in competitive inhibition. When guanfacine is co-administered with valproic acid, patients should be monitored for potential additive central nervous  system  (CNS)  effects  and  consideration  should  be  given  to  the  monitoring  of  serum valproic  acid concentrations.  Adjustments  in  the  dose  of  valproic  acid  and  guanfacine  may  be indicated when co- administered.
+Co-administration of guanfacine and valproic acid can result in increased concentrations of valproic acid. The mechanism of this interaction is unknown, although both guanfacine and valproic acid are metabolised by glucuronidation, possibly resulting in competitive inhibition. When guanfacine is co-administered with valproic acid, patients should be monitored for potential additive central nervous system (CNS) effects and consideration should be given to the monitoring of serum valproic acid concentrations. Adjustments in the dose of valproic acid and guanfacine may be indicated when co- administered.
 
 ## Antihypertensive medicinal products
 
@@ -352,21 +322,21 @@ Caution should be used when guanfacine is administered concomitantly with CNS de
 
 ## Oral methylphenidate
 
-In an interaction study, neither guanfacine nor Osmotic Release Oral System (OROS)methylphenidate HCl extended-release were found to affect the pharmacokinetics of the other medicinal products when taken in combination.
+In an interaction study, neither guanfacine nor Osmotic Release Oral System (OROS)- methylphenidate HCl extended-release were found to affect the pharmacokinetics of the other medicinal products when taken in combination.
 
 ## Lisdexamfetamine dimesylate
 
-In a drug interaction study, administration of guanfacine in combination with lisdexamfetamine dimesylate induced a 19 % increase in guanfacine maximum plasma concentrations, whereas exposure (AUC) was increased by 7 %. These small changes are not expected to be clinically meaningful. In this  study, no effect on d-amphetamine exposure was observed following combination of guanfacine and  lisdexamfetamine dimesylate.
+In a drug interaction study, administration of guanfacine in combination with lisdexamfetamine dimesylate induced a 19 % increase in guanfacine maximum plasma concentrations, whereas exposure (AUC) was increased by 7 %. These small changes are not expected to be clinically meaningful. In this study, no effect on d-amphetamine exposure was observed following combination of guanfacine and lisdexamfetamine dimesylate.
 
 ## Food interactions
 
-Guanfacine should not be administered with high fat meals due to increased exposure, as it has been  shown that high fat meals have a significant effect on the absorption of guanfacine (see section 4.2).
+Guanfacine should not be administered with high fat meals due to increased exposure, as it has been shown that high fat meals have a significant effect on the absorption of guanfacine (see section 4.2).
 
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
 
-There are no or limited amount of data from the use of guanfacine in pregnant women.  Studies in animals have shown reproductive toxicity (see section 5.3).
+There are no or limited amount of data from the use of guanfacine in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
 Guanfacine is not recommended during pregnancy and in women of childbearing potential not using contraception.
 
@@ -374,7 +344,7 @@ Guanfacine is not recommended during pregnancy and in women of childbearing pote
 
 ## Breast-feeding
 
-It is unknown whether guanfacine and its metabolites are excreted in human milk. Available pharmacodynamic and toxicological data in animals have shown excretion of guanfacine  and its metabolites in milk (see section 5.3). Therefore, a risk on the breast-fed infant cannot be excluded.
+It is unknown whether guanfacine and its metabolites are excreted in human milk. Available pharmacodynamic and toxicological data in animals have shown excretion of guanfacine and its metabolites in milk (see section 5.3). Therefore, a risk on the breast-fed infant cannot be excluded.
 
 A decision must be made whether to discontinue breast-feeding or to discontinue and/or abstain from guanfacine therapy taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman.
 
@@ -392,7 +362,7 @@ Guanfacine may have a moderate to severe influence on the ability to drive and u
 
 ## Summary of the safety profile
 
-The most frequently reported adverse reactions include somnolence (40.6 %), headache (27.4 %), fatigue (18.1 %), abdominal pain upper (12.0 %), and sedation (10.2 %). The most serious adverse  reactions commonly reported include hypotension (3.2 %), weight increase (2.9 %), bradycardia (1.5 %) and syncope (0.7 %). The adverse reactions somnolence and sedation occurred predominantly at the start of treatment and may typically last for 2-3 weeks and longer in some cases.
+The most frequently reported adverse reactions include somnolence (40.6 %), headache (27.4 %), fatigue (18.1 %), abdominal pain upper (12.0 %), and sedation (10.2 %). The most serious adverse reactions commonly reported include hypotension (3.2 %), weight increase (2.9 %), bradycardia (1.5 %) and syncope (0.7 %). The adverse reactions somnolence and sedation occurred predominantly at the start of treatment and may typically last for 2-3 weeks and longer in some cases.
 
 ## Tabulated list of adverse reactions
 
@@ -410,42 +380,60 @@ Table 4. Adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      | Nightmare Agitation Aggression Hallucination                                                                             | Common Uncommon Uncommon Uncommon                              |
-|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| Nervous system disorders                             | Somnolence Headache Sedation Dizziness Lethargy Convulsion                                                               | Very common Very common Common Common Common Uncommon          |
-| Cardiac disorders                                    | Bradycardia Atrioventricular block first degree Tachycardia                                                              | Common Uncommon Uncommon                                       |
-| Vascular disorders                                   | Sinus arrhythmia Hypotension Orthostatic hypotension Pallor Hypertension Hypertensive encephalopathy                     | Uncommon Common Common Uncommon Rare Very rare                 |
-| Respiratory, thoracic, and mediastinal disorders     | Asthma                                                                                                                   | Uncommon                                                       |
-| Gastrointestinal disorders                           | Abdominal pain Vomiting Diarrhoea Nausea Constipation Abdominal/stomach discomfort Dry mouth Dyspepsia                   | Very common Common Common Common Common Common Common Uncommon |
-| Skin and subcutaneous tissue disorders               | Rash Pruritus                                                                                                            | Common Uncommon                                                |
-| Renal and urinary disorders                          | Enuresis                                                                                                                 | Common                                                         |
-| Reproductive system and breast disorders             | Pollakiuria                                                                                                              | Uncommon                                                       |
-| General disorders and administration site conditions | Erectile dysfunction Fatigue Irritability Asthenia Chest pain                                                            | Not known Very common Common Uncommon Uncommon                 |
-| Investigations                                       | Malaise Blood pressure decreased Weight increased Blood pressure increased Heart rate decreased Alanine aminotransferase | Rare Common Common Uncommon Uncommon Uncommon                  |
+|                                                                             | Nightmare Agitation Aggression                                                                                                                                                | Common Uncommon Uncommon                                               |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Nervous system disorders                                                    | Hallucination Somnolence Headache Sedation Dizziness Lethargy Convulsion                                                                                                      | Uncommon Very common Very common Common Common Common Uncommon         |
+| Cardiac disorders                                                           | Syncope/loss of consciousness Postural dizziness Hypersomnia Bradycardia Atrioventricular block first degree Tachycardia Sinus arrhythmia Hypotension Orthostatic hypotension | Uncommon Uncommon Rare Common Uncommon Uncommon Uncommon Common Common |
+| Respiratory, thoracic, and mediastinal disorders Gastrointestinal disorders | Pallor Hypertension Hypertensive encephalopathy Asthma                                                                                                                        | Uncommon Rare Very rare Uncommon                                       |
+|                                                                             | Abdominal pain Vomiting                                                                                                                                                       | Very common Common Common Common                                       |
+| Skin and subcutaneous tissue Renal and urinary disorders                    | Diarrhoea Nausea Constipation discomfort Dry mouth Dyspepsia Rash                                                                                                             | Common Common Common                                                   |
+|                                                                             | Pruritus                                                                                                                                                                      |                                                                        |
+|                                                                             |                                                                                                                                                                               | Common                                                                 |
+|                                                                             | Enuresis Pollakiuria                                                                                                                                                          |                                                                        |
+| Reproductive system and breast                                              | Erectile                                                                                                                                                                      | Not known                                                              |
+| General disorders and administration site conditions                        | Fatigue                                                                                                                                                                       | Very                                                                   |
+|                                                                             | Asthenia Chest pain                                                                                                                                                           | Uncommon Uncommon                                                      |
+|                                                                             | Malaise                                                                                                                                                                       | Rare                                                                   |
+| Investigations                                                              | Blood pressure                                                                                                                                                                | Common                                                                 |
+|                                                                             | decreased Weight increased                                                                                                                                                    | Common                                                                 |
+|                                                                             | Blood pressure increased Heart rate decreased                                                                                                                                 | Common Uncommon                                                        |
+| Vascular disorders                                                          |                                                                                                                                                                               |                                                                        |
+|                                                                             | Alanine                                                                                                                                                                       |                                                                        |
+|                                                                             | increased                                                                                                                                                                     |                                                                        |
+|                                                                             |                                                                                                                                                                               | Uncommon                                                               |
+|                                                                             | Abdominal/stomach                                                                                                                                                             |                                                                        |
+| disorders                                                                   |                                                                                                                                                                               |                                                                        |
+|                                                                             |                                                                                                                                                                               | Uncommon                                                               |
+|                                                                             |                                                                                                                                                                               | Common                                                                 |
+|                                                                             |                                                                                                                                                                               | Uncommon                                                               |
+| disorders                                                                   | dysfunction                                                                                                                                                                   |                                                                        |
+|                                                                             | Irritability                                                                                                                                                                  | common                                                                 |
+|                                                                             | aminotransferase                                                                                                                                                              | Uncommon                                                               |
+|                                                                             |                                                                                                                                                                               | Uncommon                                                               |
 
 ## Description of selected adverse reactions
 
 ## Somnolence/sedation, hypotension, bradycardia and syncope
 
-In the overall pool of guanfacine-treated patients, somnolence occurred in 40.6 % and sedation in 10.2 % of guanfacine-treated patients. Bradycardia occurred in 1.5 %, hypotension in 3.2 % and syncope  occurred in 0.7 % of all guanfacine-treated patients. The occurrence of somnolence/sedation and  hypotension was most prominent in the first few weeks of treatment and diminished gradually thereafter.
+In the overall pool of guanfacine-treated patients, somnolence occurred in 40.6 % and sedation in 10.2 % of guanfacine-treated patients. Bradycardia occurred in 1.5 %, hypotension in 3.2 % and syncope occurred in 0.7 % of all guanfacine-treated patients. The occurrence of somnolence/sedation and hypotension was most prominent in the first few weeks of treatment and diminished gradually thereafter.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Effects on height, weight and body Mass index (BMI)
 
-Careful follow-up for weight suggests that children and adolescents who took guanfacine in the study  (i.e., treatment for 7 days per week throughout the year) have demonstrated by an age- and sex-normalised mean change from baseline in BMI percentile, 4.3 over 1 year (average percentiles at  baseline and 12 months were 68.3 and 73.1, respectively). Consequently, as part of routine monitoring height, weight and BMI should be monitored at the start of treatment and every 3 months during the  first year, then 6 monthly taking into consideration clinical judgement with maintenance of a growth chart.
+Careful follow-up for weight suggests that children and adolescents who took guanfacine in the study (i.e., treatment for 7 days per week throughout the year) have demonstrated by an age- and sex-normalised mean change from baseline in BMI percentile, 4.3 over 1 year (average percentiles at baseline and 12 months were 68.3 and 73.1, respectively). Consequently, as part of routine monitoring height, weight and BMI should be monitored at the start of treatment and every 3 months during the first year, then 6 monthly taking into consideration clinical judgement with maintenance of a growth chart.
 
 ## Thorough QT /QTc study
 
-The effect of 2 dose levels of immediate-release guanfacine (4 mg and 8 mg) on QT interval was evaluated in a double-blind, randomised, placebo- and active-controlled, cross-over study in healthy   adults. An apparent increase in mean QTc was observed for both doses. This finding has no known clinical relevance.
+The effect of 2 dose levels of immediate-release guanfacine (4 mg and 8 mg) on QT interval was evaluated in a double-blind, randomised, placebo- and active-controlled, cross-over study in healthy adults. An apparent increase in mean QTc was observed for both doses. This finding has no known clinical relevance.
 
-In phase II-III randomised double-blind monotherapy studies respective increases in QTc interval prolongation that exceeded change from baseline greater than 60 ms Fridericia-correction and Bazett-correction were 0 (0.0 %) and 2 (0.3 %) among placebo and 1 (0.1 %) and 1 (0.1 %) among  guanfacine patients. The clinical relevance of this finding is uncertain.
+In phase II-III randomised double-blind monotherapy studies respective increases in QTc interval prolongation that exceeded change from baseline greater than 60 ms Fridericia-correction and Bazett-correction were 0 (0.0 %) and 2 (0.3 %) among placebo and 1 (0.1 %) and 1 (0.1 %) among guanfacine patients. The clinical relevance of this finding is uncertain.
 
 ## Blood pressure and heart rate increase upon discontinuation of guanfacine
 
 Blood pressure and pulse may increase following discontinuation of guanfacine. In postmarketing experience, hypertensive encephalopathy has been very rarely reported upon abrupt discontinuation of guanfacine (see section 4.4).
 
-In a maintenance of efficacy study in children and adolescents, increases in mean systolic and diastolic  blood pressure of approximately 3 mmHg and 1 mmHg, respectively, above original baseline were observed upon discontinuation of guanfacine. However, individuals may have larger increases than reflected by the mean changes. The increases in blood pressure were observed in some individuals at  the end of the follow up period which ranged between 3 and 26 weeks post final dose (see sections 4.2  and 5.1).
+In a maintenance of efficacy study in children and adolescents, increases in mean systolic and diastolic blood pressure of approximately 3 mmHg and 1 mmHg, respectively, above original baseline were observed upon discontinuation of guanfacine. However, individuals may have larger increases than reflected by the mean changes. The increases in blood pressure were observed in some individuals at the end of the follow up period which ranged between 3 and 26 weeks post final dose (see sections 4.2 and 5.1).
 
 ## Adult patients
 
@@ -459,13 +447,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Signs and symptoms of overdose may include hypotension, initial hypertension, bradycardia, lethargy, and respiratory depression. Haemodynamic instability has also been associated with a guanfacine overdose 3 times the recommended daily dose. Management of guanfacine overdose should include monitoring for and treatment of these signs and symptoms.
 
-Paediatric patients (children and adolescents 6-17 years old inclusive) who develop lethargy should be observed for the development of more serious toxicity including coma, bradycardia, and hypotension  for up to 24 hours, due to the possibility of delayed onset of these symptoms.
+Paediatric patients (children and adolescents 6-17 years old inclusive) who develop lethargy should be observed for the development of more serious toxicity including coma, bradycardia, and hypotension for up to 24 hours, due to the possibility of delayed onset of these symptoms.
 
 Treatment of overdose may include gastric lavage if it is performed soon after ingestion.
 
 <div style=\"page-break-after: always\"></div>
 
-Activated charcoal may be useful in limiting the absorption. Guanfacine is not dialysable in clinically significant  amounts (2.4 %).
+Activated charcoal may be useful in limiting the absorption. Guanfacine is not dialysable in clinically significant amounts (2.4 %).
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -475,7 +463,7 @@ Pharmacotherapeutic group: Antihypertensives, antiadrenergic agents, centrally a
 
 ## Mechanism of action
 
-Guanfacine is a selective alpha2A-adrenergic receptor agonist in that it has 15-20 times higher affinity for this receptor subtype than for the alpha2B or alpha2C subtypes. Guanfacine is a nonstimulant. The  mode of action of guanfacine in ADHD is not fully established. Preclinical research suggests  guanfacine modulates signalling in the prefrontal cortex and basal ganglia through direct modification of synaptic noradrenalin transmission at the alpha2A-adrenergic receptors.
+Guanfacine is a selective alpha2A-adrenergic receptor agonist in that it has 15-20 times higher affinity for this receptor subtype than for the alpha2B or alpha2C subtypes. Guanfacine is a nonstimulant. The mode of action of guanfacine in ADHD is not fully established. Preclinical research suggests guanfacine modulates signalling in the prefrontal cortex and basal ganglia through direct modification of synaptic noradrenalin transmission at the alpha2A-adrenergic receptors.
 
 ## Pharmacodynamic effects
 
@@ -483,9 +471,9 @@ Guanfacine is a known antihypertensive agent. By stimulating alpha2A-adrenergic 
 
 ## Clinical efficacy and safety
 
-The effects of guanfacine in the treatment of ADHD has been examined in 5 controlled studies in children and adolescents (6 to 17 years), 3 short-term controlled trials in children and adolescents aged6 to 17 years, 1 short-term controlled study in adolescents aged 13 to 17 years, and 1 randomised withdrawal trial in children and adolescents aged 6-17 years, all of whom met the DSM-IV-TR criteria  for ADHD. The majority of patients achieved an optimised dose between 0.05-0.12 mg/kg/day.
+The effects of guanfacine in the treatment of ADHD has been examined in 5 controlled studies in children and adolescents (6 to 17 years), 3 short-term controlled trials in children and adolescents aged6 to 17 years, 1 short-term controlled study in adolescents aged 13 to 17 years, and 1 randomised withdrawal trial in children and adolescents aged 6-17 years, all of whom met the DSM-IV-TR criteria for ADHD. The majority of patients achieved an optimised dose between 0.05-0.12 mg/kg/day.
 
-Three hundred and thirty-seven patients aged 6-17 years were evaluated in the pivotal Phase 3 Study SPD503-316, to assess safety and efficacy of once-daily dosing (children:1-4 mg/day, adolescents: 1-7 mg/day). In this 12-week (6-12 years) or 15-week (13-17 years), randomised, double-blind,  parallel-group, placebo- and active-reference (atomoxetine), dose-titration study, guanfacine showed  significantly greater efficacy than placebo on symptoms of ADHD based upon investigator ratings on the ADHD Rating Scale (ADHD-RS). The ADHD Rating Scale is a measure of the core symptoms of  ADHD. The results with respect to the primary endpoint study are presented in Table 5.
+Three hundred and thirty-seven patients aged 6-17 years were evaluated in the pivotal Phase 3 Study SPD503-316, to assess safety and efficacy of once-daily dosing (children:1-4 mg/day, adolescents: 1-7 mg/day). In this 12-week (6-12 years) or 15-week (13-17 years), randomised, double-blind, parallel-group, placebo- and active-reference (atomoxetine), dose-titration study, guanfacine showed significantly greater efficacy than placebo on symptoms of ADHD based upon investigator ratings on the ADHD Rating Scale (ADHD-RS). The ADHD Rating Scale is a measure of the core symptoms of ADHD. The results with respect to the primary endpoint study are presented in Table 5.
 
 Table 5. Summary of primary efficacy for study SPD503-316: ADHD-RS-IV
 
@@ -497,37 +485,37 @@ Table 5. Summary of primary efficacy for study SPD503-316: ADHD-RS-IV
 
 <div style=\"page-break-after: always\"></div>
 
-Results of the secondary endpoints were consistent with that of the primary endpoint. The percentages of subjects who met response criteria (≥30 % reduction from baseline in ADHD-RS-IV Total Score and a CGI-I value of 1 or 2) was 64.3 % for guanfacine, 55.4 % for atomoxetine and 42.3 % for placebo.  Guanfacine also showed significant improvement in learning, school and family functioning as measured with the (WFIRS-P score).
+Results of the secondary endpoints were consistent with that of the primary endpoint. The percentages of subjects who met response criteria (≥30 % reduction from baseline in ADHD-RS-IV Total Score and a CGI-I value of 1 or 2) was 64.3 % for guanfacine, 55.4 % for atomoxetine and 42.3 % for placebo. Guanfacine also showed significant improvement in learning, school and family functioning as measured with the (WFIRS-P score).
 
-In addition a 15-week, double-blind, randomised, placebo-controlled, dose-optimisation study (SPD503-312) conducted in adolescents aged 13-17 years (n=314) to confirm the efficacy, safety, and  tolerability of guanfacine (1-7 mg/day) in the treatment of ADHD. Guanfacine showed a significantly greater improvement in the ADHD-RS-IV total score compared with subjects receiving placebo.
+In addition a 15-week, double-blind, randomised, placebo-controlled, dose-optimisation study (SPD503-312) conducted in adolescents aged 13-17 years (n=314) to confirm the efficacy, safety, and tolerability of guanfacine (1-7 mg/day) in the treatment of ADHD. Guanfacine showed a significantly greater improvement in the ADHD-RS-IV total score compared with subjects receiving placebo.
 
-Guanfacine-treated patients were in statistically significantly better conditions on the functional outcome as measured by the clinical global impression of severity (CGI-S) at endpoint compared to  placebo-treated patients. Superiority (statistical significance) over placebo on the family and school, and learning domains of the WFIRS-P score was not established in this study.
+Guanfacine-treated patients were in statistically significantly better conditions on the functional outcome as measured by the clinical global impression of severity (CGI-S) at endpoint compared to placebo-treated patients. Superiority (statistical significance) over placebo on the family and school, and learning domains of the WFIRS-P score was not established in this study.
 
-Study (SPD503-315) was a 41 week long term maintenance of efficacy study which included an open-label phase (up to 13 weeks) followed by double-blind, placebo-controlled, randomised-withdrawal phase (up to 26 weeks), conducted in paediatric patients (children and adolescents aged 6-17 years old inclusive) (n=526 in the open-label phase and n=315 in the double-blind randomised-withdrawal phase) to assess the efficacy, safety, and tolerability of once-daily dosing with guanfacine (children: 1-4 mg/day, adolescents:1-7 mg/day) in the treatment of  ADHD. Guanfacine was superior to placebo in the long-term maintenance of treatment in children and  adolescents with ADHD as measured by cumulative treatment failures (49.3 % for guanfacine, and 64.9 % for placebo, p=0.006). Treatment failure was defined as a ≥50 % increase in ADHD-RS-IV total  score and a ≥2 point increase in CGI-S score compared to the respective scores at the double-blind  baseline visit. At the end of their double-blind treatment, a significantly larger proportion of subjects in the guanfacine compared with placebo group were normal or borderline mentally ill as measured by the clinical global impression of severity (CGI-S) that includes assessment of functioning. Superiority  (statistical significance) over placebo on the family and school, and learning domains of the WFIRS-P  score was not consistently established in this study.
+Study (SPD503-315) was a 41 week long term maintenance of efficacy study which included an open-label phase (up to 13 weeks) followed by double-blind, placebo-controlled, randomised-withdrawal phase (up to 26 weeks), conducted in paediatric patients (children and adolescents aged 6-17 years old inclusive) (n=526 in the open-label phase and n=315 in the double-blind randomised-withdrawal phase) to assess the efficacy, safety, and tolerability of once-daily dosing with guanfacine (children: 1-4 mg/day, adolescents:1-7 mg/day) in the treatment of ADHD. Guanfacine was superior to placebo in the long-term maintenance of treatment in children and adolescents with ADHD as measured by cumulative treatment failures (49.3 % for guanfacine, and 64.9 % for placebo, p=0.006). Treatment failure was defined as a ≥50 % increase in ADHD-RS-IV total score and a ≥2 point increase in CGI-S score compared to the respective scores at the double-blind baseline visit. At the end of their double-blind treatment, a significantly larger proportion of subjects in the guanfacine compared with placebo group were normal or borderline mentally ill as measured by the clinical global impression of severity (CGI-S) that includes assessment of functioning. Superiority (statistical significance) over placebo on the family and school, and learning domains of the WFIRS-P score was not consistently established in this study.
 
-Similar results for the efficacy of guanfacine in the treatment of ADHD were established in 2 randomised, double-blind, placebo-controlled, fixed-dose (range of 1-4 mg/day) monotherapy trials  in paediatric patients (children and adolescents 6-17 years old inclusive). Studies SPD503-301 and SPD503-304 were 8 and 9 weeks in duration, respectively, both conducted in the United States.  Guanfacine showed significantly greater improvement compared to placebo on the change from baseline to final on treatment assessment in the ADHD Rating Scale (ADHD-RS-IV) score in both studies (placebo-adjusted reduction in LS mean range from 5.4 to 10.0, p&lt;0.02).
+Similar results for the efficacy of guanfacine in the treatment of ADHD were established in 2 randomised, double-blind, placebo-controlled, fixed-dose (range of 1-4 mg/day) monotherapy trials in paediatric patients (children and adolescents 6-17 years old inclusive). Studies SPD503-301 and SPD503-304 were 8 and 9 weeks in duration, respectively, both conducted in the United States. Guanfacine showed significantly greater improvement compared to placebo on the change from baseline to final on treatment assessment in the ADHD Rating Scale (ADHD-RS-IV) score in both studies (placebo-adjusted reduction in LS mean range from 5.4 to 10.0, p&lt;0.02).
 
-Study SPD503-314 was conducted in children aged 6-12 years to assess the efficacy of once daily dosing with guanfacine (1-4 mg) administered either in the morning or the evening. This was a double-blind, randomised, placebo-controlled, dose-optimisation study, 9-weeks in duration conducted  in the United States and Canada. Symptoms of ADHD were evaluated as the change from baseline to  week 8 (final on treatment assessment) in the ADHD Rating Scale (ADHD-RS-IV) total scores.
+Study SPD503-314 was conducted in children aged 6-12 years to assess the efficacy of once daily dosing with guanfacine (1-4 mg) administered either in the morning or the evening. This was a double-blind, randomised, placebo-controlled, dose-optimisation study, 9-weeks in duration conducted in the United States and Canada. Symptoms of ADHD were evaluated as the change from baseline to week 8 (final on treatment assessment) in the ADHD Rating Scale (ADHD-RS-IV) total scores.
 
-Guanfacine showed significantly greater improvement compared to placebo regardless of time (AM or PM) of administration (placebo-adjusted LS mean difference of -9.4 and -9.8 for AM and PM dosing,  respectively, p&lt;0.001).
+Guanfacine showed significantly greater improvement compared to placebo regardless of time (AM or PM) of administration (placebo-adjusted LS mean difference of -9.4 and -9.8 for AM and PM dosing, respectively, p&lt;0.001).
 
 ## Co-administration with psychostimulants
 
-The effect of co-administration with psychostimulants was examined in an add-on study in partial responders to psychostimulants. The study was double-blind, randomised, placebo-controlled, multi-centre, dose-optimisation 9-weeks study. It was designed to evaluate the efficacy and safety of  guanfacine (1, 2, 3, and 4 mg/day) when co-administered with long-acting psychostimulants (amphetamine, lisdexamfetamine, methylphenidate, dexmethylphenidate) in children and adolescents aged 6-17 years with a diagnosis of ADHD and a suboptimal, partial response to psychostimulants. Suboptimal response was defined as an ADHD-RS-IV total score of ≥24 and a CGI-S score ≥3 at  screening and baseline. The primary efficacy assessment was the ADHD-RS-IV total score.
+The effect of co-administration with psychostimulants was examined in an add-on study in partial responders to psychostimulants. The study was double-blind, randomised, placebo-controlled, multi-centre, dose-optimisation 9-weeks study. It was designed to evaluate the efficacy and safety of guanfacine (1, 2, 3, and 4 mg/day) when co-administered with long-acting psychostimulants (amphetamine, lisdexamfetamine, methylphenidate, dexmethylphenidate) in children and adolescents aged 6-17 years with a diagnosis of ADHD and a suboptimal, partial response to psychostimulants. Suboptimal response was defined as an ADHD-RS-IV total score of ≥24 and a CGI-S score ≥3 at screening and baseline. The primary efficacy assessment was the ADHD-RS-IV total score.
 
 <div style=\"page-break-after: always\"></div>
 
-The results showed that patients treated with add-on guanfacine improved more on the ADHD-RS-IV  compared to those treated with add-on placebo (20.7 (12.6) points vs. 15.9 (11.8); difference: 4.9  (95 % CI 2.6, 7.2). No age differences were observed with respect to response to the ADHD-RS-IV.
+The results showed that patients treated with add-on guanfacine improved more on the ADHD-RS-IV compared to those treated with add-on placebo (20.7 (12.6) points vs. 15.9 (11.8); difference: 4.9 (95 % CI 2.6, 7.2). No age differences were observed with respect to response to the ADHD-RS-IV.
 
 ## ADHD with oppositional symptoms study
 
-Study SPD503-307 was a 9-week, double-blind, randomised, placebo-controlled, dose-optimisation  study with guanfacine (1-4 mg/day) conducted in children aged 6-12 years with ADHD and oppositional symptoms (n=217). Oppositional symptoms were evaluated as the change from baseline to endpoint in the Oppositional Subscale of the Conners' Parent Rating Scale-revised Long Form (CPRS-R:L) score. Results show statistically significantly (p≤0.05) greater mean reductions at endpoint from Baseline (indicating improvement) in oppositional subscale of CPRS-R:L scores in the guanfacine group compared to placebo (10.9 points vs. 6.8 for guanfacine vs. placebo, respectively) and the effect size was 0.6 (p&lt;0.001). These reductions represent a percentage reduction of 56 % vs. 33 % for guanfacine vs. placebo, respectively.
+Study SPD503-307 was a 9-week, double-blind, randomised, placebo-controlled, dose-optimisation study with guanfacine (1-4 mg/day) conducted in children aged 6-12 years with ADHD and oppositional symptoms (n=217). Oppositional symptoms were evaluated as the change from baseline to endpoint in the Oppositional Subscale of the Conners' Parent Rating Scale-revised Long Form (CPRS-R:L) score. Results show statistically significantly (p≤0.05) greater mean reductions at endpoint from Baseline (indicating improvement) in oppositional subscale of CPRS-R:L scores in the guanfacine group compared to placebo (10.9 points vs. 6.8 for guanfacine vs. placebo, respectively) and the effect size was 0.6 (p&lt;0.001). These reductions represent a percentage reduction of 56 % vs. 33 % for guanfacine vs. placebo, respectively.
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Guanfacine is readily absorbed, with peak plasma concentrations reached approximately 5 hours after oral administration in paediatric patients (children and adolescents 6-17 years old inclusive). In adults,  the mean exposure of guanfacine increased (Cmax ~75 % and AUC ~40 %) when guanfacine was taken  together with a high fat meal, compared to intake in the fasted state (see section 4.2).
+Guanfacine is readily absorbed, with peak plasma concentrations reached approximately 5 hours after oral administration in paediatric patients (children and adolescents 6-17 years old inclusive). In adults, the mean exposure of guanfacine increased (Cmax ~75 % and AUC ~40 %) when guanfacine was taken together with a high fat meal, compared to intake in the fasted state (see section 4.2).
 
 ## Distribution
 
@@ -535,9 +523,9 @@ Guanfacine is moderately bound to plasma proteins (approximately 70%), independe
 
 ## Biotransformation
 
-Guanfacine is metabolised via CYP3A4/5-mediated oxidation, with subsequent phase II reactions of sulfation and glucuronidation. The major circulating metabolite is 3-OH-guanfacine sulfate which  lacks pharmacological activity.
+Guanfacine is metabolised via CYP3A4/5-mediated oxidation, with subsequent phase II reactions of sulfation and glucuronidation. The major circulating metabolite is 3-OH-guanfacine sulfate which lacks pharmacological activity.
 
-Guanfacine is a substrate of CYP3A4 and CYP3A5, and exposure is affected by CYP3A4 and CYP3A5 inducers and inhibitors. In human hepatic microsomes, guanfacine did not inhibit the activities of the other major cytochrome P450 isoenzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9,  CYP2C19, CYP2D6, CYP3A4 or CYP3A5); guanfacine is also not expected to be an inducer of CYP3A, CYP1A2 and CYP2B6.
+Guanfacine is a substrate of CYP3A4 and CYP3A5, and exposure is affected by CYP3A4 and CYP3A5 inducers and inhibitors. In human hepatic microsomes, guanfacine did not inhibit the activities of the other major cytochrome P450 isoenzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4 or CYP3A5); guanfacine is also not expected to be an inducer of CYP3A, CYP1A2 and CYP2B6.
 
 ## Transporters
 
@@ -547,7 +535,7 @@ Based on in vitro studies, guanfacine is a substrate of OCT1 and OCT2, but not B
 
 <div style=\"page-break-after: always\"></div>
 
-Guanfacine is cleared by the kidneys via filtration and active secretion and the liver. Active renal secretion is mediated via OCT2 transporter. At least 50 % of the clearance of guanfacine is hepatic.  Renal excretion is the major elimination pathway (80 %) with parent active substance accounting for 30 % of the urinary radioactivity. The major urinary metabolites were 3-hydroxy guanfacine  glucuronide, guanfacine dihydrodiol, 3-hydroxy guanfacine sulfate. The elimination half-life of  guanfacine is approximately 18 hours.
+Guanfacine is cleared by the kidneys via filtration and active secretion and the liver. Active renal secretion is mediated via OCT2 transporter. At least 50 % of the clearance of guanfacine is hepatic. Renal excretion is the major elimination pathway (80 %) with parent active substance accounting for 30 % of the urinary radioactivity. The major urinary metabolites were 3-hydroxy guanfacine glucuronide, guanfacine dihydrodiol, 3-hydroxy guanfacine sulfate. The elimination half-life of guanfacine is approximately 18 hours.
 
 The pharmacokinetics of guanfacine is similar in children (aged 6 to 12) and adolescents (aged 13 to 17) ADHD patients, and healthy adult volunteers.
 
@@ -561,23 +549,23 @@ Formal pharmacokinetic studies for race have not been conducted. There is no evi
 
 ## 5.3 Preclinical safety data
 
-No carcinogenic effect of guanfacine was observed in studies of 78 weeks in mice at doses up to 10 mg/kg/day. A significant increase in incidence of adenomas of the pancreatic islet was observed in male rats treated with 5 mg/kg/day guanfacine for 102 weeks but not in female rats. The clinical  relevance is unknown.
+No carcinogenic effect of guanfacine was observed in studies of 78 weeks in mice at doses up to 10 mg/kg/day. A significant increase in incidence of adenomas of the pancreatic islet was observed in male rats treated with 5 mg/kg/day guanfacine for 102 weeks but not in female rats. The clinical relevance is unknown.
 
 Guanfacine was not genotoxic in a variety of test models, including the Ames test and an in vitro chromosomal aberration test.
 
-General toxicity observed in animals (rat, dog) upon treatment with guanfacine included prolongation of uncorrected QT interval (heart), atrophic spleen and decreased white blood cells, affected liver - increased bilirubin and ALT levels included, irritated and inflamed intestines, increased creatinine and blood urea nitrogen levels (kidney), corneal clouding (eye) in rat and mouse only, alveolar macrophage  infiltration &amp; pneumonitis and reduced spermatogenesis.
+General toxicity observed in animals (rat, dog) upon treatment with guanfacine included prolongation of uncorrected QT interval (heart), atrophic spleen and decreased white blood cells, affected liver - increased bilirubin and ALT levels included, irritated and inflamed intestines, increased creatinine and blood urea nitrogen levels (kidney), corneal clouding (eye) in rat and mouse only, alveolar macrophage infiltration &amp; pneumonitis and reduced spermatogenesis.
 
-No adverse effects were observed in a fertility study in female rats at doses up to 22 times the maximum recommended human dose on a mg/m 2  basis.
+No adverse effects were observed in a fertility study in female rats at doses up to 22 times the maximum recommended human dose on a mg/m 2 basis.
 
-Male fertility was affected at 8 mg/kg/day, the lowest dose tested, equivalent of 10.8 times the maximum recommended human dose of 0.12 mg/kg on a mg/m 2  basis. Due to lack of proper toxicokinetic data, comparison to human clinical exposure was not possible.
+Male fertility was affected at 8 mg/kg/day, the lowest dose tested, equivalent of 10.8 times the maximum recommended human dose of 0.12 mg/kg on a mg/m 2 basis. Due to lack of proper toxicokinetic data, comparison to human clinical exposure was not possible.
 
-Guanfacine   showed   embryo   foetal   developmental   toxicity   in   mice   and   rats   (NOAEL 0.5 mg/kg/day)  and in rabbits (NOAEL 3.0 mg/kg/day) in the presence of maternal toxicity. Due to a lack of proper  toxicokinetic data, comparison to human clinical exposure was not possible.
+Guanfacine showed embryo foetal developmental toxicity in mice and rats (NOAEL 0.5 mg/kg/day) and in rabbits (NOAEL 3.0 mg/kg/day) in the presence of maternal toxicity. Due to a lack of proper toxicokinetic data, comparison to human clinical exposure was not possible.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Hypromellose  (2208) Microcrystalline cellulose Silica, colloidal anhydrous Lactose monohydrate Povidone K30 Crospovidone (Type A) Methacrylic acid-ethyl acrylate copolymer (Type A) Sodium laurilsulfate Polysorbate 80 Fumaric acid Glycerol dibehenate
+Hypromellose (2208) Microcrystalline cellulose Silica, colloidal anhydrous Lactose monohydrate Povidone K30 Crospovidone (Type A) Methacrylic acid-ethyl acrylate copolymer (Type A) Sodium laurilsulfate Polysorbate 80 Fumaric acid Glycerol dibehenate
 
 <div style=\"page-break-after: always\"></div>
 
@@ -597,9 +585,9 @@ This medicinal product does not require any special storage conditions.
 
 PVC/PE/PVDC / Aluminium blister
 
-Paxneury 1 mg prolonged-release tablet: Pack size of 28 tablets.
+Paxneury 1 mg prolonged-release tablet: Pack size of 14 or 28 tablets.
 
-Paxneury 2 mg prolonged-release tablet: Pack size of 28 tablets.
+Paxneury 2 mg prolonged-release tablet: Pack size of 14 or 28 tablets.
 
 Paxneury 3 mg prolonged-release tablet: Pack size of 28 tablets.
 
@@ -626,8 +614,10 @@ Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona, 69 08970 Sant Joan Despí Bar
 <div style=\"page-break-after: always\"></div>
 
 ```
-EU/1/24/1908/001 (1 mg x 28 Prolonged-release tablets) EU/1/24/1908/002 (2 mg x 28 Prolonged-release tablets) EU/1/24/1908/003 (3 mg x 28 Prolonged-release tablets) EU/1/24/1908/004 (4 mg x 28 Prolonged-release tablets) EU/1/24/1908/005 (5 mg x 28 Prolonged-release tablets) EU/1/24/1908/006 (6 mg x 28 Prolonged-release tablets) EU/1/24/1908/007 (7 mg x 28 Prolonged-release tablets)
+EU/1/24/1908/001 (1 mg x 28 Prolonged-release tablets) EU/1/24/1908/002 (2 mg x 28 Prolonged-release tablets) EU/1/24/1908/003 (3 mg x 28 Prolonged-release tablets) EU/1/24/1908/004 (4 mg x 28 Prolonged-release tablets) EU/1/24/1908/005 (5 mg x 28 Prolonged-release tablets) EU/1/24/1908/006 (6 mg x 28 Prolonged-release tablets) EU/1/24/1908/007 (7 mg x 28 Prolonged-release tablets) EU/1/24/1908/008 (1 mg x 14 Prolonged-release tablets)
 ```
+
+EU/1/24/1908/009 (2 mg x 14 Prolonged-release tablets)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -643,9 +633,13 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- C. OTHER CONDITIONS AND REQUIREMENTS OF
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## THE MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE
+
+## MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -702,7 +696,7 @@ If the dates for submission of a PSUR and the update of a RMP coincide, they can
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-Carton (28 tablets)
+Carton
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -718,7 +712,11 @@ Also contains lactose. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Prolonged-release tablets 28 prolonged-release tablets
+Prolonged-release tablets
+
+14 prolonged-release tablets
+
+28 prolonged-release tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -744,69 +742,73 @@ EXP
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Neuraxpharm Pharmaceuticals, S.L.
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Avda. Barcelona 69 08970 Sant Joan Despí Barcelona - Spain
+Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona - Spain
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/24/1908/001 (1 mg x 28 Prolonged-release tablets)
 
+EU/1/24/1908/008 (1 mg x 14 Prolonged-release tablets)
+
+## 13. BATCH NUMBER
+
 Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 Paxneury 1 mg
 
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
 SN
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-16. INFORMATION IN BRAILLE
-
-15. INSTRUCTIONS ON USE
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 13. BATCH NUMBER
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
 NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blisters                                              |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Paxneury 1 mg prolonged-release tablets guanfacine
 
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
 Neuraxpharm Pharmaceuticals, S.L.
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
 Lot
 
-## 5. OTHER
-
-## 4. BATCH NUMBER
-
-## 3. EXPIRY DATE
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-Blisters
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-Carton (28 tablets)
+Carton
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -823,6 +825,8 @@ Also contains lactose. See leaflet for further information.
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Prolonged-release tablets
+
+14 prolonged-release tablets
 
 28 prolonged-release tablets
 
@@ -854,33 +858,35 @@ EXP
 
 Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona-Spain
 
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
 EU/1/24/1908/002 (2 mg x 28 Prolonged-release tablets)
+
+EU/1/24/1908/009 (2 mg x 14 Prolonged-release tablets)
+
+## 13. BATCH NUMBER
 
 Lot
 
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
 Paxneury 2 mg
 
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
 SN
 
 NN
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-16. INFORMATION IN BRAILLE
-
-15. INSTRUCTIONS ON USE
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 13. BATCH NUMBER
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -949,67 +955,65 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona-Spain
-
-EU/1/24/1908/003 (3 mg x 28 Prolonged-release tablets)
-
-Lot
-
-Paxneury 3 mg
-
-2D barcode carrying the unique identifier included.
-
-PC SN
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-16. INFORMATION IN BRAILLE
-
-15. INSTRUCTIONS ON USE
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 13. BATCH NUMBER
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona-Spain
 
-<div style=\"page-break-after: always\"></div>
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-NN
+EU/1/24/1908/003 (3 mg x 28 Prolonged-release tablets)
 
-Paxneury 3 mg prolonged-release tablets guanfacine
-
-Neuraxpharm Pharmaceuticals, S.L.
-
-EXP
+## 13. BATCH NUMBER
 
 Lot
 
-## 5. OTHER
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
-## 4. BATCH NUMBER
+Paxneury 3 mg
 
-## 3. EXPIRY DATE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+2D barcode carrying the unique identifier included.
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 Blisters
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Paxneury 3 mg prolonged-release tablets guanfacine
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Neuraxpharm Pharmaceuticals, S.L.
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1057,65 +1061,64 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona-Spain
 
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
 EU/1/24/1908/004 (4 mg x 28 Prolonged-release tablets)
+
+## 13. BATCH NUMBER
 
 Lot
 
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
 Paxneury 4 mg
 
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
 SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-16. INFORMATION IN BRAILLE
-
-15. INSTRUCTIONS ON USE
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 13. BATCH NUMBER
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-Paxneury 4 mg prolonged-release tablets guanfacine
-
-Neuraxpharm Pharmaceuticals, S.L.
-
-EXP
-
-Lot
-
-## 5. OTHER
-
-## 4. BATCH NUMBER
-
-## 3. EXPIRY DATE
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 Blisters
 
-<div style=\"page-break-after: always\"></div>
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Paxneury 4 mg prolonged-release tablets guanfacine
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Neuraxpharm Pharmaceuticals, S.L.
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1167,15 +1170,31 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona-Spain
+Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí
+
+Barcelona-Spain
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/24/1908/005 (5 mg x 28 Prolonged-release tablets)
 
+## 13. BATCH NUMBER
+
 Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 Paxneury 5 mg
 
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -1183,39 +1202,29 @@ SN
 
 NN
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 16. INFORMATION IN BRAILLE
-
-15. INSTRUCTIONS ON USE
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 13. BATCH NUMBER
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blisters                                              |
 
-Blisters
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Paxneury 5 mg prolonged-release tablets guanfacine
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Neuraxpharm Pharmaceuticals, S.L.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1264,7 +1273,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1282,7 +1292,8 @@ EU/1/24/1908/006 (6 mg x 28 Prolonged-release tablets)
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1330,6 +1341,8 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+41
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1376,39 +1389,37 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Neuraxpharm Pharmaceuticals, S.L.
 
 Avda. Barcelona 69 08970 Sant Joan Despí Barcelona-Spain
 
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
 EU/1/24/1908/007 (7 mg x 28 Prolonged-release tablets)
+
+## 13. BATCH NUMBER
 
 Lot
 
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
 Paxneury 7 mg
 
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
 SN
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-16. INFORMATION IN BRAILLE
-
-15. INSTRUCTIONS ON USE
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 13. BATCH NUMBER
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 NN
 
@@ -1441,6 +1452,8 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+44
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
@@ -1449,13 +1462,27 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-Paxneury 1 mg prolonged-release tablets Paxneury 2 mg prolonged-release tablets Paxneury 3 mg prolonged-release tablets Paxneury 4 mg prolonged-release tablets Paxneury5 mg prolonged-release tablets Paxneury 6 mg prolonged-release tablets Paxneury 7 mg prolonged-release tablets guanfacine
+Paxneury 1 mg prolonged-release tablets
+
+Paxneury 2 mg prolonged-release tablets
+
+Paxneury 3 mg prolonged-release tablets
+
+Paxneury 4 mg prolonged-release tablets
+
+Paxneury5 mg prolonged-release tablets
+
+Paxneury 6 mg prolonged-release tablets
+
+Paxneury 7 mg prolonged-release tablets
+
+guanfacine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
 - Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctor, pharmacist or nurse.
-- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them,  even if their signs of illness are the same as yours.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 - This leaflet has been written as though the person taking the medicine is reading it. If you are giving this medicine to your child, please replace 'you' with 'your child' throughout.
 
@@ -1468,7 +1495,9 @@ Paxneury 1 mg prolonged-release tablets Paxneury 2 mg prolonged-release tablets 
 5. How to store Paxneury
 6. Contents of the pack and other information
 
-## 1. What Paxneury is and what it is used for What Paxneury is
+## 1. What Paxneury is and what it is used for
+
+## What Paxneury is
 
 Paxneury contains the active substance guanfacine. This medicine belongs to a group of medicines which affects brain activity. This medicine can help improve your attention, concentration and make you less impulsive and hyperactive.
 
@@ -1484,7 +1513,7 @@ The medicine is given as part of a treatment programme, which usually includes t
 
 ## About ADHD
 
-## People with ADHD find it hard to:
+People with ADHD find it hard to:
 
 - sit still
 
@@ -1498,7 +1527,7 @@ ADHD can cause problems with everyday life. Children and young people with ADHD 
 
 ## Do not take Paxneury if:
 
-- you are allergic to guanfacine or any of the other ingredients of this medicine (listed in  section 6).
+- you are allergic to guanfacine or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -1567,8 +1596,8 @@ If any of the above apply to you or you are not sure, talk to your doctor or pha
 
 ## Paxneury with food, drinks and alcohol
 
-- Do not take this medicine with fatty foods (e.g., high fat breakfast), as it may affect the way this  medicine works.
-- Do not take grapefruit juice with this medicine as it can have an effect on the way this medicine  works.
+- Do not take this medicine with fatty foods (e.g., high fat breakfast), as it may affect the way this medicine works.
+- Do not take grapefruit juice with this medicine as it can have an effect on the way this medicine works.
 - Do not drink alcohol when taking this medicine as it may make you sleepy or drowsy.
 
 ## Pregnancy and breast-feeding
@@ -1629,15 +1658,15 @@ The following effects may happen: low or high blood pressure, slow heart rate, s
 
 If you forget a dose, wait until the next day and take your usual dose.
 
-- If you have missed two or more doses talk to your doctor as you may need to restart Paxneury  with a lower dose.
+- If you have missed two or more doses talk to your doctor as you may need to restart Paxneury with a lower dose.
 - Do not take a double dose to make up for a forgotten dose.
 
 ## If you stop taking Paxneury
 
 Do not stop taking this medicine without first talking to your doctor.
 
-- If you stop taking this medicine your blood pressure and heart rate may increase (see section 4  below).
-- To stop the medicine, your doctor will slowly reduce your Paxneury dose to minimise any side  effects.
+- If you stop taking this medicine your blood pressure and heart rate may increase (see section 4 below).
+- To stop the medicine, your doctor will slowly reduce your Paxneury dose to minimise any side effects.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -1649,7 +1678,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-The  following  serious  side  effects  have  been  reported:  feeling  drowsy  (sedation),  feeling  dizzy (hypotension), slow heart beat (bradycardia), feeling faint or loss of conciousness (syncope), a serious withdrawal side effect of high blood pressure after suddenly stopping Paxneury; symptoms may include headaches, feeling confused, nervousness, agitation, and tremors (hypertensive encephalopathy).
+The following serious side effects have been reported: feeling drowsy (sedation), feeling dizzy (hypotension), slow heart beat (bradycardia), feeling faint or loss of conciousness (syncope), a serious withdrawal side effect of high blood pressure after suddenly stopping Paxneury; symptoms may include headaches, feeling confused, nervousness, agitation, and tremors (hypertensive encephalopathy).
 
 Some of these side effects are more likely to occur at the start of treatment and may disappear as you continue with your treatment, if you experience any of these side effects contact your doctor straight away.
 
@@ -1664,7 +1693,7 @@ Very common (may affect more than 1 in 10 people)
 - headache
 - tummy pain (abdominal pain).
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1748,11 +1777,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - Each 6 mg tablet contains guanfacine hydrochloride equivalent to 6 mg of guanfacine
 - Each 7 mg tablet contains guanfacine hydrochloride equivalent to 7 mg of guanfacine
 
-The other ingredients are Hypromellose (2208), methacrylic acid-ethyl acrylate copolymer (Type A), lactose  monohydrate, povidone K-30, crospovidone (Type A), microcrystalline cellulose, silica colloidal anhydrous, sodium laurilsulfate, polysorbate 80, fumaric acid, glycerol dibehenate.
+The other ingredients are Hypromellose (2208), methacrylic acid-ethyl acrylate copolymer (Type A), lactose monohydrate, povidone K-30, crospovidone (Type A), microcrystalline cellulose, silica colloidal anhydrous, sodium laurilsulfate, polysorbate 80, fumaric acid, glycerol dibehenate.
 
 ## What Paxneury looks like and contents of the pack
 
-Paxneury is a prolonged-release tablet which means that the active substance is released from the tablet over a period of time. The tablets come in pack sizes of 28.
+Paxneury is a prolonged-release tablet which means that the active substance is released from the tablet over a period of time. The tablets come in pack sizes of 14 tablets (Paxneury 1 and 2 mg) and 28 tablets (Paxneury 1, 2, 3, 4, 5, 6 and 7 mg)
 
 - The 1 mg prolonged-release tablets are white, 8 mm diameter round, biconvex tablets with the inscription '1' on one side.
 - The 2 mg prolonged-release tablets are white, 14 x 6 mm oblong, biconvex tablets with the inscription 'II' on one side.
@@ -1834,15 +1863,21 @@ Neuraxpharm Netherlands B.V. Tel.: +31 85 4891 608
 
 ## Norge
 
-Neuraxpharm Sweden AB Tlf:+46 (0)8 30 91 41 (Sverige)
+Neuraxpharm Sweden AB
+
+Tlf:+46 (0)8 30 91 41 (Sverige)
 
 ## Österreich
 
-Neuraxpharm Austria GmbH Tel.: + 43 (0) 2236 320038
+Neuraxpharm Austria GmbH
+
+Tel.: + 43 (0) 2236 320038
 
 ## Polska
 
-Neuraxpharm Polska Sp. z.o.o. Tel.: +48 783 423 453
+Neuraxpharm Polska Sp. z.o.o.
+
+Tel.: +48 783 423 453
 
 ## France
 
@@ -1850,27 +1885,11 @@ Neuraxpharm France
 
 Tél: +33 1.53.62.42.90
 
-## Portugal
-
-Neuraxpharm Portugal, Unipessoal Lda
-
-Tel: +351 910 259 536
-
 ## Hrvatska
 
 Neuraxpharm Pharmaceuticals, S.L.
 
-Teл.:
-
-+34 93 602 24 21
-
-## România
-
-Neuraxpharm Pharmaceuticals, S.L.
-
-Teл.:
-
-+34 93 602 24 21
+Teл.: +34 93 602 24 21
 
 ## Ireland
 
@@ -1878,33 +1897,53 @@ Neuraxpharm Ireland Ltd
 
 Tel: +353 (0)1 428 7777
 
-## Slovenija
-
-Neuraxpharm Pharmaceuticals, S.L.
-
-Teл.:
-
-+34 93 602 24 21
-
 ## Ísland
 
-Neuraxpharm Sweden AB
-
-Sími: +46 (0)8 30 91 41
+Neuraxpharm Sweden AB Sími: +46 (0)8 30 91 41
 
 (Svíþjóð)
-
-## Slovenská republika
-
-Neuraxpharm Slovakia a.s.
-
-Tel: +421 255 425 562
 
 ## Italia
 
 Neuraxpharm Italy S.p.A.
 
 Tel: +39 0736 980619
+
+## Κύπρος
+
+Brain Therapeutics PC
+
+Τηλ: +302109931458
+
+## Latvija
+
+Neuraxpharm Pharmaceuticals, S.L.
+
+Teл.: +34 93 475 96 00
+
+## Portugal
+
+Neuraxpharm Portugal, Unipessoal Lda
+
+Tel: +351 910 259 536
+
+## România
+
+Neuraxpharm Pharmaceuticals, S.L.
+
+Teл.: +34 93 602 24 21
+
+## Slovenija
+
+Neuraxpharm Pharmaceuticals, S.L.
+
+Teл.: +34 93 602 24 21
+
+## Slovenská republika
+
+Neuraxpharm Slovakia a.s.
+
+Tel: +421 255 425 562
 
 ## Suomi/Finland
 
@@ -1914,27 +1953,11 @@ Puh/Tel: +46 (0)8 30 91 41
 
 (Ruotsi/Sverige)
 
-## Κύπρος
-
-Brain Therapeutics PC
-
-Τηλ:
-
-+302109931458
-
 ## Sverige
 
 Neuraxpharm Sweden AB
 
 Tel: +46 (0)8 30 91 41
-
-## Latvija
-
-Neuraxpharm Pharmaceuticals, S.L.
-
-Teл.:
-
-+34 93 475 96 00
 
 ## United Kingdom (Northern Ireland)
 
@@ -1946,4 +1969,4 @@ Tel: +353 (0)1 428 7777
 
 ## This leaflet was last revised in Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency  web site: https://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

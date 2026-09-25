@@ -1,40 +1,41 @@
 ---
-document_datetime: 2025-12-29 12:24:57
+document_datetime: 2026-09-24 16:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nezglyal.html
 document_name: nezglyal.html
 version: success
-processing_time: 0.0688972
-conversion_datetime: 2025-12-30 20:15:37.612421
+processing_time: 0.1338825
+conversion_datetime: 2026-09-25 19:55:01.195843
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Nezglyal
 
-[RSS](/en/individual-human-medicine.xml/230702)
+[RSS](/en/individual-human-medicine.xml/284204)
 
-##### Refused
+Authorised
 
-This medicine has been refused authorisation
+This medicine is authorised for use in the European Union
 
-leriglitazone Medicine Human Refused
+leriglitazone
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
 ## Page contents
 
 - [Overview](#overview)
+- [Product information](#product-info)
 - [Product details](#product-details)
-- [Application details](#authorisation-details)
+- [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Nezglyal](#news-on)
 - [More information on Nezglyal](#related-medicines)
@@ -45,370 +46,633 @@ Page contents
 
 ## Overview
 
-After re-examining its initial opinion, the European Medicines Agency has confirmed its recommendation to refuse marketing authorisation for the medicine Nezglyal. The medicine was intended for the treatment of cerebral adrenoleukodystrophy.
+Nezglyal is a medicine used to treat cerebral adrenoleukodystrophy in boys from 2 to 12 years of age who have mild or no symptoms, based on a neurological functional score of 0 or 1.
 
-Cerebral adrenoleukodystrophy is a form of an inherited disease called adrenoleukodystrophy in which fatty substances known as 'very long chain fatty acids' build up in tissues around the body, mainly in the brain, spinal cord and adrenal glands (two glands situated above the kidneys). In cerebral adrenoleukodystrophy, a build-up of these substances in the brain causes inflammation and destruction of the protective sheath (myelin) that insulates and helps signalling by nerve cells.
+It is used in patients whose brain lesions do not take up the contrast agent gadolinium (Gd-negative lesions) during MRI brain scans, indicating that the disease is in the early stages.
 
-The Agency issued its final opinion after re-examination on 28 May 2024. The Agency had issued its initial opinion on 25 January 2024. The company that applied for authorisation of Nezglyal is Minoryx Therapeutics S.L.
+Cerebral adrenoleukodystrophy is a form of a genetic disease called adrenoleukodystrophy in which fatty substances known as 'very long chain fatty acids' build up in tissues around the body, mainly in the brain, spinal cord and adrenal glands (two glands situated above the kidneys). In cerebral adrenoleukodystrophy, a build-up of these substances in the brain causes inflammation and destruction of the protective sheath (myelin) that insulates and helps signalling by nerve cells.
+
+Cerebral adrenoleukodystrophy is rare and Nezglyal was designated an 'orphan medicine' (a medicine used in rare diseases) on 18 November 2016 for the treatment of adrenoleukodystrophy. Further information on the orphan designation can be found on the EMA [website](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-16-1770) .
+
+Nezglyal contains the active substance leriglitazone.
 
 Expand section
 
 Collapse section
 
-## What is Nezglyal and what was it intended to be used for?
+### How is Nezglyal used?
 
-Nezglyal was developed as a medicine to be used in male adults and children aged 2 years and older with brain lesions (areas of abnormal or damaged tissue), to delay progression of cerebral adrenoleukodystrophy . The medicine contains the active substance leriglitazone and was to be available as a suspension to be taken by mouth.
+Nezglyal can only be obtained with a prescription, and treatment should be started and monitored by a doctor experienced in managing diseases in which cells of the central nervous system stop working or die.
 
-Nezglyal was designated an 'orphan medicine' (a medicine used in rare diseases) on 18 November 2016 for the treatment of adrenoleukodystrophy.
+The medicine is available as a suspension to be taken by mouth once a day. The dose is based on the child's height and weight.
 
-## How does Nezglyal work?
+Before starting Nezglyal and during treatment, the doctor will carry out regular blood tests to check how well the patient's liver is working. They may need to temporarily stop treatment if the tests show problems with the patient's liver function.
 
-The active substance in Nezglyal, leriglitazone, works by attaching to and activating receptors (targets) called 'PPAR gamma receptors', which are found inside cells, including nerve cells. PPAR gamma receptors play a role in regulating the function of mitochondria (energy-producing structures in cells), how cells respond to oxidative stress (damage caused by toxic oxygen-containing molecules known as free radicals) and inflammation. Leriglitazone was therefore expected to protect nerve cells from damage by reducing inflammation, improving the function of mitochondria and protecting against damage from free radicals.
+For more information about using Nezglyal, see the package leaflet or contact your doctor or pharmacist.
 
-## What did the company present to support its application?
+### How does Nezglyal work?
 
-The company presented results from a completed main study involving 116 male adults with adrenoleukodystrophy who either took leriglitazone or placebo (a dummy treatment).
+The active substance in Nezglyal, leriglitazone, works by attaching to and activating receptors (targets) called 'PPAR gamma receptors', which are found inside cells, including nerve cells. PPAR gamma receptors play a role in regulating the function of mitochondria (energy-producing structures in cells), how cells respond to oxidative stress (damage caused by toxic oxygen-containing molecules known as free radicals) and inflammation. Leriglitazone is therefore expected to protect nerve cells from damage by reducing inflammation, improving the function of mitochondria and protecting against damage from free radicals.
 
-In this main study, 27% of patients had cerebral adrenoleukodystrophy at the start of the study. The main measure of effectiveness for adrenoleukodystrophy in this study was the change in the distance patients with the disease could walk in six minutes after 96 weeks of treatment. The study also looked at how often brain lesions occurred and/or worsened over time and the Loes severity score, which measures the severity of the lesions, on an MRI scan.
+### What benefits of Nezglyal have been shown in studies?
 
-The company also provided data from an ongoing study in children with cerebral adrenoleukodystrophy aged from 2 to 12 years and data from patients who received Nezglyal as part of a [compassionate use programme](/human-regulatory-overview/research-development/compassionate-use) .
+A main study involved 23 boys from 2 to 12 years of age with cerebral adrenoleukodystrophy, including those with Gd-positive or Gd-negative brain lesions. All patients received Nezglyal in addition to their standard care and, if eligible, haematopoietic stem cell transplantation (HSCT) at any time during the study. HSCT is a procedure where the patient receives stem cells to help the bone marrow produce healthy blood cells. Nezglyal was not compared with another treatment. After 96 weeks or by the visit before HSCT, disease worsening was arrested (halted) in 35% of patients (7 out of 20 for whom sufficient data had been collected), compared with an expected disease arrest rate of 10% if the disease were left to progress naturally. Most of the patients (6 out of 7) who had disease arrest with Nezglyal had Gd-negative brain lesions at the start of treatment.
 
-## What were the main reasons for refusing the marketing authorisation?
+Studies carried out with Nezglyal are described in more detail in the medicine's assessment report.
 
-During the re-examination, EMA's human medicines committee (CHMP), re-evaluated the available data and assessed the company's responses to its concerns that resulted in the initial refusal, and also consulted a group of experts in neurology.
+### What are the side effects and restrictions with Nezglyal?
 
-The Agency concluded that the main study did not show that Nezglyal was effective in patients with adrenoleukodystrophy, which includes patients with cerebral adrenoleukodystrophy, based on the study's measures of effectiveness. Because of the limited data on patients with cerebral adrenoleukodystrophy, it was not possible to conclude on the benefits of Nezglyal in this group of patients. Moreover, a connection between how the medicine works and clinical progression of adrenoleukodystrophy could not be concluded, and no connection could be established between the dose of Nezglyal and the patients' response to treatment.
+For the full list of side effects and restrictions with Nezglyal, see the package leaflet.
 
-The Agency also concluded that a [conditional authorisation](/human-regulatory-overview/marketing-authorisation/conditional-marketing-authorisation) , as requested by the company, should not be granted, as the applicable requirements are not met. For example, the benefit-risk balance is not positive.
+The most common side effects with Nezglyal (which may affect up to 1 in 10 children) include increased weight, eyelid oedema (swelling due to fluid retention), leucopenia (low levels of white blood cells) and neutropenia (low levels of neutrophils, a type of white blood cell that fights infection).
 
-Therefore, after the re-examination the Agency's concerns were not resolved and the initial refusal was confirmed.
+Nezglyal must not be used by people who have hypersensitivity (an allergy) to thiazolidinedione-containing medicines, which are used to treat type 2 diabetes. It must also not be used by people who have, or have previously had, heart failure.
 
-## Does this refusal affect patients in clinical trials or compassionate use programmes?
+### Why is Nezglyal authorised in the EU?
 
-The company informed the Agency that there are no consequences for patients in clinical trials with Nezglyal. If you are in a clinical trial or compassionate use programme and need more information about your treatment, speak with your clinical trial doctor.
+At the time of approval, there were no authorised medicines to treat patients with Gd-negative cerebral adrenoleukodystrophy, a very rare, rapidly progressing disease. The only potential treatment option for progressive (worsening) cerebral adrenoleukodystrophy (usually with Gd-positive lesions) is HSCT.
 
-Questions and answers on the refusal of the marketing authorisation for Nezglyal (leriglitazone)
+Nezglyal has been shown to be effective at arresting disease progression in children with cerebral adrenoleukodystrophy who have Gd-negative lesions, an early disease stage in which treatment is expected to offer the greatest long-term benefit. In terms of safety, the side effects are considered manageable.
 
-Reference Number: EMA/251627/2024
+In reaching its decision, the European Medicines Agency also considered input from patient organisations and healthcare professional organisations.
 
-English (EN) (118.65 KB - PDF)
+The Agency decided that Nezglyal's benefits are greater than its risks and that it can be authorised for use in the EU.
 
-**First published:** 26/01/2024
+Nezglyal has been authorised under exceptional circumstances. This is because there is a high unmet medical need for the treatment of cerebral adrenoleukodystrophy and it has not been possible to obtain complete information about Nezglyal due to the rarity of the disease. The company must provide further data on Nezglyal. It must submit the results of a study looking at the safety of the medicine as well as the results of a registry-based study on the long-term effectiveness of Nezglyal. The company must also provide yearly updates on any new information about the safety and effectiveness of the medicine. Every year, the Agency will review any new information that becomes available.
 
-**Last updated:** 20/11/2024
+### What measures are being taken to ensure the safe and effective use of Nezglyal?
 
-[View](/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_en.pdf)
+Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Nezglyal have been included in the summary of product characteristics and the package leaflet.
 
-[Other languages (22)](#file-language-dropdown-850)
+As for all medicines, data on the use of Nezglyal are continuously monitored. Suspected side effects reported with Nezglyal are carefully evaluated and any necessary action is taken to protect patients.
 
-български (BG) (134.55 KB - PDF)
+### Other information about Nezglyal
 
-**First published:**
+Nezglyal received a marketing authorisation under exceptional circumstances valid throughout the EU on 21 September 2026.
 
-26/01/2024
+Nezglyal : EPAR - Medicine overview
 
-**Last updated:**
+Reference Number: EMADOC-1700519818-3372419
 
-20/11/2024
+English (EN) (136.85 KB - PDF)
 
-[View](/bg/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_bg.pdf)
+**First published:** 24/09/2026
 
-español (ES) (108.85 KB - PDF)
+[View](/en/documents/overview/nezglyal-epar-medicine-overview_en.pdf)
 
-**First published:**
+[Other languages (22)](#file-language-dropdown-58)
 
-26/01/2024
+български (BG) (143.65 KB - PDF)
 
-**Last updated:**
+**First published:** 24/09/2026
 
-20/11/2024
+[View](/bg/documents/overview/nezglyal-epar-medicine-overview_bg.pdf)
 
-[View](/es/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_es.pdf)
+español (ES) (115.04 KB - PDF)
 
-čeština (CS) (132.17 KB - PDF)
+**First published:** 24/09/2026
 
-**First published:**
+[View](/es/documents/overview/nezglyal-epar-medicine-overview_es.pdf)
 
-26/01/2024
+čeština (CS) (139.22 KB - PDF)
 
-**Last updated:**
+**First published:** 24/09/2026
 
-20/11/2024
+[View](/cs/documents/overview/nezglyal-epar-medicine-overview_cs.pdf)
 
-[View](/cs/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_cs.pdf)
+dansk (DA) (115.68 KB - PDF)
 
-dansk (DA) (109.96 KB - PDF)
+**First published:** 24/09/2026
 
-**First published:**
+[View](/da/documents/overview/nezglyal-epar-medicine-overview_da.pdf)
 
-26/01/2024
+Deutsch (DE) (119.18 KB - PDF)
 
-**Last updated:**
+**First published:** 24/09/2026
 
-20/11/2024
+[View](/de/documents/overview/nezglyal-epar-medicine-overview_de.pdf)
 
-[View](/da/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_da.pdf)
+eesti (ET) (112.62 KB - PDF)
 
-Deutsch (DE) (114.5 KB - PDF)
+**First published:** 24/09/2026
 
-**First published:**
+[View](/et/documents/overview/nezglyal-epar-medicine-overview_et.pdf)
 
-26/01/2024
+ελληνικά (EL) (142.95 KB - PDF)
 
-**Last updated:**
+**First published:** 24/09/2026
 
-20/11/2024
+[View](/el/documents/overview/nezglyal-epar-medicine-overview_el.pdf)
 
-[View](/de/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_de.pdf)
+français (FR) (116.71 KB - PDF)
 
-eesti keel (ET) (107.04 KB - PDF)
+**First published:** 24/09/2026
 
-**First published:**
+[View](/fr/documents/overview/nezglyal-epar-medicine-overview_fr.pdf)
 
-26/01/2024
+hrvatski (HR) (138.88 KB - PDF)
 
-**Last updated:**
+**First published:** 24/09/2026
 
-20/11/2024
+[View](/hr/documents/overview/nezglyal-epar-medicine-overview_hr.pdf)
 
-[View](/et/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_et.pdf)
+italiano (IT) (114.28 KB - PDF)
 
-ελληνικά (EL) (144.17 KB - PDF)
+**First published:** 24/09/2026
 
-**First published:**
+[View](/it/documents/overview/nezglyal-epar-medicine-overview_it.pdf)
 
-26/01/2024
+latviešu (LV) (145.84 KB - PDF)
 
-**Last updated:**
+**First published:** 24/09/2026
 
-20/11/2024
+[View](/lv/documents/overview/nezglyal-epar-medicine-overview_lv.pdf)
 
-[View](/el/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_el.pdf)
+lietuvių (LT) (137.17 KB - PDF)
 
-français (FR) (111.03 KB - PDF)
+**First published:** 24/09/2026
 
-**First published:**
+[View](/lt/documents/overview/nezglyal-epar-medicine-overview_lt.pdf)
 
-26/01/2024
+magyar (HU) (139.22 KB - PDF)
 
-**Last updated:**
+**First published:** 24/09/2026
 
-20/11/2024
+[View](/hu/documents/overview/nezglyal-epar-medicine-overview_hu.pdf)
 
-[View](/fr/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_fr.pdf)
+Malti (MT) (141.55 KB - PDF)
 
-hrvatski (HR) (129.41 KB - PDF)
+**First published:** 24/09/2026
 
-**First published:**
+[View](/mt/documents/overview/nezglyal-epar-medicine-overview_mt.pdf)
 
-26/01/2024
+Nederlands (NL) (116.59 KB - PDF)
 
-**Last updated:**
+**First published:** 24/09/2026
 
-20/11/2024
+[View](/nl/documents/overview/nezglyal-epar-medicine-overview_nl.pdf)
 
-[View](/hr/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_hr.pdf)
+polski (PL) (142.54 KB - PDF)
 
-italiano (IT) (109 KB - PDF)
+**First published:** 24/09/2026
 
-**First published:**
+[View](/pl/documents/overview/nezglyal-epar-medicine-overview_pl.pdf)
 
-26/01/2024
+português (PT) (115.84 KB - PDF)
 
-**Last updated:**
+**First published:** 24/09/2026
 
-20/11/2024
+[View](/pt/documents/overview/nezglyal-epar-medicine-overview_pt.pdf)
 
-[View](/it/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_it.pdf)
+română (RO) (133.81 KB - PDF)
 
-latviešu valoda (LV) (140.66 KB - PDF)
+**First published:** 24/09/2026
 
-**First published:**
+[View](/ro/documents/overview/nezglyal-epar-medicine-overview_ro.pdf)
 
-26/01/2024
+slovenčina (SK) (139.65 KB - PDF)
 
-**Last updated:**
+**First published:** 24/09/2026
 
-20/11/2024
+[View](/sk/documents/overview/nezglyal-epar-medicine-overview_sk.pdf)
 
-[View](/lv/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_lv.pdf)
+slovenščina (SL) (136.87 KB - PDF)
 
-lietuvių kalba (LT) (131.24 KB - PDF)
+**First published:** 24/09/2026
 
-**First published:**
+[View](/sl/documents/overview/nezglyal-epar-medicine-overview_sl.pdf)
 
-26/01/2024
+suomi (FI) (112.79 KB - PDF)
 
-**Last updated:**
+**First published:** 24/09/2026
 
-20/11/2024
+[View](/fi/documents/overview/nezglyal-epar-medicine-overview_fi.pdf)
 
-[View](/lt/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_lt.pdf)
+svenska (SV) (113.61 KB - PDF)
 
-magyar (HU) (132.45 KB - PDF)
+**First published:** 24/09/2026
 
-**First published:**
+[View](/sv/documents/overview/nezglyal-epar-medicine-overview_sv.pdf)
 
-26/01/2024
+Nezglyal : EPAR - Risk management plan
 
-**Last updated:**
+English (EN) (1.09 MB - PDF)
 
-20/11/2024
+**First published:** 24/09/2026
 
-[View](/hu/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_hu.pdf)
+[View](/en/documents/rmp/nezglyal-epar-risk-management-plan_en.pdf)
 
-Malti (MT) (132.23 KB - PDF)
+## Product information
 
-**First published:**
+Nezglyal : EPAR - Product information
 
-26/01/2024
+English (EN) (538.79 KB - PDF)
 
-**Last updated:**
+**First published:** 24/09/2026
 
-20/11/2024
+[View](/en/documents/product-information/nezglyal-epar-product-information_en.pdf)
 
-[View](/mt/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_mt.pdf)
+[Other languages (24)](#file-language-dropdown-627)
 
-Nederlands (NL) (111.68 KB - PDF)
+български (BG) (554.06 KB - PDF)
 
-**First published:**
+**First published:** 24/09/2026
 
-26/01/2024
+[View](/bg/documents/product-information/nezglyal-epar-product-information_bg.pdf)
 
-**Last updated:**
+español (ES) (488.53 KB - PDF)
 
-20/11/2024
+**First published:** 24/09/2026
 
-[View](/nl/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_nl.pdf)
+[View](/es/documents/product-information/nezglyal-epar-product-information_es.pdf)
 
-polski (PL) (133.18 KB - PDF)
+čeština (CS) (512.3 KB - PDF)
 
-**First published:**
+**First published:** 24/09/2026
 
-26/01/2024
+[View](/cs/documents/product-information/nezglyal-epar-product-information_cs.pdf)
 
-**Last updated:**
+dansk (DA) (490.51 KB - PDF)
 
-20/11/2024
+**First published:** 24/09/2026
 
-[View](/pl/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_pl.pdf)
+[View](/da/documents/product-information/nezglyal-epar-product-information_da.pdf)
 
-português (PT) (109.39 KB - PDF)
+Deutsch (DE) (503.88 KB - PDF)
 
-**First published:**
+**First published:** 24/09/2026
 
-26/01/2024
+[View](/de/documents/product-information/nezglyal-epar-product-information_de.pdf)
 
-**Last updated:**
+eesti (ET) (488.56 KB - PDF)
 
-20/11/2024
+**First published:** 24/09/2026
 
-[View](/pt/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_pt.pdf)
+[View](/et/documents/product-information/nezglyal-epar-product-information_et.pdf)
 
-română (RO) (133.7 KB - PDF)
+ελληνικά (EL) (552.99 KB - PDF)
 
-**First published:**
+**First published:** 24/09/2026
 
-26/01/2024
+[View](/el/documents/product-information/nezglyal-epar-product-information_el.pdf)
 
-**Last updated:**
+français (FR) (509.94 KB - PDF)
 
-20/11/2024
+**First published:** 24/09/2026
 
-[View](/ro/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_ro.pdf)
+[View](/fr/documents/product-information/nezglyal-epar-product-information_fr.pdf)
 
-slovenčina (SK) (131.98 KB - PDF)
+hrvatski (HR) (501.83 KB - PDF)
 
-**First published:**
+**First published:** 24/09/2026
 
-26/01/2024
+[View](/hr/documents/product-information/nezglyal-epar-product-information_hr.pdf)
 
-**Last updated:**
+italiano (IT) (508.32 KB - PDF)
 
-20/11/2024
+**First published:** 24/09/2026
 
-[View](/sk/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_sk.pdf)
+[View](/it/documents/product-information/nezglyal-epar-product-information_it.pdf)
 
-slovenščina (SL) (129.82 KB - PDF)
+latviešu (LV) (512.1 KB - PDF)
 
-**First published:**
+**First published:** 24/09/2026
 
-26/01/2024
+[View](/lv/documents/product-information/nezglyal-epar-product-information_lv.pdf)
 
-**Last updated:**
+lietuvių (LT) (487.53 KB - PDF)
 
-20/11/2024
+**First published:** 24/09/2026
 
-[View](/sl/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_sl.pdf)
+[View](/lt/documents/product-information/nezglyal-epar-product-information_lt.pdf)
 
-Suomi (FI) (106.81 KB - PDF)
+magyar (HU) (533.6 KB - PDF)
 
-**First published:**
+**First published:** 24/09/2026
 
-26/01/2024
+[View](/hu/documents/product-information/nezglyal-epar-product-information_hu.pdf)
 
-**Last updated:**
+Malti (MT) (548.15 KB - PDF)
 
-20/11/2024
+**First published:** 24/09/2026
 
-[View](/fi/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_fi.pdf)
+[View](/mt/documents/product-information/nezglyal-epar-product-information_mt.pdf)
 
-svenska (SV) (108.48 KB - PDF)
+Nederlands (NL) (494.35 KB - PDF)
 
-**First published:**
+**First published:** 24/09/2026
 
-26/01/2024
+[View](/nl/documents/product-information/nezglyal-epar-product-information_nl.pdf)
 
-**Last updated:**
+polski (PL) (545.88 KB - PDF)
 
-20/11/2024
+**First published:** 24/09/2026
 
-[View](/sv/documents/smop-initial/questions-answers-refusal-marketing-authorisation-nezglyal-leriglitazone_sv.pdf)
+[View](/pl/documents/product-information/nezglyal-epar-product-information_pl.pdf)
+
+português (PT) (518.43 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/pt/documents/product-information/nezglyal-epar-product-information_pt.pdf)
+
+română (RO) (518.11 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/ro/documents/product-information/nezglyal-epar-product-information_ro.pdf)
+
+slovenčina (SK) (498.24 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/sk/documents/product-information/nezglyal-epar-product-information_sk.pdf)
+
+slovenščina (SL) (531.63 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/sl/documents/product-information/nezglyal-epar-product-information_sl.pdf)
+
+suomi (FI) (485.94 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/fi/documents/product-information/nezglyal-epar-product-information_fi.pdf)
+
+svenska (SV) (483.74 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/sv/documents/product-information/nezglyal-epar-product-information_sv.pdf)
+
+Íslenska (IS) (595.31 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/is/documents/product-information/nezglyal-epar-product-information_is.pdf)
+
+norsk (NO) (517.94 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/no/documents/product-information/nezglyal-epar-product-information_no.pdf)
+
+icon globe
+
+<!-- image -->
+
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
+
+Product information documents contain:
+
+- summary of product characteristics (annex I);
+- manufacturing authorisation holder responsible for batch release (annex IIA);
+- conditions of the marketing authorisation (annex IIB);
+- labelling (annex IIIA);
+- package leaflet (annex IIIB).
+
+Nezglyal : EPAR - All authorised presentations
+
+English (EN) (37.85 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/en/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_en.pdf)
+
+[Other languages (24)](#file-language-dropdown-315)
+
+български (BG) (54.16 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/bg/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_bg.pdf)
+
+español (ES) (39.11 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/es/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_es.pdf)
+
+čeština (CS) (54.28 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/cs/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_cs.pdf)
+
+dansk (DA) (39.49 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/da/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_da.pdf)
+
+Deutsch (DE) (41.6 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/de/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_de.pdf)
+
+eesti (ET) (37.74 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/et/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_et.pdf)
+
+ελληνικά (EL) (45.66 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/el/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_el.pdf)
+
+français (FR) (39.05 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/fr/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_fr.pdf)
+
+hrvatski (HR) (55.37 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/hr/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_hr.pdf)
+
+italiano (IT) (37.9 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/it/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_it.pdf)
+
+latviešu (LV) (55.32 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/lv/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_lv.pdf)
+
+lietuvių (LT) (56.37 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/lt/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_lt.pdf)
+
+magyar (HU) (54.17 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/hu/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_hu.pdf)
+
+Malti (MT) (57.42 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/mt/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_mt.pdf)
+
+Nederlands (NL) (38.75 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/nl/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_nl.pdf)
+
+polski (PL) (48.51 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/pl/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_pl.pdf)
+
+português (PT) (38.92 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/pt/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_pt.pdf)
+
+română (RO) (55.05 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/ro/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_ro.pdf)
+
+slovenčina (SK) (55.45 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/sk/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_sk.pdf)
+
+slovenščina (SL) (54.24 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/sl/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_sl.pdf)
+
+suomi (FI) (35.71 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/fi/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_fi.pdf)
+
+svenska (SV) (38.45 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/sv/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (37.01 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/is/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (39.06 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/no/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
-Name of medicine Nezglyal Active substance leriglitazone hydrochloride International non-proprietary name (INN) or common name leriglitazone Therapeutic area (MeSH) Adrenoleukodystrophy Anatomical therapeutic chemical (ATC) code A16AX23
+- **Name of medicine**
+    - Nezglyal
+- **Active substance**
+    - leriglitazone
+- **International non-proprietary name (INN) or common name**
+    - leriglitazone
+- **Therapeutic area (MeSH)**
+    - Adrenoleukodystrophy
+- **Anatomical therapeutic chemical (ATC) code**
+    - A16AX23
 
 ### Pharmacotherapeutic group
 
 Other alimentary tract and metabolism products
 
-## Application details
+### Therapeutic indication
 
-EMA product number EMEA/H/C/005757
+Nezglyal is indicated for the treatment of Cerebral Adrenoleukodystrophy (cALD) in males with Adrenoleukodystrophy (ALD) aged 2 to 12 years with non Gadolinium (Gd) enhancing lesions (i.e. Gd negative) in brain Magnetic Resonance Imaging (MRI), with a Neurological Functional Score (NFS) of 0 or 1.
 
-Orphan
+## Authorisation details
 
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation applicant Minoryx Therapeutics S.L. Opinion adopted 28/05/2024 Opinion status Negative Refusal of marketing authorisation 22/07/2024
+- **EMA product number**
+    - EMEA/H/C/006693
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Exceptional circumstances**
+    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Minoryx Therapeutics S.L. Carrer d'Ernest Lluch 32  08302 Mataró  Barcelona  Spain  
+- **Opinion adopted**
+    - 23/07/2026
+- **Opinion status**
+    - Positive
+- **Marketing authorisation issued**
+    - 21/09/2026
 
 ## Assessment history
 
-Nezglyal : EPAR - Refusal public assessment report
+### Initial marketing authorisation documents
 
-Adopted
+Nezglyal : Orphan maintenance assessment report
 
-Reference Number: EMA/CHMP/301934/2024
+Adopted Reference Number: EMADOC-1700519818-3358512
 
-English (EN) (3.81 MB - PDF)
+English (EN) (287.73 KB - PDF)
 
-**First published:** 20/11/2024
+**First published:** 24/09/2026
 
-[View](/en/documents/assessment-report/nezglyal-epar-refusal-public-assessment-report_en.pdf)
+[View](/en/documents/orphan-maintenance-report/nezglyal-orphan-maintenance-assessment-report_en.pdf)
 
-#### News on Nezglyal
+Nezglyal : EPAR - Public assessment report
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 February 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-february-2024) 23/02/2024
+Adopted Reference Number: EMADOC-1829012207-63798
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 January 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-january-2024) 26/01/2024
+English (EN) (6.56 MB - PDF)
 
-#### More information on Nezglyal
+**First published:** 24/09/2026
+
+[View](/en/documents/assessment-report/nezglyal-epar-public-assessment-report_en.pdf)
+
+CHMP summary of positive opinion for Nezglyal
+
+Adopted Reference Number: EMADOC-1829012207-57936
+
+English (EN) (158.99 KB - PDF)
+
+**First published:** 24/07/2026
+
+[View](/en/documents/smop-initial/chmp-summary-positive-opinion-nezglyal_en.pdf)
+
+## News on Nezglyal
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2026)
+
+24/07/2026
+
+## More information on Nezglyal
 
 - [EU/3/16/1770 - orphan designation for treatment of adrenoleukodystrophy](/en/medicines/human/orphan-designations/eu-3-16-1770)
 
-**This page was last updated on** 20/11/2024
+**This page was last updated on**
+
+24/09/2026
 
 ## Share this page
-
-[Back to top](#main-content)

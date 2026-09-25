@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:18:33
+document_datetime: 2026-09-22 16:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xarelto.html
 document_name: xarelto.html
 version: success
-processing_time: 0.1602091
-conversion_datetime: 2025-12-30 08:05:30.356112
+processing_time: 0.2187355
+conversion_datetime: 2026-09-25 19:58:09.785122
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Xarelto
 
 [RSS](/en/individual-human-medicine.xml/66822)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-rivaroxaban Medicine Human Authorised
+rivaroxaban
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -41,7 +41,6 @@ Page contents
 - [More information on Xarelto](#more-information-on-xarelto-1436)
 - [Related content](#related-content-795)
 - [More information on Xarelto](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -65,7 +64,7 @@ Expand section
 
 Collapse section
 
-## How is Xarelto used?
+### How is Xarelto used?
 
 Xarelto is available as tablets and granules for making an oral suspension. The dose and duration of treatment with Xarelto depend on what it is being used for and the patient's risk of bleeding. For children, the form, dose and duration of treatment also depend on the patient's age and weight.
 
@@ -73,11 +72,11 @@ Xarelto is given at a lower dose (2.5 mg twice daily) when used in combination w
 
 The medicine can only be obtained with a prescription. For more information about using Xarelto, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Xarelto work?
+### How does Xarelto work?
 
 The active substance in Xarelto, rivaroxaban, is a 'factor Xa inhibitor'. This means that it blocks factor Xa, an enzyme that is involved in the production of thrombin. Thrombin is central to the process of blood clotting. By blocking factor Xa, the levels of thrombin decrease, which reduces the risk of blood clots forming in the veins and arteries, and also treats existing clots.
 
-## What benefits of Xarelto have been shown in studies?
+### What benefits of Xarelto have been shown in studies?
 
 **Treatment and prevention of DVT and pulmonary embolism**
 
@@ -107,7 +106,7 @@ In a study involving around 30,000 patients at high risk of ischaemic events wit
 
 Xarelto was compared with standard-of-care anticoagulation medicines in the prevention of VTE recurrence in children and adolescents aged less than 18 years old with acute VTE. In a study involving 500 patients, 1.2% (4 out of 335) of patients treated with Xarelto had recurrent VTE, compared with 3% (5 out of 165) of those treated with either a heparin medicine or a vitamin K antagonist.
 
-## What are the risks associated with Xarelto?
+### What are the risks associated with Xarelto?
 
 The most common side effects with Xarelto (which may affect up to 1 in 10 people) are bruising and bleeding in various parts of the body, anaemia, dizziness, headache, hypotension (low blood pressure), pain in the stomach and belly, dyspepsia (indigestion), nausea, constipation, diarrhoea, vomiting, pruritus (itching), rash, pain in the arms and legs, decreased kidney function, fever, peripheral oedema (swelling, especially of the ankles and feet), decreased general strength and energy, increased levels of some liver enzymes in the blood and oozing of blood or fluid from a surgical wound.
 
@@ -115,11 +114,11 @@ For the full list of side effects of Xarelto, see the package leaflet.
 
 Xarelto must not be used in patients who are bleeding or in patients who have a liver disease or a condition that increases the risk of bleeding. Xarelto must not be used together with any other anticoagulant medicines, except in specific circumstances. Xarelto must not be used in women who are pregnant or breast-feeding. For the full list of restrictions, see the package leaflet.
 
-## Why is Xarelto authorised in the EU?
+### Why is Xarelto authorised in the EU?
 
 The European Medicines Agency decided that Xarelto's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Xarelto?
+### What measures are being taken to ensure the safe and effective use of Xarelto?
 
 The company that markets Xarelto will provide an educational pack for doctors who prescribe Xarelto, containing important safety information including on the risk of bleeding during treatment with Xarelto and how to manage this risk. In addition, it will provide a patient alert card containing key safety reminders for patients receiving Xarelto.
 
@@ -131,7 +130,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Xarelto are continuously monitored. Side effects reported with Xarelto are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Xarelto
+### Other information about Xarelto
 
 Xarelto received a marketing authorisation valid throughout the EU on 30 September 2008.
 
@@ -141,275 +140,141 @@ Reference Number: EMA/617633/2020
 
 English (EN) (144.84 KB - PDF)
 
-**First published:** 06/05/2009
-
-**Last updated:** 02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/en/documents/overview/xarelto-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-324)
+[Other languages (22)](#file-language-dropdown-773)
 
 български (BG) (183.14 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/bg/documents/overview/xarelto-epar-medicine-overview_bg.pdf)
 
 español (ES) (144.06 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/es/documents/overview/xarelto-epar-medicine-overview_es.pdf)
 
 čeština (CS) (170.79 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/cs/documents/overview/xarelto-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (144.36 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/da/documents/overview/xarelto-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (149.15 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/de/documents/overview/xarelto-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (130.94 KB - PDF)
+eesti (ET) (130.94 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/et/documents/overview/xarelto-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (171.16 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/el/documents/overview/xarelto-epar-medicine-overview_el.pdf)
 
 français (FR) (145.7 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/fr/documents/overview/xarelto-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (169.41 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/hr/documents/overview/xarelto-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (142.27 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/it/documents/overview/xarelto-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (183.08 KB - PDF)
+latviešu (LV) (183.08 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/lv/documents/overview/xarelto-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (167.46 KB - PDF)
+lietuvių (LT) (167.46 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/lt/documents/overview/xarelto-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (170.34 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/hu/documents/overview/xarelto-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (186.61 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/mt/documents/overview/xarelto-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (145.39 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/nl/documents/overview/xarelto-epar-medicine-overview_nl.pdf)
 
 polski (PL) (171.82 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/pl/documents/overview/xarelto-epar-medicine-overview_pl.pdf)
 
 português (PT) (144.4 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/pt/documents/overview/xarelto-epar-medicine-overview_pt.pdf)
 
 română (RO) (166.55 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/ro/documents/overview/xarelto-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (167.48 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/sk/documents/overview/xarelto-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (167.15 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/sl/documents/overview/xarelto-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (140.19 KB - PDF)
+suomi (FI) (140.19 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/fi/documents/overview/xarelto-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (142.57 KB - PDF)
 
-**First published:**
-
-06/05/2009
-
-**Last updated:**
-
-02/02/2021
+**First published:** 06/05/2009 **Last updated:** 02/02/2021
 
 [View](/sv/documents/overview/xarelto-epar-medicine-overview_sv.pdf)
 
@@ -417,9 +282,7 @@ Xarelto : EPAR - Risk-management-plan
 
 English (EN) (2.37 MB - PDF)
 
-**First published:** 06/12/2022
-
-**Last updated:** 03/06/2024
+**First published:** 06/12/2022 **Last updated:** 03/06/2024
 
 [View](/en/documents/rmp/xarelto-epar-risk-management-plan_en.pdf)
 
@@ -427,311 +290,168 @@ English (EN) (2.37 MB - PDF)
 
 Xarelto : EPAR - Product Information
 
-English (EN) (3.94 MB - PDF)
+English (EN) (2.75 MB - PDF)
 
-**First published:** 01/12/2009
-
-**Last updated:** 12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/en/documents/product-information/xarelto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-203)
+[Other languages (24)](#file-language-dropdown-58)
 
-български (BG) (4.4 MB - PDF)
+български (BG) (4.03 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/bg/documents/product-information/xarelto-epar-product-information_bg.pdf)
 
-español (ES) (4.14 MB - PDF)
+español (ES) (3.79 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/es/documents/product-information/xarelto-epar-product-information_es.pdf)
 
-čeština (CS) (4.28 MB - PDF)
+čeština (CS) (3.95 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/cs/documents/product-information/xarelto-epar-product-information_cs.pdf)
 
-dansk (DA) (3.97 MB - PDF)
+dansk (DA) (3.74 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/da/documents/product-information/xarelto-epar-product-information_da.pdf)
 
-Deutsch (DE) (4.3 MB - PDF)
+Deutsch (DE) (3.97 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/de/documents/product-information/xarelto-epar-product-information_de.pdf)
 
-eesti keel (ET) (4.1 MB - PDF)
+eesti (ET) (3.57 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/et/documents/product-information/xarelto-epar-product-information_et.pdf)
 
-ελληνικά (EL) (5.58 MB - PDF)
+ελληνικά (EL) (7.96 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/el/documents/product-information/xarelto-epar-product-information_el.pdf)
 
-français (FR) (4.47 MB - PDF)
+français (FR) (4.18 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/fr/documents/product-information/xarelto-epar-product-information_fr.pdf)
 
-hrvatski (HR) (4.15 MB - PDF)
+hrvatski (HR) (3.6 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/hr/documents/product-information/xarelto-epar-product-information_hr.pdf)
 
-íslenska (IS) (3.97 MB - PDF)
+italiano (IT) (3.74 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
-
-[View](/is/documents/product-information/xarelto-epar-product-information_is.pdf)
-
-italiano (IT) (4.3 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/it/documents/product-information/xarelto-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (4.17 MB - PDF)
+latviešu (LV) (3.76 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/lv/documents/product-information/xarelto-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (4.34 MB - PDF)
+lietuvių (LT) (3.81 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/lt/documents/product-information/xarelto-epar-product-information_lt.pdf)
 
-magyar (HU) (4.46 MB - PDF)
+magyar (HU) (4.18 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/hu/documents/product-information/xarelto-epar-product-information_hu.pdf)
 
-Malti (MT) (4.49 MB - PDF)
+Malti (MT) (4.63 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/mt/documents/product-information/xarelto-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.94 MB - PDF)
+Nederlands (NL) (3.76 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/nl/documents/product-information/xarelto-epar-product-information_nl.pdf)
 
-norsk (NO) (3.88 MB - PDF)
+polski (PL) (3.9 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
-
-[View](/no/documents/product-information/xarelto-epar-product-information_no.pdf)
-
-polski (PL) (4.34 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/pl/documents/product-information/xarelto-epar-product-information_pl.pdf)
 
-português (PT) (3.96 MB - PDF)
+português (PT) (3.76 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/pt/documents/product-information/xarelto-epar-product-information_pt.pdf)
 
-română (RO) (4.38 MB - PDF)
+română (RO) (4.05 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/ro/documents/product-information/xarelto-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.53 MB - PDF)
+slovenčina (SK) (4.29 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/sk/documents/product-information/xarelto-epar-product-information_sk.pdf)
 
-slovenščina (SL) (4.3 MB - PDF)
+slovenščina (SL) (3.95 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/sl/documents/product-information/xarelto-epar-product-information_sl.pdf)
 
-Suomi (FI) (4.15 MB - PDF)
+suomi (FI) (3.96 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/fi/documents/product-information/xarelto-epar-product-information_fi.pdf)
 
-svenska (SV) (3.81 MB - PDF)
+svenska (SV) (3.46 MB - PDF)
 
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-12/09/2024
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
 
 [View](/sv/documents/product-information/xarelto-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0111 09/09/2024
+Íslenska (IS) (3.47 MB - PDF)
+
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
+
+[View](/is/documents/product-information/xarelto-epar-product-information_is.pdf)
+
+norsk (NO) (3.47 MB - PDF)
+
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
+
+[View](/no/documents/product-information/xarelto-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000369601
+
+22/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -743,303 +463,157 @@ Product information documents contain:
 
 Xarelto : EPAR - All Authorised presentations
 
-English (EN) (122.26 KB - PDF)
+English (EN) (47.6 KB - PDF)
 
-**First published:** 10/11/2008
-
-**Last updated:** 02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/en/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-571)
+[Other languages (24)](#file-language-dropdown-137)
 
-български (BG) (69.32 KB - PDF)
+български (BG) (125.06 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/bg/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (129.69 KB - PDF)
+español (ES) (56.24 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/es/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (130.52 KB - PDF)
+čeština (CS) (91.75 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/cs/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (13.85 KB - PDF)
+dansk (DA) (46.64 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/da/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (74.78 KB - PDF)
+Deutsch (DE) (48.14 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/de/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (99.55 KB - PDF)
+eesti (ET) (84.74 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/et/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (146.14 KB - PDF)
+ελληνικά (EL) (94.17 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/el/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (120.94 KB - PDF)
+français (FR) (94.81 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/fr/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (134.29 KB - PDF)
+hrvatski (HR) (82.99 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/hr/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (112.77 KB - PDF)
+italiano (IT) (57.51 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
-
-[View](/is/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (93.71 KB - PDF)
-
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/it/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (162.96 KB - PDF)
+latviešu (LV) (99.71 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/lv/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (121.78 KB - PDF)
+lietuvių (LT) (101.57 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/lt/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (157.16 KB - PDF)
+magyar (HU) (102.55 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/hu/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (151.56 KB - PDF)
+Malti (MT) (100.07 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/mt/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (120.01 KB - PDF)
+Nederlands (NL) (73.96 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/nl/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (16.96 KB - PDF)
+polski (PL) (95.01 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
-
-[View](/no/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (138.66 KB - PDF)
-
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/pl/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (133.51 KB - PDF)
+português (PT) (63.3 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/pt/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (121.23 KB - PDF)
+română (RO) (88.93 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/ro/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (138.95 KB - PDF)
+slovenčina (SK) (98.09 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/sk/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (109.15 KB - PDF)
+slovenščina (SL) (98.9 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/sl/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (80.48 KB - PDF)
+suomi (FI) (49.23 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/fi/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (20.55 KB - PDF)
+svenska (SV) (55.7 KB - PDF)
 
-**First published:**
-
-10/11/2008
-
-**Last updated:**
-
-02/02/2021
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
 
 [View](/sv/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (50.35 KB - PDF)
+
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
+
+[View](/is/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (47.58 KB - PDF)
+
+**First published:** 10/11/2008 **Last updated:** 22/09/2026
+
+[View](/no/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_no.pdf)
 
 Xarelto : EPAR - Conditions imposed on member states for safe and effective use
 
@@ -1047,298 +621,163 @@ Adopted
 
 English (EN) (52.73 KB - PDF)
 
-**First published:** 01/01/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
-**Last updated:** 08/02/2012
+[View](/en/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-effective-use_en.pdf)
 
-[View](/en/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
-
-[Other languages (23)](#file-language-dropdown-276)
+[Other languages (23)](#file-language-dropdown-229)
 
 български (BG) (83.07 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/bg/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_bg.pdf)
 
 español (ES) (33.12 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/es/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_es.pdf)
 
 čeština (CS) (70.13 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/cs/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_cs.pdf)
 
 dansk (DA) (33.02 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/da/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_da.pdf)
 
 Deutsch (DE) (39.28 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/de/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_de.pdf)
 
-eesti keel (ET) (23.86 KB - PDF)
+eesti (ET) (23.86 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/et/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_et.pdf)
 
 ελληνικά (EL) (70.89 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/el/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_el.pdf)
 
 français (FR) (36.03 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/fr/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_fr.pdf)
 
-íslenska (IS) (35.67 KB - PDF)
-
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
-
-[View](/is/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf)
-
 italiano (IT) (33.47 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/it/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_it.pdf)
 
-latviešu valoda (LV) (56.31 KB - PDF)
+latviešu (LV) (56.31 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/lv/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_lv.pdf)
 
-lietuvių kalba (LT) (60.15 KB - PDF)
+lietuvių (LT) (60.15 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/lt/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_lt.pdf)
 
 magyar (HU) (44.42 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/hu/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_hu.pdf)
 
 Malti (MT) (70.23 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/mt/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_mt.pdf)
 
 Nederlands (NL) (34.6 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/nl/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_nl.pdf)
 
-norsk (NO) (33.03 KB - PDF)
-
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
-
-[View](/no/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf)
-
 polski (PL) (57.17 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/pl/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_pl.pdf)
 
 português (PT) (35.93 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/pt/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_pt.pdf)
 
 română (RO) (67.92 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/ro/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_ro.pdf)
 
 slovenčina (SK) (61.07 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/sk/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_sk.pdf)
 
 slovenščina (SL) (54.23 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/sl/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_sl.pdf)
 
-Suomi (FI) (43.66 KB - PDF)
+suomi (FI) (43.66 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/fi/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_fi.pdf)
 
 svenska (SV) (34.43 KB - PDF)
 
-**First published:**
-
-01/01/2012
-
-**Last updated:**
-
-08/02/2012
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
 
 [View](/sv/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_sv.pdf)
 
+Íslenska (IS) (35.67 KB - PDF)
+
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
+
+[View](/is/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf)
+
+norsk (NO) (33.03 KB - PDF)
+
+**First published:** 01/01/2012 **Last updated:** 08/02/2012
+
+[View](/no/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf)
+
 ## Product details
 
-Name of medicine Xarelto Active substance rivaroxaban International non-proprietary name (INN) or common name rivaroxaban Therapeutic area (MeSH)
-
-- Arthroplasty, Replacement
-- Venous Thromboembolism
-
-Anatomical therapeutic chemical (ATC) code B01AF01
+- **Name of medicine**
+    - Xarelto
+- **Active substance**
+    - rivaroxaban
+- **International non-proprietary name (INN) or common name**
+    - rivaroxaban
+- **Therapeutic area (MeSH)**
+        - Arthroplasty, Replacement
+        - Venous Thromboembolism
+- **Anatomical therapeutic chemical (ATC) code**
+    - B01AF01
 
 ### Pharmacotherapeutic group
 
@@ -1368,13 +807,16 @@ Treatment of venous thromboembolism (VTE) and prevention of VTE recurrence in ch
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000944 Marketing authorisation holder
-
-Bayer AG
-
-51368 Leverkusen Germany
-
-Opinion adopted 24/07/2008 Marketing authorisation issued 30/09/2008 Revision 42
+- **EMA product number**
+    - EMEA/H/C/000944
+- **Marketing authorisation holder**
+    - Bayer AG 51368 Leverkusen  Germany
+- **Opinion adopted**
+    - 24/07/2008
+- **Marketing authorisation issued**
+    - 30/09/2008
+- **Revision**
+    - 43
 
 ## Assessment history
 
@@ -1382,17 +824,23 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Xarelto : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (286.19 KB - PDF)
+English (EN) (147.83 KB - PDF)
 
-**First published:** 01/12/2009
-
-**Last updated:** 12/09/2024
+**First published:** 22/09/2026
 
 [View](/en/documents/procedural-steps-after/xarelto-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Xarelto : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (286.19 KB - PDF)
+
+**First published:** 01/12/2009 **Last updated:** 22/09/2026
+
+[View](/en/documents/procedural-steps-after/xarelto-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Xarelto-H-C-PSUSA-00002653-202209 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1402,13 +850,11 @@ English (EN) (119.83 KB - PDF)
 
 **First published:** 02/08/2023
 
-[View](/en/documents/scientific-conclusion/xarelto-h-c-psusa-00002653-202209-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/xarelto-h-c-psusa-00002653-202209-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Xarelto-H-C-000944-P46-050 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMEA/214680/2021
+Adopted Reference Number: EMEA/214680/2021
 
 English (EN) (2.26 MB - PDF)
 
@@ -1418,15 +864,13 @@ English (EN) (2.26 MB - PDF)
 
 Xarelto-H-C-PSR-S-0027 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/940159/2022
+Adopted Reference Number: EMA/940159/2022
 
 English (EN) (120.69 KB - PDF)
 
 **First published:** 14/12/2022
 
-[View](/en/documents/scientific-conclusion/xarelto-h-c-psr-s-0027-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/xarelto-h-c-psr-s-0027-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Xarelto : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
 
@@ -1440,21 +884,17 @@ English (EN) (106.48 KB - PDF)
 
 Xarelto-H-C-PSUSA-00002653-202009 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/346994/2021
+Adopted Reference Number: EMA/346994/2021
 
 English (EN) (125.15 KB - PDF)
 
 **First published:** 13/07/2021
 
-[View](/en/documents/scientific-conclusion/xarelto-h-c-psusa-00002653-202009-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/xarelto-h-c-psusa-00002653-202009-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Xarelto-H-C-944-X-0074-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/647126/2020
+Adopted Reference Number: EMA/647126/2020
 
 English (EN) (3.74 MB - PDF)
 
@@ -1464,43 +904,31 @@ English (EN) (3.74 MB - PDF)
 
 Xarelto-H-C-944-II-0058 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/556022/2018
+Adopted Reference Number: EMA/556022/2018
 
 English (EN) (2.4 MB - PDF)
 
-**First published:** 06/09/2018
-
-**Last updated:** 06/09/2018
+**First published:** 06/09/2018 **Last updated:** 06/09/2018
 
 [View](/en/documents/variation-report/xarelto-h-c-944-ii-0058-epar-assessment-report-variation_en.pdf)
 
 Xarelto-H-C-000944-P46-042 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/77663/2018
+Adopted Reference Number: EMA/77663/2018
 
 English (EN) (1.81 MB - PDF)
 
-**First published:** 27/07/2018
-
-**Last updated:** 27/07/2018
+**First published:** 27/07/2018 **Last updated:** 27/07/2018
 
 [View](/en/documents/variation-report/xarelto-h-c-000944-p46-042-epar-assessment-report_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Xarelto (II-58)
 
-Adopted
-
-Reference Number: EMA/CHMP/515065/2018
+Adopted Reference Number: EMA/CHMP/515065/2018
 
 English (EN) (83.88 KB - PDF)
 
-**First published:** 27/07/2018
-
-**Last updated:** 27/07/2018
+**First published:** 27/07/2018 **Last updated:** 27/07/2018
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-xarelto-ii-58_en.pdf)
 
@@ -1510,11 +938,9 @@ Reference Number: EMA/497511/2018
 
 English (EN) (70.76 KB - PDF)
 
-**First published:** 19/07/2018
+**First published:** 19/07/2018 **Last updated:** 19/07/2018
 
-**Last updated:** 19/07/2018
-
-[View](/en/documents/scientific-conclusion/xarelto-h-c-psusa-00002653-201709-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/xarelto-h-c-psusa-00002653-201709-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Xarelto-H-C-PSUSA-00002653-201609 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1522,189 +948,159 @@ Reference Number: EMA/416305/2017
 
 English (EN) (68.5 KB - PDF)
 
-**First published:** 30/06/2017
+**First published:** 30/06/2017 **Last updated:** 30/06/2017
 
-**Last updated:** 30/06/2017
-
-[View](/en/documents/scientific-conclusion/xarelto-h-c-psusa-00002653-201609-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/xarelto-h-c-psusa-00002653-201609-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Xarelto-H-C-944-LEG-0037 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/87883/2016
+Adopted Reference Number: EMA/CHMP/87883/2016
 
 English (EN) (3.73 MB - PDF)
 
-**First published:** 10/02/2016
-
-**Last updated:** 10/02/2016
+**First published:** 10/02/2016 **Last updated:** 10/02/2016
 
 [View](/en/documents/variation-report/xarelto-h-c-944-leg-0037-epar-assessment-report-variation_en.pdf)
 
 Xarelto-H-C-944-II-0023: EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/380964/2013
+Adopted Reference Number: EMA/380964/2013
 
 English (EN) (121.89 KB - PDF)
 
-**First published:** 11/10/2013
-
-**Last updated:** 11/10/2013
+**First published:** 11/10/2013 **Last updated:** 11/10/2013
 
 [View](/en/documents/variation-report/xarelto-h-c-944-ii-0023-epar-assessment-report-variation_en.pdf)
 
 Xarelto-H-C-944-X-0017 : EPAR - Assessment Report - Extension
 
-Adopted
-
-Reference Number: EMA/CHMP/794349/2012
+Adopted Reference Number: EMA/CHMP/794349/2012
 
 English (EN) (2.34 MB - PDF)
 
-**First published:** 24/06/2013
-
-**Last updated:** 24/06/2013
+**First published:** 24/06/2013 **Last updated:** 24/06/2013
 
 [View](/en/documents/variation-report/xarelto-h-c-944-x-0017-epar-assessment-report-extension_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Xarelto
 
-Adopted
-
-Reference Number: MA/CHMP/183242/2013
+Adopted Reference Number: MA/CHMP/183242/2013
 
 English (EN) (72.41 KB - PDF)
 
-**First published:** 22/03/2013
-
-**Last updated:** 22/03/2013
+**First published:** 22/03/2013 **Last updated:** 22/03/2013
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-xarelto_en.pdf-0)
 
 Xarelto-H-C-944-II-0018 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/56019/2013
+Adopted Reference Number: EMA/56019/2013
 
 English (EN) (1.67 MB - PDF)
 
-**First published:** 05/02/2013
-
-**Last updated:** 05/02/2013
+**First published:** 05/02/2013 **Last updated:** 05/02/2013
 
 [View](/en/documents/variation-report/xarelto-h-c-944-ii-0018-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Xarelto
 
-Adopted
-
-Reference Number: EMA/CHMP/676157/2012
+Adopted Reference Number: EMA/CHMP/676157/2012
 
 English (EN) (70.62 KB - PDF)
 
-**First published:** 19/10/2012
-
-**Last updated:** 19/10/2012
+**First published:** 19/10/2012 **Last updated:** 19/10/2012
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-xarelto_en.pdf-1)
 
 Xarelto-H-C-944-X-0010 : EPAR - Assessment Report - Extension
 
-Adopted
-
-Reference Number: EMA/CHMP/301607/2011
+Adopted Reference Number: EMA/CHMP/301607/2011
 
 English (EN) (816.5 KB - PDF)
 
-**First published:** 20/01/2012
-
-**Last updated:** 20/01/2012
+**First published:** 20/01/2012 **Last updated:** 20/01/2012
 
 [View](/en/documents/variation-report/xarelto-h-c-944-x-0010-epar-assessment-report-extension_en.pdf)
 
 Xarelto-H-C-944-II-0012 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/42547/2012
+Adopted Reference Number: EMA/42547/2012
 
 English (EN) (1.81 MB - PDF)
 
-**First published:** 20/01/2012
-
-**Last updated:** 20/01/2012
+**First published:** 20/01/2012 **Last updated:** 20/01/2012
 
 [View](/en/documents/variation-report/xarelto-h-c-944-ii-0012-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Xarelto
 
-Adopted
-
-Reference Number: EMA/CHMP/753436/2011
+Adopted Reference Number: EMA/CHMP/753436/2011
 
 English (EN) (81.97 KB - PDF)
 
-**First published:** 23/09/2011
-
-**Last updated:** 23/09/2011
+**First published:** 23/09/2011 **Last updated:** 23/09/2011
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-xarelto_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Xarelto : EPAR - Public assessment report
 
 English (EN) (715.9 KB - PDF)
 
-**First published:** 10/11/2008
-
-**Last updated:** 10/11/2008
+**First published:** 10/11/2008 **Last updated:** 10/11/2008
 
 [View](/en/documents/assessment-report/xarelto-epar-public-assessment-report_en.pdf)
 
-Committee for medicinal products for human use  summary of positive opinion  for Xarelto
+Committee for medicinal products for human use summary of positive opinion for Xarelto
 
 Reference Number: EMEA/CHMP/357818/2008
 
 English (EN) (32.38 KB - PDF)
 
-**First published:** 24/07/2008
-
-**Last updated:** 24/07/2008
+**First published:** 24/07/2008 **Last updated:** 24/07/2008
 
 [View](/en/documents/smop-initial/committee-medicinal-products-human-use-summary-positive-opinion-xarelto_en.pdf)
 
-#### News on Xarelto
+## News on Xarelto
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 November 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2020) 13/11/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 November 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2020)
 
-[No change is needed in use of direct oral anticoagulants following EMA-funded study](/en/news/no-change-needed-use-direct-oral-anticoagulants-following-ema-funded-study) 27/03/2020
+13/11/2020
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
+[No change is needed in use of direct oral anticoagulants following EMA-funded study](/en/news/no-change-needed-use-direct-oral-anticoagulants-following-ema-funded-study)
 
-[EMA concludes defective device in ROCKET study does not impact Xarelto's safety](/en/news/ema-concludes-defective-device-rocket-study-does-not-impact-xareltos-safety) 05/02/2016
+27/03/2020
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 December 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-december-2015) 18/12/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 March 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-march-2013) 22/03/2013
+27/07/2018
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 October 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-october-2012) 19/10/2012
+[EMA concludes defective device in ROCKET study does not impact Xarelto's safety](/en/news/ema-concludes-defective-device-rocket-study-does-not-impact-xareltos-safety)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 September 2011](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-september-2011) 23/09/2011
+05/02/2016
 
-#### More information on Xarelto
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 December 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-december-2015)
+
+18/12/2015
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 March 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-march-2013)
+
+22/03/2013
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 October 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-october-2012)
+
+19/10/2012
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 September 2011](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-september-2011)
+
+23/09/2011
+
+## More information on Xarelto
 
 No change is needed in use of direct oral anticoagulants following EMA-funded study
 
 Reference Number: EMA/94424/2020
-
-Summary:
-
-No change to the conditions of use of the direct oral anticoagulants Eliquis (apixaban), Pradaxa (dabigatran etexilate) and Xarelto (rivaroxaban) is needed following a review of the results of a European study of real-world data for these medicines.
 
 English (EN) (160.71 KB - PDF)
 
@@ -1712,13 +1108,14 @@ English (EN) (160.71 KB - PDF)
 
 [View](/en/documents/opinion-any-scientific-matter/no-change-needed-use-direct-oral-anticoagulants-following-ema-funded-study_en.pdf)
 
-#### Related content
+## Related content
 
 - [Direct oral anticoagulants (DOACs) - Article 5(3) opinion](/en/human-regulatory-overview/post-authorisation/referral-procedures-human-medicines/article-53-opinions-any-scientific-matter-human-medicines)
 
-#### More information on Xarelto
+## More information on Xarelto
 
 - [EMEA-000430-PIP01-08-M11 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000430-pip01-08-m11)
+- [Xarelto Paediatric VTE PASS Drug Utilization Study: An observational, longitudinal, multi-source drug utilization safety study to evaluate the drug use patterns and safety of rivaroxaban oral suspension in children under two years with venous thromboembolism (XAPAEDUS) - post-authorisation study](https://catalogues.ema.europa.eu/study/104927)
 - [Treatment Patterns of newly initiated oral anticoagulants on Japanese non-vascular atrial fibrillation patients using a Japanese claims database - post-authorisation study](https://catalogues.ema.europa.eu/study/16393)
 - [Safety and Effectiveness of Rivaroxaban and Apixaban compared to warfarin in non-valvular atrial fibrillation patients in the routine clinical practice in the UK (SiERRA UK) - post-authorisation study](https://catalogues.ema.europa.eu/study/43877)
 - [A pharmacoepidemiological study of Rivaroxaban use and potential adverse outcomes in routine clinical pratice in Germany - post-authorisation study](https://catalogues.ema.europa.eu/study/43353)
@@ -1736,12 +1133,8 @@ English (EN) (160.71 KB - PDF)
 - [Comparative risk of major bleeding with new oral anticoagulants (NOACs) and Phenprocoumon in patients with atrial fibrillation: a retrospective claims database study in Germany (CARBOS) - post-authorisation study](https://catalogues.ema.europa.eu/study/16728)
 - [Oral Anticoagulant Use in Patients with Non Valvular Atrial Fibrillation: Analysis of Electronic Medical Record Data - post-authorisation study](https://catalogues.ema.europa.eu/study/17685)
 
-#### Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 12/09/2024
+22/09/2026
 
 ## Share this page
-
-[Back to top](#main-content)
